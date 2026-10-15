@@ -315,13 +315,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2808",
       "family_ref": "A-2808",
-      "bundle_name": "Where Forbidden Smear Meeting Parody Bundle",
+      "bundle_name": "Wear Forbidden Smear Meeting Parody Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2808.1",
           "ref": "A-2808.1",
-          "description": "Parody video from Where Forbidden played on air showing a mock strategy meeting inventing smears about Candace",
+          "description": "Parody video from Wear Forbidden played on air showing a mock strategy meeting inventing smears about Candace",
           "related_claims": [
             "C-6349"
           ],
@@ -1346,7 +1346,7 @@
       "@type": "Organization",
       "@id": "N-11091",
       "ref": "N-11091",
-      "name": "Where Forbidden",
+      "name": "Wear Forbidden",
       "type": "organization",
       "description": "Account whose parody video of a smear strategy meeting the host plays at the end of the episode.",
       "related_artifacts": [],
@@ -2937,8 +2937,8 @@
       "@type": "Claim",
       "@id": "C-6349",
       "ref": "C-6349",
-      "label": "Host Plays Where Forbidden Parody Showing Smear Ideas Like an Underground Casino and Lizard Person",
-      "claim": "The host plays a parody video from Where Forbidden in which a strategy meeting says they cannot beat Candace on the facts and proposes smears such as an underground casino, lizard person and joining ISIS.",
+      "label": "Host Plays Wear Forbidden Parody Showing Smear Ideas Like an Underground Casino and Lizard Person",
+      "claim": "The host plays a parody video from Wear Forbidden in which a strategy meeting says they cannot beat Candace on the facts and proposes smears such as an underground casino, lizard person and joining ISIS.",
       "anchored_artifacts": [
         "A-2808.1"
       ],
@@ -2947,7 +2947,7 @@
       ],
       "tags": [],
       "claim_timestamp": "01:05:52",
-      "investigative_direction": "Identify the Where Forbidden account, the video's date and its creator.",
+      "investigative_direction": "Identify the Wear Forbidden account, the video's date and its creator.",
       "transcript_snippet": "We'll tell everyone she runs an underground casino.",
       "mentions_person_refs": [
         "N-3"

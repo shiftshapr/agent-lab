@@ -656,7 +656,7 @@ Fort Huachuca witness whom the host says she is now leaning toward believing.
 
 ---
 
-**N-438** Johnny Moore
+**N-438** Johnnie Moore
 
 Named by the host as the link between Kairos and Mark Burnett.
 

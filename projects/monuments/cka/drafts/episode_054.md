@@ -829,7 +829,7 @@ Listed by the host as a Liberty University graduate.
 
 ---
 
-**N-438** Johnny Moore
+**N-438** Johnnie Moore
 
 Former Liberty pastor and Kairos Company head; the host discusses his Gaza Humanitarian Fund role.
 

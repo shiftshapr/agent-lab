@@ -953,7 +953,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-438** Johnny Moore
+**N-438** Johnnie Moore
 
 Existing node reused for new claims in this episode.
 
@@ -1124,7 +1124,7 @@ Investigative Direction: Obtain the original Shady Lady Katie post via X/Twitter
 
 Claim Timestamp: 00:19:12–00:20:10
 
-Claim: Members of the "Protecting Mrs. Kirk" group chat shared Candace Owens' home address within the chat.
+Claim: In a post by Shady Lady Katie that the host reads, members of the 'Protecting Mrs. Kirk' group chat were sharing information, background checks and reporting accounts, and even shared Candace's home address in the chat.
 
 Anchored Artifacts: A-2246.1, A-2246.2
 Mentions: N-3
@@ -1142,7 +1142,7 @@ Claim Timestamp: 00:13:35–00:14:00
 Claim: The host says the phone of Lance (referenced in the Tyler Robinson preliminary-hearing record) was photographed by police with damage in the top-left corner of the screen at the location where the device's status-bar timestamp would appear.
 
 Anchored Artifacts: A-2247.1
-Mentions: N-40
+Mentions: N-40, N-54
 
 Related Nodes: N-10782, N-10783
 
@@ -1157,7 +1157,7 @@ Claim Timestamp: 00:23:50–00:25:45
 Claim: The host says footage shows Nate Walker in a bright blue shirt with his bag speaking with Dan Flood at about 12:15, then upstairs near the Hall of Flags walkway at about 12:25 without his bag, putting on sunglasses, and about two minutes later walking downstairs.
 
 Anchored Artifacts: A-2248.1, A-2248.2, A-2248.3
-Mentions: N-1, N-271, N-505
+Mentions: N-271, N-505
 
 Related Nodes: N-10781
 
@@ -1169,9 +1169,10 @@ Investigative Direction: Obtain original venue surveillance footage with verifie
 
 Claim Timestamp: 00:36:50–00:37:30
 
-Claim: Miami-Dade Sheriff's Office deputies responded to Perez Hilton's Miami-area home following reports of self-harm live-streamed on social media.
+Claim: Per an NBC report the host reads, Miami-Dade Sheriff's Office deputies responded to Perez Hilton's Miami-area home after reports that he engaged in self-harm in a video live-streamed on social media.
 
 Anchored Artifacts: A-2249.1
+Mentions: N-826
 
 Related Nodes:
 
@@ -1186,6 +1187,7 @@ Claim Timestamp: 00:37:00–00:37:30
 Claim: Per a follow-up sheriff's office statement the host reads, Perez Hilton was safely recovered after the self-harm response and taken by Miami-Dade Fire Rescue to a local hospital.
 
 Anchored Artifacts: A-2249.1
+Mentions: N-826
 
 Related Nodes:
 
@@ -1260,7 +1262,7 @@ Claim Timestamp: 00:21:54–00:22:30
 Claim: Daily Mail journalist Charlie Spiering emailed the Candace Owens show stating that "sources" believe Candace is being used by foreign operatives sending misinformation through her tip line.
 
 Anchored Artifacts: A-2252.1
-Mentions: N-3
+Mentions: N-3, N-636
 
 Related Nodes:
 
@@ -1275,6 +1277,7 @@ Claim Timestamp: 00:32:46–00:34:05
 Claim: In a clip of the 2010 Ellen DeGeneres Show the host plays, Perez Hilton acknowledges being perceived as a "hypocrite and a bully" and pledges to stop using nasty nicknames, inappropriate doodling, and outing people on his website.
 
 Anchored Artifacts: A-2250.1
+Mentions: N-826
 
 Related Nodes:
 
@@ -1286,14 +1289,14 @@ Investigative Direction: Obtain the full 2010 episode recording for complete con
 
 Claim Timestamp: 00:18:25–00:19:12
 
-Claim: The host asserts that the "Protecting Mrs. Kirk" group chat was organized by an individual previously engaged in PR/intelligence work tied to Israel and the Gaza Humanitarian Fund.
+Claim: The host asserts that the 'Protecting Mrs. Kirk' group chat was brought together by an agent of Israel who previously said he gathers intel and collaborated with a Daily Wire employee and the Gaza Humanitarian Foundation to create files on people for Israel's PR.
 
 Anchored Artifacts: A-2246.1 (organizer not identified in artifact)
 Mentions: N-2, N-3
 
 Related Nodes: N-10780
 
-Investigative Direction: Identify organizer through leaked membership lists or named-account forensics; cross-check against Gaza Humanitarian Fund / Daily Wire public records.
+Investigative Direction: Identify organizer through leaked membership lists or named-account forensics; cross-check against Gaza Humanitarian Foundation / Daily Wire public records.
 
 **Claim failed full admission test – organizer identification is host characterization not present in the artifact. Inscribed with caveat in Investigative Direction.**
 
@@ -1303,10 +1306,10 @@ Investigative Direction: Identify organizer through leaked membership lists or n
 
 Claim Timestamp: 00:54:33–00:55:20
 
-Claim: A commenter on the show acknowledges that Candace Owens' home address has been shared within a group chat of approximately 91–92 people, framing it as dangerous and ineffective.
+Claim: The host says it is terrifying that they are sharing her address in private chats, that they seem deranged and obsessed in a way that feels dangerous, and that she would have no interest in being in a chat with 91 people about where Erika lives.
 
 Anchored Artifacts: A-2246.1, A-2253.4
-Mentions: N-3
+Mentions: N-2, N-3
 
 Related Nodes: N-10780
 
@@ -1323,7 +1326,7 @@ Claim: In a list of claims about the case she says were false, the host says it 
 Transcript Snippet: that's a lie Tyler Robinson is not transgendered I told you that very early on his lover Lance is not transgendered
 
 Anchored Artifacts: 
-Mentions: N-3, N-40, N-54
+Mentions: N-3, N-40, N-54, N-778
 Related Nodes: N-10782
 Investigative Direction: Compare the influencer statements on the list against charging documents and hearing testimony.
 
@@ -1591,7 +1594,7 @@ Investigative Direction: Identify the host's source and obtain the surrender tim
 
 Claim Timestamp: 00:10:51
 
-Claim: The host says the ATF examiner gave a range of weapons the one testable metal fragment could fit, that the range did not cover a .30-06, and that the testimony almost debunked the idea the fragment was tied to Tyler Robinson's gun.
+Claim: The host says the ATF examiner gave a range of weapons the one testable metal fragment could fit, that the range did not cover a .30-06, and that in her view the testimony almost debunked the idea the fragment was tied to Tyler Robinson's gun.
 
 Transcript Snippet: And in fact, it didn't cover a 3006. It didn't cover a 306.
 
@@ -1630,7 +1633,7 @@ Claim: The host says that of the other sets of prints, one was owned by Tyler's 
 Transcript Snippet: of which one were his owned by his father and the other by Lance.
 
 Anchored Artifacts: 
-Mentions: N-3, N-40, N-54
+Mentions: N-3, N-40, N-54, N-778
 Related Nodes: N-10711, N-10598
 Tags: relevance:core
 Investigative Direction: Obtain the print comparison results naming each contributor.
@@ -1862,13 +1865,13 @@ Investigative Direction: Locate the archived X Spaces recording and identify the
 
 ---
 
-**C-9119** Host Says the Organizer Worked With Cassie Akiva and the Gaza Humanitarian Fund Under Johnny Moore to Build Files
+**C-9119** Host Says the Organizer Worked With Kassy Akiva and the Gaza Humanitarian Foundation Under Johnnie Moore to Build Files
 
 Claim Timestamp: 00:18:45
 
-Claim: The host says the organizer collaborated with Daily Wire employee Cassie Akiva and the Gaza Humanitarian Fund, then run by Johnny Moore, to create files on people for Israel's PR, including going after a guest Tucker Carlson had on.
+Claim: The host says the organizer collaborated with Daily Wire employee Kassy Akiva and the Gaza Humanitarian Foundation, then run by Johnnie Moore, to create files on people for Israel's PR, including going after a guest Tucker Carlson had on.
 
-Transcript Snippet: Uh they collaborated with a Daily Wire employee Cassie Akiva, the Gaza Humanitarian Fund, then run by Johnny Moore, to create files on people
+Transcript Snippet: Uh they collaborated with a Daily Wire employee Kassy Akiva, the Gaza Humanitarian Foundation, then run by Johnnie Moore, to create files on people
 
 Anchored Artifacts: A-2989.1
 Mentions: N-3, N-825, N-438, N-22
@@ -1931,7 +1934,7 @@ Investigative Direction: Obtain the full member list from the original post and 
 
 Claim Timestamp: 00:20:35
 
-Claim: The host says she is on no group chats of 92, ten or two operatives, works with her team and reaches out to people such as Baron Coleman, and that no one is coordinating to take down Erika Kirk.
+Claim: The host says she is on no group chats of 92, ten, six or two operatives, works with her team and reaches out to people such as Baron Coleman, and that no one is coordinating to take down Erika Kirk.
 
 Transcript Snippet: Baron Coleman, hey, did you did you see this video? Give him a call.
 
@@ -2244,7 +2247,7 @@ Anchored Artifacts: A-2251.2
 Mentions: N-205, N-342
 Related Nodes: N-10785
 Supports: C-3230
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Verify the figure against the full interview.
 
 ---
@@ -2314,7 +2317,7 @@ Investigative Direction: Compare Catholic convert and Southern Baptist membershi
 
 ---
 
-**C-9147** Host Says People Published Images of Her Kids' Cars to Scare Her
+**C-9147** Host Says People Published Her Kids' Cars to Scare Her
 
 Claim Timestamp: 00:54:40
 
@@ -2398,7 +2401,7 @@ Investigative Direction: Confirm the leave dates when announced.
 
 Claim Timestamp: 00:58:20
 
-Claim: The host says that, according to her producer, an announcement is due September 1 on whether they will go through with the Tyler Robinson trial.
+Claim: The host says that, after checking the date with Ashley, an announcement is due around September 1 on whether they will go through with the Tyler Robinson trial.
 
 Transcript Snippet: that they're supposed to be saying whether or not they're going to go through with the Tyler Robinson trial.
 

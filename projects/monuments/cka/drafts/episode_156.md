@@ -476,13 +476,13 @@ Named in the host's remark about where Erika Kirk should have shown the video.
 
 **N-160** Blake Neff
 
-Subject of the interview parodied by Where Forbidden.
+Subject of the interview parodied by Wear Forbidden.
 
 *Related: C-7823*
 
 ---
 
-**N-11091** Where Forbidden
+**N-11091** Wear Forbidden
 
 Creator of the AI parody videos (the transcript says "Wear Forbidden" and "atware forbidden").
 
@@ -1557,11 +1557,11 @@ Investigative Direction: The host offers no evidence on air; ask her for the bas
 
 ---
 
-**C-7823** Host Says Where Forbidden Made an AI Video on the Blake Neff Interview
+**C-7823** Host Says Wear Forbidden Made an AI Video on the Blake Neff Interview
 
 Claim Timestamp: 00:40:02
 
-Claim: The host says Blake Neff's sit-down interview said what everyone says about the Kirk investigation, and that Where Forbidden made an AI video covering what took place in that interview.
+Claim: The host says Blake Neff's sit-down interview said what everyone says about the Kirk investigation, and that Wear Forbidden made an AI video covering what took place in that interview.
 
 Transcript Snippet: he did a uh AI video which really covered the basis on what took place during that interview.
 
@@ -1569,7 +1569,7 @@ Anchored Artifacts: A-2423.1
 Mentions: N-3, N-160
 Related Nodes: N-11091
 Tags: relevance:context
-Investigative Direction: Locate the Where Forbidden video and the Blake Neff interview it parodies.
+Investigative Direction: Locate the Wear Forbidden video and the Blake Neff interview it parodies.
 
 ---
 

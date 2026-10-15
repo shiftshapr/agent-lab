@@ -52,7 +52,7 @@
           "@type": "Artifact",
           "@id": "A-2295.1",
           "ref": "A-2295.1",
-          "description": "Video segment showing the camera operator (Taral/Terryl/Terrence) bending over the camera behind Charlie Kirk's head, removing the SD card, pocketing it, looking around, then opening his laptop and apparently inserting the SD card into it. Lane Schamberger is visible at the side washing his hands.",
+          "description": "Video segment showing the camera operator (Taral/Terryl/Terryl) bending over the camera behind Charlie Kirk's head, removing the SD card, pocketing it, looking around, then opening his laptop and apparently inserting the SD card into it. Lane Schamberger is visible at the side washing his hands.",
           "related_claims": [
             "C-3302",
             "C-3303"
@@ -203,7 +203,7 @@
           "@type": "Artifact",
           "@id": "A-2299.1",
           "ref": "A-2299.1",
-          "description": "Video clip from \"Where Forbidden\" X/Instagram account using the red-pill/blue-pill Matrix framing to parody reactions to the Tyler Robinson case, repeating \"So what?\" against \"positive evidence,\" \"appeal to emotion,\" and \"burden of proof.\"",
+          "description": "Video clip from \"Wear Forbidden\" X/Instagram account using the red-pill/blue-pill Matrix framing to parody reactions to the Tyler Robinson case, repeating \"So what?\" against \"positive evidence,\" \"appeal to emotion,\" and \"burden of proof.\"",
           "related_claims": [
             "C-3311"
           ],
@@ -972,7 +972,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-11091",
       "ref": "N-11091",
-      "name": "Where Forbidden",
+      "name": "Wear Forbidden",
       "type": "investigation_target",
       "description": "The parody account.",
       "related_artifacts": [],
@@ -1431,7 +1431,7 @@
       "@id": "C-3302",
       "ref": "C-3302",
       "label": "Terryl/Taral Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting",
-      "claim": "The host presents footage showing the camera operator removing an SD card from the camera behind Charlie Kirk's head, looking around, and pocketing the card within approximately four to five minutes of Charlie being struck.",
+      "claim": "The host says that in footage shown the previous day, the camera operator removed an SD card from the camera behind Charlie Kirk's head, looked around, and pocketed it within approximately four to five minutes of Charlie being struck.",
       "anchored_artifacts": [
         "A-2295.1"
       ],
@@ -1451,7 +1451,7 @@
       "@id": "C-3303",
       "ref": "C-3303",
       "label": "Terryl/Taral Subsequently Inserted That SD Card Into His Laptop",
-      "claim": "The host describes footage in which the camera operator opens his laptop and appears to insert the previously pocketed SD card into it, all within roughly ten minutes of the shooting.",
+      "claim": "The host describes footage in which the camera operator opens his laptop and appears to insert the previously pocketed SD card into it, which she says, citing a government source, was all within roughly ten minutes of the shooting.",
       "anchored_artifacts": [
         "A-2295.1"
       ],
@@ -1511,8 +1511,8 @@
       "@type": "Claim",
       "@id": "C-3306",
       "ref": "C-3306",
-      "label": "Trump Publicly Identified Mike Mitchell as the Person Who Recognized Tyler Robinson From the Stairwell Photo",
-      "claim": "In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that \"somebody that's close\" – described as a person involved in law enforcement and a minister – recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal.",
+      "label": "Trump Described a Close Acquaintance Who Recognized Tyler Robinson, Which the Host Says Is Mike Mitchell",
+      "claim": "In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that \"somebody that's close\" - described as a person involved in law enforcement and a minister - recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal. The host says he was describing Mike Mitchell.",
       "anchored_artifacts": [
         "A-2296.1"
       ],
@@ -1541,6 +1541,7 @@
       "claim_timestamp": "00:33:22",
       "investigative_direction": "Verify Mike Mitchell's documented roles (Mormon minister, prior undercover work in sex crimes, family-friend relationship to Robinsons) via official biographies and law-enforcement employment records.",
       "mentions_person_refs": [
+        "N-5",
         "N-125"
       ]
     },
@@ -1549,7 +1550,7 @@
       "@id": "C-3308",
       "ref": "C-3308",
       "label": "Blake Neff Publicly Asserted the Robinson Defense Does Not Contest Core Evidence",
-      "claim": "Blake Neff's tweet (read in full) asserts that the Tyler Robinson defense filing is \"very conspicuously not contesting any of the core evidence\" – specifically camera footage, DNA, the rifle, cause of death, and Robinson's phone data – and that the defense's only substantive challenge is to reliable hearsay.",
+      "claim": "Blake Neff's tweet (read in full) asserts that the Tyler Robinson defense filing is \"very conspicuously not contesting any of the core evidence\" - specifically camera footage, DNA, the rifle, cause of death, and Robinson's phone data - and that all the defense has is a complaint about reliable hearsay and attacks on the aggravating factors.",
       "anchored_artifacts": [
         "A-2294.1"
       ],
@@ -1576,10 +1577,10 @@
       "claim_timestamp": "00:35:00",
       "investigative_direction": "Verify the full unedited Piker stream segment and timestamp; cross-check against the Brandi Zadrozny article the host references.",
       "mentions_person_refs": [
+        "N-787",
+        "N-3",
         "N-1",
-        "N-40",
-        "N-125",
-        "N-3"
+        "N-40"
       ]
     },
     {
@@ -1597,7 +1598,6 @@
       "investigative_direction": "Confirm tweet text against archive (e.g., X/Twitter permanent-link capture) and identify any subsequent correction or community-note action.",
       "mentions_person_refs": [
         "N-160",
-        "N-125",
         "N-3"
       ]
     },
@@ -1605,8 +1605,8 @@
       "@type": "Claim",
       "@id": "C-3311",
       "ref": "C-3311",
-      "label": "Host Plays Where Forbidden Matrix-Parody Video Repeating \"So What?\" Against Tyler Robinson Case Argumentation Standards",
-      "claim": "The host plays a clip she says is from the Where Forbidden account, a short parody video using the Matrix red-pill/blue-pill framing about the Tyler Robinson case, repeating \"so what?\" in response to \"positive evidence,\" \"appeal to emotion,\" and \"burden of proof.\"",
+      "label": "Host Plays Wear Forbidden Matrix-Parody Video Repeating \"So What?\" Against Tyler Robinson Case Argumentation Standards",
+      "claim": "The host plays a clip she says is from the Wear Forbidden account, a short parody video using the Matrix red-pill/blue-pill framing about the Tyler Robinson case, repeating \"so what?\" in response to \"positive evidence,\" \"appeal to emotion,\" and \"burden of proof.\"",
       "anchored_artifacts": [
         "A-2299.1"
       ],
@@ -1631,7 +1631,7 @@
         "N-10808"
       ],
       "tags": [],
-      "claim_timestamp": "00:11:42",
+      "claim_timestamp": "00:10:57",
       "investigative_direction": "Cross-reference host's timeline against SBI / UPD / FBI event-time records and any device-timestamp metadata recoverable from Terryl's laptop.",
       "mentions_person_refs": [
         "N-262",
@@ -1684,8 +1684,8 @@
       "@type": "Claim",
       "@id": "C-7537",
       "ref": "C-7537",
-      "label": "Host Says Terrence Lied to Her About Not Knowing How to Send a Clip",
-      "claim": "The host says that in the previous episode she demonstrated that Terrence lied to her about not knowing how to send a clip and about a fear that Google would hack him.",
+      "label": "Host Says Terryl Lied to Her About Not Knowing How to Send a Clip",
+      "claim": "The host says that in the previous episode she demonstrated that Terryl lied to her about not knowing how to send a clip and about a fear that Google would hack him.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10810"
@@ -1695,7 +1695,7 @@
       ],
       "claim_timestamp": "00:04:09",
       "investigative_direction": "Compare the host's account of the conversation with Farnsworth with the Google Drive transmission records for the September 10 videos.",
-      "transcript_snippet": "yesterday I demonstrated to you all that Terrence lied to me. That's just a fact. He lied to me about not knowing how to send a clip.",
+      "transcript_snippet": "yesterday I demonstrated to you all that Terryl lied to me. That's just a fact. He lied to me about not knowing how to send a clip.",
       "supports_claim_refs": [
         "C-4699",
         "C-3291"
@@ -1710,7 +1710,7 @@
       "@id": "C-7538",
       "ref": "C-7538",
       "label": "Host Says She Was Told the Footage Is in the Purview of Law Enforcement",
-      "claim": "The host says that when she asked why the footage was not simply released to clear his name, the person she was speaking with said it was in the purview of law enforcement, which she says she cannot accept as a reason not to release or leak it.",
+      "claim": "The host says that when she asked why the footage was not simply released to clear his name, the person she was speaking with said it was in the purview of law enforcement, and that she finds it difficult to imagine accepting that as a reason not to release or at least leak it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10810"
@@ -1902,7 +1902,7 @@
       "@type": "Claim",
       "@id": "C-7546",
       "ref": "C-7546",
-      "label": "Host Says TPUSA Side Said There Was Nothing Special About the Camera Behind Charlie's Head",
+      "label": "Host Says They Were Told There Was Nothing Special About the Camera Behind Charlie's Head",
       "claim": "The host says they were told there was nothing special about the camera behind Charlie's head, and she argues there clearly was.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2220,13 +2220,13 @@
       "@id": "C-7560",
       "ref": "C-7560",
       "label": "Host Says Her Macron Dismissal Argues Macron Should Not Be in That Court",
-      "claim": "The host says her dismissal filing in the Brigitte Macron matter argues that Macron is not supposed to be there, noting that Macron is in France, the suit is in Delaware and she is in Tennessee.",
+      "claim": "The host says her dismissal filing in the Brigitte Macron matter argues that Macron is not supposed to be in that court, noting that Macron is in France but suing in Delaware while she is in Tennessee.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10270"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:23:09",
       "investigative_direction": "Read the motion to dismiss in the Delaware case for the jurisdiction and venue grounds.",
@@ -2468,7 +2468,7 @@
       "@id": "C-7571",
       "ref": "C-7571",
       "label": "Host Says the Charging Document Was Signed Off by Brian Davis",
-      "claim": "The host says the charging document, which used the statement that the family friend wrote up, was signed off by Brian Davis.",
+      "claim": "The host speculates that the charging document, which she says was signed off by Brian Davis, used the statement the family friend later wrote, adding that it is all a plausibility and they do not know at this juncture.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10022"
@@ -2506,7 +2506,7 @@
       ],
       "mentions_person_refs": [
         "N-125",
-        "N-5"
+        "N-40"
       ]
     },
     {
@@ -2942,8 +2942,8 @@
       "@type": "Claim",
       "@id": "C-7593",
       "ref": "C-7593",
-      "label": "Host Plugs the Stop Anti-Candacism Bug Featured in the Where Forbidden Video",
-      "claim": "The host says the stop anti-Candacism bug, which she says was featured in the Where Forbidden Debate Trix video, can be bought to support the show.",
+      "label": "Host Plugs the Stop Anti-Candacism Bug Featured in the Wear Forbidden Video",
+      "claim": "The host says the stop anti-Candacism bug, which she says was featured in the Wear Forbidden Debate Trix video, can be bought to support the show.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11091"
@@ -2952,7 +2952,7 @@
         "relevance:tangential"
       ],
       "claim_timestamp": "00:48:21",
-      "investigative_direction": "Find the Where Forbidden video and the merchandise listing.",
+      "investigative_direction": "Find the Wear Forbidden video and the merchandise listing.",
       "transcript_snippet": "you can also support us by buying the stop anti-Candacism bug, which was featured in the Wear Forbidden Debate Trix video.",
       "mentions_person_refs": [
         "N-3"

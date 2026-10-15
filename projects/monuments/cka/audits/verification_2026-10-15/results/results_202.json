@@ -1,0 +1,768 @@
+[
+ {
+  "claim": "C-10499",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3277",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3278",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3279",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Wilson first says \"he's been charged with murder\" (told \"incorrect\"), says \"I can't\" name all seven, then names aggravated murder. Claim says he could not name any and that Owens said it was \"not on the list\".",
+  "fix": {
+   "claim": "In a debate clip the host plays, when asked to name any of the seven charges against Tyler Robinson, Andrew Wilson first says he thinks Robinson is charged with murder and is told that is incorrect, says \"I can't\" when asked to name all seven, and then names aggravated murder."
+  }
+ },
+ {
+  "claim": "C-3280",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"a term he had just learned yesterday... positive evidence. He just thought that if I keep saying it, people at home will think I'm really smart\". \"Principal rebuttal device\" and \"multiple times\" are added.",
+  "fix": {
+   "claim": "The host says that in the next phase of the debate Andrew Wilson kept saying the phrase \"positive evidence\", which she says seemed like a term he had just learned and wanted to use."
+  }
+ },
+ {
+  "claim": "C-3281",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names PBD but Mentions omit N-57. Moderator role is only evident at ~21:53 (\"PBD asks us explicitly\") and the 22:37 clip, about 4 min after the claim timestamp 17:24.",
+  "fix": {
+   "timestamp": "00:21:50",
+   "mentions": [
+    "N-18",
+    "N-3",
+    "N-57"
+   ]
+  }
+ },
+ {
+  "claim": "C-3282",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"I guess he was on the phone with Andrew Wilson right after the debate\" and plays a clip; Wilson says \"I would have refused.\" Claim drops the clip framing and \"I guess\" hedge.",
+  "fix": {
+   "claim": "In a clip the host plays, which she says is Steven Crowder on the phone with Andrew Wilson right after the debate, Crowder asks whether they gave Wilson makeup and Wilson answers \"I would have refused.\""
+  }
+ },
+ {
+  "claim": "C-3283",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3284",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3285",
+  "episode": 141,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "The \"Was Candace Owens being fed answers? ... in-ear monitors\" post is from the person Rachel responds to (\"he kind of goes through all this\"). Rachel's own reply: \"I know that they had headpieces, but I'm not really sure why\".",
+  "fix": {
+   "claim": "The host says Rachel Wilson, replying to a post asking whether the host was being fed answers through her in-ear monitor, wrote that she knew they had headpieces but was not sure why they had them, and believed the contract allowed each to wear an earpiece.",
+   "timestamp": "01:03:35"
+  }
+ },
+ {
+  "claim": "C-3286",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says \"he retweeted somebody else who said skimmed it... then he wrote back, Picked a hell of a week.\" Claim states it as fact without host attribution.",
+  "fix": {
+   "claim": "The host says that before the debate Andrew Wilson retweeted a comment reading \"skimmed it. The Tyler Robinson dispense defense is on absolute life support\" and wrote back \"Picked a hell of a week.\""
+  }
+ },
+ {
+  "claim": "C-3287",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3288",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host reads \"five stages of debate grief\" from at alpha approved; \"five-panel\" meme is not said.",
+  "fix": {
+   "claim": "The host reads a post from the X account @alpha_approved listing \"five stages of debate grief\" for Andrew Wilson, from denial (\"I totally won that debate\") to acceptance, as a reaction to the debate."
+  }
+ },
+ {
+  "claim": "C-3289",
+  "episode": 141,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Speaker of \"Charlie and I promised each other... And I have his cell phone\" is Erika Kirk (host then ties it to her mid-December Glenn Beck appearance), not Wilson.",
+  "fix": {
+   "claim": "In a clip the host plays, Erika Kirk says she and Charlie Kirk promised each other never to live in fear, that he was not messaging people the day before saying he would be murdered, and \"And I have his cell phone.\"",
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-6008",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6009",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6010",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6011",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6012",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6013",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6014",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6015",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6016",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6017",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6018",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6019",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6020",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6021",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6022",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6023",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6024",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6025",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6026",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6027",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6028",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says his brand \"crashed and burned\" after the doorbell-cam incident and \"he never really recovered\"; nothing says his obsession with her stems from her covering that.",
+  "fix": {
+   "claim": "The host says Steven Crowder's brand \"sort of crashed and burned\" when he was caught on a doorbell cam berating his eight-month pregnant now ex-wife, who was pregnant with twins, and that he never really recovered from that."
+  }
+ },
+ {
+  "claim": "C-6029",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6030",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6031",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6032",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6033",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6034",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6035",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Speaker is Erika Kirk: host says \"she is joining Glen Beck mid December... asserting that she has his phone.\" Claim hedges and carries meta commentary.",
+  "fix": {
+   "claim": "In a clip the host plays, which she ties to Erika Kirk's mid-December Glenn Beck appearance, Erika Kirk says she and Charlie Kirk promised each other never to live in fear, that he was not messaging people the day before saying he would be murdered, and \"I have his cell phone.\""
+  }
+ },
+ {
+  "claim": "C-6036",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6037",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name Andrew Kolvet; his mention comes in the following sentence, which the claim does not cover. N-14 should not be in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-271"
+   ]
+  }
+ },
+ {
+  "claim": "C-6038",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6039",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"we're supposed to believe you didn't tell her for four months, but you told me in September\". Claim says someone told \"her\", which reads as Erika; it is the host.",
+  "fix": {
+   "claim": "The host says people are supposed to believe Erika was not told of the message for four months, although the host says she herself was told of it in September."
+  }
+ },
+ {
+  "claim": "C-6040",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6041",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6042",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6043",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6044",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6045",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip: \"we cannot say for certainty that Israel called the shots... But it is definitively I think a threat that a lot of us would like to see.\" Claim's \"worth looking at\" is a paraphrase.",
+  "fix": {
+   "claim": "In a played exchange, the host says that we cannot say for certainty that Israel called the shots and this is how it happened, but that it is definitively, she thinks, a threat that a lot of people would like to see."
+  }
+ },
+ {
+  "claim": "C-6046",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Asked for positive evidence that Israel killed Charlie Kirk, she answers \"That he stopped and ate at Chick-fil-A...\" Claim omits question context and includes a meta sentence.",
+  "fix": {
+   "claim": "In a played exchange, asked for positive evidence that Israel killed Charlie Kirk, the host says that he stopped and ate at Chick-fil-A, which if you are into LGBTQ issues wouldn't be your lunch before you go kill Charlie Kirk for LGBTQ issues."
+  }
+ },
+ {
+  "claim": "C-6047",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript has a missing word: \"Erika Kirk is too to kill her husband\". Title supplies \"capable of\", which is not said; claim body has meta note.",
+  "fix": {
+   "label": "Host Says Wilson Tweeted Before His TPUSA Visit That Erika Kirk Is \"Too\" [Word Missing] to Kill Her Husband"
+  }
+ },
+ {
+  "claim": "C-6048",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6049",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6050",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6051",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6052",
+  "episode": 141,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"I didn't say complicit in death. You added those two words.\" is the host replying to Wilson, who asked \"would it then follow that somehow she's complicit in his death?\"",
+  "fix": {
+   "claim": "In a played exchange, the host says the body-cam point is why it is impossible for her to think that Erika Kirk is not complicit somehow. Wilson asks whether that would make Erika complicit in his death, and the host replies that she did not say complicit in death and that he added those words."
+  }
+ },
+ {
+  "claim": "C-6053",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

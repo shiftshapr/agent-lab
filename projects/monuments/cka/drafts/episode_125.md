@@ -541,7 +541,7 @@ Baron Coleman; told the host the shirt was 100% polyester.
 
 ---
 
-**N-438** Johnny Moore
+**N-438** Johnnie Moore
 
 Johnny Moore; Kolvet's former partner and NCRI board member per the host.
 

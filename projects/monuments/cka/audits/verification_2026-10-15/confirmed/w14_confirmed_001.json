@@ -1,0 +1,510 @@
+[
+ {
+  "claim": "C-11705",
+  "episode": 136,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-267"
+   ]
+  },
+  "note": "Claim refers only to Harpole; Cutler not referred to."
+ },
+ {
+  "claim": "C-11710",
+  "episode": 136,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-267",
+    "N-1"
+   ]
+  },
+  "note": "Turek not in claim; claim names Charlie (N-1), so add him."
+ },
+ {
+  "claim": "C-11715",
+  "episode": 136,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-507"
+   ]
+  },
+  "note": "Patel not referred to in claim."
+ },
+ {
+  "claim": "C-11716",
+  "episode": 136,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Patel not referred to in claim."
+ },
+ {
+  "claim": "C-3217",
+  "episode": 137,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-245"
+   ]
+  },
+  "note": "Levin named in claim and transcript."
+ },
+ {
+  "claim": "C-3665",
+  "episode": 137,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says, while plugging merch, 'we are the decentralized intelligence agency'.",
+   "timestamp": "00:53:44"
+  },
+  "note": "Wording ok; line is inside the 52:11-54:10 block, interpolated ~53:49, not 54:10."
+ },
+ {
+  "claim": "C-3666",
+  "episode": 137,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:53:41"
+  },
+  "note": "Hat plug interpolated ~53:46 in the 52:11-54:10 block; 53:30 is too early."
+ },
+ {
+  "claim": "C-7480",
+  "episode": 137,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-3"
+   ]
+  },
+  "note": "Neff addressed in transcript but not in claim."
+ },
+ {
+  "claim": "C-7495",
+  "episode": 137,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says TPUSA event staff, club students, university planners and possibly UVU police would have known who was attending Lee's planned appearance, and says 'No footage must exist' of the man who scoped the campus the day before.",
+   "mentions": [
+    "N-786",
+    "N-3"
+   ]
+  },
+  "note": "Matches transcript at 12:30."
+ },
+ {
+  "claim": "C-7514",
+  "episode": 137,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host thanks Russia's Ministry of Health, the Catholic family in Russia who visited him and brought their children, and the team in Russia, saying everyone there was amazing.",
+   "timestamp": "00:32:16"
+  },
+  "note": "Claim fix right; Ministry thanks interpolated ~32:21, so 32:25 is late."
+ },
+ {
+  "claim": "C-7526",
+  "episode": 137,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that if you think people who lie like this about the school strike would not be capable of hiding the murder of Charlie Kirk, they just killed 150 kids and did not blink when they lied to you."
+  },
+  "note": "Original reversed the sense."
+ },
+ {
+  "claim": "C-3223",
+  "episode": 138,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a post by Shady Lady Katie that the host reads, members of the 'Protecting Mrs. Kirk' group chat were sharing information, background checks and reporting accounts, and even shared Candace's home address in the chat."
+  },
+  "note": "Host reads Katie's tweet."
+ },
+ {
+  "claim": "C-3224",
+  "episode": 138,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-54"
+   ]
+  },
+  "note": "Claim names Lance."
+ },
+ {
+  "claim": "C-3225",
+  "episode": 138,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-271",
+    "N-505"
+   ]
+  },
+  "note": "Charlie not referred to in claim."
+ },
+ {
+  "claim": "C-3226",
+  "episode": 138,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per an NBC report the host reads, Miami-Dade Sheriff's Office deputies responded to Perez Hilton's Miami-area home after reports that he engaged in self-harm in a video live-streamed on social media.",
+   "mentions": [
+    "N-826"
+   ]
+  },
+  "note": "Mentions fix right; claim was bare fact but host is reading NBC's report."
+ },
+ {
+  "claim": "C-3227",
+  "episode": 138,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-826"
+   ]
+  },
+  "note": "Perez Hilton named."
+ },
+ {
+  "claim": "C-3232",
+  "episode": 138,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-636"
+   ]
+  },
+  "note": "Spiering named in claim."
+ },
+ {
+  "claim": "C-3233",
+  "episode": 138,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-826"
+   ]
+  },
+  "note": "Perez Hilton named."
+ },
+ {
+  "claim": "C-3235",
+  "episode": 138,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says it is terrifying that they are sharing her address in private chats, that they seem deranged and obsessed in a way that feels dangerous, and that she would have no interest in being in a chat with 91 people about where Erika lives.",
+   "mentions": [
+    "N-2",
+    "N-3"
+   ]
+  },
+  "note": "Host's own words, not a commenter's."
+ },
+ {
+  "claim": "C-3762",
+  "episode": 138,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-40",
+    "N-54",
+    "N-778"
+   ]
+  },
+  "note": "'His father' clearly Matt Robinson."
+ },
+ {
+  "claim": "C-9104",
+  "episode": 138,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-40",
+    "N-54",
+    "N-778"
+   ]
+  },
+  "note": "'Tyler's father' clearly Matt Robinson."
+ },
+ {
+  "claim": "C-9119",
+  "episode": 138,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the organizer collaborated with Daily Wire employee Kassy Akiva and the Gaza Humanitarian Foundation, then run by Johnnie Moore, to create files on people for Israel's PR, including going after a guest Tucker Carlson had on.",
+   "names": [
+    {
+     "wrong": "Gaza Humanitarian Fund",
+     "right": "Gaza Humanitarian Foundation",
+     "source": "https://en.wikipedia.org/wiki/Gaza_Humanitarian_Foundation"
+    },
+    {
+     "wrong": "Johnny Moore",
+     "right": "Johnnie Moore",
+     "source": "https://religionnews.com/2025/06/05/johnnie-moore-prominent-evangelical-and-israel-supporter-to-head-aid-group/"
+    },
+    {
+     "wrong": "Cassie Akiva",
+     "right": "Kassy Akiva",
+     "source": "https://www.dailywire.com/news/ben-shapiro-at-tpusa-the-right-needs-truth-not-grifters-and-frauds"
+    }
+   ]
+  },
+  "note": "GHF/Johnnie Moore verified; Kassy Akiva also verified as Daily Wire reporter (byline), matches node N-825."
+ },
+ {
+  "claim": "C-3241",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-18",
+    "N-14"
+   ]
+  },
+  "note": "Kolvet named."
+ },
+ {
+  "claim": "C-3247",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-89"
+   ]
+  },
+  "note": "Erika not in claim."
+ },
+ {
+  "claim": "C-3248",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ },
+ {
+  "claim": "C-3250",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "claim": "Joel Berry posted on X that his wife's homemade burritos for a family of eight cost less than $20 total.",
+   "label": "Joel Berry Posted That Burritos for 8 Cost Under $20",
+   "mentions": [
+    "N-242"
+   ],
+   "names": [
+    {
+     "wrong": "Joel Barry",
+     "right": "Joel Berry",
+     "source": "https://weartv.com/news/local/conservative-speaker-joel-berry-hosts-event-in-honor-of-charlie-kirk-at-uwf"
+    }
+   ]
+  },
+  "note": "Verified: @JoelWBerry post x.com/JoelWBerry/status/2084741989166174716 matches quote."
+ },
+ {
+  "claim": "C-3251",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "claim": "Joel Berry tweeted in 2024, in reply to Kamala Harris, that he would like to \"go back to when there were no wars and I could afford groceries.\"",
+   "label": "Joel Berry in 2024 Tweeted Desire to Return to Affordable Grocery Era",
+   "mentions": [
+    "N-242"
+   ],
+   "names": [
+    {
+     "wrong": "Joel Barry",
+     "right": "Joel Berry",
+     "source": "https://weartv.com/news/local/conservative-speaker-joel-berry-hosts-event-in-honor-of-charlie-kirk-at-uwf"
+    }
+   ]
+  },
+  "note": "Joel Berry verified via his X account."
+ },
+ {
+  "claim": "C-3252",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a post the host reads, Matt Walsh replied to Joel Berry noting that virtually no Republican was making \"the affordability crisis is fake\" arguments during the Biden years, and that grocery prices have risen 30%+ this decade.",
+   "mentions": [
+    "N-164",
+    "N-242"
+   ],
+   "names": [
+    {
+     "wrong": "Joel Barry",
+     "right": "Joel Berry",
+     "source": "https://weartv.com/news/local/conservative-speaker-joel-berry-hosts-event-in-honor-of-charlie-kirk-at-uwf"
+    }
+   ]
+  },
+  "note": "Joel Berry verified; 30% line is read at end of 37:30 block."
+ },
+ {
+  "claim": "C-3253",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-929"
+   ]
+  },
+  "note": "Crenshaw named."
+ },
+ {
+  "claim": "C-3255",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-97"
+   ]
+  },
+  "note": "Shapiro named."
+ },
+ {
+  "claim": "C-3256",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-930"
+   ]
+  },
+  "note": "Rabbi Shmuley named."
+ },
+ {
+  "claim": "C-3258",
+  "episode": 139,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that, on looking further into Luna, she learned the 'demon dog' character from Helluva Boss wears a pentagram as a necklace.",
+   "timestamp": "00:24:38"
+  },
+  "note": "Attribution fix right; line interpolated ~24:43, so 24:45 is slightly late."
+ },
+ {
+  "claim": "C-13202",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-269",
+    "N-2"
+   ]
+  },
+  "note": "Wilson not in claim."
+ },
+ {
+  "claim": "C-13206",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-18",
+    "N-3"
+   ]
+  },
+  "note": "Rogan not in claim."
+ },
+ {
+  "claim": "C-13228",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-89",
+    "N-40",
+    "N-3"
+   ]
+  },
+  "note": "'Johnson's clip' refers to Benny Johnson."
+ },
+ {
+  "claim": "C-13262",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads a post from Joel Berry saying that after his wife made burritos for a family of eight for under $20, he is beginning to think the affordability crisis is an I-don't-know-how-to-cook crisis.",
+   "names": [
+    {
+     "wrong": "Joel Barry",
+     "right": "Joel Berry",
+     "source": "https://x.com/JoelWBerry/status/2084741989166174716"
+    }
+   ]
+  },
+  "note": "Verified the cited X post."
+ },
+ {
+  "claim": "C-3266",
+  "episode": 140,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-864",
+    "N-865"
+   ]
+  },
+  "note": "Hoole and Goforth named; spelling of Hoole left unresolved."
+ },
+ {
+  "claim": "C-3269",
+  "episode": 140,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-867",
+    "N-3"
+   ]
+  },
+  "note": "Weidner named."
+ },
+ {
+  "claim": "C-3270",
+  "episode": 140,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says a tweet-counter account found that \"No Soup For You\" (Britta Weidner) sent 4,040 tweets about her in the 11 months since Charlie Kirk's assassination.",
+   "mentions": [
+    "N-867",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Mentions fix right; claim refers to Weidner via account; reattributed to host, who reports the count."
+ },
+ {
+  "claim": "C-3271",
+  "episode": 140,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host states she sent 104 tweets about Erika Kirk in the same 11-month window, presented as a comparison baseline against the 4,040 tweets by Britta Weidner.",
+   "label": "Candace Owens Sent 104 Tweets About Erika Kirk in the Same Period (Per Same Tweet-Counter Source)",
+   "mentions": [
+    "N-2",
+    "N-3",
+    "N-867"
+   ]
+  },
+  "note": "Weidner named; Erika spelling fixed."
+ }
+]

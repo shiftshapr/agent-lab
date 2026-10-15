@@ -15,6 +15,11 @@
     ],
     "reviewed": [
       {
+        "claim": "C-6081",
+        "node": "N-113",
+        "reason": "claim text: 'such as her sister' (Candace Owens' sister); verification pass 2026-10-15"
+      },
+      {
         "claim": "C-4227",
         "node": "N-271",
         "reason": "claim text: 'possibly with Brian or Dan' (Dan Flood); verification pass 2026-10-15"

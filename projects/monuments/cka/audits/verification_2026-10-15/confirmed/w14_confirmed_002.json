@@ -1,0 +1,492 @@
+[
+ {
+  "claim": "C-3273",
+  "episode": 140,
+  "decision": "accept",
+  "fix": {
+   "claim": "Viewer Manny Petty asserts that Mikey McCoy was on the phone within two seconds of Charlie Kirk being shot, did not appear visibly shocked, and walked away; the host says they are on record lying about it and that the explanations have shifted.",
+   "names": [
+    {
+     "wrong": "Mikey McQuaid",
+     "right": "Mikey McCoy",
+     "source": "https://www.liberty.edu/news/2025/10/24/turning-point-usas-michael-mccoy-honors-charlie-kirk-at-liberty-university-convocation"
+    }
+   ]
+  },
+  "note": "McCoy confirmed (web: TPUSA chief of staff who called Erika); already in name corrections config. Host does say 'on record lying'."
+ },
+ {
+  "claim": "C-3274",
+  "episode": 140,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads, from Ellie, contrasts the host's message of wanting these people to live and face consequences with Frank Turek's message that 'she should be killed for what she said'; the host agrees there is something very dark about their constant use of the Bible.",
+   "mentions": [
+    "N-3",
+    "N-7"
+   ]
+  },
+  "note": "Comment contrasts Candace's and Frank's messages; nothing ties 'she' to Erika. Candace and Turek named."
+ },
+ {
+  "claim": "C-10444",
+  "episode": 140,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-864"
+   ]
+  },
+  "note": "Goforth is named only after the quoted line."
+ },
+ {
+  "claim": "C-10455",
+  "episode": 140,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim does not name or refer to Erika Kirk."
+ },
+ {
+  "claim": "C-10480",
+  "episode": 140,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-562",
+    "N-3",
+    "N-18"
+   ]
+  },
+  "note": "Claim names 'Andrew Wilson's wife'."
+ },
+ {
+  "claim": "C-3281",
+  "episode": 141,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:08:15",
+   "mentions": [
+    "N-18",
+    "N-3",
+    "N-57"
+   ]
+  },
+  "note": "N-57 add right. Moderator role stated earlier: ~07:08 'calls PBD and asks him to moderate', ~08:20 'since PBD accepted being the moderator'."
+ },
+ {
+  "claim": "C-3285",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Rachel Wilson, replying to a post asking whether the host was being fed answers through her in-ear monitor, wrote that she knew they had headpieces but was not sure why they had them, and believed the contract allowed each to wear an earpiece.",
+   "timestamp": "01:03:35"
+  },
+  "note": "The 'fed answers' post is someone else's; Rachel's reply read at ~01:05:35. 'Rachel responds' spoken ~01:03:43."
+ },
+ {
+  "claim": "C-3289",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Erika Kirk says she and Charlie Kirk promised each other never to live in fear, that he was not messaging people the day before saying he would be murdered, and \"And I have his cell phone.\"",
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Speaker is Erika (host ties it to her Glenn Beck appearance asserting she has his phone), not Wilson."
+ },
+ {
+  "claim": "C-6028",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Steven Crowder's brand \"sort of crashed and burned\" when he was caught on a doorbell cam berating his eight-month pregnant now ex-wife, who was pregnant with twins, and that he never really recovered from that."
+  },
+  "note": "'Obsession stems from her covering that' not said."
+ },
+ {
+  "claim": "C-6037",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-271"
+   ]
+  },
+  "note": "Kolvet not referred to in the claim."
+ },
+ {
+  "claim": "C-6052",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a played exchange, the host says the body-cam point is why it is impossible for her to think that Erika Kirk is not complicit somehow. Wilson asks whether that would make Erika complicit in his death, and the host replies that she did not say complicit in death and that he added those words."
+  },
+  "note": "'I didn't say complicit in death' is the host's reply."
+ },
+ {
+  "claim": "C-6065",
+  "episode": 141,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the server gave a first-person account of serving him, that they contacted the FBI, and that he shared his experience, recognized Tyler Robinson on the news, and gave an interview; she adds that she spoke to the owner.",
+   "label": "Host says the restaurant server contacted the FBI and recognized Robinson on the news"
+  },
+  "note": "Transcript says 'They contacted the FBI' (plural, unclear who); keep that wording rather than assign it to the server."
+ },
+ {
+  "claim": "C-6071",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-18"
+   ]
+  },
+  "note": "Rachel not referred to in claim."
+ },
+ {
+  "claim": "C-6072",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim refers only to the host."
+ },
+ {
+  "claim": "C-6074",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-18",
+    "N-57"
+   ]
+  },
+  "note": "Rachel not referred to."
+ },
+ {
+  "claim": "C-6075",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Crowder not referred to in claim."
+ },
+ {
+  "claim": "C-6081",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-113"
+   ]
+  },
+  "note": "Claim names her sister."
+ },
+ {
+  "claim": "C-3294",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-22",
+    "N-262"
+   ],
+   "claim": "Kolvet stated on Tucker Carlson that Farnsworth told him he took the SD cards \"because I know people can be evil,\" and said there were videos of people stealing hats off the table after the incident."
+  },
+  "note": "Kolvet cites videos, not witnessing; Kolvet and Farnsworth named."
+ },
+ {
+  "claim": "C-3296",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:22:25",
+   "claim": "The host says newly released footage shows Farnsworth looking around nervously, putting the SD card in his pocket and zipping it, then taking out his phone and texting with someone instead of going to the other cameras."
+  },
+  "note": "Content at 22:26 block; 'within minutes' not stated."
+ },
+ {
+  "claim": "C-3297",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:31:50",
+   "mentions": [
+    "N-831",
+    "N-832"
+   ],
+   "claim": "In a clip the host plays, John Kiriakou stated on the Danny Jones podcast that nobody crossed a state line and nothing in the case would make it federal unless there was a conspiracy.",
+   "names": [
+    {
+     "wrong": "John Kirao",
+     "right": "John Kiriakou",
+     "source": "https://en.wikipedia.org/wiki/John_Kiriakou"
+    }
+   ]
+  },
+  "note": "Kiriakou confirmed: ex-CIA torture whistleblower (2007), appeared on Danny Jones and discussed FBI role in Kirk case."
+ },
+ {
+  "claim": "C-3298",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:35:50"
+  },
+  "note": "Photo remark comes in Rogan clip after 35:31."
+ },
+ {
+  "claim": "C-3301",
+  "episode": 142,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:50:15"
+  },
+  "note": "Zamut 'blessing' comment read ~50:20 and golf/Cadence music comment at 53:33; chapter start 45:11 is minutes early."
+ },
+ {
+  "claim": "C-9169",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-22",
+    "N-262"
+   ]
+  },
+  "note": "Claim names Farnsworth."
+ },
+ {
+  "claim": "C-9170",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-22",
+    "N-262"
+   ]
+  },
+  "note": "'The staffer' is Farnsworth."
+ },
+ {
+  "claim": "C-9171",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-262"
+   ]
+  },
+  "note": "Claim names Farnsworth."
+ },
+ {
+  "claim": "C-9179",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that she has known what Farnsworth did since October, and that as she wondered whom she could trust at TPUSA there was a network of government employees fighting to get the truth out who were wondering whom they could trust as well.",
+   "mentions": [
+    "N-3",
+    "N-262"
+   ]
+  },
+  "note": "Causal link not stated; Farnsworth named."
+ },
+ {
+  "claim": "C-9192",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the case has gone mainstream and been discussed on Shawn Ryan and more recently on Joe Rogan, where guests Mark Normand, Shane Gillis and Ari Shaffir discussed the Tyler Robinson case and the PR campaign around Erika Kirk.",
+   "names": [
+    {
+     "wrong": "Ari Schaefer",
+     "right": "Ari Shaffir",
+     "source": "https://www.mediaite.com/online/joe-rogan-reveals-hes-leaning-towards-candace-owens-on-charlie-kirk-assassination-theories/"
+    }
+   ]
+  },
+  "note": "Shaffir confirmed via Mediaite on the Rogan episode with Gillis and Normand."
+ },
+ {
+  "claim": "C-3307",
+  "episode": 143,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5",
+    "N-125"
+   ]
+  },
+  "note": "Claim names Trump."
+ },
+ {
+  "claim": "C-3309",
+  "episode": 143,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-787",
+    "N-3",
+    "N-1",
+    "N-40"
+   ]
+  },
+  "note": "Piker named; Mitchell not."
+ },
+ {
+  "claim": "C-3310",
+  "episode": 143,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-3"
+   ]
+  },
+  "note": "Mitchell not in claim."
+ },
+ {
+  "claim": "C-3311",
+  "episode": 143,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host plays a clip she says is from the Wear Forbidden account, a short parody video using the Matrix red-pill/blue-pill framing about the Tyler Robinson case, repeating \"so what?\" in response to \"positive evidence,\" \"appeal to emotion,\" and \"burden of proof.\"",
+   "label": "Host Plays Wear Forbidden Matrix-Parody Video Repeating \"So What?\" Against Tyler Robinson Case Argumentation Standards",
+   "names": [
+    {
+     "wrong": "Where Forbidden",
+     "right": "Wear Forbidden",
+     "source": "https://x.com/WearForbidden/status/2074886192781287626"
+    }
+   ]
+  },
+  "note": "Confirmed @WearForbidden satire account on X (web search); transcript chapter also says Wear Forbidden."
+ },
+ {
+  "claim": "C-3312",
+  "episode": 143,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:10:57"
+  },
+  "note": "'Within 10 minutes... my source in government' spoken ~11:02 by word-rate in 10:34 block; 11:05 would be after it."
+ },
+ {
+  "claim": "C-7537",
+  "episode": 143,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that in the previous episode she demonstrated that Terryl lied to her about not knowing how to send a clip and about a fear that Google would hack him.",
+   "label": "Host Says Terryl Lied to Her About Not Knowing How to Send a Clip",
+   "names": [
+    {
+     "wrong": "Terrence",
+     "right": "Terryl",
+     "source": "https://x.com/ShadowofEzra/status/1982964773332337104"
+    }
+   ]
+  },
+  "note": "Terryl Farnsworth spelling confirmed in coverage; prior episode's clip discussion is about him."
+ },
+ {
+  "claim": "C-7572",
+  "episode": 143,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-125",
+    "N-40"
+   ]
+  },
+  "note": "Trump not named in claim; 'Robinson's' refers to Tyler."
+ },
+ {
+  "claim": "C-3313",
+  "episode": 144,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the episode footage looks very much like Terryl Farnsworth inserting an SD card into his laptop and accessing it within approximately 10 minutes of Charlie Kirk being hit.",
+   "mentions": [
+    "N-262",
+    "N-1"
+   ]
+  },
+  "note": "Hedge restored; Hull not named."
+ },
+ {
+  "claim": "C-3316",
+  "episode": 144,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says lead investigator David Hull, who she says did not receive the SD cards, informed the preliminary hearing of the chain of custody.",
+   "label": "Host Says Lead Investigator David Hull Did Not Receive the SD Cards"
+  },
+  "note": "Host's statement, not Hull's testimony."
+ },
+ {
+  "claim": "C-3320",
+  "episode": 144,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the prosecution (Utah County Attorney's Office) potentially decreased the aspect ratio, that maybe it was the FBI, that somebody did, and that an emailer told her it was highly unlikely the court did it.",
+   "label": "Host Says the Prosecution or Possibly the FBI, Not Likely the Court, Decreased the Aspect Ratio",
+   "mentions": []
+  },
+  "note": "Hedges restored; Bricker not in claim."
+ },
+ {
+  "claim": "C-3322",
+  "episode": 144,
+  "decision": "amend",
+  "fix": {
+   "claim": "On the Kolvet/Neff podcast, Andrew Wilson said that after reviewing the clip it seemed to him Candace was making a comparison to nationalism rather than apologetics for Hitler, and he pushed back on Andrew Kolvet's framing.",
+   "mentions": [
+    "N-18",
+    "N-14",
+    "N-160"
+   ]
+  },
+  "note": "Claim text right, but 'Kolvet/Neff podcast' still names Neff, so keep N-160."
+ },
+ {
+  "claim": "C-3325",
+  "episode": 144,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that on September 14, 2025 Andrew Kolvet told her the TPUSA board had already voted in Erika Kirk, said not to say it yet, and that it was not being announced publicly."
+  },
+  "note": "Host recounts it from memory at ~53:20, not from artifacts."
+ },
+ {
+  "claim": "C-6096",
+  "episode": 144,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Erika Kirk's prosecution team at the preliminary hearing looked at videos and inferred what it believed it saw, and that she is doing the same with the footage."
+  },
+  "note": "Host says 'Erika's prosecution'."
+ }
+]

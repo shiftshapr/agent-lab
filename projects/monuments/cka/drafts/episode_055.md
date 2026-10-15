@@ -344,7 +344,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-438** Johnny Moore
+**N-438** Johnnie Moore
 
 Former Liberty University lead pastor (left 2014); founder of Chyros Company; claimed in this episode to be a disciple of Ron Godwin. Self-identifies in audio as involved with ADL and Aspen Institute.
 

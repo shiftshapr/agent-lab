@@ -1,0 +1,789 @@
+[
+ {
+  "claim": "C-6054",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6055",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6056",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6057",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6058",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6059",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6060",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6061",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6062",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6063",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript says owner pulled receipt; town is Panguitch (transcribed 'Penguitch'); title spelling 'Pangitch' wrong.",
+  "fix": {
+   "label": "Host Says She Spoke to the Panguitch Restaurant Owner, Who Said He Pulled the Receipt and It Was Robinson's"
+  }
+ },
+ {
+  "claim": "C-6064",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6065",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'first person account of the server... They contacted the FBI. He shared his experience. He recognized Tyler Robinson on the news.' Then 'The owner, I spoke to him.' Claim gives these to owner and staff.",
+  "fix": {
+   "claim": "The host says the server who served him contacted the FBI, shared his experience, recognized Tyler Robinson on the news, and gave an interview, and that she separately spoke to the owner.",
+   "label": "Host says the restaurant server contacted the FBI and recognized Robinson on the news"
+  }
+ },
+ {
+  "claim": "C-6066",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6067",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6068",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6069",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6070",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6071",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name or refer to Rachel Wilson (N-562); she appears only in the next sentence.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-18"
+   ]
+  }
+ },
+ {
+  "claim": "C-6072",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names neither Wilson nor Rachel Wilson; only the host is referred to.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-6073",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6074",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not refer to Rachel Wilson (N-562); host says 'he and I were sharing' earpieces, PBD had a direct line.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-18",
+    "N-57"
+   ]
+  }
+ },
+ {
+  "claim": "C-6075",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not refer to Steven Crowder (N-260); he is named only in the preceding intro.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-6076",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6077",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6078",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6079",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6080",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6081",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'People like my sister... I'm going to take care of my sisters.' Claim names her sister but Mentions omits N-113.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-113"
+   ]
+  }
+ },
+ {
+  "claim": "C-6082",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6083",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6084",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6085",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6086",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6087",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6088",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6089",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6090",
+  "episode": 141,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3290",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3291",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3292",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Hull: 'originally provided, I believe, a flash drive'; 'downloadable versions, electronic versions' (Google links is the host's gloss). Hedge 'I believe' dropped.",
+  "fix": {
+   "claim": "SBI Agent David Hull testified that Farnsworth originally provided, he believed, a flash drive to Lieutenant O'Brien, then downloadable electronic versions to Agent Mortonson on September 10, with the 1102 collected later on May 6, 2026 \u2013 not the SD card. The host describes these as Google links."
+  }
+ },
+ {
+  "claim": "C-3293",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3294",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Kolvet and Farnsworth but Mentions lacks N-14, N-262. Kolvet says 'videos of people... stealing hats', not that he witnessed it.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-22",
+    "N-262"
+   ],
+   "claim": "Kolvet stated on Tucker Carlson that Farnsworth told him he took the SD cards \"because I know people can be evil,\" and said there were videos of people stealing hats off the table after the incident."
+  }
+ },
+ {
+  "claim": "C-3743",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Kolvet: 'There was videos of people after the incident going and stealing hats off the table', not that he witnessed theft.",
+  "fix": {
+   "claim": "C-3294 spells the speaker 'Andrew Kolvet' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-262) told him he took the SD cards \"because I know people can be evil,\" and said there were videos of people stealing hats off the table after the incident."
+  }
+ },
+ {
+  "claim": "C-3295",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Statement: 'from what I can see, it is a true and correct representation'; host says 'we're not sure if Terl clipped it or SBI'. Claim drops hedge and presents inference as fact.",
+  "fix": {
+   "claim": "Per Farnsworth's 1102 statement the host reads, clip 80704 is, 'from what I can see,' 'a true and correct representation of a portion of the larger files previously sent to SBI'; the host argues this shows only the back-camera footage was clipped, though she is not sure whether Farnsworth or SBI clipped it."
+  }
+ },
+ {
+  "claim": "C-3296",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Pocket/zip/texting described from ~22:30 ('puts the SD card in his pocket and he zips up... whips out his phone'), 70-90s after claim ts. 'Within minutes' not stated.",
+  "fix": {
+   "timestamp": "00:22:25",
+   "claim": "The host says newly released footage shows Farnsworth looking around nervously, putting the SD card in his pocket and zipping it, then taking out his phone and texting with someone instead of going to the other cameras."
+  }
+ },
+ {
+  "claim": "C-3297",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Quote at ~32:00 ('Nobody ever crossed a state line'), ~90s after ts 30:34. Name is John Kiriakou (N-831), host on Danny Jones (N-832); Mentions empty; clip not flagged.",
+  "fix": {
+   "timestamp": "00:31:50",
+   "mentions": [
+    "N-831",
+    "N-832"
+   ],
+   "claim": "In a clip the host plays, John Kiriakou stated on the Danny Jones podcast that nobody crossed a state line and nothing in the case would make it federal unless there was a conspiracy.",
+   "names": [
+    {
+     "wrong": "John Kirao",
+     "right": "John Kiriakou",
+     "source": "https://en.wikipedia.org/wiki/John_Kiriakou"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3298",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Rogan clip begins 35:31; photo remark ('they found a photo... Tyler Robinson') only ~35:55+, so details (shrunken, car hood) are well over 75s after ts 34:33 (host intro). Later details beyond window.",
+  "fix": {
+   "timestamp": "00:35:50"
+  }
+ },
+ {
+  "claim": "C-3299",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3300",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3301",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Opening at 00:01 has no comments; claim concerns viewer comments (Comments chapter starts 45:11). Content not in window.",
+  "fix": {
+   "timestamp": "00:45:11"
+  }
+ },
+ {
+  "claim": "C-9154",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Crowder's CEO in host's home playroom is a private/household dispute, not about the assassination or its investigation.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9155",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9156",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'we know he went up and he recorded himself.' 'On stage' is not said.",
+  "fix": {
+   "claim": "The host says Farnsworth went up, recorded himself announcing that Charlie was dead, then went down and began removing the camera behind Charlie in particular."
+  }
+ },
+ {
+  "claim": "C-9157",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9158",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9159",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9160",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9161",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9162",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9163",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

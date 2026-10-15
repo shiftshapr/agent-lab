@@ -1537,7 +1537,7 @@
       "@id": "C-3313",
       "ref": "C-3313",
       "label": "Host Says Terryl Accessed an SD Card on His Laptop at the Crime Scene",
-      "claim": "The host says the episode footage shows Terryl Farnsworth inserting an SD card into his laptop and working on it within approximately 10 minutes of Charlie Kirk being shot.",
+      "claim": "The host says the episode footage looks very much like Terryl Farnsworth inserting an SD card into his laptop and accessing it within approximately 10 minutes of Charlie Kirk being hit.",
       "anchored_artifacts": [
         "A-2301.1",
         "A-2301.2"
@@ -1551,8 +1551,7 @@
       "investigative_direction": "Obtain the original raw footage and forensic metadata to confirm SD-card insertion sequence; cross-reference with David Hull testimony on chain of custody.",
       "mentions_person_refs": [
         "N-262",
-        "N-1",
-        "N-570"
+        "N-1"
       ]
     },
     {
@@ -1601,8 +1600,8 @@
       "@type": "Claim",
       "@id": "C-3316",
       "ref": "C-3316",
-      "label": "David Hull testified investigators did not receive the SD cards",
-      "claim": "Lead investigator David Hull testified at the preliminary hearing that he did not receive the physical SD cards taken from the scene.",
+      "label": "Host Says Lead Investigator David Hull Did Not Receive the SD Cards",
+      "claim": "The host says lead investigator David Hull, who she says did not receive the SD cards, informed the preliminary hearing of the chain of custody.",
       "anchored_artifacts": [
         "A-2304.1"
       ],
@@ -1621,7 +1620,7 @@
       "@id": "C-3317",
       "ref": "C-3317",
       "label": "Mark Bricker testified the Utah County Attorney's Office created the 20-minute sizzle reel",
-      "claim": "SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office – not the court – created the 20-minute sizzle reel shown in court.",
+      "claim": "SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office, not he, created the 20-minute sizzle reel shown in court.",
       "anchored_artifacts": [
         "A-2304.2"
       ],
@@ -1675,8 +1674,8 @@
       "@type": "Claim",
       "@id": "C-3320",
       "ref": "C-3320",
-      "label": "Host presents the decreased aspect ratio as the prosecution's doing, not the court's",
-      "claim": "The host asserts that the entity which decreased the aspect ratio was the prosecution (Utah County Attorney's Office), the FBI, or another party – but not the court itself.",
+      "label": "Host Says the Prosecution or Possibly the FBI, Not Likely the Court, Decreased the Aspect Ratio",
+      "claim": "The host says the prosecution (Utah County Attorney's Office) potentially decreased the aspect ratio, that maybe it was the FBI, that somebody did, and that an emailer told her it was highly unlikely the court did it.",
       "anchored_artifacts": [
         "A-2304.2",
         "A-2305.1"
@@ -1686,10 +1685,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:30–00:20:30",
-      "investigative_direction": "Trace the production chain of the sizzle reel through prosecution discovery logs; identify all parties with custody between raw footage and exhibit.",
-      "mentions_person_refs": [
-        "N-581"
-      ]
+      "investigative_direction": "Trace the production chain of the sizzle reel through prosecution discovery logs; identify all parties with custody between raw footage and exhibit."
     },
     {
       "@type": "Claim",
@@ -1714,7 +1710,7 @@
       "@id": "C-3322",
       "ref": "C-3322",
       "label": "Andrew Wilson defended Candace on the Hitler-clip interpretation",
-      "claim": "On the Kolvet/Neff podcast, Andrew Wilson stated that after reviewing the clip he concluded Candace was making a nationalism comparison rather than apologizing for Hitler, and pushed back on Blake Neff's framing.",
+      "claim": "On the Kolvet/Neff podcast, Andrew Wilson said that after reviewing the clip it seemed to him Candace was making a comparison to nationalism rather than apologetics for Hitler, and he pushed back on Andrew Kolvet's framing.",
       "anchored_artifacts": [
         "A-2306.2"
       ],
@@ -1724,6 +1720,7 @@
       "investigative_direction": "Locate the original Candace clip being referenced; transcribe the full segment in context.",
       "mentions_person_refs": [
         "N-18",
+        "N-14",
         "N-160"
       ]
     },
@@ -1799,7 +1796,7 @@
       "@id": "C-3325",
       "ref": "C-3325",
       "label": "Kolvet told Candace on September 14, 2025 that the TPUSA board had voted in Erica Kirk",
-      "claim": "Per text/call artifacts, Andrew Kolvet told Candace on September 14, 2025 that the TPUSA board had already voted in Erica Kirk to take over the organization, and asked her not to announce it yet.",
+      "claim": "The host says that on September 14, 2025 Andrew Kolvet told her the TPUSA board had already voted in Erika Kirk, said not to say it yet, and that it was not being announced publicly.",
       "anchored_artifacts": [
         "A-2308.1",
         "A-2308.2"
@@ -1919,7 +1916,7 @@
       "@id": "C-6096",
       "ref": "C-6096",
       "label": "Host Says Prosecution Inferred From Videos at Preliminary Hearing",
-      "claim": "The host says the prosecution team at the preliminary hearing looked at videos and inferred what it believed it saw, and that she is doing the same with the footage.",
+      "claim": "The host says Erika Kirk's prosecution team at the preliminary hearing looked at videos and inferred what it believed it saw, and that she is doing the same with the footage.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10337"
@@ -1957,7 +1954,7 @@
       "@id": "C-6098",
       "ref": "C-6098",
       "label": "Host Says Footage Was Zoomed In When Given to Her Nine Days Later",
-      "claim": "The host says the footage Terryl Farnsworth presented to her nine days after the shooting had already been zoomed in, though she says it is unknown whether he or someone else zoomed it.",
+      "claim": "The host says the footage Terryl Farnsworth presented to her nine days after the shooting had already been zoomed in, though she says she does not know whether he zoomed in the camera footage and sent a Google link to the SBI.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10810"
@@ -1979,7 +1976,7 @@
       "@id": "C-6099",
       "ref": "C-6099",
       "label": "Host Says Hull Placed Lead Investigators on Scene Around 1:30",
-      "claim": "The host says David Hull testified that the lead investigators arrived on the scene around 1:30.",
+      "claim": "The host says David Hull testified, as she believes he said, that the lead investigators arrived on the scene around 1:30.",
       "anchored_artifacts": [
         "A-2304.1"
       ],
@@ -2531,7 +2528,7 @@
       "@id": "C-6125",
       "ref": "C-6125",
       "label": "Podcast Speaker Links the Christchurch Shooter to the Host",
-      "claim": "A speaker on the Kolvet/Neff show says the Christchurch shooter in New Zealand said he was inspired by the host.",
+      "claim": "A speaker on the Kolvet/Neff show says he thinks it was the Christchurch shooter in New Zealand who said he was inspired by the host.",
       "anchored_artifacts": [
         "A-2306.2"
       ],
@@ -2784,7 +2781,9 @@
       "transcript_snippet": "Yeah, Andrew, that's now now your timeline is pushed up to 2024. I was fired in March of 2024.",
       "mentions_person_refs": [
         "N-3",
-        "N-1"
+        "N-1",
+        "N-14",
+        "N-160"
       ]
     },
     {
@@ -2831,7 +2830,7 @@
       "@id": "C-6139",
       "ref": "C-6139",
       "label": "Kolvet Says She Cancelled an Event the Day Before and Went to France With Kanye",
-      "claim": "Andrew Kolvet says the host canceled a TPUSA event the day before, that the event team had to scramble to replace her, and that she ended up in France with Kanye.",
+      "claim": "Andrew Kolvet says the host canceled a TPUSA event the day before, that the event team had to scramble to replace her, and that she ended up in like France with Kanye or something the next day.",
       "anchored_artifacts": [
         "A-2800.1"
       ],

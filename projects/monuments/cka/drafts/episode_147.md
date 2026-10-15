@@ -737,7 +737,7 @@ Claim Timestamp: 00:02:24
 Claim: The host says Judge Graff ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.
 
 Anchored Artifacts: A-2327, A-2328
-Mentions: N-40
+Mentions: N-40, N-136
 
 
 Investigative Direction: Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed.
@@ -749,7 +749,7 @@ Claim Timestamp: 00:04:11
 Claim: The host says Judge Graff declined to dismiss Count 6 (witness tampering for the "ask for a lawyer and stay silent" text to Lance Twiggs) over the defense's constitutional-rights argument, and she plays a clip of the ruling.
 
 Anchored Artifacts: A-2327, A-2327.1
-Mentions: N-40, N-54
+Mentions: N-40, N-54, N-136
 
 Related Nodes: N-10826
 
@@ -863,7 +863,7 @@ Claim Timestamp: 00:22:38
 Claim: As Kirk's vehicle departed for the hospital, a backpack fell from or was tossed from the trunk. Host speculates it is "Chris's bag" but states "not 100% certain."
 
 Anchored Artifacts: A-2329.3
-Mentions: N-493
+Mentions: N-1
 
 Related Nodes: N-10822
 
@@ -873,10 +873,10 @@ Investigative Direction: Identify the bag's owner; obtain receipt / loss-propert
 
 Claim Timestamp: 00:16:16
 
-Claim: Charlie Kirk communicated the night before September 10 that he feared for his life, that he thought they were going to kill him – a claim his wife initially denied and then conceded, and which he allegedly extended to his security team.
+Claim: The host says we now know for a fact that Charlie Kirk communicated the night before that he was fearful for his life and thought they were going to kill him, something she says his wife Erika Kirk initially denied and then had to concede, and that people are now saying he also told his security people to be on him and no one else.
 
 Anchored Artifacts: A-2329 (host narration; no audio or document displayed in this episode presenting the prior communication)
-Mentions: N-1, N-2, N-493
+Mentions: N-1, N-2
 
 Related Nodes:
 
@@ -886,10 +886,10 @@ Investigative Direction: Locate the original source(s) of the prior-night fear c
 
 Claim Timestamp: 00:17:03
 
-Claim: The host says Christopher (Kirk's main security person) and Nate Walker walked toward the Sorensen building and were upstairs in the minutes before the shot, in a clip she says was sent via TikTok to Baron Coleman.
+Claim: The host says Christopher (Kirk's main security person) and Nate Walker walked toward the Sorensen building and were upstairs in the minutes before the shot, in a clip she thinks was captured on TikTok and sent to Baron Coleman.
 
 Anchored Artifacts: A-2329.4
-Mentions: N-505
+Mentions: N-505, N-331
 
 Related Nodes: N-10821
 
@@ -924,10 +924,10 @@ Investigative Direction: Identify the named sources; cross-reference against veh
 
 Claim Timestamp: 00:12:54
 
-Claim: The host says that, based on the security team's testimonies, the two security vehicles (a black Jeep Wagoneer and a Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., before Charlie Kirk arrived in Salt Lake City for the restaurantology event.
+Claim: The host says that, based on the security team's testimonies, the two security vehicles (a black Jeep Wagoneer and a Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., independently of Charlie Kirk, while he was at the restaurantology event in Salt Lake City.
 
 Anchored Artifacts: A-2330 (diagram only; times based on host narrative)
-Mentions: N-1, N-493
+Mentions: N-1
 
 Related Nodes: N-10820
 
@@ -966,6 +966,7 @@ Claim Timestamp: 00:39:42
 Claim: The host explicitly rejects Walsh's "justifying political assassination" framing and characterizes it as a "disingenuous narrative."
 
 Anchored Artifacts: A-2332 (host stance on same artifact)
+Mentions: N-164
 
 Related Nodes: N-10824
 
@@ -1012,7 +1013,7 @@ Investigative Direction: Confirm both posts remain on X; compare timestamps.
 
 **C-3379** Host Says Defense Counsel Framed His Argument as a Citation of the State's Own Theory
 
-Claim Timestamp: 00:42:00
+Claim Timestamp: 00:44:15
 
 Claim: The host says defense counsel Richard Novac, in his probable-cause-hearing argument, was not advancing a personal thesis that political assassinations are acceptable but was citing the state's own theory to argue that the state had failed to satisfy its burden even on its own framing.
 
@@ -1053,7 +1054,7 @@ Investigative Direction: Obtain the state's filing in full; enumerate the specif
 
 Claim Timestamp: 00:48:38
 
-Claim: The August 11 defense filing, page 32, asserts that the state is "inferring upon an inference" to establish political motivation, and that the record contains "no evidence of specific political expressions of Mr. Kirk which, if any, Mr. Robinson may have been aware of or focused on."
+Claim: Per the August 11 defense filing the host shows (page 32), "There's no evidence of specific political expressions of Mr. Kirk which, if any, Mr. Robinson may have been aware of or focused on"; the host says the defense argues the state is "inferring upon an inference."
 
 Anchored Artifacts: A-2337
 Mentions: N-40
@@ -1095,7 +1096,7 @@ Claim Timestamp: 00:30:40
 Claim: Blake Neff testified that Mikey McCoy, within approximately one minute of the shot, called "Erika" (Erica / Erika Kirk) and then called his father Rob McCoy.
 
 Anchored Artifacts: A-2338
-Mentions: N-191, N-2, N-160
+Mentions: N-191, N-2, N-160, N-17
 Contradicts: C-1932, C-3092
 
 Related Nodes: N-10823
@@ -1106,7 +1107,7 @@ Investigative Direction: Obtain Erika Kirk's call detail records; verify call ti
 
 Claim Timestamp: 00:54:25
 
-Claim: The "so much blood" claim attributed to Mikey McCoy did not originate with McCoy himself; the host identifies Pastor Jack Hibbs and Frank Turek as the source within the "pastor orbit." Host states McCoy never publicly described seeing large amounts of blood.
+Claim: The "so much blood" claim attributed to Mikey McCoy did not originate with McCoy himself; the host says it came from his father, from Jack Hibbs and, she thinks, Frank Turek, i.e. "the pastor orbit." The host states McCoy never described seeing a lot of blood in his press.
 
 Anchored Artifacts: A-2339
 Mentions: N-191, N-7, N-209
@@ -1158,7 +1159,7 @@ Investigative Direction: Locate the original source of the Ackman offer; obtain 
 
 Claim Timestamp: 00:29:56
 
-Claim: Blake Neff testified that he observed Mikey McCoy to be "profoundly freaked out" with a "quivering" lip, and that this was the only time Neff had seen McCoy in that state in approximately two years of working together.
+Claim: Blake Neff testified that he saw Mikey McCoy "profoundly freaked out," with a quivering lip that he had never seen before, though he had seen McCoy almost every day for the past two years.
 
 Anchored Artifacts: A-2338
 Mentions: N-191, N-160
@@ -1180,7 +1181,7 @@ Related Nodes:
 
 Investigative Direction: Obtain McCoy's own account; cross-reference against any witness statements of the immediate post-shot huddle.
 
-**C-3392** Neff testified he did not enter the vehicle to drive to the hospital
+**C-3392** Neff Testified He Considered and Rejected Getting Into the SUV While Running
 
 Claim Timestamp: 00:28:58
 
@@ -1198,7 +1199,7 @@ Investigative Direction: Cross-reference against his prior and subsequent statem
 **C-3667** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 01:03:55
-Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Claim: The host, plugging a "CIA hat," says "we know actually the decentralized intelligence agency," adding that there is no nucleus and everybody is sharing in the background and discussing when to drop certain things.
 Transcript Snippet: ...he CIA hat out. Um and it is we know actually the decentralized intelligence agency. There's just no There's no nucleus. Everybody is sharing in the background. We're all meaningfully...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1211,7 +1212,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 **C-3668** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
 
 Claim Timestamp: 01:03:55
-Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Claim: The host plugs a "CIA hat" as part of her merch and then says "it is we know actually the decentralized intelligence agency."
 Transcript Snippet: ...e on the website. Also, while you're there, buy a CIA hat. It's great. I love when I see people out and they have the CIA hat out. Um and it is we know actua...
 Anchored Artifacts: A-2492.1
 Mentions: N-3
@@ -1224,7 +1225,7 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 **C-3669** Host says DIA / crowd intel has no nucleus
 
 Claim Timestamp: 01:03:55
-Claim: The host claims the decentralized / crowd intelligence effort has "no nucleus," emphasizing distributed tip-gathering rather than a central cell.
+Claim: The host says the decentralized intelligence agency has "no nucleus," that everybody is sharing in the background, and that they are all discussing when to drop certain things.
 Transcript Snippet: ...ized intelligence agency. There's just no There's no nucleus. Everybody is sharing in the background. We're all meaningfully discussing when we should drop cert...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1325,7 +1326,7 @@ Claim: The host says influencers told the audience that Tyler Robinson confessed
 Transcript Snippet: He confessed it to his parents when he got to his house. At other points you were told that his like his parents admitted this in written statements in support of their son's prosecution.
 
 Anchored Artifacts: 
-Mentions: N-40, N-125
+Mentions: N-40
 Related Nodes: N-10566, N-10021
 Supports: C-5041
 Tags: relevance:core
@@ -1542,7 +1543,7 @@ Investigative Direction: Time the sequence from the shot to loading using the av
 
 ---
 
-**C-14816** Host Says TPUSA Side Now Claims Kirk Told Security to Be on Him and No One Else
+**C-14816** Host Says People Are Now Claiming Kirk Told Security to Be on Him and No One Else
 
 Claim Timestamp: 00:16:40
 
@@ -1632,7 +1633,7 @@ Claim: The host says that in the footage nobody asks where Chris is or for the k
 Transcript Snippet: No nobody's going, "Hey, where's Chris? We need the keys." It's just open and ready for them.
 
 Anchored Artifacts: A-2329.1
-Mentions: N-493
+Mentions: 
 Related Nodes: N-10822
 Tags: relevance:core
 Investigative Direction: Frame-by-frame review of the footage for any exchange of keys or request for them.
@@ -1664,7 +1665,7 @@ Claim: The host says the security team blocked in its own vehicles, which she ca
 Transcript Snippet: You're the security, you should not be blocked in, your vehicle should be able to get out to just as easily as Charlie's vehicle can get out.
 
 Anchored Artifacts: A-2330
-Mentions: N-1
+Mentions: 
 Related Nodes: N-11406
 Tags: relevance:core
 Investigative Direction: Review the parking footage to see who parked where and in what order.

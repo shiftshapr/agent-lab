@@ -1,0 +1,823 @@
+[
+ {
+  "claim": "C-9118",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9119",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host says 'Gaza Humanitarian Fund, then run by Johnny Moore'; the group is the Gaza Humanitarian Foundation, chaired by Johnnie Moore (transcription). 'Cassie Akiva' vs node Kassy Akiva: unresolved name.",
+  "fix": {
+   "claim": "The host says the organizer collaborated with Daily Wire employee Cassie Akiva and the Gaza Humanitarian Foundation, then run by Johnnie Moore, to create files on people for Israel's PR, including going after a guest Tucker Carlson had on.",
+   "names": [
+    {
+     "wrong": "Gaza Humanitarian Fund",
+     "right": "Gaza Humanitarian Foundation",
+     "source": "https://en.wikipedia.org/wiki/Gaza_Humanitarian_Foundation"
+    },
+    {
+     "wrong": "Johnny Moore",
+     "right": "Johnnie Moore",
+     "source": "https://religionnews.com/2025/06/05/johnnie-moore-prominent-evangelical-and-israel-supporter-to-head-aid-group/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-9120",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9121",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9122",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: 'No Soup for Nles' (transcript garble)",
+  "fix": {}
+ },
+ {
+  "claim": "C-9123",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host lists '92 operatives, 10 operatives, six operatives, two operatives'; claim drops six. Reader not misled.",
+  "fix": {
+   "claim": "The host says she is on no group chats of 92, ten, six or two operatives, works with her team and reaches out to people such as Baron Coleman, and that no one is coordinating to take down Erika Kirk."
+  }
+ },
+ {
+  "claim": "C-9124",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Garbled: 'Charlie Spearing, the one who worked on the Trust Us, bro. Charlie definitely wanted Erika to take over... The author of that, the Aspen, I watched it so you don't have to guy.' Last clause is a separate guy's tag, not author watching a video.",
+  "fix": {
+   "claim": "The host says Daily Mail's Charlie Spearing, 'the one who worked on the Trust Us, bro' piece, sent her an inquiry, and describes the author of that piece as 'the Aspen, I watched it so you don't have to guy'."
+  }
+ },
+ {
+  "claim": "C-9125",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9126",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9127",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9128",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Danny Philip/Phillip spelling unresolved.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9129",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9130",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9131",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9132",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9133",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9134",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9135",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9136",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9137",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9138",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9139",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9140",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9141",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'He always accepts the slop up in the beginning'; 'pro-Erika line' is interpretation.",
+  "fix": {
+   "claim": "The host says Piers Morgan has been hosting people attacking her, always accepts 'the slop' in the beginning, and a year on admits that she was right."
+  }
+ },
+ {
+  "claim": "C-9142",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Clip: Marx 'I studied false memories and had 123 visits to a trauma specialist.' Marx biography is context, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-9143",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'Everything she presented herself to be to Charlie is and you just want us to let it go.' Sentence unfinished; 'is not true' is added.",
+  "fix": {
+   "claim": "The host says that when you start looking into everything about Erika's past you are 'falling through a dark hole'."
+  }
+ },
+ {
+  "claim": "C-9144",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9145",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9146",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9147",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'they were publishing my kids' cars and stuff'; label adds 'Images'.",
+  "fix": {
+   "label": "Host Says People Published Her Kids' Cars to Scare Her"
+  }
+ },
+ {
+  "claim": "C-9148",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9149",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9150",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9151",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9152",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'I guess September... September 5th, Ashley' then 'September 1st. Okay.' Not stated as her producer; hedge 'I guess' dropped.",
+  "fix": {
+   "claim": "The host says that, after checking the date with Ashley, an announcement is due around September 1 on whether they will go through with the Tyler Robinson trial."
+  }
+ },
+ {
+  "claim": "C-9153",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3236",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Email: 'in French, we say Reneur, which translates as sniffer dog. I have a feeling this text is being translated from French.' 'calque' and 'chien renifleur' are not said.",
+  "fix": {
+   "claim": "A viewer email the host reads says that in French they say 'Reneur' (as transcribed), which translates as sniffer dog, and that the writer has a feeling the Tyler Robinson text is being translated from French."
+  }
+ },
+ {
+  "claim": "C-3237",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3238",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3239",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3240",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3241",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Andrew Kolvet (N-14) but Mentions lists only N-18.",
+  "fix": {
+   "mentions": [
+    "N-18",
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-3242",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3243",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "In clip Wilson says 'you're too stupid to understand them' and 'Shut your stupid mouth'; the 'three baby daddies' remark is the woman's. No family denigration by Wilson shown.",
+  "fix": {
+   "claim": "A debate clip the host plays shows Andrew Wilson, debating a female opponent named Charlie, telling her she is 'too stupid' to understand his worldview and to shut her mouth when she mentions his wife."
+  }
+ },
+ {
+  "claim": "C-3244",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'we can show you this clip. You will see that when he falls, he even falls onto his left hand' - a clip, not a photo.",
+  "fix": {
+   "claim": "The host says a snowboarding clip she displays shows Lance Twiggs falling onto his left hand, which she says is consistent with left-handedness or ambidexterity.",
+   "label": "Host Says Lance Twiggs Snowboarding Clip Shows Left-Hand Landing"
+  }
+ },
+ {
+  "claim": "C-3245",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3246",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3247",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-2 Erika Kirk, but the claim does not name or refer to her. 1-2% quote is in the 17:57 block.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-89"
+   ]
+  }
+ },
+ {
+  "claim": "C-3248",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names no person (maroon-shirt person); Mentions N-40 Tyler Robinson is not referred to.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-3249",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3250",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Joel Barry (node N-242 Joel Berry, Babylon Bee) but Mentions is empty; name is a transcription error.",
+  "fix": {
+   "claim": "Joel Berry posted on X that his wife's homemade burritos for a family of eight cost less than $20 total.",
+   "label": "Joel Berry Posted That Burritos for 8 Cost Under $20",
+   "mentions": [
+    "N-242"
+   ],
+   "names": [
+    {
+     "wrong": "Joel Barry",
+     "right": "Joel Berry",
+     "source": "https://weartv.com/news/local/conservative-speaker-joel-berry-hosts-event-in-honor-of-charlie-kirk-at-uwf"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3251",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Joel Barry (Joel Berry, N-242) named but Mentions empty. Tweet: 'I'd like to go back to when there were no wars and I could afford groceries, please.'",
+  "fix": {
+   "claim": "Joel Berry tweeted in 2024, in reply to Kamala Harris, that he would like to \"go back to when there were no wars and I could afford groceries.\"",
+   "label": "Joel Berry in 2024 Tweeted Desire to Return to Affordable Grocery Era",
+   "mentions": [
+    "N-242"
+   ],
+   "names": [
+    {
+     "wrong": "Joel Barry",
+     "right": "Joel Berry",
+     "source": "https://weartv.com/news/local/conservative-speaker-joel-berry-hosts-event-in-honor-of-charlie-kirk-at-uwf"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3252",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Joel Barry (Joel Berry, N-242) named but not in Mentions. '30%+' not in window text (cut at 'The second problem is that').",
+  "fix": {
+   "claim": "Per a post the host reads, Matt Walsh replied to Joel Berry noting that virtually no Republican was making \"the affordability crisis is fake\" arguments during the Biden years, and that grocery prices have risen 30%+ this decade.",
+   "mentions": [
+    "N-164",
+    "N-242"
+   ],
+   "names": [
+    {
+     "wrong": "Joel Barry",
+     "right": "Joel Berry",
+     "source": "https://weartv.com/news/local/conservative-speaker-joel-berry-hosts-event-in-honor-of-charlie-kirk-at-uwf"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3253",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Dan Crenshaw (N-929) named but not in Mentions. Tweet: 'Stop whining, get a job, eat ramen like the rest of us did in college'.",
+  "fix": {
+   "mentions": [
+    "N-929"
+   ]
+  }
+ },
+ {
+  "claim": "C-3254",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3255",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Ben Shapiro (N-97) named but not in Mentions. Trailer 'wombs' quote falls beyond provided window; unverified.",
+  "fix": {
+   "mentions": [
+    "N-97"
+   ]
+  }
+ },
+ {
+  "claim": "C-3256",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Rabbi Shmuley (N-930 Rabbi Shmuley Boteach) named; Mentions empty.",
+  "fix": {
+   "mentions": [
+    "N-930"
+   ]
+  }
+ },
+ {
+  "claim": "C-3257",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3258",
+  "episode": 139,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'when we looked further into Luna... we learned that the demon dog wears a pentagram as a necklace' - her own research, not the email.",
+  "fix": {
+   "claim": "The host says that, on looking further into Luna, she learned the 'demon dog' character from Helluva Boss wears a pentagram as a necklace.",
+   "timestamp": "00:24:45"
+  }
+ },
+ {
+  "claim": "C-3259",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

@@ -784,7 +784,7 @@ Investigative Direction: Confirm via hotel guest logs (subject to availability) 
 
 Claim Timestamp: 00:38:43
 
-Claim: A Sky News investigation, drawing on Iranian state-linked news agency footage, identified Tomahawk missile tail fins in buildings struck during the Iranian school bombing; Sky News also stated a US carrier strike group was within range and that Tomahawks are precision-guided with onboard cameras.
+Claim: A Sky News investigation, drawing on footage from an Iranian state-linked news agency of a strike on buildings near the school, identified the distinctive tail fins of a Tomahawk missile; Sky News also stated a US carrier strike group was within range and that Tomahawks are precision-guided with onboard cameras.
 
 Anchored Artifacts: A-2239.1, A-2239.2
 
@@ -801,6 +801,7 @@ Claim Timestamp: 00:43:17
 Claim: In an audio segment the host plays, Mark Levin urges arming Iranian protesters and references testimony from a protest leader describing Iranian streets running "red with blood."
 
 Anchored Artifacts: A-2240.1
+Mentions: N-245
 
 Related Nodes:
 
@@ -870,8 +871,8 @@ Investigative Direction: Cross-reference with the Diocese of Phoenix / Catholic 
 
 **C-3665** Host identifies show community as Decentralized Intelligence Agency
 
-Claim Timestamp: 00:52:11
-Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Claim Timestamp: 00:53:44
+Claim: The host says, while plugging merch, 'we are the decentralized intelligence agency'.
 Transcript Snippet: ...lligent agency hats, our CIA hats, but we are the decentralized intelligence agency. Yeah, that one. The green one's my favorite. The hunter green one is the one that I wear around to...
 Anchored Artifacts: 
 Mentions: N-3
@@ -883,7 +884,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 **C-3666** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
 
-Claim Timestamp: 00:52:11
+Claim Timestamp: 00:53:41
 Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
 Transcript Snippet: ...y a shirt to support us, a sweatshirt. Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency. Yeah, that one. The green one's my...
 Anchored Artifacts: A-2491.1
@@ -995,7 +996,7 @@ Claim: The host says the bar was low: all that was needed was video of Tyler Rob
 Transcript Snippet: All they had to do uh, was show us the video of him taking the shot. All they had to do was somehow connect the gun to the crime scene.
 
 Anchored Artifacts: 
-Mentions: N-40, N-160, N-3
+Mentions: N-40, N-3
 Related Nodes: N-10110
 Tags: relevance:core
 Investigative Direction: Review the preliminary hearing exhibit list and discovery for any footage of the shooting or evidence linking the rifle to the scene.
@@ -1227,12 +1228,12 @@ Investigative Direction: Identify who at TPUSA, UVU and campus clubs had access 
 
 Claim Timestamp: 00:12:30
 
-Claim: The host says TPUSA event staff, club students, university planners and possibly UVU police would have known who was attending, and says no footage of the man who scoped the campus the day before has been mentioned.
+Claim: The host says TPUSA event staff, club students, university planners and possibly UVU police would have known who was attending Lee's planned appearance, and says 'No footage must exist' of the man who scoped the campus the day before.
 
 Transcript Snippet: Certainly Turning Point USA event staff would have known. Club students would have known.
 
 Anchored Artifacts: A-2884.1
-Mentions: N-40, N-3
+Mentions: N-786, N-3
 Related Nodes: N-10776
 Tags: relevance:core
 Investigative Direction: Ask UVU for camera coverage of the September 9 contact and a list of everyone who received the VIP attendee list.
@@ -1374,7 +1375,7 @@ Investigative Direction: Obtain the full trial transcript of Bagley's cross-exam
 
 Claim Timestamp: 00:20:18
 
-Claim: In the played testimony, Bagley answers 'I didn't notice anybody' when asked whether he checked for anyone on the roof between the suspect's jump and his arrival, then agrees he did not review the video to see whether anybody had been on or disturbed the scene.
+Claim: In the played testimony, Bagley answers 'I didn't notice anybody' when asked whether he checked for anyone on the roof between the suspect's jump and his arrival, and the defense attorney then puts to him that he did not review the video to see whether anybody had been on or disturbed the scene.
 
 Transcript Snippet: So, you did not review the video to see if there was someone between you that individual jumping off and you coming on
 
@@ -1474,7 +1475,7 @@ Investigative Direction: Request the USU and UVU police reports from September 1
 
 Claim Timestamp: 00:26:23
 
-Claim: The host says that among the many emails about Christopher Bagley and his history none defended him, and her gut tells her he could have answered more questions on the stand if he had wanted to.
+Claim: The host says that among the many emails about Christopher Bagley and his history there were 'not many people or any people' defending him, and her gut tells her he could have answered more questions on the stand if he had wanted to.
 
 Transcript Snippet: there were not many people or any people in our inbox that were defending Christopher Bagley, which is interesting.
 
@@ -1536,9 +1537,9 @@ Investigative Direction: This can only be confirmed through the host's team; ask
 
 **C-7514** Host Says Russia's Ministry of Health and a Catholic Family in Russia Helped Her Security Man
 
-Claim Timestamp: 00:31:05
+Claim Timestamp: 00:32:16
 
-Claim: The host thanks Russia's Ministry of Health, the Catholic family in Russia who visited him and the team in Russia, saying he was treated with dignity after what happened to him there.
+Claim: The host thanks Russia's Ministry of Health, the Catholic family in Russia who visited him and brought their children, and the team in Russia, saying everyone there was amazing.
 
 Transcript Snippet: also to Russia's Ministry of Health, how grateful we are, everybody that was involved in this
 
@@ -1629,7 +1630,7 @@ Transcript Snippet: 156 people were murdered, including 120 students and 26 teac
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11145, N-10541
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare casualty figures for the school strike across Iranian, UN and Western reports; the host's 156 differs from the 175 in the played Sky clip.
 
 ---
@@ -1645,7 +1646,7 @@ Transcript Snippet: At first, Trump actually came out and he said, "No, we didn'
 Anchored Artifacts: A-2239.1
 Mentions: N-5, N-594, N-3
 Related Nodes: N-11145
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Collect the dated Trump and Hegseth statements on the school strike and the formal investigation announcement.
 
 ---
@@ -1661,7 +1662,7 @@ Transcript Snippet: Sky News did an entire investigation. You should watch the e
 Anchored Artifacts: A-2239.1
 Mentions: N-3
 Related Nodes: N-11145
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the Sky News investigation and the official US statements about missiles beneath the school to compare.
 
 ---
@@ -1677,7 +1678,7 @@ Transcript Snippet: My opinion, based on what I've seen, that was done by Iran.
 Anchored Artifacts: A-2239.1
 Mentions: N-5, N-594
 Related Nodes: N-11145
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Retrieve the original press-conference recordings for both quotes.
 
 ---
@@ -1693,7 +1694,7 @@ Transcript Snippet: One analyst reviewing intelligence on potential targets did 
 Anchored Artifacts: A-2239.1
 Mentions: 
 Related Nodes: N-11145
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review the full Sky News report and any DoD inquiry findings about the 2019 analyst note.
 
 ---
@@ -1709,7 +1710,7 @@ Transcript Snippet: They knew every body that was moving in that school and they
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11145
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review the DoD formal investigation findings once released for the target-selection chain.
 
 ---
@@ -1734,7 +1735,7 @@ Investigative Direction: Treat as the host's stated religious belief; no records
 
 Claim Timestamp: 00:42:07
 
-Claim: The host says that if people who lie like this about the school strike would be incapable of hiding up the murder of Charlie Kirk, they just killed 150 kids and did not blink when they lied.
+Claim: The host says that if you think people who lie like this about the school strike would not be capable of hiding the murder of Charlie Kirk, they just killed 150 kids and did not blink when they lied to you.
 
 Transcript Snippet: if you think that people that lie like that would not be capable of hiding up the murder of Charlie Kirk, they just killed 150 kids and didn't blink when they lied to you.
 
@@ -1757,7 +1758,7 @@ Transcript Snippet: bombing their bridges and striking their water so they can't
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10541
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check humanitarian and UN reports on strikes against Iranian bridges and water infrastructure.
 
 ---
@@ -1772,7 +1773,7 @@ Transcript Snippet: Whose call was he taking? Who is he retweeting? Psychos like
 
 Anchored Artifacts: A-2240.1
 Mentions: N-5, N-245, N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review Trump's reposts and Levin communications during the Iran war to check the host's characterization.
 
 ---
@@ -1813,7 +1814,7 @@ Investigative Direction: Verify Neff's departure from Fox News and any Tucker Ca
 
 Claim Timestamp: 00:48:02
 
-Claim: The host reads Isabella's comment that Charlie never wanted a Catholic funeral and that Erika betrayed him, and says she covered an idea of a mock funeral being done with Charlie potentially cremated.
+Claim: The host reads Isabella's comment asking why Erika would honor Charlie's wishes regarding a Catholic funeral, saying 'they' betrayed him in his life and that he never wanted a Catholic funeral, and says she covered an idea of a mock funeral being done with Charlie potentially cremated.
 
 Transcript Snippet: That's what's odd about the entire thing and why we covered um this idea of a mock funeral that was done and potentially him being cremated.
 

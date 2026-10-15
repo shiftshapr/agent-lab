@@ -740,7 +740,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-438** Johnny Moore
+**N-438** Johnnie Moore
 
 Takes chair of Gaza Humanitarian Aid Project June 3; host ties to Kolvet/Chyros partnership.
 

@@ -560,7 +560,7 @@ Eyewitness whose Fort Huachuca account the host now describes as a psychological
 
 ---
 
-**N-438** Johnny Moore
+**N-438** Johnnie Moore
 
 Named by the host as discussed by Anthony Aguilar in relation to Gaza humanitarian aid.
 

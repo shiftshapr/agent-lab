@@ -598,7 +598,7 @@ Eyewitness at the center of the Fort Huachuca sighting.
 
 ---
 
-**N-438** Johnny Moore
+**N-438** Johnnie Moore
 
 Evangelical leader named GHF chairman, per the host.
 

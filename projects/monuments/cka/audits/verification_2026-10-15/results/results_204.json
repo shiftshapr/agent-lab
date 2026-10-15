@@ -1,0 +1,801 @@
+[
+ {
+  "claim": "C-9164",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9165",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9166",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9167",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9168",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9169",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Farnsworth (\"SD cards Farnsworth grabbed... did not run off\") but Mentions omits N-262.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-22",
+    "N-262"
+   ]
+  }
+ },
+ {
+  "claim": "C-9170",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim refers to \"the staffer\" (Farnsworth, whom Kolvet says he asked) but Mentions omits N-262.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-22",
+    "N-262"
+   ]
+  }
+ },
+ {
+  "claim": "C-9171",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Farnsworth (\"Kolvet said Farnsworth took the SD cards\") but Mentions omits N-262.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-262"
+   ]
+  }
+ },
+ {
+  "claim": "C-9172",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9173",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9174",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Label says \"Admitted\"; host only says \"they got to see zoomed-in footage... still a true representation\". Nothing about admission.",
+  "fix": {
+   "label": "Host Says Zoomed-In Footage Was Still Called a True Representation in the Courtroom Exhibit Dispute"
+  }
+ },
+ {
+  "claim": "C-9175",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9176",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9177",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9178",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9179",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Farnsworth but Mentions omits N-262. \"this is how she has known\" is not stated: she says she has known since October, then separately mentions the government network.",
+  "fix": {
+   "claim": "The host says that she has known what Farnsworth did since October, and that as she wondered whom she could trust at TPUSA there was a network of government employees fighting to get the truth out who were wondering whom they could trust as well.",
+   "mentions": [
+    "N-3",
+    "N-262"
+   ]
+  }
+ },
+ {
+  "claim": "C-9180",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9181",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Second sentence (stands against the Bowyer account) is not in the transcript; host only says \"I'm told that didn't happen.\"",
+  "fix": {
+   "claim": "The host says she is told that no police officer instructed Farnsworth to take that footage in particular."
+  }
+ },
+ {
+  "claim": "C-9182",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9183",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9184",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9185",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9186",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9187",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Speaker turns in the Danny Jones clip are unmarked (>>); Kiriakou assumed as speaker of the Patel remark. Names Kirao/Kuraku = Kiriakou (N-831).",
+  "fix": {}
+ },
+ {
+  "claim": "C-9188",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Same unmarked speaker turns; \">>\" before \"You don't have the FBI director fly out\" - speaker assumed Kiriakou.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9189",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9190",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9191",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9192",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim says \"Ari Schaefer\"; the guest is Ari Shaffir (JRE with Gillis and Normand per Mediaite/Spotify).",
+  "fix": {
+   "claim": "The host says the case has gone mainstream and been discussed on Shawn Ryan and more recently on Joe Rogan, where guests Mark Normand, Shane Gillis and Ari Shaffir discussed the Tyler Robinson case and the PR campaign around Erika Kirk.",
+   "names": [
+    {
+     "wrong": "Ari Schaefer",
+     "right": "Ari Shaffir",
+     "source": "https://www.mediaite.com/online/joe-rogan-reveals-hes-leaning-towards-candace-owens-on-charlie-kirk-assassination-theories/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-9193",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9194",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9195",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9196",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9197",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9198",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Coach Colin (no node).",
+  "fix": {}
+ },
+ {
+  "claim": "C-9199",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9200",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9201",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9202",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9203",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9204",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9205",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9206",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9207",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9208",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9209",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9210",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3302",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"yesterday we showed you that Terryl pocketed that SD card\"; footage was shown the prior day, not presented here.",
+  "fix": {
+   "claim": "The host says that in footage shown the previous day, the camera operator removed an SD card from the camera behind Charlie Kirk's head, looked around, and pocketed it within approximately four to five minutes of Charlie being struck."
+  }
+ },
+ {
+  "claim": "C-3303",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"within 10 minutes\" is given \"according to my source in government\"; hedged \"apparently, in my opinion\" on the insertion.",
+  "fix": {
+   "claim": "The host describes footage in which the camera operator opens his laptop and appears to insert the previously pocketed SD card into it, which she says, citing a government source, was all within roughly ten minutes of the shooting."
+  }
+ },
+ {
+  "claim": "C-3304",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3305",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3306",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label says Trump identified Mitchell; Trump described an unnamed person and the host says \"He's describing Mike Mitchell\". Mentions N-1 not in claim.",
+  "fix": {
+   "label": "Trump Described a Close Acquaintance Who Recognized Tyler Robinson, Which the Host Says Is Mike Mitchell",
+   "claim": "In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that \"somebody that's close\" - described as a person involved in law enforcement and a minister - recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal. The host says he was describing Mike Mitchell.",
+   "mentions": [
+    "N-5",
+    "N-40",
+    "N-125"
+   ]
+  }
+ },
+ {
+  "claim": "C-3307",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Trump but Mentions omits N-5.",
+  "fix": {
+   "mentions": [
+    "N-5",
+    "N-125"
+   ]
+  }
+ },
+ {
+  "claim": "C-3308",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Tweet: \"All they have is a complaint about reliable hearsay... and then attacks on the aggravating factors\"; claim drops the aggravating-factors part.",
+  "fix": {
+   "claim": "Blake Neff's tweet (read in full) asserts that the Tyler Robinson defense filing is \"very conspicuously not contesting any of the core evidence\" - specifically camera footage, DNA, the rifle, cause of death, and Robinson's phone data - and that all the defense has is a complaint about reliable hearsay and attacks on the aggravating factors."
+  }
+ },
+ {
+  "claim": "C-3309",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-125 (Mike Mitchell) is not in the claim; Hasan Piker (N-787) is named but missing.",
+  "fix": {
+   "mentions": [
+    "N-787",
+    "N-3",
+    "N-1",
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-3310",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-125 (Mike Mitchell) is not in the claim.",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-3311",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Account is Wear Forbidden (@WearForbidden); transcript \"where forbidden\" is a mis-transcription.",
+  "fix": {
+   "claim": "The host plays a clip she says is from the Wear Forbidden account, a short parody video using the Matrix red-pill/blue-pill framing about the Tyler Robinson case, repeating \"so what?\" in response to \"positive evidence,\" \"appeal to emotion,\" and \"burden of proof.\"",
+   "label": "Host Plays Wear Forbidden Matrix-Parody Video Repeating \"So What?\" Against Tyler Robinson Case Argumentation Standards",
+   "names": [
+    {
+     "wrong": "Where Forbidden",
+     "right": "Wear Forbidden",
+     "source": "https://x.com/WearForbidden/status/2074886192781287626"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3312",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"This is all happening within 10 minutes... according to my source in government\" is spoken at ~11:10; claim timestamp 11:42 is over 30s later.",
+  "fix": {
+   "timestamp": "00:11:05"
+  }
+ },
+ {
+  "claim": "C-7535",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7536",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

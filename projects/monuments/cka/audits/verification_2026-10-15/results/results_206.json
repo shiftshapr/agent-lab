@@ -1,0 +1,763 @@
+[
+ {
+  "claim": "C-7597",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7598",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3313",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim drops hedge (\"looks very much like he inserts an SD card\"); N-570 David Hull is not named in this claim.",
+  "fix": {
+   "claim": "The host says the episode footage looks very much like Terryl Farnsworth inserting an SD card into his laptop and accessing it within approximately 10 minutes of Charlie Kirk being hit.",
+   "mentions": [
+    "N-262",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-3314",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3315",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip: \"based on the testimony ... during the preliminary hearing\"; Hull is not named in the clip.",
+  "fix": {
+   "claim": "In a clip the host plays, Ana Kasparian says, based on testimony at the preliminary hearing, that Terryl Farnsworth did not provide the original SD card to investigators, only Google links and a flash drive.",
+   "mentions": [
+    "N-262",
+    "N-204"
+   ]
+  }
+ },
+ {
+  "claim": "C-3316",
+  "episode": 144,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says Hull is \"the lead investigator on the case who did not receive the SD cards\"; this is the host's statement, not Hull's testimony.",
+  "fix": {
+   "claim": "The host says lead investigator David Hull, who she says did not receive the SD cards, informed the preliminary hearing of the chain of custody.",
+   "label": "Host Says Lead Investigator David Hull Did Not Receive the SD Cards"
+  }
+ },
+ {
+  "claim": "C-3317",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"not the court\" is not in the testimony or the host's statement here.",
+  "fix": {
+   "claim": "SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office, not he, created the 20-minute sizzle reel shown in court."
+  }
+ },
+ {
+  "claim": "C-3318",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3319",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3320",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"potentially it was them ... Maybe it was the FBI ... somebody did\"; court \"highly unlikely\". Claim drops hedges; N-581 Bricker not named in claim.",
+  "fix": {
+   "claim": "The host says the prosecution (Utah County Attorney's Office) potentially decreased the aspect ratio, that maybe it was the FBI, that somebody did, and that an emailer told her it was highly unlikely the court did it.",
+   "label": "Host Says the Prosecution or Possibly the FBI, Not Likely the Court, Decreased the Aspect Ratio",
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-3321",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Kolvet said \"I said this will age really well because ... she conceded the whole debate\"; he did not say the loss would age well for him.",
+  "fix": {
+   "claim": "On the Kolvet/Neff podcast, Andrew Kolvet said he predicted the debate would \"age really well\" because, he said, Candace conceded the whole debate very early on, multiple times."
+  }
+ },
+ {
+  "claim": "C-3322",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says Kolvet made the Hitler smear and Wilson fact-checked; Wilson said \"it seemed to me\" (hedge dropped). Neff is not the framer.",
+  "fix": {
+   "claim": "On the Kolvet/Neff podcast, Andrew Wilson said that after reviewing the clip it seemed to him Candace was making a comparison to nationalism rather than apologetics for Hitler, and he pushed back on Andrew Kolvet's framing.",
+   "mentions": [
+    "N-18",
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-3323",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3324",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "It is the host's account of what Kolvet told her, with a call log and a text shown; the Dan Flood texts are her description, not shown.",
+  "fix": {
+   "claim": "The host says that in calls and texts with Andrew Kolvet on September 11-14, 2025, he told her about the Bill Ackman summit, the BB Netanyahu letter, and Charlie Kirk's text messages to Dan Flood the night before, and she shows a call log and text messages."
+  }
+ },
+ {
+  "claim": "C-3774",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim's first sentence is muddled (same spelling) but substance matches: \"on the 12th, you were the one that was telling me about the Bill Ackman summit.\"",
+  "fix": {}
+ },
+ {
+  "claim": "C-3325",
+  "episode": 144,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host recounts from memory: \"what he said to me on the 14th was ... the board has already voted in Erika, don't say this yet\"; not stated as read from artifacts.",
+  "fix": {
+   "claim": "The host says that on September 14, 2025 Andrew Kolvet told her the TPUSA board had already voted in Erika Kirk, said not to say it yet, and that it was not being announced publicly."
+  }
+ },
+ {
+  "claim": "C-6091",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6092",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6093",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6094",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6095",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6096",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says \"Erika's prosecution\"; claim does not name Erika though Mentions has N-2.",
+  "fix": {
+   "claim": "The host says Erika Kirk's prosecution team at the preliminary hearing looked at videos and inferred what it believed it saw, and that she is doing the same with the footage."
+  }
+ },
+ {
+  "claim": "C-6097",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6098",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"we don't know\" is whether he zoomed the shot and sent a Google link to SBI; \"someone else\" is not said.",
+  "fix": {
+   "claim": "The host says the footage Terryl Farnsworth presented to her nine days after the shooting had already been zoomed in, though she says she does not know whether he zoomed in the camera footage and sent a Google link to the SBI."
+  }
+ },
+ {
+  "claim": "C-6099",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"who arrived on the scene around 1:30, I believe he said\" - hedge dropped.",
+  "fix": {
+   "claim": "The host says David Hull testified, as she believes he said, that the lead investigators arrived on the scene around 1:30."
+  }
+ },
+ {
+  "claim": "C-6100",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6101",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6102",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6103",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6104",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6105",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6106",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6107",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6108",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6109",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6110",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6111",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6112",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6113",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6114",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6115",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6116",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6117",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: \"Odor\" in transcript, read as restaurant owner",
+  "fix": {}
+ },
+ {
+  "claim": "C-6118",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6119",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6120",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6121",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6122",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6123",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6124",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6125",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Speaker said \"I think it was the Christ Church shooter\" - hedge dropped.",
+  "fix": {
+   "claim": "A speaker on the Kolvet/Neff show says he thinks it was the Christchurch shooter in New Zealand who said he was inspired by the host."
+  }
+ },
+ {
+  "claim": "C-6126",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6127",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6128",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6129",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6130",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6131",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6132",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6133",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"he\" in the transcript is ambiguous (possibly Kolvet, who raised the Blake reaction clip); left as is.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6134",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

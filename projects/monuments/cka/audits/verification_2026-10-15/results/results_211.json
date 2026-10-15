@@ -1,0 +1,774 @@
+[
+ {
+  "claim": "C-3370",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3371",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3372",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'arrived independent of Charlie Kirk... since 9:00, 9:30'; no 'before he arrived in SLC'. Justin Davis not named in claim.",
+  "fix": {
+   "claim": "The host says that, based on the security team's testimonies, the two security vehicles (a black Jeep Wagoneer and a Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., independently of Charlie Kirk, while he was at the restaurantology event in Salt Lake City.",
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-3373",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3374",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3375",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Matt Walsh but Mentions omits N-164. 'disingenuous narrative' is said at 00:00:30; here host says 'so stupid', 'delude the public'.",
+  "fix": {
+   "mentions": [
+    "N-164"
+   ]
+  }
+ },
+ {
+  "claim": "C-3376",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3377",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3378",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3379",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Window has only the clip intro; host explains the defense is citing the state's arguments after the clip (~43:30-45:00, 'The lawyer is citing the state's arguments' at 45:06). Fix time inferred.",
+  "fix": {
+   "timestamp": "00:43:45"
+  }
+ },
+ {
+  "claim": "C-3380",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3381",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3382",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Inferring upon an inference' is the host's gloss of the defense argument, not read from page 32; only the 'no evidence of specific political expressions' lines are read from the filing.",
+  "fix": {
+   "claim": "Per the August 11 defense filing the host shows (page 32), \"There's no evidence of specific political expressions of Mr. Kirk which, if any, Mr. Robinson may have been aware of or focused on\"; the host says the defense argues the state is \"inferring upon an inference.\""
+  }
+ },
+ {
+  "claim": "C-3383",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3384",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3385",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names his father Rob McCoy but Mentions omits N-17 ('He calls Rob McCoy').",
+  "fix": {
+   "mentions": [
+    "N-191",
+    "N-2",
+    "N-160",
+    "N-17"
+   ]
+  }
+ },
+ {
+  "claim": "C-3386",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'came from his father... Jack Hibbs... I think Frank Turek... the pastor orbit'. Hedge 'I think' on Turek dropped; father omitted.",
+  "fix": {
+   "claim": "The \"so much blood\" claim attributed to Mikey McCoy did not originate with McCoy himself; the host says it came from his father, from Jack Hibbs and, she thinks, Frank Turek, i.e. \"the pastor orbit.\" The host states McCoy never described seeing a lot of blood in his press.",
+   "mentions": [
+    "N-191",
+    "N-17",
+    "N-7",
+    "N-209"
+   ]
+  }
+ },
+ {
+  "claim": "C-3387",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3388",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3389",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'They just sort of dropped that narrative entirely'; 'magically dropped' was said of the father story.",
+  "fix": {
+   "claim": "The host asserts that a narrative that Bill Ackman was \"going to give him a million dollars\" was \"just sort of dropped\" because \"there was no truth and no substance to what they were saying.\""
+  }
+ },
+ {
+  "claim": "C-3390",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Neff: seen Mikey almost every day for 2 years; lip quivering 'I'd never seen before'; 'very rarely see' him freaking out. Not 'only time' in 2 years.",
+  "fix": {
+   "claim": "Blake Neff testified that he saw Mikey McCoy \"profoundly freaked out,\" with a quivering lip that he had never seen before, though he had seen McCoy almost every day for the past two years."
+  }
+ },
+ {
+  "claim": "C-3391",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3392",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Neff muses about getting in the SUV while running; not about driving to the hospital. Quote cut off at 'a really stupid thing to'.",
+  "fix": {
+   "label": "Neff Testified He Considered and Rejected Getting Into the SUV While Running"
+  }
+ },
+ {
+  "claim": "C-3667",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host plugs 'CIA hat': 'it is we know actually the decentralized intelligence agency... no nucleus. Everybody is sharing in the background'. 'Crowd-sourced tip network opposing centralized intel' is added.",
+  "fix": {
+   "claim": "The host, plugging a \"CIA hat,\" says \"we know actually the decentralized intelligence agency,\" adding that there is no nucleus and everybody is sharing in the background and discussing when to drop certain things."
+  }
+ },
+ {
+  "claim": "C-3668",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Candace Intelligence Agency' and 'twin brand' are never said; host only says buy a CIA hat, then 'actually the decentralized intelligence agency'.",
+  "fix": {
+   "claim": "The host plugs a \"CIA hat\" as part of her merch and then says \"it is we know actually the decentralized intelligence agency.\""
+  }
+ },
+ {
+  "claim": "C-3669",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'no nucleus. Everybody is sharing in the background... discussing when we should drop certain things'; 'tip-gathering' added.",
+  "fix": {
+   "claim": "The host says the decentralized intelligence agency has \"no nucleus,\" that everybody is sharing in the background, and that they are all discussing when to drop certain things."
+  }
+ },
+ {
+  "claim": "C-14797",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14798",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14799",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Ambiguous 'he' ('he decided to go in peaceably despite insisting on his innocence'); claim reading plausible. ok.",
+  "fix": {}
+ },
+ {
+  "claim": "C-14800",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14801",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14802",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Mike Mitchell is not named in the claim (only in neighbouring sentence); N-125 should not be in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-14803",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14804",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14805",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14806",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14807",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14808",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14809",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14810",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14811",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14812",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14813",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14814",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14815",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14816",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'now they're saying that Charlie even took it a step further'; 'TPUSA side' in the title is not said.",
+  "fix": {
+   "label": "Host Says People Are Now Claiming Kirk Told Security to Be on Him and No One Else"
+  }
+ },
+ {
+  "claim": "C-14817",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14818",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14819",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14820",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14821",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names no Justin Davis; only 'Chris' (no node). N-493 is extra.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-14822",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14823",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Charlie Kirk; N-1 is extra.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-14824",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'being tasked with providing updates to his wife as we were told'; 'by Blake Neff's account' is not said here.",
+  "fix": {
+   "claim": "The host says Mikey McCoy, as Kirk's chief of staff, was \"being tasked with providing updates to his wife as we were told.\""
+  }
+ },
+ {
+  "claim": "C-14825",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14826",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14827",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14828",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14829",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14830",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

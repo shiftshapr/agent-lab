@@ -1451,7 +1451,7 @@
       "@id": "C-3280",
       "ref": "C-3280",
       "label": "Host Says Wilson Repeatedly Used the Phrase \"Positive Evidence\" During the Debate",
-      "claim": "The host says that throughout the debate Andrew Wilson repeated the phrase \"positive evidence\" multiple times as his principal rebuttal device.",
+      "claim": "The host says that in the next phase of the debate Andrew Wilson kept saying the phrase \"positive evidence\", which she says seemed like a term he had just learned and wanted to use.",
       "anchored_artifacts": [
         "A-2277.3"
       ],
@@ -1475,11 +1475,12 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:17:24",
+      "claim_timestamp": "00:08:15",
       "investigative_direction": "Verify PBD's role through the published debate recording on his platform; confirm two named team members (Tom and PBD's executive assistant) were present on the pre-debate FaceTime call.",
       "mentions_person_refs": [
         "N-18",
-        "N-3"
+        "N-3",
+        "N-57"
       ]
     },
     {
@@ -1541,13 +1542,13 @@
       "@id": "C-3285",
       "ref": "C-3285",
       "label": "Rachel Wilson Publicly Suggested the In-Ear Monitors May Have Been Used to Feed Owens Answers",
-      "claim": "Rachel Wilson posted on X questioning whether Candace Owens's in-ear monitor had been used to receive outside assistance during the debate.",
+      "claim": "The host says Rachel Wilson, replying to a post asking whether the host was being fed answers through her in-ear monitor, wrote that she knew they had headpieces but was not sure why they had them, and believed the contract allowed each to wear an earpiece.",
       "anchored_artifacts": [
         "A-2280.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "01:04:09",
+      "claim_timestamp": "01:03:35",
       "investigative_direction": "Retrieve the full text of Rachel Wilson's X post; verify against published debate technical setup, including Candace Owens's claim that the earpieces had a 15-foot operational range and could not extend outside the control room.",
       "mentions_person_refs": [
         "N-3",
@@ -1597,7 +1598,7 @@
       "@id": "C-3288",
       "ref": "C-3288",
       "label": "\"Stages of Debate Grief\" Meme by @alpha_approved Was Created Reacting to the Debate",
-      "claim": "A five-panel \"Stages of Debate Grief\" meme, with each stage attributed to Andrew Wilson, was created by the X account @alpha_approved and circulated as a post-debate reaction.",
+      "claim": "The host reads a post from the X account @alpha_approved listing \"five stages of debate grief\" for Andrew Wilson, from denial (\"I totally won that debate\") to acceptance, as a reaction to the debate.",
       "anchored_artifacts": [
         "A-2279.1"
       ],
@@ -1614,7 +1615,7 @@
       "@id": "C-3289",
       "ref": "C-3289",
       "label": "In Clip Host Plays, Wilson's Opening Statement Included \"I Have His Cell Phone\"",
-      "claim": "In a debate clip the host plays, Andrew Wilson says in his opening that he has Charlie Kirk's cell phone; the host's clip shows him saying \"And I have his cell phone.\"",
+      "claim": "In a clip the host plays, Erika Kirk says she and Charlie Kirk promised each other never to live in fear, that he was not messaging people the day before saying he would be murdered, and \"And I have his cell phone.\"",
       "anchored_artifacts": [
         "A-2277.1"
       ],
@@ -1625,7 +1626,7 @@
       "claim_timestamp": "00:19:49",
       "investigative_direction": "Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-10794).",
       "mentions_person_refs": [
-        "N-18",
+        "N-2",
         "N-1"
       ]
     },
@@ -2031,7 +2032,7 @@
       "@id": "C-6028",
       "ref": "C-6028",
       "label": "Host alleges Crowder's brand fell after he was caught berating his pregnant wife on a doorbell camera",
-      "claim": "The host says Steven Crowder's brand 'crashed and burned' when he was caught on a doorbell camera berating his then-eight-month-pregnant wife, who was pregnant with twins, and that his obsession with her stems from her covering that.",
+      "claim": "The host says Steven Crowder's brand \"sort of crashed and burned\" when he was caught on a doorbell cam berating his eight-month pregnant now ex-wife, who was pregnant with twins, and that he never really recovered from that.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2232,8 +2233,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-271",
-        "N-14"
+        "N-271"
       ]
     },
     {
@@ -2382,7 +2382,7 @@
       "@id": "C-6045",
       "ref": "C-6045",
       "label": "Host says in the clip that she cannot say for certainty that Israel called the shots",
-      "claim": "In a played exchange, the host says that while we cannot say for certainty that Israel called the shots and this is how it happened, she considers it a threat worth looking at.",
+      "claim": "In a played exchange, the host says that we cannot say for certainty that Israel called the shots and this is how it happened, but that it is definitively, she thinks, a threat that a lot of people would like to see.",
       "anchored_artifacts": [
         "A-2277.3"
       ],
@@ -2420,7 +2420,7 @@
       "@type": "Claim",
       "@id": "C-6047",
       "ref": "C-6047",
-      "label": "Host says Wilson tweeted before his TPUSA visit that Erika Kirk is capable of killing her husband",
+      "label": "Host Says Wilson Tweeted Before His TPUSA Visit That Erika Kirk Is \"Too\" [Word Missing] to Kill Her Husband",
       "claim": "The host says that before going to TPUSA headquarters in May, Wilson tweeted that he thinks Erika Kirk is too (word missing in transcript) to kill her husband, and she asked in the debate what his positive evidence for that was.",
       "anchored_artifacts": [
         "A-2796.1"
@@ -2530,7 +2530,7 @@
       "@id": "C-6052",
       "ref": "C-6052",
       "label": "Played clip: host says it is impossible for her to think Erika Kirk is not complicit somehow",
-      "claim": "In a played exchange, the host says the body-cam point is why it is impossible for her to think that Erika Kirk is not complicit somehow. Wilson responds that he did not say complicit in death.",
+      "claim": "In a played exchange, the host says the body-cam point is why it is impossible for her to think that Erika Kirk is not complicit somehow. Wilson asks whether that would make Erika complicit in his death, and the host replies that she did not say complicit in death and that he added those words.",
       "anchored_artifacts": [
         "A-2792.2"
       ],
@@ -2749,7 +2749,7 @@
       "@type": "Claim",
       "@id": "C-6063",
       "ref": "C-6063",
-      "label": "Host says she spoke to the Pangitch restaurant owner, who said he pulled the receipt and it was Robinson's",
+      "label": "Host Says She Spoke to the Panguitch Restaurant Owner, Who Said He Pulled the Receipt and It Was Robinson's",
       "claim": "The host says she spoke to the owner, who told her he pulled the receipt and that it was Tyler Robinson's receipt, so she put the steakhouse visit on her timeline.",
       "anchored_artifacts": [
         "A-2792.3"
@@ -2794,8 +2794,8 @@
       "@type": "Claim",
       "@id": "C-6065",
       "ref": "C-6065",
-      "label": "Host says the restaurant owner contacted the FBI and recognized Robinson on the news",
-      "claim": "The host says the owner and staff contacted the FBI, shared their experience, recognized Tyler Robinson on the news, and gave an interview.",
+      "label": "Host says the restaurant server contacted the FBI and recognized Robinson on the news",
+      "claim": "The host says the server gave a first-person account of serving him, that they contacted the FBI, and that he shared his experience, recognized Tyler Robinson on the news, and gave an interview; she adds that she spoke to the owner.",
       "anchored_artifacts": [
         "A-2792.3"
       ],
@@ -2931,8 +2931,7 @@
       "transcript_snippet": "these earpieces do not work beyond 15 ft out of out of the um control room.",
       "mentions_person_refs": [
         "N-3",
-        "N-18",
-        "N-562"
+        "N-18"
       ]
     },
     {
@@ -2952,9 +2951,7 @@
       "investigative_direction": "Check the host's X post timestamp and phone logs for the debate window.",
       "transcript_snippet": "I texted nobody during the entire debate because I I was focused.",
       "mentions_person_refs": [
-        "N-3",
-        "N-18",
-        "N-562"
+        "N-3"
       ]
     },
     {
@@ -2996,8 +2993,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-18",
-        "N-57",
-        "N-562"
+        "N-57"
       ]
     },
     {
@@ -3018,8 +3014,7 @@
         "C-6073"
       ],
       "mentions_person_refs": [
-        "N-3",
-        "N-260"
+        "N-3"
       ]
     },
     {
@@ -3135,7 +3130,8 @@
       "investigative_direction": "Watch for later statements or filings showing any donations made.",
       "transcript_snippet": "it's going to be the Catholic Church, the priests that took care of me emotionally",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-113"
       ]
     },
     {

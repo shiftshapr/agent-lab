@@ -637,7 +637,7 @@ Viva Frei (spelled Viva Frei in the register); his Charlie Kirk Show remarks on 
 
 ---
 
-**N-438** Johnny Moore
+**N-438** Johnnie Moore
 
 Johnny Moore; the host says he is dropping digital assassin articles at her.
 

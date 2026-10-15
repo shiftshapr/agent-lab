@@ -1,0 +1,807 @@
+[
+ {
+  "claim": "C-13345",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Host: 'There was the picture that I think I showed you guys of me and Charlie holding that massive salmon' - refers to an earlier photo, not shown here.",
+  "fix": {
+   "claim": "The host says she and Charlie fished in British Columbia, refers to a photograph she thinks she showed earlier of them holding a large salmon, and says she won the weekend for the heaviest salmon at 38 lbs and the heaviest halibut at 200 lbs."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-3345",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-3346",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Jack says only 'How they knew, but they knew'; 'pre-announcement information' is added framing.",
+  "fix": {
+   "claim": "In a Facebook video, Jack Hibbs stated he first learned Charlie Kirk had died \"shortly after Charlie was shot from Israeli news service,\" adding \"How they knew, but they knew.\""
+  },
+  "material": false
+ },
+ {
+  "claim": "C-3347",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim names Frank Turek and Butch but Mentions omit N-7 and N-247.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-209",
+    "N-247",
+    "N-7"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-3348",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host says 'presumably open his camera app'; hedge dropped.",
+  "fix": {
+   "claim": "The host says never-before-seen footage she plays shows Butch Hibbs briefly dipping down, presumably to open his camera app, and recording multiple angles of the scene within seconds of the shot, while remaining in place near the tent."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-3349",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Frank Turek named in claim (misspelled 'Churik') but N-7 missing from Mentions.",
+  "fix": {
+   "claim": "In a second interview clip with Frank Turek, Jack Hibbs stated he first received a call from Mikey McCoy, who said \"get everyone in the world praying,\" before the FaceTime with Turek began.",
+   "mentions": [
+    "N-191",
+    "N-209",
+    "N-7"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-3350",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim names Frank Turek but N-7 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-209",
+    "N-7"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-3351",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-3352",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-3353",
+  "episode": 146,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Jack does not say 74; the host says 'his 74year-old brother Butch'. Plaid shirt is said by host at 04:33.",
+  "fix": {
+   "claim": "The host says Jack Hibbs's brother Butch is 74 years old; she also shows UVU event photography in which Butch wears a plaid shirt and is with security."
+  },
+  "material": true
+ },
+ {
+  "claim": "C-3354",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Window has only 'Judge Graf is to rule on whether there was enough preliminary evidence'; 'magistrate', motion to dismiss charges 1, 6, 7 not in window.",
+  "fix": {
+   "claim": "The host says Judge Graf is to rule that day, September 1, 2026, on whether there was enough preliminary evidence to move Tyler Robinson's case forward to trial."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-3355",
+  "episode": 146,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "note": "Claim is an inference no one states and Turek is not described as Calvary Chapel. Host only says at ~19:55 'maybe there was a Calvary Chapel conference call'.",
+  "fix": {
+   "claim": "The host says it seems implausible that Mikey McCoy called Pastor Jack Hibbs before 12:30 given his call logs, and suggests that perhaps there was a Calvary Chapel conference call.",
+   "timestamp": "00:19:55",
+   "mentions": [
+    "N-191",
+    "N-209"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-3356",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "'Pastor James Cadis' is N-668 James Kaddis (confirmed PragerU page); N-668 missing from Mentions.",
+  "fix": {
+   "claim": "The host says courthouse cameras captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Kaddis arriving at the courthouse for Judge Graf's decision, and that Erika Kirk was present but was not captured walking in.",
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-187",
+    "N-14",
+    "N-546",
+    "N-668"
+   ],
+   "names": [
+    {
+     "wrong": "Cadis",
+     "right": "Kaddis",
+     "source": "https://www.prageru.com/presenters/james-kaddis"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-7599",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7600",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "note": "'presents this as pointed mockery' is added characterization; claim concerns resemblance to the suspect at UVU.",
+  "fix": {
+   "claim": "The host says Data Republican (Jennica Pounds), who she says attacked her for investigating the case, looks very much like Tyler Robinson and says she has no positive evidence that it was not Pounds on the UVU staircase.",
+   "relevance": "context"
+  },
+  "material": false
+ },
+ {
+  "claim": "C-7601",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7602",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7603",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "'Cadis' is a transcription of James Kaddis (N-668), confirmed.",
+  "fix": {
+   "claim": "The host says Pastor James Kaddis is the senior pastor of Calvary Chapel in Signal Hill, California, and one of Erika Kirk's many TPUSA faith pastors.",
+   "names": [
+    {
+     "wrong": "Cadis",
+     "right": "Kaddis",
+     "source": "https://www.prageru.com/presenters/james-kaddis"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-7604",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "'Cadis' is a transcription of James Kaddis (N-668), confirmed.",
+  "fix": {
+   "claim": "The host says Kaddis hosts a show with Erika Kirk tied to her fashion brand, which the host calls Bible and 365.",
+   "names": [
+    {
+     "wrong": "Cadis",
+     "right": "Kaddis",
+     "source": "https://www.prageru.com/presenters/james-kaddis"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-7605",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7606",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Claim names Jack Hibbs but N-209 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-191",
+    "N-17",
+    "N-209"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-7607",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7608",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7609",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7610",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7611",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7612",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7613",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7614",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7615",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7616",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7617",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7618",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7619",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7620",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7621",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7622",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7623",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7624",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7625",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7626",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7627",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7628",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7629",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7630",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7631",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7632",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7633",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7634",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Jack hung up and he (Jack) started making calls; title implies Butch made calls.",
+  "fix": {
+   "label": "Jack Hibbs Says He Hung Up on Butch After Butch Broke Down, Then Started Making Calls"
+  },
+  "material": false
+ },
+ {
+  "claim": "C-7635",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7636",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7637",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Host: 'is this maybe there was a Calvary Chapel conference call'; 'maybe' dropped.",
+  "fix": {
+   "claim": "The host says the only way Mikey could have called Jack Hibbs before 12:30 is if, maybe, there was a Calvary Chapel conference call, which perhaps might fit with when he called Rob McCoy."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-7638",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7639",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7640",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7641",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7642",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7643",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7644",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-7645",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ }
+]

@@ -1538,7 +1538,7 @@
       "@id": "C-3216",
       "ref": "C-3216",
       "label": "Sky News investigation identified Tomahawk missile tail fins in footage of the Iranian school strike",
-      "claim": "A Sky News investigation, drawing on Iranian state-linked news agency footage, identified Tomahawk missile tail fins in buildings struck during the Iranian school bombing; Sky News also stated a US carrier strike group was within range and that Tomahawks are precision-guided with onboard cameras.",
+      "claim": "A Sky News investigation, drawing on footage from an Iranian state-linked news agency of a strike on buildings near the school, identified the distinctive tail fins of a Tomahawk missile; Sky News also stated a US carrier strike group was within range and that Tomahawks are precision-guided with onboard cameras.",
       "anchored_artifacts": [
         "A-2239.1",
         "A-2239.2"
@@ -1560,7 +1560,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:17",
-      "investigative_direction": "Identify the original Levin broadcast (date, program) for full context."
+      "investigative_direction": "Identify the original Levin broadcast (date, program) for full context.",
+      "mentions_person_refs": [
+        "N-245"
+      ]
     },
     {
       "@type": "Claim",
@@ -1636,11 +1639,11 @@
       "@id": "C-3665",
       "ref": "C-3665",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
-      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "claim": "The host says, while plugging merch, 'we are the decentralized intelligence agency'.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:52:11",
+      "claim_timestamp": "00:53:44",
       "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
       "transcript_snippet": "...lligent agency hats, our CIA hats, but we are the decentralized intelligence agency. Yeah, that one. The green one's my favorite. The hunter green one is the one that I wear around to...",
       "confidence": "high",
@@ -1659,7 +1662,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:52:11",
+      "claim_timestamp": "00:53:41",
       "investigative_direction": "Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.",
       "transcript_snippet": "...y a shirt to support us, a sweatshirt. Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency. Yeah, that one. The green one's my...",
       "confidence": "medium",
@@ -1812,7 +1815,6 @@
       "transcript_snippet": "All they had to do uh, was show us the video of him taking the shot. All they had to do was somehow connect the gun to the crime scene.",
       "mentions_person_refs": [
         "N-40",
-        "N-160",
         "N-3"
       ]
     },
@@ -2130,7 +2132,7 @@
       "@id": "C-7495",
       "ref": "C-7495",
       "label": "Host Lists Who Would Have Known Lee's Attendance and Says No Footage of the Man Is Known",
-      "claim": "The host says TPUSA event staff, club students, university planners and possibly UVU police would have known who was attending, and says no footage of the man who scoped the campus the day before has been mentioned.",
+      "claim": "The host says TPUSA event staff, club students, university planners and possibly UVU police would have known who was attending Lee's planned appearance, and says 'No footage must exist' of the man who scoped the campus the day before.",
       "anchored_artifacts": [
         "A-2884.1"
       ],
@@ -2144,7 +2146,7 @@
       "investigative_direction": "Ask UVU for camera coverage of the September 9 contact and a list of everyone who received the VIP attendee list.",
       "transcript_snippet": "Certainly Turning Point USA event staff would have known. Club students would have known.",
       "mentions_person_refs": [
-        "N-40",
+        "N-786",
         "N-3"
       ]
     },
@@ -2346,7 +2348,7 @@
       "@id": "C-7504",
       "ref": "C-7504",
       "label": "Bagley Said He Did Not Notice Anybody on the Roof, Then Agreed He Did Not Review the Video for Anyone Between the Jump and His Arrival",
-      "claim": "In the played testimony, Bagley answers 'I didn't notice anybody' when asked whether he checked for anyone on the roof between the suspect's jump and his arrival, then agrees he did not review the video to see whether anybody had been on or disturbed the scene.",
+      "claim": "In the played testimony, Bagley answers 'I didn't notice anybody' when asked whether he checked for anyone on the roof between the suspect's jump and his arrival, and the defense attorney then puts to him that he did not review the video to see whether anybody had been on or disturbed the scene.",
       "anchored_artifacts": [
         "A-2242.1"
       ],
@@ -2497,7 +2499,7 @@
       "@id": "C-7510",
       "ref": "C-7510",
       "label": "Host Says No Email Defended Bagley and Her Gut Says He Could Have Answered More",
-      "claim": "The host says that among the many emails about Christopher Bagley and his history none defended him, and her gut tells her he could have answered more questions on the stand if he had wanted to.",
+      "claim": "The host says that among the many emails about Christopher Bagley and his history there were 'not many people or any people' defending him, and her gut tells her he could have answered more questions on the stand if he had wanted to.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2588,7 +2590,7 @@
       "@id": "C-7514",
       "ref": "C-7514",
       "label": "Host Says Russia's Ministry of Health and a Catholic Family in Russia Helped Her Security Man",
-      "claim": "The host thanks Russia's Ministry of Health, the Catholic family in Russia who visited him and the team in Russia, saying he was treated with dignity after what happened to him there.",
+      "claim": "The host thanks Russia's Ministry of Health, the Catholic family in Russia who visited him and brought their children, and the team in Russia, saying everyone there was amazing.",
       "anchored_artifacts": [
         "A-2887.1"
       ],
@@ -2598,7 +2600,7 @@
       "tags": [
         "relevance:tangential"
       ],
-      "claim_timestamp": "00:31:05",
+      "claim_timestamp": "00:32:16",
       "investigative_direction": "Ask the host's team for the date and nature of the incident in Russia and the hospital records, if shared.",
       "transcript_snippet": "also to Russia's Ministry of Health, how grateful we are, everybody that was involved in this",
       "mentions_person_refs": [
@@ -2723,7 +2725,7 @@
         "N-10541"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:35:32",
       "investigative_direction": "Compare casualty figures for the school strike across Iranian, UN and Western reports; the host's 156 differs from the 175 in the played Sky clip.",
@@ -2745,7 +2747,7 @@
         "N-11145"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:36:17",
       "investigative_direction": "Collect the dated Trump and Hegseth statements on the school strike and the formal investigation announcement.",
@@ -2769,7 +2771,7 @@
         "N-11145"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:36:53",
       "investigative_direction": "Obtain the Sky News investigation and the official US statements about missiles beneath the school to compare.",
@@ -2791,7 +2793,7 @@
         "N-11145"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:37:35",
       "investigative_direction": "Retrieve the original press-conference recordings for both quotes.",
@@ -2814,7 +2816,7 @@
         "N-11145"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:39:34",
       "investigative_direction": "Review the full Sky News report and any DoD inquiry findings about the 2019 analyst note.",
@@ -2831,7 +2833,7 @@
         "N-11145"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:40:35",
       "investigative_direction": "Review the DoD formal investigation findings once released for the target-selection chain.",
@@ -2866,7 +2868,7 @@
       "@id": "C-7526",
       "ref": "C-7526",
       "label": "Host Says Government That Lied About the School Could Cover Up Charlie Kirk's Murder",
-      "claim": "The host says that if people who lie like this about the school strike would be incapable of hiding up the murder of Charlie Kirk, they just killed 150 kids and did not blink when they lied.",
+      "claim": "The host says that if you think people who lie like this about the school strike would not be capable of hiding the murder of Charlie Kirk, they just killed 150 kids and did not blink when they lied to you.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11145"
@@ -2893,7 +2895,7 @@
         "N-10541"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:41:46",
       "investigative_direction": "Check humanitarian and UN reports on strikes against Iranian bridges and water infrastructure.",
@@ -2913,7 +2915,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:42:27",
       "investigative_direction": "Review Trump's reposts and Levin communications during the Iran war to check the host's characterization.",
@@ -2976,7 +2978,7 @@
       "@id": "C-7531",
       "ref": "C-7531",
       "label": "Host Says Isabella's Comment Raises a Mock Funeral and Cremation She Covered Earlier",
-      "claim": "The host reads Isabella's comment that Charlie never wanted a Catholic funeral and that Erika betrayed him, and says she covered an idea of a mock funeral being done with Charlie potentially cremated.",
+      "claim": "The host reads Isabella's comment asking why Erika would honor Charlie's wishes regarding a Catholic funeral, saying 'they' betrayed him in his life and that he never wanted a Catholic funeral, and says she covered an idea of a mock funeral being done with Charlie potentially cremated.",
       "anchored_artifacts": [
         "A-2245.1"
       ],
