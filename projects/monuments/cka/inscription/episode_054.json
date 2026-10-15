@@ -1807,9 +1807,9 @@
       "@type": "Person",
       "@id": "N-202",
       "ref": "N-202",
-      "name": "Shirlene Maxfield",
+      "name": "Shelaine Maxfield",
       "type": "person",
-      "description": "Said by the host to co-own the 888 plane and run Saprea (spelled Shailene in the transcript).",
+      "description": "Said by the host to co-own the 888 plane and run Saprea (spelled Shelaine in the transcript).",
       "related_artifacts": [],
       "related_claims": [
         "C-8155",
@@ -2798,7 +2798,7 @@
       "ref": "N-11168",
       "name": "Saprea",
       "type": "organization",
-      "description": "Child abuse charity the host says Derek and Shailene Maxfield run.",
+      "description": "Child abuse charity the host says Derek and Shelaine Maxfield run.",
       "related_artifacts": [],
       "related_claims": [
         "C-8155"
@@ -3997,8 +3997,8 @@
       "@type": "Claim",
       "@id": "C-8155",
       "ref": "C-8155",
-      "label": "Host Says the 888 Plane Is Now Owned by Derek and Shailene Maxfield of Saprea",
-      "claim": "The host says the aircraft with the registration she reads as N888KG is currently owned by Derek and Shailene Maxfield, who run Saprea, a child abuse charity.",
+      "label": "Host Says the 888 Plane Is Now Owned by Derek and Shelaine Maxfield of Saprea",
+      "claim": "The host says the aircraft with the registration she reads as N888KG is currently owned by Derek and Shelaine Maxfield, who run Saprea, a child abuse charity.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11168"
@@ -4007,8 +4007,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:14:00",
-      "investigative_direction": "Check FAA registration for N888KG and Saprea's nonprofit filings naming Derek and Shirlene Maxfield.",
-      "transcript_snippet": "which is now currently owned by Derek and Shailene Maxfield, they run Saprea which is a child abuse charity.",
+      "investigative_direction": "Check FAA registration for N888KG and Saprea's nonprofit filings naming Derek and Shelaine Maxfield.",
+      "transcript_snippet": "which is now currently owned by Derek and Shelaine Maxfield, they run Saprea which is a child abuse charity.",
       "supports_claim_refs": [
         "C-6874"
       ],
@@ -4022,7 +4022,7 @@
       "@id": "C-8156",
       "ref": "C-8156",
       "label": "Host Says Maxfields Wore Operation Underground Shirts in Their Profile Pictures",
-      "claim": "The host says Derek and Shailene Maxfield wore Operation Underground shirts in their profile pictures.",
+      "claim": "The host says Derek and Shelaine Maxfield wore Operation Underground shirts in their profile pictures.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11167"

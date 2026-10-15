@@ -48,7 +48,7 @@
 
 This episode centers on three distinct artifact-anchored threads concerning activity around the September 10, 2025 Provo, Utah airport during and after the assassination of Charlie Kirk, plus a parallel thread documenting post-assassination pressure campaigns to remove Tucker Carlson from Turning Point USA's speaker lineup.
 
-Evidentiary material presented includes FlightRadar screenshots of a military-contracted plane performing a low-altitude loop over Provo Airport both before and ~26 minutes after the shooting; the public statement issued by Derek and Shirlene Maxfield on September 11 regarding tail number N888KG; FlightRadar records for Egyptian Air Force plane SU-BTT, including a three-year route history; an email tip (not displayed, only described) claiming the SU-BTT flight carried military subcontractors who disembarked in Provo on a discreet mission; a Josh Hammer Daily Mail op-ed calling for Tucker Carlson to be "neutralized"; a Stop Anti-Semitism X post comparing CNN's platforming of Ana Kasparian and TPUSA's refusal to drop Tucker Carlson to the start of the Holocaust; clips from a Seth Dillon / Dave Smith appearance on Piers Morgan; and a TPUSA internal text-chain screenshot in which Charlie Kirk references losing a $2M/year Jewish donor over the Tucker Carlson question.
+Evidentiary material presented includes FlightRadar screenshots of a military-contracted plane performing a low-altitude loop over Provo Airport both before and ~26 minutes after the shooting; the public statement issued by Derek and Shelaine Maxfield on September 11 regarding tail number N888KG; FlightRadar records for Egyptian Air Force plane SU-BTT, including a three-year route history; an email tip (not displayed, only described) claiming the SU-BTT flight carried military subcontractors who disembarked in Provo on a discreet mission; a Josh Hammer Daily Mail op-ed calling for Tucker Carlson to be "neutralized"; a Stop Anti-Semitism X post comparing CNN's platforming of Ana Kasparian and TPUSA's refusal to drop Tucker Carlson to the start of the Holocaust; clips from a Seth Dillon / Dave Smith appearance on Piers Morgan; and a TPUSA internal text-chain screenshot in which Charlie Kirk references losing a $2M/year Jewish donor over the Tucker Carlson question.
 
 Investigatively, the episode advances questions about (a) the purpose and identity of personnel associated with the SU-BTT Egyptian military plane in Provo 9/4–9/10, (b) verification of the N888KG manifest and FBO routing, and (c) authenticity and provenance of the TPUSA text-chain screenshots. Structurally, the episode functions as the host's most aggressive consolidation of the "foreign involvement" thesis, paired with the first explicit invocation of host-tier anti-Israel political theology as a parallel interpretive frame.
 
@@ -70,7 +70,7 @@ Confidence Level: High
 
 **A-1291** Maxfield Statement Bundle (N888KG)
 
-**A-1291.1** Public statement issued by Derek and Shirlene Maxfield on the afternoon of September 11, 2025, read in full on air, addressing tail number N888KG, asserting the plane departed Provo with two pilots and no passengers, picked up Derek Maxfield and seven additional passengers at PGA (Page, Arizona), and that radar services with Denver FAA Center were terminated in mutual agreement approximately 10 miles from PGA.
+**A-1291.1** Public statement issued by Derek and Shelaine Maxfield on the afternoon of September 11, 2025, read in full on air, addressing tail number N888KG, asserting the plane departed Provo with two pilots and no passengers, picked up Derek Maxfield and seven additional passengers at PGA (Page, Arizona), and that radar services with Denver FAA Center were terminated in mutual agreement approximately 10 miles from PGA.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -315,7 +315,7 @@ Investigative Pressure: Medium
 
 **N-94** Derek Maxfield
 
-Co-owner (with wife Shirlene Maxfield) of plane N888KG that departed Provo at 1:20 p.m. Mountain time on 9/10; issued public statement on 9/11 defending the flight's innocuousness. Investigative target for manifest verification and potential federal coordination.
+Co-owner (with wife Shelaine Maxfield) of plane N888KG that departed Provo at 1:20 p.m. Mountain time on 9/10; issued public statement on 9/11 defending the flight's innocuousness. Investigative target for manifest verification and potential federal coordination.
 
 Evidence Count: 1
 Claim Count: 3
@@ -324,7 +324,7 @@ Investigative Pressure: Medium
 
 *Related: C-1529, C-1530, C-1531, A-1291.1, N-10205*
 
-**N-202** Shirlene Maxfield
+**N-202** Shelaine Maxfield
 
 Co-owner (with husband Derek Maxfield) of plane N888KG; co-signatory of the September 11 public statement.
 
@@ -1049,7 +1049,7 @@ Investigative Direction: FlightRadar history of the plane showing the Kalispell 
 
 Claim Timestamp: 00:03:53
 
-Claim: The host says the plane owned by Derek and Shirlene Maxfield is also co-owned by a person named Casey Baugh, who she says did not register on internet radar.
+Claim: The host says the plane owned by Derek and Shelaine Maxfield is also co-owned by a person named Casey Baugh, who she says did not register on internet radar.
 
 Transcript Snippet: Someone who didn't hit internet radar who also co-owns that plane with them is a person named Casey Baugh, B A U G H.
 
@@ -1971,5 +1971,5 @@ Confidence: high
 - [x] People nodes use the global people ledger (N-69 through N-4)
 - [x] Non-person investigation targets use the 1000-series (N-10203 through N-10206)
 - [x] No speculative claims inscribed as evidence-backed claims
-- [x] Names preserved exactly as appearing in transcript (Seth Dillon, Josh Hammer, Ana Kasparian, Dave Smith, J.D. Vance, Piers Morgan, Tucker Carlson, Nick Fuentes, Derek/Shirlene Maxfield, Casey Baugh, Kash Patel)
+- [x] Names preserved exactly as appearing in transcript (Seth Dillon, Josh Hammer, Ana Kasparian, Dave Smith, J.D. Vance, Piers Morgan, Tucker Carlson, Nick Fuentes, Derek/Shelaine Maxfield, Casey Baugh, Kash Patel)
 - [x] Formatting consistent throughout

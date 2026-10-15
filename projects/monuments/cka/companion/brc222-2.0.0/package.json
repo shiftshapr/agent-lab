@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T05:27:25Z",
+  "generated_at": "2026-10-15T05:46:38Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -11270,7 +11270,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11416",
-      "label": "Host Lists Derek and Shailene Maxfield in Her Connecting-Themes Spreadsheet",
+      "label": "Host Lists Derek and Shelaine Maxfield in Her Connecting-Themes Spreadsheet",
       "node_kind": "claim",
       "episode": 92
     },
@@ -85659,7 +85659,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8155",
-      "label": "Host Says the 888 Plane Is Now Owned by Derek and Shailene Maxfield of Saprea",
+      "label": "Host Says the 888 Plane Is Now Owned by Derek and Shelaine Maxfield of Saprea",
       "node_kind": "claim",
       "episode": 54
     },
@@ -102480,7 +102480,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1291.1",
-      "label": "Public statement issued by Derek and Shirlene Maxfield on the afternoon of September 11, 2025, read in full on air, addressing tail number N888KG, asserting the plane departed Provo with two pilots an",
+      "label": "Public statement issued by Derek and Shelaine Maxfield on the afternoon of September 11, 2025, read in full on air, addressing tail number N888KG, asserting the plane departed Provo with two pilots an",
       "node_kind": "artifact",
       "episode": 22
     },

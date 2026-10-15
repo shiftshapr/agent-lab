@@ -1182,12 +1182,12 @@ Investigative Direction: Pull ADS-B Exchange / FlightAware historical track for 
 
 Claim Timestamp: 00:39:09
 
-Claim: The host says a second plane, which she remembers as having '888' in its identification, is the plane of Derek Maxfield and his wife Shirlene Maxfield, who she says sold a beauty company.
+Claim: The host says a second plane, which she remembers as having '888' in its identification, is the plane of Derek Maxfield and his wife Shelaine Maxfield, who she says sold a beauty company.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
 Mentions: N-94
 Related Nodes: N-10186
-Investigative Direction: Verify aircraft registration, ownership, and any link to Derek/Shirlene Maxfield.
+Investigative Direction: Verify aircraft registration, ownership, and any link to Derek/Shelaine Maxfield.
 
 ---
 
