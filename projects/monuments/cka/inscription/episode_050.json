@@ -89,7 +89,7 @@
           "related_nodes": [
             "N-3",
             "N-97",
-            "N-369"
+            "N-368"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -115,7 +115,7 @@
             "C-1983"
           ],
           "related_nodes": [
-            "N-366",
+            "N-365",
             "N-10371"
           ],
           "tags": [],
@@ -142,8 +142,8 @@
             "C-1984"
           ],
           "related_nodes": [
-            "N-366",
-            "N-368",
+            "N-365",
+            "N-367",
             "N-10371"
           ],
           "tags": [],
@@ -170,8 +170,8 @@
             "C-1985"
           ],
           "related_nodes": [
-            "N-367",
-            "N-364",
+            "N-366",
+            "N-363",
             "N-10372"
           ],
           "tags": [],
@@ -198,7 +198,7 @@
             "C-1987"
           ],
           "related_nodes": [
-            "N-364",
+            "N-363",
             "N-10370"
           ],
           "tags": [],
@@ -237,7 +237,7 @@
             "C-1987"
           ],
           "related_nodes": [
-            "N-364",
+            "N-363",
             "N-10370"
           ],
           "tags": [],
@@ -502,8 +502,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-366",
-      "ref": "N-366",
+      "@id": "N-365",
+      "ref": "N-365",
       "name": "Mark Amodei",
       "type": "person",
       "description": "U.S. Representative (NV); subject of contradictory public-record claims regarding his whereabouts on September 9, 2025.",
@@ -550,8 +550,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-367",
-      "ref": "N-367",
+      "@id": "N-366",
+      "ref": "N-366",
       "name": "Cabot Phillips",
       "type": "person",
       "description": "Daily Wire / Morning Wire contributor; identified by Mitch from a photograph as a person seen at Fort Huachuca; subject of a separate dating-history claim involving Erika Kirk.",
@@ -574,8 +574,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-368",
-      "ref": "N-368",
+      "@id": "N-367",
+      "ref": "N-367",
       "name": "Diligent Dennison",
       "type": "person",
       "description": "X poster; author of the read-aloud post analyzing Mark Amodei's alibi and identifying missed roll calls.",
@@ -591,14 +591,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-366",
+        "N-365",
         "N-10371"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-369",
-      "ref": "N-369",
+      "@id": "N-368",
+      "ref": "N-368",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Then-CEO of the Daily Wire; conducted the town hall–style firing of Candace Owens captured in A-1563.1.",
@@ -619,8 +619,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-363",
+      "ref": "N-363",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Fort Huachuca witness; his access, NDA-related lawsuit paperwork, and direction-request video are referenced as verified by the host.",
@@ -665,10 +665,10 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-366",
+        "N-365",
         "N-268",
-        "N-367",
-        "N-364"
+        "N-366",
+        "N-363"
       ]
     },
     {
@@ -692,8 +692,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-366",
-        "N-368"
+        "N-365",
+        "N-367"
       ]
     },
     {
@@ -715,8 +715,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-367",
-        "N-364"
+        "N-366",
+        "N-363"
       ]
     },
     {
@@ -760,7 +760,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-367"
+        "N-366"
       ]
     },
     {
@@ -1149,8 +1149,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-579",
-      "ref": "N-579",
+      "@id": "N-577",
+      "ref": "N-577",
       "name": "Nicole Rothstein",
       "type": "person",
       "description": "Named as Erika Kirk's cousin commenting that Erika is half Jewish.",
@@ -1449,8 +1449,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-721",
-      "ref": "N-721",
+      "@id": "N-719",
+      "ref": "N-719",
       "name": "Hank Berrien",
       "type": "person",
       "description": "First named by the host at 00:22:56 in episode 050. Pen name the host says Ben Shapiro's father uses for Daily Wire and earlier Breitbart articles.",
@@ -1525,7 +1525,7 @@
       "@id": "C-1980",
       "ref": "C-1980",
       "label": "Ben Shapiro Demanded Candace Owens Be Called Out by Name at AmFest",
-      "claim": "At AmFest, Ben Shapiro stated that Candace Owens was casting aspersions on TPUSA staff and on Erika Kirk, and that people with microphones had a moral obligation to call her out by name.",
+      "claim": "In a clip the host plays from AmFest, Ben Shapiro says that if Candace Owens decides to cast aspersions at TPUSA staff and at Erika Kirk, then people with a microphone have a moral obligation to call that out by name.",
       "anchored_artifacts": [
         "A-1561.1"
       ],
@@ -1545,7 +1545,7 @@
       "@id": "C-1981",
       "ref": "C-1981",
       "label": "Tucker Carlson Stated Charlie Kirk Faced Donor Pressure to Remove Him From AmFest Roster",
-      "claim": "Tucker Carlson stated at AmFest that during the last several months of Charlie Kirk's life, donors to Turning Point – whom Carlson attributed in part to Ben Shapiro's insistence – pressured Kirk to remove Tucker from the AmFest speaker roster.",
+      "claim": "In a clip the host plays, Tucker Carlson says that during the last several months of Charlie Kirk's life, people who give money to Turning Point put immense pressure on Kirk to take Tucker off the AmFest speaker roster.",
       "anchored_artifacts": [
         "A-1562.1"
       ],
@@ -1555,7 +1555,6 @@
       "investigative_direction": "Obtain the full unedited Carlson speech; verify the specific donor names and corroborate through contemporaneous TPUSA communications.",
       "mentions_person_refs": [
         "N-22",
-        "N-97",
         "N-1"
       ]
     },
@@ -1564,7 +1563,7 @@
       "@id": "C-1982",
       "ref": "C-1982",
       "label": "Daily Wire Held a Town Hall–Style Firing Event for Candace Owens with Ben Shapiro Appearing Electronically",
-      "claim": "The Daily Wire held a \"town hall\"–style firing event attended by approximately 300 employees in which then-CEO Jeremy Boreing narrated a packaged presentation of Owens's X posts (October 28, 2023 protest repost; November 3, 2023 genocide tweet; pornography tweet; \"Christ is King\" tweets), with Ben Shapiro joining electronically on screen.",
+      "claim": "The host says the Daily Wire fired her at a \"town hall\" staged in her studio, with about 300 employees present and Ben Shapiro joining electronically on screen; in a clip the host plays, then-CEO Jeremy Boreing narrates Owens's X posts (an October 28, 2023 repost of a London protest video, a November 3, 2023 post on genocide, and a February 28 post on the profiteering of pornography), and the host says he then went into a diatribe about the real meaning of \"Christ is King\".",
       "anchored_artifacts": [
         "A-1563.1"
       ],
@@ -1575,7 +1574,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-369"
+        "N-368"
       ]
     },
     {
@@ -1594,7 +1593,7 @@
       "claim_timestamp": "00:35:44",
       "investigative_direction": "Retrieve the original X post URL; cross-reference with the House Appropriations Committee's published September 9 video and the House roll call record.",
       "mentions_person_refs": [
-        "N-366"
+        "N-365"
       ]
     },
     {
@@ -1613,8 +1612,8 @@
       "claim_timestamp": "00:36:36",
       "investigative_direction": "Independently verify against the official House roll call vote record for September 9, 2025; verify flight routing feasibility for Amodei to have been at Fort Huachuca that morning and back in D.C. for the third roll call.",
       "mentions_person_refs": [
-        "N-366",
-        "N-368"
+        "N-365",
+        "N-367"
       ]
     },
     {
@@ -1633,8 +1632,8 @@
       "claim_timestamp": "00:41:56 – 00:43:14",
       "investigative_direction": "Corroborate through independent identification sources; verify Cabot Phillips's whereabouts between September 4 and 10, 2025 (including Morning Wire appearance records); await response from Cabot Phillips to host's outreach.",
       "mentions_person_refs": [
-        "N-364",
-        "N-367"
+        "N-363",
+        "N-366"
       ]
     },
     {
@@ -1674,7 +1673,7 @@
       "claim_timestamp": "00:33:21 – 00:34:20",
       "investigative_direction": "Display or publish the underlying verification documents; obtain third-party corroboration beyond host's assertions.",
       "mentions_person_refs": [
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -1682,7 +1681,7 @@
       "@id": "C-1988",
       "ref": "C-1988",
       "label": "Erika Kirk Reportedly Claimed She Had Not Dated Anyone Before Charlie Kirk",
-      "claim": "The host reports that Erika Kirk publicly stated she had not dated anyone before Charlie Kirk, which the host characterizes as contradicting social-media evidence of a prior relationship with Cabot Phillips and his family.",
+      "claim": "The host says someone told her it was going viral on X that Erika Kirk claimed she had not dated anyone before Charlie Kirk; the host says she knew Erika had dated someone before, and points to social-media activity between Erika and Cabot Phillips's family.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10374"
@@ -1692,7 +1691,7 @@
       "investigative_direction": "Locate the original Erika Kirk statement (interview, podcast, or social-media post); obtain screenshots of the cited social-media evidence (painting lessons, family interactions); obtain corroboration from family members including Nicole Rothstein.",
       "mentions_person_refs": [
         "N-2",
-        "N-367",
+        "N-366",
         "N-1"
       ]
     },
@@ -1837,8 +1836,7 @@
         "C-3721"
       ],
       "mentions_person_refs": [
-        "N-64",
-        "N-163"
+        "N-64"
       ]
     },
     {
@@ -1866,7 +1864,7 @@
       "@type": "Claim",
       "@id": "C-5357",
       "ref": "C-5357",
-      "label": "Host says Shapiro was caught on video standing on a table insulting her",
+      "label": "Host Says Shapiro Was Caught Standing on a Table Insulting Her",
       "claim": "The host says someone caught Ben Shapiro standing on a table at a private event insulting her over her tweet that genocide is always wrong, and plays the audio.",
       "anchored_artifacts": [
         "A-2748.1"
@@ -2013,8 +2011,8 @@
       "@type": "Claim",
       "@id": "C-5365",
       "ref": "C-5365",
-      "label": "Host says the Sowell interview premiered right alongside her Tucker Carlson interview",
-      "claim": "The host says her Tucker Carlson interview was on the 15th and premiered on the 16th, and that Ben then got a Thomas Sowell interview out at the same time.",
+      "label": "Host Says Shapiro Got Thomas Sowell as her Tucker Carlson Interview Aired",
+      "claim": "The host says her interview with Tucker Carlson was on the 15th and, she thinks, premiered on the 16th, and that Ben then gets Thomas Sowell.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11025"
@@ -2068,7 +2066,7 @@
       ],
       "mentions_person_refs": [
         "N-261",
-        "N-369"
+        "N-368"
       ]
     },
     {
@@ -2086,7 +2084,7 @@
       "investigative_direction": "Retrieve the Rubin and host exchange on X from November 2023 and compare with Boreing's quoted text.",
       "transcript_snippet": "So when Dave Rubin came to the exact same conclusion as the anti-Semites only instead of cheering for Candace found it vile and rebuked her",
       "mentions_person_refs": [
-        "N-369",
+        "N-368",
         "N-32",
         "N-3"
       ]
@@ -2106,7 +2104,7 @@
       "investigative_direction": "Check the host's X likes history or archived copies for the November 2023 like cited by Boreing.",
       "transcript_snippet": "Within 24 hours Candace liked a post calling Israeli Prime Minister Benjamin Netanyahu a war criminal.",
       "mentions_person_refs": [
-        "N-369",
+        "N-368",
         "N-36",
         "N-3"
       ]
@@ -2126,7 +2124,7 @@
       "investigative_direction": "Review archived replies to the February 28, 2024 post to test the characterization.",
       "transcript_snippet": "Her replies were immediately flooded with anti-Semites cheering her for the question",
       "mentions_person_refs": [
-        "N-369",
+        "N-368",
         "N-3"
       ]
     },
@@ -2151,7 +2149,7 @@
       "@id": "C-5372",
       "ref": "C-5372",
       "label": "Host says she spoke to Nick Fuentes only once, about Kanye",
-      "claim": "The host says Boreing's presentation showed videos of Nick Fuentes unrelated to her, and that she has spoken to Fuentes only once, about Kanye.",
+      "claim": "The host says Boreing's presentation showed videos of Nick Fuentes unrelated to her, and that she thinks she has spoken to Fuentes only once, about Kanye.",
       "anchored_artifacts": [
         "A-1563.1"
       ],
@@ -2270,7 +2268,7 @@
       "@id": "C-5378",
       "ref": "C-5378",
       "label": "Shapiro's speech says the host implicated French intelligence, Mossad and TPUSA members",
-      "claim": "In the AmFest audio, Ben Shapiro says the host has spewed baseless trash implicating everyone from French intelligence to Mossad to members of TPUSA in Charlie Kirk's murder or a cover-up.",
+      "claim": "In the AmFest audio, Ben Shapiro says that if the host decides to spew absolutely baseless trash implicating everyone from French intelligence to Mossad to members of TPUSA in Charlie Kirk's murder or a cover-up, people with a microphone have a moral obligation to call that out by name.",
       "anchored_artifacts": [
         "A-1561.1"
       ],
@@ -2357,7 +2355,7 @@
       "@id": "C-5382",
       "ref": "C-5382",
       "label": "Host asserts the Talmud teaches that Jews have a right to own, deceive and sue non-Jews",
-      "claim": "The host asserts that, according to the Talmud, Jewish people think non-Jews are animals and have a right to own them, make them worship, lie to them and sue them. She cites no passage.",
+      "claim": "The host says Ben Shapiro describes himself as a Talmudic Jew, that he hates her, white men and all black people, and that if he is following the rules of the Talmud, \"they\" think \"we\" are animals and have a right to own us, make us worship them, lie to us, sue us and take everything we have, and deceive us. She cites no passage.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2385,7 +2383,7 @@
       "transcript_snippet": "How many more articles is his father going to write under a pen name, Hank Berrien of the Daily Wire, under the pen name, Hank Berrien, as he wrote while Ben was at Breitbart",
       "mentions_person_refs": [
         "N-97",
-        "N-721"
+        "N-719"
       ]
     },
     {
@@ -2393,7 +2391,7 @@
       "@id": "C-5384",
       "ref": "C-5384",
       "label": "Host says Jewish donors pressured Charlie Kirk, some because Shapiro insisted",
-      "claim": "The host says Charlie Kirk fought to the end against Jewish donors who were pressuring him, some of them because Ben Shapiro insisted that they do so.",
+      "claim": "The host says Charlie Kirk loved Tucker Carlson and fought for him until the very end against the Jewish donors who were pressuring him, some of them because Ben Shapiro insisted that they do so.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10268"
@@ -2434,8 +2432,8 @@
       "@type": "Claim",
       "@id": "C-5386",
       "ref": "C-5386",
-      "label": "Host says Daily Wire fired half its Daily Wire Kids staff then spent a million on Charlie's show",
-      "claim": "Addressing Shapiro, the host says he fired half of the force involved in Daily Wire Kids and then dropped a million dollars on Charlie Kirk's show.",
+      "label": "Host Asks Whether Shapiro Fired Half His Daily Wire Kids Staff Then Spent a Million on Charlie's Show",
+      "claim": "Addressing Shapiro, the host asks whether he did not just fire half of the force involved in Daily Wire Kids only to then drop a million dollars on Charlie Kirk's show.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10912"
@@ -2507,7 +2505,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -2531,7 +2529,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-321",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -2554,7 +2552,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -2573,7 +2571,7 @@
       "transcript_snippet": "You can support Mitch at givesendgo. com/candacepodcast.",
       "mentions_person_refs": [
         "N-3",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -2595,7 +2593,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-366"
+        "N-365"
       ]
     },
     {
@@ -2613,7 +2611,7 @@
       "investigative_direction": "Ask Amodei's office or local press whether constituent calls were received and what the office said.",
       "transcript_snippet": "Mark Amodei apparently received a ton of phone calls from his constituents who wanted to know where he was.",
       "mentions_person_refs": [
-        "N-366"
+        "N-365"
       ]
     },
     {
@@ -2676,8 +2674,8 @@
         "C-1984"
       ],
       "mentions_person_refs": [
-        "N-368",
-        "N-366"
+        "N-367",
+        "N-365"
       ]
     },
     {
@@ -2720,7 +2718,7 @@
       "transcript_snippet": "There was one person who we are vetting who believes that they have evidence that the people that Mitch saw were in fact on that base on that date.",
       "mentions_person_refs": [
         "N-3",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -2742,8 +2740,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-364",
-        "N-366"
+        "N-363",
+        "N-365"
       ]
     },
     {
@@ -2765,8 +2763,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-364",
-        "N-366"
+        "N-363",
+        "N-365"
       ]
     },
     {
@@ -2789,7 +2787,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-367",
+        "N-366",
         "N-2"
       ]
     },
@@ -2835,8 +2833,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-364",
-        "N-367"
+        "N-363",
+        "N-366"
       ]
     },
     {
@@ -2855,7 +2853,7 @@
       "transcript_snippet": "I messaged Cabot Cabot Phillips twice today, actually, and asked him if he wanted to have an off-the-record conversation",
       "mentions_person_refs": [
         "N-3",
-        "N-367"
+        "N-366"
       ]
     },
     {
@@ -2874,14 +2872,14 @@
       "transcript_snippet": "he is missing from September 4th to September 10th on that show.",
       "mentions_person_refs": [
         "N-3",
-        "N-367"
+        "N-366"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-5407",
       "ref": "C-5407",
-      "label": "Host calls Cabot Phillips Erika's ex-boyfriend from 2017",
+      "label": "Host Says She Did Not Tell Mitch Cabot Phillips Was Erika's Ex-Boyfriend From 2017",
       "claim": "The host says she did not tell Mitch that Cabot Phillips was Erika Kirk's ex-boyfriend from 2017 when she sent the photo.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2896,9 +2894,9 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-367",
+        "N-366",
         "N-2",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -2915,7 +2913,7 @@
       "transcript_snippet": "a pretty big guy, you know, uh taking a lot of money from the Adelsons, and definitely a neocon.",
       "mentions_person_refs": [
         "N-3",
-        "N-367"
+        "N-366"
       ]
     },
     {
@@ -2940,7 +2938,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-367"
+        "N-366"
       ]
     },
     {
@@ -2959,7 +2957,7 @@
       "transcript_snippet": "Nicole Rothstein was like, \"I'm her cousin. She's half Jewish.\"",
       "mentions_person_refs": [
         "N-3",
-        "N-579",
+        "N-577",
         "N-2"
       ]
     },
@@ -3060,7 +3058,7 @@
       "transcript_snippet": "that's why we open you guys to this investigation to send us tips",
       "mentions_person_refs": [
         "N-3",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -3100,7 +3098,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-364"
+        "N-363"
       ]
     },
     {

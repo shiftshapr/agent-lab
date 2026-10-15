@@ -747,8 +747,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-488",
-      "ref": "N-488",
+      "@id": "N-486",
+      "ref": "N-486",
       "name": "Blake Lively",
       "type": "person",
       "description": "Named party in the Baldoni litigation; text-message correspondent with Taylor Swift per A-1665.1.",
@@ -770,8 +770,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-489",
-      "ref": "N-489",
+      "@id": "N-487",
+      "ref": "N-487",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Named party in the Lively litigation; subject of Taylor Swift's December 2024 text per A-1665.1.",
@@ -988,8 +988,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-379",
-      "ref": "N-379",
+      "@id": "N-377",
+      "ref": "N-377",
       "name": "Ryan Reynolds",
       "type": "person",
       "description": "Ryan Reynolds; host's account of the Deadpool reshoot and pressure on Baldoni.",
@@ -1006,8 +1006,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-490",
-      "ref": "N-490",
+      "@id": "N-488",
+      "ref": "N-488",
       "name": "Taylor Swift",
       "type": "person",
       "description": "Taylor Swift; referenced in the Baldoni litigation account.",
@@ -1024,8 +1024,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-665",
-      "ref": "N-665",
+      "@id": "N-663",
+      "ref": "N-663",
       "name": "Ivanka Trump",
       "type": "person",
       "description": "Ivanka Trump; the host says she was in Iceland weeks earlier.",
@@ -1041,8 +1041,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-878",
-      "ref": "N-878",
+      "@id": "N-876",
+      "ref": "N-876",
       "name": "Britney Spears",
       "type": "person",
       "description": "Britney Spears; the host's comparison for media-driven breakdown.",
@@ -1284,8 +1284,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-934",
-      "ref": "N-934",
+      "@id": "N-932",
+      "ref": "N-932",
       "name": "Rabbi Shmuley Boteach",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 145 (as \"Rabbi Shmuley\").",
@@ -1319,8 +1319,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-935",
-      "ref": "N-935",
+      "@id": "N-933",
+      "ref": "N-933",
       "name": "Dan Steiner",
       "type": "person",
       "description": "First named by the host at 00:25:04 in episode 145. President of Pre-Born, per the sponsor read.",
@@ -1337,8 +1337,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-936",
-      "ref": "N-936",
+      "@id": "N-934",
+      "ref": "N-934",
       "name": "Sarah Rogers",
       "type": "person",
       "description": "First named by the host at 00:32:35 in episode 145. Under Secretary for Public Diplomacy at the State Department, whom the host says leaked to Jenica Pounds.",
@@ -1405,7 +1405,7 @@
       "claim_timestamp": "00:13:27",
       "investigative_direction": "Independent corroboration of the encounter is achievable via flight manifests or third-party witnesses.",
       "mentions_person_refs": [
-        "N-489"
+        "N-487"
       ]
     },
     {
@@ -1422,7 +1422,7 @@
       "claim_timestamp": "00:14:29",
       "investigative_direction": "Verify via flight records or independent statements from Baldoni or his representatives.",
       "mentions_person_refs": [
-        "N-489"
+        "N-487"
       ]
     },
     {
@@ -1651,7 +1651,7 @@
       "claim_timestamp": "00:17:34",
       "investigative_direction": "Obtain the full CCRD filing; verify the quoted passage in original context.",
       "mentions_person_refs": [
-        "N-488"
+        "N-486"
       ]
     },
     {
@@ -1668,7 +1668,7 @@
       "claim_timestamp": "00:17:34",
       "investigative_direction": "Verify by reading the full CCRD filing; compare to subsequent court filings.",
       "mentions_person_refs": [
-        "N-488"
+        "N-486"
       ]
     },
     {
@@ -1712,8 +1712,8 @@
       "investigative_direction": "Public posts, photos or Icelandic press placing Shmuley Boteach, Ivanka Trump and Jared Kushner in Iceland in the weeks before the episode.",
       "transcript_snippet": "I saw Rumpelstiltskin, known to some people as Rabbi Shmuley, up in Iceland as well as Ivanka and Jared Kushner just before we were going to go, a couple of weeks before",
       "mentions_person_refs": [
-        "N-934",
-        "N-665",
+        "N-932",
+        "N-663",
         "N-180",
         "N-3"
       ]
@@ -1784,7 +1784,7 @@
         "C-3256"
       ],
       "mentions_person_refs": [
-        "N-934",
+        "N-932",
         "N-3"
       ]
     },
@@ -1913,7 +1913,7 @@
       "transcript_snippet": "there was a very obvious and intentional effort to drive me to the point of insanity",
       "mentions_person_refs": [
         "N-3",
-        "N-878"
+        "N-876"
       ]
     },
     {
@@ -2057,7 +2057,7 @@
       "transcript_snippet": "I've never met Justin. I've never spoken to him or his wife. I've never even tried to reach out to them even once.",
       "mentions_person_refs": [
         "N-3",
-        "N-489"
+        "N-487"
       ]
     },
     {
@@ -2076,7 +2076,7 @@
       "transcript_snippet": "she said Blake Lively was awful. It was like her least favorite person to work with.",
       "mentions_person_refs": [
         "N-3",
-        "N-488"
+        "N-486"
       ]
     },
     {
@@ -2096,8 +2096,8 @@
       "investigative_direction": "Rights purchase and production records for the film adaptation as filed in the litigation.",
       "transcript_snippet": "purchased the rights to create a film about the books using his movie studio",
       "mentions_person_refs": [
-        "N-489",
-        "N-488"
+        "N-487",
+        "N-486"
       ]
     },
     {
@@ -2120,8 +2120,8 @@
         "C-6926"
       ],
       "mentions_person_refs": [
-        "N-488",
-        "N-489"
+        "N-486",
+        "N-487"
       ]
     },
     {
@@ -2144,9 +2144,9 @@
         "C-6926"
       ],
       "mentions_person_refs": [
-        "N-488",
-        "N-489",
-        "N-379"
+        "N-486",
+        "N-487",
+        "N-377"
       ]
     },
     {
@@ -2164,8 +2164,8 @@
       "investigative_direction": "The message in the litigation record that the host paraphrases; the exact wording and sender.",
       "transcript_snippet": "Taylor Swift is there that she doesn't get what she wants, she's going to release her dragons.",
       "mentions_person_refs": [
-        "N-488",
-        "N-490"
+        "N-486",
+        "N-488"
       ]
     },
     {
@@ -2186,8 +2186,8 @@
         "C-2882"
       ],
       "mentions_person_refs": [
-        "N-489",
-        "N-488"
+        "N-487",
+        "N-486"
       ]
     },
     {
@@ -2208,8 +2208,8 @@
         "C-2880"
       ],
       "mentions_person_refs": [
-        "N-379",
-        "N-489"
+        "N-377",
+        "N-487"
       ]
     },
     {
@@ -2248,7 +2248,7 @@
         "C-2880"
       ],
       "mentions_person_refs": [
-        "N-489",
+        "N-487",
         "N-3"
       ]
     },
@@ -2267,7 +2267,7 @@
       "investigative_direction": "Baldoni's own public statements; this is a private conversation reported by the host.",
       "transcript_snippet": "how close they were to hitting rock bottom",
       "mentions_person_refs": [
-        "N-489",
+        "N-487",
         "N-3"
       ]
     },
@@ -2286,7 +2286,7 @@
       "investigative_direction": "Baldoni's public statements about kombucha; this is a private conversation reported by the host.",
       "transcript_snippet": "He doesn't actually drink kombucha. He's not a big kombucha drinker.",
       "mentions_person_refs": [
-        "N-489",
+        "N-487",
         "N-3"
       ]
     },
@@ -2307,8 +2307,8 @@
       "investigative_direction": "Litigation and press records identifying the PR and agency actors and any role attributed to Taylor Swift.",
       "transcript_snippet": "he was up against an established power. I mean, it was the New York Times. It was WME.",
       "mentions_person_refs": [
-        "N-489",
-        "N-490"
+        "N-487",
+        "N-488"
       ]
     },
     {
@@ -2330,7 +2330,7 @@
       "investigative_direction": "Pre-Born's own reporting; this is a sponsor claim.",
       "transcript_snippet": "more than 50,000 babies have been saved from abortion",
       "mentions_person_refs": [
-        "N-935"
+        "N-933"
       ]
     },
     {
@@ -2355,7 +2355,7 @@
         "C-9809"
       ],
       "mentions_person_refs": [
-        "N-935"
+        "N-933"
       ]
     },
     {
@@ -2596,7 +2596,7 @@
       ],
       "mentions_person_refs": [
         "N-283",
-        "N-936"
+        "N-934"
       ]
     },
     {
@@ -2619,7 +2619,7 @@
         "C-3338"
       ],
       "mentions_person_refs": [
-        "N-936",
+        "N-934",
         "N-161"
       ]
     },
@@ -2647,7 +2647,7 @@
       ],
       "mentions_person_refs": [
         "N-161",
-        "N-936"
+        "N-934"
       ]
     },
     {

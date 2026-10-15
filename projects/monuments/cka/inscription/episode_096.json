@@ -60,7 +60,7 @@
           "related_nodes": [
             "N-2",
             "N-10637",
-            "N-373"
+            "N-371"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -79,8 +79,8 @@
           ],
           "related_nodes": [
             "N-10637",
-            "N-371",
-            "N-373"
+            "N-370",
+            "N-371"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -100,7 +100,7 @@
           "related_nodes": [
             "N-2",
             "N-10638",
-            "N-374"
+            "N-372"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -139,7 +139,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-374",
+            "N-372",
             "N-10638"
           ],
           "tags": [],
@@ -353,8 +353,8 @@
             "N-3",
             "N-60",
             "N-203",
-            "N-376",
-            "N-555"
+            "N-374",
+            "N-553"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -374,7 +374,7 @@
           "related_nodes": [
             "N-3",
             "N-60",
-            "N-555"
+            "N-553"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -524,7 +524,7 @@
             "N-3",
             "N-60",
             "N-82",
-            "N-381",
+            "N-379",
             "N-10270"
           ],
           "tags": [],
@@ -667,7 +667,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-374"
+        "N-372"
       ]
     },
     {
@@ -1083,8 +1083,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-371",
-      "ref": "N-371",
+      "@id": "N-370",
+      "ref": "N-370",
       "name": "Evan Hill",
       "type": "person",
       "description": "Washington Post investigative reporter; per the host (28:18), wrote on X that a Secret Service officer fired four times at Cole Allen and that the surveillance footage showed no indication Allen fired his weapon.",
@@ -1102,8 +1102,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-373",
-      "ref": "N-373",
+      "@id": "N-371",
+      "ref": "N-371",
       "name": "Cole Allen",
       "type": "person",
       "description": "Suspect in the White House Correspondents Dinner incident; per Evan Hill's X post read at 28:18, a Secret Service officer fired four times at him as he charged a security checkpoint.",
@@ -1123,8 +1123,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-374",
-      "ref": "N-374",
+      "@id": "N-372",
+      "ref": "N-372",
       "name": "Sarah Sidner",
       "type": "person",
       "description": "CNN reporter; per the host (31:35), first shared the clip of Erika Kirk saying \"I just want to go home.\" The host could not confirm she recorded it herself.",
@@ -1145,8 +1145,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-376",
-      "ref": "N-376",
+      "@id": "N-374",
+      "ref": "N-374",
       "name": "David Axelrod",
       "type": "person",
       "description": "Former top advisor to Barack Obama; named (01:04:56) in Laura Loomer's tweet alleging a secret anti-Trump summit in Rome with Candace Owens, Nick Fuentes and Aubrey Leitch. The host says she did not see him in Rome (01:07:45).",
@@ -1182,8 +1182,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-555",
-      "ref": "N-555",
+      "@id": "N-553",
+      "ref": "N-553",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Former Turning Point USA employee; subject of recorded private investigator visit to her home.",
@@ -1672,8 +1672,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-381",
-      "ref": "N-381",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Emmanuel Macron; named in a Loomer tweet the host reads.",
@@ -1691,8 +1691,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-422",
+      "ref": "N-422",
       "name": "Pope Leo XIV",
       "type": "person",
       "description": "Pope Leo XIV; the host says she did not meet him.",
@@ -1752,8 +1752,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-600",
-      "ref": "N-600",
+      "@id": "N-598",
+      "ref": "N-598",
       "name": "Druski",
       "type": "person",
       "description": "Druski; named by Erika Kirk in her statement.",
@@ -1806,8 +1806,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-819",
-      "ref": "N-819",
+      "@id": "N-817",
+      "ref": "N-817",
       "name": "Dan Scavino",
       "type": "person",
       "description": "First named by the host at 00:23:21 in episode 096, as the person who sent Trump's tweets during his first term.",
@@ -1823,8 +1823,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-820",
-      "ref": "N-820",
+      "@id": "N-818",
+      "ref": "N-818",
       "name": "Natalie Harp",
       "type": "person",
       "description": "First named by the host at 00:23:21 in episode 096, as the person widely reported to send Trump's Truth Social posts.",
@@ -1876,7 +1876,7 @@
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Pull the Washington Post article directly; review surveillance footage; verify Secret Service statements.",
       "mentions_person_refs": [
-        "N-373"
+        "N-371"
       ]
     },
     {
@@ -1895,8 +1895,8 @@
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Pull Evan Hill's X post directly; verify Washington Post's review of footage; cross-reference with official statements.",
       "mentions_person_refs": [
-        "N-371",
-        "N-373"
+        "N-370",
+        "N-371"
       ]
     },
     {
@@ -1916,7 +1916,7 @@
       "investigative_direction": "Confirm via Sidner's public posts or CNN's records; the host could not confirm Sidner personally recorded the clip.",
       "mentions_person_refs": [
         "N-2",
-        "N-374"
+        "N-372"
       ]
     },
     {
@@ -1938,7 +1938,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-374"
+        "N-372"
       ]
     },
     {
@@ -2201,8 +2201,8 @@
         "N-3",
         "N-60",
         "N-203",
-        "N-376",
-        "N-555"
+        "N-374",
+        "N-553"
       ]
     },
     {
@@ -2690,8 +2690,8 @@
       "transcript_snippet": "Trump, who has never, by the way, pushed send on his own tweets, that was the job initially of Dan Scavino during his first term.",
       "mentions_person_refs": [
         "N-5",
-        "N-819",
-        "N-820"
+        "N-817",
+        "N-818"
       ]
     },
     {
@@ -2717,7 +2717,7 @@
         "C-2792"
       ],
       "mentions_person_refs": [
-        "N-373"
+        "N-371"
       ]
     },
     {
@@ -2990,7 +2990,7 @@
       "transcript_snippet": "she name-dropped Drewski and she name-dropped me",
       "mentions_person_refs": [
         "N-2",
-        "N-600",
+        "N-598",
         "N-3"
       ]
     },
@@ -3216,7 +3216,7 @@
       "investigative_direction": "Aubrey Lech's own account, and a comparison of the host's reporting against what Lech could have known.",
       "transcript_snippet": "I've had many conversations with her, but nothing was leaked to me about their that I presented on this show about anything that was going on internal.",
       "mentions_person_refs": [
-        "N-555",
+        "N-553",
         "N-3",
         "N-14"
       ]
@@ -3550,7 +3550,7 @@
         "N-60",
         "N-3",
         "N-82",
-        "N-381"
+        "N-379"
       ]
     },
     {
@@ -3593,7 +3593,7 @@
       "investigative_direction": "Aubrey Lech's original post.",
       "transcript_snippet": "An obvious AI photo joke from Aubrey saying, \"Happy birthday, Candace.\"",
       "mentions_person_refs": [
-        "N-555",
+        "N-553",
         "N-3"
       ]
     },
@@ -3641,9 +3641,9 @@
         "C-2806"
       ],
       "mentions_person_refs": [
-        "N-555",
+        "N-553",
         "N-203",
-        "N-376",
+        "N-374",
         "N-3"
       ]
     },
@@ -3770,7 +3770,7 @@
       "transcript_snippet": "I did not meet the Pope.",
       "mentions_person_refs": [
         "N-3",
-        "N-424"
+        "N-422"
       ]
     }
   ],

@@ -11,15 +11,15 @@
 - **Transcript SHA-256**: a4f178d69e8bc8d30d77b84650ec3497630fa5202686df6ed729ebeb114f0d63
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-872, N-873, N-875, N-11263, N-11264, N-11265
+  - Tip-minted Nodes (supplement_2026-10d): N-870, N-871, N-873, N-11263, N-11264, N-11265
   - Hole-minted Nodes (reintro-ep152): N-196
-  - Tip-minted Nodes (reintro-ep152): N-840, N-841
+  - Tip-minted Nodes (reintro-ep152): N-838, N-839
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10500–C-10589
-  - Reused Nodes Appearing: N-10832, N-5, N-9, N-22, N-27, N-30, N-37, N-41, N-54, N-99, N-137, N-156, N-161, N-206, N-58, N-239, N-280, N-327, N-332, N-343, N-370, N-428, N-453, N-454, N-464, N-491, N-492, N-533, N-574, N-691, N-692, N-693, N-782, N-806, N-807, N-388, N-10006, N-10012, N-10014, N-10023, N-10026, N-10032, N-10056, N-10129, N-10151, N-10193, N-10198, N-10246, N-10338, N-10410, N-10411, N-10421, N-10435, N-10524, N-10609, N-10698, N-10725, N-10770, N-10899, N-10969, N-10989, N-11047, N-11099, N-11165, N-11167, N-11203, N-874
+  - Reused Nodes Appearing: N-10832, N-5, N-9, N-22, N-27, N-30, N-37, N-41, N-54, N-99, N-137, N-156, N-161, N-206, N-58, N-239, N-280, N-327, N-332, N-343, N-369, N-426, N-451, N-452, N-462, N-489, N-490, N-531, N-572, N-689, N-690, N-691, N-780, N-804, N-805, N-386, N-10006, N-10012, N-10014, N-10023, N-10026, N-10032, N-10056, N-10129, N-10151, N-10193, N-10198, N-10246, N-10338, N-10410, N-10411, N-10421, N-10435, N-10524, N-10609, N-10698, N-10725, N-10770, N-10899, N-10969, N-10989, N-11047, N-11099, N-11165, N-11167, N-11203, N-872
  - New Nodes Introduced: N-10831, N-10832
- - Reused Nodes Appearing: N-11, N-510
- - Hole-minted Nodes (wave3): N-593
+ - Reused Nodes Appearing: N-11, N-508
+ - Hole-minted Nodes (wave3): N-591
  - (see registers)
 
 ---
@@ -281,7 +281,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-593** Matt Tardio
+**N-591** Matt Tardio
 
 First named by the host at 00:35:04 in episode 152.
 
@@ -710,7 +710,7 @@ Financier whose money's origin Carlson asked about (transcribed Bill Ackman).
 
 ---
 
-**N-370** Danny Philip
+**N-369** Danny Philip
 
 Driver on September 10 (transcribed Danny Phillip).
 
@@ -742,7 +742,7 @@ Man who shouted that he did it.
 
 ---
 
-**N-428** Marcus Wada
+**N-426** Marcus Wada
 
 Named by the host as running trafficking-related work in Poland.
 
@@ -750,7 +750,7 @@ Named by the host as running trafficking-related work in Poland.
 
 ---
 
-**N-453** Michael Aquino
+**N-451** Michael Aquino
 
 Temple of Set founder named by the host (transcribed Michael Aino).
 
@@ -758,7 +758,7 @@ Temple of Set founder named by the host (transcribed Michael Aino).
 
 ---
 
-**N-454** Greg Laurie
+**N-452** Greg Laurie
 
 Pastor the host says headlined the first post-Charlie tour paperwork (transcribed Greg Laurie).
 
@@ -766,7 +766,7 @@ Pastor the host says headlined the first post-Charlie tour paperwork (transcribe
 
 ---
 
-**N-464** Nelda Buckman
+**N-462** Nelda Buckman
 
 TPUSA donor the host says is involved in child rescue.
 
@@ -774,7 +774,7 @@ TPUSA donor the host says is involved in child rescue.
 
 ---
 
-**N-491** Rick Cutler
+**N-489** Rick Cutler
 
 Said to have rescued kids from trafficking in South America via Operation Underground.
 
@@ -782,7 +782,7 @@ Said to have rescued kids from trafficking in South America via Operation Underg
 
 ---
 
-**N-492** Jaco Booyens
+**N-490** Jaco Booyens
 
 Runs a charity for abuse victims per the host (transcribed Yako Buyans).
 
@@ -798,7 +798,7 @@ Said by the host to have yelled at Charlie over Epstein.
 
 ---
 
-**N-510** Christopher Bagley
+**N-508** Christopher Bagley
 
 Officer who found the screwdriver per the host.
 
@@ -814,7 +814,7 @@ Brought in for a second statement by the AG's office per the host.
 
 ---
 
-**N-533** Jean-Luc Brunel
+**N-531** Jean-Luc Brunel
 
 Modeling agency founder named by the host (transcribed John Luke Brunell).
 
@@ -822,7 +822,7 @@ Modeling agency founder named by the host (transcribed John Luke Brunell).
 
 ---
 
-**N-574** Faith Kates
+**N-572** Faith Kates
 
 Modeling agency head named by the host.
 
@@ -830,7 +830,7 @@ Modeling agency head named by the host.
 
 ---
 
-**N-691** Philip Goldsberry Jr.
+**N-689** Philip Goldsberry Jr.
 
 Co-founder of Sofer Global Ministries per the host (transcribed Phil Goldsbury).
 
@@ -838,7 +838,7 @@ Co-founder of Sofer Global Ministries per the host (transcribed Phil Goldsbury).
 
 ---
 
-**N-692** Dr. Philip Goldsberry
+**N-690** Dr. Philip Goldsberry
 
 Philip Goldsberry Sr. in the same family.
 
@@ -846,7 +846,7 @@ Philip Goldsberry Sr. in the same family.
 
 ---
 
-**N-693** Otto Busher
+**N-691** Otto Busher
 
 Colonel the host says was accused of running a brothel with Romanian children (transcribed Otto B O Busher).
 
@@ -854,7 +854,7 @@ Colonel the host says was accused of running a brothel with Romanian children (t
 
 ---
 
-**N-782** Matt Robinson
+**N-780** Matt Robinson
 
 Tyler Robinson's father.
 
@@ -862,7 +862,7 @@ Tyler Robinson's father.
 
 ---
 
-**N-806** Paul Vallely
+**N-804** Paul Vallely
 
 TPUSA adviser and retired army general named by the host (transcribed Paul Valle).
 
@@ -870,7 +870,7 @@ TPUSA adviser and retired army general named by the host (transcribed Paul Valle
 
 ---
 
-**N-840** Macklemore
+**N-838** Macklemore
 
 Rapper dropped from the tour (transcribed McLemore).
 
@@ -878,7 +878,7 @@ Rapper dropped from the tour (transcribed McLemore).
 
 ---
 
-**N-841** Ed Sheeran
+**N-839** Ed Sheeran
 
 Headliner whose tour dropped Macklemore.
 
@@ -902,7 +902,7 @@ TPUSA-aligned host the host says changed her message on forgiveness.
 
 ---
 
-**N-388** David Frodsham
+**N-386** David Frodsham
 
 First named by the host at 00:03:34 in episode 152. Civilian commander at Fort Huachuca the host says was charged with running a child sex abuse ring. Real spelling unconfirmed.
 
@@ -910,7 +910,7 @@ First named by the host at 00:03:34 in episode 152. Civilian commander at Fort H
 
 ---
 
-**N-807** Andrew Piscatello
+**N-805** Andrew Piscatello
 
 First named by the host at 00:03:34 in episode 152. Man the host says the feds questioned on September 10 who warns about Ukrainian military sex trafficking. Real spelling unconfirmed.
 
@@ -918,7 +918,7 @@ First named by the host at 00:03:34 in episode 152. Man the host says the feds q
 
 ---
 
-**N-872** Michael George Carl
+**N-870** Michael George Carl
 
 First named by the host at 00:12:41 in episode 152. Police officer with a child-exploitation background who signed the first warrants.
 
@@ -926,7 +926,7 @@ First named by the host at 00:12:41 in episode 152. Police officer with a child-
 
 ---
 
-**N-873** David Leavitt
+**N-871** David Leavitt
 
 First named by the host at 00:24:49 in episode 152 (transcribed David O. Levit). Utah official the host links to 2017 tribal outreach and a 2022 ritual abuse investigation.
 
@@ -934,7 +934,7 @@ First named by the host at 00:24:49 in episode 152 (transcribed David O. Levit).
 
 ---
 
-**N-874** Justin Bieber
+**N-872** Justin Bieber
 
 First named by the host at 00:51:02 in episode 152. Singer the host cites as sued after cancelling a tour.
 
@@ -942,7 +942,7 @@ First named by the host at 00:51:02 in episode 152. Singer the host cites as sue
 
 ---
 
-**N-875** Stephen A. Smith
+**N-873** Stephen A. Smith
 
 First named by the host at 00:56:43 in episode 152. Podcaster on whose show the host appeared.
 
@@ -1041,7 +1041,7 @@ Claim Timestamp: 00:11:56
 Claim: The host says Officer Christopher Bagley formerly worked in child sex crimes at the Utah County Sheriff's Office before transferring to UVU police in approximately 2022.
 
 Anchored Artifacts: None in this episode (host assertion only)
-Mentions: N-510
+Mentions: N-508
 
 Related Nodes: N-10831
 
@@ -1183,7 +1183,7 @@ Claim Timestamp: 00:38:56–00:41:02
 Claim: The episode presents that Matt Tardio pled no contest in Portland in October 2025 to felony coercion and misdemeanor harassment following an incident at an ICE facility, with surveillance cameras capturing the alleged conduct.
 
 Anchored Artifacts: A-2379.1, A-2380.1
-Mentions: N-2, N-593
+Mentions: N-2, N-591
 
 Related Nodes:
 
@@ -1260,7 +1260,7 @@ Claim Timestamp: 00:11:56
 Claim: The host says Bagley's body cam footage notoriously went off after about 25 minutes.
 
 Anchored Artifacts: None visible in this episode
-Mentions: N-510
+Mentions: N-508
 
 Related Nodes:
 
@@ -1330,7 +1330,7 @@ Claim: The host says Colonel Otto Busher was accused of running a brothel with R
 Transcript Snippet: Colonel Otto B O Busher of course was accused of running a brothel with Romanian children from 2011 2015 at the Romanian military base. He worked with Erika's Romanian angels during this time.
 
 Anchored Artifacts: A-2382.1
-Mentions: N-693, N-2
+Mentions: N-691, N-2
 Related Nodes: N-11165
 Tags: relevance:context
 Investigative Direction: Find the primary accusation records or reporting on Busher and any Romanian Angels documents naming him.
@@ -1346,7 +1346,7 @@ Claim: The host says David Frodsham was the civilian commander stationed at Fort
 Transcript Snippet: David Frodsham. He was the civilian commander that was stationed at Fort Huachuca who was charged with running a child sex abuse ring.
 
 Anchored Artifacts: A-2382.1
-Mentions: N-388
+Mentions: N-386
 Related Nodes: N-10435
 Tags: relevance:context
 Investigative Direction: Identify the person under the correct spelling and pull the Fort Huachuca charging documents or reporting.
@@ -1362,7 +1362,7 @@ Claim: The host says that immediately after Charlie died, Erika had Pastor Greg 
 Transcript Snippet: Pastor Greg Laurie immediately after Charlie passed, the first tour that they did, Make Heaven Crowded tour kind of sounds like a threat, but Erika had him on on the headlining paperwork, right?
 
 Anchored Artifacts: A-2382.1
-Mentions: N-454, N-2
+Mentions: N-452, N-2
 Related Nodes: N-11203
 Tags: relevance:core
 Investigative Direction: Obtain the Make Heaven Crowded tour lineup and event paperwork and confirm Laurie's billing.
@@ -1378,7 +1378,7 @@ Claim: The host says the church linked to that tour is currently going through t
 Transcript Snippet: they were they are currently going through the court system being accused of trafficking children from Romania.
 
 Anchored Artifacts: A-2382.1
-Mentions: N-454
+Mentions: N-452
 Related Nodes: N-10411
 Tags: relevance:context
 Investigative Direction: Pull the docket and complaints in the Harvest Christian Fellowship Romanian abuse lawsuits and the church's response.
@@ -1394,7 +1394,7 @@ Claim: The host says Andrew Pascado was one of the people the feds questioned on
 Transcript Snippet: Andrew Pascado, you'll remember, he was one of the uh people that the feds questioned on September 10th. He also in his own capacity works to ring the alarm on military Ukrainian sex trafficking into the United States.
 
 Anchored Artifacts: A-2382.1
-Mentions: N-807
+Mentions: N-805
 Tags: relevance:context
 Investigative Direction: Identify Pascado under his correct spelling and find the record or earlier episode that places him among those questioned on September 10.
 
@@ -1470,7 +1470,7 @@ Claim: The host says TPUSA adviser Paul Vallely (transcribed Valle) is a retired
 Transcript Snippet: TPUSA adviser Paul Valle is the retired army general who ran psychological operations and co-wrote a book with Michael Aino who was a Satanist and a founder of the Temple of Set
 
 Anchored Artifacts: A-2382.1
-Mentions: N-806, N-453
+Mentions: N-804, N-451
 Related Nodes: N-10410
 Tags: relevance:context
 Investigative Direction: Verify Vallely's TPUSA advisory role and the co-authored book (Aquino and Vallely, Psychological Operations material).
@@ -1486,7 +1486,7 @@ Claim: The host says the Temple of Set founder she just named was accused of abu
 Transcript Snippet: Uh accused of abusing children at the Army Child Development Center.
 
 Anchored Artifacts: A-2382.1
-Mentions: N-453
+Mentions: N-451
 Tags: relevance:tangential
 Investigative Direction: Check the 1980s Presidio Child Development Center allegations and the outcome of the investigation.
 
@@ -1517,7 +1517,7 @@ Claim: The host says Jaco Booyens (transcribed Yako Buyans) also runs a charity 
 Transcript Snippet: Yako Buyans also runs a charity for child sex abuse. I don't know if his is called All Things Possible.
 
 Anchored Artifacts: A-2382.1
-Mentions: N-492
+Mentions: N-490
 Tags: relevance:context
 Investigative Direction: Identify Booyens's charity and its registration.
 
@@ -1532,7 +1532,7 @@ Claim: The host says Nelda Buckman, whom TPUSA announced as its biggest donor ev
 Transcript Snippet: Nela Buckman, who they announced as the biggest donor to Turning Point USA ever, uh is extensively involved in the rescue of children who are sexually abused and trafficked.
 
 Anchored Artifacts: A-2382.1
-Mentions: N-464
+Mentions: N-462
 Related Nodes: N-10421
 Tags: relevance:context
 Investigative Direction: Find TPUSA's announcement of the Buckman gift and the Buckman family's child rescue charity filings.
@@ -1548,7 +1548,7 @@ Claim: The host says Marcus Wada is tied to more trafficking-related work in Pol
 Transcript Snippet: Marcus Wada, that's more trafficking arms in Poland. Rick Cutler rescued kids from sex trafficking in South America.
 
 Anchored Artifacts: A-2382.1
-Mentions: N-428, N-491, N-239
+Mentions: N-426, N-489, N-239
 Related Nodes: N-11167, N-10609
 Tags: relevance:context
 Investigative Direction: Check Wada's Polish organizations and Cutler's Operation Underground role.
@@ -1564,7 +1564,7 @@ Claim: The host says Philip Goldsberry Jr. co-founded Sofer Global Ministries (t
 Transcript Snippet: co-founding Sofur Global Ministries a 501c3 that provides medical care and training to orphans in Romania, Albania and Ukraine.
 
 Anchored Artifacts: A-2382.1
-Mentions: N-691, N-692
+Mentions: N-689, N-690
 Related Nodes: N-10989
 Tags: relevance:context
 Investigative Direction: Pull the IRS filing for Sofer Global Ministries and its officers.
@@ -1626,7 +1626,7 @@ Claim: The host says Mike Mitchell, the lynchpin of the case against Tyler Robin
 Transcript Snippet: because he's the one who claimed that he recognized Tyler Robinson in the news uh because you know he used to mentor him in Boy Scouts and then he's the one that then goes over uh to Matt Robinson's house
 
 Anchored Artifacts: 
-Mentions: N-125, N-40, N-782
+Mentions: N-125, N-40, N-780
 Related Nodes: N-10151
 Supports: C-3461
 Tags: relevance:core
@@ -1643,7 +1643,7 @@ Claim: The host says Officer Christopher Bagley is the officer used at the preli
 Transcript Snippet: But that was their only link to Tyler Robinson. The screwdriver on the rooftop. He finds it. Didn't capture the moment.
 
 Anchored Artifacts: 
-Mentions: N-510, N-40
+Mentions: N-508, N-40
 Tags: relevance:core
 Investigative Direction: Review preliminary hearing testimony and exhibits for what physical evidence ties the screwdriver to Robinson.
 
@@ -1658,7 +1658,7 @@ Claim: The host says Bagley's body camera footage failed him and did not capture
 Transcript Snippet: Unfortunately, his body cam footage failed him. He too formerly worked in child sex crimes at Utah County Sheriff's Office
 
 Anchored Artifacts: 
-Mentions: N-510
+Mentions: N-508
 Related Nodes: N-10725
 Supports: C-3462
 Tags: relevance:core
@@ -1737,7 +1737,7 @@ Claim: The host says Michael George Carl signed off on the first warrants at abo
 Transcript Snippet: He has signed off for these first warrants at about 3:19 p. m. So, he had these ready to go.
 
 Anchored Artifacts: A-2378.1
-Mentions: N-872
+Mentions: N-870
 Related Nodes: N-11263
 Supports: C-3450
 Tags: relevance:core
@@ -1754,7 +1754,7 @@ Claim: The host says the warrants Carl signed covered Tyler Robinson's phone, th
 Transcript Snippet: Tyler Robinson's phone. Uh, the Google server that would have Tyler's phone location data on September 10th. He signs off on that. The cell towers that are surrounding UVU, he signs off on that.
 
 Anchored Artifacts: A-2378.1
-Mentions: N-872, N-40
+Mentions: N-870, N-40
 Related Nodes: N-10012
 Supports: C-3450
 Tags: relevance:core
@@ -1771,7 +1771,7 @@ Claim: The host says Carl also signed warrants for George Zinn's phone and for C
 Transcript Snippet: George Zinn's phone. Uh, Charlie's belongings at Tempogo. So, we've been talking about, uh, where are Charlie's belongings?
 
 Anchored Artifacts: A-2378.1
-Mentions: N-872, N-42, N-1
+Mentions: N-870, N-42, N-1
 Supports: C-3450
 Tags: relevance:core
 Investigative Direction: Locate the warrant covering Charlie's belongings and the inventory of what was seized and where it is held.
@@ -1787,7 +1787,7 @@ Claim: The host says the surveillance footage was also seized from Intermountain
 Transcript Snippet: we learned that the surveillance footage was also seized from Inter Mountain Health Utah Valley because they said that the perpetrator was driving around.
 
 Anchored Artifacts: A-2378.1
-Mentions: N-872
+Mentions: N-870
 Related Nodes: N-10770
 Tags: relevance:core
 Investigative Direction: Obtain the hospital footage warrant and affidavit rationale.
@@ -1803,7 +1803,7 @@ Claim: The host says the warrants Carl signed also included searches of Matt and
 Transcript Snippet: and also the warrants to search Ma Ma and Amber Robinson's house as well.
 
 Anchored Artifacts: A-2378.1
-Mentions: N-872, N-782
+Mentions: N-870, N-780
 Tags: relevance:core
 Investigative Direction: Obtain the residence search warrant and inventory.
 
@@ -1849,7 +1849,7 @@ Claim: The host says Mikey McCoy ended his phone call with Danny Phillip before 
 Transcript Snippet: Mikey is going to end his phone call with Danny Phillip. We know that that is Danny Phillip he's on the phone with because we have we were given by Erika his call logs, right?
 
 Anchored Artifacts: A-2376.1
-Mentions: N-192, N-370, N-2
+Mentions: N-192, N-369, N-2
 Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Compare the supplied call logs with phone-company records for the minutes around 12:23 pm.
@@ -1865,7 +1865,7 @@ Claim: The host says McCoy and the ICAC officer stood behind the SUV that Blake 
 Transcript Snippet: they're standing behind the SUV that uh Blake Neff and being Uber driven by Danny Phillip.
 
 Anchored Artifacts: A-2377.1
-Mentions: N-192, N-161, N-370
+Mentions: N-192, N-161, N-369
 Related Nodes: N-11263
 Supports: C-3452
 Tags: relevance:core
@@ -2091,7 +2091,7 @@ Claim: The host says that until 2022 Utah's attorney general was David Leavitt (
 Transcript Snippet: the attorney general um of Utah was a man named David O. Levit. And there was a massive scandal.
 
 Anchored Artifacts: 
-Mentions: N-873
+Mentions: N-871
 Related Nodes: N-11264
 Tags: relevance:context
 Investigative Direction: Verify Leavitt's office (the host says attorney general; public records list Utah County Attorney) and the status of every scandal.
@@ -2107,7 +2107,7 @@ Claim: The host says in 2017 Leavitt was seeking support connected to adopting a
 Transcript Snippet: He was seeking support connected to adopting a northern Native American child, a Cheyenne child, and he met with the tribal president and proposed a relationship between the tribe and Ukraine.
 
 Anchored Artifacts: 
-Mentions: N-873
+Mentions: N-871
 Tags: relevance:tangential
 Investigative Direction: Check Northern Cheyenne tribal council records and Leavitt's 2017 correspondence.
 
@@ -2199,7 +2199,7 @@ Claim: The host says Epstein frequented the office of the modeling agency run by
 Transcript Snippet: Faith Kates running that modeling agency and or a modeling agency that started started by John Luke Brunell uh of France who uh was found suicided as they say in France
 
 Anchored Artifacts: 
-Mentions: N-574, N-533, N-9
+Mentions: N-572, N-531, N-9
 Related Nodes: N-10524
 Tags: relevance:context
 Investigative Direction: Verify the agency's founding history, Kates's role and Brunel's connection to the New York agency.
@@ -2245,7 +2245,7 @@ Claim: The host says TPUSA regularly brings in people like Matt Tardio because i
 Transcript Snippet: Matt Tardio is one of these individuals. Popped up out of nowhere.
 
 Anchored Artifacts: 
-Mentions: N-593, N-40
+Mentions: N-591, N-40
 Tags: relevance:core
 Investigative Direction: Establish when Tardio first appeared on TPUSA platforms and what his credentials are.
 
@@ -2260,7 +2260,7 @@ Claim: The host plays what she says is an actual clip of Matt Tardio visiting Is
 Transcript Snippet: I went for a run this morning over inside Tel Aviv along the beach against Gro's better judgment. And I want you guys to see something for all of you that think Israel thought it'd be a good idea to kill Charlie Kirk
 
 Anchored Artifacts: A-2379.1
-Mentions: N-593, N-1
+Mentions: N-591, N-1
 Related Nodes: N-10026
 Tags: relevance:core
 Investigative Direction: Date the original post and compare with Tardio's travel records and TPUSA's coordination.
@@ -2291,7 +2291,7 @@ Claim: The host says that after she presented the footage, TPUSA did not contact
 Transcript Snippet: Instead, they brought on this Matt Tardio onto the Charlie Kirk show to debunk this.
 
 Anchored Artifacts: A-2380.1
-Mentions: N-593, N-3
+Mentions: N-591, N-3
 Supports: C-3457
 Tags: relevance:core
 Investigative Direction: Find the episode of The Charlie Kirk Show and its air date; ask TPUSA whether anyone contacted the host.
@@ -2307,7 +2307,7 @@ Claim: In the clip, the show introduces Matt Tardio as a former Army Ranger snip
 Transcript Snippet: He is a former Army Ranger sniper and explosives expert, and he's the host of Speak the Truth uh podcast.
 
 Anchored Artifacts: A-2380.1
-Mentions: N-593
+Mentions: N-591
 Tags: relevance:core
 Investigative Direction: Check Tardio's service record, noting the host calls him a former Green Beret.
 
@@ -2336,7 +2336,7 @@ Claim: In the clip, Tardio says there are very clear signs the video was compres
 Transcript Snippet: there's very clear signs the video was compressed or it was a screen recording or a combination of both before it ended up getting sent to her.
 
 Anchored Artifacts: A-2380.1
-Mentions: N-593, N-3
+Mentions: N-591, N-3
 Tags: relevance:core
 Investigative Direction: Have independent video forensics experts assess the file's encoding history and the term lateral crawl.
 
@@ -2351,7 +2351,7 @@ Claim: The host says police and Tardio's alleged victim reported that Tardio tri
 Transcript Snippet: Tardio tried to take one of his fans at the protest back to his hotel room to have sex with. When she refused, he allegedly became forceful.
 
 Anchored Artifacts: A-3085.1
-Mentions: N-593
+Mentions: N-591
 Related Nodes: N-11265
 Supports: C-3457
 Tags: relevance:context
@@ -2368,7 +2368,7 @@ Claim: The host says that when interviewed by a Portland detective, Tardio's exp
 Transcript Snippet: Tardio's explanation was that the left-wing Antifa activists had plotted to get him stoned.
 
 Anchored Artifacts: A-3085.1
-Mentions: N-593
+Mentions: N-591
 Related Nodes: N-11265
 Tags: relevance:context
 Investigative Direction: Review the detective's interview transcript if released.
@@ -2399,7 +2399,7 @@ Claim: The host says Robert Kraft is a billionaire who owns the New England Patr
 Transcript Snippet: He's a billionaire. He owns the New England Patriots, right? Um the entire Patriot Stadium, it's his.
 
 Anchored Artifacts: 
-Mentions: N-196, N-840
+Mentions: N-196, N-838
 Supports: C-3459
 Tags: relevance:context
 Investigative Direction: Confirm stadium ownership and any communication from Kraft about the tour.
@@ -2415,7 +2415,7 @@ Claim: In the clip, Macklemore says his next song was inspired by Columbia Unive
 Transcript Snippet: this next song was inspired by the bravery of Columbia University students who led an encampment movement that mobilized the entire world
 
 Anchored Artifacts: A-2381.1
-Mentions: N-840
+Mentions: N-838
 Supports: C-3458
 Tags: relevance:context
 Investigative Direction: Obtain the full concert recording.
@@ -2431,7 +2431,7 @@ Claim: In the clip, Macklemore calls for freeing all people in America living in
 Transcript Snippet: Free all people in America living in fear over this terrorist organization ICE.
 
 Anchored Artifacts: A-2381.1
-Mentions: N-840
+Mentions: N-838
 Supports: C-3458
 Tags: relevance:context
 Investigative Direction: Obtain the full concert recording and note the stop and date.
@@ -2447,7 +2447,7 @@ Claim: The host says Ed Sheeran tried to say he had no control over Macklemore's
 Transcript Snippet: I had no control over it. It was the stadiums that did this.
 
 Anchored Artifacts: 
-Mentions: N-841, N-840
+Mentions: N-839, N-838
 Tags: relevance:context
 Investigative Direction: Obtain Ed Sheeran's public statement on the decision.
 
@@ -2462,7 +2462,7 @@ Claim: The host says that thus far three other people associated with the tour h
 Transcript Snippet: thus far, three other people associated with this tour have now dropped out.
 
 Anchored Artifacts: 
-Mentions: N-841, N-840
+Mentions: N-839, N-838
 Tags: relevance:context
 Investigative Direction: Identify the three openers and the dates and wording of their withdrawal.
 
@@ -2477,7 +2477,7 @@ Claim: The host says there are only three tour stops left on Ed Sheeran's tour a
 Transcript Snippet: I think there's only three um tour stops left.
 
 Anchored Artifacts: 
-Mentions: N-841
+Mentions: N-839
 Tags: relevance:context
 Investigative Direction: Check the official tour schedule.
 
@@ -2538,7 +2538,7 @@ Claim: The host says Justin Bieber was sued for cancelling the rest of his tour 
 Transcript Snippet: Justin Bieber is finally free and happy and he doesn't even care after he got sued for cancing the rest of his tour?
 
 Anchored Artifacts: 
-Mentions: N-874
+Mentions: N-872
 Tags: relevance:tangential
 Investigative Direction: Check the lawsuit record over the cancelled Bieber tour dates.
 
@@ -2598,7 +2598,7 @@ Claim: The host says she received many comments about her appearance on Stephen 
 Transcript Snippet: I got a lot of your comments about the Stephen A. Smith podcast.
 
 Anchored Artifacts: 
-Mentions: N-875, N-3
+Mentions: N-873, N-3
 Tags: relevance:context
 Investigative Direction: Find the Stephen A. Smith episode and its release date.
 

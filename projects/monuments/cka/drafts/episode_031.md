@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: c74e78c6fe837fa42ecfdd621af81cd0a2394e04b024b682d47f983646686329
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-763, N-764, N-765, N-766, N-767, N-768, N-769, N-770, N-11106
-  - Hole-minted Nodes (reintro-ep031): N-279, N-585, N-10252, N-10264, N-10465, N-10818
-  - Tip-minted Nodes (reintro-ep031): N-619, N-719, N-10916, N-10989
+  - Tip-minted Nodes (supplement_2026-10b): N-761, N-762, N-763, N-764, N-765, N-766, N-767, N-768, N-11106
+  - Hole-minted Nodes (reintro-ep031): N-279, N-583, N-10252, N-10264, N-10465, N-10818
+  - Tip-minted Nodes (reintro-ep031): N-617, N-717, N-10916, N-10989
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6597–C-6676
   - New Nodes Introduced: N-251, N-10246, N-10247
-  - Reused Nodes Appearing: N-5, N-9, N-27, N-36, N-40, N-46, N-82, N-85, N-98, N-192, N-207, N-210, N-229, N-248, N-249, N-10000, N-10004, N-10107, N-10139, N-10166, N-10193, N-10209, N-10245, N-10253, N-10324, N-10398, N-10251, N-10270, N-10406, N-10434, N-381, N-10268, N-10817, N-300
+  - Reused Nodes Appearing: N-5, N-9, N-27, N-36, N-40, N-46, N-82, N-85, N-98, N-192, N-207, N-210, N-229, N-248, N-249, N-10000, N-10004, N-10107, N-10139, N-10166, N-10193, N-10209, N-10245, N-10253, N-10324, N-10398, N-10251, N-10270, N-10406, N-10434, N-379, N-10268, N-10817, N-300
   - (see registers)
 
 ## 2. Executive Summary
@@ -848,7 +848,7 @@ A commenter asks if she was the donor who yelled at Charlie; the host says no an
 
 ---
 
-**N-381** Emmanuel Macron
+**N-379** Emmanuel Macron
 
 Named by the host in the Macron investigation passage.
 
@@ -856,7 +856,7 @@ Named by the host in the Macron investigation passage.
 
 ---
 
-**N-585** Thomas Massie
+**N-583** Thomas Massie
 
 The host says Miriam Adelson is trying to remove him.
 
@@ -864,7 +864,7 @@ The host says Miriam Adelson is trying to remove him.
 
 ---
 
-**N-619** Cardi B
+**N-617** Cardi B
 
 The host says her book starts and ends with Cardi B.
 
@@ -872,7 +872,7 @@ The host says her book starts and ends with Cardi B.
 
 ---
 
-**N-719** Chuck Smith
+**N-717** Chuck Smith
 
 The host names him as the founder of Calvary Chapel.
 
@@ -1087,7 +1087,7 @@ Existing organization reused for the orphanage remark.
 
 ---
 
-**N-763** Bob Coy
+**N-761** Bob Coy
 
 First named by the host at 00:19:19 in episode 31. Pompo Beach, Florida Calvary Chapel founder accused of molesting a 4-year-old; the host stresses he is not Rob McCoy.
 
@@ -1095,7 +1095,7 @@ First named by the host at 00:19:19 in episode 31. Pompo Beach, Florida Calvary 
 
 ---
 
-**N-764** Jason James Taylor
+**N-762** Jason James Taylor
 
 First named by the host at 00:19:19 in episode 31. Lead pastor of Calvary Chapel Solid Rock in Minnesota, named by the host as one of six arrested in a sting.
 
@@ -1103,7 +1103,7 @@ First named by the host at 00:19:19 in episode 31. Lead pastor of Calvary Chapel
 
 ---
 
-**N-765** Anthony Iglesias
+**N-763** Anthony Iglesias
 
 First named by the host at 00:19:19 in episode 31. Named by the host (spelled Anthony Iglesias) as a predator the Post Falls church allegedly concealed; she says he is serving time in Idaho.
 
@@ -1111,7 +1111,7 @@ First named by the host at 00:19:19 in episode 31. Named by the host (spelled An
 
 ---
 
-**N-766** Robert Davis
+**N-764** Robert Davis
 
 First named by the host at 00:19:19 in episode 31. Reverend and lead pastor of North County Chapel in Post Falls, Idaho, whom the lawsuit alleges made the Thailand remark.
 
@@ -1119,7 +1119,7 @@ First named by the host at 00:19:19 in episode 31. Reverend and lead pastor of N
 
 ---
 
-**N-767** Doug DeAndrea
+**N-765** Doug DeAndrea
 
 First named by the host at 00:21:14 in episode 31. Former Calvary Chapel pastor in Virginia the host says pleaded guilty to child sex abuse.
 
@@ -1127,7 +1127,7 @@ First named by the host at 00:21:14 in episode 31. Former Calvary Chapel pastor 
 
 ---
 
-**N-768** Jeffrey Zizz
+**N-766** Jeffrey Zizz
 
 First named by the host at 00:21:14 in episode 31. Oregon Calvary Chapel pastor the host says confessed to misconduct with his daughters and later committed a murder (name as rendered in the transcript).
 
@@ -1135,7 +1135,7 @@ First named by the host at 00:21:14 in episode 31. Oregon Calvary Chapel pastor 
 
 ---
 
-**N-769** Diddy
+**N-767** Diddy
 
 First named by the host at 00:22:47 in episode 31. Referred to by the host as Diddy in the passage on the man who said the feds run a cartel operation.
 
@@ -1143,7 +1143,7 @@ First named by the host at 00:22:47 in episode 31. Referred to by the host as Di
 
 ---
 
-**N-770** Kenny
+**N-768** Kenny
 
 First named by the host at 00:25:17 in episode 31. Former Potter's Fields Ignite student the host says blew the whistle on alleged financial fraud (spelled Kenzie Kenny and Kenny in the transcript).
 
@@ -1698,7 +1698,7 @@ Claim: The host says the founder of Calvary Chapel in Pompo Beach, Florida was a
 Transcript Snippet: Then he got accused of molesting a 4-year-old girl.
 
 Anchored Artifacts: A-2826.1
-Mentions: N-763, N-17, N-3
+Mentions: N-761, N-17, N-3
 Related Nodes: N-10246
 Tags: relevance:context
 Investigative Direction: Search Florida court and news records for the accusation against Bob Coy and its outcome.
@@ -1762,7 +1762,7 @@ Claim: The host says Jason James Taylor, lead pastor of Calvary Chapel Solid Roc
 Transcript Snippet: He was among six people who were arrested following a solicitation of minors.
 
 Anchored Artifacts: A-2826.1
-Mentions: N-764, N-3
+Mentions: N-762, N-3
 Related Nodes: N-10246
 Tags: relevance:context
 Investigative Direction: Locate Minnesota task force press releases and court records naming Jason James Taylor and the case outcome.
@@ -1778,7 +1778,7 @@ Claim: The host says the North County Chapel in Post Falls, Idaho is being sued 
 Transcript Snippet: Yeah, we knew that's why we pulled him out of Thailand.
 
 Anchored Artifacts: A-2826.1
-Mentions: N-765, N-766, N-3
+Mentions: N-763, N-764, N-3
 Related Nodes: N-10246
 Tags: relevance:context
 Investigative Direction: Retrieve the Idaho civil complaint and the criminal judgment against Eglacius and check the quoted allegation.
@@ -1810,7 +1810,7 @@ Claim: The host says a former Calvary Chapel pastor in Virginia named Doug DeAnd
 Transcript Snippet: The former Calvary uh pastor's name was Doug DeAndrea. He is currently serving time in jail in Virginia on multiple charges related to child sex abuse.
 
 Anchored Artifacts: A-2826.1
-Mentions: N-767, N-3
+Mentions: N-765, N-3
 Related Nodes: N-10246
 Tags: relevance:context
 Investigative Direction: Locate the Virginia court records for the pastor (the transcript spells the name Deandria) and the sentence.
@@ -1842,7 +1842,7 @@ Claim: The host says the lead pastor of a Calvary Chapel in North Thirsten, Oreg
 Transcript Snippet: He went to prison for 11 months. And then when he got out, he murdered an 80year-old and poured concrete.
 
 Anchored Artifacts: A-2826.1
-Mentions: N-768, N-3
+Mentions: N-766, N-3
 Related Nodes: N-10246
 Tags: relevance:context
 Investigative Direction: Identify the pastor (the transcript spells the name Jeffrey Zizz) and the Oregon conviction and homicide case records.
@@ -1858,7 +1858,7 @@ Claim: The host says a man who shot up the Trump Miami Doral, killing no one, sa
 Transcript Snippet: Cassie then verified on the stand that she knew who this man was um and that he had been invited to these parties.
 
 Anchored Artifacts: 
-Mentions: N-769, N-3
+Mentions: N-767, N-3
 Tags: relevance:tangential
 Investigative Direction: Identify the man and the shooting incident the host means and check the Combs trial testimony for any reference to him.
 
@@ -1873,7 +1873,7 @@ Claim: The host says Kanye West said, in an episode now hard to find online, tha
 Transcript Snippet: that Diddy had been blackmailed by the feds and that part of his deal was that he had to keep certain other people in line like Kanye.
 
 Anchored Artifacts: 
-Mentions: N-27, N-769, N-3
+Mentions: N-27, N-767, N-3
 Tags: relevance:tangential
 Investigative Direction: Locate the Kanye West interview or episode the host describes and confirm his words about Diddy and the feds.
 
@@ -1920,7 +1920,7 @@ Claim: The host reads quotes attributed to a former Ignite student named Kenny, 
 Transcript Snippet: I would say maybe like 500. And that would be between all five countries," Kenny said.
 
 Anchored Artifacts: A-2827.1
-Mentions: N-770, N-3
+Mentions: N-768, N-3
 Related Nodes: N-10247
 Tags: relevance:context
 Investigative Direction: Locate the original news report quoting Kenny and the ministry's response, and check the donor mailings.
@@ -2033,7 +2033,7 @@ Claim: The host says there are CIA implications in who started Calvary Chapel, w
 Transcript Snippet: the CIA implications of who exactly started the Calvary Chapel
 
 Anchored Artifacts: 
-Mentions: N-719, N-3
+Mentions: N-717, N-3
 Related Nodes: N-10465
 Tags: relevance:tangential
 Investigative Direction: Review documented histories of Chuck Smith and the Jesus Movement for any intelligence-agency link; none is shown on air.
@@ -2079,7 +2079,7 @@ Claim: The host says her investigation into Brigitte Macron and her relationship
 Transcript Snippet: the Fed level coverup, uh, which includes a never-before-seen lawsuit, which is just meant to be propagandists to make people think of there's nothing here
 
 Anchored Artifacts: 
-Mentions: N-82, N-381, N-3
+Mentions: N-82, N-379, N-3
 Related Nodes: N-10270
 Tags: relevance:context
 Investigative Direction: Obtain the Delaware complaint and compare its filing, venue and claims with the host's description of a coverup.
@@ -2411,7 +2411,7 @@ Claim: The host says Tim Dillon is already included in her lawsuit with Brigitte
 Transcript Snippet: Apparently the president of France watches um Tim Dillon and we talked about the Breij case and so he's drafted in there.
 
 Anchored Artifacts: 
-Mentions: N-279, N-82, N-381, N-3
+Mentions: N-279, N-82, N-379, N-3
 Related Nodes: N-10270
 Tags: relevance:context
 Investigative Direction: Check the Macron complaint's list of defendants and quoted statements to see whether Dillon is named or cited.
@@ -2473,7 +2473,7 @@ Claim: The host says her book Make Him a Sandwich starts with Cardi B and ends w
 Transcript Snippet: It starts with Cardi B and it ends with Cardi B.
 
 Anchored Artifacts: A-1398.1
-Mentions: N-3, N-619
+Mentions: N-3, N-617
 Tags: relevance:tangential
 Investigative Direction: Check the book's table of contents and shipping status.
 
@@ -2551,7 +2551,7 @@ Claim: The host says Miriam Adelson is trying to remove Thomas Massie, whom she 
 Transcript Snippet: Uh, she's trying to remove Senator Massie.
 
 Anchored Artifacts: A-1398.5
-Mentions: N-300, N-585, N-3
+Mentions: N-300, N-583, N-3
 Related Nodes: N-10916
 Tags: relevance:context
 Investigative Direction: Check federal election filings for Adelson-linked spending against Massie; note that Massie is a US Representative, not a Senator.

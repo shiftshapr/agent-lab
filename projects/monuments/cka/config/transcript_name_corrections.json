@@ -1600,6 +1600,43 @@
     [
       "\\bAndrew Cipher\\b",
       "Andrew Sypher"
+    ],
+    [
+      "\\bAndrew Colberg\\b",
+      "Andrew Kolvet"
+    ],
+    [
+      "\\bGwinta\\b",
+      "Guinta",
+      [
+        52
+      ]
+    ],
+    [
+      "\\bHerpolsheimer\\b",
+      "Harpole",
+      [
+        54
+      ]
+    ],
+    [
+      "\\bHunter Cosgrove\\b",
+      "Hunter Kozak"
+    ],
+    [
+      "\\bLarry Ginta\\b",
+      "Larry Guinta"
+    ],
+    [
+      "\\bMark Amaday\\b",
+      "Mark Amodei"
+    ],
+    [
+      "\\b(Thomas|Tom) Bert\\b",
+      "\\1 Burt",
+      [
+        52
+      ]
     ]
   ]
 }

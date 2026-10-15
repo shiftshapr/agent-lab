@@ -1,0 +1,171 @@
+[
+ {
+  "claim": "C-6834",
+  "episode": 52,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to TPUSA's idea, not McCoy; McCoy appears only in the prior sentence."
+ },
+ {
+  "claim": "C-6867",
+  "episode": 52,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-385",
+    "N-493"
+   ]
+  },
+  "note": "Claim names only David Farnsworth and Lori Frantzve."
+ },
+ {
+  "claim": "C-6869",
+  "episode": 52,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that the record names Larry Guinta (she says \"Ginta\" or \"Gwenta\"), whom she says is Erika Kirk's stepfather.",
+   "names": [
+    {
+     "wrong": "Larry Ginta",
+     "right": "Larry Guinta",
+     "source": "https://factually.co/fact-checks/society/is-travis-guinta-erika-kirk-brother-fcdba4"
+    }
+   ]
+  },
+  "note": "Guinta spelling confirmed (Sportskeeda, factually.co, Candace coverage of Erika Kirk's stepfather)."
+ },
+ {
+  "claim": "C-6884",
+  "episode": 52,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says people on the internet found that Terryl Farnsworth's father-in-law is Thomas Burt, who ran Duncan Aviation, the FBO that she says rented the cars for the feds.",
+   "names": [
+    {
+     "wrong": "Thomas Bert",
+     "right": "Thomas Burt",
+     "source": "https://www.duncanaviation.aero/news/tom-burt-executive-vice-president-coo-of-duncan-aviation-in-battle-creek-michigan-to-retire-after-40-years"
+    }
+   ]
+  },
+  "note": "Duncan Aviation release names Tom (Thomas) Burt as EVP/COO, retiring 2019; X posts tie Burt family to Farnsworth."
+ },
+ {
+  "claim": "C-6885",
+  "episode": 52,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Thomas Burt ran Duncan Aviation as executive vice president and COO for 22 years and retired in 2019.",
+   "names": [
+    {
+     "wrong": "Thomas Bert",
+     "right": "Thomas Burt",
+     "source": "https://www.duncanaviation.aero/news/tom-burt-executive-vice-president-coo-of-duncan-aviation-in-battle-creek-michigan-to-retire-after-40-years"
+    }
+   ]
+  },
+  "note": "Checked the Duncan Aviation release: Tom Burt, EVP/COO, retired March 2019."
+ },
+ {
+  "claim": "C-6888",
+  "episode": 52,
+  "decision": "accept",
+  "fix": {
+   "claim": "In Daily Wire footage the host plays, a speaker says that in terms of making honey or bee-related products Utah ranks number 24, so the nickname is not due to honey."
+  },
+  "note": "Lines are in the >> footage segment of the Daily Wire show the host plays, not her live speech."
+ },
+ {
+  "claim": "C-6889",
+  "episode": 52,
+  "decision": "accept",
+  "fix": {
+   "claim": "In Daily Wire footage the host plays, a speaker says the beehive state name relates to the Church of Latter-day Saints and that early Mormon pioneers liked the idea of a beehive working toward a common good."
+  },
+  "note": "Same footage segment as C-6888."
+ },
+ {
+  "claim": "C-2016",
+  "episode": 53,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per an email from Maggie Wagner that the host reads, a Daily Wire producer contacted her about 2 days after Ben Shapiro's Amfest speech to audition her for a solo show presented as a comedy show making fun of the right and the left, with Candace Owens and Tucker Carlson brought up immediately."
+  },
+  "note": "Content is from the email the host reads; fix matches the wording."
+ },
+ {
+  "claim": "C-2017",
+  "episode": 53,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per an email from Maggie Wagner that the host reads, the audition script and AI video were entirely about making fun of Candace Owens, and the producer said, \"So when Candace or Tucker says something crazy, we would want you to make fun of it.\""
+  },
+  "note": "Email content attributed correctly; quote matches the transcript."
+ },
+ {
+  "claim": "C-2023",
+  "episode": 53,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Charlie Kirk saw an older Jewish man from Chicago, matched with him, if memory serves, through a school for the gifted, who all but confirmed Charlie's visions that he would die young and told him his death would save humanity; she shows a text in which Charlie writes that the man says he is 'being shaped for a time to save humanity'.",
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-400"
+   ],
+   "timestamp": "00:42:50"
+  },
+  "note": "Chicago/gifted school are said at ~42:55, so keep them. In the text, 'He says' refers to the man. Timestamp moved to the start of the man's description."
+ },
+ {
+  "claim": "C-6913",
+  "episode": 53,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Shapiro paid money for a prime speaking slot at Amfest, taking the stage just after Erika Kirk opened, and used it to attack the host, Tucker Carlson and Megyn Kelly.",
+   "mentions": [
+    "N-97",
+    "N-2",
+    "N-3",
+    "N-46",
+    "N-22"
+   ],
+   "relevance": "context"
+  },
+  "note": "Adding N-22 is right ('Mark Carlson' is Tucker). 'her' could be read as Erika; the host says he attacked 'me'."
+ },
+ {
+  "claim": "C-2026",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "claim": "Brian Harpole stated that the first hard-conversations/intelligence-sharing for Charlie Kirk events begins on the 24th of the month prior to the event.",
+   "label": "Harpole Stated Pre-Planning for Charlie Kirk Events Began on the 24th of the Month Prior to the Event",
+   "names": [
+    {
+     "wrong": "Herpolsheimer",
+     "right": "Harpole",
+     "source": "https://www.deseret.com/politics/2025/11/18/brian-harpole-moments-following-charlie-kirk-assassination/"
+    }
+   ]
+  },
+  "note": "Confirmed Brian Harpole is Kirk's security head on Shawn Ryan Show #254 (Deseret, SLTrib, Newsweek)."
+ },
+ {
+  "claim": "C-2028",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-402"
+   ]
+  },
+  "note": "Claim names only Falwell Sr.; Johnson and Branning are not referred to."
+ }
+]

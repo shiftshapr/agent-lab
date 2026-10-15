@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 255df2ef72af812fba530a694f3369c63ecb1dc93d6c3d5d64b7ca555bbad9c1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-953, N-954, N-955, N-11410, N-11411
+  - Tip-minted Nodes (supplement_2026-10g): N-951, N-952, N-953, N-11410, N-11411
   - Hole-minted Nodes (reintro-ep153): N-10873
   - Tip-minted Nodes (reintro-ep153): N-11313
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-18, N-22, N-49, N-60, N-125, N-156, N-157, N-205, N-263, N-332, N-424, N-464, N-510, N-758, N-840, N-841, N-10000, N-10012, N-10272, N-10311, N-10340, N-10344, N-10356, N-10421, N-10646, N-10840, N-10983, N-11009, N-11170, N-11264
+  - Reused Nodes Appearing: N-18, N-22, N-49, N-60, N-125, N-156, N-157, N-205, N-263, N-332, N-422, N-462, N-508, N-756, N-838, N-839, N-10000, N-10012, N-10272, N-10311, N-10340, N-10344, N-10356, N-10421, N-10646, N-10840, N-10983, N-11009, N-11170, N-11264
   - Claim Range (supplement_2026-10g): C-14979–C-15062
  - New Nodes Introduced: N-10833, N-10834, N-10835, N-10836, N-10837, N-10838, N-10839
  - Reused Nodes Appearing: N-2, N-8
@@ -598,7 +598,7 @@ Tyler Robinson; subject of the 2022 bodycam footage discussion.
 
 ---
 
-**N-424** Pope Leo XIV
+**N-422** Pope Leo XIV
 
 Pope Leo XIV; named in the Vatican-China ad read.
 
@@ -606,7 +606,7 @@ Pope Leo XIV; named in the Vatican-China ad read.
 
 ---
 
-**N-464** Nelda Buckman
+**N-462** Nelda Buckman
 
 Nelda Buckman; TPUSA's top donor, UT Austin donor.
 
@@ -622,7 +622,7 @@ Max Blumenthal; the host says he revealed the fellowship contract.
 
 ---
 
-**N-510** Christopher Bagley
+**N-508** Christopher Bagley
 
 Officer Christopher Bagley; sent to monitor the rooftop.
 
@@ -638,7 +638,7 @@ Laura Loomer; named in a personal anecdote about footage.
 
 ---
 
-**N-758** Astrid Tuminez
+**N-756** Astrid Tuminez
 
 Astrid Tuminez; former UVU president who allegedly denied extra officers.
 
@@ -646,7 +646,7 @@ Astrid Tuminez; former UVU president who allegedly denied extra officers.
 
 ---
 
-**N-840** Macklemore
+**N-838** Macklemore
 
 Macklemore; mentioned in the Sheeran comment reply.
 
@@ -654,7 +654,7 @@ Macklemore; mentioned in the Sheeran comment reply.
 
 ---
 
-**N-841** Ed Sheeran
+**N-839** Ed Sheeran
 
 Ed Sheeran; mentioned in the comment reply.
 
@@ -662,7 +662,7 @@ Ed Sheeran; mentioned in the comment reply.
 
 ---
 
-**N-953** Zack Costello
+**N-951** Zack Costello
 
 First named by the host at 00:40:52 in episode 153 as the YouTuber who compared Robinson's finger posture across the two clips. The transcript spells him Costello, Castello, Cassell and Zack Costello.
 
@@ -670,7 +670,7 @@ First named by the host at 00:40:52 in episode 153 as the YouTuber who compared 
 
 ---
 
-**N-954** Jim Spencer
+**N-952** Jim Spencer
 
 First named by the host at 00:48:11 in episode 153 as the founder of Scripps News who teaches digital media at UT Austin.
 
@@ -678,7 +678,7 @@ First named by the host at 00:48:11 in episode 153 as the founder of Scripps New
 
 ---
 
-**N-955** Rodney Stark
+**N-953** Rodney Stark
 
 First named by the host at 01:04:14 in episode 153 as the author of Bearing False Witness, introduced to her by Charlie Kirk.
 
@@ -1405,7 +1405,7 @@ Claim: The host reads that the notice says Chief Long asked then-president Tumin
 Transcript Snippet: which represented only 25% of the UVU police force. But this request was denied.
 
 Anchored Artifacts: A-2384.1
-Mentions: N-3, N-273, N-758
+Mentions: N-3, N-273, N-756
 Related Nodes: N-10836
 Supports: C-3477
 Tags: relevance:context
@@ -1422,7 +1422,7 @@ Claim: The host says that on 24 officers and 50,000 students, six officers would
 Transcript Snippet: So worked out as an equation, six police officers would have covered 12,500 students based on their availability
 
 Anchored Artifacts: A-2384.1
-Mentions: N-3, N-758
+Mentions: N-3, N-756
 Related Nodes: N-10836
 Supports: C-3485, C-3486
 Tags: relevance:context
@@ -1606,7 +1606,7 @@ Claim: The host says Officer Bagley was sent to monitor the rooftop traffic cont
 Transcript Snippet: Officer Bagley was sent to monitor the rooftop traffic control.
 
 Anchored Artifacts: 
-Mentions: N-3, N-510, N-273
+Mentions: N-3, N-508, N-273
 Related Nodes: N-10646
 Supports: C-3472, C-10521
 Contradicts: C-15019
@@ -1723,7 +1723,7 @@ Claim: In a sponsor read, the host says the Vatican entered a secretive deal wit
 Transcript Snippet: In 2018, the Vatican entered a secretive deal with the Chinese Communist Party.
 
 Anchored Artifacts: 
-Mentions: N-3, N-424
+Mentions: N-3, N-422
 Tags: relevance:tangential
 Investigative Direction: Check the 2018 Holy See-China provisional agreement and its renewals.
 
@@ -1754,7 +1754,7 @@ Claim: The host credits YouTuber Zack Costello with noticing that Tyler Robinson
 Transcript Snippet: he was looking at the footage of um the footage that we released of Tyler Robinson the version in the American shirt uh walking to onto UVU campus and he was addressing how he had his fingers in his pockets.
 
 Anchored Artifacts: 
-Mentions: N-3, N-40, N-953
+Mentions: N-3, N-40, N-951
 Related Nodes: N-10873
 Tags: relevance:context
 Investigative Direction: Watch Costello's video and compare the two clips.
@@ -1770,7 +1770,7 @@ Claim: The host says Costello thought it reminiscent of the 2022 footage of Robi
 Transcript Snippet: that makes me think of that 2022 arrest of Tyler Robinson and he also had his fingers in the pocket that way.
 
 Anchored Artifacts: 
-Mentions: N-3, N-40, N-953
+Mentions: N-3, N-40, N-951
 Related Nodes: N-10873, N-10834
 Tags: relevance:context
 Investigative Direction: Compare the frames; the host later says no arrest occurred in 2022.
@@ -1963,7 +1963,7 @@ Claim: The host says Turning Point USA has a strong tie to UT Austin through its
 Transcript Snippet: Turning Point USA has a very strong tie to UT Austin in the form of their number one donor uh Nelda Buckman.
 
 Anchored Artifacts: A-2392.1
-Mentions: N-3, N-464
+Mentions: N-3, N-462
 Related Nodes: N-10421, N-10000
 Supports: C-10514
 Tags: relevance:context
@@ -1980,7 +1980,7 @@ Claim: The host says she vaguely believes TPUSA was sharing a plane with the don
 Transcript Snippet: That was who they I believe they were sharing a plane with as well.
 
 Anchored Artifacts: 
-Mentions: N-3, N-464
+Mentions: N-3, N-462
 Related Nodes: N-10421
 Tags: relevance:context
 Investigative Direction: Check flight records for a shared flight with Buckman.
@@ -1996,7 +1996,7 @@ Claim: The host says the donor gave a 2,300 square foot building to UT Austin in
 Transcript Snippet: she donated in 2022 a 2300 square foot building to UT Austin for mixed media and artists.
 
 Anchored Artifacts: A-2392.1
-Mentions: N-3, N-464
+Mentions: N-3, N-462
 Related Nodes: N-10421
 Tags: relevance:context
 Investigative Direction: Check UT Austin's announcement of the Buckman Center.
@@ -2012,7 +2012,7 @@ Claim: The host suggests the UT Austin link, through Scripps founder Jim Spencer
 Transcript Snippet: Help us all figure out how they got a hold of this obscure video.
 
 Anchored Artifacts: A-2391.1, A-2392.1
-Mentions: N-3, N-954, N-464
+Mentions: N-3, N-952, N-462
 Related Nodes: N-10834, N-10873
 Supports: C-3482
 Tags: relevance:context
@@ -2125,7 +2125,7 @@ Claim: In reply to comments on the Macklemore and Ed Sheeran dispute, the host s
 Transcript Snippet: The Perisio lobby, they just operate like termites.
 
 Anchored Artifacts: 
-Mentions: N-3, N-840, N-841
+Mentions: N-3, N-838, N-839
 Tags: relevance:tangential
 Investigative Direction: Sweeping group claim; no direct bearing on the case.
 
@@ -2362,7 +2362,7 @@ Claim: The host says the book club is reading Bearing False Witness by Rodney St
 Transcript Snippet: we are reading bearing false witness and that is by Rodney Stark and uh actually this author was introduced to me by Charlie Kirk.
 
 Anchored Artifacts: 
-Mentions: N-3, N-955, N-1
+Mentions: N-3, N-953, N-1
 Tags: relevance:context
 Investigative Direction: Context only.
 

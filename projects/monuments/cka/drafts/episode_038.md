@@ -11,10 +11,10 @@
 - **Transcript SHA-256**: aad9b594be730478a8051e834c8dd3ae3c76a0895b472f75831b8b225046f268
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-883, N-11277, N-11278, N-11279, N-11280
+  - Tip-minted Nodes (supplement_2026-10e): N-881, N-11277, N-11278, N-11279, N-11280
   - Claim Range (supplement_2026-10e): C-10891–C-10948
   - New Nodes Introduced: N-284, N-286, N-287, N-288, N-289, N-290, N-291, N-292, N-10283, N-10285, N-10286, N-10287, N-10288, N-10291, N-10292, N-10293, N-10295, N-10296
-  - Reused Nodes Appearing: none, N-285, N-381, N-10284, N-10294, N-10289, N-10290, N-5, N-14, N-22, N-10001, N-10003, N-10012, N-10014, N-10015, N-10059, N-10074, N-10075, N-10088, N-10116, N-10145, N-10150, N-10204, N-10222, N-10265, N-10266, N-10269, N-10270, N-10273, N-10277, N-10279, N-10316, N-10900, N-11008, N-11010, N-11011, N-72, N-10297
+  - Reused Nodes Appearing: none, N-285, N-379, N-10284, N-10294, N-10289, N-10290, N-5, N-14, N-22, N-10001, N-10003, N-10012, N-10014, N-10015, N-10059, N-10074, N-10075, N-10088, N-10116, N-10145, N-10150, N-10204, N-10222, N-10265, N-10266, N-10269, N-10270, N-10273, N-10277, N-10279, N-10316, N-10900, N-11008, N-11010, N-11011, N-72, N-10297
   - (see registers)
 
 ## 2. Executive Summary
@@ -93,7 +93,7 @@ Video Timestamp: 00:02:49–00:04:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text reproduced verbatim)
 
-*Related: C-1781, C-1784, C-1786, N-3, N-381, N-82, N-40, N-285*
+*Related: C-1781, C-1784, C-1786, N-3, N-379, N-82, N-40, N-285*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:10:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted on air)
 
-*Related: C-1782, N-381, N-3, N-1*
+*Related: C-1782, N-379, N-3, N-1*
 
 ---
 
@@ -627,7 +627,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-381** Emmanuel Macron
+**N-379** Emmanuel Macron
 
 French President; the host relays a source claim that the Macrons paid for her assassination and discusses the Macron defamation suit (transcript 02:49 to 04:49).
 
@@ -835,7 +835,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-883** Jean-Michel Trogneux
+**N-881** Jean-Michel Trogneux
 
 First named by the host at 00:00:01 in episode 38. The name the host uses for Brigitte Macron's alleged earlier male identity; the host asserts, without a document shown, that this person was born male. All claims here are the host's allegations.
 
@@ -1160,7 +1160,7 @@ Claim Timestamp: 00:02:49
 Claim: On November 25, 2025, Candace Owens publicly stated via X that a high-ranking French government employee claimed the Macrons had executed upon and paid for her assassination, with the green light given to a GIGN team including one Israeli operative, and that Charlie Kirk's assassin trained with the French Foreign Legion's 13th Brigade.
 
 Anchored Artifacts: A-1461.1
-Mentions: N-3, N-381, N-82, N-1
+Mentions: N-3, N-379, N-82, N-1
 Investigative Direction: Obtain the underlying source communication; verify the identity and position of the French government contact; cross-check with FBI/Counterterrorism response records (FOIA where possible).
 
 ---
@@ -1437,7 +1437,7 @@ Claim: The host asserts that Brigitte Macron, whom she calls Jean-Michel Trogneu
 Transcript Snippet: Imagine being so protected that you force multiple nation-states to collude to hide the obvious fact that you were born with a penis, right?
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-883
+Mentions: N-3, N-82, N-881
 Supports: C-1507
 Tags: relevance:tangential
 Investigative Direction: Obtain Brigitte Macron's birth and civil records and the Trogneux family registry entries; the host presents no document in this episode.
@@ -1501,7 +1501,7 @@ Claim: The host says she told the public there was a paper trail showing Macron 
 Transcript Snippet: I said there was a paper trail that Macron allegedly paid $1.5 million
 
 Anchored Artifacts: A-1461.1
-Mentions: N-3, N-381, N-82
+Mentions: N-3, N-379, N-82
 Related Nodes: N-10316
 Supports: C-1781
 Tags: relevance:core
@@ -1566,7 +1566,7 @@ Claim: The host says the Macrons hired a private investigator to see whether she
 Transcript Snippet: they even hired a private investigator to try to see if I was colluding with other state actors.
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-381
+Mentions: N-3, N-82, N-379
 Tags: relevance:context
 Investigative Direction: Look for the investigator's engagement in the Delaware litigation record or discovery filings; ask the host's lawyers for the basis of the claim.
 
@@ -1581,7 +1581,7 @@ Claim: The host says that a full week after her announcement the Elysee Palace h
 Transcript Snippet: It's now been a full week since I made that announcement. And here is the official response issued by the Élysée Palace.
 
 Anchored Artifacts: A-3110.1
-Mentions: N-3, N-381
+Mentions: N-3, N-379
 Related Nodes: N-11280
 Tags: relevance:core
 Investigative Direction: Search Elysee communique archives and French press for any reaction between November 25 and December 1, 2025.
@@ -1709,7 +1709,7 @@ Claim: The host says the military will not release the military file of Jean-Mic
 Transcript Snippet: the military won't release your file, and we don't know what you were doing in the military as Jean-Michel Trogneux.
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-883
+Mentions: N-3, N-82, N-881
 Tags: relevance:context
 Investigative Direction: Obtain any French military records request and denial concerning Jean-Michel Trogneux; the host cites no specific request here.
 
@@ -2049,7 +2049,7 @@ Claim: The host says she feels she was set up by the federal government in the l
 Transcript Snippet: I feel like I was set up by the federal government in terms of this lawsuit.
 
 Anchored Artifacts: A-1476.1
-Mentions: N-3, N-82, N-883
+Mentions: N-3, N-82, N-881
 Related Nodes: N-11277, N-10270
 Tags: relevance:context
 Investigative Direction: Review the Delaware docket for the timing of filing and any federal involvement; the host offers no direct evidence of agency coordination.
@@ -2065,7 +2065,7 @@ Claim: The host says Brigitte Macron says Jean-Michel Trogneux was in America in
 Transcript Snippet: because Brigitte says he was in America, we know Brigitte was in America in the '60s at least for the moon landing.
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-883
+Mentions: N-3, N-82, N-881
 Tags: relevance:tangential
 Investigative Direction: Find the original statement by Brigitte Macron about being in America and the moon landing and check its wording.
 
@@ -2336,7 +2336,7 @@ Claim: The host says the Trogneux family claim of running a chocolatier factory 
 Transcript Snippet: They just ran this this chocolatier factory from like the 1880s all the way through to now. Not possible. Nazis uh did an aerial bombardment. They occupied the city of Amiens.
 
 Anchored Artifacts: 
-Mentions: N-3, N-883
+Mentions: N-3, N-881
 Tags: relevance:context
 Investigative Direction: Check Amiens municipal and Trogneux company records for wartime operations and dates.
 
@@ -2351,7 +2351,7 @@ Claim: The host says she thinks the Trogneux identity was created for the family
 Transcript Snippet: This seems to me to be an identity that was just created and materialized for this family, and that the true family is a very powerful family
 
 Anchored Artifacts: 
-Mentions: N-3, N-883, N-82
+Mentions: N-3, N-881, N-82
 Tags: relevance:tangential
 Investigative Direction: Speculation with no document; genealogical and civil records are the only test.
 

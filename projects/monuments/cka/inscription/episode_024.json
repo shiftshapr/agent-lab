@@ -1316,8 +1316,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-381",
-      "ref": "N-381",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Emmanuel Macron; subject of a claim in the aired clip.",
@@ -1333,8 +1333,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-710",
-      "ref": "N-710",
+      "@id": "N-708",
+      "ref": "N-708",
       "name": "Sheldon Adelson",
       "type": "person",
       "description": "Sheldon Adelson; founder of the gambling empire the host cites.",
@@ -1350,8 +1350,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-715",
-      "ref": "N-715",
+      "@id": "N-713",
+      "ref": "N-713",
       "name": "Volodymyr Zelensky",
       "type": "person",
       "description": "Volodymyr Zelensky; listed in the aired clip.",
@@ -1757,8 +1757,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-843",
-      "ref": "N-843",
+      "@id": "N-841",
+      "ref": "N-841",
       "name": "Emma Goldman",
       "type": "person",
       "description": "First named by the host at 00:11:28 in episode 24. Historical anarchist the host credits with bringing feminism to America.",
@@ -1774,8 +1774,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-844",
-      "ref": "N-844",
+      "@id": "N-842",
+      "ref": "N-842",
       "name": "Al Goldstein",
       "type": "person",
       "description": "First named by the host at 00:12:45 in episode 24. Pornography publisher the host quotes on why Jews are in pornography.",
@@ -1791,8 +1791,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-845",
-      "ref": "N-845",
+      "@id": "N-843",
+      "ref": "N-843",
       "name": "Samuel Roth",
       "type": "person",
       "description": "First named by the host at 00:12:45 in episode 24. Publisher the host says fought in court for the decision making pornography free speech.",
@@ -1808,8 +1808,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-846",
-      "ref": "N-846",
+      "@id": "N-844",
+      "ref": "N-844",
       "name": "Magnus Hirschfeld",
       "type": "person",
       "description": "First named by the host at 00:13:28 in episode 24. Sexologist the host credits as the origin of transgenderism.",
@@ -1825,8 +1825,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-847",
-      "ref": "N-847",
+      "@id": "N-845",
+      "ref": "N-845",
       "name": "Adam Lanza",
       "type": "person",
       "description": "First named by the host at 00:45:55 in episode 24. Sandy Hook shooter the host cites in a pattern theory about standardized testing and government contact.",
@@ -2519,8 +2519,8 @@
       "transcript_snippet": "Emmanuel Macron, gay and married to a trans man who molested him when he was a child.",
       "mentions_person_refs": [
         "N-3",
-        "N-381",
-        "N-715",
+        "N-379",
+        "N-713",
         "N-82"
       ]
     },
@@ -2561,7 +2561,7 @@
       "transcript_snippet": "people like Emma Goldman on feminism. Sigmund Freud, the father of modern psychology.",
       "mentions_person_refs": [
         "N-3",
-        "N-843",
+        "N-841",
         "N-50"
       ]
     },
@@ -2583,7 +2583,7 @@
       "transcript_snippet": "The gambling empire uh is where the Adelson empire wealth comes from. Uh as are many pharmaceuticals like the Sackler family.",
       "mentions_person_refs": [
         "N-3",
-        "N-710"
+        "N-708"
       ]
     },
     {
@@ -2622,7 +2622,7 @@
       "transcript_snippet": "He's the one who notoriously said, \"The only reason that Jews are in pornography is that we think Christ sucks. Catholicism sucks.",
       "mentions_person_refs": [
         "N-3",
-        "N-844"
+        "N-842"
       ]
     },
     {
@@ -2641,7 +2641,7 @@
       "transcript_snippet": "That's because Jewish individuals in America fought for that. Samuel Roth, actually.",
       "mentions_person_refs": [
         "N-3",
-        "N-845"
+        "N-843"
       ]
     },
     {
@@ -2660,7 +2660,7 @@
       "transcript_snippet": "Transgenderism, go back and and try to figure out where that came from. Magnus Hirschfeld was the doctor and the sexologist.",
       "mentions_person_refs": [
         "N-3",
-        "N-846"
+        "N-844"
       ]
     },
     {
@@ -3536,7 +3536,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-847"
+        "N-845"
       ]
     },
     {

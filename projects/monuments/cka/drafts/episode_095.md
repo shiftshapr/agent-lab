@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep095): N-10759, N-10801, N-10808
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-10907
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-15, N-22, N-30, N-40, N-41, N-46, N-48, N-54, N-60, N-69, N-93, N-161, N-192, N-263, N-285, N-343, N-344, N-367, N-391, N-493, N-568, N-10000, N-10006, N-10012, N-10022, N-10023, N-10070, N-10077, N-10300, N-10323, N-10346, N-10376, N-10570, N-10581, N-10590, N-10600, N-10613, N-10618, N-10626, N-10628, N-10664, N-10810, N-10870, N-10908, N-605, N-10751, N-10812, N-10799
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-15, N-22, N-30, N-40, N-41, N-46, N-48, N-54, N-60, N-69, N-93, N-161, N-192, N-263, N-285, N-343, N-344, N-366, N-389, N-491, N-566, N-10000, N-10006, N-10012, N-10022, N-10023, N-10070, N-10077, N-10300, N-10323, N-10346, N-10376, N-10570, N-10581, N-10590, N-10600, N-10613, N-10618, N-10626, N-10628, N-10664, N-10810, N-10870, N-10908, N-603, N-10751, N-10812, N-10799
   - Claim Range: C-3827–C-3883
   - (see registers)
 
@@ -23,7 +23,7 @@
 
 The host plays an analysis by the YouTuber Nicci (A-2537.1) arguing that the back-camera footage Terrell Farnsworth showed the host over FaceTime was likely zoomed in or cropped. Nicci's clip compares it with wide-angle back-camera shots from other 2025 American Comeback Tour stops. The host adds the opening of her FaceTime call with Terrell (A-2538.1), in which she says he opens a drive she suspects is the camera's SD card on his desktop in Scottsdale. She says that in their September 17 and 19 conversations Terrell never told her he lacked the footage or had given the SD card to federal agents. She also notes that Charlie Kirk was seated on a new platform and that, by her review, the camera directly behind his head first appeared in 2025 (A-2539).
 
-According to an unverified tip the host relays (A-2540.1), in late 2016 Lori Frantzve and Larry Ginta met the holders of a pending patent for an interchangeable-caliber gun. The tip says the four had dinner in Scottsdale, where Lori and Larry offered access to government contracts and Erika Frantzve arrived unannounced. The host says Erika was then dating Cabot Phillips, not Charlie Kirk, and that nothing came of the deal. She links this to Victor Marx's interest in the Fold AR patent and to her view that Jeffrey Epstein began his career in weapons trafficking.
+According to an unverified tip the host relays (A-2540.1), in late 2016 Lori Frantzve and Larry Guinta met the holders of a pending patent for an interchangeable-caliber gun. The tip says the four had dinner in Scottsdale, where Lori and Larry offered access to government contracts and Erika Frantzve arrived unannounced. The host says Erika was then dating Cabot Phillips, not Charlie Kirk, and that nothing came of the deal. She links this to Victor Marx's interest in the Fold AR patent and to her view that Jeffrey Epstein began his career in weapons trafficking.
 
 The host rebuts a Blake Neff X post calling her dishonest about whether Tyler Robinson's parents recognized the rifle (A-2541.1). She cites a Daily Mail headline (A-2541.2) and a Robinson text message from the charging document (A-2541.3). She again asks TPUSA to answer donors' claims that Charlie never named Erika his successor at Aspen. She then reads Laura Loomer's "God hates you" tweet (A-2542.1) and quotes a 2019 Spectator profile in which Loomer described cocaine use, a suicide attempt and social-media addiction (A-2542.2).
 
@@ -42,7 +42,7 @@ Video Timestamp: 00:02:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3830, C-3831, C-3832, N-568, N-263, N-1, N-10799, N-10908*
+*Related: C-3830, C-3831, C-3832, N-566, N-263, N-1, N-10799, N-10908*
 
 ---
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:12:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3843, C-3844, N-568, N-1, N-10908*
+*Related: C-3843, C-3844, N-566, N-1, N-10908*
 
 **A-2539.2** Photos of Charlie Kirk tabling on the 2024 Brainwashed tour (March 7, 2024; University of Wisconsin, September 5, 2024; Northern Arizona University, October 15, 2024) with no camera behind his head (shown)
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:15:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3847, C-3849, C-3850, C-3851, C-3852, C-3853, C-3854, N-493, N-391, N-2, N-10907*
+*Related: C-3847, C-3849, C-3850, C-3851, C-3852, C-3853, C-3854, N-491, N-389, N-2, N-10907*
 
 ---
 
@@ -326,31 +326,31 @@ Fold AR patent holder whom Victor Marx sought to push out; scheduled for an inte
 
 *Related: C-3848, C-3883*
 
-**N-367** Cabot Phillips
+**N-366** Cabot Phillips
 
 The host says Erika Frantzve was dating him in late 2016.
 
 *Related: C-3854*
 
-**N-391** Larry Guinta
+**N-389** Larry Guinta
 
-Transcript spelling "Larry Ginta". Erika Kirk's stepfather; at the 2016 gun-patent dinner per the tip.
+Transcript spelling "Larry Guinta". Erika Kirk's stepfather; at the 2016 gun-patent dinner per the tip.
 
 *Related: C-3847, C-3849, C-3850, C-3851, A-2540.1*
 
-**N-493** Lori Frantzve
+**N-491** Lori Frantzve
 
 Transcript spelling "Lori Frantzbe". Erika Kirk's mother; per the tip she pursued a pending gun patent in 2016 while promoting G-Tech Industries.
 
 *Related: C-3847, C-3849, C-3850, C-3851, C-3852, C-3853, A-2540.1*
 
-**N-568** Nicey (YouTuber)
+**N-566** Nicey (YouTuber)
 
 Transcript spellings "Nicci" and "Niecy". Her analysis argues the back-camera footage was zoomed or cropped and documents the platform setup.
 
 *Related: C-3830, C-3831, C-3841, A-2537.1, A-2539.1*
 
-**N-605** Melania Trump
+**N-603** Melania Trump
 
 First named by the host at 00:36:45 in episode 095. Referred to as "Melania"; people in her circle are said to have called Laura Loomer the person most likely to harm Donald Trump.
 
@@ -527,16 +527,16 @@ Transcript spelling "Wiyre Fy". The host ties the new back camera to the sponsor
 **N-10907** Lori Frantzve 2016 Gun Patent Dinner
 
 Node Type: Topic
-Investigation target: a tip that in late fall 2016 Lori Frantzve and Larry Ginta met two holders of a pending patent for an interchangeable-caliber gun. The tip says they met at a Salt Lake City expo where Lori was promoting G-Tech Industries' EMP technology. They then held a dinner in Scottsdale, offered an introduction to their G-Tech angel investor and claimed access to government contracts. According to the tip, Erika Frantzve arrived unannounced, and her mother mentioned that Erika was dating a man with big political connections. The host says nothing came of the deal, the patent is now approved, and the patent holder later had a lawsuit with Victor Marx.
+Investigation target: a tip that in late fall 2016 Lori Frantzve and Larry Guinta met two holders of a pending patent for an interchangeable-caliber gun. The tip says they met at a Salt Lake City expo where Lori was promoting G-Tech Industries' EMP technology. They then held a dinner in Scottsdale, offered an introduction to their G-Tech angel investor and claimed access to government contracts. According to the tip, Erika Frantzve arrived unannounced, and her mother mentioned that Erika was dating a man with big political connections. The host says nothing came of the deal, the patent is now approved, and the patent holder later had a lawsuit with Victor Marx.
 
-*Related: C-3847, C-3849, C-3850, C-3851, C-3852, C-3853, C-3854, C-3855, A-2540.1, N-493, N-391, N-2*
+*Related: C-3847, C-3849, C-3850, C-3851, C-3852, C-3853, C-3854, C-3855, A-2540.1, N-491, N-389, N-2*
 
 **N-10908** Back-Camera and Platform Setup Introduction (2025 Tour)
 
 Node Type: Topic
 Investigation target: when and why Turning Point USA began seating Charlie Kirk on a raised platform and placing a camera directly behind his head at tabling events. The host and Nicci say no such camera appears on the 2024 Brainwashed tour and that it arrived with the 2025 American Comeback Tour. The host says it coincided with the Why Refi sponsorship deal.
 
-*Related: C-3831, C-3843, C-3844, C-3845, C-3846, A-2537.1, A-2539.1, A-2539.2, N-1, N-568*
+*Related: C-3831, C-3843, C-3844, C-3845, C-3846, A-2537.1, A-2539.1, A-2539.2, N-1, N-566*
 
 ## 5. Claim Register
 
@@ -594,7 +594,7 @@ Claim: The host says the YouTuber Nicci discovered that the back-camera footage 
 Transcript Snippet: Nicci discovered that the camera footage which was shown to me on FaceTime was likely edited.
 
 Anchored Artifacts: A-2537.1
-Mentions: N-568, N-263, N-3, N-1
+Mentions: N-566, N-263, N-3, N-1
 Related Nodes: N-10799
 Investigative Direction: Obtain the original, unedited SD-card file and compare its frame dimensions and metadata with the version shown on FaceTime.
 
@@ -609,7 +609,7 @@ Claim: In a video by the YouTuber Nicci that the host plays, back-camera shots f
 Transcript Snippet: On February 28th, 2025, the American Comeback Tour did a stop at Florida State University and here is the back camera shot.
 
 Anchored Artifacts: A-2537.1
-Mentions: N-568
+Mentions: N-566
 Related Nodes: N-10799, N-10908
 Investigative Direction: Collect TPUSA livestream archives for each 2025 tour stop and compare back-camera framing.
 
@@ -759,7 +759,7 @@ Claim: The host agrees with Nicci that Terrell very likely zoomed in on the foot
 Transcript Snippet: So yes, Niecy, I I agree with you um that it is very likely that he zoomed in on that footage and I believe the reason he did that was to obscure our view of the ground
 
 Anchored Artifacts: A-2537.1
-Mentions: N-568, N-263
+Mentions: N-566, N-263
 Related Nodes: N-10799
 Investigative Direction: Subpoena the native back-camera file and compare its field of view with the FaceTime version.
 
@@ -839,16 +839,16 @@ Investigative Direction: Compare the Why Refi sponsorship contract dates and del
 
 ---
 
-**C-3847** Lori Frantzve and Larry Ginta pursued a patent-pending interchangeable-caliber gun
+**C-3847** Lori Frantzve and Larry Guinta pursued a patent-pending interchangeable-caliber gun
 
 Claim Timestamp: 00:16:43
 
-Claim: According to a tip relayed by the host, Lori Frantzve and Larry Ginta were interested in a patent-pending gun with interchangeable calibers, achieved by extending the cylinder. The host says the patent has since been approved.
+Claim: According to a tip relayed by the host, Lori Frantzve and Larry Guinta were interested in a patent-pending gun with interchangeable calibers, achieved by extending the cylinder. The host says the patent has since been approved.
 
 Transcript Snippet: Similarly, Lori Frantzve and Larry were interested in a gun pending patent and this was going to be a gun that was and is today the only now patent approved weapon that features interchangeable calibers, okay?
 
 Anchored Artifacts: A-2540.1
-Mentions: N-493, N-391
+Mentions: N-491, N-389
 Related Nodes: N-10907
 Investigative Direction: Search USPTO records for interchangeable-caliber revolver patents filed around 2016 and their inventors.
 
@@ -873,12 +873,12 @@ Investigative Direction: Obtain Marx–Hall correspondence on the proposed acqui
 
 Claim Timestamp: 00:18:04
 
-Claim: According to the tip, Lori Frantzve and Larry Ginta met the patent holders at a Salt Lake City expo where Lori was promoting G-Tech Industries' EMP technology. The tip says they offered to introduce them to G-Tech's angel investor. The host says "allegedly".
+Claim: According to the tip, Lori Frantzve and Larry Guinta met the patent holders at a Salt Lake City expo where Lori was promoting G-Tech Industries' EMP technology. The tip says they offered to introduce them to G-Tech's angel investor. The host says "allegedly".
 
 Transcript Snippet: Allegedly, at this time she and Larry um meet some the guys that have this patent pending and they offer to introduce these guys to their angel investor for G-Tech Industries.
 
 Anchored Artifacts: A-2540.1
-Mentions: N-493, N-391
+Mentions: N-491, N-389
 Related Nodes: N-10907
 Investigative Direction: Identify the 2016 Salt Lake City expo's exhibitor list and G-Tech Industries' corporate filings and investors.
 
@@ -888,12 +888,12 @@ Investigative Direction: Identify the 2016 Salt Lake City expo's exhibitor list 
 
 Claim Timestamp: 00:18:04
 
-Claim: According to the tip, a dinner was held in Scottsdale in late 2016 with Lori Frantzve, Larry Ginta and the two would-be company owners to discuss the patent, before the gun was manufactured.
+Claim: According to the tip, a dinner was held in Scottsdale in late 2016 with Lori Frantzve, Larry Guinta and the two would-be company owners to discuss the patent, before the gun was manufactured.
 
-Transcript Snippet: So they set up a dinner back in Scottsdale, Arizona. Again, this is going to be late 2016. At this dinner you have Lori, you have Larry Ginta, and the two would-be company owners.
+Transcript Snippet: So they set up a dinner back in Scottsdale, Arizona. Again, this is going to be late 2016. At this dinner you have Lori, you have Larry Guinta, and the two would-be company owners.
 
 Anchored Artifacts: A-2540.1
-Mentions: N-493, N-391
+Mentions: N-491, N-389
 Related Nodes: N-10907
 Investigative Direction: Interview the patent holders and identify the restaurant and date of the dinner.
 
@@ -903,12 +903,12 @@ Investigative Direction: Interview the patent holders and identify the restauran
 
 Claim Timestamp: 00:18:04
 
-Claim: According to the tip, what Lori Frantzve and Larry Ginta offered in exchange for a stake in the patent was access to government contracts.
+Claim: According to the tip, what Lori Frantzve and Larry Guinta offered in exchange for a stake in the patent was access to government contracts.
 
 Transcript Snippet: So they were there to discuss only the patent, a potential deal for it, um and what they could offer in exchange for it. The answer being, we have access to government contracts.
 
 Anchored Artifacts: A-2540.1
-Mentions: N-493, N-391
+Mentions: N-491, N-389
 Related Nodes: N-10907
 Investigative Direction: Search federal contracting databases for awards to Lori Frantzve-linked entities.
 
@@ -923,7 +923,7 @@ Claim: According to the tip, Erika Frantzve arrived unannounced and late at the 
 Transcript Snippet: My favorite part of the story is who strolls in unannounced at this dinner to sweeten up the potential deal. None other than Erika Frantzve.
 
 Anchored Artifacts: A-2540.1
-Mentions: N-2, N-493
+Mentions: N-2, N-491
 Related Nodes: N-10907
 Investigative Direction: Corroborate the tipster's account with the second patent holder or other diners.
 
@@ -938,7 +938,7 @@ Claim: According to the tip, Erika's mother said at the dinner that Erika was a 
 Transcript Snippet: Her mother says, "Oh, well, she's It's not known yet, but she's just now dating a guy that has some very big political connections.
 
 Anchored Artifacts: A-2540.1
-Mentions: N-493, N-2
+Mentions: N-491, N-2
 Related Nodes: N-10907
 Investigative Direction: Interview the tipster about the exact words used and the dinner date.
 
@@ -953,7 +953,7 @@ Claim: The host says the tipster assumed the boyfriend was Charlie Kirk, but by 
 Transcript Snippet: the person in retrospect thought that she was talking about Charlie Kirk, but she actually wasn't at this time, according to our timeline, Erika was dating Cabot Phillips.
 
 Anchored Artifacts: A-2540.1
-Mentions: N-2, N-367, N-1
+Mentions: N-2, N-366, N-1
 Related Nodes: N-10907
 Investigative Direction: Establish dates of Erika Frantzve's relationship with Cabot Phillips from contemporaneous social-media posts.
 
@@ -1149,7 +1149,7 @@ Claim: The host says that, as she understands it, people in Melania Trump's circ
 Transcript Snippet: as I understand it, Melania is in her circle, have said this, that she would be the most likely person to harm Donald Trump.
 
 Anchored Artifacts: 
-Mentions: N-605, N-60, N-5
+Mentions: N-603, N-60, N-5
 Investigative Direction: Identify any on-record source from Melania Trump's staff or associates.
 
 ---
@@ -1519,7 +1519,7 @@ Confidence: medium
 
 - **Artifacts verbally referenced but not shown**: A-2540.1 (tip on the 2016 Scottsdale gun-patent dinner) and A-2543.1 (cremation tip request). The Aspen audio or video, Erika Kirk's Fox News burial answer, the MSN article, Trump's "mentally ill" post and the Robinson affidavits are referenced but not shown and have no artifact.
 - **DIA scan**: real hits at 00:49:03 and 00:49:43 are inscribed (C-3879, C-3880, A-2543.1, A-2543.2, M-12). Not DIA beats: "candaceowens. com" at 00:43:49 is a merch and subscription plug. "Our tips box" at 01:22 and "a stunning tip" at 00:01 and 15:52 describe tips already received rather than a solicitation; they are noted here but not inscribed as separate DIA beats.
-- **Name matching**: "Nicci"/"Niecy" are mapped to N-568 Nicey (YouTuber). "Terrell" and "Tarrio" (49:43; also "Tarrio Robinson" at 51:43–52:39, evidently Tyler Robinson) are mapped to N-263 Terrell Farnsworth only where the camera operator is meant. "Blake enough" (00:01) is read as Blake Neff (N-161). "Blake" among those who did not call 911 is assumed to be Blake Neff, which is uncertain. "Lori Frantzbe" and "Larry Ginta" are mapped to N-493 and N-391. "Xavier Boussard" is mapped to N-285 Xavier Poussard. "Ashley" (09:05, a producer) is unidentified and not mapped to the existing Ashley Rindsberg node. "Jillian" (01:22), the then 15-year-old in Nicci's earlier text-message investigation, is likely the existing Jillian Falcon node but is not cited in a claim. Paula White Cain, Hillary Clinton, Ben Shapiro, Judge Judy and Jimmy Barbecue (Jimmy Cherizier) are named only in passing or in jokes and are not cited.
+- **Name matching**: "Nicci"/"Niecy" are mapped to N-566 Nicey (YouTuber). "Terrell" and "Tarrio" (49:43; also "Tarrio Robinson" at 51:43–52:39, evidently Tyler Robinson) are mapped to N-263 Terrell Farnsworth only where the camera operator is meant. "Blake enough" (00:01) is read as Blake Neff (N-161). "Blake" among those who did not call 911 is assumed to be Blake Neff, which is uncertain. "Lori Frantzbe" and "Larry Guinta" are mapped to N-491 and N-389. "Xavier Boussard" is mapped to N-285 Xavier Poussard. "Ashley" (09:05, a producer) is unidentified and not mapped to the existing Ashley Rindsberg node. "Jillian" (01:22), the then 15-year-old in Nicci's earlier text-message investigation, is likely the existing Jillian Falcon node but is not cited in a claim. Paula White Cain, Hillary Clinton, Ben Shapiro, Judge Judy and Jimmy Barbecue (Jimmy Cherizier) are named only in passing or in jokes and are not cited.
 - **Transcription ambiguities**: "Wiyre Fy" is read as the Why Refi sponsor (N-10870). "send him some kid" is "kit". "maca hats" is "MACA hats" (Make America Christian Again). "Shayna FK" (44:48) is unclear. "that meaning" (20:24) is likely "that meeting". "I'm looking at you, Larry" (50:27, viewer comment) apparently refers to Laura Loomer. The viewer comment at 54:08 says "Blake Masters" where Blake Neff is meant.
 - **Tip reliability**: the 2016 dinner account (C-3847–C-3854) is a single unnamed tipster's account relayed with "allegedly"; neither the gun, the patent holders nor the restaurant is named.
 - **Cross-episode links left out**: C-3872 may restate C-2774 (ep 94, Trump post mentioning "mentally ill") or C-2669 (ep 89). C-3848 may restate C-2707 or C-2752 (ep 91/93, Marx's Fold AR and Israeli Defense Group). C-3837 relates to C-1940 (ep 47, TPUSA defended the camera removal). C-3875 relates to C-2789 (ep 94, Erika's speedy-trial motion). The propositions differ or the match is uncertain, so these links are omitted.

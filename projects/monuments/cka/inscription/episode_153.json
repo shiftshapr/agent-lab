@@ -1284,8 +1284,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-422",
+      "ref": "N-422",
       "name": "Pope Leo XIV",
       "type": "person",
       "description": "Pope Leo XIV; named in the Vatican-China ad read.",
@@ -1301,8 +1301,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-464",
-      "ref": "N-464",
+      "@id": "N-462",
+      "ref": "N-462",
       "name": "Nelda Buckman",
       "type": "person",
       "description": "Nelda Buckman; TPUSA's top donor, UT Austin donor.",
@@ -1338,8 +1338,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-510",
-      "ref": "N-510",
+      "@id": "N-508",
+      "ref": "N-508",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "Officer Christopher Bagley; sent to monitor the rooftop.",
@@ -1372,8 +1372,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-758",
-      "ref": "N-758",
+      "@id": "N-756",
+      "ref": "N-756",
       "name": "Astrid Tuminez",
       "type": "person",
       "description": "Astrid Tuminez; former UVU president who allegedly denied extra officers.",
@@ -1390,8 +1390,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-840",
-      "ref": "N-840",
+      "@id": "N-838",
+      "ref": "N-838",
       "name": "Macklemore",
       "type": "person",
       "description": "Macklemore; mentioned in the Sheeran comment reply.",
@@ -1407,8 +1407,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-841",
-      "ref": "N-841",
+      "@id": "N-839",
+      "ref": "N-839",
       "name": "Ed Sheeran",
       "type": "person",
       "description": "Ed Sheeran; mentioned in the comment reply.",
@@ -1424,8 +1424,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-953",
-      "ref": "N-953",
+      "@id": "N-951",
+      "ref": "N-951",
       "name": "Zack Costello",
       "type": "person",
       "description": "First named by the host at 00:40:52 in episode 153 as the YouTuber who compared Robinson's finger posture across the two clips. The transcript spells him Costello, Castello, Cassell and Zack Costello.",
@@ -1442,8 +1442,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-954",
-      "ref": "N-954",
+      "@id": "N-952",
+      "ref": "N-952",
       "name": "Jim Spencer",
       "type": "person",
       "description": "First named by the host at 00:48:11 in episode 153 as the founder of Scripps News who teaches digital media at UT Austin.",
@@ -1459,8 +1459,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-955",
-      "ref": "N-955",
+      "@id": "N-953",
+      "ref": "N-953",
       "name": "Rodney Stark",
       "type": "person",
       "description": "First named by the host at 01:04:14 in episode 153 as the author of Bearing False Witness, introduced to her by Charlie Kirk.",
@@ -2588,7 +2588,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-273",
-        "N-758"
+        "N-756"
       ]
     },
     {
@@ -2615,7 +2615,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-758"
+        "N-756"
       ]
     },
     {
@@ -2899,7 +2899,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-510",
+        "N-508",
         "N-273"
       ]
     },
@@ -3064,7 +3064,7 @@
       "transcript_snippet": "In 2018, the Vatican entered a secretive deal with the Chinese Communist Party.",
       "mentions_person_refs": [
         "N-3",
-        "N-424"
+        "N-422"
       ]
     },
     {
@@ -3108,7 +3108,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-40",
-        "N-953"
+        "N-951"
       ]
     },
     {
@@ -3131,7 +3131,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-40",
-        "N-953"
+        "N-951"
       ]
     },
     {
@@ -3406,7 +3406,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-464"
+        "N-462"
       ]
     },
     {
@@ -3427,7 +3427,7 @@
       "transcript_snippet": "That was who they I believe they were sharing a plane with as well.",
       "mentions_person_refs": [
         "N-3",
-        "N-464"
+        "N-462"
       ]
     },
     {
@@ -3450,7 +3450,7 @@
       "transcript_snippet": "she donated in 2022 a 2300 square foot building to UT Austin for mixed media and artists.",
       "mentions_person_refs": [
         "N-3",
-        "N-464"
+        "N-462"
       ]
     },
     {
@@ -3478,8 +3478,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-954",
-        "N-464"
+        "N-952",
+        "N-462"
       ]
     },
     {
@@ -3634,8 +3634,8 @@
       "transcript_snippet": "The Perisio lobby, they just operate like termites.",
       "mentions_person_refs": [
         "N-3",
-        "N-840",
-        "N-841"
+        "N-838",
+        "N-839"
       ]
     },
     {
@@ -3957,7 +3957,7 @@
       "transcript_snippet": "we are reading bearing false witness and that is by Rodney Stark and uh actually this author was introduced to me by Charlie Kirk.",
       "mentions_person_refs": [
         "N-3",
-        "N-955",
+        "N-953",
         "N-1"
       ]
     }

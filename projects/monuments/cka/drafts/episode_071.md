@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 97c9fdd97666fe21235e0b78f317b571904b8f5954ceecd3a37e07ce8587fefb
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-945, N-946, N-11391, N-11392, N-11393, N-11394, N-11395
+  - Tip-minted Nodes (supplement_2026-10g): N-943, N-944, N-11391, N-11392, N-11393, N-11394, N-11395
   - Hole-minted Nodes (reintro-ep071): N-10503, N-10674
-  - Tip-minted Nodes (reintro-ep071): N-810, N-811, N-11188
+  - Tip-minted Nodes (reintro-ep071): N-808, N-809, N-11188
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14310–C-14385
-  - New Nodes Introduced:  N-556, N-557, N-558, N-559, N-10497, N-10498, N-10499, N-10500
-  - Reused Nodes Appearing: N-5, N-22, N-36, N-49, N-55, N-97, N-99, N-116, N-364, N-367, N-527, N-10000, N-10016, N-10018, N-10027, N-10134, N-10209, N-10326, N-10342, N-10345, N-10367, N-10372, N-10378, N-10412, N-10435, N-10446, N-10456, N-10486, N-10495, N-10510, N-10539, N-10911, N-11079, N-11080, N-11165, N-11235, N-11283
+  - New Nodes Introduced:  N-554, N-555, N-556, N-557, N-10497, N-10498, N-10499, N-10500
+  - Reused Nodes Appearing: N-5, N-22, N-36, N-49, N-55, N-97, N-99, N-116, N-363, N-366, N-525, N-10000, N-10016, N-10018, N-10027, N-10134, N-10209, N-10326, N-10342, N-10345, N-10367, N-10372, N-10378, N-10412, N-10435, N-10446, N-10456, N-10486, N-10495, N-10510, N-10539, N-10911, N-11079, N-11080, N-11165, N-11235, N-11283
   - (see registers), N-11
 
 ## 6. Meme Register
@@ -193,7 +193,7 @@ Artifact Families Introduced: A-1750, A-1751, A-1752, A-1753, A-1754, A-1755, A-
 
 Claim Range: C-2326–C-2350
 
-New Nodes Introduced:  N-556, N-557, N-558, N-559, N-10497, N-10498, N-10499, N-10500
+New Nodes Introduced:  N-554, N-555, N-556, N-557, N-10497, N-10498, N-10499, N-10500
 
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:05:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2326, N-559*
+*Related: C-2326, N-557*
 
 **A-1751** Andrew Kolvet Interview Clip Bundle
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:08:37–00:10:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2327, C-2328, C-2329, N-559*
+*Related: C-2327, C-2328, C-2329, N-557*
 
 **A-1752** TPUSA Halftime YouTube Screenshot Bundle
 
@@ -305,7 +305,7 @@ Video Timestamp: 00:20:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2336, N-556, N-10497*
+*Related: C-2336, N-554, N-10497*
 
 **A-1757.2** Thomas Martin ZoomInfo Listing (Deputy Chief Patrol Agent, DHS)
 
@@ -315,7 +315,7 @@ Video Timestamp: 00:22:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2337, N-556, N-10497*
+*Related: C-2337, N-554, N-10497*
 
 **A-1758** 1985 Times Union Article Bundle
 
@@ -327,7 +327,7 @@ Video Timestamp: 00:22:02–00:24:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2338, C-2339, N-556, N-10497*
+*Related: C-2338, C-2339, N-554, N-10497*
 
 **A-1759** Tracy Martin Text Messages Bundle
 
@@ -339,7 +339,7 @@ Video Timestamp: 00:24:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2340, C-2341, N-549, N-557, N-10498*
+*Related: C-2340, C-2341, N-547, N-555, N-10498*
 
 **A-1760** Religious Liberty Commission Hearing Bundle
 
@@ -351,7 +351,7 @@ Video Timestamp: 00:30:34–00:40:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2342, C-2343, C-2344, C-2345, N-558, N-10500*
+*Related: C-2342, C-2343, C-2344, C-2345, N-556, N-10500*
 
 **A-1760.2** Carrie Prejean Bowler Questioning of Seth Dillon at Religious Liberty Commission Hearing
 
@@ -361,7 +361,7 @@ Video Timestamp: 00:31:24–00:32:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2346, N-558*
+*Related: C-2346, N-556*
 
 **A-1761** Tyler Bowyer Tweet Bundle
 
@@ -411,7 +411,7 @@ Video Timestamp: 00:18:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14322, C-14323, C-14324, N-10326, N-10367, N-10372, N-10435, N-11283, N-2, N-364, N-367*
+*Related: C-14322, C-14323, C-14324, N-10326, N-10367, N-10372, N-10435, N-11283, N-2, N-363, N-366*
 
 ---
 
@@ -424,7 +424,7 @@ Video Timestamp: 00:20:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14329, N-10497, N-549, N-556*
+*Related: C-14329, N-10497, N-547, N-554*
 
 ---
 
@@ -439,7 +439,7 @@ Video Timestamp: 00:24:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14334, N-10497, N-556*
+*Related: C-14334, N-10497, N-554*
 
 ---
 
@@ -452,7 +452,7 @@ Video Timestamp: 00:24:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14336, N-10498, N-10503, N-2, N-549, N-557*
+*Related: C-14336, N-10498, N-10503, N-2, N-547, N-555*
 
 ---
 
@@ -519,13 +519,13 @@ Video Timestamp: 00:51:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14385, N-10497, N-556, N-946*
+*Related: C-14385, N-10497, N-554, N-944*
 
 ---
 
 ## IV. Node Register
 
-**N-549** Tracy Martin
+**N-547** Tracy Martin
 
 Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.
 
@@ -534,9 +534,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1759.1, C-2340, C-2341, N-556, N-557, N-10497, N-10498*
+*Related: A-1759.1, C-2340, C-2341, N-554, N-555, N-10497, N-10498*
 
-**N-556** Thomas Martin (Tucson Border Patrol Director)
+**N-554** Thomas Martin (Tucson Border Patrol Director)
 
 Director / Deputy Chief Patrol Agent with US Border Patrol / DHS in Tucson since at least 1985; potentially same person as Tracy Martin's husband.
 
@@ -545,9 +545,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1757.1, A-1757.2, A-1758.1, C-2336, C-2337, C-2338, C-2339, N-549, N-10497*
+*Related: A-1757.1, A-1757.2, A-1758.1, C-2336, C-2337, C-2338, C-2339, N-547, N-10497*
 
-**N-557** Tracy Martin's Daughter (Unnamed)
+**N-555** Tracy Martin's Daughter (Unnamed)
 
 Allegedly Erica Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.
 
@@ -556,9 +556,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1759.1, C-2340, C-2341, N-549, N-2, N-10498*
+*Related: A-1759.1, C-2340, C-2341, N-547, N-2, N-10498*
 
-**N-558** Carrie Prejean Bowler
+**N-556** Carrie Prejean Bowler
 
 Questioner of Seth Dillon at the Religious Liberty Commission hearing on antisemitism; Catholic activist.
 
@@ -569,7 +569,7 @@ Investigative Pressure: Low
 
 *Related: A-1760.2, C-2346*
 
-**N-559** Brian Kilmeade
+**N-557** Brian Kilmeade
 
 Interviewer of Andrew Kolvet on TPUSA halftime viewership.
 
@@ -589,7 +589,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1757.1, A-1757.2, A-1758.1, C-2336, C-2337, C-2338, C-2339, N-549, N-556*
+*Related: A-1757.1, A-1757.2, A-1758.1, C-2336, C-2337, C-2338, C-2339, N-547, N-554*
 
 **N-10498** Tracy's Daughter Erika Assistant Status Verification
 
@@ -600,7 +600,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1759.1, C-2340, C-2341, N-549, N-557, N-2*
+*Related: A-1759.1, C-2340, C-2341, N-547, N-555, N-2*
 
 **N-10499** TPUSA Halftime Viewership Authenticity
 
@@ -622,7 +622,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1760.1, C-2343, C-2344, C-2345, N-558*
+*Related: A-1760.1, C-2343, C-2344, C-2345, N-556*
 
 ---
 
@@ -747,7 +747,7 @@ Named by the host as one of the chiefs of pressing Kirk in the Hamptons.
 
 ---
 
-**N-364** Mitch Snow
+**N-363** Mitch Snow
 
 Eyewitness whose Fort Huachuca account the host says remains unchanged.
 
@@ -755,7 +755,7 @@ Eyewitness whose Fort Huachuca account the host says remains unchanged.
 
 ---
 
-**N-367** Cabot Phillips
+**N-366** Cabot Phillips
 
 The person Snow said he saw a lookalike of at Fort Huachuca.
 
@@ -763,7 +763,7 @@ The person Snow said he saw a lookalike of at Fort Huachuca.
 
 ---
 
-**N-527** Jay-Z
+**N-525** Jay-Z
 
 Named by the host as controlling halftime booking with the NFL.
 
@@ -771,7 +771,7 @@ Named by the host as controlling halftime booking with the NFL.
 
 ---
 
-**N-810** Kid Rock
+**N-808** Kid Rock
 
 Performer in the TPUSA halftime show.
 
@@ -779,7 +779,7 @@ Performer in the TPUSA halftime show.
 
 ---
 
-**N-811** Bad Bunny
+**N-809** Bad Bunny
 
 Headliner of the NFL halftime show.
 
@@ -1019,7 +1019,7 @@ Unit Snow said he encountered.
 
 ---
 
-**N-945** Lee Brice
+**N-943** Lee Brice
 
 First named by the host at 00:07:13 in episode 71 as a performer in the TPUSA halftime show.
 
@@ -1027,7 +1027,7 @@ First named by the host at 00:07:13 in episode 71 as a performer in the TPUSA ha
 
 ---
 
-**N-946** Thomas G. Martin
+**N-944** Thomas G. Martin
 
 First named by the host at 00:24:12 in episode 71 as a Border Patrol employee in Buffalo, New York whom she says is not the Tucson Thomas Martin.
 
@@ -1231,7 +1231,7 @@ Claim Timestamp: 00:20:59
 Claim: Per a LinkedIn link the host shows, Thomas Martin is listed as Director, US Border Patrol, with location in the Greater Tucson area.
 
 Anchored Artifacts: A-1757.1
-Mentions: N-556
+Mentions: N-554
 
 Related Nodes: N-10497
 
@@ -1246,7 +1246,7 @@ Claim Timestamp: 00:22:02
 Claim: Per a ZoomInfo listing the host shows, Thomas Martin is Deputy Chief Patrol Agent at the Department of Homeland Security, with 9 years in Customs and Border Protection.
 
 Anchored Artifacts: A-1757.2
-Mentions: N-556
+Mentions: N-554
 
 Related Nodes: N-10497
 
@@ -1261,7 +1261,7 @@ Claim Timestamp: 00:22:02–00:24:12
 Claim: A 1985 Times Union article identifies agent Thomas Martin of the Border Patrol in Tucson in the context of the sanctuary movement trial.
 
 Anchored Artifacts: A-1758.1
-Mentions: N-556
+Mentions: N-554
 
 Related Nodes: N-10497
 
@@ -1276,7 +1276,7 @@ Claim Timestamp: 00:22:02–00:24:12
 Claim: In the 1985 article, Thomas Martin is quoted writing to superiors about avoiding "border patrol baiting" related to invading churches.
 
 Anchored Artifacts: A-1758.1
-Mentions: N-556
+Mentions: N-554
 
 Related Nodes: N-10497
 
@@ -1291,7 +1291,7 @@ Claim Timestamp: 00:24:52
 Claim: Per Tracy Martin's text messages from September 11, Tracy's daughter (allegedly Erica Kirk's assistant) was scheduled to attend UVU on September 10, 2025.
 
 Anchored Artifacts: A-1759.1
-Mentions: N-2, N-549, N-557
+Mentions: N-2, N-547, N-555
 
 Related Nodes: N-10498
 
@@ -1306,7 +1306,7 @@ Claim Timestamp: 00:24:52
 Claim: Per text messages from September 11th that the host says she has, Tracy Martin told friends she had a "bad feeling" about September 10 and stopped her daughter from attending UVU.
 
 Anchored Artifacts: A-1759.1
-Mentions: N-549, N-557
+Mentions: N-547, N-555
 
 Related Nodes: N-10498
 
@@ -1321,7 +1321,7 @@ Claim Timestamp: 00:30:34–00:40:02
 Claim: Seth Dillon testified at a Religious Liberty Commission hearing on antisemitism.
 
 Anchored Artifacts: A-1760.1
-Mentions: N-558, N-38
+Mentions: N-556, N-38
 
 Related Nodes: N-10500
 
@@ -1381,7 +1381,7 @@ Claim Timestamp: 00:31:24–00:32:50
 Claim: The host says Carrie Prejean Bowler questioned Seth Dillon at the Religious Liberty Commission hearing regarding antisemitism and the Hamptons meeting.
 
 Anchored Artifacts: A-1760.2
-Mentions: N-558, N-38
+Mentions: N-556, N-38
 
 Related Nodes: N-10500
 
@@ -1455,7 +1455,7 @@ Claim: The host says that Jay-Z, in partnership with the NFL, controls who perfo
 Transcript Snippet: Actually, I looked into it. The person that controls who gets to perform at the halftime is Jay-Z. For some reason, Jay-Z in partnership with the NFL, Jay-Z doesn't speak Spanish, but Jay-Z booked him.
 
 Anchored Artifacts: 
-Mentions: N-527, N-811
+Mentions: N-525, N-809
 Related Nodes: N-11391, N-11392
 Tags: relevance:tangential
 Investigative Direction: NFL or Roc Nation announcements and reporting on who selected the 2026 halftime performer.
@@ -1487,7 +1487,7 @@ Claim: The host says Bad Bunny did not in fact wear a dress during the Super Bow
 Transcript Snippet: Now, Bad Bunny did not in fact wear a dress at the Super Bowl. He didn't, which like I said, I'm very against that.
 
 Anchored Artifacts: 
-Mentions: N-811
+Mentions: N-809
 Related Nodes: N-11392
 Tags: relevance:tangential
 Investigative Direction: Broadcast footage of the halftime performance.
@@ -1519,7 +1519,7 @@ Claim: The host says the Turning Point USA halftime show was pre-recorded, she t
 Transcript Snippet: Now, we should be clear, it was a pre-record, okay? So, Bad Bunny was performing live. Turning point USA pre-recorded, I think a couple of weeks ago.
 
 Anchored Artifacts: 
-Mentions: N-811
+Mentions: N-809
 Related Nodes: N-10000, N-10510
 Tags: relevance:context
 Investigative Direction: TPUSA production schedule and the show's recording date.
@@ -1535,7 +1535,7 @@ Claim: The host names Kid Rock and Lee Brice as artists who performed in the Tur
 Transcript Snippet: I'm going to park aside the artists who actually performed. Uh, Kid Rock, Lee Brice.
 
 Anchored Artifacts: 
-Mentions: N-810, N-945
+Mentions: N-808, N-943
 Related Nodes: N-10510
 Tags: relevance:tangential
 Investigative Direction: Official TPUSA show lineup.
@@ -1632,7 +1632,7 @@ Claim: The host says Mitch Snow faced the full brunt of Andrew Kolvet's and Erik
 Transcript Snippet: You will recall that Mitch Snow, the man who had to deal with the full brunt of Andrew and Erika's PR machine. Um, they were digging up his past, claiming that he was a habitual liar.
 
 Anchored Artifacts: 
-Mentions: N-364, N-14, N-2
+Mentions: N-363, N-14, N-2
 Related Nodes: N-10378
 Tags: relevance:core
 Investigative Direction: Public statements by TPUSA or Kolvet about Snow's credibility and any coordinated posts.
@@ -1648,7 +1648,7 @@ Claim: The host says Mitch Snow has not moved his story and remains certain he s
 Transcript Snippet: He was certain, and I want to be clear, he also hasn't moved his story since, not one inch. He was certain that he saw Erika Kirk on the evening of the 8th at Fort Huachuca leaving a hotel with a Cabot Phillips lookalike.
 
 Anchored Artifacts: A-3313.1
-Mentions: N-364, N-2, N-367
+Mentions: N-363, N-2, N-366
 Related Nodes: N-10367, N-10372, N-10435
 Tags: relevance:core
 Investigative Direction: Hotel and base access records for September 8, 2025 and Snow's original account.
@@ -1664,7 +1664,7 @@ Claim: The host says Snow claims he stumbled upon what appeared to be the conclu
 Transcript Snippet: he claims that he stumbled upon what appeared to him to be the conclusion of a military briefing right before a mission taking place in a borrowed building site for the joint task force, the Southern Border Unit.
 
 Anchored Artifacts: A-3313.1
-Mentions: N-364
+Mentions: N-363
 Related Nodes: N-11283, N-10367, N-10326
 Tags: relevance:core
 Investigative Direction: Fort Huachuca building-use records and JTF Southern Border schedules for September 8-9, 2025.
@@ -1680,7 +1680,7 @@ Claim: The host relays that Snow saw a man wearing a JTF patch, which she thinks
 Transcript Snippet: He saw a guy wearing the JTF thing. I think he said it was JTF 10, the 10th Mount Mountain Brigade.
 
 Anchored Artifacts: A-3313.1
-Mentions: N-364
+Mentions: N-363
 Related Nodes: N-11283, N-10367
 Tags: relevance:core
 Investigative Direction: Snow's detailed account and the unit's official status and location.
@@ -1711,7 +1711,7 @@ Claim: The host says Tracy Martin, introduced last week, has been Erika Kirk's b
 Transcript Snippet: Remember, Tracy Martin is Erika's best friend for over 15 years.
 
 Anchored Artifacts: 
-Mentions: N-549, N-2
+Mentions: N-547, N-2
 Related Nodes: N-10486
 Tags: relevance:context
 Investigative Direction: Public photos, posts and statements showing the friendship and its length.
@@ -1727,7 +1727,7 @@ Claim: The host says Erika and Tracy have done everything together, that Tracy m
 Transcript Snippet: They've done everything together. Tracy says Romanian Angels. Uh Erika modeled for her clothing brands.
 
 Anchored Artifacts: 
-Mentions: N-549, N-2
+Mentions: N-547, N-2
 Related Nodes: N-11165, N-10486
 Tags: relevance:context
 Investigative Direction: Tracy Martin's brand pages and Romanian Angels materials showing Erika's involvement.
@@ -1743,7 +1743,7 @@ Claim: The host says she had trouble learning about Tracy Martin's husband, Thom
 Transcript Snippet: He's got quite a build. He looks kind of military-esque to me, but they are also involved in fitness. They ran gyms.
 
 Anchored Artifacts: 
-Mentions: N-549
+Mentions: N-547
 Related Nodes: N-10497, N-10486
 Tags: relevance:tangential
 Investigative Direction: Business registrations for the Martins' gyms.
@@ -1759,7 +1759,7 @@ Claim: The host relays a tip, which she cautions may not pan out, that a Thomas 
 Transcript Snippet: There is a director of US Border Patrol, also chief of staff uh of the Southern Command in Tucson named Thomas Martin.
 
 Anchored Artifacts: A-3314.1
-Mentions: N-556, N-549
+Mentions: N-554, N-547
 Related Nodes: N-10497
 Tags: relevance:core
 Investigative Direction: Federal personnel directories or CBP press releases naming a Thomas Martin in that role; any link to Tracy Martin's husband.
@@ -1775,7 +1775,7 @@ Claim: The host says this particular Thomas Martin has gone to great lengths to 
 Transcript Snippet: this particular Thomas Martin has gone through great lengths to completely wipe his public presence.
 
 Anchored Artifacts: A-1757.1
-Mentions: N-556
+Mentions: N-554
 Related Nodes: N-10497
 Tags: relevance:core
 Investigative Direction: Web archive snapshots of the LinkedIn profile and other listings, with dates.
@@ -1807,7 +1807,7 @@ Claim: The host reads from the 1985 Times Union article that Southside Presbyter
 Transcript Snippet: Southside Presbyterian Church, two Roman Catholic priests, a nun, and si six church lay workers were all going on trial in Tucson for concealing illegal aliens.
 
 Anchored Artifacts: A-1758.1
-Related Nodes: N-11393, N-556
+Related Nodes: N-11393, N-554
 Tags: relevance:tangential
 Investigative Direction: Full text of the Times Union article of October 21, 1985 and court records of the sanctuary trial.
 
@@ -1822,7 +1822,7 @@ Claim: The host says the Tucson Thomas Martin is not Thomas G. Martin, a Border 
 Transcript Snippet: Martin. That is not the same Thomas Martin that has been in Tucson. We've obviously already investigated the obvious lead there.
 
 Anchored Artifacts: 
-Mentions: N-556, N-946
+Mentions: N-554, N-944
 Related Nodes: N-10497
 Tags: relevance:context
 Investigative Direction: Border Patrol assignment records distinguishing the two men.
@@ -1838,7 +1838,7 @@ Claim: The host asks viewers for tips on the Tucson Thomas Martin, including fro
 Transcript Snippet: Please do send us tips to uh tips uh more tips, pardon, canowens. com because we'd like to know maybe somebody worked with this Thomas Martin.
 
 Anchored Artifacts: A-3315.1
-Mentions: N-556
+Mentions: N-554
 Related Nodes: N-10497
 Tags: relevance:core
 Investigative Direction: Submitted tips on Thomas Martin's career and colleagues.
@@ -1854,7 +1854,7 @@ Claim: The host says this Thomas Martin has lived in the Tucson area for decades
 Transcript Snippet: we know that he's been living in the Tucson area for decades, decades, at least up until 2011. I can find a record of him um working with the Southern Command and that is interesting.
 
 Anchored Artifacts: 
-Mentions: N-556
+Mentions: N-554
 Related Nodes: N-10497
 Tags: relevance:core
 Investigative Direction: The 2011 record the host cites and any later Southern Command roster entries.
@@ -1870,7 +1870,7 @@ Claim: The host says a source who knows these people told her that Tracy Martin'
 Transcript Snippet: This is shocking that Tracy's daughter is actually Erika's assistant. I'll put in allegedly there because we've got to confirm that information, but um the source knows these people.
 
 Anchored Artifacts: A-3316.1
-Mentions: N-549, N-557, N-2
+Mentions: N-547, N-555, N-2
 Related Nodes: N-10498, N-10503
 Tags: relevance:core
 Investigative Direction: TPUSA or Erika Kirk staff listings, event credentials or employment records for the daughter.
@@ -2030,7 +2030,7 @@ Claim: The host says that because Seth Dillon was testifying at the Religious Li
 Transcript Snippet: since he's under oath. When you testify, you're actually under oath to ask him about a variety of topics.
 
 Anchored Artifacts: A-1760.2
-Mentions: N-38, N-558
+Mentions: N-38, N-556
 Related Nodes: N-11188
 Tags: relevance:context
 Investigative Direction: Commission rules on witness oaths and the hearing record.
@@ -2046,7 +2046,7 @@ Claim: The host says Carrie Prejean Bowler pressed Seth Dillon first on his bein
 Transcript Snippet: First and foremost, she presses him because he was also one of the chiefs of Christ as King is anti-Semitic.
 
 Anchored Artifacts: A-1760.2
-Mentions: N-558, N-38
+Mentions: N-556, N-38
 Related Nodes: N-11188
 Tags: relevance:context
 Investigative Direction: Dillon's public statements on the phrase 'Christ is King'.
@@ -2062,7 +2062,7 @@ Claim: In the hearing clip, the witness answers that labeling the phrase 'Christ
 Transcript Snippet: if they just say it Christ is king? Like >> it could be. You have to look at the context.
 
 Anchored Artifacts: A-1760.2
-Mentions: N-38, N-558
+Mentions: N-38, N-556
 Related Nodes: N-11188
 Tags: relevance:context
 Investigative Direction: Official hearing video at the stated moment.
@@ -2078,7 +2078,7 @@ Claim: In the hearing clip, the questioner says Candace Owens' friend Ben fired 
 Transcript Snippet: your friend Ben fired her because she said Christ is king. >> And I never said that what she said was anti-semitic.
 
 Anchored Artifacts: A-1760.2
-Mentions: N-558, N-97, N-3, N-38
+Mentions: N-556, N-97, N-3, N-38
 Related Nodes: N-11188
 Tags: relevance:context
 Investigative Direction: Hearing video and the circumstances of Owens' departure from the Daily Wire.
@@ -2658,7 +2658,7 @@ Claim: Closing the episode, the host asks viewers who know anything about the Tu
 Transcript Snippet: Again, if you know anything about this particular Thomas Martin, not the Thomas G. Martin who works up in Buffalo in New York, but the Thomas Martin that has been working with the Southern Command, please send us an email more tips at candacewowens. com.
 
 Anchored Artifacts: A-3321.1
-Mentions: N-556, N-946
+Mentions: N-554, N-944
 Related Nodes: N-10497
 Tags: relevance:core
 Investigative Direction: Submitted tips on Thomas Martin.
@@ -2672,8 +2672,8 @@ Investigative Direction: Submitted tips on Thomas Martin.
 - **Name uncertainty (A-1750.1, A-1751.1)**: Transcript renders "Nielsen" – most likely Nielsen. Preserved as written. Probable transcription error.
 - **Name uncertainty (A-1751.1)**: Transcript renders "Andrew Kolvet" / "Andrew Kolvet" – most likely Andrew Kolvet. Preserved as written. Probable transcription error.
 - **Artifact verbally referenced but not shown**: The Instagram purge (June 19, 126 posts deleted) and the June 18 White House visit are referenced but not displayed as new artifacts in this episode; treated as historical context only.
-- **Requires human verification**: N-556 Thomas Martin identification requires confirmation against multiple federal personnel directories; the 1985 article attribution and the husband-of-Tracy identification both warrant independent verification.
-- **Requires human verification**: N-557 Tracy's daughter and the Erika assistant claim rely on text message authentication that has not been independently confirmed.
+- **Requires human verification**: N-554 Thomas Martin identification requires confirmation against multiple federal personnel directories; the 1985 article attribution and the husband-of-Tracy identification both warrant independent verification.
+- **Requires human verification**: N-555 Tracy's daughter and the Erika assistant claim rely on text message authentication that has not been independently confirmed.
 
 ---
 
@@ -2684,7 +2684,7 @@ Investigative Direction: Submitted tips on Thomas Martin.
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-549 onward)
+- [x] People nodes use the global people ledger (N-547 onward)
 - [x] Non-person investigation targets use the 1000 series (N-10497 onward)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly or uncertainty flagged

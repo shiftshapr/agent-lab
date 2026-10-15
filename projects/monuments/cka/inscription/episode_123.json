@@ -782,8 +782,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-491",
-      "ref": "N-491",
+      "@id": "N-489",
+      "ref": "N-489",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Named by the host at 00:12:02 in episode 123; first introduced in episode 121.",
@@ -903,8 +903,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-612",
-      "ref": "N-612",
+      "@id": "N-610",
+      "ref": "N-610",
       "name": "Graham Allen",
       "type": "person",
       "description": "Named by the host among those she says tried to delude the public.",
@@ -920,8 +920,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-687",
-      "ref": "N-687",
+      "@id": "N-685",
+      "ref": "N-685",
       "name": "Jon Bray",
       "type": "person",
       "description": "Source of the microphone-rigging theory and glass photos; transcript spells John Bray.",
@@ -1526,7 +1526,7 @@
       "mentions_person_refs": [
         "N-268",
         "N-332",
-        "N-491"
+        "N-489"
       ]
     },
     {
@@ -1707,7 +1707,7 @@
       "investigative_direction": "Obtain John Bray's written analysis and the source photos he supplied.",
       "transcript_snippet": "He was convinced from the very beginning, John Bray, that Charlie's microphone was rigged beneath him and that it subsequently shattered.",
       "mentions_person_refs": [
-        "N-687",
+        "N-685",
         "N-1"
       ]
     },
@@ -1966,7 +1966,7 @@
       "investigative_direction": "Review footage of Cutler entering the vehicle for what he carried.",
       "transcript_snippet": "I did remember that Rick Cutler had something on his back when he was running in there",
       "mentions_person_refs": [
-        "N-491"
+        "N-489"
       ]
     },
     {
@@ -2133,7 +2133,7 @@
       "investigative_direction": "Obtain Bray's photos with metadata and compare against the UVU stage footage.",
       "transcript_snippet": "there is some that actually fell in front of Charlie and John Bray's getting me those photos",
       "mentions_person_refs": [
-        "N-687",
+        "N-685",
         "N-1"
       ]
     },
@@ -2392,7 +2392,7 @@
       "transcript_snippet": "Did you really think Blake Neff, Graham Allen, and Paramount not so tactical? We're going to delude the public into the absurd story that you tried to spin.",
       "mentions_person_refs": [
         "N-161",
-        "N-612"
+        "N-610"
       ]
     },
     {
@@ -2595,7 +2595,7 @@
       "investigative_direction": "Compare Bray's evidence compilation with the prosecution's exhibits.",
       "transcript_snippet": "I think John Bray's theory has infinitely more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.",
       "mentions_person_refs": [
-        "N-687"
+        "N-685"
       ]
     },
     {

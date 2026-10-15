@@ -12,13 +12,13 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-11109
-  - Hole-minted Nodes (reintro-ep051): N-390, N-10382, N-10477
-  - Tip-minted Nodes (reintro-ep051): N-678, N-10962
+  - Hole-minted Nodes (reintro-ep051): N-388, N-10382, N-10477
+  - Tip-minted Nodes (reintro-ep051): N-676, N-10962
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6742–C-6800
   - Tip-minted Nodes (valhalla-split): N-11001
-  - New Nodes Introduced: N-372, N-375, N-10375, N-10376, N-10378, N-10379, N-10380
-  - Reused Nodes Appearing: N-2, N-5, N-15, N-36, N-38, N-49, N-82, N-97, N-192, N-219, N-272, N-366, N-367, N-713, N-10001, N-10026, N-10116, N-10134, N-10282, N-10300, N-10305, N-10326, N-10327, N-10333, N-10340, N-10341, N-10342, N-10349, N-10367, N-10371, N-10372, N-10373, N-10416, N-10447, N-10643, N-10377, N-10900, N-130, N-10446, N-10385
+  - New Nodes Introduced: N-373, N-10375, N-10376, N-10378, N-10379, N-10380
+  - Reused Nodes Appearing: N-2, N-5, N-15, N-36, N-38, N-49, N-82, N-97, N-192, N-219, N-272, N-365, N-366, N-711, N-10001, N-10026, N-10116, N-10134, N-10282, N-10300, N-10305, N-10326, N-10327, N-10333, N-10340, N-10341, N-10342, N-10349, N-10367, N-10371, N-10372, N-10373, N-10416, N-10447, N-10643, N-10377, N-10900, N-130, N-10446, N-10385
   - Tip-minted Nodes (wave2): N-10899
   - (see registers)
 
@@ -29,9 +29,9 @@
 
 Episode 51, the 2026 season opener of the Bride of Charlie series (Candace Ep 284, uploaded 2026-01-05), functions as a status update and escalation. The host recaps three off-air developments: (1) the public reaction to AmFest including a tent recreation of the site where Charlie Kirk was killed; (2) the Daily Wire's re-release of her old 2021 joining trailer on her social channels; and (3) the Fort Huachuca/Mitch Snow saga, where coordinated efforts to discredit the witness are alleged.
 
-The evidentiary material consists of nine distinct clip families: three Tim Dillon comedy segments, a CBS reporter description of the AmFest tent recreation, the Bari Weiss / Hunter Cosgrove CBS moment, an October 2024 Charlie Kirk interview with Justice Smith on MK Ultra, an Alex Jones InfoWars declaration of war against Candace, a Paramount Tactical Valhalla livestream that accidentally exposes instructions from Andrew Kolbet, an interview with Mitch Snow's son that inadvertently confirms Fort Huachuca access protocols, and a 2021 Daily Wire trailer re-released on Candace's social channels. Two top fan comments from the prior episode are read aloud as supporting artifacts.
+The evidentiary material consists of nine distinct clip families: three Tim Dillon comedy segments, a CBS reporter description of the AmFest tent recreation, the Bari Weiss / Hunter Kozak CBS moment, an October 2024 Charlie Kirk interview with Justice Smith on MK Ultra, an Alex Jones InfoWars declaration of war against Candace, a Paramount Tactical Valhalla livestream that accidentally exposes instructions from Andrew Kolbet, an interview with Mitch Snow's son that inadvertently confirms Fort Huachuca access protocols, and a 2021 Daily Wire trailer re-released on Candace's social channels. Two top fan comments from the prior episode are read aloud as supporting artifacts.
 
-Structurally, the episode advances several investigative threads: the approval chain for the AmFest tent recreation; the alleged coordination by Andrew Kolbet with attackers of Mitch Snow; Erica Kirk's alleged presence at Fort Huachuca on September 8; and the host's declaration that she will "sentence" Andrew Kolbet "to truth." Future episodes are teased to address Cabot Phillips, Mark Amaday, and Brian Harpole.
+Structurally, the episode advances several investigative threads: the approval chain for the AmFest tent recreation; the alleged coordination by Andrew Kolbet with attackers of Mitch Snow; Erica Kirk's alleged presence at Fort Huachuca on September 8; and the host's declaration that she will "sentence" Andrew Kolbet "to truth." Future episodes are teased to address Cabot Phillips, Mark Amodei, and Brian Harpole.
 
 ---
 
@@ -81,9 +81,9 @@ Confidence Level: High
 
 *Related: C-1991, N-10376*
 
-**A-1570** Bari Weiss CBS Hunter Cosgrove Clip
+**A-1570** Bari Weiss CBS Hunter Kozak Clip
 
-**A-1570.1** Bari Weiss introduces Hunter Cosgrove to ask Erica Kirk a question on the CBS stage, noting he was "the last person that Charlie ever spoke to"
+**A-1570.1** Bari Weiss introduces Hunter Kozak to ask Erica Kirk a question on the CBS stage, noting he was "the last person that Charlie ever spoke to"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -91,7 +91,7 @@ Video Timestamp: 00:17:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1994, N-280, N-372, N-2, N-10377*
+*Related: C-1994, N-280, N-328, N-2, N-10377*
 
 **A-1571** Charlie Kirk / Justice Smith MK Ultra Interview Clip
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:35:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1995, N-1, N-375*
+*Related: C-1995, N-1, N-373*
 
 **A-1572** Alex Jones InfoWars Declaration Clip
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:45:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1998, N-364, N-268, N-10375*
+*Related: C-1998, N-363, N-268, N-10375*
 
 **A-1575** Daily Wire Re-released Trailer (2021)
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:38:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6760, N-3, N-364*
+*Related: C-6760, N-3, N-363*
 
 ---
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:44:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6767, C-6768, N-3, N-364, N-10327*
+*Related: C-6767, C-6768, N-3, N-363, N-10327*
 
 ---
 
@@ -239,7 +239,7 @@ Confidence Level: Low
 
 **N-1** Charlie Kirk
 
-Subject of artifact-backed claims regarding AmFest tent recreation, MK Ultra interview, and CBS Hunter Cosgrove moment.
+Subject of artifact-backed claims regarding AmFest tent recreation, MK Ultra interview, and CBS Hunter Kozak moment.
 
 Evidence Count: 4
 Claim Count: 4
@@ -272,7 +272,7 @@ Investigative Pressure: Low
 
 **N-280** Bari Weiss
 
-On-camera CBS interviewer who introduced Hunter Cosgrove to Erica Kirk at the AmFest / CBS stage event.
+On-camera CBS interviewer who introduced Hunter Kozak to Erica Kirk at the AmFest / CBS stage event.
 
 Evidence Count: 1
 Claim Count: 1
@@ -281,7 +281,7 @@ Investigative Pressure: Medium
 
 *Related: C-1994, A-1570.1*
 
-**N-372** Hunter Cosgrove (UVU student)
+**N-328** Hunter Kozak
 
 Utah Valley University student identified by Bari Weiss as the last person Charlie Kirk spoke to before being shot; name also rendered "Hunter Kozak" in host narration.
 
@@ -303,7 +303,7 @@ Investigative Pressure: Medium
 
 *Related: C-1996, A-1572.1*
 
-**N-364** Mitch Snow
+**N-363** Mitch Snow
 
 Subject and source of Fort Huachuca sightings testimony; his son's interview (A-1574) provides partial corroboration.
 
@@ -348,7 +348,7 @@ Investigative Pressure: High
 
 *Related: A-1574.1, N-10375*
 
-**N-375** Justice Smith
+**N-373** Justice Smith
 
 Interviewer in the October 2024 Charlie Kirk MK Ultra clip.
 
@@ -382,7 +382,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1998, C-2001, A-1574.1, A-1576.2, N-364, N-268*
+*Related: C-1998, C-2001, A-1574.1, A-1576.2, N-363, N-268*
 
 **N-10376** AmFest Tent Recreation Approval Chain
 
@@ -395,7 +395,7 @@ Investigative Pressure: High
 
 *Related: C-1989, C-1991, C-2000, A-1568.1, A-1569.1, A-1576.1, N-1*
 
-**N-10377** Hunter Cosgrove / Kozak Identity Discrepancy
+**N-10377** Hunter Kozak / Kozak Identity Discrepancy
 
 Persistent target verifying the correct spelling and identity of the UVU student introduced by Bari Weiss.
 
@@ -404,7 +404,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1994, A-1570.1, N-372*
+*Related: C-1994, A-1570.1, N-328*
 
 **N-10378** Andrew Kolbet Coordination with Attackers of Mitch Snow
 
@@ -536,15 +536,15 @@ Dan Flood; the host says she has also reached out to him.
 
 ---
 
-**N-366** Mark Amodei
+**N-365** Mark Amodei
 
-Mark Amodei (spelled Mark Amaday in the transcript); congressman the host now says Mitch did not see.
+Mark Amodei (spelled Mark Amodei in the transcript); congressman the host now says Mitch did not see.
 
 *Related: C-6793, C-6794*
 
 ---
 
-**N-367** Cabot Phillips
+**N-366** Cabot Phillips
 
 Cabot Phillips; person Mitch's descriptions were matched to.
 
@@ -560,7 +560,7 @@ Ian Carroll; the host says he called her to urge a statement against Mitch.
 
 ---
 
-**N-390** Maddie (Daily Wire host)
+**N-388** Maddie (Daily Wire host)
 
 Maddie (Daily Wire host); the host calls her Madison Brandford and says the Daily Wire is launching a show with her.
 
@@ -568,7 +568,7 @@ Maddie (Daily Wire host); the host calls her Madison Brandford and says the Dail
 
 ---
 
-**N-678** Nicolás Maduro
+**N-676** Nicolás Maduro
 
 Nicolas Maduro; subject of a viewer comment and the host's remarks on the operation.
 
@@ -576,7 +576,7 @@ Nicolas Maduro; subject of a viewer comment and the host's remarks on the operat
 
 ---
 
-**N-713** John F. Kennedy
+**N-711** John F. Kennedy
 
 John F. Kennedy; named in the Charlie Kirk clip.
 
@@ -865,14 +865,14 @@ Mentions: N-279
 
 Investigative Direction: Verify the segment against the source recording; assess whether the host's framing of this clip as investigative commentary is supported by the artifact.
 
-**C-1994** Bari Weiss clip introduces Hunter Cosgrove as the last person Charlie Kirk spoke to before his death, brought on stage to ask Erica Kirk a question
+**C-1994** Bari Weiss Clip Introduces Hunter Kozak as the Last Person Charlie Kirk Spoke To
 
 Claim Timestamp: 00:17:33
 
-Claim: In a Bari Weiss CBS segment clip the host plays, Bari Weiss says that Hunter Cosgrove was the last person Charlie Kirk ever spoke to and brings him on stage to ask Erica Kirk a question.
+Claim: In a Bari Weiss CBS segment clip the host plays, Bari Weiss says that Hunter Kozak was the last person Charlie Kirk ever spoke to and that he is there to ask Erika Kirk a question.
 
 Anchored Artifacts: A-1570.1
-Mentions: N-2, N-280, N-372, N-1
+Mentions: N-2, N-280, N-328, N-1
 
 Related Nodes: N-10377
 
@@ -885,7 +885,7 @@ Claim Timestamp: 00:35:58
 Claim: An October 2024 interview clip played on air shows Charlie Kirk telling Justice Smith that there is no evidence MK Ultra ended, that Operation Mockingbird 2 is in effect, and that the CIA is actively involved in domestic mind manipulation.
 
 Anchored Artifacts: A-1571.1
-Mentions: N-1, N-375
+Mentions: N-1, N-373
 
 
 Investigative Direction: Verify the clip against the original October 2024 interview recording; identify the publication or platform where the original interview was published.
@@ -897,7 +897,7 @@ Claim Timestamp: 00:40:44
 Claim: An Alex Jones InfoWars segment played on air declares war on Candace Owens in connection with her coverage of Mitch Snow and labels her a "globalist agent."
 
 Anchored Artifacts: A-1572.1
-Mentions: N-93, N-3, N-364
+Mentions: N-93, N-3, N-363
 
 
 Investigative Direction: Identify the original InfoWars episode date and timestamp; verify the exact wording and the broader context of Jones's statement.
@@ -919,10 +919,10 @@ Investigative Direction: Obtain the full unedited Paramount Tactical Valhalla st
 
 Claim Timestamp: 00:45:37
 
-Claim: An interview clip played on air shows Mitch Snow's adult son stating he was contacted on September 9 by military police asking about Mitch Snow as the listed emergency contact, and describing Fort Huachuca access protocols and amenities consistent with Mitch Snow's account of being on post.
+Claim: In an interview clip the host plays, a man the host identifies as Mitch Snow's adult son says Mitch would not be let into an operations center on any post but could go to the commissary and PX, and that he was called on September 9th by people asking if he knew Mitch Snow, who listed him as number one emergency contact.
 
 Anchored Artifacts: A-1574.1
-Mentions: N-268, N-364
+Mentions: N-363
 
 Related Nodes: N-10375
 
@@ -967,14 +967,14 @@ Related Nodes: N-10375, N-10899, N-11001
 
 Investigative Direction: Verify the comment against the original thread and consider the commenter's stated credentials in assessing the credibility of the criticism.
 
-**C-2002** Host views Paramount Tactical Valhalla clip as exposing Andrew Kolbet's coordination of attacks on Mitch Snow
+**C-2002** Host Views Paramount Tactical Valhalla Clip as Exposing Andrew Kolvet's Coordination of Attacks on Mitch Snow
 
 Claim Timestamp: 00:49:10
 
 Claim: The host asserts on air that the Paramount Tactical Valhalla stream's accidental exposure of Andrew Kolvet's written instructions confirms coordination between Andrew Kolbet and the parties attacking Mitch Snow, undermining the prior "Andrew went rogue" narrative.
 
 Anchored Artifacts: A-1573.1
-Mentions: N-14, N-364
+Mentions: N-14, N-363
 
 Related Nodes: N-10378, N-10899
 
@@ -993,7 +993,7 @@ Transcript Snippet: And no, of course, it did not happen because I said it could
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10379, N-10900
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain YouTube and Instagram channel ownership and access logs to see who reactivated the accounts and when, and ask the Daily Wire to state whether it had permission.
 
 ---
@@ -1066,29 +1066,29 @@ Investigative Direction: Ask TPUSA what Erika Kirk knew about the tent display a
 
 Claim Timestamp: 00:15:22
 
-Claim: The host says the worst part of the Bari Weiss interview was CBS's decision to bring Hunter Kozak (Cosgrove) on stage to ask Erika Kirk a question, and says she wants to know who approved the idea.
+Claim: The host says the most effed up part of the Bari Weiss interview was CBS's decision to bring Hunter Kozak to ask Erika Kirk a question, and says she wants to know who approved the idea.
 
 Transcript Snippet: the most effed up part about that interview was CBS's decision to bring Hunter Kozak to ask Erika a question.
 
 Anchored Artifacts: A-1570.1
-Mentions: N-372, N-280, N-2, N-3
+Mentions: N-328, N-280, N-2, N-3
 Related Nodes: N-10349, N-10377, N-10282
 Supports: C-1994
 Tags: relevance:core
-Investigative Direction: Ask CBS and the event producers who proposed and approved the Hunter Cosgrove segment and obtain the run-of-show for the interview.
+Investigative Direction: Ask CBS and the event producers who proposed and approved the Hunter Kozak segment and obtain the run-of-show for the interview.
 
 ---
 
-**C-6748** Host Says Cosgrove Was Asking Kirk a Question About Transgenderism When Kirk Was Shot
+**C-6748** Host Says Kozak Asked Kirk a Question About Transgenderism Before Kirk Died
 
 Claim Timestamp: 00:16:32
 
-Claim: The host says Hunter Cosgrove was the last person on Earth to ask Charlie Kirk a question, describing it as a question about transgenderism, before Kirk died.
+Claim: The host says Hunter Kozak was the last person on Earth who tried to stress out Charlie Kirk, asking him a stupid question about transgenderism, before Kirk died.
 
 Transcript Snippet: he's the last person on Earth that tried to stress out Charlie Kirk, right? Asking him a stupid question about transgenderism, and then Charlie died.
 
 Anchored Artifacts: A-1570.1
-Mentions: N-372, N-1, N-3
+Mentions: N-328, N-1, N-3
 Related Nodes: N-10377
 Tags: relevance:core
 Investigative Direction: Review UVU event video of the question-and-answer exchange to confirm the topic of Cosgrove's question and its timing relative to the shot.
@@ -1105,7 +1105,7 @@ Transcript Snippet: has successfully secured a conviction against 11 people in F
 
 Anchored Artifacts: 
 Mentions: N-82, N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check French court records and news reports for the case, the date of the verdict and the number of defendants convicted.
 
 ---
@@ -1120,7 +1120,7 @@ Transcript Snippet: Brigitte Macron who is quite literally born a male and who q
 
 Anchored Artifacts: 
 Mentions: N-82, N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review the French court judgments and public records in the cyberbullying case for how they treat Mrs. Macron's sex and the relationship with her former student.
 
 ---
@@ -1136,7 +1136,7 @@ Transcript Snippet: You should not then have them follow you to events, calling 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10416, N-10900
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the events and organizers the host says were contacted and obtain any communications or filings by the Daily Wire.
 
 ---
@@ -1150,10 +1150,10 @@ Claim: The host says the reason the Daily Wire is doing this on her channel is t
 Transcript Snippet: the reason they're doing this and doing it on my channel is because they are trying to hard launch a young woman named Madison Brandford.
 
 Anchored Artifacts: A-1575.1
-Mentions: N-390, N-3
+Mentions: N-388, N-3
 Related Nodes: N-10379, N-10385, N-10900
 Supports: C-1999
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Look for a Daily Wire announcement of the Brandford show and check its launch date against the account reactivation.
 
 ---
@@ -1167,9 +1167,9 @@ Claim: The host says Madison Brandford is apparently a Daily Wire intern and tha
 Transcript Snippet: she's apparently an intern at the Daily Wire and she's they're basically dropping like an an iCarly type Nickelodeon feel show where she's going to make fun of me and the show is entitled In the Know
 
 Anchored Artifacts: 
-Mentions: N-390, N-3
+Mentions: N-388, N-3
 Related Nodes: N-10385, N-10900
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Confirm Brandford's role and the show's title and format from Daily Wire publicity or the channel itself once it airs.
 
 ---
@@ -1183,7 +1183,7 @@ Claim: In the October 2024 clip the host plays, Charlie Kirk says there is a sup
 Transcript Snippet: we have a super government that exists above Congress of the Department of Defense, which is the Pentagon, the Central Intelligence Agency
 
 Anchored Artifacts: A-1571.1
-Mentions: N-1, N-375
+Mentions: N-1, N-373
 Related Nodes: N-10001, N-10116
 Supports: C-1995
 Tags: relevance:context
@@ -1200,7 +1200,7 @@ Claim: In the clip, Charlie Kirk says Trump was the first candidate since JFK to
 Transcript Snippet: Because Trump was the first candidate since JFK to actually want to declare war on the intel agencies and bring the power back to the sovereign. And both him and uh Kennedy got shot.
 
 Anchored Artifacts: A-1571.1
-Mentions: N-1, N-5, N-713
+Mentions: N-1, N-5, N-711
 Tags: relevance:context
 Investigative Direction: Verify the passage against the original interview recording.
 
@@ -1215,7 +1215,7 @@ Claim: The host recounts that she was contacted by a man who was very certain he
 Transcript Snippet: I was contacted by someone claiming that he was very certain that he saw two people at Fort Huachuca in the days leading up to Charlie Kirk's assassination.
 
 Anchored Artifacts: 
-Mentions: N-364, N-268, N-2, N-1, N-3
+Mentions: N-363, N-268, N-2, N-1, N-3
 Related Nodes: N-10375, N-10367
 Supports: C-1971
 Tags: relevance:core
@@ -1232,7 +1232,7 @@ Claim: The host says Mitch saw Erika Kirk on the 8th leaving the Candlewood Inn 
 Transcript Snippet: he saw, to be clear, Erika Kirk on the 8th leaving the Candlewood um Inn Hotel on the base on Fort Huachuca.
 
 Anchored Artifacts: 
-Mentions: N-364, N-2, N-367
+Mentions: N-363, N-2, N-366
 Related Nodes: N-10375, N-10333, N-10477
 Supports: C-1973
 Tags: relevance:core
@@ -1249,7 +1249,7 @@ Claim: The host says Mitch is basically 100 percent certain he saw Brian Harpole
 Transcript Snippet: basically 100% certain he saw Brian Harpool at this top brass meeting that took place on the morning of the 9th
 
 Anchored Artifacts: 
-Mentions: N-364, N-268
+Mentions: N-363, N-268
 Related Nodes: N-10375, N-10373, N-10326
 Supports: C-1974, C-5395
 Tags: relevance:core
@@ -1266,7 +1266,7 @@ Claim: The host says Mitch saw a person resembling Cabot Phillips, a special-for
 Transcript Snippet: he sees that Cab Phillips looking special force type person the next day with Brian Harpool
 
 Anchored Artifacts: 
-Mentions: N-364, N-367, N-268
+Mentions: N-363, N-366, N-268
 Related Nodes: N-10372, N-10373
 Supports: C-1985
 Tags: relevance:core
@@ -1283,7 +1283,7 @@ Claim: The host says Mitch sent her all of the receipts to back up his account o
 Transcript Snippet: He sent me all of the receipts to back this up.
 
 Anchored Artifacts: A-2836.1
-Mentions: N-364, N-3
+Mentions: N-363, N-3
 Related Nodes: N-10375
 Supports: C-1987
 Tags: relevance:core
@@ -1300,7 +1300,7 @@ Claim: The host stresses that Mitch did not see Erika Kirk at the meeting on the
 Transcript Snippet: he did not see Erika at the meeting on the morning of the 9th. He saw her the night before, allegedly, obviously.
 
 Anchored Artifacts: 
-Mentions: N-364, N-2
+Mentions: N-363, N-2
 Related Nodes: N-10375, N-10477
 Qualifies: C-6757
 Tags: relevance:core
@@ -1317,7 +1317,7 @@ Claim: The host says Alex Jones and a couple of obscure YouTubers began an aggre
 Transcript Snippet: Quite literally, Alex Jones went on to his show and declared war on me. I've never said a bad word about Alex Jones ever.
 
 Anchored Artifacts: A-1572.1
-Mentions: N-93, N-3, N-364
+Mentions: N-93, N-3, N-363
 Related Nodes: N-10378
 Supports: C-1996
 Tags: relevance:context
@@ -1329,12 +1329,12 @@ Investigative Direction: Review the host's past coverage of Alex Jones and the d
 
 Claim Timestamp: 00:41:37
 
-Claim: The host says the Paramount Tactical account in Valhalla called Mitch and pretended to be a brother in arms, suggesting he could be funded by foreign agents.
+Claim: The host says the Paramount Tactical account in Valhalla called Mitch and pretended to be a brother, like a brother in arms, in an exchange she dramatizes.
 
 Transcript Snippet: So, you had this Paramount Tactical account in Valhalla who called up Mitch and pretended to be a brother, like a brother in arms.
 
 Anchored Artifacts: 
-Mentions: N-10899, N-364
+Mentions: N-363
 Related Nodes: N-10378
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's account and any recording of the call; ask Paramount Tactical to state what was said.
@@ -1350,7 +1350,7 @@ Claim: The host says Ian Carroll called her at the same time and urged her to co
 Transcript Snippet: they had Ian Carroll calling me and Ian Carroll was being a friend and he's hey, you should get on the phone with them and you should come out against Mitch because Mitch is a fraud and Mitch was never in the military
 
 Anchored Artifacts: 
-Mentions: N-130, N-364, N-3
+Mentions: N-130, N-363, N-3
 Related Nodes: N-10378
 Tags: relevance:core
 Investigative Direction: Ask Ian Carroll to confirm or deny the call and its content; obtain any call logs or messages from the host.
@@ -1377,12 +1377,12 @@ Investigative Direction: Identify the third party and any legal correspondence; 
 
 Claim Timestamp: 00:43:06
 
-Claim: The host says the critics first said Mitch never served, then admitted he was in the military but said he was ashamed of a past in which he abused women, and brought those women onto their platform.
+Claim: The host says the critics first said Mitch never served, then had to admit he was in the military, but said he was a really bad man who had abused women in the past, and brought those women onto their platform.
 
 Transcript Snippet: He was never in the military and then they had to admit that no, actually Mitch was in the military, but they were ashamed because he was a really bad dude who abused women in the past
 
 Anchored Artifacts: 
-Mentions: N-364
+Mentions: N-363
 Related Nodes: N-10378
 Tags: relevance:core
 Investigative Direction: Obtain Mitch Snow's military service record and the streams in which his past was discussed.
@@ -1398,7 +1398,7 @@ Claim: The host says she dropped the military police reports, the actual inciden
 Transcript Snippet: So, I then dropped the military police reports, the actual incident reports from what happened on the base on that day, which proves that Mitch told the truth.
 
 Anchored Artifacts: A-2837.1
-Mentions: N-364, N-3
+Mentions: N-363, N-3
 Related Nodes: N-10327, N-10375
 Supports: C-1889
 Tags: relevance:core
@@ -1415,7 +1415,7 @@ Claim: The host says the critics then pivoted and said the police report was fak
 Transcript Snippet: So, then they pivoted and they said the police report was fake. It There were some points of it looked fake because it had typos and this didn't look like a real driver's license number for what driver driver's license for Washington state.
 
 Anchored Artifacts: A-2837.1
-Mentions: N-364
+Mentions: N-363
 Related Nodes: N-10327
 Tags: relevance:core
 Investigative Direction: Compare the report's license number format with Washington state license formats and request the official report.
@@ -1431,7 +1431,7 @@ Claim: The host says critics brought on Mitch's adult son, who she says has not 
 Transcript Snippet: His son, who he has not spoken to since his son was 2 years old and who is now an adult man, they were going to bring his son onto the show to speak about about Mitch
 
 Anchored Artifacts: A-1574.1
-Mentions: N-364
+Mentions: N-363
 Related Nodes: N-10375
 Supports: C-1998
 Tags: relevance:core
@@ -1448,7 +1448,7 @@ Claim: In the clip, the speaker says Mitch lacks a secret clearance and that if 
 Transcript Snippet: Or if he does walk into the joint task force staff duty, he might end up detained and outside getting the canines called on him as per this report, which again, I don't even know if this report is real or not.
 
 Anchored Artifacts: A-1574.1
-Mentions: N-364
+Mentions: N-363
 Related Nodes: N-10375, N-10327
 Tags: relevance:core
 Investigative Direction: Compare this description with the incident report and Mitch's own account of the canine and bomb-threat encounter.
@@ -1464,7 +1464,7 @@ Claim: The host says that, on the evidence of the son's call, everything Mitch t
 Transcript Snippet: everything he told us happened that morning on the 9th happened
 
 Anchored Artifacts: A-1574.1
-Mentions: N-364
+Mentions: N-363
 Related Nodes: N-10375
 Supports: C-1971
 Tags: relevance:core
@@ -1481,7 +1481,7 @@ Claim: The host says critics hosted a stream to declare that Erika Kirk had an a
 Transcript Snippet: hosting a stream to rather gloriously and definitively declare that Erika had an airtight alibi on the 8th or at least they were confused about days and didn't realize that we were speaking about the 8th
 
 Anchored Artifacts: A-1573.1
-Mentions: N-2, N-10899
+Mentions: N-2
 Related Nodes: N-10380, N-10477
 Tags: relevance:core
 Investigative Direction: Watch the full stream and compare the dates in the alibi material with the dates in Mitch's allegation.
@@ -1543,7 +1543,7 @@ Investigative Direction: Obtain Jones's statement and any messages between Jones
 
 Claim Timestamp: 00:50:03
 
-Claim: The host says nobody accused Erika Kirk of being anywhere on the 9th, yet the material shows her with her kids on the morning of the 9th, which ran counter to her meeting with Erika.
+Claim: The host says nobody accused Erika Kirk of being anywhere on the 9th, yet the material shows her with her kids on the morning of the 9th, which to the host ran counter to her meeting with Erika.
 
 Transcript Snippet: Nobody accused Erika of being anywhere on the 9th, but yet we see her finger in there. We see that she is showing uh that she's with her kids on the morning of the 9th.
 
@@ -1575,7 +1575,7 @@ Investigative Direction: Compare TPUSA's statement with Kolvet's public posts; a
 
 Claim Timestamp: 00:50:58
 
-Claim: The host says TPUSA conceded that Kolvet did receive Charlie's text the night before, in which Charlie was worried about being killed, and that Erika did not know because she was looking in his iMessages.
+Claim: The host says TPUSA conceded that Kolvet did receive Charlie's text the night before, in which Charlie was worried about being killed, and that Erika did not know this information and was looking in his iMessages.
 
 Transcript Snippet: Andrew Kolvet had did receive that text from Charlie the night before, and Charlie was worried that he was going to be killed. But, you know, Erika didn't know this information
 
@@ -1646,7 +1646,7 @@ Claim: The host says that when she sat down with Erika Kirk, Erika conceded that
 Transcript Snippet: Well, the Hampton's debacle came up when I sat down with Erika and she conceded that she was there.
 
 Anchored Artifacts: 
-Mentions: N-2, N-3, N-38, N-49
+Mentions: N-2, N-3
 Related Nodes: N-10134, N-10446
 Supports: C-5011
 Tags: relevance:core
@@ -1775,12 +1775,12 @@ Investigative Direction: Ask Streiff and TPUSA to confirm the call and the exist
 
 Claim Timestamp: 00:57:21
 
-Claim: The host says Streiff told her he would send a message from Erika as her alibi, a conversation between Erika and Charlie about making dinner in the time frame Mitch says he saw her at Fort Huachuca, and that she had not demanded an alibi.
+Claim: The host says Streiff told her he would send a message from Erika as her alibi, a conversation between Erika and Charlie about making dinner in the time frame when Mitch believes he saw her at Fort Huachuca, and that she never demanded an alibi again.
 
 Transcript Snippet: this was a conversation between her and uh Charlie about dinner, about them making dinner during that time frame when Mitch believes that he saw her on Fort Huachuca
 
 Anchored Artifacts: A-2838.1
-Mentions: N-15, N-2, N-1, N-364
+Mentions: N-15, N-2, N-1, N-363
 Related Nodes: N-10477, N-10380
 Tags: relevance:core
 Investigative Direction: Obtain the message with metadata unredacted and check its timestamp against Mitch's allegation.
@@ -1819,16 +1819,16 @@ Investigative Direction: Ask TPUSA to supply the unredacted alibi message and it
 
 ---
 
-**C-6793** Host Says She Gave Mitch Faces to Identify Cabot Phillips and Mark Amaday After Descriptions
+**C-6793** Host Says She Gave Mitch Faces to Identify Cabot Phillips and Mark Amodei After Descriptions
 
 Claim Timestamp: 00:58:23
 
-Claim: The host says Mitch gave descriptions of the people he saw and she then sent him faces; she was not contacted about Cabot Phillips or Mark Amaday initially.
+Claim: The host says Mitch gave descriptions of the people he saw and she then sent him faces; she was not contacted about Cabot Phillips or Mark Amodei initially.
 
 Transcript Snippet: I was not contacted about them initially. He gave me descriptions of the people that he saw and I started sending him faces.
 
 Anchored Artifacts: 
-Mentions: N-364, N-367, N-366, N-3
+Mentions: N-363, N-366, N-365, N-3
 Related Nodes: N-10372, N-10382
 Supports: C-5400
 Tags: relevance:core
@@ -1836,16 +1836,16 @@ Investigative Direction: Obtain the photo lineup sets and how many faces were sh
 
 ---
 
-**C-6794** Host Says the Congressman Mitch Saw Was Not Mark Amaday
+**C-6794** Host Says the Congressman Mitch Saw Was Not Mark Amodei
 
 Claim Timestamp: 00:59:05
 
-Claim: The host says she thinks she knows who the congressman Mitch saw was and that it was not Mark Amaday (Mark Amodei).
+Claim: The host says she thinks she knows who the congressman Mitch saw was and that it was not Mark Amodei.
 
-Transcript Snippet: I do think that I do know who he saw that was a congressman and it was not Mark Amaday.
+Transcript Snippet: I do think that I do know who he saw that was a congressman and it was not Mark Amodei.
 
 Anchored Artifacts: 
-Mentions: N-3, N-366, N-364
+Mentions: N-3, N-365, N-363
 Related Nodes: N-10371, N-10382
 Qualifies: C-1975
 Tags: relevance:core
@@ -1862,9 +1862,9 @@ Claim: The host says Israel openly said the Maduro operation was good for it and
 Transcript Snippet: Israel is always good to come right out and say, "Yay, this was good for us." Netanyahu was calling him anti-Semitic.
 
 Anchored Artifacts: 
-Mentions: N-36, N-678, N-3
+Mentions: N-36, N-676, N-3
 Related Nodes: N-10962, N-10026
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check Netanyahu's statements about Maduro and Israeli government comments on the operation.
 
 ---
@@ -1937,9 +1937,9 @@ Investigative Direction: Ask Harpole and Flood for proof of their location on th
 
 Claim Timestamp: 01:08:44
 
-Claim: The host says that, at this stage, she believes Brian Harpole was at the meeting and otherwise cannot make sense of Kolvet's actions.
+Claim: The host says that, at this stage, she believes it was Brian Harpole whom Mitch saw at Fort Huachuca on the morning of the 9th and otherwise cannot make sense of Kolvet's actions.
 
-Transcript Snippet: I feel like it was. I feel at this stage that it was. I otherwise cannot make sense of Andrew Colberg's actions.
+Transcript Snippet: I feel like it was. I feel at this stage that it was. I otherwise cannot make sense of Andrew Kolvet's actions.
 
 Anchored Artifacts: 
 Mentions: N-3, N-268, N-14

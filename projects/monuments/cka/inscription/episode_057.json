@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-10413",
-            "N-458"
+            "N-456"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -53,7 +53,7 @@
           ],
           "related_nodes": [
             "N-10413",
-            "N-458"
+            "N-456"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -179,7 +179,7 @@
             "C-2103"
           ],
           "related_nodes": [
-            "N-459"
+            "N-457"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -247,7 +247,7 @@
             "C-2106"
           ],
           "related_nodes": [
-            "N-461"
+            "N-459"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -265,7 +265,7 @@
             "C-2107"
           ],
           "related_nodes": [
-            "N-462"
+            "N-460"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -400,8 +400,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-458",
-      "ref": "N-458",
+      "@id": "N-456",
+      "ref": "N-456",
       "name": "Bill Wood",
       "type": "person",
       "description": "Former Navy Seal with high-level clearance; Project Camelot interviewee whose testimony about Project Looking Glass is the central source in the Be Inspired clip.",
@@ -422,8 +422,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-459",
-      "ref": "N-459",
+      "@id": "N-457",
+      "ref": "N-457",
       "name": "Mike Pompeo",
       "type": "person",
       "description": "Former US Secretary of State / CIA director; presents in A-1632.1 advocating framing of Gaza history in textbooks to favor Israeli narrative.",
@@ -441,8 +441,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-460",
-      "ref": "N-460",
+      "@id": "N-458",
+      "ref": "N-458",
       "name": "Bill Montgomery",
       "type": "person",
       "description": "Referenced by host as deceased military figure; alleged to have co-founded Turning Point USA with Charlie Kirk and to have orchestrated Charlie's early \"Schaefer security.\"",
@@ -456,8 +456,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-461",
-      "ref": "N-461",
+      "@id": "N-459",
+      "ref": "N-459",
       "name": "Carly",
       "type": "person",
       "description": "Commenter (previous episode); daughter of an MP who allegedly investigated pentagrams on a US military base in 1982.",
@@ -475,8 +475,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-462",
-      "ref": "N-462",
+      "@id": "N-460",
+      "ref": "N-460",
       "name": "Marzy",
       "type": "person",
       "description": "Commenter (today's episode); raises ICE/IDF training claim that the host then discusses.",
@@ -515,7 +515,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-458"
+        "N-456"
       ]
     },
     {
@@ -812,8 +812,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-525",
-      "ref": "N-525",
+      "@id": "N-523",
+      "ref": "N-523",
       "name": "Peter Thiel",
       "type": "person",
       "description": "Named by the host (as 'Peter Thiel') as giving interviews about the Antichrist.",
@@ -829,8 +829,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-536",
-      "ref": "N-536",
+      "@id": "N-534",
+      "ref": "N-534",
       "name": "Julian Assange",
       "type": "person",
       "description": "Named in the Pompeo and CIA discussion.",
@@ -1011,8 +1011,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-722",
-      "ref": "N-722",
+      "@id": "N-720",
+      "ref": "N-720",
       "name": "Kathy O'Brien",
       "type": "person",
       "description": "First named by the host at 00:51:51 in episode 57, reading a comment recommending her and her book Transformation of America.",
@@ -1204,7 +1204,7 @@
       "claim_timestamp": "00:13:05",
       "investigative_direction": "Locate the original Project Camelot interview with Bill Wood; check declassified military/CIA records and FOIA releases for any program matching the description.",
       "mentions_person_refs": [
-        "N-458"
+        "N-456"
       ]
     },
     {
@@ -1309,7 +1309,7 @@
       "claim_timestamp": "00:43:34",
       "investigative_direction": "Identify the original Pompeo interview (publication, host, date) and watch in full context; verify whether the quoted framing matches the full statement; check whether accompanying applause is from a single event or edited.",
       "mentions_person_refs": [
-        "N-459"
+        "N-457"
       ]
     },
     {
@@ -1365,7 +1365,7 @@
       "claim_timestamp": "00:47:28",
       "investigative_direction": "Identify the military base, the \"Lieutenant Aquino\" referenced, and whether any contemporaneous investigation records (1982-era) can corroborate the pentagram and child-abuse investigation claims.",
       "mentions_person_refs": [
-        "N-461"
+        "N-459"
       ]
     },
     {
@@ -1382,7 +1382,7 @@
       "claim_timestamp": "00:51:51",
       "investigative_direction": "Verify any documented ICE–Israeli-government training partnerships; check DHS, ICE, and Israeli Ministry of Public Security public records for formal training agreements.",
       "mentions_person_refs": [
-        "N-462"
+        "N-460"
       ]
     },
     {
@@ -1460,7 +1460,7 @@
       "transcript_snippet": "he was required to have security on him at all times. That was orchestrated. His security, Schaefer security was orchestrated uh by Bill Montgomery.",
       "mentions_person_refs": [
         "N-1",
-        "N-460"
+        "N-458"
       ]
     },
     {
@@ -1480,7 +1480,7 @@
       "transcript_snippet": "he was from the military, one of the he founded Turning Point USA with Charlie. Charlie wanted to go to West Point and then instead started Turning Point USA when he was 18 years old.",
       "mentions_person_refs": [
         "N-1",
-        "N-460"
+        "N-458"
       ]
     },
     {
@@ -1720,7 +1720,7 @@
         "C-2097"
       ],
       "mentions_person_refs": [
-        "N-458"
+        "N-456"
       ]
     },
     {
@@ -1894,7 +1894,7 @@
       "investigative_direction": "Locate Peter Thiel's recorded lectures and interviews on the Antichrist, with dates, and see how the host characterizes them.",
       "transcript_snippet": "Maybe like people like Peter Thiel, he's like going around giving interviews asking about the Antichrist.",
       "mentions_person_refs": [
-        "N-525"
+        "N-523"
       ]
     },
     {
@@ -2245,8 +2245,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-22",
-        "N-459",
-        "N-536"
+        "N-457",
+        "N-534"
       ]
     },
     {
@@ -2267,8 +2267,8 @@
       "transcript_snippet": "I was correct. Yeah, he discussed options to take out Assange just to make sure we're above bar there.",
       "mentions_person_refs": [
         "N-3",
-        "N-459",
-        "N-536"
+        "N-457",
+        "N-534"
       ]
     },
     {
@@ -2293,7 +2293,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-459"
+        "N-457"
       ]
     },
     {
@@ -2316,7 +2316,7 @@
         "C-2103"
       ],
       "mentions_person_refs": [
-        "N-459"
+        "N-457"
       ]
     },
     {
@@ -2339,7 +2339,7 @@
         "C-2103"
       ],
       "mentions_person_refs": [
-        "N-459"
+        "N-457"
       ]
     },
     {
@@ -2361,7 +2361,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-459"
+        "N-457"
       ]
     },
     {
@@ -2502,7 +2502,7 @@
       "transcript_snippet": "I know about Project Monarch. We've spoken about it on this show um as being the precursor to what the Nazis did here",
       "mentions_person_refs": [
         "N-3",
-        "N-722"
+        "N-720"
       ]
     },
     {

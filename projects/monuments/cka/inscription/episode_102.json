@@ -663,7 +663,7 @@
           ],
           "related_nodes": [
             "N-10367",
-            "N-364"
+            "N-363"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1187,8 +1187,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-435",
-      "ref": "N-435",
+      "@id": "N-433",
+      "ref": "N-433",
       "name": "John Amanchukwu",
       "type": "person",
       "description": "First named by the host at 00:07:32 in episode 102.",
@@ -1205,8 +1205,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-436",
-      "ref": "N-436",
+      "@id": "N-434",
+      "ref": "N-434",
       "name": "Kimberly Klacik",
       "type": "person",
       "description": "First named by the host at 00:09:42 in episode 102. Aliases: Kim Klacik.",
@@ -1222,8 +1222,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-428",
-      "ref": "N-428",
+      "@id": "N-426",
+      "ref": "N-426",
       "name": "Marcus Wada",
       "type": "person",
       "description": "First named by the host at 00:42:41 in episode 92.",
@@ -1405,8 +1405,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-363",
+      "ref": "N-363",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Mitch Snow; the Fort Huachuca eyewitness.",
@@ -1436,8 +1436,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-488",
-      "ref": "N-488",
+      "@id": "N-486",
+      "ref": "N-486",
       "name": "Blake Lively",
       "type": "person",
       "description": "Blake Lively; party in the dispute the host cites.",
@@ -1453,8 +1453,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-489",
-      "ref": "N-489",
+      "@id": "N-487",
+      "ref": "N-487",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Justin Baldoni; party in the dispute the host cites.",
@@ -1470,8 +1470,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-585",
-      "ref": "N-585",
+      "@id": "N-583",
+      "ref": "N-583",
       "name": "Thomas Massie",
       "type": "person",
       "description": "Thomas Massie; named in a viewer comment.",
@@ -1487,8 +1487,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-600",
-      "ref": "N-600",
+      "@id": "N-598",
+      "ref": "N-598",
       "name": "Druski",
       "type": "person",
       "description": "Druski (spelled Druski and Drewski in the transcript); comedian whose skit mocked Erika.",
@@ -1507,8 +1507,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-805",
-      "ref": "N-805",
+      "@id": "N-803",
+      "ref": "N-803",
       "name": "Harris Faulkner",
       "type": "person",
       "description": "Harris Faulkner; Fox host who interviewed Erika.",
@@ -1524,8 +1524,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-899",
-      "ref": "N-899",
+      "@id": "N-897",
+      "ref": "N-897",
       "name": "Bryan Freedman",
       "type": "person",
       "description": "Bryan Freedman; lawyer whose publish-it-all approach the host cites.",
@@ -2091,8 +2091,8 @@
       "claim_timestamp": "00:07:32",
       "investigative_direction": "Verify Wada's TPUSA employment and the scope of his AI services; identify any other clients or projects; obtain a sample of his AI-generated voice work.",
       "mentions_person_refs": [
-        "N-435",
-        "N-428"
+        "N-433",
+        "N-426"
       ]
     },
     {
@@ -2111,7 +2111,7 @@
       "claim_timestamp": "00:07:32",
       "investigative_direction": "Obtain a TPUSA presentation featuring the contested voice; verify with Pastor Amanchukwu whether he consented to voice cloning; secure source's full statement.",
       "mentions_person_refs": [
-        "N-435"
+        "N-433"
       ]
     },
     {
@@ -2151,7 +2151,7 @@
       "investigative_direction": "Verify the original post; obtain TPUSA board meeting minutes documenting Erika's CEO election.",
       "mentions_person_refs": [
         "N-2",
-        "N-436"
+        "N-434"
       ]
     },
     {
@@ -2633,7 +2633,7 @@
         "C-11428"
       ],
       "mentions_person_refs": [
-        "N-428"
+        "N-426"
       ]
     },
     {
@@ -3226,7 +3226,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-600"
+        "N-598"
       ]
     },
     {
@@ -3247,7 +3247,7 @@
       "transcript_snippet": "the people that were trying to turn that into something racial, like Andrew Kolvet, now do like black conservatives.",
       "mentions_person_refs": [
         "N-14",
-        "N-600",
+        "N-598",
         "N-2"
       ]
     },
@@ -3268,7 +3268,7 @@
       "investigative_direction": "Locate the nail salon skit and its date.",
       "transcript_snippet": "He dressed up like he was Vietnamese person, did this whole nail salon thing.",
       "mentions_person_refs": [
-        "N-600"
+        "N-598"
       ]
     },
     {
@@ -3288,7 +3288,7 @@
       "investigative_direction": "Locate the video and its date.",
       "transcript_snippet": "just last week he dropped a massive video where he was targeting black British actors and it was hilarious and we just laughed at it.",
       "mentions_person_refs": [
-        "N-600"
+        "N-598"
       ]
     },
     {
@@ -3395,9 +3395,9 @@
       "investigative_direction": "Watch for the host's publication of the Fort Huachuca timeline, messages and documents.",
       "transcript_snippet": "I'm thinking about doing the Bryan Freedman thing, which was obviously a lawyer Blake Lively Justin Baldoni, where he just put it all online cuz I have nothing to hide.",
       "mentions_person_refs": [
-        "N-899",
-        "N-488",
-        "N-489",
+        "N-897",
+        "N-486",
+        "N-487",
         "N-3"
       ]
     },
@@ -3418,7 +3418,7 @@
       "investigative_direction": "The host's original email and call log would show who made first contact.",
       "transcript_snippet": "it was Mitch's friend that emailed me, and I called him, and he said his story.",
       "mentions_person_refs": [
-        "N-364",
+        "N-363",
         "N-3"
       ]
     },
@@ -3443,7 +3443,7 @@
         "C-6761"
       ],
       "mentions_person_refs": [
-        "N-364",
+        "N-363",
         "N-268",
         "N-2"
       ]
@@ -3468,7 +3468,7 @@
         "C-6758"
       ],
       "mentions_person_refs": [
-        "N-364",
+        "N-363",
         "N-268"
       ]
     },
@@ -3489,7 +3489,7 @@
       "investigative_direction": "Candlewood hotel records and security footage for September 8, 2025.",
       "transcript_snippet": "he saw her at a hotel. It wasn't related to the meeting. He didn't see her with Brian",
       "mentions_person_refs": [
-        "N-364",
+        "N-363",
         "N-2",
         "N-268"
       ]
@@ -3560,7 +3560,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-805",
+        "N-803",
         "N-3"
       ]
     },
@@ -3646,7 +3646,7 @@
       "transcript_snippet": "I get Ian Carroll calling me and he's got Paramount Tactical I mean uh Valhalla the YouTuber Green Beret basically already threatening me like don't don't interview Mitch.",
       "mentions_person_refs": [
         "N-130",
-        "N-364",
+        "N-363",
         "N-3"
       ]
     },
@@ -3668,7 +3668,7 @@
       "investigative_direction": "Obtain the written threat and identify its sender.",
       "transcript_snippet": "So I'm getting threatened with a lawsuit before I even interview Mitch and I'm like dude, what's up?",
       "mentions_person_refs": [
-        "N-364",
+        "N-363",
         "N-3"
       ]
     },
@@ -3693,7 +3693,7 @@
       ],
       "mentions_person_refs": [
         "N-268",
-        "N-364",
+        "N-363",
         "N-3"
       ]
     },
@@ -3829,7 +3829,7 @@
       "mentions_person_refs": [
         "N-15",
         "N-3",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -3849,7 +3849,7 @@
       "investigative_direction": "The episode's air date and the host's publication log.",
       "transcript_snippet": "And then I interviewed him. I did it on the 18th.",
       "mentions_person_refs": [
-        "N-364",
+        "N-363",
         "N-3"
       ]
     },
@@ -3874,7 +3874,7 @@
         "C-9929"
       ],
       "mentions_person_refs": [
-        "N-364",
+        "N-363",
         "N-3"
       ]
     },
@@ -3899,7 +3899,7 @@
         "C-6763"
       ],
       "mentions_person_refs": [
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -3920,7 +3920,7 @@
       "investigative_direction": "Compare their messages to the host with their calls to Mitch.",
       "transcript_snippet": "they were telling me the opposite or trying to tell me the opposite that this is a a case of stolen valor.",
       "mentions_person_refs": [
-        "N-364",
+        "N-363",
         "N-3"
       ]
     },
@@ -4088,7 +4088,7 @@
         "C-1987"
       ],
       "mentions_person_refs": [
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -4114,7 +4114,7 @@
         "C-8102"
       ],
       "mentions_person_refs": [
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -4135,7 +4135,7 @@
       "transcript_snippet": "So, they took me from being 40/60, maybe even 30/70.",
       "mentions_person_refs": [
         "N-3",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -4297,7 +4297,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-1",
-        "N-585"
+        "N-583"
       ]
     },
     {

@@ -15,7 +15,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11561–C-11634
   - New Nodes Introduced: N-10742, N-10743
-  - Reused Nodes Appearing: N-1, N-2, N-370, N-491, N-508, N-10740, N-10741, N-14, N-15, N-36, N-60, N-97, N-165, N-213, N-248, N-268, N-280, N-441, N-549, N-10000, N-10070, N-10110, N-10270, N-10300, N-10312, N-10334, N-10336, N-10338, N-10342, N-10362, N-10651, N-10664, N-10684, N-10707, N-10715, N-10905, N-10934, N-10936, N-10956, N-10968, N-11014, N-11061, N-11218, N-11208, N-11300
+  - Reused Nodes Appearing: N-1, N-2, N-369, N-489, N-506, N-10740, N-10741, N-14, N-15, N-36, N-60, N-97, N-165, N-213, N-248, N-268, N-280, N-439, N-547, N-10000, N-10070, N-10110, N-10270, N-10300, N-10312, N-10334, N-10336, N-10338, N-10342, N-10362, N-10651, N-10664, N-10684, N-10707, N-10715, N-10905, N-10934, N-10936, N-10956, N-10968, N-11014, N-11061, N-11218, N-11208, N-11300
   - (see registers)
 
 ## 2. Executive Summary
@@ -419,7 +419,7 @@ Investigative Pressure: High
 
 *Related: A-2169.5, A-2169.6, C-3103, C-3104*
 
-**N-370** Danny Philip
+**N-369** Danny Philip
 
 Newly hired Turning Point USA employee at the UVU event; phone records show a 10-minute call with Mikey McCoy after the shooting, and he arrived at Timpanogos in the same SUV as Blake Neff.
 
@@ -637,7 +637,7 @@ Viva Frei (spelled Viva Frei in the register); his Charlie Kirk Show remarks on 
 
 ---
 
-**N-441** Johnny Moore
+**N-439** Johnny Moore
 
 Johnny Moore; the host says he is dropping digital assassin articles at her.
 
@@ -645,7 +645,7 @@ Johnny Moore; the host says he is dropping digital assassin articles at her.
 
 ---
 
-**N-508** Nate Walker
+**N-506** Nate Walker
 
 Existing node reused for new claims in this episode.
 
@@ -653,7 +653,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-549** Tracy Martin
+**N-547** Tracy Martin
 
 Tracy Martin; the host's guess for the Daily Mail family friend.
 
@@ -997,7 +997,7 @@ Claim Timestamp: 00:06:20
 Claim: The unidentified glove-like object is in the door compartment on the side of the vehicle the host associates with Rick Cutler's seating.
 
 Anchored Artifacts: A-2165.1
-Mentions: N-491
+Mentions: N-489
 
 Related Nodes: N-10740
 
@@ -1041,7 +1041,7 @@ Claim Timestamp: 00:13:40
 Claim: The host says Mikey McCoy's call logs, which she shows, record him making a call to Rob McCoy, merging the call with Elizabeth McCoy, and then engaging in a 10-minute call with Danny Philip in the immediate aftermath.
 
 Anchored Artifacts: A-2167.1
-Mentions: N-370, N-219, N-192, N-17
+Mentions: N-369, N-219, N-192, N-17
 
 Related Nodes: N-10742
 
@@ -1072,7 +1072,7 @@ Claim Timestamp: 00:18:17
 Claim: A Fox 5 Atlanta newsroom feed shows Blake Neff, Danny Philip, Mikey McCoy, and Nate Walker walking into Timpanogos Regional Hospital; timing is anchored to Donald Trump's 1:02 PM local tweet shown during the broadcast.
 
 Anchored Artifacts: A-2166.2, A-2166.1
-Mentions: N-370, N-5, N-192, N-161, N-508
+Mentions: N-369, N-5, N-192, N-161, N-506
 
 Related Nodes:
 
@@ -1087,7 +1087,7 @@ Claim Timestamp: 00:10:36
 Claim: The host says Blake Neff and Danny Philip arrived at Timpanogos in the same SUV, distinct from the vehicle transporting Charlie Kirk.
 
 Anchored Artifacts: A-2166.1
-Mentions: N-370, N-1, N-161
+Mentions: N-369, N-1, N-161
 
 Related Nodes:
 
@@ -1102,7 +1102,7 @@ Claim Timestamp: 00:11:37
 Claim: The host says Danny Philip – newly hired Turning Point USA employee – was at the UVU event and is recorded in a 10-minute phone call with Mikey McCoy shortly after 12:25 PM.
 
 Anchored Artifacts: A-2167.1, A-2166.1
-Mentions: N-370, N-192
+Mentions: N-369, N-192
 
 Related Nodes: N-10742
 
@@ -1363,7 +1363,7 @@ Claim: The host says Danny Philip was new at Turning Point USA, having started w
 Transcript Snippet: New as in started working full-time in May after he graduated out of school.
 
 Anchored Artifacts: 
-Mentions: N-370, N-192, N-3
+Mentions: N-369, N-192, N-3
 Supports: C-5867
 Tags: relevance:core
 Investigative Direction: Check Philip's graduation date and TPUSA hiring paperwork or payroll start date.
@@ -1379,7 +1379,7 @@ Claim: The host says Mikey McCoy rented two SUVs in Salt Lake City, that Blake N
 Transcript Snippet: So two SUVs were rented by Mikey McCoy in Salt Lake City.
 
 Anchored Artifacts: 
-Mentions: N-192, N-161, N-370, N-508, N-1
+Mentions: N-192, N-161, N-369, N-506, N-1
 Related Nodes: N-11061
 Supports: C-5862
 Tags: relevance:core
@@ -1396,7 +1396,7 @@ Claim: The host says Blake Neff does not remember where he and Danny Philip went
 Transcript Snippet: Blake Neff doesn't remember where they went in Salt Lake City.
 
 Anchored Artifacts: 
-Mentions: N-161, N-370
+Mentions: N-161, N-369
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Ask Neff and Philip for their movements that morning and check vehicle GPS or toll records for the second SUV.
@@ -1412,7 +1412,7 @@ Claim: The host says she believes Danny Philip was driving the second SUV, that 
 Transcript Snippet: Now I believe that Danny was driving the SUV. I feel like I saw that somewhere.
 
 Anchored Artifacts: 
-Mentions: N-370, N-161
+Mentions: N-369, N-161
 Tags: relevance:core
 Investigative Direction: Identify the source of the driver detail and check it against the rental agreement and any footage of the second SUV.
 
@@ -1427,7 +1427,7 @@ Claim: The host says Danny Philip stood next to Butch Hibbs on Charlie's right s
 Transcript Snippet: What we do know is that Danny and Blake were standing on opposite sides of the tent when the sound of the explosive rang out.
 
 Anchored Artifacts: 
-Mentions: N-370, N-161, N-248, N-192, N-1
+Mentions: N-369, N-161, N-248, N-192, N-1
 Tags: relevance:core
 Investigative Direction: Verify each man's position against the stage footage and the seating and standing diagram of the tent.
 
@@ -1556,7 +1556,7 @@ Claim: The host says Mikey McCoy ended his calls with Rob McCoy and Elizabeth Mc
 Transcript Snippet: And then Danny calls Mikey. And they stay on the phone for 10 minutes.
 
 Anchored Artifacts: A-2167.1
-Mentions: N-370, N-192, N-219, N-17
+Mentions: N-369, N-192, N-219, N-17
 Related Nodes: N-10742
 Tags: relevance:core
 Investigative Direction: Obtain the call detail record showing which number placed the Philip-McCoy call and when it started and ended.
@@ -1572,7 +1572,7 @@ Claim: The host says Danny Philip, Blake Neff and Mikey McCoy all ran in the sam
 Transcript Snippet: Danny, Blake, and Mikey all run the same direction direction. They get into the same car. Their cars are parked right next to one another's.
 
 Anchored Artifacts: 
-Mentions: N-370, N-161, N-192
+Mentions: N-369, N-161, N-192
 Related Nodes: N-10742, N-10820
 Tags: relevance:core
 Investigative Direction: Resolve which SUV each man entered using footage and statements, since the host elsewhere has Mikey in the SUV carrying Charlie.
@@ -1588,7 +1588,7 @@ Claim: The host says that perhaps Justin Streiff and Erika lied to her and Mikey
 Transcript Snippet: Maybe Justin Streiff and Erika lied to me and it wasn't Danny Philip that he was on the phone with.
 
 Anchored Artifacts: 
-Mentions: N-15, N-2, N-370, N-192, N-3
+Mentions: N-15, N-2, N-369, N-192, N-3
 Related Nodes: N-10300
 Tags: relevance:core
 Investigative Direction: Identify what Streiff and Erika told the host about this call and compare with the call records.
@@ -1621,7 +1621,7 @@ Claim: The host says the Fox 5 Atlanta live feed shows Blake Neff, Danny Philip,
 Transcript Snippet: because they don't seem to be shaken. They're all just kind of walking uh casually
 
 Anchored Artifacts: A-2166.2
-Mentions: N-332, N-161, N-370, N-192, N-508
+Mentions: N-332, N-161, N-369, N-192, N-506
 Related Nodes: N-11208
 Tags: relevance:core
 Investigative Direction: Obtain the unedited newsroom feed and review the men's demeanor and pace on entry.
@@ -1637,7 +1637,7 @@ Claim: The host says Reverend Johnny Moore is working corporate and dropping dig
 Transcript Snippet: Reverend Johnny Moore is working corporate dropping digital assassin articles aimed at me blaming his competitors.
 
 Anchored Artifacts: 
-Mentions: N-441, N-3
+Mentions: N-439, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Identify the specific digital assassin articles the host refers to and their authors and publication dates.
@@ -1846,7 +1846,7 @@ Claim: The host says her guess is Tracy Martin, the one person she knows who is 
 Transcript Snippet: My guess would be Tracy Martin because she's also been the driver behind other wacky pieces, that Us Magazine one, but who knows?
 
 Anchored Artifacts: A-2164.1
-Mentions: N-549, N-3
+Mentions: N-547, N-3
 Related Nodes: N-10743
 Tags: relevance:core
 Investigative Direction: Treat as the host's speculation; ask the Daily Mail reporter whether the source can be confirmed or denied.

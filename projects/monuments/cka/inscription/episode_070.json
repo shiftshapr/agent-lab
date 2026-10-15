@@ -132,8 +132,8 @@
             "C-2322"
           ],
           "related_nodes": [
-            "N-555",
-            "N-497",
+            "N-553",
+            "N-495",
             "N-10492"
           ],
           "tags": [],
@@ -333,8 +333,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-555",
-      "ref": "N-555",
+      "@id": "N-553",
+      "ref": "N-553",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Former TPUSA public relations manager; spoke publicly about termination process in self-published video. Artifact-backed person new to the series record.",
@@ -353,14 +353,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-497",
+        "N-495",
         "N-10492"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-497",
-      "ref": "N-497",
+      "@id": "N-495",
+      "ref": "N-495",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Identified on-air as CMO of Turning Point USA; named by Aubrey Lech as present at her termination meeting.",
@@ -376,7 +376,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-555"
+        "N-553"
       ]
     },
     {
@@ -425,8 +425,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-555",
-        "N-497"
+        "N-553",
+        "N-495"
       ]
     },
     {
@@ -907,8 +907,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-739",
-      "ref": "N-739",
+      "@id": "N-737",
+      "ref": "N-737",
       "name": "Ike Perlmutter",
       "type": "person",
       "description": "Ike Perlmutter, named by the host for the Mar-a-Lago fundraising meeting (confirmed by the HappyScribe transcript of Candace Ep 303 at 00:04:58).",
@@ -1418,8 +1418,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-808",
-      "ref": "N-808",
+      "@id": "N-806",
+      "ref": "N-806",
       "name": "Don Orrico",
       "type": "person",
       "description": "Named by the host at 00:13:09 in episode 70 as a Turning Point USA contact in Tampa. Florida-based major-gifts fundraiser (formerly Mackinac Center director of strategic partnerships); TPUSA role unconfirmed.",
@@ -1594,7 +1594,7 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Verify Lech's employment dates and termination date via TPUSA / ATK records.",
       "mentions_person_refs": [
-        "N-555"
+        "N-553"
       ]
     },
     {
@@ -1613,8 +1613,8 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.",
       "mentions_person_refs": [
-        "N-497",
-        "N-555",
+        "N-495",
+        "N-553",
         "N-14"
       ]
     },
@@ -1634,7 +1634,7 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Compare the stated termination rationale (Uber-driver hearsay) against Lech's stated belief; seek additional former-employee testimony.",
       "mentions_person_refs": [
-        "N-555",
+        "N-553",
         "N-1"
       ]
     },
@@ -1652,8 +1652,8 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Verify Marina Munz's title and organizational role via TPUSA public records.",
       "mentions_person_refs": [
-        "N-497",
-        "N-555",
+        "N-495",
+        "N-553",
         "N-14"
       ]
     },
@@ -1811,7 +1811,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-739"
+        "N-737"
       ]
     },
     {
@@ -1833,7 +1833,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-739"
+        "N-737"
       ]
     },
     {
@@ -2200,7 +2200,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-15",
-        "N-808"
+        "N-806"
       ]
     },
     {
@@ -2614,7 +2614,7 @@
       "investigative_direction": "Corroborate Lech's workload with TPUSA staff and press-office call logs, which she could produce.",
       "transcript_snippet": "My phone received hundreds of phone calls on September 10th, thousands of text messages.",
       "mentions_person_refs": [
-        "N-555"
+        "N-553"
       ]
     },
     {
@@ -2658,7 +2658,7 @@
       "transcript_snippet": "I think in the end there when she says that this was actually motivated by them going after people who they suspected were not loyal to Erika",
       "mentions_person_refs": [
         "N-3",
-        "N-555",
+        "N-553",
         "N-2"
       ]
     },
@@ -2903,7 +2903,7 @@
       "transcript_snippet": "they also then fired her fiance. So their entire uh income in one house was wiped out in one day.",
       "mentions_person_refs": [
         "N-3",
-        "N-555"
+        "N-553"
       ]
     },
     {

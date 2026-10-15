@@ -403,9 +403,9 @@
             "C-12814"
           ],
           "related_nodes": [
-            "N-918",
+            "N-916",
             "N-69",
-            "N-919"
+            "N-917"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1027,8 +1027,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-493",
-      "ref": "N-493",
+      "@id": "N-491",
+      "ref": "N-491",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Lori Frantzve; Erika's mother, whom the host appears to mean by the Lori alibi.",
@@ -1044,8 +1044,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-498",
-      "ref": "N-498",
+      "@id": "N-496",
+      "ref": "N-496",
       "name": "\"Frank\" (TPUSA General Counsel)",
       "type": "person",
       "description": "Frank, TPUSA general counsel; reached by Elizabeth McCoy in the office.",
@@ -1062,8 +1062,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-585",
-      "ref": "N-585",
+      "@id": "N-583",
+      "ref": "N-583",
       "name": "Thomas Massie",
       "type": "person",
       "description": "Thomas Massie; the host says he fought for the Epstein files release.",
@@ -1079,8 +1079,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-603",
-      "ref": "N-603",
+      "@id": "N-601",
+      "ref": "N-601",
       "name": "Katherine Locastro",
       "type": "person",
       "description": "Katherine LoCastro; Mikey McCoy's assistant who travelled to Utah in the party.",
@@ -1098,8 +1098,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-630",
-      "ref": "N-630",
+      "@id": "N-628",
+      "ref": "N-628",
       "name": "Vladimir Putin",
       "type": "person",
       "description": "Vladimir Putin; the host mocks the thread's claim that he is behind the campaign.",
@@ -1116,8 +1116,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-653",
-      "ref": "N-653",
+      "@id": "N-651",
+      "ref": "N-651",
       "name": "Alexander Dugin",
       "type": "person",
       "description": "Alexander Dugin; mentioned in the Wilkins thread per the host.",
@@ -1573,8 +1573,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-918",
-      "ref": "N-918",
+      "@id": "N-916",
+      "ref": "N-916",
       "name": "Michael Flynn",
       "type": "person",
       "description": "First named by the host as General Michael Flynn at 00:30:42 in episode 083. Retired general named as an anchor in the Wilkins thread and as a speaker at the Catholics for Catholics event.",
@@ -1593,8 +1593,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-919",
-      "ref": "N-919",
+      "@id": "N-917",
+      "ref": "N-917",
       "name": "Clay Clark",
       "type": "person",
       "description": "First named in a viewer comment at 00:50:53 in episode 083, as organizer of the Awaken America Tours with whom Flynn and Patel appeared.",
@@ -2410,7 +2410,7 @@
       ],
       "mentions_person_refs": [
         "N-219",
-        "N-498",
+        "N-496",
         "N-15",
         "N-3"
       ]
@@ -2434,7 +2434,7 @@
       "investigative_direction": "Obtain building access records and staff accounts of who was in the Turning Point Action building at 12:23 p.m. MST.",
       "transcript_snippet": "Frank and Justin then run to the Turning Point Action building.",
       "mentions_person_refs": [
-        "N-498",
+        "N-496",
         "N-15",
         "N-3"
       ]
@@ -2680,7 +2680,7 @@
       "investigative_direction": "Obtain the passenger manifest of the aircraft that carried Erika's party to Provo.",
       "transcript_snippet": "her name is Katherine LoCastro she was a part of the team that transported Erika to the airport on that day and she also went out to Utah",
       "mentions_person_refs": [
-        "N-603",
+        "N-601",
         "N-192",
         "N-2",
         "N-3"
@@ -2735,7 +2735,7 @@
         "C-9935"
       ],
       "mentions_person_refs": [
-        "N-603",
+        "N-601",
         "N-219",
         "N-192",
         "N-14",
@@ -2762,7 +2762,7 @@
       "investigative_direction": "Establish who held custody of the vehicle at the hospital and whether anyone was allowed inside it.",
       "transcript_snippet": "they sent Katherine who like I said sounds like she's quite innocent she's well liked I can say that at least to grab something from the car the car that Charlie bled out in bloodied car",
       "mentions_person_refs": [
-        "N-603",
+        "N-601",
         "N-219",
         "N-1",
         "N-3"
@@ -3259,8 +3259,8 @@
         "N-3",
         "N-22",
         "N-211",
-        "N-918",
-        "N-630"
+        "N-916",
+        "N-628"
       ]
     },
     {
@@ -3307,7 +3307,7 @@
       "investigative_direction": "Check the event program and recordings for who spoke and when.",
       "transcript_snippet": "General Michael Flynn spoke there. By the way, that's the first time that I've ever spoken to General Michael Flynn that I remember.",
       "mentions_person_refs": [
-        "N-918",
+        "N-916",
         "N-3"
       ]
     },
@@ -3428,7 +3428,7 @@
       "transcript_snippet": "When people are upset that Trump says are we still talking about the Epstein files and then basically Thomas Massie has to fight him tooth and nail alongside some others um to get the Epstein files",
       "mentions_person_refs": [
         "N-5",
-        "N-585",
+        "N-583",
         "N-3"
       ]
     },
@@ -3452,8 +3452,8 @@
       "transcript_snippet": "She also mentions his his philosopher um Alexander Dugin",
       "mentions_person_refs": [
         "N-214",
-        "N-630",
-        "N-653",
+        "N-628",
+        "N-651",
         "N-3"
       ]
     },
@@ -3594,10 +3594,10 @@
       "investigative_direction": "Check Awaken America Tour programs and Patel's appearances alongside Flynn and Clay Clark.",
       "transcript_snippet": "Pretty rich Wilkins is implicating General Flynn since he was exactly who brought Kash Patel into the Patriot movement through the Awaken America Tours with Clay Clark.",
       "mentions_person_refs": [
-        "N-918",
+        "N-916",
         "N-69",
         "N-214",
-        "N-919",
+        "N-917",
         "N-3"
       ]
     },
@@ -3622,7 +3622,7 @@
       "mentions_person_refs": [
         "N-214",
         "N-3",
-        "N-918"
+        "N-916"
       ]
     },
     {
@@ -3671,7 +3671,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-493",
+        "N-491",
         "N-3"
       ]
     }

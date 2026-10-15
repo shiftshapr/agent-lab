@@ -59,8 +59,8 @@
             "C-2050"
           ],
           "related_nodes": [
+            "N-439",
             "N-441",
-            "N-443",
             "N-10402"
           ],
           "tags": [],
@@ -87,7 +87,7 @@
             "C-2051"
           ],
           "related_nodes": [
-            "N-448"
+            "N-446"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -114,7 +114,7 @@
             "C-2053"
           ],
           "related_nodes": [
-            "N-441",
+            "N-439",
             "N-10402"
           ],
           "tags": [],
@@ -133,7 +133,7 @@
             "C-2054"
           ],
           "related_nodes": [
-            "N-441",
+            "N-439",
             "N-10402"
           ],
           "tags": [],
@@ -160,7 +160,7 @@
             "C-2057"
           ],
           "related_nodes": [
-            "N-445",
+            "N-443",
             "N-10407"
           ],
           "tags": [],
@@ -356,8 +356,8 @@
             "C-2056"
           ],
           "related_nodes": [
-            "N-442",
-            "N-403",
+            "N-440",
+            "N-401",
             "N-10402"
           ],
           "tags": [],
@@ -441,10 +441,10 @@
             "N-11104",
             "N-11163",
             "N-3",
-            "N-402",
+            "N-400",
+            "N-439",
             "N-441",
-            "N-443",
-            "N-446"
+            "N-444"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -471,7 +471,7 @@
           ],
           "related_nodes": [
             "N-11104",
-            "N-441"
+            "N-439"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -499,9 +499,9 @@
             "N-10402",
             "N-11164",
             "N-14",
-            "N-403",
-            "N-441",
-            "N-442"
+            "N-401",
+            "N-439",
+            "N-440"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -566,8 +566,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-441",
-      "ref": "N-441",
+      "@id": "N-439",
+      "ref": "N-439",
       "name": "Johnny Moore",
       "type": "person",
       "description": "Former Liberty University lead pastor (left 2014); founder of Chyros Company; claimed in this episode to be a disciple of Ron Godwin. Self-identifies in audio as involved with ADL and Aspen Institute.",
@@ -589,15 +589,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-442",
-        "N-403",
+        "N-440",
+        "N-401",
         "N-10402"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-442",
-      "ref": "N-442",
+      "@id": "N-440",
+      "ref": "N-440",
       "name": "Ron Godwin",
       "type": "person",
       "description": "Identified in this episode as Johnny Moore's mentor and as a declared disciple of Sun Myung Moon; retired from Liberty University in October 2014.",
@@ -613,15 +613,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-441",
-        "N-403",
+        "N-439",
+        "N-401",
         "N-10402"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-403",
-      "ref": "N-403",
+      "@id": "N-401",
+      "ref": "N-401",
       "name": "Sun Myung Moon",
       "type": "person",
       "description": "Founder of the Unification Church (transcript spells inconsistently as \"Sun Myung Moon\" / \"Sun Myung Moon\" / \"Sun Myung Moon\"); source of the three disciples quotation.",
@@ -638,14 +638,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-442",
+        "N-440",
         "N-10402"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-443",
-      "ref": "N-443",
+      "@id": "N-441",
+      "ref": "N-441",
       "name": "Jerry Falwell Jr.",
       "type": "person",
       "description": "Identified in this episode as ousted from Liberty University; co-established the Falwell Center with Charlie Kirk in 2021; replaced by Jerry Prevo.",
@@ -659,14 +659,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-446",
+        "N-444",
         "N-10402"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-444",
-      "ref": "N-444",
+      "@id": "N-442",
+      "ref": "N-442",
       "name": "Mark Burnett",
       "type": "person",
       "description": "Reality TV producer named in this episode as Johnny Moore's employer in Hollywood (post-2015) and chairperson of MGM (acquired Summerhouse).",
@@ -681,13 +681,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-441"
+        "N-439"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-445",
-      "ref": "N-445",
+      "@id": "N-443",
+      "ref": "N-443",
       "name": "Unnamed Likud Knesset Speaker",
       "type": "person",
       "description": "Knesset member who delivered the speech declaring Tucker Carlson and Candace Owens enemies of Israel; name not stated in episode.",
@@ -708,8 +708,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-446",
-      "ref": "N-446",
+      "@id": "N-444",
+      "ref": "N-444",
       "name": "Jerry Prevo",
       "type": "person",
       "description": "Identified in this episode as named successor to Jerry Falwell Jr. at Liberty University; first act allegedly was firing Charlie Kirk and reinstating Johnny Moore on a monthly retainer.",
@@ -721,14 +721,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-443",
-        "N-441"
+        "N-441",
+        "N-439"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-447",
-      "ref": "N-447",
+      "@id": "N-445",
+      "ref": "N-445",
       "name": "Tetsuya Yamagami",
       "type": "person",
       "description": "Identified in this episode as the 41-year-old assassin of Shinzō Abe; stated to have been driven to destitution by the Unification Church's influence on his mother.",
@@ -740,14 +740,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-448",
-        "N-403"
+        "N-446",
+        "N-401"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-448",
-      "ref": "N-448",
+      "@id": "N-446",
+      "ref": "N-446",
       "name": "Shinzō Abe",
       "type": "person",
       "description": "Longtime Prime Minister of Japan; assassinated; family identified as having long-running ties to the Unification Church.",
@@ -761,7 +761,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-447"
+        "N-445"
       ]
     },
     {
@@ -790,9 +790,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-14",
-        "N-441",
-        "N-442",
-        "N-403"
+        "N-439",
+        "N-440",
+        "N-401"
       ]
     },
     {
@@ -894,7 +894,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-445",
+        "N-443",
         "N-10408"
       ]
     },
@@ -1148,8 +1148,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-363",
+      "ref": "N-363",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Mitch Snow; the host's list includes an operation to debunk 'Mitch' at Fort Huachuca (match inferred, see doubts).",
@@ -1165,8 +1165,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-402",
-      "ref": "N-402",
+      "@id": "N-400",
+      "ref": "N-400",
       "name": "Jerry Falwell Sr.",
       "type": "person",
       "description": "Jerry Falwell Sr.; Liberty's founder, linked by the host to Moon and to Ron Godwin.",
@@ -1185,8 +1185,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-599",
-      "ref": "N-599",
+      "@id": "N-597",
+      "ref": "N-597",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Jordan Peterson; the host says he co-created the report on Christ Is King with Johnny Moore and was cited by Kolvet.",
@@ -1203,8 +1203,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-617",
-      "ref": "N-617",
+      "@id": "N-615",
+      "ref": "N-615",
       "name": "Dennis Prager",
       "type": "person",
       "description": "Dennis Prager; the host says Kolvet told her he fell and was seriously injured after writing about her.",
@@ -1590,8 +1590,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-940",
-      "ref": "N-940",
+      "@id": "N-938",
+      "ref": "N-938",
       "name": "Javier Milei",
       "type": "person",
       "description": "First named by the host at 00:49:54 in episode 55 (transcribed as 'Mle'). Argentine president whom the host says she distrusted and about whom she repeats a surname rumor.",
@@ -1737,8 +1737,8 @@
       "claim_timestamp": "00:23:45–00:24:10",
       "investigative_direction": "Retrieve the original Christianity Today article; identify author, publication date, and full article context.",
       "mentions_person_refs": [
-        "N-441",
-        "N-443"
+        "N-439",
+        "N-441"
       ]
     },
     {
@@ -1757,7 +1757,7 @@
       "claim_timestamp": "00:23:45–00:24:10",
       "investigative_direction": "Retrieve original Christianity Today article and corroborate against any independent biographical sources.",
       "mentions_person_refs": [
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -1774,8 +1774,8 @@
       "claim_timestamp": "00:12:48–00:13:40",
       "investigative_direction": "Locate the cited New York Times article; verify exact figures and any subsequent party responses.",
       "mentions_person_refs": [
-        "N-403",
-        "N-448"
+        "N-401",
+        "N-446"
       ]
     },
     {
@@ -1794,7 +1794,7 @@
       "claim_timestamp": "00:21:30–00:22:43",
       "investigative_direction": "Verify Moore's listed fellowships directly through ADL and Aspen Institute public records.",
       "mentions_person_refs": [
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -1813,7 +1813,7 @@
       "claim_timestamp": "00:21:30–00:22:43",
       "investigative_direction": "Verify advisory board membership through both organizations' published directories.",
       "mentions_person_refs": [
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -1832,7 +1832,7 @@
       "claim_timestamp": "00:22:43–00:23:15",
       "investigative_direction": "Identify the original venue and date of this speech; verify exact wording through primary source.",
       "mentions_person_refs": [
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -1851,8 +1851,8 @@
       "claim_timestamp": "00:25:34–00:26:20",
       "investigative_direction": "Retrieve the primary source (Unification Church publication, sermon, or recorded address) containing this declaration; verify date and venue.",
       "mentions_person_refs": [
-        "N-403",
-        "N-442"
+        "N-401",
+        "N-440"
       ]
     },
     {
@@ -1871,8 +1871,8 @@
       "claim_timestamp": "00:25:34–00:26:20",
       "investigative_direction": "Retrieve primary source; verify whether this directive was organizational doctrine or rhetorical.",
       "mentions_person_refs": [
-        "N-403",
-        "N-442"
+        "N-401",
+        "N-440"
       ]
     },
     {
@@ -1891,7 +1891,7 @@
       "claim_timestamp": "00:34:41–00:35:36",
       "investigative_direction": "Identify the Knesset speaker; obtain Knesset record of the speech; verify date and verbatim transcript.",
       "mentions_person_refs": [
-        "N-445",
+        "N-443",
         "N-22",
         "N-3"
       ]
@@ -2103,8 +2103,8 @@
       "claim_timestamp": "00:19:23–00:20:09",
       "investigative_direction": "Verify employment relationship through public records or business registries. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*",
       "mentions_person_refs": [
-        "N-441",
-        "N-444"
+        "N-439",
+        "N-442"
       ]
     },
     {
@@ -2119,7 +2119,7 @@
       "claim_timestamp": "00:20:09",
       "investigative_direction": "Verify MGM chairmanship and Summerhouse acquisition through public corporate records. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*",
       "mentions_person_refs": [
-        "N-444"
+        "N-442"
       ]
     },
     {
@@ -2172,7 +2172,7 @@
       "investigative_direction": "Obtain Falkirk Center founding and wind-down records, Liberty University board minutes and dated reporting on Falwell Jr.'s exit to test whether the center's end is linked to Kirk's later fortunes.",
       "transcript_snippet": "Obviously scandal scandal which I now believe could have led to the fall of both men.",
       "mentions_person_refs": [
-        "N-443",
+        "N-441",
         "N-1",
         "N-3"
       ]
@@ -2196,7 +2196,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -2480,7 +2480,7 @@
       "transcript_snippet": "Dennis Prager, who had just written this open article about me and it was not done in a very nice way, had actually fallen and it was very he was very seriously injured.",
       "mentions_person_refs": [
         "N-14",
-        "N-617",
+        "N-615",
         "N-3"
       ]
     },
@@ -2500,7 +2500,7 @@
       "transcript_snippet": "Oh, the Daily Wire thing and the Jordan Peterson thing and like bad things are happening to people after they attack you.",
       "mentions_person_refs": [
         "N-14",
-        "N-599",
+        "N-597",
         "N-3"
       ]
     },
@@ -2522,7 +2522,7 @@
       "investigative_direction": "Check declassified CIA and Korean intelligence records, and congressional findings on the Unification Church, for any documented relationship with Moon.",
       "transcript_snippet": "this Korean man, Sun Myung Moon, who was actually working for the CIA, Assad, while leading effectively what became a religious cult.",
       "mentions_person_refs": [
-        "N-403"
+        "N-401"
       ]
     },
     {
@@ -2546,7 +2546,7 @@
         "C-8212"
       ],
       "mentions_person_refs": [
-        "N-403"
+        "N-401"
       ]
     },
     {
@@ -2570,8 +2570,8 @@
         "C-2030"
       ],
       "mentions_person_refs": [
-        "N-403",
-        "N-402"
+        "N-401",
+        "N-400"
       ]
     },
     {
@@ -2596,7 +2596,7 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-403"
+        "N-401"
       ]
     },
     {
@@ -2638,8 +2638,8 @@
       "investigative_direction": "Check the 2022 Shinzo Abe assassination reporting and the shooter's stated motive regarding the Unification Church.",
       "transcript_snippet": "So much financial corruption that it actually led to a political assassination in Japan. Remember 2022?",
       "mentions_person_refs": [
-        "N-403",
-        "N-448"
+        "N-401",
+        "N-446"
       ]
     },
     {
@@ -2662,7 +2662,7 @@
       "investigative_direction": "Verify against Japanese court records and major outlets on the shooter's stated motive and the Abe family's documented ties to the church.",
       "transcript_snippet": "he was shot and he was killed because a 41-year-old man blamed the prime minister whose family did in fact have longunning ties to the Mooney church",
       "mentions_person_refs": [
-        "N-448"
+        "N-446"
       ]
     },
     {
@@ -2683,7 +2683,7 @@
       "investigative_direction": "Check trial reporting on the shooter's family finances and the siblings' circumstances; the host notes this is not a justification.",
       "transcript_snippet": "They had brainwashed his mother in her old age, brainwashed her into giving the church all of his family's money",
       "mentions_person_refs": [
-        "N-448"
+        "N-446"
       ]
     },
     {
@@ -2755,7 +2755,7 @@
         "C-8140"
       ],
       "mentions_person_refs": [
-        "N-443"
+        "N-441"
       ]
     },
     {
@@ -2778,7 +2778,7 @@
       "investigative_direction": "Ask the source to name the pastors and show communications; compare with Liberty board minutes and reporting on the center's closure.",
       "transcript_snippet": "it was corrupt pastors, evangelical pastors that wanted him out and wanted to put an end to the Falkirk Center.",
       "mentions_person_refs": [
-        "N-443"
+        "N-441"
       ]
     },
     {
@@ -2804,7 +2804,7 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-443"
+        "N-441"
       ]
     },
     {
@@ -2826,8 +2826,8 @@
       "investigative_direction": "Check Liberty's Form 990s and the historical relationship between Thomas Road Baptist Church and the university.",
       "transcript_snippet": "Had turned it into a very profitable um uh school and he had separated it from the church wanting the finances not to be mingled with the church which was something that his father had not done.",
       "mentions_person_refs": [
-        "N-443",
-        "N-402"
+        "N-441",
+        "N-400"
       ]
     },
     {
@@ -2849,8 +2849,8 @@
       "investigative_direction": "Identify the pastors and examine historical payments from the school to church-linked entities.",
       "transcript_snippet": "the pastors who made a fortune while Jerry Falwell senior was alive did not like that.",
       "mentions_person_refs": [
-        "N-402",
-        "N-443"
+        "N-400",
+        "N-441"
       ]
     },
     {
@@ -2893,7 +2893,7 @@
       "investigative_direction": "Find attendee lists, calendars or minutes for the Falkirk planning meeting, and public reporting dating the center's launch (the host says 2021).",
       "transcript_snippet": "a certain Johnny Moore inserted himself into the meeting, the planning sesh, so to speak. He just pulled up a chair.",
       "mentions_person_refs": [
-        "N-441",
+        "N-439",
         "N-1"
       ]
     },
@@ -2915,7 +2915,7 @@
       "investigative_direction": "Check Moore's biography and Liberty staff records for his titles and departure date.",
       "transcript_snippet": "he had quit his job as the lead pastor of Liberty University back in 2014.",
       "mentions_person_refs": [
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -2939,7 +2939,7 @@
         "C-8136"
       ],
       "mentions_person_refs": [
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -2964,7 +2964,7 @@
       ],
       "mentions_person_refs": [
         "N-14",
-        "N-441",
+        "N-439",
         "N-1"
       ]
     },
@@ -2989,7 +2989,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-444"
+        "N-442"
       ]
     },
     {
@@ -3010,7 +3010,7 @@
       "investigative_direction": "Seek Liberty hiring correspondence or Moore's own statements on returning to the university.",
       "transcript_snippet": "Johnny Moore immediately and consistently despite establishing the Chyros Company wanted his job back at Liberty University",
       "mentions_person_refs": [
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -3053,8 +3053,8 @@
       "investigative_direction": "Locate the report and video graphic, their authors, date and publisher, and any ADL involvement.",
       "transcript_snippet": "Jordan Peterson, Dr. Jordan Peterson and a certain Reverend Johnny Moore created a report and doubled down explaining that uh Christ is king is in fact actually anti-Semitic.",
       "mentions_person_refs": [
-        "N-599",
-        "N-441",
+        "N-597",
+        "N-439",
         "N-3"
       ]
     },
@@ -3079,7 +3079,7 @@
         "C-2053"
       ],
       "mentions_person_refs": [
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -3147,7 +3147,7 @@
       "investigative_direction": "Identify the source and date of the clip and the event at which Moore spoke.",
       "transcript_snippet": "I can tell you again, I'm not I'm not Jewish. I'm I'm Christian. Uh and yet I've just always felt felt at home, you know, in the ADL community.",
       "mentions_person_refs": [
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -3172,7 +3172,7 @@
         "C-2054"
       ],
       "mentions_person_refs": [
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -3197,7 +3197,7 @@
         "C-2050"
       ],
       "mentions_person_refs": [
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -3217,7 +3217,7 @@
       "investigative_direction": "School-age personal anecdote from an unnamed classmate; no public record is likely to exist.",
       "transcript_snippet": "He got caught with some porn magazines and was pretty badly made fun of.",
       "mentions_person_refs": [
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -3235,7 +3235,7 @@
       "investigative_direction": "Vehicle purchase records are unlikely to be public; the host should say who told her.",
       "transcript_snippet": "He had a male mentor who bought him and everyone in his family allegedly brand new cars.",
       "mentions_person_refs": [
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -3256,9 +3256,9 @@
       "investigative_direction": "Check Liberty staff history and Godwin's own accounts for Moore's hiring.",
       "transcript_snippet": "And this daddy mentor of his is the one that pushed for Jerry Falwell senior to give Johnny a position with Liberty University. That man's name is Ron Godwin.",
       "mentions_person_refs": [
-        "N-441",
-        "N-442",
-        "N-402"
+        "N-439",
+        "N-440",
+        "N-400"
       ]
     },
     {
@@ -3282,8 +3282,8 @@
         "C-8211"
       ],
       "mentions_person_refs": [
-        "N-403",
-        "N-442"
+        "N-401",
+        "N-440"
       ]
     },
     {
@@ -3309,10 +3309,10 @@
         "C-2055"
       ],
       "mentions_person_refs": [
-        "N-441",
-        "N-442",
+        "N-439",
+        "N-440",
         "N-14",
-        "N-403"
+        "N-401"
       ]
     },
     {
@@ -3333,8 +3333,8 @@
       "investigative_direction": "Check Godwin's retirement date in Liberty announcements.",
       "transcript_snippet": "when Ron Godwin retired from Liberty University in October of 2014, uh of course his Johnny boy left too, right?",
       "mentions_person_refs": [
-        "N-442",
-        "N-441"
+        "N-440",
+        "N-439"
       ]
     },
     {
@@ -3355,8 +3355,8 @@
       "investigative_direction": "Needs internal Liberty hiring correspondence; the host's source is inside Liberty.",
       "transcript_snippet": "he wanted back in at Liberty University and he was told no repeatedly",
       "mentions_person_refs": [
-        "N-441",
-        "N-442"
+        "N-439",
+        "N-440"
       ]
     },
     {
@@ -3378,8 +3378,8 @@
       "investigative_direction": "Check the dates: public reporting should be compared with the host's 2021 date for Falwell Jr.'s exit, Prevo's appointment and the end of the Kirk and Falkirk arrangement; obtain any termination notice.",
       "transcript_snippet": "Jerry Falwell gets ousted from Liberty University. Jerry Prevo is named as his successor. And the very first thing that Jerry Prevo does is he fires Charlie Kirk.",
       "mentions_person_refs": [
-        "N-443",
-        "N-446",
+        "N-441",
+        "N-444",
         "N-1"
       ]
     },
@@ -3403,8 +3403,8 @@
       "investigative_direction": "Request Liberty contracts or disclosures showing a consulting arrangement with Moore or the Kairos Company.",
       "transcript_snippet": "he also moves rather immediately to reinstate none other than the sometimes lurking Johnny Moore, paying him, I am told, an absurd amount monthly retainer.",
       "mentions_person_refs": [
-        "N-446",
-        "N-441"
+        "N-444",
+        "N-439"
       ]
     },
     {
@@ -3446,7 +3446,7 @@
       "investigative_direction": "Compare with Unification Church doctrine and Moon's public statements on world government.",
       "transcript_snippet": "The intention behind the Mooney's cult, by the way, in case it's not clear to you, was one world government achieved through the concept of a unification church.",
       "mentions_person_refs": [
-        "N-403"
+        "N-401"
       ]
     },
     {
@@ -3545,7 +3545,7 @@
         "C-2057"
       ],
       "mentions_person_refs": [
-        "N-445",
+        "N-443",
         "N-3"
       ]
     },
@@ -3807,7 +3807,7 @@
         "C-14144"
       ],
       "mentions_person_refs": [
-        "N-441",
+        "N-439",
         "N-14"
       ]
     },
@@ -3865,7 +3865,7 @@
       "investigative_direction": "Check Javier Milei's recorded family names; the host offers only a viral rumor and labels it a conspiracy.",
       "transcript_snippet": "Saw some stuff about like really his full last name is Milei and he looks a little like BB Nyahoo.",
       "mentions_person_refs": [
-        "N-940",
+        "N-938",
         "N-36"
       ]
     },

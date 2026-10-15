@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-11331, N-11332, N-11333, N-11334
-  - Hole-minted Nodes (reintro-ep033): N-476, N-10488
+  - Hole-minted Nodes (reintro-ep033): N-474, N-10488
   - Tip-minted Nodes (reintro-ep033): N-10925
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12350–C-12416
@@ -676,7 +676,7 @@ Podcaster whose episode with Charlie's security detail a viewer asks the host ab
 
 ---
 
-**N-476** Zack Gregorio (Wolves and Finance)
+**N-474** Zack Gregorio (Wolves and Finance)
 
 Wolves and Finance YouTube channel whose TPUSA filings report is played on air.
 
@@ -1813,7 +1813,7 @@ Claim: The Wolves and Finance video says Tyler Bowyer is telling people on X to 
 Transcript Snippet: So Tyler Bowyer is being snarky on X. com and telling people to go look at the annual financial audit, but the financial audit is missing from last year for three of the four organizations.
 
 Anchored Artifacts: A-1420.1
-Mentions: N-11, N-476
+Mentions: N-11, N-474
 Related Nodes: N-10254, N-10167
 Tags: relevance:context
 Investigative Direction: Locate Bowyer's X posts about the annual audit and compare them with the IRS record of filed returns (the video appears to conflate the audit with Form 990 filings).
@@ -1911,7 +1911,7 @@ Claim: The Wolves and Finance video says the $8,560,625 was sent to America's Tu
 Transcript Snippet: They are sending it to their own shell company. Now, this is not necessarily illegal except for the fact that the financial statement for the other organization is missing.
 
 Anchored Artifacts: A-1420.2
-Mentions: N-476
+Mentions: N-474
 Related Nodes: N-11332, N-10000, N-10254
 Tags: relevance:context
 Investigative Direction: Check state and IRS records for America's Turning Point (entity type, officers, exempt status) to test the 'shell company' description.
@@ -1927,7 +1927,7 @@ Claim: The Wolves and Finance video says TPUSA used to transfer millions of doll
 Transcript Snippet: This stopped in 2021 and they started ramping up sending money to America's Turning Point.
 
 Anchored Artifacts: A-1420.2
-Mentions: N-476
+Mentions: N-474
 Related Nodes: N-11331, N-11332, N-10254
 Tags: relevance:context
 Investigative Direction: Check Schedule I of TPUSA's Forms 990 for 2019 through 2024 and compare the grant recipients year by year.
@@ -1943,7 +1943,7 @@ Claim: The Wolves and Finance video says that as of fiscal year 2023 Turning Poi
 Transcript Snippet: As of fiscal year 2023, they had $61 million of assets in the endowment, which was generating $1.9 million a year of investment income.
 
 Anchored Artifacts: A-1420.2
-Mentions: N-476
+Mentions: N-474
 Related Nodes: N-11331, N-10254
 Tags: relevance:context
 Investigative Direction: Verify the figures on the Turning Point Endowment Form 990 for fiscal year 2023.
@@ -1959,7 +1959,7 @@ Claim: The Wolves and Finance video says that in the prior year the majority of 
 Transcript Snippet: If we look at the prior year, the majority of the money was spent on other salaries and wages. How is this possible when America's Turning Point reports zero employees?
 
 Anchored Artifacts: A-1420.2
-Mentions: N-476
+Mentions: N-474
 Related Nodes: N-11332, N-10254
 Tags: relevance:context
 Investigative Direction: Pull America's Turning Point's prior-year Form 990 (Part VII, Part IX and Schedule O) to check employee count and salary expense, including payments to a related staffing entity.
@@ -1975,7 +1975,7 @@ Claim: The Wolves and Finance narrator says that, in his opinion, he thinks ther
 Transcript Snippet: I think there are fake people on the payroll.
 
 Anchored Artifacts: A-1420.2
-Mentions: N-476
+Mentions: N-474
 Related Nodes: N-11332, N-10254
 Tags: relevance:context
 Investigative Direction: No evidence is presented for this speculation; only audited payroll records or an enforcement finding could confirm or refute it.
@@ -1991,7 +1991,7 @@ Claim: The Wolves and Finance video says the annual financial audit for Turning 
 Transcript Snippet: they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA merch.
 
 Anchored Artifacts: A-1420.3
-Mentions: N-476
+Mentions: N-474
 Related Nodes: N-10896, N-10925, N-11331, N-11332
 Tags: relevance:context
 Investigative Direction: Obtain the Baker Tilly audit report and notes for fiscal year 2024 and confirm the entities covered and the opinion type.
@@ -2007,7 +2007,7 @@ Claim: The Wolves and Finance video says Baker Tilly's audit opinion letter was 
 Transcript Snippet: Baker Tilly's audit opinion letter is signed after Turning Point missed the filing date with the IRS.
 
 Anchored Artifacts: A-1420.3
-Mentions: N-476
+Mentions: N-474
 Related Nodes: N-10896, N-10254
 Tags: relevance:context
 Investigative Direction: Check the signature date on the audit opinion letter against the original and extended Form 990 due dates.
@@ -2210,7 +2210,7 @@ Claim: The host says, while stressing that it is an allegation, that the Wolves 
 Transcript Snippet: that video went deeper into some lawsuits that Baker Tilly was facing for not auditing things correctly.
 
 Anchored Artifacts: 
-Mentions: N-476, N-3
+Mentions: N-474, N-3
 Related Nodes: N-10896
 Tags: relevance:context
 Investigative Direction: Search court dockets for suits naming Baker Tilly US, LLP over audit quality and confirm which suits the video cites.

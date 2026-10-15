@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 4ff884e8b88d089e5a5ddcb0facbdda169075c76bb9db2e13f6bf6d6be1cad05
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-723, N-724, N-11035, N-11036, N-11037, N-11039
+  - Tip-minted Nodes (supplement_2026-10): N-721, N-722, N-11035, N-11036, N-11037, N-11039
   - Hole-minted Nodes (reintro-ep060): N-10437, N-10548, N-10560, N-10664
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5485–C-5571
-  - New Nodes Introduced: N-480, N-481, N-482, N-483, N-10430, N-10431
-  - Reused Nodes Appearing: N-17, N-22, N-27, N-36, N-37, N-46, N-82, N-117, N-192, N-272, N-525, N-10000, N-10004, N-10027, N-10117, N-10122, N-10131, N-10139, N-10149, N-10267, N-10340, N-10341, N-10342, N-10358, N-10367, N-10370, N-10417, N-10422, N-10426, N-10436, N-10694, N-11038
+  - New Nodes Introduced: N-478, N-479, N-480, N-481, N-10430, N-10431
+  - Reused Nodes Appearing: N-17, N-22, N-27, N-36, N-37, N-46, N-82, N-117, N-192, N-272, N-523, N-10000, N-10004, N-10027, N-10117, N-10122, N-10131, N-10139, N-10149, N-10267, N-10340, N-10341, N-10342, N-10358, N-10367, N-10370, N-10417, N-10422, N-10426, N-10436, N-10694, N-11038
   - (see registers), N-11
 
 ## 2. Executive Summary
@@ -267,7 +267,7 @@ Video Timestamp: 00:09:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2151, N-2, N-482*
+*Related: C-2151, N-2, N-480*
 
 ---
 
@@ -281,7 +281,7 @@ Video Timestamp: 00:19:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2152, C-2153, N-480, N-481*
+*Related: C-2152, C-2153, N-478, N-479*
 
 ---
 
@@ -337,7 +337,7 @@ Video Timestamp: 00:40:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2155, C-2156, N-483*
+*Related: C-2155, C-2156, N-481*
 
 ---
 
@@ -350,7 +350,7 @@ Video Timestamp: 00:33:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5521, C-5522, C-5523, N-3, N-32, N-525, N-27, N-10004*
+*Related: C-5521, C-5522, C-5523, N-3, N-32, N-523, N-27, N-10004*
 
 ---
 
@@ -436,7 +436,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-480** Katherine Pollard Griggs
+**N-478** Katherine Pollard Griggs
 
 Wife of Colonel George Griggs. Subject of interview clip played in this episode describing U.S. military as a mind control operation.
 
@@ -445,11 +445,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1656.1, C-2152, C-2153, N-481*
+*Related: A-1656.1, C-2152, C-2153, N-479*
 
 ---
 
-**N-481** Colonel George Griggs
+**N-479** Colonel George Griggs
 
 U.S. Marine Corps officer; head of special operations under Admiral Kelso/NATO; intelligence career spanning Vietnam and continuing under General Wilhelm; husband of Katherine Pollard Griggs. Described in the clip as the source for Katherine Griggs's military claims.
 
@@ -458,11 +458,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1656.1, C-2152, N-480*
+*Related: A-1656.1, C-2152, N-478*
 
 ---
 
-**N-482** Jessica Ghawi
+**N-480** Jessica Ghawi
 
 Victim of the 2012 Aurora theater shooting; previously survived the Toronto Eaton Centre food court shooting weeks earlier; previously lived in New Braunfels, Texas.
 
@@ -475,7 +475,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-483** Ronald Lauder
+**N-481** Ronald Lauder
 
 President of the World Jewish Congress; named in Jerusalem Post headline as allegedly involved in Trump's push for Greenland.
 
@@ -649,7 +649,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-723** Bill Cooper
+**N-721** Bill Cooper
 
 First named by the host at 00:14:50 in episode 60. Author the host calls the original conspiracy theorist who predicted military-linked mass shootings.
 
@@ -697,7 +697,7 @@ Marissa Streit, PragerU CEO, said by the host to be working on a documentary.
 
 ---
 
-**N-724** Shabbos Kestenbaum
+**N-722** Shabbos Kestenbaum
 
 First named by the host at 00:29:52 in episode 60 (spelled Shabazz, Shabos and Kestenbaum in the transcript). Filmmaker the host says is making a documentary with Marissa Streit.
 
@@ -713,7 +713,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-525** Peter Thiel
+**N-523** Peter Thiel
 
 Peter Thiel; subject of Rubin's photo post and the alleged bridge loan.
 
@@ -892,7 +892,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-364** Mitch Snow
+**N-363** Mitch Snow
 
 Mitch Snow; the Fort Huachuca witness at the center of Operation Debunk Mitch.
 
@@ -953,7 +953,7 @@ Claim Timestamp: 00:09:46
 Claim: During her Miss Arizona USA reign, Erika Kirk tweeted that one of her best friends was in the theater during the 2012 Aurora shooting.
 
 Anchored Artifacts: A-1655.1
-Mentions: N-2, N-482
+Mentions: N-2, N-480
 
 
 Investigative Direction: Identify the named friend; cross-reference with the published Aurora victim list; verify any prior connection between Erika Kirk and the Aurora theater victim cohort or New Braunfels, Texas.
@@ -967,7 +967,7 @@ Claim Timestamp: 00:19:31
 Claim: Katherine Pollard Griggs stated in a recorded interview that the U.S. military is literally a mind control operation run by sexual deviants who recruit individuals (citing Jeffrey Dahmer, Kaczynski, McVeigh, Oswald) into intelligence work because they are "easy to control."
 
 Anchored Artifacts: A-1656.1
-Mentions: N-480, N-481
+Mentions: N-478, N-479
 
 
 Investigative Direction: Locate the full unedited interview; verify the date and original broadcast; trace Colonel George Griggs's service record against cited commands (Admiral Kelso, General Wilhelm, NATO Defense College Rome, Princeton Class of 1959).
@@ -981,7 +981,7 @@ Claim Timestamp: 00:22:03
 Claim: Host concurs with Griggs's assessment that the U.S. military is corrupted at the command level and has been institutionally compromised since at least the JFK assassination.
 
 Anchored Artifacts: A-1656.1
-Mentions: N-480, N-481
+Mentions: N-478, N-479
 
 
 Investigative Direction: This is a host stance claim, not independently verifiable; document only as recorded concurrence against A-1656.1.
@@ -1010,7 +1010,7 @@ Claim Timestamp: 00:40:58
 Claim: The Jerusalem Post reports that World Jewish Congress President Ronald Lauder is involved in President Trump's push for Greenland.
 
 Anchored Artifacts: A-1660.1
-Mentions: N-483
+Mentions: N-481
 
 
 Investigative Direction: Retrieve the full Jerusalem Post article; identify the specific role attributed to Lauder; check for corroborating or contradictory reporting from other outlets.
@@ -1024,7 +1024,7 @@ Claim Timestamp: 00:41:54
 Claim: Host and guest concur that Trump's Greenland push is not consistent with America-first policy and is being driven by a donor or supporter's financial interest rather than national interest.
 
 Anchored Artifacts: A-1660.1
-Mentions: N-483
+Mentions: N-481
 
 
 Investigative Direction: Document host stance claim against A-1660.1; investigate reported financial interests of Lauder or associated parties in Greenland.
@@ -1038,7 +1038,7 @@ Claim Timestamp: 01:16:11
 Claim: The host plays a prior Baron Coleman YouTube video clip that she says shows Coleman confronting commenter "Joe" over logic fallacies related to Mitch Snow and Fort Huachuca coverage.
 
 Anchored Artifacts: A-1658.1, A-1659.1
-Mentions: N-332, N-364
+Mentions: N-332, N-363
 
 
 Investigative Direction: Locate the full Coleman confrontation clip and the referenced "Operation Debunk Mitch" series; document context as part of Coleman's investigative output.
@@ -1353,7 +1353,7 @@ Claim: Baron Coleman says Jessica Ghawi was in the Toronto mall food court in 20
 Transcript Snippet: Jessica Ghawi was in that food court. She paid her bill at like I don't remember 6:20 or something like that and 3 minutes later the shooting started
 
 Anchored Artifacts: 
-Mentions: N-332, N-482
+Mentions: N-332, N-480
 Related Nodes: N-11036
 Investigative Direction: Compare with Ghawi's own blog post about leaving the Eaton Centre food court and the Toronto police timeline.
 
@@ -1368,7 +1368,7 @@ Claim: Baron Coleman says Jessica Ghawi used to live in New Braunfels, Texas, an
 Transcript Snippet: she used to live in New Braunfels Texas of all places. Bam that's another thing
 
 Anchored Artifacts: 
-Mentions: N-332, N-482, N-272
+Mentions: N-332, N-480, N-272
 Related Nodes: N-11036, N-10426
 Investigative Direction: Check Ghawi's residence history and any link between her New Braunfels period and people named in the Kirk case.
 
@@ -1383,7 +1383,7 @@ Claim: Baron Coleman says the man who died with Jessica Ghawi had flown in from 
 Transcript Snippet: And he had flown in from New Braunfels Texas to see her to go to this movie in Aurora Colorado.
 
 Anchored Artifacts: 
-Mentions: N-332, N-482
+Mentions: N-332, N-480
 Related Nodes: N-11036, N-10426
 Investigative Direction: Identify the companion from the victim list and confirm his hometown and travel from public reporting.
 
@@ -1398,7 +1398,7 @@ Claim: Baron Coleman says that, rather than leaving her where she lay, two polic
 Transcript Snippet: rather than leaving her where she is two police officers go into the theater and they pull her into a police car and personally say that they take her to a hospital.
 
 Anchored Artifacts: 
-Mentions: N-332, N-482
+Mentions: N-332, N-480
 Related Nodes: N-11036
 Investigative Direction: Compare with the Aurora police report, 911 logs and the coroner's findings on Ghawi's death.
 
@@ -1443,7 +1443,7 @@ Claim: Baron Coleman says Jessica Ghawi's father's obituary did not mention her 
 Transcript Snippet: His daughter who was tragically murdered not terribly long before he died was not mentioned in his obituary.
 
 Anchored Artifacts: 
-Mentions: N-332, N-482
+Mentions: N-332, N-480
 Related Nodes: N-11036
 Investigative Direction: Retrieve the father's obituary and Ghawi's obituary and any adoption record.
 
@@ -1472,7 +1472,7 @@ Claim: The host says Bill Cooper, whom she calls the original conspiracy theoris
 Transcript Snippet: Bill Cooper had made a lot of predictions who was supposed to be the original conspiracy theorist who before there were any mass shootings was speaking about the military
 
 Anchored Artifacts: 
-Mentions: N-3, N-723
+Mentions: N-3, N-721
 Investigative Direction: Locate Cooper's recorded lectures and the dates and wording of any statement about future mass shootings.
 
 ---
@@ -1501,7 +1501,7 @@ Claim: In the clip, the interviewer states and Katherine Griggs affirms that her
 Transcript Snippet: And in fact he told you that they knew the bombing was coming down in Beirut before it occurred.
 
 Anchored Artifacts: A-1656.1
-Mentions: N-480, N-481
+Mentions: N-478, N-479
 Investigative Direction: Locate the full interview and test the claim against the Long Commission report on the 1983 Beirut barracks bombing.
 
 ---
@@ -1577,7 +1577,7 @@ Claim: The host says Marissa Streit, the Prager University CEO, is working on a 
 Transcript Snippet: And uh he's going around telling everybody it's going to be a takedown of Candace Owens and that's what her new focus is at Prager University
 
 Anchored Artifacts: 
-Mentions: N-3, N-117, N-724
+Mentions: N-3, N-117, N-722
 Related Nodes: N-10131
 Investigative Direction: Ask PragerU and the filmmaker to confirm the project's existence and subject; the host spells the name variously.
 
@@ -1606,7 +1606,7 @@ Claim: The host says Dave Rubin posted a picture of himself and her with a capti
 Transcript Snippet: He posts a picture of me and him and he says, "And as long as we are doing this, here we are at Peter Thiel's house in LA.
 
 Anchored Artifacts: A-2758.1
-Mentions: N-3, N-32, N-525
+Mentions: N-3, N-32, N-523
 Investigative Direction: Capture Rubin's post and the photo's metadata to confirm date and location.
 
 ---
@@ -1635,7 +1635,7 @@ Claim: The host says she did not know Peter Thiel before then, that Eric Weinste
 Transcript Snippet: I don't know Peter Thiel. I literally don't know Peter Thiel. So I met him at his LA he was having a party or whatever.
 
 Anchored Artifacts: A-2758.1
-Mentions: N-3, N-525, N-27
+Mentions: N-3, N-523, N-27
 Investigative Direction: Check photographs and other attendee accounts of the 2018 gathering.
 
 ---
@@ -1694,7 +1694,7 @@ Claim: The host says that story is the reason she stopped being friends with Dav
 Transcript Snippet: That's the reason I stopped being friends with Dave Rubin. I never shared that story until the audacity of this person who has told me about how he's done drugs with Peter Thiel.
 
 Anchored Artifacts: 
-Mentions: N-3, N-32, N-525
+Mentions: N-3, N-32, N-523
 Related Nodes: N-11037
 Investigative Direction: Compare with earlier episodes in which the host described her break with Rubin.
 
@@ -1723,7 +1723,7 @@ Claim: The host says Dave Rubin asked billionaire Peter Thiel for $5 million to 
 Transcript Snippet: he went to his friend, billionaire Peter Thiel, and asked for $5 million and they wrote it as like a bridge loan or whatever.
 
 Anchored Artifacts: 
-Mentions: N-3, N-32, N-525
+Mentions: N-3, N-32, N-523
 Investigative Direction: Check property and lien records for Rubin's purchase and ask either party to confirm or deny the loan terms.
 
 ---
@@ -2286,7 +2286,7 @@ Claim: The host says that during Operation Debunk Mitch critics tried to stop Ba
 Transcript Snippet: This is when they were running Operation Debunk Mitch and they were basically being like, you can't even prod the narrative on Fort Wackachuca because Mitch's baby mama from 20 years ago has something to say
 
 Anchored Artifacts: A-1658.1
-Mentions: N-3, N-332, N-364
+Mentions: N-3, N-332, N-363
 Related Nodes: N-10367
 Supports: C-2157
 Investigative Direction: Locate the Operation Debunk Mitch posts and the baby mama's statement.
@@ -2302,7 +2302,7 @@ Claim: Baron Coleman says the host verified that Mitch Snow was at the base, tha
 Transcript Snippet: She had the police report. His son later confirmed the police report was So that's number one. Two. What about the building he said he used?
 
 Anchored Artifacts: A-1658.1
-Mentions: N-332, N-364
+Mentions: N-332, N-363
 Related Nodes: N-10367
 Supports: C-2157
 Investigative Direction: Obtain the police report and the son's confirmation as cited in the host's Fort Huachuca episodes.
@@ -2318,7 +2318,7 @@ Claim: Baron Coleman says the host called someone at the base who confirmed that
 Transcript Snippet: She called someone at the base and they said, yeah. Yeah. Um in fact they do use that building and they black out the windows and it's set up as sort of a a secure facility.
 
 Anchored Artifacts: A-1658.1
-Mentions: N-332, N-364
+Mentions: N-332, N-363
 Related Nodes: N-10367, N-10370
 Supports: C-2157
 Investigative Direction: Identify the base contact and obtain a written or on-record confirmation of the building and its use.

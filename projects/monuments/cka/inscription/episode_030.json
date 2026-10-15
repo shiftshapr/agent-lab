@@ -1769,8 +1769,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-856",
-      "ref": "N-856",
+      "@id": "N-854",
+      "ref": "N-854",
       "name": "Austin Erickson",
       "type": "person",
       "description": "First named by the host at 00:22:40 in episode 30 (spelled Austin Ericson in the transcript). TPUSA staffer addressed with Dylan Erickson.",
@@ -2909,7 +2909,7 @@
       "transcript_snippet": "I have known every word that you have said about me, okay? And I have been investigating you guys for two months straight.",
       "mentions_person_refs": [
         "N-20",
-        "N-856",
+        "N-854",
         "N-3"
       ]
     },
@@ -2932,7 +2932,7 @@
       "transcript_snippet": "your involvement with bringing that sponsor on. Things got a little different once they were brought on. Demands got interesting.",
       "mentions_person_refs": [
         "N-20",
-        "N-856",
+        "N-854",
         "N-1"
       ]
     },
@@ -2958,7 +2958,7 @@
       ],
       "mentions_person_refs": [
         "N-20",
-        "N-856",
+        "N-854",
         "N-38",
         "N-3"
       ]
@@ -3567,7 +3567,7 @@
       "transcript_snippet": "who have intimately let me know the things that the Ericson brothers are doing and saying and texting, and I I just have a file of all of it because of people at Turning Point USA",
       "mentions_person_refs": [
         "N-20",
-        "N-856",
+        "N-854",
         "N-3",
         "N-1"
       ]

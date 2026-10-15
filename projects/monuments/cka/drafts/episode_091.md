@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: 1df74cccac475e4c487a7870fcec07e5418c1bc8bbaa2b6db88833fb27d1cace
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-920, N-921, N-11346, N-11347, N-11348
+  - Tip-minted Nodes (supplement_2026-10f): N-918, N-919, N-11346, N-11347, N-11348
   - Hole-minted Nodes (reintro-ep091): N-343, N-344, N-345, N-346, N-351, N-10613
-  - Tip-minted Nodes (reintro-ep091): N-646, N-730, N-731, N-732
+  - Tip-minted Nodes (reintro-ep091): N-644, N-728, N-729, N-730
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-9, N-15, N-36, N-40, N-161, N-192, N-211, N-223, N-454, N-10000, N-10026, N-10246, N-10253, N-10276, N-10299, N-10325, N-10398, N-10401, N-10411, N-10572, N-10975, N-11186, N-11244, N-10606
+  - Reused Nodes Appearing: N-9, N-15, N-36, N-40, N-161, N-192, N-211, N-223, N-452, N-10000, N-10026, N-10246, N-10253, N-10276, N-10299, N-10325, N-10398, N-10401, N-10411, N-10572, N-10975, N-11186, N-11244, N-10606
   - Claim Range (supplement_2026-10f): C-12818–C-12895
  - New Nodes Introduced: N-10599, N-10600, N-10601, N-10602, N-10603, N-10604, N-10605
- - Hole-minted Nodes (wave3): N-426, N-427
+ - Hole-minted Nodes (wave3): N-424, N-425
  - Reused Nodes Appearing: none (Wave 2: local ids removed)
  - (see registers)
 
@@ -239,19 +239,19 @@ Video Timestamp: 00:56:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12892, C-12893, N-10604, N-343, N-921*
+*Related: C-12892, C-12893, N-10604, N-343, N-919*
 
 ---
 
 ## IV. Node Register
 
-**N-426** Jimmy Cherizier
+**N-424** Jimmy Cherizier
 
 First named by the host at 00:27:14 in episode 91.
 
 *Related: C-2705, C-2716*
 
-**N-427** Daniel Horner
+**N-425** Daniel Horner
 
 First named by the host at 00:32:24 in episode 91.
 
@@ -500,7 +500,7 @@ Victor Marx's stepfather per the host; subject of the army, smuggling and convic
 
 ---
 
-**N-454** Greg Laurie
+**N-452** Greg Laurie
 
 Pastor the host names as accused of trafficking.
 
@@ -508,7 +508,7 @@ Pastor the host names as accused of trafficking.
 
 ---
 
-**N-646** Sebastian Gorka
+**N-644** Sebastian Gorka
 
 Host of the America First show on which Marx and Melody appeared per Hall's statement.
 
@@ -516,7 +516,7 @@ Host of the America First show on which Marx and Melody appeared per Hall's stat
 
 ---
 
-**N-730** Mike Kennedy
+**N-728** Mike Kennedy
 
 Victor Marx's brother per the host; attorney who took a plea deal in the same smuggling case and co-founded the ministry.
 
@@ -524,7 +524,7 @@ Victor Marx's brother per the host; attorney who took a plea deal in the same sm
 
 ---
 
-**N-731** Karl Marx (Victor Marx's father)
+**N-729** Karl Marx (Victor Marx's father)
 
 Marx's biological father per the host; the transcript spells the first name Carl.
 
@@ -532,7 +532,7 @@ Marx's biological father per the host; the transcript spells the first name Carl
 
 ---
 
-**N-732** Kenneth Brining
+**N-730** Kenneth Brining
 
 Eileen Marx's brother per the host; subject of the shooting attempt and trial claims.
 
@@ -540,7 +540,7 @@ Eileen Marx's brother per the host; subject of the shooting attempt and trial cl
 
 ---
 
-**N-920** Chaz Yandle
+**N-918** Chaz Yandle
 
 First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met Hall at the hotel and goes with Marx to Haiti. Spelling as transcribed.
 
@@ -548,7 +548,7 @@ First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met H
 
 ---
 
-**N-921** Corey Kennedy
+**N-919** Corey Kennedy
 
 First named by the host at 00:56:23 in episode 91 as a researcher who has done a deep dive on Victor Marx on X and Facebook. The host is unsure of the surname and spells the first name C O R I.
 
@@ -810,7 +810,7 @@ Claim Timestamp: 00:27:14
 Claim: Corby Hall's written statement documents that Victor Marx stated his team was going to capture or execute Jimmy Barbecue, then the top gang leader of Haiti.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-426
+Mentions: N-424
 
 Related Nodes: N-10602
 
@@ -825,7 +825,7 @@ Claim Timestamp: 00:33:10
 Claim: Corby Hall's written statement documents that Victor Marx stated he was discussing the acquisition of Fold AR with Sig Sauer, and that Sig Sauer's top shooter Daniel Horner had tested the Fold AR and given a "thumbs up."
 
 Anchored Artifacts: A-1958.1
-Mentions: N-427
+Mentions: N-425
 
 Related Nodes: N-10600
 
@@ -968,7 +968,7 @@ Claim Timestamp: 00:28:28
 Claim: CBN News aired a report stating that Victor Marx met with Haitian gang leader Jimmy Barbecue (Cherizier), who subsequently pledged to protect orphanages and Christian workers; Marx is shown praying with him and the FAA is reported to have banned US flights to Haiti after three planes were hit by gunfire.
 
 Anchored Artifacts: A-1960.1
-Mentions: N-426
+Mentions: N-424
 
 Related Nodes: N-10602
 
@@ -1460,7 +1460,7 @@ Claim: The host says Marx's brother Mike Kennedy, later an attorney, pled guilty
 Transcript Snippet: He took a plea deal, so he only served a year and a day in exchange for testifying against his stepfather Gloyce.
 
 Anchored Artifacts: 
-Mentions: N-730, N-351
+Mentions: N-728, N-351
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Check the same federal docket for Mike Kennedy's plea agreement and sentence.
@@ -1476,7 +1476,7 @@ Claim: The host says Marx's biological father, Carl Marx, was apparently a pimp,
 Transcript Snippet: His name was Carl Marx. Okay? And he was a pimp, a drug dealer, and also a world-famous martial arts expert who spent time in a mental hospital for his homicidal tendencies.
 
 Anchored Artifacts: 
-Mentions: N-731, N-343
+Mentions: N-729, N-343
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Ask for the host's sources; check Marx's own books and interviews about his father.
@@ -1590,7 +1590,7 @@ Claim: The host says Eileen Marx's brother Kenneth tried to shoot Marx on his ow
 Transcript Snippet: Eileen, his wife's brother, Kenneth, um for some reason, his his brother-in-law tried to shoot him on his own property.
 
 Anchored Artifacts: 
-Mentions: N-732, N-345, N-343
+Mentions: N-730, N-345, N-343
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Search local police and court records for the incident and its date.
@@ -1606,7 +1606,7 @@ Claim: The host says Eileen's brother would go on to kill his own girlfriend and
 Transcript Snippet: Eileen's brother would go on to kill his own girlfriend, for which I believe he is currently awaiting trial.
 
 Anchored Artifacts: 
-Mentions: N-732, N-345
+Mentions: N-730, N-345
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Check court dockets for any pending case against the named individual; the host states it as a belief.
@@ -1766,7 +1766,7 @@ Claim: In the statement the host reads, Hall says Marx went on Sebastian Gorka's
 Transcript Snippet: Mr. Marx went on Sebastian Gorka's America First show with Melody to discuss the Fold AR
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343, N-346, N-646
+Mentions: N-344, N-343, N-346, N-644
 Related Nodes: N-10600
 Tags: relevance:context
 Investigative Direction: Find the America First episode and check its date and what was said about Fold AR.
@@ -1847,7 +1847,7 @@ Claim: In the statement the host reads, Hall says Marx and his COO Chaz Yandle, 
 Transcript Snippet: Mr. Marx and his COO, Chaz Yandle, he goes with them with hate to Haiti, by the way, met me at the hotel. They were both wearing bulletproof vests.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343, N-920
+Mentions: N-344, N-343, N-918
 Related Nodes: N-10602
 Tags: relevance:core
 Investigative Direction: Identify Marx's COO and ask him about the hotel meeting and the trip to Haiti.
@@ -2188,7 +2188,7 @@ Claim: The host says Greg Laurie is accused of trafficking and that Harvest Chur
 Transcript Snippet: Oh, Greg Laurie, yes, accused of trafficking. Church Harvest Church is being accused of trafficking people from Romania.
 
 Anchored Artifacts: 
-Mentions: N-454
+Mentions: N-452
 Related Nodes: N-10411, N-10401
 Tags: relevance:context
 Investigative Direction: Check the lawsuits and filings against Harvest Christian Fellowship; the host's wording is brief and the entity should be confirmed.
@@ -2252,7 +2252,7 @@ Claim: The host says a person she names as Corey Kennedy has been looking into V
 Transcript Snippet: has done a very good job on both X and on Facebook. Corey Kennedy has done a deep dive into Victor Marx.
 
 Anchored Artifacts: A-3231.1
-Mentions: N-921, N-343
+Mentions: N-919, N-343
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Identify the account and read the posts; confirm the researcher's name and background.
@@ -2268,7 +2268,7 @@ Claim: The host says there have been interviews in which people have heavily sug
 Transcript Snippet: there have been interviews where people have very heavily suggested that Victor Marx is just in fact a compulsive liar.
 
 Anchored Artifacts: A-3231.1
-Mentions: N-343, N-921
+Mentions: N-343, N-919
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Identify the interviews and test the specific factual contradictions against records.

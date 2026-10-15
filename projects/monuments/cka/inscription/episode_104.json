@@ -40,8 +40,8 @@
             "N-10923",
             "N-2",
             "N-162",
-            "N-626",
-            "N-627"
+            "N-624",
+            "N-625"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -84,7 +84,7 @@
             "C-4065"
           ],
           "related_nodes": [
-            "N-374",
+            "N-372",
             "N-2",
             "N-10638"
           ],
@@ -169,7 +169,7 @@
             "C-4097"
           ],
           "related_nodes": [
-            "N-616",
+            "N-614",
             "N-215",
             "N-3"
           ],
@@ -205,7 +205,7 @@
             "C-4099"
           ],
           "related_nodes": [
-            "N-616",
+            "N-614",
             "N-215",
             "N-3",
             "N-1"
@@ -234,7 +234,7 @@
           ],
           "related_nodes": [
             "N-82",
-            "N-381",
+            "N-379",
             "N-10928"
           ],
           "tags": [],
@@ -254,8 +254,8 @@
           ],
           "related_nodes": [
             "N-82",
-            "N-381",
-            "N-629",
+            "N-379",
+            "N-627",
             "N-10928"
           ],
           "tags": [],
@@ -650,8 +650,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-363",
+      "ref": "N-363",
       "name": "Mitch Snow",
       "type": "person",
       "description": "His Fort Huachuca account is said to have checked out through Captain Adam Nef.",
@@ -667,8 +667,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-374",
-      "ref": "N-374",
+      "@id": "N-372",
+      "ref": "N-372",
       "name": "Sarah Sidner",
       "type": "person",
       "description": "Transcript spellings \"Sarah Sidner\" / \"Sarah Seidner\". CNN anchor the host says first posted the \"I want to go home\" clip, at 9:25 p.m. Eastern.",
@@ -687,8 +687,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-493",
-      "ref": "N-493",
+      "@id": "N-491",
+      "ref": "N-491",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Erika Kirk's mother; the host says the Turning Point Action \"super feed\" back door pays her.",
@@ -962,8 +962,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-626",
-      "ref": "N-626",
+      "@id": "N-624",
+      "ref": "N-624",
       "name": "Ryan Rippeon",
       "type": "person",
       "description": "First named by the host at 00:04:55 in episode 104. Named as copied on the White House Military Office email.",
@@ -981,8 +981,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-627",
-      "ref": "N-627",
+      "@id": "N-625",
+      "ref": "N-625",
       "name": "Gustav Anderly",
       "type": "person",
       "description": "First named by the host at 00:04:55 in episode 104. Copied on the email; described as information systems manager at the White House Communications Agency in Arlington, Virginia.",
@@ -1001,8 +1001,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-628",
-      "ref": "N-628",
+      "@id": "N-626",
+      "ref": "N-626",
       "name": "Jared Isaacman",
       "type": "person",
       "description": "First named by the host at 00:22:23 in episode 104. Described as Elon Musk's pick whose appointment Sergio Gor allegedly blocked.",
@@ -1018,8 +1018,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-616",
-      "ref": "N-616",
+      "@id": "N-614",
+      "ref": "N-614",
       "name": "Jessica Reed Kraus",
       "type": "person",
       "description": "First named by the host at 00:29:22 in episode 104. Writer whose posts relayed praise from Nick Shirley's teachers. Aliases: Jessica Reed Krauss; House and Drinking Habit.",
@@ -1039,8 +1039,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-629",
-      "ref": "N-629",
+      "@id": "N-627",
+      "ref": "N-627",
       "name": "Golshifteh Farahani",
       "type": "person",
       "description": "First named by the host at 00:35:22 in episode 104. Exiled Iranian actress named in the Times account of the Macron slap. Aliases: Gosh Farani; Gosh Fani; Farhani; Verahani; Verhani.",
@@ -1086,8 +1086,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-162",
-        "N-626",
-        "N-627"
+        "N-624",
+        "N-625"
       ]
     },
     {
@@ -1210,14 +1210,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-82",
-        "N-381",
-        "N-629"
+        "N-379",
+        "N-627"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-381",
-      "ref": "N-381",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Transcript spelling \"Emmanuel Macron\". Recipient of the slap; said to have received texts from the actress.",
@@ -1318,7 +1318,7 @@
         "C-2793"
       ],
       "mentions_person_refs": [
-        "N-374",
+        "N-372",
         "N-2"
       ]
     },
@@ -1400,8 +1400,8 @@
       "transcript_snippet": "Uh Steven Cheung was copied on the email. Um, Ryan Ripian was copied on the email and gentleman named Gustav Anderly was copied on the email.",
       "mentions_person_refs": [
         "N-162",
-        "N-626",
-        "N-627",
+        "N-624",
+        "N-625",
         "N-3"
       ]
     },
@@ -1422,7 +1422,7 @@
       "investigative_direction": "Verify Gustav Anderly's title through White House Communications Agency staff directories or public profiles.",
       "transcript_snippet": "it just says he's the information systems manager um at the White House communications agency in Arlington, Virginia.",
       "mentions_person_refs": [
-        "N-627"
+        "N-625"
       ]
     },
     {
@@ -1480,7 +1480,7 @@
       "investigative_direction": "Ask CNN and Sidner for the original file's metadata and its source, and identify the device that recorded the clip.",
       "transcript_snippet": "I am told um that this was not a video recorded by Sarah Seidner and that instead it was distributed to Sarah Seidner and that they had operatives record that moment.",
       "mentions_person_refs": [
-        "N-374",
+        "N-372",
         "N-2"
       ]
     },
@@ -1680,7 +1680,7 @@
       "transcript_snippet": "Turning Point Action is headed up by Tyler Bowyer and we have already explained to you that they have built that super feed back door which pays Lori Frantzve, Erika Kirk's mom.",
       "mentions_person_refs": [
         "N-11",
-        "N-493"
+        "N-491"
       ]
     },
     {
@@ -1885,7 +1885,7 @@
       "mentions_person_refs": [
         "N-16",
         "N-118",
-        "N-628",
+        "N-626",
         "N-5"
       ]
     },
@@ -1972,7 +1972,7 @@
       "investigative_direction": "Archive the post with its date and URL.",
       "transcript_snippet": "Two of Nick Shirley's elementary school teachers reached out to me recently to praise Nick, recounting what a smart, sweet, kind kid he was throughout his early years.",
       "mentions_person_refs": [
-        "N-616",
+        "N-614",
         "N-215"
       ]
     },
@@ -2013,7 +2013,7 @@
       "investigative_direction": "Archive the post and any screenshots of the DMs it includes.",
       "transcript_snippet": "It's why Candace Owens is targeting him now. Nick is wildly respected. wildly widely respected, pardon me, among conservative media, carrying forward what Charlie Kirk led",
       "mentions_person_refs": [
-        "N-616",
+        "N-614",
         "N-215",
         "N-3",
         "N-1"
@@ -2037,7 +2037,7 @@
       "transcript_snippet": "there's a new Times headline here that we can show you. Brigitte Macron slapped husband over text messages to an actress.",
       "mentions_person_refs": [
         "N-82",
-        "N-381"
+        "N-379"
       ]
     },
     {
@@ -2059,8 +2059,8 @@
       "transcript_snippet": "what you guys actually saw at the Hanoi airport in May of 2025, um, is actually the fact that the first lady was angry.",
       "mentions_person_refs": [
         "N-82",
-        "N-381",
-        "N-629"
+        "N-379",
+        "N-627"
       ]
     },
     {
@@ -2084,7 +2084,7 @@
       ],
       "mentions_person_refs": [
         "N-321",
-        "N-364",
+        "N-363",
         "N-161",
         "N-3"
       ]

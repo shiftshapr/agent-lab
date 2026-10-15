@@ -2165,7 +2165,7 @@ Claim: In the clip, a speaker remarks on the age gap between the French presiden
 Transcript Snippet: Or when the he was like 40 and the kid was 15 >> or she was 40, even if it was a she.
 
 Anchored Artifacts: A-1443.1
-Mentions: N-381, N-82
+Mentions: N-379, N-82
 Related Nodes: N-10316
 Tags: relevance:tangential
 Investigative Direction: Public records on the Macrons' ages; the remark is comedic commentary.

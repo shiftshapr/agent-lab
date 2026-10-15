@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 2d9d0df8e23c9f62f81f6c3e040382229ea2371024c1d0d0064710f1b9969c26
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-855, N-11231
-  - Hole-minted Nodes (reintro-ep028): N-378, N-10451
+  - Tip-minted Nodes (supplement_2026-10d): N-853, N-11231
+  - Hole-minted Nodes (reintro-ep028): N-376, N-10451
   - Tip-minted Nodes (reintro-ep028): N-11159
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9647–C-9697
-  - Tip-minted Nodes (reintro-ep028): N-716
+  - Tip-minted Nodes (reintro-ep028): N-714
   - (see registers)
 
 ## 6. Meme Register
@@ -142,7 +142,7 @@ Confidence: high
 - Artifact Families Introduced: A-1355, A-1356, A-1357, A-1358, A-1359, A-1360, A-1361, A-1362, A-1363
 - Claim Range: C-1636 – C-1651
   - New Nodes Introduced: N-236, N-237, N-10237, N-10238
-  - Reused Nodes Appearing: N-34, N-36, N-147, N-180, N-224, N-231, N-369, N-665, N-10000, N-10016, N-10025, N-10026, N-10056, N-10063, N-10081, N-10106, N-10345, N-10406, N-10900, N-11096, N-10236, N-10424
+  - Reused Nodes Appearing: N-34, N-36, N-147, N-180, N-224, N-231, N-368, N-663, N-10000, N-10016, N-10025, N-10026, N-10056, N-10063, N-10081, N-10106, N-10345, N-10406, N-10900, N-11096, N-10236, N-10424
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boreing, Marjorie Taylor Greene, Eric Trump, Lara Trump, Ron Paul, Seth Dillon (node IDs to be reconciled against full ledger)
 
 ---
@@ -346,7 +346,7 @@ Confidence Level: Medium
 
 ### People
 
-**N-716** Ron Paul
+**N-714** Ron Paul
 
 Libertarian former congressman; named in C-1649 (Shapiro imagery).
 
@@ -547,7 +547,7 @@ Named by the host as orchestrating the Daily Wire intern operation.
 
 ---
 
-**N-369** Jeremy Boreing
+**N-368** Jeremy Boreing
 
 Former Daily Wire CEO (transcript spelling Boring); the host cites his X Space with Fuentes.
 
@@ -555,7 +555,7 @@ Former Daily Wire CEO (transcript spelling Boring); the host cites his X Space w
 
 ---
 
-**N-378** Lara Trump
+**N-376** Lara Trump
 
 Spoke at the Auburn TPUSA event (transcript spelling Lara Trump).
 
@@ -563,7 +563,7 @@ Spoke at the Auburn TPUSA event (transcript spelling Lara Trump).
 
 ---
 
-**N-665** Ivanka Trump
+**N-663** Ivanka Trump
 
 Named in the host's remarks on Kushner's deals.
 
@@ -683,7 +683,7 @@ Existing topic reused for the CNN clips.
 
 ---
 
-**N-855** Lauren Chen
+**N-853** Lauren Chen
 
 First named by the host at 00:12:33 in episode 28. Host of the X Space where Boring spoke with Fuentes.
 
@@ -777,7 +777,7 @@ Claim Timestamp: 00:14:04
 Claim: According to the read-aloud HuffPost article, on March 25th, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on an X Space hosted by Lauren Chen, praised Fuentes as "very funny" and "one of the most talented political influencers," and offered only mild criticism.
 
 Anchored Artifacts: A-1358.1, A-1359.1
-Mentions: N-203, N-369, N-855
+Mentions: N-203, N-368, N-853
 
 Related Nodes:
 
@@ -792,7 +792,7 @@ Claim Timestamp: 00:14:04–00:15:45
 Claim: According to the read-aloud HuffPost article, Jeremy Boreing said on the X Space that he would be thrilled to have Nick Fuentes on a Daily Wire show.
 
 Anchored Artifacts: A-1358.1, A-1359.1
-Mentions: N-203, N-369
+Mentions: N-203, N-368
 
 Related Nodes:
 
@@ -865,7 +865,7 @@ Claim Timestamp: 00:39:12–00:41:34
 Claim: The host says Eric and Lara Trump appeared as speakers at a recent Turning Point USA event at Auburn University following Charlie Kirk's death.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-34, N-378, N-1
+Mentions: N-34, N-376, N-1
 
 Related Nodes:
 
@@ -909,7 +909,7 @@ Claim Timestamp: 00:02:12
 Claim: Ben Shapiro previously posted tweets containing imagery of Ron Paul "leaning forward from the grave and strangling the Jews" and "gripping the pen as he would the neck of a Jew."
 
 Anchored Artifacts: A-1355.3
-Mentions: N-97, N-716
+Mentions: N-97, N-714
 
 Related Nodes:
 
@@ -1131,7 +1131,7 @@ Claim: The host says Jeremy Boreing, then CEO of the Daily Wire, joined an X Spa
 Transcript Snippet: I distinctly remember the week that I was gloriously fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an Xspace hosted by Lauren Chen
 
 Anchored Artifacts: A-1359.1
-Mentions: N-3, N-369, N-855
+Mentions: N-3, N-368, N-853
 Related Nodes: N-10900
 Supports: C-1640
 Tags: relevance:context
@@ -1148,7 +1148,7 @@ Claim: The host refers to the Daily Wire's position 'in 2024' that its CEO could
 Transcript Snippet: when the Daily Wire position in 2024 was that their CEO could talk to Nick Fuentes publicly, praise Nick Fuentes publicly
 
 Anchored Artifacts: A-1358.1, A-1359.1
-Mentions: N-369, N-203
+Mentions: N-368, N-203
 Related Nodes: N-10900
 Qualifies: C-1640
 Tags: relevance:context
@@ -1165,7 +1165,7 @@ Claim: In the played X Space audio, Nick Fuentes says he dislikes that guys like
 Transcript Snippet: I don't like that guys like Shapiro cannot will not say Christ is king. America first. I think they forfeit their ability to lead.
 
 Anchored Artifacts: A-1359.1
-Mentions: N-203, N-97, N-369
+Mentions: N-203, N-97, N-368
 Tags: relevance:context
 Investigative Direction: Obtain the full X Space recording and confirm the speaker and wording.
 
@@ -1306,7 +1306,7 @@ Claim: The host says Nick Fuentes was an 18-year-old who started asking question
 Transcript Snippet: He started asking questions about Israel and he got artificially pushed out of the market when he had his whole life ahead of him.
 
 Anchored Artifacts: A-1359.1
-Mentions: N-203, N-369, N-97
+Mentions: N-203, N-368, N-97
 Tags: relevance:context
 Investigative Direction: Review the Boring and Fuentes X Space and Fuentes's own account of his dismissal to see what Boring and Shapiro actually conceded.
 
@@ -1564,7 +1564,7 @@ Claim: In the played Auburn clip, a student tells Eric and Lara Trump that durin
 Transcript Snippet: During the summer against Iran, even though he advised against it, Israel still attacked Iran and the US still bombed on behalf of Israel.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-34, N-378
+Mentions: N-34, N-376
 Tags: relevance:context
 Investigative Direction: Compare with the June 2025 timeline of Israeli and US strikes on Iran and public statements of what Trump advised.
 
@@ -1579,7 +1579,7 @@ Claim: In the played Auburn clip, the student says Trump's frustrations with Net
 Transcript Snippet: Your father's frustrations with the Netanyahu have been made clear when he cursed on national TV over the situation.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-34, N-378, N-36
+Mentions: N-34, N-376, N-36
 Tags: relevance:context
 Investigative Direction: Identify the televised remark the student refers to and its date.
 
@@ -1594,7 +1594,7 @@ Claim: In the played Auburn clip, the student says Israel has not been a great a
 Transcript Snippet: Israel has not been a great ally to the US all the way since 1960 when they bombed the USS Liberty.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-34, N-378
+Mentions: N-34, N-376
 Related Nodes: N-10451
 Tags: relevance:tangential
 Investigative Direction: The attack on the USS Liberty is generally dated to 1967; record the student's date as said and verify against the historical record.
@@ -1610,7 +1610,7 @@ Claim: In the played Auburn clip, Eric Trump responds that there is no question 
 Transcript Snippet: There's no question my my father's had frustration. In fact, I think he says frustration throughout the whole conflict with with both sides.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-34, N-378
+Mentions: N-34, N-376
 Tags: relevance:context
 Investigative Direction: Cross-check against public statements by Donald Trump about frustration with Netanyahu and with Iran.
 
@@ -1625,7 +1625,7 @@ Claim: In the played Auburn clip, a speaker answering the student cites a 40-yea
 Transcript Snippet: whether we're talking about a 40-year war like Armenia and Azeraijan, as Eric just pointed out, a five-day war in Thailand and Cambodia.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-378, N-34
+Mentions: N-376, N-34
 Tags: relevance:tangential
 Investigative Direction: Verify the durations and outcomes of the cited conflicts and the speaker's identity in the full clip.
 
@@ -1640,7 +1640,7 @@ Claim: The host says the kids are now awake: they know about Jared Kushner and h
 Transcript Snippet: they know about Jared uh and his deals with Ivanka and the Middle East and how much money they're set to make and you know Gaza being destroyed is actually beneficial uh to their bank accounts.
 
 Anchored Artifacts: 
-Mentions: N-180, N-665
+Mentions: N-180, N-663
 Related Nodes: N-10063
 Tags: relevance:context
 Investigative Direction: Review Kushner's Affinity Partners Middle East investments and public statements on Gaza redevelopment.
@@ -1656,7 +1656,7 @@ Claim: The host says America's upside is that 'we' get lectured and told we are 
 Transcript Snippet: we get to get lectured and told that we're not even allowed to bring up Israel on college campuses or risk being like um arrested getting stricter on anti-semitism laws.
 
 Anchored Artifacts: 
-Mentions: N-34, N-378
+Mentions: N-34, N-376
 Related Nodes: N-10081
 Tags: relevance:context
 Investigative Direction: Identify specific campus arrests or state anti-semitism laws the host may be referring to.
@@ -1672,7 +1672,7 @@ Claim: The host says that the Trumps expected this generation to get behind thei
 Transcript Snippet: you thought that this generation was going to get behind it because what BB bought TikTok.
 
 Anchored Artifacts: 
-Mentions: N-36, N-34, N-378
+Mentions: N-36, N-34, N-376
 Related Nodes: N-11096
 Tags: relevance:tangential
 Investigative Direction: Verify what the host means; check reporting on the TikTok US ownership deal and any Netanyahu statement about TikTok.

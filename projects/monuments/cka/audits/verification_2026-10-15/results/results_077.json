@@ -1,0 +1,797 @@
+[
+ {
+  "claim": "C-6882",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6883",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6884",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Duncan Aviation EVP/COO is Tom Burt (press release); transcript 'Thomas Bert' is a transcription error.",
+  "fix": {
+   "claim": "The host says people on the internet found that Terryl Farnsworth's father-in-law is Thomas Burt, who ran Duncan Aviation, the FBO that she says rented the cars for the feds.",
+   "names": [
+    {
+     "wrong": "Thomas Bert",
+     "right": "Thomas Burt",
+     "source": "https://www.duncanaviation.aero/news/tom-burt-executive-vice-president-coo-of-duncan-aviation-in-battle-creek-michigan-to-retire-after-40-years"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6885",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript 'Thomas Bert' is Tom Burt, Duncan Aviation EVP/COO who retired March 2019 (company press release).",
+  "fix": {
+   "claim": "The host says Thomas Burt ran Duncan Aviation as executive vice president and COO for 22 years and retired in 2019.",
+   "names": [
+    {
+     "wrong": "Thomas Bert",
+     "right": "Thomas Burt",
+     "source": "https://www.duncanaviation.aero/news/tom-burt-executive-vice-president-coo-of-duncan-aviation-in-battle-creek-michigan-to-retire-after-40-years"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6886",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6887",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'they apparently tried out other people'; the claim drops 'apparently'.",
+  "fix": {
+   "claim": "The host says that, apparently, before Maddie, Daily Wire tossed around three other people and even considered a combination show with the person who played the bailiff on Matt Walsh's Judged."
+  }
+ },
+ {
+  "claim": "C-6888",
+  "episode": 52,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Words come in Daily Wire show footage the host plays ('Footage from Daily Wire's new show about me'), not the host speaking. Speaker within footage unclear.",
+  "fix": {
+   "claim": "In Daily Wire footage the host plays, a speaker says that in terms of making honey or bee-related products Utah ranks number 24, so the nickname is not due to honey."
+  }
+ },
+ {
+  "claim": "C-6889",
+  "episode": 52,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Same: Utah beehive explanation is spoken in the Daily Wire footage the host plays, not by the host live.",
+  "fix": {
+   "claim": "In Daily Wire footage the host plays, a speaker says the beehive state name relates to the Church of Latter-day Saints and that early Mormon pioneers liked the idea of a beehive working toward a common good."
+  }
+ },
+ {
+  "claim": "C-6890",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6891",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "French sentencing of Macron tweeters does not bear on Kirk's assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-6892",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "French sentencing of Macron tweeters does not bear on Kirk's assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-6893",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "French sentencing of Macron tweeters does not bear on Kirk's assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-6894",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "French sentencing of Macron tweeters does not bear on Kirk's assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-6895",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host: 'what's known as moral damages'; claim says 'what she calls'. French sentencing is unrelated to Kirk case.",
+  "fix": {
+   "claim": "The host says the defendants have to collectively pay Brigitte Macron what's known as moral damages of around $12,000.",
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-6896",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6897",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6898",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "French sentencing of Macron tweeters does not bear on Kirk's assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-6899",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6900",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6901",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6902",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2016",
+  "episode": 53,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Content is from Maggie Wagner's email the host reads ('I'd like to read this email'), but claim states it as fact with no source.",
+  "fix": {
+   "claim": "Per an email from Maggie Wagner that the host reads, a Daily Wire producer contacted her about 2 days after Ben Shapiro's Amfest speech to audition her for a solo show presented as a comedy show making fun of the right and the left, with Candace Owens and Tucker Carlson brought up immediately."
+  }
+ },
+ {
+  "claim": "C-2017",
+  "episode": 53,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Audition script/AI video and the producer quote come from Maggie's email the host reads; claim presents them as fact.",
+  "fix": {
+   "claim": "Per an email from Maggie Wagner that the host reads, the audition script and AI video were entirely about making fun of Candace Owens, and the producer said, \"So when Candace or Tucker says something crazy, we would want you to make fun of it.\""
+  }
+ },
+ {
+  "claim": "C-2018",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Maggie's text says 'it doesn't feel true to what I really believe...making fun of Candace. I may not be the right fit'; she did not literally 'decline'; text is shown by host.",
+  "fix": {
+   "claim": "Per a text message the host shows, Maggie Wagner told the producer the script 'doesn't feel true to what I really believe in regards to making fun of Candace' and that she 'may not be the right fit'; the host says she did not get the role."
+  }
+ },
+ {
+  "claim": "C-2019",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Mentions lists N-394 though only 'Breitbart News' is named; date Mar 13 is host narration. Not misleading.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2020",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2021",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2022",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2023",
+  "episode": 53,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Details are host's recollection (man Charlie saw: 'your death will save humanity'); the text only says 'I'm being shaped for a time to save humanity'. Chicago/gifted school not in window. Claim names Candace but Mentions omits N-3.",
+  "fix": {
+   "claim": "The host says Charlie Kirk told her about a man he went to see about intense visions of his death, who all but confirmed he would die young and that his death would save humanity; she shows a text from Charlie saying he is 'being shaped for a time to save humanity'.",
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-400"
+   ]
+  }
+ },
+ {
+  "claim": "C-2024",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2025",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3655",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'decentralizing intelligence' (not 'decentralized'); claim is analytic gloss, not what was said.",
+  "fix": {
+   "claim": "The host says that tipsters worldwide each hold a piece of the story and that 'all of us decentralizing intelligence' plus her sharing what viewers send is what is solving the mystery of what happened to Charlie Kirk on September 10th.",
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-3656",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host gives 'Here I'm a mommy sleuth and I have access to this' as an example of tipster voices; 'praises' and 'emailing' are not said.",
+  "fix": {
+   "claim": "The host says tips come from people around the world, such as someone with a text message chain or a 'mommy sleuth' with access to something, and that together this is solving the mystery of what happened to Charlie Kirk."
+  }
+ },
+ {
+  "claim": "C-6903",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript 'deathcon 3' is a caption error for DEFCON 3 (episode title 'DEFCON 3').",
+  "fix": {
+   "claim": "The host says Kanye West in 2022 said he would go \"DEFCON 3\" on Jewish people, and that he was right about the blackballing of anyone who opposes a specific agenda."
+  }
+ },
+ {
+  "claim": "C-6904",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6905",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6906",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6907",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6908",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6909",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6910",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6911",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6912",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6913",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": true,
+  "note": "Claim names Tucker Carlson but Mentions omits N-22. Shapiro buying an Amfest slot is context, not core.",
+  "fix": {
+   "mentions": [
+    "N-97",
+    "N-2",
+    "N-3",
+    "N-46",
+    "N-22"
+   ],
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6914",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6915",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Daily Wire casting email, not about the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6916",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6917",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Daily Wire AI casting sample; not core to the assassination.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6918",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6919",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Parody sample from Daily Wire; not core. unresolved name: Kyle Robinson (no source found; HappyScribe blocked).",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6920",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6921",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6922",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6923",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6924",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6925",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6926",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6927",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6928",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6929",
+  "episode": 53,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

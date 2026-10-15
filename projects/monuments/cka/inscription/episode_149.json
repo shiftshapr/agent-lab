@@ -684,10 +684,10 @@
             "C-14944"
           ],
           "related_nodes": [
-            "N-904",
+            "N-902",
             "N-3",
             "N-11310",
-            "N-491"
+            "N-489"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1021,8 +1021,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-491",
-      "ref": "N-491",
+      "@id": "N-489",
+      "ref": "N-489",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Named by the host at 00:12:02 in episode 123; first introduced in episode 121.",
@@ -1042,8 +1042,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-496",
-      "ref": "N-496",
+      "@id": "N-494",
+      "ref": "N-494",
       "name": "Justin Davis",
       "type": "person",
       "description": "Named by the host at 00:12:13 in episode 147; first introduced in episode 124.",
@@ -1131,8 +1131,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-436",
-      "ref": "N-436",
+      "@id": "N-434",
+      "ref": "N-434",
       "name": "Kimberly Klacik",
       "type": "person",
       "description": "Former Maryland Republican congressional nominee; the host recounts her defamation suit.",
@@ -1385,8 +1385,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-904",
-      "ref": "N-904",
+      "@id": "N-902",
+      "ref": "N-902",
       "name": "Blake Harreff",
       "type": "person",
       "description": "Security team member; the host says he stayed behind, was clean and later wore scrubs.",
@@ -1526,8 +1526,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-368",
-      "ref": "N-368",
+      "@id": "N-367",
+      "ref": "N-367",
       "name": "Diligent Dennison",
       "type": "person",
       "description": "Citizen journalist who released a waiter interview and the receipt.",
@@ -1615,8 +1615,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-907",
-      "ref": "N-907",
+      "@id": "N-905",
+      "ref": "N-905",
       "name": "Miss Noble",
       "type": "person",
       "description": "Neighbor who the host says saw a bald man driving with two other people.",
@@ -1632,8 +1632,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-363",
+      "ref": "N-363",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Fort Huachuca eyewitness; the host says she cannot confirm he saw Erika or Harpole.",
@@ -1805,8 +1805,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-853",
-      "ref": "N-853",
+      "@id": "N-851",
+      "ref": "N-851",
       "name": "Tony Burke",
       "type": "person",
       "description": "Australian minister the host says banned her.",
@@ -1970,7 +1970,7 @@
       "claim_timestamp": "00:18:51",
       "investigative_direction": "Cross-reference with security team testimony and hospital arrival records; identify when and how Blake reached the hospital.",
       "mentions_person_refs": [
-        "N-496"
+        "N-494"
       ]
     },
     {
@@ -2002,7 +2002,7 @@
       "claim_timestamp": "00:20:42",
       "investigative_direction": "Identify scrubs source; obtain hospital records/logs.",
       "mentions_person_refs": [
-        "N-491"
+        "N-489"
       ]
     },
     {
@@ -2019,7 +2019,7 @@
       "claim_timestamp": "00:20:42",
       "investigative_direction": "Identify scrubs source; cross-reference with hospital logs.",
       "mentions_person_refs": [
-        "N-496"
+        "N-494"
       ]
     },
     {
@@ -2434,7 +2434,7 @@
       "investigative_direction": "Public reporting and records on Klacik's earlier employment; treat as a personal-history allegation recorded as said.",
       "transcript_snippet": "I found out that she was like hiding the fact that she was a whole stripper.",
       "mentions_person_refs": [
-        "N-436",
+        "N-434",
         "N-3"
       ]
     },
@@ -2453,7 +2453,7 @@
       "investigative_direction": "Pull the Tennessee court docket and any fee award order in the Klacik v. Owens case; compare with the earlier claim that the suit was dropped in discovery.",
       "transcript_snippet": "sued me for def defamation and she subsequently lost that defamation lawsuit and she had to pay me here in Tennessee because we have anti-SLAP laws gratefully.",
       "mentions_person_refs": [
-        "N-436",
+        "N-434",
         "N-3"
       ]
     },
@@ -2933,7 +2933,7 @@
       ],
       "mentions_person_refs": [
         "N-268",
-        "N-491",
+        "N-489",
         "N-7"
       ]
     },
@@ -3156,8 +3156,8 @@
         "C-3551"
       ],
       "mentions_person_refs": [
-        "N-496",
-        "N-904"
+        "N-494",
+        "N-902"
       ]
     },
     {
@@ -3181,7 +3181,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-904"
+        "N-902"
       ]
     },
     {
@@ -3202,7 +3202,7 @@
       "transcript_snippet": "Dan Flood is also wearing surgical scrubs, but we know he carried Charlie. Rick Cutler certainly carried Charlie and was in the vehicle.",
       "mentions_person_refs": [
         "N-272",
-        "N-491"
+        "N-489"
       ]
     },
     {
@@ -3222,8 +3222,8 @@
       "investigative_direction": "Confirm Davis's role at the hospital from footage and team statements.",
       "transcript_snippet": "He didn't touch Charlie while getting into the vehicle. Neither Justin Davis, by the way.",
       "mentions_person_refs": [
-        "N-904",
-        "N-496"
+        "N-902",
+        "N-494"
       ]
     },
     {
@@ -3285,7 +3285,7 @@
       "transcript_snippet": "That's Alex Fria who he just hugged. That there in the corner in the white hat is Rick Cutler.",
       "mentions_person_refs": [
         "N-268",
-        "N-491"
+        "N-489"
       ]
     },
     {
@@ -3540,7 +3540,7 @@
         "C-6119"
       ],
       "mentions_person_refs": [
-        "N-368"
+        "N-367"
       ]
     },
     {
@@ -3725,7 +3725,7 @@
       "investigative_direction": "Obtain Mrs. Noble's statement and any doorbell or street camera footage of the vehicle at 12:38 a.m.",
       "transcript_snippet": "That would be why she saw a bald man [snorts] driving with two other people because it wouldn't be Tyler Robinson that was driving.",
       "mentions_person_refs": [
-        "N-907",
+        "N-905",
         "N-40"
       ]
     },
@@ -3784,7 +3784,7 @@
         "C-3888"
       ],
       "mentions_person_refs": [
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -3805,7 +3805,7 @@
       "investigative_direction": "Look for lobby camera footage, guest registration or third-party witnesses to corroborate Snow's sighting.",
       "transcript_snippet": "But can we confirm that he actually saw Erika Kirk in the lobby or that he actually saw Brian Harpole? No, because that relies on his memory, right?",
       "mentions_person_refs": [
-        "N-364",
+        "N-363",
         "N-2",
         "N-268"
       ]
@@ -4098,7 +4098,7 @@
         "C-10045"
       ],
       "mentions_person_refs": [
-        "N-853",
+        "N-851",
         "N-3"
       ]
     },
@@ -4201,7 +4201,7 @@
       "investigative_direction": "Review incoming tips about scrub changes at the hospital or UVU and corroborate with footage.",
       "transcript_snippet": "Email us more tips canoners. com. Maybe you are Blake Harreff and you just want to talk.",
       "mentions_person_refs": [
-        "N-904",
+        "N-902",
         "N-3"
       ]
     },
@@ -4223,8 +4223,8 @@
       "investigative_direction": "Check for any response from Harreff or Cutler to the standing offer.",
       "transcript_snippet": "Maybe you're Rick Cutler and you want to talk. I'll protect you guys as sources.",
       "mentions_person_refs": [
-        "N-904",
-        "N-491",
+        "N-902",
+        "N-489",
         "N-3"
       ]
     },

@@ -1,0 +1,845 @@
+[
+ {
+  "claim": "C-14043",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14044",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14045",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14046",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14047",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14048",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14049",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14050",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14051",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Danny McCoy (Mikey McCoy's brother, no node) and Danny; Mikey McCoy N-192 is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-14052",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14053",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Husband's Wikipedia/Qatari-passport rumor is a private individual's personal matter, not the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-14054",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14055",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "NY Post workplace gossip about the host; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-14056",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "People magazine cover gossip about the host; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-14057",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Whether her team hated her is tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-14058",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14059",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie (\"people around Charlie\") but Mentions omits N-1.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-14060",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14061",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14062",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie (\"Charlie's security\") but Mentions omits N-1.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-82",
+    "N-436"
+   ]
+  }
+ },
+ {
+  "claim": "C-14063",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14064",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"Huachuca\"; the \"which she spells Huachuca\" and \"Fort\" wording is not in the transcript, and she says she will prove Egyptian planes tie to Israel.",
+  "fix": {
+   "claim": "The host says there is something at Huachuca that she thinks caused a panic, and that she will cover it the next day along with the Egyptian planes."
+  }
+ },
+ {
+  "claim": "C-14065",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host: \"I thought we were not supposed to be doing live streams... TPUSA has their daily show, but I didn't feel like that was communicated to me.\" Claim garbles it; Tyler Robinson named but N-40 missing.",
+  "fix": {
+   "claim": "The host says she thought neither side was supposed to be doing live streams while talks were underway, that TPUSA's continued daily show was not communicated to her, that it felt like a ceasefire that got violated, and that the Charlie Kirk Show discussed the Tyler Robinson trial the day before.",
+   "mentions": [
+    "N-3",
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-14066",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14067",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14068",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14069",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Speaker says \"Andrew Seifer, who's our head of field\"; head of field is Andrew Sypher (tpusa.com), a transcription error.",
+  "fix": {
+   "claim": "A speaker on the Charlie Kirk Show says that Andrew Sypher, head of field, can attest that Charlie sometimes put out events 7 to 10 days in advance and could do outdoor events on a quick turn.",
+   "names": [
+    {
+     "wrong": "Andrew Seifer",
+     "right": "Andrew Sypher",
+     "source": "https://www.tpusa.com/andrewsypher"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14070",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14071",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14072",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14073",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names the Robinson messages (Tyler Robinson) but Mentions omits N-40.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-3",
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-14074",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "material": true,
+  "note": "Kelly offering to ref is at ~58:12 (about 80s after 56:50). \"Later helped make it happen\" is not said; the host commends \"him\" (Justin Streiff) for making it happen.",
+  "fix": {
+   "claim": "The host says Megyn Kelly, who was initially going to ref the conversation when it was going to be livestreamed and before the Bari Weiss moment, offered to ref it.",
+   "timestamp": "00:58:07"
+  }
+ },
+ {
+  "claim": "C-14075",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14076",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14077",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14078",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14079",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14080",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14081",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14082",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14083",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14084",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14085",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Tyler Bowyer (N-11) is named in the transcript but not in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-22",
+    "N-147"
+   ]
+  }
+ },
+ {
+  "claim": "C-14086",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14087",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14088",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1960",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says \"Andrew Colberg\"; this is Andrew Kolvet (TPUSA spokesman), whose X post quoted the surgeon. Transcription error.",
+  "fix": {
+   "claim": "Andrew Kolvet's X post contains a quotation attributed to \"the surgeon\" describing Charlie Kirk's neck bone as \"so healthy and the density was so, so impressive that he's like the man of steel,\" and stating the bullet \"should have just gone through and through.\"",
+   "mentions": [
+    "N-197",
+    "N-14",
+    "N-1"
+   ],
+   "names": [
+    {
+     "wrong": "Andrew Colberg",
+     "right": "Andrew Kolvet",
+     "source": "https://x.com/AndrewKolvet/status/1969551427648569633"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1961",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Turek's \"They roped off the vehicle\" begins ~27:17; claim timestamp 27:47 is ~30s after.",
+  "fix": {
+   "timestamp": "00:27:12"
+  }
+ },
+ {
+  "claim": "C-1962",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Turek: cop said \"we've been looking for that.\" \"I said, I got it. So I just took it.\" He did not hand it to the officer.",
+  "fix": {
+   "claim": "Frank Turek states on a podcast that Charlie's necklace, bearing a cross and medallions, was draped over his computer bag inside the transport vehicle, and that when a cop said they had been looking for it, he said he had it and took it."
+  }
+ },
+ {
+  "claim": "C-1963",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1964",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1965",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1966",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1967",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Harpole: \"it started before that with the intelligence gathering... but the hard conversations, the sharing of information, the conference calls\" began the 24th. Claim says intel gathering began the 24th.",
+  "fix": {
+   "claim": "Brian Harpole states in an interview that the hard conversations, information sharing and conference calls for the UVU event began on August 24, though the intelligence gathering started before that."
+  }
+ },
+ {
+  "claim": "C-1968",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"Timpanogos Regional Hospital\" is not said in the passage; host says \"the hospital\".",
+  "fix": {
+   "claim": "Candace Owens states that she is in possession of six photographs depicting the interior of the vehicle used to transport Charlie Kirk to the hospital, and that the team considered displaying one on the broadcast."
+  }
+ },
+ {
+  "claim": "C-3654",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"Emailing tips\" and \"crowd intelligence\" are not said; host says mommy sleuths and investigators on the ground not accepting the feds' flop, and she intends to partner with them.",
+  "fix": {
+   "claim": "The host says that by investigators she means mommy sleuths and investigators on the ground who have been looking into the story and not accepting the feds' flop, which she thinks is a good thing, and that she intends to partner with them."
+  }
+ },
+ {
+  "claim": "C-3758",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"which it looks like Trump has just confirmed\"; hedge \"it looks like\" dropped.",
+  "fix": {
+   "claim": "The host says she has never seen a more extreme cover-up than the Charlie Kirk cover-up the feds are engaged in, and links it to reports, which it looks like Trump has confirmed, that Dan Bongino will step down from the FBI; she suggests Bongino may have realised how far the corruption goes."
+  }
+ },
+ {
+  "claim": "C-5185",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Andrew Colberg\" is Andrew Kolvet (confirmed via his X post about the surgeon); transcription error.",
+  "fix": {
+   "claim": "The host says she was told that Andrew Kolvet was allegedly flying blind when he tweeted out the conversation he had with the surgeon.",
+   "mentions": [
+    "N-3",
+    "N-14"
+   ],
+   "names": [
+    {
+     "wrong": "Andrew Colberg",
+     "right": "Andrew Kolvet",
+     "source": "https://x.com/AndrewKolvet/status/1969551427648569633"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-5186",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Andrew Colberg\" is Andrew Kolvet; transcription error.",
+  "fix": {
+   "claim": "The host says the Kolvet tweet about Superman neck came very quickly after she said on her show that she had seen the back footage and there was no blood.",
+   "mentions": [
+    "N-3",
+    "N-14"
+   ],
+   "names": [
+    {
+     "wrong": "Andrew Colberg",
+     "right": "Andrew Kolvet",
+     "source": "https://x.com/AndrewKolvet/status/1969551427648569633"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-5187",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Andrew Colberg\" is Andrew Kolvet; transcription error.",
+  "fix": {
+   "claim": "The host says that, per a source she trusts, Dr. Lee Trotter never once said Charlie Kirk's neck stopped a .30-06 bullet, and that the quotation Kolvet shared on X is not a direct quotation from the surgeon.",
+   "mentions": [
+    "N-197",
+    "N-14",
+    "N-1"
+   ],
+   "names": [
+    {
+     "wrong": "Andrew Colberg",
+     "right": "Andrew Kolvet",
+     "source": "https://x.com/AndrewKolvet/status/1969551427648569633"
+    }
+   ]
+  }
+ }
+]

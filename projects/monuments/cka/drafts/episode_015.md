@@ -18,7 +18,7 @@
   - Claim Range (supplement_2026-10b): C-6449–C-6511
   - New Nodes Introduced: N-10162, N-10163, N-10164, N-10166, N-10167
   - Reused Nodes Appearing: N-1, N-2, N-11, N-10165, N-5, N-15, N-36, N-40, N-46, N-50, N-51, N-101, N-10000, N-10016, N-10025, N-10026, N-10100, N-10104, N-10117, N-10132, N-10139, N-10662, N-10350, N-11096, N-11099, N-11097
-  - Hole-minted Nodes (wave3): N-382
+  - Hole-minted Nodes (wave3): N-380
 
 ## 2. Executive Summary
 
@@ -379,7 +379,7 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
-**N-382** Dan Bongino
+**N-380** Dan Bongino
 
 First named by the host at 00:38:08 in episode 15. Aliases: Dan Bonino.
 
@@ -864,7 +864,7 @@ Claim Timestamp: 00:38:03
 Claim: The same WSJ article quotes Alex Clark as praising FBI director Kash Patel and deputy Dan Bongino for their leadership in the suspect hunt, stating "we have them in office because of Charlie."
 
 Anchored Artifacts: A-1222.1
-Mentions: N-99, N-69, N-382
+Mentions: N-99, N-69, N-380
 
 Related Nodes: N-10166
 

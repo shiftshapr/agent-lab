@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a2dc76d34975c9abe510df358ab1de54f418f9e78f0eceb43fa1e5c1aa410541
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-796
+  - Tip-minted Nodes (supplement_2026-10b): N-794
   - Claim Range (supplement_2026-10b): C-7693–C-7775
   - (see registers)
 
@@ -49,7 +49,7 @@ Confidence: high
 - Artifact Families Introduced: A-2341, A-2342, A-2343, A-2344, A-2345, A-2346, A-2347, A-2348, A-2349, A-2350
 - Claim Range: C-3393–C-3405
   - New Nodes Introduced: none
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-14, N-27, N-161, N-331, N-10000, N-361, N-36, N-55, N-97, N-166, N-213, N-239, N-245, N-370, N-434, N-490, N-713, N-10011, N-10012, N-10024, N-10058, N-10061, N-10062, N-10169, N-10201, N-10342, N-10657, N-10662, N-10715, N-10805, N-10888, N-10900, N-10905, N-10914, N-10968, N-11061
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-14, N-27, N-161, N-331, N-10000, N-361, N-36, N-55, N-97, N-166, N-213, N-239, N-245, N-369, N-432, N-488, N-711, N-10011, N-10012, N-10024, N-10058, N-10061, N-10062, N-10169, N-10201, N-10342, N-10657, N-10662, N-10715, N-10805, N-10888, N-10900, N-10905, N-10914, N-10968, N-11061
   - Hole-minted Nodes (wave1): N-352
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-161 Blake Neff, N-27 Kanye West (Ye), N-10000 Turning Point USA (TPUSA), N-7 Frank Turek, N-14 Andrew Kolvet (aired as Andrew Kolvet), N-331 Tulsi Gabbard, N-4 JD Vance. Wave 1: the draft first used local placeholder ids here; Kim Kardashian, New York Times, Deseret News, Andrew Cooper, Salem Media, Brad Parscale, Ebro Darden and Danny Philip have no cited CKA person node in this episode.
 
@@ -513,7 +513,7 @@ Video Timestamp: 00:56:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7771, C-7772, C-7773, N-434, N-10657*
+*Related: C-7771, C-7772, C-7773, N-432, N-10657*
 
 ---
 
@@ -683,7 +683,7 @@ Tulsi Gabbard; the host says her office was given the Zoom call conversation.
 
 ---
 
-**N-370** Danny Philip
+**N-369** Danny Philip
 
 Danny Philip; the host says he drove the second Denali with Neff and that Neff will not name him.
 
@@ -691,7 +691,7 @@ Danny Philip; the host says he drove the second Denali with Neff and that Neff w
 
 ---
 
-**N-434** Brad Parscale
+**N-432** Brad Parscale
 
 Brad Parscale; the host says he was a Salem Media executive who brought the filings forward.
 
@@ -699,7 +699,7 @@ Brad Parscale; the host says he was a Salem Media executive who brought the fili
 
 ---
 
-**N-490** Taylor Swift
+**N-488** Taylor Swift
 
 Taylor Swift; the host compares Ye's tour to her Eras Tour.
 
@@ -707,7 +707,7 @@ Taylor Swift; the host compares Ye's tour to her Eras Tour.
 
 ---
 
-**N-713** John F. Kennedy
+**N-711** John F. Kennedy
 
 John F. Kennedy; named in the host's Operation Mockingbird aside.
 
@@ -875,7 +875,7 @@ Existing topic reused for the Restaurantology attendance claim.
 
 ---
 
-**N-796** Ebro Darden
+**N-794** Ebro Darden
 
 First named by the host (as Ebro) at 00:28:04 in episode 148. Radio host named in Ye's TMZ clip, who Ye says declined to have the host on his show. Aliases: Ebro.
 
@@ -1077,7 +1077,7 @@ Claim: The host says Ye has been touring and selling out stadiums of 70,000 to 1
 Transcript Snippet: he has been touring and he has been selling out stadiums that are between 70,000-100,000 seats all over the world
 
 Anchored Artifacts: 
-Mentions: N-27, N-490, N-3
+Mentions: N-27, N-488, N-3
 Tags: relevance:tangential
 Investigative Direction: Check announced attendance and ticketing figures for Ye's 2026 stadium dates against the host's range.
 
@@ -1497,7 +1497,7 @@ Claim: In the TMZ clip played by the host, Ye says he FaceTimed Ebro with Candac
 Transcript Snippet: I said, "Yo, you going to have Candace on your show?" He's like, "Nah, I'm not. She's mean."
 
 Anchored Artifacts: A-2344.1
-Mentions: N-27, N-3, N-796
+Mentions: N-27, N-3, N-794
 Related Nodes: N-10011
 Tags: relevance:tangential
 Investigative Direction: Identify the date of the TMZ interview and Ebro Darden's account, if any, of the exchange.
@@ -1528,7 +1528,7 @@ Claim: The host says that although Neff flew into Salt Lake City with Charlie ab
 Transcript Snippet: we know that Blake got into the second rental, a Denali, with Danny Philip and perhaps some other people
 
 Anchored Artifacts: 
-Mentions: N-161, N-370, N-1
+Mentions: N-161, N-369, N-1
 Related Nodes: N-10715
 Supports: C-3095, C-3020
 Tags: relevance:core
@@ -1545,7 +1545,7 @@ Claim: The host says neither Danny Philip nor Blake Neff attended the Restaurant
 Transcript Snippet: We know that neither Danny or Blake attend the restaurantology event that morning where Charlie gave an interview.
 
 Anchored Artifacts: 
-Mentions: N-370, N-161, N-1
+Mentions: N-369, N-161, N-1
 Related Nodes: N-11061, N-10715
 Tags: relevance:core
 Investigative Direction: Event attendee list, green-room footage and the restaurant's own video of the morning.
@@ -1561,7 +1561,7 @@ Claim: The host says Neff cannot account for where he was, says he was keeping t
 Transcript Snippet: He didn't even remember who he was with. He had to be reminded that he was with Danny who was driving the vehicle.
 
 Anchored Artifacts: 
-Mentions: N-161, N-370
+Mentions: N-161, N-369
 Related Nodes: N-10715
 Supports: C-3019, C-3020, C-5865
 Tags: relevance:core
@@ -1706,7 +1706,7 @@ Claim: The host says Neff will not name the person he was talking to in the wait
 Transcript Snippet: He won't name the person which makes me think usually when he develops this amnesia it's usually about Danny Philip for some reason.
 
 Anchored Artifacts: A-2347.1
-Mentions: N-161, N-370
+Mentions: N-161, N-369
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Ask Neff or the Deseret News who was in the waiting room.
@@ -1992,7 +1992,7 @@ Claim: The host says that the New York Times was involved in Operation Mockingbi
 Transcript Snippet: Operation Mockingbird. The New York Times was involved in that. After they committed another a different state assassination. Assassination of JFK.
 
 Anchored Artifacts: 
-Mentions: N-713, N-2
+Mentions: N-711, N-2
 Related Nodes: N-10061, N-10968
 Tags: relevance:tangential
 Investigative Direction: Cite the Church Committee findings on press relationships; the host gives no source on air.
@@ -2343,7 +2343,7 @@ Claim: The host says she believes Brad Parscale was on the board of Salem Media 
 Transcript Snippet: Brad Parscale, I believe, was on the of Salem Media, or he was at least um an executive at Salem Media, who brought this forward.
 
 Anchored Artifacts: A-2900.1
-Mentions: N-434
+Mentions: N-432
 Related Nodes: N-10657
 Supports: C-2866
 Tags: relevance:core

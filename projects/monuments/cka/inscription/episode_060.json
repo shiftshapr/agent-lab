@@ -58,7 +58,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-482"
+            "N-480"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -85,8 +85,8 @@
             "C-2153"
           ],
           "related_nodes": [
-            "N-480",
-            "N-481"
+            "N-478",
+            "N-479"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -192,7 +192,7 @@
             "C-2156"
           ],
           "related_nodes": [
-            "N-483"
+            "N-481"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -222,7 +222,7 @@
           "related_nodes": [
             "N-3",
             "N-32",
-            "N-525",
+            "N-523",
             "N-27",
             "N-10004"
           ],
@@ -387,8 +387,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-480",
-      "ref": "N-480",
+      "@id": "N-478",
+      "ref": "N-478",
       "name": "Katherine Pollard Griggs",
       "type": "person",
       "description": "Wife of Colonel George Griggs. Subject of interview clip played in this episode describing U.S. military as a mind control operation.",
@@ -405,13 +405,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-481"
+        "N-479"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-481",
-      "ref": "N-481",
+      "@id": "N-479",
+      "ref": "N-479",
       "name": "Colonel George Griggs",
       "type": "person",
       "description": "U.S. Marine Corps officer; head of special operations under Admiral Kelso/NATO; intelligence career spanning Vietnam and continuing under General Wilhelm; husband of Katherine Pollard Griggs. Described in the clip as the source for Katherine Griggs's military claims.",
@@ -427,13 +427,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-480"
+        "N-478"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-482",
-      "ref": "N-482",
+      "@id": "N-480",
+      "ref": "N-480",
       "name": "Jessica Ghawi",
       "type": "person",
       "description": "Victim of the 2012 Aurora theater shooting; previously survived the Toronto Eaton Centre food court shooting weeks earlier; previously lived in New Braunfels, Texas.",
@@ -451,8 +451,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-483",
-      "ref": "N-483",
+      "@id": "N-481",
+      "ref": "N-481",
       "name": "Ronald Lauder",
       "type": "person",
       "description": "President of the World Jewish Congress; named in Jerusalem Post headline as allegedly involved in Trump's push for Greenland.",
@@ -676,8 +676,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-363",
+      "ref": "N-363",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Subject and source of Fort Huachuca sightings testimony; his son's interview (A-1574) provides partial corroboration.",
@@ -989,8 +989,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-723",
-      "ref": "N-723",
+      "@id": "N-721",
+      "ref": "N-721",
       "name": "Bill Cooper",
       "type": "person",
       "description": "First named by the host at 00:14:50 in episode 60. Author the host calls the original conspiracy theorist who predicted military-linked mass shootings.",
@@ -1094,8 +1094,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-724",
-      "ref": "N-724",
+      "@id": "N-722",
+      "ref": "N-722",
       "name": "Shabbos Kestenbaum",
       "type": "person",
       "description": "First named by the host at 00:29:52 in episode 60 (spelled Shabazz, Shabos and Kestenbaum in the transcript). Filmmaker the host says is making a documentary with Marissa Streit.",
@@ -1129,8 +1129,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-525",
-      "ref": "N-525",
+      "@id": "N-523",
+      "ref": "N-523",
       "name": "Peter Thiel",
       "type": "person",
       "description": "Peter Thiel; subject of Rubin's photo post and the alleged bridge loan.",
@@ -1617,7 +1617,7 @@
       "investigative_direction": "Identify the named friend; cross-reference with the published Aurora victim list; verify any prior connection between Erika Kirk and the Aurora theater victim cohort or New Braunfels, Texas.",
       "mentions_person_refs": [
         "N-2",
-        "N-482"
+        "N-480"
       ]
     },
     {
@@ -1634,8 +1634,8 @@
       "claim_timestamp": "00:19:31",
       "investigative_direction": "Locate the full unedited interview; verify the date and original broadcast; trace Colonel George Griggs's service record against cited commands (Admiral Kelso, General Wilhelm, NATO Defense College Rome, Princeton Class of 1959).",
       "mentions_person_refs": [
-        "N-480",
-        "N-481"
+        "N-478",
+        "N-479"
       ]
     },
     {
@@ -1652,8 +1652,8 @@
       "claim_timestamp": "00:22:03",
       "investigative_direction": "This is a host stance claim, not independently verifiable; document only as recorded concurrence against A-1656.1.",
       "mentions_person_refs": [
-        "N-480",
-        "N-481"
+        "N-478",
+        "N-479"
       ]
     },
     {
@@ -1692,7 +1692,7 @@
       "claim_timestamp": "00:40:58",
       "investigative_direction": "Retrieve the full Jerusalem Post article; identify the specific role attributed to Lauder; check for corroborating or contradictory reporting from other outlets.",
       "mentions_person_refs": [
-        "N-483"
+        "N-481"
       ]
     },
     {
@@ -1709,7 +1709,7 @@
       "claim_timestamp": "00:41:54",
       "investigative_direction": "Document host stance claim against A-1660.1; investigate reported financial interests of Lauder or associated parties in Greenland.",
       "mentions_person_refs": [
-        "N-483"
+        "N-481"
       ]
     },
     {
@@ -1728,7 +1728,7 @@
       "investigative_direction": "Locate the full Coleman confrontation clip and the referenced \"Operation Debunk Mitch\" series; document context as part of Coleman's investigative output.",
       "mentions_person_refs": [
         "N-332",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -2136,7 +2136,7 @@
       "transcript_snippet": "Jessica Ghawi was in that food court. She paid her bill at like I don't remember 6:20 or something like that and 3 minutes later the shooting started",
       "mentions_person_refs": [
         "N-332",
-        "N-482"
+        "N-480"
       ]
     },
     {
@@ -2156,7 +2156,7 @@
       "transcript_snippet": "she used to live in New Braunfels Texas of all places. Bam that's another thing",
       "mentions_person_refs": [
         "N-332",
-        "N-482",
+        "N-480",
         "N-272"
       ]
     },
@@ -2177,7 +2177,7 @@
       "transcript_snippet": "And he had flown in from New Braunfels Texas to see her to go to this movie in Aurora Colorado.",
       "mentions_person_refs": [
         "N-332",
-        "N-482"
+        "N-480"
       ]
     },
     {
@@ -2196,7 +2196,7 @@
       "transcript_snippet": "rather than leaving her where she is two police officers go into the theater and they pull her into a police car and personally say that they take her to a hospital.",
       "mentions_person_refs": [
         "N-332",
-        "N-482"
+        "N-480"
       ]
     },
     {
@@ -2251,7 +2251,7 @@
       "transcript_snippet": "His daughter who was tragically murdered not terribly long before he died was not mentioned in his obituary.",
       "mentions_person_refs": [
         "N-332",
-        "N-482"
+        "N-480"
       ]
     },
     {
@@ -2285,7 +2285,7 @@
       "transcript_snippet": "Bill Cooper had made a lot of predictions who was supposed to be the original conspiracy theorist who before there were any mass shootings was speaking about the military",
       "mentions_person_refs": [
         "N-3",
-        "N-723"
+        "N-721"
       ]
     },
     {
@@ -2321,8 +2321,8 @@
       "investigative_direction": "Locate the full interview and test the claim against the Long Commission report on the 1983 Beirut barracks bombing.",
       "transcript_snippet": "And in fact he told you that they knew the bombing was coming down in Beirut before it occurred.",
       "mentions_person_refs": [
-        "N-480",
-        "N-481"
+        "N-478",
+        "N-479"
       ]
     },
     {
@@ -2428,7 +2428,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-117",
-        "N-724"
+        "N-722"
       ]
     },
     {
@@ -2465,7 +2465,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-32",
-        "N-525"
+        "N-523"
       ]
     },
     {
@@ -2506,7 +2506,7 @@
       "transcript_snippet": "I don't know Peter Thiel. I literally don't know Peter Thiel. So I met him at his LA he was having a party or whatever.",
       "mentions_person_refs": [
         "N-3",
-        "N-525",
+        "N-523",
         "N-27"
       ]
     },
@@ -2585,7 +2585,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-32",
-        "N-525"
+        "N-523"
       ]
     },
     {
@@ -2621,7 +2621,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-32",
-        "N-525"
+        "N-523"
       ]
     },
     {
@@ -3410,7 +3410,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-332",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -3434,7 +3434,7 @@
       ],
       "mentions_person_refs": [
         "N-332",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -3459,7 +3459,7 @@
       ],
       "mentions_person_refs": [
         "N-332",
-        "N-364"
+        "N-363"
       ]
     },
     {

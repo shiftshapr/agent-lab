@@ -11,10 +11,10 @@
 - **Transcript SHA-256**: d8e6f28a51d5ce3dd1d87baacd78a256a41af58e5088968e02eb7b3dd5527107
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-776, N-778, N-779, N-11128, N-11131, N-11132, N-11133
+  - Tip-minted Nodes (supplement_2026-10b): N-774, N-776, N-777, N-11128, N-11131, N-11132, N-11133
   - Tip-minted Nodes (reintro-ep075): N-11072
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-4, N-6, N-9, N-37, N-40, N-46, N-50, N-69, N-118, N-201, N-213, N-272, N-300, N-558, N-678, N-10000, N-10063, N-10113, N-10209, N-10324, N-10403, N-10406, N-10414, N-10415, N-10436, N-10447, N-10451, N-10505, N-10694, N-10905, N-10962, N-10968, N-11130, N-777, N-11129, N-10539
+  - Reused Nodes Appearing: N-4, N-6, N-9, N-37, N-40, N-46, N-50, N-69, N-118, N-201, N-213, N-272, N-300, N-556, N-676, N-10000, N-10063, N-10113, N-10209, N-10324, N-10403, N-10406, N-10414, N-10415, N-10436, N-10447, N-10451, N-10505, N-10694, N-10905, N-10962, N-10968, N-11130, N-775, N-11129, N-10539
   - Claim Range (supplement_2026-10b): C-7053–C-7142
   - Hole-minted Nodes (wave1): N-326
   - Hole-minted Nodes (w2_1-ep75): N-10856, N-10857, N-10858
@@ -555,7 +555,7 @@ Miriam Adelson; subject of Trump's remark and the host's donation claim.
 
 ---
 
-**N-558** Carrie Prejean Bowler
+**N-556** Carrie Prejean Bowler
 
 Carrie Prejean Bowler; the host says Trump removed her from the religious committee.
 
@@ -563,7 +563,7 @@ Carrie Prejean Bowler; the host says Trump removed her from the religious commit
 
 ---
 
-**N-678** Nicolás Maduro
+**N-676** Nicolás Maduro
 
 Nicolas Maduro; removed by the US operation the host cites.
 
@@ -715,7 +715,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-776** Marina Abramovic
+**N-774** Marina Abramovic
 
 First named by the host at 00:04:00 in episode 75 (spelled Abramović). Performance artist the host cites for spirit cooking and a 1974 pentagram performance.
 
@@ -723,7 +723,7 @@ First named by the host at 00:04:00 in episode 75 (spelled Abramović). Performa
 
 ---
 
-**N-777** Aleister Crowley
+**N-775** Aleister Crowley
 
 First named by the host at 00:13:52 in episode 75. Occultist the host says wrote books of pentacles meant to summon spirits.
 
@@ -739,7 +739,7 @@ First named by the host at 00:23:52 in episode 75 (spelled Jesse Watters). Fox N
 
 ---
 
-**N-778** Benny Gantz
+**N-776** Benny Gantz
 
 First named by the host at 00:46:20 in episode 75. Israeli politician whose interview clip the host plays on boots on the ground in Iran.
 
@@ -747,7 +747,7 @@ First named by the host at 00:46:20 in episode 75. Israeli politician whose inte
 
 ---
 
-**N-779** Paula White
+**N-777** Paula White
 
 First named by the host at 01:01:46 in episode 75. Pastor the host groups with Christian Zionists surrounding Trump.
 
@@ -1093,7 +1093,7 @@ Transcript Snippet: She does spirit cooking, literally. That was what was in tho
 
 Anchored Artifacts: 
 
-Mentions: N-776, N-3
+Mentions: N-774, N-3
 Tags: relevance:tangential
 Investigative Direction: Check the leaked email set the host refers to for the spirit cooking references and who attended the events named.
 
@@ -1109,7 +1109,7 @@ Transcript Snippet: Performances like in 1974 when she sought to, quote, re-evok
 
 Anchored Artifacts: 
 
-Mentions: N-776
+Mentions: N-774
 Tags: relevance:tangential
 Investigative Direction: Check the performance record for the date, title and wording of Abramovic's 1974 petroleum-soaked star piece against the host's description.
 
@@ -1397,7 +1397,7 @@ Transcript Snippet: Aleister Crowley was master cultist created an entire religi
 
 Anchored Artifacts: 
 
-Mentions: N-777, N-3
+Mentions: N-775, N-3
 Tags: relevance:tangential
 Investigative Direction: Check Crowley's published works and the history of Thelema; the host does not link him to any named current official.
 
@@ -1413,7 +1413,7 @@ Transcript Snippet: First book he wrote was called the book of evil spirits. Wow
 
 Anchored Artifacts: A-2854.1
 
-Mentions: N-777, N-3
+Mentions: N-775, N-3
 Tags: relevance:tangential
 Investigative Direction: Identify the book and edition shown; Crowley's earliest books are not known by this title, so check bibliographic records.
 
@@ -2025,7 +2025,7 @@ Transcript Snippet: until Bibi Netanyahu said, "Venezuela's anti-Semitic." Then 
 
 Anchored Artifacts: A-2445.1
 
-Mentions: N-36, N-678, N-3
+Mentions: N-36, N-676, N-3
 Related Nodes: N-10962
 Tags: relevance:context
 Investigative Direction: Find any Netanyahu statement about Venezuela before January 2026 and the dates of the operation against Maduro.
@@ -2229,7 +2229,7 @@ Transcript Snippet: Here is Israel's defense minister, Benny Gantz, discussing t
 
 Anchored Artifacts: A-2449.1
 
-Mentions: N-778, N-3
+Mentions: N-776, N-3
 Qualifies: C-3581
 Tags: relevance:context
 Investigative Direction: Check Gantz's office at the date of the interview and the interview's actual date; the host does not date the clip.
@@ -2246,7 +2246,7 @@ Transcript Snippet: Currently, we are neutralizing Iran's uh command and control
 
 Anchored Artifacts: A-2449.1
 
-Mentions: N-778
+Mentions: N-776
 Related Nodes: N-11128
 Tags: relevance:context
 Investigative Direction: Identify the interviewer, outlet and date of the full interview.
@@ -2383,7 +2383,7 @@ Transcript Snippet: Trump recently firing Carrie Prejean Boller from the religio
 
 Anchored Artifacts: 
 
-Mentions: N-558, N-5, N-3
+Mentions: N-556, N-5, N-3
 Supports: C-2370
 Tags: relevance:context
 Investigative Direction: Check the removal notice from the Religious Liberty Commission and any stated reason.
@@ -2470,7 +2470,7 @@ Transcript Snippet: similarly you had this movement of people similar to the Chr
 
 Anchored Artifacts: 
 
-Mentions: N-779, N-3
+Mentions: N-777, N-3
 Related Nodes: N-10209
 Tags: relevance:tangential
 Investigative Direction: No source is cited; compare historians' accounts of Frankism with the host's analogy.

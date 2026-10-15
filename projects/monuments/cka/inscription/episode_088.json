@@ -1070,8 +1070,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-539",
-      "ref": "N-539",
+      "@id": "N-537",
+      "ref": "N-537",
       "name": "Todd Blanche",
       "type": "person",
       "description": "Named Epstein situation-room attendee; host revisits “files are mostly child pornography” DOJ posture.",
@@ -1086,8 +1086,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-422",
-      "ref": "N-422",
+      "@id": "N-420",
+      "ref": "N-420",
       "name": "Derek Niekerk",
       "type": "person",
       "description": "First named by the host at 00:42:15 in episode 88.",
@@ -1103,8 +1103,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-415",
-      "ref": "N-415",
+      "@id": "N-413",
+      "ref": "N-413",
       "name": "Ahmed Qureshi",
       "type": "person",
       "description": "First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Karashi, Akhmed Karashi.",
@@ -1323,8 +1323,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-363",
+      "ref": "N-363",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Mitch Snow; eyewitness who saw a meeting end at Fort Huachuca.",
@@ -1340,8 +1340,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-414",
-      "ref": "N-414",
+      "@id": "N-412",
+      "ref": "N-412",
       "name": "Zachariah Karashy",
       "type": "person",
       "description": "Zachariah Karashi (Karashy); detained decoy boy number two.",
@@ -1358,8 +1358,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-488",
-      "ref": "N-488",
+      "@id": "N-486",
+      "ref": "N-486",
       "name": "Blake Lively",
       "type": "person",
       "description": "Blake Lively; party in the lawsuit against Justin Baldoni.",
@@ -1375,8 +1375,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-489",
-      "ref": "N-489",
+      "@id": "N-487",
+      "ref": "N-487",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Justin Baldoni; defendant in the Lively lawsuit.",
@@ -1392,8 +1392,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-493",
-      "ref": "N-493",
+      "@id": "N-491",
+      "ref": "N-491",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Lori Frantzve, Erika Kirk's mother; subject of the host's whereabouts investigation.",
@@ -2044,8 +2044,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-815",
-      "ref": "N-815",
+      "@id": "N-813",
+      "ref": "N-813",
       "name": "Eric Swalwell",
       "type": "person",
       "description": "First named by the host at 00:46:55 in episode 88. Congressman the host says Trump believed Bondi tipped off about an FBI inquiry into his relationship with Christine Fang.",
@@ -2062,8 +2062,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-816",
-      "ref": "N-816",
+      "@id": "N-814",
+      "ref": "N-814",
       "name": "Christine Fang",
       "type": "person",
       "description": "First named by the host at 00:46:55 in episode 88. Woman the host calls the Chinese spy girl in her account of Swalwell's relationship and the FBI documents.",
@@ -2112,7 +2112,7 @@
       "claim_timestamp": "00:01:20–00:03:02",
       "investigative_direction": "Verify the app's described functionality via app store descriptions, product documentation, and independent technical write-ups.",
       "mentions_person_refs": [
-        "N-415"
+        "N-413"
       ]
     },
     {
@@ -2308,7 +2308,7 @@
       "claim_timestamp": "00:44:55–00:46:02",
       "investigative_direction": "Verify the formal appointment and any subsequent Senate-confirmation process.",
       "mentions_person_refs": [
-        "N-539"
+        "N-537"
       ]
     },
     {
@@ -2348,7 +2348,7 @@
       "investigative_direction": "Preserve and verify witness identifications; obtain statements in writing; obtain clinic visitor and appointment records via lawful channels.",
       "mentions_person_refs": [
         "N-2",
-        "N-422"
+        "N-420"
       ]
     },
     {
@@ -2389,7 +2389,7 @@
       "investigative_direction": "Obtain the detention report, any release paperwork and the agency that held him; ask the FBI to confirm the length of the pause and who ordered it.",
       "transcript_snippet": "he was detained. Kash Patel shut down the investigation for an hour and a half, and then he was released, and we weren't told much more.",
       "mentions_person_refs": [
-        "N-414",
+        "N-412",
         "N-69",
         "N-3"
       ]
@@ -2414,8 +2414,8 @@
       "transcript_snippet": "that his dad is an O-6 in the Navy. Um I guess he's in the Navy reserves part-time.",
       "mentions_person_refs": [
         "N-332",
-        "N-415",
-        "N-414",
+        "N-413",
+        "N-412",
         "N-3"
       ]
     },
@@ -2439,7 +2439,7 @@
       "investigative_direction": "Obtain Mitch Snow's account in his own words and any base visitor or lodging records for September 9, 2025.",
       "transcript_snippet": "Mitch Snow saw a meeting concluding in Fort Huachuca the day before, and he said there were a lot of O-6s",
       "mentions_person_refs": [
-        "N-364",
+        "N-363",
         "N-3"
       ]
     },
@@ -2463,7 +2463,7 @@
       "investigative_direction": "Verify the app's feature set from product documentation and whether any Utah venue or hospital layouts were ever built in it.",
       "transcript_snippet": "which door you were going to go through at Timpanogos if you were prepping for a mission.",
       "mentions_person_refs": [
-        "N-415",
+        "N-413",
         "N-3"
       ]
     },
@@ -3202,7 +3202,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-493"
+        "N-491"
       ]
     },
     {
@@ -3322,7 +3322,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-493"
+        "N-491"
       ]
     },
     {
@@ -3372,7 +3372,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-493",
+        "N-491",
         "N-2"
       ]
     },
@@ -3418,7 +3418,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-493"
+        "N-491"
       ]
     },
     {
@@ -3643,7 +3643,7 @@
         "N-3",
         "N-5",
         "N-85",
-        "N-815"
+        "N-813"
       ]
     },
     {
@@ -3664,8 +3664,8 @@
       "transcript_snippet": "the FBI was sort of preparing um, a bunch of documents relating to his relationship with Christine Fang",
       "mentions_person_refs": [
         "N-3",
-        "N-815",
-        "N-816"
+        "N-813",
+        "N-814"
       ]
     },
     {
@@ -3979,7 +3979,7 @@
       "transcript_snippet": "we think we're pretty close to nailing her down",
       "mentions_person_refs": [
         "N-3",
-        "N-493",
+        "N-491",
         "N-2"
       ]
     },
@@ -4025,8 +4025,8 @@
       "transcript_snippet": "I heard about Judge Liman throwing out an entire portion of a Justin Baldoni's case",
       "mentions_person_refs": [
         "N-3",
-        "N-489",
-        "N-488"
+        "N-487",
+        "N-486"
       ]
     }
   ],

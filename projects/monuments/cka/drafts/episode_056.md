@@ -16,8 +16,8 @@
   - Tip-minted Nodes (reintro-ep056): N-11079, N-11182, N-11203, N-11238
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12524–C-12586
-  - New Nodes Introduced: N-449, N-450, N-451, N-456, N-457, N-10409, N-10410, N-10412
-  - Reused Nodes Appearing: N-2, N-11, N-453, N-454, N-455, N-10411, N-3, N-5, N-9, N-14, N-17, N-36, N-37, N-47, N-172, N-268, N-364, N-441, N-448, N-10000, N-10074, N-10309, N-10310, N-10373, N-10398, N-10399, N-10401, N-10402, N-10408, N-10417, N-10670, N-10962
+  - New Nodes Introduced: N-447, N-448, N-449, N-454, N-455, N-10409, N-10410, N-10412
+  - Reused Nodes Appearing: N-2, N-11, N-451, N-452, N-453, N-10411, N-3, N-5, N-9, N-14, N-17, N-36, N-37, N-47, N-172, N-268, N-363, N-439, N-446, N-10000, N-10074, N-10309, N-10310, N-10373, N-10398, N-10399, N-10401, N-10402, N-10408, N-10417, N-10670, N-10962
   - (see registers)
 
 # Episode 56 Analysis Record
@@ -36,7 +36,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1617, A-1618, A-1619, A-1620, A-1621, A-1622, A-1623, A-1624, A-1625, A-1626, A-1627
   - Claim Range: C-2075 – C-2096
-  - New Person Nodes Introduced: N-449 through N-457
+  - New Person Nodes Introduced: N-447 through N-455
   - New Investigation Targets Introduced: N-10409, N-10410, N-10411, N-10412
   - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk
 
@@ -61,7 +61,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:04:58
 Confidence Level: High
 
-*Related: C-2075, C-2076, N-1, N-456*
+*Related: C-2075, C-2076, N-1, N-454*
 
 **A-1618** Tucker Carlson Audio Bundle
 
@@ -70,7 +70,7 @@ Confidence Level: High
 Video Timestamp: 00:07:08
 Confidence Level: High
 
-*Related: C-2092, N-22, N-456*
+*Related: C-2092, N-22, N-454*
 
 **A-1619** Court Filing Bundle – Alton C. Jennings Will Challenge
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:13:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host characterizes filing as allegations)
 
-*Related: C-2077, C-2078, C-2079, C-2080, N-449, N-450, N-451, N-41, N-10409*
+*Related: C-2077, C-2078, C-2079, C-2080, N-447, N-448, N-449, N-41, N-10409*
 
 **A-1620** TPUSA Board Member Profile Bundle
 
@@ -91,7 +91,7 @@ Confidence Level: Medium (host characterizes filing as allegations)
 Video Timestamp: 00:18:40
 Confidence Level: Medium
 
-*Related: C-2081, N-806, N-10410*
+*Related: C-2081, N-804, N-10410*
 
 **A-1621** Mind War Book Reference Bundle
 
@@ -100,7 +100,7 @@ Confidence Level: Medium
 Video Timestamp: 00:21:42
 Confidence Level: Medium
 
-*Related: C-2082, N-806, N-453, N-10410*
+*Related: C-2082, N-804, N-451, N-10410*
 
 **A-1622** Michael Aquino Interview / Background Bundle
 
@@ -109,14 +109,14 @@ Confidence Level: Medium
 Video Timestamp: 00:22:54
 Confidence Level: High
 
-*Related: C-2084, N-453*
+*Related: C-2084, N-451*
 
 **A-1622.2** Host-narrated reference to Aquino joining the Church of Satan in 1969, rising to Magister Caverns of the fourth degree, editing *The Cloven Hoof*, and leaving in 1975 to found the Temple of Set after the LaVey/schism.
 
 Video Timestamp: 00:22:47
 Confidence Level: Medium
 
-*Related: C-2083, C-2084, N-453*
+*Related: C-2083, C-2084, N-451*
 
 **A-1623** San Francisco Police Investigation Bundle
 
@@ -127,7 +127,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:27:54
 Confidence Level: Medium
 
-*Related: C-2085, N-453*
+*Related: C-2085, N-451*
 
 **A-1623.2** Reference to a 1987 victim identification of Aquino; case closed for insufficient evidence despite victim describing the house involved.
 
@@ -136,7 +136,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:27:54
 Confidence Level: Medium
 
-*Related: C-2086, N-453*
+*Related: C-2086, N-451*
 
 **A-1624** Harvest Christian Fellowship Lawsuit Bundle
 
@@ -145,21 +145,21 @@ Confidence Level: Medium
 Video Timestamp: 00:32:12
 Confidence Level: Medium
 
-*Related: C-2087, N-454, N-455, N-10411*
+*Related: C-2087, N-452, N-453, N-10411*
 
 **A-1624.2** Reference to original September lawsuit by two men against former Harvest pastor/missionary Paul Havsgaard (Havsgaard) alleging abuse at the Romanian children's shelter, including children tied to radiators, kneeling on walnut shells, inappropriate touching, and sex trafficking.
 
 Video Timestamp: 00:34:03
 Confidence Level: Medium (allegations)
 
-*Related: C-2088, N-455, N-10411*
+*Related: C-2088, N-453, N-10411*
 
 **A-1624.3** Reference to law firm news release stating twenty-three former residents of the home are expected to bring complaints; most recent complaints filed November (year implicit in context).
 
 Video Timestamp: 00:35:00
 Confidence Level: Medium
 
-*Related: C-2089, N-455, N-10411*
+*Related: C-2089, N-453, N-10411*
 
 **A-1625** Scott Adams Death News Bundle
 
@@ -190,7 +190,7 @@ Confidence Level: Medium (verbally referenced; host states "we have that somewhe
 Video Timestamp: 00:44:19
 Confidence Level: Medium
 
-*Related: C-2093, N-457*
+*Related: C-2093, N-455*
 
 ---
 
@@ -205,7 +205,7 @@ Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12533, N-10962, N-456, N-5*
+*Related: C-12533, N-10962, N-454, N-5*
 
 ---
 
@@ -231,7 +231,7 @@ Video Timestamp: 00:32:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12566, N-10398, N-10411, N-11203, N-14, N-2, N-454, N-11340*
+*Related: C-12566, N-10398, N-10411, N-11203, N-14, N-2, N-452, N-11340*
 
 ---
 
@@ -277,7 +277,7 @@ Investigative Pressure: High
 
 *Related: A-1617.1, C-2075, C-2076*
 
-**N-449** Alton C. Jennings
+**N-447** Alton C. Jennings
 
 Decedent, age 95, whose $25M estate is the subject of a December 2024 will challenge naming TPUSA and YAF as recipients.
 
@@ -288,7 +288,7 @@ Investigative Pressure: Medium
 
 *Related: A-1619.1, C-2077, C-2078, N-10409*
 
-**N-450** Mitch Manley Sr.
+**N-448** Mitch Manley Sr.
 
 Caretaker hired by Alton C. Jennings in 2021; named in will-challenge petition as having isolated decedent from family.
 
@@ -299,7 +299,7 @@ Investigative Pressure: Medium
 
 *Related: A-1619.1, C-2077, N-10409*
 
-**N-451** Mitch Manley Jr.
+**N-449** Mitch Manley Jr.
 
 Son of Mitch Manley Sr.; described as working for Turning Point USA on Charlie Kirk's show during the period the Jennings estate was redirected.
 
@@ -308,9 +308,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1619.1, C-2079, N-450, N-10409*
+*Related: A-1619.1, C-2079, N-448, N-10409*
 
-**N-806** Paul Vallely
+**N-804** Paul Vallely
 
 Turning Point USA board member; former military commander of the 7th Psychological Operations Group; co-author of *Mind War* (1980) with Michael Aquino.
 
@@ -319,9 +319,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1620.1, A-1621.1, C-2081, C-2082, N-453, N-10410*
+*Related: A-1620.1, A-1621.1, C-2081, C-2082, N-451, N-10410*
 
-**N-453** Michael Aquino
+**N-451** Michael Aquino
 
 Former US Army Major; intelligence officer; co-author of *Mind War* (1980); member of Church of Satan from 1969; founder of Temple of Set (1975); subject of 1986–1987 San Francisco child-abuse investigation (insufficient evidence).
 
@@ -330,9 +330,9 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-2082, C-2083, C-2084, C-2085, C-2086, N-806, N-10410*
+*Related: A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-2082, C-2083, C-2084, C-2085, C-2086, N-804, N-10410*
 
-**N-454** Greg Laurie
+**N-452** Greg Laurie
 
 Founder of Harvest Christian Fellowship; named defendant in twelve lawsuits alleging abuse at affiliated Romanian children's home.
 
@@ -341,9 +341,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1624.1, C-2087, N-455, N-10411*
+*Related: A-1624.1, C-2087, N-453, N-10411*
 
-**N-455** Paul Havsgaard
+**N-453** Paul Havsgaard
 
 Former Harvest Christian Fellowship pastor/missionary; named defendant in original September lawsuit alleging abuse of children at Romanian shelter.
 
@@ -352,7 +352,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1624.2, A-1624.3, C-2088, C-2089, N-454, N-10411*
+*Related: A-1624.2, A-1624.3, C-2088, C-2089, N-452, N-10411*
 
 **N-189** Scott Adams
 
@@ -376,7 +376,7 @@ Investigative Pressure: Low
 
 *Related: A-1618.1, C-2092*
 
-**N-456** Lindsey Graham
+**N-454** Lindsey Graham
 
 US Senator; subject of critique in Charlie Kirk and Tucker Carlson audio clips.
 
@@ -398,7 +398,7 @@ Investigative Pressure: Medium (timeline target)
 
 *Related: C-2094, C-2095*
 
-**N-457** Andrew Aguilar
+**N-455** Andrew Aguilar
 
 Self-identified former Green Beret; claims arrest at US Capitol for calling out AIPAC.
 
@@ -418,7 +418,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1619.1, C-2077, C-2078, C-2080, N-449, N-450, N-451, N-41*
+*Related: A-1619.1, C-2077, C-2078, C-2080, N-447, N-448, N-449, N-41*
 
 **N-10410** TPUSA Board Member Military–Satanism Connection
 
@@ -429,7 +429,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1620.1, A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-2081, C-2082, C-2083, C-2084, C-2085, C-2086, N-806, N-453*
+*Related: A-1620.1, A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-2081, C-2082, C-2083, C-2084, C-2085, C-2086, N-804, N-451*
 
 **N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
 
@@ -440,7 +440,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1624.1, A-1624.2, A-1624.3, C-2087, C-2088, C-2089, N-454, N-455*
+*Related: A-1624.1, A-1624.2, A-1624.3, C-2087, C-2088, C-2089, N-452, N-453*
 
 **N-10412** Erica Kirk June 19 Instagram Purge
 
@@ -552,7 +552,7 @@ Subject of Mitch Snow's reported Fort Huachuca sighting as recounted by the host
 
 ---
 
-**N-364** Mitch Snow
+**N-363** Mitch Snow
 
 Eyewitness whose Fort Huachuca account the host now describes as a psychological operation.
 
@@ -560,7 +560,7 @@ Eyewitness whose Fort Huachuca account the host now describes as a psychological
 
 ---
 
-**N-441** Johnny Moore
+**N-439** Johnny Moore
 
 Named by the host as discussed by Anthony Aguilar in relation to Gaza humanitarian aid.
 
@@ -568,7 +568,7 @@ Named by the host as discussed by Anthony Aguilar in relation to Gaza humanitari
 
 ---
 
-**N-448** Shinzō Abe
+**N-446** Shinzō Abe
 
 Former Japanese prime minister; the host recounts his assassin's stated motive.
 
@@ -774,7 +774,7 @@ Claim Timestamp: 00:04:58
 Claim: In a clip the host plays, Charlie Kirk criticizes Lindsey Graham's call for regime change in Iran as analogous to Hillary Clinton's Libya intervention.
 
 Anchored Artifacts: A-1617.1
-Mentions: N-1, N-456
+Mentions: N-1, N-454
 Investigative Direction: Obtain primary recording; verify exact phrasing.
 
 **C-2077** Host Says Court Petition Filed December 2024 Challenges Alton C. Jennings Will Against TPUSA and YAF
@@ -784,7 +784,7 @@ Claim Timestamp: 00:13:58
 Claim: The host says, per the lawsuit (which she notes contains only allegations), that a court petition was filed in December 2024 by Alton C. Jennings's grandson, challenging the last will and trust on the grounds of cognitive decline and undue influence by caretaker Mitch Manley Sr.
 
 Anchored Artifacts: A-1619.1
-Mentions: N-449, N-450
+Mentions: N-447, N-448
 Related Nodes: N-10409
 Investigative Direction: Obtain docket records (case number, court, jurisdiction); verify filing date and parties; confirm allegations are pleaded in the petition.
 
@@ -795,7 +795,7 @@ Claim Timestamp: 00:16:20
 Claim: The host says Alton C. Jennings's estate was valued at $25 million, and that his will was changed in November 2023, approximately four months before his death at age 95.
 
 Anchored Artifacts: A-1619.1
-Mentions: N-449
+Mentions: N-447
 Related Nodes: N-10409
 Investigative Direction: Obtain probate court filings; verify valuation and date of will execution.
 
@@ -806,7 +806,7 @@ Claim Timestamp: 00:16:20
 Claim: The host says Mitch Manley Jr. (son of caretaker Mitch Manley Sr.) was employed by Turning Point USA on Charlie Kirk's show during the period his father was serving as Alton Jennings's caretaker.
 
 Anchored Artifacts: A-1619.1
-Mentions: N-450, N-451, N-1
+Mentions: N-448, N-449, N-1
 Related Nodes: N-10409
 Investigative Direction: Verify employment records; cross-check TPUSA staff listings; obtain dates of employment.
 
@@ -828,7 +828,7 @@ Claim Timestamp: 00:18:40
 Claim: The host identifies Paul Vallely as a Turning Point USA board member, with a military background as commander of the 7th Psychological Operations Group and two Vietnam combat tours.
 
 Anchored Artifacts: A-1620.1
-Mentions: N-806
+Mentions: N-804
 Related Nodes: N-10410
 Investigative Direction: Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record.
 
@@ -839,7 +839,7 @@ Claim Timestamp: 00:21:42
 Claim: The host says Paul Vallely and Major Michael Aquino co-authored the book *Mind War* in 1980.
 
 Anchored Artifacts: A-1621.1
-Mentions: N-806, N-453
+Mentions: N-804, N-451
 Related Nodes: N-10410
 Investigative Direction: Obtain bibliographic record (publisher, ISBN); verify authorship.
 
@@ -850,7 +850,7 @@ Claim Timestamp: 00:22:15
 Claim: The host says Michael Aquino joined the Church of Satan in 1969 and rose within its hierarchy.
 
 Anchored Artifacts: A-1622.2
-Mentions: N-453
+Mentions: N-451
 Related Nodes: N-10410
 Investigative Direction: Cross-check Aquino's published biographical statements; consult Church of Satan archives.
 
@@ -861,7 +861,7 @@ Claim Timestamp: 00:22:47
 Claim: The host says Michael Aquino left the Church of Satan in 1975 and founded the Temple of Set after a doctrinal dispute over whether Satan was literal or metaphorical.
 
 Anchored Artifacts: A-1622.1, A-1622.2
-Mentions: N-453
+Mentions: N-451
 Related Nodes: N-10410
 Investigative Direction: Verify founding documents; cross-check Temple of Set records.
 
@@ -872,7 +872,7 @@ Claim Timestamp: 00:27:54
 Claim: The host says that in 1986, San Francisco police opened an investigation into Michael Aquino in connection with allegations of sexual abuse at the Army's Child Development Center in San Francisco.
 
 Anchored Artifacts: A-1623.1
-Mentions: N-453
+Mentions: N-451
 Related Nodes: N-10410
 Investigative Direction: Obtain SFPD case records (case number); verify closure status and stated reason.
 
@@ -883,7 +883,7 @@ Claim Timestamp: 00:27:54
 Claim: The host says that in 1987 a girl came forward identifying Aquino as the perpetrator, but the case was closed for insufficient evidence, despite the victim reportedly describing the house where abuse occurred.
 
 Anchored Artifacts: A-1623.2
-Mentions: N-453
+Mentions: N-451
 Related Nodes: N-10410
 Investigative Direction: Obtain SFPD records; review any subsequent civil filings; cross-check victim statements if available.
 
@@ -894,7 +894,7 @@ Claim Timestamp: 00:32:12
 Claim: The host, citing an article she shows, says twelve lawsuits have been filed against Harvest Christian Fellowship and Greg Laurie alleging abuse of young men at a children's home in Romania.
 
 Anchored Artifacts: A-1624.1
-Mentions: N-454
+Mentions: N-452
 Related Nodes: N-10411
 Investigative Direction: Obtain court filings (case numbers, jurisdiction); verify plaintiff count.
 
@@ -905,7 +905,7 @@ Claim Timestamp: 00:34:03
 Claim: The host says the allegations against Paul Havsgaard at the Bucharest children's shelter include children being tied to radiators, made to kneel on walnut shells, touched inappropriately, and pimped out for sex.
 
 Anchored Artifacts: A-1624.2
-Mentions: N-455
+Mentions: N-453
 Related Nodes: N-10411
 Investigative Direction: Obtain original complaint; verify specificity of allegations; confirm Havsgaard's status (former pastor/missionary).
 
@@ -916,7 +916,7 @@ Claim Timestamp: 00:35:00
 Claim: The law firm representing survivors has stated that twenty-three former residents of the home are expected to bring complaints; most recent complaints were filed in November.
 
 Anchored Artifacts: A-1624.3
-Mentions: N-455
+Mentions: N-453
 Related Nodes: N-10411
 Investigative Direction: Obtain law firm press release; track complaint filings in docket.
 
@@ -948,7 +948,7 @@ Claim Timestamp: 00:07:08
 Claim: In a clip the host plays, Tucker Carlson compares Lindsey Graham's foreign-policy behavior to a drunk girlfriend screaming at a cop during a DUI stop.
 
 Anchored Artifacts: A-1618.1
-Mentions: N-22, N-456
+Mentions: N-22, N-454
 Investigative Direction: Locate original clip; verify date and outlet.
 
 **C-2093** Andrew Aguilar Claims Arrest at US Capitol on September 3 for Calling Out AIPAC
@@ -958,7 +958,7 @@ Claim Timestamp: 00:44:19
 Claim: Andrew (Anthony) Aguilar, self-identified as a Gaza-whistleblower Green Beret, states he was arrested on September 3 at Congress for calling out AIPAC.
 
 Anchored Artifacts: A-1627.1
-Mentions: N-457
+Mentions: N-455
 Investigative Direction: Verify arrest record (US Capitol Police, court records); verify date; obtain any charging documents or dismissals.
 
 **C-2094** Plane SUBTU Traveled to Provo May 23 with Follow-Up May 27, Hosting Wed Mahmoud
@@ -1072,7 +1072,7 @@ Claim: In the audio the host plays, a clip of Lindsey Graham says it is time to 
 Transcript Snippet: It's time for us to close the chapter on the Iranian Ayatollah and his henchmen and start a new chapter in the Middle East.
 
 Anchored Artifacts: A-1617.1
-Mentions: N-456
+Mentions: N-454
 Tags: relevance:context
 Investigative Direction: Locate the original Graham remarks and their date to confirm the wording and the context in which Kirk replayed them.
 
@@ -1087,7 +1087,7 @@ Claim: In the clip the host plays, Tucker Carlson says an empire should not have
 Transcript Snippet: What you don't want are flighty, emotionally incontinent, silly people on the payroll of foreign nations making the decisions in an empire cuz that's how you get in trouble.
 
 Anchored Artifacts: A-1618.1
-Mentions: N-22, N-456
+Mentions: N-22, N-454
 Tags: relevance:context
 Investigative Direction: Locate the original Tucker Carlson segment to verify date, outlet and exact wording.
 
@@ -1102,7 +1102,7 @@ Claim: The host says she personally thinks Lindsey Graham has the largest blackm
 Transcript Snippet: I think personally he's got the largest blackmail file. Whatever Israel has on him, it is terrifying.
 
 Anchored Artifacts: 
-Mentions: N-3, N-456
+Mentions: N-3, N-454
 Tags: relevance:context
 Investigative Direction: No evidence is shown. Any public record or named source supporting the existence of such a file would be needed; treat as the host's opinion until then.
 
@@ -1117,7 +1117,7 @@ Claim: The host says male escorts have come forward and made allegations that th
 Transcript Snippet: We've had some male hookers come out come out and make some allegations, but they were running a pretty sophisticated blackmail ring in DC.
 
 Anchored Artifacts: 
-Mentions: N-3, N-456
+Mentions: N-3, N-454
 Tags: relevance:context
 Investigative Direction: Identify the escorts and the public reporting or court records behind the allegations; no names or sources are given on air.
 
@@ -1132,7 +1132,7 @@ Claim: In a clip the host plays, Lindsey Graham tells the Ayatollahs that if the
 Transcript Snippet: you need to understand if you keep killing your people who are demanding a better life, Donald J. Trump is going to kill you.
 
 Anchored Artifacts: A-3213.1
-Mentions: N-456, N-5
+Mentions: N-454, N-5
 Related Nodes: N-10962
 Tags: relevance:context
 Investigative Direction: Locate the original Graham post or broadcast and its date to confirm the wording and that it followed the Venezuela operation.
@@ -1393,7 +1393,7 @@ Claim: The host recounts that the assassin of former Japanese prime minister Shi
 Transcript Snippet: We don't even have enough money to eat because my mother gave all of her money to this church, the unification church.
 
 Anchored Artifacts: 
-Mentions: N-3, N-448
+Mentions: N-3, N-446
 Related Nodes: N-10399
 Tags: relevance:context
 Investigative Direction: Cite the court record or reporting on the assassin's stated motive.
@@ -1409,7 +1409,7 @@ Claim: The host says that per the lawsuit, Alton Jennings began showing cognitiv
 Transcript Snippet: Per the lawsuit, Alton began showing signs of a cognitive decline in 2020. And at that time, a year later rather, in 2021, he hired a caretaker.
 
 Anchored Artifacts: A-1619.1
-Mentions: N-449, N-450
+Mentions: N-447, N-448
 Related Nodes: N-10409
 Supports: C-2077
 Tags: relevance:context
@@ -1426,7 +1426,7 @@ Claim: The host says the lawsuit, filed by Jennings's grandson, alleges that Mit
 Transcript Snippet: he the grandson alleges that thereafter Mitch Manley senior isolated uh his declining grandfather from his friends, from his family, and he seized control of his finances.
 
 Anchored Artifacts: A-1619.1
-Mentions: N-449, N-450
+Mentions: N-447, N-448
 Related Nodes: N-10409
 Supports: C-2077
 Tags: relevance:context
@@ -1443,7 +1443,7 @@ Claim: The host says that when Jennings died less than three years after the car
 Transcript Snippet: when the elderly man died less than 3 years later at the age of 95, the family discovered that he had changed his will.
 
 Anchored Artifacts: A-1619.1
-Mentions: N-449
+Mentions: N-447
 Related Nodes: N-10409
 Supports: C-2078
 Tags: relevance:context
@@ -1475,7 +1475,7 @@ Claim: The host says Paul Vallely collaborated with a major working under him, M
 Transcript Snippet: he collaborated with a major that was working under him.
 
 Anchored Artifacts: A-1621.1
-Mentions: N-806, N-453
+Mentions: N-804, N-451
 Related Nodes: N-10410
 Tags: relevance:context
 Investigative Direction: Check Army records and the foreword or biography in Mind War for Aquino's and Vallely's units and roles.
@@ -1491,7 +1491,7 @@ Claim: The host says that besides being an intelligence officer and psychologica
 Transcript Snippet: Aside from being an intelligence officer and an expert of psychological warfare, just like Paul Vallely, uh, doing this on behalf of our military, he's also an open Satanist.
 
 Anchored Artifacts: A-1621.1
-Mentions: N-453, N-806
+Mentions: N-451, N-804
 Related Nodes: N-10410
 Tags: relevance:context
 Investigative Direction: Cross-check Aquino's published biography and Army service record.
@@ -1507,7 +1507,7 @@ Claim: The host says that after joining the Church of Satan in 1969 Aquino rose 
 Transcript Snippet: rose through the ranks of that church as the magister caverns of of the fourth degree within the church hierarchy. He became the editor of the publication the cloven hoof and he sat on the governing council of the nine.
 
 Anchored Artifacts: A-1622.2
-Mentions: N-453
+Mentions: N-451
 Related Nodes: N-10410
 Supports: C-2083
 Tags: relevance:context
@@ -1539,7 +1539,7 @@ Claim: In the interview audio, Aquino says the Temple of Set exists to explore t
 Transcript Snippet: So the temple of set exists to uh explore the self the personality and we do this through the media of ancient Egyptian religion which we found to be the most sophisticated.
 
 Anchored Artifacts: A-1622.1
-Mentions: N-453
+Mentions: N-451
 Related Nodes: N-11238, N-10410
 Tags: relevance:context
 Investigative Direction: Identify the original interview, its date and interviewer, and compare with Temple of Set published doctrine.
@@ -1555,7 +1555,7 @@ Claim: The host says the group Aquino describes follows the Egyptian Book of the
 Transcript Snippet: So, part of their ritual is to harm the innocent because that's unnatural.
 
 Anchored Artifacts: 
-Mentions: N-3, N-453
+Mentions: N-3, N-451
 Related Nodes: N-11238
 Tags: relevance:tangential
 Investigative Direction: This is a sweeping claim about a religious group with no source given; Temple of Set texts and any documented criminal cases would be needed.
@@ -1587,7 +1587,7 @@ Claim: The host says that after a girl identified Aquino in 1987 and described t
 Transcript Snippet: The police believed she was telling the truth, but they had to close the case because of insufficient evidence that was found
 
 Anchored Artifacts: A-1623.2
-Mentions: N-453
+Mentions: N-451
 Related Nodes: N-10410
 Supports: C-2086
 Tags: relevance:context
@@ -1604,7 +1604,7 @@ Claim: The host says Michael Aquino was trained at Fort Huachuca.
 Transcript Snippet: Now, it's worth noting that Michael Aquino was trained at Fort Huachuca.
 
 Anchored Artifacts: 
-Mentions: N-453, N-3
+Mentions: N-451, N-3
 Related Nodes: N-11338, N-10410
 Tags: relevance:context
 Investigative Direction: Check Aquino's Army training history and assignment records for Fort Huachuca.
@@ -1637,7 +1637,7 @@ Claim: The host says that her audience endured and survived a psychological oper
 Transcript Snippet: man, did we all endure and survive a psychological operation when Mitch Snow came and told us that he saw Brian Harpole and he saw Erika Kirk at Fort Huachuca in the days leading up to Charlie's assassination.
 
 Anchored Artifacts: 
-Mentions: N-3, N-364, N-268, N-2
+Mentions: N-3, N-363, N-268, N-2
 Related Nodes: N-10373, N-10417, N-11338
 Supports: C-6756
 Tags: relevance:core
@@ -1670,7 +1670,7 @@ Claim: The host says Erika Kirk is soon going to speak with Greg Laurie's Harves
 Transcript Snippet: she's soon going to be speaking with Greg Laurie's Harvest Church for Turning Point USA's Faith Make Heaven Crowded tour.
 
 Anchored Artifacts: A-3215.1
-Mentions: N-2, N-454, N-14
+Mentions: N-2, N-452, N-14
 Related Nodes: N-11203, N-11340, N-10411, N-10398
 Supports: C-8151
 Tags: relevance:core
@@ -1703,7 +1703,7 @@ Claim: The host says the original lawsuit was filed in September by two men clai
 Transcript Snippet: The original lawsuit was filed in September by two men claiming that Paul Havsgaard. He is a former pastor and a missionary at Harvest Christian Fellowship in Riverside, California.
 
 Anchored Artifacts: A-1624.2
-Mentions: N-455, N-454
+Mentions: N-453, N-452
 Related Nodes: N-10411, N-11340
 Supports: C-7944
 Tags: relevance:context
@@ -1736,7 +1736,7 @@ Claim: The host says the court documents claim that Greg Laurie and Harvest Chri
 Transcript Snippet: The court documents claim that Greg Laurie and the Harvest Christian Fellowship uh sent funding to Havsgaard, which they obviously did send funding to him while he was there, and they were negligent in supervising him while he was there, despite reports of abuse.
 
 Anchored Artifacts: A-1624.1
-Mentions: N-454, N-455
+Mentions: N-452, N-453
 Related Nodes: N-10411, N-11340
 Tags: relevance:context
 Investigative Direction: Obtain the complaints and any Harvest response; confirm the funding transfers and the alleged prior reports.
@@ -1752,7 +1752,7 @@ Claim: The host says the Harvest side argues that Havsgaard was a pastor they we
 Transcript Snippet: It's not the entire church. You know, it's not fair to come after the whole church for what Paul Havsgaard is being alleged to have done.
 
 Anchored Artifacts: A-1624.1
-Mentions: N-454, N-455, N-3
+Mentions: N-452, N-453, N-3
 Related Nodes: N-10411, N-11340
 Tags: relevance:context
 Investigative Direction: Obtain Harvest's public statement or court response to confirm it says this.
@@ -1848,7 +1848,7 @@ Claim: The host says it is interesting that Greg Laurie is not saying the abuse 
 Transcript Snippet: because it's interesting that he's not saying it didn't happen. He's saying well it's not the whole church just this pastor.
 
 Anchored Artifacts: A-1624.1
-Mentions: N-454, N-3
+Mentions: N-452, N-3
 Related Nodes: N-10411, N-11340
 Tags: relevance:context
 Investigative Direction: Obtain Laurie's and Harvest's public statements and court responses to compare with the host's characterization.
@@ -1880,7 +1880,7 @@ Claim: The host says Anthony Aguilar went on Tucker Carlson's show, was attacked
 Transcript Snippet: He went on Tucker Carlson's show and then he was attacked and he spoke about Johnny Moore and the fake Gazin humanitarian aid that was really just kind of letting Palestinian children and uh women be murdered
 
 Anchored Artifacts: 
-Mentions: N-3, N-457, N-22, N-441
+Mentions: N-3, N-455, N-22, N-439
 Related Nodes: N-10670
 Tags: relevance:context
 Investigative Direction: Review Aguilar's Tucker Carlson interview for his exact statements about Johnny Moore and the aid sites.
@@ -2130,8 +2130,8 @@ Confidence: high
 - **A-1624.1** – *Artifact verbally referenced but not shown*: Article about Harvest Christian Fellowship lawsuits is referenced as "here's an article which tells us" but the article itself is not displayed in the transcript.
 - **C-2094** – *Claim failed anchor test for this episode*: Plane SUBTU timeline claim references host's "master timeline" previously shown in earlier episodes; not artifact-anchored within this episode. Inscribed with low confidence and flag.
 - **N-307** Wed Mahmoud – *Name uncertainty*: Host spells name phonetically as "Wed Mahmoud / Wed Mahmoud / Wed Mahmoud" across passages; preserve as "Wed Mahmoud" with optional flag.
-- **N-455** Paul Havsgaard – *Name uncertainty*: Host spells surname both as "Havsgaard" and "Havsgaard" within the same passage; flag for verification against court filings.
-- **N-806** Paul Vallely – *Name uncertainty*: Host spells name both as "Vali" and "Paul Vallely"; flag for verification.
+- **N-453** Paul Havsgaard – *Name uncertainty*: Host spells surname both as "Havsgaard" and "Havsgaard" within the same passage; flag for verification against court filings.
+- **N-804** Paul Vallely – *Name uncertainty*: Host spells name both as "Vali" and "Paul Vallely"; flag for verification.
 
 ---
 

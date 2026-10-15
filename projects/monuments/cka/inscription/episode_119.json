@@ -83,11 +83,11 @@
           ],
           "related_nodes": [
             "N-263",
-            "N-691",
+            "N-689",
+            "N-701",
+            "N-702",
             "N-703",
             "N-704",
-            "N-705",
-            "N-706",
             "N-10991"
           ],
           "tags": [],
@@ -256,10 +256,10 @@
             "C-4811"
           ],
           "related_nodes": [
+            "N-705",
+            "N-706",
             "N-707",
             "N-708",
-            "N-709",
-            "N-710",
             "N-300",
             "N-2",
             "N-11000"
@@ -293,7 +293,7 @@
             "N-17",
             "N-3",
             "N-268",
-            "N-711",
+            "N-709",
             "N-10887"
           ],
           "tags": [],
@@ -427,7 +427,7 @@
             "C-4792"
           ],
           "related_nodes": [
-            "N-706",
+            "N-704",
             "N-10998"
           ],
           "tags": [],
@@ -996,8 +996,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-367",
-      "ref": "N-367",
+      "@id": "N-366",
+      "ref": "N-366",
       "name": "Cabot Phillips",
       "type": "person",
       "description": "Host says he accosted her on a toddler playground during her early pregnancy.",
@@ -1013,8 +1013,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-384",
-      "ref": "N-384",
+      "@id": "N-382",
+      "ref": "N-382",
       "name": "Eddie Farnsworth",
       "type": "person",
       "description": "Said to have helped bring Lori Frantzve into Arizona government contracts.",
@@ -1030,11 +1030,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-391",
-      "ref": "N-391",
+      "@id": "N-389",
+      "ref": "N-389",
       "name": "Larry Guinta",
       "type": "person",
-      "description": "Transcript spelling \"Larry Ginta\". Lori Frantzve's husband and Erika Kirk's stepfather, said to appear with her on the Arizona House floor.",
+      "description": "Transcript spelling \"Larry Guinta\". Lori Frantzve's husband and Erika Kirk's stepfather, said to appear with her on the Arizona House floor.",
       "related_artifacts": [],
       "related_claims": [
         "C-4780"
@@ -1047,8 +1047,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-493",
-      "ref": "N-493",
+      "@id": "N-491",
+      "ref": "N-491",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Transcript spelling \"Lori Fran Slay\". Erika Kirk's mother; said to have been brought into Arizona government contracts by the Farnsworths.",
@@ -1064,8 +1064,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-555",
-      "ref": "N-555",
+      "@id": "N-553",
+      "ref": "N-553",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Named only as \"Aubrey\"; said to have told Andrew Kolvet when she was fired that \"Nobody knows who she is.\"",
@@ -1081,8 +1081,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-691",
-      "ref": "N-691",
+      "@id": "N-689",
+      "ref": "N-689",
       "name": "Philip Goldsberry Jr.",
       "type": "person",
       "description": "First named by the host at 00:09:55 in episode 119. Visual Impulse team member on September 10; the host says his father is a pastor who started Global Ministries in Romania. Aliases: Philip Goldsberry.",
@@ -1100,8 +1100,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-703",
-      "ref": "N-703",
+      "@id": "N-701",
+      "ref": "N-701",
       "name": "Brian Farnsworth",
       "type": "person",
       "description": "First named by the host at 00:09:55 in episode 119. Terrell Farnsworth's brother, shown on the Visual Impulse team graphic.",
@@ -1119,8 +1119,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-704",
-      "ref": "N-704",
+      "@id": "N-702",
+      "ref": "N-702",
       "name": "Parker Edwards",
       "type": "person",
       "description": "First named by the host at 00:10:49 in episode 119. Visual Impulse team member who went to the same high school as Terrell Farnsworth.",
@@ -1139,8 +1139,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-705",
-      "ref": "N-705",
+      "@id": "N-703",
+      "ref": "N-703",
       "name": "Aaron Edwards",
       "type": "person",
       "description": "First named by the host at 00:11:31 in episode 119. Parker Edwards's brother; said to have worked for Visual Impulse and attended Arizona State University.",
@@ -1158,8 +1158,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-706",
-      "ref": "N-706",
+      "@id": "N-704",
+      "ref": "N-704",
       "name": "Robert Golow",
       "type": "person",
       "description": "First named by the host at 00:11:31 in episode 119. Visual Impulse camera operator from Liberia, hired in 2024; said to have stood next to Terrell Farnsworth when Charlie Kirk was hit.",
@@ -1180,8 +1180,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-707",
-      "ref": "N-707",
+      "@id": "N-705",
+      "ref": "N-705",
       "name": "Ellen Gordon",
       "type": "person",
       "description": "First named by the host at 00:24:13 in episode 119. Tootsie Roll Industries executive cited by ChatGPT as a widow successor.",
@@ -1199,8 +1199,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-708",
-      "ref": "N-708",
+      "@id": "N-706",
+      "ref": "N-706",
       "name": "Katharine Graham",
       "type": "person",
       "description": "First named by the host at 00:24:13 in episode 119. Washington Post publisher cited by ChatGPT as a widow successor. Aliases: Katharine Meyer Graham.",
@@ -1218,8 +1218,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-709",
-      "ref": "N-709",
+      "@id": "N-707",
+      "ref": "N-707",
       "name": "Eugene Meyer",
       "type": "person",
       "description": "First named by the host at 00:26:09 in episode 119. Katharine Graham's father, who the host says bought the Washington Post out of bankruptcy.",
@@ -1237,8 +1237,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-710",
-      "ref": "N-710",
+      "@id": "N-708",
+      "ref": "N-708",
       "name": "Sheldon Adelson",
       "type": "person",
       "description": "First named by the host at 00:26:09 in episode 119. Miriam Adelson's late husband; the host says Miriam inherited his shares on his death in 2021.",
@@ -1256,8 +1256,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-711",
-      "ref": "N-711",
+      "@id": "N-709",
+      "ref": "N-709",
       "name": "Increase Mather",
       "type": "person",
       "description": "First named by the host at 00:37:29 in episode 119 (in Rob McCoy's sermon clip). Named by McCoy as the minister who ended the Salem witch trials.",
@@ -1275,8 +1275,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-600",
-      "ref": "N-600",
+      "@id": "N-598",
+      "ref": "N-598",
       "name": "Druski",
       "type": "person",
       "description": "First named by the host at 00:58:50 in episode 119. Comedian whom the host says Erika Kirk called out for a joke. Aliases: Drewski.",
@@ -1805,11 +1805,11 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-263",
-        "N-691",
+        "N-689",
+        "N-701",
+        "N-702",
         "N-703",
-        "N-704",
-        "N-705",
-        "N-706"
+        "N-704"
       ]
     },
     {
@@ -1833,7 +1833,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-706"
+        "N-704"
       ]
     },
     {
@@ -1885,10 +1885,10 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-705",
+        "N-706",
         "N-707",
         "N-708",
-        "N-709",
-        "N-710",
         "N-300"
       ]
     }
@@ -1923,7 +1923,7 @@
       "investigative_direction": "Locate any video or posts by Cabot Phillips of the playground encounter and its date.",
       "transcript_snippet": "I was pregnant, truly a victim, when my foot was broken and Cabot Phillips accosted me on a toddler playground.",
       "mentions_person_refs": [
-        "N-367",
+        "N-366",
         "N-3"
       ]
     },
@@ -2085,9 +2085,9 @@
         "C-2010"
       ],
       "mentions_person_refs": [
-        "N-384",
-        "N-493",
-        "N-391",
+        "N-382",
+        "N-491",
+        "N-389",
         "N-2",
         "N-1"
       ]
@@ -2212,7 +2212,7 @@
       "transcript_snippet": "So we know Tarrou, he's there at the top. Brian Farnsworth is his is his uh brother.",
       "mentions_person_refs": [
         "N-263",
-        "N-703"
+        "N-701"
       ]
     },
     {
@@ -2233,7 +2233,7 @@
       "investigative_direction": "Look up the charity's registration and officers in US and Romanian nonprofit records.",
       "transcript_snippet": "His father is the pastor who, of course, started a charity, Global Ministries in Romania, because why wouldn't he?",
       "mentions_person_refs": [
-        "N-691"
+        "N-689"
       ]
     },
     {
@@ -2254,7 +2254,7 @@
       "investigative_direction": "Check high school alumni records for Parker Edwards and Terrell Farnsworth.",
       "transcript_snippet": "Parker Edwards, we just dug into this guy, and it turns out that he went to the same high school as Tarrou Farnsworth.",
       "mentions_person_refs": [
-        "N-704",
+        "N-702",
         "N-263"
       ]
     },
@@ -2276,8 +2276,8 @@
       "investigative_direction": "Check Visual Impulse employment records and ASU enrollment confirmation.",
       "transcript_snippet": "also his brother Aaron Edwards worked for Visual Impulse as well, went to the same high school, also went to Arizona State University.",
       "mentions_person_refs": [
-        "N-705",
-        "N-704"
+        "N-703",
+        "N-702"
       ]
     },
     {
@@ -2299,7 +2299,7 @@
       "investigative_direction": "Obtain Visual Impulse hiring records for Golow and the date TPUSA introduced the second microphone.",
       "transcript_snippet": "He was brought on, I am told, of course after I stopped touring with Charlie, when they started doing the redundancy of the microphone in 2024. He's actually from Liberia",
       "mentions_person_refs": [
-        "N-706",
+        "N-704",
         "N-1",
         "N-263"
       ]
@@ -2322,7 +2322,7 @@
       "investigative_direction": "Review September 10 crowd video for the camera position and Golow's movements, and check his current employment.",
       "transcript_snippet": "But he's the one that's next to him, and then he runs off, and he was a new hire, uh so to speak, um within the year before Charlie died.",
       "mentions_person_refs": [
-        "N-706",
+        "N-704",
         "N-263",
         "N-1"
       ]
@@ -2344,7 +2344,7 @@
       "investigative_direction": "Follow up on tips received about Golow's background and his September 10 role.",
       "transcript_snippet": "But if you know anything about Robert Golow, um and his involvement, we would love to hear from you. More tips at candaceowens. com.",
       "mentions_person_refs": [
-        "N-706",
+        "N-704",
         "N-3"
       ]
     },
@@ -2627,7 +2627,7 @@
       "investigative_direction": "Check Tootsie Roll Industries SEC filings on ownership and executive history.",
       "transcript_snippet": "She took over Tootsie Roll Industries after her husband Melvin Gordon died at But actually no, not mentioned is the fact that it was her family's company.",
       "mentions_person_refs": [
-        "N-707"
+        "N-705"
       ]
     },
     {
@@ -2667,7 +2667,7 @@
       "investigative_direction": "Consult Washington Post corporate history for ownership at the time of Philip Graham's death.",
       "transcript_snippet": "Katharine Meyer Graham, sure enough she did take over for her husband Philip Graham as the publisher of the Washington Post after he died, but again it doesn't count because actually it was her family's company.",
       "mentions_person_refs": [
-        "N-708"
+        "N-706"
       ]
     },
     {
@@ -2687,8 +2687,8 @@
       "investigative_direction": "Check the 1933 bankruptcy auction record of the Washington Post and Federal Reserve leadership history.",
       "transcript_snippet": "Eugene Meyer was her father, like I said, who purchased Washington Post um right out of bankruptcy.",
       "mentions_person_refs": [
-        "N-709",
-        "N-708"
+        "N-707",
+        "N-706"
       ]
     },
     {
@@ -2729,7 +2729,7 @@
       "transcript_snippet": "it was actually them together that had a controlling interest. It's a publicly traded company and she simply inherited his shares.",
       "mentions_person_refs": [
         "N-300",
-        "N-710"
+        "N-708"
       ]
     },
     {
@@ -2748,7 +2748,7 @@
       "investigative_direction": "Obtain the recording of Aubrey Lech's termination meeting.",
       "transcript_snippet": "You remember even when Aubrey got fired, she had said to Andrew Kolvet, \"Nobody knows who she is.",
       "mentions_person_refs": [
-        "N-555",
+        "N-553",
         "N-14",
         "N-2"
       ]
@@ -2892,7 +2892,7 @@
       "transcript_snippet": "we ended the Salem witch trials in 1692 in America. And it was a minister who ended them. His name was Increase Mather.",
       "mentions_person_refs": [
         "N-17",
-        "N-711"
+        "N-709"
       ]
     },
     {
@@ -3252,7 +3252,7 @@
       "transcript_snippet": "calling out Drewski for a joke while forgiving Tyler Robinson and throwing my name in it for no reason.",
       "mentions_person_refs": [
         "N-2",
-        "N-600",
+        "N-598",
         "N-40",
         "N-3"
       ]

@@ -1164,8 +1164,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-455",
-      "ref": "N-455",
+      "@id": "N-453",
+      "ref": "N-453",
       "name": "Paul Havsgaard",
       "type": "person",
       "description": "Named as a former megachurch pastor accused of trafficking children from Romania (transcribed Paul Havsgaard).",
@@ -1706,8 +1706,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-802",
-      "ref": "N-802",
+      "@id": "N-800",
+      "ref": "N-800",
       "name": "Loren Cunningham",
       "type": "person",
       "description": "Founder of Youth With A Mission; first named in the Wallnau clip at 00:13:31 in episode 29.",
@@ -1723,8 +1723,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-803",
-      "ref": "N-803",
+      "@id": "N-801",
+      "ref": "N-801",
       "name": "Bill Bright",
       "type": "person",
       "description": "Named in the Wallnau clip at 00:13:31 in episode 29 as the other party to the 2000 conversation.",
@@ -1740,8 +1740,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-804",
-      "ref": "N-804",
+      "@id": "N-802",
+      "ref": "N-802",
       "name": "Carl Wallnau",
       "type": "person",
       "description": "Father of Lance Wallnau; first named by the host at 00:17:09 in episode 29.",
@@ -2441,8 +2441,8 @@
       ],
       "mentions_person_refs": [
         "N-242",
-        "N-802",
-        "N-803"
+        "N-800",
+        "N-801"
       ]
     },
     {
@@ -2529,7 +2529,7 @@
       "transcript_snippet": "His father, Carl Wallnau, was a major in the United States Air Force, okay? Wallnau served under General Patton. After the war, he then continued his adventures as a field engineer for Standard Oil",
       "mentions_person_refs": [
         "N-242",
-        "N-804"
+        "N-802"
       ]
     },
     {
@@ -2829,7 +2829,7 @@
         "C-7943"
       ],
       "mentions_person_refs": [
-        "N-455"
+        "N-453"
       ]
     },
     {

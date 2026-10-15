@@ -1248,8 +1248,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-414",
-      "ref": "N-414",
+      "@id": "N-412",
+      "ref": "N-412",
       "name": "Zachariah Karashy",
       "type": "person",
       "description": "Man the host says was detained and released after the shooting; she raises his father's military app.",
@@ -1267,8 +1267,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-434",
-      "ref": "N-434",
+      "@id": "N-432",
+      "ref": "N-432",
       "name": "Brad Parscale",
       "type": "person",
       "description": "Host recalls meeting him years ago.",
@@ -1304,8 +1304,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-497",
-      "ref": "N-497",
+      "@id": "N-495",
+      "ref": "N-495",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "TPUSA chief marketing officer named by the host as scheduled for the White House meeting.",
@@ -1321,8 +1321,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-498",
-      "ref": "N-498",
+      "@id": "N-496",
+      "ref": "N-496",
       "name": "\"Frank\" (TPUSA General Counsel)",
       "type": "person",
       "description": "In-house legal counsel named by the host as scheduled for the White House meeting.",
@@ -1338,8 +1338,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-533",
-      "ref": "N-533",
+      "@id": "N-531",
+      "ref": "N-531",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "Epstein associate whom the host describes in her Phelan manifest discussion.",
@@ -1357,8 +1357,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-574",
-      "ref": "N-574",
+      "@id": "N-572",
+      "ref": "N-572",
       "name": "Faith Kates",
       "type": "person",
       "description": "Head of the modeling firm the host ties to Brunel and Erika Kirk.",
@@ -1409,8 +1409,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-786",
-      "ref": "N-786",
+      "@id": "N-784",
+      "ref": "N-784",
       "name": "Mitchell Curtis",
       "type": "person",
       "description": "First named by the host at 00:21:00 in episode 133; she says he is a Pleasant Grove officer and 2025 UVU graduate who found the gun.",
@@ -1428,8 +1428,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-787",
-      "ref": "N-787",
+      "@id": "N-785",
+      "ref": "N-785",
       "name": "Foster Curtis",
       "type": "person",
       "description": "First named by the host at 00:21:00 in episode 133; she says he is Mitchell Curtis's father, a 21-year NCIS veteran.",
@@ -1448,8 +1448,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-788",
-      "ref": "N-788",
+      "@id": "N-786",
+      "ref": "N-786",
       "name": "James Osuna",
       "type": "person",
       "description": "First named by the host at 00:22:40 in episode 133; she says he was Richmond's inspector general for six years before being fired.",
@@ -1465,8 +1465,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-789",
-      "ref": "N-789",
+      "@id": "N-787",
+      "ref": "N-787",
       "name": "John C. Phelan",
       "type": "person",
       "description": "First named by the host at 00:27:47 in episode 133 (transcript spelling 'felon failen'); Secretary of the Navy.",
@@ -1682,7 +1682,7 @@
       "claim_timestamp": "00:30:41–00:31:35",
       "investigative_direction": "Verify against released October 2025 House Committee manifest documents and cross-reference Brunel's known 2006 travel.",
       "mentions_person_refs": [
-        "N-533"
+        "N-531"
       ]
     },
     {
@@ -1792,9 +1792,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-497",
+        "N-495",
         "N-15",
-        "N-498",
+        "N-496",
         "N-36"
       ]
     },
@@ -1885,7 +1885,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-414"
+        "N-412"
       ]
     },
     {
@@ -1907,7 +1907,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-42",
-        "N-414"
+        "N-412"
       ]
     },
     {
@@ -1931,7 +1931,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-414"
+        "N-412"
       ]
     },
     {
@@ -2285,7 +2285,7 @@
       "transcript_snippet": "I'm told Mitchell Curtis of Pleasant Grove Police, 2025 graduate, very young buck.",
       "mentions_person_refs": [
         "N-3",
-        "N-786"
+        "N-784"
       ]
     },
     {
@@ -2309,8 +2309,8 @@
       "transcript_snippet": "His father's name is Foster Curtis. Foster lives in Virginia. Foster spent 21 years with NCIS, starting as a special agent",
       "mentions_person_refs": [
         "N-3",
-        "N-786",
-        "N-787"
+        "N-784",
+        "N-785"
       ]
     },
     {
@@ -2354,7 +2354,7 @@
       "transcript_snippet": "Foster Curtis after 21 years decided to leave his position as a division chief and to be Richmond, Virginia's interim inspector general.",
       "mentions_person_refs": [
         "N-3",
-        "N-787"
+        "N-785"
       ]
     },
     {
@@ -2377,8 +2377,8 @@
       "transcript_snippet": "No comments will be made on personnel matters and NDAs were signed.",
       "mentions_person_refs": [
         "N-3",
-        "N-788",
-        "N-787"
+        "N-786",
+        "N-785"
       ]
     },
     {
@@ -2400,8 +2400,8 @@
       "transcript_snippet": "We can now add Mitch and Foster.",
       "mentions_person_refs": [
         "N-3",
-        "N-786",
-        "N-787"
+        "N-784",
+        "N-785"
       ]
     },
     {
@@ -2423,7 +2423,7 @@
       "transcript_snippet": "Trump appointed a guy with literally zero military experience into that position.",
       "mentions_person_refs": [
         "N-3",
-        "N-789",
+        "N-787",
         "N-5"
       ]
     },
@@ -2445,7 +2445,7 @@
       "transcript_snippet": "by hosting this private fundraiser for Trump in Aspen, which featured billionaire guests like Steve Win in attendance.",
       "mentions_person_refs": [
         "N-3",
-        "N-789",
+        "N-787",
         "N-5",
         "N-355"
       ]
@@ -2473,7 +2473,7 @@
         "N-3",
         "N-9",
         "N-5",
-        "N-789"
+        "N-787"
       ]
     },
     {
@@ -2494,7 +2494,7 @@
       "transcript_snippet": "he's the second one who probably didn't kill himself, but did end up hung in a prison.",
       "mentions_person_refs": [
         "N-3",
-        "N-533",
+        "N-531",
         "N-9"
       ]
     },
@@ -2516,7 +2516,7 @@
       "transcript_snippet": "sent Jeffrey Epstein, I think is it 8-year-old triplets for his birthday?",
       "mentions_person_refs": [
         "N-3",
-        "N-533",
+        "N-531",
         "N-9"
       ]
     },
@@ -2538,8 +2538,8 @@
       "transcript_snippet": "also happened to start um be one of the founders of that firm that was run by Faith Kates",
       "mentions_person_refs": [
         "N-3",
-        "N-533",
-        "N-574"
+        "N-531",
+        "N-572"
       ]
     },
     {
@@ -2564,7 +2564,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-574"
+        "N-572"
       ]
     },
     {
@@ -2760,7 +2760,7 @@
       "transcript_snippet": "Brad and I had a friendly relationship.",
       "mentions_person_refs": [
         "N-3",
-        "N-434"
+        "N-432"
       ]
     },
     {

@@ -74,7 +74,7 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-595"
+            "N-593"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -102,7 +102,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-596",
+            "N-594",
             "N-5",
             "N-10539"
           ],
@@ -159,7 +159,7 @@
             "C-2482"
           ],
           "related_nodes": [
-            "N-595",
+            "N-593",
             "N-3"
           ],
           "tags": [],
@@ -243,7 +243,7 @@
             "C-2485"
           ],
           "related_nodes": [
-            "N-597",
+            "N-595",
             "N-5",
             "N-10541"
           ],
@@ -435,7 +435,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-598",
+            "N-596",
             "N-10541"
           ],
           "tags": [],
@@ -490,7 +490,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-381",
+            "N-379",
             "N-10541"
           ],
           "tags": [],
@@ -518,7 +518,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-599",
+            "N-597",
             "N-10543"
           ],
           "tags": [],
@@ -917,8 +917,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-595",
-      "ref": "N-595",
+      "@id": "N-593",
+      "ref": "N-593",
       "name": "Meghan McCain",
       "type": "person",
       "description": "Author of X post A-1849.1 and subject of Charlie Kirk text A-1846.3.",
@@ -942,8 +942,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-596",
-      "ref": "N-596",
+      "@id": "N-594",
+      "ref": "N-594",
       "name": "Bret Weinstein",
       "type": "person",
       "description": "Co-party to text exchange A-1847.1 with Charlie Kirk regarding Iran war.",
@@ -1036,8 +1036,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-597",
-      "ref": "N-597",
+      "@id": "N-595",
+      "ref": "N-595",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Speaker in audio clip A-1852.1 regarding Strait of Hormuz.",
@@ -1088,8 +1088,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-598",
-      "ref": "N-598",
+      "@id": "N-596",
+      "ref": "N-596",
       "name": "Georgia Meloni",
       "type": "person",
       "description": "Speaker attributed with statement (A-1855.7) criticizing US-Israeli war as outside international law.",
@@ -1110,8 +1110,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-599",
-      "ref": "N-599",
+      "@id": "N-597",
+      "ref": "N-597",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Quoted by host in article A-1856.1.",
@@ -1174,7 +1174,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-596",
+        "N-594",
         "N-5"
       ]
     },
@@ -1378,8 +1378,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-381",
-      "ref": "N-381",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Speaker attributed with statement (A-1855.10) regarding French navy escort.",
@@ -1587,8 +1587,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-394",
-      "ref": "N-394",
+      "@id": "N-392",
+      "ref": "N-392",
       "name": "Andrew Breitbart",
       "type": "person",
       "description": "Late publisher whose legacy the host says Shapiro tried to recreate.",
@@ -1604,8 +1604,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-524",
-      "ref": "N-524",
+      "@id": "N-522",
+      "ref": "N-522",
       "name": "Rothschild Family",
       "type": "person",
       "description": "Family the host asserts created Israel and Macron.",
@@ -2088,7 +2088,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-595"
+        "N-593"
       ]
     },
     {
@@ -2109,7 +2109,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-5",
-        "N-596"
+        "N-594"
       ]
     },
     {
@@ -2129,7 +2129,7 @@
       "investigative_direction": "Verify original message; cross-reference with contemporaneous public statements.",
       "mentions_person_refs": [
         "N-1",
-        "N-596"
+        "N-594"
       ]
     },
     {
@@ -2166,7 +2166,7 @@
       "investigative_direction": "Direct retrieval of the original X post via archive.",
       "mentions_person_refs": [
         "N-3",
-        "N-595"
+        "N-593"
       ]
     },
     {
@@ -2224,7 +2224,7 @@
       "investigative_direction": "Obtain the full press exchange transcript and date.",
       "mentions_person_refs": [
         "N-5",
-        "N-597"
+        "N-595"
       ]
     },
     {
@@ -2292,8 +2292,8 @@
       "investigative_direction": "Obtain original government press releases or transcripts for each quoted statement and verify dates.",
       "mentions_person_refs": [
         "N-5",
-        "N-381",
-        "N-598"
+        "N-379",
+        "N-596"
       ]
     },
     {
@@ -2389,7 +2389,7 @@
       "investigative_direction": "Retrieve the original published article (Substack or platform); verify publication date.",
       "mentions_person_refs": [
         "N-3",
-        "N-599"
+        "N-597"
       ]
     },
     {
@@ -2736,7 +2736,7 @@
         "N-1",
         "N-36",
         "N-5",
-        "N-596"
+        "N-594"
       ]
     },
     {
@@ -2759,7 +2759,7 @@
       "investigative_direction": "Obtain Weinstein's original post and date; ask him what basis exists beyond the timing of Kirk's opposition.",
       "transcript_snippet": "it is reasonable to wonder if his refusal to back down from his steadfast opposition somehow resulted in his murder.",
       "mentions_person_refs": [
-        "N-596",
+        "N-594",
         "N-1",
         "N-5"
       ]
@@ -2783,7 +2783,7 @@
       "investigative_direction": "Obtain Weinstein's full post and identify which investigative product he judges inadequate.",
       "transcript_snippet": "A good investigation could have settled the matter. What we got only increases the reason for concern.",
       "mentions_person_refs": [
-        "N-596",
+        "N-594",
         "N-1"
       ]
     },
@@ -2806,7 +2806,7 @@
       "investigative_direction": "Find Kirk's recorded or texted worries about his own safety and about the Iran decision to test Weinstein's final phrase.",
       "transcript_snippet": "the timing of his death removed him from the equation and likely changed the course of history.",
       "mentions_person_refs": [
-        "N-596",
+        "N-594",
         "N-1"
       ]
     },
@@ -2830,7 +2830,7 @@
       "transcript_snippet": "driving real-time mass public opinion yet. The neocons are.",
       "mentions_person_refs": [
         "N-1",
-        "N-596"
+        "N-594"
       ]
     },
     {
@@ -2902,7 +2902,7 @@
       "transcript_snippet": "Ben Shapiro was trying to take Andrew Breitbart's legacy and recreate it by manufacturing a scandal with The Daily Wire.",
       "mentions_person_refs": [
         "N-97",
-        "N-394",
+        "N-392",
         "N-1",
         "N-3"
       ]
@@ -3078,7 +3078,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-595",
+        "N-593",
         "N-1"
       ]
     },
@@ -3227,8 +3227,8 @@
       "investigative_direction": "No primary record offered; ask the host for any document linking the Rothschild family to Macron's career or to Israel's founding.",
       "transcript_snippet": "the Rothschilds are Israel, they created Israel, and they created Emmanuel Macron.",
       "mentions_person_refs": [
-        "N-381",
-        "N-524",
+        "N-379",
+        "N-522",
         "N-3"
       ]
     },
@@ -3384,7 +3384,7 @@
       "transcript_snippet": "They have purchased views, influencers and journalists. They have activated millions of online bots.",
       "mentions_person_refs": [
         "N-3",
-        "N-599"
+        "N-597"
       ]
     },
     {

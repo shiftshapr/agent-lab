@@ -13,24 +13,24 @@
     "transcript_sha256": "885939e5060d01cec89ba6e17fe5ab38343e86673762e177efb309ef1b930d63",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode advances multiple investigative threads already in motion in the Bride of Charlie series. The host presents artifact-anchored material in four primary areas: (1) the contested quotation about Charlie Kirk's neck that was attributed to \"the surgeon\" on Andrew Colberg's X feed, (2) the disposition of the vehicle in which Charlie was transported to Timpanogos Regional Hospital, supported by a Frank Turek interview clip played on air, (3) the procedural circumstances around the recovery of the firearm, including alleged bomb-dog searches and federal redirection of inexperienced officers, and (4) a Baron Coleman video segment that displays August 25–26, 2025 flight logs under the SAM000 and RCH658/SAM658 call signs in connection with a Fort Huachuca meeting allegedly observed on September 9. The episode also references a forthcoming interview with an unnamed eyewitness (\"Elvis guy\") who claims to have seen Brian Harpole at a high-level meeting.\n\nStructurally, the episode functions as a hinge point in the series, consolidating prior threads (Colberg tweet, SAM/Reach flight analysis, Operation Valhalla Strike timeline, Fort Huachuca) and setting up the next-day testimony from the eyewitness. The artifact register captures three on-air interview clips, one read-aloud X post, and one set of vehicle interior photographs held but not fully displayed by the host.\n\n---",
+  "executive_summary": "This episode advances multiple investigative threads already in motion in the Bride of Charlie series. The host presents artifact-anchored material in four primary areas: (1) the contested quotation about Charlie Kirk's neck that was attributed to \"the surgeon\" on Andrew Kolvet's X feed, (2) the disposition of the vehicle in which Charlie was transported to Timpanogos Regional Hospital, supported by a Frank Turek interview clip played on air, (3) the procedural circumstances around the recovery of the firearm, including alleged bomb-dog searches and federal redirection of inexperienced officers, and (4) a Baron Coleman video segment that displays August 25–26, 2025 flight logs under the SAM000 and RCH658/SAM658 call signs in connection with a Fort Huachuca meeting allegedly observed on September 9. The episode also references a forthcoming interview with an unnamed eyewitness (\"Elvis guy\") who claims to have seen Brian Harpole at a high-level meeting.\n\nStructurally, the episode functions as a hinge point in the series, consolidating prior threads (Colberg tweet, SAM/Reach flight analysis, Operation Valhalla Strike timeline, Fort Huachuca) and setting up the next-day testimony from the eyewitness. The artifact register captures three on-air interview clips, one read-aloud X post, and one set of vehicle interior photographs held but not fully displayed by the host.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
       "@id": "A-1552",
       "family_ref": "A-1552",
-      "bundle_name": "Andrew Colberg X Post Bundle",
+      "bundle_name": "Andrew Kolvet X Post Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1552.1",
           "ref": "A-1552.1",
-          "description": "Andrew Colberg X post containing attributed quotation about Charlie's neck",
+          "description": "Andrew Kolvet X post containing attributed quotation about Charlie's neck",
           "related_claims": [
             "C-1960"
           ],
           "related_nodes": [
-            "N-362",
+            "N-14",
             "N-197",
             "N-10358"
           ],
@@ -328,9 +328,9 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-362",
-      "ref": "N-362",
-      "name": "Andrew Colberg",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "X user whose attributed \"man of steel\" quotation post is contested by host sources as not being a direct surgeon statement.",
       "related_artifacts": [
@@ -443,8 +443,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-363",
-      "ref": "N-363",
+      "@id": "N-362",
+      "ref": "N-362",
       "name": "Harry",
       "type": "person",
       "description": "Producer/investigator on host's team referenced by name regarding Fort Huachuca inquiry and the upcoming eyewitness testimony segment.",
@@ -478,7 +478,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-362",
+        "N-14",
         "N-197"
       ]
     },
@@ -617,7 +617,7 @@
       "related_nodes": [
         "N-332",
         "N-268",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -835,8 +835,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-382",
-      "ref": "N-382",
+      "@id": "N-380",
+      "ref": "N-380",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Reused; first introduced in episode 15.",
@@ -1473,7 +1473,7 @@
       "@id": "C-1960",
       "ref": "C-1960",
       "label": "Colberg X Post Attributes \"Man of Steel\" Quotation to Surgeon",
-      "claim": "Andrew Colberg's X post contains a quotation attributed to \"the surgeon\" describing Charlie Kirk's neck bone as \"so healthy and the density was so, so impressive that he's like the man of steel,\" and stating the bullet \"should have just gone through and through.\"",
+      "claim": "Andrew Kolvet's X post contains a quotation attributed to \"the surgeon\" describing Charlie Kirk's neck bone as \"so healthy and the density was so, so impressive that he's like the man of steel,\" and stating the bullet \"should have just gone through and through.\"",
       "anchored_artifacts": [
         "A-1552.1"
       ],
@@ -1485,7 +1485,7 @@
       "investigative_direction": "Obtain original Colberg post via direct retrieval or archive, and compare against any direct surgeon statements or hospital records.",
       "mentions_person_refs": [
         "N-197",
-        "N-362",
+        "N-14",
         "N-1"
       ]
     },
@@ -1502,7 +1502,7 @@
         "N-10362"
       ],
       "tags": [],
-      "claim_timestamp": "00:27:47",
+      "claim_timestamp": "00:27:12",
       "investigative_direction": "Cross-reference with FBI case file records, impound logs, and any Megyn Kelly show segment timestamps.",
       "mentions_person_refs": [
         "N-7"
@@ -1513,7 +1513,7 @@
       "@id": "C-1962",
       "ref": "C-1962",
       "label": "Turek States Charlie's Necklace Was on His Bag in Vehicle",
-      "claim": "Frank Turek states on a podcast that Charlie's necklace, bearing a cross and medallions, was draped over his computer bag inside the transport vehicle, and that he handed it to a police officer who stated they had been searching for it.",
+      "claim": "Frank Turek states on a podcast that Charlie's necklace, bearing a cross and medallions, was draped over his computer bag inside the transport vehicle, and that when a cop said they had been looking for it, he said he had it and took it.",
       "anchored_artifacts": [
         "A-1553.1"
       ],
@@ -1610,7 +1610,7 @@
       "@id": "C-1967",
       "ref": "C-1967",
       "label": "Harpole States UVU Event Intelligence Gathering Began August 24",
-      "claim": "Brian Harpole states in an interview that the intelligence gathering and preparation process for the UVU event began on August 24, with information sharing and conference calls commencing that date.",
+      "claim": "Brian Harpole states in an interview that the hard conversations, information sharing and conference calls for the UVU event began on August 24, though the intelligence gathering started before that.",
       "anchored_artifacts": [
         "A-1555.1"
       ],
@@ -1667,7 +1667,7 @@
       "@id": "C-3758",
       "ref": "C-3758",
       "label": "Host calls the Charlie Kirk case the most extreme cover-up she has seen, carried out by the feds",
-      "claim": "The host says she has never seen a more extreme cover-up than the Charlie Kirk cover-up the feds are engaged in, and links it to reports, which she says Trump confirmed, that Dan Bongino will step down from the FBI; she suggests Bongino may have realised how far the corruption goes.",
+      "claim": "The host says she has never seen a more extreme cover-up than the Charlie Kirk cover-up the feds are engaged in, and links it to reports, which it looks like Trump has confirmed, that Dan Bongino will step down from the FBI; she suggests Bongino may have realised how far the corruption goes.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10048"
@@ -1679,7 +1679,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-382",
+        "N-380",
         "N-5"
       ]
     },
@@ -1688,7 +1688,7 @@
       "@id": "C-5185",
       "ref": "C-5185",
       "label": "Host Says Colberg Was Allegedly Flying Blind When He Tweeted the Surgeon Conversation",
-      "claim": "The host says she was told that Andrew Colberg was allegedly flying blind when he tweeted out the conversation he had with the surgeon.",
+      "claim": "The host says she was told that Andrew Kolvet was allegedly flying blind when he tweeted out the conversation he had with the surgeon.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10358"
@@ -1696,10 +1696,10 @@
       "tags": [],
       "claim_timestamp": "00:02:37",
       "investigative_direction": "Identify the host's source and obtain Colberg's own account of how and when he spoke with the surgeon.",
-      "transcript_snippet": "I was told that Andrew Colberg was allegedly flying blind when he tweeted out the conversation that he had with the surgeon.",
+      "transcript_snippet": "I was told that Andrew Kolvet was allegedly flying blind when he tweeted out the conversation that he had with the surgeon.",
       "mentions_person_refs": [
         "N-3",
-        "N-362"
+        "N-14"
       ]
     },
     {
@@ -1707,7 +1707,7 @@
       "@id": "C-5186",
       "ref": "C-5186",
       "label": "Host Says Colberg's Superman Neck Tweet Followed Her Remark About No Blood in Back Footage",
-      "claim": "The host says the Colberg tweet about Superman neck came very quickly after she said on her show that she had seen the back footage and there was no blood.",
+      "claim": "The host says the Kolvet tweet about Superman neck came very quickly after she said on her show that she had seen the back footage and there was no blood.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10358"
@@ -1718,7 +1718,7 @@
       "transcript_snippet": "me doing the the show and saying, \"Oh, I saw the back footage and there was no blood.\"",
       "mentions_person_refs": [
         "N-3",
-        "N-362"
+        "N-14"
       ]
     },
     {
@@ -1726,7 +1726,7 @@
       "@id": "C-5187",
       "ref": "C-5187",
       "label": "Host Says Dr. Trotter Never Said Charlie's Neck Stopped a .30-06 Bullet",
-      "claim": "The host says that, per a source she trusts, Dr. Lee Trotter never once said Charlie Kirk's neck stopped a .30-06 bullet, and that the quotation Colberg shared on X is not a direct quotation from the surgeon.",
+      "claim": "The host says that, per a source she trusts, Dr. Lee Trotter never once said Charlie Kirk's neck stopped a .30-06 bullet, and that the quotation Kolvet shared on X is not a direct quotation from the surgeon.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10358"
@@ -1740,7 +1740,7 @@
       ],
       "mentions_person_refs": [
         "N-197",
-        "N-362",
+        "N-14",
         "N-1"
       ]
     },
@@ -1787,7 +1787,7 @@
       "@id": "C-5190",
       "ref": "C-5190",
       "label": "Host Says Trotter Hunts and Told Colberg It Was Likely a Frangible Bullet",
-      "claim": "The host says she was told that Dr. Lee Trotter, who hunts, communicated to Andrew Colberg that a frangible bullet was likely used, and describes a frangible bullet as ammunition designed to disintegrate on a hard surface.",
+      "claim": "The host says she was told that Dr. Lee Trotter, who hunts, communicated to Andrew Kolvet that a frangible bullet was likely used, and describes a frangible bullet as ammunition designed to disintegrate on a hard surface.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10358"
@@ -1801,7 +1801,7 @@
       ],
       "mentions_person_refs": [
         "N-197",
-        "N-362",
+        "N-14",
         "N-3"
       ]
     },
@@ -1823,7 +1823,7 @@
         "C-1960"
       ],
       "mentions_person_refs": [
-        "N-362",
+        "N-14",
         "N-3"
       ]
     },
@@ -1965,7 +1965,7 @@
       "@id": "C-5199",
       "ref": "C-5199",
       "label": "Host Says the Gun Site Was Already Searched by Veteran Officers Before the Gun Was Found",
-      "claim": "The host says the area where the gun was later found had already been searched by veteran police officers who locked arms and walked it, and that they found nothing.",
+      "claim": "The host says the area where the gun was later found had already been searched by veteran police officers, who told her they sort of lock arms to search and that 'maybe that's what they did', and that they found nothing.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10360"
@@ -2288,7 +2288,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-382"
+        "N-380"
       ]
     },
     {
@@ -2310,7 +2310,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-382"
+        "N-380"
       ]
     },
     {
@@ -2529,8 +2529,7 @@
       "investigative_direction": "Obtain the verifying personnel's statements or documents on the building and meeting.",
       "transcript_snippet": "And then we were able to verify his story. People that are currently stationed there.",
       "mentions_person_refs": [
-        "N-3",
-        "N-268"
+        "N-3"
       ]
     },
     {
@@ -2574,7 +2573,8 @@
         "C-1905"
       ],
       "mentions_person_refs": [
-        "N-332"
+        "N-332",
+        "N-1"
       ]
     },
     {
@@ -2643,7 +2643,7 @@
       "@id": "C-5234",
       "ref": "C-5234",
       "label": "Respondent in Clip Says SAM Designation Signals Very Important People Aboard While Reach Does Not",
-      "claim": "In the clip, a respondent to the host's question, apparently Coleman, says the special air mission designation is usually used when very high-ranking or important people are aboard, while a Reach call sign suggests someone who does not rise to that level.",
+      "claim": "A speaker the transcript does not identify, answering a question about whether the switch from a Reach to a SAM call sign means someone more important got on or off, says the special air mission designation is usually used when very high-ranking or important people are aboard, while a Reach call sign suggests someone who does not rise to that level.",
       "anchored_artifacts": [
         "A-1554.1"
       ],
@@ -2653,11 +2653,7 @@
       "tags": [],
       "claim_timestamp": "00:39:24",
       "investigative_direction": "Verify call-sign usage rules with Air Mobility Command documentation.",
-      "transcript_snippet": "the special air mission designation is usually when there's very high ranking or very important people on board.",
-      "mentions_person_refs": [
-        "N-332",
-        "N-3"
-      ]
+      "transcript_snippet": "the special air mission designation is usually when there's very high ranking or very important people on board."
     },
     {
       "@type": "Claim",
@@ -2699,8 +2695,7 @@
         "C-1967"
       ],
       "mentions_person_refs": [
-        "N-268",
-        "N-226"
+        "N-268"
       ]
     },
     {
@@ -2759,7 +2754,7 @@
       "transcript_snippet": "He said that there was an an undercover fed or he said it could have been an undercover secret serviceman.",
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -2781,7 +2776,7 @@
         "C-1886"
       ],
       "mentions_person_refs": [
-        "N-363",
+        "N-362",
         "N-3"
       ]
     },
@@ -2803,7 +2798,7 @@
       "transcript_snippet": "Everything he has said has checked out. I am telling you we have multiple emails from people that are currently stationed there.",
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -2848,7 +2843,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -2867,7 +2862,7 @@
       "transcript_snippet": "just gets out of his 25-year long NDA and stumbles into another what could be, we're keeping this open, another federal operation.",
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -2886,7 +2881,7 @@
       "transcript_snippet": "Do you want to come on and tell your story? And he has said, yes.",
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -3030,7 +3025,7 @@
       "@id": "C-5253",
       "ref": "C-5253",
       "label": "Host Says Netanyahu Name-Checked Her and Tucker and Rhetoric Is Growing More Volatile",
-      "claim": "The host says people are signaling they want her and Tucker, that Benjamin Netanyahu has name-checked them, and that rhetoric toward people who do not stand with Israel is growing increasingly volatile.",
+      "claim": "The host says she feels everyone is signaling they want her and Tucker, that you do not want to be name-checked by Benjamin Netanyahu, and that rhetoric toward people who do not stand with Israel is growing increasingly volatile.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026"
@@ -3116,8 +3111,7 @@
       "investigative_direction": "Cite the historical sources the host relies on for each named party.",
       "transcript_snippet": "you've got like the mafia involved. There were Cubans that were involved.",
       "mentions_person_refs": [
-        "N-3",
-        "N-206"
+        "N-3"
       ]
     },
     {
@@ -3373,7 +3367,7 @@
       "transcript_snippet": "that he believes he saw coming out of that meeting did happen to be a Las Vegas congressman.",
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -3394,7 +3388,7 @@
       "transcript_snippet": "Again, I can't confirm that because I wasn't these aren't my eyes.",
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     }
   ],

@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep116): N-10678, N-10685, N-10756
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-686, N-10985
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-9, N-36, N-40, N-42, N-46, N-60, N-69, N-99, N-105, N-161, N-192, N-210, N-211, N-263, N-280, N-414, N-418, N-10000, N-10012, N-10014, N-10074, N-10092, N-10107, N-10110, N-10239, N-10319, N-10324, N-10334, N-10338, N-10346, N-10362, N-10381, N-10446, N-10508, N-10537, N-10551, N-10566, N-10577, N-10578, N-10581, N-10660, N-10700, N-10705, N-10724, N-10768, N-10808, N-10812, N-10888, N-10923, N-10950, N-10818, N-687, N-688, N-10730, N-10984, N-10715, N-10986
+  - Tip-minted Nodes (skeleton): N-684, N-10985
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-9, N-36, N-40, N-42, N-46, N-60, N-69, N-99, N-105, N-161, N-192, N-210, N-211, N-263, N-280, N-412, N-416, N-10000, N-10012, N-10014, N-10074, N-10092, N-10107, N-10110, N-10239, N-10319, N-10324, N-10334, N-10338, N-10346, N-10362, N-10381, N-10446, N-10508, N-10537, N-10551, N-10566, N-10577, N-10578, N-10581, N-10660, N-10700, N-10705, N-10724, N-10768, N-10808, N-10812, N-10888, N-10923, N-10950, N-10818, N-685, N-686, N-10730, N-10984, N-10715, N-10986
   - Claim Range: C-4592–C-4652
   - (see registers)
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:25:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4613, C-4615, N-687, N-10678*
+*Related: C-4613, C-4615, N-685, N-10678*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:37:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4627, C-4629, N-46, N-7, N-688*
+*Related: C-4627, C-4629, N-46, N-7, N-686*
 
 ---
 
@@ -271,7 +271,7 @@ Video Timestamp: 01:09:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4651, C-4652, N-418, N-414*
+*Related: C-4651, C-4652, N-416, N-412*
 
 ---
 ## 4. Node Register
@@ -390,31 +390,31 @@ Interviewer to whom Erika Kirk said she believes Tyler Robinson acted alone.
 
 *Related: C-4619*
 
-**N-414** Zachariah Karashy
+**N-412** Zachariah Karashy
 
 Transcript spellings "Zachariah Qureshi" and "Sam Qureshi"; "decoy boy number two." Long-time friend of Connor Henderson.
 
 *Related: C-4651, C-4652, A-2676.3*
 
-**N-418** Connor Henderson
+**N-416** Connor Henderson
 
 Transcript spelling also "Conor". The host says he interned in the Timpanogos emergency department.
 
 *Related: C-4651, C-4652, A-2676.3*
 
-**N-686** Don Porter
+**N-684** Don Porter
 
 First named by the host at 00:02:16 in episode 116. Friend of Corey Comperatore whose leads the host credits for her prior Butler episode.
 
 *Related: C-4593*
 
-**N-687** Jon Bray
+**N-685** Jon Bray
 
 First named by the host at 00:03:00 in episode 116. X user the host credits with first positing the exploding-microphone theory. Aliases: John Braden; John Blake.
 
 *Related: C-4594, C-4598, C-4613, A-2671.1*
 
-**N-688** Spencer (Frank Turek's son)
+**N-686** Spencer (Frank Turek's son)
 
 First named at 00:37:19 in episode 116, in Frank Turek's Megyn Kelly clip. The 35-year-old son Turek says he was FaceTiming during the event.
 
@@ -703,7 +703,7 @@ Claim: The host credits Don Porter, a friend of Corey Comperatore, with reaching
 Transcript Snippet: It was Corey Comparators a friend who refused to let the circumstances go regarding the Butler assassination. He's actually the one that reached out to me and put together various pieces and leads for me to chase down.
 
 Anchored Artifacts:
-Mentions: N-686, N-105, N-3
+Mentions: N-684, N-105, N-3
 Related Nodes: N-10724
 Investigative Direction: Confirm Don Porter's relationship to Corey Comperatore and review the materials he provided.
 
@@ -718,7 +718,7 @@ Claim: The host says the theory that Charlie Kirk was killed by an explosive in 
 Transcript Snippet: It was a theory that was at first posited by an ex-user named John Bray and you should go down that rabbit hole. He has done so much work on this. Really truly he has worked on this since September.
 
 Anchored Artifacts:
-Mentions: N-687, N-1, N-3
+Mentions: N-685, N-1, N-3
 Related Nodes: N-10768, N-10705
 Investigative Direction: Locate Jon Bray's X posts on the theory and their earliest dates.
 
@@ -778,7 +778,7 @@ Claim: The host says the theorized explosive would be a shaped charge, typically
 Transcript Snippet: This would be what is known as a shaped charge. I've learned this recently, and John Braden was trying to explain it to me on X
 
 Anchored Artifacts:
-Mentions: N-687, N-1
+Mentions: N-685, N-1
 Related Nodes: N-10768
 Investigative Direction: Consult explosives experts on whether a microphone-sized shaped charge could produce the observed wound.
 
@@ -1006,7 +1006,7 @@ Claim: The host says Jon Bray told her that her SUV interior photos were the mis
 Transcript Snippet: he said that my video was the missing piece to his theory that he was looking for what would have been shards of the ABS plastic that is used on the road bike.
 
 Anchored Artifacts: A-2671.1
-Mentions: N-687, N-3, N-1
+Mentions: N-685, N-3, N-1
 Related Nodes: N-10705, N-10678
 Investigative Direction: Have the SUV shards forensically analyzed or obtain any FBI evidence log of debris recovered from the vehicle.
 
@@ -1248,7 +1248,7 @@ Claim: In a Megyn Kelly clip, Frank Turek says he FaceTimed his wife and then hi
 Transcript Snippet: I was just well, first I I was FaceTiming my wife and then I said, "Let me call Spencer." And so I started FaceTiming him.
 
 Anchored Artifacts: A-2672.2
-Mentions: N-7, N-46, N-688, N-1
+Mentions: N-7, N-46, N-686, N-1
 Related Nodes: N-10730
 Investigative Direction: Obtain the FaceTime session logs from Turek's or his son's device.
 
@@ -1578,7 +1578,7 @@ Claim: The host says Connor Henderson was interning in the emergency department 
 Transcript Snippet: and then we find out that Connor was working at the hospital, Timpanogos, interning in the emergency department
 
 Anchored Artifacts: A-2676.3
-Mentions: N-418, N-414, N-42, N-1
+Mentions: N-416, N-412, N-42, N-1
 Related Nodes: N-10578, N-10092
 Supports: C-2634
 Investigative Direction: Confirm Connor Henderson's Timpanogos internship dates and whether he worked September 10.
@@ -1594,7 +1594,7 @@ Claim: The host says Zachariah Qureshi's father was one half of the Built organi
 Transcript Snippet: His father was one half of the Built organization, um along with someone Henderson, and their sons lived at some point in the same house.
 
 Anchored Artifacts: A-2676.3
-Mentions: N-414, N-418
+Mentions: N-412, N-416
 Related Nodes: N-10577, N-10578
 Supports: C-2638
 Investigative Direction: Check Built Inc. corporate filings and residential records for both families.
@@ -1832,7 +1832,7 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2673.1 (tip request, nothing shown). The host also refers without showing anything to Erika Kirk's Bari Weiss interview, the September 16 TPUSA Zoom call, Kash Patel's FOIA response letter (she says it was shown on the prior day's show) and the Epstein-binders tweet ("I don't know if you have my tweet"). A-2674.6 is logged at Medium because it is unclear whether the photo was put on screen.
 - **DIA beats**: one real beat (44:47, tips@candaceowens.com for the Hickman County explosion, repeated as "More tips@candaceowens. com" in the same paragraph); it is logged as C-4634, A-2673.1 and M-12. At 01:03:56 the host thanks Evie for "a massive uh tip," which is about her hairstyle, not a DIA beat. No bounty and no CIA merch phrase aired, so M-14 is not used.
-- **Name matching**: "Jon Bray" (03:00), "John Braden" (08:07) and "John Blake" (25:01, 26:45) are treated as one new person, N-687 Jon Bray, because the context (X user, mic theory, SUV photos) is the same. The correct spelling is unverified. "Terrell", "Taral" and "Terrell Farnsworth" are mapped to N-263. "Frank Turek" (25:46) is mapped to N-7 Frank Turek. "Zachariah Qureshi" and "Sam Qureshi" are mapped to N-414 Zachariah Karashy; the host corrects herself to Zachariah on air. "Blake" at 30:41 is taken as Blake Neff. "The governor" in the contractor clip is presumably Spencer Cox, but he is not named, so he is not mentioned. "Ashley" in the control room (03:00, 01:03:02) is a staff member and is not minted.
+- **Name matching**: "Jon Bray" (03:00), "John Braden" (08:07) and "John Blake" (25:01, 26:45) are treated as one new person, N-685 Jon Bray, because the context (X user, mic theory, SUV photos) is the same. The correct spelling is unverified. "Terrell", "Taral" and "Terrell Farnsworth" are mapped to N-263. "Frank Turek" (25:46) is mapped to N-7 Frank Turek. "Zachariah Qureshi" and "Sam Qureshi" are mapped to N-412 Zachariah Karashy; the host corrects herself to Zachariah on air. "Blake" at 30:41 is taken as Blake Neff. "The governor" in the contractor clip is presumably Spencer Cox, but he is not named, so he is not mentioned. "Ashley" in the control room (03:00, 01:03:02) is a staff member and is not minted.
 - **Possible duplicate topic**: N-10923 reuses the staging title WHCD "Emotional Asset" Email Verification (episode 106). Other staging drafts use "White House Military Office Erika Kirk Amplification Email" for what may be the same email; the integrator may want to merge them.
 - **Transcription ambiguities**: "Rode"/"road mic"/"road bike" (the Rode wireless microphone), "PTN" (PETN), "ex-user" (X user), "Hampton Summit" (Hamptons) and "Built" (Built Inc.). Snippets keep "the.30-06" without a space, as the transcript has it.
 - **Cross-episode links left out**: C-1235 (episode 7, UVU repaved within about 48 hours) conflicts on timing with the contractor's Sunday account, but it is not clearly the same proposition, so it is not linked. C-1366 (SD card removal on law-enforcement instruction) may relate to C-4611, but the source of the instruction differs, so it is left unlinked.

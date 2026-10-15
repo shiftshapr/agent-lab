@@ -841,8 +841,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-423",
-      "ref": "N-423",
+      "@id": "N-421",
+      "ref": "N-421",
       "name": "Monica Lewinsky",
       "type": "person",
       "description": "First named by the host at 00:26:31 in episode 89.",
@@ -987,8 +987,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-684",
-      "ref": "N-684",
+      "@id": "N-682",
+      "ref": "N-682",
       "name": "Joe Biden",
       "type": "person",
       "description": "Joe Biden, discussed in the host's comment on dementia.",
@@ -1004,8 +1004,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-710",
-      "ref": "N-710",
+      "@id": "N-708",
+      "ref": "N-708",
       "name": "Sheldon Adelson",
       "type": "person",
       "description": "Sheldon Adelson, whose gambling fortune the host references.",
@@ -1369,7 +1369,7 @@
         "N-36",
         "N-206",
         "N-46",
-        "N-423"
+        "N-421"
       ]
     },
     {
@@ -1388,7 +1388,7 @@
       "mentions_person_refs": [
         "N-276",
         "N-22",
-        "N-423"
+        "N-421"
       ]
     },
     {
@@ -2345,7 +2345,7 @@
       "investigative_direction": "This is the host's speculation and characterization; no evidence is offered that the remark reached the Adelsons.",
       "transcript_snippet": "If it maybe got back to the Adelsons that Trump said that. You don't take $100 million from a uh a family of I would say gangsters, right?",
       "mentions_person_refs": [
-        "N-710",
+        "N-708",
         "N-300",
         "N-5",
         "N-3"
@@ -2680,7 +2680,7 @@
       "investigative_direction": "Opinion about two public figures; no medical record is cited.",
       "transcript_snippet": "I genuinely believe that Joe Biden had dementia, and at least he can say that.",
       "mentions_person_refs": [
-        "N-684",
+        "N-682",
         "N-5",
         "N-3"
       ]

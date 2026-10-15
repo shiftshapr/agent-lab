@@ -213,7 +213,7 @@
             "C-2869"
           ],
           "related_nodes": [
-            "N-378"
+            "N-376"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -296,7 +296,7 @@
             "C-2875"
           ],
           "related_nodes": [
-            "N-377"
+            "N-375"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -345,8 +345,8 @@
             "C-2878"
           ],
           "related_nodes": [
-            "N-488",
-            "N-489"
+            "N-486",
+            "N-487"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -371,7 +371,7 @@
             "C-2879"
           ],
           "related_nodes": [
-            "N-488"
+            "N-486"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -396,8 +396,8 @@
             "C-2880"
           ],
           "related_nodes": [
-            "N-489",
-            "N-488"
+            "N-487",
+            "N-486"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -414,7 +414,7 @@
             "C-2881"
           ],
           "related_nodes": [
-            "N-489"
+            "N-487"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -439,8 +439,8 @@
             "C-2882"
           ],
           "related_nodes": [
-            "N-489",
-            "N-488"
+            "N-487",
+            "N-486"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -596,7 +596,7 @@
             "C-12943"
           ],
           "related_nodes": [
-            "N-489",
+            "N-487",
             "N-10661"
           ],
           "tags": [],
@@ -722,8 +722,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-488",
-        "N-489"
+        "N-486",
+        "N-487"
       ]
     },
     {
@@ -784,8 +784,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-377",
-      "ref": "N-377",
+      "@id": "N-375",
+      "ref": "N-375",
       "name": "Harmeet Dhillon",
       "type": "person",
       "description": "Assistant Attorney General for Civil Rights, sworn in April 7, 2025 per the host's timeline (36:54); the host says both FARA-registered companies worked with \"Harmeet Dhillon's Dhillon Law Group firm\" (19:09).",
@@ -803,8 +803,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-378",
-      "ref": "N-378",
+      "@id": "N-376",
+      "ref": "N-376",
       "name": "Lara Trump",
       "type": "person",
       "description": "Named (31:21) in the Salem Media announcement of a landmark deal with Donald Trump Jr. and Lara Trump (\"that's Eric Trump's wife\").",
@@ -841,8 +841,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-379",
-      "ref": "N-379",
+      "@id": "N-377",
+      "ref": "N-377",
       "name": "Ryan Reynolds",
       "type": "person",
       "description": "Actor, Blake Lively's husband; named (46:25, 49:08) as having developed the Deadpool character that mocks Justin Baldoni.",
@@ -858,8 +858,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-380",
-      "ref": "N-380",
+      "@id": "N-378",
+      "ref": "N-378",
       "name": "Hugh Jackman",
       "type": "person",
       "description": "Actor in Deadpool & Wolverine; named by the host (49:08, 51:02), including arriving at the It Ends With Us premiere.",
@@ -982,8 +982,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-434",
-      "ref": "N-434",
+      "@id": "N-432",
+      "ref": "N-432",
       "name": "Brad Parscale",
       "type": "person",
       "description": "First named by the host at 00:16:06 in episode 99.",
@@ -1432,8 +1432,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-713",
-      "ref": "N-713",
+      "@id": "N-711",
+      "ref": "N-711",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; the host's LBJ remark.",
@@ -1771,8 +1771,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-488",
-      "ref": "N-488",
+      "@id": "N-486",
+      "ref": "N-486",
       "name": "Blake Lively",
       "type": "person",
       "description": "Blake Lively; party in the lawsuit the host discusses.",
@@ -1846,8 +1846,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-489",
-      "ref": "N-489",
+      "@id": "N-487",
+      "ref": "N-487",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Justin Baldoni; party in the lawsuit the host discusses.",
@@ -1869,8 +1869,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-899",
-      "ref": "N-899",
+      "@id": "N-897",
+      "ref": "N-897",
       "name": "Bryan Freedman",
       "type": "person",
       "description": "Bryan Freedman; Baldoni's lawyer who published his response on a website.",
@@ -1886,8 +1886,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-926",
-      "ref": "N-926",
+      "@id": "N-924",
+      "ref": "N-924",
       "name": "Judge Liman",
       "type": "person",
       "description": "First named by the host at 00:48:28 in episode 99 (spelled Lyman and Leeman in the transcript). Judge who dismissed 10 of 13 Lively claims; described in the Community Notes text the host reads.",
@@ -1904,8 +1904,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-490",
-      "ref": "N-490",
+      "@id": "N-488",
+      "ref": "N-488",
       "name": "Taylor Swift",
       "type": "person",
       "description": "Taylor Swift; the host says Lively lost her friendship.",
@@ -2257,7 +2257,7 @@
       "claim_timestamp": "00:16:57",
       "investigative_direction": "Verify corporate registration records for Clock Tower X LLC.",
       "mentions_person_refs": [
-        "N-434"
+        "N-432"
       ]
     },
     {
@@ -2293,7 +2293,7 @@
       "claim_timestamp": "00:16:57",
       "investigative_direction": "Cross-check Salem press releases and LinkedIn / corporate filings for Parscale's title and dates.",
       "mentions_person_refs": [
-        "N-434"
+        "N-432"
       ]
     },
     {
@@ -2332,7 +2332,7 @@
       "investigative_direction": "Obtain Salem's official press release and SEC / corporate disclosures.",
       "mentions_person_refs": [
         "N-33",
-        "N-378"
+        "N-376"
       ]
     },
     {
@@ -2412,7 +2412,7 @@
       "claim_timestamp": "00:36:54",
       "investigative_direction": "Confirm via DOJ announcement and Senate confirmation records.",
       "mentions_person_refs": [
-        "N-377"
+        "N-375"
       ]
     },
     {
@@ -2504,8 +2504,8 @@
       "claim_timestamp": "00:47:29",
       "investigative_direction": "Obtain the actual April 2 court order; verify which claims survived and on what grounds.",
       "mentions_person_refs": [
-        "N-488",
-        "N-489"
+        "N-486",
+        "N-487"
       ]
     },
     {
@@ -2524,7 +2524,7 @@
       "claim_timestamp": "00:47:29",
       "investigative_direction": "Verify against Lively's official public statement archive.",
       "mentions_person_refs": [
-        "N-488"
+        "N-486"
       ]
     },
     {
@@ -2543,7 +2543,7 @@
       "claim_timestamp": "00:48:28",
       "investigative_direction": "Obtain screenshot of the Community Notes annotation; capture timestamp and full text.",
       "mentions_person_refs": [
-        "N-488"
+        "N-486"
       ]
     },
     {
@@ -2560,10 +2560,10 @@
       "claim_timestamp": "00:50:04",
       "investigative_direction": "Verify via official film credits and supplementary marketing material; confirm Baldoni-as-target framing.",
       "mentions_person_refs": [
-        "N-488",
-        "N-489",
-        "N-379",
-        "N-380"
+        "N-486",
+        "N-487",
+        "N-377",
+        "N-378"
       ]
     },
     {
@@ -2580,7 +2580,7 @@
       "claim_timestamp": "00:50:30",
       "investigative_direction": "Obtain deleted scene footage or trade press reporting on cut material.",
       "mentions_person_refs": [
-        "N-489"
+        "N-487"
       ]
     },
     {
@@ -2597,9 +2597,9 @@
       "claim_timestamp": "00:51:57",
       "investigative_direction": "Obtain independent eyewitness corroboration and any press coverage of the premiere seating arrangement.",
       "mentions_person_refs": [
-        "N-488",
-        "N-489",
-        "N-380"
+        "N-486",
+        "N-487",
+        "N-378"
       ]
     },
     {
@@ -2906,7 +2906,7 @@
       "investigative_direction": "Historical question outside the case; compare with standard histories of the Kennedy and Johnson administrations and the 1963 FARA dispute over the American Zionist Council.",
       "transcript_snippet": "LBJ assumed office and reversed course on every policy that JFK was pursuing against Israel.",
       "mentions_person_refs": [
-        "N-713",
+        "N-711",
         "N-3"
       ]
     },
@@ -2927,7 +2927,7 @@
       "investigative_direction": "No document needed; host recollection of a private lunch.",
       "transcript_snippet": "I actually met him for the first time with Charlie, over lunch.",
       "mentions_person_refs": [
-        "N-434",
+        "N-432",
         "N-1",
         "N-3"
       ]
@@ -3551,7 +3551,7 @@
       "investigative_direction": "Identify which firm and which person the host means (the sentence is ambiguous about who hired the firm) and check public court filings and press reports.",
       "transcript_snippet": "she even brought in a PR crisis firm that had a former CIA agent then like left the CIA and opened a PR crisis firm.",
       "mentions_person_refs": [
-        "N-488",
+        "N-486",
         "N-3"
       ]
     },
@@ -3614,8 +3614,8 @@
       "investigative_direction": "Obtain the California Civil Rights Department complaint and its filing date.",
       "transcript_snippet": "this like civil rights employee type filing that she initially did in California.",
       "mentions_person_refs": [
-        "N-488",
-        "N-489",
+        "N-486",
+        "N-487",
         "N-3"
       ]
     },
@@ -3636,8 +3636,8 @@
       "investigative_direction": "Locate Freedman's response filing and the associated website.",
       "transcript_snippet": "Bryan Freedman, the lawyer did the greatest thing you could possibly do when he filed his response, he created an entire website and allowed us to read it",
       "mentions_person_refs": [
-        "N-899",
-        "N-489",
+        "N-897",
+        "N-487",
         "N-3"
       ]
     },
@@ -3660,8 +3660,8 @@
       "investigative_direction": "Read Judge Liman's April 2 opinion on the Title VII and independent-contractor questions.",
       "transcript_snippet": "Although Judge Liman did not state Miss Lively was an independent independent contractor and uh therefore she's not entitled under Title VII to bring claims.",
       "mentions_person_refs": [
-        "N-488",
-        "N-926"
+        "N-486",
+        "N-924"
       ]
     },
     {
@@ -3683,8 +3683,8 @@
       "investigative_direction": "Read the relevant passage of the April 2 order and compare it with the note's paraphrase.",
       "transcript_snippet": "he continues to state that the conduct was not so far beyond what might reasonably be expected to take place between two characters.",
       "mentions_person_refs": [
-        "N-488",
-        "N-926"
+        "N-486",
+        "N-924"
       ]
     },
     {
@@ -3706,7 +3706,7 @@
       "investigative_direction": "Obtain the artwork and the passage text from the film's tie-in book.",
       "transcript_snippet": "Even in the featured artwork for the book that they created to go along with the movie, they included this passive-aggressive passage and a description regarding nice pool.",
       "mentions_person_refs": [
-        "N-489"
+        "N-487"
       ]
     },
     {
@@ -3726,10 +3726,10 @@
       "investigative_direction": "Find the promotional video and review its content.",
       "transcript_snippet": "Ryan then jumped into Blake Lively and Justin Baldoni's movie uh appearing to do a movie promo of It Ends With Us, but it wasn't actually a movie promo.",
       "mentions_person_refs": [
-        "N-379",
-        "N-380",
-        "N-489",
-        "N-488"
+        "N-377",
+        "N-378",
+        "N-487",
+        "N-486"
       ]
     },
     {
@@ -3751,8 +3751,8 @@
       "investigative_direction": "Check premiere reporting and the lawsuit record for seating arrangements and who requested separation.",
       "transcript_snippet": "Blake Lively at that moment was saying she couldn't even be in the same room as him.",
       "mentions_person_refs": [
-        "N-488",
-        "N-489"
+        "N-486",
+        "N-487"
       ]
     },
     {
@@ -3775,7 +3775,7 @@
         "C-11146"
       ],
       "mentions_person_refs": [
-        "N-489"
+        "N-487"
       ]
     },
     {
@@ -3795,9 +3795,9 @@
       "investigative_direction": "Check the docket for the settlement notice date against the scheduled trial date.",
       "transcript_snippet": "Just two weeks before the scheduled trial dates, they legal dispute.",
       "mentions_person_refs": [
-        "N-488",
-        "N-489",
-        "N-490"
+        "N-486",
+        "N-487",
+        "N-488"
       ]
     },
     {

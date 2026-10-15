@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 6e756e4348b0394d7192565879b6931826d6ba20924657099ff19f450d9aa60d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-848, N-849, N-850, N-851, N-852, N-11226
-  - Hole-minted Nodes (reintro-ep026): N-599, N-10482, N-10587, N-10630, N-10715
+  - Tip-minted Nodes (supplement_2026-10d): N-846, N-847, N-848, N-849, N-850, N-11226
+  - Hole-minted Nodes (reintro-ep026): N-597, N-10482, N-10587, N-10630, N-10715
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9513–C-9583
   - New Nodes Introduced: N-223, N-225, N-226, N-10224, N-10225, N-10227
@@ -707,7 +707,7 @@ Eliza McCoy (host says "Elizabeth McCoy"); Mikey McCoy's wife in the host's thre
 
 ---
 
-**N-599** Jordan Peterson
+**N-597** Jordan Peterson
 
 Jordan Peterson; subject of a viewer comment.
 
@@ -899,7 +899,7 @@ Existing topic reused for the first-aid claims.
 
 ---
 
-**N-848** Andrew Cuomo
+**N-846** Andrew Cuomo
 
 First named by the host at 00:09:05 in episode 26. Former New York governor who ran against Zohran Mamdani in the 2025 NYC mayoral race; the host says Republicans earlier called him corrupt.
 
@@ -909,7 +909,7 @@ Aliases: Kuomo
 
 ---
 
-**N-849** Michael Bloomberg
+**N-847** Michael Bloomberg
 
 First named by the host at 00:10:00 in episode 26. Billionaire the host says gave $8.3 million to a Cuomo-affiliated super PAC opposing Mamdani.
 
@@ -917,7 +917,7 @@ First named by the host at 00:10:00 in episode 26. Billionaire the host says gav
 
 ---
 
-**N-850** Joe Gebbia
+**N-848** Joe Gebbia
 
 First named by the host at 00:10:00 in episode 26 as the Airbnb co-founder "Joseph Gbia", whom she says gave $3.1 million against Mamdani.
 
@@ -927,7 +927,7 @@ Aliases: Joseph Gbia
 
 ---
 
-**N-851** Jeffrey Moussaieff Masson
+**N-849** Jeffrey Moussaieff Masson
 
 First named by the host at 00:56:15 in episode 26 (transcribed "Jeffrey Mason" and "Jeffrey Mone"). Author of The Assault on Truth, whom the host cites on Freud and the Freud archives.
 
@@ -937,7 +937,7 @@ Aliases: Jeffrey Mason; Jeffrey Mone
 
 ---
 
-**N-852** Theodor Herzl
+**N-850** Theodor Herzl
 
 First named by the host at 00:54:27 in episode 26 (transcribed "Theodore Herzel"). Founder of political Zionism whom the host links to Freud.
 
@@ -1428,7 +1428,7 @@ Claim: The host says Zohran Mamdani won pretty handily against Andrew Cuomo desp
 Transcript Snippet: He won pretty handily against Andrew Cuomo, which like 5 minutes ago, the Republican party was telling us he was unbelievably corrupt and that he should be in prison.
 
 Anchored Artifacts: 
-Mentions: N-225, N-848, N-3
+Mentions: N-225, N-846, N-3
 Related Nodes: N-11226
 Tags: relevance:context
 Investigative Direction: Check certified NYC mayoral results and the dated Republican statements about Cuomo.
@@ -1460,7 +1460,7 @@ Claim: The host says Michael Bloomberg gave $8.3 million to a Cuomo-affiliated s
 Transcript Snippet: He gave $8.3 million to Stop Mand Donnie and it didn't matter.
 
 Anchored Artifacts: 
-Mentions: N-849, N-850, N-225
+Mentions: N-847, N-848, N-225
 Related Nodes: N-11226
 Tags: relevance:context
 Investigative Direction: Check NYC Campaign Finance Board and super PAC filings for each donor's contribution.
@@ -1476,7 +1476,7 @@ Claim: In the debate clip, Andrew Cuomo says that, given hostility and anti-semi
 Transcript Snippet: given the hostility and the anti-semitism that has been uh shown in New York, I would go to Israel.
 
 Anchored Artifacts: A-1334.1
-Mentions: N-848
+Mentions: N-846
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the unedited mayoral debate video and confirm which candidate gave each answer.
@@ -2248,7 +2248,7 @@ Claim: The host recommends starting with Jeffrey Masson's The Assault on Truth a
 Transcript Snippet: I would start with the assault on truth from by Jeffrey Mason and then move on to this most critical book uh which is Sigmund Freud in the Jewish Mystical Tradition.
 
 Anchored Artifacts: 
-Mentions: N-851, N-50, N-852, N-3
+Mentions: N-849, N-50, N-850, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: None: reading recommendation recorded as said on air.
@@ -2264,7 +2264,7 @@ Claim: The host says Sigmund Freud mainstreamed gaslighting people he harmed, wh
 Transcript Snippet: That is why they celebrate Sigmund Freud is because he mainstreamed gaslighting people that they harmed.
 
 Anchored Artifacts: 
-Mentions: N-50, N-851
+Mentions: N-50, N-849
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Check Masson's published work on Freud and his role at the Freud Archives.
@@ -2280,7 +2280,7 @@ Claim: The host says she did not know Jordan Peterson got sick while in Israel, 
 Transcript Snippet: I did not know that he got sick while he was in Israel.
 
 Anchored Artifacts: A-3020.2
-Mentions: N-599, N-3
+Mentions: N-597, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: None: host states no knowledge; a viewer comment prompted it.

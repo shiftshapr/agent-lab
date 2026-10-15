@@ -1127,8 +1127,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-608",
-      "ref": "N-608",
+      "@id": "N-606",
+      "ref": "N-606",
       "name": "Ian Miles Cheong",
       "type": "person",
       "description": "Named by the host as a recipient of out-of-context material.",
@@ -1660,7 +1660,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10377",
       "ref": "N-10377",
-      "name": "Hunter Cosgrove / Kozak Identity Discrepancy",
+      "name": "Hunter Kozak / Kozak Identity Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused.",
       "related_artifacts": [],
@@ -3241,7 +3241,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-229",
-        "N-608"
+        "N-606"
       ]
     },
     {

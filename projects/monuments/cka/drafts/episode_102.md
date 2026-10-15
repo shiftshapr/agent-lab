@@ -16,8 +16,8 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12970–C-13055
   - New Nodes Introduced: N-10666, N-10667
-  - Hole-minted Nodes (wave3): N-435
-  - Reused Nodes Appearing: N-11, N-10373, N-428, N-10664, N-436, N-10665, N-4, N-15, N-46, N-130, N-159, N-215, N-226, N-269, N-280, N-364, N-488, N-489, N-585, N-600, N-805, N-899, N-10000, N-10059, N-10349, N-10367, N-10417, N-10538, N-10609, N-10649, N-10862, N-10897, N-10899, N-10936, N-11001, N-11104, N-11109, N-11182, N-11248, N-11255, N-11287
+  - Hole-minted Nodes (wave3): N-433
+  - Reused Nodes Appearing: N-11, N-10373, N-426, N-10664, N-434, N-10665, N-4, N-15, N-46, N-130, N-159, N-215, N-226, N-269, N-280, N-363, N-486, N-487, N-583, N-598, N-803, N-897, N-10000, N-10059, N-10349, N-10367, N-10417, N-10538, N-10609, N-10649, N-10862, N-10897, N-10899, N-10936, N-11001, N-11104, N-11109, N-11182, N-11248, N-11255, N-11287
   - (see registers)
 
 # Episode Analysis: Monument Episode 102 – "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336"
@@ -398,7 +398,7 @@ Video Timestamp: 00:53:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13045, C-13046, N-10367, N-364*
+*Related: C-13045, C-13046, N-10367, N-363*
 
 ---
 
@@ -430,13 +430,13 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-435** John Amanchukwu
+**N-433** John Amanchukwu
 
 First named by the host at 00:07:32 in episode 102.
 
 *Related: C-2890, C-2891*
 
-**N-436** Kimberly Klacik
+**N-434** Kimberly Klacik
 
 First named by the host at 00:09:42 in episode 102. Aliases: Kim Klacik.
 
@@ -646,7 +646,7 @@ Bari Weiss; interviewed Erika with the cut clip about the host.
 
 ---
 
-**N-364** Mitch Snow
+**N-363** Mitch Snow
 
 Mitch Snow; the Fort Huachuca eyewitness.
 
@@ -654,7 +654,7 @@ Mitch Snow; the Fort Huachuca eyewitness.
 
 ---
 
-**N-428** Marcus Wada
+**N-426** Marcus Wada
 
 Marcus Wada; TPUSA employee the host calls a former arms dealer.
 
@@ -662,7 +662,7 @@ Marcus Wada; TPUSA employee the host calls a former arms dealer.
 
 ---
 
-**N-488** Blake Lively
+**N-486** Blake Lively
 
 Blake Lively; party in the dispute the host cites.
 
@@ -670,7 +670,7 @@ Blake Lively; party in the dispute the host cites.
 
 ---
 
-**N-489** Justin Baldoni
+**N-487** Justin Baldoni
 
 Justin Baldoni; party in the dispute the host cites.
 
@@ -678,7 +678,7 @@ Justin Baldoni; party in the dispute the host cites.
 
 ---
 
-**N-585** Thomas Massie
+**N-583** Thomas Massie
 
 Thomas Massie; named in a viewer comment.
 
@@ -686,7 +686,7 @@ Thomas Massie; named in a viewer comment.
 
 ---
 
-**N-600** Druski
+**N-598** Druski
 
 Druski (spelled Druski and Drewski in the transcript); comedian whose skit mocked Erika.
 
@@ -694,7 +694,7 @@ Druski (spelled Druski and Drewski in the transcript); comedian whose skit mocke
 
 ---
 
-**N-805** Harris Faulkner
+**N-803** Harris Faulkner
 
 Harris Faulkner; Fox host who interviewed Erika.
 
@@ -702,7 +702,7 @@ Harris Faulkner; Fox host who interviewed Erika.
 
 ---
 
-**N-899** Bryan Freedman
+**N-897** Bryan Freedman
 
 Bryan Freedman; lawyer whose publish-it-all approach the host cites.
 
@@ -986,7 +986,7 @@ Claim Timestamp: 00:07:32
 Claim: Per a source who came forward, Turning Point USA employee Marcus Wada offers AI voice generation services for TPUSA presentations.
 
 Anchored Artifacts: A-2068.1
-Mentions: N-435, N-428
+Mentions: N-433, N-426
 
 Related Nodes: N-10664
 
@@ -1001,7 +1001,7 @@ Claim Timestamp: 00:07:32
 Claim: Per the source, Turning Point USA presentations typically feature AI-generated voice-over using Pastor John Amanchukwu's voice (described as with his permission).
 
 Anchored Artifacts: A-2068.2
-Mentions: N-435
+Mentions: N-433
 
 Related Nodes: N-10664
 
@@ -1031,7 +1031,7 @@ Claim Timestamp: 00:09:42
 Claim: Kimberly Klacik publicly argued on X that since the TPUSA board elected Erika Kirk as CEO and no donors had publicly questioned the decision, the authenticity of the audio does not matter.
 
 Anchored Artifacts: A-2067.1
-Mentions: N-2, N-436
+Mentions: N-2, N-434
 
 Related Nodes: N-10664
 
@@ -1403,7 +1403,7 @@ Claim: The host describes Marcus Wada as a Turning Point employee who is a forme
 Transcript Snippet: the Turning Point employee that's a rehabilitated former arms dealer.
 
 Anchored Artifacts: 
-Mentions: N-428
+Mentions: N-426
 Related Nodes: N-10609
 Supports: C-11428
 Tags: relevance:context
@@ -1851,7 +1851,7 @@ Claim: The host says Charlie would have laughed at the Drewski skit mocking Erik
 Transcript Snippet: Charlie would have laughed at that stuff, but we see that Erika has taken the Druski skit deadly serious for some reason.
 
 Anchored Artifacts: 
-Mentions: N-1, N-2, N-600
+Mentions: N-1, N-2, N-598
 Related Nodes: N-11356
 Tags: relevance:context
 Investigative Direction: Locate the Druski skit and Erika Kirk's or TPUSA's public response to it.
@@ -1867,7 +1867,7 @@ Claim: The host says people including Andrew Kolvet tried to turn the Drewski sk
 Transcript Snippet: the people that were trying to turn that into something racial, like Andrew Kolvet, now do like black conservatives.
 
 Anchored Artifacts: 
-Mentions: N-14, N-600, N-2
+Mentions: N-14, N-598, N-2
 Related Nodes: N-11356
 Tags: relevance:context
 Investigative Direction: Find Kolvet's and other TPUSA figures' posts characterizing the skit as racial.
@@ -1883,7 +1883,7 @@ Claim: The host says Drewski's skits mock many groups, including a skit in which
 Transcript Snippet: He dressed up like he was Vietnamese person, did this whole nail salon thing.
 
 Anchored Artifacts: 
-Mentions: N-600
+Mentions: N-598
 Related Nodes: N-11356
 Tags: relevance:tangential
 Investigative Direction: Locate the nail salon skit and its date.
@@ -1899,7 +1899,7 @@ Claim: The host says Drewski posted a massive video the previous week that targe
 Transcript Snippet: just last week he dropped a massive video where he was targeting black British actors and it was hilarious and we just laughed at it.
 
 Anchored Artifacts: 
-Mentions: N-600
+Mentions: N-598
 Related Nodes: N-11356
 Tags: relevance:tangential
 Investigative Direction: Locate the video and its date.
@@ -1979,7 +1979,7 @@ Claim: The host says she is thinking of putting the whole record online, as Brya
 Transcript Snippet: I'm thinking about doing the Bryan Freedman thing, which was obviously a lawyer Blake Lively Justin Baldoni, where he just put it all online cuz I have nothing to hide.
 
 Anchored Artifacts: 
-Mentions: N-899, N-488, N-489, N-3
+Mentions: N-897, N-486, N-487, N-3
 Related Nodes: N-10649
 Tags: relevance:context
 Investigative Direction: Watch for the host's publication of the Fort Huachuca timeline, messages and documents.
@@ -1995,7 +1995,7 @@ Claim: The host says Mitch's friend emailed her, she called him, and he told his
 Transcript Snippet: it was Mitch's friend that emailed me, and I called him, and he said his story.
 
 Anchored Artifacts: 
-Mentions: N-364, N-3
+Mentions: N-363, N-3
 Related Nodes: N-10367
 Tags: relevance:core
 Investigative Direction: The host's original email and call log would show who made first contact.
@@ -2011,7 +2011,7 @@ Claim: The host says Mitch was clear that he saw both Brian Harpole and Erika, a
 Transcript Snippet: He was clear that he saw Brian Harpole and he saw Erika. But, he said he saw Erika Kirk on the 8th, and she wasn't leaving a meeting.
 
 Anchored Artifacts: 
-Mentions: N-364, N-268, N-2
+Mentions: N-363, N-268, N-2
 Related Nodes: N-10367
 Supports: C-1973, C-6761
 Tags: relevance:core
@@ -2028,7 +2028,7 @@ Claim: The host says Mitch saw Brian Harpole on the 9th as he was leaving the me
 Transcript Snippet: Brian Harpole he saw on the 9th, and he was leaving the meeting on Fort Huachuca base, and that was when the cops were called, all of that.
 
 Anchored Artifacts: 
-Mentions: N-364, N-268
+Mentions: N-363, N-268
 Related Nodes: N-10373
 Supports: C-6758
 Tags: relevance:core
@@ -2045,7 +2045,7 @@ Claim: The host says Mitch saw Erika at a hotel, that sighting was not related t
 Transcript Snippet: he saw her at a hotel. It wasn't related to the meeting. He didn't see her with Brian
 
 Anchored Artifacts: 
-Mentions: N-364, N-2, N-268
+Mentions: N-363, N-2, N-268
 Related Nodes: N-10367
 Tags: relevance:core
 Investigative Direction: Candlewood hotel records and security footage for September 8, 2025.
@@ -2094,7 +2094,7 @@ Claim: The host says that the day after her first presentation, Erika went on Ha
 Transcript Snippet: Harris Faulkner, she went on that show and then she was all fired up for the first time and like stop conspiracy theories you need to stop. That was the very next day.
 
 Anchored Artifacts: 
-Mentions: N-2, N-805, N-3
+Mentions: N-2, N-803, N-3
 Related Nodes: N-10367
 Supports: C-8066
 Tags: relevance:core
@@ -2158,7 +2158,7 @@ Claim: The host says Ian Carroll called her while the Valhalla YouTuber was alre
 Transcript Snippet: I get Ian Carroll calling me and he's got Paramount Tactical I mean uh Valhalla the YouTuber Green Beret basically already threatening me like don't don't interview Mitch.
 
 Anchored Artifacts: 
-Mentions: N-130, N-364, N-3
+Mentions: N-130, N-363, N-3
 Related Nodes: N-11001, N-10899
 Tags: relevance:core
 Investigative Direction: Obtain the threatening messages, the call record with Ian Carroll and the date of each.
@@ -2174,7 +2174,7 @@ Claim: The host says she was threatened with a lawsuit before she had even inter
 Transcript Snippet: So I'm getting threatened with a lawsuit before I even interview Mitch and I'm like dude, what's up?
 
 Anchored Artifacts: 
-Mentions: N-364, N-3
+Mentions: N-363, N-3
 Related Nodes: N-11001, N-10899
 Tags: relevance:core
 Investigative Direction: Obtain the written threat and identify its sender.
@@ -2190,7 +2190,7 @@ Claim: The host says she messaged Brian Harpole offering him the chance to debun
 Transcript Snippet: So I message Brian Harpole and I'm like, "Hey, like I'm going to have this guy Mitch on but like we could I could also like if you want to debunk it I'm happy to do.
 
 Anchored Artifacts: 
-Mentions: N-268, N-364, N-3
+Mentions: N-268, N-363, N-3
 Related Nodes: N-10373
 Supports: C-5398
 Tags: relevance:core
@@ -2290,7 +2290,7 @@ Claim: The host says Justin Streiff asked when her show goes off air as Christma
 Transcript Snippet: "When is your show off air?" cuz we were coming up on Christmas, and I was like, "Well, in a couple of days, actually."
 
 Anchored Artifacts: 
-Mentions: N-15, N-3, N-364
+Mentions: N-15, N-3, N-363
 Related Nodes: N-10649
 Tags: relevance:core
 Investigative Direction: The host's notes and any witnesses to the question.
@@ -2306,7 +2306,7 @@ Claim: The host says she interviewed Mitch on the 18th, after Harpole did not re
 Transcript Snippet: And then I interviewed him. I did it on the 18th.
 
 Anchored Artifacts: 
-Mentions: N-364, N-3
+Mentions: N-363, N-3
 Related Nodes: N-10367
 Tags: relevance:core
 Investigative Direction: The episode's air date and the host's publication log.
@@ -2322,7 +2322,7 @@ Claim: The host says messages from Valhalla explicitly threatened to bury her in
 Transcript Snippet: if she does not like basically revoke her commentary about Fort Huachuca, we're going to basically bury her in everything Mitch has done in his past.
 
 Anchored Artifacts: 
-Mentions: N-364, N-3
+Mentions: N-363, N-3
 Related Nodes: N-11001, N-10899
 Supports: C-9929
 Tags: relevance:core
@@ -2339,7 +2339,7 @@ Claim: The host says Paramount Tactical and Valhalla called Mitch and played goo
 Transcript Snippet: They were like, "Yeah, brother. Like uh we'd love to have have on the show, fellow green green beret."
 
 Anchored Artifacts: 
-Mentions: N-364
+Mentions: N-363
 Related Nodes: N-10899, N-11001
 Supports: C-6763
 Tags: relevance:core
@@ -2356,7 +2356,7 @@ Claim: The host says Paramount Tactical and Valhalla told her the opposite of wh
 Transcript Snippet: they were telling me the opposite or trying to tell me the opposite that this is a a case of stolen valor.
 
 Anchored Artifacts: 
-Mentions: N-364, N-3
+Mentions: N-363, N-3
 Related Nodes: N-10899, N-11001
 Tags: relevance:core
 Investigative Direction: Compare their messages to the host with their calls to Mitch.
@@ -2472,7 +2472,7 @@ Claim: The host says she fact-checked enough to know Mitch was there and that he
 Transcript Snippet: I obviously fact-checked enough to know that Mitch was there. He had the videos.
 
 Anchored Artifacts: A-3240.1
-Mentions: N-364
+Mentions: N-363
 Related Nodes: N-10367
 Supports: C-1987
 Tags: relevance:core
@@ -2489,7 +2489,7 @@ Claim: The host says she had Mitch's hotel reservation and confirmed with a sour
 Transcript Snippet: I had his hotel reservation. I had um I had confirmed with a source that his ID tags were real, the military ID tags.
 
 Anchored Artifacts: A-3240.1
-Mentions: N-364
+Mentions: N-363
 Related Nodes: N-10367
 Supports: C-1987, C-8102
 Tags: relevance:core
@@ -2506,7 +2506,7 @@ Claim: The host says the reaction she received moved her from 40/60, maybe 30/70
 Transcript Snippet: So, they took me from being 40/60, maybe even 30/70.
 
 Anchored Artifacts: 
-Mentions: N-3, N-364
+Mentions: N-3, N-363
 Related Nodes: N-10367
 Tags: relevance:context
 Investigative Direction: The host's own earlier statements on her confidence levels.
@@ -2620,7 +2620,7 @@ Claim: The host says people should hate those who bullied Charlie, and that Erik
 Transcript Snippet: You shouldn't be teaming up with them. But that's not how Erika lives.
 
 Anchored Artifacts: 
-Mentions: N-2, N-1, N-585
+Mentions: N-2, N-1, N-583
 Related Nodes: N-10538
 Tags: relevance:context
 Investigative Direction: Define who is meant by the bullies and list the joint appearances.

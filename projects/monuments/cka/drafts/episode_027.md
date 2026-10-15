@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 56c2be67383dd50f4d4f1df7be825f986b64cc63e651edf0162bdadcfd5d297b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-853, N-854, N-11228, N-11229, N-11230
-  - Hole-minted Nodes (reintro-ep027): N-369, N-10432
-  - Tip-minted Nodes (reintro-ep027): N-608, N-11014
+  - Tip-minted Nodes (supplement_2026-10d): N-851, N-852, N-11228, N-11229, N-11230
+  - Hole-minted Nodes (reintro-ep027): N-368, N-10432
+  - Tip-minted Nodes (reintro-ep027): N-606, N-11014
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9584–C-9646
   - New Nodes Introduced: N-229, N-231, N-232, N-233, N-234, N-235, N-10228, N-10229, N-10231, N-10232, N-10233, N-10234, N-10235
@@ -648,7 +648,7 @@ Ben Shapiro; named in the host's thanks for her Daily Wire firing.
 
 ---
 
-**N-369** Jeremy Boreing
+**N-368** Jeremy Boreing
 
 Jeremy Boreing; named in the host's thanks for her Daily Wire firing.
 
@@ -664,7 +664,7 @@ Kanye West; his song Power is cited by the host.
 
 ---
 
-**N-853** Tony Burke
+**N-851** Tony Burke
 
 First named by the host at 00:03:43 in episode 027 as the Australian official she says banned her from the country.
 
@@ -873,7 +873,7 @@ FBI; the Feds in the Discord remark.
 
 ---
 
-**N-608** Ian Miles Cheong
+**N-606** Ian Miles Cheong
 
 Ian Miles Cheong; named as a recipient of Cordova's clips, per host allegation.
 
@@ -978,7 +978,7 @@ Dave Smith; named as a regular text contact.
 
 ---
 
-**N-854** Jimmy Dore
+**N-852** Jimmy Dore
 
 First named by the host at 01:04:09 in episode 027 as a commentator a viewer suggested she team up with.
 
@@ -1327,7 +1327,7 @@ Claim: The host says Ben Shapiro and Jeremy Boreing fired her, thanking them sar
 Transcript Snippet: I thank Ben Shapiro. I thank Jeremy Boreing. I thank the direction of travel, and they realizing it before I did, um that I should be fired.
 
 Anchored Artifacts: 
-Mentions: N-3, N-97, N-369
+Mentions: N-3, N-97, N-368
 Tags: relevance:tangential
 Investigative Direction: Review the 2024 separation announcements from the host and Daily Wire for the stated reason and date.
 
@@ -1357,7 +1357,7 @@ Claim: The host says Australian minister Tony Burke banned her from the entire c
 Transcript Snippet: Tony Burke, thank you for banning us from an entire country, even though I didn't do nothing.
 
 Anchored Artifacts: 
-Mentions: N-3, N-853
+Mentions: N-3, N-851
 Tags: relevance:tangential
 Investigative Direction: Check the Australian Home Affairs visa decision and the stated reason and reapplication period.
 
@@ -1961,7 +1961,7 @@ Claim: The host alleges Alyssa Cordova keeps out-of-context clips and sends them
 Transcript Snippet: she intentionally has out of context clips, which she then sends to people um a whole little orbit of bees online like Ian Miles Chong
 
 Anchored Artifacts: 
-Mentions: N-3, N-231, N-608
+Mentions: N-3, N-231, N-606
 Tags: relevance:context
 Investigative Direction: Allegation only; ask the host for the messages or sources behind it.
 
@@ -2283,7 +2283,7 @@ Claim: The host says she texts Ian Carroll and Dave Smith regularly to share inf
 Transcript Snippet: Ian Carroll we text regularly. Dave Smith we text regularly when we're sharing information.
 
 Anchored Artifacts: 
-Mentions: N-3, N-130, N-39, N-854
+Mentions: N-3, N-130, N-39, N-852
 Tags: relevance:tangential
 Investigative Direction: Context on the host's network; no confirmation needed.
 

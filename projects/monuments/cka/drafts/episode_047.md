@@ -12,8 +12,8 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11379, N-11380, N-11381, N-11382
-  - Hole-minted Nodes (reintro-ep047): N-436
-  - Tip-minted Nodes (reintro-ep047): N-644
+  - Hole-minted Nodes (reintro-ep047): N-434
+  - Tip-minted Nodes (reintro-ep047): N-642
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14003–C-14088
   - (see registers)
@@ -36,7 +36,7 @@
   - Artifact Families Introduced: A-1539, A-1540, A-1541, A-1542, A-1543, A-1544, A-1545, A-1546, A-1547, A-1548, A-1549, A-1550, A-1551
   - Claim Range: C-1924–C-1959, C-3741
   - New Nodes Introduced: N-330, N-332, N-333, N-334, N-335, N-336, N-337, N-338, N-339, N-340, N-341, N-342, N-10339, N-10344, N-10347, N-10348, N-10351, N-10352, N-10354, N-10356, N-10357
-  - Reused Nodes Appearing: N-331, N-10337, N-10338, N-10340, N-10342, N-10343, N-10345, N-10355, N-10898, N-10346, N-10349, N-10350, N-10353, N-10341, N-4, N-22, N-27, N-82, N-99, N-104, N-147, N-180, N-226, N-239, N-280, N-854, N-10000, N-10012, N-10018, N-10026, N-10097, N-10105, N-10110, N-10167, N-10253, N-10334, N-10358, N-10862, N-11287, N-11336, N-11337
+  - Reused Nodes Appearing: N-331, N-10337, N-10338, N-10340, N-10342, N-10343, N-10345, N-10355, N-10898, N-10346, N-10349, N-10350, N-10353, N-10341, N-4, N-22, N-27, N-82, N-99, N-104, N-147, N-180, N-226, N-239, N-280, N-852, N-10000, N-10012, N-10018, N-10026, N-10097, N-10105, N-10110, N-10167, N-10253, N-10334, N-10358, N-10862, N-11287, N-11336, N-11337
 
 ---, N-11
 
@@ -342,7 +342,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14010, N-10340, N-14, N-3, N-854*
+*Related: C-14010, N-10340, N-14, N-3, N-852*
 
 ---
 
@@ -400,7 +400,7 @@ Video Timestamp: 00:53:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14070, C-14071, N-644, N-11382, N-10097, N-104, N-335, N-40, N-42*
+*Related: C-14070, C-14071, N-642, N-11382, N-10097, N-104, N-335, N-40, N-42*
 
 ---
 
@@ -1089,7 +1089,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ---
 
-**N-644** Ryan Routh
+**N-642** Ryan Routh
 
 First named by a clip speaker at 00:53:58 in episode 47 (spelled Ryan Routh in the transcript). Named alongside Thomas Crooks in a radicalization timing theory.
 
@@ -1277,7 +1277,7 @@ Host of the CBS event whose questions the host says were planned.
 
 ---
 
-**N-436** Kimberly Klacik
+**N-434** Kimberly Klacik
 
 Named by the host regarding a demand she ignored.
 
@@ -1285,7 +1285,7 @@ Named by the host regarding a demand she ignored.
 
 ---
 
-**N-854** Jimmy Dore
+**N-852** Jimmy Dore
 
 Host of the show where Candace clarified her text sourcing.
 
@@ -2098,7 +2098,7 @@ Claim: The host says that on the Jimmy Dore show she clarified that Andrew Kolve
 Transcript Snippet: I said Andrew Kolvet told me specifically that he was one of the people that received this text message. So I got that first person. I didn't get that from a source.
 
 Anchored Artifacts: A-3292
-Mentions: N-3, N-14, N-854
+Mentions: N-3, N-14, N-852
 Related Nodes: N-10340
 Tags: relevance:core
 Investigative Direction: Retrieve the Jimmy Dore episode and compare with Kolvet's own statements on the night-before text.
@@ -2770,7 +2770,7 @@ Claim: The host says she should correct her earlier statement: the person on the
 Transcript Snippet: it is not Danny McCoy. It is Danny, another one of Charlie's assistants.
 
 Anchored Artifacts: 
-Mentions: N-192, N-3
+Mentions: N-3
 Related Nodes: N-10338
 Revises: C-14040
 Tags: relevance:core
@@ -2805,7 +2805,7 @@ Anchored Artifacts:
 Mentions: N-3, N-30
 Related Nodes: N-10351, N-11336
 Supports: C-1949
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Review the Wikipedia edit history for the page for the relevant edit and editor.
 
 ---
@@ -2838,7 +2838,7 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10898
 Supports: C-1948
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Obtain the Post article and its sourcing; compare with past Daily Wire accounts of her show preparation.
 
 ---
@@ -2854,7 +2854,7 @@ Transcript Snippet: I don't even think we ever had a conversation about People m
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10898
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Ask the Post for its sources and check the host's former employers' records.
 
 ---
@@ -2870,7 +2870,7 @@ Transcript Snippet: their sources also said that like my team hated me. My team 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10898
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Check the host's staff history against the Post's claim.
 
 ---
@@ -2900,7 +2900,7 @@ Claim: The host says Erika Kirk responded that she did not want to come across a
 Transcript Snippet: Erika was like, well, I'm not like a feminist and I didn't want the vibe of that, which I think it did come across it like a bit of a feminist to say like this is all my family.
 
 Anchored Artifacts: 
-Mentions: N-2, N-3
+Mentions: N-1, N-2, N-3
 Related Nodes: N-11379
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk for her account; the transcript phrasing is garbled so the host's meaning should be confirmed.
@@ -2949,7 +2949,7 @@ Claim: The host says that if she ignored a demand to correct her statements, as 
 Transcript Snippet: And if I ignore that, as I did with Brigitte cuz I told the truth, as I did with Kim Klacik cuz I told the truth, then you have the grounds to file something.
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-436
+Mentions: N-1, N-3, N-82, N-434
 Related Nodes: N-10344
 Tags: relevance:context
 Investigative Direction: Identify the Macron and Klacik demand letters and their dates; compare with the host's account.
@@ -2992,12 +2992,12 @@ Investigative Direction: Track the host's following episode on Fort Huachuca and
 
 Claim Timestamp: 00:48:23
 
-Claim: The host says it felt like a ceasefire during the talks, which TPUSA violated by discussing the Tyler Robinson trial on the Charlie Kirk Show the day before, and that no such limit was communicated to her.
+Claim: The host says she thought neither side was supposed to be doing live streams while talks were underway, that TPUSA's continued daily show was not communicated to her, that it felt like a ceasefire that got violated, and that the Charlie Kirk Show discussed the Tyler Robinson trial the day before.
 
 Transcript Snippet: that I didn't feel like that was communicated to me. It felt like a ceasefire, and then it got violated, but they had an interesting conversation on their show yesterday
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-3, N-40
 Related Nodes: N-11379, N-10000
 Tags: relevance:context
 Investigative Direction: Ask both sides what media ground rules were agreed.
@@ -3077,7 +3077,7 @@ Claim: A speaker in the Kirk Show clip, addressed as Viva, says that Tyler Robin
 Transcript Snippet: Tyler Robinson is getting radicalized right about the same time as Thomas Crooks, right about the same time as uh the other guy, Ryan Routh.
 
 Anchored Artifacts: A-3296
-Mentions: N-335, N-40, N-104, N-644
+Mentions: N-335, N-40, N-104, N-642
 Related Nodes: N-11382
 Tags: relevance:core
 Investigative Direction: Identify the speaker and compare the dates of the named individuals' alleged radicalization.
@@ -3126,7 +3126,7 @@ Claim: The host says it might be the first time Andrew Kolvet has expressed that
 Transcript Snippet: that might even be the first time Andrew Kolvet has expressed that he thought that those messages were weird initially.
 
 Anchored Artifacts: 
-Mentions: N-14, N-3
+Mentions: N-14, N-3, N-40
 Related Nodes: N-10337
 Tags: relevance:context
 Investigative Direction: Identify who in the clip said the messages were weird at first and check Kolvet's earlier statements.
@@ -3135,9 +3135,9 @@ Investigative Direction: Identify who in the clip said the messages were weird a
 
 **C-14074** Host Says Megyn Kelly Offered to Ref the Conversation Before the Bari Weiss Moment
 
-Claim Timestamp: 00:56:50
+Claim Timestamp: 00:57:55
 
-Claim: The host says Megyn Kelly, before the Bari Weiss moment and when the conversation was going to be livestreamed, offered to ref it, and later helped make it happen.
+Claim: The host says Megyn Kelly, who was initially going to ref the conversation when it was going to be livestreamed and before the Bari Weiss moment, offered to ref it.
 
 Transcript Snippet: Megyn Kelly, who was initially going to, when we were going to live stream the conversation, before the Bari Weiss moment, Megyn Kelly um offered to ref that conversation.
 
@@ -3317,7 +3317,7 @@ Claim: The host says that, to her knowledge, she did not see or speak with any T
 Transcript Snippet: To my knowledge, I did not see any Turning Point USA employees. I did not have a conversation with any Turning Point USA employees.
 
 Anchored Artifacts: 
-Mentions: N-3, N-22, N-147, N-11
+Mentions: N-3, N-22, N-147
 Related Nodes: N-11381, N-10000
 Tags: relevance:context
 Investigative Direction: Ask attendees for a guest list; the host says the rumor is unsupported.

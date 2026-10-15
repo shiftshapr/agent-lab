@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: ee5af5b0f78b7603290afbdc0a52db7cee4a8308f326d1886be1cf5da8aee5e5
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-792, N-793, N-794, N-11146
+  - Tip-minted Nodes (supplement_2026-10b): N-790, N-791, N-792, N-11146
   - Tip-minted Nodes (reintro-ep143): N-11091
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7535–C-7598
   - New Nodes Introduced: N-10809
-  - Reused Nodes Appearing: N-2, N-161, N-125, N-263, N-10808, N-4, N-9, N-14, N-18, N-36, N-39, N-69, N-82, N-226, N-239, N-268, N-274, N-488, N-489, N-782, N-10000, N-10022, N-10100, N-10151, N-10270, N-10324, N-10340, N-10544, N-10651, N-10661, N-10741, N-10795, N-10799, N-10810, N-10862, N-11065, N-11068, N-791, N-11147
+  - Reused Nodes Appearing: N-2, N-161, N-125, N-263, N-10808, N-4, N-9, N-14, N-18, N-36, N-39, N-69, N-82, N-226, N-239, N-268, N-274, N-486, N-487, N-780, N-10000, N-10022, N-10100, N-10151, N-10270, N-10324, N-10340, N-10544, N-10651, N-10661, N-10741, N-10795, N-10799, N-10810, N-10862, N-11065, N-11068, N-789, N-11147
   - (see registers)
 
 # Episode 143 Analysis – Bride of Charlie
@@ -697,7 +697,7 @@ The defendant in the filings discussed.
 
 ---
 
-**N-488** Blake Lively
+**N-486** Blake Lively
 
 The dismissal example.
 
@@ -705,7 +705,7 @@ The dismissal example.
 
 ---
 
-**N-489** Justin Baldoni
+**N-487** Justin Baldoni
 
 The dismissal example.
 
@@ -745,7 +745,7 @@ The Epstein files discussed as a Republican fault line.
 
 ---
 
-**N-791** Hasan Piker
+**N-789** Hasan Piker
 
 Streamer whose praise of the host is played in the episode. First named by the host at 00:01:32 in episode 143.
 Aliases: Hasan
@@ -754,7 +754,7 @@ Aliases: Hasan
 
 ---
 
-**N-792** Lane Schamberger
+**N-790** Lane Schamberger
 
 Man visible washing his hands in the footage who the host says helped carry Charlie. First named by the host at 00:09:43 in episode 143.
 
@@ -762,7 +762,7 @@ Man visible washing his hands in the footage who the host says helped carry Char
 
 ---
 
-**N-782** Matt Robinson
+**N-780** Matt Robinson
 
 Tyler Robinson's father, whom the host's source says did not think his son was guilty. First named by the host at 00:30:06 in episode 143.
 
@@ -770,7 +770,7 @@ Tyler Robinson's father, whom the host's source says did not think his son was g
 
 ---
 
-**N-793** Brian Davis
+**N-791** Brian Davis
 
 Person the host says signed off the charging document. First named by the host at 00:30:06 in episode 143.
 
@@ -778,7 +778,7 @@ Person the host says signed off the charging document. First named by the host a
 
 ---
 
-**N-794** Brandi Zadrozny
+**N-792** Brandi Zadrozny
 
 Journalist whose article the host paraphrases. First named by the host at 00:36:06 in episode 143.
 
@@ -967,7 +967,7 @@ Claim: The host says Turning Point USA figures are now pushing the talking point
 Transcript Snippet: They're also now pushing the same talking point that I'm now somehow working in coordination or support of I guess the aims of Hasan
 
 Anchored Artifacts: 
-Mentions: N-3, N-791
+Mentions: N-3, N-789
 Related Nodes: N-10000, N-11146
 Tags: relevance:context
 Investigative Direction: Collect the TPUSA-side statements and articles that make the Hasan-coordination claim and compare their wording with the Piker clip.
@@ -1081,7 +1081,7 @@ Claim: The host says Lane Schamberger is visible on the side washing his hands i
 Transcript Snippet: yes, some people might be noting that Lane Schamberger is on the side washing his hands. That makes sense. Don't think too hard about it. He did help carry Charlie into the car.
 
 Anchored Artifacts: A-2295.1
-Mentions: N-3, N-792, N-1
+Mentions: N-3, N-790, N-1
 Related Nodes: N-10808
 Tags: relevance:core
 Investigative Direction: Confirm Schamberger's role in carrying Charlie to the vehicle from other video and witness accounts.
@@ -1308,7 +1308,7 @@ Claim: The host says Blake Lively initially sued Justin Baldoni with 13 causes o
 Transcript Snippet: And the court came back and decided, "Actually, yes, Justin, you're you're correct that 10 of these causes of action are inactionable.
 
 Anchored Artifacts: 
-Mentions: N-488, N-489, N-3
+Mentions: N-486, N-487, N-3
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Check the court order on Baldoni's motion to dismiss for the number of claims dismissed.
@@ -1517,7 +1517,7 @@ Claim: The host says she had a source within the Robinson family orbit who was v
 Transcript Snippet: I had a source uh within the Robinson family orbit who was very clear on this, that it was not true, that Matt Robinson did not think his son was guilty
 
 Anchored Artifacts: 
-Mentions: N-3, N-782, N-125
+Mentions: N-3, N-780, N-125
 Related Nodes: N-10022
 Supports: C-5041
 Tags: relevance:core
@@ -1534,7 +1534,7 @@ Claim: The host says the charging document, which used the statement that the fa
 Transcript Snippet: and the charging document rather, which was signed off by Brian Davis.
 
 Anchored Artifacts: 
-Mentions: N-793
+Mentions: N-791
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Pull the charging document and confirm the signing prosecutor.
@@ -1600,7 +1600,7 @@ Claim: In the clip played, Hasan Piker says he cannot like her tweets because sh
 Transcript Snippet: I can't like her tweets cuz she blocked me many, many years ago. This is before she became our hero.
 
 Anchored Artifacts: A-2297.1
-Mentions: N-791, N-3
+Mentions: N-789, N-3
 Related Nodes: N-11146
 Tags: relevance:context
 Investigative Direction: Verify the full Piker stream and whether the host's account blocked him.
@@ -1616,7 +1616,7 @@ Claim: The host says the running theme of Brandi Zadrozny's article is that Cand
 Transcript Snippet: the running themes of what we are seeing in Brandi Zadrozny's article is that essentially they are saying Candace ruined an opportunity to pin this on the left
 
 Anchored Artifacts: A-2888.1
-Mentions: N-3, N-794
+Mentions: N-3, N-792
 Related Nodes: N-11146
 Tags: relevance:context
 Investigative Direction: Obtain the Zadrozny article and compare its wording with the host's paraphrase.
@@ -1679,7 +1679,7 @@ Claim: The host says the left took the bait on an earlier event that could alleg
 Transcript Snippet: we had an event that could potentially, I'll say allegedly, be coordinated by the Feds, which was meant to cause a left-right war.
 
 Anchored Artifacts: 
-Mentions: N-3, N-791
+Mentions: N-3, N-789
 Related Nodes: N-11147
 Tags: relevance:tangential
 Investigative Direction: Review the January 6 investigation findings on any federal informants or provocateurs.

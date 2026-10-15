@@ -698,8 +698,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-603",
-      "ref": "N-603",
+      "@id": "N-601",
+      "ref": "N-601",
       "name": "Katherine Locastro",
       "type": "person",
       "description": "Katherine Locastro (transcribed Katherine Low Castro); named as a passenger on Erika's July 14 flight.",
@@ -752,8 +752,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-422",
-      "ref": "N-422",
+      "@id": "N-420",
+      "ref": "N-420",
       "name": "Derek Niekerk",
       "type": "person",
       "description": "Derek Niekerk; named as a passenger on Erika's July 14 flight.",
@@ -846,8 +846,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-680",
-      "ref": "N-680",
+      "@id": "N-678",
+      "ref": "N-678",
       "name": "Jonathan Barcelo",
       "type": "person",
       "description": "Jonathan Barcelo (transcribed Barcello); named as a passenger on Erika's July 14 flight.",
@@ -863,8 +863,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-782",
-      "ref": "N-782",
+      "@id": "N-780",
+      "ref": "N-780",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Matt Robinson; Tyler Robinson's father, expected to testify about the gun.",
@@ -1279,8 +1279,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-866",
-      "ref": "N-866",
+      "@id": "N-864",
+      "ref": "N-864",
       "name": "Frank Carney",
       "type": "person",
       "description": "First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, with Justin Streiff, was on the phone with the FBI about the back footage, per the host.",
@@ -1923,7 +1923,7 @@
       "transcript_snippet": "The FBI was on the phone with Justin Streiff, Frank Carney, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.",
       "mentions_person_refs": [
         "N-15",
-        "N-866"
+        "N-864"
       ]
     },
     {
@@ -2271,7 +2271,7 @@
       "investigative_direction": "Check the witness list and any proffer on what Matt Robinson is expected to testify to.",
       "transcript_snippet": "They are naming him as a witness and he is going to be forced to answer questions under oath, likely, I would assume about the gun.",
       "mentions_person_refs": [
-        "N-782",
+        "N-780",
         "N-40"
       ]
     },
@@ -2694,9 +2694,9 @@
       "transcript_snippet": "And that flight is she took with Katherine Low Castro and Derek Niekerk and Jonathan Barcelo.",
       "mentions_person_refs": [
         "N-2",
-        "N-603",
-        "N-422",
-        "N-680"
+        "N-601",
+        "N-420",
+        "N-678"
       ]
     },
     {

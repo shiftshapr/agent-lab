@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T01:55:14Z",
+  "generated_at": "2026-10-15T02:07:10Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -42742,7 +42742,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1994",
-      "label": "Bari Weiss clip introduces Hunter Cosgrove as the last person Charlie Kirk spoke to before his death, brought on stage to ask Erica Kirk a question",
+      "label": "Bari Weiss Clip Introduces Hunter Kozak as the Last Person Charlie Kirk Spoke To",
       "node_kind": "claim",
       "episode": 51
     },
@@ -42798,7 +42798,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2002",
-      "label": "Host views Paramount Tactical Valhalla clip as exposing Andrew Kolbet's coordination of attacks on Mitch Snow",
+      "label": "Host Views Paramount Tactical Valhalla Clip as Exposing Andrew Kolvet's Coordination of Attacks on Mitch Snow",
       "node_kind": "claim",
       "episode": 51
     },
@@ -42966,7 +42966,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2026",
-      "label": "Herpolsheimer stated pre-planning for Charlie Kirk events began on the 24th of the month prior to the event",
+      "label": "Harpole Stated Pre-Planning for Charlie Kirk Events Began on the 24th of the Month Prior to the Event",
       "node_kind": "claim",
       "episode": 54
     },
@@ -55510,7 +55510,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3847",
-      "label": "Lori Frantzve and Larry Ginta pursued a patent-pending interchangeable-caliber gun",
+      "label": "Lori Frantzve and Larry Guinta pursued a patent-pending interchangeable-caliber gun",
       "node_kind": "claim",
       "episode": 95
     },
@@ -66080,7 +66080,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5357",
-      "label": "Host says Shapiro was caught on video standing on a table insulting her",
+      "label": "Host Says Shapiro Was Caught Standing on a Table Insulting Her",
       "node_kind": "claim",
       "episode": 50
     },
@@ -66136,7 +66136,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5365",
-      "label": "Host says the Sowell interview premiered right alongside her Tucker Carlson interview",
+      "label": "Host Says Shapiro Got Thomas Sowell as her Tucker Carlson Interview Aired",
       "node_kind": "claim",
       "episode": 50
     },
@@ -66283,7 +66283,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5386",
-      "label": "Host says Daily Wire fired half its Daily Wire Kids staff then spent a million on Charlie's show",
+      "label": "Host Asks Whether Shapiro Fired Half His Daily Wire Kids Staff Then Spent a Million on Charlie's Show",
       "node_kind": "claim",
       "episode": 50
     },
@@ -66430,7 +66430,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5407",
-      "label": "Host calls Cabot Phillips Erika's ex-boyfriend from 2017",
+      "label": "Host Says She Did Not Tell Mitch Cabot Phillips Was Erika's Ex-Boyfriend From 2017",
       "node_kind": "claim",
       "episode": 50
     },
@@ -75817,7 +75817,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6748",
-      "label": "Host Says Cosgrove Was Asking Kirk a Question About Transgenderism When Kirk Was Shot",
+      "label": "Host Says Kozak Asked Kirk a Question About Transgenderism Before Kirk Died",
       "node_kind": "claim",
       "episode": 51
     },
@@ -76132,14 +76132,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6793",
-      "label": "Host Says She Gave Mitch Faces to Identify Cabot Phillips and Mark Amaday After Descriptions",
+      "label": "Host Says She Gave Mitch Faces to Identify Cabot Phillips and Mark Amodei After Descriptions",
       "node_kind": "claim",
       "episode": 51
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6794",
-      "label": "Host Says the Congressman Mitch Saw Was Not Mark Amaday",
+      "label": "Host Says the Congressman Mitch Saw Was Not Mark Amodei",
       "node_kind": "claim",
       "episode": 51
     },
@@ -76258,7 +76258,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6811",
-      "label": "Host Timeline Has the 5:30 Press Conference and Patel's Erroneous 5:59 Tweet",
+      "label": "Host Timeline Has the 5:30 Press Conference and Patel's 5:59 Tweet That the Subject Was Released",
       "node_kind": "claim",
       "episode": 52
     },
@@ -76664,7 +76664,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6869",
-      "label": "Host Says Larry Ginta Is Erika's Stepfather",
+      "label": "Host Says Larry Guinta Is Erika's Stepfather",
       "node_kind": "claim",
       "episode": 52
     },
@@ -76769,7 +76769,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6884",
-      "label": "Host Says Farnsworth's Father-in-Law Thomas Bert Ran Duncan Aviation",
+      "label": "Host Says Farnsworth's Father-in-Law Thomas Burt Ran Duncan Aviation",
       "node_kind": "claim",
       "episode": 52
     },
@@ -85463,21 +85463,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8126",
-      "label": "Herpolsheimer Describes Decentralized Command Model With Shared App Timeline",
+      "label": "Harpole Describes Decentralized Command Model With Shared App Timeline",
       "node_kind": "claim",
       "episode": 54
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8127",
-      "label": "Host Says Herpolsheimer Described Chief of Police Conversation Over Rooftop Coverage",
+      "label": "Host Says Harpole Described Chief of Police Conversation Over Rooftop Coverage",
       "node_kind": "claim",
       "episode": 54
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8128",
-      "label": "Host Says Herpolsheimer Said Drones Were Not Allowed",
+      "label": "Host Says Harpole Said Drones Were Not Allowed",
       "node_kind": "claim",
       "episode": 54
     },
@@ -107100,14 +107100,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1552",
-      "label": "Andrew Colberg X Post Bundle",
+      "label": "Andrew Kolvet X Post Bundle",
       "node_kind": "artifact",
       "episode": 48
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1552.1",
-      "label": "Andrew Colberg X post containing attributed quotation about Charlie's neck",
+      "label": "Andrew Kolvet X post containing attributed quotation about Charlie's neck",
       "node_kind": "artifact",
       "episode": 48
     },
@@ -107422,14 +107422,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1570",
-      "label": "Bari Weiss CBS Hunter Cosgrove Clip",
+      "label": "Bari Weiss CBS Hunter Kozak Clip",
       "node_kind": "artifact",
       "episode": 51
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1570.1",
-      "label": "Bari Weiss introduces Hunter Cosgrove to ask Erica Kirk a question on the CBS stage, noting he was \"the last person that Charlie ever spoke to\"",
+      "label": "Bari Weiss introduces Hunter Kozak to ask Erica Kirk a question on the CBS stage, noting he was \"the last person that Charlie ever spoke to\"",
       "node_kind": "artifact",
       "episode": 51
     },
@@ -107800,14 +107800,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1596",
-      "label": "Herpolsheimer Interview Clip Bundle",
+      "label": "Harpole Interview Clip Bundle",
       "node_kind": "artifact",
       "episode": 54
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1596.1",
-      "label": "Shawn Ryan interview segment with Brian Herpolsheimer discussing pre-planning and intelligence-gathering timelines (the 24th of month prior, decentralized command model)",
+      "label": "Shawn Ryan interview segment with Brian Harpole discussing pre-planning and intelligence-gathering timelines (the 24th of month prior, decentralized command model)",
       "node_kind": "artifact",
       "episode": 54
     },

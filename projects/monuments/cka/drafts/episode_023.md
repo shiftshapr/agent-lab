@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 2b7c0b497c1a605724c2efacfbda06d8e0b999ac43a4736bf08dfb6b27a1a9f1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-914, N-915, N-11327, N-11328, N-11329, N-11330
+  - Tip-minted Nodes (supplement_2026-10f): N-912, N-913, N-11327, N-11328, N-11329, N-11330
   - Hole-minted Nodes (reintro-ep023): N-10242, N-10253, N-10266, N-10436
-  - Tip-minted Nodes (reintro-ep023): N-715, N-11094, N-11129, N-11171
+  - Tip-minted Nodes (reintro-ep023): N-713, N-11094, N-11129, N-11171
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12262–C-12349
   - New Nodes Introduced: N-207, N-209, N-210, N-10208, N-10211, N-10212, N-10213, N-10214, N-10215
@@ -1002,7 +1002,7 @@ Named by the host as able to pull the plane manifests.
 
 ---
 
-**N-715** Volodymyr Zelensky
+**N-713** Volodymyr Zelensky
 
 Subject of Kirk's 2023 corruption accusations per the host.
 
@@ -1234,7 +1234,7 @@ Existing topic reused for the funding opacity claims.
 
 ---
 
-**N-914** Che Ahn
+**N-912** Che Ahn
 
 First named by the host at 00:11:43 in episode 23. NAR apostle whose prayer rallies the host reads that Sean Feucht took part in.
 
@@ -1242,7 +1242,7 @@ First named by the host at 00:11:43 in episode 23. NAR apostle whose prayer rall
 
 ---
 
-**N-915** Dan Gertler
+**N-913** Dan Gertler
 
 First named by the host at 00:52:25 in episode 23. Named by the host as the Israeli link in Congo and the diamond trade.
 
@@ -1744,7 +1744,7 @@ Claim: The host says that in 2023 Charlie Kirk's X feed hit hard on Ukraine, dem
 Transcript Snippet: He's accusing Ukraine and Zelenskyy of corruption, of financial fraud, of money laundering.
 
 Anchored Artifacts: A-3198.1
-Mentions: N-1, N-715, N-3
+Mentions: N-1, N-713, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Retrieve Kirk's 2023 X posts about Ukraine and Zelensky and check wording and dates against the host's description.
@@ -1872,7 +1872,7 @@ Claim: The host reads that Sean Feucht grew up playing music in a New Apostolic 
 Transcript Snippet: He was a part of the NAR Apostle Che Ahn's prayer rallies, it tells us, okay?
 
 Anchored Artifacts: A-3199.1
-Mentions: N-207, N-914
+Mentions: N-207, N-912
 Related Nodes: N-10210, N-10242
 Supports: C-1566
 Tags: relevance:context
@@ -2782,7 +2782,7 @@ Claim: The host says that when people point to Christians being slaughtered in C
 Transcript Snippet: They'll be like, "Well, look at what the Christians are being slaughtered in Congo." Oopsies, Dan Gertler.
 
 Anchored Artifacts: 
-Mentions: N-3, N-915
+Mentions: N-3, N-913
 Related Nodes: N-10026
 Tags: relevance:tangential
 Investigative Direction: Check public sanctions and Congo mining records on Gertler and Israel's position in the diamond trade.

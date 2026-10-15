@@ -1,0 +1,790 @@
+[
+ {
+  "claim": "C-5408",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5409",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5410",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5411",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5412",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5413",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5414",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5415",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5416",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5417",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5418",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5419",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1989",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Dillon: \"This turning point kind of abomination... the right wing of this country has turned into like a bad reality show\"; \"right wing abomination\" is not his phrase.",
+  "fix": {
+   "claim": "In a clip the host plays, comedian Tim Dillon calls Turning Point a \"kind of abomination\" that \"the right wing of this country has turned into like a bad reality show.\""
+  }
+ },
+ {
+  "claim": "C-1990",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1991",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1992",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1993",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Window has \"slop\" and \"nothingness\" but not \"emptiness\".",
+  "fix": {
+   "claim": "In a clip the host plays, comedian Tim Dillon asserts that contemporary culture is the product of denial of elite pedophilia and that this denial has produced \"slop\" and a \"culture of nothingness.\""
+  }
+ },
+ {
+  "claim": "C-1994",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Caption says Hunter Cosgrove; host also says Hunter Kozak; confirmed Kozak (ABC News). \"Brings him on stage\" is inferred; Weiss says \"he's here tonight\".",
+  "fix": {
+   "claim": "In a Bari Weiss CBS segment clip the host plays, Bari Weiss says that Hunter Kozak was the last person Charlie Kirk ever spoke to and that he is there to ask Erika Kirk a question.",
+   "label": "Bari Weiss Clip Introduces Hunter Kozak as the Last Person Charlie Kirk Spoke To",
+   "names": [
+    {
+     "wrong": "Hunter Cosgrove",
+     "right": "Hunter Kozak",
+     "source": "https://abcnews.com/US/person-question-charlie-kirk-describes-moment-visceral/story?id=125505153"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1995",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1996",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Jones says \"SHE'S A GLOBALIST AGENT... I want your war\"; the Mitch Snow link is the host's framing, not in the clip.",
+  "fix": {
+   "claim": "In a clip the host plays, Alex Jones says \"she's a globalist agent\" and that he wants a war with those he says work for the deep state; the host says Jones declared war on her over Mitch Snow."
+  }
+ },
+ {
+  "claim": "C-1997",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1998",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Transcript: \"They called me on September 9th\" - no military police; \"consistent with Mitch's account\" added. Harpole (N-268) not named in claim.",
+  "fix": {
+   "claim": "In an interview clip the host plays, a man the host identifies as Mitch Snow's adult son says Mitch would not be let into an operations center on any post but could go to the commissary and PX, and that he was called on September 9th by people asking if he knew Mitch Snow, who listed him as number one emergency contact.",
+   "mentions": [
+    "N-364"
+   ]
+  }
+ },
+ {
+  "claim": "C-1999",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Stated as fact; host hedges: \"seemingly deleted... Apparently, they just privatized it\"; Instagram \"re-released\".",
+  "fix": {
+   "claim": "The host says that, per messages from viewers, the Daily Wire seemingly brought back her old YouTube channel (apparently privatized, not deleted) and premiered an old trailer with a card saying it was shot in 2021, and re-released her trailer on her old Instagram."
+  }
+ },
+ {
+  "claim": "C-2000",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2001",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2002",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim spells \"Kolbet\"; host says \"the spokesperson... Andrew Kolvet\".",
+  "fix": {
+   "claim": "The host asserts on air that the Paramount Tactical Valhalla stream's accidental exposure of Andrew Kolvet's written instructions confirms coordination between Andrew Kolvet and the parties attacking Mitch Snow, undermining the prior \"Andrew went rogue\" narrative.",
+   "label": "Host Views Paramount Tactical Valhalla Clip as Exposing Andrew Kolvet's Coordination of Attacks on Mitch Snow"
+  }
+ },
+ {
+  "claim": "C-6742",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Daily Wire account reactivation is not about Kirk's killing; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-6743",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6744",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6745",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6746",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6747",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host says \"Hunter Kozak\"; \"(Cosgrove)\" is the caption error; confirmed Kozak (ABC News).",
+  "fix": {
+   "claim": "The host says the most effed up part of the Bari Weiss interview was CBS's decision to bring Hunter Kozak to ask Erika Kirk a question, and says she wants to know who approved the idea.",
+   "names": [
+    {
+     "wrong": "Hunter Cosgrove",
+     "right": "Hunter Kozak",
+     "source": "https://abcnews.com/US/person-question-charlie-kirk-describes-moment-visceral/story?id=125505153"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6748",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host: \"the last person on Earth that tried to stress out Charlie Kirk... a stupid question about transgenderism.\" Cosgrove is caption error; Kozak confirmed.",
+  "fix": {
+   "claim": "The host says Hunter Kozak was the last person on Earth who tried to stress out Charlie Kirk, asking him a stupid question about transgenderism, before Kirk died.",
+   "label": "Host Says Kozak Asked Kirk a Question About Transgenderism Before Kirk Died",
+   "names": [
+    {
+     "wrong": "Hunter Cosgrove",
+     "right": "Hunter Kozak",
+     "source": "https://abcnews.com/US/person-question-charlie-kirk-describes-moment-visceral/story?id=125505153"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6749",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Brigitte Macron cyberbullying case is tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-6750",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Brigitte Macron allegation is tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-6751",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host's dispute with Daily Wire after firing; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-6752",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Daily Wire show launch; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-6753",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Daily Wire show about the host; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-6754",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6755",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6756",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6757",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6758",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6759",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6760",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6761",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6762",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6763",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript: \"Kid is could be potentially funded... Paramount Tactical potentially working with foreign agents\" - subject unclear, not Mitch. N-10899 is an organisation, not a person.",
+  "fix": {
+   "claim": "The host says the Paramount Tactical account in Valhalla called Mitch and pretended to be a brother, like a brother in arms, in an exchange she dramatizes.",
+   "mentions": [
+    "N-364"
+   ]
+  }
+ },
+ {
+  "claim": "C-6764",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6765",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6766",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"they were ashamed because he was a really bad dude who abused women\"; shame is the critics', not Mitch's.",
+  "fix": {
+   "claim": "The host says the critics first said Mitch never served, then had to admit he was in the military, but said he was a really bad man who had abused women in the past, and brought those women onto their platform."
+  }
+ },
+ {
+  "claim": "C-6767",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6768",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6769",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6770",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6771",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6772",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "N-10899 Paramount Tactical is an organisation, not a person; claim names only Erika Kirk.",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-6773",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6774",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6775",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

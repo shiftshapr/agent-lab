@@ -86,7 +86,7 @@
       },
       {
         "claim": "C-2192",
-        "node": "N-497",
+        "node": "N-495",
         "reason": "role ref: claim and transcript refer to 'the CMO', Marina (ep62)"
       },
       {
@@ -136,17 +136,17 @@
       },
       {
         "claim": "C-3909",
-        "node": "N-620",
+        "node": "N-618",
         "reason": "first name only: transcript 'Andrew messaged Gary, that's Paramount Tactical' / 'Gary has confirmed to me'; Gary Melton runs Paramount Tactical (Daveed, 2026-10-13)"
       },
       {
         "claim": "C-3912",
-        "node": "N-620",
+        "node": "N-618",
         "reason": "first name only: transcript 'Andrew messaged Gary, that's Paramount Tactical' / 'Gary has confirmed to me'; Gary Melton runs Paramount Tactical (Daveed, 2026-10-13)"
       },
       {
         "claim": "C-5128",
-        "node": "N-381",
+        "node": "N-379",
         "reason": "claim text: \"the president of France\""
       },
       {
@@ -186,12 +186,12 @@
       },
       {
         "claim": "C-6901",
-        "node": "N-493",
+        "node": "N-491",
         "reason": "role reference: \"Erika's mother\""
       },
       {
         "claim": "C-6902",
-        "node": "N-493",
+        "node": "N-491",
         "reason": "role reference: \"her mother\""
       },
       {
@@ -226,7 +226,7 @@
       },
       {
         "claim": "C-8380",
-        "node": "N-739",
+        "node": "N-737",
         "reason": "claim text: \"Ike\" (host's Mar-a-Lago lunch reference; identification flagged as a guess)"
       },
       {
@@ -311,7 +311,7 @@
       },
       {
         "claim": "C-12723",
-        "node": "N-493",
+        "node": "N-491",
         "reason": "role reference: \"Erika's mother\""
       },
       {
@@ -641,14 +641,14 @@
         "reason": "Amir Safari (intro ep107): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
       },
       {
-        "id": "N-369",
+        "id": "N-368",
         "episodes": [
           28
         ],
         "reason": "Jeremy Boreing (intro ep50): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
       },
       {
-        "id": "N-378",
+        "id": "N-376",
         "episodes": [
           28
         ],
@@ -662,91 +662,91 @@
         "reason": "Ian Carroll (intro ep99): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
       },
       {
-        "id": "N-397",
+        "id": "N-395",
         "episodes": [
           19
         ],
         "reason": "Corey Lewandowski (intro ep53): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
       },
       {
-        "id": "N-456",
+        "id": "N-454",
         "episodes": [
           24
         ],
         "reason": "Lindsey Graham (intro ep56): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
       },
       {
-        "id": "N-476",
+        "id": "N-474",
         "episodes": [
           33
         ],
         "reason": "Zack Gregorio (Wolves and Finance) (intro ep59): false positive: alias \"wolves and finance\" is a phrase, not the person name"
       },
       {
-        "id": "N-493",
+        "id": "N-491",
         "episodes": [
           52
         ],
         "reason": "Lori Frantzve (intro ep62): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
       },
       {
-        "id": "N-526",
+        "id": "N-524",
         "episodes": [
           51
         ],
         "reason": "Nicki Minaj (intro ep67): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
       },
       {
-        "id": "N-537",
+        "id": "N-535",
         "episodes": [
           56
         ],
         "reason": "Hillary Clinton (intro ep67): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
       },
       {
-        "id": "N-579",
+        "id": "N-577",
         "episodes": [
           50
         ],
         "reason": "Nicole Rothstein (intro ep77): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
       },
       {
-        "id": "N-654",
+        "id": "N-652",
         "episodes": [
           75
         ],
         "reason": "Marco Rubio is named in C-3580 text (ep75); first minted in the 2026-10-13 skeleton fill at ep111. The ep75 claim predates the person node; Wave 4 debt."
       },
       {
-        "id": "N-604",
+        "id": "N-602",
         "episodes": [
           80
         ],
         "reason": "Scott Bessent is named in C-2512 text (ep80); first minted in the 2026-10-13 skeleton fill at ep84. Wave 4 debt."
       },
       {
-        "id": "N-603",
+        "id": "N-601",
         "episodes": [
           83
         ],
         "reason": "Katherine Locastro is named in A-1902.2 text (ep83); first minted in the 2026-10-13 skeleton fill at ep84. Wave 4 debt."
       },
       {
-        "id": "N-834",
+        "id": "N-832",
         "episodes": [
           94
         ],
         "reason": "Kathy Nester (defense attorney): named in existing ep94 claim C-2769 text; node minted in supplement batch 3 (ep142) where she is first linked. Claims are immutable, so the earlier naming is accepted rather than rewritten."
       },
       {
-        "id": "N-841",
+        "id": "N-839",
         "episodes": [
           152
         ],
         "reason": "Ed Sheeran: named in passing in existing ep152 claim C-3458 text; node minted in supplement batch 3 (ep160). Incidental mention; accepted rather than rewriting an immutable claim."
       },
       {
-        "id": "N-874",
+        "id": "N-872",
         "episodes": [
           14,
           32
@@ -754,42 +754,42 @@
         "reason": "Justin Bieber: named in passing in existing claims C-7884 (ep14) and C-1706 (ep32); node minted in supplement batch 4 (ep152). Incidental; accepted rather than rewriting immutable claims."
       },
       {
-        "id": "N-907",
+        "id": "N-905",
         "episodes": [
           124
         ],
         "reason": "Miss Noble: named in existing ep124 claim C-3005; node minted in supplement batch 5 (ep155). Accepted rather than rewriting an immutable claim."
       },
       {
-        "id": "N-904",
+        "id": "N-902",
         "episodes": [
           149
         ],
         "reason": "Blake Harreff: named in existing ep149 claims (C-3550..C-3552); node minted in supplement batch 5 (ep151). Accepted rather than rewriting immutable claims."
       },
       {
-        "id": "N-731",
+        "id": "N-729",
         "episodes": [
           26
         ],
-        "reason": "False positive by name: C-9573 (ep26) names the philosopher Karl Marx in a reading-list remark; N-731 is Victor Marx's father, introduced in ep91."
+        "reason": "False positive by name: C-9573 (ep26) names the philosopher Karl Marx in a reading-list remark; N-729 is Victor Marx's father, introduced in ep91."
       },
       {
-        "id": "N-883",
+        "id": "N-881",
         "episodes": [
           20
         ],
         "reason": "Jean-Michel Trogneux: named in passing in supplement claim C-12247 (ep20); node introduced in ep38. Incidental mention."
       },
       {
-        "id": "N-926",
+        "id": "N-924",
         "episodes": [
           88
         ],
         "reason": "Judge Liman: named in existing ep88 claim C-8634 text; node minted in supplement batch 6 (ep99). Accepted rather than rewriting the claim."
       },
       {
-        "id": "N-950",
+        "id": "N-948",
         "episodes": [
           13,
           14
@@ -797,7 +797,7 @@
         "reason": "Robbie Hild: named in earlier claims C-10789 (ep13) and C-7874 (ep14); the person node was minted in supplement batch 7 (ep87), where the topic node N-10153 already existed. Accepted rather than rewriting the claims."
       },
       {
-        "id": "N-883",
+        "id": "N-881",
         "episodes": [
           35
         ],
@@ -824,6 +824,6 @@
     "topic_min": 10000,
     "topic_max": null,
     "person_high_min": null,
-    "note": "Daveed, 2026-10-13: persons are N-1..N-9989 and topic/org/place nodes are N-10000+. Ids were compacted with no holes (audits/id_compaction_2026-10-13/id_map.csv). New persons continue from canonical next_person_id, new topic/org/place nodes from next_investigation_id. No tombstones: a merged or retired id is not reserved."
+    "note": "Daveed, 2026-10-13: persons are N-1..N-9987 and topic/org/place nodes are N-10000+. Ids were compacted with no holes (audits/id_compaction_2026-10-13/id_map.csv). New persons continue from canonical next_person_id, new topic/org/place nodes from next_investigation_id. No tombstones: a merged or retired id is not reserved."
   }
 }

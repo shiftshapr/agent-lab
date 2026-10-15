@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: e947ef3ae2fd7542aa73ed3a25e830c3b7b5d7d5411806bda898739caf04411e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-862, N-863, N-11250, N-11251, N-11252, N-11253, N-11254
+  - Tip-minted Nodes (supplement_2026-10d): N-860, N-861, N-11250, N-11251, N-11252, N-11253, N-11254
   - Hole-minted Nodes (reintro-ep074): N-167
   - Tip-minted Nodes (reintro-ep074): N-10953
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10138–C-10226
-  - New Nodes Introduced: N-568, N-569, N-570, N-571, N-572, N-10511, N-10513, N-10514, N-10515, N-10516, N-10518
-  - Reused Nodes Appearing: N-10512, N-5, N-9, N-11, N-40, N-47, N-55, N-69, N-99, N-188, N-239, N-261, N-332, N-490, N-493, N-549, N-585, N-10000, N-10110, N-10138, N-10275, N-10311, N-10324, N-10367, N-10419, N-10428, N-10440, N-10477, N-10487, N-10506, N-10509, N-10561, N-10832, N-11014, N-11098, N-10517
+  - New Nodes Introduced: N-566, N-567, N-568, N-569, N-570, N-10511, N-10513, N-10514, N-10515, N-10516, N-10518
+  - Reused Nodes Appearing: N-10512, N-5, N-9, N-11, N-40, N-47, N-55, N-69, N-99, N-188, N-239, N-261, N-332, N-488, N-491, N-547, N-583, N-10000, N-10110, N-10138, N-10275, N-10311, N-10324, N-10367, N-10419, N-10428, N-10440, N-10477, N-10487, N-10506, N-10509, N-10561, N-10832, N-11014, N-11098, N-10517
   - (see registers)
 
 ## 2. Executive Summary
@@ -249,7 +249,7 @@ Video Timestamp: 00:02:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2378, C-2379, N-568, N-569, N-570*
+*Related: C-2378, C-2379, N-566, N-567, N-568*
 
 ---
 
@@ -263,7 +263,7 @@ Video Timestamp: 00:02:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2378, C-2379, N-569, N-570*
+*Related: C-2378, C-2379, N-567, N-568*
 
 **A-1781.2** Jillian Falcon reply, 2014-02-13: "@EricaFrandsen, gorgeous as always"
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:04:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2378, N-569*
+*Related: C-2378, N-567*
 
 **A-1781.3** Jillian Falcon tweet, 2014-03-06: "Why did @EricaFrandsen just send me this?" with attached Valentine-themed photo captioned "This Valentine's Day I am going to touch your butt."
 
@@ -283,7 +283,7 @@ Video Timestamp: 00:04:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2380, N-569*
+*Related: C-2380, N-567*
 
 **A-1781.4** Jillian Falcon tweet, 2014-03-13, sharing screenshot of Erika Kirk text messages (hydration/alcohol/bloating exchange; "Spit it out, you twatwaffle")
 
@@ -293,7 +293,7 @@ Video Timestamp: 00:05:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2381, C-2382, N-569*
+*Related: C-2381, C-2382, N-567*
 
 **A-1781.5** Jillian Falcon tweet, 2014-03-26 morning: "I just want to be somebody's woman crush Wednesday. Is that too much to ask?"
 
@@ -303,7 +303,7 @@ Video Timestamp: 00:06:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-569*
+*Related: N-567*
 
 **A-1781.6** Jillian Falcon tweet, 2014-03-26 evening: "Thank you, @EricaFrandsen, for making my whole week" with attached gnome-image reading "I want to be inside your lady garden. Know what I'm saying?"
 
@@ -313,7 +313,7 @@ Video Timestamp: 00:06:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2383, N-569*
+*Related: C-2383, N-567*
 
 **A-1781.7** Jillian Falcon tweet, 2014-04-03: "I miss this goon." Followed by Jillian reporting Erika texted "#nonewfriends."
 
@@ -323,7 +323,7 @@ Video Timestamp: 00:06:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-569*
+*Related: N-567*
 
 **A-1781.8** Jillian Falcon tweet, 2014-04-05: "Getting this in the mail from @EricaFrandsen" with photo of red box of chocolate-covered strawberries and other chocolate desserts
 
@@ -333,7 +333,7 @@ Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2384, A-1783.1, N-569*
+*Related: C-2384, A-1783.1, N-567*
 
 **A-1781.9** Jillian Falcon tweet, 2014-06-07: "This has to be the most heartfelt compliment I've ever gotten." with attached screenshot of compliment exchange
 
@@ -343,7 +343,7 @@ Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2385, N-569*
+*Related: C-2385, N-567*
 
 **A-1781.10** Jillian Falcon tweet, June 2014 (date not precisely given in episode): "I haven't seen my dad over 2 years."
 
@@ -353,7 +353,7 @@ Video Timestamp: 00:11:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-569, N-10513*
+*Related: N-567, N-10513*
 
 ---
 
@@ -367,7 +367,7 @@ Video Timestamp: 00:05:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2380, N-569*
+*Related: C-2380, N-567*
 
 **A-1782.2** Erika text, captured in A-1781.3: "Sex. Sex, too, but not from you. lol."
 
@@ -377,7 +377,7 @@ Video Timestamp: 00:05:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2380, N-569*
+*Related: C-2380, N-567*
 
 **A-1782.3** Erika text, captured in A-1781.3: "You always make me laugh. I don't bat for the other team just yet."
 
@@ -387,7 +387,7 @@ Video Timestamp: 00:05:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2380, N-569*
+*Related: C-2380, N-567*
 
 **A-1782.4** Erika text, captured in A-1781.4: "I forgot to tell you hydrate tonight. No alcohol and don't eat a lot of salty foods. You don't want to look bloated."
 
@@ -397,7 +397,7 @@ Video Timestamp: 00:05:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2381, C-2382, N-569*
+*Related: C-2381, C-2382, N-567*
 
 **A-1782.5** Erika text, captured in A-1781.4: "Spit it out, you twatwaffle."
 
@@ -407,7 +407,7 @@ Video Timestamp: 00:05:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2381, N-569*
+*Related: C-2381, N-567*
 
 **A-1782.6** Erika text, captured in A-1781.9: "You have the most stunning features… Your eyes, your lips, your skin, you're absolutely beautiful."
 
@@ -417,7 +417,7 @@ Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2385, N-569*
+*Related: C-2385, N-567*
 
 ---
 
@@ -431,7 +431,7 @@ Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2384, N-569*
+*Related: C-2384, N-567*
 
 ---
 
@@ -445,7 +445,7 @@ Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-569*
+*Related: N-567*
 
 **A-1784.2** Erika comment on same photo: "I could see why, boo."
 
@@ -455,7 +455,7 @@ Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-569*
+*Related: N-567*
 
 **A-1784.3** Erika comment on same photo: "Yes, I know you are."
 
@@ -465,7 +465,7 @@ Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-569*
+*Related: N-567*
 
 **A-1784.4** Erika Instagram comment on Jillian beside a car: "That dime piece beside the car though."
 
@@ -475,7 +475,7 @@ Video Timestamp: 00:14:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2386, N-569*
+*Related: C-2386, N-567*
 
 ---
 
@@ -579,7 +579,7 @@ Video Timestamp: 00:41:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2395, N-571*
+*Related: C-2395, N-569*
 
 ---
 
@@ -683,7 +683,7 @@ Video Timestamp: 00:19:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10166, C-10167, N-188, N-862*
+*Related: C-10166, C-10167, N-188, N-860*
 
 ---
 
@@ -713,7 +713,7 @@ Video Timestamp: 00:45:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10213, C-10214, N-85, N-571*
+*Related: C-10213, C-10214, N-85, N-569*
 
 ---
 
@@ -734,7 +734,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-568** Nicey (YouTuber)
+**N-566** Nicey (YouTuber)
 
 YouTuber whose video provided the host with primary source material on the Erika Kirk–Jillian Falcon relationship, including meeting context and text/DM quote reconstruction.
 
@@ -747,7 +747,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-569** Jillian Falcon
+**N-567** Jillian Falcon
 
 Then-15-year-old girl introduced to Erika Kirk via a rent arrangement at Joshua Harrelson's Michigan residence in 2013; now an adult and the named source of the screenshots and testimonial confirmation surfaced via Nicey and the host.
 
@@ -760,7 +760,7 @@ Investigative Pressure: High
 
 ---
 
-**N-570** Joshua Harrelson
+**N-568** Joshua Harrelson
 
 Erika Kirk's then-boyfriend (basketball player) at the time of the September 15, 2013 meeting with Jillian Falcon; named in Jillian's tweet and Nicey's narration.
 
@@ -799,7 +799,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-571** Jared Moskowitz
+**N-569** Jared Moskowitz
 
 Democratic House member whose House Oversight remarks on the Epstein file release were played at length.
 
@@ -825,7 +825,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-572** R-Name Photographer
+**N-570** R-Name Photographer
 
 Male photographer described by Jillian Falcon as shorter, chubbier, name beginning with "R," arranged by Erika Kirk to photograph Jillian when Jillian was 15; identity not yet established in this episode.
 
@@ -834,7 +834,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2388, N-569, N-10513*
+*Related: C-2388, N-567, N-10513*
 
 ---
 
@@ -873,7 +873,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1781.10, C-2388, N-569, N-572*
+*Related: A-1781.10, C-2388, N-567, N-570*
 
 ---
 
@@ -1070,7 +1070,7 @@ Whose viral episode and instruction not to contact Jillian are described.
 
 ---
 
-**N-490** Taylor Swift
+**N-488** Taylor Swift
 
 Subject of the host's aside on tween emotion and business.
 
@@ -1078,7 +1078,7 @@ Subject of the host's aside on tween emotion and business.
 
 ---
 
-**N-493** Lori Frantzve
+**N-491** Lori Frantzve
 
 Said by the host to be Erika's real mother and operator of Desert Spirit Tech.
 
@@ -1086,7 +1086,7 @@ Said by the host to be Erika's real mother and operator of Desert Spirit Tech.
 
 ---
 
-**N-549** Tracy Martin
+**N-547** Tracy Martin
 
 Erika's best friend, said to do trafficking-victim charity work via Dream City Church.
 
@@ -1094,7 +1094,7 @@ Erika's best friend, said to do trafficking-victim charity work via Dream City C
 
 ---
 
-**N-585** Thomas Massie
+**N-583** Thomas Massie
 
 Sponsor of the discharge petition described by Moskowitz.
 
@@ -1254,7 +1254,7 @@ Topic reused for the boots-and-memorial remarks.
 
 ---
 
-**N-862** Kenneth Starr
+**N-860** Kenneth Starr
 
 First named by the host at 00:19:48 in episode 74. Former independent counsel described by the host as Jeffrey Epstein's friend, under whom Stacy Sheridan claims to have worked at Pepperdine University. Aliases in the transcript: Kenneth Starr.
 
@@ -1262,7 +1262,7 @@ First named by the host at 00:19:48 in episode 74. Former independent counsel de
 
 ---
 
-**N-863** Merrick Garland
+**N-861** Merrick Garland
 
 First named by the host at 00:46:09 in episode 74. Former Attorney General, referred to in Pam Bondi's remark that no one asked him about Epstein.
 
@@ -1293,7 +1293,7 @@ Rehabilitation and shelter center that the host says is run by Dream City Church
 Node Type: Topic
 The host's claim, from Stacy Sheridan's resume, that she worked eight years in Kenneth Starr's office at Pepperdine while Starr was working with Jeffrey Epstein, and that the host cannot find other trace of her employment.
 
-*Related: C-10166, C-10167, A-3061.1, N-188, N-862*
+*Related: C-10166, C-10167, A-3061.1, N-188, N-860*
 
 ---
 
@@ -1322,7 +1322,7 @@ The host's allegation, sourced to people fired from TPUSA, that Alex Clark deman
 Claim Timestamp: 00:02:07
 Claim: In a video by YouTuber Nicey that the host plays, Nicey says Erika Kirk (then Erika Frandsen), Joshua Harrelson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.
 Anchored Artifacts: A-1780.1, A-1781.1
-Mentions: N-568, N-569, N-570, N-2
+Mentions: N-566, N-567, N-568, N-2
 Investigative Direction: Pull Jillian's original Sept 15, 2013 X/Twitter posts directly and corroborate against contemporaneous Michigan venue records.
 
 ---
@@ -1332,7 +1332,7 @@ Investigative Direction: Pull Jillian's original Sept 15, 2013 X/Twitter posts d
 Claim Timestamp: 00:03:40
 Claim: Episode presents that Erika and Jillian met when Jillian came to Harrelson's residence for a rent-related matter and exchanged numbers during that interaction, per Jillian's account relayed by the host.
 Anchored Artifacts: A-1780.1
-Mentions: N-568, N-569, N-570
+Mentions: N-566, N-567, N-568
 Investigative Direction: Re-interview Jillian (now adult) directly and document the rent-payment interaction in writing or recording.
 
 ---
@@ -1342,7 +1342,7 @@ Investigative Direction: Re-interview Jillian (now adult) directly and document 
 Claim Timestamp: 00:05:48
 Claim: In a video by YouTuber Nicey that the host plays, Nicey presents text messages Jillian Falcon posted, in which Erika Kirk on or about 2014-03-06 sent Jillian "Sex. Sex, too, but not from you. lol." and "You always make me laugh. I don't bat for the other team just yet."
 Anchored Artifacts: A-1781.3, A-1782.1, A-1782.2, A-1782.3
-Mentions: N-569, N-2
+Mentions: N-567, N-2
 Investigative Direction: Obtain original screenshots and verify posting metadata on Jillian's X/Twitter account.
 
 ---
@@ -1352,7 +1352,7 @@ Investigative Direction: Obtain original screenshots and verify posting metadata
 Claim Timestamp: 00:05:48
 Claim: In a video by YouTuber Nicey that the host plays, Nicey presents a text Jillian Falcon posted on March 13, 2014, in which Erika Kirk wrote: "I forgot to tell you hydrate tonight. No alcohol and don't eat a lot of salty foods. You don't want to look bloated."
 Anchored Artifacts: A-1781.4, A-1782.4
-Mentions: N-569
+Mentions: N-567
 Investigative Direction: Compare against the same-day Jillian social-media activity to identify the referenced event and whether a photo session took place.
 
 ---
@@ -1362,7 +1362,7 @@ Investigative Direction: Compare against the same-day Jillian social-media activ
 Claim Timestamp: 00:15:15
 Claim: The host says, relaying what Jillian Falcon told her, that the hydration/alcohol text exchange was tied to a photo session Erika had arranged for Jillian via a third-party photographer, rather than to an event Erika and Jillian attended together.
 Anchored Artifacts: A-1781.4, A-1782.4
-Mentions: N-569, N-572
+Mentions: N-567, N-570
 Related Nodes: N-10513
 Investigative Direction: Identify the photographer (name begins with "R") and obtain session records, including the date and consent documentation.
 
@@ -1373,7 +1373,7 @@ Investigative Direction: Identify the photographer (name begins with "R") and ob
 Claim Timestamp: 00:06:37
 Claim: Episode presents that on or about 2014-03-26, Erika sent Jillian a gnome image bearing the text "I want to be inside your lady garden. Know what I'm saying?", which Jillian then shared publicly.
 Anchored Artifacts: A-1781.6
-Mentions: N-569
+Mentions: N-567
 Investigative Direction: Locate the original image file and verify its posting date and source account.
 
 ---
@@ -1383,7 +1383,7 @@ Investigative Direction: Locate the original image file and verify its posting d
 Claim Timestamp: 00:07:30
 Claim: In a video by YouTuber Nicey that the host plays, Nicey says that on or about 2014-04-05 Erika Kirk sent Jillian Falcon a red box of chocolate-covered strawberries and other desserts accompanied by a handwritten card reading "Happy sweet 16, beautiful girl… Love you, E."
 Anchored Artifacts: A-1781.8, A-1783.1
-Mentions: N-569, N-2
+Mentions: N-567, N-2
 Investigative Direction: Obtain the original photo from Jillian's X/Twitter post and, if feasible, the physical card for handwriting comparison.
 
 ---
@@ -1393,7 +1393,7 @@ Investigative Direction: Obtain the original photo from Jillian's X/Twitter post
 Claim Timestamp: 00:07:30
 Claim: In a video by YouTuber Nicey that the host plays, Nicey presents a screenshot Jillian Falcon shared on June 7, 2014, in which Erika Kirk texted Jillian: "You have the most stunning features… Your eyes, your lips, your skin, you're absolutely beautiful."
 Anchored Artifacts: A-1781.9, A-1782.6
-Mentions: N-569
+Mentions: N-567
 Investigative Direction: Obtain the original screenshot and verify against Jillian's X/Twitter posting history.
 
 ---
@@ -1403,7 +1403,7 @@ Investigative Direction: Obtain the original screenshot and verify against Jilli
 Claim Timestamp: 00:14:26
 Claim: The host says, relaying what Jillian Falcon told her, that Erika Kirk commented on an Instagram photo of Jillian standing beside a car, writing "That dime piece beside the car though."
 Anchored Artifacts: A-1784.4
-Mentions: N-569, N-2
+Mentions: N-567, N-2
 Investigative Direction: Pull the original Instagram comment from Jillian's account (now possibly deleted) via archived snapshots or Jillian's own records.
 
 ---
@@ -1501,7 +1501,7 @@ Investigative Direction: Pull the two interview segments and visually verify the
 Claim Timestamp: 00:46:09
 Claim: Episode presents that Attorney General Pam Bondi, in a House Oversight hearing clip, asserted that the Trump administration released over 3 million pages of Epstein documents and that President Trump signed the law releasing them, characterizing him as "the most transparent president in the nation's history."
 Anchored Artifacts: A-1791.1
-Mentions: N-85, N-571
+Mentions: N-85, N-569
 Investigative Direction: Pull the hearing transcript and video to confirm Bondi's exact wording and the hearing date.
 
 ---
@@ -1529,7 +1529,7 @@ Claim: The host says Baron Coleman had a viral episode about a seemingly weird r
 Transcript Snippet: Baron Coleman had a bit of a viral episode regarding a seemingly weird relationship that Erika had with a then 15-year-old girl named Jillian.
 
 Anchored Artifacts: 
-Mentions: N-3, N-332, N-2, N-569
+Mentions: N-3, N-332, N-2, N-567
 Related Nodes: N-10513
 Tags: relevance:core
 Investigative Direction: Pull Baron Coleman's episode and its view counts and compare his account with Nicey's video and Jillian's own posts.
@@ -1545,7 +1545,7 @@ Claim: The host says Baron Coleman told viewers not to reach out to Jillian, who
 Transcript Snippet: I reached out to her immediately. I don't know what's wrong with me.
 
 Anchored Artifacts: 
-Mentions: N-3, N-332, N-569
+Mentions: N-3, N-332, N-567
 Tags: relevance:core
 Investigative Direction: Obtain a signed account or call record from Jillian confirming the host's contact and what she said.
 
@@ -1575,7 +1575,7 @@ Claim: The host says the Erika and Jillian material has been circulating on soci
 Transcript Snippet: thanks to, first and foremost, a YouTuber by the name of Nicey, so full credits Nicey, and then, of course, Baron Coleman picked it up.
 
 Anchored Artifacts: A-1780.1
-Mentions: N-3, N-568, N-332
+Mentions: N-3, N-566, N-332
 Tags: relevance:context
 Investigative Direction: Find Nicey's original upload date and Coleman's episode date to establish who surfaced the material first.
 
@@ -1590,7 +1590,7 @@ Claim: In the Nicey clip the host plays, Nicey says that in 2013 Erika, then 25,
 Transcript Snippet: he was living in Michigan and Erika moved out there to be with him.
 
 Anchored Artifacts: A-1780.1
-Mentions: N-3, N-568, N-2, N-570
+Mentions: N-3, N-566, N-2, N-568
 Tags: relevance:context
 Investigative Direction: Verify Erika's 2013 residence in Michigan and the end of her Miss Arizona reign through pageant and local records.
 
@@ -1605,7 +1605,7 @@ Claim: Nicey says that on September 15, 2013 at 3:53 p.m. Jillian Falcon tweeted
 Transcript Snippet: At 3:53 p. m., Jillian tweeted that she was out for sushi with her friend and 2 hours later she tweeted
 
 Anchored Artifacts: A-1780.1, A-1781.1
-Mentions: N-568, N-569, N-570
+Mentions: N-566, N-567, N-568
 Supports: C-2378
 Tags: relevance:core
 Investigative Direction: Retrieve Jillian's original tweets with their timestamps and the sushi venue to confirm the sequence.
@@ -1621,7 +1621,7 @@ Claim: Nicey says Jillian had a friend whose grandparents were renting a home to
 Transcript Snippet: Jillian had a friend and the friend's grandparents were renting a home to Erika in Michigan.
 
 Anchored Artifacts: A-1780.1
-Mentions: N-568, N-569, N-2
+Mentions: N-566, N-567, N-2
 Qualifies: C-2379
 Tags: relevance:core
 Investigative Direction: Ask Jillian which account of the first meeting is correct and obtain Michigan rental records for the home Erika leased.
@@ -1653,7 +1653,7 @@ Claim: Nicey says that on February 13, 2014 Jillian replied to one of Erika's tw
 Transcript Snippet: On February 13th, 2014, Jillian replied to one of Erika's tweets by saying, "@EricaFrandsen, gorgeous as always."
 
 Anchored Artifacts: A-1781.2
-Mentions: N-568, N-569, N-2
+Mentions: N-566, N-567, N-2
 Tags: relevance:context
 Investigative Direction: Pull the archived tweet from Jillian's account and confirm the date and the handle used.
 
@@ -1668,7 +1668,7 @@ Claim: Nicey says Jillian tweeted on March 6, 2014, asking why Erika had just se
 Transcript Snippet: And there is a photo which says, "This Valentine's Day I am going to touch your butt."
 
 Anchored Artifacts: A-1781.3
-Mentions: N-568, N-569, N-2
+Mentions: N-566, N-567, N-2
 Supports: C-2380
 Tags: relevance:core
 Investigative Direction: Obtain the original tweet image and check whether the caption is a stock meme image and who sent it.
@@ -1684,7 +1684,7 @@ Claim: Nicey says that on April 3, 2014 Jillian tweeted a picture with the words
 Transcript Snippet: A few minutes later she tweeted that Erika just text me, #nonewfriends.
 
 Anchored Artifacts: A-1781.7
-Mentions: N-568, N-569, N-2
+Mentions: N-566, N-567, N-2
 Tags: relevance:core
 Investigative Direction: Pull the April 3, 2014 tweets and the screenshot of the exchange to confirm context and who is in the picture.
 
@@ -1699,7 +1699,7 @@ Claim: Nicey says that in February 2014, during Jillian's family trip to Puerto 
 Transcript Snippet: So, Jillian posted this photo of the beach and Erika says, "Unreal gorgeous." And then Jillian responds, "This is by far my favorite picture I took.
 
 Anchored Artifacts: A-1784.1, A-1784.2, A-1784.3
-Mentions: N-568, N-569, N-2
+Mentions: N-566, N-567, N-2
 Tags: relevance:core
 Investigative Direction: Retrieve the Instagram post and comment thread (or archive) from Jillian's account and confirm dates and authorship.
 
@@ -1714,7 +1714,7 @@ Claim: The host characterizes the '#nonewfriends' message as something Erika sen
 Transcript Snippet: message them when they posted a photo of them with a a person that's their age and said, "No new friends."
 
 Anchored Artifacts: A-1781.7
-Mentions: N-3, N-2, N-569
+Mentions: N-3, N-2, N-567
 Supports: C-10148
 Tags: relevance:core
 Investigative Direction: Ask Jillian what the April 3 photo showed and what exactly Erika's text said and when.
@@ -1730,7 +1730,7 @@ Claim: The host says Jillian tweeted in June 2014 'I haven't seen my dad over 2 
 Transcript Snippet: She tweeted this in June of 2014. I haven't seen my dad over 2 years.
 
 Anchored Artifacts: A-1781.10
-Mentions: N-3, N-569
+Mentions: N-3, N-567
 Tags: relevance:core
 Investigative Direction: Locate the original June 2014 tweet and confirm its date and wording.
 
@@ -1760,7 +1760,7 @@ Claim: The host says Jillian told her that at 15 she was blown away by an amazin
 Transcript Snippet: She said at the time as a 15-year-old, she was blown away by this amazingly beautiful, older, semi-famous person that was giving her all of this attention.
 
 Anchored Artifacts: 
-Mentions: N-3, N-569, N-2
+Mentions: N-3, N-567, N-2
 Tags: relevance:core
 Investigative Direction: Obtain Jillian's own first-person account, ideally recorded, of how she felt about the attention.
 
@@ -1775,7 +1775,7 @@ Claim: The host says her biggest gripe with Taylor Swift is that Swift harnesses
 Transcript Snippet: my biggest gripe with Taylor Swift, even though I like her music, it's because I find that she harnesses the power of that tween emotion to get business deals done.
 
 Anchored Artifacts: 
-Mentions: N-3, N-490
+Mentions: N-3, N-488
 Tags: relevance:tangential
 Investigative Direction: No case-relevant verification; record as the host's opinion of Swift's business practices.
 
@@ -1790,7 +1790,7 @@ Claim: The host says Jillian is now 27 years old, fully appreciates how weird th
 Transcript Snippet: Jillian today is now 27 years old and she fully appreciates how absolutely weird this was
 
 Anchored Artifacts: 
-Mentions: N-3, N-569, N-2
+Mentions: N-3, N-567, N-2
 Tags: relevance:core
 Investigative Direction: Confirm Jillian's birth year against the 15-years-old-in-2013 claim and obtain her statement in her own words.
 
@@ -1805,7 +1805,7 @@ Claim: The host says Jillian points out that she was with her friend when she me
 Transcript Snippet: "I was with my friend when I met her, but she never had this relationship with Cheyenne."
 
 Anchored Artifacts: 
-Mentions: N-3, N-569, N-2
+Mentions: N-3, N-567, N-2
 Tags: relevance:core
 Investigative Direction: Identify Cheyenne and ask whether she had any contact with Erika after the first meeting.
 
@@ -1820,7 +1820,7 @@ Claim: The host says Jillian told her that she and Erika never hung out in perso
 Transcript Snippet: She tells me that she and Erika actually never hung out in person beyond that first meeting.
 
 Anchored Artifacts: 
-Mentions: N-3, N-569, N-2
+Mentions: N-3, N-567, N-2
 Tags: relevance:core
 Investigative Direction: Ask Jillian for any evidence of in-person contact after September 2013 and compare against Erika's Michigan residence dates.
 
@@ -1835,7 +1835,7 @@ Claim: The host says Jillian told her Erika sent her to a photographer who was a
 Transcript Snippet: She's helping her cuz she's just so beautiful get into maybe some modeling. That's at least how she presented it to her.
 
 Anchored Artifacts: A-1781.4, A-1782.4
-Mentions: N-3, N-2, N-569
+Mentions: N-3, N-2, N-567
 Related Nodes: N-10513
 Supports: C-2382
 Tags: relevance:core
@@ -1852,7 +1852,7 @@ Claim: The host says Jillian told her Erika arranged the entire photo meeting, t
 Transcript Snippet: She says she remembers it began with an R and he was kind of shorter, chubbier
 
 Anchored Artifacts: 
-Mentions: N-3, N-569, N-2, N-572
+Mentions: N-3, N-567, N-2, N-570
 Related Nodes: N-10513
 Tags: relevance:core
 Investigative Direction: Identify the photographer from Erika's Michigan or Arizona acquaintances and obtain the session date and any images.
@@ -1868,7 +1868,7 @@ Claim: The host says that when she asked whether Erika spoke to her mother, Jill
 Transcript Snippet: I asked, "Did she have Did she speak to your mother?" She said, "No, she never spoke to my mother."
 
 Anchored Artifacts: 
-Mentions: N-3, N-569, N-2
+Mentions: N-3, N-567, N-2
 Tags: relevance:core
 Investigative Direction: Ask Jillian's mother whether she knew of Erika or the photo session.
 
@@ -1932,7 +1932,7 @@ Claim: The host says Tracy Martin, Erika's best friend, has been involved in cha
 Transcript Snippet: Tracy Martin, Erika's best friend, she's also has been involved in charity work for trafficking victims uh via Dream City Church, which we mentioned to you.
 
 Anchored Artifacts: 
-Mentions: N-3, N-549, N-2
+Mentions: N-3, N-547, N-2
 Related Nodes: N-10487
 Tags: relevance:core
 Investigative Direction: Locate Tracy Martin's role in Dream City Church or Phoenix Dream Center in program records or filings.
@@ -1964,7 +1964,7 @@ Claim: The host says that Stacy Sheridan, whom she describes as playing the role
 Transcript Snippet: I can't find a trace of her actually at Pepperdine University aside from her resume where she says she worked there for 8 years, but in Kenneth Starr's office.
 
 Anchored Artifacts: A-3061.1
-Mentions: N-3, N-188, N-862, N-9
+Mentions: N-3, N-188, N-860, N-9
 Related Nodes: N-11252
 Tags: relevance:core
 Investigative Direction: Obtain the resume, request Pepperdine employment confirmation, and check Starr's office staff lists for the period.
@@ -1980,7 +1980,7 @@ Claim: The host says that for almost a decade Stacy Sheridan worked for Kenneth 
 Transcript Snippet: for almost a decade, she worked for Kenneth Starr at the exact same time that he was working with Jeffrey Epstein.
 
 Anchored Artifacts: A-3061.1
-Mentions: N-3, N-188, N-862, N-9
+Mentions: N-3, N-188, N-860, N-9
 Related Nodes: N-11252
 Tags: relevance:core
 Investigative Direction: Document Starr's work for Epstein with dates and overlay it on Sheridan's claimed employment years.
@@ -1996,7 +1996,7 @@ Claim: The host says Stacy Sheridan is not Erika's real mom and that Lori is Eri
 Transcript Snippet: But Stacy Sheridan is not Erika's real mom. Lori is Erika's real mother.
 
 Anchored Artifacts: 
-Mentions: N-3, N-188, N-493, N-2
+Mentions: N-3, N-188, N-491, N-2
 Tags: relevance:core
 Investigative Direction: Check birth, family or probate records and Erika's own statements on her mother and Sheridan's relationship to her.
 
@@ -2011,7 +2011,7 @@ Claim: The host says she mentioned previously that Lori Frantzve was running a c
 Transcript Snippet: We had mentioned to you this Desert Spirit Tech company that she was running Lori was running on a Native American reservation
 
 Anchored Artifacts: 
-Mentions: N-3, N-493
+Mentions: N-3, N-491
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Pull Desert Spirit Tech's corporate filing and identify the reservation and registered address.
@@ -2075,7 +2075,7 @@ Claim: The host says the reason Jillian is speaking to her is that Jillian is as
 Transcript Snippet: The reason Jillian is speaking to me is because she's asking people to stop messaging her.
 
 Anchored Artifacts: 
-Mentions: N-3, N-569
+Mentions: N-3, N-567
 Tags: relevance:context
 Investigative Direction: Confirm with Jillian that she asked followers to stop contacting her.
 
@@ -2121,7 +2121,7 @@ Claim: The host says the team is trying to figure out who the photographer was t
 Transcript Snippet: We're trying to figure out who this um photographer was that took photographs of her.
 
 Anchored Artifacts: 
-Mentions: N-3, N-569, N-572
+Mentions: N-3, N-567, N-570
 Related Nodes: N-10513
 Tags: relevance:core
 Investigative Direction: Watch for the host's follow-up identifying the photographer and test it against Jillian's account.
@@ -2495,7 +2495,7 @@ Claim: In the House Oversight clip, Rep. Moskowitz says it has been 12 months si
 Transcript Snippet: You said the list was on your desk, and a memo came out and said that there was no list.
 
 Anchored Artifacts: A-1790.1
-Mentions: N-571, N-85
+Mentions: N-569, N-85
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Obtain the hearing video, the July 2025 DOJ memo and Bondi's earlier statements.
@@ -2511,7 +2511,7 @@ Claim: Moskowitz says the president says the Epstein thing is a hoax, blasts his
 Transcript Snippet: The president of the United States says the Epstein thing is a hoax. He blasts his own base for wanting the release of the files. He blamed Barack Obama.
 
 Anchored Artifacts: A-1790.1
-Mentions: N-571, N-5
+Mentions: N-569, N-5
 Related Nodes: N-10324
 Supports: C-6650
 Tags: relevance:context
@@ -2528,7 +2528,7 @@ Claim: Moskowitz says the Deputy Attorney General was sent to meet with Ghislain
 Transcript Snippet: They sent the Deputy Attorney General to meet with Maxwell. She said something favorable about the president. Miraculously, she gets transferred to a minimum security facility.
 
 Anchored Artifacts: A-1790.1
-Mentions: N-571, N-47
+Mentions: N-569, N-47
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Check Bureau of Prisons transfer records and the Maxwell interview transcript date.
@@ -2544,7 +2544,7 @@ Claim: Moskowitz says that, to stop the 218 signatures on the Massie discharge p
 Transcript Snippet: Trying to stop the necessary 218 signatures, according to Republican members that signed it, the White House brought them into the situation room.
 
 Anchored Artifacts: A-1790.1
-Mentions: N-571, N-585
+Mentions: N-569, N-583
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Identify the members who described the Situation Room meeting and their on-record accounts.
@@ -2560,7 +2560,7 @@ Claim: Moskowitz says the administration was forced by Congress, with every Hous
 Transcript Snippet: The reason the president signed it is because it was a veto-proof majority.
 
 Anchored Artifacts: A-1790.1
-Mentions: N-571, N-5
+Mentions: N-569, N-5
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Check the vote tallies for the Epstein Files Transparency Act in each chamber.
@@ -2576,7 +2576,7 @@ Claim: Moskowitz says Kash Patel, under oath and in a letter to Senator Kennedy,
 Transcript Snippet: Kash Patel under oath said sent to Senator Kennedy, "The FBI is not in possession of any credible evidence that Epstein trafficked girls to anyone but himself."
 
 Anchored Artifacts: A-1790.1
-Mentions: N-571, N-69
+Mentions: N-569, N-69
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Pull Patel's letter and sworn statement to Sen. Kennedy.
@@ -2592,7 +2592,7 @@ Claim: Moskowitz says the documents show Epstein had a worldwide sex trafficking
 Transcript Snippet: He even had a relationship with a summer camp where he groomed girls at a picnic table.
 
 Anchored Artifacts: A-1790.1
-Mentions: N-571, N-9
+Mentions: N-569, N-9
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Cite the specific released documents for each element.
@@ -2608,7 +2608,7 @@ Claim: Moskowitz says Ghislaine Maxwell says 29 Epstein associates cut secret DO
 Transcript Snippet: Ghislaine Maxwell says 29 Epstein associates cut secret DOJ deals.
 
 Anchored Artifacts: A-1790.1
-Mentions: N-571, N-47
+Mentions: N-569, N-47
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Identify the source for Maxwell's claim and any DOJ confirmation.
@@ -2624,7 +2624,7 @@ Claim: Moskowitz says there is a list with six names readily available if unreda
 Transcript Snippet: Turns out there is a list. Six names readily available if you unredact them.
 
 Anchored Artifacts: A-1790.1
-Mentions: N-571, N-47
+Mentions: N-569, N-47
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Check the redaction logs and Maxwell's Oversight appearance for the clemency statement.
@@ -2640,7 +2640,7 @@ Claim: Moskowitz says Kash Patel under oath said Trump's name appears fewer than
 Transcript Snippet: Kash Patel under oath said Trump's name appears less than 100 times in the files. We now know that's not true.
 
 Anchored Artifacts: A-1790.1
-Mentions: N-571, N-69, N-5
+Mentions: N-569, N-69, N-5
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Count occurrences of the president's name in the released files and compare with Patel's testimony.
@@ -2656,7 +2656,7 @@ Claim: Moskowitz says Howard Lutnick said that in 2008 he went to Epstein's home
 Transcript Snippet: Lutnick says that in 2008 he went to Epstein's home. Says he had a massage table in the living room.
 
 Anchored Artifacts: A-1790.1
-Mentions: N-571, N-167
+Mentions: N-569, N-167
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Find Lutnick's own account of the 2008 visit and compare.
@@ -2672,7 +2672,7 @@ Claim: Moskowitz quotes Howard as saying 'I'm sure the Epstein stuff is all on v
 Transcript Snippet: Howard then says, "I'm sure the Epstein stuff is all on video. He was the greatest blackmailer of all time."
 
 Anchored Artifacts: A-1790.1
-Mentions: N-571, N-167
+Mentions: N-569, N-167
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Identify the source document or interview for the quote and the speaker.
@@ -2688,7 +2688,7 @@ Claim: Moskowitz says that in 2012, after Epstein pled guilty to state charges, 
 Transcript Snippet: in 2012 we find out that he and his family are on Epstein Island after after after Epstein pled guilty to state charges.
 
 Anchored Artifacts: A-1790.1
-Mentions: N-571, N-167, N-9
+Mentions: N-569, N-167, N-9
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Find the document placing the Lutnick family on the island in 2012.
@@ -2704,7 +2704,7 @@ Claim: Moskowitz says documents in the files dispute the president's claim that 
 Transcript Snippet: There are documents in the files that dispute the president's claim that he kicked Epstein out of his club.
 
 Anchored Artifacts: A-1790.1
-Mentions: N-571, N-5, N-9
+Mentions: N-569, N-5, N-9
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Retrieve the club manager statements and compare with the president's account.
@@ -2720,7 +2720,7 @@ Claim: In the clip, Pam Bondi responds to Moskowitz that nothing is funny about 
 Transcript Snippet: So, first of all, nothing is funny about mocking the Bible and holding up a Trump Bible. That's what you did. You made a joke, and I find it offensive.
 
 Anchored Artifacts: A-3063.1
-Mentions: N-85, N-571
+Mentions: N-85, N-569
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Obtain the hearing video and transcript for Bondi's exact response.
@@ -2736,7 +2736,7 @@ Claim: The host says that, contrary to Bondi's rebuke, Moskowitz did not mock th
 Transcript Snippet: Actually, he did not mock the Bible in any way.
 
 Anchored Artifacts: A-3063.1
-Mentions: N-3, N-571, N-85
+Mentions: N-3, N-569, N-85
 Related Nodes: N-10324
 Contradicts: C-10213
 Tags: relevance:context
@@ -2753,7 +2753,7 @@ Claim: In the clip, Pam Bondi says Epstein has been around since the Obama admin
 Transcript Snippet: And none of them None of them asked Merrick Garland over the last 4 years one word about Jeffrey Epstein.
 
 Anchored Artifacts: A-1791.1
-Mentions: N-85, N-863, N-9
+Mentions: N-85, N-861, N-9
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Check Garland-era oversight hearings for questions on Epstein.

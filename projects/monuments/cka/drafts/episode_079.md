@@ -16,8 +16,8 @@
   - Tip-minted Nodes (reintro-ep079): N-11145
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11235–C-11294
-  - New Nodes Introduced: N-595, N-598, N-10542
-  - Reused Nodes Appearing: N-101, N-5, N-381, N-10539, N-10540, N-597, N-599, N-10541, N-10543, N-2, N-4, N-9, N-37, N-40, N-46, N-180, N-206, N-246, N-270, N-394, N-524, N-10000, N-10082, N-10083, N-10132, N-10236, N-10237, N-10268, N-10386, N-10391, N-10406, N-10900, N-10962, N-11064, N-11096, N-11103, N-11128, N-11228, N-596, N-11057, N-10674
+  - New Nodes Introduced: N-593, N-596, N-10542
+  - Reused Nodes Appearing: N-101, N-5, N-379, N-10539, N-10540, N-595, N-597, N-10541, N-10543, N-2, N-4, N-9, N-37, N-40, N-46, N-180, N-206, N-246, N-270, N-392, N-522, N-10000, N-10082, N-10083, N-10132, N-10236, N-10237, N-10268, N-10386, N-10391, N-10406, N-10900, N-10962, N-11064, N-11096, N-11103, N-11128, N-11228, N-594, N-11057, N-10674
   - (see registers)
 
 ## 6. Meme Register
@@ -231,7 +231,7 @@ Video Timestamp: 00:21:32–00:21:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2478, N-1, N-3, N-595*
+*Related: C-2478, N-1, N-3, N-593*
 
 ---
 
@@ -245,7 +245,7 @@ Video Timestamp: 00:10:32–00:13:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads full exchange)
 
-*Related: C-2479, C-2480, N-1, N-596, N-5, N-10539*
+*Related: C-2479, C-2480, N-1, N-594, N-5, N-10539*
 
 ---
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:20:00–00:20:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads verbatim)
 
-*Related: C-2482, N-595, N-3*
+*Related: C-2482, N-593, N-3*
 
 ---
 
@@ -315,7 +315,7 @@ Video Timestamp: 00:24:34–00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2485, N-597, N-5, N-10541*
+*Related: C-2485, N-595, N-5, N-10541*
 
 ---
 
@@ -417,7 +417,7 @@ Video Timestamp: 00:27:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-598, N-10541*
+*Related: C-2488, N-596, N-10541*
 
 **A-1855.8** Statement attributed to Spain: "Spain will never accept any stopgap measures because the objective must be for the war to end and for it to end now."
 
@@ -447,7 +447,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-381, N-10541*
+*Related: C-2488, N-379, N-10541*
 
 ---
 
@@ -461,7 +461,7 @@ Video Timestamp: 00:36:50–00:40:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads her own piece verbatim)
 
-*Related: C-2493, N-3, N-599, N-10543*
+*Related: C-2493, N-3, N-597, N-10543*
 
 ---
 
@@ -671,7 +671,7 @@ Investigative Pressure: High
 
 ---
 
-**N-595** Meghan McCain
+**N-593** Meghan McCain
 
 Author of X post A-1849.1 and subject of Charlie Kirk text A-1846.3.
 
@@ -684,7 +684,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-596** Bret Weinstein
+**N-594** Bret Weinstein
 
 Co-party to text exchange A-1847.1 with Charlie Kirk regarding Iran war.
 
@@ -736,7 +736,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-597** Pete Hegseth
+**N-595** Pete Hegseth
 
 Speaker in audio clip A-1852.1 regarding Strait of Hormuz.
 
@@ -762,7 +762,7 @@ Investigative Pressure: High
 
 ---
 
-**N-598** Georgia Meloni
+**N-596** Georgia Meloni
 
 Speaker attributed with statement (A-1855.7) criticizing US-Israeli war as outside international law.
 
@@ -775,7 +775,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-381** Emmanuel Macron
+**N-379** Emmanuel Macron
 
 Speaker attributed with statement (A-1855.10) regarding French navy escort.
 
@@ -788,7 +788,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-599** Jordan Peterson
+**N-597** Jordan Peterson
 
 Quoted by host in article A-1856.1.
 
@@ -823,7 +823,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1847.1, C-2479, C-2480, N-1, N-596, N-5*
+*Related: A-1847.1, C-2479, C-2480, N-1, N-594, N-5*
 
 ---
 
@@ -975,7 +975,7 @@ Podcaster the host says she ties in rankings.
 
 ---
 
-**N-394** Andrew Breitbart
+**N-392** Andrew Breitbart
 
 Late publisher whose legacy the host says Shapiro tried to recreate.
 
@@ -983,7 +983,7 @@ Late publisher whose legacy the host says Shapiro tried to recreate.
 
 ---
 
-**N-524** Rothschild Family
+**N-522** Rothschild Family
 
 Family the host asserts created Israel and Macron.
 
@@ -1216,7 +1216,7 @@ Claim Timestamp: 00:21:32–00:21:48
 Claim: Charlie Kirk privately texted Candace Owens that the McCains were "a disgraceful family for the ways in which they have betrayed Americans and allowed for mass murder and bloody wars overseas."
 
 Anchored Artifacts: A-1846.3
-Mentions: N-1, N-3, N-595
+Mentions: N-1, N-3, N-593
 
 Related Nodes:
 
@@ -1231,7 +1231,7 @@ Claim Timestamp: 00:10:32–00:13:29
 Claim: Per a statement by Bret Weinstein that the host reads, Weinstein says that in a June 18 text exchange Charlie Kirk told him he was "spending two full days at the White House trying to persuade President Trump not to initiate a war with Iran," and that he was "in the White House all day fighting for America."
 
 Anchored Artifacts: A-1847.1
-Mentions: N-1, N-5, N-596
+Mentions: N-1, N-5, N-594
 
 Related Nodes: N-10539
 
@@ -1246,7 +1246,7 @@ Claim Timestamp: 00:11:38–00:12:38
 Claim: In the June 18 text exchange with Bret Weinstein, Charlie Kirk wrote "We have to shut these maniacs down" regarding neocons advocating war with Iran.
 
 Anchored Artifacts: A-1847.1
-Mentions: N-1, N-596
+Mentions: N-1, N-594
 
 Related Nodes: N-10539
 
@@ -1276,7 +1276,7 @@ Claim Timestamp: 00:20:00–00:20:51
 Claim: Meghan McCain posted on X: "Stop sharing dead people's text messages, you absolute psychopaths."
 
 Anchored Artifacts: A-1849.1
-Mentions: N-3, N-595
+Mentions: N-3, N-593
 
 
 Investigative Direction: Direct retrieval of the original X post via archive.
@@ -1319,7 +1319,7 @@ Claim Timestamp: 00:24:34–00:25:35
 Claim: Pete Hegseth stated in a press exchange: "The only thing prohibiting transit in the straits right now is Iran shooting at shipping. It is open for transit should Iran not do that."
 
 Anchored Artifacts: A-1852.1
-Mentions: N-5, N-597
+Mentions: N-5, N-595
 
 Related Nodes: N-10541
 
@@ -1364,7 +1364,7 @@ Claim Timestamp: 00:26:19–00:28:13
 Claim: Multiple allied-nation statements, as read by the host, decline or condition participation in US-led Strait of Hormuz escort operations. Italy's Meloni described the war as outside international law; France conditioned participation on stabilization.
 
 Anchored Artifacts: A-1855.1, A-1855.2, A-1855.3, A-1855.4, A-1855.5, A-1855.6, A-1855.7, A-1855.8, A-1855.9, A-1855.10
-Mentions: N-5, N-381, N-598
+Mentions: N-5, N-379, N-596
 
 Related Nodes: N-10541
 
@@ -1439,7 +1439,7 @@ Claim Timestamp: 00:36:50–00:40:07
 Claim: Candace Owens published an article (read aloud in this episode) quoting Jordan Peterson ("you cannot twist the fabric of reality without it snapping back") and arguing Zionists are "their own worst enemy" pursuing a "fake it till you make it" war strategy.
 
 Anchored Artifacts: A-1856.1
-Mentions: N-3, N-599
+Mentions: N-3, N-597
 
 Related Nodes:
 
@@ -1667,7 +1667,7 @@ Claim: The host says that in June, before he died, Charlie Kirk went toe-to-toe 
 Transcript Snippet: back when Charlie went toe-to-toe with Bibi Netanyahu and won.
 
 Anchored Artifacts: A-1847.1
-Mentions: N-1, N-36, N-5, N-596
+Mentions: N-1, N-36, N-5, N-594
 Related Nodes: N-10539, N-10674
 Supports: C-2479
 Tags: relevance:core
@@ -1684,7 +1684,7 @@ Claim: The host reads Bret Weinstein saying that, given Kirk's closeness to Trum
 Transcript Snippet: it is reasonable to wonder if his refusal to back down from his steadfast opposition somehow resulted in his murder.
 
 Anchored Artifacts: A-1847.1
-Mentions: N-596, N-1, N-5
+Mentions: N-594, N-1, N-5
 Related Nodes: N-10539, N-11128
 Tags: relevance:core
 Investigative Direction: Obtain Weinstein's original post and date; ask him what basis exists beyond the timing of Kirk's opposition.
@@ -1700,7 +1700,7 @@ Claim: The host reads Weinstein saying that a good investigation could have sett
 Transcript Snippet: A good investigation could have settled the matter. What we got only increases the reason for concern.
 
 Anchored Artifacts: A-1847.1
-Mentions: N-596, N-1
+Mentions: N-594, N-1
 Related Nodes: N-10539
 Tags: relevance:core
 Investigative Direction: Obtain Weinstein's full post and identify which investigative product he judges inadequate.
@@ -1716,7 +1716,7 @@ Claim: The host reads Weinstein saying Kirk was in a strong position to keep the
 Transcript Snippet: the timing of his death removed him from the equation and likely changed the course of history.
 
 Anchored Artifacts: A-1847.1
-Mentions: N-596, N-1
+Mentions: N-594, N-1
 Related Nodes: N-10539
 Tags: relevance:core
 Investigative Direction: Find Kirk's recorded or texted worries about his own safety and about the Iran decision to test Weinstein's final phrase.
@@ -1732,7 +1732,7 @@ Claim: The host reads Kirk's reply to Weinstein theorizing that dissident media 
 Transcript Snippet: driving real-time mass public opinion yet. The neocons are.
 
 Anchored Artifacts: A-1847.1
-Mentions: N-1, N-596
+Mentions: N-1, N-594
 Related Nodes: N-10539
 Tags: relevance:context
 Investigative Direction: Verify the full June 18 thread, which the host says she reads in part.
@@ -1780,7 +1780,7 @@ Claim: The host says Ben Shapiro was trying to take Andrew Breitbart's legacy an
 Transcript Snippet: Ben Shapiro was trying to take Andrew Breitbart's legacy and recreate it by manufacturing a scandal with The Daily Wire.
 
 Anchored Artifacts: 
-Mentions: N-97, N-394, N-1, N-3
+Mentions: N-97, N-392, N-1, N-3
 Related Nodes: N-10900, N-10391
 Tags: relevance:context
 Investigative Direction: Ask the host what scandal she means and compare with the Daily Wire founding narrative.
@@ -1895,7 +1895,7 @@ Claim: The host says the Kirk text about Meghan McCain is real, and that she sho
 Transcript Snippet: Yes, it's real. And I actually shortened it.
 
 Anchored Artifacts: A-1846.3
-Mentions: N-3, N-595, N-1
+Mentions: N-3, N-593, N-1
 Related Nodes: N-10543
 Supports: C-2478
 Tags: relevance:context
@@ -2009,7 +2009,7 @@ Claim: The host says Macron is saying what the Rothschilds told him to say becau
 Transcript Snippet: the Rothschilds are Israel, they created Israel, and they created Emmanuel Macron.
 
 Anchored Artifacts: 
-Mentions: N-381, N-524, N-3
+Mentions: N-379, N-522, N-3
 Tags: relevance:tangential
 Investigative Direction: No primary record offered; ask the host for any document linking the Rothschild family to Macron's career or to Israel's founding.
 
@@ -2122,7 +2122,7 @@ Claim: The host reads her article saying that over three years Zionists purchase
 Transcript Snippet: They have purchased views, influencers and journalists. They have activated millions of online bots.
 
 Anchored Artifacts: A-1856.1
-Mentions: N-3, N-599
+Mentions: N-3, N-597
 Related Nodes: N-11294
 Tags: relevance:context
 Investigative Direction: Ask the host for the studies or documents behind the 'millions of bots' figure.

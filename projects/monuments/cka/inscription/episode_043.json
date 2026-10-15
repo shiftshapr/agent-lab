@@ -365,8 +365,8 @@
           "related_nodes": [
             "N-222",
             "N-269",
-            "N-917",
-            "N-393"
+            "N-915",
+            "N-391"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1134,8 +1134,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-393",
-      "ref": "N-393",
+      "@id": "N-391",
+      "ref": "N-391",
       "name": "Steve Bannon",
       "type": "person",
       "description": "Cited by Milo as saying Epstein was the key that picks the lock.",
@@ -1298,8 +1298,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-917",
-      "ref": "N-917",
+      "@id": "N-915",
+      "ref": "N-915",
       "name": "George Santos",
       "type": "person",
       "description": "First named by the host at 00:25:22 in episode 43. Former congressman who appears in the Tim Pool clip.",
@@ -2315,7 +2315,7 @@
       "transcript_snippet": "said who would know better as it turns out. He said that uh Epstein was the key that uh picks the lock, right?",
       "mentions_person_refs": [
         "N-222",
-        "N-393",
+        "N-391",
         "N-9",
         "N-269"
       ]

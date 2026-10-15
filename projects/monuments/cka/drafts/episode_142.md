@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 8fa969dba43042db5893cc29c3f2e01cf24703d976572f4015d20142f83e6dab
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-833, N-835, N-836, N-837, N-838, N-839, N-11212
+  - Tip-minted Nodes (supplement_2026-10c): N-831, N-833, N-834, N-835, N-836, N-837, N-11212
   - Claim Range (supplement_2026-10c): C-9154–C-9210
   - New Nodes Introduced: N-10798, N-10800, N-10802, N-10803, N-10807
-  - Reused Nodes Appearing: N-10162, N-18, N-14, N-22, N-263, N-10797, N-10799, N-10801, N-10804, N-10805, N-1, N-30, N-69, N-130, N-161, N-211, N-226, N-239, N-261, N-268, N-332, N-706, N-10000, N-10012, N-10014, N-10100, N-10202, N-10340, N-10346, N-10355, N-10611, N-10625, N-10651, N-10795, N-10796, N-10808, N-10810, N-10991, N-10998, N-11066, N-10806, N-11211, N-834
-  - Hole-minted Nodes (wave3): N-573
+  - Reused Nodes Appearing: N-10162, N-18, N-14, N-22, N-263, N-10797, N-10799, N-10801, N-10804, N-10805, N-1, N-30, N-69, N-130, N-161, N-211, N-226, N-239, N-261, N-268, N-332, N-704, N-10000, N-10012, N-10014, N-10100, N-10202, N-10340, N-10346, N-10355, N-10611, N-10625, N-10651, N-10795, N-10796, N-10808, N-10810, N-10991, N-10998, N-11066, N-10806, N-11211, N-832
+  - Hole-minted Nodes (wave3): N-571
   - (see registers)
 
 ## 6. Meme Register
@@ -457,7 +457,7 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
-**N-573** David Hull
+**N-571** David Hull
 
 First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.
 
@@ -759,7 +759,7 @@ Baron Coleman; named among independent investigators.
 
 ---
 
-**N-706** Robert Golow
+**N-704** Robert Golow
 
 Robert Golow; operator of the front-left camera per the host.
 
@@ -919,7 +919,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-833** Jordan Wilson
+**N-831** Jordan Wilson
 
 First named by the host at 00:08:20 in episode 142. Camera operator the host says ran the blue-circled camera at the UVU event.
 
@@ -927,7 +927,7 @@ First named by the host at 00:08:20 in episode 142. Camera operator the host say
 
 ---
 
-**N-834** Kathy Nester
+**N-832** Kathy Nester
 
 First named in this episode by the host at 00:24:49 (transcribed Kathy Netor). Defense attorney in the Tyler Robinson case, as recorded in episode 94.
 Aliases: Kathy Netor
@@ -936,7 +936,7 @@ Aliases: Kathy Netor
 
 ---
 
-**N-835** John Kiriakou
+**N-833** John Kiriakou
 
 First named by the host at 00:31:29 in episode 142 (transcribed Kirao, Kuraku). Former CIA officer and whistleblower shown on the Danny Jones podcast.
 Aliases: Kirao; Kuraku
@@ -945,7 +945,7 @@ Aliases: Kirao; Kuraku
 
 ---
 
-**N-836** Danny Jones
+**N-834** Danny Jones
 
 First named by the host at 00:31:29 in episode 142. Podcast host on whose show Kirraou questions the FBI role.
 
@@ -953,7 +953,7 @@ First named by the host at 00:31:29 in episode 142. Podcast host on whose show K
 
 ---
 
-**N-837** Mark Normand
+**N-835** Mark Normand
 
 First named by the host at 00:34:33 in episode 142. Comedian the host names as a Rogan guest.
 
@@ -961,7 +961,7 @@ First named by the host at 00:34:33 in episode 142. Comedian the host names as a
 
 ---
 
-**N-838** Shane Gillis
+**N-836** Shane Gillis
 
 First named by the host at 00:34:33 in episode 142. Comedian the host names as a Rogan guest.
 
@@ -969,7 +969,7 @@ First named by the host at 00:34:33 in episode 142. Comedian the host names as a
 
 ---
 
-**N-839** Ari Shaffir
+**N-837** Ari Shaffir
 
 First named by the host at 00:34:33 in episode 142 (spelled Ari Schaefer in the transcript). Comedian the host names as a Rogan guest.
 
@@ -1034,7 +1034,7 @@ Claim Timestamp: 00:12:35
 Claim: SBI Agent David Hull testified that Farnsworth originally provided a flash drive to Lieutenant O'Brien, then downloadable Google links to Agent Mortonson on September 10, with the 1102 collected later on May 6, 2026 – not the SD cards.
 
 Anchored Artifacts: A-2285.1
-Mentions: N-573
+Mentions: N-571
 
 Related Nodes: N-10798
 
@@ -1342,7 +1342,7 @@ Claim: The host, pointing to a diagram of the three static cameras, says the cam
 Transcript Snippet: Now, we have one to the front left side of Charlie that is being operated by Robert Golo.
 
 Anchored Artifacts: A-2992.1
-Mentions: N-706
+Mentions: N-704
 Related Nodes: N-10991, N-10998
 Tags: relevance:core
 Investigative Direction: Confirm camera operator assignments with Visual Impulse crew records or with Golow directly.
@@ -1358,7 +1358,7 @@ Claim: The host says the camera circled in blue on her diagram, which she judges
 Transcript Snippet: Right? That's the one that was being operated by uh Jordan Wilson. In other words, if I were trying to gather evidence very quickly within minutes of Charlie Kirk being shot, I'd go blue.
 
 Anchored Artifacts: A-2992.1
-Mentions: N-1, N-833
+Mentions: N-1, N-831
 Related Nodes: N-10991, N-10799
 Tags: relevance:core
 Investigative Direction: Confirm Jordan Wilson's role and camera position, and whether that camera's footage was among the four videos sent to SBI.
@@ -1408,7 +1408,7 @@ Claim: The host infers from Agent Hull's testimony that Farnsworth inserted the 
 Transcript Snippet: This means that Terl inserted that SD card into a computer and then copied the footage onto a flash drive and similarly created Google links.
 
 Anchored Artifacts: A-2285.1
-Mentions: N-263, N-573
+Mentions: N-263, N-571
 Related Nodes: N-10808, N-10810
 Supports: C-3292
 Tags: relevance:core
@@ -1660,7 +1660,7 @@ Claim: The host says defense attorney Kathy Nester (transcribed Netor) asked que
 Transcript Snippet: The questions that Kathy Netor asked thereafter um things that she asserted about they don't know whether or not that footage was edited.
 
 Anchored Artifacts: 
-Mentions: N-263, N-834
+Mentions: N-263, N-832
 Related Nodes: N-10810
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary-hearing transcript for Nester's questions about editing of the Visual Impulse footage.
@@ -1741,7 +1741,7 @@ Claim: In the Danny Jones podcast clip, John Kirraou (transcribed Kirao, Kuraku)
 Transcript Snippet: So, Kash Patel was asked this early on and he said, "We're just offering the FBI's expertise to the Utah State Police."
 
 Anchored Artifacts: A-2289.1
-Mentions: N-835, N-836, N-69
+Mentions: N-833, N-834, N-69
 Related Nodes: N-10802, N-10202
 Supports: C-3297
 Tags: relevance:core
@@ -1758,7 +1758,7 @@ Claim: In the clip, Kirraou says offering expertise would mean sending items by 
 Transcript Snippet: You don't have the FBI director fly out there with a with a plane load of FBI agents. It's not a federal case.
 
 Anchored Artifacts: A-2289.1
-Mentions: N-835, N-69
+Mentions: N-833, N-69
 Related Nodes: N-10802, N-10202
 Tags: relevance:core
 Investigative Direction: Obtain Patel's travel records and the number of FBI personnel deployed to Utah in September 2025.
@@ -1823,7 +1823,7 @@ Claim: The host says the case has gone mainstream and been discussed on Shawn Ry
 Transcript Snippet: whether that's Shawn Ryan or more recently Joe Rogan who had a laugh alongside his guests Mark Normand, Shane Gillis and Ari Schaefer
 
 Anchored Artifacts: A-2290.1
-Mentions: N-226, N-270, N-837, N-838, N-839, N-40, N-2
+Mentions: N-226, N-270, N-835, N-836, N-837, N-40, N-2
 Tags: relevance:context
 Investigative Direction: Identify the Rogan episode number and date and verify its guest list.
 

@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-11095
   - Claim Range (supplement_2026-10): C-6351–C-6448
-  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-192, N-273, N-219, N-441, N-268, N-7, N-500, N-272, N-539, N-381, N-161, N-10033, N-10056, N-10324, N-10388, N-10839, N-10859, N-10860, N-10863, N-10864, N-10866, N-10868, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-131, N-152, N-162, N-10870, N-10871, N-16, N-47, N-48, N-89, N-95, N-99, N-285, N-367, N-382, N-423, N-437, N-497, N-533, N-574, N-671, N-10002, N-10012, N-10016, N-10018, N-10036, N-10070, N-10075, N-10132, N-10134, N-10194, N-10211, N-10253, N-10276, N-10347, N-10366, N-10412, N-10434, N-10443, N-10446, N-10519, N-10524, N-10539, N-10571, N-10664, N-10668, N-10670, N-10674, N-10795, N-10865, N-10867, N-10900, N-10925, N-10927, N-11076, N-10869, N-11092, N-154, N-10872, N-10873, N-11094, N-11093
+  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-192, N-273, N-219, N-439, N-268, N-7, N-498, N-272, N-537, N-379, N-161, N-10033, N-10056, N-10324, N-10388, N-10839, N-10859, N-10860, N-10863, N-10864, N-10866, N-10868, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-131, N-152, N-162, N-10870, N-10871, N-16, N-47, N-48, N-89, N-95, N-99, N-285, N-366, N-380, N-421, N-435, N-495, N-531, N-572, N-669, N-10002, N-10012, N-10016, N-10018, N-10036, N-10070, N-10075, N-10132, N-10134, N-10194, N-10211, N-10253, N-10276, N-10347, N-10366, N-10412, N-10434, N-10443, N-10446, N-10519, N-10524, N-10539, N-10571, N-10664, N-10668, N-10670, N-10674, N-10795, N-10865, N-10867, N-10900, N-10925, N-10927, N-11076, N-10869, N-11092, N-154, N-10872, N-10873, N-11094, N-11093
   - Hole-minted Nodes (remap-ep159): N-127, N-153, N-160
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dillon stays N-279 and N-279. Karoline Leavitt stays N-282. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.
@@ -359,7 +359,7 @@ Video Timestamp: 00:29:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (as attributed to NYT); verify against primary article/book
 
-*Related: C-3612, N-10871, N-10324, N-4, N-69, N-85, N-539, N-29*
+*Related: C-3612, N-10871, N-10324, N-4, N-69, N-85, N-537, N-29*
 
 ---
 
@@ -653,7 +653,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-381*
+*Related: C-3611, N-379*
 
 ---
 
@@ -688,7 +688,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3616, N-441, N-18*
+*Related: C-3616, N-439, N-18*
 
 ---
 
@@ -740,7 +740,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-441** Johnny Moore
+**N-439** Johnny Moore
 
 Takes chair of Gaza Humanitarian Aid Project June 3; host ties to Kolvet/Chyros partnership.
 
@@ -776,7 +776,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-500** Doug DeGroot
+**N-498** Doug DeGroot
 
 Opening callback: board-member claim that media pressure forced rapid Erika CEO naming.
 
@@ -800,7 +800,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-539** Todd Blanche
+**N-537** Todd Blanche
 
 Named Epstein situation-room attendee; host revisits “files are mostly child pornography” DOJ posture.
 
@@ -812,7 +812,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-381** Emmanuel Macron
+**N-379** Emmanuel Macron
 
 Feb 24 White House ask that Candace stop Brigitte coverage (via Charlie).
 
@@ -1305,7 +1305,7 @@ Named as the reporter whose work the host's Epstein series is built on (transcri
 
 ---
 
-**N-367** Cabot Phillips
+**N-366** Cabot Phillips
 
 Daily Wire figure who asked on August 14 to speak at UVU (transcribed Kabat Phillips).
 
@@ -1313,7 +1313,7 @@ Daily Wire figure who asked on August 14 to speak at UVU (transcribed Kabat Phil
 
 ---
 
-**N-382** Dan Bongino
+**N-380** Dan Bongino
 
 Named with Kash Patel as announcing the Brian Cole Jr. arrest (transcribed Dan Bonino).
 
@@ -1321,7 +1321,7 @@ Named with Kash Patel as announcing the Brian Cole Jr. arrest (transcribed Dan B
 
 ---
 
-**N-423** Monica Lewinsky
+**N-421** Monica Lewinsky
 
 Named in the host's account of the Mega mole story.
 
@@ -1329,7 +1329,7 @@ Named in the host's account of the Mega mole story.
 
 ---
 
-**N-437** Bradley Hansell
+**N-435** Bradley Hansell
 
 Named in the timeline for his June 22 Senate confirmation.
 
@@ -1337,7 +1337,7 @@ Named in the timeline for his June 22 Senate confirmation.
 
 ---
 
-**N-497** Marina (TPUSA CMO)
+**N-495** Marina (TPUSA CMO)
 
 TPUSA CMO named as involved in organizing the August 14 photo shoot.
 
@@ -1345,7 +1345,7 @@ TPUSA CMO named as involved in organizing the August 14 photo shoot.
 
 ---
 
-**N-533** Jean-Luc Brunel
+**N-531** Jean-Luc Brunel
 
 Named by the host as the founder of the modeling-apartments company.
 
@@ -1353,7 +1353,7 @@ Named by the host as the founder of the modeling-apartments company.
 
 ---
 
-**N-574** Faith Kates
+**N-572** Faith Kates
 
 Named by the host in connection with the modeling group tied to Brunel.
 
@@ -1361,7 +1361,7 @@ Named by the host in connection with the modeling group tied to Brunel.
 
 ---
 
-**N-671** James Kaddis
+**N-669** James Kaddis
 
 Pastor whose Calvary Chapel hosted Erika's July 14 speech (transcribed James Catis).
 
@@ -1687,7 +1687,7 @@ Claim Timestamp: 00:23:22
 Claim: Host argues Macron/Brigitte pressure calls, June Iran debate/Instagram purge/UVU drill, July Netanyahu visit + college-video archive + July 10 UVU ask, SAS Epstein blowup/donor exits, Charlie’s Epstein walk-back, Egyptian planes, Hamptons BB call, and Why Refi addendum are non-coincidental when plotted together. Host also recalls Mitt Romney and Benjamin Netanyahu meeting as BCG advisers.
 
 Anchored Artifacts: A-2469.1
-Mentions: N-5, N-7, N-28, N-36, N-82, N-381
+Mentions: N-5, N-7, N-28, N-36, N-82, N-379
 
 Related Nodes: N-10033, N-10860, N-10863, N-10868, N-10871
 
@@ -1702,7 +1702,7 @@ Claim Timestamp: 00:29:19
 Claim: Citing New York Times reporting by Maggie Haberman and Jonathan Swan, host lists mid-July and August meetings on Epstein files with JD Vance, Susie Wiles, David Warrington, Todd Blanche, Steven Cheung, Karoline Leavitt, Taylor Budowich, James Blair, Stanley Woodward, Kash Patel, and Pam Bondi; notes Trump’s absence and temporal adjacency to Candace Epstein episodes and Charlie’s walk-back/scolding.
 
 Anchored Artifacts: A-2470.1
-Mentions: N-4, N-9, N-29, N-69, N-85, N-127, N-131, N-152, N-153, N-154, N-160, N-162, N-539, N-282
+Mentions: N-4, N-9, N-29, N-69, N-85, N-127, N-131, N-152, N-153, N-154, N-160, N-162, N-537, N-282
 
 Related Nodes: N-10324, N-10871
 
@@ -1799,7 +1799,7 @@ Claim: The host says board member and financial adviser Doug DeGroot attributes 
 Transcript Snippet: according to Doug Degroot, the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie.
 
 Anchored Artifacts: A-2809.1
-Mentions: N-500, N-2
+Mentions: N-498, N-2
 Related Nodes: N-11092, N-10194
 Investigative Direction: Obtain DeGroot's original statement in the Vanity Fair piece and any TPUSA press-inquiry logs from September 10-12, 2025.
 
@@ -1814,7 +1814,7 @@ Claim: The host says she fact-checked DeGroot's account with the person directly
 Transcript Snippet: I fact checked that with the person who was directly responsible for fielding the PR request, the same person who had to write the death statement uh to hand over to the media.
 
 Anchored Artifacts: A-2809.1
-Mentions: N-500, N-3
+Mentions: N-498, N-3
 Related Nodes: N-11092
 Contradicts: C-6353
 Investigative Direction: Identify the TPUSA communications staffer and obtain the press inquiries received in the first 48 hours; compare with DeGroot's account.
@@ -2313,7 +2313,7 @@ Claim: The host says that on February 24, 2025 Charlie Kirk contacted her and sa
 Transcript Snippet: February 24th, Charlie Kirk contacts Canace and says Emmanuel Macron has asked the White House for her to stop discussing Brigitte.
 
 Anchored Artifacts: A-2469.1
-Mentions: N-1, N-3, N-381, N-82
+Mentions: N-1, N-3, N-379, N-82
 Related Nodes: N-10075
 Investigative Direction: Obtain the host's message or call records from February 24, 2025 and Macron's White House visit schedule.
 
@@ -2373,7 +2373,7 @@ Claim: The host says that on June 3 Johnny Moore took over as chairman of the Ga
 Transcript Snippet: On June 3, Johnny Moore actually takes over the chair as chairman of the Gaza Humanitarian Aid Project.
 
 Anchored Artifacts: A-2469.1
-Mentions: N-441
+Mentions: N-439
 Related Nodes: N-10670
 Investigative Direction: Verify the appointment date through GHF announcements and press coverage.
 
@@ -2388,7 +2388,7 @@ Claim: The host says Johnny Moore is Andrew Kolvet's partner at the Kairos Compa
 Transcript Snippet: Before Andrew started his own PR firm, he was working with Chyros.
 
 Anchored Artifacts: A-2469.1
-Mentions: N-14, N-441
+Mentions: N-14, N-439
 Related Nodes: 
 Investigative Direction: Obtain Kolvet's and TPUSA's vendor records with Chyros and the dates of his transition to his own firm.
 
@@ -2464,7 +2464,7 @@ Claim: The host says that on June 22 Bradley Hansell was confirmed by the Senate
 Transcript Snippet: Bradley Hansel is confirmed by the Senate as the under secretary of defense uh for intelligence. His term is set to begin on July 25th.
 
 Anchored Artifacts: A-2469.1
-Mentions: N-437
+Mentions: N-435
 Related Nodes: 
 Investigative Direction: Check the Senate confirmation record and the DoD swearing-in date.
 
@@ -2556,7 +2556,7 @@ Claim: The host says that on July 14 Erika Kirk traveled aboard a private flight
 Transcript Snippet: Erika Kirk travels aboard a private flight to Long Beach, California, and she speaks at James Catis' Calvary Chapel Church for the Women's Summer of Psalms retreat.
 
 Anchored Artifacts: A-2469.1
-Mentions: N-2, N-671
+Mentions: N-2, N-669
 Related Nodes: N-10571
 Investigative Direction: Obtain the retreat program, flight records and any video of Erika's speech.
 
@@ -2828,7 +2828,7 @@ Claim: The host says her August 13 Epstein episode, 'Mega Maga and the MSAD', re
 Transcript Snippet: Bill Clinton set out to find until he got blackmailed by BB Netanyahu who said we've got Monica Lewinsky um and you on tape
 
 Anchored Artifacts: A-2469.1
-Mentions: N-3, N-36, N-423
+Mentions: N-3, N-36, N-421
 Related Nodes: N-11095
 Investigative Direction: Check the episode's sources for the Mega mole story and the alleged Netanyahu-Clinton exchange.
 
@@ -2858,7 +2858,7 @@ Claim: The host says that on August 14 Cabot Phillips reached out to Turning Poi
 Transcript Snippet: Kabat Phillips reaches out to Turning Point USA at UVU and asks to speak on behalf of the Daily Wire for the fall campus tour.
 
 Anchored Artifacts: A-2469.1
-Mentions: N-367
+Mentions: N-366
 Related Nodes: N-10900, N-10012
 Investigative Direction: Check the UVU independent review and records for Phillips's request.
 
@@ -2873,7 +2873,7 @@ Claim: The host says that on August 14 Erika had a photo shoot with the children
 Transcript Snippet: Marina Minez, the CMO of Turning Point USA, is involved with the organization of this shoot.
 
 Anchored Artifacts: A-2469.1
-Mentions: N-2, N-1, N-497
+Mentions: N-2, N-1, N-495
 Related Nodes: 
 Investigative Direction: Obtain the photographer's booking and publication details for the shoot.
 
@@ -3024,7 +3024,7 @@ Claim: The host says her team asked Turning Point USA why people who worked ther
 Transcript Snippet: we asked Turning Point USA explicitly why we have people that worked there saying that Erika was in control of the modeling apartments company that John Luke Brunell started
 
 Anchored Artifacts: 
-Mentions: N-2, N-533, N-574
+Mentions: N-2, N-531, N-572
 Related Nodes: N-10519, N-10524
 Investigative Direction: Establish the company's corporate records and any role of Erika Kirk; identify the former staff and request TPUSA's response.
 
@@ -3054,7 +3054,7 @@ Claim: The host says Kash Patel and Dan Bongino found the J6 pipe-bomb suspect, 
 Transcript Snippet: And suddenly Kash Patel and Dan Bonino, they found the guy and it's an autistic black man named Brian Cole Jr.
 
 Anchored Artifacts: 
-Mentions: N-69, N-382, N-25
+Mentions: N-69, N-380, N-25
 Related Nodes: N-10872
 Investigative Direction: Check the DOJ complaint and FBI announcement for arrest date and charges, and defense filings regarding autism.
 

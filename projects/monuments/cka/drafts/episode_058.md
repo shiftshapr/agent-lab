@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: f2711e85e7a5dac6180d0330f718521458d116b136a35e9d84389c67776a7492
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-858, N-859, N-860, N-11237, N-11239, N-11240, N-11241, N-11242
-  - Hole-minted Nodes (reintro-ep058): N-533, N-10428, N-10472
-  - Tip-minted Nodes (reintro-ep058): N-729, N-777, N-11126
+  - Tip-minted Nodes (supplement_2026-10d): N-856, N-857, N-858, N-11237, N-11239, N-11240, N-11241, N-11242
+  - Hole-minted Nodes (reintro-ep058): N-531, N-10428, N-10472
+  - Tip-minted Nodes (reintro-ep058): N-727, N-775, N-11126
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9830–C-9912
-  - New Nodes Introduced: N-463, N-464, N-465, N-466, N-467, N-468, N-469, N-470, N-471, N-472, N-473, N-10418, N-10419, N-10420, N-10421, N-10423
-  - Reused Nodes Appearing: N-15, N-10417, N-10422, N-10424, N-1, N-14, N-17, N-42, N-61, N-239, N-280, N-327, N-364, N-454, N-455, N-460, N-758, N-806, N-10000, N-10001, N-10012, N-10023, N-10028, N-10032, N-10144, N-10209, N-10268, N-10365, N-10367, N-10368, N-10375, N-10380, N-10386, N-10401, N-10411, N-10413, N-10900, N-11104, N-11166, N-11167, N-11238
+  - New Nodes Introduced: N-461, N-462, N-463, N-464, N-465, N-466, N-467, N-468, N-469, N-470, N-471, N-10418, N-10419, N-10420, N-10421, N-10423
+  - Reused Nodes Appearing: N-15, N-10417, N-10422, N-10424, N-1, N-14, N-17, N-42, N-61, N-239, N-280, N-327, N-363, N-452, N-453, N-458, N-756, N-804, N-10000, N-10001, N-10012, N-10023, N-10028, N-10032, N-10144, N-10209, N-10268, N-10365, N-10367, N-10368, N-10375, N-10380, N-10386, N-10401, N-10411, N-10413, N-10900, N-11104, N-11166, N-11167, N-11238
   - (see registers)
 
 ## 2. Executive Summary
@@ -161,7 +161,7 @@ Video Timestamp: 00:03:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2108, C-2110, N-463, N-466, N-467, N-468, N-469, N-470, N-10417, N-10418*
+*Related: C-2108, C-2110, N-461, N-464, N-465, N-466, N-467, N-468, N-10417, N-10418*
 
 **A-1635.2** November Renaissance Kickstarter Campaign Page (Publicly Available Remnant)
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2108, C-2109, C-2110, N-463, N-10418*
+*Related: C-2108, C-2109, C-2110, N-461, N-10418*
 
 **A-1635.3** Clayton Haugen Director Audio Clip (Nanotechnology / Mind-as-Hard-Drive Concept Pitch)
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:08:16–00:10:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2109, N-463, N-10418*
+*Related: C-2109, N-461, N-10418*
 
 ---
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:20:05–00:21:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2114, N-464, N-465, N-10421*
+*Related: C-2114, N-462, N-463, N-10421*
 
 **A-1638.2** Nelda Buckman Daily Wire Plus Interview (January 2026) on Relationship with Erika
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:21:00–00:22:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2115, N-2, N-464, N-10421*
+*Related: C-2115, N-2, N-462, N-10421*
 
 **A-1638.3** Baron Coleman / "Mommy Sleuth" Plane Tracking Research (Charlie/Erika Plane Visiting New Braunfels TX and Idaho)
 
@@ -257,7 +257,7 @@ Video Timestamp: 00:21:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2116, N-464, N-10423*
+*Related: C-2116, N-462, N-10423*
 
 ---
 
@@ -271,7 +271,7 @@ Video Timestamp: 00:24:52–00:27:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2118, C-2119, N-464, N-10420*
+*Related: C-2118, C-2119, N-462, N-10420*
 
 ---
 
@@ -309,7 +309,7 @@ Video Timestamp: 00:53:05–00:55:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2120, N-473, N-10422*
+*Related: C-2120, N-471, N-10422*
 
 **A-1642.2** Sisbear Comment: Whistleblower Sabrina Wallace, DARPA Biosonar Testing on Children
 
@@ -319,7 +319,7 @@ Video Timestamp: 01:00:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-471, N-10422*
+*Related: N-469, N-10422*
 
 ---
 
@@ -358,7 +358,7 @@ Video Timestamp: 00:14:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9854, C-9855, C-9856, C-9857, C-9858, N-17, N-239, N-3, N-327, N-42, N-454, N-455, N-61*
+*Related: C-9854, C-9855, C-9856, C-9857, C-9858, N-17, N-239, N-3, N-327, N-42, N-452, N-453, N-61*
 
 ---
 
@@ -408,7 +408,7 @@ Confidence Level: High
 ## 4. Node Register
 
 
-**N-463** Clayton Haugen
+**N-461** Clayton Haugen
 
 Director of *November Renaissance*; military-affiliated individual cited as close to Erika during ~2010–2013 production era.
 
@@ -419,7 +419,7 @@ Investigative Pressure: Medium
 
 *Related: A-1635.1, A-1635.2, A-1635.3, C-2108, C-2109, C-2110, N-10418*
 
-**N-464** Nelda Buckman
+**N-462** Nelda Buckman
 
 Major Turning Point USA donor; executive producer of *Identity Crisis*; affiliated with Courage House Nevada and National Angels foster-care work.
 
@@ -428,9 +428,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1638.1, A-1638.2, A-1639.1, A-1640.1, C-2114, C-2115, C-2116, C-2118, N-465, N-10420, N-10421, N-10423*
+*Related: A-1638.1, A-1638.2, A-1639.1, A-1640.1, C-2114, C-2115, C-2116, C-2118, N-463, N-10420, N-10421, N-10423*
 
-**N-465** Karl Buckman
+**N-463** Karl Buckman
 
 Co-donor with Nelda Buckman of $10 million to Turning Point USA; Florida campus named "Buckman Campus" after the gift.
 
@@ -439,7 +439,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1638.1, C-2114, N-464, N-10421*
+*Related: A-1638.1, C-2114, N-462, N-10421*
 
 **N-203** Nick Fuentes
 
@@ -450,9 +450,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1641.1, A-1641.2, C-2118, C-2119, N-222, N-472, N-10424*
+*Related: A-1641.1, A-1641.2, C-2118, C-2119, N-222, N-470, N-10424*
 
-**N-466** Don Frye
+**N-464** Don Frye
 
 *November Renaissance* cast; graduated high school in Sierra Vista and trained in judo at Fort Huachuca.
 
@@ -463,7 +463,7 @@ Investigative Pressure: Low
 
 *Related: A-1635.1, C-2108, N-10417, N-10418*
 
-**N-467** Payton McCormick
+**N-465** Payton McCormick
 
 *November Renaissance* cast; granddaughter of Colonel Pete McCormick and daughter of Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
 
@@ -474,7 +474,7 @@ Investigative Pressure: Low
 
 *Related: A-1635.1, C-2108, N-10417, N-10418*
 
-**N-468** Chantel Thuy
+**N-466** Chantel Thuy
 
 *November Renaissance* cast; identified host-stated connection to Fort Huachuca and stated father worked in AI for IBM.
 
@@ -485,7 +485,7 @@ Investigative Pressure: Low
 
 *Related: A-1635.1, C-2108, N-10418*
 
-**N-469** Price Mitchum
+**N-467** Price Mitchum
 
 *November Renaissance* cast; host notes subject of a 5150 psych hold.
 
@@ -496,7 +496,7 @@ Investigative Pressure: Low
 
 *Related: A-1635.1, C-2108, N-10418*
 
-**N-470** Priscilla Ann Nu'ul
+**N-468** Priscilla Ann Nu'ul
 
 Name flagged as uncertainty – referenced in same sentence as "Miss Teen USA 2006" in cast discussion; relationship to other cast members unclear from transcript.
 
@@ -507,7 +507,7 @@ Investigative Pressure: Low
 
 *Related: A-1635.1, C-2108, N-10418*
 
-**N-471** Sabrina Wallace
+**N-469** Sabrina Wallace
 
 Whistleblower mentioned in read-aloud comment (Sisbear) as alleging DARPA biosonar testing on children in 1980s–1990s.
 
@@ -529,7 +529,7 @@ Investigative Pressure: Medium
 
 *Related: C-2123, N-203, N-10424*
 
-**N-472** Ferris Wilks
+**N-470** Ferris Wilks
 
 Referenced re: Nick Fuentes pitching sale of follower data to Defend Texas Liberty.
 
@@ -551,7 +551,7 @@ Investigative Pressure: Low
 
 *Related: N-203, N-10424*
 
-**N-473** Nika
+**N-471** Nika
 
 Reader-comment author; self-identifies as "gate kid" with memory blackout ages 4–10 at Fort Hood, attendance at schools linked via Aspen Education Group.
 
@@ -595,7 +595,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1635.1, A-1635.2, C-2108, C-2111, N-2, N-463, N-466, N-467*
+*Related: A-1635.1, A-1635.2, C-2108, C-2111, N-2, N-461, N-464, N-465*
 
 **N-10418** November Renaissance Film Production Investigation
 
@@ -606,7 +606,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1635.1, A-1635.2, A-1635.3, C-2108, C-2109, C-2110, N-463, N-466, N-467, N-468, N-469, N-470*
+*Related: A-1635.1, A-1635.2, A-1635.3, C-2108, C-2109, C-2110, N-461, N-464, N-465, N-466, N-467, N-468*
 
 **N-10419** Erika China Residence Discrepancy
 
@@ -628,7 +628,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1640.1, C-2118, C-2119, N-464, N-265*
+*Related: A-1640.1, C-2118, C-2119, N-462, N-265*
 
 **N-10421** Buckman–TPUSA Donor Relationship Investigation
 
@@ -639,7 +639,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1638.1, A-1638.2, A-1638.3, C-2114, C-2115, C-2117, N-464, N-465, N-332, N-265*
+*Related: A-1638.1, A-1638.2, A-1638.3, C-2114, C-2115, C-2117, N-462, N-463, N-332, N-265*
 
 **N-10422** GATE / Gifted Education Program Investigation
 
@@ -650,7 +650,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1642.1, A-1642.2, C-2120, N-471, N-473*
+*Related: A-1642.1, A-1642.2, C-2120, N-469, N-471*
 
 **N-10423** Identity Crisis Documentary Production Investigation
 
@@ -661,7 +661,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1639.1, C-2116, N-464*
+*Related: A-1639.1, C-2116, N-462*
 
 **N-10424** Nick Fuentes Federal Informant Allegation
 
@@ -672,7 +672,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1641.1, A-1641.2, C-2118, C-2119, C-2121, C-2122, C-2123, N-203, N-222, N-472, N-147*
+*Related: A-1641.1, A-1641.2, C-2118, C-2119, C-2121, C-2122, C-2123, N-203, N-222, N-470, N-147*
 
 ---
 
@@ -700,7 +700,7 @@ Persistent investigation into Erika's claimed Fort Huachuca alibi.
 
 ---
 
-**N-364** Mitch Snow
+**N-363** Mitch Snow
 
 Eyewitness who says he saw people at Fort Huachuca; the host defends his credibility.
 
@@ -804,7 +804,7 @@ Decoy boy operation analysis.
 
 ---
 
-**N-454** Greg Laurie
+**N-452** Greg Laurie
 
 Pastor of Harvest Christian Fellowship; the host links TPUSA Faith to him.
 
@@ -812,7 +812,7 @@ Pastor of Harvest Christian Fellowship; the host links TPUSA Faith to him.
 
 ---
 
-**N-455** Paul Havsgaard
+**N-453** Paul Havsgaard
 
 Former megachurch pastor accused in a Romanian children case, named by the host.
 
@@ -875,7 +875,7 @@ Media figure; the host says he funded Operation Underground.
 
 ---
 
-**N-806** Paul Vallely
+**N-804** Paul Vallely
 
 Retired Army general on the TPUSA advisory board.
 
@@ -971,7 +971,7 @@ Operation Paperclip, cited by the host.
 
 ---
 
-**N-758** Astrid Tuminez
+**N-756** Astrid Tuminez
 
 UVU president; the host says she stepped down and was absent on September 10.
 
@@ -995,7 +995,7 @@ Utah Valley University campus.
 
 ---
 
-**N-533** Jean-Luc Brunel
+**N-531** Jean-Luc Brunel
 
 Modeling agent linked to Epstein; the host says he flew 12-year-old triplets to him.
 
@@ -1011,7 +1011,7 @@ Epstein as Israeli intelligence asset allegation.
 
 ---
 
-**N-729** Jack Parsons
+**N-727** Jack Parsons
 
 Rocket scientist and occultist the host cites as a Crowley student.
 
@@ -1019,7 +1019,7 @@ Rocket scientist and occultist the host cites as a Crowley student.
 
 ---
 
-**N-777** Aleister Crowley
+**N-775** Aleister Crowley
 
 Occultist cited by the host.
 
@@ -1035,7 +1035,7 @@ Project Looking Glass allegation.
 
 ---
 
-**N-460** Bill Montgomery
+**N-458** Bill Montgomery
 
 Air Force reservist the host says co-founded TPUSA.
 
@@ -1043,7 +1043,7 @@ Air Force reservist the host says co-founded TPUSA.
 
 ---
 
-**N-858** Pete McCormick
+**N-856** Pete McCormick
 
 First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, grandfather of cast member Payton McCormick.
 
@@ -1051,7 +1051,7 @@ First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, gra
 
 ---
 
-**N-859** Allan McCormick
+**N-857** Allan McCormick
 
 First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca, father of cast member Payton McCormick.
 
@@ -1059,7 +1059,7 @@ First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan Mc
 
 ---
 
-**N-860** Myron Gaines
+**N-858** Myron Gaines
 
 First named by the host at 01:02:10 in episode 58 as the interviewer in an interview with her dropping the next day.
 
@@ -1130,7 +1130,7 @@ Claim Timestamp: 00:03:23–00:05:24
 Claim: The host says, citing people based at Fort Huachuca who contacted her, that multiple identified members of the *November Renaissance* cast - including Clayton Haugen, Don Frye, Payton McCormick, Chantel Thuy, and Price Mitchum - have documented connections to Fort Huachuca, U.S. military service, or defense contracting.
 
 Anchored Artifacts: A-1635.1, A-1635.2
-Mentions: N-463, N-466, N-467, N-468, N-469, N-470
+Mentions: N-461, N-464, N-465, N-466, N-467, N-468
 
 Related Nodes: N-10417, N-10418
 
@@ -1145,7 +1145,7 @@ Claim Timestamp: 00:08:16–00:10:12
 Claim: Per the Kickstarter description the host reads and a clip of director Clayton Haugen she plays, the plot of *November Renaissance* involves nanotechnology, a mind-as-hard-drive concept, and corporate-proxy black operations conducted on behalf of financial institutions and governments.
 
 Anchored Artifacts: A-1635.2, A-1635.3
-Mentions: N-463
+Mentions: N-461
 
 Related Nodes: N-10418
 
@@ -1160,7 +1160,7 @@ Claim Timestamp: 00:05:24
 Claim: The host says a remnant of the *November Renaissance* Kickstarter campaign publicly identifies Erika as having been cast in the role of "Evelyn Mathis."
 
 Anchored Artifacts: A-1635.2
-Mentions: N-2, N-463
+Mentions: N-2, N-461
 
 Related Nodes: N-10418
 
@@ -1237,7 +1237,7 @@ Claim Timestamp: 00:20:05–00:21:00
 Claim: The host, citing a Daily Wire article, says Karl and Nelda Buckman gave a $10 million gift to Turning Point USA - described as the largest in the organization's history - and the Florida campus was renamed the "Buckman campus" in connection with the donation.
 
 Anchored Artifacts: A-1638.1
-Mentions: N-464, N-465
+Mentions: N-462, N-463
 
 Related Nodes: N-10421
 
@@ -1252,7 +1252,7 @@ Claim Timestamp: 00:21:00–00:22:00
 Claim: In a January 2026 Daily Wire Plus interview, Nelda Buckman described a close post-assassination relationship with Erika, including a private meeting in Florida ahead of America Fest and a dedication ceremony, and stated that Buckman offered Erika "personal support" about navigating her role as a single mother leading Turning Point.
 
 Anchored Artifacts: A-1638.2
-Mentions: N-2, N-464
+Mentions: N-2, N-462
 
 Related Nodes: N-10421
 
@@ -1267,7 +1267,7 @@ Claim Timestamp: 00:21:46
 Claim: The host says Nelda Buckman is an executive producer of *Identity Crisis*, a 2024 documentary on gender announced on stage by Ben Shapiro as a Daily Wire / Turning Point USA collaboration.
 
 Anchored Artifacts: A-1639.1
-Mentions: N-464, N-97
+Mentions: N-462, N-97
 
 Related Nodes: N-10423
 
@@ -1327,7 +1327,7 @@ Claim Timestamp: 00:53:05–00:55:26
 Claim: A commenter identifying as "Nika" and as a "gate kid" reports a "total memory blackout from ages 4 to 10," the exact years stationed at Fort Hood, and that after the Army she was "shuffled through four different schools" connected to the DoD through the Aspen Education Group, naming Turnabout Ranch (Escalante, UT), New Horizons Academy (Marion, IN – closed for abuse), Missanabie Woods Academy (Canada), Darlington (Rome, GA), and a Texas school.
 
 Anchored Artifacts: A-1642.1
-Mentions: N-473
+Mentions: N-471
 
 Related Nodes: N-10422
 
@@ -1355,7 +1355,7 @@ Claim Timestamp: 00:39:06
 Claim: The host says Nick Fuentes took a meeting with Defend Texas Liberty and Ferris Wilks' partner and, according to documents a reporter obtained, pitched selling the data of his followers.
 Transcript Snippet: he took a meeting with Defend Texas Liberty and Ferris Wilks' partner and pitched they actually one reporter got documents was pitching to sell the data of his followers
 Anchored Artifacts: 
-Mentions: N-203, N-472
+Mentions: N-203, N-470
 Related Nodes: N-10424
 Confidence: medium
 Investigative Direction: Identify the reporter and obtain the documents; confirm the meeting date, attendees and the data-sale pitch.
@@ -1429,7 +1429,7 @@ Claim: The host says Turning Point USA's public response included bringing out M
 Transcript Snippet: They were bringing out Mitch's baby mama drama, sons, everything to say this never happened
 
 Anchored Artifacts: 
-Mentions: N-364, N-3
+Mentions: N-363, N-3
 Related Nodes: N-10472, N-10000
 Tags: relevance:core
 Investigative Direction: Collect the TPUSA-side posts and statements about Mitch Snow's personal life and compare their dates with the first Fort Huachuca coverage.
@@ -1526,7 +1526,7 @@ Claim: The host says her sources told her that the person Erika was really close
 Transcript Snippet: The person they said she was really close to was Clayton Haugen.
 
 Anchored Artifacts: 
-Mentions: N-463, N-2, N-3
+Mentions: N-461, N-2, N-3
 Related Nodes: N-10418
 Tags: relevance:core
 Investigative Direction: Ask the sources for the basis of the closeness claim; look for Haugen and Erika in joint photos, posts or cast lists.
@@ -1542,7 +1542,7 @@ Claim: The host says Clayton Haugen does marketing for the defense contracting f
 Transcript Snippet: And he does marketing for the defense contracting firm Dillon Aero Space.
 
 Anchored Artifacts: 
-Mentions: N-463
+Mentions: N-461
 Related Nodes: N-11237, N-10418
 Tags: relevance:context
 Investigative Direction: Verify Haugen's employment through LinkedIn or company records; note the firm's spelling (Dillon Aerospace).
@@ -1558,7 +1558,7 @@ Claim: The host says cast member Don Frye graduated from high school in Sierra V
 Transcript Snippet: he actually graduated from high school in Sierra Vista and then trained in judo at Fort Huachuca
 
 Anchored Artifacts: 
-Mentions: N-466
+Mentions: N-464
 Related Nodes: N-10417, N-10418
 Tags: relevance:context
 Investigative Direction: Check Frye's published biography for the Sierra Vista school and Fort Huachuca judo program.
@@ -1574,7 +1574,7 @@ Claim: The host says cast member Payton McCormick's grandfather is Colonel Pete 
 Transcript Snippet: Her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
 
 Anchored Artifacts: 
-Mentions: N-467, N-858, N-859
+Mentions: N-465, N-856, N-857
 Related Nodes: N-10417, N-10418
 Tags: relevance:context
 Investigative Direction: Confirm the family relationships and Allan McCormick's Fort Huachuca assignment through Army records or public obituaries.
@@ -1590,7 +1590,7 @@ Claim: The host says Payton McCormick was also Miss Teen USA in 2006; the senten
 Transcript Snippet: Payton was also, by the way, Miss Teen USA in 2006, Priscilla Ann Nu'ul
 
 Anchored Artifacts: 
-Mentions: N-467, N-470
+Mentions: N-465, N-468
 Related Nodes: N-10418
 Tags: relevance:context
 Investigative Direction: Check Miss Teen USA 2006 titleholder records; the transcript's title and name attribution look garbled and may be wrong.
@@ -1606,7 +1606,7 @@ Claim: The host says she could not find much on cast member Chantel Thuy but tha
 Transcript Snippet: we can tell you that her dad worked for an artificial intelligence for IBM
 
 Anchored Artifacts: 
-Mentions: N-468, N-3
+Mentions: N-466, N-3
 Related Nodes: N-10418, N-10417
 Tags: relevance:context
 Investigative Direction: Identify Thuy's father and verify the IBM employment claim; no Fort Huachuca link was shown.
@@ -1622,7 +1622,7 @@ Claim: The host says cast member Price Mitchum was put in a psych 5150 hold.
 Transcript Snippet: that Price Mitchum, that just gets dark. I mean, that young man or older man got put in a psych 5150 hold
 
 Anchored Artifacts: 
-Mentions: N-469, N-3
+Mentions: N-467, N-3
 Related Nodes: N-10418
 Tags: relevance:context
 Investigative Direction: Public 5150 holds are confidential medical events; look for any news report before treating this as established.
@@ -1654,7 +1654,7 @@ Claim: The host says that, going by the comments on the Kickstarter campaign, th
 Transcript Snippet: They promised to deliver it in 2013. That didn't happen.
 
 Anchored Artifacts: A-1635.2
-Mentions: N-463, N-3
+Mentions: N-461, N-3
 Related Nodes: N-10418
 Tags: relevance:context
 Investigative Direction: Archive the Kickstarter comment thread and delivery estimate from the Wayback Machine.
@@ -1670,7 +1670,7 @@ Claim: The host says the film was never released despite posting updates up to 2
 Transcript Snippet: this project was never released despite posting updates up to 2017
 
 Anchored Artifacts: A-1635.2
-Mentions: N-463, N-3
+Mentions: N-461, N-3
 Related Nodes: N-10418
 Tags: relevance:context
 Investigative Direction: Capture the dated Kickstarter update log to confirm the last update year.
@@ -1686,7 +1686,7 @@ Claim: The host says the people who gave her the poster material were friends wi
 Transcript Snippet: these people who gave this to us were our friends with Erika, they know her, they say she knows about this space
 
 Anchored Artifacts: 
-Mentions: N-2, N-364, N-3
+Mentions: N-2, N-363, N-3
 Related Nodes: N-10417, N-10472
 Tags: relevance:core
 Investigative Direction: Seek on-record confirmation from the sources; their friendship with Erika is asserted only through the host.
@@ -1718,7 +1718,7 @@ Claim: The host says the original poster has absolutely nothing to do with Mitch
 Transcript Snippet: This person has absolutely nothing to do with Mitch Snow.
 
 Anchored Artifacts: 
-Mentions: N-364, N-3
+Mentions: N-363, N-3
 Related Nodes: N-10417, N-10367
 Tags: relevance:core
 Investigative Direction: Ask the host to disclose how independence from Mitch Snow was established; compare the two accounts' details.
@@ -1798,7 +1798,7 @@ Claim: The host says Turning Point Faith works with Pastor Greg Laurie, whose ch
 Transcript Snippet: Turning Point Faith working with this Pastor Greg Laurie, whose church is being accused of trafficking children from Romania.
 
 Anchored Artifacts: A-3037
-Mentions: N-454, N-455, N-3
+Mentions: N-452, N-453, N-3
 Related Nodes: N-10411, N-10401
 Supports: C-8151
 Supports: C-7944
@@ -1866,7 +1866,7 @@ Claim: The host says that on an earlier episode she said Retired Army General Pa
 Transcript Snippet: I think on that episode I said he was on the board, I meant to say he's on the advisory board.
 
 Anchored Artifacts: 
-Mentions: N-806, N-3
+Mentions: N-804, N-3
 Related Nodes: N-10000
 Supports: C-8245
 Tags: relevance:core
@@ -1883,7 +1883,7 @@ Claim: The host says Vallely, a retired Army general who ran psychological opera
 Transcript Snippet: We got this retired Army general who actually ran psychological operations and happened to co-write a book with this guy who was an avowed Satanist and started his own kind of Church of Satan called the Temple of Set
 
 Anchored Artifacts: 
-Mentions: N-806, N-3
+Mentions: N-804, N-3
 Related Nodes: N-11238
 Supports: C-8246
 Tags: relevance:context
@@ -1949,7 +1949,7 @@ Claim: The host reads from Daily Wire Plus that Nelda Buckman said she and Erika
 Transcript Snippet: Erika and I talked about womanhood and what our culture has been teaching our young women
 
 Anchored Artifacts: A-1638.2
-Mentions: N-464, N-2, N-3
+Mentions: N-462, N-2, N-3
 Related Nodes: N-10421, N-10900
 Tags: relevance:context
 Investigative Direction: Retrieve the Daily Wire Plus interview text to confirm the quotation and date.
@@ -2046,7 +2046,7 @@ Claim: The host says she is not saying Nelda Buckman was necessarily the person 
 Transcript Snippet: I'm not saying that she necessarily was the person who put the pressure on it
 
 Anchored Artifacts: 
-Mentions: N-464, N-3
+Mentions: N-462, N-3
 Related Nodes: N-10421, N-10423
 Qualifies: C-2116
 Tags: relevance:context
@@ -2063,7 +2063,7 @@ Claim: The host says Nelda Buckman works with National Angels and all its region
 Transcript Snippet: Nelda works with National Angels, so it's like there's all these different regions, Austin Angels, New Jersey Angels.
 
 Anchored Artifacts: 
-Mentions: N-464, N-3
+Mentions: N-462, N-3
 Related Nodes: N-11239, N-10420
 Tags: relevance:context
 Investigative Direction: Check National Angels board and donor listings for Buckman.
@@ -2079,7 +2079,7 @@ Claim: The host says Nelda Buckman is one of the largest donors, and might be th
 Transcript Snippet: Nelda is one of the largest donors, she might even be the largest donor to Courage House Nevada
 
 Anchored Artifacts: A-1640.1
-Mentions: N-464, N-3
+Mentions: N-462, N-3
 Related Nodes: N-10420
 Tags: relevance:context
 Investigative Direction: Verify Courage House donor listings and filings for Buckman gifts; the host hedges that she might be the largest.
@@ -2269,7 +2269,7 @@ Claim: The host says Astrid Tuminez has just stepped down from Utah Valley Unive
 Transcript Snippet: who by the way has just stepped down from Utah Valley University. It was just announced
 
 Anchored Artifacts: 
-Mentions: N-758, N-3
+Mentions: N-756, N-3
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Check the UVU announcement and its date.
@@ -2285,7 +2285,7 @@ Claim: The host says Tuminez was not at UVU on the day of Charlie's assassinatio
 Transcript Snippet: she was not there on the day of Charlie's assassination.
 
 Anchored Artifacts: 
-Mentions: N-758, N-1, N-3
+Mentions: N-756, N-1, N-3
 Related Nodes: N-10012, N-10028
 Tags: relevance:core
 Investigative Direction: Obtain Tuminez's September 10, 2025 whereabouts and travel; previously claimed absences can be compared.
@@ -2301,7 +2301,7 @@ Claim: The host says Tuminez looks to have been involved in color revolution wor
 Transcript Snippet: Looks like she was involved in some color revolution stuff for the CIA. She was a fostered child, was rescued from the Philippines.
 
 Anchored Artifacts: 
-Mentions: N-758, N-3
+Mentions: N-756, N-3
 Related Nodes: N-10012
 Tags: relevance:context
 Investigative Direction: Check Tuminez's published biography and memoir for her childhood and career; the CIA work claim has no cited source.
@@ -2332,7 +2332,7 @@ Claim: The host says Epstein, for his own birthday, found 12-year-old triplets w
 Transcript Snippet: his friend uh Jean-Luc Brunel in Paris flew these 12-year-old triplets to Jeffrey Epstein
 
 Anchored Artifacts: 
-Mentions: N-9, N-533, N-3
+Mentions: N-9, N-531, N-3
 Tags: relevance:core
 Investigative Direction: Search the unsealed Giuffre and Maxwell filings and the Brunel investigation for the triplets allegation.
 
@@ -2459,7 +2459,7 @@ Claim: The host asks whether Jack Parsons, whom she says established the Apollo 
 Transcript Snippet: Did Jackson did Jack Parsons exist the who established the Apollo program at NASA? Was he similarly conducting occult sexual rituals to establish a moon child?
 
 Anchored Artifacts: 
-Mentions: N-729, N-777, N-3
+Mentions: N-727, N-775, N-3
 Tags: relevance:tangential
 Investigative Direction: Parsons is documented as a JPL co-founder and Thelema follower; historians do not credit him with founding the Apollo program.
 
@@ -2507,7 +2507,7 @@ Claim: The host reads Nika's comment saying she was a military brat at Fort Hood
 Transcript Snippet: Dad was a doctor doing residency adjacent to a bio lab at the army hospital.
 
 Anchored Artifacts: A-1642.1
-Mentions: N-473
+Mentions: N-471
 Related Nodes: N-10422
 Tags: relevance:context
 Investigative Direction: Commenter claim; Fort Hood hospital records would be needed.
@@ -2523,7 +2523,7 @@ Claim: The host reads Nika's comment that lights break above her head when she f
 Transcript Snippet: Lights break above my head when I flipped a switch, cabinets slam when I get mad enough
 
 Anchored Artifacts: A-1642.1
-Mentions: N-473
+Mentions: N-471
 Related Nodes: N-10422
 Tags: relevance:tangential
 Investigative Direction: Commenter anecdote; not verifiable.
@@ -2635,7 +2635,7 @@ Claim: The host reads Sisbear's comment that whistleblower Sabrina Wallace, as a
 Transcript Snippet: she was a child who claims DARPA tested biosonar on her and other children in the 80s and 90s
 
 Anchored Artifacts: A-1642.2
-Mentions: N-471
+Mentions: N-469
 Related Nodes: N-10422
 Tags: relevance:context
 Investigative Direction: Find Wallace's public statements and any DARPA documentation of the biosonar tests.
@@ -2667,7 +2667,7 @@ Claim: The host says Turning Point was established in part by Bill Montgomery, w
 Transcript Snippet: turning point was established in part by Bill Montgomery who was Air Force involved with the Air Force I think we read that yesterday was on the reserves
 
 Anchored Artifacts: 
-Mentions: N-460, N-3
+Mentions: N-458, N-3
 Related Nodes: N-10000
 Supports: C-5424
 Tags: relevance:core
@@ -2716,7 +2716,7 @@ Claim: The host says an interview between her and Myron Gaines drops the next da
 Transcript Snippet: we have an interview dropping tomorrow between me and Myron Gaines
 
 Anchored Artifacts: 
-Mentions: N-860, N-3
+Mentions: N-858, N-3
 Tags: relevance:tangential
 Investigative Direction: Check the release of the interview on the following day.
 

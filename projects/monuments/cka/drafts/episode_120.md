@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: d8ac9dcae0b91121530d5b459c0a6eaf3c4d712dba6ebd3a7938c49f5956f34e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-735, N-736, N-11056
+  - Tip-minted Nodes (supplement_2026-10): N-733, N-734, N-11056
   - Hole-minted Nodes (reintro-ep120): N-10684, N-10690, N-10692, N-10723
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5779–C-5852
-  - Reused Nodes Appearing: N-10678, N-10679, N-10680, N-10681, N-4, N-7, N-9, N-14, N-22, N-69, N-97, N-137, N-192, N-226, N-263, N-332, N-533, N-574, N-587, N-649, N-687, N-10000, N-10104, N-10107, N-10110, N-10239, N-10253, N-10319, N-10337, N-10341, N-10346, N-10350, N-10401, N-10447, N-10501, N-10532, N-10537, N-10581, N-10598, N-10651, N-10685, N-10687, N-10688, N-10705, N-10707, N-10729, N-10840, N-10897, N-10983, N-11054, N-10699, N-10703, N-11055, N-11053
+  - Reused Nodes Appearing: N-10678, N-10679, N-10680, N-10681, N-4, N-7, N-9, N-14, N-22, N-69, N-97, N-137, N-192, N-226, N-263, N-332, N-531, N-572, N-585, N-647, N-685, N-10000, N-10104, N-10107, N-10110, N-10239, N-10253, N-10319, N-10337, N-10341, N-10346, N-10350, N-10401, N-10447, N-10501, N-10532, N-10537, N-10581, N-10598, N-10651, N-10685, N-10687, N-10688, N-10705, N-10707, N-10729, N-10840, N-10897, N-10983, N-11054, N-10699, N-10703, N-11055, N-11053
   - (see registers)
 
 # Episode 120 Analysis Record
@@ -311,7 +311,7 @@ Video Timestamp: 00:57:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5851, N-736, N-649*
+*Related: C-5851, N-734, N-647*
 
 ---
 
@@ -552,7 +552,7 @@ Researcher whom the host credits with having reported on the shirt's fate early 
 
 ---
 
-**N-533** Jean-Luc Brunel
+**N-531** Jean-Luc Brunel
 
 Modeling agent named by the host as an Epstein-linked trafficking route in France.
 
@@ -560,7 +560,7 @@ Modeling agent named by the host as an Epstein-linked trafficking route in Franc
 
 ---
 
-**N-574** Faith Kates
+**N-572** Faith Kates
 
 Next Model Management owner, described by the host as very close to Jeffrey Epstein.
 
@@ -568,7 +568,7 @@ Next Model Management owner, described by the host as very close to Jeffrey Epst
 
 ---
 
-**N-587** Mark Epstein
+**N-585** Mark Epstein
 
 Jeffrey Epstein's brother; the host says she could not confirm that he owned the Upper East Side building.
 
@@ -576,7 +576,7 @@ Jeffrey Epstein's brother; the host says she could not confirm that he owned the
 
 ---
 
-**N-649** Mario Nawfal
+**N-647** Mario Nawfal
 
 Host of programming on which, per a viewer comment, Larry Johnson appears.
 
@@ -584,7 +584,7 @@ Host of programming on which, per a viewer comment, Larry Johnson appears.
 
 ---
 
-**N-687** Jon Bray
+**N-685** Jon Bray
 
 Analyst the host credits with identifying the mic as a possible shaped-charge source (rendered "John Bray" in the transcript).
 
@@ -864,7 +864,7 @@ Existing topic reused for the Maine conversation claim.
 
 ---
 
-**N-735** Sarah Tool
+**N-733** Sarah Tool
 
 First named by the host at 00:17:36 in episode 120 (rendered "Sarah uh Tool" in the transcript). Front-row student witness who gave three successive media interviews about the shot.
 
@@ -872,7 +872,7 @@ First named by the host at 00:17:36 in episode 120 (rendered "Sarah uh Tool" in 
 
 ---
 
-**N-736** Larry Johnson
+**N-734** Larry Johnson
 
 First named by the host at 00:57:35 in episode 120, while reading a viewer comment. Described in that comment as ex-CIA and a frequent guest on Mario Nawfal's programming.
 
@@ -1292,7 +1292,7 @@ Claim: The host says John Bray immediately identified the mic as the potential s
 Transcript Snippet: John Bray, who immediately identified the mic as the potential source of a shaped charge explosion, was on the pursuit looking for shattered ABS glass from the Rode Wireless Pro.
 
 Anchored Artifacts:
-Mentions: N-687
+Mentions: N-685
 Related Nodes: N-10705
 Supports: C-4613
 Investigative Direction: Obtain Bray's original posts and the source images he used, with dates.
@@ -1354,7 +1354,7 @@ Claim: In her first interview, Sarah Tool says the second student was talking ab
 Transcript Snippet: the second student to get up was talking about transgenderism and how um gun violence has been very frequent with that community, and that is when it happened.
 
 Anchored Artifacts: A-2086.1
-Mentions: N-735
+Mentions: N-733
 Related Nodes: N-10677
 Investigative Direction: Compare with the event video to establish the topic being discussed at the moment of the shot.
 
@@ -1369,7 +1369,7 @@ Claim: The host says the first interview was at 1:17 p.m. and the second about 5
 Transcript Snippet: That's what she said at 1:17 p. m. But then just 50 minutes later, she gives another interview, and her story has changed. This is given at around 2:08 p. m.
 
 Anchored Artifacts: A-2086.1, A-2086.2
-Mentions: N-735
+Mentions: N-733
 Related Nodes: N-10677
 Investigative Direction: Obtain broadcast metadata for both interviews to verify air times.
 
@@ -1384,7 +1384,7 @@ Claim: The host says Sarah Tool's ABC News estimate of how far away the shot was
 Transcript Snippet: She's even able to confirm how many yards away the bullet was fired from, and it incredibly matches the distance to Loews Center.
 
 Anchored Artifacts: A-2086.3
-Mentions: N-735
+Mentions: N-733
 Related Nodes: N-10677
 Investigative Direction: Measure the distance from the courtyard seat to the Losee Center roof position and compare with Tool's figure.
 
@@ -1624,7 +1624,7 @@ Claim: The host recounts a tip she says was well vetted that Erika was in charge
 Transcript Snippet: we had received a a well-vetted tip that Erika was in charge of, {quote} modeling apartments for a bunch of underaged East Eastern European girls who were being brought to as and shuffled through Next Model Management
 
 Anchored Artifacts:
-Mentions: N-2, N-574
+Mentions: N-2, N-572
 Related Nodes: N-10532
 Supports: C-4393
 Investigative Direction: Identify the building and obtain leasing, agency and licensing records tying Erika Frantzve to the apartments.
@@ -1640,7 +1640,7 @@ Claim: The host says Faith Kates' emails appear throughout the released Epstein 
 Transcript Snippet: You can read Faith Kates' emails all throughout Jeffrey Epstein's emails
 
 Anchored Artifacts:
-Mentions: N-574, N-9
+Mentions: N-572, N-9
 Related Nodes: N-10532
 Supports: C-2423
 Investigative Direction: Search the released Epstein email set for Kates and quantify the messages by date and subject.
@@ -1686,7 +1686,7 @@ Claim: The host says she could not confirm whether the building was the one owne
 Transcript Snippet: we were not able to confirm, if that white Upper East Side in the '60s of the Upper East Side may have been the one that was owned by Mark Epstein, Jeffrey Epstein's brother.
 
 Anchored Artifacts:
-Mentions: N-587, N-9
+Mentions: N-585, N-9
 Related Nodes: N-10532
 Investigative Direction: Check New York property records for buildings owned by Mark Epstein on the Upper East Side.
 
@@ -1748,7 +1748,7 @@ Claim: The host says Epstein trafficked many women from Eastern Europe through m
 Transcript Snippet: This was his thing of how he trafficked a lot of women from the Eastern Europe through modeling agencies like the one with Jean-Luc Brunel in France.
 
 Anchored Artifacts:
-Mentions: N-9, N-533
+Mentions: N-9, N-531
 Related Nodes: N-10401
 Investigative Direction: Cite court findings and released documents regarding Brunel's agency and Epstein's use of modeling pipelines.
 
@@ -1763,7 +1763,7 @@ Claim: The host says Faith Kates remained Epstein's loyal defender after he was 
 Transcript Snippet: Faith Kates was his loyal defender and it ended up costing her um her entire reputation, her career really.
 
 Anchored Artifacts:
-Mentions: N-574, N-9
+Mentions: N-572, N-9
 Related Nodes: N-10532
 Investigative Direction: Gather press coverage and released emails showing Kates's statements and actions after 2008.
 
@@ -2176,7 +2176,7 @@ Claim: A viewer comment read by the host says ex-CIA Larry Johnson, often on wit
 Transcript Snippet: Larry Johnson is ex-CIA and often on with Mario Nawfal discussing he says the 30-odd-6 narrative is BS and the Egyptian planes could be intelligence related.
 
 Anchored Artifacts: A-2782.3
-Mentions: N-736, N-649
+Mentions: N-734, N-647
 Related Nodes: N-10319, N-10253
 Investigative Direction: Locate the Nawfal appearance and Johnson's actual statements.
 

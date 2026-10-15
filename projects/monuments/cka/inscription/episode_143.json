@@ -1213,8 +1213,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-488",
-      "ref": "N-488",
+      "@id": "N-486",
+      "ref": "N-486",
       "name": "Blake Lively",
       "type": "person",
       "description": "The dismissal example.",
@@ -1230,8 +1230,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-489",
-      "ref": "N-489",
+      "@id": "N-487",
+      "ref": "N-487",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "The dismissal example.",
@@ -1299,8 +1299,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-791",
-      "ref": "N-791",
+      "@id": "N-789",
+      "ref": "N-789",
       "name": "Hasan Piker",
       "type": "person",
       "description": "Streamer whose praise of the host is played in the episode. First named by the host at 00:01:32 in episode 143.",
@@ -1318,8 +1318,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-792",
-      "ref": "N-792",
+      "@id": "N-790",
+      "ref": "N-790",
       "name": "Lane Schamberger",
       "type": "person",
       "description": "Man visible washing his hands in the footage who the host says helped carry Charlie. First named by the host at 00:09:43 in episode 143.",
@@ -1335,8 +1335,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-782",
-      "ref": "N-782",
+      "@id": "N-780",
+      "ref": "N-780",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Tyler Robinson's father, whom the host's source says did not think his son was guilty. First named by the host at 00:30:06 in episode 143.",
@@ -1352,8 +1352,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-793",
-      "ref": "N-793",
+      "@id": "N-791",
+      "ref": "N-791",
       "name": "Brian Davis",
       "type": "person",
       "description": "Person the host says signed off the charging document. First named by the host at 00:30:06 in episode 143.",
@@ -1369,8 +1369,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-794",
-      "ref": "N-794",
+      "@id": "N-792",
+      "ref": "N-792",
       "name": "Brandi Zadrozny",
       "type": "person",
       "description": "Journalist whose article the host paraphrases. First named by the host at 00:36:06 in episode 143.",
@@ -1677,7 +1677,7 @@
       "transcript_snippet": "They're also now pushing the same talking point that I'm now somehow working in coordination or support of I guess the aims of Hasan",
       "mentions_person_refs": [
         "N-3",
-        "N-791"
+        "N-789"
       ]
     },
     {
@@ -1839,7 +1839,7 @@
       "transcript_snippet": "yes, some people might be noting that Lane Schamberger is on the side washing his hands. That makes sense. Don't think too hard about it. He did help carry Charlie into the car.",
       "mentions_person_refs": [
         "N-3",
-        "N-792",
+        "N-790",
         "N-1"
       ]
     },
@@ -2166,8 +2166,8 @@
       "investigative_direction": "Check the court order on Baldoni's motion to dismiss for the number of claims dismissed.",
       "transcript_snippet": "And the court came back and decided, \"Actually, yes, Justin, you're you're correct that 10 of these causes of action are inactionable.",
       "mentions_person_refs": [
-        "N-488",
-        "N-489",
+        "N-486",
+        "N-487",
         "N-3"
       ]
     },
@@ -2459,7 +2459,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-782",
+        "N-780",
         "N-125"
       ]
     },
@@ -2480,7 +2480,7 @@
       "investigative_direction": "Pull the charging document and confirm the signing prosecutor.",
       "transcript_snippet": "and the charging document rather, which was signed off by Brian Davis.",
       "mentions_person_refs": [
-        "N-793"
+        "N-791"
       ]
     },
     {
@@ -2577,7 +2577,7 @@
       "investigative_direction": "Verify the full Piker stream and whether the host's account blocked him.",
       "transcript_snippet": "I can't like her tweets cuz she blocked me many, many years ago. This is before she became our hero.",
       "mentions_person_refs": [
-        "N-791",
+        "N-789",
         "N-3"
       ]
     },
@@ -2601,7 +2601,7 @@
       "transcript_snippet": "the running themes of what we are seeing in Brandi Zadrozny's article is that essentially they are saying Candace ruined an opportunity to pin this on the left",
       "mentions_person_refs": [
         "N-3",
-        "N-794"
+        "N-792"
       ]
     },
     {
@@ -2687,7 +2687,7 @@
       "transcript_snippet": "we had an event that could potentially, I'll say allegedly, be coordinated by the Feds, which was meant to cause a left-right war.",
       "mentions_person_refs": [
         "N-3",
-        "N-791"
+        "N-789"
       ]
     },
     {

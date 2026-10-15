@@ -55,3 +55,10 @@ material-error rate at about 10% (QA round 2: 10.4%, 29 of 278), against a targe
   (George, N-30) are recorded as reviewed in the grounding gate.
 - The two Kerkhoff claims (C-1655, C-1656) attribute her identification to the host's sources; neither says she is a
   suspect.
+
+## Part 3a (chunks 69–78: episodes ~47–54, 600 claims)
+- 53 findings went to confirmation: 46 accepted, 7 amended. Applied: 53 confirmed fixes and 64 minor fixes.
+- Name rules: Andrew Kolvet ("Andrew Colberg"), Guinta, Harpole ("Herpolsheimer", ep54 only), Hunter Kozak
+  ("Hunter Cosgrove"), Larry Guinta, Mark Amodei, Thomas Burt (Duncan Aviation).
+- Duplicates merged (`audits/person_merge_2026-10-15b/id_map.csv`): N-362 "Andrew Colberg" into N-14 Andrew Kolvet,
+  and N-372 "Hunter Cosgrove" into N-328 Hunter Kozak. The chunks not yet verified were rebuilt from the merged drafts.

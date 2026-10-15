@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7143–C-7202
   - New Nodes Introduced: N-10706, N-10708
-  - Reused Nodes Appearing: N-491, N-10705, N-10707, N-4, N-5, N-9, N-40, N-161, N-226, N-612, N-687, N-10000, N-10026, N-10051, N-10074, N-10198, N-10226, N-10369, N-10401, N-10507, N-10651, N-10678, N-10686, N-10688, N-10699, N-10724, N-10768, N-10862, N-10899, N-10987
+  - Reused Nodes Appearing: N-489, N-10705, N-10707, N-4, N-5, N-9, N-40, N-161, N-226, N-610, N-685, N-10000, N-10026, N-10051, N-10074, N-10198, N-10226, N-10369, N-10401, N-10507, N-10651, N-10678, N-10686, N-10688, N-10699, N-10724, N-10768, N-10862, N-10899, N-10987
   - (see registers)
 
 ## 2. Executive Summary
@@ -307,7 +307,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-491** Rick Cutler
+**N-489** Rick Cutler
 
 Named by the host at 00:12:02 in episode 123; first introduced in episode 121.
 
@@ -473,7 +473,7 @@ Persuaded the host to release the evidence early.
 
 ---
 
-**N-612** Graham Allen
+**N-610** Graham Allen
 
 Named by the host among those she says tried to delude the public.
 
@@ -481,7 +481,7 @@ Named by the host among those she says tried to delude the public.
 
 ---
 
-**N-687** Jon Bray
+**N-685** Jon Bray
 
 Source of the microphone-rigging theory and glass photos; transcript spells John Bray.
 
@@ -806,7 +806,7 @@ Claim Timestamp: 00:50:36
 Claim: Police scanner reports (referenced via Baron Coleman episodes) describe the car door being open during high-speed transport and what looked like a struggle inside the vehicle, attributed to Rick Cutler holding Brian Harpole.
 
 Anchored Artifacts: A-2114.2
-Mentions: N-268, N-332, N-491
+Mentions: N-268, N-332, N-489
 Related Nodes: N-10708
 Investigative Direction: Obtain official police scanner audio logs from the date; cross-reference with vehicle door mechanism and seating position documentation.
 
@@ -944,7 +944,7 @@ Claim: The host says John Bray was convinced from the very beginning that Charli
 Transcript Snippet: He was convinced from the very beginning, John Bray, that Charlie's microphone was rigged beneath him and that it subsequently shattered.
 
 Anchored Artifacts: 
-Mentions: N-687, N-1
+Mentions: N-685, N-1
 Related Nodes: N-10768, N-10987, N-10705
 Tags: relevance:core
 Investigative Direction: Obtain John Bray's written analysis and the source photos he supplied.
@@ -1142,7 +1142,7 @@ Claim: The host says she considered that the black item was a taser, recalled Ri
 Transcript Snippet: I did remember that Rick Cutler had something on his back when he was running in there
 
 Anchored Artifacts: 
-Mentions: N-491
+Mentions: N-489
 Related Nodes: N-10714
 Tags: relevance:core
 Investigative Direction: Review footage of Cutler entering the vehicle for what he carried.
@@ -1271,7 +1271,7 @@ Claim: The host says some glass actually fell in front of Charlie at the immedia
 Transcript Snippet: there is some that actually fell in front of Charlie and John Bray's getting me those photos
 
 Anchored Artifacts: A-2857.1
-Mentions: N-687, N-1
+Mentions: N-685, N-1
 Related Nodes: N-10705
 Tags: relevance:core
 Investigative Direction: Obtain Bray's photos with metadata and compare against the UVU stage footage.
@@ -1465,7 +1465,7 @@ Claim: The host says Blake Neff, Graham Allen and Paramount Tactical tried to de
 Transcript Snippet: Did you really think Blake Neff, Graham Allen, and Paramount not so tactical? We're going to delude the public into the absurd story that you tried to spin.
 
 Anchored Artifacts: 
-Mentions: N-161, N-612
+Mentions: N-161, N-610
 Related Nodes: N-10899
 Tags: relevance:context
 Investigative Direction: List the specific public statements by each that the host says are false.
@@ -1625,7 +1625,7 @@ Claim: The host says she thinks John Bray's theory has infinitely more evidence 
 Transcript Snippet: I think John Bray's theory has infinitely more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.
 
 Anchored Artifacts: 
-Mentions: N-687
+Mentions: N-685
 Related Nodes: N-10705, N-10768
 Tags: relevance:core
 Investigative Direction: Compare Bray's evidence compilation with the prosecution's exhibits.

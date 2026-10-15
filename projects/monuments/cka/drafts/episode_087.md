@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: b4380e6d087a8764d74904be2628e149d3b959bb6ee30a42cff982058d3dc8cf
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-950, N-11398, N-11399
+  - Tip-minted Nodes (supplement_2026-10g): N-948, N-11398, N-11399
   - Hole-minted Nodes (reintro-ep087): N-10620, N-10888
   - Tip-minted Nodes (reintro-ep087): N-11142, N-11199
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14550–C-14629
   - New Nodes Introduced: N-10574, N-10575, N-10577, N-10578, N-10579, N-10580
-  - Hole-minted Nodes (wave3): N-414, N-415, N-416, N-417, N-418, N-419, N-420, N-421
-  - Reused Nodes Appearing: N-10153, N-28, N-10569, N-10576, N-10581, N-6, N-14, N-42, N-54, N-61, N-128, N-211, N-263, N-332, N-364, N-713, N-716, N-10000, N-10007, N-10012, N-10014, N-10032, N-10048, N-10065, N-10074, N-10076, N-10078, N-10082, N-10092, N-10106, N-10110, N-10144, N-10168, N-10184, N-10202, N-10223, N-10239, N-10253, N-10326, N-10337, N-10342, N-10346, N-10347, N-10354, N-10355, N-10367, N-10370, N-10383, N-10446, N-10456, N-10495, N-10535, N-10539, N-10543, N-10551, N-10572, N-10573, N-10674, N-10975, N-11128, N-11208, N-11325
+  - Hole-minted Nodes (wave3): N-412, N-413, N-414, N-415, N-416, N-417, N-418, N-419
+  - Reused Nodes Appearing: N-10153, N-28, N-10569, N-10576, N-10581, N-6, N-14, N-42, N-54, N-61, N-128, N-211, N-263, N-332, N-363, N-711, N-714, N-10000, N-10007, N-10012, N-10014, N-10032, N-10048, N-10065, N-10074, N-10076, N-10078, N-10082, N-10092, N-10106, N-10110, N-10144, N-10168, N-10184, N-10202, N-10223, N-10239, N-10253, N-10326, N-10337, N-10342, N-10346, N-10347, N-10354, N-10355, N-10367, N-10370, N-10383, N-10446, N-10456, N-10495, N-10535, N-10539, N-10543, N-10551, N-10572, N-10573, N-10674, N-10975, N-11128, N-11208, N-11325
   - (see registers)
 
 ---
@@ -324,7 +324,7 @@ Video Timestamp: 00:22:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14584, N-40, N-418*
+*Related: C-14584, N-40, N-416*
 
 ---
 
@@ -337,7 +337,7 @@ Video Timestamp: 00:27:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14591, N-136, N-421*
+*Related: C-14591, N-136, N-419*
 
 ---
 
@@ -365,7 +365,7 @@ Video Timestamp: 00:29:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14598, N-3, N-950*
+*Related: C-14598, N-3, N-948*
 
 ---
 
@@ -416,49 +416,49 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-414** Zachariah Karashy
+**N-412** Zachariah Karashy
 
 First named by the host at 00:06:41 in episode 87. Aliases: Zachariah Karashi.
 
 *Related: C-2627, C-2628, C-2629*
 
-**N-415** Ahmed Qureshi
+**N-413** Ahmed Qureshi
 
 First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Karashi, Akhmed Karashi.
 
 *Related: C-2627, C-2628, C-2629, C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-416** Nathan Henderson
+**N-414** Nathan Henderson
 
 First named by the host at 00:16:55 in episode 87.
 
 *Related: C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-418** Connor Henderson
+**N-416** Connor Henderson
 
 First named by the host at 00:17:51 in episode 87.
 
 *Related: C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-417** Gina Romney Henderson
+**N-415** Gina Romney Henderson
 
 First named by the host at 00:16:55 in episode 87. Aliases: Gina Romney.
 
 *Related: C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-420** Caleb Cunningham
+**N-418** Caleb Cunningham
 
 First named by the host at 00:25:43 in episode 87.
 
 *Related: C-2639, C-2640, C-2641, C-2642, C-2644, C-2649, C-2650*
 
-**N-419** Jeffrey Knuckles
+**N-417** Jeffrey Knuckles
 
 First named by the host at 00:25:43 in episode 87.
 
 *Related: C-2639, C-2640, C-2641, C-2642, C-2644, C-2649, C-2650*
 
-**N-421** Michael Shawn Covey
+**N-419** Michael Shawn Covey
 
 First named by the host at 00:27:39 in episode 87.
 
@@ -715,7 +715,7 @@ Baron Coleman; co-analyst of Built's federal contracts.
 
 ---
 
-**N-364** Mitch Snow
+**N-363** Mitch Snow
 
 Mitch Snow; the host recalls his account of O5s and O6s at Fort Huachuca.
 
@@ -723,7 +723,7 @@ Mitch Snow; the host recalls his account of O5s and O6s at Fort Huachuca.
 
 ---
 
-**N-713** John F. Kennedy
+**N-711** John F. Kennedy
 
 John F. Kennedy; subject of the CBLA history and Texas comparison.
 
@@ -731,7 +731,7 @@ John F. Kennedy; subject of the CBLA history and Texas comparison.
 
 ---
 
-**N-716** Ron Paul
+**N-714** Ron Paul
 
 Ron Paul; subject of the 2012 convention comment.
 
@@ -1189,7 +1189,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-950** Robbie Hild
+**N-948** Robbie Hild
 
 First named by the host at 00:27:39 in episode 87 (spelled Robbie Hild and Robbie Hild in the transcript). Person the host says she put an APB out for because he stood alongside a Lyman relative; she says he attended BYU, played lacrosse and graduated around 2020.
 
@@ -1239,7 +1239,7 @@ Claim Timestamp: 00:08:11
 Claim: Kash Patel authored an X post at approximately 4:21 PM MST on 2025-09-10 stating that the subject in the Charlie Kirk shooting was in custody.
 
 Anchored Artifacts: A-1918.1
-Mentions: N-1, N-69, N-414, N-415
+Mentions: N-1, N-69, N-412, N-413
 
 Related Nodes: N-10578
 
@@ -1254,7 +1254,7 @@ Claim Timestamp: 00:09:01
 Claim: At 5:59 PM the same day, Kash Patel posted that the previously detained subject had been released after interrogation by law enforcement, with no further explanation given.
 
 Anchored Artifacts: A-1918.2
-Mentions: N-69, N-414, N-415
+Mentions: N-69, N-412, N-413
 
 Related Nodes: N-10578
 
@@ -1269,7 +1269,7 @@ Claim Timestamp: 00:06:41–00:09:45
 Claim: The young man detained and released after interrogation is referred to as "Zachariah Karashy," with the host later connecting him to Ahmed Qureshi's son "Zachariah."
 
 Anchored Artifacts: A-1918.1, A-1918.2
-Mentions: N-414, N-415
+Mentions: N-412, N-413
 
 Related Nodes: N-10578
 
@@ -1284,7 +1284,7 @@ Claim Timestamp: 00:10:27–00:12:44
 Claim: Per Ahmed Qureshi's LinkedIn profile, which the host shows, he is President/COO of Built Incorporated and an O6 commanding officer (Navy Captain) at East Coast HQ since May 2024, according to the host.
 
 Anchored Artifacts: A-1919.1
-Mentions: N-415
+Mentions: N-413
 
 Related Nodes: N-10577
 
@@ -1299,7 +1299,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: The host says Built Incorporated was co-founded by Ahmed Qureshi (an O5 at the time) and Nathan Henderson in 2015.
 
 Anchored Artifacts: A-1919.1, A-1920.1
-Mentions: N-415, N-416, N-418, N-417
+Mentions: N-413, N-414, N-416, N-415
 
 Related Nodes: N-10577
 
@@ -1314,7 +1314,7 @@ Claim Timestamp: 00:15:43–00:16:05
 Claim: The host says USA Spending records show Built Incorporated received approximately $7.4M from the Air Force and just under $240K from the Navy in June 2025, with the largest contracts dated June 1 and June 16, 2025.
 
 Anchored Artifacts: A-1920.1, A-1920.2
-Mentions: N-415, N-416, N-418, N-417
+Mentions: N-413, N-414, N-416, N-415
 
 Related Nodes: N-10577
 
@@ -1329,7 +1329,7 @@ Claim Timestamp: 00:17:51
 Claim: Per Gina Romney Henderson's LinkedIn profile, which the host shows, she is Vice President of User Experience at Built Incorporated; the host also says she is a BYU alumna.
 
 Anchored Artifacts: A-1921.1
-Mentions: N-415, N-416, N-418, N-417
+Mentions: N-413, N-414, N-416, N-415
 
 Related Nodes: N-10574
 
@@ -1344,7 +1344,7 @@ Claim Timestamp: 00:17:51–00:19:43
 Claim: The host says Connor Henderson worked as an emergency room scribe at Timpanogos Hospital from 2024 until approximately the time of Charlie Kirk's assassination, if his LinkedIn is to be believed.
 
 Anchored Artifacts: (host assertion; LinkedIn described but specific URL not pinned)
-Mentions: N-1, N-415, N-416, N-418, N-417
+Mentions: N-1, N-413, N-414, N-416, N-415
 
 Related Nodes: N-10576
 
@@ -1403,7 +1403,7 @@ Claim Timestamp: 00:16:55–00:17:51
 Claim: The Qureshi and Henderson families lived in the same house in Keller, Texas; the host offers alternative explanations (vacation rental, sale) but asserts cohabitation is not in dispute.
 
 Anchored Artifacts: (host assertion; no public records shown)
-Mentions: N-415, N-416, N-418, N-417
+Mentions: N-413, N-414, N-416, N-415
 
 Related Nodes: N-10577
 
@@ -1418,7 +1418,7 @@ Claim Timestamp: 00:23:46
 Claim: The host says Andrew Zenger was appointed CEO of Timpanogos Hospital on August 19, 2025, weeks before the September 10 event.
 
 Anchored Artifacts: (host assertion; not displayed on screen)
-Mentions: N-136, N-420, N-419, N-421
+Mentions: N-136, N-418, N-417, N-419
 
 Related Nodes: N-10576
 
@@ -1433,7 +1433,7 @@ Claim Timestamp: 00:23:46–00:24:39
 Claim: The host says that prior to Timpanogos, Andrew Zenger served as COO of Medical City in McKinney, Texas.
 
 Anchored Artifacts: (host assertion; not displayed on screen)
-Mentions: N-136, N-420, N-419, N-421
+Mentions: N-136, N-418, N-417, N-419
 
 Related Nodes:
 
@@ -1448,7 +1448,7 @@ Claim Timestamp: 00:24:39
 Claim: Andrew Zenger attended BYU Jerusalem, with the host noting he was there during the 2012 Romney presidential campaign season.
 
 Anchored Artifacts: (host assertion)
-Mentions: N-136, N-420, N-419, N-421
+Mentions: N-136, N-418, N-417, N-419
 
 Related Nodes: N-10575
 
@@ -1463,7 +1463,7 @@ Claim Timestamp: 00:24:39–00:25:43
 Claim: Per a single unnamed source, the BYU Jerusalem Center is used by the CIA to recruit elite Mormon youth, with the program director being Israeli.
 
 Anchored Artifacts: (host assertion; no artifact shown; fails admission test without displayed evidence)
-Mentions: N-136, N-420, N-419, N-421
+Mentions: N-136, N-418, N-417, N-419
 
 Related Nodes: N-10575
 
@@ -1492,7 +1492,7 @@ Claim Timestamp: 00:27:39
 Claim: The host says Michael Shawn Covey, a roommate of Andrew Zenger from the Jerusalem period, contracts with the CIA.
 
 Anchored Artifacts: (host assertion; no displayed evidence)
-Mentions: N-136, N-420, N-419, N-421
+Mentions: N-136, N-418, N-417, N-419
 
 Related Nodes: N-10580
 
@@ -1563,7 +1563,7 @@ Claim Timestamp: 00:25:43–00:26:30
 Claim: The host says Caleb Cunningham was in Jerusalem with Andrew Zenger during the Romney 2012 presidential campaign and was active on the campaign.
 
 Anchored Artifacts: (host assertion)
-Mentions: N-136, N-420, N-419, N-421
+Mentions: N-136, N-418, N-417, N-419
 
 Related Nodes:
 
@@ -1578,7 +1578,7 @@ Claim Timestamp: 00:25:43–00:26:30
 Claim: The host says Jeffrey Knuckles was in Jerusalem with Andrew Zenger during the 2012 Romney campaign period and later served as an advisor to Romney's campaign.
 
 Anchored Artifacts: (host assertion)
-Mentions: N-136, N-420, N-419, N-421
+Mentions: N-136, N-418, N-417, N-419
 
 Related Nodes:
 
@@ -1863,7 +1863,7 @@ Claim: The host says police scanner traffic suggested the shooter might be going
 Transcript Snippet: What we do know is that shortly after came over the police scanner or might be going from hospital to hospital, they moved to detain a young man named Zachariah Karashy.
 
 Anchored Artifacts: 
-Mentions: N-3, N-414
+Mentions: N-3, N-412
 Related Nodes: N-10578, N-11142
 Tags: relevance:core
 Investigative Direction: Obtain the police scanner audio and CAD log for 2025-09-10 and the detention record naming the young man.
@@ -1879,7 +1879,7 @@ Claim: The host says it was after Zachariah was detained that Kash Patel issued 
 Transcript Snippet: it was after Zachariah was detained that Kash Patel rather gloriously issued a tweet which effectively ended the manhunt prematurely.
 
 Anchored Artifacts: A-1918.1
-Mentions: N-3, N-69, N-414
+Mentions: N-3, N-69, N-412
 Related Nodes: N-10202, N-10578
 Tags: relevance:core
 Investigative Direction: Compare the detention time of the young man with Patel's 4:21 p.m. post and any search-scaling decisions by Utah agencies.
@@ -1895,7 +1895,7 @@ Claim: The host says Zachariah should be thought of as 'decoy boy number two,' w
 Transcript Snippet: we should start to think of Zachariah Karashy as decoy boy number two, okay? First, it was George Zin.
 
 Anchored Artifacts: 
-Mentions: N-3, N-414, N-42
+Mentions: N-3, N-412, N-42
 Related Nodes: N-10032, N-10578
 Tags: relevance:core
 Investigative Direction: Obtain booking and release records for both men and establish whether any evidence links their detentions to one another.
@@ -1960,7 +1960,7 @@ Claim: The host recalls that Mitch Snow said he saw a meeting conclude with a bu
 Transcript Snippet: Mitch Snow, he said he saw this meeting conclude with a bunch of O5s and O6s coming out of Fort Huachuca.
 
 Anchored Artifacts: 
-Mentions: N-3, N-364, N-415
+Mentions: N-3, N-363, N-413
 Related Nodes: N-10370, N-10326, N-10367
 Tags: relevance:core
 Investigative Direction: Re-interview Mitch Snow on the meeting date, location and participants; request Fort Huachuca visitor and meeting records for September 8 to 9, 2025.
@@ -1976,7 +1976,7 @@ Claim: The host reads that the award-winning Built app provides 3D interactive a
 Transcript Snippet: the award-winning Built app provides 3D interactive and XR immersive intelligent instructions that are voice and text guided.
 
 Anchored Artifacts: A-3325.1
-Mentions: N-3, N-415
+Mentions: N-3, N-413
 Related Nodes: N-10577
 Tags: relevance:context
 Investigative Direction: Capture the Built Incorporated website or app-store page and Texas registration records to confirm the product description and location.
@@ -2008,7 +2008,7 @@ Claim: The host says the CIA ran the JFK assassination operation out of Texas.
 Transcript Snippet: just like there was a Texas play in JFK's assassination, I might add. CIA ran that operation out of Texas.
 
 Anchored Artifacts: 
-Mentions: N-3, N-713
+Mentions: N-3, N-711
 Related Nodes: N-10082
 Tags: relevance:tangential
 Investigative Direction: Cite the historical record (Warren Commission, Church Committee, HSCA) on any CIA operational role in Dallas; the host offers no source.
@@ -2024,7 +2024,7 @@ Claim: The host says Built Incorporated receives funding from the Department of 
 Transcript Snippet: you should know that this company receives funding from the Department of Defense. Okay, contracts from the Department of Defense.
 
 Anchored Artifacts: A-1920.1
-Mentions: N-3, N-415
+Mentions: N-3, N-413
 Related Nodes: N-10577, N-10888
 Tags: relevance:context
 Investigative Direction: Query USAspending.gov by Built's UEI for all DoD awards and agency of record.
@@ -2120,7 +2120,7 @@ Claim: The host says Built co-founder Nathan Henderson is married to a woman nam
 Transcript Snippet: And that Nathan Henderson, the co-founder, is married to a woman named Gina Romney.
 
 Anchored Artifacts: A-3326.1
-Mentions: N-3, N-416, N-417
+Mentions: N-3, N-414, N-415
 Related Nodes: N-10574, N-10577
 Tags: relevance:context
 Investigative Direction: Check marriage records and corporate filings; establish whether Gina Romney Henderson is related to Mitt Romney's family.
@@ -2136,7 +2136,7 @@ Claim: The host says the Hendersons' son Connor attended the same school (BYU) a
 Transcript Snippet: Connor went to the same school at the same time as Zacharias Qureshi.
 
 Anchored Artifacts: A-3326.1
-Mentions: N-3, N-418, N-414, N-416, N-417
+Mentions: N-3, N-416, N-412, N-414, N-415
 Related Nodes: N-10092, N-10574
 Tags: relevance:context
 Investigative Direction: Confirm enrollment and graduation years through BYU records or public profiles.
@@ -2152,7 +2152,7 @@ Claim: The host says Connor Henderson and Zachariah Qureshi both interned at the
 Transcript Snippet: And their sons both interned at the Built company.
 
 Anchored Artifacts: A-3326.1
-Mentions: N-3, N-418, N-414
+Mentions: N-3, N-416, N-412
 Related Nodes: N-10577
 Tags: relevance:context
 Investigative Direction: Check LinkedIn profiles and Built staff pages for internship entries.
@@ -2168,7 +2168,7 @@ Claim: The host says Gina Romney's name is the third time in this investigation 
 Transcript Snippet: that is the third time in this investigation that the Romney name has come up.
 
 Anchored Artifacts: A-3326.1
-Mentions: N-3, N-417, N-28
+Mentions: N-3, N-415, N-28
 Related Nodes: N-10574
 Tags: relevance:context
 Investigative Direction: Identify the earlier two Romney-name occurrences in prior episodes and check whether the same family is meant.
@@ -2184,7 +2184,7 @@ Claim: The host says viewers in chat, and Baron Coleman, noted that Tyler Robins
 Transcript Snippet: I see a lot of you guys in the chat noting that Tyler Robinson looks a lot like Connor. That was something that Baron pointed out
 
 Anchored Artifacts: A-3327.1
-Mentions: N-3, N-40, N-418, N-332
+Mentions: N-3, N-40, N-416, N-332
 Related Nodes: N-10574
 Tags: relevance:tangential
 Investigative Direction: A resemblance in photographs is not evidence of a link; no record connects the two men beyond the host's school and Timpanogos claims.
@@ -2232,7 +2232,7 @@ Claim: The host says the Karashi (Qureshi) and Henderson families came out of Te
 Transcript Snippet: And so, we have the Karashis, the Hendersons that are coming out of Texas, our planes are coming out of Texas.
 
 Anchored Artifacts: 
-Mentions: N-3, N-415, N-416
+Mentions: N-3, N-413, N-414
 Related Nodes: N-10253, N-10577
 Tags: relevance:context
 Investigative Direction: Confirm the Texas residence history of both families and the Texas legs of the flights the host cites.
@@ -2248,7 +2248,7 @@ Claim: The host says Andrew Zenger, like Karashi (Qureshi), Henderson and Gina R
 Transcript Snippet: Now, of course, Andrew Zenger, just like Karashi and Henderson and our Gina Romney, he attended BYU.
 
 Anchored Artifacts: 
-Mentions: N-3, N-136, N-415, N-416, N-417
+Mentions: N-3, N-136, N-413, N-414, N-415
 Related Nodes: N-10092, N-10574
 Tags: relevance:context
 Investigative Direction: Verify each person's BYU attendance from alumni or public profile records.
@@ -2280,7 +2280,7 @@ Claim: The host says Andrew Zenger was good friends with Jeffrey Knuckles, who w
 Transcript Snippet: He was also good friends with a guy named Jeffrey Knuckles, who was out there as well, who later served as an advisor to the Romney campaign.
 
 Anchored Artifacts: 
-Mentions: N-3, N-136, N-419
+Mentions: N-3, N-136, N-417
 Related Nodes: N-10574, N-10575
 Tags: relevance:context
 Investigative Direction: Find public posts or photos tying Zenger and Knuckles together and verify Knuckles's campaign role.
@@ -2312,7 +2312,7 @@ Claim: The host says Robbie Hild was one of the first people she put an APB out 
 Transcript Snippet: one of the first people that I put an APB out for because he was bizarrely standing alongside Shane Lyman.
 
 Anchored Artifacts: 
-Mentions: N-3, N-950, N-128, N-61
+Mentions: N-3, N-948, N-128, N-61
 Related Nodes: N-10153, N-10144
 Tags: relevance:core
 Investigative Direction: Locate the original episode and the photo of Hild with the Lyman relative; confirm the person's identity (the host later spells the name Hill and Hild).
@@ -2378,7 +2378,7 @@ Claim: The host says the Lyman relative and some friends traced the steps of the
 Transcript Snippet: he and some friends uniquely traced the steps of the killer and showed people, "This is the footprint.
 
 Anchored Artifacts: A-1924.1
-Mentions: N-3, N-950, N-128
+Mentions: N-3, N-948, N-128
 Related Nodes: N-10153, N-10144
 Supports: C-9259, C-1312
 Tags: relevance:core
@@ -2411,7 +2411,7 @@ Claim: The host asks viewers who know how the Hild family is related to the Romn
 Transcript Snippet: please email us at more tips at candaceowens. com.
 
 Anchored Artifacts: A-3330.1
-Mentions: N-3, N-950, N-28
+Mentions: N-3, N-948, N-28
 Related Nodes: N-10579, N-10153
 Tags: relevance:core
 Investigative Direction: Collect viewer tips on Hild-Romney marriage records or genealogy and verify with public records.
@@ -2427,7 +2427,7 @@ Claim: The host says that with the BYU and lacrosse details, the investigation i
 Transcript Snippet: but the investigation into Robbie Hild is now opened again.
 
 Anchored Artifacts: 
-Mentions: N-3, N-950
+Mentions: N-3, N-948
 Related Nodes: N-10153, N-10579
 Tags: relevance:core
 Investigative Direction: Track subsequent episodes for new findings on Hild's identity and family ties.
@@ -2475,7 +2475,7 @@ Claim: The host reads a 2007 Washington Post article stating comparative bullet 
 Transcript Snippet: comparative bullet lead analysis was first used after President John F. Kennedy's assassination in 1963.
 
 Anchored Artifacts: A-1922.1
-Mentions: N-3, N-713
+Mentions: N-3, N-711
 Related Nodes: N-10569
 Tags: relevance:context
 Investigative Direction: Retrieve the 2007 Washington Post article and the 2004 NAS report to confirm the history of the technique.
@@ -2523,7 +2523,7 @@ Claim: The host says everyone knows who killed JFK and that it was not Lee Harve
 Transcript Snippet: cuz we all know who killed JFK. And it wasn't Lee Harvey Oswald.
 
 Anchored Artifacts: 
-Mentions: N-3, N-713
+Mentions: N-3, N-711
 Related Nodes: N-10082
 Tags: relevance:tangential
 Investigative Direction: Assertion without a named alternative; refer to the Warren Commission and HSCA findings.
@@ -2571,7 +2571,7 @@ Claim: The host says the Hild family is married into the Robinsons as well and t
 Transcript Snippet: Certainly, the Hild family is married into the Robinsons as well
 
 Anchored Artifacts: 
-Mentions: N-3, N-950, N-40
+Mentions: N-3, N-948, N-40
 Related Nodes: N-11398, N-10153
 Tags: relevance:tangential
 Investigative Direction: Genealogical and marriage records for the Hild and Robinson families.
@@ -2765,7 +2765,7 @@ Claim: The host says her producer has a note that the RNC altered the convention
 Transcript Snippet: my producer has a note that the RNC altered the convention rules to bind delegates in future elections to vote for the candidate who wins their state's primary caucus or caucus.
 
 Anchored Artifacts: A-1926.2
-Mentions: N-3, N-716, N-28
+Mentions: N-3, N-714, N-28
 Related Nodes: N-10007, N-11399
 Tags: relevance:context
 Investigative Direction: Read the RNC 2012 Rules (Rule 16 and the Rules Committee actions) and contemporaneous reporting.
@@ -2781,7 +2781,7 @@ Claim: The host says the RNC also refused to recognize Ron Paul's delegates from
 Transcript Snippet: The RNC also refused to recognize Paul's delegates from Maine.
 
 Anchored Artifacts: A-1926.2
-Mentions: N-3, N-716
+Mentions: N-3, N-714
 Related Nodes: N-10007, N-11399
 Tags: relevance:context
 Investigative Direction: Check 2012 convention credentials rulings on the Maine delegation.

@@ -502,7 +502,7 @@
             "C-7773"
           ],
           "related_nodes": [
-            "N-434",
+            "N-432",
             "N-10657"
           ],
           "tags": [],
@@ -904,8 +904,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-370",
-      "ref": "N-370",
+      "@id": "N-369",
+      "ref": "N-369",
       "name": "Danny Philip",
       "type": "person",
       "description": "Danny Philip; the host says he drove the second Denali with Neff and that Neff will not name him.",
@@ -924,8 +924,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-434",
-      "ref": "N-434",
+      "@id": "N-432",
+      "ref": "N-432",
       "name": "Brad Parscale",
       "type": "person",
       "description": "Brad Parscale; the host says he was a Salem Media executive who brought the filings forward.",
@@ -941,8 +941,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-490",
-      "ref": "N-490",
+      "@id": "N-488",
+      "ref": "N-488",
       "name": "Taylor Swift",
       "type": "person",
       "description": "Taylor Swift; the host compares Ye's tour to her Eras Tour.",
@@ -958,8 +958,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-713",
-      "ref": "N-713",
+      "@id": "N-711",
+      "ref": "N-711",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; named in the host's Operation Mockingbird aside.",
@@ -1353,8 +1353,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-796",
-      "ref": "N-796",
+      "@id": "N-794",
+      "ref": "N-794",
       "name": "Ebro Darden",
       "type": "person",
       "description": "First named by the host (as Ebro) at 00:28:04 in episode 148. Radio host named in Ye's TMZ clip, who Ye says declined to have the host on his show. Aliases: Ebro.",
@@ -1624,7 +1624,7 @@
       "transcript_snippet": "he has been touring and he has been selling out stadiums that are between 70,000-100,000 seats all over the world",
       "mentions_person_refs": [
         "N-27",
-        "N-490",
+        "N-488",
         "N-3"
       ]
     },
@@ -2185,7 +2185,7 @@
       "mentions_person_refs": [
         "N-27",
         "N-3",
-        "N-796"
+        "N-794"
       ]
     },
     {
@@ -2228,7 +2228,7 @@
       ],
       "mentions_person_refs": [
         "N-161",
-        "N-370",
+        "N-369",
         "N-1"
       ]
     },
@@ -2250,7 +2250,7 @@
       "investigative_direction": "Event attendee list, green-room footage and the restaurant's own video of the morning.",
       "transcript_snippet": "We know that neither Danny or Blake attend the restaurantology event that morning where Charlie gave an interview.",
       "mentions_person_refs": [
-        "N-370",
+        "N-369",
         "N-161",
         "N-1"
       ]
@@ -2278,7 +2278,7 @@
       ],
       "mentions_person_refs": [
         "N-161",
-        "N-370"
+        "N-369"
       ]
     },
     {
@@ -2482,7 +2482,7 @@
       "transcript_snippet": "He won't name the person which makes me think usually when he develops this amnesia it's usually about Danny Philip for some reason.",
       "mentions_person_refs": [
         "N-161",
-        "N-370"
+        "N-369"
       ]
     },
     {
@@ -2879,7 +2879,7 @@
       "investigative_direction": "Cite the Church Committee findings on press relationships; the host gives no source on air.",
       "transcript_snippet": "Operation Mockingbird. The New York Times was involved in that. After they committed another a different state assassination. Assassination of JFK.",
       "mentions_person_refs": [
-        "N-713",
+        "N-711",
         "N-2"
       ]
     },
@@ -3365,7 +3365,7 @@
         "C-2866"
       ],
       "mentions_person_refs": [
-        "N-434"
+        "N-432"
       ]
     },
     {

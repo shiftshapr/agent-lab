@@ -11,16 +11,16 @@
 - **Transcript SHA-256**: fac4670485ac7aebfc62240edc4e00c18462baab4c60e720e986d00acb522c8d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-867, N-11258
+  - Tip-minted Nodes (supplement_2026-10d): N-865, N-11258
   - Hole-minted Nodes (reintro-ep097): N-10651, N-10695
   - Tip-minted Nodes (reintro-ep097): N-11137
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10354–C-10422
-  - Tip-minted Nodes (reintro-ep097): N-791
-  - Reused Nodes Appearing: N-10643, N-10645, N-10646, N-10647, N-10649, N-5, N-9, N-30, N-36, N-60, N-82, N-87, N-192, N-197, N-211, N-226, N-263, N-273, N-280, N-282, N-321, N-555, N-605, N-10012, N-10023, N-10083, N-10272, N-10341, N-10358, N-10373, N-10437, N-10546, N-10552, N-10641, N-10664, N-10681, N-10812, N-10840, N-10862, N-10899, N-10900, N-11001, N-11013, N-10650, N-436
+  - Tip-minted Nodes (reintro-ep097): N-789
+  - Reused Nodes Appearing: N-10643, N-10645, N-10646, N-10647, N-10649, N-5, N-9, N-30, N-36, N-60, N-82, N-87, N-192, N-197, N-211, N-226, N-263, N-273, N-280, N-282, N-321, N-553, N-603, N-10012, N-10023, N-10083, N-10272, N-10341, N-10358, N-10373, N-10437, N-10546, N-10552, N-10641, N-10664, N-10681, N-10812, N-10840, N-10862, N-10899, N-10900, N-11001, N-11013, N-10650, N-434
  - New Nodes Introduced: N-10644, N-10648
- - Hole-minted Nodes (wave3): N-431, N-432
- - Reused Nodes Appearing: N-2, N-383, N-3, N-268
+ - Hole-minted Nodes (wave3): N-429, N-430
+ - Reused Nodes Appearing: N-2, N-381, N-3, N-268
  - (see registers)
 
 # Episode 97 Analysis: "BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331"
@@ -309,7 +309,7 @@ Video Timestamp: 00:51:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2828, C-2829, N-3, N-791*---
+*Related: C-2828, C-2829, N-3, N-789*---
 
 ### **A-2024** Lawler-Gottheimer House Resolution Bundle
 
@@ -418,7 +418,7 @@ Video Timestamp: 00:29:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10382, C-10383, N-3, N-364*
+*Related: C-10382, C-10383, N-3, N-363*
 
 ---
 
@@ -437,7 +437,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-791** Hasan Piker
+**N-789** Hasan Piker
 
 Streamer; first named in A-2023.1.
 
@@ -445,19 +445,19 @@ Streamer; first named in A-2023.1.
 
 ---
 
-**N-432** Josh Gottheimer
+**N-430** Josh Gottheimer
 
 First named by the host at 00:50:06 in episode 97.
 
 *Related: C-2828, C-2829, C-2830, C-2831, C-2832*
 
-**N-431** Mike Lawler
+**N-429** Mike Lawler
 
 First named by the host at 00:50:06 in episode 97.
 
 *Related: C-2828, C-2829, C-2830, C-2831, C-2832*
 
-**N-383** Josef Mengele
+**N-381** Josef Mengele
 
 Named by the host at 00:53:42 in episode 97; first introduced in episode 65.
 
@@ -753,7 +753,7 @@ Baron Coleman; speaker in the clip contesting Erika's claim.
 
 ---
 
-**N-364** Mitch Snow
+**N-363** Mitch Snow
 
 Mitch Snow, the Fort Huachuca witness at the center of the Harpole dispute.
 
@@ -761,7 +761,7 @@ Mitch Snow, the Fort Huachuca witness at the center of the Harpole dispute.
 
 ---
 
-**N-436** Kimberly Klacik
+**N-434** Kimberly Klacik
 
 Kim Klacik; the host recounts her earlier lawsuit against the host.
 
@@ -769,7 +769,7 @@ Kim Klacik; the host recounts her earlier lawsuit against the host.
 
 ---
 
-**N-555** Aubrey Lech
+**N-553** Aubrey Lech
 
 Aubrey Lech; the host says Kolvet cannot show what Lech gave her.
 
@@ -777,7 +777,7 @@ Aubrey Lech; the host says Kolvet cannot show what Lech gave her.
 
 ---
 
-**N-605** Melania Trump
+**N-603** Melania Trump
 
 Melania Trump; author of the post criticizing Kimmel.
 
@@ -969,7 +969,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-867** Matt Slauson
+**N-865** Matt Slauson
 
 First named by the host at 01:08:34 in episode 97 (spelled Slauson; at 01:13:25 she says 'Matt Christiansen', possibly the same lawyer). Attorney for Brian Harpole.
 
@@ -1110,7 +1110,7 @@ Claim Timestamp: 00:22:23
 Claim: Candace sent Harpole three text messages seeking clarification of his whereabouts on September 9; Harpole did not reply to any of them.
 
 Anchored Artifacts: A-2015.8, A-2017.1, A-2017.2, A-2017.3
-Mentions: N-3, N-364
+Mentions: N-3, N-363
 
 Related Nodes: N-10643
 
@@ -1259,7 +1259,7 @@ Claim Timestamp: 00:50:32
 Claim: Reps. Mike Lawler (R-NY) and Josh Gottheimer (D-NJ) introduced a bipartisan House resolution condemning Candace Owens, among others.
 
 Anchored Artifacts: A-2023.1, A-2024.1
-Mentions: N-3, N-432, N-431, N-383
+Mentions: N-3, N-430, N-429, N-381
 
 Related Nodes: N-10648
 
@@ -1274,7 +1274,7 @@ Claim Timestamp: 00:52:10
 Claim: The resolution text characterizes Candace's rhetoric as accusing Israel of controlling the US government.
 
 Anchored Artifacts: A-2024.1
-Mentions: N-3, N-432, N-431, N-383
+Mentions: N-3, N-430, N-429, N-381
 
 Related Nodes: N-10648
 
@@ -1289,7 +1289,7 @@ Claim Timestamp: 00:52:50
 Claim: The resolution text asserts Candace made an anti-Semitic claim that the United States is controlled by satanic pedophiles who work for Israel.
 
 Anchored Artifacts: A-2024.1
-Mentions: N-3, N-432, N-431, N-383
+Mentions: N-3, N-430, N-429, N-381
 
 Related Nodes: N-10648
 
@@ -1304,7 +1304,7 @@ Claim Timestamp: 00:53:42
 Claim: The resolution text references Candace's July 2024 commentary regarding Josef Mengele and "bizarre propaganda" following the Holocaust.
 
 Anchored Artifacts: A-2024.1
-Mentions: N-3, N-432, N-431, N-383
+Mentions: N-3, N-430, N-429, N-381
 
 Related Nodes: N-10648
 
@@ -1319,7 +1319,7 @@ Claim Timestamp: 00:55:26
 Claim: In a clip the host plays from the official Auschwitz-Birkenau Memorial podcast, a speaker says that myths arose around Mengele, including the "sewing twins together" legend, which did not happen.
 
 Anchored Artifacts: A-2022.1
-Mentions: N-3, N-432, N-431, N-383
+Mentions: N-3, N-430, N-429, N-381
 
 Related Nodes: N-10648
 
@@ -1662,7 +1662,7 @@ Claim: The host says that on November 8 she first mentioned that someone thought
 Transcript Snippet: on November 8th, I had first mentioned that there was someone who thought that they saw Brian Harpole at Fort Huachuca that I, you know, examined the person's documents, whatever.
 
 Anchored Artifacts: 
-Mentions: N-3, N-268, N-364
+Mentions: N-3, N-268, N-363
 Related Nodes: N-10373
 Tags: relevance:core
 Investigative Direction: Locate the episode that first mentioned the Fort Huachuca sighting and reconcile its date with the host's statement that she first named Harpole on November 19.
@@ -1678,7 +1678,7 @@ Claim: The host says the solo episode on the Fort Huachuca sighting aired on Dec
 Transcript Snippet: It was a solo episode on December 9th and if you recall, it caused mass panic.
 
 Anchored Artifacts: 
-Mentions: N-3, N-364
+Mentions: N-3, N-363
 Related Nodes: N-10373
 Tags: relevance:core
 Investigative Direction: Confirm the air date of the solo episode and the sequence relative to the Mitch Snow interview.
@@ -1694,7 +1694,7 @@ Claim: The host says she was effectively threatened behind the scenes through Pa
 Transcript Snippet: this was coming through Paramount Tactical and the Valhalla guy and they were saying, "If you do this if if you interview Mitch, Mitch wasn't even in the military.
 
 Anchored Artifacts: 
-Mentions: N-3, N-364, N-268
+Mentions: N-3, N-363, N-268
 Related Nodes: N-10899, N-11001, N-10651
 Tags: relevance:core
 Investigative Direction: Obtain the messages the host received from the intermediaries and ask Paramount Tactical and Valhalla VFT whether they relayed a Harpole warning.
@@ -1710,7 +1710,7 @@ Claim: The host says that before she did the interview, Brian Harpole was tellin
 Transcript Snippet: So, before I even got to do the interview, Brian Harpole was telling people to say that if I interview this guy, I'm going to sue you.
 
 Anchored Artifacts: 
-Mentions: N-3, N-268, N-364
+Mentions: N-3, N-268, N-363
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Identify the intermediaries and any written message conveying the lawsuit threat, with dates.
@@ -1726,7 +1726,7 @@ Claim: The host says she sent Brian Harpole about four messages in total and one
 Transcript Snippet: I sent Brian Harpole I think a total of four messages and I also sent Dan Flood a message.
 
 Anchored Artifacts: A-2015.8
-Mentions: N-3, N-268, N-272, N-364
+Mentions: N-3, N-268, N-272, N-363
 Related Nodes: 
 Supports: C-6799
 Tags: relevance:core
@@ -1760,7 +1760,7 @@ Claim: The host says she did not ask for an exclusive, that a reply would have e
 Transcript Snippet: It would have put an end to me covering the story beyond. So, actually by not responding before I hosted Mitch, it didn't allow me didn't stop me from hosting Mitch.
 
 Anchored Artifacts: A-2015.7
-Mentions: N-3, N-268, N-364
+Mentions: N-3, N-268, N-363
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Compare the host's outreach messages with the complaint's exclusive-content rationale.
@@ -1793,7 +1793,7 @@ Claim: The host says the lawsuit's lawyer claims she asserted over and over that
 Transcript Snippet: I went through a great many pains to repeatedly assert publicly that I could not confirm that he saw Harpole
 
 Anchored Artifacts: A-2015.9
-Mentions: N-3, N-268, N-364
+Mentions: N-3, N-268, N-363
 Related Nodes: N-10373
 Supports: C-2823
 Tags: relevance:core
@@ -1810,7 +1810,7 @@ Claim: In an audio clip of her interview with Mitch Snow, the host says she cann
 Transcript Snippet: I obviously can't confirm that you saw who you say you saw. I obviously can't confirm that you saw who you say you saw.
 
 Anchored Artifacts: A-3076.1
-Mentions: N-3, N-364
+Mentions: N-3, N-363
 Related Nodes: N-10373
 Supports: C-2822
 Tags: relevance:core
@@ -1827,7 +1827,7 @@ Claim: In the same clip, the host says she can confirm every step of Mitch's sto
 Transcript Snippet: I confirmed the location with other people that are that are on uh Fort Huachuca currently. I can confirm everything with metadata.
 
 Anchored Artifacts: A-3076.1
-Mentions: N-3, N-364
+Mentions: N-3, N-363
 Related Nodes: N-10373
 Tags: relevance:core
 Investigative Direction: Obtain the metadata files and the identities of the Fort Huachuca sources used to confirm the location.
@@ -1843,7 +1843,7 @@ Claim: The host reads her December 23 X post, which says Mitch said he was first
 Transcript Snippet: Remember, Mitch said he was at first taken outside by Captain Neff and questioned for a long time.
 
 Anchored Artifacts: A-2020.1
-Mentions: N-3, N-364, N-321
+Mentions: N-3, N-363, N-321
 Related Nodes: N-10373
 Supports: C-5390
 Tags: relevance:core
@@ -1876,7 +1876,7 @@ Claim: The host says Kim Klacik sued after the host called her a former stripper
 Transcript Snippet: she took it to discovery and then she folded. Right? She folded and wanted to sign an agreement and say, let's let's walk away and not talk about it
 
 Anchored Artifacts: 
-Mentions: N-3, N-436
+Mentions: N-3, N-434
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Pull the docket and any settlement or dismissal record from the Klacik case.
@@ -2102,7 +2102,7 @@ Claim: The host says the message urging her to look more into Andrew Kolvet came
 Transcript Snippet: It was Mikey McCoy. Mikey McCoy got a message out to me uh via a third-party person that I should look more into Andrew Kolvet.
 
 Anchored Artifacts: 
-Mentions: N-3, N-192, N-14, N-555
+Mentions: N-3, N-192, N-14, N-553
 Related Nodes: N-10649
 Tags: relevance:core
 Investigative Direction: Identify the third-party intermediary and obtain the message; ask McCoy to confirm or deny.
@@ -2118,7 +2118,7 @@ Claim: The host says Kolvet cannot produce the information he claims Aubrey Lech
 Transcript Snippet: you can still cannot produce the information that you are claiming that Aubrey Lich gave to me that I share on this platform. You were my number one source, Andrew, in the beginning.
 
 Anchored Artifacts: 
-Mentions: N-3, N-14, N-555
+Mentions: N-3, N-14, N-553
 Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Ask Kolvet to specify the information attributed to Aubrey Lech and compare it against the host's published material.
@@ -2134,7 +2134,7 @@ Claim: The host says Mike Lawler and Josh Gottheimer, who brought the resolution
 Transcript Snippet: these two people I I both of them brought this forward take more than a million dollars from AIPAC.
 
 Anchored Artifacts: A-2024.1
-Mentions: N-3, N-431, N-432
+Mentions: N-3, N-429, N-430
 Related Nodes: N-10083, N-10648
 Tags: relevance:context
 Investigative Direction: Check FEC and OpenSecrets records for AIPAC-linked contributions to Lawler and Gottheimer.
@@ -2150,7 +2150,7 @@ Claim: The host reads resolution text alleging she promoted false claims that Je
 Transcript Snippet: Government promoting false claims that that Jews are taught by ancient religious texts to hate non-Jews and casting doubt on the truth of Holocaust survivors.
 
 Anchored Artifacts: A-2024.1
-Mentions: N-3, N-431, N-432
+Mentions: N-3, N-429, N-430
 Related Nodes: N-10648
 Tags: relevance:context
 Investigative Direction: Obtain the full resolution text and its cited sources for each recital.
@@ -2214,7 +2214,7 @@ Claim: The host says the resolution alleges she repeated false claims that Jews 
 Transcript Snippet: It then goes on and says um that I repeated false claims that Jews are chil- killing Christian children.
 
 Anchored Artifacts: A-2024.1
-Mentions: N-3, N-431, N-432
+Mentions: N-3, N-429, N-430
 Related Nodes: N-10648
 Tags: relevance:context
 Investigative Direction: Search the host's transcripts for the alleged statement and for the source the resolution cites.
@@ -2262,7 +2262,7 @@ Claim: The host says Melania Trump tweeted that Jimmy Kimmel's joke, made before
 Transcript Snippet: Melania Trump she tweeted and said this about Jimmy Kimmel. Jimmy Kimmel's vote of joke that happened before the shooting. That it was hateful and violent rhetoric intended to divide our country.
 
 Anchored Artifacts: A-2026.1
-Mentions: N-605, N-87
+Mentions: N-603, N-87
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Retrieve the original Melania Trump post and its date.
@@ -2328,7 +2328,7 @@ Claim: The host says Harpole's attorney, Matt Slauson, definitively was retweeti
 Transcript Snippet: this lawyer, Matt Slauson, the one who speaks like he has helium. Like he's just ingested some helium. Uh definitively was retweeting Laura Loomer.
 
 Anchored Artifacts: 
-Mentions: N-3, N-867, N-60
+Mentions: N-3, N-865, N-60
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Review the lawyer's public posting history for Loomer retweets and their dates relative to the filing.
@@ -2424,7 +2424,7 @@ Claim: The host says Mitch says the meeting concluded at 7:30 a.m., and that the
 Transcript Snippet: Mitch says the meeting concluded at 7:30 a. m. There were flights that left Fort Huachuca and got back into Dallas by 10:00 a. m.
 
 Anchored Artifacts: A-3077.1
-Mentions: N-3, N-364
+Mentions: N-3, N-363
 Related Nodes: N-10643, N-10373
 Tags: relevance:core
 Investigative Direction: Identify the specific flights the host means and check them against Harpole's travel records.

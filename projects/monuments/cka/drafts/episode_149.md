@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11407, N-11408, N-11409
   - Hole-minted Nodes (reintro-ep149): N-10828
-  - Tip-minted Nodes (reintro-ep149): N-904, N-907, N-11310
+  - Tip-minted Nodes (reintro-ep149): N-902, N-905, N-11310
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14854–C-14945
   - Hole-minted Nodes (fixall-ep149): N-271
@@ -36,7 +36,7 @@
   - Artifact Families Introduced: A-2426, A-2427, A-2428, A-2429, A-2430, A-2431, A-2432, A-2433, A-2434, A-2435
   - Claim Range: C-3543–C-3567
   - New Nodes Introduced: (none)
-  - Reused Nodes Appearing: N-491, N-496, N-2, N-14, N-27, N-38, N-46, N-54, N-55, N-161, N-166, N-192, N-226, N-331, N-364, N-368, N-436, N-853, N-10024, N-10062, N-10077, N-10148, N-10187, N-10337, N-10373, N-10375, N-10381, N-10573, N-10576, N-10581, N-10688, N-10737, N-10888, N-10953, N-11017, N-11191, N-11262
+  - Reused Nodes Appearing: N-489, N-494, N-2, N-14, N-27, N-38, N-46, N-54, N-55, N-161, N-166, N-192, N-226, N-331, N-363, N-367, N-434, N-851, N-10024, N-10062, N-10077, N-10148, N-10187, N-10337, N-10373, N-10375, N-10381, N-10573, N-10576, N-10581, N-10688, N-10737, N-10888, N-10953, N-11017, N-11191, N-11262
   - Existing Nodes Reused: 
 
 ## 6. Meme Register
@@ -518,7 +518,7 @@ Video Timestamp: 00:52:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14943, C-14944, N-904, N-3, N-11310, N-491*
+*Related: C-14943, C-14944, N-902, N-3, N-11310, N-489*
 
 ---
 
@@ -609,7 +609,7 @@ TPUSA influencer payment campaign allegation topic.
 
 ---
 
-**N-436** Kimberly Klacik
+**N-434** Kimberly Klacik
 
 Former Maryland Republican congressional nominee; the host recounts her defamation suit.
 
@@ -729,7 +729,7 @@ Security team Timpanogos scrubs question topic.
 
 ---
 
-**N-491** Rick Cutler
+**N-489** Rick Cutler
 
 Security team member; the host says he carried Charlie and wore head-to-toe scrubs.
 
@@ -761,7 +761,7 @@ Timpanogos hospital evidence question topic.
 
 ---
 
-**N-496** Justin Davis
+**N-494** Justin Davis
 
 Security team member; the host says he drove the SUV and wore scrubs.
 
@@ -769,7 +769,7 @@ Security team member; the host says he drove the SUV and wore scrubs.
 
 ---
 
-**N-904** Blake Harreff
+**N-902** Blake Harreff
 
 Security team member; the host says he stayed behind, was clean and later wore scrubs.
 
@@ -841,7 +841,7 @@ Accused in the Kirk case; subject of the Panguitch receipt and the text message 
 
 ---
 
-**N-368** Diligent Dennison
+**N-367** Diligent Dennison
 
 Citizen journalist who released a waiter interview and the receipt.
 
@@ -881,7 +881,7 @@ Topic on the evidence base of the prosecution.
 
 ---
 
-**N-907** Miss Noble
+**N-905** Miss Noble
 
 Neighbor who the host says saw a bald man driving with two other people.
 
@@ -889,7 +889,7 @@ Neighbor who the host says saw a bald man driving with two other people.
 
 ---
 
-**N-364** Mitch Snow
+**N-363** Mitch Snow
 
 Fort Huachuca eyewitness; the host says she cannot confirm he saw Erika or Harpole.
 
@@ -970,7 +970,7 @@ Babylon Bee CEO; the host recalls his complaint about a thumbnail.
 
 ---
 
-**N-853** Tony Burke
+**N-851** Tony Burke
 
 Australian minister the host says banned her.
 
@@ -1067,7 +1067,7 @@ Investigative Direction: Obtain higher-resolution frame stills; cross-check with
 Claim Timestamp: 00:18:51
 Claim: The host says Blake Harreff sprinted ahead with Justin Davis to open the car but did not help carry Charlie to the vehicle, and that he did not travel in the SUV to the hospital.
 Anchored Artifacts: A-2432.1, A-2432.2
-Mentions: N-496
+Mentions: N-494
 Related Nodes:
 Investigative Direction: Cross-reference with security team testimony and hospital arrival records; identify when and how Blake reached the hospital.
 
@@ -1089,7 +1089,7 @@ Investigative Direction: Identify when and where Blake obtained the scrubs; obta
 Claim Timestamp: 00:20:42
 Claim: The host says footage shows Rick Cutler, in a white hat, wearing head-to-toe surgical scrubs at the UVU return.
 Anchored Artifacts: A-2432.3
-Mentions: N-491
+Mentions: N-489
 Related Nodes:
 Investigative Direction: Identify scrubs source; obtain hospital records/logs.
 
@@ -1100,7 +1100,7 @@ Investigative Direction: Identify scrubs source; obtain hospital records/logs.
 Claim Timestamp: 00:20:42
 Claim: The host says footage shows Justin Davis wearing surgical scrubs at the UVU return.
 Anchored Artifacts: A-2432.3
-Mentions: N-496
+Mentions: N-494
 Related Nodes:
 Investigative Direction: Identify scrubs source; cross-reference with hospital logs.
 
@@ -1398,7 +1398,7 @@ Claim: The host says that when she looked into Maryland Republican congressional
 Transcript Snippet: I found out that she was like hiding the fact that she was a whole stripper.
 
 Anchored Artifacts: 
-Mentions: N-436, N-3
+Mentions: N-434, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Public reporting and records on Klacik's earlier employment; treat as a personal-history allegation recorded as said.
@@ -1414,7 +1414,7 @@ Claim: The host says Klacik's then husband managed the strip club, that Klacik s
 Transcript Snippet: sued me for def defamation and she subsequently lost that defamation lawsuit and she had to pay me here in Tennessee because we have anti-SLAP laws gratefully.
 
 Anchored Artifacts: 
-Mentions: N-436, N-3
+Mentions: N-434, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Pull the Tennessee court docket and any fee award order in the Klacik v. Owens case; compare with the earlier claim that the suit was dropped in discovery.
@@ -1765,7 +1765,7 @@ Claim: The host says Harpole used the first person singular and did not suggest 
 Transcript Snippet: He did not, like I said, even suggest that Rick Cutler got involved. Rick Cutler was just holding him because Charlie's feet, they caught a tail.
 
 Anchored Artifacts: 
-Mentions: N-268, N-491, N-7
+Mentions: N-268, N-489, N-7
 Related Nodes: 
 Supports: C-11663
 Tags: relevance:core
@@ -1931,7 +1931,7 @@ Claim: The host says Justin Davis drove to the hospital but Blake Harreff stayed
 Transcript Snippet: Justin drives to the hospital, but Blake Harreff stays behind.
 
 Anchored Artifacts: A-2432.2
-Mentions: N-496, N-904
+Mentions: N-494, N-902
 Related Nodes: 
 Supports: C-3551
 Tags: relevance:core
@@ -1948,7 +1948,7 @@ Claim: The host says that after Harreff and Davis opened the car door the footag
 Transcript Snippet: Thereafter, he comes around. He gets into the boot. Frank Turek.
 
 Anchored Artifacts: A-2432.2
-Mentions: N-7, N-904
+Mentions: N-7, N-902
 Related Nodes: 
 Supports: C-2954
 Tags: relevance:core
@@ -1965,7 +1965,7 @@ Claim: The host says Dan Flood carried Charlie and Rick Cutler certainly carried
 Transcript Snippet: Dan Flood is also wearing surgical scrubs, but we know he carried Charlie. Rick Cutler certainly carried Charlie and was in the vehicle.
 
 Anchored Artifacts: A-2432.3
-Mentions: N-272, N-491
+Mentions: N-272, N-489
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Review footage of Charlie being carried to the SUV to establish who bore weight.
@@ -1981,7 +1981,7 @@ Claim: The host says Blake Harreff did not touch Charlie while getting into the 
 Transcript Snippet: He didn't touch Charlie while getting into the vehicle. Neither Justin Davis, by the way.
 
 Anchored Artifacts: A-2432.1
-Mentions: N-904, N-496
+Mentions: N-902, N-494
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Confirm Davis's role at the hospital from footage and team statements.
@@ -2029,7 +2029,7 @@ Claim: The host identifies the man Brian Harpole just hugged in the UVU return f
 Transcript Snippet: That's Alex Fria who he just hugged. That there in the corner in the white hat is Rick Cutler.
 
 Anchored Artifacts: A-2432.3
-Mentions: N-268, N-491
+Mentions: N-268, N-489
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Confirm the correct spelling and identity of the man hugged from the original footage and tips.
@@ -2224,7 +2224,7 @@ Claim: The host says the citizen journalist Diligent Denisen released an intervi
 Transcript Snippet: Diligent Denisen who dropped an interview with one of the waiters that was working that night and he then released a receipt to go along with it because people were saying that he was lying
 
 Anchored Artifacts: A-2433.4
-Mentions: N-368
+Mentions: N-367
 Related Nodes: 
 Supports: C-6119
 Tags: relevance:core
@@ -2370,7 +2370,7 @@ Claim: The host says that if the receipt is confirmed, it explains why the neigh
 Transcript Snippet: That would be why she saw a bald man [snorts] driving with two other people because it wouldn't be Tyler Robinson that was driving.
 
 Anchored Artifacts: 
-Mentions: N-907, N-40
+Mentions: N-905, N-40
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Obtain Mrs. Noble's statement and any doorbell or street camera footage of the vehicle at 12:38 a.m.
@@ -2418,7 +2418,7 @@ Claim: The host says she confirmed Mitch Snow was at Fort Huachuca and which hot
 Transcript Snippet: We confirmed he was there, what hotel he was at.
 
 Anchored Artifacts: 
-Mentions: N-364
+Mentions: N-363
 Related Nodes: N-10375
 Supports: C-3888
 Tags: relevance:core
@@ -2435,7 +2435,7 @@ Claim: The host says she cannot confirm that Mitch Snow actually saw Erika Kirk 
 Transcript Snippet: But can we confirm that he actually saw Erika Kirk in the lobby or that he actually saw Brian Harpole? No, because that relies on his memory, right?
 
 Anchored Artifacts: 
-Mentions: N-364, N-2, N-268
+Mentions: N-363, N-2, N-268
 Related Nodes: N-10373, N-10375
 Tags: relevance:core
 Investigative Direction: Look for lobby camera footage, guest registration or third-party witnesses to corroborate Snow's sighting.
@@ -2661,7 +2661,7 @@ Claim: The host says Tony Burke banned her from Australia because the Zionist lo
 Transcript Snippet: Tony Burke banned me because the Zionist lobby lobbied and it was sad that that got cancelceled.
 
 Anchored Artifacts: A-2435.7
-Mentions: N-853, N-3
+Mentions: N-851, N-3
 Related Nodes: 
 Supports: C-7714, C-13108, C-10045
 Tags: relevance:context
@@ -2742,7 +2742,7 @@ Claim: The host asks viewers who might have seen Blake Harreff take his shirt of
 Transcript Snippet: Email us more tips canoners. com. Maybe you are Blake Harreff and you just want to talk.
 
 Anchored Artifacts: A-3352.2
-Mentions: N-904, N-3
+Mentions: N-902, N-3
 Related Nodes: N-11310
 Tags: relevance:core, dia
 Investigative Direction: Review incoming tips about scrub changes at the hospital or UVU and corroborate with footage.
@@ -2758,7 +2758,7 @@ Claim: The host says that if Blake Harreff or Rick Cutler want to talk she will 
 Transcript Snippet: Maybe you're Rick Cutler and you want to talk. I'll protect you guys as sources.
 
 Anchored Artifacts: A-3352.2
-Mentions: N-904, N-491, N-3
+Mentions: N-902, N-489, N-3
 Related Nodes: 
 Tags: relevance:core, dia
 Investigative Direction: Check for any response from Harreff or Cutler to the standing offer.

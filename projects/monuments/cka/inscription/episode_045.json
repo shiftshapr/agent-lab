@@ -747,8 +747,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-805",
-      "ref": "N-805",
+      "@id": "N-803",
+      "ref": "N-803",
       "name": "Harris Faulkner",
       "type": "person",
       "description": "First named by the host at 00:00:00 in episode 45 (transcript spells it Harris Falner and Harris Faulner). Fox News anchor who interviewed Erika Kirk.",
@@ -905,8 +905,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-363",
-      "ref": "N-363",
+      "@id": "N-362",
+      "ref": "N-362",
       "name": "Harry",
       "type": "person",
       "description": "The Fort Huachuca witness whose account, documentation and identification of Captain Nef are discussed.",
@@ -1474,7 +1474,7 @@
       "investigative_direction": "Verify Adam Nef's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters.",
       "mentions_person_refs": [
         "N-321",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -1561,7 +1561,7 @@
       "investigative_direction": "Obtain the Fox News broadcast date, transcript and video of the Faulkner interview.",
       "transcript_snippet": "she just gave an interview live with Harris Falner on Fox News where she finally addressed the quote unquote conspiracy theories.",
       "mentions_person_refs": [
-        "N-805",
+        "N-803",
         "N-2",
         "N-3"
       ]
@@ -1606,7 +1606,7 @@
       "mentions_person_refs": [
         "N-222",
         "N-1",
-        "N-805"
+        "N-803"
       ]
     },
     {
@@ -2222,7 +2222,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -2243,7 +2243,7 @@
       "transcript_snippet": "it was over a 1-hour phone call",
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -2267,7 +2267,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -2291,7 +2291,7 @@
       ],
       "mentions_person_refs": [
         "N-321",
-        "N-363",
+        "N-362",
         "N-3"
       ]
     },
@@ -2361,7 +2361,7 @@
       "transcript_snippet": "his old passport, his new passport, his military ID card, hotels, books, times, text messages, phone call logs with his wife",
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -2384,7 +2384,7 @@
         "C-1880"
       ],
       "mentions_person_refs": [
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -2404,7 +2404,7 @@
       "investigative_direction": "Obtain the military police incident report and ask Captain Nef about the stated reason for detaining him.",
       "transcript_snippet": "It also, by the way, does provide an explanation for why they panicked when he just walked in there",
       "mentions_person_refs": [
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -2427,7 +2427,7 @@
         "C-1888"
       ],
       "mentions_person_refs": [
-        "N-363",
+        "N-362",
         "N-321"
       ]
     },
@@ -2451,7 +2451,7 @@
         "C-1886"
       ],
       "mentions_person_refs": [
-        "N-363",
+        "N-362",
         "N-3"
       ]
     },
@@ -2526,7 +2526,7 @@
         "C-1885"
       ],
       "mentions_person_refs": [
-        "N-363",
+        "N-362",
         "N-3"
       ]
     },
@@ -2547,7 +2547,7 @@
       "investigative_direction": "Follow later episodes and podcasts for the witness's public appearances.",
       "transcript_snippet": "having spoken to this individual who is planning to come out and do podcasts and speak about that.",
       "mentions_person_refs": [
-        "N-363",
+        "N-362",
         "N-3"
       ]
     },
@@ -2572,7 +2572,7 @@
       ],
       "mentions_person_refs": [
         "N-321",
-        "N-363",
+        "N-362",
         "N-3"
       ]
     },
@@ -2637,7 +2637,7 @@
       "investigative_direction": "Ask the witness what words and documents led him to call it a finalization meeting.",
       "transcript_snippet": "he described it uh as a meeting that when the operation is being finalized a finalization meeting",
       "mentions_person_refs": [
-        "N-363",
+        "N-362",
         "N-3"
       ]
     },
@@ -2840,7 +2840,7 @@
         "C-1887"
       ],
       "mentions_person_refs": [
-        "N-363",
+        "N-362",
         "N-268",
         "N-3"
       ]
@@ -2864,7 +2864,7 @@
       "investigative_direction": "Ask the witness whom he believes he saw in the truck.",
       "transcript_snippet": "Harry thinks he has an idea and he should come out and he should share his story.",
       "mentions_person_refs": [
-        "N-363"
+        "N-362"
       ]
     },
     {

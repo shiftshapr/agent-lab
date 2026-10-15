@@ -1106,8 +1106,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-877",
-      "ref": "N-877",
+      "@id": "N-875",
+      "ref": "N-875",
       "name": "Steve Witkoff",
       "type": "person",
       "description": "US negotiator the host names with Kushner at the Israel and Hamas talks.",
@@ -3343,7 +3343,7 @@
       "investigative_direction": "Check the participants and arrival timing against press reports of the talks.",
       "transcript_snippet": "They arrived on Wednesday morning to represent the US negotiators from Israel and Hamas and the mediators from Qatar and Egypt and Turkey also participated",
       "mentions_person_refs": [
-        "N-877",
+        "N-875",
         "N-180",
         "N-3"
       ]

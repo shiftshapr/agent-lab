@@ -920,8 +920,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-370",
-      "ref": "N-370",
+      "@id": "N-369",
+      "ref": "N-369",
       "name": "Danny Philip",
       "type": "person",
       "description": "Person the host says Blake Neff excludes from his account of Sept 10 driving.",
@@ -937,8 +937,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-510",
-      "ref": "N-510",
+      "@id": "N-508",
+      "ref": "N-508",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "Officer Bagley; the host sarcastically references his body-cam footage and the screwdriver.",
@@ -2653,7 +2653,7 @@
       "investigative_direction": "Obtain Bagley's body-cam records and activation logs for that day.",
       "transcript_snippet": "Officer Bagley, oh just it just it went off. I don't know. I don't know what happened to my body cam footage",
       "mentions_person_refs": [
-        "N-510",
+        "N-508",
         "N-161"
       ]
     },
@@ -2989,7 +2989,7 @@
       "transcript_snippet": "why Blake seems to have this convenient amnesia about certain events that day and why he continues to exclude Danny Philip from the equation.",
       "mentions_person_refs": [
         "N-161",
-        "N-370",
+        "N-369",
         "N-3"
       ]
     },
