@@ -165,7 +165,7 @@ We have not seen the paperwork uh who what student requested him to go. This is 
 
 [32:45]
 
-Mikey McCoy and his wife Eliza uh Elizabeth join them for the first time and that's when this BTS content is being caught of Charlie walking with his children. July 22nd. Speaking of Nebraska and these planes being here from Cairo, it is announced that Nebraska is going to do a trade and investment trip with Egypt. There was some private off-record meeting that took place with international professionals per the local media. We don't know who those professionals were that were meeting with Bob Evan, the Secretary of State. That would be interesting to know who they were. Who were these Egyptians that suddenly wanted to do a deal? Um, yeah, I'd like to know. July 25th is other is another weird thing that takes place.
+Mikey McCoy and his wife Eliza uh Elizabeth join them for the first time and that's when this BTS content is being caught of Charlie walking with his children. July 22nd. Speaking of Nebraska and these planes being here from Cairo, it is announced that Nebraska is going to do a trade and investment trip with Egypt. There was some private off-record meeting that took place with international professionals per the local media. We don't know who those professionals were that were meeting with Bob Evnen, the Secretary of State. That would be interesting to know who they were. Who were these Egyptians that suddenly wanted to do a deal? Um, yeah, I'd like to know. July 25th is other is another weird thing that takes place.
 
 [33:28]
 

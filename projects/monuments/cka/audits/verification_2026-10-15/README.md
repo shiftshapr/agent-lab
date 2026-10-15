@@ -37,3 +37,21 @@ material-error rate at about 10% (QA round 2: 10.4%, 29 of 278), against a targe
 - **C-1489 (ep19).** The claim cites Ryan Mata, but he is not named anywhere in the episode's transcript. Two
   reviewers agree. Claims are never deleted, so the choice is to withdraw it (mark it withdrawn, with a note) or to
   re-source it.
+
+## Part 2 (chunks 41–68: episodes ~29–47, 1,680 claims)
+- Wave 3 (chunks 41–52) was checked before the part 1 merge renumbered ids. Its results were remapped through
+  `audits/person_merge_2026-10-15/id_map.csv` before confirmation. Chunks 53 onward were rebuilt from the merged drafts.
+- Confirmations: wave 3 had 97 findings (76 accepted, 20 amended, 1 rejected); wave 4 had 115 (94 accepted, 20
+  amended, 1 rejected).
+- Applied: 206 confirmed fixes and 153 minor fixes. 37 minor fixes were skipped by the content check.
+- 23 name rules added, for example:
+  - Lara Trump, Shauni Rae Kerkhoff, J. Warner Wallace, Anthony Iglesias, Doug DeAndrea, Jeffrey Zizz
+  - Allie Beth Stuckey, Losee Center, Arynne Wexler, T.W. Lewis, Shawn Ryan, Satys, Jean-Michel Trogneux
+  - Tom Clare, Bob Evnen, Ashley Rindsberg, Hervé Hoppenot, Greg Shaffer, Andrew Sypher
+
+  Greg Shaffer closes the open Schaefer/Scheper review item. The matching person and topic nodes are renamed, and
+  the transcription aliases ("Andrew Cipher", "Greg Shafer") are dropped.
+- Accepted early namings: Jean-Michel Trogneux (named ep35, introduced ep38). Two claims citing "her husband"
+  (George, N-30) are recorded as reviewed in the grounding gate.
+- The two Kerkhoff claims (C-1655, C-1656) attribute her identification to the host's sources; neither says she is a
+  suspect.

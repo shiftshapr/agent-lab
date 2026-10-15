@@ -367,7 +367,7 @@
           "@type": "Artifact",
           "@id": "A-1102.1",
           "ref": "A-1102.1",
-          "description": "Aaron Wexler-sent Hamptons weekend retreat invitations; multi-day retreat with smaller meetings plus main event",
+          "description": "Arynne Wexler-sent Hamptons weekend retreat invitations; multi-day retreat with smaller meetings plus main event",
           "related_claims": [
             "C-1160"
           ],
@@ -379,7 +379,7 @@
           "tags": [],
           "event_timestamp": "2025-08-04",
           "video_timestamp": "00:41:59–00:42:29",
-          "transcript_snippet": "Aaron Wexler sent out some of the invitations...first day of the retreat of which there were smaller meetings",
+          "transcript_snippet": "Arynne Wexler sent out some of the invitations...first day of the retreat of which there were smaller meetings",
           "confidence": "medium"
         }
       ]
@@ -937,7 +937,7 @@
       "@type": "Person",
       "@id": "N-56",
       "ref": "N-56",
-      "name": "Aaron Wexler",
+      "name": "Arynne Wexler",
       "type": "person",
       "description": "Reportedly sent Hamptons retreat invitations.",
       "related_artifacts": [
@@ -3963,8 +3963,8 @@
       "@type": "Claim",
       "@id": "C-13550",
       "ref": "C-13550",
-      "label": "Host Says Attendees Confirm Charlie Was Pressed at a Weekend Where Aaron Wexler Sent Invitations",
-      "claim": "The host says people who attended the Hamptons weekend, for which Aaron Wexler sent out some of the invitations, confirm that Charlie was pressed.",
+      "label": "Host Says Attendees Confirm Charlie Was Pressed at a Weekend Where Arynne Wexler Sent Invitations",
+      "claim": "The host says people who attended the Hamptons weekend, for which Arynne Wexler sent out some of the invitations, confirm that Charlie was pressed.",
       "anchored_artifacts": [
         "A-1102.1"
       ],
@@ -3976,8 +3976,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:41:32",
-      "investigative_direction": "Identify the attendees and obtain the invitation list, schedule and any messages sent by Aaron Wexler.",
-      "transcript_snippet": "in which Aaron Wexler sent out some of the invitations to they're confirming that Charlie was pressed.",
+      "investigative_direction": "Identify the attendees and obtain the invitation list, schedule and any messages sent by Arynne Wexler.",
+      "transcript_snippet": "in which Arynne Wexler sent out some of the invitations to they're confirming that Charlie was pressed.",
       "mentions_person_refs": [
         "N-56",
         "N-1"

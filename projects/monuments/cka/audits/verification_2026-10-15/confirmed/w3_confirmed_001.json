@@ -1,0 +1,506 @@
+[
+ {
+  "claim": "C-9646",
+  "episode": 27,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-30"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-1636",
+  "episode": 28,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:05:18"
+  },
+  "note": "Shapiro's Mamdani/17-shows lines begin at 05:23."
+ },
+ {
+  "claim": "C-1640",
+  "episode": 28,
+  "decision": "accept",
+  "fix": {
+   "claim": "According to the read-aloud HuffPost article, on March 25th, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on an X Space hosted by Lauren Chen, praised Fuentes as \"very funny\" and \"one of the most talented political influencers,\" and offered only mild criticism.",
+   "mentions": [
+    "N-203",
+    "N-369",
+    "N-855"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-1641",
+  "episode": 28,
+  "decision": "accept",
+  "fix": {
+   "claim": "According to the read-aloud HuffPost article, Jeremy Boreing said on the X Space that he would be thrilled to have Nick Fuentes on a Daily Wire show.",
+   "mentions": [
+    "N-203",
+    "N-369"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-1642",
+  "episode": 28,
+  "decision": "amend",
+  "fix": {
+   "claim": "In text messages the host reads between herself and Charlie Kirk, Kirk tells her she is bigger than Ben Shapiro now, says they have to treat him like noise, that Shapiro is sending his \"incestuous brother\" to go try and kill them, and that he views Owens as Kirk's \"slave 100%\"; the host separately says Shapiro was going on people's shows talking down about her and Kirk and sent his YAF boys and National Review peeps after them."
+  },
+  "note": "Texts are Kirk's; 'talking down on shows' is host's framing, not a text. Added 'bigger than Ben'/'noise' lines the texts contain."
+ },
+ {
+  "claim": "C-1645",
+  "episode": 28,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-236",
+    "N-3"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-1646",
+  "episode": 28,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Eric and Lara Trump appeared as speakers at a recent Turning Point USA event at Auburn University following Charlie Kirk's death.",
+   "mentions": [
+    "N-34",
+    "N-378",
+    "N-1"
+   ],
+   "names": [
+    {
+     "wrong": "Laura Trump",
+     "right": "Lara Trump",
+     "source": "https://abc3340.com/news/local/charlie-was-supposed-to-be-here-turning-point-tour-event-held-at-auburn-university-charlie-kirk-this-is-the-turning-point-faith-family-future-freedom-crowds-conservative-senator-tommy-tuberville-eric-trump-lara-trump-benny-johnson-tpusa-event"
+    }
+   ]
+  },
+  "note": "Lara Trump confirmed at Nov 5 2025 Auburn TPUSA event (1819news, WSFA)."
+ },
+ {
+  "claim": "C-1648",
+  "episode": 28,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a tweet the host shows, Ben Shapiro wrote that accusing any American Jew who is pro-Israel of being \"Israel first\" is a \"pure form of anti-semitism\"; the host says it was directed at Nick Fuentes."
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-9649",
+  "episode": 28,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-22"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-9690",
+  "episode": 28,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the kids are now awake: they know about Jared Kushner and his deals with Ivanka and the Middle East, how much money they are set to make, and that Gaza being destroyed is actually beneficial to their bank accounts.",
+   "label": "Host Says Young People Know About Kushner's Middle East Deals and Gaza Benefit",
+   "mentions": [
+    "N-180",
+    "N-665"
+   ]
+  },
+  "note": "'The kids are now awake. they know...' refers to young people, not the Trumps."
+ },
+ {
+  "claim": "C-9697",
+  "episode": 28,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that the pro-Israel lobby, even when it debates, then does what it did to Charlie Kirk and afterwards gets so angry that it lost the debate that it tries to squeeze him and tell him he can never host this person ever again.",
+   "label": "Host Says Pro-Israel Lobby Squeezed Kirk After Losing a Debate",
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "'They' is the pro-Israel lobby, not Shapiro."
+ },
+ {
+  "claim": "C-1653",
+  "episode": 29,
+  "decision": "reject",
+  "fix": {},
+  "note": "Wallnau does say 'you can do that covert, or you can do that overt' in the clip at 15:31; original claim was right."
+ },
+ {
+  "claim": "C-1654",
+  "episode": 29,
+  "decision": "accept",
+  "fix": {
+   "claim": "In an audio clip played on the episode, Frank Turek described the New Apostolic Reformation as having an \"aberrant\" hermeneutic and doing things \"more new agey or more even occult-like than they are Christian\"; the host introduces the clip by saying Turek acknowledged NAR was a cult, \"actually darker than a cult.\"",
+   "label": "Frank Turek Described NAR Theology as Aberrant and Occult-Like"
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-1655",
+  "episode": 29,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the person responsible for dropping off the January 6 pipe bombs was revealed to be a 31-year-old woman and United States Capitol Police officer she names as Shauni Kerkhoff, credits reporter Steve Baker with the discovery, plays Glenn Beck interviewing Baker (who says a federal source responded \"She's one of us\"), and says it was a 5-year investigation involving forensic analysis.",
+   "label": "Host Says Baker Identified Capitol Police Officer as Pipe-Bomb Dropper",
+   "names": [
+    {
+     "wrong": "Shawnie Ray Kirkup",
+     "right": "Shauni Rae Kerkhoff",
+     "source": "https://www.primetimer.com/news/journalist-steve-baker-identifies-former-u-s-capitol-police-officer-shauni-kerkhoff-as-the-j6-pipe-bomber-everything-to-know"
+    }
+   ]
+  },
+  "note": "Host's words, not Baker's. Shauni Rae Kerkhoff confirmed (Snopes, Primetimer)."
+ },
+ {
+  "claim": "C-1656",
+  "episode": 29,
+  "decision": "accept",
+  "fix": {
+   "claim": "CIA spokeswoman Liz Lyons, as relayed by the host, stated that Shauni Kerkhoff, \"the alleged person who dropped off these pipe bombs,\" worked in Capitol Police Campus Security; the host adds that she lives in Alexandria, Virginia.",
+   "names": [
+    {
+     "wrong": "Shawnie Kirkhoff",
+     "right": "Shauni Kerkhoff",
+     "source": "https://www.primetimer.com/news/journalist-steve-baker-identifies-former-u-s-capitol-police-officer-shauni-kerkhoff-as-the-j6-pipe-bomber-everything-to-know"
+    }
+   ]
+  },
+  "note": "Shauni Kerkhoff confirmed (Primetimer, Irish Times)."
+ },
+ {
+  "claim": "C-1662",
+  "episode": 29,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:33:16",
+   "claim": "In an audio clip played on the episode, Allie Beth Stuckey told people who say they are seeking truth and asking questions that they were \"outsourcing your critical thinking,\" and warned that implicating a real person in a murder plot required being \"100% sure\" and backed by \"hard evidence.\"",
+   "label": "Allie Beth Stuckey Said Implicating a Real Person in a Murder Plot Requires Hard Evidence"
+  },
+  "note": "Stuckey clip begins ~33:20; Owens not named by Stuckey."
+ },
+ {
+  "claim": "C-7912",
+  "episode": 29,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-7918",
+  "episode": 29,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:04:43"
+  },
+  "note": "Spoken ~20s into the 04:24 block."
+ },
+ {
+  "claim": "C-7921",
+  "episode": 29,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Shauni Kerkhoff lives in Alexandria, Virginia and is apparently under the watch of law enforcement, because the Blaze News editor-in-chief drove to her house and was instantly stopped by local police before being let go.",
+   "mentions": [
+    "N-240"
+   ],
+   "names": [
+    {
+     "wrong": "Shawnie Kirkhoff",
+     "right": "Shauni Kerkhoff",
+     "source": "https://san.com/cc/conservative-publication-identified-a-suspect-in-jan-6-pipe-bomb-case-it-wasnt-her/"
+    }
+   ]
+  },
+  "note": "Shauni Kerkhoff confirmed; Lyons not referenced in claim."
+ },
+ {
+  "claim": "C-7950",
+  "episode": 29,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-7960",
+  "episode": 29,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-3"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-7962",
+  "episode": 29,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the audio played on air, Mark Levin says Tucker Carlson attacked his stepson behind his back while the stepson was serving President Trump on his second tour, in safe rooms with ballistic missiles passing over his head.",
+   "mentions": [
+    "N-246",
+    "N-22",
+    "N-5"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-1668",
+  "episode": 30,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:04:55"
+  },
+  "note": "Kelly's 'since learned' remark ~05:00."
+ },
+ {
+  "claim": "C-1672",
+  "episode": 30,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-248",
+    "N-1",
+    "N-210"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-9700",
+  "episode": 30,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-46",
+    "N-97",
+    "N-3",
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-9702",
+  "episode": 30,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-32",
+    "N-3"
+   ],
+   "relevance": "tangential"
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-9704",
+  "episode": 30,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-46",
+    "N-97"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-9753",
+  "episode": 30,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-17"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-9754",
+  "episode": 30,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-1682",
+  "episode": 31,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a CBN News clip the host plays, Frank Turek says he finds the idea that Candace Owens is making all these suggestions \"without evidence\" very painful for people, and that once you start \"launching accusations\" such as that TPUSA betrayed Charlie or that Charlie told her something in a dream, \"that's not evidence\".",
+   "mentions": [
+    "N-7",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Fixed claim still refers to Charlie ('TPUSA betrayed Charlie', 'Charlie told her'), so keep N-1."
+ },
+ {
+  "claim": "C-1683",
+  "episode": 31,
+  "decision": "amend",
+  "fix": {
+   "claim": "In the same CBN News interview, Frank Turek stated he had \"Detective J. Warner Wallace\" on his podcast two weeks after \"Charlie's martyrdom\", because people do not understand how murder prosecutions work.",
+   "names": [
+    {
+     "wrong": "Jay Warner Wallace",
+     "right": "J. Warner Wallace",
+     "source": "https://podcasts.apple.com/us/podcast/charlie-kirk-conspiracy-theories-homicide-detective/id1297439270?i=1000729996709"
+    }
+   ],
+   "mentions": [
+    "N-7",
+    "N-1"
+   ]
+  },
+  "note": "J. Warner Wallace confirmed (Turek podcast ep. on Kirk). Claim refers to Charlie Kirk ('Charlie's martyrdom'); add N-1."
+ },
+ {
+  "claim": "C-1685",
+  "episode": 31,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:08:10",
+   "claim": "Owens reads aloud an email from a woman who states she was 8 years old and living in Dana Point, California, when Thomas Camino approached her and a friend to help find his cat, took them to a park behind her house, and attempted to molest her before she ran away; she identifies as a key witness at his trial."
+  },
+  "note": "Email read from 08:17; 1995 is host's remark."
+ },
+ {
+  "claim": "C-1687",
+  "episode": 31,
+  "decision": "accept",
+  "fix": {
+   "claim": "Owens states that Rob McCoy decided Thomas Camino should have access to young children through a Calvary Chapel program called home fellowship that put him \"inside the homes of children\"; in the podcast clip she plays, McCoy cites \"the gossip and the slander\" of his friend and says he personally made the call to pull a home fellowship advertisement because he wanted Camino's family protected."
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-1690",
+  "episode": 31,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-3"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-1691",
+  "episode": 31,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-279",
+    "N-214",
+    "N-69"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-1694",
+  "episode": 31,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:59:30"
+  },
+  "note": "Mama Diaz comment ~59:35."
+ },
+ {
+  "claim": "C-6625",
+  "episode": 31,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Anthony Eglacius",
+     "right": "Anthony Iglesias",
+     "source": "https://www.ocweekly.com/?p=227276"
+    }
+   ]
+  },
+  "note": "Anthony Iglesias confirmed (Seattle Times, CdA Press, OC Weekly: Post Falls, Thailand orphanage)."
+ },
+ {
+  "claim": "C-6627",
+  "episode": 31,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Doug Deandria",
+     "right": "Doug DeAndrea",
+     "source": "https://roysreport.com/former-calvary-chapel-pastor-virginia-pleads-guilty-child-sex-abuse/"
+    }
+   ]
+  },
+  "note": "Douglas DeAndrea confirmed (Roys Report, BishopAccountability)."
+ },
+ {
+  "claim": "C-6629",
+  "episode": 31,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Jeffrey Keon Ziz",
+     "right": "Jeffrey Zizz",
+     "source": "https://roysreport.com/former-calvary-chapel-pastor-charged-with-murder-of-82-year-old-grandmother/"
+    }
+   ]
+  },
+  "note": "Jeffrey Zizz confirmed (Roys Report, KOMO)."
+ },
+ {
+  "claim": "C-6665",
+  "episode": 31,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-279",
+    "N-82",
+    "N-381",
+    "N-3"
+   ]
+  },
+  "note": ""
+ }
+]

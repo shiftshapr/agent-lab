@@ -63,7 +63,7 @@ Anyway, there also happens to be another interesting constellation that's buildi
 
 [08:09]
 
-It was the messages, obviously, uh because I guess we're going to have to wait for the Feds to dispute this, but the person responsible for dropping off those pipe bombs was revealed to be a Fed. More specifically, a 31-year-old woman and a United States Capitol Police officer named Shawnie Ray Kirkup, right? A man named a reporter named Steve Baker who deserves all of the credit on this amazing discovery, and I'm going to let you listen to Glenn Beck, who is interviewing Steve Baker, to tell you about how he came across this footage and how that went down. When I stumbled on what I stumbled on, and cuz I as I said, I've been pulling these threads for years, and I pulled one last Wednesday, a week two weeks ago today, rather.
+It was the messages, obviously, uh because I guess we're going to have to wait for the Feds to dispute this, but the person responsible for dropping off those pipe bombs was revealed to be a Fed. More specifically, a 31-year-old woman and a United States Capitol Police officer named Shauni Rae Kerkhoff, right? A man named a reporter named Steve Baker who deserves all of the credit on this amazing discovery, and I'm going to let you listen to Glenn Beck, who is interviewing Steve Baker, to tell you about how he came across this footage and how that went down. When I stumbled on what I stumbled on, and cuz I as I said, I've been pulling these threads for years, and I pulled one last Wednesday, a week two weeks ago today, rather.
 
 [08:56]
 
@@ -75,7 +75,7 @@ And when you find out the position, I mean, this is going to lead It's not just 
 
 [10:32]
 
-It involved forensic analysis. Uh a CIA spokeswoman, Liz Lyons, stated that Shawnie Kirkhoff, uh the alleged person who dropped off these pipe bombs, worked in campus Capitol Police Campus Security. Uh she lives in Alexandria, Virginia. She is apparently now under the watch of law enforcement officers because The Blaze News editor-in-chief decided to pull up to her house to just kind of see if any action was happening at her home. And then he instantly got stopped by local police before they allowed him to leave. Now, surprise, surprise, I think it's always the feds. And we might be being ruled by criminals. Like, I don't know. Jeffrey Epstein, who? Are you still talking about Jeffrey Epstein?
+It involved forensic analysis. Uh a CIA spokeswoman, Liz Lyons, stated that Shauni Kerkhoff, uh the alleged person who dropped off these pipe bombs, worked in campus Capitol Police Campus Security. Uh she lives in Alexandria, Virginia. She is apparently now under the watch of law enforcement officers because The Blaze News editor-in-chief decided to pull up to her house to just kind of see if any action was happening at her home. And then he instantly got stopped by local police before they allowed him to leave. Now, surprise, surprise, I think it's always the feds. And we might be being ruled by criminals. Like, I don't know. Jeffrey Epstein, who? Are you still talking about Jeffrey Epstein?
 
 [11:16]
 

@@ -215,7 +215,7 @@ How weird. Why why is the faith part so important? Think about that. Why were th
 
 [56:52]
 
-Like what? I'm sorry. What is that actually? What what op are we in right now? Were the heirish to turning point USA is Ali Stucky? That is a wild headline and they repeated that the heir apparent in the Wall Street Journal. That's weird. That's just it's it's weird because it's wrong and it's not true. That's why it's weird. Not because she couldn't be a a heir to something, I suppose, but it's just totally wacky to try to try to fit that in there. That's very strange. She attacks Candace Owens. The context of calling somebody the ays of Turning Point USA would make sense if you're referring to Erika. That's about it. That's literally probably it because she quite literally was the heir to Turning Point USA. Like she became the chairman. But that was that's weird.
+Like what? I'm sorry. What is that actually? What what op are we in right now? Were the heirish to turning point USA is Allie Beth Stuckey? That is a wild headline and they repeated that the heir apparent in the Wall Street Journal. That's weird. That's just it's it's weird because it's wrong and it's not true. That's why it's weird. Not because she couldn't be a a heir to something, I suppose, but it's just totally wacky to try to try to fit that in there. That's very strange. She attacks Candace Owens. The context of calling somebody the ays of Turning Point USA would make sense if you're referring to Erika. That's about it. That's literally probably it because she quite literally was the heir to Turning Point USA. Like she became the chairman. But that was that's weird.
 
 [57:40]
 

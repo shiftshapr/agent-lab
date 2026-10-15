@@ -25,7 +25,7 @@
 
 ## 2. Executive Summary
 
-Episode 35 centers on a read-aloud anonymous insider email that alleges the Egyptian military aircraft tail number SUBTT made repeated, multi-day stops in Wilmington, Delaware because of federal activity at 920 North King Street, a building the email identifies as housing the FBI, DEA, and Secret Service. The host anchors the email's premises to a series of displayed/linked artifacts: the host's compiled flight-pattern chart for SUBTT, a 1997 DOJ directory reference, a December 2024 SATIDS (French aircraft finishing company) announcement regarding the Wilmington hangar, a DRBA January 2024 resolution, and an FBI December 5, 2024 press release. She claims to have vetted the tip with contacts at federal agencies and the State Department.
+Episode 35 centers on a read-aloud anonymous insider email that alleges the Egyptian military aircraft tail number SUBTT made repeated, multi-day stops in Wilmington, Delaware because of federal activity at 920 North King Street, a building the email identifies as housing the FBI, DEA, and Secret Service. The host anchors the email's premises to a series of displayed/linked artifacts: the host's compiled flight-pattern chart for SUBTT, a 1997 DOJ directory reference, a December 2024 SATYS (French aircraft finishing company) announcement regarding the Wilmington hangar, a DRBA January 2024 resolution, and an FBI December 5, 2024 press release. She claims to have vetted the tip with contacts at federal agencies and the State Department.
 
 The second evidentiary strand introduces a documentary contradiction within TPUSA's own post-event statements: Frank Turek's Megyn Kelly interview (A-1441) describing Charlie's team operating drones is presented against Brian Harpole's Shawn Ryan interview (A-1442) stating no drones were used. The episode also documents Harpole's repetition of the "3,000 lbs of energy" bullet-trajectory claim and includes read/played clips of Joe Rogan / Theo Von discussing conspiracies and Tim Pool regarding his exclusion from AmFest.
 
@@ -171,9 +171,9 @@ Confidence Level: Medium (host-asserted verification)
 
 *Related: C-1748, N-10265*
 
-**A-1438** SATIDS Wilmington Hangar Bundle
+**A-1438** SATYS Wilmington Hangar Bundle
 
-**A-1438.1** December 2024 SATIDS (French aircraft finishing company) announcement of takeover of shuttered Wilmington airport hangar, with reported ~$1M+ investment, covered by Delaware outlets
+**A-1438.1** December 2024 SATYS (French aircraft finishing company) announcement of takeover of shuttered Wilmington airport hangar, with reported ~$1M+ investment, covered by Delaware outlets
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -185,7 +185,7 @@ Confidence Level: Medium
 
 **A-1439** DRBA January 2024 Resolution
 
-**A-1439.1** Delaware River and Bay Authority January 2024 resolution authorizing acquisition of rights to a paint hanger formerly part of a Dassault leasehold and authorizing execution of a lease with SATIDS
+**A-1439.1** Delaware River and Bay Authority January 2024 resolution authorizing acquisition of rights to a paint hanger formerly part of a Dassault leasehold and authorizing execution of a lease with SATYS
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -305,9 +305,9 @@ Confidence Level: Medium
 
 ---
 
-**A-2915** TWW Lewis Foundation Website Bundle
+**A-2915** T.W. Lewis Foundation Website Bundle
 
-**A-2915.1** Host verbal reference to the TWW Lewis foundation website listing Turning Point USA as a partner (not shown)
+**A-2915.1** Host verbal reference to the T.W. Lewis foundation website listing Turning Point USA as a partner (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:28:10
@@ -511,7 +511,7 @@ Investigative Pressure: Low
 
 **N-10269** Wilmington Airport Hangar Federal Connection
 
-SATIDS (A-1438.1) and DRBA (A-1439.1) documents describing takeover of former Dassault hangar; DRBA operates on federally regulated waterways.
+SATYS (A-1438.1) and DRBA (A-1439.1) documents describing takeover of former Dassault hangar; DRBA operates on federally regulated waterways.
 
 Evidence Count: 2
 Claim Count: 2
@@ -565,7 +565,7 @@ Existing topic reused for new claims in this episode.
 **N-11160** SUBTT Wilmington Maintenance Alibi Question
 
 Node Type: Topic
-The dispute over whether SUBTT's Wilmington stops were routine maintenance, including X users citing a Falcon maintenance arrangement dating to 1999 and the email's rebuttal based on the Dassault center closure and the SATIDS timeline.
+The dispute over whether SUBTT's Wilmington stops were routine maintenance, including X users citing a Falcon maintenance arrangement dating to 1999 and the email's rebuttal based on the Dassault center closure and the SATYS timeline.
 
 *Related: C-7984, C-7996, C-7997, C-7999*
 
@@ -644,7 +644,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10263** TWW Lewis Scottsdale-to-Provo Flight Manifest Mystery
+**N-10263** T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery
 
 Existing topic reused for new claims in this episode.
 
@@ -926,7 +926,7 @@ Investigative Direction: Cross-reference host's timeline against independent ADS
 
 **C-1746** Host Says SUBTT Stayed Overnight in Wilmington Until September 11 at 7:56 AM
 
-Claim Timestamp: 00:02:32–00:05:00
+Claim Timestamp: 00:04:05
 
 Claim: The host says the Egyptian plane remained in Wilmington, Delaware overnight and departed September 11, 2025 at 7:56 AM, which she says rules out a fuel-stop explanation.
 
@@ -980,25 +980,25 @@ Investigative Direction: Verify via direct lookups of each agency's published Wi
 
 ---
 
-**C-1750** Host Says SATIDS Announced December 2024 Takeover of Wilmington Airport Hangar
+**C-1750** Host Says SATYS Announced December 2024 Takeover of Wilmington Airport Hangar
 
 Claim Timestamp: 00:12:23–00:13:22
 
-Claim: The host says a French aircraft finishing company, SATIDS, announced in December 2024 it was taking over the shuttered Wilmington airport hangar (formerly a Dassault Falcon authorized center), investing approximately $1M+, and says her team confirmed this.
+Claim: The host says a French aircraft finishing company, SATYS, announced in December 2024 it was taking over the shuttered Wilmington airport hangar (formerly a Dassault Falcon authorized center), investing approximately $1M+, and says her team confirmed this.
 
 Anchored Artifacts: A-1438.1
 
 Related Nodes: N-10269
 
-Investigative Direction: Locate SATIDS press release and Delaware outlet coverage; confirm date and dollar figure.
+Investigative Direction: Locate SATYS press release and Delaware outlet coverage; confirm date and dollar figure.
 
 ---
 
-**C-1751** Per Document Host Reads, DRBA January 2024 Resolution Authorized Paint Hanger Lease to SATIDS
+**C-1751** Per Email Host Reads, DRBA January 2024 Resolution Authorized Paint Hanger Lease to SATYS
 
 Claim Timestamp: 00:13:22–00:14:22
 
-Claim: Per a Delaware River and Bay Authority (DRBA) January 2024 resolution the host reads, the DRBA was acquiring rights to a paint hangar formerly part of a Dassault leasehold and authorizing execution of a lease with SATIDS.
+Claim: Per an email the host reads, which quotes a Delaware River and Bay Authority (DRBA) January 2024 resolution, the DRBA was acquiring rights to a paint hangar currently part of a Dassault leasehold and authorizing execution of a lease with SATYS.
 
 Anchored Artifacts: A-1439.1
 
@@ -1057,7 +1057,7 @@ Investigative Direction: Obtain the full Shawn Ryan / Brian Harpole interview cl
 
 Claim Timestamp: 00:33:46–00:36:45
 
-Claim: Brian Harpole, on the Shawn Ryan interview, repeated the bullet-trajectory description involving entry, C6 vertebra crush, and 3,000 lbs of energy.
+Claim: In a clip the host plays, Brian Harpole, on the Shawn Ryan interview, describes the bullet entering, crushing a vertebra and fragmenting, saying "I think they said C6"; the host says he is doubling down on the idea of 3,000 lbs of energy.
 
 Anchored Artifacts: A-1442.2
 Mentions: N-268, N-226
@@ -1422,7 +1422,7 @@ Investigative Direction: Locate the original X posts and any documentation of a 
 
 Claim Timestamp: 00:12:23
 
-Claim: The host says Wilmington used to have a Dassault Falcon authorized service center but it shut down around 2021, before the 2024 SATIDS announcement.
+Claim: The host says Wilmington used to have a Dassault Falcon authorized service center but it shut down around 2021, before the 2024 SATYS announcement.
 
 Transcript Snippet: Wilmington used to have a Dissult Falcon authorized center but it shut down around 2021.
 
@@ -1452,11 +1452,11 @@ Investigative Direction: Review DRBA's enabling compact and federal oversight to
 
 ---
 
-**C-7999** Email Says SUBTT Traveled to France Before the SATIDS Deal Existed
+**C-7999** Email Says SUBTT Traveled to France Before the SATYS Deal Existed
 
 Claim Timestamp: 00:14:22
 
-Claim: The host reads the email saying SUBTT's timeline shows it traveled to France before the SATIDS deal was made, so a 2024 French finishing lease cannot explain a long-running Wilmington routine, and calls the maintenance story a cover.
+Claim: The host reads the email saying SUBTT's timeline shows it traveled to France before the SATYS deal was made, so if SUBTT has been doing this run for decades, a 2024 French finishing lease could not be its maintenance justification, and calls the maintenance story a cover.
 
 Transcript Snippet: your own timeline shows how they traveled to France before the deal was even made. It proves that the maintenance story is nothing but a cover.
 
@@ -1464,7 +1464,7 @@ Anchored Artifacts: A-1438.1, A-1439.1
 Mentions: N-3
 Related Nodes: N-10269, N-11160, N-10266
 Tags: relevance:core
-Investigative Direction: Line up SUBTT's France stops and Wilmington stops against the January 2024 DRBA resolution and December 2024 SATIDS announcement.
+Investigative Direction: Line up SUBTT's France stops and Wilmington stops against the January 2024 DRBA resolution and December 2024 SATYS announcement.
 
 ---
 
@@ -1710,7 +1710,7 @@ Mentions: N-3
 Related Nodes: N-10263, N-10074
 Supports: C-1725, C-1744
 Tags: relevance:core
-Investigative Direction: Match the tail number and manifest of this flight, which the host later ties to TWW Lewis, with FAA and FlightAware history.
+Investigative Direction: Match the tail number and manifest of this flight, which the host later ties to T.W. Lewis, with FAA and FlightAware history.
 
 ---
 
@@ -1731,13 +1731,13 @@ Investigative Direction: Check the Santa Barbara turnaround time and passengers 
 
 ---
 
-**C-8016** Host Says TPUSA Is Featured on TWW Lewis's Foundation Website as a Partner
+**C-8016** Host Says TPUSA Is Featured on T.W. Lewis's Foundation Website as a Partner
 
 Claim Timestamp: 00:28:10
 
-Claim: The host says Turning Point USA is featured on TWW Lewis's foundation website as a partner and that the foundation has given to Turning Point USA, which she uses to attach the Cessna flight to TPUSA.
+Claim: The host says Turning Point USA is featured on T.W. Lewis's foundation website as a partner and that the foundation has given to Turning Point USA, which she uses to attach the Cessna flight to TPUSA.
 
-Transcript Snippet: Turning Point USA is featured on TWW Lewis's foundation website. They are partners. They have given to Turning Point USA
+Transcript Snippet: Turning Point USA is featured on T.W. Lewis's foundation website. They are partners. They have given to Turning Point USA
 
 Anchored Artifacts: A-2915.1
 Mentions: N-3
@@ -1834,7 +1834,7 @@ Investigative Direction: Identify the aircraft and passengers on the 2:19 p.m. S
 
 Claim Timestamp: 00:29:34
 
-Claim: The host lists the passengers she says are known to have come from Arizona and possibly Santa Barbara as Andrew Kolvet's wife, a priest, Stacy Sheridan, Elizabeth McCoy, Tyler Bowyer and Erika Kirk, and says there could be more.
+Claim: The host lists the passengers she says are known to have come from Arizona and possibly Santa Barbara as Andrew Kolvet, Andrew Kolvet's wife, a priest, Stacy Sheridan, Elizabeth McCoy, Tyler Bowyer and Erika Kirk, and says there could be more.
 
 Transcript Snippet: Here are the passengers that we know came from Arizona and uh potentially Santa Barbara.
 
@@ -1855,7 +1855,7 @@ Claim: The host says Elizabeth McCoy screamed, grabbed her phone and ran out of 
 Transcript Snippet: Elizabeth McCoy screamed. She grabbed her phone. She ran out.
 
 Anchored Artifacts: 
-Mentions: N-3, N-219, N-192
+Mentions: N-3, N-219
 Related Nodes: N-10338, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the source and timing of the account and compare with Mikey McCoy's post-shooting call log.
@@ -1984,7 +1984,7 @@ Claim: The host concludes from the Turek clip that Charlie's team had drones and
 Transcript Snippet: His team had drones. They were texting him footage when he was in the car. So Brian Harpole lied.
 
 Anchored Artifacts: A-1441.1, A-1442.1
-Mentions: N-268, N-7, N-3
+Mentions: N-268, N-7, N-3, N-1
 Related Nodes: N-10267, N-10427
 Supports: C-1753
 Contradicts: C-1754
@@ -2035,7 +2035,7 @@ Claim: The host says the feds have told a ton of lies and are sending out a secu
 Transcript Snippet: The reason they're sending you out to do it is because they don't want to be caught lying themselves.
 
 Anchored Artifacts: A-1442.2
-Mentions: N-268, N-226, N-3
+Mentions: N-268, N-3
 Related Nodes: N-10862
 Tags: relevance:context
 Investigative Direction: Identify which lies the host attributes to the feds and who directed Harpole's interview appearance.
@@ -2085,7 +2085,7 @@ Claim: The host says that it is a conspiracy and that she was glad Joe Rogan ack
 Transcript Snippet: I was so happy to hear Joe Rogan spell out and acknowledge that not only are conspiracies real, but they're actually common.
 
 Anchored Artifacts: A-1443.1
-Mentions: N-3, N-270, N-148
+Mentions: N-3, N-270
 Supports: C-1758
 Tags: relevance:context
 Investigative Direction: Identify the Rogan and Theo Von episode and timestamp.
@@ -2096,7 +2096,7 @@ Investigative Direction: Identify the Rogan and Theo Von episode and timestamp.
 
 Claim Timestamp: 00:37:53
 
-Claim: In the Rogan and Von clip, a speaker says officials claim it would compromise national security to release the Jeffrey Epstein files and that the world is run by pedophiles.
+Claim: In the Rogan and Von clip, a speaker says officials claim it would compromise national security to release the Jeffrey Epstein files, and says the secret they would be protecting is that the world is run by pedophiles.
 
 Transcript Snippet: It's like the Jeffrey Epstein files. Like they're out there saying it would really compromise national security if we told you.
 
@@ -2140,11 +2140,11 @@ Investigative Direction: Treat as the host's characterization; no new Macron evi
 
 ---
 
-**C-8041** Clip: Rogan Says the Macrons Are Threatening a $50 Million Lawsuit
+**C-8041** Clip: Speaker Says the Macrons Are Threatening a $50 Million Lawsuit
 
 Claim Timestamp: 00:39:11
 
-Claim: In the clip, Joe Rogan says he thinks the Macrons are at least threatening a lawsuit for something like 50 million dollars, and Theo Von asks whether they are suing her.
+Claim: In the Rogan and Von clip, one speaker asks whether the Macrons are suing her, and a speaker says he thinks they are at least threatening a lawsuit for something like 50 million dollars.
 
 Transcript Snippet: I think they're at least threatening a lawsuit. It's like for like 50 million bucks.
 
@@ -2165,7 +2165,7 @@ Claim: In the clip, a speaker remarks on the age gap between the French presiden
 Transcript Snippet: Or when the he was like 40 and the kid was 15 >> or she was 40, even if it was a she.
 
 Anchored Artifacts: A-1443.1
-Mentions: N-270, N-148
+Mentions: N-381, N-82
 Related Nodes: N-10316
 Tags: relevance:tangential
 Investigative Direction: Public records on the Macrons' ages; the remark is comedic commentary.
@@ -2224,7 +2224,7 @@ Investigative Direction: Request evidence of any funded messaging campaign; none
 
 Claim Timestamp: 00:42:03
 
-Claim: The host says donors were getting very angry with Charlie and were squeezing him, which she calls the main part of the story.
+Claim: The host says donors were getting very angry with Charlie and were squeezing him, which she calls the main thing and a part of the story.
 
 Transcript Snippet: donors were getting very angry with Charlie.
 
@@ -2240,7 +2240,7 @@ Investigative Direction: Identify the donors and dated communications showing an
 
 Claim Timestamp: 00:42:03
 
-Claim: The host says Tim Pool, who was always invited to speak at AmFest, was cut seemingly because of anti-Israel rhetoric.
+Claim: The host says Tim Pool, who was always invited to speak at AmFest, was cut seemingly because of his anti-Israel rhetoric, or what could be interpreted as anti-Israel rhetoric.
 
 Transcript Snippet: Tim P, who is always invited to speak at Turning Point USA's Amfest, they cut him because of his seemingly because of his um anti-Israel
 
@@ -2415,7 +2415,7 @@ Investigative Direction: Identify the people and dated messages in which the hos
 
 Claim Timestamp: 00:52:04
 
-Claim: The host says Charlie was so motivated that he equated more dollars with more success and did not equate it necessarily with more of a threat.
+Claim: The host says she thinks Charlie was so motivated that he equated more dollars with more success and did not necessarily equate it with more of a threat.
 
 Transcript Snippet: I think that he equated more dollars with more success and didn't equate it necessarily with more of a threat.
 
@@ -2431,7 +2431,7 @@ Investigative Direction: Compare with donor correspondence and TPUSA fundraising
 
 Claim Timestamp: 00:52:04
 
-Claim: The host says she is not voting until officials tell the public what happened to Charlie, why it happened and why it had to happen.
+Claim: The host says she is not voting until "they" tell us what happened to Charlie, why it happened and why it had to happen.
 
 Transcript Snippet: I'm not voting until they tell us what happened to Charlie, why it happened to Charlie, why it had to happen to Charlie.
 
@@ -2451,9 +2451,9 @@ Claim: The host says YouTube gave her team a copyright claim, not a strike, over
 Transcript Snippet: A copyright claim for her sensational music. And so, we might have to trim out that sensational song from the Tim Dillon clip that we showed of him listening to it.
 
 Anchored Artifacts: A-2916.1
-Mentions: N-3, N-279
+Mentions: N-3, N-279, N-69
 Related Nodes: N-10530
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the copyright claim notice and identify the clip and rights holder.
 
 ---
@@ -2478,9 +2478,9 @@ Investigative Direction: Treat as viewer speculation; look for any documentary l
 
 Claim Timestamp: 00:52:47
 
-Claim: The host says she believes a MK Ultra experiment she had been discussing looked very much like prisoner 2093 could have been Jean Michelle Tro, a garbled name, and that she did not think there could be a connection to the killing.
+Claim: The host says she believes a MK Ultra experiment she had been discussing looked very much like prisoner 2093 could have been Jean-Michel Trogneux, and that she did not think there could be a connection to the killing.
 
-Transcript Snippet: that MK Ultra experiment that happened that I believe it it looked very much like prisoner 2093 could have been Jean Michelle Tro.
+Transcript Snippet: that MK Ultra experiment that happened that I believe it it looked very much like prisoner 2093 could have been Jean-Michel Trogneux.
 
 Anchored Artifacts: A-2917.3
 Mentions: N-3
@@ -2503,7 +2503,7 @@ Mentions: N-3
 Related Nodes: N-10269, N-10316
 Supports: C-1750
 Tags: relevance:core
-Investigative Direction: Trace SATIDS ownership and any ties to French state entities, and compare the deal dates with SUBTT's France trips.
+Investigative Direction: Trace SATYS ownership and any ties to French state entities, and compare the deal dates with SUBTT's France trips.
 
 ---
 

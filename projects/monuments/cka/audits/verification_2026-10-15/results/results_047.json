@@ -1,0 +1,814 @@
+[
+ {
+  "claim": "C-6672",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: \"we know they then put down pavers\"; \"authorities\" is not said.",
+  "fix": {
+   "claim": "The host says that they put down pavers almost immediately and releveled the area, which she finds quite shady."
+  }
+ },
+ {
+  "claim": "C-6673",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Donor who yelled at Kirk: background, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6674",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6675",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Donor name saved in phone; context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6676",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1695",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Brett Cooper speaks in a clip the host plays, not \"read on air\".",
+  "fix": {
+   "claim": "In a clip the host plays, Brett Cooper says Lou Taylor began her career working in a church alongside her husband, who at the time was a pastor at Calvary Church in Brentwood, California."
+  }
+ },
+ {
+  "claim": "C-1696",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1697",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Cooper: \"Mr. Spears at times gave 10%\"; Lou Taylor not named in claim, N-252 extra.",
+  "fix": {
+   "claim": "In a clip the host plays, Brett Cooper says, citing a 2010 financial document, that Mr. Spears at times gave 10% of his conservatorship income to Calvary Chapel Brentwood, and \"tens of thousands of dollars\" in one year.",
+   "mentions": [
+    "N-254",
+    "N-223"
+   ]
+  }
+ },
+ {
+  "claim": "C-1698",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Britney Spears (N-878) but not Jamie; N-254 not named.",
+  "fix": {
+   "mentions": [
+    "N-878",
+    "N-252",
+    "N-223"
+   ]
+  }
+ },
+ {
+  "claim": "C-1699",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Britney Spears named in claim but N-878 missing.",
+  "fix": {
+   "mentions": [
+    "N-878",
+    "N-254",
+    "N-252"
+   ]
+  }
+ },
+ {
+  "claim": "C-1700",
+  "episode": 32,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"The New Yorker reported...\" is said by Brett Cooper in her clip, before host speaks at 12:38.",
+  "fix": {
+   "claim": "In a clip the host plays, Brett Cooper says The New Yorker reported that Lou Taylor also tried to place Courtney Love and Lindsay Lohan into conservatorships.",
+   "mentions": [
+    "N-223",
+    "N-252",
+    "N-255",
+    "N-256"
+   ]
+  }
+ },
+ {
+  "claim": "C-1701",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1702",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Thousand Oaks/Tony Blair bit is a reporter-sourced Britney 2019 house tied to Epstein, not Lou Taylor property; N-17 not named (email says Rob Taylor). Unresolved name: Aruse.",
+  "fix": {
+   "label": "Insider Email Alleges Lou Taylor and Rob Taylor's Church Is a Front with Intelligence Links",
+   "claim": "Per a partially redacted email the host reads, the sender says Rob and Lou Taylor's church is a front for \"them and Aruse\" (uncertain transcription) and suspects Lou Taylor is tied to possibly the CIA and Mossad and to Black Cube security. The host says she has not confirmed it.",
+   "mentions": [
+    "N-252",
+    "N-253"
+   ]
+  }
+ },
+ {
+  "claim": "C-1703",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "LSD/toddler Haight-Ashbury is said around 21:00-22:05, not at 28:30. Host also says texts came in January and February.",
+  "fix": {
+   "timestamp": "00:21:25"
+  }
+ },
+ {
+  "claim": "C-1704",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"I did not kill Kurt Cobain... psychological operation\" is said ~22:15, not 28:30.",
+  "fix": {
+   "timestamp": "00:22:10"
+  }
+ },
+ {
+  "claim": "C-1705",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mormon mafia remark is ~27:45; claim at 28:30 is >20s after. Date \"Jan 2025\" not stated here.",
+  "fix": {
+   "timestamp": "00:27:40"
+  }
+ },
+ {
+  "claim": "C-1706",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Justin Bieber but N-874 missing.",
+  "fix": {
+   "mentions": [
+    "N-252",
+    "N-361",
+    "N-874",
+    "N-255"
+   ]
+  }
+ },
+ {
+  "claim": "C-1707",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"October of last year\"; \"2024\" is inferred.",
+  "fix": {
+   "claim": "Per Bob Bryar's Twitter/X post (dated October of last year per the host), Lou Taylor was his business manager for 18 years until they separated in September."
+  }
+ },
+ {
+  "claim": "C-1708",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1709",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "N-248 Butch Hibbs not named; host adds \"does not mean he's guilty\", and \"viewer-submitted\" not stated.",
+  "fix": {
+   "claim": "The host describes an individual in a maroon shirt who was partially in the bush at the Kirk event; when Charlie went down, everyone ducked but he kept standing, went into and out of the bush and calmly walked away. She says this does not mean he is guilty of anything.",
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1710",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1711",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1712",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1713",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Erika Kirk (N-2) not named in claim. \"Ali Stucky\" is a transcription of Allie Beth Stuckey (en.wikipedia.org/wiki/Allie_Beth_Stuckey).",
+  "fix": {
+   "label": "Daily Mail Headline Framed Allie Beth Stuckey as TPUSA \"Heir\"",
+   "claim": "The host says the Daily Mail (Victoria Churchill, whom she calls an APAC reporter) published a headline framing Allie Beth Stuckey as TPUSA's \"heir\" or equivalent.",
+   "mentions": [
+    "N-229",
+    "N-84"
+   ],
+   "names": [
+    {
+     "wrong": "Ali Stucky",
+     "right": "Allie Beth Stuckey",
+     "source": "https://en.wikipedia.org/wiki/Allie_Beth_Stuckey"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1714",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "WSJ remark is ~57:05; claim 57:40 is >20s after. Erika (N-2) not named.",
+  "fix": {
+   "timestamp": "00:56:58",
+   "mentions": [
+    "N-229"
+   ]
+  }
+ },
+ {
+  "claim": "C-1715",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10837",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Macron lawsuit/MK Ultra aside is not about Kirk.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-10838",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10839",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10840",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10841",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10842",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10843",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10844",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10845",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"Spears\" is Mr. Spears (Jamie); ambiguous.",
+  "fix": {
+   "claim": "Brett Cooper (clip played) says Jamie Spears committed Britney to an eight-month Circus tour, that Lou Taylor's company Tri Star was hired as business manager, and that the tour grossed an estimated $130 million.",
+   "mentions": [
+    "N-223",
+    "N-252",
+    "N-878",
+    "N-254"
+   ]
+  }
+ },
+ {
+  "claim": "C-10846",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10847",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10848",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10849",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10850",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10851",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10852",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"Stepped down amid sexual allegations\" is the host's aside (\"I believe\"), not the email.",
+  "fix": {
+   "claim": "The email read by the host says Robin and Lou Taylor lived in Fort Lauderdale, attended a very large Calvary Chapel there and were mentored by Bob Coy, who mentored them in starting their Brentwood, Tennessee church. The host adds that Coy has been embroiled in sexual-allegation scandal and she believes had to step down."
+  }
+ },
+ {
+  "claim": "C-10853",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10854",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10855",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10856",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10857",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10858",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10859",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10860",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10861",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10862",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10863",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10864",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10865",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10866",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10867",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10868",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10869",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10870",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

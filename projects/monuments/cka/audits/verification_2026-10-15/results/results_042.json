@@ -1,0 +1,790 @@
+[
+ {
+  "claim": "C-9651",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Mamdani/Tucker clip dispute does not bear on the assassination; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9652",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Mamdani primary commentary is tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9653",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Mayoral debate question is tangential. Speaker is a clip participant (Greene/Carlson).",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9654",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9655",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9656",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9657",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9658",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9659",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim adds editorial inference 'so this dates the conversation to 2024'; host only says Daily Wire's 'position in 2024'.",
+  "fix": {
+   "claim": "The host refers to the Daily Wire's position 'in 2024' that its CEO could talk to Nick Fuentes publicly, praise him publicly and invite him onto the Daily Wire platform."
+  }
+ },
+ {
+  "claim": "C-9660",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Boreing is the other party in the played X Space, not named in claim; kept.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9661",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9662",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9663",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9664",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9665",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9666",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Became CEO only afterward' inferred from 'now she's the CEO'; acceptable.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9667",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Shapiro/Randy Fine/Gaza digression is tangential to the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9668",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Netanyahu interview/genocide aside is tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9669",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Shapiro (N-97) not named in claim but context ('Ben and Jeremy admitted').",
+  "fix": {}
+ },
+ {
+  "claim": "C-9670",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9671",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'Nick Fuentes seems to have survived'; claim drops 'seems to have'.",
+  "fix": {
+   "claim": "The host says Nick Fuentes seems to have survived without advertisers, sponsors or connections and was put on the ADL's list."
+  }
+ },
+ {
+  "claim": "C-9672",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9673",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Audience-authenticity of a Kelly tour stop is context, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-9674",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9675",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9676",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9677",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9678",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9679",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9680",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9681",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9682",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9683",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9684",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9685",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9686",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9687",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9688",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host-clip speaker drops 'I think' hedge on 'he says frustration'; trivial.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9689",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9690",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'The kids are now awake. they know about Jared...' refers to young people, not the Trump family ('these kids... generation 9/11'). Claim wrongly says Trump family members know.",
+  "fix": {
+   "claim": "The host says the kids are now awake: they know about Jared Kushner and his deals with Ivanka and the Middle East, how much money they are set to make, and that Gaza being destroyed is actually beneficial to their bank accounts.",
+   "label": "Host Says Young People Know About Kushner's Middle East Deals and Gaza Benefit",
+   "mentions": [
+    "N-180",
+    "N-665"
+   ]
+  }
+ },
+ {
+  "claim": "C-9691",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says 'we get lectured' (Americans); claim changes subject to 'young people'.",
+  "fix": {
+   "claim": "The host says America's upside is that 'we' get lectured and told we are not even allowed to bring up Israel on college campuses or risk being arrested, with stricter anti-semitism laws."
+  }
+ },
+ {
+  "claim": "C-9692",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Wording garbled ('because what BB bought TikTok'); causal reading in claim and title uncertain.",
+  "fix": {
+   "claim": "The host, addressing the Trumps, says 'you thought that this generation was going to get behind it because what BB bought TikTok' (transcript wording is garbled).",
+   "label": "Host Refers to BB Buying TikTok"
+  }
+ },
+ {
+  "claim": "C-9693",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9694",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9695",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9696",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9697",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'They' = the pro-Israel lobby ('the pro-Israel lobby is on its way out... even when they do debate'), not Shapiro; N-97 not named in claim.",
+  "fix": {
+   "claim": "The host says that the pro-Israel lobby, even when it debates, then does what it did to Charlie Kirk and afterwards gets so angry that it lost the debate that it tries to squeeze him and tell him he can never host this person ever again.",
+   "label": "Host Says Pro-Israel Lobby Squeezed Kirk After Losing a Debate",
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1652",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1653",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'covert'/'overt' do not appear in the clip through 14:22 and the following 40s; unsupported detail.",
+  "fix": {
+   "claim": "In an audio clip played on the episode, Lance Wallnau defined the seven mountain mandate as covering religion, education, family, government, media, art/entertainment, and business/economics."
+  }
+ },
+ {
+  "claim": "C-1654",
+  "episode": 29,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Darker than a cult' is the host's intro ('flat-out acknowledged... cult, actually darker than a cult'); Turek in the clip says 'aberrant' hermeneutic, 'more new agey or more even occult-like than Christian'.",
+  "fix": {
+   "claim": "In an audio clip played on the episode, Frank Turek described the New Apostolic Reformation as having an \"aberrant\" hermeneutic and doing things \"more new agey or more even occult-like than they are Christian\"; the host introduces the clip by saying Turek acknowledged NAR was a cult, \"actually darker than a cult.\"",
+   "label": "Frank Turek Described NAR Theology as Aberrant and Occult-Like"
+  }
+ },
+ {
+  "claim": "C-1655",
+  "episode": 29,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Name/age/'5-year forensic investigation' are the host's words (08:09, 09:40), not Baker's; Baker says a source said 'She's one of us'. Name is Shauni Kerkhoff (confirmed).",
+  "fix": {
+   "claim": "The host says the person responsible for dropping off the January 6 pipe bombs was revealed to be a 31-year-old woman and United States Capitol Police officer she names as Shauni Kerkhoff, credits reporter Steve Baker with the discovery, plays Glenn Beck interviewing Baker (who says a federal source responded \"She's one of us\"), and says it was a 5-year investigation involving forensic analysis.",
+   "label": "Host Says Baker Identified Capitol Police Officer as Pipe-Bomb Dropper",
+   "names": [
+    {
+     "wrong": "Shawnie Ray Kirkup",
+     "right": "Shauni Rae Kerkhoff",
+     "source": "https://www.primetimer.com/news/journalist-steve-baker-identifies-former-u-s-capitol-police-officer-shauni-kerkhoff-as-the-j6-pipe-bomber-everything-to-know"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1656",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says Lyons stated Kirkhoff 'the alleged person' worked in Capitol Police Campus Security; 'she lives in Alexandria' is not clearly Lyons'. Name is Shauni Kerkhoff (confirmed).",
+  "fix": {
+   "claim": "CIA spokeswoman Liz Lyons, as relayed by the host, stated that Shauni Kerkhoff, \"the alleged person who dropped off these pipe bombs,\" worked in Capitol Police Campus Security; the host adds that she lives in Alexandria, Virginia.",
+   "names": [
+    {
+     "wrong": "Shawnie Kirkhoff",
+     "right": "Shauni Kerkhoff",
+     "source": "https://www.primetimer.com/news/journalist-steve-baker-identifies-former-u-s-capitol-police-officer-shauni-kerkhoff-as-the-j6-pipe-bomber-everything-to-know"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1657",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1658",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1659",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'a verse'; 'Matthew 16:26' not said. 'In response to' is the host's characterization.",
+  "fix": {
+   "claim": "The host says Seth Dillon of the Babylon Bee tweeted a Bible verse (\"what do you benefit if you gain the whole world but lose your own soul?\") when her show hit number one globally."
+  }
+ },
+ {
+  "claim": "C-1660",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1661",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Grok headline reads 'accuses', not 'accused'; host immediately says 'none of this is real', omitted.",
+  "fix": {
+   "claim": "Grok (X AI) produced a headline read aloud in the episode, \"Candace Owens accuses Turning Point USA of Charlie Kirk assassination role,\" claiming she alleged TPUSA orchestrated the October 15th, 2025 assassination via former volunteer Marcus Hale; the host says none of this is real."
+  }
+ },
+ {
+  "claim": "C-1662",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Outsourcing your critical thinking' is spoken ~33:20, over 30s before 33:55. Stuckey does not name Owens; host frames clip as about questions on the assassination.",
+  "fix": {
+   "timestamp": "00:33:16",
+   "claim": "In an audio clip played on the episode, Allie Beth Stuckey told people who say they are seeking truth and asking questions that they were \"outsourcing your critical thinking,\" and warned that implicating a real person in a murder plot required being \"100% sure\" and backed by \"hard evidence.\"",
+   "label": "Allie Beth Stuckey Said Implicating a Real Person in a Murder Plot Requires Hard Evidence"
+  }
+ },
+ {
+  "claim": "C-1663",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Rather debate a skunk' falls after the provided window; not verified.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1664",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Smith hedges: 'I think she is exhibiting several cult tactics... I think she's using manipulative language and a lot of cluster B...'.",
+  "fix": {
+   "claim": "Keri Smith, host of the Deprogrammed podcast, in audio played on the episode, said she thinks Candace Owens is exhibiting \"several cult tactics\" and is using manipulative language and \"a lot of cluster B personality disorder behavior.\""
+  }
+ }
+]

@@ -995,9 +995,9 @@ Named for sharing correspondence with Andrew Kolvet to rebut the host (transcrip
 
 ---
 
-**N-333** Andrew Seifer
+**N-333** Andrew Sypher
 
-Named as Andrew Cipher in the transcript: TPUSA's longtime head of field, promoted to a chief position per the host.
+Named as Andrew Sypher in the transcript: TPUSA's longtime head of field, promoted to a chief position per the host.
 
 *Related: C-6263, C-6272, C-6273*
 
@@ -3011,13 +3011,13 @@ Investigative Direction: Obtain UVUPD's requests to Crofts and Chilcutt and any 
 
 ---
 
-**C-6263** Host says Maycee Crofts worked with Andrew Cipher, the longtime head of field
+**C-6263** Host says Maycee Crofts worked with Andrew Sypher, the longtime head of field
 
 Claim Timestamp: 01:08:14
 
-Claim: The host says Maycee Crofts would be working with Andrew Cipher, whom she calls the longtime head of the field and one of Tyler Bowyer's guys, who was also present on September 10.
+Claim: The host says Maycee Crofts would be working with Andrew Sypher, whom she calls the longtime head of the field and one of Tyler Bowyer's guys, who was also present on September 10.
 
-Transcript Snippet: she would be working with Andrew Cipher on this. He's the longtime head of the field.
+Transcript Snippet: she would be working with Andrew Sypher on this. He's the longtime head of the field.
 
 Anchored Artifacts: 
 Mentions: N-8, N-333, N-11
@@ -3147,13 +3147,13 @@ Investigative Direction: List TPUSA interviews with CBS and ABC and compare date
 
 ---
 
-**C-6272** Host says Andrew Cipher was promoted to a chief position shortly after the event
+**C-6272** Host says Andrew Sypher was promoted to a chief position shortly after the event
 
 Claim Timestamp: 01:20:39
 
-Claim: The host says she believes Maycee Crofts was told what to do likely by Andrew Cipher, who was promoted shortly after to a chief position at the organization.
+Claim: The host says she believes Maycee Crofts was told what to do likely by Andrew Sypher, who was promoted shortly after to a chief position at the organization.
 
-Transcript Snippet: likely by Andrew Cipher who was promoted shortly thereafter to a chief position at the organization.
+Transcript Snippet: likely by Andrew Sypher who was promoted shortly thereafter to a chief position at the organization.
 
 Anchored Artifacts: 
 Mentions: N-8, N-333
@@ -3167,7 +3167,7 @@ Investigative Direction: Verify the date and title of any Cipher promotion throu
 
 Claim Timestamp: 01:20:39
 
-Claim: The host says that, based on her experience, Andrew Cipher has always been Tyler Bowyer's guy.
+Claim: The host says that, based on her experience, Andrew Sypher has always been Tyler Bowyer's guy.
 
 Transcript Snippet: And I believe that he's always been based on my experience Tyler Bowyer's guy.
 

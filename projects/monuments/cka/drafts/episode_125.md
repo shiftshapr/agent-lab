@@ -1046,13 +1046,13 @@ Investigative Direction: Retrieve Neff's original post from X with its timestamp
 
 ---
 
-**C-5860** MASH Military-Affiliated Student Center Is on the Third Floor of the Lozi Center
+**C-5860** MASH Military-Affiliated Student Center Is on the Third Floor of the Losee Center
 
 Claim Timestamp: 00:10:11
 
-Claim: The host says that on the third floor of the Lozi Center, where video people were seen going up and down, is the MASH student center, the military-affiliated student center at UVU.
+Claim: The host says that on the third floor of the Losee Center, where video people were seen going up and down, is the MASH student center, the military-affiliated student center at UVU.
 
-Transcript Snippet: That on the third floor of the Lozi Center, we were seeing all these video people going up and down, it is the MASH student center, the military-affiliated student center.
+Transcript Snippet: That on the third floor of the Losee Center, we were seeing all these video people going up and down, it is the MASH student center, the military-affiliated student center.
 
 Anchored Artifacts: 
 Mentions: N-3

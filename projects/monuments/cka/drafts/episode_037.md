@@ -27,7 +27,7 @@
 
 This episode develops the "Operation Valhalla" thread of the investigation. The host presents four artifact-anchored components: (1) the Minot Air Force Base website article describing Operation Valhalla Strike, a week-long training exercise conducted August 24–29, 2025 at Camp Ripley by the 891st Missile Security Forces Squadron; (2) an email from a self-identified military member tying BTT's September 4 stopover at Minot, ND to that same exercise; (3) an audio clip of Kash Patel's press conference closing statement invoking "Valhalla" in tribute to Charlie Kirk; and (4) a Prager News Network interview clip in which Charlie Kirk identifies Julius Caesar as his favorite pre-1850 historical figure, with the host drawing a parallel between Caesar's assassination and Kirk's.
 
-The episode also presents side threads with their own artifact anchors: a news clip of Nebraska Secretary of State Bob Evan announcing an October–November Egypt trade mission (alleged to overlap with BTT's movements), a video of Mike Huckabee and David Friedman performing at a Jerusalem event, an article/headline documenting Huckabee's meeting with convicted Israeli spy Jonathan Pollard, a quoted White House briefing statement from press secretary Karoline Leavitt, an email from Free Press writer Ashley Rinzberg requesting comment on several shows, and a Tim Dillon audio clip characterizing Bari Weiss's installation at CBS News as state propaganda delivery.
+The episode also presents side threads with their own artifact anchors: a news clip of Nebraska Secretary of State Bob Evnen announcing an October–November Egypt trade mission (alleged to overlap with BTT's movements), a video of Mike Huckabee and David Friedman performing at a Jerusalem event, an article/headline documenting Huckabee's meeting with convicted Israeli spy Jonathan Pollard, a quoted White House briefing statement from press secretary Karoline Leavitt, an email from Free Press writer Ashley Rindsberg requesting comment on several shows, and a Tim Dillon audio clip characterizing Bari Weiss's installation at CBS News as state propaganda delivery.
 
 Structurally, the episode is a connector episode – it does not introduce a new central evidentiary claim, but it does add the Operation Valhalla timeline anchor that places a named military unit's training exercise at T-minus 12 days from the assassination.
 
@@ -144,7 +144,7 @@ Confidence: high
 Video Timestamp: 00:31:33
 Speaker: N-3
 Quote: You just cannot make it up.
-Context: Host reacts to Rinzberg living in Tel Aviv.
+Context: Host reacts to Rindsberg living in Tel Aviv.
 Tags: cant_make_it_up, incredulity
 Confidence: high
 
@@ -210,7 +210,7 @@ Confidence Level: Medium (sender identity redacted by host; content verbally rea
 
 **A-1455** Nebraska Secretary of State Press Conference Bundle
 
-**A-1455.1** News Clip – Nebraska Secretary of State Bob Evan Announces Egypt Trade Mission
+**A-1455.1** News Clip – Nebraska Secretary of State Bob Evnen Announces Egypt Trade Mission
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -264,9 +264,9 @@ Confidence Level: Medium
 
 ---
 
-**A-1459** Ashley Rinzberg Free Press Email Bundle
+**A-1459** Ashley Rindsberg Free Press Email Bundle
 
-**A-1459.1** Email from Ashley Rinzberg Requesting Comment for Free Press Article
+**A-1459.1** Email from Ashley Rindsberg Requesting Comment for Free Press Article
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -453,7 +453,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-278** Ashley Rinzberg
+**N-278** Ashley Rindsberg
 
 Free Press writer; sent email to host requesting comment on multiple shows.
 
@@ -492,7 +492,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-281** Bob Evan
+**N-281** Bob Evnen
 
 Nebraska Secretary of State; announced Egypt trade mission per news clip.
 
@@ -611,7 +611,7 @@ Investigative Pressure: Low
 
 **N-10280** The Free Press
 
-Online publication co-founded by Bari Weiss; outlet of record for the Rinzberg inquiry email.
+Online publication co-founded by Bari Weiss; outlet of record for the Rindsberg inquiry email.
 
 Evidence Count: 1
 Claim Count: 1
@@ -624,7 +624,7 @@ Investigative Pressure: Low
 
 **N-10281** Free Press Email Inquiry Target
 
-Topic: episode-specific Rinzberg email regarding "economics of high engagement political content" on YouTube and podcasts, covering Israel, Charlie Kirk's death, and Becoming Brigitte.
+Topic: episode-specific Rindsberg email regarding "economics of high engagement political content" on YouTube and podcasts, covering Israel, Charlie Kirk's death, and Becoming Brigitte.
 
 Evidence Count: 1
 Claim Count: 1
@@ -992,7 +992,7 @@ Existing topic reused for Butch Hibbs's presence.
 
 ---
 
-**N-11008** Satis
+**N-11008** Satys
 
 Existing organization reused for the French company at the Wilmington hangar.
 
@@ -1034,7 +1034,7 @@ Claim Timestamp: 00:08:24
 Claim: Per the Minot Air Force Base website page the host reads, a week-long training exercise named Operation Valhalla Strike was conducted by the 891st Squadron from Minot AFB at Camp Ripley Training Center in Minnesota from August 24 to August 29, 2025.
 
 Anchored Artifacts: A-1451.1
-Mentions: N-69
+Mentions: 
 
 Related Nodes: N-10273, N-10277, N-10278, N-10279
 
@@ -1074,7 +1074,7 @@ Investigative Direction: Verify against official USAF fact sheets.
 
 Claim Timestamp: 00:01:47
 
-Claim: In a Prager News Network interview (date unspecified), Charlie Kirk named Jesus Christ first and then Julius Caesar among his favorite historical figures, citing Caesar's military conquests, civil war survival, and assassination by the people he benefited.
+Claim: In a Prager News Network interview (date unspecified), Charlie Kirk named Jesus Christ first and then Julius Caesar among his favorite historical figures, citing Caesar's military conquests, civil war survival, and the people he benefited most turning against him.
 
 Anchored Artifacts: A-1452.1
 Mentions: N-1, N-3
@@ -1106,7 +1106,7 @@ Claim Timestamp: 00:05:34
 Claim: Per a military tipster email, the Egyptian military BTT aircraft stopped for approximately one hour at Minot, North Dakota on September 4, 2025 before continuing to Provo.
 
 Anchored Artifacts: A-1454.1
-Mentions: N-69
+Mentions: 
 
 Related Nodes: N-10274, N-10277
 
@@ -1135,7 +1135,7 @@ Claim Timestamp: 00:06:30
 Claim: Per the military tipster email, the 891st MSFS had "just come off of" Operation Valhalla, a training exercise in Minnesota from August 24 to 29, immediately prior to BTT's September 4 stopover at Minot.
 
 Anchored Artifacts: A-1454.1
-Mentions: N-69
+Mentions: 
 
 Related Nodes: N-10273, N-10274, N-10277, N-10278
 
@@ -1143,11 +1143,11 @@ Investigative Direction: Confirm exercise completion dates and any overlap with 
 
 ---
 
-**C-1776** Host Plays Clip of Nebraska Secretary of State Bob Evan Announcing Egypt Trade Mission
+**C-1776** Host Plays Clip of Nebraska Secretary of State Bob Evnen Announcing Egypt Trade Mission
 
 Claim Timestamp: 00:12:13
 
-Claim: In a news clip the host plays, Nebraska Secretary of State Bob Evan announces a trade and investment mission to Egypt scheduled for October 26 through November 2, which the host says was announced on or around July 22, 2025.
+Claim: In a news clip the host plays, a reporter says Nebraska Secretary of State Bob Evnen is inviting business and industry leaders to a trade and investment mission to Egypt, currently scheduled for October 26 through November 2 with dates subject to change; the host says it was announced on or around July 22, 2025.
 
 Anchored Artifacts: A-1455.1
 Mentions: N-281
@@ -1204,14 +1204,14 @@ Investigative Direction: Locate full White House briefing transcript or video.
 
 Claim Timestamp: 00:29:33
 
-Claim: Ashley Rinzberg, writing for The Free Press, emailed Candace Owens requesting comment on a piece about the "economics of high engagement political content on YouTube and podcast platforms," specifically referencing claims about Israel, the death of Charlie Kirk, and the Becoming Brigitte series, along with five business-metric questions.
+Claim: Ashley Rindsberg, writing for The Free Press, emailed Candace Owens requesting comment on a piece about the "economics of high engagement political content on YouTube and podcast platforms," specifically referencing claims about Israel, the death of Charlie Kirk, and the Becoming Brigitte series, along with five business-metric questions.
 
 Anchored Artifacts: A-1459.1
 Mentions: N-3, N-278, N-1
 
 Related Nodes: N-10280, N-10281
 
-Investigative Direction: Confirm whether the article was published and whether Rinzberg is correctly identified by the outlet's masthead.
+Investigative Direction: Confirm whether the article was published and whether Rindsberg is correctly identified by the outlet's masthead.
 
 ---
 
@@ -1219,7 +1219,7 @@ Investigative Direction: Confirm whether the article was published and whether R
 **C-3651** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:39:33
-Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Claim: The host says, after reading a viewer comment, 'This is why I love the decentralized intelligence agency.'
 Transcript Snippet: ...reative perspective there. This is why I love the decentralized intelligence agency. Holly Carlin writes, "We needed a hoodie that says go Max." The get me out of here write...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1439,9 +1439,9 @@ Investigative Direction: Check flight-tracking logs for the actual Wilmington ar
 
 Claim Timestamp: 00:11:30
 
-Claim: The host says that during SU-BTT's roughly six-day Nebraska stretch, on July 22, Nebraska Secretary of State Bob Evan announced a trade and investment delegation to Cairo, Egypt.
+Claim: The host says that during SU-BTT's roughly six-day Nebraska stretch, on July 22, Nebraska Secretary of State Bob Evnen announced a trade and investment delegation to Cairo, Egypt.
 
-Transcript Snippet: during this stretch on July 22nd, the Nebraskan Secretary of State Bob Evan announced that they were going to put together a trade and investment delegation to Cairo, Egypt.
+Transcript Snippet: during this stretch on July 22nd, the Nebraskan Secretary of State Bob Evnen announced that they were going to put together a trade and investment delegation to Cairo, Egypt.
 
 Anchored Artifacts: A-1455.1, A-3030.1
 Mentions: N-281
@@ -1461,7 +1461,7 @@ Claim: The host says she suspects the Nebraska-to-Cairo trade mission idea may b
 Transcript Snippet: and it happens to line up with this plane that comes in um uh at literally comes in at the on the exact same day.
 
 Anchored Artifacts: A-1455.1
-Mentions: N-281
+Mentions: 
 Related Nodes: N-10276
 Supports: C-1776
 Tags: relevance:core
@@ -1615,7 +1615,7 @@ Investigative Direction: Check the McCoy family's naval service records and any 
 
 Claim Timestamp: 00:16:00
 
-Claim: The host says the video of the shooter running away after the shot shows him moving too fast, since someone cannot go from a crouching firing position to a full sprint in a split second.
+Claim: The host says the video of the alleged shooter running away after the shot shows him moving too fast, since someone cannot go from a crouching firing position to a full sprint in a split second.
 
 Transcript Snippet: you can't go from a crouching position to a full sprint in a split second.
 
@@ -1690,11 +1690,11 @@ Investigative Direction: Obtain UVU and TPUSA promotion records, poster dates an
 
 ---
 
-**C-9794** Host Says Tyler Robinson Was a Boy Scout and Photos Show His Mother Visiting an Uncle Mitchell
+**C-9794** Host Says Tyler Robinson Was a Boy Scout and Photos Show Amber Robinson Visiting an Uncle Mitchell
 
 Claim Timestamp: 00:17:30
 
-Claim: The host says Tyler Robinson was a Boy Scout and that photos circulating online (not shown, she did not have one) show Amber Robinson visiting an uncle Mitchell.
+Claim: The host says Tyler Robinson is a Boy Scout whose uncle Mitchell may be related, and that photos people have pulled off the internet (not shown, she did not have one) show Amber Robinson and others visiting an uncle Mitchell.
 
 Transcript Snippet: Tyler Robinson is a boy scout whose uncle Mitchell may be related. People have pulled this off of the internet, and I don't have a photo for you today.
 
@@ -1943,7 +1943,7 @@ Investigative Direction: Compare the $28 figure with Pre-Born's published cost p
 
 Claim Timestamp: 00:27:20
 
-Claim: The host says that when Jonathan Pollard was released he was welcomed in Israel with a red carpet and that she thinks Netanyahu met him on the runway.
+Claim: The host says that when Jonathan Pollard was released he was welcomed in Israel with the red carpet rolled out, which she thinks was literal, and that she thinks Netanyahu met him on the runway.
 
 Transcript Snippet: I think BB Netanyahu met him met met him on the runway like you did you served us well
 
@@ -1971,11 +1971,11 @@ Investigative Direction: Check corporate records of The Free Press ownership and
 
 ---
 
-**C-9812** Host Says Ashley Rinzberg Lives in Tel Aviv
+**C-9812** Host Says Ashley Rindsberg Lives in Tel Aviv
 
 Claim Timestamp: 00:31:33
 
-Claim: The host says Free Press writer Ashley Rinzberg, who sent her the email, lives in Tel Aviv.
+Claim: The host says Free Press writer Ashley Rindsberg, who sent her the email, lives in Tel Aviv.
 
 Transcript Snippet: Are you shocked if I tell you that Ashley Rinsberg, he happens to live in Tel Aviv?
 
@@ -1983,7 +1983,7 @@ Anchored Artifacts: A-1459.1
 Mentions: N-278
 Related Nodes: N-10280
 Tags: relevance:context
-Investigative Direction: Verify Rinzberg's residence from his public bios and bylines.
+Investigative Direction: Verify Rindsberg's residence from his public bios and bylines.
 
 ---
 
@@ -2014,7 +2014,7 @@ Anchored Artifacts:
 Mentions: N-82, N-279, N-3
 Related Nodes: N-10270
 Supports: C-6665
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Read the Delaware complaint for references to Dillon and the named defendants.
 
 ---
@@ -2147,7 +2147,7 @@ Investigative Direction: Ask the host to specify whom she means by contacts who 
 
 Claim Timestamp: 00:43:20
 
-Claim: A viewer comment read by the host says she lost the cringe challenge, and the host responds asking whether she did not like Sweet Home Jerusalem.
+Claim: A viewer comment the host reads says the viewer lost the cringe challenge, and the host responds asking whether they did not like Sweet Home Jerusalem.
 
 Transcript Snippet: L of the Wanger writes, I lost the cringe challenge. What? You didn't like sweet home Jerusalem? No. Weird.
 

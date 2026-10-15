@@ -1,0 +1,773 @@
+[
+ {
+  "claim": "C-6612",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6613",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Old conviction of a pastor's friend is background, not core to Kirk case.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6614",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Old conviction of a pastor's friend is background, not core to Kirk case.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6615",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Old conviction of a pastor's friend is background, not core to Kirk case.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6616",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Old conviction of a pastor's friend is background, not core to Kirk case.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6617",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Contradiction with host's 1990 probation reading is drawn from earlier claim C-6608, not in this window; Camino quote 'didn't have a record' is accurate.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6618",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Old conviction of a pastor's friend is background, not core to Kirk case.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6619",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6620",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Pompo Beach' is host's/transcript spelling of Pompano Beach; not a person.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6621",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6622",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Unresolved name: Calvary Chapel 'Carrie'; not a person.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6623",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6624",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6625",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host says 'Anthony uh Eglacius'; sources name the Post Falls offender Anthony Iglesias.",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Anthony Eglacius",
+     "right": "Anthony Iglesias",
+     "source": "https://www.ocweekly.com/?p=227276"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6626",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6627",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'Doug Deandria' is Douglas Phillip DeAndrea, former Calvary Chapel pastor, Virginia.",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Doug Deandria",
+     "right": "Doug DeAndrea",
+     "source": "https://roysreport.com/former-calvary-chapel-pastor-virginia-pleads-guilty-child-sex-abuse/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6628",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6629",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcribed 'Jeffrey Keon Ziz'; reports name the pastor Jeffrey Zizz (Calvary Chapel of North Thurston, Lacey, Washington).",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Jeffrey Keon Ziz",
+     "right": "Jeffrey Zizz",
+     "source": "https://roysreport.com/former-calvary-chapel-pastor-charged-with-murder-of-82-year-old-grandmother/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6630",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim adds 'at sentencing'; host says only 'when he sat down, he said'. Cassie has no node id.",
+  "fix": {
+   "claim": "The host says a man who shot up the Trump Miami Doral, killing no one, said the feds are running a cartel operation and that he had been one of Diddy's and Cassie's sex slaves, and that Cassie later verified on the stand that she knew who he was and that he had been invited to the parties."
+  }
+ },
+ {
+  "claim": "C-6631",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6632",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6633",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6634",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Unresolved name: 'Ken Kenzie Kenny' (Kenny); no source found.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6635",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6636",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6637",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6638",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6639",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6640",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6641",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6642",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6643",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6644",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6645",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6646",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Ukraine remark at ~32:20; claim ts 31:08 is ~72s before, within tolerance.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6647",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6648",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6649",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6650",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6651",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6652",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6653",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6654",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6655",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6656",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6657",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'so-called friend' is added; host's dramatization says 'I'm your friend and I just want to help you'.",
+  "fix": {
+   "claim": "The host presents Megyn Kelly as someone told it was her career or Tucker Carlson, with a voice claiming to be her friend urging her to distance herself from Carlson, and says Kelly said no."
+  }
+ },
+ {
+  "claim": "C-6658",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6659",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6660",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6661",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6662",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Old conviction of a pastor's friend is background, not core to Kirk case.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6663",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6664",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'backing your life partner as she files a lawsuit ... Elijah Schaefer's lawsuit is about a joke'; suit is filed against Schaefer, claim reads as his suit.",
+  "fix": {
+   "claim": "The host says the lawsuit against Elijah Schaefer, which she says Kash Patel is backing for his girlfriend, is about a joke, and that the lawsuit itself talks about Schaefer's anti-Israel rhetoric."
+  }
+ },
+ {
+  "claim": "C-6665",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim refers to 'the president of France' (Emmanuel Macron, N-381) but Mentions omits him.",
+  "fix": {
+   "mentions": [
+    "N-279",
+    "N-82",
+    "N-381",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-6666",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6667",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6668",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Henry Kissinger named but has no node in episode list.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6669",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6670",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6671",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

@@ -787,7 +787,7 @@ Investigative Direction: Obtain the full source clip to verify Kirk's exact phra
 
 Claim Timestamp: 00:07:33–00:08:21
 
-Claim: When Megyn Kelly directly asked FBI Director Kash Patel whether the French were involved in Charlie Kirk's assassination, Patel did not address the allegation and instead spoke in general terms about investigating threats to any American.
+Claim: When Megyn Kelly asked FBI Director Kash Patel whether the French were involved in Charlie Kirk's assassination, Patel, in a clip the host plays, spoke in general terms about investigating threats to any American; the host says he skipped over the question of French involvement.
 
 Anchored Artifacts: A-1514.1
 Mentions: N-46, N-69, N-1
@@ -829,7 +829,7 @@ Investigative Direction: Locate the appellate decision and confirm the precise r
 
 Claim Timestamp: 00:17:26
 
-Claim: The host states that Pierre Falcone reappeared in Scottsdale, Arizona, the same location as Turning Point USA.
+Claim: The host says that, according to her sources in France, Pierre Falcone disappeared from France after winning his appeal and reappeared in Scottsdale, Arizona, where she says Turning Point USA is based.
 
 Anchored Artifacts: A-1515.2 (host read-aloud of source)
 Mentions: N-314
@@ -848,7 +848,7 @@ Claim Timestamp: 00:14:36–00:15:38
 Claim: According to source material read aloud, Arcadi Gaydamak was convicted (without appearing in France) of arms trafficking, tax fraud, bribery, and money laundering.
 
 Anchored Artifacts: A-1515.1
-Mentions: N-314, N-315
+Mentions: N-315
 
 Investigative Direction: Locate the French court judgment against Gaydamak and confirm the conviction and date.
 
@@ -856,12 +856,12 @@ Investigative Direction: Locate the French court judgment against Gaydamak and c
 
 **C-1869** The Angolagate scandal involved France, Israel, Angola, Russia, Slovakia, and the United States
 
-Claim Timestamp: 00:15:38–00:17:26
+Claim Timestamp: 00:12:29
 
-Claim: According to a CorpWatch source read aloud by the host, the Angolagate scandal involved France, Israel, Angola, Russia, Slovakia, and the United States.
+Claim: The host says the scandal involving Pierre Falcone, Angolagate, involved Africa (Angola in particular), Israel, France and the United States, and that France, Russia and Slovakia were involved in the arms network; she adds that it also touched the United States before reading CorpWatch on the Bush angle.
 
 Anchored Artifacts: A-1515.2
-Mentions: N-314, N-315, N-316, N-317
+Mentions: N-314
 
 Investigative Direction: Cross-reference the March 25 Global Witness report "All the President's Men" with CorpWatch and the original French judicial findings.
 
@@ -887,7 +887,7 @@ Claim Timestamp: 00:15:38–00:17:26
 Claim: According to a CorpWatch source, Jean-Christophe Mitterrand (son of former French president François Mitterrand) was implicated in Angolagate as having provided access to the Angolan government.
 
 Anchored Artifacts: A-1515.2
-Mentions: N-314, N-316, N-317
+Mentions: N-316, N-317
 
 Investigative Direction: Verify Jean-Christophe Mitterrand's role via French court records.
 
@@ -951,7 +951,7 @@ Investigative Direction: Trace the named LLC through state business filings, ban
 
 Claim Timestamp: 00:37:36–00:38:23
 
-Claim: A viewer comment asserts that a DOJ audit was "suddenly no longer happening."
+Claim: A viewer comment the host reads asks "Why is the DOJ audit suddenly no longer happening?"
 
 Anchored Artifacts: A-1518.6
 Related Nodes: N-10321
@@ -978,7 +978,7 @@ Investigative Direction: Verify against publicly available event listings and ep
 
 Claim Timestamp: 00:41:02–00:41:57
 
-Claim: A viewer comment references a Daily Mail story on the life insurance policy on Charlie Kirk's life; the host acknowledges the report.
+Claim: Responding to a viewer comment asking who took out the life insurance policy on Charlie and where the 1.5 million went, the host says she saw the Daily Mail broke the story about the life insurance policy that was taken out.
 
 Anchored Artifacts: A-1518.5
 Mentions: N-1
@@ -988,11 +988,11 @@ Investigative Direction: Locate the Daily Mail article and confirm policy detail
 
 ---
 
-**C-1879** Viewer Comments the Host Reads Say TPUSA-Affiliated Individuals Knew of Potential Danger Before the Assassination and Have Remained Silent
+**C-1879** Viewer Comments the Host Reads Question TPUSA's Silence and Response
 
 Claim Timestamp: 00:37:36–00:41:02
 
-Claim: Viewer comments the host reads (Jo Ann, Diana Sheen, CCXX) collectively assert that TPUSA personnel had foreknowledge or related suspicions prior to the assassination and have not publicly disclosed them.
+Claim: Viewer comments the host reads raise TPUSA's response: Jo Ann says "we hoped it would go away" was the first truthful-sounding statement from TPUSA, Diana Sheen asks whether TPUSA employees still have to stay silent if crime is involved, and CCXX asks who took out the life insurance policy on Charlie and where the 1.5 million went.
 
 Anchored Artifacts: A-1518.1, A-1518.3, A-1518.5
 Mentions:
@@ -1006,7 +1006,7 @@ Investigative Direction: Cross-reference against depositions, congressional test
 
 Claim Timestamp: 00:01:07
 
-Claim: In the May 2025 clip, Charlie Kirk says Mossad is mentioned in the JFK files largely because it is a very good intelligence operation, and that the mentions do not show it was tied to or involved in the assassination.
+Claim: In the May 2025 clip, Charlie Kirk says one of the reasons Mossad is mentioned so much in the JFK files is that it is a very good intelligence operation, and that it was not mentioned as if they were tied to or knew about or were involved in the assassination.
 
 Transcript Snippet: It was not mentioned as if they were tied or that they knew about it or that they were involved.
 
@@ -1331,7 +1331,7 @@ Anchored Artifacts: A-1515.2
 Mentions: N-314
 Related Nodes: N-10317
 Supports: C-1867
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the French sources; check French press on Falcone's departure and any Interpol or residency records.
 
 ---
@@ -1455,7 +1455,7 @@ Claim: In the Tim Pool clip, Milo Yiannopoulos says Steve Bannon said Jeffrey Ep
 Transcript Snippet: said who would know better as it turns out. He said that uh Epstein was the key that uh picks the lock, right?
 
 Anchored Artifacts: A-3210.1
-Mentions: N-222, N-393, N-9, N-917, N-269
+Mentions: N-222, N-393, N-9, N-269
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Locate the Bannon remark Milo cites and the Tim Pool episode; verify the 'consulted for Epstein' interjection separately.
@@ -1471,7 +1471,7 @@ Claim: In the Tim Pool clip, Milo says there is not one person who voted for Don
 Transcript Snippet: there isn't one person who voted for Donald Trump who did not want and did not expect the Epstein files to be released immediately.
 
 Anchored Artifacts: A-3210.1
-Mentions: N-222, N-9, N-917
+Mentions: N-222, N-9
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Compare with polling on Trump voters' expectations about the Epstein files.
@@ -1487,7 +1487,7 @@ Claim: In the Tim Pool clip, after a speaker describes Trump saying there are no
 Transcript Snippet: That is the moment Trumpism died. I agree. >> And don't we need a reckoning?
 
 Anchored Artifacts: A-3210.1
-Mentions: N-222, N-9, N-917
+Mentions: N-9
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Identify which panelist says this on the Tim Pool episode and the Trump remark being referenced.
@@ -1514,7 +1514,7 @@ Investigative Direction: Confirm Milo's statement in the full Tim Pool episode; 
 
 Claim Timestamp: 00:30:18
 
-Claim: In the One Shot TV video, Jesse Kege says there are about a thousand .30-06 loads and nobody knows what kind of ammunition was used, so he tests two common rounds.
+Claim: In the One Shot TV video, Jesse Kege says there are about a thousand .30-06 loads and nobody knows what kind of ammunition was used, so he tests two different rounds.
 
 Transcript Snippet: we don't even know what kind of ammo was used. It could literally be anything.
 
@@ -1611,7 +1611,7 @@ Investigative Direction: Obtain the autopsy findings and official wound descript
 
 Claim Timestamp: 00:34:33
 
-Claim: The host says people close to Charlie are aware of things and are not honest about the anxiety Charlie had the night before he died.
+Claim: The host says she believes people close to Charlie are aware of things and are not honest about the anxiety Charlie had the night before he died.
 
 Transcript Snippet: they're not honest about the anxiety that Charlie had the night before he died
 
@@ -1705,7 +1705,7 @@ Investigative Direction: Locate the Qatari interview and confirm who said it and
 
 Claim Timestamp: 00:39:37
 
-Claim: The host says a lot of the leaks she has received have come from TPUSA employees, and that this shows there are good people in the organization.
+Claim: The host says a lot of the leaks she has received have come from TPUSA employees, and that we should not discount that there are good people in the organization.
 
 Transcript Snippet: obviously a lot of leaks that we've received have come from TPUSA employees.
 

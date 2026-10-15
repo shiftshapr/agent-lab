@@ -54,7 +54,7 @@ Anyways, what we can do, however, and what we're starting to formulate now are j
 
 [04:13]
 
-The surgeon never confirmed or even suggested that Charlie was shot with a.30-06 or that Charlie had a steel neck that stopped that bullet. Rather, he suggested throughout the course of a conversation that maybe a frangible bullet was used. The lone confirmed eyewitness that we have that is confirmed to the alleged shooter on Lozi Center rooftop before the sound goes off, the sound of a shot rings out, has not been contacted by the lawyers or the investigators on either side of this trial, depending trial. We are now in the phase where investigators are supposed to go out and be collecting more evidence pending the May probable cause hearing. He still has not been contacted. Why is that crucial? Because this individual is an instructor at a gun range. He claims the weapon that he saw looked more like a.223.
+The surgeon never confirmed or even suggested that Charlie was shot with a.30-06 or that Charlie had a steel neck that stopped that bullet. Rather, he suggested throughout the course of a conversation that maybe a frangible bullet was used. The lone confirmed eyewitness that we have that is confirmed to the alleged shooter on Losee Center rooftop before the sound goes off, the sound of a shot rings out, has not been contacted by the lawyers or the investigators on either side of this trial, depending trial. We are now in the phase where investigators are supposed to go out and be collecting more evidence pending the May probable cause hearing. He still has not been contacted. Why is that crucial? Because this individual is an instructor at a gun range. He claims the weapon that he saw looked more like a.223.
 
 [05:09]
 

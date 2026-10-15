@@ -641,7 +641,7 @@ Investigative Direction: Compile catalog of identified TPUSA staff statements th
 
 Claim Timestamp: 00:06:28
 
-Claim: Erika Kirk published a video on Instagram showing her at Charlie Kirk's casket saying "I love you, I love you, I love you" with another person responding "God bless you."
+Claim: The host says Erika Kirk had someone record her over Charlie Kirk's casket and published the video on Instagram; in the clip the host plays, a voice says "I love you, I love you, I love you" and another "I love you, I love you, God bless you."
 
 Anchored Artifacts: A-1526.1
 Mentions: N-2, N-1
@@ -683,7 +683,7 @@ Claim Timestamp: 00:24:45
 Claim: Tucker Carlson stated on the Theo Von podcast that the claim of a disproportionately large number of foreign-registered cell phones at the Charlie Kirk event was "true."
 
 Anchored Artifacts: A-1528.2
-Mentions: N-2, N-22, N-1, N-148
+Mentions: N-1, N-22, N-148
 
 Investigative Direction: Seek cell tower records or ping data through legal process; identify any carrier records of foreign-registered IMSI devices near the venue.
 
@@ -706,7 +706,7 @@ Investigative Direction: Use archived X searches and Wayback Machine to recover 
 
 Claim Timestamp: 00:29:23
 
-Claim: Tucker Carlson stated he does not have confidence in the FBI or the men who run it, and noted that the FBI has publicly stated it possesses both a confession from the suspect (in his text to his boyfriend) and the murder weapon with his fingerprints.
+Claim: Tucker Carlson stated he does not have a ton of confidence in the FBI or the men who run it; later, asking why the FBI will not explain, he said "You've told the world that you have both a confession from him in his text to his boyfriend and the murder weapon with his fingerprints on it. I think you got a pretty solid case."
 
 Anchored Artifacts: A-1528.4, A-1528.5
 Mentions: N-22
@@ -750,7 +750,7 @@ Claim Timestamp: 00:40:00
 Claim: The host says her team has a positive ID that the captain who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025 is Adam Nef of the U.S. Army's 10th Mountain Division, which she says Harry confirmed from pictures she sent.
 
 Anchored Artifacts: A-1532.2
-Mentions: N-321
+Mentions: N-321, N-363
 
 Investigative Direction: Verify Adam Nef's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters.
 
@@ -771,7 +771,7 @@ Investigative Direction: Cross-reference with public DoD facility records, news 
 
 **C-1909** Candlewood Suites security footage preservation requested for September 8, 2025
 
-Claim Timestamp: 00:59:22
+Claim Timestamp: 01:00:25
 
 Claim: The host, echoing a comment from "servant of Yahweh," publicly requests preservation of security footage from the Candlewood Suites hotel near Fort Huachuca on September 8, 2025, depicting an individual described as a young woman and another as a "special ops guy" leaving together in a green truck.
 
@@ -798,7 +798,7 @@ Investigative Direction: Cross-reference with publicly available Pam Bondi trave
 
 **C-1911** Host concurs with critiques that Erika's moral outrage is manufactured for elite audiences and that criticism of Jews is not inherently antisemitic
 
-Claim Timestamp: 00:00:00–00:00:01
+Claim Timestamp: 00:55:39
 
 Claim: The host explicitly agrees with Merryill Gerston Meyer's thesis that Erika Kirk's moral outrage is manufactured for an elite target audience rather than grassroots supporters, and with Laughing Cats Music World's thesis that criticism of corrupt Jewish actors is distinct from antisemitism.
 
@@ -946,7 +946,7 @@ Claim: The host says Turning Point USA made about $40 million at Mar-a-Lago two 
 Transcript Snippet: you know they made 40 40 million like two nights ago at Mara Lago
 
 Anchored Artifacts: 
-Mentions: N-2
+Mentions: 
 Related Nodes: N-10000, N-11097
 Tags: relevance:core
 Investigative Direction: Obtain event ticketing, pledge records or TPUSA statements on the Mar-a-Lago event proceeds.
@@ -1027,7 +1027,7 @@ Claim: The host says Charlie Kirk built the company without going to college and
 Transcript Snippet: I didn't even go to college and I've been doing this for over a decade as Charlie Kirk did.
 
 Anchored Artifacts: 
-Mentions: N-1, N-2
+Mentions: N-1
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Confirm Charlie Kirk's education history and TPUSA founding date from biographies and filings.
@@ -1055,7 +1055,7 @@ Investigative Direction: Obtain the list of 20 lies and test each against primar
 
 Claim Timestamp: 00:20:59
 
-Claim: The host says Tim Pool went on the airwaves telling the host and her audience they are evil for pursuing their questions.
+Claim: The host says she will not accept Tim Pool jumping on the airwaves with what she calls "big estrogen energy" telling her and her audience they are evil.
 
 Transcript Snippet: Tim Pool jumping on the airwaves with big estrogen energy telling us we're evil
 
@@ -1201,7 +1201,7 @@ Investigative Direction: Review prosecution filings for any evidence of the susp
 
 Claim Timestamp: 00:30:08
 
-Claim: In the Theo Von clip Tucker Carlson says he likes the host a lot and does not think she is bad, though he does not agree with some of the rabbit hole she goes down.
+Claim: In the Theo Von clip Tucker Carlson says he likes the host a lot and does not think she is bad, but asks why critics do not call her and offer a more plausible explanation, even if they stipulate she is bad.
 
 Transcript Snippet: I mean, I like her a lot. I don't think she's bad, but I love her actually
 
@@ -1516,7 +1516,7 @@ Investigative Direction: Pull flight-tracking history for El Paso departures on 
 
 Claim Timestamp: 00:44:18
 
-Claim: The host says the plane's movements mean the timeline the witness gave is exactly right, with the meeting early in the morning at about 7:37.
+Claim: The host says the plane's movements mean the timeline the witness gave is exactly right, with the meeting early in the morning at what she thinks was 7:37.
 
 Transcript Snippet: the timeline that he gave us is exactly right.
 
@@ -1731,7 +1731,7 @@ Investigative Direction: Ask the FBI whether it has contacted the host about her
 
 Claim Timestamp: 00:56:56
 
-Claim: The host says people around Turning Point USA are making jokes that there is something not right about the Egyptian planes rather than showing concern.
+Claim: The host says that, instead of being concerned about the Egyptian planes a podcaster found, they (the Turning Point USA side she is criticizing) are just making jokes that there is something not right with that.
 
 Transcript Snippet: They're just making jokes that that there's something not right with that.
 

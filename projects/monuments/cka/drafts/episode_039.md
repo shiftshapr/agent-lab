@@ -645,9 +645,9 @@ Lila Rose (transcribed Lila Rose); said to have disputed the host's tour-plannin
 
 ---
 
-**N-281** Bob Evan
+**N-281** Bob Evnen
 
-Bob Evan (Nebraska Secretary of State, Bob Evnen); met international professionals off the record per the host.
+Bob Evnen (Nebraska Secretary of State, Bob Evnen); met international professionals off the record per the host.
 
 *Related: C-10978*
 
@@ -845,7 +845,7 @@ Why Rei sponsorship contracts; reused for the fall-tour sponsor claim.
 
 ---
 
-**N-11008** Satis
+**N-11008** Satys
 
 Satis; reused for the shareholder and hangar items.
 
@@ -909,7 +909,7 @@ The April 13 and 14, 2018 US and French strikes on Syria that the host ties to C
 
 Claim Timestamp: 00:06:34
 
-Claim: Robert Richards IV was convicted in 2009 of raping his three-year-old daughter, seven years after the child reported the abuse.
+Claim: Per a Vanity Fair article the host reads, Robert Richards IV was convicted in 2009 of raping his three-year-old daughter, seven years after the child reported the abuse.
 
 Anchored Artifacts: A-1480.1
 Mentions: N-294
@@ -924,7 +924,7 @@ Investigative Direction: Obtain certified court records of the 2009 Delaware con
 
 Claim Timestamp: 00:07:45
 
-Claim: Per a Vanity Fair article the host reads, Judge Jan Jordan ruled that Robert Richards IV would benefit from treatment instead of prison time, citing his height and other factors.
+Claim: Per a Vanity Fair article the host reads, Judge Jan Jordan ruled that Robert Richards IV would benefit from treatment instead of prison time, after the article says the judge let him off arguing the 6'4 Richards would not fare well in prison.
 
 Anchored Artifacts: A-1480.1
 Mentions: N-294, N-302
@@ -939,7 +939,7 @@ Investigative Direction: Obtain the sentencing order or contemporaneous news cov
 
 Claim Timestamp: 00:08:36
 
-Claim: Robert H. Richards III, father of Robert Richards IV, is identified in the Vanity Fair article as a retired partner at the Richards Layton & Finger law firm.
+Claim: Per a News Journal description the host reads, Robert H. Richards III, father of Robert Richards IV, is a retired partner at the Richards Layton & Finger law firm.
 
 Anchored Artifacts: A-1480.1
 Mentions: N-294, N-295
@@ -1023,7 +1023,7 @@ Investigative Direction: Obtain screenshot of original exchange if preserved.
 
 ---
 
-**C-1811** Viewer theory that McRonone lawsuit was intended to pre-empt Candace's assassination
+**C-1811** Viewer Theory That Macron Lawsuit Was Intended to Pre-empt Candace's Assassination
 
 Claim Timestamp: 00:02:41
 
@@ -1044,7 +1044,7 @@ Claim Timestamp: 00:54:38–00:59:00
 Claim: Multiple viewer comments read on air express sustained support for host and reference Charlie Kirk; one comment references "Dupant" name-drop as emotionally significant.
 
 Anchored Artifacts: A-1484.1
-Mentions: N-1, N-2
+Mentions: N-1
 
 
 Investigative Direction: No investigative direction; capture as audience signal.
@@ -1068,9 +1068,9 @@ Investigative Direction: Confirm live Amazon listing and stock status.
 
 **C-1814** Six TPUSA employees reported rumor that Justin Streiff made immediate call to donor prospect after assassination
 
-Claim Timestamp: 00:28:17
+Claim Timestamp: 00:27:25
 
-Claim: Six people at Turning Point USA reported that Justin Streiff placed an immediate phone call to a donor prospect on the day of Charlie Kirk's assassination, the donor being described as having a billion-dollar IPO-related piece committed to TPUSA.
+Claim: The host says, allegedly, that six people at Turning Point USA told her a rumor that Justin Streiff placed an immediate call to a donor prospect on the day of Charlie Kirk's assassination; she says these sources told her the donor had a piece of a billion-dollar company on the hook for TPUSA, with an anticipated IPO.
 
 Anchored Artifacts: A-1486.1
 Mentions: N-15, N-1
@@ -1098,9 +1098,9 @@ Investigative Direction: Obtain the underlying communications with the named TPU
 
 **C-1816** TPUSA sources identified donor prospect as Pierre Dupont
 
-Claim Timestamp: 00:32:01
+Claim Timestamp: 00:30:35
 
-Claim: After host mentioned "Pierre Dupont" on Episode 38, the same TPUSA sources confirmed that the donor prospect was Pierre Dupont.
+Claim: The host says that after she presented the DuPont family material the previous day, the same TPUSA sources messaged her "Oh, you figured it out. It's Pierre Dupont"; she says she would like a clean answer as to whether the donor is Mr. Pierre Dupont.
 
 Anchored Artifacts: A-1486.3
 Mentions:
@@ -1115,10 +1115,10 @@ Investigative Direction: Verify Pierre Dupont's existence and donor relationship
 
 Claim Timestamp: 00:47:01
 
-Claim: The host says, relaying what she learned from one of her sleuths (recorded as a TPUSA source who presented proof), that Tyler Bowyer was telling people TPUSA plans to roll out a program to build houses for first-time home buyers, leveraging TPUSA's position with young Christians as an audience.
+Claim: The host says, relaying what one of her sleuths told her, that Tyler Bowyer had apparently begun telling people TPUSA plans to roll out a program to build houses for first-time home buyers, leveraging TPUSA's position with young Christians as an audience; she says the person presented some proof.
 
 Anchored Artifacts: A-1486.4
-Mentions: N-11, N-299
+Mentions: N-11
 
 Related Nodes: N-10301
 
@@ -1264,7 +1264,7 @@ Investigative Direction: Check the Becoming Brigitte season 2 episode where Dupo
 
 Claim Timestamp: 00:07:45
 
-Claim: The host reads from the Vanity Fair article that critics have noted such treatment is usually offered only to drug addicts or those in possession of child pornography, not to convicted rapists.
+Claim: The host reads from the Vanity Fair article that critics have noted the treatment Judge Jan Jordan ordered for Robert Richards IV is usually offered only to drug addicts or those in possession of child pornography, not to convicted rapists.
 
 Transcript Snippet: Critics have since noted that such treatment is usually offered only to drug addicts or those in possession of child pornography, not convicted rapists.
 
@@ -1280,7 +1280,7 @@ Investigative Direction: Obtain the Vanity Fair article and the Delaware sentenc
 
 Claim Timestamp: 00:07:45
 
-Claim: The host reads a News Journal description that Robert Richards IV is unemployed, supported by a trust fund, and owns a 5,800 square foot mansion in Greenville bought for $1.8 million in 2005, and that his ex-wife sued him for damages related to the abuse of their daughter.
+Claim: The host reads a News Journal description that Robert Richards IV is unemployed, supported by a trust fund, and owns a 5,800 square foot mansion in Greenville bought for $1.8 million in 2005; earlier she reads that his ex-wife sued him for damages related to the abuse of their daughter.
 
 Transcript Snippet: Richards, who is unemployed and supported by a trust fund, owns a 5800 ft mansion in Greenville that he bought for $1.8 million in 2005.
 
@@ -1328,7 +1328,7 @@ Investigative Direction: Check the Delaware court docket for counsel of record i
 
 Claim Timestamp: 00:08:36
 
-Claim: The host says that the founding partner of the firm filing her paperwork, since retired, is a DuPont and that the firm therefore traces to the DuPont family.
+Claim: The host says that the founding partner of the firm filing her paperwork, since retired, is DuPont, saying "It's the DuPont family."
 
 Transcript Snippet: the founding partner of that firm who's since retired is DuPont. It's the DuPont family.
 
@@ -1400,7 +1400,7 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: 
 Supports: C-1781
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Ask the host which source or document revealed the alleged plot and whether it has been reported to law enforcement.
 
 ---
@@ -1465,7 +1465,7 @@ Transcript Snippet: which she was getting paid through. It could all be above bo
 Anchored Artifacts: 
 Mentions: N-188, N-3
 Related Nodes: N-10304
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Search Delaware corporate records for Cloverstone Ventures, its registered agent and members, and match payments against TPUSA filings.
 
 ---
@@ -1593,7 +1593,7 @@ Claim: The host says she asked Tucker Carlson what inspired his July 11 speech a
 Transcript Snippet: I asked Tucker what made you say that and he said I had no plan to say it just came out of my mouth
 
 Anchored Artifacts: 
-Mentions: N-22, N-3, N-1
+Mentions: N-22, N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Ask Carlson to confirm; compare with the speech video and any prepared remarks.
@@ -1657,7 +1657,7 @@ Claim Timestamp: 00:17:14
 
 Claim: The host says a private off-record meeting preceded the Nebraska Egypt trade trip, that international professionals attended per media, that she asks who met with the Nebraska Secretary of State, and that citizens who requested information were told nothing public could be shared.
 
-Transcript Snippet: who were these professionals that met with Secretary of State Bob Evan? Why is this meeting somehow off record?
+Transcript Snippet: who were these professionals that met with Secretary of State Bob Evnen? Why is this meeting somehow off record?
 
 Anchored Artifacts: A-3114.1
 Mentions: N-281
@@ -1738,7 +1738,7 @@ Investigative Direction: Compare tour announcement dates for past TPUSA tours wi
 
 Claim Timestamp: 00:18:49
 
-Claim: The host says that Lila Rose and Allie Beth Stuckey, whom she says have never headlined their tour, publicly said her claim about how tours are planned was not true.
+Claim: The host says that Lila Rose and Allie Beth Stuckey, whom she says have never headlined their tour, suddenly said her claim about how tours are planned was not true.
 
 Transcript Snippet: I got like Lila Rose and Ally Stucky who have never headlined their tour suddenly saying that's not true.
 
@@ -1990,7 +1990,7 @@ Claim: The host says the Operation Bright Star Cairo joint operation formally en
 Transcript Snippet: And that's also happens to be the same day that that Operation Bright Star, that Cairo joint operation formally ends.
 
 Anchored Artifacts: A-3114.1
-Mentions: 
+Mentions: N-1
 Related Nodes: N-10291
 Supports: C-1787
 Tags: relevance:core
@@ -2030,11 +2030,11 @@ Investigative Direction: Review the host's tip box submissions and corroborate w
 
 ---
 
-**C-11001** Host Asks Viewers to Help Identify the Donor Streiff Called
+**C-11001** Host Asked Everybody to Help Identify the Donor Streiff Allegedly Called
 
 Claim Timestamp: 00:27:14
 
-Claim: The host says she asked her audience and sources to try to figure out which donor Justin Streiff allegedly called immediately after the shooting.
+Claim: The host says that when she heard the rumor of the call she said she would like to know more and asked everybody to try to figure out which donor Justin Streiff allegedly called immediately after the shooting.
 
 Transcript Snippet: I'd like to know more about that. Can everybody try to figure out what donor that was?
 
@@ -2071,7 +2071,7 @@ Claim: The host says the billion-dollar arrangement was a huge secret known to o
 Transcript Snippet: just a handful of people were allowed to even know about this that this was happening.
 
 Anchored Artifacts: 
-Mentions: N-1
+Mentions: 
 Related Nodes: N-10298, N-10300
 Tags: relevance:core
 Investigative Direction: Interview donations staff and the host's sources about who knew of the arrangement.
@@ -2491,7 +2491,7 @@ Transcript Snippet: I voted for my taxpayer funds to go from the CIA towards the
 Anchored Artifacts: A-1484.1
 Mentions: N-3
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Likely a viewer joke on a Candace Intelligence Agency; the transcript reads Canada's, so check the live chat.
 
 ---

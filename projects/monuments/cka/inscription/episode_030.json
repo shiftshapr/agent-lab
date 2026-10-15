@@ -1703,7 +1703,7 @@
       "ref": "N-229",
       "name": "Allie Beth Stuckey",
       "type": "person",
-      "description": "Transcribed Ali Stucky; mentioned among critics who tried to debunk the host.",
+      "description": "Transcribed Allie Beth Stuckey; mentioned among critics who tried to debunk the host.",
       "related_artifacts": [],
       "related_claims": [
         "C-9719"
@@ -1868,7 +1868,7 @@
       "@id": "C-1667",
       "ref": "C-1667",
       "label": "Ben Shapiro told Megyn Kelly's tour audience Candace accused Erica Kirk of being behind Charlie's murder",
-      "claim": "During an appearance on Megyn Kelly's tour, Ben Shapiro asserted that Candace Owens had accused Erica Kirk of being behind the murder of Charlie Kirk.",
+      "claim": "The host says that, during an appearance on Megyn Kelly's tour, Ben Shapiro asserted that Candace Owens had accused Erica Kirk of being behind the murder of Charlie Kirk.",
       "anchored_artifacts": [
         "A-1379.1"
       ],
@@ -1895,7 +1895,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:05:38",
+      "claim_timestamp": "00:04:55",
       "investigative_direction": "Obtain the full tour Q&A recording to verify Kelly's exact wording and any follow-up.",
       "mentions_person_refs": [
         "N-2",
@@ -1979,7 +1979,8 @@
       "mentions_person_refs": [
         "N-7",
         "N-248",
-        "N-1"
+        "N-1",
+        "N-210"
       ]
     },
     {
@@ -2081,7 +2082,7 @@
       "@id": "C-1678",
       "ref": "C-1678",
       "label": "Hen Mazig X post on September 14, 2025 described female Mossad agents in Israeli intelligence operations",
-      "claim": "A September 14, 2025 X post by Hen Mazig described the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.",
+      "claim": "Per the lawsuit the host reads, a September 14, 2025 X post by Hen Mazig described the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.",
       "anchored_artifacts": [
         "A-1385.2"
       ],
@@ -2098,7 +2099,7 @@
       "@id": "C-1679",
       "ref": "C-1679",
       "label": "Elijah Schaefer posted a photo of Alexis Wilkins and Kash Patel in response to the Hen Mazig X post",
-      "claim": "Elijah Schaefer responded to the Hen Mazig X post by posting a photograph of Alexis Wilkins and Kash Patel.",
+      "claim": "Per the lawsuit the host reads, Elijah Schaefer responded to the Hen Mazig X post by posting a photograph of Alexis Wilkins and Kash Patel.",
       "anchored_artifacts": [
         "A-1385.3"
       ],
@@ -2247,6 +2248,7 @@
       "mentions_person_refs": [
         "N-46",
         "N-97",
+        "N-3",
         "N-2",
         "N-1"
       ]
@@ -2289,15 +2291,14 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:06:40",
       "investigative_direction": "Obtain the full Dave Rubin segment and its date to confirm the wording.",
       "transcript_snippet": "We were great friends for a long time. She has been to this house for dinner.",
       "mentions_person_refs": [
         "N-32",
-        "N-3",
-        "N-97"
+        "N-3"
       ]
     },
     {
@@ -2311,7 +2312,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:07:28",
       "investigative_direction": "Corroborate with Rubin or third parties who attended; low-stakes and confirmable by either party.",
@@ -2340,8 +2341,7 @@
       "transcript_snippet": "She did not invite him to have a debate. She invited him to come on her tour and to introduce, you know, to to have him in front of her audience",
       "mentions_person_refs": [
         "N-46",
-        "N-97",
-        "N-32"
+        "N-97"
       ]
     },
     {
@@ -2349,7 +2349,7 @@
       "@id": "C-9705",
       "ref": "C-9705",
       "label": "Host Says Kirk Felt Peer Pressure in the Weeks Before His Death and Zionists Called It a Lie",
-      "claim": "The host says that after Charlie Kirk died only she, Tucker Carlson and Megyn Kelly said something was going on, that Kirk felt a lot of peer pressure in the weeks before his death, and that Zionists claimed this was all a lie.",
+      "claim": "The host says that after Charlie Kirk died it was basically only she, Tucker Carlson and Megyn Kelly saying something was going on, that Kirk felt a lot of peer pressure in the weeks before his death, and that Zionists claimed this was all a lie.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10047"
@@ -3043,7 +3043,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:29:16",
       "investigative_direction": "Receive tips sent to the address.",
@@ -3311,7 +3311,7 @@
         "N-10245"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:36:39",
       "investigative_direction": "Check public reporting on Patel's marital status and the start of the relationship.",
@@ -3481,8 +3481,7 @@
       "investigative_direction": "Check school leadership records for Rob McCoy and the school's actual name and type.",
       "transcript_snippet": "Rob McCoy ran that school. He ran Little Oaks. It's like a boarding school.",
       "mentions_person_refs": [
-        "N-17",
-        "N-192"
+        "N-17"
       ]
     },
     {
@@ -3503,10 +3502,7 @@
       ],
       "claim_timestamp": "00:45:59",
       "investigative_direction": "Locate the news article and county or corporate records of the purchase.",
-      "transcript_snippet": "Outright purchased uh the Christian Academy in 2009, I believe it was.",
-      "mentions_person_refs": [
-        "N-17"
-      ]
+      "transcript_snippet": "Outright purchased uh the Christian Academy in 2009, I believe it was."
     },
     {
       "@type": "Claim",
@@ -3589,7 +3585,7 @@
         "N-10004"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:49:13",
       "investigative_direction": "Retrieve the original tweet and Kanye's follow-up explanations to settle the exact wording.",
@@ -3616,7 +3612,7 @@
         "N-11121"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:49:13",
       "investigative_direction": "Review Kanye's contemporaneous statements about who he was referring to.",
@@ -3639,7 +3635,7 @@
         "N-10004"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:49:13",
       "investigative_direction": "Retrieve the archived tweet text.",

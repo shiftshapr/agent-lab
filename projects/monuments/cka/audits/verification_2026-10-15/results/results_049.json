@@ -1,0 +1,797 @@
+[
+ {
+  "claim": "C-12367",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12368",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12369",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12370",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim ends garbled ('or never acknowledged'); host asks why TP 'didn't acknowledge that this plane was familiar to them' and says nobody there clarifies she is on to something.",
+  "fix": {
+   "claim": "The host says that when influencers such as Josh Hammer and Alex Clark lie, she gets attacked while Turning Point stays silent, that nobody at Turning Point ever steps in to clarify she is telling the truth, and she asks why Turning Point did not acknowledge that the plane was familiar to them."
+  }
+ },
+ {
+  "claim": "C-12371",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12372",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12373",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12374",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12375",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12376",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12377",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says TP chose 'to stay mum when every influencer ... attacked me for even mentioning the planes'; claim says TP stayed silent about why planes were on the ground.",
+  "fix": {
+   "claim": "The host says the Egyptian planes were known to Turning Point USA, that everyone deserves to know why they were on the ground on the day of the assassination, and that Turning Point chose to stay mum while influencers attacked her for mentioning the planes."
+  }
+ },
+ {
+  "claim": "C-12378",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12379",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12380",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12381",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12382",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12383",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12384",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'check your phones, your pictures from that day... Check if you hotels, maybe gas station, maybe you work somewhere. Look at those lights.' No 'records'. Tip address garbled in transcript.",
+  "fix": {
+   "claim": "The host asks UVU students to check their phones and pictures from that day for the four rental cars, and to look at hotels, gas stations or anywhere they work for the plates, and to send anything to her tip address."
+  }
+ },
+ {
+  "claim": "C-12385",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12386",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Israeli legislation/censorship has no bearing on the assassination; host's aside.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12387",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12388",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12389",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Tax filing timing is background, same as sibling claims tagged context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12390",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12391",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12392",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12393",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12394",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Tax filing deadlines are background, not the assassination itself.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12395",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Filing history is background.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12396",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12397",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12398",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12399",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Narrator's finance analysis, tagged context for sibling claim 12400.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12400",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12401",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Audit details are background.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12402",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Audit timing is background.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12403",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says 'probably a low probability, but it is plausible'; claim drops 'probably'.",
+  "fix": {
+   "claim": "The host says it is possible, though probably a low probability, that the outside auditor was shown all documentation and gave a clean bill of health and that Turning Point then decided not to file, while the missed filing extension deadline is a fact."
+  }
+ },
+ {
+  "claim": "C-12404",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12405",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12406",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12407",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12408",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Reason: 'they knew I was the anomaly... the one to burn it to the ground... rather than to side with a lie', not 'to defend him'.",
+  "fix": {
+   "claim": "The host says the first thing her opponents did during her grief stage was to pretend that she and Charlie did not even have a relationship, because they knew she was the anomaly who would burn it to the ground rather than side with a lie."
+  }
+ },
+ {
+  "claim": "C-12409",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12410",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12411",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Speaker is an unnamed '>>' voice ('We talked about that off air'); 'producer' role is not stated.",
+  "fix": {
+   "claim": "An off-camera voice on the show says Flock is a company running a network of automated license plate readers dotted throughout pretty much every town in the United States."
+  }
+ },
+ {
+  "claim": "C-12412",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12413",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12414",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12415",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12416",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host's claim about Charlie being betrayed bears on the case; context rather than tangential.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-1735",
+  "episode": 34,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1736",
+  "episode": 34,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host reads a CNN article: 'twice in two weeks'; title says 'twice in the week before'. 'Lozi Center' is the Losee Center (UVU).",
+  "fix": {
+   "label": "A UVU Student Told CNN He Saw a Man on or Near the Lozi Center Roof Twice in Two Weeks",
+   "claim": "Per the CNN article the host shows, a UVU student told CNN he observed a tall, thin white male in dark clothing with a backpack on or near the Lozi Center roof twice, the last time at noon the Wednesday before the shooting.",
+   "names": [
+    {
+     "wrong": "Lozi Center",
+     "right": "Losee Center",
+     "source": "https://www.highereddive.com/news/kirk-shooter-appeared-to-fire-from-roof-of-university-Losee-student-services-buil/759937/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1737",
+  "episode": 34,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Brian Harpole (N-268) and Jeff Long (N-273) and Charlie Kirk; Mentions lists only N-1.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-268",
+    "N-273"
+   ]
+  }
+ },
+ {
+  "claim": "C-1738",
+  "episode": 34,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "N-67 Mark Herman not named in claim. Shot/'we both turn' spoken ~32:15-32:30; claim at 32:53 is ~27s later.",
+  "fix": {
+   "mentions": [
+    "N-161",
+    "N-192"
+   ],
+   "timestamp": "00:32:10"
+  }
+ },
+ {
+  "claim": "C-1739",
+  "episode": 34,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mark Herman (N-67) is not named in the claim; Mentions should be N-161 only.",
+  "fix": {
+   "mentions": [
+    "N-161"
+   ]
+  }
+ },
+ {
+  "claim": "C-1740",
+  "episode": 34,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Quote is from an audience questioner ('What can we do to push back?'); McCoy then answers 'That's a great question' and goes on about secularism.",
+  "fix": {
+   "label": "Audience Questioner at Rob McCoy's Jerusalem Event Says Carlson and Owens Are Hijacking the Christian Message",
+   "claim": "In a clip the host plays from a Jerusalem event she says was billed as a celebration of Charlie Kirk's life, an audience questioner says Tucker Carlson and Candace Owens are 'essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity'; Rob McCoy answers that it is a great question."
+  }
+ },
+ {
+  "claim": "C-1741",
+  "episode": 34,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1742",
+  "episode": 34,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: Aayol Yakobe (no source found).",
+  "fix": {}
+ },
+ {
+  "claim": "C-1743",
+  "episode": 34,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says 'Aaron Wexler... the girl at the Hampton's retreat'; X handle is Arynne Wexler. Claim also omits the quoted line.",
+  "fix": {
+   "claim": "The host reads a post she attributes to Arynne Wexler, whom she describes as the woman at the Hamptons retreat, saying 'Candace started her career by doxing teenagers. Old habits die hard.'",
+   "names": [
+    {
+     "wrong": "Aaron Wexler",
+     "right": "Arynne Wexler",
+     "source": "https://x.com/ArynneWexler/status/2033563508739100938"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1744",
+  "episode": 34,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'TWW Lewis' is T.W. Lewis (Scottsdale, T.W. Lewis Foundation).",
+  "fix": {
+   "claim": "The host says a flight from Scottsdale to Provo on the day of the assassination, departing at about 8:00 local and landing at about 10:00 local, was on a plane owned by Turning Point USA donor T.W. Lewis, whose foundation website she says lists TPUSA as a recipient.",
+   "names": [
+    {
+     "wrong": "TWW Lewis",
+     "right": "T.W. Lewis",
+     "source": "https://www.facebook.com/TWLewisFoundation/"
+    }
+   ]
+  }
+ }
+]

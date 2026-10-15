@@ -1502,6 +1502,104 @@
     [
       "\\bTony F\\. Graph\\b",
       "Tony F. Graf"
+    ],
+    [
+      "\\bLaura Trump\\b",
+      "Lara Trump",
+      [
+        28
+      ]
+    ],
+    [
+      "\\bShawnie Ray Kirkup\\b",
+      "Shauni Rae Kerkhoff"
+    ],
+    [
+      "\\bShawnie Kirkhoff\\b",
+      "Shauni Kerkhoff"
+    ],
+    [
+      "\\bKirkhoff\\b",
+      "Kerkhoff",
+      [
+        29
+      ]
+    ],
+    [
+      "\\bJay Warner Wallace\\b",
+      "J. Warner Wallace"
+    ],
+    [
+      "\\bAnthony Eglacius\\b",
+      "Anthony Iglesias"
+    ],
+    [
+      "\\bDoug Deandria\\b",
+      "Doug DeAndrea"
+    ],
+    [
+      "\\bJeffrey Keon Ziz\\b",
+      "Jeffrey Zizz"
+    ],
+    [
+      "\\bAli Stucky\\b",
+      "Allie Beth Stuckey"
+    ],
+    [
+      "\\bLozi Center\\b",
+      "Losee Center"
+    ],
+    [
+      "\\bAaron Wexler\\b",
+      "Arynne Wexler"
+    ],
+    [
+      "\\bTWW Lewis\\b",
+      "T.W. Lewis"
+    ],
+    [
+      "\\bShawn Bryan\\b",
+      "Shawn Ryan"
+    ],
+    [
+      "\\bSATIDS\\b",
+      "SATYS"
+    ],
+    [
+      "\\bJean Michelle Tro\\b",
+      "Jean-Michel Trogneux"
+    ],
+    [
+      "\\bAndrew Seifer\\b",
+      "Andrew Sypher"
+    ],
+    [
+      "\\bRinzberg\\b",
+      "Rindsberg"
+    ],
+    [
+      "\\bBob Evan\\b",
+      "Bob Evnen"
+    ],
+    [
+      "\\bGreg Scha?e?fer\\b",
+      "Greg Shaffer"
+    ],
+    [
+      "\\bGreg Shafer\\b",
+      "Greg Shaffer"
+    ],
+    [
+      "\\bHopineau\\b",
+      "Hoppenot"
+    ],
+    [
+      "\\bTom Claire\\b",
+      "Tom Clare"
+    ],
+    [
+      "\\bAndrew Cipher\\b",
+      "Andrew Sypher"
     ]
   ]
 }

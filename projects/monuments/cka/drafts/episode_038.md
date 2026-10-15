@@ -227,7 +227,7 @@ Confidence Level: Medium (partially corroborated by A-1471)
 
 *Related: C-1791, C-1792, C-1793, N-10285, N-10287, N-290, N-291*
 
-**A-1469.4** Section: Incyte Corporation – claim that the long-time CEO of Incyte was Hervé Hopineau (host self-corrects: "Hervé Hope No, Hopineau"), a French national who recently transitioned from CEO to advisor; Incyte owns the construction site across from 920 North King Street and is plugged into federal medical supply chains including VA/military health care interfaces.
+**A-1469.4** Section: Incyte Corporation – claim that the long-time CEO of Incyte was Hervé Hoppenot (host self-corrects: "Hervé Hope No, Hoppenot"), a French national who recently transitioned from CEO to advisor; Incyte owns the construction site across from 920 North King Street and is plugged into federal medical supply chains including VA/military health care interfaces.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -562,9 +562,9 @@ Investigative Pressure: Low
 
 ---
 
-**N-288** Hervé Hopineau
+**N-288** Hervé Hoppenot
 
-Identified in source email A-1469.4 as long-time CEO of Incyte and a French national, recently transitioned to advisor role. Spelling uncertainty: host false-starts with "Hervé Hope" before correcting to "Hopineau."
+Identified in source email A-1469.4 as long-time CEO of Incyte and a French national, recently transitioned to advisor role. Spelling uncertainty: host false-starts with "Hervé Hope" before correcting to "Hoppenot."
 
 Evidence Count: 1
 Claim Count: 1
@@ -681,7 +681,7 @@ Investigative Pressure: Medium
 
 **N-10286** Incyte Corporation French CEO
 
-Claim that long-time Incyte CEO was Hervé Hopineau (French national), now advisor; Incyte owns the construction site across from 920 North King and is plugged into VA/military health care supply chains.
+Claim that long-time Incyte CEO was Hervé Hoppenot (French national), now advisor; Incyte owns the construction site across from 920 North King and is plugged into VA/military health care supply chains.
 
 Evidence Count: 1
 Claim Count: 1
@@ -1047,7 +1047,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11008** Satis
+**N-11008** Satys
 
 Existing topic reused for new claims in this episode.
 
@@ -1160,7 +1160,7 @@ Claim Timestamp: 00:02:49
 Claim: On November 25, 2025, Candace Owens publicly stated via X that a high-ranking French government employee claimed the Macrons had executed upon and paid for her assassination, with the green light given to a GIGN team including one Israeli operative, and that Charlie Kirk's assassin trained with the French Foreign Legion's 13th Brigade.
 
 Anchored Artifacts: A-1461.1
-Mentions: N-3, N-381, N-82, N-285, N-1
+Mentions: N-3, N-381, N-82, N-1
 Investigative Direction: Obtain the underlying source communication; verify the identity and position of the French government contact; cross-check with FBI/Counterterrorism response records (FOIA where possible).
 
 ---
@@ -1179,12 +1179,12 @@ Investigative Direction: Locate original Durov X post (date, full context) and v
 
 **C-1783** Ponton frames Safari Club precedent as supporting plausibility
 
-Claim Timestamp: 00:11:57
+Claim Timestamp: 00:13:06
 
-Claim: Article author Freddy Ponton argued that the hesitation in dismissing Owens's allegations comes not from trust in her but from documented precedent of multi-state covert operations, citing the 1976 Safari Club intelligence alliance.
+Claim: Per the article by Freddy Ponton the host reads, the hesitation to dismiss Owens's allegations does not come from trust in her but from history; the host then says, from the Wikipedia page, that the Safari Club was a covert alliance of intelligence services formed in 1976.
 
 Anchored Artifacts: A-1463.1, A-1464.1
-Mentions: N-286
+Mentions: N-286, N-3
 Related Nodes: N-10293
 Investigative Direction: Verify Ponton's article URL; corroborate the Safari Club member list against declassified records; assess whether the Safari Club precedent materially maps onto the present allegations.
 
@@ -1268,7 +1268,7 @@ Investigative Direction: Verify via Wilmington city historical archives; corrobo
 
 Claim Timestamp: 00:24:24
 
-Claim: A source email asserts that three federal agencies work together at 920 North King Street, Wilmington, Delaware – the same address connected to the foreign-dignitary escort and to the attorneys filing the Macron-lawsuit paperwork.
+Claim: The host says a source told her a foreign dignitary was escorted from the hangar to 920 North King Street in Wilmington, Delaware, which she says they learned and confirmed had three federal agencies working together in one building and also houses the attorneys filing her paperwork in the Brigitte lawsuit.
 
 Anchored Artifacts: A-1469.2
 Related Nodes: N-10284
@@ -1280,7 +1280,7 @@ Investigative Direction: Identify the specific federal agencies at 920 North Kin
 
 Claim Timestamp: 00:28:30
 
-Claim: Bank of America vacated the Bracebridge Complex in 2018, leaving the building empty, per local coverage and source email.
+Claim: Per the source email and an article the host shows, Bank of America pulled out of a few of the Bracebridge Complex buildings in 2018 and left it completely empty.
 
 Anchored Artifacts: A-1469.3, A-1471.1, A-1471.2
 Related Nodes: N-10285
@@ -1290,7 +1290,7 @@ Investigative Direction: Verify Bank of America's Bracebridge exit via Wilmingto
 
 **C-1792** Pierre S. du Pont founded Longwood Foundation
 
-Claim Timestamp: 00:30:13
+Claim Timestamp: 00:29:25
 
 Claim: Per the source email, the Longwood Foundation was founded by Pierre S. du Pont, a member of the French-American du Pont family descended from Pierre Samuel du Pont de Nemours.
 
@@ -1308,22 +1308,22 @@ Claim Timestamp: 00:29:23
 Claim: Per the source email, 2024 legislation was passed to provide financial support to the Longwood Foundation to function as an educational center at the Bracebridge Complex.
 
 Anchored Artifacts: A-1469.3
-Mentions: N-290
+Mentions: 
 Related Nodes: N-10285, N-10287
 Investigative Direction: Identify the specific Delaware legislation; obtain bill text and legislative history.
 
 ---
 
-**C-1794** Hervé Hopineau served as long-time CEO of Incyte
+**C-1794** Hervé Hoppenot served as long-time CEO of Incyte
 
 Claim Timestamp: 00:33:11
 
-Claim: Per the source email, Hervé Hopineau (a French national) served as the long-time CEO of Incyte Corporation before recently transitioning to an advisor role.
+Claim: The host says Hervé Hoppenot, a French national, was the long-time CEO of Incyte and seems to have just exited as CEO but is still running the company as advisor to the CEO.
 
 Anchored Artifacts: A-1469.4
 Mentions: N-288
 Related Nodes: N-10286
-Investigative Direction: Verify Incyte CEO succession records via SEC filings; confirm Hopineau's nationality and dates of service.
+Investigative Direction: Verify Incyte CEO succession records via SEC filings; confirm Hoppenot's nationality and dates of service.
 
 ---
 
@@ -1344,7 +1344,7 @@ Investigative Direction: Verify Wilmington Trust founding date and founder via c
 
 Claim Timestamp: 00:30:58
 
-Claim: Per the source email, the FBI has a presence at 500 North Delaware Avenue, with MGM Delaware Avenue law firm occupying Suite 200 directly below the FBI Suite 300.
+Claim: Per the source email, the FBI apparently has Suite 300 at 500 North Delaware Avenue and the MGM Delaware Avenue law firm has Suite 200, which the host believes is directly below the FBI.
 
 Anchored Artifacts: A-1469.6
 Related Nodes: N-10289
@@ -1394,7 +1394,7 @@ Investigative Direction: Verify via Élysée Palace official photo archive; cros
 
 Claim Timestamp: 00:47:39
 
-Claim: On Patrick Bet-David's podcast, Adam Sosnick stated that Candace Owens has burned bridges with Turning Point USA, the Daily Wire, PragerU, Charlie Kirk, and Steven Crowder, and cannot be defended by named public figures.
+Claim: On Patrick Bet-David's podcast, Adam Sosnick said that in his opinion Candace Owens has burned every bridge, including Turning Point USA, the Daily Wire, PragerU, Charlie Kirk and Steven Crowder, and asked who her famous friends are.
 
 Anchored Artifacts: A-1473.1
 Mentions: N-57, N-284, N-261, N-3, N-1
@@ -1406,7 +1406,7 @@ Investigative Direction: Obtain the full podcast segment; assess whether Sosnick
 
 Claim Timestamp: 00:56:17
 
-Claim: Eric Bolling sent an apology email to Candace Owens's PR in which he blamed "that Alex guy" (identified in the episode as Adam Sosnick) for the on-air conflict and said Bolling did not even know Sosnick's name at the time of recording.
+Claim: The host reads an email Eric Bolling sent to her PR saying, "Tell Candace I meant no harm to her. It was that Alex guy who kept at it. He tried to corner me"; earlier in the episode she says the email blamed Adam Sosnick, whose name Bolling did not know.
 
 Anchored Artifacts: A-1474.1
 Mentions: N-284, N-72, N-3
@@ -1439,7 +1439,7 @@ Transcript Snippet: Imagine being so protected that you force multiple nation-st
 Anchored Artifacts: 
 Mentions: N-3, N-82, N-883
 Supports: C-1507
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain Brigitte Macron's birth and civil records and the Trogneux family registry entries; the host presents no document in this episode.
 
 ---
@@ -1513,7 +1513,7 @@ Investigative Direction: Ask the host's source for the transfer records; any ban
 
 Claim Timestamp: 00:04:55
 
-Claim: The host says her source said two assassins were hired, an Israeli man and a French-Canadian woman.
+Claim: The host says she stated that two assassins were hired, an Israeli man and a French-Canadian woman.
 
 Transcript Snippet: Two assassins were hired, one Israeli, one French-Canadian woman, okay?
 
@@ -1768,7 +1768,7 @@ Investigative Direction: Check the Legion's regiment list and the August 2025 co
 
 Claim Timestamp: 00:23:20
 
-Claim: The host says the Egyptian plane SUBTT, her yellow plane, departed Provo on the morning of Charlie Kirk's assassination and flew to Wilmington, Delaware.
+Claim: The host says the Egyptian plane SUBTT, which she calls 'our yellow plane', departed Provo on the morning of Charlie Kirk's assassination and flew to Wilmington, Delaware.
 
 Transcript Snippet: we were trying to track the Egyptian plane, SUBTT, our yellow plane, which departed on the morning of Charlie Kirk's assassination from Provo
 
@@ -1806,7 +1806,7 @@ Claim: The host says Satys signed off on the hangar deal in the very week she wa
 Transcript Snippet: they sign off on that the very week that I get sent this cease and desist
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-3, N-82
 Related Nodes: N-11008, N-11011
 Supports: C-4990
 Tags: relevance:core
@@ -1884,7 +1884,7 @@ Investigative Direction: Compare counsel-of-record addresses on the Delaware doc
 
 Claim Timestamp: 00:28:40
 
-Claim: The host reads a source email saying the Bracebridge Complex at 1100 North King Street spans over 1 million square feet and was built as Maryland Bank's headquarters, used by that bank from 1995 until Bank of America acquired it in 2006.
+Claim: The host reads a source email saying the Bracebridge Complex at 1100 North King Street spans over 1 million square feet and seems to have been built as Maryland Bank's headquarters, used by that bank from 1995 until Bank of America acquired it in 2006.
 
 Transcript Snippet: It spans over 1 million square feet.
 
@@ -1948,7 +1948,7 @@ Investigative Direction: Identify the firm (the transcript renders it as MGM) an
 
 Claim Timestamp: 00:33:00
 
-Claim: The host reads a source email saying that, with no public record of the project otherwise, the global biopharmaceutical company Incyte owns the construction site with the long red crane.
+Claim: The host reads a source email saying that, with no public record of the project otherwise, a global biopharmaceutical company called Incyte apparently owns the construction site with the long red crane.
 
 Transcript Snippet: apparently a global biopharmaceutical company called Incyte owns it, okay?
 
@@ -1963,7 +1963,7 @@ Investigative Direction: Check Delaware permits and Incyte filings for ownership
 
 Claim Timestamp: 00:33:30
 
-Claim: The host says a May 2024 article stated construction was expected to take about a year, but it has been about two years and the building top is still a skeleton, so she believes the site is being used to buy time.
+Claim: The host says a May 2024 article stated construction was expected to take about a year, but it has been about two years and the building top is still a skeleton, so she says she knows the site is being used to buy time.
 
 Transcript Snippet: On May 2024, they say that construction is expected to take about a year.
 
@@ -1975,11 +1975,11 @@ Investigative Direction: Review the May 2024 article and Wilmington building per
 
 ---
 
-**C-10925** Host Says Hopineau Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death
+**C-10925** Host Says Hoppenot Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death
 
 Claim Timestamp: 00:33:50
 
-Claim: The host says Hopineau is directly responsible for the Bracebridge construction and finalized the deal, and that a few months before Charlie Kirk's death he switched roles and began laying low.
+Claim: The host says Hervé Hoppenot is directly responsible for the Bracebridge construction and finalized the deal, and that a few months before Charlie Kirk's death he switched roles and began laying low.
 
 Transcript Snippet: He is directly responsible for this construction at Bracebridge, and he was the one that finalized the deal.
 
@@ -2257,7 +2257,7 @@ Claim: The host says nobody mentioned that Tyler Robinson had a list and doubts 
 Transcript Snippet: Nobody mentioned that Tyler Robinson had a list.
 
 Anchored Artifacts: A-3111.1
-Mentions: N-3, N-40, N-22, N-14
+Mentions: N-3, N-40, N-22
 Related Nodes: N-11010
 Tags: relevance:core
 Investigative Direction: Review charging documents and public filings for any mention of a list of targets; ask prosecutors whether one exists.
@@ -2315,7 +2315,7 @@ Investigative Direction: Request UVU and Utah National Guard deployment and cred
 
 Claim Timestamp: 00:59:20
 
-Claim: The host says, from information she will explain later in the week, National Guard regiments, French Foreign Legionnaires and some Israelis were at UVU, hence the 12 Israeli cell phones.
+Claim: The host says that, from information she will explain later in the week, she thinks National Guard regiments, French Foreign Legionnaires and some Israelis were at UVU, hence the 12 Israeli cell phones.
 
 Transcript Snippet: I think there were some national guard national guard regiments that were there, some French Foreign Legionnaires that were there and yes, some Israelis that were there
 

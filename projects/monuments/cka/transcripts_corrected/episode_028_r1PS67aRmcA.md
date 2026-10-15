@@ -185,7 +185,7 @@ Uh, and so again, it's one of these trash tactics to make people fearful to spea
 
 [39:12]
 
-Same vein, if in case you guys missed this going around, Eric and Laura Trump spoke at a recent TPUSA event at Auburn University, and it's a different era, okay? The post Charlie Kirk era at Turning Point USA. My guess after watching this is people are going to be less inclined to want to attend these events. And I'm speaking about the guests like Eric and Laura Trump because they are getting pressed now by students about Israel. Take a listen. >> I'd like to ask about your father's relationship with Israel. He's taken over $230 million from pro-Israel groups. During the summer against Iran, even though he advised against it, Israel still attacked Iran and the US still bombed on behalf of Israel.
+Same vein, if in case you guys missed this going around, Eric and Lara Trump spoke at a recent TPUSA event at Auburn University, and it's a different era, okay? The post Charlie Kirk era at Turning Point USA. My guess after watching this is people are going to be less inclined to want to attend these events. And I'm speaking about the guests like Eric and Lara Trump because they are getting pressed now by students about Israel. Take a listen. >> I'd like to ask about your father's relationship with Israel. He's taken over $230 million from pro-Israel groups. During the summer against Iran, even though he advised against it, Israel still attacked Iran and the US still bombed on behalf of Israel.
 
 [40:03]
 

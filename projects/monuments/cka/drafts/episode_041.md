@@ -541,7 +541,7 @@ Host's allegation that Turning Point USA pays influencers to run an influence ca
 
 Claim Timestamp: 00:02:11
 
-Claim: Pentagon correspondent Cam Higby asked the Pentagon press secretary whether the Department of Defense had any evidence of a "French military plot to assassinate Candace Owens."
+Claim: In a clip the host plays, Cam Higby asks the Pentagon press secretary whether the Department of Defense has any evidence at all of a "French military plot to assassinate Candace Owens."
 
 Anchored Artifacts: A-1494.1
 Mentions: N-304, N-3
@@ -555,10 +555,10 @@ Investigative Direction: Verify the original Pentagon press briefing transcript 
 
 Claim Timestamp: 00:03:51
 
-Claim: TPUSA's Blake Neff issued a tweet near midnight on December 4, 2025 announcing a formal response livestream scheduled for December 15, 2025 at 2:00 PM Eastern / 2:00 PM local in Phoenix, with a 24-hour countdown for Candace to confirm in-person attendance.
+Claim: TPUSA's Blake Neff issued a tweet near midnight on December 4, 2025 announcing a formal response livestream scheduled for December 15, 2025 at 4:00 PM Eastern / 2:00 PM local in Phoenix, with a 24-hour countdown for Candace to confirm in-person attendance.
 
 Anchored Artifacts: A-1495.1
-Mentions: N-1, N-161
+Mentions: N-3, N-161
 
 
 Investigative Direction: Confirm original tweet via X/Twitter archive; verify timestamp and wording.
@@ -572,7 +572,7 @@ Claim Timestamp: 00:07:19
 Claim: After Candace Owens publicly offered to participate virtually, TPUSA's Blake Neff tweeted that TPUSA would proceed with the December 15 livestream without her.
 
 Anchored Artifacts: A-1495.2
-Mentions: N-1, N-3, N-161
+Mentions: N-3, N-161
 
 
 Investigative Direction: Confirm original follow-up tweet via X/Twitter archive; compare with Candace's tweet offering virtual attendance.
@@ -581,12 +581,12 @@ Investigative Direction: Confirm original follow-up tweet via X/Twitter archive;
 
 **C-1834** Project Constitution Report on El-Sisi Aboard SU-BTU
 
-Claim Timestamp: 00:15:32
+Claim Timestamp: 00:16:50
 
 Claim: A Project Constitution X post (read in full on air) reports that the Egyptian presidency website confirms President El-Sisi flew aboard aircraft SU-BTU on April 3, 2023 to Riyadh for a meeting with Saudi Crown Prince Mohammed bin Salman.
 
 Anchored Artifacts: A-1496.1, A-1500.2
-Mentions:
+Mentions: N-720
 
 Related Nodes: N-10310, N-10897
 
@@ -598,10 +598,10 @@ Investigative Direction: Verify directly against the Egyptian presidency website
 
 Claim Timestamp: 00:17:13
 
-Claim: President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025, which the host cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.
+Claim: The host says President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025, which she cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.
 
 Anchored Artifacts: A-1500.1 (verbally referenced; not displayed)
-Mentions: N-308
+Mentions: N-3, N-720, N-308
 Related Nodes: N-10897
 
 
@@ -641,10 +641,10 @@ Investigative Direction: Verify clip against original broadcast; cross-check aga
 
 Claim Timestamp: 00:31:39
 
-Claim: Tim Pool states in a video that Candace Owens is a "scumbag" who is dividing conservatives and risks losing the midterms and 2028 by continuing to question the official Kirk narrative.
+Claim: Tim Pool states in a video that Candace Owens is a "scumbag" who is dividing conservatives and risks losing the midterms and 2028 by insinuating that Turning Point killed Charlie Kirk.
 
 Anchored Artifacts: A-1499.1
-Mentions: N-3, N-269
+Mentions: N-3, N-269, N-1
 
 Related Nodes:
 
@@ -692,7 +692,7 @@ Claim: In the clip played by the host, the Pentagon press secretary answers Cam 
 Transcript Snippet: That is an interesting question. Um, not that I'm aware of. Uh, but, you know, interesting question. I can try to find out and maybe let you know.
 
 Anchored Artifacts: A-1494.1
-Mentions: N-304
+Mentions: N-304, N-3
 Related Nodes: N-10064
 Supports: C-1825
 Investigative Direction: Obtain the Pentagon press briefing transcript to confirm the exchange and its date.
@@ -844,7 +844,7 @@ Claim: The host says the plane she labels blue, SU-BND, was transponding on the 
 Transcript Snippet: That's SUB BND, which was the one that was transponding on the ground um at Duncan Aviation on the day of Charlie's assassination, but it did not go anywhere.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1
+Mentions: N-3, N-1, N-262
 Related Nodes: N-262, N-10208, N-10074
 Supports: C-1719
 Investigative Direction: Pull the September 10, 2025 ADS-B and FBO records for SU-BND to confirm the ground transponder pings and the lack of departure.
@@ -871,7 +871,7 @@ Investigative Direction: Obtain the passenger manifest and Customs and Border Pr
 
 Claim Timestamp: 00:13:35
 
-Claim: The host says she can confirm that one of the four people on the yellow plane flew using the name Wedi Machmood, adding that governments print passports so the name is probably a dead end.
+Claim: The host says she can confirm that one of the four people on the yellow plane flew using the name Wedi Machmood, adding that governments just print passports so such names are obviously dead ends.
 
 Transcript Snippet: But the name that one of those individuals was using is Wedi Machmood. Okay. Wid Makmood.
 
@@ -906,7 +906,7 @@ Claim: The host says the plane she labels purple, tail number SU-BTU, was not th
 Transcript Snippet: Purple plane was not there on day Charlie's assassination, but we now have a person that was on that purple plane uh at the end of May.
 
 Anchored Artifacts: 
-Mentions: N-3, N-307
+Mentions: N-3, N-307, N-1
 Related Nodes: N-10310, N-10074
 Investigative Direction: Check SU-BTU movement history for September 2025 against Provo airport records.
 
@@ -1067,7 +1067,7 @@ Investigative Direction: Obtain the full text thread of the night-before message
 
 Claim Timestamp: 00:29:09
 
-Claim: The host characterizes Josh Hammer's account as saying Charlie told him his book was the greatest thing and everyone should buy it.
+Claim: The host sarcastically says Charlie told Josh Hammer his book was the greatest thing and everyone should buy it.
 
 Transcript Snippet: He told J uh Josh Hammer that his book was the greatest thing and everyone should buy Josh Hammer's book.
 

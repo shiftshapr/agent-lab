@@ -1,0 +1,780 @@
+[
+ {
+  "claim": "C-12495",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12496",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12497",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Claim is about Falcone leaving France and appearing in Scottsdale; the TPUSA link is host speculation not in the claim. Context, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12498",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12499",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12500",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12501",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12502",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12503",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12504",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12505",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Milo, Bannon, Epstein and the Tim Pool clip; George Santos is not named in it.",
+  "fix": {
+   "mentions": [
+    "N-222",
+    "N-393",
+    "N-9",
+    "N-269"
+   ]
+  }
+ },
+ {
+  "claim": "C-12506",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Milo and the Epstein files; Santos is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-222",
+    "N-9"
+   ]
+  }
+ },
+ {
+  "claim": "C-12507",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names only Epstein and unnamed speakers; Milo and Santos are not named in it.",
+  "fix": {
+   "mentions": [
+    "N-9"
+   ]
+  }
+ },
+ {
+  "claim": "C-12508",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Speaker of 'reckoning' passage not labelled in transcript; attribution to Milo accepted as plausible.",
+  "fix": {}
+ },
+ {
+  "claim": "C-12509",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Kege: 'a couple different rounds'; the 150gr Hornady is 'a lot more interesting', not a common round.",
+  "fix": {
+   "claim": "In the One Shot TV video, Jesse Kege says there are about a thousand .30-06 loads and nobody knows what kind of ammunition was used, so he tests two different rounds."
+  }
+ },
+ {
+  "claim": "C-12510",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12511",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12512",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12513",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12514",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12515",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'because I believe ... people close to Charlie are aware of things'; hedge dropped.",
+  "fix": {
+   "claim": "The host says she believes people close to Charlie are aware of things and are not honest about the anxiety Charlie had the night before he died."
+  }
+ },
+ {
+  "claim": "C-12516",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12517",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12518",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12519",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12520",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12521",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'that's why we shouldn't discount that there are good people'; claim says 'shows'.",
+  "fix": {
+   "claim": "The host says a lot of the leaks she has received have come from TPUSA employees, and that we should not discount that there are good people in the organization."
+  }
+ },
+ {
+  "claim": "C-12522",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12523",
+  "episode": 43,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1880",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Account is Harry's message the host reads; El Chapo (N-325) not named in the claim.",
+  "fix": {
+   "claim": "In a message from Harry that the host reads, a then-20-year-old military sensor operator assigned to JTF-6 says he planted sensors and pinpointed the location of the first discovered Sinaloa cartel underground rail tunnel, which Border Patrol then raided; per a news clip she plays, it ran between Douglas, Arizona and Agua Prieta in 1990.",
+   "mentions": [
+    "N-320"
+   ]
+  }
+ },
+ {
+  "claim": "C-1881",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1882",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1883",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1884",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1885",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1886",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'you guys are saying it should be E5s and E6s. And he said these are lieutenant colonels and colonels'; viewers correct, host does not confirm.",
+  "fix": {
+   "claim": "The host says Harry saw about 12 to 13 lieutenant colonels in the meeting he walked into; she says viewers corrected her that the ranks should be E5s and E6s, and that Harry said they were lieutenant colonels and colonels."
+  }
+ },
+ {
+  "claim": "C-1887",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'allegedly because I wasn't there'; 'made him publicly visible' is not stated.",
+  "fix": {
+   "claim": "The host says Harry is certain one of the men exiting the JTF-SB meeting on September 9, 2025 was Brian Harpole, which she says allegedly because she wasn't there; Harry did not know him then but remembers him because the assassination happened afterward."
+  }
+ },
+ {
+  "claim": "C-1888",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Captain Nef' is N-321, not Blake Neff (N-161). Also he did not enter the meeting room; captains escorted him out of the building. Age/hair not in window (unverified).",
+  "fix": {
+   "claim": "The host says Harry told her that, after he walked into the JTF headquarters as the meeting ended, two captains escorted him out of the building and began a 7-hour interrogation accusing him of being a bomb threat, a spy, and a threat to himself or others, and that the interrogator Harry identifies as \"Captain Nef\" was approximately 36 years old with brown hair and was commander of force protection.",
+   "mentions": [
+    "N-320",
+    "N-321"
+   ]
+  }
+ },
+ {
+  "claim": "C-1889",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Presented as fact; host says Harry got the number from 'this captain commander Nef' and believes it can be FOIA requested. Nef not named in claim.",
+  "fix": {
+   "claim": "The host says Harry told her that Captain Nef gave him incident report number 861-1-2025-MPC446 after his September 9, 2025 encounter at Fort Huachuca, and that Harry believes the report can be obtained via FOIA.",
+   "mentions": [
+    "N-320",
+    "N-321"
+   ]
+  }
+ },
+ {
+  "claim": "C-1890",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says Gaydamak 'didn't show up for his court hearing' and was 'sentenced in absence'; only the French intelligence agent point is tied to 'this article'.",
+  "fix": {
+   "claim": "The host says Arcadi Gaydamak did not show up for his court hearing and was just sentenced in absentia for trafficking weapons, and that, as she says one can see in an article, he was a French intelligence agent."
+  }
+ },
+ {
+  "claim": "C-1891",
+  "episode": 44,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'I explained to you that he was born in Russia and then when Israel became a nation, he was first over there.' Not attributed to the article.",
+  "fix": {
+   "claim": "The host says Gaydamak was born in Russia and that when Israel became a nation he was among the first over there."
+  }
+ },
+ {
+  "claim": "C-1892",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1893",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript: 'brought in and secured jobs for Ukrainians'; Smeirnoff is 'one of the Ukrainians working with him'. Unresolved name: Smeirnoff.",
+  "fix": {
+   "claim": "The host says emailers claim Jonathan Schmidt/Gaydamak was brought into Root Brands by Clay Thomas and has brought in and secured jobs for Ukrainians, including Alex Smeirnoff, who he alleges are running from the war."
+  }
+ },
+ {
+  "claim": "C-1894",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1895",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Pool says to another speaker 'YOU TOLD ME YOU WENT TO HER HOUSE'; he does not say he visited.",
+  "fix": {
+   "claim": "In the audio clip, Tim Pool says to another speaker that he told Pool he went to Candace Owens' house and she has a 4-foot wall and one \"fat guy\", and says no one is \"out for her\".",
+   "label": "Tim Pool Says Someone Told Him Candace Owens' Home Has a 4-Foot Wall and One Guard"
+  }
+ },
+ {
+  "claim": "C-1896",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3653",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Decentralized Intelligence Agency' expansion not in transcript; host says 'DCIA units'.",
+  "fix": {
+   "claim": "The host urges viewers to \"become our own little CIA units or DCIA units in our own communities and share information,\" because we cannot trust the government to take care of us."
+  }
+ },
+ {
+  "claim": "C-11031",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11032",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11033",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11034",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11035",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11036",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11037",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11038",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11039",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11040",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Holds up' crack cocaine is not in the transcript; Bush says 'This is crack cocaine seized a few days ago'.",
+  "fix": {
+   "claim": "In the played clip, George H.W. Bush says the crack cocaine was seized a few days earlier by drug enforcement agents in a park just across the street from the White House."
+  }
+ },
+ {
+  "claim": "C-11041",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11042",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11043",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

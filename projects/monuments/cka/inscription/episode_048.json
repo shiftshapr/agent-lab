@@ -1415,7 +1415,7 @@
       "ref": "N-11019",
       "name": "Freya Canine Scent Trace",
       "type": "topic",
-      "description": "Host's account of a canine called Freya who traced a scent from the base of the building to the Lozi Center rooftop using a condensed scent trace rather than the recovered gun.",
+      "description": "Host's account of a canine called Freya who traced a scent from the base of the building to the Losee Center rooftop using a condensed scent trace rather than the recovered gun.",
       "related_artifacts": [],
       "related_claims": [
         "C-5208",
@@ -2132,8 +2132,8 @@
       "@type": "Claim",
       "@id": "C-5208",
       "ref": "C-5208",
-      "label": "Host Says Freya the Canine Sniffed Out the Route to the Lozi Center Rooftop",
-      "claim": "The host says Freya is a canine, distinct from the bomb dogs, who sniffed out the route to the rooftop of the Lozi Center where Tyler Robinson allegedly took the shot.",
+      "label": "Host Says Freya the Canine Sniffed Out the Route to the Losee Center Rooftop",
+      "claim": "The host says Freya is a canine, distinct from the bomb dogs, who sniffed out the route to the rooftop of the Losee Center where Tyler Robinson allegedly took the shot.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11019"
@@ -2141,7 +2141,7 @@
       "tags": [],
       "claim_timestamp": "00:16:42",
       "investigative_direction": "Obtain the K-9 deployment report for Freya and her handler's account.",
-      "transcript_snippet": "she is specifically the canine that sniffed out the route to the rooftop where Tyler Robinson, the Lozi Center rooftop, where he allegedly took the shot.",
+      "transcript_snippet": "she is specifically the canine that sniffed out the route to the rooftop where Tyler Robinson, the Losee Center rooftop, where he allegedly took the shot.",
       "mentions_person_refs": [
         "N-3",
         "N-40"

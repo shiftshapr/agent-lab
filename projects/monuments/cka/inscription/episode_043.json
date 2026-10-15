@@ -1396,7 +1396,7 @@
       "@id": "C-1864",
       "ref": "C-1864",
       "label": "Kash Patel did not deny French involvement in Charlie Kirk's assassination when directly asked by Megyn Kelly",
-      "claim": "When Megyn Kelly directly asked FBI Director Kash Patel whether the French were involved in Charlie Kirk's assassination, Patel did not address the allegation and instead spoke in general terms about investigating threats to any American.",
+      "claim": "When Megyn Kelly asked FBI Director Kash Patel whether the French were involved in Charlie Kirk's assassination, Patel, in a clip the host plays, spoke in general terms about investigating threats to any American; the host says he skipped over the question of French involvement.",
       "anchored_artifacts": [
         "A-1514.1"
       ],
@@ -1455,7 +1455,7 @@
       "@id": "C-1867",
       "ref": "C-1867",
       "label": "Pierre Falcone is described as currently residing in Scottsdale, Arizona",
-      "claim": "The host states that Pierre Falcone reappeared in Scottsdale, Arizona, the same location as Turning Point USA.",
+      "claim": "The host says that, according to her sources in France, Pierre Falcone disappeared from France after winning his appeal and reappeared in Scottsdale, Arizona, where she says Turning Point USA is based.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10317"
@@ -1481,7 +1481,6 @@
       "claim_timestamp": "00:14:36–00:15:38",
       "investigative_direction": "Locate the French court judgment against Gaydamak and confirm the conviction and date.",
       "mentions_person_refs": [
-        "N-314",
         "N-315"
       ]
     },
@@ -1490,19 +1489,16 @@
       "@id": "C-1869",
       "ref": "C-1869",
       "label": "The Angolagate scandal involved France, Israel, Angola, Russia, Slovakia, and the United States",
-      "claim": "According to a CorpWatch source read aloud by the host, the Angolagate scandal involved France, Israel, Angola, Russia, Slovakia, and the United States.",
+      "claim": "The host says the scandal involving Pierre Falcone, Angolagate, involved Africa (Angola in particular), Israel, France and the United States, and that France, Russia and Slovakia were involved in the arms network; she adds that it also touched the United States before reading CorpWatch on the Bush angle.",
       "anchored_artifacts": [
         "A-1515.2"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:15:38–00:17:26",
+      "claim_timestamp": "00:12:29",
       "investigative_direction": "Cross-reference the March 25 Global Witness report \"All the President's Men\" with CorpWatch and the original French judicial findings.",
       "mentions_person_refs": [
-        "N-314",
-        "N-315",
-        "N-316",
-        "N-317"
+        "N-314"
       ]
     },
     {
@@ -1538,7 +1534,6 @@
       "claim_timestamp": "00:15:38–00:17:26",
       "investigative_direction": "Verify Jean-Christophe Mitterrand's role via French court records.",
       "mentions_person_refs": [
-        "N-314",
         "N-316",
         "N-317"
       ]
@@ -1620,7 +1615,7 @@
       "@id": "C-1876",
       "ref": "C-1876",
       "label": "A viewer comment asserts that a DOJ audit of TPUSA was cancelled",
-      "claim": "A viewer comment asserts that a DOJ audit was \"suddenly no longer happening.\"",
+      "claim": "A viewer comment the host reads asks \"Why is the DOJ audit suddenly no longer happening?\"",
       "anchored_artifacts": [
         "A-1518.6"
       ],
@@ -1655,7 +1650,7 @@
       "@id": "C-1878",
       "ref": "C-1878",
       "label": "The Daily Mail has reported on the life insurance policy taken out on Charlie Kirk",
-      "claim": "A viewer comment references a Daily Mail story on the life insurance policy on Charlie Kirk's life; the host acknowledges the report.",
+      "claim": "Responding to a viewer comment asking who took out the life insurance policy on Charlie and where the 1.5 million went, the host says she saw the Daily Mail broke the story about the life insurance policy that was taken out.",
       "anchored_artifacts": [
         "A-1518.5"
       ],
@@ -1673,8 +1668,8 @@
       "@type": "Claim",
       "@id": "C-1879",
       "ref": "C-1879",
-      "label": "Viewer Comments the Host Reads Say TPUSA-Affiliated Individuals Knew of Potential Danger Before the Assassination and Have Remained Silent",
-      "claim": "Viewer comments the host reads (Jo Ann, Diana Sheen, CCXX) collectively assert that TPUSA personnel had foreknowledge or related suspicions prior to the assassination and have not publicly disclosed them.",
+      "label": "Viewer Comments the Host Reads Question TPUSA's Silence and Response",
+      "claim": "Viewer comments the host reads raise TPUSA's response: Jo Ann says \"we hoped it would go away\" was the first truthful-sounding statement from TPUSA, Diana Sheen asks whether TPUSA employees still have to stay silent if crime is involved, and CCXX asks who took out the life insurance policy on Charlie and where the 1.5 million went.",
       "anchored_artifacts": [
         "A-1518.1",
         "A-1518.3",
@@ -1693,7 +1688,7 @@
       "@id": "C-12477",
       "ref": "C-12477",
       "label": "Kirk said Mossad's mention in the JFK files does not show involvement",
-      "claim": "In the May 2025 clip, Charlie Kirk says Mossad is mentioned in the JFK files largely because it is a very good intelligence operation, and that the mentions do not show it was tied to or involved in the assassination.",
+      "claim": "In the May 2025 clip, Charlie Kirk says one of the reasons Mossad is mentioned so much in the JFK files is that it is a very good intelligence operation, and that it was not mentioned as if they were tied to or knew about or were involved in the assassination.",
       "anchored_artifacts": [
         "A-1513.1"
       ],
@@ -2134,7 +2129,7 @@
         "N-10317"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:17:26",
       "investigative_direction": "Identify the French sources; check French press on Falcone's departure and any Interpol or residency records.",
@@ -2322,7 +2317,6 @@
         "N-222",
         "N-393",
         "N-9",
-        "N-917",
         "N-269"
       ]
     },
@@ -2346,8 +2340,7 @@
       "transcript_snippet": "there isn't one person who voted for Donald Trump who did not want and did not expect the Epstein files to be released immediately.",
       "mentions_person_refs": [
         "N-222",
-        "N-9",
-        "N-917"
+        "N-9"
       ]
     },
     {
@@ -2369,9 +2362,7 @@
       "investigative_direction": "Identify which panelist says this on the Tim Pool episode and the Trump remark being referenced.",
       "transcript_snippet": "That is the moment Trumpism died. I agree. >> And don't we need a reckoning?",
       "mentions_person_refs": [
-        "N-222",
-        "N-9",
-        "N-917"
+        "N-9"
       ]
     },
     {
@@ -2404,7 +2395,7 @@
       "@id": "C-12509",
       "ref": "C-12509",
       "label": "Jesse Kege says the ammunition used in the shooting is unknown",
-      "claim": "In the One Shot TV video, Jesse Kege says there are about a thousand .30-06 loads and nobody knows what kind of ammunition was used, so he tests two common rounds.",
+      "claim": "In the One Shot TV video, Jesse Kege says there are about a thousand .30-06 loads and nobody knows what kind of ammunition was used, so he tests two different rounds.",
       "anchored_artifacts": [
         "A-1516.1"
       ],
@@ -2539,7 +2530,7 @@
       "@id": "C-12515",
       "ref": "C-12515",
       "label": "Host says people close to Charlie are not honest about his anxiety the night before he died",
-      "claim": "The host says people close to Charlie are aware of things and are not honest about the anxiety Charlie had the night before he died.",
+      "claim": "The host says she believes people close to Charlie are aware of things and are not honest about the anxiety Charlie had the night before he died.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10320"
@@ -2659,7 +2650,7 @@
       "@id": "C-12521",
       "ref": "C-12521",
       "label": "Host says many leaks she has received came from TPUSA employees",
-      "claim": "The host says a lot of the leaks she has received have come from TPUSA employees, and that this shows there are good people in the organization.",
+      "claim": "The host says a lot of the leaks she has received have come from TPUSA employees, and that we should not discount that there are good people in the organization.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"

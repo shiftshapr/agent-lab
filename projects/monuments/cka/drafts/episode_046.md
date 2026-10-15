@@ -902,7 +902,7 @@ Investigative Direction: Confirm the verbatim exchange against the published CBS
 
 Claim Timestamp: 00:17:23
 
-Claim: In a Blaze TV interview with Glenn Beck, Erika Kirk affirmed the host's framing that "the truth is very clear" regarding her husband's assassination.
+Claim: In a Blaze TV interview clip the host plays, Erika Kirk affirmed Glenn Beck's framing that "the truth is very clear" regarding her husband's assassination.
 
 Anchored Artifacts: A-1534.1
 Mentions: N-2, N-239
@@ -970,9 +970,9 @@ Investigative Direction: Track whether this "education" framing recurs in subseq
 
 **C-1918** Host Says Tyler Robinson Made First In-Person Court Appearance on December 11, 2025
 
-Claim Timestamp: 00:33:07
+Claim Timestamp: 00:35:15
 
-Claim: The host says Tyler Robinson appeared in person in a Utah court on December 11, 2025, his first in-person court appearance.
+Claim: The host says Tyler Robinson finally appeared in person, making his first in-person court appearance.
 
 Anchored Artifacts: A-1535.1
 Mentions: N-40
@@ -985,7 +985,7 @@ Investigative Direction: Obtain the official docket entry and any released court
 
 **C-1919** AllieBeth Stuckey accused Candace Owens of using BLM "Kafka trap" tactics
 
-Claim Timestamp: 00:35:58
+Claim Timestamp: 00:38:00
 
 Claim: In an Instagram post, AllieBeth Stuckey asserted that "Candace has taken a page out of their [BLM's] book," characterizing the host's insistence that critics are part of a psyop or are paid as a 2020-style Kafka trap.
 
@@ -999,7 +999,7 @@ Investigative Direction: Verify the post is still publicly available and capture
 
 **C-1920** AllieBeth Stuckey publicly defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth
 
-Claim Timestamp: 00:43:28
+Claim Timestamp: 00:44:45
 
 Claim: In a show clip, AllieBeth Stuckey defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations, stating she knows them personally and that they do not deserve to be "implicated in this way" or "called out when they're lying."
 
@@ -1027,12 +1027,12 @@ Investigative Direction: Capture the comment thread for permanent record and ide
 
 **C-1922** Bari Weiss CBS town hall was pre-recorded with pre-selected questions (per host insider sources)
 
-Claim Timestamp: 00:00:00–00:00:01
+Claim Timestamp: 00:08:05
 
 Claim: The host asserts that the Bari Weiss / Erika Kirk CBS town hall was pre-recorded in the 11:00 AM – 4:00 PM window the day prior to airing, that Bari Weiss read from a prompter, that questions were pre-selected by CBS, and that audience members were emailing the host during recording.
 
 Anchored Artifacts: A-1533.1, A-1533.5 (visual evidence of controlled production), host testimonial confirmation of insider sources
-Mentions: N-280, N-328, N-2
+Mentions: N-280, N-2
 
 Related Nodes: N-10334
 
@@ -1074,12 +1074,12 @@ Investigative Direction: Compare Farnsworth's account, the DOGE timeline and the
 
 Claim Timestamp: 00:00:56
 
-Claim: The host says the Bari Weiss and Glenn Beck interviews are the final stop of a PR campaign that brings Erika Kirk out so the public feels it cannot question the judgment of a widow.
+Claim: The host says she guesses, and hopes, that the Bari Weiss and Glenn Beck interviews are the final stop of a PR campaign that brings Erika Kirk out so the public feels it cannot question the judgment of a widow.
 
 Transcript Snippet: I guess this is kind of the final stop. I'm hoping it's the final stop of this PR campaign where they are now pivoting and bringing Erika out
 
 Anchored Artifacts: 
-Mentions: N-3, N-2
+Mentions: N-3, N-2, N-280, N-239
 Related Nodes: N-11107
 Tags: relevance:core
 Investigative Direction: Identify who organized the Erika Kirk media rollout (CBS, Blaze TV) and any PR firm engaged by Turning Point USA.
@@ -1204,7 +1204,7 @@ Investigative Direction: Compare the question as aired with the unedited CBS bro
 
 Claim Timestamp: 00:08:55
 
-Claim: The host says she was already at the top of the charts and already had her business, her book and the same merch before the assassination, rebutting the claim that she built her business on the story.
+Claim: The host says she already had her business and was already at the top of the charts, rebutting the claim that she built her business on the story.
 
 Transcript Snippet: Building her business, what are you talking about? I already had this business. I was already at top of the charts.
 
@@ -1315,7 +1315,7 @@ Investigative Direction: List each instance where a text was released after an a
 
 Claim Timestamp: 00:11:47
 
-Claim: The host says Terrell Farnsworth personally told her it was not true that police told him to remove the SD card, and that the stated reason was that people were stealing hats.
+Claim: The host says Terrell Farnsworth personally told her it was not true that police told him to remove the SD card, and that the account that he removed it because people were stealing hats is not what he told her.
 
 Transcript Snippet: Taro Farnsworth personally told me that that was not true. Taro removed the SD cards because people were stealing hats.
 
@@ -1497,11 +1497,11 @@ Investigative Direction: Cross-check flight-tracking data for the Egyptian-regis
 
 ---
 
-**C-6703** Host Concedes Only a Time-Zone Error on Plane Timing Rather Than a Lie
+**C-6703** Host Asks Where She Has Lied Rather Than Made a Minor Error Such as a Time Zone
 
 Claim Timestamp: 00:13:57
 
-Claim: The host says the most her critics have is that she got a time zone wrong, and says she is asking where she has explicitly lied rather than made a minor mistake on a timeline.
+Claim: The host says she is asking where she has explicitly lied rather than made a minor mistake, such as getting a time zone wrong, which critics answer by saying she lied about when a plane left.
 
 Transcript Snippet: Not made a molecular or a mi- minor mistake. We got a time zone wrong.
 
@@ -1571,7 +1571,7 @@ Claim: The host says CBS filled the audience with people it selected, College Re
 Transcript Snippet: They filled the audience with people selected by CBS, College Republicans with questions selected by CBS.
 
 Anchored Artifacts: A-1533.5
-Mentions: N-3, N-280
+Mentions: N-3
 Related Nodes: N-10334, N-10282
 Supports: C-1922
 Tags: relevance:core
@@ -1588,7 +1588,7 @@ Claim: The host says the Erika Kirk interviews are all part of a PR blitz for Ch
 Transcript Snippet: this is all a part of a PR blitz for Charlie's upcoming book on honoring the Shabbat
 
 Anchored Artifacts: A-1534.1
-Mentions: N-3, N-2, N-1, N-239
+Mentions: N-3, N-2, N-1
 Related Nodes: N-11107
 Tags: relevance:core
 Investigative Direction: Verify the title, publisher and release date of the book and who is promoting it.
@@ -1599,12 +1599,12 @@ Investigative Direction: Verify the title, publisher and release date of the boo
 
 Claim Timestamp: 00:18:20
 
-Claim: The host says she has not seen a commentator explicitly accuse Erika Kirk of killing Charlie, and that she has only seen people looking into Erika's background, her Romanian charity and her mother.
+Claim: The host says she has never seen, though maybe she missed it, a commentator explicitly accuse Erika Kirk of killing Charlie, and that she has only seen people looking into Erika's background, her Romanian charity and her mother.
 
 Transcript Snippet: I've seen a lot, somebody come out and say Ericka Kirk murdered Charlie.
 
 Anchored Artifacts: A-1534.1
-Mentions: N-3, N-2, N-239
+Mentions: N-3, N-2
 Related Nodes: N-11107
 Tags: relevance:core
 Investigative Direction: Survey high-profile commentators for any explicit accusation to test the host's statement; compare with later statements by TPUSA allies.
@@ -1615,12 +1615,12 @@ Investigative Direction: Survey high-profile commentators for any explicit accus
 
 Claim Timestamp: 00:24:03
 
-Claim: The host says that it looks to her, and to many on the outside, that the government is implicated, otherwise it would not need every department using propaganda, and that if so Charlie's legacy would be that he was killed by the political machine he served.
+Claim: The host says that it looks to her, and she thinks to many on the outside, that the government is implicated, otherwise it would not need every department using propaganda, and that if so Charlie's legacy would be that he was killed by the political machine he served.
 
 Transcript Snippet: the government is implicated, otherwise it wouldn't require every department of the government using propaganda to convince us against common sense
 
 Anchored Artifacts: A-1533.4
-Mentions: N-3, N-1, N-2
+Mentions: N-3, N-1
 Related Nodes: N-10014
 Supports: C-1916
 Tags: relevance:core
@@ -1794,7 +1794,7 @@ Investigative Direction: Ask the prosecution or UVU which video of the shooter i
 
 Claim Timestamp: 00:34:27
 
-Claim: The host says Tyler Robinson seemed to be smiling at his first in-person court appearance and she did not get the energy of someone worried about the electric chair.
+Claim: The host says Tyler Robinson kind of seemed like he was smiling at his first in-person court appearance and she did not get the energy of someone worried about the electric chair.
 
 Transcript Snippet: kind of seemed like he was smiling I did not get the energy of someone who is worried about getting the electric chair
 
@@ -1833,7 +1833,7 @@ Claim: The host alleges that Allie Beth Stuckey has hired a "monster" PR agent w
 Transcript Snippet: by sending someone to follow me after I was no longer employed there to try to make me look bad on camera
 
 Anchored Artifacts: 
-Mentions: N-3, N-229, N-165, N-223
+Mentions: N-3, N-229
 Related Nodes: N-10416
 Tags: relevance:context
 Investigative Direction: The host names no agent; identify the PR agent and the person who followed her through recordings or witnesses.
@@ -1865,7 +1865,7 @@ Claim: The host says she made a documentary on BLM and George Floyd after disrup
 Transcript Snippet: I then did a documentary on it and I revealed to the world that these the media actually is to blame.
 
 Anchored Artifacts: A-1536.1
-Mentions: N-3, N-229
+Mentions: N-3
 Tags: relevance:tangential
 Investigative Direction: Reference the documentary and the claims it made about George Floyd and the BLM charity.
 
@@ -2034,7 +2034,7 @@ Investigative Direction: The claim concerns the host's own history; no document 
 
 Claim Timestamp: 00:55:00
 
-Claim: The host says commenters pointed out that suddenly after she talked about Pierre and the billion-dollar incentive in yesterday's episode, the other side went crazy and started going Max.
+Claim: The host says commenters on yesterday's episode pointed out that suddenly after she started talking about Pierre and the billion-dollar incentive, the other side went crazy and started going Max.
 
 Transcript Snippet: suddenly we start talking about Pierre and that billion-dollar incentive and they went crazy
 
@@ -2056,7 +2056,7 @@ Transcript Snippet: Nobody was talking about that in the West in in in the Engli
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check English-language coverage of the Brigitte Macron claims before the host's series began.
 
 ---

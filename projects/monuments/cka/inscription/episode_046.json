@@ -1860,7 +1860,7 @@
       "@id": "C-1913",
       "ref": "C-1913",
       "label": "Erika Kirk stated \"the truth is very clear\" about the assassination in Glenn Beck interview",
-      "claim": "In a Blaze TV interview with Glenn Beck, Erika Kirk affirmed the host's framing that \"the truth is very clear\" regarding her husband's assassination.",
+      "claim": "In a Blaze TV interview clip the host plays, Erika Kirk affirmed Glenn Beck's framing that \"the truth is very clear\" regarding her husband's assassination.",
       "anchored_artifacts": [
         "A-1534.1"
       ],
@@ -1948,7 +1948,7 @@
       "@id": "C-1918",
       "ref": "C-1918",
       "label": "Host Says Tyler Robinson Made First In-Person Court Appearance on December 11, 2025",
-      "claim": "The host says Tyler Robinson appeared in person in a Utah court on December 11, 2025, his first in-person court appearance.",
+      "claim": "The host says Tyler Robinson finally appeared in person, making his first in-person court appearance.",
       "anchored_artifacts": [
         "A-1535.1"
       ],
@@ -1956,7 +1956,7 @@
         "N-10336"
       ],
       "tags": [],
-      "claim_timestamp": "00:33:07",
+      "claim_timestamp": "00:35:15",
       "investigative_direction": "Obtain the official docket entry and any released court transcript for the December 11, 2025 hearing; verify demeanor observation against available footage.",
       "mentions_person_refs": [
         "N-40"
@@ -1973,7 +1973,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:35:58",
+      "claim_timestamp": "00:38:00",
       "investigative_direction": "Verify the post is still publicly available and capture a screenshot for permanent record; compare Stuckey's characterization against any prior host statements.",
       "mentions_person_refs": [
         "N-3",
@@ -1991,7 +1991,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:43:28",
+      "claim_timestamp": "00:44:45",
       "investigative_direction": "Catalog each prior host accusation against these five individuals and verify against any underlying evidence the host has produced; assess consistency of Stuckey's defense with the underlying evidence.",
       "mentions_person_refs": [
         "N-55",
@@ -2033,11 +2033,10 @@
         "N-10334"
       ],
       "tags": [],
-      "claim_timestamp": "00:00:00–00:00:01",
+      "claim_timestamp": "00:08:05",
       "investigative_direction": "Attempt to obtain leaked production documents, backstage emails, or testimony from audience members; cross-reference against CBS's own statements about the production.",
       "mentions_person_refs": [
         "N-280",
-        "N-328",
         "N-2"
       ]
     },
@@ -2082,7 +2081,7 @@
       "@id": "C-6677",
       "ref": "C-6677",
       "label": "Host Says the Erika Kirk Interviews Are the Final Stop of a TPUSA PR Campaign",
-      "claim": "The host says the Bari Weiss and Glenn Beck interviews are the final stop of a PR campaign that brings Erika Kirk out so the public feels it cannot question the judgment of a widow.",
+      "claim": "The host says she guesses, and hopes, that the Bari Weiss and Glenn Beck interviews are the final stop of a PR campaign that brings Erika Kirk out so the public feels it cannot question the judgment of a widow.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11107"
@@ -2095,7 +2094,9 @@
       "transcript_snippet": "I guess this is kind of the final stop. I'm hoping it's the final stop of this PR campaign where they are now pivoting and bringing Erika out",
       "mentions_person_refs": [
         "N-3",
-        "N-2"
+        "N-2",
+        "N-280",
+        "N-239"
       ]
     },
     {
@@ -2265,7 +2266,7 @@
       "@id": "C-6685",
       "ref": "C-6685",
       "label": "Host Says She Already Had Her Business, Book and Merch Before the Assassination",
-      "claim": "The host says she was already at the top of the charts and already had her business, her book and the same merch before the assassination, rebutting the claim that she built her business on the story.",
+      "claim": "The host says she already had her business and was already at the top of the charts, rebutting the claim that she built her business on the story.",
       "anchored_artifacts": [
         "A-1533.1"
       ],
@@ -2431,7 +2432,7 @@
       "@id": "C-6692",
       "ref": "C-6692",
       "label": "Host Says Farnsworth Told Her the Police Did Not Tell Him to Remove the SD Card",
-      "claim": "The host says Terrell Farnsworth personally told her it was not true that police told him to remove the SD card, and that the stated reason was that people were stealing hats.",
+      "claim": "The host says Terrell Farnsworth personally told her it was not true that police told him to remove the SD card, and that the account that he removed it because people were stealing hats is not what he told her.",
       "anchored_artifacts": [
         "A-2831.1"
       ],
@@ -2728,8 +2729,8 @@
       "@type": "Claim",
       "@id": "C-6703",
       "ref": "C-6703",
-      "label": "Host Concedes Only a Time-Zone Error on Plane Timing Rather Than a Lie",
-      "claim": "The host says the most her critics have is that she got a time zone wrong, and says she is asking where she has explicitly lied rather than made a minor mistake on a timeline.",
+      "label": "Host Asks Where She Has Lied Rather Than Made a Minor Error Such as a Time Zone",
+      "claim": "The host says she is asking where she has explicitly lied rather than made a minor mistake, such as getting a time zone wrong, which critics answer by saying she lied about when a plane left.",
       "anchored_artifacts": [
         "A-2831.2"
       ],
@@ -2845,8 +2846,7 @@
         "C-1922"
       ],
       "mentions_person_refs": [
-        "N-3",
-        "N-280"
+        "N-3"
       ]
     },
     {
@@ -2870,8 +2870,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-1",
-        "N-239"
+        "N-1"
       ]
     },
     {
@@ -2879,7 +2878,7 @@
       "@id": "C-6709",
       "ref": "C-6709",
       "label": "Host Says She Has Never Seen Anyone Say Erika Kirk Murdered Charlie, Only Investigate Her Background",
-      "claim": "The host says she has not seen a commentator explicitly accuse Erika Kirk of killing Charlie, and that she has only seen people looking into Erika's background, her Romanian charity and her mother.",
+      "claim": "The host says she has never seen, though maybe she missed it, a commentator explicitly accuse Erika Kirk of killing Charlie, and that she has only seen people looking into Erika's background, her Romanian charity and her mother.",
       "anchored_artifacts": [
         "A-1534.1"
       ],
@@ -2894,8 +2893,7 @@
       "transcript_snippet": "I've seen a lot, somebody come out and say Ericka Kirk murdered Charlie.",
       "mentions_person_refs": [
         "N-3",
-        "N-2",
-        "N-239"
+        "N-2"
       ]
     },
     {
@@ -2903,7 +2901,7 @@
       "@id": "C-6710",
       "ref": "C-6710",
       "label": "Host Says the Government Appears Implicated Because Every Department Is Pushing Propaganda",
-      "claim": "The host says that it looks to her, and to many on the outside, that the government is implicated, otherwise it would not need every department using propaganda, and that if so Charlie's legacy would be that he was killed by the political machine he served.",
+      "claim": "The host says that it looks to her, and she thinks to many on the outside, that the government is implicated, otherwise it would not need every department using propaganda, and that if so Charlie's legacy would be that he was killed by the political machine he served.",
       "anchored_artifacts": [
         "A-1533.4"
       ],
@@ -2921,8 +2919,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-1",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -3157,7 +3154,7 @@
       "@id": "C-6721",
       "ref": "C-6721",
       "label": "Host Says Robinson Seemed to Be Smiling at First In-Person Court Appearance",
-      "claim": "The host says Tyler Robinson seemed to be smiling at his first in-person court appearance and she did not get the energy of someone worried about the electric chair.",
+      "claim": "The host says Tyler Robinson kind of seemed like he was smiling at his first in-person court appearance and she did not get the energy of someone worried about the electric chair.",
       "anchored_artifacts": [
         "A-1535.1"
       ],
@@ -3222,9 +3219,7 @@
       "transcript_snippet": "by sending someone to follow me after I was no longer employed there to try to make me look bad on camera",
       "mentions_person_refs": [
         "N-3",
-        "N-229",
-        "N-165",
-        "N-223"
+        "N-229"
       ]
     },
     {
@@ -3266,8 +3261,7 @@
       "investigative_direction": "Reference the documentary and the claims it made about George Floyd and the BLM charity.",
       "transcript_snippet": "I then did a documentary on it and I revealed to the world that these the media actually is to blame.",
       "mentions_person_refs": [
-        "N-3",
-        "N-229"
+        "N-3"
       ]
     },
     {
@@ -3511,7 +3505,7 @@
       "@id": "C-6736",
       "ref": "C-6736",
       "label": "Host Says the Pierre and Billion-Dollar Incentive Segment Triggered a Wave of Attacks",
-      "claim": "The host says commenters pointed out that suddenly after she talked about Pierre and the billion-dollar incentive in yesterday's episode, the other side went crazy and started going Max.",
+      "claim": "The host says commenters on yesterday's episode pointed out that suddenly after she started talking about Pierre and the billion-dollar incentive, the other side went crazy and started going Max.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10493"
@@ -3535,7 +3529,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:55:47",
       "investigative_direction": "Check English-language coverage of the Brigitte Macron claims before the host's series began.",

@@ -3241,7 +3241,7 @@
       "@id": "C-9629",
       "ref": "C-9629",
       "label": "Host Says TPUSA Raised Something Like 70 Million in the Weeks After Charlie's Death",
-      "claim": "The host says she first heard TPUSA made 70 million in the couple of weeks after Charlie's death, and that the figure has gone up since.",
+      "claim": "The host says she thinks she first heard TPUSA made something like 70 million in the couple of weeks after Charlie's death, and that the figure has gone up since.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -3580,7 +3580,7 @@
       "@type": "Claim",
       "@id": "C-9644",
       "ref": "C-9644",
-      "label": "Host Says TPUSA Said Charlie Died Instantly Yet He Went Into Surgery",
+      "label": "Host Says People Asked How Charlie Went Into Surgery After Being Told He Died Instantly",
       "claim": "The host says people asked how Charlie went into surgery given the explanation that he died instantly, and that maybe he still had a pulse.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3637,8 +3637,7 @@
       "transcript_snippet": "We can't offer you cannot offer you health insurance in the first year.",
       "mentions_person_refs": [
         "N-3",
-        "N-30",
-        "N-68"
+        "N-30"
       ]
     }
   ],

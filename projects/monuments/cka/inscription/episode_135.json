@@ -171,13 +171,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2222",
       "family_ref": "A-2222",
-      "bundle_name": "Lozi Center Witness Recording Bundle",
+      "bundle_name": "Losee Center Witness Recording Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2222.1",
           "ref": "A-2222.1",
-          "description": "Audio recording of witness observing a person on the Lozi Center rooftop via military crawling into position before the \"bang\"; witness does not state seeing a firearm",
+          "description": "Audio recording of witness observing a person on the Losee Center rooftop via military crawling into position before the \"bang\"; witness does not state seeing a firearm",
           "related_claims": [
             "C-3185",
             "C-3187"
@@ -495,9 +495,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10769",
       "ref": "N-10769",
-      "name": "Lozi Center Gun Verification Gap",
+      "name": "Losee Center Gun Verification Gap",
       "type": "investigation_target",
-      "description": "Persistent absence of eyewitness confirmation that any firearm was visible on the Lozi Center rooftop; the witness recording (A-2222.1) describes only military crawling and positioning without mentioning a gun.",
+      "description": "Persistent absence of eyewitness confirmation that any firearm was visible on the Losee Center rooftop; the witness recording (A-2222.1) describes only military crawling and positioning without mentioning a gun.",
       "related_artifacts": [
         "A-2222.1"
       ],
@@ -1694,7 +1694,7 @@
       "@id": "C-3185",
       "ref": "C-3185",
       "label": "Witness recording absence of gun mention",
-      "claim": "Per the witness recording played in the episode, the witness observes a person running and getting into position on the Lozi Center rooftop but does not state seeing a firearm.",
+      "claim": "Per the witness recording played in the episode, the witness observes a person running and getting into position on the Losee Center rooftop but does not state seeing a firearm.",
       "anchored_artifacts": [
         "A-2222.1"
       ],
@@ -1733,7 +1733,7 @@
       "@id": "C-3187",
       "ref": "C-3187",
       "label": "Host concurrence: no gun observed on rooftop",
-      "claim": "Host concurs with the witness recording's omission of any gun mention and asserts that the idea of a gun on the Lozi Center rooftop is \"narrative, not a fact.\"",
+      "claim": "Host concurs with the witness recording's omission of any gun mention and asserts that the idea of a gun on the Losee Center rooftop is \"narrative, not a fact.\"",
       "anchored_artifacts": [
         "A-2222.1"
       ],
@@ -1742,7 +1742,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:41:24",
-      "investigative_direction": "Cross-reference with other rooftop witness accounts; obtain Lozi Center surveillance footage if available.",
+      "investigative_direction": "Cross-reference with other rooftop witness accounts; obtain Losee Center surveillance footage if available.",
       "mentions_person_refs": [
         "N-1"
       ]

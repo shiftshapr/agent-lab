@@ -806,7 +806,7 @@ The clip of his backstage account of Kirk.
 
 **N-229** Allie Beth Stuckey
 
-Transcribed Ali Stucky; mentioned among critics who tried to debunk the host.
+Transcribed Allie Beth Stuckey; mentioned among critics who tried to debunk the host.
 
 *Related: C-9719*
 
@@ -911,7 +911,7 @@ Persistent target: the host's unnamed female donor who allegedly yelled at Charl
 
 Claim Timestamp: 00:04:04
 
-Claim: During an appearance on Megyn Kelly's tour, Ben Shapiro asserted that Candace Owens had accused Erica Kirk of being behind the murder of Charlie Kirk.
+Claim: The host says that, during an appearance on Megyn Kelly's tour, Ben Shapiro asserted that Candace Owens had accused Erica Kirk of being behind the murder of Charlie Kirk.
 
 Anchored Artifacts: A-1379.1
 Mentions: N-2, N-46, N-97, N-3, N-1
@@ -923,7 +923,7 @@ Investigative Direction: Obtain an unedited copy of the Kelly tour Q&A or tour r
 
 **C-1668** Megyn Kelly publicly stated on her tour that Candace has been defending Erica Kirk
 
-Claim Timestamp: 00:05:38
+Claim Timestamp: 00:04:55
 
 Claim: During a Q&A on her tour, Megyn Kelly stated that she had since learned Candace Owens had not accused Erica Kirk of murder and that Candace has been specifically defending Erica Kirk.
 
@@ -984,7 +984,7 @@ Claim Timestamp: 00:32:57
 Claim: The host says the previously anonymous older man seen near a bush at the UVU amphitheater before Charlie Kirk arrived is Butch Hibbs, citing a clip in which Frank Turek identifies Butch Hibbs as the brother of Pastor Jack Hibbs.
 
 Anchored Artifacts: A-1383.1, A-1384.1
-Mentions: N-7, N-248, N-1
+Mentions: N-7, N-248, N-1, N-210
 
 Related Nodes: N-10244
 
@@ -1068,7 +1068,7 @@ Investigative Direction: Obtain the filed complaint and docket from the relevant
 
 Claim Timestamp: 00:37:38
 
-Claim: A September 14, 2025 X post by Hen Mazig described the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.
+Claim: Per the lawsuit the host reads, a September 14, 2025 X post by Hen Mazig described the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.
 
 Anchored Artifacts: A-1385.2
 Mentions: N-250
@@ -1082,7 +1082,7 @@ Investigative Direction: Verify the original Hen Mazig post via archived snapsho
 
 Claim Timestamp: 00:37:38
 
-Claim: Elijah Schaefer responded to the Hen Mazig X post by posting a photograph of Alexis Wilkins and Kash Patel.
+Claim: Per the lawsuit the host reads, Elijah Schaefer responded to the Hen Mazig X post by posting a photograph of Alexis Wilkins and Kash Patel.
 
 Anchored Artifacts: A-1385.3
 Mentions: N-69, N-214, N-249, N-250
@@ -1178,7 +1178,7 @@ Claim: Megyn Kelly says that when Ben Shapiro said Candace Owens claimed Erika K
 Transcript Snippet: which I had not heard and I was taken back because that seems like something I would have heard.
 
 Anchored Artifacts: A-1379.1
-Mentions: N-46, N-97, N-2, N-1
+Mentions: N-46, N-97, N-3, N-2, N-1
 Related Nodes: N-10237
 Supports: C-1667
 Tags: relevance:core
@@ -1212,8 +1212,8 @@ Claim: In the Dave Rubin clip played by the host, Rubin says he and Candace Owen
 Transcript Snippet: We were great friends for a long time. She has been to this house for dinner.
 
 Anchored Artifacts: A-1380.1
-Mentions: N-32, N-3, N-97
-Tags: relevance:context
+Mentions: N-32, N-3
+Tags: relevance:tangential
 Investigative Direction: Obtain the full Dave Rubin segment and its date to confirm the wording.
 
 ---
@@ -1229,7 +1229,7 @@ Transcript Snippet: I can fact check true. I have been to his house for dinner a
 Anchored Artifacts: A-1380.1
 Mentions: N-3, N-32
 Supports: C-9702
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Corroborate with Rubin or third parties who attended; low-stakes and confirmable by either party.
 
 ---
@@ -1243,7 +1243,7 @@ Claim: The host says Megyn Kelly did not invite Ben Shapiro to a debate but invi
 Transcript Snippet: She did not invite him to have a debate. She invited him to come on her tour and to introduce, you know, to to have him in front of her audience
 
 Anchored Artifacts: 
-Mentions: N-46, N-97, N-32
+Mentions: N-46, N-97
 Tags: relevance:context
 Investigative Direction: Ask Kelly's team for the invitation terms for the Shapiro appearance.
 
@@ -1253,7 +1253,7 @@ Investigative Direction: Ask Kelly's team for the invitation terms for the Shapi
 
 Claim Timestamp: 00:08:35
 
-Claim: The host says that after Charlie Kirk died only she, Tucker Carlson and Megyn Kelly said something was going on, that Kirk felt a lot of peer pressure in the weeks before his death, and that Zionists claimed this was all a lie.
+Claim: The host says that after Charlie Kirk died it was basically only she, Tucker Carlson and Megyn Kelly saying something was going on, that Kirk felt a lot of peer pressure in the weeks before his death, and that Zionists claimed this was all a lie.
 
 Transcript Snippet: And he was feeling a lot of peer pressure in the weeks leading up to his death. And Zionists were claiming that's all a lie.
 
@@ -1733,7 +1733,7 @@ Transcript Snippet: More tips at candacewowens. com. Beyond that, I would like t
 
 Anchored Artifacts: A-3027.3
 Mentions: N-3
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Receive tips sent to the address.
 
 ---
@@ -1926,7 +1926,7 @@ Transcript Snippet: Like you left your wife, you've been with this girl for like
 Anchored Artifacts: A-1386.1
 Mentions: N-69, N-214
 Related Nodes: N-10245
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check public reporting on Patel's marital status and the start of the relationship.
 
 ---
@@ -2038,7 +2038,7 @@ Claim: The host says Rob McCoy ran the school the commenter mentioned, which she
 Transcript Snippet: Rob McCoy ran that school. He ran Little Oaks. It's like a boarding school.
 
 Anchored Artifacts: A-3028.1
-Mentions: N-17, N-192
+Mentions: N-17
 Related Nodes: N-11234
 Tags: relevance:context
 Investigative Direction: Check school leadership records for Rob McCoy and the school's actual name and type.
@@ -2054,7 +2054,7 @@ Claim: The host says Calvary Chapel outright purchased the Christian Academy in 
 Transcript Snippet: Outright purchased uh the Christian Academy in 2009, I believe it was.
 
 Anchored Artifacts: A-1388.1
-Mentions: N-17
+Mentions: 
 Related Nodes: N-11234, N-10248
 Tags: relevance:context
 Investigative Direction: Locate the news article and county or corporate records of the purchase.
@@ -2121,7 +2121,7 @@ Anchored Artifacts: A-1389.1
 Mentions: N-27, N-3
 Related Nodes: N-10004
 Qualifies: C-1681
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Retrieve the original tweet and Kanye's follow-up explanations to settle the exact wording.
 
 ---
@@ -2137,7 +2137,7 @@ Transcript Snippet: I think he was talking about some Zionists in Hollywood and 
 Anchored Artifacts: A-1389.1
 Mentions: N-27, N-3
 Related Nodes: N-10004, N-11121
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review Kanye's contemporaneous statements about who he was referring to.
 
 ---
@@ -2153,7 +2153,7 @@ Transcript Snippet: you guys have toyed with me and tried to blackball anyone wh
 Anchored Artifacts: A-1389.1
 Mentions: N-27
 Related Nodes: N-10004
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Retrieve the archived tweet text.
 
 ---

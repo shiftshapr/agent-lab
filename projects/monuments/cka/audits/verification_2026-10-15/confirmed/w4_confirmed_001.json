@@ -1,0 +1,474 @@
+[
+ {
+  "claim": "C-4993",
+  "episode": 36,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that on December 18, 2024, Tom Clare sent a follow-up email about the cease and desist to the same unmonitored box, so she again did not receive it.",
+   "names": [
+    {
+     "wrong": "Tom Claire",
+     "right": "Tom Clare",
+     "source": "https://en.wikipedia.org/wiki/Tom_Clare_(lawyer)"
+    }
+   ]
+  },
+  "note": "Tom Clare of Clare Locke is the Macrons' counsel; confirmed via CNN/France24 web search."
+ },
+ {
+  "claim": "C-1768",
+  "episode": 37,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Kash Patel not referred to in the claim."
+ },
+ {
+  "claim": "C-1773",
+  "episode": 37,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Kash Patel not referred to in the claim."
+ },
+ {
+  "claim": "C-1775",
+  "episode": 37,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Kash Patel not referred to in the claim."
+ },
+ {
+  "claim": "C-1776",
+  "episode": 37,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a news clip the host plays, a reporter says Nebraska Secretary of State Bob Evnen is inviting business and industry leaders to a trade and investment mission to Egypt, currently scheduled for October 26 through November 2 with dates subject to change; the host says it was announced on or around July 22, 2025.",
+   "names": [
+    {
+     "wrong": "Bob Evan",
+     "right": "Bob Evnen",
+     "source": "https://sos.nebraska.gov/2025-trade-and-investment-mission-egypt-and-israel"
+    }
+   ]
+  },
+  "note": "Clip is a reporter; dates subject to change. Bob Evnen confirmed on sos.nebraska.gov and press coverage."
+ },
+ {
+  "claim": "C-1780",
+  "episode": 37,
+  "decision": "accept",
+  "fix": {
+   "claim": "Ashley Rindsberg, writing for The Free Press, emailed Candace Owens requesting comment on a piece about the \"economics of high engagement political content on YouTube and podcast platforms,\" specifically referencing claims about Israel, the death of Charlie Kirk, and the Becoming Brigitte series, along with five business-metric questions.",
+   "names": [
+    {
+     "wrong": "Ashley Rinzberg",
+     "right": "Ashley Rindsberg",
+     "source": "https://www.thefp.com/w/ashley-rindsberg"
+    }
+   ]
+  },
+  "note": "Ashley Rindsberg confirmed (thefp.com author page; his X post about reaching out to Owens)."
+ },
+ {
+  "claim": "C-9778",
+  "episode": 37,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that during SU-BTT's roughly six-day Nebraska stretch, on July 22, Nebraska Secretary of State Bob Evnen announced a trade and investment delegation to Cairo, Egypt.",
+   "names": [
+    {
+     "wrong": "Bob Evan",
+     "right": "Bob Evnen",
+     "source": "https://sos.nebraska.gov/2025-trade-and-investment-mission-egypt-and-israel"
+    }
+   ]
+  },
+  "note": "Bob Evnen confirmed via sos.nebraska.gov."
+ },
+ {
+  "claim": "C-9779",
+  "episode": 37,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ },
+ {
+  "claim": "C-9812",
+  "episode": 37,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Free Press writer Ashley Rindsberg, who sent her the email, lives in Tel Aviv.",
+   "names": [
+    {
+     "wrong": "Ashley Rinzberg",
+     "right": "Ashley Rindsberg",
+     "source": "https://www.thefp.com/w/ashley-rindsberg"
+    }
+   ]
+  },
+  "note": "Ashley Rindsberg confirmed via thefp.com."
+ },
+ {
+  "claim": "C-1781",
+  "episode": 38,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-381",
+    "N-82",
+    "N-1"
+   ]
+  },
+  "note": "Poussard is only in the tweet, not the claim."
+ },
+ {
+  "claim": "C-1783",
+  "episode": 38,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:13:06",
+   "claim": "Per the article by Freddy Ponton the host reads, the hesitation to dismiss Owens's allegations does not come from trust in her but from history; the host then says, from the Wikipedia page, that the Safari Club was a covert alliance of intelligence services formed in 1976.",
+   "mentions": [
+    "N-286",
+    "N-3"
+   ]
+  },
+  "note": "Fix right; claim names Owens, so add N-3."
+ },
+ {
+  "claim": "C-1790",
+  "episode": 38,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a source told her a foreign dignitary was escorted from the hangar to 920 North King Street in Wilmington, Delaware, which she says they learned and confirmed had three federal agencies working together in one building and also houses the attorneys filing her paperwork in the Brigitte lawsuit."
+  },
+  "note": "Federal-agencies statement is the host's own ('we learned and confirmed')."
+ },
+ {
+  "claim": "C-1792",
+  "episode": 38,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:29:25"
+  },
+  "note": "Founding/descent read at ~29:30."
+ },
+ {
+  "claim": "C-1793",
+  "episode": 38,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim does not refer to Pierre S. du Pont."
+ },
+ {
+  "claim": "C-1794",
+  "episode": 38,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Hervé Hoppenot, a French national, was the long-time CEO of Incyte and seems to have just exited as CEO but is still running the company as advisor to the CEO.",
+   "names": [
+    {
+     "wrong": "Hervé Hopineau",
+     "right": "Hervé Hoppenot",
+     "source": "https://investor.incyte.com/news-releases/news-release-details/incyte-names-herve-hoppenot-president-and-chief-executive"
+    }
+   ]
+  },
+  "note": "Host's own commentary; Hervé Hoppenot confirmed via Incyte releases."
+ },
+ {
+  "claim": "C-1801",
+  "episode": 38,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host reads an email Eric Bolling sent to her PR saying, \"Tell Candace I meant no harm to her. It was that Alex guy who kept at it. He tried to corner me\"; earlier in the episode she says the email blamed Adam Sosnick, whose name Bolling did not know."
+  },
+  "note": "Not knowing the name is host's 50:56 statement, not email; keep it attributed to her."
+ },
+ {
+  "claim": "C-10914",
+  "episode": 38,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-82"
+   ]
+  },
+  "note": "Claim names Brigitte Macron."
+ },
+ {
+  "claim": "C-10922",
+  "episode": 38,
+  "decision": "reject",
+  "fix": {},
+  "note": "Still the source email: host continues 'Now, he gets back into the crane location'; original 'reads a source email' is right."
+ },
+ {
+  "claim": "C-10925",
+  "episode": 38,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Hervé Hoppenot is directly responsible for the Bracebridge construction and finalized the deal, and that a few months before Charlie Kirk's death he switched roles and began laying low.",
+   "label": "Host Says Hoppenot Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death",
+   "names": [
+    {
+     "wrong": "Hervé Hopineau",
+     "right": "Hervé Hoppenot",
+     "source": "https://investor.incyte.com/news-releases/news-release-details/incyte-names-herve-hoppenot-president-and-chief-executive"
+    }
+   ]
+  },
+  "note": "Hervé Hoppenot confirmed via Incyte releases."
+ },
+ {
+  "claim": "C-10942",
+  "episode": 38,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-40",
+    "N-22"
+   ]
+  },
+  "note": "Kolvet not referred to in the claim."
+ },
+ {
+  "claim": "C-1803",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a Vanity Fair article the host reads, Robert Richards IV was convicted in 2009 of raping his three-year-old daughter, seven years after the child reported the abuse."
+  },
+  "note": "Host reads it from Vanity Fair."
+ },
+ {
+  "claim": "C-1805",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a News Journal description the host reads, Robert H. Richards III, father of Robert Richards IV, is a retired partner at the Richards Layton & Finger law firm."
+  },
+  "note": "Detail is within the News Journal quote."
+ },
+ {
+  "claim": "C-1812",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Erika Kirk not in claim or comments."
+ },
+ {
+  "claim": "C-1814",
+  "episode": 39,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says, allegedly, that six people at Turning Point USA told her a rumor that Justin Streiff placed an immediate call to a donor prospect on the day of Charlie Kirk's assassination; she says these sources told her the donor had a piece of a billion-dollar company on the hook for TPUSA, with an anticipated IPO.",
+   "timestamp": "00:27:25"
+  },
+  "note": "Donor detail is what 'these ladies told me'; attribute to sources."
+ },
+ {
+  "claim": "C-1816",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that after she presented the DuPont family material the previous day, the same TPUSA sources messaged her \"Oh, you figured it out. It's Pierre Dupont\"; she says she would like a clean answer as to whether the donor is Mr. Pierre Dupont.",
+   "timestamp": "00:30:35"
+  },
+  "note": "Sources' message and host's request for a clean answer; not confirmed."
+ },
+ {
+  "claim": "C-1817",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-11"
+   ],
+   "claim": "The host says, relaying what one of her sleuths told her, that Tyler Bowyer had apparently begun telling people TPUSA plans to roll out a program to build houses for first-time home buyers, leveraging TPUSA's position with young Christians as an audience; she says the person presented some proof."
+  },
+  "note": "Brother not in claim; 'apparently' restored."
+ },
+ {
+  "claim": "C-10954",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads from the Vanity Fair article that critics have noted the treatment Judge Jan Jordan ordered for Robert Richards IV is usually offered only to drug addicts or those in possession of child pornography, not to convicted rapists."
+  },
+  "note": "Judge Jordan ordered treatment for Richards per the article; mentions now referenced."
+ },
+ {
+  "claim": "C-10974",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-3"
+   ]
+  },
+  "note": "Claim does not refer to Charlie Kirk."
+ },
+ {
+  "claim": "C-10978",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Bob Evan",
+     "right": "Bob Evnen",
+     "source": "https://sos.nebraska.gov/2025-trade-and-investment-mission-egypt-and-israel"
+    }
+   ]
+  },
+  "note": "Bob Evnen confirmed via sos.nebraska.gov."
+ },
+ {
+  "claim": "C-10998",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie."
+ },
+ {
+  "claim": "C-11003",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ },
+ {
+  "claim": "C-1827",
+  "episode": 40,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-306",
+    "N-3"
+   ]
+  },
+  "note": "Claim names Candace."
+ },
+ {
+  "claim": "C-1828",
+  "episode": 40,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Erika Kirk not referred to."
+ },
+ {
+  "claim": "C-1829",
+  "episode": 40,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Erika not referred to, but claim refers to the host (Owens) outside a 'The host says' frame; list N-3."
+ },
+ {
+  "claim": "C-1830",
+  "episode": 40,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5",
+    "N-381"
+   ]
+  },
+  "note": "Claim names Macron."
+ },
+ {
+  "claim": "C-5123",
+  "episode": 40,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-60",
+    "N-1"
+   ]
+  },
+  "note": "Josh Hammer not in claim."
+ },
+ {
+  "claim": "C-1832",
+  "episode": 41,
+  "decision": "accept",
+  "fix": {
+   "claim": "TPUSA's Blake Neff issued a tweet near midnight on December 4, 2025 announcing a formal response livestream scheduled for December 15, 2025 at 4:00 PM Eastern / 2:00 PM local in Phoenix, with a 24-hour countdown for Candace to confirm in-person attendance.",
+   "mentions": [
+    "N-3",
+    "N-161"
+   ]
+  },
+  "note": "Tweet says 4:00 PM Eastern, 2:00 PM local; Candace named, Kirk not."
+ },
+ {
+  "claim": "C-1833",
+  "episode": 41,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-161"
+   ]
+  },
+  "note": "Kirk not referred to."
+ },
+ {
+  "claim": "C-1834",
+  "episode": 41,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:16:50",
+   "mentions": [
+    "N-720"
+   ]
+  },
+  "note": "Tweet read ~16:55; El-Sisi named."
+ },
+ {
+  "claim": "C-1835",
+  "episode": 41,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025, which she cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.",
+   "mentions": [
+    "N-3",
+    "N-720",
+    "N-308"
+   ]
+  },
+  "note": "Host's own statement at ~17:40; El-Sisi named."
+ }
+]

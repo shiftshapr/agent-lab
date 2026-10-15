@@ -1,0 +1,225 @@
+[
+ {
+  "claim": "C-7997",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Wilmington used to have a Dassault Falcon authorized service center but it shut down around 2021, before the 2024 SATYS announcement.",
+   "names": [
+    {
+     "wrong": "SATIDS",
+     "right": "SATYS",
+     "source": "https://www.areadevelopment.com/newsItems/12-30-2024/satys-new-castle-delaware.shtml"
+    }
+   ]
+  },
+  "note": "Host spells S-A-T-Y-S; Satys Aerospace lease of former Dassault hangar confirmed (Area Development, DRBA Res. 24-04)."
+ },
+ {
+  "claim": "C-7999",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads the email saying SUBTT's timeline shows it traveled to France before the SATYS deal was made, so if SUBTT has been doing this run for decades, a 2024 French finishing lease could not be its maintenance justification, and calls the maintenance story a cover.",
+   "label": "Email Says SUBTT Traveled to France Before the SATYS Deal Existed",
+   "names": [
+    {
+     "wrong": "SATIDS",
+     "right": "SATYS",
+     "source": "https://www.areadevelopment.com/newsItems/12-30-2024/satys-new-castle-delaware.shtml"
+    }
+   ]
+  },
+  "note": "Conditional restored per transcript at 14:22; Satys name confirmed."
+ },
+ {
+  "claim": "C-8023",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-219"
+   ]
+  },
+  "note": "Claim refers only to Elizabeth McCoy; Mikey is not in the claim."
+ },
+ {
+  "claim": "C-8031",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-268",
+    "N-7",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "\"Charlie's team\" refers to Charlie Kirk."
+ },
+ {
+  "claim": "C-8034",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-268",
+    "N-3"
+   ]
+  },
+  "note": "Shawn Ryan not referred to in the claim."
+ },
+ {
+  "claim": "C-8037",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-270"
+   ]
+  },
+  "note": "Claim names only Rogan; Theo Von not referred to."
+ },
+ {
+  "claim": "C-8041",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the Rogan and Von clip, one speaker asks whether the Macrons are suing her, and a speaker says he thinks they are at least threatening a lawsuit for something like 50 million dollars.",
+   "label": "Clip: Speaker Says the Macrons Are Threatening a $50 Million Lawsuit"
+  },
+  "note": "Speakers unlabeled in transcript; Rogan vs Von attribution not confirmable."
+ },
+ {
+  "claim": "C-8042",
+  "episode": 35,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-381",
+    "N-82"
+   ]
+  },
+  "note": "Rogan/Von not named, but claim clearly refers to the French president (Emmanuel Macron) and his teacher (Brigitte Macron)."
+ },
+ {
+  "claim": "C-8060",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-279",
+    "N-69"
+   ],
+   "relevance": "tangential"
+  },
+  "note": "Claim names Kash Patel; YouTube music copyright claim is tangential."
+ },
+ {
+  "claim": "C-8062",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she believes a MK Ultra experiment she had been discussing looked very much like prisoner 2093 could have been Jean-Michel Trogneux, and that she did not think there could be a connection to the killing.",
+   "names": [
+    {
+     "wrong": "Jean Michelle Tro",
+     "right": "Jean-Michel Trogneux",
+     "source": "https://podcasts.happyscribe.com/candace/becoming-brigitte-mk-ultra-and-the-french-gold-rush"
+    }
+   ]
+  },
+  "note": "Owens' Prisoner 2093 = Jean-Michel Trogneux theory confirmed by web search (HappyScribe, Liberty Beacon)."
+ },
+ {
+  "claim": "C-1761",
+  "episode": 36,
+  "decision": "accept",
+  "fix": {
+   "claim": "Displayed legal-team communication says they will likely move to dismiss or stay the Macron lawsuit as inconvenient to litigate in Delaware, citing that the host is in Tennessee, her Delaware companies did not defame anyone, the witnesses are in Tennessee, and the Macrons are not citizens of Delaware.",
+   "mentions": [
+    "N-3",
+    "N-82",
+    "N-381"
+   ]
+  },
+  "note": "Matches lawyer's wording at 18:38; 'forum non conveniens' not said; Macrons referred to."
+ },
+ {
+  "claim": "C-1762",
+  "episode": 36,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-268",
+    "N-272",
+    "N-273"
+   ]
+  },
+  "note": "Shawn Ryan not referred to in the claim."
+ },
+ {
+  "claim": "C-1763",
+  "episode": 36,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Brian Harpole presents what the host says is a text exchange between Dan Flood and Chief Long about student roof access (Sorenson Center staircases to walkways/roofs near the CK setup), asking for either controlled access or one of his guys to be there, with Chief Long's last reply \"I got you covered.\"",
+   "mentions": [
+    "N-268",
+    "N-272",
+    "N-273"
+   ]
+  },
+  "note": "Matches clip wording; Harpole named so added."
+ },
+ {
+  "claim": "C-1764",
+  "episode": 36,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40"
+   ]
+  },
+  "note": "Claim names the office and Robinson, not Sheriff Brooksby."
+ },
+ {
+  "claim": "C-1765",
+  "episode": 36,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ },
+ {
+  "claim": "C-1767",
+  "episode": 36,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-37",
+    "N-9"
+   ]
+  },
+  "note": "Claim names Bill Ackman and refers to Epstein."
+ },
+ {
+  "claim": "C-4978",
+  "episode": 36,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-22",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie Kirk."
+ }
+]

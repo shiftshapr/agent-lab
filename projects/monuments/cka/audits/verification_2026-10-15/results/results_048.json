@@ -1,0 +1,787 @@
+[
+ {
+  "claim": "C-10871",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10872",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10873",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10874",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10875",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10876",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10877",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10878",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10879",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10880",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10881",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Clip is the interviewee with Butch Hibbs in background; claim names Butch Hibbs but Mentions omits N-248.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-248"
+   ]
+  }
+ },
+ {
+  "claim": "C-10882",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10883",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"that feels to me like they are fearful\"; claim drops the hedge \"feels to me\".",
+  "fix": {
+   "claim": "The host says critics take her out of context and pretend she is doing all of this on the basis of a dream and never had evidence, which she says feels to her like they are fearful."
+  }
+ },
+ {
+  "claim": "C-10884",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10885",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10886",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10887",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10888",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10889",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Comment read is only \"The fentanyl crisis is by design allegedly\"; \"Uh yeah, our boys were guarding the poppy fields...\" is the host responding, not the comment.",
+  "fix": {
+   "claim": "Responding to a viewer comment that the fentanyl crisis is by design, allegedly, the host says US troops were guarding the poppy fields in Afghanistan, then an opioid crisis came, and the Sackler family seems to be the only ones who benefited."
+  }
+ },
+ {
+  "claim": "C-10890",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "material": true,
+  "note": "Snippet \"I also said to you that I would address who yelled at Charlie...\" is not in the window (ends ~59:50 mid \"I'm not going to go off on a ra...\"); content is >90s after 58:20.",
+  "fix": {
+   "timestamp": "00:59:45"
+  }
+ },
+ {
+  "claim": "C-1716",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1717",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1718",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1719",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Mark, the host, tail SUBND and Duncan Aviation; Charlie and Erika (N-1, N-2) are not named, and the host (N-3) repeats the times.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-67",
+    "N-262"
+   ]
+  }
+ },
+ {
+  "claim": "C-1720",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"68 overlaps\" is said ~17:00; claim starts 14:51 (~2 min early). Discovery is credited to a \"pregnant mommy sleuth\"; host says \"I am showing you this on a spreadsheet\", not that she prepared it.",
+  "fix": {
+   "claim": "A spreadsheet the host shows, built on research by a viewer she calls a \"mommy sleuth\", displays 68 overlap instances (the host later says she has added more, making 73) between Egyptian aircraft SUBND/SUBTT and Erika Kirk's documented locations between 2022 and September 2025, with 29 of those instances also involving Charlie Kirk.",
+   "timestamp": "00:16:55"
+  }
+ },
+ {
+  "claim": "C-1721",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"29 of those instances also happened to include Charlie\" said ~17:10; claim 17:49 is ~35s late. Claim does not name Erika (N-2).",
+  "fix": {
+   "timestamp": "00:17:05",
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1722",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names no person; N-2 is not named or referred to.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-1723",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1724",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Kolvet, Tucker Carlson and the host (\"her\"); N-1 and N-2 are not named.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-14",
+    "N-22"
+   ]
+  }
+ },
+ {
+  "claim": "C-1725",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1726",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1727",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name Duncan Aviation (N-262); it lists plates and vehicles only.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-1728",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names no person; N-2 (Erika Kirk) is not named.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-1729",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names no person; N-2 (Erika Kirk) is not named.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-1730",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie Kirk only; N-2 not named.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1731",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"he clarifies that Turning Point USA actually decreased their staff... by 33%\"; she relays the video's claim and agrees. Claim presents it as her own; N-2 not named.",
+  "fix": {
+   "claim": "The host says the \"Wolves and Finance\" video, which she did not show, states that Turning Point USA's 501(c)(3) arm cut staff by 33% while the cost of salaries went up, which she agrees looks suspicious.",
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-1732",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Only the video presenter says Erika became CEO on Sept 18; host does not confirm the date. Line spoken ~42:30, claim 42:57 is ~28s late.",
+  "fix": {
+   "claim": "In the \"Wolves and Finance\" video the host plays, the presenter says Erika Kirk assumed the role of CEO of Turning Point USA on September 18, 2025, 8 days after Charlie Kirk was murdered.",
+   "timestamp": "00:42:25"
+  }
+ },
+ {
+  "claim": "C-1733",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1734",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name Duncan Aviation (N-262).",
+  "fix": {
+   "mentions": [
+    "N-67"
+   ]
+  }
+ },
+ {
+  "claim": "C-3648",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"The decentralized intelligence agency is going to solve this thing\" (YouTubers, mommy sleuths emailing). \"crowd-sourced tip network opposing centralized intel\" is added.",
+  "fix": {
+   "claim": "The host tells YouTubers and mommy sleuths to keep sending emails and says the \"decentralized intelligence agency\" is going to solve this."
+  }
+ },
+ {
+  "claim": "C-3649",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3701",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3735",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"ostensibly, the answer is because he had an interview\"; hedge dropped. Content is ~12:50-13:10, claim range starts 10:59 (~2 min early).",
+  "fix": {
+   "claim": "Host states that Charlie Kirk flew into Salt Lake City rather than the closer Provo airport on September 10, ostensibly because of a morning \"restaurantology\" interview with Andrew K. Smith, whom she describes as a managing director of a restaurant fund that nobody really knows.",
+   "timestamp": "00:12:50"
+  }
+ },
+ {
+  "claim": "C-12350",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12351",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12352",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12353",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12354",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12355",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12356",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12357",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12358",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12359",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12360",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"they sent mother mocking bird out, Ben Shapiro\" (\"they\" = the \"nest of mocking birds\"); \"TPUSA-aligned influencers\" is added.",
+  "fix": {
+   "claim": "The host says that after her plane work, the \"nest of mocking birds\" \"sent mother mocking bird out, Ben Shapiro\" to make the same allegation that she had said something specifically about Erika when she had not."
+  }
+ },
+ {
+  "claim": "C-12361",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12362",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12363",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12364",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12365",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Andrew K. Smith (N-266).",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-12366",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

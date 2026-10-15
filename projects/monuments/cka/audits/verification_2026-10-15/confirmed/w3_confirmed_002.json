@@ -1,0 +1,497 @@
+[
+ {
+  "claim": "C-1697",
+  "episode": 32,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Brett Cooper says, citing a 2010 financial document, that Mr. Spears at times gave 10% of his conservatorship income to Calvary Chapel Brentwood, and \"tens of thousands of dollars\" in one year.",
+   "mentions": [
+    "N-254",
+    "N-223"
+   ]
+  },
+  "note": "Cooper reads 'at times gave 10%'; Lou Taylor not named in claim."
+ },
+ {
+  "claim": "C-1698",
+  "episode": 32,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Brett Cooper reads an LA Times headline saying Britney Spears's lawyer emails show her ex-business manager (Lou Taylor) helped set up the conservatorship.",
+   "mentions": [
+    "N-878",
+    "N-252",
+    "N-223"
+   ]
+  },
+  "note": "Headline is read by Brett Cooper in her clip (host resumes at 12:38); attribution added to match N-223."
+ },
+ {
+  "claim": "C-1699",
+  "episode": 32,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Brett Cooper reads a Daily Mail headline saying Britney Spears accuses her father Jaime of having an affair with her ex-business manager Lou Taylor and claims he charged her estate for the pair's trip to the Holy Land to get baptized.",
+   "mentions": [
+    "N-878",
+    "N-254",
+    "N-252",
+    "N-223"
+   ]
+  },
+  "note": "Daily Mail headline is read by Brett Cooper in her clip, not the host; Britney added."
+ },
+ {
+  "claim": "C-1700",
+  "episode": 32,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Brett Cooper says The New Yorker reported that Lou Taylor also tried to place Courtney Love and Lindsay Lohan into conservatorships.",
+   "mentions": [
+    "N-223",
+    "N-252",
+    "N-255",
+    "N-256"
+   ],
+   "timestamp": "00:12:27"
+  },
+  "note": "Fix right; New Yorker line is the end of the 12:02 block (~12:32), so 12:38 is late."
+ },
+ {
+  "claim": "C-1702",
+  "episode": 32,
+  "decision": "accept",
+  "fix": {
+   "label": "Insider Email Alleges Lou Taylor and Rob Taylor's Church Is a Front with Intelligence Links",
+   "claim": "Per a partially redacted email the host reads, the sender says Rob and Lou Taylor's church is a front for \"them and Aruse\" (uncertain transcription) and suspects Lou Taylor is tied to possibly the CIA and Mossad and to Black Cube security. The host says she has not confirmed it.",
+   "mentions": [
+    "N-252",
+    "N-253"
+   ]
+  },
+  "note": "Email says Rob and Lou Taylor; Thousand Oaks/Blair item is a separate reporter tip. Aruse unresolved."
+ },
+ {
+  "claim": "C-1703",
+  "episode": 32,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:21:25"
+  },
+  "note": "Toddler/Haight-Ashbury line is ~21:30."
+ },
+ {
+  "claim": "C-1704",
+  "episode": 32,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:22:10"
+  },
+  "note": "'I did not kill Kurt Cobain' ~22:12."
+ },
+ {
+  "claim": "C-1705",
+  "episode": 32,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:27:26"
+  },
+  "note": "Mormon mafia line falls ~27:31 by position in the 26:33 block; 27:40 is after it."
+ },
+ {
+  "claim": "C-1706",
+  "episode": 32,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-252",
+    "N-361",
+    "N-874",
+    "N-255"
+   ]
+  },
+  "note": "Claim names Justin Bieber."
+ },
+ {
+  "claim": "C-1709",
+  "episode": 32,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host describes an individual in a maroon shirt who was partially in the bush at the Kirk event; when Charlie went down, everyone ducked but he kept standing, went into and out of the bush and calmly walked away. She says this does not mean he is guilty of anything.",
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Matches 40:22-41:29; Butch Hibbs not referred to."
+ },
+ {
+  "claim": "C-1713",
+  "episode": 32,
+  "decision": "amend",
+  "fix": {
+   "label": "Daily Mail Headline Framed Allie Beth Stuckey as TPUSA \"Heir\"",
+   "claim": "The host says the Daily Mail (Victoria Churchill, whom she calls an APAC reporter) published a headline framing Allie Beth Stuckey as TPUSA's \"heir\" or equivalent.",
+   "mentions": [
+    "N-229",
+    "N-84"
+   ],
+   "names": [
+    {
+     "wrong": "Ali Stucky",
+     "right": "Allie Beth Stuckey",
+     "source": "https://en.wikipedia.org/wiki/Allie_Beth_Stuckey"
+    }
+   ],
+   "timestamp": "00:56:34"
+  },
+  "note": "Name checked (WSJ called Stuckey possible TPUSA successor; she feuded with Owens). Daily Mail line ~56:39."
+ },
+ {
+  "claim": "C-1714",
+  "episode": 32,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:56:58",
+   "mentions": [
+    "N-229"
+   ]
+  },
+  "note": "WSJ remark ~57:00; Erika not named."
+ },
+ {
+  "claim": "C-10881",
+  "episode": 32,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-248"
+   ],
+   "timestamp": "00:46:20"
+  },
+  "note": "Butch Hibbs named; interviewee's caliber quote is ~46:25, so 45:56 is early."
+ },
+ {
+  "claim": "C-10890",
+  "episode": 32,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:58:55"
+  },
+  "note": "By word rate the 'yelled at Charlie' line is ~59:00, not 59:45."
+ },
+ {
+  "claim": "C-1719",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-67",
+    "N-262"
+   ]
+  },
+  "note": "Charlie/Erika not named; host repeats times."
+ },
+ {
+  "claim": "C-1720",
+  "episode": 33,
+  "decision": "amend",
+  "fix": {
+   "claim": "A spreadsheet the host shows, built on research by a viewer she calls a \"mommy sleuth\", displays 68 overlap instances (the host later says she has added more, making 73) between Egyptian aircraft SUBND/SUBTT and Erika Kirk's documented locations between 2022 and September 2025, with 29 of those instances also involving Charlie Kirk.",
+   "timestamp": "00:16:40"
+  },
+  "note": "Claim fix right; 'She discovered...68 overlaps' starts ~16:46, so 16:55 is late."
+ },
+ {
+  "claim": "C-1721",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:17:05",
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "'29 of those instances' ~17:05."
+ },
+ {
+  "claim": "C-1722",
+  "episode": 33,
+  "decision": "amend",
+  "fix": {
+   "mentions": [],
+   "timestamp": "00:17:14"
+  },
+  "note": "No person named; five-states line is ~17:19, before the 17:49 range."
+ },
+ {
+  "claim": "C-1724",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-14",
+    "N-22"
+   ]
+  },
+  "note": "Charlie/Erika not referred to."
+ },
+ {
+  "claim": "C-1727",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim lists plates only."
+ },
+ {
+  "claim": "C-1728",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "No person named."
+ },
+ {
+  "claim": "C-1729",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "No person named."
+ },
+ {
+  "claim": "C-1730",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Only Charlie named."
+ },
+ {
+  "claim": "C-1731",
+  "episode": 33,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the \"Wolves and Finance\" video, which she did not show, states that Turning Point USA's 501(c)(3) arm cut staff by 33% while the cost of salaries went up, which she agrees looks suspicious.",
+   "mentions": [],
+   "timestamp": "00:43:40"
+  },
+  "note": "Claim fix right; staff-cut line starts ~43:45, before the 43:57 range."
+ },
+ {
+  "claim": "C-1732",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the \"Wolves and Finance\" video the host plays, the presenter says Erika Kirk assumed the role of CEO of Turning Point USA on September 18, 2025, 8 days after Charlie Kirk was murdered.",
+   "timestamp": "00:42:25"
+  },
+  "note": "Presenter says it ~42:29; host doesn't confirm date."
+ },
+ {
+  "claim": "C-1734",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-67"
+   ]
+  },
+  "note": "Duncan Aviation not named."
+ },
+ {
+  "claim": "C-3735",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "claim": "Host states that Charlie Kirk flew into Salt Lake City rather than the closer Provo airport on September 10, ostensibly because of a morning \"restaurantology\" interview with Andrew K. Smith, whom she describes as a managing director of a restaurant fund that nobody really knows.",
+   "timestamp": "00:12:50"
+  },
+  "note": "'Ostensibly' hedge restored; content ~12:54."
+ },
+ {
+  "claim": "C-12365",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Andrew K. Smith not named or referred to."
+ },
+ {
+  "claim": "C-1736",
+  "episode": 34,
+  "decision": "amend",
+  "fix": {
+   "label": "A UVU Student Told CNN He Saw a Man on or Near the Losee Center Roof Twice in Two Weeks",
+   "claim": "Per the CNN article the host shows, a UVU student told CNN he observed a tall, thin white male in dark clothing with a backpack on or near the Losee Center roof twice, the last time at noon the Wednesday before the shooting.",
+   "names": [
+    {
+     "wrong": "Lozi Center",
+     "right": "Losee Center",
+     "source": "https://local.sltrib.com/uvu-shooting/"
+    }
+   ]
+  },
+  "note": "Losee Center confirmed (SL Tribune); claim/label now use corrected spelling."
+ },
+ {
+  "claim": "C-1737",
+  "episode": 34,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-268",
+    "N-273"
+   ]
+  },
+  "note": "Harpole and Jeff Long named."
+ },
+ {
+  "claim": "C-1738",
+  "episode": 34,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-161",
+    "N-192"
+   ],
+   "timestamp": "00:32:25"
+  },
+  "note": "Mark Herman not named; 'The shooting occurs' is ~32:30, so 32:10 is too early."
+ },
+ {
+  "claim": "C-1739",
+  "episode": 34,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-161"
+   ]
+  },
+  "note": "Mark Herman not named."
+ },
+ {
+  "claim": "C-1740",
+  "episode": 34,
+  "decision": "accept",
+  "fix": {
+   "label": "Audience Questioner at Rob McCoy's Jerusalem Event Says Carlson and Owens Are Hijacking the Christian Message",
+   "claim": "In a clip the host plays from a Jerusalem event she says was billed as a celebration of Charlie Kirk's life, an audience questioner says Tucker Carlson and Candace Owens are 'essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity'; Rob McCoy answers that it is a great question."
+  },
+  "note": "Quote is the questioner's ('What can we do to push back?')."
+ },
+ {
+  "claim": "C-1743",
+  "episode": 34,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads a post she attributes to Arynne Wexler, whom she describes as the woman at the Hamptons retreat, saying 'Candace started her career by doxing teenagers. Old habits die hard.'",
+   "names": [
+    {
+     "wrong": "Aaron Wexler",
+     "right": "Arynne Wexler",
+     "source": "https://x.com/ArynneWexler/status/2033563508739100938"
+    }
+   ]
+  },
+  "note": "Arynne Wexler confirmed: X account posting about Candace Owens."
+ },
+ {
+  "claim": "C-1744",
+  "episode": 34,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says a flight from Scottsdale to Provo on the day of the assassination, departing at about 8:00 local and landing at about 10:00 local, was on a plane owned by Turning Point USA donor T.W. Lewis, whose foundation website she says lists TPUSA as a recipient.",
+   "names": [
+    {
+     "wrong": "TWW Lewis",
+     "right": "T.W. Lewis",
+     "source": "https://www.liberty.edu/news/2025/11/07/new-t-w-lewis-center-seeks-to-train-next-generation-of-principled-christian-leaders"
+    }
+   ]
+  },
+  "note": "T.W. Lewis Foundation (Tom Lewis, Phoenix area, invited Kirk to ASU) confirmed; source swapped to one I checked."
+ },
+ {
+  "claim": "C-4941",
+  "episode": 34,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host describes Brian Harpole as one of Charlie Kirk's long-term security team members, who on the day was standing front right of Charlie with a bag across him and ran over to him, and says his interview was with Shawn Ryan.",
+   "names": [
+    {
+     "wrong": "Shawn Bryan",
+     "right": "Shawn Ryan",
+     "source": "https://ksltv.com/local-news/security-chief-recounts-charlie-kirk-shot/848360/"
+    }
+   ]
+  },
+  "note": "Harpole on Shawn Ryan Show #254 confirmed."
+ },
+ {
+  "claim": "C-4955",
+  "episode": 34,
+  "decision": "amend",
+  "fix": {
+   "claim": "Neff says that after he called his mother, Mikey McCoy immediately called his dad, Rob McCoy, and told him someone had shot Charlie and he should call all his pastor friends to pray."
+  },
+  "note": "Claim fix right, but transcript already reads 'Rob McCoy'; no 'Robin McCoy' to correct, so names entry dropped."
+ },
+ {
+  "claim": "C-1746",
+  "episode": 35,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:04:05"
+  },
+  "note": "Overnight-stay line starts ~04:09 and departure ~04:14; 04:15 is at/after the content."
+ },
+ {
+  "claim": "C-1750",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a French aircraft finishing company, SATYS, announced in December 2024 it was taking over the shuttered Wilmington airport hangar (formerly a Dassault Falcon authorized center), investing approximately $1M+, and says her team confirmed this.",
+   "label": "Host Says SATYS Announced December 2024 Takeover of Wilmington Airport Hangar",
+   "names": [
+    {
+     "wrong": "SATIDS",
+     "right": "SATYS",
+     "source": "https://www.areadevelopment.com/newsItems/12-30-2024/satys-new-castle-delaware.shtml"
+    }
+   ]
+  },
+  "note": "Host spells S-A-T-Y-S; Satys Wilmington hangar lease confirmed (Delaware Business Times, DRBA)."
+ },
+ {
+  "claim": "C-1751",
+  "episode": 35,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per an email the host reads, which quotes a Delaware River and Bay Authority (DRBA) January 2024 resolution, the DRBA was acquiring rights to a paint hangar currently part of a Dassault leasehold and authorizing execution of a lease with SATYS.",
+   "label": "Per Email Host Reads, DRBA January 2024 Resolution Authorized Paint Hanger Lease to SATYS",
+   "names": [
+    {
+     "wrong": "SATIDS",
+     "right": "SATYS",
+     "source": "https://www.drba.net/sites/default/files/2024-02/RESOLUTION%2024-04%20-%20SATYS.pdf"
+    }
+   ]
+  },
+  "note": "Quote says 'currently part of a Dassault leasehold', not 'formerly'; SATYS confirmed by DRBA Res. 24-04."
+ }
+]

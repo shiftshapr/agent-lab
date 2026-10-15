@@ -1635,7 +1635,8 @@
       "claim_timestamp": "00:51:42–00:52:23",
       "investigative_direction": "Confirm the artist's stated intent against the released song lyrics.",
       "mentions_person_refs": [
-        "N-306"
+        "N-306",
+        "N-3"
       ]
     },
     {
@@ -1652,7 +1653,6 @@
       "claim_timestamp": "00:46:20",
       "investigative_direction": "Locate the Fortune article, capture full byline, and verify publication date.",
       "mentions_person_refs": [
-        "N-2",
         "N-3"
       ]
     },
@@ -1670,7 +1670,7 @@
       "claim_timestamp": "00:47:25",
       "investigative_direction": "Verify the quoted phrasing against the original article and identify the named \"experts.\"",
       "mentions_person_refs": [
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -1689,7 +1689,8 @@
       "claim_timestamp": "00:49:59",
       "investigative_direction": "Locate Macron's released public calendar; confirm the timestamp and any documented subject of the call.",
       "mentions_person_refs": [
-        "N-5"
+        "N-5",
+        "N-381"
       ]
     },
     {
@@ -1873,7 +1874,7 @@
       "@type": "Claim",
       "@id": "C-5071",
       "ref": "C-5071",
-      "label": "Host Alleges Rob McCoy Sanitized a Convicted Sex Offender",
+      "label": "Host Alleges Rob McCoy Sanitized a Man Who Went to Prison Over Photographing Young Girls",
       "claim": "The host alleges that in words she played, Rob McCoy tried to sanitize a person who spent time in prison for trying to take photos of young girls, and says she does not think Rob McCoy is a good guy.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1951,7 +1952,7 @@
       "@id": "C-5075",
       "ref": "C-5075",
       "label": "Host Says Egyptian Jets First Seemed to Follow Charlie, Then TPUSA Faith Events and Erika",
-      "claim": "The host says she first plotted Egyptian jets as following Charlie, then realized they were tracking TPUSA Faith events and followed Erika many more times.",
+      "claim": "The host says she first plotted Egyptian jets as following Charlie, then realized they were tracking TPUSA Faith events and that many more times they were following, and perhaps tracking, Erika.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10253"
@@ -1975,7 +1976,7 @@
       "@id": "C-5076",
       "ref": "C-5076",
       "label": "Host Says Denial of Charlie Wanting Erika to Take Over Is Not a Quotation",
-      "claim": "Responding to TPUSA's line that Charlie wanting Erika to take over is a lie, the host says the denial is not a quotation and is just TPUSA saying so.",
+      "claim": "Responding to TPUSA's line that she accused it of lying about Charlie wanting Erika to take over for him if he died, the host says 'Never happened. That is not a quotation. That is just them saying that.'",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2034,7 +2035,7 @@
       "@id": "C-5079",
       "ref": "C-5079",
       "label": "Host Says Kolvet Said the SD Card Was Taken Because People Were Stealing",
-      "claim": "The host says Andrew Kolvet, sitting next to the TPUSA spokesperson, said the SD card was removed because people were stealing.",
+      "claim": "The host says Andrew Kolvet sat next to the person delivering TPUSA's statement and said the SD card was removed because people were stealing.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10100"
@@ -2808,7 +2809,7 @@
       "@id": "C-5118",
       "ref": "C-5118",
       "label": "Host Says the Pentagon Press Corps Was Remade to Admit New Journalists",
-      "claim": "The host says the Pentagon undertook a press corps makeover to let in new independent, more trusted journalists, naming James O'Keefe and Matt Gaetz as people she considers trusted.",
+      "claim": "The host says the Pentagon undertook a press corps makeover ostensibly to let in new independent, more trusted journalists, saying James O'Keefe is very much trusted and that she likes Matt Gaetz very much.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10064",
@@ -2923,8 +2924,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-60",
-        "N-1",
-        "N-55"
+        "N-1"
       ]
     },
     {
@@ -3011,7 +3011,7 @@
       "@id": "C-5128",
       "ref": "C-5128",
       "label": "Host Alleges the French President Paid $1.5 Million for Her Assassination",
-      "claim": "The host says that, allegedly, the president of France paid $1.5 million for her assassination, and that she has specific information and traceable accounts.",
+      "claim": "The host says that, imagining a call to the government, she would tell them she has specific information and traceable accounts because the president of France allegedly paid $1.5 million for her assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10316"

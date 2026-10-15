@@ -215,7 +215,7 @@
           "@type": "Artifact",
           "@id": "A-1544.2",
           "ref": "A-1544.2",
-          "description": "Charlie Kirk Show segment discussing rooftop access and August 27 vs September 2 location announcement timing; Andrew Seifer identified as head of field",
+          "description": "Charlie Kirk Show segment discussing rooftop access and August 27 vs September 2 location announcement timing; Andrew Sypher identified as head of field",
           "related_claims": [
             "C-1941",
             "C-1954",
@@ -1153,7 +1153,7 @@
       "@type": "Person",
       "@id": "N-333",
       "ref": "N-333",
-      "name": "Andrew Seifer",
+      "name": "Andrew Sypher",
       "type": "person",
       "description": "Identified on Charlie Kirk Show as TPUSA head of field.",
       "related_artifacts": [
@@ -1175,7 +1175,7 @@
       "@type": "Person",
       "@id": "N-334",
       "ref": "N-334",
-      "name": "Greg Schaefer",
+      "name": "Greg Shaffer",
       "type": "person",
       "description": "Operated Shafer Security; Charlie Kirk's initial security company employing Dan Flood and Brian Harpole.",
       "related_artifacts": [
@@ -2730,7 +2730,7 @@
       "@id": "C-1925",
       "ref": "C-1925",
       "label": "Host Says Erika Kirk Confirmed Possession of Charlie's Phone",
-      "claim": "The host says Erika Kirk, in her Glenn Beck interview, confirmed she has Charlie Kirk's phone and that he, like everybody else, primarily used Signal and Telegram for communications.",
+      "claim": "The host says Erika Kirk, in her Glenn Beck interview, said she had Charlie Kirk's phone and that he never texted anybody the night before, and that in the meeting Erika said he, like everybody else, communicates on Signal and Telegram.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -2741,8 +2741,10 @@
       "claim_timestamp": "00:06:18",
       "investigative_direction": "Verify Charlie Kirk's actual messaging platforms through device forensics.",
       "mentions_person_refs": [
+        "N-3",
         "N-2",
-        "N-1"
+        "N-1",
+        "N-239"
       ]
     },
     {
@@ -2750,7 +2752,7 @@
       "@id": "C-1926",
       "ref": "C-1926",
       "label": "Erika confirmed Andrew Kolvet received pre-incident text",
-      "claim": "Erika Kirk acknowledged that Andrew Kolvet received a pre-incident message from Charlie Kirk stating \"they're going to kill me.\"",
+      "claim": "The host says Erika Kirk acknowledged in their meeting that Andrew Kolvet received a message from Charlie Kirk the night before, which the host says Kolvet told her was \"they're going to kill me.\"",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -2792,7 +2794,7 @@
       "@id": "C-1928",
       "ref": "C-1928",
       "label": "TPUSA case lawyer stated evidence base is at affidavit stage only",
-      "claim": "The lawyer involved in the Tyler Robinson prosecution told Candace that they have nothing beyond the affidavit-stage evidence and will not have access to further evidence until the May probable cause hearing.",
+      "claim": "The host says a lawyer involved in the case, whom Turning Point USA called into the meeting, told her they have nothing beyond the affidavit and will not know what investigators have until the May probable cause hearing.",
       "anchored_artifacts": [
         "A-1539.1",
         "A-1540.1"
@@ -2804,7 +2806,7 @@
       "claim_timestamp": "00:17:03",
       "investigative_direction": "Verify the May probable cause hearing date through Utah court records; compare against public charging documents.",
       "mentions_person_refs": [
-        "N-2",
+        "N-3",
         "N-40"
       ]
     },
@@ -2837,10 +2839,9 @@
         "N-10337"
       ],
       "tags": [],
-      "claim_timestamp": "00:21:02",
+      "claim_timestamp": "00:21:40",
       "investigative_direction": "Identify the witness and verify the video and timestamp.",
       "mentions_person_refs": [
-        "N-2",
         "N-3"
       ]
     },
@@ -2873,7 +2874,7 @@
         "N-10338"
       ],
       "tags": [],
-      "claim_timestamp": "00:23:53",
+      "claim_timestamp": "00:27:04",
       "investigative_direction": "Obtain the call logs directly from Mikey McCoy or from phone carrier records.",
       "mentions_person_refs": [
         "N-192",
@@ -2924,7 +2925,7 @@
       "@id": "C-1935",
       "ref": "C-1935",
       "label": "Blake Neff's account contradicts the call logs",
-      "claim": "Blake Neff's interview account – that Mikey's first call after the shooting was to Erika, followed by his mother and father – directly contradicts the call logs provided by TPUSA.",
+      "claim": "The host says Blake Neff's interview account - that Mikey's first call after the shooting was to Erika and that Mikey then called his father - is contradicted by call logs Turning Point USA showed her.",
       "anchored_artifacts": [
         "A-1542.1",
         "A-1543.1"
@@ -2937,7 +2938,8 @@
       "investigative_direction": "Cross-reference Blake Neff's recorded statement against the verified call sequence.",
       "mentions_person_refs": [
         "N-161",
-        "N-192"
+        "N-192",
+        "N-2"
       ],
       "contradicts_claim_refs": [
         "C-1932"
@@ -2968,7 +2970,7 @@
       "@id": "C-1937",
       "ref": "C-1937",
       "label": "Three sources corroborated Bibi Netanyahu funding offer",
-      "claim": "Three sources with knowledge confirmed to Candace that Bibi Netanyahu offered to fund TPUSA to the next level and that Charlie Kirk turned down the offer.",
+      "claim": "Three sources with knowledge confirmed to Candace that Bibi Netanyahu made an offer to fund Turning Point USA to the next level.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -2976,12 +2978,11 @@
         "N-10342"
       ],
       "tags": [],
-      "claim_timestamp": "00:32:14",
+      "claim_timestamp": "00:32:51",
       "investigative_direction": "Identify the three sources and obtain documentary evidence of the offer.",
       "mentions_person_refs": [
-        "N-2",
-        "N-36",
-        "N-1"
+        "N-3",
+        "N-36"
       ]
     },
     {
@@ -3069,7 +3070,7 @@
       "@id": "C-1941",
       "ref": "C-1941",
       "label": "Andrew Kolvet posted surgeon \"man of steel\" bullet description",
-      "claim": "Andrew Kolvet posted a tweet attributing to a surgeon the claim that Charlie Kirk's bone density was so healthy he was \"like the man of steel\" and the bullet should have passed through.",
+      "claim": "The host says Andrew Kolvet posted a tweet saying he spoke with the surgeon, and reads a quote she calls allegedly from the surgeon: Charlie Kirk's bone was so healthy and dense that he was \"like the man of steel\" and the bullet should have gone through and through.",
       "anchored_artifacts": [
         "A-1541.1"
       ],
@@ -3077,10 +3078,9 @@
         "N-10341"
       ],
       "tags": [],
-      "claim_timestamp": "00:12:24",
+      "claim_timestamp": "00:12:42",
       "investigative_direction": "Verify the original tweet content and the surgeon's identity.",
       "mentions_person_refs": [
-        "N-219",
         "N-14",
         "N-1"
       ]
@@ -3090,7 +3090,7 @@
       "@id": "C-1942",
       "ref": "C-1942",
       "label": "Andrew Kolvet admitted surgeon did not know he would post",
-      "claim": "Per Candace, Andrew Kolvet acknowledged that the surgeon did not know he would write the tweet.",
+      "claim": "The host says Andrew Kolvet said he spoke to the surgeon, and that they confirmed Kolvet spoke to the surgeon but that the surgeon did not know Kolvet was going to write the tweet.",
       "anchored_artifacts": [
         "A-1539.1",
         "A-1541.2"
@@ -3099,10 +3099,9 @@
         "N-10341"
       ],
       "tags": [],
-      "claim_timestamp": "00:13:14",
+      "claim_timestamp": "00:14:03",
       "investigative_direction": "Verify Kolvet's stated communication with the surgeon and HIPAA implications.",
       "mentions_person_refs": [
-        "N-219",
         "N-14"
       ]
     },
@@ -3153,7 +3152,7 @@
       "@id": "C-1945",
       "ref": "C-1945",
       "label": "Candace used different security from the start via Shafer Security",
-      "claim": "Candace Owens retained separate security from Charlie Kirk's from the beginning; Charlie's initial security was Shafer Security, operated by Greg Shafer, employing Dan Flood and Brian Harpole.",
+      "claim": "Candace Owens retained separate security from Charlie Kirk's from the beginning; Charlie's initial security was Shaffer Security, operated by Greg Shaffer, employing Dan Flood and Brian Harpole.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -3161,10 +3160,9 @@
         "N-10344"
       ],
       "tags": [],
-      "claim_timestamp": "00:46:06",
-      "investigative_direction": "Verify Greg Shafer's public statement and Shafer Security's documented client list.",
+      "claim_timestamp": "00:46:28",
+      "investigative_direction": "Verify Greg Shaffer's public statement and Shafer Security's documented client list.",
       "mentions_person_refs": [
-        "N-2",
         "N-334",
         "N-268",
         "N-3",
@@ -3185,10 +3183,9 @@
         "N-10344"
       ],
       "tags": [],
-      "claim_timestamp": "00:46:06",
+      "claim_timestamp": "00:47:23",
       "investigative_direction": "Confirm absence of legal correspondence through counsel records.",
       "mentions_person_refs": [
-        "N-2",
         "N-1"
       ]
     },
@@ -3208,7 +3205,7 @@
       "claim_timestamp": "00:41:01",
       "investigative_direction": "Verify the cited Daily Wire source and article publication date.",
       "mentions_person_refs": [
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -3224,10 +3221,9 @@
         "N-10898"
       ],
       "tags": [],
-      "claim_timestamp": "00:41:47",
+      "claim_timestamp": "00:41:22",
       "investigative_direction": "Verify against Daily Wire security logs or contemporaneous records.",
       "mentions_person_refs": [
-        "N-2",
         "N-3"
       ]
     },
@@ -3236,7 +3232,7 @@
       "@id": "C-1949",
       "ref": "C-1949",
       "label": "Candace's husband has no Qatari passport/citizenship",
-      "claim": "Per Candace, her husband does not have a Qatari passport and has not flown to Qatar.",
+      "claim": "Per Candace, her husband's Wikipedia page was changed to say he had a Qatari passport or citizenship, which she says is made up; she says he has never been to Qatar and does not think he has ever flown over it.",
       "anchored_artifacts": [
         "A-1546.1"
       ],
@@ -3245,7 +3241,7 @@
         "N-10898"
       ],
       "tags": [],
-      "claim_timestamp": "00:41:01",
+      "claim_timestamp": "00:39:55",
       "investigative_direction": "Verify travel and passport records.",
       "mentions_person_refs": [
         "N-30"
@@ -3256,7 +3252,7 @@
       "@id": "C-1950",
       "ref": "C-1950",
       "label": "Turkey Tom authenticated Robinson Discord chat messaging style",
-      "claim": "Turkey Tom produced a video asserting that he was in Discord chats with Tyler Robinson and that the published message style is authentic.",
+      "claim": "In a clip the host plays, a speaker addressing Viva Frei says a video by Turkey Tom, described as someone who was in the Discord chats with Tyler Robinson and apparently spent time with them at the apartment, says \"100%\" this is how they talked.",
       "anchored_artifacts": [
         "A-1549.1"
       ],
@@ -3265,7 +3261,6 @@
       "claim_timestamp": "00:53:11",
       "investigative_direction": "Verify Turkey Tom's claimed Discord membership through chat logs or other participants.",
       "mentions_person_refs": [
-        "N-211",
         "N-330",
         "N-335",
         "N-40"
@@ -3276,7 +3271,7 @@
       "@id": "C-1951",
       "ref": "C-1951",
       "label": "George Zin allegedly told nurses he was paid to pose as shooter",
-      "claim": "Per Candace, George Zin told nurses at Utah Valley (where he was treated) that he was paid to claim to be the shooter.",
+      "claim": "Per Candace, George Zin, who was treated at Utah Valley, said he told the nurses that he was paid to do that.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -3295,7 +3290,7 @@
       "@id": "C-1952",
       "ref": "C-1952",
       "label": "Kash Patel allegedly angry at Gabbard and Kent over terrorist-angle probe",
-      "claim": "Per Candace, Kash Patel expressed anger at Tulsi Gabbard and Joe Kent for investigating a potential terrorist angle to the Kirk case.",
+      "claim": "In a clip the host plays, a speaker says that allegedly the rumors are that Kash Patel is getting mad at Tulsi Gabbard and Joe Kent for trying to look into a potential terrorist angle to the Kirk case.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -3316,7 +3311,7 @@
       "@id": "C-1953",
       "ref": "C-1953",
       "label": "Erika confirmed Charlie was attending mass and reportedly planning conversion",
-      "claim": "Erika Kirk confirmed Charlie Kirk was attending mass; per third-party information relayed to Candace, he was reportedly planning to begin the Catholic conversion process.",
+      "claim": "Answering a viewer's question about Charlie's journey to Catholicism, the host says Erika obviously confirmed it, that Charlie was going to mass, and that from what she has been told, which is third party, he was planning on signing up and starting that process.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -3324,7 +3319,7 @@
         "N-10350"
       ],
       "tags": [],
-      "claim_timestamp": "00:11:35",
+      "claim_timestamp": "01:10:45",
       "investigative_direction": "Verify through parish records and direct corroboration from Erika on the record.",
       "mentions_person_refs": [
         "N-2",
@@ -3336,7 +3331,7 @@
       "@id": "C-1954",
       "ref": "C-1954",
       "label": "Hampton retreat involved Seth Dillon confronting Charlie over hypothetical anti-Netanyahu tweet",
-      "claim": "Seth Dillon pressed Charlie Kirk at the Hampton retreat over a hypothetical tweet against Bibi Netanyahu, producing a heated moment.",
+      "claim": "The host says Seth Dillon pressed Charlie Kirk at the Hampton retreat over a hypothetical tweet against Bibi Netanyahu, producing a heated moment.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -3344,7 +3339,7 @@
         "N-10345"
       ],
       "tags": [],
-      "claim_timestamp": "00:31:16",
+      "claim_timestamp": "00:30:25",
       "investigative_direction": "Verify through any recording or attendee corroboration of the retreat.",
       "mentions_person_refs": [
         "N-36",
@@ -3356,8 +3351,8 @@
       "@type": "Claim",
       "@id": "C-1955",
       "ref": "C-1955",
-      "label": "Charlie Kirk Show Speaker Identifies Andrew Seifer as TPUSA Head of Field",
-      "claim": "In a clip from the Charlie Kirk Show that the host plays, a speaker identifies Andrew Seifer as TPUSA's head of field.",
+      "label": "Charlie Kirk Show Speaker Identifies Andrew Sypher as TPUSA Head of Field",
+      "claim": "In a clip from the Charlie Kirk Show that the host plays, a speaker identifies Andrew Sypher as TPUSA's head of field.",
       "anchored_artifacts": [
         "A-1544.2"
       ],
@@ -3366,7 +3361,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:51:02",
-      "investigative_direction": "Verify Andrew Seifer's official TPUSA title.",
+      "investigative_direction": "Verify Andrew Sypher's official TPUSA title.",
       "mentions_person_refs": [
         "N-333"
       ]
@@ -3384,18 +3379,15 @@
         "N-10343"
       ],
       "tags": [],
-      "claim_timestamp": "00:51:02",
-      "investigative_direction": "Verify the specific August 27 post referenced.",
-      "mentions_person_refs": [
-        "N-333"
-      ]
+      "claim_timestamp": "00:50:15",
+      "investigative_direction": "Verify the specific August 27 post referenced."
     },
     {
       "@type": "Claim",
       "@id": "C-1957",
       "ref": "C-1957",
       "label": "Candace identifies September 2 KAMYU as first public location mention",
-      "claim": "Per Candace's timeline research, the earliest public mention of the UVU courtyard location was on KAMYU local media on September 2.",
+      "claim": "The host says the earliest mention of the UVU courtyard location that her team found was on September 2, when local media on KAMYU said Charlie Kirk was speaking in the courtyard.",
       "anchored_artifacts": [
         "A-1547.1"
       ],
@@ -3403,7 +3395,7 @@
         "N-10343"
       ],
       "tags": [],
-      "claim_timestamp": "00:52:22",
+      "claim_timestamp": "00:51:20",
       "investigative_direction": "Verify KAMYU broadcast date and content."
     },
     {
@@ -3419,7 +3411,7 @@
         "N-10343"
       ],
       "tags": [],
-      "claim_timestamp": "00:52:22",
+      "claim_timestamp": "00:51:40",
       "investigative_direction": "Obtain the original August 27 graphic."
     },
     {
@@ -3547,8 +3539,6 @@
       "transcript_snippet": "by no means did Erika give any person the authority to go out and say that the Catholicism thing was a lie.",
       "mentions_person_refs": [
         "N-2",
-        "N-14",
-        "N-99",
         "N-3"
       ]
     },
@@ -3970,7 +3960,6 @@
       "transcript_snippet": "They had no idea he was going on Shawn Ryan. I think that's pretty clear. I don't believe he works there anymore.",
       "mentions_person_refs": [
         "N-268",
-        "N-226",
         "N-3"
       ]
     },
@@ -4231,7 +4220,7 @@
       "@id": "C-14037",
       "ref": "C-14037",
       "label": "Host Says the Public Was Told Over and Over That Mikey's First Call Was to Erika",
-      "claim": "The host says the public was given the impression over and over by many people that the first person Mikey McCoy called was Erika Kirk, and that he had been trained to do so.",
+      "claim": "The host says the public was given the impression over and over by many people that the first person Mikey McCoy called was Erika Kirk, and that he had gone to a camp and trained.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10338"
@@ -4305,7 +4294,7 @@
       "@id": "C-14040",
       "ref": "C-14040",
       "label": "Host Says the Third Person Mikey Added Was Danny McCoy, His Brother in the Military",
-      "claim": "The host says that Danny McCoy is Mikey McCoy's brother in the military and was the third person in the three-way sequence, before she corrects this later in the episode.",
+      "claim": "The host says Mikey McCoy three-wayed a third person she declines to name, and adds that Danny McCoy is his brother in the military, with that contact being before the shot.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10338"
@@ -4966,7 +4955,7 @@
       "@id": "C-14069",
       "ref": "C-14069",
       "label": "Kirk Show Speaker Says Charlie Sometimes Announced Outdoor Events 7 to 10 Days in Advance",
-      "claim": "A speaker on the Charlie Kirk Show says that Andrew Seifer, head of field, can attest that Charlie sometimes put out events 7 to 10 days in advance and could do outdoor events on a quick turn.",
+      "claim": "A speaker on the Charlie Kirk Show says that Andrew Sypher, head of field, can attest that Charlie sometimes put out events 7 to 10 days in advance and could do outdoor events on a quick turn.",
       "anchored_artifacts": [
         "A-1544.2"
       ],

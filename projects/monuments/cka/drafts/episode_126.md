@@ -1297,7 +1297,7 @@ Claim Timestamp: 00:13:30
 
 Claim: The host says her source spoke to students at the bus stop in front of the library, described the gun, and was the only person who captured the gunman on the Losee Center roof on video as he began lying prone.
 
-Transcript Snippet: This individual told me that he spoke to students at the bus stop in front of a library and he also described the gun and he was able to do that because he happened to also be the only person who captured the gunman on Lozi Center in a video as he began lying prone for the shot.
+Transcript Snippet: This individual told me that he spoke to students at the bus stop in front of a library and he also described the gun and he was able to do that because he happened to also be the only person who captured the gunman on Losee Center in a video as he began lying prone for the shot.
 
 Anchored Artifacts: A-2140.1
 Mentions: N-3

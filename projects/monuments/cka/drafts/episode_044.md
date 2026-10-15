@@ -748,10 +748,10 @@ Harry's account of passing through Salt Lake City airport on September 10, 2025 
 
 Claim Timestamp: 00:05:09–00:11:14
 
-Claim: A then-20-year-old military sensor operator assigned to JTF-6 states he identified and helped raid the first discovered Sinaloa cartel underground rail tunnel between Douglas, Arizona and Agua Prieta in 1990.
+Claim: In a message from Harry that the host reads, a then-20-year-old military sensor operator assigned to JTF-6 says he planted sensors and pinpointed the location of the first discovered Sinaloa cartel underground rail tunnel, letting a Border Patrol agent seek a warrant to raid it; a news clip the host plays shows the tunnel ran from Douglas, Arizona to Agua Prieta, and the host dates the discovery to 1990.
 
 Anchored Artifacts: A-1519.1, A-1520.1, A-1521.1
-Mentions: N-320, N-325
+Mentions: N-320
 
 Related Nodes: N-10328
 
@@ -866,10 +866,10 @@ Investigative Direction: FOIA incident report 861-1-2025-MPC446 for visitor/atte
 
 Claim Timestamp: 00:22:18–00:24:56
 
-Claim: The host says Harry told her that, after he entered the meeting room, two captains escorted him out and began a 7-hour interrogation accusing him of being a bomb threat, a spy, and a threat to himself or others, and that the interrogator Harry identifies as "Captain Nef" was approximately 36 years old with brown hair and was commander of force protection.
+Claim: The host says Harry told her that, after he entered the temporary JTF headquarters and saw men come out of the meeting, two captains escorted him out of the building and began a 7-hour interrogation accusing him of being a bomb threat and a spy and trying to cast him as a threat to others or himself, and that the interrogator Harry identifies as "Captain Nef" was approximately 36 years old with brown hair and was commander of force protection.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-161, N-320, N-321
+Mentions: N-320, N-321
 
 Related Nodes: N-10326
 
@@ -881,7 +881,7 @@ Investigative Direction: FOIA incident report 861-1-2025-MPC446; identify Captai
 
 Claim Timestamp: 00:28:13
 
-Claim: An incident report numbered 861-1-2025-MPC446 was generated at Fort Huachuca on September 9, 2025 in connection with Harry's detention; Harry believes the report can be obtained via FOIA.
+Claim: The host says Harry told her that Captain Nef gave him incident report number 861-1-2025-MPC446 after his September 9, 2025 encounter at Fort Huachuca, and that Harry believes the report can be obtained via FOIA.
 
 Anchored Artifacts: A-1519.3
 Mentions: N-320, N-321
@@ -896,7 +896,7 @@ Investigative Direction: File FOIA request with the appropriate Army or DoD FOIA
 
 Claim Timestamp: 00:35:20–00:36:24
 
-Claim: An article referenced on the show reports that Arcadi Gaydamak failed to appear for a court hearing and was sentenced in absentia for trafficking weapons; the article also identifies him as a French intelligence agent.
+Claim: The host says Arcadi Gaydamak did not show up for his court hearing and was just sentenced in absentia for trafficking weapons, and that, as she says one can see in an article, he was a French intelligence agent.
 
 Anchored Artifacts: A-1522.1
 Mentions: N-315
@@ -910,7 +910,7 @@ Investigative Direction: Locate and verify the article's primary source (court r
 
 Claim Timestamp: 00:35:20–00:36:24
 
-Claim: Per the referenced article, Gaydamak was born in Russia and relocated to Israel after the establishment of the state.
+Claim: The host says Gaydamak was born in Russia and that when Israel became a nation he was among the first over there.
 
 Anchored Artifacts: A-1522.1
 Mentions: N-315
@@ -964,11 +964,11 @@ Investigative Direction: Cross-reference Tim Pool's original broadcast to verify
 
 ---
 
-**C-1895** Tim Pool stated Candace Owens' residence has only a 4-foot wall and one security guard
+**C-1895** Tim Pool Says Someone Told Him Candace Owens' Home Has a 4-Foot Wall and One Guard
 
 Claim Timestamp: 00:43:32–00:44:11
 
-Claim: In the audio clip, Tim Pool states that he visited Candace Owens' home, observed a 4-foot wall and one "fat guy" for security, and asserts that no one is "out for her."
+Claim: In the audio clip, Tim Pool tells another speaker, "You told me you went to her house and she's got a 4ft wall and one fat guy," and says no one is "out for her".
 
 Anchored Artifacts: A-1524.1
 Mentions: N-269, N-3
@@ -1152,7 +1152,7 @@ Investigative Direction: Review Bush campaign and September 1989 national drug-c
 
 Claim Timestamp: 00:06:44
 
-Claim: In the played clip, George H.W. Bush holds up crack cocaine that he says was seized a few days earlier by drug enforcement agents in a park just across the street from the White House.
+Claim: In the played clip, George H.W. Bush says the crack cocaine was seized a few days earlier by drug enforcement agents in a park just across the street from the White House.
 
 Transcript Snippet: This is crack cocaine seized a few days ago by drug enforcement agents in a park just across the street from the White House.
 
@@ -1253,7 +1253,7 @@ Claim: The host says that what the reporter in the news clip said was that there
 Transcript Snippet: And what Scott said in that news clip is there were pictures of United States military men in that house.
 
 Anchored Artifacts: A-1520.1
-Mentions: N-320
+Mentions: 
 Related Nodes: N-10328
 Tags: relevance:core
 Investigative Direction: Re-watch the original clip for any statement about photographs; if absent, the photo claim rests only on Harry's account.
@@ -1865,7 +1865,7 @@ Claim: The host says that after the previous episode she asked whether anyone kn
 Transcript Snippet: after yesterday's episode, I had asked if anybody had anything or knew anything about, you know, Turning Point potentially working with this Pierre person.
 
 Anchored Artifacts: 
-Mentions: N-3, N-314
+Mentions: N-3, N-314, N-315
 Related Nodes: N-10317, N-10000
 Tags: relevance:context
 Investigative Direction: Review the viewer tip emails and any TPUSA donor records for connections to Pierre Falcone.
@@ -1892,7 +1892,7 @@ Investigative Direction: Obtain the tip emails and test any identifying detail a
 
 Claim Timestamp: 00:39:14
 
-Claim: The host says tipsters told her that the man using the name Jonathan Schmidt was shopping for a home in the Brentwood area, as seen by real estate agents.
+Claim: The host says tipsters told her that the man using the name Jonathan Schmidt was shopping for a home in the Brentwood area, and she addresses real estate agents among her viewers.
 
 Transcript Snippet: if you're a real estate agent, they said he was um shopping for a home in the Brentwood area
 
@@ -1957,7 +1957,7 @@ Investigative Direction: Ask ODNI for confirmation of any contact with the host 
 
 Claim Timestamp: 00:38:50
 
-Claim: The host says her husband has already contacted the authorities about the Nashville tips after she told him to do so that morning.
+Claim: The host says she thinks her husband has already contacted the authorities about the Nashville tips after she told him to do so that morning.
 
 Transcript Snippet: I think we have my husband has already done that. I told him to do that this morning.
 
@@ -1996,7 +1996,7 @@ Transcript Snippet: everywhere in America, I've heard there's a major influx of 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11284
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare with State Department and DHS data on Ukrainian arrivals under Uniting for Ukraine.
 
 ---
@@ -2264,7 +2264,7 @@ Investigative Direction: Identify the individuals and look for indictments or pr
 
 Claim Timestamp: 00:53:18
 
-Claim: The host says Charlie was fearful the day before when he messaged people and said 'They are going to kill me', and asks who he was referring to.
+Claim: The host says she wonders whether the silver-or-lead choice was presented to Charlie and whether that is why he was fearful the day before when he messaged people and said "They are going to kill me", and asks who he was referring to.
 
 Transcript Snippet: I wonder if that's why he was fearful the day before when he messaged people and said, "They are going to kill me."
 

@@ -1485,7 +1485,7 @@
       "@id": "C-1880",
       "ref": "C-1880",
       "label": "Harry Meyers claims to have discovered the first Sinaloa cartel underground rail tunnel in 1990 while assigned to Joint Task Force 6 / Operation Catacomb",
-      "claim": "A then-20-year-old military sensor operator assigned to JTF-6 states he identified and helped raid the first discovered Sinaloa cartel underground rail tunnel between Douglas, Arizona and Agua Prieta in 1990.",
+      "claim": "In a message from Harry that the host reads, a then-20-year-old military sensor operator assigned to JTF-6 says he planted sensors and pinpointed the location of the first discovered Sinaloa cartel underground rail tunnel, letting a Border Patrol agent seek a warrant to raid it; a news clip the host plays shows the tunnel ran from Douglas, Arizona to Agua Prieta, and the host dates the discovery to 1990.",
       "anchored_artifacts": [
         "A-1519.1",
         "A-1520.1",
@@ -1498,8 +1498,7 @@
       "claim_timestamp": "00:05:09–00:11:14",
       "investigative_direction": "Cross-check DEA, CBP, and Army historical records for the 1990 Douglas–Agua Prieta tunnel case; verify Harry's military service record and JTF-6 assignment.",
       "mentions_person_refs": [
-        "N-320",
-        "N-325"
+        "N-320"
       ]
     },
     {
@@ -1642,7 +1641,7 @@
       "@id": "C-1888",
       "ref": "C-1888",
       "label": "Host Says Harry Reports a \"Captain Nef\" Conducted a 7-Hour Interrogation of Him at Fort Huachuca on September 9, 2025",
-      "claim": "The host says Harry told her that, after he entered the meeting room, two captains escorted him out and began a 7-hour interrogation accusing him of being a bomb threat, a spy, and a threat to himself or others, and that the interrogator Harry identifies as \"Captain Nef\" was approximately 36 years old with brown hair and was commander of force protection.",
+      "claim": "The host says Harry told her that, after he entered the temporary JTF headquarters and saw men come out of the meeting, two captains escorted him out of the building and began a 7-hour interrogation accusing him of being a bomb threat and a spy and trying to cast him as a threat to others or himself, and that the interrogator Harry identifies as \"Captain Nef\" was approximately 36 years old with brown hair and was commander of force protection.",
       "anchored_artifacts": [
         "A-1519.2"
       ],
@@ -1653,7 +1652,6 @@
       "claim_timestamp": "00:22:18–00:24:56",
       "investigative_direction": "FOIA incident report 861-1-2025-MPC446; identify Captain Nef through Army CID and Fort Huachuca force protection roster.",
       "mentions_person_refs": [
-        "N-161",
         "N-320",
         "N-321"
       ]
@@ -1663,7 +1661,7 @@
       "@id": "C-1889",
       "ref": "C-1889",
       "label": "Incident report 861-1-2025-MPC446 was generated in connection with Harry's September 9, 2025 encounter at Fort Huachuca",
-      "claim": "An incident report numbered 861-1-2025-MPC446 was generated at Fort Huachuca on September 9, 2025 in connection with Harry's detention; Harry believes the report can be obtained via FOIA.",
+      "claim": "The host says Harry told her that Captain Nef gave him incident report number 861-1-2025-MPC446 after his September 9, 2025 encounter at Fort Huachuca, and that Harry believes the report can be obtained via FOIA.",
       "anchored_artifacts": [
         "A-1519.3"
       ],
@@ -1683,7 +1681,7 @@
       "@id": "C-1890",
       "ref": "C-1890",
       "label": "Arcadi Gaydamak was sentenced in absentia for trafficking weapons and is described as a former French intelligence agent",
-      "claim": "An article referenced on the show reports that Arcadi Gaydamak failed to appear for a court hearing and was sentenced in absentia for trafficking weapons; the article also identifies him as a French intelligence agent.",
+      "claim": "The host says Arcadi Gaydamak did not show up for his court hearing and was just sentenced in absentia for trafficking weapons, and that, as she says one can see in an article, he was a French intelligence agent.",
       "anchored_artifacts": [
         "A-1522.1"
       ],
@@ -1700,7 +1698,7 @@
       "@id": "C-1891",
       "ref": "C-1891",
       "label": "Arcadi Gaydamak was born in Russia and subsequently moved to Israel after Israeli statehood",
-      "claim": "Per the referenced article, Gaydamak was born in Russia and relocated to Israel after the establishment of the state.",
+      "claim": "The host says Gaydamak was born in Russia and that when Israel became a nation he was among the first over there.",
       "anchored_artifacts": [
         "A-1522.1"
       ],
@@ -1777,8 +1775,8 @@
       "@type": "Claim",
       "@id": "C-1895",
       "ref": "C-1895",
-      "label": "Tim Pool stated Candace Owens' residence has only a 4-foot wall and one security guard",
-      "claim": "In the audio clip, Tim Pool states that he visited Candace Owens' home, observed a 4-foot wall and one \"fat guy\" for security, and asserts that no one is \"out for her.\"",
+      "label": "Tim Pool Says Someone Told Him Candace Owens' Home Has a 4-Foot Wall and One Guard",
+      "claim": "In the audio clip, Tim Pool tells another speaker, \"You told me you went to her house and she's got a 4ft wall and one fat guy,\" and says no one is \"out for her\".",
       "anchored_artifacts": [
         "A-1524.1"
       ],
@@ -2020,7 +2018,7 @@
       "@id": "C-11040",
       "ref": "C-11040",
       "label": "Bush Clip Shows Crack Cocaine Said to Be Seized Across From the White House",
-      "claim": "In the played clip, George H.W. Bush holds up crack cocaine that he says was seized a few days earlier by drug enforcement agents in a park just across the street from the White House.",
+      "claim": "In the played clip, George H.W. Bush says the crack cocaine was seized a few days earlier by drug enforcement agents in a park just across the street from the White House.",
       "anchored_artifacts": [
         "A-1521.1"
       ],
@@ -2155,10 +2153,7 @@
       ],
       "claim_timestamp": "00:11:14",
       "investigative_direction": "Re-watch the original clip for any statement about photographs; if absent, the photo claim rests only on Harry's account.",
-      "transcript_snippet": "And what Scott said in that news clip is there were pictures of United States military men in that house.",
-      "mentions_person_refs": [
-        "N-320"
-      ]
+      "transcript_snippet": "And what Scott said in that news clip is there were pictures of United States military men in that house."
     },
     {
       "@type": "Claim",
@@ -3002,7 +2997,8 @@
       "transcript_snippet": "after yesterday's episode, I had asked if anybody had anything or knew anything about, you know, Turning Point potentially working with this Pierre person.",
       "mentions_person_refs": [
         "N-3",
-        "N-314"
+        "N-314",
+        "N-315"
       ]
     },
     {
@@ -3031,7 +3027,7 @@
       "@id": "C-11086",
       "ref": "C-11086",
       "label": "Tipsters Say Jonathan Schmidt Was Shopping for a Home in Brentwood",
-      "claim": "The host says tipsters told her that the man using the name Jonathan Schmidt was shopping for a home in the Brentwood area, as seen by real estate agents.",
+      "claim": "The host says tipsters told her that the man using the name Jonathan Schmidt was shopping for a home in the Brentwood area, and she addresses real estate agents among her viewers.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10330"
@@ -3119,7 +3115,7 @@
       "@id": "C-11090",
       "ref": "C-11090",
       "label": "Host Says Her Husband Already Contacted Authorities That Morning",
-      "claim": "The host says her husband has already contacted the authorities about the Nashville tips after she told him to do so that morning.",
+      "claim": "The host says she thinks her husband has already contacted the authorities about the Nashville tips after she told him to do so that morning.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3167,7 +3163,7 @@
         "N-11284"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:39:34",
       "investigative_direction": "Compare with State Department and DHS data on Ukrainian arrivals under Uniting for Ukraine.",
@@ -3542,7 +3538,7 @@
       "@id": "C-11109",
       "ref": "C-11109",
       "label": "Host Says Charlie Messaged People the Day Before That 'They Are Going to Kill Me'",
-      "claim": "The host says Charlie was fearful the day before when he messaged people and said 'They are going to kill me', and asks who he was referring to.",
+      "claim": "The host says she wonders whether the silver-or-lead choice was presented to Charlie and whether that is why he was fearful the day before when he messaged people and said \"They are going to kill me\", and asks who he was referring to.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10340"

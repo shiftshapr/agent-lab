@@ -103,7 +103,7 @@
           "@type": "Artifact",
           "@id": "A-1367.1",
           "ref": "A-1367.1",
-          "description": "Glenn Beck broadcast featuring Steve Baker on Shawnie Ray Kirkup / January 6 pipe bombs",
+          "description": "Glenn Beck broadcast featuring Steve Baker on Shauni Rae Kerkhoff / January 6 pipe bombs",
           "related_claims": [
             "C-1655"
           ],
@@ -132,7 +132,7 @@
           "@type": "Artifact",
           "@id": "A-1368.1",
           "ref": "A-1368.1",
-          "description": "Liz Lyons (CIA spokesperson) statement re: Shawnie Kirkhoff / Capitol Police Campus Security",
+          "description": "Liz Lyons (CIA spokesperson) statement re: Shauni Kerkhoff / Capitol Police Campus Security",
           "related_claims": [
             "C-1656"
           ],
@@ -532,7 +532,7 @@
       "ref": "N-240",
       "name": "Shauni Kerkhoff",
       "type": "person",
-      "description": "Person identified by Steve Baker (as \"Kirkup\") and by CIA spokesperson Liz Lyons (as \"Kirkhoff\") in connection with the January 6 pipe bombs; spelling discrepancy is preserved.",
+      "description": "Person identified by Steve Baker (as \"Kirkup\") and by CIA spokesperson Liz Lyons (as \"Kerkhoff\") in connection with the January 6 pipe bombs; spelling discrepancy is preserved.",
       "related_artifacts": [
         "A-1367.1",
         "A-1368.1"
@@ -806,9 +806,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10241",
       "ref": "N-10241",
-      "name": "Shawnie Ray Kirkup / Kirkhoff Identity Verification",
+      "name": "Shauni Rae Kerkhoff / Kerkhoff Identity Verification",
       "type": "investigation_target",
-      "description": "Persistent discrepancy in the episode between the spelling \"Kirkup\" (Steve Baker, via Glenn Beck audio) and \"Kirkhoff\" (CIA spokesperson Liz Lyons); preservation target for cross-source verification.",
+      "description": "Persistent discrepancy in the episode between the spelling \"Kirkup\" (Steve Baker, via Glenn Beck audio) and \"Kerkhoff\" (CIA spokesperson Liz Lyons); preservation target for cross-source verification.",
       "related_artifacts": [
         "A-1367.1",
         "A-1368.1"
@@ -1855,8 +1855,8 @@
       "@type": "Claim",
       "@id": "C-1654",
       "ref": "C-1654",
-      "label": "Frank Turek Described NAR as a Cult \"Darker than a Cult\"",
-      "claim": "In an audio clip played on the episode, Frank Turek described the New Apostolic Reformation as having an \"aberrant\" hermeneutic and being \"more occult-like than Christian,\" and characterized NAR as \"darker than a cult.\"",
+      "label": "Frank Turek Described NAR Theology as Aberrant and Occult-Like",
+      "claim": "In an audio clip played on the episode, Frank Turek described the New Apostolic Reformation as having an \"aberrant\" hermeneutic and doing things \"more new agey or more even occult-like than they are Christian\"; the host introduces the clip by saying Turek acknowledged NAR was a cult, \"actually darker than a cult.\"",
       "anchored_artifacts": [
         "A-1366.1"
       ],
@@ -1872,8 +1872,8 @@
       "@type": "Claim",
       "@id": "C-1655",
       "ref": "C-1655",
-      "label": "Steve Baker (via Glenn Beck) Identified Shawnie Ray Kirkup as the January 6 Pipe-Bomb Dropper",
-      "claim": "Reporter Steve Baker, interviewed on Glenn Beck's program and played in the episode, stated that a 31-year-old United States Capitol Police officer named Shawnie Ray Kirkup was identified as the person who dropped off the January 6 pipe bombs, and that this was a five-year forensic investigation.",
+      "label": "Host Says Baker Identified Capitol Police Officer as Pipe-Bomb Dropper",
+      "claim": "The host says the person responsible for dropping off the January 6 pipe bombs was revealed to be a 31-year-old woman and United States Capitol Police officer she names as Shauni Kerkhoff, credits reporter Steve Baker with the discovery, plays Glenn Beck interviewing Baker (who says a federal source responded \"She's one of us\"), and says it was a 5-year investigation involving forensic analysis.",
       "anchored_artifacts": [
         "A-1367.1"
       ],
@@ -1893,8 +1893,8 @@
       "@type": "Claim",
       "@id": "C-1656",
       "ref": "C-1656",
-      "label": "Liz Lyons (CIA) Stated Shawnie Kirkhoff Worked in Capitol Police Campus Security",
-      "claim": "CIA spokeswoman Liz Lyons, as relayed by the host, stated that \"Shawnie Kirkhoff\" worked in Capitol Police Campus Security and lived in Alexandria, Virginia.",
+      "label": "Liz Lyons (CIA) Stated Shauni Kerkhoff Worked in Capitol Police Campus Security",
+      "claim": "CIA spokeswoman Liz Lyons, as relayed by the host, stated that Shauni Kerkhoff, \"the alleged person who dropped off these pipe bombs,\" worked in Capitol Police Campus Security; the host adds that she lives in Alexandria, Virginia.",
       "anchored_artifacts": [
         "A-1368.1"
       ],
@@ -1903,7 +1903,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:32",
-      "investigative_direction": "Retrieve the original CIA press statement or statement of record to verify wording and confirm whether \"Kirkhoff\" and \"Kirkup\" refer to the same individual.",
+      "investigative_direction": "Retrieve the original CIA press statement or statement of record to verify wording and confirm whether \"Kerkhoff\" and \"Kirkup\" refer to the same individual.",
       "mentions_person_refs": [
         "N-240",
         "N-241"
@@ -2004,14 +2004,14 @@
       "@type": "Claim",
       "@id": "C-1662",
       "ref": "C-1662",
-      "label": "Allie Beth Stuckey Warned Viewers Against Asking Questions Without \"Hard Evidence\"",
-      "claim": "In an audio clip played on the episode, Allie Beth Stuckey told viewers they were \"outsourcing your critical thinking\" by following the Candace Owens investigation and warned that implicating a real person in a murder required being \"100% sure\" with \"hard evidence.\"",
+      "label": "Allie Beth Stuckey Said Implicating a Real Person in a Murder Plot Requires Hard Evidence",
+      "claim": "In an audio clip played on the episode, Allie Beth Stuckey told people who say they are seeking truth and asking questions that they were \"outsourcing your critical thinking,\" and warned that implicating a real person in a murder plot required being \"100% sure\" and backed by \"hard evidence.\"",
       "anchored_artifacts": [
         "A-1374.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:33:55–00:34:48",
+      "claim_timestamp": "00:33:16",
       "investigative_direction": "Retrieve the full source video to verify exact wording and full context.",
       "mentions_person_refs": [
         "N-229",
@@ -2075,7 +2075,7 @@
       "@id": "C-1666",
       "ref": "C-1666",
       "label": "Feds Allegedly Seized Footage at Timpanogos Hospital on the Day of the Kirk Shooting",
-      "claim": "According to anonymous tips relayed by the host, federal agents seized footage at Timpanogos Hospital on the day of the Charlie Kirk shooting.",
+      "claim": "According to tips the host says she received, federal agents seized footage at Timpanogos Hospital on the day of the Charlie Kirk shooting.",
       "anchored_artifacts": [
         "A-1378.1"
       ],
@@ -2098,7 +2098,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "00:01:00",
       "investigative_direction": "This is a sweeping group characterisation; it could only be tested by surveying who publicly endorsed the official account.",
@@ -2125,7 +2125,8 @@
       "investigative_direction": "Check the Utah trauma center designations for both hospitals and the distance from the UVU campus.",
       "transcript_snippet": "UV was a trauma one, and Timpanogos was trauma three",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -2133,7 +2134,7 @@
       "@id": "C-7913",
       "ref": "C-7913",
       "label": "Host Says Others Told Her Charlie Was Definitely at UV Hospital",
-      "claim": "The host says that after the Timpanogos routing became public she started hearing from other people that Charlie Kirk was definitely at UV Hospital.",
+      "claim": "The host says that after people found it strange that Charlie Kirk was taken to Timpanogos, they started hearing from other people that he was definitely at UV Hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10149",
@@ -2197,7 +2198,7 @@
       "@id": "C-7916",
       "ref": "C-7916",
       "label": "Host Says Feds Also Moved on Footage Outside the Hospital",
-      "claim": "The host says she finds it amiss that the Feds moved to grab footage both inside and outside the hospital immediately, adding the outside footage to her earlier tip about the inside footage.",
+      "claim": "The host says she feels something is amiss if the Feds moved to grab the footage inside the hospital and outside the hospital immediately.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10239",
@@ -2252,7 +2253,7 @@
       "tags": [
         "relevance:tangential"
       ],
-      "claim_timestamp": "00:05:49",
+      "claim_timestamp": "00:04:43",
       "investigative_direction": "Speculative generalization; not testable as stated beyond individual events.",
       "transcript_snippet": "I'm starting to wonder if every major publicly traumatizing event may have actually just been organized by the Feds",
       "mentions_person_refs": [
@@ -2311,8 +2312,8 @@
       "@type": "Claim",
       "@id": "C-7921",
       "ref": "C-7921",
-      "label": "Host Says Blaze Editor Was Stopped by Police at Kirkhoff Home",
-      "claim": "The host says Shawnie Kirkhoff lives in Alexandria, Virginia and is apparently under the watch of law enforcement, because the Blaze News editor-in-chief drove to her house and was instantly stopped by local police before being let go.",
+      "label": "Host Says Blaze Editor Was Stopped by Police at Kerkhoff Home",
+      "claim": "The host says Shauni Kerkhoff lives in Alexandria, Virginia and is apparently under the watch of law enforcement, because the Blaze News editor-in-chief drove to her house and was instantly stopped by local police before being let go.",
       "anchored_artifacts": [
         "A-1368.1"
       ],
@@ -2326,8 +2327,7 @@
       "investigative_direction": "Ask Blaze News whether its editor visited the address and whether a police contact was recorded; request the local police log.",
       "transcript_snippet": "The Blaze News editor-in-chief decided to pull up to her house to just kind of see if any action was happening at her home. And then he instantly got stopped by local police before they allowed him to leave.",
       "mentions_person_refs": [
-        "N-240",
-        "N-241"
+        "N-240"
       ]
     },
     {
@@ -2711,7 +2711,7 @@
       "@id": "C-7939",
       "ref": "C-7939",
       "label": "Host Says the Borderline Shooter's Family Knows Rob McCoy",
-      "claim": "The host says the Marine who carried out the Borderline Bar shooting had a family that knows Rob McCoy well and that McCoy is friends with that Marine.",
+      "claim": "The host says a Marine's family knows Rob McCoy well and McCoy is friends with that Marine, and, in her words, that Marine's mother decided to storm into the Borderline bar and conduct a mass shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10240"
@@ -2841,7 +2841,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:28:07",
       "investigative_direction": "Check Podscribe or Spotify and Apple chart data for the week.",
@@ -2864,7 +2864,7 @@
         "N-11099"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:28:07",
       "investigative_direction": "Check Australian government records on her visa status and any lobbying that preceded it.",
@@ -2878,7 +2878,7 @@
       "@id": "C-7947",
       "ref": "C-7947",
       "label": "Host Alleges Joel Berry Cheered Child Deaths and Church Bombings and Denied Gaza Christians Are Human",
-      "claim": "The host alleges that Joel Berry cheered on kids being killed and churches being bombed and insinuated that even Christians in Gaza are not really human beings and are all supporting Hamas.",
+      "claim": "The host says she is never on the side of people who cheer on kids being killed and churches being bombed, and says Joel Berry insinuated that even the Christians in Gaza are not really human beings and are all supporting Hamas.",
       "anchored_artifacts": [
         "A-1372.1"
       ],
@@ -2886,7 +2886,7 @@
         "N-10063"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:29:06",
       "investigative_direction": "Identify the specific Berry posts the host is characterising and compare their wording.",
@@ -2965,7 +2965,6 @@
         "C-1657"
       ],
       "mentions_person_refs": [
-        "N-244",
         "N-3"
       ]
     },
@@ -2998,7 +2997,7 @@
         "N-10231"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:32:54",
       "investigative_direction": "Check Stuckey's and Cordova's public collaborations and dates.",
@@ -3014,7 +3013,7 @@
       "@id": "C-7953",
       "ref": "C-7953",
       "label": "Host Says She Did the Work Herself and People Sent Her Material for the Timeline",
-      "claim": "The host says she did all the work herself, that people sent her material, and that her team then put together a timeline, and that she did not ask Allie Stuckey for any assistance.",
+      "claim": "The host says she doesn't think they asked Allie Stuckey for any assistance at all, that she did all the work, that people sent her material, and that they then put together a timeline.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10024"
@@ -3181,7 +3180,6 @@
       "transcript_snippet": "Turning Point USA, credit to them, said, \"We are not canceling Tucker Carlson.\"",
       "mentions_person_refs": [
         "N-22",
-        "N-246",
         "N-3"
       ]
     },
@@ -3216,7 +3214,7 @@
       "@id": "C-7962",
       "ref": "C-7962",
       "label": "Levin Says Tucker Attacked His Stepson Who Is Serving the Trump Administration",
-      "claim": "In the audio played on air, Mark Levin says Tucker Carlson attacked his stepson, who is serving President Trump on his second tour, and in a safe room while missiles passed overhead.",
+      "claim": "In the audio played on air, Mark Levin says Tucker Carlson attacked his stepson behind his back while the stepson was serving President Trump on his second tour, in safe rooms with ballistic missiles passing over his head.",
       "anchored_artifacts": [
         "A-1375.1"
       ],
@@ -3229,7 +3227,8 @@
       "transcript_snippet": "You stabbed him in the back while he's serving President Trump on his second tour, while he's in safe rooms",
       "mentions_person_refs": [
         "N-246",
-        "N-22"
+        "N-22",
+        "N-5"
       ]
     },
     {
@@ -3560,7 +3559,7 @@
         "N-11159"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:56:54",
       "investigative_direction": "Watch the full CNN interview and tally topics covered.",

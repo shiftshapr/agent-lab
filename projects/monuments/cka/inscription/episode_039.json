@@ -1293,9 +1293,9 @@
       "@type": "Person",
       "@id": "N-281",
       "ref": "N-281",
-      "name": "Bob Evan",
+      "name": "Bob Evnen",
       "type": "person",
-      "description": "Bob Evan (Nebraska Secretary of State, Bob Evnen); met international professionals off the record per the host.",
+      "description": "Bob Evnen (Nebraska Secretary of State, Bob Evnen); met international professionals off the record per the host.",
       "related_artifacts": [],
       "related_claims": [
         "C-10978"
@@ -1737,7 +1737,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-11008",
       "ref": "N-11008",
-      "name": "Satis",
+      "name": "Satys",
       "type": "investigation_target",
       "description": "Satis; reused for the shareholder and hangar items.",
       "related_artifacts": [],
@@ -1881,7 +1881,7 @@
       "@id": "C-1803",
       "ref": "C-1803",
       "label": "Robert Richards IV convicted in 2009 of raping his three-year-old daughter",
-      "claim": "Robert Richards IV was convicted in 2009 of raping his three-year-old daughter, seven years after the child reported the abuse.",
+      "claim": "Per a Vanity Fair article the host reads, Robert Richards IV was convicted in 2009 of raping his three-year-old daughter, seven years after the child reported the abuse.",
       "anchored_artifacts": [
         "A-1480.1"
       ],
@@ -1900,7 +1900,7 @@
       "@id": "C-1804",
       "ref": "C-1804",
       "label": "Per Vanity Fair Article Host Reads, Judge Jan Jordan Ruled Treatment in Lieu of Prison for Richards IV",
-      "claim": "Per a Vanity Fair article the host reads, Judge Jan Jordan ruled that Robert Richards IV would benefit from treatment instead of prison time, citing his height and other factors.",
+      "claim": "Per a Vanity Fair article the host reads, Judge Jan Jordan ruled that Robert Richards IV would benefit from treatment instead of prison time, after the article says the judge let him off arguing the 6'4 Richards would not fare well in prison.",
       "anchored_artifacts": [
         "A-1480.1"
       ],
@@ -1920,7 +1920,7 @@
       "@id": "C-1805",
       "ref": "C-1805",
       "label": "Robert H. Richards III is Richards IV's father and retired partner at Richards Layton & Finger",
-      "claim": "Robert H. Richards III, father of Robert Richards IV, is identified in the Vanity Fair article as a retired partner at the Richards Layton & Finger law firm.",
+      "claim": "Per a News Journal description the host reads, Robert H. Richards III, father of Robert Richards IV, is a retired partner at the Richards Layton & Finger law firm.",
       "anchored_artifacts": [
         "A-1480.1"
       ],
@@ -2033,7 +2033,7 @@
       "@type": "Claim",
       "@id": "C-1811",
       "ref": "C-1811",
-      "label": "Viewer theory that McRonone lawsuit was intended to pre-empt Candace's assassination",
+      "label": "Viewer Theory That Macron Lawsuit Was Intended to Pre-empt Candace's Assassination",
       "claim": "A viewer commented that the McRonone lawsuit was designed to go nowhere because Candace was supposed to have been assassinated before the case reached court, allowing plaintiffs to permanently claim she was lying.",
       "anchored_artifacts": [
         "A-1483.1"
@@ -2057,8 +2057,7 @@
       "claim_timestamp": "00:54:38–00:59:00",
       "investigative_direction": "No investigative direction; capture as audience signal.",
       "mentions_person_refs": [
-        "N-1",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -2083,7 +2082,7 @@
       "@id": "C-1814",
       "ref": "C-1814",
       "label": "Six TPUSA employees reported rumor that Justin Streiff made immediate call to donor prospect after assassination",
-      "claim": "Six people at Turning Point USA reported that Justin Streiff placed an immediate phone call to a donor prospect on the day of Charlie Kirk's assassination, the donor being described as having a billion-dollar IPO-related piece committed to TPUSA.",
+      "claim": "The host says, allegedly, that six people at Turning Point USA told her a rumor that Justin Streiff placed an immediate call to a donor prospect on the day of Charlie Kirk's assassination; she says these sources told her the donor had a piece of a billion-dollar company on the hook for TPUSA, with an anticipated IPO.",
       "anchored_artifacts": [
         "A-1486.1"
       ],
@@ -2092,7 +2091,7 @@
         "N-10300"
       ],
       "tags": [],
-      "claim_timestamp": "00:28:17",
+      "claim_timestamp": "00:27:25",
       "investigative_direction": "Obtain phone records or sworn statements from the named TPUSA sources to identify the called party.",
       "mentions_person_refs": [
         "N-15",
@@ -2121,7 +2120,7 @@
       "@id": "C-1816",
       "ref": "C-1816",
       "label": "TPUSA sources identified donor prospect as Pierre Dupont",
-      "claim": "After host mentioned \"Pierre Dupont\" on Episode 38, the same TPUSA sources confirmed that the donor prospect was Pierre Dupont.",
+      "claim": "The host says that after she presented the DuPont family material the previous day, the same TPUSA sources messaged her \"Oh, you figured it out. It's Pierre Dupont\"; she says she would like a clean answer as to whether the donor is Mr. Pierre Dupont.",
       "anchored_artifacts": [
         "A-1486.3"
       ],
@@ -2129,7 +2128,7 @@
         "N-10298"
       ],
       "tags": [],
-      "claim_timestamp": "00:32:01",
+      "claim_timestamp": "00:30:35",
       "investigative_direction": "Verify Pierre Dupont's existence and donor relationship through TPUSA's IRS Form 990 filings and donor disclosures.",
       "mentions_person_refs": []
     },
@@ -2138,7 +2137,7 @@
       "@id": "C-1817",
       "ref": "C-1817",
       "label": "Host Says Tyler Bowyer Discussed TPUSA Plans to Build Houses for First-Time Home Buyers",
-      "claim": "The host says, relaying what she learned from one of her sleuths (recorded as a TPUSA source who presented proof), that Tyler Bowyer was telling people TPUSA plans to roll out a program to build houses for first-time home buyers, leveraging TPUSA's position with young Christians as an audience.",
+      "claim": "The host says, relaying what one of her sleuths told her, that Tyler Bowyer had apparently begun telling people TPUSA plans to roll out a program to build houses for first-time home buyers, leveraging TPUSA's position with young Christians as an audience; she says the person presented some proof.",
       "anchored_artifacts": [
         "A-1486.4"
       ],
@@ -2149,8 +2148,7 @@
       "claim_timestamp": "00:47:01",
       "investigative_direction": "Obtain the supporting proof documentation and any internal TPUSA planning materials.",
       "mentions_person_refs": [
-        "N-11",
-        "N-299"
+        "N-11"
       ]
     },
     {
@@ -2334,7 +2332,7 @@
       "@id": "C-10954",
       "ref": "C-10954",
       "label": "Article Says Critics Noted Treatment Is Usually Offered to Addicts, Not Convicted Rapists",
-      "claim": "The host reads from the Vanity Fair article that critics have noted such treatment is usually offered only to drug addicts or those in possession of child pornography, not to convicted rapists.",
+      "claim": "The host reads from the Vanity Fair article that critics have noted the treatment Judge Jan Jordan ordered for Robert Richards IV is usually offered only to drug addicts or those in possession of child pornography, not to convicted rapists.",
       "anchored_artifacts": [
         "A-1480.1"
       ],
@@ -2357,7 +2355,7 @@
       "@id": "C-10955",
       "ref": "C-10955",
       "label": "News Journal Describes Richards as Unemployed Trust-Fund Owner of a 5,800 Square Foot Mansion",
-      "claim": "The host reads a News Journal description that Robert Richards IV is unemployed, supported by a trust fund, and owns a 5,800 square foot mansion in Greenville bought for $1.8 million in 2005, and that his ex-wife sued him for damages related to the abuse of their daughter.",
+      "claim": "The host reads a News Journal description that Robert Richards IV is unemployed, supported by a trust fund, and owns a 5,800 square foot mansion in Greenville bought for $1.8 million in 2005; earlier she reads that his ex-wife sued him for damages related to the abuse of their daughter.",
       "anchored_artifacts": [
         "A-1480.1"
       ],
@@ -2424,7 +2422,7 @@
       "@id": "C-10958",
       "ref": "C-10958",
       "label": "Host Says the Retired Founding Partner of the Firm Is a DuPont",
-      "claim": "The host says that the founding partner of the firm filing her paperwork, since retired, is a DuPont and that the firm therefore traces to the DuPont family.",
+      "claim": "The host says that the founding partner of the firm filing her paperwork, since retired, is DuPont, saying \"It's the DuPont family.\"",
       "anchored_artifacts": [
         "A-1480.1"
       ],
@@ -2515,7 +2513,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:10:39",
       "investigative_direction": "Ask the host which source or document revealed the alleged plot and whether it has been reported to law enforcement.",
@@ -2611,7 +2609,7 @@
         "N-10304"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:12:14",
       "investigative_direction": "Search Delaware corporate records for Cloverstone Ventures, its registered agent and members, and match payments against TPUSA filings.",
@@ -2786,8 +2784,7 @@
       "transcript_snippet": "I asked Tucker what made you say that and he said I had no plan to say it just came out of my mouth",
       "mentions_person_refs": [
         "N-22",
-        "N-3",
-        "N-1"
+        "N-3"
       ]
     },
     {
@@ -2887,7 +2884,7 @@
       ],
       "claim_timestamp": "00:17:14",
       "investigative_direction": "File a Nebraska public-records request for the meeting calendar, attendee list and trade mission planning documents.",
-      "transcript_snippet": "who were these professionals that met with Secretary of State Bob Evan? Why is this meeting somehow off record?",
+      "transcript_snippet": "who were these professionals that met with Secretary of State Bob Evnen? Why is this meeting somehow off record?",
       "supports_claim_refs": [
         "C-1776"
       ],
@@ -2995,7 +2992,7 @@
       "@id": "C-10983",
       "ref": "C-10983",
       "label": "Host Says Lila Rose and Allie Beth Stuckey Disputed Her Account of Tour Planning",
-      "claim": "The host says that Lila Rose and Allie Beth Stuckey, whom she says have never headlined their tour, publicly said her claim about how tours are planned was not true.",
+      "claim": "The host says that Lila Rose and Allie Beth Stuckey, whom she says have never headlined their tour, suddenly said her claim about how tours are planned was not true.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3365,6 +3362,9 @@
       "transcript_snippet": "And that's also happens to be the same day that that Operation Bright Star, that Cairo joint operation formally ends.",
       "supports_claim_refs": [
         "C-1787"
+      ],
+      "mentions_person_refs": [
+        "N-1"
       ]
     },
     {
@@ -3414,8 +3414,8 @@
       "@type": "Claim",
       "@id": "C-11001",
       "ref": "C-11001",
-      "label": "Host Asks Viewers to Help Identify the Donor Streiff Called",
-      "claim": "The host says she asked her audience and sources to try to figure out which donor Justin Streiff allegedly called immediately after the shooting.",
+      "label": "Host Asked Everybody to Help Identify the Donor Streiff Allegedly Called",
+      "claim": "The host says that when she heard the rumor of the call she said she would like to know more and asked everybody to try to figure out which donor Justin Streiff allegedly called immediately after the shooting.",
       "anchored_artifacts": [
         "A-3115.1"
       ],
@@ -3469,10 +3469,7 @@
       ],
       "claim_timestamp": "00:28:17",
       "investigative_direction": "Interview donations staff and the host's sources about who knew of the arrangement.",
-      "transcript_snippet": "just a handful of people were allowed to even know about this that this was happening.",
-      "mentions_person_refs": [
-        "N-1"
-      ]
+      "transcript_snippet": "just a handful of people were allowed to even know about this that this was happening."
     },
     {
       "@type": "Claim",
@@ -3984,7 +3981,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:57:40",
       "investigative_direction": "Likely a viewer joke on a Candace Intelligence Agency; the transcript reads Canada's, so check the live chat.",

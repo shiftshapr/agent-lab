@@ -1161,7 +1161,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10769",
       "ref": "N-10769",
-      "name": "Lozi Center Gun Verification Gap",
+      "name": "Losee Center Gun Verification Gap",
       "type": "investigation_target",
       "description": "Reused for the weapon recovery and eyewitness description.",
       "related_artifacts": [],
@@ -1494,7 +1494,7 @@
       "@id": "C-5277",
       "ref": "C-5277",
       "label": "Lone rooftop eyewitness not contacted by lawyers or investigators",
-      "claim": "The host says the lone confirmed eyewitness who saw the alleged shooter on the Lozi Center rooftop before the shot has not been contacted by the lawyers or investigators on either side, even though the investigation phase before the May probable cause hearing is under way.",
+      "claim": "The host says the lone confirmed eyewitness who saw the alleged shooter on the Losee Center rooftop before the shot has not been contacted by the lawyers or investigators on either side, even though the investigation phase before the May probable cause hearing is under way.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10719",
@@ -1587,7 +1587,7 @@
       "@id": "C-5282",
       "ref": "C-5282",
       "label": "Dogs were not given the weapon's scent to trace it back to the roof",
-      "claim": "The host says the canines were not provided with the scent of the weapon once it was discovered, so the dogs did not trace it back to the top of the Lozi Center.",
+      "claim": "The host says the canines were not provided with the scent of the weapon once it was discovered, so the dogs did not trace it back to the top of the Losee Center.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10360",

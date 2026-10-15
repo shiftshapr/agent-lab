@@ -1,0 +1,814 @@
+[
+ {
+  "claim": "C-1940",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1941",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-219 (Eliza McCoy) is not in the claim. Host narrates the tweet; claim states it as fact without \"The host says\".",
+  "fix": {
+   "claim": "The host says Andrew Kolvet posted a tweet attributing to a surgeon the claim, which she reads as allegedly from a surgeon, that Charlie Kirk's bone density was so healthy he was \"like the man of steel\" and the bullet should have passed through.",
+   "mentions": [
+    "N-14",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1942",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"he said he spoke to the surgeon and they confirmed that Andrew spoke to the surgeon, but that they did not know that he was going to write that tweet.\" Kolvet did not admit it; N-219 not named.",
+  "fix": {
+   "claim": "The host says Andrew Kolvet said he spoke to the surgeon, and that they confirmed Kolvet spoke to the surgeon but that the surgeon did not know Kolvet was going to write the tweet.",
+   "mentions": [
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-1943",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip of Tim Pool; garbled \"no wall\" vs \"4-ft wall\" in clip.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1944",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1945",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-2 not named. Transcript spells \"Shafer\"; confirmed real name Greg Shaffer / Shaffer Security Group (node N-334 \"Schaefer\" also wrong).",
+  "fix": {
+   "claim": "Candace Owens retained separate security from Charlie Kirk's from the beginning; Charlie's initial security was Shaffer Security, operated by Greg Shaffer, employing Dan Flood and Brian Harpole.",
+   "mentions": [
+    "N-334",
+    "N-268",
+    "N-3",
+    "N-1",
+    "N-272"
+   ],
+   "names": [
+    {
+     "wrong": "Greg Shafer",
+     "right": "Greg Shaffer",
+     "source": "https://publish.obsidian.md/charliefiles/people/Greg+Shaffer"
+    },
+    {
+     "wrong": "Greg Schaefer",
+     "right": "Greg Shaffer",
+     "source": "https://publish.obsidian.md/charliefiles/people/Greg+Shaffer"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1946",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Erika Kirk (N-2) not named in claim.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1947",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "N-2 Erika Kirk is not in the claim; Candace (N-3) is the subject.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-1948",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "N-2 Erika Kirk not in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-1949",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Husband remarks come at ~40:00 (Wikipedia change), about 60s before 41:01. She hedges: \"I could be wrong... I don't think he's ever flown over Qatar\", \"I know he's never been to Qatar\".",
+  "fix": {
+   "claim": "Per Candace, her husband's Wikipedia page was changed to say he had a Qatari passport or citizenship, which she says is made up; she says he has never been to Qatar and does not think he has ever flown over it.",
+   "timestamp": "00:39:55"
+  }
+ },
+ {
+  "claim": "C-1950",
+  "episode": 47,
+  "attribution": "error",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Speaker is a person in a Viva Frei clip (\"I believe you've watched it now, Viva\"), saying \"apparently\" Turkey Tom was in the Discord chats. N-211 Joe Kent not in claim.",
+  "fix": {
+   "claim": "In a clip the host plays, a speaker addressing Viva Frei says a video by Turkey Tom, described as someone who was in the Discord chats with Tyler Robinson and apparently spent time with them at the apartment, says \"100%\" this is how they talked.",
+   "mentions": [
+    "N-330",
+    "N-335",
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-1951",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"he said he told the nurses that he was paid to do that\"; \"do that\" is unspecified, claim adds \"claim to be the shooter\".",
+  "fix": {
+   "claim": "Per Candace, George Zin, who was treated at Utah Valley, said he told the nurses that he was paid to do that."
+  }
+ },
+ {
+  "claim": "C-1952",
+  "episode": 47,
+  "attribution": "error",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Allegedly the rumors are, Kash Patel... getting mad\" is the clip speaker (Viva Frei segment), not Candace; claim also drops \"rumors\".",
+  "fix": {
+   "claim": "In a clip the host plays, a speaker says that allegedly the rumors are that Kash Patel is getting mad at Tulsi Gabbard and Joe Kent for trying to look into a potential terrorist angle to the Kirk case."
+  }
+ },
+ {
+  "claim": "C-1953",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Window 10:35-13:05 has no mention of mass or conversion; only Catholicism remark/tribute. Content located elsewhere (possibly Mazzone super chat); could not locate in provided text.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1954",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says Dillon \"definitively pressed Charlie... firecracker moment\" at ~30:35, 40s before 31:16; claim lacks attribution to host.",
+  "fix": {
+   "claim": "The host says Seth Dillon pressed Charlie Kirk at the Hampton retreat over a hypothetical tweet against Bibi Netanyahu, producing a heated moment.",
+   "timestamp": "00:30:25"
+  }
+ },
+ {
+  "claim": "C-1955",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Speaker says \"Andrew Seifer, who's our head of field\"; confirmed head of field is Andrew Sypher (tpusa.com); name is a transcription error.",
+  "fix": {
+   "claim": "In a clip from the Charlie Kirk Show that the host plays, a speaker identifies Andrew Sypher as TPUSA's head of field.",
+   "names": [
+    {
+     "wrong": "Andrew Seifer",
+     "right": "Andrew Sypher",
+     "source": "https://www.tpusa.com/andrewsypher"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1956",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Andrew Seifer not named in claim. Location-on-website statement is ~50:20, ~40s before 51:02.",
+  "fix": {
+   "mentions": [],
+   "timestamp": "00:50:15"
+  }
+ },
+ {
+  "claim": "C-1957",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"The earliest that we found that was on September 2nd\" spoken ~51:25, ~55s before 52:22; claim drops \"that we found\".",
+  "fix": {
+   "claim": "The host says the earliest mention of the UVU courtyard location that her team found was on September 2, when local media on KAMYU said Charlie Kirk was speaking in the courtyard.",
+   "timestamp": "00:51:20"
+  }
+ },
+ {
+  "claim": "C-1958",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "August 27 graphic statement is at ~51:45, ~38s before 52:22.",
+  "fix": {
+   "timestamp": "00:51:40"
+  }
+ },
+ {
+  "claim": "C-1959",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14003",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14004",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14005",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14006",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14007",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Alex Clark (N-99) and Kolvet (N-14) not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-14008",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14009",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14010",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14011",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14012",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14013",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14014",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14015",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14016",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14017",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14018",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14019",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14020",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14021",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14022",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14023",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14024",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14025",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Shawn Ryan (N-226) not named in this claim.",
+  "fix": {
+   "mentions": [
+    "N-268",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-14026",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14027",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14028",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14029",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14030",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14031",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14032",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14033",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14034",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14035",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14036",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14037",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim says he was trained \"to do so\" (call Erika); host only says he trained and Charlie said \"1 2 3 go\", sentence cut off.",
+  "fix": {
+   "claim": "The host says the public was given the impression over and over by many people that the first person Mikey McCoy called was Erika Kirk, and that he had gone to a camp and trained."
+  }
+ },
+ {
+  "claim": "C-14038",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14039",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14040",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: third person \"I am not interested in mentioning\"; then \"This is Danny McCoy... his brother... but that's before the shot goes off\". Explicit correction not stated here.",
+  "fix": {
+   "claim": "The host says Mikey McCoy three-wayed a third person she declines to name, and adds that Danny McCoy is his brother in the military, with that contact being before the shot."
+  }
+ },
+ {
+  "claim": "C-14041",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14042",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

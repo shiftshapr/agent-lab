@@ -168,11 +168,11 @@ Confidence: high
 
 **A-1102** Hamptons Retreat Invitation Bundle
 
-**A-1102.1** Aaron Wexler-sent Hamptons weekend retreat invitations; multi-day retreat with smaller meetings plus main event
+**A-1102.1** Arynne Wexler-sent Hamptons weekend retreat invitations; multi-day retreat with smaller meetings plus main event
 Event Timestamp: 2025-08-04
 Video Timestamp: 00:41:59–00:42:29
 *Related: C-1160, N-56, N-37, N-10033*
-Transcript Snippet: Aaron Wexler sent out some of the invitations...first day of the retreat of which there were smaller meetings
+Transcript Snippet: Arynne Wexler sent out some of the invitations...first day of the retreat of which there were smaller meetings
 Confidence: medium
 
 ---
@@ -431,7 +431,7 @@ Subject of pressure campaign to distance from Charlie.
 
 ---
 
-**N-56** Aaron Wexler
+**N-56** Arynne Wexler
 
 Node Type: Person
 Reportedly sent Hamptons retreat invitations.
@@ -2291,19 +2291,19 @@ Investigative Direction: Identify when and to whom the host declined funding; th
 
 ---
 
-**C-13550** Host Says Attendees Confirm Charlie Was Pressed at a Weekend Where Aaron Wexler Sent Invitations
+**C-13550** Host Says Attendees Confirm Charlie Was Pressed at a Weekend Where Arynne Wexler Sent Invitations
 
 Claim Timestamp: 00:41:32
 
-Claim: The host says people who attended the Hamptons weekend, for which Aaron Wexler sent out some of the invitations, confirm that Charlie was pressed.
+Claim: The host says people who attended the Hamptons weekend, for which Arynne Wexler sent out some of the invitations, confirm that Charlie was pressed.
 
-Transcript Snippet: in which Aaron Wexler sent out some of the invitations to they're confirming that Charlie was pressed.
+Transcript Snippet: in which Arynne Wexler sent out some of the invitations to they're confirming that Charlie was pressed.
 
 Anchored Artifacts: A-1102.1
 Mentions: N-56, N-1
 Related Nodes: N-10134, N-10033
 Tags: relevance:core
-Investigative Direction: Identify the attendees and obtain the invitation list, schedule and any messages sent by Aaron Wexler.
+Investigative Direction: Identify the attendees and obtain the invitation list, schedule and any messages sent by Arynne Wexler.
 
 ---
 

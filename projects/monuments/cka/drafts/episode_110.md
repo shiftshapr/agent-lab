@@ -179,7 +179,7 @@ Confidence Level: Low (comment-sourced reference; primary X account not displaye
 
 **A-2083.1** Local media article about Nebraska–Egypt trade and investment trip
 
-Host references: "Nebraska is going to do a trade and investment trip with Egypt. There was some private off-record meeting that took place with international professionals per the local media. We don't know who those professionals were that were meeting with Bob Evan, the Secretary of State."
+Host references: "Nebraska is going to do a trade and investment trip with Egypt. There was some private off-record meeting that took place with international professionals per the local media. We don't know who those professionals were that were meeting with Bob Evnen, the Secretary of State."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -574,7 +574,7 @@ Named in a viewer comment about Erika Kirk's CBS interview.
 
 ---
 
-**N-281** Bob Evan
+**N-281** Bob Evnen
 
 Nebraska Secretary of State named in the host's Nebraska-Egypt trade trip claim.
 

@@ -1,0 +1,789 @@
+[
+ {
+  "claim": "C-9733",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9734",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "A tip address is not about the assassination; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9735",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9736",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9737",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9738",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9739",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9740",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9741",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9742",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9743",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9744",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9745",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9746",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Patel's marriage/relationship is a private personal-life matter; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9747",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9748",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9749",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9750",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9751",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9752",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9753",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Rob McCoy and the school but not Mikey McCoy; N-192 is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-17"
+   ]
+  }
+ },
+ {
+  "claim": "C-9754",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names only Calvary Chapel and the Christian Academy; Rob McCoy (N-17) is not named in the claim.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-9755",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9756",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9757",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9758",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Kanye tweet banter does not bear on the assassination; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9759",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Kanye/Hollywood remarks do not bear on the assassination; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9760",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Kanye tweet text; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9761",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9762",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9763",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9764",
+  "episode": 30,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1682",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Turek: \"this idea that she's making all these suggestions without evidence very painful\"; accusations \"that's not evidence\". Claim blends the two. Charlie Kirk (N-1) not named in claim.",
+  "fix": {
+   "claim": "In a CBN News clip the host plays, Frank Turek says he finds the idea that Candace Owens is making all these suggestions \"without evidence\" very painful for people, and that once you start \"launching accusations\" such as that TPUSA betrayed Charlie or that Charlie told her something in a dream, \"that's not evidence\".",
+   "mentions": [
+    "N-7",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-1683",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Jay Warner Wallace\" is J. Warner Wallace (confirmed: Turek podcast episode with Wallace on Charlie Kirk conspiracy theories).",
+  "fix": {
+   "claim": "In the same CBN News interview, Frank Turek stated he had \"Detective J. Warner Wallace\" on his podcast two weeks after \"Charlie's martyrdom\", because people do not understand how murder prosecutions work.",
+   "names": [
+    {
+     "wrong": "Jay Warner Wallace",
+     "right": "J. Warner Wallace",
+     "source": "https://podcasts.apple.com/us/podcast/charlie-kirk-conspiracy-theories-homicide-detective/id1297439270?i=1000729996709"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1684",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1685",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Email is read from 08:17 (\"I was 8 years old, living in Dana Point\"); claim ts 06:39 is ~98s early. The year 1995 is the host's remark, not in the email.",
+  "fix": {
+   "timestamp": "00:08:10",
+   "claim": "Owens reads aloud an email from a woman who states she was 8 years old and living in Dana Point, California, when Thomas Camino approached her and a friend to help find his cat, took them to a park behind her house, and attempted to molest her before she ran away; she identifies as a key witness at his trial."
+  }
+ },
+ {
+  "claim": "C-1686",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "McCoy: \"20 years ago when we were over at Skyline\"; claim says \"over 20 years\".",
+  "fix": {
+   "claim": "On the Bryce Eddie Show podcast clip played in the episode, Rob McCoy states that about 20 years ago at \"Skyline\" Thomas Camino introduced himself, that Camino \"followed the procedures\" required of him, that they have been friends since, and that Camino has \"served this community.\"",
+   "label": "Rob McCoy Describes a Roughly 20-Year Friendship With Thomas Camino"
+  }
+ },
+ {
+  "claim": "C-1687",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Clip only has McCoy citing \"gossip and slander\" and pulling a home-fellowship ad to protect Camino's family; it does not corroborate that he approved Camino's inclusion. That is the host's statement.",
+  "fix": {
+   "claim": "Owens states that Rob McCoy decided Thomas Camino should have access to young children through a Calvary Chapel program called home fellowship that put him \"inside the homes of children\"; in the podcast clip she plays, McCoy cites \"the gossip and the slander\" of his friend and says he personally made the call to pull a home fellowship advertisement because he wanted Camino's family protected."
+  }
+ },
+ {
+  "claim": "C-1688",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"falsely accused\" confirmed at ~14:20; \"sham\", 1,536 days and ex-wife/public defender fall beyond the supplied window, unverified.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1689",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "McCoy: \"the gossip and the slander of my friend\"; \"I wanted your family protected\". He does not mention placement with children or mothers/2022; those are the host's framing.",
+  "fix": {
+   "claim": "In the podcast clip, Rob McCoy says he was compelled by \"the gossip and the slander\" of his friend Thomas Camino, and says he personally made the call because he wanted Camino's family protected.",
+   "label": "Rob McCoy Calls Criticism of Camino \"Gossip and Slander\""
+  }
+ },
+ {
+  "claim": "C-1690",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Carlson and Owens (and an unnamed reporter); Charlie Kirk (N-1) is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-1691",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Tim Dillon (N-279) but Mentions omits him.",
+  "fix": {
+   "mentions": [
+    "N-279",
+    "N-214",
+    "N-69"
+   ]
+  }
+ },
+ {
+  "claim": "C-1692",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1693",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"throwback clip from Charlie and I back when I had a show on Prageru\"; she does not say they co-hosted a segment.",
+  "fix": {
+   "claim": "The episode plays a throwback clip, which the host says is from her former PragerU show, of Candace Owens and Charlie Kirk discussing the type of allies one wants during crisis (\"foxhole\" allies), with Kirk stating one should identify \"where the bullets are coming from\" rather than deny their existence."
+  }
+ },
+ {
+  "claim": "C-1694",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Mama Diaz writes\" is at ~59:35; claim ts 58:13 is ~84s early.",
+  "fix": {
+   "timestamp": "00:59:30"
+  }
+ },
+ {
+  "claim": "C-6597",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6598",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6599",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6600",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6601",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6602",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6603",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"We are looking for answers from his friends\" refers to Charlie's friends; claim reads as Turek's friends.",
+  "fix": {
+   "claim": "The host says she personally invited Frank Turek onto her show because she wants answers, and that she wants to hear from Charlie Kirk's friends rather than the prosecution."
+  }
+ },
+ {
+  "claim": "C-6604",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6605",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6606",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6607",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6608",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Camino's conviction and McCoy's friendship are background, not the assassination; context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6609",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Camino's conviction and McCoy's friendship are background, not the assassination; context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6610",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Camino's conviction and McCoy's friendship are background, not the assassination; context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-6611",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Camino's conviction and McCoy's friendship are background, not the assassination; context.",
+  "fix": {
+   "relevance": "context"
+  }
+ }
+]

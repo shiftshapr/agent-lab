@@ -1,0 +1,773 @@
+[
+ {
+  "claim": "C-1806",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1807",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1808",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1809",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1810",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1811",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Viewer comment says \"Macron's lawsuit\"; claim has \"McRonone\" (host says \"Brit McRone\" = Brigitte Macron).",
+  "fix": {
+   "claim": "A viewer comment the host reads says the Macron lawsuit was supposed to go nowhere because Candace was supposed to have been assassinated before the case got to court, so they could forever claim she was lying.",
+   "label": "Viewer Theory That Macron Lawsuit Was Intended to Pre-empt Candace's Assassination"
+  }
+ },
+ {
+  "claim": "C-1812",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Erika Kirk is mentioned by host before 54:38, not in the comments or the claim.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1813",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1814",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"This is alleged... rumor\"; six people said it. Claim drops hedge and says IPO piece \"committed\"; host says donor had bait on the hook, anticipating an IPO.",
+  "fix": {
+   "claim": "The host says, allegedly, that six people at Turning Point USA told her a rumor that Justin Streiff placed an immediate call to a donor prospect on the day of Charlie Kirk's assassination; she says the donor had a piece of a billion-dollar company on the hook for TPUSA, with an anticipated IPO.",
+   "timestamp": "00:27:25"
+  }
+ },
+ {
+  "claim": "C-1815",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript says \"these young women\"/\"these ladies\", never \"two\".",
+  "fix": {
+   "claim": "The host says young women among her TPUSA sources told her the donor prospect was French American and named Pierre; she says she forgot this detail until it clicked after her DuPont presentation the previous day."
+  }
+ },
+ {
+  "claim": "C-1816",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Sources messaged \"Oh, you figured it out. It's Pierre Dupont!?!\" (~30:40); host says she wants \"a clean answer as to whether or not it is Mr. Pierre Dupont\". Not confirmed. 32:01 is ~80s late.",
+  "fix": {
+   "claim": "The host says that after she presented the DuPont family material the previous day, the same TPUSA sources messaged her \"Oh, you figured it out. It's Pierre Dupont\"; she says she would like a clean answer as to whether the donor is Mr. Pierre Dupont.",
+   "timestamp": "00:30:35"
+  }
+ },
+ {
+  "claim": "C-1817",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Tyler Bowyer's brother is not referred to in the claim. Host says \"Apparently\"; claim drops it and adds \"TPUSA source\".",
+  "fix": {
+   "mentions": [
+    "N-11"
+   ],
+   "claim": "The host says, relaying what one of her sleuths told her, that Tyler Bowyer had apparently begun telling people TPUSA plans to roll out a program to build houses for first-time home buyers, leveraging TPUSA's position with young Christians as an audience; she says the person presented some proof."
+  }
+ },
+ {
+  "claim": "C-1818",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1819",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"BB\" = Netanyahu not named by host here; left as is.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3652",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says she messaged her mommy and daddy sleuths and sources; they did not email tips, and no praise is expressed.",
+  "fix": {
+   "claim": "The host says she began messaging \"our mommy sleuths and our daddy's sleuths\" and her sources at Turning Point USA to ask what they could tell her about the donor."
+  }
+ },
+ {
+  "claim": "C-3718",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10949",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10950",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10951",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10952",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10953",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10954",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names no one; Richards IV and Judge Jordan are not referred to in the claim text.",
+  "fix": {
+   "claim": "The host reads from the Vanity Fair article that critics have noted the treatment Judge Jan Jordan ordered for Robert Richards IV is usually offered only to drug addicts or those in possession of child pornography, not to convicted rapists."
+  }
+ },
+ {
+  "claim": "C-10955",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Ex-wife lawsuit is from the Vanity Fair article before the News Journal quote, not the News Journal description.",
+  "fix": {
+   "claim": "The host reads a News Journal description that Robert Richards IV is unemployed, supported by a trust fund, and owns a 5,800 square foot mansion in Greenville bought for $1.8 million in 2005; earlier she reads that his ex-wife sued him for damages related to the abuse of their daughter."
+  }
+ },
+ {
+  "claim": "C-10956",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10957",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"paperwork for you\"; \"lawsuit brought by the Macrons\" is not said here.",
+  "fix": {
+   "claim": "The host says that the Richards, Layton & Finger law firm named in the article, of which Robert H. Richards is a retired partner, is the firm filing paperwork for her, and that she did not know this until the previous day."
+  }
+ },
+ {
+  "claim": "C-10958",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says founding partner \"is DuPont. It's the DuPont family\"; \"therefore traces\" is added inference. N-295 not named in claim (unresolved link).",
+  "fix": {
+   "claim": "The host says that the founding partner of the firm filing her paperwork, since retired, is DuPont, saying \"It's the DuPont family.\""
+  }
+ },
+ {
+  "claim": "C-10959",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10960",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10961",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10962",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "A plot to murder the host is background to, not part of, the Kirk assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-10963",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10964",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10965",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10966",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Sheridan's LLCs/registered agent is context (cf. C-10964, C-10967 tagged context).",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-10967",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10968",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10969",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10970",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10971",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10972",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10973",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10974",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not refer to Charlie Kirk (only Tucker and the host).",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-10975",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10976",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10977",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"Right after that\" follows the UVU request ~7 days after the speech, not the speech itself.",
+  "fix": {
+   "claim": "The host says that right after the reported UVU event request the Egyptian yellow plane flew to Lincoln, Nebraska, and two days later Nebraska announced a trade and investment trip with Egypt."
+  }
+ },
+ {
+  "claim": "C-10978",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host says \"Secretary of State Bob Evan\"; Nebraska SoS is Bob Evnen (sos.nebraska.gov). Node N-281 name is a transcription error.",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Bob Evan",
+     "right": "Bob Evnen",
+     "source": "https://sos.nebraska.gov/2025-trade-and-investment-mission-egypt-and-israel"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-10979",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10980",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10981",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: \"Why Rei\" (node says Why Refi / Y Refi); no web source found.",
+  "fix": {}
+ },
+ {
+  "claim": "C-10982",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10983",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says they were \"suddenly saying that's not true\"; \"publicly\" is not stated.",
+  "fix": {
+   "claim": "The host says that Lila Rose and Allie Beth Stuckey, whom she says have never headlined their tour, suddenly said her claim about how tours are planned was not true."
+  }
+ },
+ {
+  "claim": "C-10984",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10985",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10986",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10987",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10988",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10989",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10990",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10991",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10992",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

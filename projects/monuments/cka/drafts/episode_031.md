@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-Episode 31 advances two principal evidentiary threads: (1) a documentary case linking Rob McCoy and the Calvary Chapel network to the post-conviction rehabilitation and child-access placement of Thomas Michael Camino (a 1995 California sex-offense convict), and (2) public-comment follow-up from the prior episode. The Camino thread is anchored by a 1995 LA Times article read on air, an email from a victim, and audio clips from a podcast appearance on the "Bryce Eddie show" where McCoy introduces Camino and Camino asserts his innocence. The Frank Turek interview on CBN News is read on air, producing two artifact-backed claims regarding prosecution-process objections and a reference to Detective Jay Warner Wallace.
+Episode 31 advances two principal evidentiary threads: (1) a documentary case linking Rob McCoy and the Calvary Chapel network to the post-conviction rehabilitation and child-access placement of Thomas Michael Camino (a 1995 California sex-offense convict), and (2) public-comment follow-up from the prior episode. The Camino thread is anchored by a 1995 LA Times article read on air, an email from a victim, and audio clips from a podcast appearance on the "Bryce Eddie show" where McCoy introduces Camino and Camino asserts his innocence. The Frank Turek interview on CBN News is read on air, producing two artifact-backed claims regarding prosecution-process objections and a reference to Detective J. Warner Wallace.
 
 The second half of the episode pivots to rhetorical display of two external media clips: Tucker Carlson refusing to denounce Owens during a foreign-press interview, and Tim Dillon's comedy commentary on Kash Patel's girlfriend. A lengthy YouTube-comment reading segment produces several artifact-backed claims, most notably a commenter alleging security-guard coordination at the Charlie Kirk event and another describing a Calvary Chapel pastor calling for the burning of Bibles depicting Palestine. The episode does not introduce new documentary evidence on the Charlie Kirk assassination timeline itself; instead it advances character-network allegations against the TPUSA Faith organizational sphere.
 
@@ -597,7 +597,7 @@ Confidence Level: Low
 
 **N-7** Frank Turek
 
-Pastor described by host as the friend wearing the white hat beside Charlie Kirk at the assassination. Appears on CBN News interview (A-1391.1) criticizing host's evidentiary approach and referencing Detective Jay Warner Wallace.
+Pastor described by host as the friend wearing the white hat beside Charlie Kirk at the assassination. Appears on CBN News interview (A-1391.1) criticizing host's evidentiary approach and referencing Detective J. Warner Wallace.
 
 Evidence Count: 1
 Claim Count: 2
@@ -649,7 +649,7 @@ Investigative Pressure: Low
 
 **N-10246** Calvary Chapel Institutional Abuse Pattern
 
-Persistent investigative target concerning multiple Calvary Chapel-affiliated abuse scandals referenced in this episode: Calvary Chapel Florida (Bob Coy), Woodlands (2024 arrest), Carrie (lead pastor resignation), Mission Viejo, Solid Rock (Jason James Taylor), North County Chapel Post Falls (Anthony Eglacius, Robert Davis), Virginia (Doug Deandria), Fort Lauderdale (2019), North Thirsten Oregon (Jeffrey Keon Ziz).
+Persistent investigative target concerning multiple Calvary Chapel-affiliated abuse scandals referenced in this episode: Calvary Chapel Florida (Bob Coy), Woodlands (2024 arrest), Carrie (lead pastor resignation), Mission Viejo, Solid Rock (Jason James Taylor), North County Chapel Post Falls (Anthony Iglesias, Robert Davis), Virginia (Doug DeAndrea), Fort Lauderdale (2019), North Thirsten Oregon (Jeffrey Zizz).
 
 Evidence Count: 1 (host narration only; no displayed per-incident sources in this episode)
 Claim Count: 0 (no per-incident displayed sources; host statement only)
@@ -1103,9 +1103,9 @@ First named by the host at 00:19:19 in episode 31. Lead pastor of Calvary Chapel
 
 ---
 
-**N-765** Anthony Eglacius
+**N-765** Anthony Iglesias
 
-First named by the host at 00:19:19 in episode 31. Named by the host (spelled Anthony Eglacius) as a predator the Post Falls church allegedly concealed; she says he is serving time in Idaho.
+First named by the host at 00:19:19 in episode 31. Named by the host (spelled Anthony Iglesias) as a predator the Post Falls church allegedly concealed; she says he is serving time in Idaho.
 
 *Related: C-6625*
 
@@ -1119,7 +1119,7 @@ First named by the host at 00:19:19 in episode 31. Reverend and lead pastor of N
 
 ---
 
-**N-767** Doug Deandria
+**N-767** Doug DeAndrea
 
 First named by the host at 00:21:14 in episode 31. Former Calvary Chapel pastor in Virginia the host says pleaded guilty to child sex abuse.
 
@@ -1127,7 +1127,7 @@ First named by the host at 00:21:14 in episode 31. Former Calvary Chapel pastor 
 
 ---
 
-**N-768** Jeffrey Keon Ziz
+**N-768** Jeffrey Zizz
 
 First named by the host at 00:21:14 in episode 31. Oregon Calvary Chapel pastor the host says confessed to misconduct with his daughters and later committed a murder (name as rendered in the transcript).
 
@@ -1166,22 +1166,22 @@ Dispute between Thomas Camino's podcast account of a false conviction and the 19
 
 Claim Timestamp: 00:02:06
 
-Claim: In a CBN News interview aired in the episode, Frank Turek stated that Candace Owens is making suggestions "without evidence" and that "as soon as you start launching accusations" the situation becomes painful for people.
+Claim: In a CBN News clip the host plays, Frank Turek says he finds the idea that Candace Owens is making all these suggestions "without evidence" very painful for people, and that once you start "launching accusations" such as that TPUSA betrayed Charlie or that Charlie told her something in a dream, "that's not evidence".
 
 Anchored Artifacts: A-1391.1
-Mentions: N-1, N-7, N-3
+Mentions: N-7, N-3, N-1
 Investigative Direction: Obtain full CBN News clip and verify exact wording; cross-reference Turk's stated absence of episode-watching against specific claims in the Bride of Charlie series.
 
 ---
 
-**C-1683** Frank Turek Invited Jay Warner Wallace onto His Podcast Two Weeks After Kirk's Death
+**C-1683** Frank Turek Invited J. Warner Wallace onto His Podcast Two Weeks After Kirk's Death
 
 Claim Timestamp: 00:02:06
 
-Claim: In the same CBN News interview, Frank Turek stated he had invited "Detective Jay Warner Wallace" onto his podcast two weeks after "Charlie's martyrdom" to explain how murder prosecutions work.
+Claim: In the same CBN News interview, Frank Turek stated he had "Detective J. Warner Wallace" on his podcast two weeks after "Charlie's martyrdom", because people do not understand how murder prosecutions work.
 
 Anchored Artifacts: A-1391.1
-Mentions: N-7
+Mentions: N-7, N-1
 Investigative Direction: Locate and verify Frank Turek's podcast and the Wallace episode; cross-reference Wallace's stated expertise against any public statements on the Kirk case.
 
 ---
@@ -1200,9 +1200,9 @@ Investigative Direction: Retrieve original LA Times 1995 article and California 
 
 **C-1685** Adult Victim of Thomas Camino (Age 8 in 1995) Emailed Owens Recounting the Incident
 
-Claim Timestamp: 00:06:39
+Claim Timestamp: 00:08:10
 
-Claim: Owens reads aloud an email from a woman who states she was 8 years old in Dana Point, California, in 1995, when Thomas Camino approached her and a friend to help find his cat, took them to a park behind her house, and attempted to molest her before she ran away; she identifies as a key witness at his trial.
+Claim: Owens reads aloud an email from a woman who states she was 8 years old and living in Dana Point, California, when Thomas Camino approached her and a friend to help find his cat, took them to a park behind her house, and attempted to molest her before she ran away; she identifies as a key witness at his trial.
 
 Anchored Artifacts: A-1392.1
 Mentions: N-251
@@ -1211,11 +1211,11 @@ Investigative Direction: Verify sender identity, confirm testimony record in Peo
 
 ---
 
-**C-1686** Rob McCoy Maintained a 20+ Year Friendship With Thomas Camino After Conviction
+**C-1686** Rob McCoy Describes a Roughly 20-Year Friendship With Thomas Camino
 
 Claim Timestamp: 00:12:54
 
-Claim: On the Bryce Eddie Show podcast clip played in the episode, Rob McCoy states he has been friends with Thomas Camino for over 20 years since Camino's introduction at "Skyline," and that Camino has "followed the procedures" required of him and "served this community."
+Claim: On the Bryce Eddie Show podcast clip played in the episode, Rob McCoy states that about 20 years ago at "Skyline" Thomas Camino introduced himself, that Camino "followed the procedures" required of him, that they have been friends since, and that Camino has "served this community."
 
 Anchored Artifacts: A-1394.1
 Mentions: N-251, N-17
@@ -1227,7 +1227,7 @@ Investigative Direction: Obtain full unedited Bryce Eddie Show episode; verify S
 
 Claim Timestamp: 00:12:54
 
-Claim: Owens states, and the Rob McCoy podcast clip corroborates, that McCoy personally approved Thomas Camino's inclusion in the Calvary Chapel "home fellowship" program, which placed him "inside the homes of children," and that McCoy framed resulting criticism as "gossip and slander."
+Claim: Owens states that Rob McCoy decided Thomas Camino should have access to young children through a Calvary Chapel program called home fellowship that put him "inside the homes of children"; in the podcast clip she plays, McCoy cites "the gossip and the slander" of his friend and says he personally made the call to pull a home fellowship advertisement because he wanted Camino's family protected.
 
 Anchored Artifacts: A-1394.1
 Mentions: N-251, N-17
@@ -1248,7 +1248,7 @@ Investigative Direction: Cross-check appellate court findings against Camino's n
 
 ---
 
-**C-1689** Rob McCoy Framed 2022 Mothers' Objections as "Gossip and Slander"
+**C-1689** Rob McCoy Calls Criticism of Camino "Gossip and Slander"
 
 Claim Timestamp: 00:12:54
 
@@ -1268,7 +1268,7 @@ Claim Timestamp: 00:40:32
 Claim: In the played clip, a reporter asks Tucker Carlson to distance himself from Candace Owens; Carlson refuses, stating he would "die before" playing along, and calls the request a "ritual" without moral authority.
 
 Anchored Artifacts: A-1395.1
-Mentions: N-1, N-22, N-3
+Mentions: N-22, N-3
 Investigative Direction: Identify the original interview (outlet, date, reporter); verify full exchange including any off-clip context.
 
 ---
@@ -1280,7 +1280,7 @@ Claim Timestamp: 00:46:40
 Claim: In the played clip, Tim Dillon performs a comedy bit involving imagined lyrics from Alexis Wilkins, references Tel Aviv, "Kash Mattel," and "Jeff" files, and jokes about a country-music release.
 
 Anchored Artifacts: A-1396.1
-Mentions: N-214, N-69
+Mentions: N-279, N-214, N-69
 Related Nodes: N-10247
 Investigative Direction: Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster.
 
@@ -1302,7 +1302,7 @@ Investigative Direction: Obtain and analyze all available footage of the immedia
 
 Claim Timestamp: 00:00:01
 
-Claim: The episode plays a throwback clip of Candace Owens and Charlie Kirk co-hosting a PragerU segment in which they discuss the type of allies one wants during crisis ("foxhole" allies), with Kirk stating one should identify "where the bullets are coming from" rather than deny their existence.
+Claim: The episode plays a throwback clip, which the host says is from her former PragerU show, of Candace Owens and Charlie Kirk discussing the type of allies one wants during crisis ("foxhole" allies), with Kirk stating one should identify "where the bullets are coming from" rather than deny their existence.
 
 Anchored Artifacts: A-1390.1
 Mentions: N-1, N-3
@@ -1312,7 +1312,7 @@ Investigative Direction: Identify the original PragerU episode and air date; loc
 
 **C-1694** Commenter "Mama Diaz" Reported a Calvary Chapel Pastor Calling for Burning Bibles Depicting Palestine
 
-Claim Timestamp: 00:58:13
+Claim Timestamp: 00:59:30
 
 Claim: A YouTube commenter using the handle "Mama Diaz" states that a Calvary Chapel pastor she watched online said, "If you have a Bible that has a map that shows Palestine, burn the Bible," and that she could "feel his hate through the screen."
 
@@ -1419,7 +1419,7 @@ Investigative Direction: Locate Stuckey's video from the days before 2025-11-13 
 
 Claim Timestamp: 00:03:56
 
-Claim: The host says she personally invited Frank Turek onto her show because she wants answers, and that she wants to hear from his friends rather than the prosecution.
+Claim: The host says she personally invited Frank Turek onto her show because she wants answers, and that she wants to hear from Charlie Kirk's friends rather than the prosecution.
 
 Transcript Snippet: So, here's what I did. I personally invited Frank Turek onto the show because we legitimately want answers.
 
@@ -1504,7 +1504,7 @@ Transcript Snippet: In 1990, uh, Camino was placed on probation for pleading no 
 Anchored Artifacts: A-2825.1
 Mentions: N-251, N-3
 Related Nodes: N-11106
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Pull the 1990 California court record for Camino; note that Manhattan Beach is in Los Angeles County, not Orange County, and confirm the plea and probation terms.
 
 ---
@@ -1521,7 +1521,7 @@ Anchored Artifacts: A-1393.1
 Mentions: N-251
 Related Nodes: N-11106
 Contradicts: C-1688
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Retrieve the 1995 LA Times article and the sentencing transcript to check the lawyer's statement and whether Camino pleaded or went to trial.
 
 ---
@@ -1538,7 +1538,7 @@ Anchored Artifacts: A-1393.1
 Mentions: N-251
 Related Nodes: N-11106
 Supports: C-1684
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Retrieve the article and the Orange County Superior Court file for the 1994 incidents.
 
 ---
@@ -1555,7 +1555,7 @@ Anchored Artifacts:
 Mentions: N-17, N-251, N-3
 Related Nodes: N-10246
 Supports: C-1687
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Find the 2022 online posts by the mothers and any Calvary Chapel Chino Hills statement on the home fellowship program.
 
 ---
@@ -1587,7 +1587,7 @@ Anchored Artifacts: A-1394.1
 Mentions: N-17, N-251
 Related Nodes: N-10246
 Supports: C-1689
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Locate the pulled home fellowship advertisement and compare its dates with the 2022 objections.
 
 ---
@@ -1603,7 +1603,7 @@ Transcript Snippet: And then they just keep asking her leading question after le
 Anchored Artifacts: A-1394.2
 Mentions: N-251
 Related Nodes: N-11106
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the trial transcript and the recorded interview to check Camino's description of how the child's statement was elicited.
 
 ---
@@ -1619,7 +1619,7 @@ Transcript Snippet: They get 11 of them, which kind sounds kind of bad until you
 Anchored Artifacts: A-1394.2
 Mentions: N-251
 Related Nodes: N-11106
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the search warrant return from the Orange County court file and the list of items seized.
 
 ---
@@ -1635,7 +1635,7 @@ Transcript Snippet: they say they have footprints, forensic evidence, footprints
 Anchored Artifacts: A-1394.2
 Mentions: N-251
 Related Nodes: N-11106
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the trial exhibits and forensic reports to check the footprint and palm print evidence and any plea offer.
 
 ---
@@ -1652,7 +1652,7 @@ Anchored Artifacts: A-1394.2
 Mentions: N-251
 Related Nodes: N-11106
 Contradicts: C-6608
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Compare Camino's statement with the 1990 Manhattan Beach court record.
 
 ---
@@ -1668,7 +1668,7 @@ Transcript Snippet: Yes, we agree. They broke the law twice out of out of the th
 Anchored Artifacts: A-1394.2
 Mentions: N-251
 Related Nodes: N-11106
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Retrieve the California Court of Appeal opinion in People v. Camino and read its harmless-error holding.
 
 ---
@@ -1773,7 +1773,7 @@ Investigative Direction: Locate Minnesota task force press releases and court re
 
 Claim Timestamp: 00:21:00
 
-Claim: The host says the North County Chapel in Post Falls, Idaho is being sued by victims alleging it concealed a known predator, Anthony Eglacius, now serving time in an Idaho prison, and that the lawsuit alleges Reverend Robert Davis told the parents they knew his history and had pulled him out of Thailand, an orphanage program.
+Claim: The host says the North County Chapel in Post Falls, Idaho is being sued by victims alleging it concealed a known predator, Anthony Iglesias, now serving time in an Idaho prison, and that the lawsuit alleges Reverend Robert Davis told the parents they knew his history and had pulled him out of Thailand, an orphanage program.
 
 Transcript Snippet: Yeah, we knew that's why we pulled him out of Thailand.
 
@@ -1801,13 +1801,13 @@ Investigative Direction: Map Calvary Chapel affiliated orphanage programs and an
 
 ---
 
-**C-6627** Host Says a Former Calvary Chapel Pastor in Virginia, Doug Deandria, Pleaded Guilty to Child Sex Abuse
+**C-6627** Host Says a Former Calvary Chapel Pastor in Virginia, Doug DeAndrea, Pleaded Guilty to Child Sex Abuse
 
 Claim Timestamp: 00:21:14
 
-Claim: The host says a former Calvary Chapel pastor in Virginia named Doug Deandria pleaded guilty to child sex abuse and is serving time on multiple charges.
+Claim: The host says a former Calvary Chapel pastor in Virginia named Doug DeAndrea pleaded guilty to child sex abuse and is serving time on multiple charges.
 
-Transcript Snippet: The former Calvary uh pastor's name was Doug Deandria. He is currently serving time in jail in Virginia on multiple charges related to child sex abuse.
+Transcript Snippet: The former Calvary uh pastor's name was Doug DeAndrea. He is currently serving time in jail in Virginia on multiple charges related to child sex abuse.
 
 Anchored Artifacts: A-2826.1
 Mentions: N-767, N-3
@@ -1837,7 +1837,7 @@ Investigative Direction: Identify the 2019 arrest record for the Fort Lauderdale
 
 Claim Timestamp: 00:21:14
 
-Claim: The host says the lead pastor of a Calvary Chapel in North Thirsten, Oregon, Jeffrey Keon Ziz, confessed to sexual misconduct involving his three daughters over two years, served 11 months, and after release murdered an 82-year-old woman and poured concrete over her body.
+Claim: The host says the lead pastor of a Calvary Chapel in North Thirsten, Oregon, Jeffrey Zizz, confessed to sexual misconduct involving his three daughters over two years, served 11 months, and after release murdered an 82-year-old woman and poured concrete over her body.
 
 Transcript Snippet: He went to prison for 11 months. And then when he got out, he murdered an 80year-old and poured concrete.
 
@@ -1845,7 +1845,7 @@ Anchored Artifacts: A-2826.1
 Mentions: N-768, N-3
 Related Nodes: N-10246
 Tags: relevance:context
-Investigative Direction: Identify the pastor (the transcript spells the name Jeffrey Keon Ziz) and the Oregon conviction and homicide case records.
+Investigative Direction: Identify the pastor (the transcript spells the name Jeffrey Zizz) and the Oregon conviction and homicide case records.
 
 ---
 
@@ -1853,7 +1853,7 @@ Investigative Direction: Identify the pastor (the transcript spells the name Jef
 
 Claim Timestamp: 00:22:47
 
-Claim: The host says a man who shot up the Trump Miami Doral, killing no one, said at sentencing that the feds run a cartel operation and that he had been one of Diddy's and Cassie's sex slaves, and that Cassie later verified on the stand that she knew who he was and that he had been invited to the parties.
+Claim: The host says a man who shot up the Trump Miami Doral, killing no one, said the feds are running a cartel operation and that he had been one of Diddy's and Cassie's sex slaves, and that Cassie later verified on the stand that she knew who he was and that he had been invited to the parties.
 
 Transcript Snippet: Cassie then verified on the stand that she knew who this man was um and that he had been invited to these parties.
 
@@ -2279,7 +2279,7 @@ Investigative Direction: Identify the donors and the communication in which they
 
 Claim Timestamp: 00:39:45
 
-Claim: The host presents Megyn Kelly as someone told it was her career or Tucker Carlson, with a so-called friend urging her to distance herself from Carlson, and says Kelly said no.
+Claim: The host presents Megyn Kelly as someone told it was her career or Tucker Carlson, with a voice claiming to be her friend urging her to distance herself from Carlson, and says Kelly said no.
 
 Transcript Snippet: Uh Megyn Kelly, it's your career or it's Tucker Carlson. You decide, right?
 
@@ -2365,7 +2365,7 @@ Anchored Artifacts:
 Mentions: N-214, N-3
 Related Nodes: N-10246
 Supports: C-1691
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Confirm Wilkins' church membership through church records or her own public statements.
 
 ---
@@ -2390,7 +2390,7 @@ Investigative Direction: Identify the person (the host does not name him) and ve
 
 Claim Timestamp: 00:45:12
 
-Claim: The host says Elijah Schaefer's lawsuit, which she says Kash Patel is backing for his girlfriend, is about a joke, and that the lawsuit itself talks about Schaefer's anti-Israel rhetoric.
+Claim: The host says the lawsuit against Elijah Schaefer, which she says Kash Patel is backing for his girlfriend, is about a joke, and that the lawsuit itself talks about Schaefer's anti-Israel rhetoric.
 
 Transcript Snippet: that's what Elijah Schaefer's lawsuit is about. It's a joke. And in the lawsuit, they talk about his anti-Israel rhetoric.
 
@@ -2411,7 +2411,7 @@ Claim: The host says Tim Dillon is already included in her lawsuit with Brigitte
 Transcript Snippet: Apparently the president of France watches um Tim Dillon and we talked about the Breij case and so he's drafted in there.
 
 Anchored Artifacts: 
-Mentions: N-279, N-82, N-3
+Mentions: N-279, N-82, N-381, N-3
 Related Nodes: N-10270
 Tags: relevance:context
 Investigative Direction: Check the Macron complaint's list of defendants and quoted statements to see whether Dillon is named or cited.
@@ -2514,7 +2514,7 @@ Investigative Direction: Find footage from other angles that shows the guards at
 
 Claim Timestamp: 00:55:40
 
-Claim: The host says that authorities put down pavers almost immediately and releveled the area, which she finds quite shady.
+Claim: The host says that they put down pavers almost immediately and releveled the area, which she finds quite shady.
 
 Transcript Snippet: we know they then put down pavers almost immediately and releveled that that area.
 
@@ -2537,7 +2537,7 @@ Transcript Snippet: No, it was not her.
 
 Anchored Artifacts: A-1398.5
 Mentions: N-300, N-1, N-3
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the donor who confronted Kirk; the host says the name is saved in her phone, so ask her to disclose it.
 
 ---
@@ -2568,7 +2568,7 @@ Transcript Snippet: I actually need to to refresh myself on her last name becaus
 
 Anchored Artifacts: A-1398.5
 Mentions: N-3
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Ask the host to disclose the donor's name on the follow-up she promised, and identify the incident.
 
 ---

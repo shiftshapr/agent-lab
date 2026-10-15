@@ -123,7 +123,7 @@
           "@type": "Artifact",
           "@id": "A-1426.1",
           "ref": "A-1426.1",
-          "description": "CNN article: \"Utah Valley University student recalls seeing man walking on or near the Lozi Center roof twice in two weeks\"",
+          "description": "CNN article: \"Utah Valley University student recalls seeing man walking on or near the Losee Center roof twice in two weeks\"",
           "related_claims": [
             "C-1736"
           ],
@@ -175,7 +175,7 @@
           "@type": "Artifact",
           "@id": "A-1428.1",
           "ref": "A-1428.1",
-          "description": "Brian Harpole interview with Shawn Bryan (segment covering rooftop access responsibility and drone coverage)",
+          "description": "Brian Harpole interview with Shawn Ryan (segment covering rooftop access responsibility and drone coverage)",
           "related_claims": [
             "C-1737"
           ],
@@ -191,7 +191,7 @@
           "@type": "Artifact",
           "@id": "A-1428.2",
           "ref": "A-1428.2",
-          "description": "Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorenson Center / Lozi Center",
+          "description": "Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorenson Center / Losee Center",
           "related_claims": [
             "C-1737"
           ],
@@ -331,7 +331,7 @@
           "@type": "Artifact",
           "@id": "A-1433.1",
           "ref": "A-1433.1",
-          "description": "Aaron Wexler X post: \"Candace started her career by doxing teenagers. Old habits die hard.\"",
+          "description": "Arynne Wexler X post: \"Candace started her career by doxing teenagers. Old habits die hard.\"",
           "related_claims": [
             "C-1743"
           ],
@@ -355,7 +355,7 @@
           "@type": "Artifact",
           "@id": "A-1434.1",
           "ref": "A-1434.1",
-          "description": "Flight departing Scottsdale at approximately 08:00 local, arriving Provo at approximately 10:00 local on 2025-09-10; aircraft owned by Turning Point USA donor TWW Lewis",
+          "description": "Flight departing Scottsdale at approximately 08:00 local, arriving Provo at approximately 10:00 local on 2025-09-10; aircraft owned by Turning Point USA donor T.W. Lewis",
           "related_claims": [
             "C-1744"
           ],
@@ -514,7 +514,7 @@
           "@type": "Artifact",
           "@id": "A-2719.2",
           "ref": "A-2719.2",
-          "description": "Host verbal call for tips about the TWW Lewis plane passengers and Charlie's friends (verbal call for tips)",
+          "description": "Host verbal call for tips about the T.W. Lewis plane passengers and Charlie's friends (verbal call for tips)",
           "related_claims": [
             "C-4940"
           ],
@@ -656,7 +656,7 @@
       "ref": "N-10261",
       "name": "UVU Pre-9/10 Rooftop Sightings",
       "type": "investigation_target",
-      "description": "Reports by a UVU student (and reportedly a professor) of a man on the Lozi Center roof in the week before the shooting (A-1426.1, A-1427.1).",
+      "description": "Reports by a UVU student (and reportedly a professor) of a man on the Losee Center roof in the week before the shooting (A-1426.1, A-1427.1).",
       "related_artifacts": [
         "A-1426.1",
         "A-1427.1"
@@ -696,7 +696,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10263",
       "ref": "N-10263",
-      "name": "TWW Lewis Scottsdale-to-Provo Flight Manifest Mystery",
+      "name": "T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery",
       "type": "investigation_target",
       "description": "The Sept 10 Scottsdale→Provo flight (A-1434.1) arrived just ahead of the assassination; passengers unidentified.",
       "related_artifacts": [
@@ -883,7 +883,7 @@
       "@type": "Person",
       "@id": "N-56",
       "ref": "N-56",
-      "name": "Aaron Wexler",
+      "name": "Arynne Wexler",
       "type": "person",
       "description": "X poster identified by host as source of \"white Candace\" post.",
       "related_artifacts": [],
@@ -1494,9 +1494,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10769",
       "ref": "N-10769",
-      "name": "Lozi Center Gun Verification Gap",
+      "name": "Losee Center Gun Verification Gap",
       "type": "investigation_target",
-      "description": "Lozi Center Gun Verification Gap; existing topic reused for new claims in this episode.",
+      "description": "Losee Center Gun Verification Gap; existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
         "C-4944"
@@ -1943,8 +1943,8 @@
       "@type": "Claim",
       "@id": "C-1736",
       "ref": "C-1736",
-      "label": "A UVU student reported seeing a man on the Lozi Center roof twice in the week before the assassination.",
-      "claim": "A UVU student told CNN he observed a tall, thin white male in dark clothing with a backpack on or near the Lozi Center roof twice, the last time at noon the Wednesday before the shooting.",
+      "label": "A UVU Student Told CNN He Saw a Man on or Near the Losee Center Roof Twice in Two Weeks",
+      "claim": "Per the CNN article the host shows, a UVU student told CNN he observed a tall, thin white male in dark clothing with a backpack on or near the Losee Center roof twice, the last time at noon the Wednesday before the shooting.",
       "anchored_artifacts": [
         "A-1426.1",
         "A-1427.1"
@@ -1971,7 +1971,9 @@
       "claim_timestamp": "00:26:12",
       "investigative_direction": "Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-268",
+        "N-273"
       ]
     },
     {
@@ -1987,12 +1989,11 @@
         "N-10262"
       ],
       "tags": [],
-      "claim_timestamp": "00:32:53",
+      "claim_timestamp": "00:32:25",
       "investigative_direction": "Cross-reference video from TPUSA / event cameras and Stage area microphones; verify Neff's position with other contemporaneous witness accounts.",
       "mentions_person_refs": [
-        "N-67",
-        "N-192",
-        "N-161"
+        "N-161",
+        "N-192"
       ]
     },
     {
@@ -2011,7 +2012,6 @@
       "claim_timestamp": "00:36:37",
       "investigative_direction": "Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.",
       "mentions_person_refs": [
-        "N-67",
         "N-161"
       ]
     },
@@ -2019,8 +2019,8 @@
       "@type": "Claim",
       "@id": "C-1740",
       "ref": "C-1740",
-      "label": "Rob McCoy, speaking in Jerusalem on 2025-11-16, characterized Tucker Carlson and Candace Owens as \"essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity.\"",
-      "claim": "Rob McCoy, in a Jerusalem event framed as a celebration of Charlie Kirk's life, made the quoted characterization of Carlson and Owens.",
+      "label": "Audience Questioner at Rob McCoy's Jerusalem Event Says Carlson and Owens Are Hijacking the Christian Message",
+      "claim": "In a clip the host plays from a Jerusalem event she says was billed as a celebration of Charlie Kirk's life, an audience questioner says Tucker Carlson and Candace Owens are 'essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity'; Rob McCoy answers that it is a great question.",
       "anchored_artifacts": [
         "A-1430.1"
       ],
@@ -2073,8 +2073,8 @@
       "@type": "Claim",
       "@id": "C-1743",
       "ref": "C-1743",
-      "label": "Aaron Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.",
-      "claim": "Aaron Wexler – identified by host as the woman at the Hamptons retreat – posted the quoted line on X.",
+      "label": "Arynne Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.",
+      "claim": "The host reads a post she attributes to Arynne Wexler, whom she describes as the woman at the Hamptons retreat, saying 'Candace started her career by doxing teenagers. Old habits die hard.'",
       "anchored_artifacts": [
         "A-1433.1"
       ],
@@ -2091,8 +2091,8 @@
       "@type": "Claim",
       "@id": "C-1744",
       "ref": "C-1744",
-      "label": "Host Says Plane Owned by Turning Point USA Donor TWW Lewis Flew Scottsdale to Provo",
-      "claim": "The host says a flight from Scottsdale to Provo on the day of the assassination, departing at about 8:00 local and landing at about 10:00 local, was on a plane owned by Turning Point USA donor TWW Lewis, whose foundation website she says lists TPUSA as a recipient.",
+      "label": "Host Says Plane Owned by Turning Point USA Donor T.W. Lewis Flew Scottsdale to Provo",
+      "claim": "The host says a flight from Scottsdale to Provo on the day of the assassination, departing at about 8:00 local and landing at about 10:00 local, was on a plane owned by Turning Point USA donor T.W. Lewis, whose foundation website she says lists TPUSA as a recipient.",
       "anchored_artifacts": [
         "A-1434.1"
       ],
@@ -2101,7 +2101,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:20:20",
-      "investigative_direction": "Pull the FAA / ADS-B flight record for tail number; obtain the TWW Lewis Foundation filings and grant log to TPUSA; identify passengers."
+      "investigative_direction": "Pull the FAA / ADS-B flight record for tail number; obtain the T.W. Lewis Foundation filings and grant log to TPUSA; identify passengers."
     },
     {
       "@type": "Claim",
@@ -2624,7 +2624,7 @@
       "@id": "C-4940",
       "ref": "C-4940",
       "label": "Host Asks Insiders and Viewers for More Tips About the Plane Passengers",
-      "claim": "The host, after saying she wants to know who was on the TWW Lewis plane and that Charlie's friends keep blocking her, asks viewers to send more tips to the tip address at candacewowens.com.",
+      "claim": "The host, after saying she wants to know who was on the T.W. Lewis plane and that Charlie's friends keep blocking her, asks viewers to send more tips to the tip address at candacewowens.com.",
       "anchored_artifacts": [
         "A-2719.2"
       ],
@@ -2633,7 +2633,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:21:15",
-      "investigative_direction": "Review the tip inbox for submissions about the TWW Lewis Scottsdale-to-Provo flight and verify any sender claims.",
+      "investigative_direction": "Review the tip inbox for submissions about the T.W. Lewis Scottsdale-to-Provo flight and verify any sender claims.",
       "transcript_snippet": "we want to hear from you. More tips at candacewowens. com.",
       "mentions_person_refs": [
         "N-3"
@@ -2644,7 +2644,7 @@
       "@id": "C-4941",
       "ref": "C-4941",
       "label": "Host Describes Brian Harpole as Long-Term Kirk Security Who Ran to Charlie After the Shot",
-      "claim": "The host describes Brian Harpole as one of Charlie Kirk's long-term security team members, who on the day was standing front right of Charlie with a bag across him and ran over to him, and says his interview was with Shawn Bryan.",
+      "claim": "The host describes Brian Harpole as one of Charlie Kirk's long-term security team members, who on the day was standing front right of Charlie with a bag across him and ran over to him, and says his interview was with Shawn Ryan.",
       "anchored_artifacts": [
         "A-1428.1"
       ],
@@ -2945,7 +2945,7 @@
       "@id": "C-4955",
       "ref": "C-4955",
       "label": "Neff Says Mikey McCoy Then Called His Father Rob McCoy and Asked Him to Rally Pastor Friends",
-      "claim": "Neff says that after he called his mother, Mikey McCoy immediately called his dad, who the transcript spells Rob McCoy, and told him someone had shot Charlie and he should call all his pastor friends to pray.",
+      "claim": "Neff says that after he called his mother, Mikey McCoy immediately called his dad, Rob McCoy, and told him someone had shot Charlie and he should call all his pastor friends to pray.",
       "anchored_artifacts": [
         "A-1429.1"
       ],
@@ -3084,7 +3084,7 @@
       "@id": "C-4961",
       "ref": "C-4961",
       "label": "Host Says Bob Coy of Fort Lauderdale Was in a Scandal Involving Sexual Abuse",
-      "claim": "The host says Bob Coy, a pastor from Fort Lauderdale not to be confused with Rob McCoy, got into a scandal with sexual abuse, and that his relationship with Netanyahu will be covered tomorrow.",
+      "claim": "The host says Bob Coy, a pastor from Fort Lauderdale not to be confused with Rob McCoy, got into a little bit of a scandal with sexual abuse, and that his relationship with Netanyahu will be covered tomorrow.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10246"
@@ -3130,7 +3130,7 @@
       "@id": "C-4963",
       "ref": "C-4963",
       "label": "Host Says Megyn Kelly Has Clear Mic'd Footage and Audio of the Donors Who Freaked Out",
-      "claim": "The host says Megyn Kelly has footage with full clarity of exactly what Charlie said to Tucker Carlson and at least the audio of the donors who freaked out.",
+      "claim": "The host says Megyn Kelly happened to have the footage, but that \"they\" have it with full clarity of exactly what Charlie said to Tucker Carlson, along with at least the audio of the donors who freaked out.",
       "anchored_artifacts": [
         "A-2721.1"
       ],

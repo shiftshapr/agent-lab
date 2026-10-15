@@ -1,0 +1,807 @@
+[
+ {
+  "claim": "C-6699",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6700",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6701",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6702",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"They said they're laughing at these things\" - \"they\" not identified as TPUSA",
+  "fix": {
+   "claim": "The host says an unanswered question is the Egyptian planes tracking Charlie and following Erika throughout years, and says \"they\" are laughing at these things."
+  }
+ },
+ {
+  "claim": "C-6703",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"We got a time zone wrong. And then it's like, 'She lied. The plane left a couple of hours earlier.'\" Not a concession that critics have only that.",
+  "fix": {
+   "claim": "The host says she is asking where she has explicitly lied rather than made a minor mistake, such as getting a time zone wrong, which critics answer by saying she lied about when a plane left.",
+   "label": "Host Asks Where She Has Lied Rather Than Made a Minor Error Such as a Time Zone"
+  }
+ },
+ {
+  "claim": "C-6704",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6705",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6706",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6707",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Bari Weiss is not named in the claim (only CBS).",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-6708",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Glenn Beck is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-6709",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host: \"I have never seen, and maybe I missed it\" - hedge dropped; Glenn Beck not named in claim.",
+  "fix": {
+   "claim": "The host says she has never seen, though maybe she missed it, a commentator explicitly accuse Erika Kirk of killing Charlie, and that she has only seen people looking into Erika's background, her Romanian charity and her mother.",
+   "mentions": [
+    "N-3",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-6710",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host: \"I think a lot of people on the outside\"; Erika is not named in the claim (her clip precedes).",
+  "fix": {
+   "claim": "The host says that it looks to her, and she thinks to many on the outside, that the government is implicated, otherwise it would not need every department using propaganda, and that if so Charlie's legacy would be that he was killed by the political machine he served.",
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-6711",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6712",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6713",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6714",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6715",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6716",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6717",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6718",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6719",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6720",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6721",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"kind of seemed like he was smiling\" - hedge dropped.",
+  "fix": {
+   "claim": "The host says Tyler Robinson kind of seemed like he was smiling at his first in-person court appearance and she did not get the energy of someone worried about the electric chair."
+  }
+ },
+ {
+  "claim": "C-6722",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6723",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Matt Walsh and Brett Cooper (and Michael Knowles) are not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-229"
+   ]
+  }
+ },
+ {
+  "claim": "C-6724",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6725",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Stuckey is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-6726",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6727",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host frames it as what Stuckey should have said to Alex Clark (\"wouldn't you have said... it wasn't true\"); \"Catholic\" not said in that sentence.",
+  "fix": {
+   "claim": "The host says that, if Allie Beth Stuckey were a friend to Charlie, she would have told Alex Clark that her episode saying Charlie only liked architecture was not true."
+  }
+ },
+ {
+  "claim": "C-6728",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6729",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6730",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6731",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6732",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6733",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6734",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6735",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6736",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"as some of you have pointed out in the comments from yesterday's episode that suddenly we start talking about Pierre\" - comments were on yesterday's episode. Unresolved name: Pierre",
+  "fix": {
+   "claim": "The host says commenters on yesterday's episode pointed out that suddenly after she started talking about Pierre and the billion-dollar incentive, the other side went crazy and started going Max."
+  }
+ },
+ {
+  "claim": "C-6737",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Brigitte Macron series is unrelated to the Kirk case.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-6738",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6739",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6740",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6741",
+  "episode": 46,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1924",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1925",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Signal/Telegram was what Erika told them in the meeting (\"she's looking at his iMessages... communicates on Signal\"), not the Beck interview; \"primarily\" added.",
+  "fix": {
+   "claim": "The host says Erika Kirk, in her Glenn Beck interview, said she had Charlie Kirk's phone and that he never texted anybody the night before, and that in the meeting Erika said he, like everybody else, communicates on Signal and Telegram.",
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-1",
+    "N-239"
+   ]
+  }
+ },
+ {
+  "claim": "C-1926",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host recounts private meeting; Erika's side confirmed Kolvet received a message; the quote is what Kolvet told the host.",
+  "fix": {
+   "claim": "The host says Erika Kirk acknowledged in their meeting that Andrew Kolvet received a message from Charlie Kirk the night before, which the host says Kolvet told her was \"they're going to kill me.\""
+  }
+ },
+ {
+  "claim": "C-1927",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"they clarified that the message that Dan Flood received said the left is going to kill me. So I can't confirm... I did not see that concrete message.\"",
+  "fix": {
+   "claim": "The host says Erika Kirk's side clarified in their meeting that the message Dan Flood received the night before said \"the left is going to kill me,\" which the host says she cannot confirm because she did not see it."
+  }
+ },
+ {
+  "claim": "C-1928",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "A lawyer \"involved in this case\" whom TPUSA called in, not a prosecutor; Erika not named in claim.",
+  "fix": {
+   "claim": "The host says a lawyer involved in the case, whom Turning Point USA called into the meeting, told her they have nothing beyond the affidavit and will not know what investigators have until the May probable cause hearing.",
+   "mentions": [
+    "N-3",
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-1929",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1930",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Erika Kirk (N-2) is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-1931",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1932",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "First call to wife heard at ~27:00 (\"the first person he called was his wife. He called Elizabeth McCoy\"), over 3 minutes after 23:53. Unresolved name: Elizabeth vs node Eliza McCoy.",
+  "fix": {
+   "timestamp": "00:26:55"
+  }
+ },
+ {
+  "claim": "C-1933",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1934",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Garbled: \"Mikey really wants you guys to know that is his real name... My Michael is his real name.\"",
+  "fix": {
+   "claim": "The host says people thought Mikey was McCoy's middle name, and that Mikey wants the audience to know that is his real name."
+  }
+ },
+ {
+  "claim": "C-1935",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Blake called his own mom; Mikey then \"immediately calls his dad.\" Claim says Mikey called mother and father. Erika named, not in mentions.",
+  "fix": {
+   "claim": "The host says Blake Neff's interview account - that Mikey's first call after the shooting was to Erika and that Mikey then called his father - is contradicted by call logs Turning Point USA showed her.",
+   "mentions": [
+    "N-161",
+    "N-192",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-1936",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1937",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Three sources confirmed the offer; Charlie turning it down came from Kolvet. Erika not named in claim.",
+  "fix": {
+   "claim": "Three sources with knowledge confirmed to Candace that Bibi Netanyahu made an offer to fund Turning Point USA to the next level.",
+   "mentions": [
+    "N-3",
+    "N-36"
+   ]
+  }
+ },
+ {
+  "claim": "C-1938",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3741",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"I know Marissa\" - \"there\" is inferred.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1939",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Presented as fact; host says \"I was surprised to learn... Rob McCoy actually does not work with Turning Point USA\".",
+  "fix": {
+   "claim": "The host says she was surprised to learn that Rob McCoy does not work with Turning Point USA in any capacity, contrary to what she assumed from his conduct at the memorial and his \"America's pastor\" claim."
+  }
+ }
+]
