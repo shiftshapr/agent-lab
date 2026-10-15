@@ -2493,6 +2493,33 @@
     [
       "\\bPenguitch\\b",
       "Panguitch"
+    ],
+    [
+      "\\bBo Mason\\b",
+      "Beau Mason"
+    ],
+    [
+      "\\b(Tony|Judge) Graff\\b",
+      "\\1 Graf"
+    ],
+    [
+      "\\bDeidra Amaro\\b",
+      "Deirdre Amaro"
+    ],
+    [
+      "\\bAlan Robertson\\b",
+      "Allan Robertson"
+    ],
+    [
+      "\\bGordon Margolis\\b",
+      "Gordon Margulis"
+    ],
+    [
+      "\\bMel Stewart\\b",
+      "Mell Stewart",
+      [
+        130
+      ]
     ]
   ]
 }

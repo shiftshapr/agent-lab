@@ -222,7 +222,7 @@ Confidence Level: Medium
 
 **A-2885** Robertson Reader Emails Bundle
 
-**A-2885.1** Host verbal reference to reader emails and sources about Alan Robertson's San Bernardino departure and the USU threat-assessment reason for his presence (not shown)
+**A-2885.1** Host verbal reference to reader emails and sources about Allan Robertson's San Bernardino departure and the USU threat-assessment reason for his presence (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:23:21
@@ -1424,7 +1424,7 @@ Investigative Direction: Establish a time-stamped chain of custody for the screw
 
 Claim Timestamp: 00:23:21
 
-Claim: The host says many emails misspelled Alan Robertson's name and described a different Allen, and that other people tied to San Bernardino police told her he was not let go or transferred over conduct issues and left willingly on good terms to raise his kids.
+Claim: The host says many emails misspelled Allan Robertson's name and described a different Allen, and that other people tied to San Bernardino police told her he was not let go or transferred over conduct issues and left willingly on good terms to raise his kids.
 
 Transcript Snippet: He said he abs absolutely was not let go or transferred over any conduct issues.
 
@@ -1506,7 +1506,7 @@ Investigative Direction: Check the trial recording for the moment Bagley says 'A
 
 Claim Timestamp: 00:30:07
 
-Claim: The host says by all accounts Alan Robertson left on his own volition because he had young kids and wanted to leave city life, and that she is shutting down that lead.
+Claim: The host says by all accounts Allan Robertson left on his own volition because he had young kids and wanted to leave city life, and that she is shutting down that lead.
 
 Transcript Snippet: by all accounts, it seems like he left by on his own valition and he just he has young kids and wanted to leave the city life.
 
@@ -2139,10 +2139,10 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** "Alan Robertson" (USU officer) – host clarifies spelling as A-L-A-N, distinct from "Allen" (A-L-L-E-N) and a verbal slip "Allan Robinson" appears at one point (autocorrected on air). Preservation: "Alan Robertson."
+- **Name uncertainty:** "Allan Robertson" (USU officer) – host clarifies spelling as A-L-A-N, distinct from "Allen" (A-L-L-E-N) and a verbal slip "Allan Robinson" appears at one point (autocorrected on air). Preservation: "Allan Robertson."
 - **Name uncertainty:** "Blake Neff" (Turning Point) – host uses both "Blake Neff" (in displayed X post text) and "Blakey Nef" (rhetorical). Preservation: "Blake Neff" per displayed artifact.
 - **Name uncertainty:** "Frank Turek" (commentator) – host uses both "Frank Turek" and "Frank Turek" interchangeably; standard spelling is "Turek." Preservation: "Frank Turek."
-- **Artifact verbally referenced but not shown:** UVU Sept 9 scoping incident (source described but no document/screenshot shown); Alan Robertson Brady list / San Bernardino emails (described but not displayed); Country music donor paying for Ian's rehab (described but no document shown).
+- **Artifact verbally referenced but not shown:** UVU Sept 9 scoping incident (source described but no document/screenshot shown); Allan Robertson Brady list / San Bernardino emails (described but not displayed); Country music donor paying for Ian's rehab (described but no document shown).
 - **Spelling variant on hotel:** Host refers to "Andrew Kolvet" (rhetorical) vs "Andrew Kolvet" (proper name in screenshot context). Preservation: "Andrew Kolvet."
 - **Transcript ambiguity:** Host's auto-correction in real time at ~30:07 – possible transcription note for "Allan Robinson" verbal slip is intentional (not a typo).
 - **Possible transcription error:** Host says "Alfa says he didn't do that" (~21:54) – likely referring to Officer Bagley / defense attorney; surrounding context suggests this is a verbal aside rather than a named speaker.

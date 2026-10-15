@@ -1160,7 +1160,7 @@ Investigative Direction: Compare against published video, ballistic evidence, an
 
 Claim Timestamp: 00:13:17
 
-Claim: An article displayed during the episode identifies Mihail Kogălniceanu air base in Constanta, Romania as a Task Force 82 / joint base location for 82nd Airborne operations.
+Claim: The host shows an article with a photo she says was taken in 2023 at the joint base in Constanta, Romania, the Mihail Kogălniceanu air base, as part of Task Force 82 of the 82nd Airborne.
 
 Anchored Artifacts: A-2107.1
 Related Nodes: N-10697
@@ -1235,7 +1235,7 @@ Investigative Direction: Obtain class action complaint, defendant discovery, and
 
 **C-2982** Pending FOIA requests filed by host's team include NSA, DHS/Secret Service/EOP, FBI, and travel logs
 
-Claim Timestamp: 00:43:06–00:45:23
+Claim Timestamp: 00:42:10
 
 Claim: The host states the team has filed FOIA requests to the NSA (Erika emotional asset email), DHS/Secret Service/EOP (WAVES entries for Erika), FBI (Kash Patel schedule), and for FBI plane flight logs and Bradley Hansell's travel schedule September 7-10.
 
@@ -2027,7 +2027,7 @@ Investigative Direction: List the people who entered Kirk's circle and when, and
 
 Claim Timestamp: 00:26:07
 
-Claim: The host says that she believes the script behind Charlie Kirk's life and assassination runs back to Tel Aviv and that she put the pieces together very early.
+Claim: The host says that she believes the script behind Charlie Kirk's life runs back to Tel Aviv and that she correctly put the pieces of his assassination together very early.
 
 Transcript Snippet: A script that runs back to Tel Aviv.
 
@@ -2745,7 +2745,7 @@ Investigative Direction: Pin the exact date of the Charlie Kirk Show episode and
 
 Claim Timestamp: 00:46:13
 
-Claim: The host says Susie Wiles and J.D. Vance each have an office in the Executive Office Building area where Kolvet was reportedly present, and guesses he was meeting Kash Patel.
+Claim: The host says she believes Susie Wiles has an office in the Executive Office Building area where Kolvet was reportedly present, that J.D. Vance also has an office there, and guesses he was meeting Kash Patel.
 
 Transcript Snippet: Susie Wiles, I believe, has an office down that way. Um J. D. Vance has an office down that way.
 
@@ -2858,7 +2858,7 @@ Investigative Direction: Collect and triage the identifications submitted for th
 
 Claim Timestamp: 00:52:00
 
-Claim: The host says there are no arrests for crime-scene tampering because the most logical conclusion is it was an inside job, adding that if tampering arrests began, FBI agents who were there way too early would be arrested.
+Claim: Responding to a viewer comment, the host says she thinks there are no arrests for crime-scene tampering because the most logical conclusion is it was an inside job, adding that if tampering arrests began, FBI agents who were there way too early would be arrested.
 
 Transcript Snippet: you'd be arresting FBI agents. Who were there way too early, by the way.
 
@@ -2908,7 +2908,7 @@ Investigative Direction: Check defense discovery requests and FBI evidence logs 
 
 Claim Timestamp: 00:53:37
 
-Claim: The host wonders whether Harpole's account of cutting the shirt for defibrillators was meant to prepare the public for bruising or burn marks on Charlie's chest later learned from the autopsy, which people would explain as not caused by an exploding mic.
+Claim: The host wonders whether Harpole's account of cutting the shirt for defibrillators was meant to prepare the public for bruising or burn marks on Charlie's chest that she expects will be revealed in the autopsy, which people would explain as not caused by an exploding mic.
 
 Transcript Snippet: I wonder also if that part of him saying that was to prepare us for bruising that we're going to learn was on Charlie's chest in the autopsy.
 
@@ -2936,7 +2936,7 @@ Investigative Direction: Treat as the host's stated opinion; seek documents show
 
 ---
 
-**C-8922** Host Suggests the St. Michael Pendant Caused a Neck Injury That Reveals a Cover-Up
+**C-8922** Host Suggests the St. Michael Pendant Could Have Caused an Injury Revealing a Lie
 
 Claim Timestamp: 00:56:38
 
@@ -3023,7 +3023,7 @@ Investigative Direction: Check the living arrangement and access to Robinson's r
 
 Claim Timestamp: 01:01:34
 
-Claim: The host says the Pentagon first got involved in the media with Operation Mockingbird during the JFK era, and that it was by and large successful because people could not communicate and were isolated as conspiracy theorists.
+Claim: The host says the Pentagon first got involved in the media with Operation Mockingbird during the JFK era, and that she thinks it was by and large successful because people could not communicate and were isolated as conspiracy theorists.
 
 Transcript Snippet: Pentagon getting involved in the media. Operation Mockingbird. That was when they first did it.
 

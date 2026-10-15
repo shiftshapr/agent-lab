@@ -1,0 +1,210 @@
+[
+ {
+  "claim": "C-3029",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a September 25 recording the host plays, the anonymous eyewitness says the rooftop person moved in what looked like a tactical movement, going down to look around, then standing and running about 6 feet forward, and was in view for about 30 seconds in total, taking about 10 seconds to reach the spot where he lay down to shoot."
+  },
+  "note": "Transcript: in view ~30s total, ~10s to reach prone spot, bobbing ~6 ft forward; original misstated sequence."
+ },
+ {
+  "claim": "C-8936",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-11"
+   ],
+   "relevance": "context"
+  },
+  "note": "Claim does not name or refer to Frank Turek (N-7); Bowyer's father's job is background."
+ },
+ {
+  "claim": "C-8974",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim names Clock Tower X only; Brad Parscale (N-431) is not named or referred to in the claim."
+ },
+ {
+  "claim": "C-8997",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a rhetorical contrast about succession, the host says Charlie did not believe in a coronation, giving the hypothetical example \"Lindsey Graham is dead, so now his sister becomes a senator.\"",
+   "label": "Host Says Charlie Did Not Believe in a Coronation, Citing a Hypothetical Graham Succession",
+   "relevance": "context"
+  },
+  "note": "Transcript shows a hypothetical ('He didn't believe in a coronation...'), not an assertion that Graham is dead."
+ },
+ {
+  "claim": "C-9000",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ],
+   "label": "Host Says the Panguitch Steakhouse Issue Will Throw Things for a Loop and There Are Receipts"
+  },
+  "note": "Claim does not refer to Tyler Robinson; host says 'there are receipts', not that she has them."
+ },
+ {
+  "claim": "C-3055",
+  "episode": 127,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:32:30"
+  },
+  "note": "Letter is introduced near end of [31:52] block (~32:35); 30:48 is the segment start, ~105s early."
+ },
+ {
+  "claim": "C-3066",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the training photo the host shows, Jennifer Faumuina apparently appears in a Utah Department of Public Safety post-training session dated May 20, 2013, alongside Beau Mason.",
+   "names": [
+    {
+     "wrong": "Bo Mason",
+     "right": "Beau Mason",
+     "source": "https://thehill.com/homenews/state-watch/5500286-top-utah-cop-charlie-kirk-assassin/"
+    }
+   ]
+  },
+  "note": "Host hedges 'apparently'. Beau Mason (Utah DPS commissioner) confirmed via The Hill and other Kirk coverage; matches N-508."
+ },
+ {
+  "claim": "C-3069",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the training photo the host shows, Jennifer Faumuina and Beau Mason apparently appear together in a May 20, 2013 Utah DPS post-training session.",
+   "label": "Faumuina and Beau Mason Photographed Together on May 20, 2013",
+   "names": [
+    {
+     "wrong": "Bo Mason",
+     "right": "Beau Mason",
+     "source": "https://thehill.com/homenews/state-watch/5500286-top-utah-cop-charlie-kirk-assassin/"
+    }
+   ]
+  },
+  "note": "Hedge restored; Beau Mason spelling confirmed (The Hill, DPS commissioner); matches N-508."
+ },
+ {
+  "claim": "C-3070",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she shows a photograph in which Jennifer Faumuina and Beau Mason appear together in 2023 when Faumuina was sworn in as a sergeant.",
+   "label": "Host Says Faumuina and Beau Mason Were Photographed Together at Her 2023 Sergeant Swearing-In",
+   "names": [
+    {
+     "wrong": "Bo Mason",
+     "right": "Beau Mason",
+     "source": "https://thehill.com/homenews/state-watch/5500286-top-utah-cop-charlie-kirk-assassin/"
+    }
+   ]
+  },
+  "note": "Beau Mason spelling confirmed (The Hill, DPS commissioner); matches N-508."
+ },
+ {
+  "claim": "C-3073",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Judge Tony Graf received a judicial appointment in May 2025.",
+   "label": "Host Says Judge Tony Graf Was Appointed in May 2025",
+   "names": [
+    {
+     "wrong": "Tony Graff",
+     "right": "Tony Graf",
+     "source": "https://www.npr.org/2026/09/01/nx-s1-5950452/tyler-robinson-charlie-kirk-murder-hearing"
+    }
+   ]
+  },
+  "note": "Judge Tony Graf (Jr.) confirmed by NPR/NBC/Fox Robinson coverage; matches N-136."
+ },
+ {
+  "claim": "C-3076",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Sgt. Jennifer Faumuina's uncle, Misiona Faumuina, died in 1995 in Hawaii after being beaten as part of a reported gang initiation ritual; his brother Sapena Faumuina was publicly vocal in the press.",
+   "timestamp": "00:23:20"
+  },
+  "note": "Content spoken ~23:25-23:45 in [23:06] block; host's account attributed."
+ },
+ {
+  "claim": "C-3080",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:36:15"
+  },
+  "note": "Orem-then-Salt-Lake summary spoken ~36:20 in the [36:05] block."
+ },
+ {
+  "claim": "C-14719",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-948"
+   ]
+  },
+  "note": "Claim names only General Holt; O'Neill is not referred to."
+ },
+ {
+  "claim": "C-14727",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-46",
+    "N-69"
+   ]
+  },
+  "note": "Claim names Kelly and Patel; Bongino is not named or referred to in the claim."
+ },
+ {
+  "claim": "C-14728",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-379"
+   ]
+  },
+  "note": "Claim names only Bongino; Megyn Kelly is not referred to."
+ },
+ {
+  "claim": "C-14761",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Claim does not name or refer to Frank Turek."
+ },
+ {
+  "claim": "C-14763",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim does not name or refer to Blake Neff; removing N-160 is the substantive change."
+ }
+]

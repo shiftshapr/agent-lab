@@ -732,7 +732,7 @@ Erika Kirk's "I forgive him" statement about Tyler Robinson at the memorial, whi
 **N-11305** Utah Medical Examiner Office Departures to New York
 
 Node Type: Topic
-Reported departures of Dr. Deidra Amaro from Utah and of Dr. Andrew and Dr. Ashley Brown Guajardo to New York, with a new New York chief medical examiner role and an NYU teaching post.
+Reported departures of Dr. Deirdre Amaro from Utah and of Dr. Andrew and Dr. Ashley Brown Guajardo to New York, with a new New York chief medical examiner role and an NYU teaching post.
 
 *Related: C-11659, C-11660, C-11661*
 
@@ -1098,7 +1098,7 @@ Investigative Direction: Verify Guajardo's employment history through Utah state
 
 Claim Timestamp: 00:02:12
 
-Claim: The host says that when Dr. Deidra Amaro became chief medical examiner in 2024 she selected Guajardo as her deputy, promoting him to deputy chief examiner that year.
+Claim: The host says that when Dr. Deirdre Amaro became chief medical examiner in 2024 she selected Guajardo as her deputy, promoting him to deputy chief examiner that year.
 
 Transcript Snippet: she decided to select him as her deputy, so he was promoted in 2024 when she got there to the role of deputy chief examiner.
 
@@ -1370,7 +1370,7 @@ Investigative Direction: Find the Discord server and syllabi or posts where stud
 
 Claim Timestamp: 00:12:50
 
-Claim: The host says Dr. Deidra Amaro has left the Utah medical examiner's office and is no longer in Utah.
+Claim: The host says Dr. Deirdre Amaro has left the Utah medical examiner's office and is no longer in Utah.
 
 Transcript Snippet: Dr. Amara has left uh the building. She's no longer at Utah.
 

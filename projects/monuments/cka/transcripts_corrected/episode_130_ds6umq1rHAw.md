@@ -104,7 +104,7 @@ Um and this was published is this in Time magazine? Yes, it's entitled uh The Ke
 
 [15:40]
 
-Uh, Bill Gay himself, a Mormon, attended the Croesus day and night and in 8-hour shifts. They were assisted by four physicians on 24-hour calls and five lesser functionaries including Gordon Margolis and Mel Stewart. It goes through the names here. For their services, the six senior aides were paid as much as $110,000 a year each. They equipped his various hideaways, decided which messages would reach him. They censored his reading matters. In short, they controlled Howard Hughes and the the public image of him. So, how does this end? Suddenly, this big guy is not leaving anywhere. Well, Howard Hughes died and I have to tell you, it was a remarkably suspicious death, not unlike Michael Jackson's, if you ask me.
+Uh, Bill Gay himself, a Mormon, attended the Croesus day and night and in 8-hour shifts. They were assisted by four physicians on 24-hour calls and five lesser functionaries including Gordon Margulis and Mell Stewart. It goes through the names here. For their services, the six senior aides were paid as much as $110,000 a year each. They equipped his various hideaways, decided which messages would reach him. They censored his reading matters. In short, they controlled Howard Hughes and the the public image of him. So, how does this end? Suddenly, this big guy is not leaving anywhere. Well, Howard Hughes died and I have to tell you, it was a remarkably suspicious death, not unlike Michael Jackson's, if you ask me.
 
 [16:30]
 

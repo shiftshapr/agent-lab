@@ -660,11 +660,11 @@ The host's observation, from images she has not shown, that Charlie's neck was u
 
 ## 5. Claim Register
 
-**C-2986** Black Tempered Shattered Glass Present in Charlie Kirk Transport Vehicle
+**C-2986** Host Says Black Tempered Shattered Glass Is in Charlie Kirk Transport Vehicle
 
 Claim Timestamp: 00:06:11–00:17:00
 
-Claim: The host says photographs of the vehicle interior show black tempered shattered glass concentrated in the area corresponding to Charlie Kirk's chest position, consistent with her identification of a broken road/lapel microphone.
+Claim: The host says photographs of the vehicle interior show black tempered shattered glass all over the car where Charlie Kirk's chest region would have been, consistent with her identification of a broken road microphone.
 
 Anchored Artifacts: A-2110.3, A-2111.4
 Mentions: N-1
@@ -689,7 +689,7 @@ Investigative Direction: Obtain original high-resolution image; have forensic an
 
 Claim Timestamp: 00:06:11
 
-Claim: A hanger is visible in Photo 1; the host infers it is connected to the sports coat Charlie Kirk was not wearing at the event.
+Claim: The host points out a hanger in Photo 1 and says she guesses it is from the sports coat Charlie Kirk did not wear at the event.
 
 Anchored Artifacts: A-2110.1
 Mentions: N-1
@@ -715,7 +715,7 @@ Investigative Direction: Verify via property records, TPUSA internal communicati
 
 Claim Timestamp: 00:08:05
 
-Claim: The host says photos show a piece of cardboard-colored, thicker material with a brown/burnt appearance, separated from the Uber bags.
+Claim: The host says photos show a piece of what looks to her like cardboard-colored material that she thinks looks thicker and burnt, separated from the Uber bags, while saying she could be wrong.
 
 Anchored Artifacts: A-2110.2, A-2111.1
 Related Nodes:
@@ -735,11 +735,11 @@ Investigative Direction: Obtain higher-resolution images; compare to medical eme
 
 ---
 
-**C-2992** Viewer Comment Host Reads Identifies SantaMedical.com Equipment in Vehicle Photo
+**C-2992** Host's Staffer Ashley Identifies SantaMedical.com Equipment in Vehicle Photo
 
 Claim Timestamp: 00:15:10
 
-Claim: A viewer comment the host reads identifies the medical bag visible in the photo as a SantaMedical.com product, and the host says this is consistent with equipment Brian Harpole described traveling with Charlie.
+Claim: The host says her staffer Ashley figured out that the medical bag visible in the photo is a SantaMedical.com product, and the host says this is consistent with equipment Brian Harpole described traveling with Charlie.
 
 Anchored Artifacts: A-2110.2, A-2114.1
 Mentions: N-267
@@ -748,9 +748,9 @@ Investigative Direction: Cross-reference SantaMedical.com catalog with described
 
 ---
 
-**C-2993** Mikey McCoy Appeared Physically Ill During Casket Removal at Hospital
+**C-2993** Host Says Mikey McCoy Appeared Physically Ill as Charlie's Casket Was Carried Out of the Hospital
 
-Claim Timestamp: 00:33:10
+Claim Timestamp: 00:32:20
 
 Claim: The host says that in a video she shows, Mikey McCoy was holding his stomach as if he were going to become ill and could not even hold the casket as Charlie was taken out of the hospital.
 
@@ -778,7 +778,7 @@ Investigative Direction: Obtain transcripts/video of all Frank Turek and Brian H
 
 Claim Timestamp: 00:33:10
 
-Claim: The host says a viewer sent her photos showing TPUSA staff removing a poster at Charlie Kirk's Arlington memorial site that read "Don't worry, your big sister can figure out what happened."
+Claim: The host says someone sent her photos showing TPUSA staff removing a poster at Charlie Kirk's Arlington memorial site that read "Don't worry, your big sister can figure out what happened."
 
 Anchored Artifacts: None (verbally referenced but not shown – flagged for verification)
 Mentions: N-3, N-1
@@ -799,7 +799,7 @@ Investigative Direction: Identify the original interview (date, outlet); verify 
 
 ---
 
-**C-2997** Police Scanner Reported Car Door Open and Visible Struggle During Transport
+**C-2997** Host Says Harpole Described Police Scanner Reports of a Struggle and Open Car Door
 
 Claim Timestamp: 00:50:36
 
@@ -816,7 +816,7 @@ Investigative Direction: Obtain official police scanner audio logs from the date
 
 Claim Timestamp: 00:29:24–00:30:20
 
-Claim: The host says TPUSA spokesperson Andrew Kolvet should respond about how the road microphone shattered, why the glass ended up in the vehicle, and where Charlie's shirt is.
+Claim: The host says TPUSA spokesperson Andrew Kolvet should respond about why or how the road microphone shattered, why Frank Turek and Brian Harpole seem to have forgotten it in their many retellings, and where Charlie's shirt is.
 
 Anchored Artifacts: None (claim is about absence of official response)
 Mentions: N-14
@@ -1023,7 +1023,7 @@ Investigative Direction: Compare seating positions from Harpole and Turek accoun
 
 Claim Timestamp: 00:06:11
 
-Claim: The host says Charlie went to Salt Lake City and gave an interview to a company she names as restauranttology before driving to Provo for the event.
+Claim: The host says Charlie went to Salt Lake City and gave an interview to a company she names as Restaurantology before driving to Provo for the event.
 
 Transcript Snippet: he went to Salt Lake City and he give gave an interview to restauranttology I think was the name of the company uh before he drove to Provo for this event.
 
@@ -1035,11 +1035,11 @@ Investigative Direction: Identify the interview's publisher and date and confirm
 
 ---
 
-**C-7155** Host Says Charlie Wore a T-Shirt That Stayed in the Car
+**C-7155** Host Says Charlie's Unworn Jacket Stayed in the Car
 
 Claim Timestamp: 00:07:01
 
-Claim: The host says Charlie did not wear his jacket and was in a t-shirt that stayed in the car.
+Claim: The host says Charlie had a jacket that he did not wear, as he was in a t-shirt, and that the jacket stayed in the car.
 
 Transcript Snippet: Obviously, he was in a t-shirt that stayed in the car.
 
@@ -1088,7 +1088,7 @@ Investigative Direction: Obtain full-resolution originals and have a forensic ex
 
 Claim Timestamp: 00:10:06
 
-Claim: The host says the story has about six minutes on the clock at 40, 60 and 100 miles an hour for a ride Google Maps puts at eight minutes, and that such speeds mean they were not stuck in traffic.
+Claim: The host says the story Frank Turek and Brian Harpole tell has about six minutes on the clock at 40, 60 and 100 miles an hour for a ride Google Maps puts at eight minutes, and that such speeds mean they were not stuck in traffic.
 
 Transcript Snippet: They had about 6 minutes on the clock weaving through traffic at 40, 60, 100 miles per an hour for a ride that Google Map says is 8 minutes away.
 
@@ -1282,7 +1282,7 @@ Investigative Direction: Obtain Bray's photos with metadata and compare against 
 
 Claim Timestamp: 00:20:36
 
-Claim: The host says Brian Harpole is suing her and rejects being called incompetent, saying people should watch how Charlie was carried to the car.
+Claim: The host says Brian Harpole is suing her over his incompetence, mocks his position that she cannot call him incompetent, and says people should watch how Charlie was carried to the car.
 
 Transcript Snippet: The audacity of Brian Harpole to sue me over his incompetence.
 
@@ -1449,7 +1449,7 @@ Claim: The host says she thinks people do this kind of evil because they think t
 Transcript Snippet: They had to they wanted to take over Turning Point USA. That's what I think anyway.
 
 Anchored Artifacts: 
-Mentions: N-1
+Mentions: 
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Examine succession documents and corporate records showing who gained control and when.
@@ -1698,16 +1698,16 @@ Investigative Direction: relevance:context
 
 ---
 
-**C-7196** Host Says the Charlie Kirk Show Team Shares a Building with Ter
+**C-7196** Host Says the Charlie Kirk Show Team Shares a Building with Terryl
 
 Claim Timestamp: 00:53:09
 
-Claim: The host says the show's hosts and Turek are all in the same building, the Charlie Kirk building, so answers could be had quickly.
+Claim: The host says the Charlie Kirk Show hosts could get quick answers from Terryl, since he is right there and they are all in the same building, the Charlie Kirk building, the Fineberg building.
 
 Transcript Snippet: You guys are all in the same building, the Charlie Kirk building, the Fineberg building.
 
 Anchored Artifacts: 
-Mentions: N-14
+Mentions: N-14, N-262
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Confirm the building and tenants from property and TPUSA lease records.
@@ -1725,7 +1725,7 @@ Transcript Snippet: I get someone who was born into I he has an arranged marriag
 Anchored Artifacts: 
 Mentions: N-191
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Confirm from public records or McCoy's own statements; no source named.
 
 ---
@@ -1762,7 +1762,7 @@ Investigative Direction: Not testable; recorded as the host's account.
 
 ---
 
-**C-7200** Host Says She Does Not Know Why Utah Data Centers Are Tied to Romania
+**C-7200** Host Says She Does Not Know What Is Going On with Data Centers, Utah and Romania
 
 Claim Timestamp: 00:59:13
 

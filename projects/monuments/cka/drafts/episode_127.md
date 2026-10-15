@@ -948,7 +948,7 @@ Investigative Direction: Identify the badge-holder from rooftop footage, radio t
 
 Claim Timestamp: 00:10:05–00:11:27
 
-Claim: Officer Bagley testified that he did not notice anyone else on the roof, and, as the examiner put it and the host says he answered "No," he did not review the video for anyone on the rooftop between the suspect's jump and his arrival.
+Claim: Officer Bagley testified that he did not notice anyone else on the roof and, asked whether he checked the video for that gap of time, answered "In that gap of time, no"; the examiner summarized that he did not review the video for anyone on the rooftop between the suspect's jump and his arrival.
 
 Anchored Artifacts: A-2146.2
 Mentions: N-507
@@ -1110,7 +1110,7 @@ Investigative Direction: Obtain the original Megyn Kelly / Bongino Sept. 15 broa
 
 **C-3055** Anonymous husband letter claims wife's Candace-influenced beliefs are causing marriage strain
 
-Claim Timestamp: 00:30:48–00:34:40
+Claim Timestamp: 00:32:30
 
 Claim: A letter read on Frank Turek's show by an anonymous husband states that his wife has become "deeply influenced by Candace Owens' recent content" regarding Turek, Israel, and conspiracy topics, and that this is creating a widening divide in their marriage.
 
@@ -1193,7 +1193,7 @@ Investigative Direction: Review the preliminary hearing transcript for the Faumu
 
 Claim Timestamp: 00:03:06
 
-Claim: The host says Kash Patel announced that a screwdriver carried Tyler Robinson's DNA a couple of days after the screwdriver was first leaked, which she dates to about September 11, and that Robinson was found in 33 hours.
+Claim: The host says Kash Patel announced a couple of days later that a screwdriver carried Tyler Robinson's DNA, but that it had already been leaked that a screwdriver was discovered, which she thinks was the next day, September 11, and that Robinson was found in 33 hours.
 
 Transcript Snippet: That was announced by Kash Patel a couple of days later, but they had kind of already leaked that they were looking
 
@@ -1258,7 +1258,7 @@ Investigative Direction: Obtain Bagley's device dock log and the UVU police body
 
 Claim Timestamp: 00:08:12
 
-Claim: The host says the Axon cameras store their data, so it will eventually be possible to learn how the battery died so quickly or whether the camera was manually turned off, and that she expects this to come out at a full trial.
+Claim: The host says people who wrote in said the Axon cameras store their data, so it will eventually be possible to learn how Officer Bagley's camera battery died so quickly or whether it was manually turned off, and that she expects this to come out at a full trial.
 
 Transcript Snippet: it stores that data, and so we will be able to find out eventually um how that battery died so quickly or if it was manually turned off
 
@@ -1309,7 +1309,7 @@ Investigative Direction: Obtain dispatch audio and CAD entries on the north-head
 
 Claim Timestamp: 00:12:54
 
-Claim: The host says a ton of influencers confirmed that for the rooftop Bagley was on they are now able to get 4K HD footage that has been enhanced, and that these influencers are typically the only ones shown it.
+Claim: The host says sarcastically that a ton of influencers confirmed that for the rooftop Bagley was on they are now able to get 4K HD footage that has been enhanced, and that these influencers are typically the only ones shown it.
 
 Transcript Snippet: A ton of influencers just confirmed that that very rooftop that you were on, they are now able to get 4K HD footage.
 
@@ -1989,7 +1989,7 @@ Transcript Snippet: I'm so grateful that I never delete anything on my phone whi
 Anchored Artifacts: A-2870.1, A-2870.1
 Mentions: N-3
 Related Nodes: N-10177
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Request preservation and forensic imaging of the host's phone and cloud backups for the Charlie Kirk message archive.
 
 ---

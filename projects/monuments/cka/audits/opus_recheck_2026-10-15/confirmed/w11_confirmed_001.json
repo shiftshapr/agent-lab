@@ -1,0 +1,446 @@
+[
+ {
+  "claim": "C-4627",
+  "episode": 116,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-685",
+    "N-1"
+   ]
+  },
+  "note": "\"his 35-year-old son\" is Spencer per Turek in the same clip (\"Let me call Spencer\")."
+ },
+ {
+  "claim": "C-4628",
+  "episode": 116,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the Jack Hibbs clip, Hibbs says he got the first call from \"Mike\" while Turek was in the emergency room after they got Charlie Kirk there, and Frank Turek says \"I remember I called you.\" The host asks \"How'd you do that, Frank?\", saying this disrupts his account of an uninterrupted FaceTime call."
+  },
+  "note": "Turn markers show Hibbs got the call from Mike; host's \"How'd you do that, Frank?\" fits Turek saying \"I remember I called you.\""
+ },
+ {
+  "claim": "C-4655",
+  "episode": 117,
+  "decision": "reject",
+  "fix": {},
+  "note": "Ep 117 at ~37:00 host says \"Andrew Kolvet... we showed you the clip of him on Laura Ingraham saying about the necklace\". Original attribution is right."
+ },
+ {
+  "claim": "C-4713",
+  "episode": 117,
+  "decision": "amend",
+  "fix": {
+   "claim": "Answering a viewer comment that quotes the paver's question \"what's a paver emergency?\", the host says that if a professional paver has never heard of a \"paver emergency,\" something is out of order. She adds that the paver, Dan Merrill, decided to speak out after wondering whether he was part of a cover-up, given that a team had removed the soil before he was brought in to pave.",
+   "mentions": [
+    "N-686"
+   ]
+  },
+  "note": "Comment quotes Dan Merrill (ep116: \"What's a paver emergency?\"); \"Professional paver\" tags him, not the commenter. Add N-686 only."
+ },
+ {
+  "claim": "C-4810",
+  "episode": 119,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim is about precedent in general and does not name or describe Erika Kirk."
+ },
+ {
+  "claim": "C-4818",
+  "episode": 119,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-17",
+    "N-267",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie Kirk (\"Charlie Kirk's chief of security\")."
+ },
+ {
+  "claim": "C-4826",
+  "episode": 119,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-331"
+   ]
+  },
+  "note": "Blake Neff is not named or referred to in the claim."
+ },
+ {
+  "claim": "C-4833",
+  "episode": 119,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Harpole appears only in the viewer comment, not in the claim."
+ },
+ {
+  "claim": "C-4835",
+  "episode": 119,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads says Erika Kirk's Father's Day post quoted Charlie as saying \"more fog, more sparklers.\" The host says Erika used a clip of him at a TPUSA event with sparklers, as PR in response to criticism over sparklers."
+  },
+  "note": "\"more fog, more sparklers\" is in Ali's comment; clip and PR points are the host's."
+ },
+ {
+  "claim": "C-2939",
+  "episode": 120,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Judge Graf has denied the defense motion to compel Lance Twiggs to appear in person at the preliminary hearing set for the week of July 6.",
+   "label": "Host Says Judge Graf Denied Motion to Compel Lance Twiggs In-Person Testimony",
+   "names": [
+    {
+     "wrong": "Graff",
+     "right": "Graf",
+     "source": "https://www.nbcnews.com/news/us-news/judge-decide-whether-tyler-robinson-will-stand-trial-charlie-kirks-ass-rcna595489"
+    }
+   ]
+  },
+  "note": "Graf confirmed (NBC, ABC: Utah 4th District Judge Tony Graf). Cited CNN URL not checked; replaced with checked NBC source."
+ },
+ {
+  "claim": "C-2941",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a viewer email the host reads, the writer says some black shards in the SUV images appear to have white on them, notes that the Rode Wireless Go microphone has several white details, and suggests that enhancing the images could identify parts of the microphone body, while allowing that it \"may be nothing.\"",
+   "label": "Viewer Email Suggests Enhancing SUV Shard Images for White Rode Mic Details",
+   "mentions": []
+  },
+  "note": "Email says \"This may be nothing\", names Rode Wireless Go and asks for enhancement; asserts no match. Charlie not in claim."
+ },
+ {
+  "claim": "C-2942",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Charlie Kirk is not named or referred to in the claim."
+ },
+ {
+  "claim": "C-2943",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Charlie Kirk is not named or referred to in the claim."
+ },
+ {
+  "claim": "C-5782",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "Claim refers to Charlie (\"Charlie's necklace\") and Erika Kirk (\"the widow\")."
+ },
+ {
+  "claim": "C-5783",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Kash Patel not in claim; \"the widow\" is Erika Kirk."
+ },
+ {
+  "claim": "C-5787",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Brian Harpole is not named or referred to in the claim."
+ },
+ {
+  "claim": "C-5790",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-267",
+    "N-7",
+    "N-191",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie (\"did not touch Charlie\")."
+ },
+ {
+  "claim": "C-5791",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Brian Harpole is not named or referred to in the claim."
+ },
+ {
+  "claim": "C-5807",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the evidence against Tyler Robinson includes a handwritten note that was subsequently destroyed.",
+   "mentions": [
+    "N-40"
+   ]
+  },
+  "note": "Host lists the note among \"clear evidence against Tyler Robinson\"; Twiggs not referred to."
+ },
+ {
+  "claim": "C-2953",
+  "episode": 121,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Frank Turek Threw Away His Original Clothing",
+   "claim": "In a clip the host plays, Frank Turek says he was in scrubs at the hospital because 'I didn't want her to see any of that'; the host says he admits elsewhere that he threw his clothes away."
+  },
+  "note": "Clip only has the scrubs line; disposal is the host's \"He admits elsewhere he threw his clothes away.\""
+ },
+ {
+  "claim": "C-2963",
+  "episode": 121,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Semafor article admits that the Pendragon Cycle, Jeremy Boreing's 'pet project', caused a significant amount of the Daily Wire's financial distress, and that the company spent $50 million on just seven episodes.",
+   "timestamp": "00:42:55"
+  },
+  "note": "Pendragon/$50M takeaway is spoken right after 42:51; fix matches wording."
+ },
+ {
+  "claim": "C-13097",
+  "episode": 121,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim says \"the cost\" and does not name Jeremy Boreing."
+ },
+ {
+  "claim": "C-13098",
+  "episode": 121,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim does not name Jeremy Boreing."
+ },
+ {
+  "claim": "C-13099",
+  "episode": 121,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-596"
+   ]
+  },
+  "note": "Claim does not name Jeremy Boreing."
+ },
+ {
+  "claim": "C-13111",
+  "episode": 121,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip of Charlie Kirk's event that the host plays, the host is asked what she would say to trans students who feel victimized and answers, \"Life's tough, get a helmet, man. I'm too pregnant for this\"; Charlie Kirk then says \"Do not mess with a pregnant Candace.\"",
+   "label": "Clip Played of the Host Answering a Question About Trans Students"
+  },
+  "note": "Answer is the pregnant host (Candace), not Charlie; reworded so \"she\" is unambiguous."
+ },
+ {
+  "claim": "C-13112",
+  "episode": 121,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-923",
+    "N-2"
+   ]
+  },
+  "note": "Claim names Erika (\"comparing Erika to Elizabeth Holmes\")."
+ },
+ {
+  "claim": "C-2982",
+  "episode": 122,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:42:10"
+  },
+  "note": "NSA request is spoken at the start of the 42:11 block."
+ },
+ {
+  "claim": "C-2992",
+  "episode": 123,
+  "decision": "amend",
+  "fix": {
+   "label": "Host's Staffer Ashley Identifies SantaMedical.com Equipment in Vehicle Photo",
+   "claim": "The host says her staffer Ashley figured out that the medical bag visible in the photo is a SantaMedical.com product, and the host says this is consistent with equipment Brian Harpole described traveling with Charlie."
+  },
+  "note": "\"Oh, Ashley figure[d] that out. santa medical.com\" (HappyScribe agrees); not a viewer. Dropped \"in the comments\", which the transcript does not say."
+ },
+ {
+  "claim": "C-2993",
+  "episode": 123,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:32:20",
+   "label": "Host Says Mikey McCoy Appeared Physically Ill as Charlie's Casket Was Carried Out of the Hospital"
+  },
+  "note": "\"He couldn't even hold the casket... holding his stomach\" is at ~32:25."
+ },
+ {
+  "claim": "C-7170",
+  "episode": 123,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Brian Harpole is suing her over his incompetence, mocks his position that she cannot call him incompetent, and says people should watch how Charlie was carried to the car."
+  },
+  "note": "Host is mocking Harpole's position, not rejecting a label on herself."
+ },
+ {
+  "claim": "C-7180",
+  "episode": 123,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim does not name or refer to Charlie Kirk."
+ },
+ {
+  "claim": "C-7196",
+  "episode": 123,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the Charlie Kirk Show hosts could get quick answers from Terryl, since he is right there and they are all in the same building, the Charlie Kirk building, the Fineberg building.",
+   "label": "Host Says the Charlie Kirk Show Team Shares a Building with Terryl",
+   "mentions": [
+    "N-14",
+    "N-262"
+   ]
+  },
+  "note": "HappyScribe Ep 357 (~54:10): \"get answers from Terrell because he's right there\"; TPUSA staffer Terryl Farnsworth (N-262), web-confirmed. Not Turek."
+ },
+ {
+  "claim": "C-3001",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Josh Hammer says the evidence presented during the pre-trial evidentiary hearings in the trial of Tyler Robinson is \"the most overwhelming presentation that I have ever seen this early on during a legal proceeding in my entire life.\"",
+   "label": "Josh Hammer Calls the Hearing Evidence the Most Overwhelming He Has Seen in His Life",
+   "mentions": [
+    "N-55",
+    "N-40"
+   ]
+  },
+  "note": "Clip introduced as \"take it away, Josh Hammer\"; no Court TV; he says \"in my entire life\"."
+ },
+ {
+  "claim": "C-3005",
+  "episode": 124,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the woman who captured the Ring camera footage, Miss Noble, told police she saw a bald man driving the gray Challenger accompanied by three other people; in the hearing clip the host plays, the witness answers, \"I believe they thought that was the case.\""
+  },
+  "note": "Fix is right, but the witness's gender is not stated; quote the answer instead of \"he believes\"."
+ },
+ {
+  "claim": "C-3009",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Court TV accidentally captured footage of the 12.1 enhanced exhibit, which she says is the same video as 12.4 zoomed in; in a clip she plays from an X user, the speaker says that at 1h17m30s of Court TV's Day 2 the figure running across the rooftop is only a pixel."
+  },
+  "note": "Pixel and 1h17m30s lines are the X user's clip, not the host."
+ },
+ {
+  "claim": "C-7234",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-40"
+   ]
+  },
+  "note": "Caitlyn Oliver is not named or referred to in the claim."
+ },
+ {
+  "claim": "C-7243",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-89",
+    "N-2",
+    "N-40",
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to Charlie (\"Charlie's mother\")."
+ },
+ {
+  "claim": "C-3022",
+  "episode": 125,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-368",
+    "N-737",
+    "N-11"
+   ]
+  },
+  "note": "Claim names Tyler Bowyer."
+ },
+ {
+  "claim": "C-5887",
+  "episode": 125,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Blake Neff is not named in the claim (host: \"I'm not saying Blake Neff\")."
+ },
+ {
+  "claim": "C-3027",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a hearing clip the host plays, Sergeant Faumuina testifies that officers canvassing the scene found unattended items at the bus stops by the library (Folsom Library in the clip) and seized a backpack, a jacket and gloves, and possibly other items she does not recall.",
+   "timestamp": "00:09:28"
+  },
+  "note": "Testimony is in the hearing clip after \"Take a listen\" in the 09:25 block."
+ }
+]

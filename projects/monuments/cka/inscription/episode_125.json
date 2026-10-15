@@ -1851,7 +1851,8 @@
       "investigative_direction": "Employment records, corporate directories, or archived LinkedIn data (host notes LinkedIn was cleaned) would verify the employment claim.",
       "mentions_person_refs": [
         "N-368",
-        "N-737"
+        "N-737",
+        "N-11"
       ]
     },
     {
@@ -2635,8 +2636,7 @@
       "investigative_direction": "Rental company records for Dodge Challengers checked out in Utah and Nevada around September 8-10, 2025, reached through tipsters or subpoena.",
       "transcript_snippet": "maybe see if there were any cars checked out uh Dodge Challengers that may have been rented.",
       "mentions_person_refs": [
-        "N-3",
-        "N-160"
+        "N-3"
       ]
     },
     {
@@ -3129,7 +3129,7 @@
       "@id": "C-5911",
       "ref": "C-5911",
       "label": "Host Says Kolvet Vented About the Lost Income After Returning to California",
-      "claim": "The host says the friend confirmed that Kolvet lost out on residual income because he was venting about it when he came back to California.",
+      "claim": "The host says someone confirmed that Kolvet lost out on residual income because he was venting about it when he came back to California.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10342"

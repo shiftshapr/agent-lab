@@ -673,7 +673,7 @@
       "ref": "N-10749",
       "name": "Amaro Resignation Cause",
       "type": "investigation_target",
-      "description": "Persistent investigation target. Utah Chief Medical Examiner Dr. Deidra Amaro resigned in 2026-07 with no official reason provided. Resignation coincides with reported broader resignations across UVU and police departments attributed by host to a \"general sense of corruption.\"",
+      "description": "Persistent investigation target. Utah Chief Medical Examiner Dr. Deirdre Amaro resigned in 2026-07 with no official reason provided. Resignation coincides with reported broader resignations across UVU and police departments attributed by host to a \"general sense of corruption.\"",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -1144,7 +1144,7 @@
       "ref": "N-177",
       "name": "Deirdre Amaro",
       "type": "person",
-      "description": "Dr. Deidra Amaro; Utah chief medical examiner whose resignation the host reports.",
+      "description": "Dr. Deirdre Amaro; Utah chief medical examiner whose resignation the host reports.",
       "related_artifacts": [],
       "related_claims": [
         "C-9007",
@@ -2073,8 +2073,8 @@
       "@type": "Claim",
       "@id": "C-3147",
       "ref": "C-3147",
-      "label": "Host asserts Dr. Deidra Amaro has resigned as Utah Chief Medical Examiner",
-      "claim": "Candace Owens claims an exclusive report that Dr. Deidra Amaro resigned from her position as Utah Chief Medical Examiner, with no official reason provided.",
+      "label": "Host asserts Dr. Deirdre Amaro has resigned as Utah Chief Medical Examiner",
+      "claim": "Candace Owens claims an exclusive report that Dr. Deirdre Amaro resigned from her position as Utah Chief Medical Examiner, with no official reason provided.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10749"
@@ -2128,7 +2128,7 @@
       "@id": "C-9007",
       "ref": "C-9007",
       "label": "Host Says Amaro's Tenure as Utah Chief Medical Examiner Began July 1, 2024",
-      "claim": "The host says Dr. Deidra Amaro became Utah's chief medical examiner on July 1, 2024, and would have signed off on Charlie Kirk's autopsy report.",
+      "claim": "The host says Dr. Deirdre Amaro became Utah's chief medical examiner on July 1, 2024, and would have signed off on Charlie Kirk's autopsy report.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10749"
@@ -2138,7 +2138,7 @@
       ],
       "claim_timestamp": "00:01:07",
       "investigative_direction": "Check the Utah Department of Health or governor's appointment record for Amaro's start date and the autopsy report's signatory.",
-      "transcript_snippet": "a woman by the name of Dr. Deidra Amaro. Uh her tenure began July 1st of 2024. And now we can exclusively report that Dr. Deidra Amaro has resigned from her position.",
+      "transcript_snippet": "a woman by the name of Dr. Deirdre Amaro. Uh her tenure began July 1st of 2024. And now we can exclusively report that Dr. Deirdre Amaro has resigned from her position.",
       "supports_claim_refs": [
         "C-1440"
       ],
@@ -2152,7 +2152,7 @@
       "@id": "C-9008",
       "ref": "C-9008",
       "label": "Host Says Amaro Claims Descent From Leif Erikson",
-      "claim": "The host says Dr. Deidra Amaro claims to be a direct descendant of Leif Erikson, which the host says may be true based on her team's research, and that Amaro has strong military ties and comes from a powerful family.",
+      "claim": "The host says Dr. Deirdre Amaro claims to be a direct descendant of Leif Erikson, which the host says may be true based on her team's research, and that Amaro has strong military ties and comes from a powerful family.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2191,7 +2191,7 @@
       "@id": "C-9010",
       "ref": "C-9010",
       "label": "Host Asks for Tips on Amaro Resignation at tips@candaceowens.com",
-      "claim": "The host asks viewers who know more about Dr. Deidra Amaro's sudden resignation to email tips@candaceowens.com, calling it a lead people should chase.",
+      "claim": "The host asks viewers who know more about Dr. Deirdre Amaro's sudden resignation to email tips@candaceowens.com, calling it a lead people should chase.",
       "anchored_artifacts": [
         "A-2978.1"
       ],

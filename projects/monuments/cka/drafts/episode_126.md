@@ -893,9 +893,9 @@ Company the host says Time reports Brad Parscale owned or part owned, which she 
 
 **C-3027** Unattended Items Seized Near Library Bus Stop
 
-Claim Timestamp: 00:08:30
+Claim Timestamp: 00:09:28
 
-Claim: Sergeant Faumuina testified that officers canvassing the scene seized unattended items – including a backpack, jacket, and gloves – near the Folsom (Fulton) Library bus stop.
+Claim: In a hearing clip the host plays, Sergeant Faumuina testifies that officers canvassing the scene found unattended items at the bus stops by the library (Folsom Library in the clip) and seized a backpack, a jacket and gloves, and possibly other items she does not recall.
 
 Anchored Artifacts: A-2139.1
 Mentions: N-506
@@ -904,7 +904,7 @@ Investigative Direction: Obtain hearing transcript or video exhibits to verify i
 
 ---
 
-**C-3028** Clip Shows Sergeant Faumuina Acknowledging UVU Communicated Discontinuation of Testing to FBI
+**C-3028** Clip Shows Sergeant Faumuina Not Remembering Telling the FBI Lab to Stop Testing
 
 Claim Timestamp: 00:09:25
 
@@ -921,7 +921,7 @@ Investigative Direction: Obtain FBI/ATF lab correspondence and UVU communication
 
 Claim Timestamp: 00:17:10
 
-Claim: In a September 25 recording the host plays, the anonymous eyewitness says the rooftop person executed a tactical movement pattern (rising and lowering in roughly 6-foot increments) over approximately 30 seconds before assuming the prone shooting position.
+Claim: In a September 25 recording the host plays, the anonymous eyewitness says the rooftop person moved in what looked like a tactical movement, going down to look around, then standing and running about 6 feet forward, and was in view for about 30 seconds in total, taking about 10 seconds to reach the spot where he lay down to shoot.
 
 Anchored Artifacts: A-2140.1
 Related Nodes: N-10717
@@ -969,7 +969,7 @@ Investigative Direction: Obtain full 911 transcript and dispatch records for the
 
 Claim Timestamp: 00:19:08
 
-Claim: The host says that initial police scanner traffic described a person in a face mask and tactical gear, contrasting with the federal narrative that, she says, now has him wearing jeans or something.
+Claim: In the September 25 recording the host plays, the host says the police scanner described a person in a face mask and tactical gear, while the feds are now saying he wore jeans or something.
 
 Anchored Artifacts: (verbally referenced police scanner; not displayed as audio artifact in episode)
 Related Nodes: N-10717
@@ -1157,9 +1157,9 @@ Claim: The host says Tyler Bowyer's father temporarily moved Tyler and his famil
 Transcript Snippet: Tyler Bowyer's dad who temporarily located Tyler and his family to New Jersey during that exact same time frame cuz he needed to serve as an executive to the Bank of America
 
 Anchored Artifacts: 
-Mentions: N-3, N-11, N-7
+Mentions: N-3, N-11
 Related Nodes: N-10716, N-10720
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Locate employment and residence records for Bowyer's father in New Jersey and the dates of his Bank of America executive role.
 
 ---
@@ -1563,7 +1563,7 @@ Investigative Direction: Request UVU and Utah County 911 and CAD records for the
 
 Claim Timestamp: 00:22:52
 
-Claim: In the played 911 audio, a speaker says gunshots were heard near the library at UVU and that they are trying to lock the library down, and another voice says the dispatcher is saying they just got another report of shots fired at the UVU library.
+Claim: In the played 911 audio, a speaker says gunshots were heard near the library at UVU and that they are trying to lock the library down, and another voice says 'she's saying' they just got another report of shots fired at the UVU library.
 
 Transcript Snippet: Gunshots heard near the library at UVU. They're trying to lock the library down now. So, gather >> She's saying they just got another report of shots fired at the UVU library.
 
@@ -1594,7 +1594,7 @@ Investigative Direction: Locate the hearing testimony on the .223 round, its rec
 
 Claim Timestamp: 00:26:40
 
-Claim: The host says that when officers were asked why they did not act on the unfired .223 round, they gave a ridiculous answer, and she adds 'I should have pulled that'.
+Claim: The host says that, as a chat comment reminded her, when they were questioned about why they did not act on the unfired .223 round, they gave a ridiculous answer, and she adds 'I should have pulled that'.
 
 Transcript Snippet: And when they were questioned about why they didn't really do anything about that they were they gave a ridiculous answer and that is correct. I should have pulled that.
 
@@ -1761,7 +1761,7 @@ Claim: The host says the FARA filings for the Israeli influence operation, with 
 Transcript Snippet: the bot campaign, the Israeli influence operation, the Faradox that were filed um following Charlie's assassination, almost immediately following Charlie's assassination, Clock Clock Tower X.
 
 Anchored Artifacts: A-2144.1
-Mentions: N-3, N-431
+Mentions: N-3
 Related Nodes: N-10722, N-10662
 Supports: C-2863
 Tags: relevance:context
@@ -1986,7 +1986,7 @@ Investigative Direction: Obtain the recovered rifle's make and caliber from the 
 
 Claim Timestamp: 00:44:34
 
-Claim: The host says there is no evidence Tyler Robinson had anything to do with Charlie's assassination, that she is not saying he was not involved, and that she believes he was on campus for decoys.
+Claim: The host says they have seen no evidence Tyler Robinson had anything to do with Charlie's assassination, that she is not saying he was not involved, and that she believes he was on campus for decoys.
 
 Transcript Snippet: We we've just seen no evidence that Tyler Robinson had anything to do with Charlie's assassination, and like I have said, my investigation leads me to believe that I'm not saying he wasn't involved. I believe he was around campus on campus for decoys.
 
@@ -2127,17 +2127,17 @@ Investigative Direction: Compare event counts from TPUSA tour schedules and arch
 
 ---
 
-**C-8997** Host Says Lindsey Graham Is Dead and His Sister Becomes a Senator
+**C-8997** Host Says Charlie Did Not Believe in a Coronation, Citing a Hypothetical Graham Succession
 
 Claim Timestamp: 00:49:49
 
-Claim: In a rhetorical contrast about succession, the host says Lindsey Graham is dead so his sister becomes a senator.
+Claim: In a rhetorical contrast about succession, the host says Charlie did not believe in a coronation, giving the hypothetical example "Lindsey Graham is dead, so now his sister becomes a senator."
 
 Transcript Snippet: He didn't believe in well, Lindsey Graham is dead, so now his sister becomes a senator.
 
 Anchored Artifacts: 
 Mentions: N-3, N-453
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Verify against Senate records; the statement is made in a rhetorical aside.
 
 ---
@@ -2174,7 +2174,7 @@ Investigative Direction: Compare Zinn's arrest photos with the described rooftop
 
 ---
 
-**C-9000** Host Says the Panguitch Steakhouse Issue Will Throw Things for a Loop and She Has Receipts
+**C-9000** Host Says the Panguitch Steakhouse Issue Will Throw Things for a Loop and There Are Receipts
 
 Claim Timestamp: 00:51:27
 
@@ -2183,7 +2183,7 @@ Claim: The host says the Panguitch Steakhouse matter is going to throw things fo
 Transcript Snippet: It's going to be that Panguitch Steakhouse thing that's going to throw things for a loop, and there are receipts.
 
 Anchored Artifacts: 
-Mentions: N-3, N-40
+Mentions: N-3
 Related Nodes: N-10381
 Tags: relevance:core
 Investigative Direction: Obtain the steakhouse's receipts and surveillance for the date and compare with the official timeline.
@@ -2225,7 +2225,7 @@ Investigative Direction: Request call logs and device records for the FaceTime c
 
 Claim Timestamp: 00:52:53
 
-Claim: The host says the only other person on the line could be the driver, going 100 miles an hour and updating Ben's security on a 7-minute journey.
+Claim: The host says the only other person could be the driver, going 100 miles an hour and updating Ben's security on a 7-minute journey.
 
 Transcript Snippet: the only other person could be the driver. Going 100 miles per an hour. Updating Ben's security on a 7-minute journey.
 

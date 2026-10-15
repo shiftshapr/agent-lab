@@ -62,7 +62,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2154",
       "family_ref": "A-2154",
-      "bundle_name": "September 12, 2025 FBI Press Conference Bundle (Governor Cox / Kash Patel / Bo Mason)",
+      "bundle_name": "September 12, 2025 FBI Press Conference Bundle (Governor Cox / Kash Patel / Beau Mason)",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -179,7 +179,7 @@
           "@type": "Artifact",
           "@id": "A-2157.3",
           "ref": "A-2157.3",
-          "description": "Utah Department of Public Safety post-training photo, May 20, 2013 (with Bo Mason)",
+          "description": "Utah Department of Public Safety post-training photo, May 20, 2013 (with Beau Mason)",
           "related_claims": [
             "C-3066",
             "C-3069"
@@ -212,7 +212,7 @@
           "@type": "Artifact",
           "@id": "A-2157.5",
           "ref": "A-2157.5",
-          "description": "2023 sergeant swearing-in photo (with Bo Mason)",
+          "description": "2023 sergeant swearing-in photo (with Beau Mason)",
           "related_claims": [
             "C-3068",
             "C-3070"
@@ -237,7 +237,7 @@
           "@type": "Artifact",
           "@id": "A-2158.1",
           "ref": "A-2158.1",
-          "description": "Bo Mason appointed Commissioner of Utah DPS – June 19, 2025 (by Gov. Cox)",
+          "description": "Beau Mason appointed Commissioner of Utah DPS – June 19, 2025 (by Gov. Cox)",
           "related_claims": [
             "C-3071"
           ],
@@ -273,7 +273,7 @@
           "@type": "Artifact",
           "@id": "A-2158.3",
           "ref": "A-2158.3",
-          "description": "Judge Tony Graff appointed – May 2025",
+          "description": "Judge Tony Graf appointed – May 2025",
           "related_claims": [
             "C-3073"
           ],
@@ -801,7 +801,7 @@
       "ref": "N-10733",
       "name": "Utah Pre-Event Personnel Restructuring Pattern",
       "type": "investigation_target",
-      "description": "Cluster of Utah appointments in the months prior to the September 10, 2025 assassination: Bo Mason (June 19, 2025), Tony Graff (May 2025), medical examiner (July 2024), Andrew Zenger (August 18, 2025), Robert Bohls (September 2, 2025).",
+      "description": "Cluster of Utah appointments in the months prior to the September 10, 2025 assassination: Beau Mason (June 19, 2025), Tony Graf (May 2025), medical examiner (July 2024), Andrew Zenger (August 18, 2025), Robert Bohls (September 2, 2025).",
       "related_artifacts": [
         "A-2158.1",
         "A-2158.2",
@@ -1177,7 +1177,7 @@
       "ref": "N-508",
       "name": "Beau Mason",
       "type": "person",
-      "description": "First named by the host at 00:08:44 in episode 128. Aliases: Bo Mason, Beau \"Bo\" Mason.",
+      "description": "First named by the host at 00:08:44 in episode 128. Aliases: Beau Mason, Beau \"Bo\" Mason.",
       "related_artifacts": [],
       "related_claims": [
         "C-3061",
@@ -2363,7 +2363,7 @@
       "@type": "Claim",
       "@id": "C-3061",
       "ref": "C-3061",
-      "label": "Host Says Kash Patel and Bo Mason Did Not Intervene During Governor Cox's Clothing Statement",
+      "label": "Host Says Kash Patel and Beau Mason Did Not Intervene During Governor Cox's Clothing Statement",
       "claim": "The host says neither Kash Patel nor Beau Mason interrupted or corrected Governor Cox during his statement about rooftop clothing changes at the September 12, 2025 briefing.",
       "anchored_artifacts": [
         "A-2154.1"
@@ -2383,7 +2383,7 @@
       "@id": "C-3062",
       "ref": "C-3062",
       "label": "Dan Bongino described the rooftop footage as \"very grainy\"",
-      "claim": "On September 15, 2025, FBI Deputy Director Dan Bongino told Megyn Kelly that the rooftop video was \"very grainy\" and cited lab enhancement as ongoing.",
+      "claim": "On September 15, 2025, FBI Deputy Director Dan Bongino told Megyn Kelly that the rooftop video was \"very grainy\" and said the FBI lab has excellent tools and had been handling it for days.",
       "anchored_artifacts": [
         "A-2155.1"
       ],
@@ -2422,7 +2422,7 @@
       "@id": "C-3064",
       "ref": "C-3064",
       "label": "Host Says Jennifer Faumuina Played Basketball at a Hawaii Private School in 2003",
-      "claim": "The host says her team found a 2003 image showing Jennifer Faumuina playing basketball at a private school in Hawaii.",
+      "claim": "The host says her team found Jennifer Faumuina playing basketball at a private school in Hawaii in 2003.",
       "anchored_artifacts": [
         "A-2157.1"
       ],
@@ -2456,7 +2456,7 @@
       "@id": "C-3066",
       "ref": "C-3066",
       "label": "Jennifer Faumuina completed Utah DPS post-training on May 20, 2013",
-      "claim": "Jennifer Faumuina appears in a Utah Department of Public Safety post-training photo dated May 20, 2013, alongside Bo Mason.",
+      "claim": "Per the training photo the host shows, Jennifer Faumuina apparently appears in a Utah Department of Public Safety post-training session dated May 20, 2013, alongside Beau Mason.",
       "anchored_artifacts": [
         "A-2157.3"
       ],
@@ -2507,8 +2507,8 @@
       "@type": "Claim",
       "@id": "C-3069",
       "ref": "C-3069",
-      "label": "Faumuina and Mason photographed together on May 20, 2013",
-      "claim": "Jennifer Faumuina and Bo Mason appear together in a May 20, 2013 Utah DPS post-training photo.",
+      "label": "Faumuina and Beau Mason Photographed Together on May 20, 2013",
+      "claim": "Per the training photo the host shows, Jennifer Faumuina and Beau Mason apparently appear together in a May 20, 2013 Utah DPS post-training session.",
       "anchored_artifacts": [
         "A-2157.3"
       ],
@@ -2525,8 +2525,8 @@
       "@type": "Claim",
       "@id": "C-3070",
       "ref": "C-3070",
-      "label": "Host Says Faumuina and Mason Were Photographed Together at Her 2023 Sergeant Swearing-In",
-      "claim": "The host says she shows a photograph in which Jennifer Faumuina and Bo Mason appear together in 2023 when Faumuina was sworn in as a sergeant.",
+      "label": "Host Says Faumuina and Beau Mason Were Photographed Together at Her 2023 Sergeant Swearing-In",
+      "claim": "The host says she shows a photograph in which Jennifer Faumuina and Beau Mason appear together in 2023 when Faumuina was sworn in as a sergeant.",
       "anchored_artifacts": [
         "A-2157.5"
       ],
@@ -2543,7 +2543,7 @@
       "@type": "Claim",
       "@id": "C-3071",
       "ref": "C-3071",
-      "label": "Host Says Bo Mason Was Appointed Utah DPS Commissioner on June 19, 2025",
+      "label": "Host Says Beau Mason Was Appointed Utah DPS Commissioner on June 19, 2025",
       "claim": "The host says Beau \"Bo\" Mason was appointed Commissioner of the Utah Department of Public Safety on June 19, 2025 by Governor Cox.",
       "anchored_artifacts": [
         "A-2158.1"
@@ -2582,8 +2582,8 @@
       "@type": "Claim",
       "@id": "C-3073",
       "ref": "C-3073",
-      "label": "Host Says Judge Tony Graff Was Appointed in May 2025",
-      "claim": "The host says Judge Tony Graff received a judicial appointment in May 2025.",
+      "label": "Host Says Judge Tony Graf Was Appointed in May 2025",
+      "claim": "The host says Judge Tony Graf received a judicial appointment in May 2025.",
       "anchored_artifacts": [
         "A-2158.3"
       ],
@@ -2638,13 +2638,13 @@
       "@id": "C-3076",
       "ref": "C-3076",
       "label": "Misiona Faumuina died in 1995 in Hawaii from injuries sustained in a gang-related beating",
-      "claim": "Sgt. Jennifer Faumuina's uncle, Misiona Faumuina, died in 1995 in Hawaii after being beaten as part of a reported gang initiation ritual; his brother Sapena Faumuina was publicly vocal in the press.",
+      "claim": "The host says Sgt. Jennifer Faumuina's uncle, Misiona Faumuina, died in 1995 in Hawaii after being beaten as part of a reported gang initiation ritual; his brother Sapena Faumuina was publicly vocal in the press.",
       "anchored_artifacts": [
         "A-2160.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:24:14",
+      "claim_timestamp": "00:23:20",
       "investigative_direction": "Obtain original Honolulu-area news archives and Hawaii court records for the criminal case.",
       "mentions_person_refs": [
         "N-506",
@@ -2657,7 +2657,7 @@
       "@id": "C-3077",
       "ref": "C-3077",
       "label": "Misiona Faumuina was characterized in 1995 press coverage as a devout Mormon",
-      "claim": "Per 1995 press coverage the host shows, Misiona Faumuina was described as a devout Mormon attending the Maquilo Ward in Waipahu, with his brother Sapena noting he was preparing for a mission.",
+      "claim": "Per 1995 press coverage the host shows, Misiona Faumuina was described as a devout Mormon who attended church in Waipahu every Sunday, in the Maquilo Ward where the family lived, with his brother Sapena noting he was preparing for a mission.",
       "anchored_artifacts": [
         "A-2160.1"
       ],
@@ -2722,7 +2722,7 @@
         "N-10732"
       ],
       "tags": [],
-      "claim_timestamp": "00:36:56",
+      "claim_timestamp": "00:36:15",
       "investigative_direction": "Compare both statements against travel itineraries, expense reports, and credit card records.",
       "mentions_person_refs": [
         "N-160"
@@ -2751,7 +2751,7 @@
       "@type": "Claim",
       "@id": "C-3082",
       "ref": "C-3082",
-      "label": "Lt. Col. Kolvet publicly stated his brother Andrew never worked at Fort Huachuca",
+      "label": "Lt. Col. Kolvet Posts That He Never Worked at Fort Huachuca",
       "claim": "Lt. Col. Kolvet posted on X that he is Andrew Kolvet's only brother, that he never worked at Fort Huachuca, and that he visited the installation once for a 3-day MP unit training event.",
       "anchored_artifacts": [
         "A-2163.1"
@@ -2949,8 +2949,7 @@
       "investigative_direction": "Pin down the time between the shooting and the first DOJ or FBI public attribution of the suspect.",
       "transcript_snippet": "the garbage that was foisted upon us from the Justice Department that day where they seemingly solved the case in about eight hot seconds.",
       "mentions_person_refs": [
-        "N-948",
-        "N-154"
+        "N-948"
       ]
     },
     {
@@ -2958,7 +2957,7 @@
       "@id": "C-14720",
       "ref": "C-14720",
       "label": "Holt Says a Kid Who Never Killed Would Not Be Sent Onto a Roof With a .30-06",
-      "claim": "General Holt says a young man who has never killed anyone would not take a .30-06 onto a roof and do the things O'Neill described.",
+      "claim": "General Holt says you are not going to take a .30-06 with a kid who has never killed anybody up onto a roof and have him take his first life and do all the things O'Neill described.",
       "anchored_artifacts": [
         "A-2153.2"
       ],
@@ -3139,8 +3138,7 @@
       ],
       "mentions_person_refs": [
         "N-46",
-        "N-69",
-        "N-379"
+        "N-69"
       ]
     },
     {
@@ -3162,8 +3160,7 @@
       "investigative_direction": "Review Bongino's other September 15 appearance for what he withheld and the reason he gave.",
       "transcript_snippet": "I was a little hesitant in a media appearance this morning to go into specifics on uh especially the video and where the gun was",
       "mentions_person_refs": [
-        "N-379",
-        "N-46"
+        "N-379"
       ]
     },
     {
@@ -3928,7 +3925,6 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-7",
         "N-3"
       ]
     },
@@ -3976,7 +3972,7 @@
       "investigative_direction": "Obtain the TPUSA group booking, folio or expense records for September 10.",
       "transcript_snippet": "The entire Turning Point team stayed in Salt Lake City.",
       "mentions_person_refs": [
-        "N-160"
+        "N-3"
       ]
     },
     {

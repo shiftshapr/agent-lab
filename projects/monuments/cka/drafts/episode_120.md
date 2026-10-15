@@ -47,7 +47,7 @@
 
 ## II. Executive Summary
 
-This episode advances the Bride of Charlie series along three evidentiary tracks. First, host presents the Brian Harpole / Shawn Ryan interview in which Harpole claims to have personally cut Charlie Kirk's "freedom shirt" off at the hospital; host contends this account is implausible and argues the shirt – a likely explosive-residue carrier – has been disposed of rather than preserved. Second, host walks through three successive media interviews given by front-row witness Sarah Tool, in which her account of the wound location shifts from "directly in the heart" to "in the neck," and her estimate of shooter distance grows in precision (Fox 13 → local media → ABC News), anchoring a contradiction node. Third, host reports that Judge Graff has denied the defense motion to compel Lance Twiggs's in-person testimony at the preliminary hearing, with Twiggs's recorded statement to be admitted instead, and frames this as hearsay-elimination failure.
+This episode advances the Bride of Charlie series along three evidentiary tracks. First, host presents the Brian Harpole / Shawn Ryan interview in which Harpole claims to have personally cut Charlie Kirk's "freedom shirt" off at the hospital; host contends this account is implausible and argues the shirt – a likely explosive-residue carrier – has been disposed of rather than preserved. Second, host walks through three successive media interviews given by front-row witness Sarah Tool, in which her account of the wound location shifts from "directly in the heart" to "in the neck," and her estimate of shooter distance grows in precision (Fox 13 → local media → ABC News), anchoring a contradiction node. Third, host reports that Judge Graf has denied the defense motion to compel Lance Twiggs's in-person testimony at the preliminary hearing, with Twiggs's recorded statement to be admitted instead, and frames this as hearsay-elimination failure.
 
 The episode also re-runs the Next Model Management / Erika Frantzve apartment-management thread with reference to a newly reported (but not on-camera) second witness, presents a viewer email and enhanced shard images supporting the exploding-microphone hypothesis, and includes a Tim Dillon parody reading of a JD Vance book excerpt. A signature-comparison visual is presented as evidence that Erika Kirk's signature has fundamentally changed since her Miss Arizona years, which the host interprets as symptomology consistent with dissociative identity disorder (interpretive, not inscribed as artifact-backed claim).
 
@@ -195,7 +195,7 @@ Confidence Level: High
 
 **A-2092** Court Ruling Reference Bundle (verbally referenced only)
 
-**A-2092.1** Judge Graff ruling denying defense motion to compel Lance Twiggs in-person testimony at preliminary hearing (ruling document not shown on screen)
+**A-2092.1** Judge Graf ruling denying defense motion to compel Lance Twiggs in-person testimony at preliminary hearing (ruling document not shown on screen)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -978,11 +978,11 @@ Investigative Direction: Verify the 200-yard figure against the documented dista
 
 ---
 
-**C-2939** Host Says Judge Graff Denied Motion to Compel Lance Twiggs In-Person Testimony
+**C-2939** Host Says Judge Graf Denied Motion to Compel Lance Twiggs In-Person Testimony
 
 Claim Timestamp: 00:25:38
 
-Claim: The host says Judge Graff has denied the defense motion to compel Lance Twiggs to appear in person at the preliminary hearing set for the week of July 6.
+Claim: The host says Judge Graf has denied the defense motion to compel Lance Twiggs to appear in person at the preliminary hearing set for the week of July 6.
 
 Anchored Artifacts: A-2092.1
 Mentions: N-40, N-54, N-136
@@ -1008,14 +1008,14 @@ Investigative Direction: Obtain the preliminary-hearing scheduling order and any
 
 ---
 
-**C-2941** Viewer Email Identifies White Markings on SUV Shards Consistent with Rode Mic
+**C-2941** Viewer Email Suggests Enhancing SUV Shard Images for White Rode Mic Details
 
 Claim Timestamp: 00:13:23
 
-Claim: A viewer email asserts that white markings visible on the SUV floorboard shards match the design and labeling on a Rode Wireless Pro microphone.
+Claim: In a viewer email the host reads, the writer says some black shards in the SUV images appear to have white on them, notes that the Rode Wireless Go microphone has several white details, and suggests that enhancing the images could identify parts of the microphone body, while allowing that it "may be nothing."
 
 Anchored Artifacts: A-2087.1
-Mentions: N-1
+Mentions: 
 
 Related Nodes: N-10678
 
@@ -1030,7 +1030,7 @@ Claim Timestamp: 00:14:51
 Claim: The host says the enhanced still images she displays show white markings on the SUV floorboard shards that visually align with the Rode Wireless Pro body design and labeling, as a viewer email she reads suggested.
 
 Anchored Artifacts: A-2088.1, A-2089.1
-Mentions: N-1
+Mentions: 
 
 Related Nodes: N-10678
 
@@ -1045,7 +1045,7 @@ Claim Timestamp: 00:15:51
 Claim: The host says a YouTube video she plays, in which a third party destroys a Rode Wireless Pro, produces a shard pattern that visually resembles the shards on the SUV floorboard.
 
 Anchored Artifacts: A-2089.2, A-2088.1
-Mentions: N-1
+Mentions: 
 
 Related Nodes: N-10678
 
@@ -1087,7 +1087,7 @@ Investigative Direction: Archive TPUSA's online store listing for the shirt to e
 
 Claim Timestamp: 00:02:12
 
-Claim: The host says a viewer pointed out that Baron Coleman, in his early coverage of the case, had already furnished the answer to her question about what happened to Charlie's shirt.
+Claim: The host says someone pointed out to her that Baron Coleman, in his early coverage of the case, had already furnished the answer to her question about what happened to Charlie's shirt.
 
 Transcript Snippet: someone pointed out to me that Baron Coleman had already furnished the answer to it as well as other people a long time ago actually in his early days of covering the case.
 
@@ -1123,7 +1123,7 @@ Claim: The host says the feds were looking for Charlie's necklace, as was Frank 
 Transcript Snippet: the feds were looking for it for some unknown reason, as was Frank Turek, and it was then given to the widow, who now wears it around her neck.
 
 Anchored Artifacts:
-Mentions: N-7
+Mentions: N-7, N-1, N-2
 Related Nodes: N-10537
 Investigative Direction: Identify who recovered the necklace, any evidence log entry for it, and the date it was released to Erika Kirk.
 
@@ -1138,7 +1138,7 @@ Claim: The host says the handheld microphone was not kept in evidence because th
 Transcript Snippet: the widow needed that for the Mar-a-Lago fundraiser. It's encased in some glass, and she is mourning beside it with photographers at her helm.
 
 Anchored Artifacts:
-Mentions: N-69
+Mentions: N-2
 Related Nodes: N-11053
 Supports: C-4366
 Investigative Direction: Obtain the FBI/Utah evidence inventory for the handheld microphone and photographs of the Mar-a-Lago display with the date of release.
@@ -1200,7 +1200,7 @@ Claim: The host says she still cannot work out who in the car called 911 and can
 Transcript Snippet: We still can't figure out who in the car called 911, and we can't find that 911 call, but they say someone did call 911.
 
 Anchored Artifacts:
-Mentions: N-267
+Mentions: N-3
 Related Nodes: N-10692, N-10729
 Investigative Direction: Request the dispatch record and audio for the Sept 10, 2025 911 call from Utah County dispatch.
 
@@ -1246,7 +1246,7 @@ Claim: The host says that according to Harpole, Frank Turek did not touch Charli
 Transcript Snippet: According to Brian, he was just praying in the back seat. But for some reason, Frank notes that when he got to the hospital, he got changed.
 
 Anchored Artifacts: A-2085.1
-Mentions: N-267, N-7, N-191
+Mentions: N-267, N-7, N-191, N-1
 Related Nodes: N-10688, N-10699
 Investigative Direction: Find Turek's own statement about changing clothes and the hospital's record of scrubs issued; ask what happened to the clothing he removed.
 
@@ -1261,7 +1261,7 @@ Claim: The host says she does not see Charlie's shirt in evidence, marked as evi
 Transcript Snippet: Cuz I don't see it in evidence. I don't see it marked as evidence. I haven't seen it in the court case filings that they have this shirt anywhere.
 
 Anchored Artifacts:
-Mentions: N-267, N-1
+Mentions: N-1
 Related Nodes: N-10676, N-10707
 Investigative Direction: Check the State's exhibit and evidence lists in the Robinson case for clothing worn by Charlie Kirk, and the hospital's patient-belongings record.
 
@@ -1375,7 +1375,7 @@ Investigative Direction: Obtain broadcast metadata for both interviews to verify
 
 ---
 
-**C-5799** Host says Tool's 200-yard estimate matches the distance to Loews Center
+**C-5799** Host says Tool's 200-yard estimate matches the distance to Losee Center
 
 Claim Timestamp: 00:20:48
 
@@ -1499,12 +1499,12 @@ Investigative Direction: Obtain the charging documents and discovery showing the
 
 Claim Timestamp: 00:24:46
 
-Claim: The host says there was a handwritten note that was subsequently destroyed.
+Claim: The host says the evidence against Tyler Robinson includes a handwritten note that was subsequently destroyed.
 
 Transcript Snippet: a handwritten note that was subsequently destroyed which doesn't pass the sniff test, because why would you handwrite anything if you're going to just text everything out anyway.
 
 Anchored Artifacts:
-Mentions: N-40, N-54
+Mentions: N-40
 Related Nodes: N-10337, N-10703
 Investigative Direction: Check the charging documents and affidavit for the note's description, who found it and how it was destroyed.
 
@@ -2055,12 +2055,12 @@ Transcript Snippet: we have here an excerpt from the book God chose me by J. D. 
 Anchored Artifacts: A-2090.1
 Mentions: N-278, N-4, N-1
 Related Nodes:
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the original Tim Dillon episode and confirm the segment is presented as comedy.
 
 ---
 
-**C-5844** Host acknowledges the excerpt is not literally in the book
+**C-5844** Tim Dillon Says the Excerpt Is the Essence of the Book
 
 Claim Timestamp: 00:49:17
 
@@ -2368,7 +2368,7 @@ Confidence: high
 - **Name uncertainty**: Transcript renders the signature as "Erica Lane" at A-2091.1 reference (39:46). This may be a transcription artifact, a nickname, or an alternative spelling. Host references it as "her new signature, Erica Lane, the one that's scratched out." Preserved verbatim.
 - **Name uncertainty**: Host uses both "Shawn Ryan" and "Shawn Ryan" for the same podcast host. Preserved both spellings as appearing.
 - **Name uncertainty**: Host uses both "Frank Turek" and "Frank Turek" in reference to the same individual traveling with Charlie. Preserved both as appearing.
-- **Artifact verbally referenced but not shown**: A-2092.1 (Judge Graff ruling) – host summarizes the ruling but the underlying court document is not displayed on screen.
+- **Artifact verbally referenced but not shown**: A-2092.1 (Judge Graf ruling) – host summarizes the ruling but the underlying court document is not displayed on screen.
 - **Witness not shown in episode**: Host reports that "another person has come forward and confirmed" Erika Frantzve's role as apartment contact at Next Model Management; this witness is not shown speaking on this episode. Not inscribed as artifact-backed claim.
 - **Claim failed admission test**: Host's interpretation of Erika Kirk's behavior as consistent with dissociative identity disorder – fails Rhetoric Removal Test; treated as interpretive commentary.
 - **Transcript ambiguity**: Chapter marker at [47:07] references "JD Vance's new book"; the played clip refers to a fictional work titled "God chose me by J. D. Vance." Whether this is a real published excerpt or entirely fabricated parody material should be verified.

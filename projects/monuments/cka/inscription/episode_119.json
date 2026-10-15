@@ -2707,7 +2707,7 @@
       "investigative_direction": "Survey corporate succession records for spouses who became CEO and chairman after a founder's death.",
       "transcript_snippet": "We could not find a single example in human history where someone's wife just assumed their co- corporate role as CEO and chairman of their company following a death.",
       "mentions_person_refs": [
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -2872,7 +2872,8 @@
       "mentions_person_refs": [
         "N-17",
         "N-267",
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -3036,8 +3037,7 @@
       "transcript_snippet": "some audio is going to show that the majority of people at Turning Point USA don't believe Tyler Robinson did it or acted alone.",
       "mentions_person_refs": [
         "N-40",
-        "N-331",
-        "N-160"
+        "N-331"
       ]
     },
     {
@@ -3172,7 +3172,6 @@
       "transcript_snippet": "The microphone didn't go into evidence. It went you know for a photo op with Erika in front of donors as she raised $40 million at Mar-a-Lago.",
       "mentions_person_refs": [
         "N-2",
-        "N-267",
         "N-1"
       ]
     },
@@ -3203,7 +3202,7 @@
       "@id": "C-4835",
       "ref": "C-4835",
       "label": "Erika's Father's Day post used a sparklers clip in response to criticism",
-      "claim": "The host says, following a viewer comment, that Erika Kirk's Father's Day post quoted Charlie as saying \"more fog, more sparklers\" and used a clip of him at a TPUSA event with sparklers. She says this was PR in response to criticism over sparklers.",
+      "claim": "A viewer comment the host reads says Erika Kirk's Father's Day post quoted Charlie as saying \"more fog, more sparklers.\" The host says Erika used a clip of him at a TPUSA event with sparklers, as PR in response to criticism over sparklers.",
       "anchored_artifacts": [
         "A-2709.2"
       ],

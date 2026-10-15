@@ -121,7 +121,7 @@ The Farnsworth family has extensive military connections. I will add more about 
 
 [20:26]
 
-Again, we'll get more into that in a future episode. And then of course, the doctors. Dr. Lee Trotter did his residency on an Air Force base and he also has his pilot's license. The Utah medical examiner, Dr. Deidra Amaro, is a major. Butch Hibbs, we have Jack Hibbs, their father, Butch Sr., military background, and I suspect Butch Hibbs also perhaps is involved in the military himself. We're looking for something a bit more concrete on that. Now, I want to present that to you because I want to focus um on building that so you can see these themes recurring,.
+Again, we'll get more into that in a future episode. And then of course, the doctors. Dr. Lee Trotter did his residency on an Air Force base and he also has his pilot's license. The Utah medical examiner, Dr. Deirdre Amaro, is a major. Butch Hibbs, we have Jack Hibbs, their father, Butch Sr., military background, and I suspect Butch Hibbs also perhaps is involved in the military himself. We're looking for something a bit more concrete on that. Now, I want to present that to you because I want to focus um on building that so you can see these themes recurring,.
 
 ## The disturbing history of Liberty University and the Charlie Kirk connection.
 

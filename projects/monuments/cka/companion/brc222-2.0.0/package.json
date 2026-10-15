@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T17:36:04Z",
+  "generated_at": "2026-10-15T17:41:38Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -24325,7 +24325,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13111",
-      "label": "Clip Played of a Reply About Trans Students",
+      "label": "Clip Played of the Host Answering a Question About Trans Students",
       "node_kind": "claim",
       "episode": 121
     },
@@ -49161,7 +49161,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2939",
-      "label": "Host Says Judge Graff Denied Motion to Compel Lance Twiggs In-Person Testimony",
+      "label": "Host Says Judge Graf Denied Motion to Compel Lance Twiggs In-Person Testimony",
       "node_kind": "claim",
       "episode": 120
     },
@@ -49175,7 +49175,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2941",
-      "label": "Viewer Email Identifies White Markings on SUV Shards Consistent with Rode Mic",
+      "label": "Viewer Email Suggests Enhancing SUV Shard Images for White Rode Mic Details",
       "node_kind": "claim",
       "episode": 120
     },
@@ -49210,7 +49210,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2946",
-      "label": "Brian Harpole Claims to Have Jumped on Charlie in ER to Cut Shirt",
+      "label": "Brian Harpole Says He Got on Top of Charlie in ER to Cut Shirt",
       "node_kind": "claim",
       "episode": 121
     },
@@ -49259,7 +49259,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2953",
-      "label": "Frank Turek States He Disposed of His Original Clothing",
+      "label": "Host Says Frank Turek Threw Away His Original Clothing",
       "node_kind": "claim",
       "episode": 121
     },
@@ -49490,7 +49490,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2986",
-      "label": "Black Tempered Shattered Glass Present in Charlie Kirk Transport Vehicle",
+      "label": "Host Says Black Tempered Shattered Glass Is in Charlie Kirk Transport Vehicle",
       "node_kind": "claim",
       "episode": 123
     },
@@ -49532,14 +49532,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2992",
-      "label": "Viewer Comment Host Reads Identifies SantaMedical.com Equipment in Vehicle Photo",
+      "label": "Host's Staffer Ashley Identifies SantaMedical.com Equipment in Vehicle Photo",
       "node_kind": "claim",
       "episode": 123
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2993",
-      "label": "Mikey McCoy Appeared Physically Ill During Casket Removal at Hospital",
+      "label": "Host Says Mikey McCoy Appeared Physically Ill as Charlie's Casket Was Carried Out of the Hospital",
       "node_kind": "claim",
       "episode": 123
     },
@@ -49567,7 +49567,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2997",
-      "label": "Police Scanner Reported Car Door Open and Visible Struggle During Transport",
+      "label": "Host Says Harpole Described Police Scanner Reports of a Struggle and Open Car Door",
       "node_kind": "claim",
       "episode": 123
     },
@@ -49595,7 +49595,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3001",
-      "label": "Josh Hammer described preliminary hearing as \"most overwhelming\" of his career",
+      "label": "Josh Hammer Calls the Hearing Evidence the Most Overwhelming He Has Seen in His Life",
       "node_kind": "claim",
       "episode": 124
     },
@@ -49784,7 +49784,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3028",
-      "label": "Clip Shows Sergeant Faumuina Acknowledging UVU Communicated Discontinuation of Testing to FBI",
+      "label": "Clip Shows Sergeant Faumuina Not Remembering Telling the FBI Lab to Stop Testing",
       "node_kind": "claim",
       "episode": 126
     },
@@ -50015,7 +50015,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3061",
-      "label": "Host Says Kash Patel and Bo Mason Did Not Intervene During Governor Cox's Clothing Statement",
+      "label": "Host Says Kash Patel and Beau Mason Did Not Intervene During Governor Cox's Clothing Statement",
       "node_kind": "claim",
       "episode": 128
     },
@@ -50071,21 +50071,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3069",
-      "label": "Faumuina and Mason photographed together on May 20, 2013",
+      "label": "Faumuina and Beau Mason Photographed Together on May 20, 2013",
       "node_kind": "claim",
       "episode": 128
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3070",
-      "label": "Host Says Faumuina and Mason Were Photographed Together at Her 2023 Sergeant Swearing-In",
+      "label": "Host Says Faumuina and Beau Mason Were Photographed Together at Her 2023 Sergeant Swearing-In",
       "node_kind": "claim",
       "episode": 128
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3071",
-      "label": "Host Says Bo Mason Was Appointed Utah DPS Commissioner on June 19, 2025",
+      "label": "Host Says Beau Mason Was Appointed Utah DPS Commissioner on June 19, 2025",
       "node_kind": "claim",
       "episode": 128
     },
@@ -50099,7 +50099,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3073",
-      "label": "Host Says Judge Tony Graff Was Appointed in May 2025",
+      "label": "Host Says Judge Tony Graf Was Appointed in May 2025",
       "node_kind": "claim",
       "episode": 128
     },
@@ -50162,7 +50162,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3082",
-      "label": "Lt. Col. Kolvet publicly stated his brother Andrew never worked at Fort Huachuca",
+      "label": "Lt. Col. Kolvet Posts That He Never Worked at Fort Huachuca",
       "node_kind": "claim",
       "episode": 128
     },
@@ -50617,7 +50617,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3147",
-      "label": "Host asserts Dr. Deidra Amaro has resigned as Utah Chief Medical Examiner",
+      "label": "Host asserts Dr. Deirdre Amaro has resigned as Utah Chief Medical Examiner",
       "node_kind": "claim",
       "episode": 132
     },
@@ -52087,14 +52087,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3357",
-      "label": "Host Says Judge Graff Issued Bindover Ruling After Preliminary Hearing",
+      "label": "Host Says Judge Graf Issued Bindover Ruling After Preliminary Hearing",
       "node_kind": "claim",
       "episode": 147
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3358",
-      "label": "Host Says Judge Graff Declined to Dismiss Count 6 (Witness Tampering)",
+      "label": "Host Says Judge Graf Declined to Dismiss Count 6 (Witness Tampering)",
       "node_kind": "claim",
       "episode": 147
     },
@@ -61586,7 +61586,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4716",
-      "label": "DIA: the $10,000 bounty has still not identified who recorded the Erika Kirk WHCD video",
+      "label": "The $10,000 Bounty Has Still Not Identified Who Recorded the Erika Kirk WHCD Video",
       "node_kind": "claim",
       "episode": 117
     },
@@ -61726,7 +61726,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4736",
-      "label": "Hansel worked at the Boston Consulting Group, where Romney and Netanyahu became friends",
+      "label": "Hansell Worked at the Boston Consulting Group, Where Romney and Netanyahu Became Friends",
       "node_kind": "claim",
       "episode": 118
     },
@@ -61761,7 +61761,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4741",
-      "label": "Stephen Feinberg sits between Hansel and Hegseth as Deputy Secretary of Defense",
+      "label": "Stephen Feinberg Sits Between Hansell and Hegseth as Deputy Secretary of Defense",
       "node_kind": "claim",
       "episode": 118
     },
@@ -69167,7 +69167,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5799",
-      "label": "Host says Tool's 200-yard estimate matches the distance to Loews Center",
+      "label": "Host says Tool's 200-yard estimate matches the distance to Losee Center",
       "node_kind": "claim",
       "episode": 120
     },
@@ -69482,7 +69482,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5844",
-      "label": "Host acknowledges the excerpt is not literally in the book",
+      "label": "Tim Dillon Says the Excerpt Is the Essence of the Book",
       "node_kind": "claim",
       "episode": 120
     },
@@ -78659,7 +78659,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7155",
-      "label": "Host Says Charlie Wore a T-Shirt That Stayed in the Car",
+      "label": "Host Says Charlie's Unworn Jacket Stayed in the Car",
       "node_kind": "claim",
       "episode": 123
     },
@@ -78946,7 +78946,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7196",
-      "label": "Host Says the Charlie Kirk Show Team Shares a Building with Ter",
+      "label": "Host Says the Charlie Kirk Show Team Shares a Building with Terryl",
       "node_kind": "claim",
       "episode": 123
     },
@@ -78974,7 +78974,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7200",
-      "label": "Host Says She Does Not Know Why Utah Data Centers Are Tied to Romania",
+      "label": "Host Says She Does Not Know What Is Going On with Data Centers, Utah and Romania",
       "node_kind": "claim",
       "episode": 123
     },
@@ -79429,7 +79429,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7265",
-      "label": "Host Refers to Kolvet's Statement That It Was Supposed to Be Her on Tour With Charlie",
+      "label": "Host Asks Whether Charlie Became a Liability for Saying No",
       "node_kind": "claim",
       "episode": 124
     },
@@ -85806,7 +85806,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8176",
-      "label": "Host Says Utah Medical Examiner Dr. Deidra Amaro Is a Major",
+      "label": "Host Says Utah Medical Examiner Dr. Deirdre Amaro Is a Major",
       "node_kind": "claim",
       "episode": 54
     },
@@ -91028,7 +91028,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8922",
-      "label": "Host Suggests the St. Michael Pendant Caused a Neck Injury That Reveals a Cover-Up",
+      "label": "Host Suggests the St. Michael Pendant Could Have Caused an Injury Revealing a Lie",
       "node_kind": "claim",
       "episode": 122
     },
@@ -91553,7 +91553,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8997",
-      "label": "Host Says Lindsey Graham Is Dead and His Sister Becomes a Senator",
+      "label": "Host Says Charlie Did Not Believe in a Coronation, Citing a Hypothetical Graham Succession",
       "node_kind": "claim",
       "episode": 126
     },
@@ -91574,7 +91574,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9000",
-      "label": "Host Says the Panguitch Steakhouse Issue Will Throw Things for a Loop and She Has Receipts",
+      "label": "Host Says the Panguitch Steakhouse Issue Will Throw Things for a Loop and There Are Receipts",
       "node_kind": "claim",
       "episode": 126
     },
@@ -116158,7 +116158,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2092.1",
-      "label": "Judge Graff ruling denying defense motion to compel Lance Twiggs in-person testimony at preliminary hearing (ruling document not shown on screen)",
+      "label": "Judge Graf ruling denying defense motion to compel Lance Twiggs in-person testimony at preliminary hearing (ruling document not shown on screen)",
       "node_kind": "artifact",
       "episode": 120
     },
@@ -117383,7 +117383,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2154",
-      "label": "September 12, 2025 FBI Press Conference Bundle (Governor Cox / Kash Patel / Bo Mason)",
+      "label": "September 12, 2025 FBI Press Conference Bundle (Governor Cox / Kash Patel / Beau Mason)",
       "node_kind": "artifact",
       "episode": 128
     },
@@ -117446,7 +117446,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2157.3",
-      "label": "Utah Department of Public Safety post-training photo, May 20, 2013 (with Bo Mason)",
+      "label": "Utah Department of Public Safety post-training photo, May 20, 2013 (with Beau Mason)",
       "node_kind": "artifact",
       "episode": 128
     },
@@ -117460,7 +117460,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2157.5",
-      "label": "2023 sergeant swearing-in photo (with Bo Mason)",
+      "label": "2023 sergeant swearing-in photo (with Beau Mason)",
       "node_kind": "artifact",
       "episode": 128
     },
@@ -117474,7 +117474,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2158.1",
-      "label": "Bo Mason appointed Commissioner of Utah DPS – June 19, 2025 (by Gov. Cox)",
+      "label": "Beau Mason appointed Commissioner of Utah DPS – June 19, 2025 (by Gov. Cox)",
       "node_kind": "artifact",
       "episode": 128
     },
@@ -117488,7 +117488,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2158.3",
-      "label": "Judge Tony Graff appointed – May 2025",
+      "label": "Judge Tony Graf appointed – May 2025",
       "node_kind": "artifact",
       "episode": 128
     },
@@ -120701,14 +120701,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2327",
-      "label": "Court Audio – Motion to Dismiss Ruling (Judge Graff)",
+      "label": "Court Audio – Motion to Dismiss Ruling (Judge Graf)",
       "node_kind": "artifact",
       "episode": 147
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2327.1",
-      "label": "Judge Graff Count 6 Ruling Audio (excerpt)",
+      "label": "Judge Graf Count 6 Ruling Audio (excerpt)",
       "node_kind": "artifact",
       "episode": 147
     },
@@ -130417,7 +130417,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2885.1",
-      "label": "Host verbal reference to reader emails and sources about Alan Robertson's San Bernardino departure and the USU threat-assessment reason for his presence (not shown)",
+      "label": "Host verbal reference to reader emails and sources about Allan Robertson's San Bernardino departure and the USU threat-assessment reason for his presence (not shown)",
       "node_kind": "artifact",
       "episode": 137
     },

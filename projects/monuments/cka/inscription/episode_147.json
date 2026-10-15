@@ -19,13 +19,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2327",
       "family_ref": "A-2327",
-      "bundle_name": "Court Audio – Motion to Dismiss Ruling (Judge Graff)",
+      "bundle_name": "Court Audio – Motion to Dismiss Ruling (Judge Graf)",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2327.1",
           "ref": "A-2327.1",
-          "description": "Judge Graff Count 6 Ruling Audio (excerpt)",
+          "description": "Judge Graf Count 6 Ruling Audio (excerpt)",
           "related_claims": [
             "C-3358",
             "C-3359",
@@ -614,7 +614,7 @@
       "ref": "N-10826",
       "name": "Defense Witness Tampering Count 6 Constitutional Question",
       "type": "investigation_target",
-      "description": "Investigation into whether Count 6 (witness tampering for the \"ask for a lawyer and stay silent\" text) can constitutionally proceed given Judge Graff's own concession that the advice, standing alone, is lawful and does not establish criminal intent.",
+      "description": "Investigation into whether Count 6 (witness tampering for the \"ask for a lawyer and stay silent\" text) can constitutionally proceed given Judge Graf's own concession that the advice, standing alone, is lawful and does not establish criminal intent.",
       "related_artifacts": [
         "A-2327",
         "A-2327.1"
@@ -1557,8 +1557,8 @@
       "@type": "Claim",
       "@id": "C-3357",
       "ref": "C-3357",
-      "label": "Host Says Judge Graff Issued Bindover Ruling After Preliminary Hearing",
-      "claim": "The host says Judge Graff ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.",
+      "label": "Host Says Judge Graf Issued Bindover Ruling After Preliminary Hearing",
+      "claim": "The host says Judge Graf ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.",
       "anchored_artifacts": [
         "A-2327",
         "A-2328"
@@ -1576,8 +1576,8 @@
       "@type": "Claim",
       "@id": "C-3358",
       "ref": "C-3358",
-      "label": "Host Says Judge Graff Declined to Dismiss Count 6 (Witness Tampering)",
-      "claim": "The host says Judge Graff declined to dismiss Count 6 (witness tampering for the \"ask for a lawyer and stay silent\" text to Lance Twiggs) over the defense's constitutional-rights argument, and she plays a clip of the ruling.",
+      "label": "Host Says Judge Graf Declined to Dismiss Count 6 (Witness Tampering)",
+      "claim": "The host says Judge Graf declined to dismiss Count 6 (witness tampering for the \"ask for a lawyer and stay silent\" text to Lance Twiggs) over the defense's constitutional-rights argument, and she plays a clip of the ruling.",
       "anchored_artifacts": [
         "A-2327",
         "A-2327.1"

@@ -1284,7 +1284,7 @@ Claim: The host asserts that she could not find a single example in human histor
 Transcript Snippet: We could not find a single example in human history where someone's wife just assumed their co- corporate role as CEO and chairman of their company following a death.
 
 Anchored Artifacts: A-2702.1
-Mentions: N-2
+Mentions: N-3
 Related Nodes: N-11000
 Investigative Direction: Survey corporate succession records for spouses who became CEO and chairman after a founder's death.
 
@@ -1403,7 +1403,7 @@ Claim: In the sermon clip, Rob McCoy says the host is going to go bankrupt, refe
 Transcript Snippet: She's going to go bankrupt. This next one Charlie's chief of of security Brian this this she's done.
 
 Anchored Artifacts: A-2703.1
-Mentions: N-17, N-267, N-3
+Mentions: N-17, N-267, N-3, N-1
 Investigative Direction: Track the docket of Harpole's defamation lawsuit against the host.
 
 ---
@@ -1521,7 +1521,7 @@ Claim: The host says audio to be released later in the week will show that the m
 Transcript Snippet: some audio is going to show that the majority of people at Turning Point USA don't believe Tyler Robinson did it or acted alone.
 
 Anchored Artifacts:
-Mentions: N-40, N-331, N-160
+Mentions: N-40, N-331
 Related Nodes: N-10000, N-10508
 Investigative Direction: Review the promised audio when released and verify the speakers' identities.
 
@@ -1624,7 +1624,7 @@ Claim: Responding to a viewer asking why Charlie's bag was not in evidence, the 
 Transcript Snippet: The microphone didn't go into evidence. It went you know for a photo op with Erika in front of donors as she raised $40 million at Mar-a-Lago.
 
 Anchored Artifacts: A-2709.1
-Mentions: N-2, N-267, N-1
+Mentions: N-2, N-1
 Related Nodes: N-10229, N-10000
 Investigative Direction: Obtain the Utah County evidence inventory and photos from the Mar-a-Lago donor event.
 
@@ -1649,7 +1649,7 @@ Investigative Direction: Obtain police property release records for Charlie Kirk
 
 Claim Timestamp: 00:58:50
 
-Claim: The host says, following a viewer comment, that Erika Kirk's Father's Day post quoted Charlie as saying "more fog, more sparklers" and used a clip of him at a TPUSA event with sparklers. She says this was PR in response to criticism over sparklers.
+Claim: A viewer comment the host reads says Erika Kirk's Father's Day post quoted Charlie as saying "more fog, more sparklers." The host says Erika used a clip of him at a TPUSA event with sparklers, as PR in response to criticism over sparklers.
 
 Transcript Snippet: And she used a clip of Charlie at a TPUSA event with sparklers. She literally used a Father's Day post for PR purposes because she gets heat for the sparklers.
 

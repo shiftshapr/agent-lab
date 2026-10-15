@@ -947,13 +947,13 @@ Existing node reused for new claims in this episode.
 
 Claim Timestamp: 00:02:31–00:03:48
 
-Claim: A viewer email identifies a USB logo on one of the glass shards recovered from the SUV backseat floor, rotated to align with the Rode Rode mic USB icon shown in a promotional image.
+Claim: A viewer email identifies a USB logo on one of the glass shards recovered from the SUV backseat floor, rotated to align with the Rode mic USB icon shown in a promotional image.
 
 Anchored Artifacts: A-2093.1, A-2096.4
 Related Nodes: N-10682
 Investigative Direction: Independent forensic examination of shard images for matching geometry to a Rode mic USB icon; obtain original Rode Rode mic reference images for side-by-side comparison.
 
-**C-2946** Brian Harpole Claims to Have Jumped on Charlie in ER to Cut Shirt
+**C-2946** Brian Harpole Says He Got on Top of Charlie in ER to Cut Shirt
 
 Claim Timestamp: 00:06:20–00:07:24
 
@@ -979,7 +979,7 @@ Investigative Direction: Cross-reference with dash-cam / traffic-cam / police bo
 
 Claim Timestamp: 00:11:31–00:12:26
 
-Claim: Brian Harpole states they were traveling "60, 80, 100" mph while weaving through the streets on the way to the hospital.
+Claim: Brian Harpole states they were going "60 80 100" on the way to the hospital; the host quotes him as saying "60, 80, 100 mph weaving through the streets."
 
 Anchored Artifacts: A-2094.2
 Mentions: N-267
@@ -1001,7 +1001,7 @@ Investigative Direction: Compare dressing count against visible dressing/pack de
 
 Claim Timestamp: 00:11:31–00:12:26
 
-Claim: In a clip the host plays, Brian Harpole says Frank Turek was praying out loud during the ride; the host says Frank was in the backseat and not doing anything.
+Claim: In a clip the host plays, Brian Harpole says Frank Turek was praying out loud during the ride; the host says that, according to Brian, Frank was simply praying in the backseat and asks why he could not lean over and close the door.
 
 Anchored Artifacts: A-2094.2
 Mentions: N-267, N-7
@@ -1030,11 +1030,11 @@ Mentions: N-7, N-2
 Related Nodes: N-10688
 Investigative Direction: Identify how and where scrubs were obtained; determine whether scrubs were preserved as evidence or returned.
 
-**C-2953** Frank Turek States He Disposed of His Original Clothing
+**C-2953** Host Says Frank Turek Threw Away His Original Clothing
 
 Claim Timestamp: 00:28:14–00:29:18
 
-Claim: Frank Turek indicates his original clothing was discarded / not retained ("I'm in scrubs because... I didn't want her to see any of that"), and the host asserts he elsewhere admitted to throwing the clothes away.
+Claim: In a clip the host plays, Frank Turek says he was in scrubs at the hospital because 'I didn't want her to see any of that'; the host says he admits elsewhere that he threw his clothes away.
 
 Anchored Artifacts: A-2095.1
 Mentions: N-7
@@ -1098,7 +1098,7 @@ Investigative Direction: Obtain original Semafor article; verify any disclosed H
 
 Claim Timestamp: 00:41:04–00:41:49
 
-Claim: Dave Rubin posted a tweet on X about Daily Wire's $100M strategic investment with eye on IPO, framing it positively and not acknowledging the "under pressure" framing of the underlying Semafor article.
+Claim: The host shows a Dave Rubin tweet saying 'Coming soon from Daily Wire, Megan and Tucker tears to Tumblr' and sharing the Semafor line that the Daily Wire is in talks to take on at least $100M in strategic investment with an eye on an IPO; the host says he only read that line and missed the 'under pressure' headline.
 
 Anchored Artifacts: A-2098.1
 Mentions: N-32
@@ -1119,7 +1119,7 @@ Investigative Direction: Obtain underlying source data for the chart; identify m
 
 Claim Timestamp: 00:38:45–00:39:25
 
-Claim: In a clip from Jubilee, Dave Rubin is unable to identify a single metric (GDP, unemployment, inflation, etc.) by which Trump has improved economic conditions, and the host characterizes the response as failure to engage the question.
+Claim: In a Jubilee clip the host plays, Dave Rubin is asked to name one metric (GDP, unemployment, inflation) that Trump has made better and answers about the big beautiful bill and tariffs; the host says he 'had not one point that he could deliver'.
 
 Anchored Artifacts: A-2099.1
 Mentions: N-32
@@ -1139,9 +1139,9 @@ Investigative Direction: Verify against independent reporting on Gaza status as 
 
 **C-2963** Semafor Article States Daily Wire Spent ~$50M on Pendragon Cycle
 
-Claim Timestamp: 00:43:33
+Claim Timestamp: 00:42:55
 
-Claim: The Semafor article acknowledges the Daily Wire spent approximately $50 million on the Pendragon Cycle (Jeremy Boreing's project), characterized as a significant contributor to the company's financial distress.
+Claim: The host says the Semafor article admits that the Pendragon Cycle, Jeremy Boreing's 'pet project', caused a significant amount of the Daily Wire's financial distress, and that the company spent $50 million on just seven episodes.
 
 Anchored Artifacts: A-2100.1
 Mentions: N-367
@@ -1849,7 +1849,7 @@ Transcript Snippet: an organization that spent 2 years trying to bankrupt my fam
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10900
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review the lawsuits, notices and letters between the host and the Daily Wire.
 
 ---
@@ -1879,7 +1879,7 @@ Claim: The host says she has long said the cost was more than $50 million, close
 Transcript Snippet: more than $50 million, closer to 60, but at least they're finally admitting that it wasn't $10 million or $7 million as it had been reported in the past.
 
 Anchored Artifacts: A-2100.1
-Mentions: N-3, N-367
+Mentions: N-3
 Related Nodes: N-10900, N-10689
 Tags: relevance:tangential
 Investigative Direction: Locate the earlier reports with $10 million and $7 million and compare to the Semafor figure.
@@ -1895,7 +1895,7 @@ Claim: The host says Pendragon cost more per episode than HBO spent on season on
 Transcript Snippet: That means they spent more per an episode than HBO spent on the first season of Game of Thrones.
 
 Anchored Artifacts: A-2100.1
-Mentions: N-367
+Mentions: 
 Related Nodes: N-10900, N-10689
 Supports: C-3923
 Tags: relevance:tangential
@@ -1912,7 +1912,7 @@ Claim: The host says the Daily Wire was under financial pressure and needed to r
 Transcript Snippet: They were under financial pressure. They needed to remove people that they were paying.
 
 Anchored Artifacts: 
-Mentions: N-3, N-367, N-596
+Mentions: N-3, N-596
 Related Nodes: N-10900, N-10689
 Tags: relevance:tangential
 Investigative Direction: Review contracts, payroll and subscriber figures around the 2024 split.
@@ -1939,7 +1939,7 @@ Investigative Direction: Compare Cooper's own statements about her exit.
 
 Claim Timestamp: 00:44:27
 
-Claim: The host alleges that at the end of 2024 the Daily Wire fake-pumped subscriber numbers by giving memberships away basically for free, and gives examples such as buy one get one free and a lifetime subscription with no payment until 2029.
+Claim: The host alleges that at the end of 2024 the Daily Wire fake-pumped subscriber numbers by giving memberships away basically for free, and gives examples such as buy one get one free, a lifetime subscription, and no payment until 2029.
 
 Transcript Snippet: they were sort of like fake pumping their subscription numbers.
 
@@ -1987,7 +1987,7 @@ Investigative Direction: Identify the editor-in-chief and locate the posts she d
 
 Claim Timestamp: 00:46:51
 
-Claim: The host says the Daily Wire is touting 48 million dollars in adjusted EBITDA, which she disputes without seeing its books.
+Claim: The host says the Daily Wire is touting 48 million dollars in adjusted EBITDA, which she says can be adjusted at will until its books can be seen.
 
 Transcript Snippet: We had 48 million in adjusted EBITDA.
 
@@ -2097,11 +2097,11 @@ Investigative Direction: Locate the Fox interview and the exact words.
 
 ---
 
-**C-13111** Clip Played of a Reply About Trans Students
+**C-13111** Clip Played of the Host Answering a Question About Trans Students
 
 Claim Timestamp: 00:55:16
 
-Claim: In a clip of Charlie Kirk the host plays, he is asked what he would say to trans students who feel victimized and answers, Life's tough, get a helmet.
+Claim: In a clip of Charlie Kirk's event that the host plays, the host is asked what she would say to trans students who feel victimized and answers, "Life's tough, get a helmet, man. I'm too pregnant for this"; Charlie Kirk then says "Do not mess with a pregnant Candace."
 
 Transcript Snippet: Life's tough, get a helmet, man. I'm too pregnant for this.
 
@@ -2122,7 +2122,7 @@ Claim: The host reads a viewer comment comparing Erika to Elizabeth Holmes, and 
 Transcript Snippet: She was the biotech entrepreneur who got convicted of fraud and then went to a fake prison that she's probably not even in.
 
 Anchored Artifacts: 
-Mentions: N-923
+Mentions: N-923, N-2
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Fringe; Holmes is held in a federal facility per the Bureau of Prisons.

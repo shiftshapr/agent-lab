@@ -44,7 +44,7 @@ Where are the doctors, nurses, other patients? It's almost as though no one was 
 
 [02:12]
 
-I don't even know where to begin, so we're just going to start, okay? His name is Dr. Andrew Guajardo. He is from New York. He moved to Utah in 2018 and was working as an assistant at the medical examiner's office. In 2024, when our chief medical examiner, Dr. Deidra Amaro, uh the began to rule the roost, she decided to select him as her deputy, so he was promoted in 2024 when she got there to the role of deputy chief examiner. Okay. So, Charlie Kirk, we are told, we were told, things are kind of shifting now, but we were really told that he was murdered by a trans furry kid on a rooftop, a gamer. I do want to say there's still no proof of him being trans or into trans furries beyond the influencers that were immediately sent out to tell us this was a left versus right war, that there was an LGBTQ narrative here.
+I don't even know where to begin, so we're just going to start, okay? His name is Dr. Andrew Guajardo. He is from New York. He moved to Utah in 2018 and was working as an assistant at the medical examiner's office. In 2024, when our chief medical examiner, Dr. Deirdre Amaro, uh the began to rule the roost, she decided to select him as her deputy, so he was promoted in 2024 when she got there to the role of deputy chief examiner. Okay. So, Charlie Kirk, we are told, we were told, things are kind of shifting now, but we were really told that he was murdered by a trans furry kid on a rooftop, a gamer. I do want to say there's still no proof of him being trans or into trans furries beyond the influencers that were immediately sent out to tell us this was a left versus right war, that there was an LGBTQ narrative here.
 
 [03:14]
 
@@ -92,7 +92,7 @@ And I'm wondering how big can this community of gamers that are into this be thr
 
 [13:53]
 
-So again, I'll ask the question, how big can this particular gaming furry create a character that is outside of yourself, join me on Discord, Twitch community in Utah be? Has she ever come across Lance Twiggs? That's be a question that I would ask. I just feel like that's a question that I would like to know the answer to. Across her 10-year uh career in Utah and also being on the board and working with these outside organizations and associations, uh studying these people and encouraging this lifestyle. I'll leave it at that. Because I am just jaw on the floor with all of this. So Charlie effectively had a a lesbian cuz Dr. Amaro was dating a woman um and Deidra Amaro and I don't know what to describe Dr. Andrew as.
+So again, I'll ask the question, how big can this particular gaming furry create a character that is outside of yourself, join me on Discord, Twitch community in Utah be? Has she ever come across Lance Twiggs? That's be a question that I would ask. I just feel like that's a question that I would like to know the answer to. Across her 10-year uh career in Utah and also being on the board and working with these outside organizations and associations, uh studying these people and encouraging this lifestyle. I'll leave it at that. Because I am just jaw on the floor with all of this. So Charlie effectively had a a lesbian cuz Dr. Amaro was dating a woman um and Deirdre Amaro and I don't know what to describe Dr. Andrew as.
 
 [14:48]
 

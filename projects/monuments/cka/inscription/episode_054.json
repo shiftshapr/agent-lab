@@ -4428,8 +4428,8 @@
       "@type": "Claim",
       "@id": "C-8176",
       "ref": "C-8176",
-      "label": "Host Says Utah Medical Examiner Dr. Deidra Amaro Is a Major",
-      "claim": "The host says the Utah medical examiner, Dr. Deidra Amaro, is a major.",
+      "label": "Host Says Utah Medical Examiner Dr. Deirdre Amaro Is a Major",
+      "claim": "The host says the Utah medical examiner, Dr. Deirdre Amaro, is a major.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10183"
@@ -4439,7 +4439,7 @@
       ],
       "claim_timestamp": "00:20:26",
       "investigative_direction": "Look for Amaro's military service record or Utah Office of the Medical Examiner biography.",
-      "transcript_snippet": "The Utah medical examiner, Dr. Deidra Amaro, is a major.",
+      "transcript_snippet": "The Utah medical examiner, Dr. Deirdre Amaro, is a major.",
       "mentions_person_refs": [
         "N-177"
       ]

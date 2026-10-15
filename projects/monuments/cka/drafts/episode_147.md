@@ -51,15 +51,15 @@
 
 ## II. Executive Summary
 
-This episode advances the investigation along two parallel tracks: (1) the legal status of the Tyler Robinson case after Judge Graff's bindover ruling and Robinson's "not guilty" plea, and (2) further chronological and personnel analysis of the September 10 UVU scene. Artifact-anchored evidentiary material in this episode includes a verbatim audio excerpt of Judge Graff's bench ruling on the motion to dismiss (particularly Count 6, witness tampering for the "ask for a lawyer and stay silent" text), the arraignment audio capturing Robinson's plea, a series of newly released clips from 9/10 depicting a post-shot sequence at Charlie Kirk's vehicle, multiple X posts by named public commentators (Matt Walsh, Viva Frei, Graham Allen, Blake Neff/Brandon Tatum) reacting to a court clip of defense attorney Richard Novak, and a verbatim read-aloud of defense counsel's filings (including page 32 of the August 11 filing). The host's principal structural move this episode is to frame all of the outraged X commentary as a misreading of defense counsel's actual argument, which she claims is a citation of the state's own theories rather than a defense endorsement. The episode also re-examines prior claims (Blake Neff's "we thought there might be more shooters" → "20 seconds later everything was fine" sequence) and presents a vehicle-positioning diagram as a new visual artifact.
+This episode advances the investigation along two parallel tracks: (1) the legal status of the Tyler Robinson case after Judge Graf's bindover ruling and Robinson's "not guilty" plea, and (2) further chronological and personnel analysis of the September 10 UVU scene. Artifact-anchored evidentiary material in this episode includes a verbatim audio excerpt of Judge Graf's bench ruling on the motion to dismiss (particularly Count 6, witness tampering for the "ask for a lawyer and stay silent" text), the arraignment audio capturing Robinson's plea, a series of newly released clips from 9/10 depicting a post-shot sequence at Charlie Kirk's vehicle, multiple X posts by named public commentators (Matt Walsh, Viva Frei, Graham Allen, Blake Neff/Brandon Tatum) reacting to a court clip of defense attorney Richard Novak, and a verbatim read-aloud of defense counsel's filings (including page 32 of the August 11 filing). The host's principal structural move this episode is to frame all of the outraged X commentary as a misreading of defense counsel's actual argument, which she claims is a citation of the state's own theories rather than a defense endorsement. The episode also re-examines prior claims (Blake Neff's "we thought there might be more shooters" → "20 seconds later everything was fine" sequence) and presents a vehicle-positioning diagram as a new visual artifact.
 
 ---
 
 ## III. Artifact Register
 
-**A-2327** Court Audio – Motion to Dismiss Ruling (Judge Graff)
+**A-2327** Court Audio – Motion to Dismiss Ruling (Judge Graf)
 
-Verbatim audio excerpt of Judge Graff's bench ruling on defendant's motion to dismiss, focusing on Count 6 (witness tampering for the "ask for a lawyer and stay silent" text to Lance Twiggs).
+Verbatim audio excerpt of Judge Graf's bench ruling on defendant's motion to dismiss, focusing on Count 6 (witness tampering for the "ask for a lawyer and stay silent" text to Lance Twiggs).
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -69,7 +69,7 @@ Confidence Level: High
 
 *Related: C-3357, C-3358, C-3359, C-3360, C-3361, N-10826*
 
-**A-2327.1** Judge Graff Count 6 Ruling Audio (excerpt)
+**A-2327.1** Judge Graf Count 6 Ruling Audio (excerpt)
 
 Verbatim: "Standing alone, advising another person to risk request counsel and remain silent is lawful and does not establish witness tampering. The state relies however, on the context of the communication, including defendant's earlier alleged instruction to delete this exchange. Viewed together in the light most favorable to the state, those communications permit a reasonable inference that defendant intended to cause Twigs to withhold information from investigators."
 
@@ -388,7 +388,7 @@ Investigative Pressure: High
 
 **N-10826** Defense Witness Tampering Count 6 Constitutional Question
 
-Investigation into whether Count 6 (witness tampering for the "ask for a lawyer and stay silent" text) can constitutionally proceed given Judge Graff's own concession that the advice, standing alone, is lawful and does not establish criminal intent.
+Investigation into whether Count 6 (witness tampering for the "ask for a lawyer and stay silent" text) can constitutionally proceed given Judge Graf's own concession that the advice, standing alone, is lawful and does not establish criminal intent.
 
 Evidence Count: 1
 Claim Count: 3
@@ -730,11 +730,11 @@ The host's argument that the security detail parked its own vehicles in a way th
 
 ## V. Claim Register
 
-**C-3357** Host Says Judge Graff Issued Bindover Ruling After Preliminary Hearing
+**C-3357** Host Says Judge Graf Issued Bindover Ruling After Preliminary Hearing
 
 Claim Timestamp: 00:02:24
 
-Claim: The host says Judge Graff ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.
+Claim: The host says Judge Graf ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.
 
 Anchored Artifacts: A-2327, A-2328
 Mentions: N-40, N-136
@@ -742,11 +742,11 @@ Mentions: N-40, N-136
 
 Investigative Direction: Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed.
 
-**C-3358** Host Says Judge Graff Declined to Dismiss Count 6 (Witness Tampering)
+**C-3358** Host Says Judge Graf Declined to Dismiss Count 6 (Witness Tampering)
 
 Claim Timestamp: 00:04:11
 
-Claim: The host says Judge Graff declined to dismiss Count 6 (witness tampering for the "ask for a lawyer and stay silent" text to Lance Twiggs) over the defense's constitutional-rights argument, and she plays a clip of the ruling.
+Claim: The host says Judge Graf declined to dismiss Count 6 (witness tampering for the "ask for a lawyer and stay silent" text to Lance Twiggs) over the defense's constitutional-rights argument, and she plays a clip of the ruling.
 
 Anchored Artifacts: A-2327, A-2327.1
 Mentions: N-40, N-54, N-136

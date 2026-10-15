@@ -1343,7 +1343,7 @@ Investigative Direction: Pull FAA and Romanian civil aviation registry history f
 
 Claim Timestamp: 00:23:15
 
-Claim: The host says that in late 2012 Erika Kirk began her Romanian Angels Project, working in some capacity with "Otto Busher" and partnering with the US Marines on a Marine base.
+Claim: The host says that in late 2012 Erika Kirk began her Romanian Angels Project, working in some capacity with "Otto Busher" and, as Erika says, partnering with the US Marines on a Marine base.
 
 Transcript Snippet: In late 2012, we all we know uh that Erika begins her Romanian Angels Project
 
@@ -1705,12 +1705,12 @@ Investigative Direction: Compare public examples of Erika Kirk's signature over 
 
 Claim Timestamp: 00:49:54
 
-Claim: Answering a viewer comment, the host says the professional paver had never heard of a "paver emergency." She adds that he decided to speak out after wondering whether he was part of a cover-up, given that a team had removed the soil before he was brought in to pave.
+Claim: Answering a viewer comment that quotes the paver's question "what's a paver emergency?", the host says that if a professional paver has never heard of a "paver emergency," something is out of order. She adds that the paver, Dan Merrill, decided to speak out after wondering whether he was part of a cover-up, given that a team had removed the soil before he was brought in to pave.
 
 Transcript Snippet: if a professional paver has never heard of a paver emergency, then something is out of order.
 
 Anchored Artifacts: A-2688.1
-Mentions: 
+Mentions: N-686
 Related Nodes: N-10107
 Investigative Direction: Obtain the work order and call-out record showing who requested the emergency paving and on what authority.
 
@@ -1746,7 +1746,7 @@ Investigative Direction: File FOIA requests with the Department of War and the W
 
 ---
 
-**C-4716** DIA: the $10,000 bounty has still not identified who recorded the Erika Kirk WHCD video
+**C-4716** The $10,000 Bounty Has Still Not Identified Who Recorded the Erika Kirk WHCD Video
 
 Claim Timestamp: 00:54:23
 
@@ -1766,7 +1766,7 @@ Investigative Direction: Archive the bounty terms and any tips received, and tra
 
 Claim Timestamp: 00:55:02
 
-Claim: The host says that in his filing against her, Brian Harpole asserted that he or someone else called 911. She says she has not seen such a call in the released 911 recordings.
+Claim: The host says that in his filing against her, Brian Harpole asserted, she thinks, that he or someone else called 911. She says she has not seen such a call in the released 911 recordings.
 
 Transcript Snippet: Ryan Harpole asserted I think he asserted that he called 911 or someone called 911. That I have not seen that in the released 911 recordings.
 

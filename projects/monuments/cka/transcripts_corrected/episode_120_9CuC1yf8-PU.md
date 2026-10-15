@@ -173,7 +173,7 @@ Uh if we continue to follow and work upon this hypothesis, then it inevitably su
 
 [25:38]
 
-Uh the person who curiously is not held for questioning by the FBI, isn't that kind of mysterious? Yeah, I would imagine if we take our theory to its natural end, Lance Twiggs might be a federal asset, a very protected federal asset. And things are pointing in that direction, because yesterday news came in, rather a verdict came in. Uh Judge Graff which is difficult to explain given the extraordinary role that Lance Twiggs played in shaping the narrative against his alleged boyfriend, you might think that the judge in Utah would honor the defense's request to compel Lance to show up to the preliminary hearing, which is set for the week of July 6th. Like, you're the basis of this entire case against our client.
+Uh the person who curiously is not held for questioning by the FBI, isn't that kind of mysterious? Yeah, I would imagine if we take our theory to its natural end, Lance Twiggs might be a federal asset, a very protected federal asset. And things are pointing in that direction, because yesterday news came in, rather a verdict came in. Uh Judge Graf which is difficult to explain given the extraordinary role that Lance Twiggs played in shaping the narrative against his alleged boyfriend, you might think that the judge in Utah would honor the defense's request to compel Lance to show up to the preliminary hearing, which is set for the week of July 6th. Like, you're the basis of this entire case against our client.
 
 [26:28]
 

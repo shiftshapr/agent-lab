@@ -1268,7 +1268,7 @@ Claim Timestamp: 00:16:47
 
 Claim: The host says that in the early footage Allan Robertson seems to be the person immediately in charge, despite being described as a rookie from another campus.
 
-Transcript Snippet: Alan Robertson, as we're going through all that early footage, he actually seems like he's the person that's immediately in charge.
+Transcript Snippet: Allan Robertson, as we're going through all that early footage, he actually seems like he's the person that's immediately in charge.
 
 Anchored Artifacts: A-2227.1
 Mentions: N-751, N-3
@@ -1316,7 +1316,7 @@ Claim Timestamp: 00:19:23
 
 Claim: The host says there seems to be an immediate understanding from Terryl Farnsworth to Officer Bagley that Robertson is calling the shots and is in command of the post-assassination operation.
 
-Transcript Snippet: there seems to be an immediate understanding that this Alan Robertson character who shall not be named is calling the shots.
+Transcript Snippet: there seems to be an immediate understanding that this Allan Robertson character who shall not be named is calling the shots.
 
 Anchored Artifacts: A-2227.1
 Mentions: N-751, N-262, N-507
@@ -1460,7 +1460,7 @@ Claim Timestamp: 00:28:22
 
 Claim: The host says she thinks it is plausible the person who actually found the screwdriver was Allan Robertson, and that "they" knew that if it went to trial, maybe he has something in his background (she links this to the Brady List entry) that would make people doubt him as a witness.
 
-Transcript Snippet: I think it's plausible that the person who actually found the screwdriver was Alan Robertson.
+Transcript Snippet: I think it's plausible that the person who actually found the screwdriver was Allan Robertson.
 
 Anchored Artifacts: A-2229.1
 Mentions: N-751, N-3
@@ -2039,7 +2039,7 @@ Confidence: high
 - **Artifact verbally referenced but not shown**: A-2230.1 (CNN article – host paraphrases the headline and email content rather than displaying the article); A-2235.1 (Allan Robertson's LinkedIn – host paraphrases content rather than displaying the profile).
 - **Name uncertainty**: "Losi" / "Loy" / "Lozi" rooftop appears repeatedly; transcript is inconsistent but host uses "Loy" most often. Preserved as "Losi/Loy" pending verification against UVU building records (commonly the Losee Center).
 - **Name inconsistency**: Host alternates between "Erika Kirk" and "Erika Kirk"; preserved as "Erika Kirk" (standard convention).
-- **Name inconsistency**: Host alternates between "Allan Robertson" and "Alan Robertson"; preserved as "Allan Robertson" per the more frequent transcript usage.
+- **Name inconsistency**: Host alternates between "Allan Robertson" and "Allan Robertson"; preserved as "Allan Robertson" per the more frequent transcript usage.
 - **Name inconsistency**: Host uses both "Brian Harpole" and "Brian Harpool"; preserved as "Harpole."
 - **Requires human verification**: Several testimony audio clips (A-2224.1, A-2224.2) require human re-listening to confirm exact wording.
 - **Possible transcription error**: "Lance Twiggs's DNA" – name unusual; possibly "Lance Twiggs" or similar. Flagged.

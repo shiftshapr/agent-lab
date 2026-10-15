@@ -721,7 +721,7 @@ Investigative Direction: Department of War travel and mission-request records fo
 
 ---
 
-**C-4736** Hansel worked at the Boston Consulting Group, where Romney and Netanyahu became friends
+**C-4736** Hansell Worked at the Boston Consulting Group, Where Romney and Netanyahu Became Friends
 
 Claim Timestamp: 00:08:29
 
@@ -798,7 +798,7 @@ Investigative Direction: The FOIA acknowledgment letter and tracking number.
 
 ---
 
-**C-4741** Stephen Feinberg sits between Hansel and Hegseth as Deputy Secretary of Defense
+**C-4741** Stephen Feinberg Sits Between Hansell and Hegseth as Deputy Secretary of Defense
 
 Claim Timestamp: 00:11:06
 
@@ -1057,7 +1057,7 @@ Investigative Direction: Recent DOJ/OIP FOIA guidance and executive orders on cl
 
 Claim Timestamp: 00:25:18
 
-Claim: The host repeats that Erika Kirk was listed as an "emotional asset" after the White House Correspondents' Dinner shooting. She says the Department of War, under Hansell, Feinberg and Hegseth, orchestrated messaging to boost her artificially and wanted her to be the number one trend by morning.
+Claim: The host repeats that Erika Kirk was listed as an "emotional asset" at the White House Correspondents' Dinner shooting. She says the Department of War, under Hansell, Feinberg and Hegseth, orchestrated messaging to boost her artificially and wanted her to be the number one trend by morning.
 
 Transcript Snippet: were orchestrating messaging to artificially boost Erika. They wanted her as the number one trend by morning.
 

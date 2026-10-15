@@ -1894,7 +1894,7 @@
       "@id": "C-2945",
       "ref": "C-2945",
       "label": "USB Logo Identified on Car Glass Shard",
-      "claim": "A viewer email identifies a USB logo on one of the glass shards recovered from the SUV backseat floor, rotated to align with the Rode Rode mic USB icon shown in a promotional image.",
+      "claim": "A viewer email identifies a USB logo on one of the glass shards recovered from the SUV backseat floor, rotated to align with the Rode mic USB icon shown in a promotional image.",
       "anchored_artifacts": [
         "A-2093.1",
         "A-2096.4"
@@ -1911,7 +1911,7 @@
       "@type": "Claim",
       "@id": "C-2946",
       "ref": "C-2946",
-      "label": "Brian Harpole Claims to Have Jumped on Charlie in ER to Cut Shirt",
+      "label": "Brian Harpole Says He Got on Top of Charlie in ER to Cut Shirt",
       "claim": "Brian Harpole states in his account that he jumped on top of Charlie on a gurney in the ER and cut his white \"Freedom\" shirt off with scissors to enable defibrillator placement.",
       "anchored_artifacts": [
         "A-2094.1"
@@ -1952,7 +1952,7 @@
       "@id": "C-2948",
       "ref": "C-2948",
       "label": "Brian Harpole States Speeds of 60–80–100 mph During Transport",
-      "claim": "Brian Harpole states they were traveling \"60, 80, 100\" mph while weaving through the streets on the way to the hospital.",
+      "claim": "Brian Harpole states they were going \"60 80 100\" on the way to the hospital; the host quotes him as saying \"60, 80, 100 mph weaving through the streets.\"",
       "anchored_artifacts": [
         "A-2094.2"
       ],
@@ -1991,7 +1991,7 @@
       "@id": "C-2950",
       "ref": "C-2950",
       "label": "Brian Harpole States Frank Turek Was Praying in Backseat During Transport",
-      "claim": "In a clip the host plays, Brian Harpole says Frank Turek was praying out loud during the ride; the host says Frank was in the backseat and not doing anything.",
+      "claim": "In a clip the host plays, Brian Harpole says Frank Turek was praying out loud during the ride; the host says that, according to Brian, Frank was simply praying in the backseat and asks why he could not lean over and close the door.",
       "anchored_artifacts": [
         "A-2094.2"
       ],
@@ -2051,8 +2051,8 @@
       "@type": "Claim",
       "@id": "C-2953",
       "ref": "C-2953",
-      "label": "Frank Turek States He Disposed of His Original Clothing",
-      "claim": "Frank Turek indicates his original clothing was discarded / not retained (\"I'm in scrubs because... I didn't want her to see any of that\"), and the host asserts he elsewhere admitted to throwing the clothes away.",
+      "label": "Host Says Frank Turek Threw Away His Original Clothing",
+      "claim": "In a clip the host plays, Frank Turek says he was in scrubs at the hospital because 'I didn't want her to see any of that'; the host says he admits elsewhere that he threw his clothes away.",
       "anchored_artifacts": [
         "A-2095.1"
       ],
@@ -2166,7 +2166,7 @@
       "@id": "C-2959",
       "ref": "C-2959",
       "label": "Dave Rubin Tweet Characterizes Daily Wire Investment as Positive",
-      "claim": "Dave Rubin posted a tweet on X about Daily Wire's $100M strategic investment with eye on IPO, framing it positively and not acknowledging the \"under pressure\" framing of the underlying Semafor article.",
+      "claim": "The host shows a Dave Rubin tweet saying 'Coming soon from Daily Wire, Megan and Tucker tears to Tumblr' and sharing the Semafor line that the Daily Wire is in talks to take on at least $100M in strategic investment with an eye on an IPO; the host says he only read that line and missed the 'under pressure' headline.",
       "anchored_artifacts": [
         "A-2098.1"
       ],
@@ -2202,7 +2202,7 @@
       "@id": "C-2961",
       "ref": "C-2961",
       "label": "Dave Rubin Unable to Identify a Trump Economic Metric on Jubilee",
-      "claim": "In a clip from Jubilee, Dave Rubin is unable to identify a single metric (GDP, unemployment, inflation, etc.) by which Trump has improved economic conditions, and the host characterizes the response as failure to engage the question.",
+      "claim": "In a Jubilee clip the host plays, Dave Rubin is asked to name one metric (GDP, unemployment, inflation) that Trump has made better and answers about the big beautiful bill and tariffs; the host says he 'had not one point that he could deliver'.",
       "anchored_artifacts": [
         "A-2099.1"
       ],
@@ -2236,7 +2236,7 @@
       "@id": "C-2963",
       "ref": "C-2963",
       "label": "Semafor Article States Daily Wire Spent ~$50M on Pendragon Cycle",
-      "claim": "The Semafor article acknowledges the Daily Wire spent approximately $50 million on the Pendragon Cycle (Jeremy Boreing's project), characterized as a significant contributor to the company's financial distress.",
+      "claim": "The host says the Semafor article admits that the Pendragon Cycle, Jeremy Boreing's 'pet project', caused a significant amount of the Daily Wire's financial distress, and that the company spent $50 million on just seven episodes.",
       "anchored_artifacts": [
         "A-2100.1"
       ],
@@ -2244,7 +2244,7 @@
         "N-10689"
       ],
       "tags": [],
-      "claim_timestamp": "00:43:33",
+      "claim_timestamp": "00:42:55",
       "investigative_direction": "Obtain Daily Wire financial disclosures (if any) and verify per-episode cost comparison to HBO's first Game of Thrones season.",
       "mentions_person_refs": [
         "N-367"
@@ -3235,7 +3235,7 @@
         "N-10900"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:41:49",
       "investigative_direction": "Review the lawsuits, notices and letters between the host and the Daily Wire.",
@@ -3287,8 +3287,7 @@
       "investigative_direction": "Locate the earlier reports with $10 million and $7 million and compare to the Semafor figure.",
       "transcript_snippet": "more than $50 million, closer to 60, but at least they're finally admitting that it wasn't $10 million or $7 million as it had been reported in the past.",
       "mentions_person_refs": [
-        "N-3",
-        "N-367"
+        "N-3"
       ]
     },
     {
@@ -3312,9 +3311,6 @@
       "transcript_snippet": "That means they spent more per an episode than HBO spent on the first season of Game of Thrones.",
       "supports_claim_refs": [
         "C-3923"
-      ],
-      "mentions_person_refs": [
-        "N-367"
       ]
     },
     {
@@ -3336,7 +3332,6 @@
       "transcript_snippet": "They were under financial pressure. They needed to remove people that they were paying.",
       "mentions_person_refs": [
         "N-3",
-        "N-367",
         "N-596"
       ]
     },
@@ -3367,7 +3362,7 @@
       "@id": "C-13101",
       "ref": "C-13101",
       "label": "Host Alleges Daily Wire Inflated Subscriber Numbers With Giveaways",
-      "claim": "The host alleges that at the end of 2024 the Daily Wire fake-pumped subscriber numbers by giving memberships away basically for free, and gives examples such as buy one get one free and a lifetime subscription with no payment until 2029.",
+      "claim": "The host alleges that at the end of 2024 the Daily Wire fake-pumped subscriber numbers by giving memberships away basically for free, and gives examples such as buy one get one free, a lifetime subscription, and no payment until 2029.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10900",
@@ -3427,7 +3422,7 @@
       "@id": "C-13104",
       "ref": "C-13104",
       "label": "Host Says Daily Wire Touts 48 Million in Adjusted EBITDA",
-      "claim": "The host says the Daily Wire is touting 48 million dollars in adjusted EBITDA, which she disputes without seeing its books.",
+      "claim": "The host says the Daily Wire is touting 48 million dollars in adjusted EBITDA, which she says can be adjusted at will until its books can be seen.",
       "anchored_artifacts": [
         "A-2100.1"
       ],
@@ -3577,8 +3572,8 @@
       "@type": "Claim",
       "@id": "C-13111",
       "ref": "C-13111",
-      "label": "Clip Played of a Reply About Trans Students",
-      "claim": "In a clip of Charlie Kirk the host plays, he is asked what he would say to trans students who feel victimized and answers, Life's tough, get a helmet.",
+      "label": "Clip Played of the Host Answering a Question About Trans Students",
+      "claim": "In a clip of Charlie Kirk's event that the host plays, the host is asked what she would say to trans students who feel victimized and answers, \"Life's tough, get a helmet, man. I'm too pregnant for this\"; Charlie Kirk then says \"Do not mess with a pregnant Candace.\"",
       "anchored_artifacts": [
         "A-3244.1"
       ],
@@ -3608,7 +3603,8 @@
       "investigative_direction": "Fringe; Holmes is held in a federal facility per the Bureau of Prisons.",
       "transcript_snippet": "She was the biotech entrepreneur who got convicted of fraud and then went to a fake prison that she's probably not even in.",
       "mentions_person_refs": [
-        "N-923"
+        "N-923",
+        "N-2"
       ]
     },
     {

@@ -2337,7 +2337,7 @@ Confidence: high
 
 ## VII. Optional Flags
 
-- **Name uncertainty:** "Terryl Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kolvet" and "Kolvet"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Alan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Knowles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
+- **Name uncertainty:** "Terryl Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kolvet" and "Kolvet"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Allan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Knowles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
 - **Wave 1 reconciliation:** Terryl Farnsworth is N-262, Andrew Kolvet is N-14, Blake Neff is N-160, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-10141.. never denoted these people and claim references were retargeted.
 - **Likely-existing investigation targets flagged:** N-10810 (SD card chain of custody), N-10811 (aspect ratio modification), N-10812 (Terryl handling), N-10813 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
 - **Anonymous source:** A-2303.1 (federal-court employee email) is anonymous; the host explicitly preserves the sender's anonymity. Treat C-3319 as a single-source claim until corroborated.

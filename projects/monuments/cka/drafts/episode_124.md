@@ -1097,14 +1097,14 @@ Investigative Direction: Cross-reference timestamps and language across influenc
 
 ---
 
-**C-3001** Josh Hammer described preliminary hearing as "most overwhelming" of his career
+**C-3001** Josh Hammer Calls the Hearing Evidence the Most Overwhelming He Has Seen in His Life
 
 Claim Timestamp: 00:05:14
 
-Claim: Josh Hammer stated on Court TV that the preliminary hearing presentation was "the most overwhelming presentation that I have ever seen this early on during a legal proceeding in my entire life."
+Claim: In a clip the host plays, Josh Hammer says the evidence presented during the pre-trial evidentiary hearings in the trial of Tyler Robinson is "the most overwhelming presentation that I have ever seen this early on during a legal proceeding in my entire life."
 
 Anchored Artifacts: A-2116.1
-Mentions: N-55
+Mentions: N-55, N-40
 
 Related Nodes:
 
@@ -1161,7 +1161,7 @@ Investigative Direction: Compare Lance's testimony against text messages introdu
 
 Claim Timestamp: 00:20:59
 
-Claim: Witness Miss Noble testified via Ring camera interview that she saw a bald man driving the gray Challenger accompanied by three other people.
+Claim: The host says the woman who captured the Ring camera footage, Miss Noble, told police she saw a bald man driving the gray Challenger accompanied by three other people; in the hearing clip the host plays, the witness answers, "I believe they thought that was the case."
 
 Anchored Artifacts: A-2119.1
 
@@ -1219,7 +1219,7 @@ Investigative Direction: Obtain certified copies of both exhibits for direct com
 
 Claim Timestamp: 00:46:15
 
-Claim: The host says Court TV's accidentally leaked footage of the 12.1 enhanced exhibit (at 1h17m30s on Day 2) shows only a pixel-like figure running across the rooftop when zoomed in.
+Claim: The host says Court TV accidentally captured footage of the 12.1 enhanced exhibit, which she says is the same video as 12.4 zoomed in; in a clip she plays from an X user, the speaker says that at 1h17m30s of Court TV's Day 2 the figure running across the rooftop is only a pixel.
 
 Anchored Artifacts: A-2122.1
 
@@ -1892,7 +1892,7 @@ Claim: The host says Tyler Robinson's lawyer explained at length why, since 1996
 Transcript Snippet: since 1996 they actually don't rely on mixed samples for that very reason because it confuses matters.
 
 Anchored Artifacts: A-2124.2
-Mentions: N-3, N-40, N-776
+Mentions: N-3, N-40
 Related Nodes: N-10975
 Tags: relevance:core
 Investigative Direction: Read the cross-examination transcript and the ATF DNA report to see whether this statement was made and what it applied to.
@@ -2040,7 +2040,7 @@ Claim: Benny Johnson says Erika Kirk was sobbing in the arms of Charlie's mother
 Transcript Snippet: Erika Kirk was sobbing in the arms of her mother-in-law, Charlie's mother, Mrs. Kirk, feet away as Tyler Robinson, pale, salow, bony, emaciated, staring at the floor the whole time
 
 Anchored Artifacts: A-2126.1
-Mentions: N-89, N-2, N-40
+Mentions: N-89, N-2, N-40, N-1
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Compare with courtroom sketch, pool reporter and Court TV accounts of Robinson's demeanor and the gallery.
@@ -2181,7 +2181,7 @@ Investigative Direction: Identify any accounts or bylines the host attributes to
 
 Claim Timestamp: 00:59:57
 
-Claim: The host says Ben Shapiro raced to give a million dollars to Turning Point USA even though his company is suffering, and that Erika allowed him to open despite knowing her husband did not like him at AmFest.
+Claim: The host says Ben Shapiro raced to give a million dollars to Turning Point USA even though his company is suffering, and that Erika allowed him to open at AmFest despite knowing her husband did not like him.
 
 Transcript Snippet: He races to give a million dollars. The com his company is suffering, but he's giving a million dollars Turning Point USA.
 
@@ -2389,11 +2389,11 @@ Investigative Direction: Identify Shapiro's security provider and personnel and 
 
 ---
 
-**C-7265** Host Refers to Kolvet's Statement That It Was Supposed to Be Her on Tour With Charlie
+**C-7265** Host Asks Whether Charlie Became a Liability for Saying No
 
 Claim Timestamp: 01:07:02
 
-Claim: The host refers to a statement from Andrew Kolvet that it was supposed to be her, and asks whether Charlie refusing something made him a liability.
+Claim: The host refers to a statement from Andrew Kolvet that "it was supposed to be you," asks whether it was supposed to be her back on tour with Charlie and whether Charlie said no to killing her, and asks whether he then became a liability because he said no.
 
 Transcript Snippet: the statement from Andrew Colbeat it was supposed to be you
 

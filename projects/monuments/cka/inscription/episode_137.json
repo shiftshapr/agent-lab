@@ -346,7 +346,7 @@
           "@type": "Artifact",
           "@id": "A-2885.1",
           "ref": "A-2885.1",
-          "description": "Host verbal reference to reader emails and sources about Alan Robertson's San Bernardino departure and the USU threat-assessment reason for his presence (not shown)",
+          "description": "Host verbal reference to reader emails and sources about Allan Robertson's San Bernardino departure and the USU threat-assessment reason for his presence (not shown)",
           "related_claims": [
             "C-7507",
             "C-7508",
@@ -2419,7 +2419,7 @@
       "@id": "C-7507",
       "ref": "C-7507",
       "label": "Host Says Emails About a Different Allen Were Wrong and Peers Say Robertson Left San Bernardino on Good Terms",
-      "claim": "The host says many emails misspelled Alan Robertson's name and described a different Allen, and that other people tied to San Bernardino police told her he was not let go or transferred over conduct issues and left willingly on good terms to raise his kids.",
+      "claim": "The host says many emails misspelled Allan Robertson's name and described a different Allen, and that other people tied to San Bernardino police told her he was not let go or transferred over conduct issues and left willingly on good terms to raise his kids.",
       "anchored_artifacts": [
         "A-2885.1"
       ],
@@ -2542,7 +2542,7 @@
       "@id": "C-7512",
       "ref": "C-7512",
       "label": "Host Says by All Accounts Robertson Left San Bernardino Voluntarily and Shuts Down That Lead",
-      "claim": "The host says by all accounts Alan Robertson left on his own volition because he had young kids and wanted to leave city life, and that she is shutting down that lead.",
+      "claim": "The host says by all accounts Allan Robertson left on his own volition because he had young kids and wanted to leave city life, and that she is shutting down that lead.",
       "anchored_artifacts": [
         "A-2885.1"
       ],

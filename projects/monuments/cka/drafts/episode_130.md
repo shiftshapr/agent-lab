@@ -1301,9 +1301,9 @@ Investigative Direction: Obtain the full 1976 Time article and verify the wordin
 
 Claim Timestamp: 00:15:40
 
-Claim: The host reads from the Time article that the six aides were assisted by four physicians on 24-hour call and five lesser functionaries, including Gordon Margolis and Mel Stewart.
+Claim: The host reads from the Time article that the six aides were assisted by four physicians on 24-hour call and five lesser functionaries, including Gordon Margulis and Mell Stewart.
 
-Transcript Snippet: They were assisted by four physicians on 24-hour calls and five lesser functionaries including Gordon Margolis and Mel Stewart.
+Transcript Snippet: They were assisted by four physicians on 24-hour calls and five lesser functionaries including Gordon Margulis and Mell Stewart.
 
 Anchored Artifacts: A-2173.1
 Related Nodes: N-10747

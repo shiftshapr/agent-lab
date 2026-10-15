@@ -1218,7 +1218,7 @@ Claim: The host says Frank Turek's account is that he was FaceTiming his 35-year
 Transcript Snippet: was that he was on the phone FaceTiming his 35-year-old son.
 
 Anchored Artifacts: A-2672.2
-Mentions: N-7, N-1
+Mentions: N-7, N-685, N-1
 Related Nodes: N-10730
 Investigative Direction: Obtain Frank Turek's phone records for the duration of the FaceTime call.
 
@@ -1228,7 +1228,7 @@ Investigative Direction: Obtain Frank Turek's phone records for the duration of 
 
 Claim Timestamp: 00:37:19
 
-Claim: In the Jack Hibbs clip, Frank Turek says that after they got Charlie Kirk to the emergency room he got the first call from "Mike" and recalls calling Hibbs. The host says this disrupts his account of an uninterrupted FaceTime call.
+Claim: In the Jack Hibbs clip, Hibbs says he got the first call from "Mike" while Turek was in the emergency room after they got Charlie Kirk there, and Frank Turek says "I remember I called you." The host asks "How'd you do that, Frank?", saying this disrupts his account of an uninterrupted FaceTime call.
 
 Transcript Snippet: Okay, then I got the first call from Mike cuz I was in the >> emergency room after we got Charlie there.
 

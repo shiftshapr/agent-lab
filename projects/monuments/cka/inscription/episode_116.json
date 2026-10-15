@@ -2502,6 +2502,7 @@
       "transcript_snippet": "was that he was on the phone FaceTiming his 35-year-old son.",
       "mentions_person_refs": [
         "N-7",
+        "N-685",
         "N-1"
       ]
     },
@@ -2510,7 +2511,7 @@
       "@id": "C-4628",
       "ref": "C-4628",
       "label": "In the Jack Hibbs interview, Turek describes phone calls at the hospital",
-      "claim": "In the Jack Hibbs clip, Frank Turek says that after they got Charlie Kirk to the emergency room he got the first call from \"Mike\" and recalls calling Hibbs. The host says this disrupts his account of an uninterrupted FaceTime call.",
+      "claim": "In the Jack Hibbs clip, Hibbs says he got the first call from \"Mike\" while Turek was in the emergency room after they got Charlie Kirk there, and Frank Turek says \"I remember I called you.\" The host asks \"How'd you do that, Frank?\", saying this disrupts his account of an uninterrupted FaceTime call.",
       "anchored_artifacts": [
         "A-2672.1"
       ],

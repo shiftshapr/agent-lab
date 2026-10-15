@@ -2562,7 +2562,7 @@
       "@id": "C-5940",
       "ref": "C-5940",
       "label": "Time article says four physicians and five lesser functionaries assisted the six aides",
-      "claim": "The host reads from the Time article that the six aides were assisted by four physicians on 24-hour call and five lesser functionaries, including Gordon Margolis and Mel Stewart.",
+      "claim": "The host reads from the Time article that the six aides were assisted by four physicians on 24-hour call and five lesser functionaries, including Gordon Margulis and Mell Stewart.",
       "anchored_artifacts": [
         "A-2173.1"
       ],
@@ -2572,7 +2572,7 @@
       "tags": [],
       "claim_timestamp": "00:15:40",
       "investigative_direction": "Obtain the full Time article and check the named functionaries and the physician count.",
-      "transcript_snippet": "They were assisted by four physicians on 24-hour calls and five lesser functionaries including Gordon Margolis and Mel Stewart."
+      "transcript_snippet": "They were assisted by four physicians on 24-hour calls and five lesser functionaries including Gordon Margulis and Mell Stewart."
     },
     {
       "@type": "Claim",

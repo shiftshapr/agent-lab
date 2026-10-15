@@ -50,7 +50,7 @@
 
 ## II. Executive Summary
 
-This episode advances several parallel investigative threads in the Charlie Kirk assassination inquiry. It opens with on-camera statements from Robert O'Neill (former SEAL Team Six sniper) and Brigadier General Blaine Holt on Newsmax, both of whom publicly contest the federal .30-06 ballistics narrative; their interview is presented as a primary artifact. The episode then reviews the September 12, 2025 FBI press conference at which Utah Governor Spencer Cox stated that the assassin changed clothes on the rooftop, with Kash Patel and Bo Mason visible in frame and not intervening.
+This episode advances several parallel investigative threads in the Charlie Kirk assassination inquiry. It opens with on-camera statements from Robert O'Neill (former SEAL Team Six sniper) and Brigadier General Blaine Holt on Newsmax, both of whom publicly contest the federal .30-06 ballistics narrative; their interview is presented as a primary artifact. The episode then reviews the September 12, 2025 FBI press conference at which Utah Governor Spencer Cox stated that the assassin changed clothes on the rooftop, with Kash Patel and Beau Mason visible in frame and not intervening.
 
 The second half of the episode focuses on a biographical and personnel-pattern investigation into Sgt. Jennifer Faumuina of the Utah State Bureau of Investigation, whose background is traced through Hawaii, Weber State University, the 2013 Utah DPS post-training, and a 2016 RNC volunteer deployment; her television appearance on Netflix's *Worst Roommate Ever* is presented as a documentary artifact. Multiple Utah personnel appointments in the months preceding the September 10 assassination are catalogued. The episode also documents Frank Turek's own reconciliation of the CPR discrepancy with Brian Harpole, Blake Neff's evolving hotel-location statements, and a public X post by Lt. Col. Kolvet defending his brother Andrew Kolvet regarding Fort Huachuca.
 
@@ -80,7 +80,7 @@ Confidence Level: High
 
 ---
 
-**A-2154** September 12, 2025 FBI Press Conference Bundle (Governor Cox / Kash Patel / Bo Mason)
+**A-2154** September 12, 2025 FBI Press Conference Bundle (Governor Cox / Kash Patel / Beau Mason)
 
 **A-2154.1** Governor Spencer Cox statement that the assassin changed clothes on the rooftop
 
@@ -144,7 +144,7 @@ Confidence Level: Medium
 
 *Related: C-3065*
 
-**A-2157.3** Utah Department of Public Safety post-training photo, May 20, 2013 (with Bo Mason)
+**A-2157.3** Utah Department of Public Safety post-training photo, May 20, 2013 (with Beau Mason)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -164,7 +164,7 @@ Confidence Level: Medium
 
 *Related: C-3067*
 
-**A-2157.5** 2023 sergeant swearing-in photo (with Bo Mason)
+**A-2157.5** 2023 sergeant swearing-in photo (with Beau Mason)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -178,7 +178,7 @@ Confidence Level: Medium
 
 **A-2158** Utah Pre-Event Personnel Appointments Bundle
 
-**A-2158.1** Bo Mason appointed Commissioner of Utah DPS – June 19, 2025 (by Gov. Cox)
+**A-2158.1** Beau Mason appointed Commissioner of Utah DPS – June 19, 2025 (by Gov. Cox)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -198,7 +198,7 @@ Confidence Level: Medium
 
 *Related: C-3072, N-10733*
 
-**A-2158.3** Judge Tony Graff appointed – May 2025
+**A-2158.3** Judge Tony Graf appointed – May 2025
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -463,7 +463,7 @@ Reused; first introduced in episode 15.
 
 **N-508** Beau Mason
 
-First named by the host at 00:08:44 in episode 128. Aliases: Bo Mason, Beau "Bo" Mason.
+First named by the host at 00:08:44 in episode 128. Aliases: Beau Mason, Beau "Bo" Mason.
 
 *Related: C-3061, C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3071, C-3076*
 
@@ -509,7 +509,7 @@ Investigative Pressure: Medium
 
 **N-10733** Utah Pre-Event Personnel Restructuring Pattern
 
-Cluster of Utah appointments in the months prior to the September 10, 2025 assassination: Bo Mason (June 19, 2025), Tony Graff (May 2025), medical examiner (July 2024), Andrew Zenger (August 18, 2025), Robert Bohls (September 2, 2025).
+Cluster of Utah appointments in the months prior to the September 10, 2025 assassination: Beau Mason (June 19, 2025), Tony Graf (May 2025), medical examiner (July 2024), Andrew Zenger (August 18, 2025), Robert Bohls (September 2, 2025).
 
 Evidence Count: 4
 Claim Count: 4
@@ -1129,7 +1129,7 @@ Investigative Direction: Request the official briefing transcript or unedited vi
 
 ---
 
-**C-3061** Host Says Kash Patel and Bo Mason Did Not Intervene During Governor Cox's Clothing Statement
+**C-3061** Host Says Kash Patel and Beau Mason Did Not Intervene During Governor Cox's Clothing Statement
 
 Claim Timestamp: 00:09:39
 
@@ -1148,7 +1148,7 @@ Investigative Direction: Inspect full uncut briefing video for any clarifying re
 
 Claim Timestamp: 00:12:43
 
-Claim: On September 15, 2025, FBI Deputy Director Dan Bongino told Megyn Kelly that the rooftop video was "very grainy" and cited lab enhancement as ongoing.
+Claim: On September 15, 2025, FBI Deputy Director Dan Bongino told Megyn Kelly that the rooftop video was "very grainy" and said the FBI lab has excellent tools and had been handling it for days.
 
 Anchored Artifacts: A-2155.1
 Mentions: N-46, N-379
@@ -1178,7 +1178,7 @@ Investigative Direction: Confirm the Netflix episode metadata, Faumuina's on-scr
 
 Claim Timestamp: 00:17:10
 
-Claim: The host says her team found a 2003 image showing Jennifer Faumuina playing basketball at a private school in Hawaii.
+Claim: The host says her team found Jennifer Faumuina playing basketball at a private school in Hawaii in 2003.
 
 Anchored Artifacts: A-2157.1
 Mentions: N-506
@@ -1208,7 +1208,7 @@ Investigative Direction: Confirm against Weber State graduation records or alumn
 
 Claim Timestamp: 00:19:40
 
-Claim: Jennifer Faumuina appears in a Utah Department of Public Safety post-training photo dated May 20, 2013, alongside Bo Mason.
+Claim: Per the training photo the host shows, Jennifer Faumuina apparently appears in a Utah Department of Public Safety post-training session dated May 20, 2013, alongside Beau Mason.
 
 Anchored Artifacts: A-2157.3
 Mentions: N-506, N-508
@@ -1249,11 +1249,11 @@ Investigative Direction: Request Utah state salary records to verify employment 
 
 ---
 
-**C-3069** Faumuina and Mason photographed together on May 20, 2013
+**C-3069** Faumuina and Beau Mason Photographed Together on May 20, 2013
 
 Claim Timestamp: 00:19:40
 
-Claim: Jennifer Faumuina and Bo Mason appear together in a May 20, 2013 Utah DPS post-training photo.
+Claim: Per the training photo the host shows, Jennifer Faumuina and Beau Mason apparently appear together in a May 20, 2013 Utah DPS post-training session.
 
 Anchored Artifacts: A-2157.3
 Mentions: N-506, N-508
@@ -1264,11 +1264,11 @@ Investigative Direction: Verify the photograph and underlying academy/class reco
 
 ---
 
-**C-3070** Host Says Faumuina and Mason Were Photographed Together at Her 2023 Sergeant Swearing-In
+**C-3070** Host Says Faumuina and Beau Mason Were Photographed Together at Her 2023 Sergeant Swearing-In
 
 Claim Timestamp: 00:20:05
 
-Claim: The host says she shows a photograph in which Jennifer Faumuina and Bo Mason appear together in 2023 when Faumuina was sworn in as a sergeant.
+Claim: The host says she shows a photograph in which Jennifer Faumuina and Beau Mason appear together in 2023 when Faumuina was sworn in as a sergeant.
 
 Anchored Artifacts: A-2157.5
 Mentions: N-506, N-508
@@ -1279,7 +1279,7 @@ Investigative Direction: Confirm the date and ceremony through Utah DPS press re
 
 ---
 
-**C-3071** Host Says Bo Mason Was Appointed Utah DPS Commissioner on June 19, 2025
+**C-3071** Host Says Beau Mason Was Appointed Utah DPS Commissioner on June 19, 2025
 
 Claim Timestamp: 00:19:15
 
@@ -1309,11 +1309,11 @@ Investigative Direction: Confirm via hospital press releases and board minutes.
 
 ---
 
-**C-3073** Host Says Judge Tony Graff Was Appointed in May 2025
+**C-3073** Host Says Judge Tony Graf Was Appointed in May 2025
 
 Claim Timestamp: 00:21:14
 
-Claim: The host says Judge Tony Graff received a judicial appointment in May 2025.
+Claim: The host says Judge Tony Graf received a judicial appointment in May 2025.
 
 Anchored Artifacts: A-2158.3
 Mentions: N-136
@@ -1356,9 +1356,9 @@ Investigative Direction: Cross-reference Provo PD rosters and 2004 article conte
 
 **C-3076** Misiona Faumuina died in 1995 in Hawaii from injuries sustained in a gang-related beating
 
-Claim Timestamp: 00:24:14
+Claim Timestamp: 00:23:20
 
-Claim: Sgt. Jennifer Faumuina's uncle, Misiona Faumuina, died in 1995 in Hawaii after being beaten as part of a reported gang initiation ritual; his brother Sapena Faumuina was publicly vocal in the press.
+Claim: The host says Sgt. Jennifer Faumuina's uncle, Misiona Faumuina, died in 1995 in Hawaii after being beaten as part of a reported gang initiation ritual; his brother Sapena Faumuina was publicly vocal in the press.
 
 Anchored Artifacts: A-2160.1
 Mentions: N-506, N-510, N-509
@@ -1373,7 +1373,7 @@ Investigative Direction: Obtain original Honolulu-area news archives and Hawaii 
 
 Claim Timestamp: 00:24:14
 
-Claim: Per 1995 press coverage the host shows, Misiona Faumuina was described as a devout Mormon attending the Maquilo Ward in Waipahu, with his brother Sapena noting he was preparing for a mission.
+Claim: Per 1995 press coverage the host shows, Misiona Faumuina was described as a devout Mormon who attended church in Waipahu every Sunday, in the Maquilo Ward where the family lived, with his brother Sapena noting he was preparing for a mission.
 
 Anchored Artifacts: A-2160.1
 Mentions: N-510, N-509
@@ -1416,7 +1416,7 @@ Investigative Direction: Obtain the unedited podcast audio and any hospital reco
 
 **C-3080** Blake Neff revised his hotel-location statement from Orem to Salt Lake City
 
-Claim Timestamp: 00:36:56
+Claim Timestamp: 00:36:15
 
 Claim: The host says Blake Neff initially said he spent the night in Orem, UT, then revised the statement to Salt Lake City, where she says the Turning Point USA team stayed.
 
@@ -1444,7 +1444,7 @@ Investigative Direction: Cross-check with travel booking records, expense report
 
 ---
 
-**C-3082** Lt. Col. Kolvet publicly stated his brother Andrew never worked at Fort Huachuca
+**C-3082** Lt. Col. Kolvet Posts That He Never Worked at Fort Huachuca
 
 Claim Timestamp: 00:41:03
 
@@ -1582,7 +1582,7 @@ Claim: General Holt says the explanation put out by the Justice Department that 
 Transcript Snippet: the garbage that was foisted upon us from the Justice Department that day where they seemingly solved the case in about eight hot seconds.
 
 Anchored Artifacts: A-2153.2
-Mentions: N-948, N-154
+Mentions: N-948
 Related Nodes: N-10734
 Tags: relevance:context
 Investigative Direction: Pin down the time between the shooting and the first DOJ or FBI public attribution of the suspect.
@@ -1593,7 +1593,7 @@ Investigative Direction: Pin down the time between the shooting and the first DO
 
 Claim Timestamp: 00:06:17
 
-Claim: General Holt says a young man who has never killed anyone would not take a .30-06 onto a roof and do the things O'Neill described.
+Claim: General Holt says you are not going to take a .30-06 with a kid who has never killed anybody up onto a roof and have him take his first life and do all the things O'Neill described.
 
 Transcript Snippet: You're not going to take a.30-06 with a kid who's never killed anybody up onto a roof.
 
@@ -1712,7 +1712,7 @@ Claim: In the September 15 interview, Megyn Kelly says Kash Patel said a screwdr
 Transcript Snippet: Cash said that they found his what we presume was his screwdriver on the top of the building, and they found his DNA on it
 
 Anchored Artifacts: A-2155.1
-Mentions: N-46, N-69, N-379
+Mentions: N-46, N-69
 Related Nodes: N-10736, N-10090
 Supports: C-1140
 Tags: relevance:core
@@ -1729,7 +1729,7 @@ Claim: Dan Bongino says that in a media appearance that morning he was a little 
 Transcript Snippet: I was a little hesitant in a media appearance this morning to go into specifics on uh especially the video and where the gun was
 
 Anchored Artifacts: A-2155.1
-Mentions: N-379, N-46
+Mentions: N-379
 Related Nodes: N-10736
 Tags: relevance:core
 Investigative Direction: Review Bongino's other September 15 appearance for what he withheld and the reason he gave.
@@ -2263,7 +2263,7 @@ Claim: The host says the account was that the door was left open because Charlie
 Transcript Snippet: because we were told the door was open because Charlie's legs were too long. You do have to have someone flat to conduct CPR.
 
 Anchored Artifacts: 
-Mentions: N-1, N-7, N-3
+Mentions: N-1, N-3
 Related Nodes: N-10687
 Supports: C-13071
 Tags: relevance:core
@@ -2296,7 +2296,7 @@ Claim: The host says the true version of events is that the entire Turning Point
 Transcript Snippet: The entire Turning Point team stayed in Salt Lake City.
 
 Anchored Artifacts: A-2162.2
-Mentions: N-160
+Mentions: N-3
 Related Nodes: N-10732, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the TPUSA group booking, folio or expense records for September 10.

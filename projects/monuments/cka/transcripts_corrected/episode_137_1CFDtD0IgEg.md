@@ -24,7 +24,7 @@ Source: auto:en; cleaned (lexicon + paragraph merge). Music cues dropped. No inv
 - [01:25] Frank Turek wants to strike me down.
 - [09:12] Strange story of who was at UVU the day before.
 - [16:00] Officer Bagley and the screwdriver story.
-- [23:21] Alan Robertson update.
+- [23:21] Allan Robertson update.
 - [31:05] Update on my security guard's health.
 - [32:56] Hotel Turning Point stayed in on 9/10.
 - [34:44] The Iran war and Sky News' investigation into the school bombing.
@@ -138,7 +138,7 @@ Didn't do anything. Did I don't I didn't even investigate why or how my my body 
 
 Person you say shot Charlie Kirk, jumped off. Was there anybody on that rooftop before you got on at 12:44 p. m.? And the answer is yes. By the way, Turning Point USA could definitely be forthcoming about this stuff. That's weird that they just have nothing.
 
-## Alan Robertson update.
+## Allan Robertson update.
 
 [23:21]
 
@@ -152,7 +152,7 @@ Again, that's dosedaily. co/candis for 35% off your first month subscription. An
 
 [30:07]
 
-Interesting. I'm reading somebody's comment just kind of live here and they said, uh, if you go back and watch officer Baggley's testimony, I can confirm this, he actually does slip and say Allen at one point, so he definitely knew who the person was. I'll have to go back and see if that's correct if he did say the name Allen in court, and I'll update you guys. Also, my producer in my ear said that I accidentally said Allan Robinson. Obviously, I'm autocorrecting and just saying Robinson because he's been saying Tyler Robinson for so long, but it was Alan Robertson. And yes, um, by all accounts, it seems like he left by on his own valition and he just he has young kids and wanted to leave the city life. So, we can, um, shut down that lead. I love when I get answers to questions that we have and hopefully more information is going to come out um about what his testimony is in terms of what happened on the roof. And um, he obviously would not have had access to the same stuff that Officer Baggley should have had access to to be able to answer those questions. So, it's giving shady Baggley. It's giving shady. Okay,.
+Interesting. I'm reading somebody's comment just kind of live here and they said, uh, if you go back and watch officer Baggley's testimony, I can confirm this, he actually does slip and say Allen at one point, so he definitely knew who the person was. I'll have to go back and see if that's correct if he did say the name Allen in court, and I'll update you guys. Also, my producer in my ear said that I accidentally said Allan Robinson. Obviously, I'm autocorrecting and just saying Robinson because he's been saying Tyler Robinson for so long, but it was Allan Robertson. And yes, um, by all accounts, it seems like he left by on his own valition and he just he has young kids and wanted to leave the city life. So, we can, um, shut down that lead. I love when I get answers to questions that we have and hopefully more information is going to come out um about what his testimony is in terms of what happened on the roof. And um, he obviously would not have had access to the same stuff that Officer Baggley should have had access to to be able to answer those questions. So, it's giving shady Baggley. It's giving shady. Okay,.
 
 ## Update on my security guard's health.
 
