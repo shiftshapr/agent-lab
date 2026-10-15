@@ -1,0 +1,775 @@
+[
+ {
+  "claim": "C-11420",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript \"Pascadlo\"; node canonical Andrew Piskadlo.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11421",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11422",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11423",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11424",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript \"Michael Aino\"; node canonical Michael Aquino.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11425",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11426",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11427",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11428",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11429",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11430",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11431",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11432",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11433",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11434",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11435",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2744",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "CBS: \"no known threats to the protectee.\" Host adds \"That would be VP\" - VP gloss is hers. Claim names the Vice President but Mentions is empty (N-4).",
+  "fix": {
+   "claim": "Per the CBS News article the host shows, a person familiar with the matter said the US Secret Service determined there were no credible threats to the Turning Point USA rally at the University of Georgia and no known threats to the protectee, whom the host identifies as the Vice President.",
+   "mentions": [
+    "N-4"
+   ]
+  }
+ },
+ {
+  "claim": "C-2745",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Timeline start (\"At 1:27 p.m.\") spoken at 08:44, 77s after range start 07:27; within tolerance.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2746",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2747",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2748",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2749",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2750",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2751",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2752",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2753",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"he I believe said that this conversation took place sometime in April. Skyler, is that right? I want to say it was April, but don't quote me on that. It was.\" Date comes from Corby via the host; hedge speaker unclear.",
+  "fix": {
+   "claim": "The host says she believes Corby said the messages were from sometime in April, checks with Skyler (\"I want to say it was April, but don't quote me on that. It was. Okay.\"), and then states the conversation took place in April 2025."
+  }
+ },
+ {
+  "claim": "C-2754",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Range starts 39:18; Robert Maxwell/Bain content begins at ~40:24 and the LA Times $2M of $37M detail is at ~40:48, about 90s after the start.",
+  "fix": {
+   "timestamp": "00:40:43"
+  }
+ },
+ {
+  "claim": "C-2755",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Range starts 41:38; \"they determined that the cartridge case matched gun\" is at ~43:38, two minutes later.",
+  "fix": {
+   "timestamp": "00:43:33"
+  }
+ },
+ {
+  "claim": "C-2756",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2757",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2758",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Article calls the source \"a close confidant\"/\"the insider\", not a TPUSA insider. Quote spoken ~21:15, 2+ min after 18:55. Quote refers to Erika (\"She pulled out\") and the vice president; Mentions empty.",
+  "fix": {
+   "claim": "Per the Daily Mail article the host reads, an insider stated: \"She pulled out of the TPUSA event because of a bunch of factors. I don't think it was just security concerns… If there were security concerns, the vice president wouldn't have gone.\"",
+   "label": "Daily Mail Insider Says Cancellation Was Not Solely Security-Related",
+   "timestamp": "00:21:10",
+   "mentions": [
+    "N-2",
+    "N-4"
+   ]
+  }
+ },
+ {
+  "claim": "C-2759",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Quote is about Erika (\"people will make fun of me, so she canceled\") but Mentions is empty; N-2 should be listed.",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2760",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Comment: \"They said actually they heard first from Amir Tsarfati\" - i.e. heard the death news first from him; title \"first to learn of the shooting\" misstates it.",
+  "fix": {
+   "label": "Viewer Comment Says They First Heard the News From Amir Tsarfati"
+  }
+ },
+ {
+  "claim": "C-2761",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"what Elizabeth Lane... stated in her post, that in her opinion, Erika Kirk exhibits the attributes of a psychopath\" - hedge dropped. Spoken ~16:29, 88s after 15:01.",
+  "fix": {
+   "claim": "Host explicitly endorses Elizabeth Lane's prior post that, in Lane's opinion, \"Erika Kirk exhibits the attributes of a psychopath,\" characterizing Erika's directing her PR team to blame the public as \"malevolent.\"",
+   "timestamp": "00:16:24"
+  }
+ },
+ {
+  "claim": "C-2762",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2763",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11436",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie Kirk (\"announcing Charlie Kirk's death\") but N-1 is not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-342",
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-11437",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11438",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11439",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11440",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11441",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11442",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11443",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript \"Lane Showberger\"; node canonical Laine Schoneberger.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11444",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11445",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11446",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11447",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11448",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11449",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11450",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11451",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim refers to Charlie Kirk (\"after her husband's killing\") but N-1 is not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-597",
+    "N-2",
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-11452",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11453",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie (\"after Charlie's death\") but N-1 is not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-11454",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11455",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11456",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11457",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11458",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Marx (\"like Marx\") and the President of the United States (Trump, who announced the death) but Mentions has only N-36, N-1.",
+  "fix": {
+   "mentions": [
+    "N-36",
+    "N-1",
+    "N-342",
+    "N-5"
+   ]
+  }
+ },
+ {
+  "claim": "C-11459",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

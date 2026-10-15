@@ -38,7 +38,7 @@
 - Claim Range: C-2609–C-2625, C-3750
 - New People Nodes Introduced: none (Wave 2: local ids removed)
 - New Investigation Target Nodes Introduced: N-10569, N-10570, N-10571, N-10572
-- Existing Nodes Reused: Charlie Kirk, Erika Kirk, Candace Owens, Tyler Robinson, Tarro Farnsworth, Andrew Kolvet, Dr. Lee Trotter, Justin Streiff, Frank Carney, Matt Robinson, Robinson roommate, FBI, ATF, Turning Point USA, Utah County Attorney's Office (UCAO), Kash Patel, Governor Cox
+- Existing Nodes Reused: Charlie Kirk, Erika Kirk, Candace Owens, Tyler Robinson, Terryl Farnsworth, Andrew Kolvet, Dr. Lee Trotter, Justin Streiff, Frank Carney, Matt Robinson, Robinson roommate, FBI, ATF, Turning Point USA, Utah County Attorney's Office (UCAO), Kash Patel, Governor Cox
 
 ---
 
@@ -84,7 +84,7 @@ Confidence Level: High (full text read aloud)
 
 **A-1914** News Clip Bundle
 
-**A-1914.1** Local Atlanta News Segment on FBI Bullet Lead Analysis Discontinuation (featuring national investigative reporter Chris Nakamoto; case subject: Jimmy Aids)
+**A-1914.1** Local Atlanta News Segment on FBI Bullet Lead Analysis Discontinuation (featuring national investigative reporter Chris Nakamoto; case subject: Jimmy Ates)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -144,7 +144,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 **A-3072** Farnsworth Back-Footage FaceTime Bundle
 
-**A-3072.1** Host verbal reference to her screen recording of the September 19 FaceTime with Tarro Farnsworth showing the back footage (not played)
+**A-3072.1** Host verbal reference to her screen recording of the September 19 FaceTime with Terryl Farnsworth showing the back footage (not played)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:06:19
@@ -644,7 +644,7 @@ First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, 
 **N-11256** Back-Footage FaceTime Recording Inquiry
 
 Node Type: Topic
-Topic. The host's account that on September 20, 2025 TPUSA leadership and the FBI were asking whether she had recorded Tarro Farnsworth's September 19 FaceTime showing the back-camera footage.
+Topic. The host's account that on September 20, 2025 TPUSA leadership and the FBI were asking whether she had recorded Terryl Farnsworth's September 19 FaceTime showing the back-camera footage.
 
 *Related: C-10308, C-10309, C-10310, C-10311*
 
@@ -808,7 +808,7 @@ Investigative Direction: Obtain and verify the original X post timestamp, accoun
 
 Claim Timestamp: 00:12:07
 
-Claim: In the same September 20, 2025 post, Andrew Kolvet attributed a quote to a surgeon who worked on Charlie Kirk at the hospital stating that Kirk's bone density was so healthy that he was "like the man of steel" and that it was a miracle no one behind Kirk was struck.
+Claim: In the same September 20, 2025 post, Andrew Kolvet attributed a quote to a surgeon who worked on Charlie Kirk at the hospital stating that Kirk's bone density was so healthy that he was "like the man of steel" and that it was a miracle no one behind Kirk was killed.
 
 Anchored Artifacts: A-1913.1
 Mentions: N-1, N-14
@@ -866,7 +866,7 @@ Investigative Direction: Identify and locate Frank Turek's original statement; r
 
 Claim Timestamp: 00:59:52
 
-Claim: The host says Frank Turek's account of announcing "He's dead. He's dead. I need to speak to Erika" did not ring true, citing her producer Ashley's questions about how he knew Erika's name within 30 minutes and saying it feels like someone writing a script.
+Claim: The host says Frank Turek's account of the surgeon announcing "He's dead. He's dead. I need to speak to Erika" did not ring true, citing her producer Ashley's questions about how the surgeon knew Erika's name within 30 minutes and saying it feels like someone writing a script.
 
 Anchored Artifacts: A-1916.1
 Mentions: N-7
@@ -881,7 +881,7 @@ Investigative Direction: Compare timing against typical trauma-team workflow; ob
 
 Claim Timestamp: 00:40:25
 
-Claim: The host concurs that the FBI's planned revival of comparative bullet lead analysis – a technique discontinued in 2005 – in the Tyler Robinson case is indicative of federal corruption.
+Claim: The host says the FBI's planned use of comparative bullet lead analysis – a technique discontinued in 2005 – in the Tyler Robinson case shows the feds are going to make the bullet fit no matter what, and that they have been corrupt since the beginning.
 
 Anchored Artifacts: A-1912.1, A-1914.1
 Mentions: N-40
@@ -896,7 +896,7 @@ Investigative Direction: Review any FBI lab protocol authorizing CBLA reintroduc
 
 Claim Timestamp: 00:09:57
 
-Claim: The host rejects the medical plausibility of Andrew Kolvet's "man of steel"/bone-density framing in the September 20, 2025 tweet, asserting it is not how serious trauma surgeons communicate.
+Claim: The host says the "man of steel" framing in Andrew Kolvet's September 20, 2025 tweet came from Erika Kirk saying Charlie ate healthy and had a neck like Superman, calls it girly and emotional, and says it is not how serious trauma surgeons communicate.
 
 Anchored Artifacts: A-1913.1
 Mentions: N-14
@@ -942,7 +942,7 @@ Investigative Direction: Compare against the 911 log, CAD records and event vide
 
 Claim Timestamp: 00:02:18
 
-Claim: The host says that, a mere four minutes she thinks, after Charlie Kirk was carried to the SUV, Tarro Farnsworth came down from his recording position, took the chair Kirk had been sitting in, stood on it and removed the SD card from the camera behind Kirk's head.
+Claim: The host says that, a mere four minutes she thinks, after Charlie Kirk was carried to the SUV, Terryl Farnsworth came down from his recording position, took the chair Kirk had been sitting in, stood on it and removed the SD card from the camera behind Kirk's head.
 
 Transcript Snippet: He returns to the crime scene and violates it. More specifically, he grabs the very chair that Charlie Kirk had just been sitting in
 
@@ -1567,13 +1567,13 @@ Investigative Direction: Cite the specific exoneration cases involving bullet le
 
 ---
 
-**C-10339** Clip says Norma Jean Aids was shot seven times in 1991 and her husband later convicted
+**C-10339** Clip says Norma Jean Ates was shot seven times in 1991 and her husband later convicted
 
 Claim Timestamp: 00:41:49
 
-Claim: The Atlanta news clip says Norma Jean Aids was found shot to death seven times in 1991 in a home set on fire, that her husband Jimmy Aids was convicted six years later partly on bullet lead evidence from a bullet in his vehicle, and that he was released in 2021.
+Claim: The Atlanta news clip says Norma Jean Ates was found shot to death seven times in 1991 in a home set on fire, that her husband Jimmy Ates was convicted six years later partly on bullet lead evidence from a bullet in his vehicle, and that he was released in 2021.
 
-Transcript Snippet: In 1991, 45-year-old Norma Jean Aids was found inside this home, shot to death seven times.
+Transcript Snippet: In 1991, 45-year-old Norma Jean Ates was found inside this home, shot to death seven times.
 
 Anchored Artifacts: A-1914.1
 Mentions: 
@@ -1713,7 +1713,7 @@ Investigative Direction: Obtain the date and transcript of the Tucker Carlson re
 
 **C-10348** Emailer says the Los Alamitos base is discreet and used by officials
 
-Claim Timestamp: 00:50:51
+Claim Timestamp: 00:51:58
 
 Claim: The emailer says the Joint Forces Air Base entrance sits in a housing subdivision, away from heavy traffic, so it would be easy to move in and out unnoticed, that US government officials fly in and out when visiting Southern California, and that the flight from Phoenix is just over an hour.
 
@@ -2007,7 +2007,7 @@ Confidence: high
 - **Artifact verbally referenced but not shown**: Elizabeth Lane's X post about the "other hospital and the strange lockdown" is referenced at 00:56:00 but is not displayed.
 - **Testimonial recount, no artifact displayed**: Andrew Kolvet's reported September 23, 2025 verbal account to host (bullet traveled C2–C6, shattered in thorax) is not anchored to any artifact shown in this episode. Claim failure label: **Claim failed admission test**.
 - **Testimonial recount, no artifact displayed**: Host's recounting of FBI calls to Justin Streiff and Frank Carney regarding the back-footage FaceTime recording is not artifact-anchored in this episode.
-- **Testimonial recount, no artifact displayed**: Host's recounting of the September 19, 2025 FaceTime with Tarro Farnsworth is not artifact-anchored in this episode.
+- **Testimonial recount, no artifact displayed**: Host's recounting of the September 19, 2025 FaceTime with Terryl Farnsworth is not artifact-anchored in this episode.
 - **Transcript ambiguity**: The Atlanta news clip's air date and originating station are not specified; "Chris Nakamoto" is identified by name only.
-- **Name preservation**: "Tarro Farnsworth" appears consistently across the transcript; "Andrew Kolvats" and "Andrew Kolvet" both appear; "Dr. Lee Trotter" appears consistently; preserved as written.
+- **Name preservation**: "Terryl Farnsworth" appears consistently across the transcript; "Andrew Kolvats" and "Andrew Kolvet" both appear; "Dr. Lee Trotter" appears consistently; preserved as written.
 - **Requires human verification**: Numerical specifics inside the defense filing (file counts, page counts, hours, dates) should be cross-verified against the filed PDF and any court docket entries before being treated as authoritative.

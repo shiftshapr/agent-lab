@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T16:48:16Z",
+  "generated_at": "2026-10-15T17:29:28Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -2079,21 +2079,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10130",
-      "label": "Host Says Prejean Bowler Asked What Anti-Semitism Is and What Seth Did at the Hamptons",
+      "label": "Host Says Prejean Boller Asked What Anti-Semitism Is and What Seth Did at the Hamptons",
       "node_kind": "claim",
       "episode": 72
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10131",
-      "label": "Host Says Whispers Say Prejean Bowler Will Be Removed From the Religious Committee",
+      "label": "Host Says Whispers Say Prejean Boller Will Be Removed From the Religious Committee",
       "node_kind": "claim",
       "episode": 72
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10132",
-      "label": "Host Quotes Prejean Bowler Saying Catholic Doctrine Is Not Worshipping Netanyahu",
+      "label": "Host Quotes Prejean Boller Saying Catholic Doctrine Is Not Worshipping Netanyahu",
       "node_kind": "claim",
       "episode": 72
     },
@@ -2842,7 +2842,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10239",
-      "label": "Host Says White House Viewers Reported Kolvet and McVoy With Women in West Wing",
+      "label": "Host Says White House Viewers Reported Kolvet and McCoy With Women in West Wing",
       "node_kind": "claim",
       "episode": 76
     },
@@ -3542,7 +3542,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10339",
-      "label": "Clip says Norma Jean Aids was shot seven times in 1991 and her husband later convicted",
+      "label": "Clip says Norma Jean Ates was shot seven times in 1991 and her husband later convicted",
       "node_kind": "claim",
       "episode": 86
     },
@@ -9765,7 +9765,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11220",
-      "label": "AJ Copp introduced the plate bill on January 28",
+      "label": "Jake Hoffman Introduced the Plate Bill on January 28",
       "node_kind": "claim",
       "episode": 77
     },
@@ -9898,7 +9898,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11238",
-      "label": "Host Reads Megyn Kelly Reply Asking Why She Is Stalked and Harassed",
+      "label": "Host Reads Megyn Kelly Reply Calling Shapiro Poor Little Ben",
       "node_kind": "claim",
       "episode": 79
     },
@@ -11277,7 +11277,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11417",
-      "label": "Host Says Otto Busher Worked With Romanian Angels and Was Charged With Running a Child Sex Abuse Ring",
+      "label": "Host Says Otto Busher Worked With Romanian Angels and Lists a Fort Huachuca Civilian Commander Charged With Running a Child Sex Abuse Ring",
       "node_kind": "claim",
       "episode": 92
     },
@@ -11662,7 +11662,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11467",
-      "label": "Marx Text Says the State of Colorado Might Want to Know Who Corby Is",
+      "label": "Host Says the State of Colorado Might Want to Know Who Marx Is",
       "node_kind": "claim",
       "episode": 93
     },
@@ -11718,7 +11718,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11474",
-      "label": "Host Says Maxwell Was Then Best Friends With Netanyahu and Romney and Netanyahu Were at BCG",
+      "label": "Host Says Romney Was Then Best Friends With Netanyahu at BCG",
       "node_kind": "claim",
       "episode": 93
     },
@@ -21203,7 +21203,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12706",
-      "label": "Host Says TPUSA Told a Story About Having So Much Gauze",
+      "label": "Host Says They Told a Story About Having So Much Gauze",
       "node_kind": "claim",
       "episode": 78
     },
@@ -21959,7 +21959,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12804",
-      "label": "Host Denies She Named Erika Within Hours and Says She Only Began Covering Erika After December",
+      "label": "Host Denies She Named Erika Within Hours and Says She Only Began Covering Erika in December",
       "node_kind": "claim",
       "episode": 83
     },
@@ -22267,7 +22267,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12844",
-      "label": "Host Says Marx's Biological Father Carl Marx Was a Pimp, Drug Dealer and Martial Arts Expert",
+      "label": "Host Says Marx's Biological Father Karl Marx Was a Pimp, Drug Dealer and Martial Arts Expert",
       "node_kind": "claim",
       "episode": 91
     },
@@ -23520,7 +23520,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13007",
-      "label": "Host Says Charlie Would Have Laughed at the Drewski Skit but Erika Took It Seriously",
+      "label": "Host Says Charlie Would Have Laughed at the Druski Skit but Erika Took It Seriously",
       "node_kind": "claim",
       "episode": 102
     },
@@ -23534,7 +23534,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13009",
-      "label": "Host Says Drewski Also Mocks Vietnamese People in a Nail Salon Skit",
+      "label": "Host Says Druski Also Mocks Vietnamese People in a Nail Salon Skit",
       "node_kind": "claim",
       "episode": 102
     },
@@ -23548,7 +23548,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13010",
-      "label": "Host Says Drewski Posted a Video Last Week Targeting Black British Actors",
+      "label": "Host Says Druski Posted a Video Last Week Targeting Black British Actors",
       "node_kind": "claim",
       "episode": 102
     },
@@ -24479,7 +24479,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13131",
-      "label": "Host Says She Showed Carrie Prejean Bowler the Messages in Spain",
+      "label": "Host Says She Showed Carrie Prejean Boller the Messages in Spain",
       "node_kind": "claim",
       "episode": 131
     },
@@ -26544,7 +26544,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13400",
-      "label": "Host Says the Follow-up Post Mentioned Megyn Kelly Again Without Naming Her",
+      "label": "Host Says the Follow-up Post Mentioned Megyn Kelly Again Without Calling Her a Name",
       "node_kind": "claim",
       "episode": 94
     },
@@ -33845,7 +33845,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14349",
-      "label": "Clip: Prejean Bowler Says Ben Shapiro Fired Candace Over 'Christ Is King'; Dillon Says He Never Called It Anti-Semitic",
+      "label": "Clip: Prejean Boller Says Ben Shapiro Fired Candace Over 'Christ Is King'; Dillon Says He Never Called It Anti-Semitic",
       "node_kind": "claim",
       "episode": 71
     },
@@ -34727,7 +34727,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14463",
-      "label": "Host Says Hitmen Say Daniel Balou Told Them It Was on Behalf of the Government",
+      "label": "Host Says Hitmen Say Daniel Beaulieu Told Them It Was on Behalf of the Government",
       "node_kind": "claim",
       "episode": 85
     },
@@ -34902,7 +34902,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14486",
-      "label": "Host Says Ackman Later Hosted a Hamptons Summit Where Kirk Raised Epstein",
+      "label": "Host Says Ackman Later Hosted the Hamptons Summit and Tucker Started Asking About Epstein",
       "node_kind": "claim",
       "episode": 85
     },
@@ -35525,7 +35525,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14567",
-      "label": "Host Says Zin Later Told People at Utah Valley Hospital He Was Paid",
+      "label": "Host Says Zinn Later Told People at Utah Valley Hospital He Was Paid",
       "node_kind": "claim",
       "episode": 87
     },
@@ -45178,7 +45178,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2346",
-      "label": "Host Says Carrie Prejean Bowler Questioned Seth Dillon",
+      "label": "Host Says Carrie Prejean Boller Questioned Seth Dillon",
       "node_kind": "claim",
       "episode": 71
     },
@@ -45346,14 +45346,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2370",
-      "label": "Per Dan Patrick's X Post, Carrie Prejean Bowler Was Removed from Religious Liberty Commission",
+      "label": "Per Dan Patrick's X Post, Carrie Prejean Boller Was Removed from Religious Liberty Commission",
       "node_kind": "claim",
       "episode": 73
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2371",
-      "label": "Carrie Prejean Bowler stated Catholics do not embrace Zionism at hearing",
+      "label": "Carrie Prejean Boller stated Catholics do not embrace Zionism at hearing",
       "node_kind": "claim",
       "episode": 73
     },
@@ -45528,7 +45528,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2419",
-      "label": "Epstein–Märtha Louise 2012 Email Discussed Lab-Designed Humans",
+      "label": "Epstein–Mette-Marit 2012 Email Discussed Lab-Designed Humans",
       "node_kind": "claim",
       "episode": 76
     },
@@ -45647,7 +45647,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2436",
-      "label": "Host Says Charlie Kirk Appeared on Ingram Angle 4:00-5:00 PM AZ on September 8",
+      "label": "Host Says Charlie Kirk Appeared on The Ingraham Angle 4:00-5:00 PM AZ on September 8",
       "node_kind": "claim",
       "episode": 76
     },
@@ -45948,7 +45948,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2479",
-      "label": "Bret Weinstein Says Charlie Kirk Spent Two Days at the White House on June 18, 2025 Lobbying Trump Against an Iran War",
+      "label": "Bret Weinstein Says Charlie Kirk Spent Two Days at the White House in June Lobbying Trump Against an Iran War",
       "node_kind": "claim",
       "episode": 79
     },
@@ -45962,7 +45962,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2481",
-      "label": "Per Host-Shared Text, Milo Yiannopoulos Said Ben Shapiro Sought to Commission Hit Jobs on Turning Point USA a Decade Ago",
+      "label": "Milo Yiannopoulos Says Ben Shapiro Sought to Commission Hit Jobs on Turning Point USA a Decade Ago",
       "node_kind": "claim",
       "episode": 79
     },
@@ -45983,7 +45983,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2484",
-      "label": "Ben Shapiro publicly pressed Michael Knowles to denounce Candace Owens on stage",
+      "label": "Ben Shapiro Publicly Pressed Michael Knowles to Denounce Candace Owens",
       "node_kind": "claim",
       "episode": 79
     },
@@ -46004,7 +46004,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2487",
-      "label": "Tucker Carlson disclosed that the CIA is preparing a criminal referral against him under FARA",
+      "label": "Tucker Carlson Says the CIA Is Preparing a Criminal Referral Against Him",
       "node_kind": "claim",
       "episode": 79
     },
@@ -46228,7 +46228,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2519",
-      "label": "Netanyahu Posts Huckabee Video March 15",
+      "label": "Netanyahu Posts Huckabee Video on Day of Show",
       "node_kind": "claim",
       "episode": 80
     },
@@ -46256,7 +46256,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2523",
-      "label": "Charlie Kirk Characterizes \"Prophecy as Policy\" Theologically Problematic",
+      "label": "Student in Kirk Clip Calls Prophecy as Policy Theologically Problematic",
       "node_kind": "claim",
       "episode": 80
     },
@@ -46382,7 +46382,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2541",
-      "label": "Mark Levin questioned Erika's video as AI production",
+      "label": "Mark Levin Asked Whether Rogan Segment Was an AI Production",
       "node_kind": "claim",
       "episode": 81
     },
@@ -46403,7 +46403,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2544",
-      "label": "Erika Kirk Was Inside Hopkinson Aircrafts Office When Notified of Charlie Kirk's Death",
+      "label": "Host Says Erika Kirk Was Allegedly Inside Hopkinson Aircrafts Office When Notified of Charlie Kirk's Death",
       "node_kind": "claim",
       "episode": 82
     },
@@ -46438,7 +46438,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2549",
-      "label": "Andrew Kolvet was unreachable from 1:47 PM MST until at least 4:18 PM MST because he was on a plane without Wi-Fi",
+      "label": "Host Says Text Thread Shows Kolvet Was on a Plane Without Wi-Fi and Streiff Told Aubrey at 4:18 PM to Wait Until He Was on the Ground",
       "node_kind": "claim",
       "episode": 82
     },
@@ -46480,7 +46480,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2555",
-      "label": "The \"Wi-Refi\" plane's 2020 charter listing does not market Wi-Fi as an amenity",
+      "label": "The \"Yrefy\" plane's 2020 charter listing does not market Wi-Fi as an amenity",
       "node_kind": "claim",
       "episode": 82
     },
@@ -46494,7 +46494,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2557",
-      "label": "\"Wi-Refi\" / \"RY Reef air\" and the alleged Santa Barbara → Scottsdale plane share identity",
+      "label": "\"Yrefy\" / \"RY Reef air\" and the alleged Santa Barbara → Scottsdale plane share identity",
       "node_kind": "claim",
       "episode": 82
     },
@@ -46704,14 +46704,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2587",
-      "label": "Jean-Luc Baguer, Frederick Vaglio, and Daniel Balou identified as principal conspirators",
+      "label": "Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Identified as Principal Conspirators",
       "node_kind": "claim",
       "episode": 85
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2588",
-      "label": "Daniel Balou attempted suicide in prison",
+      "label": "Daniel Beaulieu Attempted Suicide in Prison",
       "node_kind": "claim",
       "episode": 85
     },
@@ -47369,7 +47369,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2682",
-      "label": "Tyler Robinson Mirandized at 6:25 p.m. on September 11",
+      "label": "Defense Motion Places Tyler Robinson Miranda Advisement at 6:25 p.m. on September 11",
       "node_kind": "claim",
       "episode": 90
     },
@@ -47635,7 +47635,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2720",
-      "label": "Host Asserts 2-Year Enlistment Was Possible",
+      "label": "Host Says Viewer Could Be Onto Something and Marx's Service Was 2 Years",
       "node_kind": "claim",
       "episode": 91
     },
@@ -47705,7 +47705,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2730",
-      "label": "Per Text Host Shows, UGA High School Event Cancelled Monday Citing \"Scheduling Complications\"",
+      "label": "Per Text Host Shows, Georgia High School Event Cancelled Monday Citing \"Scheduling Complications\"",
       "node_kind": "claim",
       "episode": 92
     },
@@ -47901,7 +47901,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2758",
-      "label": "TPUSA insider acknowledges cancellation was not solely security-related",
+      "label": "Daily Mail Insider Says Cancellation Was Not Solely Security-Related",
       "node_kind": "claim",
       "episode": 93
     },
@@ -47915,7 +47915,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2760",
-      "label": "Viewer claims Amir Tsarfati was first to learn of the shooting",
+      "label": "Viewer Comment Says They First Heard the News From Amir Tsarfati",
       "node_kind": "claim",
       "episode": 93
     },
@@ -49028,7 +49028,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2920",
-      "label": "Kristoff Schweizer (BCG CEO) described Project Aurora as \"reputationally very damaging\"",
+      "label": "Christoph Schweizer (BCG CEO) described Project Aurora as \"reputationally very damaging\"",
       "node_kind": "claim",
       "episode": 110
     },
@@ -57967,7 +57967,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4199",
-      "label": "Host's follow-up asked about an April 25 email copied to Cheung, Smalley and Rippien",
+      "label": "Host's follow-up asked about an April 25 email copied to Cheung, Smalley and Rippeon",
       "node_kind": "claim",
       "episode": 106
     },
@@ -87871,7 +87871,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8471",
-      "label": "Host Says Carrie Prejean Bowler Called the Hearing Unacceptable",
+      "label": "Host Says Carrie Prejean Boller Called the Hearing Unacceptable",
       "node_kind": "claim",
       "episode": 73
     },
@@ -87885,7 +87885,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8473",
-      "label": "Carrie Prejean Bowler Asks Whether All Catholics Are Anti-Semites",
+      "label": "Carrie Prejean Boller Asks Whether All Catholics Are Anti-Semites",
       "node_kind": "claim",
       "episode": 73
     },
@@ -87906,7 +87906,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8476",
-      "label": "Host Says Zionists Demanded Carrie Prejean Bowler's Removal",
+      "label": "Host Says Zionists Demanded Carrie Prejean Boller's Removal",
       "node_kind": "claim",
       "episode": 73
     },
@@ -88081,7 +88081,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8501",
-      "label": "Host Says Audience at Hearing Booed Carrie Prejean Bowler for Saying She Is Catholic",
+      "label": "Host Says Audience at Hearing Booed Carrie Prejean Boller for Saying She Is Catholic",
       "node_kind": "claim",
       "episode": 73
     },
@@ -88389,14 +88389,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8545",
-      "label": "Neff says more evidence will be presented at the May evidentiary hearing",
+      "label": "Kolvet Says More Evidence Will Be Presented at the May Evidentiary Hearing",
       "node_kind": "claim",
       "episode": 82
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8546",
-      "label": "Neff says officials are telling journalists they would testify for the defense",
+      "label": "Kolvet Says Officials Are Telling Journalists They Would Testify for the Defense",
       "node_kind": "claim",
       "episode": 82
     },
@@ -110705,7 +110705,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1760.2",
-      "label": "Carrie Prejean Bowler Questioning of Seth Dillon at Religious Liberty Commission Hearing",
+      "label": "Carrie Prejean Boller Questioning of Seth Dillon at Religious Liberty Commission Hearing",
       "node_kind": "artifact",
       "episode": 71
     },
@@ -110957,7 +110957,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1776.2",
-      "label": "Segment: Carrie Prejean Bowler stating \"I'm a Catholic and Catholics do not embrace Zionism\"",
+      "label": "Segment: Carrie Prejean Boller stating \"I'm a Catholic and Catholics do not embrace Zionism\"",
       "node_kind": "artifact",
       "episode": 73
     },
@@ -110971,7 +110971,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1777.1",
-      "label": "X post by Dan Patrick announcing Carrie Prejean Bowler's removal from the Religious Liberty Commission",
+      "label": "X post by Dan Patrick announcing Carrie Prejean Boller's removal from the Religious Liberty Commission",
       "node_kind": "artifact",
       "episode": 73
     },
@@ -111461,7 +111461,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1818.3",
-      "label": "Charlie Kirk appearance on the Ingram Angle from the home studio, 4:00–5:00 PM Arizona time on September 8.",
+      "label": "Charlie Kirk appearance on the Ingraham Angle from the home studio, 4:00–5:00 PM Arizona time on September 8.",
       "node_kind": "artifact",
       "episode": 76
     },
@@ -111622,7 +111622,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1829.1",
-      "label": "Arizona SB 1439: Charlie Kirk Memorial Specialty License Plate bill (introduced by AJ Copp; pushed by Jake Hoffman)",
+      "label": "Arizona SB 1439: Charlie Kirk Memorial Specialty License Plate bill (introduced by Jake Hoffman; pushed by Jake Hoffman)",
       "node_kind": "artifact",
       "episode": 77
     },
@@ -112637,7 +112637,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1887.3",
-      "label": "2020 charter listing for the alleged \"Wi-Refi\" plane (Santa Barbara → Scottsdale leg) – listing amenities including belted lavatory, cabin power outlets, 5'7\" cabin height, refreshment center, and \"sa",
+      "label": "2020 charter listing for the alleged \"Yrefy\" plane (Santa Barbara → Scottsdale leg) – listing amenities including belted lavatory, cabin power outlets, 5'7\" cabin height, refreshment center, and \"sate",
       "node_kind": "artifact",
       "episode": 82
     },
@@ -113071,7 +113071,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1914.1",
-      "label": "Local Atlanta News Segment on FBI Bullet Lead Analysis Discontinuation (featuring national investigative reporter Chris Nakamoto; case subject: Jimmy Aids)",
+      "label": "Local Atlanta News Segment on FBI Bullet Lead Analysis Discontinuation (featuring national investigative reporter Chris Nakamoto; case subject: Jimmy Ates)",
       "node_kind": "artifact",
       "episode": 86
     },
@@ -114520,7 +114520,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2005.2",
-      "label": "Comment by user \"Joe Mattei\" referencing Erika's video comment \"Forgive Drewski like you forgave the shooter\"",
+      "label": "Comment by user \"Joe Mattei\" referencing Erika's video comment \"Forgive Druski like you forgave the shooter\"",
       "node_kind": "artifact",
       "episode": 94
     },
@@ -133427,7 +133427,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3071.1",
-      "label": "Host verbal walk through her reconstructed September 8, 2025 timeline from the Jezebel article through the Ingram Angle appearance (no on-screen graphic described)",
+      "label": "Host verbal walk through her reconstructed September 8, 2025 timeline from the Jezebel article through the Ingraham Angle appearance (no on-screen graphic described)",
       "node_kind": "artifact",
       "episode": 76
     },
@@ -133448,7 +133448,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3072.1",
-      "label": "Host verbal reference to her screen recording of the September 19 FaceTime with Tarro Farnsworth showing the back footage (not played)",
+      "label": "Host verbal reference to her screen recording of the September 19 FaceTime with Terryl Farnsworth showing the back footage (not played)",
       "node_kind": "artifact",
       "episode": 86
     },

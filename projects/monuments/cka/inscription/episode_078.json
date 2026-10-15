@@ -2243,7 +2243,6 @@
       "claim_timestamp": "00:08:25",
       "investigative_direction": "Obtain federal court docket for the Southern District of New York case, cross-reference Epstein-file redaction entries, and document Kushner/White House visit records for the brothers.",
       "mentions_person_refs": [
-        "N-179",
         "N-587",
         "N-588",
         "N-589"
@@ -2365,7 +2364,9 @@
       "tags": [],
       "claim_timestamp": "00:30:45",
       "investigative_direction": "Obtain high-resolution originals; have forensic imaging analysts characterize the scattered material and compare to TPUSA's account of vehicle interior condition.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -2451,7 +2452,7 @@
       "@id": "C-2467",
       "ref": "C-2467",
       "label": "Turning Point Action tweeted labeling Massie as needing to be replaced",
-      "claim": "Per the displayed Turning Point Action tweet, the organization characterized Massie as a \"rhino\" who needed to be replaced.",
+      "claim": "The host says Turning Point Action tweeted that Thomas Massie was a \"rhino\" who needed to be replaced, and shows the tweet.",
       "anchored_artifacts": [
         "A-1844.1"
       ],
@@ -2490,7 +2491,7 @@
       "@id": "C-2469",
       "ref": "C-2469",
       "label": "Charlie Kirk praised Massie as favorite congressman in multiple clips across years",
-      "claim": "Per the displayed video instances cited in Massie's reply tweet and host commentary, Charlie Kirk identified Massie as a favorite congressman on multiple occasions from at least 2016 through 2023.",
+      "claim": "The host says Massie's reply shows a tweet of Charlie Kirk calling Massie one of his favorite congressmen, and that Massie had been Charlie's favorite congressman from at least 2016 through 2023.",
       "anchored_artifacts": [
         "A-1843.1",
         "A-1845.1"
@@ -2618,7 +2619,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:59",
-      "investigative_direction": "Cross-reference with documented post-1970s directives from David Berg and successor leadership regarding dispersal strategy; examine nonprofit registration patterns of former members."
+      "investigative_direction": "Cross-reference with documented post-1970s directives from David Berg and successor leadership regarding dispersal strategy; examine nonprofit registration patterns of former members.",
+      "mentions_person_refs": [
+        "N-585"
+      ]
     },
     {
       "@type": "Claim",
@@ -2661,8 +2665,7 @@
         "C-10270"
       ],
       "mentions_person_refs": [
-        "N-2",
-        "N-571"
+        "N-2"
       ]
     },
     {
@@ -3079,7 +3082,7 @@
       "@id": "C-12691",
       "ref": "C-12691",
       "label": "Host Says Kolvet Said He Was Calling In While Actually Together in DC",
-      "claim": "The host says that on the episode Kolvet said he was calling in and never does this, while, she says, the team was together in DC.",
+      "claim": "The host says that on the episode Kolvet said he was calling in and never does this, while, she says, they were together in DC.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10522"
@@ -3139,7 +3142,8 @@
         "C-10260"
       ],
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-585"
       ]
     },
     {
@@ -3283,7 +3287,7 @@
       "@id": "C-12700",
       "ref": "C-12700",
       "label": "Host Says the Marines Crossman Partnered With Were Later Accused of Prostituting Children",
-      "claim": "The host says the US Marines Crossman partnered with were later accused of wrongdoing, namely prostituting children.",
+      "claim": "The host says the US Marines Crossman partnered with were going to be accused of wrongdoing, namely prostituting children.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11165"
@@ -3404,7 +3408,7 @@
       "@type": "Claim",
       "@id": "C-12706",
       "ref": "C-12706",
-      "label": "Host Says TPUSA Told a Story About Having So Much Gauze",
+      "label": "Host Says They Told a Story About Having So Much Gauze",
       "claim": "The host says the Turning Point side told a story about how they had so much gauze in the vehicle.",
       "anchored_artifacts": [
         "A-1841.2"
@@ -3786,8 +3790,8 @@
       "transcript_snippet": "Turning Point Action which is run by Tyler Bowyer and which kicks money back to Erika's mother via Superfeed tweeted out that Thomas Massie was a rhino who needed to be replaced.",
       "mentions_person_refs": [
         "N-11",
-        "N-490",
-        "N-582"
+        "N-2",
+        "N-490"
       ]
     },
     {
@@ -3836,7 +3840,7 @@
       "@id": "C-12726",
       "ref": "C-12726",
       "label": "Host Says Turning Point Quickly Brought Out People Charlie Disliked and Gave New York Times Interviews",
-      "claim": "The host says Turning Point acted as though it were under pressure and instantly brought out the people Charlie did not like, doing interviews with the New York Times, everyone who gave him grief while he was alive; she had said she would have waited a year before introducing the Mark Levins and Ben Shapiros.",
+      "claim": "The host says Turning Point acted as though it were under pressure and instantly brought out the people Charlie did not like, doing interviews with the New York Times, everyone who gave him grief while he was alive; she said that if she were staging a Zionist ideology takeover she would have waited a year before introducing the Mark Levins and Ben Shapiros.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3912,7 +3916,10 @@
       ],
       "claim_timestamp": "00:48:44",
       "investigative_direction": "Find local Arkansas coverage or social posts of the protests and the proclamation text.",
-      "transcript_snippet": "I did see they were protesting that in Arkansas. Good. Okay, they don't need a proclamation from a Huckabee to decide if they want to open a student club."
+      "transcript_snippet": "I did see they were protesting that in Arkansas. Good. Okay, they don't need a proclamation from a Huckabee to decide if they want to open a student club.",
+      "mentions_person_refs": [
+        "N-583"
+      ]
     },
     {
       "@type": "Claim",
@@ -4327,7 +4334,8 @@
       "investigative_direction": "Check the pardon record and ambassadorial appointment for the Kushner family member the host means.",
       "transcript_snippet": "it's one thing like give someone a pardon, but it's another thing then like give them power. You know, have the ambassador to France.",
       "mentions_person_refs": [
-        "N-179"
+        "N-179",
+        "N-5"
       ]
     }
   ],

@@ -249,7 +249,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 *Related: C-2787*
 
-**A-2005.2** Comment by user "Joe Mattei" referencing Erika's video comment "Forgive Drewski like you forgave the shooter"
+**A-2005.2** Comment by user "Joe Mattei" referencing Erika's video comment "Forgive Druski like you forgave the shooter"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -1074,7 +1074,7 @@ Investigative Direction: Verify identity of grandfather from court records and c
 
 Claim Timestamp: 00:04:45
 
-Claim: The grandfather states his father (Tyler Robinson's great-grandfather) was a cop who taught him ballistics.
+Claim: In a recording the host plays, the grandfather says his dad was a cop who showed him all of this; the host says this was Tyler Robinson's great-grandfather, who taught him ballistics.
 
 Anchored Artifacts: A-1993.1
 Mentions: N-40
@@ -1104,7 +1104,7 @@ Investigative Direction: Obtain forensic pathology documentation regarding the a
 
 Claim Timestamp: 00:10:02
 
-Claim: Defense attorney Richard Novak states the defense has not received the data files (electronic quantification/digitization of physical evidence) from ATF/FBI forensic examiners needed to analyze statistical results.
+Claim: Defense attorney Richard Novak states the defense has not received the data files (electronic quantification/digitization of physical evidence) needed to analyze the forensic examiners' statistical results, saying the ATF provided material only in the last 3 weeks and the FBI still has not.
 
 Anchored Artifacts: A-1994.1
 Mentions: N-426
@@ -1416,7 +1416,7 @@ Investigative Direction: Cross-reference with prior episodes where similar claim
 
 **C-2788** YouTube Comment Raises Tyler Robinson's Roommate as Potential Suspect
 
-Claim Timestamp: 01:01:45
+Claim Timestamp: 01:01:14
 
 Claim: A YouTube comment from Queen Saxi that the host reads asks whether Tyler Robinson's roommate helped set him up, citing similar build and dark hair and his absence.
 
@@ -1469,7 +1469,7 @@ Claim: The host says the rifle was found after federal agents led rookie police 
 Transcript Snippet: The one that the feds led the police officers to, the rookie police officers to, after the dogs had already searched that particular area.
 
 Anchored Artifacts: 
-Mentions: N-40, N-1
+Mentions: N-3
 Related Nodes: N-10360
 Tags: relevance:core
 Investigative Direction: Obtain the incident log, K-9 deployment records and bodycam for the rifle discovery to establish who located it, when, and whether the area had been searched by dogs first.
@@ -1981,7 +1981,7 @@ Investigative Direction: Retrieve the January 16 filing and find precedent for v
 
 Claim Timestamp: 00:18:39
 
-Claim: The host says the prosecution side wants to demand cameras inside the courtroom and deliver a show hearing while the defense cannot counter what is presented.
+Claim: The host says she believes the prosecution side wants to demand cameras inside the courtroom and deliver a show hearing while the defense cannot counter what is presented.
 
 Transcript Snippet: They want to demand cameras inside of the courtroom, and then deliver the show trial, the show hearing of the century, right?
 
@@ -2313,11 +2313,11 @@ Investigative Direction: Compare the post style with verified Trump speech and w
 
 ---
 
-**C-13400** Host Says the Follow-up Post Mentioned Megyn Kelly Again Without Naming Her
+**C-13400** Host Says the Follow-up Post Mentioned Megyn Kelly Again Without Calling Her a Name
 
 Claim Timestamp: 00:35:29
 
-Claim: The host says Trump's follow-up post mentioned Megyn Kelly again, but she was not named that time.
+Claim: The host says Trump's follow-up post mentioned Megyn Kelly again but did not call her a name that time, joking that Kelly got called two names to the host's three.
 
 Transcript Snippet: He mentioned Megyn Kelly again. She didn't get a name that time.
 

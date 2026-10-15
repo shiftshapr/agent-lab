@@ -322,19 +322,19 @@ Confidence Level: Medium
 
 # Node Register
 
-**N-410** Daniel Balou
+**N-410** Daniel Beaulieu
 
 First named by the host at 00:10:32 in episode 85.
 
 *Related: C-2587, C-2588*
 
-**N-409** Frederick Vaglio
+**N-409** Frédéric Vaglio
 
 First named by the host at 00:10:32 in episode 85.
 
 *Related: C-2587, C-2588*
 
-**N-398** Jean-Luc Baguer
+**N-398** Jean-Luc Bagur
 
 First named by the host at 00:10:32 in episode 85.
 
@@ -1081,7 +1081,7 @@ Investigative Direction: Verify via the original Guardian article and French cou
 
 Claim Timestamp: 00:06:50
 
-Claim: Prosecutors allege the Athanor lodge group carried out murder, attempted murder, aggravated assault, and criminal conspiracy on behalf of a mafia network inside the lodge.
+Claim: Per a Guardian article the host reads aloud, prosecutors allege the Athanor lodge group carried out murder, attempted murder, aggravated assault, and criminal conspiracy on behalf of a mafia network inside the lodge.
 
 Anchored Artifacts: A-1903.1
 Related Nodes: N-10568
@@ -1117,7 +1117,7 @@ Investigative Direction: Verify date and circumstances of arrest via French pres
 
 Claim Timestamp: 00:08:53
 
-Claim: The hitmen told investigators they believed they had been asked to murder Dini on behalf of the French state.
+Claim: Per a Guardian article the host reads aloud, the hitmen told investigators they believed they had been asked to murder Dini on behalf of the French state.
 
 Anchored Artifacts: A-1903.1
 Related Nodes: N-10568
@@ -1129,7 +1129,7 @@ Investigative Direction: Verify investigator statements in court filings.
 
 Claim Timestamp: 00:08:55
 
-Claim: The hitmen stated they were targeting Dini on the grounds that she worked for the Israeli spy agency, the Mossad.
+Claim: Per a Guardian article the host reads aloud, the hitmen stated they were targeting Dini on the grounds that she worked for the Israeli spy agency, the Mossad.
 
 Anchored Artifacts: A-1903.1
 Related Nodes: N-10568
@@ -1137,11 +1137,11 @@ Investigative Direction: Verify whether this allegation appears in formal charge
 
 ---
 
-**C-2587** Jean-Luc Baguer, Frederick Vaglio, and Daniel Balou identified as principal conspirators
+**C-2587** Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Identified as Principal Conspirators
 
 Claim Timestamp: 00:10:32
 
-Claim: Jean-Luc Baguer is identified as a ringleader of the alleged conspiracy, alongside co-conspirators Frederick Vaglio and Daniel Balou.
+Claim: The host says Jean-Luc Bagur was a ringleader of the alleged conspiracy, alongside fellow Freemasons Frédéric Vaglio and Daniel Beaulieu.
 
 Anchored Artifacts: A-1903.1
 Mentions: N-410, N-409, N-398
@@ -1150,11 +1150,11 @@ Investigative Direction: Verify role assignments via French court documents.
 
 ---
 
-**C-2588** Daniel Balou attempted suicide in prison
+**C-2588** Daniel Beaulieu Attempted Suicide in Prison
 
 Claim Timestamp: 00:11:16
 
-Claim: The host says Daniel Balou, a retired intelligence officer, had an apparent suicide attempt while in prison, and that he is now impaired and will not be able to testify.
+Claim: The host says Daniel Beaulieu, a retired intelligence officer, had an apparent suicide attempt while in prison, and that he is now impaired and will not be able to testify.
 
 Anchored Artifacts: A-1903.1
 Mentions: N-410
@@ -1165,9 +1165,9 @@ Investigative Direction: Verify incident via French press reporting or court rec
 
 **C-2589** Erika Kirk affirmed belief that Tyler Robinson murdered Charlie Kirk
 
-Claim Timestamp: 00:17:32
+Claim Timestamp: 00:16:59
 
-Claim: In an interview with Bari Weiss, Erika Kirk stated "Yes, I do" in response to the question of whether she believes Tyler Robinson murdered her husband.
+Claim: In a clip the host plays of an interview with Bari Weiss, Erika Kirk says "Yes, I do" in response to the question of whether she believes Tyler Robinson murdered her husband.
 
 Anchored Artifacts: A-1904.1
 Mentions: N-1, N-2, N-40, N-279
@@ -1191,7 +1191,7 @@ Investigative Direction: Determine whether such access is procedurally consisten
 
 Claim Timestamp: 00:19:47
 
-Claim: Frank Turek stated he was present when a doctor informed him of Charlie Kirk's death and that he then needed to "talk to Erika."
+Claim: In a clip the host plays, Frank Turek says they were all standing in the hall when a doctor came out and said Charlie Kirk was dead, and that he then said "I need to talk to Erika."
 
 Anchored Artifacts: A-1905.1
 Mentions: N-2, N-1, N-7
@@ -1226,9 +1226,9 @@ Investigative Direction: Cross-check with other accounts of plane arrangements.
 
 **C-2594** Candace Owens' November tweet asserted French Legion training and multi-state involvement
 
-Claim Timestamp: 00:15:25
+Claim Timestamp: 00:14:53
 
-Claim: In a November 2025 tweet, Candace Owens stated she had a source inside the French government who told her the French intervention group was involved in the assassination, and that Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement.
+Claim: In a November tweet the host shows, Candace Owens stated she had a source inside the French government who told her the French intervention group was involved in the assassination, and that Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement.
 
 Anchored Artifacts: A-1906.1
 Mentions: N-3, N-1
@@ -1534,7 +1534,7 @@ Investigative Direction: Verify with the ITU country-code list: +33 is France's 
 
 Claim Timestamp: 00:04:42
 
-Claim: The host says Scottish Rite Freemasonry originated in France, after Jacques de Molay was burned at the stake and the Pope dissolved the group over accusations of Baal worship and sexual rites, and that members then left for Scotland.
+Claim: The host says Scottish Rite Freemasonry originated in France, after Jacques de Molay was hanged or burned at the stake and the Pope dissolved the group over accusations of Baal worship and sexual rites, and that members then left for Scotland.
 
 Transcript Snippet: the Scottish Rite Freemasonry actually originated in France, okay?
 
@@ -1628,11 +1628,11 @@ Investigative Direction: Seek the tipster and any documentary basis (1950s press
 
 ---
 
-**C-14463** Host Says Hitmen Say Daniel Balou Told Them It Was on Behalf of the Government
+**C-14463** Host Says Hitmen Say Daniel Beaulieu Told Them It Was on Behalf of the Government
 
 Claim Timestamp: 00:10:32
 
-Claim: The host says the hitmen say that Daniel Balou, a retired intelligence officer, told them they were carrying out the killing on behalf of the government.
+Claim: The host says the hitmen say that Daniel Beaulieu, a retired intelligence officer, told them they were carrying out the killing on behalf of the government.
 
 Transcript Snippet: the hitmen say that Daniel is the one that told them that they were doing this on behalf of the government.
 
@@ -1912,7 +1912,7 @@ Claim: In the Turek clip, Turek says Mikey pulled himself together, called who n
 Transcript Snippet: Somehow Mikey pulled himself together. Called who needed to be called, asked the doctors all the hard questions.
 
 Anchored Artifacts: A-1905.1
-Mentions: N-7, N-191
+Mentions: N-7, N-191, N-2
 Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Match with call logs for Mikey McCoy at the hospital and with hospital staff accounts of who questioned the doctors.
@@ -2001,16 +2001,16 @@ Investigative Direction: Check the July 14, 2025 Charlie Kirk Show episode guest
 
 ---
 
-**C-14486** Host Says Ackman Later Hosted a Hamptons Summit Where Kirk Raised Epstein
+**C-14486** Host Says Ackman Later Hosted the Hamptons Summit and Tucker Started Asking About Epstein
 
 Claim Timestamp: 00:21:44
 
-Claim: The host says that a couple of weeks later Bill Ackman hosted the notorious summit in the Hamptons, and that Kirk started asking about Epstein.
+Claim: The host says that a couple of weeks later Bill Ackman would host the notorious summit in the Hamptons, and that Tucker Carlson started asking about Epstein.
 
 Transcript Snippet: A couple of weeks later, Bill Ackman would be hosting the notorious, um, summit in the Hamptons, and that he started asking about Epstein.
 
 Anchored Artifacts: 
-Mentions: N-37, N-1, N-9, N-3
+Mentions: N-37, N-22, N-9, N-3
 Related Nodes: N-10027, N-10446
 Tags: relevance:core
 Investigative Direction: Match the summit date, attendee list and what Kirk asked about Epstein with the host's earlier Hamptons accounts and other attendees.

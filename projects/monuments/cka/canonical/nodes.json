@@ -6504,7 +6504,7 @@
       ]
     },
     "N-398": {
-      "canonical_name": "Jean-Luc Baguer",
+      "canonical_name": "Jean-Luc Bagur",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -6596,7 +6596,7 @@
       ]
     },
     "N-409": {
-      "canonical_name": "Frederick Vaglio",
+      "canonical_name": "Fr\u00e9d\u00e9ric Vaglio",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -6604,7 +6604,7 @@
       ]
     },
     "N-410": {
-      "canonical_name": "Daniel Balou",
+      "canonical_name": "Daniel Beaulieu",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -6853,7 +6853,6 @@
       "canonical_name": "Christoph Schweizer",
       "type": "person",
       "aliases": [
-        "Kristoff Schweizer",
         "Kristoff Schweiser"
       ],
       "episodes": [
@@ -8041,12 +8040,9 @@
       ]
     },
     "N-555": {
-      "canonical_name": "Carrie Prejean Bowler",
+      "canonical_name": "Carrie Prejean Boller",
       "type": "person",
-      "aliases": [
-        "Carrie Prejean Boller",
-        "Carrie Preene Bowler"
-      ],
+      "aliases": [],
       "episodes": [
         71,
         72,
@@ -8278,7 +8274,7 @@
       ]
     },
     "N-580": {
-      "canonical_name": "AJ Copp",
+      "canonical_name": "Jake Hoffman",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -8454,9 +8450,7 @@
     "N-597": {
       "canonical_name": "Druski",
       "type": "person",
-      "aliases": [
-        "Drewski"
-      ],
+      "aliases": [],
       "episodes": [
         84,
         93,
@@ -8724,9 +8718,7 @@
       "canonical_name": "Ryan Rippeon",
       "type": "person",
       "aliases": [
-        "Capt. Ryan A. Rippeon",
-        "Ryan Ripian",
-        "Ryan Rippien"
+        "Capt. Ryan A. Rippeon"
       ],
       "episodes": [
         104,
@@ -8886,9 +8878,7 @@
     "N-640": {
       "canonical_name": "Ed Gallrein",
       "type": "person",
-      "aliases": [
-        "Ed Galvin"
-      ],
+      "aliases": [],
       "episodes": [
         108
       ]

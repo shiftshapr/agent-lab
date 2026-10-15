@@ -435,7 +435,7 @@
           "@type": "Artifact",
           "@id": "A-2005.2",
           "ref": "A-2005.2",
-          "description": "Comment by user \"Joe Mattei\" referencing Erika's video comment \"Forgive Drewski like you forgave the shooter\"",
+          "description": "Comment by user \"Joe Mattei\" referencing Erika's video comment \"Forgive Druski like you forgave the shooter\"",
           "related_claims": [],
           "related_nodes": [],
           "tags": [],
@@ -2227,7 +2227,7 @@
       "@id": "C-2765",
       "ref": "C-2765",
       "label": "Tyler Robinson's Grandfather Cites Great-Grandfather's Law Enforcement Background",
-      "claim": "The grandfather states his father (Tyler Robinson's great-grandfather) was a cop who taught him ballistics.",
+      "claim": "In a recording the host plays, the grandfather says his dad was a cop who showed him all of this; the host says this was Tyler Robinson's great-grandfather, who taught him ballistics.",
       "anchored_artifacts": [
         "A-1993.1"
       ],
@@ -2263,7 +2263,7 @@
       "@id": "C-2767",
       "ref": "C-2767",
       "label": "Richard Novak States Defense Lacks Forensic Data Files",
-      "claim": "Defense attorney Richard Novak states the defense has not received the data files (electronic quantification/digitization of physical evidence) from ATF/FBI forensic examiners needed to analyze statistical results.",
+      "claim": "Defense attorney Richard Novak states the defense has not received the data files (electronic quantification/digitization of physical evidence) needed to analyze the forensic examiners' statistical results, saying the ATF provided material only in the last 3 weeks and the FBI still has not.",
       "anchored_artifacts": [
         "A-1994.1"
       ],
@@ -2675,7 +2675,7 @@
         "N-10634"
       ],
       "tags": [],
-      "claim_timestamp": "01:01:45",
+      "claim_timestamp": "01:01:14",
       "investigative_direction": "Identify Tyler Robinson's roommate from public records; check his status and any investigative attention.",
       "mentions_person_refs": [
         "N-40"
@@ -2738,8 +2738,7 @@
       "investigative_direction": "Obtain the incident log, K-9 deployment records and bodycam for the rifle discovery to establish who located it, when, and whether the area had been searched by dogs first.",
       "transcript_snippet": "The one that the feds led the police officers to, the rookie police officers to, after the dogs had already searched that particular area.",
       "mentions_person_refs": [
-        "N-40",
-        "N-1"
+        "N-3"
       ]
     },
     {
@@ -3442,7 +3441,7 @@
       "@id": "C-13379",
       "ref": "C-13379",
       "label": "Host Says Erika's Team Wants Cameras Inside the Courtroom for a Show Hearing",
-      "claim": "The host says the prosecution side wants to demand cameras inside the courtroom and deliver a show hearing while the defense cannot counter what is presented.",
+      "claim": "The host says she believes the prosecution side wants to demand cameras inside the courtroom and deliver a show hearing while the defense cannot counter what is presented.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11149",
@@ -3904,8 +3903,8 @@
       "@type": "Claim",
       "@id": "C-13400",
       "ref": "C-13400",
-      "label": "Host Says the Follow-up Post Mentioned Megyn Kelly Again Without Naming Her",
-      "claim": "The host says Trump's follow-up post mentioned Megyn Kelly again, but she was not named that time.",
+      "label": "Host Says the Follow-up Post Mentioned Megyn Kelly Again Without Calling Her a Name",
+      "claim": "The host says Trump's follow-up post mentioned Megyn Kelly again but did not call her a name that time, joking that Kelly got called two names to the host's three.",
       "anchored_artifacts": [
         "A-1995.2"
       ],

@@ -1,0 +1,753 @@
+[
+ {
+  "claim": "C-2476",
+  "episode": 79,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Private texts are only shown by the host ('here's what I shared... Charlie said regarding Ben, \"He is unhinged. Stay the course.\"'); claim states them as fact rather than per the texts she shares.",
+  "fix": {
+   "claim": "Per text messages the host shares, Charlie Kirk wrote of Ben Shapiro, \"He is unhinged. Stay the course.\""
+  }
+ },
+ {
+  "claim": "C-2477",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: 'The Talmud is not biblical, but it is their rabbinical interpretations of Judaism.' Framed as a text exchange the host presents.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2478",
+  "episode": 79,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Text read: 'Disgrace. They are a disgrace family. A disgraceful family'; 'for the ways in which they have betrayed Americans and allowed for mass murder...' is the host's gloss, not Kirk's text. Also private texts stated as fact.",
+  "fix": {
+   "claim": "Per text messages the host shares, Charlie Kirk wrote of the McCains, \"Disgrace. They are a disgrace family. A disgraceful family\"; the host adds that they betrayed Americans and allowed for mass murder and bloody wars overseas."
+  }
+ },
+ {
+  "claim": "C-2479",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Bret says 'On June 18th' with no year; label adds '2025'.",
+  "fix": {
+   "label": "Bret Weinstein Says Charlie Kirk Spent Two Days at the White House in June Lobbying Trump Against an Iran War"
+  }
+ },
+ {
+  "claim": "C-2480",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2481",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The 'decade ago' line is from Milo's own post ('he wrote'), and Milo shared the back-and-forth; the claim places it inside the text exchange and says the host shares it.",
+  "fix": {
+   "label": "Milo Yiannopoulos Says Ben Shapiro Sought to Commission Hit Jobs on Turning Point USA a Decade Ago",
+   "claim": "Per a post by Milo Yiannopoulos that the host reads, Milo wrote that Ben Shapiro \"began seek to secretly commission hit jobs on Turning Point USA a decade ago,\" and in a text exchange Milo shared, Charlie Kirk replied that he wanted to allow it to \"play out\" before saying something."
+  }
+ },
+ {
+  "claim": "C-2482",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Here's what she actually wrote on X. She wrote, \"Stop sharing dead people's text messages, you absolute psychopaths.\"'",
+  "fix": {}
+ },
+ {
+  "claim": "C-2483",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2484",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host introduces it as 'a public discussion with Michael' and plays a clip; 'on stage' is not stated.",
+  "fix": {
+   "label": "Ben Shapiro Publicly Pressed Michael Knowles to Denounce Candace Owens",
+   "claim": "In a clip the host plays of a public discussion, Ben Shapiro presses Michael Knowles to state \"the sentence with her name in it\" regarding Candace Owens allegedly attacking \"Erika Kirk,\" with Knowles refusing."
+  }
+ },
+ {
+  "claim": "C-2485",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2486",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2487",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Tucker hedges: 'the crime under consideration apparently would be the Foreign Agent Act or something like that'; he never says FARA and adds 'I doubt it'll even become a case'.",
+  "fix": {
+   "label": "Tucker Carlson Says the CIA Is Preparing a Criminal Referral Against Him",
+   "claim": "Tucker Carlson stated in a video that \"the CIA is preparing some kind of criminal referral against me, a crime report to Department of Justice on the basis of a supposed crime I committed... talking to people in Iran before the war,\" and that the crime under consideration \"apparently would be the Foreign Agent Act or something like that.\""
+  }
+ },
+ {
+  "claim": "C-2488",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Node name 'Georgia Meloni' is a misspelling of Giorgia Meloni (https://en.wikipedia.org/wiki/Giorgia_Meloni); claim text only says 'Meloni'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2489",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2490",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Loomer's post: 'I have attached my supporting evidence. As I told the DOJ, Tucker Carlson isn't the only one who is likely violating FARA.' It does not say she provided the list to the DOJ.",
+  "fix": {
+   "claim": "Laura Loomer posted on X claiming to have \"created a list... Of conservative influence who I believe are taking money from Iran, Russia, and Qatar\" and wrote, \"As I told the DOJ, Tucker Carlson isn't the only one who is likely violating FARA.\""
+  }
+ },
+ {
+  "claim": "C-2491",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "The quoted post names 'the Epstein list'; Jeffrey Epstein (N-9) is named but not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-9"
+   ]
+  }
+ },
+ {
+  "claim": "C-2492",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2493",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says she sat down to 'publish my thoughts'; 'fake it till you make it' is her spoken framing before 'this is what I wrote', not in the piece she reads.",
+  "fix": {
+   "claim": "Candace Owens published her thoughts (read aloud in this episode), quoting Jordan Peterson (\"you cannot twist the fabric of reality without it snapping back\") and arguing Zionists are \"their own worst enemy\"; she says separately that they were trying a \"fake it till you make it\" strategy with war."
+  }
+ },
+ {
+  "claim": "C-11235",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11236",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11237",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11238",
+  "episode": 79,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Kelly's reply: 'Poor little Ben, and I do mean little, desperate for me to protect him. Can you imagine being this emasculated? It's sad.' 'Why have they been stalking and harassing Megyn Kelly? Nobody knows.' is the host's own commentary.",
+  "fix": {
+   "label": "Host Reads Megyn Kelly Reply Calling Shapiro Poor Little Ben",
+   "claim": "The host reads Megyn Kelly's reply to Shapiro, which calls him \"Poor little Ben\" and says he is \"desperate for me to protect him\"; the host then asks why they have been stalking and harassing Megyn Kelly."
+  }
+ },
+ {
+  "claim": "C-11239",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11240",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11241",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'And he showed the messages' follows Milo's quote and leads into 'Milo says, \"This is Ben...\"'; it refers to Milo showing his exchange with Kirk, not Kirk showing Milo messages.",
+  "fix": {
+   "claim": "The host reads Milo Yiannopoulos saying that while he and Kirk were briefly friends, all Kirk talked about was how amazing Candace was and how evil Ben Shapiro is, and says Milo showed the messages."
+  }
+ },
+ {
+  "claim": "C-11242",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Content at end of 07:35 block (~08:45), within 75s.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11243",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11244",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11245",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11246",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11247",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11248",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11249",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11250",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'The matter' is whether his opposition 'somehow resulted in his murder', not whether it 'mattered'.",
+  "fix": {
+   "claim": "The host reads Weinstein saying that a good investigation could have settled whether Kirk's opposition resulted in his murder, and that what was produced only increases the reason for concern."
+  }
+ },
+ {
+  "claim": "C-11251",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11252",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11253",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11254",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11255",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11256",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11257",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11258",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11259",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11260",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11261",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11262",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11263",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11264",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11265",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11266",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11267",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11268",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11269",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11270",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11271",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11272",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11273",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11274",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11275",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11276",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

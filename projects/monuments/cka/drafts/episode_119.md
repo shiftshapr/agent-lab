@@ -499,7 +499,7 @@ First named by the host at 00:37:29 in episode 119 (in Rob McCoy's sermon clip).
 
 **N-597** Druski
 
-First named by the host at 00:58:50 in episode 119. Comedian whom the host says Erika Kirk called out for a joke. Aliases: Drewski.
+First named by the host at 00:58:50 in episode 119. Comedian whom the host says Erika Kirk called out for a joke. Aliases: Druski.
 
 *Related: C-4837*
 
@@ -1680,7 +1680,7 @@ Claim Timestamp: 01:00:01
 
 Claim: The host says that in a recent appearance Erika Kirk called out comedian Druski for a joke and mentioned the host's name, while also forgiving Tyler Robinson.
 
-Transcript Snippet: calling out Drewski for a joke while forgiving Tyler Robinson and throwing my name in it for no reason.
+Transcript Snippet: calling out Druski for a joke while forgiving Tyler Robinson and throwing my name in it for no reason.
 
 Anchored Artifacts:
 Mentions: N-2, N-597, N-40, N-3

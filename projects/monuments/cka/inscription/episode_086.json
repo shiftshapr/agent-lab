@@ -88,7 +88,7 @@
           "@type": "Artifact",
           "@id": "A-1914.1",
           "ref": "A-1914.1",
-          "description": "Local Atlanta News Segment on FBI Bullet Lead Analysis Discontinuation (featuring national investigative reporter Chris Nakamoto; case subject: Jimmy Aids)",
+          "description": "Local Atlanta News Segment on FBI Bullet Lead Analysis Discontinuation (featuring national investigative reporter Chris Nakamoto; case subject: Jimmy Ates)",
           "related_claims": [
             "C-2612"
           ],
@@ -194,7 +194,7 @@
           "@type": "Artifact",
           "@id": "A-3072.1",
           "ref": "A-3072.1",
-          "description": "Host verbal reference to her screen recording of the September 19 FaceTime with Tarro Farnsworth showing the back footage (not played)",
+          "description": "Host verbal reference to her screen recording of the September 19 FaceTime with Terryl Farnsworth showing the back footage (not played)",
           "related_claims": [
             "C-10307",
             "C-10308",
@@ -1300,7 +1300,7 @@
       "ref": "N-11256",
       "name": "Back-Footage FaceTime Recording Inquiry",
       "type": "topic",
-      "description": "Topic. The host's account that on September 20, 2025 TPUSA leadership and the FBI were asking whether she had recorded Tarro Farnsworth's September 19 FaceTime showing the back-camera footage.",
+      "description": "Topic. The host's account that on September 20, 2025 TPUSA leadership and the FBI were asking whether she had recorded Terryl Farnsworth's September 19 FaceTime showing the back-camera footage.",
       "related_artifacts": [],
       "related_claims": [
         "C-10308",
@@ -1504,7 +1504,7 @@
       "@id": "C-2619",
       "ref": "C-2619",
       "label": "Andrew Kolvet Tweet: \"Man of Steel\" Surgeon Quote",
-      "claim": "In the same September 20, 2025 post, Andrew Kolvet attributed a quote to a surgeon who worked on Charlie Kirk at the hospital stating that Kirk's bone density was so healthy that he was \"like the man of steel\" and that it was a miracle no one behind Kirk was struck.",
+      "claim": "In the same September 20, 2025 post, Andrew Kolvet attributed a quote to a surgeon who worked on Charlie Kirk at the hospital stating that Kirk's bone density was so healthy that he was \"like the man of steel\" and that it was a miracle no one behind Kirk was killed.",
       "anchored_artifacts": [
         "A-1913.1"
       ],
@@ -1571,7 +1571,7 @@
       "@id": "C-2623",
       "ref": "C-2623",
       "label": "Host Concurs With Kim Haven's Assessment",
-      "claim": "The host says Frank Turek's account of announcing \"He's dead. He's dead. I need to speak to Erika\" did not ring true, citing her producer Ashley's questions about how he knew Erika's name within 30 minutes and saying it feels like someone writing a script.",
+      "claim": "The host says Frank Turek's account of the surgeon announcing \"He's dead. He's dead. I need to speak to Erika\" did not ring true, citing her producer Ashley's questions about how the surgeon knew Erika's name within 30 minutes and saying it feels like someone writing a script.",
       "anchored_artifacts": [
         "A-1916.1"
       ],
@@ -1588,7 +1588,7 @@
       "@id": "C-2624",
       "ref": "C-2624",
       "label": "Host Says FBI CBLA Revival Is Corrupt",
-      "claim": "The host concurs that the FBI's planned revival of comparative bullet lead analysis – a technique discontinued in 2005 – in the Tyler Robinson case is indicative of federal corruption.",
+      "claim": "The host says the FBI's planned use of comparative bullet lead analysis – a technique discontinued in 2005 – in the Tyler Robinson case shows the feds are going to make the bullet fit no matter what, and that they have been corrupt since the beginning.",
       "anchored_artifacts": [
         "A-1912.1",
         "A-1914.1"
@@ -1608,7 +1608,7 @@
       "@id": "C-2625",
       "ref": "C-2625",
       "label": "Host Disagrees With \"Man of Steel\" Medical Framing",
-      "claim": "The host rejects the medical plausibility of Andrew Kolvet's \"man of steel\"/bone-density framing in the September 20, 2025 tweet, asserting it is not how serious trauma surgeons communicate.",
+      "claim": "The host says the \"man of steel\" framing in Andrew Kolvet's September 20, 2025 tweet came from Erika Kirk saying Charlie ate healthy and had a neck like Superman, calls it girly and emotional, and says it is not how serious trauma surgeons communicate.",
       "anchored_artifacts": [
         "A-1913.1"
       ],
@@ -1662,7 +1662,7 @@
       "@id": "C-10300",
       "ref": "C-10300",
       "label": "Farnsworth grabbed Kirk's chair and removed the SD card minutes after the shot",
-      "claim": "The host says that, a mere four minutes she thinks, after Charlie Kirk was carried to the SUV, Tarro Farnsworth came down from his recording position, took the chair Kirk had been sitting in, stood on it and removed the SD card from the camera behind Kirk's head.",
+      "claim": "The host says that, a mere four minutes she thinks, after Charlie Kirk was carried to the SUV, Terryl Farnsworth came down from his recording position, took the chair Kirk had been sitting in, stood on it and removed the SD card from the camera behind Kirk's head.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10100",
@@ -2525,8 +2525,8 @@
       "@type": "Claim",
       "@id": "C-10339",
       "ref": "C-10339",
-      "label": "Clip says Norma Jean Aids was shot seven times in 1991 and her husband later convicted",
-      "claim": "The Atlanta news clip says Norma Jean Aids was found shot to death seven times in 1991 in a home set on fire, that her husband Jimmy Aids was convicted six years later partly on bullet lead evidence from a bullet in his vehicle, and that he was released in 2021.",
+      "label": "Clip says Norma Jean Ates was shot seven times in 1991 and her husband later convicted",
+      "claim": "The Atlanta news clip says Norma Jean Ates was found shot to death seven times in 1991 in a home set on fire, that her husband Jimmy Ates was convicted six years later partly on bullet lead evidence from a bullet in his vehicle, and that he was released in 2021.",
       "anchored_artifacts": [
         "A-1914.1"
       ],
@@ -2538,7 +2538,7 @@
       ],
       "claim_timestamp": "00:41:49",
       "investigative_direction": "Identify the station, reporter and the case's court records, noting the transcript spelling of the surname.",
-      "transcript_snippet": "In 1991, 45-year-old Norma Jean Aids was found inside this home, shot to death seven times."
+      "transcript_snippet": "In 1991, 45-year-old Norma Jean Ates was found inside this home, shot to death seven times."
     },
     {
       "@type": "Claim",
@@ -2737,7 +2737,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:50:51",
+      "claim_timestamp": "00:51:58",
       "investigative_direction": "Check public records of flights using Los Alamitos on July 14, 2025.",
       "transcript_snippet": "It also is not visible to heavy traffic as the entrance to the base is located in a housing subdivision."
     },

@@ -36,7 +36,7 @@ Episode 124 Ledger Summary
 Artifact Families Introduced: A-2115, A-2116, A-2117, A-2118, A-2119, A-2120, A-2121, A-2122, A-2123, A-2124, A-2125, A-2126, A-2127, A-2128
 Claim Range: C-3000 – C-3016, C-3761, C-3764, C-3770
 New Nodes Introduced: N-10709, N-10710, N-10711, N-10712, N-10713
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twiggs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Bari Weiss, Benny Johnson, Josh Hammer, Caitlyn Oliver, Samantha Carner, Miss Noble, Jeremy Boreing, Tim Pool, Blake Neff, Baron Coleman, Frank Turek, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kolvet/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Preene Bowler)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twiggs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Bari Weiss, Benny Johnson, Josh Hammer, Caitlyn Oliver, Samantha Carner, Miss Noble, Jeremy Boreing, Tim Pool, Blake Neff, Baron Coleman, Frank Turek, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kolvet/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Prejean Boller)
 
 ## 6. Meme Register
 

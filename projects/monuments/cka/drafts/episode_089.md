@@ -601,7 +601,7 @@ Investigative Direction: Verify the exact wording against the archived Truth Soc
 
 Claim Timestamp: 00:23:45–00:24:40
 
-Claim: CNN assembled a montage of past Trump appearances, which the host plays, in which he praised Megyn Kelly and Candace Owens (saying "that's a star" and "your reputation is amazing"), contradicting his current posture in A-1939.1.
+Claim: CNN assembled a montage of past Trump appearances, which the host plays, in which he praised Megyn Kelly and Candace Owens (saying of Owens "that's a star") and says "your reputation is amazing," contradicting his current posture in A-1939.1.
 
 Anchored Artifacts: A-1940.1
 Mentions: N-3, N-5, N-46
@@ -668,7 +668,7 @@ Claim Timestamp: 00:30:06–00:31:16
 Claim: Per Candace Owens's recounting of Charlie Kirk's account, Donald Trump stated during the meeting described in C-2675 that he intended to "take her money and then I'll f her over."
 
 Anchored Artifacts: A-1944.1
-Mentions: N-3, N-1, N-5
+Mentions: N-3, N-1, N-5, N-299
 Related Nodes: N-10588, N-10589
 Investigative Direction: Obtain corroborating testimony from Andrew Kolvet; review any contemporaneous notes, messages, or secondary witnesses; assess downstream policy decisions vis-à-vis West Bank actions.
 
@@ -780,7 +780,7 @@ Transcript Snippet: they think it is wonderful for Iran, the number one state sp
 Anchored Artifacts: A-1939.1
 Mentions: N-22, N-46, N-3, N-93, N-5
 Related Nodes: N-10541
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the archived Truth Social post and compare the wording with the on-air reading.
 
 ---
@@ -795,7 +795,7 @@ Transcript Snippet: They've all been thrown off television, lost their shows, an
 
 Anchored Artifacts: A-1939.1
 Mentions: N-22, N-46, N-3, N-93, N-5
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the archived Truth Social post and compare the wording with the on-air reading. Check which of the four lost TV shows and when.
 
 ---
@@ -811,7 +811,7 @@ Transcript Snippet: He was a broken man when he got fired from Fox and he's neve
 Anchored Artifacts: A-1939.1
 Mentions: N-22, N-5
 Related Nodes: N-10006
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the archived Truth Social post and compare the wording with the on-air reading.
 
 ---
@@ -1102,7 +1102,7 @@ Investigative Direction: Check Pre-Born's published annual figures against the s
 
 Claim Timestamp: 00:24:40
 
-Claim: The host says Trump explicitly promised no new wars in the Middle East and lower gas prices, and that he is now fighting in Iran despite nobody wanting it, with insider trading also seen recently.
+Claim: The host says Trump explicitly promised no new wars in the Middle East and lower gas prices, and that he is now fighting in Iran despite nobody wanting it, with what looks like insider trading having happened recently.
 
 Transcript Snippet: promising no new wars, right? No new wars in the Middle East, we're going to lower gas prices
 
@@ -1172,7 +1172,7 @@ Claim: The letter says it was written after Trump published a Truth Social post 
 Transcript Snippet: We decided to write this after Trump published a Truth Social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones
 
 Anchored Artifacts: A-1942.1
-Mentions: N-5, N-46, N-3, N-93
+Mentions: N-3, N-5, N-22, N-46, N-93
 Supports: C-2669
 Tags: relevance:context
 Investigative Direction: Confirm the letter's publication time against the post's time.
@@ -1220,7 +1220,7 @@ Claim: The host says she wants to say Charlie told her the story in May, and tha
 Transcript Snippet: And the reason that Charlie told me the story and again I could go back and try to figure out when exactly the discussion happened. I want to say it was May.
 
 Anchored Artifacts: A-1944.1
-Mentions: N-1, N-14, N-3
+Mentions: N-1, N-3
 Related Nodes: N-10589
 Supports: C-2675
 Tags: relevance:core
@@ -1272,7 +1272,7 @@ Transcript Snippet: I find it very strange that Donald Trump is not interested o
 Anchored Artifacts: 
 Mentions: N-5, N-3
 Related Nodes: N-10588
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Collect Trump's public statements and executive actions on the Butler investigation.
 
 ---
@@ -1297,7 +1297,7 @@ Investigative Direction: This is the host's speculation and characterization; no
 
 Claim Timestamp: 00:32:11
 
-Claim: The host says that all of us have noted a shift in Trump since Butler, Pennsylvania.
+Claim: The host says she thinks all of us have noted a shift in Trump since Butler, Pennsylvania.
 
 Transcript Snippet: I do think that we have all noted this shift in him since Butler, Pennsylvania.
 
@@ -1516,7 +1516,7 @@ Investigative Direction: The host marks this as speculation; the release status 
 
 Claim Timestamp: 00:43:43
 
-Claim: The host says politicians in DC send money overseas, wash it and give it back to themselves, and that the majority of them are beholden to foreign countries, mainly Israel.
+Claim: The host says politicians in DC send money overseas, wash it and give it back to themselves, and that they are beholden to foreign countries, the majority of them to Israel.
 
 Transcript Snippet: they so they can send money overseas, wash it, and give it back to themselves. They are beholden to foreign countries, the majority of them to Israel.
 

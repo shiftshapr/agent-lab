@@ -1715,7 +1715,7 @@ Claim Timestamp: 00:46:37
 
 Claim: The host says Erika Kirk name-dropped Druski and the host near the end of her pre-written statement.
 
-Transcript Snippet: she name-dropped Drewski and she name-dropped me
+Transcript Snippet: she name-dropped Druski and she name-dropped me
 
 Anchored Artifacts: A-2009.4
 Mentions: N-2, N-597, N-3
@@ -2281,7 +2281,7 @@ Investigative Direction: Public schedule of Pope Leo XIV audiences versus the ho
 
 - **Name uncertainty**: "Karoline Leavitt" appears in transcript at ~41:21; likely refers to White House Press Secretary Karoline Leavitt (N-281).
 - **Possible transcription error**: "Cole Allen" appears as the WHCD suspect name; verify spelling against official arrest records and court filings.
-- **Transcript ambiguity**: "Drewski" is name-dropped by Erika Kirk in the pre-recorded statement (~47:25); identity and relevance not clarified in the episode.
+- **Transcript ambiguity**: "Druski" is name-dropped by Erika Kirk in the pre-recorded statement (~47:25); identity and relevance not clarified in the episode.
 - **Requires human verification**: Sara Sidner's role as original recorder of the Erika Kirk clip (host explicitly states she could not confirm via Instagram, Twitter, or text outreach).
 - **Artifact verbally referenced but not displayed in full**: Multiple Laura Loomer tweets are read aloud in the episode; full visual capture not confirmed.
 - **Claim failed admission test**: Host assertions not artifact-anchored in this episode include – (1) Trump's tweet was the fourth attack on Candace in two weeks, (2) Susie Wiles opposed the Truth Social post, (3) Charlie Kirk never attended the White House Correspondents Dinner, (4) Laura Loomer has blackmail on Trump, (5) the Trump Truth Social tweet was driven by Laura Loomer's demands.

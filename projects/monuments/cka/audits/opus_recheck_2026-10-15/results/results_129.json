@@ -1,0 +1,767 @@
+[
+ {
+  "claim": "C-10328",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10329",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10330",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10331",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10332",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10333",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10334",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10335",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10336",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10337",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10338",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10339",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Clip says \"Norma Jean Aids\" / \"Jimmy Aids\"; the Florida man freed in 2021 after CBLA conviction is Jimmy Ates (wife Norma Jean Ates).",
+  "fix": {
+   "claim": "The Atlanta news clip says Norma Jean Ates was found shot to death seven times in 1991 in a home set on fire, that her husband Jimmy Ates was convicted six years later partly on bullet lead evidence from a bullet in his vehicle, and that he was released in 2021.",
+   "label": "Clip says Norma Jean Ates was shot seven times in 1991 and her husband later convicted",
+   "names": [
+    {
+     "wrong": "Norma Jean Aids",
+     "right": "Norma Jean Ates",
+     "source": "https://www.atlantanewsfirst.com/2026/02/09/discredited-fbi-bullet-analysis-freed-one-man-while-leaving-another-behind-bars/"
+    },
+    {
+     "wrong": "Jimmy Aids",
+     "right": "Jimmy Ates",
+     "source": "https://floridaphoenix.com/?p=203151"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-10340",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10341",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10342",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10343",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10344",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10345",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10346",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript spelling \"Katherine Low Castro\" kept in the claim; the node and label use Katherine Locastro.",
+  "fix": {
+   "claim": "The host says Erika's July 14 flight was taken with Katherine Locastro, Derek Niekerk and Jonathan Barcelo, and that it goes to Long Beach."
+  }
+ },
+ {
+  "claim": "C-10347",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10348",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "material": true,
+  "note": "50:51 block runs to 53:07 (~3.5 words/s); \"housing subdivision\" falls ~76s in (~52:07) and \"officials\" ~85s in (~52:16); the email text starts ~51:50.",
+  "fix": {
+   "timestamp": "00:51:58"
+  }
+ },
+ {
+  "claim": "C-10349",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10350",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10351",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10352",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10353",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2626",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2627",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The 4:21 p.m. time is the host's statement (\"He wrote this at 4:21 p.m. Mountain\"); only the tweet text is shown. Claim states the time as fact.",
+  "fix": {
+   "claim": "Per the X post the host shows, Kash Patel wrote that the subject in the Charlie Kirk shooting was in custody; the host says he posted it at 4:21 PM Mountain time on 2025-09-10, almost exactly four hours after Charlie was shot."
+  }
+ },
+ {
+  "claim": "C-2628",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Time 5:59 PM and \"no further information was provided\" are the host's statements, not part of the post shown.",
+  "fix": {
+   "claim": "Per the X post the host shows, Kash Patel wrote that the subject in custody had been released after an interrogation by law enforcement; the host says he posted it at 5:59 PM the same day and that no further explanation was given."
+  }
+ },
+ {
+  "claim": "C-2629",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2630",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2631",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Range 00:00:00-00:00:01 is the show open. \"he's listed as a co-founder of Built. Who'd he co-found this with?\" ~16:35, \"Nathan Henderson\" at 16:55; 2015 co-founding at ~12:30.",
+  "fix": {
+   "timestamp": "00:16:35"
+  }
+ },
+ {
+  "claim": "C-2632",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says \"just under a quarter million um from the Navy\"; \"$240K\" does not appear in the transcript.",
+  "fix": {
+   "claim": "The host says USA Spending records show Built Incorporated received approximately $7.4M from the Air Force and just under a quarter million from the Navy in June 2025, with the largest contracts dated June 1 and June 16, 2025."
+  }
+ },
+ {
+  "claim": "C-2633",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host never says Gina Romney Henderson is a BYU alumna; she says the couples' sons went to BYU (\"sent their sons to the same school ... BYU\").",
+  "fix": {
+   "claim": "Per Gina Romney Henderson's LinkedIn profile, which the host shows, she is Vice President of User Experience at Built Incorporated."
+  }
+ },
+ {
+  "claim": "C-2634",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2635",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Article as read: NAS found FBI \"testimony about the science unreliable and potentially misleading\"; \"A year later ... the bureau abandoned the analysis\". \"formally\" and \"technique unreliable\" shift wording.",
+  "fix": {
+   "claim": "Per a 2007 Washington Post article the host shows, a 2004 National Academy of Sciences report found the FBI's testimony about comparative bullet lead analysis unreliable and potentially misleading, and a year later the bureau abandoned the analysis."
+  }
+ },
+ {
+  "claim": "C-2636",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2637",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip: Trump says \"I told her you got to sue somebody. They're so jealous of Erika.\" \"White House\" is not stated; \"mocking her\" is the host's paraphrase (\"people that are making fun of her\").",
+  "fix": {
+   "claim": "In a clip the host plays from a 2026 Easter event, Donald Trump says he told Erika Kirk she has to sue people because they are so jealous of her; the host says he told her to sue people making fun of her."
+  }
+ },
+ {
+  "claim": "C-2638",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Cohabitation is the host's assertion (\"what is not up for debate is that both families were living in the same house\"); claim opens by stating it as fact.",
+  "fix": {
+   "claim": "The host says the Qureshi and Henderson families lived in the same house in Keller, Texas; she offers alternative explanations (vacation rental, sale) but asserts cohabitation is not in dispute."
+  }
+ },
+ {
+  "claim": "C-2639",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2640",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2641",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host assertion (\"which is exactly where Andrew Zenger attended school\") stated as fact.",
+  "fix": {
+   "claim": "The host says Andrew Zenger attended BYU Jerusalem and was there during the Mitt Romney presidential election season."
+  }
+ },
+ {
+  "claim": "C-2642",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2643",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host assertion (\"They specifically use a company ... called Metro One Talent\") stated as fact.",
+  "fix": {
+   "claim": "The host says the CIA uses a company called Metro One Talent to interview and bring on board young recruits such as those from BYU Jerusalem."
+  }
+ },
+ {
+  "claim": "C-2644",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2645",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2646",
+  "episode": 87,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host relays what \"somebody sent me\": \"I did not realize how quickly Turning Point, like 48 hours later, sent out text messages. It was like, Hi, I'm Erika\". Claim states it as fact.",
+  "fix": {
+   "claim": "The host says someone sent her Turning Point USA fundraising text messages, sent about 48 hours after Charlie Kirk's death, that began \"Hi, I'm Erika and for Charlie's legacy, please give\"."
+  }
+ },
+ {
+  "claim": "C-2647",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Yoshi's comment says \"walking out on stage in her sparkle suit to a show of fireworks\"; \"at the funeral, I think\" is the host's hedged addition, not the comment's.",
+  "fix": {
+   "claim": "A viewer comment the host reads (from Yoshi) says Turning Point sent a direct mail fundraising plea using a photo of Erika Kirk walking out on stage in her sparkle suit to a show of fireworks; the host says she heard such mailers were sent and that the image is from the funeral, she thinks."
+  }
+ },
+ {
+  "claim": "C-2648",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"I learned from viewers at home that his family is allegedly married into the Romney family\"; social media is cited only for \"they were involved the campaign\". Hedge dropped, social media misused.",
+  "fix": {
+   "claim": "The host says she learned from viewers that Robbie Hild's family is allegedly married into the Romney family and that across social media they were involved in the campaign, but she cannot find the document establishing the connection and requests viewer tips."
+  }
+ },
+ {
+  "claim": "C-2649",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2650",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2651",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2652",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2653",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14550",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14551",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14552",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14553",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14554",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14555",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

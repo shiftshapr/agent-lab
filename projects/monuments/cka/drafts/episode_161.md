@@ -693,7 +693,7 @@ Extra-money sub-campaigns and Instagram photos with Kirks/Wynn noted.
 
 ---
 
-**N-555** Carrie Prejean Bowler
+**N-555** Carrie Prejean Boller
 
 Traveling with Candace in Spain when coordinated smear wave hit.
 
@@ -1146,7 +1146,7 @@ Investigative Direction: Compare the autopsy and ballistic reports with .30-06 e
 
 Claim Timestamp: 00:05:45
 
-Claim: The host says she was in Spain with the show off air for two weeks during the Robinson preliminary-hearing week, traveling with Carrie Prejean Bowler, and was nonetheless inundated with obviously coordinated, well-funded attacks portraying her as a digital assassin.
+Claim: The host says she was in Spain with the show off air for two weeks during the Robinson preliminary-hearing week, traveling with Carrie Prejean Boller, and was nonetheless inundated with obviously coordinated, well-funded attacks portraying her as a digital assassin.
 
 Transcript Snippet: You remember um I was away in Spain. That's why it was even more odd. The show was off air two weeks and despite this I was being inundated from every direction with these sorts of attacks.
 

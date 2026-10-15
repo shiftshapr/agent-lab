@@ -2024,7 +2024,7 @@
       "@id": "C-2726",
       "ref": "C-2726",
       "label": "Kolvet Retroactively Reclassified High School Cancellation as Security-Driven",
-      "claim": "Andrew Kolvet stated on Charlie Kirk's show that the Monday high school event was also cancelled due to \"increased online chatter\" being monitored by TPUSA security.",
+      "claim": "Andrew Kolvet stated on Charlie Kirk's show that the high school event, which the host says was cancelled on Monday, was also cancelled due to \"increased online chatter\" being monitored by TPUSA security.",
       "anchored_artifacts": [
         "A-1968.1"
       ],
@@ -2107,7 +2107,7 @@
       "@type": "Claim",
       "@id": "C-2730",
       "ref": "C-2730",
-      "label": "Per Text Host Shows, UGA High School Event Cancelled Monday Citing \"Scheduling Complications\"",
+      "label": "Per Text Host Shows, Georgia High School Event Cancelled Monday Citing \"Scheduling Complications\"",
       "claim": "Per a parent-alert text the host shows, TPUSA cancelled an optional high school event 'scheduled for tomorrow, September 14th' (as the host reads it), citing \"scheduling complications\" rather than security threats, according to the host.",
       "anchored_artifacts": [
         "A-1972.1"
@@ -2117,17 +2117,14 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:16",
-      "investigative_direction": "Obtain the original email/text from TPUSA to the school; interview named administrators.",
-      "mentions_person_refs": [
-        "N-2"
-      ]
+      "investigative_direction": "Obtain the original email/text from TPUSA to the school; interview named administrators."
     },
     {
       "@type": "Claim",
       "@id": "C-2731",
       "ref": "C-2731",
       "label": "Per Facebook Chat Host Shows, Parents and Teachers Organizing Boycott of Erika Kirk at Pinnacle High School",
-      "claim": "Per a parental Facebook chat the host shows, parents and at least one teacher are organizing a walkout/boycott of Erika Kirk's appearance at Pinnacle High School in Phoenix, citing safety concerns.",
+      "claim": "Per a parental Facebook chat the host shows, a parent and an anonymous member who says she is a teacher object to Erika Kirk's appearance at Pinnacle High School in Phoenix, the teacher calling it 'a safety risk' and urging parents to call their kids out of school; the host says they are organizing essentially a walkout, a boycott.",
       "anchored_artifacts": [
         "A-1973.1"
       ],
@@ -2427,8 +2424,7 @@
       "transcript_snippet": "Some of the people that have made you know part-time jobs out of attacking Erika and this is the net result.",
       "mentions_person_refs": [
         "N-14",
-        "N-2",
-        "N-4"
+        "N-2"
       ]
     },
     {
@@ -2499,6 +2495,7 @@
         "C-2727"
       ],
       "mentions_person_refs": [
+        "N-1",
         "N-2",
         "N-3"
       ]
@@ -2508,7 +2505,7 @@
       "@id": "C-11380",
       "ref": "C-11380",
       "label": "Host Says Erika's Plane Had Been Tracked From the Start Without Any Cancellation",
-      "claim": "The host says people had been tracking Erika Kirk's plane since the very beginning of her post-assassination travel, doing entire shows on it, and that she never cancelled anything because of it.",
+      "claim": "The host says people had been tracking Erika Kirk's plane since the very beginning, doing entire shows on it, and that she never cancelled anything because of it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10607"
@@ -2538,10 +2535,7 @@
       ],
       "claim_timestamp": "00:12:38",
       "investigative_direction": "Check the venue's published capacity and UGA enrollment figures.",
-      "transcript_snippet": "at the Classic Center, which is near the University of Georgia. The stadium holds just 7,000 people.",
-      "mentions_person_refs": [
-        "N-2"
-      ]
+      "transcript_snippet": "at the Classic Center, which is near the University of Georgia. The stadium holds just 7,000 people."
     },
     {
       "@type": "Claim",
@@ -2559,11 +2553,7 @@
       ],
       "claim_timestamp": "00:12:38",
       "investigative_direction": "Obtain the event registration page, ticket terms and registration counts.",
-      "transcript_snippet": "to make matters easier for them, they also opened the tickets, the free tickets to the general public.",
-      "mentions_person_refs": [
-        "N-4",
-        "N-2"
-      ]
+      "transcript_snippet": "to make matters easier for them, they also opened the tickets, the free tickets to the general public."
     },
     {
       "@type": "Claim",
@@ -2642,7 +2632,7 @@
       "@id": "C-11386",
       "ref": "C-11386",
       "label": "Host Says UGA Was the Worst Turnout in Turning Point History",
-      "claim": "The host says that, from what she has been told, the UGA event looks to have been the worst audience turnout in Turning Point's history.",
+      "claim": "The host says the UGA event looks to have been the worst audience turnout in Turning Point's history.",
       "anchored_artifacts": [
         "A-1974.1"
       ],
@@ -2660,7 +2650,6 @@
         "C-2733"
       ],
       "mentions_person_refs": [
-        "N-2",
         "N-3"
       ]
     },
@@ -2860,14 +2849,11 @@
         "N-10541"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:26:19",
       "investigative_direction": "Check the Minab school strike casualty reports and official US statements.",
-      "transcript_snippet": "Like when you guys blew up that school, 150 Iranian school girls were killed and then you lied about it.",
-      "mentions_person_refs": [
-        "N-4"
-      ]
+      "transcript_snippet": "Like when you guys blew up that school, 150 Iranian school girls were killed and then you lied about it."
     },
     {
       "@type": "Claim",
@@ -2878,7 +2864,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:26:19",
       "investigative_direction": "Locate the transcript and date of the Trump remarks about Jesus.",
@@ -2896,7 +2882,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:26:19",
       "investigative_direction": "Locate the Trump statements on Pope Leo XIV and on Brigitte Macron and their dates.",
@@ -2918,14 +2904,11 @@
         "N-10541"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:26:19",
       "investigative_direction": "Check shipping-traffic data for the Strait of Hormuz before the war and the administration's stated war aims.",
-      "transcript_snippet": "Going to war with the explicit aim of opening the straight of Hormuse, which was already opened before you began the war, is pretty preposterous.",
-      "mentions_person_refs": [
-        "N-4"
-      ]
+      "transcript_snippet": "Going to war with the explicit aim of opening the straight of Hormuse, which was already opened before you began the war, is pretty preposterous."
     },
     {
       "@type": "Claim",
@@ -3270,7 +3253,7 @@
         "N-10609"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:45:03",
       "investigative_direction": "Identify the brother and obtain a first-hand account of what Wada said to colleagues.",
@@ -3296,7 +3279,7 @@
         "N-10609"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:45:03",
       "investigative_direction": "Confirm the family relationship through public records and obtain the consulting firm's registration.",
@@ -3340,8 +3323,8 @@
       "@type": "Claim",
       "@id": "C-11417",
       "ref": "C-11417",
-      "label": "Host Says Otto Busher Worked With Romanian Angels and Was Charged With Running a Child Sex Abuse Ring",
-      "claim": "The host says Colonel Otto Busher, the civilian commander stationed at Fort Huachuca, was charged with running a child sex abuse ring and worked with Romanian Angels, which she calls Erika Kirk's charity.",
+      "label": "Host Says Otto Busher Worked With Romanian Angels and Lists a Fort Huachuca Civilian Commander Charged With Running a Child Sex Abuse Ring",
+      "claim": "The host says Colonel Otto Busher, tied to the Romanian matter at the military base, worked with Romanian Angels, which she calls Erika Kirk's charity; she separately lists the civilian commander stationed at Fort Huachuca who was charged with running a child sex abuse ring.",
       "anchored_artifacts": [
         "A-3132.1"
       ],

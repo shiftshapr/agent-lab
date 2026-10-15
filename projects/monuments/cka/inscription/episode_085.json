@@ -692,7 +692,7 @@
       "@type": "Person",
       "@id": "N-410",
       "ref": "N-410",
-      "name": "Daniel Balou",
+      "name": "Daniel Beaulieu",
       "type": "person",
       "description": "First named by the host at 00:10:32 in episode 85.",
       "related_artifacts": [],
@@ -710,7 +710,7 @@
       "@type": "Person",
       "@id": "N-409",
       "ref": "N-409",
-      "name": "Frederick Vaglio",
+      "name": "Frédéric Vaglio",
       "type": "person",
       "description": "First named by the host at 00:10:32 in episode 85.",
       "related_artifacts": [],
@@ -728,7 +728,7 @@
       "@type": "Person",
       "@id": "N-398",
       "ref": "N-398",
-      "name": "Jean-Luc Baguer",
+      "name": "Jean-Luc Bagur",
       "type": "person",
       "description": "First named by the host at 00:10:32 in episode 85.",
       "related_artifacts": [],
@@ -2149,7 +2149,7 @@
       "@id": "C-2582",
       "ref": "C-2582",
       "label": "Lodge accused of running hit squads",
-      "claim": "Prosecutors allege the Athanor lodge group carried out murder, attempted murder, aggravated assault, and criminal conspiracy on behalf of a mafia network inside the lodge.",
+      "claim": "Per a Guardian article the host reads aloud, prosecutors allege the Athanor lodge group carried out murder, attempted murder, aggravated assault, and criminal conspiracy on behalf of a mafia network inside the lodge.",
       "anchored_artifacts": [
         "A-1903.1"
       ],
@@ -2200,7 +2200,7 @@
       "@id": "C-2585",
       "ref": "C-2585",
       "label": "Hitmen claimed to be acting on behalf of the French state",
-      "claim": "The hitmen told investigators they believed they had been asked to murder Dini on behalf of the French state.",
+      "claim": "Per a Guardian article the host reads aloud, the hitmen told investigators they believed they had been asked to murder Dini on behalf of the French state.",
       "anchored_artifacts": [
         "A-1903.1"
       ],
@@ -2217,7 +2217,7 @@
       "@id": "C-2586",
       "ref": "C-2586",
       "label": "Hitmen stated Dini worked for Mossad",
-      "claim": "The hitmen stated they were targeting Dini on the grounds that she worked for the Israeli spy agency, the Mossad.",
+      "claim": "Per a Guardian article the host reads aloud, the hitmen stated they were targeting Dini on the grounds that she worked for the Israeli spy agency, the Mossad.",
       "anchored_artifacts": [
         "A-1903.1"
       ],
@@ -2233,8 +2233,8 @@
       "@type": "Claim",
       "@id": "C-2587",
       "ref": "C-2587",
-      "label": "Jean-Luc Baguer, Frederick Vaglio, and Daniel Balou identified as principal conspirators",
-      "claim": "Jean-Luc Baguer is identified as a ringleader of the alleged conspiracy, alongside co-conspirators Frederick Vaglio and Daniel Balou.",
+      "label": "Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Identified as Principal Conspirators",
+      "claim": "The host says Jean-Luc Bagur was a ringleader of the alleged conspiracy, alongside fellow Freemasons Frédéric Vaglio and Daniel Beaulieu.",
       "anchored_artifacts": [
         "A-1903.1"
       ],
@@ -2254,8 +2254,8 @@
       "@type": "Claim",
       "@id": "C-2588",
       "ref": "C-2588",
-      "label": "Daniel Balou attempted suicide in prison",
-      "claim": "The host says Daniel Balou, a retired intelligence officer, had an apparent suicide attempt while in prison, and that he is now impaired and will not be able to testify.",
+      "label": "Daniel Beaulieu Attempted Suicide in Prison",
+      "claim": "The host says Daniel Beaulieu, a retired intelligence officer, had an apparent suicide attempt while in prison, and that he is now impaired and will not be able to testify.",
       "anchored_artifacts": [
         "A-1903.1"
       ],
@@ -2274,13 +2274,13 @@
       "@id": "C-2589",
       "ref": "C-2589",
       "label": "Erika Kirk affirmed belief that Tyler Robinson murdered Charlie Kirk",
-      "claim": "In an interview with Bari Weiss, Erika Kirk stated \"Yes, I do\" in response to the question of whether she believes Tyler Robinson murdered her husband.",
+      "claim": "In a clip the host plays of an interview with Bari Weiss, Erika Kirk says \"Yes, I do\" in response to the question of whether she believes Tyler Robinson murdered her husband.",
       "anchored_artifacts": [
         "A-1904.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:17:32",
+      "claim_timestamp": "00:16:59",
       "investigative_direction": "Cross-check with the published version of the Bari Weiss interview.",
       "mentions_person_refs": [
         "N-1",
@@ -2311,7 +2311,7 @@
       "@id": "C-2591",
       "ref": "C-2591",
       "label": "Frank Turek described Erika being told of Charlie's death",
-      "claim": "Frank Turek stated he was present when a doctor informed him of Charlie Kirk's death and that he then needed to \"talk to Erika.\"",
+      "claim": "In a clip the host plays, Frank Turek says they were all standing in the hall when a doctor came out and said Charlie Kirk was dead, and that he then said \"I need to talk to Erika.\"",
       "anchored_artifacts": [
         "A-1905.1"
       ],
@@ -2370,7 +2370,7 @@
       "@id": "C-2594",
       "ref": "C-2594",
       "label": "Candace Owens' November tweet asserted French Legion training and multi-state involvement",
-      "claim": "In a November 2025 tweet, Candace Owens stated she had a source inside the French government who told her the French intervention group was involved in the assassination, and that Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement.",
+      "claim": "In a November tweet the host shows, Candace Owens stated she had a source inside the French government who told her the French intervention group was involved in the assassination, and that Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement.",
       "anchored_artifacts": [
         "A-1906.1"
       ],
@@ -2378,7 +2378,7 @@
         "N-10567"
       ],
       "tags": [],
-      "claim_timestamp": "00:15:25",
+      "claim_timestamp": "00:14:53",
       "investigative_direction": "Locate the original tweet and any subsequent corroboration or denial.",
       "mentions_person_refs": [
         "N-3",
@@ -2804,7 +2804,7 @@
       "@id": "C-14457",
       "ref": "C-14457",
       "label": "Host Says Scottish Rite Freemasonry Originated in France After the Templars",
-      "claim": "The host says Scottish Rite Freemasonry originated in France, after Jacques de Molay was burned at the stake and the Pope dissolved the group over accusations of Baal worship and sexual rites, and that members then left for Scotland.",
+      "claim": "The host says Scottish Rite Freemasonry originated in France, after Jacques de Molay was hanged or burned at the stake and the Pope dissolved the group over accusations of Baal worship and sexual rites, and that members then left for Scotland.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11129"
@@ -2936,8 +2936,8 @@
       "@type": "Claim",
       "@id": "C-14463",
       "ref": "C-14463",
-      "label": "Host Says Hitmen Say Daniel Balou Told Them It Was on Behalf of the Government",
-      "claim": "The host says the hitmen say that Daniel Balou, a retired intelligence officer, told them they were carrying out the killing on behalf of the government.",
+      "label": "Host Says Hitmen Say Daniel Beaulieu Told Them It Was on Behalf of the Government",
+      "claim": "The host says the hitmen say that Daniel Beaulieu, a retired intelligence officer, told them they were carrying out the killing on behalf of the government.",
       "anchored_artifacts": [
         "A-1903.1"
       ],
@@ -3327,7 +3327,8 @@
       "transcript_snippet": "Somehow Mikey pulled himself together. Called who needed to be called, asked the doctors all the hard questions.",
       "mentions_person_refs": [
         "N-7",
-        "N-191"
+        "N-191",
+        "N-2"
       ]
     },
     {
@@ -3452,8 +3453,8 @@
       "@type": "Claim",
       "@id": "C-14486",
       "ref": "C-14486",
-      "label": "Host Says Ackman Later Hosted a Hamptons Summit Where Kirk Raised Epstein",
-      "claim": "The host says that a couple of weeks later Bill Ackman hosted the notorious summit in the Hamptons, and that Kirk started asking about Epstein.",
+      "label": "Host Says Ackman Later Hosted the Hamptons Summit and Tucker Started Asking About Epstein",
+      "claim": "The host says that a couple of weeks later Bill Ackman would host the notorious summit in the Hamptons, and that Tucker Carlson started asking about Epstein.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10027",
@@ -3467,7 +3468,7 @@
       "transcript_snippet": "A couple of weeks later, Bill Ackman would be hosting the notorious, um, summit in the Hamptons, and that he started asking about Epstein.",
       "mentions_person_refs": [
         "N-37",
-        "N-1",
+        "N-22",
         "N-9",
         "N-3"
       ]

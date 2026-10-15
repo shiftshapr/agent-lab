@@ -353,7 +353,7 @@ Confidence Level: High
 
 *Related: C-2342, C-2343, C-2344, C-2345, N-555, N-10500*
 
-**A-1760.2** Carrie Prejean Bowler Questioning of Seth Dillon at Religious Liberty Commission Hearing
+**A-1760.2** Carrie Prejean Boller Questioning of Seth Dillon at Religious Liberty Commission Hearing
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -558,7 +558,7 @@ Investigative Pressure: High
 
 *Related: A-1759.1, C-2340, C-2341, N-546, N-2, N-10498*
 
-**N-555** Carrie Prejean Bowler
+**N-555** Carrie Prejean Boller
 
 Questioner of Seth Dillon at the Religious Liberty Commission hearing on antisemitism; Catholic activist.
 
@@ -1374,11 +1374,11 @@ Investigative Direction: Cross-reference with Charlie Kirk's own public statemen
 
 ---
 
-**C-2346** Host Says Carrie Prejean Bowler Questioned Seth Dillon
+**C-2346** Host Says Carrie Prejean Boller Questioned Seth Dillon
 
 Claim Timestamp: 00:31:24–00:32:50
 
-Claim: The host says Carrie Prejean Bowler questioned Seth Dillon at the Religious Liberty Commission hearing regarding antisemitism and the Hamptons meeting.
+Claim: The host says Carrie Prejean Boller questioned Seth Dillon at the Religious Liberty Commission hearing regarding antisemitism and the Hamptons meeting.
 
 Anchored Artifacts: A-1760.2
 Mentions: N-555, N-38
@@ -2026,7 +2026,7 @@ Investigative Direction: Attendee accounts of who pressed Kirk and on what.
 
 Claim Timestamp: 00:31:24
 
-Claim: The host says that because Seth Dillon was testifying at the Religious Liberty Commission hearing he was under oath, which she says gave Carrie Prejean Bowler the opening to question him on a range of topics.
+Claim: The host says that because Seth Dillon was testifying at the Religious Liberty Commission hearing he was under oath, which she says gave Carrie Prejean Boller the opening to question him on a range of topics.
 
 Transcript Snippet: since he's under oath. When you testify, you're actually under oath to ask him about a variety of topics.
 
@@ -2042,7 +2042,7 @@ Investigative Direction: Commission rules on witness oaths and the hearing recor
 
 Claim Timestamp: 00:31:24
 
-Claim: The host says Carrie Prejean Bowler pressed Seth Dillon first on his being one of the chiefs of the claim that 'Christ is King' is anti-Semitic.
+Claim: The host says Carrie Prejean Boller pressed Seth Dillon first on his being one of the chiefs of the claim that 'Christ is King' is anti-Semitic.
 
 Transcript Snippet: First and foremost, she presses him because he was also one of the chiefs of Christ as King is anti-Semitic.
 
@@ -2070,7 +2070,7 @@ Investigative Direction: Official hearing video at the stated moment.
 
 ---
 
-**C-14349** Clip: Prejean Bowler Says Ben Shapiro Fired Candace Over 'Christ Is King'; Dillon Says He Never Called It Anti-Semitic
+**C-14349** Clip: Prejean Boller Says Ben Shapiro Fired Candace Over 'Christ Is King'; Dillon Says He Never Called It Anti-Semitic
 
 Claim Timestamp: 00:32:13
 
@@ -2669,7 +2669,7 @@ Investigative Direction: Submitted tips on Thomas Martin.
 ## VI. Optional Flags
 
 - **Name uncertainty (A-1758.1, A-1760.1, A-1760.2)**: Transcript renders "Seth Dillon" / "Dylan" – most likely Seth Dillon (Babylon Bee). Preserved as written. Probable transcription error.
-- **Name uncertainty (A-1760.2)**: Transcript renders "Carrie Prejean Bowler" – most likely Carrie Prejean Bowler. Preserved as written. Probable transcription error.
+- **Name uncertainty (A-1760.2)**: Transcript renders "Carrie Prejean Boller" – most likely Carrie Prejean Boller. Preserved as written. Probable transcription error.
 - **Name uncertainty (A-1750.1, A-1751.1)**: Transcript renders "Nielsen" – most likely Nielsen. Preserved as written. Probable transcription error.
 - **Name uncertainty (A-1751.1)**: Transcript renders "Andrew Kolvet" / "Andrew Kolvet" – most likely Andrew Kolvet. Preserved as written. Probable transcription error.
 - **Artifact verbally referenced but not shown**: The Instagram purge (June 19, 126 posts deleted) and the June 18 White House visit are referenced but not displayed as new artifacts in this episode; treated as historical context only.

@@ -412,7 +412,7 @@ Named only as "Aubrey"; drafted the death statement and staff email per the host
 
 **N-597** Druski
 
-First named by the host at 00:00:46 in episode 084. Comedian whose viral skit mocking conservative women is played. Aliases: Drewski; Druski; Druski.
+First named by the host at 00:00:46 in episode 084. Comedian whose viral skit mocking conservative women is played. Aliases: Druski; Druski; Druski.
 
 *Related: C-3809, C-3811, A-2533.1, A-2533.3*
 
@@ -1423,7 +1423,7 @@ Confidence: high
 - **Artifacts verbally referenced but not shown**: A-2529.1 (TPUSA cease and desist), A-2531.1 (Erika Kirk's Instagram video of her mother), A-2534.1 (Scott Bessent letter) and A-2536.1 (online piece and insurance claim about the host's husband; the host says it will be shown next week).
 - **Date discrepancy**: the host dates Erika Kirk's frail-mother Instagram post to September 8 ("2 days before"), while prior claim C-2284 and node N-10479 date it September 7. C-3803 is linked as Supports C-2284 on the shared proposition; the date difference is preserved.
 - **Name matching**: "Elizabeth McCord" (19:56, 20:52) and "Elizabeth McCoy" (15:29) are both mapped to N-218 Eliza McCoy (alias Elizabeth McCoy). The context (the airport story and Mikey McCoy's wife) indicates the same person, but McCord may be a transcription error. "Cat" (14:28) and "Katherine Locastro" (15:29) are treated as one new person, N-600. Episodes 083, 085 and 086 spell her LoCastro, LaCastro and Low Castro, but she has no row in nodes.tsv, so the integrator should dedupe. "Marina Medvin" is matched to N-494 Marina (TPUSA CMO) through its alias.
-- **Transcription ambiguities**: The comedian is spelled "Drewski", "Druski" and "Druski"; these are kept as written and aliased to N-597 Druski. Kolvet appears as "Andrew Kolvet" and "Andrew Kolvets". The tail number is first read as "N28 9 MM" and then corrected on air to N582MM. The scanner line "2J436 436" is a unit or cruiser identifier per the host. "Sergeant Dupey" spelling is unverified.
+- **Transcription ambiguities**: The comedian is spelled "Druski", "Druski" and "Druski"; these are kept as written and aliased to N-597 Druski. Kolvet appears as "Andrew Kolvet" and "Andrew Kolvets". The tail number is first read as "N28 9 MM" and then corrected on air to N582MM. The scanner line "2J436 436" is a unit or cruiser identifier per the host. "Sergeant Dupey" spelling is unverified.
 - **Timing ambiguity**: the host says Kolvet was "on the flight that landed at 4:30 p. m." (05:56) but elsewhere says "about 4:40 p. m." (02:15) and "4:36 plane" (14:28). All are preserved as spoken.
 - **Not inscribed as claims (admission test)**: Several statements fail falsifiability or rhetoric removal:
   - "Erika's always lying"
@@ -1435,5 +1435,5 @@ Confidence: high
   - The "black magic"/"gangstalk" characterizations of TPUSA critics
   - The "let them eat cake" framing
   - Rhetorical questions about why TPUSA will not answer questions
-- **Minor factual beats not inscribed**: the host was mocked on Saturday Night Live and in a Dave Chappelle skit; Charlie Kirk celebrated South Park's parody of him; Mikey McCoy did interviews from Charlie's office; the host corrected a Nick Shirley timeline; Charlie Kirk's position on Israel had shifted before he died; and the military enlistment age is rising from 35 to 42 in April. The host also says she suspects Charlie was looking at Frank Turek before a Laura Ingraham ("Laura Ingram") interview.
+- **Minor factual beats not inscribed**: the host was mocked on Saturday Night Live and in a Dave Chappelle skit; Charlie Kirk celebrated South Park's parody of him; Mikey McCoy did interviews from Charlie's office; the host corrected a Nick Shirley timeline; Charlie Kirk's position on Israel had shifted before he died; and the military enlistment age is rising from 35 to 42 in April. The host also says she suspects Charlie was looking at Frank Turek before a Laura Ingraham ("Laura Ingraham") interview.
 - **Sponsor reads** (Nick Nac, PureTalk, BlockTrust IRA) and merch promotion are excluded.

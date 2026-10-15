@@ -1,0 +1,475 @@
+[
+ {
+  "claim": "C-14628",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "Claim names Erika ('what she says Erika could have said'); N-2 belongs in Mentions."
+ },
+ {
+  "claim": "C-2654",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:02:40"
+  },
+  "note": "LinkedIn drone line falls ~02:45 in the 01:20-03:03 block; 02:40 is ~5s before."
+ },
+ {
+  "claim": "C-2659",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-212",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie ('news of Charlie's shooting')."
+ },
+ {
+  "claim": "C-2660",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-160",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie ('Charlie repeatedly said')."
+ },
+ {
+  "claim": "C-2663",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie ('two days before Charlie's death')."
+ },
+ {
+  "claim": "C-8566",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-412",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie ('where Charlie would sit')."
+ },
+ {
+  "claim": "C-8588",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-160",
+    "N-191",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie ('after Charlie was allegedly shot')."
+ },
+ {
+  "claim": "C-8597",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim refers only to 'the place in question'; Erika not referred to."
+ },
+ {
+  "claim": "C-8599",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim refers to no one but the host; Erika not referred to."
+ },
+ {
+  "claim": "C-8602",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim refers to no one but the host; Erika not referred to."
+ },
+ {
+  "claim": "C-8613",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-9"
+   ],
+   "relevance": "tangential"
+  },
+  "note": "Kash Patel not named in claim; Epstein deepfake video is tangential to the case."
+ },
+ {
+  "claim": "C-8632",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-490"
+   ]
+  },
+  "note": "Claim concerns only Lori's whereabouts; Erika not referred to."
+ },
+ {
+  "claim": "C-2676",
+  "episode": 89,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-5",
+    "N-299"
+   ]
+  },
+  "note": "'her money' clearly refers to Miriam Adelson, who made the request."
+ },
+ {
+  "claim": "C-8662",
+  "episode": 89,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-5",
+    "N-22",
+    "N-46",
+    "N-93"
+   ]
+  },
+  "note": "Claim names Tucker Carlson ('Tucker Carlson's company')."
+ },
+ {
+  "claim": "C-8665",
+  "episode": 89,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Claim does not name or refer to Andrew Kolvet."
+ },
+ {
+  "claim": "C-2682",
+  "episode": 90,
+  "decision": "accept",
+  "fix": {
+   "label": "Defense Motion Places Tyler Robinson Miranda Advisement at 6:25 p.m. on September 11",
+   "mentions": [
+    "N-40"
+   ]
+  },
+  "note": "Doug Terry not in claim; host says documents 'suggest', so label attributing to motion is right."
+ },
+ {
+  "claim": "C-2689",
+  "episode": 90,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5",
+    "N-421"
+   ]
+  },
+  "note": "Claim names Trump."
+ },
+ {
+  "claim": "C-2714",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host shows an Instagram video of Erika Kirk and Eileen Marx embracing shortly after Charlie Kirk's assassination, which she says Victor Marx posted with impassioned music added (\"Held\" by Natalie Grant)."
+  },
+  "note": "Host: 'someone should upload it to Instagram, as Victor Marx did, and put some... impassioned music behind it.'"
+ },
+ {
+  "claim": "C-2720",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "claim": "Responding to the viewer comment, the host says she did not know that, that the viewer could be onto something and she will leave it to people in the military, but that Victor Marx's was 'a 2-year service, for sure' and her team looked into that.",
+   "label": "Host Says Viewer Could Be Onto Something and Marx's Service Was 2 Years",
+   "mentions": [
+    "N-3",
+    "N-342"
+   ]
+  },
+  "note": "Host says viewer 'could be onto something' but 'it is a 2-year service, for sure'; she does not disagree."
+ },
+ {
+  "claim": "C-12843",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-727",
+    "N-350",
+    "N-342"
+   ]
+  },
+  "note": "'Marx's brother' refers to Victor Marx."
+ },
+ {
+  "claim": "C-12844",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Marx's biological father, Karl Marx, was apparently a pimp, drug dealer and world-famous martial arts expert who spent time in a mental hospital for homicidal tendencies.",
+   "label": "Host Says Marx's Biological Father Karl Marx Was a Pimp, Drug Dealer and Martial Arts Expert",
+   "names": [
+    {
+     "wrong": "Carl Marx",
+     "right": "Karl Marx",
+     "source": "https://www.victormarx4co.com/victor-marx-father"
+    }
+   ]
+  },
+  "note": "Verified: victormarx4co.com and other sources name his father Karl W. Marx (Cajun Karate founder)."
+ },
+ {
+  "claim": "C-12849",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-342",
+    "N-727"
+   ]
+  },
+  "note": "'his brother, who had received a light sentence' is Mike Kennedy."
+ },
+ {
+  "claim": "C-12865",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-345"
+   ]
+  },
+  "note": "Claim names 'Hall and his wife' (Melody Hall)."
+ },
+ {
+  "claim": "C-12866",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-345"
+   ]
+  },
+  "note": "Claim names 'Hall and his wife' (Melody Hall)."
+ },
+ {
+  "claim": "C-2730",
+  "episode": 92,
+  "decision": "accept",
+  "fix": {
+   "mentions": [],
+   "label": "Per Text Host Shows, Georgia High School Event Cancelled Monday Citing \"Scheduling Complications\""
+  },
+  "note": "Claim names no person; host says 'a local high school' in Georgia, not UGA."
+ },
+ {
+  "claim": "C-11376",
+  "episode": 92,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-2"
+   ]
+  },
+  "note": "JD Vance not named or referred to in the claim."
+ },
+ {
+  "claim": "C-11379",
+  "episode": 92,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-3"
+   ]
+  },
+  "note": "Claim names Charlie Kirk."
+ },
+ {
+  "claim": "C-11381",
+  "episode": 92,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ },
+ {
+  "claim": "C-11382",
+  "episode": 92,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ },
+ {
+  "claim": "C-11386",
+  "episode": 92,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the UGA event looks to have been the worst audience turnout in Turning Point's history.",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "'I am told' attaches to the DC ticket point; worst-turnout line is host's own. Erika not referred to."
+ },
+ {
+  "claim": "C-11395",
+  "episode": 92,
+  "decision": "accept",
+  "fix": {
+   "mentions": [],
+   "relevance": "tangential"
+  },
+  "note": "Claim says 'US administration', not Vance; Iran school strike is tangential."
+ },
+ {
+  "claim": "C-11398",
+  "episode": 92,
+  "decision": "accept",
+  "fix": {
+   "mentions": [],
+   "relevance": "tangential"
+  },
+  "note": "Vance not named in claim; Hormuz war aims tangential."
+ },
+ {
+  "claim": "C-11417",
+  "episode": 92,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Colonel Otto Busher, tied to the Romanian matter at the military base, worked with Romanian Angels, which she calls Erika Kirk's charity; she separately lists the civilian commander stationed at Fort Huachuca who was charged with running a child sex abuse ring.",
+   "label": "Host Says Otto Busher Worked With Romanian Angels and Lists a Fort Huachuca Civilian Commander Charged With Running a Child Sex Abuse Ring"
+  },
+  "note": "Ep 54 host names the Fort Huachuca civilian commander as David Frodsham, not Busher; list items are separate."
+ },
+ {
+  "claim": "C-2744",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the CBS News article the host shows, a person familiar with the matter said the US Secret Service determined there were no credible threats to the Turning Point USA rally at the University of Georgia and no known threats to the protectee, whom the host identifies as the Vice President.",
+   "mentions": [
+    "N-4"
+   ]
+  },
+  "note": "CBS: 'no known threats to the protectee'; 'That would be VP' is host's gloss. VP referred to."
+ },
+ {
+  "claim": "C-2754",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:40:43"
+  },
+  "note": "LA Times $2M of $37M detail at ~40:48; 40:43 is ~5s before."
+ },
+ {
+  "claim": "C-2755",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:43:33"
+  },
+  "note": "'cartridge case matched' at ~43:38; 43:33 is ~5s before."
+ },
+ {
+  "claim": "C-2758",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the Daily Mail article the host reads, an insider stated: \"She pulled out of the TPUSA event because of a bunch of factors. I don't think it was just security concerns… If there were security concerns, the vice president wouldn't have gone.\"",
+   "label": "Daily Mail Insider Says Cancellation Was Not Solely Security-Related",
+   "timestamp": "00:21:10",
+   "mentions": [
+    "N-2",
+    "N-4"
+   ]
+  },
+  "note": "Article says 'close confidant'/'insider', not TPUSA insider; quote ~21:15; quote refers to Erika and the VP."
+ },
+ {
+  "claim": "C-2759",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Quote is about Erika ('so she canceled')."
+ },
+ {
+  "claim": "C-2761",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "claim": "Host explicitly endorses Elizabeth Lane's prior post that, in Lane's opinion, \"Erika Kirk exhibits the attributes of a psychopath,\" characterizing Erika's directing her PR team to blame the public as \"malevolent.\"",
+   "timestamp": "00:16:24"
+  },
+  "note": "Host keeps Lane's 'in her opinion' hedge; 'malevolent' line ~16:29."
+ },
+ {
+  "claim": "C-11436",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-342",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie Kirk."
+ }
+]

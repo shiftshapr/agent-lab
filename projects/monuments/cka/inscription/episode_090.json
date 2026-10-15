@@ -1711,7 +1711,7 @@
       "@type": "Claim",
       "@id": "C-2682",
       "ref": "C-2682",
-      "label": "Tyler Robinson Mirandized at 6:25 p.m. on September 11",
+      "label": "Defense Motion Places Tyler Robinson Miranda Advisement at 6:25 p.m. on September 11",
       "claim": "The defense Motion to Exclude Still Photography records a Miranda advisement at the 3-hour-36-minute mark of an interview video, which the host identifies as 6:25 p.m. on September 11, 2025.",
       "anchored_artifacts": [
         "A-1948.1"
@@ -1723,8 +1723,7 @@
       "claim_timestamp": "00:32:25",
       "investigative_direction": "Obtain certified copy of motion and underlying video exhibit; cross-reference timestamp with booking and arrest records.",
       "mentions_person_refs": [
-        "N-40",
-        "N-422"
+        "N-40"
       ]
     },
     {
@@ -1732,7 +1731,7 @@
       "@id": "C-2683",
       "ref": "C-2683",
       "label": "Tyler Robinson requested attorney Doug Terry during Mirandization",
-      "claim": "During the recorded Mirandization referenced in A-1948.1, Robinson asked to speak with legal counsel, a fellow in Utah named Doug Terry, and said he thinks Terry's office is closed for the night.",
+      "claim": "Per the defense motion the host reads (A-1948.1), during the recorded Mirandization Robinson asked to speak with legal counsel, a fellow in Utah named Doug Terry, and said he thinks Terry's office is closed for the night.",
       "anchored_artifacts": [
         "A-1948.1"
       ],
@@ -1789,7 +1788,7 @@
       "@id": "C-2686",
       "ref": "C-2686",
       "label": "Andrew Kolvet stated pitches were received for \"Charlie GPT\"",
-      "claim": "In a recorded interview clip, Andrew Kolvet states that pitches for a \"Charlie GPT\" product were received multiple times.",
+      "claim": "In a recorded interview clip, Andrew Kolvet says he feels he has 'a Charlie GPT or something in the back of my head' and that they have been pitched multiple times on 'the weird AI thing'.",
       "anchored_artifacts": [
         "A-1950.1"
       ],
@@ -1856,6 +1855,7 @@
       "claim_timestamp": "00:52:54",
       "investigative_direction": "Retrieve the original Truth Social post and engagement metrics.",
       "mentions_person_refs": [
+        "N-5",
         "N-421"
       ]
     },
@@ -3386,7 +3386,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:52:54",
       "investigative_direction": "Retrieve the original Truth Social post.",
@@ -3411,7 +3411,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:54:07",
       "investigative_direction": "Retrieve the original post for exact text.",
@@ -3434,7 +3434,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:55:46",
       "investigative_direction": "Locate the event video and Bishop Barron's published explanation.",
@@ -3457,7 +3457,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:58:29",
       "investigative_direction": "Obtain the press conference transcript and date.",
@@ -3479,7 +3479,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:59:24",
       "investigative_direction": "Obtain the press conference transcript.",
@@ -3501,7 +3501,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:59:24",
       "investigative_direction": "Retrieve the original post and contemporaneous reactions from Protestant leaders.",

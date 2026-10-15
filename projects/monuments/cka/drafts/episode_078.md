@@ -1161,7 +1161,7 @@ Claim Timestamp: 00:08:25
 Claim: Per the displayed news clip, a federal jury in Manhattan found Tal, Oren, and Alon Alexander guilty of all 10 counts, including sex trafficking; Tal and Alon also convicted of sex trafficking a minor; Oren and Alon also convicted of sexual abuse. Sentencing scheduled for August.
 
 Anchored Artifacts: A-1836.1
-Mentions: N-179, N-587, N-588, N-589
+Mentions: N-587, N-588, N-589
 Investigative Direction: Obtain federal court docket for the Southern District of New York case, cross-reference Epstein-file redaction entries, and document Kushner/White House visit records for the brothers.
 
 ---
@@ -1238,6 +1238,7 @@ Claim Timestamp: 00:30:45
 Claim: Per the displayed van interior photo, the host says it looks very much to her like shattered glass across the back seat, and notes some people think it could be part of Charlie Kirk's microphone.
 
 Anchored Artifacts: A-1841.1, A-1841.2
+Mentions: N-1
 Related Nodes: N-10536
 Investigative Direction: Obtain high-resolution originals; have forensic imaging analysts characterize the scattered material and compare to TPUSA's account of vehicle interior condition.
 
@@ -1299,7 +1300,7 @@ Investigative Direction: Identify date and program of the clip; corroborate via 
 
 Claim Timestamp: 00:43:29
 
-Claim: Per the displayed Turning Point Action tweet, the organization characterized Massie as a "rhino" who needed to be replaced.
+Claim: The host says Turning Point Action tweeted that Thomas Massie was a "rhino" who needed to be replaced, and shows the tweet.
 
 Anchored Artifacts: A-1844.1
 Mentions: N-582
@@ -1325,7 +1326,7 @@ Investigative Direction: Preserve community note metadata; identify raters and a
 
 Claim Timestamp: 00:44:27
 
-Claim: Per the displayed video instances cited in Massie's reply tweet and host commentary, Charlie Kirk identified Massie as a favorite congressman on multiple occasions from at least 2016 through 2023.
+Claim: The host says Massie's reply shows a tweet of Charlie Kirk calling Massie one of his favorite congressmen, and that Massie had been Charlie's favorite congressman from at least 2016 through 2023.
 
 Anchored Artifacts: A-1843.1, A-1845.1
 Mentions: N-1, N-582
@@ -1406,7 +1407,7 @@ Claim Timestamp: 00:22:59
 Claim: The host says Renee Crossman defends the cult, which, according to the investigative piece, was subsequently instructed to disperse and hide themselves in the world of nonprofit.
 
 Anchored Artifacts: A-1839.1
-Mentions: 
+Mentions: N-585
 Related Nodes: N-10534
 Investigative Direction: Cross-reference with documented post-1970s directives from David Berg and successor leadership regarding dispersal strategy; examine nonprofit registration patterns of former members.
 
@@ -1436,7 +1437,7 @@ Claim: The host says she was told that Erika was the point person for Next Model
 Transcript Snippet: Erika Frantzve was, as we were told, the point person to the firm when it came to housing young models.
 
 Anchored Artifacts: 
-Mentions: N-2, N-571
+Mentions: N-2
 Related Nodes: N-10532, N-10519
 Supports: C-10268, C-10270
 Tags: relevance:core
@@ -1737,7 +1738,7 @@ Investigative Direction: Obtain the episode's air time and metadata and communic
 
 Claim Timestamp: 00:12:12
 
-Claim: The host says that on the episode Kolvet said he was calling in and never does this, while, she says, the team was together in DC.
+Claim: The host says that on the episode Kolvet said he was calling in and never does this, while, she says, they were together in DC.
 
 Transcript Snippet: I'm calling in. I never do this. Haha. Meanwhile, you're together in DC.
 
@@ -1775,7 +1776,7 @@ Claim: In the played clip Erika Kirk says the Black Sea Rotational Force base go
 Transcript Snippet: The Black Sea rotational force base got moved to Norway in 2018. Mhm. And for the past, I want to say eight to nine months, maybe even 10, um the woman that is the boots on the ground in Romania
 
 Anchored Artifacts: A-3220.1
-Mentions: N-2
+Mentions: N-2, N-585
 Related Nodes: N-11165
 Supports: C-10260
 Tags: relevance:context
@@ -1884,7 +1885,7 @@ Investigative Direction: Find Crossman's own statements about cult membership an
 
 Claim Timestamp: 00:22:23
 
-Claim: The host says the US Marines Crossman partnered with were later accused of wrongdoing, namely prostituting children.
+Claim: The host says the US Marines Crossman partnered with were going to be accused of wrongdoing, namely prostituting children.
 
 Transcript Snippet: No, the US Marines that she partnered with were going to be accused of wrongdoing. They're going to be accused of prostituting uh children.
 
@@ -1973,7 +1974,7 @@ Investigative Direction: Ask the host for the evidence underlying the occult-cer
 
 ---
 
-**C-12706** Host Says TPUSA Told a Story About Having So Much Gauze
+**C-12706** Host Says They Told a Story About Having So Much Gauze
 
 Claim Timestamp: 00:31:14
 
@@ -2254,7 +2255,7 @@ Claim: The host says Turning Point Action is run by Tyler Bowyer and kicks money
 Transcript Snippet: Turning Point Action which is run by Tyler Bowyer and which kicks money back to Erika's mother via Superfeed tweeted out that Thomas Massie was a rhino who needed to be replaced.
 
 Anchored Artifacts: 
-Mentions: N-11, N-490, N-582
+Mentions: N-11, N-2, N-490
 Related Nodes: N-10922
 Tags: relevance:core
 Investigative Direction: Pull Turning Point Action FEC disbursements to Superfeed and Superfeed's ownership records.
@@ -2296,7 +2297,7 @@ Investigative Direction: Compare Massie's votes on Ukraine and Israel funding wi
 
 Claim Timestamp: 00:45:24
 
-Claim: The host says Turning Point acted as though it were under pressure and instantly brought out the people Charlie did not like, doing interviews with the New York Times, everyone who gave him grief while he was alive; she had said she would have waited a year before introducing the Mark Levins and Ben Shapiros.
+Claim: The host says Turning Point acted as though it were under pressure and instantly brought out the people Charlie did not like, doing interviews with the New York Times, everyone who gave him grief while he was alive; she said that if she were staging a Zionist ideology takeover she would have waited a year before introducing the Mark Levins and Ben Shapiros.
 
 Transcript Snippet: They had instantly bring it all out and bring out the people that Charlie didn't like. Doing interviews with the New York Times, everyone who gave him grief while he was alive.
 
@@ -2347,6 +2348,7 @@ Claim: The host says she did see students protesting the Turning Point chapter p
 Transcript Snippet: I did see they were protesting that in Arkansas. Good. Okay, they don't need a proclamation from a Huckabee to decide if they want to open a student club.
 
 Anchored Artifacts: A-3221.2
+Mentions: N-583
 Related Nodes: N-10533
 Tags: relevance:context
 Investigative Direction: Find local Arkansas coverage or social posts of the protests and the proclamation text.
@@ -2658,7 +2660,7 @@ Claim: The host says Trump pardoned Jared Kushner's father and then gave him pow
 Transcript Snippet: it's one thing like give someone a pardon, but it's another thing then like give them power. You know, have the ambassador to France.
 
 Anchored Artifacts: 
-Mentions: N-179
+Mentions: N-179, N-5
 Tags: relevance:context
 Investigative Direction: Check the pardon record and ambassadorial appointment for the Kushner family member the host means.
 

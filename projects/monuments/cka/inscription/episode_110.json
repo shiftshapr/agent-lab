@@ -813,7 +813,7 @@
       "ref": "N-435",
       "name": "Christoph Schweizer",
       "type": "person",
-      "description": "First named by the host at 00:18:28 in episode 110. Aliases: Kristoff Schweizer, Kristoff Schweiser.",
+      "description": "First named by the host at 00:18:28 in episode 110. Aliases: Christoph Schweizer, Kristoff Schweiser.",
       "related_artifacts": [],
       "related_claims": [
         "C-2919",
@@ -1952,8 +1952,8 @@
       "@type": "Claim",
       "@id": "C-2920",
       "ref": "C-2920",
-      "label": "Kristoff Schweizer (BCG CEO) described Project Aurora as \"reputationally very damaging\"",
-      "claim": "Per host reading, BCG CEO Kristoff Schweizer described the Project Aurora episode as \"reputationally very damaging.\"",
+      "label": "Christoph Schweizer (BCG CEO) described Project Aurora as \"reputationally very damaging\"",
+      "claim": "Per host reading, BCG CEO Christoph Schweizer described the Project Aurora episode as \"reputationally very damaging.\"",
       "anchored_artifacts": [
         "A-2077.1"
       ],
@@ -2042,7 +2042,7 @@
       "@id": "C-2925",
       "ref": "C-2925",
       "label": "Mitt Romney was the driver in a June 16, 1968 France car crash that killed Leola Anderson",
-      "claim": "Per NYT article, on June 16, 1968, Mitt Romney was driving a car in southern France that was hit head-on; H. Dwayne Anderson's wife Leola was killed.",
+      "claim": "Per NYT article, on June 16, 1968, Mitt Romney was driving a car in southern France that was hit head-on; H. Duane Anderson's wife Leola was killed.",
       "anchored_artifacts": [
         "A-2081.1"
       ],
@@ -3451,7 +3451,7 @@
       "@id": "C-14687",
       "ref": "C-14687",
       "label": "NYT Says Six People Rode in a Five-Seat Car Driven by 21-Year-Old Romney",
-      "claim": "Per the New York Times article the host reads, H. Dwayne Anderson took his wife, two missionaries and a French Mormon couple, six people in a car that comfortably seats five, driven by 21-year-old missionary Mitt Romney.",
+      "claim": "Per the New York Times article the host reads, H. Duane Anderson took his wife, two missionaries and a French Mormon couple, six people in a car that comfortably seats five, driven by 21-year-old missionary Mitt Romney.",
       "anchored_artifacts": [
         "A-2081.1"
       ],

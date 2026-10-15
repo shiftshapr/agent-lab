@@ -758,14 +758,14 @@ Bishop; first named by the host at 00:55:46 in episode 90 (stood beside Paula Wh
 
 ## 5. Claim Register
 
-**C-2682** Tyler Robinson Mirandized at 6:25 p.m. on September 11
+**C-2682** Defense Motion Places Tyler Robinson Miranda Advisement at 6:25 p.m. on September 11
 
 Claim Timestamp: 00:32:25
 
 Claim: The defense Motion to Exclude Still Photography records a Miranda advisement at the 3-hour-36-minute mark of an interview video, which the host identifies as 6:25 p.m. on September 11, 2025.
 
 Anchored Artifacts: A-1948.1
-Mentions: N-40, N-422
+Mentions: N-40
 
 Related Nodes: N-10593
 
@@ -777,7 +777,7 @@ Investigative Direction: Obtain certified copy of motion and underlying video ex
 
 Claim Timestamp: 00:33:31
 
-Claim: During the recorded Mirandization referenced in A-1948.1, Robinson asked to speak with legal counsel, a fellow in Utah named Doug Terry, and said he thinks Terry's office is closed for the night.
+Claim: Per the defense motion the host reads (A-1948.1), during the recorded Mirandization Robinson asked to speak with legal counsel, a fellow in Utah named Doug Terry, and said he thinks Terry's office is closed for the night.
 
 Anchored Artifacts: A-1948.1
 Mentions: N-40, N-422
@@ -822,7 +822,7 @@ Investigative Direction: Authenticate timestamp, venue, and speakers; obtain the
 
 Claim Timestamp: 00:13:17
 
-Claim: In a recorded interview clip, Andrew Kolvet states that pitches for a "Charlie GPT" product were received multiple times.
+Claim: In a recorded interview clip, Andrew Kolvet says he feels he has 'a Charlie GPT or something in the back of my head' and that they have been pitched multiple times on 'the weird AI thing'.
 
 Anchored Artifacts: A-1950.1
 Mentions: N-14
@@ -870,7 +870,7 @@ Claim Timestamp: 00:52:54
 Claim: A Trump Truth Social post is read aloud in the episode calling Pope Leo XIV "weak on crime" and criticizing the Pope's positions on Iran, Venezuela, and criticism of the President.
 
 Anchored Artifacts: A-1952.1
-Mentions: N-421
+Mentions: N-5, N-421
 
 Related Nodes:
 
@@ -1940,7 +1940,7 @@ Anchored Artifacts: A-1952.1
 Mentions: N-3, N-5, N-421
 Related Nodes: 
 Supports: C-2689
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Retrieve the original Truth Social post.
 
 ---
@@ -1957,7 +1957,7 @@ Anchored Artifacts: A-1952.1
 Mentions: N-3, N-5, N-421
 Related Nodes: 
 Supports: C-2689
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Retrieve the original post for exact text.
 
 ---
@@ -1973,7 +1973,7 @@ Transcript Snippet: Bishop Barron standing beside Paula White during that prayer
 Anchored Artifacts: 
 Mentions: N-3, N-814, N-775, N-5
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the event video and Bishop Barron's published explanation.
 
 ---
@@ -1989,7 +1989,7 @@ Transcript Snippet: I don't think he's doing a very good job. He likes crime, I 
 Anchored Artifacts: A-2960.1
 Mentions: N-3, N-5, N-421
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the press conference transcript and date.
 
 ---
@@ -2005,7 +2005,7 @@ Transcript Snippet: He's a very liberal person. And he's a man that doesn't beli
 Anchored Artifacts: A-2960.1
 Mentions: N-3, N-5, N-421
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the press conference transcript.
 
 ---
@@ -2022,7 +2022,7 @@ Anchored Artifacts: A-2961.1
 Mentions: N-3, N-5
 Related Nodes: 
 Supports: C-2691
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Retrieve the original post and contemporaneous reactions from Protestant leaders.
 
 ---

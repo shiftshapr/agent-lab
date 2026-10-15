@@ -1188,10 +1188,7 @@
     ],
     [
       "\\bIngram Angle\\b",
-      "Ingraham Angle",
-      [
-        67
-      ]
+      "Ingraham Angle"
     ],
     [
       "\\bJennifer Fahlman\\b",
@@ -2409,6 +2406,84 @@
     [
       "\\bEricaFrandsen\\b",
       "ErikaFrantzve"
+    ],
+    [
+      "\\bTarro Farnsworth\\b",
+      "Terryl Farnsworth"
+    ],
+    [
+      "\\bAJ Copp\\b",
+      "Jake Hoffman"
+    ],
+    [
+      "\\bLaura Ingram\\b",
+      "Laura Ingraham"
+    ],
+    [
+      "\\b(Norma Jean|Jimmy) Aids\\b",
+      "\\1 Ates"
+    ],
+    [
+      "\\bWi-Refi\\b",
+      "Yrefy"
+    ],
+    [
+      "\\bBaguer\\b",
+      "Bagur",
+      [
+        85
+      ]
+    ],
+    [
+      "\\bFrederick Vaglio\\b",
+      "Frédéric Vaglio"
+    ],
+    [
+      "\\bDaniel Balou\\b",
+      "Daniel Beaulieu"
+    ],
+    [
+      "\\bCarl Marx\\b",
+      "Karl Marx",
+      [
+        91
+      ]
+    ],
+    [
+      "\\bPrejean Bowler\\b",
+      "Prejean Boller"
+    ],
+    [
+      "\\bCarrie Preene Bowler\\b",
+      "Carrie Prejean Boller"
+    ],
+    [
+      "\\bRyan (?:Rippey|Rippien|Ripian)\\b",
+      "Ryan Rippeon"
+    ],
+    [
+      "\\b(?:Rippien|Ripian)\\b",
+      "Rippeon"
+    ],
+    [
+      "\\bDrewski\\b",
+      "Druski"
+    ],
+    [
+      "\\bEd Galvin\\b",
+      "Ed Gallrein"
+    ],
+    [
+      "\\bRichard Smallley\\b",
+      "Richard Smale"
+    ],
+    [
+      "\\bKristoff Schweizer\\b",
+      "Christoph Schweizer"
+    ],
+    [
+      "\\bH\\. Dwayne Anderson\\b",
+      "H. Duane Anderson"
     ]
   ]
 }

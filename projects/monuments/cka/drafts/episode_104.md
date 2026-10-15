@@ -561,7 +561,7 @@ Claim Timestamp: 00:04:55
 
 Claim: The host says Steven Cheung, Ryan Rippeon and Gustav Anderly were among those copied on the White House Military Office email.
 
-Transcript Snippet: Uh Steven Cheung was copied on the email. Um, Ryan Ripian was copied on the email and gentleman named Gustav Anderly was copied on the email.
+Transcript Snippet: Uh Steven Cheung was copied on the email. Um, Ryan Rippeon was copied on the email and gentleman named Gustav Anderly was copied on the email.
 
 Anchored Artifacts: A-2574.1
 Mentions: N-161, N-623, N-624, N-3

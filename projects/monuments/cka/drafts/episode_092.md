@@ -1112,7 +1112,7 @@ Investigative Direction: Obtain the full Fox News segment; identify which TPUSA 
 
 Claim Timestamp: 00:31:13
 
-Claim: Andrew Kolvet stated on Charlie Kirk's show that the Monday high school event was also cancelled due to "increased online chatter" being monitored by TPUSA security.
+Claim: Andrew Kolvet stated on Charlie Kirk's show that the high school event, which the host says was cancelled on Monday, was also cancelled due to "increased online chatter" being monitored by TPUSA security.
 
 Anchored Artifacts: A-1968.1
 Mentions: N-2, N-14, N-1
@@ -1169,14 +1169,14 @@ Investigative Direction: Confirm full interview date and air date; verify whethe
 
 ---
 
-**C-2730** Per Text Host Shows, UGA High School Event Cancelled Monday Citing "Scheduling Complications"
+**C-2730** Per Text Host Shows, Georgia High School Event Cancelled Monday Citing "Scheduling Complications"
 
 Claim Timestamp: 00:19:16
 
 Claim: Per a parent-alert text the host shows, TPUSA cancelled an optional high school event 'scheduled for tomorrow, September 14th' (as the host reads it), citing "scheduling complications" rather than security threats, according to the host.
 
 Anchored Artifacts: A-1972.1
-Mentions: N-2
+Mentions: 
 
 Related Nodes: N-10612
 
@@ -1188,7 +1188,7 @@ Investigative Direction: Obtain the original email/text from TPUSA to the school
 
 Claim Timestamp: 00:21:10
 
-Claim: Per a parental Facebook chat the host shows, parents and at least one teacher are organizing a walkout/boycott of Erika Kirk's appearance at Pinnacle High School in Phoenix, citing safety concerns.
+Claim: Per a parental Facebook chat the host shows, a parent and an anonymous member who says she is a teacher object to Erika Kirk's appearance at Pinnacle High School in Phoenix, the teacher calling it 'a safety risk' and urging parents to call their kids out of school; the host says they are organizing essentially a walkout, a boycott.
 
 Anchored Artifacts: A-1973.1
 Mentions: N-2
@@ -1404,7 +1404,7 @@ Claim: In a clip the host plays, Andrew Kolvet, on the UGA stage, tied the threa
 Transcript Snippet: Some of the people that have made you know part-time jobs out of attacking Erika and this is the net result.
 
 Anchored Artifacts: A-1966.1
-Mentions: N-14, N-2, N-4
+Mentions: N-14, N-2
 Related Nodes: N-10607
 Tags: relevance:core
 Investigative Direction: Obtain the full video of the UGA stage remarks and check who, if anyone, Kolvet named as the critics.
@@ -1452,7 +1452,7 @@ Claim: The host says that since Charlie Kirk's passing the Daily Wire has always
 Transcript Snippet: since Charlie's passing, the Daily Wire, you will note, always has the inside scoop on what's going on with Erika Kirk for some reason.
 
 Anchored Artifacts: A-1969.1
-Mentions: N-2, N-3
+Mentions: N-1, N-2, N-3
 Related Nodes: N-10900, N-10607
 Supports: C-2727
 Tags: relevance:context
@@ -1464,7 +1464,7 @@ Investigative Direction: Compile Daily Wire reports sourced to TPUSA officials s
 
 Claim Timestamp: 00:10:16
 
-Claim: The host says people had been tracking Erika Kirk's plane since the very beginning of her post-assassination travel, doing entire shows on it, and that she never cancelled anything because of it.
+Claim: The host says people had been tracking Erika Kirk's plane since the very beginning, doing entire shows on it, and that she never cancelled anything because of it.
 
 Transcript Snippet: People had been actually tracking Erika's plane since the very beginning. People were doing entire shows about where she was going and how much she was traveling and how ridiculous it was. And she never canled a single thing.
 
@@ -1485,7 +1485,7 @@ Claim: The host says the Akins Ford Arena at the Classic Center near the Univers
 Transcript Snippet: at the Classic Center, which is near the University of Georgia. The stadium holds just 7,000 people.
 
 Anchored Artifacts: 
-Mentions: N-2
+Mentions: 
 Related Nodes: N-10608
 Tags: relevance:context
 Investigative Direction: Check the venue's published capacity and UGA enrollment figures.
@@ -1501,7 +1501,7 @@ Claim: The host says TPUSA opened the free tickets for the UGA event to the gene
 Transcript Snippet: to make matters easier for them, they also opened the tickets, the free tickets to the general public.
 
 Anchored Artifacts: 
-Mentions: N-4, N-2
+Mentions: 
 Related Nodes: N-10608, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the event registration page, ticket terms and registration counts.
@@ -1561,12 +1561,12 @@ Investigative Direction: Locate the DC event's registration and attendance data 
 
 Claim Timestamp: 00:15:12
 
-Claim: The host says that, from what she has been told, the UGA event looks to have been the worst audience turnout in Turning Point's history.
+Claim: The host says the UGA event looks to have been the worst audience turnout in Turning Point's history.
 
 Transcript Snippet: And yesterday, it looks like was the worst audience turnout in Turning Point's history.
 
 Anchored Artifacts: A-1974.1
-Mentions: N-2, N-3
+Mentions: N-3
 Related Nodes: N-10608, N-10000
 Supports: C-2733
 Tags: relevance:core
@@ -1713,9 +1713,9 @@ Claim: The host says that the US administration blew up a school in Iran, killin
 Transcript Snippet: Like when you guys blew up that school, 150 Iranian school girls were killed and then you lied about it.
 
 Anchored Artifacts: 
-Mentions: N-4
+Mentions: 
 Related Nodes: N-11145, N-10541
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the Minab school strike casualty reports and official US statements.
 
 ---
@@ -1730,7 +1730,7 @@ Transcript Snippet: was not just even two days ago that Trump said that he thoug
 
 Anchored Artifacts: 
 Mentions: N-5
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the transcript and date of the Trump remarks about Jesus.
 
 ---
@@ -1745,7 +1745,7 @@ Transcript Snippet: How about Trump just generally attacking a pope because he's
 
 Anchored Artifacts: 
 Mentions: N-5, N-421, N-82
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the Trump statements on Pope Leo XIV and on Brigitte Macron and their dates.
 
 ---
@@ -1759,9 +1759,9 @@ Claim: The host says that the war with Iran, fought with the explicit aim of ope
 Transcript Snippet: Going to war with the explicit aim of opening the straight of Hormuse, which was already opened before you began the war, is pretty preposterous.
 
 Anchored Artifacts: 
-Mentions: N-4
+Mentions: 
 Related Nodes: N-10541
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check shipping-traffic data for the Strait of Hormuz before the war and the administration's stated war aims.
 
 ---
@@ -2018,7 +2018,7 @@ Anchored Artifacts: A-1980.1
 Mentions: N-425, N-3
 Related Nodes: N-10609
 Supports: C-2741
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the brother and obtain a first-hand account of what Wada said to colleagues.
 
 ---
@@ -2035,7 +2035,7 @@ Anchored Artifacts: A-1979.1
 Mentions: N-425, N-3
 Related Nodes: N-10609
 Supports: C-2739
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Confirm the family relationship through public records and obtain the consulting firm's registration.
 
 ---
@@ -2057,11 +2057,11 @@ Investigative Direction: Check the Maxfields' charity filings (Saprea) and the p
 
 ---
 
-**C-11417** Host Says Otto Busher Worked With Romanian Angels and Was Charged With Running a Child Sex Abuse Ring
+**C-11417** Host Says Otto Busher Worked With Romanian Angels and Lists a Fort Huachuca Civilian Commander Charged With Running a Child Sex Abuse Ring
 
 Claim Timestamp: 00:46:09
 
-Claim: The host says Colonel Otto Busher, the civilian commander stationed at Fort Huachuca, was charged with running a child sex abuse ring and worked with Romanian Angels, which she calls Erika Kirk's charity.
+Claim: The host says Colonel Otto Busher, tied to the Romanian matter at the military base, worked with Romanian Angels, which she calls Erika Kirk's charity; she separately lists the civilian commander stationed at Fort Huachuca who was charged with running a child sex abuse ring.
 
 Transcript Snippet: he worked with Romanian Angels which was her charity uh the civilian commander stationed at Fort Huachuca charged with running a child sex abuse ring
 

@@ -15,6 +15,16 @@
     ],
     "reviewed": [
       {
+        "claim": "C-12849",
+        "node": "N-727",
+        "reason": "claim text: 'his brother' (Victor Marx's brother Mike Kennedy); Opus re-check 2026-10-15"
+      },
+      {
+        "claim": "C-2744",
+        "node": "N-4",
+        "reason": "claim text: 'the Vice President' (JD Vance); Opus re-check 2026-10-15"
+      },
+      {
         "claim": "C-8232",
         "node": "N-17",
         "reason": "claim text: 'the McCoys' (Rob McCoy); Opus re-check 2026-10-15"

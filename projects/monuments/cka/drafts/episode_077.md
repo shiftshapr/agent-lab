@@ -165,7 +165,7 @@ Confidence Level: High
 
 **A-1829** Arizona SB 1439 Bill Bundle
 
-**A-1829.1** Arizona SB 1439: Charlie Kirk Memorial Specialty License Plate bill (introduced by AJ Copp; pushed by Jake Hoffman)
+**A-1829.1** Arizona SB 1439: Charlie Kirk Memorial Specialty License Plate bill (introduced by Jake Hoffman; pushed by Jake Hoffman)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -382,7 +382,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-580** AJ Copp
+**N-580** Jake Hoffman
 
 Introduced SB 1439 in the Arizona House on January 28 (year implied 2026).
 
@@ -1198,7 +1198,7 @@ Investigative Direction: Obtain the eyewitnesses' names, dates and the apartment
 
 Claim Timestamp: 00:05:58
 
-Claim: The host quotes a source saying that when younger girls first get to New York City, agencies pack them like cattle into one apartment, and says this is typical practice in the modeling world.
+Claim: The host says her sources confirm it was typical for modeling agencies to find places for girls to stay in New York, and quotes a source saying, "Younger girls, when they first get to New York City, they pack them in like cattle into one apartment."
 
 Transcript Snippet: Younger girls, when they first get to New York City, they pack them in like cattle into one apartment.
 
@@ -1610,16 +1610,16 @@ Investigative Direction: Check business filings showing shared entities between 
 
 ---
 
-**C-11220** AJ Copp introduced the plate bill on January 28
+**C-11220** Jake Hoffman Introduced the Plate Bill on January 28
 
 Claim Timestamp: 00:30:42
 
-Claim: The host says AJ Copp introduced a bill on January 28 for a state license plate to honor Charlie Kirk.
+Claim: The host says Jake Hoffman introduced a bill on January 28 for a state license plate to honor Charlie Kirk.
 
-Transcript Snippet: AJ Copp back on January 28th introduced a bill for a state license plate to honor Charlie Kirk.
+Transcript Snippet: Jake Hoffman back on January 28th introduced a bill for a state license plate to honor Charlie Kirk.
 
 Anchored Artifacts: A-1829.1
-Mentions: N-580, N-1
+Mentions: N-578, N-1
 Related Nodes: N-10529
 Tags: relevance:core
 Investigative Direction: Confirm the introduction date and sponsors on the Arizona Legislature bill history for SB 1439.

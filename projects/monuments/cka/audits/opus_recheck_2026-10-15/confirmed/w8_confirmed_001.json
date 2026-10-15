@@ -1,0 +1,508 @@
+[
+ {
+  "claim": "C-2419",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a 2012 email the host reads, the princess of Norway (Crown Princess Mette-Marit) wrote to Jeffrey Epstein that a cocktail of unnaturals affects early human development, that soon people won't be able to make new humans, and that humans could be designed in a lab; the host says the lead-up discussed food and antibiotics destroying living organisms.",
+   "label": "Epstein–Mette-Marit 2012 Email Discussed Lab-Designed Humans",
+   "mentions": [
+    "N-9"
+   ]
+  },
+  "note": "Tickle-my-brain 2012 emails are Crown Princess Mette-Marit's (CBS, Wikipedia); Martha Louise wrong."
+ },
+ {
+  "claim": "C-2424",
+  "episode": 76,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says a tipster told her that Faith Kates invited Jeffrey Epstein to her son's bar mitzvah, pointing to an email.",
+   "timestamp": "00:22:37"
+  },
+  "note": "Bar mitzvah email is inside the tip the host quotes, not something she independently shows; attribute to the tipster. Timestamp kept."
+ },
+ {
+  "claim": "C-2427",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she emailed Erika Kirk, copying TPUSA spokesperson Andrew Kolvet, asking specifically about the nature of Erika's meetings at Next Model Management NYC, and received no response (\"crickets\")."
+  },
+  "note": "'Within 48 hours' not said; host's account."
+ },
+ {
+  "claim": "C-2436",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Charlie Kirk appeared on Laura Ingraham's show (The Ingraham Angle) from his home studio between 4:00 and 5:00 PM Arizona time on September 8, 2025.",
+   "label": "Host Says Charlie Kirk Appeared on The Ingraham Angle 4:00-5:00 PM AZ on September 8",
+   "names": [
+    {
+     "wrong": "Laura Ingram",
+     "right": "Laura Ingraham",
+     "source": "https://www.foxnews.com/category/shows/ingraham-angle"
+    }
+   ]
+  },
+  "note": "Ingraham Angle is the Fox show; claim still carries the misspelling."
+ },
+ {
+  "claim": "C-10239",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says viewers who work at the White House emailed that Andrew Kolvet, Mikey McCoy and women who looked like McCoy's wife were in the West Wing while Kolvet was presented as live on the Kirk Show with Kash Patel.",
+   "label": "Host Says White House Viewers Reported Kolvet and McCoy With Women in West Wing",
+   "names": [
+    {
+     "wrong": "Mikey McVoy",
+     "right": "Mikey McCoy",
+     "source": "https://crossexamined.org/whats-next-for-turning-point-usa-continuing-the-legacy-of-charlie-kirk-with-mikey-rob-mccoy/"
+    }
+   ]
+  },
+  "note": "Transcript itself gives McCoy at 13:53; N-191 is Mikey McCoy."
+ },
+ {
+  "claim": "C-10241",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim does not refer to Kash Patel."
+ },
+ {
+  "claim": "C-10244",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-3"
+   ]
+  },
+  "note": "Claim does not refer to Neff or McCoy."
+ },
+ {
+  "claim": "C-10259",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Bowyer not in claim."
+ },
+ {
+  "claim": "C-10267",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a tipster told her that Kates wrote to Epstein even after his arrest that she would never betray him and had his back."
+  },
+  "note": "Inside the quoted tip."
+ },
+ {
+  "claim": "C-10269",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-9"
+   ]
+  },
+  "note": "Kates not in claim."
+ },
+ {
+  "claim": "C-10270",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Kates not in claim."
+ },
+ {
+  "claim": "C-11220",
+  "episode": 77,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Jake Hoffman introduced a bill on January 28 for a state license plate to honor Charlie Kirk.",
+   "label": "Jake Hoffman Introduced the Plate Bill on January 28",
+   "mentions": [
+    "N-578",
+    "N-1"
+   ],
+   "names": [
+    {
+     "wrong": "AJ Copp",
+     "right": "Jake Hoffman",
+     "source": "https://www.azsenaterepublicans.gov/press-releases/senator-hoffman-slams-hobbs-partisan-veto-of-charlie-kirk"
+    }
+   ]
+  },
+  "note": "SB 1439 sponsor is Sen. Jake Hoffman (AZ Senate GOP, AZ Mirror); host names Hoffman just before."
+ },
+ {
+  "claim": "C-2456",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-587",
+    "N-588",
+    "N-589"
+   ]
+  },
+  "note": "Kushner not in claim."
+ },
+ {
+  "claim": "C-2462",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "'his mic' refers to Charlie Kirk."
+ },
+ {
+  "claim": "C-2475",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-585"
+   ]
+  },
+  "note": "Claim names Renee Crossman."
+ },
+ {
+  "claim": "C-12672",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Kates not in claim."
+ },
+ {
+  "claim": "C-12693",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-585"
+   ]
+  },
+  "note": "Woman described is Renee Crossman, as the host goes on to identify."
+ },
+ {
+  "claim": "C-12723",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-11",
+    "N-2",
+    "N-490"
+   ]
+  },
+  "note": "Massie not in claim; Erika named via 'Erika's mother'."
+ },
+ {
+  "claim": "C-12729",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-583"
+   ]
+  },
+  "note": "'a Huckabee' refers to Sarah Huckabee Sanders."
+ },
+ {
+  "claim": "C-12749",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-179",
+    "N-5"
+   ]
+  },
+  "note": "Claim names Trump."
+ },
+ {
+  "claim": "C-2476",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per text messages the host shares, Charlie Kirk wrote of Ben Shapiro, \"He is unhinged. Stay the course.\""
+  },
+  "note": "Texts shown by host."
+ },
+ {
+  "claim": "C-2478",
+  "episode": 79,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per a text exchange the host shares, Charlie Kirk wrote of the McCains, \"Disgrace. They are a disgrace family. A disgraceful family for the ways in which they have betrayed Americans and allowed for mass murder and bloody wars overseas.\""
+  },
+  "note": "Attribution fix right, but the 'betrayed Americans' line is inside the quoted text (host and press reports give it as Kirk's reply); only 'speak when spoken to' is hers."
+ },
+ {
+  "claim": "C-2491",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-9"
+   ]
+  },
+  "note": "'Epstein list' refers to Epstein."
+ },
+ {
+  "claim": "C-11238",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Reads Megyn Kelly Reply Calling Shapiro Poor Little Ben",
+   "claim": "The host reads Megyn Kelly's reply to Shapiro, which calls him \"Poor little Ben\" and says he is \"desperate for me to protect him\"; the host then asks why they have been stalking and harassing Megyn Kelly."
+  },
+  "note": "'Why have they been stalking...' is host commentary."
+ },
+ {
+  "claim": "C-2518",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says somebody noted that Yair Netanyahu, who she says normally tweets or retweets about 30 times a day, went completely radio silent for 7 days."
+  },
+  "note": "Second-hand report."
+ },
+ {
+  "claim": "C-2523",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "label": "Student in Kirk Clip Calls Prophecy as Policy Theologically Problematic",
+   "claim": "In a clip the host plays from a July 2025 student discussion with Charlie Kirk, a student the host identifies as Dino Fantegrossi says, \"I find prophecy as policy generally to be theologically problematic.\"",
+   "mentions": [
+    "N-1",
+    "N-943"
+   ]
+  },
+  "note": "Reply is the student; host says Dino is responding."
+ },
+ {
+  "claim": "C-2534",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the PR text chain the host shows, at 3:26 p.m. Utah time (as the host adjusts it) on Sept 10, Andrew Kolvet wrote in the PR chat: \"Sorry, on the plane, this just loaded.\""
+  },
+  "note": "Per chat shown, host-adjusted time."
+ },
+ {
+  "claim": "C-2535",
+  "episode": 81,
+  "decision": "reject",
+  "fix": {
+   "claim": "The host says that at approximately 2:05 p.m. Utah time on Sept 10, Marina Minas, TPUSA's chief marketing officer, called Aubrey and asked her to draft the staff death statement because Andrew was on a plane.",
+   "label": "Host Says Marina Minas Asked Aubrey to Draft Death Statement Because Andrew Was on a Plane",
+   "mentions": [
+    "N-494",
+    "N-552",
+    "N-14"
+   ],
+   "names": [
+    {
+     "wrong": "Marina Medvin",
+     "right": "Marina Minas",
+     "source": "https://www.tpusa.com/staff"
+    }
+   ]
+  },
+  "note": "HELD for Daveed. TPUSA team page lists Marina Minas as CMO; transcript says Minas."
+ },
+ {
+  "claim": "C-2536",
+  "episode": 81,
+  "decision": "reject",
+  "fix": {
+   "claim": "The host says Aubrey, who drafted the Sept 10 death statement, was later terminated in connection with a conversation with an Uber driver that Marina Minas reportedly overheard.",
+   "mentions": [
+    "N-494",
+    "N-552"
+   ],
+   "names": [
+    {
+     "wrong": "Marina Medvin",
+     "right": "Marina Minas",
+     "source": "https://www.tpusa.com/staff"
+    }
+   ]
+  },
+  "note": "HELD for Daveed. Marina Minas confirmed (tpusa.com/team); Aubrey named."
+ },
+ {
+  "claim": "C-2537",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Kolvet and Charlie."
+ },
+ {
+  "claim": "C-2541",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a tweet the host reads, Mark Levin, reacting to the Joe Rogan segment about Erika Kirk, asked 'Is this some AI production?' and said 'If not, what a total disgrace.'",
+   "label": "Mark Levin Asked Whether Rogan Segment Was an AI Production",
+   "mentions": [
+    "N-245",
+    "N-269",
+    "N-2"
+   ]
+  },
+  "note": "Levin tweet reacted to the Rogan segment."
+ },
+ {
+  "claim": "C-11312",
+  "episode": 81,
+  "decision": "amend",
+  "fix": {
+   "claim": "On the radio show clip, a second speaker alongside Kolvet says the leaked private group-chat texts were used to kick off the conspiracy theory that Israel or the Jews had Charlie murdered, and both he and Kolvet say TPUSA does not believe that theory.",
+   "mentions": [
+    "N-1",
+    "N-14"
+   ]
+  },
+  "note": "Speaker fix right; the claim now names Kolvet, so add N-14."
+ },
+ {
+  "claim": "C-11365",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that although critics said the CIA did not produce the documentary Joe Rogan mentioned, in which Erika appears, the head of the CIA is in it, and that one has to get approval from the CIA to appear in a CIA documentary."
+  },
+  "note": "Rogan clip says she does a CIA video; host refers to it."
+ },
+ {
+  "claim": "C-2546",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that when she called on the morning of March 24, 2026, the charter company handling the Hawker Beechcraft N8724A told her, \"All of our planes have Wi-Fi.\""
+  },
+  "note": "Host's account of her call."
+ },
+ {
+  "claim": "C-2548",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the text chain the host describes, Andrew Kolvet sent a message at 3:26 PM MST (as the host adjusts it) on September 10, 2025 stating \"Sorry, on the plane. This just loaded,\" referencing a 1:30 PM MST message he had not previously answered."
+  },
+  "note": "Per chat host describes."
+ },
+ {
+  "claim": "C-2552",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Nick Shirley says that over the course of two days he got access to Comando Vermelho, one of Rio de Janeiro's largest gangs, and befriended soldiers so dangerous they cannot leave the favela.",
+   "timestamp": "00:36:15"
+  },
+  "note": "Not stated to be 9/10 show; quote at ~36:20."
+ },
+ {
+  "claim": "C-2557",
+  "episode": 82,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host refers to \"RY Reef air\" and \"Wi-Refi\" as the same plane: she says Erika Kirk told her about it (\"wife Reef air CEO\"), and she believes Andrew Kolvet took it from Santa Barbara to Scottsdale."
+  },
+  "note": "Attribution fix right, but 'Wyre CEO' is unresolved (no source found); keep the transcript wording."
+ },
+ {
+  "claim": "C-8557",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Andrew Kolvet's account shows Charlie Kirk was very upset about the interview, and that they were just going to let Ben take over Turning Point \"or something,\" with Erika letting him open.",
+   "mentions": [
+    "N-3",
+    "N-14",
+    "N-1",
+    "N-97",
+    "N-2"
+   ]
+  },
+  "note": "Kolvet clip: Charlie 'not super pleased'."
+ },
+ {
+  "claim": "C-8559",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads a comment from Anna that days after Charlie was killed one of the TPUSA guys, Blake Neff or Andrew Kolvet, said a large donor called Erika right after the shooting, asked if she knew everything about TPUSA, and chose her to replace Charlie.",
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-160",
+    "N-14",
+    "N-1"
+   ],
+   "names": [
+    {
+     "wrong": "an eff",
+     "right": "Neff",
+     "source": "https://wltreport.com/2025/12/03/charlie-kirks-longtime-producer-responds-candace-owens-claims/"
+    }
+   ]
+  },
+  "note": "'an eff' is Blake Neff, Charlie Kirk Show producer (WLT Report, RedState)."
+ },
+ {
+  "claim": "C-2561",
+  "episode": 83,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Nick Shirley confirmed to her that Andrew Kolvet's show was authentically live during the 9–10 a.m. Pacific block on September 10, 2025.",
+   "mentions": [
+    "N-3",
+    "N-214",
+    "N-14"
+   ],
+   "names": [
+    {
+     "wrong": "Nick Searcy",
+     "right": "Nick Shirley",
+     "source": "https://www.charliekirk.co.za/video/nick-shirley-responds-to-candace-owens-criticism-over-brazilian-favela-journalism-and-charlie-kirk-assassination-coverage/13228/"
+    }
+   ]
+  },
+  "note": "Host asked Nick Shirley in ep 82; Shirley says she credited his fact-check. Searcy is a garble."
+ }
+]

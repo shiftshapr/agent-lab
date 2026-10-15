@@ -1491,7 +1491,7 @@
       "ref": "N-597",
       "name": "Druski",
       "type": "person",
-      "description": "Druski (spelled Druski and Drewski in the transcript); comedian whose skit mocked Erika.",
+      "description": "Druski (spelled Druski and Druski in the transcript); comedian whose skit mocked Erika.",
       "related_artifacts": [],
       "related_claims": [
         "C-13007",
@@ -1941,7 +1941,7 @@
       "ref": "N-11356",
       "name": "Druski Skit Mocking Erika Kirk Controversy",
       "type": "topic",
-      "description": "The dispute over a Drewski comedy skit that mocked Erika Kirk, including whether it was racial and whether she took it too seriously.",
+      "description": "The dispute over a Druski comedy skit that mocked Erika Kirk, including whether it was racial and whether she took it too seriously.",
       "related_artifacts": [],
       "related_claims": [
         "C-13007",
@@ -3217,8 +3217,8 @@
       "@type": "Claim",
       "@id": "C-13007",
       "ref": "C-13007",
-      "label": "Host Says Charlie Would Have Laughed at the Drewski Skit but Erika Took It Seriously",
-      "claim": "The host says Charlie would have laughed at the Drewski skit mocking Erika, but Erika took it deadly seriously.",
+      "label": "Host Says Charlie Would Have Laughed at the Druski Skit but Erika Took It Seriously",
+      "claim": "The host says Charlie would have laughed at the Druski skit mocking Erika, but Erika took it deadly seriously.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11356"
@@ -3240,7 +3240,7 @@
       "@id": "C-13008",
       "ref": "C-13008",
       "label": "Host Says Kolvet and Others Tried to Make the Skit Racial",
-      "claim": "The host says people including Andrew Kolvet tried to turn the Drewski skit about Erika into a racial issue.",
+      "claim": "The host says people including Andrew Kolvet tried to turn the Druski skit about Erika into a racial issue.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11356"
@@ -3261,8 +3261,8 @@
       "@type": "Claim",
       "@id": "C-13009",
       "ref": "C-13009",
-      "label": "Host Says Drewski Also Mocks Vietnamese People in a Nail Salon Skit",
-      "claim": "The host says Drewski's skits mock many groups, including a skit in which he dressed as a Vietnamese person in a nail salon.",
+      "label": "Host Says Druski Also Mocks Vietnamese People in a Nail Salon Skit",
+      "claim": "The host says Druski's skits mock many groups, including a skit in which he dressed as a Vietnamese person in a nail salon.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11356"
@@ -3281,8 +3281,8 @@
       "@type": "Claim",
       "@id": "C-13010",
       "ref": "C-13010",
-      "label": "Host Says Drewski Posted a Video Last Week Targeting Black British Actors",
-      "claim": "The host says Drewski posted a massive video the previous week that targeted black British actors.",
+      "label": "Host Says Druski Posted a Video Last Week Targeting Black British Actors",
+      "claim": "The host says Druski posted a massive video the previous week that targeted black British actors.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11356"

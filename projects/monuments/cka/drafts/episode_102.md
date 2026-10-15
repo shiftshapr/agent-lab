@@ -688,7 +688,7 @@ Thomas Massie; named in a viewer comment.
 
 **N-597** Druski
 
-Druski (spelled Druski and Drewski in the transcript); comedian whose skit mocked Erika.
+Druski (spelled Druski and Druski in the transcript); comedian whose skit mocked Erika.
 
 *Related: C-13007, C-13008, C-13009, C-13010*
 
@@ -881,7 +881,7 @@ Existing topic reused for Kolvet PR role.
 **N-11356** Druski Skit Mocking Erika Kirk Controversy
 
 Node Type: Topic
-The dispute over a Drewski comedy skit that mocked Erika Kirk, including whether it was racial and whether she took it too seriously.
+The dispute over a Druski comedy skit that mocked Erika Kirk, including whether it was racial and whether she took it too seriously.
 
 *Related: C-13007, C-13008, C-13009, C-13010*
 
@@ -1843,11 +1843,11 @@ Investigative Direction: No source is given on air; any reporting on current CIA
 
 ---
 
-**C-13007** Host Says Charlie Would Have Laughed at the Drewski Skit but Erika Took It Seriously
+**C-13007** Host Says Charlie Would Have Laughed at the Druski Skit but Erika Took It Seriously
 
 Claim Timestamp: 00:40:55
 
-Claim: The host says Charlie would have laughed at the Drewski skit mocking Erika, but Erika took it deadly seriously.
+Claim: The host says Charlie would have laughed at the Druski skit mocking Erika, but Erika took it deadly seriously.
 
 Transcript Snippet: Charlie would have laughed at that stuff, but we see that Erika has taken the Druski skit deadly serious for some reason.
 
@@ -1863,7 +1863,7 @@ Investigative Direction: Locate the Druski skit and Erika Kirk's or TPUSA's publ
 
 Claim Timestamp: 00:41:46
 
-Claim: The host says people including Andrew Kolvet tried to turn the Drewski skit about Erika into a racial issue.
+Claim: The host says people including Andrew Kolvet tried to turn the Druski skit about Erika into a racial issue.
 
 Transcript Snippet: the people that were trying to turn that into something racial, like Andrew Kolvet, now do like black conservatives.
 
@@ -1875,11 +1875,11 @@ Investigative Direction: Find Kolvet's and other TPUSA figures' posts characteri
 
 ---
 
-**C-13009** Host Says Drewski Also Mocks Vietnamese People in a Nail Salon Skit
+**C-13009** Host Says Druski Also Mocks Vietnamese People in a Nail Salon Skit
 
 Claim Timestamp: 00:41:46
 
-Claim: The host says Drewski's skits mock many groups, including a skit in which he dressed as a Vietnamese person in a nail salon.
+Claim: The host says Druski's skits mock many groups, including a skit in which he dressed as a Vietnamese person in a nail salon.
 
 Transcript Snippet: He dressed up like he was Vietnamese person, did this whole nail salon thing.
 
@@ -1891,11 +1891,11 @@ Investigative Direction: Locate the nail salon skit and its date.
 
 ---
 
-**C-13010** Host Says Drewski Posted a Video Last Week Targeting Black British Actors
+**C-13010** Host Says Druski Posted a Video Last Week Targeting Black British Actors
 
 Claim Timestamp: 00:41:46
 
-Claim: The host says Drewski posted a massive video the previous week that targeted black British actors.
+Claim: The host says Druski posted a massive video the previous week that targeted black British actors.
 
 Transcript Snippet: just last week he dropped a massive video where he was targeting black British actors and it was hilarious and we just laughed at it.
 
@@ -2887,7 +2887,7 @@ Confidence: high
 - **Artifact verbally referenced but not shown** – A-2070.1 (Hillsdale College honorary doctorate announcement): Cited as fact by host but no press release, news article, or Hillsdale College source was displayed in the episode.
 - **Source-based testimony without on-record statement** – A-2068.1, A-2068.2: Marcus Wada AI voice services claim is attributed to "a source which came forward" with no named on-record source displayed.
 - **Transcript ambiguity** – Reference to "a friend ban" writing a comment at [40:55] appears to be a transcription artifact for "Friend Ban" (likely a username).
-- **Possible transcription error** – Several host colloquialisms ("Drewski," "Druski") refer to the same personality but are spelled inconsistently in the transcript; preserved as they appear.
+- **Possible transcription error** – Several host colloquialisms ("Druski," "Druski") refer to the same personality but are spelled inconsistently in the transcript; preserved as they appear.
 - **Claim failed admission test** – Several host assertions in this episode are framing premises rather than evidence-backed claims, including:
   - "Erika would be a confirmed ruthless psychopath"
   - "She is capable of real harm"

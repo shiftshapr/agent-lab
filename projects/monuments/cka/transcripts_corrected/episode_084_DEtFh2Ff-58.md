@@ -33,7 +33,7 @@ All right, you guys. Happy Thursday. Got a lot going on today. We're going to go
 
 [00:46]
 
-Thanks to the police scanner on September 10th in Provo upon which the officers were discussing sending a team to pick up Erika. Look, these people are simply not going to get away with what they did to Charlie. Not if Drewski the comedian has anything to do with it. I will be reacting to his viral skit later. Welcome back to Candace.
+Thanks to the police scanner on September 10th in Provo upon which the officers were discussing sending a team to pick up Erika. Look, these people are simply not going to get away with what they did to Charlie. Not if Druski the comedian has anything to do with it. I will be reacting to his viral skit later. Welcome back to Candace.
 
 ## TPUSA's 9/10 timelines and stories are just not adding up.
 
@@ -255,7 +255,7 @@ But I feel him when he has it. Me on the inside trying to stay calm. Cheryl writ
 
 [45:40]
 
-Cameron Byer writes, "I just knew Candace would say something about Drewski sending love and aloha to everyone from Hawaii." Uh aloha. Uh UFO writes, "Andrew Kolvet at hahaha." Yeah, he's big mad. Go after black conservatives. Who's he talking about? Just say it. I want Andrew to just come on the show, man. I just want him to come on the show. They're never going to come on the show. Rabbi's not going to come on the show. They all want to smear me and say things about me. Nobody wants to come on the show and discuss these things with me. If you believed it, if you believed I got something wrong, and I may have along the way. But guess what? If I get something wrong, I will change it. I will say, "Upon more information, I realized that the theory that I put out is not correct." Um and here is how I know. I'm happy to make those edits. So, why be stressed about what I am saying?
+Cameron Byer writes, "I just knew Candace would say something about Druski sending love and aloha to everyone from Hawaii." Uh aloha. Uh UFO writes, "Andrew Kolvet at hahaha." Yeah, he's big mad. Go after black conservatives. Who's he talking about? Just say it. I want Andrew to just come on the show, man. I just want him to come on the show. They're never going to come on the show. Rabbi's not going to come on the show. They all want to smear me and say things about me. Nobody wants to come on the show and discuss these things with me. If you believed it, if you believed I got something wrong, and I may have along the way. But guess what? If I get something wrong, I will change it. I will say, "Upon more information, I realized that the theory that I put out is not correct." Um and here is how I know. I'm happy to make those edits. So, why be stressed about what I am saying?
 
 [46:24]
 
@@ -267,7 +267,7 @@ Creme de la crime writes, "The level of vitriol I've seen today on socials, atta
 
 [48:23]
 
-Please find that. Please find that victim. People are just so dumb on the internet, but you're right, the attacks have been coming in every different direction, and it's been insane. Uh Shy Town writes, "Candace and Baron are American heroes. Absolutely phenomenal investigating. Thank you both and all of the sleuths at home working hard to bring you tips. The truth will prevail. Christ is king." Uh Seven Sheets writes, "Do we know who Charlie was staring at before his last in-home interview? That is what betrayal looks like to me. It's heartbreaking. Charlie deserves better." I have a suspicion that uh Notorious I don't think we have it, but Charlie's looking to the side right before he goes live with Laura Ingram. Uh based on what Frank Turek said, I think he's looking at Frank Turek.
+Please find that. Please find that victim. People are just so dumb on the internet, but you're right, the attacks have been coming in every different direction, and it's been insane. Uh Shy Town writes, "Candace and Baron are American heroes. Absolutely phenomenal investigating. Thank you both and all of the sleuths at home working hard to bring you tips. The truth will prevail. Christ is king." Uh Seven Sheets writes, "Do we know who Charlie was staring at before his last in-home interview? That is what betrayal looks like to me. It's heartbreaking. Charlie deserves better." I have a suspicion that uh Notorious I don't think we have it, but Charlie's looking to the side right before he goes live with Laura Ingraham. Uh based on what Frank Turek said, I think he's looking at Frank Turek.
 
 [49:00]
 

@@ -343,7 +343,7 @@ First named by the host at 00:17:54 in episode 112. Named with Julie Fields as t
 
 **N-628** Richard Smale
 
-First named by the host at 00:21:10 in episode 112. Transcript spelling "Richard Smallley". Named in the host's narrowed FOIA request as a Department of War recipient.
+First named by the host at 00:21:10 in episode 112. Transcript spelling "Richard Smale". Named in the host's narrowed FOIA request as a Department of War recipient.
 
 *Related: C-4410, A-2631.3*
 
@@ -917,9 +917,9 @@ Investigative Direction: Publish the original FOIA request text with its date ra
 
 Claim Timestamp: 00:21:10
 
-Claim: The host says her office's follow-up to the Department of War gave dates and named specific recipients, Bradley Hansell, Richard Smallley, Gustav Anderly and Michaela Mott Marzuka. It limited the search to that department's personnel and to emails about Erika Kirk and the WHCD shooting incident.
+Claim: The host says her office's follow-up to the Department of War gave dates and named specific recipients, Bradley Hansell, Richard Smale, Gustav Anderly and Michaela Mott Marzuka. It limited the search to that department's personnel and to emails about Erika Kirk and the WHCD shooting incident.
 
-Transcript Snippet: we named specific Department of War recipients uh who could be included in that. Bradley Hansell, Richard Smallley, Gustav Anderly, Michaela Mott Marzuka.
+Transcript Snippet: we named specific Department of War recipients uh who could be included in that. Bradley Hansell, Richard Smale, Gustav Anderly, Michaela Mott Marzuka.
 
 Anchored Artifacts: A-2631.3
 Mentions: N-434, N-628, N-624, N-629
@@ -1493,7 +1493,7 @@ Confidence: high
 - **A-2629.1**: the heckling clip at 07:05 is untranscribed apart from "Hey, come over here." Its content is inferred from the host's lead-in, so confidence is Low.
 - **Duration**: the skeleton gave 00:56:29; the transcript front matter gives 58:30, which is used here.
 - **Existing meme occurrence**: the skeleton's M-41 occurrence (stamped 00:46:24) is kept verbatim. The quoted words appear in the [44:57] paragraph.
-- **Name matching**: "Dana Loesch" is taken to be Dana Loesch (N-660; no node in nodes.tsv). "Andrew Kolvet/Kolvet" is matched to N-14, "Greg Laurie" to N-451 Greg Laurie, "Blake Neff" to N-160, "Bradley Hansell" to N-434, "Pete Hegsath" to N-594, "Tim Dillon" to N-278 and "Bari Weiss" to N-279. "Richard Smallley" and "Michaela Mott Marzuka" use the staging titles Richard Smale and Michaela Mott from episode 105, and Gustav Anderly and Graham Allen also reuse staging titles. "Saison Island" is taken to be Sazan Island, "Nathan Rothschild" Nat Rothschild and "Ed Rama" Edi Rama. "James Kaddis" is kept as spelled, since the TPUSA faith-department figure could not be confidently matched. "Paul Leva" is the alleged fake byline and gets no node. "Ed Gowin not even running in Kentucky" (22:34) is unclear (possibly Ed Gallrein) and gets no node.
+- **Name matching**: "Dana Loesch" is taken to be Dana Loesch (N-660; no node in nodes.tsv). "Andrew Kolvet/Kolvet" is matched to N-14, "Greg Laurie" to N-451 Greg Laurie, "Blake Neff" to N-160, "Bradley Hansell" to N-434, "Pete Hegsath" to N-594, "Tim Dillon" to N-278 and "Bari Weiss" to N-279. "Richard Smale" and "Michaela Mott Marzuka" use the staging titles Richard Smale and Michaela Mott from episode 105, and Gustav Anderly and Graham Allen also reuse staging titles. "Saison Island" is taken to be Sazan Island, "Nathan Rothschild" Nat Rothschild and "Ed Rama" Edi Rama. "James Kaddis" is kept as spelled, since the TPUSA faith-department figure could not be confidently matched. "Paul Leva" is the alleged fake byline and gets no node. "Ed Gowin not even running in Kentucky" (22:34) is unclear (possibly Ed Gallrein) and gets no node.
 - **Topic reuse**: two staging titles exist for the WHCD email (episode 104 "White House Military Office 'I Want to Go Home' Amplification Email" and episode 105 "White House Military Office Erika Kirk Amplification Email"). N-10923 uses the episode 105 title, and the integrator should merge the two. M-95 reuses the staging meme title "Emotional Response Asset", and M-92 reuses "Paramount Not So Tactical".
 - **Cross-episode link**: C-4403 Supports C-2888 (episode 102, donors assert the "I appoint my wife" clip was faked). Episode 102 places the donors at Aspen, while this episode refers to "your WLS event" and a later donor dinner, so the venue mapping is uncertain. C-2982 (episode 122, pending FOIA requests including NSA) is later and is not linked. The JD Vance "empty crowd" claim (C-4390) may relate to the existing topic "TPUSA UGA Event Crowd-Size Failure", but the event is not named, so it is not linked.
 - **Not inscribed as claims (admission test)**:

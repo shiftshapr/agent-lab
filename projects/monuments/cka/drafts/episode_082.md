@@ -105,7 +105,7 @@ Confidence Level: Medium (single phone call, not recorded)
 
 *Related: C-2546, C-2549, N-10557*
 
-**A-1887.3** 2020 charter listing for the alleged "Wi-Refi" plane (Santa Barbara → Scottsdale leg) – listing amenities including belted lavatory, cabin power outlets, 5'7" cabin height, refreshment center, and "satellite phone"; Wi-Fi not marketed
+**A-1887.3** 2020 charter listing for the alleged "Yrefy" plane (Santa Barbara → Scottsdale leg) – listing amenities including belted lavatory, cabin power outlets, 5'7" cabin height, refreshment center, and "satellite phone"; Wi-Fi not marketed
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -760,11 +760,11 @@ First named at 00:35:50 in episode 82 by Nick Shirley. Rio de Janeiro gang he sa
 
 ## V. Claim Register
 
-**C-2544** Erika Kirk Was Inside Hopkinson Aircrafts Office When Notified of Charlie Kirk's Death
+**C-2544** Host Says Erika Kirk Was Allegedly Inside Hopkinson Aircrafts Office When Notified of Charlie Kirk's Death
 
 Claim Timestamp: 00:09:34
 
-Claim: Per an unverified source tip received by the host, Erika Kirk was at Hopkinson Aircrafts in Scottsdale on September 10, 2025 when she received the call informing her that Charlie Kirk had died.
+Claim: Per information the host says she happened upon (she says "allegedly"), Erika Kirk was at the office of Hopkinson Aircrafts in Scottsdale on September 10, 2025 when she received the news that Charlie Kirk was dead.
 
 Anchored Artifacts: A-1886.1, A-1886.2, A-1886.3
 Mentions: N-2, N-1
@@ -793,7 +793,7 @@ Investigative Direction: Conduct independent site visit or obtain satellite/aeri
 
 Claim Timestamp: 00:19:39
 
-Claim: The charter company handling the Hawker Beechcraft N8724A told the host by phone on March 24, 2026 that "all of our planes have Wi-Fi."
+Claim: The host says that when she called on the morning of March 24, 2026, the charter company handling the Hawker Beechcraft N8724A told her, "All of our planes have Wi-Fi."
 
 Anchored Artifacts: A-1887.2
 
@@ -822,7 +822,7 @@ Investigative Direction: Pull and archive ADSB Exchange historical data for N-nu
 
 Claim Timestamp: 00:22:10
 
-Claim: Andrew Kolvet sent a text message at 3:26 PM MST on September 10, 2025 stating "Sorry, on the plane. This just loaded," referencing a 1:30 PM MST message he had not previously answered.
+Claim: Per the text chain the host describes, Andrew Kolvet sent a message at 3:26 PM MST (as the host adjusts it) on September 10, 2025 stating "Sorry, on the plane. This just loaded," referencing a 1:30 PM MST message he had not previously answered.
 
 Anchored Artifacts: A-1889.1
 Mentions: N-14
@@ -833,7 +833,7 @@ Investigative Direction: Obtain the original text record with carrier timestamp 
 
 ---
 
-**C-2549** Andrew Kolvet was unreachable from 1:47 PM MST until at least 4:18 PM MST because he was on a plane without Wi-Fi
+**C-2549** Host Says Text Thread Shows Kolvet Was on a Plane Without Wi-Fi and Streiff Told Aubrey at 4:18 PM to Wait Until He Was on the Ground
 
 Claim Timestamp: 00:20:35
 
@@ -852,7 +852,7 @@ Investigative Direction: Obtain full text thread with carrier-verified timestamp
 
 Claim Timestamp: 00:39:16
 
-Claim: Per the host, the N40JD plane, registered to Jason Knupp (identified by host as chief commander of naval surface force in Atlanta), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST.
+Claim: Per the host, the N40JD plane, registered to Jason Knupp (who the host says appears to be the chief commander of naval surface force in Atlanta), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST.
 
 Anchored Artifacts: A-1894.1
 Mentions: N-1
@@ -880,9 +880,9 @@ Investigative Direction: Verify the show aired live (not pre-recorded) by obtain
 
 **C-2552** Nick Shirley claims to have infiltrated Comando Vermelho in 48 hours
 
-Claim Timestamp: 00:36:47
+Claim Timestamp: 00:36:15
 
-Claim: Nick Shirley stated on the September 10, 2025 Charlie Kirk Live Show that within 48 hours he gained access to Comando Vermelho, one of Rio de Janeiro's largest gangs, and befriended soldiers who could not leave the favela.
+Claim: In a clip the host plays, Nick Shirley says that over the course of two days he got access to Comando Vermelho, one of Rio de Janeiro's largest gangs, and befriended soldiers so dangerous they cannot leave the favela.
 
 Anchored Artifacts: A-1891.2
 Mentions: N-214, N-1
@@ -923,11 +923,11 @@ Investigative Direction: Obtain full clip with timestamps; document exact wordin
 
 ---
 
-**C-2555** The "Wi-Refi" plane's 2020 charter listing does not market Wi-Fi as an amenity
+**C-2555** The "Yrefy" plane's 2020 charter listing does not market Wi-Fi as an amenity
 
 Claim Timestamp: 00:25:37
 
-Claim: A 2020 charter listing for the plane identified as the alleged Santa Barbara → Scottsdale leg ("Wi-Refi") lists amenities including belted lavatory, cabin power outlets, refreshment center, and satellite phone, but does not list Wi-Fi.
+Claim: A 2020 charter listing for the plane identified as the alleged Santa Barbara → Scottsdale leg ("Yrefy") lists amenities including belted lavatory, cabin power outlets, refreshment center, and satellite phone, but does not list Wi-Fi.
 
 Anchored Artifacts: A-1887.3
 
@@ -952,18 +952,18 @@ Investigative Direction: Verify the specific guest booked for September 9 interv
 
 ---
 
-**C-2557** "Wi-Refi" / "RY Reef air" and the alleged Santa Barbara → Scottsdale plane share identity
+**C-2557** "Yrefy" / "RY Reef air" and the alleged Santa Barbara → Scottsdale plane share identity
 
 Claim Timestamp: 00:38:35
 
-Claim: The host identifies "RY Reef air" and "Wi-Refi" as the same plane – the aircraft Erika Kirk described to the host as being used by Andrew Kolvet for the Santa Barbara → Scottsdale leg.
+Claim: The host refers to "RY Reef air" and "Yrefy" as the same plane: she says Erika Kirk told her about it ("wife Reef air CEO"), and she believes Andrew Kolvet took it from Santa Barbara to Scottsdale.
 
 Anchored Artifacts: A-1887.3
 Mentions: N-14, N-2
 
 Related Nodes: N-10554
 
-Investigative Direction: Verify whether "Wi-Refi" is a transcript rendering of a specific aircraft name (e.g., "WiRefi Air") or a phonetic rendering by Erika Kirk.
+Investigative Direction: Verify whether "Yrefy" is a transcript rendering of a specific aircraft name (e.g., "WiRefi Air") or a phonetic rendering by Erika Kirk.
 
 *Optional Flag: Transcript ambiguity – possible transcription error of aircraft operator name.*
 
@@ -990,7 +990,7 @@ Investigative Direction: Verify the Baron Coleman clip is preserved as a discret
 
 Claim Timestamp: 00:22:50
 
-Claim: The host says that, per a text thread, Marina told Aubrey that Andrew Kolvet was not available and that Aubrey had to write the statement about Charlie's death, and that Andrew was unavailable when it went out.
+Claim: The host says Marina told Aubrey that Andrew Kolvet was not available and that Aubrey had to write the statement about Charlie's death, and that Andrew was unavailable when it went out.
 
 Anchored Artifacts: A-1889.2 (text thread)
 Mentions: N-14, N-1, N-552
@@ -1390,7 +1390,7 @@ Investigative Direction: Obtain Kolvet's text thread with Charlie Kirk for the m
 
 Claim Timestamp: 00:32:29
 
-Claim: The host says Kolvet said Charlie's texts about monogamy came roughly 33 minutes before Charlie was killed, and she says she will fact-check whether monogamy was discussed on that episode.
+Claim: In the clip, Andrew Kolvet says Charlie's texts about monogamy came, he thinks, about 33 minutes before Charlie was killed; the host then says she will fact-check whether monogamy was discussed on that episode.
 
 Transcript Snippet: And that was about uh I think I had it it was like 33 minutes before he was killed.
 
@@ -1644,7 +1644,7 @@ Investigative Direction: Obtain the charging documents describing the digital me
 
 ---
 
-**C-8545** Neff says more evidence will be presented at the May evidentiary hearing
+**C-8545** Kolvet Says More Evidence Will Be Presented at the May Evidentiary Hearing
 
 Claim Timestamp: 00:46:55
 
@@ -1660,7 +1660,7 @@ Investigative Direction: Compare the May hearing exhibits with what Neff describ
 
 ---
 
-**C-8546** Neff says officials are telling journalists they would testify for the defense
+**C-8546** Kolvet Says Officials Are Telling Journalists They Would Testify for the Defense
 
 Claim Timestamp: 00:46:55
 
@@ -1844,12 +1844,12 @@ Investigative Direction: Look for Charlie Kirk's public and private statements a
 
 Claim Timestamp: 00:58:07
 
-Claim: The host says Andrew was upset about the interview and that TPUSA was going to let Ben take over Turning Point, with Erika letting him open.
+Claim: The host says Andrew Kolvet's account shows Charlie Kirk was very upset about the interview, and that they were just going to let Ben take over Turning Point "or something," with Erika letting him open.
 
 Transcript Snippet: They were just going to let Ben take over Turning Point or something.
 
 Anchored Artifacts: 
-Mentions: N-3, N-14, N-97, N-2
+Mentions: N-3, N-14, N-1, N-97, N-2
 Related Nodes: N-10386
 Tags: relevance:context
 Investigative Direction: Clarify which event or agreement the host means.
@@ -1875,12 +1875,12 @@ Investigative Direction: Check the first appearance of the phrase in print.
 
 Claim Timestamp: 00:59:32
 
-Claim: The host reads a comment from Anna that days after Charlie was killed one of the TPUSA guys, which she names as an unclear name or Andrew Kolvet, said a large donor called Erika right after the shooting, asked if she knew everything about TPUSA, and chose her to replace Charlie.
+Claim: The host reads a comment from Anna that days after Charlie was killed one of the TPUSA guys, Blake Neff or Andrew Kolvet, said a large donor called Erika right after the shooting, asked if she knew everything about TPUSA, and chose her to replace Charlie.
 
 Transcript Snippet: a large donor called Erika right after Charlie Kirk was shot and asked if she knew everything about Turning Point USA and she said yes and he decided that she would replace him.
 
 Anchored Artifacts: A-2944.3
-Mentions: N-3, N-2, N-14, N-1
+Mentions: N-3, N-2, N-160, N-14, N-1
 Tags: relevance:core
 Investigative Direction: Find the original statement by a TPUSA spokesperson in the days after September 10 and the donor identity.
 
@@ -2026,7 +2026,7 @@ Confidence: medium
 
 - **Name uncertainty**: Andrew Kolvet's surname is rendered inconsistently throughout the transcript – "Kolvet," "Kolvert," "Colvin," "Colvert," "Kolvet." Most stable form from chapter title: "Kolvet." Flag preserved across all references.
 
-- **Possible transcription error**: "Wi-Refi" / "RY Reef air" / "wife Reef air" appear to refer to the same entity; transcript rendering is ambiguous. Inscribed as a claim but flagged.
+- **Possible transcription error**: "Yrefy" / "RY Reef air" / "wife Reef air" appear to refer to the same entity; transcript rendering is ambiguous. Inscribed as a claim but flagged.
 
 - **Artifact verbally referenced but not shown**: The Baron Coleman clip (played but not registered as its own artifact bundle) should be captured in a future episode as a discrete artifact family.
 

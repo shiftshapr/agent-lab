@@ -83,7 +83,7 @@ Confidence Level: Low (host-curated; no underlying documents shown for most entr
 
 **A-2077.1** Website article read aloud by host summarizing Financial Times reporting on BCG Project Aurora
 
-Host reads: "launched in late 2024. Project Aurora was originally framed as a pro bono feasibility study for the Gaza Humanitarian Foundation, a Geneva registered NGO created with backing from the US and Israeli security linked interests. Over 7 months, the project evolved into a fully build consulting contract reportedly worth $4 million… One proposed a voluntary departure plan. $9,000 in cash per person aimed at relocating around 500,000 Palestinians outside of the Gaza Strip. A second model lowered direct payments to $5,000, but added four years of subsidized housing and one year of food assistance… Total costs ranged from $2.5 to $5 billion… by April 2025, BCG's senior leadership claimed that they had issued some internal guidance to halt the project… two senior partners continued the project in defiance… Project continued through May of 2025 when the Financial Times story broke. In July, BCG quickly dismissed the two partners and launched an external audit. The CEO of BCG, Kristoff Schweizer, described the episode as reputationally very damaging."
+Host reads: "launched in late 2024. Project Aurora was originally framed as a pro bono feasibility study for the Gaza Humanitarian Foundation, a Geneva registered NGO created with backing from the US and Israeli security linked interests. Over 7 months, the project evolved into a fully build consulting contract reportedly worth $4 million… One proposed a voluntary departure plan. $9,000 in cash per person aimed at relocating around 500,000 Palestinians outside of the Gaza Strip. A second model lowered direct payments to $5,000, but added four years of subsidized housing and one year of food assistance… Total costs ranged from $2.5 to $5 billion… by April 2025, BCG's senior leadership claimed that they had issued some internal guidance to halt the project… two senior partners continued the project in defiance… Project continued through May of 2025 when the Financial Times story broke. In July, BCG quickly dismissed the two partners and launched an external audit. The CEO of BCG, Christoph Schweizer, described the episode as reputationally very damaging."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -312,7 +312,7 @@ First named by the host at 00:12:14 in episode 110. Aliases: Bradley Hansell, Br
 
 **N-435** Christoph Schweizer
 
-First named by the host at 00:18:28 in episode 110. Aliases: Kristoff Schweizer, Kristoff Schweiser.
+First named by the host at 00:18:28 in episode 110. Aliases: Christoph Schweizer, Kristoff Schweiser.
 
 *Related: C-2919, C-2920, C-2921, C-2922, C-2923, C-2932, C-2934*
 
@@ -1035,11 +1035,11 @@ Investigative Direction: Confirm dismissals and audit via BCG press releases or 
 
 ---
 
-**C-2920** Kristoff Schweizer (BCG CEO) described Project Aurora as "reputationally very damaging"
+**C-2920** Christoph Schweizer (BCG CEO) described Project Aurora as "reputationally very damaging"
 
 Claim Timestamp: 00:18:30
 
-Claim: Per host reading, BCG CEO Kristoff Schweizer described the Project Aurora episode as "reputationally very damaging."
+Claim: Per host reading, BCG CEO Christoph Schweizer described the Project Aurora episode as "reputationally very damaging."
 
 Anchored Artifacts: A-2077.1
 Mentions: N-435
@@ -1113,7 +1113,7 @@ Investigative Direction: Identify primary outlet (host references "elsewhere"); 
 
 Claim Timestamp: 00:37:50
 
-Claim: Per NYT article, on June 16, 1968, Mitt Romney was driving a car in southern France that was hit head-on; H. Dwayne Anderson's wife Leola was killed.
+Claim: Per NYT article, on June 16, 1968, Mitt Romney was driving a car in southern France that was hit head-on; H. Duane Anderson's wife Leola was killed.
 
 Anchored Artifacts: A-2081.1
 Mentions: N-28, N-449
@@ -2163,7 +2163,7 @@ Investigative Direction: Locate Netanyahu's statements denying Israeli involveme
 
 Claim Timestamp: 00:37:50
 
-Claim: Per the New York Times article the host reads, H. Dwayne Anderson took his wife, two missionaries and a French Mormon couple, six people in a car that comfortably seats five, driven by 21-year-old missionary Mitt Romney.
+Claim: Per the New York Times article the host reads, H. Duane Anderson took his wife, two missionaries and a French Mormon couple, six people in a car that comfortably seats five, driven by 21-year-old missionary Mitt Romney.
 
 Transcript Snippet: He took his wife and two missionaries and a French Mormon couple, six people in a car that would have comfortably sat just five.
 
@@ -2647,7 +2647,7 @@ Confidence: high
 
 3. **Name uncertainty – "Wedad Makmoud":** Host transcribes as "Wed Mahmoud"; standard Arabic name likely "Wedad Mahmoud." Preserved as "Wedad Makmoud" per host; flag for transcription.
 
-4. **Name uncertainty – "Kristoff Schweizer":** Likely standard spelling "Kristoff Schweizer" (BCG CEO); preserved per host.
+4. **Name uncertainty – "Christoph Schweizer":** Likely standard spelling "Christoph Schweizer" (BCG CEO); preserved per host.
 
 5. **Name uncertainty – "James Kaddis":** Possibly "James Kaddis" or "James Kitis" or similar; preserved as host spelling.
 

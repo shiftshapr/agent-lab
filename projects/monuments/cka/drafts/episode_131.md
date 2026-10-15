@@ -470,7 +470,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-555** Carrie Prejean Bowler
+**N-555** Carrie Prejean Boller
 
 Reused node cited by new claims in this episode.
 
@@ -1313,18 +1313,18 @@ Investigative Direction: Retrieve the original tweet and its timestamp from X to
 
 ---
 
-**C-13131** Host Says She Showed Carrie Prejean Bowler the Messages in Spain
+**C-13131** Host Says She Showed Carrie Prejean Boller the Messages in Spain
 
 Claim Timestamp: 00:08:02
 
-Claim: The host says she was sitting in Spain next to Carrie Prejean Bowler, showing her the messages, when they were watching Kolvet tweet the friendship narrative, and that Prejean Bowler's jaw was on the floor.
+Claim: The host says she was sitting in Spain next to Carrie Prejean Boller, showing her the messages, when they were watching Kolvet tweet the friendship narrative, and that Prejean Boller's jaw was on the floor.
 
-Transcript Snippet: I actually was sitting in Spain next to Carrie Prejean Bowler and I was just showing her all of these messages
+Transcript Snippet: I actually was sitting in Spain next to Carrie Prejean Boller and I was just showing her all of these messages
 
 Anchored Artifacts: 
 Mentions: N-3, N-555, N-14
 Tags: relevance:context
-Investigative Direction: Ask Carrie Prejean Bowler to confirm the Spain meeting and what she saw.
+Investigative Direction: Ask Carrie Prejean Boller to confirm the Spain meeting and what she saw.
 
 ---
 

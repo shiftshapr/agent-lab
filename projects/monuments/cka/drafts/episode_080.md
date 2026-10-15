@@ -528,7 +528,7 @@ Director of National Intelligence; the host says Kent worked in her office.
 
 ---
 
-**N-555** Carrie Prejean Bowler
+**N-555** Carrie Prejean Boller
 
 Speaker at the Catholics for Catholics event.
 
@@ -878,7 +878,7 @@ Investigative Direction: Confirm against Levin's verified X account and monitor 
 
 Claim Timestamp: 00:15:07–00:15:58
 
-Claim: Laura Loomer publicly alleged that Kent's wife works for Max Blumenthal and used this to characterize Kent as disrespectful to Trump.
+Claim: Per a post the host reads, Laura Loomer called Kent's resignation 'so disrespectful to President Trump' and said she had warned about Kent and his wife, who she says works for Max Blumenthal.
 
 Anchored Artifacts: A-1865.1
 Mentions: N-5, N-49, N-60, N-210
@@ -1042,7 +1042,7 @@ Investigative Direction: Confirm exact wording against interview transcript; cro
 
 Claim Timestamp: 00:48:48
 
-Claim: The host says that on March 13, Reagan National (DCA), Baltimore-Washington (BWI), and Richmond (RIC) airports were simultaneously shut down.
+Claim: The host says that on March 13, Reagan National (DCA), Dulles, Baltimore-Washington (BWI), and Richmond (RIC) airports were simultaneously shut down.
 
 Anchored Artifacts: A-1874.1
 
@@ -1085,7 +1085,7 @@ Investigative Direction: Confirm against the official account's posting record; 
 
 Claim Timestamp: 00:50:05
 
-Claim: Netanyahu reportedly missed a Security Council meeting, described as unusual; Israel Katz is said to have run the meeting in his place.
+Claim: The host says Netanyahu allegedly missed a Security Council meeting, which she says is purportedly highly unusual, and that she thinks Israel Katz ran the meeting in his place.
 
 Anchored Artifacts: A-1875.1
 Mentions: N-36
@@ -1100,7 +1100,7 @@ Investigative Direction: Verify against official Israeli government / Knesset sc
 
 Claim Timestamp: 00:50:05
 
-Claim: Yair Netanyahu, who normally retweets or tweets about 30 times per day, went completely silent for 7 days.
+Claim: The host says somebody noted that Yair Netanyahu, who she says normally tweets or retweets about 30 times a day, went completely radio silent for 7 days.
 
 Anchored Artifacts: A-1875.1
 
@@ -1110,7 +1110,7 @@ Investigative Direction: Pull Yair Netanyahu's full X/Twitter activity log for t
 
 ---
 
-**C-2519** Netanyahu Posts Huckabee Video March 15
+**C-2519** Netanyahu Posts Huckabee Video on Day of Show
 
 Claim Timestamp: 00:52:15
 
@@ -1170,14 +1170,14 @@ Investigative Direction: Obtain the actual proclamation text from the Arkansas S
 
 ---
 
-**C-2523** Charlie Kirk Characterizes "Prophecy as Policy" Theologically Problematic
+**C-2523** Student in Kirk Clip Calls Prophecy as Policy Theologically Problematic
 
 Claim Timestamp: 00:33:39
 
-Claim: Charlie Kirk, in a July 2025 student discussion, publicly stated that "I find prophecy as policy generally to be theologically problematic."
+Claim: In a clip the host plays from a July 2025 student discussion with Charlie Kirk, a student the host identifies as Dino Fantegrossi says, "I find prophecy as policy generally to be theologically problematic."
 
 Anchored Artifacts: A-1871.1
-Mentions: N-1
+Mentions: N-1, N-943
 
 Related Nodes: N-10545
 
@@ -1204,7 +1204,7 @@ Investigative Direction: Verify exact quotation against the full original record
 
 Claim Timestamp: 00:01:54
 
-Claim: The host says Trump went to India and asked it to send troops to keep the Strait of Hormuz open, and that India answered that it would not get involved.
+Claim: The host says Trump asked India to send troops to keep the Strait of Hormuz open, and that India answered that it would not get involved.
 
 Transcript Snippet: he went over there to like, "Hey, can you guys send some troops to the Strait of Hormuz? Uh we got to keep that open." And India came back and said, "Sorry, buddy, we're not getting involved."
 
@@ -1430,7 +1430,7 @@ Investigative Direction: Check the Catholics for Catholics program for the March
 
 Claim Timestamp: 00:18:37
 
-Claim: The host says the Catholics for Catholics event is not an anti-Zionist conference and was never billed as one, with Carrie Prejean Bowler and the host speaking, and that critics have been emailing and calling to demand cancellations.
+Claim: The host says the Catholics for Catholics event is not an anti-Zionist conference and was never billed as one, with Carrie Prejean Boller and the host speaking, and that critics have been emailing and calling to demand cancellations.
 
 Transcript Snippet: They have just been emailing everyone calling everybody asking for cancellations
 
@@ -1644,7 +1644,7 @@ Transcript Snippet: These are people like the person who's working at Andrew Kol
 Anchored Artifacts: 
 Mentions: N-14, N-3
 Related Nodes: N-10000, N-11035
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the staffer through the host's source network; only confirmable through her sources.
 
 ---
@@ -1992,7 +1992,7 @@ Investigative Direction: Check White House schedules for the Situation Room meet
 
 Claim Timestamp: 00:48:48
 
-Claim: The host says the airports were told the shutdown was due to a strong odor coming from the Potomac River and lasted about two hours and twenty minutes before a circuit board explanation was given.
+Claim: The host says officials said the shutdown was due to a strong odor coming from the Potomac River, and that it lasted about two hours and twenty minutes before a circuit board explanation was given.
 
 Transcript Snippet: cuz there was a strong odor coming from the Potomac River. What? It was shut down for about two hours 20 minutes
 
@@ -2032,7 +2032,7 @@ Transcript Snippet: I don't know if I think he's dead, but I think he's injured,
 Anchored Artifacts: 
 Mentions: N-36, N-3
 Related Nodes: N-10544
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare with verifiable public appearances of Netanyahu after March 11.
 
 ---
@@ -2048,7 +2048,7 @@ Transcript Snippet: Today I erased two names on the punch cards and you see how 
 Anchored Artifacts: A-1876.1
 Mentions: N-36, N-274
 Related Nodes: N-10544
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the original video from Netanyahu's account and the Hebrew and English captions.
 
 ---
@@ -2064,7 +2064,7 @@ Transcript Snippet: getting rid of these lunatics who would like to develop nucl
 Anchored Artifacts: A-1876.1
 Mentions: N-274, N-36
 Related Nodes: N-10544
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Verify wording against the original video.
 
 ---

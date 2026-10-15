@@ -77,7 +77,7 @@ Beware the wives of Beware the wives of Again, it was a tip that we had received
 
 [10:32]
 
-I say this only to assert that if it is true, and there's a lot of evidence that it could be, then I can assure you there will be no killing of Mossad agents in Paris while he is the first lady. So, this plan got rumbled. The other people they were killing, they died. Then he went for a Mossad agent, and suddenly it got rumbled. And the businessman who called the hits on this alleged Mossad agent spy was Jean-Luc Baguer. Uh he was the ringleader along with his other free Masonic brothers, uh a guy named Frederick Vaglio and Daniel Balou. Now, Daniel Balou was a retired intelligence officer, and the hitmen say that Daniel is the one that told them that they were doing this on behalf of the government.
+I say this only to assert that if it is true, and there's a lot of evidence that it could be, then I can assure you there will be no killing of Mossad agents in Paris while he is the first lady. So, this plan got rumbled. The other people they were killing, they died. Then he went for a Mossad agent, and suddenly it got rumbled. And the businessman who called the hits on this alleged Mossad agent spy was Jean-Luc Bagur. Uh he was the ringleader along with his other free Masonic brothers, uh a guy named Frédéric Vaglio and Daniel Beaulieu. Now, Daniel Beaulieu was a retired intelligence officer, and the hitmen say that Daniel is the one that told them that they were doing this on behalf of the government.
 
 [11:16]
 

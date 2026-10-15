@@ -1,0 +1,118 @@
+[
+ {
+  "claim": "C-11451",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-597",
+    "N-2",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "\"Her husband's killing\" clearly refers to Charlie Kirk."
+ },
+ {
+  "claim": "C-11453",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie (\"after Charlie's death\")."
+ },
+ {
+  "claim": "C-11458",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-36",
+    "N-1",
+    "N-342",
+    "N-5"
+   ]
+  },
+  "note": "Claim names Marx and refers to the President, whom the host names as Trump in the next sentence."
+ },
+ {
+  "claim": "C-11467",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the message the host reads, Victor Marx tells Corby he does not know all of who Marx is; the host then comments that she would like to know all of who Marx is and that the state of Colorado might want to know all of who he is.",
+   "label": "Host Says the State of Colorado Might Want to Know Who Marx Is"
+  },
+  "note": "The Colorado line is the host's interjection; she resumes the text with \"He continues\"."
+ },
+ {
+  "claim": "C-11474",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Mitt Romney was best friends at that time with Netanyahu, that Romney and Netanyahu were at Boston Consulting Group, and that Romney was struggling to raise money for Bain Capital.",
+   "label": "Host Says Romney Was Then Best Friends With Netanyahu at BCG",
+   "mentions": [
+    "N-36",
+    "N-28"
+   ]
+  },
+  "note": "The host names \"he\" as Mitt Romney (\"Mitt Romney, they're at BCG\"); Maxwell is not part of the corrected claim."
+ },
+ {
+  "claim": "C-11477",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40"
+   ]
+  },
+  "note": "The claim as worded does not name or refer to Lance Twiggs."
+ },
+ {
+  "claim": "C-11478",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "The claim refers only to 'the defense' and names no person; removing N-40 is correct."
+ },
+ {
+  "claim": "C-2788",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "01:01:14"
+  },
+  "note": "Word-position estimate puts 'Queen Saxi writes' at about 01:01:19; 01:01:14 is 5s before."
+ },
+ {
+  "claim": "C-13347",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "The claim refers to the rifle, feds and rookie officers only; it names neither Robinson nor Kirk."
+ },
+ {
+  "claim": "C-13400",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Trump's follow-up post mentioned Megyn Kelly again but did not call her a name that time, joking that Kelly got called two names to the host's three.",
+   "label": "Host Says the Follow-up Post Mentioned Megyn Kelly Again Without Calling Her a Name"
+  },
+  "note": "'Didn't get a name' means an insult, as the host's next lines show: 'I got called like three names... You only got called two'."
+ }
+]
