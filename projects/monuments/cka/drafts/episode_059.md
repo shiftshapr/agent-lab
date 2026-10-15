@@ -860,11 +860,11 @@ Allegations the host relays from an anonymous emailer: JFK and Kirk assassinatio
 
 ## V. Claim Register
 
-**C-2124** Robert Flood served 33 years with the Texas A&M University Police Department as Chief Deputy
+**C-2124** Profile Host Shows Lists Robert Flood as Chief Deputy With 33 Years at the Texas A&M University Police Department
 
 Claim Timestamp: 00:06:38
 
-Claim: The displayed profile of Robert Eugene Flood identifies him as Chief Deputy with 33 years of service at the Texas A&M University Police Department.
+Claim: Per the profile of Robert Eugene Flood that the host shows, he is Chief Deputy with 33 years of service at the Texas A&M University Police Department.
 
 Anchored Artifacts: A-1643.1
 Mentions: N-476
@@ -905,11 +905,11 @@ Investigative Direction: Verify through Bosque County Sheriff's Office public re
 
 ---
 
-**C-2127** Robert Flood graduated from the FBI National Academy
+**C-2127** Host-Shown LinkedIn Profile Lists Robert Flood as FBI National Academy Graduate
 
 Claim Timestamp: 00:07:23
 
-Claim: Robert Flood's LinkedIn profile lists graduation from the FBI National Academy.
+Claim: Per Robert Flood's LinkedIn profile, which the host shows on screen, he graduated from the FBI National Academy.
 
 Anchored Artifacts: A-1643.2
 Mentions: N-476
@@ -920,11 +920,11 @@ Investigative Direction: Verify through FBI National Academy alumni records.
 
 ---
 
-**C-2128** Robert Flood served as a Marine staff sergeant in charge of surveillance and target acquisition
+**C-2128** Host-Shown LinkedIn Profile Lists Robert Flood as Marine Staff Sergeant in Surveillance and Target Acquisition
 
 Claim Timestamp: 00:07:23
 
-Claim: Robert Flood's LinkedIn profile lists Marine staff sergeant service with responsibilities in surveillance, target acquisition, small arms/weapons, tactical radio communications, and aviation ordnance.
+Claim: Per Robert Flood's LinkedIn profile, which the host shows on screen, he served as a Marine staff sergeant with responsibilities in surveillance, target acquisition, small arms/weapons, tactical radio communications, and aviation ordnance.
 
 Anchored Artifacts: A-1643.2
 Mentions: N-476
@@ -935,11 +935,11 @@ Investigative Direction: Verify through military service records.
 
 ---
 
-**C-2129** Robert Flood worked in Franklin Park Illinois for over a decade
+**C-2129** Host-Shown LinkedIn Profile Lists Robert Flood Working in Franklin Park, Illinois for Over a Decade
 
 Claim Timestamp: 00:07:23
 
-Claim: Robert Flood's LinkedIn profile lists over a decade of employment in Franklin Park, Illinois, in roles including crime scene technician, SWAT team leader, patrol division supervisor, and criminal investigator.
+Claim: Per Robert Flood's LinkedIn profile, which the host shows on screen, he worked over a decade in Franklin Park, Illinois, in roles including crime scene technician, SWAT team leader, patrol division supervisor, and criminal investigator.
 
 Anchored Artifacts: A-1643.2
 Mentions: N-476
@@ -950,11 +950,11 @@ Investigative Direction: Verify through Franklin Park Police Department employme
 
 ---
 
-**C-2130** Robert Flood attained the rank of lieutenant colonel in the Army Reserve
+**C-2130** Host-Shown LinkedIn Profile Lists Robert Flood as Army Reserve Lieutenant Colonel
 
 Claim Timestamp: 00:08:36
 
-Claim: Robert Flood's LinkedIn profile lists lieutenant colonel rank in the Army Reserve.
+Claim: Per Robert Flood's LinkedIn profile, which the host shows on screen, he attained the rank of lieutenant colonel in the Army Reserve.
 
 Anchored Artifacts: A-1643.2
 Mentions: N-476
@@ -965,11 +965,11 @@ Investigative Direction: Verify through Army Reserve official records.
 
 ---
 
-**C-2131** Robert Flood is a member of the FBI Agent Association (FBIA)
+**C-2131** Host-Shown LinkedIn Profile Lists Robert Flood as Member of the FBI Agent Association (FBIA)
 
 Claim Timestamp: 00:10:23
 
-Claim: Robert Flood's LinkedIn profile lists membership in the FBI Agent Association.
+Claim: Per Robert Flood's LinkedIn profile, which the host shows on screen, he is a member of the FBI Agent Association (FBIA).
 
 Anchored Artifacts: A-1643.2
 Mentions: N-476

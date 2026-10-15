@@ -1520,7 +1520,7 @@
       "@id": "C-3175",
       "ref": "C-3175",
       "label": "Book authorship attribution",
-      "claim": "The displayed \"Play Like a Fangirl\" book listing on Penguin Random House identifies \"Ashley\" (alongside Christine and Tonya) as one of the book's authors.",
+      "claim": "Per the \"Play Like a Fangirl\" book listing on Penguin Random House that the host shows, \"Ashley\" (alongside Christine and Tonya) is one of the book's authors.",
       "anchored_artifacts": [
         "A-2217.1"
       ],
@@ -1788,7 +1788,7 @@
       "@id": "C-3190",
       "ref": "C-3190",
       "label": "Previous Utah Valley Hospital file reference",
-      "claim": "A patient file for Charlie Kirk was previously confirmed visible in the Utah Valley Hospital / Intermountain Health electronic system, as originally displayed in an October 28, 2025 episode.",
+      "claim": "The host says a patient file for Charlie Kirk was previously confirmed visible in the Utah Valley Hospital / Intermountain Health electronic system, as she originally displayed in an October 28, 2025 episode.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10770"

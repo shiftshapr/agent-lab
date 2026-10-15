@@ -1008,7 +1008,7 @@ Firm named in the Times of Israel article as contracted to create an influencer 
 
 Claim Timestamp: 00:05:52
 
-Claim: The Daily Wire issued a statement to Breitbart Media describing layoffs as part of a "restructuring" decision.
+Claim: Per a statement the host reads that she says The Daily Wire gave to Breitbart Media, The Daily Wire described its layoffs as part of a "restructuring" decision.
 
 Anchored Artifacts: A-2030.1
 Mentions:
@@ -1048,7 +1048,7 @@ Investigative Direction: Verify against LinkedIn/public hiring records and any D
 
 Claim Timestamp: 00:09:45
 
-Claim: An X analysis by Akash Gupta quantified Shapiro's YouTube monthly viewership as collapsing from approximately 170 million to approximately 22 million over roughly 18 months.
+Claim: Per an X post by Akash Gupta that the host reads, Shapiro's YouTube monthly viewership collapsed from approximately 170 million to approximately 22 million over roughly 18 months.
 
 Anchored Artifacts: A-2031.1
 Mentions:
@@ -1063,7 +1063,7 @@ Investigative Direction: Verify via third-party YouTube analytics services (e.g.
 
 Claim Timestamp: 00:09:45
 
-Claim: The X analysis cited LayoffHedge.com estimates of cumulative Daily Wire workforce reduction above 60%.
+Claim: Per an X post by Akash Gupta that the host reads, LayoffHedge.com estimates cumulative Daily Wire workforce reduction above 60%.
 
 Anchored Artifacts: A-2031.1
 Mentions:
@@ -1143,11 +1143,11 @@ Investigative Direction: Cross-check against the original FARA filing in DOJ FAR
 
 ---
 
-**C-2844** Show Faith by Works LLC is run by Chad Schnitker per FARA filings
+**C-2844** Host Says Show Faith by Works LLC Is Run by Chad Schnitker per FARA Filings
 
 Claim Timestamp: 00:36:00
 
-Claim: The FARA registration for Show Faith by Works LLC identifies Chad Schnitker, a California Christian conservative activist, as principal.
+Claim: The host says the FARA registration for Show Faith by Works LLC identifies Chad Schnitker, a California Christian conservative activist, as principal.
 
 Anchored Artifacts: A-2035.1, A-2036.1
 Mentions: N-435
@@ -1156,11 +1156,11 @@ Related Nodes: N-10652
 
 ---
 
-**C-2845** Show Faith by Works LLC registered under FARA eight days after Charlie Kirk's assassination
+**C-2845** Host Says Show Faith by Works LLC Registered Under FARA Eight Days After Charlie Kirk's Assassination
 
 Claim Timestamp: 00:36:00
 
-Claim: Show Faith by Works LLC began its FARA contracting registration approximately eight days after Charlie Kirk's assassination.
+Claim: The host says Show Faith by Works LLC began its FARA contracting registration eight days after Charlie Kirk was assassinated.
 
 Anchored Artifacts: A-2036.1
 Mentions: N-1, N-435
@@ -1169,11 +1169,11 @@ Related Nodes: N-10652
 
 ---
 
-**C-2846** Show Faith by Works LLC contracted Havoc Media following Charlie Kirk's public funeral
+**C-2846** Host Says Show Faith by Works LLC Was Contracted by Havoc Media Before Charlie Kirk's Public Funeral
 
 Claim Timestamp: 00:36:00
 
-Claim: Show Faith by Works LLC was contracted by Havoc Media on the 8th [day], followed by the public funeral of Charlie Kirk.
+Claim: The host says Show Faith by Works LLC was contracted by Havoc Media on the 8th, followed by the public funeral of Charlie Kirk.
 
 Anchored Artifacts: A-2036.1, A-2044.1
 Mentions: N-1, N-435
@@ -1188,7 +1188,7 @@ Investigative Direction: Confirm contract date and counterparty from FARA filing
 
 Claim Timestamp: 00:40:12
 
-Claim: Andrew Kolvet announced on Jesse's program that partners geotagged over 277,000 devices in the vicinity of State Farm Stadium during the memorial.
+Claim: In a clip the host plays from Jesse Watters' program, Andrew Kolvet says that partners who do geotagging told him they tracked over 277,000 devices in the vicinity of State Farm Stadium in Glendale, Arizona during the memorial.
 
 Anchored Artifacts: A-2037.1
 Mentions: N-14
@@ -1253,11 +1253,11 @@ Investigative Direction: Obtain PACER docket copy of Harpole filing and marriage
 
 ---
 
-**C-2852** Jacob William Roth retweeted the Brian Harpole lawsuit
+**C-2852** Host Says Jacob William Roth Retweeted the Brian Harpole Lawsuit
 
 Claim Timestamp: 00:33:10
 
-Claim: Jacob William Roth retweeted the Brian Harpole lawsuit document.
+Claim: The host says Jacob William Roth, Ben Shapiro's brother-in-law, retweeted the Brian Harpole lawsuit document.
 
 Anchored Artifacts: A-2043.1
 Mentions: N-270
@@ -1294,11 +1294,11 @@ Related Nodes: N-10651
 
 ---
 
-**C-2855** FARA registration identifies Dhillon Law Group as legal representative of Show Faith by Works LLC
+**C-2855** Host Says FARA Registration Identifies Dhillon Law Group as Legal Representative of Show Faith by Works LLC
 
 Claim Timestamp: 00:36:00
 
-Claim: The Show Faith by Works FARA paperwork lists Dhillon Law Group as the legal representative.
+Claim: The host says the Show Faith by Works FARA paperwork lists Dhillon Law Group as the legal representative.
 
 Anchored Artifacts: A-2036.1
 

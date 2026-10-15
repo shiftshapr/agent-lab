@@ -911,11 +911,11 @@ Investigative Direction: Cross-reference Mikey McCoy's call logs (previously ref
 
 ---
 
-**C-3350** Jack Hibbs initially confused Charlie Kirk with a relative named "cousin Charlie"
+**C-3350** In Clip Host Plays, Jack Hibbs Says He Initially Confused Charlie Kirk With a Relative Named "Cousin Charlie"
 
 Claim Timestamp: 00:16:13
 
-Claim: During the FaceTime with Frank Turek, Jack Hibbs described briefly believing his brother was reporting that a cousin named Charlie – not Charlie Kirk – had been shot.
+Claim: In a FaceTime clip with Frank Turek that the host plays, Jack Hibbs says that when his brother called to say "Charlie's been shot," he briefly thought a relative named Charlie, "cousin Charlie," had been shot, not Charlie Kirk.
 
 Anchored Artifacts: A-2322.2
 Mentions: N-1, N-212
@@ -941,11 +941,11 @@ Investigative Direction: Establish the precise timestamp of the shooting from pr
 
 ---
 
-**C-3352** Butch Hibbs was on a phone call approximately five minutes after the shooting, not visibly distressed
+**C-3352** Host Says Butch Hibbs Was on a Phone Call About Five Minutes After the Shooting, Not Visibly Distressed
 
 Claim Timestamp: 00:24:18
 
-Claim: A still from UVU footage shows Butch Hibbs on what appears to be a phone call approximately five minutes after the shot, without visible signs of distress.
+Claim: The host says a still from UVU footage shows Butch Hibbs on what looks to be a phone call about five minutes after the shot, and she says he does not look visibly upset.
 
 Anchored Artifacts: A-2324.2
 Mentions: N-250
@@ -971,11 +971,11 @@ Investigative Direction: Confirm Butch Hibbs's date of birth and verify against 
 
 ---
 
-**C-3354** Judge Graph was the magistrate presiding over the Tyler Robinson preliminary hearing decision on the broadcast date
+**C-3354** Host Says Judge Graph Was to Rule on Tyler Robinson Preliminary Hearing Decision on the Broadcast Date
 
 Claim Timestamp: 00:31:24
 
-Claim: The episode identifies Judge Graph as the magistrate expected to rule on the defense motion to dismiss charges 1, 6, and 7 in the Tyler Robinson case on September 1, 2026.
+Claim: The host says Judge Graph is the magistrate who was to rule that day, September 1, 2026, on the defense motion to dismiss charges 1, 6, and 7 in the Tyler Robinson case, i.e., on whether there was enough preliminary evidence to move the case to trial.
 
 Anchored Artifacts: A-2326.1–A-2326.4 (courtroom context)
 Mentions: N-40
@@ -1001,11 +1001,11 @@ Investigative Direction: Compare timestamps across all Calvary Chapel-linked cal
 
 ---
 
-**C-3356** Erika Kirk, Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Cadis were present at the courthouse on the decision day
+**C-3356** Host Says Erika Kirk, Charlie Kirk's Parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Cadis Were at the Courthouse on Decision Day
 
 Claim Timestamp: 00:02:52
 
-Claim: Courthouse footage captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Cadis arriving at the courthouse for Judge Graph's decision; Erika Kirk was present but not captured on camera.
+Claim: The host says courthouse cameras captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Cadis arriving at the courthouse for Judge Graph's decision, and that Erika Kirk was present but was not captured walking in.
 
 Anchored Artifacts: A-2326.1, A-2326.2, A-2326.3, A-2326.4
 Mentions: N-1, N-2, N-190, N-14, N-551

@@ -1786,8 +1786,8 @@
       "@type": "Claim",
       "@id": "C-1355",
       "ref": "C-1355",
-      "label": "ADL Issued Response Statement to Patel Announcement",
-      "claim": "The ADL issued a public response statement affirming respect for the FBI and tying continued activity to rising antisemitism.",
+      "label": "Host Reads ADL Response Statement to Patel Announcement",
+      "claim": "The host reads a response statement the ADL issued, in which the ADL affirms respect for the FBI and ties its continued activity to rising antisemitism.",
       "anchored_artifacts": [
         "A-1210.1"
       ],
@@ -1800,8 +1800,8 @@
       "@type": "Claim",
       "@id": "C-1356",
       "ref": "C-1356",
-      "label": "Connecticut FBI Field Office Deployed to Investigate Kirk Assassination",
-      "claim": "The FBI's Connecticut field office – rather than a closer regional bureau – was dispatched to UVU to assist in the Charlie Kirk assassination investigation.",
+      "label": "Host Says Connecticut FBI Field Office Was Deployed to Investigate Kirk Assassination",
+      "claim": "The host says she received a tip, which she says she has corroborated, that the FBI's Connecticut field office – rather than a closer regional bureau – was dispatched to UVU to assist in the Charlie Kirk assassination investigation.",
       "anchored_artifacts": [
         "A-1218.1"
       ],
@@ -1875,8 +1875,8 @@
       "@type": "Claim",
       "@id": "C-1360",
       "ref": "C-1360",
-      "label": "Utah State Prosecutor Asserting Authority Over Robinson Defense Selection",
-      "claim": "Per Elizabeth Lane's account on the Redacted podcast, Utah state prosecutor Skordas asserted that he – not the defense – controls identification of defense counsel for Tyler Robinson.",
+      "label": "Elizabeth Lane Says Utah State Prosecutor Asserted Authority Over Robinson Defense Selection",
+      "claim": "In a clip of the Redacted podcast the host plays, Elizabeth Lane says that Utah state prosecutor Skordas asserted that he, not the defense, controls identification of defense counsel for Tyler Robinson.",
       "anchored_artifacts": [
         "A-1212.1"
       ],
@@ -1945,8 +1945,8 @@
       "@type": "Claim",
       "@id": "C-1364",
       "ref": "C-1364",
-      "label": "Marjorie Taylor Greene Publicly Denied Suicidal Ideation",
-      "claim": "U.S. Representative Marjorie Taylor Greene issued a public statement denying suicidal ideation, affirming religious faith, and warning that any future harm to her should be investigated as foreign-state or powerful-elite action.",
+      "label": "Host Reads Marjorie Taylor Greene's Public Denial of Suicidal Ideation",
+      "claim": "Per a public statement the host reads, U.S. Representative Marjorie Taylor Greene denied suicidal ideation, affirmed her religious faith, and warned that any future harm to her should be investigated as foreign-state or powerful-elite action.",
       "anchored_artifacts": [
         "A-1216.1"
       ],

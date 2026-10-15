@@ -910,10 +910,10 @@ Person reused: named by the host as one of three investigated people with valve 
 
 ## 5. Claim Register
 
-**C-1205** Two men moved Charlie's chair and removed camera post-shooting
+**C-1205** Host Says Two Men Moved Charlie's Chair and Removed Camera Post-Shooting
 
 Claim Timestamp: 00:03:50
-Claim: Two unidentified men appeared in the immediate aftermath of the shooting and moved Charlie Kirk's chair and the camera positioned above his head.
+Claim: The host says footage she shows has two men appearing in the immediate aftermath of the shooting, one of whom moves Charlie Kirk's chair and takes down the camera above his head.
 Transcript Snippet: that same individual appears alongside another individual and he moves Charlie's chair
 Anchored Artifacts: A-1120.2
 Mentions: N-68, N-83, N-1
@@ -924,10 +924,10 @@ Investigative Direction: Identify both individuals via facial recognition, witne
 Tags: open_source_investigation
 ---
 
-**C-1206** Individual calmly talked on phone near car immediately after shooting
+**C-1206** Host Says Individual Calmly Talked on Phone Near Car After Shooting
 
 Claim Timestamp: 00:03:35
-Claim: An individual was standing near the car where Charlie was taken, calmly talking on his phone shortly after the shot.
+Claim: The host says footage she shows has an individual standing near the car where Charlie was taken, appearing to calmly talk into his phone shortly after the shot.
 Transcript Snippet: that person appears to be calmly talking into their phone. It's like a circus around them
 Anchored Artifacts: A-1120.1
 Mentions: N-83
@@ -938,10 +938,10 @@ Investigative Direction: Obtain full-resolution copy of wide-angle clip; cross-r
 Tags: open_source_investigation
 ---
 
-**C-1207** Camera individual removed SD/SIM card from camera
+**C-1207** Host Says Camera Individual Appeared to Remove SD/SIM Card
 
 Claim Timestamp: 00:05:55
-Claim: The individual handling the camera appeared to remove the SD or SIM card from the camera before setting it on the desk.
+Claim: The host says the footage she shows has the individual handling the camera appearing to remove the SD or SIM card before setting the camera on the desk.
 Transcript Snippet: it looks like he removes the SIM card from it or the SD card if you will
 Anchored Artifacts: A-1120.3
 Mentions: N-83
@@ -979,10 +979,10 @@ Investigative Direction: Obtain the underlying behind-shot footage directly and 
 
 ---
 
-**C-1210** Senate passed bipartisan Kirk Remembrance Day resolution
+**C-1210** Host Says Senate Passed Bipartisan Kirk Remembrance Day Resolution
 
 Claim Timestamp: 00:00:57
-Claim: The U.S. Senate has voted and passed a bipartisan resolution designating October 14 as Charlie Kirk Remembrance Day.
+Claim: The host says the U.S. Senate has voted and passed a bipartisan resolution designating October 14, Charlie Kirk's birthday, as Charlie Kirk Remembrance Day.
 Transcript Snippet: the Senate has voted and they have passed a bipartisan resolution to designate October 14th
 Anchored Artifacts: A-1121.1
 Mentions: N-1
@@ -1099,10 +1099,10 @@ Investigative Direction: Verify public statements and contracts from each named 
 
 ---
 
-**C-1218** Caldera Engineering manufactures valves in Provo
+**C-1218** Per Write-Up Host Reads, Caldera Engineering Manufactures Valves in Provo
 
 Claim Timestamp: 00:18:34
-Claim: Caldera Engineering is located in Provo, Utah and manufactures specialized industrial valves and control systems, with possible Israel project footprint.
+Claim: Per a write-up the host reads, companies like Caldera Engineering in Provo, Utah manufacture specialized industrial valves and control systems; the write-up adds that no public evidence currently links them to intelligence contracts, and the host says she perceives a government conspiracy involving Caldera.
 Transcript Snippet: companies like Caldera Engineering in Provo, Utah manufacture specialized industrial valves and control systems
 Anchored Artifacts: A-1123.1
 Related Nodes: N-10065, N-10074, N-10080
@@ -1111,10 +1111,10 @@ Investigative Direction: Verify company registration, address, and project portf
 
 ---
 
-**C-1219** Victoria Churchill has APAC connection
+**C-1219** Host Says Victoria Churchill Has APAC Connection
 
 Claim Timestamp: 00:35:46
-Claim: Victoria Churchill (Daily Mail) has a connection to APAC, with photos showing her at APAC events including a 2018 DC conference.
+Claim: The host says Victoria Churchill of the Daily Mail has a connection to APAC, and shows photos of her at APAC events including a 2018 DC conference.
 Anchored Artifacts: 
 Mentions: N-84
 Related Nodes: N-10073, N-10081
@@ -1125,10 +1125,10 @@ Investigative Direction: Verify Churchill's APAC affiliation via APAC event regi
 Tags: open_source_investigation
 ---
 
-**C-1220** FCC Chair Carr threatened federal action against ABC affiliates
+**C-1220** Host Says FCC Chair Carr Threatened Federal Action Against ABC Affiliates
 
 Claim Timestamp: 00:42:01
-Claim: FCC Chairman Brendan Carr threatened federal action against ABC affiliates carrying Jimmy Kimmel's show.
+Claim: The host says FCC Chairman Brendan Carr threatened federal action against ABC affiliates that carried Jimmy Kimmel's show.
 Transcript Snippet: Brendan Carr... threatened federal action against ABC affiliates who carried the show
 Anchored Artifacts: A-1128.1
 Mentions: N-89, N-92, N-87
@@ -1205,10 +1205,10 @@ Investigative Direction: Locate original Olsen Instagram post and verify date.
 
 ---
 
-**C-1226** Dairy Queen photo dated post-August 31
+**C-1226** Host Says Dairy Queen Photo Dated Post-August 31
 
 Claim Timestamp: 00:50:29
-Claim: The Dairy Queen photo of the suspect could not have been taken before August 31 because the visible maple cookie shake advertisement began then.
+Claim: The host says the Dairy Queen photo of the suspect could not have been taken before August 31, because she says the maple cookie shake advertisement visible in it began being used on that date.
 Transcript Snippet: maple cookie shake... they began advertising on August 31st
 Anchored Artifacts: A-1133.1
 Mentions: N-40

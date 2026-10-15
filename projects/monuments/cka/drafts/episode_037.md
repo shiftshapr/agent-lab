@@ -1027,11 +1027,11 @@ The host's theory that the September 10 event was barely advertised and posters 
 
 ## 5. Claim Register
 
-**C-1768** Operation Valhalla Strike Held August 24–29, 2025 at Camp Ripley
+**C-1768** Per Minot AFB Website Host Reads, Operation Valhalla Strike Held August 24–29, 2025 at Camp Ripley
 
 Claim Timestamp: 00:08:24
 
-Claim: A week-long training exercise named Operation Valhalla Strike was conducted by the 891st Squadron from Minot AFB at Camp Ripley Training Center in Minnesota from August 24 to August 29, 2025.
+Claim: Per the Minot Air Force Base website page the host reads, a week-long training exercise named Operation Valhalla Strike was conducted by the 891st Squadron from Minot AFB at Camp Ripley Training Center in Minnesota from August 24 to August 29, 2025.
 
 Anchored Artifacts: A-1451.1
 Mentions: N-69
@@ -1042,11 +1042,11 @@ Investigative Direction: Cross-check public DoD exercise announcements for the s
 
 ---
 
-**C-1769** Operation Valhalla Training Focused on Ground Defense, Nuclear Security, and Long-Range Live Fire
+**C-1769** Per Minot AFB Website Host Reads, Operation Valhalla Training Focused on Ground Defense, Nuclear Security, and Long-Range Live Fire
 
 Claim Timestamp: 00:08:24
 
-Claim: Operation Valhalla Strike included air-based ground defense and nuclear security tactics, full-distance live fire exercises, rifle marksmanship and machine gun proficiency training.
+Claim: Per the Minot Air Force Base website page the host reads, Operation Valhalla Strike included air-based ground defense and nuclear security tactics, full-distance live fire exercises, and rifle marksmanship and machine gun proficiency training.
 
 Anchored Artifacts: A-1451.1
 
@@ -1056,11 +1056,11 @@ Investigative Direction: Compare with official 891st MSFS mission description an
 
 ---
 
-**C-1770** 891st Squadron Is a Combined Military and Civilian Security Force
+**C-1770** Per Minot AFB Website Host Reads, 891st Squadron Is a Combined Military and Civilian Security Force
 
 Claim Timestamp: 00:08:24
 
-Claim: The 891st Missile Security Forces Squadron is described as a combined military and civilian security force supporting the 91st Missile Wing's Global Deterrence mission.
+Claim: Per the Minot Air Force Base website page the host reads, the 891st Missile Security Forces Squadron is a combined military and civilian security force (more than 250 airmen and civilians) supporting the 91st Missile Wing's Global Deterrence mission.
 
 Anchored Artifacts: A-1451.1
 
@@ -1143,11 +1143,11 @@ Investigative Direction: Confirm exercise completion dates and any overlap with 
 
 ---
 
-**C-1776** Nebraska Secretary of State Bob Evan Announced Egypt Trade Mission
+**C-1776** Host Plays Clip of Nebraska Secretary of State Bob Evan Announcing Egypt Trade Mission
 
 Claim Timestamp: 00:12:13
 
-Claim: On or around July 22, 2025, Nebraska Secretary of State Bob Evan announced a trade and investment mission to Egypt scheduled for October 26 through November 2.
+Claim: In a news clip the host plays, Nebraska Secretary of State Bob Evan announces a trade and investment mission to Egypt scheduled for October 26 through November 2, which the host says was announced on or around July 22, 2025.
 
 Anchored Artifacts: A-1455.1
 Mentions: N-283
@@ -1158,11 +1158,11 @@ Investigative Direction: Locate the original announcement on the Nebraska Secret
 
 ---
 
-**C-1777** Mike Huckabee and David Friedman Performed at a Jerusalem Event
+**C-1777** Host Says Mike Huckabee and David Friedman Performed at a Jerusalem Event
 
 Claim Timestamp: 00:26:00
 
-Claim: Mike Huckabee and former U.S. Ambassador David Friedman performed "Sweet Home Alabama" (variation "Sweet Home Jerusalem") on stage in Jerusalem in October 2025.
+Claim: The host says, and plays a clip she says shows it, that Mike Huckabee and former U.S. Ambassador David Friedman performed "Sweet Home Alabama" (variation "Sweet Home Jerusalem") on stage in Jerusalem in October 2025.
 
 Anchored Artifacts: A-1456.1
 Mentions: N-277, N-279
@@ -1172,11 +1172,11 @@ Investigative Direction: Identify the event organizer, venue, and date.
 
 ---
 
-**C-1778** Mike Huckabee Met with Jonathan Pollard
+**C-1778** Host Says Mike Huckabee Met with Jonathan Pollard
 
 Claim Timestamp: 00:26:15
 
-Claim: Mike Huckabee met with Jonathan Pollard, a convicted Israeli spy who served 30 years in U.S. prison; Huckabee had previously advocated for Pollard's release.
+Claim: The host says, citing a headline she shows, that Mike Huckabee met with Jonathan Pollard, whom she calls a convicted Israeli spy who served 30 years in U.S. prison, and that Huckabee had previously advocated for Pollard's release.
 
 Anchored Artifacts: A-1457.1
 Mentions: N-277, N-278

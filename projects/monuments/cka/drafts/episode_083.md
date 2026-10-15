@@ -840,11 +840,11 @@ Related Nodes:
 
 Investigative Direction: Cross-reference the livestream timestamps with airport manifests and TPUSA communications logs.
 
-**C-2562** Elizabeth McCoy Was First Person Called After the 12:23 p.m. MST Shooting
+**C-2562** Host Says Elizabeth McCoy Was First Person Called After the 12:23 p.m. MST Shooting
 
 Claim Timestamp: 00:11:23
 
-Claim: Per Elizabeth McCoy's account, she was the first person called after the 12:23 p.m. MST shooting.
+Claim: The host says that, per Elizabeth McCoy's account, she was the first person called after the 12:23 p.m. MST shooting.
 
 Anchored Artifacts: A-1902.1
 Mentions: N-221
@@ -853,11 +853,11 @@ Related Nodes: N-10565
 
 Investigative Direction: Compare McCoy's account with phone records and call detail records from Mikey McCoy's device.
 
-**C-2563** Mikey McCoy Called Elizabeth First, Then Conferenced in Erika
+**C-2563** Host Says Mikey McCoy Called Elizabeth First, Then Conferenced in Erika
 
 Claim Timestamp: 00:11:23
 
-Claim: Per Elizabeth McCoy's account, Mikey McCoy rang her first after the shooting and then conferenced in Erika.
+Claim: The host says that, per Elizabeth McCoy's account, Mikey McCoy rang her first after the shooting and then conferenced in Erika.
 
 Anchored Artifacts: A-1902.1
 Mentions: N-221, N-194
@@ -866,11 +866,11 @@ Related Nodes:
 
 Investigative Direction: Obtain phone records for Mikey McCoy's device and confirm the call sequence and participants.
 
-**C-2564** Lauren Tonchech Drove Elizabeth McCoy to Scottsdale Airport
+**C-2564** Host Says Lauren Tonchech Drove Elizabeth McCoy to Scottsdale Airport
 
 Claim Timestamp: 00:14:00
 
-Claim: Per Elizabeth McCoy's account, Lauren Tonchech, a long-time TPUSA employee, volunteered to drive her approximately 30 minutes to Scottsdale airport.
+Claim: The host says that, per Elizabeth McCoy's account, Lauren Tonchech, a long-time TPUSA employee, volunteered to drive her approximately 30 minutes to Scottsdale airport.
 
 Anchored Artifacts: A-1902.1
 Mentions: N-221
@@ -891,11 +891,11 @@ Related Nodes: N-10561, N-10565
 
 Investigative Direction: Obtain independent witness sightings or surveillance/phone-location data for September 10.
 
-**C-2566** Mikey McCoy Met the Group at the Utah Airport and Elizabeth Accompanied Erica to View Charlie's Body
+**C-2566** Host Says Mikey McCoy Met the Group at the Utah Airport and Elizabeth Accompanied Erica to View Charlie's Body
 
 Claim Timestamp: 00:18:09
 
-Claim: Per Elizabeth McCoy's account, Mikey McCoy met them outside at the Utah airport, and Elizabeth went in with Erica to see Charlie's body for the first time.
+Claim: The host says that, per Elizabeth McCoy's alleged narrative (and Andrew Kolvet's account, if he is to be believed), Mikey McCoy met them outside at the Utah airport, and Elizabeth went in with Erica to see Charlie's body for the first time.
 
 Anchored Artifacts: A-1902.2
 Mentions: N-221, N-194

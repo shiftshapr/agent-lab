@@ -872,11 +872,11 @@ Investigative Direction: Determine, by transcript comparison, whether host's ori
 
 ---
 
-**C-1719** SUBND Transponder Activity at Duncan Aviation FBO on September 10
+**C-1719** Mark Says SUBND Transponded From Duncan Aviation FBO on September 10
 
 Claim Timestamp: 00:19:57–00:21:54
 
-Claim: ADSB Exchange data, as displayed and narrated by director Mark, shows tail SUBND transmitting from the Duncan Aviation FBO in Provo from 9:05:36 a.m. to 10:34:05 a.m. (local time, after subtracting 7 hours from UTC) and again from 12:40:53 p.m. to 1:29:40 p.m. on September 10, 2025, without the aircraft moving from its position.
+Claim: Mark, the show's director, says ADSB Exchange data he displays shows tail SUBND transmitting from the Duncan Aviation FBO in Provo from 9:05:36 a.m. to 10:34:05 a.m. (local time, after subtracting 7 hours from UTC) and again from 12:40:53 p.m. to 1:29:40 p.m. on September 10, 2025, without the aircraft moving from its position, and the host repeats these times.
 
 Anchored Artifacts: A-1418.1
 Mentions: N-1, N-2, N-67, N-264
@@ -902,11 +902,11 @@ Investigative Direction: Verify each overlap instance against independent ADSB/H
 
 ---
 
-**C-1721** Charlie Kirk Was Present in 29 of the Documented Overlap Instances
+**C-1721** Host Says Charlie Kirk Was Present in 29 of the Documented Overlap Instances
 
 Claim Timestamp: 00:17:49–00:18:42
 
-Claim: Of the overlap instances documented in the spreadsheet, 29 included Charlie Kirk's presence.
+Claim: The host says that, of the overlap instances documented in the spreadsheet she shows, 29 included Charlie Kirk's presence.
 
 Anchored Artifacts: A-1419.1
 Mentions: N-1, N-2
@@ -1020,11 +1020,11 @@ Investigative Direction: Verify directly against IRS Tax-Exempt Organization Sea
 
 ---
 
-**C-1729** Turning Point USA Transferred $8.56M to America's Turning Point in FY2024
+**C-1729** Wolves and Finance Video Says Turning Point USA Transferred $8.56M to America's Turning Point in FY2024
 
 Claim Timestamp: 00:37:29–00:39:37
 
-Claim: "Wolves and Finance" video cites Schedule I of Turning Point USA's FY2024 Form 990 showing $8,560,625 transferred to America's Turning Point.
+Claim: In the "Wolves and Finance" video clip the host plays, the presenter says Schedule I of Turning Point USA's FY2024 Form 990 shows $8,560,625 sent to America's Turning Point.
 
 Anchored Artifacts: A-1420.2
 Mentions: N-2
@@ -1035,11 +1035,11 @@ Investigative Direction: Verify the Schedule I line item against the filed Form 
 
 ---
 
-**C-1730** Missing Filings Occurred Four Months Before Charlie Kirk's Audit Request and Death
+**C-1730** Wolves and Finance Video Says Missing Filings Occurred Four Months Before Charlie Kirk's Audit Request and Death
 
 Claim Timestamp: 00:35:11–00:36:30
 
-Claim: "Wolves and Finance" video asserts that the decision not to file three of four TPUSA-related financial statements occurred four months before Charlie Kirk appointed a new COO, requested a new audit, and was murdered.
+Claim: The "Wolves and Finance" video the host plays asserts that the decision not to file three of four TPUSA-related financial statements occurred four months before Charlie Kirk appointed a new COO, requested a new audit, and was murdered.
 
 Anchored Artifacts: A-1420.1, A-1420.3
 Mentions: N-1, N-2
@@ -1080,11 +1080,11 @@ Investigative Direction: Verify the appointment date via Turning Point USA press
 
 ---
 
-**C-1733** Flock LPR Cameras Are Located Near UVU
+**C-1733** Producer Says Flock LPR Cameras Are Located Near UVU
 
 Claim Timestamp: 00:52:35–00:54:00
 
-Claim: Producer confirms that Flock automated license plate reader cameras have documented locations near Utah Valley University.
+Claim: A producer on the show says Flock automated license plate reader cameras have documented locations near Utah Valley University.
 
 Anchored Artifacts: A-1423.1
 
@@ -1094,11 +1094,11 @@ Investigative Direction: Pull the Flock camera registry; verify proximity to UVU
 
 ---
 
-**C-1734** Three Transponder Windows on September 10 Were Specified by ADSB Data
+**C-1734** Mark Says ADSB Data Shows SUBND Transponder Windows on September 10
 
 Claim Timestamp: 00:21:00–00:21:54
 
-Claim: Director Mark specifies that SUBND transponder windows on September 10 were 9:05–10:34 a.m. and 12:40–1:29 p.m. (local time, using UTC minus 7 hours).
+Claim: Mark, the show's director, says ADSB data shows SUBND transponder windows on September 10 were 9:05-10:34 a.m. and 12:40-1:29 p.m. (local time, using UTC minus 7 hours).
 
 Anchored Artifacts: A-1418.1
 Mentions: N-67, N-264

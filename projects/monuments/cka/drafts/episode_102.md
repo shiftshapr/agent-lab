@@ -938,7 +938,7 @@ Investigative Direction: Verify the original X post and any subsequent posts by 
 
 Claim Timestamp: 00:02:41
 
-Claim: Blake Neff publicly disputed the implication that Andrew Kolvet's wife was absent from the White House Correspondents Dinner, arguing that WHCD attendance requires press-issued invitations, that Kolvet lives in Phoenix, and questioning how anyone would know his wife's travel preferences.
+Claim: Per posts by Blake Neff that the host reads, he publicly disputed the implication that Andrew Kolvet's wife was absent from the White House Correspondents Dinner, arguing that WHCD attendance requires press-issued invitations, that Kolvet lives in Phoenix, and questioning how anyone would know his wife's travel preferences.
 
 Anchored Artifacts: A-2065.1
 Mentions: N-14, N-162
@@ -1039,11 +1039,11 @@ Investigative Direction: Verify the original post; obtain TPUSA board meeting mi
 
 ---
 
-**C-2894** Erika Kirk received honorary doctorate from Hillsdale College
+**C-2894** Host Says Erika Kirk Received Honorary Doctorate from Hillsdale College
 
 Claim Timestamp: 00:14:43
 
-Claim: Erika Kirk delivered the Hillsdale College commencement address and was awarded an honorary doctorate.
+Claim: The host says Erika Kirk delivered the Hillsdale College commencement address and was awarded an honorary doctorate.
 
 Anchored Artifacts: A-2070.1
 Mentions: N-2
@@ -1086,11 +1086,11 @@ Investigative Direction: Obtain archived versions of the LinkedIn page (Wayback 
 
 ---
 
-**C-2897** Erika Kirk's LinkedIn was upgraded to claim summa cum laude with double degree
+**C-2897** Host Alleges Erika Kirk's LinkedIn Was Upgraded to Claim Summa Cum Laude with Double Degree
 
 Claim Timestamp: 00:18:10
 
-Claim: Erika Kirk later updated her LinkedIn page to state she graduated summa cum laude with a double degree in political science and international relations.
+Claim: The host alleges that Erika Kirk later upgraded her LinkedIn page, shown by the host as an old version since removed, to state she graduated summa cum laude with a double degree in political science and international relations.
 
 Anchored Artifacts: A-2071.2
 Mentions: N-2
@@ -1116,11 +1116,11 @@ Investigative Direction: Obtain ASU's archived 2012 course catalog directly from
 
 ---
 
-**C-2899** Erika Kirk's LinkedIn claimed Doctor of Education from Liberty University
+**C-2899** Host Alleges Erika Kirk's LinkedIn Claimed Doctor of Education from Liberty University
 
 Claim Timestamp: 00:18:59
 
-Claim: Erika Kirk's LinkedIn page lists a Doctor of Education in Christian Leadership from Liberty University, which she did not actually earn (took only a couple of credits toward the goal).
+Claim: The host alleges that Erika Kirk's LinkedIn page lists a Doctor of Education in Christian Leadership from Liberty University, which the host says she did not actually earn (she took only a couple of credits toward the goal).
 
 Anchored Artifacts: A-2071.3
 Mentions: N-2
@@ -1131,11 +1131,11 @@ Investigative Direction: Verify Liberty's Ed.D. in Christian Leadership program;
 
 ---
 
-**C-2901** Nick Shirley claimed to have infiltrated Brazilian gang in 48 hours
+**C-2901** Host Says Nick Shirley Video Claimed He Infiltrated Brazilian Gang in 48 Hours
 
 Claim Timestamp: 00:26:59
 
-Claim: Nick Shirley is associated with a video claiming he infiltrated the most dangerous gang in Brazil within 48 hours.
+Claim: The host says Nick Shirley is associated with a video claiming he infiltrated the most dangerous gang in Brazil within 48 hours.
 
 Anchored Artifacts: A-2073.1
 

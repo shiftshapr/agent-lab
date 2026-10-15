@@ -985,7 +985,7 @@ Investigative Direction: Confirm the interview air date, obtain the full transcr
 
 Claim Timestamp: 00:24:17
 
-Claim: Pastor Russell, preaching at Pursuit Church in a sermon connected to Erika Kirk's Make Heaven Crowded tour, denounced "vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities" and framed himself as finishing Charlie Kirk's foundation.
+Claim: In a sermon clip the host plays, Pastor Russell, preaching at Pursuit Church in a sermon connected to Erika Kirk's Make Heaven Crowded tour, denounces "vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities" and frames himself as finishing Charlie Kirk's foundation.
 
 Anchored Artifacts: A-2192.2
 Mentions: N-1, N-2, N-532

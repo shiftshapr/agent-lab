@@ -893,11 +893,11 @@ Investigative Direction: Verify Jean-Christophe Mitterrand's role via French cou
 
 ---
 
-**C-1872** In the Jesse Kege / One Shot TV demonstration, the 180gr FMJ .30-06 round fully penetrated the ballistic dummy and continued through three 5-gallon water jugs
+**C-1872** Clip the Host Plays Shows Jesse Kege / One Shot TV 180gr FMJ .30-06 Round Fully Penetrating Ballistic Dummy and Three 5-Gallon Water Jugs
 
 Claim Timestamp: 00:32:46–00:33:21
 
-Claim: In the demonstration shown, a 180gr FMJ .30-06 round penetrated a ballistic dummy, separated its head, and continued through three 5-gallon water jugs placed behind.
+Claim: In a video the host plays, YouTuber Jesse Kege of One Shot TV demonstrates a 180gr FMJ .30-06 round penetrating a ballistic dummy, separating its head, and continuing through three 5-gallon water jugs placed behind; the host cites this as showing what the round would have done to Charlie Kirk.
 
 Anchored Artifacts: A-1516.1
 Mentions: N-320
@@ -988,11 +988,11 @@ Investigative Direction: Locate the Daily Mail article and confirm policy detail
 
 ---
 
-**C-1879** Viewer comments state that TPUSA-affiliated individuals knew of potential danger before the assassination and have remained silent
+**C-1879** Viewer Comments the Host Reads Say TPUSA-Affiliated Individuals Knew of Potential Danger Before the Assassination and Have Remained Silent
 
 Claim Timestamp: 00:37:36–00:41:02
 
-Claim: Viewer comments (Jo Ann, Diana Sheen, CCXX) collectively assert that TPUSA personnel had foreknowledge or related suspicions prior to the assassination and have not publicly disclosed them.
+Claim: Viewer comments the host reads (Jo Ann, Diana Sheen, CCXX) collectively assert that TPUSA personnel had foreknowledge or related suspicions prior to the assassination and have not publicly disclosed them.
 
 Anchored Artifacts: A-1518.1, A-1518.3, A-1518.5
 Mentions:

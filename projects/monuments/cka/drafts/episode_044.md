@@ -774,11 +774,11 @@ Investigative Direction: FOIA requests to DEA, CBP, and DOJ for case files assoc
 
 ---
 
-**C-1882** Harry was placed under an NDA gag order dated 1990 to May 2025
+**C-1882** Per Message Host Reads, Harry Was Placed Under an NDA Gag Order Dated 1990 to May 2025
 
 Claim Timestamp: 00:13:49
 
-Claim: An NDA gag order prevented Harry from publicly discussing the 1990 tunnel incident until May 2025.
+Claim: Per a message from Harry that the host reads verbatim, an NDA gag order dated 1990 to May 2025 prevented him from publicly discussing the 1990 tunnel incident until May 2025.
 
 Anchored Artifacts: A-1519.1, A-1519.5
 Mentions: N-322
@@ -802,11 +802,11 @@ Investigative Direction: Obtain Harry's DD-214, military personnel file, and awa
 
 ---
 
-**C-1884** Harry checked into Candlewood Suites at Fort Huachuca on September 8, 2025 at approximately 5:37 PM
+**C-1884** Host Says Harry Checked Into Candlewood Suites at Fort Huachuca on September 8, 2025 at About 5:37 PM
 
 Claim Timestamp: 00:16:14–00:17:28
 
-Claim: Harry Meyers arrived at Candlewood Suites on Fort Huachuca at approximately 5:37 PM on September 8, 2025, and observed a person he identified as special forces in the lobby.
+Claim: The host says Harry Meyers told her he arrived at Candlewood Suites on Fort Huachuca at approximately 5:37 PM on September 8, 2025, and observed a person he identified as special forces in the lobby.
 
 Anchored Artifacts: A-1519.2, A-1519.4
 Mentions: N-322
@@ -862,11 +862,11 @@ Investigative Direction: FOIA incident report 861-1-2025-MPC446 for visitor/atte
 
 ---
 
-**C-1888** A "Captain Nef" conducted a 7-hour interrogation of Harry at Fort Huachuca on September 9, 2025
+**C-1888** Host Says Harry Reports a "Captain Nef" Conducted a 7-Hour Interrogation of Him at Fort Huachuca on September 9, 2025
 
 Claim Timestamp: 00:22:18–00:24:56
 
-Claim: After Harry entered the meeting room, two captains escorted him out and began a 7-hour interrogation accusing him of being a bomb threat, a spy, and a threat to himself or others. The interrogator Harry identifies as "Captain Nef" was approximately 36 years old with brown hair and was commander of force protection.
+Claim: The host says Harry told her that, after he entered the meeting room, two captains escorted him out and began a 7-hour interrogation accusing him of being a bomb threat, a spy, and a threat to himself or others, and that the interrogator Harry identifies as "Captain Nef" was approximately 36 years old with brown hair and was commander of force protection.
 
 Anchored Artifacts: A-1519.2
 Mentions: N-162, N-322, N-323
@@ -920,11 +920,11 @@ Investigative Direction: Verify biographical details against public records and 
 
 ---
 
-**C-1892** Seven viewers emailed the show claiming Arcadi Gaydamak is living in Nashville under the name "Jonathan Schmidt"
+**C-1892** Seven Viewer Emails the Host Describes Claim Arcadi Gaydamak Is Living in Nashville Under the Name "Jonathan Schmidt"
 
 Claim Timestamp: 00:35:46–00:40:46
 
-Claim: Seven individuals, mostly men, emailed the show asserting that Arcadi Gaydamak is residing in Nashville using the alias Jonathan Schmidt and that he relocated there in June 2025.
+Claim: The host says seven individuals, mostly men, emailed the show asserting that Arcadi Gaydamak is residing in Nashville using the alias Jonathan Schmidt and that he relocated there in June 2025.
 
 Anchored Artifacts: A-1523.1
 Mentions: N-317, N-324

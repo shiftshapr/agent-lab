@@ -618,11 +618,11 @@ Investigative Direction: Obtain original metadata records; verify hotel reservat
 
 ---
 
-**C-1972** "Mitch" Observed Meeting at JTF Building on September 9, 2025 Involving Congressman-Type Figure and Military Officers
+**C-1972** "Mitch" Says He Observed Meeting at JTF Building on September 9, 2025 Involving Congressman-Type Figure and Military Officers
 
 Claim Timestamp: 00:44:46–00:50:12
 
-Claim: While at the JTF command building on the morning of September 9, 2025, witness observed a group including a man in a congressman-style suit with flag pin, accompanied by lieutenant colonels, a sergeant major, and civilians, escorted by military personnel. Witness was subsequently surrounded by multiple federal and local law enforcement officers at a park bench outside.
+Claim: Guest witness "Mitch" says that while at the JTF command building on the morning of September 9, 2025, he observed a group including a man in a congressman-style suit with flag pin, accompanied by lieutenant colonels, a sergeant major, and civilians, escorted by military personnel, and that he was subsequently surrounded by multiple federal and local law enforcement officers at a park bench outside.
 
 Anchored Artifacts: A-1558.3
 Mentions: N-323, N-366
@@ -652,7 +652,7 @@ Investigative Direction: Obtain independent corroborating surveillance or visito
 
 Claim Timestamp: 00:55:09–00:57:28
 
-Claim: Witness "Mitch" identified by resemblance (95–99%) the man who walked out of the JTF building on September 9, 2025 as Brian Harpole, citing matching mannerisms, facial features, height, haircut, and gait.
+Claim: Guest witness "Mitch" says the man who walked out of the JTF building on September 9, 2025 resembled Brian Harpole at 95-99% confidence, citing matching mannerisms, facial features, height, haircut, and gait.
 
 Anchored Artifacts: A-1558.3, A-1559.2
 Mentions: N-366, N-270
@@ -667,7 +667,7 @@ Investigative Direction: Verify witness's stated capacity for facial recognition
 
 Claim Timestamp: 01:01:18
 
-Claim: After viewing a reference photograph of Congressman Mark Amodei (R-NV) on air, witness "Mitch" identified him at approximately 95% confidence as the congressman-style figure seen walking closest to him at the JTF building on September 9, 2025.
+Claim: After the host shows a reference photograph of Congressman Mark Amodei (R-NV) on air, guest witness "Mitch" says he identifies him at approximately 95% confidence as the congressman-style figure who walked closest to him at the JTF building on September 9, 2025.
 
 Anchored Artifacts: A-1558.3, A-1559.1
 Mentions: N-366, N-368
@@ -723,11 +723,11 @@ Investigative Direction: Release and forensic-analyze the original high-resoluti
 
 ---
 
-**C-1979** Multiple Federal and Local Law Enforcement Officers Surrounded "Mitch" Outside JTF Building on September 9, 2025
+**C-1979** "Mitch" Says Multiple Federal and Local Law Enforcement Officers Surrounded Him Outside JTF Building on September 9, 2025
 
 Claim Timestamp: 00:50:12–00:53:59
 
-Claim: After his identification of personnel exiting the JTF building, witness "Mitch" was escorted to park benches outside by Captain Neff, where multiple cruisers arrived and officers from different agencies surrounded him; a plainclothes woman (described as possibly Secret Service) directed questioning.
+Claim: Guest witness "Mitch" says that after his identification of personnel exiting the JTF building, he was escorted to park benches outside by Captain Neff, where multiple cruisers arrived and officers from different agencies surrounded him, and that a plainclothes woman (described as possibly Secret Service) directed questioning.
 
 Anchored Artifacts: A-1558.3
 Mentions: N-323, N-366

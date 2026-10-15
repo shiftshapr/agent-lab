@@ -771,72 +771,72 @@ Investigative Direction: Obtain primary recording and timestamp; verify quote ag
 
 Claim Timestamp: 00:04:58
 
-Claim: Charlie Kirk criticized Lindsey Graham's call for regime change in Iran as analogous to Hillary Clinton's Libya intervention.
+Claim: In a clip the host plays, Charlie Kirk criticizes Lindsey Graham's call for regime change in Iran as analogous to Hillary Clinton's Libya intervention.
 
 Anchored Artifacts: A-1617.1
 Mentions: N-1, N-458
 Investigative Direction: Obtain primary recording; verify exact phrasing.
 
-**C-2077** Court Petition Filed December 2024 Challenges Alton C. Jennings Will Against TPUSA and YAF
+**C-2077** Host Says Court Petition Filed December 2024 Challenges Alton C. Jennings Will Against TPUSA and YAF
 
 Claim Timestamp: 00:13:58
 
-Claim: A court petition was filed in December 2024 by Alton C. Jennings's grandson, challenging the last will and trust on the grounds of cognitive decline and undue influence by caretaker Mitch Manley Sr.
+Claim: The host says, per the lawsuit (which she notes contains only allegations), that a court petition was filed in December 2024 by Alton C. Jennings's grandson, challenging the last will and trust on the grounds of cognitive decline and undue influence by caretaker Mitch Manley Sr.
 
 Anchored Artifacts: A-1619.1
 Mentions: N-451, N-452
 Related Nodes: N-10409
 Investigative Direction: Obtain docket records (case number, court, jurisdiction); verify filing date and parties; confirm allegations are pleaded in the petition.
 
-**C-2078** Alton C. Jennings Estate Valued at $25M; Will Changed November 2023, Four Months Before Death
+**C-2078** Host Says Alton C. Jennings Estate Valued at $25M; Will Changed November 2023, Four Months Before Death
 
 Claim Timestamp: 00:16:20
 
-Claim: Alton C. Jennings's estate was valued at $25 million, and his will was reportedly changed in November 2023 – approximately four months before his death at age 95.
+Claim: The host says Alton C. Jennings's estate was valued at $25 million, and that his will was changed in November 2023, approximately four months before his death at age 95.
 
 Anchored Artifacts: A-1619.1
 Mentions: N-451
 Related Nodes: N-10409
 Investigative Direction: Obtain probate court filings; verify valuation and date of will execution.
 
-**C-2079** Mitch Manley Jr. Worked on Charlie Kirk's TPUSA Show While His Father Was Caretaker
+**C-2079** Host Says Mitch Manley Jr. Worked on Charlie Kirk's TPUSA Show While His Father Was Caretaker
 
 Claim Timestamp: 00:16:20
 
-Claim: Mitch Manley Jr. (son of caretaker Mitch Manley Sr.) was employed by Turning Point USA on Charlie Kirk's show during the period his father was serving as Alton Jennings's caretaker.
+Claim: The host says Mitch Manley Jr. (son of caretaker Mitch Manley Sr.) was employed by Turning Point USA on Charlie Kirk's show during the period his father was serving as Alton Jennings's caretaker.
 
 Anchored Artifacts: A-1619.1
 Mentions: N-452, N-453, N-1
 Related Nodes: N-10409
 Investigative Direction: Verify employment records; cross-check TPUSA staff listings; obtain dates of employment.
 
-**C-2080** Jennings Estate Reportedly Split Between Turning Point Action and YAF
+**C-2080** Host Says Jennings Estate Was Split Between Turning Point Action and YAF
 
 Claim Timestamp: 00:17:23
 
-Claim: The redirected Jennings estate was reportedly split between Turning Point Action (headed by Tyler Bowyer) and Young America's Foundation (YAF).
+Claim: The host says the Jennings estate was split between Turning Point Action (headed by Tyler Bowyer) and Young America's Foundation (YAF).
 
 Anchored Artifacts: A-1619.1
 Mentions: N-11
 Related Nodes: N-10409
 Investigative Direction: Obtain probate records reflecting beneficiary designations; verify allocation.
 
-**C-2081** Paul Vallely Is a TPUSA Board Member and Former Commander of the 7th PSYOP Group
+**C-2081** Host Identifies Paul Vallely as a TPUSA Board Member and Former Commander of the 7th PSYOP Group
 
 Claim Timestamp: 00:18:40
 
-Claim: Paul Vallely (Paul Vallely) is identified as a Turning Point USA board member, with a military background as commander of the 7th Psychological Operations Group and two Vietnam combat tours.
+Claim: The host identifies Paul Vallely as a Turning Point USA board member, with a military background as commander of the 7th Psychological Operations Group and two Vietnam combat tours.
 
 Anchored Artifacts: A-1620.1
 Mentions: N-808
 Related Nodes: N-10410
 Investigative Direction: Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record.
 
-**C-2082** Valli and Aquino Co-Authored *Mind War* in 1980
+**C-2082** Host Says Vallely and Aquino Co-Authored Mind War in 1980
 
 Claim Timestamp: 00:21:42
 
-Claim: Paul Vallely and Major Michael Aquino co-authored the book *Mind War* in 1980.
+Claim: The host says Paul Vallely and Major Michael Aquino co-authored the book *Mind War* in 1980.
 
 Anchored Artifacts: A-1621.1
 Mentions: N-808, N-455
@@ -854,44 +854,44 @@ Mentions: N-455
 Related Nodes: N-10410
 Investigative Direction: Cross-check Aquino's published biographical statements; consult Church of Satan archives.
 
-**C-2084** Aquino Founded the Temple of Set in 1975
+**C-2084** Host Says Aquino Founded the Temple of Set in 1975
 
 Claim Timestamp: 00:22:47
 
-Claim: Michael Aquino left the Church of Satan in 1975 and founded the Temple of Set after a doctrinal dispute over whether Satan was literal or metaphorical.
+Claim: The host says Michael Aquino left the Church of Satan in 1975 and founded the Temple of Set after a doctrinal dispute over whether Satan was literal or metaphorical.
 
 Anchored Artifacts: A-1622.1, A-1622.2
 Mentions: N-455
 Related Nodes: N-10410
 Investigative Direction: Verify founding documents; cross-check Temple of Set records.
 
-**C-2085** SF Police Investigated Aquino in 1986 re: Army Child Development Center
+**C-2085** Host Says SF Police Investigated Aquino in 1986 re: Army Child Development Center
 
 Claim Timestamp: 00:27:54
 
-Claim: In 1986, San Francisco police opened an investigation into Michael Aquino in connection with allegations of sexual abuse at the Army's Child Development Center in San Francisco.
+Claim: The host says that in 1986, San Francisco police opened an investigation into Michael Aquino in connection with allegations of sexual abuse at the Army's Child Development Center in San Francisco.
 
 Anchored Artifacts: A-1623.1
 Mentions: N-455
 Related Nodes: N-10410
 Investigative Direction: Obtain SFPD case records (case number); verify closure status and stated reason.
 
-**C-2086** 1987 Victim Identified Aquino; Case Closed for Insufficient Evidence
+**C-2086** Host Says 1987 Victim Identified Aquino; Case Closed for Insufficient Evidence
 
 Claim Timestamp: 00:27:54
 
-Claim: In 1987, a girl came forward identifying Aquino as the perpetrator, but the case was closed for insufficient evidence, despite the victim reportedly describing the house where abuse occurred.
+Claim: The host says that in 1987 a girl came forward identifying Aquino as the perpetrator, but the case was closed for insufficient evidence, despite the victim reportedly describing the house where abuse occurred.
 
 Anchored Artifacts: A-1623.2
 Mentions: N-455
 Related Nodes: N-10410
 Investigative Direction: Obtain SFPD records; review any subsequent civil filings; cross-check victim statements if available.
 
-**C-2087** Twelve Lawsuits Filed Against Harvest Christian Fellowship re: Romanian Children's Home
+**C-2087** Host Says Twelve Lawsuits Filed Against Harvest Christian Fellowship re: Romanian Children's Home
 
 Claim Timestamp: 00:32:12
 
-Claim: Twelve lawsuits have been filed against Harvest Christian Fellowship and Greg Laurie alleging abuse of young men at a children's home in Romania.
+Claim: The host, citing an article she shows, says twelve lawsuits have been filed against Harvest Christian Fellowship and Greg Laurie alleging abuse of young men at a children's home in Romania.
 
 Anchored Artifacts: A-1624.1
 Mentions: N-456
@@ -902,7 +902,7 @@ Investigative Direction: Obtain court filings (case numbers, jurisdiction); veri
 
 Claim Timestamp: 00:34:03
 
-Claim: Allegations against Paul Havsgaard at the Bucharest children's shelter include children being tied to radiators, made to kneel on walnut shells, touched inappropriately, and pimped out for sex.
+Claim: The host says the allegations against Paul Havsgaard at the Bucharest children's shelter include children being tied to radiators, made to kneel on walnut shells, touched inappropriately, and pimped out for sex.
 
 Anchored Artifacts: A-1624.2
 Mentions: N-457
@@ -945,7 +945,7 @@ Investigative Direction: Obtain direct screenshot of Social Blade historical rec
 
 Claim Timestamp: 00:07:08
 
-Claim: Tucker Carlson, in his own recorded words, compared Lindsey Graham's foreign-policy behavior to a drunk girlfriend screaming at a cop during a DUI stop.
+Claim: In a clip the host plays, Tucker Carlson compares Lindsey Graham's foreign-policy behavior to a drunk girlfriend screaming at a cop during a DUI stop.
 
 Anchored Artifacts: A-1618.1
 Mentions: N-22, N-458

@@ -939,7 +939,7 @@ Investigative Direction: Obtain the full tour Q&A recording to verify Kelly's ex
 
 Claim Timestamp: 00:09:38
 
-Claim: Tucker Carlson publicly described a backstage conversation with Charlie Kirk at the July Student Action Summit in which Kirk encouraged him to address Israel, Iran, and Jeffrey Epstein material.
+Claim: In a clip the host plays, Tucker Carlson publicly describes a backstage conversation with Charlie Kirk before his July speech in which Kirk encouraged him to address Israel, Iran, and Jeffrey Epstein material.
 
 Anchored Artifacts: A-1381.1
 Mentions: N-1, N-9, N-22
@@ -963,11 +963,11 @@ Investigative Direction: Locate and preserve the original Megyn Kelly video and 
 
 ---
 
-**C-1671** Dave Rubin characterized Ben Shapiro's appearance on Kelly's tour as "almost an act of bravery"
+**C-1671** Host Says Dave Rubin Characterized Ben Shapiro's Appearance on Kelly's Tour as "Almost an Act of Bravery"
 
 Claim Timestamp: 00:06:30
 
-Claim: Dave Rubin characterized Ben Shapiro's appearance on Megyn Kelly's tour – in which Shapiro challenged Megyn on stage – as "almost an act of bravery."
+Claim: The host says Dave Rubin characterized Ben Shapiro's appearance on Megyn Kelly's tour - in which Shapiro challenged Megyn on stage - as "almost an act of bravery."
 
 Anchored Artifacts: A-1380.1
 Mentions: N-32, N-97, N-46
@@ -977,11 +977,11 @@ Investigative Direction: Obtain the full Dave Rubin segment to verify precise wo
 
 ---
 
-**C-1672** Frank Turek identified the older man seen near a bush pre-event as Butch Hibbs
+**C-1672** Host Says Older Man Seen Near a Bush Pre-Event Is Butch Hibbs, Citing Frank Turek
 
 Claim Timestamp: 00:32:57
 
-Claim: Frank Turek identified the previously anonymous older man seen near a bush at the UVU amphitheater before Charlie Kirk arrived as Butch Hibbs.
+Claim: The host says the previously anonymous older man seen near a bush at the UVU amphitheater before Charlie Kirk arrived is Butch Hibbs, citing a clip in which Frank Turek identifies Butch Hibbs as the brother of Pastor Jack Hibbs.
 
 Anchored Artifacts: A-1383.1, A-1384.1
 Mentions: N-7, N-250, N-1
@@ -1006,11 +1006,11 @@ Investigative Direction: Obtain independent genealogical or institutional record
 
 ---
 
-**C-1674** A photograph of Butch Hibbs with Charlie Kirk was taken approximately 20 minutes before the shooting
+**C-1674** Frank Turek Says Photograph of Butch Hibbs With Charlie Kirk Was Taken Approximately 20 Minutes Before the Shooting
 
 Claim Timestamp: 00:32:57
 
-Claim: A photograph of Butch Hibbs, Charlie Kirk, and Frank Turek was taken approximately 20 minutes before the shooting of Charlie Kirk.
+Claim: In a clip the host plays, Frank Turek says a photograph of Butch Hibbs, Charlie Kirk, and himself was taken maybe 20 minutes before the shooting of Charlie Kirk.
 
 Anchored Artifacts: A-1383.2
 Mentions: N-1, N-7, N-250
@@ -1035,11 +1035,11 @@ Investigative Direction: Obtain the underlying local Utah news article and any U
 
 ---
 
-**C-1676** UVU recommended against the outdoor amphitheater for safety reasons; Turning Point insisted on it
+**C-1676** Host Says UVU Recommended Against the Outdoor Amphitheater for Safety Reasons and Turning Point Insisted on It
 
 Claim Timestamp: 00:19:14
 
-Claim: UVU communicated to Turning Point USA that the outdoor amphitheater was not advisable for safety reasons; Turning Point USA nonetheless insisted on the outdoor venue.
+Claim: The host says she learned that UVU communicated to Turning Point USA that the outdoor amphitheater was not advisable for safety reasons, and that Turning Point USA nonetheless insisted on the outdoor venue.
 
 Anchored Artifacts: A-1387.1
 
@@ -1049,11 +1049,11 @@ Investigative Direction: Obtain UVU event-services correspondence and any intern
 
 ---
 
-**C-1677** Alexis Wilkins filed a $5 million lawsuit against Elijah Schaefer and other content creators over honeypot allegations
+**C-1677** Host Says Alexis Wilkins Filed a $5 Million Lawsuit Against Elijah Schaefer and Other Content Creators Over Honeypot Allegations
 
 Claim Timestamp: 00:37:38
 
-Claim: Alexis Wilkins filed a $5 million lawsuit against Elijah Schaefer and other content creators over honeypot allegations related to her relationship with Kash Patel.
+Claim: The host says Alexis Wilkins filed a $5 million lawsuit against Elijah Schaefer and other content creators over honeypot allegations related to her relationship with Kash Patel.
 
 Anchored Artifacts: A-1385.1
 Mentions: N-69, N-216, N-251

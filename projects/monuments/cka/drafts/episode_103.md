@@ -1102,11 +1102,11 @@ Investigative Direction: Check TPUSA office access logs and Fox booking records 
 
 ---
 
-**C-4042** Photo metadata stamped September 9, 8:33 a.m. presented as proof Erika Kirk was with her kids
+**C-4042** Clip Presents Photo Metadata Stamped September 9, 8:33 a.m. as Proof Erika Kirk Was with Her Kids
 
 Claim Timestamp: 00:29:57
 
-Claim: On Melton's stream, a photo of two children with metadata reading September 9, 8:33 a.m. is presented as proof, attributed to Andrew Kolvet, that Erika Kirk was with her children.
+Claim: In a clip from Melton's stream that the host plays, a photo of two children with metadata reading September 9, 8:33 a.m. is presented as proof, attributed to Andrew Kolvet, that Erika Kirk was with her children.
 
 Transcript Snippet: Says right at the top, September 9th, 8:33 a. m.
 

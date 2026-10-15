@@ -1525,8 +1525,8 @@
       "@type": "Claim",
       "@id": "C-2206",
       "ref": "C-2206",
-      "label": "Erika Kirk Hosted TPUSA Corporate Zoom Call on September 16, 2025",
-      "claim": "A corporate-wide Zoom call addressed by Erika Kirk to Turning Point USA employees took place on September 16, 2025 – approximately five-and-a-half days after Charlie Kirk's death – with the public board announcement following one day later.",
+      "label": "Host Says Erika Kirk Hosted TPUSA Corporate Zoom Call on September 16, 2025",
+      "claim": "The host says a corporate-wide Zoom call addressed by Erika Kirk to Turning Point USA employees took place on September 16, 2025, approximately five-and-a-half days after Charlie Kirk's death, with the public board announcement following one day later.",
       "anchored_artifacts": [
         "A-1686.1",
         "A-1686.2",
@@ -1568,7 +1568,7 @@
       "@id": "C-2208",
       "ref": "C-2208",
       "label": "Erika Kirk Framed TPUSA Staff as \"Family\" on Sept 16 Call",
-      "claim": "During the September 16 call, Erika Kirk repeatedly addressed Turning Point USA employees as \"family,\" stating \"your family if you want to,\" \"I want our family to stay together,\" and \"this is your chosen family.\"",
+      "claim": "In a clip of the September 16 call that the host plays, Erika Kirk repeatedly addresses Turning Point USA employees as \"family,\" stating \"your family if you want to,\" \"I want our family to stay together,\" and \"this is your chosen family.\"",
       "anchored_artifacts": [
         "A-1686.2"
       ],
@@ -1606,8 +1606,8 @@
       "@type": "Claim",
       "@id": "C-2210",
       "ref": "C-2210",
-      "label": "Erika Kirk Self-Corrected to Avoid the Word \"Happy\" About Charlie on Sept 16 Call",
-      "claim": "During the September 16 call, Erika Kirk interrupted herself mid-sentence with \"I'm trying not to say that he would be\" – appearing to self-edit away from a positive emotion descriptor about Charlie Kirk in heaven.",
+      "label": "Host Says Erika Kirk Self-Corrected to Avoid the Word \"Happy\" About Charlie on Sept 16 Call",
+      "claim": "The host says that in a clip of the September 16 call, Erika Kirk interrupted herself mid-sentence with \"I'm trying not to say that he would be,\" appearing to self-edit away from a positive emotion descriptor about Charlie Kirk in heaven.",
       "anchored_artifacts": [
         "A-1686.2"
       ],
@@ -1646,7 +1646,7 @@
       "@id": "C-2212",
       "ref": "C-2212",
       "label": "Erika Kirk's Sept 16 Call Included \"15 Minutes Before Landing\" Analogy Attributed to \"Usha\"",
-      "claim": "During the September 16 call, Erika Kirk shared an airplane analogy (\"15 minutes before landing… you're going to make it through these next 15 minutes\") attributed to a person named \"Usha.\"",
+      "claim": "In a clip of the September 16 call that the host plays, Erika Kirk shares an airplane analogy (\"15 minutes before landing… you're going to make it through these next 15 minutes\") attributed to a person named \"Usha.\"",
       "anchored_artifacts": [
         "A-1686.3"
       ],

@@ -1946,7 +1946,7 @@
       "@id": "C-2794",
       "ref": "C-2794",
       "label": "Baron Coleman commented on WHCD media frenzy",
-      "claim": "Baron Coleman publicly commented on the WHCD media coverage, noting Erika Kirk's emergence as a focal point of the event alongside the ballroom announcement.",
+      "claim": "In a clip the host plays, Baron Coleman comments on the WHCD media coverage, saying Erika Kirk and the ballroom announcement became the focal points of the event; the host agrees.",
       "anchored_artifacts": [
         "A-2008.4"
       ],
@@ -1965,8 +1965,8 @@
       "@type": "Claim",
       "@id": "C-2795",
       "ref": "C-2795",
-      "label": "Erika Kirk released a pre-recorded 9-minute video statement",
-      "claim": "Erika Kirk published a 9-minute pre-recorded video statement, with the remaining portion of her show consisting of Charlie Kirk clips.",
+      "label": "Host Says Erika Kirk Released a Pre-Recorded 9-Minute Video Statement",
+      "claim": "The host says Erika Kirk published a 9-minute pre-recorded video statement, with the remaining almost two hours of her show consisting of Charlie Kirk clips.",
       "anchored_artifacts": [
         "A-2009.1",
         "A-2009.2",
@@ -2029,7 +2029,7 @@
       "@id": "C-2798",
       "ref": "C-2798",
       "label": "Erika Kirk criticized journalists for filming during active shooter",
-      "claim": "In her pre-recorded statement, Erika Kirk criticized journalists present at the dinner for using their phones to capture video during what she described as an active shooting situation.",
+      "claim": "In a pre-recorded statement the host plays, Erika Kirk criticizes journalists present at the dinner for using their phones to capture video during what she describes as an active shooting situation.",
       "anchored_artifacts": [
         "A-2009.2"
       ],
@@ -2048,7 +2048,7 @@
       "@id": "C-2799",
       "ref": "C-2799",
       "label": "Erika Kirk criticized Jimmy Kimmel's Melania joke",
-      "claim": "In her pre-recorded statement, Erika Kirk criticized Jimmy Kimmel's joke about Melania Trump having \"the glow of an expected widow.\"",
+      "claim": "In a pre-recorded statement the host plays, Erika Kirk criticizes Jimmy Kimmel's joke about Melania Trump having \"the glow of an expected widow.\"",
       "anchored_artifacts": [
         "A-2009.3"
       ],
@@ -2068,8 +2068,8 @@
       "@type": "Claim",
       "@id": "C-2800",
       "ref": "C-2800",
-      "label": "Taro Farnsworth recorded video at Charlie Kirk shooting scene",
-      "claim": "Taro Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds of the incident, stating \"They just shot Charlie.\"",
+      "label": "Host Says Taro Farnsworth Recorded Video at Charlie Kirk Shooting Scene",
+      "claim": "The host says Taro Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds (she also says not even a minute) of the incident; in a clip she plays, he says \"They just shot Charlie.\"",
       "anchored_artifacts": [
         "A-2010.1"
       ],

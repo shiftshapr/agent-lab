@@ -886,11 +886,11 @@ Investigative Direction: Confirm via business filings (Tri Star / Tristar) and p
 
 ---
 
-**C-1697** Jamie Spears Tithed Approximately 10% of Conservatorship Income to Calvary Chapel Brentwood
+**C-1697** Brett Cooper Says Jamie Spears Tithed Approximately 10% of Conservatorship Income to Calvary Chapel Brentwood
 
 Claim Timestamp: 00:11:07
 
-Claim: Per Brett Cooper citing a 2010 financial document, Mr. Spears gave approximately 10% of his conservatorship income to Calvary Chapel Brentwood, "tens of thousands of dollars" in one year.
+Claim: In a clip the host plays, Brett Cooper says, citing a 2010 financial document, that Mr. Spears gave approximately 10% of his conservatorship income to Calvary Chapel Brentwood, "tens of thousands of dollars" in one year.
 
 Anchored Artifacts: A-1399.2, A-1403.1
 Mentions: N-254, N-256, N-225

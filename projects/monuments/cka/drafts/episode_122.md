@@ -1066,11 +1066,11 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 # V. Claim Register
 
-**C-2969** Photograph series shows multiple young men wearing maroon shirts alone in the September 10 audience
+**C-2969** Host Says Photo Series Shows Multiple Young Men Wearing Maroon Shirts Alone in September 10 Audience
 
 Claim Timestamp: 00:02:03
 
-Claim: A series of photographs displayed during the episode depicts multiple young men in maroon shirts standing alone in the Charlie Kirk event audience on September 10.
+Claim: The host says the series of photographs she displays depicts multiple young men in maroon shirts standing alone in the Charlie Kirk event audience on September 10.
 
 Anchored Artifacts: A-2104.1
 Mentions: N-1

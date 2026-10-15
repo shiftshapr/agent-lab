@@ -1570,8 +1570,8 @@
       "@type": "Claim",
       "@id": "C-1965",
       "ref": "C-1965",
-      "label": "Coleman Displays RCH658 Flight Las Vegas to Colorado Springs with Missing Transponder Data",
-      "claim": "Baron Coleman displays a flight log showing an aircraft departing Las Vegas on August 26, 2025 at 3:14 p.m. under the call sign RCH658, with transponder data missing before landing at Colorado Springs.",
+      "label": "Host Shows RCH658 Flight Las Vegas to Colorado Springs with Missing Transponder Data",
+      "claim": "The host, showing a flight log with guest Baron Coleman, says it shows an aircraft departing Las Vegas on August 26, 2025 at 3:14 p.m. under the call sign RCH658, with transponder data missing before landing at Colorado Springs.",
       "anchored_artifacts": [
         "A-1554.1"
       ],
@@ -1590,8 +1590,8 @@
       "@type": "Claim",
       "@id": "C-1966",
       "ref": "C-1966",
-      "label": "Coleman Displays Return Flight Colorado Springs to Andrews as SAM658",
-      "claim": "Baron Coleman displays a flight log showing the same aircraft returning from Colorado Springs to Joint Base Andrews under the SAM658 call sign.",
+      "label": "Host Shows Return Flight Colorado Springs to Andrews as SAM658",
+      "claim": "The host, showing a flight log with guest Baron Coleman, says it shows the same aircraft returning from Colorado Springs to Joint Base Andrews under the SAM658 call sign.",
       "anchored_artifacts": [
         "A-1554.1"
       ],

@@ -976,11 +976,11 @@ Investigative Direction: Verify Yashar Ali's exact post text and timing against 
 
 ---
 
-**C-1406** Iryna Zhuravska Murder Timeline – Murder August 22, Footage Released and Trended September 5
+**C-1406** Host Says Iryna Zhuravska Was Murdered August 22 and Footage Was Released and Trended September 5
 
 Claim Timestamp: 00:08:44
 
-Claim: Iryna Zhuravska was murdered on August 22, 2025; her perpetrator was arrested the same day; the footage was released and trended on X on September 5, 2025.
+Claim: The host says Iryna Zhuravska was murdered on August 22, 2025, her perpetrator was arrested the same day, and the footage was released and trended on X on September 5, 2025.
 
 Anchored Artifacts: A-1238.1 (Matt Walsh's September 5 tweet is documentary anchor for the September 5 date)
 Mentions: N-165, N-166
@@ -990,11 +990,11 @@ Investigative Direction: Verify dates against Charlotte-Mecklenburg Police Depar
 
 ---
 
-**C-1407** Tucker Carlson, at Charlie Kirk's Memorial, Drew an Analogy Between Critics and Those Who Plotted Against Jesus
+**C-1407** Host Says Tucker Carlson, at Charlie Kirk's Memorial, Drew an Analogy Between Critics and Those Who Plotted Against Jesus
 
 Claim Timestamp: 00:04:50
 
-Claim: Tucker Carlson, delivering remarks at Charlie Kirk's memorial, analogized the actions of critics and liars to the plot against Jesus in Jerusalem 2,000 years ago.
+Claim: The host says Tucker Carlson, delivering remarks at Charlie Kirk's memorial, analogized the actions of critics and liars to the plot against Jesus in Jerusalem 2,000 years ago.
 
 Anchored Artifacts: A-1244.1
 Mentions: N-1, N-22
@@ -1195,11 +1195,11 @@ Investigative Direction: Capture and verify direct screenshots of Bowyer's X pos
 
 ---
 
-**C-1422** UVU Has a Documentary Footage Black Hole on Charlie's Left Side
+**C-1422** Host Says UVU Has a Documentary Footage Black Hole on Charlie's Left Side
 
 Claim Timestamp: 00:43:02
 
-Claim: There is an almost incomprehensible lack of footage from Charlie's left side (audience right) of the UVU event; Turning Point has not released high-resolution footage of that angle.
+Claim: The host says there is an almost incomprehensible lack of footage from Charlie's left side (audience right) of the UVU event, and that Turning Point has not released high-resolution footage of that angle.
 
 Anchored Artifacts: None (host-issued bulletin, not artifact-anchored)
 Related Nodes: N-10175

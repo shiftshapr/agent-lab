@@ -1224,11 +1224,11 @@ Investigative Direction: Forensic verification of the message; examine whether C
 
 ---
 
-**C-2479** Charlie Kirk spent two days at the White House on June 18, 2025 lobbying Trump against an Iran war
+**C-2479** Bret Weinstein Says Charlie Kirk Spent Two Days at the White House on June 18, 2025 Lobbying Trump Against an Iran War
 
 Claim Timestamp: 00:10:32–00:13:29
 
-Claim: A June 18 text exchange between Charlie Kirk and Bret Weinstein documents Charlie stating he was "spending two full days at the White House trying to persuade President Trump not to initiate a war with Iran," and that he was "in the White House all day fighting for America."
+Claim: Per a statement by Bret Weinstein that the host reads, Weinstein says that in a June 18 text exchange Charlie Kirk told him he was "spending two full days at the White House trying to persuade President Trump not to initiate a war with Iran," and that he was "in the White House all day fighting for America."
 
 Anchored Artifacts: A-1847.1
 Mentions: N-1, N-5, N-598
@@ -1254,11 +1254,11 @@ Investigative Direction: Verify original message; cross-reference with contempor
 
 ---
 
-**C-2481** Milo Yiannopoulos disclosed that Ben Shapiro commissioned hit jobs on Turning Point USA a decade ago
+**C-2481** Per Host-Shared Text, Milo Yiannopoulos Said Ben Shapiro Sought to Commission Hit Jobs on Turning Point USA a Decade Ago
 
 Claim Timestamp: 00:07:35–00:08:50
 
-Claim: A text exchange between Milo Yiannopoulos and Charlie Kirk describes Ben Shapiro as having "began seek to secretly commission hit jobs on Turning Point USA a decade ago," with Charlie stating he wanted to allow it to "play out" before responding publicly.
+Claim: Per a text exchange between Milo Yiannopoulos and Charlie Kirk that the host shares, Milo wrote that Ben Shapiro "began seek to secretly commission hit jobs on Turning Point USA a decade ago," and Charlie replied that he wanted to allow it to "play out" before responding publicly.
 
 Anchored Artifacts: A-1848.1
 Mentions: N-97, N-224, N-1

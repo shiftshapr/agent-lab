@@ -1548,7 +1548,7 @@
       "@id": "C-1321",
       "ref": "C-1321",
       "label": "Phil Lyman told Alex Jones he was outside at the east end, heard a loud boom, encountered two girls \"very goth, very black\" who did not flee, and quoted one as saying \"Go f yourselves.\"",
-      "claim": "Phil Lyman's on-air account to Alex Jones places him outdoors and characterizes two individuals at the scene as goth and unresponsive.",
+      "claim": "In a clip the host plays of his Alex Jones appearance, Phil Lyman says he was outside at the east end when he heard a loud boom and encountered two girls, \"very goth, very black,\" who did not flee, one of whom he quotes as saying \"Go f yourselves\"; the host says this account places him outdoors and characterizes two individuals as goth and unresponsive.",
       "anchored_artifacts": [
         "A-1183.1"
       ],
@@ -1568,7 +1568,7 @@
       "@id": "C-1322",
       "ref": "C-1322",
       "label": "Phil Lyman told NewsNation he was walking into a building when he heard a loud bang behind him, then ran out to investigate.",
-      "claim": "Phil Lyman's on-air account to NewsNation places him approaching/inside a building at the moment of the shot, then exiting.",
+      "claim": "In a NewsNation clip the host plays, Phil Lyman says he was walking into a building when he heard a loud bang behind him, then ran out to investigate; the host says this places him approaching or inside a building at the moment of the shot, then exiting.",
       "anchored_artifacts": [
         "A-1184.1"
       ],
@@ -1625,8 +1625,8 @@
       "@type": "Claim",
       "@id": "C-1325",
       "ref": "C-1325",
-      "label": "One of the two companions in the photo with Shainer Broderick has been identified as Gernot Omer via face-match to a BearingPoint Graz office YouTube video.",
-      "claim": "A face in the companion photo matches an individual shown in a BearingPoint company video introducing software development teams at the Graz office.",
+      "label": "Host Says One of Two Companions in Photo With Shainer Broderick Is Gernot Omer, via Face-Match to BearingPoint Graz Video",
+      "claim": "The host says her team identified one of the two companions in the photo with Shainer Broderick as Gernot Omer, because a face in the photo matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.",
       "anchored_artifacts": [
         "A-1186.1"
       ],
@@ -1645,8 +1645,8 @@
       "@type": "Claim",
       "@id": "C-1326",
       "ref": "C-1326",
-      "label": "Gernot Omer's LinkedIn states he moved to Utah in May 2024 to take a software engineer position with JP Morgan Chase.",
-      "claim": "The publicly visible LinkedIn profile for Gernot Omer indicates relocation to Utah in May 2024 for employment at JP Morgan Chase.",
+      "label": "Host Says Gernot Omer's LinkedIn States He Moved to Utah in May 2024 for a JP Morgan Chase Software Engineer Job",
+      "claim": "The host says that, according to Gernot Omer's LinkedIn profile, he moved to Utah in May 2024 to take a software engineer position with JP Morgan Chase.",
       "anchored_artifacts": [
         "A-1193.1"
       ],
@@ -1792,8 +1792,8 @@
       "@type": "Claim",
       "@id": "C-1334",
       "ref": "C-1334",
-      "label": "Robert Bowles was in his first week leading the Utah FBI field office at the time of the Charlie Kirk shooting.",
-      "claim": "The Daily Mail account places Robert Bowles in his first week on the Utah FBI assignment at the time of the September 10 assassination.",
+      "label": "Host Cites Daily Mail Saying Robert Bowles Was in First Week Leading Utah FBI Field Office at Time of Kirk Shooting",
+      "claim": "Per the Daily Mail account the host cites, Robert Bowles was in his first week leading the Utah FBI field office at the time of the September 10 assassination of Charlie Kirk.",
       "anchored_artifacts": [
         "A-1189.1"
       ],

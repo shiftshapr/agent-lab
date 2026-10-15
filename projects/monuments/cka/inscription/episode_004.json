@@ -1769,8 +1769,8 @@
       "@type": "Claim",
       "@id": "C-1175",
       "ref": "C-1175",
-      "label": "Text Message Language Too Formal for 22-Year-Olds",
-      "claim": "The Robinson-Twigs text messages use words like 'retrieve' and 'vehicle' in ways inconsistent with casual 22-year-old texting, suggesting they are not authentic.",
+      "label": "Host Says Text Message Language Is Too Formal for 22-Year-Olds",
+      "claim": "The host says the Robinson-Twigs text messages use words like 'retrieve' and 'vehicle' in ways that are inconsistent with casual 22-year-old texting, and suggests they are not authentic.",
       "anchored_artifacts": [
         "A-1104.1",
         "A-1104.2"
@@ -1794,8 +1794,8 @@
       "@type": "Claim",
       "@id": "C-1176",
       "ref": "C-1176",
-      "label": "Indictment Text Messages Lack Timestamps",
-      "claim": "The text messages released in the Robinson indictment were stripped of timestamps, preventing independent chronological verification.",
+      "label": "Host Says Indictment Text Messages Lack Timestamps",
+      "claim": "The host says the text messages released in the Robinson indictment have no timestamps, which she calls a major red flag, and that without them the chronology cannot be independently verified.",
       "anchored_artifacts": [
         "A-1104.1",
         "A-1104.2",
@@ -1824,8 +1824,8 @@
       "@type": "Claim",
       "@id": "C-1177",
       "ref": "C-1177",
-      "label": "Keyboard Note Destroyed After Photographing",
-      "claim": "The note Lance Twiggs found under Tyler's keyboard was destroyed after he photographed it; the photo was shown to the feds but not the public.",
+      "label": "Host Says Keyboard Note Was Destroyed After Photographing",
+      "claim": "The host says the feds have told the public that the note Lance Twiggs found under Tyler's keyboard was destroyed after he photographed it, and that the feds saw the photo but the public will not.",
       "anchored_artifacts": [
         "A-1104.1"
       ],
@@ -1846,8 +1846,8 @@
       "@type": "Claim",
       "@id": "C-1178",
       "ref": "C-1178",
-      "label": "Texts Could Not Have Been Sent Before 5:30 PM Sept 10",
-      "claim": "Because Robinson references 'similar clothing' to a second suspect, the relevant text could not have been sent before Governor Cox's 5:30 PM press conference mentioning dark clothing.",
+      "label": "Host Says Texts Could Not Have Been Sent Before 5:30 PM Sept 10",
+      "claim": "The host says that because Robinson's text references 'similar clothing' to a second suspect, the text could not have been sent before Governor Cox's 5:30 PM press conference mentioning dark clothing, and she calls the messages made up.",
       "anchored_artifacts": [
         "A-1104.2",
         "A-1105.2",
@@ -1872,8 +1872,8 @@
       "@type": "Claim",
       "@id": "C-1179",
       "ref": "C-1179",
-      "label": "Robinson Allegedly Lingered Near Scene Hours After Shooting",
-      "claim": "Robinson's texts depict him remaining near the UVU scene for hours after the shooting, attempting to retrieve his rifle from a drop point.",
+      "label": "Per Indictment Texts, Robinson Lingered Near Scene Hours After Shooting",
+      "claim": "Per the text messages in the indictment that the host reads, Robinson depicts himself remaining near the UVU scene for hours after the shooting, attempting to retrieve his rifle from a drop point.",
       "anchored_artifacts": [
         "A-1104.2",
         "A-1104.3",
@@ -1970,8 +1970,8 @@
       "@type": "Claim",
       "@id": "C-1183",
       "ref": "C-1183",
-      "label": "Maroon-Shirt Person May Differ From Stairs Person",
-      "claim": "The person filmed in a maroon t-shirt at 8:07 AM may be a different individual from the person shown walking up the stairs in FBI static images.",
+      "label": "Host Says Maroon-Shirt Person May Differ from Stairs Person",
+      "claim": "The host says, as a gut feeling, that the person in the maroon t-shirt filmed walking at 8:07 AM is a different individual from the person shown walking up the stairs in the FBI static images.",
       "anchored_artifacts": [
         "A-1105.4",
         "A-1106.2",

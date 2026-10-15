@@ -1154,7 +1154,7 @@ Investigation target: Youssef's claim that an ICE field office is in Tel Aviv.
 
 Claim Timestamp: 00:43:21
 
-Claim: Bassem Youssef's Piers Morgan appearance displayed a chart stating that in 2014, 88 Israelis and 2,329 Palestinians were killed, which Youssef described as "one Israeli for 27 Palestinian."
+Claim: In a clip of his Piers Morgan appearance that the host plays, Bassem Youssef displays a chart stating that in 2014, 88 Israelis and 2,329 Palestinians were killed, which he describes as "one Israeli for 27 Palestinian."
 
 Anchored Artifacts: A-1690.1
 Mentions: N-208, N-503
@@ -1180,11 +1180,11 @@ Investigative Direction: Verify with Anti-Semite of the Year award organization 
 
 ---
 
-**C-2227** Tucker Carlson Won Anti-Semite of the Year
+**C-2227** In Clip, Bassem Youssef Says Tucker Carlson Won Anti-Semite of the Year
 
 Claim Timestamp: 00:00:01
 
-Claim: Per Youssef's show, Tucker Carlson won Anti-Semite of the Year (2025 per context).
+Claim: In a clip of his show that the host plays, Bassem Youssef says Tucker Carlson won Anti-Semite of the Year (2025 per context).
 
 Anchored Artifacts: A-1691.1
 Mentions: N-22
@@ -1328,11 +1328,11 @@ Investigative Direction: Monitor NYT for upcoming USS Liberty coverage.
 
 ---
 
-**C-2237** Bassem Youssef Tour Dates Include Portland March 20 and Seattle March 21
+**C-2237** Bassem Youssef Says His Tour Dates Include Portland March 20 and Seattle March 21
 
 Claim Timestamp: 01:46:20–01:47:10
 
-Claim: Youssef announced Belly of the Beast tour dates: Portland March 20, Seattle March 21, with additional cities Philadelphia, DC, Houston, Atlanta.
+Claim: Bassem Youssef, the episode's guest, says his Belly of the Beast tour dates include Portland March 20 and Seattle March 21, with additional cities Philadelphia, DC, Houston, Atlanta.
 
 Anchored Artifacts: A-1695.1
 Mentions: N-503

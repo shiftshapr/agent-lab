@@ -628,7 +628,7 @@ Investigative Direction: Verify burial location and date through cemetery or est
 
 Claim Timestamp: 00:07:34
 
-Claim: Erika Kirk defended Turning Point USA staff from criticism using a Nehemiah wall-building analogy, comparing the situation to Nehemiah being called down from building the wall and stating "my silence does not mean that I am complacent" and "I cannot come down. I am busy building."
+Claim: In an interview clip the host plays, Erika Kirk defends Turning Point USA staff from criticism using a Nehemiah wall-building analogy, comparing the situation to Nehemiah being called down from building the wall and saying "my silence does not mean that I am complacent" and "I cannot come down. I am busy building."
 
 Anchored Artifacts: A-1525.2
 Mentions: N-2
@@ -716,11 +716,11 @@ Investigative Direction: Compare Tucker's stated concerns with the official FBI 
 
 ---
 
-**C-1905** USAF C37A 99-044 flight path September 7-9, 2025
+**C-1905** Per Tip Email Host Reads, USAF C37A 99-044 Flew a Path Through Fort Huachuca September 7-9, 2025
 
 Claim Timestamp: 00:43:18
 
-Claim: USAF C37A Gulfstream V (tail 99-044), based at Andrews AFB, flew Andrews → Colorado Springs (Sept 7), Colorado Springs → Tucson (Sept 8), with the transponder going dark thereafter, then Fort Huachuca → El Paso at 12:31 PM (Sept 9), and El Paso → Andrews.
+Claim: Per a tip email the host reads, and which the host says her team fact-checked, USAF C37A Gulfstream V (tail 99-044), based at Andrews AFB, flew Andrews → Colorado Springs (Sept 7), Colorado Springs → Tucson (Sept 8), with the transponder going dark thereafter, then Fort Huachuca → El Paso at 12:31 PM (Sept 9), and El Paso → Andrews.
 
 Anchored Artifacts: A-1529.1
 Related Nodes: N-10332
@@ -743,11 +743,11 @@ Investigative Direction: Verify SAM call sign designation rules against publishe
 
 ---
 
-**C-1907** Captain at Fort Huachuca meeting identified as Adam Nef, 10th Mountain Division
+**C-1907** Host Says Captain at Fort Huachuca Meeting Identified as Adam Nef, 10th Mountain Division
 
 Claim Timestamp: 00:40:00
 
-Claim: The captain who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025, has been positively identified as Adam Nef of the U.S. Army's 10th Mountain Division.
+Claim: The host says her team has a positive ID that the captain who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025 is Adam Nef of the U.S. Army's 10th Mountain Division, which she says Harry confirmed from pictures she sent.
 
 Anchored Artifacts: A-1532.2
 Mentions: N-323
@@ -756,11 +756,11 @@ Investigative Direction: Verify Adam Nef's command assignment through official A
 
 ---
 
-**C-1908** JTF operates unmarked SCIF at Fort Huachuca with barbed wire and TS clearance
+**C-1908** Host Says JTF Operates Unmarked SCIF at Fort Huachuca with Barbed Wire and TS Clearance
 
 Claim Timestamp: 00:40:52
 
-Claim: Joint Task Force at Fort Huachuca operates out of an unmarked building that has been converted to a Sensitive Compartmented Information Facility (SCIF), now surrounded by barbed wire, with cell phones and personal electronics prohibited and top secret clearance required for access.
+Claim: The host says, citing people she says are currently stationed on the base and an email she reads, that Joint Task Force at Fort Huachuca operates out of an unmarked building converted to a Sensitive Compartmented Information Facility (SCIF), now surrounded by barbed wire, with cell phones and personal electronics prohibited and top secret clearance required for access.
 
 Anchored Artifacts: A-1532.1
 Related Nodes:

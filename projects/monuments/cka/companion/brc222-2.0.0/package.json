@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-14T22:25:27Z",
+  "generated_at": "2026-10-15T00:56:33Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -9681,7 +9681,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1121",
-      "label": "Kanye's Power was the TPUSA tour hype song",
+      "label": "Host Says Kanye's Power Was the TPUSA Tour Hype Song",
       "node_kind": "claim",
       "episode": 1
     },
@@ -10143,7 +10143,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1127",
-      "label": "Kirk Described Israel-Lobby Pressure One Month Before Death",
+      "label": "Clip Has Kirk Describing Israel-Lobby Pressure One Month Before Death",
       "node_kind": "claim",
       "episode": 2
     },
@@ -10297,7 +10297,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1129",
-      "label": "Netanyahu Called Kirk and Invited Him to Israel",
+      "label": "Host Says Netanyahu Called Kirk and Invited Him to Israel",
       "node_kind": "claim",
       "episode": 2
     },
@@ -10605,7 +10605,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1133",
-      "label": "TMZ Footage at 8:07 AM Showed Person in Maroon Shirt",
+      "label": "Host Says TMZ Footage at 8:07 AM Showed Person in Maroon Shirt",
       "node_kind": "claim",
       "episode": 2
     },
@@ -10759,7 +10759,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1135",
-      "label": "Doorbell Cam at 11:49 AM Showed Person in Different Outfit",
+      "label": "Host Says Doorbell Cam at 11:49 AM Showed Person in Different Outfit",
       "node_kind": "claim",
       "episode": 2
     },
@@ -10836,7 +10836,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1136",
-      "label": "Kirk Was Shot at 12:23 PM on September 10",
+      "label": "Host Says Kirk Was Shot at 12:23 PM on September 10",
       "node_kind": "claim",
       "episode": 2
     },
@@ -11067,7 +11067,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1139",
-      "label": "Rifle Found in Woods Wrapped in Dark Towel",
+      "label": "Host Says Rifle Was Found in Woods Wrapped in Dark Towel",
       "node_kind": "claim",
       "episode": 2
     },
@@ -11221,7 +11221,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1141",
-      "label": "Robinson's Roommate Is Transitioning and Cooperating",
+      "label": "Governor Cox Says Robinson's Roommate Is Transitioning and Cooperating",
       "node_kind": "claim",
       "episode": 2
     },
@@ -11452,7 +11452,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1144",
-      "label": "Robinson surrendered 33 hours after shooting",
+      "label": "Per Probable Cause Statement, Robinson Surrendered 33 Hours After Shooting",
       "node_kind": "claim",
       "episode": 3
     },
@@ -11529,7 +11529,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1145",
-      "label": "DNA consistent with Robinson on rifle trigger",
+      "label": "Per Probable Cause Statement, DNA Consistent with Robinson Was on Rifle Trigger",
       "node_kind": "claim",
       "episode": 3
     },
@@ -11606,7 +11606,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1146",
-      "label": "Suspect entered campus at 11:51am in dark American-flag shirt",
+      "label": "Per Probable Cause Statement, Suspect Entered Campus at 11:51am in Dark American-Flag Shirt",
       "node_kind": "claim",
       "episode": 3
     },
@@ -11683,7 +11683,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1147",
-      "label": "Suspect on roof by 12:15pm",
+      "label": "Per Probable Cause Statement, Suspect Was on Roof by 12:15pm",
       "node_kind": "claim",
       "episode": 3
     },
@@ -11760,7 +11760,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1148",
-      "label": "Bolt-action rifle wrapped in towel found in wooded area",
+      "label": "Per Probable Cause Statement, Bolt-Action Rifle Wrapped in Towel Was Found in Wooded Area",
       "node_kind": "claim",
       "episode": 3
     },
@@ -11837,7 +11837,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1149",
-      "label": "Cartridge inscriptions",
+      "label": "Per Probable Cause Statement, Cartridges Bore Inscriptions",
       "node_kind": "claim",
       "episode": 3
     },
@@ -12068,7 +12068,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1152",
-      "label": "Family friend retired deputy facilitated surrender",
+      "label": "Per Probable Cause Statement, Family Friend Retired Deputy Facilitated Surrender",
       "node_kind": "claim",
       "episode": 3
     },
@@ -12222,7 +12222,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1154",
-      "label": "Robinson texted Lance from keyboard note confession",
+      "label": "Per Probable Cause Statement, Robinson Texted Lance About Keyboard Note",
       "node_kind": "claim",
       "episode": 3
     },
@@ -12530,7 +12530,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1158",
-      "label": "Zinn booked on child abuse image charge",
+      "label": "Article Says Zinn Booked on Child Abuse Image Charge",
       "node_kind": "claim",
       "episode": 3
     },
@@ -12761,7 +12761,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1161",
-      "label": "Bill Ackman allegedly told attendees not to own property",
+      "label": "Host Says Attendees Report Bill Ackman Told Them Not to Own Property",
       "node_kind": "claim",
       "episode": 3
     },
@@ -12838,7 +12838,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1162",
-      "label": "Charlie Kirk vented about Israel pressure on Megyn Kelly August 6",
+      "label": "Host Says Kirk Vented About Israel Pressure on Megyn Kelly August 6",
       "node_kind": "claim",
       "episode": 3
     },
@@ -13146,7 +13146,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1166",
-      "label": "Lance Twiggs kicked out by parents junior year of high school",
+      "label": "Host Says Lance Twiggs's Family Told Her He Was Kicked Out Junior Year",
       "node_kind": "claim",
       "episode": 3
     },
@@ -13223,7 +13223,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1167",
-      "label": "Lance Twiggs Christmas vodka overdose ~three years ago",
+      "label": "Host Says Lance Twiggs's Family Told Her of Christmas Vodka Overdose",
       "node_kind": "claim",
       "episode": 3
     },
@@ -13300,7 +13300,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1168",
-      "label": "Lance Twiggs showed up on drugs at Easter family gathering",
+      "label": "Host Says Lance Twiggs's Family Told Her He Showed Up on Drugs at Easter",
       "node_kind": "claim",
       "episode": 3
     },
@@ -13454,7 +13454,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1170",
-      "label": "Lance Twiggs lived in townhome owned by his family; Tyler paid rent",
+      "label": "Host Says Lance Twiggs's Family Told Her Tyler Paid Rent on Their Home",
       "node_kind": "claim",
       "episode": 3
     },
@@ -13608,7 +13608,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1172",
-      "label": "Governor Cox statements conflict with indictment on prior outfit",
+      "label": "Host Says Governor Cox Statements Conflict with Indictment on Prior Outfit",
       "node_kind": "claim",
       "episode": 3
     },
@@ -13839,7 +13839,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1175",
-      "label": "Text Message Language Too Formal for 22-Year-Olds",
+      "label": "Host Says Text Message Language Is Too Formal for 22-Year-Olds",
       "node_kind": "claim",
       "episode": 4
     },
@@ -13916,7 +13916,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1176",
-      "label": "Indictment Text Messages Lack Timestamps",
+      "label": "Host Says Indictment Text Messages Lack Timestamps",
       "node_kind": "claim",
       "episode": 4
     },
@@ -13993,7 +13993,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1177",
-      "label": "Keyboard Note Destroyed After Photographing",
+      "label": "Host Says Keyboard Note Was Destroyed After Photographing",
       "node_kind": "claim",
       "episode": 4
     },
@@ -14070,7 +14070,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1178",
-      "label": "Texts Could Not Have Been Sent Before 5:30 PM Sept 10",
+      "label": "Host Says Texts Could Not Have Been Sent Before 5:30 PM Sept 10",
       "node_kind": "claim",
       "episode": 4
     },
@@ -14147,7 +14147,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1179",
-      "label": "Robinson Allegedly Lingered Near Scene Hours After Shooting",
+      "label": "Per Indictment Texts, Robinson Lingered Near Scene Hours After Shooting",
       "node_kind": "claim",
       "episode": 4
     },
@@ -14455,7 +14455,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1183",
-      "label": "Maroon-Shirt Person May Differ From Stairs Person",
+      "label": "Host Says Maroon-Shirt Person May Differ from Stairs Person",
       "node_kind": "claim",
       "episode": 4
     },
@@ -14917,7 +14917,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1189",
-      "label": "Doorbell-cam footage aired by TMZ on September 10",
+      "label": "Host Says TMZ Aired Doorbell-Cam Footage on September 10",
       "node_kind": "claim",
       "episode": 5
     },
@@ -14994,7 +14994,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1190",
-      "label": "Sherry Steel reported police presence to BBC",
+      "label": "Per BBC Article, Sherry Steel Reported Police Presence",
       "node_kind": "claim",
       "episode": 5
     },
@@ -15379,7 +15379,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1195",
-      "label": "Amazon listed Kirk-assassination book before event",
+      "label": "Viewer Comment Says Amazon Listed Kirk-Assassination Book Before Event",
       "node_kind": "claim",
       "episode": 5
     },
@@ -15610,7 +15610,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1198",
-      "label": "Local theory: vacant UVU-owned house is real shooter refuge",
+      "label": "Host Says Locals Theorize Vacant UVU-Owned House Was Real Shooter's Refuge",
       "node_kind": "claim",
       "episode": 5
     },
@@ -15995,7 +15995,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1203",
-      "label": "Steele family owns the doorbell-camera house",
+      "label": "Host Says Steele Family Owns the Doorbell-Camera House",
       "node_kind": "claim",
       "episode": 5
     },
@@ -16149,7 +16149,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1205",
-      "label": "Two men moved Charlie's chair and removed camera post-shooting",
+      "label": "Host Says Two Men Moved Charlie's Chair and Removed Camera Post-Shooting",
       "node_kind": "claim",
       "episode": 6
     },
@@ -16226,7 +16226,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1206",
-      "label": "Individual calmly talked on phone near car immediately after shooting",
+      "label": "Host Says Individual Calmly Talked on Phone Near Car After Shooting",
       "node_kind": "claim",
       "episode": 6
     },
@@ -16303,7 +16303,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1207",
-      "label": "Camera individual removed SD/SIM card from camera",
+      "label": "Host Says Camera Individual Appeared to Remove SD/SIM Card",
       "node_kind": "claim",
       "episode": 6
     },
@@ -16534,7 +16534,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1210",
-      "label": "Senate passed bipartisan Kirk Remembrance Day resolution",
+      "label": "Host Says Senate Passed Bipartisan Kirk Remembrance Day Resolution",
       "node_kind": "claim",
       "episode": 6
     },
@@ -17150,7 +17150,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1218",
-      "label": "Caldera Engineering manufactures valves in Provo",
+      "label": "Per Write-Up Host Reads, Caldera Engineering Manufactures Valves in Provo",
       "node_kind": "claim",
       "episode": 6
     },
@@ -17227,7 +17227,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1219",
-      "label": "Victoria Churchill has APAC connection",
+      "label": "Host Says Victoria Churchill Has APAC Connection",
       "node_kind": "claim",
       "episode": 6
     },
@@ -17304,7 +17304,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1220",
-      "label": "FCC Chair Carr threatened federal action against ABC affiliates",
+      "label": "Host Says FCC Chair Carr Threatened Federal Action Against ABC Affiliates",
       "node_kind": "claim",
       "episode": 6
     },
@@ -17766,7 +17766,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1226",
-      "label": "Dairy Queen photo dated post-August 31",
+      "label": "Host Says Dairy Queen Photo Dated Post-August 31",
       "node_kind": "claim",
       "episode": 6
     },
@@ -17920,7 +17920,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1228",
-      "label": "Erika Kirk publicly forgave Charlie's killer at memorial",
+      "label": "Host Says Erika Kirk Publicly Forgave Charlie's Killer at Memorial",
       "node_kind": "claim",
       "episode": 7
     },
@@ -18151,7 +18151,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1231",
-      "label": "Alex Jones disputed the miracle claim publicly",
+      "label": "Clip Has Alex Jones Disputing the Miracle Claim on X Live",
       "node_kind": "claim",
       "episode": 7
     },
@@ -18382,7 +18382,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1234",
-      "label": "Pipeline and access points exist beneath Charlie's seat",
+      "label": "Host Says Photos Show Pipeline and Access Points Near Charlie's Seat",
       "node_kind": "claim",
       "episode": 7
     },
@@ -18459,7 +18459,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1235",
-      "label": "UVU repaved the area within ~48 hours of the shooting",
+      "label": "Host Says UVU Repaved the Area Within About 48 Hours of the Shooting",
       "node_kind": "claim",
       "episode": 7
     },
@@ -18921,7 +18921,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1241",
-      "label": "Charlie Kirk criticized AIPAC and foreign lobbying",
+      "label": "Clip Has Kirk Criticizing AIPAC and Foreign Lobbying",
       "node_kind": "claim",
       "episode": 7
     },
@@ -19383,7 +19383,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1247",
-      "label": "Artery detail originated from car conversation, not observation",
+      "label": "Tiffany Barker Says Artery Detail Came from Car Conversation, Not Observation",
       "node_kind": "claim",
       "episode": 8
     },
@@ -19691,7 +19691,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1251",
-      "label": "Wirefy sponsored event; employee on-site post-shot",
+      "label": "Host Says Wirefy Sponsored Event and Wirefy-Branded Individual Was On-Site Post-Shot",
       "node_kind": "claim",
       "episode": 8
     },
@@ -21385,7 +21385,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1273",
-      "label": "Crooks Google-searched mass-attack research",
+      "label": "Host Shows Document of Crooks' Mass-Attack Google Searches",
       "node_kind": "claim",
       "episode": 9
     },
@@ -23233,7 +23233,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1297",
-      "label": "Tyler Robinson uses \"car\" rather than \"vehicle\" in 2022 police bodycam footage",
+      "label": "Host Says Tyler Robinson Uses \"Car\" Rather Than \"Vehicle\" in 2022 Police Bodycam Footage",
       "node_kind": "claim",
       "episode": 11
     },
@@ -24619,7 +24619,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1315",
-      "label": "Phil Lyman offered independent investigator Ian Carroll a tour of the area",
+      "label": "Nick Says Phil Lyman Offered Independent Investigator Ian Carroll a Tour of the Area",
       "node_kind": "claim",
       "episode": 11
     },
@@ -25389,7 +25389,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1325",
-      "label": "One of the two companions in the photo with Shainer Broderick has been identified as Gernot Omer via face-match to a BearingPoint Graz office YouTube video.",
+      "label": "Host Says One of Two Companions in Photo With Shainer Broderick Is Gernot Omer, via Face-Match to BearingPoint Graz Video",
       "node_kind": "claim",
       "episode": 12
     },
@@ -25466,7 +25466,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1326",
-      "label": "Gernot Omer's LinkedIn states he moved to Utah in May 2024 to take a software engineer position with JP Morgan Chase.",
+      "label": "Host Says Gernot Omer's LinkedIn States He Moved to Utah in May 2024 for a JP Morgan Chase Software Engineer Job",
       "node_kind": "claim",
       "episode": 12
     },
@@ -26082,7 +26082,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1334",
-      "label": "Robert Bowles was in his first week leading the Utah FBI field office at the time of the Charlie Kirk shooting.",
+      "label": "Host Cites Daily Mail Saying Robert Bowles Was in First Week Leading Utah FBI Field Office at Time of Kirk Shooting",
       "node_kind": "claim",
       "episode": 12
     },
@@ -26306,7 +26306,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1337",
-      "label": "Woman seen with shooter on nearby houses' doorbell-camera footage",
+      "label": "Host Says Woman Was Seen With Shooter on Nearby Houses' Doorbell-Camera Footage",
       "node_kind": "claim",
       "episode": 13
     },
@@ -26383,7 +26383,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1338",
-      "label": "George Zinn publicly endorsed Phil Lyman on his campaign website since at least June 2024",
+      "label": "Host Shows George Zinn Endorsement on Phil Lyman's Campaign Website Since at Least June 2024",
       "node_kind": "claim",
       "episode": 13
     },
@@ -26460,7 +26460,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1339",
-      "label": "State Farm Stadium memorial venue was secured via White House intervention, displacing a scheduled RV show",
+      "label": "Host Says State Farm Stadium Memorial Venue Was Secured via White House Intervention, Displacing a Scheduled RV Show",
       "node_kind": "claim",
       "episode": 13
     },
@@ -26614,7 +26614,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1341",
-      "label": "Several new officials appeared in the case around the time of the assassination",
+      "label": "Host Says Several New Officials Appeared in the Case Around the Time of the Assassination",
       "node_kind": "claim",
       "episode": 13
     },
@@ -26691,7 +26691,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1342",
-      "label": "An autopsy of Charlie Kirk was conducted",
+      "label": "Host Says Autopsy of Charlie Kirk Was Conducted",
       "node_kind": "claim",
       "episode": 13
     },
@@ -26845,7 +26845,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1344",
-      "label": "Netanyahu met on camera with US social-media influencer Deborah Lee",
+      "label": "Host Says Netanyahu Met on Camera With US Social-Media Influencer Deborah Lee",
       "node_kind": "claim",
       "episode": 13
     },
@@ -26922,7 +26922,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1345",
-      "label": "Netanyahu named TikTok and X (and Elon Musk) as the principal social-media platforms of the described \"battle\"",
+      "label": "Netanyahu Names TikTok and X (and Elon Musk) as Principal Platforms of Described \"Battle\" in Clip Host Plays",
       "node_kind": "claim",
       "episode": 13
     },
@@ -27307,7 +27307,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1350",
-      "label": "TikTok Public Policy Manager of Hate Speech since July 2025 is described as a former IDF soldier",
+      "label": "Producer Note Says TikTok Public Policy Manager of Hate Speech Since July 2025 Is a Former IDF Soldier",
       "node_kind": "claim",
       "episode": 13
     },
@@ -27461,7 +27461,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1352",
-      "label": "One of Tyler Robinson's lawyers previously represented Richard Ramirez",
+      "label": "Viewer Comment Says One of Tyler Robinson's Lawyers Previously Represented Richard Ramirez",
       "node_kind": "claim",
       "episode": 13
     },
@@ -27692,7 +27692,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1355",
-      "label": "ADL Issued Response Statement to Patel Announcement",
+      "label": "Host Reads ADL Response Statement to Patel Announcement",
       "node_kind": "claim",
       "episode": 14
     },
@@ -27769,7 +27769,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1356",
-      "label": "Connecticut FBI Field Office Deployed to Investigate Kirk Assassination",
+      "label": "Host Says Connecticut FBI Field Office Was Deployed to Investigate Kirk Assassination",
       "node_kind": "claim",
       "episode": 14
     },
@@ -28077,7 +28077,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1360",
-      "label": "Utah State Prosecutor Asserting Authority Over Robinson Defense Selection",
+      "label": "Elizabeth Lane Says Utah State Prosecutor Asserted Authority Over Robinson Defense Selection",
       "node_kind": "claim",
       "episode": 14
     },
@@ -28385,7 +28385,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1364",
-      "label": "Marjorie Taylor Greene Publicly Denied Suicidal Ideation",
+      "label": "Host Reads Marjorie Taylor Greene's Public Denial of Suicidal Ideation",
       "node_kind": "claim",
       "episode": 14
     },
@@ -31619,7 +31619,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1406",
-      "label": "Iryna Zhuravska Murder Timeline – Murder August 22, Footage Released and Trended September 5",
+      "label": "Host Says Iryna Zhuravska Was Murdered August 22 and Footage Was Released and Trended September 5",
       "node_kind": "claim",
       "episode": 17
     },
@@ -31696,7 +31696,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1407",
-      "label": "Tucker Carlson, at Charlie Kirk's Memorial, Drew an Analogy Between Critics and Those Who Plotted Against Jesus",
+      "label": "Host Says Tucker Carlson, at Charlie Kirk's Memorial, Drew an Analogy Between Critics and Those Who Plotted Against Jesus",
       "node_kind": "claim",
       "episode": 17
     },
@@ -32851,7 +32851,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1422",
-      "label": "UVU Has a Documentary Footage Black Hole on Charlie's Left Side",
+      "label": "Host Says UVU Has a Documentary Footage Black Hole on Charlie's Left Side",
       "node_kind": "claim",
       "episode": 17
     },
@@ -33159,7 +33159,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1426",
-      "label": "Fragment Location Near Shoulder Blade",
+      "label": "Host Says Bullet Fragment Was Recovered From Charlie's Neck Near Shoulder Blade",
       "node_kind": "claim",
       "episode": 18
     },
@@ -33236,7 +33236,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1427",
-      "label": "No .30-06 Projectile on Death Certificate",
+      "label": "Host Says No .30-06 Projectile Appears on Charlie Kirk's Death Certificate",
       "node_kind": "claim",
       "episode": 18
     },
@@ -34237,7 +34237,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1440",
-      "label": "Dr. Deidra Weiss Amaro Appointment",
+      "label": "Host Says Dr. Deidra Weiss Amaro Was Announced as New Utah State Medical Examiner in May 2024",
       "node_kind": "claim",
       "episode": 18
     },
@@ -34391,7 +34391,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1442",
-      "label": "Caldera Engineering Established 1997",
+      "label": "Host Says Caldera Engineering Was Established in 1997",
       "node_kind": "claim",
       "episode": 18
     },
@@ -34468,7 +34468,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1443",
-      "label": "Caldera Engineering Actor-Employee",
+      "label": "Host Says Caldera Engineering Employee Has Professional Acting Background",
       "node_kind": "claim",
       "episode": 18
     },
@@ -34622,7 +34622,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1445",
-      "label": "Plane N1098L – Military Aircraft",
+      "label": "Host Says Plane N1098L Was a Military Aircraft",
       "node_kind": "claim",
       "episode": 18
     },
@@ -34699,7 +34699,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1446",
-      "label": "Plane N1098L – Las Vegas Aviation LLC",
+      "label": "Host Says Plane N1098L Was Owned/Contracted by Las Vegas Aviation LLC",
       "node_kind": "claim",
       "episode": 18
     },
@@ -34776,7 +34776,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1447",
-      "label": "Plane N1098L – Texas to Utah Routing",
+      "label": "Host Says Plane N1098L Flew From Texas to Utah Around the Time of the Shooting",
       "node_kind": "claim",
       "episode": 18
     },
@@ -34930,7 +34930,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1449",
-      "label": "Plane 888 – Page, Arizona Destination",
+      "label": "Host Says Plane 888's Intended Destination Was Page, Arizona",
       "node_kind": "claim",
       "episode": 18
     },
@@ -35007,7 +35007,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1450",
-      "label": "Plane 888 – ADSB Transponder Turned Off",
+      "label": "Host Says Plane 888's ADSB Transponder Appeared to Turn Off",
       "node_kind": "claim",
       "episode": 18
     },
@@ -35238,7 +35238,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1453",
-      "label": "Plane 888 – FBO Change Millionaire to Signature",
+      "label": "Host Says Plane 888 Changed Its FBO Destination at the Last Minute",
       "node_kind": "claim",
       "episode": 18
     },
@@ -35315,7 +35315,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1454",
-      "label": "Signature FBO Contradicting Statements",
+      "label": "Host Says Signature FBO Person Gave Contradicting Statements",
       "node_kind": "claim",
       "episode": 18
     },
@@ -35392,7 +35392,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1455",
-      "label": "Josh Hammer Released Text Messages",
+      "label": "Host Says Josh Hammer Released Text Messages",
       "node_kind": "claim",
       "episode": 18
     },
@@ -35700,7 +35700,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1459",
-      "label": "Matt Walsh – \"Too on the Nose\" Comment",
+      "label": "Host Says Matt Walsh Found Kirk's Text \"Too on the Nose\"",
       "node_kind": "claim",
       "episode": 18
     },
@@ -35777,7 +35777,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1460",
-      "label": "Kolbatz Not in Viral Push Video",
+      "label": "Host Says Kolvet Was Not in Viral Push Video",
       "node_kind": "claim",
       "episode": 18
     },
@@ -35931,7 +35931,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1462",
-      "label": "Mikey McCoy On Phone ~1 Minute 45 Seconds Before Shot",
+      "label": "Host Says Footage Shows Mikey McCoy on Phone About 1 Minute 45 Seconds Before Shot",
       "node_kind": "claim",
       "episode": 19
     },
@@ -36008,7 +36008,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1463",
-      "label": "Mikey McCoy Still on Phone at Charlie's Waiting Car",
+      "label": "Host Says Footage Shows Mikey McCoy Still on Phone at Charlie's Waiting Car",
       "node_kind": "claim",
       "episode": 19
     },
@@ -36085,7 +36085,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1464",
-      "label": "Camera Operator Recorded Selfie Video Post-Shot",
+      "label": "Host Says Camera Operator Recorded Selfie Video Post-Shot",
       "node_kind": "claim",
       "episode": 19
     },
@@ -36470,7 +36470,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1469",
-      "label": "Charlie Kirk Identified Candace Owens as His \"David\"",
+      "label": "Host Says Charlie Kirk Texted Her That She Was the Piece to Finish the Fight and to \"Be My David\"",
       "node_kind": "claim",
       "episode": 19
     },
@@ -36624,7 +36624,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1471",
-      "label": "Charlie Kirk Wrote About Jewish Donor Pressure on TPUSA",
+      "label": "Host's Trailer Presents Charlie Kirk Texts on Jewish Donor Pressure on TPUSA",
       "node_kind": "claim",
       "episode": 19
     },
@@ -39396,7 +39396,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1514",
-      "label": "TPUSA Wikipedia Entry Updated at 10:34 PM ET on September 11, 2025 to Add Rob McCoy as Co-Founder of TPUSA Faith",
+      "label": "Host Says TPUSA Wikipedia Entry Was Updated at 10:34 PM ET on September 11, 2025 to Add Rob McCoy as Co-Founder of TPUSA Faith",
       "node_kind": "claim",
       "episode": 21
     },
@@ -39445,7 +39445,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1521",
-      "label": "Trump Established October 14 as a National Day of Remembrance for Charlie Kirk",
+      "label": "Host Says Trump Established October 14 as a National Day of Remembrance for Charlie Kirk",
       "node_kind": "claim",
       "episode": 21
     },
@@ -39487,21 +39487,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1527",
-      "label": "Military-contracted plane low dip over Provo Airport at 9:16 a.m.",
+      "label": "Host Says Military-Contracted Plane Dipped Low Over Provo Airport at 9:16 a.m.",
       "node_kind": "claim",
       "episode": 22
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1528",
-      "label": "Second low dip approximately 26 minutes after the assassination",
+      "label": "Host Says Second Low Dip Came Approximately 26 Minutes After the Assassination",
       "node_kind": "claim",
       "episode": 22
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1529",
-      "label": "N888KG Provo departure time on 9/10",
+      "label": "Host Says N888KG Departed Provo at 1:20 p.m. on 9/10",
       "node_kind": "claim",
       "episode": 22
     },
@@ -39522,14 +39522,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1532",
-      "label": "Egyptian Air Force SU-BTT Provo arrival and departure dates",
+      "label": "Host Says Egyptian Air Force Plane SU-BTT Arrived at Provo September 4 and Departed September 10",
       "node_kind": "claim",
       "episode": 22
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1533",
-      "label": "SU-BTT three-year routing pattern",
+      "label": "Host Says SU-BTT's Three-Year Routing Pattern Runs Through Paris to Air Force Base Cities",
       "node_kind": "claim",
       "episode": 22
     },
@@ -39613,14 +39613,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1545",
-      "label": "SUBTT (Falcon 7X, Egyptian-registered) tracked into U.S. cities between 2022 and 2025, repeatedly landing in proximity to TPUSA / TPUSA Faith / Charlie Kirk events",
+      "label": "Host Says SUBTT (Falcon 7X) Was Tracked Into U.S. Cities in 2022-2025, Repeatedly Landing Near TPUSA / TPUSA Faith / Charlie Kirk Events",
       "node_kind": "claim",
       "episode": 23
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1546",
-      "label": "SUBND (Gulfstream 4, Egyptian-registered) tracked into U.S. cities across 2023–2025 with pattern of extended stays and post-event departures",
+      "label": "Host Says SUBND (Gulfstream 4) Was Tracked Into U.S. Cities in 2023-2025 With a Pattern of Extended Stays and Post-Event Departures",
       "node_kind": "claim",
       "episode": 23
     },
@@ -39662,7 +39662,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1552",
-      "label": "SUBND Departed Provo on September 13, 2025 via Canada → Paris → Cairo",
+      "label": "Host Says SUBND Departed Provo on September 13, 2025 via Canada, Paris, and Cairo",
       "node_kind": "claim",
       "episode": 23
     },
@@ -39676,21 +39676,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1554",
-      "label": "N102DZ Flew Scottsdale → Salt Lake City at 7:12 AM on Day of Assassination",
+      "label": "Host Says N102DZ Flew Scottsdale to Salt Lake City at 7:12 AM on Day of Assassination",
       "node_kind": "claim",
       "episode": 23
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1555",
-      "label": "N102DZ Departed Salt Lake City at ~1:00 PM on Day of Assassination After a 15-Minute Scottsdale Turn-Around",
+      "label": "Host Says N102DZ Departed Salt Lake City at About 1:00 PM on Day of Assassination After a 15-Minute Scottsdale Turn-Around",
       "node_kind": "claim",
       "episode": 23
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1556",
-      "label": "Borderline Bar and Grill Shooting Occurred November 7, 2018 in Thousand Oaks, CA, Killing 11 Patrons Plus Shooter",
+      "label": "Host Says Borderline Bar and Grill Shooting Occurred November 7, 2018 in Thousand Oaks, CA, Killing 11 Patrons Plus Shooter",
       "node_kind": "claim",
       "episode": 23
     },
@@ -39704,14 +39704,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1558",
-      "label": "Joel Osteen's Megachurch Had Approximately $500,000 in Cash Discovered by a Plumber",
+      "label": "Host Says News Story Reports Plumber Discovered About $500,000 in Cash at Joel Osteen's Megachurch",
       "node_kind": "claim",
       "episode": 23
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1559",
-      "label": "Tucker Carlson Gave a Speech at TPUSA Conference on July 11, 2025 Addressing Epstein, Israel, and Foreign Military Service",
+      "label": "Host Says Tucker Carlson Gave a Speech at TPUSA Conference on July 11, 2025 Addressing Epstein, Israel, and Foreign Military Service",
       "node_kind": "claim",
       "episode": 23
     },
@@ -39886,14 +39886,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1584",
-      "label": "Memorial Service Speakers Framed Mikey McCoy as Charlie's Heir Apparent",
+      "label": "Host Says Memorial Service Speakers Framed Mikey McCoy as Charlie's Heir Apparent",
       "node_kind": "claim",
       "episode": 25
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1585",
-      "label": "Rob McCoy Connected Mikey's Role to Charlie's Journaled Succession Plan",
+      "label": "Host Says Rob McCoy Connected Mikey's Role to Charlie's Journaled Succession Plan",
       "node_kind": "claim",
       "episode": 25
     },
@@ -39921,7 +39921,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1589",
-      "label": "UVU's TPUSA Chapter Submitted the 9/10 Event Application in Mid-July Without a Standard Police-Protection Question",
+      "label": "Fox 13 Report Says UVU's TPUSA Chapter Submitted the 9/10 Event Application in Mid-July Without a Standard Police-Protection Question",
       "node_kind": "claim",
       "episode": 25
     },
@@ -39977,7 +39977,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1599",
-      "label": "UVU Request Timing Deviation",
+      "label": "Host Says UVU Request Timing Deviated From Standard TPUSA Planning",
       "node_kind": "claim",
       "episode": 26
     },
@@ -40306,7 +40306,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1646",
-      "label": "Eric and Laura Trump Spoke at Auburn TPUSA Event",
+      "label": "Host Says Eric and Laura Trump Spoke at Auburn TPUSA Event",
       "node_kind": "claim",
       "episode": 28
     },
@@ -40481,14 +40481,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1671",
-      "label": "Dave Rubin characterized Ben Shapiro's appearance on Kelly's tour as \"almost an act of bravery\"",
+      "label": "Host Says Dave Rubin Characterized Ben Shapiro's Appearance on Kelly's Tour as \"Almost an Act of Bravery\"",
       "node_kind": "claim",
       "episode": 30
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1672",
-      "label": "Frank Turek identified the older man seen near a bush pre-event as Butch Hibbs",
+      "label": "Host Says Older Man Seen Near a Bush Pre-Event Is Butch Hibbs, Citing Frank Turek",
       "node_kind": "claim",
       "episode": 30
     },
@@ -40502,7 +40502,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1674",
-      "label": "A photograph of Butch Hibbs with Charlie Kirk was taken approximately 20 minutes before the shooting",
+      "label": "Frank Turek Says Photograph of Butch Hibbs With Charlie Kirk Was Taken Approximately 20 Minutes Before the Shooting",
       "node_kind": "claim",
       "episode": 30
     },
@@ -40516,14 +40516,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1676",
-      "label": "UVU recommended against the outdoor amphitheater for safety reasons; Turning Point insisted on it",
+      "label": "Host Says UVU Recommended Against the Outdoor Amphitheater for Safety Reasons and Turning Point Insisted on It",
       "node_kind": "claim",
       "episode": 30
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1677",
-      "label": "Alexis Wilkins filed a $5 million lawsuit against Elijah Schaefer and other content creators over honeypot allegations",
+      "label": "Host Says Alexis Wilkins Filed a $5 Million Lawsuit Against Elijah Schaefer and Other Content Creators Over Honeypot Allegations",
       "node_kind": "claim",
       "episode": 30
     },
@@ -40663,7 +40663,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1697",
-      "label": "Jamie Spears Tithed Approximately 10% of Conservatorship Income to Calvary Chapel Brentwood",
+      "label": "Brett Cooper Says Jamie Spears Tithed Approximately 10% of Conservatorship Income to Calvary Chapel Brentwood",
       "node_kind": "claim",
       "episode": 32
     },
@@ -40817,7 +40817,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1719",
-      "label": "SUBND Transponder Activity at Duncan Aviation FBO on September 10",
+      "label": "Mark Says SUBND Transponded From Duncan Aviation FBO on September 10",
       "node_kind": "claim",
       "episode": 33
     },
@@ -40831,7 +40831,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1721",
-      "label": "Charlie Kirk Was Present in 29 of the Documented Overlap Instances",
+      "label": "Host Says Charlie Kirk Was Present in 29 of the Documented Overlap Instances",
       "node_kind": "claim",
       "episode": 33
     },
@@ -40887,14 +40887,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1729",
-      "label": "Turning Point USA Transferred $8.56M to America's Turning Point in FY2024",
+      "label": "Wolves and Finance Video Says Turning Point USA Transferred $8.56M to America's Turning Point in FY2024",
       "node_kind": "claim",
       "episode": 33
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1730",
-      "label": "Missing Filings Occurred Four Months Before Charlie Kirk's Audit Request and Death",
+      "label": "Wolves and Finance Video Says Missing Filings Occurred Four Months Before Charlie Kirk's Audit Request and Death",
       "node_kind": "claim",
       "episode": 33
     },
@@ -40915,21 +40915,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1733",
-      "label": "Flock LPR Cameras Are Located Near UVU",
+      "label": "Producer Says Flock LPR Cameras Are Located Near UVU",
       "node_kind": "claim",
       "episode": 33
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1734",
-      "label": "Three Transponder Windows on September 10 Were Specified by ADSB Data",
+      "label": "Mark Says ADSB Data Shows SUBND Transponder Windows on September 10",
       "node_kind": "claim",
       "episode": 33
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1735",
-      "label": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "label": "Host Says Five Rental Vehicles Tied to Duncan Aviation and the \"Egyptian\" Arrival Chain Were Identified by License Plate",
       "node_kind": "claim",
       "episode": 34
     },
@@ -40943,7 +40943,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1737",
-      "label": "Charlie Kirk's security lead texted the UVU Police Chief about rooftop access and accepted \"I got you covered\" as resolution.",
+      "label": "Host Says Charlie Kirk's Security Lead Texted the UVU Police Chief About Rooftop Access and Accepted \"I Got You Covered\" as Resolution",
       "node_kind": "claim",
       "episode": 34
     },
@@ -40957,7 +40957,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1739",
-      "label": "Blake Neff's call to his mother began at 11:24 Arizona time and lasted 45 seconds.",
+      "label": "Per Blake Neff's Screenshot the Host Shows, His Call to His Mother Began at 11:24 Arizona Time and Lasted 45 Seconds",
       "node_kind": "claim",
       "episode": 34
     },
@@ -40971,7 +40971,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1741",
-      "label": "The current issue of Calvary Chapel magazine carries a \"Stand with Israel\" cover and a \"Why Jews are hated\" article, with interior content featuring IDF soldiers.",
+      "label": "Host Shows Calvary Chapel Magazine Cover With \"Stand with Israel\" and \"Why Jews Are Hated\" Article, Interior Featuring IDF Soldiers",
       "node_kind": "claim",
       "episode": 34
     },
@@ -40992,63 +40992,63 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1744",
-      "label": "A plane owned by Turning Point USA donor TWW Lewis departed Scottsdale at ~08:00 local and arrived Provo at ~10:00 local on 2025-09-10.",
+      "label": "Host Says Plane Owned by Turning Point USA Donor TWW Lewis Flew Scottsdale to Provo",
       "node_kind": "claim",
       "episode": 34
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1745",
-      "label": "SUBTT Departed Provo 7:14 AM and Arrived Wilmington 11:51 AM ET on September 10, 2025",
+      "label": "Host Says SUBTT Departed Provo 7:14 AM and Arrived Wilmington 11:51 AM ET on September 10, 2025",
       "node_kind": "claim",
       "episode": 35
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1746",
-      "label": "SUBTT Stayed Overnight in Wilmington Until September 11 at 7:56 AM",
+      "label": "Host Says SUBTT Stayed Overnight in Wilmington Until September 11 at 7:56 AM",
       "node_kind": "claim",
       "episode": 35
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1747",
-      "label": "SUBTT Made Multi-Day Wilmington Stays in November 2022",
+      "label": "Anonymous Email the Host Reads Says SUBTT Made Multi-Day Wilmington Stays in November 2022",
       "node_kind": "claim",
       "episode": 35
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1748",
-      "label": "June 1997 DOJ Directory Lists Wilmington Resident Office at 920 King Street, Suite 404",
+      "label": "Host Reads Email Saying June 1997 DOJ Directory Lists Wilmington Resident Office at 920 King Street, Suite 404",
       "node_kind": "claim",
       "episode": 35
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1749",
-      "label": "920 North King Street Currently Houses DEA, FBI, and Secret Service",
+      "label": "Host Says 920 North King Street Currently Houses DEA, FBI, and Secret Service",
       "node_kind": "claim",
       "episode": 35
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1750",
-      "label": "SATIDS Announced in December 2024 Takeover of Wilmington Airport Hangar",
+      "label": "Host Says SATIDS Announced December 2024 Takeover of Wilmington Airport Hangar",
       "node_kind": "claim",
       "episode": 35
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1751",
-      "label": "DRBA January 2024 Resolution Authorized Paint Hanger Lease to SATIDS",
+      "label": "Per Document Host Reads, DRBA January 2024 Resolution Authorized Paint Hanger Lease to SATIDS",
       "node_kind": "claim",
       "episode": 35
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1752",
-      "label": "FBI Director Wray Cited Partnerships in Wilmington December 2024 Press Release",
+      "label": "Per FBI Press Release Host Reads, Wray Cited Partnerships in Wilmington December 2024",
       "node_kind": "claim",
       "episode": 35
     },
@@ -41125,7 +41125,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1763",
-      "label": "Flood–Long Text Exchange Discussed Student Roof Access at Sorenson Center",
+      "label": "Harpole Clip Presents Flood–Long Text Exchange on Student Roof Access at Sorenson Center",
       "node_kind": "claim",
       "episode": 36
     },
@@ -41160,21 +41160,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1768",
-      "label": "Operation Valhalla Strike Held August 24–29, 2025 at Camp Ripley",
+      "label": "Per Minot AFB Website Host Reads, Operation Valhalla Strike Held August 24–29, 2025 at Camp Ripley",
       "node_kind": "claim",
       "episode": 37
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1769",
-      "label": "Operation Valhalla Training Focused on Ground Defense, Nuclear Security, and Long-Range Live Fire",
+      "label": "Per Minot AFB Website Host Reads, Operation Valhalla Training Focused on Ground Defense, Nuclear Security, and Long-Range Live Fire",
       "node_kind": "claim",
       "episode": 37
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1770",
-      "label": "891st Squadron Is a Combined Military and Civilian Security Force",
+      "label": "Per Minot AFB Website Host Reads, 891st Squadron Is a Combined Military and Civilian Security Force",
       "node_kind": "claim",
       "episode": 37
     },
@@ -41216,21 +41216,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1776",
-      "label": "Nebraska Secretary of State Bob Evan Announced Egypt Trade Mission",
+      "label": "Host Plays Clip of Nebraska Secretary of State Bob Evan Announcing Egypt Trade Mission",
       "node_kind": "claim",
       "episode": 37
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1777",
-      "label": "Mike Huckabee and David Friedman Performed at a Jerusalem Event",
+      "label": "Host Says Mike Huckabee and David Friedman Performed at a Jerusalem Event",
       "node_kind": "claim",
       "episode": 37
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1778",
-      "label": "Mike Huckabee Met with Jonathan Pollard",
+      "label": "Host Says Mike Huckabee Met with Jonathan Pollard",
       "node_kind": "claim",
       "episode": 37
     },
@@ -41272,14 +41272,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1784",
-      "label": "French Ministry officially denies Tyler Robinson FFL service",
+      "label": "Host Reads French Ministry Statement Denying Tyler Robinson FFL Service",
       "node_kind": "claim",
       "episode": 38
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1785",
-      "label": "Camp Riley typo identified; Camp Ripley confirmed",
+      "label": "Host Reads Article Saying Camp Riley Typo Identified and Camp Ripley Confirmed",
       "node_kind": "claim",
       "episode": 38
     },
@@ -41293,7 +41293,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1787",
-      "label": "Operation Bright Star timing spans August 29 to September 10, 2025",
+      "label": "Host Says Operation Bright Star Ran August 29 to September 10, 2025",
       "node_kind": "claim",
       "episode": 38
     },
@@ -41370,14 +41370,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1798",
-      "label": "Brigitte Macron opened Paris Design Week on September 4, 2025",
+      "label": "Host Says Brigitte Macron Opened Paris Design Week on September 4, 2025",
       "node_kind": "claim",
       "episode": 38
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1799",
-      "label": "Brigitte Macron photographed with Zelensky on September 4, 2025",
+      "label": "Host Says Brigitte Macron Was Photographed with Zelensky on September 4, 2025",
       "node_kind": "claim",
       "episode": 38
     },
@@ -41398,7 +41398,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1802",
-      "label": "YouTube live poll: 93% believe lawsuit is a government operation",
+      "label": "Host Says YouTube Live Poll Found 93% Believe Lawsuit Is a Government Operation",
       "node_kind": "claim",
       "episode": 38
     },
@@ -41412,7 +41412,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1804",
-      "label": "Judge Jan Jordan ruled treatment in lieu of prison for Richards IV",
+      "label": "Per Vanity Fair Article Host Reads, Judge Jan Jordan Ruled Treatment in Lieu of Prison for Richards IV",
       "node_kind": "claim",
       "episode": 39
     },
@@ -41426,21 +41426,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1806",
-      "label": "Richards IV admitted to sexually assaulting his infant son",
+      "label": "Per Vanity Fair Article Host Reads, Richards IV Admitted to Sexually Assaulting His Infant Son",
       "node_kind": "claim",
       "episode": 39
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1807",
-      "label": "John DuPont shot Olympic wrestler David Schultz dead in 1996",
+      "label": "Per Vanity Fair Article Host Reads, John DuPont Shot Olympic Wrestler David Schultz Dead in 1996",
       "node_kind": "claim",
       "episode": 39
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1808",
-      "label": "Lisa Dean DuPont and Christopher Mosley ordered killing of Las Vegas prostitute",
+      "label": "Per Vanity Fair Reporting Host Relays, Lisa Dean DuPont and Christopher Mosley Ordered Killing of Las Vegas Prostitute",
       "node_kind": "claim",
       "episode": 39
     },
@@ -41503,7 +41503,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1817",
-      "label": "Tyler Bowyer discussed TPUSA plans to build houses for first-time home buyers",
+      "label": "Host Says Tyler Bowyer Discussed TPUSA Plans to Build Houses for First-Time Home Buyers",
       "node_kind": "claim",
       "episode": 39
     },
@@ -41636,7 +41636,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1836",
-      "label": "Shapiro Joke on Gutfeld Show",
+      "label": "Host Plays Clip of Shapiro Joking on Gutfeld Show About Calling French Intelligence",
       "node_kind": "claim",
       "episode": 41
     },
@@ -41692,7 +41692,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1844",
-      "label": "UVU September 10 footage shows numerous young men alone wearing maroon shirts",
+      "label": "Host Says UVU September 10 Footage Shows Numerous Young Men Alone Wearing Maroon Shirts",
       "node_kind": "claim",
       "episode": 42
     },
@@ -41706,7 +41706,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1846",
-      "label": "The Charlie Kirk Show fell to #94 on Apple Podcasts",
+      "label": "Per Tweet Host Reads, The Charlie Kirk Show Fell to #94 on Apple Podcasts",
       "node_kind": "claim",
       "episode": 42
     },
@@ -41720,7 +41720,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1848",
-      "label": "Jacob Kasparian did not duck after the shot went off",
+      "label": "Host Says Jacob Kasparian Did Not Duck After the Shot Went Off",
       "node_kind": "claim",
       "episode": 42
     },
@@ -41741,7 +41741,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1851",
-      "label": "Adam Bartholomew live-streamed the entire UVU event",
+      "label": "Host Says Adam Bartholomew Live-Streamed the Entire UVU Event",
       "node_kind": "claim",
       "episode": 42
     },
@@ -41755,7 +41755,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1853",
-      "label": "Adam Bartholomew did not stop livestreaming to find his wife after the shot",
+      "label": "Host Says Adam Bartholomew Did Not Stop Livestreaming to Find His Wife After the Shot",
       "node_kind": "claim",
       "episode": 42
     },
@@ -41811,7 +41811,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1861",
-      "label": "TPUSA response live stream scheduled for December 15",
+      "label": "Clip the Host Plays Has Blake Neff Saying TPUSA Response Live Stream Is Set for December 15",
       "node_kind": "claim",
       "episode": 42
     },
@@ -41888,7 +41888,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1872",
-      "label": "In the Jesse Kege / One Shot TV demonstration, the 180gr FMJ .30-06 round fully penetrated the ballistic dummy and continued through three 5-gallon water jugs",
+      "label": "Clip the Host Plays Shows Jesse Kege / One Shot TV 180gr FMJ .30-06 Round Fully Penetrating Ballistic Dummy and Three 5-Gallon Water Jugs",
       "node_kind": "claim",
       "episode": 43
     },
@@ -41937,7 +41937,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1879",
-      "label": "Viewer comments state that TPUSA-affiliated individuals knew of potential danger before the assassination and have remained silent",
+      "label": "Viewer Comments the Host Reads Say TPUSA-Affiliated Individuals Knew of Potential Danger Before the Assassination and Have Remained Silent",
       "node_kind": "claim",
       "episode": 43
     },
@@ -41958,7 +41958,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1882",
-      "label": "Harry was placed under an NDA gag order dated 1990 to May 2025",
+      "label": "Per Message Host Reads, Harry Was Placed Under an NDA Gag Order Dated 1990 to May 2025",
       "node_kind": "claim",
       "episode": 44
     },
@@ -41972,7 +41972,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1884",
-      "label": "Harry checked into Candlewood Suites at Fort Huachuca on September 8, 2025 at approximately 5:37 PM",
+      "label": "Host Says Harry Checked Into Candlewood Suites at Fort Huachuca on September 8, 2025 at About 5:37 PM",
       "node_kind": "claim",
       "episode": 44
     },
@@ -42000,7 +42000,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1888",
-      "label": "A \"Captain Nef\" conducted a 7-hour interrogation of Harry at Fort Huachuca on September 9, 2025",
+      "label": "Host Says Harry Reports a \"Captain Nef\" Conducted a 7-Hour Interrogation of Him at Fort Huachuca on September 9, 2025",
       "node_kind": "claim",
       "episode": 44
     },
@@ -42028,7 +42028,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1892",
-      "label": "Seven viewers emailed the show claiming Arcadi Gaydamak is living in Nashville under the name \"Jonathan Schmidt\"",
+      "label": "Seven Viewer Emails the Host Describes Claim Arcadi Gaydamak Is Living in Nashville Under the Name \"Jonathan Schmidt\"",
       "node_kind": "claim",
       "episode": 44
     },
@@ -42119,7 +42119,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1905",
-      "label": "USAF C37A 99-044 flight path September 7-9, 2025",
+      "label": "Per Tip Email Host Reads, USAF C37A 99-044 Flew a Path Through Fort Huachuca September 7-9, 2025",
       "node_kind": "claim",
       "episode": 45
     },
@@ -42133,14 +42133,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1907",
-      "label": "Captain at Fort Huachuca meeting identified as Adam Nef, 10th Mountain Division",
+      "label": "Host Says Captain at Fort Huachuca Meeting Identified as Adam Nef, 10th Mountain Division",
       "node_kind": "claim",
       "episode": 45
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1908",
-      "label": "JTF operates unmarked SCIF at Fort Huachuca with barbed wire and TS clearance",
+      "label": "Host Says JTF Operates Unmarked SCIF at Fort Huachuca with Barbed Wire and TS Clearance",
       "node_kind": "claim",
       "episode": 45
     },
@@ -42210,7 +42210,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1918",
-      "label": "Tyler Robinson made first in-person court appearance on December 11, 2025",
+      "label": "Host Says Tyler Robinson Made First In-Person Court Appearance on December 11, 2025",
       "node_kind": "claim",
       "episode": 46
     },
@@ -42259,7 +42259,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1925",
-      "label": "Erika confirmed possession of Charlie's phone",
+      "label": "Host Says Erika Kirk Confirmed Possession of Charlie's Phone",
       "node_kind": "claim",
       "episode": 47
     },
@@ -42287,7 +42287,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1929",
-      "label": "Probable cause hearing scheduled for May",
+      "label": "Host Says Probable Cause Hearing Is Scheduled for May",
       "node_kind": "claim",
       "episode": 47
     },
@@ -42301,7 +42301,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1931",
-      "label": "Witness described smaller gun, black tactical gear, no recoil",
+      "label": "Host Says Rooftop-Filming Witness Described Smaller Gun, Black Tactical Gear, No Recoil",
       "node_kind": "claim",
       "episode": 47
     },
@@ -42315,14 +42315,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1933",
-      "label": "Mikey three-wayed Erika 3 minutes after shot and father 2 minutes later",
+      "label": "Host Says Mikey Three-Wayed Erika 3 Minutes After Shot and Father 2 Minutes Later",
       "node_kind": "claim",
       "episode": 47
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1934",
-      "label": "Mikey McCoy's real first name is Michael",
+      "label": "Host Says Mikey McCoy's Real First Name Is Michael",
       "node_kind": "claim",
       "episode": 47
     },
@@ -42364,7 +42364,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1940",
-      "label": "TPUSA defended Terrell Farnsworth's camera removal",
+      "label": "Host Says TPUSA Defended Terrell Farnsworth's Camera Removal",
       "node_kind": "claim",
       "episode": 47
     },
@@ -42469,7 +42469,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1955",
-      "label": "Andrew Seifer identified as TPUSA head of field",
+      "label": "Charlie Kirk Show Speaker Identifies Andrew Seifer as TPUSA Head of Field",
       "node_kind": "claim",
       "episode": 47
     },
@@ -42539,14 +42539,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1965",
-      "label": "Coleman Displays RCH658 Flight Las Vegas to Colorado Springs with Missing Transponder Data",
+      "label": "Host Shows RCH658 Flight Las Vegas to Colorado Springs with Missing Transponder Data",
       "node_kind": "claim",
       "episode": 48
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1966",
-      "label": "Coleman Displays Return Flight Colorado Springs to Andrews as SAM658",
+      "label": "Host Shows Return Flight Colorado Springs to Andrews as SAM658",
       "node_kind": "claim",
       "episode": 48
     },
@@ -42588,7 +42588,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1972",
-      "label": "\"Mitch\" Observed Meeting at JTF Building on September 9, 2025 Involving Congressman-Type Figure and Military Officers",
+      "label": "\"Mitch\" Says He Observed Meeting at JTF Building on September 9, 2025 Involving Congressman-Type Figure and Military Officers",
       "node_kind": "claim",
       "episode": 49
     },
@@ -42637,7 +42637,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1979",
-      "label": "Multiple Federal and Local Law Enforcement Officers Surrounded \"Mitch\" Outside JTF Building on September 9, 2025",
+      "label": "\"Mitch\" Says Multiple Federal and Local Law Enforcement Officers Surrounded Him Outside JTF Building on September 9, 2025",
       "node_kind": "claim",
       "episode": 49
     },
@@ -42679,7 +42679,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1985",
-      "label": "Mitch Identified Cabot Phillips from a Photograph as a Person Seen at Fort Huachuca",
+      "label": "Host Says Mitch Identified Cabot Phillips from a Photograph as a Person Seen at Fort Huachuca",
       "node_kind": "claim",
       "episode": 50
     },
@@ -42805,7 +42805,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2003",
-      "label": "Tyler Robinson's Pangitch Visit",
+      "label": "Host Says Tyler Robinson Visited Pangitch",
       "node_kind": "claim",
       "episode": 52
     },
@@ -42854,7 +42854,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2010",
-      "label": "2014 Arizona House Record Connects Farnsworths to Lori Frantzve",
+      "label": "Host Says 2014 Arizona House Record Connects Farnsworths to Lori Frantzve",
       "node_kind": "claim",
       "episode": 52
     },
@@ -42868,7 +42868,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2012",
-      "label": "Davis-Monthan AFB Held Arizona Commanders Summit on September 9",
+      "label": "Host Cites Davis-Monthan AFB Website Saying Arizona Commanders Summit Kicked Off on September 9",
       "node_kind": "claim",
       "episode": 52
     },
@@ -42889,7 +42889,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2015",
-      "label": "Tyler Robinson Worked at Wild Electric in Santa Clara, Utah",
+      "label": "Host Says Tyler Robinson Worked at Wild Electric in Santa Clara, Utah",
       "node_kind": "claim",
       "episode": 52
     },
@@ -42917,7 +42917,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2019",
-      "label": "Ben Shapiro Resigned From Breitbart News on March 13, 2016",
+      "label": "Per Statement the Host Reads, Ben Shapiro Resigned From Breitbart News on March 13, 2016",
       "node_kind": "claim",
       "episode": 53
     },
@@ -42931,7 +42931,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2021",
-      "label": "Austin Smith Sentenced Tuesday for Petition Signature Fraud",
+      "label": "Article the Host Reads Says Austin Smith Was Scheduled to Be Sentenced Tuesday for Petition Signature Fraud",
       "node_kind": "claim",
       "episode": 53
     },
@@ -42952,14 +42952,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2024",
-      "label": "Daily Wire Producer Described as Being in \"Panic Mode\" During Casting",
+      "label": "Email the Host Reads Describes Daily Wire Producer as in \"Panic Mode\" During Casting",
       "node_kind": "claim",
       "episode": 53
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2025",
-      "label": "Ben Shapiro Hired as Editor-at-Large of Breitbart Two Weeks Before Andrew Breitbart's Death",
+      "label": "Per Shapiro's Own Statement the Host Reads, He Joined Breitbart News Two Weeks Before Andrew Breitbart's Death",
       "node_kind": "claim",
       "episode": 53
     },
@@ -43064,7 +43064,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2040",
-      "label": "Pastor Yoon Bo-seon arrested September 9, 2025 for breaking election law",
+      "label": "Korean Herald Headline the Host Shows Says Pastor Yoon Bo-seon Was Arrested September 9 for Breaking Election Law",
       "node_kind": "claim",
       "episode": 54
     },
@@ -43316,42 +43316,42 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2077",
-      "label": "Court Petition Filed December 2024 Challenges Alton C. Jennings Will Against TPUSA and YAF",
+      "label": "Host Says Court Petition Filed December 2024 Challenges Alton C. Jennings Will Against TPUSA and YAF",
       "node_kind": "claim",
       "episode": 56
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2078",
-      "label": "Alton C. Jennings Estate Valued at $25M; Will Changed November 2023, Four Months Before Death",
+      "label": "Host Says Alton C. Jennings Estate Valued at $25M; Will Changed November 2023, Four Months Before Death",
       "node_kind": "claim",
       "episode": 56
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2079",
-      "label": "Mitch Manley Jr. Worked on Charlie Kirk's TPUSA Show While His Father Was Caretaker",
+      "label": "Host Says Mitch Manley Jr. Worked on Charlie Kirk's TPUSA Show While His Father Was Caretaker",
       "node_kind": "claim",
       "episode": 56
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2080",
-      "label": "Jennings Estate Reportedly Split Between Turning Point Action and YAF",
+      "label": "Host Says Jennings Estate Was Split Between Turning Point Action and YAF",
       "node_kind": "claim",
       "episode": 56
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2081",
-      "label": "Paul Vallely Is a TPUSA Board Member and Former Commander of the 7th PSYOP Group",
+      "label": "Host Identifies Paul Vallely as a TPUSA Board Member and Former Commander of the 7th PSYOP Group",
       "node_kind": "claim",
       "episode": 56
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2082",
-      "label": "Valli and Aquino Co-Authored *Mind War* in 1980",
+      "label": "Host Says Vallely and Aquino Co-Authored Mind War in 1980",
       "node_kind": "claim",
       "episode": 56
     },
@@ -43365,28 +43365,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2084",
-      "label": "Aquino Founded the Temple of Set in 1975",
+      "label": "Host Says Aquino Founded the Temple of Set in 1975",
       "node_kind": "claim",
       "episode": 56
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2085",
-      "label": "SF Police Investigated Aquino in 1986 re: Army Child Development Center",
+      "label": "Host Says SF Police Investigated Aquino in 1986 re: Army Child Development Center",
       "node_kind": "claim",
       "episode": 56
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2086",
-      "label": "1987 Victim Identified Aquino; Case Closed for Insufficient Evidence",
+      "label": "Host Says 1987 Victim Identified Aquino; Case Closed for Insufficient Evidence",
       "node_kind": "claim",
       "episode": 56
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2087",
-      "label": "Twelve Lawsuits Filed Against Harvest Christian Fellowship re: Romanian Children's Home",
+      "label": "Host Says Twelve Lawsuits Filed Against Harvest Christian Fellowship re: Romanian Children's Home",
       "node_kind": "claim",
       "episode": 56
     },
@@ -43526,21 +43526,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2108",
-      "label": "November Renaissance Cast/Crew Had Multiple Fort Huachuca or Military Connections",
+      "label": "Host Says November Renaissance Cast/Crew Had Multiple Fort Huachuca or Military Connections",
       "node_kind": "claim",
       "episode": 58
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2109",
-      "label": "November Renaissance Plot Describes Nanotechnology, Mind-as-Hard-Drive, and Corporate Proxy Operations",
+      "label": "Per Kickstarter Text the Host Reads, November Renaissance Plot Describes Nanotechnology, Mind-as-Hard-Drive, and Corporate Proxy Operations",
       "node_kind": "claim",
       "episode": 58
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2110",
-      "label": "Erika Was Cast as \"Evelyn Mathis\" in the November Renaissance Kickstarter Campaign",
+      "label": "Host Says Erika Was Cast as \"Evelyn Mathis\" in the November Renaissance Kickstarter Campaign",
       "node_kind": "claim",
       "episode": 58
     },
@@ -43568,7 +43568,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2114",
-      "label": "Buckmans Gave $10 Million to Turning Point USA; Florida HQ Renamed Buckman Campus",
+      "label": "Host Says Buckmans Gave $10 Million to Turning Point USA; Florida HQ Renamed Buckman Campus",
       "node_kind": "claim",
       "episode": 58
     },
@@ -43582,7 +43582,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2116",
-      "label": "Nelda Buckman Is Executive Producer of the Identity Crisis Documentary",
+      "label": "Host Says Nelda Buckman Is Executive Producer of the Identity Crisis Documentary",
       "node_kind": "claim",
       "episode": 58
     },
@@ -43638,7 +43638,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2124",
-      "label": "Robert Flood served 33 years with the Texas A&M University Police Department as Chief Deputy",
+      "label": "Profile Host Shows Lists Robert Flood as Chief Deputy With 33 Years at the Texas A&M University Police Department",
       "node_kind": "claim",
       "episode": 59
     },
@@ -43659,35 +43659,35 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2127",
-      "label": "Robert Flood graduated from the FBI National Academy",
+      "label": "Host-Shown LinkedIn Profile Lists Robert Flood as FBI National Academy Graduate",
       "node_kind": "claim",
       "episode": 59
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2128",
-      "label": "Robert Flood served as a Marine staff sergeant in charge of surveillance and target acquisition",
+      "label": "Host-Shown LinkedIn Profile Lists Robert Flood as Marine Staff Sergeant in Surveillance and Target Acquisition",
       "node_kind": "claim",
       "episode": 59
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2129",
-      "label": "Robert Flood worked in Franklin Park Illinois for over a decade",
+      "label": "Host-Shown LinkedIn Profile Lists Robert Flood Working in Franklin Park, Illinois for Over a Decade",
       "node_kind": "claim",
       "episode": 59
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2130",
-      "label": "Robert Flood attained the rank of lieutenant colonel in the Army Reserve",
+      "label": "Host-Shown LinkedIn Profile Lists Robert Flood as Army Reserve Lieutenant Colonel",
       "node_kind": "claim",
       "episode": 59
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2131",
-      "label": "Robert Flood is a member of the FBI Agent Association (FBIA)",
+      "label": "Host-Shown LinkedIn Profile Lists Robert Flood as Member of the FBI Agent Association (FBIA)",
       "node_kind": "claim",
       "episode": 59
     },
@@ -43848,7 +43848,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2154",
-      "label": "Flight Records Show ~1 Hour 5 Minute Gap Between Kolvet and Erika Planes",
+      "label": "Host Says Flight Records Show ~1 Hour 5 Minute Gap Between Kolvet and Erika Planes",
       "node_kind": "claim",
       "episode": 60
     },
@@ -43869,7 +43869,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2157",
-      "label": "Baron Coleman Publicly Confronted Commenter \"Joe\" on Prior Episode",
+      "label": "Host Says Baron Coleman Publicly Confronted Commenter \"Joe\" on Prior Episode",
       "node_kind": "claim",
       "episode": 60
     },
@@ -44016,14 +44016,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2178",
-      "label": "Taylor Swift text message references Justin Baldoni's \"tiny violin\" (December 2024)",
+      "label": "Host Says Taylor Swift Text Message References Justin Baldoni's \"Tiny Violin\" (December 2024)",
       "node_kind": "claim",
       "episode": 61
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2179",
-      "label": "Sony executives described Blake Lively as \"terrorist\" in text messages",
+      "label": "Host Says Sony Executives Described Blake Lively as \"Terrorist\" in Text Messages",
       "node_kind": "claim",
       "episode": 61
     },
@@ -44058,28 +44058,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2184",
-      "label": "Lyle Reems was indicted in 1998 for sexual conduct with a minor under 15",
+      "label": "Host Says Lyle Reems Was Indicted in 1998 for Sexual Conduct with a Minor Under 15",
       "node_kind": "claim",
       "episode": 62
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2185",
-      "label": "The Lyle Reems case was dismissed without prejudice in 1999 after the victim gave a victim impact statement",
+      "label": "Host Says the Lyle Reems Case Was Dismissed Without Prejudice in 1999 After the Victim Gave a Victim Impact Statement",
       "node_kind": "claim",
       "episode": 62
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2186",
-      "label": "Lori Frantzve, Larry Guinta, Lyle Reems, and Shelly Reems co-filed Desert Spirit Tech LLC in Sacaton, Arizona in 2017",
+      "label": "Per Host's Documents, Frantzve, Guinta, and the Reemses Co-Filed Desert Spirit Tech LLC in Sacaton, Arizona in 2017",
       "node_kind": "claim",
       "episode": 62
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2187",
-      "label": "Desert Spirit Tech LLC's statutory public notice was published in the Arizona Chinese News",
+      "label": "Per Host's Filing, Desert Spirit Tech LLC's Statutory Public Notice Was Published in the Arizona Chinese News",
       "node_kind": "claim",
       "episode": 62
     },
@@ -44198,7 +44198,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2204",
-      "label": "Voice matching identifies Lorie Cardardoza Moore on a 1-900 romance hotline recording",
+      "label": "Host Says Voice Matching Identifies Lorie Cardardoza Moore on a 1-900 Romance Hotline Recording",
       "node_kind": "claim",
       "episode": 63
     },
@@ -44212,7 +44212,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2206",
-      "label": "Erika Kirk Hosted TPUSA Corporate Zoom Call on September 16, 2025",
+      "label": "Host Says Erika Kirk Hosted TPUSA Corporate Zoom Call on September 16, 2025",
       "node_kind": "claim",
       "episode": 64
     },
@@ -44240,7 +44240,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2210",
-      "label": "Erika Kirk Self-Corrected to Avoid the Word \"Happy\" About Charlie on Sept 16 Call",
+      "label": "Host Says Erika Kirk Self-Corrected to Avoid the Word \"Happy\" About Charlie on Sept 16 Call",
       "node_kind": "claim",
       "episode": 64
     },
@@ -44359,7 +44359,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2227",
-      "label": "Tucker Carlson Won Anti-Semite of the Year",
+      "label": "In Clip, Bassem Youssef Says Tucker Carlson Won Anti-Semite of the Year",
       "node_kind": "claim",
       "episode": 65
     },
@@ -44429,7 +44429,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2237",
-      "label": "Bassem Youssef Tour Dates Include Portland March 20 and Seattle March 21",
+      "label": "Bassem Youssef Says His Tour Dates Include Portland March 20 and Seattle March 21",
       "node_kind": "claim",
       "episode": 65
     },
@@ -44478,14 +44478,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2245",
-      "label": "Donor gave Erica Kirk a relic of St. Paul II",
+      "label": "Donor Tells Host She Gave Erica Kirk a Relic of St. Paul II",
       "node_kind": "claim",
       "episode": 66
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2246",
-      "label": "Charlie Kirk sent group-chat text quoting 1 Corinthians 16:9 on September 9",
+      "label": "Host Says Charlie Kirk Sent Group-Chat Text Quoting 1 Corinthians 16:9 on September 9",
       "node_kind": "claim",
       "episode": 66
     },
@@ -44527,7 +44527,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2252",
-      "label": "Don Lemon video shows him questioning ICE-affiliated pastor at Minnesota church protest",
+      "label": "Host Says Don Lemon Video Shows Him Questioning ICE-Affiliated Pastor at Minnesota Church Protest",
       "node_kind": "claim",
       "episode": 66
     },
@@ -44583,7 +44583,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2260",
-      "label": "Susan Hamblin Previously Sued News Group Newspapers Over Epstein Allegations",
+      "label": "James Lee Says Susan Hamblin Previously Sued News Group Newspapers Over Epstein Allegations",
       "node_kind": "claim",
       "episode": 67
     },
@@ -44800,7 +44800,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2291",
-      "label": "German Geophysicists Located Gilgamesh Tomb Between May 2002 and Early 2003",
+      "label": "Host Says German Geophysicists Located Gilgamesh Tomb Between May 2002 and Early 2003",
       "node_kind": "claim",
       "episode": 68
     },
@@ -44835,7 +44835,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2296",
-      "label": "William Stevenson Indicted for First-Degree Murder of His Ex-Wife",
+      "label": "Viewer Comment Says William Stevenson Was Indicted for First-Degree Murder of His Ex-Wife",
       "node_kind": "claim",
       "episode": 68
     },
@@ -45045,7 +45045,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2326",
-      "label": "Nielsen Super Bowl Viewership Increase During Halftime",
+      "label": "Host Says Nielsen Super Bowl Viewership Increased During Halftime",
       "node_kind": "claim",
       "episode": 71
     },
@@ -45150,7 +45150,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2341",
-      "label": "Tracy's Bad Feeling Stopped Daughter from UVU",
+      "label": "Host Says Tracy's Bad Feeling Stopped Daughter from UVU",
       "node_kind": "claim",
       "episode": 71
     },
@@ -45171,7 +45171,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2344",
-      "label": "Seth Dillon Hamptons Heated Debate Admission",
+      "label": "Host Calls Seth Dillon's Hamptons Heated Debate Remark an Admission",
       "node_kind": "claim",
       "episode": 71
     },
@@ -45185,7 +45185,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2346",
-      "label": "Carrie Prejean Bowler Questioned Seth Dillon",
+      "label": "Host Says Carrie Prejean Bowler Questioned Seth Dillon",
       "node_kind": "claim",
       "episode": 71
     },
@@ -45234,7 +45234,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2353",
-      "label": "Erika Kirk's NY Real Estate License Had a Validity Period Ending October 24, 2020",
+      "label": "Per Host's Snapshot, Erika Kirk's NY Real Estate License Valid Until October 24, 2020",
       "node_kind": "claim",
       "episode": 72
     },
@@ -45311,7 +45311,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2364",
-      "label": "Wedding photo visible in Charlie Kirk's home studio background on Sept 8, 2025",
+      "label": "Host Says Wedding Photo Was Visible in Charlie Kirk's Home Studio Background on Sept 8, 2025",
       "node_kind": "claim",
       "episode": 73
     },
@@ -45353,7 +45353,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2370",
-      "label": "Carrie Prejean Bowler removed from Religious Liberty Commission",
+      "label": "Per Dan Patrick's X Post, Carrie Prejean Bowler Was Removed from Religious Liberty Commission",
       "node_kind": "claim",
       "episode": 73
     },
@@ -45367,35 +45367,35 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2372",
-      "label": "TPUSA halftime show was pre-filmed with camera tricks and ~180 audience members",
+      "label": "Host Relays Informants' Claim That TPUSA Halftime Show Was Pre-Filmed with Camera Tricks and ~180 Audience Members",
       "node_kind": "claim",
       "episode": 73
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2373",
-      "label": "TPUSA halftime show participants were paid $250 stipends",
+      "label": "Host Relays Informants' Claim That TPUSA Halftime Show Participants Were Paid $250 Stipends",
       "node_kind": "claim",
       "episode": 73
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2374",
-      "label": "Erika Kirk was reportedly not present at TPUSA halftime show filming",
+      "label": "Host Relays Informants' Claim That Erika Kirk Was Not Present at TPUSA Halftime Show Filming",
       "node_kind": "claim",
       "episode": 73
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2375",
-      "label": "Trump was watching Bad Bunny halftime show at Mar-a-Lago during Super Bowl broadcast",
+      "label": "Host Says Photo Shows Trump at Mar-a-Lago with Bad Bunny Halftime Show in Background",
       "node_kind": "claim",
       "episode": 73
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2376",
-      "label": "Per informant testimony, songs required 3-5 takes each except Gabby Barrett's (2 takes)",
+      "label": "Host Relays Informants' Account: Songs Required 3-5 Takes Except Gabby Barrett's (2 Takes)",
       "node_kind": "claim",
       "episode": 73
     },
@@ -45409,7 +45409,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2378",
-      "label": "Erika Kirk (then Frandsen) met Jillian Falcon in Michigan on September 15, 2013 when Erika was 25 and Jillian was 15",
+      "label": "Per Nicey Clip, Erika Kirk (Then Frandsen) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15",
       "node_kind": "claim",
       "episode": 74
     },
@@ -45423,21 +45423,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2380",
-      "label": "Erika sent Jillian messages including \"I don't bat for the other team just yet\"",
+      "label": "Nicey Clip Shows Erika Messages to Jillian Including \"I don't bat for the other team just yet\"",
       "node_kind": "claim",
       "episode": 74
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2381",
-      "label": "Erika sent Jillian messages instructing her not to drink or eat salt before an unspecified evening event",
+      "label": "Nicey Clip Shows Erika Telling Jillian to Avoid Alcohol and Salt Before an Unspecified Evening Event",
       "node_kind": "claim",
       "episode": 74
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2382",
-      "label": "Erika's \"no alcohol / hydrate\" text exchange was in reference to an arranged photo session, not an outing together",
+      "label": "Host Says Erika's \"No Alcohol / Hydrate\" Texts Referred to an Arranged Photo Session, Not an Outing Together",
       "node_kind": "claim",
       "episode": 74
     },
@@ -45451,21 +45451,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2384",
-      "label": "Erika sent Jillian chocolate-covered strawberries with a hand-signed personal card for Jillian's 16th birthday",
+      "label": "Nicey Clip Shows Erika Sending Jillian Chocolate-Covered Strawberries with a Personal Card for Her 16th Birthday",
       "node_kind": "claim",
       "episode": 74
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2385",
-      "label": "Erika told Jillian she had \"the most stunning features\" and was \"absolutely beautiful\"",
+      "label": "Nicey Clip Shows Erika Telling Jillian She Had \"the most stunning features\" and Was \"absolutely beautiful\"",
       "node_kind": "claim",
       "episode": 74
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2386",
-      "label": "Erika publicly commented on Jillian's Instagram photo calling her \"a dime piece beside the car\"",
+      "label": "Host Says Erika Publicly Commented on Jillian's Instagram Photo Calling Her \"a dime piece beside the car\"",
       "node_kind": "claim",
       "episode": 74
     },
@@ -45556,7 +45556,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2422",
-      "label": "Epstein Files Released Day After West Wing Meeting",
+      "label": "Host Says Epstein Files Were Released Day After West Wing Meeting",
       "node_kind": "claim",
       "episode": 76
     },
@@ -45577,14 +45577,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2425",
-      "label": "Corcoran Group Referenced Across Epstein's Emails",
+      "label": "Host Says Corcoran Group Is Referenced Across Epstein's Emails",
       "node_kind": "claim",
       "episode": 76
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2426",
-      "label": "Linda Rothschild Documented as Corcoran Group President with Multiple Aliases",
+      "label": "Host Says Background Document Lists Linda Rothschild as Corcoran Group President with Multiple Aliases",
       "node_kind": "claim",
       "episode": 76
     },
@@ -45612,7 +45612,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2430",
-      "label": "Charlie Kirk Watched Second Half of Bears–Vikings Game on September 8",
+      "label": "Host Says Charlie Kirk Watched Second Half of Bears-Vikings Game on September 8",
       "node_kind": "claim",
       "episode": 76
     },
@@ -45654,7 +45654,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2436",
-      "label": "Charlie Kirk Appearance on Ingram Angle 4:00–5:00 PM AZ on September 8",
+      "label": "Host Says Charlie Kirk Appeared on Ingram Angle 4:00-5:00 PM AZ on September 8",
       "node_kind": "claim",
       "episode": 76
     },
@@ -45682,7 +45682,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2440",
-      "label": "Erika Kirk NY Real-Estate License Relic Identified",
+      "label": "Host Says She Found Relic of Erika Kirk's NY Real-Estate License",
       "node_kind": "claim",
       "episode": 77
     },
@@ -45710,7 +45710,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2444",
-      "label": "SB 1439 Proposes Charlie Kirk Memorial Specialty License Plate with Grassroots-Network Fund",
+      "label": "Per Host, SB 1439 Proposes Charlie Kirk Memorial Specialty License Plate with Grassroots-Network Fund",
       "node_kind": "claim",
       "episode": 77
     },
@@ -45738,7 +45738,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2448",
-      "label": "Super Feed Inc. Claimed as Copyright Holder of Turning Point USA App",
+      "label": "Host Says Super Feed Inc. Is Copyright Holder of Turning Point USA App",
       "node_kind": "claim",
       "episode": 77
     },
@@ -45955,7 +45955,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2479",
-      "label": "Charlie Kirk spent two days at the White House on June 18, 2025 lobbying Trump against an Iran war",
+      "label": "Bret Weinstein Says Charlie Kirk Spent Two Days at the White House on June 18, 2025 Lobbying Trump Against an Iran War",
       "node_kind": "claim",
       "episode": 79
     },
@@ -45969,7 +45969,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2481",
-      "label": "Milo Yiannopoulos disclosed that Ben Shapiro commissioned hit jobs on Turning Point USA a decade ago",
+      "label": "Per Host-Shared Text, Milo Yiannopoulos Said Ben Shapiro Sought to Commission Hit Jobs on Turning Point USA a Decade Ago",
       "node_kind": "claim",
       "episode": 79
     },
@@ -46116,7 +46116,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2502",
-      "label": "Levin Calls for DOJ Criminal Investigation of Kent",
+      "label": "Host Says Levin Called for DOJ Criminal Investigation of Kent",
       "node_kind": "claim",
       "episode": 80
     },
@@ -46151,7 +46151,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2507",
-      "label": "TPUSA Arkansas Chapter Announces Disaffiliation",
+      "label": "Local News Clip Says TPUSA Arkansas Chapter Announced Disaffiliation",
       "node_kind": "claim",
       "episode": 80
     },
@@ -46165,7 +46165,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2509",
-      "label": "Fonte Grassi Authored Chapter Statement",
+      "label": "Host Says Fonte Grassi Authored Chapter Statement",
       "node_kind": "claim",
       "episode": 80
     },
@@ -46179,7 +46179,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2511",
-      "label": "Fonte Grassi Participated in Kirk's July 2025 Israel/Gaza Discussion",
+      "label": "Host Says Fonte Grassi Participated in Kirk's July 2025 Israel/Gaza Discussion",
       "node_kind": "claim",
       "episode": 80
     },
@@ -46200,14 +46200,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2514",
-      "label": "Three DC-Area Airports Shut Down March 13",
+      "label": "Host Says Three DC-Area Airports Shut Down March 13",
       "node_kind": "claim",
       "episode": 80
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2515",
-      "label": "Official Closure Explanation: Overheated Circuit Board",
+      "label": "Host Says Official Closure Explanation Was Overheated Circuit Board",
       "node_kind": "claim",
       "episode": 80
     },
@@ -46242,21 +46242,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2520",
-      "label": "Netanyahu No-Shows Military Council Meeting March 17",
+      "label": "Host Says Netanyahu No-Showed Military Council Meeting March 17",
       "node_kind": "claim",
       "episode": 80
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2521",
-      "label": "Erika Kirk Appears with Sarah Huckabee Sanders in Arkansas",
+      "label": "Host Says Erika Kirk Appeared with Sarah Huckabee Sanders in Arkansas",
       "node_kind": "claim",
       "episode": 80
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2522",
-      "label": "Sanders Signs Proclamation Endorsing TPUSA School Chapters",
+      "label": "Local News Clip Says Sanders Signed Proclamation Endorsing TPUSA School Chapters",
       "node_kind": "claim",
       "episode": 80
     },
@@ -46354,21 +46354,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2536",
-      "label": "Aubrey was later fired over Uber-driver conversation",
+      "label": "Host Says Aubrey Was Later Fired Over Uber-Driver Conversation",
       "node_kind": "claim",
       "episode": 81
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2537",
-      "label": "Calendar shows Egyptian-plane transponding overlapping Sept 10 events",
+      "label": "Host's Calendar Graphic Shows Egyptian-Plane Transponding Overlapping Sept 10 Events",
       "node_kind": "claim",
       "episode": 81
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2538",
-      "label": "Wyre plane route: Scottsdale–Provo–Santa Barbara–Scottsdale",
+      "label": "Host Says Wyre Plane Routed Scottsdale–Provo–Santa Barbara–Scottsdale",
       "node_kind": "claim",
       "episode": 81
     },
@@ -46431,7 +46431,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2547",
-      "label": "Charlie Kirk's plane was below 7,500 ft approaching Provo at 3:26 PM MST on September 10, 2025",
+      "label": "Host Says ADSB Exchange Shows Charlie Kirk's Plane Below 7,500 ft Approaching Provo at 3:26 PM MST on September 10, 2025",
       "node_kind": "claim",
       "episode": 82
     },
@@ -46536,21 +46536,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2562",
-      "label": "Elizabeth McCoy Was First Person Called After the 12:23 p.m. MST Shooting",
+      "label": "Host Says Elizabeth McCoy Was First Person Called After the 12:23 p.m. MST Shooting",
       "node_kind": "claim",
       "episode": 83
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2563",
-      "label": "Mikey McCoy Called Elizabeth First, Then Conferenced in Erika",
+      "label": "Host Says Mikey McCoy Called Elizabeth First, Then Conferenced in Erika",
       "node_kind": "claim",
       "episode": 83
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2564",
-      "label": "Lauren Tonchech Drove Elizabeth McCoy to Scottsdale Airport",
+      "label": "Host Says Lauren Tonchech Drove Elizabeth McCoy to Scottsdale Airport",
       "node_kind": "claim",
       "episode": 83
     },
@@ -46564,7 +46564,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2566",
-      "label": "Mikey McCoy Met the Group at the Utah Airport and Elizabeth Accompanied Erica to View Charlie's Body",
+      "label": "Host Says Mikey McCoy Met the Group at the Utah Airport and Elizabeth Accompanied Erica to View Charlie's Body",
       "node_kind": "claim",
       "episode": 83
     },
@@ -46683,14 +46683,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2583",
-      "label": "Four DGSE officers among defendants",
+      "label": "Per Article Host Reads, Four DGSE Officers Among Defendants",
       "node_kind": "claim",
       "episode": 85
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2584",
-      "label": "Failed contract killing in July 2020 against Marie-Hélène Dini",
+      "label": "Per Article Host Reads, Failed July 2020 Contract Killing Targeted Marie-Hélène Dini",
       "node_kind": "claim",
       "episode": 85
     },
@@ -46837,7 +46837,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2605",
-      "label": "Sheriff Brooksby resigned from Washington County Sheriff's Office",
+      "label": "Host Says Sheriff Brooksby Resigned from Washington County Sheriff's Office",
       "node_kind": "claim",
       "episode": 85
     },
@@ -46851,21 +46851,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2607",
-      "label": "Brooksby had served in law enforcement more than 30 years",
+      "label": "Host Says Commission Statement Noted Brooksby Served 30+ Years in Law Enforcement",
       "node_kind": "claim",
       "episode": 85
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2608",
-      "label": "Brooksby's name removed from Sheriff's Office website",
+      "label": "Host Says Brooksby's Name Was Removed from Sheriff's Office Website",
       "node_kind": "claim",
       "episode": 85
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2609",
-      "label": "Defense Moves to Continue Preliminary Hearing",
+      "label": "Per Filing Host Reads, Defense Moves to Continue Preliminary Hearing",
       "node_kind": "claim",
       "episode": 86
     },
@@ -46879,14 +46879,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2611",
-      "label": "FBI Conducting Second Comparative Bullet and Bullet Lead Analyses",
+      "label": "Per Filing Host Reads, FBI Conducting Second Comparative Bullet and Bullet Lead Analyses",
       "node_kind": "claim",
       "episode": 86
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2612",
-      "label": "FBI Discontinued Comparative Bullet Lead Analysis in 2005",
+      "label": "News Clip Host Plays Says FBI Discontinued Comparative Bullet Lead Analysis in 2005",
       "node_kind": "claim",
       "episode": 86
     },
@@ -46900,21 +46900,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2614",
-      "label": "Autopsy Photographs Delayed to Defense",
+      "label": "Per Filing Host Reads, Autopsy Photographs Delayed to Defense",
       "node_kind": "claim",
       "episode": 86
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2615",
-      "label": "~600,000 Files / ~12 TB Dumped at March 12, 2026 Conference",
+      "label": "Per Filing Host Reads, ~600,000 Files / ~12 TB Dumped at March 12, 2026 Conference",
       "node_kind": "claim",
       "episode": 86
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2616",
-      "label": "Prior Discovery Volume Before March 12, 2026 Conference",
+      "label": "Per Filing Host Reads, Prior Discovery Volume Before March 12, 2026 Conference",
       "node_kind": "claim",
       "episode": 86
     },
@@ -46942,7 +46942,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2620",
-      "label": "Long Beach Airport Adjacent to Joint Forces Air Base",
+      "label": "Viewer Email Host Reads Says Long Beach Airport Is Near Joint Forces Air Base",
       "node_kind": "claim",
       "episode": 86
     },
@@ -47012,35 +47012,35 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2630",
-      "label": "Ahmed Qureshi Is Active-Duty Navy Captain (O6)",
+      "label": "Host Says Ahmed Qureshi Is Active-Duty Navy Captain (O6)",
       "node_kind": "claim",
       "episode": 87
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2631",
-      "label": "Ahmed Qureshi and Nathan Henderson Co-Founded Built Incorporated",
+      "label": "Host Says Ahmed Qureshi and Nathan Henderson Co-Founded Built Incorporated",
       "node_kind": "claim",
       "episode": 87
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2632",
-      "label": "Built Inc. Received ~$7.4M Air Force + ~$240K Navy in June 2025",
+      "label": "Host Says USA Spending Shows Built Inc. Received ~$7.4M Air Force + ~$240K Navy in June 2025",
       "node_kind": "claim",
       "episode": 87
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2633",
-      "label": "Gina Romney Henderson Is VP UX at Built Inc. and BYU Alumna",
+      "label": "Host Shows LinkedIn Listing Gina Romney Henderson as VP UX at Built Inc.",
       "node_kind": "claim",
       "episode": 87
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2634",
-      "label": "Connor Henderson Worked as ER Scribe at Timpanogos",
+      "label": "Host Says Connor Henderson Worked as ER Scribe at Timpanogos",
       "node_kind": "claim",
       "episode": 87
     },
@@ -47075,14 +47075,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2639",
-      "label": "Andrew Zenger Appointed CEO of Timpanogos on 2025-08-19",
+      "label": "Host Says Andrew Zenger Was Appointed CEO of Timpanogos on 2025-08-19",
       "node_kind": "claim",
       "episode": 87
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2640",
-      "label": "Andrew Zenger Previously COO at Medical City, McKinney, Texas",
+      "label": "Host Says Andrew Zenger Was Previously COO at Medical City, McKinney, Texas",
       "node_kind": "claim",
       "episode": 87
     },
@@ -47110,14 +47110,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2644",
-      "label": "Michael Shawn Covey (Zenger's Jerusalem Roommate) Does CIA Contract Work",
+      "label": "Host Says Michael Shawn Covey (Zenger's Jerusalem Roommate) Does CIA Contract Work",
       "node_kind": "claim",
       "episode": 87
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2645",
-      "label": "Robbie Hild Attended BYU, Played Lacrosse, Graduated ~2020",
+      "label": "Host Says Robbie Hild Attended BYU, Played Lacrosse, Graduated ~2020",
       "node_kind": "claim",
       "episode": 87
     },
@@ -47131,7 +47131,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2647",
-      "label": "Turning Point Sent Funeral-Image Direct Mail Fundraising",
+      "label": "Viewer Comment Host Reads Says Turning Point Sent Funeral-Image Fundraising Mailer",
       "node_kind": "claim",
       "episode": 87
     },
@@ -47145,14 +47145,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2649",
-      "label": "Caleb Cunningham Was in Jerusalem During 2012 Romney Campaign",
+      "label": "Host Says Caleb Cunningham Was in Jerusalem During 2012 Romney Campaign",
       "node_kind": "claim",
       "episode": 87
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2650",
-      "label": "Jeffrey Knuckles Was in Jerusalem and Later Romney Campaign Advisor",
+      "label": "Host Says Jeffrey Knuckles Was in Jerusalem and Later Romney Campaign Advisor",
       "node_kind": "claim",
       "episode": 87
     },
@@ -47250,14 +47250,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2664",
-      "label": "Trump fired Pam Bondi via social-media statement",
+      "label": "Per Trump Statement Host Reads, Pam Bondi Was Fired",
       "node_kind": "claim",
       "episode": 88
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2665",
-      "label": "Todd Blanche named as Acting Attorney General",
+      "label": "Per Trump Statement Host Reads, Todd Blanche Named Acting Attorney General",
       "node_kind": "claim",
       "episode": 88
     },
@@ -47348,7 +47348,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2678",
-      "label": "A Significant Segment of Self-Identified MAGA Supporters Publicly Turned Against Trump Following the Truth Social Post",
+      "label": "Social-Media Responses Host Reads Show MAGA Supporters Turning Against Trump",
       "node_kind": "claim",
       "episode": 89
     },
@@ -47488,35 +47488,35 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2698",
-      "label": "Victor Marx Expressed Interest in Owning Fold AR",
+      "label": "Per Corby Hall Statement Host Reads, Victor Marx Expressed Interest in Owning Fold AR",
       "node_kind": "claim",
       "episode": 91
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2699",
-      "label": "Fold AR Demo Provided to Marx in December 2023",
+      "label": "Per Corby Hall Statement Host Reads, Fold AR Demo Provided to Marx in December 2023",
       "node_kind": "claim",
       "episode": 91
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2700",
-      "label": "Victor Marx Performed \"Retooling Prayer\" on Hall and Melody",
+      "label": "Per Corby Hall Statement Host Reads, Victor Marx Performed \"Retooling Prayer\" on Hall and Melody",
       "node_kind": "claim",
       "episode": 91
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2701",
-      "label": "Victor Marx Married Hall and Melody on January 24, 2024",
+      "label": "Per Corby Hall Statement Host Reads, Victor Marx Married Hall and Melody on January 24, 2024",
       "node_kind": "claim",
       "episode": 91
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2702",
-      "label": "All Things Possible Ministries Purchased 5 Fold AR Rifles for Lindale High School",
+      "label": "Per Corby Hall Statement Host Reads, All Things Possible Ministries Purchased 5 Fold AR Rifles for Lindale High School",
       "node_kind": "claim",
       "episode": 91
     },
@@ -47530,7 +47530,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2704",
-      "label": "Marx Requested Long-Range Rifle to Execute Person Scaling Orphanage Fence",
+      "label": "Per Corby Hall Statement Host Reads, Marx Requested Long-Range Rifle to Execute Person Scaling Orphanage Fence",
       "node_kind": "claim",
       "episode": 91
     },
@@ -47551,7 +47551,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2707",
-      "label": "Marx Valued Fold AR at $2 Million and Sought 51% Controlling Interest",
+      "label": "Per Corby Hall Statement Host Reads, Marx Valued Fold AR at $2 Million and Sought 51% Controlling Interest",
       "node_kind": "claim",
       "episode": 91
     },
@@ -47565,7 +47565,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2709",
-      "label": "Marx Showed Hall Underground Bunker Under Construction at His Residence",
+      "label": "Per Corby Hall Statement Host Reads, Marx Showed Hall Underground Bunker Under Construction at His Residence",
       "node_kind": "claim",
       "episode": 91
     },
@@ -47579,7 +47579,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2711",
-      "label": "Fold AR SN 02735 Sold to Texas Deputy on June 6, 2024",
+      "label": "Host Says Fold AR SN 02735 Was Sold to Texas Deputy on June 6, 2024",
       "node_kind": "claim",
       "episode": 91
     },
@@ -47607,7 +47607,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2715",
-      "label": "Erika Kirk Photographed Being Comforted by Victor Marx at Residence",
+      "label": "Host Shows Photo of Erika Kirk Being Comforted by Victor Marx at Residence",
       "node_kind": "claim",
       "episode": 91
     },
@@ -47656,7 +47656,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2722",
-      "label": "Erika Kirk Scheduled to Appear at UGA with VP JD Vance",
+      "label": "Host Says Erika Kirk Was Scheduled to Appear at UGA with VP JD Vance",
       "node_kind": "claim",
       "episode": 92
     },
@@ -47712,14 +47712,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2730",
-      "label": "UGA High School Event Cancelled Monday Citing \"Scheduling Complications\"",
+      "label": "Per Text Host Shows, UGA High School Event Cancelled Monday Citing \"Scheduling Complications\"",
       "node_kind": "claim",
       "episode": 92
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2731",
-      "label": "Parents and Teachers Organizing Boycott of Erika Kirk at Pinnacle High School",
+      "label": "Per Facebook Chat Host Shows, Parents and Teachers Organizing Boycott of Erika Kirk at Pinnacle High School",
       "node_kind": "claim",
       "episode": 92
     },
@@ -47761,21 +47761,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2737",
-      "label": "Marcus Wada Identified as TPUSA Director of Strategy of Productions",
+      "label": "Host Reads TPUSA Bio Identifying Marcus Wada as Director of Strategy of Productions",
       "node_kind": "claim",
       "episode": 92
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2738",
-      "label": "Marcus Wada TPUSA Bio Lists Miss Universe and TPUSA Documentaries",
+      "label": "Host Reads Marcus Wada TPUSA Bio Listing Miss Universe and TPUSA Documentaries",
       "node_kind": "claim",
       "episode": 92
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2739",
-      "label": "Marcus Wada's Brother's Consulting Firm Lists Trafficking Among Industry Areas",
+      "label": "Host Says Marcus Wada's Brother's Consulting Firm Lists Trafficking Among Industry Areas",
       "node_kind": "claim",
       "episode": 92
     },
@@ -47789,7 +47789,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2741",
-      "label": "Marcus Wada Reportedly Discusses Past Arms Trafficking in Poland",
+      "label": "Host Says Marcus Wada Reportedly Discusses Past Arms Trafficking in Poland",
       "node_kind": "claim",
       "episode": 92
     },
@@ -47866,7 +47866,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2752",
-      "label": "Text messages reference an \"Israeli Defense Group\" connection and SOCOM contract",
+      "label": "Host Reads Texts Attributed to Victor Marx Referencing \"Israeli Defense Group\" and SOCOM Contract",
       "node_kind": "claim",
       "episode": 93
     },
@@ -47887,7 +47887,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2755",
-      "label": "ATF determined cartridge cases matched exhibit 1 rifle",
+      "label": "Host Says ATF Summary Found Cartridge Cases Matched Exhibit 1 Rifle",
       "node_kind": "claim",
       "episode": 93
     },
@@ -47901,7 +47901,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2757",
-      "label": "ATF to conduct microscopic comparison on bullet evidence",
+      "label": "Host Says ATF Summary Indicates Microscopic Comparison of Bullet Evidence",
       "node_kind": "claim",
       "episode": 93
     },
@@ -48006,7 +48006,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2772",
-      "label": "Prosecution Plans 35 Exhibits at Probable Cause Hearing",
+      "label": "Host Says Prosecution Plans 35 Exhibits at Probable Cause Hearing",
       "node_kind": "claim",
       "episode": 94
     },
@@ -48097,7 +48097,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2785",
-      "label": "Insurance/Court Record Shows $6,987 Payment to Tracy Robinson",
+      "label": "Host Says Insurance Paid Tracy Robinson $6,987",
       "node_kind": "claim",
       "episode": 94
     },
@@ -48167,7 +48167,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2795",
-      "label": "Erika Kirk released a pre-recorded 9-minute video statement",
+      "label": "Host Says Erika Kirk Released a Pre-Recorded 9-Minute Video Statement",
       "node_kind": "claim",
       "episode": 96
     },
@@ -48202,7 +48202,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2800",
-      "label": "Taro Farnsworth recorded video at Charlie Kirk shooting scene",
+      "label": "Host Says Taro Farnsworth Recorded Video at Charlie Kirk Shooting Scene",
       "node_kind": "claim",
       "episode": 96
     },
@@ -48349,7 +48349,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2821",
-      "label": "Lawsuit Admits the Rooftop Text Chain Was Between Dan Flood and Chief Long, Not Harpole",
+      "label": "Host Says Lawsuit Admits the Rooftop Text Chain Was Between Dan Flood and Chief Long, Not Harpole",
       "node_kind": "claim",
       "episode": 97
     },
@@ -48370,7 +48370,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2824",
-      "label": "Harpole's Drone Statement Conflicts with Frank Turek's Account",
+      "label": "Host Says Harpole's Drone Statement Conflicts with Frank Turek's Account",
       "node_kind": "claim",
       "episode": 97
     },
@@ -48510,21 +48510,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2844",
-      "label": "Show Faith by Works LLC is run by Chad Schnitker per FARA filings",
+      "label": "Host Says Show Faith by Works LLC Is Run by Chad Schnitker per FARA Filings",
       "node_kind": "claim",
       "episode": 98
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2845",
-      "label": "Show Faith by Works LLC registered under FARA eight days after Charlie Kirk's assassination",
+      "label": "Host Says Show Faith by Works LLC Registered Under FARA Eight Days After Charlie Kirk's Assassination",
       "node_kind": "claim",
       "episode": 98
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2846",
-      "label": "Show Faith by Works LLC contracted Havoc Media following Charlie Kirk's public funeral",
+      "label": "Host Says Show Faith by Works LLC Was Contracted by Havoc Media Before Charlie Kirk's Public Funeral",
       "node_kind": "claim",
       "episode": 98
     },
@@ -48566,7 +48566,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2852",
-      "label": "Jacob William Roth retweeted the Brian Harpole lawsuit",
+      "label": "Host Says Jacob William Roth Retweeted the Brian Harpole Lawsuit",
       "node_kind": "claim",
       "episode": 98
     },
@@ -48587,7 +48587,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2855",
-      "label": "FARA registration identifies Dhillon Law Group as legal representative of Show Faith by Works LLC",
+      "label": "Host Says FARA Registration Identifies Dhillon Law Group as Legal Representative of Show Faith by Works LLC",
       "node_kind": "claim",
       "episode": 98
     },
@@ -48629,7 +48629,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2861",
-      "label": "Show Faith by Works LLC registered with FARA on September 18, 2025",
+      "label": "Host Says Show Faith by Works LLC Registered with FARA on September 18, 2025",
       "node_kind": "claim",
       "episode": 99
     },
@@ -48643,7 +48643,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2863",
-      "label": "Clock Tower X LLC registered with FARA on September 18, 2025",
+      "label": "Host Says Clock Tower X LLC Registered with FARA on September 18, 2025",
       "node_kind": "claim",
       "episode": 99
     },
@@ -48664,7 +48664,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2866",
-      "label": "Brad Parscale became Chief Strategy Officer of Salem Media Network in January 2025",
+      "label": "Host Says Brad Parscale Became Chief Strategy Officer of Salem Media Network in January 2025",
       "node_kind": "claim",
       "episode": 99
     },
@@ -48692,7 +48692,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2870",
-      "label": "Pam Bondi disbanded the DOJ Foreign Influence Task Force on February 5, 2025",
+      "label": "Host Says Pam Bondi Disbanded the DOJ Foreign Influence Task Force on February 5, 2025",
       "node_kind": "claim",
       "episode": 99
     },
@@ -48720,7 +48720,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2874",
-      "label": "Charlie Kirk sent September 9, 2025 group message declaring departure from pro-Israel cause",
+      "label": "Host Says Charlie Kirk Sent September 9, 2025 Group Message Declaring Departure from Pro-Israel Cause",
       "node_kind": "claim",
       "episode": 99
     },
@@ -48734,7 +48734,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2876",
-      "label": "Project 545 represents a $545 million Israeli propaganda initiative",
+      "label": "Host Says Project 545 Represents a $545 Million Israeli Propaganda Initiative",
       "node_kind": "claim",
       "episode": 99
     },
@@ -48755,28 +48755,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2879",
-      "label": "Community Notes flagged Blake Lively's statement as misleading by omission",
+      "label": "Host Says Community Notes Flagged Blake Lively's Statement as Misleading by Omission",
       "node_kind": "claim",
       "episode": 99
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2880",
-      "label": "Deadpool & Wolverine included \"Nice Pool\" character parodying Justin Baldoni",
+      "label": "Host Says Deadpool & Wolverine Included \"Nice Pool\" Character Parodying Justin Baldoni",
       "node_kind": "claim",
       "episode": 99
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2881",
-      "label": "Deadpool deleted scenes continued Baldoni mockery",
+      "label": "Host Says Deadpool Deleted Scenes Continued Baldoni Mockery",
       "node_kind": "claim",
       "episode": 99
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2882",
-      "label": "Justin Baldoni watched It Ends With Us premiere from theater basement",
+      "label": "Host Says Justin Baldoni Watched It Ends With Us Premiere from Theater Basement",
       "node_kind": "claim",
       "episode": 99
     },
@@ -48860,7 +48860,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2894",
-      "label": "Erika Kirk received honorary doctorate from Hillsdale College",
+      "label": "Host Says Erika Kirk Received Honorary Doctorate from Hillsdale College",
       "node_kind": "claim",
       "episode": 102
     },
@@ -48881,7 +48881,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2897",
-      "label": "Erika Kirk's LinkedIn was upgraded to claim summa cum laude with double degree",
+      "label": "Host Alleges Erika Kirk's LinkedIn Was Upgraded to Claim Summa Cum Laude with Double Degree",
       "node_kind": "claim",
       "episode": 102
     },
@@ -48895,14 +48895,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2899",
-      "label": "Erika Kirk's LinkedIn claimed Doctor of Education from Liberty University",
+      "label": "Host Alleges Erika Kirk's LinkedIn Claimed Doctor of Education from Liberty University",
       "node_kind": "claim",
       "episode": 102
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2901",
-      "label": "Nick Shirley claimed to have infiltrated Brazilian gang in 48 hours",
+      "label": "Host Says Nick Shirley Video Claimed He Infiltrated Brazilian Gang in 48 Hours",
       "node_kind": "claim",
       "episode": 102
     },
@@ -49168,14 +49168,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2939",
-      "label": "Judge Graff Denied Motion to Compel Lance Twiggs In-Person Testimony",
+      "label": "Host Says Judge Graff Denied Motion to Compel Lance Twiggs In-Person Testimony",
       "node_kind": "claim",
       "episode": 120
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2940",
-      "label": "Lance Twiggs Testimony Admitted as Recorded Statement",
+      "label": "Host Says Lance Twiggs Testimony Will Be Admitted as Recorded Statement",
       "node_kind": "claim",
       "episode": 120
     },
@@ -49189,21 +49189,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2942",
-      "label": "Enhanced SUV Shard Images Show White Markings Matching Rode Mic Design",
+      "label": "Host Says Enhanced SUV Shard Images Show White Markings Matching Rode Mic Design",
       "node_kind": "claim",
       "episode": 120
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2943",
-      "label": "Rode Wireless Pro Destruction Video Produces Comparable Shard Pattern",
+      "label": "Host Says Rode Wireless Pro Destruction Video Produces Comparable Shard Pattern",
       "node_kind": "claim",
       "episode": 120
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2944",
-      "label": "Erika Kirk's Signature Changed Dramatically Between Miss Arizona Era and Current",
+      "label": "Host Says Erika Kirk's Signature Changed Dramatically Between Miss Arizona Era and Current",
       "node_kind": "claim",
       "episode": 120
     },
@@ -49273,7 +49273,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2954",
-      "label": "Terrell Farnsworth Video Shows Frank Turek Entering SUV Through Trunk",
+      "label": "Host Says Terrell Farnsworth Video Shows Frank Turek Entering SUV Through Trunk",
       "node_kind": "claim",
       "episode": 121
     },
@@ -49287,7 +49287,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2956",
-      "label": "Car Backseat Photos Show Blood Marks on Brown Paper / Uber Bag",
+      "label": "Host Says Car Backseat Photos Show Blood Marks on Brown Paper / Uber Bag",
       "node_kind": "claim",
       "episode": 121
     },
@@ -49315,7 +49315,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2960",
-      "label": "Semafor Chart Shows Daily Wire Revenue and Subscriber Decline",
+      "label": "Host Says Semafor Chart Shows Daily Wire Revenue and Subscriber Decline",
       "node_kind": "claim",
       "episode": 121
     },
@@ -49364,7 +49364,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2967",
-      "label": "Anonymous Police Source States DA Authorization Required for Evidence Release",
+      "label": "Host Reads Email From Purported Police Source Saying DA Authorization Required for Evidence Release",
       "node_kind": "claim",
       "episode": 121
     },
@@ -49378,7 +49378,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2969",
-      "label": "Photograph series shows multiple young men wearing maroon shirts alone in the September 10 audience",
+      "label": "Host Says Photo Series Shows Multiple Young Men Wearing Maroon Shirts Alone in September 10 Audience",
       "node_kind": "claim",
       "episode": 122
     },
@@ -49504,7 +49504,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2987",
-      "label": "Blood-Marked Uber Bag Visible in Back Seat of Vehicle",
+      "label": "Host Says Blood-Marked Uber Bag Visible in Back Seat of Vehicle",
       "node_kind": "claim",
       "episode": 123
     },
@@ -49518,28 +49518,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2989",
-      "label": "Charlie Kirk's Bloody Sports Coat Returned to Erika Kirk's Apartment Without Evidence Collection",
+      "label": "Host Says Charlie Kirk's Bloody Sports Coat Was Returned to Erika Kirk's Apartment Without Evidence Collection",
       "node_kind": "claim",
       "episode": 123
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2990",
-      "label": "Cardboard-Colored Material Visible in Vehicle",
+      "label": "Host Says Cardboard-Colored Material Visible in Vehicle",
       "node_kind": "claim",
       "episode": 123
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2991",
-      "label": "Foil-Like Material Visible Under Vehicle Floor Mat",
+      "label": "Host Says Foil-Like Material Visible Under Vehicle Floor Mat",
       "node_kind": "claim",
       "episode": 123
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2992",
-      "label": "SantaMedical.com Equipment Identified in Vehicle Photo",
+      "label": "Viewer Comment Host Reads Identifies SantaMedical.com Equipment in Vehicle Photo",
       "node_kind": "claim",
       "episode": 123
     },
@@ -49553,14 +49553,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2994",
-      "label": "Frank Turek and Brian Harpole Did Not Mention Shattered Tempered Glass in Retellings of Car Events",
+      "label": "Host Says Frank Turek and Brian Harpole Did Not Mention Shattered Tempered Glass in Retellings of Car Events",
       "node_kind": "claim",
       "episode": 123
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2995",
-      "label": "TPUSA Staff Removed Poster at Arlington Memorial Referencing Candace Owens as Investigator",
+      "label": "Host Says TPUSA Staff Removed Poster at Arlington Memorial Referencing Candace Owens as Investigator",
       "node_kind": "claim",
       "episode": 123
     },
@@ -49581,7 +49581,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2998",
-      "label": "TPUSA Has Not Publicly Explained How Microphone Glass Ended Up in Vehicle",
+      "label": "Host Says TPUSA Has Not Publicly Explained How Microphone Glass Ended Up in Vehicle",
       "node_kind": "claim",
       "episode": 123
     },
@@ -49595,7 +49595,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3000",
-      "label": "Multiple influencers used identical \"overwhelming\" language",
+      "label": "Host Says Multiple Influencers Used Identical \"Overwhelming\" Language",
       "node_kind": "claim",
       "episode": 124
     },
@@ -49609,7 +49609,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3002",
-      "label": "Pre-hearing narrative asserted Tyler's parents turned him in via confession",
+      "label": "Host Plays Pre-Hearing Clips Asserting Tyler's Parents Turned Him In",
       "node_kind": "claim",
       "episode": 124
     },
@@ -49637,7 +49637,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3006",
-      "label": "Court-displayed car had dual exhaust; Tyler Robinson's actual car had single exhaust",
+      "label": "Host Says Court-Displayed Car Had Dual Exhaust; Tyler Robinson's Actual Car Had Single Exhaust",
       "node_kind": "claim",
       "episode": 124
     },
@@ -49651,14 +49651,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3008",
-      "label": "Exhibit 12.1 differs from 12.4 only by red circles, face blurring, and zoom",
+      "label": "Witness in Hearing Clip Says Exhibit 12.1 Differs from 12.4 Only by Red Circles, Face Blurring, and Zoom",
       "node_kind": "claim",
       "episode": 124
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3009",
-      "label": "Leaked 12.1 footage shows only a pixel running across rooftop",
+      "label": "Host Says Leaked 12.1 Footage Shows Only a Pixel Running Across Rooftop",
       "node_kind": "claim",
       "episode": 124
     },
@@ -49679,7 +49679,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3012",
-      "label": "Tyler Robinson's DNA on the gun was the most degraded of all contributors",
+      "label": "Host Says Tyler Robinson's DNA on the Gun Was the Most Degraded of All Contributors",
       "node_kind": "claim",
       "episode": 124
     },
@@ -49707,21 +49707,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3016",
-      "label": "Tyler-Lance text messages displayed including specific phrases",
+      "label": "Host Displays Tyler-Lance Text Messages Including Specific Phrases",
       "node_kind": "claim",
       "episode": 124
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3017",
-      "label": "Object in SUV Backseat Consistent with Melted Polyester Shirt",
+      "label": "Host Says Object in SUV Backseat Consistent with Melted Polyester Shirt",
       "node_kind": "claim",
       "episode": 125
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3018",
-      "label": "Blake Neff Was on Private Jet to Salt Lake City September 10th",
+      "label": "Host Says Blake Neff Was on Private Jet to Salt Lake City September 10th",
       "node_kind": "claim",
       "episode": 125
     },
@@ -49735,35 +49735,35 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3020",
-      "label": "Blake Neff Identifies Danny Phillip as Possible SUV Passenger",
+      "label": "Clip Has Blake Neff Acknowledging Danny Phillip as Possible SUV Passenger",
       "node_kind": "claim",
       "episode": 125
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3021",
-      "label": "Danny Phillip is Grandson of Thomas Patrick",
+      "label": "Host Says Danny Phillip Is Grandson of Thomas Patrick",
       "node_kind": "claim",
       "episode": 125
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3022",
-      "label": "Stephen Phillip Worked at Bank of America Merrill Lynch Chicago",
+      "label": "Host Says Stephen Phillip Worked at Bank of America Merrill Lynch Chicago",
       "node_kind": "claim",
       "episode": 125
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3023",
-      "label": "Tyler Bowyer's Father Was Major Executive at Bank of America Merrill Lynch",
+      "label": "Host Says Tyler Bowyer's Father Was Major Executive at Bank of America Merrill Lynch",
       "node_kind": "claim",
       "episode": 125
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3024",
-      "label": "Dennis Franks Bay Worked at Bank of America Merrill Lynch Chicago",
+      "label": "Host Says Dennis Franks Bay Worked at Bank of America Merrill Lynch Chicago",
       "node_kind": "claim",
       "episode": 125
     },
@@ -49791,14 +49791,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3028",
-      "label": "UVU Communicated Discontinuation of Testing to FBI",
+      "label": "Clip Shows Sergeant Filomena Acknowledging UVU Communicated Discontinuation of Testing to FBI",
       "node_kind": "claim",
       "episode": 126
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3029",
-      "label": "Eyewitness Observed Tactical Movement Pattern on Rooftop",
+      "label": "Anonymous Eyewitness Says Rooftop Person Used Tactical Movement Pattern",
       "node_kind": "claim",
       "episode": 126
     },
@@ -49994,7 +49994,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3057",
-      "label": "Brian Harpole did not personally identify himself as the 911 caller",
+      "label": "Host Says Brian Harpole Did Not Personally Identify Himself as the 911 Caller",
       "node_kind": "claim",
       "episode": 127
     },
@@ -50022,7 +50022,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3061",
-      "label": "Kash Patel and Bo Mason did not intervene during Governor Cox's clothing statement",
+      "label": "Host Says Kash Patel and Bo Mason Did Not Intervene During Governor Cox's Clothing Statement",
       "node_kind": "claim",
       "episode": 128
     },
@@ -50036,21 +50036,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3063",
-      "label": "Sgt. Jennifer Faumuina appeared on Netflix's *Worst Roommate Ever* referencing JTTF work",
+      "label": "Host Says Sgt. Jennifer Faumuina Appeared on Netflix's Worst Roommate Ever Referencing JTTF Work",
       "node_kind": "claim",
       "episode": 128
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3064",
-      "label": "Jennifer Faumuina played basketball at a Hawaii private school in 2003",
+      "label": "Host Says Jennifer Faumuina Played Basketball at a Hawaii Private School in 2003",
       "node_kind": "claim",
       "episode": 128
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3065",
-      "label": "Jennifer Faumuina graduated from Weber State University in 2008",
+      "label": "Host Says Jennifer Faumuina Graduated from Weber State University in 2008",
       "node_kind": "claim",
       "episode": 128
     },
@@ -50071,7 +50071,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3068",
-      "label": "Jennifer Faumuina appears in Utah DPS paid records beginning 2018",
+      "label": "Host Says Jennifer Faumuina Appears in Utah DPS Paid Records Beginning in 2018",
       "node_kind": "claim",
       "episode": 128
     },
@@ -50085,35 +50085,35 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3070",
-      "label": "Faumuina and Mason photographed together at her 2023 sergeant swearing-in",
+      "label": "Host Says Faumuina and Mason Were Photographed Together at Her 2023 Sergeant Swearing-In",
       "node_kind": "claim",
       "episode": 128
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3071",
-      "label": "Bo Mason was appointed Utah DPS Commissioner on June 19, 2025",
+      "label": "Host Says Bo Mason Was Appointed Utah DPS Commissioner on June 19, 2025",
       "node_kind": "claim",
       "episode": 128
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3072",
-      "label": "Andrew Zenger was appointed Timpanogos Hospital CEO on August 18, 2025",
+      "label": "Host Says Andrew Zenger Was Appointed Timpanogos Hospital CEO on August 18, 2025",
       "node_kind": "claim",
       "episode": 128
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3073",
-      "label": "Judge Tony Graff was appointed in May 2025",
+      "label": "Host Says Judge Tony Graff Was Appointed in May 2025",
       "node_kind": "claim",
       "episode": 128
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3074",
-      "label": "Robert Bowles assumed leadership of FBI Salt Lake City on September 2, 2025",
+      "label": "Host Says Robert Bowles Assumed Leadership of FBI Salt Lake City on September 2, 2025",
       "node_kind": "claim",
       "episode": 128
     },
@@ -50232,14 +50232,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3091",
-      "label": "Second new photograph shows a clearer view of the backseat object previously described by some viewers as a burned shirt",
+      "label": "Host Presents Second New Photograph She Says Shows a Clearer View of the Backseat Object",
       "node_kind": "claim",
       "episode": 129
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3092",
-      "label": "Mikey McCoy's call logs show a sequence: call to Rob McCoy → three-way merge with Elizabeth McCoy → 10-minute call with Danny Philip",
+      "label": "Host Says Mikey McCoy's Call Logs Show a Sequence: Call to Rob McCoy, Three-Way Merge with Elizabeth McCoy, 10-Minute Call with Danny Philip",
       "node_kind": "claim",
       "episode": 129
     },
@@ -50260,14 +50260,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3095",
-      "label": "Blake Neff arrived at the hospital in the second SUV driven by (or carrying) Danny Philip",
+      "label": "Host Says Blake Neff Arrived at the Hospital in the Second SUV with Danny Philip",
       "node_kind": "claim",
       "episode": 129
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3096",
-      "label": "Danny Philip and Mikey McCoy were both present at the September 10 event and were party to a 10-minute phone call in the immediate aftermath",
+      "label": "Host Says Danny Philip and Mikey McCoy Were Both at the September 10 Event and Were Party to a 10-Minute Call in the Aftermath",
       "node_kind": "claim",
       "episode": 129
     },
@@ -50463,7 +50463,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3124",
-      "label": "Older Charlie Kirk Text – \"The War Is On / Snakes in the Garden\"",
+      "label": "Host Shows Older Charlie Kirk Text: \"The War Is On / Snakes in the Garden\"",
       "node_kind": "claim",
       "episode": 131
     },
@@ -50652,7 +50652,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3151",
-      "label": "Rooftop footage shows no clearly visible muzzle flash",
+      "label": "Host Says Rooftop Footage Shows No Clearly Visible Muzzle Flash",
       "node_kind": "claim",
       "episode": 133
     },
@@ -50666,7 +50666,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3153",
-      "label": "A back-and-forth flash is visible during the rooftop crawl",
+      "label": "Host Says a Back-and-Forth Flash Is Visible During the Rooftop Crawl",
       "node_kind": "claim",
       "episode": 133
     },
@@ -50946,7 +50946,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3193",
-      "label": "SUV glove pocket was empty when Charlie Kirk exited the vehicle at UVU",
+      "label": "Host Says SUV Glove Pocket Was Empty When Charlie Kirk Exited the Vehicle at UVU",
       "node_kind": "claim",
       "episode": 136
     },
@@ -50974,14 +50974,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3197",
-      "label": "Plainclothes man on rooftop had a badge and a handgun",
+      "label": "Officer Bagley Testifies Plainclothes Man on Rooftop Had a Badge and a Handgun",
       "node_kind": "claim",
       "episode": 136
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3198",
-      "label": "Bystander footage at 12:47 PM shows Officer Bagley and a second plainclothes man on the Losi rooftop",
+      "label": "Host Says Bystander Footage at 12:47 PM Shows Officer Bagley and a Second Plainclothes Man on the Losi Rooftop",
       "node_kind": "claim",
       "episode": 136
     },
@@ -51009,21 +51009,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3202",
-      "label": "Allan Robertson was a US Marine Corps marksmanship instructor at Camp Pendleton, 2009–2014",
+      "label": "Host Says Allan Robertson Was a US Marine Corps Marksmanship Instructor at Camp Pendleton, 2009–2014",
       "node_kind": "claim",
       "episode": 136
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3203",
-      "label": "Allan E. Robertson has an entry on the Brady List website",
+      "label": "Host Says Brady List Website Has an Entry for Allan E. Robertson",
       "node_kind": "claim",
       "episode": 136
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3204",
-      "label": "San Bernardino Police Department is listed as not in compliance with Brady disclosure obligations",
+      "label": "Host Says Brady List Website Lists San Bernardino PD as Not in Compliance with Brady Disclosure Obligations",
       "node_kind": "claim",
       "episode": 136
     },
@@ -51100,7 +51100,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3215",
-      "label": "Andrew Kolvet appeared on Benny Johnson's show from a room at the Asher Adams Hotel in Salt Lake City on Sept 11, 2025",
+      "label": "Host Says Andrew Kolvet Appeared on Benny Johnson's Show from a Room at the Asher Adams Hotel in Salt Lake City on Sept 11, 2025",
       "node_kind": "claim",
       "episode": 137
     },
@@ -51163,7 +51163,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3224",
-      "label": "Lance's Phone Has a Damaged Screen Where the Timestamp Would Appear",
+      "label": "Host Says Lance's Phone Has a Damaged Screen Where the Timestamp Would Appear",
       "node_kind": "claim",
       "episode": 138
     },
@@ -51184,7 +51184,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3227",
-      "label": "Perez Hilton Was Transported to a Local Hospital by Miami-Dade Fire Rescue",
+      "label": "Sheriff's Office Statement the Host Reads Says Perez Hilton Was Taken to a Local Hospital by Miami-Dade Fire Rescue",
       "node_kind": "claim",
       "episode": 138
     },
@@ -51303,21 +51303,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3244",
-      "label": "Lance Twiggs snowboarding photo shows left-hand landing",
+      "label": "Host Says Lance Twiggs Snowboarding Photo Shows Left-Hand Landing",
       "node_kind": "claim",
       "episode": 139
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3245",
-      "label": "Lance Twiggs fuels with left hand in Texas photo",
+      "label": "Host Says Lance Twiggs Fuels with Left Hand in Texas Photo",
       "node_kind": "claim",
       "episode": 139
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3246",
-      "label": "Lance Twiggs childhood piano video shows watch on right hand and left-hand page turn",
+      "label": "Host Says Lance Twiggs Childhood Piano Video Shows Watch on Right Hand and Left-Hand Page Turn",
       "node_kind": "claim",
       "episode": 139
     },
@@ -51331,7 +51331,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3248",
-      "label": "UVU staircase maroon-shirt person used left hand for phone, left pocket",
+      "label": "Host Says UVU Staircase Maroon-Shirt Person Used Left Hand for Phone and Left Pocket",
       "node_kind": "claim",
       "episode": 139
     },
@@ -51359,7 +51359,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3252",
-      "label": "Matt Walsh replied to Joel Barry noting Republican inconsistency on affordability",
+      "label": "Per Post the Host Reads, Matt Walsh Told Joel Barry Republicans Were Inconsistent on Affordability",
       "node_kind": "claim",
       "episode": 139
     },
@@ -51373,14 +51373,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3254",
-      "label": "Blake Neff shared WEF chart claiming US spends least on food",
+      "label": "Per Post the Host Reads, Blake Neff Shared WEF Chart Claiming US Spends Least on Food",
       "node_kind": "claim",
       "episode": 139
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3255",
-      "label": "Daily Wire trailer depicts anti-Islam war narrative",
+      "label": "Host Plays Daily Wire Trailer That Ben Shapiro Introduced as Telling the Story of Radical Islam",
       "node_kind": "claim",
       "episode": 139
     },
@@ -51436,7 +51436,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3263",
-      "label": "Media initially presented Tyler Robinson predominantly in maroon shirts",
+      "label": "Host Says Media Initially Presented Tyler Robinson Predominantly in Maroon Shirts",
       "node_kind": "claim",
       "episode": 140
     },
@@ -51464,7 +51464,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3267",
-      "label": "George Zinn had a walkie-talkie / iPhone-like device visible during arrest",
+      "label": "Host Says George Zinn Had a Walkie-Talkie / iPhone-Like Device Visible During Arrest",
       "node_kind": "claim",
       "episode": 140
     },
@@ -51478,7 +51478,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3269",
-      "label": "Britta Widener (No Soup For You account) is approximately 45 years old",
+      "label": "Host Says Britta Widener (No Soup For You Account) Is Approximately 45 Years Old",
       "node_kind": "claim",
       "episode": 140
     },
@@ -51534,7 +51534,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3277",
-      "label": "Wilson Opened Debate by Reading From His Phone About \"Never-Before-Seen Messages\"",
+      "label": "Wilson Opened Debate by Reading From His Phone About \"Never-Before-Seen Messages,\" Per Clip Host Plays",
       "node_kind": "claim",
       "episode": 141
     },
@@ -51555,7 +51555,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3280",
-      "label": "Wilson Repeatedly Used the Phrase \"Positive Evidence\" During the Debate",
+      "label": "Host Says Wilson Repeatedly Used the Phrase \"Positive Evidence\" During the Debate",
       "node_kind": "claim",
       "episode": 141
     },
@@ -51576,7 +51576,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3283",
-      "label": "Poly Market Odds on Tyler Robinson Conviction Dropped During the Debate",
+      "label": "Host Says Poly Market Odds on Tyler Robinson Conviction Dropped During the Debate",
       "node_kind": "claim",
       "episode": 141
     },
@@ -51618,14 +51618,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3289",
-      "label": "Wilson's Opening Statement Included the Claim \"I Have His Cell Phone\"",
+      "label": "In Clip Host Plays, Wilson's Opening Statement Included \"I Have His Cell Phone\"",
       "node_kind": "claim",
       "episode": 141
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3290",
-      "label": "Terrell Farnsworth Used Google Drive to Send Four Videos to SBI on September 10",
+      "label": "Per 1102 Statement Host Shows, Terrell Farnsworth Used Google Drive to Send Four Videos to SBI on September 10",
       "node_kind": "claim",
       "episode": 142
     },
@@ -51646,7 +51646,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3293",
-      "label": "Back-Camera Footage on September 10 Was Zoomed In Versus Wide-Angle Convention",
+      "label": "In Clip Host Plays, YouTuber Nissi Says Back-Camera Footage on September 10 Was Zoomed In Versus Wide-Angle Convention",
       "node_kind": "claim",
       "episode": 142
     },
@@ -51681,14 +51681,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3298",
-      "label": "Joe Rogan Panel Discussed Perspective Distortion in Published Tyler Robinson Photo",
+      "label": "Per Rogan Clip Host Plays, Published Tyler Robinson Photo Showed Perspective Distortion",
       "node_kind": "claim",
       "episode": 142
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3299",
-      "label": "WearForbidden Produced \"Positive Evidence\" / Pickle Pup Parody Video",
+      "label": "Host Presents WearForbidden Video Parodying \"Positive Evidence\" / Pickle Pup",
       "node_kind": "claim",
       "episode": 142
     },
@@ -51772,7 +51772,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3311",
-      "label": "Where Forbidden Account Published a Matrix-Parody Video Repeating \"So What?\" Against Tyler Robinson Case Argumentation Standards",
+      "label": "Host Plays Where Forbidden Matrix-Parody Video Repeating \"So What?\" Against Tyler Robinson Case Argumentation Standards",
       "node_kind": "claim",
       "episode": 143
     },
@@ -51786,21 +51786,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3313",
-      "label": "Terrell accessed an SD card on his laptop at the crime scene",
+      "label": "Host Says Terrell Accessed an SD Card on His Laptop at the Crime Scene",
       "node_kind": "claim",
       "episode": 144
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3314",
-      "label": "Terrell showed laptop content to Philip Goldsbury shortly after the shooting",
+      "label": "Host Says Footage Shows Terrell Showing Laptop Content to Philip Goldsbury Shortly After the Shooting",
       "node_kind": "claim",
       "episode": 144
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3315",
-      "label": "Terrell never provided the original SD card to investigators",
+      "label": "In Clip Host Plays, Ana Kasparian Says Terrell Never Provided the Original SD Card to Investigators",
       "node_kind": "claim",
       "episode": 144
     },
@@ -51821,7 +51821,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3318",
-      "label": "The 20-minute sizzle reel has a decreased (modified) aspect ratio",
+      "label": "Host Says the 20-Minute Sizzle Reel Has a Decreased (Modified) Aspect Ratio",
       "node_kind": "claim",
       "episode": 144
     },
@@ -51982,14 +51982,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3341",
-      "label": "TPUSA Announced \"Love It or Leave It\" Tour Featuring Daily Wire Personalities",
+      "label": "Host Says TPUSA Announced \"Love It or Leave It\" Tour Featuring Daily Wire Personalities",
       "node_kind": "claim",
       "episode": 145
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3342",
-      "label": "Lively CCRD Filing Accused Jamie Heath of Showing Pornography on Set",
+      "label": "Per CCRD Filing Host Reads, Lively Accused Jamie Heath of Showing Pornography on Set",
       "node_kind": "claim",
       "episode": 145
     },
@@ -52045,7 +52045,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3350",
-      "label": "Jack Hibbs initially confused Charlie Kirk with a relative named \"cousin Charlie\"",
+      "label": "In Clip Host Plays, Jack Hibbs Says He Initially Confused Charlie Kirk With a Relative Named \"Cousin Charlie\"",
       "node_kind": "claim",
       "episode": 146
     },
@@ -52059,7 +52059,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3352",
-      "label": "Butch Hibbs was on a phone call approximately five minutes after the shooting, not visibly distressed",
+      "label": "Host Says Butch Hibbs Was on a Phone Call About Five Minutes After the Shooting, Not Visibly Distressed",
       "node_kind": "claim",
       "episode": 146
     },
@@ -52073,7 +52073,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3354",
-      "label": "Judge Graph was the magistrate presiding over the Tyler Robinson preliminary hearing decision on the broadcast date",
+      "label": "Host Says Judge Graph Was to Rule on Tyler Robinson Preliminary Hearing Decision on the Broadcast Date",
       "node_kind": "claim",
       "episode": 146
     },
@@ -52087,28 +52087,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3356",
-      "label": "Erika Kirk, Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Cadis were present at the courthouse on the decision day",
+      "label": "Host Says Erika Kirk, Charlie Kirk's Parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Cadis Were at the Courthouse on Decision Day",
       "node_kind": "claim",
       "episode": 146
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3357",
-      "label": "Judge Graff issued bindover ruling after preliminary hearing",
+      "label": "Host Says Judge Graff Issued Bindover Ruling After Preliminary Hearing",
       "node_kind": "claim",
       "episode": 147
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3358",
-      "label": "Judge Graff declined to dismiss Count 6 (witness tampering)",
+      "label": "Host Says Judge Graff Declined to Dismiss Count 6 (Witness Tampering)",
       "node_kind": "claim",
       "episode": 147
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3359",
-      "label": "Judge acknowledged \"ask for a lawyer and stay silent\" advice is constitutionally lawful",
+      "label": "In Ruling Clip Host Plays, Judge Says \"Ask for a Lawyer and Stay Silent\" Advice Is Lawful Standing Alone",
       "node_kind": "claim",
       "episode": 147
     },
@@ -52122,21 +52122,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3361",
-      "label": "Judge tied Count 6 survival to the existence of Count 5",
+      "label": "Host Says Judge Tied Count 6 Survival to the Existence of Count 5",
       "node_kind": "claim",
       "episode": 147
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3362",
-      "label": "Tyler Robinson pleaded not guilty to all counts",
+      "label": "In Arraignment Clip Host Plays, Tyler Robinson Pleads Not Guilty to All Counts",
       "node_kind": "claim",
       "episode": 147
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3363",
-      "label": "Defense waived reading of the information at arraignment",
+      "label": "In Arraignment Clip Host Plays, Defense Waives Reading of the Information",
       "node_kind": "claim",
       "episode": 147
     },
@@ -52157,7 +52157,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3366",
-      "label": "Mikey McCoy's hand remained at his ear throughout the post-shot sequence",
+      "label": "Host Says Mikey McCoy's Hand Remained at His Ear Throughout the Post-Shot Sequence",
       "node_kind": "claim",
       "episode": 147
     },
@@ -52178,14 +52178,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3369",
-      "label": "Christopher and Nate Walker were upstairs near the Sorensen building minutes before the shot",
+      "label": "Host Says Christopher and Nate Walker Were Upstairs Near the Sorensen Building Minutes Before the Shot",
       "node_kind": "claim",
       "episode": 147
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3370",
-      "label": "Christopher's absence from the vehicle preceded the shot by minutes",
+      "label": "Host Says Christopher's Absence From the Vehicle Preceded the Shot by Minutes",
       "node_kind": "claim",
       "episode": 147
     },
@@ -52199,7 +52199,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3372",
-      "label": "UVU security vehicles arrived between 9:00 and 9:30 a.m. on 9/10",
+      "label": "Host Says UVU Security Vehicles Arrived Between 9:00 and 9:30 a.m. on 9/10",
       "node_kind": "claim",
       "episode": 147
     },
@@ -52248,21 +52248,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3379",
-      "label": "Defense counsel framed his argument as a citation of the state's own theory",
+      "label": "Host Says Defense Counsel Framed His Argument as a Citation of the State's Own Theory",
       "node_kind": "claim",
       "episode": 147
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3380",
-      "label": "State is pursuing sentence enhancement based on political motivation",
+      "label": "Host Says State Is Pursuing Sentence Enhancement Based on Political Motivation",
       "node_kind": "claim",
       "episode": 147
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3381",
-      "label": "State has not identified specific Kirk statements alleged to be \"hateful\"",
+      "label": "Host Says State Has Not Identified Specific Kirk Statements Alleged to Be \"Hateful\"",
       "node_kind": "claim",
       "episode": 147
     },
@@ -52276,7 +52276,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3383",
-      "label": "State's theory turns in part on Twiggs's intermittent non-gender-conforming identification",
+      "label": "Per Defense Filing Host Reads, State's Theory Turns in Part on Twiggs's Intermittent Non-Gender-Conforming Identification",
       "node_kind": "claim",
       "episode": 147
     },
@@ -52388,14 +52388,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3399",
-      "label": "Erika Kirk's Op-Ed Recounts Telling Second Lady Usha Vance \"I Don't Know How I'm Going to Do This\"",
+      "label": "Per Op-Ed Host Reads, Erika Kirk Recounts Telling Second Lady Usha Vance \"I Don't Know How I'm Going to Do This\"",
       "node_kind": "claim",
       "episode": 148
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3400",
-      "label": "Erika Kirk's Op-Ed Cites Usha Vance's \"15 Minutes\" Airplane Analogy About Grief",
+      "label": "Per Op-Ed Host Reads, Erika Kirk Cites Usha Vance's \"15 Minutes\" Airplane Analogy About Grief",
       "node_kind": "claim",
       "episode": 148
     },
@@ -52409,7 +52409,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3402",
-      "label": "Erika Kirk's Op-Ed Closes With Reference to \"A Dear Friend\" Telling Her to \"Just Get Through the Next 15 Minutes\"",
+      "label": "Per Op-Ed Host Reads, Erika Kirk Closes With Reference to \"A Dear Friend\" Telling Her to \"Just Get Through the Next 15 Minutes\"",
       "node_kind": "claim",
       "episode": 148
     },
@@ -52675,7 +52675,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3440",
-      "label": "Terrell Farnsworth observed on laptop in Mercedes Sprinter van at ~1:00 PM",
+      "label": "Host Says Terrell Farnsworth Was on a Laptop in a Mercedes Sprinter Van at About 1:00 PM",
       "node_kind": "claim",
       "episode": 151
     },
@@ -52689,7 +52689,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3442",
-      "label": "TPUSA / affiliates claimed statue vandalized with red paint on September 13",
+      "label": "Host Says TPUSA / Affiliates Claimed Statue Vandalized with Red Paint on September 13",
       "node_kind": "claim",
       "episode": 151
     },
@@ -52717,63 +52717,63 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3446",
-      "label": "Judge Graph self-reports 95% of work as sex crimes prosecution",
+      "label": "Clip Has Judge Graph Saying 95% of His Work Is Sex Crimes Prosecution",
       "node_kind": "claim",
       "episode": 152
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3447",
-      "label": "Mike Mitchell was an undercover detective specializing in internet sex crimes against children",
+      "label": "Host Says Mike Mitchell Was an Undercover Detective Specializing in Internet Sex Crimes Against Children",
       "node_kind": "claim",
       "episode": 152
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3448",
-      "label": "Officer Christopher Bagley previously worked child sex crimes at Utah County Sheriff's Office",
+      "label": "Host Says Officer Christopher Bagley Previously Worked Child Sex Crimes at Utah County Sheriff's Office",
       "node_kind": "claim",
       "episode": 152
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3449",
-      "label": "George Zinn had child pornography pertaining to a 5-year-old on his phone",
+      "label": "Host Says George Zinn Had Child Pornography Pertaining to a 5-Year-Old on His Phone",
       "node_kind": "claim",
       "episode": 152
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3450",
-      "label": "Michael George Carl signed the first six search warrants in the Charlie Kirk case",
+      "label": "Host Says Michael George Carl Signed the First Six Search Warrants in the Charlie Kirk Case",
       "node_kind": "claim",
       "episode": 152
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3451",
-      "label": "Michael George Carl's primary assignment is cyber crimes against youth / SVU",
+      "label": "Clip Has Baron Coleman Saying Michael George Carl's Primary Assignment Is Cyber Crimes Against Youth / SVU",
       "node_kind": "claim",
       "episode": 152
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3452",
-      "label": "A Utah ICAC officer took Mikey McCoy's statement on September 10",
+      "label": "Host Says a Utah ICAC Officer Took Mikey McCoy's Statement on September 10",
       "node_kind": "claim",
       "episode": 152
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3453",
-      "label": "ICAC unit is administratively controlled by the Utah Attorney General's Office",
+      "label": "Host Says ICAC Unit Is Administratively Controlled by the Utah Attorney General's Office",
       "node_kind": "claim",
       "episode": 152
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3454",
-      "label": "The ICAC program was established by the U.S. Department of Justice in 1998",
+      "label": "Host Says the ICAC Program Was Established by the U.S. Department of Justice in 1998",
       "node_kind": "claim",
       "episode": 152
     },
@@ -52787,7 +52787,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3456",
-      "label": "David Leavitt was named in a 151-page victim statement related to a 1990–2010 ritual child abuse / cannibalism investigation in Utah",
+      "label": "Host Says David Leavitt Was Named in a 151-Page Victim Statement Related to a 1990-2010 Ritual Child Abuse / Cannibalism Investigation in Utah",
       "node_kind": "claim",
       "episode": 152
     },
@@ -52808,7 +52808,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3459",
-      "label": "Robert Kraft lobbied for Macklemore's removal from the Ed Sheeran tour",
+      "label": "Host Alleges Robert Kraft Lobbied for Macklemore's Removal from the Ed Sheeran Tour",
       "node_kind": "claim",
       "episode": 152
     },
@@ -52822,21 +52822,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3461",
-      "label": "Mike Mitchell convinced the Robinson household to turn Tyler Robinson in despite Robinson's denial of murder",
+      "label": "Host Says Mike Mitchell Convinced the Robinson Household to Turn Tyler Robinson In Despite Robinson's Denial of Murder",
       "node_kind": "claim",
       "episode": 152
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3462",
-      "label": "Officer Bagley's body cam footage went off approximately 25 minutes after activation",
+      "label": "Host Says Officer Bagley's Body Cam Footage Went Off Approximately 25 Minutes After Activation",
       "node_kind": "claim",
       "episode": 152
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3463",
-      "label": "George Zinn was sentenced for child sex crimes after his arrest on September 10",
+      "label": "Host Says George Zinn Was Sentenced for Child Sex Crimes After His Arrest on September 10",
       "node_kind": "claim",
       "episode": 152
     },
@@ -52857,7 +52857,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3467",
-      "label": "UVU Launched Independent External Review September 22, 2025",
+      "label": "Article the Host Reads Says UVU Launched Independent External Review September 22, 2025",
       "node_kind": "claim",
       "episode": 153
     },
@@ -52871,14 +52871,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3469",
-      "label": "Security Team Credentials Presented by Harpole on Shawn Ryan Show",
+      "label": "Clip Has Shawn Ryan Reading Harpole's Security Team Credentials",
       "node_kind": "claim",
       "episode": 153
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3470",
-      "label": "Charlie's Security Team Comprised 12 Members",
+      "label": "Host Says Charlie's Security Team Comprised 12 Members",
       "node_kind": "claim",
       "episode": 153
     },
@@ -52934,14 +52934,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3478",
-      "label": "Bodycam Footage Released Seven Days After Suspect Identification",
+      "label": "Host Says Bodycam Footage Was Released Seven Days After Suspect Identification",
       "node_kind": "claim",
       "episode": 153
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3479",
-      "label": "Bodycam Footage Dated May 31, 2022",
+      "label": "Host Says Bodycam Footage Is Dated May 31, 2022",
       "node_kind": "claim",
       "episode": 153
     },
@@ -52955,70 +52955,70 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3481",
-      "label": "Scripps News Founded 2022; Founder Jim Spencer",
+      "label": "Host Says Scripps News Was Founded in 2022 by Jim Spencer",
       "node_kind": "claim",
       "episode": 153
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3482",
-      "label": "Jim Spencer Teaches Digital Media at UT Austin Since 2018",
+      "label": "Host Says Jim Spencer Has Taught Digital Media at UT Austin Since 2018",
       "node_kind": "claim",
       "episode": 153
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3483",
-      "label": "Bodycam Footage Recorded by St. George Police Department",
+      "label": "Host Says Bodycam Footage Was Recorded by St. George Police Department",
       "node_kind": "claim",
       "episode": 153
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3484",
-      "label": "Tyler Robinson Was 19 at Time of 2022 Incident",
+      "label": "Host Says Tyler Robinson Was 19 at Time of 2022 Incident",
       "node_kind": "claim",
       "episode": 153
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3485",
-      "label": "UVU Has Approximately 50,000 Students",
+      "label": "Host Says UVU Has Approximately 50,000 Students",
       "node_kind": "claim",
       "episode": 153
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3486",
-      "label": "UVU Has 24 Police Officers",
+      "label": "Host Says UVU Has 24 Police Officers",
       "node_kind": "claim",
       "episode": 153
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3487",
-      "label": "Event Scheduled at Amphitheater After Maycee Crofts Demand on August 25, 2025",
+      "label": "Host Says Event Was Scheduled at Amphitheater After Maycee Crofts Demand on August 25, 2025",
       "node_kind": "claim",
       "episode": 153
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3488",
-      "label": "UVU EMS Was on Scene with First Responders",
+      "label": "Host Says UVU EMS Was on Scene with First Responders",
       "node_kind": "claim",
       "episode": 153
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3489",
-      "label": "UVU Independent Review Findings Expected Imminently",
+      "label": "Host Says UVU Independent Review Findings Were Expected Imminently",
       "node_kind": "claim",
       "episode": 153
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3490",
-      "label": "Charlie's Security Arrived at 9:00 AM Morning of Event",
+      "label": "Host Says Charlie's Security Arrived at 9:00 AM Morning of Event",
       "node_kind": "claim",
       "episode": 153
     },
@@ -53046,21 +53046,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3494",
-      "label": "TPUSA UVU Chapter Declined On-Site Ambulance",
+      "label": "Host Says TPUSA UVU Chapter Declined On-Site Ambulance",
       "node_kind": "claim",
       "episode": 154
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3495",
-      "label": "UVU Attendance Estimate Progression 200 → 600 → 1,500 → ~3,000",
+      "label": "Per ABC News Report, UVU Attendance Estimate Progressed 200 to 600 to 1,500 to About 3,000",
       "node_kind": "claim",
       "episode": 154
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3496",
-      "label": "TPUSA Framed UVU Event As Open-To-Public / Unticketed Prove Me Wrong Format",
+      "label": "TPUSA Statement to ABC News Framed UVU Event as Open-to-Public / Unticketed Prove Me Wrong Format",
       "node_kind": "claim",
       "episode": 154
     },
@@ -53081,14 +53081,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3499",
-      "label": "Charlie Kirk's Club America Vision Was Opt-In / Grassroots / Debate-Club Parallel",
+      "label": "Clip Has Charlie Kirk Describing Club America as Opt-In / Grassroots / Debate-Club Parallel",
       "node_kind": "claim",
       "episode": 154
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3500",
-      "label": "Erika Kirk Spoke At Nampa Christian School Assembly; Students Were Not Opt-In Participants",
+      "label": "Host Says Erika Kirk Spoke at Nampa Christian School Assembly Where Students Were Not Opt-In Participants",
       "node_kind": "claim",
       "episode": 154
     },
@@ -53102,7 +53102,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3502",
-      "label": "Andrew Kolvet Cited Three Opt-Outs As Evidence Of Voluntary Participation",
+      "label": "Per Kolvet's X Reply, Three Students Opted Out of Nampa Assembly",
       "node_kind": "claim",
       "episode": 154
     },
@@ -53130,7 +53130,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3506",
-      "label": "Tucker Carlson Criticized Blake Neff's \"Make Our Peace With Censorship\" Framing",
+      "label": "Clip Has Tucker Carlson Criticizing Blake Neff's \"Make Our Peace With Censorship\" Framing",
       "node_kind": "claim",
       "episode": 154
     },
@@ -53144,21 +53144,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3508",
-      "label": "Empress Films Founded By Emma Cooper In 2020",
+      "label": "Host Says Empress Films Was Founded by Emma Cooper in 2020",
       "node_kind": "claim",
       "episode": 154
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3509",
-      "label": "Empress Films Production Focus Includes True Crime / Murder Mystery Content",
+      "label": "Host Says Empress Films' Production Focus Includes True Crime / Murder Mystery Content",
       "node_kind": "claim",
       "episode": 154
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3510",
-      "label": "August 28, 2025 Call Between Erika Kirk / Andrew Kolvet / Empress Films Executives",
+      "label": "Host Says Erika Kirk and Andrew Kolvet Had an August 28, 2025 Call with Empress Films Executives",
       "node_kind": "claim",
       "episode": 154
     },
@@ -53256,28 +53256,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3524",
-      "label": "Two Grey Dodge Challengers Arrived on UVU Campus Within ~20 Minutes of One Another",
+      "label": "Host Says Two Grey Dodge Challengers Arrived on UVU Campus Within About 20 Minutes of One Another",
       "node_kind": "claim",
       "episode": 155
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3525",
-      "label": "\"Waluigi\" Vehicle Driver Made Multiple Parking Attempts in Empty Lot",
+      "label": "Host Says \"Waluigi\" Vehicle Driver Made Multiple Parking Attempts in Empty Lot",
       "node_kind": "claim",
       "episode": 155
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3526",
-      "label": "\"Maroon Boy\" Vehicle Parked at Top of UVU Structure for ~8 Minutes Before Relocating",
+      "label": "Host Says \"Maroon Boy\" Vehicle Parked at Top of UVU Structure for About 8 Minutes Before Relocating",
       "node_kind": "claim",
       "episode": 155
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3527",
-      "label": "TMZ Footage at 8:07 AM Shows Robinson Already Parked Off Campus",
+      "label": "Host Says TMZ Footage at 8:07 AM Shows Robinson Already Parked Off Campus",
       "node_kind": "claim",
       "episode": 155
     },
@@ -53291,7 +53291,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3529",
-      "label": "Hull Preliminary Hearing Testimony Omitted the 8-Minute Top-of-Structure Stop and Revised the On-Campus Timeline",
+      "label": "Host Alleges Hull Preliminary Hearing Testimony Omitted the 8-Minute Top-of-Structure Stop and Revised the On-Campus Timeline",
       "node_kind": "claim",
       "episode": 155
     },
@@ -53305,21 +53305,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3531",
-      "label": "Person by van in tent footage is not UVU club president Caleb Chilcutt",
+      "label": "Host Says Person by Van in Tent Footage Is Not UVU Club President Caleb Chilcutt",
       "node_kind": "claim",
       "episode": 156
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3532",
-      "label": "Tyler Robinson's towed 2013 Dodge Challenger displays a dual exhaust system",
+      "label": "Host Says Tyler Robinson's Towed 2013 Dodge Challenger Displays a Dual Exhaust System",
       "node_kind": "claim",
       "episode": 156
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3533",
-      "label": "Parking garage Challenger displays a quad exhaust system across multiple floors",
+      "label": "Host Says Parking Garage Challenger Displays a Quad Exhaust System Across Multiple Floors",
       "node_kind": "claim",
       "episode": 156
     },
@@ -53333,7 +53333,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3535",
-      "label": "Search warrant attributes a Google Maps route from Mountain Shadows Shopping Center to Quick Quack Car Wash to Tyler Robinson's cell phone",
+      "label": "Host Says Search Warrant Attributes Google Maps Route to Quick Quack Car Wash to Tyler Robinson's Cell Phone",
       "node_kind": "claim",
       "episode": 156
     },
@@ -53347,7 +53347,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3537",
-      "label": "UN delegates walked out during Netanyahu's UN General Assembly address",
+      "label": "Host Says UN Delegates Walked Out During Netanyahu's UN General Assembly Address",
       "node_kind": "claim",
       "episode": 156
     },
@@ -53389,21 +53389,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3543",
-      "label": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
+      "label": "Host Says Security Team Member Previously Identified as Chester Barnes Is Actually Derek Pepper Williams",
       "node_kind": "claim",
       "episode": 149
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3544",
-      "label": "Derek Pepper Williams worked for PGL (Perimeter Global Logistics) as a government defense contractor",
+      "label": "Host Says Derek Pepper Williams Worked for PGL (Perimeter Global Logistics) as a Government Defense Contractor",
       "node_kind": "claim",
       "episode": 149
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3545",
-      "label": "Four TPUSA team members on September 10 had families in global freight/trucking/shipping",
+      "label": "Host Says Four TPUSA Team Members on September 10 Had Families in Global Freight/Trucking/Shipping",
       "node_kind": "claim",
       "episode": 149
     },
@@ -53438,49 +53438,49 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3550",
-      "label": "Blake Harreff's shirt was visibly free of blood after the SUV departed the scene",
+      "label": "Host Says Blake Harreff's Shirt Was Visibly Free of Blood After the SUV Departed the Scene",
       "node_kind": "claim",
       "episode": 149
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3551",
-      "label": "Blake Harreff did not help carry Charlie to the car and did not travel to the hospital in the initial SUV",
+      "label": "Host Says Blake Harreff Did Not Help Carry Charlie to the Car and Did Not Travel to the Hospital in the Initial SUV",
       "node_kind": "claim",
       "episode": 149
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3552",
-      "label": "Blake Harreff was wearing Timpanogos surgical scrubs at the UVU return ~8:30 PM",
+      "label": "Host Says Blake Harreff Wore Timpanogos Surgical Scrubs at the UVU Return at About 8:30 PM",
       "node_kind": "claim",
       "episode": 149
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3553",
-      "label": "Rick Cutler was wearing head-to-toe surgical scrubs at the UVU return",
+      "label": "Host Says Rick Cutler Wore Head-to-Toe Surgical Scrubs at the UVU Return",
       "node_kind": "claim",
       "episode": 149
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3554",
-      "label": "Justin Davis was wearing surgical scrubs at the UVU return",
+      "label": "Host Says Justin Davis Wore Surgical Scrubs at the UVU Return",
       "node_kind": "claim",
       "episode": 149
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3555",
-      "label": "Dan Flood was wearing surgical scrubs at the UVU return",
+      "label": "Host Says Dan Flood Wore Surgical Scrubs at the UVU Return",
       "node_kind": "claim",
       "episode": 149
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3556",
-      "label": "Brian Harpole is seen holding a jacket and a brown bag at the UVU return",
+      "label": "Host Says Brian Harpole Is Seen Holding a Jacket and a Brown Bag at the UVU Return",
       "node_kind": "claim",
       "episode": 149
     },
@@ -53501,7 +53501,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3559",
-      "label": "The receipt timeline contradicts Tyler Robinson's text messages placing him at UVU ~9:00 PM",
+      "label": "Host Says Receipt Timeline Contradicts Tyler Robinson's Text Messages Placing Him at UVU at About 9:00 PM",
       "node_kind": "claim",
       "episode": 149
     },
@@ -53578,7 +53578,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3571",
-      "label": "The document shown by the host contains a pentagram illustration labeled \"Place of sacrifice or worship\"",
+      "label": "Host Says Document She Shows Contains Pentagram Illustration Labeled \"Place of Sacrifice or Worship\"",
       "node_kind": "claim",
       "episode": 75
     },
@@ -54005,7 +54005,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3632",
-      "label": "TPUSA internal memo of September 2, 2025 elevated Justin Streiff to COO and announced organizational-wide DOGE efficiency audit",
+      "label": "Host Reads TPUSA Memo of September 2, 2025 Elevating Justin Streiff to COO and Announcing Organization-Wide DOGE Efficiency Audit",
       "node_kind": "claim",
       "episode": 10
     },
@@ -54495,14 +54495,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3702",
-      "label": "Victor Marx first to announce Kirk death on Instagram ~1.5 hours before president",
+      "label": "Host Says Victor Marx Was First to Announce Kirk Death on Instagram About 1.5 Hours Before President",
       "node_kind": "claim",
       "episode": 107
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3703",
-      "label": "Victor and Eileen Marx welcomed into Erika Kirk's home after body returned",
+      "label": "Host Says Victor and Eileen Marx Were Welcomed into Erika Kirk's Home After Body Returned",
       "node_kind": "claim",
       "episode": 107
     },
@@ -54530,14 +54530,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3707",
-      "label": "Old Victor Marx website listed him as pastor",
+      "label": "Host Says Old Victor Marx Website Listed Him as Pastor",
       "node_kind": "claim",
       "episode": 107
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3708",
-      "label": "Victor Marx website claimed rescue of 45,000 women and children",
+      "label": "Host Shows Victor Marx Website Claiming Rescue of 45,000 Women and Children",
       "node_kind": "claim",
       "episode": 107
     },
@@ -54558,7 +54558,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3711",
-      "label": "Victor Marx prayed for Charlie Kirk and others at TPUSA HQ",
+      "label": "Victor Marx Says He Prayed for Charlie Kirk and Others at TPUSA HQ",
       "node_kind": "claim",
       "episode": 107
     },
@@ -55398,7 +55398,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3831",
-      "label": "Back-camera shots at other 2025 American Comeback Tour stops were wide-angle",
+      "label": "Nicci Says Back-Camera Shots at Other 2025 Tour Stops Were Wide-Angle",
       "node_kind": "claim",
       "episode": 95
     },
@@ -56875,7 +56875,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4042",
-      "label": "Photo metadata stamped September 9, 8:33 a.m. presented as proof Erika Kirk was with her kids",
+      "label": "Clip Presents Photo Metadata Stamped September 9, 8:33 a.m. as Proof Erika Kirk Was with Her Kids",
       "node_kind": "claim",
       "episode": 103
     },
@@ -69454,7 +69454,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5839",
-      "label": "Web page lists a Possession type of the disorder",
+      "label": "Web Page Host Shows Lists a Possession Type of the Disorder",
       "node_kind": "claim",
       "episode": 120
     },
@@ -77014,7 +77014,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6919",
-      "label": "AI Sample Parodies the Bee Code Theory and Kyle Robinson",
+      "label": "Host Plays AI Sample Parodying the Bee Code Theory and Kyle Robinson",
       "node_kind": "claim",
       "episode": 53
     },

@@ -857,11 +857,11 @@ Investigative Direction: Identify the full source interview (date, program, outl
 
 ---
 
-**C-3571** The document shown by the host contains a pentagram illustration labeled "Place of sacrifice or worship"
+**C-3571** Host Says Document She Shows Contains Pentagram Illustration Labeled "Place of Sacrifice or Worship"
 
 Claim Timestamp: 00:10:30
 
-Claim: The physical document shown on camera contains, in its first pages, a pentagram with internal illustrations and the label "Place of sacrifice or worship" pointing to its center.
+Claim: The host says the physical document she shows on camera contains, in its first pages, a pentagram with internal illustrations and the label "Place of sacrifice or worship" pointing to its center.
 
 Anchored Artifacts: A-2439.1
 Related Nodes: N-10857
@@ -873,7 +873,7 @@ Investigative Direction: Obtain the document or high-resolution photograph to ve
 
 Claim Timestamp: 00:16:55
 
-Claim: The document contains text asserting that "symbolism constitutes the very essence of Freemasonry" and a separate section entitled "the science of symbolism explained," which defines a symbol as "an occult representation of something unknown or concealed by a sign or a thing that is known."
+Claim: Per the document the host reads from, the text asserts that "symbolism constitutes the very essence of Freemasonry" and a separate section entitled "the science of symbolism explained" defines a symbol as "an occult representation of something unknown or concealed by a sign or a thing that is known."
 
 Anchored Artifacts: A-2439.2
 Related Nodes: N-10857

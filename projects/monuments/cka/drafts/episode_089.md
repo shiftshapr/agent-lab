@@ -687,11 +687,11 @@ Investigative Direction: Locate the original on-stage footage or transcript; cro
 
 ---
 
-**C-2678** A Significant Segment of Self-Identified MAGA Supporters Publicly Turned Against Trump Following the Truth Social Post
+**C-2678** Social-Media Responses Host Reads Show MAGA Supporters Turning Against Trump
 
 Claim Timestamp: 00:00:00–00:00:01
 
-Claim: Truth Social and broader social-media responses read on air (A-1946.1), supplemented by viewer comments (A-1945.1), indicate a measurable volume of previously pro-Trump MAGA supporters publicly criticizing or repudiating him following A-1939.1.
+Claim: Per Truth Social and other social-media responses the host reads on air, supplemented by viewer comments the host reads, a measurable volume of previously pro-Trump MAGA supporters publicly criticized or repudiated Trump following his Truth Social post.
 
 Anchored Artifacts: A-1945.1, A-1946.1
 Related Nodes: N-10591

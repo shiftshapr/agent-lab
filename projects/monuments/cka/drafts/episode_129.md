@@ -1020,11 +1020,11 @@ Investigative Direction: Methodology is informal and unsystematic; results shoul
 
 ---
 
-**C-3091** Second new photograph shows a clearer view of the backseat object previously described by some viewers as a burned shirt
+**C-3091** Host Presents Second New Photograph She Says Shows a Clearer View of the Backseat Object
 
 Claim Timestamp: 00:09:02
 
-Claim: A second never-before-seen photograph shows the backseat object with enough detail that some have suggested letters visible from the "freedom shirt" are discernible.
+Claim: The host presents a second never-before-seen photograph that she says shows the backseat object with enough detail that some viewers messaging her say letters from the "freedom shirt" are discernible.
 
 Anchored Artifacts: A-2165.3
 
@@ -1034,11 +1034,11 @@ Investigative Direction: Forensic image analysis; chain-of-custody verification;
 
 ---
 
-**C-3092** Mikey McCoy's call logs show a sequence: call to Rob McCoy → three-way merge with Elizabeth McCoy → 10-minute call with Danny Philip
+**C-3092** Host Says Mikey McCoy's Call Logs Show a Sequence: Call to Rob McCoy, Three-Way Merge with Elizabeth McCoy, 10-Minute Call with Danny Philip
 
 Claim Timestamp: 00:13:40
 
-Claim: Phone records show Mikey McCoy making a call to Rob McCoy, merging the call with Elizabeth McCoy, and then engaging in a 10-minute call with Danny Philip in the immediate aftermath.
+Claim: The host says Mikey McCoy's call logs, which she shows, record him making a call to Rob McCoy, merging the call with Elizabeth McCoy, and then engaging in a 10-minute call with Danny Philip in the immediate aftermath.
 
 Anchored Artifacts: A-2167.1
 Mentions: N-372, N-221, N-194, N-17
@@ -1053,7 +1053,7 @@ Investigative Direction: Obtain authenticated call records (subpoena or court-or
 
 Claim Timestamp: 00:13:40
 
-Claim: Blake Neff's recorded account describes Mikey McCoy as immediately calling Erika within about a minute of the shooting, with Blake noting Mikey's lip was quivering.
+Claim: In a clip the host plays, Blake Neff describes Mikey McCoy as immediately calling Erika within about a minute of the shooting, and says Mikey's lip was quivering.
 
 Anchored Artifacts: A-2168.1
 Mentions: N-194, N-162
@@ -1080,11 +1080,11 @@ Investigative Direction: Obtain unedited newsroom feed; cross-reference internal
 
 ---
 
-**C-3095** Blake Neff arrived at the hospital in the second SUV driven by (or carrying) Danny Philip
+**C-3095** Host Says Blake Neff Arrived at the Hospital in the Second SUV with Danny Philip
 
 Claim Timestamp: 00:10:36
 
-Claim: Blake Neff and Danny Philip arrived at Timpanogos in the same SUV, distinct from the vehicle transporting Charlie Kirk.
+Claim: The host says Blake Neff and Danny Philip arrived at Timpanogos in the same SUV, distinct from the vehicle transporting Charlie Kirk.
 
 Anchored Artifacts: A-2166.1
 Mentions: N-372, N-1, N-162
@@ -1095,11 +1095,11 @@ Investigative Direction: Verify rental records for both SUVs (previously describ
 
 ---
 
-**C-3096** Danny Philip and Mikey McCoy were both present at the September 10 event and were party to a 10-minute phone call in the immediate aftermath
+**C-3096** Host Says Danny Philip and Mikey McCoy Were Both at the September 10 Event and Were Party to a 10-Minute Call in the Aftermath
 
 Claim Timestamp: 00:11:37
 
-Claim: Danny Philip – newly hired Turning Point USA employee – was at the UVU event and is recorded in a 10-minute phone call with Mikey McCoy shortly after 12:25 PM.
+Claim: The host says Danny Philip – newly hired Turning Point USA employee – was at the UVU event and is recorded in a 10-minute phone call with Mikey McCoy shortly after 12:25 PM.
 
 Anchored Artifacts: A-2167.1, A-2166.1
 Mentions: N-372, N-194
@@ -1114,7 +1114,7 @@ Investigative Direction: Subpoena call detail records; obtain Danny Philip's tes
 
 Claim Timestamp: 00:14:48
 
-Claim: Blake Neff describes Mikey McCoy calling his father Rob McCoy and asking him to mobilize pastor friends for prayer.
+Claim: In a clip the host plays, Blake Neff says Mikey McCoy called his father Rob McCoy and asked him to call his pastor friends to pray.
 
 Anchored Artifacts: A-2168.1
 Mentions: N-194, N-162, N-17
@@ -1189,7 +1189,7 @@ Investigative Direction: Obtain full unedited Twitter Space audio; document exac
 
 Claim Timestamp: 00:48:02
 
-Claim: A Charlie Kirk Show segment features Viva Frei explicitly invoking "Sandy Hook 2.0" as a comparison for current conspiracy theories around Kirk's death.
+Claim: In a clip from the Charlie Kirk Show that the host plays, Viva Frei explicitly invokes "Sandy Hook 2.0" as a comparison for current conspiracy theories around Kirk's death.
 
 Anchored Artifacts: A-2169.4
 Mentions: N-337
@@ -1204,7 +1204,7 @@ Investigative Direction: Confirm segment on Charlie Kirk Show's platform archive
 
 Claim Timestamp: 00:50:38
 
-Claim: A pre-death Charlie Kirk broadcast characterizes the Alex Jones case as "patient zero for lawfare strategies" and warns of precedent being used against others.
+Claim: In a pre-death Charlie Kirk broadcast clip the host plays, Kirk characterizes the Alex Jones case as "patient zero for lawfare strategies" and warns of precedent being used against others.
 
 Anchored Artifacts: A-2169.5, A-2169.6
 Mentions: N-1, N-93

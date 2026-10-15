@@ -804,11 +804,11 @@ Investigative Direction: Verify the text message thread against phone records an
 
 ---
 
-**C-2019** Ben Shapiro Resigned From Breitbart News on March 13, 2016
+**C-2019** Per Statement the Host Reads, Ben Shapiro Resigned From Breitbart News on March 13, 2016
 
 Claim Timestamp: 00:24:45
 
-Claim: Ben Shapiro publicly resigned from Breitbart News on March 13, 2016 at 9:00 PM Pacific, citing the company's handling of Michelle Fields' assault allegations against Corey Lewandowski.
+Claim: Per the statement the host reads, Ben Shapiro publicly resigned from Breitbart News as of 9:00 PM Pacific on March 13, 2016, citing the company's handling of Michelle Fields' allegations that Corey Lewandowski assaulted her.
 
 Anchored Artifacts: A-1590.1
 Mentions: N-396, N-398, N-399, N-97
@@ -834,11 +834,11 @@ Investigative Direction: Obtain the full Amfest Bannon speech and verify the com
 
 ---
 
-**C-2021** Austin Smith Sentenced Tuesday for Petition Signature Fraud
+**C-2021** Article the Host Reads Says Austin Smith Was Scheduled to Be Sentenced Tuesday for Petition Signature Fraud
 
 Claim Timestamp: 00:48:50
 
-Claim: Austin Smith, age 30, former Arizona state representative and Turning Point Action leader, was scheduled to be sentenced Tuesday for using nominating petitions that contained forged signatures, including forging a dead woman's signature, in a 2024 primary election bid.
+Claim: Per a news article the host reads, Austin Smith, age 30, former Arizona state representative and Turning Point Action leader, was scheduled to be sentenced Tuesday for using nominating petitions that contained forged signatures, including forging a dead woman's signature, in a 2024 primary election bid.
 
 Anchored Artifacts: A-1592.1
 Mentions: N-400
@@ -853,7 +853,7 @@ Investigative Direction: Obtain the court docket and judgment from the Arizona s
 
 Claim Timestamp: 00:49:14
 
-Claim: Austin Smith plead guilty in mid-November to charges of attempted fraudulent schemes and practices and illegal signing of election petitions.
+Claim: Per a news article the host reads, Austin Smith plead guilty in mid-November to charges of attempted fraudulent schemes and practices and illegal signing of election petitions.
 
 Anchored Artifacts: A-1592.1
 Mentions: N-400
@@ -879,11 +879,11 @@ Investigative Direction: Obtain the original text message thread for verificatio
 
 ---
 
-**C-2024** Daily Wire Producer Described as Being in "Panic Mode" During Casting
+**C-2024** Email the Host Reads Describes Daily Wire Producer as in "Panic Mode" During Casting
 
 Claim Timestamp: 00:06:31
 
-Claim: The Daily Wire producer who contacted Maggie Wagner was described by Maggie as being in "panic mode" about casting the show, having only come up with the show concept the day before contacting her.
+Claim: Per an email the host reads, the Daily Wire producer who contacted Maggie Wagner was in "panic mode" about casting the show, having only come up with the show concept the day before contacting her.
 
 Anchored Artifacts: A-1587.1
 Mentions: N-394
@@ -894,11 +894,11 @@ Investigative Direction: Verify the timeline of the show's conception against in
 
 ---
 
-**C-2025** Ben Shapiro Hired as Editor-at-Large of Breitbart Two Weeks Before Andrew Breitbart's Death
+**C-2025** Per Shapiro's Own Statement the Host Reads, He Joined Breitbart News Two Weeks Before Andrew Breitbart's Death
 
 Claim Timestamp: 00:25:28
 
-Claim: Per Shapiro's own resignation statement, he was hired by Andrew Breitbart as editor-at-large of Breitbart News approximately two weeks before Andrew Breitbart's death on March 1, 2012.
+Claim: Per Ben Shapiro's own resignation statement that the host reads, he signed on with Breitbart News as editor-at-large approximately two weeks before Andrew Breitbart's death on March 1, 2012.
 
 Anchored Artifacts: A-1590.1
 Mentions: N-396, N-97
@@ -1193,11 +1193,11 @@ Investigative Direction: Obtain the original video file to confirm the show titl
 
 ---
 
-**C-6919** AI Sample Parodies the Bee Code Theory and Kyle Robinson
+**C-6919** Host Plays AI Sample Parodying the Bee Code Theory and Kyle Robinson
 
 Claim Timestamp: 00:10:16
 
-Claim: The AI sample includes lines about coded talk of bees and ends by asking how Kyle Robinson could be the bee that stung, because bees die when they sting and he is alive.
+Claim: In an AI sample video the host plays, which she says was sent to young women to audition for a show, the lines include coded talk of bees and end by asking how Kyle Robinson could be the bee that stung, because bees die when they sting and he is alive.
 
 Transcript Snippet: Bees die when they sting. Kyle Robinson is alive. So, how could he be the bee that did the stinging?
 

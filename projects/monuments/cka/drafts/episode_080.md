@@ -800,7 +800,7 @@ Investigative Direction: Verify Kent's DD-214-equivalent service record and Shan
 
 Claim Timestamp: 00:07:42
 
-Claim: In on-camera remarks, President Trump described Joe Kent as "weak on security" upon reading his resignation statement.
+Claim: In a clip the host plays, President Trump, asked about Joe Kent's resignation, says he read Kent's statement and describes Kent as "weak on security."
 
 Anchored Artifacts: A-1862.1
 Mentions: N-213
@@ -815,7 +815,7 @@ Investigative Direction: Confirm exact wording against the full White House tran
 
 Claim Timestamp: 00:09:23
 
-Claim: Trump defended the Iran campaign by referencing his prior termination of the Obama-era Iran nuclear deal, asserting that absent termination there would have been a "nuclear holocaust."
+Claim: In a clip the host plays, President Trump defends the Iran campaign by referencing his prior termination of the Obama-era Iran nuclear deal, saying that absent termination there would have been a "nuclear holocaust."
 
 Anchored Artifacts: A-1862.1
 
@@ -844,7 +844,7 @@ Investigative Direction: Verify the exact X post text against Graham's verified 
 
 Claim Timestamp: 00:15:07
 
-Claim: Mark Levin publicly speculated that Kent "was about to be fired but quickly resigned first."
+Claim: Per a post the host reads from Mark Levin, Levin speculated that Kent "was about to be fired but quickly resigned first."
 
 Anchored Artifacts: A-1864.1
 Mentions: N-248
@@ -855,11 +855,11 @@ Investigative Direction: Confirm against Levin's verified X account and compare 
 
 ---
 
-**C-2502** Levin Calls for DOJ Criminal Investigation of Kent
+**C-2502** Host Says Levin Called for DOJ Criminal Investigation of Kent
 
 Claim Timestamp: 00:16:55
 
-Claim: Mark Levin publicly called for the DOJ to open a criminal investigation to determine if Kent leaked classified information.
+Claim: The host says Mark Levin called for the DOJ to open a criminal investigation to determine if Kent leaked classified information.
 
 Anchored Artifacts: A-1864.2
 Mentions: N-248
@@ -889,7 +889,7 @@ Investigative Direction: Verify Loomer's allegation against Shannon Kent's actua
 
 Claim Timestamp: 00:15:58
 
-Claim: Alan Dershowitz publicly referred to Kent as a "neo-Nazi Jew hating Israel basher" who had quit the administration.
+Claim: Per a post the host reads, Alan Dershowitz referred to Kent as a "neo-Nazi Jew hating Israel basher" who had quit the administration.
 
 Anchored Artifacts: A-1866.1
 Mentions: N-540
@@ -904,7 +904,7 @@ Investigative Direction: Confirm exact text against Dershowitz's verified X acco
 
 Claim Timestamp: 00:16:55
 
-Claim: Taylor Budowich publicly described Kent as a "crazed egomaniac" who was "often at the center of national security leaks."
+Claim: The host says Taylor Budowich, in a tweet, described Kent as a "crazed egomaniac" who was "often at the center of national security leaks."
 
 Anchored Artifacts: A-1867.1
 Mentions: N-153
@@ -930,11 +930,11 @@ Investigative Direction: Confirm against the original Theo Von podcast episode a
 
 ---
 
-**C-2507** TPUSA Arkansas Chapter Announces Disaffiliation
+**C-2507** Local News Clip Says TPUSA Arkansas Chapter Announced Disaffiliation
 
 Claim Timestamp: 00:31:39
 
-Claim: The Turning Point USA University of Arkansas chapter announced it is disaffiliating from the national organization.
+Claim: In a local news segment the host plays, the report says the Turning Point USA University of Arkansas chapter announced it is disaffiliating from the national organization.
 
 Anchored Artifacts: A-1869.1
 Mentions: N-1, N-2
@@ -959,11 +959,11 @@ Investigative Direction: Track the new organization's filings and any subsequent
 
 ---
 
-**C-2509** Fonte Grassi Authored Chapter Statement
+**C-2509** Host Says Fonte Grassi Authored Chapter Statement
 
 Claim Timestamp: 00:32:20
 
-Claim: The chapter president, Dino Fonte Grassi, published a statement on Instagram representing the executive board's unanimous decision to disaffiliate.
+Claim: The host says the chapter president, Dino Fonte Grassi, published a letter on Instagram, and that the executive board's decision to disaffiliate was unanimous.
 
 Anchored Artifacts: A-1870.1
 
@@ -988,11 +988,11 @@ Investigative Direction: Cross-reference specific TPUSA statements attributed to
 
 ---
 
-**C-2511** Fonte Grassi Participated in Kirk's July 2025 Israel/Gaza Discussion
+**C-2511** Host Says Fonte Grassi Participated in Kirk's July 2025 Israel/Gaza Discussion
 
 Claim Timestamp: 00:33:39
 
-Claim: Dino Fonte Grassi participated in a July 2025 Charlie Kirk sit-down discussing Israel and Gaza with students.
+Claim: The host says Dino Fonte Grassi participated in a July 2025 Charlie Kirk sit-down discussing Israel and Gaza with students.
 
 Anchored Artifacts: A-1871.1
 Mentions: N-1
@@ -1031,11 +1031,11 @@ Investigative Direction: Confirm exact wording against interview transcript; cro
 
 ---
 
-**C-2514** Three DC-Area Airports Shut Down March 13
+**C-2514** Host Says Three DC-Area Airports Shut Down March 13
 
 Claim Timestamp: 00:48:48
 
-Claim: On March 13, Reagan National (DCA), Baltimore-Washington (BWI), and Richmond (RIC) airports were simultaneously shut down.
+Claim: The host says that on March 13, Reagan National (DCA), Baltimore-Washington (BWI), and Richmond (RIC) airports were simultaneously shut down.
 
 Anchored Artifacts: A-1874.1
 
@@ -1045,11 +1045,11 @@ Investigative Direction: Verify against FAA ground stop records and the four-air
 
 ---
 
-**C-2515** Official Closure Explanation: Overheated Circuit Board
+**C-2515** Host Says Official Closure Explanation Was Overheated Circuit Board
 
 Claim Timestamp: 00:48:48
 
-Claim: The official explanation for the March 13 multi-airport shutdown was a "circuit board that overheated."
+Claim: The host says the official explanation for the March 13 multi-airport shutdown was a "circuit board that overheated."
 
 Anchored Artifacts: A-1874.1
 
@@ -1117,11 +1117,11 @@ Investigative Direction: Confirm posting timestamp against official channels; su
 
 ---
 
-**C-2520** Netanyahu No-Shows Military Council Meeting March 17
+**C-2520** Host Says Netanyahu No-Showed Military Council Meeting March 17
 
 Claim Timestamp: 00:52:32
 
-Claim: Netanyahu no-showed a critical military council meeting on March 17, reportedly unprecedented.
+Claim: The host says Netanyahu no-showed a critical military council meeting on March 17, which she says was reportedly unprecedented.
 
 Anchored Artifacts: A-1876.1
 
@@ -1131,11 +1131,11 @@ Investigative Direction: Confirm against Israeli government press releases and K
 
 ---
 
-**C-2521** Erika Kirk Appears with Sarah Huckabee Sanders in Arkansas
+**C-2521** Host Says Erika Kirk Appeared with Sarah Huckabee Sanders in Arkansas
 
 Claim Timestamp: 00:31:39
 
-Claim: Erica Kirk visited Arkansas shortly before the disaffiliation announcement and appeared with Governor Sarah Huckabee Sanders.
+Claim: The host says Erica Kirk visited Arkansas shortly before the disaffiliation announcement and appeared with Governor Sarah Huckabee Sanders.
 
 Anchored Artifacts: A-1869.1
 Mentions: N-2, N-588
@@ -1146,11 +1146,11 @@ Investigative Direction: Verify event date and content against Governor Sanders'
 
 ---
 
-**C-2522** Sanders Signs Proclamation Endorsing TPUSA School Chapters
+**C-2522** Local News Clip Says Sanders Signed Proclamation Endorsing TPUSA School Chapters
 
 Claim Timestamp: 00:31:39
 
-Claim: Governor Sarah Huckabee Sanders signed a proclamation endorsing TPUSA chapters in schools statewide.
+Claim: In a local news segment the host plays, the reporter says Governor Sarah Huckabee Sanders signed a proclamation endorsing TPUSA chapters in schools statewide.
 
 Anchored Artifacts: A-1869.1
 Mentions: N-2, N-588
@@ -1180,7 +1180,7 @@ Investigative Direction: Verify exact quotation against the full original audio/
 
 Claim Timestamp: 00:33:39
 
-Claim: Charlie Kirk publicly questioned Senator Ted Cruz's use of the Bible to justify U.S. aid to Israel, asserting Cruz "doesn't even know the verse."
+Claim: In a clip the host plays, Charlie Kirk questions Senator Ted Cruz's use of the Bible to justify U.S. aid to Israel, saying Cruz "doesn't even know the verse."
 
 Anchored Artifacts: A-1871.1
 Mentions: N-1, N-107

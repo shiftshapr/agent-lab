@@ -1407,8 +1407,8 @@
       "@type": "Claim",
       "@id": "C-1646",
       "ref": "C-1646",
-      "label": "Eric and Laura Trump Spoke at Auburn TPUSA Event",
-      "claim": "Eric and Laura Trump appeared as speakers at a recent Turning Point USA event at Auburn University following Charlie Kirk's death.",
+      "label": "Host Says Eric and Laura Trump Spoke at Auburn TPUSA Event",
+      "claim": "The host says Eric and Laura Trump appeared as speakers at a recent Turning Point USA event at Auburn University following Charlie Kirk's death.",
       "anchored_artifacts": [
         "A-1363.1"
       ],

@@ -834,11 +834,11 @@ Investigative Direction: Obtain raw event-day footage with synchronized audio ti
 
 ---
 
-**C-1462** Mikey McCoy On Phone ~1 Minute 45 Seconds Before Shot
+**C-1462** Host Says Footage Shows Mikey McCoy on Phone About 1 Minute 45 Seconds Before Shot
 
 Claim Timestamp: 00:13:33
 
-Claim: Event-day footage shows Mikey McCoy on his phone approximately 1 minute 45 seconds before the gunshot.
+Claim: The host says event-day footage shows Mikey McCoy on his phone approximately 1 minute 45 seconds before the gunshot.
 
 Anchored Artifacts: A-1261.3
 
@@ -848,11 +848,11 @@ Investigative Direction: Cross-reference call log timestamps with footage timest
 
 ---
 
-**C-1463** Mikey McCoy Still on Phone at Charlie's Waiting Car
+**C-1463** Host Says Footage Shows Mikey McCoy Still on Phone at Charlie's Waiting Car
 
 Claim Timestamp: 00:12:22
 
-Claim: Event-day footage shows Mikey McCoy in the background at Charlie Kirk's waiting car, still holding his phone.
+Claim: The host says event-day footage shows Mikey McCoy in the background at Charlie Kirk's waiting car, still holding his phone.
 
 Anchored Artifacts: A-1261.2
 Mentions: N-1
@@ -863,11 +863,11 @@ Investigative Direction: Verify timing continuity and identify any change in pho
 
 ---
 
-**C-1464** Camera Operator Recorded Selfie Video Post-Shot
+**C-1464** Host Says Camera Operator Recorded Selfie Video Post-Shot
 
 Claim Timestamp: 00:24:44–00:25:51
 
-Claim: The unnamed camera operator recorded a selfie video within the first minute after the shooting.
+Claim: The host says the unnamed camera operator recorded a selfie video within the first minute after the shooting.
 
 Anchored Artifacts: A-1262.1
 Mentions: N-184
@@ -938,11 +938,11 @@ Investigative Direction: Obtain authenticated message metadata (timestamps, devi
 
 ---
 
-**C-1469** Charlie Kirk Identified Candace Owens as His "David"
+**C-1469** Host Says Charlie Kirk Texted Her That She Was the Piece to Finish the Fight and to "Be My David"
 
 Claim Timestamp: 00:38:21–00:39:19
 
-Claim: Charlie Kirk texted that "you were the piece that God meant me to meet that will finish the fight" and "be my David."
+Claim: Per text messages the host reads aloud and says Charlie Kirk sent her, he wrote that "you were the piece that God meant me to meet that will finish the fight" and "be my David."
 
 Anchored Artifacts: A-1266.1
 Mentions: N-3, N-1
@@ -968,11 +968,11 @@ Investigative Direction: Identify any direct verbatim text within A-1266.1 that 
 
 ---
 
-**C-1471** Charlie Kirk Wrote About Jewish Donor Pressure on TPUSA
+**C-1471** Host's Trailer Presents Charlie Kirk Texts on Jewish Donor Pressure on TPUSA
 
 Claim Timestamp: 00:34:49–00:35:33
 
-Claim: Trailer presents Charlie Kirk text messages stating "Jewish donors play into all the stereotypes. I cannot and will not be bullied like this."
+Claim: In a trailer the host plays, Charlie Kirk text messages are presented as stating "Jewish donors play into all the stereotypes. I cannot and will not be bullied like this."
 
 Anchored Artifacts: A-1265.1
 Mentions: N-1
@@ -1158,7 +1158,7 @@ Investigative Direction: Obtain court appearance records and any media coverage 
 
 Claim Timestamp: 00:56:09
 
-Claim: David Foster commented he was "more shook up seeing the footage than the camera guy seemed in a selfie video" and that the camera operator "wasn't even shaking."
+Claim: A viewer comment the host reads, from David Foster, says he was "more shook up seeing the footage than the camera guy seemed in a selfie video" and that the camera operator "wasn't even shaking."
 
 Anchored Artifacts: A-1269.9
 Mentions: N-184

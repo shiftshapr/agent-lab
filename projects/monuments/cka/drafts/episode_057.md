@@ -772,7 +772,7 @@ Investigative Direction: Locate the Daily Wire video directly on its original pu
 
 Claim Timestamp: 00:43:34
 
-Claim: Mike Pompeo is presented stating that future history books must not focus on "the victims of Gaza" but instead should frame Israel as the aggrieved party and Iran/Hamas as the aggressor, and that this requires real-time shaping of how adults talk to children about the war.
+Claim: In a clip the host plays, Mike Pompeo says future history books must not focus on "the victims of Gaza" but instead should frame Israel as the aggrieved party and Iran/Hamas as the aggressor, and that this requires adults to talk to children about the war in real time.
 
 Anchored Artifacts: A-1632.1
 Mentions: N-461
@@ -816,7 +816,7 @@ Investigative Direction: Locate the specific text messages in which Charlie make
 
 Claim Timestamp: 00:47:28
 
-Claim: Read-aloud commenter Carly presents testimony that her father was a Military Police officer stationed with "Lieutenant Aquino" in 1982, was investigating pentagrams on the base, and was forced off a subsequent child-abuse investigation under the rationale "MPs don't investigate felonies."
+Claim: A viewer comment from Carly that the host reads says her father was a Military Police officer stationed with "Lieutenant Aquino" in 1982, was investigating pentagrams on the base, and was made to stop investigating when child-abuse cases came up, under the rationale "MPs don't investigate felonies."
 
 Anchored Artifacts: A-1634.1
 Mentions: N-463

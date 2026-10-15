@@ -1791,8 +1791,8 @@
       "@type": "Claim",
       "@id": "C-1527",
       "ref": "C-1527",
-      "label": "Military-contracted plane low dip over Provo Airport at 9:16 a.m.",
-      "claim": "FlightRadar data shows a military-contracted plane from Biggs Army Airfield dipped to approximately 300 feet above the Provo Airport runway at 9:16 a.m. Utah time on September 10, 2025.",
+      "label": "Host Says Military-Contracted Plane Dipped Low Over Provo Airport at 9:16 a.m.",
+      "claim": "The host says FlightRadar data shows a military-contracted plane from Biggs Army Airfield dipped to approximately 300 feet above the Provo Airport runway at 9:16 a.m. Utah time on September 10, 2025.",
       "anchored_artifacts": [
         "A-1290.1"
       ],
@@ -1810,8 +1810,8 @@
       "@type": "Claim",
       "@id": "C-1528",
       "ref": "C-1528",
-      "label": "Second low dip approximately 26 minutes after the assassination",
-      "claim": "The same military-contracted plane from Biggs Army Airfield dipped again to approximately 300 feet over the Provo Airport runway approximately 26 minutes after Charlie Kirk was shot, during its return leg to El Paso.",
+      "label": "Host Says Second Low Dip Came Approximately 26 Minutes After the Assassination",
+      "claim": "The host says the same military-contracted plane from Biggs Army Airfield dipped again to approximately 300 feet over the Provo Airport runway approximately 26 minutes after Charlie Kirk was shot, during its return leg to El Paso.",
       "anchored_artifacts": [
         "A-1290.1"
       ],
@@ -1829,8 +1829,8 @@
       "@type": "Claim",
       "@id": "C-1529",
       "ref": "C-1529",
-      "label": "N888KG Provo departure time on 9/10",
-      "claim": "Plane N888KG departed Provo Airport at 1:20 p.m. Mountain time on September 10, 2025.",
+      "label": "Host Says N888KG Departed Provo at 1:20 p.m. on 9/10",
+      "claim": "The host says plane N888KG, which she describes as the Baugh-Maxfield plane, departed Provo Airport at 1:20 p.m. Mountain time on September 10, 2025.",
       "anchored_artifacts": [
         "A-1291.1"
       ],
@@ -1887,8 +1887,8 @@
       "@type": "Claim",
       "@id": "C-1532",
       "ref": "C-1532",
-      "label": "Egyptian Air Force SU-BTT Provo arrival and departure dates",
-      "claim": "FlightRadar data shows Egyptian Air Force plane SU-BTT arrived at Provo Airport on September 4, 2025 and departed Provo on September 10, 2025 at 7:14 a.m. local time, with an interim layover at Wilmington, Delaware before continuing to Cairo.",
+      "label": "Host Says Egyptian Air Force Plane SU-BTT Arrived at Provo September 4 and Departed September 10",
+      "claim": "The host says FlightRadar data shows Egyptian Air Force plane SU-BTT arrived at Provo Airport on September 4, 2025 and departed Provo on September 10, 2025 at 7:14 a.m. local time, with an interim layover at Wilmington, Delaware before continuing to Cairo.",
       "anchored_artifacts": [
         "A-1292.1"
       ],
@@ -1904,8 +1904,8 @@
       "@type": "Claim",
       "@id": "C-1533",
       "ref": "C-1533",
-      "label": "SU-BTT three-year routing pattern",
-      "claim": "FlightRadar three-year history for SU-BTT shows the aircraft routinely routes through Paris and lands in U.S. cities with Air Force bases; Provo has no Air Force base.",
+      "label": "Host Says SU-BTT's Three-Year Routing Pattern Runs Through Paris to Air Force Base Cities",
+      "claim": "The host says the FlightRadar three-year history for SU-BTT shows the aircraft routinely routes through Paris and lands in U.S. cities with Air Force bases, and that Provo has no Air Force base.",
       "anchored_artifacts": [
         "A-1292.2"
       ],
@@ -1967,7 +1967,7 @@
       "@id": "C-1537",
       "ref": "C-1537",
       "label": "Josh Hammer op-ed \"neutralize\" language",
-      "claim": "Josh Hammer published a Daily Mail op-ed calling Tucker's hosting of Nick Fuentes a \"war on MAGA and the modern American right,\" and stating that \"unless the fox is neutralized, the victim could be the entire extant GOP coalition itself.\"",
+      "claim": "Per the Daily Mail op-ed by Josh Hammer that the host reads, Hammer called Tucker's hosting of Nick Fuentes a \"war on MAGA and the modern American right,\" and stated that \"unless the fox is neutralized, the victim could be the entire extant GOP coalition itself.\"",
       "anchored_artifacts": [
         "A-1293.1"
       ],
@@ -2046,7 +2046,7 @@
       "@id": "C-1541",
       "ref": "C-1541",
       "label": "Seth Dillon on Nick Fuentes' alleged statements regarding J.D. Vance",
-      "claim": "On Piers Morgan, Seth Dillon characterized Nick Fuentes as having animosity toward Jews, having called J.D. Vance \"fat and ugly\" with a \"brown family,\" and as having engaged in \"glorification of Hitler.\"",
+      "claim": "In a clip the host plays, Seth Dillon, on Piers Morgan, characterizes Nick Fuentes as having animosity toward Jews, having called J.D. Vance \"fat and ugly\" with a \"brown family,\" and as having engaged in \"glorification of Hitler.\"",
       "anchored_artifacts": [
         "A-1295.3"
       ],

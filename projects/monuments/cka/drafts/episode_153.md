@@ -717,10 +717,10 @@ Investigative Direction: Obtain the filed notice of claim from the Utah Attorney
 
 ---
 
-**C-3467** UVU Launched Independent External Review September 22, 2025
+**C-3467** Article the Host Reads Says UVU Launched Independent External Review September 22, 2025
 
 Claim Timestamp: 00:04:55
-Claim: Approximately twelve days after Charlie Kirk's death, UVU announced an independent external review of the security failures.
+Claim: Per a news article the host reads, Utah Valley University announced on a Monday approximately twelve days after Charlie Kirk's death (September 22, 2025) an independent external review of the security failures; the host remarks 'just 12 days after Charlie is hit.'
 Anchored Artifacts: A-2385.1
 Mentions: N-1
 Related Nodes: N-10839
@@ -738,20 +738,20 @@ Investigative Direction: Retrieve Tuminez's original emailed statement to confir
 
 ---
 
-**C-3469** Security Team Credentials Presented by Harpole on Shawn Ryan Show
+**C-3469** Clip Has Shawn Ryan Reading Harpole's Security Team Credentials
 
 Claim Timestamp: 00:08:00
-Claim: Brian Harpole presented on the Shawn Ryan show that the security team included combat-proven Marines, SEALs, 22-year SWAT veterans, 30-year cop and SWAT commander, and world-renowned jiu-jitsu practitioners.
+Claim: In a clip from the Shawn Ryan show that the host plays, Shawn Ryan reads statements from Brian Harpole's team describing the security team as including a combat-proven Marine, SEALs, 22 years on SWAT, a 30-year cop and SWAT commander and world-renowned jiu-jitsu practitioners; the host says Harpole submitted these credentials to Ryan.
 Anchored Artifacts: A-2386.1
 Mentions: N-1, N-270, N-228
 Investigative Direction: Retrieve full unedited Shawn Ryan episode and verify Harpole's on-air list against TPUSA security contractor records.
 
 ---
 
-**C-3470** Charlie's Security Team Comprised 12 Members
+**C-3470** Host Says Charlie's Security Team Comprised 12 Members
 
 Claim Timestamp: 00:06:24
-Claim: Charlie Kirk had a total of 12 security members at the UVU event.
+Claim: The host says Charlie Kirk had a total of 12 security members at the UVU event.
 Anchored Artifacts: A-2386.1
 Mentions: N-1
 Investigative Direction: Compare against TPUSA's security manifest and the eventual independent review findings.
@@ -832,10 +832,10 @@ Investigative Direction: Retrieve Tuminez's contemporaneous internal communicati
 
 ---
 
-**C-3478** Bodycam Footage Released Seven Days After Suspect Identification
+**C-3478** Host Says Bodycam Footage Was Released Seven Days After Suspect Identification
 
 Claim Timestamp: 00:40:52
-Claim: The 2022 bodycam footage of Tyler Robinson was released seven days after the public identified Tyler Robinson as the suspect.
+Claim: The host says the 2022 bodycam footage of Tyler Robinson was released seven days after the public found out Tyler Robinson was the suspect.
 Anchored Artifacts: A-2389.1, A-2389.2
 Mentions: N-40
 Related Nodes: N-10834
@@ -843,10 +843,10 @@ Investigative Direction: Confirm Scripps News publication date and Tyler Robinso
 
 ---
 
-**C-3479** Bodycam Footage Dated May 31, 2022
+**C-3479** Host Says Bodycam Footage Is Dated May 31, 2022
 
 Claim Timestamp: 00:43:44
-Claim: The bodycam footage of Tyler Robinson is dated May 31, 2022 – approximately three and a half years prior to release.
+Claim: The host says the bodycam footage of Tyler Robinson is dated May 31, 2022, approximately three and a half years before it was released.
 Anchored Artifacts: A-2389.1
 Mentions: N-40
 Related Nodes: N-10834, N-10837
@@ -865,40 +865,40 @@ Investigative Direction: Retrieve Scripps News editorial sourcing notes and FOIA
 
 ---
 
-**C-3481** Scripps News Founded 2022; Founder Jim Spencer
+**C-3481** Host Says Scripps News Was Founded in 2022 by Jim Spencer
 
 Claim Timestamp: 00:48:11
-Claim: Scripps News became operational the same year as the 2022 incident and was founded by Jim Spencer, who was formerly with Newsy.
+Claim: The host says Scripps News became operational in 2022, the same year as the incident, and was founded by Jim Spencer, who was formerly with Newsy.
 Anchored Artifacts: A-2391.1
 Related Nodes: N-10834
 Investigative Direction: Confirm corporate registration records for Scripps News and Newsy's corporate history.
 
 ---
 
-**C-3482** Jim Spencer Teaches Digital Media at UT Austin Since 2018
+**C-3482** Host Says Jim Spencer Has Taught Digital Media at UT Austin Since 2018
 
 Claim Timestamp: 00:48:11
-Claim: Jim Spencer teaches digital media and journalism at UT Austin, having done so since 2018.
+Claim: The host says Jim Spencer teaches digital media and journalism at UT Austin and has done so since 2018, citing his bio on the site.
 Anchored Artifacts: A-2391.1
 Related Nodes: N-10834
 Investigative Direction: Verify Spencer's UT Austin faculty page and Nelda Buckman / Buckman Center affiliation.
 
 ---
 
-**C-3483** Bodycam Footage Recorded by St. George Police Department
+**C-3483** Host Says Bodycam Footage Was Recorded by St. George Police Department
 
 Claim Timestamp: 00:46:14
-Claim: The May 31, 2022 bodycam footage was recorded by an officer in the St. George Police Department.
+Claim: The host says the May 31, 2022 bodycam footage was recorded by an officer in the St. George Police Department.
 Anchored Artifacts: A-2389.1
 Related Nodes: N-10834, N-10837
 Investigative Direction: Confirm agency identification via officer's uniform markings and incident report cross-reference.
 
 ---
 
-**C-3484** Tyler Robinson Was 19 at Time of 2022 Incident
+**C-3484** Host Says Tyler Robinson Was 19 at Time of 2022 Incident
 
 Claim Timestamp: 00:46:14
-Claim: Tyler Robinson was 19 years old at the time of the 2022 traffic incident.
+Claim: The host says Tyler Robinson was 19 years old at the time of the 2022 traffic incident.
 Anchored Artifacts: A-2389.1
 Mentions: N-40
 Related Nodes: N-10834
@@ -906,40 +906,40 @@ Investigative Direction: Cross-reference against birth records / official DOB.
 
 ---
 
-**C-3485** UVU Has Approximately 50,000 Students
+**C-3485** Host Says UVU Has Approximately 50,000 Students
 
 Claim Timestamp: 00:20:33
-Claim: UVU has a total of 50,000 students.
+Claim: The host says UVU has a total of 50,000 students.
 Anchored Artifacts: A-2384.1 (referenced indirectly)
 Related Nodes: N-10836
 Investigative Direction: Verify against UVU's official enrollment figures.
 
 ---
 
-**C-3486** UVU Has 24 Police Officers
+**C-3486** Host Says UVU Has 24 Police Officers
 
 Claim Timestamp: 00:20:33
-Claim: UVU has 24 police officers available to cover its campus.
+Claim: The host says UVU has a grand total of 24 police officers available to cover its campus.
 Anchored Artifacts: A-2384.1 (referenced indirectly)
 Related Nodes: N-10836
 Investigative Direction: Verify against UVU PD staffing rosters and Utah public-safety salary records.
 
 ---
 
-**C-3487** Event Scheduled at Amphitheater After Maycee Crofts Demand on August 25, 2025
+**C-3487** Host Says Event Was Scheduled at Amphitheater After Maycee Crofts Demand on August 25, 2025
 
 Claim Timestamp: 00:16:22
-Claim: On August 25, 2025, TPUSA events committee employee Maycee Crofts insisted during a Microsoft Teams call that the event be held in the amphitheater; UVU acquiesced. **Timestamp uncertainty:** transcript spells year as "20125" – clearly a transcription error for 2025.
+Claim: The host says she is told that on August 25, 2025, TPUSA events committee employee Maycee Crofts insisted during a Microsoft Teams call that the event be held in the amphitheater, and that UVU acquiesced; she says this is not in the filing.
 Anchored Artifacts: A-2384.1
 Mentions: N-1, N-8
 Investigative Direction: Recover Microsoft Teams call metadata and any TPUSA event-planning emails.
 
 ---
 
-**C-3488** UVU EMS Was on Scene with First Responders
+**C-3488** Host Says UVU EMS Was on Scene with First Responders
 
 Claim Timestamp: 00:22:26
-Claim: UVU's state-certified emergency medical services were present beside the vehicle with medical bags.
+Claim: The host says UVU's state-certified emergency medical services were present beside the vehicle with medical bags in hand.
 Anchored Artifacts: A-2384.1 (read on air in filing context)
 Mentions: N-1
 Related Nodes: N-10838
@@ -947,20 +947,20 @@ Investigative Direction: Review UVU EMS bodycam footage and any contemporaneous 
 
 ---
 
-**C-3489** UVU Independent Review Findings Expected Imminently
+**C-3489** Host Says UVU Independent Review Findings Were Expected Imminently
 
 Claim Timestamp: 00:06:24
-Claim: The findings of UVU's independent external review of security failures were due to be released on Friday (immediately following the episode air date).
+Claim: The host says she was told the findings of UVU's independent external review of security failures were going to be released on Friday, immediately following the episode air date.
 Anchored Artifacts: A-2385.1
 Related Nodes: N-10839, N-10833
 Investigative Direction: Monitor UVU press releases and the Utah Attorney General's office.
 
 ---
 
-**C-3490** Charlie's Security Arrived at 9:00 AM Morning of Event
+**C-3490** Host Says Charlie's Security Arrived at 9:00 AM Morning of Event
 
 Claim Timestamp: 00:18:53
-Claim: Members of Charlie's security team arrived on the UVU campus at 9:00 AM on the morning of September 10, 2025.
+Claim: The host says members of Charlie's security team first arrived on the UVU campus at 9:00 AM on the morning of September 10, 2025.
 Anchored Artifacts: A-2384.1 (referenced indirectly)
 Mentions: N-1
 Investigative Direction: Compare against UVU PD visitor logs and hotel / travel records of the security detail.

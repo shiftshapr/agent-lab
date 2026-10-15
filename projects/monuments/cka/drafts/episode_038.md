@@ -1190,11 +1190,11 @@ Investigative Direction: Verify Ponton's article URL; corroborate the Safari Clu
 
 ---
 
-**C-1784** French Ministry officially denies Tyler Robinson FFL service
+**C-1784** Host Reads French Ministry Statement Denying Tyler Robinson FFL Service
 
 Claim Timestamp: 00:18:50
 
-Claim: The French Ministry of the Armed Forces issued a public statement that Tyler Robinson was never part of the French Foreign Legion and could not have trained with it if he did not serve in an American military unit.
+Claim: Per a statement from the French Ministry of the Armed Forces that the host reads (as reported by France 24), Tyler Robinson was never part of the French Foreign Legion and could not have trained with it if he did not serve in an American military unit.
 
 Anchored Artifacts: A-1466.1
 Mentions: N-40
@@ -1202,11 +1202,11 @@ Investigative Direction: Obtain original Ministry press release with date and sp
 
 ---
 
-**C-1785** Camp Riley typo identified; Camp Ripley confirmed
+**C-1785** Host Reads Article Saying Camp Riley Typo Identified and Camp Ripley Confirmed
 
 Claim Timestamp: 00:20:28
 
-Claim: A Camp Riley does not exist in Minnesota; Camp Ripley is the correct name, as identified by Andy Parrish on X.
+Claim: Per a France 24 article the host reads, which quotes Andy Parrish on X, a Camp Riley does not exist in Minnesota and Camp Ripley is the correct name; the host says her own X post contained the typo.
 
 Anchored Artifacts: A-1467.1, A-1468.1
 Mentions: N-289
@@ -1227,11 +1227,11 @@ Investigative Direction: Locate original France 24 article; verify whether the M
 
 ---
 
-**C-1787** Operation Bright Star timing spans August 29 to September 10, 2025
+**C-1787** Host Says Operation Bright Star Ran August 29 to September 10, 2025
 
 Claim Timestamp: 00:21:39
 
-Claim: Operation Bright Star, a bi-annual US-Egypt joint military operation in Cairo, ran August 29 through September 10, 2025 – ending the day of the Charlie Kirk assassination.
+Claim: The host says Operation Bright Star, a bi-annual US-Egypt joint military operation in Cairo, ran August 29 through September 10, 2025, ending the day of the Charlie Kirk assassination.
 
 Anchored Artifacts: A-1478.1
 Mentions: N-1
@@ -1364,11 +1364,11 @@ Investigative Direction: Verify the current Ace Partners portfolio and confirm S
 
 ---
 
-**C-1798** Brigitte Macron opened Paris Design Week on September 4, 2025
+**C-1798** Host Says Brigitte Macron Opened Paris Design Week on September 4, 2025
 
 Claim Timestamp: 00:39:55
 
-Claim: Brigitte Macron opened Paris Design Week on September 4, 2025, with the French Minister of Culture.
+Claim: The host says she believes Brigitte Macron opened Paris Design Week on September 4, 2025, and was photographed with the French Minister of Culture.
 
 Anchored Artifacts: A-1475.1
 Mentions: N-82
@@ -1377,11 +1377,11 @@ Investigative Direction: Verify via Paris Design Week official programming and F
 
 ---
 
-**C-1799** Brigitte Macron photographed with Zelensky on September 4, 2025
+**C-1799** Host Says Brigitte Macron Was Photographed with Zelensky on September 4, 2025
 
 Claim Timestamp: 00:39:55
 
-Claim: Brigitte Macron was photographed with Ukrainian President Zelensky on September 4, 2025, during an interstate meeting that also included a Saudi Arabia orchestra event.
+Claim: The host says Brigitte Macron was photographed with Ukrainian President Zelensky on September 4, 2025, during an interstate meeting that also included a Saudi Arabia orchestra event.
 
 Anchored Artifacts: A-1475.2
 Mentions: N-82
@@ -1415,11 +1415,11 @@ Investigative Direction: Verify authenticity of the email; corroborate Bolling's
 
 ---
 
-**C-1802** YouTube live poll: 93% believe lawsuit is a government operation
+**C-1802** Host Says YouTube Live Poll Found 93% Believe Lawsuit Is a Government Operation
 
 Claim Timestamp: 00:53:57
 
-Claim: Of approximately 24,856 voters in a YouTube live poll asking "Do you think that this lawsuit was an operation against me?", 93% answered Yes.
+Claim: The host says that in a YouTube live poll she ran, of approximately 24,856 voters asked whether they believe the federal government worked behind the scenes to try to bankrupt her over Brigitte (recorded as "Do you think that this lawsuit was an operation against me?"), 93% answered Yes.
 
 Anchored Artifacts: A-1476.1
 Mentions: N-3

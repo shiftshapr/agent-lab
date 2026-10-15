@@ -765,11 +765,11 @@ Investigative Direction: Obtain trial transcripts or full video of Bagley's test
 
 ---
 
-**C-3215** Andrew Kolvet appeared on Benny Johnson's show from a room at the Asher Adams Hotel in Salt Lake City on Sept 11, 2025
+**C-3215** Host Says Andrew Kolvet Appeared on Benny Johnson's Show from a Room at the Asher Adams Hotel in Salt Lake City on Sept 11, 2025
 
 Claim Timestamp: 00:34:29
 
-Claim: A screenshot displayed from Benny Johnson's show on September 11, 2025 shows Andrew Kolvet broadcasting from a room at the Asher Adams (Autograph Collection) Hotel in Salt Lake City.
+Claim: The host says a still she shows from Benny Johnson's show on September 11, 2025 shows Andrew Kolvet broadcasting from a room at the Asher Adams (Autograph Collection) Hotel in Salt Lake City.
 
 Anchored Artifacts: A-2241.1
 Mentions: N-89, N-14
@@ -798,7 +798,7 @@ Investigative Direction: Watch the full Sky News documentary segment; cross-refe
 
 Claim Timestamp: 00:43:17
 
-Claim: Mark Levin, in a played audio segment, urged arming Iranian protesters and referenced testimony from a protest leader describing Iranian streets running "red with blood."
+Claim: In an audio segment the host plays, Mark Levin urges arming Iranian protesters and references testimony from a protest leader describing Iranian streets running "red with blood."
 
 Anchored Artifacts: A-2240.1
 
@@ -1686,7 +1686,7 @@ Investigative Direction: Retrieve the original press-conference recordings for b
 
 Claim Timestamp: 00:39:34
 
-Claim: In the Sky News segment, one analyst reviewing intelligence on potential targets reportedly spotted the school in 2019 and noted changes on an unclassified intelligence tool, but this was not passed up the chain.
+Claim: In a Sky News segment the host plays, one analyst reviewing intelligence on potential targets reportedly spotted the school in 2019 and noted changes on an unclassified intelligence tool, but this was not passed up the chain.
 
 Transcript Snippet: One analyst reviewing intelligence on potential targets did reportedly spot the school in 2019.
 

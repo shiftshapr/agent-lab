@@ -1538,8 +1538,8 @@
       "@type": "Claim",
       "@id": "C-3467",
       "ref": "C-3467",
-      "label": "UVU Launched Independent External Review September 22, 2025",
-      "claim": "Approximately twelve days after Charlie Kirk's death, UVU announced an independent external review of the security failures.",
+      "label": "Article the Host Reads Says UVU Launched Independent External Review September 22, 2025",
+      "claim": "Per a news article the host reads, Utah Valley University announced on a Monday approximately twelve days after Charlie Kirk's death (September 22, 2025) an independent external review of the security failures; the host remarks 'just 12 days after Charlie is hit.'",
       "anchored_artifacts": [
         "A-2385.1"
       ],
@@ -1573,8 +1573,8 @@
       "@type": "Claim",
       "@id": "C-3469",
       "ref": "C-3469",
-      "label": "Security Team Credentials Presented by Harpole on Shawn Ryan Show",
-      "claim": "Brian Harpole presented on the Shawn Ryan show that the security team included combat-proven Marines, SEALs, 22-year SWAT veterans, 30-year cop and SWAT commander, and world-renowned jiu-jitsu practitioners.",
+      "label": "Clip Has Shawn Ryan Reading Harpole's Security Team Credentials",
+      "claim": "In a clip from the Shawn Ryan show that the host plays, Shawn Ryan reads statements from Brian Harpole's team describing the security team as including a combat-proven Marine, SEALs, 22 years on SWAT, a 30-year cop and SWAT commander and world-renowned jiu-jitsu practitioners; the host says Harpole submitted these credentials to Ryan.",
       "anchored_artifacts": [
         "A-2386.1"
       ],
@@ -1592,8 +1592,8 @@
       "@type": "Claim",
       "@id": "C-3470",
       "ref": "C-3470",
-      "label": "Charlie's Security Team Comprised 12 Members",
-      "claim": "Charlie Kirk had a total of 12 security members at the UVU event.",
+      "label": "Host Says Charlie's Security Team Comprised 12 Members",
+      "claim": "The host says Charlie Kirk had a total of 12 security members at the UVU event.",
       "anchored_artifacts": [
         "A-2386.1"
       ],
@@ -1735,8 +1735,8 @@
       "@type": "Claim",
       "@id": "C-3478",
       "ref": "C-3478",
-      "label": "Bodycam Footage Released Seven Days After Suspect Identification",
-      "claim": "The 2022 bodycam footage of Tyler Robinson was released seven days after the public identified Tyler Robinson as the suspect.",
+      "label": "Host Says Bodycam Footage Was Released Seven Days After Suspect Identification",
+      "claim": "The host says the 2022 bodycam footage of Tyler Robinson was released seven days after the public found out Tyler Robinson was the suspect.",
       "anchored_artifacts": [
         "A-2389.1",
         "A-2389.2"
@@ -1755,8 +1755,8 @@
       "@type": "Claim",
       "@id": "C-3479",
       "ref": "C-3479",
-      "label": "Bodycam Footage Dated May 31, 2022",
-      "claim": "The bodycam footage of Tyler Robinson is dated May 31, 2022 – approximately three and a half years prior to release.",
+      "label": "Host Says Bodycam Footage Is Dated May 31, 2022",
+      "claim": "The host says the bodycam footage of Tyler Robinson is dated May 31, 2022, approximately three and a half years before it was released.",
       "anchored_artifacts": [
         "A-2389.1"
       ],
@@ -1795,8 +1795,8 @@
       "@type": "Claim",
       "@id": "C-3481",
       "ref": "C-3481",
-      "label": "Scripps News Founded 2022; Founder Jim Spencer",
-      "claim": "Scripps News became operational the same year as the 2022 incident and was founded by Jim Spencer, who was formerly with Newsy.",
+      "label": "Host Says Scripps News Was Founded in 2022 by Jim Spencer",
+      "claim": "The host says Scripps News became operational in 2022, the same year as the incident, and was founded by Jim Spencer, who was formerly with Newsy.",
       "anchored_artifacts": [
         "A-2391.1"
       ],
@@ -1811,8 +1811,8 @@
       "@type": "Claim",
       "@id": "C-3482",
       "ref": "C-3482",
-      "label": "Jim Spencer Teaches Digital Media at UT Austin Since 2018",
-      "claim": "Jim Spencer teaches digital media and journalism at UT Austin, having done so since 2018.",
+      "label": "Host Says Jim Spencer Has Taught Digital Media at UT Austin Since 2018",
+      "claim": "The host says Jim Spencer teaches digital media and journalism at UT Austin and has done so since 2018, citing his bio on the site.",
       "anchored_artifacts": [
         "A-2391.1"
       ],
@@ -1827,8 +1827,8 @@
       "@type": "Claim",
       "@id": "C-3483",
       "ref": "C-3483",
-      "label": "Bodycam Footage Recorded by St. George Police Department",
-      "claim": "The May 31, 2022 bodycam footage was recorded by an officer in the St. George Police Department.",
+      "label": "Host Says Bodycam Footage Was Recorded by St. George Police Department",
+      "claim": "The host says the May 31, 2022 bodycam footage was recorded by an officer in the St. George Police Department.",
       "anchored_artifacts": [
         "A-2389.1"
       ],
@@ -1844,8 +1844,8 @@
       "@type": "Claim",
       "@id": "C-3484",
       "ref": "C-3484",
-      "label": "Tyler Robinson Was 19 at Time of 2022 Incident",
-      "claim": "Tyler Robinson was 19 years old at the time of the 2022 traffic incident.",
+      "label": "Host Says Tyler Robinson Was 19 at Time of 2022 Incident",
+      "claim": "The host says Tyler Robinson was 19 years old at the time of the 2022 traffic incident.",
       "anchored_artifacts": [
         "A-2389.1"
       ],
@@ -1863,8 +1863,8 @@
       "@type": "Claim",
       "@id": "C-3485",
       "ref": "C-3485",
-      "label": "UVU Has Approximately 50,000 Students",
-      "claim": "UVU has a total of 50,000 students.",
+      "label": "Host Says UVU Has Approximately 50,000 Students",
+      "claim": "The host says UVU has a total of 50,000 students.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10836"
@@ -1877,8 +1877,8 @@
       "@type": "Claim",
       "@id": "C-3486",
       "ref": "C-3486",
-      "label": "UVU Has 24 Police Officers",
-      "claim": "UVU has 24 police officers available to cover its campus.",
+      "label": "Host Says UVU Has 24 Police Officers",
+      "claim": "The host says UVU has a grand total of 24 police officers available to cover its campus.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10836"
@@ -1891,8 +1891,8 @@
       "@type": "Claim",
       "@id": "C-3487",
       "ref": "C-3487",
-      "label": "Event Scheduled at Amphitheater After Maycee Crofts Demand on August 25, 2025",
-      "claim": "On August 25, 2025, TPUSA events committee employee Maycee Crofts insisted during a Microsoft Teams call that the event be held in the amphitheater; UVU acquiesced. **Timestamp uncertainty:** transcript spells year as \"20125\" – clearly a transcription error for 2025.",
+      "label": "Host Says Event Was Scheduled at Amphitheater After Maycee Crofts Demand on August 25, 2025",
+      "claim": "The host says she is told that on August 25, 2025, TPUSA events committee employee Maycee Crofts insisted during a Microsoft Teams call that the event be held in the amphitheater, and that UVU acquiesced; she says this is not in the filing.",
       "anchored_artifacts": [
         "A-2384.1"
       ],
@@ -1909,8 +1909,8 @@
       "@type": "Claim",
       "@id": "C-3488",
       "ref": "C-3488",
-      "label": "UVU EMS Was on Scene with First Responders",
-      "claim": "UVU's state-certified emergency medical services were present beside the vehicle with medical bags.",
+      "label": "Host Says UVU EMS Was on Scene with First Responders",
+      "claim": "The host says UVU's state-certified emergency medical services were present beside the vehicle with medical bags in hand.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10838"
@@ -1926,8 +1926,8 @@
       "@type": "Claim",
       "@id": "C-3489",
       "ref": "C-3489",
-      "label": "UVU Independent Review Findings Expected Imminently",
-      "claim": "The findings of UVU's independent external review of security failures were due to be released on Friday (immediately following the episode air date).",
+      "label": "Host Says UVU Independent Review Findings Were Expected Imminently",
+      "claim": "The host says she was told the findings of UVU's independent external review of security failures were going to be released on Friday, immediately following the episode air date.",
       "anchored_artifacts": [
         "A-2385.1"
       ],
@@ -1943,8 +1943,8 @@
       "@type": "Claim",
       "@id": "C-3490",
       "ref": "C-3490",
-      "label": "Charlie's Security Arrived at 9:00 AM Morning of Event",
-      "claim": "Members of Charlie's security team arrived on the UVU campus at 9:00 AM on the morning of September 10, 2025.",
+      "label": "Host Says Charlie's Security Arrived at 9:00 AM Morning of Event",
+      "claim": "The host says members of Charlie's security team first arrived on the UVU campus at 9:00 AM on the morning of September 10, 2025.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],

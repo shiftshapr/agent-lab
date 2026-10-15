@@ -1583,7 +1583,7 @@
       "@id": "C-1983",
       "ref": "C-1983",
       "label": "Mark Amodei Publicly Claimed a 12-House-Floor Alibi for September 9",
-      "claim": "Mark Amodei publicly asserted via X that on September 9 he was in a 12-hour House Appropriations Committee meeting and voting on the House floor, citing the public record.",
+      "claim": "Per a post on X by Mark Amodei that the host reads, on September 9 he was in a 12-hour House Appropriations Committee meeting and voting on the House floor, citing the public record.",
       "anchored_artifacts": [
         "A-1564.1"
       ],
@@ -1621,8 +1621,8 @@
       "@type": "Claim",
       "@id": "C-1985",
       "ref": "C-1985",
-      "label": "Mitch Identified Cabot Phillips from a Photograph as a Person Seen at Fort Huachuca",
-      "claim": "After being shown a photograph of Cabot Phillips without contextual identification, Mitch identified him as a person he observed at Fort Huachuca on the morning of September 9.",
+      "label": "Host Says Mitch Identified Cabot Phillips from a Photograph as a Person Seen at Fort Huachuca",
+      "claim": "The host says that after she sent Mitch a photograph of Cabot Phillips without contextual identification, Mitch identified him as a person he observed at Fort Huachuca on the morning of September 9.",
       "anchored_artifacts": [
         "A-1566.1"
       ],

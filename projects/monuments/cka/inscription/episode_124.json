@@ -1859,8 +1859,8 @@
       "@type": "Claim",
       "@id": "C-3000",
       "ref": "C-3000",
-      "label": "Multiple influencers used identical \"overwhelming\" language",
-      "claim": "The displayed collage shows multiple influencers using the word \"overwhelming\" to describe the evidence against Tyler Robinson in the preliminary hearing.",
+      "label": "Host Says Multiple Influencers Used Identical \"Overwhelming\" Language",
+      "claim": "The host says the collage she displays shows multiple influencers using the word \"overwhelming\" to describe the evidence against Tyler Robinson at the preliminary hearing.",
       "anchored_artifacts": [
         "A-2115.1"
       ],
@@ -1894,8 +1894,8 @@
       "@type": "Claim",
       "@id": "C-3002",
       "ref": "C-3002",
-      "label": "Pre-hearing narrative asserted Tyler's parents turned him in via confession",
-      "claim": "Multiple pre-hearing media segments asserted that Tyler Robinson's parents identified him from news footage, interrogated him about his grandfather's gun, and helped him turn himself in to authorities.",
+      "label": "Host Plays Pre-Hearing Clips Asserting Tyler's Parents Turned Him In",
+      "claim": "In clips the host plays, multiple media figures from before the hearing assert that Tyler Robinson's parents identified him from news footage, questioned him about his grandfather's gun, and helped him turn himself in to authorities.",
       "anchored_artifacts": [
         "A-2117.1",
         "A-2117.2",
@@ -1964,8 +1964,8 @@
       "@type": "Claim",
       "@id": "C-3006",
       "ref": "C-3006",
-      "label": "Court-displayed car had dual exhaust; Tyler Robinson's actual car had single exhaust",
-      "claim": "The Dodge Challenger shown in preliminary hearing footage featured dual exhaust pipes, while Tyler Robinson's actual Dodge Challenger featured a singular exhaust system.",
+      "label": "Host Says Court-Displayed Car Had Dual Exhaust; Tyler Robinson's Actual Car Had Single Exhaust",
+      "claim": "The host says the Dodge Challenger shown in preliminary hearing footage had dual exhaust pipes, while Tyler Robinson's actual Dodge Challenger had a singular exhaust system.",
       "anchored_artifacts": [
         "A-2120.1",
         "A-2120.2"
@@ -2001,8 +2001,8 @@
       "@type": "Claim",
       "@id": "C-3008",
       "ref": "C-3008",
-      "label": "Exhibit 12.1 differs from 12.4 only by red circles, face blurring, and zoom",
-      "claim": "Witness testimony confirmed that Exhibit 12.1 differs from Exhibit 12.4 only by (1) red circles/ovals highlighting individuals, (2) face blurring of parking garage bystanders, and (3) zoom in/out on the rooftop segment.",
+      "label": "Witness in Hearing Clip Says Exhibit 12.1 Differs from 12.4 Only by Red Circles, Face Blurring, and Zoom",
+      "claim": "In a hearing clip the host plays, a witness testifies that Exhibit 12.1 differs from Exhibit 12.4 only by (1) red circles/ovals highlighting individuals, (2) face blurring of parking garage bystanders, and (3) zoom in/out on the rooftop segment.",
       "anchored_artifacts": [
         "A-2121.2"
       ],
@@ -2015,8 +2015,8 @@
       "@type": "Claim",
       "@id": "C-3009",
       "ref": "C-3009",
-      "label": "Leaked 12.1 footage shows only a pixel running across rooftop",
-      "claim": "Court TV's accidentally-leaked footage of the 12.1 enhanced exhibit (at 1h17m30s on Day 2) shows only a pixel-like figure running across the rooftop when zoomed in.",
+      "label": "Host Says Leaked 12.1 Footage Shows Only a Pixel Running Across Rooftop",
+      "claim": "The host says Court TV's accidentally leaked footage of the 12.1 enhanced exhibit (at 1h17m30s on Day 2) shows only a pixel-like figure running across the rooftop when zoomed in.",
       "anchored_artifacts": [
         "A-2122.1"
       ],
@@ -2064,8 +2064,8 @@
       "@type": "Claim",
       "@id": "C-3012",
       "ref": "C-3012",
-      "label": "Tyler Robinson's DNA on the gun was the most degraded of all contributors",
-      "claim": "Caitlyn Oliver confirmed that Tyler Robinson's DNA sample was the most degraded of all contributors found on the firearm (swab 1.3 of trigger/trigger guard).",
+      "label": "Host Says Tyler Robinson's DNA on the Gun Was the Most Degraded of All Contributors",
+      "claim": "The host says that Caitlyn Oliver confirmed, in testimony the host plays, that Tyler Robinson's DNA sample was the most degraded of all contributors found on the firearm (swab 1.3 of trigger/trigger guard).",
       "anchored_artifacts": [
         "A-2124.3"
       ],
@@ -2140,8 +2140,8 @@
       "@type": "Claim",
       "@id": "C-3016",
       "ref": "C-3016",
-      "label": "Tyler-Lance text messages displayed including specific phrases",
-      "claim": "Text messages displayed on-screen between Tyler Robinson and Lance Twiggs included lines such as \"I am stuck in Orem for a little while longer yet,\" \"if I'm able to grab my rifle unseen,\" and \"Some hate just can't be negotiated out.\"",
+      "label": "Host Displays Tyler-Lance Text Messages Including Specific Phrases",
+      "claim": "Per text messages between Tyler Robinson and Lance Twiggs that the host displays on-screen, the messages included lines such as \"I am stuck in Orem for a little while longer yet,\" \"if I'm able to grab my rifle unseen,\" and \"Some hate just can't be negotiated out.\"",
       "anchored_artifacts": [
         "A-2123.1"
       ],

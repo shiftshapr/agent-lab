@@ -794,11 +794,11 @@ Investigative Direction: Locate original bio on archived real-estate listings or
 
 ---
 
-**C-2440** Erika Kirk NY Real-Estate License Relic Identified
+**C-2440** Host Says She Found Relic of Erika Kirk's NY Real-Estate License
 
 Claim Timestamp: 00:15:31
 
-Claim: A relic record of a New York real-estate license attributed to Erika Kirk (License #10401322765), issued October 24, 2018, valid through at least 2020, was found on a third-party site.
+Claim: The host says she found, on a third-party site, a relic record of a New York real-estate license attributed to Erika Kirk (License #10401322765), issued October 24, 2018, valid through at least 2020.
 
 Anchored Artifacts: A-1825.1
 Mentions: N-2
@@ -871,11 +871,11 @@ Investigative Direction: Capture the full social-media exchange for context; ver
 
 ---
 
-**C-2444** SB 1439 Proposes Charlie Kirk Memorial Specialty License Plate with Grassroots-Network Fund
+**C-2444** Per Host, SB 1439 Proposes Charlie Kirk Memorial Specialty License Plate with Grassroots-Network Fund
 
 Claim Timestamp: 00:29:37
 
-Claim: Arizona SB 1439 proposed a "Charlie Kirk Memorial Plate" specialty license plate featuring Charlie Kirk's photo and the Turning Point USA logo on an American flag background, with $17 of a $25 annual fee directed to a "conservative grassroots network special plate fund."
+Claim: Per Arizona SB 1439 as the host presents it, the bill proposed a "Charlie Kirk Memorial Plate" specialty license plate featuring Charlie Kirk's photo and the Turning Point USA logo on an American flag background, with $17 of a $25 annual fee directed to a "conservative grassroots network special plate fund."
 
 Anchored Artifacts: A-1829.1
 Mentions: N-1, N-583, N-585
@@ -931,11 +931,11 @@ Investigative Direction: Capture original X post URL and timestamp; verify wheth
 
 ---
 
-**C-2448** Super Feed Inc. Claimed as Copyright Holder of Turning Point USA App
+**C-2448** Host Says Super Feed Inc. Is Copyright Holder of Turning Point USA App
 
 Claim Timestamp: 00:26:36
 
-Claim: The Turning Point USA mobile application's fine print lists Super Feed Inc. as the copyright holder, raising the question of whether user data flows to Super Feed.
+Claim: The host says the fine print on the Turning Point USA mobile application lists Super Feed Inc. as the copyright holder, and raises the question of whether user data flows to Super Feed.
 
 Anchored Artifacts: A-1833.1
 

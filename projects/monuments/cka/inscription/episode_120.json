@@ -1894,8 +1894,8 @@
       "@type": "Claim",
       "@id": "C-2939",
       "ref": "C-2939",
-      "label": "Judge Graff Denied Motion to Compel Lance Twiggs In-Person Testimony",
-      "claim": "Judge Graff has denied the defense motion to compel Lance Twiggs to appear in person at the preliminary hearing scheduled for the week of July 6.",
+      "label": "Host Says Judge Graff Denied Motion to Compel Lance Twiggs In-Person Testimony",
+      "claim": "The host says Judge Graff has denied the defense motion to compel Lance Twiggs to appear in person at the preliminary hearing set for the week of July 6.",
       "anchored_artifacts": [
         "A-2092.1"
       ],
@@ -1914,8 +1914,8 @@
       "@type": "Claim",
       "@id": "C-2940",
       "ref": "C-2940",
-      "label": "Lance Twiggs Testimony Admitted as Recorded Statement",
-      "claim": "Under the ruling, Lance Twiggs's testimony against Tyler Robinson will be presented at the preliminary hearing as a recorded statement rather than live testimony.",
+      "label": "Host Says Lance Twiggs Testimony Will Be Admitted as Recorded Statement",
+      "claim": "The host says that, under the judge's ruling, Lance Twiggs's testimony against Tyler Robinson will be presented at the preliminary hearing as a recorded statement rather than live testimony.",
       "anchored_artifacts": [
         "A-2092.1"
       ],
@@ -1953,8 +1953,8 @@
       "@type": "Claim",
       "@id": "C-2942",
       "ref": "C-2942",
-      "label": "Enhanced SUV Shard Images Show White Markings Matching Rode Mic Design",
-      "claim": "Enhanced still images displayed on the show show white markings on the SUV floorboard shards that visually align with Rode Wireless Pro body design and labeling.",
+      "label": "Host Says Enhanced SUV Shard Images Show White Markings Matching Rode Mic Design",
+      "claim": "The host says the enhanced still images she displays show white markings on the SUV floorboard shards that visually align with the Rode Wireless Pro body design and labeling, as a viewer email she reads suggested.",
       "anchored_artifacts": [
         "A-2088.1",
         "A-2089.1"
@@ -1973,8 +1973,8 @@
       "@type": "Claim",
       "@id": "C-2943",
       "ref": "C-2943",
-      "label": "Rode Wireless Pro Destruction Video Produces Comparable Shard Pattern",
-      "claim": "A YouTube video showing a third party destroying a Rode Wireless Pro produces a shard pattern that visually resembles the shards seen on the SUV floorboard.",
+      "label": "Host Says Rode Wireless Pro Destruction Video Produces Comparable Shard Pattern",
+      "claim": "The host says a YouTube video she plays, in which a third party destroys a Rode Wireless Pro, produces a shard pattern that visually resembles the shards on the SUV floorboard.",
       "anchored_artifacts": [
         "A-2089.2",
         "A-2088.1"
@@ -1993,8 +1993,8 @@
       "@type": "Claim",
       "@id": "C-2944",
       "ref": "C-2944",
-      "label": "Erika Kirk's Signature Changed Dramatically Between Miss Arizona Era and Current",
-      "claim": "Signatures displayed on the show show Erika's current signature as visually distinct from her Miss Arizona era signature.",
+      "label": "Host Says Erika Kirk's Signature Changed Dramatically Between Miss Arizona Era and Current",
+      "claim": "The host says the signatures she displays show Erika's current signature as visually distinct from her Miss Arizona era signature, a change she says people who knew Erika brought to her attention by email.",
       "anchored_artifacts": [
         "A-2091.1",
         "A-2091.2"
@@ -3204,8 +3204,8 @@
       "@type": "Claim",
       "@id": "C-5839",
       "ref": "C-5839",
-      "label": "Web page lists a Possession type of the disorder",
-      "claim": "The web page lists a \"Possession\" type in which identities present as if an outside being or spirit took control of the body.",
+      "label": "Web Page Host Shows Lists a Possession Type of the Disorder",
+      "claim": "Per the web page on dissociative identity disorder that the host shows, it lists a \"Possession\" type in which identities present as if an outside being or spirit took control of the body.",
       "anchored_artifacts": [
         "A-2781.2"
       ],

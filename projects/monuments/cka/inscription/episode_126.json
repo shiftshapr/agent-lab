@@ -1786,8 +1786,8 @@
       "@type": "Claim",
       "@id": "C-3028",
       "ref": "C-3028",
-      "label": "UVU Communicated Discontinuation of Testing to FBI",
-      "claim": "Sergeant Filomena acknowledged that items were sent to the FBI lab and that UVU eventually communicated to the lab that the items were not connected to the case and required no further testing.",
+      "label": "Clip Shows Sergeant Filomena Acknowledging UVU Communicated Discontinuation of Testing to FBI",
+      "claim": "In a hearing clip the host plays, Sergeant Filomena acknowledges that items were sent to the FBI lab and that UVU eventually communicated to the lab that the items were not connected to the case and required no further testing.",
       "anchored_artifacts": [
         "A-2139.2"
       ],
@@ -1805,8 +1805,8 @@
       "@type": "Claim",
       "@id": "C-3029",
       "ref": "C-3029",
-      "label": "Eyewitness Observed Tactical Movement Pattern on Rooftop",
-      "claim": "The anonymous eyewitness recorded on September 25 that the rooftop person executed a tactical movement pattern (rising/lowering in 6-foot increments) over approximately 30 seconds before assuming the prone shooting position.",
+      "label": "Anonymous Eyewitness Says Rooftop Person Used Tactical Movement Pattern",
+      "claim": "In a September 25 recording the host plays, the anonymous eyewitness says the rooftop person executed a tactical movement pattern (rising and lowering in roughly 6-foot increments) over approximately 30 seconds before assuming the prone shooting position.",
       "anchored_artifacts": [
         "A-2140.1"
       ],
@@ -1823,7 +1823,7 @@
       "@id": "C-3030",
       "ref": "C-3030",
       "label": "Eyewitness Described All-Black Tactical Attire and Face Mask",
-      "claim": "The anonymous eyewitness described the rooftop person as wearing all-black tactical gear with a face mask; could not determine race because skin was covered.",
+      "claim": "In a recording the host plays, the anonymous eyewitness describes the rooftop person as wearing all-black tactical gear with a face mask, and says he could not determine race because all skin was covered.",
       "anchored_artifacts": [
         "A-2140.2"
       ],
@@ -2216,7 +2216,7 @@
       "@id": "C-8940",
       "ref": "C-8940",
       "label": "Filomena Agrees DNA and Other Analysis Was Requested on the Items",
-      "claim": "Sergeant Filomena agreed with the questioner that she was requesting both DNA and other types of analysis on the seized items.",
+      "claim": "In a hearing clip the host plays, Sergeant Filomena agrees with the questioner that she was requesting both DNA and other types of analysis on the seized items.",
       "anchored_artifacts": [
         "A-2139.2"
       ],

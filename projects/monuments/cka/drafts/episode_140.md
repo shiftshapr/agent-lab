@@ -859,11 +859,11 @@ Investigative Direction: Obtain side-angle or higher-resolution imagery; verify 
 
 ---
 
-**C-3263** Media initially presented Tyler Robinson predominantly in maroon shirts
+**C-3263** Host Says Media Initially Presented Tyler Robinson Predominantly in Maroon Shirts
 
 Claim Timestamp: 00:06:12
 
-Claim: In the period immediately following the public release of Tyler Robinson's name, news outlets globally used photos of him in maroon shirts, including childhood images, as the primary visual identifier.
+Claim: The host says that in the period immediately following the public release of Tyler Robinson's name, news outlets globally used photos of him in maroon shirts, including childhood images, as the primary visual identifier.
 
 Anchored Artifacts: A-2268.1, A-2268.2
 Mentions: N-40
@@ -919,11 +919,11 @@ Investigative Direction: Obtain the full Agent Hoole testimony transcript and Of
 
 ---
 
-**C-3267** George Zinn had a walkie-talkie / iPhone-like device visible during arrest
+**C-3267** Host Says George Zinn Had a Walkie-Talkie / iPhone-Like Device Visible During Arrest
 
 Claim Timestamp: 00:27:34
 
-Claim: High-resolution photos from George Zinn's arrest show an unidentified thicker device that appears to be a walkie-talkie-style or satellite-phone-style device hanging or fallen near his pants/ankle.
+Claim: The host says high-resolution photos from George Zinn's arrest show an unidentified thicker device that appears to be a walkie-talkie-style or satellite-phone-style device hanging or fallen near his pants/ankle.
 
 Anchored Artifacts: A-2271.1, A-2272.1
 Mentions: N-42
@@ -950,11 +950,11 @@ Investigative Direction: Obtain independent verification of membership size, gro
 
 ---
 
-**C-3269** Britta Widener (No Soup For You account) is approximately 45 years old
+**C-3269** Host Says Britta Widener (No Soup For You Account) Is Approximately 45 Years Old
 
 Claim Timestamp: 00:32:22
 
-Claim: The account "No Soup For You" / "No Soup For Noels," previously assumed to be a teenager, has been identified as belonging to Britta Widener, described as a 45-year-old woman, with a prior-year DUI photo referenced.
+Claim: The host says the account "No Soup For You" / "No Soup For Noels," which she had assumed belonged to a teenager, has been revealed to belong to Britta Widener, whom she describes as almost 45 years old, and she references a DUI photo from last year.
 
 Anchored Artifacts: A-2273.1, A-2273.2
 

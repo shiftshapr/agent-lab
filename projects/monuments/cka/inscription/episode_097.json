@@ -2074,7 +2074,7 @@
       "@id": "C-2815",
       "ref": "C-2815",
       "label": "Lawsuit Asserts Harpole Is a Private Citizen",
-      "claim": "The lawsuit's point 29 asserts Harpole is a private individual, not a limited-purpose public figure, despite two podcast appearances.",
+      "claim": "Per point 29 of the lawsuit the host reads, Harpole asserts he is a private individual, not a limited-purpose public figure, despite two podcast appearances; the host disputes this.",
       "anchored_artifacts": [
         "A-2015.5"
       ],
@@ -2185,8 +2185,8 @@
       "@type": "Claim",
       "@id": "C-2821",
       "ref": "C-2821",
-      "label": "Lawsuit Admits the Rooftop Text Chain Was Between Dan Flood and Chief Long, Not Harpole",
-      "claim": "Although Harpole presented the Sorensen Center rooftop text chain on Shawn Ryan as his own, the lawsuit admits the messages were between Dan Flood and UVU Police Chief Long.",
+      "label": "Host Says Lawsuit Admits the Rooftop Text Chain Was Between Dan Flood and Chief Long, Not Harpole",
+      "claim": "The host says that although Harpole presented the Sorensen Center rooftop text chain on Shawn Ryan as his own, the lawsuit admits the messages were between Dan Flood and UVU Police Chief Long.",
       "anchored_artifacts": [
         "A-2019.1",
         "A-2019.2"
@@ -2242,8 +2242,8 @@
       "@type": "Claim",
       "@id": "C-2824",
       "ref": "C-2824",
-      "label": "Harpole's Drone Statement Conflicts with Frank Turek's Account",
-      "claim": "Harpole's statement that drones could not be flown in Provo airspace conflicts with Frank Turek's separate account of flying drones at UVU events.",
+      "label": "Host Says Harpole's Drone Statement Conflicts with Frank Turek's Account",
+      "claim": "The host says Harpole's statement that drones could not be flown in Provo airspace conflicts with Frank Turek's separate account of flying drones at UVU events.",
       "anchored_artifacts": [
         "A-2015.4",
         "A-2028.1"
@@ -2415,7 +2415,7 @@
       "@id": "C-2832",
       "ref": "C-2832",
       "label": "Auschwitz Memorial Podcast Acknowledged Myths About Mengele's Twin Experiments",
-      "claim": "The official Auschwitz-Birkenau Memorial podcast acknowledged that myths arose around Mengele, including the \"sewing twins together\" legend that did not occur.",
+      "claim": "In a clip the host plays from the official Auschwitz-Birkenau Memorial podcast, a speaker says that myths arose around Mengele, including the \"sewing twins together\" legend, which did not happen.",
       "anchored_artifacts": [
         "A-2022.1"
       ],

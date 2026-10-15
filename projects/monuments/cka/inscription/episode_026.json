@@ -1941,8 +1941,8 @@
       "@type": "Claim",
       "@id": "C-1599",
       "ref": "C-1599",
-      "label": "UVU Request Timing Deviation",
-      "claim": "A UVU request for Charlie Kirk to speak on campus was received in mid-July 2025 and approved approximately six weeks later for a September 2025 event date, deviating from the standard TPUSA multi-month planning window.",
+      "label": "Host Says UVU Request Timing Deviated From Standard TPUSA Planning",
+      "claim": "The host says a UVU request for Charlie Kirk to speak on campus was received in mid-July 2025 and approved approximately six weeks later for a September 2025 event date, deviating from the standard TPUSA multi-month planning window.",
       "anchored_artifacts": [
         "A-1333.2"
       ],
@@ -2102,7 +2102,7 @@
       "@id": "C-1608",
       "ref": "C-1608",
       "label": "Brett Cooper Shawn Ryan Appearance",
-      "claim": "Brett Cooper appeared on the Shawn Ryan Show and discussed her mother's visits to mediums following the death of her twin brother.",
+      "claim": "The host plays a clip of Brett Cooper on the Shawn Ryan Show discussing her mother's visits to mediums, and says the visits followed the death of her twin brother.",
       "anchored_artifacts": [
         "A-1338.1"
       ],
@@ -2216,7 +2216,7 @@
       "@id": "C-1614",
       "ref": "C-1614",
       "label": "CNN Exit Poll Jewish Vote Share",
-      "claim": "A CNN exit poll of approximately 4,700 respondents indicates Zohran Mamdani received approximately 32% of the Jewish vote in the NYC mayoral election.",
+      "claim": "Mark, a member of the show's production team, says a CNN exit poll of approximately 4,700 respondents indicates Zohran Mamdani received approximately 32% of the Jewish vote in the NYC mayoral election.",
       "anchored_artifacts": [
         "A-1342.1"
       ],

@@ -1561,7 +1561,7 @@
       "@id": "C-2194",
       "ref": "C-2194",
       "label": "Erika Kirk opened the TPUSA Zoom call with an upbeat tone thanking staff and citing memorial metrics",
-      "claim": "The episode presents that Erika Kirk's opening remarks on the corporate-wide Zoom call included laughter, thanks, and memorial metrics including 275,000 attendees and broadcast reach of \"over 100 million.\"",
+      "claim": "In a clip of the TPUSA corporate-wide Zoom call that the host plays, Erika Kirk opens by thanking staff and citing memorial metrics including 275,000 attendees and broadcast reach of \"over 100 million\"; the host describes the call's tone as upbeat, with laughter.",
       "anchored_artifacts": [
         "A-1676.1"
       ],
@@ -1580,7 +1580,7 @@
       "@id": "C-2195",
       "ref": "C-2195",
       "label": "Erika Kirk stated staff worked 20-hour days during the week of the memorial",
-      "claim": "The episode presents Erika Kirk telling the call that \"a lot of the staff that worked on the memorial … had 20[-hour]-our days for a week.\"",
+      "claim": "In a clip the host plays, Erika Kirk tells the call that \"a lot of the staff that worked on the memorial … had 20[-hour]-our days for a week.\"",
       "anchored_artifacts": [
         "A-1676.1"
       ],
@@ -1597,7 +1597,7 @@
       "@id": "C-2196",
       "ref": "C-2196",
       "label": "Erika Kirk advised employees that paid time off is available if they need more time to grieve",
-      "claim": "The episode presents Erika Kirk telling employees: \"if you do need additional time off, please talk to your director about using paid time off for that,\" while also stating staff had access to counselors, pastors, and therapy dogs during the memorial period.",
+      "claim": "In a clip the host plays, Erika Kirk tells employees: \"if you do need additional time off, please talk to your director about using paid time off for that,\" while also stating staff had access to counselors, pastors, and therapy dogs during the memorial period.",
       "anchored_artifacts": [
         "A-1676.2"
       ],
@@ -1616,7 +1616,7 @@
       "@id": "C-2197",
       "ref": "C-2197",
       "label": "Erika Kirk referenced a \"Vision 2030\" plan she attributes to Charlie and to COO Justin",
-      "claim": "The episode presents Erika Kirk stating Charlie was working on \"vision 2030\" in the weeks before September 10 with Justin, who had been appointed COO for that purpose.",
+      "claim": "In a clip the host plays, Erika Kirk states Charlie was working on \"vision 2030\" in the weeks before September 10 with Justin, who had been appointed COO for that purpose.",
       "anchored_artifacts": [
         "A-1676.3"
       ],
@@ -1636,7 +1636,7 @@
       "@id": "C-2198",
       "ref": "C-2198",
       "label": "Erika Kirk stated she possesses Charlie's journals documenting the 2030 plans",
-      "claim": "The episode presents Erika Kirk stating: \"I have his journals that are aware of the plans. Like there is no confusion of what's to come.\"",
+      "claim": "In a clip the host plays, Erika Kirk states: \"I have his journals that are aware of the plans. Like there is no confusion of what's to come.\"",
       "anchored_artifacts": [
         "A-1676.3"
       ],
@@ -1655,7 +1655,7 @@
       "@id": "C-2199",
       "ref": "C-2199",
       "label": "Erika Kirk used the phrase \"Turning Point USA 2.0\"",
-      "claim": "The episode presents Erika Kirk stating on the call: \"we are moving forward turning point USA 2.0 with Charlie in our hearts.\"",
+      "claim": "In a clip the host plays, Erika Kirk states on the call: \"we are moving forward turning point USA 2.0 with Charlie in our hearts.\"",
       "anchored_artifacts": [
         "A-1676.1"
       ],
@@ -1744,8 +1744,8 @@
       "@type": "Claim",
       "@id": "C-2204",
       "ref": "C-2204",
-      "label": "Voice matching identifies Lorie Cardardoza Moore on a 1-900 romance hotline recording",
-      "claim": "The episode presents that Lorie Cardardoza Moore's voice matches a 1-900 romance hotline advertisement, indicating prior acting/performer work.",
+      "label": "Host Says Voice Matching Identifies Lorie Cardardoza Moore on a 1-900 Romance Hotline Recording",
+      "claim": "The host says, citing findings by internet sleuths of the \"decentralized intelligence agency,\" that Lorie Cardardoza Moore's voice matches a 1-900 romance hotline advertisement the host plays, indicating prior acting/performer work.",
       "anchored_artifacts": [
         "A-1682.1"
       ],

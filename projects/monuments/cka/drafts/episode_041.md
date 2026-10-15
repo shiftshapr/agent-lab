@@ -609,11 +609,11 @@ Investigative Direction: Locate the original photograph; verify date, location, 
 
 ---
 
-**C-1836** Shapiro Joke on Gutfeld Show
+**C-1836** Host Plays Clip of Shapiro Joking on Gutfeld Show About Calling French Intelligence
 
 Claim Timestamp: 00:25:13
 
-Claim: Ben Shapiro appeared on Greg Gutfeld's show and joked that he "called French intelligence and something may or may not have happened to Greg [Gutfeld]."
+Claim: In a clip the host plays, Ben Shapiro, appearing on Greg Gutfeld's show, jokes that he "called French intelligence and something may or may not have happened to Greg [Gutfeld]."
 
 Anchored Artifacts: A-1497.1
 Mentions: N-97

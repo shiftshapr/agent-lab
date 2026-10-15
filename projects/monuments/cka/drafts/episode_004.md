@@ -844,10 +844,10 @@ Host's report that people were offering donations to secure speaking roles at Ch
 
 ## 5. Claim Register
 
-**C-1175** Text Message Language Too Formal for 22-Year-Olds
+**C-1175** Host Says Text Message Language Is Too Formal for 22-Year-Olds
 
 Claim Timestamp: 00:00:41
-Claim: The Robinson-Twigs text messages use words like 'retrieve' and 'vehicle' in ways inconsistent with casual 22-year-old texting, suggesting they are not authentic.
+Claim: The host says the Robinson-Twigs text messages use words like 'retrieve' and 'vehicle' in ways that are inconsistent with casual 22-year-old texting, and suggests they are not authentic.
 Transcript Snippet: I played this game with with my entire staff and um I was able to find since dating back for the last three years two messages where someone used that term. The first person was somebody that was former military and the second person was a cop.
 Anchored Artifacts: A-1104.1, A-1104.2
 Mentions: N-2, N-40, N-54, N-68
@@ -857,10 +857,10 @@ Investigative Direction: Pull the raw message files from Discord/phones for ling
 
 ---
 
-**C-1176** Indictment Text Messages Lack Timestamps
+**C-1176** Host Says Indictment Text Messages Lack Timestamps
 
 Claim Timestamp: 00:03:08
-Claim: The text messages released in the Robinson indictment were stripped of timestamps, preventing independent chronological verification.
+Claim: The host says the text messages released in the Robinson indictment have no timestamps, which she calls a major red flag, and that without them the chronology cannot be independently verified.
 Transcript Snippet: the obvious thing, there's no timestamps. Right away, major red flag.
 Anchored Artifacts: A-1104.1, A-1104.2, A-1104.7, A-1104.8, A-1104.9, A-1104.10, A-1106.3
 Mentions: N-40
@@ -871,10 +871,10 @@ Investigative Direction: FOIA or subpoena the underlying device data and Discord
 Tags: open_source_investigation
 ---
 
-**C-1177** Keyboard Note Destroyed After Photographing
+**C-1177** Host Says Keyboard Note Was Destroyed After Photographing
 
 Claim Timestamp: 00:05:27
-Claim: The note Lance Twiggs found under Tyler's keyboard was destroyed after he photographed it; the photo was shown to the feds but not the public.
+Claim: The host says the feds have told the public that the note Lance Twiggs found under Tyler's keyboard was destroyed after he photographed it, and that the feds saw the photo but the public will not.
 Transcript Snippet: even though he destroyed the note, he took a picture of it… we're not going to be able to see either anyways.
 Anchored Artifacts: A-1104.1
 Mentions: N-40, N-54
@@ -884,10 +884,10 @@ Investigative Direction: Obtain the photograph through discovery or leak; verify
 
 ---
 
-**C-1178** Texts Could Not Have Been Sent Before 5:30 PM Sept 10
+**C-1178** Host Says Texts Could Not Have Been Sent Before 5:30 PM Sept 10
 
 Claim Timestamp: 00:08:15
-Claim: Because Robinson references 'similar clothing' to a second suspect, the relevant text could not have been sent before Governor Cox's 5:30 PM press conference mentioning dark clothing.
+Claim: The host says that because Robinson's text references 'similar clothing' to a second suspect, the text could not have been sent before Governor Cox's 5:30 PM press conference mentioning dark clothing, and she calls the messages made up.
 Transcript Snippet: the earliest that that message could have been sent out is after 5:30 p.m.
 Anchored Artifacts: A-1104.2, A-1105.2, A-1110.1
 Mentions: N-40, N-42, N-69, N-41
@@ -897,10 +897,10 @@ Investigative Direction: Recover device timestamps and confirm Cox press transcr
 
 ---
 
-**C-1179** Robinson Allegedly Lingered Near Scene Hours After Shooting
+**C-1179** Per Indictment Texts, Robinson Lingered Near Scene Hours After Shooting
 
 Claim Timestamp: 00:10:04
-Claim: Robinson's texts depict him remaining near the UVU scene for hours after the shooting, attempting to retrieve his rifle from a drop point.
+Claim: Per the text messages in the indictment that the host reads, Robinson depicts himself remaining near the UVU scene for hours after the shooting, attempting to retrieve his rifle from a drop point.
 Transcript Snippet: I'm lingering around there. I'm trying to get the vehicle… I will have left no evidence.
 Anchored Artifacts: A-1104.2, A-1104.3, A-1104.4, A-1104.5, A-1104.6, A-1105.1, A-1106.1
 Mentions: N-40
@@ -951,10 +951,10 @@ Investigative Direction: Demand booking photos and any surveillance of Robinson 
 
 ---
 
-**C-1183** Maroon-Shirt Person May Differ From Stairs Person
+**C-1183** Host Says Maroon-Shirt Person May Differ from Stairs Person
 
 Claim Timestamp: 00:33:19
-Claim: The person filmed in a maroon t-shirt at 8:07 AM may be a different individual from the person shown walking up the stairs in FBI static images.
+Claim: The host says, as a gut feeling, that the person in the maroon t-shirt filmed walking at 8:07 AM is a different individual from the person shown walking up the stairs in the FBI static images.
 Transcript Snippet: I think the person in the maroon that's walking is different from the person that's walking up the stairs.
 Anchored Artifacts: A-1105.4, A-1106.2, A-1110.1
 Mentions: N-40

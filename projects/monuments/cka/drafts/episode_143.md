@@ -918,11 +918,11 @@ Investigative Direction: Confirm tweet text against archive (e.g., X/Twitter per
 
 ---
 
-**C-3311** Where Forbidden Account Published a Matrix-Parody Video Repeating "So What?" Against Tyler Robinson Case Argumentation Standards
+**C-3311** Host Plays Where Forbidden Matrix-Parody Video Repeating "So What?" Against Tyler Robinson Case Argumentation Standards
 
 Claim Timestamp: 00:41:34
 
-Claim: The Where Forbidden X/Instagram account published a short parody video using the Matrix red-pill/blue-pill framing to characterize reactions to the Robinson case, repeating "so what?" in response to "positive evidence," "appeal to emotion," and "burden of proof."
+Claim: The host plays a clip she says is from the Where Forbidden account, a short parody video using the Matrix red-pill/blue-pill framing about the Tyler Robinson case, repeating "so what?" in response to "positive evidence," "appeal to emotion," and "burden of proof."
 
 Anchored Artifacts: A-2299.1
 Mentions: N-40

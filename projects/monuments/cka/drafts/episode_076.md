@@ -1010,11 +1010,11 @@ Investigative Direction: Compare the episode's audio/video metadata against the 
 
 ---
 
-**C-2422** Epstein Files Released Day After West Wing Meeting
+**C-2422** Host Says Epstein Files Were Released Day After West Wing Meeting
 
 Claim Timestamp: 00:15:55
 
-Claim: The Epstein files were released on January 30, 2026, the day after the January 29 Kolvet/McCoy West Wing meeting.
+Claim: The host says the Epstein files were released on January 30, 2026, the day after the January 29 Kolvet/McCoy West Wing meeting.
 
 Anchored Artifacts: A-1810.1 (provides the date-stamped framing)
 Mentions: N-9
@@ -1049,11 +1049,11 @@ Investigative Direction: Locate the specific Epstein-files email containing the 
 
 ---
 
-**C-2425** Corcoran Group Referenced Across Epstein's Emails
+**C-2425** Host Says Corcoran Group Is Referenced Across Epstein's Emails
 
 Claim Timestamp: 00:27:39–00:28:26
 
-Claim: The Corcoran real estate group is referenced repeatedly across Jeffrey Epstein's emails.
+Claim: The host says the Corcoran real estate group is referenced repeatedly across Jeffrey Epstein's emails.
 
 Anchored Artifacts: A-1813.1
 Mentions: N-9, N-563, N-579
@@ -1061,11 +1061,11 @@ Investigative Direction: Search Epstein-files email corpus for Corcoran/Linda Ro
 
 ---
 
-**C-2426** Linda Rothschild Documented as Corcoran Group President with Multiple Aliases
+**C-2426** Host Says Background Document Lists Linda Rothschild as Corcoran Group President with Multiple Aliases
 
 Claim Timestamp: 00:28:26
 
-Claim: A background document on Linda Rothschild lists her alternate names and identifies her as president of the Corcoran Group; the document is tied to Epstein's files.
+Claim: The host says a background document on Linda Rothschild, tied to Epstein's files, lists her alternate names and identifies her as president of the Corcoran Group.
 
 Anchored Artifacts: A-1814.1
 Mentions: N-563
@@ -1113,11 +1113,11 @@ Investigative Direction: Obtain Erika Kirk's tweet via Wayback Machine or X API;
 
 ---
 
-**C-2430** Charlie Kirk Watched Second Half of Bears–Vikings Game on September 8
+**C-2430** Host Says Charlie Kirk Watched Second Half of Bears-Vikings Game on September 8
 
 Claim Timestamp: 00:36:30–00:38:17
 
-Claim: On September 8, 2025, Charlie Kirk watched the second half of the Chicago Bears vs. Minnesota Vikings game from his home, as evidenced by his show commentary describing specific plays (challenge on Noah Sewell fumble, 2:02 remaining, clock management decisions).
+Claim: The host says, citing an email from a viewer and Charlie Kirk's show commentary describing specific plays (challenge on Noah Sewell fumble, 2:02 remaining, clock management decisions), that on September 8, 2025 Charlie Kirk watched the second half of the Chicago Bears vs. Minnesota Vikings game from his home.
 
 Anchored Artifacts: A-1818.2
 Mentions: N-1
@@ -1130,7 +1130,7 @@ Investigative Direction: Cross-reference Bears–Vikings September 8, 2025 game 
 
 Claim Timestamp: 00:35:28–00:36:30
 
-Claim: Frank Turek describes a Monday-night walk with Charlie Kirk (the night before the assassination week), during which Charlie referenced dinner with "the family," the infant GG having just woken, and two major issues he wanted to improve.
+Claim: In a clip the host plays, Frank Turek describes a Monday-night walk with Charlie Kirk (the night before the assassination week), during which Charlie referenced dinner with "the family," the infant GG having just woken, and two major issues he wanted to improve.
 
 Anchored Artifacts: A-1819.1
 Mentions: N-7, N-1
@@ -1189,11 +1189,11 @@ Investigative Direction: Obtain the September 8, 2025 10:00 AM Charlie Kirk Show
 
 ---
 
-**C-2436** Charlie Kirk Appearance on Ingram Angle 4:00–5:00 PM AZ on September 8
+**C-2436** Host Says Charlie Kirk Appeared on Ingram Angle 4:00-5:00 PM AZ on September 8
 
 Claim Timestamp: 00:40:08
 
-Claim: Charlie Kirk appeared on the Laura Ingram show (Ingram Angle) from his home studio between 4:00 and 5:00 PM Arizona time on September 8, 2025.
+Claim: The host says Charlie Kirk appeared on the Laura Ingram show (Ingram Angle) from his home studio between 4:00 and 5:00 PM Arizona time on September 8, 2025.
 
 Anchored Artifacts: A-1818.3
 Mentions: N-1

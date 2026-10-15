@@ -873,10 +873,10 @@ The host's report, from unnamed TPUSA sources, that contractors and other people
 
 ## 5. Claim Register
 
-**C-3632** TPUSA internal memo of September 2, 2025 elevated Justin Streiff to COO and announced organizational-wide DOGE efficiency audit
+**C-3632** Host Reads TPUSA Memo of September 2, 2025 Elevating Justin Streiff to COO and Announcing Organization-Wide DOGE Efficiency Audit
 
 Claim Timestamp: 00:21:37
-Claim: An internal TPUSA memo signed by Charlie Kirk on September 2, 2025 announced Justin Streiff's elevation to COO and tasked him with assembling a team to conduct a DOGE-style efficiency, cost, and culture audit across the organization.
+Claim: Per an internal TPUSA memo signed by Charlie Kirk on September 2, 2025 that the host reads, Justin Streiff was elevated to COO and tasked with assembling a team to conduct a DOGE-style efficiency, cost, and culture audit across the organization.
 Transcript Snippet: In this role, I have empowered Justin… to engage in an organizationalwide Doge effort.
 Anchored Artifacts: A-1162.1
 Mentions: N-1, N-2, N-15, N-119, N-124

@@ -853,7 +853,7 @@ Investigative Direction: Cross-check flight manifests, tarmac timing, and Andrew
 
 Claim Timestamp: 00:24:02–00:28:28
 
-Claim: Aubrey Lech's self-published video identifies her as the former public relations manager for Turning Point USA, employed since 2021, working through America Fest in December 2025, and terminated approximately three weeks prior to posting.
+Claim: In a video the host plays, Aubrey Lech identifies herself as the former public relations manager for Turning Point USA, employed since 2021, working through America Fest in December 2025, and terminated approximately three weeks before posting.
 
 Anchored Artifacts: A-1747.1
 Mentions: N-557
@@ -885,7 +885,7 @@ Investigative Direction: Compare the stated termination rationale (Uber-driver h
 
 Claim Timestamp: 00:24:02–00:28:28
 
-Claim: Aubrey Lech's video names Andrew Kolvet (described as her employer via ATK) and Marina Munz (CMO of Turning Point USA) as the two people present at her termination meeting.
+Claim: In a video the host plays, Aubrey Lech names Andrew Kolvet (described as her employer via ATK) and Marina Munz (CMO of Turning Point USA) as the two people present at her termination meeting.
 
 Anchored Artifacts: A-1747.1
 Mentions: N-499, N-557, N-14

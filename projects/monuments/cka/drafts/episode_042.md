@@ -715,11 +715,11 @@ Investigative Direction: Verify UVU official branding (athletics department, uni
 
 ---
 
-**C-1844** UVU September 10 footage shows numerous young men alone wearing maroon shirts
+**C-1844** Host Says UVU September 10 Footage Shows Numerous Young Men Alone Wearing Maroon Shirts
 
 Claim Timestamp: 00:20:45–00:21:55
 
-Claim: Footage from UVU on September 10 shows multiple young men attending alone and wearing maroon shirts.
+Claim: The host says footage from UVU on September 10 shows multiple young men attending alone and wearing maroon shirts.
 
 Anchored Artifacts: A-1505.1, A-1505.6
 Mentions: N-311
@@ -745,11 +745,11 @@ Investigative Direction: Retrieve the original X post with timestamp and any rep
 
 ---
 
-**C-1846** The Charlie Kirk Show fell to #94 on Apple Podcasts
+**C-1846** Per Tweet Host Reads, The Charlie Kirk Show Fell to #94 on Apple Podcasts
 
 Claim Timestamp: 00:02:41
 
-Claim: The Charlie Kirk Show has fallen to #94 on Apple Podcasts despite a prior top-10 ranking and prior #1 placement.
+Claim: Per a tweet the host reads, The Charlie Kirk Show has fallen to #94 on Apple Podcasts despite a prior top-10 ranking and a prior #1 placement while Kirk was alive.
 
 Anchored Artifacts: A-1507.1
 
@@ -774,11 +774,11 @@ Investigative Direction: Obtain the original PBS segment, identify the producer/
 
 ---
 
-**C-1848** Jacob Kasparian did not duck after the shot went off
+**C-1848** Host Says Jacob Kasparian Did Not Duck After the Shot Went Off
 
 Claim Timestamp: 00:24:00–00:24:45
 
-Claim: UVU footage shows Jacob Kasparian remaining upright and not ducking after the shot, briefly handling his phone and walking away.
+Claim: The host says UVU footage shows Jacob Kasparian remaining upright and not ducking after the shot, briefly handling his phone and walking away.
 
 Anchored Artifacts: A-1505.2
 Mentions: N-311
@@ -819,11 +819,11 @@ Investigative Direction: Obtain the original Facebook post with timestamp metada
 
 ---
 
-**C-1851** Adam Bartholomew live-streamed the entire UVU event
+**C-1851** Host Says Adam Bartholomew Live-Streamed the Entire UVU Event
 
 Claim Timestamp: 00:26:30–00:28:00
 
-Claim: Adam Bartholomew live-streamed the entire UVU event on September 10.
+Claim: The host says Adam Bartholomew live-streamed the entire UVU event on September 10.
 
 Anchored Artifacts: A-1505.5
 Mentions: N-312, N-313
@@ -849,11 +849,11 @@ Investigative Direction: Retrieve the original Carrie Bartholomew tweet with ima
 
 ---
 
-**C-1853** Adam Bartholomew did not stop livestreaming to find his wife after the shot
+**C-1853** Host Says Adam Bartholomew Did Not Stop Livestreaming to Find His Wife After the Shot
 
 Claim Timestamp: 00:27:51–00:28:00
 
-Claim: In his livestream footage, Adam Bartholomew did not interrupt the broadcast to check on or locate his wife immediately after the shot.
+Claim: The host says that in his livestream footage Adam Bartholomew did not interrupt the broadcast to check on or locate his wife immediately after the shot.
 
 Anchored Artifacts: A-1505.5
 Mentions: N-312, N-313
@@ -965,11 +965,11 @@ Investigative Direction: Obtain TPUSA corporate filings or official communicatio
 
 ---
 
-**C-1861** TPUSA response live stream scheduled for December 15
+**C-1861** Clip the Host Plays Has Blake Neff Saying TPUSA Response Live Stream Is Set for December 15
 
 Claim Timestamp: 00:07:32
 
-Claim: A TPUSA response live stream was announced for December 15 (2025).
+Claim: In a clip of The Charlie Kirk Show that the host plays, Blake Neff says a TPUSA response live stream is going forward and was announced for December 15 (2025).
 
 Anchored Artifacts: A-1501.2
 Mentions: N-2, N-14, N-162

@@ -1392,8 +1392,8 @@
       "@type": "Claim",
       "@id": "C-3277",
       "ref": "C-3277",
-      "label": "Wilson Opened Debate by Reading From His Phone About \"Never-Before-Seen Messages\"",
-      "claim": "Andrew Wilson's debate opening statement was read aloud from a mobile phone and concerned \"never-before-seen messages\" from Charlie Kirk to his security team dated September 9, 2025.",
+      "label": "Wilson Opened Debate by Reading From His Phone About \"Never-Before-Seen Messages,\" Per Clip Host Plays",
+      "claim": "The host plays a clip in which Andrew Wilson, reading from his phone, opens the debate by saying he holds \"never before seen messages\" from Charlie Kirk to his security team dated September 9, 2025.",
       "anchored_artifacts": [
         "A-2277.1"
       ],
@@ -1450,8 +1450,8 @@
       "@type": "Claim",
       "@id": "C-3280",
       "ref": "C-3280",
-      "label": "Wilson Repeatedly Used the Phrase \"Positive Evidence\" During the Debate",
-      "claim": "Throughout the debate, Andrew Wilson repeated the phrase \"positive evidence\" multiple times as his principal rebuttal device.",
+      "label": "Host Says Wilson Repeatedly Used the Phrase \"Positive Evidence\" During the Debate",
+      "claim": "The host says that throughout the debate Andrew Wilson repeated the phrase \"positive evidence\" multiple times as his principal rebuttal device.",
       "anchored_artifacts": [
         "A-2277.3"
       ],
@@ -1504,8 +1504,8 @@
       "@type": "Claim",
       "@id": "C-3283",
       "ref": "C-3283",
-      "label": "Poly Market Odds on Tyler Robinson Conviction Dropped During the Debate",
-      "claim": "The Poly Market prediction market odds on a Tyler Robinson conviction fell during the debate, hitting approximately 34% mid-debate.",
+      "label": "Host Says Poly Market Odds on Tyler Robinson Conviction Dropped During the Debate",
+      "claim": "The host says the Poly Market prediction market odds on a Tyler Robinson conviction fell during the debate, and she thinks they hit approximately 34% mid-debate.",
       "anchored_artifacts": [
         "A-2282.1"
       ],
@@ -1613,8 +1613,8 @@
       "@type": "Claim",
       "@id": "C-3289",
       "ref": "C-3289",
-      "label": "Wilson's Opening Statement Included the Claim \"I Have His Cell Phone\"",
-      "claim": "During his debate opening, Andrew Wilson asserted that he possessed Charlie Kirk's cell phone.",
+      "label": "In Clip Host Plays, Wilson's Opening Statement Included \"I Have His Cell Phone\"",
+      "claim": "In a debate clip the host plays, Andrew Wilson says in his opening that he has Charlie Kirk's cell phone; the host's clip shows him saying \"And I have his cell phone.\"",
       "anchored_artifacts": [
         "A-2277.1"
       ],

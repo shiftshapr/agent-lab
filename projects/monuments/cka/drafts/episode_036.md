@@ -939,11 +939,11 @@ Investigative Direction: Compare full Shawn Ryan interview transcript with authe
 
 ---
 
-**C-1763** Flood–Long Text Exchange Discussed Student Roof Access at Sorenson Center
+**C-1763** Harpole Clip Presents Flood–Long Text Exchange on Student Roof Access at Sorenson Center
 
 Claim Timestamp: 00:34:36
 
-Claim: The text exchange as read in the episode documents an outreach about student roof access (Sorenson Center staircases to walkways/roofs near the CK setup), a request for either controlled access or TP personnel presence, and Chief Long's response "I got you covered."
+Claim: In a clip the host plays, Brian Harpole presents a text exchange between Dan Flood and Chief Long, which the host says documents an outreach about student roof access (Sorenson Center staircases to walkways/roofs near the CK setup), a request for either controlled access or TP personnel presence, and Chief Long's response "I got you covered."
 
 Anchored Artifacts: A-1448.1
 Mentions: N-274, N-275

@@ -872,10 +872,10 @@ Bill Ackman's reported offer of a million dollars for information about the pers
 
 ## 5. Claim Register
 
-**C-1144** Robinson surrendered 33 hours after shooting
+**C-1144** Per Probable Cause Statement, Robinson Surrendered 33 Hours After Shooting
 
 Claim Timestamp: 00:07:02
-Claim: Tyler James Robinson surrendered to Washington County Sheriff's Office on September 11, 2025, approximately 33 hours after the shooting.
+Claim: Per the probable cause statement the host reads, Tyler James Robinson surrendered to the Washington County Sheriff's Office on September 11, 2025, approximately 33 hours after the shooting.
 Transcript Snippet: after 33 hours...Tyler James Robinson surrendered to police at Washington County Sheriff's Office
 Anchored Artifacts: A-1095.1
 Mentions: N-3, N-40
@@ -885,10 +885,10 @@ Investigative Direction: Verify surrender timestamp via sheriff's office records
 
 ---
 
-**C-1145** DNA consistent with Robinson on rifle trigger
+**C-1145** Per Probable Cause Statement, DNA Consistent with Robinson Was on Rifle Trigger
 
 Claim Timestamp: 00:12:50
-Claim: DNA consistent with Robinson was found on the rifle trigger and other parts of the rifle, plus fired cartridge casing and two of three unspent cartridges and the towel.
+Claim: Per the probable cause statement the host reads, DNA consistent with Robinson was found on the rifle trigger and other parts of the rifle, plus the fired cartridge casing, two of three unfired cartridges and the towel.
 Transcript Snippet: the DNA was consistent with Robinson that was found on the trigger
 Anchored Artifacts: A-1095.1
 Mentions: N-40
@@ -897,10 +897,10 @@ Investigative Direction: Obtain forensic lab reports for chain of custody and ma
 
 ---
 
-**C-1146** Suspect entered campus at 11:51am in dark American-flag shirt
+**C-1146** Per Probable Cause Statement, Suspect Entered Campus at 11:51am in Dark American-Flag Shirt
 
 Claim Timestamp: 00:09:27
-Claim: UVU surveillance showed the suspect entering campus from the north at approximately 11:51am wearing a black shirt with an American flag, dark cap, large sunglasses.
+Claim: Per the probable cause statement the host reads, UVU surveillance showed the suspect entering campus from the north at approximately 11:51am wearing a black shirt with an American flag, a dark cap and large sunglasses.
 Transcript Snippet: at approximately 11:51 a.m., the suspect had entered campus from the north
 Anchored Artifacts: A-1095.2
 Mentions: N-40
@@ -910,10 +910,10 @@ Investigative Direction: Compare indictment description to actual surveillance v
 
 ---
 
-**C-1147** Suspect on roof by 12:15pm
+**C-1147** Per Probable Cause Statement, Suspect Was on Roof by 12:15pm
 
 Claim Timestamp: 00:08:11
-Claim: Surveillance camera covering the roof recorded an individual in dark clothing crossing the railing onto the roof at approximately 12:15pm, eight minutes before the 12:23pm shot.
+Claim: Per the probable cause statement the host reads, a surveillance camera covering the roof recorded an individual in dark clothing crossing the railing onto the roof at approximately 12:15pm, eight minutes before the 12:23pm shot.
 Transcript Snippet: crossed the railing from the public walkway and dropped onto the roof at approximately 12:15 p.m.
 Anchored Artifacts: A-1095.2
 Mentions: N-40
@@ -923,10 +923,10 @@ Investigative Direction: Cross-check roof timestamp against shot-time audio fore
 
 ---
 
-**C-1148** Bolt-action rifle wrapped in towel found in wooded area
+**C-1148** Per Probable Cause Statement, Bolt-Action Rifle Wrapped in Towel Was Found in Wooded Area
 
 Claim Timestamp: 00:11:57
-Claim: Investigators found a bolt-action rifle wrapped in a towel in a wooded area at the northeast end of campus; one spent round and three unspent rounds, no shell casings on the roof.
+Claim: Per the probable cause statement the host reads, investigators found a bolt-action rifle wrapped in a towel in a wooded area at the northeast end of campus, with one spent round and three unspent rounds, and no shell casings were found on the roof.
 Transcript Snippet: investigators found a boltaction rifle wrapped in a towel
 Anchored Artifacts: A-1095.3
 Mentions: N-40
@@ -935,10 +935,10 @@ Investigative Direction: Obtain crime scene photos and forensic report; verify r
 
 ---
 
-**C-1149** Cartridge inscriptions
+**C-1149** Per Probable Cause Statement, Cartridges Bore Inscriptions
 
 Claim Timestamp: 00:12:40
-Claim: Inscriptions on cartridge casings read 'Hey fascist catch', 'Oh Bella cow', and 'if you read this you are gay Lmo'.
+Claim: Per the probable cause statement the host reads, inscriptions on the cartridges read 'Hey fascist catch', 'Oh Bella cow', and 'if you read this you are gay Lmo'.
 Transcript Snippet: Hey fascist catch...Oh Bella cow...if you read this you are gay
 Anchored Artifacts: A-1095.4
 Mentions: N-40
@@ -971,10 +971,10 @@ Investigative Direction: Verify gift provenance, family communications, and any 
 
 ---
 
-**C-1152** Family friend retired deputy facilitated surrender
+**C-1152** Per Probable Cause Statement, Family Friend Retired Deputy Facilitated Surrender
 
 Claim Timestamp: 00:16:00
-Claim: Robinson's family convinced him not to self-harm; a family friend who is a retired deputy sheriff facilitated Robinson's surrender with his parents.
+Claim: Per the probable cause statement the host reads, Robinson's parents convinced him not to harm himself, and a family friend who is a retired deputy sheriff facilitated Robinson's surrender with his parents.
 Transcript Snippet: a family friend who happens to be a retired deputy sheriff
 Anchored Artifacts: A-1095.7
 Mentions: N-40
@@ -995,10 +995,10 @@ Investigative Direction: Compare against Robinson's social media history and fam
 
 ---
 
-**C-1154** Robinson texted Lance from keyboard note confession
+**C-1154** Per Probable Cause Statement, Robinson Texted Lance About Keyboard Note
 
 Claim Timestamp: 00:20:02
-Claim: Robinson texted his roommate Lance Twiggs 'Drop what you are doing and look under my keyboard'; Lance found a note stating 'I had the opportunity to take out Charlie Kirk and I'm going to take it'.
+Claim: Per the probable cause statement the host reads, Robinson texted his roommate Lance Twiggs 'Drop what you are doing and look under my keyboard', and Lance found a note stating 'I had the opportunity to take out Charlie Kirk and I'm going to take it'.
 Transcript Snippet: Drop what you are doing and look under my keyboard...I had the opportunity to take out Charlie Kirk
 Anchored Artifacts: A-1095.8, A-1095.9
 Mentions: N-2, N-40, N-54, N-1
@@ -1047,10 +1047,10 @@ Investigative Direction: Obtain arrest affidavit and court records.
 
 ---
 
-**C-1158** Zinn booked on child abuse image charge
+**C-1158** Article Says Zinn Booked on Child Abuse Image Charge
 
 Claim Timestamp: 00:04:04
-Claim: George Zinn was booked in connection with images on his cell phone related to child abuse following the obstruction arrest.
+Claim: Per the article the host reads, George Zinn, accused of obstructing justice, was also booked in connection with images on his cell phone related to child abuse following the obstruction arrest.
 Transcript Snippet: was also booked in connection with images on his cell phone related to child abuse
 Anchored Artifacts: A-1096.1
 Mentions: N-42
@@ -1087,10 +1087,10 @@ Investigative Direction: Cross-reference attendee statements with published itin
 Tags: open_source_investigation
 ---
 
-**C-1161** Bill Ackman allegedly told attendees not to own property
+**C-1161** Host Says Attendees Report Bill Ackman Told Them Not to Own Property
 
 Claim Timestamp: 01:03:58
-Claim: Per attendees, Bill Ackman gave a presentation at the Hamptons retreat telling attendees they should not own property and should instead invest in stocks.
+Claim: The host says that, per other people who were at the Hamptons and are talking about it, Bill Ackman gave a presentation telling attendees they should not own property and should instead invest in stocks; she adds that this is what he allegedly said.
 Transcript Snippet: Bill Ackman got up and gave a presentation and told them that they shouldn't own property
 Anchored Artifacts: 
 Mentions: N-37
@@ -1101,10 +1101,10 @@ Investigative Direction: Identify and corroborate attendees; request presentatio
 
 ---
 
-**C-1162** Charlie Kirk vented about Israel pressure on Megyn Kelly August 6
+**C-1162** Host Says Kirk Vented About Israel Pressure on Megyn Kelly August 6
 
 Claim Timestamp: 00:51:10
-Claim: Charlie Kirk appeared on Megyn Kelly on August 6, 2025 stating he found pro-Israel camp kneejerk anti-Semitism accusations irritating, was receiving texts calling him antisemite, and had raised Mossad/Epstein speculation.
+Claim: The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting; in a clip she plays, Kirk says he finds it very irritating that some in the pro-Israel camp are so kneejerk about calling people anti-semitic, and the host adds that he was receiving texts calling him an antisemite and had raised Mossad/Epstein speculation.
 Transcript Snippet: some in the pro-Israel camp are so kneejerk about calling you anti-semitic
 Anchored Artifacts: A-1099.1
 Mentions: N-1, N-9, N-46
@@ -1152,10 +1152,10 @@ Investigative Direction: Retrieve the tweet thread and verify dates.
 
 ---
 
-**C-1166** Lance Twiggs kicked out by parents junior year of high school
+**C-1166** Host Says Lance Twiggs's Family Told Her He Was Kicked Out Junior Year
 
 Claim Timestamp: 00:30:35
-Claim: Per Lance Twiggs family members, Lance was kicked out of his parents' home in junior year of high school for being problematic.
+Claim: The host says Lance Twiggs's family members told her, and she stresses it is allegedly what they say, that Lance's parents kicked him out of their home in junior year of high school because he was problematic.
 Transcript Snippet: his parents kicked him out junior year of high school because he was problematic
 Anchored Artifacts: 
 Mentions: N-54
@@ -1166,10 +1166,10 @@ Investigative Direction: Corroborate with other family members or contemporaneou
 
 ---
 
-**C-1167** Lance Twiggs Christmas vodka overdose ~three years ago
+**C-1167** Host Says Lance Twiggs's Family Told Her of Christmas Vodka Overdose
 
 Claim Timestamp: 00:31:02
-Claim: Per family, Lance Twiggs nearly overdosed by drinking a bottle of vodka approximately three years ago at Christmas; family feared they could not care for him.
+Claim: The host says Lance Twiggs's family members told her, as allegations, that Lance almost overdosed by drinking a bottle of vodka at Christmas approximately three years ago and that the family feared they could not care for him.
 Transcript Snippet: He almost overdosed. He drank a bottle of vodka
 Anchored Artifacts: 
 Mentions: N-54
@@ -1179,10 +1179,10 @@ Investigative Direction: Request medical/ER records and corroborating family tes
 
 ---
 
-**C-1168** Lance Twiggs showed up on drugs at Easter family gathering
+**C-1168** Host Says Lance Twiggs's Family Told Her He Showed Up on Drugs at Easter
 
 Claim Timestamp: 00:31:31
-Claim: Per family, Lance Twiggs showed up on drugs at a family Easter Sunday gathering and was spouting political statements; family determined he could not be around children.
+Claim: The host says Lance Twiggs's family members told her that Lance showed up on drugs on this past Easter Sunday, spouting political statements, and that they felt he could not be around children.
 Transcript Snippet: he showed up on drugs and he was spouting out of his mouth about political stuff
 Anchored Artifacts: 
 Mentions: N-54
@@ -1204,10 +1204,10 @@ Investigative Direction: Verify against state ID or DOB records.
 
 ---
 
-**C-1170** Lance Twiggs lived in townhome owned by his family; Tyler paid rent
+**C-1170** Host Says Lance Twiggs's Family Told Her Tyler Paid Rent on Their Home
 
 Claim Timestamp: 00:29:52
-Claim: Tyler Robinson lived with Lance Twiggs in a townhome owned by Lance's family and paid rent to them via Lance.
+Claim: The host says Lance Twiggs's family members told her, as allegations she relays exclusively, that the house Tyler Robinson lived in with Lance is owned by them and that Tyler Robinson pays rent to them.
 Transcript Snippet: the house that Tyler Robinson was living in with Lance is owned by them. Tyler Robinson is paying rent
 Anchored Artifacts: 
 Mentions: N-40, N-54
@@ -1229,10 +1229,10 @@ Investigative Direction: Pull traffic camera footage and license plate reader da
 
 ---
 
-**C-1172** Governor Cox statements conflict with indictment on prior outfit
+**C-1172** Host Says Governor Cox Statements Conflict with Indictment on Prior Outfit
 
 Claim Timestamp: 00:10:40
-Claim: Governor Cox previously described a suspect in light shorts and maroon shirt scouting the venue; the indictment describes only a single suspect in a black American-flag outfit, omitting the prior outfit detail.
+Claim: The host says Governor Cox previously described a suspect in light shorts and a maroon shirt, implying the person was scouting the venue, and that the indictment describes only a single suspect in a black American-flag outfit and omits the prior outfit detail.
 Transcript Snippet: Governor Cox said he was wearing the light shorts and maroon shirt. The implication here being...this is missing from the indictment
 Anchored Artifacts: A-1095.1, A-1095.2
 Mentions: N-40, N-41

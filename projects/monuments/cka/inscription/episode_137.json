@@ -1519,8 +1519,8 @@
       "@type": "Claim",
       "@id": "C-3215",
       "ref": "C-3215",
-      "label": "Andrew Kolvet appeared on Benny Johnson's show from a room at the Asher Adams Hotel in Salt Lake City on Sept 11, 2025",
-      "claim": "A screenshot displayed from Benny Johnson's show on September 11, 2025 shows Andrew Kolvet broadcasting from a room at the Asher Adams (Autograph Collection) Hotel in Salt Lake City.",
+      "label": "Host Says Andrew Kolvet Appeared on Benny Johnson's Show from a Room at the Asher Adams Hotel in Salt Lake City on Sept 11, 2025",
+      "claim": "The host says a still she shows from Benny Johnson's show on September 11, 2025 shows Andrew Kolvet broadcasting from a room at the Asher Adams (Autograph Collection) Hotel in Salt Lake City.",
       "anchored_artifacts": [
         "A-2241.1"
       ],
@@ -1553,7 +1553,7 @@
       "@id": "C-3217",
       "ref": "C-3217",
       "label": "Mark Levin publicly called for arming Iranian protesters",
-      "claim": "Mark Levin, in a played audio segment, urged arming Iranian protesters and referenced testimony from a protest leader describing Iranian streets running \"red with blood.\"",
+      "claim": "In an audio segment the host plays, Mark Levin urges arming Iranian protesters and references testimony from a protest leader describing Iranian streets running \"red with blood.\"",
       "anchored_artifacts": [
         "A-2240.1"
       ],
@@ -2806,7 +2806,7 @@
       "@id": "C-7523",
       "ref": "C-7523",
       "label": "Sky Clip Says an Analyst Spotted the School in 2019 but the Change Was Not Passed Up the Chain",
-      "claim": "In the Sky News segment, one analyst reviewing intelligence on potential targets reportedly spotted the school in 2019 and noted changes on an unclassified intelligence tool, but this was not passed up the chain.",
+      "claim": "In a Sky News segment the host plays, one analyst reviewing intelligence on potential targets reportedly spotted the school in 2019 and noted changes on an unclassified intelligence tool, but this was not passed up the chain.",
       "anchored_artifacts": [
         "A-2239.1"
       ],

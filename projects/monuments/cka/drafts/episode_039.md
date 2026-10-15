@@ -920,11 +920,11 @@ Investigative Direction: Obtain certified court records of the 2009 Delaware con
 
 ---
 
-**C-1804** Judge Jan Jordan ruled treatment in lieu of prison for Richards IV
+**C-1804** Per Vanity Fair Article Host Reads, Judge Jan Jordan Ruled Treatment in Lieu of Prison for Richards IV
 
 Claim Timestamp: 00:07:45
 
-Claim: Judge Jan Jordan ruled that Robert Richards IV would benefit from treatment instead of prison time, citing his height and other factors.
+Claim: Per a Vanity Fair article the host reads, Judge Jan Jordan ruled that Robert Richards IV would benefit from treatment instead of prison time, citing his height and other factors.
 
 Anchored Artifacts: A-1480.1
 Mentions: N-296, N-304
@@ -950,11 +950,11 @@ Investigative Direction: Cross-reference firm partnership records and Richards f
 
 ---
 
-**C-1806** Richards IV admitted to sexually assaulting his infant son
+**C-1806** Per Vanity Fair Article Host Reads, Richards IV Admitted to Sexually Assaulting His Infant Son
 
 Claim Timestamp: 00:09:20
 
-Claim: Robert Richards IV also admitted to sexually assaulting his infant son and was initially charged with two counts of second-degree child rape carrying a mandatory 20-year term, before pleading to a reduced charge of fourth-degree rape.
+Claim: Per a Vanity Fair article the host reads, Robert Richards IV also admitted to sexually assaulting his infant son and was initially charged with two counts of second-degree child rape carrying a mandatory 20-year term, before pleading to a reduced charge of fourth-degree rape.
 
 Anchored Artifacts: A-1480.1
 Mentions: N-296
@@ -965,11 +965,11 @@ Investigative Direction: Obtain the plea agreement and original charging documen
 
 ---
 
-**C-1807** John DuPont shot Olympic wrestler David Schultz dead in 1996
+**C-1807** Per Vanity Fair Article Host Reads, John DuPont Shot Olympic Wrestler David Schultz Dead in 1996
 
 Claim Timestamp: 00:09:20
 
-Claim: John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family mansion in 1996, per Vanity Fair account.
+Claim: Per a Vanity Fair article the host reads, John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family mansion in 1996.
 
 Anchored Artifacts: A-1480.1
 Mentions: N-298, N-303
@@ -980,11 +980,11 @@ Investigative Direction: Confirm against public court records of the John DuPont
 
 ---
 
-**C-1808** Lisa Dean DuPont and Christopher Mosley ordered killing of Las Vegas prostitute
+**C-1808** Per Vanity Fair Reporting Host Relays, Lisa Dean DuPont and Christopher Mosley Ordered Killing of Las Vegas Prostitute
 
 Claim Timestamp: 00:10:39
 
-Claim: Per Vanity Fair, Lisa Dean DuPont and her husband Christopher Mosley ordered the killing of a Las Vegas prostitute whose body was found in a motel air conditioner; money traced to the DuPont family. Both DuPont and Mosley died in prison.
+Claim: Per Dominic Dunne's Vanity Fair reporting as the host relays it, Lisa Dean DuPont and her husband Christopher Mosley ordered the killing of a Las Vegas prostitute whose body was found in a motel air conditioner, with the money tracing to the DuPont family; the host says both DuPont and Mosley died in prison.
 
 Anchored Artifacts: A-1480.1
 Mentions: N-299, N-300
@@ -1111,11 +1111,11 @@ Investigative Direction: Verify Pierre Dupont's existence and donor relationship
 
 ---
 
-**C-1817** Tyler Bowyer discussed TPUSA plans to build houses for first-time home buyers
+**C-1817** Host Says Tyler Bowyer Discussed TPUSA Plans to Build Houses for First-Time Home Buyers
 
 Claim Timestamp: 00:47:01
 
-Claim: A TPUSA source presented proof that Tyler Bowyer was telling people TPUSA plans to roll out a program to build houses for first-time home buyers, leveraging TPUSA's young-Christian audience.
+Claim: The host says, relaying what she learned from one of her sleuths (recorded as a TPUSA source who presented proof), that Tyler Bowyer was telling people TPUSA plans to roll out a program to build houses for first-time home buyers, leveraging TPUSA's position with young Christians as an audience.
 
 Anchored Artifacts: A-1486.4
 Mentions: N-11, N-301

@@ -730,11 +730,11 @@ The host's argument that the security detail parked its own vehicles in a way th
 
 ## V. Claim Register
 
-**C-3357** Judge Graff issued bindover ruling after preliminary hearing
+**C-3357** Host Says Judge Graff Issued Bindover Ruling After Preliminary Hearing
 
 Claim Timestamp: 00:02:24
 
-Claim: Judge Graff ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.
+Claim: The host says Judge Graff ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.
 
 Anchored Artifacts: A-2327, A-2328
 Mentions: N-40
@@ -742,11 +742,11 @@ Mentions: N-40
 
 Investigative Direction: Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed.
 
-**C-3358** Judge Graff declined to dismiss Count 6 (witness tampering)
+**C-3358** Host Says Judge Graff Declined to Dismiss Count 6 (Witness Tampering)
 
 Claim Timestamp: 00:04:11
 
-Claim: Judge Graff declined to dismiss Count 6 (witness tampering for the "ask for a lawyer and stay silent" text to Lance Twiggs) over the defense's constitutional-rights argument.
+Claim: The host says Judge Graff declined to dismiss Count 6 (witness tampering for the "ask for a lawyer and stay silent" text to Lance Twiggs) over the defense's constitutional-rights argument, and she plays a clip of the ruling.
 
 Anchored Artifacts: A-2327, A-2327.1
 Mentions: N-40, N-54
@@ -755,11 +755,11 @@ Related Nodes: N-10826
 
 Investigative Direction: Obtain the written ruling; verify the court's exact reasoning and whether a separate written order accompanies the bench ruling.
 
-**C-3359** Judge acknowledged "ask for a lawyer and stay silent" advice is constitutionally lawful
+**C-3359** In Ruling Clip Host Plays, Judge Says "Ask for a Lawyer and Stay Silent" Advice Is Lawful Standing Alone
 
 Claim Timestamp: 00:05:54
 
-Claim: The court acknowledged on the record that the text "ask for a lawyer and stay silent," standing alone, describes lawful advice concerning constitutional rights and does not establish witness tampering.
+Claim: In a clip of the ruling the host plays, the court says that, standing alone, the text "ask for a lawyer and stay silent" describes lawful advice concerning constitutional rights and does not establish witness tampering.
 
 Anchored Artifacts: A-2327.1
 
@@ -780,11 +780,11 @@ Related Nodes: N-10826
 
 Investigative Direction: Obtain the charging document to confirm the textual basis alleged for each count.
 
-**C-3361** Judge tied Count 6 survival to the existence of Count 5
+**C-3361** Host Says Judge Tied Count 6 Survival to the Existence of Count 5
 
 Claim Timestamp: 00:04:11
 
-Claim: The court permitted Count 6 to proceed by reference to Count 5, stating that the surrounding communications (including the "delete this exchange" instruction) permitted a reasonable inference of obstructive intent.
+Claim: The host says, and a clip she plays of the ruling shows, that the court permitted Count 6 to proceed by reference to Count 5, stating that the surrounding communications, including the alleged "delete this exchange" instruction, permit a reasonable inference of obstructive intent.
 
 Anchored Artifacts: A-2327.1
 Mentions: N-40
@@ -793,11 +793,11 @@ Related Nodes: N-10826
 
 Investigative Direction: Determine whether the defense preserved this issue for trial and whether a motion to reconsider or to dismiss post-bindover was filed.
 
-**C-3362** Tyler Robinson pleaded not guilty to all counts
+**C-3362** In Arraignment Clip Host Plays, Tyler Robinson Pleads Not Guilty to All Counts
 
 Claim Timestamp: 00:08:25
 
-Claim: On September 1, 2026, Tyler Robinson, through counsel, entered pleas of not guilty to all counts in the information.
+Claim: In an arraignment clip the host plays, on September 1, 2026, defense counsel enters pleas of not guilty on Tyler Robinson's behalf to all counts in the information.
 
 Anchored Artifacts: A-2328
 Mentions: N-40
@@ -805,11 +805,11 @@ Mentions: N-40
 
 Investigative Direction: Verify against the court's docket entry; track any subsequent plea amendments.
 
-**C-3363** Defense waived reading of the information at arraignment
+**C-3363** In Arraignment Clip Host Plays, Defense Waives Reading of the Information
 
 Claim Timestamp: 00:08:25
 
-Claim: Defense counsel waived reading of the information at the arraignment hearing before entering the not-guilty pleas.
+Claim: In an arraignment clip the host plays, defense counsel says he waives reading of the information before entering not-guilty pleas.
 
 Anchored Artifacts: A-2328
 Mentions: N-40
@@ -843,11 +843,11 @@ Related Nodes: N-10820
 
 Investigative Direction: Obtain original footage for frame-by-frame analysis; obtain statements from McCoy and Phillip regarding this movement.
 
-**C-3366** Mikey McCoy's hand remained at his ear throughout the post-shot sequence
+**C-3366** Host Says Mikey McCoy's Hand Remained at His Ear Throughout the Post-Shot Sequence
 
 Claim Timestamp: 00:21:22
 
-Claim: Throughout the run to and at Kirk's vehicle, Mikey McCoy kept his hand at his ear – a gesture that prior narratives have attributed to noise-canceling rather than a phone call.
+Claim: The host says that throughout the run to and at Kirk's vehicle, Mikey McCoy kept his hand at his ear, which she says she has been told repeatedly was only to cover noise rather than a phone call.
 
 Anchored Artifacts: A-2329.2
 Mentions: N-194
@@ -882,11 +882,11 @@ Related Nodes:
 
 Investigative Direction: Locate the original source(s) of the prior-night fear claim and corroborate against contemporaneous records (texts, voice mails, third-party accounts).
 
-**C-3369** Christopher and Nate Walker were upstairs near the Sorensen building minutes before the shot
+**C-3369** Host Says Christopher and Nate Walker Were Upstairs Near the Sorensen Building Minutes Before the Shot
 
 Claim Timestamp: 00:17:03
 
-Claim: Christopher (Kirk's main security person / driver) and Nate Walker were observed walking toward the Sorensen building, upstairs, in the minutes before the shot.
+Claim: The host says Christopher (Kirk's main security person) and Nate Walker walked toward the Sorensen building and were upstairs in the minutes before the shot, in a clip she says was sent via TikTok to Baron Coleman.
 
 Anchored Artifacts: A-2329.4
 Mentions: N-510
@@ -895,11 +895,11 @@ Related Nodes: N-10821
 
 Investigative Direction: Obtain original TikTok source footage with timestamp; obtain statements from Christopher and Walker regarding their location and purpose.
 
-**C-3370** Christopher's absence from the vehicle preceded the shot by minutes
+**C-3370** Host Says Christopher's Absence From the Vehicle Preceded the Shot by Minutes
 
 Claim Timestamp: 00:17:03
 
-Claim: Christopher left the immediate vehicle area and went upstairs minutes before the shot; by the time he came back downstairs, his vehicle was gone.
+Claim: The host says Christopher left the immediate vehicle area and went upstairs minutes before the shot, and that by the time he came back downstairs, his car was gone.
 
 Anchored Artifacts: A-2329.4
 
@@ -920,11 +920,11 @@ Related Nodes: N-10820, N-10822, N-10823
 
 Investigative Direction: Identify the named sources; cross-reference against vehicle GPS / fleet logs and security team statements.
 
-**C-3372** UVU security vehicles arrived between 9:00 and 9:30 a.m. on 9/10
+**C-3372** Host Says UVU Security Vehicles Arrived Between 9:00 and 9:30 a.m. on 9/10
 
 Claim Timestamp: 00:12:54
 
-Claim: The two security vehicles (black Jeep Wagoneer and Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., before Charlie Kirk's arrival in Salt Lake City for the restaurantology event.
+Claim: The host says that, based on the security team's testimonies, the two security vehicles (a black Jeep Wagoneer and a Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., before Charlie Kirk arrived in Salt Lake City for the restaurantology event.
 
 Anchored Artifacts: A-2330 (diagram only; times based on host narrative)
 Mentions: N-1, N-498
@@ -1010,11 +1010,11 @@ Related Nodes: N-10824
 
 Investigative Direction: Confirm both posts remain on X; compare timestamps.
 
-**C-3379** Defense counsel framed his argument as a citation of the state's own theory
+**C-3379** Host Says Defense Counsel Framed His Argument as a Citation of the State's Own Theory
 
 Claim Timestamp: 00:42:00
 
-Claim: Defense counsel Richard Novac, in his probable-cause-hearing argument, was not advancing a personal thesis that political assassinations are acceptable; he was citing the state's own theory to argue that the state had failed to satisfy its burden even on its own framing.
+Claim: The host says defense counsel Richard Novac, in his probable-cause-hearing argument, was not advancing a personal thesis that political assassinations are acceptable but was citing the state's own theory to argue that the state had failed to satisfy its burden even on its own framing.
 
 Anchored Artifacts: A-2336, A-2337
 Mentions: N-40, N-431
@@ -1023,11 +1023,11 @@ Related Nodes: N-10824, N-10825
 
 Investigative Direction: Read Novac's full argument transcript; compare against Aug 11 filing page 32 and the state's responsive briefing.
 
-**C-3380** State is pursuing sentence enhancement based on political motivation
+**C-3380** Host Says State Is Pursuing Sentence Enhancement Based on Political Motivation
 
 Claim Timestamp: 00:45:58
 
-Claim: The state is pursuing sentence enhancements based on the theory that Kirk was targeted for his political or religious beliefs, with the "some hate just can't be negotiated" text as the central anchor.
+Claim: The host says the state is pursuing sentence enhancements on the theory that Charlie Kirk was targeted for his political or religious beliefs, with the "some hate just can't be negotiated" text as the central anchor.
 
 Anchored Artifacts: A-2336, A-2337
 Mentions: N-40
@@ -1036,11 +1036,11 @@ Related Nodes: N-10825
 
 Investigative Direction: Obtain the state's sentencing-enhancement motion and the controlling Utah statute to verify the elements and the state's proffer.
 
-**C-3381** State has not identified specific Kirk statements alleged to be "hateful"
+**C-3381** Host Says State Has Not Identified Specific Kirk Statements Alleged to Be "Hateful"
 
 Claim Timestamp: 00:45:58
 
-Claim: The state's filings do not identify which specific statements by Charlie Kirk they contend are "hateful" toward the LGBTQ community; the defense characterizes this as inferring upon an inference.
+Claim: The host says the state's filings do not identify which specific statements by Charlie Kirk they contend are "hateful" toward the LGBTQ community, and she describes the defense as characterizing this as inferring upon an inference.
 
 Anchored Artifacts: A-2336, A-2337
 Mentions: N-40, N-1
@@ -1062,11 +1062,11 @@ Related Nodes: N-10825
 
 Investigative Direction: Obtain page 32 directly; compare with the state's response and the preliminary-hearing transcript.
 
-**C-3383** State's theory turns in part on Twiggs's intermittent non-gender-conforming identification
+**C-3383** Per Defense Filing Host Reads, State's Theory Turns in Part on Twiggs's Intermittent Non-Gender-Conforming Identification
 
 Claim Timestamp: 00:48:38
 
-Claim: The state's theory relies in part on the proposition that Lance Twiggs (not Tyler Robinson) was "at least intermittently identifying as a female to his close friends," and that this is part of the inferential chain supporting the political-motivation enhancement.
+Claim: Per the defense filing the host shows and reads (page 32), the state's theory relies in part on the proposition that Lance Twiggs, and not Tyler Robinson, was "at least intermittently identifying as a female to his close friends," as part of the inferential chain supporting the political-motivation enhancement.
 
 Anchored Artifacts: A-2337
 Mentions: N-40, N-54

@@ -2164,7 +2164,7 @@
       "@id": "C-2225",
       "ref": "C-2225",
       "label": "Piers Morgan Chart Cited 2014 Casualty Ratio of ~1:27",
-      "claim": "Bassem Youssef's Piers Morgan appearance displayed a chart stating that in 2014, 88 Israelis and 2,329 Palestinians were killed, which Youssef described as \"one Israeli for 27 Palestinian.\"",
+      "claim": "In a clip of his Piers Morgan appearance that the host plays, Bassem Youssef displays a chart stating that in 2014, 88 Israelis and 2,329 Palestinians were killed, which he describes as \"one Israeli for 27 Palestinian.\"",
       "anchored_artifacts": [
         "A-1690.1"
       ],
@@ -2203,8 +2203,8 @@
       "@type": "Claim",
       "@id": "C-2227",
       "ref": "C-2227",
-      "label": "Tucker Carlson Won Anti-Semite of the Year",
-      "claim": "Per Youssef's show, Tucker Carlson won Anti-Semite of the Year (2025 per context).",
+      "label": "In Clip, Bassem Youssef Says Tucker Carlson Won Anti-Semite of the Year",
+      "claim": "In a clip of his show that the host plays, Bassem Youssef says Tucker Carlson won Anti-Semite of the Year (2025 per context).",
       "anchored_artifacts": [
         "A-1691.1"
       ],
@@ -2384,8 +2384,8 @@
       "@type": "Claim",
       "@id": "C-2237",
       "ref": "C-2237",
-      "label": "Bassem Youssef Tour Dates Include Portland March 20 and Seattle March 21",
-      "claim": "Youssef announced Belly of the Beast tour dates: Portland March 20, Seattle March 21, with additional cities Philadelphia, DC, Houston, Atlanta.",
+      "label": "Bassem Youssef Says His Tour Dates Include Portland March 20 and Seattle March 21",
+      "claim": "Bassem Youssef, the episode's guest, says his Belly of the Beast tour dates include Portland March 20 and Seattle March 21, with additional cities Philadelphia, DC, Houston, Atlanta.",
       "anchored_artifacts": [
         "A-1695.1"
       ],

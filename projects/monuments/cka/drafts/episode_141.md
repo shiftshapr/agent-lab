@@ -670,11 +670,11 @@ The host's $300K payment from Wilson's offer, the demands that she donate it or 
 
 ## V. Claim Register
 
-**C-3277** Wilson Opened Debate by Reading From His Phone About "Never-Before-Seen Messages"
+**C-3277** Wilson Opened Debate by Reading From His Phone About "Never-Before-Seen Messages," Per Clip Host Plays
 
 Claim Timestamp: 00:18:36
 
-Claim: Andrew Wilson's debate opening statement was read aloud from a mobile phone and concerned "never-before-seen messages" from Charlie Kirk to his security team dated September 9, 2025.
+Claim: The host plays a clip in which Andrew Wilson, reading from his phone, opens the debate by saying he holds "never before seen messages" from Charlie Kirk to his security team dated September 9, 2025.
 
 Anchored Artifacts: A-2277.1
 Mentions: N-18, N-1
@@ -707,11 +707,11 @@ Mentions: N-18, N-40
 
 Investigative Direction: Cross-reference the published charging instrument from the Utah case to verify the seven-count list and confirm which charge(s) Wilson named correctly versus incorrectly.
 
-**C-3280** Wilson Repeatedly Used the Phrase "Positive Evidence" During the Debate
+**C-3280** Host Says Wilson Repeatedly Used the Phrase "Positive Evidence" During the Debate
 
 Claim Timestamp: 00:29:04
 
-Claim: Throughout the debate, Andrew Wilson repeated the phrase "positive evidence" multiple times as his principal rebuttal device.
+Claim: The host says that throughout the debate Andrew Wilson repeated the phrase "positive evidence" multiple times as his principal rebuttal device.
 
 Anchored Artifacts: A-2277.3
 Mentions: N-18
@@ -743,11 +743,11 @@ Mentions: N-18, N-263
 
 Investigative Direction: Identify any further post-debate coordination between Crowder's organization and Wilson; verify whether the hair/makeup assertion contradicts the published terms of the debate.
 
-**C-3283** Poly Market Odds on Tyler Robinson Conviction Dropped During the Debate
+**C-3283** Host Says Poly Market Odds on Tyler Robinson Conviction Dropped During the Debate
 
 Claim Timestamp: 01:00:00
 
-Claim: The Poly Market prediction market odds on a Tyler Robinson conviction fell during the debate, hitting approximately 34% mid-debate.
+Claim: The host says the Poly Market prediction market odds on a Tyler Robinson conviction fell during the debate, and she thinks they hit approximately 34% mid-debate.
 
 Anchored Artifacts: A-2282.1
 Mentions: N-40
@@ -821,11 +821,11 @@ Related Nodes:
 
 Investigative Direction: Identify original posting timestamp; verify whether @alpha_approved's content has prior documented activity in the series.
 
-**C-3289** Wilson's Opening Statement Included the Claim "I Have His Cell Phone"
+**C-3289** In Clip Host Plays, Wilson's Opening Statement Included "I Have His Cell Phone"
 
 Claim Timestamp: 00:19:49
 
-Claim: During his debate opening, Andrew Wilson asserted that he possessed Charlie Kirk's cell phone.
+Claim: In a debate clip the host plays, Andrew Wilson says in his opening that he has Charlie Kirk's cell phone; the host's clip shows him saying "And I have his cell phone."
 
 Anchored Artifacts: A-2277.1
 Mentions: N-18, N-1

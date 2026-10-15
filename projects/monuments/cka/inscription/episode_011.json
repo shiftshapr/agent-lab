@@ -1531,8 +1531,8 @@
       "@type": "Claim",
       "@id": "C-1297",
       "ref": "C-1297",
-      "label": "Tyler Robinson uses \"car\" rather than \"vehicle\" in 2022 police bodycam footage",
-      "claim": "The 2022 police bodycam audio presented in the episode shows Tyler Robinson referring to \"his car\" and his mother \"shuttling over from her car,\" contrasting with the federal text messages' vocabulary.",
+      "label": "Host Says Tyler Robinson Uses \"Car\" Rather Than \"Vehicle\" in 2022 Police Bodycam Footage",
+      "claim": "The host says the 2022 police bodycam audio she plays shows Tyler Robinson referring to \"his car\" and his mother \"shuttling over from her car,\" which she contrasts with the vocabulary of the federal text messages.",
       "anchored_artifacts": [
         "A-1171.1"
       ],
@@ -1870,8 +1870,8 @@
       "@type": "Claim",
       "@id": "C-1315",
       "ref": "C-1315",
-      "label": "Phil Lyman offered independent investigator Ian Carroll a tour of the area",
-      "claim": "Per Nick's account, Phil Lyman offered a tour of the area to Ian Carroll, who was conducting a separate on-the-ground investigation; Nick found this \"weird\" given that Lyman lives four hours away.",
+      "label": "Nick Says Phil Lyman Offered Independent Investigator Ian Carroll a Tour of the Area",
+      "claim": "Per Nick's account as relayed by the host, Phil Lyman offered a tour of the area to Ian Carroll, who was conducting a separate on-the-ground investigation; Nick found this \"weird\" given that Lyman lives four hours away.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10144"

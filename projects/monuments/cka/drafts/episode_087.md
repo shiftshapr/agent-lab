@@ -1277,11 +1277,11 @@ Investigative Direction: Confirm spelling of "Karashy" vs. "Qureshi" against off
 
 ---
 
-**C-2630** Ahmed Qureshi Is Active-Duty Navy Captain (O6)
+**C-2630** Host Says Ahmed Qureshi Is Active-Duty Navy Captain (O6)
 
 Claim Timestamp: 00:10:27–00:12:44
 
-Claim: Ahmed Qureshi's LinkedIn profile lists him as President/COO of Built Incorporated, an O6 commanding officer (Navy Captain) at East Coast HQ since May 2024.
+Claim: Per Ahmed Qureshi's LinkedIn profile, which the host shows, he is President/COO of Built Incorporated and an O6 commanding officer (Navy Captain) at East Coast HQ since May 2024, according to the host.
 
 Anchored Artifacts: A-1919.1
 Mentions: N-417
@@ -1292,11 +1292,11 @@ Investigative Direction: Verify current rank and command assignment via official
 
 ---
 
-**C-2631** Ahmed Qureshi and Nathan Henderson Co-Founded Built Incorporated
+**C-2631** Host Says Ahmed Qureshi and Nathan Henderson Co-Founded Built Incorporated
 
 Claim Timestamp: 00:00:00–00:00:01
 
-Claim: Built Incorporated was co-founded by Ahmed Qureshi (an O5 at the time) and Nathan Henderson in 2015.
+Claim: The host says Built Incorporated was co-founded by Ahmed Qureshi (an O5 at the time) and Nathan Henderson in 2015.
 
 Anchored Artifacts: A-1919.1, A-1920.1
 Mentions: N-417, N-418, N-420, N-419
@@ -1307,11 +1307,11 @@ Investigative Direction: Cross-check corporate registration records (Secretary o
 
 ---
 
-**C-2632** Built Inc. Received ~$7.4M Air Force + ~$240K Navy in June 2025
+**C-2632** Host Says USA Spending Shows Built Inc. Received ~$7.4M Air Force + ~$240K Navy in June 2025
 
 Claim Timestamp: 00:15:43–00:16:05
 
-Claim: USA Spending records show Built Incorporated received approximately $7.4M from the Air Force and just under $240K from the Navy in June 2025, with the largest contracts dated June 1 and June 16, 2025.
+Claim: The host says USA Spending records show Built Incorporated received approximately $7.4M from the Air Force and just under $240K from the Navy in June 2025, with the largest contracts dated June 1 and June 16, 2025.
 
 Anchored Artifacts: A-1920.1, A-1920.2
 Mentions: N-417, N-418, N-420, N-419
@@ -1322,11 +1322,11 @@ Investigative Direction: Retrieve the raw USA Spending entries for Built Inc. by
 
 ---
 
-**C-2633** Gina Romney Henderson Is VP UX at Built Inc. and BYU Alumna
+**C-2633** Host Shows LinkedIn Listing Gina Romney Henderson as VP UX at Built Inc.
 
 Claim Timestamp: 00:17:51
 
-Claim: Gina Romney Henderson's LinkedIn profile identifies her as Vice President of User Experience at Built Incorporated and as a BYU alumna.
+Claim: Per Gina Romney Henderson's LinkedIn profile, which the host shows, she is Vice President of User Experience at Built Incorporated; the host also says she is a BYU alumna.
 
 Anchored Artifacts: A-1921.1
 Mentions: N-417, N-418, N-420, N-419
@@ -1337,11 +1337,11 @@ Investigative Direction: Confirm employment and BYU degree via LinkedIn and univ
 
 ---
 
-**C-2634** Connor Henderson Worked as ER Scribe at Timpanogos
+**C-2634** Host Says Connor Henderson Worked as ER Scribe at Timpanogos
 
 Claim Timestamp: 00:17:51–00:19:43
 
-Claim: Connor Henderson worked as an emergency room scribe at Timpanogos Hospital from 2024 until approximately the time of Charlie Kirk's assassination.
+Claim: The host says Connor Henderson worked as an emergency room scribe at Timpanogos Hospital from 2024 until approximately the time of Charlie Kirk's assassination, if his LinkedIn is to be believed.
 
 Anchored Artifacts: (host assertion; LinkedIn described but specific URL not pinned)
 Mentions: N-1, N-417, N-418, N-420, N-419
@@ -1411,11 +1411,11 @@ Investigative Direction: Pull property records for Keller, Texas to identify own
 
 ---
 
-**C-2639** Andrew Zenger Appointed CEO of Timpanogos on 2025-08-19
+**C-2639** Host Says Andrew Zenger Was Appointed CEO of Timpanogos on 2025-08-19
 
 Claim Timestamp: 00:23:46
 
-Claim: Andrew Zenger was appointed CEO of Timpanogos Hospital on August 19, 2025, weeks before the September 10 event.
+Claim: The host says Andrew Zenger was appointed CEO of Timpanogos Hospital on August 19, 2025, weeks before the September 10 event.
 
 Anchored Artifacts: (host assertion; not displayed on screen)
 Mentions: N-137, N-422, N-421, N-423
@@ -1426,11 +1426,11 @@ Investigative Direction: Confirm via Timpanogos press releases, LinkedIn, or Uta
 
 ---
 
-**C-2640** Andrew Zenger Previously COO at Medical City, McKinney, Texas
+**C-2640** Host Says Andrew Zenger Was Previously COO at Medical City, McKinney, Texas
 
 Claim Timestamp: 00:23:46–00:24:39
 
-Claim: Prior to Timpanogos, Andrew Zenger served as COO of Medical City in McKinney, Texas.
+Claim: The host says that prior to Timpanogos, Andrew Zenger served as COO of Medical City in McKinney, Texas.
 
 Anchored Artifacts: (host assertion; not displayed on screen)
 Mentions: N-137, N-422, N-421, N-423
@@ -1485,11 +1485,11 @@ Investigative Direction: Identify Metro One Talent corporate records and any gov
 
 ---
 
-**C-2644** Michael Shawn Covey (Zenger's Jerusalem Roommate) Does CIA Contract Work
+**C-2644** Host Says Michael Shawn Covey (Zenger's Jerusalem Roommate) Does CIA Contract Work
 
 Claim Timestamp: 00:27:39
 
-Claim: Michael Shawn Covey, a roommate of Andrew Zenger from the Jerusalem period, contracts with the CIA.
+Claim: The host says Michael Shawn Covey, a roommate of Andrew Zenger from the Jerusalem period, contracts with the CIA.
 
 Anchored Artifacts: (host assertion; no displayed evidence)
 Mentions: N-137, N-422, N-421, N-423
@@ -1500,11 +1500,11 @@ Investigative Direction: Verify any government contract records for "Michael Sha
 
 ---
 
-**C-2645** Robbie Hild Attended BYU, Played Lacrosse, Graduated ~2020
+**C-2645** Host Says Robbie Hild Attended BYU, Played Lacrosse, Graduated ~2020
 
 Claim Timestamp: 00:29:30–00:30:18
 
-Claim: Robbie Hild attended BYU, played lacrosse, and appears to have graduated around 2020.
+Claim: The host says Robbie Hild attended BYU, played lacrosse, and appears to have graduated around 2020.
 
 Anchored Artifacts: A-1924.2
 
@@ -1528,11 +1528,11 @@ Investigative Direction: Obtain copies of the original SMS messages and the time
 
 ---
 
-**C-2647** Turning Point Sent Funeral-Image Direct Mail Fundraising
+**C-2647** Viewer Comment Host Reads Says Turning Point Sent Funeral-Image Fundraising Mailer
 
 Claim Timestamp: 00:44:25–00:45:16
 
-Claim: Turning Point sent a direct mail piece featuring an image of Erika Kirk walking out at Charlie's funeral in a sparkle suit with fireworks, used as a fundraising solicitation.
+Claim: A viewer comment the host reads (from Yoshi) says Turning Point sent a direct mail piece featuring an image of Erika Kirk walking out at Charlie's funeral in a sparkle suit with fireworks as a fundraising solicitation; the host says she heard mailers like this were sent.
 
 Anchored Artifacts: A-1926.1
 Mentions: N-2
@@ -1556,11 +1556,11 @@ Investigative Direction: Verify via marriage records, family genealogical databa
 
 ---
 
-**C-2649** Caleb Cunningham Was in Jerusalem During 2012 Romney Campaign
+**C-2649** Host Says Caleb Cunningham Was in Jerusalem During 2012 Romney Campaign
 
 Claim Timestamp: 00:25:43–00:26:30
 
-Claim: Caleb Cunningham was in Jerusalem with Andrew Zenger during the Romney 2012 presidential campaign and was active on the campaign.
+Claim: The host says Caleb Cunningham was in Jerusalem with Andrew Zenger during the Romney 2012 presidential campaign and was active on the campaign.
 
 Anchored Artifacts: (host assertion)
 Mentions: N-137, N-422, N-421, N-423
@@ -1571,11 +1571,11 @@ Investigative Direction: Cross-reference Romney 2012 campaign staff lists and BY
 
 ---
 
-**C-2650** Jeffrey Knuckles Was in Jerusalem and Later Romney Campaign Advisor
+**C-2650** Host Says Jeffrey Knuckles Was in Jerusalem and Later Romney Campaign Advisor
 
 Claim Timestamp: 00:25:43–00:26:30
 
-Claim: Jeffrey Knuckles was in Jerusalem with Andrew Zenger during the 2012 Romney campaign period and later served as an advisor to Romney's campaign.
+Claim: The host says Jeffrey Knuckles was in Jerusalem with Andrew Zenger during the 2012 Romney campaign period and later served as an advisor to Romney's campaign.
 
 Anchored Artifacts: (host assertion)
 Mentions: N-137, N-422, N-421, N-423

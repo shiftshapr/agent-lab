@@ -606,11 +606,11 @@ First named by the host at 00:18:15 in episode 21. Boy the host says Charlie Kir
 
 # V. Claim Register
 
-**C-1514** TPUSA Wikipedia Entry Updated at 10:34 PM ET on September 11, 2025 to Add Rob McCoy as Co-Founder of TPUSA Faith
+**C-1514** Host Says TPUSA Wikipedia Entry Was Updated at 10:34 PM ET on September 11, 2025 to Add Rob McCoy as Co-Founder of TPUSA Faith
 
 Claim Timestamp: 00:03:03
 
-Claim: The TPUSA Wikipedia entry was updated at 10:34 PM Eastern on September 11, 2025 – less than 36 hours after Charlie Kirk's death – to add a heading naming Pastor Rob McCoy and Charlie Kirk as co-founders of TPUSA Faith.
+Claim: The host says the TPUSA Wikipedia entry was updated at 10:34 PM Eastern on September 11, 2025 - less than 36 hours after Charlie Kirk's death - to add a heading naming Pastor Rob McCoy and Charlie Kirk as co-founders of TPUSA Faith.
 
 Anchored Artifacts: A-1283.2
 Mentions: N-17, N-1
@@ -711,11 +711,11 @@ Investigative Direction: Confirm via the NYT article whether these named officia
 
 ---
 
-**C-1521** Trump Established October 14 as a National Day of Remembrance for Charlie Kirk
+**C-1521** Host Says Trump Established October 14 as a National Day of Remembrance for Charlie Kirk
 
 Claim Timestamp: 00:13:10
 
-Claim: President Trump signed or otherwise established October 14 – Charlie Kirk's birthday – as a national day of remembrance for Charlie Kirk.
+Claim: The host says President Trump signed into law or otherwise established October 14 - Charlie Kirk's birthday - as a national day of remembrance for Charlie Kirk.
 
 Anchored Artifacts: A-1289.1
 Mentions: N-1, N-5

@@ -858,11 +858,11 @@ Investigative Direction: Obtain the full CNN interview and any related Reeve rep
 
 ---
 
-**C-1646** Eric and Laura Trump Spoke at Auburn TPUSA Event
+**C-1646** Host Says Eric and Laura Trump Spoke at Auburn TPUSA Event
 
 Claim Timestamp: 00:39:12–00:41:34
 
-Claim: Eric and Laura Trump appeared as speakers at a recent Turning Point USA event at Auburn University following Charlie Kirk's death.
+Claim: The host says Eric and Laura Trump appeared as speakers at a recent Turning Point USA event at Auburn University following Charlie Kirk's death.
 
 Anchored Artifacts: A-1363.1
 Mentions: N-1

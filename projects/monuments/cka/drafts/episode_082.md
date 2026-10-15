@@ -803,11 +803,11 @@ Investigative Direction: Obtain written confirmation from the charter operator; 
 
 ---
 
-**C-2547** Charlie Kirk's plane was below 7,500 ft approaching Provo at 3:26 PM MST on September 10, 2025
+**C-2547** Host Says ADSB Exchange Shows Charlie Kirk's Plane Below 7,500 ft Approaching Provo at 3:26 PM MST on September 10, 2025
 
 Claim Timestamp: 00:24:05
 
-Claim: ADSB Exchange data shows Charlie Kirk's plane at 3:26 PM MST descending below 7,500 feet, minutes from touching down at Provo.
+Claim: The host says ADSB Exchange data shows Charlie Kirk's plane at 3:26 PM MST descending below 7,500 feet, minutes from touching down at Provo.
 
 Anchored Artifacts: A-1888.1
 Mentions: N-1

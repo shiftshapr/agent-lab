@@ -861,7 +861,7 @@ Investigative Direction: Obtain the full leaked town hall video; verify the exac
 
 Claim Timestamp: 00:35:44
 
-Claim: Mark Amodei publicly asserted via X that on September 9 he was in a 12-hour House Appropriations Committee meeting and voting on the House floor, citing the public record.
+Claim: Per a post on X by Mark Amodei that the host reads, on September 9 he was in a 12-hour House Appropriations Committee meeting and voting on the House floor, citing the public record.
 
 Anchored Artifacts: A-1564.1
 Mentions: N-368
@@ -887,11 +887,11 @@ Investigative Direction: Independently verify against the official House roll ca
 
 ---
 
-**C-1985** Mitch Identified Cabot Phillips from a Photograph as a Person Seen at Fort Huachuca
+**C-1985** Host Says Mitch Identified Cabot Phillips from a Photograph as a Person Seen at Fort Huachuca
 
 Claim Timestamp: 00:41:56 – 00:43:14
 
-Claim: After being shown a photograph of Cabot Phillips without contextual identification, Mitch identified him as a person he observed at Fort Huachuca on the morning of September 9.
+Claim: The host says that after she sent Mitch a photograph of Cabot Phillips without contextual identification, Mitch identified him as a person he observed at Fort Huachuca on the morning of September 9.
 
 Anchored Artifacts: A-1566.1
 Mentions: N-366, N-369

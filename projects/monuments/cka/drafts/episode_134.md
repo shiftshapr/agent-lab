@@ -713,7 +713,7 @@ Investigative Direction: Obtain the original tweet thread; verify timing relativ
 
 Claim Timestamp: 00:15:40
 
-Claim: On 2025-09-11 at approximately 5:27 PM Phoenix time, Sky News broadcast that Air Force 2 had landed at Sky Harbor Airport carrying Kirk's body and that the motorcade was heading to Hansen Mortuary in Phoenix.
+Claim: In a Sky News clip the host plays, a reporter says that on 2025-09-11 at approximately 5:27 PM Phoenix time Air Force 2 had landed at Sky Harbor Airport carrying Kirk's body and that the motorcade was heading to Hansen Mortuary in Phoenix.
 
 Anchored Artifacts: A-2205.1
 Mentions: N-1

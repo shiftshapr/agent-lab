@@ -1288,10 +1288,10 @@ The host's claim that each Egyptian plane visit in 2023 coincided with a TPUSA F
 
 # V. Claim Register
 
-**C-1545** SUBTT (Falcon 7X, Egyptian-registered) tracked into U.S. cities between 2022 and 2025, repeatedly landing in proximity to TPUSA / TPUSA Faith / Charlie Kirk events
+**C-1545** Host Says SUBTT (Falcon 7X) Was Tracked Into U.S. Cities in 2022-2025, Repeatedly Landing Near TPUSA / TPUSA Faith / Charlie Kirk Events
 
 Claim Timestamp: 00:05:35
-Claim: The episode presents Flightradar tracking data showing the Egyptian-registered Falcon 7X tail number SUBTT making multiple U.S. arrivals between 2022 and September 2025 in locations including St. Louis, Kansas, Lincoln (NE), Wichita, and Provo, in temporal proximity to TPUSA, TPUSA Faith, or Charlie Kirk events.
+Claim: The host says Flightradar tracking data she presents shows the Egyptian-registered Falcon 7X tail number SUBTT making multiple U.S. arrivals between 2022 and September 2025 in locations including St. Louis, Kansas, Lincoln (NE), Wichita, and Provo, in temporal proximity to TPUSA, TPUSA Faith, or Charlie Kirk events.
 Anchored Artifacts: A-1301.1, A-1301.2, A-1301.3, A-1301.4, A-1301.5, A-1301.6, A-1301.7, A-1301.8, A-1301.9
 Mentions: N-1, N-17
 Related Nodes: N-10207
@@ -1299,10 +1299,10 @@ Investigative Direction: Pull official Flightradar / ADS-B archives for SUBTT ac
 
 ---
 
-**C-1546** SUBND (Gulfstream 4, Egyptian-registered) tracked into U.S. cities across 2023–2025 with pattern of extended stays and post-event departures
+**C-1546** Host Says SUBND (Gulfstream 4) Was Tracked Into U.S. Cities in 2023-2025 With a Pattern of Extended Stays and Post-Event Departures
 
 Claim Timestamp: 00:09:38
-Claim: The episode presents Flightradar tracking data showing the Egyptian-registered Gulfstream 4 tail number SUBND arriving in St. Louis on February 21, 2023 (remaining until May), arriving in Provo on April 19, 2024, arriving in Provo on May 23, 2025, and departing Provo on September 13, 2025 via Canada and Paris back to Cairo.
+Claim: The host says Flightradar tracking data she presents shows the Egyptian-registered Gulfstream 4 tail number SUBND arriving in St. Louis on February 21, 2023 (remaining until May), arriving in Provo on April 19, 2024, arriving in Provo on May 23, 2025, and departing Provo on September 13, 2025 via Canada and Paris back to Cairo.
 Anchored Artifacts: A-1302.1, A-1302.2, A-1302.3, A-1302.4
 Mentions: N-1
 Related Nodes: N-10208
@@ -1346,7 +1346,7 @@ Investigative Direction: Retrieve the cited article directly; confirm each enume
 **C-1550** SUBND May 23, 2025 Provo Arrival Described by Host as Possible Maintenance Stop
 
 Claim Timestamp: 00:26:47
-Claim: The episode characterizes the May 23, 2025 Provo arrival of SUBND as appearing to be a "legitimate maintenance stop" based on observed test-flying activity around that time.
+Claim: The host says the May 23, 2025 Provo arrival of SUBND appeared to be a "legitimate maintenance stop" based on test-flying activity around that time.
 Anchored Artifacts: A-1302.3
 Related Nodes: N-10208
 Investigative Direction: Verify against FAA / airport maintenance logs whether a documented maintenance event is associated with the SUBND arrival.
@@ -1363,10 +1363,10 @@ Investigative Direction: Cross-reference Provo airport manifest or charter opera
 
 ---
 
-**C-1552** SUBND Departed Provo on September 13, 2025 via Canada → Paris → Cairo
+**C-1552** Host Says SUBND Departed Provo on September 13, 2025 via Canada, Paris, and Cairo
 
 Claim Timestamp: 00:40:48
-Claim: The episode presents that the SUBND plane left Provo on September 13, 2025, three days after Charlie Kirk's assassination, routing through Canada and Paris back to Cairo.
+Claim: The host says the SUBND plane left Provo on September 13, 2025, three days after Charlie Kirk's assassination, routing through Canada and Paris back to Cairo.
 Anchored Artifacts: A-1302.4
 Mentions: N-1
 Related Nodes: N-10208
@@ -1386,10 +1386,10 @@ Investigative Direction: Verify via Google Trends / search-source attribution wh
 
 ---
 
-**C-1554** N102DZ Flew Scottsdale → Salt Lake City at 7:12 AM on Day of Assassination
+**C-1554** Host Says N102DZ Flew Scottsdale to Salt Lake City at 7:12 AM on Day of Assassination
 
 Claim Timestamp: 00:42:24
-Claim: The episode presents that N102DZ (G5 private jet) departed Scottsdale for Salt Lake City at 7:12 AM local time on the day of Charlie Kirk's assassination and landed at 9:23 AM local.
+Claim: The host says N102DZ (G5 private jet) departed Scottsdale for Salt Lake City at 7:12 AM local time on the day of Charlie Kirk's assassination and landed at 9:23 AM local.
 Anchored Artifacts: A-1309.1
 Mentions: N-1
 Related Nodes: N-10215
@@ -1397,20 +1397,20 @@ Investigative Direction: Pull Flightradar / FAA archives for N102DZ on September
 
 ---
 
-**C-1555** N102DZ Departed Salt Lake City at ~1:00 PM on Day of Assassination After a 15-Minute Scottsdale Turn-Around
+**C-1555** Host Says N102DZ Departed Salt Lake City at About 1:00 PM on Day of Assassination After a 15-Minute Scottsdale Turn-Around
 
 Claim Timestamp: 00:43:20
-Claim: The episode presents that N102DZ departed Salt Lake City at ~1:00 PM local on September 10, 2025, returned to Scottsdale, remained on the ground ~15 minutes, and turned back toward Scottsdale.
+Claim: The host says N102DZ departed Salt Lake City at about 1:00 PM local on September 10, 2025, returned to Scottsdale, remained on the ground about 15 minutes, and turned back toward Scottsdale.
 Anchored Artifacts: A-1309.1
 Related Nodes: N-10215
 Investigative Direction: Verify the second-leg flight path; cross-check with Flightradar archives and FAA tracks.
 
 ---
 
-**C-1556** Borderline Bar and Grill Shooting Occurred November 7, 2018 in Thousand Oaks, CA, Killing 11 Patrons Plus Shooter
+**C-1556** Host Says Borderline Bar and Grill Shooting Occurred November 7, 2018 in Thousand Oaks, CA, Killing 11 Patrons Plus Shooter
 
 Claim Timestamp: 00:17:04
-Claim: The episode references the November 7, 2018 shooting at Borderline Bar and Grill in Thousand Oaks, CA, in which a former Marine killed 11 patrons and himself, with additional Marine/veteran victims present.
+Claim: The host says that on November 7, 2018 a former Marine machine gunner opened fire at the Borderline Bar and Grill in Thousand Oaks, CA, killing 11 patrons and himself, and that the victims included other Marines and veterans.
 Anchored Artifacts: A-1310.1
 Mentions: N-17
 Related Nodes: N-10213
@@ -1431,10 +1431,10 @@ Investigative Direction: Locate the cited Netanyahu public statement (interview,
 
 ---
 
-**C-1558** Joel Osteen's Megachurch Had Approximately $500,000 in Cash Discovered by a Plumber
+**C-1558** Host Says News Story Reports Plumber Discovered About $500,000 in Cash at Joel Osteen's Megachurch
 
 Claim Timestamp: 00:29:46
-Claim: The episode references a news story in which a plumber repairing a toilet at Joel Osteen's megachurch discovered approximately $500,000 in cash stuffed in envelopes inside a wall, with Osteen's public response framed as acknowledging missing church funds.
+Claim: The host says a news story she brings up reports that a plumber repairing a toilet at Joel Osteen's megachurch discovered approximately $500,000 in cash stuffed in envelopes inside a wall, and she characterizes Osteen's public response as acknowledging missing church funds.
 Anchored Artifacts: A-1308.1
 Mentions: N-211
 Related Nodes: N-10214
@@ -1444,10 +1444,10 @@ Investigative Direction: Retrieve the underlying news article; verify the exact 
 
 ---
 
-**C-1559** Tucker Carlson Gave a Speech at TPUSA Conference on July 11, 2025 Addressing Epstein, Israel, and Foreign Military Service
+**C-1559** Host Says Tucker Carlson Gave a Speech at TPUSA Conference on July 11, 2025 Addressing Epstein, Israel, and Foreign Military Service
 
 Claim Timestamp: 00:32:39
-Claim: The episode presents that Tucker Carlson delivered a speech at the TPUSA conference on July 11, 2025 referencing Jeffrey Epstein, questioning U.S. alignment with Israel, suggesting citizenship revocation for foreign-military service, and musing on Bill Ackman's wealth.
+Claim: The host says Tucker Carlson delivered a speech at the TPUSA conference on July 11, 2025 in which he referenced Jeffrey Epstein, questioned U.S. alignment with Israel, suggested citizenship revocation for foreign-military service, and mused on Bill Ackman's wealth.
 Anchored Artifacts: A-1312.1
 Mentions: N-1, N-22, N-9, N-37
 Related Nodes: N-10209

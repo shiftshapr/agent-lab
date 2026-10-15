@@ -1920,7 +1920,7 @@
       "@id": "C-3630",
       "ref": "C-3630",
       "label": "Erika Kirk Addressed Nation with Public Remarks",
-      "claim": "Erika Kirk delivered public remarks framing her husband's mission as continuing after his death.",
+      "claim": "In a clip the host plays, Erika Kirk says that the movement her husband built will not die and frames his mission as continuing after his death.",
       "anchored_artifacts": [
         "A-1081.1"
       ],
@@ -2013,8 +2013,8 @@
       "@type": "Claim",
       "@id": "C-1127",
       "ref": "C-1127",
-      "label": "Kirk Described Israel-Lobby Pressure One Month Before Death",
-      "claim": "Charlie Kirk publicly described being pressured regarding Israel criticism and event guest lists approximately one month before his death.",
+      "label": "Clip Has Kirk Describing Israel-Lobby Pressure One Month Before Death",
+      "claim": "In a clip the host plays of an interview with Megyn Kelly, which the host describes as from a month earlier, Charlie Kirk says he is being pressured regarding Israel criticism and event guest lists, saying his moral character is being put into question.",
       "anchored_artifacts": [
         "A-1084.1"
       ],
@@ -2065,8 +2065,8 @@
       "@type": "Claim",
       "@id": "C-1129",
       "ref": "C-1129",
-      "label": "Netanyahu Called Kirk and Invited Him to Israel",
-      "claim": "Netanyahu called Kirk during the Hamptons meeting period and invited him to Israel.",
+      "label": "Host Says Netanyahu Called Kirk and Invited Him to Israel",
+      "claim": "The host says she is told that Netanyahu called Kirk during the Hamptons meeting period and invited him to Israel.",
       "anchored_artifacts": [
         "A-1082.1",
         "A-1092.1"
@@ -2165,8 +2165,8 @@
       "@type": "Claim",
       "@id": "C-1133",
       "ref": "C-1133",
-      "label": "TMZ Footage at 8:07 AM Showed Person in Maroon Shirt",
-      "claim": "TMZ published surveillance footage at 8:07 AM on September 10 of a man in maroon shirt walking near UVU campus.",
+      "label": "Host Says TMZ Footage at 8:07 AM Showed Person in Maroon Shirt",
+      "claim": "The host says TMZ has footage, which she shows, of a man at 8:07 AM on September 10, wearing a maroon shirt, walking outside university grounds near the UVU campus.",
       "anchored_artifacts": [
         "A-1088.1"
       ],
@@ -2210,8 +2210,8 @@
       "@type": "Claim",
       "@id": "C-1135",
       "ref": "C-1135",
-      "label": "Doorbell Cam at 11:49 AM Showed Person in Different Outfit",
-      "claim": "A doorbell camera at 11:49 AM on September 10 captured the shooter in a different outfit, reportedly limping.",
+      "label": "Host Says Doorbell Cam at 11:49 AM Showed Person in Different Outfit",
+      "claim": "The host says TMZ released doorbell-camera footage at 11:49 AM on September 10, which she shows, of the shooter in a different outfit and appearing to limp.",
       "anchored_artifacts": [
         "A-1088.2"
       ],
@@ -2233,8 +2233,8 @@
       "@type": "Claim",
       "@id": "C-1136",
       "ref": "C-1136",
-      "label": "Kirk Was Shot at 12:23 PM on September 10",
-      "claim": "Charlie Kirk was shot at 12:23 PM on September 10, 2025.",
+      "label": "Host Says Kirk Was Shot at 12:23 PM on September 10",
+      "claim": "The host says Charlie Kirk was shot at 12:23 PM on September 10, 2025.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10024"
@@ -2301,8 +2301,8 @@
       "@type": "Claim",
       "@id": "C-1139",
       "ref": "C-1139",
-      "label": "Rifle Found in Woods Wrapped in Dark Towel",
-      "claim": "The weapon was found in the woods wrapped in a dark towel, reportedly fully assembled in photos.",
+      "label": "Host Says Rifle Was Found in Woods Wrapped in Dark Towel",
+      "claim": "The host says authorities say the weapon was found in the woods wrapped in a dark towel, and that the photo they gave of it showed it fully assembled.",
       "anchored_artifacts": [
         "A-1093.1",
         "A-1087.1"
@@ -2346,8 +2346,8 @@
       "@type": "Claim",
       "@id": "C-1141",
       "ref": "C-1141",
-      "label": "Robinson's Roommate Is Transitioning and Cooperating",
-      "claim": "Governor Cox confirmed Robinson's roommate is a biological male transitioning to female and is cooperating with authorities.",
+      "label": "Governor Cox Says Robinson's Roommate Is Transitioning and Cooperating",
+      "claim": "In a clip the host plays, Governor Cox says he can confirm that Robinson's roommate was a boyfriend transitioning from male to female and that he is cooperating with authorities.",
       "anchored_artifacts": [
         "A-1089.2"
       ],

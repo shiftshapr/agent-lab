@@ -1041,11 +1041,11 @@ Mentions: N-7
 Related Nodes: N-10688
 Investigative Direction: Locate any recording where Frank Turek directly states disposal; cross-reference with hospital chain-of-custody records for patient-adjacent personal property.
 
-**C-2954** Terrell Farnsworth Video Shows Frank Turek Entering SUV Through Trunk
+**C-2954** Host Says Terrell Farnsworth Video Shows Frank Turek Entering SUV Through Trunk
 
 Claim Timestamp: 00:19:32–00:20:25
 
-Claim: A video credited to Terrell Farnsworth shows Frank Turek entering the SUV via the trunk rather than through a passenger door after Charlie was shot.
+Claim: The host says a video credited to Terrell Farnsworth, which she plays, shows Frank Turek entering the SUV via the trunk rather than through a passenger door after Charlie was shot.
 
 Anchored Artifacts: A-2103.1
 Mentions: N-7, N-265
@@ -1062,11 +1062,11 @@ Anchored Artifacts: A-2096.2
 Related Nodes: N-10685
 Investigative Direction: Obtain original unaltered car interior photos with metadata for forensic chain-of-custody; conduct independent review of mark patterns.
 
-**C-2956** Car Backseat Photos Show Blood Marks on Brown Paper / Uber Bag
+**C-2956** Host Says Car Backseat Photos Show Blood Marks on Brown Paper / Uber Bag
 
 Claim Timestamp: 00:22:50–00:23:11
 
-Claim: Photographs of the SUV backseat show what appear to be blood marks on a brown paper bag consistent with an Uber-style bag.
+Claim: The host says photographs of the SUV backseat show what appear to be blood marks on a brown paper bag that looks like an Uber-style bag.
 
 Anchored Artifacts: A-2096.3
 Related Nodes: N-10685
@@ -1104,11 +1104,11 @@ Mentions: N-32
 Related Nodes: N-10689
 Investigative Direction: Verify original tweet timestamp and any subsequent clarification from Rubin.
 
-**C-2960** Semafor Chart Shows Daily Wire Revenue and Subscriber Decline
+**C-2960** Host Says Semafor Chart Shows Daily Wire Revenue and Subscriber Decline
 
 Claim Timestamp: 00:46:09
 
-Claim: A Semafor-produced chart displayed on air shows declining Daily Wire revenue growth and subscriber metrics over recent periods.
+Claim: The host says a chart produced by Semafor, displayed on air, shows declining Daily Wire revenue growth and subscriber metrics over recent periods.
 
 Anchored Artifacts: A-2100.2
 Related Nodes: N-10689
@@ -1178,11 +1178,11 @@ Anchored Artifacts: A-2101.1
 Related Nodes: N-10690
 Investigative Direction: Obtain current NHS source page directly; verify quoted text matches original.
 
-**C-2967** Anonymous Police Source States DA Authorization Required for Evidence Release
+**C-2967** Host Reads Email From Purported Police Source Saying DA Authorization Required for Evidence Release
 
 Claim Timestamp: 00:52:00–00:52:30
 
-Claim: A source described as high-ranking in a police department emails stating that only a district attorney's signed release could authorize the return of evidence such as Charlie's cross, microphone, or other personal items to Erika Kirk, and that such releases are not normally granted while items remain evidence.
+Claim: A viewer email the host reads, from a sender she describes as very high up the chain at a police department, says only a district attorney's signed release could authorize the return of evidence such as Charlie's cross, microphone, or other personal items to Erika Kirk, and that such releases are not normally granted while items remain evidence.
 
 Anchored Artifacts: A-2102.3
 Mentions: N-2

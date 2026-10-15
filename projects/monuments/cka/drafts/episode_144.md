@@ -702,11 +702,11 @@ Competing accounts of the host's September 2025 'burn it down' remark: Kolvet's 
 
 ## V. Claim Register
 
-**C-3313** Terrell accessed an SD card on his laptop at the crime scene
+**C-3313** Host Says Terrell Accessed an SD Card on His Laptop at the Crime Scene
 
 Claim Timestamp: 00:02:00–00:04:10
 
-Claim: Terrell Farnsworth inserted an SD card into his laptop and worked on it within approximately 10 minutes of Charlie Kirk being shot, as shown in episode footage.
+Claim: The host says the episode footage shows Terrell Farnsworth inserting an SD card into his laptop and working on it within approximately 10 minutes of Charlie Kirk being shot.
 
 Anchored Artifacts: A-2301.1, A-2301.2
 Mentions: N-265, N-1, N-575
@@ -717,11 +717,11 @@ Investigative Direction: Obtain the original raw footage and forensic metadata t
 
 ---
 
-**C-3314** Terrell showed laptop content to Philip Goldsbury shortly after the shooting
+**C-3314** Host Says Footage Shows Terrell Showing Laptop Content to Philip Goldsbury Shortly After the Shooting
 
 Claim Timestamp: 00:02:00–00:04:10
 
-Claim: Episode footage shows Terrell Farnsworth displaying content on his laptop screen to Philip Goldsbury approximately 10 minutes after Charlie Kirk's death.
+Claim: The host says the episode footage shows Terrell Farnsworth displaying content on his laptop screen to Philip Goldsbury approximately 10 minutes after Charlie Kirk was hit.
 
 Anchored Artifacts: A-2301.2
 Mentions: N-265, N-1
@@ -732,11 +732,11 @@ Investigative Direction: Identify and interview Philip Goldsbury regarding the c
 
 ---
 
-**C-3315** Terrell never provided the original SD card to investigators
+**C-3315** In Clip Host Plays, Ana Kasparian Says Terrell Never Provided the Original SD Card to Investigators
 
 Claim Timestamp: 00:04:20–00:04:50
 
-Claim: Per David Hull's preliminary-hearing testimony referenced by Ana Kasparian, Terrell Farnsworth did not turn over the physical SD card to investigators; only Google links and a flash drive were provided.
+Claim: In a clip the host plays, Ana Kasparian says, based on David Hull's preliminary-hearing testimony, that Terrell Farnsworth did not provide the original SD card to investigators, only Google links and a flash drive.
 
 Anchored Artifacts: A-2302.1, A-2304.1
 Mentions: N-265, N-207, N-575
@@ -777,11 +777,11 @@ Investigative Direction: Obtain Bricker's full preliminary-hearing testimony; re
 
 ---
 
-**C-3318** The 20-minute sizzle reel has a decreased (modified) aspect ratio
+**C-3318** Host Says the 20-Minute Sizzle Reel Has a Decreased (Modified) Aspect Ratio
 
 Claim Timestamp: 00:16:30–00:17:30
 
-Claim: The aspect ratio of the 20-minute sizzle reel shown at the preliminary hearing was decreased relative to the source footage, as demonstrated in the episode by normal-speed and slow-motion display.
+Claim: The host says the aspect ratio of the 20-minute sizzle reel shown at the preliminary hearing was decreased relative to the source footage, and she demonstrates this on the episode at normal speed and in slow motion.
 
 Anchored Artifacts: A-2305.1, A-2305.2
 

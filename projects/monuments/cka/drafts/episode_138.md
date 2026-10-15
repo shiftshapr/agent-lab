@@ -1135,11 +1135,11 @@ Investigative Direction: Verify quoted claim in original X post and any accompan
 
 ---
 
-**C-3224** Lance's Phone Has a Damaged Screen Where the Timestamp Would Appear
+**C-3224** Host Says Lance's Phone Has a Damaged Screen Where the Timestamp Would Appear
 
 Claim Timestamp: 00:13:35–00:14:00
 
-Claim: The phone of Lance (referenced in the Tyler Robinson preliminary-hearing record) was photographed with damage in the top-left corner of the screen at the location where the device's status-bar timestamp would appear.
+Claim: The host says the phone of Lance (referenced in the Tyler Robinson preliminary-hearing record) was photographed by police with damage in the top-left corner of the screen at the location where the device's status-bar timestamp would appear.
 
 Anchored Artifacts: A-2247.1
 Mentions: N-40
@@ -1179,11 +1179,11 @@ Investigative Direction: Obtain the original Miami-Dade Sheriff's Office email/s
 
 ---
 
-**C-3227** Perez Hilton Was Transported to a Local Hospital by Miami-Dade Fire Rescue
+**C-3227** Sheriff's Office Statement the Host Reads Says Perez Hilton Was Taken to a Local Hospital by Miami-Dade Fire Rescue
 
 Claim Timestamp: 00:37:00–00:37:30
 
-Claim: Following the self-harm response, Perez Hilton was safely recovered and taken by Miami-Dade Fire Rescue to a local hospital.
+Claim: Per a follow-up sheriff's office statement the host reads, Perez Hilton was safely recovered after the self-harm response and taken by Miami-Dade Fire Rescue to a local hospital.
 
 Anchored Artifacts: A-2249.1
 
@@ -1272,7 +1272,7 @@ Investigative Direction: Obtain the original email with full headers and timesta
 
 Claim Timestamp: 00:32:46–00:34:05
 
-Claim: On the 2010 Ellen DeGeneres Show, Perez Hilton acknowledged being perceived as a "hypocrite and a bully" and pledged to stop using nasty nicknames, inappropriate doodling, and outing people on his website.
+Claim: In a clip of the 2010 Ellen DeGeneres Show the host plays, Perez Hilton acknowledges being perceived as a "hypocrite and a bully" and pledges to stop using nasty nicknames, inappropriate doodling, and outing people on his website.
 
 Anchored Artifacts: A-2250.1
 

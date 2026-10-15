@@ -1807,8 +1807,8 @@
       "@type": "Claim",
       "@id": "C-2178",
       "ref": "C-2178",
-      "label": "Taylor Swift text message references Justin Baldoni's \"tiny violin\" (December 2024)",
-      "claim": "Taylor Swift texted Blake Lively in early December 2024 stating, regarding the impending New York Times piece on Baldoni, \"I think he knows something is coming because he's got out his tiny violin.\"",
+      "label": "Host Says Taylor Swift Text Message References Justin Baldoni's \"Tiny Violin\" (December 2024)",
+      "claim": "The host says Taylor Swift texted Blake Lively in early December 2024 stating, regarding the impending New York Times piece on Baldoni, \"I think he knows something is coming because he's got out his tiny violin.\"",
       "anchored_artifacts": [
         "A-1665.1"
       ],
@@ -1826,8 +1826,8 @@
       "@type": "Claim",
       "@id": "C-2179",
       "ref": "C-2179",
-      "label": "Sony executives described Blake Lively as \"terrorist\" in text messages",
-      "claim": "Sony executives described Blake Lively as a \"terrorist\" in text messages supporting Justin Baldoni's account.",
+      "label": "Host Says Sony Executives Described Blake Lively as \"Terrorist\" in Text Messages",
+      "claim": "The host says Sony executives described Blake Lively as a \"terrorist\" in text messages supporting Justin Baldoni's account.",
       "anchored_artifacts": [
         "A-1665.1"
       ],

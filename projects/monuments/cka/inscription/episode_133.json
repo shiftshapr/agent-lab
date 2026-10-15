@@ -1581,8 +1581,8 @@
       "@type": "Claim",
       "@id": "C-3151",
       "ref": "C-3151",
-      "label": "Rooftop footage shows no clearly visible muzzle flash",
-      "claim": "During the rooftop segment held before the shooter rises to flee, no muzzle flash is clearly visible in the displayed footage.",
+      "label": "Host Says Rooftop Footage Shows No Clearly Visible Muzzle Flash",
+      "claim": "The host says that in the rooftop footage she displays, no muzzle flash is clearly visible before the shooter rises to flee.",
       "anchored_artifacts": [
         "A-2198.1",
         "A-2198.4"
@@ -1615,8 +1615,8 @@
       "@type": "Claim",
       "@id": "C-3153",
       "ref": "C-3153",
-      "label": "A back-and-forth flash is visible during the rooftop crawl",
-      "claim": "A flash or back-and-forth light phenomenon is visible in the rooftop footage during the individual's crawl.",
+      "label": "Host Says a Back-and-Forth Flash Is Visible During the Rooftop Crawl",
+      "claim": "The host says a flash or back-and-forth light phenomenon is visible in the rooftop footage during the individual's crawl.",
       "anchored_artifacts": [
         "A-2198.1",
         "A-2198.2"
@@ -1709,7 +1709,7 @@
       "@id": "C-3158",
       "ref": "C-3158",
       "label": "Iranian Lego propaganda video contains lyrics referencing Epstein",
-      "claim": "The Iranian Lego propaganda video shown contains repeated lyrics/text referencing \"Epstein\" and \"Epstein, Epstein, Epstein.\"",
+      "claim": "In an Iranian Lego video the host plays, repeated lyrics/text reference \"Epstein\" and \"Epstein, Epstein, Epstein.\"",
       "anchored_artifacts": [
         "A-2202.1"
       ],

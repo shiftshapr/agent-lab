@@ -911,11 +911,11 @@ Investigative Direction: Obtain autopsy / medical examiner records and forensic 
 
 ---
 
-**C-1426** Fragment Location Near Shoulder Blade
+**C-1426** Host Says Bullet Fragment Was Recovered From Charlie's Neck Near Shoulder Blade
 
 Claim Timestamp: 00:05:03
 
-Claim: A bullet fragment was recovered from Charlie's neck, in line with the shoulder blade near the spine.
+Claim: The host says that, as she has fact-checked with multiple sources, a bullet fragment was recovered from Charlie's neck, in line with the shoulder blade near the spine.
 
 Anchored Artifacts: A-1251.1
 Mentions: N-14
@@ -924,11 +924,11 @@ Investigative Direction: Compare against autopsy report and forensic pathology i
 
 ---
 
-**C-1427** No .30-06 Projectile on Death Certificate
+**C-1427** Host Says No .30-06 Projectile Appears on Charlie Kirk's Death Certificate
 
 Claim Timestamp: 00:06:02
 
-Claim: Charlie Kirk's death certificate does not reflect a recovered .30-06 bullet, indicating that caliber was not recovered from his body.
+Claim: The host says Charlie Kirk's death certificate does not reflect a recovered .30-06 bullet, indicating that caliber was not recovered from his body.
 
 Anchored Artifacts: A-1251.1
 Mentions: N-14, N-1
@@ -1006,7 +1006,7 @@ Investigative Direction: Confirm Leadership Institute employment records and ver
 
 Claim Timestamp: 00:13:06
 
-Claim: Cooper Brown appeared on Jesse Watters' Fox News program the night of the shooting.
+Claim: The host says Cooper Brown appeared on Jesse Watters' Fox News program the night of the shooting, and plays a clip of that appearance.
 
 Anchored Artifacts: A-1253.1
 Mentions: N-177
@@ -1019,7 +1019,7 @@ Investigative Direction: Verify timestamp and full segment via Fox News archives
 
 Claim Timestamp: 00:13:58
 
-Claim: Cooper Brown appeared on Fox News again the day after the shooting.
+Claim: The host says Cooper Brown appeared on Fox News again the day after the shooting, and plays a clip of that appearance.
 
 Anchored Artifacts: A-1253.2
 Mentions: N-177
@@ -1093,11 +1093,11 @@ Investigative Direction: Identify and re-interview the two women, and compare ag
 
 ---
 
-**C-1440** Dr. Deidra Weiss Amaro Appointment
+**C-1440** Host Says Dr. Deidra Weiss Amaro Was Announced as New Utah State Medical Examiner in May 2024
 
 Claim Timestamp: 00:18:33
 
-Claim: Dr. Deidra Weiss Amaro was announced as the new Utah State Medical Examiner in May 2024, with prior work history in Missouri (and California).
+Claim: The host says that, per a tip she received, Dr. Deidra Weiss Amaro was announced as the new Utah State Medical Examiner in May 2024, with prior work history in Missouri (and, she thinks, California).
 
 Anchored Artifacts: (host-stated; no displayed primary artifact – see Optional Flags)
 Mentions: N-179
@@ -1118,11 +1118,11 @@ Investigative Direction: Obtain Utah LLC formation records (pre-digitization, re
 
 ---
 
-**C-1442** Caldera Engineering Established 1997
+**C-1442** Host Says Caldera Engineering Was Established in 1997
 
 Claim Timestamp: 00:31:26
 
-Claim: Caldera Engineering was established in 1997.
+Claim: The host says Caldera Engineering was established in 1997.
 
 Anchored Artifacts: (host-stated; no primary artifact displayed – see Optional Flags)
 Related Nodes: N-10184
@@ -1130,11 +1130,11 @@ Investigative Direction: Verify via Utah Division of Corporations records and tr
 
 ---
 
-**C-1443** Caldera Engineering Actor-Employee
+**C-1443** Host Says Caldera Engineering Employee Has Professional Acting Background
 
 Claim Timestamp: 00:30:39
 
-Claim: A person employed at Caldera Engineering has a professional acting background (theater school, plays), with no engineering background before the resume listing.
+Claim: The host says that, per a tip she received, a person employed at Caldera Engineering has a professional acting background (theater school, plays), with no engineering background before the resume listing.
 
 Anchored Artifacts: (host-stated; resume referenced but not displayed – see Optional Flags)
 Related Nodes: N-10184
@@ -1155,11 +1155,11 @@ Investigative Direction: Pull Arizona trademark filings and confirm attorney of 
 
 ---
 
-**C-1445** Plane N1098L – Military Aircraft
+**C-1445** Host Says Plane N1098L Was a Military Aircraft
 
 Claim Timestamp: 00:37:31
 
-Claim: A plane with tail number N1098L, seen near Utah on 9/10, was a military aircraft.
+Claim: The host says a plane with tail number N1098L, seen near Utah on 9/10, was a military aircraft.
 
 Anchored Artifacts: (host-stated; flight tracking not displayed – see Optional Flags)
 Related Nodes: N-10185
@@ -1167,11 +1167,11 @@ Investigative Direction: Pull FAA registry for N1098L and prior military tail as
 
 ---
 
-**C-1446** Plane N1098L – Las Vegas Aviation LLC
+**C-1446** Host Says Plane N1098L Was Owned/Contracted by Las Vegas Aviation LLC
 
 Claim Timestamp: 00:37:31
 
-Claim: Plane N1098L was owned/contracted by Las Vegas Aviation LLC.
+Claim: The host says Plane N1098L was owned by, or contracted through, Las Vegas Aviation LLC.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
 Related Nodes: N-10185, N-10189
@@ -1179,11 +1179,11 @@ Investigative Direction: Confirm ownership via FAA registry and Nevada Secretary
 
 ---
 
-**C-1447** Plane N1098L – Texas to Utah Routing
+**C-1447** Host Says Plane N1098L Flew From Texas to Utah Around the Time of the Shooting
 
 Claim Timestamp: 00:37:31
 
-Claim: Plane N1098L departed Texas and routed to Utah around the time of the shooting.
+Claim: The host says Plane N1098L departed Texas and routed to Utah around the time of the shooting.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
 Related Nodes: N-10185
@@ -1204,11 +1204,11 @@ Investigative Direction: Verify aircraft registration, ownership, and any link t
 
 ---
 
-**C-1449** Plane 888 – Page, Arizona Destination
+**C-1449** Host Says Plane 888's Intended Destination Was Page, Arizona
 
 Claim Timestamp: 00:39:09
 
-Claim: Plane 888's intended destination was Page, Arizona.
+Claim: The host says Plane 888's intended destination was Page, Arizona.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
 Related Nodes: N-10186
@@ -1216,11 +1216,11 @@ Investigative Direction: Verify via filed flight plan and FBO records.
 
 ---
 
-**C-1450** Plane 888 – ADSB Transponder Turned Off
+**C-1450** Host Says Plane 888's ADSB Transponder Appeared to Turn Off
 
 Claim Timestamp: 00:39:09
 
-Claim: The ADSB transponder on plane 888 appeared to turn off during the flight.
+Claim: The host says the ADSB transponder on plane 888 appeared to turn off during the flight.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
 Related Nodes: N-10186
@@ -1254,11 +1254,11 @@ Investigative Direction: Locate Maxwell's original Instagram post and any corrob
 
 ---
 
-**C-1453** Plane 888 – FBO Change Millionaire to Signature
+**C-1453** Host Says Plane 888 Changed Its FBO Destination at the Last Minute
 
 Claim Timestamp: 00:40:53
 
-Claim: Plane 888 changed its FBO destination at the last minute, from Millionaire to Signature.
+Claim: The host says Plane 888 changed its FBO destination at the last minute, from Millionaire to Signature.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
 Related Nodes: N-10186, N-10190
@@ -1266,11 +1266,11 @@ Investigative Direction: Verify via FBO records at Page, Arizona (Millionaire an
 
 ---
 
-**C-1454** Signature FBO Contradicting Statements
+**C-1454** Host Says Signature FBO Person Gave Contradicting Statements
 
 Claim Timestamp: 00:41:40
 
-Claim: A person at the Signature FBO initially confirmed that the plane had made multiple trips in recent days, then reversed to state no plane had ever landed there.
+Claim: The host says that a person at the Signature FBO initially confirmed that the plane had made multiple trips in recent days, then reversed to state no plane had ever landed there.
 
 Anchored Artifacts: (host-stated; secondhand report – see Optional Flags)
 Related Nodes: N-10186, N-10190
@@ -1278,11 +1278,11 @@ Investigative Direction: Identify the employee and obtain signed statement; cros
 
 ---
 
-**C-1455** Josh Hammer Released Text Messages
+**C-1455** Host Says Josh Hammer Released Text Messages
 
 Claim Timestamp: 00:45:21
 
-Claim: Josh Hammer publicly released text messages between himself and Charlie Kirk following the prior episode's coverage.
+Claim: The host says Josh Hammer publicly released text messages between himself and Charlie Kirk in response to the prior episode, and reads them.
 
 Anchored Artifacts: A-1256.1
 Mentions: N-55, N-1
@@ -1329,11 +1329,11 @@ Investigative Direction: Verify full Harvard event recording and transcript.
 
 ---
 
-**C-1459** Matt Walsh – "Too on the Nose" Comment
+**C-1459** Host Says Matt Walsh Found Kirk's Text "Too on the Nose"
 
 Claim Timestamp: 00:53:09
 
-Claim: Matt Walsh commented that Charlie Kirk's text about leaving the pro-Israel cause felt "too on the nose" to be authentic, suggesting Charlie had been pushed to that statement.
+Claim: The host says Matt Walsh commented that Charlie Kirk's text about leaving the pro-Israel cause felt "too on the nose" to be authentic, suggesting Charlie had been pushed to that statement.
 
 Anchored Artifacts: A-1259.1
 Mentions: N-166, N-1
@@ -1342,11 +1342,11 @@ Investigative Direction: Verify clip source and full Matt Walsh segment.
 
 ---
 
-**C-1460** Kolbatz Not in Viral Push Video
+**C-1460** Host Says Kolvet Was Not in Viral Push Video
 
 Claim Timestamp: 00:10:16
 
-Claim: Andrew Kolvet was not the man in the viral push video; he flew into Utah after the shooting and was not on the ground.
+Claim: The host says Andrew Kolvet was not the man in the viral push video, and that she spoke to him and he flew into Utah after the shooting and was not on the ground.
 
 Anchored Artifacts: A-1252.1
 Mentions: N-14, N-177

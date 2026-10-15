@@ -760,11 +760,11 @@ Presidential commission whose hearing on anti-Semitism led to Carrie Prejean Bow
 
 ## V. Claim Register
 
-**C-2364** Wedding photo visible in Charlie Kirk's home studio background on Sept 8, 2025
+**C-2364** Host Says Wedding Photo Was Visible in Charlie Kirk's Home Studio Background on Sept 8, 2025
 
 Claim Timestamp: 00:03:08
 
-Claim: A wedding photo of Charlie and Erika Kirk was visible in the background of the Charlie Kirk Show home studio broadcast on September 8, 2025.
+Claim: The host says a wedding photo of Charlie and Erika Kirk was visible in the background of the Charlie Kirk Show home studio broadcast on September 8, 2025.
 
 Anchored Artifacts: A-1773.1
 Mentions: N-1, N-2
@@ -849,11 +849,11 @@ Investigative Direction: Obtain and review the phone records/text messages cited
 
 ---
 
-**C-2370** Carrie Prejean Bowler removed from Religious Liberty Commission
+**C-2370** Per Dan Patrick's X Post, Carrie Prejean Bowler Was Removed from Religious Liberty Commission
 
 Claim Timestamp: 00:34:48
 
-Claim: Carrie Prejean Bowler was removed from the White House Religious Liberty Commission, announced by Dan Patrick on X.
+Claim: Per a post by Dan Patrick on X that the host reads, Carrie Prejean Bowler was removed from the White House Religious Liberty Commission.
 
 Anchored Artifacts: A-1777.1
 Mentions: N-560, N-568
@@ -877,11 +877,11 @@ Investigative Direction: Obtain the full hearing transcript and video; cross-ref
 
 ---
 
-**C-2372** TPUSA halftime show was pre-filmed with camera tricks and ~180 audience members
+**C-2372** Host Relays Informants' Claim That TPUSA Halftime Show Was Pre-Filmed with Camera Tricks and ~180 Audience Members
 
 Claim Timestamp: 00:37:45
 
-Claim: Per informant testimony, the TPUSA All-American Halftime Show was pre-filmed in Fayetteville, GA over two days with approximately 180 audience members who were moved around the room between takes to make the venue appear fuller.
+Claim: The host says, relaying accounts from informants who told her they were part of the show, that the TPUSA All-American Halftime Show was pre-filmed in Fayetteville, GA over two days with approximately 180 audience members who were moved around the room between takes to make the venue appear fuller.
 
 Anchored Artifacts: A-1778.1
 
@@ -891,11 +891,11 @@ Investigative Direction: Confirm production location and dates through venue rec
 
 ---
 
-**C-2373** TPUSA halftime show participants were paid $250 stipends
+**C-2373** Host Relays Informants' Claim That TPUSA Halftime Show Participants Were Paid $250 Stipends
 
 Claim Timestamp: 00:37:45
 
-Claim: Per informant testimony, participants in the TPUSA halftime show were compensated with $250 stipends.
+Claim: The host says, relaying accounts from informants who told her they were part of the show, that participants in the TPUSA halftime show were compensated with $250 stipends.
 
 Anchored Artifacts: A-1778.1
 
@@ -905,11 +905,11 @@ Investigative Direction: Cross-reference any 1099 or payment records; compare to
 
 ---
 
-**C-2374** Erika Kirk was reportedly not present at TPUSA halftime show filming
+**C-2374** Host Relays Informants' Claim That Erika Kirk Was Not Present at TPUSA Halftime Show Filming
 
 Claim Timestamp: 00:37:45
 
-Claim: Per informant testimony, Erika Kirk was not present during the TPUSA halftime show filming over either of the two days.
+Claim: The host says, relaying accounts from informants who told her they were part of the show, that Erika Kirk was not present during the TPUSA halftime show filming over either of the two days.
 
 Anchored Artifacts: A-1778.1
 Mentions: N-2
@@ -920,11 +920,11 @@ Investigative Direction: Confirm via TPUSA production schedules, attendee lists,
 
 ---
 
-**C-2375** Trump was watching Bad Bunny halftime show at Mar-a-Lago during Super Bowl broadcast
+**C-2375** Host Says Photo Shows Trump at Mar-a-Lago with Bad Bunny Halftime Show in Background
 
 Claim Timestamp: 00:42:01
 
-Claim: A photograph shows Donald Trump at Mar-a-Lago during the Super Bowl broadcast with the Bad Bunny halftime show visible on a screen in the background – not the TPUSA show.
+Claim: The host says a photograph shows Donald Trump at Mar-a-Lago during the Super Bowl broadcast with the Bad Bunny halftime show visible on a screen in the background, not the TPUSA show.
 
 Anchored Artifacts: A-1779.1
 Mentions: N-5
@@ -935,11 +935,11 @@ Investigative Direction: Confirm photograph provenance and timestamp; cross-refe
 
 ---
 
-**C-2376** Per informant testimony, songs required 3-5 takes each except Gabby Barrett's (2 takes)
+**C-2376** Host Relays Informants' Account: Songs Required 3-5 Takes Except Gabby Barrett's (2 Takes)
 
 Claim Timestamp: 00:37:45
 
-Claim: Per informant testimony, songs at the TPUSA halftime show filming required 3 to 5 takes each, with the exception of Gabby Barrett who completed her performance in 2 takes.
+Claim: The host says, relaying accounts from informants who told her they were part of the show, that songs at the TPUSA halftime show filming required 3 to 5 takes each, with the exception of Gabby Barrett who completed her performance in 2 takes.
 
 Anchored Artifacts: A-1778.1
 

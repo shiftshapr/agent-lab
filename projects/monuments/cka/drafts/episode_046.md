@@ -968,11 +968,11 @@ Investigative Direction: Track whether this "education" framing recurs in subseq
 
 ---
 
-**C-1918** Tyler Robinson made first in-person court appearance on December 11, 2025
+**C-1918** Host Says Tyler Robinson Made First In-Person Court Appearance on December 11, 2025
 
 Claim Timestamp: 00:33:07
 
-Claim: Tyler Robinson appeared in person in a Utah court on December 11, 2025, his first in-person court appearance.
+Claim: The host says Tyler Robinson appeared in person in a Utah court on December 11, 2025, his first in-person court appearance.
 
 Anchored Artifacts: A-1535.1
 Mentions: N-40

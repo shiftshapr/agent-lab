@@ -1023,11 +1023,11 @@ Investigative Direction: Verify the 11 p.m. start time against any video of Marc
 
 ---
 
-**C-2178** Taylor Swift text message references Justin Baldoni's "tiny violin" (December 2024)
+**C-2178** Host Says Taylor Swift Text Message References Justin Baldoni's "Tiny Violin" (December 2024)
 
 Claim Timestamp: 00:28:30–00:29:09
 
-Claim: Taylor Swift texted Blake Lively in early December 2024 stating, regarding the impending New York Times piece on Baldoni, "I think he knows something is coming because he's got out his tiny violin."
+Claim: The host says Taylor Swift texted Blake Lively in early December 2024 stating, regarding the impending New York Times piece on Baldoni, "I think he knows something is coming because he's got out his tiny violin."
 
 Anchored Artifacts: A-1665.1
 Mentions: N-490, N-491, N-492
@@ -1037,11 +1037,11 @@ Investigative Direction: Obtain the full unredacted text thread exhibits from th
 
 ---
 
-**C-2179** Sony executives described Blake Lively as "terrorist" in text messages
+**C-2179** Host Says Sony Executives Described Blake Lively as "Terrorist" in Text Messages
 
 Claim Timestamp: 00:29:09
 
-Claim: Sony executives described Blake Lively as a "terrorist" in text messages supporting Justin Baldoni's account.
+Claim: The host says Sony executives described Blake Lively as a "terrorist" in text messages supporting Justin Baldoni's account.
 
 Anchored Artifacts: A-1665.1
 Mentions: N-490, N-491
