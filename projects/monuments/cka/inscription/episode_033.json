@@ -1291,8 +1291,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-476",
-      "ref": "N-476",
+      "@id": "N-474",
+      "ref": "N-474",
       "name": "Zack Gregorio (Wolves and Finance)",
       "type": "person",
       "description": "Wolves and Finance YouTube channel whose TPUSA filings report is played on air.",
@@ -2988,7 +2988,7 @@
       "transcript_snippet": "So Tyler Bowyer is being snarky on X. com and telling people to go look at the annual financial audit, but the financial audit is missing from last year for three of the four organizations.",
       "mentions_person_refs": [
         "N-11",
-        "N-476"
+        "N-474"
       ]
     },
     {
@@ -3130,7 +3130,7 @@
       "investigative_direction": "Check state and IRS records for America's Turning Point (entity type, officers, exempt status) to test the 'shell company' description.",
       "transcript_snippet": "They are sending it to their own shell company. Now, this is not necessarily illegal except for the fact that the financial statement for the other organization is missing.",
       "mentions_person_refs": [
-        "N-476"
+        "N-474"
       ]
     },
     {
@@ -3154,7 +3154,7 @@
       "investigative_direction": "Check Schedule I of TPUSA's Forms 990 for 2019 through 2024 and compare the grant recipients year by year.",
       "transcript_snippet": "This stopped in 2021 and they started ramping up sending money to America's Turning Point.",
       "mentions_person_refs": [
-        "N-476"
+        "N-474"
       ]
     },
     {
@@ -3177,7 +3177,7 @@
       "investigative_direction": "Verify the figures on the Turning Point Endowment Form 990 for fiscal year 2023.",
       "transcript_snippet": "As of fiscal year 2023, they had $61 million of assets in the endowment, which was generating $1.9 million a year of investment income.",
       "mentions_person_refs": [
-        "N-476"
+        "N-474"
       ]
     },
     {
@@ -3200,7 +3200,7 @@
       "investigative_direction": "Pull America's Turning Point's prior-year Form 990 (Part VII, Part IX and Schedule O) to check employee count and salary expense, including payments to a related staffing entity.",
       "transcript_snippet": "If we look at the prior year, the majority of the money was spent on other salaries and wages. How is this possible when America's Turning Point reports zero employees?",
       "mentions_person_refs": [
-        "N-476"
+        "N-474"
       ]
     },
     {
@@ -3223,7 +3223,7 @@
       "investigative_direction": "No evidence is presented for this speculation; only audited payroll records or an enforcement finding could confirm or refute it.",
       "transcript_snippet": "I think there are fake people on the payroll.",
       "mentions_person_refs": [
-        "N-476"
+        "N-474"
       ]
     },
     {
@@ -3248,7 +3248,7 @@
       "investigative_direction": "Obtain the Baker Tilly audit report and notes for fiscal year 2024 and confirm the entities covered and the opinion type.",
       "transcript_snippet": "they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA merch.",
       "mentions_person_refs": [
-        "N-476"
+        "N-474"
       ]
     },
     {
@@ -3271,7 +3271,7 @@
       "investigative_direction": "Check the signature date on the audit opinion letter against the original and extended Form 990 due dates.",
       "transcript_snippet": "Baker Tilly's audit opinion letter is signed after Turning Point missed the filing date with the IRS.",
       "mentions_person_refs": [
-        "N-476"
+        "N-474"
       ]
     },
     {
@@ -3544,7 +3544,7 @@
       "investigative_direction": "Search court dockets for suits naming Baker Tilly US, LLP over audit quality and confirm which suits the video cites.",
       "transcript_snippet": "that video went deeper into some lawsuits that Baker Tilly was facing for not auditing things correctly.",
       "mentions_person_refs": [
-        "N-476",
+        "N-474",
         "N-3"
       ]
     },

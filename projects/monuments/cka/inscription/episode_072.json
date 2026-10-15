@@ -86,7 +86,7 @@
             "C-2352"
           ],
           "related_nodes": [
-            "N-561",
+            "N-559",
             "N-206",
             "N-10502"
           ],
@@ -224,7 +224,7 @@
           "related_nodes": [
             "N-2",
             "N-206",
-            "N-561",
+            "N-559",
             "N-14",
             "N-10502"
           ],
@@ -277,9 +277,9 @@
             "C-2362"
           ],
           "related_nodes": [
-            "N-563",
-            "N-564",
-            "N-497"
+            "N-561",
+            "N-562",
+            "N-495"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -553,8 +553,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-561",
-      "ref": "N-561",
+      "@id": "N-559",
+      "ref": "N-559",
       "name": "Lynn Forester de Rothschild",
       "type": "person",
       "description": "Subject of Epstein document entry listing her as Corcoran Group Inc. President.",
@@ -575,8 +575,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-562",
-      "ref": "N-562",
+      "@id": "N-560",
+      "ref": "N-560",
       "name": "Pamela Liebman",
       "type": "person",
       "description": "Per unnamed TikToker, the publicly identified President and CEO of the Corcoran Group since 2000.",
@@ -591,14 +591,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-561",
+        "N-559",
         "N-10502"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-555",
-      "ref": "N-555",
+      "@id": "N-553",
+      "ref": "N-553",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Former Turning Point USA employee; subject of recorded private investigator visit to her home.",
@@ -614,13 +614,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-564"
+        "N-562"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-563",
-      "ref": "N-563",
+      "@id": "N-561",
+      "ref": "N-561",
       "name": "\"Mike\" (Private Investigator)",
       "type": "person",
       "description": "Unidentified individual recorded outside Aubrey Lich's home stating a legal firm asked him to photograph the property.",
@@ -636,13 +636,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-555"
+        "N-553"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-564",
-      "ref": "N-564",
+      "@id": "N-562",
+      "ref": "N-562",
       "name": "TikToker (Unnamed)",
       "type": "person",
       "description": "Creator of A-1769.1 video presenting Corcoran Group / Epstein document findings about Erika Kirk.",
@@ -739,8 +739,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-497",
-      "ref": "N-497",
+      "@id": "N-495",
+      "ref": "N-495",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Turning Point USA CMO; host references her questioning of Aubrey Lich regarding an Uber ride.",
@@ -752,7 +752,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-555"
+        "N-553"
       ]
     },
     {
@@ -800,8 +800,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-561",
-        "N-562"
+        "N-559",
+        "N-560"
       ]
     },
     {
@@ -1018,8 +1018,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-549",
-      "ref": "N-549",
+      "@id": "N-547",
+      "ref": "N-547",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
@@ -1040,8 +1040,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-557",
-      "ref": "N-557",
+      "@id": "N-555",
+      "ref": "N-555",
       "name": "Tracy Martin's Daughter (Unnamed)",
       "type": "person",
       "description": "Allegedly Erica Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.",
@@ -1449,8 +1449,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-558",
-      "ref": "N-558",
+      "@id": "N-556",
+      "ref": "N-556",
       "name": "Carrie Prejean Bowler",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1468,8 +1468,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-713",
-      "ref": "N-713",
+      "@id": "N-711",
+      "ref": "N-711",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -2216,7 +2216,7 @@
       "investigative_direction": "Obtain and verify the original USA Today article and confirm Erika's stated tenure and role at Corcoran.",
       "mentions_person_refs": [
         "N-2",
-        "N-562",
+        "N-560",
         "N-1"
       ]
     },
@@ -2237,8 +2237,8 @@
       "claim_timestamp": "00:27:38",
       "investigative_direction": "Locate the underlying Epstein document entry and verify the document identifier, page, and original source.",
       "mentions_person_refs": [
-        "N-561",
-        "N-562"
+        "N-559",
+        "N-560"
       ]
     },
     {
@@ -2408,7 +2408,7 @@
       "investigative_direction": "Pursue independently whether any financial records connect Erika Kirk, Corcoran Group, or related entities to unusual payment flows.",
       "mentions_person_refs": [
         "N-2",
-        "N-564"
+        "N-562"
       ]
     },
     {
@@ -2425,8 +2425,8 @@
       "claim_timestamp": "00:37:32",
       "investigative_direction": "Identify the legal firm referenced; determine whether this individual is licensed as a process server or private investigator.",
       "mentions_person_refs": [
-        "N-555",
-        "N-563"
+        "N-553",
+        "N-561"
       ]
     },
     {
@@ -2465,8 +2465,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-549",
-        "N-557"
+        "N-547",
+        "N-555"
       ]
     },
     {
@@ -2505,7 +2505,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-549"
+        "N-547"
       ]
     },
     {
@@ -2527,7 +2527,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-549",
+        "N-547",
         "N-219",
         "N-192"
       ]
@@ -2548,7 +2548,7 @@
       "transcript_snippet": "I am told that she has denied that claim.",
       "mentions_person_refs": [
         "N-3",
-        "N-549",
+        "N-547",
         "N-2"
       ]
     },
@@ -2570,8 +2570,8 @@
       "transcript_snippet": "what Tracy cannot deny is that her daughter is indeed Erika's assistant. I have confirmed that.",
       "mentions_person_refs": [
         "N-3",
-        "N-549",
-        "N-557",
+        "N-547",
+        "N-555",
         "N-2"
       ]
     },
@@ -2616,8 +2616,8 @@
       "transcript_snippet": "Tracy had a bad feeling and so she stopped her daughter from going to UVU. This is now confirmed. It's a fact.",
       "mentions_person_refs": [
         "N-3",
-        "N-549",
-        "N-557"
+        "N-547",
+        "N-555"
       ]
     },
     {
@@ -2892,7 +2892,7 @@
       "transcript_snippet": "she also doubled as an assistant on Charlie's show and the whole gang was there.",
       "mentions_person_refs": [
         "N-3",
-        "N-557",
+        "N-555",
         "N-1",
         "N-161",
         "N-192"
@@ -3180,7 +3180,7 @@
       "transcript_snippet": "as soon as LBJ got into office after JFK's assassination, he reversed course on every single one of JFK's policies.",
       "mentions_person_refs": [
         "N-3",
-        "N-713"
+        "N-711"
       ]
     },
     {
@@ -3200,7 +3200,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-713",
+        "N-711",
         "N-1"
       ]
     },
@@ -3509,7 +3509,7 @@
       "investigative_direction": "Identify the TikToker and obtain the messages from the investigators.",
       "transcript_snippet": "it was private investigators asking how I found this information, asking me to send them links.",
       "mentions_person_refs": [
-        "N-564",
+        "N-562",
         "N-2"
       ]
     },
@@ -3532,8 +3532,8 @@
       "investigative_direction": "Verify Liebman's tenure and title with Corcoran Group press releases and New York filings.",
       "transcript_snippet": "her boss would be Pamela Liebman because Pamela has been the president and CEO of the Corcoran Group since 2000.",
       "mentions_person_refs": [
-        "N-564",
         "N-562",
+        "N-560",
         "N-2"
       ]
     },
@@ -3947,8 +3947,8 @@
       "transcript_snippet": "Aubrey Lich uh at Turning Point USA, the one who was questioned over the Uber ride by Marina Meanes, the CMO over at Turning Point USA",
       "mentions_person_refs": [
         "N-3",
-        "N-555",
-        "N-497"
+        "N-553",
+        "N-495"
       ]
     },
     {
@@ -3969,7 +3969,7 @@
       "transcript_snippet": "her husband or her fiance who also got fired from Turning Point USA just because I guess he's going to marry her or something",
       "mentions_person_refs": [
         "N-3",
-        "N-555"
+        "N-553"
       ]
     },
     {
@@ -3992,8 +3992,8 @@
       "transcript_snippet": "There was no documents in his hand. He delivered nothing to him and he was just taking photos of their home and their car.",
       "mentions_person_refs": [
         "N-3",
-        "N-563",
-        "N-555"
+        "N-561",
+        "N-553"
       ]
     },
     {
@@ -4016,7 +4016,7 @@
       "transcript_snippet": "This looks to me like a private investigator. Like Turning Point USA has sent private investigators to gather information on their employees.",
       "mentions_person_refs": [
         "N-3",
-        "N-563"
+        "N-561"
       ]
     },
     {
@@ -4036,7 +4036,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-555"
+        "N-553"
       ]
     },
     {
@@ -4146,7 +4146,7 @@
       "transcript_snippet": "she stood up during that hearing and said, \"What even is anti-Semitism? Seth, actually, what did you even do at the Hamptons?\"",
       "mentions_person_refs": [
         "N-3",
-        "N-558",
+        "N-556",
         "N-38",
         "N-1"
       ]
@@ -4169,7 +4169,7 @@
       "transcript_snippet": "there's whispers that she's going to be kicked off of the religious committee because she won't bend the knee to Israel.",
       "mentions_person_refs": [
         "N-3",
-        "N-558",
+        "N-556",
         "N-60"
       ]
     },
@@ -4189,7 +4189,7 @@
       "transcript_snippet": "I'm a Catholic. This is not our doctrine. Our doctrine is not that we worship BB Netanyahu.",
       "mentions_person_refs": [
         "N-3",
-        "N-558",
+        "N-556",
         "N-36"
       ]
     },

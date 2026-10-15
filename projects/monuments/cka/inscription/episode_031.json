@@ -1239,8 +1239,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-381",
-      "ref": "N-381",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Named by the host in the Macron investigation passage.",
@@ -1256,8 +1256,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-585",
-      "ref": "N-585",
+      "@id": "N-583",
+      "ref": "N-583",
       "name": "Thomas Massie",
       "type": "person",
       "description": "The host says Miriam Adelson is trying to remove him.",
@@ -1273,8 +1273,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-619",
-      "ref": "N-619",
+      "@id": "N-617",
+      "ref": "N-617",
       "name": "Cardi B",
       "type": "person",
       "description": "The host says her book starts and ends with Cardi B.",
@@ -1290,8 +1290,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-719",
-      "ref": "N-719",
+      "@id": "N-717",
+      "ref": "N-717",
       "name": "Chuck Smith",
       "type": "person",
       "description": "The host names him as the founder of Calvary Chapel.",
@@ -1705,8 +1705,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-763",
-      "ref": "N-763",
+      "@id": "N-761",
+      "ref": "N-761",
       "name": "Bob Coy",
       "type": "person",
       "description": "First named by the host at 00:19:19 in episode 31. Pompo Beach, Florida Calvary Chapel founder accused of molesting a 4-year-old; the host stresses he is not Rob McCoy.",
@@ -1722,8 +1722,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-764",
-      "ref": "N-764",
+      "@id": "N-762",
+      "ref": "N-762",
       "name": "Jason James Taylor",
       "type": "person",
       "description": "First named by the host at 00:19:19 in episode 31. Lead pastor of Calvary Chapel Solid Rock in Minnesota, named by the host as one of six arrested in a sting.",
@@ -1739,8 +1739,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-765",
-      "ref": "N-765",
+      "@id": "N-763",
+      "ref": "N-763",
       "name": "Anthony Iglesias",
       "type": "person",
       "description": "First named by the host at 00:19:19 in episode 31. Named by the host (spelled Anthony Iglesias) as a predator the Post Falls church allegedly concealed; she says he is serving time in Idaho.",
@@ -1756,8 +1756,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-766",
-      "ref": "N-766",
+      "@id": "N-764",
+      "ref": "N-764",
       "name": "Robert Davis",
       "type": "person",
       "description": "First named by the host at 00:19:19 in episode 31. Reverend and lead pastor of North County Chapel in Post Falls, Idaho, whom the lawsuit alleges made the Thailand remark.",
@@ -1773,8 +1773,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-767",
-      "ref": "N-767",
+      "@id": "N-765",
+      "ref": "N-765",
       "name": "Doug DeAndrea",
       "type": "person",
       "description": "First named by the host at 00:21:14 in episode 31. Former Calvary Chapel pastor in Virginia the host says pleaded guilty to child sex abuse.",
@@ -1790,8 +1790,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-768",
-      "ref": "N-768",
+      "@id": "N-766",
+      "ref": "N-766",
       "name": "Jeffrey Zizz",
       "type": "person",
       "description": "First named by the host at 00:21:14 in episode 31. Oregon Calvary Chapel pastor the host says confessed to misconduct with his daughters and later committed a murder (name as rendered in the transcript).",
@@ -1807,8 +1807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-769",
-      "ref": "N-769",
+      "@id": "N-767",
+      "ref": "N-767",
       "name": "Diddy",
       "type": "person",
       "description": "First named by the host at 00:22:47 in episode 31. Referred to by the host as Diddy in the passage on the man who said the feds run a cartel operation.",
@@ -1825,8 +1825,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-770",
-      "ref": "N-770",
+      "@id": "N-768",
+      "ref": "N-768",
       "name": "Kenny",
       "type": "person",
       "description": "First named by the host at 00:25:17 in episode 31. Former Potter's Fields Ignite student the host says blew the whistle on alleged financial fraud (spelled Kenzie Kenny and Kenny in the transcript).",
@@ -2635,7 +2635,7 @@
       "investigative_direction": "Search Florida court and news records for the accusation against Bob Coy and its outcome.",
       "transcript_snippet": "Then he got accused of molesting a 4-year-old girl.",
       "mentions_person_refs": [
-        "N-763",
+        "N-761",
         "N-17",
         "N-3"
       ]
@@ -2725,7 +2725,7 @@
       "investigative_direction": "Locate Minnesota task force press releases and court records naming Jason James Taylor and the case outcome.",
       "transcript_snippet": "He was among six people who were arrested following a solicitation of minors.",
       "mentions_person_refs": [
-        "N-764",
+        "N-762",
         "N-3"
       ]
     },
@@ -2748,8 +2748,8 @@
       "investigative_direction": "Retrieve the Idaho civil complaint and the criminal judgment against Eglacius and check the quoted allegation.",
       "transcript_snippet": "Yeah, we knew that's why we pulled him out of Thailand.",
       "mentions_person_refs": [
-        "N-765",
-        "N-766",
+        "N-763",
+        "N-764",
         "N-3"
       ]
     },
@@ -2795,7 +2795,7 @@
       "investigative_direction": "Locate the Virginia court records for the pastor (the transcript spells the name Deandria) and the sentence.",
       "transcript_snippet": "The former Calvary uh pastor's name was Doug DeAndrea. He is currently serving time in jail in Virginia on multiple charges related to child sex abuse.",
       "mentions_person_refs": [
-        "N-767",
+        "N-765",
         "N-3"
       ]
     },
@@ -2840,7 +2840,7 @@
       "investigative_direction": "Identify the pastor (the transcript spells the name Jeffrey Zizz) and the Oregon conviction and homicide case records.",
       "transcript_snippet": "He went to prison for 11 months. And then when he got out, he murdered an 80year-old and poured concrete.",
       "mentions_person_refs": [
-        "N-768",
+        "N-766",
         "N-3"
       ]
     },
@@ -2859,7 +2859,7 @@
       "investigative_direction": "Identify the man and the shooting incident the host means and check the Combs trial testimony for any reference to him.",
       "transcript_snippet": "Cassie then verified on the stand that she knew who this man was um and that he had been invited to these parties.",
       "mentions_person_refs": [
-        "N-769",
+        "N-767",
         "N-3"
       ]
     },
@@ -2879,7 +2879,7 @@
       "transcript_snippet": "that Diddy had been blackmailed by the feds and that part of his deal was that he had to keep certain other people in line like Kanye.",
       "mentions_person_refs": [
         "N-27",
-        "N-769",
+        "N-767",
         "N-3"
       ]
     },
@@ -2942,7 +2942,7 @@
       "investigative_direction": "Locate the original news report quoting Kenny and the ministry's response, and check the donor mailings.",
       "transcript_snippet": "I would say maybe like 500. And that would be between all five countries,\" Kenny said.",
       "mentions_person_refs": [
-        "N-770",
+        "N-768",
         "N-3"
       ]
     },
@@ -3097,7 +3097,7 @@
       "investigative_direction": "Review documented histories of Chuck Smith and the Jesus Movement for any intelligence-agency link; none is shown on air.",
       "transcript_snippet": "the CIA implications of who exactly started the Calvary Chapel",
       "mentions_person_refs": [
-        "N-719",
+        "N-717",
         "N-3"
       ]
     },
@@ -3159,7 +3159,7 @@
       "transcript_snippet": "the Fed level coverup, uh, which includes a never-before-seen lawsuit, which is just meant to be propagandists to make people think of there's nothing here",
       "mentions_person_refs": [
         "N-82",
-        "N-381",
+        "N-379",
         "N-3"
       ]
     },
@@ -3606,7 +3606,7 @@
       "mentions_person_refs": [
         "N-279",
         "N-82",
-        "N-381",
+        "N-379",
         "N-3"
       ]
     },
@@ -3690,7 +3690,7 @@
       "transcript_snippet": "It starts with Cardi B and it ends with Cardi B.",
       "mentions_person_refs": [
         "N-3",
-        "N-619"
+        "N-617"
       ]
     },
     {
@@ -3803,7 +3803,7 @@
       "transcript_snippet": "Uh, she's trying to remove Senator Massie.",
       "mentions_person_refs": [
         "N-300",
-        "N-585",
+        "N-583",
         "N-3"
       ]
     },

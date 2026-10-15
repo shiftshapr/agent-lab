@@ -233,7 +233,7 @@
           "related_nodes": [
             "N-3",
             "N-82",
-            "N-381",
+            "N-379",
             "N-11011"
           ],
           "tags": [],
@@ -312,7 +312,7 @@
             "C-5054"
           ],
           "related_nodes": [
-            "N-716",
+            "N-714",
             "N-1",
             "N-3"
           ],
@@ -896,8 +896,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-381",
-      "ref": "N-381",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Named in the cease and desist, the July legal threat and the Delaware suit.",
@@ -1510,8 +1510,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-714",
-      "ref": "N-714",
+      "@id": "N-712",
+      "ref": "N-712",
       "name": "Tom Clare",
       "type": "person",
       "description": "First named by the host at 00:09:25 in episode 36. Described as having sent a December 18, 2024 follow-up email about the cease and desist; his role is not stated in the episode.",
@@ -1527,8 +1527,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-715",
-      "ref": "N-715",
+      "@id": "N-713",
+      "ref": "N-713",
       "name": "Volodymyr Zelensky",
       "type": "person",
       "description": "First named by the host at 00:20:40 in episode 36, transcribed as \"Zilinski\" and \"Zalinski\". Identification as Volodymyr Zelensky is inferred from \"President\" and the Ukraine leaders' meeting.",
@@ -1544,8 +1544,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-716",
-      "ref": "N-716",
+      "@id": "N-714",
+      "ref": "N-714",
       "name": "Ron Paul",
       "type": "person",
       "description": "First named in a viewer comment read by the host at 00:51:14 in episode 36.",
@@ -1721,7 +1721,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-381"
+        "N-379"
       ]
     },
     {
@@ -2139,7 +2139,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-381",
+        "N-379",
         "N-285"
       ]
     },
@@ -2200,7 +2200,7 @@
       "investigative_direction": "Identify the Satis CEO by name and document the claimed acquaintance with Macron; obtain the lease terms.",
       "transcript_snippet": "the CEO who knows Emmanuel Macron, we've confirmed that, decides they're going to sign a two-year lease for an airport hanger to do what?",
       "mentions_person_refs": [
-        "N-381"
+        "N-379"
       ]
     },
     {
@@ -2241,7 +2241,7 @@
       "investigative_direction": "Obtain the December 18, 2024 email and its delivery headers; confirm the sender's identity and role.",
       "transcript_snippet": "on December 18th, Tom Clare sends another follow-up email regarding the cease and desist. And again, I don't receive it because he's sending it to this random box.",
       "mentions_person_refs": [
-        "N-714",
+        "N-712",
         "N-3"
       ]
     },
@@ -2349,7 +2349,7 @@
       "transcript_snippet": "This is the day that Donald Trump meets with Emmanuel Macron.",
       "mentions_person_refs": [
         "N-5",
-        "N-381",
+        "N-379",
         "N-1"
       ]
     },
@@ -2428,7 +2428,7 @@
       "investigative_direction": "Obtain the July 1, 2025 legal letter and its addressee.",
       "transcript_snippet": "on July 1st, Macron sends another legal threat",
       "mentions_person_refs": [
-        "N-381",
+        "N-379",
         "N-3"
       ]
     },
@@ -2525,7 +2525,7 @@
       "investigative_direction": "Compare the Financial Times article's publication time with the plane's July 20 to 26 stay.",
       "transcript_snippet": "the period that Bregie and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court.",
       "mentions_person_refs": [
-        "N-381",
+        "N-379",
         "N-82",
         "N-3"
       ]
@@ -2686,7 +2686,7 @@
       "transcript_snippet": "Brigitte Macron welcomes President Zalinski into Paris on September 3rd because there is this remarkable and I would assume rare, I don't know, but 35 state leaders meet to discuss Ukraine",
       "mentions_person_refs": [
         "N-82",
-        "N-715"
+        "N-713"
       ]
     },
     {
@@ -2762,7 +2762,7 @@
       "investigative_direction": "Count the MK Ultra references in the Delaware complaint.",
       "transcript_snippet": "Emanuel mentioning MK Ultra in the lawsuit to us 18 times struck us as odd",
       "mentions_person_refs": [
-        "N-381",
+        "N-379",
         "N-3"
       ]
     },
@@ -3429,7 +3429,7 @@
       "investigative_direction": "Find the Ron Paul statement or broadcast and its date.",
       "transcript_snippet": "Just know that Ron Paul has used his platform to speak about it. His friend Charlie Kirk questioning the official narrative",
       "mentions_person_refs": [
-        "N-716",
+        "N-714",
         "N-1",
         "N-3"
       ]
@@ -3449,7 +3449,7 @@
       "investigative_direction": "Ask the host whether the package was sent and what it contained.",
       "transcript_snippet": "he's another person that I should probably get some stuff out to send him another insurance package as I'm now terming it",
       "mentions_person_refs": [
-        "N-716",
+        "N-714",
         "N-3"
       ]
     },

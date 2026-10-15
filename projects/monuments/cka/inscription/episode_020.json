@@ -1632,8 +1632,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-381",
-      "ref": "N-381",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Emmanuel Macron; subject of two tangential host claims.",
@@ -1650,8 +1650,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-488",
-      "ref": "N-488",
+      "@id": "N-486",
+      "ref": "N-486",
       "name": "Blake Lively",
       "type": "person",
       "description": "Blake Lively; the lawsuit in which the host says she was drafted.",
@@ -1667,8 +1667,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-489",
-      "ref": "N-489",
+      "@id": "N-487",
+      "ref": "N-487",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Justin Baldoni; the other party in that lawsuit.",
@@ -1684,8 +1684,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-524",
-      "ref": "N-524",
+      "@id": "N-522",
+      "ref": "N-522",
       "name": "Rothschild Family",
       "type": "person",
       "description": "Rothschild family; named in the host's claim about Macron.",
@@ -1701,8 +1701,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-713",
-      "ref": "N-713",
+      "@id": "N-711",
+      "ref": "N-711",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; named in two historical assertions by the host.",
@@ -2115,8 +2115,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-910",
-      "ref": "N-910",
+      "@id": "N-908",
+      "ref": "N-908",
       "name": "Eric Weinstein",
       "type": "person",
       "description": "Named by the host in episode 20 as someone who reached out after the 2018 Kanye tweet.",
@@ -2132,8 +2132,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-911",
-      "ref": "N-911",
+      "@id": "N-909",
+      "ref": "N-909",
       "name": "Rick Rubin",
       "type": "person",
       "description": "Music producer named by the host in episode 20 as getting involved after the 2018 Kanye tweet.",
@@ -2149,8 +2149,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-912",
-      "ref": "N-912",
+      "@id": "N-910",
+      "ref": "N-910",
       "name": "John Lewis",
       "type": "person",
       "description": "Named by the host in episode 20 as a former Daily Wire president who was a naval intelligence officer turned pastor (identity as stated on air, unverified).",
@@ -2166,8 +2166,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-913",
-      "ref": "N-913",
+      "@id": "N-911",
+      "ref": "N-911",
       "name": "MrBeast",
       "type": "person",
       "description": "YouTuber (transcribed \"Mr. Beast\") whose parents the host says are high up in the military.",
@@ -3087,7 +3087,7 @@
       "transcript_snippet": "Suddenly, they get Eric Weinstein&nbsp;&nbsp; involved and he reaches out and he pretends that&nbsp; he wants to be a friend to me.",
       "mentions_person_refs": [
         "N-3",
-        "N-910"
+        "N-908"
       ]
     },
     {
@@ -3106,7 +3106,7 @@
       "transcript_snippet": "Another player in this was Rick Rubin.&nbsp; Yeah, the big music industry. Rick Rubin also&nbsp;&nbsp; got into the mix and wanted to facilitate certain&nbsp; meetings.",
       "mentions_person_refs": [
         "N-3",
-        "N-911"
+        "N-909"
       ]
     },
     {
@@ -3712,7 +3712,7 @@
       "transcript_snippet": "the&nbsp; president at the time of the Daily Wire was also&nbsp;&nbsp; a naval intelligence officer who decided to become&nbsp; a pastor that was John Lewis",
       "mentions_person_refs": [
         "N-3",
-        "N-912"
+        "N-910"
       ]
     },
     {
@@ -3733,7 +3733,7 @@
       "transcript_snippet": "Mr. Beast, both of his parents high&nbsp;&nbsp; up in the military.",
       "mentions_person_refs": [
         "N-3",
-        "N-913"
+        "N-911"
       ]
     },
     {
@@ -3853,7 +3853,7 @@
       "transcript_snippet": "everyone's somehow attached to&nbsp; Raytheon, right? Mr. Beast, they're all attached to&nbsp;&nbsp; Raytheon in one way or the other.",
       "mentions_person_refs": [
         "N-3",
-        "N-913"
+        "N-911"
       ]
     },
     {
@@ -4065,7 +4065,7 @@
       "transcript_snippet": "the military-industrial complex&nbsp;&nbsp; that shot JFK to maintain power has created a&nbsp; veneer um of reality for us",
       "mentions_person_refs": [
         "N-3",
-        "N-713"
+        "N-711"
       ]
     },
     {
@@ -4634,8 +4634,8 @@
       "transcript_snippet": "live subpoenaed myself, held up my&nbsp;&nbsp; phone, I typed in Blake Lively, and I showed you&nbsp; the only two times that I had ever texted about&nbsp;&nbsp; her in my phone at all",
       "mentions_person_refs": [
         "N-3",
-        "N-488",
-        "N-489"
+        "N-486",
+        "N-487"
       ]
     },
     {
@@ -4801,7 +4801,7 @@
       "transcript_snippet": "it's a typical federal maneuver,&nbsp;&nbsp; by the way, to kill someone like Martin Luther&nbsp; King or JFK and then they get a holiday.",
       "mentions_person_refs": [
         "N-3",
-        "N-713"
+        "N-711"
       ]
     },
     {
@@ -4858,8 +4858,8 @@
       "transcript_snippet": "Emmanuel Macron is in fact just&nbsp;&nbsp; like the state of Israel, a Rothschild's creation",
       "mentions_person_refs": [
         "N-3",
-        "N-381",
-        "N-524"
+        "N-379",
+        "N-522"
       ]
     },
     {
@@ -4967,7 +4967,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-381"
+        "N-379"
       ]
     },
     {

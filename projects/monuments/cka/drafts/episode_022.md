@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 509201122ed79de97e030313c375fbcb13502e612ab382589b777bb8300a1cb2
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-842, N-11220, N-11221, N-11222
+  - Tip-minted Nodes (supplement_2026-10d): N-840, N-11220, N-11221, N-11222
   - Hole-minted Nodes (reintro-ep022): N-10207, N-10274, N-10277, N-10299, N-10355, N-10452, N-10467, N-10549, N-10673, N-10849, N-10853
   - Tip-minted Nodes (reintro-ep022): N-11020
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -805,7 +805,7 @@ Existing item reused for new claims in this episode.
 
 ---
 
-**N-842** Casey Baugh
+**N-840** Casey Baugh
 
 First named by the host at 00:03:53 in episode 22 as a co-owner of the Maxfield plane and as having his name on the Baugh Entrepreneurship Institute at UVU.
 
@@ -1054,7 +1054,7 @@ Claim: The host says the plane owned by Derek and Shirlene Maxfield is also co-o
 Transcript Snippet: Someone who didn't hit internet radar who also co-owns that plane with them is a person named Casey Baugh, B A U G H.
 
 Anchored Artifacts: 
-Mentions: N-94, N-202, N-842, N-3
+Mentions: N-94, N-202, N-840, N-3
 Related Nodes: N-10849
 Tags: relevance:context
 Investigative Direction: FAA aircraft registration and ownership records for the Maxfield plane.
@@ -1070,7 +1070,7 @@ Claim: The host says Casey Baugh has his name on the Baugh Entrepreneurship Inst
 Transcript Snippet: the Baugh Entrepreneurship Institute, which operates out of the Woodbury Business Building, okay?
 
 Anchored Artifacts: 
-Mentions: N-842, N-3
+Mentions: N-840, N-3
 Related Nodes: N-10849, N-10012
 Tags: relevance:context
 Investigative Direction: UVU website and records for the Baugh Entrepreneurship Institute and its location.
@@ -1086,7 +1086,7 @@ Claim: The host says that, as is now known, Tyler Robinson was not on the Woodbu
 Transcript Snippet: of course, now we know that Tyler Robinson was not on the Woodbury building or on campus at all, for that matter.
 
 Anchored Artifacts: 
-Mentions: N-40, N-842, N-3
+Mentions: N-40, N-840, N-3
 Related Nodes: N-10028, N-10849
 Tags: relevance:core
 Investigative Direction: Charging documents and campus video establishing where Robinson was relative to the Woodbury Business Building.

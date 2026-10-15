@@ -853,8 +853,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-382",
-      "ref": "N-382",
+      "@id": "N-380",
+      "ref": "N-380",
       "name": "Dan Bongino",
       "type": "person",
       "description": "First named by the host at 00:38:08 in episode 15. Aliases: Dan Bonino.",
@@ -1586,7 +1586,7 @@
       "mentions_person_refs": [
         "N-99",
         "N-69",
-        "N-382"
+        "N-380"
       ]
     },
     {

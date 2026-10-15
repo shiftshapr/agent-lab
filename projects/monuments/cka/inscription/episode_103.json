@@ -178,9 +178,9 @@
             "C-4033"
           ],
           "related_nodes": [
+            "N-620",
+            "N-621",
             "N-622",
-            "N-623",
-            "N-624",
             "N-10920"
           ],
           "tags": [],
@@ -233,7 +233,7 @@
             "N-14",
             "N-15",
             "N-213",
-            "N-620",
+            "N-618",
             "N-10450",
             "N-10472",
             "N-10899"
@@ -257,7 +257,7 @@
             "N-2",
             "N-3",
             "N-14",
-            "N-620",
+            "N-618",
             "N-10472"
           ],
           "tags": [],
@@ -276,7 +276,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-620",
+            "N-618",
             "N-10472",
             "N-10899"
           ],
@@ -304,8 +304,8 @@
             "C-4050"
           ],
           "related_nodes": [
-            "N-428",
-            "N-625",
+            "N-426",
+            "N-623",
             "N-10000",
             "N-10921"
           ],
@@ -367,7 +367,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-493",
+            "N-491",
             "N-10388"
           ],
           "tags": [],
@@ -794,8 +794,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-363",
+      "ref": "N-363",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Fort Huachuca eyewitness; the host says Gary Melton's guest, Mitch's son, inadvertently confirmed Mitch was there.",
@@ -811,8 +811,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-428",
-      "ref": "N-428",
+      "@id": "N-426",
+      "ref": "N-426",
       "name": "Marcus Wada",
       "type": "person",
       "description": "TPUSA staffer the host says uses AI voices in donor presentations and met with Hollywood deepfake companies, including VFX LA.",
@@ -832,8 +832,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-493",
-      "ref": "N-493",
+      "@id": "N-491",
+      "ref": "N-491",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Erika Kirk's mother; the host places her on the Superfeed board and ties her to the rumored Turning Point Action shortfall.",
@@ -852,8 +852,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-620",
-      "ref": "N-620",
+      "@id": "N-618",
+      "ref": "N-618",
       "name": "Gary Melton",
       "type": "person",
       "description": "First named by the host at 00:00:56 in episode 103. Self-described former Green Beret who runs the Paramount Tactical show and read Erika Kirk's September 9 alibi on air. Aliases: Gary Moulton; Gary Mountain.",
@@ -877,8 +877,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-621",
-      "ref": "N-621",
+      "@id": "N-619",
+      "ref": "N-619",
       "name": "Andrew Wommack",
       "type": "person",
       "description": "First named by the host at 00:09:26 in episode 103. Founder of Charis Bible College, described by the host as former military.",
@@ -894,8 +894,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-622",
-      "ref": "N-622",
+      "@id": "N-620",
+      "ref": "N-620",
       "name": "Desmond Holly",
       "type": "person",
       "description": "First named by the host at 00:13:00 in episode 103. The 16-year-old Evergreen High School student named in the official account as the September 10 shooter. Aliases: Deshaun Holly.",
@@ -915,8 +915,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-623",
-      "ref": "N-623",
+      "@id": "N-621",
+      "ref": "N-621",
       "name": "Matthew Silverstone",
       "type": "person",
       "description": "First named by the host at 00:13:00 in episode 103. The second Evergreen High School student shot near South Olive Road and Buffalo Park Road. Aliases: Matt Silverstone; Matthew Stone.",
@@ -934,8 +934,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-624",
-      "ref": "N-624",
+      "@id": "N-622",
+      "ref": "N-622",
       "name": "Delmer Martinez",
       "type": "person",
       "description": "First named by the host at 00:13:58 in episode 103. Roofer who filmed part of the Evergreen incident and was interviewed by CBS Colorado. Aliases: Delmer Martinez.",
@@ -955,8 +955,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-625",
-      "ref": "N-625",
+      "@id": "N-623",
+      "ref": "N-623",
       "name": "Skip Caray",
       "type": "person",
       "description": "First named by the host at 00:37:32 in episode 103. Deceased baseball commentator whose voice VFX LA says it cloned for Fanatics Collectibles.",
@@ -974,8 +974,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-482",
-      "ref": "N-482",
+      "@id": "N-480",
+      "ref": "N-480",
       "name": "Jessica Ghawi",
       "type": "person",
       "description": "First named by the host at 00:53:58 in episode 103. The host's name for an Aurora theater shooting victim who, she says, had survived an earlier shooting at a food court in Canada; the host is unsure of the name.",
@@ -1780,7 +1780,7 @@
       "investigative_direction": "Check Andrew Wommack's published biography and any military service records.",
       "transcript_snippet": "the founder of it is this guy Andrew Wommack and you're thinking is he former military? Of course.",
       "mentions_person_refs": [
-        "N-621"
+        "N-619"
       ]
     },
     {
@@ -1961,7 +1961,7 @@
       "investigative_direction": "Review the Jefferson County Sheriff's Office incident report and recent document release.",
       "transcript_snippet": "a 16-year-old student who attended Evergreen High School named Desmond Holly showed up to school with a Smith & Wesson.38 special revolver at 12:21.",
       "mentions_person_refs": [
-        "N-622"
+        "N-620"
       ]
     },
     {
@@ -1981,9 +1981,9 @@
       "investigative_direction": "Obtain Martinez's full footage and the sheriff's scene diagram.",
       "transcript_snippet": "And he does this at the intersection of South Olive Road and Buffalo Park Road. Uh a roofer, a guy who's literally working on roofs in construction, a man named Delmar Martinez, filmed this initial confrontation.",
       "mentions_person_refs": [
-        "N-622",
-        "N-623",
-        "N-624"
+        "N-620",
+        "N-621",
+        "N-622"
       ]
     },
     {
@@ -2001,7 +2001,7 @@
       "investigative_direction": "Review deputy body-camera footage and the coroner's report in the sheriff's document release.",
       "transcript_snippet": "The sheriff's office has since confirmed that only the deputies were the witnesses to Holly shooting himself after they gave their commands.",
       "mentions_person_refs": [
-        "N-622"
+        "N-620"
       ]
     },
     {
@@ -2055,7 +2055,7 @@
       "investigative_direction": "Obtain the full CBS Colorado interview and Martinez's employer details.",
       "transcript_snippet": "Martinez tells CBS Colorado he and another coworker were working a roofing job in Evergreen.",
       "mentions_person_refs": [
-        "N-624"
+        "N-622"
       ]
     },
     {
@@ -2073,7 +2073,7 @@
       "investigative_direction": "Search Jefferson County building-permit records for Evergreen roofing permits active on September 10, 2025.",
       "transcript_snippet": "locals, who were very interested in this, began searching and they could not determine what house he and his coworkers were working on or what contractor they were working for.",
       "mentions_person_refs": [
-        "N-624"
+        "N-622"
       ]
     },
     {
@@ -2180,7 +2180,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-14",
-        "N-620"
+        "N-618"
       ]
     },
     {
@@ -2204,7 +2204,7 @@
         "C-1997"
       ],
       "mentions_person_refs": [
-        "N-620",
+        "N-618",
         "N-2",
         "N-1"
       ]
@@ -2229,7 +2229,7 @@
         "C-2905"
       ],
       "mentions_person_refs": [
-        "N-620",
+        "N-618",
         "N-14",
         "N-2"
       ]
@@ -2297,8 +2297,8 @@
       "investigative_direction": "Request Fort Huachuca and Sierra Vista police call records for September 8–9, 2025 involving Mitch Snow.",
       "transcript_snippet": "And then Mitch's son confirmed that he got a phone call on that day because the police were called and I guess he's kin",
       "mentions_person_refs": [
-        "N-364",
-        "N-620"
+        "N-363",
+        "N-618"
       ]
     },
     {
@@ -2322,7 +2322,7 @@
         "C-2906"
       ],
       "mentions_person_refs": [
-        "N-620",
+        "N-618",
         "N-2"
       ]
     },
@@ -2345,7 +2345,7 @@
         "C-2890"
       ],
       "mentions_person_refs": [
-        "N-428"
+        "N-426"
       ]
     },
     {
@@ -2364,7 +2364,7 @@
       "investigative_direction": "Obtain TPUSA vendor meeting records and correspondence with AI production companies after September 10, 2025.",
       "transcript_snippet": "Marcus was meeting with and communicating with Hollywood AI uh deep fake companies, okay? They specialize in creating deep fakes.",
       "mentions_person_refs": [
-        "N-428",
+        "N-426",
         "N-1"
       ]
     },
@@ -2386,7 +2386,7 @@
       "investigative_direction": "Ask VFX LA and TPUSA to confirm any meeting or contract, and check TPUSA expenditure filings for payments to the firm.",
       "transcript_snippet": "VFX Los Angeles. These guys uh were brought into Turning Point USA. Like I said, we can confirm that with Marcus Wada.",
       "mentions_person_refs": [
-        "N-428"
+        "N-426"
       ]
     },
     {
@@ -2406,7 +2406,7 @@
       "investigative_direction": "Archive the VFX LA voice-cloning page and the Fanatics Collectibles project.",
       "transcript_snippet": "this project for Fanatics Collectibles, where we had to reproduce the unique timbre and intonation of the deceased baseball commentator Skip Caray.",
       "mentions_person_refs": [
-        "N-625"
+        "N-623"
       ]
     },
     {
@@ -2506,7 +2506,7 @@
       "transcript_snippet": "the rumor is that Turning Point Action was missing $10 million, dollars Point Action actually built a back door. It has connections to Erika's mother.",
       "mentions_person_refs": [
         "N-2",
-        "N-493",
+        "N-491",
         "N-1"
       ]
     },
@@ -2527,7 +2527,7 @@
       "investigative_direction": "Check Superfeed's corporate filings for board members and the TPUSA app's terms of service and privacy policy.",
       "transcript_snippet": "the company that she is on the board of with Tyler Bowyer. Uh they act Superfeed. Superfeed actually powers the Turning Point USA website.",
       "mentions_person_refs": [
-        "N-493",
+        "N-491",
         "N-11",
         "N-2"
       ]
@@ -2617,7 +2617,7 @@
       "investigative_direction": "Check the Aurora victim list and Canadian news coverage of 2012 food-court shootings to confirm the victim's identity.",
       "transcript_snippet": "The fact that she had just survived another shooting. Um missed it in a food court up in Canada.",
       "mentions_person_refs": [
-        "N-482"
+        "N-480"
       ]
     },
     {

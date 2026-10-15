@@ -586,7 +586,7 @@
             "N-10340",
             "N-14",
             "N-3",
-            "N-854"
+            "N-852"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -700,7 +700,7 @@
             "C-14071"
           ],
           "related_nodes": [
-            "N-644",
+            "N-642",
             "N-11382",
             "N-10097",
             "N-104",
@@ -2088,8 +2088,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-644",
-      "ref": "N-644",
+      "@id": "N-642",
+      "ref": "N-642",
       "name": "Ryan Routh",
       "type": "person",
       "description": "First named by a clip speaker at 00:53:58 in episode 47 (spelled Ryan Routh in the transcript). Named alongside Thomas Crooks in a radicalization timing theory.",
@@ -2403,8 +2403,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-436",
-      "ref": "N-436",
+      "@id": "N-434",
+      "ref": "N-434",
       "name": "Kimberly Klacik",
       "type": "person",
       "description": "Named by the host regarding a demand she ignored.",
@@ -2420,8 +2420,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-854",
-      "ref": "N-854",
+      "@id": "N-852",
+      "ref": "N-852",
       "name": "Jimmy Dore",
       "type": "person",
       "description": "Host of the show where Candace clarified her text sourcing.",
@@ -3613,7 +3613,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-854"
+        "N-852"
       ]
     },
     {
@@ -4571,7 +4571,6 @@
         "C-14040"
       ],
       "mentions_person_refs": [
-        "N-192",
         "N-3"
       ]
     },
@@ -4605,7 +4604,7 @@
         "N-11336"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:39:39",
       "investigative_direction": "Review the Wikipedia edit history for the page for the relevant edit and editor.",
@@ -4651,7 +4650,7 @@
         "N-10898"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:41:47",
       "investigative_direction": "Obtain the Post article and its sourcing; compare with past Daily Wire accounts of her show preparation.",
@@ -4674,7 +4673,7 @@
         "N-10898"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:41:47",
       "investigative_direction": "Ask the Post for its sources and check the host's former employers' records.",
@@ -4694,7 +4693,7 @@
         "N-10898"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:41:47",
       "investigative_direction": "Check the host's staff history against the Post's claim.",
@@ -4742,6 +4741,7 @@
       "investigative_direction": "Ask Erika Kirk for her account; the transcript phrasing is garbled so the host's meaning should be confirmed.",
       "transcript_snippet": "Erika was like, well, I'm not like a feminist and I didn't want the vibe of that, which I think it did come across it like a bit of a feminist to say like this is all my family.",
       "mentions_person_refs": [
+        "N-1",
         "N-2",
         "N-3"
       ]
@@ -4811,9 +4811,10 @@
       "investigative_direction": "Identify the Macron and Klacik demand letters and their dates; compare with the host's account.",
       "transcript_snippet": "And if I ignore that, as I did with Brigitte cuz I told the truth, as I did with Kim Klacik cuz I told the truth, then you have the grounds to file something.",
       "mentions_person_refs": [
+        "N-1",
         "N-3",
         "N-82",
-        "N-436"
+        "N-434"
       ]
     },
     {
@@ -4865,7 +4866,7 @@
       "@id": "C-14065",
       "ref": "C-14065",
       "label": "Host Says TPUSA Violated a Ceasefire by Airing the Case on Its Daily Show",
-      "claim": "The host says it felt like a ceasefire during the talks, which TPUSA violated by discussing the Tyler Robinson trial on the Charlie Kirk Show the day before, and that no such limit was communicated to her.",
+      "claim": "The host says she thought neither side was supposed to be doing live streams while talks were underway, that TPUSA's continued daily show was not communicated to her, that it felt like a ceasefire that got violated, and that the Charlie Kirk Show discussed the Tyler Robinson trial the day before.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11379",
@@ -4878,7 +4879,8 @@
       "investigative_direction": "Ask both sides what media ground rules were agreed.",
       "transcript_snippet": "that I didn't feel like that was communicated to me. It felt like a ceasefire, and then it got violated, but they had an interesting conversation on their show yesterday",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-40"
       ]
     },
     {
@@ -4995,7 +4997,7 @@
         "N-335",
         "N-40",
         "N-104",
-        "N-644"
+        "N-642"
       ]
     },
     {
@@ -5065,7 +5067,8 @@
       "transcript_snippet": "that might even be the first time Andrew Kolvet has expressed that he thought that those messages were weird initially.",
       "mentions_person_refs": [
         "N-14",
-        "N-3"
+        "N-3",
+        "N-40"
       ]
     },
     {
@@ -5073,7 +5076,7 @@
       "@id": "C-14074",
       "ref": "C-14074",
       "label": "Host Says Megyn Kelly Offered to Ref the Conversation Before the Bari Weiss Moment",
-      "claim": "The host says Megyn Kelly, before the Bari Weiss moment and when the conversation was going to be livestreamed, offered to ref it, and later helped make it happen.",
+      "claim": "The host says Megyn Kelly, who was initially going to ref the conversation when it was going to be livestreamed and before the Bari Weiss moment, offered to ref it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11379"
@@ -5081,7 +5084,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:56:50",
+      "claim_timestamp": "00:57:55",
       "investigative_direction": "Ask Megyn Kelly's team to confirm her role in arranging the meeting.",
       "transcript_snippet": "Megyn Kelly, who was initially going to, when we were going to live stream the conversation, before the Bari Weiss moment, Megyn Kelly um offered to ref that conversation.",
       "mentions_person_refs": [
@@ -5330,8 +5333,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-22",
-        "N-147",
-        "N-11"
+        "N-147"
       ]
     },
     {

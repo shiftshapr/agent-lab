@@ -12,13 +12,13 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11397
-  - Hole-minted Nodes (reintro-ep085): N-422, N-10571, N-10572, N-10722
-  - Tip-minted Nodes (reintro-ep085): N-616, N-680, N-782, N-10919
+  - Hole-minted Nodes (reintro-ep085): N-420, N-10571, N-10572, N-10722
+  - Tip-minted Nodes (reintro-ep085): N-614, N-678, N-780, N-10919
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14450–C-14549
-  - Reused Nodes Appearing: N-10567, N-10566, N-5, N-9, N-14, N-15, N-17, N-22, N-30, N-36, N-37, N-39, N-55, N-69, N-82, N-99, N-125, N-180, N-192, N-211, N-214, N-222, N-456, N-603, N-604, N-10000, N-10011, N-10012, N-10015, N-10021, N-10022, N-10024, N-10027, N-10029, N-10048, N-10063, N-10110, N-10117, N-10129, N-10141, N-10142, N-10151, N-10153, N-10202, N-10229, N-10271, N-10300, N-10311, N-10316, N-10338, N-10349, N-10355, N-10360, N-10436, N-10443, N-10446, N-10505, N-10539, N-10541, N-10546, N-10563, N-10621, N-11011, N-11054, N-11080, N-11128, N-11129, N-11131
+  - Reused Nodes Appearing: N-10567, N-10566, N-5, N-9, N-14, N-15, N-17, N-22, N-30, N-36, N-37, N-39, N-55, N-69, N-82, N-99, N-125, N-180, N-192, N-211, N-214, N-222, N-454, N-601, N-602, N-10000, N-10011, N-10012, N-10015, N-10021, N-10022, N-10024, N-10027, N-10029, N-10048, N-10063, N-10110, N-10117, N-10129, N-10141, N-10142, N-10151, N-10153, N-10202, N-10229, N-10271, N-10300, N-10311, N-10316, N-10338, N-10349, N-10355, N-10360, N-10436, N-10443, N-10446, N-10505, N-10539, N-10541, N-10546, N-10563, N-10621, N-11011, N-11054, N-11080, N-11128, N-11129, N-11131
  - New Nodes Introduced: N-10568
- - Hole-minted Nodes (wave3): N-401, N-412, N-413
+ - Hole-minted Nodes (wave3): N-399, N-410, N-411
  - Reused Nodes Appearing: N-1, N-2, N-274
  - (see registers)
 
@@ -322,19 +322,19 @@ Confidence Level: Medium
 
 # Node Register
 
-**N-413** Daniel Balou
+**N-411** Daniel Balou
 
 First named by the host at 00:10:32 in episode 85.
 
 *Related: C-2587, C-2588*
 
-**N-412** Frederick Vaglio
+**N-410** Frederick Vaglio
 
 First named by the host at 00:10:32 in episode 85.
 
 *Related: C-2587, C-2588*
 
-**N-401** Jean-Luc Baguer
+**N-399** Jean-Luc Baguer
 
 First named by the host at 00:10:32 in episode 85.
 
@@ -622,7 +622,7 @@ Bari Weiss; interviewed Erika Kirk.
 
 ---
 
-**N-422** Derek Niekerk
+**N-420** Derek Niekerk
 
 Derek Niekerk; the host calls him Erika's personal security guard.
 
@@ -630,7 +630,7 @@ Derek Niekerk; the host calls him Erika's personal security guard.
 
 ---
 
-**N-456** Lindsey Graham
+**N-454** Lindsey Graham
 
 Lindsey Graham; the Disney World claims.
 
@@ -638,7 +638,7 @@ Lindsey Graham; the Disney World claims.
 
 ---
 
-**N-603** Katherine Locastro
+**N-601** Katherine Locastro
 
 Katherine LoCastro (transcribed LaCastro); with Erika on July 14 and when she learned of the death.
 
@@ -646,7 +646,7 @@ Katherine LoCastro (transcribed LaCastro); with Erika on July 14 and when she le
 
 ---
 
-**N-604** Scott Bessent
+**N-602** Scott Bessent
 
 Scott Bessent; named in the host's letters remark.
 
@@ -654,7 +654,7 @@ Scott Bessent; named in the host's letters remark.
 
 ---
 
-**N-616** Jessica Reed Kraus
+**N-614** Jessica Reed Kraus
 
 Jessica Reed Kraus (House Inhabit); named in the Kolvet and AI-image claims.
 
@@ -662,7 +662,7 @@ Jessica Reed Kraus (House Inhabit); named in the Kolvet and AI-image claims.
 
 ---
 
-**N-680** Jonathan Barcelo
+**N-678** Jonathan Barcelo
 
 Jonathan Barcelo (node spelled Barcelo); the Long Beach trip and background claims.
 
@@ -670,7 +670,7 @@ Jonathan Barcelo (node spelled Barcelo); the Long Beach trip and background clai
 
 ---
 
-**N-782** Matt Robinson
+**N-780** Matt Robinson
 
 Matt Robinson, Tyler Robinson's father.
 
@@ -1144,7 +1144,7 @@ Claim Timestamp: 00:10:32
 Claim: Jean-Luc Baguer is identified as a ringleader of the alleged conspiracy, alongside co-conspirators Frederick Vaglio and Daniel Balou.
 
 Anchored Artifacts: A-1903.1
-Mentions: N-413, N-412, N-401
+Mentions: N-411, N-410, N-399
 Related Nodes: N-10568
 Investigative Direction: Verify role assignments via French court documents.
 
@@ -1157,7 +1157,7 @@ Claim Timestamp: 00:11:16
 Claim: Daniel Balou, a retired intelligence officer, attempted suicide while in prison, impairing his ability to testify.
 
 Anchored Artifacts: A-1903.1
-Mentions: N-413, N-412, N-401
+Mentions: N-411, N-410, N-399
 Related Nodes: N-10568
 Investigative Direction: Verify incident via French press reporting or court records.
 
@@ -1633,7 +1633,7 @@ Claim: The host says the hitmen say that Daniel Balou, a retired intelligence of
 Transcript Snippet: the hitmen say that Daniel is the one that told them that they were doing this on behalf of the government.
 
 Anchored Artifacts: A-1903.1
-Mentions: N-413, N-3
+Mentions: N-411, N-3
 Related Nodes: N-10568
 Tags: relevance:context
 Investigative Direction: Check French court reporting for the hitmen's statements naming Balou as the source of the government claim.
@@ -1941,7 +1941,7 @@ Claim: The host says Erika Kirk's husband's death was met with no call to family
 Transcript Snippet: Again, no family call to come rush to be her by her side, but almost like this TPUSA cult of people, which is unnatural.
 
 Anchored Artifacts: 
-Mentions: N-2, N-188, N-603, N-3
+Mentions: N-2, N-188, N-601, N-3
 Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Ask Erika's family whether they were called that day and when; check phone records or statements.
@@ -2022,7 +2022,7 @@ Claim: The host says that on the evening of July 14 Erika Kirk, who did not atte
 Transcript Snippet: Erika, who did not attend SAS in Florida, uh, boarded a private plane with Katherine Locastro.
 
 Anchored Artifacts: 
-Mentions: N-2, N-603, N-680, N-3
+Mentions: N-2, N-601, N-678, N-3
 Related Nodes: N-10571, N-11080
 Tags: relevance:core
 Investigative Direction: Request the flight record for the July 14, 2025 trip (tail number, manifest, destination) and any Long Beach event or meeting.
@@ -2038,7 +2038,7 @@ Claim: The host says Katherine Locastro is Mikey McCoy's assistant (transcribed 
 Transcript Snippet: Again, that's Mikey McCoy's assistant, and she headed to Long Beach
 
 Anchored Artifacts: 
-Mentions: N-603, N-192, N-3
+Mentions: N-601, N-192, N-3
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Check TPUSA staff listings or LinkedIn for LoCastro's title and reporting line.
@@ -2054,7 +2054,7 @@ Claim: The host says Jonathan Barcelo was in the Marine Corps from 2013 until at
 Transcript Snippet: He's a Marine in the Marine Corps from 2013 at least until up in 2017.
 
 Anchored Artifacts: 
-Mentions: N-680, N-3
+Mentions: N-678, N-3
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Request his DD-214-equivalent public record or Marine Security Guard unit history; verify through public military records.
@@ -2070,7 +2070,7 @@ Claim: The host says the only posting she can find for Jonathan Barcelo is Chile
 Transcript Snippet: He also worked as a helicopter technician for an attack squadron.
 
 Anchored Artifacts: 
-Mentions: N-680, N-3
+Mentions: N-678, N-3
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Check public Marine and LinkedIn records for the Chile posting and the helicopter attack squadron assignment.
@@ -2086,7 +2086,7 @@ Claim: The host says Barcello worked as a private investigator and ran an invest
 Transcript Snippet: Then, uh, from 2017 to 2022, he worked as a private investigator, ran a private investigat- investigative firm.
 
 Anchored Artifacts: 
-Mentions: N-680, N-3
+Mentions: N-678, N-3
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Check Arizona PI licensing and business records for the firm, and ASU graduation records.
@@ -2102,7 +2102,7 @@ Claim: The host says Barcello got a job at Turning Point USA as a development op
 Transcript Snippet: suddenly he gets a job working in donations as development opera- operations administrator at Turning Point USA.
 
 Anchored Artifacts: 
-Mentions: N-680, N-3
+Mentions: N-678, N-3
 Related Nodes: N-10000, N-10436
 Tags: relevance:core
 Investigative Direction: Check his LinkedIn or TPUSA job postings for these roles and dates.
@@ -2118,7 +2118,7 @@ Claim: The host says Erika's party on July 14 included Jonathan Barcelo, Mikey M
 Transcript Snippet: and Erika's personal security guard, Derek Niekerk.
 
 Anchored Artifacts: 
-Mentions: N-2, N-680, N-422, N-603, N-192, N-3
+Mentions: N-2, N-678, N-420, N-601, N-192, N-3
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Verify the manifest of the July 14 flight and Niekerk's role as Erika's security.
@@ -2134,7 +2134,7 @@ Claim: The host says the four stayed in Long Beach only a couple of hours and re
 Transcript Snippet: They only stayed for a couple of hours, and then they returned to Scottsdale, so it was clearly a meeting of some description.
 
 Anchored Artifacts: 
-Mentions: N-2, N-680, N-422, N-3
+Mentions: N-2, N-678, N-420, N-3
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Check FAA flight data for the same-day round trip, and ask who met them in Long Beach.
@@ -2415,7 +2415,7 @@ Claim: The host says Erika Kirk has a police force, '33' and the White House beh
 Transcript Snippet: She's got the White House, Scott Bessent that'll publish letters saying that they they're so upstanding and so moral, right?
 
 Anchored Artifacts: 
-Mentions: N-2, N-604, N-3
+Mentions: N-2, N-602, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Identify any Bessent letter or public statement of support for TPUSA or Erika Kirk; none is shown here.
@@ -2513,7 +2513,7 @@ Claim: The host says Robinson's father never said his son did this and that she 
 Transcript Snippet: His father, by the way, never ever ever said his son did this.
 
 Anchored Artifacts: 
-Mentions: N-782, N-40, N-3
+Mentions: N-780, N-40, N-3
 Related Nodes: N-10022
 Supports: C-12123
 Tags: relevance:core
@@ -2530,7 +2530,7 @@ Claim: The host says her sources tell her Robinson's father does not believe the
 Transcript Snippet: He does not believe that the person looks like his son that is coming up to coming up the staircase.
 
 Anchored Artifacts: 
-Mentions: N-782, N-40, N-3
+Mentions: N-780, N-40, N-3
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Identify the sources; compare the staircase photos with known photos of Robinson; check affidavit language on recognition.
@@ -2676,7 +2676,7 @@ Claim: The host says that in his later account of the surrender Brooksby never s
 Transcript Snippet: never says that he signed a statement, never says that he said he was guilty, never said that his dad said he was guilty.
 
 Anchored Artifacts: 
-Mentions: N-274, N-40, N-782, N-3
+Mentions: N-274, N-40, N-780, N-3
 Related Nodes: N-10021, N-10566
 Contradicts: C-2597
 Tags: relevance:core
@@ -2693,7 +2693,7 @@ Claim: The host says Brooksby said that Mike Mitchell told him Robinson's dad re
 Transcript Snippet: He said that Mike Mitchell told him his dad recognized him.
 
 Anchored Artifacts: 
-Mentions: N-274, N-125, N-782, N-3
+Mentions: N-274, N-125, N-780, N-3
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Find where Brooksby said this; it does not appear in the two clips played in this episode.
@@ -2709,7 +2709,7 @@ Claim: The host says Mike Mitchell is now speaking on behalf of Matt Robinson an
 Transcript Snippet: Mike Mitchell is now speaking on behalf of Matt Robinson.
 
 Anchored Artifacts: 
-Mentions: N-125, N-782, N-3
+Mentions: N-125, N-780, N-3
 Related Nodes: N-10141, N-10022
 Tags: relevance:core
 Investigative Direction: Find any public statement by Mitchell for the Robinson family and any police-station statement signed by him.
@@ -2757,7 +2757,7 @@ Claim: The host says Lindsey Graham had breakfast at Chef Mickey's and spent thr
 Transcript Snippet: Um he had breakfast at Chef Mickey's. He was there for 3 days.
 
 Anchored Artifacts: 
-Mentions: N-456, N-3
+Mentions: N-454, N-3
 Related Nodes: N-10011
 Tags: relevance:tangential
 Investigative Direction: Check TMZ's report and Graham's own statements about the trip.
@@ -2773,7 +2773,7 @@ Claim: The host says Graham lied about where he was, saying he only stopped by, 
 Transcript Snippet: He said he only went and stopped by and then he was there for 3 days.
 
 Anchored Artifacts: 
-Mentions: N-456, N-3
+Mentions: N-454, N-3
 Related Nodes: N-10011
 Tags: relevance:tangential
 Investigative Direction: Find the TMZ report and Graham's statement for the discrepancy.
@@ -2920,7 +2920,7 @@ Claim: The host says she found out that House Inhabit was dealing with Andrew Ko
 Transcript Snippet: And then I find out House Inhabit dealing with Andrew Kolvet
 
 Anchored Artifacts: 
-Mentions: N-616, N-14, N-3
+Mentions: N-614, N-14, N-3
 Related Nodes: N-10919
 Tags: relevance:core
 Investigative Direction: Find direct communications or reporting linking Reed Kraus and Kolvet; compare with the host's earlier claims.
@@ -2936,7 +2936,7 @@ Claim: The host says AI images of her husband with Milo were used against her in
 Transcript Snippet: She was using AI images of my husband with Milo.
 
 Anchored Artifacts: 
-Mentions: N-30, N-222, N-616, N-3
+Mentions: N-30, N-222, N-614, N-3
 Related Nodes: N-10919
 Tags: relevance:context
 Investigative Direction: Locate the AI images and the account that posted them; confirm who the host means by 'she' (transcript likely House Inhabit).

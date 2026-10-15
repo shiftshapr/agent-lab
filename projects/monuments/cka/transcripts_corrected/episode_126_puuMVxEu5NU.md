@@ -263,7 +263,7 @@ Tyler was around campus, and he was tasked with dumping clothes at the Dairy Que
 
 [45:40]
 
-There seems to be some, like I said, mass panic happening at Turning Point USA. I am so the person that they are focused on. I would still to this day sit down with Blake Neff or Andrew Colberg. I would welcome them into my home to sit down. Um otherwise, I would probably you know, I definitively would do any time, any place in terms Let me be clear here, cuz time things got a little tricky. It We live in a technological age. We can zoom anytime, any place, you know, on the internet. I would like to have that conversation, and I would be completely respectful and ask questions, hopefully come away with answers, what I expected to do when sitting down with Erika, and it led me to believe that she lied to my face.
+There seems to be some, like I said, mass panic happening at Turning Point USA. I am so the person that they are focused on. I would still to this day sit down with Blake Neff or Andrew Kolvet. I would welcome them into my home to sit down. Um otherwise, I would probably you know, I definitively would do any time, any place in terms Let me be clear here, cuz time things got a little tricky. It We live in a technological age. We can zoom anytime, any place, you know, on the internet. I would like to have that conversation, and I would be completely respectful and ask questions, hopefully come away with answers, what I expected to do when sitting down with Erika, and it led me to believe that she lied to my face.
 
 [46:25]
 

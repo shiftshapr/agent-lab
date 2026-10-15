@@ -306,7 +306,7 @@
             "C-12602"
           ],
           "related_nodes": [
-            "N-524"
+            "N-522"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -345,8 +345,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-549",
-      "ref": "N-549",
+      "@id": "N-547",
+      "ref": "N-547",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Self-identified friend of Erica Kirk for approximately 15 years; styled the \"left eye club\" editorial photograph; designed the cuff worn by Erica; reported to have been with Erika on September 10, 2025. Husband's first name given by host as Thomas (uncertain).",
@@ -369,8 +369,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-545",
-      "ref": "N-545",
+      "@id": "N-543",
+      "ref": "N-543",
       "name": "Rob Skiba",
       "type": "person",
       "description": "Lecturer whose \"Babylon Rising\" speech is played at length in this episode; posits Tower of Babel as technology, Mount Hermon at 33.33°N 33.33°E as fallen-angel landing site, Gilgamesh/Nimrod identification, and CERN/666 symbolism. Host reports an email from the lecturer's son thanking her.",
@@ -396,8 +396,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-550",
-      "ref": "N-550",
+      "@id": "N-548",
+      "ref": "N-548",
       "name": "Tom Horn",
       "type": "person",
       "description": "Radio host cited via Omega Man Radio clip; states a \"special operations general\" validated Gilgamesh remains in \"remarkable preservation.\"",
@@ -418,8 +418,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-551",
-      "ref": "N-551",
+      "@id": "N-549",
+      "ref": "N-549",
       "name": "Steve Quayle",
       "type": "person",
       "description": "Radio co-host cited via Omega Man Radio clip; asserts human genome project was oriented toward genetic markers for disembodied spirits reanimating Nimrod/Gilgamesh.",
@@ -440,8 +440,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-552",
-      "ref": "N-552",
+      "@id": "N-550",
+      "ref": "N-550",
       "name": "David Flynn",
       "type": "person",
       "description": "Researcher cited by Rob Skiba as having identified the Mount Hermon coordinate (33.33°N 33.33°E from Paris prime meridian) and the \"devil's line.\" Reported by Rob Skiba as recently deceased.",
@@ -460,8 +460,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-493",
-      "ref": "N-493",
+      "@id": "N-491",
+      "ref": "N-491",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Erica Kirk's mother, identified by host as the person Erika was reportedly with on September 10. Host now disputes this alibi.",
@@ -497,8 +497,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-553",
-      "ref": "N-553",
+      "@id": "N-551",
+      "ref": "N-551",
       "name": "Woody Allen",
       "type": "person",
       "description": "Named recipient of Epstein 23andMe kit email (along with \"Suni\").",
@@ -550,8 +550,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-554",
-      "ref": "N-554",
+      "@id": "N-552",
+      "ref": "N-552",
       "name": "Benjamin",
       "type": "person",
       "description": "Addressee of Angie comment (\"Hi Ben\"); host addresses as \"Benjamin.\" Possible production-staff figure. Insufficient identifying information to confirm role.",
@@ -682,8 +682,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-381",
-      "ref": "N-381",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Subject of Epstein-files text chains cited by host; host asserts he has a \"boyfriend\" and is gay. Host consistently renders name as \"Macron.\"",
@@ -995,8 +995,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-393",
-      "ref": "N-393",
+      "@id": "N-391",
+      "ref": "N-391",
       "name": "Steve Bannon",
       "type": "person",
       "description": "Steve Bannon; named as appearing in other Epstein chats.",
@@ -1012,8 +1012,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-524",
-      "ref": "N-524",
+      "@id": "N-522",
+      "ref": "N-522",
       "name": "Rothschild Family",
       "type": "person",
       "description": "Rothschild Family; subject of the host's Epstein and surrealist-ball remarks.",
@@ -1032,8 +1032,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-525",
-      "ref": "N-525",
+      "@id": "N-523",
+      "ref": "N-523",
       "name": "Peter Thiel",
       "type": "person",
       "description": "Peter Thiel; the host says he discusses the Antichrist (rendered Teal).",
@@ -1411,7 +1411,7 @@
       "investigative_direction": "Locate the email within the public Epstein files (jmail.world or DOJ releases) to verify recipient identity, date, and full text.",
       "mentions_person_refs": [
         "N-9",
-        "N-553"
+        "N-551"
       ]
     },
     {
@@ -1447,8 +1447,8 @@
       "claim_timestamp": "00:05:43",
       "investigative_direction": "Verify David Flynn's published coordinate claim independently; cross-check Book of Enoch references to Mount Hermon (Hermon vs. alternate spellings).",
       "mentions_person_refs": [
-        "N-545",
-        "N-552"
+        "N-543",
+        "N-550"
       ]
     },
     {
@@ -1467,7 +1467,7 @@
       "claim_timestamp": "00:10:17",
       "investigative_direction": "Verify Epic of Gilgamesh text on divine/mortal proportions; confirm CERN logo design and Shiva statue presence at the facility.",
       "mentions_person_refs": [
-        "N-545"
+        "N-543"
       ]
     },
     {
@@ -1486,8 +1486,8 @@
       "claim_timestamp": "00:15:37",
       "investigative_direction": "Identify the named general; verify the 2003 Iraq dig records; check whether any official release describes remains transfer.",
       "mentions_person_refs": [
-        "N-550",
-        "N-551"
+        "N-548",
+        "N-549"
       ]
     },
     {
@@ -1506,7 +1506,7 @@
       "claim_timestamp": "00:15:55",
       "investigative_direction": "Locate the Omega Man Radio episode and any prior Quail writings on this thesis; verify against published Human Genome Project mission statements.",
       "mentions_person_refs": [
-        "N-551"
+        "N-549"
       ]
     },
     {
@@ -1526,7 +1526,7 @@
       "investigative_direction": "Verify duration of friendship via independent records (project documentation, social media history, foreword publication date); cross-reference Romanian Angels project existence.",
       "mentions_person_refs": [
         "N-2",
-        "N-549"
+        "N-547"
       ]
     },
     {
@@ -1544,7 +1544,7 @@
       "investigative_direction": "Identify the original editorial publication to confirm styling credit; identify the cuff's commercial availability and Martin's business.",
       "mentions_person_refs": [
         "N-2",
-        "N-549"
+        "N-547"
       ]
     },
     {
@@ -1562,7 +1562,7 @@
       "investigative_direction": "Locate the specific text chain and photo within public Epstein files; verify any reference to Macron and an unnamed partner.",
       "mentions_person_refs": [
         "N-9",
-        "N-381"
+        "N-379"
       ]
     },
     {
@@ -1650,7 +1650,7 @@
       "claim_timestamp": "00:39:30",
       "investigative_direction": "Examine whether COVID PCR / antigen test protocols involved any sample retention for purposes beyond diagnosis; assess whether Nimrod-descendant tracking has any documentary basis.",
       "mentions_person_refs": [
-        "N-545"
+        "N-543"
       ]
     },
     {
@@ -1685,7 +1685,7 @@
       "investigative_direction": "Document the convergence of host and viewer framing; assess whether \"Babylonian ascension\" originates with Rob Skiba, Flynn, or earlier esoteric sources.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-545"
+        "N-543"
       ]
     },
     {
@@ -1727,7 +1727,7 @@
         "C-9640"
       ],
       "mentions_person_refs": [
-        "N-381",
+        "N-379",
         "N-3",
         "N-9"
       ]
@@ -1771,7 +1771,7 @@
       "investigative_direction": "The allegation is a matter of public record in court and media coverage; verify against those records. It has no direct bearing on the case.",
       "transcript_snippet": "I'm glad that that is being relitigated regarding what he did to his own child when she was seven.",
       "mentions_person_refs": [
-        "N-553",
+        "N-551",
         "N-3"
       ]
     },
@@ -1830,7 +1830,7 @@
       "investigative_direction": "Confirm the author's real name and the book's publication details; the transcript spelling 'Rob Skiba' is probably a mis-transcription.",
       "transcript_snippet": "I mentioned to you guys this man named Rob Skiba yesterday. He wrote a book entitled Babylon Rising.",
       "mentions_person_refs": [
-        "N-545",
+        "N-543",
         "N-3"
       ]
     },
@@ -1849,7 +1849,7 @@
       "investigative_direction": "Locate any death record or reporting on the cause of death; the allegation comes from an unnamed email tipster.",
       "transcript_snippet": "this man, it is alleged, was actually murdered for some of the research and the pieces that he were putting together",
       "mentions_person_refs": [
-        "N-545"
+        "N-543"
       ]
     },
     {
@@ -1867,7 +1867,7 @@
       "investigative_direction": "Only the host can show the email; ask her to confirm its sender and date.",
       "transcript_snippet": "his son emailed me yesterday thanking me for bringing up his father and grateful that his father father's work is still carrying on.",
       "mentions_person_refs": [
-        "N-545",
+        "N-543",
         "N-3"
       ]
     },
@@ -1904,7 +1904,7 @@
       "investigative_direction": "Locate the lecture and book passage; this is Rob Skiba's theory, presented by the host as what the elites believe.",
       "transcript_snippet": "this tower that was being built was a technology because they wanted to get back into the heavenly realm.",
       "mentions_person_refs": [
-        "N-545"
+        "N-543"
       ]
     },
     {
@@ -1926,7 +1926,7 @@
       "investigative_direction": "Check the lecture's imagery and the Leviticus 16 reading; the spelling 'Aazil' is probably Azazel.",
       "transcript_snippet": "It's very interesting that it actually forms the shape of a goat.",
       "mentions_person_refs": [
-        "N-545"
+        "N-543"
       ]
     },
     {
@@ -1948,8 +1948,8 @@
       "investigative_direction": "Confirm Flynn's date of death and compare with the lecture date.",
       "transcript_snippet": "He recently passed away, but he turned the world upside down with some of his research.",
       "mentions_person_refs": [
-        "N-552",
-        "N-545"
+        "N-550",
+        "N-543"
       ]
     },
     {
@@ -1971,8 +1971,8 @@
       "investigative_direction": "Reproduce the Google Earth measurement and find an independent source for the term 'devil's line'.",
       "transcript_snippet": "And that is in the occult is referred to as the devil's line.",
       "mentions_person_refs": [
-        "N-545",
-        "N-552"
+        "N-543",
+        "N-550"
       ]
     },
     {
@@ -1994,7 +1994,7 @@
       ],
       "mentions_person_refs": [
         "N-9",
-        "N-524"
+        "N-522"
       ]
     },
     {
@@ -2014,7 +2014,7 @@
       "investigative_direction": "Identify the photograph shown; the 1972 Rothschild surrealist ball is documented in public archives, but the transcript does not give the date or source.",
       "transcript_snippet": "You were looking at a picture of the Rothschilds at their surrealist ball.",
       "mentions_person_refs": [
-        "N-524"
+        "N-522"
       ]
     },
     {
@@ -2109,7 +2109,7 @@
         "C-10012"
       ],
       "mentions_person_refs": [
-        "N-545"
+        "N-543"
       ]
     },
     {
@@ -2129,7 +2129,7 @@
       "investigative_direction": "Locate the lecture text; this is one lecturer's belief as relayed by the host.",
       "transcript_snippet": "he believes that the elites view Nimrod and or Gilgamesh as the antichrist that they are working to try to resurrect for exactly that reason.",
       "mentions_person_refs": [
-        "N-545"
+        "N-543"
       ]
     },
     {
@@ -2151,7 +2151,7 @@
       "investigative_direction": "Compare with CERN's published mission statement.",
       "transcript_snippet": "their stated objective is to recreate the Big Bang.",
       "mentions_person_refs": [
-        "N-545"
+        "N-543"
       ]
     },
     {
@@ -2174,7 +2174,7 @@
       "transcript_snippet": "it is just a fact that they do have that Shiva structure at CERN.",
       "mentions_person_refs": [
         "N-3",
-        "N-545"
+        "N-543"
       ]
     },
     {
@@ -2277,7 +2277,7 @@
       "investigative_direction": "Obtain the original Omega Man Radio broadcast; the clip is a theory, not a record.",
       "transcript_snippet": "Imagine the startling proposition that the Nephilim, the giants, the mighty men of old, the gods and children of the watchers could somehow rise up",
       "mentions_person_refs": [
-        "N-550"
+        "N-548"
       ]
     },
     {
@@ -2297,7 +2297,7 @@
       "investigative_direction": "The transcript does not give a date for the alleged find; compare against the invasion and occupation timeline.",
       "transcript_snippet": "Interesting that the US military started its military occupation phase of Iraq one month later.",
       "mentions_person_refs": [
-        "N-545"
+        "N-543"
       ]
     },
     {
@@ -2358,7 +2358,7 @@
         "C-5445"
       ],
       "mentions_person_refs": [
-        "N-525",
+        "N-523",
         "N-3"
       ]
     },
@@ -2882,7 +2882,7 @@
       "investigative_direction": "Obtain the tips themselves or independent confirmation of where Erika Kirk was on the morning of September 10.",
       "transcript_snippet": "a pretty strong series of tips that I received that Erika was with a woman named Tracy Martin.",
       "mentions_person_refs": [
-        "N-549",
+        "N-547",
         "N-2",
         "N-3"
       ]
@@ -2904,7 +2904,7 @@
       "investigative_direction": "Verify Martin's affiliation through church records or public posts.",
       "transcript_snippet": "she is regularly at Dream City Church.",
       "mentions_person_refs": [
-        "N-549"
+        "N-547"
       ]
     },
     {
@@ -2966,7 +2966,7 @@
       "investigative_direction": "Same as the tips behind the alibi claim.",
       "transcript_snippet": "Allegedly, she was with Erika when Mikey and Elizabeth called.",
       "mentions_person_refs": [
-        "N-549",
+        "N-547",
         "N-2",
         "N-192",
         "N-219"
@@ -2990,7 +2990,7 @@
       "transcript_snippet": "In fact, I'm being told that her and her mother were not together.",
       "mentions_person_refs": [
         "N-2",
-        "N-493",
+        "N-491",
         "N-3"
       ]
     },
@@ -3013,7 +3013,7 @@
       "investigative_direction": "Verify the nonprofit's founding date.",
       "transcript_snippet": "starting a nonprofit at 17 instead of looking at that is like how do you do that",
       "mentions_person_refs": [
-        "N-549",
+        "N-547",
         "N-2"
       ]
     },
@@ -3032,7 +3032,7 @@
       "investigative_direction": "Locate the photograph and pageant-era records.",
       "transcript_snippet": "she knows Erika's mother for sure uh there's a picture of them at least uh Definitely someone that's been in her life since Erika's pageant pageant days.",
       "mentions_person_refs": [
-        "N-549",
+        "N-547",
         "N-2"
       ]
     },
@@ -3051,7 +3051,7 @@
       "investigative_direction": "Personal detail about a private individual; verify against public sources.",
       "transcript_snippet": "She has been following her to Romania. This woman grew up wealthy, by the way.",
       "mentions_person_refs": [
-        "N-549"
+        "N-547"
       ]
     },
     {
@@ -3071,7 +3071,7 @@
       "investigative_direction": "Check the ADS-B track of the Egyptian planes for Missouri stops.",
       "transcript_snippet": "she's from Missouri, which has been, you know, one of those regular stops on the Egyptian plains.",
       "mentions_person_refs": [
-        "N-549"
+        "N-547"
       ]
     },
     {
@@ -3091,7 +3091,7 @@
       "investigative_direction": "Personal detail about a private individual.",
       "transcript_snippet": "I'm also unable to determine what exactly it is that her husband does.",
       "mentions_person_refs": [
-        "N-549"
+        "N-547"
       ]
     },
     {
@@ -3112,7 +3112,7 @@
       "transcript_snippet": "I will state that I do not believe that Erika Kirk was with Lori Frantzve on September 10th.",
       "mentions_person_refs": [
         "N-2",
-        "N-493"
+        "N-491"
       ]
     },
     {
@@ -3220,7 +3220,7 @@
       "transcript_snippet": "And I believe uh in other chats he's talking with Steve Bannon.",
       "mentions_person_refs": [
         "N-9",
-        "N-393"
+        "N-391"
       ]
     },
     {
@@ -3241,7 +3241,7 @@
         "C-10837"
       ],
       "mentions_person_refs": [
-        "N-381"
+        "N-379"
       ]
     },
     {

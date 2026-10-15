@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Claim Range (supplement_2026-10b): C-7400–C-7473
-  - Reused Nodes Appearing: N-10759, N-10762, N-7, N-40, N-188, N-219, N-370, N-510, N-10104, N-10110, N-10164, N-10172, N-10201, N-10233, N-10323, N-10341, N-10343, N-10350, N-10687, N-10715, N-10719, N-10725, N-10751, N-10768, N-10769, N-11065, N-10764, N-11143
+  - Reused Nodes Appearing: N-10759, N-10762, N-7, N-40, N-188, N-219, N-369, N-508, N-10104, N-10110, N-10164, N-10172, N-10201, N-10233, N-10323, N-10341, N-10343, N-10350, N-10687, N-10715, N-10719, N-10725, N-10751, N-10768, N-10769, N-11065, N-10764, N-11143
  - (see registers)
 
 ## I. Meta-Data
@@ -468,7 +468,7 @@ Previously named by the host as the person who recorded the casket footage; the 
 
 ---
 
-**N-370** Danny Philip
+**N-369** Danny Philip
 
 Person the host says Blake Neff excludes from his account of Sept 10 driving.
 
@@ -476,7 +476,7 @@ Person the host says Blake Neff excludes from his account of Sept 10 driving.
 
 ---
 
-**N-510** Christopher Bagley
+**N-508** Christopher Bagley
 
 Officer Bagley; the host sarcastically references his body-cam footage and the screwdriver.
 
@@ -1645,7 +1645,7 @@ Claim: Speaking sarcastically, the host suggests Officer Bagley's body-camera fo
 Transcript Snippet: Officer Bagley, oh just it just it went off. I don't know. I don't know what happened to my body cam footage
 
 Anchored Artifacts: 
-Mentions: N-510, N-161
+Mentions: N-508, N-161
 Related Nodes: N-10725, N-11143
 Tags: relevance:core
 Investigative Direction: Obtain Bagley's body-cam records and activation logs for that day.
@@ -1888,7 +1888,7 @@ Claim: The host says Blake Neff shows convenient amnesia about events that day a
 Transcript Snippet: why Blake seems to have this convenient amnesia about certain events that day and why he continues to exclude Danny Philip from the equation.
 
 Anchored Artifacts: 
-Mentions: N-161, N-370, N-3
+Mentions: N-161, N-369, N-3
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Review Neff's accounts of Sept 10 against vehicle and driver records.

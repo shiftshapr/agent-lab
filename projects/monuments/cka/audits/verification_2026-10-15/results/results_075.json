@@ -1,0 +1,799 @@
+[
+ {
+  "claim": "C-6776",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'that to me ran counter to my meeting with Erika'; claim drops 'to me'.",
+  "fix": {
+   "claim": "The host says nobody accused Erika Kirk of being anywhere on the 9th, yet the material shows her with her kids on the morning of the 9th, which to the host ran counter to her meeting with Erika."
+  }
+ },
+ {
+  "claim": "C-6777",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6778",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'Erika didn't know this information, and she was looking in his iMessages'; claim makes it causal ('because').",
+  "fix": {
+   "claim": "The host says TPUSA conceded that Kolvet did receive Charlie's text the night before, in which Charlie was worried about being killed, and that Erika did not know this information and was looking in his iMessages."
+  }
+ },
+ {
+  "claim": "C-6779",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6780",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6781",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6782",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names only Erika Kirk and the host; Seth Dillon (N-38) and Max Blumenthal (N-49) are not in the claim.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-6783",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6784",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6785",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6786",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6787",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6788",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6789",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6790",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'I never demanded an alibi again'; claim drops 'again'; 'Mitch believes' became 'Mitch says'.",
+  "fix": {
+   "claim": "The host says Streiff told her he would send a message from Erika as her alibi, a conversation between Erika and Charlie about making dinner in the time frame when Mitch believes he saw her at Fort Huachuca, and that she never demanded an alibi again."
+  }
+ },
+ {
+  "claim": "C-6791",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6792",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6793",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim text uses the mis-transcribed 'Mark Amaday'; correct is Mark Amodei (N-366), Nevada congressman.",
+  "fix": {
+   "claim": "The host says Mitch gave descriptions of the people he saw and she then sent him faces; she was not contacted about Cabot Phillips or Mark Amodei initially.",
+   "label": "Host Says She Gave Mitch Faces to Identify Cabot Phillips and Mark Amodei After Descriptions",
+   "names": [
+    {
+     "wrong": "Mark Amaday",
+     "right": "Mark Amodei",
+     "source": "https://www.soapcentral.com/pop-culture/news-candace-owens-shares-update-erika-kirk-s-alibi-confirms-mark-amodei-wasn-t-fort-huachuca"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6794",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim and title use 'Mark Amaday'; correct is Mark Amodei.",
+  "fix": {
+   "claim": "The host says she thinks she knows who the congressman Mitch saw was and that it was not Mark Amodei.",
+   "label": "Host Says the Congressman Mitch Saw Was Not Mark Amodei",
+   "names": [
+    {
+     "wrong": "Mark Amaday",
+     "right": "Mark Amodei",
+     "source": "https://www.soapcentral.com/pop-culture/news-candace-owens-shares-update-erika-kirk-s-alibi-confirms-mark-amodei-wasn-t-fort-huachuca"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6795",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Reply to a viewer question about the Maduro operation and Israel; not about the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-6796",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6797",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6798",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "The quoted words are viewer Corey's comment; the host then says 'I know he woke up at the end. I hope I made that clear.' Claim says 'believes'.",
+  "fix": {
+   "claim": "After reading a viewer comment that Charlie Kirk woke up at the very end and saw what was happening, the host says she knows he woke up at the end and hopes she made that clear."
+  }
+ },
+ {
+  "claim": "C-6799",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6800",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'at the meeting' is vague; host: 'It wasn't Brian Harpole? I feel like it was. I feel at this stage that it was.' (the person Mitch saw on the 9th).",
+  "fix": {
+   "claim": "The host says that, at this stage, she believes it was Brian Harpole whom Mitch saw at Fort Huachuca on the morning of the 9th and otherwise cannot make sense of Kolvet's actions."
+  }
+ },
+ {
+  "claim": "C-2003",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Town is Panguitch, Utah (Cowboy's Smokehouse, N. Main St); claim says 'Pangitch'.",
+  "fix": {
+   "claim": "The host says Tyler Robinson drove approximately three hours from Orem, Utah to Panguitch, Utah on the night of September 10 and dined alone at the Cowboys Smokehouse bar on North Main Street."
+  }
+ },
+ {
+  "claim": "C-2004",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2005",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'AmeriFest' not named in window; unresolved name: 'Elizabeth McCoy' vs node Eliza McCoy (plausibly same).",
+  "fix": {}
+ },
+ {
+  "claim": "C-2006",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2007",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2008",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Window never gives a date; 'September 10' is added. Host: 'I think his story checks out' and 'very likely'.",
+  "fix": {
+   "claim": "After personally reviewing a 12-hour House committee video, the host concludes that Rep. Mark Amodei very likely appears on screen early in the hearing, before the roll call, though not definitively, supporting his story."
+  }
+ },
+ {
+  "claim": "C-2009",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip: Bowyer says Erika Kirk called, 'I just want to help'; 'asking how to get involved' is the host's paraphrase.",
+  "fix": {
+   "claim": "In a clip from Charlie Kirk's memorial that the host plays, Tyler Bowyer says Erika Kirk called him saying she just wanted to help and that he put her right behind the president at the 2015 Arizona Trump rally."
+  }
+ },
+ {
+  "claim": "C-2010",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Lori Frantzve; N-493 Lori Frantzve is missing from Mentions. 'Larry Guinta' confirmed (HappyScribe); claim spells 'Gwinta'.",
+  "fix": {
+   "mentions": [
+    "N-384",
+    "N-385",
+    "N-391",
+    "N-493"
+   ],
+   "claim": "Per a 2014 Arizona House record the host shows, Senator David Farnsworth introduced Lori Frantzve, then-CEO of GTech Industries, on EMP legislation, with Eddie Farnsworth listed among voting members present and Larry Guinta also named.",
+   "names": [
+    {
+     "wrong": "Gwinta",
+     "right": "Guinta",
+     "source": "https://podcasts.happyscribe.com/candace/i-survive-my-first-death-hoax-erika-kirk-makes-human-history"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2011",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Borderline: Frodsham sentence about 25s before the claim timestamp.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2012",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "No person is named in the claim; N-67 Mark Herman (an off-screen crew voice answering 'it's a little over an hour north in Tucson') is not in it.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-2013",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Tucker Carlson' not mentioned in the window; unverified, left as is.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2014",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'Charlie's necklace' and 'his chain'; 'St. Michael pendant' is not said here.",
+  "fix": {
+   "claim": "A still image drawn from a longer video of Charlie Kirk from behind shows his necklace chain with no visible blood on his back; host concludes this is inconsistent with a through-and-through bullet trajectory."
+  }
+ },
+ {
+  "claim": "C-2015",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3749",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6801",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host frames a hypothetical Netflix-series protagonist ('imagine...'), then maps it to Robinson; claim says 'in the story she is retelling'. Robinson is central, so core.",
+  "fix": {
+   "claim": "The host, framing a hypothetical Netflix series about a 19-year-old protagonist who becomes a murderer, says he had never been arrested, had never committed any crimes and has a perfect ACT score, a setup she maps onto Tyler Robinson.",
+   "relevance": "core"
+  }
+ },
+ {
+  "claim": "C-6802",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6803",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6804",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Town is Panguitch, not 'Pangitch'.",
+  "fix": {
+   "claim": "The host says the Panguitch restaurant has no cameras, so staff could not check footage and instead looked through credit card charges to verify that Robinson had been in the building."
+  }
+ },
+ {
+  "claim": "C-6805",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Robinson's message to his roommate is evidence in the case; core.",
+  "fix": {
+   "relevance": "core"
+  }
+ },
+ {
+  "claim": "C-6806",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6807",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Only 'not very talkative / fine and normal / texting' was relayed; 'Didn't have the jitters. He wasn't scared' is the host's own comment.",
+  "fix": {
+   "claim": "Relaying what the people who reported it told her, the host says Robinson was not very talkative, seemed fine and normal and was texting on his phone; she adds that he was calm, without jitters, and not scared."
+  }
+ },
+ {
+  "claim": "C-6808",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6809",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6810",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Pangitch' should be Panguitch.",
+  "fix": {
+   "claim": "The host says there is a literal receipt from the Panguitch restaurant and that the FBI knows about it and has it in its possession."
+  }
+ },
+ {
+  "claim": "C-6811",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Label calls Patel's 5:59 tweet erroneous; host says the earlier tweet (that they had him) was erroneous.",
+  "fix": {
+   "label": "Host Timeline Has the 5:30 Press Conference and Patel's 5:59 Tweet That the Subject Was Released"
+  }
+ },
+ {
+  "claim": "C-6812",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6813",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6814",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Pangitch' should be Panguitch.",
+  "fix": {
+   "claim": "The host says Robinson turned up in Panguitch at approximately 8:45 p.m., ate at the bar counter and left around 9:30 p.m."
+  }
+ },
+ {
+  "claim": "C-6815",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6816",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6817",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6818",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6819",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Spelling Terryl Farnsworth confirmed by web sources; node N-263 is named 'Terrell Farnsworth'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6820",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6821",
+  "episode": 52,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

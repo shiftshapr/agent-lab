@@ -472,8 +472,8 @@
             "C-5851"
           ],
           "related_nodes": [
-            "N-736",
-            "N-649"
+            "N-734",
+            "N-647"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1012,8 +1012,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-533",
-      "ref": "N-533",
+      "@id": "N-531",
+      "ref": "N-531",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "Modeling agent named by the host as an Epstein-linked trafficking route in France.",
@@ -1029,8 +1029,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-574",
-      "ref": "N-574",
+      "@id": "N-572",
+      "ref": "N-572",
       "name": "Faith Kates",
       "type": "person",
       "description": "Next Model Management owner, described by the host as very close to Jeffrey Epstein.",
@@ -1048,8 +1048,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-587",
-      "ref": "N-587",
+      "@id": "N-585",
+      "ref": "N-585",
       "name": "Mark Epstein",
       "type": "person",
       "description": "Jeffrey Epstein's brother; the host says she could not confirm that he owned the Upper East Side building.",
@@ -1065,8 +1065,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-649",
-      "ref": "N-649",
+      "@id": "N-647",
+      "ref": "N-647",
       "name": "Mario Nawfal",
       "type": "person",
       "description": "Host of programming on which, per a viewer comment, Larry Johnson appears.",
@@ -1082,8 +1082,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-687",
-      "ref": "N-687",
+      "@id": "N-685",
+      "ref": "N-685",
       "name": "Jon Bray",
       "type": "person",
       "description": "Analyst the host credits with identifying the mic as a possible shaped-charge source (rendered \"John Bray\" in the transcript).",
@@ -1705,8 +1705,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-735",
-      "ref": "N-735",
+      "@id": "N-733",
+      "ref": "N-733",
       "name": "Sarah Tool",
       "type": "person",
       "description": "First named by the host at 00:17:36 in episode 120 (rendered \"Sarah uh Tool\" in the transcript). Front-row student witness who gave three successive media interviews about the shot.",
@@ -1724,8 +1724,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-736",
-      "ref": "N-736",
+      "@id": "N-734",
+      "ref": "N-734",
       "name": "Larry Johnson",
       "type": "person",
       "description": "First named by the host at 00:57:35 in episode 120, while reading a viewer comment. Described in that comment as ex-CIA and a frequent guest on Mario Nawfal's programming.",
@@ -2314,7 +2314,7 @@
         "C-4613"
       ],
       "mentions_person_refs": [
-        "N-687"
+        "N-685"
       ]
     },
     {
@@ -2391,7 +2391,7 @@
       "investigative_direction": "Compare with the event video to establish the topic being discussed at the moment of the shot.",
       "transcript_snippet": "the second student to get up was talking about transgenderism and how um gun violence has been very frequent with that community, and that is when it happened.",
       "mentions_person_refs": [
-        "N-735"
+        "N-733"
       ]
     },
     {
@@ -2412,7 +2412,7 @@
       "investigative_direction": "Obtain broadcast metadata for both interviews to verify air times.",
       "transcript_snippet": "That's what she said at 1:17 p. m. But then just 50 minutes later, she gives another interview, and her story has changed. This is given at around 2:08 p. m.",
       "mentions_person_refs": [
-        "N-735"
+        "N-733"
       ]
     },
     {
@@ -2432,7 +2432,7 @@
       "investigative_direction": "Measure the distance from the courtyard seat to the Losee Center roof position and compare with Tool's figure.",
       "transcript_snippet": "She's even able to confirm how many yards away the bullet was fired from, and it incredibly matches the distance to Loews Center.",
       "mentions_person_refs": [
-        "N-735"
+        "N-733"
       ]
     },
     {
@@ -2737,7 +2737,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-574"
+        "N-572"
       ]
     },
     {
@@ -2758,7 +2758,7 @@
         "C-2423"
       ],
       "mentions_person_refs": [
-        "N-574",
+        "N-572",
         "N-9"
       ]
     },
@@ -2813,7 +2813,7 @@
       "investigative_direction": "Check New York property records for buildings owned by Mark Epstein on the Upper East Side.",
       "transcript_snippet": "we were not able to confirm, if that white Upper East Side in the '60s of the Upper East Side may have been the one that was owned by Mark Epstein, Jeffrey Epstein's brother.",
       "mentions_person_refs": [
-        "N-587",
+        "N-585",
         "N-9"
       ]
     },
@@ -2897,7 +2897,7 @@
       "transcript_snippet": "This was his thing of how he trafficked a lot of women from the Eastern Europe through modeling agencies like the one with Jean-Luc Brunel in France.",
       "mentions_person_refs": [
         "N-9",
-        "N-533"
+        "N-531"
       ]
     },
     {
@@ -2915,7 +2915,7 @@
       "investigative_direction": "Gather press coverage and released emails showing Kates's statements and actions after 2008.",
       "transcript_snippet": "Faith Kates was his loyal defender and it ended up costing her um her entire reputation, her career really.",
       "mentions_person_refs": [
-        "N-574",
+        "N-572",
         "N-9"
       ]
     },
@@ -3443,8 +3443,8 @@
       "investigative_direction": "Locate the Nawfal appearance and Johnson's actual statements.",
       "transcript_snippet": "Larry Johnson is ex-CIA and often on with Mario Nawfal discussing he says the 30-odd-6 narrative is BS and the Egyptian planes could be intelligence related.",
       "mentions_person_refs": [
-        "N-736",
-        "N-649"
+        "N-734",
+        "N-647"
       ]
     },
     {

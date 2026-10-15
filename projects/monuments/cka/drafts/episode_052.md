@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: a6a278c2583b1645dba697664ad3dba290528b1fc08b7e4b9b7e81180d1a7018
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-771, N-11110, N-11111, N-11112, N-11113, N-11114, N-11115
-  - Hole-minted Nodes (reintro-ep052): N-493, N-10740, N-10797, N-10832
+  - Tip-minted Nodes (supplement_2026-10b): N-769, N-11110, N-11111, N-11112, N-11113, N-11114, N-11115
+  - Hole-minted Nodes (reintro-ep052): N-491, N-10740, N-10797, N-10832
   - Tip-minted Nodes (reintro-ep052): N-11054
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6801–C-6902
-  - New Nodes Introduced: N-384, N-385, N-386, N-387, N-388, N-389, N-391, N-10381, N-10383, N-10384
-  - Reused Nodes Appearing: N-82, N-3, N-366, N-5, N-14, N-15, N-36, N-50, N-54, N-61, N-69, N-97, N-165, N-197, N-239, N-262, N-263, N-268, N-272, N-290, N-314, N-332, N-364, N-10000, N-10014, N-10018, N-10024, N-10051, N-10077, N-10085, N-10114, N-10164, N-10180, N-10186, N-10230, N-10238, N-10239, N-10253, N-10256, N-10270, N-10298, N-10317, N-10323, N-10326, N-10340, N-10342, N-10346, N-10359, N-10367, N-10370, N-10371, N-10373, N-10376, N-10379, N-10385, N-10416, N-10447, N-10853, N-390, N-10382, N-327
+  - New Nodes Introduced: N-382, N-383, N-384, N-385, N-386, N-387, N-389, N-10381, N-10383, N-10384
+  - Reused Nodes Appearing: N-82, N-3, N-365, N-5, N-14, N-15, N-36, N-50, N-54, N-61, N-69, N-97, N-165, N-197, N-239, N-262, N-263, N-268, N-272, N-290, N-314, N-332, N-363, N-10000, N-10014, N-10018, N-10024, N-10051, N-10077, N-10085, N-10114, N-10164, N-10180, N-10186, N-10230, N-10238, N-10239, N-10253, N-10256, N-10270, N-10298, N-10317, N-10323, N-10326, N-10340, N-10342, N-10346, N-10359, N-10367, N-10370, N-10371, N-10373, N-10376, N-10379, N-10385, N-10416, N-10447, N-10853, N-388, N-10382, N-327
   - (see registers), N-11
 
 # Episode 52 Analysis
@@ -79,14 +79,14 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:00
 
-*Related: C-2010, N-384, N-385, N-391, N-10383, Lori Frantzve node*
+*Related: C-2010, N-382, N-383, N-389, N-10383, Lori Frantzve node*
 
 **A-1582** David Frodsham News Article Bundle
 
 **A-1582.1** CBS News article "US Army missed the red flags about a civilian leader who led a child porn ring and risked US security"
 Video Timestamp: 00:37:11
 
-*Related: C-2011, N-388, Fort Huachuca node*
+*Related: C-2011, N-386, Fort Huachuca node*
 
 **A-1583** Davis-Monthan Arizona Commanders Summit Bundle
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:38:50
 **A-1584.1** Clip from Daily Wire's "Maddie in the No" show mocking Candace's Utah state flag commentary
 Video Timestamp: 00:46:38
 
-*Related: C-2013, N-390, Ben Shapiro node*
+*Related: C-2013, N-388, Ben Shapiro node*
 
 **A-1585** Charlie Kirk Assassination Back Video Bundle
 
@@ -145,7 +145,7 @@ Video Timestamp: 01:04:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6901, C-6902, N-493, N-2, N-3*
+*Related: C-6901, C-6902, N-491, N-2, N-3*
 
 ---
 
@@ -164,7 +164,7 @@ Confidence Level: Low
 
 ## 4. Node Register
 
-**N-384** Eddie Farnsworth
+**N-382** Eddie Farnsworth
 
 Former Arizona House Judiciary Committee chair; brother of Senator David Farnsworth; first cousin of Dwayne Farnsworth; appears in 2014 Arizona House record on EMP legislation vote; father of Albert Farnsworth.
 
@@ -173,9 +173,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1581.1, C-2010, N-385, N-386, N-387, N-10383*
+*Related: A-1581.1, C-2010, N-383, N-384, N-385, N-10383*
 
-**N-385** David Farnsworth
+**N-383** David Farnsworth
 
 Arizona state senator; sponsored 2014 EMP legislation under which Lori Frantzve was introduced to the House floor; brother of Eddie Farnsworth; first cousin of Dwayne Farnsworth.
 
@@ -184,9 +184,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1581.1, C-2010, N-384, N-386, Lori Frantzve node, N-10383*
+*Related: A-1581.1, C-2010, N-382, N-384, Lori Frantzve node, N-10383*
 
-**N-386** Dwayne Farnsworth
+**N-384** Dwayne Farnsworth
 
 Terryl Farnsworth's father; first cousin of David and Eddie Farnsworth; host-asserted to have attended high school with Tyler Bowyer's parents (family network claim only).
 
@@ -195,9 +195,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-384, N-385, Terryl Farnsworth node, Tyler Bowyer node, N-10383, N-11*
+*Related: N-382, N-383, Terryl Farnsworth node, Tyler Bowyer node, N-10383, N-11*
 
-**N-387** Albert Farnsworth
+**N-385** Albert Farnsworth
 
 Eddie Farnsworth's nephew; host-asserted prior rape conviction of a 13-year-old (no artifact displayed in this episode).
 
@@ -206,9 +206,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-384*
+*Related: N-382*
 
-**N-388** David Frodsham
+**N-386** David Frodsham
 
 Top civilian leader at a US air base in Afghanistan; subject of CBS News report on a child pornography ring; per the same report, returned to Fort Huachuca after leaving his post.
 
@@ -219,7 +219,7 @@ Investigative Pressure: Medium
 
 *Related: A-1582.1, C-2011, Fort Huachuca node*
 
-**N-389** Thomas Bert
+**N-387** Thomas Burt
 
 Father-in-law of Terryl Farnsworth; former Executive Vice President and COO of Duncan Aviation (the FBO that rented vehicles for federal authorities); retired 2019 per host.
 
@@ -230,7 +230,7 @@ Investigative Pressure: Low
 
 *Related: Terryl Farnsworth node, N-10383*
 
-**N-390** Maddie (Daily Wire host)
+**N-388** Maddie (Daily Wire host)
 
 Host of Daily Wire's "Maddie in the No" show; per Candace, the show is designed to mock her and Tucker Carlson; first identified publicly in this episode.
 
@@ -241,7 +241,7 @@ Investigative Pressure: Low
 
 *Related: A-1584.1, C-2013, Ben Shapiro node*
 
-**N-391** Larry Guinta
+**N-389** Larry Guinta
 
 Erika Kirk's stepfather; named in the 2014 Arizona House EMP legislation record alongside Lori Frantzve (host uncertain of spelling/pronunciation).
 
@@ -287,14 +287,14 @@ Investigative Pressure: Medium
 
 **N-10383** Farnsworth Family Political-Military Network
 
-Documented and host-asserted connections between Terryl Farnsworth, Tyler Bowyer, the Farnsworth family (David, Eddie, Dwayne), Lori Frantzve, Larry Gwinta, Thomas Bert, and Davis-Monthan / Fort Huachuca.
+Documented and host-asserted connections between Terryl Farnsworth, Tyler Bowyer, the Farnsworth family (David, Eddie, Dwayne), Lori Frantzve, Larry Guinta, Thomas Burt, and Davis-Monthan / Fort Huachuca.
 
 Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1581.1, C-2010, N-384, N-385, N-386, N-389, N-391, Lori Frantzve node, N-11*
+*Related: A-1581.1, C-2010, N-382, N-383, N-384, N-387, N-389, Lori Frantzve node, N-11*
 
 **N-10384** Davis-Monthan AFB September 9 Attendee Verification
 
@@ -523,7 +523,7 @@ Baron Coleman; the host says she reached out to him for a conversation.
 
 ---
 
-**N-364** Mitch Snow
+**N-363** Mitch Snow
 
 Mitch Snow, the Fort Huachuca witness; the host relays his descriptions and photo reactions.
 
@@ -531,7 +531,7 @@ Mitch Snow, the Fort Huachuca witness; the host relays his descriptions and phot
 
 ---
 
-**N-366** Mark Amodei
+**N-365** Mark Amodei
 
 Mark Amodei; the congressman whose alibi and resemblance are discussed.
 
@@ -539,7 +539,7 @@ Mark Amodei; the congressman whose alibi and resemblance are discussed.
 
 ---
 
-**N-493** Lori Frantzve
+**N-491** Lori Frantzve
 
 Lori Frantzve; Erika Kirk's mother, in the 2014 EMP record and the 2015 rally background.
 
@@ -859,7 +859,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-771** Trent Franks
+**N-769** Trent Franks
 
 First named by the host at 00:33:30 in episode 052 as the congressman who supported David Farnsworth's EMP bill.
 
@@ -993,7 +993,7 @@ Claim Timestamp: 00:21:13
 Claim: After personally reviewing a 12-hour House committee video, host concludes that Rep. Mark Amodei likely appears on screen early in the hearing, before the recorded roll calls, supporting his alibi for September 10.
 
 Anchored Artifacts: A-1579.1
-Mentions: N-3, N-366
+Mentions: N-3, N-365
 
 Related Nodes: N-10382
 
@@ -1003,7 +1003,7 @@ Investigative Direction: Obtain official House attendance record; verify timesta
 
 Claim Timestamp: 00:28:55
 
-Claim: Tyler Bowyer, speaking at Charlie Kirk's memorial, stated that Erika Kirk called him asking how to get involved and that he put her behind President Trump at the 2015 Arizona rally.
+Claim: In a clip from Charlie Kirk's memorial that the host plays, Tyler Bowyer says Erika Kirk called him saying she just wanted to help and that he put her right behind the president at the 2015 Arizona Trump rally.
 
 Anchored Artifacts: A-1580.1
 Mentions: N-2, N-11, N-1
@@ -1015,10 +1015,10 @@ Investigative Direction: Cross-check rally attendee list and corroborate timing 
 
 Claim Timestamp: 00:33:00
 
-Claim: Per a 2014 Arizona House record the host shows, Senator David Farnsworth introduced Lori Frantzve, then-CEO of GTech Industries, on EMP legislation, with Eddie Farnsworth listed among voting members present and Larry Gwinta also named.
+Claim: Per a 2014 Arizona House record the host shows, Senator David Farnsworth introduced Lori Frantzve, then-CEO of GTech Industries, on EMP legislation, with Eddie Farnsworth listed among voting members present and Larry Guinta also named.
 
 Anchored Artifacts: A-1581.1
-Mentions: N-384, N-385, N-391
+Mentions: N-382, N-383, N-389, N-491
 
 Related Nodes: N-10383
 
@@ -1031,7 +1031,7 @@ Claim Timestamp: 00:37:11
 Claim: A CBS News article reports that David Frodsham, a top civilian leader at a US air base in Afghanistan who led a child pornography ring, returned to Fort Huachuca after leaving his post.
 
 Anchored Artifacts: A-1582.1
-Mentions: N-388
+Mentions: N-386
 
 
 Investigative Direction: Obtain the full CBS News article and any follow-up reporting; verify Rodsham's Fort Huachuca tenure dates; check overlap with relevant September 10 events.
@@ -1043,7 +1043,7 @@ Claim Timestamp: 00:38:50
 Claim: Per the Davis-Monthan AFB website the host shows, the Arizona Commanders Summit kicked off on September 9, 2025, providing a forum for military commanders and Arizona community leaders.
 
 Anchored Artifacts: A-1583.1
-Mentions: N-67
+Mentions: 
 
 Related Nodes: N-10383, N-10384
 
@@ -1056,7 +1056,7 @@ Claim Timestamp: 00:46:38
 Claim: Daily Wire has launched a show hosted by "Maddie" designed to mock Candace Owens and Tucker Carlson; the show includes dramatized takes on Candace's commentary, including her Utah state flag remarks.
 
 Anchored Artifacts: A-1584.1
-Mentions: N-390, N-22, N-3
+Mentions: N-388, N-22, N-3
 
 
 Investigative Direction: Confirm show title, launch date, host identity, and episode count directly via Daily Wire's official channels.
@@ -1105,13 +1105,13 @@ Investigative Direction: Follow the Delaware docket filings in the Macron suit; 
 
 Claim Timestamp: 00:00:20
 
-Claim: The host says Tyler Robinson, in the story she is retelling, had never been arrested, had never committed any crimes, and has a perfect ACT score.
+Claim: The host, framing a hypothetical Netflix series about a 19-year-old protagonist who becomes a murderer, says he had never been arrested, had never committed any crimes and has a perfect ACT score, a setup she maps onto Tyler Robinson.
 
 Transcript Snippet: Uh he'd never been arrested, had never committed any crimes. He has a perfect ACT score
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Tags: relevance:context
+Tags: relevance:core
 Investigative Direction: Obtain court and school records on Robinson's criminal history and ACT score to confirm or refute the host's description.
 
 ---
@@ -1176,7 +1176,7 @@ Transcript Snippet: Will make sure you delete this letter that's under the keybo
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Tags: relevance:context
+Tags: relevance:core
 Investigative Direction: Compare the host's recitation with the text messages released in the charging documents.
 
 ---
@@ -1202,7 +1202,7 @@ Investigative Direction: Request the FBI's tip log and any record of when and ho
 
 Claim Timestamp: 00:05:53
 
-Claim: Relaying what the people who reported it told her, the host says Robinson was not very talkative, seemed fine and normal, was texting on his phone, and showed no jitters or fear.
+Claim: Relaying what the people who reported it told her, the host says Robinson was not very talkative, seemed fine and normal and was texting on his phone; she adds that he was calm, without jitters, and not scared.
 
 Transcript Snippet: He seemed absolutely fine and normal and was texting on his phone.
 
@@ -1263,7 +1263,7 @@ Investigative Direction: Ask the FBI and the restaurant whether the receipt was 
 
 ---
 
-**C-6811** Host Timeline Has the 5:30 Press Conference and Patel's Erroneous 5:59 Tweet
+**C-6811** Host Timeline Has the 5:30 Press Conference and Patel's 5:59 Tweet That the Subject Was Released
 
 Claim Timestamp: 00:09:10
 
@@ -1571,7 +1571,7 @@ Claim: The host says she presented the military police report and evidence that 
 Transcript Snippet: We presented the military police report, backed that up with evidence uh that Mitch was telling the truth about what happened on September 9th.
 
 Anchored Artifacts: 
-Mentions: N-3, N-364
+Mentions: N-3, N-363
 Related Nodes: N-10367
 Supports: C-1889
 Tags: relevance:core
@@ -1654,7 +1654,7 @@ Claim: The host says TPUSA's idea was that at future tour stops people would use
 Transcript Snippet: the idea from them was that at future tour stops, people would use that tent to grieve and to share their thoughts about how Charlie had changed their lives.
 
 Anchored Artifacts: 
-Mentions: N-3, N-219, N-1
+Mentions: N-3, N-1
 Related Nodes: N-10376, N-10000
 Supports: C-2005
 Tags: relevance:context
@@ -1666,7 +1666,7 @@ Investigative Direction: Obtain TPUSA's written statement on the tent concept an
 
 Claim Timestamp: 00:18:40
 
-Claim: The host says that after receiving the redacted text on December 28 she followed up about four to five times asking to see the contact number.
+Claim: The host says that after receiving the redacted text from Erika Kirk on December 28 she followed up about four to five times asking to see the contact number.
 
 Transcript Snippet: I followed up about four to five times just trying to get that before we came back um onto the podcast.
 
@@ -1682,7 +1682,7 @@ Investigative Direction: Obtain the host's request messages and the intermediary
 
 Claim Timestamp: 00:19:40
 
-Claim: The host says she is working through a third party who said Erika was tied up with something personal and that six sick kids over the holiday explained the delay in getting the text.
+Claim: The host says she is working through a third party who said Erika was tied up with something personal, and adds that there were six sick kids throughout the holiday, which she gives as the reason for the delay in getting the text.
 
 Transcript Snippet: they made it clear that Erika has been tied up with something personal. So that's the reason for the delay. There were six sick kids as well throughout the holiday.
 
@@ -1697,7 +1697,7 @@ Investigative Direction: Identify the intermediary and obtain a direct statement
 
 Claim Timestamp: 00:19:50
 
-Claim: The host says there has been no response at all from Brian Harpole despite several attempts.
+Claim: The host says there has been no response at all from Brian Harpole, which she says she has told the audience several times.
 
 Transcript Snippet: No response at all from Brian Harpole. I've told you that several times.
 
@@ -1734,7 +1734,7 @@ Claim: The host says Mitch described a person he was sure was a congressman, and
 Transcript Snippet: I told you that we looked up a congressman that fit the description of what he was telling us. 5'9, glasses, grayish white hair.
 
 Anchored Artifacts: 
-Mentions: N-3, N-364, N-366
+Mentions: N-3, N-363, N-365
 Related Nodes: N-10371
 Supports: C-1975
 Tags: relevance:core
@@ -1751,7 +1751,7 @@ Claim: The host says Mitch said Amodei's face looked familiar.
 Transcript Snippet: And he said that that face looks familiar.
 
 Anchored Artifacts: 
-Mentions: N-3, N-364, N-366
+Mentions: N-3, N-363, N-365
 Related Nodes: N-10371
 Supports: C-1975
 Tags: relevance:core
@@ -1768,7 +1768,7 @@ Claim: The host says Mark Amodei posted a YouTube live stream of himself on a co
 Transcript Snippet: Then Mark Ammedday came out and he had dropped a YouTube video of a live stream of him on a committee. And then X came back and said um he actually missed the first two roll calls.
 
 Anchored Artifacts: A-1579.1
-Mentions: N-3, N-366
+Mentions: N-3, N-365
 Related Nodes: N-10382, N-10371
 Supports: C-1984
 Tags: relevance:core
@@ -1785,7 +1785,7 @@ Claim: The host says Mitch initially contacted her about just Erika Kirk and Bri
 Transcript Snippet: Mitch initially contacted me about just Erika Kirk um, and Brian Harpole.
 
 Anchored Artifacts: 
-Mentions: N-3, N-364, N-2, N-268
+Mentions: N-3, N-363, N-2, N-268
 Related Nodes: N-10367, N-10373
 Tags: relevance:core
 Investigative Direction: Review Mitch's original contact with the host and what he said about each person.
@@ -1801,7 +1801,7 @@ Claim: The host says Mitch described the meeting he saw as hands-on, like 'missi
 Transcript Snippet: this hands-on meeting that looked like mission, mission is on the table. Let's go break right before a mission. That's how it was described to me.
 
 Anchored Artifacts: 
-Mentions: N-3, N-364
+Mentions: N-3, N-363
 Related Nodes: N-10370, N-10326
 Supports: C-1972
 Tags: relevance:core
@@ -1994,7 +1994,7 @@ Claim: The host says Erika's mother Lori Frantzve is in the background of the Ju
 Transcript Snippet: So the three of them have known each other since at least July 2015 publicly.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-11, N-493, N-5
+Mentions: N-3, N-2, N-11, N-491, N-5
 Related Nodes: N-11110
 Tags: relevance:core
 Investigative Direction: Review footage of the July 2015 Arizona rally and identify who stood where.
@@ -2155,7 +2155,7 @@ Claim: The host says Terryl Farnsworth's father is Dwayne Farnsworth and that Ed
 Transcript Snippet: Terrell's father is a man named Dwayne Farnsworth and his first cousins are longtime Arizona Congressman Eddie Farnsworth.
 
 Anchored Artifacts: 
-Mentions: N-3, N-263, N-386, N-384, N-385
+Mentions: N-3, N-263, N-384, N-382, N-383
 Related Nodes: N-10383
 Tags: relevance:core
 Investigative Direction: Verify the Farnsworth family tree from Arizona public records and obituaries.
@@ -2171,7 +2171,7 @@ Claim: The host says Eddie Farnsworth has been sued in the past together with Ty
 Transcript Snippet: In fact, Eddie has actually been sued in the past with Tyler. Like they're on the same side.
 
 Anchored Artifacts: 
-Mentions: N-3, N-384, N-11
+Mentions: N-3, N-382, N-11
 Related Nodes: N-10383
 Tags: relevance:context
 Investigative Direction: Search Arizona court dockets for cases naming both Eddie Farnsworth and Tyler Bowyer as defendants.
@@ -2187,7 +2187,7 @@ Claim: The host says that after Senator David Farnsworth sponsored the EMP bill 
 Transcript Snippet: They got it passed through. So, the three of these people knew each other.
 
 Anchored Artifacts: A-1581.1
-Mentions: N-3, N-385, N-384, N-493
+Mentions: N-3, N-383, N-491
 Related Nodes: N-10383
 Supports: C-2010
 Tags: relevance:context
@@ -2204,7 +2204,7 @@ Claim: The host says the record shows David Farnsworth became concerned about an
 Transcript Snippet: And he got support from Congressman Trent Franks.
 
 Anchored Artifacts: A-1581.1
-Mentions: N-3, N-385, N-771
+Mentions: N-3, N-383, N-769
 Related Nodes: N-10383
 Supports: C-2010
 Tags: relevance:context
@@ -2212,16 +2212,16 @@ Investigative Direction: Pull the 2014 record and Franks's public statements on 
 
 ---
 
-**C-6869** Host Says Larry Ginta Is Erika's Stepfather
+**C-6869** Host Says Larry Guinta Is Erika's Stepfather
 
 Claim Timestamp: 00:33:40
 
-Claim: The host says that the record names Larry Ginta (or Gwenta), whom she says is Erika Kirk's stepfather.
+Claim: The host says that the record names Larry Guinta (she says "Ginta" or "Gwenta"), whom she says is Erika Kirk's stepfather.
 
-Transcript Snippet: Larry Ginta, by the way, or Gwenta, I don't know if I'm saying that right, is Erika's stepfather.
+Transcript Snippet: Larry Guinta, by the way, or Gwenta, I don't know if I'm saying that right, is Erika's stepfather.
 
 Anchored Artifacts: A-1581.1
-Mentions: N-3, N-391, N-2
+Mentions: N-3, N-389, N-2
 Related Nodes: N-10383
 Supports: C-2010
 Tags: relevance:core
@@ -2238,7 +2238,7 @@ Claim: The host says the Farnsworths, the Bowyers and the Frantzves have known e
 Transcript Snippet: The Finesworths, the Boyers, and the France fees have known each other um at least since 2014 on paper.
 
 Anchored Artifacts: A-1581.1
-Mentions: N-3, N-493, N-11, N-385, N-384
+Mentions: N-3, N-491, N-11, N-383, N-382
 Related Nodes: N-10383
 Supports: C-2010
 Tags: relevance:context
@@ -2272,7 +2272,7 @@ Claim: The host says Eddie Farnsworth, then chair of the Arizona House Judiciary
 Transcript Snippet: he blocked a hearing on a bill to prevent child sex trafficking.
 
 Anchored Artifacts: 
-Mentions: N-3, N-384
+Mentions: N-3, N-382
 Related Nodes: N-11112, N-10832
 Tags: relevance:context
 Investigative Direction: Check the Arizona House Judiciary Committee agenda and press coverage of the 2013 bill.
@@ -2288,7 +2288,7 @@ Claim: The host says Eddie Farnsworth had been in the news years earlier because
 Transcript Snippet: his nephew, Albert Farnsworth, um had raped a 13-year-old.
 
 Anchored Artifacts: 
-Mentions: N-3, N-384, N-387
+Mentions: N-3, N-382, N-385
 Related Nodes: N-11112
 Tags: relevance:context
 Investigative Direction: Check Arizona court records and news archives for the case against Albert Farnsworth.
@@ -2347,7 +2347,7 @@ Investigative Direction: Check Operation Underground's and Beck's public stateme
 
 Claim Timestamp: 00:36:50
 
-Claim: The host says that across from where Turning Point USA decided to put its campus there is a place known as Arizona Mills, which she describes as the number one place for child sex trafficking.
+Claim: The host says that across from where Turning Point USA decided to put its campus there is a place known as Arizona Mills, which she describes as "like the number one place" for child sex trafficking.
 
 Transcript Snippet: literally across the way there's a place known as Arizona Mills which is like the number one place for child sex trafficking just like across the street.
 
@@ -2385,7 +2385,7 @@ Claim: The host wonders whether Mitch saw Eddie Farnsworth at Fort Huachuca beca
 Transcript Snippet: I am wondering regarding Eddie Farnsworth if it is possible that Mitch saw him because he's a dead ringer.
 
 Anchored Artifacts: 
-Mentions: N-3, N-384, N-366, N-364
+Mentions: N-3, N-382, N-365, N-363
 Related Nodes: N-10371, N-10383
 Tags: relevance:core
 Investigative Direction: Show Mitch photos of Farnsworth and Amodei side by side and compare with his recorded description.
@@ -2401,7 +2401,7 @@ Claim: The host says she sent a photo of Eddie Farnsworth to Mitch and he said t
 Transcript Snippet: I sent it to Mitch and he said, "Yes, this man looks very familiar.
 
 Anchored Artifacts: 
-Mentions: N-3, N-364, N-384
+Mentions: N-3, N-363, N-382
 Related Nodes: N-10371, N-10383
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's own statement on the photo and whether he can place Farnsworth at the base.
@@ -2457,16 +2457,16 @@ Investigative Direction: Obtain the summit's attendee list and agenda.
 
 ---
 
-**C-6884** Host Says Farnsworth's Father-in-Law Thomas Bert Ran Duncan Aviation
+**C-6884** Host Says Farnsworth's Father-in-Law Thomas Burt Ran Duncan Aviation
 
 Claim Timestamp: 00:39:10
 
-Claim: The host says people on the internet found that Terryl Farnsworth's father-in-law is Thomas Bert, who ran Duncan Aviation, the FBO that she says rented the cars for the feds.
+Claim: The host says people on the internet found that Terryl Farnsworth's father-in-law is Thomas Burt, who ran Duncan Aviation, the FBO that she says rented the cars for the feds.
 
-Transcript Snippet: His father-in-law is Thomas Bert, who ran Duncan Aviation. The FBO, I told you, that rented the cars for the feds.
+Transcript Snippet: His father-in-law is Thomas Burt, who ran Duncan Aviation. The FBO, I told you, that rented the cars for the feds.
 
 Anchored Artifacts: 
-Mentions: N-3, N-263, N-389, N-262
+Mentions: N-3, N-263, N-387, N-262
 Related Nodes: N-10256, N-10383
 Supports: C-1726
 Tags: relevance:core
@@ -2478,12 +2478,12 @@ Investigative Direction: Verify the family relationship and Bert's role through 
 
 Claim Timestamp: 00:39:27
 
-Claim: The host says Thomas Bert ran Duncan Aviation as executive vice president and COO for 22 years and retired in 2019.
+Claim: The host says Thomas Burt ran Duncan Aviation as executive vice president and COO for 22 years and retired in 2019.
 
 Transcript Snippet: He actually ran Duncan Aviation as the executive vice president and COO for 22 years now. He did retire. He retired in in 2019.
 
 Anchored Artifacts: 
-Mentions: N-3, N-389, N-262
+Mentions: N-3, N-387, N-262
 Related Nodes: N-10256
 Tags: relevance:context
 Investigative Direction: Check Duncan Aviation press releases and filings for Bert's title and retirement date.
@@ -2511,12 +2511,12 @@ Investigative Direction: Obtain screenshots of the reactivated accounts and post
 
 Claim Timestamp: 00:45:15
 
-Claim: The host says that before Maddie, Daily Wire tossed around three other people and even considered a combination show with the person who played the bailiff on Matt Walsh's Judged.
+Claim: The host says that, apparently, before Maddie, Daily Wire tossed around three other people and even considered a combination show with the person who played the bailiff on Matt Walsh's Judged.
 
 Transcript Snippet: They tossed around three other people. They even considered doing a combination show with a person who had played the baiff on Matt Walsh's Judged
 
 Anchored Artifacts: 
-Mentions: N-3, N-390, N-165
+Mentions: N-3, N-388, N-165
 Related Nodes: N-10385
 Tags: relevance:context
 Investigative Direction: Ask the host for the tipsters' basis, and confirm casting through Daily Wire or the people named.
@@ -2527,7 +2527,7 @@ Investigative Direction: Ask the host for the tipsters' basis, and confirm casti
 
 Claim Timestamp: 00:47:30
 
-Claim: The host says that in terms of making honey or bee-related products Utah ranks number 24, so the nickname is not due to honey.
+Claim: In Daily Wire footage the host plays, a speaker says that in terms of making honey or bee-related products Utah ranks number 24, so the nickname is not due to honey.
 
 Transcript Snippet: In fact, in terms of making honey or bee related products, they rank number 24.
 
@@ -2543,7 +2543,7 @@ Investigative Direction: Check USDA honey production rankings for Utah.
 
 Claim Timestamp: 00:47:35
 
-Claim: The host says the beehive state name relates to the Church of Latter-day Saints and that early Mormon pioneers liked the idea of a beehive working toward a common good.
+Claim: In Daily Wire footage the host plays, a speaker says the beehive state name relates to the Church of Latter-day Saints and that early Mormon pioneers liked the idea of a beehive working toward a common good.
 
 Transcript Snippet: It's actually the beehive state. It's relates to the uh Mormon church, the Church of Latter-day Saints.
 
@@ -2582,7 +2582,7 @@ Transcript Snippet: Eight men and two women between the ages of 41 and 65.
 Anchored Artifacts: A-2841.1
 Mentions: N-3, N-82
 Related Nodes: N-11113
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the French court judgment listing the defendants and charges.
 
 ---
@@ -2598,7 +2598,7 @@ Transcript Snippet: of the 10 defendants, eight were given suspended sentences b
 Anchored Artifacts: A-2841.1
 Mentions: N-3, N-82
 Related Nodes: N-11113
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the French court judgment and press reports for the sentences.
 
 ---
@@ -2614,7 +2614,7 @@ Transcript Snippet: Three of the individuals were described as the instigators a
 Anchored Artifacts: A-2841.1
 Mentions: N-3, N-82
 Related Nodes: N-11113
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the French court judgment for the account suspension orders.
 
 ---
@@ -2630,7 +2630,7 @@ Transcript Snippet: all of them were ordered to attend an online course regardin
 Anchored Artifacts: A-2841.1
 Mentions: N-3, N-82
 Related Nodes: N-11113
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the French court judgment for the course order.
 
 ---
@@ -2639,14 +2639,14 @@ Investigative Direction: Obtain the French court judgment for the course order.
 
 Claim Timestamp: 00:55:00
 
-Claim: The host says the defendants have to collectively pay Brigitte Macron what she calls moral damages of around $12,000.
+Claim: The host says the defendants have to collectively pay Brigitte Macron what's known as moral damages of around $12,000.
 
 Transcript Snippet: And they have to collectively pay Rajit Macron what's known as moral damages around $12,000.
 
 Anchored Artifacts: A-2841.1
 Mentions: N-3, N-82
 Related Nodes: N-11113
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the French court judgment for the damages order and amount.
 
 ---
@@ -2695,7 +2695,7 @@ Transcript Snippet: But this is not defamation. She's not making the argument th
 Anchored Artifacts: 
 Mentions: N-3, N-82
 Related Nodes: N-11113, N-10270
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Read the French judgment's reasoning on whether truth of the statements was considered.
 
 ---
@@ -2739,7 +2739,7 @@ Claim: The host reads a viewer comment saying Erika's mother's companies AZ Tech
 Transcript Snippet: Looking into Erika's mom's company, AZ Tech and E3 Tech, having contracts with the DoD for EMP hardening and the testing that is done at Fort Huachuca.
 
 Anchored Artifacts: A-2840.1
-Mentions: N-3, N-2, N-493
+Mentions: N-3, N-2, N-491
 Related Nodes: N-11114
 Tags: relevance:core
 Investigative Direction: Search federal contract databases (SAM.gov, USASpending) for AZ Tech and E3 Tech and their Fort Huachuca testing work.
@@ -2755,7 +2755,7 @@ Claim: The host says Erika Kirk is on camera saying that she moved to Arizona be
 Transcript Snippet: She's like on camera saying that she moved to Arizona because her mother got defense contracts.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-493
+Mentions: N-3, N-2, N-491
 Related Nodes: N-11114
 Supports: C-6901
 Tags: relevance:core

@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 33f8430dc8f4892645295e48cc30c6fac74bf7345b2f004f77e9048a964d135e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-805, N-11162
-  - Hole-minted Nodes (reintro-ep045): N-363, N-10367, N-10373, N-10540
+  - Tip-minted Nodes (supplement_2026-10c): N-803, N-11162
+  - Hole-minted Nodes (reintro-ep045): N-362, N-10367, N-10373, N-10540
   - Tip-minted Nodes (reintro-ep045): N-10968
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8066–C-8125
@@ -368,7 +368,7 @@ Widow and TPUSA CEO whose Fox interview, town hall remarks and public appearance
 
 ---
 
-**N-805** Harris Faulkner
+**N-803** Harris Faulkner
 
 First named by the host at 00:00:00 in episode 45 (transcript spells it Harris Falner and Harris Faulner). Fox News anchor who interviewed Erika Kirk.
 
@@ -456,7 +456,7 @@ Host says she is interested in his military connections.
 
 ---
 
-**N-363** Harry
+**N-362** Harry
 
 The Fort Huachuca witness whose account, documentation and identification of Captain Nef are discussed.
 
@@ -750,7 +750,7 @@ Claim Timestamp: 00:40:00
 Claim: The host says her team has a positive ID that the captain who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025 is Adam Nef of the U.S. Army's 10th Mountain Division, which she says Harry confirmed from pictures she sent.
 
 Anchored Artifacts: A-1532.2
-Mentions: N-321, N-363
+Mentions: N-321, N-362
 
 Investigative Direction: Verify Adam Nef's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters.
 
@@ -818,7 +818,7 @@ Claim: The host says Erika Kirk gave a live interview with Harris Faulkner on Fo
 Transcript Snippet: she just gave an interview live with Harris Falner on Fox News where she finally addressed the quote unquote conspiracy theories.
 
 Anchored Artifacts: 
-Mentions: N-805, N-2, N-3
+Mentions: N-803, N-2, N-3
 Related Nodes: N-10006
 Tags: relevance:core
 Investigative Direction: Obtain the Fox News broadcast date, transcript and video of the Faulkner interview.
@@ -850,7 +850,7 @@ Claim: The host says Milo Yiannopoulos and a few others have asserted with absol
 Transcript Snippet: Milo Yiannopoulos and a few others have asserted with absolute certainty that Charlie has not yet been buried.
 
 Anchored Artifacts: 
-Mentions: N-222, N-1, N-805
+Mentions: N-222, N-1, N-803
 Related Nodes: N-10201
 Tags: relevance:context
 Investigative Direction: Obtain Yiannopoulos's posts and any claimed proof, and compare with cemetery or funeral records.
@@ -1304,7 +1304,7 @@ Claim: The host says she misspoke the day before when she said E4 and E3, that h
 Transcript Snippet: I think I made the mistake when I transferred my notes because he said uh colonels or captains.
 
 Anchored Artifacts: 
-Mentions: N-3, N-363
+Mentions: N-3, N-362
 Related Nodes: N-10326
 Qualifies: C-1886
 Tags: relevance:core
@@ -1321,7 +1321,7 @@ Claim: The host says her phone conversation with the Fort Huachuca witness laste
 Transcript Snippet: it was over a 1-hour phone call
 
 Anchored Artifacts: 
-Mentions: N-3, N-363
+Mentions: N-3, N-362
 Related Nodes: N-10326
 Tags: relevance:context
 Investigative Direction: Request the call log or recording metadata from the host's team.
@@ -1337,7 +1337,7 @@ Claim: The host says her team confirmed everything the witness said was real and
 Transcript Snippet: we were able to confirm everything he said was real. He gave us his card that he swiped on to the base
 
 Anchored Artifacts: 
-Mentions: N-3, N-363
+Mentions: N-3, N-362
 Related Nodes: N-10367
 Supports: C-1885
 Tags: relevance:core
@@ -1354,7 +1354,7 @@ Claim: The host says the witness did not know Captain Nef's first name; as viewe
 Transcript Snippet: I sent picture options to him as your emails were coming in
 
 Anchored Artifacts: 
-Mentions: N-321, N-363, N-3
+Mentions: N-321, N-362, N-3
 Related Nodes: N-10326
 Qualifies: C-1907
 Tags: relevance:core
@@ -1405,7 +1405,7 @@ Claim: The host says the witness sent her extensive documentation, including his
 Transcript Snippet: his old passport, his new passport, his military ID card, hotels, books, times, text messages, phone call logs with his wife
 
 Anchored Artifacts: 
-Mentions: N-3, N-363
+Mentions: N-3, N-362
 Related Nodes: N-10367
 Tags: relevance:core
 Investigative Direction: Have an independent party review the documentation and verify the hotel and time records.
@@ -1421,7 +1421,7 @@ Claim: The host says the witness found a cartel tunnel when he was 20 and is now
 Transcript Snippet: First, he finds this this cartel tunnel when he's 20. Now, we fast forward, he's 56
 
 Anchored Artifacts: 
-Mentions: N-363
+Mentions: N-362
 Related Nodes: N-10367
 Supports: C-1880
 Tags: relevance:context
@@ -1438,7 +1438,7 @@ Claim: The host says the group panicked when the witness walked in, because he s
 Transcript Snippet: It also, by the way, does provide an explanation for why they panicked when he just walked in there
 
 Anchored Artifacts: 
-Mentions: N-363
+Mentions: N-362
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: Obtain the military police incident report and ask Captain Nef about the stated reason for detaining him.
@@ -1454,7 +1454,7 @@ Claim: The host says that about seven hours later the witness was allowed to lea
 Transcript Snippet: It's, you know, 7 hours later, they allowed him to leave or or Captain Nef allowed him to leave.
 
 Anchored Artifacts: 
-Mentions: N-363, N-321
+Mentions: N-362, N-321
 Related Nodes: N-10326
 Supports: C-1888
 Tags: relevance:core
@@ -1471,7 +1471,7 @@ Claim: The host says the witness told her seeing that many senior officers is no
 Transcript Snippet: he specifically said there were some high ranking congressional member or someone close to like you the president like a via the vice president
 
 Anchored Artifacts: 
-Mentions: N-363, N-3
+Mentions: N-362, N-3
 Related Nodes: N-10326
 Supports: C-1886
 Tags: relevance:core
@@ -1521,7 +1521,7 @@ Claim: The host says the plane's movements mean the timeline the witness gave is
 Transcript Snippet: the timeline that he gave us is exactly right.
 
 Anchored Artifacts: A-1529.1
-Mentions: N-363, N-3
+Mentions: N-362, N-3
 Related Nodes: N-10326, N-10332
 Supports: C-1885
 Tags: relevance:core
@@ -1538,7 +1538,7 @@ Claim: The host says the witness is planning to come out on podcasts and that sh
 Transcript Snippet: having spoken to this individual who is planning to come out and do podcasts and speak about that.
 
 Anchored Artifacts: 
-Mentions: N-363, N-3
+Mentions: N-362, N-3
 Related Nodes: N-10326
 Tags: relevance:context
 Investigative Direction: Follow later episodes and podcasts for the witness's public appearances.
@@ -1554,7 +1554,7 @@ Claim: The host says the witness first put the chance a name was the interrogato
 Transcript Snippet: I would put that at about maybe 65 60 to 65% that it could be this person until I gave him the correct nef and he was like 100% that's the guy um that questioned me.
 
 Anchored Artifacts: 
-Mentions: N-321, N-363, N-3
+Mentions: N-321, N-362, N-3
 Related Nodes: N-10326
 Qualifies: C-1907
 Tags: relevance:core
@@ -1604,7 +1604,7 @@ Claim: The host says the witness described the meeting as one in which the opera
 Transcript Snippet: he described it uh as a meeting that when the operation is being finalized a finalization meeting
 
 Anchored Artifacts: 
-Mentions: N-363, N-3
+Mentions: N-362, N-3
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: Ask the witness what words and documents led him to call it a finalization meeting.
@@ -1753,7 +1753,7 @@ Claim: The host says she can confirm the witness was factually there and that th
 Transcript Snippet: I cannot confirm his own eyes. I can't confirm his memory of who he believes he saw.
 
 Anchored Artifacts: 
-Mentions: N-363, N-268, N-3
+Mentions: N-362, N-268, N-3
 Related Nodes: N-10373
 Qualifies: C-1887
 Tags: relevance:core
@@ -1770,7 +1770,7 @@ Claim: Responding to a viewer asking who the woman in the pickup was, the host s
 Transcript Snippet: Harry thinks he has an idea and he should come out and he should share his story.
 
 Anchored Artifacts: A-1531.5
-Mentions: N-363
+Mentions: N-362
 Related Nodes: N-10333
 Tags: relevance:core
 Investigative Direction: Ask the witness whom he believes he saw in the truck.

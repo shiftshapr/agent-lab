@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 9947ad085576510d0eca9efc0f90646427ab1e5b19ec6460512b87a70d7be827
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-720, N-11016, N-11017
+  - Tip-minted Nodes (supplement_2026-10): N-718, N-11016, N-11017
   - Hole-minted Nodes (reintro-ep041): N-10340, N-10567, N-10804
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5147–C-5184
@@ -508,7 +508,7 @@ Existing topic reused for the debate-terms claims.
 
 ---
 
-**N-720** Abdel Fattah el-Sisi
+**N-718** Abdel Fattah el-Sisi
 
 First named by the host as the Egyptian president (transcript spelling Elsis, Elsisi) at 00:17:13 in episode 41.
 Aliases: Elsisi; Elsis; LCC (transcript read of a post)
@@ -586,7 +586,7 @@ Claim Timestamp: 00:16:50
 Claim: A Project Constitution X post (read in full on air) reports that the Egyptian presidency website confirms President El-Sisi flew aboard aircraft SU-BTU on April 3, 2023 to Riyadh for a meeting with Saudi Crown Prince Mohammed bin Salman.
 
 Anchored Artifacts: A-1496.1, A-1500.2
-Mentions: N-720
+Mentions: N-718
 
 Related Nodes: N-10310, N-10897
 
@@ -601,7 +601,7 @@ Claim Timestamp: 00:17:13
 Claim: The host says President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025, which she cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.
 
 Anchored Artifacts: A-1500.1 (verbally referenced; not displayed)
-Mentions: N-3, N-720, N-308
+Mentions: N-3, N-718, N-308
 Related Nodes: N-10897
 
 
@@ -968,7 +968,7 @@ Claim: The host says President El-Sisi can also be ruled out as the individual i
 Transcript Snippet: We can also rule him out as having been the individual that was in Provo back in May because he was again photographed multiple times throughout that week in Egypt.
 
 Anchored Artifacts: 
-Mentions: N-3, N-720
+Mentions: N-3, N-718
 Related Nodes: N-10310
 Supports: C-1835
 Investigative Direction: Collect dated Egyptian presidency photographs and press reports for the week of May 27, 2025.
@@ -984,7 +984,7 @@ Claim: The host infers that Wedi Machmood is not the Egyptian president but is a
 Transcript Snippet: But he is almost certainly well acquainted with the president of Egypt because planes that fly presidents around uh military planes are not going to
 
 Anchored Artifacts: 
-Mentions: N-3, N-307, N-720
+Mentions: N-3, N-307, N-718
 Related Nodes: N-10309
 Investigative Direction: Identify who held the name Wedi Machmood and any link to Egyptian presidential staff, aircrew or family.
 

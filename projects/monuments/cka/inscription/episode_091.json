@@ -385,7 +385,7 @@
           "related_nodes": [
             "N-10604",
             "N-343",
-            "N-921"
+            "N-919"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -648,8 +648,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-426",
-      "ref": "N-426",
+      "@id": "N-424",
+      "ref": "N-424",
       "name": "Jimmy Cherizier",
       "type": "person",
       "description": "First named by the host at 00:27:14 in episode 91.",
@@ -666,8 +666,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-427",
-      "ref": "N-427",
+      "@id": "N-425",
+      "ref": "N-425",
       "name": "Daniel Horner",
       "type": "person",
       "description": "First named by the host at 00:32:24 in episode 91.",
@@ -1009,8 +1009,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-454",
-      "ref": "N-454",
+      "@id": "N-452",
+      "ref": "N-452",
       "name": "Greg Laurie",
       "type": "person",
       "description": "Pastor the host names as accused of trafficking.",
@@ -1026,8 +1026,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-646",
-      "ref": "N-646",
+      "@id": "N-644",
+      "ref": "N-644",
       "name": "Sebastian Gorka",
       "type": "person",
       "description": "Host of the America First show on which Marx and Melody appeared per Hall's statement.",
@@ -1043,8 +1043,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-730",
-      "ref": "N-730",
+      "@id": "N-728",
+      "ref": "N-728",
       "name": "Mike Kennedy",
       "type": "person",
       "description": "Victor Marx's brother per the host; attorney who took a plea deal in the same smuggling case and co-founded the ministry.",
@@ -1061,8 +1061,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-731",
-      "ref": "N-731",
+      "@id": "N-729",
+      "ref": "N-729",
       "name": "Karl Marx (Victor Marx's father)",
       "type": "person",
       "description": "Marx's biological father per the host; the transcript spells the first name Carl.",
@@ -1078,8 +1078,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-732",
-      "ref": "N-732",
+      "@id": "N-730",
+      "ref": "N-730",
       "name": "Kenneth Brining",
       "type": "person",
       "description": "Eileen Marx's brother per the host; subject of the shooting attempt and trial claims.",
@@ -1096,8 +1096,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-920",
-      "ref": "N-920",
+      "@id": "N-918",
+      "ref": "N-918",
       "name": "Chaz Yandle",
       "type": "person",
       "description": "First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met Hall at the hotel and goes with Marx to Haiti. Spelling as transcribed.",
@@ -1113,8 +1113,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-921",
-      "ref": "N-921",
+      "@id": "N-919",
+      "ref": "N-919",
       "name": "Corey Kennedy",
       "type": "person",
       "description": "First named by the host at 00:56:23 in episode 91 as a researcher who has done a deep dive on Victor Marx on X and Facebook. The host is unsure of the surname and spells the first name C O R I.",
@@ -1590,7 +1590,7 @@
       "claim_timestamp": "00:27:14",
       "investigative_direction": "Cross-reference with subsequent Haiti mission records and CBN News reporting.",
       "mentions_person_refs": [
-        "N-426"
+        "N-424"
       ]
     },
     {
@@ -1609,7 +1609,7 @@
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Verify with Sig Sauer corporate communications and Daniel Horner directly.",
       "mentions_person_refs": [
-        "N-427"
+        "N-425"
       ]
     },
     {
@@ -1784,7 +1784,7 @@
       "claim_timestamp": "00:28:28",
       "investigative_direction": "Cross-reference with other reporting on Marx's Haiti activities and any FAA enforcement records.",
       "mentions_person_refs": [
-        "N-426"
+        "N-424"
       ]
     },
     {
@@ -2445,7 +2445,7 @@
       "investigative_direction": "Check the same federal docket for Mike Kennedy's plea agreement and sentence.",
       "transcript_snippet": "He took a plea deal, so he only served a year and a day in exchange for testifying against his stepfather Gloyce.",
       "mentions_person_refs": [
-        "N-730",
+        "N-728",
         "N-351"
       ]
     },
@@ -2466,7 +2466,7 @@
       "investigative_direction": "Ask for the host's sources; check Marx's own books and interviews about his father.",
       "transcript_snippet": "His name was Carl Marx. Okay? And he was a pimp, a drug dealer, and also a world-famous martial arts expert who spent time in a mental hospital for his homicidal tendencies.",
       "mentions_person_refs": [
-        "N-731",
+        "N-729",
         "N-343"
       ]
     },
@@ -2615,7 +2615,7 @@
       "investigative_direction": "Search local police and court records for the incident and its date.",
       "transcript_snippet": "Eileen, his wife's brother, Kenneth, um for some reason, his his brother-in-law tried to shoot him on his own property.",
       "mentions_person_refs": [
-        "N-732",
+        "N-730",
         "N-345",
         "N-343"
       ]
@@ -2637,7 +2637,7 @@
       "investigative_direction": "Check court dockets for any pending case against the named individual; the host states it as a belief.",
       "transcript_snippet": "Eileen's brother would go on to kill his own girlfriend, for which I believe he is currently awaiting trial.",
       "mentions_person_refs": [
-        "N-732",
+        "N-730",
         "N-345"
       ]
     },
@@ -2866,7 +2866,7 @@
         "N-344",
         "N-343",
         "N-346",
-        "N-646"
+        "N-644"
       ]
     },
     {
@@ -2983,7 +2983,7 @@
       "mentions_person_refs": [
         "N-344",
         "N-343",
-        "N-920"
+        "N-918"
       ]
     },
     {
@@ -3461,7 +3461,7 @@
       "investigative_direction": "Check the lawsuits and filings against Harvest Christian Fellowship; the host's wording is brief and the entity should be confirmed.",
       "transcript_snippet": "Oh, Greg Laurie, yes, accused of trafficking. Church Harvest Church is being accused of trafficking people from Romania.",
       "mentions_person_refs": [
-        "N-454"
+        "N-452"
       ]
     },
     {
@@ -3544,7 +3544,7 @@
       "investigative_direction": "Identify the account and read the posts; confirm the researcher's name and background.",
       "transcript_snippet": "has done a very good job on both X and on Facebook. Corey Kennedy has done a deep dive into Victor Marx.",
       "mentions_person_refs": [
-        "N-921",
+        "N-919",
         "N-343"
       ]
     },
@@ -3568,7 +3568,7 @@
       "transcript_snippet": "there have been interviews where people have very heavily suggested that Victor Marx is just in fact a compulsive liar.",
       "mentions_person_refs": [
         "N-343",
-        "N-921"
+        "N-919"
       ]
     },
     {

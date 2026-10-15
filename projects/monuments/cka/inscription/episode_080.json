@@ -827,8 +827,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-456",
-      "ref": "N-456",
+      "@id": "N-454",
+      "ref": "N-454",
       "name": "Lindsey Graham",
       "type": "person",
       "description": "US Senator; subject of critique in Charlie Kirk and Tucker Carlson audio clips.",
@@ -843,8 +843,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-538",
-      "ref": "N-538",
+      "@id": "N-536",
+      "ref": "N-536",
       "name": "Alan Dershowitz",
       "type": "person",
       "description": "Attorney and Epstein associate; cited as having recounted a massage from a woman named \"Olga\" at Epstein's place; defended by Mark Levin and Bari Weiss.",
@@ -859,8 +859,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-586",
-      "ref": "N-586",
+      "@id": "N-584",
+      "ref": "N-584",
       "name": "Sarah Huckabee Sanders",
       "type": "person",
       "description": "Governor of Arkansas; displayed signing proclamation with Erica Kirk for Club America in Arkansas high schools.",
@@ -1121,8 +1121,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-558",
-      "ref": "N-558",
+      "@id": "N-556",
+      "ref": "N-556",
       "name": "Carrie Prejean Bowler",
       "type": "person",
       "description": "Speaker at the Catholics for Catholics event.",
@@ -1138,8 +1138,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-588",
-      "ref": "N-588",
+      "@id": "N-586",
+      "ref": "N-586",
       "name": "Renee Crossman",
       "type": "person",
       "description": "Erika Kirk's Romanian partner whose religious background the host is researching.",
@@ -1156,8 +1156,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-596",
-      "ref": "N-596",
+      "@id": "N-594",
+      "ref": "N-594",
       "name": "Bret Weinstein",
       "type": "person",
       "description": "Named as Kirk's correspondent in the host's account of his messages.",
@@ -1173,8 +1173,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-604",
-      "ref": "N-604",
+      "@id": "N-602",
+      "ref": "N-602",
       "name": "Scott Bessent",
       "type": "person",
       "description": "Treasury Secretary pulled to the Situation Room.",
@@ -1489,8 +1489,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-947",
-      "ref": "N-947",
+      "@id": "N-945",
+      "ref": "N-945",
       "name": "Dino Fonte Grassi",
       "type": "person",
       "description": "First named by the host at 00:31:39 in episode 80 (also rendered Dino Fontegrassi). President of the Turning Point USA University of Arkansas chapter who wrote the disaffiliation letter.",
@@ -1510,8 +1510,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-948",
-      "ref": "N-948",
+      "@id": "N-946",
+      "ref": "N-946",
       "name": "Shannon Kent",
       "type": "person",
       "description": "First named by the host at 00:03:18 in episode 80. Joe Kent's late wife, whom the host says was killed by a suicide bomber in Syria in January 2019.",
@@ -1528,8 +1528,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-949",
-      "ref": "N-949",
+      "@id": "N-947",
+      "ref": "N-947",
       "name": "Johnny Yep",
       "type": "person",
       "description": "First named by the host at 00:23:57 in episode 80 (transcribed as Johnny Yep and Johnny Yep). Organizer of Catholics for Catholics, per the host's description of the event organizer and a web check of the event.",
@@ -1684,7 +1684,7 @@
       "claim_timestamp": "00:14:29",
       "investigative_direction": "Verify the exact X post text against Graham's verified account at the timestamp indicated.",
       "mentions_person_refs": [
-        "N-456"
+        "N-454"
       ]
     },
     {
@@ -1761,7 +1761,7 @@
       "claim_timestamp": "00:15:58",
       "investigative_direction": "Confirm exact text against Dershowitz's verified X account.",
       "mentions_person_refs": [
-        "N-538"
+        "N-536"
       ]
     },
     {
@@ -2058,7 +2058,7 @@
       "investigative_direction": "Verify event date and content against Governor Sanders's official schedule and TPUSA press materials.",
       "mentions_person_refs": [
         "N-2",
-        "N-586"
+        "N-584"
       ]
     },
     {
@@ -2078,7 +2078,7 @@
       "investigative_direction": "Obtain the actual proclamation text from the Arkansas Secretary of State's office.",
       "mentions_person_refs": [
         "N-2",
-        "N-586"
+        "N-584"
       ]
     },
     {
@@ -2159,7 +2159,7 @@
       "transcript_snippet": "Shannon was the first female combat combat death in Syria uh since combat operations began against ISIS.",
       "mentions_person_refs": [
         "N-211",
-        "N-948"
+        "N-946"
       ]
     },
     {
@@ -2180,7 +2180,7 @@
       "transcript_snippet": "she was also the first female US service member that was killed by enemy fire in more than 3 years up until that point.",
       "mentions_person_refs": [
         "N-211",
-        "N-948"
+        "N-946"
       ]
     },
     {
@@ -2323,7 +2323,7 @@
       "transcript_snippet": "Exactly what Charlie had intimated in those messages with Bret Weinstein.",
       "mentions_person_refs": [
         "N-1",
-        "N-596",
+        "N-594",
         "N-5"
       ]
     },
@@ -2456,7 +2456,7 @@
       "investigative_direction": "Ask the organizers for the cancellation emails and calls received, and check the published event agenda.",
       "transcript_snippet": "They have just been emailing everyone calling everybody asking for cancellations",
       "mentions_person_refs": [
-        "N-558",
+        "N-556",
         "N-3"
       ]
     },
@@ -2558,7 +2558,7 @@
       "investigative_direction": "Ask Catholics for Catholics for the harassment communications it received and compare with the host's description.",
       "transcript_snippet": "the pain that they have put him through, the harassment that they have gone through because you're not allowed to have an event if it's with somebody that doesn't support mass murder in Gaza.",
       "mentions_person_refs": [
-        "N-949",
+        "N-947",
         "N-3"
       ]
     },
@@ -2699,7 +2699,7 @@
         "C-2522"
       ],
       "mentions_person_refs": [
-        "N-586",
+        "N-584",
         "N-2"
       ]
     },
@@ -2720,7 +2720,7 @@
       "investigative_direction": "Check chapter records and Fonte Grassi's public history with TPUSA.",
       "transcript_snippet": "he's been with Turning Point USA for more than 5 years.",
       "mentions_person_refs": [
-        "N-947"
+        "N-945"
       ]
     },
     {
@@ -2764,7 +2764,7 @@
       "investigative_direction": "Verify the text against Fonte Grassi's Instagram post and ask TPUSA whether it received the private grievances.",
       "transcript_snippet": "we have many grievances with Turning Point USA, which we will shortly make known to them in private, but I will share only one.",
       "mentions_person_refs": [
-        "N-947"
+        "N-945"
       ]
     },
     {
@@ -2789,7 +2789,7 @@
         "C-2510"
       ],
       "mentions_person_refs": [
-        "N-947",
+        "N-945",
         "N-1"
       ]
     },
@@ -2813,7 +2813,7 @@
       "transcript_snippet": "He sort of just sat up with a bunch of students and tried to get their opinion to show donors like you can't treat these kids like this.",
       "mentions_person_refs": [
         "N-1",
-        "N-947"
+        "N-945"
       ]
     },
     {
@@ -2859,7 +2859,7 @@
       "investigative_direction": "Check Charlie Kirk Show episode listings for Fonte Grassi after September 10, 2025.",
       "transcript_snippet": "He was also on the Charlie Kirk show. I believe he was on it actually after Charlie Kirk assassinated.",
       "mentions_person_refs": [
-        "N-947",
+        "N-945",
         "N-1"
       ]
     },
@@ -2943,7 +2943,7 @@
         "C-2470"
       ],
       "mentions_person_refs": [
-        "N-588",
+        "N-586",
         "N-2",
         "N-3"
       ]
@@ -2969,7 +2969,7 @@
         "C-2470"
       ],
       "mentions_person_refs": [
-        "N-588"
+        "N-586"
       ]
     },
     {
@@ -3210,7 +3210,7 @@
         "C-2512"
       ],
       "mentions_person_refs": [
-        "N-604"
+        "N-602"
       ]
     },
     {

@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11295–C-11374
   - New Nodes Introduced: N-10547, N-10550, N-10551, N-10552
-  - Reused Nodes Appearing: N-10548, N-10549, N-11, N-15, N-17, N-46, N-55, N-69, N-166, N-188, N-192, N-219, N-262, N-382, N-555, N-596, N-10056, N-10082, N-10093, N-10148, N-10163, N-10193, N-10195, N-10202, N-10206, N-10253, N-10340, N-10355, N-10403, N-10539, N-10546, N-10554, N-10560, N-10956, N-11114, N-11079
+  - Reused Nodes Appearing: N-10548, N-10549, N-11, N-15, N-17, N-46, N-55, N-69, N-166, N-188, N-192, N-219, N-262, N-380, N-553, N-594, N-10056, N-10082, N-10093, N-10148, N-10163, N-10193, N-10195, N-10202, N-10206, N-10253, N-10340, N-10355, N-10403, N-10539, N-10546, N-10554, N-10560, N-10956, N-11114, N-11079
   - (see registers)
 
 # Episode 81 Analysis
@@ -507,7 +507,7 @@ Podcast host whose segment on Erika is played.
 
 ---
 
-**N-382** Dan Bongino
+**N-380** Dan Bongino
 
 Named in a viewer comment as trying to link the host and Kent.
 
@@ -515,7 +515,7 @@ Named in a viewer comment as trying to link the host and Kent.
 
 ---
 
-**N-497** Marina (TPUSA CMO)
+**N-495** Marina (TPUSA CMO)
 
 TPUSA chief marketing officer (transcribed Marina Minnez, Mina's); handled the statement drafting.
 
@@ -523,7 +523,7 @@ TPUSA chief marketing officer (transcribed Marina Minnez, Mina's); handled the s
 
 ---
 
-**N-555** Aubrey Lech
+**N-553** Aubrey Lech
 
 Staffer who drafted the death statement and was later fired (host says over an Uber driver conversation).
 
@@ -531,7 +531,7 @@ Staffer who drafted the death statement and was later fired (host says over an U
 
 ---
 
-**N-596** Bret Weinstein
+**N-594** Bret Weinstein
 
 The host says he released messages about Iran.
 
@@ -877,7 +877,7 @@ Claim Timestamp: 00:24:14
 Claim: At approximately 2:05 p.m. Utah time on Sept 10, Marina Medvin called Aubrey and asked her to draft the staff death statement because Andrew was on a plane.
 
 Anchored Artifacts: A-1881.1
-Mentions: N-497
+Mentions: N-495
 
 Related Nodes: N-10547, N-10552
 
@@ -892,7 +892,7 @@ Claim Timestamp: 00:25:31
 Claim: The host says Aubrey, who drafted the Sept 10 death statement, was later terminated in connection with a conversation with an Uber driver that Marina Medvin reportedly overheard.
 
 Anchored Artifacts: A-1881.1 (contextual); primary artifact not displayed.
-Mentions: N-497
+Mentions: N-495
 
 Related Nodes: N-10552
 
@@ -1387,7 +1387,7 @@ Claim: The host says Bret Weinstein has released his messages about Iran.
 Transcript Snippet: Bret Weinstein has released his messages about Iran.
 
 Anchored Artifacts: 
-Mentions: N-596
+Mentions: N-594
 Related Nodes: N-10539
 Tags: relevance:context
 Investigative Direction: Locate Weinstein's release of messages and check what they say about Charlie Kirk and Iran.
@@ -1725,7 +1725,7 @@ Claim: The host says the PR group chat consisted of Justin Streiff, Andrew Kolve
 Transcript Snippet: In this group we have Justin Streiff, we have Andrew Kolvet, we have Marina Minnez, and we have Aubrey, who is later going to be fired over an Uber ride that Marina overhears.
 
 Anchored Artifacts: A-1881.1
-Mentions: N-15, N-14, N-497, N-555
+Mentions: N-15, N-14, N-495, N-553
 Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Verify the member list from the chat export.
@@ -1821,7 +1821,7 @@ Claim: The host says Marina told Aubrey that Andrew was on a plane and that she 
 Transcript Snippet: because Andrew's currently on a plane and I don't have it within me to draft the statement.
 
 Anchored Artifacts: A-1881.1
-Mentions: N-497, N-555, N-14
+Mentions: N-495, N-553, N-14
 Related Nodes: N-10552, N-10547
 Tags: relevance:core
 Investigative Direction: Ask Aubrey or Marina for the call content; the wording is the host's paraphrase.
@@ -1837,7 +1837,7 @@ Claim: The host says Aubrey, a 26-year-old, was made responsible for drafting th
 Transcript Snippet: Essentially, Aubrey, the what 26-year-old, is now responsible for the unbelievably emotionally heavy statement
 
 Anchored Artifacts: A-1881.1
-Mentions: N-555
+Mentions: N-553
 Related Nodes: N-10552
 Tags: relevance:context
 Investigative Direction: Confirm Aubrey's age and role with her or with employment records.
@@ -1853,7 +1853,7 @@ Claim: The host says TPUSA made Aubrey work insane hours through weekends and th
 Transcript Snippet: make her work insane hours and then fire her. Through weekends, everything, and then fire her and her fiance because they had a conversation with an Uber driver. And she wasn't loyal to Erika.
 
 Anchored Artifacts: 
-Mentions: N-555, N-2
+Mentions: N-553, N-2
 Related Nodes: N-10552
 Supports: C-9967
 Tags: relevance:core
@@ -1870,7 +1870,7 @@ Claim: The host says TPUSA fired Aubrey and her fiance without even giving them 
 Transcript Snippet: only to then fire them and not even give them a bonus after they took in that much money.
 
 Anchored Artifacts: 
-Mentions: N-555
+Mentions: N-553
 Related Nodes: N-10552
 Tags: relevance:context
 Investigative Direction: Request payroll or severance records through Aubrey and compare with TPUSA's reported post-assassination revenue.
@@ -1902,7 +1902,7 @@ Claim: The host says that at 3:49 p.m. Utah time Aubrey asked her unavailable bo
 Transcript Snippet: At 3:49 Utah time, she's going to ask her boss, who's been unavailable, "Should I confirm or deny?"
 
 Anchored Artifacts: A-3127.1
-Mentions: N-555, N-14
+Mentions: N-553, N-14
 Related Nodes: N-10547, N-10552
 Tags: relevance:core
 Investigative Direction: Check the full chat export for the 3:49 message and its recipient.
@@ -2079,7 +2079,7 @@ Claim: The host says Aubrey had to write all of this, work seven-hour days witho
 Transcript Snippet: then work like 7-hour days, not sleep, only to then not get a raise and to be fired because Marina Mina's spoke to an Uber driver.
 
 Anchored Artifacts: 
-Mentions: N-555, N-497
+Mentions: N-553, N-495
 Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Obtain Aubrey's pay and schedule records and the account of what Marina said to the driver.
@@ -2095,7 +2095,7 @@ Claim: The host says Aubrey said she never vented to the Uber driver, whereas th
 Transcript Snippet: and she said she never did vent to the Uber driver. Uber driver says they vent.
 
 Anchored Artifacts: 
-Mentions: N-555
+Mentions: N-553
 Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Locate the Uber driver and any statement from him; ask Aubrey for her account.
@@ -2274,7 +2274,7 @@ Claim: A viewer comment read by the host says it is sad to see Dan Bongino becom
 Transcript Snippet: It is sad to see Bongino become a little man trying to link Candace and Joe.
 
 Anchored Artifacts: 
-Mentions: N-382, N-3, N-211
+Mentions: N-380, N-3, N-211
 Related Nodes: N-10551
 Tags: relevance:context
 Investigative Direction: Find Bongino's on-air or posted remarks tying the host to Kent.

@@ -355,7 +355,7 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-510"
+            "N-508"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -482,7 +482,7 @@
           "related_nodes": [
             "N-3",
             "N-18",
-            "N-754"
+            "N-752"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -832,8 +832,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-565",
-      "ref": "N-565",
+      "@id": "N-563",
+      "ref": "N-563",
       "name": "Rachel Wilson",
       "type": "person",
       "description": "First named by the host at 00:39:29 in episode 140.",
@@ -1048,8 +1048,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-510",
-      "ref": "N-510",
+      "@id": "N-508",
+      "ref": "N-508",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "Officer named in the played Q&A about the body cam and the screwdriver.",
@@ -1287,8 +1287,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-754",
-      "ref": "N-754",
+      "@id": "N-752",
+      "ref": "N-752",
       "name": "Gerald Morgan",
       "type": "person",
       "description": "First named by the host at 00:13:18 in episode 141. Named as the person from Steven Crowder's team whom Wilson brought and who did a live call-in from the host's children's playroom.",
@@ -1533,7 +1533,7 @@
       "mentions_person_refs": [
         "N-18",
         "N-3",
-        "N-565"
+        "N-563"
       ]
     },
     {
@@ -1551,7 +1551,7 @@
       "investigative_direction": "Retrieve the full text of Rachel Wilson's X post; verify against published debate technical setup, including Candace Owens's claim that the earpieces had a 15-foot operational range and could not extend outside the control room.",
       "mentions_person_refs": [
         "N-3",
-        "N-565"
+        "N-563"
       ]
     },
     {
@@ -1985,7 +1985,7 @@
         "N-3",
         "N-18",
         "N-261",
-        "N-754"
+        "N-752"
       ]
     },
     {
@@ -2023,7 +2023,7 @@
       "transcript_snippet": "Gerald decided to do a live callin from my kids' playroom just outside the studio.",
       "mentions_person_refs": [
         "N-3",
-        "N-754"
+        "N-752"
       ]
     },
     {
@@ -2061,7 +2061,7 @@
       "transcript_snippet": "one thing the contract did stipulate was no filming outside of this studio.",
       "mentions_person_refs": [
         "N-3",
-        "N-754"
+        "N-752"
       ]
     },
     {
@@ -2498,7 +2498,7 @@
       "transcript_snippet": "It's at least plausible that the the uh screwdriver was planted.",
       "mentions_person_refs": [
         "N-3",
-        "N-510"
+        "N-508"
       ]
     },
     {
@@ -2522,7 +2522,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-510"
+        "N-508"
       ]
     },
     {
@@ -2932,7 +2932,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-18",
-        "N-565"
+        "N-563"
       ]
     },
     {
@@ -2954,7 +2954,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-18",
-        "N-565"
+        "N-563"
       ]
     },
     {
@@ -2997,7 +2997,7 @@
         "N-3",
         "N-18",
         "N-57",
-        "N-565"
+        "N-563"
       ]
     },
     {
@@ -3171,7 +3171,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-18",
-        "N-565"
+        "N-563"
       ]
     },
     {

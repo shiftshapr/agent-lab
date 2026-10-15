@@ -1135,8 +1135,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-369",
-      "ref": "N-369",
+      "@id": "N-368",
+      "ref": "N-368",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Jeremy Boreing; named in the host's thanks for her Daily Wire firing.",
@@ -1169,8 +1169,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-853",
-      "ref": "N-853",
+      "@id": "N-851",
+      "ref": "N-851",
       "name": "Tony Burke",
       "type": "person",
       "description": "First named by the host at 00:03:43 in episode 027 as the Australian official she says banned her from the country.",
@@ -1620,8 +1620,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-608",
-      "ref": "N-608",
+      "@id": "N-606",
+      "ref": "N-606",
       "name": "Ian Miles Cheong",
       "type": "person",
       "description": "Ian Miles Cheong; named as a recipient of Cordova's clips, per host allegation.",
@@ -1843,8 +1843,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-854",
-      "ref": "N-854",
+      "@id": "N-852",
+      "ref": "N-852",
       "name": "Jimmy Dore",
       "type": "person",
       "description": "First named by the host at 01:04:09 in episode 027 as a commentator a viewer suggested she team up with.",
@@ -2310,7 +2310,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-369"
+        "N-368"
       ]
     },
     {
@@ -2348,7 +2348,7 @@
       "transcript_snippet": "Tony Burke, thank you for banning us from an entire country, even though I didn't do nothing.",
       "mentions_person_refs": [
         "N-3",
-        "N-853"
+        "N-851"
       ]
     },
     {
@@ -3168,7 +3168,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-231",
-        "N-608"
+        "N-606"
       ]
     },
     {
@@ -3616,7 +3616,7 @@
         "N-3",
         "N-130",
         "N-39",
-        "N-854"
+        "N-852"
       ]
     },
     {

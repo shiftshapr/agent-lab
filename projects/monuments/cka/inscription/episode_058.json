@@ -31,12 +31,12 @@
             "C-2110"
           ],
           "related_nodes": [
-            "N-463",
+            "N-461",
+            "N-464",
+            "N-465",
             "N-466",
             "N-467",
             "N-468",
-            "N-469",
-            "N-470",
             "N-10417",
             "N-10418"
           ],
@@ -58,7 +58,7 @@
             "C-2110"
           ],
           "related_nodes": [
-            "N-463",
+            "N-461",
             "N-10418"
           ],
           "tags": [],
@@ -77,7 +77,7 @@
             "C-2109"
           ],
           "related_nodes": [
-            "N-463",
+            "N-461",
             "N-10418"
           ],
           "tags": [],
@@ -158,8 +158,8 @@
             "C-2114"
           ],
           "related_nodes": [
-            "N-464",
-            "N-465",
+            "N-462",
+            "N-463",
             "N-10421"
           ],
           "tags": [],
@@ -179,7 +179,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-464",
+            "N-462",
             "N-10421"
           ],
           "tags": [],
@@ -225,7 +225,7 @@
             "C-2116"
           ],
           "related_nodes": [
-            "N-464",
+            "N-462",
             "N-10423"
           ],
           "tags": [],
@@ -253,7 +253,7 @@
             "C-2119"
           ],
           "related_nodes": [
-            "N-464",
+            "N-462",
             "N-10420"
           ],
           "tags": [],
@@ -326,7 +326,7 @@
             "C-2120"
           ],
           "related_nodes": [
-            "N-473",
+            "N-471",
             "N-10422"
           ],
           "tags": [],
@@ -343,7 +343,7 @@
           "description": "Sisbear Comment: Whistleblower Sabrina Wallace, DARPA Biosonar Testing on Children",
           "related_claims": [],
           "related_nodes": [
-            "N-471",
+            "N-469",
             "N-10422"
           ],
           "tags": [],
@@ -433,8 +433,8 @@
             "N-3",
             "N-327",
             "N-42",
-            "N-454",
-            "N-455",
+            "N-452",
+            "N-453",
             "N-61"
           ],
           "tags": [],
@@ -526,8 +526,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-463",
-      "ref": "N-463",
+      "@id": "N-461",
+      "ref": "N-461",
       "name": "Clayton Haugen",
       "type": "person",
       "description": "Director of *November Renaissance*; military-affiliated individual cited as close to Erika during ~2010–2013 production era.",
@@ -552,8 +552,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-464",
-      "ref": "N-464",
+      "@id": "N-462",
+      "ref": "N-462",
       "name": "Nelda Buckman",
       "type": "person",
       "description": "Major Turning Point USA donor; executive producer of *Identity Crisis*; affiliated with Courage House Nevada and National Angels foster-care work.",
@@ -575,7 +575,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-465",
+        "N-463",
         "N-10420",
         "N-10421",
         "N-10423"
@@ -583,8 +583,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-465",
-      "ref": "N-465",
+      "@id": "N-463",
+      "ref": "N-463",
       "name": "Karl Buckman",
       "type": "person",
       "description": "Co-donor with Nelda Buckman of $10 million to Turning Point USA; Florida campus named \"Buckman Campus\" after the gift.",
@@ -600,7 +600,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-464",
+        "N-462",
         "N-10421"
       ]
     },
@@ -626,14 +626,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-222",
-        "N-472",
+        "N-470",
         "N-10424"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-466",
-      "ref": "N-466",
+      "@id": "N-464",
+      "ref": "N-464",
       "name": "Don Frye",
       "type": "person",
       "description": "*November Renaissance* cast; graduated high school in Sierra Vista and trained in judo at Fort Huachuca.",
@@ -655,8 +655,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-467",
-      "ref": "N-467",
+      "@id": "N-465",
+      "ref": "N-465",
       "name": "Payton McCormick",
       "type": "person",
       "description": "*November Renaissance* cast; granddaughter of Colonel Pete McCormick and daughter of Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.",
@@ -678,8 +678,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-468",
-      "ref": "N-468",
+      "@id": "N-466",
+      "ref": "N-466",
       "name": "Chantel Thuy",
       "type": "person",
       "description": "*November Renaissance* cast; identified host-stated connection to Fort Huachuca and stated father worked in AI for IBM.",
@@ -700,8 +700,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-469",
-      "ref": "N-469",
+      "@id": "N-467",
+      "ref": "N-467",
       "name": "Price Mitchum",
       "type": "person",
       "description": "*November Renaissance* cast; host notes subject of a 5150 psych hold.",
@@ -722,8 +722,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-470",
-      "ref": "N-470",
+      "@id": "N-468",
+      "ref": "N-468",
       "name": "Priscilla Ann Nu'ul",
       "type": "person",
       "description": "Name flagged as uncertainty – referenced in same sentence as \"Miss Teen USA 2006\" in cast discussion; relationship to other cast members unclear from transcript.",
@@ -744,8 +744,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-471",
-      "ref": "N-471",
+      "@id": "N-469",
+      "ref": "N-469",
       "name": "Sabrina Wallace",
       "type": "person",
       "description": "Whistleblower mentioned in read-aloud comment (Sisbear) as alleging DARPA biosonar testing on children in 1980s–1990s.",
@@ -785,8 +785,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-472",
-      "ref": "N-472",
+      "@id": "N-470",
+      "ref": "N-470",
       "name": "Ferris Wilks",
       "type": "person",
       "description": "Referenced re: Nick Fuentes pitching sale of follower data to Defend Texas Liberty.",
@@ -825,8 +825,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-473",
-      "ref": "N-473",
+      "@id": "N-471",
+      "ref": "N-471",
       "name": "Nika",
       "type": "person",
       "description": "Reader-comment author; self-identifies as \"gate kid\" with memory blackout ages 4–10 at Fort Hood, attendance at schools linked via Aspen Education Group.",
@@ -914,9 +914,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-463",
-        "N-466",
-        "N-467"
+        "N-461",
+        "N-464",
+        "N-465"
       ]
     },
     {
@@ -942,12 +942,12 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-463",
+        "N-461",
+        "N-464",
+        "N-465",
         "N-466",
         "N-467",
-        "N-468",
-        "N-469",
-        "N-470"
+        "N-468"
       ]
     },
     {
@@ -994,7 +994,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-464",
+        "N-462",
         "N-265"
       ]
     },
@@ -1021,8 +1021,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-464",
-        "N-465",
+        "N-462",
+        "N-463",
         "N-332",
         "N-265"
       ]
@@ -1047,8 +1047,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-471",
-        "N-473"
+        "N-469",
+        "N-471"
       ]
     },
     {
@@ -1070,7 +1070,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-464"
+        "N-462"
       ]
     },
     {
@@ -1099,7 +1099,7 @@
       "related_nodes": [
         "N-203",
         "N-222",
-        "N-472",
+        "N-470",
         "N-147"
       ]
     },
@@ -1307,8 +1307,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-363",
+      "ref": "N-363",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Eyewitness who says he saw people at Fort Huachuca; the host defends his credibility.",
@@ -1540,8 +1540,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-454",
-      "ref": "N-454",
+      "@id": "N-452",
+      "ref": "N-452",
       "name": "Greg Laurie",
       "type": "person",
       "description": "Pastor of Harvest Christian Fellowship; the host links TPUSA Faith to him.",
@@ -1557,8 +1557,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-455",
-      "ref": "N-455",
+      "@id": "N-453",
+      "ref": "N-453",
       "name": "Paul Havsgaard",
       "type": "person",
       "description": "Former megachurch pastor accused in a Romanian children case, named by the host.",
@@ -1697,8 +1697,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-806",
-      "ref": "N-806",
+      "@id": "N-804",
+      "ref": "N-804",
       "name": "Paul Vallely",
       "type": "person",
       "description": "Retired Army general on the TPUSA advisory board.",
@@ -1877,8 +1877,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-758",
-      "ref": "N-758",
+      "@id": "N-756",
+      "ref": "N-756",
       "name": "Astrid Tuminez",
       "type": "person",
       "description": "UVU president; the host says she stepped down and was absent on September 10.",
@@ -1932,8 +1932,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-533",
-      "ref": "N-533",
+      "@id": "N-531",
+      "ref": "N-531",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "Modeling agent linked to Epstein; the host says he flew 12-year-old triplets to him.",
@@ -1967,8 +1967,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-729",
-      "ref": "N-729",
+      "@id": "N-727",
+      "ref": "N-727",
       "name": "Jack Parsons",
       "type": "person",
       "description": "Rocket scientist and occultist the host cites as a Crowley student.",
@@ -1984,8 +1984,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-777",
-      "ref": "N-777",
+      "@id": "N-775",
+      "ref": "N-775",
       "name": "Aleister Crowley",
       "type": "person",
       "description": "Occultist cited by the host.",
@@ -2018,8 +2018,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-460",
-      "ref": "N-460",
+      "@id": "N-458",
+      "ref": "N-458",
       "name": "Bill Montgomery",
       "type": "person",
       "description": "Air Force reservist the host says co-founded TPUSA.",
@@ -2035,8 +2035,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-858",
-      "ref": "N-858",
+      "@id": "N-856",
+      "ref": "N-856",
       "name": "Pete McCormick",
       "type": "person",
       "description": "First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, grandfather of cast member Payton McCormick.",
@@ -2052,8 +2052,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-859",
-      "ref": "N-859",
+      "@id": "N-857",
+      "ref": "N-857",
       "name": "Allan McCormick",
       "type": "person",
       "description": "First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca, father of cast member Payton McCormick.",
@@ -2069,8 +2069,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-860",
-      "ref": "N-860",
+      "@id": "N-858",
+      "ref": "N-858",
       "name": "Myron Gaines",
       "type": "person",
       "description": "First named by the host at 01:02:10 in episode 58 as the interviewer in an interview with her dropping the next day.",
@@ -2208,12 +2208,12 @@
       "claim_timestamp": "00:03:23–00:05:24",
       "investigative_direction": "Obtain independent verification of military service records for named cast members and cross-reference Fort Huachuca duty rosters.",
       "mentions_person_refs": [
-        "N-463",
+        "N-461",
+        "N-464",
+        "N-465",
         "N-466",
         "N-467",
-        "N-468",
-        "N-469",
-        "N-470"
+        "N-468"
       ]
     },
     {
@@ -2233,7 +2233,7 @@
       "claim_timestamp": "00:08:16–00:10:12",
       "investigative_direction": "Obtain and archive the full Kickstarter campaign text and director pitch video to preserve the complete concept description.",
       "mentions_person_refs": [
-        "N-463"
+        "N-461"
       ]
     },
     {
@@ -2253,7 +2253,7 @@
       "investigative_direction": "Archive the Kickstarter remnant directly and verify the character name against any backup poster or campaign screenshots.",
       "mentions_person_refs": [
         "N-2",
-        "N-463"
+        "N-461"
       ]
     },
     {
@@ -2354,8 +2354,8 @@
       "claim_timestamp": "00:20:05–00:21:00",
       "investigative_direction": "Obtain Daily Wire's article text and any Turning Point USA press release; verify gift amount and naming date against 990 filings or press archives.",
       "mentions_person_refs": [
-        "N-464",
-        "N-465"
+        "N-462",
+        "N-463"
       ]
     },
     {
@@ -2375,7 +2375,7 @@
       "investigative_direction": "Obtain the full Daily Wire Plus interview text; verify date and any documentation of the Florida meeting.",
       "mentions_person_refs": [
         "N-2",
-        "N-464"
+        "N-462"
       ]
     },
     {
@@ -2394,7 +2394,7 @@
       "claim_timestamp": "00:21:46",
       "investigative_direction": "Verify Buckman's credit against the film's production filings (e.g., IMDb, registered producer credits, copyright registrations).",
       "mentions_person_refs": [
-        "N-464",
+        "N-462",
         "N-97"
       ]
     },
@@ -2474,7 +2474,7 @@
       "claim_timestamp": "00:53:05–00:55:26",
       "investigative_direction": "Verify Aspen Education Group corporate lineage; obtain Nika's FOIA records if available; cross-reference named schools against public abuse litigation.",
       "mentions_person_refs": [
-        "N-473"
+        "N-471"
       ]
     },
     {
@@ -2513,7 +2513,7 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-203",
-        "N-472"
+        "N-470"
       ]
     },
     {
@@ -2616,7 +2616,7 @@
       "investigative_direction": "Collect the TPUSA-side posts and statements about Mitch Snow's personal life and compare their dates with the first Fort Huachuca coverage.",
       "transcript_snippet": "They were bringing out Mitch's baby mama drama, sons, everything to say this never happened",
       "mentions_person_refs": [
-        "N-364",
+        "N-363",
         "N-3"
       ]
     },
@@ -2751,7 +2751,7 @@
       "investigative_direction": "Ask the sources for the basis of the closeness claim; look for Haugen and Erika in joint photos, posts or cast lists.",
       "transcript_snippet": "The person they said she was really close to was Clayton Haugen.",
       "mentions_person_refs": [
-        "N-463",
+        "N-461",
         "N-2",
         "N-3"
       ]
@@ -2774,7 +2774,7 @@
       "investigative_direction": "Verify Haugen's employment through LinkedIn or company records; note the firm's spelling (Dillon Aerospace).",
       "transcript_snippet": "And he does marketing for the defense contracting firm Dillon Aero Space.",
       "mentions_person_refs": [
-        "N-463"
+        "N-461"
       ]
     },
     {
@@ -2795,7 +2795,7 @@
       "investigative_direction": "Check Frye's published biography for the Sierra Vista school and Fort Huachuca judo program.",
       "transcript_snippet": "he actually graduated from high school in Sierra Vista and then trained in judo at Fort Huachuca",
       "mentions_person_refs": [
-        "N-466"
+        "N-464"
       ]
     },
     {
@@ -2816,9 +2816,9 @@
       "investigative_direction": "Confirm the family relationships and Allan McCormick's Fort Huachuca assignment through Army records or public obituaries.",
       "transcript_snippet": "Her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.",
       "mentions_person_refs": [
-        "N-467",
-        "N-858",
-        "N-859"
+        "N-465",
+        "N-856",
+        "N-857"
       ]
     },
     {
@@ -2838,8 +2838,8 @@
       "investigative_direction": "Check Miss Teen USA 2006 titleholder records; the transcript's title and name attribution look garbled and may be wrong.",
       "transcript_snippet": "Payton was also, by the way, Miss Teen USA in 2006, Priscilla Ann Nu'ul",
       "mentions_person_refs": [
-        "N-467",
-        "N-470"
+        "N-465",
+        "N-468"
       ]
     },
     {
@@ -2860,7 +2860,7 @@
       "investigative_direction": "Identify Thuy's father and verify the IBM employment claim; no Fort Huachuca link was shown.",
       "transcript_snippet": "we can tell you that her dad worked for an artificial intelligence for IBM",
       "mentions_person_refs": [
-        "N-468",
+        "N-466",
         "N-3"
       ]
     },
@@ -2881,7 +2881,7 @@
       "investigative_direction": "Public 5150 holds are confidential medical events; look for any news report before treating this as established.",
       "transcript_snippet": "that Price Mitchum, that just gets dark. I mean, that young man or older man got put in a psych 5150 hold",
       "mentions_person_refs": [
-        "N-469",
+        "N-467",
         "N-3"
       ]
     },
@@ -2927,7 +2927,7 @@
       "investigative_direction": "Archive the Kickstarter comment thread and delivery estimate from the Wayback Machine.",
       "transcript_snippet": "They promised to deliver it in 2013. That didn't happen.",
       "mentions_person_refs": [
-        "N-463",
+        "N-461",
         "N-3"
       ]
     },
@@ -2950,7 +2950,7 @@
       "investigative_direction": "Capture the dated Kickstarter update log to confirm the last update year.",
       "transcript_snippet": "this project was never released despite posting updates up to 2017",
       "mentions_person_refs": [
-        "N-463",
+        "N-461",
         "N-3"
       ]
     },
@@ -2973,7 +2973,7 @@
       "transcript_snippet": "these people who gave this to us were our friends with Erika, they know her, they say she knows about this space",
       "mentions_person_refs": [
         "N-2",
-        "N-364",
+        "N-363",
         "N-3"
       ]
     },
@@ -3017,7 +3017,7 @@
       "investigative_direction": "Ask the host to disclose how independence from Mitch Snow was established; compare the two accounts' details.",
       "transcript_snippet": "This person has absolutely nothing to do with Mitch Snow.",
       "mentions_person_refs": [
-        "N-364",
+        "N-363",
         "N-3"
       ]
     },
@@ -3137,8 +3137,8 @@
         "C-8151"
       ],
       "mentions_person_refs": [
-        "N-454",
-        "N-455",
+        "N-452",
+        "N-453",
         "N-3"
       ]
     },
@@ -3240,7 +3240,7 @@
         "C-8245"
       ],
       "mentions_person_refs": [
-        "N-806",
+        "N-804",
         "N-3"
       ]
     },
@@ -3264,7 +3264,7 @@
         "C-8246"
       ],
       "mentions_person_refs": [
-        "N-806",
+        "N-804",
         "N-3"
       ]
     },
@@ -3357,7 +3357,7 @@
       "investigative_direction": "Retrieve the Daily Wire Plus interview text to confirm the quotation and date.",
       "transcript_snippet": "Erika and I talked about womanhood and what our culture has been teaching our young women",
       "mentions_person_refs": [
-        "N-464",
+        "N-462",
         "N-2",
         "N-3"
       ]
@@ -3498,7 +3498,7 @@
         "C-2116"
       ],
       "mentions_person_refs": [
-        "N-464",
+        "N-462",
         "N-3"
       ]
     },
@@ -3520,7 +3520,7 @@
       "investigative_direction": "Check National Angels board and donor listings for Buckman.",
       "transcript_snippet": "Nelda works with National Angels, so it's like there's all these different regions, Austin Angels, New Jersey Angels.",
       "mentions_person_refs": [
-        "N-464",
+        "N-462",
         "N-3"
       ]
     },
@@ -3543,7 +3543,7 @@
       "investigative_direction": "Verify Courage House donor listings and filings for Buckman gifts; the host hedges that she might be the largest.",
       "transcript_snippet": "Nelda is one of the largest donors, she might even be the largest donor to Courage House Nevada",
       "mentions_person_refs": [
-        "N-464",
+        "N-462",
         "N-3"
       ]
     },
@@ -3801,7 +3801,7 @@
       "investigative_direction": "Check the UVU announcement and its date.",
       "transcript_snippet": "who by the way has just stepped down from Utah Valley University. It was just announced",
       "mentions_person_refs": [
-        "N-758",
+        "N-756",
         "N-3"
       ]
     },
@@ -3823,7 +3823,7 @@
       "investigative_direction": "Obtain Tuminez's September 10, 2025 whereabouts and travel; previously claimed absences can be compared.",
       "transcript_snippet": "she was not there on the day of Charlie's assassination.",
       "mentions_person_refs": [
-        "N-758",
+        "N-756",
         "N-1",
         "N-3"
       ]
@@ -3845,7 +3845,7 @@
       "investigative_direction": "Check Tuminez's published biography and memoir for her childhood and career; the CIA work claim has no cited source.",
       "transcript_snippet": "Looks like she was involved in some color revolution stuff for the CIA. She was a fostered child, was rescued from the Philippines.",
       "mentions_person_refs": [
-        "N-758",
+        "N-756",
         "N-3"
       ]
     },
@@ -3883,7 +3883,7 @@
       "transcript_snippet": "his friend uh Jean-Luc Brunel in Paris flew these 12-year-old triplets to Jeffrey Epstein",
       "mentions_person_refs": [
         "N-9",
-        "N-533",
+        "N-531",
         "N-3"
       ]
     },
@@ -4057,8 +4057,8 @@
       "investigative_direction": "Parsons is documented as a JPL co-founder and Thelema follower; historians do not credit him with founding the Apollo program.",
       "transcript_snippet": "Did Jackson did Jack Parsons exist the who established the Apollo program at NASA? Was he similarly conducting occult sexual rituals to establish a moon child?",
       "mentions_person_refs": [
-        "N-729",
-        "N-777",
+        "N-727",
+        "N-775",
         "N-3"
       ]
     },
@@ -4127,7 +4127,7 @@
       "investigative_direction": "Commenter claim; Fort Hood hospital records would be needed.",
       "transcript_snippet": "Dad was a doctor doing residency adjacent to a bio lab at the army hospital.",
       "mentions_person_refs": [
-        "N-473"
+        "N-471"
       ]
     },
     {
@@ -4149,7 +4149,7 @@
       "investigative_direction": "Commenter anecdote; not verifiable.",
       "transcript_snippet": "Lights break above my head when I flipped a switch, cabinets slam when I get mad enough",
       "mentions_person_refs": [
-        "N-473"
+        "N-471"
       ]
     },
     {
@@ -4297,7 +4297,7 @@
       "investigative_direction": "Find Wallace's public statements and any DARPA documentation of the biosonar tests.",
       "transcript_snippet": "she was a child who claims DARPA tested biosonar on her and other children in the 80s and 90s",
       "mentions_person_refs": [
-        "N-471"
+        "N-469"
       ]
     },
     {
@@ -4341,7 +4341,7 @@
         "C-5424"
       ],
       "mentions_person_refs": [
-        "N-460",
+        "N-458",
         "N-3"
       ]
     },
@@ -4405,7 +4405,7 @@
       "investigative_direction": "Check the release of the interview on the following day.",
       "transcript_snippet": "we have an interview dropping tomorrow between me and Myron Gaines",
       "mentions_person_refs": [
-        "N-860",
+        "N-858",
         "N-3"
       ]
     }

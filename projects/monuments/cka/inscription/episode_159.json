@@ -145,7 +145,7 @@
             "N-4",
             "N-69",
             "N-85",
-            "N-539",
+            "N-537",
             "N-5"
           ],
           "tags": [],
@@ -666,7 +666,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-381"
+        "N-379"
       ]
     },
     {
@@ -726,7 +726,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -807,8 +807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-441",
-      "ref": "N-441",
+      "@id": "N-439",
+      "ref": "N-439",
       "name": "Johnny Moore",
       "type": "person",
       "description": "Takes chair of Gaza Humanitarian Aid Project June 3; host ties to Kolvet/Chyros partnership.",
@@ -867,8 +867,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-500",
-      "ref": "N-500",
+      "@id": "N-498",
+      "ref": "N-498",
       "name": "Doug DeGroot",
       "type": "person",
       "description": "Opening callback: board-member claim that media pressure forced rapid Erika CEO naming.",
@@ -907,8 +907,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-539",
-      "ref": "N-539",
+      "@id": "N-537",
+      "ref": "N-537",
       "name": "Todd Blanche",
       "type": "person",
       "description": "Named Epstein situation-room attendee; host revisits “files are mostly child pornography” DOJ posture.",
@@ -1622,8 +1622,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-381",
-      "ref": "N-381",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Feb 24 White House ask that Candace stop Brigitte coverage (via Charlie).",
@@ -1854,8 +1854,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-367",
-      "ref": "N-367",
+      "@id": "N-366",
+      "ref": "N-366",
       "name": "Cabot Phillips",
       "type": "person",
       "description": "Daily Wire figure who asked on August 14 to speak at UVU (transcribed Kabat Phillips).",
@@ -1871,8 +1871,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-382",
-      "ref": "N-382",
+      "@id": "N-380",
+      "ref": "N-380",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Named with Kash Patel as announcing the Brian Cole Jr. arrest (transcribed Dan Bonino).",
@@ -1888,8 +1888,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-423",
-      "ref": "N-423",
+      "@id": "N-421",
+      "ref": "N-421",
       "name": "Monica Lewinsky",
       "type": "person",
       "description": "Named in the host's account of the Mega mole story.",
@@ -1905,8 +1905,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-437",
-      "ref": "N-437",
+      "@id": "N-435",
+      "ref": "N-435",
       "name": "Bradley Hansell",
       "type": "person",
       "description": "Named in the timeline for his June 22 Senate confirmation.",
@@ -1922,8 +1922,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-497",
-      "ref": "N-497",
+      "@id": "N-495",
+      "ref": "N-495",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "TPUSA CMO named as involved in organizing the August 14 photo shoot.",
@@ -1939,8 +1939,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-533",
-      "ref": "N-533",
+      "@id": "N-531",
+      "ref": "N-531",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "Named by the host as the founder of the modeling-apartments company.",
@@ -1956,8 +1956,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-574",
-      "ref": "N-574",
+      "@id": "N-572",
+      "ref": "N-572",
       "name": "Faith Kates",
       "type": "person",
       "description": "Named by the host in connection with the modeling group tied to Brunel.",
@@ -1973,8 +1973,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-671",
-      "ref": "N-671",
+      "@id": "N-669",
+      "ref": "N-669",
       "name": "James Kaddis",
       "type": "person",
       "description": "Pastor whose Calvary Chapel hosted Erika's July 14 speech (transcribed James Catis).",
@@ -2676,7 +2676,7 @@
         "N-28",
         "N-36",
         "N-82",
-        "N-381"
+        "N-379"
       ]
     },
     {
@@ -2708,7 +2708,7 @@
         "N-154",
         "N-160",
         "N-162",
-        "N-539",
+        "N-537",
         "N-282"
       ]
     },
@@ -2859,7 +2859,7 @@
       "investigative_direction": "Obtain DeGroot's original statement in the Vanity Fair piece and any TPUSA press-inquiry logs from September 10-12, 2025.",
       "transcript_snippet": "according to Doug Degroot, the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie.",
       "mentions_person_refs": [
-        "N-500",
+        "N-498",
         "N-2"
       ]
     },
@@ -2883,7 +2883,7 @@
         "C-6353"
       ],
       "mentions_person_refs": [
-        "N-500",
+        "N-498",
         "N-3"
       ]
     },
@@ -3554,7 +3554,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-381",
+        "N-379",
         "N-82"
       ]
     },
@@ -3640,7 +3640,7 @@
       "investigative_direction": "Verify the appointment date through GHF announcements and press coverage.",
       "transcript_snippet": "On June 3, Johnny Moore actually takes over the chair as chairman of the Gaza Humanitarian Aid Project.",
       "mentions_person_refs": [
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -3659,7 +3659,7 @@
       "transcript_snippet": "Before Andrew started his own PR firm, he was working with Chyros.",
       "mentions_person_refs": [
         "N-14",
-        "N-441"
+        "N-439"
       ]
     },
     {
@@ -3761,7 +3761,7 @@
       "investigative_direction": "Check the Senate confirmation record and the DoD swearing-in date.",
       "transcript_snippet": "Bradley Hansel is confirmed by the Senate as the under secretary of defense uh for intelligence. His term is set to begin on July 25th.",
       "mentions_person_refs": [
-        "N-437"
+        "N-435"
       ]
     },
     {
@@ -3893,7 +3893,7 @@
       "transcript_snippet": "Erika Kirk travels aboard a private flight to Long Beach, California, and she speaks at James Catis' Calvary Chapel Church for the Women's Summer of Psalms retreat.",
       "mentions_person_refs": [
         "N-2",
-        "N-671"
+        "N-669"
       ]
     },
     {
@@ -4291,7 +4291,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-36",
-        "N-423"
+        "N-421"
       ]
     },
     {
@@ -4336,7 +4336,7 @@
       "investigative_direction": "Check the UVU independent review and records for Phillips's request.",
       "transcript_snippet": "Kabat Phillips reaches out to Turning Point USA at UVU and asks to speak on behalf of the Daily Wire for the fall campus tour.",
       "mentions_person_refs": [
-        "N-367"
+        "N-366"
       ]
     },
     {
@@ -4356,7 +4356,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-1",
-        "N-497"
+        "N-495"
       ]
     },
     {
@@ -4558,8 +4558,8 @@
       "transcript_snippet": "we asked Turning Point USA explicitly why we have people that worked there saying that Erika was in control of the modeling apartments company that John Luke Brunell started",
       "mentions_person_refs": [
         "N-2",
-        "N-533",
-        "N-574"
+        "N-531",
+        "N-572"
       ]
     },
     {
@@ -4597,7 +4597,7 @@
       "transcript_snippet": "And suddenly Kash Patel and Dan Bonino, they found the guy and it's an autistic black man named Brian Cole Jr.",
       "mentions_person_refs": [
         "N-69",
-        "N-382",
+        "N-380",
         "N-25"
       ]
     },

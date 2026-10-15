@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 3d4ae642f2e941bfd1fa196ba14e9aaeb18407acfcfbcad82179e0cc50d07169
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-927, N-11357, N-11358
-  - Hole-minted Nodes (reintro-ep121): N-496
+  - Tip-minted Nodes (supplement_2026-10f): N-925, N-11357, N-11358
+  - Hole-minted Nodes (reintro-ep121): N-494
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-13056–C-13119
   - New Nodes Introduced: N-10682, N-10686, N-10691, N-10693
-  - Reused Nodes Appearing: N-10685, N-10687, N-10688, N-10689, N-10694, N-10683, N-10684, N-10690, N-10692, N-491, N-10695, N-1, N-3, N-9, N-69, N-97, N-192, N-223, N-272, N-369, N-599, N-671, N-735, N-10001, N-10006, N-10116, N-10239, N-10346, N-10451, N-10519, N-10532, N-10676, N-10677, N-10678, N-10681, N-10699, N-10705, N-10729, N-10737, N-10768, N-10899, N-10900, N-10977, N-10983, N-11033, N-11054, N-11099, N-11244
+  - Reused Nodes Appearing: N-10685, N-10687, N-10688, N-10689, N-10694, N-10683, N-10684, N-10690, N-10692, N-489, N-10695, N-1, N-3, N-9, N-69, N-97, N-192, N-223, N-272, N-368, N-597, N-669, N-733, N-10001, N-10006, N-10116, N-10239, N-10346, N-10451, N-10519, N-10532, N-10676, N-10677, N-10678, N-10681, N-10699, N-10705, N-10729, N-10737, N-10768, N-10899, N-10900, N-10977, N-10983, N-11033, N-11054, N-11099, N-11244
   - (see registers)
 
 ---
@@ -409,7 +409,7 @@ Confidence Level: Low
 
 
 
-**N-491** Rick Cutler
+**N-489** Rick Cutler
 
 First named by the host at 00:10:43 in episode 121.
 
@@ -571,7 +571,7 @@ Investigative Pressure: High
 
 ---
 
-**N-927** Elizabeth Holmes
+**N-925** Elizabeth Holmes
 
 First named by the host at 00:56:01 in episode 121. Former biotech entrepreneur convicted of fraud, discussed in a commenter's comparison to Erika Kirk.
 
@@ -701,7 +701,7 @@ Dan Flood; front passenger, possible 911 caller, declined a promotion.
 
 ---
 
-**N-369** Jeremy Boreing
+**N-368** Jeremy Boreing
 
 Jeremy Boreing; Daily Wire co-founder, Pendragon.
 
@@ -709,7 +709,7 @@ Jeremy Boreing; Daily Wire co-founder, Pendragon.
 
 ---
 
-**N-496** Justin Davis
+**N-494** Justin Davis
 
 Justin Davis; driver per the host's seating graphic.
 
@@ -717,7 +717,7 @@ Justin Davis; driver per the host's seating graphic.
 
 ---
 
-**N-599** Jordan Peterson
+**N-597** Jordan Peterson
 
 Jordan Peterson; named in the Daily Wire firing story.
 
@@ -725,7 +725,7 @@ Jordan Peterson; named in the Daily Wire firing story.
 
 ---
 
-**N-671** James Kaddis
+**N-669** James Kaddis
 
 James Kaddis; pastor the host asks about as Erika's pastor.
 
@@ -733,7 +733,7 @@ James Kaddis; pastor the host asks about as Erika's pastor.
 
 ---
 
-**N-735** Sarah Tool
+**N-733** Sarah Tool
 
 Sarah Tool; witness who changed her story per the host.
 
@@ -971,7 +971,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states that the car door behind him remained open during the hospital ride because Charlie's leg was hanging out, and that Rick Cutler physically held Brian in place to prevent him from falling out.
 
 Anchored Artifacts: A-2094.2
-Mentions: N-268, N-491
+Mentions: N-268, N-489
 Related Nodes: N-10686
 Investigative Direction: Cross-reference with dash-cam / traffic-cam / police body cam footage to verify door-open configuration.
 
@@ -1015,7 +1015,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states that Rick Cutler reached across and held onto him so he would not fall out of the moving SUV while he attended to Charlie.
 
 Anchored Artifacts: A-2094.2
-Mentions: N-268, N-491
+Mentions: N-268, N-489
 Related Nodes: N-10686
 Investigative Direction: Cross-reference with Rick Cutler's own testimony if available; review photo evidence of Rick Cutler's clothing for blood patterns inconsistent with this holding posture.
 
@@ -1340,7 +1340,7 @@ Claim: The host says the SUV carried Dan Flood in the front passenger seat, Just
 Transcript Snippet: You've got Dan Flood there in the passenger seat. You've got Justin Davis driving.
 
 Anchored Artifacts: A-3243.1
-Mentions: N-272, N-496, N-268, N-491, N-1, N-7
+Mentions: N-272, N-494, N-268, N-489, N-1, N-7
 Related Nodes: N-10686
 Tags: relevance:core
 Investigative Direction: Confirm seating with each occupant's first-hand account and the SUV photos.
@@ -1389,7 +1389,7 @@ Claim: In the audio, Brian Harpole says both Frank Turek and Rick Cutler were pr
 Transcript Snippet: And Frank's praying out loud. Uh Rick's praying out loud.
 
 Anchored Artifacts: A-2094.2
-Mentions: N-268, N-7, N-491
+Mentions: N-268, N-7, N-489
 Related Nodes: N-10686
 Tags: relevance:core
 Investigative Direction: Ask Cutler and Turek independently what each did and said during the ride.
@@ -1555,7 +1555,7 @@ Claim: The host theorizes that Brian Harpole cut the shirt off in the car with a
 Transcript Snippet: And he began cutting Charlie's shirt off of him in the car with about 5 to 6 minutes on the clock.
 
 Anchored Artifacts: 
-Mentions: N-268, N-7, N-491, N-1
+Mentions: N-268, N-7, N-489, N-1
 Related Nodes: N-10684
 Tags: relevance:core
 Investigative Direction: Look for cut-fabric fragments or scissors in the car photos and compare with the shirt's cut pattern.
@@ -1861,7 +1861,7 @@ Claim: The host says the Daily Wire now admits it spent $50 million on just seve
 Transcript Snippet: they spent $50 million on on just seven episodes.
 
 Anchored Artifacts: A-2100.1
-Mentions: N-369
+Mentions: N-368
 Related Nodes: N-10900, N-10689
 Tags: relevance:context
 Investigative Direction: Check the Semafor article for the cost and the episode count.
@@ -1877,7 +1877,7 @@ Claim: The host says she has long said the cost was more than $50 million, close
 Transcript Snippet: more than $50 million, closer to 60, but at least they're finally admitting that it wasn't $10 million or $7 million as it had been reported in the past.
 
 Anchored Artifacts: A-2100.1
-Mentions: N-3, N-369
+Mentions: N-3, N-368
 Related Nodes: N-10900, N-10689
 Tags: relevance:context
 Investigative Direction: Locate the earlier reports with $10 million and $7 million and compare to the Semafor figure.
@@ -1893,7 +1893,7 @@ Claim: The host says Pendragon cost more per episode than HBO spent on season on
 Transcript Snippet: That means they spent more per an episode than HBO spent on the first season of Game of Thrones.
 
 Anchored Artifacts: A-2100.1
-Mentions: N-369
+Mentions: N-368
 Related Nodes: N-10900, N-10689
 Supports: C-3923
 Tags: relevance:context
@@ -1910,7 +1910,7 @@ Claim: The host says the Daily Wire was under financial pressure and needed to r
 Transcript Snippet: They were under financial pressure. They needed to remove people that they were paying.
 
 Anchored Artifacts: 
-Mentions: N-3, N-369, N-599
+Mentions: N-3, N-368, N-597
 Related Nodes: N-10900, N-10689
 Tags: relevance:context
 Investigative Direction: Review contracts, payroll and subscriber figures around the 2024 split.
@@ -1926,7 +1926,7 @@ Claim: The host says Brett Cooper left the Daily Wire later the same year, also 
 Transcript Snippet: That was then followed by Brett Cooper's exit later that same year also because of Jeremy Boreing and his mania.
 
 Anchored Artifacts: 
-Mentions: N-223, N-369
+Mentions: N-223, N-368
 Related Nodes: N-11244, N-10900
 Tags: relevance:context
 Investigative Direction: Compare Cooper's own statements about her exit.
@@ -2006,7 +2006,7 @@ Claim: The host says Sarah Tool, a witness, changed her story three times and th
 Transcript Snippet: regarding the Tool witness, Sarah Tool, who changed her story three times.
 
 Anchored Artifacts: 
-Mentions: N-735
+Mentions: N-733
 Related Nodes: N-10677
 Supports: C-2936, C-2937, C-2938
 Tags: relevance:core
@@ -2023,7 +2023,7 @@ Claim: The host says Sarah Tool was smiling the whole time while describing the 
 Transcript Snippet: You guys know that she was smiling, of course, the whole time
 
 Anchored Artifacts: 
-Mentions: N-735
+Mentions: N-733
 Related Nodes: N-10677
 Tags: relevance:core
 Investigative Direction: Review the three interviews for demeanor; this is the host's characterization.
@@ -2120,7 +2120,7 @@ Claim: The host reads and echoes a comment that Elizabeth Holmes was convicted o
 Transcript Snippet: She was the biotech entrepreneur who got convicted of fraud and then went to a fake prison that she's probably not even in.
 
 Anchored Artifacts: 
-Mentions: N-927
+Mentions: N-925
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Fringe; Holmes is held in a federal facility per the Bureau of Prisons.
@@ -2136,7 +2136,7 @@ Claim: The host relays a commenter's claim that a police car following Charlie's
 Transcript Snippet: there is a call from one of the police cars following Charlie's car, and they said it looked like someone was trying to jump out of the car.
 
 Anchored Artifacts: A-2102.9
-Mentions: N-491
+Mentions: N-489
 Related Nodes: N-10686
 Tags: relevance:core
 Investigative Direction: Obtain police radio and CAD logs.
@@ -2201,7 +2201,7 @@ Claim: The host says Erika said she took two years off to study the Bible and th
 Transcript Snippet: She took 2 years off to study the Bible and said no one saw her except for her pastor and her pastor's wife.
 
 Anchored Artifacts: 
-Mentions: N-2, N-671
+Mentions: N-2, N-669
 Related Nodes: N-10693
 Tags: relevance:core
 Investigative Direction: Find Erika's own statement of the two years and identify the pastor.

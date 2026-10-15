@@ -12,11 +12,11 @@
 - **Model Version**: grok-manual-extract-seq157
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-757, N-759, N-11074, N-11075, N-11076, N-11077, N-11078, N-11081
+  - Tip-minted Nodes (supplement_2026-10): N-755, N-757, N-11074, N-11075, N-11076, N-11077, N-11078, N-11081
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-6171–C-6285
   - New Nodes Introduced: N-10859, N-10861
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-273, N-226, N-268, N-7, N-272, N-161, N-10221, N-10243, N-10645, N-10373, N-10675, N-10694, N-10839, N-10840, N-8, N-10, N-11, N-12, N-10862, N-10863, N-5, N-9, N-19, N-22, N-36, N-37, N-40, N-46, N-59, N-69, N-85, N-192, N-219, N-229, N-333, N-364, N-382, N-493, N-510, N-539, N-671, N-10012, N-10018, N-10027, N-10074, N-10117, N-10122, N-10129, N-10219, N-10253, N-10264, N-10276, N-10324, N-10342, N-10347, N-10356, N-10366, N-10388, N-10412, N-10446, N-10456, N-10539, N-10651, N-10673, N-10674, N-10687, N-10699, N-10700, N-10725, N-10784, N-10841, N-10870, N-10871, N-10888, N-10925, N-758, N-10860, N-11080, N-228, N-11079, N-760
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-273, N-226, N-268, N-7, N-272, N-161, N-10221, N-10243, N-10645, N-10373, N-10675, N-10694, N-10839, N-10840, N-8, N-10, N-11, N-12, N-10862, N-10863, N-5, N-9, N-19, N-22, N-36, N-37, N-40, N-46, N-59, N-69, N-85, N-192, N-219, N-229, N-333, N-363, N-380, N-491, N-508, N-537, N-669, N-10012, N-10018, N-10027, N-10074, N-10117, N-10122, N-10129, N-10219, N-10253, N-10264, N-10276, N-10324, N-10342, N-10347, N-10356, N-10366, N-10388, N-10412, N-10446, N-10456, N-10539, N-10651, N-10673, N-10674, N-10687, N-10699, N-10700, N-10725, N-10784, N-10841, N-10870, N-10871, N-10888, N-10925, N-756, N-10860, N-11080, N-228, N-11079, N-758
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Minted here or reused: Maycee Crofts, Caleb Chilcutt, Tyler Bowyer, Kip Crofts. Baron Coleman spelling corrected, no new person.
 
@@ -358,7 +358,7 @@ Video Timestamp: 00:28:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6173, C-6203, C-6204, C-6205, C-6206, C-6207, C-6208, C-6209, C-6210, C-6211, C-6212, N-272, N-268, N-493*
+*Related: C-6173, C-6203, C-6204, C-6205, C-6206, C-6207, C-6208, C-6209, C-6210, C-6211, C-6212, N-272, N-268, N-491*
 
 ---
 
@@ -369,7 +369,7 @@ Video Timestamp: 00:35:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6174, C-6190, C-6191, C-6192, C-6193, C-6213, C-6214, C-6215, N-8, N-273, N-757*
+*Related: C-6174, C-6190, C-6191, C-6192, C-6193, C-6213, C-6214, C-6215, N-8, N-273, N-755*
 
 ---
 
@@ -435,7 +435,7 @@ Video Timestamp: 00:49:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6228, C-6229, C-6230, C-6231, N-510, N-1*
+*Related: C-6228, C-6229, C-6230, C-6231, N-508, N-1*
 
 ---
 
@@ -1003,7 +1003,7 @@ Named as Andrew Sypher in the transcript: TPUSA's longtime head of field, promot
 
 ---
 
-**N-364** Mitch Snow
+**N-363** Mitch Snow
 
 Named in the host's reference to Harpole's lawyer commenting on the Mitch story.
 
@@ -1011,7 +1011,7 @@ Named in the host's reference to Harpole's lawyer commenting on the Mitch story.
 
 ---
 
-**N-382** Dan Bongino
+**N-380** Dan Bongino
 
 Named by Charlie Kirk in the July 14 clip (transcript spelling Dan Bonino).
 
@@ -1019,7 +1019,7 @@ Named by Charlie Kirk in the July 14 clip (transcript spelling Dan Bonino).
 
 ---
 
-**N-493** Lori Frantzve
+**N-491** Lori Frantzve
 
 Named for the host's remark linking her family to EMPs.
 
@@ -1027,7 +1027,7 @@ Named for the host's remark linking her family to EMPs.
 
 ---
 
-**N-510** Christopher Bagley
+**N-508** Christopher Bagley
 
 Officer Bagley, named in the review passage on the first suggestion to go up to the Losee Center roof.
 
@@ -1035,7 +1035,7 @@ Officer Bagley, named in the review passage on the first suggestion to go up to 
 
 ---
 
-**N-539** Todd Blanche
+**N-537** Todd Blanche
 
 Named by Charlie Kirk in the July 14 clip among officials he trusts.
 
@@ -1043,7 +1043,7 @@ Named by Charlie Kirk in the July 14 clip among officials he trusts.
 
 ---
 
-**N-671** James Kaddis
+**N-669** James Kaddis
 
 Named as the Calvary Chapel pastor hosting Erika's July 14 speech (transcript spelling James Catis).
 
@@ -1323,7 +1323,7 @@ Organization whose finances are the subject of the missing money rumors.
 
 ---
 
-**N-757** Robin Emer
+**N-755** Robin Emer
 
 Node Type: Person
 First named by the host at 00:36:24 in episode 157 as UVU's director of emergency management and safety who expressed reservations at the August 25 MEAC meeting.
@@ -1333,7 +1333,7 @@ Aliases (transcript spelling): Robin Emer.
 
 ---
 
-**N-758** Astrid Tuminez
+**N-756** Astrid Tuminez
 
 Node Type: Person
 First named by the host at 00:23:46 in episode 157 as UVU President, in the transcript spelling Tumz.
@@ -1343,7 +1343,7 @@ Aliases (transcript spelling): Tumz. The full name is not stated in this transcr
 
 ---
 
-**N-759** Alana Minton
+**N-757** Alana Minton
 
 Node Type: Person
 First named by the host at 01:11:03 in episode 157 as the Canyon County prosecuting attorney who told the judge the classroom door may have been locked.
@@ -1352,7 +1352,7 @@ First named by the host at 01:11:03 in episode 157 as the Canyon County prosecut
 
 ---
 
-**N-760** Claire Ginan
+**N-758** Claire Ginan
 
 Node Type: Person
 First named by the host at 01:27:40 in episode 157 as the writer of a June 26 Jezebel article with no prior writing profile.
@@ -2001,7 +2001,7 @@ Claim: The host reads that UVU President Tumz requested updates regarding event 
 Transcript Snippet: UVU President Tumz requested updates regarding event planning on the 31st.
 
 Anchored Artifacts: A-2802.4
-Mentions: N-758
+Mentions: N-756
 Related Nodes: N-10012
 Investigative Direction: Obtain the president's office request and the response it received.
 
@@ -2109,7 +2109,7 @@ Claim: The host says that, on learning of the EMP threat, she recalls that Lori 
 Transcript Snippet: whose family was super involved with EMPs? Lorie Frantzve EMPs.
 
 Anchored Artifacts: A-2802.5
-Mentions: N-493, N-2
+Mentions: N-491, N-2
 Related Nodes: N-10861
 Investigative Direction: Document Frantzve family patents, companies or filings concerning EMP technology.
 
@@ -2276,7 +2276,7 @@ Claim: The host reads that Crofts said she preferred that TPUSA manage online ti
 Transcript Snippet: She said that she preferred that TPUSA manage online ticketing through its national office in Phoenix.
 
 Anchored Artifacts: A-2802.6
-Mentions: N-8, N-757
+Mentions: N-8, N-755
 Related Nodes: N-11077
 Investigative Direction: Obtain Emer's statements to the review team on her reservations and the committee's decision rationale.
 
@@ -2490,7 +2490,7 @@ Claim: The host reads that Officer Bagley was the first to suggest going up to t
 Transcript Snippet: Officer Bagley identified the elevated roof area of the Loy Center as a possible source location of the asalent.
 
 Anchored Artifacts: A-2802.12
-Mentions: N-510
+Mentions: N-508
 Related Nodes: N-10725
 Investigative Direction: Obtain Bagley's report and dispatch audio showing when he made the suggestion.
 
@@ -2505,7 +2505,7 @@ Claim: The host reads that Bagley located a screwdriver and an area of disturbed
 Transcript Snippet: he locates a screwdriver and an area of disturbed gravel on the roof that appeared consistent with a possible prone shooting position.
 
 Anchored Artifacts: A-2802.12
-Mentions: N-510
+Mentions: N-508
 Related Nodes: N-10725
 Investigative Direction: Obtain the evidence log and photographs of the screwdriver and gravel location.
 
@@ -2520,7 +2520,7 @@ Claim: The host says Officer Bagley's body camera footage went off because of a 
 Transcript Snippet: Officer Bagley, whose body cam footage went off, um lost the battery.
 
 Anchored Artifacts: A-2802.12
-Mentions: N-510
+Mentions: N-508
 Related Nodes: N-10725
 Investigative Direction: Obtain Bagley's testimony and UVUPD body camera inventory and battery records.
 
@@ -2535,7 +2535,7 @@ Claim: The host says that Officer Bagley and others involved have an interesting
 Transcript Snippet: They're all, they all kind of have this background history in sex crimes.
 
 Anchored Artifacts: A-2802.12
-Mentions: N-510, N-1
+Mentions: N-508, N-1
 Related Nodes: N-10784
 Investigative Direction: Verify Bagley's assignment history and the other officers' backgrounds from personnel records.
 
@@ -2746,7 +2746,7 @@ Claim: In the same clip Charlie Kirk says he would love to see the DOJ move to u
 Transcript Snippet: I would love to see the DOJ move to unseal the grand jury testimony.
 
 Anchored Artifacts: A-2803.1
-Mentions: N-1, N-69, N-382, N-85, N-539
+Mentions: N-1, N-69, N-380, N-85, N-537
 Related Nodes: N-10324
 Investigative Direction: Transcribe the clip from the primary broadcast and confirm which officials he named.
 
@@ -2776,7 +2776,7 @@ Claim: The host's timeline states that on July 14 Erika Kirk traveled aboard a p
 Transcript Snippet: On the 14th, Erika travels aboard a private flight to Long Beach, California.
 
 Anchored Artifacts: A-2456.1
-Mentions: N-2, N-671
+Mentions: N-2, N-669
 Related Nodes: N-10264, N-10871
 Investigative Direction: Obtain the flight record and Calvary Chapel event listing for July 14.
 
@@ -2791,7 +2791,7 @@ Claim: The host says Erika Kirk gave a speech at James Kaddis' women's retreat t
 Transcript Snippet: she gives a speech that's pro-Israel about a call to arms despite what Charlie's going through.
 
 Anchored Artifacts: A-2456.1
-Mentions: N-2, N-671, N-1
+Mentions: N-2, N-669, N-1
 Related Nodes: N-10264
 Investigative Direction: Obtain the recording or transcript of the speech at the retreat.
 
@@ -3096,7 +3096,7 @@ Claim: The host says Canyon County prosecuting attorney Alana Minton told the ju
 Transcript Snippet: the Canyon County prosecuting attorney Alana Minton told the judge that a new piece of information came to light
 
 Anchored Artifacts: A-2457.1, A-2804.4
-Mentions: N-759, N-12
+Mentions: N-757, N-12
 Related Nodes: 
 Investigative Direction: Obtain the hearing transcript and dismissal order from the Canyon County court.
 
@@ -3247,7 +3247,7 @@ Claim: The host says Brian Harpole's lawyer, who filed a lawsuit against her, ca
 Transcript Snippet: we should totally trust his lawyer filing a lawsuit against me who came to you multiple times
 
 Anchored Artifacts: 
-Mentions: N-268, N-3, N-364
+Mentions: N-268, N-3, N-363
 Related Nodes: N-10373, N-10651
 Investigative Direction: Obtain the lawyer's communications with the host and the complaint's stated alibi.
 
@@ -3353,7 +3353,7 @@ Claim: The host says that on June 26 Claire Ginan wrote her first article for Je
 Transcript Snippet: on June 26th is when suddenly Claire Ginan writes her first article for Jezebel.
 
 Anchored Artifacts: A-2456.1
-Mentions: N-760
+Mentions: N-758
 Related Nodes: N-10122, N-10117
 Investigative Direction: Check Ginan's byline history and the publication date of the Jezebel article.
 

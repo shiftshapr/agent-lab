@@ -29,13 +29,13 @@ Source: auto:en; cleaned (lexicon + paragraph merge). Music cues dropped. No inv
 
 [00:00]
 
-All right, you guys, happy Thursday. Sorry, I am running late. B- I I was just doing so much research. I have so much to tell you all today. So, we have to jump right into this because I actually have a horror story for you, an actual real-life horror story for you. Someone called me last night and told me a very strange story about what happened to her back in the '90s at an evangelical university. But first, we have to revisit Brian Herpolsheimer's story about how far in advance they typically plan security because someone has leaked to me another glaring oddity in this security protocol. Let's jump right back in. Welcome back to Candace.
+All right, you guys, happy Thursday. Sorry, I am running late. B- I I was just doing so much research. I have so much to tell you all today. So, we have to jump right into this because I actually have a horror story for you, an actual real-life horror story for you. Someone called me last night and told me a very strange story about what happened to her back in the '90s at an evangelical university. But first, we have to revisit Brian Harpole's story about how far in advance they typically plan security because someone has leaked to me another glaring oddity in this security protocol. Let's jump right back in. Welcome back to Candace.
 
 ## Inconsistency in Brian Harpole's story.
 
 [00:57]
 
-Do you know what I think? I think that whoever made the decision for Brian Herpolsheimer to sit down with Shawn Ryan made a terrible mistake. Big PR mistake, PR nightmare. That's kind of been the story here. One long uh bad PR decision after the next because the issue is Brian said too much. The internet is meticulous. The internet is clocking them every sentence. It's really easy to catch people in inconsistencies and then to keep replaying what they said about certain things, especially when they don't add up. So, I would like to gently remind you all back at home what Brian Herpolsheimer said about what it typical preparations entail for Charlie Kirk events. Take a listen. Let's move into the threat assessment and the pre-planning for the event.
+Do you know what I think? I think that whoever made the decision for Brian Harpole to sit down with Shawn Ryan made a terrible mistake. Big PR mistake, PR nightmare. That's kind of been the story here. One long uh bad PR decision after the next because the issue is Brian said too much. The internet is meticulous. The internet is clocking them every sentence. It's really easy to catch people in inconsistencies and then to keep replaying what they said about certain things, especially when they don't add up. So, I would like to gently remind you all back at home what Brian Harpole said about what it typical preparations entail for Charlie Kirk events. Take a listen. Let's move into the threat assessment and the pre-planning for the event.
 
 [01:46]
 
@@ -47,7 +47,7 @@ And so anybody can make command decisions for the betterment of the client or th
 
 [04:13]
 
-Okay, so that's in Woodland Park, Colorado. He was slated to speak there. And according to this person after Charlie got assassinated, there was a bit of a panicked meeting that took place, which was headed by the chief of police. They decided uh to transform this event into a vigil. And they were panicked because, believe it or not, they had absolutely no security plan in place. They thought, "How odd. We have We don't have a security plan in place. Now we better consider this. Um and we need to make sure that we have police officer involvement." Why didn't Dan Flood and Brian Herpolsheimer and Turning Point USA's security have any coordination with the police departments up in Colorado? If this is what they normally do and you know, whatever the way he over describes that and they get the plan and everybody can access and start to begin to speak and then we speak to the police and then we do all this stuff.
+Okay, so that's in Woodland Park, Colorado. He was slated to speak there. And according to this person after Charlie got assassinated, there was a bit of a panicked meeting that took place, which was headed by the chief of police. They decided uh to transform this event into a vigil. And they were panicked because, believe it or not, they had absolutely no security plan in place. They thought, "How odd. We have We don't have a security plan in place. Now we better consider this. Um and we need to make sure that we have police officer involvement." Why didn't Dan Flood and Brian Harpole and Turning Point USA's security have any coordination with the police departments up in Colorado? If this is what they normally do and you know, whatever the way he over describes that and they get the plan and everybody can access and start to begin to speak and then we speak to the police and then we do all this stuff.
 
 [05:10]
 

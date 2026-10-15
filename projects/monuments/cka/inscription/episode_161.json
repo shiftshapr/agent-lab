@@ -592,7 +592,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-283",
-        "N-597"
+        "N-595"
       ]
     },
     {
@@ -1440,8 +1440,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-558",
-      "ref": "N-558",
+      "@id": "N-556",
+      "ref": "N-556",
       "name": "Carrie Prejean Bowler",
       "type": "person",
       "description": "Traveling with Candace in Spain when coordinated smear wave hit.",
@@ -1460,8 +1460,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-597",
-      "ref": "N-597",
+      "@id": "N-595",
+      "ref": "N-595",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Pounds resignation praises Hegseth leadership; DoW framing.",
@@ -1679,8 +1679,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-876",
-      "ref": "N-876",
+      "@id": "N-874",
+      "ref": "N-874",
       "name": "Dana White",
       "type": "person",
       "description": "First named by the host at 00:30:50 in episode 161 (reading the Atlantic article). UFC CEO listed among those Blake Wynn says sat near Trump at Mar-a-Lago on election night 2024.",
@@ -1696,8 +1696,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-877",
-      "ref": "N-877",
+      "@id": "N-875",
+      "ref": "N-875",
       "name": "Steve Witkoff",
       "type": "person",
       "description": "First named by the host at 00:30:50 in episode 161 (transcribed \"Steve Witco\"). Trump's friend and special envoy, listed in the same Mar-a-Lago election-night account.",
@@ -1768,8 +1768,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-748",
-      "ref": "N-748",
+      "@id": "N-746",
+      "ref": "N-746",
       "name": "Howard Hughes",
       "type": "person",
       "description": "Las Vegas billionaire whose company the host says was chopped up.",
@@ -1906,7 +1906,7 @@
       "investigative_direction": "Preserve resignation post; confirm SGE appointment dates vs thread timestamps.",
       "mentions_person_refs": [
         "N-283",
-        "N-597"
+        "N-595"
       ]
     },
     {
@@ -2426,7 +2426,7 @@
       "transcript_snippet": "You remember um I was away in Spain. That's why it was even more odd. The show was off air two weeks and despite this I was being inundated from every direction with these sorts of attacks.",
       "mentions_person_refs": [
         "N-3",
-        "N-558"
+        "N-556"
       ]
     },
     {
@@ -2891,8 +2891,8 @@
         "N-354",
         "N-5",
         "N-118",
-        "N-876",
-        "N-877"
+        "N-874",
+        "N-875"
       ]
     },
     {
@@ -3175,7 +3175,7 @@
       "investigative_direction": "Verify the post-Hughes ownership history of Hughes Summa assets in Las Vegas.",
       "transcript_snippet": "after his company got chopped up. Adelson got a piece. The Wind family got a piece.",
       "mentions_person_refs": [
-        "N-748"
+        "N-746"
       ]
     },
     {

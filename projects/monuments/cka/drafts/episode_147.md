@@ -16,9 +16,9 @@
   - Tip-minted Nodes (reintro-ep147): N-11215
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14797–C-14853
-  - Reused Nodes Appearing: N-10825, N-10820, N-17, N-18, N-137, N-204, N-272, N-332, N-489, N-10021, N-10025, N-10198, N-10320, N-10338, N-10389, N-10550, N-10566, N-10632, N-10651, N-10686, N-10715, N-10818, N-10888, N-11061, N-11208, N-11262, N-11321
+  - Reused Nodes Appearing: N-10825, N-10820, N-17, N-18, N-137, N-204, N-272, N-332, N-487, N-10021, N-10025, N-10198, N-10320, N-10338, N-10389, N-10550, N-10566, N-10632, N-10651, N-10686, N-10715, N-10818, N-10888, N-11061, N-11208, N-11262, N-11321
  - New Nodes Introduced: N-10821, N-10822, N-10823, N-10824, N-10826
- - Reused Nodes Appearing: N-370, N-429, N-496, N-508
+ - Reused Nodes Appearing: N-369, N-427, N-494, N-506
  - (see registers)
 
 ---
@@ -291,13 +291,13 @@ Video Timestamp: 00:12:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14809, N-496, N-3*
+*Related: C-14809, N-494, N-3*
 
 ---
 
 ## IV. Node Register
 
-**N-496** Justin Davis
+**N-494** Justin Davis
 
 Named by the host at 00:12:13 in episode 147; first introduced in episode 124.
 
@@ -305,7 +305,7 @@ Named by the host at 00:12:13 in episode 147; first introduced in episode 124.
 
 
 
-**N-370** Danny Philip
+**N-369** Danny Philip
 
 Footage discussed by the host shows Danny Phillip running, meeting and ducking down with Mikey McCoy in front of Kirk's vehicle.
 
@@ -535,7 +535,7 @@ Baron Coleman; he received the TikTok clip and showed it to the host.
 
 ---
 
-**N-429** Richard Novak
+**N-427** Richard Novak
 
 Defense counsel whose probable-cause argument was clipped on X.
 
@@ -543,7 +543,7 @@ Defense counsel whose probable-cause argument was clipped on X.
 
 ---
 
-**N-489** Justin Baldoni
+**N-487** Justin Baldoni
 
 Justin Baldoni; cited with the Lively case as a past series.
 
@@ -551,7 +551,7 @@ Justin Baldoni; cited with the Lively case as a past series.
 
 ---
 
-**N-508** Nate Walker
+**N-506** Nate Walker
 
 Nate Walker; seen upstairs with Christopher and counted among those at the hospital.
 
@@ -824,7 +824,7 @@ Claim Timestamp: 00:20:06
 Claim: In the post-shot sequence, Justin Davis (driver of the Lincoln Navigator) sprinted to and opened the passenger-side door of a vehicle he had not arrived in, alongside Blake Neff, who was also not a passenger of that vehicle.
 
 Anchored Artifacts: A-2329.1
-Mentions: N-161, N-496
+Mentions: N-161, N-494
 
 Related Nodes: N-10822
 
@@ -837,7 +837,7 @@ Claim Timestamp: 00:21:00
 Claim: Footage shows Mikey McCoy and Danny Phillip running, meeting, and "ducking down" together in front of Kirk's vehicle, in what the host characterizes as a coordinated sequence.
 
 Anchored Artifacts: A-2329.2
-Mentions: N-370, N-192, N-496
+Mentions: N-369, N-192, N-494
 
 Related Nodes: N-10820
 
@@ -863,7 +863,7 @@ Claim Timestamp: 00:22:38
 Claim: As Kirk's vehicle departed for the hospital, a backpack fell from or was tossed from the trunk. Host speculates it is "Chris's bag" but states "not 100% certain."
 
 Anchored Artifacts: A-2329.3
-Mentions: N-496
+Mentions: N-494
 
 Related Nodes: N-10822
 
@@ -876,7 +876,7 @@ Claim Timestamp: 00:16:16
 Claim: Charlie Kirk communicated the night before September 10 that he feared for his life, that he thought they were going to kill him – a claim his wife initially denied and then conceded, and which he allegedly extended to his security team.
 
 Anchored Artifacts: A-2329 (host narration; no audio or document displayed in this episode presenting the prior communication)
-Mentions: N-1, N-2, N-496
+Mentions: N-1, N-2, N-494
 
 Related Nodes:
 
@@ -889,7 +889,7 @@ Claim Timestamp: 00:17:03
 Claim: The host says Christopher (Kirk's main security person) and Nate Walker walked toward the Sorensen building and were upstairs in the minutes before the shot, in a clip she says was sent via TikTok to Baron Coleman.
 
 Anchored Artifacts: A-2329.4
-Mentions: N-508
+Mentions: N-506
 
 Related Nodes: N-10821
 
@@ -927,7 +927,7 @@ Claim Timestamp: 00:12:54
 Claim: The host says that, based on the security team's testimonies, the two security vehicles (a black Jeep Wagoneer and a Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., before Charlie Kirk arrived in Salt Lake City for the restaurantology event.
 
 Anchored Artifacts: A-2330 (diagram only; times based on host narrative)
-Mentions: N-1, N-496
+Mentions: N-1, N-494
 
 Related Nodes: N-10820
 
@@ -1004,7 +1004,7 @@ Claim Timestamp: 00:40:50
 Claim: Blake Neff and Brandon Tatum sent an identical X post accusing defense attorney Richard Novac of "trashing Charlie" by stating that Kirk "spoke hatefully about people who were not heterosexual or had sex outside of marriage."
 
 Anchored Artifacts: A-2335
-Mentions: N-161, N-429
+Mentions: N-161, N-427
 
 Related Nodes: N-10824
 
@@ -1017,7 +1017,7 @@ Claim Timestamp: 00:42:00
 Claim: The host says defense counsel Richard Novac, in his probable-cause-hearing argument, was not advancing a personal thesis that political assassinations are acceptable but was citing the state's own theory to argue that the state had failed to satisfy its burden even on its own framing.
 
 Anchored Artifacts: A-2336, A-2337
-Mentions: N-40, N-429
+Mentions: N-40, N-427
 
 Related Nodes: N-10824, N-10825
 
@@ -1423,7 +1423,7 @@ Claim: The host says the Lincoln Navigator behind the Wagoneer was driven by Jus
 Transcript Snippet: The driver of that Lincoln Navigator is Justin Davis, okay? Justin, this is extremely important. Dan Flood's in that vehicle, Brian Harpole is in that vehicle
 
 Anchored Artifacts: A-2330
-Mentions: N-496, N-272, N-268
+Mentions: N-494, N-272, N-268
 Related Nodes: N-10820
 Tags: relevance:core
 Investigative Direction: Cross-check the vehicle assignments against Harpole's and Flood's own accounts and against hospital arrival video.
@@ -1439,7 +1439,7 @@ Claim: The host says Justin Davis is the security vehicle driver who will eventu
 Transcript Snippet: he's going to eventually be the driver that takes Charlie to the hospital.
 
 Anchored Artifacts: A-3347.1
-Mentions: N-496, N-1
+Mentions: N-494, N-1
 Related Nodes: N-10823, N-10686
 Tags: relevance:core
 Investigative Direction: Compare against testimony and hospital footage about who drove Kirk and in which vehicle.
@@ -1487,7 +1487,7 @@ Claim: The host says the second Denali was driven by Danny Phillip with Blake Ne
 Transcript Snippet: when they pull up, you have Danny Phillip driving, and you have Blake Neff in the back seat.
 
 Anchored Artifacts: A-2330
-Mentions: N-370, N-161
+Mentions: N-369, N-161
 Related Nodes: N-10820, N-10715
 Tags: relevance:core
 Investigative Direction: Confirm seating from arrival video and from Neff's and Phillip's testimony.
@@ -1503,7 +1503,7 @@ Claim: The host says Blake Neff is weird in discussing how he arrived at UVU and
 Transcript Snippet: Blake is very weird about discussing their arrival, who he was with. And also, when they were in Salt Lake City with Charlie, he doesn't remember what they did
 
 Anchored Artifacts: A-2330
-Mentions: N-161, N-370, N-1
+Mentions: N-161, N-369, N-1
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Compare Neff's testimony and public statements about his arrival with his itinerary records.
@@ -1535,7 +1535,7 @@ Claim: The host says Charlie Kirk was put in the vehicle within 45 seconds, and 
 Transcript Snippet: they get Charlie in that car within 45 seconds, right?
 
 Anchored Artifacts: A-2330
-Mentions: N-1, N-496
+Mentions: N-1, N-494
 Related Nodes: N-10822
 Tags: relevance:core
 Investigative Direction: Time the sequence from the shot to loading using the available footage.
@@ -1584,7 +1584,7 @@ Claim: The host says the clip showing Christopher and Nate Walker heading upstai
 Transcript Snippet: somebody on Tik Tok, I think, sent it to Baron Coleman, and then Baron showed it to me
 
 Anchored Artifacts: A-2329.4
-Mentions: N-332, N-508, N-3
+Mentions: N-332, N-506, N-3
 Related Nodes: N-10821
 Tags: relevance:core
 Investigative Direction: Obtain the original TikTok post and uploader and verify date and location metadata.
@@ -1616,7 +1616,7 @@ Claim: The host says the keys were apparently either waiting in the car or someh
 Transcript Snippet: That keys were apparently either waiting in the car or somehow given to Justin Davis before this, I don't know.
 
 Anchored Artifacts: A-2329.1
-Mentions: N-496
+Mentions: N-494
 Related Nodes: N-10822
 Tags: relevance:core
 Investigative Direction: Ask Davis and Christopher where the keys were and who handed them over.
@@ -1632,7 +1632,7 @@ Claim: The host says that in the footage nobody asks where Chris is or for the k
 Transcript Snippet: No nobody's going, "Hey, where's Chris? We need the keys." It's just open and ready for them.
 
 Anchored Artifacts: A-2329.1
-Mentions: N-496
+Mentions: N-494
 Related Nodes: N-10822
 Tags: relevance:core
 Investigative Direction: Frame-by-frame review of the footage for any exchange of keys or request for them.
@@ -1648,7 +1648,7 @@ Claim: The host says that when Blake Neff tells the story of what happened he my
 Transcript Snippet: he just mysteriously keeps leaving Danny Philip out of everything.
 
 Anchored Artifacts: A-2329.2
-Mentions: N-161, N-370, N-192
+Mentions: N-161, N-369, N-192
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Compare each of Neff's retellings with the footage and note when Phillip is and is not mentioned.
@@ -1697,7 +1697,7 @@ Claim: The host says it is known that Nate Walker, Blake Neff, Danny Phillip and
 Transcript Snippet: We know that it's going to be Nate Walker and Blake and Danny Phillip and Mikey McCoy that arrived to the hospital.
 
 Anchored Artifacts: 
-Mentions: N-508, N-161, N-370, N-192
+Mentions: N-506, N-161, N-369, N-192
 Related Nodes: N-10823, N-11208
 Tags: relevance:core
 Investigative Direction: Pull hospital arrival footage and testimony to confirm who arrived and in what vehicle.
@@ -1777,7 +1777,7 @@ Claim: The host says the SUV that Blake Neff and Danny Phillip used was a big SU
 Transcript Snippet: you have this big SUV that you rented
 
 Anchored Artifacts: 
-Mentions: N-161, N-370
+Mentions: N-161, N-369
 Related Nodes: N-10823
 Tags: relevance:core
 Investigative Direction: Obtain rental records for the Denalis and identify who rented them.
@@ -1809,7 +1809,7 @@ Claim: The host says the video Matt Walsh shared was clearly sent out for a bunc
 Transcript Snippet: he shares this video, which was clearly sent out for a bunch of people to share and to try to delude the public into believing that that is what was happening
 
 Anchored Artifacts: A-2332
-Mentions: N-165, N-429
+Mentions: N-165, N-427
 Related Nodes: N-10824
 Tags: relevance:context
 Investigative Direction: Trace the clip's first posting account and its spread.
@@ -1841,7 +1841,7 @@ Claim: Defense counsel Richard Novac says in the audio played that it is true Mr
 Transcript Snippet: It is true that Mr. Kirk spoke hatefully of certain groups of people.
 
 Anchored Artifacts: A-2336
-Mentions: N-429, N-1
+Mentions: N-427, N-1
 Related Nodes: N-10824, N-10825
 Tags: relevance:core
 Investigative Direction: Obtain the full hearing transcript to verify the wording and context.
@@ -1857,7 +1857,7 @@ Claim: Novac says in the audio played that the evidence from Mr. Twiggs is that 
 Transcript Snippet: it is true that the evidence from Mr. Twiggs is that um he identified in a non-gender-conforming way to his friends, and that he was in a romantic relationship with Mr. Robinson.
 
 Anchored Artifacts: A-2336
-Mentions: N-429, N-54, N-40
+Mentions: N-427, N-54, N-40
 Related Nodes: N-10825
 Tags: relevance:core
 Investigative Direction: Check the hearing record for what Twiggs's evidence consisted of and whether it was hearsay.
@@ -1873,7 +1873,7 @@ Claim: Novac says in the audio played that there is a significant gap between wh
 Transcript Snippet: And it's a significant gap because what it allows the state to do is to make it up.
 
 Anchored Artifacts: A-2336
-Mentions: N-429, N-1, N-40
+Mentions: N-427, N-1, N-40
 Related Nodes: N-10825
 Tags: relevance:core
 Investigative Direction: Read the defense filing on political expression and the statutory wording cited.
@@ -2079,7 +2079,7 @@ Claim: The host says she does not do things halfway and treated the Blake Lively
 Transcript Snippet: Like it was with the Blake and Justin Baldoni case, as it it was with the Kamala Chronicles, and as it is now with the Charlie Kirk case.
 
 Anchored Artifacts: A-2340
-Mentions: N-3, N-489
+Mentions: N-3, N-487
 Tags: relevance:tangential
 Investigative Direction: Review the host's prior series for comparable depth.
 

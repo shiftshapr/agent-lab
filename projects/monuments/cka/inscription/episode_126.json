@@ -58,7 +58,7 @@
           "related_nodes": [
             "N-10717",
             "N-10718",
-            "N-509"
+            "N-507"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -77,7 +77,7 @@
           ],
           "related_nodes": [
             "N-10718",
-            "N-509"
+            "N-507"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -479,7 +479,7 @@
             "C-9006"
           ],
           "related_nodes": [
-            "N-434"
+            "N-432"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -768,8 +768,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-434",
-      "ref": "N-434",
+      "@id": "N-432",
+      "ref": "N-432",
       "name": "Brad Parscale",
       "type": "person",
       "description": "Named by the host at 00:34:37 in episode 126; first introduced in episode 99.",
@@ -786,8 +786,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-509",
-      "ref": "N-509",
+      "@id": "N-507",
+      "ref": "N-507",
       "name": "Jennifer Faumuina",
       "type": "person",
       "description": "First named by the host at 00:08:30 in episode 126. Aliases: Jennifer Filomena, Jennifer Felomina, Jennifer Faumuina.",
@@ -807,8 +807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-508",
-      "ref": "N-508",
+      "@id": "N-506",
+      "ref": "N-506",
       "name": "Nate Walker",
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 126.",
@@ -1567,8 +1567,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-456",
-      "ref": "N-456",
+      "@id": "N-454",
+      "ref": "N-454",
       "name": "Lindsey Graham",
       "type": "person",
       "description": "Named in a rhetorical aside about succession.",
@@ -1601,8 +1601,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-526",
-      "ref": "N-526",
+      "@id": "N-524",
+      "ref": "N-524",
       "name": "Nicki Minaj",
       "type": "person",
       "description": "Named in the host's contrast about celebrity interviews.",
@@ -1652,8 +1652,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-825",
-      "ref": "N-825",
+      "@id": "N-823",
+      "ref": "N-823",
       "name": "Helen Comperatore",
       "type": "person",
       "description": "First named by the host at 00:28:31 in episode 126 (spelled Helen Compator and Helen Gambadoro in the transcript). Widow of Corey Comperatore, interviewed on NewsNation. Aliases: Helen Compator; Helen Gambadoro.",
@@ -1673,8 +1673,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-826",
-      "ref": "N-826",
+      "@id": "N-824",
+      "ref": "N-824",
       "name": "Eyal Yakoby",
       "type": "person",
       "description": "First named by the host at 00:34:37 in episode 126. Account the host says the Time article names and that she regards as paid.",
@@ -1779,7 +1779,7 @@
       "claim_timestamp": "00:08:30",
       "investigative_direction": "Obtain hearing transcript or video exhibits to verify item count (three vs. nine) and chain of custody.",
       "mentions_person_refs": [
-        "N-509"
+        "N-507"
       ]
     },
     {
@@ -1798,7 +1798,7 @@
       "claim_timestamp": "00:09:25",
       "investigative_direction": "Obtain FBI/ATF lab correspondence and UVU communications log for the testing discontinuation instruction.",
       "mentions_person_refs": [
-        "N-509"
+        "N-507"
       ]
     },
     {
@@ -1936,7 +1936,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-46",
-        "N-508"
+        "N-506"
       ]
     },
     {
@@ -1990,7 +1990,7 @@
       "claim_timestamp": "00:34:37",
       "investigative_direction": "Obtain Time article in full; verify spend figures and named individuals (e.g., Eyal Yakoby).",
       "mentions_person_refs": [
-        "N-434"
+        "N-432"
       ]
     },
     {
@@ -2009,7 +2009,7 @@
       "claim_timestamp": "00:35:39",
       "investigative_direction": "Verify the $1.5M/day figure against the Time article text and any underlying contracts/filings cited.",
       "mentions_person_refs": [
-        "N-434"
+        "N-432"
       ]
     },
     {
@@ -2208,7 +2208,7 @@
       "investigative_direction": "Obtain the hearing transcript and the evidence item log for the library bus stop seizures to establish the item count.",
       "transcript_snippet": "Does that ring a bell? >> I don't remember. >> Uh those whatever was seized was sent to the FBI lab for processing. >> Yes.",
       "mentions_person_refs": [
-        "N-509"
+        "N-507"
       ]
     },
     {
@@ -2230,7 +2230,7 @@
       "investigative_direction": "Obtain the FBI lab request forms and chain-of-custody sheets for the items to see which analyses were requested.",
       "transcript_snippet": "Was a decision at some time made and and you were requesting that both DNA and other type of analysis get done? >> Yes.",
       "mentions_person_refs": [
-        "N-509"
+        "N-507"
       ]
     },
     {
@@ -2256,7 +2256,7 @@
         "C-3028"
       ],
       "mentions_person_refs": [
-        "N-509"
+        "N-507"
       ]
     },
     {
@@ -2278,7 +2278,7 @@
       "investigative_direction": "Measure the walking distance from the Losee Center to the library bus stops and obtain the hearing testimony that set the route.",
       "transcript_snippet": "Just so you guys know, the library is not near Loews Center.",
       "mentions_person_refs": [
-        "N-509"
+        "N-507"
       ]
     },
     {
@@ -2663,7 +2663,7 @@
       "investigative_direction": "Obtain the hearing transcript passage where the route was established and the evidence the officers used to draw it.",
       "transcript_snippet": "in terms of that route, going the Losee Center over to the library, which she makes very clear that's the route that the uh the shooter took.",
       "mentions_person_refs": [
-        "N-509"
+        "N-507"
       ]
     },
     {
@@ -2790,7 +2790,7 @@
         "C-4570"
       ],
       "mentions_person_refs": [
-        "N-825",
+        "N-823",
         "N-105"
       ]
     },
@@ -2839,7 +2839,7 @@
         "C-3037"
       ],
       "mentions_person_refs": [
-        "N-825",
+        "N-823",
         "N-104"
       ]
     },
@@ -2862,7 +2862,7 @@
       "investigative_direction": "Obtain the full interview to see whether she names any political motive or actor.",
       "transcript_snippet": "And this was a political >> Oh, yeah. >> political >> Absolutely. Yep. >> Have you seen evidence to that?",
       "mentions_person_refs": [
-        "N-825"
+        "N-823"
       ]
     },
     {
@@ -2885,7 +2885,7 @@
       "investigative_direction": "Ask the Comperatore family and the interviewer what she was told and what event she referred to.",
       "transcript_snippet": "Oh, I've been told things, but I've had something that happened with me that just afterwards and you're starting to put the pieces together, it just made total sense.",
       "mentions_person_refs": [
-        "N-825"
+        "N-823"
       ]
     },
     {
@@ -2907,7 +2907,7 @@
       "investigative_direction": "Check whether the White House or Secret Service responded to the Comperatore family's request after the interview.",
       "transcript_snippet": "Just to don't forget us and remember what we went through that day. You know, we're still here and we need answers.",
       "mentions_person_refs": [
-        "N-825",
+        "N-823",
         "N-5"
       ]
     },
@@ -2929,7 +2929,7 @@
       "transcript_snippet": "You don't need uh the Department of Justice, an emotional asset, boosting a person, um interviews with famous people. You don't need Nicki Minaj.",
       "mentions_person_refs": [
         "N-3",
-        "N-526",
+        "N-524",
         "N-2"
       ]
     },
@@ -2979,7 +2979,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-434"
+        "N-432"
       ]
     },
     {
@@ -3005,7 +3005,7 @@
         "C-2864"
       ],
       "mentions_person_refs": [
-        "N-434"
+        "N-432"
       ]
     },
     {
@@ -3028,7 +3028,7 @@
       "investigative_direction": "Read the Time article for how Yakoby is described and whether he or his representatives responded or confirmed payment.",
       "transcript_snippet": "Eyal Yakoby, I blocked him so long ago. It was so obvious that he was a paid stooge. Every single post, like a 300 posts a day.",
       "mentions_person_refs": [
-        "N-826",
+        "N-824",
         "N-3"
       ]
     },
@@ -3051,7 +3051,7 @@
       "investigative_direction": "Read the article for the on-record responses of named accounts about payment.",
       "transcript_snippet": "And they he kind of he had to own that. These Yeah, they're being paid. We know who they are.",
       "mentions_person_refs": [
-        "N-826"
+        "N-824"
       ]
     },
     {
@@ -3097,7 +3097,7 @@
       "investigative_direction": "Check corporate filings for Influencable and Time's sourcing for Parscale's ownership.",
       "transcript_snippet": "Brad Parscale was the owner or a part owner of the company Influencable.",
       "mentions_person_refs": [
-        "N-434"
+        "N-432"
       ]
     },
     {
@@ -3120,7 +3120,7 @@
       "investigative_direction": "Read the article's description of the payment model and obtain any sample texts it cites.",
       "transcript_snippet": "And that's when they essentially text everyone, they offer them money, and they say, \"Go out and say this and we'll pay you depending on how many people you get to retweet you, how big your your post is.",
       "mentions_person_refs": [
-        "N-434"
+        "N-432"
       ]
     },
     {
@@ -3142,7 +3142,7 @@
       "investigative_direction": "Read the services agreement filed with FARA and compare the content quotas and audience targets.",
       "transcript_snippet": "under the agreement Parscale was meant to produce 100 original pieces of content each month and 80% of it was initially supposed to be aimed at Gen Z across TikTok, Instagram, YouTube",
       "mentions_person_refs": [
-        "N-434"
+        "N-432"
       ]
     },
     {
@@ -3168,7 +3168,7 @@
         "C-2865"
       ],
       "mentions_person_refs": [
-        "N-434"
+        "N-432"
       ]
     },
     {
@@ -3507,7 +3507,7 @@
       "transcript_snippet": "He didn't believe in well, Lindsey Graham is dead, so now his sister becomes a senator.",
       "mentions_person_refs": [
         "N-3",
-        "N-456"
+        "N-454"
       ]
     },
     {
@@ -3710,7 +3710,7 @@
       "transcript_snippet": "it is pretty obvious to me that many people are being paid to push this, and the thing about a lie is it's a it it just always kind of you can make a lot of money really fast",
       "mentions_person_refs": [
         "N-3",
-        "N-434",
+        "N-432",
         "N-40"
       ]
     }

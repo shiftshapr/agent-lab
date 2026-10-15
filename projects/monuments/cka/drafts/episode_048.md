@@ -15,13 +15,13 @@
   - Hole-minted Nodes (reintro-ep048): N-10368, N-10643
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5185–C-5271
-  - New Nodes Introduced: N-362, N-10359, N-10360, N-10361, N-10362, N-10363, N-10364, N-10365
-  - Reused Nodes Appearing: N-161, N-3, N-1, N-382, N-5, N-4, N-22, N-36, N-40, N-46, N-69, N-82, N-118, N-192, N-203, N-206, N-226, N-269, N-10000, N-10012, N-10014, N-10026, N-10083, N-10202, N-10239, N-10253, N-10290, N-10344, N-10347, N-363, N-10367, N-10373, N-10887, N-10358, N-10366, N-11020
+  - New Nodes Introduced: N-10359, N-10360, N-10361, N-10362, N-10363, N-10364, N-10365
+  - Reused Nodes Appearing: N-161, N-3, N-1, N-380, N-5, N-4, N-22, N-36, N-40, N-46, N-69, N-82, N-118, N-192, N-203, N-206, N-226, N-269, N-10000, N-10012, N-10014, N-10026, N-10083, N-10202, N-10239, N-10253, N-10290, N-10344, N-10347, N-362, N-10367, N-10373, N-10887, N-10358, N-10366, N-11020
   - (see registers)
 
 ## 2. Executive Summary
 
-This episode advances multiple investigative threads already in motion in the Bride of Charlie series. The host presents artifact-anchored material in four primary areas: (1) the contested quotation about Charlie Kirk's neck that was attributed to "the surgeon" on Andrew Colberg's X feed, (2) the disposition of the vehicle in which Charlie was transported to Timpanogos Regional Hospital, supported by a Frank Turek interview clip played on air, (3) the procedural circumstances around the recovery of the firearm, including alleged bomb-dog searches and federal redirection of inexperienced officers, and (4) a Baron Coleman video segment that displays August 25–26, 2025 flight logs under the SAM000 and RCH658/SAM658 call signs in connection with a Fort Huachuca meeting allegedly observed on September 9. The episode also references a forthcoming interview with an unnamed eyewitness ("Elvis guy") who claims to have seen Brian Harpole at a high-level meeting.
+This episode advances multiple investigative threads already in motion in the Bride of Charlie series. The host presents artifact-anchored material in four primary areas: (1) the contested quotation about Charlie Kirk's neck that was attributed to "the surgeon" on Andrew Kolvet's X feed, (2) the disposition of the vehicle in which Charlie was transported to Timpanogos Regional Hospital, supported by a Frank Turek interview clip played on air, (3) the procedural circumstances around the recovery of the firearm, including alleged bomb-dog searches and federal redirection of inexperienced officers, and (4) a Baron Coleman video segment that displays August 25–26, 2025 flight logs under the SAM000 and RCH658/SAM658 call signs in connection with a Fort Huachuca meeting allegedly observed on September 9. The episode also references a forthcoming interview with an unnamed eyewitness ("Elvis guy") who claims to have seen Brian Harpole at a high-level meeting.
 
 Structurally, the episode functions as a hinge point in the series, consolidating prior threads (Colberg tweet, SAM/Reach flight analysis, Operation Valhalla Strike timeline, Fort Huachuca) and setting up the next-day testimony from the eyewitness. The artifact register captures three on-air interview clips, one read-aloud X post, and one set of vehicle interior photographs held but not fully displayed by the host.
 
@@ -205,9 +205,9 @@ Confidence: high
 
 ## 3. Artifact Register
 
-**A-1552** Andrew Colberg X Post Bundle
+**A-1552** Andrew Kolvet X Post Bundle
 
-**A-1552.1** Andrew Colberg X post containing attributed quotation about Charlie's neck
+**A-1552.1** Andrew Kolvet X post containing attributed quotation about Charlie's neck
 
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:03:52
@@ -215,7 +215,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Read aloud on air by the host. Contains attributed quotation: "Absolutely, the bullet should have gone through... His bone was so healthy and the density was so, so impressive that he's like the man of steel." Quotation framed as having come from "the surgeon."
 
-*Related: C-1960, N-362, N-197, N-10358*
+*Related: C-1960, N-14, N-197, N-10358*
 
 ---
 
@@ -379,7 +379,7 @@ Confidence Level: High
 ## 4. Node Register
 
 
-**N-362** Andrew Colberg
+**N-14** Andrew Kolvet
 
 X user whose attributed "man of steel" quotation post is contested by host sources as not being a direct surgeon statement.
 
@@ -444,7 +444,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-363** Harry
+**N-362** Harry
 
 Producer/investigator on host's team referenced by name regarding Fort Huachuca inquiry and the upcoming eyewitness testimony segment.
 
@@ -492,7 +492,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1552.1, C-1960, N-362, N-197*
+*Related: A-1552.1, C-1960, N-14, N-197*
 
 ---
 
@@ -583,7 +583,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1554.1, A-1555.1, N-332, N-268, N-363*
+*Related: A-1554.1, A-1555.1, N-332, N-268, N-362*
 
 ---
 
@@ -736,7 +736,7 @@ Named among those saying Candace is over.
 
 ---
 
-**N-382** Dan Bongino
+**N-380** Dan Bongino
 
 Subject of the host's comments on his departure from the FBI.
 
@@ -922,10 +922,10 @@ Host's claim that the person Harry believes he saw leaving the September 9 Fort 
 
 Claim Timestamp: 00:03:52
 
-Claim: Andrew Colberg's X post contains a quotation attributed to "the surgeon" describing Charlie Kirk's neck bone as "so healthy and the density was so, so impressive that he's like the man of steel," and stating the bullet "should have just gone through and through."
+Claim: Andrew Kolvet's X post contains a quotation attributed to "the surgeon" describing Charlie Kirk's neck bone as "so healthy and the density was so, so impressive that he's like the man of steel," and stating the bullet "should have just gone through and through."
 
 Anchored Artifacts: A-1552.1
-Mentions: N-197, N-362, N-1
+Mentions: N-197, N-14, N-1
 
 Related Nodes: N-10358
 
@@ -935,7 +935,7 @@ Investigative Direction: Obtain original Colberg post via direct retrieval or ar
 
 **C-1961** Turek States FBI Cleared Vehicle Before He Retrieved His Bag
 
-Claim Timestamp: 00:27:47
+Claim Timestamp: 00:27:12
 
 Claim: Frank Turek states on a podcast that the transport vehicle was roped off as a crime scene and that he could not access it until the FBI cleared it, at which point he retrieved his computer bag.
 
@@ -952,7 +952,7 @@ Investigative Direction: Cross-reference with FBI case file records, impound log
 
 Claim Timestamp: 00:27:47
 
-Claim: Frank Turek states on a podcast that Charlie's necklace, bearing a cross and medallions, was draped over his computer bag inside the transport vehicle, and that he handed it to a police officer who stated they had been searching for it.
+Claim: Frank Turek states on a podcast that Charlie's necklace, bearing a cross and medallions, was draped over his computer bag inside the transport vehicle, and that when a cop said they had been looking for it, he said he had it and took it.
 
 Anchored Artifacts: A-1553.1
 Mentions: N-7
@@ -1027,7 +1027,7 @@ Investigative Direction: Cross-reference the call sign change with any known VIP
 
 Claim Timestamp: 00:41:47
 
-Claim: Brian Harpole states in an interview that the intelligence gathering and preparation process for the UVU event began on August 24, with information sharing and conference calls commencing that date.
+Claim: Brian Harpole states in an interview that the hard conversations, information sharing and conference calls for the UVU event began on August 24, though the intelligence gathering started before that.
 
 Anchored Artifacts: A-1555.1
 Mentions: N-268
@@ -1071,12 +1071,12 @@ Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present
 
 Claim Timestamp: 00:24:40
 
-Claim: The host says she has never seen a more extreme cover-up than the Charlie Kirk cover-up the feds are engaged in, and links it to reports, which she says Trump confirmed, that Dan Bongino will step down from the FBI; she suggests Bongino may have realised how far the corruption goes.
+Claim: The host says she has never seen a more extreme cover-up than the Charlie Kirk cover-up the feds are engaged in, and links it to reports, which it looks like Trump has confirmed, that Dan Bongino will step down from the FBI; she suggests Bongino may have realised how far the corruption goes.
 
 Transcript Snippet: I have never seen one more extreme than this Charlie Kirk cover-up that the feds are engaged in.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-382, N-5
+Mentions: N-3, N-1, N-380, N-5
 Related Nodes: N-10048
 Investigative Direction: Track Bongino's departure announcement and any statement he makes on the Kirk investigation.
 
@@ -1086,12 +1086,12 @@ Investigative Direction: Track Bongino's departure announcement and any statemen
 
 Claim Timestamp: 00:02:37
 
-Claim: The host says she was told that Andrew Colberg was allegedly flying blind when he tweeted out the conversation he had with the surgeon.
+Claim: The host says she was told that Andrew Kolvet was allegedly flying blind when he tweeted out the conversation he had with the surgeon.
 
-Transcript Snippet: I was told that Andrew Colberg was allegedly flying blind when he tweeted out the conversation that he had with the surgeon.
+Transcript Snippet: I was told that Andrew Kolvet was allegedly flying blind when he tweeted out the conversation that he had with the surgeon.
 
 Anchored Artifacts: 
-Mentions: N-3, N-362
+Mentions: N-3, N-14
 Related Nodes: N-10358
 Investigative Direction: Identify the host's source and obtain Colberg's own account of how and when he spoke with the surgeon.
 
@@ -1101,12 +1101,12 @@ Investigative Direction: Identify the host's source and obtain Colberg's own acc
 
 Claim Timestamp: 00:02:37
 
-Claim: The host says the Colberg tweet about Superman neck came very quickly after she said on her show that she had seen the back footage and there was no blood.
+Claim: The host says the Kolvet tweet about Superman neck came very quickly after she said on her show that she had seen the back footage and there was no blood.
 
 Transcript Snippet: me doing the the show and saying, "Oh, I saw the back footage and there was no blood."
 
 Anchored Artifacts: 
-Mentions: N-3, N-362
+Mentions: N-3, N-14
 Related Nodes: N-10358
 Investigative Direction: Compare the broadcast timestamp of the host's remark with the posting time of Colberg's tweet.
 
@@ -1116,12 +1116,12 @@ Investigative Direction: Compare the broadcast timestamp of the host's remark wi
 
 Claim Timestamp: 00:04:37
 
-Claim: The host says that, per a source she trusts, Dr. Lee Trotter never once said Charlie Kirk's neck stopped a .30-06 bullet, and that the quotation Colberg shared on X is not a direct quotation from the surgeon.
+Claim: The host says that, per a source she trusts, Dr. Lee Trotter never once said Charlie Kirk's neck stopped a .30-06 bullet, and that the quotation Kolvet shared on X is not a direct quotation from the surgeon.
 
 Transcript Snippet: never once did Dr. Lee Trotter say that Charlie's neck was stopped uh Charlie's neck stopped a.30-06 bullet.
 
 Anchored Artifacts: 
-Mentions: N-197, N-362, N-1
+Mentions: N-197, N-14, N-1
 Related Nodes: N-10358
 Qualifies: C-1960
 Investigative Direction: Obtain a direct statement from Dr. Trotter or his representatives, and any hospital communications record of what he told Colberg.
@@ -1162,12 +1162,12 @@ Investigative Direction: Identify who has publicly accused the surgeon's family 
 
 Claim Timestamp: 00:06:20
 
-Claim: The host says she was told that Dr. Lee Trotter, who hunts, communicated to Andrew Colberg that a frangible bullet was likely used, and describes a frangible bullet as ammunition designed to disintegrate on a hard surface.
+Claim: The host says she was told that Dr. Lee Trotter, who hunts, communicated to Andrew Kolvet that a frangible bullet was likely used, and describes a frangible bullet as ammunition designed to disintegrate on a hard surface.
 
 Transcript Snippet: What he communicated is that it was likely a frangible bullet that was used.
 
 Anchored Artifacts: 
-Mentions: N-197, N-362, N-3
+Mentions: N-197, N-14, N-3
 Related Nodes: N-10358
 Qualifies: C-1960
 Investigative Direction: Ask Colberg and the surgeon's circle what exactly was said about bullet type, and compare with the autopsy and ballistics record.
@@ -1183,7 +1183,7 @@ Claim: The host says Colberg also told the audience that the bullet ricocheted, 
 Transcript Snippet: Well, Andrew also told us that the bullet did ricochet. So, what we have here is a conflict of statements.
 
 Anchored Artifacts: 
-Mentions: N-362, N-3
+Mentions: N-14, N-3
 Related Nodes: N-10358
 Qualifies: C-1960
 Investigative Direction: Quote Colberg's exact wording on ricochet from his X thread and compare with the wound description in any official report.
@@ -1299,7 +1299,7 @@ Investigative Direction: Compare the official description of the recovery site w
 
 Claim Timestamp: 00:10:53
 
-Claim: The host says the area where the gun was later found had already been searched by veteran police officers who locked arms and walked it, and that they found nothing.
+Claim: The host says the area where the gun was later found had already been searched by veteran police officers, who told her they sort of lock arms to search and that 'maybe that's what they did', and that they found nothing.
 
 Transcript Snippet: That area had already been searched. Not just by veteran police officers who told me that the way they do this is they sort of lock arms
 
@@ -1546,7 +1546,7 @@ Claim: The host says Trump said he thinks Dan Bongino wants to get back to his s
 Transcript Snippet: Trump said that he thinks that Dan wants to get back to his show.
 
 Anchored Artifacts: 
-Mentions: N-3, N-5, N-382
+Mentions: N-3, N-5, N-380
 Related Nodes: N-10048
 Supports: C-3758
 Investigative Direction: Locate Trump's remark and Bongino's own announcement for the stated reason for leaving.
@@ -1562,7 +1562,7 @@ Claim: The host says Dan Bongino has been effectively silent on the Charlie Kirk
 Transcript Snippet: I have been wondering why Dan has been silent I would say effectively silent on the Charlie Kirk situation.
 
 Anchored Artifacts: 
-Mentions: N-3, N-382
+Mentions: N-3, N-380
 Related Nodes: N-10048
 Supports: C-3758
 Investigative Direction: Review Bongino's public statements and show transcripts since September 10 for mentions of the Kirk case.
@@ -1743,7 +1743,7 @@ Claim: The host says that although some thought someone might be pulling her leg
 Transcript Snippet: And then we were able to verify his story. People that are currently stationed there.
 
 Anchored Artifacts: 
-Mentions: N-3, N-268
+Mentions: N-3
 Related Nodes: N-10367, N-10365
 Investigative Direction: Obtain the verifying personnel's statements or documents on the building and meeting.
 
@@ -1773,7 +1773,7 @@ Claim: In the clip, Baron Coleman says the special air mission jet was present a
 Transcript Snippet: That particular jet was present at the location of this alleged meeting on the morning of September 9th, one day before the neutralization of Charlie Kirk.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-332
+Mentions: N-332, N-1
 Related Nodes: N-10365, N-10367
 Supports: C-1905
 Investigative Direction: Pull ADS-B and flight-plan records for the aircraft on September 8 to 10.
@@ -1828,12 +1828,12 @@ Investigative Direction: Pull the raw flight log for the aircraft on August 25 a
 
 Claim Timestamp: 00:39:24
 
-Claim: In the clip, a respondent to the host's question, apparently Coleman, says the special air mission designation is usually used when very high-ranking or important people are aboard, while a Reach call sign suggests someone who does not rise to that level.
+Claim: A speaker the transcript does not identify, answering a question about whether the switch from a Reach to a SAM call sign means someone more important got on or off, says the special air mission designation is usually used when very high-ranking or important people are aboard, while a Reach call sign suggests someone who does not rise to that level.
 
 Transcript Snippet: the special air mission designation is usually when there's very high ranking or very important people on board.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-332, N-3
+Mentions: 
 Related Nodes: N-10364
 Investigative Direction: Verify call-sign usage rules with Air Mobility Command documentation.
 
@@ -1863,7 +1863,7 @@ Claim: In the clip, Brian Harpole says the process started before the 24th with 
 Transcript Snippet: it started before that with the the intelligence gathering and and all that, but the hard conversations, the sharing of information, the conference calls, the the data sheets.
 
 Anchored Artifacts: A-1555.1
-Mentions: N-268, N-226
+Mentions: N-268
 Related Nodes: N-10365
 Qualifies: C-1967
 Investigative Direction: Ask Harpole's firm for the date of the first intelligence product and the first conference call.
@@ -1908,7 +1908,7 @@ Claim: The host says that when she asked Harry whether the person could be a hig
 Transcript Snippet: He said that there was an an undercover fed or he said it could have been an undercover secret serviceman.
 
 Anchored Artifacts: 
-Mentions: N-3, N-363
+Mentions: N-3, N-362
 Related Nodes: N-10365, N-10367
 Investigative Direction: Obtain Harry's on-camera account and any corroborating incident report.
 
@@ -1923,7 +1923,7 @@ Claim: The host says Harry said he saw this many O-6s and lieutenant colonels, w
 Transcript Snippet: He was like I had this many 06s, lieutenant colonels signifies to be that this is like a Pentagon level meeting.
 
 Anchored Artifacts: 
-Mentions: N-363, N-3
+Mentions: N-362, N-3
 Related Nodes: N-10365, N-10367
 Supports: C-1886
 Investigative Direction: Ask Harry for the number and insignia observed and compare with the Fort Huachuca JTF-SB attendance.
@@ -1939,7 +1939,7 @@ Claim: The host says everything Harry has said has checked out and that she has 
 Transcript Snippet: Everything he has said has checked out. I am telling you we have multiple emails from people that are currently stationed there.
 
 Anchored Artifacts: A-2741.1
-Mentions: N-3, N-363
+Mentions: N-3, N-362
 Related Nodes: N-10367
 Investigative Direction: Review the emails and verify the senders' standing as personnel without exposing them.
 
@@ -1969,7 +1969,7 @@ Claim: The host says stationed personnel confirmed the building that Harry descr
 Transcript Snippet: They confirmed that building that he said
 
 Anchored Artifacts: A-2741.1
-Mentions: N-3, N-363
+Mentions: N-3, N-362
 Related Nodes: N-10367
 Supports: C-1885
 Investigative Direction: Ask the personnel for on-record confirmation of the temporary JTF-SB headquarters location.
@@ -1985,7 +1985,7 @@ Claim: The host says the eyewitness got out of a 25-year NDA and then stumbled i
 Transcript Snippet: just gets out of his 25-year long NDA and stumbles into another what could be, we're keeping this open, another federal operation.
 
 Anchored Artifacts: 
-Mentions: N-3, N-363
+Mentions: N-3, N-362
 Related Nodes: N-10367
 Investigative Direction: Compare with the 1990 to May 2025 NDA period reported earlier and obtain the NDA document.
 
@@ -2000,7 +2000,7 @@ Claim: The host says she asked the eyewitness whether he would come on and tell 
 Transcript Snippet: Do you want to come on and tell your story? And he has said, yes.
 
 Anchored Artifacts: 
-Mentions: N-3, N-363
+Mentions: N-3, N-362
 Related Nodes: N-10367
 Investigative Direction: Check the next episode for the interview and compare it with earlier accounts.
 
@@ -2115,7 +2115,7 @@ Investigative Direction: Obtain from TPUSA its account of who requested the priv
 
 Claim Timestamp: 00:53:41
 
-Claim: The host says people are signaling they want her and Tucker, that Benjamin Netanyahu has name-checked them, and that rhetoric toward people who do not stand with Israel is growing increasingly volatile.
+Claim: The host says she feels everyone is signaling they want her and Tucker, that you do not want to be name-checked by Benjamin Netanyahu, and that rhetoric toward people who do not stand with Israel is growing increasingly volatile.
 
 Transcript Snippet: everyone is sort of signaling that they want me and Tucker. Like when you you don't want to be name-checked by Benjamin Netanyahu
 
@@ -2178,7 +2178,7 @@ Claim: The host says a JFK conspiracy would be multifaceted, with layers includi
 Transcript Snippet: you've got like the mafia involved. There were Cubans that were involved.
 
 Anchored Artifacts: A-2742.1
-Mentions: N-3, N-206
+Mentions: N-3
 Investigative Direction: Cite the historical sources the host relies on for each named party.
 
 ---
@@ -2367,7 +2367,7 @@ Claim: The host says the person that Harry believes he saw coming out of the For
 Transcript Snippet: that he believes he saw coming out of that meeting did happen to be a Las Vegas congressman.
 
 Anchored Artifacts: 
-Mentions: N-3, N-363
+Mentions: N-3, N-362
 Related Nodes: N-11021, N-10887, N-10365
 Investigative Direction: Ask Harry on air to identify the person and check the congressman's public schedule for September 9.
 
@@ -2382,7 +2382,7 @@ Claim: The host wonders whether, when the flight turned back to Reach, the plane
 Transcript Snippet: Again, I can't confirm that because I wasn't these aren't my eyes.
 
 Anchored Artifacts: 
-Mentions: N-3, N-363
+Mentions: N-3, N-362
 Related Nodes: N-11021, N-10887, N-10364
 Investigative Direction: Cross-check the Las Vegas landing records with the congressman's travel on the relevant dates.
 

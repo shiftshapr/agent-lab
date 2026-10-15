@@ -1166,8 +1166,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-713",
-      "ref": "N-713",
+      "@id": "N-711",
+      "ref": "N-711",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "JFK; the host compares his assassination to the Kirk case.",
@@ -1585,8 +1585,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-798",
-      "ref": "N-798",
+      "@id": "N-796",
+      "ref": "N-796",
       "name": "Leo Frank",
       "type": "person",
       "description": "First named by the host at 00:03:10 in episode 14. Atlanta factory owner convicted in 1913 whom the host says the ADL was formed to defend.",
@@ -1605,8 +1605,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-799",
-      "ref": "N-799",
+      "@id": "N-797",
+      "ref": "N-797",
       "name": "Mary Phagan",
       "type": "person",
       "description": "First named by the host at 00:03:10 in episode 14 (Mary Phagan in the historical record). Victim the host says was a 13-year-old pencil factory worker.",
@@ -1624,8 +1624,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-800",
-      "ref": "N-800",
+      "@id": "N-798",
+      "ref": "N-798",
       "name": "Scott Robbins",
       "type": "person",
       "description": "First named by the host at 00:22:48 in episode 14. Witness in the USA Today clip whom the host says ran for Utah governor in 2024.",
@@ -1641,8 +1641,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-801",
-      "ref": "N-801",
+      "@id": "N-799",
+      "ref": "N-799",
       "name": "Greta Thunberg",
       "type": "person",
       "description": "First named by the host at 00:46:04 in episode 14, via a viewer comment. Activist the host says Israel's influence made out to be Hamas.",
@@ -2123,7 +2123,7 @@
       "investigative_direction": "Compare ADL and B'nai B'rith founding records (1913) with the Frank case history; note the host's characterization is hers alone.",
       "transcript_snippet": "Well, because they put the organization together to defend a pedophile and a murderer. His name is Leo Frank.",
       "mentions_person_refs": [
-        "N-798",
+        "N-796",
         "N-3"
       ]
     },
@@ -2144,8 +2144,8 @@
       "investigative_direction": "Check 1913 Georgia court and newspaper records of the Phagan case.",
       "transcript_snippet": "And Mary Fagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped.",
       "mentions_person_refs": [
-        "N-799",
-        "N-798"
+        "N-797",
+        "N-796"
       ]
     },
     {
@@ -2165,7 +2165,7 @@
       "investigative_direction": "Review the 1913 trial record and appeals to the US Supreme Court.",
       "transcript_snippet": "he was so guilty of what happened that despite the fact that he tried to pin it on a poor black janitor.",
       "mentions_person_refs": [
-        "N-798"
+        "N-796"
       ]
     },
     {
@@ -2190,7 +2190,7 @@
         "C-7841"
       ],
       "mentions_person_refs": [
-        "N-798",
+        "N-796",
         "N-3"
       ]
     },
@@ -2213,7 +2213,7 @@
       "investigative_direction": "Confirm the book, its author and relationship to the victim.",
       "transcript_snippet": "there's a book called The Murder of Little Mary Fagan, and it is written by a relative of hers.",
       "mentions_person_refs": [
-        "N-799",
+        "N-797",
         "N-3"
       ]
     },
@@ -2779,7 +2779,7 @@
       "investigative_direction": "Check Utah 2024 gubernatorial filings for Scott Robbins.",
       "transcript_snippet": "well, he was also a gubernatorial candidate. He ran for governor of Utah in 2024.",
       "mentions_person_refs": [
-        "N-800"
+        "N-798"
       ]
     },
     {
@@ -2862,7 +2862,7 @@
       "investigative_direction": "Compare with documented JFK-era records; note the FARA link is the host's characterization.",
       "transcript_snippet": "I think he was surrounded. I think he was infiltrated and then they got rid of him because of wrong think.",
       "mentions_person_refs": [
-        "N-713",
+        "N-711",
         "N-3"
       ]
     },
@@ -3382,7 +3382,7 @@
       "investigative_direction": "Find the Time cover and the octopus image controversy.",
       "transcript_snippet": "they like put her on the cover of Time and then suddenly they were like she had an octopus in a picture and they basically said she's Hamas",
       "mentions_person_refs": [
-        "N-801"
+        "N-799"
       ]
     },
     {

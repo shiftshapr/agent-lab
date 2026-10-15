@@ -12,13 +12,13 @@
 - **Transcript SHA-256**: 8e3767219910081da3667951aa2631008c1fef13d2bd87a539a898bb6428508e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-910, N-911, N-912, N-913, N-11323, N-11324, N-11325, N-11326
-  - Hole-minted Nodes (reintro-ep020): N-230, N-280, N-300, N-361, N-381, N-488, N-489, N-524, N-10210, N-10447, N-10589, N-10660, N-10661, N-10663, N-10687
+  - Tip-minted Nodes (supplement_2026-10f): N-908, N-909, N-910, N-911, N-11323, N-11324, N-11325, N-11326
+  - Hole-minted Nodes (reintro-ep020): N-230, N-280, N-300, N-361, N-379, N-486, N-487, N-522, N-10210, N-10447, N-10589, N-10660, N-10661, N-10663, N-10687
   - Tip-minted Nodes (reintro-ep020): N-11071, N-11117
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12146–C-12261
   - New Nodes Introduced: N-191, N-193, N-194, N-197, N-198, N-199, N-200, N-10196, N-10197, N-10199
-  - Reused Nodes Appearing: none, N-195, N-5, N-22, N-30, N-33, N-36, N-69, N-117, N-130, N-157, N-172, N-183, N-184, N-713, N-10000, N-10004, N-10112, N-10118, N-10131, N-10139, N-10149, N-10183, N-10202, N-10270, N-10341, N-10389, N-10900, N-11103, N-11218, N-192, N-10198, N-11322
+  - Reused Nodes Appearing: none, N-195, N-5, N-22, N-30, N-33, N-36, N-69, N-117, N-130, N-157, N-172, N-183, N-184, N-711, N-10000, N-10004, N-10112, N-10118, N-10131, N-10139, N-10149, N-10183, N-10202, N-10270, N-10341, N-10389, N-10900, N-11103, N-11218, N-192, N-10198, N-11322
   - Hole-minted Nodes (remap-ep20): N-131
 
 The episode advances several investigative threads already active in the series (Mikey McCoy's actions on September 10, the trauma-hospital routing question, the "306 bullet wound" forensic question, and TPUSA personnel analysis) while introducing a new artifact family tied to the alleged UVU Hospital medical record. The text-message artifacts and audio clips are the structural core of the episode's evidentiary record., N-11, N-131
@@ -975,7 +975,7 @@ Kim Kardashian; the host says she wanted nothing to do with Kanye's politics.
 
 ---
 
-**N-381** Emmanuel Macron
+**N-379** Emmanuel Macron
 
 Emmanuel Macron; subject of two tangential host claims.
 
@@ -983,7 +983,7 @@ Emmanuel Macron; subject of two tangential host claims.
 
 ---
 
-**N-488** Blake Lively
+**N-486** Blake Lively
 
 Blake Lively; the lawsuit in which the host says she was drafted.
 
@@ -991,7 +991,7 @@ Blake Lively; the lawsuit in which the host says she was drafted.
 
 ---
 
-**N-489** Justin Baldoni
+**N-487** Justin Baldoni
 
 Justin Baldoni; the other party in that lawsuit.
 
@@ -999,7 +999,7 @@ Justin Baldoni; the other party in that lawsuit.
 
 ---
 
-**N-524** Rothschild Family
+**N-522** Rothschild Family
 
 Rothschild family; named in the host's claim about Macron.
 
@@ -1007,7 +1007,7 @@ Rothschild family; named in the host's claim about Macron.
 
 ---
 
-**N-713** John F. Kennedy
+**N-711** John F. Kennedy
 
 John F. Kennedy; named in two historical assertions by the host.
 
@@ -1191,7 +1191,7 @@ Kanye Condemnation Pressure and Contract Cut; the October 2018 statement.
 
 ---
 
-**N-910** Eric Weinstein
+**N-908** Eric Weinstein
 
 Named by the host in episode 20 as someone who reached out after the 2018 Kanye tweet.
 
@@ -1199,7 +1199,7 @@ Named by the host in episode 20 as someone who reached out after the 2018 Kanye 
 
 ---
 
-**N-911** Rick Rubin
+**N-909** Rick Rubin
 
 Music producer named by the host in episode 20 as getting involved after the 2018 Kanye tweet.
 
@@ -1207,7 +1207,7 @@ Music producer named by the host in episode 20 as getting involved after the 201
 
 ---
 
-**N-912** John Lewis
+**N-910** John Lewis
 
 Named by the host in episode 20 as a former Daily Wire president who was a naval intelligence officer turned pastor (identity as stated on air, unverified).
 
@@ -1215,7 +1215,7 @@ Named by the host in episode 20 as a former Daily Wire president who was a naval
 
 ---
 
-**N-913** MrBeast
+**N-911** MrBeast
 
 YouTuber (transcribed "Mr. Beast") whose parents the host says are high up in the military.
 
@@ -1849,7 +1849,7 @@ Claim: The host says that after the Kanye tweet Eric Weinstein got involved and 
 Transcript Snippet: Suddenly, they get Eric Weinstein&nbsp;&nbsp; involved and he reaches out and he pretends that&nbsp; he wants to be a friend to me.
 
 Anchored Artifacts: 
-Mentions: N-3, N-910
+Mentions: N-3, N-908
 Tags: relevance:context
 Investigative Direction: Obtain the 2018 messages between the host and Weinstein and ask Weinstein for his account.
 
@@ -1864,7 +1864,7 @@ Claim: The host says music producer Rick Rubin also got into the mix after the K
 Transcript Snippet: Another player in this was Rick Rubin.&nbsp; Yeah, the big music industry. Rick Rubin also&nbsp;&nbsp; got into the mix and wanted to facilitate certain&nbsp; meetings.
 
 Anchored Artifacts: 
-Mentions: N-3, N-911
+Mentions: N-3, N-909
 Tags: relevance:context
 Investigative Direction: Ask the host for her messages with Rubin or his representatives and the meetings proposed.
 
@@ -2307,7 +2307,7 @@ Claim: The host says the president of the Daily Wire at the time she went there 
 Transcript Snippet: the&nbsp; president at the time of the Daily Wire was also&nbsp;&nbsp; a naval intelligence officer who decided to become&nbsp; a pastor that was John Lewis
 
 Anchored Artifacts: 
-Mentions: N-3, N-912
+Mentions: N-3, N-910
 Related Nodes: N-10900, N-10197
 Tags: relevance:context
 Investigative Direction: Check Daily Wire leadership listings for the period and the named person's career history.
@@ -2323,7 +2323,7 @@ Claim: The host says that both of MrBeast's parents are high up in the military.
 Transcript Snippet: Mr. Beast, both of his parents high&nbsp;&nbsp; up in the military.
 
 Anchored Artifacts: 
-Mentions: N-3, N-913
+Mentions: N-3, N-911
 Related Nodes: N-10197
 Tags: relevance:tangential
 Investigative Direction: Verify through public biographical sources.
@@ -2414,7 +2414,7 @@ Claim: The host says that when you look, everyone is somehow attached to what th
 Transcript Snippet: everyone's somehow attached to&nbsp; Raytheon, right? Mr. Beast, they're all attached to&nbsp;&nbsp; Raytheon in one way or the other.
 
 Anchored Artifacts: 
-Mentions: N-3, N-913
+Mentions: N-3, N-911
 Related Nodes: N-11324
 Tags: relevance:tangential
 Investigative Direction: Ask the host which Raytheon connections she means and verify.
@@ -2572,7 +2572,7 @@ Claim: The host says that the military-industrial complex that Eisenhower warned
 Transcript Snippet: the military-industrial complex&nbsp;&nbsp; that shot JFK to maintain power has created a&nbsp; veneer um of reality for us
 
 Anchored Artifacts: 
-Mentions: N-3, N-713
+Mentions: N-3, N-711
 Related Nodes: N-10197
 Tags: relevance:tangential
 Investigative Direction: This is a historical assertion with no evidence offered on air; check the JFK records released by the National Archives.
@@ -2976,7 +2976,7 @@ Claim: The host says that, when accused of colluding with the team of Justin Bal
 Transcript Snippet: live subpoenaed myself, held up my&nbsp;&nbsp; phone, I typed in Blake Lively, and I showed you&nbsp; the only two times that I had ever texted about&nbsp;&nbsp; her in my phone at all
 
 Anchored Artifacts: 
-Mentions: N-3, N-488, N-489
+Mentions: N-3, N-486, N-487
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Review the host's livestream and the court filings alleging collusion.
@@ -3102,7 +3102,7 @@ Claim: The host says it is a typical federal maneuver to kill someone like Marti
 Transcript Snippet: it's a typical federal maneuver,&nbsp;&nbsp; by the way, to kill someone like Martin Luther&nbsp; King or JFK and then they get a holiday.
 
 Anchored Artifacts: 
-Mentions: N-3, N-713
+Mentions: N-3, N-711
 Tags: relevance:tangential
 Investigative Direction: This is a historical assertion with no support given on air; check the records on the MLK and JFK investigations.
 
@@ -3147,7 +3147,7 @@ Claim: The host says Emmanuel Macron is in fact, like the state of Israel, a Rot
 Transcript Snippet: Emmanuel Macron is in fact just&nbsp;&nbsp; like the state of Israel, a Rothschild's creation
 
 Anchored Artifacts: 
-Mentions: N-3, N-381, N-524
+Mentions: N-3, N-379, N-522
 Tags: relevance:tangential
 Investigative Direction: Check Macron's career at Rothschild and Cie against the host's sweeping statement.
 
@@ -3224,7 +3224,7 @@ Claim: The host alleges that Brigitte Macron got away with offending Emmanuel Ma
 Transcript Snippet: You got away with um offending Emanuel&nbsp;&nbsp; when he was 14 years old. Sexual offense.
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-381
+Mentions: N-3, N-82, N-379
 Related Nodes: N-10270
 Tags: relevance:tangential
 Investigative Direction: Check the French public record on the couple's history and the host's legal filings on this point.

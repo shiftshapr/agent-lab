@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: cd44ed40636c60c09236975a1e80639d46ee6820f268322c974d2c67580290dd
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-895, N-896, N-897, N-11297, N-11298
+  - Tip-minted Nodes (supplement_2026-10e): N-893, N-894, N-895, N-11297, N-11298
   - Hole-minted Nodes (reintro-ep092): N-10751
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11375–C-11435
   - New Nodes Introduced: N-10607, N-10608, N-10609, N-10610, N-10612, N-10614, N-10615
-  - Reused Nodes Appearing: N-2, N-14, N-4, N-327, N-17, N-33, N-40, N-42, N-82, N-94, N-202, N-211, N-239, N-282, N-424, N-806, N-453, N-454, N-464, N-604, N-693, N-807, N-10000, N-10006, N-10076, N-10097, N-10127, N-10201, N-10246, N-10325, N-10340, N-10346, N-10401, N-10411, N-10419, N-10541, N-10604, N-10900, N-11145, N-11165, N-11167, N-11182, N-11238, N-10611, N-343, N-344, N-10613
-  - Hole-minted Nodes (wave3): N-428
+  - Reused Nodes Appearing: N-2, N-14, N-4, N-327, N-17, N-33, N-40, N-42, N-82, N-94, N-202, N-211, N-239, N-282, N-422, N-804, N-451, N-452, N-462, N-602, N-691, N-805, N-10000, N-10006, N-10076, N-10097, N-10127, N-10201, N-10246, N-10325, N-10340, N-10346, N-10401, N-10411, N-10419, N-10541, N-10604, N-10900, N-11145, N-11165, N-11167, N-11182, N-11238, N-10611, N-343, N-344, N-10613
+  - Hole-minted Nodes (wave3): N-426
   - (see registers)
 
 ## 6. Meme Register
@@ -459,7 +459,7 @@ Confidence Level: Low
 
 # IV. Node Register
 
-**N-428** Marcus Wada
+**N-426** Marcus Wada
 
 First named by the host at 00:42:41 in episode 92.
 
@@ -684,7 +684,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-895** Savannah Hernandez
+**N-893** Savannah Hernandez
 
 First named by the host at 00:07:17 in episode 92 (via the Kolvet clip). TPUSA front-lines reporter in the Minneapolis incident cited by Kolvet and Vance.
 
@@ -732,7 +732,7 @@ Engaged to Bettina Anderson, per the host.
 
 ---
 
-**N-896** Bettina Anderson
+**N-894** Bettina Anderson
 
 First named by the host at 00:16:56 in episode 92 (spelled Betina). Fiancee of Donald Trump Jr. whose bridal shower the host says Erika Kirk attended.
 
@@ -756,7 +756,7 @@ Cited by the host for his remarks on Jesus, the Pope, Brigitte Macron and the Ea
 
 ---
 
-**N-424** Pope Leo XIV
+**N-422** Pope Leo XIV
 
 Pope whom the host says Trump attacked.
 
@@ -772,7 +772,7 @@ Named in the host's list of Trump remarks.
 
 ---
 
-**N-604** Scott Bessent
+**N-602** Scott Bessent
 
 Treasury Secretary the host says issued a letter on demand.
 
@@ -821,7 +821,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-897** David J. Harris
+**N-895** David J. Harris
 
 First named by the host at 00:40:01 in episode 92 (David Harris). Business partner in the Marx supplements, per the host.
 
@@ -853,7 +853,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-693** Otto Busher
+**N-691** Otto Busher
 
 Colonel the host links to Fort Huachuca and Romanian Angels.
 
@@ -869,7 +869,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-454** Greg Laurie
+**N-452** Greg Laurie
 
 Harvest pastor who toured with Erika Kirk per the host.
 
@@ -901,7 +901,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-807** Andrew Piscatello
+**N-805** Andrew Piscatello
 
 Transcribed Andrew Pascadlo; detained photographer who raises trafficking alarms.
 
@@ -957,7 +957,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-806** Paul Vallely
+**N-804** Paul Vallely
 
 TPUSA adviser transcribed Paul Vallely; co-author with Aquino.
 
@@ -965,7 +965,7 @@ TPUSA adviser transcribed Paul Vallely; co-author with Aquino.
 
 ---
 
-**N-453** Michael Aquino
+**N-451** Michael Aquino
 
 Transcribed Michael Aino; co-author and Temple of Set founder.
 
@@ -981,7 +981,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-464** Nelda Buckman
+**N-462** Nelda Buckman
 
 Top TPUSA donor transcribed Nelda Buckman.
 
@@ -1281,7 +1281,7 @@ Claim Timestamp: 00:43:46
 Claim: Per the Turning Point USA website bio the host reads, Marcus Wada is the "director of strategy of productions" at Turning Point USA.
 
 Anchored Artifacts: A-1978.1
-Mentions: N-428
+Mentions: N-426
 
 Related Nodes: N-10609
 
@@ -1296,7 +1296,7 @@ Claim Timestamp: 00:43:46
 Claim: Per the Turning Point USA website bio the host reads, Marcus Wada has credits on Miss Universe and on the TPUSA documentary series "Border Battle" and "The Great Global Reset."
 
 Anchored Artifacts: A-1978.1
-Mentions: N-428
+Mentions: N-426
 
 Related Nodes: N-10609
 
@@ -1311,7 +1311,7 @@ Claim Timestamp: 00:46:09
 Claim: The host says the consulting firm run by Marcus Wada's brother, which she shows on its website, lists industry areas including human trafficking, sex trafficking, firearms and ammunition, money laundering, and controlled substances.
 
 Anchored Artifacts: A-1979.1
-Mentions: N-428
+Mentions: N-426
 
 Related Nodes: N-10609, N-10614
 
@@ -1341,7 +1341,7 @@ Claim Timestamp: 00:42:41
 Claim: The host says unnamed current and former TPUSA employees told her that Marcus Wada openly discusses past involvement in arms trafficking in Poland and is very close to Andrew Kolvet; she says he allegedly trafficked arms.
 
 Anchored Artifacts: A-1980.1
-Mentions: N-14, N-428
+Mentions: N-14, N-426
 
 Related Nodes: N-10609
 
@@ -1436,7 +1436,7 @@ Claim: On Fox News, Andrew Kolvet said that cancelling Erika Kirk's appearance w
 Transcript Snippet: which I think is the first time that we've ever had to make that decision in Turning Point history.
 
 Anchored Artifacts: A-1967.1
-Mentions: N-14, N-895, N-2
+Mentions: N-14, N-893, N-2
 Related Nodes: N-10607
 Tags: relevance:core
 Investigative Direction: Obtain the Fox News segment and reporting on the Savannah Hernandez Minneapolis incident, and check TPUSA's history of cancelled appearances.
@@ -1616,7 +1616,7 @@ Claim: The host says Erika Kirk was at the White House over the weekend and at t
 Transcript Snippet: She was at Betina Betina at Mara Lago, the one who's marrying Don Trump Jr., she was at her bridal shower.
 
 Anchored Artifacts: 
-Mentions: N-2, N-33, N-896
+Mentions: N-2, N-33, N-894
 Related Nodes: N-10607
 Tags: relevance:context
 Investigative Direction: Check reporting and guest accounts of the bridal shower and Erika Kirk's White House visit that weekend.
@@ -1697,7 +1697,7 @@ Claim: In the clip played, JD Vance says critics should go after the left-wing r
 Transcript Snippet: not the left-wing radicals who are assaulting Savannah or not the people who shot Charlie Kirk
 
 Anchored Artifacts: A-1966.2
-Mentions: N-4, N-1, N-895
+Mentions: N-4, N-1, N-893
 Related Nodes: N-10607
 Tags: relevance:core
 Investigative Direction: Obtain the full Vance remarks and check whether the plural was scripted or an error.
@@ -1744,7 +1744,7 @@ Claim: The host says that Trump attacked a pope for calling for peace and said t
 Transcript Snippet: How about Trump just generally attacking a pope because he's calling for peace? How about Trump saying that Brigitte Macron is hot?
 
 Anchored Artifacts: 
-Mentions: N-5, N-424, N-82
+Mentions: N-5, N-422, N-82
 Tags: relevance:context
 Investigative Direction: Locate the Trump statements on Pope Leo XIV and on Brigitte Macron and their dates.
 
@@ -1775,7 +1775,7 @@ Claim: The host says Erika Kirk can get Treasury Secretary Scott Bessent to issu
 Transcript Snippet: She can get uh the Secretary Scott Bessence to issue a letter on demand demanding you stop looking into their finances.
 
 Anchored Artifacts: 
-Mentions: N-2, N-604, N-3
+Mentions: N-2, N-602, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the Bessent letter and its recipient and date, and any Treasury statement about TPUSA finances.
@@ -1967,7 +1967,7 @@ Claim: The host says that Victor Marx had a supplement venture with David Harris
 Transcript Snippet: You had supplements that you were doing with David Harris.
 
 Anchored Artifacts: 
-Mentions: N-343, N-897, N-3
+Mentions: N-343, N-895, N-3
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Identify the supplement brand and its ownership records.
@@ -1983,7 +1983,7 @@ Claim: The host says it was said that proceeds from the Marx and David Harris su
 Transcript Snippet: David Harris calls God Papa. I don't know. And he like you guys said that like proceed the supplements were going to help human sex trafficking victims.
 
 Anchored Artifacts: 
-Mentions: N-343, N-897, N-3
+Mentions: N-343, N-895, N-3
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Obtain the supplement marketing claims and any charity disbursement records.
@@ -2015,7 +2015,7 @@ Claim: The host says that, according to current and former employees, Marcus Wad
 Transcript Snippet: Marcus Wada also says that his brother is still involved in the game somehow in the industry in some way.
 
 Anchored Artifacts: A-1980.1
-Mentions: N-428, N-3
+Mentions: N-426, N-3
 Related Nodes: N-10609
 Supports: C-2741
 Tags: relevance:core
@@ -2032,7 +2032,7 @@ Claim: The host says she found Wada's brother, assumes he is a half brother beca
 Transcript Snippet: Anyway, I did end up finding the guy. I'm proddding that narrative. There seems to be something there. I'm assuming it must be a half brother because he has a different last name
 
 Anchored Artifacts: A-1979.1
-Mentions: N-428, N-3
+Mentions: N-426, N-3
 Related Nodes: N-10609
 Supports: C-2739
 Tags: relevance:core
@@ -2066,7 +2066,7 @@ Claim: The host says Colonel Otto Busher, the civilian commander stationed at Fo
 Transcript Snippet: he worked with Romanian Angels which was her charity uh the civilian commander stationed at Fort Huachuca charged with running a child sex abuse ring
 
 Anchored Artifacts: A-3132.1
-Mentions: N-693, N-2, N-3
+Mentions: N-691, N-2, N-3
 Related Nodes: N-11165, N-10401
 Tags: relevance:core
 Investigative Direction: Obtain Army and court records for the charge against Busher and any Romanian Angels staff or board listing.
@@ -2082,7 +2082,7 @@ Claim: The host says Greg Laurie, with whom Erika Kirk went on tour, leads Harve
 Transcript Snippet: Greg Laurie uh whose church Erika went right on tour with him Harvest Church is currently being accused of trafficking ch children from Romania.
 
 Anchored Artifacts: A-3132.1
-Mentions: N-454, N-2, N-3
+Mentions: N-452, N-2, N-3
 Related Nodes: N-10411, N-10401
 Tags: relevance:core
 Investigative Direction: Review the lawsuit filings against Harvest Christian Fellowship and Erika Kirk's tour appearances with Laurie.
@@ -2115,7 +2115,7 @@ Claim: The host says Andrew Piscatello, who was detained that day, works to rais
 Transcript Snippet: Andrew Pascadlo, uh that was the person who was detained that day, uh works to ring the alarm on military Ukrainian sex trafficking in the United States.
 
 Anchored Artifacts: A-3132.1
-Mentions: N-807, N-3
+Mentions: N-805, N-3
 Related Nodes: N-10325
 Supports: C-8161
 Tags: relevance:core
@@ -2182,7 +2182,7 @@ Claim: The host says TPUSA adviser Paul Vallely, a retired Army general who ran 
 Transcript Snippet: The TPUSA adviser, Paul Vallely, retired Army general who ran psychological operations and co-wrote the book with Michael Aino, the Satanist and founder of the Temple of Set.
 
 Anchored Artifacts: A-3132.1
-Mentions: N-806, N-453, N-3
+Mentions: N-804, N-451, N-3
 Related Nodes: N-11238
 Supports: C-8246
 Tags: relevance:context
@@ -2199,7 +2199,7 @@ Claim: The host says Michael Aquino was accused of abusing children at Army Chil
 Transcript Snippet: He was accused, I'm referring to Michael Aino, was accused of abusing children at Army Child Development Centers.
 
 Anchored Artifacts: A-3132.1
-Mentions: N-453, N-3
+Mentions: N-451, N-3
 Related Nodes: N-11238
 Supports: C-2085
 Tags: relevance:context
@@ -2232,7 +2232,7 @@ Claim: The host says Nelda Buckman, the number one donor to Turning Point USA, i
 Transcript Snippet: Nelda Buckman, the number one donor to Turning Point USA, is extensively involved in rescuing children that are being sexually abused and trafficked.
 
 Anchored Artifacts: A-3132.1
-Mentions: N-464, N-3
+Mentions: N-462, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Check the Buckman foundation's filings and donations to child-rescue organizations.
@@ -2248,7 +2248,7 @@ Claim: The host says she should more responsibly say that Marcus Wada was former
 Transcript Snippet: I should probably change that to more responsibly say formerly involved in trafficking arms in Poland according to Turning Point USA current employees and past employees
 
 Anchored Artifacts: A-3132.1
-Mentions: N-428, N-3
+Mentions: N-426, N-3
 Related Nodes: N-10609
 Supports: C-2741
 Tags: relevance:core
@@ -2265,7 +2265,7 @@ Claim: The host says Marcus Wada's LinkedIn shows that he lived in Poland.
 Transcript Snippet: it's on his LinkedIn. He lived in Poland, so he maybe he just speaks Polish.
 
 Anchored Artifacts: A-3133.1
-Mentions: N-428, N-3
+Mentions: N-426, N-3
 Related Nodes: N-10127, N-10609
 Supports: C-2741
 Tags: relevance:core

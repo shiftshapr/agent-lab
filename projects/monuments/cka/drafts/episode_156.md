@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: c32da8cd664ed494ce187fb3608dadb0e6203f099e44e61f6891ccc4eb88cd7d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-797, N-11151, N-11152
+  - Tip-minted Nodes (supplement_2026-10b): N-795, N-11151, N-11152
   - Hole-minted Nodes (reintro-ep156): N-10860
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7776–C-7835
@@ -410,7 +410,7 @@ Widow and TPUSA CEO; the host criticizes her video release, donation email and p
 
 ---
 
-**N-797** Angel Castro
+**N-795** Angel Castro
 
 First named by the host at 00:01:40 in episode 156 (spelled "Angel Castro Castro" in the transcript). Person the host places near the van in the tent footage.
 
@@ -851,7 +851,7 @@ Claim: The host says the person standing by the van near Angel Castro was wearin
 Transcript Snippet: He was wearing red that day.
 
 Anchored Artifacts: A-2416.1
-Mentions: N-3, N-10, N-797
+Mentions: N-3, N-10, N-795
 Related Nodes: N-10860
 Supports: C-3531
 Tags: relevance:core

@@ -1192,8 +1192,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-379",
-      "ref": "N-379",
+      "@id": "N-377",
+      "ref": "N-377",
       "name": "Ryan Reynolds",
       "type": "person",
       "description": "Ryan Reynolds, named by the host with Blake Lively.",
@@ -1209,8 +1209,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-381",
-      "ref": "N-381",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Emmanuel Macron, party to the September 10 call with Trump.",
@@ -1246,8 +1246,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-488",
-      "ref": "N-488",
+      "@id": "N-486",
+      "ref": "N-486",
       "name": "Blake Lively",
       "type": "person",
       "description": "Blake Lively, named by the host among her prior investigations.",
@@ -1263,8 +1263,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-502",
-      "ref": "N-502",
+      "@id": "N-500",
+      "ref": "N-500",
       "name": "Phil Tourney",
       "type": "person",
       "description": "Phil Tourney, USS Liberty interview guest the host praises.",
@@ -1391,8 +1391,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-717",
-      "ref": "N-717",
+      "@id": "N-715",
+      "ref": "N-715",
       "name": "Kamala Harris",
       "type": "person",
       "description": "First named by the host (as 'Camala') at 00:26:31 in episode 40.",
@@ -1408,8 +1408,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-718",
-      "ref": "N-718",
+      "@id": "N-716",
+      "ref": "N-716",
       "name": "Russell Brand",
       "type": "person",
       "description": "First named by the host (as 'Russell Brandon') at 00:57:05 in episode 40.",
@@ -1425,8 +1425,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-719",
-      "ref": "N-719",
+      "@id": "N-717",
+      "ref": "N-717",
       "name": "Chuck Smith",
       "type": "person",
       "description": "First named by the host at 00:11:15 in episode 40, as the Calvary Chapel founder whose history she cites.",
@@ -1690,7 +1690,7 @@
       "investigative_direction": "Locate Macron's released public calendar; confirm the timestamp and any documented subject of the call.",
       "mentions_person_refs": [
         "N-5",
-        "N-381"
+        "N-379"
       ]
     },
     {
@@ -2172,7 +2172,7 @@
       "transcript_snippet": "I do believe the Calvary Chapel uh their history with Chuck Smith, the evidence that it was a militant CIA effort to infiltrate the Christian faith",
       "mentions_person_refs": [
         "N-3",
-        "N-719"
+        "N-717"
       ]
     },
     {
@@ -2622,9 +2622,9 @@
       "transcript_snippet": "Sometimes it's Blake Lively and Ryan Reynolds when they try to destroy a man's life who's not even on my quote unquote political team.",
       "mentions_person_refs": [
         "N-3",
-        "N-488",
-        "N-379",
-        "N-717",
+        "N-486",
+        "N-377",
+        "N-715",
         "N-82"
       ]
     },
@@ -3022,7 +3022,7 @@
       "transcript_snippet": "because the president played of France allegedly paid $1.5 million for my assassination.",
       "mentions_person_refs": [
         "N-3",
-        "N-381"
+        "N-379"
       ]
     },
     {
@@ -3060,7 +3060,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-381"
+        "N-379"
       ]
     },
     {
@@ -3105,7 +3105,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-381",
+        "N-379",
         "N-1"
       ]
     },
@@ -3131,7 +3131,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-381"
+        "N-379"
       ]
     },
     {
@@ -3223,7 +3223,7 @@
       "transcript_snippet": "I spoke about it more at length with Russell Brandon uh on his show. So that should be coming out soon.",
       "mentions_person_refs": [
         "N-3",
-        "N-718"
+        "N-716"
       ]
     },
     {
@@ -3333,7 +3333,7 @@
       "transcript_snippet": "you could feel a spiritual movement in this room when we interviewed Phil Tourney of the USS Liberty.",
       "mentions_person_refs": [
         "N-3",
-        "N-502"
+        "N-500"
       ]
     },
     {

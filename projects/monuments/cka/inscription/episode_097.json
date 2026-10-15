@@ -438,7 +438,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-791"
+            "N-789"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -614,7 +614,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-364"
+            "N-363"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1060,8 +1060,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-363",
+      "ref": "N-363",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Subject and source of Fort Huachuca sightings testimony; his son's interview (A-1574) provides partial corroboration.",
@@ -1117,8 +1117,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-432",
-      "ref": "N-432",
+      "@id": "N-430",
+      "ref": "N-430",
       "name": "Josh Gottheimer",
       "type": "person",
       "description": "First named by the host at 00:50:06 in episode 97.",
@@ -1138,8 +1138,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-431",
-      "ref": "N-431",
+      "@id": "N-429",
+      "ref": "N-429",
       "name": "Mike Lawler",
       "type": "person",
       "description": "First named by the host at 00:50:06 in episode 97.",
@@ -1159,8 +1159,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-383",
-      "ref": "N-383",
+      "@id": "N-381",
+      "ref": "N-381",
       "name": "Josef Mengele",
       "type": "person",
       "description": "Named by the host at 00:53:42 in episode 97; first introduced in episode 65.",
@@ -1180,8 +1180,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-791",
-      "ref": "N-791",
+      "@id": "N-789",
+      "ref": "N-789",
       "name": "Hasan Piker",
       "type": "person",
       "description": "Streamer; first named in A-2023.1.",
@@ -1482,8 +1482,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-436",
-      "ref": "N-436",
+      "@id": "N-434",
+      "ref": "N-434",
       "name": "Kimberly Klacik",
       "type": "person",
       "description": "Kim Klacik; the host recounts her earlier lawsuit against the host.",
@@ -1499,8 +1499,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-555",
-      "ref": "N-555",
+      "@id": "N-553",
+      "ref": "N-553",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Aubrey Lech; the host says Kolvet cannot show what Lech gave her.",
@@ -1517,8 +1517,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-605",
-      "ref": "N-605",
+      "@id": "N-603",
+      "ref": "N-603",
       "name": "Melania Trump",
       "type": "person",
       "description": "Melania Trump; author of the post criticizing Kimmel.",
@@ -1945,8 +1945,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-867",
-      "ref": "N-867",
+      "@id": "N-865",
+      "ref": "N-865",
       "name": "Matt Slauson",
       "type": "person",
       "description": "First named by the host at 01:08:34 in episode 97 (spelled Slauson; at 01:13:25 she says 'Matt Christiansen', possibly the same lawyer). Attorney for Brian Harpole.",
@@ -2143,7 +2143,7 @@
       "investigative_direction": "Cross-reference the embedded text messages against phone records; verify Harpole's receipt.",
       "mentions_person_refs": [
         "N-3",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -2339,9 +2339,9 @@
       "investigative_direction": "Obtain the full resolution text from Congress.gov and verify resolution number, co-sponsors, and referral.",
       "mentions_person_refs": [
         "N-3",
-        "N-432",
-        "N-431",
-        "N-383"
+        "N-430",
+        "N-429",
+        "N-381"
       ]
     },
     {
@@ -2361,9 +2361,9 @@
       "investigative_direction": "Audit Candace's prior commentary for any statement matching the resolution's characterization.",
       "mentions_person_refs": [
         "N-3",
-        "N-432",
-        "N-431",
-        "N-383"
+        "N-430",
+        "N-429",
+        "N-381"
       ]
     },
     {
@@ -2383,9 +2383,9 @@
       "investigative_direction": "Review Candace's commentary on Epstein, Israeli intelligence, and pedophilia rings for the exact phrasing.",
       "mentions_person_refs": [
         "N-3",
-        "N-432",
-        "N-431",
-        "N-383"
+        "N-430",
+        "N-429",
+        "N-381"
       ]
     },
     {
@@ -2405,9 +2405,9 @@
       "investigative_direction": "Locate Candace's July 2024 statements about Mengele and verify exact wording.",
       "mentions_person_refs": [
         "N-3",
-        "N-432",
-        "N-431",
-        "N-383"
+        "N-430",
+        "N-429",
+        "N-381"
       ]
     },
     {
@@ -2427,9 +2427,9 @@
       "investigative_direction": "Obtain original Auschwitz Memorial podcast episode for full context.",
       "mentions_person_refs": [
         "N-3",
-        "N-432",
-        "N-431",
-        "N-383"
+        "N-430",
+        "N-429",
+        "N-381"
       ]
     },
     {
@@ -2920,7 +2920,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-268",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -2941,7 +2941,7 @@
       "transcript_snippet": "It was a solo episode on December 9th and if you recall, it caused mass panic.",
       "mentions_person_refs": [
         "N-3",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -2964,7 +2964,7 @@
       "transcript_snippet": "this was coming through Paramount Tactical and the Valhalla guy and they were saying, \"If you do this if if you interview Mitch, Mitch wasn't even in the military.",
       "mentions_person_refs": [
         "N-3",
-        "N-364",
+        "N-363",
         "N-268"
       ]
     },
@@ -2987,7 +2987,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-268",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -3013,7 +3013,7 @@
         "N-3",
         "N-268",
         "N-272",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -3059,7 +3059,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-268",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -3115,7 +3115,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-268",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -3141,7 +3141,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -3164,7 +3164,7 @@
       "transcript_snippet": "I confirmed the location with other people that are that are on uh Fort Huachuca currently. I can confirm everything with metadata.",
       "mentions_person_refs": [
         "N-3",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -3190,7 +3190,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-364",
+        "N-363",
         "N-321"
       ]
     },
@@ -3229,7 +3229,7 @@
       "transcript_snippet": "she took it to discovery and then she folded. Right? She folded and wanted to sign an agreement and say, let's let's walk away and not talk about it",
       "mentions_person_refs": [
         "N-3",
-        "N-436"
+        "N-434"
       ]
     },
     {
@@ -3548,7 +3548,7 @@
         "N-3",
         "N-192",
         "N-14",
-        "N-555"
+        "N-553"
       ]
     },
     {
@@ -3570,7 +3570,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-555"
+        "N-553"
       ]
     },
     {
@@ -3594,8 +3594,8 @@
       "transcript_snippet": "these two people I I both of them brought this forward take more than a million dollars from AIPAC.",
       "mentions_person_refs": [
         "N-3",
-        "N-431",
-        "N-432"
+        "N-429",
+        "N-430"
       ]
     },
     {
@@ -3618,8 +3618,8 @@
       "transcript_snippet": "Government promoting false claims that that Jews are taught by ancient religious texts to hate non-Jews and casting doubt on the truth of Holocaust survivors.",
       "mentions_person_refs": [
         "N-3",
-        "N-431",
-        "N-432"
+        "N-429",
+        "N-430"
       ]
     },
     {
@@ -3706,8 +3706,8 @@
       "transcript_snippet": "It then goes on and says um that I repeated false claims that Jews are chil- killing Christian children.",
       "mentions_person_refs": [
         "N-3",
-        "N-431",
-        "N-432"
+        "N-429",
+        "N-430"
       ]
     },
     {
@@ -3765,7 +3765,7 @@
       "investigative_direction": "Retrieve the original Melania Trump post and its date.",
       "transcript_snippet": "Melania Trump she tweeted and said this about Jimmy Kimmel. Jimmy Kimmel's vote of joke that happened before the shooting. That it was hateful and violent rhetoric intended to divide our country.",
       "mentions_person_refs": [
-        "N-605",
+        "N-603",
         "N-87"
       ]
     },
@@ -3851,7 +3851,7 @@
       "transcript_snippet": "this lawyer, Matt Slauson, the one who speaks like he has helium. Like he's just ingested some helium. Uh definitively was retweeting Laura Loomer.",
       "mentions_person_refs": [
         "N-3",
-        "N-867",
+        "N-865",
         "N-60"
       ]
     },
@@ -3988,7 +3988,7 @@
       "transcript_snippet": "Mitch says the meeting concluded at 7:30 a. m. There were flights that left Fort Huachuca and got back into Dallas by 10:00 a. m.",
       "mentions_person_refs": [
         "N-3",
-        "N-364"
+        "N-363"
       ]
     },
     {

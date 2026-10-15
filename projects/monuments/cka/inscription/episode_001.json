@@ -868,8 +868,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-937",
-      "ref": "N-937",
+      "@id": "N-935",
+      "ref": "N-935",
       "name": "Brett Kavanaugh",
       "type": "person",
       "description": "Named on a T-shirt slogan the host recalls; first named by the host at 00:13:32 in episode 001.",
@@ -1660,7 +1660,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-937"
+        "N-935"
       ]
     },
     {

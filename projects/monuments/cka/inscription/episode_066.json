@@ -32,8 +32,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-516",
-            "N-517"
+            "N-514",
+            "N-515"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -89,7 +89,7 @@
             "C-2248"
           ],
           "related_nodes": [
-            "N-518",
+            "N-516",
             "N-188",
             "N-2"
           ],
@@ -117,7 +117,7 @@
             "C-2244"
           ],
           "related_nodes": [
-            "N-518",
+            "N-516",
             "N-2"
           ],
           "tags": [],
@@ -146,7 +146,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-518"
+            "N-516"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -172,7 +172,7 @@
             "C-2247"
           ],
           "related_nodes": [
-            "N-519",
+            "N-517",
             "N-2",
             "N-10466",
             "N-10469"
@@ -228,7 +228,7 @@
             "C-2252"
           ],
           "related_nodes": [
-            "N-520",
+            "N-518",
             "N-85"
           ],
           "tags": [],
@@ -349,8 +349,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-516",
-      "ref": "N-516",
+      "@id": "N-514",
+      "ref": "N-514",
       "name": "Dr. Allen Wolft",
       "type": "person",
       "description": "Colorado-based death educator and grief counselor quoted in the Daily Mail article as attributing public criticism of Erica Kirk to \"mourning avoidant, emotion phobic culture.\"",
@@ -368,8 +368,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-517",
-      "ref": "N-517",
+      "@id": "N-515",
+      "ref": "N-515",
       "name": "Bidwell Smith",
       "type": "person",
       "description": "LA grief therapist quoted in the Daily Mail article stating widows are \"uniquely grief policed\" and that \"grief is not a performance and survival is not a moral failure.\"",
@@ -428,8 +428,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-518",
-      "ref": "N-518",
+      "@id": "N-516",
+      "ref": "N-516",
       "name": "Father Blank",
       "type": "person",
       "description": "Priest referenced in the donor's email and texts; flew with Erica to Utah, was present when she received notification of Charlie's death, said the homily at the private funeral on the Friday before the memorial, and texted the donor about mass on the Monday after.",
@@ -453,8 +453,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-519",
-      "ref": "N-519",
+      "@id": "N-517",
+      "ref": "N-517",
       "name": "TPUSA \"Blank\"",
       "type": "person",
       "description": "TPUSA staffer described in donor-introduction text as having traveled with Charlie and handled major donors; introduced the donor into the post-memorial fundraising pipeline.",
@@ -475,8 +475,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-520",
-      "ref": "N-520",
+      "@id": "N-518",
+      "ref": "N-518",
       "name": "Don Lemon",
       "type": "person",
       "description": "Journalist shown in on-air clip at a Minnesota church protest; referenced in connection with his federal arrest by DOJ under Pam Bondi.",
@@ -512,13 +512,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-520"
+        "N-518"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-521",
-      "ref": "N-521",
+      "@id": "N-519",
+      "ref": "N-519",
       "name": "Kobe Bryant",
       "type": "person",
       "description": "Referenced solely as a behavioral-comparison anchor for Erica Kirk (widow grief conduct at memorial); no artifact introduced.",
@@ -530,14 +530,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-522",
+        "N-520",
         "N-2"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-522",
-      "ref": "N-522",
+      "@id": "N-520",
+      "ref": "N-520",
       "name": "Vanessa Bryant",
       "type": "person",
       "description": "Referenced as the comparison figure for widow-grief conduct at Kobe's memorial (eulogy delivered one month later, no TPUSA-equivalent organizational pitch in speech).",
@@ -549,7 +549,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-521",
+        "N-519",
         "N-2"
       ]
     },
@@ -619,7 +619,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-188",
-        "N-519",
+        "N-517",
         "N-14"
       ]
     },
@@ -640,7 +640,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-518"
+        "N-516"
       ]
     },
     {
@@ -890,8 +890,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-727",
-      "ref": "N-727",
+      "@id": "N-725",
+      "ref": "N-725",
       "name": "Rabbi Barlay",
       "type": "person",
       "description": "Rabbi Barlay (the transcript spells him Rabbi Barklay); the host says her debate with him and his interview shaped her view of Zionism.",
@@ -1234,8 +1234,8 @@
       "investigative_direction": "Retrieve full Daily Mail article text and verify quotes, attributions, and publication context.",
       "mentions_person_refs": [
         "N-2",
-        "N-516",
-        "N-517"
+        "N-514",
+        "N-515"
       ]
     },
     {
@@ -1253,8 +1253,8 @@
       "investigative_direction": "Confirm expert credentials, prior publication record, and any financial or organizational ties to TPUSA or Kirk-aligned entities.",
       "mentions_person_refs": [
         "N-2",
-        "N-516",
-        "N-517"
+        "N-514",
+        "N-515"
       ]
     },
     {
@@ -1290,8 +1290,8 @@
       "investigative_direction": "Obtain and compare the full transcripts of both memorial speeches against the host's characterization; note Vanessa Bryant speech is verbally referenced but not played or quoted in this episode.",
       "mentions_person_refs": [
         "N-2",
-        "N-521",
-        "N-522"
+        "N-519",
+        "N-520"
       ]
     },
     {
@@ -1312,7 +1312,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-188",
-        "N-518"
+        "N-516"
       ]
     },
     {
@@ -1331,7 +1331,7 @@
       "investigative_direction": "Obtain phone records or screenshots of the actual text thread; verify whether \"may be there\" phrasing reflects typical priest communication or pre-coordinated signal.",
       "mentions_person_refs": [
         "N-2",
-        "N-518"
+        "N-516"
       ]
     },
     {
@@ -1349,7 +1349,7 @@
       "investigative_direction": "Cross-check donor's account with Erica Kirk's public acknowledgment of receiving relics.",
       "mentions_person_refs": [
         "N-2",
-        "N-518"
+        "N-516"
       ]
     },
     {
@@ -1368,7 +1368,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-518"
+        "N-516"
       ]
     },
     {
@@ -1389,7 +1389,7 @@
       "investigative_direction": "Verify Cardinal Stadium event calendar for that weekend; cross-check White House or Trump campaign communications about venue booking; trace the TPUSA \"Blank\" staffer identity.",
       "mentions_person_refs": [
         "N-2",
-        "N-519"
+        "N-517"
       ]
     },
     {
@@ -1407,7 +1407,7 @@
       "investigative_direction": "Verify text message metadata and check whether the priest used similar phrasing with other donors introduced through memorial attendance.",
       "mentions_person_refs": [
         "N-2",
-        "N-518"
+        "N-516"
       ]
     },
     {
@@ -1477,7 +1477,7 @@
       "investigative_direction": "Confirm the underlying church affiliation and ICE relationship; verify the federal charges basis for Don Lemon's subsequent arrest.",
       "mentions_person_refs": [
         "N-85",
-        "N-520"
+        "N-518"
       ]
     },
     {
@@ -1546,7 +1546,7 @@
         "C-2240"
       ],
       "mentions_person_refs": [
-        "N-516",
+        "N-514",
         "N-2"
       ]
     },
@@ -1568,8 +1568,8 @@
         "C-2242"
       ],
       "mentions_person_refs": [
-        "N-522",
-        "N-521",
+        "N-520",
+        "N-519",
         "N-3"
       ]
     },
@@ -1591,8 +1591,8 @@
         "C-2242"
       ],
       "mentions_person_refs": [
-        "N-522",
-        "N-521",
+        "N-520",
+        "N-519",
         "N-3"
       ]
     },
@@ -1686,7 +1686,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-518"
+        "N-516"
       ]
     },
     {
@@ -1754,7 +1754,7 @@
       "investigative_direction": "Check the memorial seating chart and credential records for the third-row sections and who sat in them.",
       "transcript_snippet": "I spent a good eight hours sitting with Father Blank. I'm shy generally and was sitting with empty seats around me in the third row from the stage.",
       "mentions_person_refs": [
-        "N-518"
+        "N-516"
       ]
     },
     {
@@ -1774,7 +1774,7 @@
       "investigative_direction": "Ask the donor for the messages the priest showed her and compare with the September 9 group-chat text shown at 00:23:14.",
       "transcript_snippet": "Tears going down his face from his stories and messages from Charlie that he showed me.",
       "mentions_person_refs": [
-        "N-518",
+        "N-516",
         "N-1",
         "N-2"
       ]
@@ -1844,7 +1844,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-1",
-        "N-518"
+        "N-516"
       ]
     },
     {
@@ -1998,7 +1998,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-518"
+        "N-516"
       ]
     },
     {
@@ -2086,7 +2086,7 @@
       "investigative_direction": "Identify the TPUSA staffer and the sender of the text from the donor's screenshot; check the staffer's travel with Charlie.",
       "transcript_snippet": "I'm going to introduce you via text to TPUSA's Blank who traveled everywhere with Charlie handling many of their big donors.",
       "mentions_person_refs": [
-        "N-519",
+        "N-517",
         "N-1"
       ]
     },
@@ -2113,7 +2113,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-519"
+        "N-517"
       ]
     },
     {
@@ -2201,7 +2201,7 @@
       "investigative_direction": "Check the parish bulletin and mass schedule; note the host dates the donor's Monday mass to September 10 though the memorial was on a Sunday, so confirm which date she means.",
       "transcript_snippet": "If I am correct, he also cancelled his mass on September 10th.",
       "mentions_person_refs": [
-        "N-518",
+        "N-516",
         "N-3"
       ]
     },
@@ -2494,7 +2494,7 @@
       "investigative_direction": "Review the federal charging documents for the Lemon arrest to compare the stated basis with the host's description.",
       "transcript_snippet": "but objectively, him being put in prison because Pam Bondi wanted a headline.",
       "mentions_person_refs": [
-        "N-520",
+        "N-518",
         "N-85"
       ]
     },
@@ -2797,7 +2797,7 @@
       "investigative_direction": "Personal position recorded as said; the interview is the Daily Wire debate the host mentions earlier.",
       "transcript_snippet": "And that probably was part of the beginning of the end of my support for Zionism because I now believe that it is a objectively racist philosophy.",
       "mentions_person_refs": [
-        "N-727",
+        "N-725",
         "N-3"
       ]
     }

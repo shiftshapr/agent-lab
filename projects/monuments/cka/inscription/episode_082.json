@@ -1153,8 +1153,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-500",
-      "ref": "N-500",
+      "@id": "N-498",
+      "ref": "N-498",
       "name": "Doug DeGroot",
       "type": "person",
       "description": "TPUSA board member the host guesses was the donor (transcribed Doug De Root).",
@@ -1170,8 +1170,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-555",
-      "ref": "N-555",
+      "@id": "N-553",
+      "ref": "N-553",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Former TPUSA PR manager in the text thread with Justin and Andrew.",
@@ -1188,8 +1188,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-695",
-      "ref": "N-695",
+      "@id": "N-693",
+      "ref": "N-693",
       "name": "Laura Ingraham",
       "type": "person",
       "description": "Fox host whose show Andrew Kolvet is said to have discussed with Aubrey.",
@@ -1503,8 +1503,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-812",
-      "ref": "N-812",
+      "@id": "N-810",
+      "ref": "N-810",
       "name": "Ross Douthat",
       "type": "person",
       "description": "First named by the host at 00:30:36 in episode 82. New York Times reporter who interviewed Andrew Kolvet about the 9/10 show.",
@@ -1521,8 +1521,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-813",
-      "ref": "N-813",
+      "@id": "N-811",
+      "ref": "N-811",
       "name": "Michael Shellenberger",
       "type": "person",
       "description": "First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.",
@@ -1538,8 +1538,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-814",
-      "ref": "N-814",
+      "@id": "N-812",
+      "ref": "N-812",
       "name": "Pat Buchanan",
       "type": "person",
       "description": "First named by the host at 00:58:49 in episode 82 (from a viewer comment). Commentator the host says coined Israel's amen corner.",
@@ -2215,7 +2215,7 @@
       "transcript_snippet": "And Justin jumps in on the text it and he says that uh, \"It's up to Andrew.\" And Andrew doesn't answer",
       "mentions_person_refs": [
         "N-3",
-        "N-555",
+        "N-553",
         "N-15",
         "N-14",
         "N-1"
@@ -2266,8 +2266,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-555",
-        "N-695"
+        "N-553",
+        "N-693"
       ]
     },
     {
@@ -2408,7 +2408,7 @@
         "N-1",
         "N-14",
         "N-97",
-        "N-812"
+        "N-810"
       ]
     },
     {
@@ -2432,7 +2432,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-1",
-        "N-812"
+        "N-810"
       ]
     },
     {
@@ -2739,7 +2739,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-211",
-        "N-813",
+        "N-811",
         "N-40"
       ]
     },
@@ -3147,7 +3147,7 @@
       "transcript_snippet": "He coined the phrase Israel's amen corner in the early 90s.",
       "mentions_person_refs": [
         "N-3",
-        "N-814",
+        "N-812",
         "N-39"
       ]
     },
@@ -3190,7 +3190,7 @@
       "transcript_snippet": "My guess would be off the bat Doug De Root on the um he's on the board and I think he's a donor.",
       "mentions_person_refs": [
         "N-3",
-        "N-500"
+        "N-498"
       ]
     },
     {

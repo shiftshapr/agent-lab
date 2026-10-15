@@ -1061,8 +1061,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-428",
-      "ref": "N-428",
+      "@id": "N-426",
+      "ref": "N-426",
       "name": "Marcus Wada",
       "type": "person",
       "description": "First named by the host at 00:42:41 in episode 92.",
@@ -1148,8 +1148,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-895",
-      "ref": "N-895",
+      "@id": "N-893",
+      "ref": "N-893",
       "name": "Savannah Hernandez",
       "type": "person",
       "description": "First named by the host at 00:07:17 in episode 92 (via the Kolvet clip). TPUSA front-lines reporter in the Minneapolis incident cited by Kolvet and Vance.",
@@ -1258,8 +1258,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-896",
-      "ref": "N-896",
+      "@id": "N-894",
+      "ref": "N-894",
       "name": "Bettina Anderson",
       "type": "person",
       "description": "First named by the host at 00:16:56 in episode 92 (spelled Betina). Fiancee of Donald Trump Jr. whose bridal shower the host says Erika Kirk attended.",
@@ -1311,8 +1311,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-422",
+      "ref": "N-422",
       "name": "Pope Leo XIV",
       "type": "person",
       "description": "Pope whom the host says Trump attacked.",
@@ -1345,8 +1345,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-604",
-      "ref": "N-604",
+      "@id": "N-602",
+      "ref": "N-602",
       "name": "Scott Bessent",
       "type": "person",
       "description": "Treasury Secretary the host says issued a letter on demand.",
@@ -1454,8 +1454,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-897",
-      "ref": "N-897",
+      "@id": "N-895",
+      "ref": "N-895",
       "name": "David J. Harris",
       "type": "person",
       "description": "First named by the host at 00:40:01 in episode 92 (David Harris). Business partner in the Marx supplements, per the host.",
@@ -1525,8 +1525,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-693",
-      "ref": "N-693",
+      "@id": "N-691",
+      "ref": "N-691",
       "name": "Otto Busher",
       "type": "person",
       "description": "Colonel the host links to Fort Huachuca and Romanian Angels.",
@@ -1559,8 +1559,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-454",
-      "ref": "N-454",
+      "@id": "N-452",
+      "ref": "N-452",
       "name": "Greg Laurie",
       "type": "person",
       "description": "Harvest pastor who toured with Erika Kirk per the host.",
@@ -1627,8 +1627,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-807",
-      "ref": "N-807",
+      "@id": "N-805",
+      "ref": "N-805",
       "name": "Andrew Piscatello",
       "type": "person",
       "description": "Transcribed Andrew Pascadlo; detained photographer who raises trafficking alarms.",
@@ -1746,8 +1746,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-806",
-      "ref": "N-806",
+      "@id": "N-804",
+      "ref": "N-804",
       "name": "Paul Vallely",
       "type": "person",
       "description": "TPUSA adviser transcribed Paul Vallely; co-author with Aquino.",
@@ -1763,8 +1763,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-453",
-      "ref": "N-453",
+      "@id": "N-451",
+      "ref": "N-451",
       "name": "Michael Aquino",
       "type": "person",
       "description": "Transcribed Michael Aino; co-author and Temple of Set founder.",
@@ -1799,8 +1799,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-464",
-      "ref": "N-464",
+      "@id": "N-462",
+      "ref": "N-462",
       "name": "Nelda Buckman",
       "type": "person",
       "description": "Top TPUSA donor transcribed Nelda Buckman.",
@@ -2262,7 +2262,7 @@
       "claim_timestamp": "00:43:46",
       "investigative_direction": "Obtain archived copies of the TPUSA bio page; verify against TPUSA staff directory and IRS Form 990 disclosures.",
       "mentions_person_refs": [
-        "N-428"
+        "N-426"
       ]
     },
     {
@@ -2281,7 +2281,7 @@
       "claim_timestamp": "00:43:46",
       "investigative_direction": "Cross-reference against IMDb / production credits; verify production dates and roles.",
       "mentions_person_refs": [
-        "N-428"
+        "N-426"
       ]
     },
     {
@@ -2301,7 +2301,7 @@
       "claim_timestamp": "00:46:09",
       "investigative_direction": "Obtain full webpage capture; identify the firm and confirm the family relationship through independent records.",
       "mentions_person_refs": [
-        "N-428"
+        "N-426"
       ]
     },
     {
@@ -2342,7 +2342,7 @@
       "investigative_direction": "Identify at least one named corroborating source; cross-reference LinkedIn history (A-1976.1) for prior Poland-based employment.",
       "mentions_person_refs": [
         "N-14",
-        "N-428"
+        "N-426"
       ]
     },
     {
@@ -2481,7 +2481,7 @@
       "transcript_snippet": "which I think is the first time that we've ever had to make that decision in Turning Point history.",
       "mentions_person_refs": [
         "N-14",
-        "N-895",
+        "N-893",
         "N-2"
       ]
     },
@@ -2740,7 +2740,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-33",
-        "N-896"
+        "N-894"
       ]
     },
     {
@@ -2854,7 +2854,7 @@
       "mentions_person_refs": [
         "N-4",
         "N-1",
-        "N-895"
+        "N-893"
       ]
     },
     {
@@ -2912,7 +2912,7 @@
       "transcript_snippet": "How about Trump just generally attacking a pope because he's calling for peace? How about Trump saying that Brigitte Macron is hot?",
       "mentions_person_refs": [
         "N-5",
-        "N-424",
+        "N-422",
         "N-82"
       ]
     },
@@ -2954,7 +2954,7 @@
       "transcript_snippet": "She can get uh the Secretary Scott Bessence to issue a letter on demand demanding you stop looking into their finances.",
       "mentions_person_refs": [
         "N-2",
-        "N-604",
+        "N-602",
         "N-3"
       ]
     },
@@ -3218,7 +3218,7 @@
       "transcript_snippet": "You had supplements that you were doing with David Harris.",
       "mentions_person_refs": [
         "N-343",
-        "N-897",
+        "N-895",
         "N-3"
       ]
     },
@@ -3240,7 +3240,7 @@
       "transcript_snippet": "David Harris calls God Papa. I don't know. And he like you guys said that like proceed the supplements were going to help human sex trafficking victims.",
       "mentions_person_refs": [
         "N-343",
-        "N-897",
+        "N-895",
         "N-3"
       ]
     },
@@ -3288,7 +3288,7 @@
         "C-2741"
       ],
       "mentions_person_refs": [
-        "N-428",
+        "N-426",
         "N-3"
       ]
     },
@@ -3314,7 +3314,7 @@
         "C-2739"
       ],
       "mentions_person_refs": [
-        "N-428",
+        "N-426",
         "N-3"
       ]
     },
@@ -3365,7 +3365,7 @@
       "investigative_direction": "Obtain Army and court records for the charge against Busher and any Romanian Angels staff or board listing.",
       "transcript_snippet": "he worked with Romanian Angels which was her charity uh the civilian commander stationed at Fort Huachuca charged with running a child sex abuse ring",
       "mentions_person_refs": [
-        "N-693",
+        "N-691",
         "N-2",
         "N-3"
       ]
@@ -3390,7 +3390,7 @@
       "investigative_direction": "Review the lawsuit filings against Harvest Christian Fellowship and Erika Kirk's tour appearances with Laurie.",
       "transcript_snippet": "Greg Laurie uh whose church Erika went right on tour with him Harvest Church is currently being accused of trafficking ch children from Romania.",
       "mentions_person_refs": [
-        "N-454",
+        "N-452",
         "N-2",
         "N-3"
       ]
@@ -3443,7 +3443,7 @@
         "C-8161"
       ],
       "mentions_person_refs": [
-        "N-807",
+        "N-805",
         "N-3"
       ]
     },
@@ -3545,8 +3545,8 @@
         "C-8246"
       ],
       "mentions_person_refs": [
-        "N-806",
-        "N-453",
+        "N-804",
+        "N-451",
         "N-3"
       ]
     },
@@ -3572,7 +3572,7 @@
         "C-2085"
       ],
       "mentions_person_refs": [
-        "N-453",
+        "N-451",
         "N-3"
       ]
     },
@@ -3618,7 +3618,7 @@
       "investigative_direction": "Check the Buckman foundation's filings and donations to child-rescue organizations.",
       "transcript_snippet": "Nelda Buckman, the number one donor to Turning Point USA, is extensively involved in rescuing children that are being sexually abused and trafficked.",
       "mentions_person_refs": [
-        "N-464",
+        "N-462",
         "N-3"
       ]
     },
@@ -3644,7 +3644,7 @@
         "C-2741"
       ],
       "mentions_person_refs": [
-        "N-428",
+        "N-426",
         "N-3"
       ]
     },
@@ -3671,7 +3671,7 @@
         "C-2741"
       ],
       "mentions_person_refs": [
-        "N-428",
+        "N-426",
         "N-3"
       ]
     },

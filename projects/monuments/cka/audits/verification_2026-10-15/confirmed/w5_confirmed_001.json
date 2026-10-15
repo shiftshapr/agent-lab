@@ -1,0 +1,524 @@
+[
+ {
+  "claim": "C-14051",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Danny McCoy is Mikey's brother (transcript line 138); claim does not refer to Mikey McCoy."
+ },
+ {
+  "claim": "C-14059",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-3"
+   ]
+  },
+  "note": "'people around Charlie' names Charlie."
+ },
+ {
+  "claim": "C-14062",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-82",
+    "N-436"
+   ]
+  },
+  "note": "'Charlie's security' names Charlie."
+ },
+ {
+  "claim": "C-14065",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she thought neither side was supposed to be doing live streams while talks were underway, that TPUSA's continued daily show was not communicated to her, that it felt like a ceasefire that got violated, and that the Charlie Kirk Show discussed the Tyler Robinson trial the day before.",
+   "mentions": [
+    "N-3",
+    "N-40"
+   ]
+  },
+  "note": "Transcript supports the reworded claim; Tyler Robinson named."
+ },
+ {
+  "claim": "C-14069",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "A speaker on the Charlie Kirk Show says that Andrew Sypher, head of field, can attest that Charlie sometimes put out events 7 to 10 days in advance and could do outdoor events on a quick turn.",
+   "names": [
+    {
+     "wrong": "Andrew Seifer",
+     "right": "Andrew Sypher",
+     "source": "https://www.tpusa.com/andrewsypher"
+    }
+   ]
+  },
+  "note": "Transcript_corrected already reads Andrew Sypher; Sypher confirmed as TPUSA chief field officer (tpusa.com, theorg.com)."
+ },
+ {
+  "claim": "C-14073",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-3",
+    "N-40"
+   ]
+  },
+  "note": "'Robinson messages' refers to Tyler Robinson."
+ },
+ {
+  "claim": "C-14074",
+  "episode": 47,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Megyn Kelly, who was initially going to ref the conversation when it was going to be livestreamed and before the Bari Weiss moment, offered to ref it.",
+   "timestamp": "00:57:55"
+  },
+  "note": "Content fix right; Kelly line falls about 58:01 by position in the 56:50-58:29 block, so 58:07 is late."
+ },
+ {
+  "claim": "C-14085",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-22",
+    "N-147"
+   ]
+  },
+  "note": "Bowyer named in transcript but not in claim."
+ },
+ {
+  "claim": "C-1960",
+  "episode": 48,
+  "decision": "accept",
+  "fix": {
+   "claim": "Andrew Kolvet's X post contains a quotation attributed to \"the surgeon\" describing Charlie Kirk's neck bone as \"so healthy and the density was so, so impressive that he's like the man of steel,\" and stating the bullet \"should have just gone through and through.\"",
+   "mentions": [
+    "N-197",
+    "N-14",
+    "N-1"
+   ],
+   "names": [
+    {
+     "wrong": "Andrew Colberg",
+     "right": "Andrew Kolvet",
+     "source": "https://x.com/AndrewKolvet/status/1969551427648569633"
+    }
+   ]
+  },
+  "note": "Kolvet confirmed (his Sept 20, 2025 X post, KoshaGada repost, soapcentral). Surgeon (Trotter) kept as referred-to."
+ },
+ {
+  "claim": "C-1961",
+  "episode": 48,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:27:12"
+  },
+  "note": "'They roped off the vehicle' at ~27:17 by position; 27:12 fits."
+ },
+ {
+  "claim": "C-1962",
+  "episode": 48,
+  "decision": "accept",
+  "fix": {
+   "claim": "Frank Turek states on a podcast that Charlie's necklace, bearing a cross and medallions, was draped over his computer bag inside the transport vehicle, and that when a cop said they had been looking for it, he said he had it and took it."
+  },
+  "note": "Turek says he took it after the cop said they were looking for it."
+ },
+ {
+  "claim": "C-1967",
+  "episode": 48,
+  "decision": "accept",
+  "fix": {
+   "claim": "Brian Harpole states in an interview that the hard conversations, information sharing and conference calls for the UVU event began on August 24, though the intelligence gathering started before that."
+  },
+  "note": "Harpole: intel gathering started before the 24th."
+ },
+ {
+  "claim": "C-5185",
+  "episode": 48,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she was told that Andrew Kolvet was allegedly flying blind when he tweeted out the conversation he had with the surgeon.",
+   "mentions": [
+    "N-3",
+    "N-14"
+   ],
+   "names": [
+    {
+     "wrong": "Andrew Colberg",
+     "right": "Andrew Kolvet",
+     "source": "https://x.com/AndrewKolvet/status/1969551427648569633"
+    }
+   ]
+  },
+  "note": "Kolvet confirmed (X post, soapcentral coverage of this episode)."
+ },
+ {
+  "claim": "C-5186",
+  "episode": 48,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Kolvet tweet about Superman neck came very quickly after she said on her show that she had seen the back footage and there was no blood.",
+   "mentions": [
+    "N-3",
+    "N-14"
+   ],
+   "names": [
+    {
+     "wrong": "Andrew Colberg",
+     "right": "Andrew Kolvet",
+     "source": "https://x.com/AndrewKolvet/status/1969551427648569633"
+    }
+   ]
+  },
+  "note": "Kolvet confirmed."
+ },
+ {
+  "claim": "C-5187",
+  "episode": 48,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, per a source she trusts, Dr. Lee Trotter never once said Charlie Kirk's neck stopped a .30-06 bullet, and that the quotation Kolvet shared on X is not a direct quotation from the surgeon.",
+   "mentions": [
+    "N-197",
+    "N-14",
+    "N-1"
+   ],
+   "names": [
+    {
+     "wrong": "Andrew Colberg",
+     "right": "Andrew Kolvet",
+     "source": "https://x.com/AndrewKolvet/status/1969551427648569633"
+    }
+   ]
+  },
+  "note": "Kolvet confirmed; soapcentral reports Owens said Trotter never said this."
+ },
+ {
+  "claim": "C-5228",
+  "episode": 48,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim does not name or refer to Harpole."
+ },
+ {
+  "claim": "C-5230",
+  "episode": 48,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-332",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie Kirk."
+ },
+ {
+  "claim": "C-5234",
+  "episode": 48,
+  "decision": "amend",
+  "fix": {
+   "claim": "A speaker the transcript does not identify, answering a question about whether the switch from a Reach to a SAM call sign means someone more important got on or off, says the special air mission designation is usually used when very high-ranking or important people are aboard, while a Reach call sign suggests someone who does not rise to that level.",
+   "mentions": []
+  },
+  "note": "Not a Coleman clip: question refers to what Coleman 'just explained'; live studio exchange (Marksplaining), answerer unidentified."
+ },
+ {
+  "claim": "C-5236",
+  "episode": 48,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-268"
+   ]
+  },
+  "note": "Shawn Ryan not referred to in claim."
+ },
+ {
+  "claim": "C-5257",
+  "episode": 48,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Piers Morgan not in claim."
+ },
+ {
+  "claim": "C-1972",
+  "episode": 49,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-364"
+   ]
+  },
+  "note": "Captain Neff not in claim."
+ },
+ {
+  "claim": "C-1973",
+  "episode": 49,
+  "decision": "amend",
+  "fix": {
+   "claim": "Witness \"Mitch\" states that a woman in a ponytail he saw in the lobby the night before the meeting, on September 8, 2025, matches a past photograph of Erika Kirk, citing her really rare eyes, and puts that match at 95 to 99%."
+  },
+  "note": "95-99% for Erika is said at ~57:30 (just past the window), so it stays; 'blue' is not said, only 'really rare eyes'."
+ },
+ {
+  "claim": "C-5330",
+  "episode": 49,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-364"
+   ]
+  },
+  "note": "Neff not referred to."
+ },
+ {
+  "claim": "C-5331",
+  "episode": 49,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-364"
+   ]
+  },
+  "note": "Neff not referred to."
+ },
+ {
+  "claim": "C-5344",
+  "episode": 49,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the interview, Mitch says there were literally 51,000 unanswered emails in the host's tip inbox where he sent his tip."
+  },
+  "note": "Mitch says it at 1:04:16 block."
+ },
+ {
+  "claim": "C-1981",
+  "episode": 50,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Tucker Carlson says that during the last several months of Charlie Kirk's life, people who give money to Turning Point put immense pressure on Kirk to take Tucker off the AmFest speaker roster.",
+   "mentions": [
+    "N-22",
+    "N-1"
+   ]
+  },
+  "note": "Shapiro insistence is the host's remark before the clip."
+ },
+ {
+  "claim": "C-1982",
+  "episode": 50,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the Daily Wire fired her at a \"town hall\" staged in her studio, with about 300 employees present and Ben Shapiro joining electronically on screen; in a clip the host plays, then-CEO Jeremy Boreing narrates Owens's X posts (an October 28, 2023 repost of a London protest video, a November 3, 2023 post on genocide, and a February 28 post on the profiteering of pornography), and the host says he then went into a diatribe about the real meaning of \"Christ is King\"."
+  },
+  "note": "Porn post is in the clip; 'Christ is King' is the host's description of what followed, not tweets narrated in the clip."
+ },
+ {
+  "claim": "C-5355",
+  "episode": 50,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-64"
+   ]
+  },
+  "note": "Yashar Ali not in claim."
+ },
+ {
+  "claim": "C-5382",
+  "episode": 50,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Ben Shapiro describes himself as a Talmudic Jew, that he hates her, white men and all black people, and that if he is following the rules of the Talmud, \"they\" think \"we\" are animals and have a right to own us, make us worship them, lie to us, sue us and take everything we have, and deceive us. She cites no passage."
+  },
+  "note": "Fix right in substance but pronouns garbled ('own them'); transcript says 'own us', 'sue us and take everything that we have'."
+ },
+ {
+  "claim": "C-1994",
+  "episode": 51,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a Bari Weiss CBS segment clip the host plays, Bari Weiss says that Hunter Kozak was the last person Charlie Kirk ever spoke to and that he is there to ask Erika Kirk a question.",
+   "label": "Bari Weiss Clip Introduces Hunter Kozak as the Last Person Charlie Kirk Spoke To",
+   "names": [
+    {
+     "wrong": "Hunter Cosgrove",
+     "right": "Hunter Kozak",
+     "source": "https://abcnews.com/US/person-question-charlie-kirk-describes-moment-visceral/story?id=125505153"
+    }
+   ]
+  },
+  "note": "Kozak confirmed (ABC News, CBS); Weiss says 'he's here tonight, and he wants to ask you a question'."
+ },
+ {
+  "claim": "C-1998",
+  "episode": 51,
+  "decision": "accept",
+  "fix": {
+   "claim": "In an interview clip the host plays, a man the host identifies as Mitch Snow's adult son says Mitch would not be let into an operations center on any post but could go to the commissary and PX, and that he was called on September 9th by people asking if he knew Mitch Snow, who listed him as number one emergency contact.",
+   "mentions": [
+    "N-364"
+   ]
+  },
+  "note": "Son says 'They called me on September 9th'; no MPs, Harpole not named."
+ },
+ {
+  "claim": "C-6747",
+  "episode": 51,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the most effed up part of the Bari Weiss interview was CBS's decision to bring Hunter Kozak to ask Erika Kirk a question, and says she wants to know who approved the idea.",
+   "names": [
+    {
+     "wrong": "Hunter Cosgrove",
+     "right": "Hunter Kozak",
+     "source": "https://abcnews.com/US/person-question-charlie-kirk-describes-moment-visceral/story?id=125505153"
+    }
+   ]
+  },
+  "note": "Kozak confirmed (ABC News, CBS)."
+ },
+ {
+  "claim": "C-6748",
+  "episode": 51,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Hunter Kozak was the last person on Earth who tried to stress out Charlie Kirk, asking him a stupid question about transgenderism, before Kirk died.",
+   "label": "Host Says Kozak Asked Kirk a Question About Transgenderism Before Kirk Died",
+   "names": [
+    {
+     "wrong": "Hunter Cosgrove",
+     "right": "Hunter Kozak",
+     "source": "https://abcnews.com/US/person-question-charlie-kirk-describes-moment-visceral/story?id=125505153"
+    }
+   ]
+  },
+  "note": "Kozak confirmed; wording matches transcript."
+ },
+ {
+  "claim": "C-6763",
+  "episode": 51,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Paramount Tactical account in Valhalla called Mitch and pretended to be a brother, like a brother in arms, in an exchange she dramatizes.",
+   "mentions": [
+    "N-364"
+   ]
+  },
+  "note": "Foreign-agent funding of Mitch not supported; Paramount Tactical is an organisation."
+ },
+ {
+  "claim": "C-6772",
+  "episode": 51,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Paramount Tactical is an organisation; only Erika is a person in the claim."
+ },
+ {
+  "claim": "C-6782",
+  "episode": 51,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-3"
+   ]
+  },
+  "note": "Dillon and Blumenthal not in claim."
+ },
+ {
+  "claim": "C-6793",
+  "episode": 51,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Mitch gave descriptions of the people he saw and she then sent him faces; she was not contacted about Cabot Phillips or Mark Amodei initially.",
+   "label": "Host Says She Gave Mitch Faces to Identify Cabot Phillips and Mark Amodei After Descriptions",
+   "names": [
+    {
+     "wrong": "Mark Amaday",
+     "right": "Mark Amodei",
+     "source": "https://www.soapcentral.com/pop-culture/news-candace-owens-shares-update-erika-kirk-s-alibi-confirms-mark-amodei-wasn-t-fort-huachuca"
+    }
+   ]
+  },
+  "note": "Amodei confirmed (soapcentral, Wikipedia, coverage of the Mitch interview)."
+ },
+ {
+  "claim": "C-6794",
+  "episode": 51,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she thinks she knows who the congressman Mitch saw was and that it was not Mark Amodei.",
+   "label": "Host Says the Congressman Mitch Saw Was Not Mark Amodei",
+   "names": [
+    {
+     "wrong": "Mark Amaday",
+     "right": "Mark Amodei",
+     "source": "https://www.soapcentral.com/pop-culture/news-candace-owens-shares-update-erika-kirk-s-alibi-confirms-mark-amodei-wasn-t-fort-huachuca"
+    }
+   ]
+  },
+  "note": "Amodei confirmed."
+ },
+ {
+  "claim": "C-2010",
+  "episode": 52,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-384",
+    "N-385",
+    "N-391",
+    "N-493"
+   ],
+   "claim": "Per a 2014 Arizona House record the host shows, Senator David Farnsworth introduced Lori Frantzve, then-CEO of GTech Industries, on EMP legislation, with Eddie Farnsworth listed among voting members present and Larry Guinta also named.",
+   "names": [
+    {
+     "wrong": "Gwinta",
+     "right": "Guinta",
+     "source": "https://podcasts.happyscribe.com/candace/i-survive-my-first-death-hoax-erika-kirk-makes-human-history"
+    }
+   ]
+  },
+  "note": "Guinta confirmed (HappyScribe transcript; Larry Guinta, Arizona EMP engineer at E3tek); Frantzve named."
+ },
+ {
+  "claim": "C-2012",
+  "episode": 52,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "No person named in claim."
+ }
+]

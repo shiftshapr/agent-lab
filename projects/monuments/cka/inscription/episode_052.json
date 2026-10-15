@@ -136,9 +136,9 @@
             "C-2010"
           ],
           "related_nodes": [
-            "N-384",
-            "N-385",
-            "N-391",
+            "N-382",
+            "N-383",
+            "N-389",
             "N-10383"
           ],
           "tags": [],
@@ -163,7 +163,7 @@
             "C-2011"
           ],
           "related_nodes": [
-            "N-388"
+            "N-386"
           ],
           "tags": [],
           "video_timestamp": "00:37:11"
@@ -210,7 +210,7 @@
             "C-2013"
           ],
           "related_nodes": [
-            "N-390"
+            "N-388"
           ],
           "tags": [],
           "video_timestamp": "00:46:38"
@@ -299,7 +299,7 @@
             "C-6902"
           ],
           "related_nodes": [
-            "N-493",
+            "N-491",
             "N-2",
             "N-3"
           ],
@@ -345,8 +345,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-384",
-      "ref": "N-384",
+      "@id": "N-382",
+      "ref": "N-382",
       "name": "Eddie Farnsworth",
       "type": "person",
       "description": "Former Arizona House Judiciary Committee chair; brother of Senator David Farnsworth; first cousin of Dwayne Farnsworth; appears in 2014 Arizona House record on EMP legislation vote; father of Albert Farnsworth.",
@@ -362,16 +362,16 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
+        "N-383",
+        "N-384",
         "N-385",
-        "N-386",
-        "N-387",
         "N-10383"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-385",
-      "ref": "N-385",
+      "@id": "N-383",
+      "ref": "N-383",
       "name": "David Farnsworth",
       "type": "person",
       "description": "Arizona state senator; sponsored 2014 EMP legislation under which Lori Frantzve was introduced to the House floor; brother of Eddie Farnsworth; first cousin of Dwayne Farnsworth.",
@@ -387,15 +387,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
+        "N-382",
         "N-384",
-        "N-386",
         "N-10383"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-386",
-      "ref": "N-386",
+      "@id": "N-384",
+      "ref": "N-384",
       "name": "Dwayne Farnsworth",
       "type": "person",
       "description": "Terryl Farnsworth's father; first cousin of David and Eddie Farnsworth; host-asserted to have attended high school with Tyler Bowyer's parents (family network claim only).",
@@ -407,15 +407,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-384",
-        "N-385",
+        "N-382",
+        "N-383",
         "N-10383"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-387",
-      "ref": "N-387",
+      "@id": "N-385",
+      "ref": "N-385",
       "name": "Albert Farnsworth",
       "type": "person",
       "description": "Eddie Farnsworth's nephew; host-asserted prior rape conviction of a 13-year-old (no artifact displayed in this episode).",
@@ -427,13 +427,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-384"
+        "N-382"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-388",
-      "ref": "N-388",
+      "@id": "N-386",
+      "ref": "N-386",
       "name": "David Frodsham",
       "type": "person",
       "description": "Top civilian leader at a US air base in Afghanistan; subject of CBS News report on a child pornography ring; per the same report, returned to Fort Huachuca after leaving his post.",
@@ -451,9 +451,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-389",
-      "ref": "N-389",
-      "name": "Thomas Bert",
+      "@id": "N-387",
+      "ref": "N-387",
+      "name": "Thomas Burt",
       "type": "person",
       "description": "Father-in-law of Terryl Farnsworth; former Executive Vice President and COO of Duncan Aviation (the FBO that rented vehicles for federal authorities); retired 2019 per host.",
       "related_artifacts": [],
@@ -469,8 +469,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-390",
-      "ref": "N-390",
+      "@id": "N-388",
+      "ref": "N-388",
       "name": "Maddie (Daily Wire host)",
       "type": "person",
       "description": "Host of Daily Wire's \"Maddie in the No\" show; per Candace, the show is designed to mock her and Tucker Carlson; first identified publicly in this episode.",
@@ -488,8 +488,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-391",
-      "ref": "N-391",
+      "@id": "N-389",
+      "ref": "N-389",
       "name": "Larry Guinta",
       "type": "person",
       "description": "Erika Kirk's stepfather; named in the 2014 Arizona House EMP legislation record alongside Lori Frantzve (host uncertain of spelling/pronunciation).",
@@ -552,7 +552,7 @@
       "ref": "N-10383",
       "name": "Farnsworth Family Political-Military Network",
       "type": "investigation_target",
-      "description": "Documented and host-asserted connections between Terryl Farnsworth, Tyler Bowyer, the Farnsworth family (David, Eddie, Dwayne), Lori Frantzve, Larry Gwinta, Thomas Bert, and Davis-Monthan / Fort Huachuca.",
+      "description": "Documented and host-asserted connections between Terryl Farnsworth, Tyler Bowyer, the Farnsworth family (David, Eddie, Dwayne), Lori Frantzve, Larry Guinta, Thomas Burt, and Davis-Monthan / Fort Huachuca.",
       "related_artifacts": [
         "A-1581.1"
       ],
@@ -565,11 +565,11 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
+        "N-382",
+        "N-383",
         "N-384",
-        "N-385",
-        "N-386",
-        "N-389",
-        "N-391"
+        "N-387",
+        "N-389"
       ]
     },
     {
@@ -836,8 +836,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-366",
-      "ref": "N-366",
+      "@id": "N-365",
+      "ref": "N-365",
       "name": "Mark Amodei",
       "type": "person",
       "description": "U.S. Representative (NV); subject of contradictory public-record claims regarding his whereabouts on September 9, 2025.",
@@ -1278,8 +1278,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-363",
+      "ref": "N-363",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Mitch Snow, the Fort Huachuca witness; the host relays his descriptions and photo reactions.",
@@ -1301,8 +1301,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-493",
-      "ref": "N-493",
+      "@id": "N-491",
+      "ref": "N-491",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Lori Frantzve; Erika Kirk's mother, in the 2014 EMP record and the 2015 rally background.",
@@ -2019,8 +2019,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-771",
-      "ref": "N-771",
+      "@id": "N-769",
+      "ref": "N-769",
       "name": "Trent Franks",
       "type": "person",
       "description": "First named by the host at 00:33:30 in episode 052 as the congressman who supported David Farnsworth's EMP bill.",
@@ -2259,7 +2259,7 @@
       "investigative_direction": "Obtain official House attendance record; verify timestamped committee video metadata; corroborate with eyewitness accounts.",
       "mentions_person_refs": [
         "N-3",
-        "N-366"
+        "N-365"
       ]
     },
     {
@@ -2267,7 +2267,7 @@
       "@id": "C-2009",
       "ref": "C-2009",
       "label": "Tyler Bowyer Memorial Claim About Erika",
-      "claim": "Tyler Bowyer, speaking at Charlie Kirk's memorial, stated that Erika Kirk called him asking how to get involved and that he put her behind President Trump at the 2015 Arizona rally.",
+      "claim": "In a clip from Charlie Kirk's memorial that the host plays, Tyler Bowyer says Erika Kirk called him saying she just wanted to help and that he put her right behind the president at the 2015 Arizona Trump rally.",
       "anchored_artifacts": [
         "A-1580.1"
       ],
@@ -2286,7 +2286,7 @@
       "@id": "C-2010",
       "ref": "C-2010",
       "label": "Host Says 2014 Arizona House Record Connects Farnsworths to Lori Frantzve",
-      "claim": "Per a 2014 Arizona House record the host shows, Senator David Farnsworth introduced Lori Frantzve, then-CEO of GTech Industries, on EMP legislation, with Eddie Farnsworth listed among voting members present and Larry Gwinta also named.",
+      "claim": "Per a 2014 Arizona House record the host shows, Senator David Farnsworth introduced Lori Frantzve, then-CEO of GTech Industries, on EMP legislation, with Eddie Farnsworth listed among voting members present and Larry Guinta also named.",
       "anchored_artifacts": [
         "A-1581.1"
       ],
@@ -2297,9 +2297,10 @@
       "claim_timestamp": "00:33:00",
       "investigative_direction": "Verify the Arizona House record directly; check whether any DoD contracts to GTech Industries followed; trace GTech Industries' successor entities (AZ Tech / E3 Tech mentioned in comments at 01:04:30).",
       "mentions_person_refs": [
-        "N-384",
-        "N-385",
-        "N-391"
+        "N-382",
+        "N-383",
+        "N-389",
+        "N-491"
       ]
     },
     {
@@ -2316,7 +2317,7 @@
       "claim_timestamp": "00:37:11",
       "investigative_direction": "Obtain the full CBS News article and any follow-up reporting; verify Rodsham's Fort Huachuca tenure dates; check overlap with relevant September 10 events.",
       "mentions_person_refs": [
-        "N-388"
+        "N-386"
       ]
     },
     {
@@ -2334,10 +2335,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:38:50",
-      "investigative_direction": "Obtain attendee list for the summit; cross-check against names of interest (Farnsworths, Boyers, Erika Kirk, etc.); verify any overlap with Fort Huachuca personnel.",
-      "mentions_person_refs": [
-        "N-67"
-      ]
+      "investigative_direction": "Obtain attendee list for the summit; cross-check against names of interest (Farnsworths, Boyers, Erika Kirk, etc.); verify any overlap with Fort Huachuca personnel."
     },
     {
       "@type": "Claim",
@@ -2353,7 +2351,7 @@
       "claim_timestamp": "00:46:38",
       "investigative_direction": "Confirm show title, launch date, host identity, and episode count directly via Daily Wire's official channels.",
       "mentions_person_refs": [
-        "N-390",
+        "N-388",
         "N-22",
         "N-3"
       ]
@@ -2414,11 +2412,11 @@
       "@id": "C-6801",
       "ref": "C-6801",
       "label": "Host Says Robinson Had No Prior Arrests and a Perfect ACT Score",
-      "claim": "The host says Tyler Robinson, in the story she is retelling, had never been arrested, had never committed any crimes, and has a perfect ACT score.",
+      "claim": "The host, framing a hypothetical Netflix series about a 19-year-old protagonist who becomes a murderer, says he had never been arrested, had never committed any crimes and has a perfect ACT score, a setup she maps onto Tyler Robinson.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:core"
       ],
       "claim_timestamp": "00:00:20",
       "investigative_direction": "Obtain court and school records on Robinson's criminal history and ACT score to confirm or refute the host's description.",
@@ -2508,7 +2506,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:core"
       ],
       "claim_timestamp": "00:04:45",
       "investigative_direction": "Compare the host's recitation with the text messages released in the charging documents.",
@@ -2549,7 +2547,7 @@
       "@id": "C-6807",
       "ref": "C-6807",
       "label": "Host Relays Robinson Was Quiet, Calm and Texting at the Restaurant",
-      "claim": "Relaying what the people who reported it told her, the host says Robinson was not very talkative, seemed fine and normal, was texting on his phone, and showed no jitters or fear.",
+      "claim": "Relaying what the people who reported it told her, the host says Robinson was not very talkative, seemed fine and normal and was texting on his phone; she adds that he was calm, without jitters, and not scared.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10381"
@@ -2640,7 +2638,7 @@
       "@type": "Claim",
       "@id": "C-6811",
       "ref": "C-6811",
-      "label": "Host Timeline Has the 5:30 Press Conference and Patel's Erroneous 5:59 Tweet",
+      "label": "Host Timeline Has the 5:30 Press Conference and Patel's 5:59 Tweet That the Subject Was Released",
       "claim": "In her updated timeline the host places a press conference at 5:30 and, at 5:59, a Kash Patel tweet saying the subject in custody had been released after an earlier erroneous tweet that they had him, with the investigation continuing.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3087,7 +3085,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -3205,7 +3203,6 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-219",
         "N-1"
       ]
     },
@@ -3214,7 +3211,7 @@
       "@id": "C-6835",
       "ref": "C-6835",
       "label": "Host Says She Followed Up Four to Five Times for the Unredacted Text",
-      "claim": "The host says that after receiving the redacted text on December 28 she followed up about four to five times asking to see the contact number.",
+      "claim": "The host says that after receiving the redacted text from Erika Kirk on December 28 she followed up about four to five times asking to see the contact number.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3236,7 +3233,7 @@
       "@id": "C-6836",
       "ref": "C-6836",
       "label": "Host Says a Third Party Explained the Delay by Erika Being Tied Up and Six Sick Kids",
-      "claim": "The host says she is working through a third party who said Erika was tied up with something personal and that six sick kids over the holiday explained the delay in getting the text.",
+      "claim": "The host says she is working through a third party who said Erika was tied up with something personal, and adds that there were six sick kids throughout the holiday, which she gives as the reason for the delay in getting the text.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3255,7 +3252,7 @@
       "@id": "C-6837",
       "ref": "C-6837",
       "label": "Host Says Brian Harpole Has Not Responded",
-      "claim": "The host says there has been no response at all from Brian Harpole despite several attempts.",
+      "claim": "The host says there has been no response at all from Brian Harpole, which she says she has told the audience several times.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10373"
@@ -3314,8 +3311,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-364",
-        "N-366"
+        "N-363",
+        "N-365"
       ]
     },
     {
@@ -3339,8 +3336,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-364",
-        "N-366"
+        "N-363",
+        "N-365"
       ]
     },
     {
@@ -3367,7 +3364,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-366"
+        "N-365"
       ]
     },
     {
@@ -3389,7 +3386,7 @@
       "transcript_snippet": "Mitch initially contacted me about just Erika Kirk um, and Brian Harpole.",
       "mentions_person_refs": [
         "N-3",
-        "N-364",
+        "N-363",
         "N-2",
         "N-268"
       ]
@@ -3416,7 +3413,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-364"
+        "N-363"
       ]
     },
     {
@@ -3685,7 +3682,7 @@
         "N-3",
         "N-2",
         "N-11",
-        "N-493",
+        "N-491",
         "N-5"
       ]
     },
@@ -3913,9 +3910,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-263",
-        "N-386",
         "N-384",
-        "N-385"
+        "N-382",
+        "N-383"
       ]
     },
     {
@@ -3936,7 +3933,7 @@
       "transcript_snippet": "In fact, Eddie has actually been sued in the past with Tyler. Like they're on the same side.",
       "mentions_person_refs": [
         "N-3",
-        "N-384",
+        "N-382",
         "N-11"
       ]
     },
@@ -3963,9 +3960,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-385",
-        "N-384",
-        "N-493"
+        "N-383",
+        "N-491"
       ]
     },
     {
@@ -3991,16 +3987,16 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-385",
-        "N-771"
+        "N-383",
+        "N-769"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-6869",
       "ref": "C-6869",
-      "label": "Host Says Larry Ginta Is Erika's Stepfather",
-      "claim": "The host says that the record names Larry Ginta (or Gwenta), whom she says is Erika Kirk's stepfather.",
+      "label": "Host Says Larry Guinta Is Erika's Stepfather",
+      "claim": "The host says that the record names Larry Guinta (she says \"Ginta\" or \"Gwenta\"), whom she says is Erika Kirk's stepfather.",
       "anchored_artifacts": [
         "A-1581.1"
       ],
@@ -4012,13 +4008,13 @@
       ],
       "claim_timestamp": "00:33:40",
       "investigative_direction": "Confirm the family relationship with marriage and public records for Lori Frantzve.",
-      "transcript_snippet": "Larry Ginta, by the way, or Gwenta, I don't know if I'm saying that right, is Erika's stepfather.",
+      "transcript_snippet": "Larry Guinta, by the way, or Gwenta, I don't know if I'm saying that right, is Erika's stepfather.",
       "supports_claim_refs": [
         "C-2010"
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-391",
+        "N-389",
         "N-2"
       ]
     },
@@ -4045,10 +4041,10 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-493",
+        "N-491",
         "N-11",
-        "N-385",
-        "N-384"
+        "N-383",
+        "N-382"
       ]
     },
     {
@@ -4093,7 +4089,7 @@
       "transcript_snippet": "he blocked a hearing on a bill to prevent child sex trafficking.",
       "mentions_person_refs": [
         "N-3",
-        "N-384"
+        "N-382"
       ]
     },
     {
@@ -4114,8 +4110,8 @@
       "transcript_snippet": "his nephew, Albert Farnsworth, um had raped a 13-year-old.",
       "mentions_person_refs": [
         "N-3",
-        "N-384",
-        "N-387"
+        "N-382",
+        "N-385"
       ]
     },
     {
@@ -4188,7 +4184,7 @@
       "@id": "C-6877",
       "ref": "C-6877",
       "label": "Host Says Arizona Mills Across From Turning Point's Site Is the Number One Place for Child Sex Trafficking",
-      "claim": "The host says that across from where Turning Point USA decided to put its campus there is a place known as Arizona Mills, which she describes as the number one place for child sex trafficking.",
+      "claim": "The host says that across from where Turning Point USA decided to put its campus there is a place known as Arizona Mills, which she describes as \"like the number one place\" for child sex trafficking.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10832",
@@ -4248,9 +4244,9 @@
       "transcript_snippet": "I am wondering regarding Eddie Farnsworth if it is possible that Mitch saw him because he's a dead ringer.",
       "mentions_person_refs": [
         "N-3",
-        "N-384",
-        "N-366",
-        "N-364"
+        "N-382",
+        "N-365",
+        "N-363"
       ]
     },
     {
@@ -4272,8 +4268,8 @@
       "transcript_snippet": "I sent it to Mitch and he said, \"Yes, this man looks very familiar.",
       "mentions_person_refs": [
         "N-3",
-        "N-364",
-        "N-384"
+        "N-363",
+        "N-382"
       ]
     },
     {
@@ -4348,8 +4344,8 @@
       "@type": "Claim",
       "@id": "C-6884",
       "ref": "C-6884",
-      "label": "Host Says Farnsworth's Father-in-Law Thomas Bert Ran Duncan Aviation",
-      "claim": "The host says people on the internet found that Terryl Farnsworth's father-in-law is Thomas Bert, who ran Duncan Aviation, the FBO that she says rented the cars for the feds.",
+      "label": "Host Says Farnsworth's Father-in-Law Thomas Burt Ran Duncan Aviation",
+      "claim": "The host says people on the internet found that Terryl Farnsworth's father-in-law is Thomas Burt, who ran Duncan Aviation, the FBO that she says rented the cars for the feds.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10256",
@@ -4360,14 +4356,14 @@
       ],
       "claim_timestamp": "00:39:10",
       "investigative_direction": "Verify the family relationship and Bert's role through corporate and marriage records.",
-      "transcript_snippet": "His father-in-law is Thomas Bert, who ran Duncan Aviation. The FBO, I told you, that rented the cars for the feds.",
+      "transcript_snippet": "His father-in-law is Thomas Burt, who ran Duncan Aviation. The FBO, I told you, that rented the cars for the feds.",
       "supports_claim_refs": [
         "C-1726"
       ],
       "mentions_person_refs": [
         "N-3",
         "N-263",
-        "N-389",
+        "N-387",
         "N-262"
       ]
     },
@@ -4376,7 +4372,7 @@
       "@id": "C-6885",
       "ref": "C-6885",
       "label": "Host Says Bert Ran Duncan Aviation as EVP and COO for 22 Years and Retired in 2019",
-      "claim": "The host says Thomas Bert ran Duncan Aviation as executive vice president and COO for 22 years and retired in 2019.",
+      "claim": "The host says Thomas Burt ran Duncan Aviation as executive vice president and COO for 22 years and retired in 2019.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10256"
@@ -4389,7 +4385,7 @@
       "transcript_snippet": "He actually ran Duncan Aviation as the executive vice president and COO for 22 years now. He did retire. He retired in in 2019.",
       "mentions_person_refs": [
         "N-3",
-        "N-389",
+        "N-387",
         "N-262"
       ]
     },
@@ -4421,7 +4417,7 @@
       "@id": "C-6887",
       "ref": "C-6887",
       "label": "Host Says Daily Wire Considered Three Other People and a Judged Bailiff Before Maddie",
-      "claim": "The host says that before Maddie, Daily Wire tossed around three other people and even considered a combination show with the person who played the bailiff on Matt Walsh's Judged.",
+      "claim": "The host says that, apparently, before Maddie, Daily Wire tossed around three other people and even considered a combination show with the person who played the bailiff on Matt Walsh's Judged.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10385"
@@ -4434,7 +4430,7 @@
       "transcript_snippet": "They tossed around three other people. They even considered doing a combination show with a person who had played the baiff on Matt Walsh's Judged",
       "mentions_person_refs": [
         "N-3",
-        "N-390",
+        "N-388",
         "N-165"
       ]
     },
@@ -4443,7 +4439,7 @@
       "@id": "C-6888",
       "ref": "C-6888",
       "label": "Host Says Utah Ranks 24th in Honey and Bee Products",
-      "claim": "The host says that in terms of making honey or bee-related products Utah ranks number 24, so the nickname is not due to honey.",
+      "claim": "In Daily Wire footage the host plays, a speaker says that in terms of making honey or bee-related products Utah ranks number 24, so the nickname is not due to honey.",
       "anchored_artifacts": [
         "A-1584.1"
       ],
@@ -4465,7 +4461,7 @@
       "@id": "C-6889",
       "ref": "C-6889",
       "label": "Host Says the Beehive State Name Relates to Early Mormon Pioneers",
-      "claim": "The host says the beehive state name relates to the Church of Latter-day Saints and that early Mormon pioneers liked the idea of a beehive working toward a common good.",
+      "claim": "In Daily Wire footage the host plays, a speaker says the beehive state name relates to the Church of Latter-day Saints and that early Mormon pioneers liked the idea of a beehive working toward a common good.",
       "anchored_artifacts": [
         "A-1584.1"
       ],
@@ -4517,7 +4513,7 @@
         "N-11113"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:52:36",
       "investigative_direction": "Obtain the French court judgment listing the defendants and charges.",
@@ -4540,7 +4536,7 @@
         "N-11113"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:54:05",
       "investigative_direction": "Obtain the French court judgment and press reports for the sentences.",
@@ -4563,7 +4559,7 @@
         "N-11113"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:54:30",
       "investigative_direction": "Obtain the French court judgment for the account suspension orders.",
@@ -4586,7 +4582,7 @@
         "N-11113"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:54:50",
       "investigative_direction": "Obtain the French court judgment for the course order.",
@@ -4601,7 +4597,7 @@
       "@id": "C-6895",
       "ref": "C-6895",
       "label": "Host Says the Defendants Must Collectively Pay About $12,000 in Moral Damages",
-      "claim": "The host says the defendants have to collectively pay Brigitte Macron what she calls moral damages of around $12,000.",
+      "claim": "The host says the defendants have to collectively pay Brigitte Macron what's known as moral damages of around $12,000.",
       "anchored_artifacts": [
         "A-2841.1"
       ],
@@ -4609,7 +4605,7 @@
         "N-11113"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:55:00",
       "investigative_direction": "Obtain the French court judgment for the damages order and amount.",
@@ -4675,7 +4671,7 @@
         "N-10270"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:56:20",
       "investigative_direction": "Read the French judgment's reasoning on whether truth of the statements was considered.",
@@ -4744,7 +4740,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-493"
+        "N-491"
       ]
     },
     {
@@ -4769,7 +4765,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-493"
+        "N-491"
       ]
     }
   ],

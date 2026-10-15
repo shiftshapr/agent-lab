@@ -1116,8 +1116,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-491",
-      "ref": "N-491",
+      "@id": "N-489",
+      "ref": "N-489",
       "name": "Rick Cutler",
       "type": "person",
       "description": "First named by the host at 00:10:43 in episode 121.",
@@ -1134,8 +1134,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-927",
-      "ref": "N-927",
+      "@id": "N-925",
+      "ref": "N-925",
       "name": "Elizabeth Holmes",
       "type": "person",
       "description": "First named by the host at 00:56:01 in episode 121. Former biotech entrepreneur convicted of fraud, discussed in a commenter's comparison to Erika Kirk.",
@@ -1352,8 +1352,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-369",
-      "ref": "N-369",
+      "@id": "N-368",
+      "ref": "N-368",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Jeremy Boreing; Daily Wire co-founder, Pendragon.",
@@ -1373,8 +1373,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-496",
-      "ref": "N-496",
+      "@id": "N-494",
+      "ref": "N-494",
       "name": "Justin Davis",
       "type": "person",
       "description": "Justin Davis; driver per the host's seating graphic.",
@@ -1390,8 +1390,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-599",
-      "ref": "N-599",
+      "@id": "N-597",
+      "ref": "N-597",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Jordan Peterson; named in the Daily Wire firing story.",
@@ -1407,8 +1407,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-671",
-      "ref": "N-671",
+      "@id": "N-669",
+      "ref": "N-669",
       "name": "James Kaddis",
       "type": "person",
       "description": "James Kaddis; pastor the host asks about as Erika's pastor.",
@@ -1424,8 +1424,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-735",
-      "ref": "N-735",
+      "@id": "N-733",
+      "ref": "N-733",
       "name": "Sarah Tool",
       "type": "person",
       "description": "Sarah Tool; witness who changed her story per the host.",
@@ -1944,7 +1944,7 @@
       "investigative_direction": "Cross-reference with dash-cam / traffic-cam / police body cam footage to verify door-open configuration.",
       "mentions_person_refs": [
         "N-268",
-        "N-491"
+        "N-489"
       ]
     },
     {
@@ -2024,7 +2024,7 @@
       "investigative_direction": "Cross-reference with Rick Cutler's own testimony if available; review photo evidence of Rick Cutler's clothing for blood patterns inconsistent with this holding posture.",
       "mentions_person_refs": [
         "N-268",
-        "N-491"
+        "N-489"
       ]
     },
     {
@@ -2535,9 +2535,9 @@
       "transcript_snippet": "You've got Dan Flood there in the passenger seat. You've got Justin Davis driving.",
       "mentions_person_refs": [
         "N-272",
-        "N-496",
+        "N-494",
         "N-268",
-        "N-491",
+        "N-489",
         "N-1",
         "N-7"
       ]
@@ -2608,7 +2608,7 @@
       "mentions_person_refs": [
         "N-268",
         "N-7",
-        "N-491"
+        "N-489"
       ]
     },
     {
@@ -2851,7 +2851,7 @@
       "mentions_person_refs": [
         "N-268",
         "N-7",
-        "N-491",
+        "N-489",
         "N-1"
       ]
     },
@@ -3264,7 +3264,7 @@
       "investigative_direction": "Check the Semafor article for the cost and the episode count.",
       "transcript_snippet": "they spent $50 million on on just seven episodes.",
       "mentions_person_refs": [
-        "N-369"
+        "N-368"
       ]
     },
     {
@@ -3288,7 +3288,7 @@
       "transcript_snippet": "more than $50 million, closer to 60, but at least they're finally admitting that it wasn't $10 million or $7 million as it had been reported in the past.",
       "mentions_person_refs": [
         "N-3",
-        "N-369"
+        "N-368"
       ]
     },
     {
@@ -3314,7 +3314,7 @@
         "C-3923"
       ],
       "mentions_person_refs": [
-        "N-369"
+        "N-368"
       ]
     },
     {
@@ -3336,8 +3336,8 @@
       "transcript_snippet": "They were under financial pressure. They needed to remove people that they were paying.",
       "mentions_person_refs": [
         "N-3",
-        "N-369",
-        "N-599"
+        "N-368",
+        "N-597"
       ]
     },
     {
@@ -3359,7 +3359,7 @@
       "transcript_snippet": "That was then followed by Brett Cooper's exit later that same year also because of Jeremy Boreing and his mania.",
       "mentions_person_refs": [
         "N-223",
-        "N-369"
+        "N-368"
       ]
     },
     {
@@ -3467,7 +3467,7 @@
         "C-2938"
       ],
       "mentions_person_refs": [
-        "N-735"
+        "N-733"
       ]
     },
     {
@@ -3487,7 +3487,7 @@
       "investigative_direction": "Review the three interviews for demeanor; this is the host's characterization.",
       "transcript_snippet": "You guys know that she was smiling, of course, the whole time",
       "mentions_person_refs": [
-        "N-735"
+        "N-733"
       ]
     },
     {
@@ -3608,7 +3608,7 @@
       "investigative_direction": "Fringe; Holmes is held in a federal facility per the Bureau of Prisons.",
       "transcript_snippet": "She was the biotech entrepreneur who got convicted of fraud and then went to a fake prison that she's probably not even in.",
       "mentions_person_refs": [
-        "N-927"
+        "N-925"
       ]
     },
     {
@@ -3630,7 +3630,7 @@
       "investigative_direction": "Obtain police radio and CAD logs.",
       "transcript_snippet": "there is a call from one of the police cars following Charlie's car, and they said it looked like someone was trying to jump out of the car.",
       "mentions_person_refs": [
-        "N-491"
+        "N-489"
       ]
     },
     {
@@ -3717,7 +3717,7 @@
       "transcript_snippet": "She took 2 years off to study the Bible and said no one saw her except for her pastor and her pastor's wife.",
       "mentions_person_refs": [
         "N-2",
-        "N-671"
+        "N-669"
       ]
     },
     {
