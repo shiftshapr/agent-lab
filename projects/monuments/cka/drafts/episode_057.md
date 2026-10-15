@@ -713,7 +713,7 @@ Investigative Direction: Locate the referenced CIA document in the CIA FOIA read
 
 Claim Timestamp: 00:17:07
 
-Claim: The host endorses the Be Inspired clip's framing that The Matrix (1999 release) parallels Project Looking Glass themes about reality being shaped or simulated and timelines being fixed.
+Claim: The host says the Project Looking Glass idea that thoughts influenced future outcomes is reminiscent of a theme of The Matrix, a film she calls way ahead of its time, before playing a Be Inspired clip (A-1628.3) that connects The Matrix (1999) to Project Looking Glass.
 
 Anchored Artifacts: A-1628.3
 
@@ -782,7 +782,7 @@ Investigative Direction: Identify the original Pompeo interview (publication, ho
 
 ---
 
-**C-2104** Charlie Kirk told Candace Owens via text message he was a time traveler
+**C-2104** Host Says Charlie Kirk Told Her by Text That He Was a Time Traveler
 
 Claim Timestamp: 00:02:53
 
@@ -931,7 +931,7 @@ Investigative Direction: Retrieve the exact text from the host's message archive
 
 ---
 
-**C-5426** Host says Charlie's mother refused to let schools drug him and he was sent to a gifted school
+**C-5426** Host Says Charlie's Mother Refused to Let Them Drug Him and He Was Sent to a Gifted School
 
 Claim Timestamp: 00:04:18
 
@@ -1053,7 +1053,7 @@ Investigative Direction: Identify the speaker and the original interview; the cl
 
 Claim Timestamp: 00:11:03
 
-Claim: The host says Pikachu obviously had black at the end of his tail, presenting this as a Mandela effect example that official sources deny.
+Claim: The host says Pikachu obviously had black at the end of his tail, presenting this as a Mandela effect example and saying someone "hit delete" on it.
 
 Transcript Snippet: Pikachu had black at the end of his tail, obviously.
 
@@ -1193,7 +1193,7 @@ Investigative Direction: Ask the host which earlier episodes describe her being 
 
 Claim Timestamp: 00:22:34
 
-Claim: The host says that, within a year of Charlie Kirk starting to push back, with him imagined as saying 'Take the money out of the organization', 'they' seem to have panicked and decided to kill him, and that the assassination catalyzed the loss of control they feared.
+Claim: The host says that within the past year Charlie Kirk had started to push back, paraphrasing him as saying 'Take the money out of the organization', and that 'they' seem to have panicked and decided to kill him, and that the assassination catalyzed the loss of control they feared.
 
 Transcript Snippet: And then he goes, "You know what? Take the money. Take the money out of the organization." And they panicked.
 
@@ -1251,7 +1251,7 @@ Investigative Direction: Identify the report the host means, its authors, sponso
 
 Claim Timestamp: 00:26:53
 
-Claim: The host says elites set about removing the Bible from the classroom and creating Hollywood to mirror a Babylonian culture, training people to worship stars and to adopt neopaganism and atheism.
+Claim: The host says 'they' set about removing the Bible from the classroom and creating Hollywood to mirror a Babylonian culture, training people to worship stars and to adopt neopaganism and atheism.
 
 Transcript Snippet: removing the Bible from the classroom, creating Hollywood in general, which was supposed to mirror a Babylonian culture, training us to worship stars.
 
@@ -1744,7 +1744,7 @@ Investigative Direction: Identify what the pink drink was and the school distric
 
 Claim Timestamp: 00:53:21
 
-Claim: The host asks whether classmates were forced to drink fluoride in class, and says that now we know it burns the pineal glands.
+Claim: The host asks whether viewers were all forced to drink fluoride in class, and says that now we know it burns the pineal glands.
 
 Transcript Snippet: that it burns your pineal glands.
 

@@ -2384,6 +2384,31 @@
       [
         37
       ]
+    ],
+    [
+      "\\bTurney\\b",
+      "Tourney",
+      [
+        65
+      ]
+    ],
+    [
+      "\\bLech\\b",
+      "Laitsch",
+      [
+        70
+      ]
+    ],
+    [
+      "\\bFrandsen\\b",
+      "Frantzve",
+      [
+        74
+      ]
+    ],
+    [
+      "\\bEricaFrandsen\\b",
+      "ErikaFrantzve"
     ]
   ]
 }

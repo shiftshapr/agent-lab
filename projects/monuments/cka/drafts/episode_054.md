@@ -1670,7 +1670,7 @@ Investigative Direction: Locate the 1978 House/Senate committee report on Moon o
 Claim Timestamp: 00:52:37
 Claim: Per the 1997 Washington Post article, the Unification Church's Washington-area investments exceed $300 million in commercial, political, and cultural enterprises.
 Anchored Artifacts: A-1599.1
-Mentions: N-400
+Mentions: 
 Related Nodes: N-10399
 Investigative Direction: Cross-reference the $300M estimate against corporate property and court records cited in the article, and identify the specific entities holding the properties.
 
@@ -1681,7 +1681,7 @@ Investigative Direction: Cross-reference the $300M estimate against corporate pr
 Claim Timestamp: 01:04:00
 Claim: Per the 1997 Washington Post article (citing church documents analyzed by private investigator Lawrence Zillioux), Unification Church International exceeded $500 million in the mid-1980s; Far Eastern Economic Review valued South Korean landholdings above $1 billion in 1990.
 Anchored Artifacts: A-1599.6
-Mentions: N-400
+Mentions: 
 Related Nodes: N-10399
 Investigative Direction: Obtain the Zillioux analysis and the 1990 Far Eastern Economic Review article to verify the valuation methodology and figures.
 
@@ -1703,7 +1703,7 @@ Investigative Direction: Cross-reference against contemporaneous Iran-Contra inv
 Claim Timestamp: 01:04:49
 Claim: Per the 1997 Washington Post article, Japan (not Korea) provides the bulk of Unification Church wealth, estimated at as much as 70% by church observers.
 Anchored Artifacts: A-1599.8
-Mentions: N-400
+Mentions: 
 Related Nodes: N-10399
 Investigative Direction: Identify the named "church observers" and the methodology used for the 70% estimate; cross-reference against Japanese corporate filings of Moon-affiliated entities.
 
@@ -1766,7 +1766,7 @@ Investigative Direction: Cross-reference against the *Liberty Lost* podcast test
 
 **C-2043** Liberty Godparent Home residents were coerced to give up babies for adoption
 
-Claim Timestamp: 00:29:47
+Claim Timestamp: 00:28:57
 Claim: Per the recorded phone call, residents of the Liberty Godparent Home were pressured and coerced to place their babies for adoption, with adoption-folder selections presented under time pressure.
 Anchored Artifacts: A-1604.1
 Mentions: N-408
@@ -1791,7 +1791,7 @@ Investigative Direction: Locate the cited Rolling Stone article and confirm the 
 Claim Timestamp: 00:46:39
 Claim: Per host's citation of Forbes, Carey Hezekiah once threw a man into a bear cage after an argument at one of his restaurants.
 Anchored Artifacts: A-1606.1
-Mentions: N-399, N-402
+Mentions: N-402
 Related Nodes: N-10400
 Investigative Direction: Locate the cited Forbes article and any contemporaneous Virginia court records or news coverage.
 
@@ -1817,7 +1817,7 @@ Claim: According to the clip the host plays, Brian Harpole says his company puts
 Transcript Snippet: It's a decentralized command model for the company.
 
 Anchored Artifacts: A-1596.1
-Mentions: N-267, N-225
+Mentions: N-267
 Related Nodes: N-10681
 Tags: relevance:core
 Investigative Direction: Obtain the full Shawn Ryan interview and the security company's operating procedures to confirm the app-based, decentralized command description.
@@ -1833,7 +1833,7 @@ Claim: The host says that elsewhere in the interview Harpole describes a convers
 Transcript Snippet: he describes this conversation that he had with the chief of police. He's upset about the chief of police not covering the rooftops because he feels that his team was on it.
 
 Anchored Artifacts: A-1596.1
-Mentions: N-267, N-225, N-3
+Mentions: N-267, N-3
 Related Nodes: N-10681
 Tags: relevance:core
 Investigative Direction: Review the Shawn Ryan interview transcript for the rooftop remark and compare with UVU police operational plans for the September 10 event.
@@ -2153,7 +2153,7 @@ Claim: The host says it is a fact that Romanian Angels worked with Colonel Otto 
 Transcript Snippet: Now, it is a fact that they worked with at that time Colonel Otto Busher.
 
 Anchored Artifacts: 
-Mentions: N-690, N-2
+Mentions: N-690
 Related Nodes: N-11165
 Tags: relevance:core
 Investigative Direction: Locate Romanian Angels thank-you posts or news coverage naming Colonel Busher and the dates of cooperation.
@@ -2171,7 +2171,7 @@ Transcript Snippet: Colonel Otto Busher was then accused of running a brothel wi
 Anchored Artifacts: 
 Mentions: N-690
 Related Nodes: N-10401
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Find the Romanian complaint, any prosecutor's file and press coverage of the allegation against Busher and its outcome.
 
 ---
@@ -2318,7 +2318,7 @@ Transcript Snippet: was charged with running a child sex abuse ring. That is tru
 Anchored Artifacts: 
 Mentions: N-385
 Related Nodes: N-10739
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Pull the federal or Arizona charging documents against David Frodsham and the associated news coverage.
 
 ---
@@ -2373,7 +2373,7 @@ Investigative Direction: Identify Piscatello's credentials and who authorized hi
 
 ---
 
-**C-8161** Host Says Piscatello Has Raised Alarms About Military Ukrainian Sex Trafficking
+**C-8161** Host Says Piskadlo Has Raised Alarms About Military Ukrainian Sex Trafficking
 
 Claim Timestamp: 00:15:55
 
@@ -2663,7 +2663,7 @@ Investigative Direction: Seek the caller's juvenile court and probation records,
 
 Claim Timestamp: 00:24:36
 
-Claim: In the recorded call, the former resident says Jerry Falwell Sr. took weird pictures of the girls at the Godparent Home, which the host presses by asking whether Falwell Sr. himself took the photos.
+Claim: In the recorded call, the former resident says Jerry Falwell Sr. took weird pictures of the girls at the Godparent Home; when the host presses whether Falwell Sr. himself took the photos, she says 'Yeah' and that she remembers him as being there.
 
 Transcript Snippet: But like Jerry Falwell Sr. was the one actually taking the photos? Yeah,
 
@@ -2841,7 +2841,7 @@ Investigative Direction: Interview the caller's mother if willing, and seek the 
 
 Claim Timestamp: 00:32:54
 
-Claim: The host says the caller went home, and two years later received an invitation to join Trump Pageant World without knowing how they got her picture, which the host links to the pictures taken at the Godparent Home.
+Claim: The host says the caller went home, and two years later received an invitation to join Trump Pageant World without knowing how they got her picture, which the caller, as the host relays, connected to the pictures taken at the Godparent Home.
 
 Transcript Snippet: and 2 years later she gets an invite to join Trump Pageant World.
 
@@ -3249,7 +3249,7 @@ Investigative Direction: Look for TPUSA real estate programs, entities or announ
 
 Claim Timestamp: 00:54:28
 
-Claim: Reading the 1997 Washington Post article, the host quotes University of Bridgeport president Richard Rubenstein as saying, 'Ideas without the money to back them up are just dreams,' and that the corporate side is the engine that funds the church's mission.
+Claim: Reading the 1997 Washington Post article, the host quotes University of Bridgeport president Richard Rubenstein as saying, 'Ideas without the money to back them up are just dreams,' and the article says the corporate section is understood to be the engine that funds the church's mission.
 
 Transcript Snippet: Ideas without the money to back them up are just dreams
 
@@ -3455,7 +3455,7 @@ Investigative Direction: Retrieve the Washington Post article and identify Paque
 
 ---
 
-**C-8228** Host Says Kirk Established DOGE to Find Where the Money Was Coming From
+**C-8228** Host Says Kirk Asked Where the Money Was Coming From
 
 Claim Timestamp: 01:01:41
 
@@ -3529,7 +3529,7 @@ Claim: The host says the way the Korea trip was pitched to Kirk was that Christi
 Transcript Snippet: But again, I don't think that's why the McCoys were pushing for Charlie to go to Korea because you know, they just got a Holocaust Museum.
 
 Anchored Artifacts: 
-Mentions: N-1, N-3
+Mentions: N-1, N-3, N-17, N-191
 Related Nodes: N-10397
 Tags: relevance:core
 Investigative Direction: Find who invited Kirk to Build Up Korea and any correspondence between the McCoys and the organizers.
@@ -3730,7 +3730,7 @@ Investigative Direction: Compare TPUSA Faith's launch date with the organization
 
 Claim Timestamp: 01:20:03
 
-Claim: Responding to a viewer comment, the host says Paul Vallely is on the advisory board of Turning Point USA and that she has looked into it and it is true.
+Claim: Responding to a viewer comment that says Paul Vallely is on the advisory board of Turning Point USA, the host says that is true and that she has looked into it.
 
 Transcript Snippet: Cuz Paul Vallely is also on the advisory board of Turning Point USA.
 

@@ -1241,7 +1241,7 @@ Investigative Direction: Attempt to retrieve LinkedIn snapshot via archive; cros
 
 **C-2337** Thomas Martin ZoomInfo DHS Profile
 
-Claim Timestamp: 00:22:02
+Claim Timestamp: 00:21:27
 
 Claim: Per a ZoomInfo listing the host shows, Thomas Martin is Deputy Chief Patrol Agent at the Department of Homeland Security, with 9 years in Customs and Border Protection.
 
@@ -1336,7 +1336,7 @@ Claim Timestamp: 00:33:44–00:36:06
 Claim: In a clip the host plays, Seth Dillon says the Hamptons retreat had a 'save the West' theme and that Charlie Kirk's primary focus was 'the threat of Islam.'
 
 Anchored Artifacts: A-1760.1
-Mentions: N-38
+Mentions: N-38, N-1
 
 Related Nodes: N-10500
 
@@ -1471,7 +1471,7 @@ Claim: The host says that after Bad Bunny's booking drew backlash, Turning Point
 Transcript Snippet: Turning Point USA announced that they would produce an alternative quote unquote all-American Super Bowl halftime show. and President Trump tweeted.
 
 Anchored Artifacts: 
-Mentions: N-5
+Mentions: N-5, N-807
 Related Nodes: N-10000, N-10510, N-11392
 Tags: relevance:context
 Investigative Direction: TPUSA announcement of the alternative show and the Trump post, with dates.
@@ -1616,7 +1616,7 @@ Claim: The host says Tyler Bowyer's tweet about TPUSA's concurrent streams used 
 Transcript Snippet: he shows something he probably likes if I'm guessing um this moment of two men dancing on each other and of all people to to tweet this it's Tyler Bowyer
 
 Anchored Artifacts: A-1761.1
-Mentions: N-11
+Mentions: N-11, N-807
 Related Nodes: N-10499
 Supports: C-2347
 Tags: relevance:context
@@ -1846,11 +1846,11 @@ Investigative Direction: Submitted tips on Thomas Martin's career and colleagues
 
 ---
 
-**C-14335** Host Says Records Place This Thomas Martin With Southern Command Until at Least 2011
+**C-14335** Host Says This Thomas Martin Lived in Tucson Until at Least 2011 and Worked With Southern Command
 
 Claim Timestamp: 00:24:12
 
-Claim: The host says this Thomas Martin has lived in the Tucson area for decades and that she can find a record of him working with the Southern Command until at least 2011.
+Claim: The host says this Thomas Martin has lived in the Tucson area for decades, at least up until 2011, and that she can find a record of him working with the Southern Command.
 
 Transcript Snippet: we know that he's been living in the Tucson area for decades, decades, at least up until 2011. I can find a record of him um working with the Southern Command and that is interesting.
 
@@ -1978,7 +1978,7 @@ Investigative Direction: Date-stamped Instagram captures and the June 18 meeting
 
 Claim Timestamp: 00:30:34
 
-Claim: The host says Max Blumenthal broke the story that Charlie Kirk had a very heated confrontation at the Hamptons, pressed by Zionists over his shifting support for Israel.
+Claim: The host says she, and also Max Blumenthal, broke the story that Charlie Kirk had a very heated confrontation at the Hamptons, pressed by Zionists over his shifting support for Israel.
 
 Transcript Snippet: Max Blumenthal broke this story that Charlie had had this as we had described it a very heated confrontation um and he was being pushed by Zionists about his shifting support for Israel.
 
@@ -2282,7 +2282,7 @@ Investigative Direction: The specific Kirk clips in which he uses the phrase 'mo
 
 **C-14362** Host Says Charlie Felt Morally Blackmailed Because of What Dillon Did
 
-Claim Timestamp: 00:36:06
+Claim Timestamp: 00:37:15
 
 Claim: The host says Charlie felt he was being morally blackmailed because of what Seth Dillon did at the Hamptons meeting.
 

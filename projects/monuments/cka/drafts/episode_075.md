@@ -1582,7 +1582,7 @@ Transcript Snippet: I don't know if you want to take it cuz I don't think you're
 
 Anchored Artifacts: A-2441.1
 
-Mentions: N-7, N-1
+Mentions: N-7, N-1, N-4
 Related Nodes: N-10858
 Tags: relevance:context
 Investigative Direction: Identify the full October 7 program and check the context of Turek's remark about the 2028 ticket.

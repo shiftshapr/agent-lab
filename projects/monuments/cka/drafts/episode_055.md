@@ -862,11 +862,11 @@ The host's stated plan to examine Erika Kirk's charities and her claims of livin
 
 ## V. Claim Register
 
-**C-2047** Text Message From Candace Owens to Andrew Kolvet Described Charlie Kirk Dream Stating He Was Betrayed and Andrew Knew More Than Publicly Stated
+**C-2047** Text Message From Candace Owens to Andrew Kolvet Described Charlie Kirk Dream Stating He Was Betrayed and Said She Believed Andrew Knew More Than Publicly Stated
 
 Claim Timestamp: 00:07:11–00:08:04
 
-Claim: The host presented a text message she sent to Andrew Kolvet describing a vivid dream in which Charlie Kirk stated he was betrayed, that "they" were hiding what happened "to my left," and that Kolvet "know[s] much more than you've said publicly or privately."
+Claim: The host presented a text message she sent to Andrew Kolvet describing a vivid dream in which Charlie Kirk told her he was betrayed and that "they" were hiding what happened "to my left," and in which she wrote that she believed Kolvet "know[s] much more than you've said publicly or privately."
 
 Anchored Artifacts: A-1607.1
 Mentions: N-14, N-3, N-1
@@ -1088,7 +1088,7 @@ Investigative Direction: Requires corroboration through independent sources docu
 
 **C-2062** Top Comment From Natty Nicole Expresses Being Heartbroken and Questions Andrew Kolvet's Conscience
 
-Claim Timestamp: 00:47:35–00:48:56
+Claim Timestamp: 00:48:51
 
 Claim: A commenter expressed being "heartbroken and filled with rage" and asked "How does Andrew Kolvet sleep at night?"
 
@@ -1146,7 +1146,7 @@ Investigative Direction: No investigative direction.
 
 Claim Timestamp: 00:51:36–00:52:14
 
-Claim: A viewer comment the host reads, from "Cammy Resits," expresses admiration for the host and concern for children.
+Claim: A viewer comment the host reads, from "Cammy Resits," expresses admiration for the host, mentions having two grown kids, and thanks her for being a warrior mama and bringing information.
 
 Anchored Artifacts: A-1613.6
 
@@ -1231,7 +1231,7 @@ Investigative Direction: Verify MGM chairmanship and Summerhouse acquisition thr
 
 Claim Timestamp: 00:35:36
 
-Claim: The host stated that approximately one year after Charlie Kirk's assassination, on September 10, a murder plot against her was discovered and that the matter is still proceeding through courts.
+Claim: The host stated that someone was plotting her murder on September 10, "a year from the date that Charlie was murdered," that the plot was discovered, and that the matter is still making its way through the courts.
 
 Anchored Artifacts: (none presented in this episode)
 Mentions: N-3, N-1
@@ -1469,7 +1469,7 @@ Investigative Direction: Only the host's sources can confirm; ask whether either
 
 Claim Timestamp: 00:08:04
 
-Claim: The host says that before AmFest, while she was in London, Andrew Kolvet phoned and asked her in earnest whether she is a witch, because bad things happen to people who attack her; she says she laughed and answered no.
+Claim: The host says that, ahead of AmFest as she recalls it, while she was in London, Andrew Kolvet phoned and asked her in earnest whether she is a witch, because bad things happen to people who attack her; she says she laughed and answered no.
 
 Transcript Snippet: asked me, "Are you a witch?" But I laughed at him on the phone.
 
@@ -1569,7 +1569,7 @@ Claim: The host concludes that the true aim of Turning Point USA Faith was to tu
 Transcript Snippet: the true aim of Turning Point USA faith was to transform Charlie Kirk into a messiah of sorts whose image that they could control in his death.
 
 Anchored Artifacts: 
-Mentions: N-1, N-400
+Mentions: N-1
 Related Nodes: N-10398, N-10402
 Supports: C-8210
 Tags: relevance:core
@@ -1645,7 +1645,7 @@ Investigative Direction: Check trial reporting on the shooter's family finances 
 
 Claim Timestamp: 00:15:02
 
-Claim: The host says she felt 'a strand of ick' at AmFest, where she says everyone spoke about the Lord but no one meant it, and describes it as a charismatic cult of people trained in tactics of manipulation preying on weak minds, including people who love Charlie Kirk.
+Claim: The host says she felt 'a strand of ick' while watching AmFest, where she says everyone spoke about the Lord but no one meant it, and describes it as a charismatic cult of people trained in tactics of manipulation preying on weak minds, including people who love Charlie Kirk.
 
 Transcript Snippet: It was instead watching a charismatic cult, people who were trained in tactics of manipulation, praying on weak minds of their followers and people who actually love Charlie Kirk.
 
@@ -1871,7 +1871,7 @@ Investigative Direction: Seek Liberty hiring correspondence or Moore's own state
 
 ---
 
-**C-14127** Host Says the ADL Put Her on Its List for the Christ Is King Episode
+**C-14127** Host Says the ADL Put Her on Its List Over the Christ Is King Controversy
 
 Claim Timestamp: 00:20:09
 
@@ -2076,7 +2076,7 @@ Claim: The host says that on her organization chart Johnnie Moore appears to be 
 Transcript Snippet: we can confirm that looks like one of Godwin's three disciples, so to speak, was Johnnie Moore
 
 Anchored Artifacts: A-3301.1
-Mentions: N-438, N-439, N-14, N-400
+Mentions: N-438, N-439, N-14
 Related Nodes: N-11164, N-10402
 Supports: C-2055
 Tags: relevance:context
@@ -2157,7 +2157,7 @@ Claim: The host says Turning Point Faith is problematic and the organization is 
 Transcript Snippet: The organization is intended to be the Mooney 2.0.
 
 Anchored Artifacts: 
-Mentions: N-1
+Mentions: 
 Related Nodes: N-10398, N-10402
 Tags: relevance:context
 Investigative Direction: Interpretive; test through TPUSA Faith's leadership, funding and links to Unification Church-linked people or entities.
@@ -2367,7 +2367,7 @@ Transcript Snippet: created a clear column to speak about how many times sex tra
 
 Anchored Artifacts: 
 Mentions: N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Ask for the sheet and its sources; check the follow-up episode that week.
 
 ---
@@ -2475,7 +2475,7 @@ Investigative Direction: Review declassified material on Moon's Korean and CIA c
 
 Claim Timestamp: 00:49:54
 
-Claim: The host teases that she is not ready to cover whether Pearl Harbor was a false flag, saying the vibes are not vibing in the Pearl Harbor story and that Lyndon Baines Johnson was a devilish man.
+Claim: The host asks whether viewers are ready to talk about Pearl Harbor being a false flag but says she will not cover it today, saying the vibes are not vibing in the Pearl Harbor story and that Lyndon Baines Johnson was a devilish man.
 
 Transcript Snippet: the vibes are not vibing in the Pearl Harbor story is what I will say. And Lyndon Baines Johnson was a uh devilish man throughout
 

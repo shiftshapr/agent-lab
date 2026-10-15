@@ -867,7 +867,7 @@ Investigative Direction: Verify call metadata, attendee list, and recording prov
 
 Claim Timestamp: 00:23:52
 
-Claim: The opening of the September 16 Zoom call features visible Zoom "thumbs up" reactions, Erika Kirk laughing, and her comment "this is a little bit more emotional than probably Charlie would be reacting."
+Claim: In a clip of the opening of the September 16 Zoom call that the host plays, Erika Kirk says "Oh, look at all the thumbs up" and "this is a little bit more emotional than probably Charlie would be reacting"; the host says she starts by laughing.
 
 Anchored Artifacts: A-1686.1
 Mentions: N-2, N-1
@@ -904,7 +904,7 @@ Investigative Direction: Cross-reference against TPUSA termination data from Q4 
 
 **C-2210** Host Says Erika Kirk Self-Corrected to Avoid the Word "Happy" About Charlie on Sept 16 Call
 
-Claim Timestamp: 00:22:11
+Claim Timestamp: 00:20:00
 
 Claim: The host says that in a clip of the September 16 call, Erika Kirk interrupted herself mid-sentence with "I'm trying not to say that he would be," appearing to self-edit away from a positive emotion descriptor about Charlie Kirk in heaven.
 
@@ -941,7 +941,7 @@ Related Nodes: N-10448
 
 Investigative Direction: Identify the "Usha" referenced; verify identity and whether the analogy was shared privately on the tarmac as Erika describes.
 
-**C-2213** TPUSA Board Announcement Letter (Sept 17) Was Authored by Doug DeGroote
+**C-2213** TPUSA Board Announcement Letter (Sept 17) Was Signed Off by Doug DeGroote
 
 Claim Timestamp: 00:09:08
 
@@ -979,7 +979,7 @@ Investigative Direction: Identify the source podcast and episode date; verify Bo
 
 **C-2216** Jeremy Boreing Characterized Candace Owens as "Nuclear Energy" Capable of "Flattening a City"
 
-Claim Timestamp: 00:40:30
+Claim Timestamp: 00:39:57
 
 Claim: In a podcast interview, Jeremy Boreing stated: "Candace is like nuclear energy, you know, if you if you harness it properly, she can power a city. If you lose control, she'll flatten the city."
 
@@ -1038,11 +1038,11 @@ Mentions: N-262
 
 Investigative Direction: Confirm Terryl Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant.
 
-**C-2221** Host Characterizes Boreing's "Nuclear Energy" / BLM-Critique Hiring Rationale as Objectively Racially Motivated
+**C-2221** Host Calls Boreing's BLM-Era Hiring Remarks "Objectively Racist"
 
 Claim Timestamp: 00:40:30
 
-Claim: Candace Owens asserts that Boreing's explicit framing of why he hired her – tied to her willingness to critique Black Lives Matter – is "objectively racist."
+Claim: Candace Owens asserts that Boreing's remarks about why he hired her, which she paraphrases as tied to her willingness to critique Black Lives Matter, are "objectively racist."
 
 Anchored Artifacts: A-1688.2
 Mentions: N-367, N-3
@@ -1050,7 +1050,7 @@ Mentions: N-367, N-3
 
 Investigative Direction: Evaluate the host's interpretive claim against the verbatim Boreing quote; consider whether Boreing's prior public statements confirm or rebut this framing.
 
-**C-2222** Host Characterizes Boreing's "Rhetorical Pornography" Comparison as Deflection From Documented Sexual Violence
+**C-2222** Host Rejects Boreing's "Rhetorical Pornography" Comparison
 
 Claim Timestamp: 00:43:08
 
@@ -2228,7 +2228,7 @@ Investigative Direction: Seek confirmation from Daily Wire insiders or financial
 
 Claim Timestamp: 00:48:28
 
-Claim: In the Bulwark clip, a guest says the departure agreement may reflect millions spent on a bizarre project set in Roman-era Britain but filmed in Hungary, involving Italian bulls maybe from Spain; earlier in the clip it is said the project still hasn't come out.
+Claim: In the Bulwark clip, a speaker says the departure agreement may reflect millions spent on a bizarre project set in Roman-era Britain but filmed in Hungary, involving Italian bulls maybe from Spain; earlier in the clip it is said the project still hasn't come out.
 
 Transcript Snippet: Well, that might explain some of this departure agreement where you're spending millions on a bizarre project set in Roman era Britain, but filmed in Hungary involving Italian bulls maybe from Spain.
 
@@ -2374,7 +2374,7 @@ Investigative Direction: Identify the press reports based on former Daily Wire s
 
 Claim Timestamp: 00:52:26
 
-Claim: The host says Boreing sent an intern on a secret mission to Dallas, to Turning Point USA, to follow her after he fired her and put her on a plane.
+Claim: The host says Boreing sent an intern on a secret mission to Dallas, to Turning Point USA, to follow her after he fired her, putting the intern on a plane.
 
 Transcript Snippet: having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA, to put her on a plane, an intern.
 

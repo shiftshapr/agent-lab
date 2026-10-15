@@ -1788,7 +1788,7 @@
         "N-10410"
       ],
       "tags": [],
-      "claim_timestamp": "00:21:42",
+      "claim_timestamp": "00:21:13",
       "investigative_direction": "Obtain bibliographic record (publisher, ISBN); verify authorship.",
       "mentions_person_refs": [
         "N-802",
@@ -1885,7 +1885,7 @@
         "N-10411"
       ],
       "tags": [],
-      "claim_timestamp": "00:32:12",
+      "claim_timestamp": "00:33:27",
       "investigative_direction": "Obtain court filings (case numbers, jurisdiction); verify plaintiff count.",
       "mentions_person_refs": [
         "N-451"
@@ -1923,7 +1923,7 @@
         "N-10411"
       ],
       "tags": [],
-      "claim_timestamp": "00:35:00",
+      "claim_timestamp": "00:34:28",
       "investigative_direction": "Obtain law firm press release; track complaint filings in docket."
     },
     {
@@ -1948,7 +1948,7 @@
       "@id": "C-2091",
       "ref": "C-2091",
       "label": "Host Says Social Blade Shows Erika Kirk Deleting 126 Instagram Posts on June 19",
-      "claim": "Social Blade data records Erika Kirk deleting 126 Instagram posts on June 19.",
+      "claim": "The host says that on June 19 Erika Kirk deleted 126 Instagram posts, according to Social Blade.",
       "anchored_artifacts": [
         "A-1626.1"
       ],
@@ -1973,7 +1973,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:07:08",
+      "claim_timestamp": "00:08:23",
       "investigative_direction": "Locate original clip; verify date and outlet.",
       "mentions_person_refs": [
         "N-22",
@@ -2001,7 +2001,7 @@
       "@type": "Claim",
       "@id": "C-2094",
       "ref": "C-2094",
-      "label": "Plane SUBTU Traveled to Provo May 23 with Follow-Up May 27, Hosting Wed Mahmoud",
+      "label": "Anchor Plane Arrived in Provo May 23; SUBTU Followed May 27 With Wed Mahmoud Aboard",
       "claim": "The host says, per her master timeline, that an anchor plane landed in Provo on May 23 and a follow-up plane, tail number SUBTU, came in on May 27 with Wed Mahmoud aboard, and that she has confirmed these planes can trick their transponders so the flights do not show on flight radar; she says it departed Provo on June 2.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2683,7 +2683,7 @@
       "@id": "C-12553",
       "ref": "C-12553",
       "label": "Host Says Bots Never Argue Against War and Thinks Social Media Is Run by the Military",
-      "claim": "The host says she half-subscribes to the dead internet theory, thinks X is obviously run by the military, and has never seen bots argue that the US should not go to war.",
+      "claim": "The host says she kind of subscribes to the dead internet theory, thinks X is obviously run by the military, and has never seen bots argue that the US should not go to war.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3127,7 +3127,7 @@
         "N-10401"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:35:00",
       "investigative_direction": "Identify the lawsuit (court, case number, plaintiffs, filing date).",
@@ -3140,7 +3140,7 @@
       "@type": "Claim",
       "@id": "C-12573",
       "ref": "C-12573",
-      "label": "Host Says Her Military Sources Describe a Deal That Leaves People on Bases Immune to Prosecution",
+      "label": "Host Says a Deal Between Governments Leaves Military People on Bases Immune to Prosecution",
       "claim": "The host says military people, and people adjacent to the military, who go abroad are quite immune to prosecution because of a deal struck between governments allowing them to do whatever they want on their base; she says she reached out to people about it.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3161,8 +3161,8 @@
       "@type": "Claim",
       "@id": "C-12574",
       "ref": "C-12574",
-      "label": "Host Says Her Sources Describe Bases Sending a Woman Recruiter Posing as a Casting Director",
-      "claim": "The host says her military sources told her bases typically send out a woman, like Ghislaine Maxwell, who finds young women who can be manipulated and describes herself as a casting director to bring them onto the base.",
+      "label": "Host Says People She Asked Describe Bases Sending a Woman Recruiter Posing as a Casting Director",
+      "claim": "The host says people she reached out to told her that those at the top of a military base typically send out a woman, like Ghislaine Maxwell, who finds young women who can be manipulated and describes herself as a casting director to bring them onto the base.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11339"
@@ -3280,7 +3280,7 @@
         "N-10670"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:43:18",
       "investigative_direction": "Review Aguilar's Tucker Carlson interview for his exact statements about Johnnie Moore and the aid sites.",
@@ -3319,7 +3319,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:49:20",
       "investigative_direction": "Check U.S. court records for any charges against the Tate brothers after their arrival, and identify who the host means.",
@@ -3338,7 +3338,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:49:20",
       "investigative_direction": "This is the host's inference; compare with documented government action on the Tate brothers and on Epstein.",
@@ -3358,7 +3358,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:50:26",
       "investigative_direction": "Cite the Tate brothers' own public statements about the webcam business.",
@@ -3373,7 +3373,7 @@
       "@id": "C-12584",
       "ref": "C-12584",
       "label": "Viewer Comment Says Generational Farms in Rural Virginia Have Been Quietly Willed Over",
-      "claim": "A viewer comment read by the host, from Jessica High Five, says generational farms in her rural Virginia area have quietly been willed over in recent years, often without the families being aware; the host answers that this is happening.",
+      "claim": "A viewer comment read by the host, from Just Jessica High Five, says generational farms in her rural Virginia area have quietly been willed over in recent years, often without the families being aware; the host answers that this is happening.",
       "anchored_artifacts": [
         "A-3217.1"
       ],

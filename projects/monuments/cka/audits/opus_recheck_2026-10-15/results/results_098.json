@@ -1,0 +1,762 @@
+[
+ {
+  "claim": "C-5631",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript: 'he's got like a very too close relationship with his dad'; claim drops 'too' and says 'very close'.",
+  "fix": {
+   "claim": "The host says Ben Shapiro has a too-close relationship with his dad, who follows him to every job."
+  }
+ },
+ {
+  "claim": "C-5632",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5633",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5634",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5635",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5636",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5637",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5638",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5639",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5640",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5641",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5642",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Viewer username 'Walter Midi Hunter' as transcribed; host reads it and replies 'That is correct.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-5643",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5644",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5645",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5646",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Youssef: 'a whole piece about the rape the rape hoax which was completely fabricated'; he does not say 'October 7th' here.",
+  "fix": {
+   "claim": "Youssef says the New York Times ran a whole piece about rape that was completely fabricated and that Israelis mentioned in the article said it did not happen."
+  }
+ },
+ {
+  "claim": "C-5647",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5648",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5649",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label spells the survivor 'Turney'; node and claim use Phil Tourney. Content otherwise matches ('IDF Star of David Israeli flags inside the ship').",
+  "fix": {
+   "label": "Host Relays Tourney's Account That Israeli Flags Were Aboard the USS Liberty"
+  }
+ },
+ {
+  "claim": "C-5650",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label spells 'Turney'; node is Phil Tourney. Content matches: 'that IDF soldier then gives him the middle finger made eye contact'.",
+  "fix": {
+   "label": "Host Relays Tourney's Account That an Israeli Soldier on a Boat Gave Him the Middle Finger After the Torpedo Warning"
+  }
+ },
+ {
+  "claim": "C-5651",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5652",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5653",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5654",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5655",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5656",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5657",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5658",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5659",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5660",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5661",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5662",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5663",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5664",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2239",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Content matches the article as read; claim misspells Erika Kirk as 'Erica'.",
+  "fix": {
+   "claim": "The Daily Mail article presents grief experts who attribute criticism of Erika Kirk to \"grief policing,\" a \"mourning avoidant, emotion phobic culture,\" and sexism."
+  }
+ },
+ {
+  "claim": "C-2240",
+  "episode": 66,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "These are quotes in the Daily Mail article the host reads ('says Dr. Alan Wolfelt', 'said LA grief therapist Bidwell Smith'); claim presents them as the experts' direct statements, not the article's.",
+  "fix": {
+   "claim": "Per the Daily Mail article the host reads, Dr. Alan Wolfelt characterizes criticism of Kirk as reflecting a \"mourning avoidant, emotion phobic culture\"; Bidwell Smith states \"widows are uniquely grief policed\" and that \"grief is not a performance and survival is not a moral failure.\""
+  }
+ },
+ {
+  "claim": "C-2241",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'this 36 hours after... Maybe 48 hours' and 'first speech that she gave next to his chair'; it is the chair speech to viewers, not the memorial. 'Erica' misspelled.",
+  "fix": {
+   "label": "Erika Kirk's Speech Beside Charlie's Chair Directs Audience to TPUSA-Affiliated Sign-Ups",
+   "claim": "In a clip the host plays, within ~36–48 hours of Charlie Kirk's assassination (the host's estimate), Erika Kirk's speech directs listeners to TPUSA.com, TPUSA Faith, and America Fest sign-up."
+  }
+ },
+ {
+  "claim": "C-2242",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: Kobe's memorial 'didn't happen 11 days later. It happened a month later'; the 36–48 hour speech was 'the first speech... next to his chair', not the memorial. Claim dates Erika's memorial speech to ~48 hours.",
+  "fix": {
+   "claim": "The host asserts Vanessa Bryant's Kobe Bryant memorial speech (delivered ~one month after death) focused on personal anecdotes about Kobe and grief, while Erika Kirk's memorial speech, and her first speech beside Charlie's chair ~36–48 hours after his death, centered on Turning Point USA."
+  }
+ },
+ {
+  "claim": "C-2243",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Matches the email the host reads (14:05) and her 19:34 reveal that the woman who tapped was Stacy Sheridan; claim misspells Erika as 'Erica'.",
+  "fix": {
+   "claim": "A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erika when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. The host says the woman who tapped the donor's shoulder at the post-mass church and invited her to sit with Erika was Stacy Sheridan."
+  }
+ },
+ {
+  "claim": "C-2244",
+  "episode": 66,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Reported from the donor's email ('a text from him at 6:30 a.m. saying, Hope to see you at mass') and a text the host shows ('Erika may be there, too'); claim states it as fact. Label misspells Erika.",
+  "fix": {
+   "label": "Per Text the Host Shows, Father Blank Told the Donor Erika May Be at Monday Morning Mass",
+   "claim": "Per the donor's email and a text message the host shows, Father Blank texted the donor at 6:30am saying \"Hope to see you at mass\" and \"Erika may be there too.\""
+  }
+ },
+ {
+  "claim": "C-2245",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Content matches the email ('relics from St. Paul II that my mom wanted to give Erika'); label misspells Erika as 'Erica'.",
+  "fix": {
+   "label": "Donor Tells Host She Gave Erika Kirk a Relic of St. Paul II"
+  }
+ },
+ {
+  "claim": "C-2246",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Matches: 'group chat between him and Erika. September 9th... 1 Corinthians... 16:9'; claim misspells Erika as 'Erica'.",
+  "fix": {
+   "claim": "Per a group-chat text message screenshot that the host shows and says was supplied by a source, Charlie Kirk sent a text on September 9 to Erika and Father Blank quoting 1 Corinthians 16:9: \"for a wide door for effective work has opened to me and there are many adversaries.\""
+  }
+ },
+ {
+  "claim": "C-2247",
+  "episode": 66,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'This is the message. Perfect. I'm going to introduce you via text to TPUSA's Blank... Blank says...'; the text is from the contact introducing the donor to Blank, not from Blank, and relays Blank's figures.",
+  "fix": {
+   "label": "Text Introducing Donor to TPUSA Staffer Cites $6M Memorial Cost Tied to Displaced RV Show at Cardinal Stadium",
+   "claim": "Per a text message the host shows, a contact introducing the donor to TPUSA's \"Blank\" says Blank told them the memorial will cost approximately $6 million, that Trump apparently had to get personally involved to secure Cardinal Stadium, and that the high cost was driven by making up lost revenue from a \"large and lucrative RV show\" planned that weekend."
+  }
+ },
+ {
+  "claim": "C-2248",
+  "episode": 66,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "The priest's reply is a message the host reads aloud ('And response the father said...'); claim states it as fact without attributing it to the message the host shows.",
+  "fix": {
+   "claim": "Per the message the host reads, Father Blank responded to the donor's thank-you message with: \"God's fingerprints are all over what is happening. There is no doubt that your presence to Erika was a God moment for both of you.\""
+  }
+ },
+ {
+  "claim": "C-2249",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'I went back on Wayback Machine, saved screenshots' is spoken about 00:25:34, ~38 s before the 00:26:12 timestamp.",
+  "fix": {
+   "timestamp": "00:25:29"
+  }
+ },
+ {
+  "claim": "C-2250",
+  "episode": 66,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Chicago offer and gala invite are the host's narration (~00:31:37); '$42 million' is her figure, not in the text; the text read says 'Can I call you tomorrow regarding the gala?' Timestamp ~40 s late.",
+  "fix": {
+   "timestamp": "00:31:32",
+   "claim": "The host says another top TPUSA fundraiser, who delivered the relic, offered to visit the donor in the Chicago area, met her and her father, and invited her to the Mar-a-Lago gala where, she says, they were going to raise about $42 million; per a text the host reads, he then asked to call her about the gala."
+  }
+ },
+ {
+  "claim": "C-2251",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip content matches ('slandering Erika... this is what Satan does'; 'no supernatural confirmation'); claim misspells Erika as 'Erica'.",
+  "fix": {
+   "claim": "Frank Turek states in an on-air clip that criticism of Erika Kirk (described as slander, accusation, lies, confusion, without evidence) is what \"Satan does,\" and dismisses Candace Owens' dream-based claims as lacking supernatural confirmation."
+  }
+ },
+ {
+  "claim": "C-2252",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'protesters figured out that there is a pastor that works with ICE'; she says the pastor, not the church, works with ICE.",
+  "fix": {
+   "claim": "The host plays a clip that she says shows Don Lemon on camera at a Minnesota church protest questioning a pastor who works with ICE."
+  }
+ },
+ {
+  "claim": "C-8317",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8318",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8319",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8320",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8321",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8322",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8323",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8324",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8325",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8326",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8327",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8328",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

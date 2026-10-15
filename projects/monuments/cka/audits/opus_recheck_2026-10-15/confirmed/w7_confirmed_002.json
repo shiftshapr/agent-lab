@@ -1,0 +1,126 @@
+[
+ {
+  "claim": "C-8462",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim text covers Charlie's last-day arguments only; Erika not named or referred to in the claim."
+ },
+ {
+  "claim": "C-8468",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-271"
+   ]
+  },
+  "note": "Claim names Dan Flood only; the 'if it wasn't Erika' line is not part of the claim."
+ },
+ {
+  "claim": "C-8502",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Erika appears only in the viewer's question; claim is about Charis Bible College security."
+ },
+ {
+  "claim": "C-2378",
+  "episode": 74,
+  "decision": "accept",
+  "fix": {
+   "label": "Per Nicey Clip, Erika Kirk (Then Frantzve) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15",
+   "names": [
+    {
+     "wrong": "Frandsen",
+     "right": "Frantzve",
+     "source": "https://en.wikipedia.org/wiki/Erika_Kirk"
+    }
+   ]
+  },
+  "note": "Wikipedia confirms maiden name Erika Lane Frantzve; label still says Frandsen. Joshua Harrelson left unresolved (not in fix)."
+ },
+ {
+  "claim": "C-2383",
+  "episode": 74,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a video by YouTuber Nicey that the host plays, Nicey says Jillian Falcon tweeted on or about 2014-03-26 \"Thank you, @EricaFrantzve, for making my whole week\" and shared a photo of a gnome reading \"I want to be inside your lady garden. Know what I'm saying?\"",
+   "names": [
+    {
+     "wrong": "Frandsen",
+     "right": "Frantzve",
+     "source": "https://en.wikipedia.org/wiki/Erika_Kirk"
+    }
+   ]
+  },
+  "note": "Frantzve confirmed on Wikipedia; handle's first-name spelling (Erica/Erika) unverified, left as is."
+ },
+ {
+  "claim": "C-10143",
+  "episode": 74,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-565",
+    "N-566",
+    "N-567",
+    "N-2"
+   ]
+  },
+  "note": "'Miss Arizona' in the claim clearly refers to Erika (transcript: Erika had just been Miss Arizona)."
+ },
+ {
+  "claim": "C-10146",
+  "episode": 74,
+  "decision": "accept",
+  "fix": {
+   "claim": "Nicey says that on February 13, 2014 Jillian replied to one of Erika's tweets with the words '@EricaFrantzve, gorgeous as always.'",
+   "names": [
+    {
+     "wrong": "Frandsen",
+     "right": "Frantzve",
+     "source": "https://en.wikipedia.org/wiki/Erika_Kirk"
+    }
+   ]
+  },
+  "note": "Frantzve confirmed on Wikipedia; existing rule only covers 'Erika Frandsen', so the handle was not corrected."
+ },
+ {
+  "claim": "C-10158",
+  "episode": 74,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-566",
+    "N-569"
+   ]
+  },
+  "note": "Claim describes the photographer friend of Erika's, the R-name photographer (N-569)."
+ },
+ {
+  "claim": "C-7086",
+  "episode": 75,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-1",
+    "N-4"
+   ]
+  },
+  "note": "Claim names the 'Vance Kirk ticket', which refers to JD Vance."
+ }
+]

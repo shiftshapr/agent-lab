@@ -1061,7 +1061,7 @@ Investigative Direction: Locate the underlying Epstein document entry and verify
 
 **C-2353** Per Host's Snapshot, Erika Kirk's NY Real Estate License Valid Until October 24, 2020
 
-Claim Timestamp: 00:31:35
+Claim Timestamp: 00:31:08
 
 Claim: Per a snapshot of Erika Kirk's New York real estate license that the host shows, the license displays a validity period ending October 24, 2020.
 
@@ -1078,7 +1078,7 @@ Investigative Direction: Verify license issuance and expiration dates against Ne
 
 Claim Timestamp: 00:28:47
 
-Claim: Tyler Bowyer stated at Charlie Kirk's memorial that Erika Kirk (Miss Arizona 2012) called him offering to help, leading to a TPUSA role, and that Charlie Kirk wanted to date her.
+Claim: Tyler Bowyer stated at Charlie Kirk's memorial that Erika Kirk (Miss Arizona 2012) called him offering to help, that he wanted to hire her for a TPUSA job, and that Charlie Kirk wanted to date her.
 
 Anchored Artifacts: A-1766.1
 Mentions: N-2, N-11, N-1
@@ -1625,7 +1625,7 @@ Investigative Direction: Obtain Erika Kirk's statement about Telegram and the ph
 
 Claim Timestamp: 00:13:57
 
-Claim: The host says she then confirmed with her person that the message was sent from Dan Flood's phone, by iMessage and not Telegram, so that Erika lied to her twice.
+Claim: The host says she then confirmed with her person that the message on Dan Flood's phone was sent by iMessage and not Telegram, so that Erika lied to her twice.
 
 Transcript Snippet: And then I confirmed to my person that it actually sent on Flood's phone that it wasn't sent on Telegram, it was sent on iMessage.
 
@@ -1945,7 +1945,7 @@ Claim: The unnamed TikToker says her earlier Romanian Angel video blew up withou
 Transcript Snippet: it was private investigators asking how I found this information, asking me to send them links.
 
 Anchored Artifacts: A-1769.1
-Mentions: N-561, N-2
+Mentions: N-561
 Related Nodes: N-11165
 Tags: relevance:context
 Investigative Direction: Identify the TikToker and obtain the messages from the investigators.
@@ -2258,7 +2258,7 @@ Investigative Direction: Interview Aubrey Laitsch and obtain separation records 
 
 ---
 
-**C-10122** Host Says Lich's Husband or Fiance Was Also Fired From TPUSA
+**C-10122** Host Says Laitsch's Husband or Fiance Was Also Fired From TPUSA
 
 Claim Timestamp: 00:36:47
 
@@ -2274,7 +2274,7 @@ Investigative Direction: Identify the second fired employee and obtain the termi
 
 ---
 
-**C-10123** Host Says the Man Photographing Lich's Home Delivered No Documents
+**C-10123** Host Says the Man Photographing Laitsch's Home Delivered No Documents
 
 Claim Timestamp: 00:37:32
 

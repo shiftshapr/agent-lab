@@ -338,7 +338,7 @@ Description: Referenced video in which, per Youssef, Hamas officials narrate the
 
 **A-2763** Daily Wire Lawsuit Reference Bundle
 
-**A-2763.1** Host verbal reference to the Daily Wire lawsuit filed after her Phil Tourney interview and to her call asking Turney to testify (not shown)
+**A-2763.1** Host verbal reference to the Daily Wire lawsuit filed after her Phil Tourney interview and to her call asking Tourney to testify (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:09:48
@@ -487,7 +487,7 @@ Investigative Pressure: Medium
 
 **N-499** Phil Tourney
 
-USS Liberty survivor, subject of Candace Owens' prior sit-down interview referenced in this episode. According to host, Turney gave her his Purple Heart and cried during the conversation.
+USS Liberty survivor, subject of Candace Owens' prior sit-down interview referenced in this episode. According to host, Tourney gave her his Purple Heart and cried during the conversation.
 
 Evidence Count: 3
 Claim Count: 1
@@ -776,7 +776,7 @@ Subject of the host's account of her calls with TPUSA employees and her Fox News
 
 **N-3** Candace Owens
 
-Host; speaks of her Daily Wire lawsuit, her Turney interview, her Israel trip and her research.
+Host; speaks of her Daily Wire lawsuit, her Tourney interview, her Israel trip and her research.
 
 *Related: C-5572, C-5574, C-5575, C-5576, C-5582, C-5583, C-5584, C-5585, C-5588, C-5595, C-5596, C-5597, C-5598, C-5599, C-5604, C-5605, C-5606, C-5607, C-5608, C-5614, C-5615, C-5622, C-5624, C-5627, C-5629, C-5631, C-5633, C-5635, C-5636, C-5638, C-5639, C-5640, C-5641, C-5642, C-5647, C-5648, C-5649, C-5650, C-5654, C-5655, C-5656, C-5658, C-5659, C-5660, C-5663*
 
@@ -1031,7 +1031,7 @@ Topic related to the host's Fort Huachuca statement.
 
 **N-10900** Daily Wire
 
-Organization that the host says barred Youssef and sued her after the Turney interview.
+Organization that the host says barred Youssef and sued her after the Tourney interview.
 
 *Related: C-5574, C-5576, C-5582, C-5583, C-5585, C-5654*
 
@@ -1239,11 +1239,11 @@ Investigative Direction: Verify with public records / naturalization records if 
 
 ---
 
-**C-2231** Ostrovsky Bandaged October 7th Photo Shows No Blood on Bandages Despite Bloody Face
+**C-2231** Ostrovsky Bandaged Bondi Attack Photo Shows No Blood on Bandages Despite Bloody Face
 
 Claim Timestamp: 00:15:48
 
-Claim: Per Bassem Youssef, in displayed images, the bandaged follow-up photo of Arsen Ostrovsky shows no blood on the bandages despite blood on the face in the prior photo.
+Claim: Per Bassem Youssef, in displayed images, the bandaged follow-up photo of Arsen Ostrovsky shows no blood on the bandages while his face is left bloody, which he says no self-respecting medic would do.
 
 Anchored Artifacts: A-1693.2
 Mentions: N-502, N-498
@@ -1475,7 +1475,7 @@ Claim: Youssef says that when asked on a morning show hosted by Charlamagne tha 
 Transcript Snippet: And Charman asked him does is did Israel commit genocide? And he started going through this Jordan Peterson word salad style just speaking very quickly
 
 Anchored Artifacts: A-1702.1
-Mentions: N-97
+Mentions: N-97, N-498
 Related Nodes: 
 Investigative Direction: Locate the morning-show episode and the following day's appearance and compare Shapiro's answer with Youssef's description.
 
@@ -1507,11 +1507,11 @@ Transcript Snippet: cried with this with him he gave me his purple heart and the
 Anchored Artifacts: A-2763.1
 Mentions: N-499, N-3
 Related Nodes: N-10451, N-10900, N-11040
-Investigative Direction: Obtain the Turney interview, the Daily Wire complaint and the court docket to confirm the order of events.
+Investigative Direction: Obtain the Tourney interview, the Daily Wire complaint and the court docket to confirm the order of events.
 
 ---
 
-**C-5583** Host says Turney named Charlie Kirk and Ben Shapiro as people calling the USS Liberty a hoax
+**C-5583** Host Says Tourney Named Charlie Kirk and Ben Shapiro as People Calling the USS Liberty a Hoax
 
 Claim Timestamp: 00:09:48
 
@@ -1522,22 +1522,22 @@ Transcript Snippet: And Ben Shapiro said something." And they sued me.
 Anchored Artifacts: A-2763.1
 Mentions: N-499, N-1, N-97, N-3
 Related Nodes: N-10451, N-10900, N-11040
-Investigative Direction: Watch the Turney interview at the point where he names them and compare with the Daily Wire complaint.
+Investigative Direction: Watch the Tourney interview at the point where he names them and compare with the Daily Wire complaint.
 
 ---
 
-**C-5584** Host says she asked Turney to testify that she did not put him up to naming Kirk and Shapiro
+**C-5584** Host Says She Asked Tourney to Testify That She Did Not Put Him Up to Naming Kirk and Shapiro
 
 Claim Timestamp: 00:09:48
 
-Claim: The host says that, because the Daily Wire argued she had put Turney up to it, she called him and asked whether he would testify that she had not.
+Claim: The host says that, because the Daily Wire argued she had put Tourney up to it, she called him and asked whether he would testify that she had not.
 
 Transcript Snippet: could you would you be willing to testify that I didn't put you up to say something
 
 Anchored Artifacts: A-2763.1
 Mentions: N-499, N-3
 Related Nodes: N-11040
-Investigative Direction: Obtain any declaration or testimony from Turney filed in the Daily Wire case.
+Investigative Direction: Obtain any declaration or testimony from Tourney filed in the Daily Wire case.
 
 ---
 
@@ -1560,12 +1560,12 @@ Investigative Direction: Compare the lawsuit's filing or service date with Borei
 
 Claim Timestamp: 00:10:55
 
-Claim: A speaker (likely Youssef) says Mike Pompeo said at an event that the way October 7th is remembered will not be how it is remembered today and that people should remember Israel as the victim.
+Claim: Youssef says Mike Pompeo said at an event that the way October 7th is remembered will not be how it is remembered today and that people should remember Israel as the victim.
 
 Transcript Snippet: Mike Pompeo went on this thing and he said like the way that we going to remember October 7th is not going to how we remember today.
 
 Anchored Artifacts: A-2764.1
-Mentions: N-456
+Mentions: N-456, N-498
 Related Nodes: N-10026
 Investigative Direction: Find the Pompeo event, a video or transcript of his remarks, and the exact wording.
 
@@ -1575,12 +1575,12 @@ Investigative Direction: Find the Pompeo event, a video or transcript of his rem
 
 Claim Timestamp: 00:10:55
 
-Claim: A speaker (likely Youssef) says a friend who attended the Cannes film festival last year reported that pledges of over $200 million had been made to produce TV shows and movies retelling October 7th from the Israeli point of view.
+Claim: Youssef says a friend who attended the Cannes film festival last year reported that pledges of over $200 million had been made to produce TV shows and movies retelling October 7th from the Israeli point of view.
 
 Transcript Snippet: they were already have pledged over $200 million to produce TV shows movies in order to retell October 7th from the Israeli point of view
 
 Anchored Artifacts: A-2764.2
-Mentions: 
+Mentions: N-498
 Related Nodes: N-10026
 Investigative Direction: Identify the friend and the Cannes event, and look for press coverage of any such production fund.
 
@@ -1811,7 +1811,7 @@ Investigative Direction: Retrieve the tweet from Kirk's account history for Sept
 
 ---
 
-**C-5603** Youssef says Andrew Kolvet, not Charlie Kirk, ran Kirk's Twitter feed
+**C-5603** Host Says Andrew Kolvet, Not Charlie Kirk, Ran Kirk's Twitter Feed
 
 Claim Timestamp: 00:28:19
 
@@ -2105,7 +2105,7 @@ Investigative Direction: Check public filings and charitable donation records fo
 
 Claim Timestamp: 00:48:09
 
-Claim: The host says LBJ murdered JFK, got his boys in and took over the military.
+Claim: The host says America is very clearly an Israeli empire and that LBJ murdered JFK, adding 'it got his boys in there and took over our military.'
 
 Transcript Snippet: LBJ murdered JFK. It got his boys in there and took over our military
 
@@ -2120,7 +2120,7 @@ Investigative Direction: Cite the historical record on the JFK assassination; th
 
 Claim Timestamp: 00:51:25
 
-Claim: Youssef says the NYPD and LAPD have Israeli special operations officers on site with them.
+Claim: Youssef says that in the crackdowns on universities, the NYPD and LAPD have had Israeli special operations officers on site with them.
 
 Transcript Snippet: NYPDs and LAPDs is having Israeli special operations officers on site with them.
 
@@ -2240,7 +2240,7 @@ Investigative Direction: Check US military and other aid appropriations to Israe
 
 Claim Timestamp: 01:02:56
 
-Claim: The host says Ben Shapiro has a very close relationship with his dad, who follows him to every job.
+Claim: The host says Ben Shapiro has a too-close relationship with his dad, who follows him to every job.
 
 Transcript Snippet: I know he's got like a very too close relationship with his dad. Like his dad follows him to every job.
 
@@ -2508,7 +2508,7 @@ Investigative Direction: Review investigative findings on the origin of the clai
 
 ---
 
-**C-5649** Host relays Turney's account that Israeli flags were aboard the USS Liberty
+**C-5649** Host Relays Tourney's Account That Israeli Flags Were Aboard the USS Liberty
 
 Claim Timestamp: 01:26:17
 
@@ -2519,11 +2519,11 @@ Transcript Snippet: we had Star of David's IDF uh sorry, IDF Star of David Israe
 Anchored Artifacts: A-1696.1
 Mentions: N-499, N-3
 Related Nodes: N-10451
-Investigative Direction: Check the Turney interview for exactly what he said was aboard the ship.
+Investigative Direction: Check the Tourney interview for exactly what he said was aboard the ship.
 
 ---
 
-**C-5650** Host relays Turney's account that an Israeli soldier on a boat gave him the middle finger after the torpedo warning
+**C-5650** Host Relays Tourney's Account That an Israeli Soldier on a Boat Gave Him the Middle Finger After the Torpedo Warning
 
 Claim Timestamp: 01:26:17
 
@@ -2534,7 +2534,7 @@ Transcript Snippet: that IDF soldier then gives him the middle finger made eye c
 Anchored Artifacts: A-1696.1
 Mentions: N-499, N-3
 Related Nodes: N-10451
-Investigative Direction: Compare this retelling with Turney's own words in the interview and with his published written accounts.
+Investigative Direction: Compare this retelling with Tourney's own words in the interview and with his published written accounts.
 
 ---
 

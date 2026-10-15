@@ -779,7 +779,7 @@ Investigative Direction: Compare the September 8, 2025 broadcast frame against p
 
 Claim Timestamp: 00:04:44
 
-Claim: The wedding photo was absent from the background during Erika Kirk's December 12, 2025 Glenn Beck interview filmed from Charlie Kirk's home office – the same space where it was visible on September 8, 2025.
+Claim: The host says the wedding photo was absent from the background during Erika Kirk's December 12, 2025 Glenn Beck interview filmed from Charlie Kirk's home office – the same space where it was visible on September 8, 2025.
 
 Anchored Artifacts: A-1774.1, A-1773.1
 Mentions: N-2, N-238, N-1
@@ -794,7 +794,7 @@ Investigative Direction: Obtain the full Glenn Beck segment in higher resolution
 
 Claim Timestamp: 00:01:14
 
-Claim: Laura Loomer posted on X stating "It is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far."
+Claim: The host reads a post in which Laura Loomer wrote on X, "It is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far."
 
 Anchored Artifacts: A-1772.1
 Mentions: N-2, N-3, N-60
@@ -881,7 +881,7 @@ Investigative Direction: Obtain the full hearing transcript and video; cross-ref
 
 Claim Timestamp: 00:39:05
 
-Claim: The host says, relaying accounts from informants who told her they were part of the show, that the TPUSA All-American Halftime Show was pre-filmed in Fayetteville, GA over two days with approximately 180 audience members who were moved around the room between takes to make the venue appear fuller.
+Claim: The host says, relaying accounts from informants who told her they were part of the show, that the TPUSA All-American Halftime Show was pre-filmed in Fayetteville, GA over two days with approximately 180 audience members who were moved around the room to make the venue appear fuller.
 
 Anchored Artifacts: A-1778.1
 
@@ -1434,7 +1434,7 @@ Claim: The host says the picture emerging is that Charlie's last day consisted o
 Transcript Snippet: the picture that is starting to emerge is that Charlie's last day consisted of a lot of arguments.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-2
+Mentions: N-3, N-1
 Related Nodes: N-10509
 Tags: relevance:core
 Investigative Direction: Seek participants in the September 9 conversations and compare accounts with phone logs and calendar entries.
@@ -1529,7 +1529,7 @@ Claim: The host says that although she has been told the missing messages are ex
 Transcript Snippet: Not true. Dan Flood messaged on iMessage. So who deleted it?
 
 Anchored Artifacts: A-1774.2
-Mentions: N-3, N-271, N-2
+Mentions: N-3, N-271
 Related Nodes: N-10470, N-10320
 Tags: relevance:core
 Investigative Direction: Obtain the carrier and iCloud records for Dan Flood's iMessage thread with Charlie Kirk.
@@ -1562,7 +1562,7 @@ Transcript Snippet: I don't know if you saw yesterday like a motorcade, bigger a
 
 Anchored Artifacts: 
 Mentions: N-3, N-36, N-5
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare the described motorcade with press pool reports and Secret Service statements about the visit.
 
 ---
@@ -1615,7 +1615,7 @@ Investigative Direction: Obtain the full hearing recording to confirm the questi
 
 ---
 
-**C-8474** Host Says Jews Originate in Turkey and Deleted Their Books
+**C-8474** Host Says Those She Addresses Are 'From Turkey Somewhere' and Deleted Their Books
 
 Claim Timestamp: 00:33:40
 
@@ -2022,7 +2022,7 @@ Transcript Snippet: I did look into that. I I watched Baron Coleman's episode an
 
 Anchored Artifacts: A-2934.2
 Mentions: N-3, N-2, N-331
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: The allegation is a viewer comment read on air and is unverified; seek documentary evidence before treating it as established.
 
 ---
@@ -2067,7 +2067,7 @@ Claim: Answering a viewer, the host says the event planned for the day after UVU
 Transcript Snippet: it was in the state of Colorado and at the Caris Bible College and they did not have any arrangements for security.
 
 Anchored Artifacts: A-2934.3
-Mentions: N-3, N-2
+Mentions: N-3
 Related Nodes: N-10396
 Tags: relevance:core
 Investigative Direction: Obtain the Charis Bible College event contract, security plan and communications with TPUSA.

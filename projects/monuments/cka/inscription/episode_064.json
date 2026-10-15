@@ -1548,7 +1548,7 @@
       "@id": "C-2207",
       "ref": "C-2207",
       "label": "Erika Kirk's Sept 16 Call Opened With Laughter and Visible \"Thumbs Up\" Reactions",
-      "claim": "The opening of the September 16 Zoom call features visible Zoom \"thumbs up\" reactions, Erika Kirk laughing, and her comment \"this is a little bit more emotional than probably Charlie would be reacting.\"",
+      "claim": "In a clip of the opening of the September 16 Zoom call that the host plays, Erika Kirk says \"Oh, look at all the thumbs up\" and \"this is a little bit more emotional than probably Charlie would be reacting\"; the host says she starts by laughing.",
       "anchored_artifacts": [
         "A-1686.1"
       ],
@@ -1614,7 +1614,7 @@
         "N-10448"
       ],
       "tags": [],
-      "claim_timestamp": "00:22:11",
+      "claim_timestamp": "00:20:00",
       "investigative_direction": "Obtain unedited recording; confirm whether the self-correction is verbatim as transcribed.",
       "mentions_person_refs": [
         "N-2",
@@ -1663,7 +1663,7 @@
       "@type": "Claim",
       "@id": "C-2213",
       "ref": "C-2213",
-      "label": "TPUSA Board Announcement Letter (Sept 17) Was Authored by Doug DeGroote",
+      "label": "TPUSA Board Announcement Letter (Sept 17) Was Signed Off by Doug DeGroote",
       "claim": "The host says the September 17, 2025 public letter announcing Erika Kirk as Turning Point USA's new CEO and Chair was signed off by Doug DeGroote, whom she says is on the board.",
       "anchored_artifacts": [
         "A-1687.1"
@@ -1723,7 +1723,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:40:30",
+      "claim_timestamp": "00:39:57",
       "investigative_direction": "Identify source podcast and date; verify exact quote and surrounding context.",
       "mentions_person_refs": [
         "N-367",
@@ -1808,8 +1808,8 @@
       "@type": "Claim",
       "@id": "C-2221",
       "ref": "C-2221",
-      "label": "Host Characterizes Boreing's \"Nuclear Energy\" / BLM-Critique Hiring Rationale as Objectively Racially Motivated",
-      "claim": "Candace Owens asserts that Boreing's explicit framing of why he hired her – tied to her willingness to critique Black Lives Matter – is \"objectively racist.\"",
+      "label": "Host Calls Boreing's BLM-Era Hiring Remarks \"Objectively Racist\"",
+      "claim": "Candace Owens asserts that Boreing's remarks about why he hired her, which she paraphrases as tied to her willingness to critique Black Lives Matter, are \"objectively racist.\"",
       "anchored_artifacts": [
         "A-1688.2"
       ],
@@ -1826,7 +1826,7 @@
       "@type": "Claim",
       "@id": "C-2222",
       "ref": "C-2222",
-      "label": "Host Characterizes Boreing's \"Rhetorical Pornography\" Comparison as Deflection From Documented Sexual Violence",
+      "label": "Host Rejects Boreing's \"Rhetorical Pornography\" Comparison",
       "claim": "Candace Owens rejects Boreing's pornography analogy, saying one of the reasons she was fired was that she said the history of pornography should be looked into, and that people should talk about real pornography and where it comes from.",
       "anchored_artifacts": [
         "A-1688.3"
@@ -3487,7 +3487,7 @@
       "@id": "C-9982",
       "ref": "C-9982",
       "label": "Bulwark Guest Said the Project Is Set in Roman-Era Britain, Filmed in Hungary, and Not Yet Released",
-      "claim": "In the Bulwark clip, a guest says the departure agreement may reflect millions spent on a bizarre project set in Roman-era Britain but filmed in Hungary, involving Italian bulls maybe from Spain; earlier in the clip it is said the project still hasn't come out.",
+      "claim": "In the Bulwark clip, a speaker says the departure agreement may reflect millions spent on a bizarre project set in Roman-era Britain but filmed in Hungary, involving Italian bulls maybe from Spain; earlier in the clip it is said the project still hasn't come out.",
       "anchored_artifacts": [
         "A-1689.1"
       ],
@@ -3686,7 +3686,7 @@
       "@id": "C-9991",
       "ref": "C-9991",
       "label": "Host Says Boreing Sent an Intern to Dallas to Stalk Her at Turning Point USA",
-      "claim": "The host says Boreing sent an intern on a secret mission to Dallas, to Turning Point USA, to follow her after he fired her and put her on a plane.",
+      "claim": "The host says Boreing sent an intern on a secret mission to Dallas, to Turning Point USA, to follow her after he fired her, putting the intern on a plane.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10416",

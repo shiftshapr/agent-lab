@@ -445,7 +445,7 @@
           "@type": "Artifact",
           "@id": "A-2763.1",
           "ref": "A-2763.1",
-          "description": "Host verbal reference to the Daily Wire lawsuit filed after her Phil Tourney interview and to her call asking Turney to testify (not shown)",
+          "description": "Host verbal reference to the Daily Wire lawsuit filed after her Phil Tourney interview and to her call asking Tourney to testify (not shown)",
           "related_claims": [
             "C-5582",
             "C-5583",
@@ -738,7 +738,7 @@
       "ref": "N-499",
       "name": "Phil Tourney",
       "type": "person",
-      "description": "USS Liberty survivor, subject of Candace Owens' prior sit-down interview referenced in this episode. According to host, Turney gave her his Purple Heart and cried during the conversation.",
+      "description": "USS Liberty survivor, subject of Candace Owens' prior sit-down interview referenced in this episode. According to host, Tourney gave her his Purple Heart and cried during the conversation.",
       "related_artifacts": [
         "A-1694.2",
         "A-1696.1"
@@ -1898,7 +1898,7 @@
       "ref": "N-10900",
       "name": "Daily Wire",
       "type": "investigation_target",
-      "description": "Organization that the host says barred Youssef and sued her after the Turney interview.",
+      "description": "Organization that the host says barred Youssef and sued her after the Tourney interview.",
       "related_artifacts": [],
       "related_claims": [
         "C-5574",
@@ -2280,8 +2280,8 @@
       "@type": "Claim",
       "@id": "C-2231",
       "ref": "C-2231",
-      "label": "Ostrovsky Bandaged October 7th Photo Shows No Blood on Bandages Despite Bloody Face",
-      "claim": "Per Bassem Youssef, in displayed images, the bandaged follow-up photo of Arsen Ostrovsky shows no blood on the bandages despite blood on the face in the prior photo.",
+      "label": "Ostrovsky Bandaged Bondi Attack Photo Shows No Blood on Bandages Despite Bloody Face",
+      "claim": "Per Bassem Youssef, in displayed images, the bandaged follow-up photo of Arsen Ostrovsky shows no blood on the bandages while his face is left bloody, which he says no self-respecting medic would do.",
       "anchored_artifacts": [
         "A-1693.2"
       ],
@@ -2590,7 +2590,8 @@
       "investigative_direction": "Locate the morning-show episode and the following day's appearance and compare Shapiro's answer with Youssef's description.",
       "transcript_snippet": "And Charman asked him does is did Israel commit genocide? And he started going through this Jordan Peterson word salad style just speaking very quickly",
       "mentions_person_refs": [
-        "N-97"
+        "N-97",
+        "N-498"
       ]
     },
     {
@@ -2628,7 +2629,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:08:54",
-      "investigative_direction": "Obtain the Turney interview, the Daily Wire complaint and the court docket to confirm the order of events.",
+      "investigative_direction": "Obtain the Tourney interview, the Daily Wire complaint and the court docket to confirm the order of events.",
       "transcript_snippet": "cried with this with him he gave me his purple heart and then I got sued by the Daily Wire.",
       "mentions_person_refs": [
         "N-499",
@@ -2639,7 +2640,7 @@
       "@type": "Claim",
       "@id": "C-5583",
       "ref": "C-5583",
-      "label": "Host says Turney named Charlie Kirk and Ben Shapiro as people calling the USS Liberty a hoax",
+      "label": "Host Says Tourney Named Charlie Kirk and Ben Shapiro as People Calling the USS Liberty a Hoax",
       "claim": "The host says that during the sit-down Phil Tourney called out people who said the USS Liberty attack was a hoax and named Charlie Kirk and then Ben Shapiro, and that the Daily Wire sued her.",
       "anchored_artifacts": [
         "A-2763.1"
@@ -2651,7 +2652,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:48",
-      "investigative_direction": "Watch the Turney interview at the point where he names them and compare with the Daily Wire complaint.",
+      "investigative_direction": "Watch the Tourney interview at the point where he names them and compare with the Daily Wire complaint.",
       "transcript_snippet": "And Ben Shapiro said something.\" And they sued me.",
       "mentions_person_refs": [
         "N-499",
@@ -2664,8 +2665,8 @@
       "@type": "Claim",
       "@id": "C-5584",
       "ref": "C-5584",
-      "label": "Host says she asked Turney to testify that she did not put him up to naming Kirk and Shapiro",
-      "claim": "The host says that, because the Daily Wire argued she had put Turney up to it, she called him and asked whether he would testify that she had not.",
+      "label": "Host Says She Asked Tourney to Testify That She Did Not Put Him Up to Naming Kirk and Shapiro",
+      "claim": "The host says that, because the Daily Wire argued she had put Tourney up to it, she called him and asked whether he would testify that she had not.",
       "anchored_artifacts": [
         "A-2763.1"
       ],
@@ -2674,7 +2675,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:48",
-      "investigative_direction": "Obtain any declaration or testimony from Turney filed in the Daily Wire case.",
+      "investigative_direction": "Obtain any declaration or testimony from Tourney filed in the Daily Wire case.",
       "transcript_snippet": "could you would you be willing to testify that I didn't put you up to say something",
       "mentions_person_refs": [
         "N-499",
@@ -2708,7 +2709,7 @@
       "@id": "C-5586",
       "ref": "C-5586",
       "label": "Speaker says Mike Pompeo said October 7th should be remembered with Israel as the victim",
-      "claim": "A speaker (likely Youssef) says Mike Pompeo said at an event that the way October 7th is remembered will not be how it is remembered today and that people should remember Israel as the victim.",
+      "claim": "Youssef says Mike Pompeo said at an event that the way October 7th is remembered will not be how it is remembered today and that people should remember Israel as the victim.",
       "anchored_artifacts": [
         "A-2764.1"
       ],
@@ -2720,7 +2721,8 @@
       "investigative_direction": "Find the Pompeo event, a video or transcript of his remarks, and the exact wording.",
       "transcript_snippet": "Mike Pompeo went on this thing and he said like the way that we going to remember October 7th is not going to how we remember today.",
       "mentions_person_refs": [
-        "N-456"
+        "N-456",
+        "N-498"
       ]
     },
     {
@@ -2728,7 +2730,7 @@
       "@id": "C-5587",
       "ref": "C-5587",
       "label": "Speaker says a friend reported a $200 million pledge at Cannes to produce Israeli-view October 7th content",
-      "claim": "A speaker (likely Youssef) says a friend who attended the Cannes film festival last year reported that pledges of over $200 million had been made to produce TV shows and movies retelling October 7th from the Israeli point of view.",
+      "claim": "Youssef says a friend who attended the Cannes film festival last year reported that pledges of over $200 million had been made to produce TV shows and movies retelling October 7th from the Israeli point of view.",
       "anchored_artifacts": [
         "A-2764.2"
       ],
@@ -2738,7 +2740,10 @@
       "tags": [],
       "claim_timestamp": "00:10:55",
       "investigative_direction": "Identify the friend and the Cannes event, and look for press coverage of any such production fund.",
-      "transcript_snippet": "they were already have pledged over $200 million to produce TV shows movies in order to retell October 7th from the Israeli point of view"
+      "transcript_snippet": "they were already have pledged over $200 million to produce TV shows movies in order to retell October 7th from the Israeli point of view",
+      "mentions_person_refs": [
+        "N-498"
+      ]
     },
     {
       "@type": "Claim",
@@ -3031,7 +3036,7 @@
       "@type": "Claim",
       "@id": "C-5603",
       "ref": "C-5603",
-      "label": "Youssef says Andrew Kolvet, not Charlie Kirk, ran Kirk's Twitter feed",
+      "label": "Host Says Andrew Kolvet, Not Charlie Kirk, Ran Kirk's Twitter Feed",
       "claim": "The host says Charlie Kirk did not run his Twitter feed and that Andrew Kolvet did.",
       "anchored_artifacts": [
         "A-2766.2"
@@ -3413,7 +3418,7 @@
       "@id": "C-5622",
       "ref": "C-5622",
       "label": "Host says LBJ murdered JFK and put his own people into the military",
-      "claim": "The host says LBJ murdered JFK, got his boys in and took over the military.",
+      "claim": "The host says America is very clearly an Israeli empire and that LBJ murdered JFK, adding 'it got his boys in there and took over our military.'",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -3429,7 +3434,7 @@
       "@id": "C-5623",
       "ref": "C-5623",
       "label": "Youssef says NYPD and LAPD have Israeli special operations officers on site with them",
-      "claim": "Youssef says the NYPD and LAPD have Israeli special operations officers on site with them.",
+      "claim": "Youssef says that in the crackdowns on universities, the NYPD and LAPD have had Israeli special operations officers on site with them.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026"
@@ -3566,7 +3571,7 @@
       "@id": "C-5631",
       "ref": "C-5631",
       "label": "Host says Ben Shapiro's father follows him to every job",
-      "claim": "The host says Ben Shapiro has a very close relationship with his dad, who follows him to every job.",
+      "claim": "The host says Ben Shapiro has a too-close relationship with his dad, who follows him to every job.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -3912,7 +3917,7 @@
       "@type": "Claim",
       "@id": "C-5649",
       "ref": "C-5649",
-      "label": "Host relays Turney's account that Israeli flags were aboard the USS Liberty",
+      "label": "Host Relays Tourney's Account That Israeli Flags Were Aboard the USS Liberty",
       "claim": "The host, relaying Phil Tourney's account, says the ship carried Israeli flags and Star of David items because they were there to protect Israel.",
       "anchored_artifacts": [
         "A-1696.1"
@@ -3922,7 +3927,7 @@
       ],
       "tags": [],
       "claim_timestamp": "01:26:17",
-      "investigative_direction": "Check the Turney interview for exactly what he said was aboard the ship.",
+      "investigative_direction": "Check the Tourney interview for exactly what he said was aboard the ship.",
       "transcript_snippet": "we had Star of David's IDF uh sorry, IDF Star of David Israeli flags inside the ship because we were going out there to go protect them.",
       "mentions_person_refs": [
         "N-499",
@@ -3933,7 +3938,7 @@
       "@type": "Claim",
       "@id": "C-5650",
       "ref": "C-5650",
-      "label": "Host relays Turney's account that an Israeli soldier on a boat gave him the middle finger after the torpedo warning",
+      "label": "Host Relays Tourney's Account That an Israeli Soldier on a Boat Gave Him the Middle Finger After the Torpedo Warning",
       "claim": "The host, relaying Phil Tourney's account, says that an IDF soldier on a boat that approached made eye contact and gave him the middle finger after the warning that they were about to be torpedoed.",
       "anchored_artifacts": [
         "A-1696.1"
@@ -3943,7 +3948,7 @@
       ],
       "tags": [],
       "claim_timestamp": "01:26:17",
-      "investigative_direction": "Compare this retelling with Turney's own words in the interview and with his published written accounts.",
+      "investigative_direction": "Compare this retelling with Tourney's own words in the interview and with his published written accounts.",
       "transcript_snippet": "that IDF soldier then gives him the middle finger made eye contact and to this day people are gaslighting him they didn't know",
       "mentions_person_refs": [
         "N-499",

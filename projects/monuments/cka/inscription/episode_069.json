@@ -1419,7 +1419,7 @@
       "@id": "C-2299",
       "ref": "C-2299",
       "label": "Epstein emailed a \"Sultan\" referencing a person named James Miller and shipping to 9E71st Street",
-      "claim": "An Epstein email the host shows, addressed 'Hi, Sultan', asks who 'James Miller' is and says 'He is who you have built to'; the host also asks whether the shipping address is Jeffrey's home at 9E71st Street.",
+      "claim": "An Epstein email the host shows, addressed 'Hi, Sultan', asks who 'James Miller' is, says 'He is who you have built to', and asks whether the shipping address is Jeffrey's home at 9E71st Street.",
       "anchored_artifacts": [
         "A-1738.2"
       ],
@@ -1474,7 +1474,7 @@
       "@type": "Claim",
       "@id": "C-2302",
       "ref": "C-2302",
-      "label": "Tom Horn asserts a special operations general confirmed Gilgamesh remains in \"remarkable preservation\"",
+      "label": "Steve Quayle Says a Special Operations General Confirmed Gilgamesh Remains in Remarkable Preservation",
       "claim": "In an Omega Man Radio clip the host plays, Steve Quayle says a special operations general told him Gilgamesh was in 'a state of remarkable preservation' and that they have Gilgamesh's remains; Tom Horn says that, according to some people, the military took possession and control of the dig.",
       "anchored_artifacts": [
         "A-1740.1"
@@ -1947,7 +1947,7 @@
       "@id": "C-12600",
       "ref": "C-12600",
       "label": "Rob Skiba Says a Line From Mount Hermon to the Paris Meridian Is Called the Devil's Line",
-      "claim": "In the played clip, Rob Skiba says that drawing a line from the Hermon marker to the Paris prime meridian produces what the occult calls the devil's line, and that he checked this himself on Google Earth.",
+      "claim": "In the played clip, Rob Skiba says David Flynn pointed out that drawing a line from the Hermon marker to the Paris prime meridian produces what the occult calls the devil's line, and that he checked the location himself on Google Earth.",
       "anchored_artifacts": [
         "A-1739.1"
       ],
@@ -1997,7 +1997,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:07:35",
       "investigative_direction": "Identify the photograph shown; the 1972 Rothschild surrealist ball is documented in public archives, but the transcript does not give the date or source.",
@@ -2251,7 +2251,7 @@
       "@type": "Claim",
       "@id": "C-12615",
       "ref": "C-12615",
-      "label": "Host Cites Radio Speaker Saying Nephilim Could Be Reconstituted in a Body and Nimrod Equals Gilgamesh",
+      "label": "In a Played Radio Clip, Tom Horn Says Nephilim Could Be Reconstituted in a Body and Some Identify Nimrod as Gilgamesh",
       "claim": "In the played Omega Man Radio clip, Tom Horn proposes that the Nephilim and the gods and children of the watchers could be reconstituted inside a body, and says some scholars also identify Nimrod as Gilgamesh, Apollo and Osiris.",
       "anchored_artifacts": [
         "A-1740.1"
@@ -2670,7 +2670,7 @@
       "@id": "C-12634",
       "ref": "C-12634",
       "label": "Host Says They Conference Called Erika Over Three Minutes Later",
-      "claim": "The host says Mikey and Elizabeth conference called Erika more than three minutes after the first call.",
+      "claim": "The host says Mikey and Elizabeth then conference called Erika over three minutes later.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10193"
@@ -2691,7 +2691,7 @@
       "@type": "Claim",
       "@id": "C-12635",
       "ref": "C-12635",
-      "label": "Host Says Erika Told Her Mikey Called Within Seconds",
+      "label": "Host Says Erika Said Mikey Called Within Seconds",
       "claim": "The host quotes Erika saying 'He called me within seconds' and says maybe she thought that.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2737,7 +2737,7 @@
       "@type": "Claim",
       "@id": "C-12637",
       "ref": "C-12637",
-      "label": "Host Says Erika Could Not Say Whether Kolvet's Wife Was Aboard and TPUSA Later Said She Was",
+      "label": "Host Says Erika Could Not Say Whether Kolvet's Wife Was Aboard and She Was Later Told the Wife Was",
       "claim": "The host says it was strange that Erika did not know Kolvet's wife was aboard; when the host asked at the meeting whether he flew with his wife, Erika was unable or unwilling to answer, and TPUSA later confirmed the wife was on the plane.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3127,7 +3127,8 @@
       "investigative_direction": "Review the tips received at the tip address.",
       "transcript_snippet": "Email us at more tipscandowens. com.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-546"
       ]
     },
     {
@@ -3181,7 +3182,7 @@
         "N-10487"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:31:20",
       "investigative_direction": "Find dated accounts of Erika Kirk's influence on Charlie's church involvement.",
@@ -3202,7 +3203,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:31:49",
       "investigative_direction": "Find the chats in the public Epstein files.",
@@ -3361,7 +3362,6 @@
         "C-5288"
       ],
       "mentions_person_refs": [
-        "N-40",
         "N-3"
       ]
     },

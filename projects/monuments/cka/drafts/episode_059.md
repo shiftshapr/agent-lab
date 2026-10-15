@@ -1102,9 +1102,9 @@ Investigative Direction: Verify through Erath County Sheriff's Office records.
 
 **C-2140** Turning Point USA sent a cease-and-desist letter to Zack Gregorio at the Wolves and Finance YouTube channel
 
-Claim Timestamp: 00:21:21
+Claim Timestamp: 00:20:50
 
-Claim: TPUSA sent a "Demand to cease and desist defamatory comments" letter to Zack Gregorio of Wolves and Finance; the letter is displayed and read aloud in the episode.
+Claim: In a clip the host plays, Zack Gregorio of Wolves and Finance says he received a letter from Turning Point USA titled "Demand to cease and desist defamatory comments" and reads from it.
 
 Anchored Artifacts: A-1648.1, A-1648.2
 Mentions: N-473
@@ -1204,11 +1204,11 @@ Investigative Direction: Verify through Israeli government or embassy announceme
 
 ---
 
-**C-2147** Per a viewer comment, Dan Flood provided security at a Charlie Kirk Day event where Kash Patel was present
+**C-2147** Host Says Dan Flood Was Still Providing Security at Charlie Kirk Day Event Where Kash Patel Was Invited
 
 Claim Timestamp: 00:42:39
 
-Claim: Viewer "Moderator Marzy" comment states Dan Flood "was still providing security" at a Charlie Kirk Day event and that Kash Patel was invited.
+Claim: The host says that at the Charlie Kirk Day event they invited Kash Patel, and that Dan Flood was there too, still providing security, which she thought was weird.
 
 Anchored Artifacts: A-1653.1
 Mentions: N-1, N-271, N-69
@@ -1235,7 +1235,7 @@ Investigative Direction: Verify through FBIA official publications, IRS Form 990
 **C-3658** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:46:47
-Claim: The host says she would recommend the decentralized intelligence agency, since the public is more reliable than her sources, because they do not go after kids but defend and protect them.
+Claim: The host says she would recommend the decentralized intelligence agency, since the public is way more reliable than the answers she gets about Erika Kirk, because they do not go after kids but defend and protect them.
 Transcript Snippet: ...y more reliable. 10 out of 10 would recommend the decentralized intelligence agency because we don't go after kids, right? We actually defend kids um and protect kids, which should be...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1324,11 +1324,11 @@ Investigative Direction: Look up the Cattleman's Ball nonprofit's registration a
 
 ---
 
-**C-14178** Host Says Emailer Said Dan Flood Is Connected to Both Fort Huachuca and the Cattleman's Ball
+**C-14178** Host Says Emailer Said Dan Flood Is "Connected to Both" and Pointed to Flood's Father
 
 Claim Timestamp: 00:05:20
 
-Claim: The host says the emailer told her that Dan Flood is connected to both the Fort Huachuca matter and the Cattleman's Ball, and that nobody had worked out who Flood's father is.
+Claim: The host, paraphrasing the emailer, says he told her she was obsessed with Fort Huachuca and thought Charlie had been tracked for a while, that she had not figured out who Dan Flood is, that "Dan Flood is connected to both," and that nobody had worked out who Flood's father is.
 
 Transcript Snippet: Dan Flood is connected to both. You think it was an inside job from the feds and none of you guys have even worked out who Dan Flood's father is.
 
@@ -1771,11 +1771,11 @@ Investigative Direction: Obtain the full text of the letter and Gregorio's video
 
 ---
 
-**C-14206** Host Indicates the Letter Said TPUSA Does Not Intend to Sue
+**C-14206** Host Says a Cease and Desist Should Not Open With We Don't Intend to Sue
 
 Claim Timestamp: 00:23:00
 
-Claim: The host says a cease and desist should not open with we don't intend to sue you, and says Gregorio is correct that it is the first step toward suing, which implies the letter contained that disclaimer.
+Claim: The host says a cease and desist should not open with we don't intend to sue you, and says Gregorio is correct that it is the first step toward suing.
 
 Transcript Snippet: If you feel that someone is putting out wrong information about you, don't start a cease and assist letter with we don't intend to sue you.
 
@@ -1821,59 +1821,59 @@ Investigative Direction: Compare Harpole's Shawn Ryan interview with UVU's drone
 
 ---
 
-**C-14209** Kolvet Says His Drone Pilot Had Completed the FAA Steps
+**C-14209** Paramount Tactical's Gary Says His Drone Pilot Had Completed the FAA Steps
 
 Claim Timestamp: 00:25:20
 
-Claim: Andrew Kolvet says in the clip that his drone pilot had already made all the necessary steps with the FAA to be able to fly the drone for the survey.
+Claim: In a clip the host plays, Paramount Tactical's Gary says his drone pilot had already made all the necessary steps with the FAA to be able to fly the drone for the survey.
 
 Transcript Snippet: my drone pilot had already made all the necessary steps with the FAA to make sure that we could do that.
 
 Anchored Artifacts: A-1649.1
-Mentions: N-14
+Mentions: 
 Related Nodes: N-10427
 Tags: relevance:core
 Investigative Direction: Request the FAA authorization or waiver and flight log for the survey drone.
 
 ---
 
-**C-14210** Kolvet Says Law Enforcement Made Him Ground the Drone at UVU
+**C-14210** Paramount Tactical's Gary Says Law Enforcement Made Him Ground the Drone at UVU
 
 Claim Timestamp: 00:25:30
 
-Claim: Andrew Kolvet says that at UVU law enforcement came up and demanded he take the drone down, that he told the officer they did not control the airspace, and that they ended up grounding it.
+Claim: In a clip the host plays, Paramount Tactical's Gary says that at UVU law enforcement came up and demanded he take the drone down, that he told the officer they did not control the airspace, and that they ended up grounding it.
 
 Transcript Snippet: Immediately we were um law enforcement came up and said,
 
 Anchored Artifacts: A-1649.1
-Mentions: N-14
+Mentions: 
 Related Nodes: N-10427, N-10012
 Tags: relevance:core
 Investigative Direction: Identify the officer and agency; request body camera footage and incident logs from UVU police.
 
 ---
 
-**C-14211** Kolvet Says the Team Left Campus, Flew the Drone and Got the Survey
+**C-14211** Paramount Tactical's Gary Says the Team Left Campus, Flew the Drone and Got the Survey
 
 Claim Timestamp: 00:25:50
 
-Claim: Andrew Kolvet says that after being grounded they left campus, flew the drone off campus and got the survey, and that this reinforced Harpole's statement that they could not get permission to get a drone up.
+Claim: In a clip the host plays, Paramount Tactical's Gary says that after being grounded they left campus, flew the drone off campus and got the survey, and that this reinforced Harpole's statement that they could not get permission to get a drone up.
 
 Transcript Snippet: what we ended up having to do was leave campus. We flew the drone.
 
 Anchored Artifacts: A-1649.1
-Mentions: N-14, N-267
+Mentions: N-267
 Related Nodes: N-10427
 Tags: relevance:core
 Investigative Direction: Obtain the drone pilot's flight log, locations and timestamps for the survey.
 
 ---
 
-**C-14212** Kolvet Says the Circulated Picture Is a Wide-Angle Shot From a Second-Floor Walkway
+**C-14212** Paramount Tactical's Gary and Kolvet Say the Circulated Picture Is a Wide-Angle Shot From a Walkway
 
 Claim Timestamp: 00:26:10
 
-Claim: Andrew Kolvet says the picture circulated as proof of drone footage is a wide-angle shot of the crowd from the second floor, taken from an elevated walkway or bridge.
+Claim: In a clip the host plays, Paramount Tactical's Gary says the picture circulated as proof of drone footage is a wide-angle shot of the crowd from the second floor, and Andrew Kolvet adds it was taken from an elevated walkway or bridge.
 
 Transcript Snippet: It is a wide angle shot of the crowd from second floor.
 

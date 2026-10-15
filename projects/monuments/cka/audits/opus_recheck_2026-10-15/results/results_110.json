@@ -1,0 +1,783 @@
+[
+ {
+  "claim": "C-8501",
+  "episode": 73,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8502",
+  "episode": 73,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Mentions has N-2 (Erika Kirk), who is named only in the viewer's question, not in the claim (host on Charis Bible College security).",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-8503",
+  "episode": 73,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8504",
+  "episode": 73,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2378",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Label says 'Then Frandsen'; '@EricaFrandsen' is a mis-transcription of her maiden name Frantzve (claim body already uses Frantzve). Unresolved name: Joshua Harrelson (possibly NBA player Josh Harrellson; not confirmed).",
+  "fix": {
+   "label": "Per Nicey Clip, Erika Kirk (Then Frantzve) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15",
+   "names": [
+    {
+     "wrong": "Frandsen",
+     "right": "Frantzve",
+     "source": "https://en.wikipedia.org/wiki/Erika_Kirk"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2379",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2380",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2381",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2382",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2383",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim quotes '@EricaFrandsen', a transcription error of Erika's maiden-name handle (Frantzve, per Wikipedia).",
+  "fix": {
+   "claim": "In a video by YouTuber Nicey that the host plays, Nicey says Jillian Falcon tweeted on or about 2014-03-26 \"Thank you, @EricaFrantzve, for making my whole week\" and shared a photo of a gnome reading \"I want to be inside your lady garden. Know what I'm saying?\"",
+   "names": [
+    {
+     "wrong": "Frandsen",
+     "right": "Frantzve",
+     "source": "https://en.wikipedia.org/wiki/Erika_Kirk"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2384",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2385",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2386",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host does not say Jillian told her this; she shows the comment: 'Erika said stuff even like this to her on Instagram. Jillian \"That dime piece beside the car though.\"'",
+  "fix": {
+   "claim": "The host shows an Instagram comment in which Erika Kirk, referring to Jillian Falcon beside a car, wrote \"That dime piece beside the car though.\""
+  }
+ },
+ {
+  "claim": "C-2387",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2388",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2389",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2390",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2391",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Content is a TikToker's clip the host plays ('A Tik Toker went viral discussing it. Take a listen.'); 'Episode presents ... the speaker' is vague.",
+  "fix": {
+   "claim": "In a TikTok clip the host plays, a TikToker says that searching the DOJ files for \"color of the day\" returned about 40 FBI briefings, and that the one for the day of Charlie Kirk's assassination is the only one in which the color of the day is redacted."
+  }
+ },
+ {
+  "claim": "C-2392",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2393",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2394",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Only the Nov 8 find is credited to 'one of our mommy sleuths'; the Sept 22 Fox find is credited to 'another sleuth'.",
+  "fix": {
+   "claim": "Episode presents that the wedding photo appeared in the background of Mikey McCoy's 2025-09-22 Fox News/Martha MacCallum interview but was absent from the corner of his 2025-11-08 Real America's Voice interview, per finds the host credits to a \"mommy sleuth\" (Nov 8) and \"another sleuth\" (Sept 22)."
+  }
+ },
+ {
+  "claim": "C-2395",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label says House Oversight; the transcript names no committee, and Bondi's Feb 11, 2026 hearing with Moskowitz/Raskin was House Judiciary (b999fm.com/?p=105412).",
+  "fix": {
+   "label": "Pam Bondi Asserts at a House Hearing That the Trump Administration Released Over 3 Million Pages of Epstein Documents and Trump Signed the Law Releasing Them"
+  }
+ },
+ {
+  "claim": "C-3663",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Window only has 'one of our mommy sleuths did find Mikey McCoy ... on November 8th'; 'emailing tips' is not said.",
+  "fix": {
+   "claim": "The host credits \"one of our mommy sleuths\" with finding Mikey McCoy's November 8 Real America's Voice interview, crediting crowd investigators."
+  }
+ },
+ {
+  "claim": "C-10138",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10139",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10140",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10141",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10142",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Joshua Harrelson (possibly Josh Harrellson; not confirmed)",
+  "fix": {}
+ },
+ {
+  "claim": "C-10143",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim says Jillian tweeted she 'had just met Miss Arizona', i.e. Erika Kirk, but N-2 is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-565",
+    "N-566",
+    "N-567",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-10144",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host refers to Nicey as 'her' ('listen to her explain'), not 'he'; 'this differs from...' is archive commentary; host says Nicey's info is 'part of that information is very accurate'.",
+  "fix": {
+   "claim": "Nicey says Jillian had a friend whose grandparents were renting a home to Erika in Michigan, and that she is unsure whether the meeting at a sushi restaurant was a coincidence or a formal introduction."
+  }
+ },
+ {
+  "claim": "C-10145",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10146",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Quoted handle '@EricaFrandsen' is a mis-transcription of Erika's maiden name Frantzve (Wikipedia).",
+  "fix": {
+   "claim": "Nicey says that on February 13, 2014 Jillian replied to one of Erika's tweets with the words '@EricaFrantzve, gorgeous as always.'",
+   "names": [
+    {
+     "wrong": "Frandsen",
+     "right": "Frantzve",
+     "source": "https://en.wikipedia.org/wiki/Erika_Kirk"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-10147",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Nicey says the 'Why did @Erica... just send me this?' tweet came 'a few hours later' than the Feb 13 reply; 'Jillian posted this tweet on March 6th' appears to introduce the next screenshot ('So, Erika says, Let me call you').",
+  "fix": {
+   "claim": "Nicey says that a few hours after her February 13, 2014 reply, Jillian tweeted asking why Erika had just sent her an image captioned 'This Valentine's Day I am going to touch your butt.'"
+  }
+ },
+ {
+  "claim": "C-10148",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10149",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10150",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10151",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10152",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10153",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10154",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10155",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10156",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10157",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10158",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim refers to 'a photographer who was a friend of Erika's', the R-name photographer (N-569), who is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-566",
+    "N-569"
+   ]
+  }
+ },
+ {
+  "claim": "C-10159",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10160",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10161",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10162",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10163",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10164",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10165",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10166",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10167",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10168",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10169",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10170",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10171",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: 'trafficked off of that specific reservation where the office is not located. Because somebody went and said this address does not exist.' The office is said not to be on the reservation.",
+  "fix": {
+   "claim": "The host says somebody reported that the Desert Spirit Tech office address does not exist, and that the office is not located on the reservation."
+  }
+ },
+ {
+  "claim": "C-10172",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10173",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10174",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

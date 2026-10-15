@@ -1725,7 +1725,7 @@
       "@type": "Claim",
       "@id": "C-2203",
       "ref": "C-2203",
-      "label": "Christian Zionist threat message identified as authored by Laurie Cardoza-Moore via audio matching",
+      "label": "Host Says Christian Zionist Threat Message Echoes Laurie Cardoza-Moore's Online Rant",
       "claim": "The host says that virtually everything said in the previously circulated Christian Zionist threat message was also in a rant Laurie Cardoza-Moore did live on the internet about Tucker Carlson's speech, and plays audio of her ranting in her car.",
       "anchored_artifacts": [
         "A-1680.1",
@@ -1746,7 +1746,7 @@
       "@type": "Claim",
       "@id": "C-2204",
       "ref": "C-2204",
-      "label": "Host Says Voice Matching Identifies Laurie Cardoza-Moore on a 1-900 Romance Hotline Recording",
+      "label": "Host Says Internet Sleuths Found Laurie Cardoza-Moore's Background in Acting and Romance Hotlines",
       "claim": "The host says, citing findings by internet sleuths of the \"decentralized intelligence agency,\" that Laurie Cardoza-Moore's background is in acting and romance hotlines, and plays a 1-900 romance hotline advertisement.",
       "anchored_artifacts": [
         "A-1682.1"
@@ -1770,7 +1770,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:06:44",
+      "claim_timestamp": "00:06:10",
       "investigative_direction": "Verify NYT byline, interview location, and publication date; compare with NYT editorial logs and any contemporaneous NYT reporter commentary.",
       "mentions_person_refs": [
         "N-2"
@@ -1886,8 +1886,8 @@
       "@type": "Claim",
       "@id": "C-6987",
       "ref": "C-6987",
-      "label": "Host Says TPUSA Has Sent a Bunch of Cease and Desist Letters",
-      "claim": "The host says Turning Point USA, as a 501(c)(3) charity accountable to the public, has sent out a bunch of cease and desist letters to people asking questions.",
+      "label": "Host Says TPUSA Is Accountable to the Public Despite Cease and Desist Letters",
+      "claim": "The host says Turning Point USA, as a 501(c)(3) charity, is accountable to the public, who are allowed to ask questions even if it wants to send out a bunch of cease and desist letters.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -2968,7 +2968,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:42:05",
       "investigative_direction": "Search public records and the Wikipedia article for Stanley Clark Moore's biography and family.",
@@ -3007,7 +3007,7 @@
       "@id": "C-7037",
       "ref": "C-7037",
       "label": "Host Asks Viewers to Message Tips on Stanley Clark Moore's Air Force Base",
-      "claim": "The host asks viewers to message more tips at candaceowens.com about which Air Force base Stanley Clark Moore's family was tied to.",
+      "claim": "The host asks viewers to message more tips at candaceowens.com about which Air Force base Stanley Clark Moore grew up on.",
       "anchored_artifacts": [
         "A-2851.1"
       ],

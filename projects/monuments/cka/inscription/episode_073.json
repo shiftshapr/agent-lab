@@ -1532,7 +1532,7 @@
       "@id": "C-2365",
       "ref": "C-2365",
       "label": "Wedding photo absent from same background during Dec 12, 2025 Glenn Beck interview",
-      "claim": "The wedding photo was absent from the background during Erika Kirk's December 12, 2025 Glenn Beck interview filmed from Charlie Kirk's home office – the same space where it was visible on September 8, 2025.",
+      "claim": "The host says the wedding photo was absent from the background during Erika Kirk's December 12, 2025 Glenn Beck interview filmed from Charlie Kirk's home office – the same space where it was visible on September 8, 2025.",
       "anchored_artifacts": [
         "A-1774.1",
         "A-1773.1"
@@ -1554,7 +1554,7 @@
       "@id": "C-2366",
       "ref": "C-2366",
       "label": "Laura Loomer publicly called for Erika Kirk to sue Candace Owens",
-      "claim": "Laura Loomer posted on X stating \"It is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far.\"",
+      "claim": "The host reads a post in which Laura Loomer wrote on X, \"It is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far.\"",
       "anchored_artifacts": [
         "A-1772.1"
       ],
@@ -1669,7 +1669,7 @@
       "@id": "C-2372",
       "ref": "C-2372",
       "label": "Host Relays Informants' Claim That TPUSA Halftime Show Was Pre-Filmed with Camera Tricks and ~180 Audience Members",
-      "claim": "The host says, relaying accounts from informants who told her they were part of the show, that the TPUSA All-American Halftime Show was pre-filmed in Fayetteville, GA over two days with approximately 180 audience members who were moved around the room between takes to make the venue appear fuller.",
+      "claim": "The host says, relaying accounts from informants who told her they were part of the show, that the TPUSA All-American Halftime Show was pre-filmed in Fayetteville, GA over two days with approximately 180 audience members who were moved around the room to make the venue appear fuller.",
       "anchored_artifacts": [
         "A-1778.1"
       ],
@@ -2459,8 +2459,7 @@
       "transcript_snippet": "the picture that is starting to emerge is that Charlie's last day consisted of a lot of arguments.",
       "mentions_person_refs": [
         "N-3",
-        "N-1",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -2600,8 +2599,7 @@
       "transcript_snippet": "Not true. Dan Flood messaged on iMessage. So who deleted it?",
       "mentions_person_refs": [
         "N-3",
-        "N-271",
-        "N-2"
+        "N-271"
       ]
     },
     {
@@ -2637,7 +2635,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:27:05",
       "investigative_direction": "Compare the described motorcade with press pool reports and Secret Service statements about the visit.",
@@ -2716,7 +2714,7 @@
       "@type": "Claim",
       "@id": "C-8474",
       "ref": "C-8474",
-      "label": "Host Says Jews Originate in Turkey and Deleted Their Books",
+      "label": "Host Says Those She Addresses Are 'From Turkey Somewhere' and Deleted Their Books",
       "claim": "The host asserts that what the people she is addressing have proven is that they are from Turkey somewhere and then deleted their books because they are constantly reprinting history.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -3287,7 +3285,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:50:05",
       "investigative_direction": "The allegation is a viewer comment read on air and is unverified; seek documentary evidence before treating it as established.",
@@ -3360,8 +3358,7 @@
       "investigative_direction": "Obtain the Charis Bible College event contract, security plan and communications with TPUSA.",
       "transcript_snippet": "it was in the state of Colorado and at the Caris Bible College and they did not have any arrangements for security.",
       "mentions_person_refs": [
-        "N-3",
-        "N-2"
+        "N-3"
       ]
     },
     {

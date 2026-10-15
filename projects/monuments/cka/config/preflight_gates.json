@@ -15,6 +15,16 @@
     ],
     "reviewed": [
       {
+        "claim": "C-8232",
+        "node": "N-17",
+        "reason": "claim text: 'the McCoys' (Rob McCoy); Opus re-check 2026-10-15"
+      },
+      {
+        "claim": "C-8232",
+        "node": "N-191",
+        "reason": "claim text: 'the McCoys' (Mikey McCoy); Opus re-check 2026-10-15"
+      },
+      {
         "claim": "C-1819",
         "node": "N-36",
         "reason": "claim text: 'BB' (Benjamin Netanyahu); Opus re-check 2026-10-15"

@@ -1686,8 +1686,8 @@
       "@type": "Claim",
       "@id": "C-2047",
       "ref": "C-2047",
-      "label": "Text Message From Candace Owens to Andrew Kolvet Described Charlie Kirk Dream Stating He Was Betrayed and Andrew Knew More Than Publicly Stated",
-      "claim": "The host presented a text message she sent to Andrew Kolvet describing a vivid dream in which Charlie Kirk stated he was betrayed, that \"they\" were hiding what happened \"to my left,\" and that Kolvet \"know[s] much more than you've said publicly or privately.\"",
+      "label": "Text Message From Candace Owens to Andrew Kolvet Described Charlie Kirk Dream Stating He Was Betrayed and Said She Believed Andrew Knew More Than Publicly Stated",
+      "claim": "The host presented a text message she sent to Andrew Kolvet describing a vivid dream in which Charlie Kirk told her he was betrayed and that \"they\" were hiding what happened \"to my left,\" and in which she wrote that she believed Kolvet \"know[s] much more than you've said publicly or privately.\"",
       "anchored_artifacts": [
         "A-1607.1"
       ],
@@ -1983,7 +1983,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:47:35–00:48:56",
+      "claim_timestamp": "00:48:51",
       "investigative_direction": "No investigative direction; comment is rhetorical and emotional, not falsifiable.",
       "mentions_person_refs": [
         "N-14"
@@ -2036,7 +2036,7 @@
       "@id": "C-2066",
       "ref": "C-2066",
       "label": "Top comment from \"Cammy Resits\" expressed admiration and parental concern",
-      "claim": "A viewer comment the host reads, from \"Cammy Resits,\" expresses admiration for the host and concern for children.",
+      "claim": "A viewer comment the host reads, from \"Cammy Resits,\" expresses admiration for the host, mentions having two grown kids, and thanks her for being a warrior mama and bringing information.",
       "anchored_artifacts": [
         "A-1613.6"
       ],
@@ -2123,7 +2123,7 @@
       "@id": "C-2073",
       "ref": "C-2073",
       "label": "Murder plot against Candace Owens discovered on September 10, still in courts",
-      "claim": "The host stated that approximately one year after Charlie Kirk's assassination, on September 10, a murder plot against her was discovered and that the matter is still proceeding through courts.",
+      "claim": "The host stated that someone was plotting her murder on September 10, \"a year from the date that Charlie was murdered,\" that the plot was discovered, and that the matter is still making its way through the courts.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10405"
@@ -2446,7 +2446,7 @@
       "@id": "C-14102",
       "ref": "C-14102",
       "label": "Host Says Kolvet Once Asked Her in Earnest Whether She Is a Witch",
-      "claim": "The host says that before AmFest, while she was in London, Andrew Kolvet phoned and asked her in earnest whether she is a witch, because bad things happen to people who attack her; she says she laughed and answered no.",
+      "claim": "The host says that, ahead of AmFest as she recalls it, while she was in London, Andrew Kolvet phoned and asked her in earnest whether she is a witch, because bad things happen to people who attack her; she says she laughed and answered no.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2591,8 +2591,7 @@
         "C-8210"
       ],
       "mentions_person_refs": [
-        "N-1",
-        "N-400"
+        "N-1"
       ]
     },
     {
@@ -2689,7 +2688,7 @@
       "@id": "C-14113",
       "ref": "C-14113",
       "label": "Host Says AmFest Felt Like a Charismatic Cult Using Manipulation Tactics",
-      "claim": "The host says she felt 'a strand of ick' at AmFest, where she says everyone spoke about the Lord but no one meant it, and describes it as a charismatic cult of people trained in tactics of manipulation preying on weak minds, including people who love Charlie Kirk.",
+      "claim": "The host says she felt 'a strand of ick' while watching AmFest, where she says everyone spoke about the Lord but no one meant it, and describes it as a charismatic cult of people trained in tactics of manipulation preying on weak minds, including people who love Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10376",
@@ -3015,7 +3014,7 @@
       "@type": "Claim",
       "@id": "C-14127",
       "ref": "C-14127",
-      "label": "Host Says the ADL Put Her on Its List for the Christ Is King Episode",
+      "label": "Host Says the ADL Put Her on Its List Over the Christ Is King Controversy",
       "claim": "The host says that before she was fired the ADL put her on its list over the Christ Is King controversy.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3309,8 +3308,7 @@
       "mentions_person_refs": [
         "N-438",
         "N-439",
-        "N-14",
-        "N-400"
+        "N-14"
       ]
     },
     {
@@ -3421,10 +3419,7 @@
       ],
       "claim_timestamp": "00:26:54",
       "investigative_direction": "Interpretive; test through TPUSA Faith's leadership, funding and links to Unification Church-linked people or entities.",
-      "transcript_snippet": "The organization is intended to be the Mooney 2.0.",
-      "mentions_person_refs": [
-        "N-1"
-      ]
+      "transcript_snippet": "The organization is intended to be the Mooney 2.0."
     },
     {
       "@type": "Claim",
@@ -3687,7 +3682,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:43:00",
       "investigative_direction": "Ask for the sheet and its sources; check the follow-up episode that week.",
@@ -3838,7 +3833,7 @@
       "@id": "C-14164",
       "ref": "C-14164",
       "label": "Host Teases Pearl Harbor and Lyndon Johnson Topics, Says Vibes Are Off",
-      "claim": "The host teases that she is not ready to cover whether Pearl Harbor was a false flag, saying the vibes are not vibing in the Pearl Harbor story and that Lyndon Baines Johnson was a devilish man.",
+      "claim": "The host asks whether viewers are ready to talk about Pearl Harbor being a false flag but says she will not cover it today, saying the vibes are not vibing in the Pearl Harbor story and that Lyndon Baines Johnson was a devilish man.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [

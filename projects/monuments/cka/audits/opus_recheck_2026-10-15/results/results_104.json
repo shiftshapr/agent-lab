@@ -1,0 +1,770 @@
+[
+ {
+  "claim": "C-12658",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Erika's encouragement of the TPUSA faith shift is background, not the assassination itself.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12659",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Epstein chatting with Steve Bannon in the Epstein files does not bear on the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12660",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12661",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12662",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12663",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12664",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12665",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12666",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names no one but the host and authorities; Tyler Robinson (N-40) is not named or referred to in the claim (he appears only in the preceding viewer comment).",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-12667",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12668",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12669",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Terra' = Terryl Farnsworth (Visual Impulse camera crew), consistent with config/transcript_name_corrections.json.",
+  "fix": {}
+ },
+ {
+  "claim": "C-12670",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2314",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2315",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2316",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'you told the New York Times the night before his murder, Charlie's... adrenal glands were just going off.' The night before is when his glands were going off, not when Erika spoke to the NYT; the article is not shown, only quoted by the host.",
+  "fix": {
+   "claim": "The host says Erika Kirk told the New York Times that the night before Charlie Kirk's murder \"Charlie's adrenal glands were just going off\" and that he couldn't sleep."
+  }
+ },
+ {
+  "claim": "C-2317",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2318",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2319",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2320",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Laitsch says 'Marina Munz'; TPUSA CMO is Marina Minas (Equilar). The meeting/Uber account is spoken ~26:05-27:30; range start 24:02 is over 2 minutes early.",
+  "fix": {
+   "claim": "Aubrey Laitsch's video states she was brought into a meeting with Andrew Kolvet and Marina Minas and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to \"Aubrey.\"",
+   "timestamp": "00:26:00",
+   "names": [
+    {
+     "wrong": "Marina Munz",
+     "right": "Marina Minas",
+     "source": "https://people.equilar.com/bio/person/marina-minas-turning-point-usa/70724078"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2321",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'I just have a gut feeling that I was terminated... because I am questioning the narrative' is spoken at ~27:40; range start 24:02 is ~3.5 minutes early.",
+  "fix": {
+   "timestamp": "00:27:35"
+  }
+ },
+ {
+  "claim": "C-2322",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Laitsch says 'Marina Munz'; TPUSA CMO is Marina Minas (Equilar). 'It was myself, Andrew Kvette, and Marina Munz' is spoken ~26:05; range start 24:02 is ~2 minutes early.",
+  "fix": {
+   "claim": "In a video the host plays, Aubrey Laitsch names Andrew Kolvet (described as her employer via ATK) and Marina Minas (CMO of Turning Point USA) as the two people present at her termination meeting.",
+   "label": "Aubrey Laitsch video names Andrew Kolvet and Marina Minas at termination meeting",
+   "timestamp": "00:26:00",
+   "names": [
+    {
+     "wrong": "Marina Munz",
+     "right": "Marina Minas",
+     "source": "https://people.equilar.com/bio/person/marina-minas-turning-point-usa/70724078"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2323",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The clip says 'a lot of this is fake and it's performative'; 'everything is so fake' is the host's own framing before the clip, not Dillon's words.",
+  "fix": {
+   "claim": "The Tim Dillon clip played on air contains the statement that political positioning by tech figures is \"performative\" and that \"a lot of this is fake,\" including free-speech actors who once criticized and now shut down free speech."
+  }
+ },
+ {
+  "claim": "C-2324",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'There's only one person I trust, and it's Erika Kirk' falls ~34:44 (about 33s into the 34:11 block); range start 33:22 is ~82s early.",
+  "fix": {
+   "timestamp": "00:34:39"
+  }
+ },
+ {
+  "claim": "C-2325",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host hedges: 'I believe this is supporting eight employees.'",
+  "fix": {
+   "claim": "The host describes an active GoFundMe campaign titled \"Purge Fallout Fund\" which she believes supports eight former Turning Point USA employees who were terminated without explanation after working through America Fest."
+  }
+ },
+ {
+  "claim": "C-3662",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8376",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8377",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8378",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8379",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8380",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8381",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8382",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Schaefer security' left as spoken; the repo's Schaefer->Shaffer Security correction is scoped to episode 59 only (organisation, not a person).",
+  "fix": {}
+ },
+ {
+  "claim": "C-8383",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Tyler' is unqualified in the transcript; N-11 Tyler Bowyer is a reasonable reading.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8384",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8385",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8386",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8387",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8388",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8389",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8390",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host: 'You spoke about the street lamps that would go off when he would run, about the special school' - that is Erika in the NYT article, not the host's conversations with Charlie.",
+  "fix": {
+   "claim": "The host says she and Charlie Kirk talked about his third eye, strange things in their childhood, the testing they endured, astral projection and sleep paralysis, and notes Erika Kirk spoke in the article about streetlamps that went off when he ran and the special school he attended."
+  }
+ },
+ {
+  "claim": "C-8391",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8392",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8393",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8394",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: Justin 'You've personally met with Pierre. Um, Erika, you've met with him in the wake of Charlie's death.' 'Personally' applies to Streiff; only Erika's meeting is placed after the death.",
+  "fix": {
+   "claim": "The host says Justin Streiff has personally met Pierre and that Erika Kirk met with Pierre in the wake of Charlie Kirk's death, and says she has verifiable proof.",
+   "label": "Host Says Streiff Personally Met Pierre and Erika Met Him After Charlie's Death"
+  }
+ },
+ {
+  "claim": "C-8395",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8396",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8397",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8398",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8399",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8400",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8401",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'Oh my little joke about the Egyptian planes. What? Nothing to see here. This is my theory.' The host is mocking Erika's dismissal; the joke is not the host's.",
+  "fix": {
+   "claim": "The host alleges Erika Kirk was lying to cover BB Netanyahu's tracks, linking this to what she portrays as Erika's dismissive \"little joke\" about the Egyptian planes."
+  }
+ },
+ {
+  "claim": "C-8402",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8403",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8404",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8405",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8406",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8407",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host hedges: 'It sounds like it would have to be billions.'",
+  "fix": {
+   "claim": "The host says Turning Point USA was already worth a hundred million dollars and pulls in $100 million annually, so it sounds like billions would be needed for a 'next level'."
+  }
+ },
+ {
+  "claim": "C-8408",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8409",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

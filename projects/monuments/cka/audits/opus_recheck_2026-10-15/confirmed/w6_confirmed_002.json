@@ -1,0 +1,111 @@
+[
+ {
+  "claim": "C-5500",
+  "episode": 60,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the 2012 Aurora theater shooter walked in wearing tactical gear and throwing smoke grenades, which she says looks pretty military in retrospect.",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "'Yes. So, back in 2012...We can show this' runs on to 'as he was explaining' (host referring to Coleman); Coleman not referred to in claim."
+ },
+ {
+  "claim": "C-2180",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ],
+   "claim": "A viewer comment the host reads says TPUSA \"fired 40 people for leaking info but kept the head of security after the biggest possible failure\"; the host says she did not hear it was 40 but heard it was a lot of people, and that it sounded like 15."
+  },
+  "note": "Charlie Kirk not referred to; host only says she heard it 'sounded like 15', so 'revises' overstated. Rewrite matches 58:55."
+ },
+ {
+  "claim": "C-2187",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the filing the host shows, Larry Guinta, Lori Frantzve and their partners issued the statutory public notice for Desert Spirit Tech LLC in the Arizona Chinese News, signed December 1, 2017 and received by the state December 6, 2017."
+  },
+  "note": "16:12: 'Larry and Lori and the other two decided ... issue the public notice in the Arizona Chinese News'; supports naming them."
+ },
+ {
+  "claim": "C-2190",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "The terminated employee stated in the recorded termination meeting with general counsel \"Frank\" that she had worked \"80, 90-hour weeks plus for AmFest\" without direction or explanation upon return."
+  },
+  "note": "Recording addresses Frank ('Frank, this is kind of wild'; 'Due to what, Frank?'); host says she was hauled in by the general counsel."
+ },
+ {
+  "claim": "C-2191",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "The terminated employee told general counsel \"Frank\" she had \"never had one bad review from Dylan\" and \"never had one issue with the company.\""
+  },
+  "note": "28:48: 'Due to what, Frank? ... I've never had one bad review from Dylan. I've never had one issue with the company.'"
+ },
+ {
+  "claim": "C-2192",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Andrew Kolvet brought a TPUSA employee into an office to question them about a conversation the CMO had with an Uber driver, in which the driver said his daughter knew someone at TPUSA who \"maybe ... doesn't like stuff that's going on at the company.\""
+  },
+  "note": "Host's report ('what I can tell you is...'); transcript has 'maybe she doesn't like stuff'."
+ },
+ {
+  "claim": "C-8278",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim is about the filing's listed address; Lori Frantzve not named or referred to. Removes N-490."
+ },
+ {
+  "claim": "C-8279",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Generation Seven Farms, owned by Lyle Reems and his wife Shelly, lists its address as 21 Rose and Thobe, which should be next door to Lori Frantzve and Larry Guinta's Desert Spirit Tech, and that she cannot find that address on a map either."
+  },
+  "note": "15:08: 'right next door to Lori and Larry's Spirit Tech'; naming them supports existing N-490, N-388."
+ },
+ {
+  "claim": "C-8281",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim concerns the Arizona Chinese News only; neither Frantzve nor Guinta is named or referred to. Removes N-490, N-388."
+ },
+ {
+  "claim": "C-2205",
+  "episode": 63,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:06:10"
+  },
+  "note": "'on the 18th, just 8 days after...in-person interview' falls mid 05:53 block (~06:15); 06:44 is late."
+ },
+ {
+  "claim": "C-2210",
+  "episode": 64,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:20:00"
+  },
+  "note": "'I'm trying not to say that he would be' ends the 19:19 block (~20:05); 22:11 is the host's later reaction."
+ }
+]

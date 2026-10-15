@@ -2219,7 +2219,7 @@
         "N-10497"
       ],
       "tags": [],
-      "claim_timestamp": "00:22:02",
+      "claim_timestamp": "00:21:27",
       "investigative_direction": "Retrieve ZoomInfo archive; cross-check federal personnel records.",
       "mentions_person_refs": [
         "N-553"
@@ -2339,7 +2339,8 @@
       "claim_timestamp": "00:33:44–00:36:06",
       "investigative_direction": "Cross-reference with prior Hamptons participants' public statements and any contemporaneous notes.",
       "mentions_person_refs": [
-        "N-38"
+        "N-38",
+        "N-1"
       ]
     },
     {
@@ -2515,7 +2516,8 @@
       "investigative_direction": "TPUSA announcement of the alternative show and the Trump post, with dates.",
       "transcript_snippet": "Turning Point USA announced that they would produce an alternative quote unquote all-American Super Bowl halftime show. and President Trump tweeted.",
       "mentions_person_refs": [
-        "N-5"
+        "N-5",
+        "N-807"
       ]
     },
     {
@@ -2716,7 +2718,8 @@
         "C-2347"
       ],
       "mentions_person_refs": [
-        "N-11"
+        "N-11",
+        "N-807"
       ]
     },
     {
@@ -3030,8 +3033,8 @@
       "@type": "Claim",
       "@id": "C-14335",
       "ref": "C-14335",
-      "label": "Host Says Records Place This Thomas Martin With Southern Command Until at Least 2011",
-      "claim": "The host says this Thomas Martin has lived in the Tucson area for decades and that she can find a record of him working with the Southern Command until at least 2011.",
+      "label": "Host Says This Thomas Martin Lived in Tucson Until at Least 2011 and Worked With Southern Command",
+      "claim": "The host says this Thomas Martin has lived in the Tucson area for decades, at least up until 2011, and that she can find a record of him working with the Southern Command.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10497"
@@ -3215,7 +3218,7 @@
       "@id": "C-14343",
       "ref": "C-14343",
       "label": "Host Says Max Blumenthal Broke the Story of a Heated Hamptons Confrontation",
-      "claim": "The host says Max Blumenthal broke the story that Charlie Kirk had a very heated confrontation at the Hamptons, pressed by Zionists over his shifting support for Israel.",
+      "claim": "The host says she, and also Max Blumenthal, broke the story that Charlie Kirk had a very heated confrontation at the Hamptons, pressed by Zionists over his shifting support for Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10016",
@@ -3671,7 +3674,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:36:06",
+      "claim_timestamp": "00:37:15",
       "investigative_direction": "Kirk's statements naming who pressed him in the Hamptons.",
       "transcript_snippet": "And he felt he was being morally blackmailed because of what Seth Dillon did.",
       "supports_claim_refs": [

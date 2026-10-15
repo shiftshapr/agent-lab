@@ -1565,7 +1565,7 @@
       "@id": "C-2283",
       "ref": "C-2283",
       "label": "Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day",
-      "claim": "Erika Kirk had not posted anything about her mother on Instagram since April 2022 (the host believes that post was for Mother's Day) until the Sept 7, 2025 post.",
+      "claim": "The host says Erika Kirk had not posted anything about her mother on Instagram since April 2022 (a post the host believes was for Mother's Day) until the Sept 7, 2025 post.",
       "anchored_artifacts": [
         "A-1727.1"
       ],
@@ -1585,7 +1585,7 @@
       "@id": "C-2284",
       "ref": "C-2284",
       "label": "Sept 7, 2025 Erika Kirk Post Showed Mother in Vulnerable Position with Countdown",
-      "claim": "On Sept 7, 2025, Erika Kirk posted on Instagram showing her mother in what appears to be a sick / vulnerable state, with a countdown reading \"10 days until September 16th.\"",
+      "claim": "The host says that on Sept 7, 2025, Erika Kirk posted on Instagram showing her mother in what appears to be a sick / vulnerable state, with a countdown reading \"10 days until September 16th.\"",
       "anchored_artifacts": [
         "A-1727.2"
       ],
@@ -1605,7 +1605,7 @@
       "@id": "C-2285",
       "ref": "C-2285",
       "label": "NYT Reported Erika Was at the Hospital When Mikey McCoy Called",
-      "claim": "The New York Times reported that on Sept 10, 2025, Erika Kirk was at the hospital with her mother when Mikey McCoy called her, described as having happened \"within seconds\" of the shooting.",
+      "claim": "The host says the New York Times reported that on Sept 10, 2025, Erika Kirk was at the hospital while her mother received treatment when Mikey McCoy called her \"within seconds\" of the shooting, and notes the hospital wording was not a direct quotation from Erika.",
       "anchored_artifacts": [
         "A-1728.1"
       ],
@@ -1627,7 +1627,7 @@
       "@id": "C-2286",
       "ref": "C-2286",
       "label": "Viewer Email Asserted Rob Skiba Documents Gilgamesh Tomb, Tablet Disappearance",
-      "claim": "A viewer email read on air asserted that Rob Skiba's research documented: (1) the discovery of Gilgamesh/Nimrod's tomb; (2) the first U.S. base in Iraq was set up at the museum holding the relics; (3) the museum was \"raided\"; (4) everything was retrieved by the military except tablets concerning reincarnation and bringing back the Nephilim.",
+      "claim": "A viewer email the host reads, urging her to look up Rob Skiba's research, asserted: (1) the discovery of Gilgamesh/Nimrod's tomb; (2) the first U.S. base in Iraq was set up at the museum holding the relics; (3) the museum was \"raided\"; (4) everything was retrieved by the military except tablets concerning reincarnation and bringing back the Nephilim.",
       "anchored_artifacts": [
         "A-1729.1"
       ],
@@ -1696,7 +1696,7 @@
       "@id": "C-2290",
       "ref": "C-2290",
       "label": "BBC Reported Fassbinder Discovered Gilgamesh's Tomb",
-      "claim": "The BBC reported that Jörg Fassbinder had made the discovery of Gilgamesh's tomb, with the report surfacing a couple of weeks after the March 20, 2003 invasion of Iraq.",
+      "claim": "The host says the BBC reported that Jörg Fassbinder had made the discovery of Gilgamesh's tomb, with the report surfacing a couple of weeks after the March 20, 2003 invasion of Iraq.",
       "anchored_artifacts": [
         "A-1731.1"
       ],
@@ -1733,7 +1733,7 @@
       "@id": "C-2292",
       "ref": "C-2292",
       "label": "Colin Powell Stated Iraq Possessed WMDs at UN on Feb 5, 2003",
-      "claim": "Colin Powell publicly stated at the United Nations Security Council on Feb 5, 2003 that Iraq possessed weapons of mass destruction.",
+      "claim": "The host says Colin Powell publicly stated at the United Nations Security Council on Feb 5, 2003 that Iraq possessed weapons of mass destruction.",
       "anchored_artifacts": [
         "A-1732.1"
       ],
@@ -1787,7 +1787,7 @@
       "@id": "C-2295",
       "ref": "C-2295",
       "label": "Justin Streiff Text Messages Asserted Erika's Mother Was Very Sick",
-      "claim": "Justin Streiff sent text messages to the host asserting that Erika's mother was very, very sick and that Erika was spending her days in the hospital with her mother; the host asserts she has confirmed the mother was receiving treatment at a holistic clinic rather than a hospital.",
+      "claim": "The host says Justin Streiff told her in text messages that Erika's mother was very, very sick and that Erika was spending her days in the hospital with her mother; the host asserts she has confirmed the mother was receiving treatment at a holistic clinic rather than a hospital.",
       "anchored_artifacts": [
         "A-1735.1"
       ],
@@ -1799,15 +1799,17 @@
       "claim_timestamp": "00:26:30",
       "investigative_direction": "Obtain copies of the underlying text messages and verify the clinic vs. hospital distinction independently.",
       "mentions_person_refs": [
+        "N-3",
         "N-15",
-        "N-490"
+        "N-490",
+        "N-2"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-2296",
       "ref": "C-2296",
-      "label": "Viewer Comment Says William Stevenson Was Indicted for First-Degree Murder of His Ex-Wife",
+      "label": "Viewer Comment Says Jill Biden's Ex-Husband Was Indicted for Murder; Host Corrects Name to William Stevenson",
       "claim": "A viewer comment the host reads says Jill Biden's ex-husband, whom it names as Bill Richardson, was indicted for first-degree murder of his ex-wife; the host, reading an article, corrects the name to William Stevenson, 77, of Wilmington, married to Jill Biden 1970 to 1975, and says the woman was found unresponsive in the living room and life-saving measures were unsuccessful.",
       "anchored_artifacts": [
         "A-1736.1"
@@ -1826,7 +1828,7 @@
       "@id": "C-2297",
       "ref": "C-2297",
       "label": "Kevin Sorbo Tweeted He Left Hollywood Because of Pedophilia",
-      "claim": "Kevin Sorbo tweeted that he left Hollywood because the people involved were pedophiles.",
+      "claim": "The host says Kevin Sorbo tweeted that he left Hollywood because the people involved were pedophiles.",
       "anchored_artifacts": [
         "A-1737.1"
       ],
@@ -1884,7 +1886,7 @@
         "N-10480"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:09:18",
       "investigative_direction": "Compare the coordinates of the Fassbinder survey with the coalition camp at Babylon.",
@@ -2165,8 +2167,8 @@
       "@type": "Claim",
       "@id": "C-10027",
       "ref": "C-10027",
-      "label": "Host says Charlie allegedly trained McCoy what to do",
-      "claim": "The host says Charlie allegedly trained Mikey McCoy to walk away and call his wife and then Erika, and she does not buy the call order that was reported.",
+      "label": "Host Mocks McCoy Call Order Against Charlie's Alleged Training",
+      "claim": "The host says Mikey McCoy called his wife first and Erika three-plus minutes later, mocking this as 'so much for that training that Charlie allegedly gave him', and says she does not buy that account.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10482"
@@ -2643,7 +2645,7 @@
       "@id": "C-10049",
       "ref": "C-10049",
       "label": "Shapiro clip jokes about Nazi breakfast foods",
-      "claim": "In the clip, Shapiro jokes about pronouncing 'blitzkrieg' and Nazi breakfast foods including 'luft waffles', in response to the host's earlier temperature remark.",
+      "claim": "In the clip, Shapiro mocks the host's temperature remark and her pronunciation, and jokes about pronouncing 'blitzkrieg' and Nazi breakfast foods including 'luft waffles'.",
       "anchored_artifacts": [
         "A-1733.1"
       ],

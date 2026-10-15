@@ -839,7 +839,7 @@ Anchored Artifacts: A-1678.1
 Mentions: N-1, N-457
 Investigative Direction: Locate the full Atlantic article; cross-check Bill Montgomery's Air Force service record and his post-2012 role; investigate any alternative TPUSA origin narratives.
 
-**C-2203** Christian Zionist threat message identified as authored by Laurie Cardoza-Moore via audio matching
+**C-2203** Host Says Christian Zionist Threat Message Echoes Laurie Cardoza-Moore's Online Rant
 
 Claim Timestamp: 00:38:50
 Claim: The host says that virtually everything said in the previously circulated Christian Zionist threat message was also in a rant Laurie Cardoza-Moore did live on the internet about Tucker Carlson's speech, and plays audio of her ranting in her car.
@@ -848,7 +848,7 @@ Mentions: N-496, N-22
 Related Nodes: N-10445
 Investigative Direction: Obtain independent forensic voice comparison; verify Laurie Cardoza-Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates.
 
-**C-2204** Host Says Voice Matching Identifies Laurie Cardoza-Moore on a 1-900 Romance Hotline Recording
+**C-2204** Host Says Internet Sleuths Found Laurie Cardoza-Moore's Background in Acting and Romance Hotlines
 
 Claim Timestamp: 00:41:17
 Claim: The host says, citing findings by internet sleuths of the "decentralized intelligence agency," that Laurie Cardoza-Moore's background is in acting and romance hotlines, and plays a 1-900 romance hotline advertisement.
@@ -858,7 +858,7 @@ Investigative Direction: Establish provenance and dating of the romance hotline 
 
 **C-2205** Erika Kirk gave an in-person NYT interview on September 18, 2025
 
-Claim Timestamp: 00:06:44
+Claim Timestamp: 00:06:10
 Claim: The episode presents that Erika Kirk gave an in-person interview to the New York Times at her and Charlie's condo on September 18, 2025 – eight days after Charlie's public assassination.
 Anchored Artifacts: A-1679.1
 Mentions: N-2
@@ -943,11 +943,11 @@ Investigative Direction: Obtain termination notices or severance paperwork for s
 
 ---
 
-**C-6987** Host Says TPUSA Has Sent a Bunch of Cease and Desist Letters
+**C-6987** Host Says TPUSA Is Accountable to the Public Despite Cease and Desist Letters
 
 Claim Timestamp: 00:04:44
 
-Claim: The host says Turning Point USA, as a 501(c)(3) charity accountable to the public, has sent out a bunch of cease and desist letters to people asking questions.
+Claim: The host says Turning Point USA, as a 501(c)(3) charity, is accountable to the public, who are allowed to ask questions even if it wants to send out a bunch of cease and desist letters.
 
 Transcript Snippet: They are allowed to ask questions even if you want to send out a bunch of cease and desist letters.
 
@@ -1719,7 +1719,7 @@ Transcript Snippet: married to a man named Stanley Clark Moore. He has an Air Fo
 
 Anchored Artifacts: A-2850.1
 Mentions: N-3, N-496, N-771
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Search public records and the Wikipedia article for Stanley Clark Moore's biography and family.
 
 ---
@@ -1744,7 +1744,7 @@ Investigative Direction: Read the Wikipedia article and its sources for the NASA
 
 Claim Timestamp: 00:43:01
 
-Claim: The host asks viewers to message more tips at candaceowens.com about which Air Force base Stanley Clark Moore's family was tied to.
+Claim: The host asks viewers to message more tips at candaceowens.com about which Air Force base Stanley Clark Moore grew up on.
 
 Transcript Snippet: Message us more tips at candacewowens. com.
 

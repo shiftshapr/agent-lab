@@ -1,0 +1,796 @@
+[
+ {
+  "claim": "C-14236",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'Was it Joe?... she was doing the whole Mitch Snow abused women 20 years ago'; Coleman rebutted on his show.",
+  "fix": {}
+ },
+ {
+  "claim": "C-14237",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2149",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Known only via the host: 'he tweets that he was been holding on to this... I told him that I hated Charlie Kirk'.",
+  "fix": {
+   "claim": "The host says Dave Rubin posted on X that Candace Owens, during a dinner at his home, said she hated Charlie Kirk and ranted about Jared and Ivanka."
+  }
+ },
+ {
+  "claim": "C-2150",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2151",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Tweet shown on screen ('We can show this'); 'Aurora' comes from the episode's chapter and 13:01 ('this movie in Aurora Colorado').",
+  "fix": {}
+ },
+ {
+  "claim": "C-2152",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2153",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "At 22:03 host: 'I just look at that and that makes sense to me... she worked for the government... this wasn't some conspiracy theory'. 'Command level' and 'since JFK' are not Griggs's; JFK remark is the host's own at ~19:25.",
+  "fix": {
+   "label": "Host Says Griggs's Account of the Military Makes Sense to Her",
+   "claim": "The host says what Griggs describes makes sense to her, that Griggs worked for the government so 'this wasn't some conspiracy theory', and that even a slight look into the history of the U.S. military, such as MK Ultra, shows the same thing.",
+   "mentions": [
+    "N-3",
+    "N-477"
+   ]
+  }
+ },
+ {
+  "claim": "C-2154",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: Elizabeth McCoy (node Eliza McCoy). Passenger list is what the host says 'we know', not from flight records; 01:06-01:08 transcript gap.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2155",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2156",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "The donor line is the guest Baron Coleman's ('if there's not some sort of pecuniary interest for a donor'); host answers 'Right' and asks about the 'flip from America first'. Mentions omit N-331, the guest the claim refers to.",
+  "fix": {
+   "claim": "Baron Coleman says, and the host agrees, that Trump's Greenland push is not consistent with America-first policy and appears driven by a donor or supporter's financial interest rather than national interest.",
+   "mentions": [
+    "N-3",
+    "N-331",
+    "N-480"
+   ]
+  }
+ },
+ {
+  "claim": "C-2157",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3659",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5485",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5486",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Title says the staffer was fired; host says 'I don't know... if they were planning on firing her'.",
+  "fix": {
+   "label": "Host Says Kolvet Saw Timeline Screenshots on a Staffer's Laptop"
+  }
+ },
+ {
+  "claim": "C-5487",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Title calls her a 'Fired Employee'; the host says only that her friends were fired.",
+  "fix": {
+   "label": "Host Says the Staffer Was Not Her Leaker and Leaks Continue"
+  }
+ },
+ {
+  "claim": "C-5488",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5489",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5490",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim gives it to the host (correct: same turn continues into 'when I shared the Mitch Snow thing' at 04:42); title still says Coleman.",
+  "fix": {
+   "label": "Host Says TPUSA Lawyer Now Concedes Drones Existed but for Media Only"
+  }
+ },
+ {
+  "claim": "C-5491",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host turn at 04:42 ('I forgot to mention yesterday'); title still says Coleman.",
+  "fix": {
+   "label": "Host Says Everyone in the Unreleased Film Is Tied to Fort Huachuca"
+  }
+ },
+ {
+  "claim": "C-5492",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host turn at 04:42; title still says Coleman.",
+  "fix": {
+   "label": "Host Says Erika Kirk Has Said Her Mother Held DOD Contracts"
+  }
+ },
+ {
+  "claim": "C-5493",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host turn at 04:42; title still says Coleman.",
+  "fix": {
+   "label": "Host Says Dan Flood's Father Ran Intel at Fort Huachuca"
+  }
+ },
+ {
+  "claim": "C-5494",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5495",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "05:43-07:14 is one host turn: she hedges her own tip ('I will say allegedly'), Coleman asks about Harpole, she answers and says she will 'reveal tomorrow about her parents' (done in Ep 62).",
+  "fix": {
+   "label": "Host Says Flood's Protectee Warned Him Someone Would Kill Him",
+   "claim": "The host says that Dan Flood's protectee told him within a few days that someone was probably going to kill him and then died, which she calls, in her opinion, prime evidence Flood failed at his job.",
+   "mentions": [
+    "N-3",
+    "N-271",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-5496",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host's turn (05:43, continuous to 07:14 where she promises the parents reveal she made in Ep 62); Coleman only asks 'wasn't Brian Harpole also in that frame'.",
+  "fix": {
+   "claim": "The host says her Turning Point insider told her that before Charlie Kirk died there was a back and forth between Kirk and Dan Flood in which Kirk was going to demote Flood.",
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-271"
+   ]
+  }
+ },
+ {
+  "claim": "C-5497",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "06:35 'What's that about?' is the host; Coleman then asks about Harpole and the host answers 'I can't recall'.",
+  "fix": {
+   "claim": "The host says Dan Flood was protecting Erika Kirk at the White House when the Charlie Kirk Day was held, after Erika became CEO without removing him from the security team.",
+   "mentions": [
+    "N-3",
+    "N-271",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-5498",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host answers Coleman's Harpole question at 07:14 and continues into 'I received another tip and I called you' (08:02); she reveals Erika's parents' business partners in Ep 62.",
+  "fix": {
+   "claim": "The host says she will reveal the next day that Erika Kirk's parents worked with somebody who was accused of something to do with children.",
+   "mentions": [
+    "N-3",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-5499",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Nothing is read: Coleman explains ('Apparently, Miss Arizona USA has the same thing... You can go back to Erika Kirk's reign') after the host says someone emailed a tip.",
+  "fix": {
+   "label": "Coleman Says Miss Arizona USA Titleholder Controls the Official Account",
+   "claim": "Baron Coleman, teeing up an emailed tip, says the reigning Miss Arizona USA controls the pageant's social media account, that old tweets from each reign stay online, and that Erika Kirk's tweets from her reign can still be read."
+  }
+ },
+ {
+  "claim": "C-5500",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "After Coleman's 'tidbits about mass shootings', 'Yes. So, back in 2012, you guys may or may not recall... We can show this' is the host, who then says 'as he was explaining'. Speaker inferred; no '>>'.",
+  "fix": {
+   "claim": "The host says the 2012 Aurora theater shooter walked in wearing tactical gear and throwing smoke grenades, which she says looks pretty military in retrospect.",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-5501",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5502",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5503",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5504",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Speaker at 12:10 is not marked; host had said 'you said hey did you know she had been in Toronto?'. Left as Coleman.",
+  "fix": {}
+ },
+ {
+  "claim": "C-5505",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Speaker of 13:01 first half is unmarked ('what goes on in New Braunfels Texas that Jessica Ghawi also lived there'); left as recorded.",
+  "fix": {}
+ },
+ {
+  "claim": "C-5506",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Follows a '>>' turn change; left as Coleman.",
+  "fix": {}
+ },
+ {
+  "claim": "C-5507",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim gives it to the host; title still says Coleman.",
+  "fix": {
+   "label": "Host Says Officers Carried Ghawi to a Police Car Instead of Leaving Her"
+  }
+ },
+ {
+  "claim": "C-5508",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'I did take some notes on that'; title still says Coleman.",
+  "fix": {
+   "label": "Host Says Buckley Air Force Base Operated Near Aurora From 2000 to 2021"
+  }
+ },
+ {
+  "claim": "C-5509",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim gives it to the host; title still says Coleman.",
+  "fix": {
+   "label": "Host Says Many Aurora Victims Were Military Guys"
+  }
+ },
+ {
+  "claim": "C-5510",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim gives it to the host; title still says Coleman. 'Yeah her her dad divorced...' may be a Coleman interjection; unmarked.",
+  "fix": {
+   "label": "Host Says Ghawi Was Not in Her Father's Obituary"
+  }
+ },
+ {
+  "claim": "C-5511",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5512",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5513",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5514",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5515",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Content at ~23:15, ~72s after the timestamp, within tolerance. N-82 is linked through the host's Trogneux/Macron theory.",
+  "fix": {}
+ },
+ {
+  "claim": "C-5516",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5517",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5518",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5519",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5520",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5521",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5522",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5523",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Eric Weinstein is named but has no person node in this episode.",
+  "fix": {}
+ },
+ {
+  "claim": "C-5524",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5525",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5526",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5527",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5528",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5529",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5530",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5531",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5532",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host speaks at 46:48 ('operation mocking pastor', Rob McCoy); claim correct, title still says Coleman.",
+  "fix": {
+   "label": "Host Says Evangelical Churches Are Seeing a Mass Exodus"
+  }
+ }
+]

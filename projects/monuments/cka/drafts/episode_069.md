@@ -778,7 +778,7 @@ Investigative Direction: Locate the email within the public Epstein files (jmail
 
 Claim Timestamp: 00:01:55
 
-Claim: An Epstein email the host shows, addressed 'Hi, Sultan', asks who 'James Miller' is and says 'He is who you have built to'; the host also asks whether the shipping address is Jeffrey's home at 9E71st Street.
+Claim: An Epstein email the host shows, addressed 'Hi, Sultan', asks who 'James Miller' is, says 'He is who you have built to', and asks whether the shipping address is Jeffrey's home at 9E71st Street.
 
 Anchored Artifacts: A-1738.2
 Mentions: N-9
@@ -818,7 +818,7 @@ Investigative Direction: Verify Epic of Gilgamesh text on divine/mortal proporti
 
 ---
 
-**C-2302** Tom Horn asserts a special operations general confirmed Gilgamesh remains in "remarkable preservation"
+**C-2302** Steve Quayle Says a Special Operations General Confirmed Gilgamesh Remains in Remarkable Preservation
 
 Claim Timestamp: 00:15:25
 
@@ -1197,7 +1197,7 @@ Investigative Direction: Confirm Flynn's date of death and compare with the lect
 
 Claim Timestamp: 00:06:50
 
-Claim: In the played clip, Rob Skiba says that drawing a line from the Hermon marker to the Paris prime meridian produces what the occult calls the devil's line, and that he checked this himself on Google Earth.
+Claim: In the played clip, Rob Skiba says David Flynn pointed out that drawing a line from the Hermon marker to the Paris prime meridian produces what the occult calls the devil's line, and that he checked the location himself on Google Earth.
 
 Transcript Snippet: And that is in the occult is referred to as the devil's line.
 
@@ -1235,7 +1235,7 @@ Transcript Snippet: You were looking at a picture of the Rothschilds at their su
 
 Anchored Artifacts: A-3218.1
 Mentions: N-521
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the photograph shown; the 1972 Rothschild surrealist ball is documented in public archives, but the transcript does not give the date or source.
 
 ---
@@ -1428,7 +1428,7 @@ Investigative Direction: No evidence is presented; the host's inference.
 
 ---
 
-**C-12615** Host Cites Radio Speaker Saying Nephilim Could Be Reconstituted in a Body and Nimrod Equals Gilgamesh
+**C-12615** In a Played Radio Clip, Tom Horn Says Nephilim Could Be Reconstituted in a Body and Some Identify Nimrod as Gilgamesh
 
 Claim Timestamp: 00:14:29
 
@@ -1741,7 +1741,7 @@ Investigative Direction: Compare TPUSA's public timeline with the call sequence.
 
 Claim Timestamp: 00:24:25
 
-Claim: The host says Mikey and Elizabeth conference called Erika more than three minutes after the first call.
+Claim: The host says Mikey and Elizabeth then conference called Erika over three minutes later.
 
 Transcript Snippet: And then they conference called Erika over 3 minutes later.
 
@@ -1753,7 +1753,7 @@ Investigative Direction: Obtain the call log timestamps.
 
 ---
 
-**C-12635** Host Says Erika Told Her Mikey Called Within Seconds
+**C-12635** Host Says Erika Said Mikey Called Within Seconds
 
 Claim Timestamp: 00:24:30
 
@@ -1786,7 +1786,7 @@ Investigative Direction: Compare with the flight records for the two planes.
 
 ---
 
-**C-12637** Host Says Erika Could Not Say Whether Kolvet's Wife Was Aboard and TPUSA Later Said She Was
+**C-12637** Host Says Erika Could Not Say Whether Kolvet's Wife Was Aboard and She Was Later Told the Wife Was
 
 Claim Timestamp: 00:24:50
 
@@ -2078,7 +2078,7 @@ Claim: The host asks viewers to email tips to the tip address while seeking more
 Transcript Snippet: Email us at more tipscandowens. com.
 
 Anchored Artifacts: A-3219.1
-Mentions: N-3
+Mentions: N-3, N-546
 Related Nodes: N-10485, N-10487
 Tags: relevance:core
 Investigative Direction: Review the tips received at the tip address.
@@ -2128,7 +2128,7 @@ Transcript Snippet: what was guiding that seems to be Erika his very faithful so
 Anchored Artifacts: 
 Mentions: N-2, N-1
 Related Nodes: N-10398, N-10246, N-10487
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Find dated accounts of Erika Kirk's influence on Charlie's church involvement.
 
 ---
@@ -2143,7 +2143,7 @@ Transcript Snippet: And I believe uh in other chats he's talking with Steve Bann
 
 Anchored Artifacts: A-1742.1
 Mentions: N-9, N-390
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find the chats in the public Epstein files.
 
 ---
@@ -2255,7 +2255,7 @@ Claim: The host says authorities had to admit the previous day that there are mu
 Transcript Snippet: They've had to admit something that I already told you on the show that there are multiple sets of prints on the gun.
 
 Anchored Artifacts: 
-Mentions: N-40, N-3
+Mentions: N-3
 Supports: C-5288
 Tags: relevance:core
 Investigative Direction: Find the official statement or court filing from the day before this episode.

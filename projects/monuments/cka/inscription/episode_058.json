@@ -2230,7 +2230,7 @@
         "N-10418"
       ],
       "tags": [],
-      "claim_timestamp": "00:08:16–00:10:12",
+      "claim_timestamp": "00:07:34",
       "investigative_direction": "Obtain and archive the full Kickstarter campaign text and director pitch video to preserve the complete concept description.",
       "mentions_person_refs": [
         "N-460"
@@ -2249,7 +2249,7 @@
         "N-10418"
       ],
       "tags": [],
-      "claim_timestamp": "00:05:24",
+      "claim_timestamp": "00:07:10",
       "investigative_direction": "Archive the Kickstarter remnant directly and verify the character name against any backup poster or campaign screenshots.",
       "mentions_person_refs": [
         "N-2"
@@ -2260,7 +2260,7 @@
       "@id": "C-2111",
       "ref": "C-2111",
       "label": "Three Independently-Sourced Fort Huachuca-Affiliated Individuals Report Having Seen Erika at the Base",
-      "claim": "Three individuals with Fort Huachuca affiliation – including one currently stationed there who publicly posted and then deleted a claim, a former service member who confirmed the post, and a third who reported a chat-room assertion that an order was given to lower drones on September 9 – report having seen Erika at Fort Huachuca.",
+      "claim": "The host says that, by her count, three people now say Erika was at Fort Huachuca: after Charlie's assassination a woman currently stationed there posted, then deleted, that she saw Erika there the day before (September 9); a friend formerly stationed there confirmed the post was real; and, per that friend, someone in a chat among personnel stationed there said they too had seen Erika at the base and that there was an order to lower drones that day. The host says she confirmed the friend and the two individuals are real.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10417"
@@ -2296,7 +2296,7 @@
       "@id": "C-2113",
       "ref": "C-2113",
       "label": "Turning Point Executive Justin Streiff Stated Erika Never Lived in China",
-      "claim": "Turning Point USA executive Justin Streiff replied to Candace Owens that Erika never lived in China and that she only went on a trip for a couple of weeks to see the Great Wall of China.",
+      "claim": "The host says Turning Point USA executive Justin Streiff replied to her that Erika never lived in China, and that Erika said she only went there on a trip for a couple of weeks to see the Great Wall of China.",
       "anchored_artifacts": [
         "A-1637.1"
       ],
@@ -2304,7 +2304,7 @@
         "N-10419"
       ],
       "tags": [],
-      "claim_timestamp": "00:18:47",
+      "claim_timestamp": "00:18:15",
       "investigative_direction": "Obtain the direct message or email text from Justin Streiff; if Stripe confirms on-record, request documentation of Erika's travel records during the disputed period.",
       "mentions_person_refs": [
         "N-15",
@@ -2316,8 +2316,8 @@
       "@type": "Claim",
       "@id": "C-3742",
       "ref": "C-3742",
-      "label": "Justin Streiff is the Turning Point executive C-2113 spells 'Justin Streiff' (revises C-2113)",
-      "claim": "C-2113 spells the executive's name 'Justin Streiff' (auto-caption form). The executive is Justin Streiff (N-15). He replied to Candace Owens that Erika never lived in China and that she only went on a trip for a couple of weeks to see the Great Wall of China.",
+      "label": "Host Says Justin Streiff Told Her Erika Never Lived in China",
+      "claim": "The host says Turning Point USA executive Justin Streiff (N-15) replied to her that Erika never lived in China, and that Erika said she only went there on a trip for a couple of weeks to see the Great Wall of China.",
       "anchored_artifacts": [
         "A-1637.1"
       ],
@@ -2444,8 +2444,8 @@
       "@type": "Claim",
       "@id": "C-2119",
       "ref": "C-2119",
-      "label": "Nick Fuentes Reframed the Epstein Issue as \"Political Blackmail\" Rather Than Pedophilia",
-      "claim": "In a follow-up clip aired on the episode, Nick Fuentes stated the Epstein story is \"not satanic pedophilia cult stuff\" but \"run-of-the-mill prostitution and sex trafficking but for an international political purpose\" and dismissed it as \"Dateline\" rather than a \"human interest story.\"",
+      "label": "Nick Fuentes Reframed the Epstein Issue as Blackmail for Israel Rather Than Pedophilia",
+      "claim": "In a follow-up clip aired on the episode, Nick Fuentes stated the Epstein story is \"not satanic pedophilia cult stuff\" but \"run-of-the-mill prostitution and sex trafficking but for an international political purpose\" and said \"this is not Dateline. This is not a human interest story\" but \"a layered crime.\"",
       "anchored_artifacts": [
         "A-1641.2"
       ],
@@ -2740,7 +2740,7 @@
       "@id": "C-9838",
       "ref": "C-9838",
       "label": "Host Says Haugen Was the Person Erika Was Closest To",
-      "claim": "The host says her sources told her that the person Erika was really close to on the film was Clayton Haugen, unsure of the spelling of the surname.",
+      "claim": "The host says her sources told her that the person Erika was really close to on the film was Clayton Haugen, unsure of the pronunciation of the surname.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10418"
@@ -2857,7 +2857,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:06:35",
+      "claim_timestamp": "00:06:00",
       "investigative_direction": "Identify Thuy's father and verify the IBM employment claim; no Fort Huachuca link was shown.",
       "transcript_snippet": "we can tell you that her dad worked for an artificial intelligence for IBM",
       "mentions_person_refs": [
@@ -3117,7 +3117,7 @@
       "@id": "C-9855",
       "ref": "C-9855",
       "label": "Host Says Greg Laurie's Church Is Accused of Trafficking Children From Romania",
-      "claim": "The host says Turning Point Faith works with Pastor Greg Laurie, whose church is accused of trafficking children from Romania, and that pastor Paul Havsgaard is accused of having helped facilitate it in a case still moving through court.",
+      "claim": "The host says Turning Point Faith works with Pastor Greg Laurie, whose church is accused of trafficking children from Romania, and, naming one of the pastors, Paul Havsgaard, that people are saying the church helped facilitate it, in a case still moving through court.",
       "anchored_artifacts": [
         "A-3037"
       ],
@@ -4064,7 +4064,7 @@
       "@id": "C-9897",
       "ref": "C-9897",
       "label": "Host Plays Fuentes Screaming After She Asked About Marriage",
-      "claim": "The host says a clip of Nick Fuentes shouting was his reply to her asking whether he wanted to get married one day, and plays him yelling that a real man tells you to sit down and shut up.",
+      "claim": "The host says a clip of Nick Fuentes shouting was his reply to her asking whether he wanted to get married one day, and plays him yelling to sit down and shut up, that's what a man has to say.",
       "anchored_artifacts": [
         "A-3038"
       ],
@@ -4160,7 +4160,7 @@
         "N-10422"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:54:50",
       "investigative_direction": "Re-read the text messages the host has cited and any record of Charlie's schooling.",
@@ -4308,7 +4308,7 @@
         "N-10000"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "01:01:00",
       "investigative_direction": "Ask the host to produce the proof of military tracking she says exists; no DARPA testing record has been shown.",

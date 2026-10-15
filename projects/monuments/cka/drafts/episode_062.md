@@ -676,7 +676,7 @@ Catholic AI answer engine advertised in a sponsor read.
 
 Claim Timestamp: 00:07:27
 
-Claim: The host says Charlie Kirk received a text message from a female Christian Zionist donor, which she reads, warning him that platforming Candace Owens and Tucker Carlson placed him "in violation of the Ninth Commandment" and that those who "curse Israel" will be cursed.
+Claim: The host says Charlie Kirk received a text message from a female Christian Zionist donor, which she reads, asking why he would platform Candace Owens and Tucker Carlson, telling him he was "in violation of the Ninth Commandment" by bearing false witness against "your brother, Judah," and warning that those who "curse Israel" will be cursed.
 
 Anchored Artifacts: A-1669.1
 Mentions: N-22, N-3, N-1
@@ -687,7 +687,7 @@ Investigative Direction: Obtain the original device or screenshot of the message
 
 ---
 
-**C-2183** Jaco Booyens and Erika Kirk confirmed the authenticity of the text message
+**C-2183** Host Says Jaco Booyens and Erika Kirk Can Confirm the Text Message Is Real
 
 Claim Timestamp: 00:07:27
 
@@ -748,7 +748,7 @@ Investigative Direction: Pull the certified Arizona Corporation Commission filin
 
 Claim Timestamp: 00:16:12
 
-Claim: Per the filing the host shows, the statutory public notice for Desert Spirit Tech LLC was issued in the Arizona Chinese News, signed December 1, 2017 and received by the state December 6, 2017.
+Claim: Per the filing the host shows, Larry Guinta, Lori Frantzve and their partners issued the statutory public notice for Desert Spirit Tech LLC in the Arizona Chinese News, signed December 1, 2017 and received by the state December 6, 2017.
 
 Anchored Artifacts: A-1671.2
 Mentions: N-388, N-490
@@ -792,7 +792,7 @@ Investigative Direction: Obtain the termination documentation referenced in the 
 
 Claim Timestamp: 00:27:24
 
-Claim: The terminated employee stated in the recorded termination meeting that she had worked "80, 90-hour weeks plus for AmFest" without direction or explanation upon return.
+Claim: The terminated employee stated in the recorded termination meeting with general counsel "Frank" that she had worked "80, 90-hour weeks plus for AmFest" without direction or explanation upon return.
 
 Anchored Artifacts: A-1674.1
 Mentions: N-495
@@ -807,7 +807,7 @@ Investigative Direction: Cross-check time-tracking or HR records to verify hours
 
 Claim Timestamp: 00:28:48
 
-Claim: The terminated employee stated she had "never had one bad review from Dylan" and "never had one issue with the company."
+Claim: The terminated employee told general counsel "Frank" she had "never had one bad review from Dylan" and "never had one issue with the company."
 
 Anchored Artifacts: A-1674.1
 Mentions: N-495
@@ -822,7 +822,7 @@ Investigative Direction: Obtain HR personnel file to confirm or refute the absen
 
 Claim Timestamp: 00:22:28
 
-Claim: Andrew Kolvet brought a TPUSA employee into an office to question them about a conversation the CMO had with an Uber driver, in which the driver stated his daughter knew a TPUSA employee who "doesn't like stuff that's going on at the company."
+Claim: The host says Andrew Kolvet brought a TPUSA employee into an office to question them about a conversation the CMO had with an Uber driver, in which the driver said his daughter knew someone at TPUSA who "maybe ... doesn't like stuff that's going on at the company."
 
 Anchored Artifacts: A-1675.1
 Mentions: N-14, N-494
@@ -1261,7 +1261,7 @@ Investigative Direction: Verify Frantzve's employer or contractor status in 2017
 
 Claim Timestamp: 00:14:19
 
-Claim: The host says the formation documents for Desert Spirit Tech LLC give her name as 'Lorin' rather than 'Lori' as in other business documents.
+Claim: The host says the formation documents for Desert Spirit Tech LLC give Lori Frantzve's name as 'Lorin' rather than 'Lori' as in other business documents.
 
 Transcript Snippet: Her name here is now Lorin l o r i n rather than Lori which is other business documents.
 
@@ -1282,7 +1282,7 @@ Claim: The host says the place of business listed in the Desert Spirit Tech fili
 Transcript Snippet: Well, that address does not appear to exist. Rose and Thobe is an an intersection.
 
 Anchored Artifacts: A-1671.1
-Mentions: N-3, N-490
+Mentions: N-3
 Related Nodes: N-10442, N-11177
 Tags: relevance:core
 Investigative Direction: Check Pinal County and Gila River Indian Community address records and the Arizona Corporation Commission filing for the listed address.
@@ -1293,7 +1293,7 @@ Investigative Direction: Check Pinal County and Gila River Indian Community addr
 
 Claim Timestamp: 00:15:08
 
-Claim: The host says Generation Seven Farms, owned by Lyle Reems and his wife Shelly, lists its address as 21 Rose and Thobe, which should be next door to Desert Spirit Tech, and that she cannot find that address on a map either.
+Claim: The host says Generation Seven Farms, owned by Lyle Reems and his wife Shelly, lists its address as 21 Rose and Thobe, which should be next door to Lori Frantzve and Larry Guinta's Desert Spirit Tech, and that she cannot find that address on a map either.
 
 Transcript Snippet: which is called Generation Seven Farms. In theory it should be right next door to Lori and Larry's Spirit Tech as its address is 21 Rose and Thobe.
 
@@ -1306,11 +1306,11 @@ Investigative Direction: Obtain Generation Seven Farms' registration and any tri
 
 ---
 
-**C-8280** Host says Arizona law requires an LLC to publish a notice describing its intended business
+**C-8280** Host Says LLCs Must Publish a Notice Describing Their Intended Business
 
 Claim Timestamp: 00:15:08
 
-Claim: The host says that when you form an LLC you are required to publicize it in a local newspaper with a general description of your intended business operations, and that the filing alone does not show what Desert Spirit Tech does.
+Claim: The host says that, she thinks in every state though maybe not all, when you form an LLC you are required to publicize it in a local newspaper with a general description of your intended business operations, and that the filing alone does not show what Desert Spirit Tech does.
 
 Transcript Snippet: when you form an LLC, you have to then publicize that you are doing so in a local newspaper and provide a general description of your intended business operations.
 
@@ -1331,7 +1331,7 @@ Claim: The host says the Arizona Chinese News is recognized by the state as an o
 Transcript Snippet: It's recognized by the state as an optional publication to meet the requirement but as far as publications go, it's a bit obscure.
 
 Anchored Artifacts: A-1671.2
-Mentions: N-3, N-490, N-388
+Mentions: N-3
 Related Nodes: N-11176, N-10440
 Tags: relevance:context
 Investigative Direction: Check the Arizona Corporation Commission's list of approved publications and obtain the 2017 issue from the publisher.
@@ -1621,7 +1621,7 @@ Investigative Direction: The transcript is ambiguous about the following words '
 
 Claim Timestamp: 00:27:24
 
-Claim: In the played recording, the man the host calls Frank tells the employee he will email documents with her details and links, and that she will receive her year-end performance bonus in her paycheck.
+Claim: In the played recording, the man the employee calls Frank tells the employee he will email documents with her details and links, and that she will receive her year-end performance bonus in her paycheck.
 
 Transcript Snippet: And you will receive your your year-end bonus for your performance for the year.
 

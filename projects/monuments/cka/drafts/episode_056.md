@@ -834,7 +834,7 @@ Investigative Direction: Verify TPUSA board membership via official TPUSA disclo
 
 **C-2082** Host Says Vallely and Aquino Co-Authored Mind War in 1980
 
-Claim Timestamp: 00:21:42
+Claim Timestamp: 00:21:13
 
 Claim: The host says Paul Vallely and Major Michael Aquino co-authored the book *Mind War* in 1980.
 
@@ -889,7 +889,7 @@ Investigative Direction: Obtain SFPD records; review any subsequent civil filing
 
 **C-2087** Host Says Twelve Lawsuits Filed Against Harvest Christian Fellowship re: Romanian Children's Home
 
-Claim Timestamp: 00:32:12
+Claim Timestamp: 00:33:27
 
 Claim: The host, citing an article she shows, says twelve lawsuits have been filed against Harvest Christian Fellowship and Greg Laurie alleging abuse of young men at a children's home in Romania.
 
@@ -911,7 +911,7 @@ Investigative Direction: Obtain original complaint; verify specificity of allega
 
 **C-2089** Twenty-Three Former Residents Expected to File Complaints
 
-Claim Timestamp: 00:35:00
+Claim Timestamp: 00:34:28
 
 Claim: The host says the law firm representing the survivors said in a news release that it expects 23 former residents of the Romanian children's home to bring complaints, and that the most recent complaints were filed in November.
 
@@ -934,7 +934,7 @@ Investigative Direction: Cross-check obituary; verify cause of death and date.
 
 Claim Timestamp: 00:12:24
 
-Claim: Social Blade data records Erika Kirk deleting 126 Instagram posts on June 19.
+Claim: The host says that on June 19 Erika Kirk deleted 126 Instagram posts, according to Social Blade.
 
 Anchored Artifacts: A-1626.1
 Mentions: N-2
@@ -943,7 +943,7 @@ Investigative Direction: Obtain direct screenshot of Social Blade historical rec
 
 **C-2092** Tucker Carlson Compared Lindsey Graham's Behavior to a Drunk Girlfriend During DUI Stop
 
-Claim Timestamp: 00:07:08
+Claim Timestamp: 00:08:23
 
 Claim: In a clip the host plays, Tucker Carlson compares Lindsey Graham's foreign-policy behavior to a drunk girlfriend screaming at a cop during a DUI stop.
 
@@ -961,7 +961,7 @@ Anchored Artifacts: A-1627.1
 Mentions: N-454
 Investigative Direction: Verify arrest record (US Capitol Police, court records); verify date; obtain any charging documents or dismissals.
 
-**C-2094** Plane SUBTU Traveled to Provo May 23 with Follow-Up May 27, Hosting Wed Mahmoud
+**C-2094** Anchor Plane Arrived in Provo May 23; SUBTU Followed May 27 With Wed Mahmoud Aboard
 
 Claim Timestamp: 00:09:14
 
@@ -1455,7 +1455,7 @@ Investigative Direction: Obtain probate filings showing the date the family lear
 
 Claim Timestamp: 00:19:39
 
-Claim: The host says she half-subscribes to the dead internet theory, thinks X is obviously run by the military, and has never seen bots argue that the US should not go to war.
+Claim: The host says she kind of subscribes to the dead internet theory, thinks X is obviously run by the military, and has never seen bots argue that the US should not go to war.
 
 Transcript Snippet: I've never seen the bots say we shouldn't go to war ever.
 
@@ -1770,12 +1770,12 @@ Transcript Snippet: a bunch of South Korean women have filed a unprecedented law
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10401
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the lawsuit (court, case number, plaintiffs, filing date).
 
 ---
 
-**C-12573** Host Says Her Military Sources Describe a Deal That Leaves People on Bases Immune to Prosecution
+**C-12573** Host Says a Deal Between Governments Leaves Military People on Bases Immune to Prosecution
 
 Claim Timestamp: 00:35:00
 
@@ -1791,11 +1791,11 @@ Investigative Direction: Review the status-of-forces agreements for the relevant
 
 ---
 
-**C-12574** Host Says Her Sources Describe Bases Sending a Woman Recruiter Posing as a Casting Director
+**C-12574** Host Says People She Asked Describe Bases Sending a Woman Recruiter Posing as a Casting Director
 
 Claim Timestamp: 00:36:06
 
-Claim: The host says her military sources told her bases typically send out a woman, like Ghislaine Maxwell, who finds young women who can be manipulated and describes herself as a casting director to bring them onto the base.
+Claim: The host says people she reached out to told her that those at the top of a military base typically send out a woman, like Ghislaine Maxwell, who finds young women who can be manipulated and describes herself as a casting director to bring them onto the base.
 
 Transcript Snippet: they will typically send someone out uh who will be a woman so think of like a Ghislaine Maxwell uh to go out and to find them their interests their tastes young women that can be manipulated
 
@@ -1882,7 +1882,7 @@ Transcript Snippet: He went on Tucker Carlson's show and then he was attacked an
 Anchored Artifacts: 
 Mentions: N-3, N-454, N-22, N-438
 Related Nodes: N-10670
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review Aguilar's Tucker Carlson interview for his exact statements about Johnnie Moore and the aid sites.
 
 ---
@@ -1912,7 +1912,7 @@ Transcript Snippet: as soon as they landed on American soil, these ionists wante
 
 Anchored Artifacts: 
 Mentions: N-3, N-171
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check U.S. court records for any charges against the Tate brothers after their arrival, and identify who the host means.
 
 ---
@@ -1927,7 +1927,7 @@ Transcript Snippet: The people that are attacked are being attacked by the media
 
 Anchored Artifacts: 
 Mentions: N-3, N-171, N-9
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: This is the host's inference; compare with documented government action on the Tate brothers and on Epstein.
 
 ---
@@ -1942,7 +1942,7 @@ Transcript Snippet: they've talked about this extensively of webcam stuff.
 
 Anchored Artifacts: 
 Mentions: N-3, N-171
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Cite the Tate brothers' own public statements about the webcam business.
 
 ---
@@ -1951,7 +1951,7 @@ Investigative Direction: Cite the Tate brothers' own public statements about the
 
 Claim Timestamp: 00:50:26
 
-Claim: A viewer comment read by the host, from Jessica High Five, says generational farms in her rural Virginia area have quietly been willed over in recent years, often without the families being aware; the host answers that this is happening.
+Claim: A viewer comment read by the host, from Just Jessica High Five, says generational farms in her rural Virginia area have quietly been willed over in recent years, often without the families being aware; the host answers that this is happening.
 
 Transcript Snippet: Generational farms have been quietly willed over the past few years, often without families even aware.
 

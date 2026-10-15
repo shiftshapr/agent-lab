@@ -900,7 +900,7 @@ Investigative Direction: Obtain the original contract and any amendments to veri
 
 ---
 
-**C-2169** Owens states her TPUSA speaking contract was terminated December 2, 2025
+**C-2169** TPUSA Letter States Owens's Agreements Were Terminated December 2, 2025
 
 Claim Timestamp: 00:10:35
 
@@ -1060,10 +1060,10 @@ Investigative Direction: Obtain the specific Sony executive text-message exhibit
 
 Claim Timestamp: 00:58:55
 
-Claim: The top viewer comment from the prior episode states TPUSA "fired 40 people for leaking info but kept the head of security after the biggest possible failure"; Owens partially corroborates and revises the figure to approximately 15.
+Claim: A viewer comment the host reads says TPUSA "fired 40 people for leaking info but kept the head of security after the biggest possible failure"; the host says she did not hear it was 40 but heard it was a lot of people, and that it sounded like 15.
 
 Anchored Artifacts: A-1667.1
-Mentions: N-1
+Mentions: N-3
 
 Related Nodes: N-10432
 
@@ -1075,7 +1075,7 @@ Investigative Direction: Verify the firings count through internal TPUSA communi
 
 Claim Timestamp: 00:58:55
 
-Claim: An unnamed donor present at the Aspen event reportedly recalls Kirk referencing Erika Kirk by saying that if something happened, she would know what to do.
+Claim: The host says an unnamed donor present at the Aspen event recalls Charlie Kirk mentioning Erika Kirk, saying that if something happened, Erika would know what to do.
 
 Anchored Artifacts: A-1668.1
 Mentions: N-1, N-2
@@ -1417,7 +1417,7 @@ Investigative Direction: Compile the specific statements the host classes as lie
 
 Claim Timestamp: 00:16:11
 
-Claim: The host says she is not saying TPUSA's charitable spending is improper, that 'we've barely covered their finances,' and that she thinks what TPUSA wants is people's money.
+Claim: The host says she is not saying TPUSA spends only one cent of each dollar on its stated purpose, that 'we've barely covered their finances,' and that she thinks what TPUSA wants is people's money.
 
 Transcript Snippet: I'm not saying that's case turning point USA. We've barely covered their finances actually
 
