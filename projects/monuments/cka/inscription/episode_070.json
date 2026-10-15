@@ -13,7 +13,7 @@
     "transcript_sha256": "7b329950d516234dfe924015e2ae2ceece2c1cacc9476909544e66ce23744a8b",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "Episode 70 is structurally a three-clip episode plus an extended host monologue (\"open letter\") directed at Erika Kirk. Three on-air clips constitute the evidentiary backbone: (1) a Trace Gallagher Fox News interview in which Erika publicly pleads for courtroom \"full transparency\"; (2) a public video from former TPUSA PR manager Aubrey Lech describing her recent termination via an Uber-driver loyalty-test meeting; and (3) a Tim Dillon podcast clip in which Dillon sardonically names Erika Kirk the only person he trusts while describing political performance as \"fake.\" The host's open-letter monologue surrounding those clips advances five investigative targets – a French donor named Pierre, Erika's September 10 whereabouts, a purported Hamptons dinner with BB Netanyahu, \"Egyptian planes,\" and a TPUSA loyalty-test termination pattern – but those target-advances are host rhetoric rather than artifact-supported claims, so they are inscribed as investigation-target nodes only, not as evidence-backed claims.\n\nThe episode's structural importance is twofold: it converts three separate third-party artifacts (Gallagher interview, Lech video, Dillon clip) into the series' record, and it consolidates a set of open investigative targets that prior episodes had only flagged in passing.\n\n---",
+  "executive_summary": "Episode 70 is structurally a three-clip episode plus an extended host monologue (\"open letter\") directed at Erika Kirk. Three on-air clips constitute the evidentiary backbone: (1) a Trace Gallagher Fox News interview in which Erika publicly pleads for courtroom \"full transparency\"; (2) a public video from former TPUSA PR manager Aubrey Laitsch describing her recent termination via an Uber-driver loyalty-test meeting; and (3) a Tim Dillon podcast clip in which Dillon sardonically names Erika Kirk the only person he trusts while describing political performance as \"fake.\" The host's open-letter monologue surrounding those clips advances five investigative targets – a French donor named Pierre, Erika's September 10 whereabouts, a purported Hamptons dinner with BB Netanyahu, \"Egyptian planes,\" and a TPUSA loyalty-test termination pattern – but those target-advances are host rhetoric rather than artifact-supported claims, so they are inscribed as investigation-target nodes only, not as evidence-backed claims.\n\nThe episode's structural importance is twofold: it converts three separate third-party artifacts (Gallagher interview, Lech video, Dillon clip) into the series' record, and it consolidates a set of open investigative targets that prior episodes had only flagged in passing.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -118,13 +118,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1747",
       "family_ref": "A-1747",
-      "bundle_name": "Aubrey Lech Public Video Bundle",
+      "bundle_name": "Aubrey Laitsch Public Video Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1747.1",
           "ref": "A-1747.1",
-          "description": "Aubrey Lech self-published video statement describing her termination from TPUSA / ATK",
+          "description": "Aubrey Laitsch self-published video statement describing her termination from TPUSA / ATK",
           "related_claims": [
             "C-2319",
             "C-2320",
@@ -335,7 +335,7 @@
       "@type": "Person",
       "@id": "N-553",
       "ref": "N-553",
-      "name": "Aubrey Lech",
+      "name": "Aubrey Laitsch",
       "type": "person",
       "description": "Former TPUSA public relations manager; spoke publicly about termination process in self-published video. Artifact-backed person new to the series record.",
       "related_artifacts": [
@@ -363,7 +363,7 @@
       "ref": "N-495",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
-      "description": "Identified on-air as CMO of Turning Point USA; named by Aubrey Lech as present at her termination meeting.",
+      "description": "Identified on-air as CMO of Turning Point USA; named by Aubrey Laitsch as present at her termination meeting.",
       "related_artifacts": [
         "A-1747.1"
       ],
@@ -894,7 +894,7 @@
       "ref": "N-314",
       "name": "Pierre Falcone",
       "type": "person",
-      "description": "The host guesses that the donor Pierre is Pierre Falcone ('Falconee' in the transcript).",
+      "description": "The host guesses that the donor Pierre is Pierre Falcone ('Falcone' in the transcript).",
       "related_artifacts": [],
       "related_claims": [
         "C-8400"
@@ -1510,7 +1510,7 @@
       "@id": "C-2315",
       "ref": "C-2315",
       "label": "Host rejects Erika Kirk's transparency plea as inconsistent with prior actions",
-      "claim": "The host states she does not believe Erika Kirk's courtroom-transparency plea and cites Erika's prior refusal to release Turning Point USA's seized 4K footage and changes to prior statements as the basis for that disbelief.",
+      "claim": "The host states she does not believe Erika Kirk's courtroom-transparency plea, saying Turning Point USA seized the 4K footage, was cagey when she asked to view the tapes, and has changed information, as the basis for that disbelief.",
       "anchored_artifacts": [
         "A-1744.1"
       ],
@@ -1546,7 +1546,7 @@
       "@id": "C-2317",
       "ref": "C-2317",
       "label": "Erika told Jesse Watters she sent Charlie to sleep in daughter's room",
-      "claim": "The Jesse Watters interview segment read aloud on air contains Erika Kirk stating she wanted Charlie to have a good night's sleep and sent him to sleep in his daughter's room.",
+      "claim": "The host says Erika Kirk said in her Jesse Watters interview that she wanted Charlie to have a good night's sleep and sent him to sleep in his daughter's room.",
       "anchored_artifacts": [
         "A-1746.1"
       ],
@@ -1565,7 +1565,7 @@
       "@id": "C-2318",
       "ref": "C-2318",
       "label": "Erika told Jesse Watters she landed in Utah and went straight to the hospital",
-      "claim": "The Jesse Watters interview segment read aloud on air contains Erika Kirk stating that after landing in Utah, she went straight to the hospital.",
+      "claim": "In a clip the host plays from the Jesse Watters interview, Erika Kirk says that after landing in Utah, she went straight to the hospital.",
       "anchored_artifacts": [
         "A-1746.2"
       ],
@@ -1584,8 +1584,8 @@
       "@type": "Claim",
       "@id": "C-2319",
       "ref": "C-2319",
-      "label": "Aubrey Lech publicly identified herself as former TPUSA PR manager, recently terminated",
-      "claim": "In a video the host plays, Aubrey Lech identifies herself as the former public relations manager for Turning Point USA, employed since 2021, working through America Fest in December 2025, and terminated approximately three weeks before posting.",
+      "label": "Aubrey Laitsch publicly identified herself as former TPUSA PR manager, recently terminated",
+      "claim": "In a video the host plays, Aubrey Laitsch identifies herself as the former public relations manager for Turning Point USA, employed since 2021, working through America Fest in December 2025, and terminated approximately three weeks before posting.",
       "anchored_artifacts": [
         "A-1747.1"
       ],
@@ -1601,8 +1601,8 @@
       "@type": "Claim",
       "@id": "C-2320",
       "ref": "C-2320",
-      "label": "Aubrey Lech stated termination meeting involved Uber-driver conversation",
-      "claim": "Aubrey Lech's video states she was brought into a meeting with Andrew Kolvet and Marina Munz and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to \"Aubrey.\"",
+      "label": "Aubrey Laitsch stated termination meeting involved Uber-driver conversation",
+      "claim": "Aubrey Laitsch's video states she was brought into a meeting with Andrew Kolvet and Marina Munz and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to \"Aubrey.\"",
       "anchored_artifacts": [
         "A-1747.1"
       ],
@@ -1622,8 +1622,8 @@
       "@type": "Claim",
       "@id": "C-2321",
       "ref": "C-2321",
-      "label": "Aubrey Lech expressed belief termination was retaliation for narrative-dissent",
-      "claim": "Aubrey Lech's video states her personal belief that she was terminated because she was questioning the official narrative regarding Charlie Kirk's death, and that questioning the narrative is incompatible with continued TPUSA employment.",
+      "label": "Aubrey Laitsch expressed belief termination was retaliation for narrative-dissent",
+      "claim": "Aubrey Laitsch's video states her personal belief that she was terminated because she was questioning the official narrative regarding Charlie Kirk's death, and that questioning the narrative is incompatible with continued TPUSA employment.",
       "anchored_artifacts": [
         "A-1747.1"
       ],
@@ -1642,8 +1642,8 @@
       "@type": "Claim",
       "@id": "C-2322",
       "ref": "C-2322",
-      "label": "Aubrey Lech video names Andrew Kolvet and Marina Munz at termination meeting",
-      "claim": "In a video the host plays, Aubrey Lech names Andrew Kolvet (described as her employer via ATK) and Marina Munz (CMO of Turning Point USA) as the two people present at her termination meeting.",
+      "label": "Aubrey Laitsch video names Andrew Kolvet and Marina Munz at termination meeting",
+      "claim": "In a video the host plays, Aubrey Laitsch names Andrew Kolvet (described as her employer via ATK) and Marina Munz (CMO of Turning Point USA) as the two people present at her termination meeting.",
       "anchored_artifacts": [
         "A-1747.1"
       ],
@@ -1713,11 +1713,11 @@
       "@id": "C-3662",
       "ref": "C-3662",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
-      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "claim": "The host says the decentralized intelligence agency has brought us to this moment, that it was the work of everybody, and that everybody had a piece of the puzzle she pulled together on the podcast.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:40:26",
+      "claim_timestamp": "00:42:30",
       "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
       "transcript_snippet": "..., you guys were strong. So I want to say that the decentralized intelligence agency has brought us to this moment. This was not the work of me. It was the work of everybody....",
       "confidence": "high",
@@ -1739,7 +1739,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:02:48",
-      "investigative_direction": "Hard to test directly; former staff such as Aubrey Lech could confirm the practice.",
+      "investigative_direction": "Hard to test directly; former staff such as Aubrey Laitsch could confirm the practice.",
       "transcript_snippet": "I know that Turning Point USA watches every episode of this podcast and that people then take what I say back to her and they give her notation.",
       "mentions_person_refs": [
         "N-3",
@@ -1863,8 +1863,8 @@
       "@type": "Claim",
       "@id": "C-8382",
       "ref": "C-8382",
-      "label": "Host Says She Warned Charlie About Schaefer Security and Dan Flood in Writing",
-      "claim": "The host says she warned Charlie Kirk about Schaefer security (transcribed form) and Dan Flood, and tells Erika Kirk that the text messages showing this are in Erika's possession.",
+      "label": "Host Says She Warned Charlie About Schaefer Security and Dan Flood",
+      "claim": "The host says she warned Charlie Kirk about Schaefer security and Dan Flood, and tells Erika Kirk that the text messages are in Erika's possession.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11038",
@@ -2081,7 +2081,7 @@
       "@type": "Claim",
       "@id": "C-8392",
       "ref": "C-8392",
-      "label": "Host Says Erika Told the NYT Charlie Grabbed His Wedding Band the Next Morning",
+      "label": "Host Says Erika Said Charlie Grabbed His Wedding Band the Next Morning",
       "claim": "The host says Erika Kirk said in an interview that the next morning Charlie Kirk snuck in and grabbed his wedding band, and the host asks why the ring was off.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2274,7 +2274,7 @@
       "@id": "C-8400",
       "ref": "C-8400",
       "label": "Host Guesses the Donor Is Pierre Falcone of Angolagate",
-      "claim": "The host says her best guess is that Pierre is Pierre Falcone ('Falconee' in the transcript) of Angolagate, and describes France, Israel, the United States and Egypt working together.",
+      "claim": "The host says her best guess is that Pierre is Pierre Falcone of Angolagate, and describes France, Israel, the United States and Egypt working together.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11186",
@@ -2284,9 +2284,9 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:15:04",
+      "claim_timestamp": "00:15:43",
       "investigative_direction": "Verify whether Pierre Falcone had any contact with TPUSA officials after September 10; the host offers only a guess here.",
-      "transcript_snippet": "My best guess is that it was Pierre Falconee all along of Angola Gate.",
+      "transcript_snippet": "My best guess is that it was Pierre Falcone all along of Angola Gate.",
       "supports_claim_refs": [
         "C-6832"
       ],
@@ -2395,7 +2395,7 @@
       "@id": "C-8405",
       "ref": "C-8405",
       "label": "Host Says Nobody Addressed Netanyahu's Call and Calls the Response a Psychological Operation",
-      "claim": "The host says nobody wanted to address BB calling, calls what TPUSA did a full-blown psychological operation, and says the motive was to psychologically break her.",
+      "claim": "The host says nobody wanted to address BB calling, calls what TPUSA did a full-blown psychological operation, and says she thinks the real motive was to psychologically break her.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -2600,7 +2600,7 @@
       "@id": "C-8414",
       "ref": "C-8414",
       "label": "Lech Says She Worked Nonstop on September 10 and Slept Under 48 Hours During the Memorial",
-      "claim": "Aubrey Lech's video says her phone received hundreds of calls and thousands of texts on September 10, that AmericaFest in Phoenix was nonstop work, and that during the memorial she did not sleep for over 48 hours.",
+      "claim": "Aubrey Laitsch's video says her phone received hundreds of calls and thousands of texts on September 10, that AmericaFest in Phoenix was nonstop work, and that during the memorial she did not sleep for over 48 hours.",
       "anchored_artifacts": [
         "A-1747.1"
       ],
@@ -2622,7 +2622,7 @@
       "@id": "C-8415",
       "ref": "C-8415",
       "label": "Host Says TPUSA Raised a Quarter of a Billion Dollars",
-      "claim": "The host says Turning Point USA pulled in a quarter of a billion dollars after the assassination, and says it should have held off firing staff for a year.",
+      "claim": "The host says that, even if every employee deserved to be fired, she would probably, after Turning Point USA pulled in a quarter of a billion dollars, have said to hold off for a year because they had just watched Charlie Kirk be assassinated.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -2643,7 +2643,7 @@
       "@id": "C-8416",
       "ref": "C-8416",
       "label": "Host Says the Firings Targeted Staff Not Loyal to Erika or Doubting September 10",
-      "claim": "The host says she thinks, as Aubrey Lech says, that the firings were motivated by going after people who were not loyal to Erika Kirk or who did not fully buy the official account of September 10.",
+      "claim": "The host says she thinks, as Aubrey Laitsch says, that the firings were motivated by going after people who were not loyal to Erika Kirk or who did not fully buy the official account of September 10.",
       "anchored_artifacts": [
         "A-1747.1"
       ],
@@ -2691,7 +2691,7 @@
       "@id": "C-8418",
       "ref": "C-8418",
       "label": "Host Says AmFest Looked Pay-to-Play With Israel Paying",
-      "claim": "The host says AmericaFest looked like pay-to-play and like people were paying on behalf of Israel.",
+      "claim": "The host says AmericaFest looked like pay-to-play, like people who were paying Israel, and that it seemed like Israel was paying.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",
@@ -2824,7 +2824,7 @@
       "@id": "C-8424",
       "ref": "C-8424",
       "label": "Host Says Andrew Told Her It Was Supposed to Be Her",
-      "claim": "The host says Andrew Kolvet said 'Candace, it was supposed to be you' and describes this as part of a well-planned effort to traumatize her psychologically.",
+      "claim": "The host says Andrew Kolvet said 'Candace, it was supposed to be you' and says she thinks this was part of a well-planned effort to traumatize her psychologically.",
       "anchored_artifacts": [
         "A-2933.3"
       ],
@@ -2847,7 +2847,7 @@
       "@id": "C-8425",
       "ref": "C-8425",
       "label": "Host Says Influencers Took Money to Attack Her to Keep Her From Processing Charlie's Death",
-      "claim": "The host says influencers took money to attack her non-stop before she could process what happened to Charlie Kirk, as part of a military-level psychological operation.",
+      "claim": "The host says influencers took money to attack her before she could process what happened to Charlie Kirk, as part of what she calls a military-level psychological operation.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -2868,7 +2868,7 @@
       "@id": "C-8426",
       "ref": "C-8426",
       "label": "Host Says TPUSA Now Relies on Lawyers and Legal Letters",
-      "claim": "The host says that, having done a deal with the devil, Turning Point USA lost creativity and now has to rely on lawyers and legal letters.",
+      "claim": "The host says that, having done a deal with the devil, she senses Turning Point USA has lost access to the creative force and now has to rely on lawyers and legal letters.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -2888,7 +2888,7 @@
       "@id": "C-8427",
       "ref": "C-8427",
       "label": "Host Says Lech's Fiance Was Fired Too",
-      "claim": "The host says Aubrey Lech did not mention in her video that TPUSA also fired her fiance, wiping out their household income in one day with no explanation given to him.",
+      "claim": "The host says Aubrey Laitsch did not mention in her video that TPUSA also fired her fiance, wiping out their household income in one day with no explanation given to him.",
       "anchored_artifacts": [
         "A-1747.1"
       ],
@@ -2932,7 +2932,7 @@
       "@id": "C-8429",
       "ref": "C-8429",
       "label": "Host Says Charlie's Texts Went by iMessage Unless Deleted Before Handover to Erika",
-      "claim": "The host says Charlie Kirk's 'they are going to kill me' messages were sent on iMessage and could only be missing if someone deleted them before the phone was handed to Erika Kirk.",
+      "claim": "The host says Charlie Kirk's 'they are going to kill me' messages were sent on iMessage, unless someone deleted them before they handed it to Erika Kirk, which she says is possible and that she is throwing out there.",
       "anchored_artifacts": [
         "A-2933.1"
       ],

@@ -173,7 +173,7 @@ And it even shows her email, which is redacted. Now, this is a bit of a tinfoil 
 
 [29:35]
 
-I'm not going to hire you." I was like, "That's fine. I don't need this job. I I'm doing plenty of other things here in Manhattan." He's like, "I'm going to date you." >> Okay. So, this is a a job interview and I'm going to show you one more example of this. She tells Meghan Kelly this on stage and this is even after his assassination. So, take a listen. >> When I met Charlie, the only reason I sat down with him because I thought it was a consulting position for work. I was not think I did not date in Manhattan. I saw the pits of hell of the day dating pool through my roommates. >> So, I can tell you going back in my text messages with Charlie that this dates thing happened September of 2018.
+I'm not going to hire you." I was like, "That's fine. I don't need this job. I I'm doing plenty of other things here in Manhattan." He's like, "I'm going to date you." >> Okay. So, this is a a job interview and I'm going to show you one more example of this. She tells Megyn Kelly this on stage and this is even after his assassination. So, take a listen. >> When I met Charlie, the only reason I sat down with him because I thought it was a consulting position for work. I was not think I did not date in Manhattan. I saw the pits of hell of the day dating pool through my roommates. >> So, I can tell you going back in my text messages with Charlie that this dates thing happened September of 2018.
 
 [30:20]
 
@@ -203,7 +203,7 @@ Calling anybody who went to school with Erika. It's amazing. Is her entire She's
 
 [36:47]
 
-Also, in case you missed this update quite strangely one of the people who was fired, the one who spoke out Aubrey Lich uh at Turning Point USA, the one who was questioned over the Uber ride by Marina Meanes, the CMO over at Turning Point USA, she her husband or her fiance who also got fired from Turning Point USA just because I guess he's going to marry her or something was going home and recognized that there was a person outside of their home. The video was online, you can find it, that was taking photos of their car, their license their license plate on their car as well as their home. And obviously he confronted him. Records the person. So in case you're thinking, which I would have thought, maybe they're just trying to serve documents.
+Also, in case you missed this update quite strangely one of the people who was fired, the one who spoke out Aubrey Laitsch uh at Turning Point USA, the one who was questioned over the Uber ride by Marina Meanes, the CMO over at Turning Point USA, she her husband or her fiance who also got fired from Turning Point USA just because I guess he's going to marry her or something was going home and recognized that there was a person outside of their home. The video was online, you can find it, that was taking photos of their car, their license their license plate on their car as well as their home. And obviously he confronted him. Records the person. So in case you're thinking, which I would have thought, maybe they're just trying to serve documents.
 
 [37:32]
 

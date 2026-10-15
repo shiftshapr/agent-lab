@@ -564,7 +564,7 @@ TPUSA board member the host guesses was the donor (transcribed Doug De Root).
 
 ---
 
-**N-553** Aubrey Lech
+**N-553** Aubrey Laitsch
 
 Former TPUSA PR manager in the text thread with Justin and Andrew.
 

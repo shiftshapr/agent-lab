@@ -1,0 +1,771 @@
+[
+ {
+  "claim": "C-8410",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8411",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8412",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8413",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8414",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8415",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'I would probably after pulling in a quarter of a billion dollars say we got a hold for a year'; claim turns her hypothetical into 'should have' and adds 'after the assassination'.",
+  "fix": {
+   "claim": "The host says that, even if every employee deserved to be fired, she would probably, after Turning Point USA pulled in a quarter of a billion dollars, have said to hold off for a year because they had just watched Charlie Kirk be assassinated."
+  }
+ },
+ {
+  "claim": "C-8416",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8417",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8418",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'it looked like people that were paying Israel, right? It seemed like Israel was paying.' Claim says 'paying on behalf of Israel'.",
+  "fix": {
+   "claim": "The host says AmericaFest looked like pay-to-play, like people who were paying Israel, and that it seemed like Israel was paying."
+  }
+ },
+ {
+  "claim": "C-8419",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8420",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Pierre (generic donor reference; no surname given)",
+  "fix": {}
+ },
+ {
+  "claim": "C-8421",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8422",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8423",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8424",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'That was a part, I think, of a very well planned effort'; claim drops 'I think'.",
+  "fix": {
+   "claim": "The host says Andrew Kolvet said 'Candace, it was supposed to be you' and says she thinks this was part of a well-planned effort to traumatize her psychologically."
+  }
+ },
+ {
+  "claim": "C-8425",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'non-stop' is not said in this passage; she says people were 'fighting me', 'attacking me', 'influencers taking money'.",
+  "fix": {
+   "claim": "The host says influencers took money to attack her before she could process what happened to Charlie Kirk, as part of what she calls a military-level psychological operation."
+  }
+ },
+ {
+  "claim": "C-8426",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'that's what I am sensing and feeling at Turning Point USA'; claim states it as fact without her hedge.",
+  "fix": {
+   "claim": "The host says that, having done a deal with the devil, she senses Turning Point USA has lost access to the creative force and now has to rely on lawyers and legal letters."
+  }
+ },
+ {
+  "claim": "C-8427",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8428",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8429",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'unless someone deleted it before they handed it to Erika. It's possible... I'll throw that out there.' Claim adds 'could only be missing' and 'the phone'.",
+  "fix": {
+   "claim": "The host says Charlie Kirk's 'they are going to kill me' messages were sent on iMessage, unless someone deleted them before they handed it to Erika Kirk, which she says is possible and that she is throwing out there."
+  }
+ },
+ {
+  "claim": "C-8430",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8431",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8432",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2326",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2327",
+  "episode": 71,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Clip has Kolvet saying 10M concurrent and 20M viewers across social. The 6M YouTube figure is the host's claim: 'he says 6 million concurrent viewers they had on YouTube alone'.",
+  "fix": {
+   "claim": "The host says Andrew Kolvet claimed the TPUSA halftime show drew 6 million concurrent YouTube viewers."
+  }
+ },
+ {
+  "claim": "C-2328",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2329",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2330",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2331",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2332",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2333",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Name spelled 'Erica'; transcript and node are Erika Kirk.",
+  "fix": {
+   "claim": "The host says Erika Kirk's widow address video on Charlie Kirk's YouTube channel has approximately 4.1 million views and 36,000 comments."
+  }
+ },
+ {
+  "claim": "C-2334",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2335",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2336",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2337",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2338",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2339",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Quote: 'A ploy is going to be border patrol baiting in order to demonstrate to the public that the US government thinks nothing of breaking down the doors of their churches'. Baiting is the ploy, not something he urges avoiding.",
+  "fix": {
+   "claim": "The host says that, in the 1985 article, Thomas Martin is quoted writing to superiors that a ploy would be 'border patrol baiting' to show the public the US government thinks nothing of breaking down church doors, which she reads as his argument against invading the churches."
+  }
+ },
+ {
+  "claim": "C-2340",
+  "episode": 71,
+  "attribution": "error",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'I have text messages from September 11th. Tracy told friends that her daughter possibly Erika's assistant was supposed to be at UVU'. The texts are the host's, not Tracy's; 'Erica' misspelled.",
+  "fix": {
+   "claim": "The host says that, per text messages from September 11 she says she has, Tracy Martin told friends her daughter, possibly Erika Kirk's assistant, was supposed to be at UVU on September 10, 2025."
+  }
+ },
+ {
+  "claim": "C-2341",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2342",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Seth Dillon and the hearing; Carrie Prejean Bowler (N-556) is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-38"
+   ]
+  }
+ },
+ {
+  "claim": "C-2343",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip: 'the theme of it was save the West. His primary focus was on the threat of Islam' - 'his' is Charlie, not the retreat.",
+  "fix": {
+   "claim": "In a clip the host plays, Seth Dillon says the Hamptons retreat had a 'save the West' theme and that Charlie Kirk's primary focus was 'the threat of Islam.'",
+   "mentions": [
+    "N-38",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-2344",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "No 'admission' in the host's reply; she says 'you lied and now you're adjusting your story'.",
+  "fix": {
+   "claim": "In a clip the host plays, Seth Dillon says the Hamptons meeting included 'heated and spirited debate about the issue of Israel,' and the host says he lied and is now adjusting his story.",
+   "label": "Host Says Seth Dillon Is Adjusting His Story on Hamptons Debate"
+  }
+ },
+ {
+  "claim": "C-2345",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2346",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2347",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2348",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "AO comment read at [48:36] ('clip of Erika speaking to Megan that confirms your recollection of lights flickering'); timestamp 43:33 is ~5 min early. Comment does not say 'near Charlie Kirk'.",
+  "fix": {
+   "claim": "A viewer comment the host reads says there is a clip of Erika speaking to Megyn Kelly that confirms the host's recollection of lights flickering.",
+   "timestamp": "00:48:30",
+   "mentions": [
+    "N-2",
+    "N-3",
+    "N-46"
+   ]
+  }
+ },
+ {
+  "claim": "C-2349",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "GN2176 comment is read at ~[44:56]; claim timestamp 43:33 is ~90s early.",
+  "fix": {
+   "timestamp": "00:44:50"
+  }
+ },
+ {
+  "claim": "C-2350",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host replies to Leslie's comment: 'No, I have not... they have always been exceedingly private.' Claim wording 'host statement read aloud' is muddled.",
+  "fix": {
+   "claim": "The host says, replying to a viewer comment she reads, that Charlie Kirk's parents have not reached out to her and that they have always been exceedingly private."
+  }
+ },
+ {
+  "claim": "C-14310",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14311",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14312",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14313",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14314",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14315",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14316",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14317",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Kolvet ('Kolvet's six million concurrent figure') but Mentions omits N-14.",
+  "fix": {
+   "mentions": [
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-14318",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14319",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14320",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14321",
+  "episode": 71,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

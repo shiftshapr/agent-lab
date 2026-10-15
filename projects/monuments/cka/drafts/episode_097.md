@@ -769,9 +769,9 @@ Kim Klacik; the host recounts her earlier lawsuit against the host.
 
 ---
 
-**N-553** Aubrey Lech
+**N-553** Aubrey Laitsch
 
-Aubrey Lech; the host says Kolvet cannot show what Lech gave her.
+Aubrey Laitsch; the host says Kolvet cannot show what Lech gave her.
 
 *Related: C-10400, C-10401*
 
@@ -2113,15 +2113,15 @@ Investigative Direction: Identify the third-party intermediary and obtain the me
 
 Claim Timestamp: 00:48:52
 
-Claim: The host says Kolvet cannot produce the information he claims Aubrey Lech gave her, and that Kolvet was her number one source in the beginning.
+Claim: The host says Kolvet cannot produce the information he claims Aubrey Laitsch gave her, and that Kolvet was her number one source in the beginning.
 
-Transcript Snippet: you can still cannot produce the information that you are claiming that Aubrey Lich gave to me that I share on this platform. You were my number one source, Andrew, in the beginning.
+Transcript Snippet: you can still cannot produce the information that you are claiming that Aubrey Laitsch gave to me that I share on this platform. You were my number one source, Andrew, in the beginning.
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-553
 Related Nodes: N-10552
 Tags: relevance:core
-Investigative Direction: Ask Kolvet to specify the information attributed to Aubrey Lech and compare it against the host's published material.
+Investigative Direction: Ask Kolvet to specify the information attributed to Aubrey Laitsch and compare it against the host's published material.
 
 ---
 

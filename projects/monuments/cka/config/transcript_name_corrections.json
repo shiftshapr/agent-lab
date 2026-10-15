@@ -1783,6 +1783,40 @@
     [
       "\\bHelmet Becker\\b",
       "Helmut Becker"
+    ],
+    [
+      "\\bAubrey L[ei]ch\\b",
+      "Aubrey Laitsch"
+    ],
+    [
+      "\\bBarklay\\b",
+      "Barclay",
+      [
+        66
+      ]
+    ],
+    [
+      "\\bFalconee\\b",
+      "Falcone",
+      [
+        70
+      ]
+    ],
+    [
+      "\\bFastbinder\\b",
+      "Fassbinder"
+    ],
+    [
+      "\\bMeghan Kelly\\b",
+      "Megyn Kelly"
+    ],
+    [
+      "\\bAubrey Leach\\b",
+      "Aubrey Laitsch"
+    ],
+    [
+      "\\bAubrey Leitch\\b",
+      "Aubrey Laitsch"
     ]
   ]
 }

@@ -1,0 +1,511 @@
+[
+ {
+  "claim": "C-2327",
+  "episode": 71,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Andrew Kolvet claimed the TPUSA halftime show drew 6 million concurrent YouTube viewers."
+  },
+  "note": "Clip has Kolvet at 10M concurrent/20M across social; the 6M YouTube figure is the host's characterization."
+ },
+ {
+  "claim": "C-2340",
+  "episode": 71,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, per text messages from September 11 she says she has, Tracy Martin told friends her daughter, possibly Erika Kirk's assistant, was supposed to be at UVU on September 10, 2025."
+  },
+  "note": "Matches 24:52 host remarks."
+ },
+ {
+  "claim": "C-2342",
+  "episode": 71,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-38"
+   ]
+  },
+  "note": "Claim does not name or refer to Carrie Prejean Bowler."
+ },
+ {
+  "claim": "C-2348",
+  "episode": 71,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads says there is a clip of Erika speaking to Megyn Kelly that confirms the host's recollection of lights flickering.",
+   "timestamp": "00:48:30",
+   "mentions": [
+    "N-2",
+    "N-3",
+    "N-46"
+   ]
+  },
+  "note": "AO comment read in [48:36] block; 'near Charlie Kirk' not in comment."
+ },
+ {
+  "claim": "C-2349",
+  "episode": 71,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:44:50"
+  },
+  "note": "GN2176 comment begins right after [44:56]."
+ },
+ {
+  "claim": "C-14317",
+  "episode": 71,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14"
+   ]
+  },
+  "note": "Claim names Kolvet."
+ },
+ {
+  "claim": "C-14349",
+  "episode": 71,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the hearing clip, the questioner says that when Candace Owens worked for Daily Wire, the witness's friend Ben fired her because she said Christ is king, and the witness replies that he never said what she said was anti-semitic."
+  },
+  "note": "'your friend Ben' addresses the witness."
+ },
+ {
+  "claim": "C-14359",
+  "episode": 71,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-38",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to Charlie Kirk's murder."
+ },
+ {
+  "claim": "C-14368",
+  "episode": 71,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-36"
+   ]
+  },
+  "note": "Claim names Charlie."
+ },
+ {
+  "claim": "C-14370",
+  "episode": 71,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-36",
+    "N-2"
+   ]
+  },
+  "note": "Claim refers to Erika's denial."
+ },
+ {
+  "claim": "C-2351",
+  "episode": 72,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a TikTok clip the host plays, an unnamed TikToker says a USA Today article posted shortly after Charlie Kirk's assassination states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.",
+   "mentions": [
+    "N-2",
+    "N-1",
+    "N-562"
+   ]
+  },
+  "note": "Spoken by TikToker in clip; Liebman not in claim."
+ },
+ {
+  "claim": "C-2352",
+  "episode": 72,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a TikTok clip the host plays, an unnamed TikToker says an Epstein document performing an official name search for Lynn Forester (aka Lindy Rothschild) lists her as the Corcoran Group Inc. President, with a redacted email.",
+   "mentions": [
+    "N-559",
+    "N-562"
+   ]
+  },
+  "note": "Spoken by TikToker in clip."
+ },
+ {
+  "claim": "C-2356",
+  "episode": 72,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Erika Kirk tells Megyn Kelly on stage that she did not date in Manhattan because she saw the dating pool through her roommates.",
+   "mentions": [
+    "N-2",
+    "N-46"
+   ],
+   "names": [
+    {
+     "wrong": "Meghan Kelly",
+     "right": "Megyn Kelly",
+     "source": "https://www.megynkelly.com/2025/11/24/erika-kirk-dating-advice-for-young-women/"
+    }
+   ]
+  },
+  "note": "Name confirmed (megynkelly.com Erika Kirk interview); recast as a clip the host plays."
+ },
+ {
+  "claim": "C-2357",
+  "episode": 72,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:20:40"
+  },
+  "note": "'serious questions about Israel' opens the [20:45] block."
+ },
+ {
+  "claim": "C-2362",
+  "episode": 72,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says a man who gave his name as \"Mike\" was recorded outside Aubrey Laitsch's home photographing the car, its license plate and the home, and said a legal firm asked him to take photos.",
+   "names": [
+    {
+     "wrong": "Aubrey Lich",
+     "right": "Aubrey Laitsch",
+     "source": "https://dailydot.com/turning-point-usa-aubrey-laitsch-former-employee"
+    },
+    {
+     "wrong": "Aubrey Lech",
+     "right": "Aubrey Laitsch",
+     "source": "https://dailydot.com/turning-point-usa-aubrey-laitsch-former-employee"
+    }
+   ]
+  },
+  "note": "Laitsch confirmed (Daily Dot, Primetimer). Added host attribution; 'their car/home' per transcript."
+ },
+ {
+  "claim": "C-10121",
+  "episode": 72,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Aubrey Laitsch, who was fired from Turning Point USA and spoke out, had been questioned over an Uber ride by TPUSA CMO Marina Minas.",
+   "names": [
+    {
+     "wrong": "Aubrey Lich",
+     "right": "Aubrey Laitsch",
+     "source": "https://dailydot.com/turning-point-usa-aubrey-laitsch-former-employee"
+    },
+    {
+     "wrong": "Marina Meanes",
+     "right": "Marina Minas",
+     "source": "https://tpusa.com/team/"
+    }
+   ]
+  },
+  "note": "Verified: Laitsch fired, Uber-ride meeting with CMO Marina Minas (Daily Dot; tpusa.com/team)."
+ },
+ {
+  "claim": "C-10122",
+  "episode": 72,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Laitsch's husband or fiance was also fired from Turning Point USA, apparently because he is going to marry her.",
+   "names": [
+    {
+     "wrong": "Aubrey Lich",
+     "right": "Aubrey Laitsch",
+     "source": "https://dailydot.com/turning-point-usa-aubrey-laitsch-former-employee"
+    }
+   ]
+  },
+  "note": "Laitsch spelling verified."
+ },
+ {
+  "claim": "C-10123",
+  "episode": 72,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the man photographing the Laitsch home and car, who gave his name as Mike and said a legal firm asked him, had no documents in his hand and delivered nothing, which she says is not what happens when documents are served.",
+   "names": [
+    {
+     "wrong": "Aubrey Lich",
+     "right": "Aubrey Laitsch",
+     "source": "https://dailydot.com/turning-point-usa-aubrey-laitsch-former-employee"
+    }
+   ]
+  },
+  "note": "Laitsch spelling verified."
+ },
+ {
+  "claim": "C-10125",
+  "episode": 72,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she tweeted at Andrew Kolvet for a statement about the man photographing the Laitsch home.",
+   "names": [
+    {
+     "wrong": "Aubrey Lich",
+     "right": "Aubrey Laitsch",
+     "source": "https://dailydot.com/turning-point-usa-aubrey-laitsch-former-employee"
+    }
+   ]
+  },
+  "note": "Laitsch spelling verified."
+ },
+ {
+  "claim": "C-2372",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:39:05"
+  },
+  "note": "Fayetteville/180 people spoken shortly after 38:53."
+ },
+ {
+  "claim": "C-2373",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:40:30"
+  },
+  "note": "$250 stipend early in [40:23] block."
+ },
+ {
+  "claim": "C-2374",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:39:58"
+  },
+  "note": "Erika not present ~40:03 in [39:40] block."
+ },
+ {
+  "claim": "C-2376",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:39:25"
+  },
+  "note": "Three to five takes / Gabby at end of [38:53] block."
+ },
+ {
+  "claim": "C-8456",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Jesse Watters not referred to in claim."
+ },
+ {
+  "claim": "C-8457",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Jesse Watters not referred to in claim."
+ },
+ {
+  "claim": "C-8458",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Jesse Watters not referred to in claim."
+ },
+ {
+  "claim": "C-8459",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Jesse Watters not referred to in claim."
+ },
+ {
+  "claim": "C-8472",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names only an unnamed rabbi."
+ },
+ {
+  "claim": "C-8478",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "relevance": "context",
+   "mentions": [
+    "N-564"
+   ]
+  },
+  "note": "Commission removal post is context; claim does not name Prejean Bowler."
+ },
+ {
+  "claim": "C-8490",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "relevance": "context",
+   "mentions": [
+    "N-3",
+    "N-5",
+    "N-565"
+   ]
+  },
+  "note": "Halftime production is context; Matt named."
+ },
+ {
+  "claim": "C-8491",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-565",
+    "N-808"
+   ]
+  },
+  "note": "Producer referenced; Trump not in claim."
+ },
+ {
+  "claim": "C-2379",
+  "episode": 74,
+  "decision": "amend",
+  "fix": {
+   "label": "Erika and Jillian First Connected Through a Rent-Payment Encounter",
+   "claim": "The host says, relaying what Jillian Falcon told her, that Jillian met Erika Kirk at a door over a payment for rent, and that the two somehow exchanged numbers during that rent arrangement, though Jillian does not recall how.",
+   "mentions": [
+    "N-567",
+    "N-2"
+   ]
+  },
+  "note": "Who opened the door is ambiguous; host later frames Erika opening it to a 15-year-old. Dropped that detail."
+ },
+ {
+  "claim": "C-2380",
+  "episode": 74,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a video by YouTuber Nicey that the host plays, Nicey presents text messages Jillian Falcon posted on or about 2014-03-06 and reads them as Erika Kirk writing \"Let me call you. Hold on, sweetheart. Give me a sex.\" and then \"Sex.\" \"Sex, too, but not from you. lol.\" and \"You always make me laugh. I don't bat for the other team just yet.\"",
+   "mentions": [
+    "N-566",
+    "N-567",
+    "N-2"
+   ]
+  },
+  "note": "Nicey's narration puts all quotes after 'Erika then says'; fix dropped one but kept a later one. Keep all, framed as Nicey's reading."
+ },
+ {
+  "claim": "C-2381",
+  "episode": 74,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-566",
+    "N-567",
+    "N-2"
+   ]
+  },
+  "note": "Claim names Erika and Nicey."
+ },
+ {
+  "claim": "C-2382",
+  "episode": 74,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-567",
+    "N-570",
+    "N-2"
+   ]
+  },
+  "note": "Claim names Erika."
+ },
+ {
+  "claim": "C-2383",
+  "episode": 74,
+  "decision": "accept",
+  "fix": {
+   "label": "Nicey Clip Shows Jillian Sharing Gnome Image After Thanking Erika",
+   "claim": "In a video by YouTuber Nicey that the host plays, Nicey says Jillian Falcon tweeted on or about 2014-03-26 \"Thank you, @EricaFrandsen, for making my whole week\" and shared a photo of a gnome reading \"I want to be inside your lady garden. Know what I'm saying?\"",
+   "mentions": [
+    "N-566",
+    "N-567",
+    "N-2"
+   ]
+  },
+  "note": "Transcript never says Erika sent the image."
+ },
+ {
+  "claim": "C-2384",
+  "episode": 74,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a video by YouTuber Nicey that the host plays, Nicey says that on or about 2014-04-05 Erika Kirk sent Jillian Falcon a red box of chocolate-covered strawberries and other desserts accompanied by a card reading \"Happy sweet 16, beautiful girl… Love you, E.\"",
+   "mentions": [
+    "N-566",
+    "N-567",
+    "N-2"
+   ]
+  },
+  "note": "'Handwritten' not stated."
+ },
+ {
+  "claim": "C-2385",
+  "episode": 74,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-566",
+    "N-567",
+    "N-2"
+   ]
+  },
+  "note": "Claim names Erika and Nicey."
+ },
+ {
+  "claim": "C-2392",
+  "episode": 74,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Kolvet not in claim; Erika named."
+ },
+ {
+  "claim": "C-2395",
+  "episode": 74,
+  "decision": "accept",
+  "fix": {
+   "claim": "Episode presents that Attorney General Pam Bondi, in a hearing clip, asserted that the Trump administration released over 3 million pages of Epstein documents and that President Trump signed the law releasing them, characterizing him as \"the most transparent president in the nation's history.\"",
+   "mentions": [
+    "N-85",
+    "N-5"
+   ]
+  },
+  "note": "'House Oversight' not said; Trump named, Moskowitz not."
+ }
+]

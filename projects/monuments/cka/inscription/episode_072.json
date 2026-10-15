@@ -13,7 +13,7 @@
     "transcript_sha256": "3bf03b43dc5dbbd012ed6256f2ca3be30cbc97e23d398d12fc3dff776d32ccc0",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode advances the investigation along two principal evidentiary axes: (1) the conduct of Erika Kirk in the 24 hours preceding Charlie Kirk's death (specifically the absence of Erika's assistant from the September 10 UVU event), and (2) the published career history of Erika Kirk with particular focus on her New York real estate license and Corcoran Group affiliation.\n\nMaterial evidentiary content is presented through a Megyn Kelly interview on Piers Morgan's show (in which Kelly confirms Charlie Kirk was questioning Israel's influence on American politics), a Tyler Bowyer memorial speech recounting Erika's introduction to Turning Point USA, Erika Kirk's own multiple retellings of her \"job interview\" with Charlie, a New York real estate license snapshot, a USA Today article identifying Erika as a Corcoran Group agent, an Epstein document listing Lynn Forester de Rothschild as Corcoran Group Inc. President, an unnamed TikToker's video synthesis, and a referenced video of an unidentified individual (\"Mike\") photographing the home of former TPUSA employee Aubrey Lich.\n\nThe host's central argument that Erika Kirk should be formally questioned by law enforcement is rhetorical framing and is not inscribed as a claim. Host allegations concerning a three-way funeral-day call with Dr. Lee Trotter, an alleged lie to Glenn Beck about text messages, an alleged Hamptons Bibi Netanyahu call, and the alleged \"bad feeling\" of Tracy Martin are presented without in-episode artifact anchors and are flagged accordingly.\n\n---",
+  "executive_summary": "This episode advances the investigation along two principal evidentiary axes: (1) the conduct of Erika Kirk in the 24 hours preceding Charlie Kirk's death (specifically the absence of Erika's assistant from the September 10 UVU event), and (2) the published career history of Erika Kirk with particular focus on her New York real estate license and Corcoran Group affiliation.\n\nMaterial evidentiary content is presented through a Megyn Kelly interview on Piers Morgan's show (in which Kelly confirms Charlie Kirk was questioning Israel's influence on American politics), a Tyler Bowyer memorial speech recounting Erika's introduction to Turning Point USA, Erika Kirk's own multiple retellings of her \"job interview\" with Charlie, a New York real estate license snapshot, a USA Today article identifying Erika as a Corcoran Group agent, an Epstein document listing Lynn Forester de Rothschild as Corcoran Group Inc. President, an unnamed TikToker's video synthesis, and a referenced video of an unidentified individual (\"Mike\") photographing the home of former TPUSA employee Aubrey Laitsch.\n\nThe host's central argument that Erika Kirk should be formally questioned by law enforcement is rhetorical framing and is not inscribed as a claim. Host allegations concerning a three-way funeral-day call with Dr. Lee Trotter, an alleged lie to Glenn Beck about text messages, an alleged Hamptons Bibi Netanyahu call, and the alleged \"bad feeling\" of Tracy Martin are presented without in-episode artifact anchors and are flagged accordingly.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -157,7 +157,7 @@
           "@type": "Artifact",
           "@id": "A-1767.2",
           "ref": "A-1767.2",
-          "description": "Audio Clip: Erika Kirk on Meghan Kelly's Stage Recounting She Did Not Date in Manhattan",
+          "description": "Audio Clip: Erika Kirk on Megyn Kelly's Stage Recounting She Did Not Date in Manhattan",
           "related_claims": [
             "C-2356"
           ],
@@ -272,7 +272,7 @@
           "@type": "Artifact",
           "@id": "A-1771.1",
           "ref": "A-1771.1",
-          "description": "Video Recording: Individual Identifying Himself as \"Mike\" Photographing Aubrey Lich's Home and Vehicle, Stating He Was Asked by a Legal Firm",
+          "description": "Video Recording: Individual Identifying Himself as \"Mike\" Photographing Aubrey Laitsch's Home and Vehicle, Stating He Was Asked by a Legal Firm",
           "related_claims": [
             "C-2362"
           ],
@@ -599,7 +599,7 @@
       "@type": "Person",
       "@id": "N-553",
       "ref": "N-553",
-      "name": "Aubrey Lech",
+      "name": "Aubrey Laitsch",
       "type": "person",
       "description": "Former Turning Point USA employee; subject of recorded private investigator visit to her home.",
       "related_artifacts": [
@@ -623,7 +623,7 @@
       "ref": "N-561",
       "name": "\"Mike\" (Private Investigator)",
       "type": "person",
-      "description": "Unidentified individual recorded outside Aubrey Lich's home stating a legal firm asked him to photograph the property.",
+      "description": "Unidentified individual recorded outside Aubrey Laitsch's home stating a legal firm asked him to photograph the property.",
       "related_artifacts": [
         "A-1771.1"
       ],
@@ -743,7 +743,7 @@
       "ref": "N-495",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
-      "description": "Turning Point USA CMO; host references her questioning of Aubrey Lich regarding an Uber ride.",
+      "description": "Turning Point USA CMO; host references her questioning of Aubrey Laitsch regarding an Uber ride.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -2203,7 +2203,7 @@
       "@id": "C-2351",
       "ref": "C-2351",
       "label": "USA Today Identified Erika Kirk as NYC Real Estate Agent for the Corcoran Group",
-      "claim": "A USA Today article posted shortly after Charlie Kirk's assassination states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.",
+      "claim": "In a TikTok clip the host plays, an unnamed TikToker says a USA Today article posted shortly after Charlie Kirk's assassination states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.",
       "anchored_artifacts": [
         "A-1764.1",
         "A-1769.1"
@@ -2216,8 +2216,8 @@
       "investigative_direction": "Obtain and verify the original USA Today article and confirm Erika's stated tenure and role at Corcoran.",
       "mentions_person_refs": [
         "N-2",
-        "N-560",
-        "N-1"
+        "N-1",
+        "N-562"
       ]
     },
     {
@@ -2225,7 +2225,7 @@
       "@id": "C-2352",
       "ref": "C-2352",
       "label": "Epstein Document Lists Lynn Forester de Rothschild as Corcoran Group Inc. President",
-      "claim": "An Epstein document performing an official name search for Lynn Forester (a/k/a Lindy Rothschild) lists her as the President of Corcoran Group Inc., with a redacted work email.",
+      "claim": "In a TikTok clip the host plays, an unnamed TikToker says an Epstein document performing an official name search for Lynn Forester (aka Lindy Rothschild) lists her as the Corcoran Group Inc. President, with a redacted email.",
       "anchored_artifacts": [
         "A-1765.1",
         "A-1769.1"
@@ -2238,7 +2238,7 @@
       "investigative_direction": "Locate the underlying Epstein document entry and verify the document identifier, page, and original source.",
       "mentions_person_refs": [
         "N-559",
-        "N-560"
+        "N-562"
       ]
     },
     {
@@ -2302,16 +2302,17 @@
       "@id": "C-2356",
       "ref": "C-2356",
       "label": "Erika Kirk Stated She Did Not Date in Manhattan Because of Roommate Observations",
-      "claim": "Erika Kirk stated on Meghan Kelly's stage that she did not date in Manhattan because she had observed the dating pool through her roommates.",
+      "claim": "In a clip the host plays, Erika Kirk tells Megyn Kelly on stage that she did not date in Manhattan because she saw the dating pool through her roommates.",
       "anchored_artifacts": [
         "A-1767.2"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:30:20",
-      "investigative_direction": "Verify the original Meghan Kelly stage appearance and confirm Erika's exact phrasing.",
+      "investigative_direction": "Verify the original Megyn Kelly stage appearance and confirm Erika's exact phrasing.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-46"
       ]
     },
     {
@@ -2325,7 +2326,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:19:06",
+      "claim_timestamp": "00:20:40",
       "investigative_direction": "Identify other inner-circle witnesses to Charlie Kirk's evolving views; obtain any contemporaneous written communications.",
       "mentions_person_refs": [
         "N-1",
@@ -2415,8 +2416,8 @@
       "@type": "Claim",
       "@id": "C-2362",
       "ref": "C-2362",
-      "label": "Unidentified \"Mike\" Was Recorded Photographing Aubrey Lich's Home Claiming Legal Firm Instruction",
-      "claim": "An individual identifying himself as \"Mike\" was video-recorded outside Aubrey Lich's home photographing her vehicle's license plate and the property, stating that a legal firm had asked him to do so.",
+      "label": "Unidentified \"Mike\" Was Recorded Photographing Aubrey Laitsch's Home Claiming Legal Firm Instruction",
+      "claim": "The host says a man who gave his name as \"Mike\" was recorded outside Aubrey Laitsch's home photographing the car, its license plate and the home, and said a legal firm asked him to take photos.",
       "anchored_artifacts": [
         "A-1771.1"
       ],
@@ -3933,8 +3934,8 @@
       "@type": "Claim",
       "@id": "C-10121",
       "ref": "C-10121",
-      "label": "Host Says Aubrey Lich Was Fired After Being Questioned About an Uber Ride by Marina Meanes",
-      "claim": "The host says Aubrey Lich, who was fired from Turning Point USA and spoke out, had been questioned over an Uber ride by TPUSA CMO Marina Meanes.",
+      "label": "Host Says Aubrey Laitsch Was Fired After Being Questioned About an Uber Ride by Marina Meanes",
+      "claim": "The host says Aubrey Laitsch, who was fired from Turning Point USA and spoke out, had been questioned over an Uber ride by TPUSA CMO Marina Meanes.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -3943,8 +3944,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:36:47",
-      "investigative_direction": "Interview Aubrey Lich and obtain separation records and messages about the Uber ride questioning.",
-      "transcript_snippet": "Aubrey Lich uh at Turning Point USA, the one who was questioned over the Uber ride by Marina Meanes, the CMO over at Turning Point USA",
+      "investigative_direction": "Interview Aubrey Laitsch and obtain separation records and messages about the Uber ride questioning.",
+      "transcript_snippet": "Aubrey Laitsch uh at Turning Point USA, the one who was questioned over the Uber ride by Marina Meanes, the CMO over at Turning Point USA",
       "mentions_person_refs": [
         "N-3",
         "N-553",
@@ -3956,7 +3957,7 @@
       "@id": "C-10122",
       "ref": "C-10122",
       "label": "Host Says Lich's Husband or Fiance Was Also Fired From TPUSA",
-      "claim": "The host says Lich's husband or fiance was also fired from Turning Point USA, apparently because he is going to marry her.",
+      "claim": "The host says Laitsch's husband or fiance was also fired from Turning Point USA, apparently because he is going to marry her.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -3977,7 +3978,7 @@
       "@id": "C-10123",
       "ref": "C-10123",
       "label": "Host Says the Man Photographing Lich's Home Delivered No Documents",
-      "claim": "The host says the man photographing the Lich home and car, who gave his name as Mike and said a legal firm asked him, had no documents in his hand and delivered nothing, which she says is not what happens when documents are served.",
+      "claim": "The host says the man photographing the Laitsch home and car, who gave his name as Mike and said a legal firm asked him, had no documents in his hand and delivered nothing, which she says is not what happens when documents are served.",
       "anchored_artifacts": [
         "A-1771.1"
       ],
@@ -4024,7 +4025,7 @@
       "@id": "C-10125",
       "ref": "C-10125",
       "label": "Host Says She Tweeted at Kolvet for a Statement on the Photographing",
-      "claim": "The host says she tweeted at Andrew Kolvet for a statement about the man photographing the Lich home.",
+      "claim": "The host says she tweeted at Andrew Kolvet for a statement about the man photographing the Laitsch home.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -4206,7 +4207,7 @@
         "N-10063"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:44:20",
       "investigative_direction": "Locate the host's post and verify the source and date of the video.",
@@ -4224,7 +4225,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:45:55",
       "investigative_direction": "Check Netanyahu's travel schedule for the week of February 10, 2026.",

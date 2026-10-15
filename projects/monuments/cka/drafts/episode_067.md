@@ -1242,24 +1242,24 @@ Investigative Direction: Locate the underlying email between Epstein and Roger S
 
 Claim Timestamp: 00:11:37
 
-Claim: Per the compilation, Joshua Finkelstein (described as BlackRock's Larry Finkelstein's son) is accused by his ex-girlfriend Svetlana of having "no respect for non-Jews" and of seeing them as not human; he also pressured her to have an abortion.
+Claim: Per the compilation, Joshua Finkelstein (described as BlackRock's Larry Finkelstein's son) is accused by his ex-girlfriend Svetlana of not having any respect for non-Jews and seeing them as not human, and the compilation says he pressures her to have an abortion.
 
 Anchored Artifacts: A-1715.1
-Mentions: N-9
+Mentions: 
 
 
 Investigative Direction: Obtain the underlying email and any corroborating testimony from Svetlana.
 
 ---
 
-**C-2257** Ghislaine Maxwell Called Epstein Residence "A Jewish Country Club"
+**C-2257** Maxwell Told Farmer a Place Was "A Jewish Country Club"
 
-Claim Timestamp: 00:12:20
+Claim Timestamp: 00:11:54
 
-Claim: Per Maria Farmer's on-camera statement in the compilation, when Maria Farmer called Ghislaine Maxwell to ask why she could not eat at Epstein's residence, Maxwell told her "It's a Jewish country club. You're not Jewish. They're not going to serve you."
+Claim: Per Maria Farmer's on-camera statement in the compilation, when she called Ghislaine Maxwell to ask why she couldn't eat there after being refused food, Maxwell told her "It's a Jewish country club. You're not Jewish. They're not going to serve you."
 
 Anchored Artifacts: A-1715.1
-Mentions: N-9, N-47, N-530
+Mentions: N-47, N-530
 
 
 Investigative Direction: Cross-check against Maria Farmer's prior sworn testimony and DOJ documents.
@@ -1270,7 +1270,7 @@ Investigative Direction: Cross-check against Maria Farmer's prior sworn testimon
 
 Claim Timestamp: 00:09:45
 
-Claim: Per host reading, an Epstein email stated "those are my bosses, the Rothschilds."
+Claim: The host says that, according to him, Jeffrey Epstein wrote in an email that he works on behalf of the Rothschilds, and that he is saying "those are my bosses, the Rothschilds."
 
 Anchored Artifacts: A-1715.1 (referenced in compilation context)
 Mentions: N-9, N-522
@@ -1326,7 +1326,7 @@ Investigative Direction: Compare Shapiro's claim to DOJ public statements and To
 
 Claim Timestamp: 00:18:35
 
-Claim: In a clip the host plays, Ben Shapiro, citing his federal government sources, asserts there is no Epstein list; the black book contacts are already public, and no evidence exists that third-party contacts trafficked girls.
+Claim: In a clip the host plays, Ben Shapiro, citing his federal government sources, asserts there is no Epstein list; the vast majority of the black book contacts are already public, and, according to the DOJ and FBI, there is no evidence that third-party contacts had girls trafficked to them.
 
 Anchored Artifacts: A-1717.1
 Mentions: N-9, N-97
@@ -1352,12 +1352,12 @@ Investigative Direction: Obtain the full Bennett interview recording.
 
 **C-2264** Naftali Bennett Cites Pollard 1987 as Last Mossad US Operation
 
-Claim Timestamp: 00:20:38
+Claim Timestamp: 00:20:07
 
-Claim: Per host-read Bennett statement (following her own interview with Bennett), Mossad has not been active in the United States since the Jonathan Pollard scandal of 1987.
+Claim: In a clip the host plays, Ben Shapiro says former Israeli PM Naftali Bennett told him that the Mossad has not been active in the United States since the Jonathan Pollard scandal of 1987.
 
 Anchored Artifacts: A-1718.1
-Mentions: N-526, N-276
+Mentions: N-97, N-526, N-276
 
 
 Investigative Direction: Verify Bennett's claim against declassified or publicly known Mossad operations post-1987.
@@ -1428,7 +1428,7 @@ Claim Timestamp: 00:39:29
 Claim: In a clip the host plays, Josh Hammer says that approximately two hours after the "abandoning pro-Israel cause" text, a small Zoom call occurred with Charlie Kirk, Hammer, and others, organized by Charlie for messaging advice on Jewish-Christian relations on college campuses.
 
 Anchored Artifacts: A-1721.1
-Mentions: N-55, N-98, N-1
+Mentions: N-55, N-1
 
 Related Nodes: N-10473
 
@@ -1453,12 +1453,12 @@ Investigative Direction: Cross-reference Turek's account with security/camera re
 
 **C-2271** Frank Turek States GG (Child) Got Up During the Sept 8 Walk
 
-Claim Timestamp: 00:47:50
+Claim Timestamp: 00:47:26
 
 Claim: In a clip of the Megyn Kelly Show that the host plays, Frank Turek says Charlie Kirk texted that he would be "shortly" out because "GG just got up," and that Charlie had to attend to the child before the walk.
 
 Anchored Artifacts: A-1722.2
-Mentions: N-7, N-1, N-2
+Mentions: N-7, N-1
 
 Related Nodes: N-10473
 
@@ -1470,10 +1470,10 @@ Investigative Direction: Verify against Charlie Kirk's text message timestamp; c
 
 Claim Timestamp: 00:14:46
 
-Claim: An email released via WikiLeaks from Katherine Tate to John Podesta references "a handkerchief" that "seems pizza-related" and "weird specific orders of pizza and hot dogs."
+Claim: The host reads an email she says was sent to John Podesta by Katherine Tate, published by WikiLeaks, saying a realtor found a handkerchief, "I think it has a map that seems pizza-related", and mentioning "weird specific orders of pizza and hot dogs."
 
 Anchored Artifacts: A-1723.1
-Mentions: N-532, N-533, N-534
+Mentions: N-532, N-533
 
 
 Investigative Direction: Verify the email against the WikiLeaks Podesta archive; identify context and any related communications.
@@ -1487,7 +1487,7 @@ Claim Timestamp: 00:44:45
 Claim: Per Candace Owens's source (described as having had access to Dan Flood's messages), the "they're going to kill me" text was sent as an iMessage, not via a Telegram chat that auto-cleared, as Erica Kirk later claimed.
 
 Anchored Artifacts: A-1726.1
-Mentions: N-14, N-272, N-2, N-3
+Mentions: N-272, N-2, N-3
 
 Related Nodes: N-10470
 
@@ -1499,7 +1499,7 @@ Investigative Direction: Obtain device forensic records for Dan Flood's phone; o
 
 Claim Timestamp: 00:44:45
 
-Claim: Per Candace Owens's source, the Sept 9 "they're going to kill me" text was sent to Andrew Kolvet and Dan Flood as an iMessage exchange.
+Claim: Per Candace Owens's source, the "they're going to kill me" text Charlie Kirk sent on Sept 9 to Dan Flood was an iMessage; the host says it went to Andrew Kolvet and Dan Flood.
 
 Anchored Artifacts: A-1726.1
 Mentions: N-14, N-272, N-1, N-3
@@ -1543,7 +1543,7 @@ Investigative Direction: Not applicable (commentary only).
 
 Claim Timestamp: 00:57:34
 
-Claim: A YouTube comment from "I R O" references a $65,000 hot dog party at the White House found in WikiLeaks files, and a Hillary Clinton email to Obama advising caution around Julian Assange.
+Claim: A YouTube comment from "I R O" that the host reads says the $65,000 hot dog party Obama had at the White House was in the WikiLeaks files, and that Hillary Clinton alerted him he should be more careful and should have a chat with Julian Assange.
 
 Anchored Artifacts: A-1725.2
 Mentions: N-534, N-535
@@ -1599,10 +1599,10 @@ Investigative Direction: Not applicable (commentary only).
 
 Claim Timestamp: 00:42:15
 
-Claim: Per host reference, a Jezebel article regarding a witch's curse / Etsy spell against Charlie Kirk is cited as the context for Charlie's reported priest dinner the evening of September 9.
+Claim: The host says Erika told her Charlie had dinner with the family and a priest to pray over him on the evening of September 9, and that she was told this was related to a Jezebel article about an Etsy spell / witch's curse against him; the host says she does not believe that at all. The article is not displayed.
 
 Anchored Artifacts: A-1724.1 (verbally referenced; not displayed)
-Mentions: N-1
+Mentions: N-1, N-2
 
 Related Nodes: N-10473
 
@@ -1614,7 +1614,7 @@ Investigative Direction: Locate the Jezebel article; verify date and content.
 
 Claim Timestamp: 01:00:34
 
-Claim: A YouTube comment from "We woke now" asserts that Charleston, South Carolina – known as "Little Jerusalem" – is home to the very first Jewish lodge, and that the slave market there is called "Checkmate" forming a "literal chessboard."
+Claim: A YouTube comment from "We woke now" that the host reads says Charleston, South Carolina, known as "Little Jerusalem", is home of the very first Jewish lodge, that the entire city is "a literal chessboard", and that "Checkmate is the slave market."
 
 Anchored Artifacts: A-1725.6
 Mentions: N-3
@@ -1627,7 +1627,7 @@ Investigative Direction: Verify against Charleston historical society records; v
 **C-3661** Host notes featured independent journalist James Lee wearing a CIA t-shirt
 
 Claim Timestamp: 00:17:50
-Claim: After playing independent journalist James Lee's clip on the poorly redacted Epstein email, the host says "I love that he's wearing a CIA t-shirt. James, great work," noting the featured journalist wearing a CIA shirt rather than plugging merch herself.
+Claim: After playing independent journalist James Lee's clip on the poorly redacted Epstein email, the host says "I love that he's wearing a CIA t-shirt. James, great work."
 Transcript Snippet: ...ed. >> Also, I love that he's wearing a CIA t-shirt. James, great work. So many independent journalists, thankfully for independent journalists, or thi...
 Anchored Artifacts: A-2489.1
 Mentions: N-3, N-184
@@ -1654,14 +1654,14 @@ Investigative Direction: Check flag histories of Morocco (the Alaouite-era flag 
 
 **C-14239** Host says Wilhelm Fliess molested his son Robert
 
-Claim Timestamp: 00:03:44
+Claim Timestamp: 00:04:02
 
 Claim: The host says Wilhelm Fliess molested his own son Robert Fliess, and that Robert Fliess spoke about it when he got older.
 
 Transcript Snippet: Wilhelm Fliess also um molested his own son, Robert Fliess. Robert Fliess spoke about that when he got older.
 
 Anchored Artifacts: 
-Mentions: N-3, N-521, N-50
+Mentions: N-3, N-521
 Tags: relevance:tangential
 Investigative Direction: Check Robert Fliess's published psychoanalytic writings and biographies of Wilhelm Fliess for any statement that his father abused him.
 
@@ -1703,7 +1703,7 @@ Investigative Direction: Check Freud's biography for the 1896-97 period and the 
 
 Claim Timestamp: 00:07:19
 
-Claim: The host says the Khazars were a nomadic Turkic tribe who adopted Judaism in the 8th century, and that the people she opposes have worn the cloak of Judaism since the fall of the Khazarian empire.
+Claim: The host says the people she is fighting are "effectively" pagan "who have been wearing the cloak of Judaism, I would say, since the fall of the missing Khazarian Empire", and that the Khazars were a nomadic Turkic tribe who adopted Judaism in the 8th century.
 
 Transcript Snippet: The Khazars were a nomadic Turkic tribe who adopted Judaism in the 8th century.
 
@@ -1732,14 +1732,14 @@ Investigative Direction: Check General Orders No. 11 (Dec. 1862), which Lincoln 
 
 **C-14244** Host says B'nai B'rith became the ADL after the ritualistic murder of Mary Phagan
 
-Claim Timestamp: 00:08:11
+Claim Timestamp: 00:08:29
 
 Claim: The host says B'nai B'rith subsequently became the ADL after 'the ritualistic murder of a Catholic girl named Mary Phagan', and that the pattern recurs on the same dates and holiday season throughout history.
 
 Transcript Snippet: Um that then subsequently became the ADL after the ritualistic murder of a Catholic girl named Mary Phagan.
 
 Anchored Artifacts: 
-Mentions: N-3, N-796, N-795
+Mentions: N-3, N-796
 Related Nodes: N-11130, N-11153, N-11156
 Tags: relevance:tangential
 Investigative Direction: The ADL was founded by B'nai B'rith in 1913 after the Leo Frank trial; Phagan was a Protestant (not Catholic) factory worker. No evidence of a ritual murder exists; check the Frank case record and the 1986 Alonzo Mann/Georgia pardon history.
@@ -1875,14 +1875,14 @@ Investigative Direction: Run a text search of the DOJ Epstein release for 'pizza
 
 **C-14253** Host says Todd Blanche said they are sparing the public the videos
 
-Claim Timestamp: 00:15:32
+Claim Timestamp: 00:15:44
 
 Claim: The host says Todd Blanche has already said they are 'sparing us the videos', and infers from this that there are graphic videos pertaining to death.
 
 Transcript Snippet: Todd Blanche has already come out and said that they're sparing us the videos. So, we should just assume that there are graphic videos that pertain to death based on his statement.
 
 Anchored Artifacts: 
-Mentions: N-3, N-537, N-9
+Mentions: N-3, N-537
 Related Nodes: N-10324
 Supports: C-2261
 Tags: relevance:context
@@ -1950,7 +1950,7 @@ Transcript Snippet: But, the point is is Jay-Z was mentioned here and uh it was 
 Anchored Artifacts: 
 Mentions: N-3, N-525, N-228, N-9
 Related Nodes: N-10324
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the email in the DOJ release, check its provenance (original Epstein file or later FBI tip) and whether Jay-Z is a named participant.
 
 ---
@@ -2075,7 +2075,7 @@ Claim: The host says that 'Palantir boys' were put onto Fort Huachuca airbase in
 Transcript Snippet: He also had Palantir boys were put onto Fort Huachuca airbase in July. We'll get into that later.
 
 Anchored Artifacts: 
-Mentions: N-3, N-523
+Mentions: N-3
 Related Nodes: N-11389, N-10472
 Tags: relevance:context
 Investigative Direction: Look for Army/Fort Huachuca Palantir contracts, delivery orders or press releases in June-July 2025 and the base's public affairs notices.
@@ -2179,7 +2179,7 @@ Investigative Direction: Request White House visitor logs for late January 2026 
 
 **C-14272** Host says a Kash Patel interview ran on the Charlie Kirk Show while they were at the White House
 
-Claim Timestamp: 00:29:47
+Claim Timestamp: 00:30:28
 
 Claim: The host says TPUSA ran an interview with Kash Patel on Charlie Kirk's show, 'supposed to be live every day', and suggests it was pre-recorded while the team was meeting top brass at the White House.
 
@@ -2213,7 +2213,7 @@ Investigative Direction: Search the release for Miss Universe, Miss USA and page
 
 Claim Timestamp: 00:30:59
 
-Claim: The host says the names of some beauty queens have been conveniently redacted, that Epstein moved through industries like Victoria's Secret and Miss Universe with Jean-Luc Brunel, that the organizations were used for trafficking 'for a fact' via M Model Management, and that this is how Trump is caught up and 'rinsed out' of the files.
+Claim: The host says the names of some beauty queens have been conveniently redacted, that Epstein moved with Jean-Luc Brunel through industries like Victoria's Secret and Miss Universe, that she thinks that is how Trump is caught up and "rinsed out" of the files, and that "we know this for a fact" they trafficked through modeling organizations like M Model Management with Brunel.
 
 Transcript Snippet: They were trafficking through these organizations. We know this for a fact, modeling organizations like M Model Management with Jean-Luc Brunel.
 
@@ -2246,7 +2246,7 @@ Investigative Direction: Review the AmFest (December 2025) program and Erika Kir
 
 Claim Timestamp: 00:30:59
 
-Claim: The host says her team has been working to verify Erika Kirk's Fort Huachuca alibi and, after the sponsor break (00:32:06), that they are 'having some major problems'; the details are deferred.
+Claim: The host says her team has been working to verify Erika Kirk's Fort Huachuca alibi and, at 00:32:06 just before a sponsor break, that they are "having some major problems"; the details are deferred.
 
 Transcript Snippet: And we have been working to verify her Fort Huachuca alibi.
 
@@ -2422,7 +2422,7 @@ Investigative Direction: Get Shillman's donation records and the chat export; as
 
 Claim Timestamp: 00:42:15
 
-Claim: The host says that, according to Erika, Charlie Kirk had dinner on September 9 with Erika, the kids and a priest who prayed over him, and that Erika ties the prayer to the Jezebel article.
+Claim: The host says that, according to Erika, Charlie Kirk had dinner on September 9 with Erika, the kids and a priest to pray over him, and that 'we are told' the prayer was related to a Jezebel article, which the host says she does not believe.
 
 Transcript Snippet: And then we know that after that, he's going to have dinner with Erika and the kids and a priest to pray over him, according to Erika.
 
@@ -2523,7 +2523,7 @@ Investigative Direction: Get the Salem Network broadcast log and the episode's r
 
 Claim Timestamp: 00:45:27
 
-Claim: The host says Charlie Kirk 'had just gotten back late late late the night before from Korea', so a nap on the afternoon of September 8 made sense.
+Claim: The host says Charlie Kirk 'had just gotten back late late late the night before from Korea', so a nap on September 8 made sense.
 
 Transcript Snippet: Makes sense cuz he had just gotten back late late late the night before from Korea.
 
@@ -2651,7 +2651,7 @@ Investigative Direction: Canvass building residents and review lobby and garage 
 
 Claim Timestamp: 00:49:30
 
-Claim: The host says Erika Kirk says she collapsed in the parking lot (and screamed in a doctor's office) but no one has seen that, and nobody in her building has, adding that a doctor's office with people in it would have someone who heard a giant scream.
+Claim: The host says Erika Kirk says she collapsed in the parking lot but no one has seen that, and nobody in her building has; she adds that if she had screamed in a doctor's office with people in it, someone would say they heard a giant scream.
 
 Transcript Snippet: She also says that she collapsed in the parking lot. No one thus far has seen that. Nobody in her building has a has and they all know each other.
 
@@ -2789,7 +2789,7 @@ Anchored Artifacts:
 Mentions: N-3, N-82
 Related Nodes: N-11011, N-10270
 Supports: C-7885
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the Delaware docket for Macron v. Owens and its current status.
 
 ---

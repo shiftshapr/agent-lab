@@ -1,0 +1,773 @@
+[
+ {
+  "claim": "C-12658",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12659",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12660",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Macron gossip from Epstein-file emails; unrelated to the Kirk case.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12661",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12662",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'Somebody on it communicating. That would be a pretty obvious thing to do' and later 'was somebody on that plane...? We're going to find out.' Claim states it as fact.",
+  "fix": {
+   "claim": "The host says it would be a pretty obvious thing for someone on the grounded plane to communicate, and that to avoid tracking you would get on a foreign plane and communicate that way."
+  }
+ },
+ {
+  "claim": "C-12663",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12664",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12665",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12666",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12667",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12668",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12669",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Terra' taken as Terrell Farnsworth per existing correction rule.",
+  "fix": {}
+ },
+ {
+  "claim": "C-12670",
+  "episode": 69,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2314",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2315",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says TPUSA seized the cameras and could have shared them; she was refused a viewing ('immediately cagey'). She does not say Erika refused to release footage.",
+  "fix": {
+   "claim": "The host states she does not believe Erika Kirk's courtroom-transparency plea, saying Turning Point USA seized the 4K footage, was cagey when she asked to view the tapes, and has changed information, as the basis for that disbelief."
+  }
+ },
+ {
+  "claim": "C-2316",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2317",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Not read aloud: host paraphrases ('it struck me as odd when you said in that interview with Jesse Watters that you wanted Charlie to have a good night's sleep... so you sent him to sleep in his daughter's room').",
+  "fix": {
+   "claim": "The host says Erika Kirk said in her Jesse Watters interview that she wanted Charlie to have a good night's sleep and sent him to sleep in his daughter's room."
+  }
+ },
+ {
+  "claim": "C-2318",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Segment is an audio clip the host plays ('Why did you tell Jesse Watters this? >> We landed in Utah, went straight to the hospital'), not read aloud.",
+  "fix": {
+   "claim": "In a clip the host plays from the Jesse Watters interview, Erika Kirk says that after landing in Utah, she went straight to the hospital."
+  }
+ },
+ {
+  "claim": "C-2319",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2320",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names 'Marina Munz'; the CMO is Marina Minas (Fox 10 Phoenix).",
+  "fix": {
+   "claim": "Aubrey Lech's video states she was brought into a meeting with Andrew Kolvet and Marina Minas and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to \"Aubrey.\"",
+   "names": [
+    {
+     "wrong": "Marina Munz",
+     "right": "Marina Minas",
+     "source": "https://www.fox10phoenix.com/news/turning-point-usa-unveils-charlie-kirk-statue-outside-phoenix-headquarters"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2321",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2322",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names 'Marina Munz'; the TPUSA CMO is Marina Minas (Fox 10 Phoenix, ZoomInfo/Equilar profiles).",
+  "fix": {
+   "claim": "In a video the host plays, Aubrey Lech names Andrew Kolvet (described as her employer via ATK) and Marina Minas (CMO of Turning Point USA) as the two people present at her termination meeting.",
+   "names": [
+    {
+     "wrong": "Marina Munz",
+     "right": "Marina Minas",
+     "source": "https://www.fox10phoenix.com/news/turning-point-usa-unveils-charlie-kirk-statue-outside-phoenix-headquarters"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2323",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Everything is fake' is the host's framing; the clip says 'a lot of this is fake and it's performative.'",
+  "fix": {
+   "claim": "The Tim Dillon clip played on air contains the statement that tech figures flip political sides and that people who criticized the lack of free speech are now shutting it down, so \"a lot of this is fake and it's performative.\""
+  }
+ },
+ {
+  "claim": "C-2324",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host never says the line was sarcastic; she says Dillon was 'lamenting how it's all so fake'.",
+  "fix": {
+   "claim": "The Tim Dillon clip played on air contains the line \"There's only one person I trust, and it's Erika Kirk.\""
+  }
+ },
+ {
+  "claim": "C-2325",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3662",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Said at the end of the 40:26 block, just before the [42:45] marker (~42:35), over 2 min after claim time. 'crowd-sourced tip network opposing centralized intel' is added.",
+  "fix": {
+   "timestamp": "00:42:30",
+   "claim": "The host says the decentralized intelligence agency has brought us to this moment, that it was the work of everybody, and that everybody had a piece of the puzzle she pulled together on the podcast."
+  }
+ },
+ {
+  "claim": "C-8376",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8377",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8378",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8379",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8380",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8381",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8382",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "She warned him 'in that restaurant'; text messages are mentioned separately, not as the warning 'in writing'. Schaefer unresolved: Shaffer Security Group provided TPUSA security 2015-22; node says Scheper.",
+  "fix": {
+   "label": "Host Says She Warned Charlie About Schaefer Security and Dan Flood",
+   "claim": "The host says she warned Charlie Kirk about Schaefer security and Dan Flood, and tells Erika Kirk that the text messages are in Erika's possession."
+  }
+ },
+ {
+  "claim": "C-8383",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: 'Tyler' (surname not said; N-11 assumed).",
+  "fix": {}
+ },
+ {
+  "claim": "C-8384",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8385",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8386",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8387",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8388",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8389",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8390",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8391",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8392",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Title says NYT, but the wedding-band remark follows the Jesse Watters interview ('you said the next morning when he snuck in').",
+  "fix": {
+   "label": "Host Says Erika Said Charlie Grabbed His Wedding Band the Next Morning"
+  }
+ },
+ {
+  "claim": "C-8393",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8394",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8395",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8396",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8397",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8398",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8399",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8400",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Falconee' is a transcription of Pierre Falcone (Angolagate); alias should not be in claim.",
+  "fix": {
+   "claim": "The host says her best guess is that Pierre is Pierre Falcone of Angolagate, and describes France, Israel, the United States and Egypt working together.",
+   "names": [
+    {
+     "wrong": "Falconee",
+     "right": "Falcone",
+     "source": "https://en.wikipedia.org/wiki/Pierre_Falcone"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8401",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8402",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8403",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8404",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8405",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'I think the real motive... you just thought you could psychologically break me'; hedge dropped.",
+  "fix": {
+   "claim": "The host says nobody wanted to address BB calling, calls what TPUSA did a full-blown psychological operation, and says she thinks the real motive was to psychologically break her."
+  }
+ },
+ {
+  "claim": "C-8406",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8407",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8408",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8409",
+  "episode": 70,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

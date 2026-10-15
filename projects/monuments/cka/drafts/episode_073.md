@@ -823,7 +823,7 @@ Investigative Direction: Compare Erika's "first time back" framing against any o
 
 Claim Timestamp: 00:10:40
 
-Claim: During a Fox News interview, Erika Kirk stated that Charlie Kirk removed his wedding ring the night before his assassination, left it in the bathroom, and came back the next morning to put it on before leaving.
+Claim: In a Fox News interview the host plays, Erika Kirk says Charlie Kirk came into their bedroom bathroom the next morning, where his wedding ring and necklace were, grabbed them and left; the host adds that Erika said he had taken the ring off the night before.
 
 Anchored Artifacts: A-1775.1
 Mentions: N-2, N-1
@@ -834,7 +834,7 @@ Investigative Direction: Obtain the original Fox News segment; check whether jew
 
 ---
 
-**C-2369** Erika denied that Charlie messaged people saying "they're going to get me"
+**C-2369** Erika Denied That Charlie Messaged People Saying They Were Coming After Him
 
 Claim Timestamp: 00:21:54
 
@@ -879,7 +879,7 @@ Investigative Direction: Obtain the full hearing transcript and video; cross-ref
 
 **C-2372** Host Relays Informants' Claim That TPUSA Halftime Show Was Pre-Filmed with Camera Tricks and ~180 Audience Members
 
-Claim Timestamp: 00:37:45
+Claim Timestamp: 00:39:05
 
 Claim: The host says, relaying accounts from informants who told her they were part of the show, that the TPUSA All-American Halftime Show was pre-filmed in Fayetteville, GA over two days with approximately 180 audience members who were moved around the room between takes to make the venue appear fuller.
 
@@ -893,7 +893,7 @@ Investigative Direction: Confirm production location and dates through venue rec
 
 **C-2373** Host Relays Informants' Claim That TPUSA Halftime Show Participants Were Paid $250 Stipends
 
-Claim Timestamp: 00:37:45
+Claim Timestamp: 00:40:30
 
 Claim: The host says, relaying accounts from informants who told her they were part of the show, that participants in the TPUSA halftime show were compensated with $250 stipends.
 
@@ -907,7 +907,7 @@ Investigative Direction: Cross-reference any 1099 or payment records; compare to
 
 **C-2374** Host Relays Informants' Claim That Erika Kirk Was Not Present at TPUSA Halftime Show Filming
 
-Claim Timestamp: 00:37:45
+Claim Timestamp: 00:39:58
 
 Claim: The host says, relaying accounts from informants who told her they were part of the show, that Erika Kirk was not present during the TPUSA halftime show filming over either of the two days.
 
@@ -937,7 +937,7 @@ Investigative Direction: Confirm photograph provenance and timestamp; cross-refe
 
 **C-2376** Host Relays Informants' Account: Songs Required 3-5 Takes Except Gabby Barrett's (2 Takes)
 
-Claim Timestamp: 00:37:45
+Claim Timestamp: 00:39:25
 
 Claim: The host says, relaying accounts from informants who told her they were part of the show, that songs at the TPUSA halftime show filming required 3 to 5 takes each, with the exception of Gabby Barrett who completed her performance in 2 takes.
 
@@ -984,7 +984,7 @@ Investigative Direction: Reconstruct Charlie Kirk's September 9 schedule from ca
 
 Claim Timestamp: 00:01:52
 
-Claim: The host says her investigation has been delayed because nobody outside the case has access to Charlie Kirk's phone, Erika Kirk's phone, Dan Flood's phone, Mikey McCoy's phone logs or Frank Turek's phone, and says a subpoena would probably have solved the case before the memorial.
+Claim: The host says her investigation has been delayed because she and her team do not have access to Charlie Kirk's phone, Erika Kirk's phone, Dan Flood's phone, Mikey McCoy's phone logs or Frank Turek's phone, and says that if granted subpoena power she suspects they might have solved the case even before the memorial.
 
 Transcript Snippet: we don't have access to Charlie's phone, Erika's phone, Dan Flood's phone, Mikey McCoy's phone logs, Frank Turek's phone.
 
@@ -1340,7 +1340,7 @@ Claim: In the Fox clip, Erika Kirk says Charlie was at the office the day before
 Transcript Snippet: we were going to meet for dinner beforehand with a dear friend of ours who I wanted to just be with us and pray with us before the event.
 
 Anchored Artifacts: A-1775.2
-Mentions: N-2, N-1, N-213
+Mentions: N-2, N-1
 Related Nodes: N-10509
 Tags: relevance:core
 Investigative Direction: Identify the friend, the dinner location and time, and any receipts or witnesses.
@@ -1356,7 +1356,7 @@ Claim: In the Fox clip, Erika Kirk says she had asked Charlie whether he had eve
 Transcript Snippet: Charlie, have you ever thought about wearing a vest? He would nod to that and be like, you know, I've looked into it
 
 Anchored Artifacts: A-1775.2
-Mentions: N-2, N-1, N-213
+Mentions: N-2, N-1
 Tags: relevance:core
 Investigative Direction: Compare with supplier accounts of the campus-tour vests and ask security staff whether a vest was offered or declined.
 
@@ -1371,7 +1371,7 @@ Claim: The Fox segment says Erika's mother was dealing with a medical issue so E
 Transcript Snippet: Erika's mom was dealing with a medical issue, so she stayed in Phoenix to care for her. She planned to join Charlie at the next scheduled Turning Point event at Colorado State just a few days later.
 
 Anchored Artifacts: A-1775.2
-Mentions: N-2, N-1, N-213
+Mentions: N-2, N-1
 Related Nodes: N-10417
 Tags: relevance:core
 Investigative Direction: Verify Erika Kirk's whereabouts on September 8 to 10 against the Phoenix account, and the Colorado State event listing.
@@ -1387,7 +1387,7 @@ Claim: In the Fox clip, Erika Kirk says Charlie told her 'Home needs you. Be hom
 Transcript Snippet: Home needs you. Home needs you. Be home. Come with me on Thursday to the next event we have.
 
 Anchored Artifacts: A-1775.2
-Mentions: N-2, N-1, N-213
+Mentions: N-2, N-1
 Tags: relevance:core
 Investigative Direction: Confirm the Thursday event, its location and Erika's planned travel from TPUSA scheduling records.
 
@@ -1441,7 +1441,7 @@ Investigative Direction: Seek participants in the September 9 conversations and 
 
 ---
 
-**C-8463** Host Says TPUSA Has Not Been Honest About the Marriage
+**C-8463** Host Says the Marriage Portrayal Was Not Honest
 
 Claim Timestamp: 00:20:30
 
@@ -1592,7 +1592,7 @@ Claim: In the hearing clip, a rabbi answers that anti-Zionism is anti-Semitism, 
 Transcript Snippet: while not taking that same stand to the 28 Muslim countries and 13 Christian countries in this world, is a double standard, is hypocrisy
 
 Anchored Artifacts: A-1776.1
-Mentions: N-556
+Mentions: 
 Related Nodes: N-11188
 Tags: relevance:context
 Investigative Direction: Identify the rabbi and the panel and obtain the hearing transcript, and verify the figures cited.
@@ -1656,7 +1656,7 @@ Transcript Snippet: it was announced on X after Zionists demanded she be removed
 Anchored Artifacts: A-1777.1
 Mentions: N-3, N-556
 Related Nodes: N-11188
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify who, if anyone, publicly called for her removal before Dan Patrick's announcement.
 
 ---
@@ -1686,9 +1686,9 @@ Claim: In Dan Patrick's X post, as read by the host, no member of the commission
 Transcript Snippet: No member of the commission has the right to hijack a hearing for their own personal and political agenda on any issue.
 
 Anchored Artifacts: A-1777.1
-Mentions: N-564, N-556
+Mentions: N-564
 Related Nodes: N-11188
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Capture the original post and compare the full text with the host's reading.
 
 ---
@@ -1704,7 +1704,7 @@ Transcript Snippet: This is clearly without question what happened on Monday in 
 Anchored Artifacts: A-1777.1
 Mentions: N-564, N-556
 Related Nodes: N-11188
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the hearing date and confirm whether the White House or Patrick formally made the removal.
 
 ---
@@ -1769,7 +1769,7 @@ Transcript Snippet: a few people reached out to me that were a part of the Super
 Anchored Artifacts: A-1778.1
 Mentions: N-3
 Related Nodes: N-10510, N-10000
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Establish how many informants spoke to the host, and whether any can be named or documented as present at filming.
 
 ---
@@ -1785,7 +1785,7 @@ Transcript Snippet: They had no idea what they were signing up for. The majority
 Anchored Artifacts: A-1778.1
 Mentions: N-3
 Related Nodes: N-10510
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the audience recruitment emails or releases to see how the event was described to attendees.
 
 ---
@@ -1879,9 +1879,9 @@ Claim: Per the informants, a producer named Matt tried to get the crowd hyped by
 Transcript Snippet: There's a little birdie that told us that Trump is going to be watching our halftime show.
 
 Anchored Artifacts: A-1778.1
-Mentions: N-3, N-5
+Mentions: N-3, N-5, N-565
 Related Nodes: N-565, N-10510
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the producer Matt and ask TPUSA what basis there was for the statement about Trump watching.
 
 ---
@@ -1895,7 +1895,7 @@ Claim: Per the informants, the producer also told them the TPUSA show was going 
 Transcript Snippet: he also said to them that this is going to get more views than the Bad Bunny halftime show.
 
 Anchored Artifacts: A-1778.1, A-1779.1
-Mentions: N-3, N-808, N-5
+Mentions: N-3, N-565, N-808
 Related Nodes: N-565, N-10499, N-10510
 Tags: relevance:context
 Investigative Direction: Compare official viewership numbers for both programs when they are published.
@@ -1953,7 +1953,7 @@ Investigative Direction: Check the website for the tier prices.
 
 Claim Timestamp: 00:47:50
 
-Claim: Responding to a viewer comment, the host says she had Milo Yiannopoulos on her show recently and thinks they spoke about the Epstein files.
+Claim: Responding to a viewer comment, the host says she had Milo Yiannopoulos on her show recently; she first says she does not believe they spoke about the Epstein files, then thinks they spoke a little about them, adding "Don't quote me on that."
 
 Transcript Snippet: I had him on the show recently.
 
@@ -1984,7 +1984,7 @@ Investigative Direction: Establish how the tape reached TMZ and what the FBI dir
 
 Claim Timestamp: 00:49:00
 
-Claim: The host says that if it were her mother she would check the Native American reservations, because she alleges the feds make deals with them, and that she heard a reservation extends to near where Jeffrey Epstein's New Mexico house was.
+Claim: Discussing the abduction of Savannah Guthrie's mother, the host says that if it were her mother she would check the Native American reservations, because she alleges the feds make deals with them, and that, "Don't quote me on that," she feels somebody told her a reservation extends to near where Jeffrey Epstein's New Mexico house was.
 
 Transcript Snippet: I would check out those Native American reservations because the feds do deals with them and nothing good goes on.
 

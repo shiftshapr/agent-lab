@@ -1593,7 +1593,7 @@
       "@id": "C-2368",
       "ref": "C-2368",
       "label": "Erika stated Charlie removed his wedding ring the night before and retrieved it from the bathroom the next morning",
-      "claim": "During a Fox News interview, Erika Kirk stated that Charlie Kirk removed his wedding ring the night before his assassination, left it in the bathroom, and came back the next morning to put it on before leaving.",
+      "claim": "In a Fox News interview the host plays, Erika Kirk says Charlie Kirk came into their bedroom bathroom the next morning, where his wedding ring and necklace were, grabbed them and left; the host adds that Erika said he had taken the ring off the night before.",
       "anchored_artifacts": [
         "A-1775.1"
       ],
@@ -1612,7 +1612,7 @@
       "@type": "Claim",
       "@id": "C-2369",
       "ref": "C-2369",
-      "label": "Erika denied that Charlie messaged people saying \"they're going to get me\"",
+      "label": "Erika Denied That Charlie Messaged People Saying They Were Coming After Him",
       "claim": "During the December 12, 2025 Glenn Beck interview, Erika Kirk denied that Charlie Kirk had messaged people the day before saying \"I'm going to be murdered\" or \"they're coming after me.\"",
       "anchored_artifacts": [
         "A-1774.2"
@@ -1677,7 +1677,7 @@
         "N-10510"
       ],
       "tags": [],
-      "claim_timestamp": "00:37:45",
+      "claim_timestamp": "00:39:05",
       "investigative_direction": "Confirm production location and dates through venue records; compare against TPUSA's own promotional claims about the event."
     },
     {
@@ -1693,7 +1693,7 @@
         "N-10510"
       ],
       "tags": [],
-      "claim_timestamp": "00:37:45",
+      "claim_timestamp": "00:40:30",
       "investigative_direction": "Cross-reference any 1099 or payment records; compare to industry-standard compensation for halftime show performers."
     },
     {
@@ -1709,7 +1709,7 @@
         "N-10510"
       ],
       "tags": [],
-      "claim_timestamp": "00:37:45",
+      "claim_timestamp": "00:39:58",
       "investigative_direction": "Confirm via TPUSA production schedules, attendee lists, or on-site photography whether Erika had any documented presence during filming.",
       "mentions_person_refs": [
         "N-2"
@@ -1747,7 +1747,7 @@
         "N-10510"
       ],
       "tags": [],
-      "claim_timestamp": "00:37:45",
+      "claim_timestamp": "00:39:25",
       "investigative_direction": "Corroborate with any production logs, call sheets, or additional witness testimony."
     },
     {
@@ -1797,7 +1797,7 @@
       "@id": "C-8434",
       "ref": "C-8434",
       "label": "Host Says Phones of Charlie, Erika, Flood, McCoy and Turek Are Unavailable",
-      "claim": "The host says her investigation has been delayed because nobody outside the case has access to Charlie Kirk's phone, Erika Kirk's phone, Dan Flood's phone, Mikey McCoy's phone logs or Frank Turek's phone, and says a subpoena would probably have solved the case before the memorial.",
+      "claim": "The host says her investigation has been delayed because she and her team do not have access to Charlie Kirk's phone, Erika Kirk's phone, Dan Flood's phone, Mikey McCoy's phone logs or Frank Turek's phone, and says that if granted subpoena power she suspects they might have solved the case even before the memorial.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10320"
@@ -2326,8 +2326,7 @@
       "transcript_snippet": "we were going to meet for dinner beforehand with a dear friend of ours who I wanted to just be with us and pray with us before the event.",
       "mentions_person_refs": [
         "N-2",
-        "N-1",
-        "N-213"
+        "N-1"
       ]
     },
     {
@@ -2348,8 +2347,7 @@
       "transcript_snippet": "Charlie, have you ever thought about wearing a vest? He would nod to that and be like, you know, I've looked into it",
       "mentions_person_refs": [
         "N-2",
-        "N-1",
-        "N-213"
+        "N-1"
       ]
     },
     {
@@ -2372,8 +2370,7 @@
       "transcript_snippet": "Erika's mom was dealing with a medical issue, so she stayed in Phoenix to care for her. She planned to join Charlie at the next scheduled Turning Point event at Colorado State just a few days later.",
       "mentions_person_refs": [
         "N-2",
-        "N-1",
-        "N-213"
+        "N-1"
       ]
     },
     {
@@ -2394,8 +2391,7 @@
       "transcript_snippet": "Home needs you. Home needs you. Be home. Come with me on Thursday to the next event we have.",
       "mentions_person_refs": [
         "N-2",
-        "N-1",
-        "N-213"
+        "N-1"
       ]
     },
     {
@@ -2471,7 +2467,7 @@
       "@type": "Claim",
       "@id": "C-8463",
       "ref": "C-8463",
-      "label": "Host Says TPUSA Has Not Been Honest About the Marriage",
+      "label": "Host Says the Marriage Portrayal Was Not Honest",
       "claim": "The host says the public portrayal of an amazing godly relationship between Charlie and Erika is not accurate, and that TPUSA has not been honest about what the relationship was.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2692,10 +2688,7 @@
       ],
       "claim_timestamp": "00:29:30",
       "investigative_direction": "Identify the rabbi and the panel and obtain the hearing transcript, and verify the figures cited.",
-      "transcript_snippet": "while not taking that same stand to the 28 Muslim countries and 13 Christian countries in this world, is a double standard, is hypocrisy",
-      "mentions_person_refs": [
-        "N-556"
-      ]
+      "transcript_snippet": "while not taking that same stand to the 28 Muslim countries and 13 Christian countries in this world, is a double standard, is hypocrisy"
     },
     {
       "@type": "Claim",
@@ -2769,7 +2762,7 @@
         "N-11188"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:34:30",
       "investigative_direction": "Identify who, if anyone, publicly called for her removal before Dan Patrick's announcement.",
@@ -2812,14 +2805,13 @@
         "N-11188"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:35:55",
       "investigative_direction": "Capture the original post and compare the full text with the host's reading.",
       "transcript_snippet": "No member of the commission has the right to hijack a hearing for their own personal and political agenda on any issue.",
       "mentions_person_refs": [
-        "N-564",
-        "N-556"
+        "N-564"
       ]
     },
     {
@@ -2835,7 +2827,7 @@
         "N-11188"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:36:05",
       "investigative_direction": "Identify the hearing date and confirm whether the White House or Patrick formally made the removal.",
@@ -2930,7 +2922,7 @@
         "N-10000"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:37:50",
       "investigative_direction": "Establish how many informants spoke to the host, and whether any can be named or documented as present at filming.",
@@ -2952,7 +2944,7 @@
         "N-10510"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:39:45",
       "investigative_direction": "Obtain the audience recruitment emails or releases to see how the event was described to attendees.",
@@ -3088,14 +3080,15 @@
         "N-10510"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:41:30",
       "investigative_direction": "Identify the producer Matt and ask TPUSA what basis there was for the statement about Trump watching.",
       "transcript_snippet": "There's a little birdie that told us that Trump is going to be watching our halftime show.",
       "mentions_person_refs": [
         "N-3",
-        "N-5"
+        "N-5",
+        "N-565"
       ]
     },
     {
@@ -3121,8 +3114,8 @@
       "transcript_snippet": "he also said to them that this is going to get more views than the Bad Bunny halftime show.",
       "mentions_person_refs": [
         "N-3",
-        "N-808",
-        "N-5"
+        "N-565",
+        "N-808"
       ]
     },
     {
@@ -3194,7 +3187,7 @@
       "@id": "C-8495",
       "ref": "C-8495",
       "label": "Host Says She Recently Had Milo on Her Show",
-      "claim": "Responding to a viewer comment, the host says she had Milo Yiannopoulos on her show recently and thinks they spoke about the Epstein files.",
+      "claim": "Responding to a viewer comment, the host says she had Milo Yiannopoulos on her show recently; she first says she does not believe they spoke about the Epstein files, then thinks they spoke a little about them, adding \"Don't quote me on that.\"",
       "anchored_artifacts": [
         "A-2934.1"
       ],
@@ -3241,7 +3234,7 @@
       "@id": "C-8497",
       "ref": "C-8497",
       "label": "Host Says Feds Make Deals With Native American Reservations",
-      "claim": "The host says that if it were her mother she would check the Native American reservations, because she alleges the feds make deals with them, and that she heard a reservation extends to near where Jeffrey Epstein's New Mexico house was.",
+      "claim": "Discussing the abduction of Savannah Guthrie's mother, the host says that if it were her mother she would check the Native American reservations, because she alleges the feds make deals with them, and that, \"Don't quote me on that,\" she feels somebody told her a reservation extends to near where Jeffrey Epstein's New Mexico house was.",
       "anchored_artifacts": [
         "A-2934.1"
       ],

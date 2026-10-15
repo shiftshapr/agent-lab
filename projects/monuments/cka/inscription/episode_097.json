@@ -1501,9 +1501,9 @@
       "@type": "Person",
       "@id": "N-553",
       "ref": "N-553",
-      "name": "Aubrey Lech",
+      "name": "Aubrey Laitsch",
       "type": "person",
-      "description": "Aubrey Lech; the host says Kolvet cannot show what Lech gave her.",
+      "description": "Aubrey Laitsch; the host says Kolvet cannot show what Lech gave her.",
       "related_artifacts": [],
       "related_claims": [
         "C-10400",
@@ -3556,7 +3556,7 @@
       "@id": "C-10401",
       "ref": "C-10401",
       "label": "Host Says Kolvet Was Her Number One Early Source and Cannot Show What Aubrey Gave Her",
-      "claim": "The host says Kolvet cannot produce the information he claims Aubrey Lech gave her, and that Kolvet was her number one source in the beginning.",
+      "claim": "The host says Kolvet cannot produce the information he claims Aubrey Laitsch gave her, and that Kolvet was her number one source in the beginning.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10552"
@@ -3565,8 +3565,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:48:52",
-      "investigative_direction": "Ask Kolvet to specify the information attributed to Aubrey Lech and compare it against the host's published material.",
-      "transcript_snippet": "you can still cannot produce the information that you are claiming that Aubrey Lich gave to me that I share on this platform. You were my number one source, Andrew, in the beginning.",
+      "investigative_direction": "Ask Kolvet to specify the information attributed to Aubrey Laitsch and compare it against the host's published material.",
+      "transcript_snippet": "you can still cannot produce the information that you are claiming that Aubrey Laitsch gave to me that I share on this platform. You were my number one source, Andrew, in the beginning.",
       "mentions_person_refs": [
         "N-3",
         "N-14",

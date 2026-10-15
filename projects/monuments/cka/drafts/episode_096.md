@@ -524,7 +524,7 @@ Investigative Pressure: Low
 
 Node Type: Person
 
-Former top advisor to Barack Obama; named (01:04:56) in Laura Loomer's tweet alleging a secret anti-Trump summit in Rome with Candace Owens, Nick Fuentes and Aubrey Leitch. The host says she did not see him in Rome (01:07:45).
+Former top advisor to Barack Obama; named (01:04:56) in Laura Loomer's tweet alleging a secret anti-Trump summit in Rome with Candace Owens, Nick Fuentes and Aubrey Laitsch. The host says she did not see him in Rome (01:07:45).
 
 Evidence Count: 1
 Claim Count: 1
@@ -900,9 +900,9 @@ Donald Trump; his Truth Social post about the host and the WHCD are discussed.
 
 ---
 
-**N-553** Aubrey Lech
+**N-553** Aubrey Laitsch
 
-Aubrey Lech; the host says she spoke with her after the firing and denies seeing her in Rome.
+Aubrey Laitsch; the host says she spoke with her after the firing and denies seeing her in Rome.
 
 *Related: C-8796, C-8812, C-8814*
 
@@ -1858,11 +1858,11 @@ Investigative Direction: Compare with Erika Kirk's or Justin Streiff's account o
 
 ---
 
-**C-8796** Host says Aubrey Lech spoke with her after being fired but leaked nothing she presented
+**C-8796** Host says Aubrey Laitsch spoke with her after being fired but leaked nothing she presented
 
 Claim Timestamp: 00:53:58
 
-Claim: The host says she has had many conversations with Aubrey Lech after Lech's firing, and that nothing she presented on the show about TPUSA's inner workings was leaked by her.
+Claim: The host says she has had many conversations with Aubrey Laitsch after Lech's firing, and that nothing she presented on the show about TPUSA's inner workings was leaked by her.
 
 Transcript Snippet: I've had many conversations with her, but nothing was leaked to me about their that I presented on this show about anything that was going on internal.
 
@@ -1870,7 +1870,7 @@ Anchored Artifacts:
 Mentions: N-553, N-3, N-14
 Related Nodes: N-10552
 Tags: relevance:core
-Investigative Direction: Aubrey Lech's own account, and a comparison of the host's reporting against what Lech could have known.
+Investigative Direction: Aubrey Laitsch's own account, and a comparison of the host's reporting against what Lech could have known.
 
 ---
 
@@ -2121,14 +2121,14 @@ Investigative Direction: Loomer's original post and any property or trust record
 
 Claim Timestamp: 01:05:54
 
-Claim: The host says Aubrey Lech posted an obvious AI photo joke saying "Happy birthday, Candace".
+Claim: The host says Aubrey Laitsch posted an obvious AI photo joke saying "Happy birthday, Candace".
 
 Transcript Snippet: An obvious AI photo joke from Aubrey saying, "Happy birthday, Candace."
 
 Anchored Artifacts: A-2012.4
 Mentions: N-553, N-3
 Tags: relevance:context
-Investigative Direction: Aubrey Lech's original post.
+Investigative Direction: Aubrey Laitsch's original post.
 
 ---
 
@@ -2148,11 +2148,11 @@ Investigative Direction: Travel bookings and the March announcement of the confi
 
 ---
 
-**C-8814** Host says she saw none of Aubrey Lech, Nick Fuentes or David Axelrod in Rome
+**C-8814** Host says she saw none of Aubrey Laitsch, Nick Fuentes or David Axelrod in Rome
 
 Claim Timestamp: 01:07:45
 
-Claim: The host says she did not see Aubrey Lech, Nick Fuentes or David Axelrod in Rome.
+Claim: The host says she did not see Aubrey Laitsch, Nick Fuentes or David Axelrod in Rome.
 
 Transcript Snippet: No, I did not see Aubrey. I did not see Nick Fuentes. I did not see David Axelrod.
 
