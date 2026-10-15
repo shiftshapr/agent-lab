@@ -1,0 +1,495 @@
+[
+ {
+  "claim": "C-2038",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-400",
+    "N-406"
+   ]
+  },
+  "note": "Claim does not name or refer to Begin."
+ },
+ {
+  "claim": "C-2044",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per host's citation of the Washington Post, Jerry Falwell Sr.'s father Carey Hezekiah was a drunk and bootlegger, and also a smuggler and trafficker, who shot his brother Garland dead following a fight.",
+   "label": "Carey Hezekiah Was a Bootlegger/Smuggler Who Shot His Brother Garland Dead (Per Washington Post)"
+  },
+  "note": "Host cites the Washington Post for this; Rolling Stone only for the cat story."
+ },
+ {
+  "claim": "C-8141",
+  "episode": 54,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that when Erika Frantzve and Charlie were dating but not yet married, Erika became a Falkirk fellow and the two hit the road together working on the Falkirk Center.",
+   "names": [
+    {
+     "wrong": "Erika Frandsen",
+     "right": "Erika Frantzve",
+     "source": "https://www.latintimes.com/who-erika-kirk-charlie-kirks-widow-589415"
+    }
+   ]
+  },
+  "note": "Frantzve confirmed (Wikipedia, LatinTimes). Reworded 'she and Charlie' so 'she' does not read as the host."
+ },
+ {
+  "claim": "C-8145",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Lori Frantzve, Erika's mother, established the Everyday Heroes Foundation in Arizona to help children in need, and that the Romanian Angels project spun out of it.",
+   "names": [
+    {
+     "wrong": "Lori Francev",
+     "right": "Lori Frantzve",
+     "source": "https://www.latintimes.com/who-erika-kirk-charlie-kirks-widow-589415"
+    }
+   ]
+  },
+  "note": "Lori Frantzve confirmed as Erika's mother (Nicki Swift, The List)."
+ },
+ {
+  "claim": "C-8147",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says it is a fact that Romanian Angels worked with Colonel Otto Busher at the time.",
+   "names": [
+    {
+     "wrong": "Otto Buscher",
+     "right": "Otto Busher",
+     "source": "https://factually.co/fact-checks/military/colonel-otto-busher-iii-romania-0ab9ea"
+    }
+   ]
+  },
+  "note": "Busher (Col. Otto Busher III) confirmed in multiple Romanian Angels reports."
+ },
+ {
+  "claim": "C-8148",
+  "episode": 54,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Colonel Otto Busher was accused of running a brothel with young children, taking them onto a military base, and that a woman filed in Romania saying children were prostituted to military men.",
+   "names": [
+    {
+     "wrong": "Otto Buscher",
+     "right": "Otto Busher",
+     "source": "https://factually.co/fact-checks/military/colonel-otto-busher-iii-romania-0ab9ea"
+    }
+   ]
+  },
+  "note": "Busher spelling confirmed; relevance change dropped, not a transcript matter and claim is in Romanian Angels thread."
+ },
+ {
+  "claim": "C-8149",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says there are no articles saying Erika Frantzve or Lori Frantzve were involved in the brothel allegation, only that they worked on the Romanian project with Colonel Busher.",
+   "names": [
+    {
+     "wrong": "Otto Buscher",
+     "right": "Otto Busher",
+     "source": "https://factually.co/fact-checks/military/colonel-otto-busher-iii-romania-0ab9ea"
+    }
+   ]
+  },
+  "note": "Busher spelling confirmed."
+ },
+ {
+  "claim": "C-8155",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the aircraft with the registration she reads as N888KG is currently owned by Derek and Shelaine Maxfield, who run Saprea, a child abuse charity.",
+   "names": [
+    {
+     "wrong": "Shailene Maxfield",
+     "right": "Shelaine Maxfield",
+     "source": "https://saprea.org/leadership/"
+    }
+   ]
+  },
+  "note": "Shelaine Maxfield confirmed (Saprea About page, PRWeb); 'Shirlene' found nowhere."
+ },
+ {
+  "claim": "C-8156",
+  "episode": 54,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Derek and Shelaine Maxfield wore Operation Underground shirts in their profile pictures.",
+   "names": [
+    {
+     "wrong": "Shailene Maxfield",
+     "right": "Shelaine Maxfield",
+     "source": "https://saprea.org/leadership/"
+    }
+   ]
+  },
+  "note": "Shelaine spelling confirmed; relevance change dropped, it is not a transcript issue."
+ },
+ {
+  "claim": "C-8190",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-409",
+    "N-3"
+   ]
+  },
+  "note": "Claim does not refer to Erika Kirk."
+ },
+ {
+  "claim": "C-8194",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Speaker is an unnamed Liberty Lost investigator, not Abby Johnson."
+ },
+ {
+  "claim": "C-8195",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the ABC clip, the reporter says that Abby Johnson got pregnant at 16 and that her parents sent her across the country to the Liberty Godparent Home with a promise of a scholarship to Liberty University.",
+   "label": "ABC Report Says Abby Johnson's Parents Sent Her to the Home With a Liberty Scholarship Promise"
+  },
+  "note": "Reporter narrates these facts; Johnson's own words are separate."
+ },
+ {
+  "claim": "C-8208",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim does not name or refer to Sun Myung Moon."
+ },
+ {
+  "claim": "C-8234",
+  "episode": 54,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim/label concern the pastor's case: Kirk pledged to publicize what was happening to Chan Yoon's father. Pastor Yoon is clearly referred to; keep N-404."
+ },
+ {
+  "claim": "C-2047",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host presented a text message she sent to Andrew Kolvet describing a vivid dream in which Charlie Kirk stated he was betrayed, that \"they\" were hiding what happened \"to my left,\" and that Kolvet \"know[s] much more than you've said publicly or privately.\"",
+   "label": "Text Message From Candace Owens to Andrew Kolvet Described Charlie Kirk Dream Stating He Was Betrayed and Andrew Knew More Than Publicly Stated",
+   "names": [
+    {
+     "wrong": "Kolbett",
+     "right": "Kolvet",
+     "source": "https://en.wikipedia.org/wiki/Andrew_Kolvet"
+    }
+   ]
+  },
+  "note": "Kolvet confirmed; text says 'one' vivid dream."
+ },
+ {
+  "claim": "C-2048",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host stated that Andrew Kolvet did not respond to her text message and that this was the last time they spoke.",
+   "label": "Andrew Kolvet Never Replied to the Dream Text From Candace Owens",
+   "names": [
+    {
+     "wrong": "Kolbett",
+     "right": "Kolvet",
+     "source": "https://en.wikipedia.org/wiki/Andrew_Kolvet"
+    }
+   ]
+  },
+  "note": "Kolvet spelling confirmed."
+ },
+ {
+  "claim": "C-2049",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-439",
+    "N-400"
+   ]
+  },
+  "note": "Claim names Falwell Senior, not Jr."
+ },
+ {
+  "claim": "C-2051",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ },
+ {
+  "claim": "C-2062",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "label": "Top Comment From Natty Nicole Expresses Being Heartbroken and Questions Andrew Kolvet's Conscience",
+   "names": [
+    {
+     "wrong": "Kolbett",
+     "right": "Kolvet",
+     "source": "https://en.wikipedia.org/wiki/Andrew_Kolvet"
+    }
+   ]
+  },
+  "note": "Kolvet spelling confirmed."
+ },
+ {
+  "claim": "C-2069",
+  "episode": 55,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:28:35"
+  },
+  "note": "Ad's 'New research... 7 million' starts ~28:38; 5s before is ~28:35."
+ },
+ {
+  "claim": "C-14111",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-446",
+    "N-445"
+   ]
+  },
+  "note": "Claim refers to Abe's killer."
+ },
+ {
+  "claim": "C-14112",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-446",
+    "N-445"
+   ]
+  },
+  "note": "Claim refers to Abe's killer."
+ },
+ {
+  "claim": "C-14169",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that if this really does become one world government, which she believes is the explicit aim, our kids have no chance, and she asks whether people love their families enough to be brave.",
+   "mentions": []
+  },
+  "note": "Conditional restored; claim does not name Kirk."
+ },
+ {
+  "claim": "C-2077",
+  "episode": 56,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says, per the lawsuit (which she notes contains only allegations), that a court petition was filed in December 2024 by Alton C. Jennings's grandson, challenging his last will and trust and alleging cognitive decline and that caretaker Mitch Manley Sr. isolated him and seized control of his finances.",
+   "timestamp": "00:15:40"
+  },
+  "note": "'In December of 2024' ~15:45; grandson/isolation allegations follow. 'Undue influence' not said."
+ },
+ {
+  "claim": "C-2089",
+  "episode": 56,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the law firm representing the survivors said in a news release that it expects 23 former residents of the Romanian children's home to bring complaints, and that the most recent complaints were filed in November.",
+   "mentions": []
+  },
+  "note": "Host relays law firm news release; Havsgaard not named in claim."
+ },
+ {
+  "claim": "C-2093",
+  "episode": 56,
+  "decision": "accept",
+  "fix": {
+   "claim": "A comment the host reads, attributed to Anthony Aguilar, the Gaza whistleblower Green Beret, says he was arrested on the 3rd of September in Congress for calling out AIPAC.",
+   "label": "Comment From Anthony Aguilar Says He Was Arrested in Congress on September 3 for Calling Out AIPAC",
+   "names": [
+    {
+     "wrong": "Andrew Aguilar",
+     "right": "Anthony Aguilar",
+     "source": "https://en.wikipedia.org/wiki/Anthony_Aguilar"
+    }
+   ]
+  },
+  "note": "Host reads comment; Anthony Aguilar confirmed (Wikipedia, Senate hearing reports)."
+ },
+ {
+  "claim": "C-2094",
+  "episode": 56,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says, per her master timeline, that an anchor plane landed in Provo on May 23 and a follow-up plane, tail number SUBTU, came in on May 27 with Wed Mahmoud aboard, and that she has confirmed these planes can trick their transponders so the flights do not show on flight radar; she says it departed Provo on June 2."
+  },
+  "note": "Fix right, but kept June 2 departure, which host states at ~11:00. Wed Mahmoud name unresolved."
+ },
+ {
+  "claim": "C-2095",
+  "episode": 56,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim does not name Wed Mahmoud."
+ },
+ {
+  "claim": "C-12566",
+  "episode": 56,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-452"
+   ]
+  },
+  "note": "Kolvet is not named in the claim."
+ },
+ {
+  "claim": "C-12568",
+  "episode": 56,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-453"
+   ]
+  },
+  "note": "Greg Laurie is not named in the claim."
+ },
+ {
+  "claim": "C-12579",
+  "episode": 56,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Andrew Aguilar",
+     "right": "Anthony Aguilar",
+     "source": "https://www.democracynow.org/2025/7/29/anthony_aguilar_ghf_war_crimes"
+    }
+   ]
+  },
+  "note": "Anthony Aguilar confirmed (Wikipedia, Democracy Now)."
+ },
+ {
+  "claim": "C-2103",
+  "episode": 57,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Mike Pompeo says history books should not write about 'the victims of Gaza', then says he should be more precise: there were victims in Gaza and civilian casualties in every war, but the victims were the people of Israel and the aggressor was the Iranian regime and its proxy Hamas; he says this requires each person to talk about it in real time with their children and grandchildren."
+  },
+  "note": "Restores Pompeo's 'more precise' qualification."
+ },
+ {
+  "claim": "C-2108",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says, citing people based at Fort Huachuca who contacted her, that members of the *November Renaissance* cast have Fort Huachuca or military ties: Clayton Haugen does marketing for defense contractor Dillon Aero Space; Don Frye trained in judo at Fort Huachuca; Payton McCormick's father was once stationed there; Priscilla Ann Nu'ul's father was a lieutenant stationed there. For Chantel Thuy she cites only that her dad worked on AI for IBM, and for Price Mitchum only a psych hold."
+  },
+  "note": "Matches transcript; Thuy and Mitchum ties are not documented Fort Huachuca links."
+ },
+ {
+  "claim": "C-2110",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Claim names only Erika."
+ },
+ {
+  "claim": "C-2113",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-15",
+    "N-2",
+    "N-3"
+   ]
+  },
+  "note": "Claim names Justin Streiff."
+ },
+ {
+  "claim": "C-2117",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Baron Coleman did a lot of work on the planes and that the plane that was Charlie's and now appears to be Erika's is frequently visiting New Braunfels, Texas and a place in Idaho; she says the answer is that Erika is visiting the number one donors to Turning Point USA, and credits a \"mommy sleuth\" with the work.",
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-265",
+    "N-332"
+   ]
+  },
+  "note": "Restores 'appears'; claim names Charlie."
+ },
+ {
+  "claim": "C-2122",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Nick Fuentes took a meeting with Defend Texas Liberty and Farris Wilks' partner and, according to documents a reporter obtained, pitched selling the data of his followers.",
+   "names": [
+    {
+     "wrong": "Ferris Wilks",
+     "right": "Farris Wilks",
+     "source": "https://www.texastribune.org/2024/01/24/tim-dunn-farris-wilks-defend-texas-liberty-nick-fuentes/"
+    }
+   ]
+  },
+  "note": "Farris Wilks confirmed (Texas Tribune)."
+ },
+ {
+  "claim": "C-3657",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host gives a shout-out to \"the mommy sleuth who did the work\" tracing the plane's visits, saying \"these mommy sleuth hit different.\"",
+   "timestamp": "00:19:20"
+  },
+  "note": "Shout-out ~19:29; rest of original not said."
+ },
+ {
+  "claim": "C-9846",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim names no individual."
+ },
+ {
+  "claim": "C-9847",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim names no individual."
+ }
+]

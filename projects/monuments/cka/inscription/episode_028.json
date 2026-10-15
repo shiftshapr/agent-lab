@@ -1149,8 +1149,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-853",
-      "ref": "N-853",
+      "@id": "N-852",
+      "ref": "N-852",
       "name": "Lauren Chen",
       "type": "person",
       "description": "First named by the host at 00:12:33 in episode 28. Host of the X Space where Boring spoke with Fuentes.",
@@ -1307,7 +1307,7 @@
       "mentions_person_refs": [
         "N-203",
         "N-368",
-        "N-853"
+        "N-852"
       ]
     },
     {
@@ -1800,7 +1800,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-368",
-        "N-853"
+        "N-852"
       ]
     },
     {

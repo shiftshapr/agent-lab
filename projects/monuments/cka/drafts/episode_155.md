@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 62ace5f4c4f18929f51b3252c3a6d15650b04715f45dfdc7d6bfb067b8b9d7ce
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-904, N-906, N-11315, N-11316
+  - Tip-minted Nodes (supplement_2026-10e): N-903, N-905, N-11315, N-11316
   - Claim Range (supplement_2026-10e): C-11859–C-11915
-  - Reused Nodes Appearing: N-10850, N-10849, N-14, N-54, N-94, N-202, N-246, N-368, N-583, N-840, N-867, N-903, N-10011, N-10012, N-10019, N-10032, N-10040, N-10051, N-10168, N-10343, N-10416, N-10447, N-10900, N-10974, N-11149, N-11168, N-905
+  - Reused Nodes Appearing: N-10850, N-10849, N-14, N-54, N-94, N-202, N-246, N-368, N-583, N-839, N-866, N-902, N-10011, N-10012, N-10019, N-10032, N-10040, N-10051, N-10168, N-10343, N-10416, N-10447, N-10900, N-10974, N-11149, N-11168, N-904
  - New Nodes Introduced: N-10847, N-10848
  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-571
 
@@ -485,7 +485,7 @@ Congressman the host says critics attacked and removed.
 
 ---
 
-**N-840** Casey Baugh
+**N-839** Casey Baugh
 
 Alleged UVU donor and partial owner of the N88 plane.
 
@@ -493,7 +493,7 @@ Alleged UVU donor and partial owner of the N88 plane.
 
 ---
 
-**N-867** Officer Goforth
+**N-866** Officer Goforth
 
 Officer the host says was approached by the Dodge Challenger after midnight.
 
@@ -613,7 +613,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-904** Agent Mortensson
+**N-903** Agent Mortensson
 
 First named by the host at 00:18:34 in episode 155. Investigator whose review of UVU security video the September 15 warrant describes.
 
@@ -623,7 +623,7 @@ Aliases: Mortensson
 
 ---
 
-**N-905** Miss Noble
+**N-904** Miss Noble
 
 First named by the host at 00:07:25 in episode 155. Neighbor who with her husband reported a Dodge Challenger driven by a bald person with two others in the back seat.
 
@@ -633,7 +633,7 @@ Aliases: Miss Noble
 
 ---
 
-**N-903** Bobby Sausalito
+**N-902** Bobby Sausalito
 
 First named by the host at 00:00:46 in episode 155. Comedian and political commentator whose pre-release predictions about the Neff and Boreing podcast the host plays.
 
@@ -643,7 +643,7 @@ Aliases: Bobby Sausalito; Bobby Sauce
 
 ---
 
-**N-906** Chelsea Baugh
+**N-905** Chelsea Baugh
 
 First named by the host at 00:25:06 in episode 155. Named with Casey Baugh as a UVU donor and partial owner of the N88 plane.
 
@@ -1133,7 +1133,7 @@ Claim: The host says prosecutors have never indicated there is body camera foota
 Transcript Snippet: They've never indicated that he had on body cam footage.
 
 Anchored Artifacts: 
-Mentions: N-867, N-3
+Mentions: N-866, N-3
 Related Nodes: N-10850
 Tags: relevance:core
 Investigative Direction: Request Goforth's bodycam and dispatch records for the after-midnight contact and confirm whether any recording exists.
@@ -1342,7 +1342,7 @@ Claim: The host says she thinks Miss Noble and her husband were telling the trut
 Transcript Snippet: I think Miss Noble, uh, the neighbor and her husband were telling the truth when she said that she saw a bald man and two other people in a Dodge Challenger
 
 Anchored Artifacts: 
-Mentions: N-905, N-3
+Mentions: N-904, N-3
 Related Nodes: N-10850
 Supports: C-3530
 Tags: relevance:core
@@ -1391,7 +1391,7 @@ Claim: The host reads the September 15 warrant narrative as saying the video sho
 Transcript Snippet: In the video, Robinson is seen wearing a ball cap, a red t-shirt, light colored shorts, and Converse style tennis shoes.
 
 Anchored Artifacts: A-2414.1
-Mentions: N-40, N-904, N-3
+Mentions: N-40, N-903, N-3
 Related Nodes: N-10848, N-10019
 Tags: relevance:core
 Investigative Direction: Obtain the filed September 15 warrant affidavit to verify the clothing description and compare it with the maroon-shirt reporting.
@@ -1457,7 +1457,7 @@ Claim: The host says that after Miss Noble called in, the time the Dodge Challen
 Transcript Snippet: That time gets adjusted three times across three different warrants.
 
 Anchored Artifacts: 
-Mentions: N-905, N-3
+Mentions: N-904, N-3
 Related Nodes: N-10848, N-10850
 Tags: relevance:core
 Investigative Direction: Compare the Challenger-at-Noble-house time in each of the three warrants and the surveillance footage timestamp.
@@ -1555,7 +1555,7 @@ Claim: The host corrects the name to Chelsea and Casey Baugh and says they donat
 Transcript Snippet: Chelsea and Casey Ba B A U G H donated $5 million to UVU.
 
 Anchored Artifacts: A-3173.1
-Mentions: N-840, N-906, N-3
+Mentions: N-839, N-905, N-3
 Related Nodes: N-10849, N-10012
 Tags: relevance:core
 Investigative Direction: Verify the donation amount, date and recipient through UVU foundation announcements and gift agreements.
@@ -1571,7 +1571,7 @@ Claim: The host says the Baughs have an entrepreneurship institute that was loca
 Transcript Snippet: they have an entrepreneurship institute that was located in the Woodbury building and they were partial owners of that plane
 
 Anchored Artifacts: A-3173.1
-Mentions: N-840, N-906, N-3
+Mentions: N-839, N-905, N-3
 Related Nodes: N-10849, N-10012
 Supports: C-9402
 Tags: relevance:core
@@ -1637,7 +1637,7 @@ Claim: In the clip the host plays, Bobby Sausalito says there is a reason Charli
 Transcript Snippet: So, there's a reason Charlie called him his secret weapon.
 
 Anchored Artifacts: A-2406.1
-Mentions: N-903, N-1, N-161
+Mentions: N-902, N-1, N-161
 Tags: relevance:context
 Investigative Direction: Find any Kirk statement in which he called Neff a secret weapon, with date and context.
 
@@ -1652,7 +1652,7 @@ Claim: In the clip the host plays, Sausalito predicts that Boreing wants to cont
 Transcript Snippet: Germs wants to get paid by Turning Point.
 
 Anchored Artifacts: A-2406.1
-Mentions: N-903, N-368
+Mentions: N-902, N-368
 Related Nodes: N-10900
 Tags: relevance:context
 Investigative Direction: Seek any contract, sponsorship or payment record between Boreing's company and Turning Point USA.
@@ -1668,7 +1668,7 @@ Claim: The host says that the only thing Sausalito got wrong is that Boreing is 
 Transcript Snippet: The only thing that he got wrong in that assessment is that he's not doing it for money.
 
 Anchored Artifacts: A-2406.1
-Mentions: N-903, N-368, N-3
+Mentions: N-902, N-368, N-3
 Related Nodes: N-10416
 Contradicts: C-11901
 Tags: relevance:context

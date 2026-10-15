@@ -1012,8 +1012,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-819",
-      "ref": "N-819",
+      "@id": "N-818",
+      "ref": "N-818",
       "name": "David Sprag",
       "type": "person",
       "description": "First named by the host at 00:05:36 in episode 122 (David Sprag; later James Norman Rawlinson Jr., also spelled James Rawlinson, David L. Rawlinson and James Rolleston in the transcript). Man who stood and cheered after the shot and whom the host links to the Utah National Guard and the 19th Special Forces.",
@@ -1276,8 +1276,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-820",
-      "ref": "N-820",
+      "@id": "N-819",
+      "ref": "N-819",
       "name": "Arnaud Brunel",
       "type": "person",
       "description": "First named by the host at 00:19:15 in episode 122. Brother of Jean-Luc Brunel whom the host names as co-founder of a New York modeling agency.",
@@ -1722,8 +1722,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-821",
-      "ref": "N-821",
+      "@id": "N-820",
+      "ref": "N-820",
       "name": "Ehud Barak",
       "type": "person",
       "description": "First named by the host at 00:36:21 in episode 122. The host says he created Carbyne.",
@@ -1809,8 +1809,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-822",
-      "ref": "N-822",
+      "@id": "N-821",
+      "ref": "N-821",
       "name": "Nicole Rothchild",
       "type": "person",
       "description": "First named by the host at 00:38:54 in episode 122. The host says she is probably not Erika Kirk's blood cousin but was involved in real estate with that family.",
@@ -2790,7 +2790,7 @@
       "transcript_snippet": "To be frank, in retrospect, it registers to me as another major distraction point.",
       "mentions_person_refs": [
         "N-3",
-        "N-819"
+        "N-818"
       ]
     },
     {
@@ -2816,7 +2816,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-819",
+        "N-818",
         "N-1"
       ]
     },
@@ -2843,7 +2843,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-819"
+        "N-818"
       ]
     },
     {
@@ -2866,7 +2866,7 @@
       "transcript_snippet": "We learned that his actual birth name is James Norman Rawlinson Jr.",
       "mentions_person_refs": [
         "N-3",
-        "N-819"
+        "N-818"
       ]
     },
     {
@@ -2889,7 +2889,7 @@
       "transcript_snippet": "he claimed that he had legally changed his name uh recently because he wanted separation from his father.",
       "mentions_person_refs": [
         "N-3",
-        "N-819"
+        "N-818"
       ]
     },
     {
@@ -2912,7 +2912,7 @@
       "transcript_snippet": "he claimed that his father got in trouble for child abuse, for harming children.",
       "mentions_person_refs": [
         "N-3",
-        "N-819"
+        "N-818"
       ]
     },
     {
@@ -2935,7 +2935,7 @@
       "transcript_snippet": "I can't seem to find that anywhere registered.",
       "mentions_person_refs": [
         "N-3",
-        "N-819"
+        "N-818"
       ]
     },
     {
@@ -2956,7 +2956,7 @@
       "transcript_snippet": "he joined Army boot camp in 2011. He was promoted to a corporal and/or specialist at the beginning of 2014 for the Utah National Guard.",
       "mentions_person_refs": [
         "N-3",
-        "N-819"
+        "N-818"
       ]
     },
     {
@@ -3043,7 +3043,7 @@
       "mentions_person_refs": [
         "N-692",
         "N-14",
-        "N-819"
+        "N-818"
       ]
     },
     {
@@ -3065,7 +3065,7 @@
       "transcript_snippet": "I asked him five separate times if he had served overseas uh in Romania, whether his father had served overseas.",
       "mentions_person_refs": [
         "N-3",
-        "N-819"
+        "N-818"
       ]
     },
     {
@@ -3091,7 +3091,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-819"
+        "N-818"
       ]
     },
     {
@@ -3352,7 +3352,7 @@
       "transcript_snippet": "He was actually the founder alongside his brother, Arnaud Brunel, of a modeling agency in New York City.",
       "mentions_person_refs": [
         "N-531",
-        "N-820",
+        "N-819",
         "N-572",
         "N-3"
       ]
@@ -3375,7 +3375,7 @@
       "transcript_snippet": "Jean-Luc Brunel and his brother founded the Next Model Corporation. And from that spun the Next Model Management modeling agency.",
       "mentions_person_refs": [
         "N-531",
-        "N-820",
+        "N-819",
         "N-572"
       ]
     },
@@ -4081,7 +4081,7 @@
       "transcript_snippet": "of course in partnership with Israel with Carbyne created by Ehud Barak",
       "mentions_person_refs": [
         "N-733",
-        "N-821",
+        "N-820",
         "N-3"
       ]
     },
@@ -4218,7 +4218,7 @@
       "investigative_direction": "Identify Nicole Rothchild, her relation to Erika Kirk and any shared real estate ventures.",
       "transcript_snippet": "it doesn't actually seem like Nicole Rothchild is her blood cousin but she certainly was involved in real estate with that family.",
       "mentions_person_refs": [
-        "N-822",
+        "N-821",
         "N-2",
         "N-3"
       ]

@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 80c78af8806a54fe976848d2fa3b81e764734789b67b8f5aaf8e2423a2666f0c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-819, N-820, N-822, N-11193, N-11195, N-11196, N-11197
+  - Tip-minted Nodes (supplement_2026-10c): N-818, N-819, N-821, N-11193, N-11195, N-11196, N-11197
   - Claim Range (supplement_2026-10c): C-8821–C-8931
-  - Reused Nodes Appearing: N-10698, N-10700, N-10701, N-10704, N-10699, N-10703, N-4, N-5, N-9, N-47, N-48, N-68, N-82, N-131, N-268, N-522, N-531, N-559, N-572, N-585, N-610, N-689, N-690, N-692, N-694, N-733, N-10000, N-10012, N-10015, N-10032, N-10048, N-10061, N-10107, N-10110, N-10168, N-10230, N-10239, N-10275, N-10276, N-10290, N-10311, N-10324, N-10395, N-10401, N-10501, N-10502, N-10520, N-10523, N-10526, N-10532, N-10598, N-10663, N-10677, N-10687, N-10691, N-10737, N-10740, N-10768, N-10871, N-10888, N-10897, N-10899, N-10923, N-10929, N-10937, N-10971, N-10978, N-10979, N-10982, N-10988, N-11011, N-11053, N-11194, N-10702, N-821
+  - Reused Nodes Appearing: N-10698, N-10700, N-10701, N-10704, N-10699, N-10703, N-4, N-5, N-9, N-47, N-48, N-68, N-82, N-131, N-268, N-522, N-531, N-559, N-572, N-585, N-610, N-689, N-690, N-692, N-694, N-733, N-10000, N-10012, N-10015, N-10032, N-10048, N-10061, N-10107, N-10110, N-10168, N-10230, N-10239, N-10275, N-10276, N-10290, N-10311, N-10324, N-10395, N-10401, N-10501, N-10502, N-10520, N-10523, N-10526, N-10532, N-10598, N-10663, N-10677, N-10687, N-10691, N-10737, N-10740, N-10768, N-10871, N-10888, N-10897, N-10899, N-10923, N-10929, N-10937, N-10971, N-10978, N-10979, N-10982, N-10988, N-11011, N-11053, N-11194, N-10702, N-820
   - (see registers)
 
 # I. Meta-Data
@@ -321,7 +321,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-819** David Sprag
+**N-818** David Sprag
 
 First named by the host at 00:05:36 in episode 122 (David Sprag; later James Norman Rawlinson Jr., also spelled James Rawlinson, David L. Rawlinson and James Rolleston in the transcript). Man who stood and cheered after the shot and whom the host links to the Utah National Guard and the 19th Special Forces.
 
@@ -442,7 +442,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-820** Arnaud Brunel
+**N-819** Arnaud Brunel
 
 First named by the host at 00:19:15 in episode 122. Brother of Jean-Luc Brunel whom the host names as co-founder of a New York modeling agency.
 
@@ -653,7 +653,7 @@ The host's claim that the family Sarah Tool married into controlled emergency di
 
 ---
 
-**N-821** Ehud Barak
+**N-820** Ehud Barak
 
 First named by the host at 00:36:21 in episode 122. The host says he created Carbyne.
 
@@ -694,7 +694,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-822** Nicole Rothchild
+**N-821** Nicole Rothchild
 
 First named by the host at 00:38:54 in episode 122. The host says she is probably not Erika Kirk's blood cousin but was involved in real estate with that family.
 
@@ -1424,7 +1424,7 @@ Claim: The host says that, in retrospect, the viral story of the man who stood a
 Transcript Snippet: To be frank, in retrospect, it registers to me as another major distraction point.
 
 Anchored Artifacts: 
-Mentions: N-3, N-819
+Mentions: N-3, N-818
 Related Nodes: N-10696
 Tags: relevance:core
 Investigative Direction: Trace how the cheering clip was amplified (accounts, dates, reach) and whether amplification was organic.
@@ -1440,7 +1440,7 @@ Claim: The host says the man identified as David Sprag gave an interview clarify
 Transcript Snippet: He came out, he did an interview clarifying that he wasn't cheering because Charlie was hurt.
 
 Anchored Artifacts: A-2105.1
-Mentions: N-3, N-819, N-1
+Mentions: N-3, N-818, N-1
 Related Nodes: N-10696
 Supports: C-2971
 Tags: relevance:core
@@ -1457,7 +1457,7 @@ Claim: The host says viewers emailed asking her to look into the 'umbrella boys'
 Transcript Snippet: They who were emailing us saying you need to look into these umbrella boys.
 
 Anchored Artifacts: A-2105.2
-Mentions: N-3, N-819
+Mentions: N-3, N-818
 Related Nodes: N-10696
 Supports: C-2972
 Tags: relevance:core
@@ -1474,7 +1474,7 @@ Claim: The host says David Sprag is not his original name and that his actual bi
 Transcript Snippet: We learned that his actual birth name is James Norman Rawlinson Jr.
 
 Anchored Artifacts: A-2968.1
-Mentions: N-3, N-819
+Mentions: N-3, N-818
 Related Nodes: N-11193
 Tags: relevance:core
 Investigative Direction: Obtain the court name-change record and compare it with the host's report.
@@ -1490,7 +1490,7 @@ Claim: The host says Rawlinson told her in a conversation that he had legally ch
 Transcript Snippet: he claimed that he had legally changed his name uh recently because he wanted separation from his father.
 
 Anchored Artifacts: A-2968.1
-Mentions: N-3, N-819
+Mentions: N-3, N-818
 Related Nodes: N-11193
 Tags: relevance:core
 Investigative Direction: Retrieve the name-change petition and its filing date from the relevant court.
@@ -1506,7 +1506,7 @@ Claim: The host says Rawlinson claimed his father got in trouble for child abuse
 Transcript Snippet: he claimed that his father got in trouble for child abuse, for harming children.
 
 Anchored Artifacts: A-2968.1
-Mentions: N-3, N-819
+Mentions: N-3, N-818
 Related Nodes: N-11193
 Tags: relevance:context
 Investigative Direction: Search court and sex-offender registries for any matching record; the host reports she has found none.
@@ -1522,7 +1522,7 @@ Claim: The host says she thought it odd that she could not find, if Rawlinson's 
 Transcript Snippet: I can't seem to find that anywhere registered.
 
 Anchored Artifacts: A-2968.1
-Mentions: N-3, N-819
+Mentions: N-3, N-818
 Related Nodes: N-11193
 Tags: relevance:context
 Investigative Direction: Search civil and military court records for the father; the host suggests an air base prosecution may not appear in ordinary searches.
@@ -1538,7 +1538,7 @@ Claim: The host says Rawlinson joined Army boot camp in 2011 and was promoted to
 Transcript Snippet: he joined Army boot camp in 2011. He was promoted to a corporal and/or specialist at the beginning of 2014 for the Utah National Guard.
 
 Anchored Artifacts: 
-Mentions: N-3, N-819
+Mentions: N-3, N-818
 Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Request Rawlinson's service record (DD-214 or National Guard personnel file) to confirm enlistment and promotion dates.
@@ -1602,7 +1602,7 @@ Claim: The host says that at the same time Rawlinson was reportedly in Romania (
 Transcript Snippet: Curtis Colvett, Andrew Kolvet's brother, uh who was, I believe, Nevada National Guard, running the as a lieutenant colonel for the Nevada National Guard
 
 Anchored Artifacts: 
-Mentions: N-692, N-14, N-819
+Mentions: N-692, N-14, N-818
 Related Nodes: N-10697
 Supports: C-4693
 Tags: relevance:core
@@ -1619,7 +1619,7 @@ Claim: The host says she asked Rawlinson five separate times whether he had serv
 Transcript Snippet: I asked him five separate times if he had served overseas uh in Romania, whether his father had served overseas.
 
 Anchored Artifacts: 
-Mentions: N-3, N-819
+Mentions: N-3, N-818
 Related Nodes: N-10697, N-11193
 Tags: relevance:core
 Investigative Direction: Obtain the host's message exchange with Rawlinson and Rawlinson's own statement on any Romania service.
@@ -1635,7 +1635,7 @@ Claim: The host says that as a maroon beret Rawlinson would particularly have be
 Transcript Snippet: he would particularly have been a part of the 82nd Airborne Task Force 82, an elite rapidly deployable unit capable of deploying anywhere in the world in just 18 hours
 
 Anchored Artifacts: A-2107.1
-Mentions: N-3, N-819
+Mentions: N-3, N-818
 Related Nodes: N-10697
 Supports: C-2976
 Tags: relevance:context
@@ -1832,7 +1832,7 @@ Claim: The host says Jean-Luc Brunel, alongside his brother Arnaud Brunel, found
 Transcript Snippet: He was actually the founder alongside his brother, Arnaud Brunel, of a modeling agency in New York City.
 
 Anchored Artifacts: 
-Mentions: N-531, N-820, N-572, N-3
+Mentions: N-531, N-819, N-572, N-3
 Related Nodes: N-10532
 Tags: relevance:core
 Investigative Direction: Check New York corporate records and press for the founders of Next Model Management; Faith Kates is usually named as its founder.
@@ -1848,7 +1848,7 @@ Claim: The host says Jean-Luc Brunel and his brother founded the Next Model Corp
 Transcript Snippet: Jean-Luc Brunel and his brother founded the Next Model Corporation. And from that spun the Next Model Management modeling agency.
 
 Anchored Artifacts: 
-Mentions: N-531, N-820, N-572
+Mentions: N-531, N-819, N-572
 Related Nodes: N-10532
 Tags: relevance:core
 Investigative Direction: Obtain Next Model corporate formation records and ownership history.
@@ -2353,7 +2353,7 @@ Claim: The host says the dispatch-connected company is in partnership with Carby
 Transcript Snippet: of course in partnership with Israel with Carbyne created by Ehud Barak
 
 Anchored Artifacts: 
-Mentions: N-733, N-821, N-3
+Mentions: N-733, N-820, N-3
 Related Nodes: N-11196, N-11197
 Tags: relevance:core
 Investigative Direction: Verify Carbyne's founders and any partnership or contract with the dispatch company the host means.
@@ -2450,7 +2450,7 @@ Claim: The host says it does not seem that Nicole Rothchild is Erika's blood cou
 Transcript Snippet: it doesn't actually seem like Nicole Rothchild is her blood cousin but she certainly was involved in real estate with that family.
 
 Anchored Artifacts: 
-Mentions: N-822, N-2, N-3
+Mentions: N-821, N-2, N-3
 Related Nodes: N-10520
 Tags: relevance:core
 Investigative Direction: Identify Nicole Rothchild, her relation to Erika Kirk and any shared real estate ventures.

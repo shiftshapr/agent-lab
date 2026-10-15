@@ -1205,8 +1205,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-758",
-      "ref": "N-758",
+      "@id": "N-757",
+      "ref": "N-757",
       "name": "Claire Ginan",
       "type": "person",
       "description": "Jezebel writer the host links to the Etsy curse.",
@@ -2989,7 +2989,7 @@
         "C-1274"
       ],
       "mentions_person_refs": [
-        "N-758"
+        "N-757"
       ]
     },
     {
@@ -3016,7 +3016,7 @@
         "C-1274"
       ],
       "mentions_person_refs": [
-        "N-758",
+        "N-757",
         "N-1"
       ]
     },

@@ -1408,8 +1408,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-807",
-      "ref": "N-807",
+      "@id": "N-806",
+      "ref": "N-806",
       "name": "Savannah Guthrie",
       "type": "person",
       "description": "First named by the host at 00:46:33 in episode 73 (transcript: 'Savannah Guthri'). Television host whose mother's reported abduction the host discusses.",
@@ -1427,8 +1427,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-808",
-      "ref": "N-808",
+      "@id": "N-807",
+      "ref": "N-807",
       "name": "Kid Rock",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 73. Performer named in the halftime informant account, who the informants say they waited on longest.",
@@ -1445,8 +1445,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-809",
-      "ref": "N-809",
+      "@id": "N-808",
+      "ref": "N-808",
       "name": "Bad Bunny",
       "type": "person",
       "description": "First named by the host at 00:39:40 in episode 73. Performer of the official Super Bowl halftime show to which the TPUSA show was compared.",
@@ -2982,7 +2982,7 @@
       "transcript_snippet": "a lot of them were fans of Bad Bunny and they were certain it was not going to rival that performance.",
       "mentions_person_refs": [
         "N-3",
-        "N-809"
+        "N-808"
       ]
     },
     {
@@ -3071,7 +3071,7 @@
       "transcript_snippet": "They waited the longest for Kid Rock.",
       "mentions_person_refs": [
         "N-3",
-        "N-808"
+        "N-807"
       ]
     },
     {
@@ -3121,7 +3121,7 @@
       "transcript_snippet": "he also said to them that this is going to get more views than the Bad Bunny halftime show.",
       "mentions_person_refs": [
         "N-3",
-        "N-809",
+        "N-808",
         "N-5"
       ]
     },
@@ -3146,7 +3146,7 @@
       "transcript_snippet": "Turning Point did cover their hotel rooms, but they were placed with a random person.",
       "mentions_person_refs": [
         "N-3",
-        "N-808"
+        "N-807"
       ]
     },
     {
@@ -3232,7 +3232,7 @@
       "transcript_snippet": "I'm referring to that same uh, storyline of TMZ somehow gets the tape.",
       "mentions_person_refs": [
         "N-3",
-        "N-807",
+        "N-806",
         "N-69"
       ]
     },
@@ -3256,7 +3256,7 @@
       "transcript_snippet": "I would check out those Native American reservations because the feds do deals with them and nothing good goes on.",
       "mentions_person_refs": [
         "N-3",
-        "N-807",
+        "N-806",
         "N-9"
       ]
     },
@@ -3280,7 +3280,7 @@
       "transcript_snippet": "And I do think that part of it was to distract us.",
       "mentions_person_refs": [
         "N-3",
-        "N-807"
+        "N-806"
       ]
     },
     {

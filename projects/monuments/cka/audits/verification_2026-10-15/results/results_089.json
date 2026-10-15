@@ -1,0 +1,841 @@
+[
+ {
+  "claim": "C-14236",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14237",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2149",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Rubin's tweet content ('I told him I hated Charlie Kirk', Jared/Ivanka rant) is spoken ~31:00-31:10; the claim at 28:43 is over 2 minutes early.",
+  "fix": {
+   "timestamp": "00:30:50"
+  }
+ },
+ {
+  "claim": "C-2150",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2151",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Erika and an unnamed friend; Jessica Ghawi is not named until ~12:10 (she is not identified as the friend). N-480 is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2152",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "The interviewer says the military is 'run by sexual deviants'/'a mind control operation'; Griggs only answers 'Truly'/'Yes'. Content is spoken at 21:10-21:50, ~100s after 19:31.",
+  "fix": {
+   "claim": "In a clip the host plays, an interviewer puts to Katherine Pollard Griggs that her husband, Colonel George Griggs, told her the U.S. military is literally run by sexual deviants and is a mind control operation that seeks out people like Jeffrey Dahmer, Kaczynski, McVeigh and Oswald for intelligence work because they are 'so easy to control', and she answers 'Yes'.",
+   "timestamp": "00:21:05"
+  }
+ },
+ {
+  "claim": "C-2153",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says she finds Griggs believable and that looking into military history 'this is what you discover'; 'corrupted at the command level' and 'since at least JFK' are not said in this passage.",
+  "fix": {
+   "claim": "The host says she finds Griggs believable, that what Griggs describes does not surprise her, and that anyone who looks even slightly into the history of the U.S. military, such as MK Ultra, will discover the same thing."
+  }
+ },
+ {
+  "claim": "C-2154",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript says 'Elizabeth McCoy'; node is Eliza McCoy. unresolved name: Elizabeth McCoy",
+  "fix": {}
+ },
+ {
+  "claim": "C-2155",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2156",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Donor line is Coleman's ('in my opinion'), host answers 'Right'/'Absolutely'; he also offers fear- or pride-based explanations. Hedges dropped.",
+  "fix": {
+   "claim": "Baron Coleman says, and the host agrees, that in his opinion Trump's Greenland push is not in the best interest of the United States and looks driven by a donor or supporter's pecuniary interest, alongside possible fear- or pride-based motives.",
+   "mentions": [
+    "N-481",
+    "N-332"
+   ]
+  }
+ },
+ {
+  "claim": "C-2157",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3659",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5485",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5486",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5487",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5488",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Coleman: 'if you can fire 40 people from an organization of only 6 or 700 and keep the lights on, you've got a problem with how you're managing'. He argues overstaffing, not a large share lost.",
+  "fix": {
+   "claim": "Baron Coleman says TPUSA is an organization of only about 600 or 700 people, and that if it can fire 40 and keep the lights on the next day it has a problem with how it is managing the organization."
+  }
+ },
+ {
+  "claim": "C-5489",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5490",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Speaker at 03:55-04:42 is the host (continues into 'when I shared the Mitch Snow thing... I forgot to mention yesterday'), not Coleman.",
+  "fix": {
+   "claim": "The host says TPUSA's account of the drones has kept changing until a lawyer said there were drones, but they were for the media only and not for the security team.",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-5491",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host speaks at 04:42 ('when I shared the Mitch Snow thing', 'I forgot to mention yesterday'); Coleman answers at 05:43.",
+  "fix": {
+   "claim": "The host says everyone in the film that was never released is related to Fort Huachuca and the Sierra Vista area.",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-5492",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Same host passage at 04:42, not Coleman.",
+  "fix": {
+   "claim": "The host says Erika Kirk has been very open that her mother had Department of Defense contracts, and that once you look into what the mother did, Erika is clearly familiar with Fort Huachuca.",
+   "mentions": [
+    "N-3",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-5493",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'I forgot to mention yesterday that Dan Flood's father ran Intel at Fort Huachuca'; not Coleman.",
+  "fix": {
+   "claim": "The host says she learned that Dan Flood's father ran Intel at Fort Huachuca.",
+   "mentions": [
+    "N-3",
+    "N-272"
+   ]
+  }
+ },
+ {
+  "claim": "C-5494",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5495",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5496",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Speaker at 05:43 is Coleman ('in my opinion, 100% opinion'; 'my Turning Point insider told me'), answering the host's tip; same passage C-5495 gives to Coleman.",
+  "fix": {
+   "claim": "Baron Coleman says his Turning Point insider told him that before Charlie Kirk died there was a back and forth between Kirk and Dan Flood in which Kirk was going to demote Flood.",
+   "mentions": [
+    "N-332",
+    "N-1",
+    "N-272"
+   ]
+  }
+ },
+ {
+  "claim": "C-5497",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "The 06:35 passage continues Coleman's turn from 05:43; the host only asks about Brian Harpole afterwards.",
+  "fix": {
+   "claim": "Baron Coleman says Dan Flood was protecting Erika Kirk at the White House when the Charlie Kirk Day was held, after Erika became CEO without removing him from the security team.",
+   "mentions": [
+    "N-332",
+    "N-272",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-5498",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'I've even got something that I'm going to reveal tomorrow about her parents' is Coleman's turn (07:14, 'Everything I say is opinion'), handing to the host with 'And but you.'",
+  "fix": {
+   "claim": "Baron Coleman says he will reveal the next day that Erika Kirk's parents worked with somebody who was accused of something to do with children.",
+   "mentions": [
+    "N-332",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-5499",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5500",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Coleman explains the Miss Arizona account and the 2012 shooting ('We can show this'); host then says 'as he was explaining' at 09:46.",
+  "fix": {
+   "claim": "Baron Coleman says the 2012 Aurora theater shooter walked in wearing tactical gear and throwing smoke grenades, which he says looks pretty military in retrospect.",
+   "mentions": [
+    "N-332"
+   ]
+  }
+ },
+ {
+  "claim": "C-5501",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5502",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host sarcastically relays the official story ('we're told', 'oh there's another shooting same story'); transcript spells 'Aubrey Hale', real name Audrey Hale (Covenant School shooter).",
+  "fix": {
+   "claim": "The host says Rob McCoy happens to be in Nashville when there is another shooting, same story, which she describes as the official account that a trans person she calls Aubrey Hale went crazy and shot up an elementary school.",
+   "names": [
+    {
+     "wrong": "Aubrey Hale",
+     "right": "Audrey Hale",
+     "source": "https://en.wikipedia.org/wiki/Covenant_School_shooting"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-5503",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5504",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5505",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'the town the host links to Dan Flood' is not in the passage; Coleman only asks 'what goes on in New Braunfels Texas that Jessica Ghawi also lived there'. Speaker at 13:01 is ambiguous.",
+  "fix": {
+   "claim": "Baron Coleman says Jessica Ghawi used to live in New Braunfels, Texas, and asks what goes on in New Braunfels.",
+   "mentions": [
+    "N-332",
+    "N-480"
+   ]
+  }
+ },
+ {
+  "claim": "C-5506",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Speaker ambiguous (a '>>' turn precedes it); left as recorded.",
+  "fix": {}
+ },
+ {
+  "claim": "C-5507",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "From 'Right and strangely...' (13:48) the host speaks through 16:55 ('I did take some notes', 'I told you Charles was to speak'); Coleman only says 'shot in the rear end'.",
+  "fix": {
+   "claim": "The host says that, rather than leaving her where she lay, two police officers went into the theater, pulled Jessica Ghawi into a police car and took her to a hospital.",
+   "mentions": [
+    "N-3",
+    "N-480"
+   ]
+  }
+ },
+ {
+  "claim": "C-5508",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'I did take some notes on that so I just want to get that right'; same continuous host turn as 14:50.",
+  "fix": {
+   "claim": "The host says Aurora, Colorado had the Buckley Air Force Base from the year 2000 to 2021, which is now a Space Force base, so there is a military presence there.",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-5509",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "14:50 block is the host ('I told you Charles was to speak...', 'where my eye went to when I looked at the victims').",
+  "fix": {
+   "claim": "The host says that in the Aurora theater alone there were a ton of military guys among the victims.",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-5510",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "14:50 block is the host's turn, not Coleman's.",
+  "fix": {
+   "claim": "The host says Jessica Ghawi's father's obituary did not mention her though he was mentioned in hers, and that the father adopted a young boy after she left the house.",
+   "mentions": [
+    "N-3",
+    "N-480"
+   ]
+  }
+ },
+ {
+  "claim": "C-5511",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5512",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5513",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5514",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5515",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5516",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5517",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5518",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5519",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5520",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5521",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5522",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Peter Thiel ('Peter Thiel's house') but Mentions omits N-523.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-27",
+    "N-32",
+    "N-523"
+   ]
+  }
+ },
+ {
+  "claim": "C-5523",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5524",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5525",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5526",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host hedges 'if I'm correct, Texas is where he moved to'; claim states Texas flatly.",
+  "fix": {
+   "claim": "The host says Rubin told her they pushed the young employee to go on a date with a guy and have his first kiss, after which the employee quit and moved, she thinks to Texas, and she says it was obvious to her they were grooming him."
+  }
+ },
+ {
+  "claim": "C-5527",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5528",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'Dave Rubin... that he complained he's such a cheap ass... one of the reasons him and Charlie had a falling out'; the cheap target is not Rubin (she then describes Rubin criticizing Thiel over a loan).",
+  "fix": {
+   "claim": "The host says Dave Rubin complained that someone was 'such a cheap ass' and that this was one of the reasons he and Charlie Kirk had a falling out; she says she will get to it in a second, and does not name the target in that sentence."
+  }
+ },
+ {
+  "claim": "C-5529",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5530",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5531",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5532",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Speaker at 46:48 ('went mask down', 'operation mocking pastor') answers Coleman's 'I'm done with it'; the next turn says 'preaching about Tucker Carlson and Candace Owens' in the third person (Coleman).",
+  "fix": {
+   "claim": "The host says Protestant and Evangelical churches are definitely experiencing a mass exodus.",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ }
+]

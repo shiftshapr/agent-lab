@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: a1f3c6dfa924e1a32b03c50b03b00f101fbd284665dcd6d81eb0bac4b30dbf95
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-896
+  - Tip-minted Nodes (supplement_2026-10e): N-895
   - Hole-minted Nodes (reintro-ep093): N-350
   - Tip-minted Nodes (reintro-ep093): N-652
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11436–C-11491
   - New Nodes Introduced: N-10616, N-10617, N-10618, N-10619, N-10622
-  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10620, N-10621, N-5, N-9, N-14, N-19, N-28, N-33, N-36, N-40, N-47, N-54, N-66, N-97, N-239, N-272, N-280, N-502, N-598, N-663, N-711, N-894, N-10000, N-10023, N-10070, N-10110, N-10237, N-10340, N-10443, N-10539, N-10574, N-10598, N-10600, N-10601, N-10602, N-10607, N-10608, N-10613, N-10646, N-10694, N-10956, N-11054, N-11128, N-11182, N-345
+  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10620, N-10621, N-5, N-9, N-14, N-19, N-28, N-33, N-36, N-40, N-47, N-54, N-66, N-97, N-239, N-272, N-280, N-502, N-598, N-663, N-711, N-893, N-10000, N-10023, N-10070, N-10110, N-10237, N-10340, N-10443, N-10539, N-10574, N-10598, N-10600, N-10601, N-10602, N-10607, N-10608, N-10613, N-10646, N-10694, N-10956, N-11054, N-11128, N-11182, N-345
   - (see registers)
 
 ## 2. Executive Summary
@@ -415,7 +415,7 @@ Video Timestamp: 00:07:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11440, N-2, N-894*
+*Related: C-11440, N-2, N-893*
 
 ---
 
@@ -957,7 +957,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-894** Bettina Anderson
+**N-893** Bettina Anderson
 
 First named by the host at 00:07:27 in episode 93 as Bettina, soon-to-be Trump, whose bridal shower Erika attended.
 Aliases: Bettina
@@ -966,7 +966,7 @@ Aliases: Bettina
 
 ---
 
-**N-896** Adnan Khashoggi
+**N-895** Adnan Khashoggi
 
 First named by the host at 00:39:19 in episode 93 as the arms dealer Epstein was initially brought in to deal with, per Ostrovsky.
 
@@ -1345,7 +1345,7 @@ Claim: The host says Erika Kirk flew into Palm Beach on Saturday evening for Bet
 Transcript Snippet: Erika Kirk flew into Palm Beach because she was attending Bettina's bridal shower which took place on Sunday.
 
 Anchored Artifacts: A-3135.1
-Mentions: N-2, N-894, N-33, N-663
+Mentions: N-2, N-893, N-33, N-663
 Related Nodes: N-10616
 Tags: relevance:context
 Investigative Direction: Obtain the photos and event coverage of the shower and flight records for the Saturday arrival into Palm Beach.
@@ -1876,7 +1876,7 @@ Claim: The host says Victor Ostrovsky said the same thing, that Epstein was init
 Transcript Snippet: He was initially brought in regarding the Iran-Contra deal in the '80s.
 
 Anchored Artifacts: 
-Mentions: N-502, N-9, N-896
+Mentions: N-502, N-9, N-895
 Related Nodes: N-10023
 Supports: C-8207
 Tags: relevance:context

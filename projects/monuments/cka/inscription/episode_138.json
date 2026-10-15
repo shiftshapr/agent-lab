@@ -2078,8 +2078,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-780",
-      "ref": "N-780",
+      "@id": "N-779",
+      "ref": "N-779",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -2113,8 +2113,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-819",
-      "ref": "N-819",
+      "@id": "N-818",
+      "ref": "N-818",
       "name": "David Sprag",
       "type": "person",
       "description": "First named by the host at 00:02:40 in episode 138 as the man who started the USA chant after the shot; the host says he was formerly James Rollinsson (transcribed Rollinsson).",
@@ -2130,8 +2130,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-827",
-      "ref": "N-827",
+      "@id": "N-826",
+      "ref": "N-826",
       "name": "Kassy Akiva",
       "type": "person",
       "description": "First named by the host at 00:18:45 in episode 138 as a Daily Wire employee who collaborated with the group chat organizer.",
@@ -2147,8 +2147,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-828",
-      "ref": "N-828",
+      "@id": "N-827",
+      "ref": "N-827",
       "name": "Perez Hilton",
       "type": "person",
       "description": "First named by the host at 00:30:40 in episode 138 as the celebrity blogger in the news over a live-streamed self-harm incident.",
@@ -2169,8 +2169,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-829",
-      "ref": "N-829",
+      "@id": "N-828",
+      "ref": "N-828",
       "name": "Khloe Kardashian",
       "type": "person",
       "description": "First named by the host at 00:31:00 in episode 138 as a celebrity Perez Hilton targeted.",
@@ -2186,8 +2186,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-830",
-      "ref": "N-830",
+      "@id": "N-829",
+      "ref": "N-829",
       "name": "Miley Cyrus",
       "type": "person",
       "description": "First named by the host at 00:31:15 in episode 138 as the subject of an alleged Perez Hilton photo post at age 17.",
@@ -2660,7 +2660,7 @@
       "transcript_snippet": "He goes by David Sprag, but he actually changed his name. It used to be James Rollinsson.",
       "mentions_person_refs": [
         "N-3",
-        "N-819"
+        "N-818"
       ]
     },
     {
@@ -2731,7 +2731,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-780",
+        "N-779",
         "N-40"
       ]
     },
@@ -2756,7 +2756,7 @@
         "N-3",
         "N-37",
         "N-14",
-        "N-780"
+        "N-779"
       ]
     },
     {
@@ -3338,7 +3338,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-827",
+        "N-826",
         "N-439",
         "N-22"
       ]
@@ -3588,8 +3588,8 @@
       "transcript_snippet": "he really targeted her and referred to her as a transvestite over and over again.",
       "mentions_person_refs": [
         "N-3",
-        "N-828",
-        "N-829"
+        "N-827",
+        "N-828"
       ]
     },
     {
@@ -3608,8 +3608,8 @@
       "transcript_snippet": "he posted an upskirt photo of Miley Cyrus, who was then just 17 years old.",
       "mentions_person_refs": [
         "N-3",
-        "N-828",
-        "N-830"
+        "N-827",
+        "N-829"
       ]
     },
     {
@@ -3630,7 +3630,7 @@
       "transcript_snippet": "He chose to have three children, one in 2013, one in 2015, and one in 2017.",
       "mentions_person_refs": [
         "N-3",
-        "N-828"
+        "N-827"
       ]
     },
     {
@@ -3651,7 +3651,7 @@
       "transcript_snippet": "on March 23rd, he posted videos of himself from a hospital bed and said he almost died from severe sepsis and infections.",
       "mentions_person_refs": [
         "N-3",
-        "N-828"
+        "N-827"
       ]
     },
     {
@@ -3675,7 +3675,7 @@
       "transcript_snippet": "which ran live on TikTok, Perez Hilton was fully naked, drenched in blood with multiple cuts all over his body and he was cutting himself.",
       "mentions_person_refs": [
         "N-3",
-        "N-828"
+        "N-827"
       ]
     },
     {
@@ -3698,7 +3698,7 @@
       "transcript_snippet": "He's on video and he's saying things like, \"I am doing this for my children.\"",
       "mentions_person_refs": [
         "N-3",
-        "N-828"
+        "N-827"
       ]
     },
     {

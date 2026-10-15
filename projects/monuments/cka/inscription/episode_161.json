@@ -1679,8 +1679,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-874",
-      "ref": "N-874",
+      "@id": "N-873",
+      "ref": "N-873",
       "name": "Dana White",
       "type": "person",
       "description": "First named by the host at 00:30:50 in episode 161 (reading the Atlantic article). UFC CEO listed among those Blake Wynn says sat near Trump at Mar-a-Lago on election night 2024.",
@@ -1696,8 +1696,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-875",
-      "ref": "N-875",
+      "@id": "N-874",
+      "ref": "N-874",
       "name": "Steve Witkoff",
       "type": "person",
       "description": "First named by the host at 00:30:50 in episode 161 (transcribed \"Steve Witco\"). Trump's friend and special envoy, listed in the same Mar-a-Lago election-night account.",
@@ -1768,8 +1768,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-746",
-      "ref": "N-746",
+      "@id": "N-745",
+      "ref": "N-745",
       "name": "Howard Hughes",
       "type": "person",
       "description": "Las Vegas billionaire whose company the host says was chopped up.",
@@ -2891,8 +2891,8 @@
         "N-354",
         "N-5",
         "N-118",
-        "N-874",
-        "N-875"
+        "N-873",
+        "N-874"
       ]
     },
     {
@@ -3175,7 +3175,7 @@
       "investigative_direction": "Verify the post-Hughes ownership history of Hughes Summa assets in Las Vegas.",
       "transcript_snippet": "after his company got chopped up. Adelson got a piece. The Wind family got a piece.",
       "mentions_person_refs": [
-        "N-746"
+        "N-745"
       ]
     },
     {

@@ -44,7 +44,7 @@
 
 ## II. Executive Summary
 
-This episode advances the investigation along three evidentiary tracks. First, the host reads a Daily Mail article defending Erica Kirk against "grief policing" and quotes its two cited experts (Dr. Allen Wolft and Bidwell Smith), using the published text as an artifact anchor for the public defense framing around Erica's behavior.
+This episode advances the investigation along three evidentiary tracks. First, the host reads a Daily Mail article defending Erica Kirk against "grief policing" and quotes its two cited experts (Dr. Alan Wolfelt and Bidwell Smith), using the published text as an artifact anchor for the public defense framing around Erica's behavior.
 
 Second, the host introduces a new donor-targeting narrative supported by a first-person email from a Catholic attendee of the memorial and mass. The email, read aloud, supplies artifact-anchored details about Father Blank (the priest who flew with Erica to Utah, prayed at the hospital, and delivered the homily at the private funeral), including a 6:30am text mentioning "Erika may be there too" and a follow-up reply stating "God's fingerprints are all over" the donor's connection to Erica. A separately introduced TPUSA text references a $6 million memorial cost tied to a displaced "lucrative RV show" at Cardinal Stadium; the host claims she checked the Wayback Machine and found no such RV show on the calendar.
 
@@ -227,7 +227,7 @@ Confidence Level: High
 ## IV. Node Register
 
 
-**N-514** Dr. Allen Wolft
+**N-514** Dr. Alan Wolfelt
 
 Colorado-based death educator and grief counselor quoted in the Daily Mail article as attributing public criticism of Erica Kirk to "mourning avoidant, emotion phobic culture."
 
@@ -494,9 +494,9 @@ Alex Clark; interviewer whose interview with Kolvet the donor and the host dispu
 
 ---
 
-**N-725** Rabbi Barlay
+**N-725** Rabbi Michael Barclay
 
-Rabbi Barlay (the transcript spells him Rabbi Barklay); the host says her debate with him and his interview shaped her view of Zionism.
+Rabbi Barclay (the transcript spells him Rabbi Barklay); the host says her debate with him and his interview shaped her view of Zionism.
 
 *Related: C-8375*
 
@@ -654,11 +654,11 @@ Investigative Direction: Retrieve full Daily Mail article text and verify quotes
 
 ---
 
-**C-2240** Daily Mail article quotes Dr. Allen Wolft and Bidwell Smith defending Kirk's hyperfunctioning
+**C-2240** Daily Mail Article Quotes Dr. Alan Wolfelt and Bidwell Smith Defending Kirk's Hyperfunctioning
 
 Claim Timestamp: 00:04:11
 
-Claim: Dr. Allen Wolft characterizes criticism of Kirk as reflecting "mourning avoidant, emotion phobic culture"; Bidwell Smith states "widows are uniquely grief policed" and that "grief is not a performance and survival is not a moral failure."
+Claim: Dr. Alan Wolfelt characterizes criticism of Kirk as reflecting "mourning avoidant, emotion phobic culture"; Bidwell Smith states "widows are uniquely grief policed" and that "grief is not a performance and survival is not a moral failure."
 
 Anchored Artifacts: A-1704.1
 Mentions: N-2, N-514, N-515
@@ -694,7 +694,7 @@ Investigative Direction: Obtain and compare the full transcripts of both memoria
 
 Claim Timestamp: 00:13:09
 
-Claim: A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erica when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. Stacy Sheridan was the person who tapped the donor's shoulder at the post-mass church and invited her to sit with Erica.
+Claim: A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erica when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. The host says the woman who tapped the donor's shoulder at the post-mass church and invited her to sit with Erica was Stacy Sheridan.
 
 Anchored Artifacts: A-1706.1
 Mentions: N-2, N-188, N-516
@@ -717,12 +717,12 @@ Investigative Direction: Obtain phone records or screenshots of the actual text 
 
 **C-2245** Donor Tells Host She Gave Erica Kirk a Relic of St. Paul II
 
-Claim Timestamp: 00:17:30
+Claim Timestamp: 00:18:53
 
-Claim: In an email from a Catholic donor that the host reads, the donor says she arranged to fly a relic of St. Paul II from Chicago and personally delivered it to Erica Kirk at mass.
+Claim: In an email from a Catholic donor that the host reads, the donor says she had relics of St. Paul II that her mom wanted to give Erika Kirk, arranged for someone to fly them to her, and then gave them to Erika.
 
 Anchored Artifacts: A-1706.1
-Mentions: N-2, N-516
+Mentions: N-2
 Investigative Direction: Cross-check donor's account with Erica Kirk's public acknowledgment of receiving relics.
 
 ---
@@ -746,7 +746,7 @@ Claim Timestamp: 00:24:55
 Claim: A text from TPUSA "Blank" introducing the donor states the memorial will cost approximately $6 million, that Trump was personally involved in securing Cardinal Stadium, and that the high cost was driven by displaced revenue from a "large and lucrative RV show" originally scheduled that weekend.
 
 Anchored Artifacts: A-1709.1
-Mentions: N-2, N-517
+Mentions: N-517
 Related Nodes: N-10466, N-10469
 Investigative Direction: Verify Cardinal Stadium event calendar for that weekend; cross-check White House or Trump campaign communications about venue booking; trace the TPUSA "Blank" staffer identity.
 
@@ -807,7 +807,7 @@ Claim Timestamp: 00:47:00
 Claim: The host plays a clip that she says shows Don Lemon on camera at a Minnesota church protest questioning a pastor whose church works with ICE.
 
 Anchored Artifacts: A-1711.1
-Mentions: N-85, N-518
+Mentions: N-518
 Investigative Direction: Confirm the underlying church affiliation and ICE relationship; verify the federal charges basis for Don Lemon's subsequent arrest.
 
 ---
@@ -844,11 +844,11 @@ Investigative Direction: Look for payment records, sponsorship disclosures or co
 
 ---
 
-**C-8319** Daily Mail Article Has Dr. Wolft Calling Erika's Getting Dressed and Making Up a Survival Tactic
+**C-8319** Daily Mail Article Has Dr. Wolfelt Calling Erika's Getting Dressed and Making Up a Survival Tactic
 
 Claim Timestamp: 00:04:59
 
-Claim: The host reads from the Daily Mail article that Dr. Allen Wolft suspects Erika Kirk's insistence on getting up, getting dressed, putting on makeup and fighting for something she believes in daily is a classic emotional survival tactic.
+Claim: The host reads from the Daily Mail article that Dr. Alan Wolfelt suspects Erika Kirk's insistence on getting up, getting dressed, putting on makeup and fighting for something she believes in daily is a classic emotional survival tactic.
 
 Transcript Snippet: Dr. Wolf similarly suspects that Kirk's insistence on getting up and getting dressed and putting on makeup and fighting for something she believes in every day is a classic emotional survival tactic.
 
@@ -872,7 +872,7 @@ Transcript Snippet: Vanessa was suing everybody. She was suing people who releas
 Anchored Artifacts: 
 Mentions: N-520, N-519, N-3
 Supports: C-2242
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check court dockets for Vanessa Bryant's suits over the crash photos and against the helicopter operator to confirm the host's description of her litigation.
 
 ---
@@ -888,7 +888,7 @@ Transcript Snippet: when she gave her first interview, just so you know, that wa
 Anchored Artifacts: 
 Mentions: N-520, N-519, N-3
 Supports: C-2242
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the date and venue of Vanessa Bryant's first post-crash interview and the Hall of Fame induction coverage against the host's account.
 
 ---
@@ -937,7 +937,7 @@ Transcript Snippet: I got an email from a woman, Catholic woman, back in October
 Anchored Artifacts: A-1706.1
 Mentions: N-3
 Related Nodes: N-10467
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Check the date of the original email in the host's inbox; compare with the host's later remark at 00:20:53 that she sent her reply back in October.
 
 ---
@@ -969,7 +969,7 @@ Transcript Snippet: I was at the memorial having zero personal or prior involvem
 Anchored Artifacts: A-1706.1
 Mentions: 
 Related Nodes: N-10000, N-10467
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Check the donor's donation or event history with TPUSA; the host later says the donor is extraordinarily wealthy (00:21:52).
 
 ---
@@ -985,7 +985,7 @@ Transcript Snippet: I had to pause it when you played Alex Clark's interview bec
 Anchored Artifacts: A-1706.1
 Mentions: N-99, N-3
 Related Nodes: N-11183
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the Alex Clark interview the host played and the specific statements the donor found untruthful; compare with TPUSA's account.
 
 ---
@@ -1001,7 +1001,7 @@ Transcript Snippet: I spent a good eight hours sitting with Father Blank. I'm sh
 Anchored Artifacts: A-1706.1
 Mentions: N-516
 Related Nodes: N-10002
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Check the memorial seating chart and credential records for the third-row sections and who sat in them.
 
 ---

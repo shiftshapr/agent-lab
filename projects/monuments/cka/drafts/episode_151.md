@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 7bb121d0ec2fb6f7ef5f449856c387ad97b4f7d167aa9b95601e197b3fa147dc
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-903, N-11311
+  - Tip-minted Nodes (supplement_2026-10e): N-902, N-11311
   - Hole-minted Nodes (reintro-ep151): N-10864
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11757–C-11803
@@ -34,7 +34,7 @@
   - Artifact Families Introduced: A-2362, A-2363, A-2364, A-2365, A-2366, A-2367, A-2368, A-2369, A-2370, A-2371, A-2372, A-2373, A-2521
   - Claim Range: C-3426–C-3444, C-3746
   - New Nodes Introduced: N-10827, N-10829, N-10830
-  - Reused Nodes Appearing: N-11, N-508, N-248, N-3, N-60, N-368, N-608, N-614, N-10000, N-10014, N-10040, N-10043, N-10100, N-10104, N-10107, N-10164, N-10172, N-10398, N-10416, N-10447, N-10537, N-10573, N-10651, N-10699, N-10737, N-10797, N-10810, N-10900, N-10925, N-10974, N-11053, N-902, N-10828, N-11310
+  - Reused Nodes Appearing: N-11, N-508, N-248, N-3, N-60, N-368, N-608, N-614, N-10000, N-10014, N-10040, N-10043, N-10100, N-10104, N-10107, N-10164, N-10172, N-10398, N-10416, N-10447, N-10537, N-10573, N-10651, N-10699, N-10737, N-10797, N-10810, N-10900, N-10925, N-10974, N-11053, N-901, N-10828, N-11310
   - Existing Nodes Reused (by name – IDs require ledger resolution): Charlie Kirk, Erica Kirk, Frank Turek, Brian Harpole, Blake Harreff, Tyler Robinson, Terrell Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
 
 ---
@@ -81,7 +81,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:11:11
-Speaker: N-903
+Speaker: N-902
 Quote: he so desperately wanted to say yanking and baking right there
 Context: Bobby Sausalito, in the clip, jokes about Turek's phrase.
 Tags: turek, cpr
@@ -847,7 +847,7 @@ Alex Clark; trailer, blocking of commenters and the Catholic-remark episode.
 
 ---
 
-**N-902** Blake Harreff
+**N-901** Blake Harreff
 
 First named by the host at 00:01:49 in episode 151. Member of Charlie Kirk's security detail on September 10.
 
@@ -855,7 +855,7 @@ First named by the host at 00:01:49 in episode 151. Member of Charlie Kirk's sec
 
 ---
 
-**N-903** Bobby Sausalito
+**N-902** Bobby Sausalito
 
 First named by the host at 00:07:25 in episode 151. Commentator (Instagram handle take.naps) whose clip about Turek the host plays.
 
@@ -1164,7 +1164,7 @@ Claim: The host says Blake Harreff, a member of Charlie Kirk's security detail o
 Transcript Snippet: we discovered that rather mysteriously uh he's wearing scrubs from Temponogus Hospital. Presumably by nighttime he's wearing hospital scrubs.
 
 Anchored Artifacts: A-3158.1
-Mentions: N-902, N-7, N-3
+Mentions: N-901, N-7, N-3
 Related Nodes: N-11310
 Supports: C-3552, C-3551, C-3550
 Tags: relevance:core
@@ -1181,7 +1181,7 @@ Claim: The host says that, per stories shared by Frank Turek, everybody was bein
 Transcript Snippet: on the basis of the stories that have been shared by Frank Couturk. Everybody they were just handing these scrubs out.
 
 Anchored Artifacts: 
-Mentions: N-7, N-902
+Mentions: N-7, N-901
 Related Nodes: N-11310
 Tags: relevance:core
 Investigative Direction: Find Turek's original statement about scrubs being handed out and ask Timpanogos Hospital whether scrubs were given to non-patients that day.
@@ -1197,7 +1197,7 @@ Claim: The host argues the feds would not have taken Blake Harreff's blood-free 
 Transcript Snippet: why would the feds collect Blake Harreff's shirt, which had no blood in it, but not collect Charlie Kirk's bloodied necklace and the bloodied microphone.
 
 Anchored Artifacts: 
-Mentions: N-1, N-902
+Mentions: N-1, N-901
 Related Nodes: N-10537, N-11053, N-10014
 Tags: relevance:core
 Investigative Direction: Obtain the FBI evidence inventory for the necklace, the microphone and clothing items collected on September 10.
@@ -1229,7 +1229,7 @@ Claim: The host relays viewers' suggestion that Harreff's clothing was taken out
 Transcript Snippet: Blake when he slid across the table may have got some explosive residue on him.
 
 Anchored Artifacts: 
-Mentions: N-902
+Mentions: N-901
 Related Nodes: N-10107, N-10974, N-11310
 Tags: relevance:core
 Investigative Direction: Ask which agency collected clothing from people near Charlie and whether swabs for residue were taken.
@@ -1371,7 +1371,7 @@ Claim: In the clip the host plays, Bobby Sausalito asks how Frank Turek could ha
 Transcript Snippet: If you were in the trunk, how did you do that? And how would Brian not remember you jumping over the seat to do it?
 
 Anchored Artifacts: A-2368.1, A-2369.1
-Mentions: N-903, N-7, N-268
+Mentions: N-902, N-7, N-268
 Related Nodes: N-10699
 Supports: C-3546, C-3547
 Tags: relevance:core

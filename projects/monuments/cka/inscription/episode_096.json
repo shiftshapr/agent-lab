@@ -1806,8 +1806,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-817",
-      "ref": "N-817",
+      "@id": "N-816",
+      "ref": "N-816",
       "name": "Dan Scavino",
       "type": "person",
       "description": "First named by the host at 00:23:21 in episode 096, as the person who sent Trump's tweets during his first term.",
@@ -1823,8 +1823,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-818",
-      "ref": "N-818",
+      "@id": "N-817",
+      "ref": "N-817",
       "name": "Natalie Harp",
       "type": "person",
       "description": "First named by the host at 00:23:21 in episode 096, as the person widely reported to send Trump's Truth Social posts.",
@@ -2690,8 +2690,8 @@
       "transcript_snippet": "Trump, who has never, by the way, pushed send on his own tweets, that was the job initially of Dan Scavino during his first term.",
       "mentions_person_refs": [
         "N-5",
-        "N-817",
-        "N-818"
+        "N-816",
+        "N-817"
       ]
     },
     {

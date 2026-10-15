@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 3d4ae642f2e941bfd1fa196ba14e9aaeb18407acfcfbcad82179e0cc50d07169
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-925, N-11357, N-11358
+  - Tip-minted Nodes (supplement_2026-10f): N-924, N-11357, N-11358
   - Hole-minted Nodes (reintro-ep121): N-494
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-13056–C-13119
@@ -571,7 +571,7 @@ Investigative Pressure: High
 
 ---
 
-**N-925** Elizabeth Holmes
+**N-924** Elizabeth Holmes
 
 First named by the host at 00:56:01 in episode 121. Former biotech entrepreneur convicted of fraud, discussed in a commenter's comparison to Erika Kirk.
 
@@ -2120,7 +2120,7 @@ Claim: The host reads and echoes a comment that Elizabeth Holmes was convicted o
 Transcript Snippet: She was the biotech entrepreneur who got convicted of fraud and then went to a fake prison that she's probably not even in.
 
 Anchored Artifacts: 
-Mentions: N-925
+Mentions: N-924
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Fringe; Holmes is held in a federal facility per the Bureau of Prisons.

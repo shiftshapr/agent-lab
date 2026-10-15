@@ -1283,8 +1283,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-914",
-      "ref": "N-914",
+      "@id": "N-913",
+      "ref": "N-913",
       "name": "John McCain",
       "type": "person",
       "description": "First named by the host at 00:17:54 in episode 42; the host identifies him as the speaker in a clip addressing protesters in Ukraine.",
@@ -2132,7 +2132,7 @@
       "investigative_direction": "Treat as the host's sweeping historical assertion; assess against documented accounts of the 2013 to 2014 events.",
       "transcript_snippet": "when John McCain went over there and led the protesters in the streets, he was really representing the voice of the people. It was not another United States military color revolution.",
       "mentions_person_refs": [
-        "N-914",
+        "N-913",
         "N-3"
       ]
     },
@@ -2153,7 +2153,7 @@
       "investigative_direction": "Identify the source video and date of the McCain speech.",
       "transcript_snippet": "People of Ukraine, this is your moment.",
       "mentions_person_refs": [
-        "N-914"
+        "N-913"
       ]
     },
     {
@@ -2177,7 +2177,7 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-914",
+        "N-913",
         "N-3"
       ]
     },

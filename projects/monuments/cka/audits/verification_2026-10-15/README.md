@@ -63,3 +63,26 @@ material-error rate at about 10% (QA round 2: 10.4%, 29 of 278), against a targe
   ("Hunter Cosgrove"), Larry Guinta, Mark Amodei, Thomas Burt (Duncan Aviation).
 - Duplicates merged (`audits/person_merge_2026-10-15b/id_map.csv`): N-362 "Andrew Colberg" into N-14 Andrew Kolvet,
   and N-372 "Hunter Cosgrove" into N-328 Hunter Kozak. The chunks not yet verified were rebuilt from the merged drafts.
+
+## Part 3b (chunks 79–98: episodes ~54–67, 1,201 claims)
+- C-2033 had fallen into the gap left by the C-1489 deletion; it was checked in chunk 79.
+- 157 findings went to confirmation: 125 accepted, 30 amended, 2 rejected. Applied: 151 confirmed fixes and 124 minor fixes.
+- 29 name rules added, for example:
+  - Anthony Aguilar, Arsen Ostrovsky, Audrey Hale, Ben Carollo, Charlamagne tha God, Doug DeGroote, Dr. Alan Wolfelt
+  - Erika Frantzve, Farris Wilks, Jonathan Conricus, Laurie Cardoza-Moore, Marc Anthony, Matt Lieb, Mehdi Hasan
+  - Michele Bachmann, Otto Busher, Rabbi Michael Barclay, Rabbi Yosef Mizrachi, Samuel Smadja, Shaffer Security
+  - Jörg Fassbinder, Helmut Becker
+
+  The matching nodes are renamed, and their transcription aliases dropped.
+- Merged (`audits/person_merge_2026-10-15c/id_map.csv`): N-742 "Harley Pasternak" into N-80. The earlier
+  "Harley Pastnic" correction had given the two nodes the same name. The pending results for chunks 99–110 were
+  remapped through this map, and chunks 111 onward were rebuilt.
+- **Held for Daveed:** C-10000's "Marina Medvin" → "Marina Minas". See the Marina item below.
+
+## For Daveed: Marina (N-495)
+N-495 is named "Marina (TPUSA CMO)" and carries the aliases Meanes, Medias, Medvin, Minas and Munz. Several
+reviewers independently identified her as **Marina Minas**, TPUSA's chief marketing officer, from tpusa.com/team,
+Fox 10 Phoenix and the HappyScribe transcript of Ep 297 ("this Marina Minas"). Marina Medvin is a different, real
+person: an attorney and commentator. The recommendation is to rename N-495 to Marina Minas and turn the other
+spellings into correction rules. The earlier C-2193 ruling is unaffected: that employee is unnamed, and the claim
+records Minas separately.

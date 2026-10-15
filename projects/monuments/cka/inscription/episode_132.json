@@ -1753,8 +1753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-803",
-      "ref": "N-803",
+      "@id": "N-802",
+      "ref": "N-802",
       "name": "Harris Faulkner",
       "type": "person",
       "description": "Fox News host who interviewed Erika Kirk about the burial location; first named by the host at 00:12:01 in episode 132.",
@@ -1770,8 +1770,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-825",
-      "ref": "N-825",
+      "@id": "N-824",
+      "ref": "N-824",
       "name": "Vivian Kubrick",
       "type": "person",
       "description": "Daughter of Stanley Kubrick whom the host says criticised the Make Heaven Crowded event on X; first named by the host at 00:26:09 in episode 132.",
@@ -1787,8 +1787,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-826",
-      "ref": "N-826",
+      "@id": "N-825",
+      "ref": "N-825",
       "name": "Devante West",
       "type": "person",
       "description": "Instagram account holder whose clip mocking Christian speak the host plays; first named by the host at 00:30:12 in episode 132 (spelled Devonte West once).",
@@ -2763,7 +2763,7 @@
       "investigative_direction": "Obtain the full Fox News segment and any pre-interview arrangements.",
       "transcript_snippet": "a book tour where Harris Faulkner on Fox News set her up with a question about how dark it would be.",
       "mentions_person_refs": [
-        "N-803",
+        "N-802",
         "N-2",
         "N-1"
       ]
@@ -3269,7 +3269,7 @@
       "investigative_direction": "Retrieve Vivian Kubrick's X post.",
       "transcript_snippet": "I was very happy to see Stanley Kubrick's daughter Vivian Kubrick actually. She's been amazing on X and she just took this event and was like no one knows what these people are saying.",
       "mentions_person_refs": [
-        "N-825",
+        "N-824",
         "N-3"
       ]
     },
@@ -3312,7 +3312,7 @@
       "investigative_direction": "Retrieve the Instagram post and confirm the account holder's name.",
       "transcript_snippet": "The account holder on Instagram is Devante West and he just mocks broadly speaking. So this is not about Erika.",
       "mentions_person_refs": [
-        "N-826",
+        "N-825",
         "N-2"
       ]
     },

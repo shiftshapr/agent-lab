@@ -13,7 +13,7 @@
     "transcript_sha256": "022d4f12740713037a1e34d8c7a3f460558cfd3ae1badcd1d4c1565a058eb7cf",
     "analysis_date": "2026-10-02"
   },
-  "executive_summary": "This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions–contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kolvet not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroot), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Why Refi / contract material for the next show.\n\n---",
+  "executive_summary": "This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions–contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kolvet not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroote), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Why Refi / contract material for the next show.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -125,7 +125,7 @@
           "@type": "Artifact",
           "@id": "A-2462.1",
           "ref": "A-2462.1",
-          "description": "Doug DeGroot on-record that Charlie and Erika planned to sign will paperwork the Monday after the murder; host overlays alleged Mikey McCoy gatekeeping and prior cancellations.",
+          "description": "Doug DeGroote on-record that Charlie and Erika planned to sign will paperwork the Monday after the murder; host overlays alleged Mikey McCoy gatekeeping and prior cancellations.",
           "related_claims": [
             "C-3601"
           ],
@@ -627,7 +627,7 @@
       "@type": "Person",
       "@id": "N-498",
       "ref": "N-498",
-      "name": "Doug DeGroot",
+      "name": "Doug DeGroote",
       "type": "person",
       "description": "Board member / couple’s financial adviser quoted on will appointment and on media pressure driving 48-hour CEO vote.",
       "related_artifacts": [
@@ -1470,7 +1470,7 @@
       "@id": "C-3601",
       "ref": "C-3601",
       "label": "Charlie and Erika had a will-signing appointment set for the Monday after the murder",
-      "claim": "Doug DeGroot confirms they planned to sign will paperwork that Monday; host alleges Mikey McCoy gatekept/canceled prior attempts and rejects DeGroot’s death-threat framing as the sole motive.",
+      "claim": "Doug DeGroote confirms they planned to sign will paperwork that Monday; host alleges Mikey McCoy gatekept/canceled prior attempts and rejects DeGroot’s death-threat framing as the sole motive.",
       "anchored_artifacts": [
         "A-2462.1"
       ],
@@ -2078,7 +2078,7 @@
       "@id": "C-6307",
       "ref": "C-6307",
       "label": "Profile Says Night Before Charlie Discussed Bulletproof Glass Shields and Vests With Erika and Their Pastor",
-      "claim": "The host reads the profile, quoting Doug DeGroot, as saying that the night before Charlie was killed he discussed with Erika and their pastor the security team's recommendations, which included bulletproof glass shields and vests.",
+      "claim": "The host reads the profile, quoting Doug DeGroote, as saying that the night before Charlie was killed he discussed with Erika and their pastor the security team's recommendations, which included bulletproof glass shields and vests.",
       "anchored_artifacts": [
         "A-2462.1"
       ],
@@ -2211,7 +2211,7 @@
       "@id": "C-6313",
       "ref": "C-6313",
       "label": "DeGroot Says Erika Saved TPUSA Two or Three Years of Searching for a New CEO",
-      "claim": "The host reads the profile as quoting Doug DeGroot that Erika saved Turning Point two or three years of searching for and training a new CEO from outside the organization.",
+      "claim": "The host reads the profile as quoting Doug DeGroote that Erika saved Turning Point two or three years of searching for and training a new CEO from outside the organization.",
       "anchored_artifacts": [
         "A-2462.1"
       ],
@@ -2232,7 +2232,7 @@
       "@id": "C-6314",
       "ref": "C-6314",
       "label": "Host Alleges DeGroot Was Behind the Scenes Wanting Her Crushed in the Media",
-      "claim": "The host alleges that Doug DeGroot, whom she says does a lot of PR for Turning Point, was early on one of the people behind the scenes wanting her crushed in the media.",
+      "claim": "The host alleges that Doug DeGroote, whom she says does a lot of PR for Turning Point, was early on one of the people behind the scenes wanting her crushed in the media.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 7b329950d516234dfe924015e2ae2ceece2c1cacc9476909544e66ce23744a8b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-806, N-11184, N-11185
+  - Tip-minted Nodes (supplement_2026-10c): N-805, N-11184, N-11185
   - Hole-minted Nodes (reintro-ep070): N-10510, N-10816
   - Tip-minted Nodes (reintro-ep070): N-737
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -761,7 +761,7 @@ Existing organization; the host's 'Schaefer security' in the transcript.
 
 ---
 
-**N-806** Don Orrico
+**N-805** Don Orrico
 
 Named by the host at 00:13:09 in episode 70 as a Turning Point USA contact in Tampa. Florida-based major-gifts fundraiser (formerly Mackinac Center director of strategic partnerships); TPUSA role unconfirmed.
 
@@ -1265,7 +1265,7 @@ Claim: The host says Pierre had a phone call with Justin Streiff and another wit
 Transcript Snippet: Pierre had a phone call with Justin Streiff. He also had a phone call uh with Mr. Don Orrico of Turning Point USA down in Tampa.
 
 Anchored Artifacts: A-2931.1
-Mentions: N-3, N-15, N-806
+Mentions: N-3, N-15, N-805
 Related Nodes: N-10493, N-10000
 Tags: relevance:core
 Investigative Direction: Identification as Don Orrico (Florida-based major-gifts fundraiser, formerly Mackinac Center director of strategic partnerships, Estero FL) is by name match; confirm his TPUSA role and obtain call records for the alleged calls.

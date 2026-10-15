@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-4916–C-4974
   - New Nodes Introduced: N-10259, N-10260, N-10261, N-10262, N-10263
-  - Reused Nodes Appearing: N-2, N-36, N-46, N-61, N-69, N-190, N-211, N-226, N-761, N-10000, N-10011, N-10012, N-10014, N-10025, N-10043, N-10047, N-10052, N-10121, N-10129, N-10146, N-10165, N-10198, N-10204, N-10207, N-10208, N-10226, N-10246, N-10248, N-10253, N-10254, N-10256, N-331, N-10264, N-10662, N-711, N-10338, N-10355, N-10482, N-10549, N-10646, N-10343, N-10769, N-10635
+  - Reused Nodes Appearing: N-2, N-36, N-46, N-61, N-69, N-190, N-211, N-226, N-760, N-10000, N-10011, N-10012, N-10014, N-10025, N-10043, N-10047, N-10052, N-10121, N-10129, N-10146, N-10165, N-10198, N-10204, N-10207, N-10208, N-10226, N-10246, N-10248, N-10253, N-10254, N-10256, N-331, N-10264, N-10662, N-711, N-10338, N-10355, N-10482, N-10549, N-10646, N-10343, N-10769, N-10635
   - (see registers)
 
 # Episode Analysis: Monument Episode 34
@@ -789,7 +789,7 @@ Benjamin Netanyahu; the host says he is involved in Calvary Chapel churches.
 
 ---
 
-**N-761** Bob Coy
+**N-760** Bob Coy
 
 Bob Coy; Fort Lauderdale pastor the host says was in a sexual abuse scandal.
 
@@ -1687,7 +1687,7 @@ Claim: The host says Bob Coy, a pastor from Fort Lauderdale not to be confused w
 Transcript Snippet: Bob Coy, the one from Fort Lauderdale who got into a little bit of a scandal with sexual abuse.
 
 Anchored Artifacts: 
-Mentions: N-761, N-17, N-36
+Mentions: N-760, N-17, N-36
 Related Nodes: N-10246
 Investigative Direction: Review court records and contemporaneous news reports on Bob Coy's resignation and allegations.
 

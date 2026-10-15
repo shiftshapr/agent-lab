@@ -1,0 +1,786 @@
+[
+ {
+  "claim": "C-9882",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9883",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9884",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9885",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9886",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9887",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9888",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host: 'Epstein had been accused of trafficking children... he... found some 12-year-old triplets'; claim drops 'had been accused of'. Epstein trafficking is not core to the Kirk case.",
+  "fix": {
+   "claim": "The host says Epstein had been accused of trafficking children, and that for his own birthday he found 12-year-old triplets who were dirt poor, and his friend Jean-Luc Brunel in Paris flew them to Epstein.",
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9889",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Clip of Fuentes on Epstein as Israeli spy; not about the Kirk case.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-9890",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9891",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host on Fuentes's lawyer and informant claims; not Kirk's assassination itself.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-9892",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Fuentes follow-up clip on Epstein blackmail/Israel; not the Kirk case.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-9893",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9894",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9895",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9896",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "Host says 'Aleister Crowley was a student of this' then asks about Jack Parsons; she never calls Parsons Crowley's student.",
+  "fix": {
+   "claim": "The host asks whether Jack Parsons, whom she says established the Apollo program at NASA, was similarly conducting occult sexual rituals to establish a moon child, after saying Aleister Crowley was a student of this occultic ritualistic tradition.",
+   "label": "Host Asks Whether Jack Parsons, Who Established the Apollo Program, Did Occult Sexual Rituals"
+  }
+ },
+ {
+  "claim": "C-9897",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9898",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9899",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9900",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9901",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9902",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host's own school history; private personal life.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9903",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host's own school history; private personal life.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9904",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9905",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9906",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9907",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9908",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9909",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9910",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "Host: 'I'm going to send them a video saying I know what I'm talking about'; 'Erika's side' is not in the transcript window ('them' unspecified).",
+  "fix": {
+   "claim": "The host says she will pursue that alibi in earnest, send them a video saying she knows what she is talking about, and hopes to have an update for viewers by Monday.",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9911",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9912",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2124",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2125",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2126",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2127",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2128",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2129",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2130",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2131",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'he joined the FBIA' is spoken ~09:08; claim timestamp 10:23 is ~75s late.",
+  "fix": {
+   "timestamp": "00:09:03"
+  }
+ },
+ {
+  "claim": "C-2132",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2133",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Post says he went to middle and high school with Dan Flood; 'Allen, Texas' is the host's statement, not the post's.",
+  "fix": {
+   "claim": "A social media post the host reads, from a self-described childhood friend, says he went to middle and high school with Dan Flood, whom the host says is from Allen, Texas and graduated high school there."
+  }
+ },
+ {
+  "claim": "C-2134",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2135",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-458 (Bill Montgomery) but claim names only Dan Flood and an unnamed Dallas billionaire.",
+  "fix": {
+   "mentions": [
+    "N-272"
+   ]
+  }
+ },
+ {
+  "claim": "C-2136",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'I was born in Denton' spoken ~14:33; claim timestamp 15:02 is ~29s late (estimate).",
+  "fix": {
+   "timestamp": "00:14:28"
+  }
+ },
+ {
+  "claim": "C-2137",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2138",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2139",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2140",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2141",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2142",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says she 'received a response' via an official channel; 'emailed' is not stated. Name spelled 'Erica' vs Erika.",
+  "fix": {
+   "claim": "Per the host's paraphrase of a response she says she received from Turning Point USA through an official channel, Erika Kirk never lived in China and simply visited for 2 weeks.",
+   "label": "TPUSA Response Says Erika Kirk Only Visited China for 2 Weeks and Never Lived There"
+  }
+ },
+ {
+  "claim": "C-2143",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says 'Ben Corollo'; debate is 'Charlie Kirk Debates Trans Marxist Ben Carollo' (TPUSA Debate Night).",
+  "fix": {
+   "claim": "In the debate clip with Ben Carollo, Charlie Kirk states \"Unlike you, my wife lived in China for 6 months and she'll show you the videos.\"",
+   "names": [
+    {
+     "wrong": "Ben Corollo",
+     "right": "Ben Carollo",
+     "source": "https://www.youtube.com/watch?v=sVLukS4qLRE"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2144",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Name spelled 'Erica'; transcript and node use Erika.",
+  "fix": {
+   "claim": "In the on-air clip, Erika Kirk states she was \"living in China and doing a lot of work with victims from sex trafficking\" via Everyday Heroes Like You.",
+   "label": "Erika Kirk Publicly Stated She Was Living in China Working with Victims of Sex Trafficking Through Her Everyday Heroes Like You Charity"
+  }
+ },
+ {
+  "claim": "C-2145",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Transcript 'Samuel Smaja'; church event page names Samuel Smadja, Israeli businessman.",
+  "fix": {
+   "claim": "A Cornerstone Chapel video announcement by Pastor Gary Hamrick promotes a January 21 service on antisemitism in conservative politics, naming Candace Owens and Tucker Carlson, with guests Rob McCoy (Turning Point Faith) and Samuel Smadja (Israeli businessman).",
+   "label": "Cornerstone Chapel announced a January 21 event on antisemitism featuring Rob McCoy and Samuel Smadja",
+   "names": [
+    {
+     "wrong": "Samuel Smaja",
+     "right": "Samuel Smadja",
+     "source": "https://cornerstonechapel.net/event/the-rise-of-antisemitism-with-pastor-gary-rob-mccoy-samuel-smadja/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2146",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2147",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Unresolved attribution: lines after 'Moderator Marzy writes' blend comment and host riff; plausibly the comment.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2148",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "FBIA founding/14,000 spoken ~09:20-09:48; claim ts 10:23 is 35-60s late. Host says 'feds', calls it a charity; Flood not named in claim.",
+  "fix": {
+   "timestamp": "00:09:15",
+   "claim": "Per the FBIA website description the host reads aloud, the FBIA, which the host calls a charity, was founded in 1981 and consists of 14,000 former and current feds.",
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-3658",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: '10 out of 10 would recommend the decentralized intelligence agency because we don't go after kids'; 'crowd-sourced tip network opposing centralized intel' is added.",
+  "fix": {
+   "claim": "The host says she would recommend the decentralized intelligence agency, since the public is more reliable than her sources, because they do not go after kids but defend and protect them."
+  }
+ },
+ {
+  "claim": "C-14173",
+  "episode": 59,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": true,
+  "note": "'a group of Texas boys' is the emailer's words ('he said... also involved... a group of Texas boys'), not the host's description.",
+  "fix": {
+   "claim": "The host says an anonymous emailer claimed that the families behind the JFK murder, including corrupt cops and mafia members, were also involved in the assassination of Charlie Kirk, a group of Texas boys, and that she did not engage with it."
+  }
+ },
+ {
+  "claim": "C-14174",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14175",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

@@ -1489,8 +1489,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-945",
-      "ref": "N-945",
+      "@id": "N-944",
+      "ref": "N-944",
       "name": "Dino Fonte Grassi",
       "type": "person",
       "description": "First named by the host at 00:31:39 in episode 80 (also rendered Dino Fontegrassi). President of the Turning Point USA University of Arkansas chapter who wrote the disaffiliation letter.",
@@ -1510,8 +1510,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-946",
-      "ref": "N-946",
+      "@id": "N-945",
+      "ref": "N-945",
       "name": "Shannon Kent",
       "type": "person",
       "description": "First named by the host at 00:03:18 in episode 80. Joe Kent's late wife, whom the host says was killed by a suicide bomber in Syria in January 2019.",
@@ -1528,8 +1528,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-947",
-      "ref": "N-947",
+      "@id": "N-946",
+      "ref": "N-946",
       "name": "Johnny Yep",
       "type": "person",
       "description": "First named by the host at 00:23:57 in episode 80 (transcribed as Johnny Yep and Johnny Yep). Organizer of Catholics for Catholics, per the host's description of the event organizer and a web check of the event.",
@@ -2159,7 +2159,7 @@
       "transcript_snippet": "Shannon was the first female combat combat death in Syria uh since combat operations began against ISIS.",
       "mentions_person_refs": [
         "N-211",
-        "N-946"
+        "N-945"
       ]
     },
     {
@@ -2180,7 +2180,7 @@
       "transcript_snippet": "she was also the first female US service member that was killed by enemy fire in more than 3 years up until that point.",
       "mentions_person_refs": [
         "N-211",
-        "N-946"
+        "N-945"
       ]
     },
     {
@@ -2558,7 +2558,7 @@
       "investigative_direction": "Ask Catholics for Catholics for the harassment communications it received and compare with the host's description.",
       "transcript_snippet": "the pain that they have put him through, the harassment that they have gone through because you're not allowed to have an event if it's with somebody that doesn't support mass murder in Gaza.",
       "mentions_person_refs": [
-        "N-947",
+        "N-946",
         "N-3"
       ]
     },
@@ -2720,7 +2720,7 @@
       "investigative_direction": "Check chapter records and Fonte Grassi's public history with TPUSA.",
       "transcript_snippet": "he's been with Turning Point USA for more than 5 years.",
       "mentions_person_refs": [
-        "N-945"
+        "N-944"
       ]
     },
     {
@@ -2764,7 +2764,7 @@
       "investigative_direction": "Verify the text against Fonte Grassi's Instagram post and ask TPUSA whether it received the private grievances.",
       "transcript_snippet": "we have many grievances with Turning Point USA, which we will shortly make known to them in private, but I will share only one.",
       "mentions_person_refs": [
-        "N-945"
+        "N-944"
       ]
     },
     {
@@ -2789,7 +2789,7 @@
         "C-2510"
       ],
       "mentions_person_refs": [
-        "N-945",
+        "N-944",
         "N-1"
       ]
     },
@@ -2813,7 +2813,7 @@
       "transcript_snippet": "He sort of just sat up with a bunch of students and tried to get their opinion to show donors like you can't treat these kids like this.",
       "mentions_person_refs": [
         "N-1",
-        "N-945"
+        "N-944"
       ]
     },
     {
@@ -2859,7 +2859,7 @@
       "investigative_direction": "Check Charlie Kirk Show episode listings for Fonte Grassi after September 10, 2025.",
       "transcript_snippet": "He was also on the Charlie Kirk show. I believe he was on it actually after Charlie Kirk assassinated.",
       "mentions_person_refs": [
-        "N-945",
+        "N-944",
         "N-1"
       ]
     },

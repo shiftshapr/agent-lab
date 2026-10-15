@@ -15,9 +15,9 @@
 - **Transcript SHA-256**: cbb9e2999e01f3fb5d31c3a20cfcda260ac22c9115d386f6ca88119e0d45131e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-936, N-11367, N-11368
+  - Tip-minted Nodes (supplement_2026-10g): N-935, N-11367, N-11368
   - Hole-minted Nodes (reintro-ep006): N-10083, N-10085, N-10119, N-10385
-  - Tip-minted Nodes (reintro-ep006): N-742, N-11084, N-11096, N-11103, N-11256
+  - Tip-minted Nodes (reintro-ep006): N-11084, N-11096, N-11103, N-11256
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-13600–C-13658
   - Artifact Families Introduced: A-1120, A-1121, A-1122, A-1123, A-1124, A-1125, A-1126, A-1127, A-1128, A-1129, A-1130, A-1131, A-1132, A-1133
@@ -674,7 +674,7 @@ Host's recurring thesis that Israeli actors direct US media and speech-law effor
 
 ---
 
-**N-936** Kyrie Irving
+**N-935** Kyrie Irving
 
 First named by the host at 00:42:58 in episode 6. Basketball player the host says was shaken down to donate after he said something she did not like.
 
@@ -897,14 +897,6 @@ Topic reused: the FaceTime showing of the back footage.
 Topic reused: the cemetery clothing report.
 
 *Related: C-13654*
-
----
-
-**N-742** Harley Pasternak
-
-Person reused: named by the host as one of three investigated people with valve and piping backgrounds.
-
-*Related: C-13618*
 
 ---
 
@@ -1558,7 +1550,7 @@ Claim: The host says that, including Harley Pasternak, three people she has inve
 Transcript Snippet: thus far three people who I've investigated who oddly either them or their families had backgrounds working in this very niche valve and piping industry,
 
 Anchored Artifacts: 
-Mentions: N-3, N-742
+Mentions: N-3, N-80
 Related Nodes: N-10054, N-10080
 Supports: C-3726
 Tags: relevance:context
@@ -2055,7 +2047,7 @@ Claim: The host says the donation demand is a shakedown like what was done to Ky
 Transcript Snippet: What? That's that's that's a shakedown. That's what they did to Kyrie Irving. I don't like what you said.
 
 Anchored Artifacts: 
-Mentions: N-3, N-87, N-936
+Mentions: N-3, N-87, N-935
 Related Nodes: N-10119
 Tags: relevance:tangential
 Investigative Direction: Check public reporting on the 2022 Kyrie Irving suspension and the donation he was asked to make.

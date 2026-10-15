@@ -1649,6 +1649,140 @@
     [
       "\\bShailene\\b",
       "Shelaine"
+    ],
+    [
+      "\\bAndrew Aguilar\\b",
+      "Anthony Aguilar"
+    ],
+    [
+      "\\bAnoir Hadid\\b",
+      "Anwar Hadid"
+    ],
+    [
+      "\\bArson Arstrovski\\b",
+      "Arsen Ostrovsky"
+    ],
+    [
+      "\\bArstrovski\\b",
+      "Ostrovsky"
+    ],
+    [
+      "\\bAubrey Hale\\b",
+      "Audrey Hale",
+      [
+        60
+      ]
+    ],
+    [
+      "\\bBen Corollo\\b",
+      "Ben Carollo"
+    ],
+    [
+      "\\bCharman the God\\b",
+      "Charlamagne tha God"
+    ],
+    [
+      "\\bDan Fly\\b",
+      "Dan Flood",
+      [
+        61
+      ]
+    ],
+    [
+      "\\bDoug DeGroot\\b",
+      "Doug DeGroote"
+    ],
+    [
+      "\\bDr\\. Allen Wolft\\b",
+      "Dr. Alan Wolfelt"
+    ],
+    [
+      "\\bErika Frandsen\\b",
+      "Erika Frantzve"
+    ],
+    [
+      "\\bFerris Wilks\\b",
+      "Farris Wilks"
+    ],
+    [
+      "\\bJoseph Cornis\\b",
+      "Jonathan Conricus"
+    ],
+    [
+      "\\bKolbett\\b",
+      "Kolvet"
+    ],
+    [
+      "\\bLizo\\b",
+      "Lloyiso",
+      [
+        61
+      ]
+    ],
+    [
+      "\\bLori Francev\\b",
+      "Lori Frantzve"
+    ],
+    [
+      "\\bLorie Cardardoza Moore\\b",
+      "Laurie Cardoza-Moore"
+    ],
+    [
+      "\\bMark Anthony\\b",
+      "Marc Anthony",
+      [
+        61
+      ]
+    ],
+    [
+      "\\bMatt Leeb\\b",
+      "Matt Lieb"
+    ],
+    [
+      "\\bMedia Hassan\\b",
+      "Mehdi Hasan"
+    ],
+    [
+      "\\bMichelle Bachmann\\b",
+      "Michele Bachmann"
+    ],
+    [
+      "\\bOtto Buscher\\b",
+      "Otto Busher"
+    ],
+    [
+      "\\bBuscher\\b",
+      "Busher",
+      [
+        54
+      ]
+    ],
+    [
+      "\\bRabbi Barlay\\b",
+      "Rabbi Barclay"
+    ],
+    [
+      "\\bSamuel Smaja\\b",
+      "Samuel Smadja"
+    ],
+    [
+      "\\bSchaefer [Ss]ecurity\\b",
+      "Shaffer Security",
+      [
+        59
+      ]
+    ],
+    [
+      "\\bYsef MRI\\b",
+      "Yosef Mizrachi"
+    ],
+    [
+      "\\bGorg Fastbinder\\b",
+      "Jörg Fassbinder"
+    ],
+    [
+      "\\bHelmet Becker\\b",
+      "Helmut Becker"
     ]
   ]
 }

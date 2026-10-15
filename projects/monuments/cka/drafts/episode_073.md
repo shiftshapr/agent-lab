@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 8f80e2001a9824772c29ee4b15829f4b6f2f155a2e3a272ffadb38688bd0e842
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-807, N-11187
+  - Tip-minted Nodes (supplement_2026-10c): N-806, N-11187
   - Hole-minted Nodes (reintro-ep073): N-10512
   - Tip-minted Nodes (reintro-ep073): N-11086
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -40,7 +40,7 @@
   - Artifact Families Introduced: A-1772, A-1773, A-1774, A-1775, A-1776, A-1777, A-1778, A-1779
   - Claim Range: C-2364–C-2377
   - New Nodes Introduced: N-564, N-565, N-10506, N-10507, N-10508, N-10509
-  - Reused Nodes Appearing: N-7, N-9, N-36, N-40, N-48, N-69, N-161, N-188, N-192, N-222, N-272, N-332, N-10000, N-10006, N-10011, N-10012, N-10110, N-10268, N-10320, N-10340, N-10396, N-10417, N-10465, N-10470, N-10499, N-10905, N-10968, N-10510, N-10554, N-11188, N-808, N-809
+  - Reused Nodes Appearing: N-7, N-9, N-36, N-40, N-48, N-69, N-161, N-188, N-192, N-222, N-272, N-332, N-10000, N-10006, N-10011, N-10012, N-10110, N-10268, N-10320, N-10340, N-10396, N-10417, N-10465, N-10470, N-10499, N-10905, N-10968, N-10510, N-10554, N-11188, N-807, N-808
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
 
 ---
@@ -714,7 +714,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-807** Savannah Guthrie
+**N-806** Savannah Guthrie
 
 First named by the host at 00:46:33 in episode 73 (transcript: 'Savannah Guthri'). Television host whose mother's reported abduction the host discusses.
 
@@ -724,7 +724,7 @@ Aliases: Savannah Guthri
 
 ---
 
-**N-808** Kid Rock
+**N-807** Kid Rock
 
 First named by the host at 00:00:01 in episode 73. Performer named in the halftime informant account, who the informants say they waited on longest.
 
@@ -732,7 +732,7 @@ First named by the host at 00:00:01 in episode 73. Performer named in the halfti
 
 ---
 
-**N-809** Bad Bunny
+**N-808** Bad Bunny
 
 First named by the host at 00:39:40 in episode 73. Performer of the official Super Bowl halftime show to which the TPUSA show was compared.
 
@@ -1799,7 +1799,7 @@ Claim: Per the informants, a lot of the attendees were fans of Bad Bunny and wer
 Transcript Snippet: a lot of them were fans of Bad Bunny and they were certain it was not going to rival that performance.
 
 Anchored Artifacts: A-1778.1
-Mentions: N-3, N-809
+Mentions: N-3, N-808
 Related Nodes: N-10510, N-10499
 Tags: relevance:context
 Investigative Direction: Compare the TPUSA broadcast viewership figures with the Bad Bunny halftime show audience.
@@ -1863,7 +1863,7 @@ Claim: Per the informants, they waited the longest for Kid Rock, while Gabby Bar
 Transcript Snippet: They waited the longest for Kid Rock.
 
 Anchored Artifacts: A-1778.1
-Mentions: N-3, N-808
+Mentions: N-3, N-807
 Related Nodes: N-10510
 Tags: relevance:context
 Investigative Direction: Request artist call times from the production.
@@ -1895,7 +1895,7 @@ Claim: Per the informants, the producer also told them the TPUSA show was going 
 Transcript Snippet: he also said to them that this is going to get more views than the Bad Bunny halftime show.
 
 Anchored Artifacts: A-1778.1, A-1779.1
-Mentions: N-3, N-809, N-5
+Mentions: N-3, N-808, N-5
 Related Nodes: N-565, N-10499, N-10510
 Tags: relevance:context
 Investigative Direction: Compare official viewership numbers for both programs when they are published.
@@ -1911,7 +1911,7 @@ Claim: Per the informants, Turning Point USA covered their hotel rooms but place
 Transcript Snippet: Turning Point did cover their hotel rooms, but they were placed with a random person.
 
 Anchored Artifacts: A-1778.1
-Mentions: N-3, N-808
+Mentions: N-3, N-807
 Related Nodes: N-10000, N-10510
 Tags: relevance:context
 Investigative Direction: Request hotel block records for the event from TPUSA or the hotel.
@@ -1973,7 +1973,7 @@ Claim: Discussing a viewer comment about the abduction of Savannah Guthrie's mot
 Transcript Snippet: I'm referring to that same uh, storyline of TMZ somehow gets the tape.
 
 Anchored Artifacts: A-2934.1
-Mentions: N-3, N-807, N-69
+Mentions: N-3, N-806, N-69
 Related Nodes: N-11187, N-10011
 Tags: relevance:context
 Investigative Direction: Establish how the tape reached TMZ and what the FBI director's travel to Arizona was for.
@@ -1989,7 +1989,7 @@ Claim: The host says that if it were her mother she would check the Native Ameri
 Transcript Snippet: I would check out those Native American reservations because the feds do deals with them and nothing good goes on.
 
 Anchored Artifacts: A-2934.1
-Mentions: N-3, N-807, N-9
+Mentions: N-3, N-806, N-9
 Related Nodes: N-11187
 Tags: relevance:tangential
 Investigative Direction: No source is cited on air; the host says 'don't quote me on that' about the reservation boundary.
@@ -2005,7 +2005,7 @@ Claim: The host says that something about the Guthrie case does not feel right a
 Transcript Snippet: And I do think that part of it was to distract us.
 
 Anchored Artifacts: A-2934.1
-Mentions: N-3, N-807
+Mentions: N-3, N-806
 Related Nodes: N-11187
 Tags: relevance:tangential
 Investigative Direction: Compare coverage volume of the Guthrie case with coverage of the Kirk case during the same period.

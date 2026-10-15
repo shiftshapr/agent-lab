@@ -1169,8 +1169,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-851",
-      "ref": "N-851",
+      "@id": "N-850",
+      "ref": "N-850",
       "name": "Tony Burke",
       "type": "person",
       "description": "First named by the host at 00:03:43 in episode 027 as the Australian official she says banned her from the country.",
@@ -1843,8 +1843,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-852",
-      "ref": "N-852",
+      "@id": "N-851",
+      "ref": "N-851",
       "name": "Jimmy Dore",
       "type": "person",
       "description": "First named by the host at 01:04:09 in episode 027 as a commentator a viewer suggested she team up with.",
@@ -2348,7 +2348,7 @@
       "transcript_snippet": "Tony Burke, thank you for banning us from an entire country, even though I didn't do nothing.",
       "mentions_person_refs": [
         "N-3",
-        "N-851"
+        "N-850"
       ]
     },
     {
@@ -3616,7 +3616,7 @@
         "N-3",
         "N-130",
         "N-39",
-        "N-852"
+        "N-851"
       ]
     },
     {

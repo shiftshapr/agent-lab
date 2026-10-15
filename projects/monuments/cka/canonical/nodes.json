@@ -3,7 +3,7 @@
   "updated": "2026-10-08T20:15:25Z",
   "monument": "cka",
   "remap_note": "2026-10-13 (Daveed): ids compacted with no holes and no tombstones. Persons N-1..N-607, topic/org/place N-10000..N-10902; old to new ids in audits/id_compaction_2026-10-13/id_map.csv. Earlier remap history (BoC remap, batches 1-2, catch-up, waves 1-3) is in git history and the audits folders, which keep the ids of their time.",
-  "next_person_id": 954,
+  "next_person_id": 953,
   "next_investigation_id": 11412,
   "nodes": {
     "N-1": {
@@ -182,7 +182,6 @@
       "aliases": [
         "Erica Kirk",
         "Erika Frantzve",
-        "Erika Frandsen",
         "Ericka Kirk",
         "Erikica Kirk"
       ],
@@ -902,7 +901,6 @@
       "type": "person",
       "aliases": [
         "Andrew Kolbet (Turning Point USA spokesperson)",
-        "Andrew Kolbett",
         "Andrew Kolvet (also spelled Kolvetz in transcript)",
         "Andrew Colebat",
         "Andrew Colvin",
@@ -2516,7 +2514,9 @@
       "aliases": [],
       "episodes": [
         5,
-        6
+        6,
+        127,
+        130
       ]
     },
     "N-81": {
@@ -7082,11 +7082,9 @@
       ]
     },
     "N-455": {
-      "canonical_name": "Andrew Aguilar",
+      "canonical_name": "Anthony Aguilar",
       "type": "person",
-      "aliases": [
-        "Anthony Aguilar"
-      ],
+      "aliases": [],
       "episodes": [
         56
       ]
@@ -7219,7 +7217,7 @@
       ]
     },
     "N-470": {
-      "canonical_name": "Ferris Wilks",
+      "canonical_name": "Farris Wilks",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -7274,7 +7272,7 @@
       ]
     },
     "N-476": {
-      "canonical_name": "Samuel Smaja",
+      "canonical_name": "Samuel Smadja",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -7282,7 +7280,7 @@
       ]
     },
     "N-477": {
-      "canonical_name": "Ben Corollo",
+      "canonical_name": "Ben Carollo",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -7525,7 +7523,7 @@
       ]
     },
     "N-497": {
-      "canonical_name": "Lorie Cardardoza Moore",
+      "canonical_name": "Laurie Cardoza-Moore",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -7533,11 +7531,9 @@
       ]
     },
     "N-498": {
-      "canonical_name": "Doug DeGroot",
+      "canonical_name": "Doug DeGroote",
       "type": "person",
-      "aliases": [
-        "Doug Degrroot"
-      ],
+      "aliases": [],
       "episodes": [
         64,
         82,
@@ -7583,7 +7579,7 @@
       ]
     },
     "N-503": {
-      "canonical_name": "Arson Arstrovski",
+      "canonical_name": "Arsen Ostrovsky",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -7696,11 +7692,9 @@
       ]
     },
     "N-514": {
-      "canonical_name": "Dr. Allen Wolft",
+      "canonical_name": "Dr. Alan Wolfelt",
       "type": "person",
-      "aliases": [
-        "Allen Wolft"
-      ],
+      "aliases": [],
       "episodes": [
         66
       ]
@@ -7923,11 +7917,9 @@
       ]
     },
     "N-538": {
-      "canonical_name": "Gorg Fastbinder",
+      "canonical_name": "J\u00f6rg Fassbinder",
       "type": "person",
-      "aliases": [
-        "Gorg Fastinder"
-      ],
+      "aliases": [],
       "episodes": [
         68
       ]
@@ -7935,9 +7927,7 @@
     "N-539": {
       "canonical_name": "Helmut Becker",
       "type": "person",
-      "aliases": [
-        "Helmet Becker"
-      ],
+      "aliases": [],
       "episodes": [
         68
       ]
@@ -9434,7 +9424,6 @@
       "canonical_name": "Otto Busher",
       "type": "person",
       "aliases": [
-        "Auto Buscher",
         "Col. Otto Busher"
       ],
       "episodes": [
@@ -9739,7 +9728,7 @@
       ]
     },
     "N-723": {
-      "canonical_name": "Matt Leeb",
+      "canonical_name": "Matt Lieb",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9747,7 +9736,7 @@
       ]
     },
     "N-724": {
-      "canonical_name": "Joseph Cornis",
+      "canonical_name": "Jonathan Conricus",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9755,7 +9744,7 @@
       ]
     },
     "N-725": {
-      "canonical_name": "Rabbi Barlay",
+      "canonical_name": "Rabbi Michael Barclay",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9764,7 +9753,7 @@
       ]
     },
     "N-726": {
-      "canonical_name": "Rabbi Ysef MRI",
+      "canonical_name": "Rabbi Yosef Mizrachi",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9906,16 +9895,6 @@
       ]
     },
     "N-742": {
-      "canonical_name": "Harley Pasternak",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        6,
-        127,
-        130
-      ]
-    },
-    "N-743": {
       "canonical_name": "Benjamin Emanuel",
       "type": "person",
       "aliases": [],
@@ -9923,7 +9902,7 @@
         130
       ]
     },
-    "N-744": {
+    "N-743": {
       "canonical_name": "Ari Emanuel",
       "type": "person",
       "aliases": [],
@@ -9931,7 +9910,7 @@
         130
       ]
     },
-    "N-745": {
+    "N-744": {
       "canonical_name": "Rahm Emanuel",
       "type": "person",
       "aliases": [],
@@ -9939,7 +9918,7 @@
         130
       ]
     },
-    "N-746": {
+    "N-745": {
       "canonical_name": "Howard Hughes",
       "type": "person",
       "aliases": [],
@@ -9948,7 +9927,7 @@
         161
       ]
     },
-    "N-747": {
+    "N-746": {
       "canonical_name": "Frank William Gay",
       "type": "person",
       "aliases": [],
@@ -9956,7 +9935,7 @@
         130
       ]
     },
-    "N-748": {
+    "N-747": {
       "canonical_name": "Robert Graf",
       "type": "person",
       "aliases": [],
@@ -9964,7 +9943,7 @@
         130
       ]
     },
-    "N-749": {
+    "N-748": {
       "canonical_name": "Robert Gay",
       "type": "person",
       "aliases": [],
@@ -9972,7 +9951,7 @@
         130
       ]
     },
-    "N-750": {
+    "N-749": {
       "canonical_name": "Jon Kyl",
       "type": "person",
       "aliases": [],
@@ -9980,7 +9959,7 @@
         130
       ]
     },
-    "N-751": {
+    "N-750": {
       "canonical_name": "Taylor Marshall",
       "type": "person",
       "aliases": [],
@@ -9988,7 +9967,7 @@
         130
       ]
     },
-    "N-752": {
+    "N-751": {
       "canonical_name": "Gerald Morgan",
       "type": "person",
       "aliases": [],
@@ -9996,7 +9975,7 @@
         141
       ]
     },
-    "N-753": {
+    "N-752": {
       "canonical_name": "Allan Robertson",
       "type": "person",
       "aliases": [],
@@ -10006,7 +9985,7 @@
         144
       ]
     },
-    "N-754": {
+    "N-753": {
       "canonical_name": "Andrea Birkhart",
       "type": "person",
       "aliases": [],
@@ -10014,7 +9993,7 @@
         144
       ]
     },
-    "N-755": {
+    "N-754": {
       "canonical_name": "Robin Emer",
       "type": "person",
       "aliases": [],
@@ -10022,7 +10001,7 @@
         157
       ]
     },
-    "N-756": {
+    "N-755": {
       "canonical_name": "Astrid Tuminez",
       "type": "person",
       "aliases": [
@@ -10036,7 +10015,7 @@
         157
       ]
     },
-    "N-757": {
+    "N-756": {
       "canonical_name": "Alana Minton",
       "type": "person",
       "aliases": [],
@@ -10044,7 +10023,7 @@
         157
       ]
     },
-    "N-758": {
+    "N-757": {
       "canonical_name": "Claire Ginan",
       "type": "person",
       "aliases": [],
@@ -10053,7 +10032,7 @@
         157
       ]
     },
-    "N-759": {
+    "N-758": {
       "canonical_name": "Breland Holland",
       "type": "person",
       "aliases": [],
@@ -10061,7 +10040,7 @@
         21
       ]
     },
-    "N-760": {
+    "N-759": {
       "canonical_name": "Glenn Greenwald",
       "type": "person",
       "aliases": [],
@@ -10069,7 +10048,7 @@
         25
       ]
     },
-    "N-761": {
+    "N-760": {
       "canonical_name": "Bob Coy",
       "type": "person",
       "aliases": [],
@@ -10079,7 +10058,7 @@
         34
       ]
     },
-    "N-762": {
+    "N-761": {
       "canonical_name": "Jason James Taylor",
       "type": "person",
       "aliases": [],
@@ -10087,7 +10066,7 @@
         31
       ]
     },
-    "N-763": {
+    "N-762": {
       "canonical_name": "Anthony Iglesias",
       "type": "person",
       "aliases": [],
@@ -10095,7 +10074,7 @@
         31
       ]
     },
-    "N-764": {
+    "N-763": {
       "canonical_name": "Robert Davis",
       "type": "person",
       "aliases": [],
@@ -10103,7 +10082,7 @@
         31
       ]
     },
-    "N-765": {
+    "N-764": {
       "canonical_name": "Doug DeAndrea",
       "type": "person",
       "aliases": [],
@@ -10111,7 +10090,7 @@
         31
       ]
     },
-    "N-766": {
+    "N-765": {
       "canonical_name": "Jeffrey Zizz",
       "type": "person",
       "aliases": [],
@@ -10119,7 +10098,7 @@
         31
       ]
     },
-    "N-767": {
+    "N-766": {
       "canonical_name": "Diddy",
       "type": "person",
       "aliases": [],
@@ -10127,7 +10106,7 @@
         31
       ]
     },
-    "N-768": {
+    "N-767": {
       "canonical_name": "Kenny",
       "type": "person",
       "aliases": [],
@@ -10135,7 +10114,7 @@
         31
       ]
     },
-    "N-769": {
+    "N-768": {
       "canonical_name": "Trent Franks",
       "type": "person",
       "aliases": [],
@@ -10143,7 +10122,7 @@
         52
       ]
     },
-    "N-770": {
+    "N-769": {
       "canonical_name": "Helen Barts",
       "type": "person",
       "aliases": [],
@@ -10151,7 +10130,7 @@
         63
       ]
     },
-    "N-771": {
+    "N-770": {
       "canonical_name": "Edith Walker Montgomery",
       "type": "person",
       "aliases": [],
@@ -10159,8 +10138,8 @@
         63
       ]
     },
-    "N-772": {
-      "canonical_name": "Michelle Bachmann",
+    "N-771": {
+      "canonical_name": "Michele Bachmann",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10168,7 +10147,7 @@
         63
       ]
     },
-    "N-773": {
+    "N-772": {
       "canonical_name": "Stanley Clark Moore",
       "type": "person",
       "aliases": [],
@@ -10176,7 +10155,7 @@
         63
       ]
     },
-    "N-774": {
+    "N-773": {
       "canonical_name": "Marina Abramovic",
       "type": "person",
       "aliases": [],
@@ -10184,7 +10163,7 @@
         75
       ]
     },
-    "N-775": {
+    "N-774": {
       "canonical_name": "Aleister Crowley",
       "type": "person",
       "aliases": [],
@@ -10194,7 +10173,7 @@
         75
       ]
     },
-    "N-776": {
+    "N-775": {
       "canonical_name": "Benny Gantz",
       "type": "person",
       "aliases": [],
@@ -10202,7 +10181,7 @@
         75
       ]
     },
-    "N-777": {
+    "N-776": {
       "canonical_name": "Paula White",
       "type": "person",
       "aliases": [],
@@ -10211,7 +10190,7 @@
         90
       ]
     },
-    "N-778": {
+    "N-777": {
       "canonical_name": "Caitlyn Oliver",
       "type": "person",
       "aliases": [],
@@ -10219,7 +10198,7 @@
         124
       ]
     },
-    "N-779": {
+    "N-778": {
       "canonical_name": "Samantha Carner",
       "type": "person",
       "aliases": [],
@@ -10227,7 +10206,7 @@
         124
       ]
     },
-    "N-780": {
+    "N-779": {
       "canonical_name": "Matt Robinson",
       "type": "person",
       "aliases": [],
@@ -10241,7 +10220,7 @@
         152
       ]
     },
-    "N-781": {
+    "N-780": {
       "canonical_name": "Amanda Baker",
       "type": "person",
       "aliases": [],
@@ -10249,7 +10228,7 @@
         127
       ]
     },
-    "N-782": {
+    "N-781": {
       "canonical_name": "Zach Turek",
       "type": "person",
       "aliases": [
@@ -10261,7 +10240,7 @@
         127
       ]
     },
-    "N-783": {
+    "N-782": {
       "canonical_name": "Mark Meckler",
       "type": "person",
       "aliases": [],
@@ -10269,7 +10248,7 @@
         127
       ]
     },
-    "N-784": {
+    "N-783": {
       "canonical_name": "Mitchell Curtis",
       "type": "person",
       "aliases": [],
@@ -10277,7 +10256,7 @@
         133
       ]
     },
-    "N-785": {
+    "N-784": {
       "canonical_name": "Foster Curtis",
       "type": "person",
       "aliases": [],
@@ -10285,7 +10264,7 @@
         133
       ]
     },
-    "N-786": {
+    "N-785": {
       "canonical_name": "James Osuna",
       "type": "person",
       "aliases": [],
@@ -10293,7 +10272,7 @@
         133
       ]
     },
-    "N-787": {
+    "N-786": {
       "canonical_name": "John C. Phelan",
       "type": "person",
       "aliases": [],
@@ -10301,7 +10280,7 @@
         133
       ]
     },
-    "N-788": {
+    "N-787": {
       "canonical_name": "Mike Lee",
       "type": "person",
       "aliases": [],
@@ -10310,7 +10289,7 @@
         137
       ]
     },
-    "N-789": {
+    "N-788": {
       "canonical_name": "Hasan Piker",
       "type": "person",
       "aliases": [
@@ -10321,7 +10300,7 @@
         143
       ]
     },
-    "N-790": {
+    "N-789": {
       "canonical_name": "Lane Schamberger",
       "type": "person",
       "aliases": [],
@@ -10329,7 +10308,7 @@
         143
       ]
     },
-    "N-791": {
+    "N-790": {
       "canonical_name": "Brian Davis",
       "type": "person",
       "aliases": [],
@@ -10337,7 +10316,7 @@
         143
       ]
     },
-    "N-792": {
+    "N-791": {
       "canonical_name": "Brandi Zadrozny",
       "type": "person",
       "aliases": [],
@@ -10345,7 +10324,7 @@
         143
       ]
     },
-    "N-793": {
+    "N-792": {
       "canonical_name": "Todd Starns",
       "type": "person",
       "aliases": [],
@@ -10353,7 +10332,7 @@
         146
       ]
     },
-    "N-794": {
+    "N-793": {
       "canonical_name": "Ebro Darden",
       "type": "person",
       "aliases": [
@@ -10363,7 +10342,7 @@
         148
       ]
     },
-    "N-795": {
+    "N-794": {
       "canonical_name": "Angel Castro",
       "type": "person",
       "aliases": [],
@@ -10371,7 +10350,7 @@
         156
       ]
     },
-    "N-796": {
+    "N-795": {
       "canonical_name": "Leo Frank",
       "type": "person",
       "aliases": [],
@@ -10381,7 +10360,7 @@
         131
       ]
     },
-    "N-797": {
+    "N-796": {
       "canonical_name": "Mary Phagan",
       "type": "person",
       "aliases": [
@@ -10393,7 +10372,7 @@
         131
       ]
     },
-    "N-798": {
+    "N-797": {
       "canonical_name": "Scott Robbins",
       "type": "person",
       "aliases": [],
@@ -10401,7 +10380,7 @@
         14
       ]
     },
-    "N-799": {
+    "N-798": {
       "canonical_name": "Greta Thunberg",
       "type": "person",
       "aliases": [],
@@ -10409,7 +10388,7 @@
         14
       ]
     },
-    "N-800": {
+    "N-799": {
       "canonical_name": "Loren Cunningham",
       "type": "person",
       "aliases": [],
@@ -10417,7 +10396,7 @@
         29
       ]
     },
-    "N-801": {
+    "N-800": {
       "canonical_name": "Bill Bright",
       "type": "person",
       "aliases": [],
@@ -10425,7 +10404,7 @@
         29
       ]
     },
-    "N-802": {
+    "N-801": {
       "canonical_name": "Carl Wallnau",
       "type": "person",
       "aliases": [],
@@ -10433,7 +10412,7 @@
         29
       ]
     },
-    "N-803": {
+    "N-802": {
       "canonical_name": "Harris Faulkner",
       "type": "person",
       "aliases": [],
@@ -10443,7 +10422,7 @@
         132
       ]
     },
-    "N-804": {
+    "N-803": {
       "canonical_name": "Paul Vallely",
       "type": "person",
       "aliases": [],
@@ -10455,7 +10434,7 @@
         152
       ]
     },
-    "N-805": {
+    "N-804": {
       "canonical_name": "Andrew Piscatello",
       "type": "person",
       "aliases": [
@@ -10467,7 +10446,7 @@
         152
       ]
     },
-    "N-806": {
+    "N-805": {
       "canonical_name": "Don Orrico",
       "type": "person",
       "aliases": [],
@@ -10475,7 +10454,7 @@
         70
       ]
     },
-    "N-807": {
+    "N-806": {
       "canonical_name": "Savannah Guthrie",
       "type": "person",
       "aliases": [
@@ -10485,7 +10464,7 @@
         73
       ]
     },
-    "N-808": {
+    "N-807": {
       "canonical_name": "Kid Rock",
       "type": "person",
       "aliases": [],
@@ -10494,7 +10473,7 @@
         73
       ]
     },
-    "N-809": {
+    "N-808": {
       "canonical_name": "Bad Bunny",
       "type": "person",
       "aliases": [],
@@ -10503,7 +10482,7 @@
         73
       ]
     },
-    "N-810": {
+    "N-809": {
       "canonical_name": "Ross Douthat",
       "type": "person",
       "aliases": [],
@@ -10511,7 +10490,7 @@
         82
       ]
     },
-    "N-811": {
+    "N-810": {
       "canonical_name": "Michael Shellenberger",
       "type": "person",
       "aliases": [],
@@ -10519,7 +10498,7 @@
         82
       ]
     },
-    "N-812": {
+    "N-811": {
       "canonical_name": "Pat Buchanan",
       "type": "person",
       "aliases": [],
@@ -10527,7 +10506,7 @@
         82
       ]
     },
-    "N-813": {
+    "N-812": {
       "canonical_name": "Eric Swalwell",
       "type": "person",
       "aliases": [],
@@ -10535,7 +10514,7 @@
         88
       ]
     },
-    "N-814": {
+    "N-813": {
       "canonical_name": "Christine Fang",
       "type": "person",
       "aliases": [],
@@ -10543,7 +10522,7 @@
         88
       ]
     },
-    "N-815": {
+    "N-814": {
       "canonical_name": "Mike Smith",
       "type": "person",
       "aliases": [],
@@ -10551,7 +10530,7 @@
         90
       ]
     },
-    "N-816": {
+    "N-815": {
       "canonical_name": "Bishop Barron",
       "type": "person",
       "aliases": [],
@@ -10559,7 +10538,7 @@
         90
       ]
     },
-    "N-817": {
+    "N-816": {
       "canonical_name": "Dan Scavino",
       "type": "person",
       "aliases": [],
@@ -10567,7 +10546,7 @@
         96
       ]
     },
-    "N-818": {
+    "N-817": {
       "canonical_name": "Natalie Harp",
       "type": "person",
       "aliases": [],
@@ -10575,7 +10554,7 @@
         96
       ]
     },
-    "N-819": {
+    "N-818": {
       "canonical_name": "David Sprag",
       "type": "person",
       "aliases": [
@@ -10587,7 +10566,7 @@
         138
       ]
     },
-    "N-820": {
+    "N-819": {
       "canonical_name": "Arnaud Brunel",
       "type": "person",
       "aliases": [],
@@ -10595,7 +10574,7 @@
         122
       ]
     },
-    "N-821": {
+    "N-820": {
       "canonical_name": "Ehud Barak",
       "type": "person",
       "aliases": [],
@@ -10604,7 +10583,7 @@
         122
       ]
     },
-    "N-822": {
+    "N-821": {
       "canonical_name": "Nicole Rothchild",
       "type": "person",
       "aliases": [],
@@ -10612,7 +10591,7 @@
         122
       ]
     },
-    "N-823": {
+    "N-822": {
       "canonical_name": "Helen Comperatore",
       "type": "person",
       "aliases": [
@@ -10623,7 +10602,7 @@
         126
       ]
     },
-    "N-824": {
+    "N-823": {
       "canonical_name": "Eyal Yakoby",
       "type": "person",
       "aliases": [],
@@ -10631,7 +10610,7 @@
         126
       ]
     },
-    "N-825": {
+    "N-824": {
       "canonical_name": "Vivian Kubrick",
       "type": "person",
       "aliases": [],
@@ -10639,7 +10618,7 @@
         132
       ]
     },
-    "N-826": {
+    "N-825": {
       "canonical_name": "Devante West",
       "type": "person",
       "aliases": [],
@@ -10647,7 +10626,7 @@
         132
       ]
     },
-    "N-827": {
+    "N-826": {
       "canonical_name": "Kassy Akiva",
       "type": "person",
       "aliases": [
@@ -10657,7 +10636,7 @@
         138
       ]
     },
-    "N-828": {
+    "N-827": {
       "canonical_name": "Perez Hilton",
       "type": "person",
       "aliases": [],
@@ -10665,7 +10644,7 @@
         138
       ]
     },
-    "N-829": {
+    "N-828": {
       "canonical_name": "Khloe Kardashian",
       "type": "person",
       "aliases": [],
@@ -10673,7 +10652,7 @@
         138
       ]
     },
-    "N-830": {
+    "N-829": {
       "canonical_name": "Miley Cyrus",
       "type": "person",
       "aliases": [],
@@ -10681,7 +10660,7 @@
         138
       ]
     },
-    "N-831": {
+    "N-830": {
       "canonical_name": "Jordan Wilson",
       "type": "person",
       "aliases": [],
@@ -10689,7 +10668,7 @@
         142
       ]
     },
-    "N-832": {
+    "N-831": {
       "canonical_name": "Kathy Nester",
       "type": "person",
       "aliases": [
@@ -10700,7 +10679,7 @@
         142
       ]
     },
-    "N-833": {
+    "N-832": {
       "canonical_name": "John Kiriakou",
       "type": "person",
       "aliases": [
@@ -10714,7 +10693,7 @@
         142
       ]
     },
-    "N-834": {
+    "N-833": {
       "canonical_name": "Danny Jones",
       "type": "person",
       "aliases": [],
@@ -10722,7 +10701,7 @@
         142
       ]
     },
-    "N-835": {
+    "N-834": {
       "canonical_name": "Mark Normand",
       "type": "person",
       "aliases": [],
@@ -10730,7 +10709,7 @@
         142
       ]
     },
-    "N-836": {
+    "N-835": {
       "canonical_name": "Shane Gillis",
       "type": "person",
       "aliases": [],
@@ -10738,7 +10717,7 @@
         142
       ]
     },
-    "N-837": {
+    "N-836": {
       "canonical_name": "Ari Shaffir",
       "type": "person",
       "aliases": [
@@ -10748,7 +10727,7 @@
         142
       ]
     },
-    "N-838": {
+    "N-837": {
       "canonical_name": "Macklemore",
       "type": "person",
       "aliases": [
@@ -10760,7 +10739,7 @@
         160
       ]
     },
-    "N-839": {
+    "N-838": {
       "canonical_name": "Ed Sheeran",
       "type": "person",
       "aliases": [],
@@ -10770,7 +10749,7 @@
         160
       ]
     },
-    "N-840": {
+    "N-839": {
       "canonical_name": "Casey Baugh",
       "type": "person",
       "aliases": [],
@@ -10779,7 +10758,7 @@
         155
       ]
     },
-    "N-841": {
+    "N-840": {
       "canonical_name": "Emma Goldman",
       "type": "person",
       "aliases": [],
@@ -10787,7 +10766,7 @@
         24
       ]
     },
-    "N-842": {
+    "N-841": {
       "canonical_name": "Al Goldstein",
       "type": "person",
       "aliases": [],
@@ -10795,7 +10774,7 @@
         24
       ]
     },
-    "N-843": {
+    "N-842": {
       "canonical_name": "Samuel Roth",
       "type": "person",
       "aliases": [],
@@ -10803,7 +10782,7 @@
         24
       ]
     },
-    "N-844": {
+    "N-843": {
       "canonical_name": "Magnus Hirschfeld",
       "type": "person",
       "aliases": [],
@@ -10811,7 +10790,7 @@
         24
       ]
     },
-    "N-845": {
+    "N-844": {
       "canonical_name": "Adam Lanza",
       "type": "person",
       "aliases": [],
@@ -10819,7 +10798,7 @@
         24
       ]
     },
-    "N-846": {
+    "N-845": {
       "canonical_name": "Andrew Cuomo",
       "type": "person",
       "aliases": [
@@ -10829,7 +10808,7 @@
         26
       ]
     },
-    "N-847": {
+    "N-846": {
       "canonical_name": "Michael Bloomberg",
       "type": "person",
       "aliases": [],
@@ -10837,7 +10816,7 @@
         26
       ]
     },
-    "N-848": {
+    "N-847": {
       "canonical_name": "Joe Gebbia",
       "type": "person",
       "aliases": [
@@ -10847,7 +10826,7 @@
         26
       ]
     },
-    "N-849": {
+    "N-848": {
       "canonical_name": "Jeffrey Moussaieff Masson",
       "type": "person",
       "aliases": [
@@ -10859,7 +10838,7 @@
         67
       ]
     },
-    "N-850": {
+    "N-849": {
       "canonical_name": "Theodor Herzl",
       "type": "person",
       "aliases": [
@@ -10869,7 +10848,7 @@
         26
       ]
     },
-    "N-851": {
+    "N-850": {
       "canonical_name": "Tony Burke",
       "type": "person",
       "aliases": [],
@@ -10878,7 +10857,7 @@
         149
       ]
     },
-    "N-852": {
+    "N-851": {
       "canonical_name": "Jimmy Dore",
       "type": "person",
       "aliases": [],
@@ -10887,7 +10866,7 @@
         47
       ]
     },
-    "N-853": {
+    "N-852": {
       "canonical_name": "Lauren Chen",
       "type": "person",
       "aliases": [],
@@ -10895,7 +10874,7 @@
         28
       ]
     },
-    "N-854": {
+    "N-853": {
       "canonical_name": "Austin Erickson",
       "type": "person",
       "aliases": [
@@ -10905,7 +10884,7 @@
         30
       ]
     },
-    "N-855": {
+    "N-854": {
       "canonical_name": "Amber Robinson",
       "type": "person",
       "aliases": [],
@@ -10913,7 +10892,7 @@
         37
       ]
     },
-    "N-856": {
+    "N-855": {
       "canonical_name": "Pete McCormick",
       "type": "person",
       "aliases": [],
@@ -10921,7 +10900,7 @@
         58
       ]
     },
-    "N-857": {
+    "N-856": {
       "canonical_name": "Allan McCormick",
       "type": "person",
       "aliases": [],
@@ -10929,7 +10908,7 @@
         58
       ]
     },
-    "N-858": {
+    "N-857": {
       "canonical_name": "Myron Gaines",
       "type": "person",
       "aliases": [],
@@ -10937,7 +10916,7 @@
         58
       ]
     },
-    "N-859": {
+    "N-858": {
       "canonical_name": "Bob Ferguson",
       "type": "person",
       "aliases": [],
@@ -10945,7 +10924,7 @@
         64
       ]
     },
-    "N-860": {
+    "N-859": {
       "canonical_name": "Kenneth Starr",
       "type": "person",
       "aliases": [],
@@ -10953,7 +10932,7 @@
         74
       ]
     },
-    "N-861": {
+    "N-860": {
       "canonical_name": "Merrick Garland",
       "type": "person",
       "aliases": [],
@@ -10961,7 +10940,7 @@
         74
       ]
     },
-    "N-862": {
+    "N-861": {
       "canonical_name": "Stephen Miller",
       "type": "person",
       "aliases": [],
@@ -10969,7 +10948,7 @@
         76
       ]
     },
-    "N-863": {
+    "N-862": {
       "canonical_name": "Les Wexner",
       "type": "person",
       "aliases": [],
@@ -10977,7 +10956,7 @@
         76
       ]
     },
-    "N-864": {
+    "N-863": {
       "canonical_name": "Frank Carney",
       "type": "person",
       "aliases": [],
@@ -10985,7 +10964,7 @@
         86
       ]
     },
-    "N-865": {
+    "N-864": {
       "canonical_name": "Matt Slauson",
       "type": "person",
       "aliases": [],
@@ -10994,7 +10973,7 @@
         98
       ]
     },
-    "N-866": {
+    "N-865": {
       "canonical_name": "Agent Hoole",
       "type": "person",
       "aliases": [],
@@ -11002,7 +10981,7 @@
         140
       ]
     },
-    "N-867": {
+    "N-866": {
       "canonical_name": "Officer Goforth",
       "type": "person",
       "aliases": [],
@@ -11011,7 +10990,7 @@
         155
       ]
     },
-    "N-868": {
+    "N-867": {
       "canonical_name": "Haim Braverman",
       "type": "person",
       "aliases": [],
@@ -11019,7 +10998,7 @@
         140
       ]
     },
-    "N-869": {
+    "N-868": {
       "canonical_name": "Britta Weidner",
       "type": "person",
       "aliases": [
@@ -11033,7 +11012,7 @@
         140
       ]
     },
-    "N-870": {
+    "N-869": {
       "canonical_name": "Michael George Carl",
       "type": "person",
       "aliases": [],
@@ -11041,7 +11020,7 @@
         152
       ]
     },
-    "N-871": {
+    "N-870": {
       "canonical_name": "David Leavitt",
       "type": "person",
       "aliases": [],
@@ -11049,7 +11028,7 @@
         152
       ]
     },
-    "N-872": {
+    "N-871": {
       "canonical_name": "Justin Bieber",
       "type": "person",
       "aliases": [],
@@ -11059,7 +11038,7 @@
         152
       ]
     },
-    "N-873": {
+    "N-872": {
       "canonical_name": "Stephen A. Smith",
       "type": "person",
       "aliases": [],
@@ -11067,7 +11046,7 @@
         152
       ]
     },
-    "N-874": {
+    "N-873": {
       "canonical_name": "Dana White",
       "type": "person",
       "aliases": [],
@@ -11075,7 +11054,7 @@
         161
       ]
     },
-    "N-875": {
+    "N-874": {
       "canonical_name": "Steve Witkoff",
       "type": "person",
       "aliases": [
@@ -11086,7 +11065,7 @@
         161
       ]
     },
-    "N-876": {
+    "N-875": {
       "canonical_name": "Britney Spears",
       "type": "person",
       "aliases": [],
@@ -11095,7 +11074,7 @@
         145
       ]
     },
-    "N-877": {
+    "N-876": {
       "canonical_name": "Jamie Lynn Spears",
       "type": "person",
       "aliases": [],
@@ -11103,7 +11082,7 @@
         32
       ]
     },
-    "N-878": {
+    "N-877": {
       "canonical_name": "Tony Blair",
       "type": "person",
       "aliases": [],
@@ -11111,7 +11090,7 @@
         32
       ]
     },
-    "N-879": {
+    "N-878": {
       "canonical_name": "Paris Jackson",
       "type": "person",
       "aliases": [],
@@ -11119,7 +11098,7 @@
         32
       ]
     },
-    "N-880": {
+    "N-879": {
       "canonical_name": "Spencer Pratt",
       "type": "person",
       "aliases": [],
@@ -11127,7 +11106,7 @@
         32
       ]
     },
-    "N-881": {
+    "N-880": {
       "canonical_name": "Jean-Michel Trogneux",
       "type": "person",
       "aliases": [],
@@ -11135,7 +11114,7 @@
         38
       ]
     },
-    "N-882": {
+    "N-881": {
       "canonical_name": "Eric Dupond-Moretti",
       "type": "person",
       "aliases": [],
@@ -11143,7 +11122,7 @@
         39
       ]
     },
-    "N-883": {
+    "N-882": {
       "canonical_name": "George H.W. Bush",
       "type": "person",
       "aliases": [],
@@ -11151,7 +11130,7 @@
         44
       ]
     },
-    "N-884": {
+    "N-883": {
       "canonical_name": "Ronald Reagan",
       "type": "person",
       "aliases": [],
@@ -11159,7 +11138,7 @@
         44
       ]
     },
-    "N-885": {
+    "N-884": {
       "canonical_name": "Tree Paine",
       "type": "person",
       "aliases": [
@@ -11169,17 +11148,15 @@
         61
       ]
     },
-    "N-886": {
+    "N-885": {
       "canonical_name": "Marc Anthony",
       "type": "person",
-      "aliases": [
-        "Mark Anthony"
-      ],
+      "aliases": [],
       "episodes": [
         61
       ]
     },
-    "N-887": {
+    "N-886": {
       "canonical_name": "Marty Singer",
       "type": "person",
       "aliases": [],
@@ -11187,7 +11164,7 @@
         61
       ]
     },
-    "N-888": {
+    "N-887": {
       "canonical_name": "Nelson Peltz",
       "type": "person",
       "aliases": [
@@ -11197,7 +11174,7 @@
         61
       ]
     },
-    "N-889": {
+    "N-888": {
       "canonical_name": "Justin Anderson",
       "type": "person",
       "aliases": [],
@@ -11205,7 +11182,7 @@
         61
       ]
     },
-    "N-890": {
+    "N-889": {
       "canonical_name": "Selena Gomez",
       "type": "person",
       "aliases": [],
@@ -11213,17 +11190,15 @@
         61
       ]
     },
-    "N-891": {
+    "N-890": {
       "canonical_name": "Anwar Hadid",
       "type": "person",
-      "aliases": [
-        "Anoir Hadid"
-      ],
+      "aliases": [],
       "episodes": [
         61
       ]
     },
-    "N-892": {
+    "N-891": {
       "canonical_name": "Fran Rothschild",
       "type": "person",
       "aliases": [],
@@ -11231,7 +11206,7 @@
         77
       ]
     },
-    "N-893": {
+    "N-892": {
       "canonical_name": "Savannah Hernandez",
       "type": "person",
       "aliases": [],
@@ -11239,7 +11214,7 @@
         92
       ]
     },
-    "N-894": {
+    "N-893": {
       "canonical_name": "Bettina Anderson",
       "type": "person",
       "aliases": [],
@@ -11248,7 +11223,7 @@
         93
       ]
     },
-    "N-895": {
+    "N-894": {
       "canonical_name": "David J. Harris",
       "type": "person",
       "aliases": [],
@@ -11256,7 +11231,7 @@
         92
       ]
     },
-    "N-896": {
+    "N-895": {
       "canonical_name": "Adnan Khashoggi",
       "type": "person",
       "aliases": [],
@@ -11264,7 +11239,7 @@
         93
       ]
     },
-    "N-897": {
+    "N-896": {
       "canonical_name": "Bryan Freedman",
       "type": "person",
       "aliases": [],
@@ -11274,7 +11249,7 @@
         102
       ]
     },
-    "N-898": {
+    "N-897": {
       "canonical_name": "Melissa Nathan",
       "type": "person",
       "aliases": [],
@@ -11282,7 +11257,7 @@
         98
       ]
     },
-    "N-899": {
+    "N-898": {
       "canonical_name": "Zalman Shapiro",
       "type": "person",
       "aliases": [],
@@ -11290,7 +11265,7 @@
         98
       ]
     },
-    "N-900": {
+    "N-899": {
       "canonical_name": "Andrew Guajardo",
       "type": "person",
       "aliases": [
@@ -11302,7 +11277,7 @@
         135
       ]
     },
-    "N-901": {
+    "N-900": {
       "canonical_name": "Ashley Brown Guajardo",
       "type": "person",
       "aliases": [
@@ -11314,7 +11289,7 @@
         135
       ]
     },
-    "N-902": {
+    "N-901": {
       "canonical_name": "Blake Harreff",
       "type": "person",
       "aliases": [],
@@ -11323,7 +11298,7 @@
         151
       ]
     },
-    "N-903": {
+    "N-902": {
       "canonical_name": "Bobby Sausalito",
       "type": "person",
       "aliases": [],
@@ -11332,7 +11307,7 @@
         155
       ]
     },
-    "N-904": {
+    "N-903": {
       "canonical_name": "Agent Mortensson",
       "type": "person",
       "aliases": [
@@ -11342,7 +11317,7 @@
         155
       ]
     },
-    "N-905": {
+    "N-904": {
       "canonical_name": "Miss Noble",
       "type": "person",
       "aliases": [],
@@ -11351,7 +11326,7 @@
         155
       ]
     },
-    "N-906": {
+    "N-905": {
       "canonical_name": "Chelsea Baugh",
       "type": "person",
       "aliases": [],
@@ -11359,7 +11334,7 @@
         155
       ]
     },
-    "N-907": {
+    "N-906": {
       "canonical_name": "Ashton Forbes",
       "type": "person",
       "aliases": [],
@@ -11367,7 +11342,7 @@
         16
       ]
     },
-    "N-908": {
+    "N-907": {
       "canonical_name": "Eric Weinstein",
       "type": "person",
       "aliases": [],
@@ -11375,7 +11350,7 @@
         20
       ]
     },
-    "N-909": {
+    "N-908": {
       "canonical_name": "Rick Rubin",
       "type": "person",
       "aliases": [],
@@ -11383,7 +11358,7 @@
         20
       ]
     },
-    "N-910": {
+    "N-909": {
       "canonical_name": "John Lewis",
       "type": "person",
       "aliases": [],
@@ -11391,7 +11366,7 @@
         20
       ]
     },
-    "N-911": {
+    "N-910": {
       "canonical_name": "MrBeast",
       "type": "person",
       "aliases": [],
@@ -11399,7 +11374,7 @@
         20
       ]
     },
-    "N-912": {
+    "N-911": {
       "canonical_name": "Che Ahn",
       "type": "person",
       "aliases": [],
@@ -11407,7 +11382,7 @@
         23
       ]
     },
-    "N-913": {
+    "N-912": {
       "canonical_name": "Dan Gertler",
       "type": "person",
       "aliases": [],
@@ -11415,7 +11390,7 @@
         23
       ]
     },
-    "N-914": {
+    "N-913": {
       "canonical_name": "John McCain",
       "type": "person",
       "aliases": [],
@@ -11423,7 +11398,7 @@
         42
       ]
     },
-    "N-915": {
+    "N-914": {
       "canonical_name": "George Santos",
       "type": "person",
       "aliases": [],
@@ -11431,7 +11406,7 @@
         43
       ]
     },
-    "N-916": {
+    "N-915": {
       "canonical_name": "Michael Flynn",
       "type": "person",
       "aliases": [],
@@ -11439,7 +11414,7 @@
         83
       ]
     },
-    "N-917": {
+    "N-916": {
       "canonical_name": "Clay Clark",
       "type": "person",
       "aliases": [],
@@ -11447,7 +11422,7 @@
         83
       ]
     },
-    "N-918": {
+    "N-917": {
       "canonical_name": "Chaz Yandle",
       "type": "person",
       "aliases": [],
@@ -11455,7 +11430,7 @@
         91
       ]
     },
-    "N-919": {
+    "N-918": {
       "canonical_name": "Corey Kennedy",
       "type": "person",
       "aliases": [],
@@ -11463,7 +11438,7 @@
         91
       ]
     },
-    "N-920": {
+    "N-919": {
       "canonical_name": "Casey DeSantis",
       "type": "person",
       "aliases": [],
@@ -11471,7 +11446,7 @@
         94
       ]
     },
-    "N-921": {
+    "N-920": {
       "canonical_name": "Roger Stone",
       "type": "person",
       "aliases": [],
@@ -11479,7 +11454,7 @@
         94
       ]
     },
-    "N-922": {
+    "N-921": {
       "canonical_name": "Jessica Tarlov",
       "type": "person",
       "aliases": [],
@@ -11487,7 +11462,7 @@
         94
       ]
     },
-    "N-923": {
+    "N-922": {
       "canonical_name": "Jack Dorsey",
       "type": "person",
       "aliases": [],
@@ -11495,7 +11470,7 @@
         94
       ]
     },
-    "N-924": {
+    "N-923": {
       "canonical_name": "Judge Liman",
       "type": "person",
       "aliases": [],
@@ -11503,7 +11478,7 @@
         99
       ]
     },
-    "N-925": {
+    "N-924": {
       "canonical_name": "Elizabeth Holmes",
       "type": "person",
       "aliases": [],
@@ -11511,7 +11486,7 @@
         121
       ]
     },
-    "N-926": {
+    "N-925": {
       "canonical_name": "Gary Javitch",
       "type": "person",
       "aliases": [],
@@ -11519,7 +11494,7 @@
         131
       ]
     },
-    "N-927": {
+    "N-926": {
       "canonical_name": "Stephen \"Twitch\" Boss",
       "type": "person",
       "aliases": [],
@@ -11527,7 +11502,7 @@
         131
       ]
     },
-    "N-928": {
+    "N-927": {
       "canonical_name": "Allison Holker",
       "type": "person",
       "aliases": [],
@@ -11535,7 +11510,7 @@
         131
       ]
     },
-    "N-929": {
+    "N-928": {
       "canonical_name": "Ellen DeGeneres",
       "type": "person",
       "aliases": [],
@@ -11543,7 +11518,7 @@
         131
       ]
     },
-    "N-930": {
+    "N-929": {
       "canonical_name": "Brian Atlas",
       "type": "person",
       "aliases": [],
@@ -11551,7 +11526,7 @@
         139
       ]
     },
-    "N-931": {
+    "N-930": {
       "canonical_name": "Dan Crenshaw",
       "type": "person",
       "aliases": [],
@@ -11559,7 +11534,7 @@
         139
       ]
     },
-    "N-932": {
+    "N-931": {
       "canonical_name": "Rabbi Shmuley Boteach",
       "type": "person",
       "aliases": [],
@@ -11568,7 +11543,7 @@
         145
       ]
     },
-    "N-933": {
+    "N-932": {
       "canonical_name": "Dan Steiner",
       "type": "person",
       "aliases": [],
@@ -11576,7 +11551,7 @@
         145
       ]
     },
-    "N-934": {
+    "N-933": {
       "canonical_name": "Sarah Rogers",
       "type": "person",
       "aliases": [],
@@ -16788,7 +16763,7 @@
       ]
     },
     "N-10404": {
-      "canonical_name": "Candace Owens Dream Vision of Andrew Kolbett",
+      "canonical_name": "Candace Owens Dream Vision of Andrew Kolvet",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -17420,7 +17395,7 @@
       ]
     },
     "N-10458": {
-      "canonical_name": "Arstrovski October 7th Photo Authenticity Question",
+      "canonical_name": "Ostrovsky October 7th Photo Authenticity Question",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -26168,7 +26143,7 @@
         145
       ]
     },
-    "N-935": {
+    "N-934": {
       "canonical_name": "Brett Kavanaugh",
       "type": "person",
       "aliases": [],
@@ -26200,7 +26175,7 @@
         3
       ]
     },
-    "N-936": {
+    "N-935": {
       "canonical_name": "Kyrie Irving",
       "type": "person",
       "aliases": [],
@@ -26296,7 +26271,7 @@
         18
       ]
     },
-    "N-937": {
+    "N-936": {
       "canonical_name": "Foster Friess",
       "type": "person",
       "aliases": [],
@@ -26344,7 +26319,7 @@
         47
       ]
     },
-    "N-938": {
+    "N-937": {
       "canonical_name": "Javier Milei",
       "type": "person",
       "aliases": [],
@@ -26400,7 +26375,7 @@
         59
       ]
     },
-    "N-939": {
+    "N-938": {
       "canonical_name": "Ulysses S. Grant",
       "type": "person",
       "aliases": [],
@@ -26408,7 +26383,7 @@
         67
       ]
     },
-    "N-940": {
+    "N-939": {
       "canonical_name": "Peggy Siegal",
       "type": "person",
       "aliases": [],
@@ -26416,7 +26391,7 @@
         67
       ]
     },
-    "N-941": {
+    "N-940": {
       "canonical_name": "Alex Acosta",
       "type": "person",
       "aliases": [],
@@ -26424,7 +26399,7 @@
         67
       ]
     },
-    "N-942": {
+    "N-941": {
       "canonical_name": "Will Cain",
       "type": "person",
       "aliases": [],
@@ -26448,7 +26423,7 @@
         67
       ]
     },
-    "N-943": {
+    "N-942": {
       "canonical_name": "Lee Brice",
       "type": "person",
       "aliases": [],
@@ -26456,7 +26431,7 @@
         71
       ]
     },
-    "N-944": {
+    "N-943": {
       "canonical_name": "Thomas G. Martin",
       "type": "person",
       "aliases": [],
@@ -26504,7 +26479,7 @@
         71
       ]
     },
-    "N-945": {
+    "N-944": {
       "canonical_name": "Dino Fonte Grassi",
       "type": "person",
       "aliases": [],
@@ -26512,7 +26487,7 @@
         80
       ]
     },
-    "N-946": {
+    "N-945": {
       "canonical_name": "Shannon Kent",
       "type": "person",
       "aliases": [],
@@ -26520,7 +26495,7 @@
         80
       ]
     },
-    "N-947": {
+    "N-946": {
       "canonical_name": "Johnny Yep",
       "type": "person",
       "aliases": [],
@@ -26544,7 +26519,7 @@
         85
       ]
     },
-    "N-948": {
+    "N-947": {
       "canonical_name": "Robbie Hild",
       "type": "person",
       "aliases": [],
@@ -26584,7 +26559,7 @@
         110
       ]
     },
-    "N-949": {
+    "N-948": {
       "canonical_name": "Itamar Ben-Gvir",
       "type": "person",
       "aliases": [],
@@ -26592,7 +26567,7 @@
         128
       ]
     },
-    "N-950": {
+    "N-949": {
       "canonical_name": "Blaine Holt",
       "type": "person",
       "aliases": [],
@@ -26664,7 +26639,7 @@
         149
       ]
     },
-    "N-951": {
+    "N-950": {
       "canonical_name": "Zack Costello",
       "type": "person",
       "aliases": [],
@@ -26672,7 +26647,7 @@
         153
       ]
     },
-    "N-952": {
+    "N-951": {
       "canonical_name": "Jim Spencer",
       "type": "person",
       "aliases": [],
@@ -26680,7 +26655,7 @@
         153
       ]
     },
-    "N-953": {
+    "N-952": {
       "canonical_name": "Rodney Stark",
       "type": "person",
       "aliases": [],

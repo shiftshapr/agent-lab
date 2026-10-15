@@ -57,7 +57,7 @@ This episode presents three principal evidentiary threads: (1) biographical mate
 
 A social media post from a self-identified childhood friend of Dan Flood is read aloud and provides artifact support for several biographical claims about Dan Flood's Texas origins, current New Braunfels residence, and prior security work at the Cattleman's Ball. A 2018 interview by Bobby Harpole is quoted directly to establish his law enforcement history.
 
-The episode also surfaces a Fox News reference (Israel to honor Charlie Kirk) and a Cornerstone Chapel video announcement featuring Pastor Gary Hamrick, Rob McCoy, and Samuel Smaja. Several viewer comments read aloud are preserved as artifacts per protocol.
+The episode also surfaces a Fox News reference (Israel to honor Charlie Kirk) and a Cornerstone Chapel video announcement featuring Pastor Gary Hamrick, Rob McCoy, and Samuel Smadja. Several viewer comments read aloud are preserved as artifacts per protocol.
 
 The structural importance of this episode is the introduction of the Flood-family investigative cluster and the public release of the TPUSA cease-and-desist letter, which simultaneously creates the drone-story discrepancy as an inscriptable target.
 
@@ -215,7 +215,7 @@ Confidence Level: Medium (not displayed; paraphrased)
 
 *Related: C-2142, N-2, N-10428*
 
-**A-1650.3** Charlie Kirk debate clip with Ben Corollo played on air, in which Charlie states "Unlike you, my wife lived in China for 6 months"
+**A-1650.3** Charlie Kirk debate clip with Ben Carollo played on air, in which Charlie states "Unlike you, my wife lived in China for 6 months"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -229,7 +229,7 @@ Confidence Level: High
 
 **A-1651** Cornerstone Chapel Announcement Bundle
 
-**A-1651.1** Pastor Gary Hamrick video announcement for a Cornerstone Chapel Wednesday night service on January 21, identifying the topic as antisemitism, listing Candace Owens and Tucker Carlson, and naming Rob McCoy and Samuel Smaja as guests
+**A-1651.1** Pastor Gary Hamrick video announcement for a Cornerstone Chapel Wednesday night service on January 21, identifying the topic as antisemitism, listing Candace Owens and Tucker Carlson, and naming Rob McCoy and Samuel Smadja as guests
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -478,7 +478,7 @@ Investigative Pressure: Low
 
 **N-334** Greg Shaffer
 
-Founder of Schaefer Security, identified by host as former FBI hostage rescue team member with Budapest stationing.
+Founder of Shaffer Security, identified by host as former FBI hostage rescue team member with Budapest stationing.
 
 Evidence Count: 0 (host narrative only)
 Claim Count: 0
@@ -489,7 +489,7 @@ Investigative Pressure: Low
 
 **N-458** Bill Montgomery
 
-Identified by host as the figure who convinced Charlie Kirk to start TPUSA and initially organized/paid for Charlie's security via Schaefer Security.
+Identified by host as the figure who convinced Charlie Kirk to start TPUSA and initially organized/paid for Charlie's security via Shaffer Security.
 
 Evidence Count: 0 (host narrative only)
 Claim Count: 0
@@ -575,7 +575,7 @@ Investigative Pressure: Low
 
 *Related: A-1651.1, C-2145, N-10429*
 
-**N-476** Samuel Smaja
+**N-476** Samuel Smadja
 
 Israeli businessman; named guest at the January 21 Cornerstone Chapel event.
 
@@ -586,7 +586,7 @@ Investigative Pressure: Low
 
 *Related: A-1651.1, C-2145, N-10429*
 
-**N-477** Ben Corollo
+**N-477** Ben Carollo
 
 Charlie Kirk's debate opponent in the clip where Charlie states his wife lived in China 6 months.
 
@@ -818,7 +818,7 @@ Paramount Tactical; the host says it told them the shot Frank Turek saw was only
 
 **N-11038** Scheper Security
 
-Scheper Security; the security firm that the Schaefer Security hiring claim appears to concern (spelling differs, see doubts).
+Scheper Security; the security firm that the Shaffer Security hiring claim appears to concern (spelling differs, see doubts).
 
 *Related: C-14191*
 
@@ -967,7 +967,7 @@ Investigative Direction: Verify through Army Reserve official records.
 
 **C-2131** Host-Shown LinkedIn Profile Lists Robert Flood as Member of the FBI Agent Association (FBIA)
 
-Claim Timestamp: 00:10:23
+Claim Timestamp: 00:09:03
 
 Claim: Per Robert Flood's LinkedIn profile, which the host shows on screen, he is a member of the FBI Agent Association (FBIA).
 
@@ -999,7 +999,7 @@ Investigative Direction: Cross-reference Illinois address records for Robert Flo
 
 Claim Timestamp: 00:13:36
 
-Claim: A social media post from a self-identified childhood friend states he attended middle and high school with Dan Flood in Allen, Texas.
+Claim: A social media post the host reads, from a self-described childhood friend, says he went to middle and high school with Dan Flood, whom the host says is from Allen, Texas and graduated high school there.
 
 Anchored Artifacts: A-1644.1
 Mentions: N-272
@@ -1032,7 +1032,7 @@ Claim Timestamp: 00:13:36
 Claim: The childhood friend's social media post states he last saw Dan Flood "doing security for some Dallas billionaire at the Cattleman's Ball."
 
 Anchored Artifacts: A-1644.1
-Mentions: N-272, N-458
+Mentions: N-272
 
 Related Nodes: N-10425
 
@@ -1042,7 +1042,7 @@ Investigative Direction: Identify the billionaire referenced and verify through 
 
 **C-2136** Bobby Harpole was born in Denton Texas
 
-Claim Timestamp: 00:15:02
+Claim Timestamp: 00:14:28
 
 Claim: Bobby Harpole states in his 2018 interview, "I was born in Denton, Texas."
 
@@ -1130,7 +1130,7 @@ NOTE: This claim artifact-anchored by A-1648.1 directly contradicts A-1649.1 (An
 
 ---
 
-**C-2142** TPUSA official response states Erica Kirk only visited China for 2 weeks and never lived there
+**C-2142** TPUSA Response Says Erika Kirk Only Visited China for 2 Weeks and Never Lived There
 
 Claim Timestamp: 00:32:01
 
@@ -1149,7 +1149,7 @@ Investigative Direction: Obtain the original TPUSA email in writing and reconcil
 
 Claim Timestamp: 00:32:51
 
-Claim: In the debate clip with Ben Corollo, Charlie Kirk states "Unlike you, my wife lived in China for 6 months and she'll show you the videos."
+Claim: In the debate clip with Ben Carollo, Charlie Kirk states "Unlike you, my wife lived in China for 6 months and she'll show you the videos."
 
 Anchored Artifacts: A-1650.3
 Mentions: N-1, N-2, N-477
@@ -1160,7 +1160,7 @@ Investigative Direction: Verify against the full debate transcript/recording.
 
 ---
 
-**C-2144** Erica Kirk publicly stated she was living in China working with victims of sex trafficking through her Everyday Heroes Like You charity
+**C-2144** Erika Kirk Publicly Stated She Was Living in China Working with Victims of Sex Trafficking Through Her Everyday Heroes Like You Charity
 
 Claim Timestamp: 00:31:02
 
@@ -1175,11 +1175,11 @@ Investigative Direction: Identify the specific China-based charity and verify sc
 
 ---
 
-**C-2145** Cornerstone Chapel announced a January 21 event on antisemitism featuring Rob McCoy and Samuel Smaja
+**C-2145** Cornerstone Chapel announced a January 21 event on antisemitism featuring Rob McCoy and Samuel Smadja
 
 Claim Timestamp: 00:34:31
 
-Claim: A Cornerstone Chapel video announcement by Pastor Gary Hamrick promotes a January 21 service on antisemitism in conservative politics, naming Candace Owens and Tucker Carlson, with guests Rob McCoy (Turning Point Faith) and Samuel Smaja (Israeli businessman).
+Claim: A Cornerstone Chapel video announcement by Pastor Gary Hamrick promotes a January 21 service on antisemitism in conservative politics, naming Candace Owens and Tucker Carlson, with guests Rob McCoy (Turning Point Faith) and Samuel Smadja (Israeli businessman).
 
 Anchored Artifacts: A-1651.1
 Mentions: N-17, N-475, N-476, N-22, N-3
@@ -1220,12 +1220,12 @@ Investigative Direction: Verify event attendance, security staffing, and Kash Pa
 
 **C-2148** The FBI Agent Association (FBIA) is a charity founded in 1981 with 14,000 current and former FBI special agents
 
-Claim Timestamp: 00:10:23
+Claim Timestamp: 00:09:15
 
-Claim: Per the FBIA website description read aloud, the FBIA was founded in 1981 and consists of 14,000 current and former FBI special agents.
+Claim: Per the FBIA website description the host reads aloud, the FBIA, which the host calls a charity, was founded in 1981 and consists of 14,000 former and current feds.
 
 Anchored Artifacts: A-1647.1
-Mentions: N-472
+Mentions: 
 
 
 Investigative Direction: Verify through FBIA official publications, IRS Form 990 filings, and the organization's own historical records.
@@ -1235,7 +1235,7 @@ Investigative Direction: Verify through FBIA official publications, IRS Form 990
 **C-3658** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:46:47
-Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Claim: The host says she would recommend the decentralized intelligence agency, since the public is more reliable than her sources, because they do not go after kids but defend and protect them.
 Transcript Snippet: ...y more reliable. 10 out of 10 would recommend the decentralized intelligence agency because we don't go after kids, right? We actually defend kids um and protect kids, which should be...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1249,7 +1249,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 Claim Timestamp: 00:02:04
 
-Claim: The host says an anonymous emailer claimed that the families behind the JFK murder, including corrupt cops and mafia members, were also involved in the assassination of Charlie Kirk, which she describes as a group of Texas boys; she says she did not engage with it.
+Claim: The host says an anonymous emailer claimed that the families behind the JFK murder, including corrupt cops and mafia members, were also involved in the assassination of Charlie Kirk, a group of Texas boys, and that she did not engage with it.
 
 Transcript Snippet: But he said that those same families were also involved in the assassination of Charlie Kirk, a group of Texas boys.
 
@@ -1415,7 +1415,7 @@ Transcript Snippet: Okay, this guy, no question, is and was a fed.
 Anchored Artifacts: A-1643.2
 Mentions: N-472, N-3
 Related Nodes: N-10425
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Her inference rests on a LinkedIn profile; confirm any federal service through FBI National Academy rosters and employment records.
 
 ---
@@ -1484,11 +1484,11 @@ Investigative Direction: Confirm Kirk's attendance and the school's former name 
 
 ---
 
-**C-14188** Host Says the Kirk Family Was Told to Drug Him for Being Brilliant and His Mother Refused
+**C-14188** Host Says Kirk Went to the X-Men School After They Wanted to Drug Him and His Mother Refused
 
 Claim Timestamp: 00:11:05
 
-Claim: The host says that Charlie Kirk attended the X-Men school after school staff wanted to drug him for being brilliant and his mother said no.
+Claim: The host says that Charlie Kirk attended the X-Men school after they wanted to drug him for being brilliant and his mother said no.
 
 Transcript Snippet: the X-Men school that Charlie went to after they wanted to drug him for being brilliant, and his mother said no.
 
@@ -1531,13 +1531,13 @@ Investigative Direction: Ask TPUSA or Montgomery for the early security contract
 
 ---
 
-**C-14191** Host Says Montgomery Hired Schaefer Security With Dan Flood and Brian Harpole Working Under Greg Shaffer
+**C-14191** Host Says Montgomery Hired Shaffer Security With Dan Flood and Brian Harpole Working Under Greg Shaffer
 
 Claim Timestamp: 00:11:30
 
-Claim: The host says Bill Montgomery chose to hire Schaefer Security, run by Greg Shaffer, with Dan Flood and Brian Harpole working under Schaefer.
+Claim: The host says Bill Montgomery chose to hire Shaffer Security, run by Greg Shaffer, with Dan Flood and Brian Harpole working under Greg Shaffer.
 
-Transcript Snippet: Bill Montgomery chose to hire Schaefer security, which was run by Greg Shaffer. And working under Greg Shaffer was Dan Flood and Brian Harpole.
+Transcript Snippet: Bill Montgomery chose to hire Shaffer Security, which was run by Greg Shaffer. And working under Greg Shaffer was Dan Flood and Brian Harpole.
 
 Anchored Artifacts: 
 Mentions: N-458, N-334, N-272, N-268
@@ -1600,7 +1600,7 @@ Investigative Direction: Confirm the gift date and amount through TPUSA announce
 
 Claim Timestamp: 00:12:43
 
-Claim: The host says the Buckman couple, spoken as Nelda and Karl Buckman, live in New Braunfels, Texas, the city her plane trackers saw Erika Kirk's plane keep visiting.
+Claim: The host says the Buckman couple, spoken as Nelda and Karl Buckman, live in New Braunfels, Texas, the city that people online tracking Erika Kirk's plane noticed it kept visiting.
 
 Transcript Snippet: The couple Nelda and Karl Buckman, they live there.
 
@@ -1720,7 +1720,7 @@ Transcript Snippet: This is this corruption goes back to Dallas in the 60s.
 Anchored Artifacts: A-3303.1
 Mentions: N-3
 Related Nodes: N-11388
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: The emailer's evidence is unknown; the host presents it as a point he made, not as proven.
 
 ---
@@ -1857,7 +1857,7 @@ Investigative Direction: Identify the officer and agency; request body camera fo
 
 Claim Timestamp: 00:25:50
 
-Claim: Andrew Kolvet says that after being grounded they left campus, flew the drone off campus and got the survey, and that this is why Harpole said they could not get a drone up.
+Claim: Andrew Kolvet says that after being grounded they left campus, flew the drone off campus and got the survey, and that this reinforced Harpole's statement that they could not get permission to get a drone up.
 
 Transcript Snippet: what we ended up having to do was leave campus. We flew the drone.
 
@@ -2020,7 +2020,7 @@ Investigative Direction: Locate the full debate to confirm the date, setting and
 
 Claim Timestamp: 00:32:55
 
-Claim: In the debate clip Charlie Kirk says his wife lived in China for six months and she will show videos and images, implying she holds footage from her time there.
+Claim: In the debate clip Charlie Kirk says his wife lived in China for six months and she will show videos and images.
 
 Transcript Snippet: my wife lived in China for 6 months and she'll show you the videos. She'll show you the images.
 

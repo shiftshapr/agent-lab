@@ -880,9 +880,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-772",
-      "ref": "N-772",
-      "name": "Michelle Bachmann",
+      "@id": "N-771",
+      "ref": "N-771",
+      "name": "Michele Bachmann",
       "type": "person",
       "description": "Michele Bachmann; named in the donor text as booed at the Tampa event (the transcript spells it Michele).",
       "related_artifacts": [],
@@ -1381,7 +1381,7 @@
       "@id": "C-2182",
       "ref": "C-2182",
       "label": "Charlie Kirk received a text-message pressure campaign from a self-identified Christian Zionist donor",
-      "claim": "Charlie Kirk received a text message from a female Christian Zionist donor warning him that platforming Candace Owens and Tucker Carlson placed him \"in violation of the Ninth Commandment\" and warning of biblical curses on those who \"curse Israel.\"",
+      "claim": "The host says Charlie Kirk received a text message from a female Christian Zionist donor, which she reads, warning him that platforming Candace Owens and Tucker Carlson placed him \"in violation of the Ninth Commandment\" and that those who \"curse Israel\" will be cursed.",
       "anchored_artifacts": [
         "A-1669.1"
       ],
@@ -1605,6 +1605,7 @@
       "claim_timestamp": "00:32:06",
       "investigative_direction": "Identify the part-time employee and obtain on-record confirmation and contemporaneous communications (texts, voicemails) of the home-visit termination; Marina Minas (N-495) is discussed in C-8304.",
       "mentions_person_refs": [
+        "N-495",
         "N-496"
       ]
     },
@@ -1921,7 +1922,7 @@
       "investigative_direction": "Check video and attendee accounts of Michele Bachmann's July 2025 Tampa appearance for booing and walkouts.",
       "transcript_snippet": "Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel.",
       "mentions_person_refs": [
-        "N-772"
+        "N-771"
       ]
     },
     {
@@ -2405,7 +2406,7 @@
       "@id": "C-8286",
       "ref": "C-8286",
       "label": "Host says she received a legal letter in part for saying military men infiltrated TPUSA",
-      "claim": "The host says that the day before she received a legal letter in part for noting that a bunch of military men seem to have infiltrated Turning Point USA.",
+      "claim": "The host says that the day before she told viewers she had received a legal letter in part for noting that a bunch of military men seem to have infiltrated Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11180",
@@ -2694,7 +2695,7 @@
       "@id": "C-8298",
       "ref": "C-8298",
       "label": "Host says she never spoke to the recorded employee",
-      "claim": "The host says she never spoke to this employee, may at most have seen her at an event, so the firing cannot be related to her.",
+      "claim": "The host says she never spoke to this employee, may at most have seen her at an event, and does not think the firing is related to her.",
       "anchored_artifacts": [
         "A-1674.1"
       ],
@@ -2896,7 +2897,7 @@
       "@id": "C-8307",
       "ref": "C-8307",
       "label": "Host infers TPUSA thought it would find something on the employees' computers",
-      "claim": "The host says her sense is that TPUSA thought it would find something, that there is some sort of paranoia going on, and that it hoped to grab the tech and find a leak.",
+      "claim": "The host says her sense is that TPUSA thought it would find something, that there is some sort of paranoia going on, and that it may have hoped to grab the tech and find something.",
       "anchored_artifacts": [
         "A-1675.2"
       ],
@@ -3051,7 +3052,7 @@
       "@id": "C-8314",
       "ref": "C-8314",
       "label": "Host says the legal letters are about the fear of being replaced",
-      "claim": "The host says the legal letters are really about TPUSA knowing something will rise to take its place, and that one cannot sue one's way into relevancy or public favor.",
+      "claim": "The host says she thinks the legal letters are really about TPUSA knowing something will rise to take its place, and that one cannot sue one's way into relevancy or public favor.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11180",

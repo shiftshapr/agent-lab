@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: ccc088e1afd1c59b5e5cc5c2b2958206b92ce5ce72a69a6b3b4672840c3aa324
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-815, N-816
+  - Tip-minted Nodes (supplement_2026-10c): N-814, N-815
   - Hole-minted Nodes (reintro-ep090): N-10679, N-10703
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8689–C-8754
   - New Nodes Introduced: N-10593, N-10595, N-10596, N-10597
   - Hole-minted Nodes (wave3): N-422, N-423
   - Tip-minted Nodes (skeleton-caleb): N-607
-  - Reused Nodes Appearing: N-10169, N-3, N-40, N-41, N-69, N-134, N-5, N-38, N-46, N-60, N-97, N-125, N-161, N-165, N-206, N-246, N-274, N-363, N-366, N-368, N-380, N-777, N-10000, N-10013, N-10024, N-10027, N-10029, N-10031, N-10271, N-10372, N-10416, N-10431, N-10568, N-10584, N-10628, N-10664, N-10900, N-10936, N-11002, N-11129, N-10594, N-10954, N-10598
+  - Reused Nodes Appearing: N-10169, N-3, N-40, N-41, N-69, N-134, N-5, N-38, N-46, N-60, N-97, N-125, N-161, N-165, N-206, N-246, N-274, N-363, N-366, N-368, N-380, N-776, N-10000, N-10013, N-10024, N-10027, N-10029, N-10031, N-10271, N-10372, N-10416, N-10431, N-10568, N-10584, N-10628, N-10664, N-10900, N-10936, N-11002, N-11129, N-10594, N-10954, N-10598
   - (see registers)
 
 # EVOLUTION 90 ANALYSIS
@@ -564,7 +564,7 @@ Named in the episode; cited by new claims.
 
 ---
 
-**N-777** Paula White
+**N-776** Paula White
 
 Named in the episode; cited by new claims.
 
@@ -740,7 +740,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-815** Mike Smith
+**N-814** Mike Smith
 
 Utah County Sheriff; first named by the host at 00:38:30 in episode 90 (Brooksby's call about Mike Mitchell).
 
@@ -748,7 +748,7 @@ Utah County Sheriff; first named by the host at 00:38:30 in episode 90 (Brooksby
 
 ---
 
-**N-816** Bishop Barron
+**N-815** Bishop Barron
 
 Bishop; first named by the host at 00:55:46 in episode 90 (stood beside Paula White during the prayer). Transcript spelling: Bishop Barron.
 
@@ -1676,7 +1676,7 @@ Claim: The host says Sheriff Brooksby then called the Utah County Sheriff Mike S
 Transcript Snippet: And um then Sheriff Broxby calls the Utah County Sheriff Mike Smith to tell him about the call that he just got from Mike Mitchell.
 
 Anchored Artifacts: 
-Mentions: N-3, N-274, N-815, N-125
+Mentions: N-3, N-274, N-814, N-125
 Related Nodes: N-10029
 Tags: relevance:core
 Investigative Direction: Obtain call logs and sheriff statements from both offices for the evening of September 11.
@@ -1921,7 +1921,7 @@ Claim: The host says Laura Loomer has been forcibly placed on 5150 holds and is 
 Transcript Snippet: Laura Loomer who have has been forcibly placed on site 5150 holds as his number one or one advisor.
 
 Anchored Artifacts: 
-Mentions: N-3, N-60, N-5, N-777
+Mentions: N-3, N-60, N-5, N-776
 Related Nodes: N-10628
 Tags: relevance:tangential
 Investigative Direction: Check public court and medical-hold records, if any, and Loomer's own statements on the matter.
@@ -1971,7 +1971,7 @@ Claim: The host says Bishop Barron stood beside Paula White during the prayer fo
 Transcript Snippet: Bishop Barron standing beside Paula White during that prayer, and his excuse is why he was there.
 
 Anchored Artifacts: 
-Mentions: N-3, N-816, N-777, N-5
+Mentions: N-3, N-815, N-776, N-5
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the event video and Bishop Barron's published explanation.

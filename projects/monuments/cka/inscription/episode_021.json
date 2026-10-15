@@ -268,7 +268,7 @@
           "related_nodes": [
             "N-5",
             "N-1",
-            "N-759"
+            "N-758"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1111,8 +1111,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-759",
-      "ref": "N-759",
+      "@id": "N-758",
+      "ref": "N-758",
       "name": "Breland Holland",
       "type": "person",
       "description": "First named by the host at 00:18:15 in episode 21. Boy the host says Charlie Kirk interviewed in fourth grade, referenced in Trump's memorial speech.",
@@ -1630,7 +1630,7 @@
         "N-5",
         "N-1",
         "N-3",
-        "N-759"
+        "N-758"
       ]
     },
     {

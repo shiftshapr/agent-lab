@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 939a276fa7153675fa4c129ca613874ab4780ba8fb986b1877810b00297f327b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-945, N-946, N-947, N-11396
+  - Tip-minted Nodes (supplement_2026-10g): N-944, N-945, N-946, N-11396
   - Hole-minted Nodes (reintro-ep080): N-10606
   - Tip-minted Nodes (reintro-ep080): N-602
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -704,7 +704,7 @@ Organization the host says is being sued over Romanian children.
 
 ---
 
-**N-945** Dino Fonte Grassi
+**N-944** Dino Fonte Grassi
 
 First named by the host at 00:31:39 in episode 80 (also rendered Dino Fontegrassi). President of the Turning Point USA University of Arkansas chapter who wrote the disaffiliation letter.
 
@@ -712,7 +712,7 @@ First named by the host at 00:31:39 in episode 80 (also rendered Dino Fontegrass
 
 ---
 
-**N-946** Shannon Kent
+**N-945** Shannon Kent
 
 First named by the host at 00:03:18 in episode 80. Joe Kent's late wife, whom the host says was killed by a suicide bomber in Syria in January 2019.
 
@@ -720,7 +720,7 @@ First named by the host at 00:03:18 in episode 80. Joe Kent's late wife, whom th
 
 ---
 
-**N-947** Johnny Yep
+**N-946** Johnny Yep
 
 First named by the host at 00:23:57 in episode 80 (transcribed as Johnny Yep and Johnny Yep). Organizer of Catholics for Catholics, per the host's description of the event organizer and a web check of the event.
 
@@ -1216,7 +1216,7 @@ Claim: The host says Joe Kent's late wife, Shannon Kent, was killed by a suicide
 Transcript Snippet: Shannon was the first female combat combat death in Syria uh since combat operations began against ISIS.
 
 Anchored Artifacts: 
-Mentions: N-211, N-946
+Mentions: N-211, N-945
 Related Nodes: N-10546
 Tags: relevance:context
 Investigative Direction: Check the Department of Defense casualty release and contemporaneous news reports on the January 2019 Manbij bombing for the date, cause and the 'first female' description.
@@ -1232,7 +1232,7 @@ Claim: The host says Shannon Kent was also the first female US service member ki
 Transcript Snippet: she was also the first female US service member that was killed by enemy fire in more than 3 years up until that point.
 
 Anchored Artifacts: 
-Mentions: N-211, N-946
+Mentions: N-211, N-945
 Related Nodes: N-10546
 Tags: relevance:context
 Investigative Direction: Compare against DoD casualty lists of female service members killed by hostile fire from 2015 to 2019.
@@ -1502,7 +1502,7 @@ Claim: The host says the organizer of Catholics for Catholics has been harassed 
 Transcript Snippet: the pain that they have put him through, the harassment that they have gone through because you're not allowed to have an event if it's with somebody that doesn't support mass murder in Gaza.
 
 Anchored Artifacts: 
-Mentions: N-947, N-3
+Mentions: N-946, N-3
 Related Nodes: N-10956, N-10063
 Tags: relevance:context
 Investigative Direction: Ask Catholics for Catholics for the harassment communications it received and compare with the host's description.
@@ -1617,7 +1617,7 @@ Claim: The host says the Arkansas chapter president, Dino Fonte Grassi, has been
 Transcript Snippet: he's been with Turning Point USA for more than 5 years.
 
 Anchored Artifacts: 
-Mentions: N-945
+Mentions: N-944
 Related Nodes: N-10545
 Tags: relevance:context
 Investigative Direction: Check chapter records and Fonte Grassi's public history with TPUSA.
@@ -1649,7 +1649,7 @@ Claim: The letter as read says the chapter has many grievances with Turning Poin
 Transcript Snippet: we have many grievances with Turning Point USA, which we will shortly make known to them in private, but I will share only one.
 
 Anchored Artifacts: A-1870.1
-Mentions: N-945
+Mentions: N-944
 Related Nodes: N-10545
 Tags: relevance:context
 Investigative Direction: Verify the text against Fonte Grassi's Instagram post and ask TPUSA whether it received the private grievances.
@@ -1665,7 +1665,7 @@ Claim: The letter as read says Charlie Kirk cannot speak for himself anymore and
 Transcript Snippet: Charlie Kirk cannot speak for himself anymore and we do not recognize the way others have attempted to speak for him.
 
 Anchored Artifacts: A-1870.1
-Mentions: N-945, N-1
+Mentions: N-944, N-1
 Related Nodes: N-10545
 Supports: C-2510
 Tags: relevance:context
@@ -1682,7 +1682,7 @@ Claim: The host says Charlie Kirk's July sit-down with students was meant to get
 Transcript Snippet: He sort of just sat up with a bunch of students and tried to get their opinion to show donors like you can't treat these kids like this.
 
 Anchored Artifacts: A-1871.1
-Mentions: N-1, N-945
+Mentions: N-1, N-944
 Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Identify the event, date and organizer of the July 2025 sit-down and any donor presentation that used it.
@@ -1715,7 +1715,7 @@ Claim: The host says she believes Dino Fonte Grassi appeared on The Charlie Kirk
 Transcript Snippet: He was also on the Charlie Kirk show. I believe he was on it actually after Charlie Kirk assassinated.
 
 Anchored Artifacts: 
-Mentions: N-945, N-1
+Mentions: N-944, N-1
 Related Nodes: N-10545
 Tags: relevance:context
 Investigative Direction: Check Charlie Kirk Show episode listings for Fonte Grassi after September 10, 2025.

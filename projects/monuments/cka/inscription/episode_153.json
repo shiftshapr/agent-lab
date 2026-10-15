@@ -1372,8 +1372,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-756",
-      "ref": "N-756",
+      "@id": "N-755",
+      "ref": "N-755",
       "name": "Astrid Tuminez",
       "type": "person",
       "description": "Astrid Tuminez; former UVU president who allegedly denied extra officers.",
@@ -1390,8 +1390,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-838",
-      "ref": "N-838",
+      "@id": "N-837",
+      "ref": "N-837",
       "name": "Macklemore",
       "type": "person",
       "description": "Macklemore; mentioned in the Sheeran comment reply.",
@@ -1407,8 +1407,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-839",
-      "ref": "N-839",
+      "@id": "N-838",
+      "ref": "N-838",
       "name": "Ed Sheeran",
       "type": "person",
       "description": "Ed Sheeran; mentioned in the comment reply.",
@@ -1424,8 +1424,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-951",
-      "ref": "N-951",
+      "@id": "N-950",
+      "ref": "N-950",
       "name": "Zack Costello",
       "type": "person",
       "description": "First named by the host at 00:40:52 in episode 153 as the YouTuber who compared Robinson's finger posture across the two clips. The transcript spells him Costello, Castello, Cassell and Zack Costello.",
@@ -1442,8 +1442,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-952",
-      "ref": "N-952",
+      "@id": "N-951",
+      "ref": "N-951",
       "name": "Jim Spencer",
       "type": "person",
       "description": "First named by the host at 00:48:11 in episode 153 as the founder of Scripps News who teaches digital media at UT Austin.",
@@ -1459,8 +1459,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-953",
-      "ref": "N-953",
+      "@id": "N-952",
+      "ref": "N-952",
       "name": "Rodney Stark",
       "type": "person",
       "description": "First named by the host at 01:04:14 in episode 153 as the author of Bearing False Witness, introduced to her by Charlie Kirk.",
@@ -2588,7 +2588,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-273",
-        "N-756"
+        "N-755"
       ]
     },
     {
@@ -2615,7 +2615,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-756"
+        "N-755"
       ]
     },
     {
@@ -3108,7 +3108,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-40",
-        "N-951"
+        "N-950"
       ]
     },
     {
@@ -3131,7 +3131,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-40",
-        "N-951"
+        "N-950"
       ]
     },
     {
@@ -3478,7 +3478,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-952",
+        "N-951",
         "N-462"
       ]
     },
@@ -3634,8 +3634,8 @@
       "transcript_snippet": "The Perisio lobby, they just operate like termites.",
       "mentions_person_refs": [
         "N-3",
-        "N-838",
-        "N-839"
+        "N-837",
+        "N-838"
       ]
     },
     {
@@ -3957,7 +3957,7 @@
       "transcript_snippet": "we are reading bearing false witness and that is by Rodney Stark and uh actually this author was introduced to me by Charlie Kirk.",
       "mentions_person_refs": [
         "N-3",
-        "N-953",
+        "N-952",
         "N-1"
       ]
     }

@@ -248,7 +248,7 @@
           "@type": "Artifact",
           "@id": "A-2809.1",
           "ref": "A-2809.1",
-          "description": "Host verbal reference to the unnamed person who fielded TPUSA's PR requests and wrote the death statement, whom the host says she fact-checked against Doug DeGroot's account (not shown)",
+          "description": "Host verbal reference to the unnamed person who fielded TPUSA's PR requests and wrote the death statement, whom the host says she fact-checked against Doug DeGroote's account (not shown)",
           "related_claims": [
             "C-6354",
             "C-6353"
@@ -869,7 +869,7 @@
       "@type": "Person",
       "@id": "N-498",
       "ref": "N-498",
-      "name": "Doug DeGroot",
+      "name": "Doug DeGroote",
       "type": "person",
       "description": "Opening callback: board-member claim that media pressure forced rapid Erika CEO naming.",
       "related_artifacts": [],
@@ -1646,7 +1646,7 @@
       "ref": "N-11092",
       "name": "Erika CEO Appointment Timing Explanation (DeGroot versus TPUSA PR Source)",
       "type": "topic",
-      "description": "Conflict between board member Doug DeGroot's account that journalist pressure forced a rapid CEO naming and the host's TPUSA PR source who told her otherwise.",
+      "description": "Conflict between board member Doug DeGroote's account that journalist pressure forced a rapid CEO naming and the host's TPUSA PR source who told her otherwise.",
       "related_artifacts": [],
       "related_claims": [
         "C-6353",
@@ -2845,8 +2845,8 @@
       "@type": "Claim",
       "@id": "C-6353",
       "ref": "C-6353",
-      "label": "Doug DeGroot says journalists' pressure forced TPUSA to name a successor quickly",
-      "claim": "The host says board member and financial adviser Doug DeGroot attributes the rapid naming of Erika to journalists pressing Turning Point USA for who would replace Charlie rather than for updates on the unlocated shooter.",
+      "label": "Doug DeGroote says journalists' pressure forced TPUSA to name a successor quickly",
+      "claim": "The host says board member and financial adviser Doug DeGroote attributes the rapid naming of Erika to journalists pressing Turning Point USA for who would replace Charlie rather than for updates on the unlocated shooter.",
       "anchored_artifacts": [
         "A-2809.1"
       ],

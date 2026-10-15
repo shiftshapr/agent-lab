@@ -1392,7 +1392,7 @@
       "ref": "N-10401",
       "name": "Romania / Eastern Europe Trafficking Cluster",
       "type": "investigation_target",
-      "description": "Persistent investigation target aggregating Tyler Bowyer's 2011 Romania trip, Romanian Angels project (Lori Frantzve charity), Colonel Otto Buscher brothel allegations, Greg Laurie's Harvest Church, and Andrew Piscatello's Ukrainian trafficking warnings.",
+      "description": "Persistent investigation target aggregating Tyler Bowyer's 2011 Romania trip, Romanian Angels project (Lori Frantzve charity), Colonel Otto Busher brothel allegations, Greg Laurie's Harvest Church, and Andrew Piscatello's Ukrainian trafficking warnings.",
       "related_artifacts": [
         "A-1597.1"
       ],
@@ -2158,8 +2158,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-756",
-      "ref": "N-756",
+      "@id": "N-755",
+      "ref": "N-755",
       "name": "Astrid Tuminez",
       "type": "person",
       "description": "UVU president; the host notes her Russian studies degree.",
@@ -2645,8 +2645,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-804",
-      "ref": "N-804",
+      "@id": "N-803",
+      "ref": "N-803",
       "name": "Paul Vallely",
       "type": "person",
       "description": "First named by the host at 01:20:03 in episode 54. Retired Army intelligence officer; the host says he is on the TPUSA advisory board and co-wrote Mind War. Spelled Vallely and Vallely in the transcript.",
@@ -2664,8 +2664,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-805",
-      "ref": "N-805",
+      "@id": "N-804",
+      "ref": "N-804",
       "name": "Andrew Piscatello",
       "type": "person",
       "description": "First named by the host at 00:15:55 in episode 54. Photographer early mistaken for the shooter.",
@@ -3133,7 +3133,7 @@
       "@id": "C-2036",
       "ref": "C-2036",
       "label": "Moon-affiliated American Freedom Coalition provided approximately $5 million and personnel to support Oliver North during Iran-Contra",
-      "claim": "Per the 1997 Washington Post article, Unificationists provided approximately $5 million and personnel to the American Freedom Coalition, which built popular support for Colonel Oliver North during the Iran-Contra probe.",
+      "claim": "Per the 1997 Washington Post article, former church members said Unificationists provided about $5 million and the personnel that gave the American Freedom Coalition its grassroots strength; the coalition built popular support for Colonel Oliver North during the Iran-Contra probe.",
       "anchored_artifacts": [
         "A-1599.7"
       ],
@@ -3184,7 +3184,6 @@
       "investigative_direction": "Locate the cited passage in *The Israel Lobby* (Mearsheimer/Walt); cross-check against FAA aircraft registration records and contemporaneous news coverage of Falwell's aircraft acquisition.",
       "mentions_person_refs": [
         "N-400",
-        "N-402",
         "N-406"
       ]
     },
@@ -3253,7 +3252,7 @@
       "@id": "C-2042",
       "ref": "C-2042",
       "label": "Liberty Godparent Home residents were locked in rooms 24 hours a day with restricted contact in mid-1990s",
-      "claim": "Per the recorded phone call with an anonymous former resident, the Liberty Godparent Home locked residents in their rooms 24 hours a day with no visitors allowed (other than via collect calls or pay phone) when she was a resident circa 1994.",
+      "claim": "Per the recorded phone call with an anonymous former resident, the Liberty Godparent Home locked residents in their rooms 24 hours a day and did not allow visitors when she was a resident circa 1994.",
       "anchored_artifacts": [
         "A-1604.1"
       ],
@@ -3290,8 +3289,8 @@
       "@type": "Claim",
       "@id": "C-2044",
       "ref": "C-2044",
-      "label": "Carey Hezekiah was a bootlegger/smuggler who shot his brother Garland dead (per Rolling Stone)",
-      "claim": "Per host's citation of Rolling Stone, Jerry Falwell Sr.'s father Carey Hezekiah was a bootlegger, smuggler, and trafficker who shot his brother Garland dead following a fight.",
+      "label": "Carey Hezekiah Was a Bootlegger/Smuggler Who Shot His Brother Garland Dead (Per Washington Post)",
+      "claim": "Per host's citation of the Washington Post, Jerry Falwell Sr.'s father Carey Hezekiah was a drunk and bootlegger, and also a smuggler and trafficker, who shot his brother Garland dead following a fight.",
       "anchored_artifacts": [
         "A-1605.1"
       ],
@@ -3489,7 +3488,7 @@
       "@id": "C-8132",
       "ref": "C-8132",
       "label": "Host Says Police Chief Took Measures Himself to Run the Vigil",
-      "claim": "The host says the tipster told her the police chief decided to take measures himself to make sure the vigil went off without a hitch, and that no police involvement had been scheduled for the event.",
+      "claim": "The host says the police chief apparently decided to take measures himself to make sure the vigil went off without a hitch, and that no police officer involvement had been scheduled for the event.",
       "anchored_artifacts": [
         "A-2924.1"
       ],
@@ -3616,7 +3615,7 @@
         "N-10670"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:07:47",
       "investigative_direction": "Confirm Johnny Moore's role with the Gaza Humanitarian Foundation through GHF announcements and press reports.",
@@ -3698,7 +3697,7 @@
       "@id": "C-8141",
       "ref": "C-8141",
       "label": "Host Says Erika Became a Falkirk Fellow While Dating Charlie",
-      "claim": "The host says that when she and Charlie were dating but not yet married, Erika Frandsen became a Falkirk fellow and they hit the road together working on the Falkirk Center.",
+      "claim": "The host says that when Erika Frantzve and Charlie were dating but not yet married, Erika became a Falkirk fellow and the two hit the road together working on the Falkirk Center.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11163"
@@ -3708,7 +3707,7 @@
       ],
       "claim_timestamp": "00:09:14",
       "investigative_direction": "Find Falkirk Center fellow listings or contemporaneous posts naming Erika Frantzve as a fellow.",
-      "transcript_snippet": "Erika Frandsen, because her and Charlie were not yet married, they were dating, she became a Falkirk fellow.",
+      "transcript_snippet": "Erika Frantzve, because her and Charlie were not yet married, they were dating, she became a Falkirk fellow.",
       "mentions_person_refs": [
         "N-2",
         "N-1"
@@ -3782,7 +3781,7 @@
       "@id": "C-8145",
       "ref": "C-8145",
       "label": "Host Says Lori Frantzve Established the Everyday Heroes Foundation in Arizona",
-      "claim": "The host says Lori Frantzve (spelled Francev in the transcript), Erika's mother, established the Everyday Heroes Foundation in Arizona to help children in need, and that the Romanian Angels project spun out of it.",
+      "claim": "The host says Lori Frantzve, Erika's mother, established the Everyday Heroes Foundation in Arizona to help children in need, and that the Romanian Angels project spun out of it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11166",
@@ -3793,7 +3792,7 @@
       ],
       "claim_timestamp": "00:10:40",
       "investigative_direction": "Obtain Arizona Corporation Commission and IRS filings for the Everyday Heroes Foundation naming its founder and officers.",
-      "transcript_snippet": "Lori Francev uh established the Everyday Heroes Foundation which was supposed to help children in need.",
+      "transcript_snippet": "Lori Frantzve uh established the Everyday Heroes Foundation which was supposed to help children in need.",
       "mentions_person_refs": [
         "N-491",
         "N-2"
@@ -3824,8 +3823,8 @@
       "@type": "Claim",
       "@id": "C-8147",
       "ref": "C-8147",
-      "label": "Host Says Romanian Angels Worked With Colonel Otto Buscher",
-      "claim": "The host says it is a fact that Romanian Angels worked with Colonel Otto Buscher at the time.",
+      "label": "Host Says Romanian Angels Worked With Colonel Otto Busher",
+      "claim": "The host says it is a fact that Romanian Angels worked with Colonel Otto Busher at the time.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11165"
@@ -3834,8 +3833,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:11:09",
-      "investigative_direction": "Locate Romanian Angels thank-you posts or news coverage naming Colonel Buscher and the dates of cooperation.",
-      "transcript_snippet": "Now, it is a fact that they worked with at that time Colonel Otto Buscher.",
+      "investigative_direction": "Locate Romanian Angels thank-you posts or news coverage naming Colonel Busher and the dates of cooperation.",
+      "transcript_snippet": "Now, it is a fact that they worked with at that time Colonel Otto Busher.",
       "mentions_person_refs": [
         "N-691",
         "N-2"
@@ -3845,8 +3844,8 @@
       "@type": "Claim",
       "@id": "C-8148",
       "ref": "C-8148",
-      "label": "Host Says Colonel Buscher Was Accused of Running a Brothel With Young Children",
-      "claim": "The host says Colonel Otto Buscher was accused of running a brothel with young children, taking them onto a military base, and that a woman filed a complaint in Romania alleging children were prostituted to military men.",
+      "label": "Host Says Colonel Busher Was Accused of Running a Brothel With Young Children",
+      "claim": "The host says Colonel Otto Busher was accused of running a brothel with young children, taking them onto a military base, and that a woman filed in Romania saying children were prostituted to military men.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10401"
@@ -3855,8 +3854,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:11:09",
-      "investigative_direction": "Find the Romanian complaint, any prosecutor's file and press coverage of the allegation against Buscher and its outcome.",
-      "transcript_snippet": "Colonel Otto Buscher was then accused of running a brothel with young children.",
+      "investigative_direction": "Find the Romanian complaint, any prosecutor's file and press coverage of the allegation against Busher and its outcome.",
+      "transcript_snippet": "Colonel Otto Busher was then accused of running a brothel with young children.",
       "mentions_person_refs": [
         "N-691"
       ]
@@ -3865,8 +3864,8 @@
       "@type": "Claim",
       "@id": "C-8149",
       "ref": "C-8149",
-      "label": "Host Says No Article Names Erika or Lori in the Buscher Allegation",
-      "claim": "The host says there are no articles saying Erika Frantzve or Lori Frantzve were involved in the brothel allegation, only that they worked on the Romanian project with Colonel Buscher.",
+      "label": "Host Says No Article Names Erika or Lori in the Busher Allegation",
+      "claim": "The host says there are no articles saying Erika Frantzve or Lori Frantzve were involved in the brothel allegation, only that they worked on the Romanian project with Colonel Busher.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11165"
@@ -3875,7 +3874,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:11:09",
-      "investigative_direction": "Search news archives for the Buscher allegation for any mention of Romanian Angels, Erika Frantzve or Lori Frantzve.",
+      "investigative_direction": "Search news archives for the Busher allegation for any mention of Romanian Angels, Erika Frantzve or Lori Frantzve.",
       "transcript_snippet": "there is no articles that say Erika Francev or Lori were involved in this",
       "qualifies_claim_refs": [
         "C-8148"
@@ -3920,7 +3919,7 @@
         "N-10000"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:12:58",
       "investigative_direction": "Review the court docket for the Harvest Christian Fellowship Romanian abuse lawsuit and TPUSA event listings featuring Laurie.",
@@ -3941,7 +3940,7 @@
         "N-10401"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:12:58",
       "investigative_direction": "Check Army public affairs releases or promotion lists for Curtis Kolvet's rank and posting.",
@@ -3969,7 +3968,7 @@
       "transcript_snippet": "We have Tyler Bowyer who holds a degree in Russian studies and is fluent in Russian",
       "mentions_person_refs": [
         "N-11",
-        "N-756"
+        "N-755"
       ]
     },
     {
@@ -4124,7 +4123,7 @@
       "investigative_direction": "Identify Piscatello's credentials and who authorized his access to the UVU event.",
       "transcript_snippet": "It ended up being that he was photographing that he was taking pictures, he was a photographer not hired by Turning Point USA.",
       "mentions_person_refs": [
-        "N-805"
+        "N-804"
       ]
     },
     {
@@ -4144,7 +4143,7 @@
       "investigative_direction": "Review Piscatello's Instagram posts on Ukrainian trafficking for dates and claims.",
       "transcript_snippet": "Uh but he has rang the alarm before on military Ukrainian sex trafficking that is happening in the United States.",
       "mentions_person_refs": [
-        "N-805"
+        "N-804"
       ]
     },
     {
@@ -4688,7 +4687,7 @@
       "@id": "C-8187",
       "ref": "C-8187",
       "label": "Caller Says Labor Was Induced and She Was More Than Three or Four Months Along",
-      "claim": "The caller says staff had to induce labor and she was over three or four months pregnant, without knowing how far along she was.",
+      "claim": "The caller says staff had to induce labor and that she was over three or four months pregnant.",
       "anchored_artifacts": [
         "A-1604.1"
       ],
@@ -4710,7 +4709,7 @@
       "@id": "C-8188",
       "ref": "C-8188",
       "label": "Host Says Liberty Told the Caller It Could Not Find Her Records",
-      "claim": "The host says that although the caller can pull her court records, Liberty says its 1990s records are electronic and it cannot find her, despite her having had a baby in a house at age 13.",
+      "claim": "The host says the caller told her that although she can pull all her court records, Liberty University is, in effect, saying its 1990s records are electronic and 'we can't find you,' despite her having had a baby in a house at age 13.",
       "anchored_artifacts": [
         "A-1604.1"
       ],
@@ -4774,7 +4773,6 @@
       "transcript_snippet": "and 2 years later she gets an invite to join Trump Pageant World.",
       "mentions_person_refs": [
         "N-409",
-        "N-2",
         "N-3"
       ]
     },
@@ -4862,17 +4860,14 @@
       ],
       "claim_timestamp": "00:35:05",
       "investigative_direction": "Contact the Liberty Lost podcast team for the number and dates of resident accounts.",
-      "transcript_snippet": "For the last 2 years I've been investigating the maternity home after connecting with several residents who went through the home as pregnant teenage girls both in the 1990s and in 2008.",
-      "mentions_person_refs": [
-        "N-407"
-      ]
+      "transcript_snippet": "For the last 2 years I've been investigating the maternity home after connecting with several residents who went through the home as pregnant teenage girls both in the 1990s and in 2008."
     },
     {
       "@type": "Claim",
       "@id": "C-8195",
       "ref": "C-8195",
-      "label": "Abby Johnson Says Her Parents Sent Her to the Home With a Liberty Scholarship Promise",
-      "claim": "In the ABC clip, Abby Johnson says that at 16 she got pregnant and her parents sent her across the country to the Liberty Godparent Home with a promise of a scholarship to Liberty University.",
+      "label": "ABC Report Says Abby Johnson's Parents Sent Her to the Home With a Liberty Scholarship Promise",
+      "claim": "In the ABC clip, the reporter says that Abby Johnson got pregnant at 16 and that her parents sent her across the country to the Liberty Godparent Home with a promise of a scholarship to Liberty University.",
       "anchored_artifacts": [
         "A-1598.1"
       ],
@@ -5188,9 +5183,6 @@
       "transcript_snippet": "And how Liberty University might be connected to the drug smuggling military base he's referring to Fort Huachuca",
       "supports_claim_refs": [
         "C-5388"
-      ],
-      "mentions_person_refs": [
-        "N-401"
       ]
     },
     {
@@ -5310,7 +5302,7 @@
       "@id": "C-8214",
       "ref": "C-8214",
       "label": "Host Says TPUSA Is Getting Into Real Estate to Teach Young Conservatives to Buy Houses",
-      "claim": "The host says, according to a tip she has, Turning Point USA is getting into real estate because it is going to teach young conservatives how to buy houses, with Tyler Bowyer leading the charge.",
+      "claim": "The host says, according to a tip she has, Turning Point USA is getting into real estate, remarking sarcastically that they are going to teach young conservatives how to buy houses, 'I'm sure,' with Tyler Bowyer leading the charge.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -5577,7 +5569,7 @@
       "@id": "C-8226",
       "ref": "C-8226",
       "label": "Washington Post Says Moon Group Shares a Suite With Martial Arts Federation and Washington Times Aviation",
-      "claim": "Reading the 1997 Washington Post article, the host says the International Coalition for Religious Freedom, which a former employee said signs his checks, shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.",
+      "claim": "Reading the 1997 Washington Post article, the host says the International Coalition for Religious Freedom, which Borderlin said signs his checks these days, shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.",
       "anchored_artifacts": [
         "A-2922.8"
       ],
@@ -6015,7 +6007,7 @@
       "investigative_direction": "Check TPUSA's website and archived board listings for Vallely.",
       "transcript_snippet": "Cuz Paul Vallely is also on the advisory board of Turning Point USA.",
       "mentions_person_refs": [
-        "N-804",
+        "N-803",
         "N-10000"
       ]
     },
@@ -6036,7 +6028,7 @@
       "investigative_direction": "Verify the authorship of Mind War and Vallely's and Aquino's military service.",
       "transcript_snippet": "He co-wrote the book Mind War with Michael Aquino Aquino who was an army intel psychological operations officer and an avowed Satanist.",
       "mentions_person_refs": [
-        "N-804",
+        "N-803",
         "N-451"
       ]
     },
@@ -6062,7 +6054,7 @@
         "C-5388"
       ],
       "mentions_person_refs": [
-        "N-804",
+        "N-803",
         "N-3"
       ]
     },

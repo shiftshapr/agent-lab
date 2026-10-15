@@ -1744,8 +1744,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-778",
-      "ref": "N-778",
+      "@id": "N-777",
+      "ref": "N-777",
       "name": "Caitlyn Oliver",
       "type": "person",
       "description": "First named by the host at 00:30:07 in episode 124. ATF forensic biologist who testified on DNA at the preliminary hearing.",
@@ -1765,8 +1765,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-779",
-      "ref": "N-779",
+      "@id": "N-778",
+      "ref": "N-778",
       "name": "Samantha Carner",
       "type": "person",
       "description": "First named by the host at 00:37:36 in episode 124. ATF ballistics expert who testified on day four about bullet fragment 6A.",
@@ -1783,8 +1783,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-780",
-      "ref": "N-780",
+      "@id": "N-779",
+      "ref": "N-779",
       "name": "Matt Robinson",
       "type": "person",
       "description": "First named by the host at 00:06:50 in episode 124. Tyler Robinson's father, whose prints the host says were on the gun. Aliases: Matt Robinson.",
@@ -2919,7 +2919,7 @@
       "transcript_snippet": "I believe that the reason they did it, the reason why they went insane was to overcome the testimony of Caitlyn Oliver.",
       "mentions_person_refs": [
         "N-3",
-        "N-778",
+        "N-777",
         "N-40"
       ]
     },
@@ -2944,7 +2944,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-40",
-        "N-778"
+        "N-777"
       ]
     },
     {
@@ -2967,9 +2967,9 @@
       "transcript_snippet": "which of course included Lance Twiggs. Uh it also included Matt Robinson, Tyler's father.",
       "mentions_person_refs": [
         "N-3",
-        "N-778",
+        "N-777",
         "N-54",
-        "N-780",
+        "N-779",
         "N-40"
       ]
     },
@@ -2993,7 +2993,7 @@
       "investigative_direction": "Obtain the evidence photographs, collection notes and the identity of who performed the swabs.",
       "transcript_snippet": "So, they were swabbed together. So, I wouldn't be able to say um where the DNA came from.",
       "mentions_person_refs": [
-        "N-778",
+        "N-777",
         "N-40"
       ]
     },
@@ -3017,7 +3017,7 @@
       "transcript_snippet": "because they kept saying that his DNA was on the trigger. And she's admitting it could be the trigger guard.",
       "mentions_person_refs": [
         "N-3",
-        "N-778",
+        "N-777",
         "N-40"
       ]
     },
@@ -3071,7 +3071,7 @@
       "transcript_snippet": "it was weird off the bat that they said they took seven bullet uh seven fragments from Charlie's body. She testifies that she only received four of them in an envelope",
       "mentions_person_refs": [
         "N-3",
-        "N-779",
+        "N-778",
         "N-1"
       ]
     },
@@ -3099,7 +3099,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-779",
+        "N-778",
         "N-40"
       ]
     },

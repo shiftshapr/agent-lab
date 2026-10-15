@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: fd62017fc03da5f558a7a5932524ae356911ad85bc96f8539a17038700b77b76
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-813, N-814
+  - Tip-minted Nodes (supplement_2026-10c): N-812, N-813
   - Hole-minted Nodes (reintro-ep088): N-10594, N-10710, N-10729
   - Tip-minted Nodes (reintro-ep088): N-10936, N-11135
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -853,7 +853,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-813** Eric Swalwell
+**N-812** Eric Swalwell
 
 First named by the host at 00:46:55 in episode 88. Congressman the host says Trump believed Bondi tipped off about an FBI inquiry into his relationship with Christine Fang.
 
@@ -861,7 +861,7 @@ First named by the host at 00:46:55 in episode 88. Congressman the host says Tru
 
 ---
 
-**N-814** Christine Fang
+**N-813** Christine Fang
 
 First named by the host at 00:46:55 in episode 88. Woman the host calls the Chinese spy girl in her account of Swalwell's relationship and the FBI documents.
 
@@ -1982,7 +1982,7 @@ Claim: The host says reports indicate Trump fired Bondi because he believes she 
 Transcript Snippet: he believes that she is the one that tipped off Eric Swalwell
 
 Anchored Artifacts: 
-Mentions: N-3, N-5, N-85, N-813
+Mentions: N-3, N-5, N-85, N-812
 Related Nodes: N-10586
 Tags: relevance:context
 Investigative Direction: Locate the articles the host says contain this account and verify who sourced it.
@@ -1998,7 +1998,7 @@ Claim: The host says the FBI was apparently preparing documents on Swalwell's re
 Transcript Snippet: the FBI was sort of preparing um, a bunch of documents relating to his relationship with Christine Fang
 
 Anchored Artifacts: 
-Mentions: N-3, N-813, N-814
+Mentions: N-3, N-812, N-813
 Related Nodes: N-10586
 Tags: relevance:context
 Investigative Direction: Check public reporting on the FBI's handling of the Fang file.

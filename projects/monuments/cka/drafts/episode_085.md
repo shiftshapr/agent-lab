@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11397
   - Hole-minted Nodes (reintro-ep085): N-420, N-10571, N-10572, N-10722
-  - Tip-minted Nodes (reintro-ep085): N-614, N-678, N-780, N-10919
+  - Tip-minted Nodes (reintro-ep085): N-614, N-678, N-779, N-10919
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14450–C-14549
   - Reused Nodes Appearing: N-10567, N-10566, N-5, N-9, N-14, N-15, N-17, N-22, N-30, N-36, N-37, N-39, N-55, N-69, N-82, N-99, N-125, N-180, N-192, N-211, N-214, N-222, N-454, N-601, N-602, N-10000, N-10011, N-10012, N-10015, N-10021, N-10022, N-10024, N-10027, N-10029, N-10048, N-10063, N-10110, N-10117, N-10129, N-10141, N-10142, N-10151, N-10153, N-10202, N-10229, N-10271, N-10300, N-10311, N-10316, N-10338, N-10349, N-10355, N-10360, N-10436, N-10443, N-10446, N-10505, N-10539, N-10541, N-10546, N-10563, N-10621, N-11011, N-11054, N-11080, N-11128, N-11129, N-11131
@@ -670,7 +670,7 @@ Jonathan Barcelo (node spelled Barcelo); the Long Beach trip and background clai
 
 ---
 
-**N-780** Matt Robinson
+**N-779** Matt Robinson
 
 Matt Robinson, Tyler Robinson's father.
 
@@ -2513,7 +2513,7 @@ Claim: The host says Robinson's father never said his son did this and that she 
 Transcript Snippet: His father, by the way, never ever ever said his son did this.
 
 Anchored Artifacts: 
-Mentions: N-780, N-40, N-3
+Mentions: N-779, N-40, N-3
 Related Nodes: N-10022
 Supports: C-12123
 Tags: relevance:core
@@ -2530,7 +2530,7 @@ Claim: The host says her sources tell her Robinson's father does not believe the
 Transcript Snippet: He does not believe that the person looks like his son that is coming up to coming up the staircase.
 
 Anchored Artifacts: 
-Mentions: N-780, N-40, N-3
+Mentions: N-779, N-40, N-3
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Identify the sources; compare the staircase photos with known photos of Robinson; check affidavit language on recognition.
@@ -2676,7 +2676,7 @@ Claim: The host says that in his later account of the surrender Brooksby never s
 Transcript Snippet: never says that he signed a statement, never says that he said he was guilty, never said that his dad said he was guilty.
 
 Anchored Artifacts: 
-Mentions: N-274, N-40, N-780, N-3
+Mentions: N-274, N-40, N-779, N-3
 Related Nodes: N-10021, N-10566
 Contradicts: C-2597
 Tags: relevance:core
@@ -2693,7 +2693,7 @@ Claim: The host says Brooksby said that Mike Mitchell told him Robinson's dad re
 Transcript Snippet: He said that Mike Mitchell told him his dad recognized him.
 
 Anchored Artifacts: 
-Mentions: N-274, N-125, N-780, N-3
+Mentions: N-274, N-125, N-779, N-3
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Find where Brooksby said this; it does not appear in the two clips played in this episode.
@@ -2709,7 +2709,7 @@ Claim: The host says Mike Mitchell is now speaking on behalf of Matt Robinson an
 Transcript Snippet: Mike Mitchell is now speaking on behalf of Matt Robinson.
 
 Anchored Artifacts: 
-Mentions: N-125, N-780, N-3
+Mentions: N-125, N-779, N-3
 Related Nodes: N-10141, N-10022
 Tags: relevance:core
 Investigative Direction: Find any public statement by Mitchell for the Robinson family and any police-station statement signed by him.

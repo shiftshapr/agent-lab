@@ -1255,8 +1255,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-777",
-      "ref": "N-777",
+      "@id": "N-776",
+      "ref": "N-776",
       "name": "Paula White",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1673,8 +1673,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-815",
-      "ref": "N-815",
+      "@id": "N-814",
+      "ref": "N-814",
       "name": "Mike Smith",
       "type": "person",
       "description": "Utah County Sheriff; first named by the host at 00:38:30 in episode 90 (Brooksby's call about Mike Mitchell).",
@@ -1690,8 +1690,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-816",
-      "ref": "N-816",
+      "@id": "N-815",
+      "ref": "N-815",
       "name": "Bishop Barron",
       "type": "person",
       "description": "Bishop; first named by the host at 00:55:46 in episode 90 (stood beside Paula White during the prayer). Transcript spelling: Bishop Barron.",
@@ -3004,7 +3004,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-274",
-        "N-815",
+        "N-814",
         "N-125"
       ]
     },
@@ -3373,7 +3373,7 @@
         "N-3",
         "N-60",
         "N-5",
-        "N-777"
+        "N-776"
       ]
     },
     {
@@ -3442,8 +3442,8 @@
       "transcript_snippet": "Bishop Barron standing beside Paula White during that prayer, and his excuse is why he was there.",
       "mentions_person_refs": [
         "N-3",
-        "N-816",
-        "N-777",
+        "N-815",
+        "N-776",
         "N-5"
       ]
     },

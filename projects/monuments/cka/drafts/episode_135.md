@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: bf83885e7ed25e55d64fb92daad61c1729233894484548da93484ca3b9d1514e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-900, N-901, N-11301, N-11302, N-11303
+  - Tip-minted Nodes (supplement_2026-10e): N-899, N-900, N-11301, N-11302, N-11303
   - Hole-minted Nodes (reintro-ep135): N-10790
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11635–C-11701
@@ -673,7 +673,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-900** Andrew Guajardo
+**N-899** Andrew Guajardo
 
 First named by the host at 00:00:50 in episode 135 as Dr. Andrew Guajardo, the deputy chief medical examiner who signed off on Charlie Kirk's autopsy. Transcript spellings: Gohardo, Gerhardt, Guajardo.
 
@@ -683,7 +683,7 @@ Aliases: Andrew Gohardo; Andrew Gerhardt; Dr. Andrew Guajardo
 
 ---
 
-**N-901** Ashley Brown Guajardo
+**N-900** Ashley Brown Guajardo
 
 First named by the host at 00:05:07 in episode 135 as Dr. Ashley Brown Guajardo, a sociologist and game-culture researcher married to Dr. Andrew Guajardo. Transcript also spells her Kowhardo.
 
@@ -1037,7 +1037,7 @@ Claim: The host says the person who signed off on Charlie Kirk's autopsy was Dr.
 Transcript Snippet: The person who signed off on it though is one that we are going to be speaking about, Dr. Andrew Guajardo.
 
 Anchored Artifacts: 
-Mentions: N-900, N-1
+Mentions: N-899, N-1
 Related Nodes: N-10183
 Tags: relevance:core
 Investigative Direction: Check the signature block of the Kirk autopsy report (once released) for the signing pathologist.
@@ -1085,7 +1085,7 @@ Claim: The host says Dr. Andrew Guajardo is from New York, moved to Utah in 2018
 Transcript Snippet: He is from New York. He moved to Utah in 2018 and was working as an assistant at the medical examiner's office.
 
 Anchored Artifacts: 
-Mentions: N-900
+Mentions: N-899
 Related Nodes: N-10183
 Tags: relevance:context
 Investigative Direction: Verify Guajardo's employment history through Utah state personnel records or his published CV.
@@ -1101,7 +1101,7 @@ Claim: The host says that when Dr. Deidra Amaro became chief medical examiner in
 Transcript Snippet: she decided to select him as her deputy, so he was promoted in 2024 when she got there to the role of deputy chief examiner.
 
 Anchored Artifacts: 
-Mentions: N-178, N-900
+Mentions: N-178, N-899
 Related Nodes: N-10183
 Tags: relevance:context
 Investigative Direction: Check Utah Department of Health and Human Services announcements for the 2024 appointment of a deputy chief medical examiner.
@@ -1197,7 +1197,7 @@ Claim: The host says Dr. Andrew Guajardo is married to Dr. Ashley Brown Guajardo
 Transcript Snippet: He's married to a woman named Dr. Ashley Brown Guajardo.
 
 Anchored Artifacts: 
-Mentions: N-900, N-901
+Mentions: N-899, N-900
 Related Nodes: N-11303
 Tags: relevance:tangential
 Investigative Direction: Confirm the marriage through public records or the couple's own biographies.
@@ -1213,7 +1213,7 @@ Claim: The host asserts that the wife of the medical examiner encourages, suppor
 Transcript Snippet: he's married to someone who encourages, supports, works with, and propagates the culture of furries, and occasionally dresses up as one herself.
 
 Anchored Artifacts: A-3146.1
-Mentions: N-900, N-901
+Mentions: N-899, N-900
 Related Nodes: N-11303
 Tags: relevance:tangential
 Investigative Direction: Locate the original posts or video the host showed and establish date, account and whether the person shown is Dr. Ashley Brown Guajardo.
@@ -1229,7 +1229,7 @@ Claim: The host says the video shows Dr. Ashley Brown Guajardo dancing as a furr
 Transcript Snippet: she was dancing as a furry, and she was promoting uh her book, and she used the hashtag, you know, furry.
 
 Anchored Artifacts: A-3146.1
-Mentions: N-901
+Mentions: N-900
 Related Nodes: N-11303
 Tags: relevance:tangential
 Investigative Direction: Find the original social media post, its date and the account that published it.
@@ -1245,7 +1245,7 @@ Claim: The host says Dr. Ashley Brown Guajardo earned her degree at Arizona Stat
 Transcript Snippet: she then earned her PhD in sociology overseas at the University of Manchester and then she became a teacher.
 
 Anchored Artifacts: A-3147.1
-Mentions: N-901
+Mentions: N-900
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Check her published CV or university profile for degrees and institutions.
@@ -1261,7 +1261,7 @@ Claim: The host reads from Dr. Ashley Brown Guajardo's bio that she was previous
 Transcript Snippet: previously Dr. Kowhardo was faculty at Brunel University in London and then the University of Utah.
 
 Anchored Artifacts: A-3147.1
-Mentions: N-901
+Mentions: N-900
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Compare against her university faculty page and CV.
@@ -1277,7 +1277,7 @@ Claim: The host reads from the bio that since 2017 Dr. Ashley Brown Guajardo has
 Transcript Snippet: Since 2017, she's hosted a weekly educational Twitch stream on games user research models.
 
 Anchored Artifacts: A-3147.1
-Mentions: N-901
+Mentions: N-900
 Related Nodes: N-11303
 Tags: relevance:tangential
 Investigative Direction: Find the Twitch channel and verify the start date and the content of the streams.
@@ -1293,7 +1293,7 @@ Claim: The host says Dr. Ashley Brown Guajardo was vice president of the Global 
 Transcript Snippet: She was vice president of the Global Game Jam conference, co-director of IGDA's games user research special interest group.
 
 Anchored Artifacts: A-3147.1
-Mentions: N-901
+Mentions: N-900
 Related Nodes: N-11302
 Tags: relevance:tangential
 Investigative Direction: Check the organizations' leadership pages and archived rosters for her titles and dates.
@@ -1309,7 +1309,7 @@ Claim: The host says Dr. Ashley Brown Guajardo currently serves as president of 
 Transcript Snippet: And currently serves as the president of the Digital Games Research Association.
 
 Anchored Artifacts: A-3147.1
-Mentions: N-901
+Mentions: N-900
 Related Nodes: N-11301
 Tags: relevance:tangential
 Investigative Direction: Check the association's website and filings for its current officers.
@@ -1325,7 +1325,7 @@ Claim: The host says Dr. Ashley Brown Guajardo is the author of a book on sexual
 Transcript Snippet: and she's currently working on a book which explores how fantasy can shape your sexual desire.
 
 Anchored Artifacts: A-3147.1
-Mentions: N-901
+Mentions: N-900
 Related Nodes: N-11303
 Tags: relevance:tangential
 Investigative Direction: Check publisher and library catalogs for her authored titles and announced forthcoming book.
@@ -1357,7 +1357,7 @@ Claim: The host says Dr. Ashley Brown Guajardo spent 10 years as a University of
 Transcript Snippet: encouraging her students and her gamers to join her on her Discord, to follow her Twitch, her streamer account.
 
 Anchored Artifacts: 
-Mentions: N-901
+Mentions: N-900
 Related Nodes: N-10013, N-11303
 Tags: relevance:tangential
 Investigative Direction: Find the Discord server and syllabi or posts where students were invited, and compare membership against names in the Robinson case.
@@ -1389,7 +1389,7 @@ Claim: The host says Dr. Andrew Guajardo and Dr. Ashley Brown Guajardo have move
 Transcript Snippet: Now, he's going to be the chief medical examiner in New York, and she's going to be teaching at NYU.
 
 Anchored Artifacts: A-3148.1
-Mentions: N-900, N-901
+Mentions: N-899, N-900
 Related Nodes: N-11305
 Tags: relevance:core
 Investigative Direction: Check New York City announcements of the chief medical examiner appointment and NYU faculty listings.
@@ -1405,7 +1405,7 @@ Claim: The host says Dr. Ashley Brown Guajardo is now a full-time assistant arts
 Transcript Snippet: Now she's the assistant arts professor at NYU full-time.
 
 Anchored Artifacts: A-3148.1
-Mentions: N-901
+Mentions: N-900
 Related Nodes: N-11305
 Tags: relevance:tangential
 Investigative Direction: Check the NYU faculty directory and her LinkedIn history for titles and dates.

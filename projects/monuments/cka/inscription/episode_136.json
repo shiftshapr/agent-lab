@@ -485,7 +485,7 @@
           ],
           "related_nodes": [
             "N-10772",
-            "N-753"
+            "N-752"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -512,7 +512,7 @@
           "related_nodes": [
             "N-10774",
             "N-3",
-            "N-753"
+            "N-752"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -841,8 +841,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-753",
-      "ref": "N-753",
+      "@id": "N-752",
+      "ref": "N-752",
       "name": "Allan Robertson",
       "type": "person",
       "description": "Named by the host as the red-hat man on the Losee rooftop (C-3199).",
@@ -1601,7 +1601,7 @@
       "investigative_direction": "Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.",
       "mentions_person_refs": [
         "N-558",
-        "N-753"
+        "N-752"
       ]
     },
     {
@@ -2211,7 +2211,7 @@
       "investigative_direction": "Review the early scene footage for Robertson giving directions and compare to the incident command roster.",
       "transcript_snippet": "Alan Robertson, as we're going through all that early footage, he actually seems like he's the person that's immediately in charge.",
       "mentions_person_refs": [
-        "N-753",
+        "N-752",
         "N-3"
       ]
     },
@@ -2235,7 +2235,7 @@
       "investigative_direction": "Obtain the livestream source and review it for the red-hat man's phone use and any other officers' behavior.",
       "transcript_snippet": "You see him walking around and texting and making calls.",
       "mentions_person_refs": [
-        "N-753"
+        "N-752"
       ]
     },
     {
@@ -2280,7 +2280,7 @@
       "investigative_direction": "Interview officers at the scene about who directed the rooftop response and obtain the command roster.",
       "transcript_snippet": "there seems to be an immediate understanding that this Alan Robertson character who shall not be named is calling the shots.",
       "mentions_person_refs": [
-        "N-753",
+        "N-752",
         "N-263",
         "N-508"
       ]
@@ -2304,7 +2304,7 @@
       "investigative_direction": "Obtain Robertson's San Bernardino PD employment dates through a California public records request.",
       "transcript_snippet": "But he was also a police officer just before going to Utah in San Bernardino, California.",
       "mentions_person_refs": [
-        "N-753"
+        "N-752"
       ]
     },
     {
@@ -2349,7 +2349,7 @@
       "investigative_direction": "Search the Brady List site for officers from other departments to confirm that not all officers are listed.",
       "transcript_snippet": "I searched online and said nope that's not what they do.",
       "mentions_person_refs": [
-        "N-753"
+        "N-752"
       ]
     },
     {
@@ -2369,7 +2369,7 @@
       "investigative_direction": "Review public reporting, DOJ findings and court records about San Bernardino PD misconduct.",
       "transcript_snippet": "Obviously, you guys also know there's a lot of corruption in the San Bernardino, California Police Department.",
       "mentions_person_refs": [
-        "N-753",
+        "N-752",
         "N-3"
       ]
     },
@@ -2392,7 +2392,7 @@
       "investigative_direction": "Obtain USU hiring and lateral-transfer paperwork showing Robertson's start date and prior employer.",
       "transcript_snippet": "he decided to go in August 2024 despite the fact that his entire life has been in California.",
       "mentions_person_refs": [
-        "N-753",
+        "N-752",
         "N-3"
       ]
     },
@@ -2415,7 +2415,7 @@
       "investigative_direction": "Seek the underlying Brady disclosure or personnel records for Robertson via public-records requests and defense-bar contacts.",
       "transcript_snippet": "it is definitely what I would assert is a plausibility uh that Alan E. Robertson was involved in something in San Bernardino.",
       "mentions_person_refs": [
-        "N-753",
+        "N-752",
         "N-3"
       ]
     },
@@ -2440,7 +2440,7 @@
       "transcript_snippet": "please send us tips to more tips at candacewowens. com",
       "mentions_person_refs": [
         "N-3",
-        "N-753"
+        "N-752"
       ]
     },
     {
@@ -2484,7 +2484,7 @@
       "investigative_direction": "Ask prosecutors whether Robertson is on any witness list and obtain the chain of custody for who recovered the screwdriver.",
       "transcript_snippet": "I think it's plausible that the person who actually found the screwdriver was Alan Robertson.",
       "mentions_person_refs": [
-        "N-753",
+        "N-752",
         "N-3"
       ]
     },

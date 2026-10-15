@@ -15,6 +15,16 @@
     ],
     "reviewed": [
       {
+        "claim": "C-14111",
+        "node": "N-445",
+        "reason": "claim text: 'the man who killed Abe' (Tetsuya Yamagami); verification pass 2026-10-15"
+      },
+      {
+        "claim": "C-14112",
+        "node": "N-445",
+        "reason": "claim text: 'the man who killed Abe' (Tetsuya Yamagami); verification pass 2026-10-15"
+      },
+      {
         "claim": "C-12427",
         "node": "N-30",
         "reason": "claim text: 'her husband' (George); verification pass 2026-10-15"
@@ -732,21 +742,21 @@
         "reason": "Katherine Locastro is named in A-1902.2 text (ep83); first minted in the 2026-10-13 skeleton fill at ep84. Wave 4 debt."
       },
       {
-        "id": "N-832",
+        "id": "N-831",
         "episodes": [
           94
         ],
         "reason": "Kathy Nester (defense attorney): named in existing ep94 claim C-2769 text; node minted in supplement batch 3 (ep142) where she is first linked. Claims are immutable, so the earlier naming is accepted rather than rewritten."
       },
       {
-        "id": "N-839",
+        "id": "N-838",
         "episodes": [
           152
         ],
         "reason": "Ed Sheeran: named in passing in existing ep152 claim C-3458 text; node minted in supplement batch 3 (ep160). Incidental mention; accepted rather than rewriting an immutable claim."
       },
       {
-        "id": "N-872",
+        "id": "N-871",
         "episodes": [
           14,
           32
@@ -754,14 +764,14 @@
         "reason": "Justin Bieber: named in passing in existing claims C-7884 (ep14) and C-1706 (ep32); node minted in supplement batch 4 (ep152). Incidental; accepted rather than rewriting immutable claims."
       },
       {
-        "id": "N-905",
+        "id": "N-904",
         "episodes": [
           124
         ],
         "reason": "Miss Noble: named in existing ep124 claim C-3005; node minted in supplement batch 5 (ep155). Accepted rather than rewriting an immutable claim."
       },
       {
-        "id": "N-902",
+        "id": "N-901",
         "episodes": [
           149
         ],
@@ -775,21 +785,21 @@
         "reason": "False positive by name: C-9573 (ep26) names the philosopher Karl Marx in a reading-list remark; N-729 is Victor Marx's father, introduced in ep91."
       },
       {
-        "id": "N-881",
+        "id": "N-880",
         "episodes": [
           20
         ],
         "reason": "Jean-Michel Trogneux: named in passing in supplement claim C-12247 (ep20); node introduced in ep38. Incidental mention."
       },
       {
-        "id": "N-924",
+        "id": "N-923",
         "episodes": [
           88
         ],
         "reason": "Judge Liman: named in existing ep88 claim C-8634 text; node minted in supplement batch 6 (ep99). Accepted rather than rewriting the claim."
       },
       {
-        "id": "N-948",
+        "id": "N-947",
         "episodes": [
           13,
           14
@@ -797,7 +807,7 @@
         "reason": "Robbie Hild: named in earlier claims C-10789 (ep13) and C-7874 (ep14); the person node was minted in supplement batch 7 (ep87), where the topic node N-10153 already existed. Accepted rather than rewriting the claims."
       },
       {
-        "id": "N-881",
+        "id": "N-880",
         "episodes": [
           35
         ],
@@ -824,6 +834,6 @@
     "topic_min": 10000,
     "topic_max": null,
     "person_high_min": null,
-    "note": "Daveed, 2026-10-13: persons are N-1..N-9987 and topic/org/place nodes are N-10000+. Ids were compacted with no holes (audits/id_compaction_2026-10-13/id_map.csv). New persons continue from canonical next_person_id, new topic/org/place nodes from next_investigation_id. No tombstones: a merged or retired id is not reserved."
+    "note": "Daveed, 2026-10-13: persons are N-1..N-9986 and topic/org/place nodes are N-10000+. Ids were compacted with no holes (audits/id_compaction_2026-10-13/id_map.csv). New persons continue from canonical next_person_id, new topic/org/place nodes from next_investigation_id. No tombstones: a merged or retired id is not reserved."
   }
 }

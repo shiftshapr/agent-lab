@@ -1,0 +1,532 @@
+[
+ {
+  "claim": "C-5569",
+  "episode": 60,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-332"
+   ]
+  },
+  "note": "Claim does not refer to Candace."
+ },
+ {
+  "claim": "C-2158",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim names only TPUSA and Owens."
+ },
+ {
+  "claim": "C-2159",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Kirk assassination refers to Charlie; Owens named; Erika not referred to."
+ },
+ {
+  "claim": "C-2160",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-3"
+   ]
+  },
+  "note": "Owens named."
+ },
+ {
+  "claim": "C-2161",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "McCoy not in claim; Owens named."
+ },
+ {
+  "claim": "C-2162",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Owens named."
+ },
+ {
+  "claim": "C-2164",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Owens named."
+ },
+ {
+  "claim": "C-2165",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Owens named."
+ },
+ {
+  "claim": "C-2166",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Tim Dillon says TPUSA wants people's money and wants to be celebrities, and that they are mad because Owens told her audience not to give TPUSA money.",
+   "mentions": [
+    "N-279",
+    "N-3"
+   ]
+  },
+  "note": "Dillon clip: 'They want your money and they want to be celebrities'; 'primarily' unsupported."
+ },
+ {
+  "claim": "C-2168",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "claim": "Owens states she has had a speaking contract with Turning Point USA \"going back to like what 2019 2020.\"",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Quote matches transcript."
+ },
+ {
+  "claim": "C-2169",
+  "episode": 61,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host reads the TPUSA letter, which states that Owens's agreements with TPUSA were terminated on December 2, 2025.",
+   "timestamp": "00:10:35",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Dec 2 date is in the letter read ~10:40, not Owens's own statement; named Owens instead of 'her'."
+ },
+ {
+  "claim": "C-2170",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-17",
+    "N-3"
+   ]
+  },
+  "note": "Owens named."
+ },
+ {
+  "claim": "C-2171",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-482"
+   ]
+  },
+  "note": "Victoria not named or specifically referred to."
+ },
+ {
+  "claim": "C-2174",
+  "episode": 61,
+  "decision": "amend",
+  "fix": {
+   "claim": "Brooklyn Beckham alleges his mother called him \"evil\" because he and Nicola chose to include his nanny and Nicola's nanny, two grandparents whose husbands were not there, at their table.",
+   "mentions": [
+    "N-482",
+    "N-483",
+    "N-484"
+   ],
+   "timestamp": "00:38:04"
+  },
+  "note": "Fix wording matches; quote spoken ~38:09, before claimed 38:22."
+ },
+ {
+  "claim": "C-2175",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "claim": "Brooklyn Beckham alleges that his mother hijacked what had been planned as his romantic first dance with Nicola: Marc Anthony called him to the stage, and his mother danced inappropriately with him in front of the guests.",
+   "mentions": [
+    "N-482",
+    "N-483",
+    "N-484",
+    "N-886"
+   ]
+  },
+  "note": "Brooklyn: Marc Anthony called HIM to the stage; mom danced inappropriately."
+ },
+ {
+  "claim": "C-2176",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "claim": "The Vogue wedding article reports that the first dance between Brooklyn and Nicola was to \"Only Fools Rush In,\" performed by South African artist Lloyiso.",
+   "mentions": [
+    "N-482",
+    "N-483"
+   ],
+   "names": [
+    {
+     "wrong": "Lizo",
+     "right": "Lloyiso",
+     "source": "https://www.gulftoday.ae/News/2022/04/11/David-Beckham-s-son-Brooklyn-Nicola-Peltz-tie-the-knot"
+    }
+   ]
+  },
+  "note": "Lloyiso confirmed (W Magazine, IOL, TimesLIVE: sang Only Fools Rush In at the wedding)."
+ },
+ {
+  "claim": "C-2177",
+  "episode": 61,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host reads from the Vogue wedding article that Marc Anthony took over the DJ decks to close out the celebrations; she says his late-night set started at 11 p.m.",
+   "mentions": [
+    "N-886"
+   ]
+  },
+  "note": "11 p.m. is host's own statement; reworded so it doesn't attach to 'celebrations'."
+ },
+ {
+  "claim": "C-2180",
+  "episode": 61,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "'Biggest possible failure' of head of security clearly refers to Kirk's assassination; Erika not referred to."
+ },
+ {
+  "claim": "C-11119",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Owens named."
+ },
+ {
+  "claim": "C-11120",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Owens named."
+ },
+ {
+  "claim": "C-11121",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Owens named."
+ },
+ {
+  "claim": "C-11127",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that after Erika Kirk's statement, TPUSA responded, in her paraphrase, that Charlie did send such a message but they had not known because it was in a 'special' app, and that he also messaged Dan Flood, which they had not known because they were not talking to Flood.",
+   "names": [
+    {
+     "wrong": "Dan Fly",
+     "right": "Dan Flood",
+     "source": "https://ksltv.com/local-news/security-chief-recounts-charlie-kirk-shot/848360/"
+    }
+   ]
+  },
+  "note": "Host voices TPUSA's 'I didn't know'; Dan Flood is TPUSA security chief (KSL, SLTrib); transcript also says Dan Flood."
+ },
+ {
+  "claim": "C-11131",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim does not refer to Erika."
+ },
+ {
+  "claim": "C-11159",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Mark Anthony",
+     "right": "Marc Anthony",
+     "source": "https://edition.cnn.com/2026/01/23/entertainment/peltz-beckham-dj-wedding-dance-intl-scli"
+    }
+   ]
+  },
+  "note": "Marc Anthony confirmed as performer at Beckham wedding (CNN, E!)."
+ },
+ {
+  "claim": "C-11169",
+  "episode": 61,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Nicola Peltz was dating Anwar Hadid, Bella Hadid's brother, that he stopped talking to his whole family, and that they were very relieved when the couple broke up, adding 'allegedly' about the family's view of her.",
+   "names": [
+    {
+     "wrong": "Anoir Hadid",
+     "right": "Anwar Hadid",
+     "source": "https://www.yahoo.com/entertainment/celebrity/articles/nicola-peltz-dating-history-anwar-174701014.html"
+    }
+   ]
+  },
+  "note": "Anwar Hadid confirmed (People/AOL, Capital); kept 'Bella Hadid's brother' as spoken so N-544 is referred to."
+ },
+ {
+  "claim": "C-11179",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads says a lawsuit means loads of depositions and discovery; the host says she would then have access to all the text messages and could put together a timeline."
+  },
+  "note": "Depositions/discovery line is viewer Tiffany's comment."
+ },
+ {
+  "claim": "C-2193",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-495",
+    "N-496"
+   ]
+  },
+  "note": "Claim names Marina Minas."
+ },
+ {
+  "claim": "C-2195",
+  "episode": 63,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:12:40",
+   "claim": "In a clip the host plays, Erika Kirk tells the call that \"a lot of this the staff that worked on the memorial, they had 20[-hour] days for a week during the time of us grieving the loss of my husband.\"",
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Quote at 12:42 ok; new quote says 'my husband' (Charlie), so add N-1."
+ },
+ {
+  "claim": "C-2196",
+  "episode": 63,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:17:30",
+   "claim": "In a clip the host plays, Erika Kirk tells employees: \"if you do need additional time off, please talk to your director about using paid time off for that,\" while also saying that leadership provided counselors, pastors and, she heard, therapy dogs during the memorial period."
+  },
+  "note": "PTO quote ~17:40; therapy dogs hedged 'I heard'."
+ },
+ {
+  "claim": "C-2203",
+  "episode": 63,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that virtually everything said in the previously circulated Christian Zionist threat message was also in a rant Laurie Cardoza-Moore did live on the internet about Tucker Carlson's speech, and plays audio of her ranting in her car.",
+   "timestamp": "00:38:50",
+   "mentions": [
+    "N-497",
+    "N-22"
+   ],
+   "names": [
+    {
+     "wrong": "Lorie Cardardoza Moore",
+     "right": "Laurie Cardoza-Moore",
+     "source": "https://en.wikipedia.org/wiki/Laurie_Cardoza-Moore"
+    }
+   ]
+  },
+  "note": "Rant match is host's statement, not attributed to Brave Report; Tucker named; spoken ~38:55."
+ },
+ {
+  "claim": "C-2204",
+  "episode": 63,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says, citing findings by internet sleuths of the \"decentralized intelligence agency,\" that Laurie Cardoza-Moore's background is in acting and romance hotlines, and plays a 1-900 romance hotline advertisement.",
+   "names": [
+    {
+     "wrong": "Lorie Cardardoza Moore",
+     "right": "Laurie Cardoza-Moore",
+     "source": "https://en.wikipedia.org/wiki/Laurie_Cardoza-Moore"
+    }
+   ],
+   "timestamp": "00:41:17"
+  },
+  "note": "Fix right; sleuths line spoken ~41:22, before claimed 41:47."
+ },
+ {
+  "claim": "C-3660",
+  "episode": 63,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host refers to internet sleuths as the DCIA, the decentralized intelligence agency, which she says is moving quicker.",
+   "timestamp": "00:41:17"
+  },
+  "note": "Fix wording right; DCIA line spoken ~41:22, not 40:07."
+ },
+ {
+  "claim": "C-7032",
+  "episode": 63,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a small account, the Brave Report, pulled up Laurie Cardoza-Moore as an evangelical Zionist who said she learned later in life that she is Jewish but remains an evangelical, which the host sets against the threat message she displayed earlier.",
+   "names": [
+    {
+     "wrong": "Lorie Cardardoza Moore",
+     "right": "Laurie Cardoza-Moore",
+     "source": "https://www.jpost.com/j-spot/article-858230"
+    }
+   ]
+  },
+  "note": "Laurie Cardoza-Moore confirmed (Wikipedia, JPost)."
+ },
+ {
+  "claim": "C-7033",
+  "episode": 63,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the audio, Laurie Cardoza-Moore says three couples who attended the Turning Point USA conference in Tampa told her they were horrified by Tucker Carlson's speech, which she describes as condemning Israel and praising Qatar, and that Michele Bachmann followed with five minutes to argue for standing with Israel and was booed.",
+   "names": [
+    {
+     "wrong": "Lorie Cardardoza Moore",
+     "right": "Laurie Cardoza-Moore",
+     "source": "https://www.jpost.com/j-spot/article-858230"
+    },
+    {
+     "wrong": "Michelle Bachmann",
+     "right": "Michele Bachmann",
+     "source": "https://www.jpost.com/opinion/article-861562"
+    }
+   ]
+  },
+  "note": "Names confirmed: Laurie Cardoza-Moore, Michele Bachmann (JPost)."
+ },
+ {
+  "claim": "C-7034",
+  "episode": 63,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the audio, Laurie Cardoza-Moore says Michele Bachmann told her personally that 10% of the room got up and walked out, and that Charlie Kirk, who was responsible for the event, did not condemn Tucker, defend Bachmann or explain why they stand with Israel.",
+   "names": [
+    {
+     "wrong": "Lorie Cardardoza Moore",
+     "right": "Laurie Cardoza-Moore",
+     "source": "https://www.jpost.com/j-spot/article-858230"
+    },
+    {
+     "wrong": "Michelle Bachmann",
+     "right": "Michele Bachmann",
+     "source": "https://www.jpost.com/opinion/article-861562"
+    }
+   ]
+  },
+  "note": "Names confirmed: Laurie Cardoza-Moore, Michele Bachmann (JPost)."
+ },
+ {
+  "claim": "C-7035",
+  "episode": 63,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Laurie Cardoza-Moore is married to a man named Stanley Clark Moore, who has an Air Force background, grew up on Air Force bases and graduated from high school in Humble, Texas, and she says she wants to know about his father.",
+   "names": [
+    {
+     "wrong": "Lorie Cardardoza Moore",
+     "right": "Laurie Cardoza-Moore",
+     "source": "https://www.jpost.com/j-spot/article-858230"
+    }
+   ],
+   "timestamp": "00:42:05"
+  },
+  "note": "Name fix right; dropped relevance change (not a transcript issue); husband line ~42:10."
+ },
+ {
+  "claim": "C-2206",
+  "episode": 64,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2"
+   ],
+   "timestamp": "00:08:40"
+  },
+  "note": "Stacy not referred to; Sept 16 date spoken ~08:45, before claimed 09:08."
+ },
+ {
+  "claim": "C-2207",
+  "episode": 64,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:23:52",
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Call opening at 23:52; claim quotes 'Charlie', so add N-1."
+ },
+ {
+  "claim": "C-2208",
+  "episode": 64,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:19:09",
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "All three family quotes present (19:14, ~19:25, ~21:00); first at ~19:14. Stacy not in claim."
+ },
+ {
+  "claim": "C-2209",
+  "episode": 64,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:19:00"
+  },
+  "note": "'Fight like hell' ~19:04; second quote at 19:19 also present."
+ }
+]

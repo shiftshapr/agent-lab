@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-11306, N-11307, N-11308, N-11309
   - Claim Range (supplement_2026-10e): C-11702–C-11756
-  - Tip-minted Nodes (reintro-ep136): N-753
+  - Tip-minted Nodes (reintro-ep136): N-752
   - New Nodes Introduced: N-10774, N-10775
   - Hole-minted Nodes (wave3): N-558
   - Reused Nodes Appearing: N-380, N-508, N-10772, N-10773, N-5, N-9, N-14, N-36, N-40, N-54, N-161, N-263, N-268, N-489, N-10000, N-10014, N-10074, N-10219, N-10324, N-10343, N-10539, N-10679, N-10681, N-10688, N-10725, N-10732, N-10737, N-10747, N-10964, N-11128, N-10771
@@ -304,7 +304,7 @@ Video Timestamp: 00:18:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11720, N-10772, N-753*
+*Related: C-11720, N-10772, N-752*
 
 ---
 
@@ -319,7 +319,7 @@ Video Timestamp: 00:24:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11729, N-10774, N-3, N-753*
+*Related: C-11729, N-10774, N-3, N-752*
 
 ---
 
@@ -351,7 +351,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-753** Allan Robertson
+**N-752** Allan Robertson
 
 Named by the host as the red-hat man on the Losee rooftop (C-3199).
 
@@ -825,7 +825,7 @@ Claim Timestamp: 00:16:47
 Claim: Per an X post by Muppet Masher, the red-hat man visible in the 12:47 PM bystander footage was identified as Allan Robertson of the Utah State University Department of Public Safety.
 
 Anchored Artifacts: A-2234.1, A-2227.1
-Mentions: N-558, N-753
+Mentions: N-558, N-752
 Related Nodes: N-10772
 
 Investigative Direction: Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.
@@ -1267,7 +1267,7 @@ Claim: The host says that in the early footage Allan Robertson seems to be the p
 Transcript Snippet: Alan Robertson, as we're going through all that early footage, he actually seems like he's the person that's immediately in charge.
 
 Anchored Artifacts: A-2227.1
-Mentions: N-753, N-3
+Mentions: N-752, N-3
 Related Nodes: N-10772
 Tags: relevance:core
 Investigative Direction: Review the early scene footage for Robertson giving directions and compare to the incident command roster.
@@ -1283,7 +1283,7 @@ Claim: In the Nissi analysis the host plays, the narrator says the livestream fo
 Transcript Snippet: You see him walking around and texting and making calls.
 
 Anchored Artifacts: A-3155.1, A-2233.1
-Mentions: N-753
+Mentions: N-752
 Related Nodes: N-10772
 Tags: relevance:core
 Investigative Direction: Obtain the livestream source and review it for the red-hat man's phone use and any other officers' behavior.
@@ -1315,7 +1315,7 @@ Claim: The host says there seems to be an immediate understanding from Terrell F
 Transcript Snippet: there seems to be an immediate understanding that this Alan Robertson character who shall not be named is calling the shots.
 
 Anchored Artifacts: A-2227.1
-Mentions: N-753, N-263, N-508
+Mentions: N-752, N-263, N-508
 Related Nodes: N-10772
 Tags: relevance:core
 Investigative Direction: Interview officers at the scene about who directed the rooftop response and obtain the command roster.
@@ -1331,7 +1331,7 @@ Claim: The host says Robertson was a police officer in San Bernardino, Californi
 Transcript Snippet: But he was also a police officer just before going to Utah in San Bernardino, California.
 
 Anchored Artifacts: A-2235.1
-Mentions: N-753
+Mentions: N-752
 Related Nodes: N-10774
 Tags: relevance:context
 Investigative Direction: Obtain Robertson's San Bernardino PD employment dates through a California public records request.
@@ -1363,7 +1363,7 @@ Claim: The host says she checked whether there is an entry for every officer in 
 Transcript Snippet: I searched online and said nope that's not what they do.
 
 Anchored Artifacts: A-2229.1
-Mentions: N-753
+Mentions: N-752
 Related Nodes: N-11309, N-10774
 Tags: relevance:context
 Investigative Direction: Search the Brady List site for officers from other departments to confirm that not all officers are listed.
@@ -1379,7 +1379,7 @@ Claim: The host says there is a lot of corruption in the San Bernardino, Califor
 Transcript Snippet: Obviously, you guys also know there's a lot of corruption in the San Bernardino, California Police Department.
 
 Anchored Artifacts: 
-Mentions: N-753, N-3
+Mentions: N-752, N-3
 Related Nodes: N-10774
 Tags: relevance:context
 Investigative Direction: Review public reporting, DOJ findings and court records about San Bernardino PD misconduct.
@@ -1395,7 +1395,7 @@ Claim: The host says Robertson decided to go to Utah in August 2024 despite havi
 Transcript Snippet: he decided to go in August 2024 despite the fact that his entire life has been in California.
 
 Anchored Artifacts: A-2228.1
-Mentions: N-753, N-3
+Mentions: N-752, N-3
 Related Nodes: N-10774
 Tags: relevance:core
 Investigative Direction: Obtain USU hiring and lateral-transfer paperwork showing Robertson's start date and prior employer.
@@ -1411,7 +1411,7 @@ Claim: The host says it is a plausibility that Allan E. Robertson was involved i
 Transcript Snippet: it is definitely what I would assert is a plausibility uh that Alan E. Robertson was involved in something in San Bernardino.
 
 Anchored Artifacts: A-2229.1
-Mentions: N-753, N-3
+Mentions: N-752, N-3
 Related Nodes: N-10774
 Tags: relevance:core
 Investigative Direction: Seek the underlying Brady disclosure or personnel records for Robertson via public-records requests and defense-bar contacts.
@@ -1427,7 +1427,7 @@ Claim: The host asks viewers who worked with Robertson in San Bernardino, or kno
 Transcript Snippet: please send us tips to more tips at candacewowens. com
 
 Anchored Artifacts: A-3156.1
-Mentions: N-3, N-753
+Mentions: N-3, N-752
 Related Nodes: N-10774
 Tags: relevance:core,DIA
 Investigative Direction: Review incoming tips about Robertson for named, checkable sources and corroborate before relying on them.
@@ -1459,7 +1459,7 @@ Claim: The host says it is plausible the person who actually found the screwdriv
 Transcript Snippet: I think it's plausible that the person who actually found the screwdriver was Alan Robertson.
 
 Anchored Artifacts: A-2229.1
-Mentions: N-753, N-3
+Mentions: N-752, N-3
 Related Nodes: N-10772, N-10774
 Tags: relevance:core
 Investigative Direction: Ask prosecutors whether Robertson is on any witness list and obtain the chain of custody for who recovered the screwdriver.

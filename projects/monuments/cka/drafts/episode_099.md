@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: efd9d1189c9e94d15188046d5b61410818dcf70df332d7e474fb3cf762180098
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-924, N-11352, N-11353, N-11354, N-11355
+  - Tip-minted Nodes (supplement_2026-10f): N-923, N-11352, N-11353, N-11354, N-11355
   - Tip-minted Nodes (reintro-ep099): N-11300, N-11304
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12896–C-12969
@@ -34,7 +34,7 @@
   - Artifact Families Introduced: A-2045, A-2046, A-2047, A-2048, A-2049, A-2050, A-2051, A-2052, A-2053, A-2054, A-2055, A-2056, A-2057, A-2058, A-2059, A-2060, A-2061
   - Claim Range: C-2856–C-2883
   - New Nodes Introduced: N-10657, N-10658, N-10659
-  - Reused Nodes Appearing: N-377, N-10662, N-130, N-10661, N-376, N-375, N-432, N-5, N-15, N-22, N-31, N-40, N-46, N-161, N-228, N-255, N-263, N-268, N-272, N-488, N-711, N-897, N-10027, N-10110, N-10148, N-10169, N-10187, N-10198, N-10300, N-10305, N-10340, N-10342, N-10406, N-10415, N-10416, N-10456, N-10495, N-10651, N-10653, N-10900, N-10910, N-10914, N-11121, N-11221, N-11258, N-10660, N-10663, N-10722, N-11351
+  - Reused Nodes Appearing: N-377, N-10662, N-130, N-10661, N-376, N-375, N-432, N-5, N-15, N-22, N-31, N-40, N-46, N-161, N-228, N-255, N-263, N-268, N-272, N-488, N-711, N-896, N-10027, N-10110, N-10148, N-10169, N-10187, N-10198, N-10300, N-10305, N-10340, N-10342, N-10406, N-10415, N-10416, N-10456, N-10495, N-10651, N-10653, N-10900, N-10910, N-10914, N-11121, N-11221, N-11258, N-10660, N-10663, N-10722, N-11351
   - Hole-minted Nodes (wave2): N-378
   - Tip-minted Nodes (wave2): N-10901
   - Existing Nodes Reused (referenced by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump
@@ -920,7 +920,7 @@ Justin Baldoni; party in the lawsuit the host discusses.
 
 ---
 
-**N-897** Bryan Freedman
+**N-896** Bryan Freedman
 
 Bryan Freedman; Baldoni's lawyer who published his response on a website.
 
@@ -928,7 +928,7 @@ Bryan Freedman; Baldoni's lawyer who published his response on a website.
 
 ---
 
-**N-924** Judge Liman
+**N-923** Judge Liman
 
 First named by the host at 00:48:28 in episode 99 (spelled Lyman and Leeman in the transcript). Judge who dismissed 10 of 13 Lively claims; described in the Community Notes text the host reads.
 
@@ -2163,7 +2163,7 @@ Claim: The host says Bryan Freedman, Justin Baldoni's lawyer, filed his response
 Transcript Snippet: Bryan Freedman, the lawyer did the greatest thing you could possibly do when he filed his response, he created an entire website and allowed us to read it
 
 Anchored Artifacts: 
-Mentions: N-897, N-487, N-3
+Mentions: N-896, N-487, N-3
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Locate Freedman's response filing and the associated website.
@@ -2179,7 +2179,7 @@ Claim: The Community Notes text the host reads says Judge Liman did not state th
 Transcript Snippet: Although Judge Liman did not state Miss Lively was an independent independent contractor and uh therefore she's not entitled under Title VII to bring claims.
 
 Anchored Artifacts: A-2057.1
-Mentions: N-486, N-924
+Mentions: N-486, N-923
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Read Judge Liman's April 2 opinion on the Title VII and independent-contractor questions.
@@ -2195,7 +2195,7 @@ Claim: The Community Notes text the host reads says the judge stated the conduct
 Transcript Snippet: he continues to state that the conduct was not so far beyond what might reasonably be expected to take place between two characters.
 
 Anchored Artifacts: A-2057.1
-Mentions: N-486, N-924
+Mentions: N-486, N-923
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Read the relevant passage of the April 2 order and compare it with the note's paraphrase.

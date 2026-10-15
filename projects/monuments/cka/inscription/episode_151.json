@@ -1421,8 +1421,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-902",
-      "ref": "N-902",
+      "@id": "N-901",
+      "ref": "N-901",
       "name": "Blake Harreff",
       "type": "person",
       "description": "First named by the host at 00:01:49 in episode 151. Member of Charlie Kirk's security detail on September 10.",
@@ -1441,8 +1441,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-903",
-      "ref": "N-903",
+      "@id": "N-902",
+      "ref": "N-902",
       "name": "Bobby Sausalito",
       "type": "person",
       "description": "First named by the host at 00:07:25 in episode 151. Commentator (Instagram handle take.naps) whose clip about Turek the host plays.",
@@ -1894,7 +1894,7 @@
         "C-3550"
       ],
       "mentions_person_refs": [
-        "N-902",
+        "N-901",
         "N-7",
         "N-3"
       ]
@@ -1917,7 +1917,7 @@
       "transcript_snippet": "on the basis of the stories that have been shared by Frank Couturk. Everybody they were just handing these scrubs out.",
       "mentions_person_refs": [
         "N-7",
-        "N-902"
+        "N-901"
       ]
     },
     {
@@ -1940,7 +1940,7 @@
       "transcript_snippet": "why would the feds collect Blake Harreff's shirt, which had no blood in it, but not collect Charlie Kirk's bloodied necklace and the bloodied microphone.",
       "mentions_person_refs": [
         "N-1",
-        "N-902"
+        "N-901"
       ]
     },
     {
@@ -1982,7 +1982,7 @@
       "investigative_direction": "Ask which agency collected clothing from people near Charlie and whether swabs for residue were taken.",
       "transcript_snippet": "Blake when he slid across the table may have got some explosive residue on him.",
       "mentions_person_refs": [
-        "N-902"
+        "N-901"
       ]
     },
     {
@@ -2177,7 +2177,7 @@
         "C-3547"
       ],
       "mentions_person_refs": [
-        "N-903",
+        "N-902",
         "N-7",
         "N-268"
       ]
@@ -2957,7 +2957,7 @@
         {
           "episode": 151,
           "video_timestamp": "00:11:11",
-          "speaker_node_ref": "N-903",
+          "speaker_node_ref": "N-902",
           "quote": "he so desperately wanted to say yanking and baking right there",
           "context": "Bobby Sausalito, in the clip, jokes about Turek's phrase.",
           "confidence": "high",

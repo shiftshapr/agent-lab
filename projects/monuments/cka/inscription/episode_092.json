@@ -1148,8 +1148,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-893",
-      "ref": "N-893",
+      "@id": "N-892",
+      "ref": "N-892",
       "name": "Savannah Hernandez",
       "type": "person",
       "description": "First named by the host at 00:07:17 in episode 92 (via the Kolvet clip). TPUSA front-lines reporter in the Minneapolis incident cited by Kolvet and Vance.",
@@ -1258,8 +1258,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-894",
-      "ref": "N-894",
+      "@id": "N-893",
+      "ref": "N-893",
       "name": "Bettina Anderson",
       "type": "person",
       "description": "First named by the host at 00:16:56 in episode 92 (spelled Betina). Fiancee of Donald Trump Jr. whose bridal shower the host says Erika Kirk attended.",
@@ -1454,8 +1454,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-895",
-      "ref": "N-895",
+      "@id": "N-894",
+      "ref": "N-894",
       "name": "David J. Harris",
       "type": "person",
       "description": "First named by the host at 00:40:01 in episode 92 (David Harris). Business partner in the Marx supplements, per the host.",
@@ -1627,8 +1627,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-805",
-      "ref": "N-805",
+      "@id": "N-804",
+      "ref": "N-804",
       "name": "Andrew Piscatello",
       "type": "person",
       "description": "Transcribed Andrew Pascadlo; detained photographer who raises trafficking alarms.",
@@ -1746,8 +1746,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-804",
-      "ref": "N-804",
+      "@id": "N-803",
+      "ref": "N-803",
       "name": "Paul Vallely",
       "type": "person",
       "description": "TPUSA adviser transcribed Paul Vallely; co-author with Aquino.",
@@ -2481,7 +2481,7 @@
       "transcript_snippet": "which I think is the first time that we've ever had to make that decision in Turning Point history.",
       "mentions_person_refs": [
         "N-14",
-        "N-893",
+        "N-892",
         "N-2"
       ]
     },
@@ -2740,7 +2740,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-33",
-        "N-894"
+        "N-893"
       ]
     },
     {
@@ -2854,7 +2854,7 @@
       "mentions_person_refs": [
         "N-4",
         "N-1",
-        "N-893"
+        "N-892"
       ]
     },
     {
@@ -3218,7 +3218,7 @@
       "transcript_snippet": "You had supplements that you were doing with David Harris.",
       "mentions_person_refs": [
         "N-343",
-        "N-895",
+        "N-894",
         "N-3"
       ]
     },
@@ -3240,7 +3240,7 @@
       "transcript_snippet": "David Harris calls God Papa. I don't know. And he like you guys said that like proceed the supplements were going to help human sex trafficking victims.",
       "mentions_person_refs": [
         "N-343",
-        "N-895",
+        "N-894",
         "N-3"
       ]
     },
@@ -3443,7 +3443,7 @@
         "C-8161"
       ],
       "mentions_person_refs": [
-        "N-805",
+        "N-804",
         "N-3"
       ]
     },
@@ -3545,7 +3545,7 @@
         "C-8246"
       ],
       "mentions_person_refs": [
-        "N-804",
+        "N-803",
         "N-451",
         "N-3"
       ]

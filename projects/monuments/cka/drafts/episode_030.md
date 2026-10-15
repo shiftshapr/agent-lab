@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 0d2f2dbc9465930cb84c2b757b75f17ff20dc8778189c037661661ce3f8fbc84
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-854, N-11232, N-11233, N-11234, N-11235
+  - Tip-minted Nodes (supplement_2026-10d): N-853, N-11232, N-11233, N-11234, N-11235
   - Hole-minted Nodes (reintro-ep030): N-263, N-10248, N-10770, N-10817, N-10870
   - Tip-minted Nodes (reintro-ep030): N-11080, N-11121
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -860,7 +860,7 @@ Named by the host regarding the Shapiro bad-blood claim.
 
 ---
 
-**N-854** Austin Erickson
+**N-853** Austin Erickson
 
 First named by the host at 00:22:40 in episode 30 (spelled Austin Ericson in the transcript). TPUSA staffer addressed with Dylan Erickson.
 Aliases: Austin Ericson
@@ -1633,7 +1633,7 @@ Claim: The host addresses Dylan Erickson and Austin Erickson, whom she calls the
 Transcript Snippet: I have known every word that you have said about me, okay? And I have been investigating you guys for two months straight.
 
 Anchored Artifacts: 
-Mentions: N-20, N-854, N-3
+Mentions: N-20, N-853, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Verify employment status of both brothers with TPUSA and review the host's file.
@@ -1649,7 +1649,7 @@ Claim: The host says the Erickson brothers were involved in bringing on a major 
 Transcript Snippet: your involvement with bringing that sponsor on. Things got a little different once they were brought on. Demands got interesting.
 
 Anchored Artifacts: 
-Mentions: N-20, N-854, N-1
+Mentions: N-20, N-853, N-1
 Related Nodes: N-10870, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the sponsorship contracts and identify who introduced the sponsor; transcript spelling 'Rei' is possibly Why Refi.
@@ -1665,7 +1665,7 @@ Claim: The host alleges Dylan and Austin Erickson were involved in creating an a
 Transcript Snippet: the lie, the alibi lie for the Hampton's retreat with Seth Dillon. Um, you lied.
 
 Anchored Artifacts: 
-Mentions: N-20, N-854, N-38, N-3
+Mentions: N-20, N-853, N-38, N-3
 Related Nodes: N-10027, N-10345
 Supports: C-1173
 Tags: relevance:core
@@ -2102,7 +2102,7 @@ Claim: The host says all the leaks come from people at Turning Point USA who lov
 Transcript Snippet: who have intimately let me know the things that the Ericson brothers are doing and saying and texting, and I I just have a file of all of it because of people at Turning Point USA
 
 Anchored Artifacts: 
-Mentions: N-20, N-854, N-3, N-1
+Mentions: N-20, N-853, N-3, N-1
 Related Nodes: N-10000, N-11084
 Tags: relevance:core
 Investigative Direction: Not independently testable beyond the host's file; seek corroboration from other former TPUSA staff.

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: e947ef3ae2fd7542aa73ed3a25e830c3b7b5d7d5411806bda898739caf04411e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-860, N-861, N-11250, N-11251, N-11252, N-11253, N-11254
+  - Tip-minted Nodes (supplement_2026-10d): N-859, N-860, N-11250, N-11251, N-11252, N-11253, N-11254
   - Hole-minted Nodes (reintro-ep074): N-167
   - Tip-minted Nodes (reintro-ep074): N-10953
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -683,7 +683,7 @@ Video Timestamp: 00:19:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10166, C-10167, N-188, N-860*
+*Related: C-10166, C-10167, N-188, N-859*
 
 ---
 
@@ -1254,7 +1254,7 @@ Topic reused for the boots-and-memorial remarks.
 
 ---
 
-**N-860** Kenneth Starr
+**N-859** Kenneth Starr
 
 First named by the host at 00:19:48 in episode 74. Former independent counsel described by the host as Jeffrey Epstein's friend, under whom Stacy Sheridan claims to have worked at Pepperdine University. Aliases in the transcript: Kenneth Starr.
 
@@ -1262,7 +1262,7 @@ First named by the host at 00:19:48 in episode 74. Former independent counsel de
 
 ---
 
-**N-861** Merrick Garland
+**N-860** Merrick Garland
 
 First named by the host at 00:46:09 in episode 74. Former Attorney General, referred to in Pam Bondi's remark that no one asked him about Epstein.
 
@@ -1293,7 +1293,7 @@ Rehabilitation and shelter center that the host says is run by Dream City Church
 Node Type: Topic
 The host's claim, from Stacy Sheridan's resume, that she worked eight years in Kenneth Starr's office at Pepperdine while Starr was working with Jeffrey Epstein, and that the host cannot find other trace of her employment.
 
-*Related: C-10166, C-10167, A-3061.1, N-188, N-860*
+*Related: C-10166, C-10167, A-3061.1, N-188, N-859*
 
 ---
 
@@ -1320,7 +1320,7 @@ The host's allegation, sourced to people fired from TPUSA, that Alex Clark deman
 **C-2378** Per Nicey Clip, Erika Kirk (Then Frandsen) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15
 
 Claim Timestamp: 00:02:07
-Claim: In a video by YouTuber Nicey that the host plays, Nicey says Erika Kirk (then Erika Frandsen), Joshua Harrelson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.
+Claim: In a video by YouTuber Nicey that the host plays, Nicey says Erika Kirk (then Erika Frantzve), Joshua Harrelson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.
 Anchored Artifacts: A-1780.1, A-1781.1
 Mentions: N-566, N-567, N-568, N-2
 Investigative Direction: Pull Jillian's original Sept 15, 2013 X/Twitter posts directly and corroborate against contemporaneous Michigan venue records.
@@ -1964,7 +1964,7 @@ Claim: The host says that Stacy Sheridan, whom she describes as playing the role
 Transcript Snippet: I can't find a trace of her actually at Pepperdine University aside from her resume where she says she worked there for 8 years, but in Kenneth Starr's office.
 
 Anchored Artifacts: A-3061.1
-Mentions: N-3, N-188, N-860, N-9
+Mentions: N-3, N-188, N-859, N-9
 Related Nodes: N-11252
 Tags: relevance:core
 Investigative Direction: Obtain the resume, request Pepperdine employment confirmation, and check Starr's office staff lists for the period.
@@ -1980,7 +1980,7 @@ Claim: The host says that for almost a decade Stacy Sheridan worked for Kenneth 
 Transcript Snippet: for almost a decade, she worked for Kenneth Starr at the exact same time that he was working with Jeffrey Epstein.
 
 Anchored Artifacts: A-3061.1
-Mentions: N-3, N-188, N-860, N-9
+Mentions: N-3, N-188, N-859, N-9
 Related Nodes: N-11252
 Tags: relevance:core
 Investigative Direction: Document Starr's work for Epstein with dates and overlay it on Sheridan's claimed employment years.
@@ -2753,7 +2753,7 @@ Claim: In the clip, Pam Bondi says Epstein has been around since the Obama admin
 Transcript Snippet: And none of them None of them asked Merrick Garland over the last 4 years one word about Jeffrey Epstein.
 
 Anchored Artifacts: A-1791.1
-Mentions: N-85, N-861, N-9
+Mentions: N-85, N-860, N-9
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Check Garland-era oversight hearings for questions on Epstein.

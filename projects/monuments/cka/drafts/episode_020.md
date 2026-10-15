@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: 8e3767219910081da3667951aa2631008c1fef13d2bd87a539a898bb6428508e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-908, N-909, N-910, N-911, N-11323, N-11324, N-11325, N-11326
+  - Tip-minted Nodes (supplement_2026-10f): N-907, N-908, N-909, N-910, N-11323, N-11324, N-11325, N-11326
   - Hole-minted Nodes (reintro-ep020): N-230, N-280, N-300, N-361, N-379, N-486, N-487, N-522, N-10210, N-10447, N-10589, N-10660, N-10661, N-10663, N-10687
   - Tip-minted Nodes (reintro-ep020): N-11071, N-11117
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -1191,7 +1191,7 @@ Kanye Condemnation Pressure and Contract Cut; the October 2018 statement.
 
 ---
 
-**N-908** Eric Weinstein
+**N-907** Eric Weinstein
 
 Named by the host in episode 20 as someone who reached out after the 2018 Kanye tweet.
 
@@ -1199,7 +1199,7 @@ Named by the host in episode 20 as someone who reached out after the 2018 Kanye 
 
 ---
 
-**N-909** Rick Rubin
+**N-908** Rick Rubin
 
 Music producer named by the host in episode 20 as getting involved after the 2018 Kanye tweet.
 
@@ -1207,7 +1207,7 @@ Music producer named by the host in episode 20 as getting involved after the 201
 
 ---
 
-**N-910** John Lewis
+**N-909** John Lewis
 
 Named by the host in episode 20 as a former Daily Wire president who was a naval intelligence officer turned pastor (identity as stated on air, unverified).
 
@@ -1215,7 +1215,7 @@ Named by the host in episode 20 as a former Daily Wire president who was a naval
 
 ---
 
-**N-911** MrBeast
+**N-910** MrBeast
 
 YouTuber (transcribed "Mr. Beast") whose parents the host says are high up in the military.
 
@@ -1849,7 +1849,7 @@ Claim: The host says that after the Kanye tweet Eric Weinstein got involved and 
 Transcript Snippet: Suddenly, they get Eric Weinstein&nbsp;&nbsp; involved and he reaches out and he pretends that&nbsp; he wants to be a friend to me.
 
 Anchored Artifacts: 
-Mentions: N-3, N-908
+Mentions: N-3, N-907
 Tags: relevance:context
 Investigative Direction: Obtain the 2018 messages between the host and Weinstein and ask Weinstein for his account.
 
@@ -1864,7 +1864,7 @@ Claim: The host says music producer Rick Rubin also got into the mix after the K
 Transcript Snippet: Another player in this was Rick Rubin.&nbsp; Yeah, the big music industry. Rick Rubin also&nbsp;&nbsp; got into the mix and wanted to facilitate certain&nbsp; meetings.
 
 Anchored Artifacts: 
-Mentions: N-3, N-909
+Mentions: N-3, N-908
 Tags: relevance:context
 Investigative Direction: Ask the host for her messages with Rubin or his representatives and the meetings proposed.
 
@@ -2307,7 +2307,7 @@ Claim: The host says the president of the Daily Wire at the time she went there 
 Transcript Snippet: the&nbsp; president at the time of the Daily Wire was also&nbsp;&nbsp; a naval intelligence officer who decided to become&nbsp; a pastor that was John Lewis
 
 Anchored Artifacts: 
-Mentions: N-3, N-910
+Mentions: N-3, N-909
 Related Nodes: N-10900, N-10197
 Tags: relevance:context
 Investigative Direction: Check Daily Wire leadership listings for the period and the named person's career history.
@@ -2323,7 +2323,7 @@ Claim: The host says that both of MrBeast's parents are high up in the military.
 Transcript Snippet: Mr. Beast, both of his parents high&nbsp;&nbsp; up in the military.
 
 Anchored Artifacts: 
-Mentions: N-3, N-911
+Mentions: N-3, N-910
 Related Nodes: N-10197
 Tags: relevance:tangential
 Investigative Direction: Verify through public biographical sources.
@@ -2414,7 +2414,7 @@ Claim: The host says that when you look, everyone is somehow attached to what th
 Transcript Snippet: everyone's somehow attached to&nbsp; Raytheon, right? Mr. Beast, they're all attached to&nbsp;&nbsp; Raytheon in one way or the other.
 
 Anchored Artifacts: 
-Mentions: N-3, N-911
+Mentions: N-3, N-910
 Related Nodes: N-11324
 Tags: relevance:tangential
 Investigative Direction: Ask the host which Raytheon connections she means and verify.

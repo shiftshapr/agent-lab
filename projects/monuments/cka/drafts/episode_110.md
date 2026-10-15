@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11400, N-11401
-  - Tip-minted Nodes (reintro-ep110): N-669, N-758
+  - Tip-minted Nodes (reintro-ep110): N-669, N-757
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14630–C-14711
   - New Nodes Introduced: N-10668, N-10669
@@ -622,7 +622,7 @@ Calvary Chapel pastor and head of the TPUSA faith department per the host.
 
 ---
 
-**N-758** Claire Ginan
+**N-757** Claire Ginan
 
 Jezebel writer the host links to the Etsy curse.
 
@@ -1819,7 +1819,7 @@ Claim: The host says writer Claire Ginan, who had never published and has no wri
 Transcript Snippet: This writer, Claire Ginan, who had never published before, she has no writing profile at all, writes her first article for Jezebel.
 
 Anchored Artifacts: A-2076.2
-Mentions: N-758
+Mentions: N-757
 Related Nodes: N-10122, N-10117
 Supports: C-1274
 Tags: relevance:context
@@ -1836,7 +1836,7 @@ Claim: The host says Claire Ginan went on Etsy, found a new witch profile and bo
 Transcript Snippet: buy a spell about harming Charlie Kirk, putting a curse onto Charlie Kirk. It's very unusual. We paid some Etsy witches to curse Charlie Kirk. That was just um less than 10 days after Charlie won this debate
 
 Anchored Artifacts: A-2076.2
-Mentions: N-758, N-1
+Mentions: N-757, N-1
 Related Nodes: N-10117, N-10123, N-10122
 Supports: C-1274
 Tags: relevance:core

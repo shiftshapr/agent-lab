@@ -1,0 +1,870 @@
+[
+ {
+  "claim": "C-5533",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Unresolved name check not needed; matches transcript.",
+  "fix": {}
+ },
+ {
+  "claim": "C-5534",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Matches. unresolved name: Scheper Security (not a person).",
+  "fix": {}
+ },
+ {
+  "claim": "C-5535",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript 'ex-men school' garbled (likely elementary); claim says school. Not misleading.",
+  "fix": {}
+ },
+ {
+  "claim": "C-5536",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name Charlie Kirk; N-1 extraneous.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-5537",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5538",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5539",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5540",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host said she had said nothing on her show about the statement; claim says Erika 'had not been asked'.",
+  "fix": {
+   "claim": "The host says that when she sat down with Erika Kirk, after she had said nothing on her show about the statement, they had a physical printout of a transcript of Charlie saying he wanted Erika to take over, which she says is proof for a claim she had not made."
+  }
+ },
+ {
+  "claim": "C-5541",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5542",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'I reach out and then they alleged...' - the alleging 'they' is not the attendees; attendees said they did not remember.",
+  "fix": {
+   "claim": "The host says that after she found out who was at the Aspen retreat and reached out, they alleged that somebody had asked Charlie Kirk 'What happens if you die?', which she calls a weird question, and she adds that he died a month later."
+  }
+ },
+ {
+  "claim": "C-5543",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5544",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'apparently Charlie gave some total common sense answer' - hedge dropped.",
+  "fix": {
+   "claim": "The host says one Aspen attendee remembers Charlie Kirk describing how TPUSA would grow and, when asked how he could do all of it, apparently answering that he hires people under him to run things."
+  }
+ },
+ {
+  "claim": "C-5545",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5546",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Erika Kirk is not named in the claim; N-2 extraneous.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-5547",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5548",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5549",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5550",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript spells 'Andrew Kolodny'; claim correctly says Kolvet (same passage later says Kolvet).",
+  "fix": {}
+ },
+ {
+  "claim": "C-5551",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Speaker who recounts necklace and 'somebody asked me yesterday' answers Coleman's question; Candace replies after '>>' with the Jezebel point. Likely Coleman.",
+  "fix": {
+   "claim": "Baron Coleman says Erika Kirk had custody of the necklace Charlie never took off and was frantic to find it immediately after the assassination.",
+   "mentions": [
+    "N-332",
+    "N-2",
+    "N-1"
+   ],
+   "label": "Coleman Says Erika Held the Necklace Charlie Never Took Off and Tried to Find It"
+  }
+ },
+ {
+  "claim": "C-5552",
+  "episode": 60,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "The 'did Erika know he would die the next day... answer is yes' is Coleman's answer to the question put to him; Candace replies '>> number one question now that I have...'.",
+  "fix": {
+   "claim": "Baron Coleman says his biggest question is whether Erika Kirk knew Charlie was going to die the next day, and that in his opinion the answer is yes.",
+   "mentions": [
+    "N-332",
+    "N-2",
+    "N-1"
+   ],
+   "label": "Coleman Says He Believes Erika Knew Charlie Would Die the Next Day"
+  }
+ },
+ {
+  "claim": "C-5553",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5554",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5555",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5556",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5557",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5558",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: 'Y Refi guy'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-5559",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5560",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'surely she would have seen his wife' is Coleman's interjection after '>>', not the host.",
+  "fix": {
+   "claim": "The host says that when she asked Erika Kirk and Justin Streiff who was on the planes, and whether Kolvet flew with his wife, Erika sat quietly as if she did not know; Coleman adds that surely Erika would have seen the wife.",
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-15",
+    "N-14",
+    "N-332"
+   ]
+  }
+ },
+ {
+  "claim": "C-5561",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5562",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5563",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5564",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5565",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5566",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5567",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Spoken in a clip of Coleman's show the host plays; host is referred to but N-3 missing.",
+  "fix": {
+   "claim": "In a clip the host plays, Baron Coleman says the host verified that Mitch Snow was at the base, that she had the police report, and that Snow's son later confirmed the police report.",
+   "mentions": [
+    "N-332",
+    "N-363",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-5568",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Spoken in a clip the host plays; host referred to but N-3 missing.",
+  "fix": {
+   "claim": "In a clip the host plays, Baron Coleman says the host called someone at the base who confirmed that the building Mitch Snow named is used, that its windows are blacked out and that it is set up as a secure facility.",
+   "mentions": [
+    "N-332",
+    "N-363",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-5569",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name Candace; N-3 extraneous.",
+  "fix": {
+   "mentions": [
+    "N-332"
+   ]
+  }
+ },
+ {
+  "claim": "C-5570",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5571",
+  "episode": 60,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2158",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only TPUSA and Owens; N-1, N-2 extraneous. Timestamp borderline (~2:30 spoken).",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-2159",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Owens and 'Kirk assassination'; N-2 extraneous, N-3 missing.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-2160",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Owens named; N-3 missing.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-2161",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "McCoy not in claim; Owens named but N-3 missing.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-2162",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Owens named; N-3 missing.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-2163",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2164",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Owens named; N-3 missing.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-2165",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Owens named; N-3 missing.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-2166",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Clip the host plays; Dillon: 'They want your money and they want to be celebrities' - 'primarily' added. Owens named, N-3 missing.",
+  "fix": {
+   "claim": "In a clip the host plays, Tim Dillon says TPUSA wants people's money and wants to be celebrities, and that they are mad because Owens told her audience not to give TPUSA money.",
+   "mentions": [
+    "N-279",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-2167",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says the letter will show money is their top concern; claim says it is cited as confirmation; 'Dylon' typo.",
+  "fix": {
+   "claim": "Owens agrees with Tim Dillon's assessment that TPUSA's principal concern is money, saying the cease and desist letter will show it."
+  }
+ },
+ {
+  "claim": "C-2168",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Quote omits 'what'; Owens named, N-3 missing.",
+  "fix": {
+   "claim": "Owens states she has had a speaking contract with Turning Point USA \"going back to like what 2019 2020.\"",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-2169",
+  "episode": 61,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Dec 2 date appears only in the TPUSA letter the host reads (~10:35), not as Owens's statement at 6:17-7:37 (she says only 'we moved to terminate').",
+  "fix": {
+   "claim": "Per the TPUSA letter the host reads, her agreements with TPUSA were terminated on December 2, 2025.",
+   "timestamp": "00:10:30",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-2170",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Owens named; N-3 missing.",
+  "fix": {
+   "mentions": [
+    "N-17",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-2171",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Victoria Beckham not named in claim.",
+  "fix": {
+   "mentions": [
+    "N-482"
+   ]
+  }
+ },
+ {
+  "claim": "C-2172",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2173",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2174",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Brooklyn: mom called him evil for including 'my nanny Sandra and Nicola's nanny, those two grandparents' at 'our table' because husbands absent. Claim: nannies' widowed grandparents, head table. Nicola missing from Mentions.",
+  "fix": {
+   "claim": "Brooklyn Beckham alleges his mother called him \"evil\" because he and Nicola chose to include his nanny and Nicola's nanny, two grandparents whose husbands were not there, at their table.",
+   "mentions": [
+    "N-482",
+    "N-483",
+    "N-484"
+   ]
+  }
+ },
+ {
+  "claim": "C-2175",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Brooklyn says Marc Anthony called HIM to the stage and mom danced inappropriately with him; claim says mother was called. Marc Anthony and Nicola missing.",
+  "fix": {
+   "claim": "Brooklyn Beckham alleges that his mother hijacked what had been planned as his romantic first dance with Nicola: Marc Anthony called him to the stage, and his mother danced inappropriately with him in front of the guests.",
+   "mentions": [
+    "N-482",
+    "N-483",
+    "N-484",
+    "N-886"
+   ]
+  }
+ },
+ {
+  "claim": "C-2176",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Brooklyn and Nicola. Performer is Lloyiso (transcript 'Lizo'): gulftoday.ae, British Vogue report.",
+  "fix": {
+   "claim": "The Vogue wedding article reports that the first dance between Brooklyn and Nicola was to \"Only Fools Rush In,\" performed by South African artist Lloyiso.",
+   "mentions": [
+    "N-482",
+    "N-483"
+   ],
+   "names": [
+    {
+     "wrong": "Lizo",
+     "right": "Lloyiso",
+     "source": "https://www.gulftoday.ae/News/2022/04/11/David-Beckham-s-son-Brooklyn-Nicola-Peltz-tie-the-knot"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2177",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host, not Vogue, says late night started at 11 p.m.; claim names only Marc Anthony.",
+  "fix": {
+   "claim": "The host says the Vogue wedding article reports that Marc Anthony took over the DJ decks to close out the wedding celebrations, which she says started at 11 p.m.",
+   "mentions": [
+    "N-886"
+   ]
+  }
+ },
+ {
+  "claim": "C-2178",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript 'I think this knows something is coming'; trivial.",
+  "fix": {}
+ }
+]

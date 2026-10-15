@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 2d9d0df8e23c9f62f81f6c3e040382229ea2371024c1d0d0064710f1b9969c26
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-853, N-11231
+  - Tip-minted Nodes (supplement_2026-10d): N-852, N-11231
   - Hole-minted Nodes (reintro-ep028): N-376, N-10451
   - Tip-minted Nodes (reintro-ep028): N-11159
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -683,7 +683,7 @@ Existing topic reused for the CNN clips.
 
 ---
 
-**N-853** Lauren Chen
+**N-852** Lauren Chen
 
 First named by the host at 00:12:33 in episode 28. Host of the X Space where Boring spoke with Fuentes.
 
@@ -777,7 +777,7 @@ Claim Timestamp: 00:14:04
 Claim: According to the read-aloud HuffPost article, on March 25th, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on an X Space hosted by Lauren Chen, praised Fuentes as "very funny" and "one of the most talented political influencers," and offered only mild criticism.
 
 Anchored Artifacts: A-1358.1, A-1359.1
-Mentions: N-203, N-368, N-853
+Mentions: N-203, N-368, N-852
 
 Related Nodes:
 
@@ -1131,7 +1131,7 @@ Claim: The host says Jeremy Boreing, then CEO of the Daily Wire, joined an X Spa
 Transcript Snippet: I distinctly remember the week that I was gloriously fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an Xspace hosted by Lauren Chen
 
 Anchored Artifacts: A-1359.1
-Mentions: N-3, N-368, N-853
+Mentions: N-3, N-368, N-852
 Related Nodes: N-10900
 Supports: C-1640
 Tags: relevance:context

@@ -2044,8 +2044,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-813",
-      "ref": "N-813",
+      "@id": "N-812",
+      "ref": "N-812",
       "name": "Eric Swalwell",
       "type": "person",
       "description": "First named by the host at 00:46:55 in episode 88. Congressman the host says Trump believed Bondi tipped off about an FBI inquiry into his relationship with Christine Fang.",
@@ -2062,8 +2062,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-814",
-      "ref": "N-814",
+      "@id": "N-813",
+      "ref": "N-813",
       "name": "Christine Fang",
       "type": "person",
       "description": "First named by the host at 00:46:55 in episode 88. Woman the host calls the Chinese spy girl in her account of Swalwell's relationship and the FBI documents.",
@@ -3643,7 +3643,7 @@
         "N-3",
         "N-5",
         "N-85",
-        "N-813"
+        "N-812"
       ]
     },
     {
@@ -3664,8 +3664,8 @@
       "transcript_snippet": "the FBI was sort of preparing um, a bunch of documents relating to his relationship with Christine Fang",
       "mentions_person_refs": [
         "N-3",
-        "N-813",
-        "N-814"
+        "N-812",
+        "N-813"
       ]
     },
     {

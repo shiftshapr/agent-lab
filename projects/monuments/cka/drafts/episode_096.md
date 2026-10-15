@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: b80f9093f2282419ffd666e804a85974657a8f4308c82ae5bfd6902b9b9bdcdf
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-817, N-818
+  - Tip-minted Nodes (supplement_2026-10c): N-816, N-817
   - Hole-minted Nodes (reintro-ep096): N-10647
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8755–C-8820
@@ -940,7 +940,7 @@ Brigitte Macron; named in Trump's earlier comments and Loomer's trust and lawsui
 
 ---
 
-**N-817** Dan Scavino
+**N-816** Dan Scavino
 
 First named by the host at 00:23:21 in episode 096, as the person who sent Trump's tweets during his first term.
 
@@ -948,7 +948,7 @@ First named by the host at 00:23:21 in episode 096, as the person who sent Trump
 
 ---
 
-**N-818** Natalie Harp
+**N-817** Natalie Harp
 
 First named by the host at 00:23:21 in episode 096, as the person widely reported to send Trump's Truth Social posts.
 
@@ -1506,7 +1506,7 @@ Claim: The host says Trump has never pushed send on his own tweets, that this wa
 Transcript Snippet: Trump, who has never, by the way, pushed send on his own tweets, that was the job initially of Dan Scavino during his first term.
 
 Anchored Artifacts:
-Mentions: N-5, N-817, N-818
+Mentions: N-5, N-816, N-817
 Related Nodes: N-10640
 Tags: relevance:context
 Investigative Direction: Identify who operates the Truth Social account (reporting on Harp and Scavino) and who posted the April 2026 message.

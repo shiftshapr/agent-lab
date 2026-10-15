@@ -1780,7 +1780,7 @@ Transcript Snippet: We couldn't find some long history of Erika Kurken as a real
 Anchored Artifacts:
 Mentions: N-2
 Related Nodes: N-10501
-Investigative Direction: Query New York Department of State license records and brokerage affiliations for Erika Frandsen/Frantzve.
+Investigative Direction: Query New York Department of State license records and brokerage affiliations for Erika Frantzve/Frantzve.
 
 ---
 

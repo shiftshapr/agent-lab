@@ -1507,8 +1507,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-803",
-      "ref": "N-803",
+      "@id": "N-802",
+      "ref": "N-802",
       "name": "Harris Faulkner",
       "type": "person",
       "description": "Harris Faulkner; Fox host who interviewed Erika.",
@@ -1524,8 +1524,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-897",
-      "ref": "N-897",
+      "@id": "N-896",
+      "ref": "N-896",
       "name": "Bryan Freedman",
       "type": "person",
       "description": "Bryan Freedman; lawyer whose publish-it-all approach the host cites.",
@@ -3395,7 +3395,7 @@
       "investigative_direction": "Watch for the host's publication of the Fort Huachuca timeline, messages and documents.",
       "transcript_snippet": "I'm thinking about doing the Bryan Freedman thing, which was obviously a lawyer Blake Lively Justin Baldoni, where he just put it all online cuz I have nothing to hide.",
       "mentions_person_refs": [
-        "N-897",
+        "N-896",
         "N-486",
         "N-487",
         "N-3"
@@ -3560,7 +3560,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-803",
+        "N-802",
         "N-3"
       ]
     },

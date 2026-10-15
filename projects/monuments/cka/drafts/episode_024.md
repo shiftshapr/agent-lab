@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: b16f4980388370185d291129aae2198b32071168c9d782f7764725d6e49bf14e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-841, N-842, N-843, N-844, N-845, N-11223, N-11224, N-11225
+  - Tip-minted Nodes (supplement_2026-10d): N-840, N-841, N-842, N-843, N-844, N-11223, N-11224, N-11225
   - Hole-minted Nodes (reintro-ep024): N-222, N-224, N-10236, N-10336, N-10337
   - Tip-minted Nodes (reintro-ep024): N-708, N-10917, N-11092, N-11107
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -824,7 +824,7 @@ Erika Kirk Interview Campaign Talking Points; topic reused.
 
 ---
 
-**N-841** Emma Goldman
+**N-840** Emma Goldman
 
 First named by the host at 00:11:28 in episode 24. Historical anarchist the host credits with bringing feminism to America.
 
@@ -832,7 +832,7 @@ First named by the host at 00:11:28 in episode 24. Historical anarchist the host
 
 ---
 
-**N-842** Al Goldstein
+**N-841** Al Goldstein
 
 First named by the host at 00:12:45 in episode 24. Pornography publisher the host quotes on why Jews are in pornography.
 
@@ -840,7 +840,7 @@ First named by the host at 00:12:45 in episode 24. Pornography publisher the hos
 
 ---
 
-**N-843** Samuel Roth
+**N-842** Samuel Roth
 
 First named by the host at 00:12:45 in episode 24. Publisher the host says fought in court for the decision making pornography free speech.
 
@@ -848,7 +848,7 @@ First named by the host at 00:12:45 in episode 24. Publisher the host says fough
 
 ---
 
-**N-844** Magnus Hirschfeld
+**N-843** Magnus Hirschfeld
 
 First named by the host at 00:13:28 in episode 24. Sexologist the host credits as the origin of transgenderism.
 
@@ -856,7 +856,7 @@ First named by the host at 00:13:28 in episode 24. Sexologist the host credits a
 
 ---
 
-**N-845** Adam Lanza
+**N-844** Adam Lanza
 
 First named by the host at 00:45:55 in episode 24. Sandy Hook shooter the host cites in a pattern theory about standardized testing and government contact.
 
@@ -1381,7 +1381,7 @@ Claim: The host says that feminism and modern psychology were brought to and fou
 Transcript Snippet: people like Emma Goldman on feminism. Sigmund Freud, the father of modern psychology.
 
 Anchored Artifacts: 
-Mentions: N-3, N-841, N-50
+Mentions: N-3, N-840, N-50
 Tags: relevance:tangential
 Investigative Direction: Historical record on Goldman's and Freud's activities; this is the host's sweeping characterization of a group's role.
 
@@ -1428,7 +1428,7 @@ Claim: The host quotes Al Goldstein as having notoriously said the only reason J
 Transcript Snippet: He's the one who notoriously said, "The only reason that Jews are in pornography is that we think Christ sucks. Catholicism sucks.
 
 Anchored Artifacts: 
-Mentions: N-3, N-842
+Mentions: N-3, N-841
 Tags: relevance:tangential
 Investigative Direction: Locate the original Al Goldstein interview or publication containing the quoted words.
 
@@ -1443,7 +1443,7 @@ Claim: The host says pornography became considered free speech because Jewish in
 Transcript Snippet: That's because Jewish individuals in America fought for that. Samuel Roth, actually.
 
 Anchored Artifacts: 
-Mentions: N-3, N-843
+Mentions: N-3, N-842
 Tags: relevance:tangential
 Investigative Direction: Court record of Roth v. United States and Roth's role in it.
 
@@ -1458,7 +1458,7 @@ Claim: The host says that if one traces where transgenderism came from, Magnus H
 Transcript Snippet: Transgenderism, go back and and try to figure out where that came from. Magnus Hirschfeld was the doctor and the sexologist.
 
 Anchored Artifacts: 
-Mentions: N-3, N-844
+Mentions: N-3, N-843
 Tags: relevance:tangential
 Investigative Direction: Historical record of Hirschfeld's work; this is the host's attribution of a modern movement to one person.
 
@@ -2085,7 +2085,7 @@ Claim: The host says that a Connecticut shooter, whom she thinks is Adam Lanza, 
 Transcript Snippet: He somehow hacked the government system, and then the FBI showed up at his door, and then he was a part of some Yale program. I think it's Adam Lanza that I'm thinking of.
 
 Anchored Artifacts: A-1320.5
-Mentions: N-3, N-845
+Mentions: N-3, N-844
 Supports: C-1580
 Tags: relevance:tangential
 Investigative Direction: Sandy Hook investigative records (Connecticut State Attorney report) on Lanza's education and any government contact; the host herself is unsure of the name.

@@ -1462,8 +1462,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-832",
-      "ref": "N-832",
+      "@id": "N-831",
+      "ref": "N-831",
       "name": "Kathy Nester",
       "type": "person",
       "description": "Kathy Nester, defense attorney quoted on the phone, the gun and the physical evidence.",
@@ -2115,8 +2115,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-920",
-      "ref": "N-920",
+      "@id": "N-919",
+      "ref": "N-919",
       "name": "Casey DeSantis",
       "type": "person",
       "description": "First named by the host at 00:47:42 in episode 94. Named by the host as the subject of a Loomer claim that she was making up cancer.",
@@ -2151,8 +2151,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-921",
-      "ref": "N-921",
+      "@id": "N-920",
+      "ref": "N-920",
       "name": "Roger Stone",
       "type": "person",
       "description": "First named by the host at 00:51:13 in episode 94. Named by the host as a Trump friend who she says knows about Loomer's suicidal attempts and accounts.",
@@ -2168,8 +2168,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-922",
-      "ref": "N-922",
+      "@id": "N-921",
+      "ref": "N-921",
       "name": "Jessica Tarlov",
       "type": "person",
       "description": "First named by the host at 00:34:38 in episode 94. Named in the Truth Social post the host reads as the person Trump says he was watching.",
@@ -2186,8 +2186,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-923",
-      "ref": "N-923",
+      "@id": "N-922",
+      "ref": "N-922",
       "name": "Jack Dorsey",
       "type": "person",
       "description": "First named by the host at 00:36:39 in episode 94. Named by the host as the head of Twitter when Loomer lost her checkmark.",
@@ -3266,7 +3266,7 @@
       "investigative_direction": "Check the state's witness list for the probable cause hearing once filed.",
       "transcript_snippet": "the state's indicated they may call individuals you um uniquely connected to my client.",
       "mentions_person_refs": [
-        "N-832",
+        "N-831",
         "N-40"
       ]
     },
@@ -3335,7 +3335,7 @@
       "investigative_direction": "Check the docket or any inspection log for the date and scope of the defense's physical evidence review.",
       "transcript_snippet": "We went to examine physical evidence this past week um this week. We it took us 6 hours. We did finish the what the SBI has.",
       "mentions_person_refs": [
-        "N-832"
+        "N-831"
       ]
     },
     {
@@ -3839,7 +3839,7 @@
       "transcript_snippet": "I'm watching one of the least attractive and talented people on all of television, Jessica Tarlov.",
       "mentions_person_refs": [
         "N-5",
-        "N-922"
+        "N-921"
       ]
     },
     {
@@ -3862,7 +3862,7 @@
       "transcript_snippet": "CNN had me at 100% saying they never saw that before. Get her off air, she is bad for our country.",
       "mentions_person_refs": [
         "N-5",
-        "N-922"
+        "N-921"
       ]
     },
     {
@@ -3950,7 +3950,7 @@
         "N-3",
         "N-60",
         "N-195",
-        "N-923"
+        "N-922"
       ]
     },
     {
@@ -4400,7 +4400,7 @@
       "mentions_person_refs": [
         "N-60",
         "N-5",
-        "N-920"
+        "N-919"
       ]
     },
     {
@@ -4603,7 +4603,7 @@
       "mentions_person_refs": [
         "N-60",
         "N-5",
-        "N-921"
+        "N-920"
       ]
     },
     {

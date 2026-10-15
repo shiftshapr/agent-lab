@@ -403,9 +403,9 @@
             "C-12814"
           ],
           "related_nodes": [
-            "N-916",
+            "N-915",
             "N-69",
-            "N-917"
+            "N-916"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1573,8 +1573,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-916",
-      "ref": "N-916",
+      "@id": "N-915",
+      "ref": "N-915",
       "name": "Michael Flynn",
       "type": "person",
       "description": "First named by the host as General Michael Flynn at 00:30:42 in episode 083. Retired general named as an anchor in the Wilkins thread and as a speaker at the Catholics for Catholics event.",
@@ -1593,8 +1593,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-917",
-      "ref": "N-917",
+      "@id": "N-916",
+      "ref": "N-916",
       "name": "Clay Clark",
       "type": "person",
       "description": "First named in a viewer comment at 00:50:53 in episode 083, as organizer of the Awaken America Tours with whom Flynn and Patel appeared.",
@@ -3259,7 +3259,7 @@
         "N-3",
         "N-22",
         "N-211",
-        "N-916",
+        "N-915",
         "N-628"
       ]
     },
@@ -3307,7 +3307,7 @@
       "investigative_direction": "Check the event program and recordings for who spoke and when.",
       "transcript_snippet": "General Michael Flynn spoke there. By the way, that's the first time that I've ever spoken to General Michael Flynn that I remember.",
       "mentions_person_refs": [
-        "N-916",
+        "N-915",
         "N-3"
       ]
     },
@@ -3594,10 +3594,10 @@
       "investigative_direction": "Check Awaken America Tour programs and Patel's appearances alongside Flynn and Clay Clark.",
       "transcript_snippet": "Pretty rich Wilkins is implicating General Flynn since he was exactly who brought Kash Patel into the Patriot movement through the Awaken America Tours with Clay Clark.",
       "mentions_person_refs": [
-        "N-916",
+        "N-915",
         "N-69",
         "N-214",
-        "N-917",
+        "N-916",
         "N-3"
       ]
     },
@@ -3622,7 +3622,7 @@
       "mentions_person_refs": [
         "N-214",
         "N-3",
-        "N-916"
+        "N-915"
       ]
     },
     {

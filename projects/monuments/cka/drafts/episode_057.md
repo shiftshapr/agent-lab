@@ -592,7 +592,7 @@ Topic cited where the host describes Charlie telling them to take the money out 
 
 *Related: C-5443*
 
-**N-10404** Candace Owens Dream Vision of Andrew Kolbett
+**N-10404** Candace Owens Dream Vision of Andrew Kolvet
 
 Topic for the host's dream that Charlie was betrayed.
 
@@ -684,7 +684,7 @@ The host's account that Charlie Kirk had required, orchestrated security (Schaef
 
 Claim Timestamp: 00:13:05
 
-Claim: The Be Inspired clip (A-1628.2) presents whistleblower Bill Wood's account that the US military operated a device called Project Looking Glass that could view potential future timelines and was shut down because all timelines converged on December 21, 2012.
+Claim: The Be Inspired clip (A-1628.2) presents whistleblower Bill Wood's account that the US military once had access to a device called Project Looking Glass that could supposedly view potential future timelines and was shut down because all timelines converged around 2012, which he places at December 21, 2012.
 
 Anchored Artifacts: A-1628.2
 Mentions: N-456
@@ -727,7 +727,7 @@ Investigative Direction: Compare The Matrix's documented production context (Wac
 
 Claim Timestamp: 00:36:29
 
-Claim: An article read verbatim in the episode describes a "satanic human sacrifice" staged on the grounds of CERN's Large Hadron Collider, featuring cloaked figures in black robes circling a woman in white before she is stabbed.
+Claim: An article read verbatim in the episode describes a "satanic human sacrifice" staged on the grounds of CERN's Large Hadron Collider, with a cloaked group in long flowing black robes walking around before a woman moves onto the floor and is stabbed.
 
 Anchored Artifacts: A-1629.1, A-1630.1
 
@@ -772,7 +772,7 @@ Investigative Direction: Locate the Daily Wire video directly on its original pu
 
 Claim Timestamp: 00:43:34
 
-Claim: In a clip the host plays, Mike Pompeo says future history books must not focus on "the victims of Gaza" but instead should frame Israel as the aggrieved party and Iran/Hamas as the aggressor, and that this requires adults to talk to children about the war in real time.
+Claim: In a clip the host plays, Mike Pompeo says history books should not write about 'the victims of Gaza', then says he should be more precise: there were victims in Gaza and civilian casualties in every war, but the victims were the people of Israel and the aggressor was the Iranian regime and its proxy Hamas; he says this requires each person to talk about it in real time with their children and grandchildren.
 
 Anchored Artifacts: A-1632.1
 Mentions: N-457
@@ -830,7 +830,7 @@ Investigative Direction: Identify the military base, the "Lieutenant Aquino" ref
 
 Claim Timestamp: 00:51:51
 
-Claim: Read-aloud commenter Marzy presents the claim that ICE agents receive training and recruitment directly from Israel via the IDF.
+Claim: Read-aloud commenter Marzy, whom the host calls a moderator, presents the claim that some ICE agents get training and recruitment from Israel directly from the IDF.
 
 Anchored Artifacts: A-1634.2
 Mentions: N-460
@@ -1069,7 +1069,7 @@ Investigative Direction: Compare Pokemon official artwork across 1996-present fo
 
 Claim Timestamp: 00:11:03
 
-Claim: The host says the deep state stole the Looking Glass device from the ancient Sumerian civilization in modern-day Iraq, incorporated it into a computer, and can now predict future outcomes.
+Claim: The host says the deep state stole the Looking Glass device from the ancient Sumerian civilization in modern-day Iraq, incorporated it into a computer, and is apparently able to predict future outcomes.
 
 Transcript Snippet: they stole a device from the ancient Sumerian civilization that's located in modern modern day Iraq.
 
@@ -1193,7 +1193,7 @@ Investigative Direction: Ask the host which earlier episodes describe her being 
 
 Claim Timestamp: 00:22:34
 
-Claim: The host says that within a year of Charlie Kirk starting to push back and saying 'Take the money out of the organization', 'they' panicked and decided to kill him, and that the assassination catalyzed the loss of control they feared.
+Claim: The host says that, within a year of Charlie Kirk starting to push back, with him imagined as saying 'Take the money out of the organization', 'they' seem to have panicked and decided to kill him, and that the assassination catalyzed the loss of control they feared.
 
 Transcript Snippet: And then he goes, "You know what? Take the money. Take the money out of the organization." And they panicked.
 
@@ -1223,7 +1223,7 @@ Investigative Direction: Compare public interest and coverage of the Macron stor
 
 Claim Timestamp: 00:25:12
 
-Claim: The host says Peter Thiel is going around giving interviews asking about the Antichrist, and that elites are obsessed with the Antichrist.
+Claim: The host says 'they' are obsessed with the Antichrist, 'maybe like people like Peter Thiel', who she says is going around giving interviews asking about the Antichrist.
 
 Transcript Snippet: Maybe like people like Peter Thiel, he's like going around giving interviews asking about the Antichrist.
 
@@ -1312,7 +1312,7 @@ Investigative Direction: Ask the host which moon landing footage and which ritua
 
 Claim Timestamp: 00:31:56
 
-Claim: The host says there was an article in the Spectator UK describing how COVID measures were established to mirror a religion, including ritual and masks as identifiers.
+Claim: The host says there was an article in the Spectator UK describing how they tried to establish COVID to mirror a religion, including ritual and masks as identifiers.
 
 Transcript Snippet: there was actually a really good article in the spect in in the spectator UK regarding how they tried to establish co to mirror a religion
 
@@ -1342,7 +1342,7 @@ Investigative Direction: Check CERN's founding date (convention ratified in 1954
 
 Claim Timestamp: 00:32:57
 
-Claim: Mark says that in 1964 a group of scientists theorized the Higgs boson, that one scientist was Peter Higgs, and that this was the missing piece in how massless particles gain mass.
+Claim: Mark says that in 1964 a group of scientists theorized the Higgs boson, that one of them was named Peter Higgs, he believes, and that this addressed one of the missing pieces in how massless particles gain mass.
 
 Transcript Snippet: in 1964 a group of scientists theorized that there's something called a Higs Bzon.
 
@@ -1456,7 +1456,7 @@ Investigative Direction: Locate the spokesperson statement and compare with the 
 
 Claim Timestamp: 00:39:04
 
-Claim: The host says that in the footage you hear heavy breathing and a man saying an expletive, which she reads as showing the person recording did not think it was a prank.
+Claim: The host says that in the footage you hear heavy breathing and a man saying an expletive, which she takes to mean he did not think it was a prank.
 
 Transcript Snippet: You then hear heavy breathing and you hear a guy saying f doesn't seem like it was a prank to him.
 
@@ -1472,7 +1472,7 @@ Investigative Direction: Review the original video audio and note the exact word
 
 Claim Timestamp: 00:40:52
 
-Claim: The host says the Daily Wire has been engaged in gangstalking behavior against her consistently for two years behind the scenes, and is now doing it openly, and that she regards the Egyptian Air video as a threat.
+Claim: The host says the Daily Wire's behavior toward her is 'like gangstalking' and has been going on consistently for two years behind the scenes, and is now visible openly, and that she regards the Egyptian Air video as a threat.
 
 Transcript Snippet: it's just been going on for two years consistently behind the scenes.
 
@@ -1487,7 +1487,7 @@ Investigative Direction: Ask the host for dated examples of the earlier behind-t
 
 Claim Timestamp: 00:42:37
 
-Claim: The host says Tucker Carlson had exposed that during his time at the CIA, Mike Pompeo tried to have Julian Assange murdered.
+Claim: The host says Tucker Carlson had exposed that during his time at the CIA, she believes Mike Pompeo tried to have Julian Assange murdered.
 
 Transcript Snippet: Tucker had exposed um that during his time at the CIA, I believe it was Mike Pompeo
 
@@ -1594,7 +1594,7 @@ Investigative Direction: Check the channel list linked from the episode descript
 
 Claim Timestamp: 00:49:41
 
-Claim: The host says she thinks Charlie Kirk was becoming too aware of his own captivity, started wondering whether he was allowed to be a person outside the organization, and that the answer came back forcefully as no.
+Claim: The host agrees with a viewer comment that Charlie Kirk was becoming too aware of his own captivity, saying he started realizing 'whoa, am I allowed to be a person outside of this thing?' and that their answer came back forcefully as no.
 
 Transcript Snippet: he started realizing like, whoa, am I allowed to be a person outside of this thing? And their answer came back forcefully, which was no.
 
@@ -1609,7 +1609,7 @@ Investigative Direction: Obtain the verse or message Charlie sent the host and t
 
 Claim Timestamp: 00:49:41
 
-Claim: The host says the quoted lines from commenter Dakota, 'Reality is catching up with me' and 'taking my inner child', are what Charlie Kirk sent to her, which she calls the 'yay power verse'.
+Claim: Replying to a viewer comment from Dakota that includes the lines 'Reality is catching up with me' and 'taking my inner child', the host says the commenter is referring to the 'yay power verse' that Charlie Kirk sent her.
 
 Transcript Snippet: You're referring to the yay power verse that Charlie sent to me.
 

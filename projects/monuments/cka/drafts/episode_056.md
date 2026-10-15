@@ -91,7 +91,7 @@ Confidence Level: Medium (host characterizes filing as allegations)
 Video Timestamp: 00:18:40
 Confidence Level: Medium
 
-*Related: C-2081, N-804, N-10410*
+*Related: C-2081, N-803, N-10410*
 
 **A-1621** Mind War Book Reference Bundle
 
@@ -100,7 +100,7 @@ Confidence Level: Medium
 Video Timestamp: 00:21:42
 Confidence Level: Medium
 
-*Related: C-2082, N-804, N-451, N-10410*
+*Related: C-2082, N-803, N-451, N-10410*
 
 **A-1622** Michael Aquino Interview / Background Bundle
 
@@ -183,7 +183,7 @@ Confidence Level: Medium (verbally referenced; host states "we have that somewhe
 
 *Related: C-2091, N-2, N-10412*
 
-**A-1627** Andrew Aguilar Comment Bundle
+**A-1627** Anthony Aguilar Comment Bundle
 
 **A-1627.1** Comment from Andrew (Anthony) Aguilar – self-identified Gaza whistleblower Green Beret – stating he was arrested on September 3 in Congress for calling out AIPAC and offering to appear on the show.
 
@@ -310,7 +310,7 @@ Investigative Pressure: Medium
 
 *Related: A-1619.1, C-2079, N-448, N-10409*
 
-**N-804** Paul Vallely
+**N-803** Paul Vallely
 
 Turning Point USA board member; former military commander of the 7th Psychological Operations Group; co-author of *Mind War* (1980) with Michael Aquino.
 
@@ -330,7 +330,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-2082, C-2083, C-2084, C-2085, C-2086, N-804, N-10410*
+*Related: A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-2082, C-2083, C-2084, C-2085, C-2086, N-803, N-10410*
 
 **N-452** Greg Laurie
 
@@ -398,7 +398,7 @@ Investigative Pressure: Medium (timeline target)
 
 *Related: C-2094, C-2095*
 
-**N-455** Andrew Aguilar
+**N-455** Anthony Aguilar
 
 Self-identified former Green Beret; claims arrest at US Capitol for calling out AIPAC.
 
@@ -429,7 +429,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1620.1, A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-2081, C-2082, C-2083, C-2084, C-2085, C-2086, N-804, N-451*
+*Related: A-1620.1, A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-2081, C-2082, C-2083, C-2084, C-2085, C-2086, N-803, N-451*
 
 **N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
 
@@ -779,9 +779,9 @@ Investigative Direction: Obtain primary recording; verify exact phrasing.
 
 **C-2077** Host Says Court Petition Filed December 2024 Challenges Alton C. Jennings Will Against TPUSA and YAF
 
-Claim Timestamp: 00:13:58
+Claim Timestamp: 00:15:40
 
-Claim: The host says, per the lawsuit (which she notes contains only allegations), that a court petition was filed in December 2024 by Alton C. Jennings's grandson, challenging the last will and trust on the grounds of cognitive decline and undue influence by caretaker Mitch Manley Sr.
+Claim: The host says, per the lawsuit (which she notes contains only allegations), that a court petition was filed in December 2024 by Alton C. Jennings's grandson, challenging his last will and trust and alleging cognitive decline and that caretaker Mitch Manley Sr. isolated him and seized control of his finances.
 
 Anchored Artifacts: A-1619.1
 Mentions: N-447, N-448
@@ -828,7 +828,7 @@ Claim Timestamp: 00:18:40
 Claim: The host identifies Paul Vallely as a Turning Point USA board member, with a military background as commander of the 7th Psychological Operations Group and two Vietnam combat tours.
 
 Anchored Artifacts: A-1620.1
-Mentions: N-804
+Mentions: N-803
 Related Nodes: N-10410
 Investigative Direction: Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record.
 
@@ -839,7 +839,7 @@ Claim Timestamp: 00:21:42
 Claim: The host says Paul Vallely and Major Michael Aquino co-authored the book *Mind War* in 1980.
 
 Anchored Artifacts: A-1621.1
-Mentions: N-804, N-451
+Mentions: N-803, N-451
 Related Nodes: N-10410
 Investigative Direction: Obtain bibliographic record (publisher, ISBN); verify authorship.
 
@@ -913,24 +913,24 @@ Investigative Direction: Obtain original complaint; verify specificity of allega
 
 Claim Timestamp: 00:35:00
 
-Claim: The law firm representing survivors has stated that twenty-three former residents of the home are expected to bring complaints; most recent complaints were filed in November.
+Claim: The host says the law firm representing the survivors said in a news release that it expects 23 former residents of the Romanian children's home to bring complaints, and that the most recent complaints were filed in November.
 
 Anchored Artifacts: A-1624.3
-Mentions: N-453
+Mentions: 
 Related Nodes: N-10411
 Investigative Direction: Obtain law firm press release; track complaint filings in docket.
 
-**C-2090** Scott Adams Died at 68 from Prostate Cancer
+**C-2090** Host Says Scott Adams Died at 68 From Prostate Cancer
 
 Claim Timestamp: 00:38:11
 
-Claim: Scott Adams, creator of *Dilbert*, died at age 68 from prostate cancer; host states he had said he was "coming to the Lord" before passing.
+Claim: The host says Scott Adams, creator of Dilbert, died at 68 after losing his battle with prostate cancer, and that he said he was coming to the Lord before he passed.
 
 Anchored Artifacts: A-1625.1
 Mentions: N-189
 Investigative Direction: Cross-check obituary; verify cause of death and date.
 
-**C-2091** Social Blade Records Erica Kirk Deleting 126 Instagram Posts on June 19
+**C-2091** Host Says Social Blade Shows Erika Kirk Deleting 126 Instagram Posts on June 19
 
 Claim Timestamp: 00:12:24
 
@@ -951,11 +951,11 @@ Anchored Artifacts: A-1618.1
 Mentions: N-22, N-454
 Investigative Direction: Locate original clip; verify date and outlet.
 
-**C-2093** Andrew Aguilar Claims Arrest at US Capitol on September 3 for Calling Out AIPAC
+**C-2093** Comment From Anthony Aguilar Says He Was Arrested in Congress on September 3 for Calling Out AIPAC
 
 Claim Timestamp: 00:44:19
 
-Claim: Andrew (Anthony) Aguilar, self-identified as a Gaza-whistleblower Green Beret, states he was arrested on September 3 at Congress for calling out AIPAC.
+Claim: A comment the host reads, attributed to Anthony Aguilar, the Gaza whistleblower Green Beret, says he was arrested on the 3rd of September in Congress for calling out AIPAC.
 
 Anchored Artifacts: A-1627.1
 Mentions: N-455
@@ -965,7 +965,7 @@ Investigative Direction: Verify arrest record (US Capitol Police, court records)
 
 Claim Timestamp: 00:09:14
 
-Claim: Host states, per her master timeline, that plane SUBTU arrived in Provo on May 23 (anchor plane) with a follow-up arrival May 27 carrying Wed Mahmoud, and departed June 2; transponders reportedly manipulated to obscure actual flight path.
+Claim: The host says, per her master timeline, that an anchor plane landed in Provo on May 23 and a follow-up plane, tail number SUBTU, came in on May 27 with Wed Mahmoud aboard, and that she has confirmed these planes can trick their transponders so the flights do not show on flight radar; she says it departed Provo on June 2.
 
 Anchored Artifacts: (no direct artifact displayed in this episode – host references her previously shown timeline)
 Mentions: N-307
@@ -978,7 +978,7 @@ Claim Timestamp: 00:10:59
 Claim: Host asserts that the Iran–Israel 12-day war commenced on June 13, immediately following the SUBTU plane's reported departure from Provo on June 2.
 
 Anchored Artifacts: (host assertion referencing publicly known conflict dates; no specific artifact shown)
-Mentions: N-307
+Mentions: 
 Investigative Direction: Verify conflict onset date via public news records; cross-check host's timeline against flight records.
 
 ---
@@ -994,7 +994,7 @@ Transcript Snippet: Bill Ackman confirmed it that he gave this presentation to e
 Anchored Artifacts: 
 Mentions: N-3, N-37
 Supports: C-1161
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the retreat and the influencers present; obtain a recording, slides or an Ackman statement confirming the presentation.
 
 ---
@@ -1078,7 +1078,7 @@ Investigative Direction: Locate the original Graham remarks and their date to co
 
 ---
 
-**C-12530** Tucker Says Voters Should Not Want Emotionally Incontinent People on Foreign Payrolls Deciding for an Empire
+**C-12530** Tucker Says Flighty, Emotionally Incontinent People on Foreign Payrolls Should Not Make an Empire's Decisions
 
 Claim Timestamp: 00:06:51
 
@@ -1292,7 +1292,7 @@ Investigative Direction: Obtain the Social Blade history and any archived copies
 
 Claim Timestamp: 00:12:24
 
-Claim: The host says the U.S. decided to bomb in a limited military exercise, after which everyone said the war with Iran was over and the people predicting a wider war were wrong.
+Claim: The host says the U.S. decided to bomb in a limited military exercise, after which everyone said the war with Iran was over and the people warning of a wider war were wrong, but she and her side insisted they were not wrong.
 
 Transcript Snippet: we decide to bomb for a limited uh military exercise and everyone says the war with Iran is over.
 
@@ -1475,7 +1475,7 @@ Claim: The host says Paul Vallely collaborated with a major working under him, M
 Transcript Snippet: he collaborated with a major that was working under him.
 
 Anchored Artifacts: A-1621.1
-Mentions: N-804, N-451
+Mentions: N-803, N-451
 Related Nodes: N-10410
 Tags: relevance:context
 Investigative Direction: Check Army records and the foreword or biography in Mind War for Aquino's and Vallely's units and roles.
@@ -1491,7 +1491,7 @@ Claim: The host says that besides being an intelligence officer and psychologica
 Transcript Snippet: Aside from being an intelligence officer and an expert of psychological warfare, just like Paul Vallely, uh, doing this on behalf of our military, he's also an open Satanist.
 
 Anchored Artifacts: A-1621.1
-Mentions: N-451, N-804
+Mentions: N-451, N-803
 Related Nodes: N-10410
 Tags: relevance:context
 Investigative Direction: Cross-check Aquino's published biography and Army service record.
@@ -1670,7 +1670,7 @@ Claim: The host says Erika Kirk is soon going to speak with Greg Laurie's Harves
 Transcript Snippet: she's soon going to be speaking with Greg Laurie's Harvest Church for Turning Point USA's Faith Make Heaven Crowded tour.
 
 Anchored Artifacts: A-3215.1
-Mentions: N-2, N-452, N-14
+Mentions: N-2, N-452
 Related Nodes: N-11203, N-11340, N-10411, N-10398
 Supports: C-8151
 Tags: relevance:core
@@ -1703,7 +1703,7 @@ Claim: The host says the original lawsuit was filed in September by two men clai
 Transcript Snippet: The original lawsuit was filed in September by two men claiming that Paul Havsgaard. He is a former pastor and a missionary at Harvest Christian Fellowship in Riverside, California.
 
 Anchored Artifacts: A-1624.2
-Mentions: N-453, N-452
+Mentions: N-453
 Related Nodes: N-10411, N-11340
 Supports: C-7944
 Tags: relevance:context
@@ -1779,7 +1779,7 @@ Investigative Direction: Identify the lawsuit (court, case number, plaintiffs, f
 
 Claim Timestamp: 00:35:00
 
-Claim: The host says people on foreign military bases are quite immune to prosecution because of a deal struck between governments allowing them to do what they want on base; she attributes this to people she reached out to.
+Claim: The host says military people, and people adjacent to the military, who go abroad are quite immune to prosecution because of a deal struck between governments allowing them to do whatever they want on their base; she says she reached out to people about it.
 
 Transcript Snippet: they're quite immune uh to prosecution because that's the deal that gets struck that is struck up between the governments is like you can do whatever you want on your base
 
@@ -2131,7 +2131,7 @@ Confidence: high
 - **C-2094** – *Claim failed anchor test for this episode*: Plane SUBTU timeline claim references host's "master timeline" previously shown in earlier episodes; not artifact-anchored within this episode. Inscribed with low confidence and flag.
 - **N-307** Wed Mahmoud – *Name uncertainty*: Host spells name phonetically as "Wed Mahmoud / Wed Mahmoud / Wed Mahmoud" across passages; preserve as "Wed Mahmoud" with optional flag.
 - **N-453** Paul Havsgaard – *Name uncertainty*: Host spells surname both as "Havsgaard" and "Havsgaard" within the same passage; flag for verification against court filings.
-- **N-804** Paul Vallely – *Name uncertainty*: Host spells name both as "Vali" and "Paul Vallely"; flag for verification.
+- **N-803** Paul Vallely – *Name uncertainty*: Host spells name both as "Vali" and "Paul Vallely"; flag for verification.
 
 ---
 

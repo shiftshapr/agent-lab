@@ -525,7 +525,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-775"
+            "N-774"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1587,8 +1587,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-939",
-      "ref": "N-939",
+      "@id": "N-938",
+      "ref": "N-938",
       "name": "Ulysses S. Grant",
       "type": "person",
       "description": "First named by the host at 00:08:11 in episode 67. Union general and US president whom the host says expelled Jews from his military district.",
@@ -1604,8 +1604,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-940",
-      "ref": "N-940",
+      "@id": "N-939",
+      "ref": "N-939",
       "name": "Peggy Siegal",
       "type": "person",
       "description": "First named by the host at 00:10:32 in episode 67. Publicist named in the compilation's Epstein email about an event guest list.",
@@ -1621,8 +1621,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-941",
-      "ref": "N-941",
+      "@id": "N-940",
+      "ref": "N-940",
       "name": "Alex Acosta",
       "type": "person",
       "description": "First named by the host at 00:28:29 in episode 67. Former US Attorney in Miami who approved Epstein's 2008 plea deal.",
@@ -1638,8 +1638,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-942",
-      "ref": "N-942",
+      "@id": "N-941",
+      "ref": "N-941",
       "name": "Will Cain",
       "type": "person",
       "description": "First named by the host at 00:41:12 in episode 67. Fox News host whose show Charlie Kirk appeared on September 9, 2025.",
@@ -1860,8 +1860,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-775",
-      "ref": "N-775",
+      "@id": "N-774",
+      "ref": "N-774",
       "name": "Aleister Crowley",
       "type": "person",
       "description": "Occultist the host links to the Star of David.",
@@ -1877,8 +1877,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-796",
-      "ref": "N-796",
+      "@id": "N-795",
+      "ref": "N-795",
       "name": "Leo Frank",
       "type": "person",
       "description": "Lynched man in the Phagan case.",
@@ -1894,8 +1894,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-797",
-      "ref": "N-797",
+      "@id": "N-796",
+      "ref": "N-796",
       "name": "Mary Phagan",
       "type": "person",
       "description": "Murder victim the host links to the ADL origin.",
@@ -1911,8 +1911,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-821",
-      "ref": "N-821",
+      "@id": "N-820",
+      "ref": "N-820",
       "name": "Ehud Barak",
       "type": "person",
       "description": "Former Israeli prime minister named in Epstein emails per the host.",
@@ -1928,8 +1928,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-849",
-      "ref": "N-849",
+      "@id": "N-848",
+      "ref": "N-848",
       "name": "Jeffrey Moussaieff Masson",
       "type": "person",
       "description": "Author of The Assault on Truth, named by the host as 'Jeffrey Moussaieff Masson'.",
@@ -3085,7 +3085,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-50",
-        "N-849"
+        "N-848"
       ]
     },
     {
@@ -3147,7 +3147,7 @@
       "transcript_snippet": "Ulysses S. Grant notoriously expelled Jews from his military district, Tennessee, Mississippi, Kentucky.",
       "mentions_person_refs": [
         "N-3",
-        "N-939"
+        "N-938"
       ]
     },
     {
@@ -3170,8 +3170,8 @@
       "transcript_snippet": "Um that then subsequently became the ADL after the ritualistic murder of a Catholic girl named Mary Phagan.",
       "mentions_person_refs": [
         "N-3",
-        "N-797",
-        "N-796"
+        "N-796",
+        "N-795"
       ]
     },
     {
@@ -3258,7 +3258,7 @@
       "transcript_snippet": "While talking to Peggy Siegal August 7th of 2010, she asks if an event is going to be 100% Jewish. He says no, they'll have in abundance.",
       "mentions_person_refs": [
         "N-9",
-        "N-940"
+        "N-939"
       ]
     },
     {
@@ -3661,7 +3661,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-9",
-        "N-941"
+        "N-940"
       ]
     },
     {
@@ -3707,7 +3707,7 @@
         "N-3",
         "N-9",
         "N-36",
-        "N-821",
+        "N-820",
         "N-48",
         "N-180"
       ]
@@ -3950,7 +3950,7 @@
       "transcript_snippet": "Here you can see that star of David, which is also all over Aleister Crowley, not a Jew, all over his books on ritualistic magic",
       "mentions_person_refs": [
         "N-3",
-        "N-775"
+        "N-774"
       ]
     },
     {
@@ -4044,7 +4044,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-942"
+        "N-941"
       ]
     },
     {

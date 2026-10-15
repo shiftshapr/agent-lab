@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: fac4670485ac7aebfc62240edc4e00c18462baab4c60e720e986d00acb522c8d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-865, N-11258
+  - Tip-minted Nodes (supplement_2026-10d): N-864, N-11258
   - Hole-minted Nodes (reintro-ep097): N-10651, N-10695
   - Tip-minted Nodes (reintro-ep097): N-11137
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10354–C-10422
-  - Tip-minted Nodes (reintro-ep097): N-789
+  - Tip-minted Nodes (reintro-ep097): N-788
   - Reused Nodes Appearing: N-10643, N-10645, N-10646, N-10647, N-10649, N-5, N-9, N-30, N-36, N-60, N-82, N-87, N-192, N-197, N-211, N-226, N-263, N-273, N-280, N-282, N-321, N-553, N-603, N-10012, N-10023, N-10083, N-10272, N-10341, N-10358, N-10373, N-10437, N-10546, N-10552, N-10641, N-10664, N-10681, N-10812, N-10840, N-10862, N-10899, N-10900, N-11001, N-11013, N-10650, N-434
  - New Nodes Introduced: N-10644, N-10648
  - Hole-minted Nodes (wave3): N-429, N-430
@@ -309,7 +309,7 @@ Video Timestamp: 00:51:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2828, C-2829, N-3, N-789*---
+*Related: C-2828, C-2829, N-3, N-788*---
 
 ### **A-2024** Lawler-Gottheimer House Resolution Bundle
 
@@ -437,7 +437,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-789** Hasan Piker
+**N-788** Hasan Piker
 
 Streamer; first named in A-2023.1.
 
@@ -969,7 +969,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-865** Matt Slauson
+**N-864** Matt Slauson
 
 First named by the host at 01:08:34 in episode 97 (spelled Slauson; at 01:13:25 she says 'Matt Christiansen', possibly the same lawyer). Attorney for Brian Harpole.
 
@@ -2328,7 +2328,7 @@ Claim: The host says Harpole's attorney, Matt Slauson, definitively was retweeti
 Transcript Snippet: this lawyer, Matt Slauson, the one who speaks like he has helium. Like he's just ingested some helium. Uh definitively was retweeting Laura Loomer.
 
 Anchored Artifacts: 
-Mentions: N-3, N-865, N-60
+Mentions: N-3, N-864, N-60
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Review the lawyer's public posting history for Loomer retweets and their dates relative to the filing.

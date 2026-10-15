@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: adca755f11f97530ce6adde89de991d04818ffab651baee8be2f4e7f2c5d59fc
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-754, N-11070, N-11073
+  - Tip-minted Nodes (supplement_2026-10): N-753, N-11070, N-11073
   - Claim Range (supplement_2026-10): C-6091–C-6170
-  - Reused Nodes Appearing: N-10810, N-10812, N-10813, N-3, N-4, N-27, N-30, N-31, N-40, N-54, N-97, N-101, N-192, N-10003, N-10043, N-10051, N-10100, N-10110, N-10162, N-10250, N-10337, N-10340, N-10346, N-10381, N-10386, N-10456, N-10774, N-753, N-11072, N-11071
+  - Reused Nodes Appearing: N-10810, N-10812, N-10813, N-3, N-4, N-27, N-30, N-31, N-40, N-54, N-97, N-101, N-192, N-10003, N-10043, N-10051, N-10100, N-10110, N-10162, N-10250, N-10337, N-10340, N-10346, N-10381, N-10386, N-10456, N-10774, N-752, N-11072, N-11071
  - New Nodes Introduced: N-10810, N-10811, N-10812, N-10813
  - Hole-minted Nodes (wave3): N-582
  - Reused Nodes Appearing: N-11, N-18, N-571
@@ -648,7 +648,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-753** Allan Robertson
+**N-752** Allan Robertson
 
 First named by the host at 00:09:47 in episode 144. Person the host says was visiting from Utah State University, undercover among protesters, and therefore could not have told Terrell Farnsworth to get the footage.
 
@@ -656,7 +656,7 @@ First named by the host at 00:09:47 in episode 144. Person the host says was vis
 
 ---
 
-**N-754** Andrea Birkhart
+**N-753** Andrea Birkhart
 
 First named by a speaker on the Kolvet/Neff show at 00:29:09 in episode 144. Described as an apolitical person asked whether a defense would present exculpatory evidence at a preliminary hearing; spelled Birkhart in the transcript.
 
@@ -1118,7 +1118,7 @@ Claim: The host says Allan Robertson can be ruled out as the one who told Terrel
 Transcript Snippet: Allan Robertson, we determined, was just visiting from Utah State University. He was undercover because he was there to check out the protesters ahead of the event.
 
 Anchored Artifacts: 
-Mentions: N-753, N-263, N-3
+Mentions: N-752, N-263, N-3
 Related Nodes: N-10774
 Supports: C-3199
 Investigative Direction: Confirm Robertson's role and location from USU police records and the host's earlier reporting.
@@ -1304,7 +1304,7 @@ Claim: A speaker on the Kolvet/Neff show, apparently Kolvet, says Andrea Birkhar
 Transcript Snippet: If they had exculpatory evidence, whether it's the parents that actually, you know, think he's innocent or they have some steakhouse receipt, would they not present that at the preliminary hearing?
 
 Anchored Artifacts: A-2799.1
-Mentions: N-754, N-14
+Mentions: N-753, N-14
 Related Nodes: N-10381
 Investigative Direction: Ask Birkhart on record and compare with the defense's stated reasons for not presenting evidence at the hearing.
 

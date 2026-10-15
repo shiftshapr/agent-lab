@@ -1,0 +1,763 @@
+[
+ {
+  "claim": "C-14163",
+  "episode": 55,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14164",
+  "episode": 55,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "Host says she is not doing Pearl Harbor today; she does not say it warrants a review.",
+  "fix": {
+   "label": "Host Teases Pearl Harbor and Lyndon Johnson Topics, Says Vibes Are Off"
+  }
+ },
+ {
+  "claim": "C-14165",
+  "episode": 55,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "Title adds 'Jewish-Sounding Surname', not said. Transcript 'full last name is Milei' (likely garbled); unresolved name: Milei full surname.",
+  "fix": {
+   "label": "Host Says Argentina's President Looks a Little Like Netanyahu and Cites a Rumor About His Full Last Name"
+  }
+ },
+ {
+  "claim": "C-14166",
+  "episode": 55,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14167",
+  "episode": 55,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14168",
+  "episode": 55,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Speculation about unspecified shootings; not background to the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-14169",
+  "episode": 55,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": true,
+  "note": "Claim names no Kirk; Mentions N-1 wrong. Host: 'If this really does become one world government and I do believe that is the explicit aim' (conditional dropped).",
+  "fix": {
+   "claim": "The host says that if this really does become one world government, which she believes is the explicit aim, our kids have no chance, and she asks whether people love their families enough to be brave.",
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-14170",
+  "episode": 55,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14171",
+  "episode": 55,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14172",
+  "episode": 55,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2075",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2076",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2077",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'In December of 2024' is said about 15:45 and the grandson/caretaker allegations at 16:00-16:40; claim timestamp 13:58 is over 100s early. 'Undue influence' not said; she says isolated and seized finances.",
+  "fix": {
+   "claim": "The host says, per the lawsuit (which she notes contains only allegations), that a court petition was filed in December 2024 by Alton C. Jennings's grandson, challenging his last will and trust and alleging cognitive decline and that caretaker Mitch Manley Sr. isolated him and seized control of his finances.",
+   "timestamp": "00:15:40"
+  }
+ },
+ {
+  "claim": "C-2078",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2079",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2080",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'yaf'; expansion to Young America's Foundation is the archive's.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2081",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Board member at ~18:55, 7th PSYOP ~19:50, two Vietnam tours ~20:50; claim spans a wide range.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2082",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'in 1980 the two of them decided to co-author a book' at ~21:19; claim 21:42 is about 23s after.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2083",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2084",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2085",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2086",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'describe the house where she was taken to'; claim says 'where abuse occurred'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2087",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2088",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2089",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names no Havsgaard, so N-453 is not a mention. Stated in own voice; host relays the law firm's news release.",
+  "fix": {
+   "claim": "The host says the law firm representing the survivors said in a news release that it expects 23 former residents of the Romanian children's home to bring complaints, and that the most recent complaints were filed in November.",
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-2090",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Stated as fact; it is the host's statement: 'Scott Adams... died 68... he did say he was coming to the Lord'.",
+  "fix": {
+   "claim": "The host says Scott Adams, creator of Dilbert, died at 68 after losing his battle with prostate cancer, and that he said he was coming to the Lord before he passed.",
+   "label": "Host Says Scott Adams Died at 68 From Prostate Cancer"
+  }
+ },
+ {
+  "claim": "C-2091",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'on June 19th, Erika purges her Instagram... 126 posts... according to social blade'. Claim spells 'Erica' and states it as fact.",
+  "fix": {
+   "claim": "The host says that, according to Social Blade, Erika Kirk deleted 126 Instagram posts on June 19.",
+   "label": "Host Says Social Blade Shows Erika Kirk Deleting 126 Instagram Posts on June 19"
+  }
+ },
+ {
+  "claim": "C-2092",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Drunk-girlfriend line at ~08:30 in Tucker clip; claim 07:08 is ~80s early, borderline.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2093",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host reads a comment 'from Anthony Aguilar'; name is Anthony, not Andrew (Wikipedia). Presented as Aguilar's own statement rather than a comment the host reads.",
+  "fix": {
+   "claim": "A comment the host reads, attributed to Anthony Aguilar, the Gaza whistleblower Green Beret, says he was arrested on the 3rd of September in Congress for calling out AIPAC.",
+   "label": "Comment From Anthony Aguilar Says He Was Arrested in Congress on September 3 for Calling Out AIPAC",
+   "names": [
+    {
+     "wrong": "Andrew Aguilar",
+     "right": "Anthony Aguilar",
+     "source": "https://en.wikipedia.org/wiki/Anthony_Aguilar"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2094",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: anchor plane lands May 23; the follow-up plane SUBTU comes May 27 with Wed Mahmoud. Claim says SUBTU arrived May 23. June 2 departure is said at ~11:00. Unresolved name: Wed Mahmoud.",
+  "fix": {
+   "claim": "The host says, per her master timeline, that an anchor plane landed in Provo on May 23 and a follow-up plane, tail number SUBTU, came in on May 27 with Wed Mahmoud aboard, and that she has confirmed these planes can trick their transponders so the flights do not show on flight radar."
+  }
+ },
+ {
+  "claim": "C-2095",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name Wed Mahmoud; Mentions N-307 wrong. Host also hedges that it may have gone to DC.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-12524",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Ackman property presentation is not about the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12525",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12526",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12527",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12528",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12529",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12530",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "Title says 'Voters'; Tucker says 'What you don't want are flighty...' with no voters.",
+  "fix": {
+   "label": "Tucker Says Flighty, Emotionally Incontinent People on Foreign Payrolls Should Not Make an Empire's Decisions"
+  }
+ },
+ {
+  "claim": "C-12531",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12532",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12533",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12534",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12535",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12536",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "Unresolved name: Wed Mahmoud (related node spells Wedi Machmood).",
+  "fix": {}
+ },
+ {
+  "claim": "C-12537",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12538",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12539",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12540",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12541",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "Sentence is at ~12:20; claim 10:59 is ~80s early, borderline.",
+  "fix": {}
+ },
+ {
+  "claim": "C-12542",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12543",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "Host: 'everyone says the war is over. The panicans were wrong and we were going no we weren't wrong' - claim reads as host agreeing they were wrong.",
+  "fix": {
+   "claim": "The host says the U.S. decided to bomb in a limited military exercise, after which everyone said the war with Iran was over and the people warning of a wider war were wrong, but she and her side insisted they were not wrong."
+  }
+ },
+ {
+  "claim": "C-12544",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12545",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12546",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12547",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12548",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12549",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12550",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12551",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12552",
+  "episode": 56,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]
