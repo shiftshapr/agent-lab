@@ -33,7 +33,7 @@
   - Claim Range: C-2298–C-2311
   - New Nodes Introduced (people): N-546, N-547, N-548, N-549, N-550
   - New Nodes Introduced (investigation targets): N-10485, N-10486, N-10487, N-10488
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-378 (Emmanuel Macron)
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-378 (Emmanuel Macron)
 
 ---
 
@@ -133,7 +133,7 @@ Confidence Level: High (video clip played in full)
 
 *Display/Read content: "Erika Kirk has been a dear friend of mine for almost 15 years. We have done multiple projects together. She wrote the forward to my book. The photo that has been circulating around that says a left eye club. Um this is the cuff that she's wearing. I designed it. Those are my um jewelry pieces. This was an editorial shot that I actually styled…"; description of "Romanian Angels" gift project organized by Erika.*
 
-*Related: C-2304, C-2305, N-546 (Tracy Martin), N-2 (Erica Kirk), N-10486 (Tracy Martin Background and Husband Verification), N-10485 (Erika Kirk September 10 Alibi Investigation)*
+*Related: C-2304, C-2305, N-546 (Tracy Martin), N-2 (Erika Kirk), N-10486 (Tracy Martin Background and Husband Verification), N-10485 (Erika Kirk September 10 Alibi Investigation)*
 
 ---
 
@@ -165,7 +165,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "A passport in mint condition like a steel neck stopping bullets."*
 
-*Related: C-2307, N-1 (Charlie Kirk), N-2 (Erica Kirk)*
+*Related: C-2307, N-1 (Charlie Kirk), N-2 (Erika Kirk)*
 
 **A-1743.2** Moderator Marzy comment re: jmail.world
 
@@ -274,14 +274,14 @@ Confidence Level: High
 
 **N-546** Tracy Martin
 
-Self-identified friend of Erica Kirk for approximately 15 years; styled the "left eye club" editorial photograph; designed the cuff worn by Erica; reported to have been with Erika on September 10, 2025. Husband's first name given by host as Thomas (uncertain).
+Self-identified friend of Erika Kirk for approximately 15 years; styled the "left eye club" editorial photograph; designed the cuff worn by Erica; reported to have been with Erika on September 10, 2025. Husband's first name given by host as Thomas (uncertain).
 
 Evidence Count: 1
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1741.1, C-2304, C-2305, N-2 (Erica Kirk), N-10485, N-10486*
+*Related: A-1741.1, C-2304, C-2305, N-2 (Erika Kirk), N-10485, N-10486*
 
 **N-542** Rob Skiba
 
@@ -329,14 +329,14 @@ Investigative Pressure: Low
 
 **N-490** Lori Frantzve
 
-Erica Kirk's mother, identified by host as the person Erika was reportedly with on September 10. Host now disputes this alibi.
+Erika Kirk's mother, identified by host as the person Erika was reportedly with on September 10. Host now disputes this alibi.
 
 Evidence Count: 0
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2 (Erica Kirk), N-10485, N-546 (Tracy Martin)*
+*Related: N-2 (Erika Kirk), N-10485, N-546 (Tracy Martin)*
 
 **N-9** Jeffrey Epstein
 
@@ -391,7 +391,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10487 (Dream City Church Investigation), N-2 (Erica Kirk)*
+*Related: N-10487 (Dream City Church Investigation), N-2 (Erika Kirk)*
 
 **N-551** Benjamin
 
@@ -415,7 +415,7 @@ Claim Count: 0 (this episode's alibi claim fails admission test; not inscribed)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1741.1, N-2 (Erica Kirk), N-546 (Tracy Martin), N-490 (Lori Frantzve)*
+*Related: A-1741.1, N-2 (Erika Kirk), N-546 (Tracy Martin), N-490 (Lori Frantzve)*
 
 **N-10486** Tracy Martin Background and Husband Verification
 

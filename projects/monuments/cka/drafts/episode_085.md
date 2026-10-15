@@ -356,7 +356,7 @@ Investigative Pressure: High
 
 **N-2** Erika Kirk
 
-Subject of multiple artifact-backed claims in this episode, including her statements to Bari Weiss and to the New York Times. Name variation flag: transcript uses "Erika" while ledger node is "Erica Kirk."
+Subject of multiple artifact-backed claims in this episode, including her statements to Bari Weiss and to the New York Times. Name variation flag: transcript uses "Erika" while ledger node is "Erika Kirk."
 
 Evidence Count: 3
 Claim Count: 5
@@ -3056,7 +3056,7 @@ These two artifact-anchored accounts cannot comfortably coexist. Cox's framing p
 # Optional Flags
 
 - **Possible transcription error:** Transcript uses both "Frank Turek" and "Frank Turek"; chapter title uses "Frank Turek." Treating as transcription error; canonical name is Frank Turek.
-- **Name variation:** Transcript uses "Erika Kirk" while the existing ledger node is "Erica Kirk" (N-2). Preserving transcript spelling in this episode's text but flagging the variation for cross-referencing.
+- **Name variation:** Transcript uses "Erika Kirk" while the existing ledger node is "Erika Kirk" (N-2). Preserving transcript spelling in this episode's text but flagging the variation for cross-referencing.
 - **Name canonicalization:** Transcript uses "Governor Cox" without first name; canonical name is Spencer Cox.
 - **Possible existing nodes not in ledger view:** Tyler Robinson, Joe Kent, Kash Patel, Spencer Cox, Nate Brooksby, and Andrew Kolvet are referenced in this episode and likely have existing node IDs from prior episodes. Wave 1 reconciliation: Nate Brooksby is N-273 and Spencer Cox is N-41; the draft placeholders and never denoted these people and were retargeted.
 - **Artifact verbally referenced but not shown:** The host references several items without showing or reading them in this episode, including: Joe Kent's statements about Kash Patel blocking international investigation; Kash Patel's press conference using "33"; the "witch article" from the Philippines; the DeMolay club historical background; the "tunnels at Disney" stories; the "spell" website. None are inscribed as claims because they are not artifact-presented in this episode.

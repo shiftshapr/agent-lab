@@ -1187,7 +1187,7 @@ Topic for missing Turning Point Action money and the alleged plan to fire Tyler 
 
 ---
 
-**N-10412** Erica Kirk June 19 Instagram Purge
+**N-10412** Erika Kirk June 19 Instagram Purge
 
 Prior topic on Erika Kirk's June 19 Instagram purge.
 

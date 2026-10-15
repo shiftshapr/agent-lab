@@ -1779,7 +1779,7 @@ Confidence: high
 - **Name uncertainty:** Transcript spells Andrew Kolvet as "Kolvet" / "Kolvet" / "Coette." Preserved as host used.
 - **Name uncertainty:** Transcript spells Secretary of Navy's name as "Failen" / "Balin" / "felon failen." Public-record name is John C. Phelan. Flag retained.
 - **Name uncertainty:** Transcript spells "Jean Luke Brunell" / "John Luke Bernell." Public-record name is Jean-Luc Brunel. Flag retained.
-- **Name spelling variance:** Host consistently uses "Erika Kirk"; existing ledger node is "Erica Kirk." Preserved as host used; cross-reference to existing node retained.
+- **Name spelling variance:** Host consistently uses "Erika Kirk"; existing ledger node is "Erika Kirk." Preserved as host used; cross-reference to existing node retained.
 - **Possible transcription error:** "Marina Minez" (likely Marina Linarte or similar TPUSA staff – unverified); "Justin Streiff" (likely Justin Streifel or similar TPUSA COO – unverified); "Frank" (in-house legal counsel).
 - **Artifact provenance unverified:** A-2198 family – host asserts she has held the footage since October 2025; chain of custody not displayed.
 - **Artifact provenance unverified:** A-2199 family – side-by-side lateral-crawl reference clip source unstated.

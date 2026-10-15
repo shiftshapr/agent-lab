@@ -865,7 +865,7 @@ Claim Timestamp: 00:10:00–00:11:00
 Claim: Candace Owens rejected Crowder's interpretation, stating that her remarks about Charlie being "betrayed" were not directed at Erika Kirk, and characterizing the Crowder narrative as a coordinated talking point deployed after she mentioned the Egyptian planes.
 
 Anchored Artifacts: A-1416.1, A-1417.1
-Mentions: N-2, N-3, N-260
+Mentions: N-2, N-3, N-260, N-1
 
 
 Investigative Direction: Determine, by transcript comparison, whether host's original remarks named Erika or TPUSA staff; trace downstream amplification of the Erika interpretation.
@@ -1012,7 +1012,7 @@ Claim Timestamp: 00:34:07–00:35:11
 Claim: "Wolves and Finance" YouTube video asserts that for fiscal year 2024, the IRS Form 990 is posted for Turning Point USA but is missing for Turning Point Action, Turning Point Endowment, and America's Turning Point.
 
 Anchored Artifacts: A-1420.1
-Mentions: 
+Mentions: N-473
 
 Related Nodes: N-10254
 
@@ -1027,7 +1027,7 @@ Claim Timestamp: 00:37:29–00:39:37
 Claim: In the "Wolves and Finance" video clip the host plays, the presenter says Schedule I of Turning Point USA's FY2024 Form 990 shows $8,560,625 sent to America's Turning Point.
 
 Anchored Artifacts: A-1420.2
-Mentions: 
+Mentions: N-473
 
 Related Nodes: N-10254
 
@@ -1042,7 +1042,7 @@ Claim Timestamp: 00:35:11–00:36:30
 Claim: The "Wolves and Finance" video the host plays asserts that the decision not to file three of four TPUSA-related financial statements occurred four months before Charlie Kirk appointed a new COO, requested a new audit, and was murdered.
 
 Anchored Artifacts: A-1420.1, A-1420.3
-Mentions: N-1
+Mentions: N-1, N-473
 
 Related Nodes: N-10254
 
@@ -1057,7 +1057,7 @@ Claim Timestamp: 00:43:40
 Claim: The host says the "Wolves and Finance" video, which she did not show, states that Turning Point USA's 501(c)(3) arm cut staff by 33% while the cost of salaries went up, which she agrees looks suspicious.
 
 Anchored Artifacts: A-1420.2
-Mentions: 
+Mentions: N-473
 
 Related Nodes: N-10254
 
@@ -1072,7 +1072,7 @@ Claim Timestamp: 00:42:25
 Claim: In the "Wolves and Finance" video the host plays, the presenter says Erika Kirk assumed the role of CEO of Turning Point USA on September 18, 2025, 8 days after Charlie Kirk was murdered.
 
 Anchored Artifacts: A-1420.1
-Mentions: N-1, N-2
+Mentions: N-1, N-2, N-473
 
 Related Nodes: N-10254
 
@@ -1153,7 +1153,7 @@ Investigative Direction: Preserve as brand / network framing claim (M-12 alias "
 
 Claim Timestamp: 00:12:50
 
-Claim: Host states that Charlie Kirk flew into Salt Lake City rather than the closer Provo airport on September 10, ostensibly because of a morning "restaurantology" interview with Andrew K. Smith, whom she describes as a managing director of a restaurant fund that nobody really knows.
+Claim: Host states that Charlie Kirk flew into Salt Lake City rather than the closer Provo airport on September 10, ostensibly because of a morning "restaurantology" interview with Andrew K. Smith, whom she describes as a person nobody really knows and a managing director of a restaurant fund.
 
 Transcript Snippet: He's a managing director of a restaurant fund, Andrew K. Smith, out of nowhere does this restauranttology interview with Charlie.
 
@@ -1300,7 +1300,7 @@ Claim: In the clip played, Steven Crowder says outrageous claims require outrage
 Transcript Snippet: outrageous claims and this is an outrageous claim require outrageous evidence of course as is par for the course. Um, none has been presented.
 
 Anchored Artifacts: A-1416.1
-Mentions: N-260, N-2, N-3
+Mentions: N-260, N-2, N-3, N-1
 Tags: relevance:context
 Investigative Direction: Obtain the full Crowder video and date it relative to the host's book club audio; check what claim he treated as the 'outrageous' one.
 
@@ -1326,7 +1326,7 @@ Investigative Direction: Check TPUSA filings, payroll or board records for any r
 
 Claim Timestamp: 00:10:59
 
-Claim: The host says that after her plane work, TPUSA-aligned influencers 'sent mother mocking bird out, Ben Shapiro' to allege that she had said something specifically about Erika when she had not.
+Claim: The host says that after her plane work struck 'even more fear into the nest of mocking birds', 'they sent mother mocking bird out, Ben Shapiro' to allege that she had said something specifically about Erika when she had not.
 
 Transcript Snippet: they sent mother mocking bird out, Ben Shapiro, to make the exact same wild allegation out of thin air that I said something specifically about Erika when I had not.
 
@@ -1598,7 +1598,7 @@ Investigative Direction: Consult aviation-communications experts on the Gulfstre
 
 Claim Timestamp: 00:22:44
 
-Claim: The host says the Egyptian planes were known to Turning Point USA and that TPUSA chose to stay silent about why they were on the ground on the day of the assassination.
+Claim: The host says the Egyptian planes were known to Turning Point USA, that everyone deserves to know why they were on the ground that day, and that TPUSA chose to stay silent while influencers and publications attacked her for mentioning the planes.
 
 Transcript Snippet: my point is that these planes were known to Turning Point USA and we all deserve to know why they were on the ground on that day
 
@@ -2159,7 +2159,7 @@ Investigative Direction: Review Flock's published coverage figures and the trans
 
 Claim Timestamp: 00:52:35
 
-Claim: The host says the feds are trying to cover everything and asks the audience for tips at her tip address, saying somebody saw something and has the license plate numbers.
+Claim: The host says the feds are trying to cover everything and asks the audience for tips at her tip address, saying somebody saw something and that the audience now has the license plate numbers.
 
 Transcript Snippet: More tips at canowens. com. We have to be faster than them, smarter than them.
 

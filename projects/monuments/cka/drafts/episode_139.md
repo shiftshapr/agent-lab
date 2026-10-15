@@ -1002,18 +1002,18 @@ Investigative Direction: Verify funding source of the $300K offer; obtain any fo
 
 ---
 
-**C-3239** Andrew Wilson claims he hugged Erica Kirk at TPUSA HQ
+**C-3239** Andrew Wilson claims he hugged Erika Kirk at TPUSA HQ
 
 Claim Timestamp: 00:04:12–00:05:52
 
-Claim: On the Joe Rogan Experience, Andrew Wilson stated that during a visit to TPUSA HQ he spoke briefly with Erica Kirk and hugged her, expressing sympathy for her loss.
+Claim: On the Joe Rogan Experience, Andrew Wilson stated that during a visit to TPUSA HQ he spoke briefly with Erika Kirk and hugged her, expressing sympathy for her loss.
 
 Anchored Artifacts: A-2255.2
 Mentions: N-2, N-18, N-269
 
 Related Nodes:
 
-Investigative Direction: Verify TPUSA HQ visit through visitor logs, Erica Kirk's public statements, and corroborating witnesses.
+Investigative Direction: Verify TPUSA HQ visit through visitor logs, Erika Kirk's public statements, and corroborating witnesses.
 
 ---
 
@@ -1021,7 +1021,7 @@ Investigative Direction: Verify TPUSA HQ visit through visitor logs, Erica Kirk'
 
 Claim Timestamp: 00:03:25–00:04:59
 
-Claim: On the Joe Rogan Experience, Andrew Wilson stated that Candace Owens has never presented a single shred of evidence for her theory that Israel/TPUSA/Erica Kirk conspired in Charlie Kirk's death, and that the position evolved after Erica Kirk publicly called for the conspiracy talk to stop.
+Claim: On the Joe Rogan Experience, Andrew Wilson stated that Candace Owens has never presented a single shred of evidence for her theory that Israel/TPUSA/Erika Kirk conspired in Charlie Kirk's death, and that the position evolved after Erika Kirk publicly called for the conspiracy talk to stop.
 
 Anchored Artifacts: A-2255.3
 Mentions: N-1, N-2, N-18, N-3, N-269

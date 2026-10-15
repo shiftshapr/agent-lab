@@ -38,7 +38,7 @@
   - Claim Range: C-1584–C-1597
   - New People Nodes Introduced: N-191, N-17, N-218, N-22, N-39, N-202, N-219, N-220, N-182, N-42, N-221
   - New Investigation Target Nodes Introduced: N-10218, N-10219, N-10220, N-10221, N-10222, N-10223
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
@@ -1767,4 +1767,4 @@ Confidence: high
 - **Claim Range:** C-1584–C-1595
 - **New People Nodes Introduced:** N-191, N-17, N-218, N-22, N-39, N-202, N-219, N-220, N-182, N-42, N-221
 - **New Investigation Target Nodes Introduced:** N-10218, N-10219, N-10220, N-10221, N-10222, N-10223
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)

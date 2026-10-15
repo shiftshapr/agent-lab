@@ -997,7 +997,7 @@ Investigative Direction: Obtain raw flight plan and ATC records to verify origin
 
 Claim Timestamp: 00:39:24
 
-Claim: The host, showing a flight log with guest Baron Coleman, says it shows an aircraft departing Las Vegas on August 26, 2025 at 3:14 p.m. under the call sign RCH658, with transponder data missing before landing at Colorado Springs.
+Claim: The host, showing a flight log after playing a Baron Coleman clip, says it shows an aircraft departing Las Vegas on August 26, 2025 at 3:14 p.m. under the call sign RCH658, with transponder data missing before landing at Colorado Springs.
 
 Anchored Artifacts: A-1554.1
 Mentions: N-331
@@ -1012,7 +1012,7 @@ Investigative Direction: Obtain radar track records and ADS-B exchange logs for 
 
 Claim Timestamp: 00:39:24
 
-Claim: The host, showing a flight log with guest Baron Coleman, says it shows the same aircraft returning from Colorado Springs to Joint Base Andrews under the SAM658 call sign.
+Claim: The host, showing a flight log after playing a Baron Coleman clip, says it shows the same aircraft returning from Colorado Springs to Joint Base Andrews under the SAM658 call sign.
 
 Anchored Artifacts: A-1554.1
 Mentions: N-331
@@ -1299,7 +1299,7 @@ Investigative Direction: Compare the official description of the recovery site w
 
 Claim Timestamp: 00:10:53
 
-Claim: The host says the area where the gun was later found had already been searched by veteran police officers, who told her they sort of lock arms to search and that 'maybe that's what they did', and that they found nothing.
+Claim: The host says the area where the gun was later found had already been searched by veteran police officers, who told her they sort of lock arms to search, adding herself 'maybe that's what they did', and that they found nothing.
 
 Transcript Snippet: That area had already been searched. Not just by veteran police officers who told me that the way they do this is they sort of lock arms
 
@@ -1839,16 +1839,16 @@ Investigative Direction: Verify call-sign usage rules with Air Mobility Command 
 
 ---
 
-**C-5235** Respondent in Clip Says Venus Is a Designator for an Empty Flight Except the Pilots
+**C-5235** Respondent Says Venus Is a Designator for an Empty Flight Except the Pilots
 
 Claim Timestamp: 00:40:40
 
-Claim: In the clip, a respondent apparently Coleman says another call sign they have seen is Venus, which designates an empty flight except for the pilots.
+Claim: A speaker the transcript does not identify, answering the host's question about SAM and Reach call signs, says another call sign they have seen is Venus, which is a designator for an empty flight except for the pilots.
 
 Transcript Snippet: the other call sign we've seen is Venus, which is a designator for an empty flight except for the pilots.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-331
+Mentions: 
 Related Nodes: N-10364
 Investigative Direction: Check military airlift call-sign documentation for Venus.
 
@@ -2255,11 +2255,11 @@ Investigative Direction: Look for any FBI response or records of the host's outr
 
 ---
 
-**C-5263** Host Says She Told Patel She Has Evidence the French Legion Was on the Ground That Day
+**C-5263** Host Says She Has Evidence the French Legion Was on the Ground That Day and Reached Out to the FBI
 
 Claim Timestamp: 00:58:23
 
-Claim: The host says she told Kash Patel she has evidence that the French Foreign Legion was on the ground on the day of the shooting.
+Claim: The host says she called out to Kash Patel that she has evidence the French Legion was on the ground that day, adding that she means she reached out to the FBI, not to Patel specifically.
 
 Transcript Snippet: Hey, I said Cash, I have evidence the French Legion was on the ground that day.
 
@@ -2362,7 +2362,7 @@ Investigative Direction: Locate the photographs and confirm date and venue.
 
 Claim Timestamp: 01:01:11
 
-Claim: The host says the person that Harry believes he saw coming out of the Fort Huachuca meeting happened to be a Las Vegas congressman, whom she says will be named in the near future.
+Claim: The host says that, as viewers will learn in the near future, one of the congressmen Harry believes he saw coming out of the Fort Huachuca meeting happened to be a Las Vegas congressman.
 
 Transcript Snippet: that he believes he saw coming out of that meeting did happen to be a Las Vegas congressman.
 

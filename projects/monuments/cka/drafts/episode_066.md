@@ -38,13 +38,13 @@
 - Claim Range: C-2239–C-2252
   - New Nodes Introduced: N-513, N-514, N-515, N-516, N-517, N-518, N-519, N-10466, N-10468, N-10469
   - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-724, N-10000, N-10002, N-10015, N-10026, N-10059, N-10070, N-10209, N-10324, N-10439, N-10492, N-10869, N-10899, N-11014, N-11035, N-10467, N-11182, N-11183
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
 ## II. Executive Summary
 
-This episode advances the investigation along three evidentiary tracks. First, the host reads a Daily Mail article defending Erica Kirk against "grief policing" and quotes its two cited experts (Dr. Alan Wolfelt and Bidwell Smith), using the published text as an artifact anchor for the public defense framing around Erica's behavior.
+This episode advances the investigation along three evidentiary tracks. First, the host reads a Daily Mail article defending Erika Kirk against "grief policing" and quotes its two cited experts (Dr. Alan Wolfelt and Bidwell Smith), using the published text as an artifact anchor for the public defense framing around Erica's behavior.
 
 Second, the host introduces a new donor-targeting narrative supported by a first-person email from a Catholic attendee of the memorial and mass. The email, read aloud, supplies artifact-anchored details about Father Blank (the priest who flew with Erica to Utah, prayed at the hospital, and delivered the homily at the private funeral), including a 6:30am text mentioning "Erika may be there too" and a follow-up reply stating "God's fingerprints are all over" the donor's connection to Erica. A separately introduced TPUSA text references a $6 million memorial cost tied to a displaced "lucrative RV show" at Cardinal Stadium; the host claims she checked the Wayback Machine and found no such RV show on the calendar.
 
@@ -68,9 +68,9 @@ Confidence Level: High
 
 ---
 
-**A-1705** Erica Kirk Memorial Speech Audio Bundle
+**A-1705** Erika Kirk Memorial Speech Audio Bundle
 
-**A-1705.1** Audio excerpt of Erica Kirk's memorial speech directing audience to TPUSA.com, TPUSA Faith, and America Fest
+**A-1705.1** Audio excerpt of Erika Kirk's memorial speech directing audience to TPUSA.com, TPUSA Faith, and America Fest
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -140,7 +140,7 @@ Confidence Level: Medium
 
 **A-1710** Frank Turek Audio Clip Bundle
 
-**A-1710.1** Frank Turek sermon/podcast clip: dismisses Candace's dream-based claims, asserts "Satan is a murderer, a slanderer, an accuser, a liar, and somebody that brings confusion," applies this pattern to criticism of Erica Kirk
+**A-1710.1** Frank Turek sermon/podcast clip: dismisses Candace's dream-based claims, asserts "Satan is a murderer, a slanderer, an accuser, a liar, and somebody that brings confusion," applies this pattern to criticism of Erika Kirk
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -229,7 +229,7 @@ Confidence Level: High
 
 **N-513** Dr. Alan Wolfelt
 
-Colorado-based death educator and grief counselor quoted in the Daily Mail article as attributing public criticism of Erica Kirk to "mourning avoidant, emotion phobic culture."
+Colorado-based death educator and grief counselor quoted in the Daily Mail article as attributing public criticism of Erika Kirk to "mourning avoidant, emotion phobic culture."
 
 Evidence Count: 1
 Claim Count: 1
@@ -255,7 +255,7 @@ Investigative Pressure: Low
 
 **N-7** Frank Turek
 
-Cross-apologetics speaker referenced as a TPUSA-affiliated figure; the on-air clip shows him characterizing criticism of Erica Kirk as satanic pattern behavior.
+Cross-apologetics speaker referenced as a TPUSA-affiliated figure; the on-air clip shows him characterizing criticism of Erika Kirk as satanic pattern behavior.
 
 Evidence Count: 1
 Claim Count: 1
@@ -333,7 +333,7 @@ Investigative Pressure: Low
 
 **N-518** Kobe Bryant
 
-Referenced solely as a behavioral-comparison anchor for Erica Kirk (widow grief conduct at memorial); no artifact introduced.
+Referenced solely as a behavioral-comparison anchor for Erika Kirk (widow grief conduct at memorial); no artifact introduced.
 
 Evidence Count: 0
 Claim Count: 0
@@ -646,7 +646,7 @@ The dispute over Kolvet's interview with Alex Clark: the donor and the host call
 
 Claim Timestamp: 00:02:51
 
-Claim: The Daily Mail article presents grief experts who attribute criticism of Erica Kirk to "grief policing," a "mourning avoidant, emotion phobic culture," and sexism.
+Claim: The Daily Mail article presents grief experts who attribute criticism of Erika Kirk to "grief policing," a "mourning avoidant, emotion phobic culture," and sexism.
 
 Anchored Artifacts: A-1704.1
 Mentions: N-2, N-513, N-514
@@ -666,11 +666,11 @@ Investigative Direction: Confirm expert credentials, prior publication record, a
 
 ---
 
-**C-2241** Erica Kirk memorial speech directs audience to TPUSA-affiliated sign-ups
+**C-2241** Erika Kirk memorial speech directs audience to TPUSA-affiliated sign-ups
 
 Claim Timestamp: 00:10:38
 
-Claim: In a clip the host plays, within ~36–48 hours of Charlie Kirk's assassination (the host's estimate), Erica Kirk's speech directs attendees to TPUSA.com, TPUSA Faith, and America Fest sign-up.
+Claim: In a clip the host plays, within ~36–48 hours of Charlie Kirk's assassination (the host's estimate), Erika Kirk's speech directs attendees to TPUSA.com, TPUSA Faith, and America Fest sign-up.
 
 Anchored Artifacts: A-1705.1
 Mentions: N-1, N-2
@@ -678,11 +678,11 @@ Investigative Direction: Obtain full memorial transcript and compare against TPU
 
 ---
 
-**C-2242** Host contrasts Vanessa Bryant's eulogy with Erica Kirk's memorial speech
+**C-2242** Host contrasts Vanessa Bryant's eulogy with Erika Kirk's memorial speech
 
 Claim Timestamp: 00:06:32
 
-Claim: The host asserts Vanessa Bryant's Kobe Bryant memorial speech (delivered ~one month after death) focused on personal anecdotes about Kobe and grief, while Erica Kirk's memorial speech within ~48 hours centered on Turning Point USA organizational calls to action.
+Claim: The host asserts Vanessa Bryant's Kobe Bryant memorial speech (delivered ~one month after death) focused on personal anecdotes about Kobe and grief, while Erika Kirk's memorial speech within ~48 hours centered on Turning Point USA organizational calls to action.
 
 Anchored Artifacts: A-1705.1
 Mentions: N-2, N-518, N-519
@@ -715,7 +715,7 @@ Investigative Direction: Obtain phone records or screenshots of the actual text 
 
 ---
 
-**C-2245** Donor Tells Host She Gave Erica Kirk a Relic of St. Paul II
+**C-2245** Donor Tells Host She Gave Erika Kirk a Relic of St. Paul II
 
 Claim Timestamp: 00:18:53
 
@@ -723,7 +723,7 @@ Claim: In an email from a Catholic donor that the host reads, the donor says she
 
 Anchored Artifacts: A-1706.1
 Mentions: N-2
-Investigative Direction: Cross-check donor's account with Erica Kirk's public acknowledgment of receiving relics.
+Investigative Direction: Cross-check donor's account with Erika Kirk's public acknowledgment of receiving relics.
 
 ---
 
@@ -792,7 +792,7 @@ Investigative Direction: Identify the fundraiser; obtain the full text thread; c
 
 Claim Timestamp: 00:39:28
 
-Claim: Frank Turek states in an on-air clip that criticism of Erica Kirk (described as slander, accusation, lies, confusion, without evidence) is what "Satan does," and dismisses Candace Owens' dream-based claims as lacking supernatural confirmation.
+Claim: Frank Turek states in an on-air clip that criticism of Erika Kirk (described as slander, accusation, lies, confusion, without evidence) is what "Satan does," and dismisses Candace Owens' dream-based claims as lacking supernatural confirmation.
 
 Anchored Artifacts: A-1710.1
 Mentions: N-2, N-7, N-3

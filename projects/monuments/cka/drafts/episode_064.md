@@ -36,7 +36,7 @@
 - Claim Range: C-2206–C-2224
   - New Nodes Introduced: N-497, N-10448, N-10449, N-10450
   - Reused Nodes Appearing: N-10447, N-10446, N-14, N-22, N-36, N-97, N-196, N-202, N-222, N-232, N-362, N-471, N-494, N-10000, N-10027, N-10074, N-10238, N-10341, N-10342, N-10346, N-10416, N-10439, N-10452, N-10492, N-10548, N-10560, N-10899, N-10900, N-11014, N-11084, N-11092, N-11116, N-11180, N-11191, N-10554, N-11182, N-10561
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-262 (Terryl Farnsworth)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-262 (Terryl Farnsworth)
 
 ## 6. Meme Register
 

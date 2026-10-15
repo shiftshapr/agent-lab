@@ -1563,7 +1563,8 @@
       "investigative_direction": "Obtain and verify the full audition script and AI video; confirm the producer's statements directly via call recordings referenced by Maggie.",
       "mentions_person_refs": [
         "N-389",
-        "N-3"
+        "N-3",
+        "N-22"
       ]
     },
     {
@@ -1571,7 +1572,7 @@
       "@id": "C-2018",
       "ref": "C-2018",
       "label": "Maggie Wagner Declined the Audition Role",
-      "claim": "Maggie Wagner declined the Daily Wire audition role, texting the producer that making fun of Candace did not feel true to her beliefs.",
+      "claim": "Per a text message the host shows, Maggie Wagner declined the Daily Wire audition role, texting the producer that making fun of Candace did not feel true to her beliefs.",
       "anchored_artifacts": [
         "A-1588.1"
       ],
@@ -1590,7 +1591,7 @@
       "@id": "C-2019",
       "ref": "C-2019",
       "label": "Per Statement the Host Reads, Ben Shapiro Resigned From Breitbart News on March 13, 2016",
-      "claim": "Per the statement the host reads, Ben Shapiro publicly resigned from Breitbart News as of 9:00 PM Pacific on March 13, 2016, citing the company's handling of Michelle Fields' allegations that Corey Lewandowski assaulted her.",
+      "claim": "Per the statement the host reads, Ben Shapiro publicly resigned from Breitbart News as of 9:00 PM Pacific, citing the company's handling of Michelle Fields' allegations that Corey Lewandowski assaulted her; the host dates the resignation to March 13, 2016.",
       "anchored_artifacts": [
         "A-1590.1"
       ],
@@ -1602,7 +1603,6 @@
       "claim_timestamp": "00:24:45",
       "investigative_direction": "Cross-reference the resignation statement against contemporaneous Breitbart News coverage and internal communications.",
       "mentions_person_refs": [
-        "N-391",
         "N-393",
         "N-394",
         "N-97"
@@ -1625,7 +1625,6 @@
       "investigative_direction": "Obtain the full Amfest Bannon speech and verify the complete context; cross-reference Bannon's prior public statements about Shapiro.",
       "mentions_person_refs": [
         "N-390",
-        "N-391",
         "N-194",
         "N-97"
       ]
@@ -1714,7 +1713,7 @@
       "@id": "C-2025",
       "ref": "C-2025",
       "label": "Per Shapiro's Own Statement the Host Reads, He Joined Breitbart News Two Weeks Before Andrew Breitbart's Death",
-      "claim": "Per Ben Shapiro's own resignation statement that the host reads, he signed on with Breitbart News as editor-at-large approximately two weeks before Andrew Breitbart's death on March 1, 2012.",
+      "claim": "Per Ben Shapiro's own resignation statement that the host reads, he signed on with Breitbart News two weeks before Andrew Breitbart's death, which the host elsewhere dates to March 1, 2012.",
       "anchored_artifacts": [
         "A-1590.1"
       ],
@@ -1723,7 +1722,7 @@
         "N-10391"
       ],
       "tags": [],
-      "claim_timestamp": "00:25:28",
+      "claim_timestamp": "00:24:58",
       "investigative_direction": "Verify the exact date of Shapiro's hiring through Breitbart employment records or contemporaneous reporting.",
       "mentions_person_refs": [
         "N-391",
@@ -1752,7 +1751,7 @@
       "@id": "C-3656",
       "ref": "C-3656",
       "label": "Host elevates mommy sleuth crowd investigators",
-      "claim": "The host praises \"mommy sleuth(s)\" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.",
+      "claim": "The host praises \"mommy sleuth(s)\" as amateur / parent investigators sending tips, framed as part of the crowd intelligence effort.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2021,7 +2020,7 @@
       "@id": "C-6914",
       "ref": "C-6914",
       "label": "Host Reads Maggie's Account That She Tried to Rewrite the Script and Could Not",
-      "claim": "The host reads Maggie Wagner's email saying she tried to rewrite the audition script in a way true to her, could not, and was advised by a friend and a second person not to send the audition tape.",
+      "claim": "The host reads Maggie Wagner's email saying she tried to rewrite the audition script in a way true to her, could not, and was advised by a friend to contact a second person, who told her not to send the audition tape.",
       "anchored_artifacts": [
         "A-1587.1"
       ],
@@ -2832,7 +2831,7 @@
         "N-10386"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:29:19",
       "investigative_direction": "Identify donors who contacted Kirk or TPUSA about the host, and obtain any messages the host holds.",
@@ -3039,8 +3038,7 @@
       "transcript_snippet": "I said I'm not going to come out and condemn Kanye because I wasn't there.",
       "mentions_person_refs": [
         "N-3",
-        "N-27",
-        "N-367"
+        "N-27"
       ]
     },
     {
@@ -3062,7 +3060,6 @@
       "transcript_snippet": "we're going to change the contract and instead of being paid x amount of years, you are going to only get this.",
       "mentions_person_refs": [
         "N-3",
-        "N-367",
         "N-27"
       ]
     },

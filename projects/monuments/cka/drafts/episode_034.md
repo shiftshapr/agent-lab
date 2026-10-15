@@ -182,9 +182,9 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 
 ---
 
-### A-1432 – Aayol Yakobe X Post
+### A-1432 – Eyal Yakoby X Post
 
-**A-1432.1** Aayol Yakobe X post: "This is what doxing looks like. These are unparalleled levels of insanity. This is truly dangerous."
+**A-1432.1** Eyal Yakoby X post: "This is what doxing looks like. These are unparalleled levels of insanity. This is truly dangerous."
 - Event Timestamp: 2025-11 (prior to episode)
 - Source Timestamp: 2025-11-18 (read aloud)
 - Video Timestamp: 01:55
@@ -922,19 +922,19 @@ Anchored Artifacts: A-1426.1, A-1427.1
 Related Nodes: N-10261
 Investigative Direction: Identify the student and the reportedly-present professor; obtain any contemporaneous photographs, texts to the FBI tip line, and UVU building access logs for the CS building concourse and roof.
 
-**C-1737** Host Says Charlie Kirk's Security Lead Texted the UVU Police Chief About Rooftop Access and Accepted "I Got You Covered" as Resolution
+**C-1737** Harpole Says He Texted UVU Police Chief About Rooftop Access and Got "I Got You Covered"; Host Says He Did Not Follow Up
 
-Claim Timestamp: 00:26:12
+Claim Timestamp: 00:25:02
 Claim: In a clip the host plays, Brian Harpole, Charlie Kirk's security lead, reads his texts to UVU Police Chief Jeff Long about student roof access near where Kirk would be set up, ending with the reply "I got you covered," and the host says Harpole did not follow up further.
 Anchored Artifacts: A-1428.1, A-1428.2
 Mentions: N-1, N-267, N-272
 Related Nodes:
 Investigative Direction: Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation.
 
-**C-1738** Blake Neff was standing next to Mikey McCoy at the moment of the shooting.
+**C-1738** Blake Neff Says He Was Next to Mikey McCoy When the Shot Was Fired
 
 Claim Timestamp: 00:32:25
-Claim: Blake Neff states that he and Mikey McCoy were side-by-side when the shot occurred, both turned, and both saw Kirk had been shot.
+Claim: In a clip the host plays, Blake Neff says he and Mikey McCoy were side-by-side when the shot occurred, both turned, and both saw Kirk had been shot.
 Anchored Artifacts: A-1429.1
 Mentions: N-160, N-191
 Related Nodes: N-10262
@@ -943,13 +943,13 @@ Investigative Direction: Cross-reference video from TPUSA / event cameras and St
 **C-1739** Per Blake Neff's Screenshot the Host Shows, His Call to His Mother Began at 11:24 Arizona Time and Lasted 45 Seconds
 
 Claim Timestamp: 00:36:37
-Claim: Per a screenshot of Blake Neff's phone that the host shows, his call to his mother was initiated at 11:24 Arizona time (12:24 Utah time) and lasted 45 seconds.
+Claim: Per a screenshot of Blake Neff's phone that the host shows, his call to his mother began at 11:24 and lasted 45 seconds; the host says that because Neff is now in Arizona this means 12:24 Utah time, and Mark says the time shown is when the call was initiated.
 Anchored Artifacts: A-1429.2
 Mentions: N-160
 Related Nodes: N-10262
 Investigative Direction: Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.
 
-**C-1740** Audience Questioner at Rob McCoy's Jerusalem Event Says Carlson and Owens Are Hijacking the Christian Message
+**C-1740** Audience Questioner at Jerusalem Event With Rob McCoy Says Carlson and Owens Are Hijacking the Christian Message
 
 Claim Timestamp: 00:38:58
 Claim: In a clip the host plays from a Jerusalem event she says was billed as a celebration of Charlie Kirk's life, an audience questioner says Tucker Carlson and Candace Owens are 'essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity'; Rob McCoy answers that it is a great question.
@@ -960,21 +960,22 @@ Investigative Direction: Obtain the uncut event recording; identify the question
 
 **C-1741** Host Shows Calvary Chapel Magazine Cover With "Stand with Israel" and "Why Jews Are Hated" Article, Interior Featuring IDF Soldiers
 
-Claim Timestamp: 00:42:02
+Claim Timestamp: 00:41:07
 Claim: The host shows what she says is this month's Calvary Chapel magazine cover, sent to her by someone, featuring "Stand with Israel" and a "Why Jews are hated" subtitle, and says the interior includes a photo of IDF soldiers wearing yarmulkes with a Messianic caption.
 Anchored Artifacts: A-1431.1
 Related Nodes: N-10264
 Investigative Direction: Obtain the issue independently; verify article authors and the magazine's institutional affiliation and distribution chain.
 
-**C-1742** Aayol Yakobe posted on X that the rental-plate disclosure constitutes "doxing."
+**C-1742** Host Reads Eyal Yakoby Post Calling the Rental-Plate Disclosure "Doxing"
 
 Claim Timestamp: 00:01:55
-Claim: Aayol Yakobe posted on X characterizing the rental-plate disclosure as "doxing" and describing it as "unparalleled levels of insanity" and "truly dangerous."
+Claim: The host reads a post on X she attributes to Eyal Yakoby characterizing the rental-plate disclosure as "doxing" and describing it as "unparalleled levels of insanity" and "truly dangerous."
 Anchored Artifacts: A-1432.1, A-1425.1–A-1425.5
+Mentions:
 Related Nodes: N-10259
-Investigative Direction: Verify the post URL; document whether the post remains public; identify Aayol Yakobe's institutional affiliations.
+Investigative Direction: Verify the post URL; document whether the post remains public; identify Eyal Yakoby's institutional affiliations.
 
-**C-1743** Arynne Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.
+**C-1743** Host Reads Arynne Wexler Post Saying Candace Started Her Career by Doxing Teenagers
 
 Claim Timestamp: 00:03:02
 Claim: The host reads a post she attributes to Arynne Wexler, whom she describes as the woman at the Hamptons retreat, saying 'Candace started her career by doxing teenagers. Old habits die hard.'
@@ -1012,7 +1013,7 @@ Investigative Direction: Check the IRS tax-exempt filing database for a TPUSA re
 
 Claim Timestamp: 00:03:02
 
-Claim: The host says she has confirmed a full flight, SU-BTT, landed in Utah six days before Charlie Kirk's assassination and that 12 to 14 Egyptians deplaned on September 4th.
+Claim: The host says she has confirmed a full flight, SU-BTT, landed in Utah six days before Charlie Kirk's assassination and that 12 to 14 "quote unquote" Egyptians deplaned on September 4th.
 
 Transcript Snippet: SU-BTT, landed into Utah 6 days before Charlie Kirk's assassination. So, we are looking at anywhere between 12 to 14 quote unquote Egyptians that were on this flight and deplaned on September 4th.
 
@@ -1335,7 +1336,7 @@ Investigative Direction: Document which rooftop leads the host traced and the mi
 
 Claim Timestamp: 00:18:28
 
-Claim: The host says viewer emails noted what might be a RAV 4 in every available footage of the alleged shooter, including the Phil Lyman house footage, the TMZ footage, Ryan Matta's parking lot footage and the rooftop jump footage, while allowing it may be coincidence.
+Claim: The host says viewer emails noted what might be a RAV 4 in every available footage of the alleged shooter, including footage in front of a house she thinks Phil Lyman was at, the TMZ footage, Ryan Matta's parking lot footage and the rooftop jump footage, while allowing it may be coincidence.
 
 Transcript Snippet: we got a lot of emails from the public that have noted that there appears to be what might be a RAV 4 in every available footage
 

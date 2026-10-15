@@ -39,7 +39,7 @@
 - Claim Range: C-1969–C-1979
   - New Nodes Introduced: N-362, N-363, N-364, N-10369
   - Reused Nodes Appearing: N-17, N-22, N-40, N-55, N-69, N-262, N-10086, N-10110, N-10121, N-10239, N-10246, N-10270, N-10271, N-10326, N-10328, N-10333, N-10346, N-10360, N-10362, N-10364, N-10769, N-10367, N-10368, N-10436
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and other previously inscribed entities as applicable
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and other previously inscribed entities as applicable
 
 ---
 
@@ -294,7 +294,7 @@ Investigative Pressure: Low
 
 **N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
-Persistent investigation target: claimed physical encounter by "Mitch" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erica Kirk), Brian Harpole (see N-10367 related), and Captain Neff (N-320).
+Persistent investigation target: claimed physical encounter by "Mitch" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erika Kirk), Brian Harpole (see N-10367 related), and Captain Neff (N-320).
 
 Evidence Count: 6
 Claim Count: 6
@@ -682,7 +682,7 @@ Investigative Direction: Cross-check Congressman Amodei's official schedule and 
 
 Claim Timestamp: 00:14:48–00:17:53
 
-Claim: A former gym owner in Sierra Vista states in a viewer email (read verbatim on air) that a distressed female soldier described a class at Fort Huachuca, taught by Bruce Bevins, whose stated objective was to train military personnel to infiltrate Christian groups and organizations through covert psychological operations focused specifically on deceiving Christians.
+Claim: A gym owner in Sierra Vista states in a viewer email (read verbatim on air) that a distressed female soldier described a class at Fort Huachuca, taught by Bruce Bevins, whose stated objective was to train military personnel to infiltrate Christian groups and organizations through covert psychological operations focused specifically on deceiving Christians.
 
 Anchored Artifacts: A-1557.2
 Mentions: N-363
@@ -700,7 +700,7 @@ Claim Timestamp: 00:16:38–00:17:14
 Claim: Per the same viewer email, two military students (names redacted by host) at the gym described an overnight field training mission in which they practiced deceiving civilians in Tucson – telling lies, maintaining false personas, and avoiding "breaking character" – at bars and public venues, with implications of sexual encounters with targets.
 
 Anchored Artifacts: A-1557.2
-Mentions: N-363
+Mentions: 
 
 Related Nodes: N-10368
 
@@ -727,7 +727,7 @@ Investigative Direction: Release and forensic-analyze the original high-resoluti
 
 Claim Timestamp: 00:50:12–00:53:59
 
-Claim: Guest witness "Mitch" says that after his identification of personnel exiting the JTF building, he was escorted to park benches outside by Captain Neff, where multiple cruisers arrived and officers from different agencies surrounded him, and that a plainclothes woman (described as possibly Secret Service) directed questioning.
+Claim: Guest witness "Mitch" says that after personnel exited the JTF building, he was escorted to park benches outside, where he sat with Captain Neff, multiple cruisers arrived and officers from different agencies surrounded him, and that a plainclothes woman (described as possibly Secret Service) directed questioning.
 
 Anchored Artifacts: A-1558.3
 Mentions: N-320, N-362
@@ -1030,7 +1030,7 @@ Investigative Direction: Identify the Utah outlet and the records request, and o
 
 Claim Timestamp: 00:08:04
 
-Claim: The host says her investigation found that the story that Tyler Robinson's parents turned him in and did the right thing is false.
+Claim: The host says, flagging it as her own reading, that her investigation found that the story that Tyler Robinson's parents turned him in and did the right thing is false.
 
 Transcript Snippet: in my investigation, I found that their entire story about how the parents turned him in and did the right thing is crap.
 
@@ -1045,7 +1045,7 @@ Investigative Direction: Compare the host's sources with the public account from
 
 Claim Timestamp: 00:08:04
 
-Claim: The host says that, according to her investigation, Tyler Robinson and his parents were told either the doors would be broken down or he would come in peacefully, and he chose the latter.
+Claim: The host says that, according to her investigation, which she flags as her own reading, Tyler Robinson and his parents were told either the doors would be broken down or he would come in peacefully, and he chose the latter.
 
 Transcript Snippet: They were told either, you know, these doors are going to get broken down or you're going to you're going to come in peacefully.
 
@@ -1907,7 +1907,7 @@ The artifact, node, and claim registers are mutually cross-referenced. Key struc
 - **N-10368 (Bruce Bevins Covert Training Class)** is anchored by A-1557.1 and A-1557.2 and supports claims C-1969, C-1976, and C-1977.
 - **N-10369 (SUV Black Plastic Fragmentation)** is anchored by A-1560.1 and A-1560.2 and supports claim C-1978.
 - **N-362 ("Mitch")** is the central person node, linked to six claims and three artifacts.
-- **N-2 (Erica Kirk)** and **N-1 (Charlie Kirk)** are reused from prior episodes.
+- **N-2 (Erika Kirk)** and **N-1 (Charlie Kirk)** are reused from prior episodes.
 
 ---
 

@@ -153,7 +153,7 @@ Claim Range: C-2722–C-2743
 
 New Nodes Introduced: N-10607, N-10608, N-10609, N-10610, N-10611, N-10612, N-10613, N-10614, N-10615
 
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-4 (JD Vance), N-14 (Andrew Kolvet)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-4 (JD Vance), N-14 (Andrew Kolvet)
 
 ---
 
@@ -2372,7 +2372,7 @@ Investigative Direction: Find any public statement by Erika Kirk about Joe Kent 
 
 - **Name uncertainty:** "Andrew Kolvet" – host uses "Kolvet," "Kovat," "Kovet," and "Kolvet" inconsistently. Preserved as "Andrew Kolvet" pending ledger confirmation.
 - **Name uncertainty:** "Victor Marx" vs. "Victor Marx" – host uses both; preserved as "Victor Marx."
-- **Name uncertainty:** "Derek Kirk" – host congratulates "Derek Kirk" at the opening; relationship to Erica Kirk unclear from this episode.
+- **Name uncertainty:** "Derek Kirk" – host congratulates "Derek Kirk" at the opening; relationship to Erika Kirk unclear from this episode.
 - **Name uncertainty / transcription error:** "Sapria Colonel Otto Busher" – appears in connecting-themes list; likely transcription artifact (possibly "Sephora" or unrelated name).
 - **Transcript ambiguity:** "September 14th" referenced in the UGA high school cancellation email (A-1972.1) is inconsistent with the April 2026 event timeline; either OCR/transcription artifact or genuine content error in the original email.
 - **Artifact verbally referenced but not shown:** Marcus Wada brother's consulting website (A-1979.1) – industry areas are read aloud but full page not verified as on-screen.

@@ -31,7 +31,7 @@
  - Claim Range: C-3162–C-3174
  - New Nodes Introduced: N-10759, N-10760, N-10761, N-10763
  - Reused Nodes Appearing: N-2
- - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
+ - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
 
 ---
 

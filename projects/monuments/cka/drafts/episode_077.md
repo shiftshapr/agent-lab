@@ -39,7 +39,7 @@
 - Claim Range: C-2437–C-2452, C-3744
 - New Nodes Introduced (people): N-575, N-576, N-577, N-578, N-579, N-580
 - New Nodes Introduced (investigation targets): N-10525, N-10526, N-10527, N-10528, N-10529, N-10530
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
@@ -661,7 +661,7 @@ Existing topic reused for Epstein-at-Next claim.
 
 ---
 
-**N-10532** Next Model Management / Erica Kirk Connection
+**N-10532** Next Model Management / Erika Kirk Connection
 
 Existing topic reused for new Next claims.
 
@@ -1940,7 +1940,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** Episode uses "Erika Kirk" consistently; existing series node is "Erica Kirk" (N-2). Preserved as N-2 with episode spelling noted.
+- **Name uncertainty:** Episode uses "Erika Kirk" consistently; existing series node is "Erika Kirk" (N-2). Preserved as N-2 with episode spelling noted.
 - **Name uncertainty:** Real-estate bio and various references use "Erika Frantzve" / "Erika Franve" / "Erika Franceway"; standard spelling appears to be "Erika Frantzve." Preserved exactly as transcribed in A-1824.1 and A-1825.1.
 - **Name uncertainty:** Transcript shows "Fran Rothschild" and "Francis Rothschild" referring to Wilhelmina Models co-founder; preserved as appearing.
 - **Possible transcription error:** "Ty Bowyer," "Tyler Borier," "Tyler Bowyer" – standard spelling used in node references.

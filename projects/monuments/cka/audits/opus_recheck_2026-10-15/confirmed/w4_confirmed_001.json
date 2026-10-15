@@ -1,0 +1,471 @@
+[
+ {
+  "claim": "C-10845",
+  "episode": 32,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-222",
+    "N-251",
+    "N-253",
+    "N-874"
+   ]
+  },
+  "note": "Claim names Jamie Spears (N-253); transcript 'Mr. Spears committed her'."
+ },
+ {
+  "claim": "C-10886",
+  "episode": 32,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says many Turning Point USA lies she debunked concern faith, such as that Charlie Kirk was not allowed to be Catholic or interested in Catholicism.",
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "'he' is Charlie Kirk in context; N-1 added."
+ },
+ {
+  "claim": "C-10889",
+  "episode": 32,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads says the fentanyl crisis is by design, allegedly, that US troops guarded the poppy fields in Afghanistan, then an opioid crisis came, and the Sackler family seems to be the only ones who benefited.",
+   "label": "Viewer Comment Says Opioid Crisis Followed Guarding Afghan Poppy Fields and Benefited the Sacklers"
+  },
+  "note": "Lines are inside the Duchess of Camelot comment the host reads."
+ },
+ {
+  "claim": "C-1718",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-3",
+    "N-260",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie; N-1 added."
+ },
+ {
+  "claim": "C-1728",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-473"
+   ]
+  },
+  "note": "Claim attributes content to Wolves and Finance (N-473)."
+ },
+ {
+  "claim": "C-1729",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-473"
+   ]
+  },
+  "note": "'the presenter' is the Wolves and Finance presenter (N-473)."
+ },
+ {
+  "claim": "C-1730",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-473"
+   ]
+  },
+  "note": "Content is from the Wolves and Finance video (N-473)."
+ },
+ {
+  "claim": "C-1731",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-473"
+   ]
+  },
+  "note": "'he clarifies' refers to the Wolves and Finance presenter (N-473)."
+ },
+ {
+  "claim": "C-1732",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-473"
+   ]
+  },
+  "note": "'the presenter' is N-473."
+ },
+ {
+  "claim": "C-12358",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-260",
+    "N-2",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim names 'Charlie Kirk's wife'; N-1 added."
+ },
+ {
+  "claim": "C-12360",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that after her plane work struck 'even more fear into the nest of mocking birds', 'they sent mother mocking bird out, Ben Shapiro' to allege that she had said something specifically about Erika when she had not."
+  },
+  "note": "Transcript does not name TPUSA-aligned influencers as senders; fix quotes her words."
+ },
+ {
+  "claim": "C-1737",
+  "episode": 34,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:25:02",
+   "label": "Harpole Says He Texted UVU Police Chief About Rooftop Access and Got \"I Got You Covered\"; Host Says He Did Not Follow Up"
+  },
+  "note": "Clip starts ~25:06 est; 25:02 is close. Label correctly gives the texts to Harpole."
+ },
+ {
+  "claim": "C-1741",
+  "episode": 34,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:41:07"
+  },
+  "note": "'This is this month's issue' est. ~41:12."
+ },
+ {
+  "claim": "C-1742",
+  "episode": 34,
+  "decision": "amend",
+  "fix": {
+   "label": "Host Reads Eyal Yakoby Post Calling the Rental-Plate Disclosure \"Doxing\"",
+   "claim": "The host reads a post on X she attributes to Eyal Yakoby characterizing the rental-plate disclosure as \"doxing\" and describing it as \"unparalleled levels of insanity\" and \"truly dangerous.\"",
+   "names": [
+    {
+     "wrong": "Aayol Yakobe",
+     "right": "Eyal Yakoby",
+     "source": "https://x.com/EYakoby/status/1999566457240244261"
+    }
+   ],
+   "mentions": [
+    "N-822"
+   ]
+  },
+  "note": "Eyal Yakoby (@EYakoby) is a pro-Israel X poster accusing Owens of doxxing; exact post not located. Added N-822 since claim names him."
+ },
+ {
+  "claim": "C-1749",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the anonymous email the host reads, current public directories show the DEA and the U.S. Secret Service listed at 920 North King Street, Suite 404, Wilmington, Delaware, both with published phone numbers.",
+   "label": "Email Host Reads Says DEA and Secret Service Are Listed at 920 North King Street"
+  },
+  "note": "Anonymous emailer's text ('I have no idea who this is'); lists only DEA and Secret Service."
+ },
+ {
+  "claim": "C-1750",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the anonymous email the host reads, a French aircraft finishing company, SATYS, announced in December 2024 it was taking over the shuttered Wilmington airport hangar (formerly a Dassault Falcon authorized center), investing approximately $1M+; the host says her team confirmed this.",
+   "label": "Email Host Reads Says SATYS Announced December 2024 Takeover of Wilmington Airport Hangar"
+  },
+  "note": "Email text; host interjects that her team confirmed it."
+ },
+ {
+  "claim": "C-1752",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:16:58"
+  },
+  "note": "Press release line est. ~17:02."
+ },
+ {
+  "claim": "C-1753",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-46",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Megyn Kelly Show and Charlie's team."
+ },
+ {
+  "claim": "C-7994",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads the email saying the suites the Department of Justice held in the 1990s never went away and eventually evolved into a multi-agency space in a commercial building.",
+   "label": "Email Says the 1990s DOJ Suites Evolved Into a Multi-Agency Space"
+  },
+  "note": "Still the email text being read."
+ },
+ {
+  "claim": "C-7995",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads the email saying 920 North King Street looks like a mini version of the 33 Thomas Street building in New York, the building the email associates with the Snowden leak, with glass windows as the only difference.",
+   "label": "Email Compares 920 North King Street to 33 Thomas Street"
+  },
+  "note": "Still the email text being read."
+ },
+ {
+  "claim": "C-7996",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads the email saying people on X argued SUBTT has an alibi because it aligns with a longstanding Falcon maintenance arrangement out of Wilmington dating back to 1999.",
+   "label": "Email Says X Users Cited a Falcon Maintenance Arrangement Dating to 1999"
+  },
+  "note": "Email addresses the host ('you saw people on X')."
+ },
+ {
+  "claim": "C-7997",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads the email saying Wilmington used to have a Dassault Falcon authorized service center but it shut down around 2021, before the 2024 SATYS announcement.",
+   "label": "Email Says the Wilmington Dassault Falcon Center Shut Down Around 2021"
+  },
+  "note": "Email text ('I know that you are right about the plane')."
+ },
+ {
+  "claim": "C-8041",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-269",
+    "N-147",
+    "N-3",
+    "N-82",
+    "N-378"
+   ]
+  },
+  "note": "'the Macrons' includes Emmanuel Macron."
+ },
+ {
+  "claim": "C-4988",
+  "episode": 36,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-82"
+   ]
+  },
+  "note": "Claim names only Brigitte Macron's lawyers and the host."
+ },
+ {
+  "claim": "C-5033",
+  "episode": 36,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Brian Harpole says the Sorenson Center was the building in front of the Lucy Center.",
+   "label": "Harpole Says the Sorenson Center Is the Building in Front of the Lucy Center",
+   "mentions": [
+    "N-267"
+   ],
+   "timestamp": "00:34:54"
+  },
+  "note": "Harpole clip attribution right; line falls ~34:59 in the 34:36 block, so timestamp moved."
+ },
+ {
+  "claim": "C-1773",
+  "episode": 37,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the BTT aircraft stopped for just one hour in Minot, North Dakota, when it came into the United States on September 4, before continuing to Provo; a military tipster email she then reads calls the Minot stopover a key not to overlook.",
+   "label": "Host Says BTT Aircraft Stopped at Minot, ND for About One Hour on September 4, 2025"
+  },
+  "note": "One-hour Minot stop is the host's own framing; email only flags the stopover."
+ },
+ {
+  "claim": "C-1779",
+  "episode": 37,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that when White House Press Secretary Karoline Leavitt was asked at the White House about the Huckabee–Pollard meeting, she said, quote, the White House was not aware of that meeting but the president stands by the ambassador.",
+   "label": "Host Quotes Leavitt Saying White House Was Not Aware of Huckabee–Pollard Meeting",
+   "timestamp": "00:27:39"
+  },
+  "note": "Host relays Leavitt; quote est. ~27:45; no 'briefing' or 'in advance' said."
+ },
+ {
+  "claim": "C-1780",
+  "episode": 37,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the email from Free Press writer Ashley Rindsberg that the host reads, he is reporting a piece on the \"economics of high engagement political content on YouTube and podcast platforms\" and asks for comment on her claims about Israel, the death of Charlie Kirk and the Becoming Brigitte series, with five questions about her content and its business performance.",
+   "label": "Host Reads Free Press Writer's Email Requesting Comment"
+  },
+  "note": "Host reads the email; Q4-5 are about content, not metrics."
+ },
+ {
+  "claim": "C-3651",
+  "episode": 37,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:41:04"
+  },
+  "note": "Line est. ~41:09 at end of 39:33 block."
+ },
+ {
+  "claim": "C-9824",
+  "episode": 37,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the false debunking claimed that her own lawyer (\"Candace's lawyer\") is in the office at 920 North King, and that she wants to clarify.",
+   "label": "Host Says Debunkers Falsely Claimed Her Own Lawyer Is in the 920 North King Office",
+   "names": [
+    {
+     "wrong": "Kittis",
+     "right": "Candace",
+     "source": "https://news.bloomberglaw.com/litigation/owens-disputes-her-delaware-ties-in-macron-defamation-lawsuit"
+    }
+   ]
+  },
+  "note": "Host follows with 'my lawyer... Noah' and local firm; Bloomberg Law confirms Richards, Layton & Finger represents Owens."
+ },
+ {
+  "claim": "C-1794",
+  "episode": 38,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the source email the host reads, Hervé Hoppenot, a French national, was the long-time CEO of Incyte and seems to have just exited as CEO but is still running the company as advisor to the CEO."
+  },
+  "note": "Read from source email ('he gets back into the crane location')."
+ },
+ {
+  "claim": "C-1796",
+  "episode": 38,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per the source email, the FBI apparently has Suite 300 at 500 North Delaware Avenue and the MGM Delaware Avenue law firm has Suite 200, which the writer believes is directly below the FBI.",
+   "timestamp": "00:32:37"
+  },
+  "note": "Attribution fix right; suite line est. ~32:42, so 32:37 rather than 32:25."
+ },
+ {
+  "claim": "C-10920",
+  "episode": 38,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim does not name or refer to Pierre S. du Pont."
+ },
+ {
+  "claim": "C-1804",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a Vanity Fair article the host reads, Judge Jan Jurden ruled that Robert Richards IV would benefit from treatment instead of prison time, after the article says the judge let him off arguing the 6'4 Richards would not fare well in prison.",
+   "label": "Per Vanity Fair Article Host Reads, Judge Jan Jurden Ruled Treatment in Lieu of Prison for Richards IV",
+   "names": [
+    {
+     "wrong": "Jan Jordan",
+     "right": "Jan Jurden",
+     "source": "https://en.wikipedia.org/wiki/Trial_and_sentencing_of_Robert_H._Richards_IV"
+    }
+   ]
+  },
+  "note": "Judge Jan Jurden confirmed (Wikipedia, ABA Journal, CBS)."
+ },
+ {
+  "claim": "C-1808",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per Dominic Dunne's Vanity Fair reporting as the host relays it, Lisa Dean DuPont and her husband Christopher Mosley ordered the killing of a Las Vegas prostitute whose body was found in a motel air conditioner, with the money tracing to the DuPont family; the host says both John DuPont and Mosley died in prison.",
+   "mentions": [
+    "N-296",
+    "N-297",
+    "N-295"
+   ]
+  },
+  "note": "Transcript: 'Both John Dupant and Mosley died in prison'."
+ },
+ {
+  "claim": "C-1810",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:39:42"
+  },
+  "note": "Text intro est. ~39:46."
+ },
+ {
+  "claim": "C-1811",
+  "episode": 39,
+  "decision": "amend",
+  "fix": {
+   "claim": "A viewer commented that the Macron lawsuit was designed to go nowhere because Candace was supposed to have been assassinated before the case reached court, allowing plaintiffs to permanently claim she was lying.",
+   "timestamp": "00:02:02",
+   "mentions": [
+    "N-3",
+    "N-82",
+    "N-378"
+   ]
+  },
+  "note": "Lawsuit is by Brigitte and Emmanuel Macron (host says so just before); include N-378 with N-82."
+ },
+ {
+  "claim": "C-1819",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-1",
+    "N-36"
+   ]
+  },
+  "note": "Claim names Charlie and 'BB' (Netanyahu per 22:04)."
+ },
+ {
+  "claim": "C-10990",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie."
+ },
+ {
+  "claim": "C-11012",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie."
+ }
+]

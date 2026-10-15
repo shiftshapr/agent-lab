@@ -526,7 +526,7 @@ Investigative Pressure: High
 
 **N-10578** Decoy Subject Investigation (Qureshi/Qureshi)
 
-Pattern of false/early "got the guy" announcements and pre-event detention of subjects around September 10. Includes George Zin and Zachariah Qureshi.
+Pattern of false/early "got the guy" announcements and pre-event detention of subjects around September 10. Includes George Zinn and Zachariah Qureshi.
 
 Evidence Count: 2
 Claim Count: 1
@@ -982,7 +982,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10354** George Zin Self-Incriminating Hospital Statement
+**N-10354** George Zinn Self-Incriminating Hospital Statement
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -1888,13 +1888,13 @@ Investigative Direction: Compare the detention time of the young man with Patel'
 
 ---
 
-**C-14566** Host Calls Zachariah Qureshi Decoy Boy Number Two After George Zin
+**C-14566** Host Calls Zachariah Qureshi Decoy Boy Number Two After George Zinn
 
 Claim Timestamp: 00:06:41
 
-Claim: The host says Zachariah should be thought of as 'decoy boy number two,' with George Zin as the first decoy who immediately said he did it.
+Claim: The host says Zachariah should be thought of as 'decoy boy number two,' with George Zinn as the first decoy who immediately said he did it.
 
-Transcript Snippet: we should start to think of Zachariah Qureshi as decoy boy number two, okay? First, it was George Zin.
+Transcript Snippet: we should start to think of Zachariah Qureshi as decoy boy number two, okay? First, it was George Zinn.
 
 Anchored Artifacts: 
 Mentions: N-3, N-411, N-42
@@ -1908,7 +1908,7 @@ Investigative Direction: Obtain booking and release records for both men and est
 
 Claim Timestamp: 00:07:33
 
-Claim: The host says George Zin later told people at Utah Valley, where he was being treated, that he was paid to claim responsibility.
+Claim: The host says George Zinn later told people at Utah Valley, where he was being treated, that he was paid to claim responsibility.
 
 Transcript Snippet: He would later tell people at Utah Valley, where he was being treated, that he was paid to do that.
 
@@ -3075,7 +3075,7 @@ Confidence: high
 
 - **Romney–Hild family tie:** The host explicitly states she cannot relocate the underlying document connecting the Hild family to the Romney family (19:43–30:18) and solicits tips via email. Flag: **Claim failed admission test until documentary anchor surfaced.**
 
-- **Decoy subject chronology:** Host equates "George Zin" (the first decoy who allegedly claimed payment) and "Zachariah Qureshi/Qureshi" as "decoy boys" #1 and #2 in a coordinated pattern; the linkage is rhetorical and lacks a single artifact tying both to one operation. Flag: **Interpretive commentary.**
+- **Decoy subject chronology:** Host equates "George Zinn" (the first decoy who allegedly claimed payment) and "Zachariah Qureshi/Qureshi" as "decoy boys" #1 and #2 in a coordinated pattern; the linkage is rhetorical and lacks a single artifact tying both to one operation. Flag: **Interpretive commentary.**
 
 ---
 

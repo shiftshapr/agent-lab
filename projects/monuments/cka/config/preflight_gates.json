@@ -15,6 +15,16 @@
     ],
     "reviewed": [
       {
+        "claim": "C-1819",
+        "node": "N-36",
+        "reason": "claim text: 'BB' (Benjamin Netanyahu); Opus re-check 2026-10-15"
+      },
+      {
+        "claim": "C-5079",
+        "node": "N-160",
+        "reason": "claim text: 'the person delivering TPUSA's statement' (Blake Neff, named earlier in ep40); Opus re-check 2026-10-15"
+      },
+      {
         "claim": "C-3413",
         "node": "N-27",
         "reason": "claim text: 'Ye's Chicago concert' (Kanye West); verification pass 2026-10-15"
@@ -517,6 +527,20 @@
     "enabled": true,
     "note": "Wave 3 (Transit 73d663b P1-3): a person named in claim/artifact text before their ledger introduction fails as P1 named_before_intro. accepted: reviewed pre-Wave-3 debt (persons merged before Wave 3 whose re-introduction is out of scope); see audits/wave3/named_before_intro_debt.csv.",
     "accepted": [
+      {
+        "id": "N-822",
+        "episodes": [
+          34
+        ],
+        "reason": "Eyal Yakoby (intro ep126): named in ep34 C-1742 when the Opus re-check (2026-10-15) corrected the mis-transcription 'Aayol Yakobe'; moving his introduction would renumber the person band."
+      },
+      {
+        "id": "N-453",
+        "episodes": [
+          43
+        ],
+        "reason": "Lindsey Graham (intro ep56): named in ep43 C-1874 when the Opus re-check (2026-10-15) restored the Hodge Twins tweet wording; moving his introduction would renumber the person band."
+      },
       {
         "id": "N-191",
         "episodes": [

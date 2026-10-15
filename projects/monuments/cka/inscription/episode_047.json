@@ -694,7 +694,7 @@
           "@type": "Artifact",
           "@id": "A-3296.1",
           "ref": "A-3296.1",
-          "description": "Clip of the Charlie Kirk Show in which a speaker cites Turkey Tom's video and a speaker addressed as Viva sets out a theory about the Robinson text messages, radicalization timing and George Zin",
+          "description": "Clip of the Charlie Kirk Show in which a speaker cites Turkey Tom's video and a speaker addressed as Viva sets out a theory about the Robinson text messages, radicalization timing and George Zinn",
           "related_claims": [
             "C-14070",
             "C-14071"
@@ -1742,9 +1742,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10354",
       "ref": "N-10354",
-      "name": "George Zin Self-Incriminating Hospital Statement",
+      "name": "George Zinn Self-Incriminating Hospital Statement",
       "type": "investigation_target",
-      "description": "Alleged statement by George Zin to Utah Valley nurses that he was paid to claim to be the shooter.",
+      "description": "Alleged statement by George Zinn to Utah Valley nurses that he was paid to claim to be the shooter.",
       "related_artifacts": [
         "A-1539.1"
       ],
@@ -2174,7 +2174,7 @@
       "ref": "N-11382",
       "name": "Viva Frei Radicalization Timing and Zin Decoy Theory",
       "type": "topic",
-      "description": "Theories voiced in a Kirk Show clip that Tyler Robinson's radicalization coincided with other political violence suspects and that George Zin acted as a decoy.",
+      "description": "Theories voiced in a Kirk Show clip that Tyler Robinson's radicalization coincided with other political violence suspects and that George Zinn acted as a decoy.",
       "related_artifacts": [],
       "related_claims": [
         "C-14070",
@@ -2710,13 +2710,13 @@
       "@id": "C-1924",
       "ref": "C-1924",
       "label": "Private meeting with Erika and Justin Streiff lasted 4 hours 30 minutes",
-      "claim": "A private meeting between Candace Owens, Erika Kirk, and Justin Streiff, with George present at the opening and cousin Mia in attendance, lasted approximately 4 hours and 30 minutes.",
+      "claim": "The host says her private meeting with Erika Kirk and Justin Streiff, with George present for the beginning and her cousin Mia sitting a little away, lasted 4 hours and 30 minutes.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:02:34",
+      "claim_timestamp": "00:01:58",
       "investigative_direction": "Verify meeting date, location, and stated duration against any third-party records.",
       "mentions_person_refs": [
         "N-2",
@@ -2730,7 +2730,7 @@
       "@id": "C-1925",
       "ref": "C-1925",
       "label": "Host Says Erika Kirk Confirmed Possession of Charlie's Phone",
-      "claim": "The host says Erika Kirk, in her Glenn Beck interview, said she had Charlie Kirk's phone and that he never texted anybody the night before, and that in the meeting Erika said he, like everybody else, communicates on Signal and Telegram.",
+      "claim": "The host says a viral clip from Erika Kirk's Glenn Beck interview had Erika saying she had Charlie Kirk's phone and that Charlie never texted anybody the night before saying he thought they were going to kill him, and that in the meeting Erika said she is looking at his iMessages and that he, like everybody else, communicates on Signal and Telegram.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -2773,7 +2773,7 @@
       "@id": "C-1927",
       "ref": "C-1927",
       "label": "Erika stated Dan Flood's pre-incident text specified \"the left\"",
-      "claim": "Erika Kirk stated that the message Dan Flood received from Charlie Kirk the night before read \"the left is going to kill me.\"",
+      "claim": "The host says that in their meeting Erika Kirk and Justin Streiff clarified that the message Dan Flood received from Charlie Kirk the night before said \"the left is going to kill me,\" which she says she cannot confirm because she did not see the message.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -2784,7 +2784,9 @@
       "claim_timestamp": "00:06:18",
       "investigative_direction": "Obtain original Dan Flood message through his records or testimony.",
       "mentions_person_refs": [
+        "N-3",
         "N-2",
+        "N-15",
         "N-271",
         "N-1"
       ]
@@ -2866,7 +2868,7 @@
       "@id": "C-1932",
       "ref": "C-1932",
       "label": "Mikey McCoy's first call was to wife Elizabeth McCoy",
-      "claim": "Mikey McCoy's call logs show his first post-shooting call was to his wife Elizabeth McCoy and lasted approximately 10 minutes.",
+      "claim": "The host says the call logs Turning Point USA showed her indicate that Mikey McCoy's first post-shooting call was to his wife, Elizabeth McCoy, and that he stayed on the phone with her for 10 minutes.",
       "anchored_artifacts": [
         "A-1543.1"
       ],
@@ -2937,9 +2939,11 @@
       "claim_timestamp": "00:26:28",
       "investigative_direction": "Cross-reference Blake Neff's recorded statement against the verified call sequence.",
       "mentions_person_refs": [
+        "N-3",
         "N-160",
         "N-191",
-        "N-2"
+        "N-2",
+        "N-17"
       ],
       "contradicts_claim_refs": [
         "C-1932"
@@ -2950,7 +2954,7 @@
       "@id": "C-1936",
       "ref": "C-1936",
       "label": "Elizabeth McCoy was removed from public narrative despite memorial/vacation visibility",
-      "claim": "Elizabeth McCoy was reportedly involved in memorial activity and vacation travel with Erika, yet was removed from the publicly circulated version of the post-shooting call sequence.",
+      "claim": "The host says Elizabeth McCoy was left out of what was said publicly about Mikey McCoy's call log, although she was \"main stage\" at the memorial, is close with Erika Kirk and went on vacation with her, and says she does not understand this disappearing act.",
       "anchored_artifacts": [
         "A-1543.1"
       ],
@@ -2961,8 +2965,10 @@
       "claim_timestamp": "00:28:48",
       "investigative_direction": "Investigate the editorial decisions that excluded Elizabeth McCoy from circulated accounts.",
       "mentions_person_refs": [
+        "N-3",
         "N-2",
-        "N-218"
+        "N-218",
+        "N-191"
       ]
     },
     {
@@ -2970,7 +2976,7 @@
       "@id": "C-1937",
       "ref": "C-1937",
       "label": "Three sources corroborated Bibi Netanyahu funding offer",
-      "claim": "Three sources with knowledge confirmed to Candace that Bibi Netanyahu made an offer to fund Turning Point USA to the next level.",
+      "claim": "The host says three different sources who would have knowledge of it confirmed to her that Bibi Netanyahu did make an offer to fund Turning Point USA to the next level.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -2990,7 +2996,7 @@
       "@id": "C-1938",
       "ref": "C-1938",
       "label": "Andrew Kolvet told Candace Bibi offered to take TPUSA to next level",
-      "claim": "Andrew Kolvet (as named in transcript) told Candace verbatim that Bibi Netanyahu offered to take Turning Point USA to the next level and Charlie turned the money down.",
+      "claim": "The host says Andrew Kolvet told her verbatim that Bibi Netanyahu offered to take Turning Point USA to the next level and that Charlie turned that money down.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -2998,11 +3004,13 @@
         "N-10342"
       ],
       "tags": [],
-      "claim_timestamp": "00:32:14",
+      "claim_timestamp": "00:31:40",
       "investigative_direction": "Verify Andrew Kolvet's specific statement; clarify whether this is the same person as Andrew Kolvet.",
       "mentions_person_refs": [
+        "N-3",
         "N-14",
-        "N-36"
+        "N-36",
+        "N-1"
       ]
     },
     {
@@ -3030,7 +3038,7 @@
       "@id": "C-1939",
       "ref": "C-1939",
       "label": "Rob McCoy does not work for TPUSA in any capacity",
-      "claim": "Rob McCoy does not work with TPUSA in any capacity, contrary to his public conduct at the memorial and his claimed \"America's pastor\" status.",
+      "claim": "The host says she was surprised to learn that Rob McCoy does not work with Turning Point USA in any capacity, and that she had assumed he did because he called himself \"America's pastor\" at the memorial and his Wikipedia entry said he started Turning Point USA Faith.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -3050,7 +3058,7 @@
       "@id": "C-1940",
       "ref": "C-1940",
       "label": "Host Says TPUSA Defended Terryl Farnsworth's Camera Removal",
-      "claim": "The host says TPUSA defended Terryl Farnsworth's removal of cameras as part of a new livestream system used selectively for tour stops rather than all outdoor events.",
+      "claim": "The host says Turning Point USA echoed and defended Terryl Farnsworth's account that they were trying something new that day: they normally livestream tour-stop events but not outdoor \"prove me wrong\" events, and the new livestream required Terryl.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -3061,7 +3069,7 @@
       "claim_timestamp": "00:09:23",
       "investigative_direction": "Verify TPUSA's documented livestream policy and Farnsworth's specific authority on incident day.",
       "mentions_person_refs": [
-        "N-2",
+        "N-3",
         "N-262"
       ]
     },
@@ -3089,8 +3097,8 @@
       "@type": "Claim",
       "@id": "C-1942",
       "ref": "C-1942",
-      "label": "Andrew Kolvet admitted surgeon did not know he would post",
-      "claim": "The host says Andrew Kolvet said he spoke to the surgeon, and that they confirmed Kolvet spoke to the surgeon but that the surgeon did not know Kolvet was going to write the tweet.",
+      "label": "Host Says They Did Not Know Kolvet Would Write the Surgeon Tweet",
+      "claim": "The host says Andrew Kolvet said he spoke to the surgeon, and that they confirmed Kolvet spoke to the surgeon but that they did not know he was going to write the tweet or that he had called up the surgeon.",
       "anchored_artifacts": [
         "A-1539.1",
         "A-1541.2"
@@ -3130,7 +3138,7 @@
       "@id": "C-1944",
       "ref": "C-1944",
       "label": "Tim Pool now claims Candace uses same security as Charlie Kirk",
-      "claim": "Tim Pool currently states Candace Owens has used the same security personnel and security companies as Charlie and Erika Kirk.",
+      "claim": "In a clip the host plays, Tim Pool says Candace Owens has used the same security personnel and security companies as Charlie and Erika Kirk.",
       "anchored_artifacts": [
         "A-1545.2"
       ],
@@ -3231,7 +3239,7 @@
       "@type": "Claim",
       "@id": "C-1949",
       "ref": "C-1949",
-      "label": "Candace's husband has no Qatari passport/citizenship",
+      "label": "Host Says Husband's Wikipedia Falsely Listed Qatari Citizenship",
       "claim": "Per Candace, her husband's Wikipedia page was changed to say he had a Qatari passport or citizenship, which she says is made up; she says he has never been to Qatar and does not think he has ever flown over it.",
       "anchored_artifacts": [
         "A-1546.1"
@@ -3251,8 +3259,8 @@
       "@type": "Claim",
       "@id": "C-1950",
       "ref": "C-1950",
-      "label": "Turkey Tom authenticated Robinson Discord chat messaging style",
-      "claim": "In a clip the host plays, a speaker addressing Viva Frei says a video by Turkey Tom, described as someone who was in the Discord chats with Tyler Robinson and apparently spent time with them at the apartment, says \"100%\" this is how they talked.",
+      "label": "Clip Cites Turkey Tom Video on Robinson Discord Messaging Style",
+      "claim": "In a clip the host plays, a speaker addressing Viva Frei points to a video by Turkey Tom in which, he says, someone authenticated as having been in the Discord chats with Tyler Robinson and his partner, and who apparently spent time with them at the apartment, said \"100%\" this is how they talked.",
       "anchored_artifacts": [
         "A-1549.1"
       ],
@@ -3270,8 +3278,8 @@
       "@type": "Claim",
       "@id": "C-1951",
       "ref": "C-1951",
-      "label": "George Zin allegedly told nurses he was paid to pose as shooter",
-      "claim": "Per Candace, George Zin, who was treated at Utah Valley, said he told the nurses that he was paid to do that.",
+      "label": "George Zinn allegedly told nurses he was paid to pose as shooter",
+      "claim": "Per Candace, George Zinn, who was treated at Utah Valley, said he told the nurses that he was paid to do that.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -3396,7 +3404,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:51:20",
-      "investigative_direction": "Verify KAMYU broadcast date and content."
+      "investigative_direction": "Verify KAMYU broadcast date and content.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -3692,7 +3703,7 @@
       "@id": "C-14014",
       "ref": "C-14014",
       "label": "Host Says Erika Told Her She Did Not Ask Her to Stop Because She Was Learning From the Show",
-      "claim": "The host says Erika Kirk told her the reason she did not ask the host to stop at the start of the Bari Weiss event was that she was actually learning things from the show, and that Erika felt Weiss was trying to create a moment.",
+      "claim": "The host says Erika Kirk told her the reason she did not ask the host to stop in the beginning was that she was actually learning things from the show, and that the host thinks Erika similarly felt Weiss was trying to create a moment.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10349",
@@ -3758,8 +3769,8 @@
       "@type": "Claim",
       "@id": "C-14017",
       "ref": "C-14017",
-      "label": "Host Says Terryl Farnsworth Lied to Her Several Times About the Cameras",
-      "claim": "The host says her skin crawled after she spoke to Terryl Farnsworth, the person who took the cameras down, and that he lied to her several times and she still does not understand why he was there that day.",
+      "label": "Host Says Terryl Farnsworth Lied to Her Several Times",
+      "claim": "The host says her skin crawled after she spoke to Terryl Farnsworth, the person who took the cameras down, that he lied to her several times, and that she told TPUSA she did not understand why he was there that day.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10346"
@@ -3819,7 +3830,6 @@
       "transcript_snippet": "after he took the cameras down, there was a police officer or or fed, whoever it was to him and asked him to secure the footage.",
       "mentions_person_refs": [
         "N-262",
-        "N-11",
         "N-3"
       ]
     },
@@ -4063,7 +4073,7 @@
       "@id": "C-14030",
       "ref": "C-14030",
       "label": "Host Says the Lawyer Told Her Victims Like Erika Are Not Told Investigators' Findings Until May",
-      "claim": "The host says the lawyer told her prosecutors do not share what investigators have found with the victim, including Erika Kirk, at this stage and she will not know until the May hearing.",
+      "claim": "The host says the lawyer told her that information on what investigators have found is not shared with the victim, including Erika Kirk, at this stage and she will not know until the May hearing.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10337"
@@ -4293,7 +4303,7 @@
       "@type": "Claim",
       "@id": "C-14040",
       "ref": "C-14040",
-      "label": "Host Says the Third Person Mikey Added Was Danny McCoy, His Brother in the Military",
+      "label": "Host Mentions Danny McCoy, Mikey's Brother in the Military, in the Call Log",
       "claim": "The host says Mikey McCoy three-wayed a third person she declines to name, and adds that Danny McCoy is his brother in the military, with that contact being before the shot.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -4578,7 +4588,7 @@
       "@type": "Claim",
       "@id": "C-14052",
       "ref": "C-14052",
-      "label": "Host Says TPUSA-Side Attacks Read Like Candace Owens Fan Fiction and Mean She Is Close",
+      "label": "Host Says Attacks on Her Read Like Candace Owens Fan Fiction and Mean She Is Close",
       "claim": "The host says the attacks on her have become hysterical, read like Candace Owens fan fiction, and that many viewers sense this is because she is getting close.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -4667,7 +4677,7 @@
       "@id": "C-14056",
       "ref": "C-14056",
       "label": "Host Says She Never Discussed a People Magazine Cover",
-      "claim": "The host says the Post's claim that she demanded a huge studio and used a PR firm to get a People magazine cover is fan fiction, and that she does not think they ever had a conversation about People magazine.",
+      "claim": "The host says the Post's claim that she demanded a huge studio and attempted to use their PR firm to get a People magazine cover is fan fiction, and that she does not think they ever had a conversation about People magazine.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10898"
@@ -4845,7 +4855,7 @@
       "@id": "C-14064",
       "ref": "C-14064",
       "label": "Host Says There Is Something at Fort Huachuca That Caused a Panic",
-      "claim": "The host says there is something at Fort Huachuca, which she spells Huachuca, that she thinks caused a panic, and that she will cover it the next day along with the Egyptian planes.",
+      "claim": "The host says there is something at Fort Huachuca that she thinks caused a panic, and that she will cover it the next day along with the Egyptian planes.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10352",
@@ -5004,8 +5014,8 @@
       "@type": "Claim",
       "@id": "C-14071",
       "ref": "C-14071",
-      "label": "Clip Speaker Theorizes George Zin Was a Decoy Who Knew of the Plan",
-      "claim": "A speaker in the Kirk Show clip, addressed as Viva, offers a theory that George Zin knew what was going to happen, showed up thinking he would be a useful decoy or distraction for Tyler Robinson, and may have been on the Discord chat.",
+      "label": "Clip Speaker Theorizes George Zinn Was a Decoy Who Knew of the Plan",
+      "claim": "A speaker in the Kirk Show clip, addressed as Viva, offers a theory that George Zinn knew what was going to happen, showed up thinking he would be a useful decoy or distraction for Tyler Robinson, and may have been on the Discord chat.",
       "anchored_artifacts": [
         "A-3296"
       ],
@@ -5029,8 +5039,8 @@
       "@type": "Claim",
       "@id": "C-14072",
       "ref": "C-14072",
-      "label": "Host Says She Broke the Story That Zin Told Utah Valley Nurses He Was Paid",
-      "claim": "The host says she broke the story that the nurses at Utah Valley, which treated George Zin, were told by him that he was paid to do it, and that everyone is ignoring the things she broke.",
+      "label": "Host Says She Broke the Story That Zinn Told Utah Valley Nurses He Was Paid",
+      "claim": "The host says she broke the story that the nurses at Utah Valley, which treated George Zinn, were told by him that he was paid to do it, and that everyone is ignoring the things she broke.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10354"
@@ -5040,7 +5050,7 @@
       ],
       "claim_timestamp": "00:56:14",
       "investigative_direction": "Locate the host's earlier episode with the nurse account and the source for it.",
-      "transcript_snippet": "I broke the story that the nurses were told at Utah Valley, which treated George Zin.",
+      "transcript_snippet": "I broke the story that the nurses were told at Utah Valley, which treated George Zinn.",
       "supports_claim_refs": [
         "C-1951"
       ],

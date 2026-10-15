@@ -321,7 +321,7 @@
           "@type": "Artifact",
           "@id": "A-1626.1",
           "ref": "A-1626.1",
-          "description": "Reference (host-cited) to Social Blade data showing Erica Kirk deleted 126 Instagram posts on June 19, framed in context of the master timeline.",
+          "description": "Reference (host-cited) to Social Blade data showing Erika Kirk deleted 126 Instagram posts on June 19, framed in context of the master timeline.",
           "related_claims": [
             "C-2091"
           ],
@@ -888,7 +888,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10412",
       "ref": "N-10412",
-      "name": "Erica Kirk June 19 Instagram Purge",
+      "name": "Erika Kirk June 19 Instagram Purge",
       "type": "investigation_target",
       "description": "Persistent investigation target: reported deletion of 126 Instagram posts on June 19, framed in the master timeline as a possible pre-event secrecy action.",
       "related_artifacts": [
@@ -1948,7 +1948,7 @@
       "@id": "C-2091",
       "ref": "C-2091",
       "label": "Host Says Social Blade Shows Erika Kirk Deleting 126 Instagram Posts on June 19",
-      "claim": "Social Blade data records Erica Kirk deleting 126 Instagram posts on June 19.",
+      "claim": "Social Blade data records Erika Kirk deleting 126 Instagram posts on June 19.",
       "anchored_artifacts": [
         "A-1626.1"
       ],

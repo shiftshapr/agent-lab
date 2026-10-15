@@ -195,7 +195,7 @@ Claim Range: C-2326–C-2350
 
 New Nodes Introduced:  N-553, N-554, N-555, N-556, N-10497, N-10498, N-10499, N-10500
 
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
@@ -203,7 +203,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 This episode presents two distinct content strands: (1) commentary on the Super Bowl halftime wars between TPUSA and the NFL, including a direct critique of TPUSA's claimed viewership metrics, and (2) ongoing investigative material including the Thomas Martin identification lead, Tracy Martin's text messages, and Seth Dillon's Religious Liberty Commission testimony regarding the Hamptons meeting.
 
-Episode 71 advances several persistent investigative threads. The most significant new artifact-anchored material concerns a possible identification of Tracy Martin's husband Thomas Martin with a senior US Border Patrol figure based in Tucson since at least 1985, supported by a 1985 Times Union newspaper article in which the agent is named. The episode also introduces a new tip (text messages from September 11) suggesting that Tracy Martin's daughter – allegedly Erica Kirk's assistant – was scheduled to attend UVU on September 10 but was kept home due to Tracy's stated bad feeling.
+Episode 71 advances several persistent investigative threads. The most significant new artifact-anchored material concerns a possible identification of Tracy Martin's husband Thomas Martin with a senior US Border Patrol figure based in Tucson since at least 1985, supported by a 1985 Times Union newspaper article in which the agent is named. The episode also introduces a new tip (text messages from September 11) suggesting that Tracy Martin's daughter – allegedly Erika Kirk's assistant – was scheduled to attend UVU on September 10 but was kept home due to Tracy's stated bad feeling.
 
 The Seth Dillon testimony artifact is structurally important because it contains a live, on-the-record admission from a Hamptons participant that the meeting included "heated and spirited debate" about Israel – a characterization that appears to differ from earlier public statements by Hamptons participants. The TPUSA halftime viewership artifact serves a secondary analogical function: the host uses YouTube comment-to-view ratios as a falsifiability test for the claimed metrics.
 
@@ -259,9 +259,9 @@ Confidence Level: High
 
 *Related: C-2331, C-2332, N-10499*
 
-**A-1754** Erica Kirk Widow Address Video Bundle
+**A-1754** Erika Kirk Widow Address Video Bundle
 
-**A-1754.1** Erica Kirk Widow Address on Charlie Kirk YouTube Channel
+**A-1754.1** Erika Kirk Widow Address on Charlie Kirk YouTube Channel
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -527,7 +527,7 @@ Confidence Level: Low
 
 **N-546** Tracy Martin
 
-Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.
+Erika Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.
 
 Evidence Count: 1
 Claim Count: 2
@@ -549,7 +549,7 @@ Investigative Pressure: High
 
 **N-554** Tracy Martin's Daughter (Unnamed)
 
-Allegedly Erica Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.
+Allegedly Erika Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.
 
 Evidence Count: 1
 Claim Count: 2
@@ -593,7 +593,7 @@ Investigative Pressure: High
 
 **N-10498** Tracy's Daughter Erika Assistant Status Verification
 
-Open question: Is Tracy Martin's daughter actually Erica Kirk's assistant, and was she actually scheduled to attend UVU on September 10, 2025?
+Open question: Is Tracy Martin's daughter actually Erika Kirk's assistant, and was she actually scheduled to attend UVU on September 10, 2025?
 
 Evidence Count: 1
 Claim Count: 2
@@ -875,7 +875,7 @@ Check on Phillips' presence at the base.
 
 ---
 
-**N-10378** Andrew Kolbet Coordination with Attackers of Mitch Snow
+**N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow
 
 Topic of the PR response to Snow.
 
@@ -883,7 +883,7 @@ Topic of the PR response to Snow.
 
 ---
 
-**N-10412** Erica Kirk June 19 Instagram Purge
+**N-10412** Erika Kirk June 19 Instagram Purge
 
 The 126-post deletion.
 
@@ -1182,11 +1182,11 @@ Investigative Direction: Verify the 6.1M figure against YouTube's official recor
 
 ---
 
-**C-2333** Erica Kirk Widow Address View Counts
+**C-2333** Erika Kirk Widow Address View Counts
 
 Claim Timestamp: 00:15:10
 
-Claim: The host says Erica Kirk's widow address video on Charlie Kirk's YouTube channel has approximately 4.1 million views and 36,000 comments.
+Claim: The host says Erika Kirk's widow address video on Charlie Kirk's YouTube channel has approximately 4.1 million views and 36,000 comments.
 
 Anchored Artifacts: A-1754.1
 Mentions: N-2, N-1

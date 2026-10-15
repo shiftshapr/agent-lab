@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-1895.1",
           "ref": "A-1895.1",
-          "description": "Frank Turek's podcast stating Erica Kirk \"probably got there, I don't know, somewhere around 4:00 p.m. maybe\" to Timpanogos Hospital",
+          "description": "Frank Turek's podcast stating Erika Kirk \"probably got there, I don't know, somewhere around 4:00 p.m. maybe\" to Timpanogos Hospital",
           "related_claims": [
             "C-2560"
           ],
@@ -152,7 +152,7 @@
           "@type": "Artifact",
           "@id": "A-1899.1",
           "ref": "A-1899.1",
-          "description": "Host's phone call with a Hopkinson Aircraft employee who \"neither confirmed nor denied\" seeing Erica Kirk at their offices on September 10, 2025",
+          "description": "Host's phone call with a Hopkinson Aircraft employee who \"neither confirmed nor denied\" seeing Erika Kirk at their offices on September 10, 2025",
           "related_claims": [
             "C-2567"
           ],
@@ -466,7 +466,7 @@
       "ref": "N-10562",
       "name": "Hopkinson Aircraft Erica Sighting Confirmation",
       "type": "investigation_target",
-      "description": "Whether Erica Kirk was physically present at Hopkinson Aircraft on September 10, 2025; the only contacted witness declined to confirm or deny.",
+      "description": "Whether Erika Kirk was physically present at Hopkinson Aircraft on September 10, 2025; the only contacted witness declined to confirm or deny.",
       "related_artifacts": [
         "A-1899.1"
       ],
@@ -536,7 +536,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10565",
       "ref": "N-10565",
-      "name": "Erica Kirk Arizona Activity Verification Gap",
+      "name": "Erika Kirk Arizona Activity Verification Gap",
       "type": "investigation_target",
       "description": "Persistent target: verification of Erica's whereabouts in the late-morning to early-afternoon window on September 10, 2025 (TPUSA office presence, time with mother, time at Hopkinson Aircraft, time at airport). Multiple alibis are described; cross-witness consistency is incomplete.",
       "related_artifacts": [
@@ -1652,8 +1652,8 @@
       "@type": "Claim",
       "@id": "C-2560",
       "ref": "C-2560",
-      "label": "Frank Turek Estimated Erica Kirk Arrived at Hospital Around 4:00 p.m.",
-      "claim": "Frank Turek, on his own podcast, stated Erica Kirk \"probably got there, I don't know, somewhere around 4:00 p.m. maybe\" to Timpanogos Hospital.",
+      "label": "Frank Turek Estimated Erika Kirk Arrived at Hospital Around 4:00 p.m.",
+      "claim": "Frank Turek, on his own podcast, stated Erika Kirk \"probably got there, I don't know, somewhere around 4:00 p.m. maybe\" to Timpanogos Hospital.",
       "anchored_artifacts": [
         "A-1895.1"
       ],
@@ -1785,7 +1785,7 @@
       "@id": "C-2567",
       "ref": "C-2567",
       "label": "Hopkinson Aircraft Employee Neither Confirmed nor Denied Seeing Erica on September 10",
-      "claim": "A Hopkinson Aircraft employee contacted by the host would neither confirm nor deny seeing Erica Kirk at their offices on September 10, 2025.",
+      "claim": "A Hopkinson Aircraft employee contacted by the host would neither confirm nor deny seeing Erika Kirk at their offices on September 10, 2025.",
       "anchored_artifacts": [
         "A-1899.1"
       ],

@@ -362,7 +362,7 @@ Kates' support of Epstein after 2009.
 
 *Related: C-4730*
 
-**N-10532** Next Model Management / Erica Kirk Connection
+**N-10532** Next Model Management / Erika Kirk Connection
 
 The host's call for Turning Point USA to address the connection.
 
@@ -386,7 +386,7 @@ The SAM 702 flight route and the FOIA request on it.
 
 *Related: C-4734, C-4735, C-4740, A-2692.1*
 
-**N-10698** Next Model Management / MC2 Trafficking Connection to Erica Kirk
+**N-10698** Next Model Management / MC2 Trafficking Connection to Erika Kirk
 
 Workers' allegation that Erika Kirk was the point of contact for the model apartment.
 

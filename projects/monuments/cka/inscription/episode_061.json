@@ -237,7 +237,7 @@
           "@type": "Artifact",
           "@id": "A-1668.1",
           "ref": "A-1668.1",
-          "description": "Host's verbal account of a donor present at the Aspen event who recalls Charlie Kirk saying, in effect, that if something happened, Erica Kirk would \"know what to do\"",
+          "description": "Host's verbal account of a donor present at the Aspen event who recalls Charlie Kirk saying, in effect, that if something happened, Erika Kirk would \"know what to do\"",
           "related_claims": [
             "C-2181"
           ],
@@ -550,7 +550,7 @@
       "ref": "N-15",
       "name": "Justin Streiff",
       "type": "person",
-      "description": "TPUSA executive reported by host as participating in a sit-down with Owens and Erica Kirk to discuss Owens's allegations. First-name spelling uncertain.",
+      "description": "TPUSA executive reported by host as participating in a sit-down with Owens and Erika Kirk to discuss Owens's allegations. First-name spelling uncertain.",
       "related_artifacts": [
         "A-1661.1"
       ],
@@ -718,7 +718,7 @@
       "ref": "N-10437",
       "name": "Aspen Donor Recall Verification",
       "type": "investigation_target",
-      "description": "Verification target arising from an unnamed Aspen-event donor's recollection, relayed by host, that Charlie Kirk referenced Erica Kirk as someone who would \"know what to do\" if something happened.",
+      "description": "Verification target arising from an unnamed Aspen-event donor's recollection, relayed by host, that Charlie Kirk referenced Erika Kirk as someone who would \"know what to do\" if something happened.",
       "related_artifacts": [
         "A-1668.1"
       ],
@@ -1476,7 +1476,7 @@
       "@id": "C-2160",
       "ref": "C-2160",
       "label": "TPUSA alleges Owens accused employee of evasiveness re Erika Kirk at \"Fort Huachuca\"",
-      "claim": "The TPUSA letter alleges that Owens accused a TPUSA employee of being \"intentionally evasive\" about whether Erica Kirk was at \"Fort Huachuca\" in or around an alleged secret meeting Owens has linked to the assassination.",
+      "claim": "The TPUSA letter alleges that Owens accused a TPUSA employee of being \"intentionally evasive\" about whether Erika Kirk was at \"Fort Huachuca\" in or around an alleged secret meeting Owens has linked to the assassination.",
       "anchored_artifacts": [
         "A-1661.1"
       ],
@@ -1879,7 +1879,7 @@
       "@id": "C-2181",
       "ref": "C-2181",
       "label": "Aspen Donor Recalls Charlie Kirk Referencing Erika Kirk as Someone Who Would \"Know What to Do\"",
-      "claim": "An unnamed donor present at the Aspen event reportedly recalls Kirk referencing Erica Kirk by saying that if something happened, she would know what to do.",
+      "claim": "An unnamed donor present at the Aspen event reportedly recalls Kirk referencing Erika Kirk by saying that if something happened, she would know what to do.",
       "anchored_artifacts": [
         "A-1668.1"
       ],

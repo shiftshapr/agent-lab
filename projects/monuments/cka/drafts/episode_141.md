@@ -576,7 +576,7 @@ Topic tied to the Converse sneakers identification testimony.
 
 ---
 
-**N-10381** Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Topic tied to the receipt and owner account.
 

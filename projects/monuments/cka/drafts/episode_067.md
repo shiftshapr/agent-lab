@@ -44,7 +44,7 @@
 
 ## II. Executive Summary
 
-Episode 67 ("BAAL SO HARD: The Epstein Files") is a 61-minute monologue in which Candace Owens ties the publicly released Epstein files to her prior readings of Sigmund Freud and Jewish mysticism, while simultaneously advancing the Bride of Charlie investigation on two fronts. First, the episode presents an updated reconstruction of Charlie Kirk's last 48 hours: Josh Hammer's on-camera clarification that the "abandoning pro-Israel cause" text was sent on September 9 (not September 8), a subsequent Zoom call with Hammer and an Israel-based rabbi the same evening, a dinner with family and a priest, and the "they're going to kill me" text to Andrew Kolvet and Dan Flood. Second, the episode presents the host's investigative findings that Erica Kirk allegedly lied twice about the Dan Flood message format (first denying it, then claiming it was on Telegram), and that Candace's source states it was sent as an iMessage. Additional artifacts include the Peter Thiel–Joe Rogan interview discussing Epstein, the Susan Hamblin "kill permission" email surfaced by independent journalist James Lee, Nicki Minaj's X post about Jay-Z, and Naftali Bennett's denial that Mossad ran Epstein.
+Episode 67 ("BAAL SO HARD: The Epstein Files") is a 61-minute monologue in which Candace Owens ties the publicly released Epstein files to her prior readings of Sigmund Freud and Jewish mysticism, while simultaneously advancing the Bride of Charlie investigation on two fronts. First, the episode presents an updated reconstruction of Charlie Kirk's last 48 hours: Josh Hammer's on-camera clarification that the "abandoning pro-Israel cause" text was sent on September 9 (not September 8), a subsequent Zoom call with Hammer and an Israel-based rabbi the same evening, a dinner with family and a priest, and the "they're going to kill me" text to Andrew Kolvet and Dan Flood. Second, the episode presents the host's investigative findings that Erika Kirk allegedly lied twice about the Dan Flood message format (first denying it, then claiming it was on Telegram), and that Candace's source states it was sent as an iMessage. Additional artifacts include the Peter Thiel–Joe Rogan interview discussing Epstein, the Susan Hamblin "kill permission" email surfaced by independent journalist James Lee, Nicki Minaj's X post about Jay-Z, and Naftali Bennett's denial that Mossad ran Epstein.
 
 The episode's structural importance lies in (a) correcting the Charlie Kirk Sept 8/9 chronology via Josh Hammer's own on-record clarification, (b) introducing an alleged iMessage-vs-Telegram discrepancy in the Dan Flood "kill" message that materially affects the Sept 9 timeline, and (c) flagging potential political exposure for J.D. Vance via Peter Thiel's Epstein emails. Host framing about Baal worship, Satanism, Khazars, and B'nai B'rith lodges is preserved as rhetoric and is not inscribed as evidentiary claims.
 
@@ -261,7 +261,7 @@ Confidence Level: Medium (comment read on air)
 
 **A-1726** Candace's Source Testimony Bundle
 
-**A-1726.1** Host-testimony claim that her source confirmed the Dan Flood text message was sent as an iMessage, not Telegram (contradicting Erica Kirk's stated account)
+**A-1726.1** Host-testimony claim that her source confirmed the Dan Flood text message was sent as an iMessage, not Telegram (contradicting Erika Kirk's stated account)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -691,7 +691,7 @@ Referenced in alibi and Dan Flood message disputes.
 
 **N-10470** Dan Flood Message Format Discrepancy
 
-Persistent inconsistency between Erica Kirk's account (denied message; then said Telegram; host source says iMessage). Bears directly on the Sept 9 "they're going to kill me" text.
+Persistent inconsistency between Erika Kirk's account (denied message; then said Telegram; host source says iMessage). Bears directly on the Sept 9 "they're going to kill me" text.
 
 Evidence Count: 1
 Claim Count: 2
@@ -700,9 +700,9 @@ Investigative Pressure: High
 
 *Related: A-1726.1, C-2273, C-2274, N-2, N-271*
 
-**N-10471** Erica Kirk Sept 10 Alibi Verification
+**N-10471** Erika Kirk Sept 10 Alibi Verification
 
-Host's claim that no one in Erica Kirk's building or medical office can confirm her stated alibi of collapsing in parking lot and screaming in doctor's office on Sept 10.
+Host's claim that no one in Erika Kirk's building or medical office can confirm her stated alibi of collapsing in parking lot and screaming in doctor's office on Sept 10.
 
 Evidence Count: 1
 Claim Count: 1
@@ -713,7 +713,7 @@ Investigative Pressure: High
 
 **N-10472** Fort Huachuca Alibi Investigation
 
-Persistent target: host reports "major problems" verifying Erica Kirk's Fort Huachuca alibi; details pending.
+Persistent target: host reports "major problems" verifying Erika Kirk's Fort Huachuca alibi; details pending.
 
 Evidence Count: 0
 Claim Count: 0
@@ -1462,7 +1462,7 @@ Mentions: N-7, N-1
 
 Related Nodes: N-10473
 
-Investigative Direction: Verify against Charlie Kirk's text message timestamp; cross-reference with Erica Kirk's location claims.
+Investigative Direction: Verify against Charlie Kirk's text message timestamp; cross-reference with Erika Kirk's location claims.
 
 ---
 
@@ -1484,7 +1484,7 @@ Investigative Direction: Verify the email against the WikiLeaks Podesta archive;
 
 Claim Timestamp: 00:44:45
 
-Claim: Per Candace Owens's source (described as having had access to Dan Flood's messages), the "they're going to kill me" text was sent as an iMessage, not via a Telegram chat that auto-cleared, as Erica Kirk later claimed.
+Claim: Per Candace Owens's source (described as having had access to Dan Flood's messages), the "they're going to kill me" text was sent as an iMessage, not via a Telegram chat that auto-cleared, as Erika Kirk later claimed.
 
 Anchored Artifacts: A-1726.1
 Mentions: N-271, N-2, N-3

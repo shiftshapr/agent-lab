@@ -126,13 +126,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1754",
       "family_ref": "A-1754",
-      "bundle_name": "Erica Kirk Widow Address Video Bundle",
+      "bundle_name": "Erika Kirk Widow Address Video Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1754.1",
           "ref": "A-1754.1",
-          "description": "Erica Kirk Widow Address on Charlie Kirk YouTube Channel",
+          "description": "Erika Kirk Widow Address on Charlie Kirk YouTube Channel",
           "related_claims": [
             "C-2333"
           ],
@@ -704,7 +704,7 @@
       "ref": "N-546",
       "name": "Tracy Martin",
       "type": "person",
-      "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
+      "description": "Erika Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
       "related_artifacts": [
         "A-1759.1"
       ],
@@ -758,7 +758,7 @@
       "ref": "N-554",
       "name": "Tracy Martin's Daughter (Unnamed)",
       "type": "person",
-      "description": "Allegedly Erica Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.",
+      "description": "Allegedly Erika Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.",
       "related_artifacts": [
         "A-1759.1"
       ],
@@ -852,7 +852,7 @@
       "ref": "N-10498",
       "name": "Tracy's Daughter Erika Assistant Status Verification",
       "type": "investigation_target",
-      "description": "Open question: Is Tracy Martin's daughter actually Erica Kirk's assistant, and was she actually scheduled to attend UVU on September 10, 2025?",
+      "description": "Open question: Is Tracy Martin's daughter actually Erika Kirk's assistant, and was she actually scheduled to attend UVU on September 10, 2025?",
       "related_artifacts": [
         "A-1759.1"
       ],
@@ -1565,7 +1565,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10378",
       "ref": "N-10378",
-      "name": "Andrew Kolbet Coordination with Attackers of Mitch Snow",
+      "name": "Andrew Kolvet Coordination with Attackers of Mitch Snow",
       "type": "investigation_target",
       "description": "Topic of the PR response to Snow.",
       "related_artifacts": [],
@@ -1582,7 +1582,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10412",
       "ref": "N-10412",
-      "name": "Erica Kirk June 19 Instagram Purge",
+      "name": "Erika Kirk June 19 Instagram Purge",
       "type": "investigation_target",
       "description": "The 126-post deletion.",
       "related_artifacts": [],
@@ -2139,8 +2139,8 @@
       "@type": "Claim",
       "@id": "C-2333",
       "ref": "C-2333",
-      "label": "Erica Kirk Widow Address View Counts",
-      "claim": "The host says Erica Kirk's widow address video on Charlie Kirk's YouTube channel has approximately 4.1 million views and 36,000 comments.",
+      "label": "Erika Kirk Widow Address View Counts",
+      "claim": "The host says Erika Kirk's widow address video on Charlie Kirk's YouTube channel has approximately 4.1 million views and 36,000 comments.",
       "anchored_artifacts": [
         "A-1754.1"
       ],

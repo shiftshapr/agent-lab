@@ -45,7 +45,7 @@
 Artifact Families Introduced: A-2374, A-2375, A-2376, A-2377, A-2378, A-2379, A-2380, A-2381, A-2382
 Claim Range: C-3445–C-3464
 New Nodes Introduced: N-10831, N-10832
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
@@ -192,7 +192,7 @@ Confidence Level: High
 
 **A-2382** Trafficking Connections Spreadsheet
 
-**A-2382.1** Spreadsheet displayed on-screen listing individuals/entities associated with both TPUSA/Erica Kirk's circle and trafficking or child sex abuse cases
+**A-2382.1** Spreadsheet displayed on-screen listing individuals/entities associated with both TPUSA/Erika Kirk's circle and trafficking or child sex abuse cases
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -479,7 +479,7 @@ Existing topic reused.
 
 ---
 
-**N-10698** Next Model Management / MC2 Trafficking Connection to Erica Kirk
+**N-10698** Next Model Management / MC2 Trafficking Connection to Erika Kirk
 
 Existing topic reused for the modeling apartments claims.
 
@@ -1231,7 +1231,7 @@ Investigative Direction: Locate primary reporting on the lobbying / cancellation
 
 Claim Timestamp: 00:03:34–00:08:18
 
-Claim: The episode displays a spreadsheet and host narration enumerating over fifteen individuals / entities linked to TPUSA or Erica Kirk's circle who have documented connections to trafficking, child sex abuse investigations, or related operations.
+Claim: The episode displays a spreadsheet and host narration enumerating over fifteen individuals / entities linked to TPUSA or Erika Kirk's circle who have documented connections to trafficking, child sex abuse investigations, or related operations.
 
 Anchored Artifacts: A-2382.1
 Mentions: N-2

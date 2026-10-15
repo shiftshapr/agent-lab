@@ -39,7 +39,7 @@
  - Claim Range: C-3027–C-3041
  - New Nodes Introduced (People): none (Wave 2: local ids removed)
  - New Nodes Introduced (Investigation Targets): N-10717, N-10718, N-10719, N-10720, N-10721, N-10722, N-10723, N-10724
- - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+ - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
@@ -573,7 +573,7 @@ Existing topic reused for the surgeon-call dispute.
 
 ---
 
-**N-10381** Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Existing topic reused for the Panguitch steakhouse claim.
 
@@ -2534,4 +2534,4 @@ Confidence: high
 - **Claim Range:** C-3027–C-3041
 - **New Nodes Introduced (People):** none (Wave 2: local ids removed)
 - **New Nodes Introduced (Investigation Targets):** N-10717, N-10718, N-10719, N-10720, N-10721, N-10722, N-10723, N-10724
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)

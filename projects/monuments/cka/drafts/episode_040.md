@@ -24,7 +24,7 @@
 Artifact Families Introduced: A-1489, A-1490, A-1491, A-1492, A-1493
 Claim Range: C-1820–C-1830
 New Nodes Introduced:  N-303, N-304, N-305, N-10307, N-10308
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
@@ -749,7 +749,7 @@ Claim Timestamp: 00:14:49
 Claim: In the video statement, TPUSA asserted that Charlie personally reviewed and signed off on every expense report and every bill paid by the organization down to a single United States dollar.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-160
+Mentions: N-160, N-1
 Investigative Direction: Cross-check against internal expense approval records and witness testimony; investigate Charlie's DOGE-related audit request as a separate counter-signal.
 
 ---
@@ -773,7 +773,7 @@ Claim Timestamp: 00:21:20–00:22:24
 Claim: In the video statement, TPUSA cited Charlie's "do not feed the trolls" rule and characterized the host's allegations as beneath contempt as justification for prior non-response.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-160
+Mentions: N-160, N-1
 Investigative Direction: Obtain Charlie's documented communications on troll-handling policy; assess whether the rule was invoked consistently across other allegations.
 
 ---
@@ -782,7 +782,7 @@ Investigative Direction: Obtain Charlie's documented communications on troll-han
 
 Claim Timestamp: 00:41:49
 
-Claim: At the Pentagon briefing on December 3, newly-credentialed journalist Cam Higby asked Pentagon press secretary Kingsley Wilson whether the DoD has any evidence of a French military plot to assassinate Candace Owens.
+Claim: At a Pentagon briefing, newly-credentialed journalist Cam Higby asked Pentagon press secretary Kingsley Wilson whether the DoD has any evidence of a French military plot to assassinate Candace Owens.
 
 Anchored Artifacts: A-1490.1
 Mentions: N-303, N-304, N-3
@@ -1127,7 +1127,7 @@ Claim: The host says Andrew Kolvet sat next to the person delivering TPUSA's sta
 Transcript Snippet: Andrew Kolvet sat next to you and said it was because people were stealing.
 
 Anchored Artifacts: 
-Mentions: N-14
+Mentions: N-14, N-160
 Related Nodes: N-10100
 Supports: C-1369
 Investigative Direction: Find the Kolvet statement on SD card removal and compare it with the other accounts of who took the card and why.
@@ -1272,7 +1272,7 @@ Investigative Direction: Locate the Josh Hammer statement and compare with Charl
 
 Claim Timestamp: 00:13:27
 
-Claim: The host says Neff's quoted line that Charlie's friends 'had to know' he was going to be murdered is not in the context she used it, and that she may have said the sentence but the full sentence is needed.
+Claim: The host says Neff's quote is not a full quotation and that she never said, in the context he put it, that Charlie's friends 'had to know' he was going to be murdered, and that she may have said the sentence but the full sentence is needed.
 
 Transcript Snippet: I never said that obviously in the context that he put it in uh that Charlie's friends quote had to know he was going to be murdered.
 
@@ -1301,7 +1301,7 @@ Investigative Direction: Obtain TPUSA's annual audited financial statements and 
 
 Claim Timestamp: 00:14:49
 
-Claim: The host says that if a charity is moving millions into LLCs carrying its name that is improper, and that most people cannot read those forms or understand what happened to 'the $80 million'.
+Claim: The host says that if a charity is moving millions into various LLCs 'that have your name on it' that is improper, and that most people cannot read those forms or understand what happened to 'the $80 million'.
 
 Transcript Snippet: most people are not able to read those forms and won't understand what's happening to the the $80 million.
 
@@ -1438,7 +1438,7 @@ Investigative Direction: Follow later episodes for the unit identification and i
 
 Claim Timestamp: 00:18:52
 
-Claim: In the statement the host plays, Blake Neff says his friends have suffered more harassment from people stirred up by Candace Owens than from Antifa supporters who celebrate Charlie's murder.
+Claim: In the statement the host plays, Blake Neff says he would say his friends have suffered more harassment from people stirred up by Candace Owens than from Antifa supporters who celebrate Charlie's murder.
 
 Transcript Snippet: we have suffered more harassment from these people than we have from Antifa supporters who overtly celebrate Charlie's murder.
 
@@ -1599,7 +1599,7 @@ Investigative Direction: Compare TPUSA's actual public statements on the allegat
 
 Claim Timestamp: 00:30:47
 
-Claim: The host says 306 bullets are not stopped by human necks, and frames the official account as the state feeding the public false statements about September 10.
+Claim: The host says 306 bullets are not stopped by human necks, and says it felt very much like the state colluded to feed the public false statements about September 10.
 
 Transcript Snippet: 306 bullets do not get stopped by human necks because they eat healthy.
 
@@ -1799,7 +1799,7 @@ Claim: The host says Laura Loomer shared, with glee, the news that Cam Higby, al
 Transcript Snippet: she was beside herself with Glee this morning sharing news that another Zionist influencer named Cam Higgby, who has also now been credentialed by the Pentagon
 
 Anchored Artifacts: A-1490.1
-Mentions: N-3, N-60, N-303
+Mentions: N-3, N-60, N-303, N-304
 Related Nodes: N-10064
 Investigative Direction: Locate Loomer's post sharing the Higby clip and its time.
 

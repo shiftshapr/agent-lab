@@ -740,7 +740,7 @@ TPUSA spokesperson; the host recounts his Fort Huachuca response and his call ab
 
 ---
 
-**N-10380** Erica Kirk September 8 Alibi
+**N-10380** Erika Kirk September 8 Alibi
 
 Erika's September 8 alibi topic.
 
@@ -891,7 +891,7 @@ Everyday Heroes Foundation, which Erika says she founded.
 
 ---
 
-**N-10428** Erica Kirk China Timeline Discrepancy
+**N-10428** Erika Kirk China Timeline Discrepancy
 
 Erika's China timeline discrepancy topic.
 

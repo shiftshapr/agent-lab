@@ -275,13 +275,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1650",
       "family_ref": "A-1650",
-      "bundle_name": "Erica Kirk China Statement Bundle",
+      "bundle_name": "Erika Kirk China Statement Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1650.1",
           "ref": "A-1650.1",
-          "description": "Erica Kirk interview clip played on air in which she states she was \"living in China and doing a lot of work with victims from sex trafficking\" through her Everyday Heroes Like You charity",
+          "description": "Erika Kirk interview clip played on air in which she states she was \"living in China and doing a lot of work with victims from sex trafficking\" through her Everyday Heroes Like You charity",
           "related_claims": [
             "C-2144"
           ],
@@ -300,7 +300,7 @@
           "@type": "Artifact",
           "@id": "A-1650.2",
           "ref": "A-1650.2",
-          "description": "Paraphrased TPUSA official response (received via email by host), stating that Erica Kirk \"never lived\" in China and \"simply visited for 2 weeks\"",
+          "description": "Paraphrased TPUSA official response (received via email by host), stating that Erika Kirk \"never lived\" in China and \"simply visited for 2 weeks\"",
           "related_claims": [
             "C-2142"
           ],
@@ -496,7 +496,7 @@
           "@type": "Artifact",
           "@id": "A-1653.7",
           "ref": "A-1653.7",
-          "description": "\"KJO\" comment read aloud, praising \"Will the real Erica Kirk please stand up\" segment",
+          "description": "\"KJO\" comment read aloud, praising \"Will the real Erika Kirk please stand up\" segment",
           "related_claims": [],
           "related_nodes": [
             "N-2",
@@ -1111,9 +1111,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10428",
       "ref": "N-10428",
-      "name": "Erica Kirk China Timeline Discrepancy",
+      "name": "Erika Kirk China Timeline Discrepancy",
       "type": "investigation_target",
-      "description": "Persistent target reconciling three artifact-anchored statements about Erica Kirk's China residence: her own \"living in China\" claim (A-1650.1), Charlie's \"6 months\" claim (A-1650.3), and TPUSA's \"2 weeks\" official response (A-1650.2).",
+      "description": "Persistent target reconciling three artifact-anchored statements about Erika Kirk's China residence: her own \"living in China\" claim (A-1650.1), Charlie's \"6 months\" claim (A-1650.3), and TPUSA's \"2 weeks\" official response (A-1650.2).",
       "related_artifacts": [
         "A-1650.1",
         "A-1650.2",
@@ -2006,7 +2006,7 @@
       "@id": "C-2142",
       "ref": "C-2142",
       "label": "TPUSA Response Says Erika Kirk Only Visited China for 2 Weeks and Never Lived There",
-      "claim": "Per host's paraphrase of an emailed TPUSA official response, Erica Kirk never lived in China and simply visited for 2 weeks.",
+      "claim": "Per host's paraphrase of an emailed TPUSA official response, Erika Kirk never lived in China and simply visited for 2 weeks.",
       "anchored_artifacts": [
         "A-1650.2"
       ],
@@ -2046,7 +2046,7 @@
       "@id": "C-2144",
       "ref": "C-2144",
       "label": "Erika Kirk Publicly Stated She Was Living in China Working with Victims of Sex Trafficking Through Her Everyday Heroes Like You Charity",
-      "claim": "In the on-air clip, Erica Kirk states she was \"living in China and doing a lot of work with victims from sex trafficking\" via Everyday Heroes Like You.",
+      "claim": "In the on-air clip, Erika Kirk states she was \"living in China and doing a lot of work with victims from sex trafficking\" via Everyday Heroes Like You.",
       "anchored_artifacts": [
         "A-1650.1"
       ],

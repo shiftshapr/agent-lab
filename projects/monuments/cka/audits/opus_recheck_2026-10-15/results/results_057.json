@@ -1,0 +1,759 @@
+[
+ {
+  "claim": "C-1807",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1808",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Transcript: \"Both John Dupant and Mosley died in prison.\" Claim says \"both DuPont and Mosley\", which reads as Lisa Dean DuPont; John DuPont (N-295) is meant and missing from Mentions.",
+  "fix": {
+   "claim": "Per Dominic Dunne's Vanity Fair reporting as the host relays it, Lisa Dean DuPont and her husband Christopher Mosley ordered the killing of a Las Vegas prostitute whose body was found in a motel air conditioner, with the money tracing to the DuPont family; the host says both John DuPont and Mosley died in prison.",
+   "mentions": [
+    "N-296",
+    "N-297",
+    "N-295"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-1809",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1810",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "note": "\"Do I have to change this shirt?\" falls ~83% into the 38:15-40:29 block (~40:06); text intro \"This text message is my one of my favorite\" ~39:47. 40:29 is 23-42s after.",
+  "fix": {
+   "timestamp": "00:39:42"
+  },
+  "material": true
+ },
+ {
+  "claim": "C-1811",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "note": "Transcript: \"the purpose of Macron's lawsuit\"; \"McRonone\" is a garbled name for Macron. Comment read at ~02:07 (\"Look at this\" ~41% into 01:44 block); 02:41 is ~34s after.",
+  "fix": {
+   "claim": "A viewer commented that the Macron lawsuit was designed to go nowhere because Candace was supposed to have been assassinated before the case reached court, allowing plaintiffs to permanently claim she was lying.",
+   "timestamp": "00:02:02",
+   "mentions": [
+    "N-3",
+    "N-82"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-1812",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1813",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1814",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1815",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Transcript: \"these young women told me that this donor was French American ... name was Pierre\". No count of two appears anywhere in the transcript.",
+  "fix": {
+   "claim": "TPUSA sources, whom the host describes as young women, told host the donor prospect was French American and named Pierre; this detail was reported as forgotten until resurfacing after Episode 38's DuPont discussion."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-1816",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1817",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1818",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1819",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim names Charlie (\"when Charlie said no to BB\") but Mentions lacks N-1; \"BB\" is Netanyahu per host at 22:04 (\"BBNet and Yahoo calling Charlie\").",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-1",
+    "N-36"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-3652",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Transcript only: \"I start messaging our mommy sleuths and our daddy's sleuths and all of my sources at Turning Point USA.\" No praise or \"emailing tips\"; she messages them about the donor.",
+  "fix": {
+   "claim": "The host says she began messaging \"our mommy sleuths and our daddy's sleuths\" and her sources at Turning Point USA for anything they could tell her about the donor.",
+   "label": "Host Says She Messaged Mommy Sleuths and TPUSA Sources About the Donor"
+  },
+  "material": false
+ },
+ {
+  "claim": "C-3718",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10949",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10950",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10951",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10952",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10953",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10954",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10955",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10956",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10957",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Transcript: \"is that the law firm that's filing the paperwork for you? And the answer to that is yes.\" The window does not say which lawsuit; \"brought by the Macrons\" is added.",
+  "fix": {
+   "claim": "The host says that the Richards law firm named in the article is the firm that is filing the paperwork for her, and that she did not know this until the previous day."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-10958",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10959",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10960",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10961",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10962",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10963",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10964",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10965",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10966",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10967",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10968",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10969",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10970",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10971",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10972",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10973",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10974",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10975",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10976",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10977",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10978",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10979",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10980",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10981",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10982",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10983",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10984",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10985",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "note": "Foreign Legion training in California is background the host places on her timeline, not the assassination or people at its centre.",
+  "fix": {
+   "relevance": "context"
+  },
+  "material": false
+ },
+ {
+  "claim": "C-10986",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10987",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10988",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10989",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10990",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Claim names Charlie (\"after Charlie said no\") but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-10991",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10992",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "note": "Operation Valhalla exercise at Camp Ripley is background on the host's timeline, not core to the assassination.",
+  "fix": {
+   "relevance": "context"
+  },
+  "material": false
+ },
+ {
+  "claim": "C-10993",
+  "episode": 39,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ }
+]

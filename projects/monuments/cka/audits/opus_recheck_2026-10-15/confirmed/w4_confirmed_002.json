@@ -1,0 +1,196 @@
+[
+ {
+  "claim": "C-1821",
+  "episode": 40,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie as the one who reviewed every bill; N-1 belongs in Mentions."
+ },
+ {
+  "claim": "C-1823",
+  "episode": 40,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie's 'do not feed the trolls' rule; add N-1."
+ },
+ {
+  "claim": "C-1824",
+  "episode": 40,
+  "decision": "accept",
+  "fix": {
+   "claim": "At a Pentagon briefing, newly-credentialed journalist Cam Higby asked Pentagon press secretary Kingsley Wilson whether the DoD has any evidence of a French military plot to assassinate Candace Owens."
+  },
+  "note": "No date for the briefing is given in the episode; 'December 3' removed."
+ },
+ {
+  "claim": "C-5079",
+  "episode": 40,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-160"
+   ]
+  },
+  "note": "Host addresses Blake Neff, who delivers the TPUSA statement (named at ep40 intro); claim refers to him."
+ },
+ {
+  "claim": "C-5124",
+  "episode": 40,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-60",
+    "N-303",
+    "N-304"
+   ]
+  },
+  "note": "Claim refers to the press secretary, named by host as Kingsley Wilson (N-304)."
+ },
+ {
+  "claim": "C-5182",
+  "episode": 41,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host tells Project Constitution, who is in the chat, that she hopes he was okay with her editing his post on air, that she thinks he took BTU for BTT, and that this is fine since now they can connect the two planes at the very least.",
+   "label": "Host Tells Project Constitution the BTU and BTT Mix-Up Still Connects the Two Planes"
+  },
+  "note": "Host earlier corrected his BTU/BTT post on air ('he's mixing it up with BTT'); these are her words to him."
+ },
+ {
+  "claim": "C-1841",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "claim": "In his earlier invitation statement, which the host reads aloud, Blake Neff said that if Candace is available TPUSA \"would sincerely welcome her participation in that live stream at our studio in Phoenix\"; the host says this was not a demand to be there in person."
+  },
+  "note": "'not a demand to be there in person' is the host's comment; quote matches the statement she reads."
+ },
+ {
+  "claim": "C-1847",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says PBS and other networks featured Emmanuel Beerer as an eyewitness and that he was filmed in Salt Lake City rather than at UVU; she plays a PBS clip of him."
+  },
+  "note": "Salt Lake City framing is the host's assertion; she plays a PBS clip. Name left as is."
+ },
+ {
+  "claim": "C-1852",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Carrie Bartholomew posted a photo and a tweet confirming where she was when the shot went off; the tweet the host reads says \"When we thought laying in the courtyard that we were about to get shot in the back or in the head\". The host separately says Carrie was standing by the bush."
+  },
+  "note": "'By the bush' is the host's statement; tweet text matches transcript."
+ },
+ {
+  "claim": "C-1855",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "claim": "In emails the host reads from people she says are past or present military, one writer says airborne forces wear maroon in the UK, the USA, France and dozens of other militaries, and another says undercover police and FBI units often use a \"color of the day\" or unit color as a signal to others on the same mission."
+  },
+  "note": "'Color of the day' email concerns undercover police/FBI, not maroon."
+ },
+ {
+  "claim": "C-1857",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the individual who shot one of the two roof videos told her in a follow-up call that he did not see the subject take the shot and saw no recoil."
+  },
+  "note": "Host relays her follow-up call; attribution fixed."
+ },
+ {
+  "claim": "C-1858",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the roof video caller told her that Tyler Robinson's defense lawyer had not reached out to him, and that federal authorities had not reached out since she called him."
+  },
+  "note": "Host relays her call; attribution fixed."
+ },
+ {
+  "claim": "C-1872",
+  "episode": 43,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a video the host plays, YouTuber Jesse Kege of One Shot TV, after introducing a 180gr FMJ and a 150gr Hornady ballistic tip .30-06 round, fires at a ballistic dummy whose head falls off and penetrates the water jugs placed behind it; the host cites this as showing what the round would have done to Charlie Kirk.",
+   "mentions": [
+    "N-317",
+    "N-1"
+   ]
+  },
+  "note": "Clip introduces both 180gr FMJ and 150gr Hornady; round fired not stated. Claim names Charlie Kirk."
+ },
+ {
+  "claim": "C-1879",
+  "episode": 43,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie (life insurance policy on Charlie)."
+ },
+ {
+  "claim": "C-1885",
+  "episode": 44,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Harry told her he entered a temporary JTF-Southern Border headquarters at approximately 7:37 AM on September 9, 2025, immediately following the conclusion of a high-level meeting."
+  },
+  "note": "Harry does not speak; host relays his account."
+ },
+ {
+  "claim": "C-1886",
+  "episode": 44,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Harry told her he saw about 12 lieutenant colonels as the meeting he walked in on was concluding; later, after viewers in the chat corrected her that the ranks should be E5s and E6s, she says Harry described lieutenant colonels and colonels and estimates 12 to 13 were in the meeting."
+  },
+  "note": "E5/E6 correction came from chat; host relays Harry's 12-13 lt. colonels and colonels at 34:46."
+ },
+ {
+  "claim": "C-1887",
+  "episode": 44,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host, saying 'allegedly' because she was not there, says Harry told her he is certain that Brian Harpole was one of the men exiting the JTF-SB meeting on September 9, 2025; Harry did not recognize him at the time and remembers him because of Charlie Kirk's assassination."
+  },
+  "note": "Host relays Harry with 'allegedly' hedge; matches transcript."
+ },
+ {
+  "claim": "C-1888",
+  "episode": 44,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:21:39",
+   "claim": "The host says Harry told her that, after he entered the temporary JTF headquarters and saw men come out of the meeting, two captains escorted him out of the building and began a 7-hour interrogation accusing him of being a bomb threat and a spy and trying to cast him as a threat to others or himself, and that the interrogator Harry identifies as \"Captain Nef\" was approximately 36 years old with brown hair and was, best Harry could tell, commander of force protection."
+  },
+  "note": "Two captains/7-hour interrogation spoken late in 20:14 block; force protection hedged 'best he could tell'; 36/brown hair at 24:02."
+ },
+ {
+  "claim": "C-3653",
+  "episode": 44,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:54:37",
+   "claim": "The host urges viewers to \"become our own little CIA units or DCIA units in our own communities and share information,\" because the government cannot be trusted to take care of them."
+  },
+  "note": "DCIA line near end of 53:18-54:56 block; 'Decentralized Intelligence Agency' not said."
+ }
+]

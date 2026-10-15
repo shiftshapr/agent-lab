@@ -1,0 +1,774 @@
+[
+ {
+  "claim": "C-10872",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10873",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10874",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10875",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10876",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10877",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10878",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10879",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10880",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10881",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10882",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10883",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10884",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10885",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10886",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim's 'he' is Charlie Kirk ('he wasn't allowed to be Catholic'), as the label says, but N-1 is missing from Mentions.",
+  "fix": {
+   "claim": "The host says many Turning Point USA lies she debunked concern faith, such as that Charlie Kirk was not allowed to be Catholic or interested in Catholicism.",
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-10887",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10888",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10889",
+  "episode": 32,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Poppy-field/Sackler lines are inside the comment she reads: 'The Duchess of Camelot writes, \"The fentinyl crisis is by design allegedly. Uh yeah, our boys were guarding the poppy fields... Certainly not the American people.\"' Not the host's own words.",
+  "fix": {
+   "claim": "A viewer comment the host reads says the fentanyl crisis is by design, allegedly, that US troops guarded the poppy fields in Afghanistan, then an opioid crisis came, and the Sackler family seems to be the only ones who benefited.",
+   "label": "Viewer Comment Says Opioid Crisis Followed Guarding Afghan Poppy Fields and Benefited the Sacklers"
+  }
+ },
+ {
+  "claim": "C-10890",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1716",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1717",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1718",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie ('her remarks about Charlie being \"betrayed\"') but N-1 is not in Mentions. Content supported: 'this was all happening because I mentioned the Egyptian plane'.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-3",
+    "N-260",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1719",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Mark says only '9:05 a.m. until 10:34 a.m... 12:40 p.m... 1:29 p.m.'; the seconds (9:05:36 etc.) come from the host's repeat, and the Duncan Aviation FBO location was stated by the host earlier, not by Mark. Year 2025 not said.",
+  "fix": {
+   "claim": "Mark, the show's director, says ADSB Exchange data he displays shows the plane, sitting without moving at the FBO, transponding on September 10 from 9:05 a.m. to 10:34 a.m. and again from 12:40 p.m. to 1:29 p.m. (Utah time, after subtracting 7 hours from UTC); the host repeats these times as 9:05:36 a.m. to 10:34:05 a.m. and 12:40:53 p.m. to 1:29:40 p.m., having earlier said SUBND was transponding at the Duncan Aviation FBO in Provo."
+  }
+ },
+ {
+  "claim": "C-1720",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1721",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1722",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1723",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1724",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1725",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1726",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1727",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1728",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim attributes the content to the 'Wolves and Finance' video presenter (episode node N-473 Zack Gregorio (Wolves and Finance)), but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-473"
+   ]
+  }
+ },
+ {
+  "claim": "C-1729",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'the presenter says' refers to the Wolves and Finance presenter, N-473 in the episode list, who is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-473"
+   ]
+  }
+ },
+ {
+  "claim": "C-1730",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Content is the Wolves and Finance presenter's ('Someone at Turning Point decided not to file three of the four...'); N-473 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-473"
+   ]
+  }
+ },
+ {
+  "claim": "C-1731",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'he clarifies that Turning Point USA actually decreased their staff... 33%' - the Wolves and Finance presenter (N-473) is referred to but missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-473"
+   ]
+  }
+ },
+ {
+  "claim": "C-1732",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim cites 'the presenter' of the Wolves and Finance video (N-473), missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-473"
+   ]
+  }
+ },
+ {
+  "claim": "C-1733",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Producer unnamed in the window; 'I looked up the locations. Uh there are some somewhat near uh UVU' follows the producer's Flock explanation.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1734",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3648",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3649",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3701",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3735",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'a person that nobody really knows. He's a managing director of a restaurant fund' - 'nobody really knows' describes Smith, not the fund.",
+  "fix": {
+   "claim": "Host states that Charlie Kirk flew into Salt Lake City rather than the closer Provo airport on September 10, ostensibly because of a morning \"restaurantology\" interview with Andrew K. Smith, whom she describes as a person nobody really knows and a managing director of a restaurant fund."
+  }
+ },
+ {
+  "claim": "C-12350",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12351",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12352",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12353",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12354",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12355",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12356",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12357",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12358",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie Kirk ('Charlie Kirk's wife Erika') but N-1 is missing from Mentions. Speaker is Crowder's clip, as introduced at 06:45.",
+  "fix": {
+   "mentions": [
+    "N-260",
+    "N-2",
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-12359",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12360",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host says only 'they sent mother mocking bird out, Ben Shapiro' after the plane document 'struck even more fear into the nest of mocking birds'; she does not name 'TPUSA-aligned influencers' as the senders.",
+  "fix": {
+   "claim": "The host says that after her plane work struck 'even more fear into the nest of mocking birds', 'they sent mother mocking bird out, Ben Shapiro' to allege that she had said something specifically about Erika when she had not."
+  }
+ },
+ {
+  "claim": "C-12361",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12362",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12363",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12364",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12365",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12366",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12367",
+  "episode": 33,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

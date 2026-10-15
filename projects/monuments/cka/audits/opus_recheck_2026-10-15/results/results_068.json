@@ -1,0 +1,768 @@
+[
+ {
+  "claim": "C-1941",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1942",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Transcript: \"they confirmed that Andrew spoke to the surgeon, but that they did not know that he was going to write that tweet... they did not know that he called up the surgeon.\" 'They' (not the surgeon) did not know; Kolvet did not 'admit' it; he replied 'I would not have posted without full permission.'",
+  "fix": {
+   "claim": "The host says Andrew Kolvet said he spoke to the surgeon, and that they confirmed Kolvet spoke to the surgeon but that they did not know he was going to write the tweet or that he had called up the surgeon.",
+   "label": "Host Says They Did Not Know Kolvet Would Write the Surgeon Tweet"
+  }
+ },
+ {
+  "claim": "C-1943",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "This is a clip the host plays and describes as 'Tim Pool a week ago'; in it the speaker relays what he was told: \"you told me she has no security... YOU TOLD ME YOU WENT TO HER HOUSE, and she's got a 4-ft wall and one fat guy\". Claim lacks the clip framing.",
+  "fix": {
+   "claim": "In a clip the host plays, which she describes as Tim Pool about one week earlier, Tim Pool says he was told Candace Owens had no security beyond one guard and a 4-foot wall at a suburban residence."
+  }
+ },
+ {
+  "claim": "C-1944",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Played clip: \"Candace has the same security team or has used the same security companies and the same security personnel as Charlie and Erika did.\" Claim lacks clip framing.",
+  "fix": {
+   "claim": "In a clip the host plays, Tim Pool says Candace Owens has used the same security personnel and security companies as Charlie and Erika Kirk."
+  }
+ },
+ {
+  "claim": "C-1945",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host's own assertion stated as fact: \"I got my own security separate from Charlie from the very beginning... Shafer Security, which was run by Greg Shaffer... they had Dan Flood and Brian Harpole working for them initially.\"",
+  "fix": {
+   "claim": "The host says she retained separate security from Charlie Kirk's from the beginning, and that Charlie's initial security was Shaffer Security, operated by Greg Shaffer, employing Dan Flood and Brian Harpole."
+  }
+ },
+ {
+  "claim": "C-1946",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host's statement given as fact: \"We have received no cease and desist from Charlie's security whatsoever.\"",
+  "fix": {
+   "claim": "The host says she has received no cease and desist from Charlie Kirk's security apparatus over security-related claims."
+  }
+ },
+ {
+  "claim": "C-1947",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host reports the article: \"They said they had an inside source that told them... in my first week, I threw my car keys at a producer\". Claim lacks host attribution.",
+  "fix": {
+   "claim": "The host says a New York Post article reported an inside source's claim that she threw her car keys at a Daily Wire producer in her first week."
+  }
+ },
+ {
+  "claim": "C-1948",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1949",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim is fine; label states as fact what the host asserts (\"they changed my my husband's Wikipedia... Qatari passport or citizenship... they're just making it up\").",
+  "fix": {
+   "label": "Host Says Husband's Wikipedia Falsely Listed Qatari Citizenship"
+  }
+ },
+ {
+  "claim": "C-1950",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Clip: \"a video... by Turkey Tom... where... this has been authenticated as somebody who was in the Discord chats with them... And he said, 100%\". The person in the video, not Turkey Tom, is described as in the chats; Turkey Tom authenticated nothing.",
+  "fix": {
+   "claim": "In a clip the host plays, a speaker addressing Viva Frei points to a video by Turkey Tom in which, he says, someone authenticated as having been in the Discord chats with Tyler Robinson and his partner, and who apparently spent time with them at the apartment, said \"100%\" this is how they talked.",
+   "label": "Clip Cites Turkey Tom Video on Robinson Discord Messaging Style"
+  }
+ },
+ {
+  "claim": "C-1951",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Transcription error 'George Zin'; correct name George Zinn (Deseret News, Newsweek). Node N-42 is right.",
+  "fix": {
+   "claim": "Per Candace, George Zinn, who was treated at Utah Valley, said he told the nurses that he was paid to do that.",
+   "label": "George Zinn allegedly told nurses he was paid to pose as shooter",
+   "names": [
+    {
+     "wrong": "George Zin",
+     "right": "George Zinn",
+     "source": "https://www.deseret.com/politics/2026/01/29/george-zinn-pleads-guilty-three-counts-charlie-kirk/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1952",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1953",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1954",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1955",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Andrew Sypher confirmed TPUSA field chief (tpusa.com/team).",
+  "fix": {}
+ },
+ {
+  "claim": "C-1956",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1957",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie Kirk but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1958",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1959",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14003",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14004",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14005",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14006",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14007",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14008",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14009",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14010",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14011",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14012",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14013",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14014",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript: \"the reason she didn't ask me to stop in the beginning because she was... learning things from the show... And that I think she similarly felt that Bari Weiss was trying to create a moment.\" 'At the start of the Bari Weiss event' is added; 'I think' hedge dropped.",
+  "fix": {
+   "claim": "The host says Erika Kirk told her the reason she did not ask the host to stop in the beginning was that she was actually learning things from the show, and that the host thinks Erika similarly felt Weiss was trying to create a moment."
+  }
+ },
+ {
+  "claim": "C-14015",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14016",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14017",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: \"I explained to them... how Terryl lied multiple times, and that I did not understand why he was there that day.\" 'Still' and label's 'About the Cameras' are added.",
+  "fix": {
+   "claim": "The host says her skin crawled after she spoke to Terryl Farnsworth, the person who took the cameras down, that he lied to her several times, and that she told TPUSA she did not understand why he was there that day.",
+   "label": "Host Says Terryl Farnsworth Lied to Her Several Times"
+  }
+ },
+ {
+  "claim": "C-14018",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14019",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Mentions includes N-11 Tyler Bowyer, who is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-262",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-14020",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14021",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14022",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14023",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14024",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14025",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14026",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14027",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14028",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14029",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14030",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: \"they don't actually share that information with the victim... they will not know what investigators have discovered... until May.\" 'Prosecutors' is not said.",
+  "fix": {
+   "claim": "The host says the lawyer told her that information on what investigators have found is not shared with the victim, including Erika Kirk, at this stage and she will not know until the May hearing."
+  }
+ },
+ {
+  "claim": "C-14031",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14032",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14033",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14034",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14035",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14036",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14037",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14038",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14039",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14040",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host declines to name the third person, then says \"This is Danny McCoy, by the way, is his brother that's in the military, but that's before the shot goes off.\" Label asserts the third person was Danny McCoy, which she does not say.",
+  "fix": {
+   "label": "Host Mentions Danny McCoy, Mikey's Brother in the Military, in the Call Log"
+  }
+ },
+ {
+  "claim": "C-14041",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14042",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14043",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

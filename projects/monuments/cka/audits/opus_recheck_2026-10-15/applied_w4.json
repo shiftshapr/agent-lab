@@ -1,0 +1,914 @@
+[
+ {
+  "claim": "C-6674",
+  "episode": 31,
+  "kind": "minor",
+  "fields": [
+   "relevance"
+  ]
+ },
+ {
+  "claim": "C-1697",
+  "episode": 32,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1703",
+  "episode": 32,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1704",
+  "episode": 32,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1712",
+  "episode": 32,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1714",
+  "episode": 32,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-10845",
+  "episode": 32,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-10848",
+  "episode": 32,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-10856",
+  "episode": 32,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-10869",
+  "episode": 32,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-10886",
+  "episode": 32,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-10889",
+  "episode": 32,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-1718",
+  "episode": 33,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-1728",
+  "episode": 33,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-1729",
+  "episode": 33,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-1730",
+  "episode": 33,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-1731",
+  "episode": 33,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-1732",
+  "episode": 33,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-3735",
+  "episode": 33,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-12358",
+  "episode": 33,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-12360",
+  "episode": 33,
+  "kind": "confirmed",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-12377",
+  "episode": 33,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-12412",
+  "episode": 33,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1737",
+  "episode": 34,
+  "kind": "confirmed",
+  "fields": [
+   "label",
+   "timestamp"
+  ]
+ },
+ {
+  "claim": "C-1738",
+  "episode": 34,
+  "kind": "minor",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-1739",
+  "episode": 34,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1740",
+  "episode": 34,
+  "kind": "minor",
+  "fields": [
+   "label"
+  ]
+ },
+ {
+  "claim": "C-1741",
+  "episode": 34,
+  "kind": "confirmed",
+  "fields": [
+   "timestamp"
+  ]
+ },
+ {
+  "claim": "C-1742",
+  "episode": 34,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "label",
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-1743",
+  "episode": 34,
+  "kind": "minor",
+  "fields": [
+   "label"
+  ]
+ },
+ {
+  "claim": "C-4917",
+  "episode": 34,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-4938",
+  "episode": 34,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1749",
+  "episode": 35,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-1750",
+  "episode": 35,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-1752",
+  "episode": 35,
+  "kind": "confirmed",
+  "fields": [
+   "timestamp"
+  ]
+ },
+ {
+  "claim": "C-1753",
+  "episode": 35,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-1754",
+  "episode": 35,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-7988",
+  "episode": 35,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-7994",
+  "episode": 35,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-7995",
+  "episode": 35,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-7996",
+  "episode": 35,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-7997",
+  "episode": 35,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-7998",
+  "episode": 35,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-8041",
+  "episode": 35,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-8052",
+  "episode": 35,
+  "kind": "minor",
+  "fields": [
+   "label"
+  ]
+ },
+ {
+  "claim": "C-8060",
+  "episode": 35,
+  "kind": "minor",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-4988",
+  "episode": 36,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-5019",
+  "episode": 36,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-5033",
+  "episode": 36,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "label",
+   "timestamp",
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-5050",
+  "episode": 36,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1773",
+  "episode": 37,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-1774",
+  "episode": 37,
+  "kind": "minor",
+  "fields": [
+   "label"
+  ]
+ },
+ {
+  "claim": "C-1779",
+  "episode": 37,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "label",
+   "timestamp"
+  ]
+ },
+ {
+  "claim": "C-1780",
+  "episode": 37,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-3651",
+  "episode": 37,
+  "kind": "confirmed",
+  "fields": [
+   "timestamp"
+  ]
+ },
+ {
+  "claim": "C-9770",
+  "episode": 37,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-9773",
+  "episode": 37,
+  "kind": "minor",
+  "fields": [
+   "relevance"
+  ]
+ },
+ {
+  "claim": "C-9824",
+  "episode": 37,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-9827",
+  "episode": 37,
+  "kind": "minor",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-1789",
+  "episode": 38,
+  "kind": "minor",
+  "fields": [
+   "label"
+  ]
+ },
+ {
+  "claim": "C-1794",
+  "episode": 38,
+  "kind": "confirmed",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1796",
+  "episode": 38,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "timestamp"
+  ]
+ },
+ {
+  "claim": "C-10895",
+  "episode": 38,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-10917",
+  "episode": 38,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-10920",
+  "episode": 38,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-10929",
+  "episode": 38,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-10931",
+  "episode": 38,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1804",
+  "episode": 39,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-1808",
+  "episode": 39,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-1810",
+  "episode": 39,
+  "kind": "confirmed",
+  "fields": [
+   "timestamp"
+  ]
+ },
+ {
+  "claim": "C-1811",
+  "episode": 39,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "timestamp",
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-1819",
+  "episode": 39,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-3652",
+  "episode": 39,
+  "kind": "minor",
+  "fields": [
+   "label"
+  ]
+ },
+ {
+  "claim": "C-10985",
+  "episode": 39,
+  "kind": "minor",
+  "fields": [
+   "relevance"
+  ]
+ },
+ {
+  "claim": "C-10990",
+  "episode": 39,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-10992",
+  "episode": 39,
+  "kind": "minor",
+  "fields": [
+   "relevance"
+  ]
+ },
+ {
+  "claim": "C-11012",
+  "episode": 39,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-11016",
+  "episode": 39,
+  "kind": "minor",
+  "fields": [
+   "relevance"
+  ]
+ },
+ {
+  "claim": "C-1821",
+  "episode": 40,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-1823",
+  "episode": 40,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-1824",
+  "episode": 40,
+  "kind": "confirmed",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-5079",
+  "episode": 40,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-5089",
+  "episode": 40,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-5091",
+  "episode": 40,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-5100",
+  "episode": 40,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-5111",
+  "episode": 40,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-5124",
+  "episode": 40,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-5182",
+  "episode": 41,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-1841",
+  "episode": 42,
+  "kind": "confirmed",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1847",
+  "episode": 42,
+  "kind": "confirmed",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1852",
+  "episode": 42,
+  "kind": "confirmed",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1855",
+  "episode": 42,
+  "kind": "confirmed",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1857",
+  "episode": 42,
+  "kind": "confirmed",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1858",
+  "episode": 42,
+  "kind": "confirmed",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-12437",
+  "episode": 42,
+  "kind": "minor",
+  "fields": [
+   "claim",
+   "label"
+  ]
+ },
+ {
+  "claim": "C-12445",
+  "episode": 42,
+  "kind": "minor",
+  "fields": [
+   "relevance"
+  ]
+ },
+ {
+  "claim": "C-12450",
+  "episode": 42,
+  "kind": "minor",
+  "fields": [
+   "relevance"
+  ]
+ },
+ {
+  "claim": "C-12453",
+  "episode": 42,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-12457",
+  "episode": 42,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-12472",
+  "episode": 42,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1872",
+  "episode": 43,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-1874",
+  "episode": 43,
+  "kind": "minor",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1879",
+  "episode": 43,
+  "kind": "confirmed",
+  "fields": [
+   "mentions"
+  ]
+ },
+ {
+  "claim": "C-1885",
+  "episode": 44,
+  "kind": "confirmed",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1886",
+  "episode": 44,
+  "kind": "confirmed",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1887",
+  "episode": 44,
+  "kind": "confirmed",
+  "fields": [
+   "claim"
+  ]
+ },
+ {
+  "claim": "C-1888",
+  "episode": 44,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "timestamp"
+  ]
+ },
+ {
+  "claim": "C-3653",
+  "episode": 44,
+  "kind": "confirmed",
+  "fields": [
+   "claim",
+   "timestamp"
+  ]
+ },
+ {
+  "claim": "C-11041",
+  "episode": 44,
+  "kind": "minor",
+  "fields": [
+   "relevance"
+  ]
+ },
+ {
+  "claim": "C-11042",
+  "episode": 44,
+  "kind": "minor",
+  "fields": [
+   "relevance"
+  ]
+ }
+]

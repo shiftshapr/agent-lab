@@ -2553,7 +2553,7 @@ Transcript Snippet: Uh, she's trying to remove Senator Massie.
 Anchored Artifacts: A-1398.5
 Mentions: N-299, N-582, N-3
 Related Nodes: N-10916
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check federal election filings for Adelson-linked spending against Massie; note that Massie is a US Representative, not a Senator.
 
 ---

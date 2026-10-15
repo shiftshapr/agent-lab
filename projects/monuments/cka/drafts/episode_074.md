@@ -1166,7 +1166,7 @@ Topic reused for the China charity reference.
 
 ---
 
-**N-10428** Erica Kirk China Timeline Discrepancy
+**N-10428** Erika Kirk China Timeline Discrepancy
 
 Topic reused for the China charity reference.
 

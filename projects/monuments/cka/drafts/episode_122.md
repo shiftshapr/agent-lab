@@ -33,7 +33,7 @@
 - Claim Range: C-2969–C-2985
   - New Nodes Introduced: N-10696, N-10697, N-10698, N-10700, N-10701, N-10704
   - Reused Nodes Appearing: N-11, N-434
-- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens
+- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens
 
 ---
 
@@ -41,7 +41,7 @@
 
 Episode 122 advances three investigative threads from prior installments. First, the host displays a series of audience photographs showing multiple young men wearing maroon shirts alone in the September 10 audience, plus video clips of David Sprag / James Norman Rawlinson Jr. attending the event. An audio clip of Rawlinson's X account in which he claims service in the 19th Special Forces with a maroon beret is played in full. The host ties this to a photograph allegedly showing Rawlinson deployed in Romania at Mihail Kogălniceanu air base in 2023, displayed alongside an article identifying Task Force 82's location there.
 
-Second, the episode shifts to a new allegation: that Jean-Luc Brunel co-founded Next Model Management with Faith Kates, and that Erica Kirk was involved in "modeling apartments" for underaged models at that agency. This is connected to a pending class action lawsuit against Next Model Management and MC2. A 60 Minutes clip of former Mossad agents describing Israeli operations as a "Truman Show" production company is played as a framing artifact.
+Second, the episode shifts to a new allegation: that Jean-Luc Brunel co-founded Next Model Management with Faith Kates, and that Erika Kirk was involved in "modeling apartments" for underaged models at that agency. This is connected to a pending class action lawsuit against Next Model Management and MC2. A 60 Minutes clip of former Mossad agents describing Israeli operations as a "Truman Show" production company is played as a framing artifact.
 
 Third, the host plays a podcast clip of Frank Turek contradicting Brian Harpole's account of in-car CPR, and outlines pending FOIA filings (NSA, DHS, Secret Service, EOP, FBI, flight logs, Bradley Hansell travel). The episode structurally serves to push the maroon-shirt audience theory, introduce the Next Model Management / Brunel / Kirk connection, and document pending FOIA requests.
 
@@ -458,7 +458,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10532** Next Model Management / Erica Kirk Connection
+**N-10532** Next Model Management / Erika Kirk Connection
 
 Existing node reused for new claims in this episode.
 
@@ -976,9 +976,9 @@ Investigative Pressure: Medium
 
 *Related: A-2107.1, C-2976, N-41, N-11*
 
-**N-10698** Next Model Management / MC2 Trafficking Connection to Erica Kirk
+**N-10698** Next Model Management / MC2 Trafficking Connection to Erika Kirk
 
-Investigative target: allegation that Erica Kirk was involved in "modeling apartments" for Next Model Management and MC2 during the period covered by pending trafficking litigation.
+Investigative target: allegation that Erika Kirk was involved in "modeling apartments" for Next Model Management and MC2 during the period covered by pending trafficking litigation.
 
 Evidence Count: 0
 Claim Count: 1

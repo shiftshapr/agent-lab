@@ -1346,7 +1346,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10381",
       "ref": "N-10381",
-      "name": "Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification",
+      "name": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1795,7 +1795,7 @@
       "@type": "Claim",
       "@id": "C-3325",
       "ref": "C-3325",
-      "label": "Kolvet told Candace on September 14, 2025 that the TPUSA board had voted in Erica Kirk",
+      "label": "Kolvet told Candace on September 14, 2025 that the TPUSA board had voted in Erika Kirk",
       "claim": "The host says that on September 14, 2025 Andrew Kolvet told her the TPUSA board had already voted in Erika Kirk, said not to say it yet, and that it was not being announced publicly.",
       "anchored_artifacts": [
         "A-2308.1",
@@ -1806,7 +1806,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:51:00–00:54:00",
-      "investigative_direction": "Cross-reference with TPUSA corporate filings, board minutes, and Erica Kirk's public statements around the leadership transition.",
+      "investigative_direction": "Cross-reference with TPUSA corporate filings, board minutes, and Erika Kirk's public statements around the leadership transition.",
       "mentions_person_refs": [
         "N-2",
         "N-14"

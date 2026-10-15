@@ -1,0 +1,751 @@
+[
+ {
+  "claim": "C-6673",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6674",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Adelson trying to remove Massie is a separate political matter, not background to the assassination or TPUSA donors.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-6675",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6676",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1695",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1696",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Words are from the Brett Cooper clip (end of block before 11:07): 'even though Lou Taylor had no financial background. She was not even an accountant.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-1697",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "10% line is read from an article ('Read this. Mr. Spears at times gave 10%...'); only the 'tens of thousands' line cites 'a 2010 financial document'. Claim puts both under the 2010 document.",
+  "fix": {
+   "claim": "In a clip the host plays, Brett Cooper reads that Mr. Spears at times gave 10% of his conservatorship income to Calvary Chapel Brentwood, and that according to a 2010 financial document he gave \"tens of thousands of dollars\" in one year."
+  }
+ },
+ {
+  "claim": "C-1698",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1699",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1700",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1701",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1702",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Aruse' left as uncertain transcription; 'Rob Taylor' in email taken as Robin Taylor (N-252).",
+  "fix": {}
+ },
+ {
+  "claim": "C-1703",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host adds the CIA explanation herself ('For those of you hate Aspbury... this is when the CIA was just dosing them'); Love's messages are reported as toddler experimentation and LSD.",
+  "fix": {
+   "claim": "The host says Courtney Love told her in messages (Jan 2025) that she was experimented on as a toddler at the Haight-Ashbury Clinic and was given LSD; the host describes this as the era when the CIA was dosing hippies in mass experimentation."
+  }
+ },
+ {
+  "claim": "C-1704",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Love's quote: 'I did not kill Kurt Cobain. That was a part of a psychological operation...' 'That' is unclear; claim turns it into 'his death' was a psyop.",
+  "fix": {
+   "claim": "The host says Courtney Love told her in messages (Jan 2025): \"I did not kill Kurt Cobain. That was a part of a psychological operation to make the masses look away from what the CIA was guilty of.\""
+  }
+ },
+ {
+  "claim": "C-1705",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1706",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Text says Lou Taylor 'for Kim Kardashian and Diddy Jay-Z Beyonce' and 'owns the home church home'; 'owns or sat on the board' is the host's own check ('I looked that up... It looks like she owns or sat on the bar board').",
+  "fix": {
+   "claim": "Per a Courtney Love text message the host reads (Jan 2025), Lou Taylor is \"for Kim Kardashian and Diddy Jay-Z Beyonce\" and \"also owns the home church home\" to get Justin Bieber from Hillsong; the host says she looked it up and Lou Taylor appears to own or have sat on the board of Church Home."
+  }
+ },
+ {
+  "claim": "C-1707",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1708",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1709",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1710",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1711",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1712",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The lingering is the host's description of the clip: 'Butch is kind of just lingering in the background, almost as if he wants to know what that person is telling the media.'",
+  "fix": {
+   "claim": "The host says that in a clip she plays, recorded at the scene after the Kirk shooting, Butch Hibbs lingers in the background while another individual is interviewed by the media, \"almost as if he wants to know what that person is telling the media.\""
+  }
+ },
+ {
+  "claim": "C-1713",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1714",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim omits whom the framing is about: 'Were the heirish to turning point USA is Allie Beth Stuckey? ... they repeated that the heir apparent in the Wall Street Journal.'",
+  "fix": {
+   "claim": "The host says the Wall Street Journal repeated the \"heir apparent\" framing of Allie Beth Stuckey for TPUSA."
+  }
+ },
+ {
+  "claim": "C-1715",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Diarization in 38:04 block is mixed, but host introduces it as 'him discussing ... what allies you want to have when bullets are flying' and says 'to hear that from him'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-10837",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10838",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10839",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10840",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10841",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10842",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10843",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Clip says 'shortly after that happened'; a TV clip intervenes and 'that' is not clearly the pregnancy. 'after Jamie Lynn got pregnant' is an inference.",
+  "fix": {
+   "claim": "Brett Cooper (clip played) says Britney's mother wrote in her memoir Through the Storm that Lou Taylor and Britney's father had discussed putting Britney in a conservatorship \"shortly after that happened,\" around 2008."
+  }
+ },
+ {
+  "claim": "C-10844",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10845",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Jamie Spears ('Mr. Spears committed her to an eight-month tour') but Mentions omits N-253.",
+  "fix": {
+   "mentions": [
+    "N-222",
+    "N-251",
+    "N-253",
+    "N-874"
+   ]
+  }
+ },
+ {
+  "claim": "C-10846",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10847",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10848",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: 'without necessarily revealing that they're involved in those other companies'; claim drops 'necessarily' and narrows 'they' to Taylor.",
+  "fix": {
+   "claim": "The host says two other people who worked with Lou Taylor contacted her and described a system where clients had to give 10 percent to the church to be blessed and were directed to invest in other companies without necessarily being told that they were involved in those companies."
+  }
+ },
+ {
+  "claim": "C-10849",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Email text continues after 15:42; 'Glen Maxwell' = Ghislaine Maxwell.",
+  "fix": {}
+ },
+ {
+  "claim": "C-10850",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10851",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10852",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Whether the Coy 'step down' line is the host's or the email's is ambiguous; claim's split is acceptable.",
+  "fix": {}
+ },
+ {
+  "claim": "C-10853",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10854",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10855",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10856",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: 'Kanye, he said he was just reading a Bible'; the claim states the Bible reading as fact rather than Kanye's account.",
+  "fix": {
+   "claim": "The host says Britney Spears was put on a psych 5150 hold and that Kanye West, who she says said he was just reading a Bible, was put in a hospital on a psych 5150 hold, with his then-wife Kim Kardashian, she guesses, fine with it."
+  }
+ },
+ {
+  "claim": "C-10857",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10858",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10859",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10860",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10861",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10862",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10863",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: R. Todd Nielsen/Nielson (possibly R. Todd Neilson); web search found no Owens/Love link.",
+  "fix": {}
+ },
+ {
+  "claim": "C-10864",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10865",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10866",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10867",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10868",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10869",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'buying our stuff up dirt cheap' is the host's own gloss after 'That feels right to me', not part of what she says Pratt showed.",
+  "fix": {
+   "claim": "The host says she has not looked into cloud seeding or the Malibu home fires but thinks Spencer Pratt did fantastic work showing it was a government conspiracy, which she says feels right to her, like natural disasters followed by buying property dirt cheap."
+  }
+ },
+ {
+  "claim": "C-10870",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10871",
+  "episode": 32,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

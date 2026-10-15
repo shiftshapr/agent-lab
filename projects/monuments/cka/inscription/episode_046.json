@@ -1895,8 +1895,8 @@
       "@type": "Claim",
       "@id": "C-1915",
       "ref": "C-1915",
-      "label": "Erika Kirk characterized online skepticism as \"mental illness\"",
-      "claim": "In the Glenn Beck interview, Erika Kirk stated: \"I think mental illness is involved in some of this stuff that is online. I think it's really honestly I feel bad it's mental illness.\"",
+      "label": "Glenn Beck Tells Erika Kirk Some Online Content Is Mental Illness",
+      "claim": "In the Glenn Beck interview clip the host plays, Glenn Beck appears to tell Erika Kirk: \"I don't need you to comment on this, but I think mental illness is involved in some of this stuff that is online. I think it's really honestly I feel bad it's mental illness.\"",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -1947,7 +1947,7 @@
       "@type": "Claim",
       "@id": "C-1918",
       "ref": "C-1918",
-      "label": "Host Says Tyler Robinson Made First In-Person Court Appearance on December 11, 2025",
+      "label": "Host Says Tyler Robinson Made His First In-Person Court Appearance",
       "claim": "The host says Tyler Robinson finally appeared in person, making his first in-person court appearance.",
       "anchored_artifacts": [
         "A-1535.1"
@@ -1985,7 +1985,7 @@
       "@id": "C-1920",
       "ref": "C-1920",
       "label": "AllieBeth Stuckey publicly defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth",
-      "claim": "In a show clip, AllieBeth Stuckey defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations, stating she knows them personally and that they do not deserve to be \"implicated in this way\" or \"called out when they're lying.\"",
+      "claim": "In a show clip the host plays, AllieBeth Stuckey defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations, stating she knows them personally and that they do not deserve to be \"implicated in this way\"; the host then mockingly adds that they do not deserve \"to be called out when they're lying.\"",
       "anchored_artifacts": [
         "A-1537.1"
       ],
@@ -2025,7 +2025,7 @@
       "@id": "C-1922",
       "ref": "C-1922",
       "label": "Bari Weiss CBS town hall was pre-recorded with pre-selected questions (per host insider sources)",
-      "claim": "The host asserts that the Bari Weiss / Erika Kirk CBS town hall was pre-recorded in the 11:00 AM – 4:00 PM window the day prior to airing, that Bari Weiss read from a prompter, that questions were pre-selected by CBS, and that audience members were emailing the host during recording.",
+      "claim": "The host asserts that the Bari Weiss / Erika Kirk CBS town hall was pre-recorded from about 11:00 a.m. to 4:00 p.m., citing sources at CBS News; that audience members were emailing her; that there were multiple takes because Bari Weiss wanted to read a prompter; and that the questions were pre-submitted.",
       "anchored_artifacts": [
         "A-1533.1"
       ],
@@ -2033,7 +2033,7 @@
         "N-10334"
       ],
       "tags": [],
-      "claim_timestamp": "00:08:05",
+      "claim_timestamp": "00:08:10",
       "investigative_direction": "Attempt to obtain leaked production documents, backstage emails, or testimony from audience members; cross-reference against CBS's own statements about the production.",
       "mentions_person_refs": [
         "N-279",
@@ -2265,7 +2265,7 @@
       "@type": "Claim",
       "@id": "C-6685",
       "ref": "C-6685",
-      "label": "Host Says She Already Had Her Business, Book and Merch Before the Assassination",
+      "label": "Host Says She Already Had Her Business and Was at the Top of the Charts",
       "claim": "The host says she already had her business and was already at the top of the charts, rebutting the claim that she built her business on the story.",
       "anchored_artifacts": [
         "A-1533.1"
@@ -2385,7 +2385,7 @@
       "@id": "C-6690",
       "ref": "C-6690",
       "label": "Host Says She Proved Ben Shapiro's No-Bad-Blood Claim Was Not True",
-      "claim": "The host says Ben Shapiro said he and Charlie never had any bad blood, that she proved this was not true, and that Alex Clark pulled the same PR move.",
+      "claim": "The host says Ben Shapiro said he and Charlie never had any bad blood, that she proved this was not true, and that this also came from Alex Clark pulling a PR move.",
       "anchored_artifacts": [
         "A-2831.1"
       ],
@@ -3311,7 +3311,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-99",
-        "N-228"
+        "N-1"
       ]
     },
     {
@@ -3338,7 +3338,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-228"
+        "N-228",
+        "N-1"
       ]
     },
     {
@@ -3463,8 +3464,8 @@
       "@type": "Claim",
       "@id": "C-6734",
       "ref": "C-6734",
-      "label": "Host Quotes Her 2018 Text Read by Alicia Yancey and Says She Does Not Remember Saying It",
-      "claim": "The host reads Alicia Yancey's comment quoting a 2018 message in which she wrote that the story of her and CK will be one for the ages, and says she does not know where she said that.",
+      "label": "Host Reads Alicia Yancey Comment Quoting Her 2018 Words and Says She Does Not Know Where She Said It",
+      "claim": "The host reads Alicia Yancey's comment quoting something the host said in 2018, that the story of her and CK will be one for the ages, and says she does not know where she said that.",
       "anchored_artifacts": [
         "A-1538.1"
       ],
@@ -3525,7 +3526,7 @@
       "@id": "C-6737",
       "ref": "C-6737",
       "label": "Host Says Nobody in the English-Speaking World Was Talking About Brigitte Macron Before She Did",
-      "claim": "The host says nobody in the English-speaking West was talking about Brigitte before her series, and that critics now say she does it for money and clicks.",
+      "claim": "The host says nobody in the English-speaking West was talking about Brigitte before her series, and that Brigitte is saying in court that she is doing it for money and clicks.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3544,7 +3545,7 @@
       "@id": "C-6738",
       "ref": "C-6738",
       "label": "Host Says Erika's Weiss Piece Will Mention the Maroon Boys as Crazy, but Military Men Tie Maroon to the Air Force",
-      "claim": "The host says Erika Kirk's Weiss piece will also mention the maroon boys and call it crazy, while military men tell her the color represents the Air Force and the 10th Mountain Brigade, and that she is still working that angle.",
+      "claim": "The host says that apparently Erika Kirk's Weiss piece will also mention the maroon boys and call it crazy, while military men tell her the color represents the Air Force and the 10th Mountain Brigade, and that she is still working that angle.",
       "anchored_artifacts": [
         "A-2833.3"
       ],

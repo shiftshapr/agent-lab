@@ -36,7 +36,7 @@
   - Claim Range: C-1695–C-1715
   - New Nodes Introduced: N-251, N-252, N-253, N-254, N-255, N-256, N-257, N-258, N-259, N-10249, N-10250
   - Reused Nodes Appearing: N-10251, N-10252, N-10248, N-9, N-27, N-47, N-82, N-248, N-378, N-10000, N-10001, N-10094, N-10116, N-10137, N-10164, N-10180, N-10246, N-10247, N-10465, N-11223, N-360, N-11117
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
@@ -890,7 +890,7 @@ Investigative Direction: Confirm via business filings (Tri Star / Tristar) and p
 
 Claim Timestamp: 00:11:07
 
-Claim: In a clip the host plays, Brett Cooper says, citing a 2010 financial document, that Mr. Spears at times gave 10% of his conservatorship income to Calvary Chapel Brentwood, and "tens of thousands of dollars" in one year.
+Claim: In a clip the host plays, Brett Cooper reads that Mr. Spears at times gave 10% of his conservatorship income to Calvary Chapel Brentwood, and that according to a 2010 financial document he gave "tens of thousands of dollars" in one year.
 
 Anchored Artifacts: A-1399.2, A-1403.1
 Mentions: N-253, N-222
@@ -976,7 +976,7 @@ Investigative Direction: Identify sender through unredacted metadata; cross-refe
 
 Claim Timestamp: 00:21:25
 
-Claim: Per Courtney Love text messages to host (Jan 2025), she was given LSD as a toddler at the Haight-Ashbury Clinic during the era of CIA mass experimentation on hippies.
+Claim: The host says Courtney Love told her in messages (Jan 2025) that she was experimented on as a toddler at the Haight-Ashbury Clinic and was given LSD; the host describes this as the era when the CIA was dosing hippies in mass experimentation.
 
 Anchored Artifacts: A-1406.1
 Mentions: N-254
@@ -991,7 +991,7 @@ Investigative Direction: Court Love is reportedly writing a book on this topic; 
 
 Claim Timestamp: 00:22:10
 
-Claim: Per Courtney Love text messages (Jan 2025), she states she did not kill Kurt Cobain and that his death was a "psychological operation" intended to redirect public attention away from CIA activity.
+Claim: The host says Courtney Love told her in messages (Jan 2025): "I did not kill Kurt Cobain. That was a part of a psychological operation to make the masses look away from what the CIA was guilty of."
 
 Anchored Artifacts: A-1406.1
 Mentions: N-254
@@ -1107,7 +1107,7 @@ Investigative Direction: Locate the published Samir / Tuminez interview and revi
 
 Claim Timestamp: 00:45:56
 
-Claim: Per video clip played on air, Butch Hibbs remained in the background during another individual's media interview at the scene after the Kirk shooting.
+Claim: The host says that in a clip she plays, recorded at the scene after the Kirk shooting, Butch Hibbs lingers in the background while another individual is interviewed by the media, "almost as if he wants to know what that person is telling the media."
 
 Anchored Artifacts: A-1411.1
 Mentions: N-1, N-247
@@ -1135,7 +1135,7 @@ Investigative Direction: Obtain the article and verify framing language; host di
 
 Claim Timestamp: 00:56:58
 
-Claim: Per host reference, Wall Street Journal repeated the "heir apparent" framing of TPUSA succession.
+Claim: The host says the Wall Street Journal repeated the "heir apparent" framing of Allie Beth Stuckey for TPUSA.
 
 Anchored Artifacts: A-1413.1
 Mentions: N-228
@@ -1297,7 +1297,7 @@ Claim: Brett Cooper (clip played) says Jamie Spears committed Britney to an eigh
 Transcript Snippet: Tristar, that is L. Taylor's company, was hired to serve as the tour's business manager, handling its finances and accounting. And the tour grossed an estimated $130 million.
 
 Anchored Artifacts: A-1399.1
-Mentions: N-222, N-251, N-874
+Mentions: N-222, N-251, N-253, N-874
 Related Nodes: N-11276
 Tags: relevance:context
 Investigative Direction: Check conservatorship accountings for Circus tour gross and Tri Star fees.
@@ -1341,7 +1341,7 @@ Investigative Direction: Review the source's emails and backup and Potter's Fiel
 
 Claim Timestamp: 00:12:38
 
-Claim: The host says two other people who worked with Lou Taylor contacted her and described a system where clients had to give 10 percent to the church to be blessed and were directed to invest in companies without Taylor disclosing her involvement.
+Claim: The host says two other people who worked with Lou Taylor contacted her and described a system where clients had to give 10 percent to the church to be blessed and were directed to invest in other companies without necessarily being told that they were involved in those companies.
 
 Transcript Snippet: two other people reached out to me who worked with Lou Taylor and described exactly what she's referring to.
 
@@ -1469,7 +1469,7 @@ Investigative Direction: Obtain the Courtney Love messages and ask Love to confi
 
 Claim Timestamp: 00:23:03
 
-Claim: The host says Britney Spears was put on a psych 5150 hold and that Kanye West, after reading a Bible, was put in a hospital on a psych 5150 hold with his then-wife Kim Kardashian apparently fine with it.
+Claim: The host says Britney Spears was put on a psych 5150 hold and that Kanye West, who she says said he was just reading a Bible, was put in a hospital on a psych 5150 hold, with his then-wife Kim Kardashian, she guesses, fine with it.
 
 Transcript Snippet: Britney's been put on a psych 5150 hold. Kanye, he said he was just reading a Bible and Harley Pasternak and we got into his backstory and MK Ultra. uh suddenly puts him in a hospital on a psych 5150 hold and somehow his wife I guess was cool with that
 
@@ -1677,7 +1677,7 @@ Investigative Direction: Compare TPUSA mission statements and programming over t
 
 Claim Timestamp: 00:35:52
 
-Claim: The host says she has not looked into cloud seeding or the Malibu home fires but thinks Spencer Pratt did fantastic work showing it was a government conspiracy, followed by buying property cheaply.
+Claim: The host says she has not looked into cloud seeding or the Malibu home fires but thinks Spencer Pratt did fantastic work showing it was a government conspiracy, which she says feels right to her, like natural disasters followed by buying property dirt cheap.
 
 Transcript Snippet: Spencer Pratt from The Hills did some fantastic work showing up. This was actually government conspiracy.
 
@@ -1947,12 +1947,12 @@ Investigative Direction: Not independently checkable without the email.
 
 Claim Timestamp: 00:55:50
 
-Claim: The host says many Turning Point USA lies she debunked concern faith, such as that he was not allowed to be Catholic or interested in Catholicism.
+Claim: The host says many Turning Point USA lies she debunked concern faith, such as that Charlie Kirk was not allowed to be Catholic or interested in Catholicism.
 
 Transcript Snippet: so many of them surround the topic of faith, which is very strange. Like he wasn't allowed to be Catholic. he wasn't allowed to be interested in Catholicism.
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-3, N-1
 Related Nodes: N-10251, N-10164, N-10000
 Tags: relevance:core
 Investigative Direction: List the specific TPUSA statements about Kirk's Catholic interest and compare with evidence.
@@ -1990,11 +1990,11 @@ Investigative Direction: Check the Daily Mail and WSJ articles' wording and Erik
 
 ---
 
-**C-10889** Host Agrees the Opioid Crisis Followed Guarding Afghan Poppy Fields and Benefited the Sacklers
+**C-10889** Viewer Comment Says Opioid Crisis Followed Guarding Afghan Poppy Fields and Benefited the Sacklers
 
 Claim Timestamp: 00:58:20
 
-Claim: Reading a viewer comment, the host says US troops guarded the poppy fields in Afghanistan, then an opioid crisis came, and the Sackler family seems to be the only ones who benefited.
+Claim: A viewer comment the host reads says the fentanyl crisis is by design, allegedly, that US troops guarded the poppy fields in Afghanistan, then an opioid crisis came, and the Sackler family seems to be the only ones who benefited.
 
 Transcript Snippet: our boys were guarding the poppy fields and them in Afghanistan and then we got an opioid crisis and the Sackler family uh seems to be the only ones that benefited from that opioid crisis.
 

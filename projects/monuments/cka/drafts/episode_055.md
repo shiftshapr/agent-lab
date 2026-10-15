@@ -42,7 +42,7 @@
 - **Claim Range:** C-2047–C-2072
 - **New Nodes Introduced (people):**, N-438, N-439, N-440, N-441, N-442, N-443, N-444, N-445
 - **New Nodes Introduced (investigation targets):** N-10402, N-10403, N-10404, N-10405, N-10406, N-10407, N-10408
-- **Existing Nodes Reused:** Charlie Kirk, Candace Owens, Erica Kirk, Tucker Carlson, Megyn Kelly, Ben Shapiro, Dennis Prager, Netanyahu, Mark Burnett, Jordan Peterson, Nick Fuentes, Seth Dillon, Jerry Falwell Jr. (referenced by name without new ID)
+- **Existing Nodes Reused:** Charlie Kirk, Candace Owens, Erika Kirk, Tucker Carlson, Megyn Kelly, Ben Shapiro, Dennis Prager, Netanyahu, Mark Burnett, Jordan Peterson, Nick Fuentes, Seth Dillon, Jerry Falwell Jr. (referenced by name without new ID)
 
 ---
 
@@ -50,7 +50,7 @@
 
 This episode advances the series' investigation of the post-assassination public relations apparatus surrounding Turning Point USA, the Falwell Center, and the formation of Turning Point Faith. The host presents several artifact-anchored evidentiary items: a text message exchange with Andrew Kolvet concerning a dream involving Charlie Kirk; a Christianity Today article read aloud on Johnnie Moore's origins at Liberty University; a New York Times article on Japanese LDP–Unification Church ties in connection with the assassination of Shinzō Abe; an audio clip of Johnnie Moore describing his ADL and Aspen Institute involvement; a Likud Knesset speech declaring Tucker Carlson and the host as enemies of Israel; and an interview clip of Megyn Kelly discussing pressure to denounce the host.
 
-The episode's structural importance lies in the formal articulation of a "Mooney 2.0" thesis: a claimed lineage Sun Myung Moon → Ron Godwin → Johnnie Moore / Andrew Kolvet, anchored to a Sun Myung Moon audio quotation about three disciples and to Christianity Today reporting on Moore's early years at Liberty University. Several previously unexplored entities (Ron Godwin, Johnnie Moore, the Kairos Company, Mark Burnett) are introduced as candidate members of the investigative graph. Read-aloud fan comments advance an unverified thesis that Erica Kirk acted as Charlie Kirk's handler in establishing the Falwell Center.
+The episode's structural importance lies in the formal articulation of a "Mooney 2.0" thesis: a claimed lineage Sun Myung Moon → Ron Godwin → Johnnie Moore / Andrew Kolvet, anchored to a Sun Myung Moon audio quotation about three disciples and to Christianity Today reporting on Moore's early years at Liberty University. Several previously unexplored entities (Ron Godwin, Johnnie Moore, the Kairos Company, Mark Burnett) are introduced as candidate members of the investigative graph. Read-aloud fan comments advance an unverified thesis that Erika Kirk acted as Charlie Kirk's handler in establishing the Falwell Center.
 
 ---
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:46:41–00:47:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (anonymous social commentary)
 
-*Related: C-2061, Erica Kirk, N-10403*
+*Related: C-2061, Erika Kirk, N-10403*
 
 **A-1613.2** Comment from user "Natty Nicole": expressing being heartbroken and asking how Andrew Kolvet sleeps at night
 
@@ -405,7 +405,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-2071, C-2072, N-438, Erica Kirk*
+*Related: C-2071, C-2072, N-438, Erika Kirk*
 
 ---
 
@@ -476,14 +476,14 @@ Investigative Pressure: High
 
 **N-10403** Erika Kirk Handler Thesis
 
-Persistent investigative target tracking the claim (originating in fan comment) that Erica Kirk acted as Charlie Kirk's handler and was instrumental in establishing the Falwell Center.
+Persistent investigative target tracking the claim (originating in fan comment) that Erika Kirk acted as Charlie Kirk's handler and was instrumental in establishing the Falwell Center.
 
 Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1613.1, C-2061, Erica Kirk*
+*Related: A-1613.1, C-2061, Erika Kirk*
 
 ---
 
@@ -736,7 +736,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10378** Andrew Kolbet Coordination with Attackers of Mitch Snow
+**N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow
 
 Existing topic reused for new claims in this episode.
 
@@ -1082,7 +1082,7 @@ Mentions: N-1, N-2
 
 Related Nodes: N-10403
 
-Investigative Direction: Requires corroboration through independent sources documenting Erica Kirk's professional role in establishing the Falwell Center. Flag as currently unsubstantiated beyond fan commentary.
+Investigative Direction: Requires corroboration through independent sources documenting Erika Kirk's professional role in establishing the Falwell Center. Flag as currently unsubstantiated beyond fan commentary.
 
 ---
 
@@ -2777,4 +2777,4 @@ Confidence: high
 - **Requires human verification:** C-2071, C-2072 (Mark Burnett Hollywood employment and MGM chairmanship) – host assertions without supporting artifact.
 - **Requires human verification:** C-2074 (Turning Point USA estate solicitation) – host assertion without supporting artifact; comparison to Japan Unification Church pattern is interpretive.
 - **Claim failed admission test – interpretive commentary:** Multiple host framing claims about Moonies lineage (C-2055/C-2056) are anchored to a single read-aloud quote; full lineage interpretation remains interpretive, even with the artifact.
-- **Claim failed admission test – unsupported allegation:** C-2061 (Erica Kirk handler thesis) is anchored only to a fan comment (A-1613.1); no documentary artifact supports the handler claim.
+- **Claim failed admission test – unsupported allegation:** C-2061 (Erika Kirk handler thesis) is anchored only to a fan comment (A-1613.1); no documentary artifact supports the handler claim.

@@ -1543,7 +1543,7 @@
       "@id": "C-1872",
       "ref": "C-1872",
       "label": "Clip the Host Plays Shows Jesse Kege / One Shot TV 180gr FMJ .30-06 Round Fully Penetrating Ballistic Dummy and Three 5-Gallon Water Jugs",
-      "claim": "In a video the host plays, YouTuber Jesse Kege of One Shot TV demonstrates a 180gr FMJ .30-06 round penetrating a ballistic dummy, separating its head, and continuing through three 5-gallon water jugs placed behind; the host cites this as showing what the round would have done to Charlie Kirk.",
+      "claim": "In a video the host plays, YouTuber Jesse Kege of One Shot TV, after introducing a 180gr FMJ and a 150gr Hornady ballistic tip .30-06 round, fires at a ballistic dummy whose head falls off and penetrates the water jugs placed behind it; the host cites this as showing what the round would have done to Charlie Kirk.",
       "anchored_artifacts": [
         "A-1516.1"
       ],
@@ -1554,7 +1554,8 @@
       "claim_timestamp": "00:32:46–00:33:21",
       "investigative_direction": "Obtain the full One Shot TV video, including any second-round test (150gr Hornady ballistic tip), and verify the exact penetration result shown.",
       "mentions_person_refs": [
-        "N-317"
+        "N-317",
+        "N-1"
       ]
     },
     {
@@ -1581,7 +1582,7 @@
       "@id": "C-1874",
       "ref": "C-1874",
       "label": "The Hodge Twins publicly stated that Republicans will lose midterms because no deep state criminals have been held accountable",
-      "claim": "According to a tweet from the Hodge Twins read aloud by the host, Republicans will lose midterms because no deep state criminals have been held accountable, money is sent to corrupt foreign countries, and establishment figures are being promoted.",
+      "claim": "According to a tweet from the Hodge Twins read aloud by the host, Republicans will lose midterms because no deep state criminals have been held accountable, money is sent to corrupt foreign countries, and traitors like Lindsey Graham are getting promoted.",
       "anchored_artifacts": [
         "A-1517.1"
       ],
@@ -1681,7 +1682,9 @@
       "tags": [],
       "claim_timestamp": "00:37:36–00:41:02",
       "investigative_direction": "Cross-reference against depositions, congressional testimony, and investigative reporting.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",

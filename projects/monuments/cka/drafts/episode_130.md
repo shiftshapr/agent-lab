@@ -24,7 +24,7 @@
 
 Episode 130 is structured in three main blocks. In the first block, the host introduces historical background on the term "Mormon Mafia," tracing it from the late-career years of Howard Hughes, and uses this to frame claims about LDS influence inside Turning Point USA's inner circle. This block draws on three read-aloud/displayed sources: a New York Times article on letter bombs sent to President Truman (A-2171.1), a Wikipedia entry on the Canaanite movement (A-2172.1), and a 1976 Time magazine article titled "The Keepers of the King" (A-2173.1).
 
-In the second block, the host responds to a public X post by Andrew Kolvet (A-2174.1) accusing her of authoring the Daily Mail article quoting Erica Kirk as referring to her as a "soulless ghoul." She contests his claims using a previously displayed Daily Mail comment-request email (A-2175.1, verbally referenced in this episode only).
+In the second block, the host responds to a public X post by Andrew Kolvet (A-2174.1) accusing her of authoring the Daily Mail article quoting Erika Kirk as referring to her as a "soulless ghoul." She contests his claims using a previously displayed Daily Mail comment-request email (A-2175.1, verbally referenced in this episode only).
 
 In the third block, the host responds to viewer emails about the 9/10 phone-call/SUV material, including playing an interview clip with Blake Neff (A-2176.1) discussing his phone use and reading a seamstress email (A-2177.1) reinterpreting the burned item as a shirt. The episode closes with a viewer-comments section (A-2179) and a compilation-video clip (A-2178.1) showing Charlie Kirk describing his views on loyal friendship.
 

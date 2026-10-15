@@ -1,0 +1,755 @@
+[
+ {
+  "claim": "C-5409",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5410",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5411",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5412",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5413",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5414",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5415",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5416",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5417",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5418",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim omits who sued; label names Shapiro, consistent with 'you heard him on stage... You fired me'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-5419",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1989",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip says 'This turning point kind of abomination' and 'the right wing of this country has turned into like a bad reality show'; 'right wing abomination' is not a phrase he uses.",
+  "fix": {
+   "claim": "In a clip the host plays, comedian Tim Dillon calls Turning Point USA's AmFest event a \"turning point kind of abomination\" and says the right wing of the country has turned into \"like a bad reality show.\"",
+   "label": "Tim Dillon Comedy Clip Calls Turning Point USA's AmFest an \"Abomination\" and Says the Right Has Become a \"Bad Reality Show\""
+  }
+ },
+ {
+  "claim": "C-1990",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip: 'she walks out to a pyrotechnic display and then she goes, \"We're going to elect J. D. Vance.\"' 'Immediately' is added; name spelled Erica for Erika.",
+  "fix": {
+   "claim": "In a clip the host plays, comedian Tim Dillon observes that Erika Kirk walked out to a pyrotechnic display in a glittering pantsuit three months after Charlie Kirk's killing and then talked about electing J. D. Vance.",
+   "label": "Tim Dillon Clip Notes Erika Kirk Walking to Pyrotechnic Display in Glittering Pantsuit Three Months After Husband's Death"
+  }
+ },
+ {
+  "claim": "C-1991",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Reporter says 'where Charlie Kirk lost his life at Utah University um in September'; 'Utah Valley University' is not what is said.",
+  "fix": {
+   "claim": "In a clip the host plays, an on-scene reporter at AmFest says, with the tent visible behind her, that it is a recreation of the tent in which Charlie Kirk lost his life at \"Utah University\" in September, and that people are taking selfies with it."
+  }
+ },
+ {
+  "claim": "C-1992",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1993",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip says 'culture of nothingness' and 'has produced slop'; 'emptiness' does not occur anywhere in the episode transcript. Timestamp borderline: denial passage ~22:50.",
+  "fix": {
+   "claim": "In a clip the host plays, comedian Tim Dillon asserts that contemporary culture is the product of denial of elite pedophilia and that this denial has produced \"slop\" and a culture of \"nothingness.\""
+  }
+ },
+ {
+  "claim": "C-1994",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1995",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1996",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The Mitch Snow link is the host's framing ('And this is over Meeks Snow'); the clip does not mention Mitch or name Candace. 'InfoWars' is not said; host says 'went on to his show'.",
+  "fix": {
+   "claim": "In a clip the host plays from what she says is Alex Jones's show, Jones calls a woman he says he should have investigated a \"globalist agent\" and says \"you want a war, I want your war\"; the host says this is Jones declaring war on her over Mitch Snow."
+  }
+ },
+ {
+  "claim": "C-1997",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Name spelled Erica for Erika; otherwise matches clip ('Apparently I wasn't supposed to share that... Sorry Andrew, I screwed that up').",
+  "fix": {
+   "claim": "A Paramount Tactical Valhalla livestream segment played on air shows the host reading written instructions from Andrew Kolvet providing an alibi for Erika Kirk on the morning of September 9, then saying \"Sorry Andrew, I screwed that up\" after sharing content he was told not to share.",
+   "label": "Paramount Tactical Valhalla Stream Clip Shows Host Reading Andrew Kolvet's Instructions Providing Erika Kirk's September 9 Alibi"
+  }
+ },
+ {
+  "claim": "C-1998",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1999",
+  "episode": 51,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Stated as fact; the host reports it: 'a bunch of people were messaging me saying that The Daily Wire had brought back my old YouTube channel... Apparently, they just privatized it'.",
+  "fix": {
+   "claim": "The host says people messaged her that The Daily Wire had brought back her old YouTube channel, which she says it had apparently privatized, and her old Instagram account, and premiered her trailer from when she joined The Daily Wire (with a front card saying it was shot in 2021) on those channels."
+  }
+ },
+ {
+  "claim": "C-2000",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Edison comment is read at the start of the [01:06:25] block (~01:06:30); 01:07:04 is ~34s after.",
+  "fix": {
+   "timestamp": "01:06:25"
+  }
+ },
+ {
+  "claim": "C-2001",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2002",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim spells the name both Kolvet and 'Kolbet'. Host: 'I confirmed that Andrew had been communicating with Alex Jones directly' and 'I was left under the impression... Andrew Kolvet had gone rogue'.",
+  "fix": {
+   "claim": "The host asserts on air that the Paramount Tactical Valhalla stream's accidental exposure of Andrew Kolvet's written instructions confirms coordination between Andrew Kolvet and the parties attacking Mitch Snow, undermining the prior \"Andrew went rogue\" narrative."
+  }
+ },
+ {
+  "claim": "C-6742",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6743",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6744",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6745",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says 'Elizabeth McCoy'; listed as alias of N-218 Eliza McCoy.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6746",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6747",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6748",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6749",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6750",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6751",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6752",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Madison Brandford (host later calls her 'young Maddie'; web search found no confirmed surname).",
+  "fix": {}
+ },
+ {
+  "claim": "C-6753",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Madison Brandford. Show title heard as 'In the Know No'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6754",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6755",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6756",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6757",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6758",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6759",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6760",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6761",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Content at ~39:40, about 72s after timestamp; within limit.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6762",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6763",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6764",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6765",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6766",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6767",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6768",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6769",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6770",
+  "episode": 51,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'he doesn't have a secret security clearance' is the son; after '>>' another speaker (the interviewer) says 'Or if he does walk into the joint task force staff duty... I don't even know if this report is real'.",
+  "fix": {
+   "claim": "In the clip, the son says Mitch lacks a secret security clearance, and the interviewer then says that if Mitch walked into the joint task force staff duty he might end up detained with canines called on him as per the report, adding he does not know whether the report is real.",
+   "label": "Interviewer in Son Clip Says Mitch Could Be Detained With Canines Called If He Entered JTF Staff Duty, per the Report"
+  }
+ },
+ {
+  "claim": "C-6771",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6772",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6773",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Mentions includes N-14 Andrew Kolvet, but neither the claim nor the label names or refers to him.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-6774",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Mentions includes N-14 Andrew Kolvet, but neither the claim nor the label names or refers to him ('Sorry Andrew' is not in the claim).",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-6775",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6776",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

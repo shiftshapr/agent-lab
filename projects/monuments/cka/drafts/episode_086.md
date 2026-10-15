@@ -38,7 +38,7 @@
 - Claim Range: C-2609–C-2625, C-3750
 - New People Nodes Introduced: none (Wave 2: local ids removed)
 - New Investigation Target Nodes Introduced: N-10569, N-10570, N-10571, N-10572
-- Existing Nodes Reused: Charlie Kirk, Erica Kirk, Candace Owens, Tyler Robinson, Tarro Farnsworth, Andrew Kolvet, Dr. Lee Trotter, Justin Streiff, Frank Carney, Matt Robinson, Robinson roommate, FBI, ATF, Turning Point USA, Utah County Attorney's Office (UCAO), Kash Patel, Governor Cox
+- Existing Nodes Reused: Charlie Kirk, Erika Kirk, Candace Owens, Tyler Robinson, Tarro Farnsworth, Andrew Kolvet, Dr. Lee Trotter, Justin Streiff, Frank Carney, Matt Robinson, Robinson roommate, FBI, ATF, Turning Point USA, Utah County Attorney's Office (UCAO), Kash Patel, Governor Cox
 
 ---
 
@@ -237,7 +237,7 @@ Investigative Pressure: High
 
 **N-10571** July 14, 2025 Long Beach Flight
 
-Investigation target referenced by host as a "crucial date" tied to a flight involving Erica Kirk, Katherine Low Castro, Derek Niekerk, and Jonathan Barcelo to Long Beach; viewer email adds geographic context via proximity to Los Alamitos Joint Forces Air Base.
+Investigation target referenced by host as a "crucial date" tied to a flight involving Erika Kirk, Katherine Low Castro, Derek Niekerk, and Jonathan Barcelo to Long Beach; viewer email adds geographic context via proximity to Los Alamitos Joint Forces Air Base.
 
 Evidence Count: 1
 Claim Count: 1

@@ -13,7 +13,7 @@
     "transcript_sha256": "24dc527071bb4996347a4421cf2c9457ed4da7b0f003289f3d1967ed8acdf2bd",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "Episode 62 advances the Bride of Charlie series along three investigative axes: (1) donor pressure on Charlie Kirk, anchored by a full read-aloud of a text message Charlie received from a self-identified Christian Zionist donor, with on-air confirmation of its authenticity by Jaco Booyens and Erica Kirk; (2) the Lori Frantzve / Larry Guinta business network, specifically a 2017 Arizona LLC called Desert Spirit Tech formed on a Tohono O'odham reservation address with Lyle and Shelly Reems, where Lyle Reems carries a 1998 indictment for sexual conduct with a minor under 15 that was dismissed without prejudice in 1999; and (3) the ongoing Turning Point USA employee terminations, anchored by an on-air audio recording of a termination meeting in which an employee is repeatedly told only that the organization is \"going in a different direction\" after working 80–90 hour weeks. A 2018 Tyler Bowyer tweet asserting TPUSA runs \"like a military op\" with personnel from that background is displayed and used to re-anchor prior host claims about military infiltration.\n\nThe episode's structural importance lies in coupling first-person testimonials with primary documents (court records, LLC filings, social media posts, termination audio) on the same evidentiary surface, while continuing the Lori Frantzve business-entity thread opened in earlier episodes.\n\n---",
+  "executive_summary": "Episode 62 advances the Bride of Charlie series along three investigative axes: (1) donor pressure on Charlie Kirk, anchored by a full read-aloud of a text message Charlie received from a self-identified Christian Zionist donor, with on-air confirmation of its authenticity by Jaco Booyens and Erika Kirk; (2) the Lori Frantzve / Larry Guinta business network, specifically a 2017 Arizona LLC called Desert Spirit Tech formed on a Tohono O'odham reservation address with Lyle and Shelly Reems, where Lyle Reems carries a 1998 indictment for sexual conduct with a minor under 15 that was dismissed without prejudice in 1999; and (3) the ongoing Turning Point USA employee terminations, anchored by an on-air audio recording of a termination meeting in which an employee is repeatedly told only that the organization is \"going in a different direction\" after working 80–90 hour weeks. A 2018 Tyler Bowyer tweet asserting TPUSA runs \"like a military op\" with personnel from that background is displayed and used to re-anchor prior host claims about military infiltration.\n\nThe episode's structural importance lies in coupling first-person testimonials with primary documents (court records, LLC filings, social media posts, termination audio) on the same evidentiary surface, while continuing the Lori Frantzve business-entity thread opened in earlier episodes.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -418,7 +418,7 @@
       "ref": "N-490",
       "name": "Lori Frantzve",
       "type": "person",
-      "description": "Erica Kirk's mother; 20% stakeholder of record in Desert Spirit Tech LLC; co-filer of Euro Tech in Cincinnati, Ohio.",
+      "description": "Erika Kirk's mother; 20% stakeholder of record in Desert Spirit Tech LLC; co-filer of Euro Tech in Cincinnati, Ohio.",
       "related_artifacts": [
         "A-1671.1",
         "A-1671.2"
@@ -444,7 +444,7 @@
       "ref": "N-388",
       "name": "Larry Guinta",
       "type": "person",
-      "description": "Erica Kirk's stepfather; listed as stakeholder and registered agent of Desert Spirit Tech LLC.",
+      "description": "Erika Kirk's stepfather; listed as stakeholder and registered agent of Desert Spirit Tech LLC.",
       "related_artifacts": [
         "A-1671.1",
         "A-1671.2"
@@ -1401,15 +1401,15 @@
       "@type": "Claim",
       "@id": "C-2183",
       "ref": "C-2183",
-      "label": "Jaco Booyens and Erica Kirk confirmed the authenticity of the text message",
-      "claim": "Host states that Jaco Booyens and Erica Kirk can confirm the text message to Charlie Kirk is real.",
+      "label": "Jaco Booyens and Erika Kirk confirmed the authenticity of the text message",
+      "claim": "Host states that Jaco Booyens and Erika Kirk can confirm the text message to Charlie Kirk is real.",
       "anchored_artifacts": [
         "A-1669.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:07:27",
-      "investigative_direction": "Obtain on-record confirmation from Jaco Booyens and/or Erica Kirk independent of the host.",
+      "investigative_direction": "Obtain on-record confirmation from Jaco Booyens and/or Erika Kirk independent of the host.",
       "mentions_person_refs": [
         "N-1",
         "N-2",

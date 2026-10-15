@@ -1700,7 +1700,8 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-260"
+        "N-260",
+        "N-1"
       ]
     },
     {
@@ -1891,7 +1892,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:34:07–00:35:11",
-      "investigative_direction": "Verify directly against IRS Tax-Exempt Organization Search; confirm filing status and any subsequent late filings."
+      "investigative_direction": "Verify directly against IRS Tax-Exempt Organization Search; confirm filing status and any subsequent late filings.",
+      "mentions_person_refs": [
+        "N-473"
+      ]
     },
     {
       "@type": "Claim",
@@ -1907,7 +1911,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:29–00:39:37",
-      "investigative_direction": "Verify the Schedule I line item against the filed Form 990; trace how the funds were recorded (or not recorded) on the recipient entity's filings."
+      "investigative_direction": "Verify the Schedule I line item against the filed Form 990; trace how the funds were recorded (or not recorded) on the recipient entity's filings.",
+      "mentions_person_refs": [
+        "N-473"
+      ]
     },
     {
       "@type": "Claim",
@@ -1926,7 +1933,8 @@
       "claim_timestamp": "00:35:11–00:36:30",
       "investigative_direction": "Obtain dated documentation of Charlie Kirk's audit request and COO appointment; cross-reference against IRS filing deadline.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-473"
       ]
     },
     {
@@ -1943,7 +1951,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:43:40",
-      "investigative_direction": "Verify the staff-count and salary figures directly against the relevant Form 990 Schedule J and Part VII."
+      "investigative_direction": "Verify the staff-count and salary figures directly against the relevant Form 990 Schedule J and Part VII.",
+      "mentions_person_refs": [
+        "N-473"
+      ]
     },
     {
       "@type": "Claim",
@@ -1962,7 +1973,8 @@
       "investigative_direction": "Verify the appointment date via Turning Point USA press release, IRS Form 990 changes, or state filing records.",
       "mentions_person_refs": [
         "N-1",
-        "N-2"
+        "N-2",
+        "N-473"
       ]
     },
     {
@@ -2058,7 +2070,7 @@
       "@id": "C-3735",
       "ref": "C-3735",
       "label": "Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City",
-      "claim": "Host states that Charlie Kirk flew into Salt Lake City rather than the closer Provo airport on September 10, ostensibly because of a morning \"restaurantology\" interview with Andrew K. Smith, whom she describes as a managing director of a restaurant fund that nobody really knows.",
+      "claim": "Host states that Charlie Kirk flew into Salt Lake City rather than the closer Provo airport on September 10, ostensibly because of a morning \"restaurantology\" interview with Andrew K. Smith, whom she describes as a person nobody really knows and a managing director of a restaurant fund.",
       "anchored_artifacts": [
         "A-1424.2"
       ],
@@ -2266,7 +2278,8 @@
       "mentions_person_refs": [
         "N-260",
         "N-2",
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -2296,7 +2309,7 @@
       "@id": "C-12360",
       "ref": "C-12360",
       "label": "Host Says Ben Shapiro Was Sent Out to Make the Same Alleged Accusation About Erika",
-      "claim": "The host says that after her plane work, TPUSA-aligned influencers 'sent mother mocking bird out, Ben Shapiro' to allege that she had said something specifically about Erika when she had not.",
+      "claim": "The host says that after her plane work struck 'even more fear into the nest of mocking birds', 'they sent mother mocking bird out, Ben Shapiro' to allege that she had said something specifically about Erika when she had not.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10237"
@@ -2685,7 +2698,7 @@
       "@id": "C-12377",
       "ref": "C-12377",
       "label": "Host Says the Egyptian Planes Were Known to Turning Point USA",
-      "claim": "The host says the Egyptian planes were known to Turning Point USA and that TPUSA chose to stay silent about why they were on the ground on the day of the assassination.",
+      "claim": "The host says the Egyptian planes were known to Turning Point USA, that everyone deserves to know why they were on the ground that day, and that TPUSA chose to stay silent while influencers and publications attacked her for mentioning the planes.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -3469,7 +3482,7 @@
       "@id": "C-12412",
       "ref": "C-12412",
       "label": "Host Says the Feds Are Trying to Cover Everything and Asks for More Tips",
-      "claim": "The host says the feds are trying to cover everything and asks the audience for tips at her tip address, saying somebody saw something and has the license plate numbers.",
+      "claim": "The host says the feds are trying to cover everything and asks the audience for tips at her tip address, saying somebody saw something and that the audience now has the license plate numbers.",
       "anchored_artifacts": [
         "A-3202.3"
       ],

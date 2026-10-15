@@ -37,7 +37,7 @@
 - Claim Range: C-3513 – C-3530
 - New Nodes Introduced (people): none (Wave 2: local ids removed)
 - New Nodes Introduced (investigation targets): N-10847, N-10848, N-10849, N-10850
-- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens, N-? Tyler Robinson, N-? David Hull, N-? Agent Mortensson, N-? Officer Goforth, N-? Miss Noble, N-? Lance (Robinson's boyfriend), N-? Tucker Carlson, N-? Mikey McCoy, N-? Brett Cooper, N-? Frank Turek, N-? Andrew Kolvit (transcript variant: "Kulevit")
+- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-? Tyler Robinson, N-? David Hull, N-? Agent Mortensson, N-? Officer Goforth, N-? Miss Noble, N-? Lance (Robinson's boyfriend), N-? Tucker Carlson, N-? Mikey McCoy, N-? Brett Cooper, N-? Frank Turek, N-? Andrew Kolvit (transcript variant: "Kulevit")
 
 ---
 
@@ -692,7 +692,7 @@ Investigative Direction: Obtain the full released episode and compare its conten
 
 Claim Timestamp: 00:33:23–00:36:12
 
-Claim: Bobby Sausalito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erica Kirk, Mikey McCoy, Frank Turek), and calls for lawsuits/jail time against the host.
+Claim: Bobby Sausalito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erika Kirk, Mikey McCoy, Frank Turek), and calls for lawsuits/jail time against the host.
 
 Anchored Artifacts: A-2406.1
 Mentions: N-901, N-160, N-367, N-22, N-3, N-191, N-2, N-7
@@ -2045,7 +2045,7 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Name uncertainty:** Transcript renders the podcaster's name inconsistently – "Blake Neff" in the show title and at 36:51; "Blake Neff" elsewhere in the transcript body (e.g., 00:46, 29:12, 33:23, 40:52); "Blake Snuff" appears as Bobby Sausalito's pronunciation/joke (33:23). Title spelling "Neff" used here pending verification.
-- **Name uncertainty:** "Erica Kirk" appears as "Erika Kirk" at multiple points (e.g., 31:12, 36:12). Both spellings preserved where appearing.
+- **Name uncertainty:** "Erika Kirk" appears as "Erika Kirk" at multiple points (e.g., 31:12, 36:12). Both spellings preserved where appearing.
 - **Name uncertainty:** "Officer Goforth" appears with varying spacing/capitalization (sometimes "Goforth"). Preserved as transcribed.
 - **Name uncertainty:** "Andrew Kolvit" appears as "Andrew Kulevit" / "Kulvit" at varying points. Preserved as transcribed.
 - **Artifact verbally referenced but not shown:** A-2413.3 (Waluigi admin-lot footage), A-2414.1 (Sept 15 search warrant), A-2415.1 (Hull preliminary-hearing testimony) – none displayed in this episode; described by host.

@@ -848,7 +848,7 @@ Existing topic reused for the 2010 Romania claims.
 
 ---
 
-**N-10532** Next Model Management / Erica Kirk Connection
+**N-10532** Next Model Management / Erika Kirk Connection
 
 Existing topic reused for new claims in this episode.
 
@@ -864,7 +864,7 @@ Existing topic reused for the host's Epstein Fury remark.
 
 ---
 
-**N-10698** Next Model Management / MC2 Trafficking Connection to Erica Kirk
+**N-10698** Next Model Management / MC2 Trafficking Connection to Erika Kirk
 
 Existing topic reused for new claims in this episode.
 

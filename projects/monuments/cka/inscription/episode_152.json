@@ -272,7 +272,7 @@
           "@type": "Artifact",
           "@id": "A-2382.1",
           "ref": "A-2382.1",
-          "description": "Spreadsheet displayed on-screen listing individuals/entities associated with both TPUSA/Erica Kirk's circle and trafficking or child sex abuse cases",
+          "description": "Spreadsheet displayed on-screen listing individuals/entities associated with both TPUSA/Erika Kirk's circle and trafficking or child sex abuse cases",
           "related_claims": [
             "C-3460"
           ],
@@ -1003,7 +1003,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10698",
       "ref": "N-10698",
-      "name": "Next Model Management / MC2 Trafficking Connection to Erica Kirk",
+      "name": "Next Model Management / MC2 Trafficking Connection to Erika Kirk",
       "type": "investigation_target",
       "description": "Existing topic reused for the modeling apartments claims.",
       "related_artifacts": [],
@@ -2294,7 +2294,7 @@
       "@id": "C-3460",
       "ref": "C-3460",
       "label": "Multiple TPUSA-adjacent individuals and entities share documented connections to trafficking / child sex abuse cases",
-      "claim": "The episode displays a spreadsheet and host narration enumerating over fifteen individuals / entities linked to TPUSA or Erica Kirk's circle who have documented connections to trafficking, child sex abuse investigations, or related operations.",
+      "claim": "The episode displays a spreadsheet and host narration enumerating over fifteen individuals / entities linked to TPUSA or Erika Kirk's circle who have documented connections to trafficking, child sex abuse investigations, or related operations.",
       "anchored_artifacts": [
         "A-2382.1"
       ],

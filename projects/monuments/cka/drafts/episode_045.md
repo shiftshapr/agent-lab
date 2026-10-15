@@ -41,7 +41,7 @@
 - Claim Range: C-1897–C-1911
   - New Nodes Introduced: N-10332, N-10333
   - Reused Nodes Appearing: N-2, N-16, N-67, N-17, N-46, N-55, N-160, N-191, N-221, N-267, N-268, N-279, N-10000, N-10006, N-10014, N-10025, N-10026, N-10197, N-10201, N-10253, N-10290, N-10326, N-11097, N-10334
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and references to other recurring figures by name (Tucker Carlson, Theo Von, Harris Faulkner, Sergio Gor, Bari Weiss, Milo Yiannopoulos, Blake Neff, Harry, Brian Harpole, Rob McCoy, Mikey, Josh Hammer, Pam Bondi, Tim Pool, Jordan Peterson, Bethany Frankel, Mark, Tara Cross)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and references to other recurring figures by name (Tucker Carlson, Theo Von, Harris Faulkner, Sergio Gor, Bari Weiss, Milo Yiannopoulos, Blake Neff, Harry, Brian Harpole, Rob McCoy, Mikey, Josh Hammer, Pam Bondi, Tim Pool, Jordan Peterson, Bethany Frankel, Mark, Tara Cross)
 
 ---
 
@@ -615,7 +615,7 @@ Erika Kirk's statement at the Bari Weiss town hall, as reported by the host, tha
 
 Claim Timestamp: 00:03:31
 
-Claim: Erika Kirk asked the public to allow her family privacy regarding the location where Charlie Kirk is buried, citing the need to protect her children, in-laws, and parents, and announced plans for a "museum style" memorial at Turning Point USA.
+Claim: In a Harris Faulkner interview clip the host plays, Erika Kirk asks that her family be allowed to keep private where Charlie Kirk is laid to rest, saying she wants one thing kept sacred to her family, in-laws, children and parents, and says a "museum style" memorial will be built at Turning Point USA.
 
 Anchored Artifacts: A-1525.1
 Mentions: N-2, N-1
@@ -639,7 +639,7 @@ Investigative Direction: Compile catalog of identified TPUSA staff statements th
 
 **C-1899** Erika Kirk published casket video on Instagram
 
-Claim Timestamp: 00:06:28
+Claim Timestamp: 00:05:53
 
 Claim: The host says Erika Kirk had someone record her over Charlie Kirk's casket and published the video on Instagram; in the clip the host plays, a voice says "I love you, I love you, I love you" and another "I love you, I love you, God bless you."
 
@@ -667,7 +667,7 @@ Investigative Direction: Cross-reference ceremony date with Erika Kirk's public 
 
 Claim Timestamp: 00:24:32
 
-Claim: Tucker Carlson, on the Theo Von podcast, stated that Egyptian-registered aircraft had been following Erika Kirk in multiple places around the world for years, and characterized the claim as "factually true."
+Claim: In a Theo Von podcast clip the host plays, Tucker Carlson says that the host's claim that Egyptian-registered aircraft were following Erika Kirk around for a number of years in different places in the world is "factually true," while saying he does not know what it means.
 
 Anchored Artifacts: A-1528.1
 Mentions: N-2, N-22, N-147
@@ -704,7 +704,7 @@ Investigative Direction: Use archived X searches and Wayback Machine to recover 
 
 **C-1904** Tucker Carlson expresses lack of confidence in FBI leadership
 
-Claim Timestamp: 00:29:23
+Claim Timestamp: 00:25:30
 
 Claim: Tucker Carlson stated he does not have a ton of confidence in the FBI or the men who run it; later, asking why the FBI will not explain, he said "You've told the world that you have both a confession from him in his text to his boyfriend and the murder weapon with his fingerprints on it. I think you got a pretty solid case."
 
@@ -733,7 +733,7 @@ Investigative Direction: Cross-reference with ADS-B Exchange historical archives
 
 Claim Timestamp: 00:48:38
 
-Claim: The flight's call sign changed from RCH (Reach) to SAM (Special Air Mission) after departing Fort Huachuca, which according to on-air flight analyst Mark indicates that someone of senior executive-branch, cabinet, congressional-delegation, or vice-presidential stature was picked up at Fort Huachuca.
+Claim: The flight's call sign changed from RCH (Reach) to SAM (Special Air Mission) after departing Fort Huachuca, which according to the show's director Mark, speaking on air, indicates that someone of senior executive-branch, cabinet, congressional-delegation, or vice-presidential stature was picked up at Fort Huachuca.
 
 Anchored Artifacts: A-1530.1
 Mentions: N-67
@@ -760,7 +760,7 @@ Investigative Direction: Verify Adam Nef's command assignment through official A
 
 Claim Timestamp: 00:40:52
 
-Claim: The host says, citing people she says are currently stationed on the base and an email she reads, that Joint Task Force at Fort Huachuca operates out of an unmarked building converted to a Sensitive Compartmented Information Facility (SCIF), now surrounded by barbed wire, with cell phones and personal electronics prohibited and top secret clearance required for access.
+Claim: The host says, citing people she says are currently stationed on the base and an email she reads, that Joint Task Force at Fort Huachuca operates out of an unmarked building converted to a Sensitive Compartmented Information Facility (SCIF), now surrounded by barbed wire, with cell phones and personal electronics prohibited unless government issued and top clearance required for access.
 
 Anchored Artifacts: A-1532.1
 Related Nodes:
@@ -786,7 +786,7 @@ Investigative Direction: Identify the specific Candlewood Suites property, send 
 
 Claim Timestamp: 00:46:20
 
-Claim: According to the tipster email, Pam Bondi used USAF C37A Gulfstream V (tail 99-044) approximately five months earlier, flying from the Tampa area back to Washington, DC.
+Claim: According to the tipster email the host reads, it appears that Pam Bondi used USAF C37A Gulfstream V (tail 99-044) approximately five months earlier, flying from the Tampa area back to Washington, DC.
 
 Anchored Artifacts: A-1529.1
 Mentions: N-85
@@ -796,14 +796,14 @@ Investigative Direction: Cross-reference with publicly available Pam Bondi trave
 
 ---
 
-**C-1911** Host concurs with critiques that Erika's moral outrage is manufactured for elite audiences and that criticism of Jews is not inherently antisemitic
+**C-1911** Host Agrees With Viewer Comments on Criticizing Corrupt Jews and Erika's Elite-Audience Outrage
 
 Claim Timestamp: 00:55:39
 
-Claim: The host explicitly agrees with Merryill Gerston Meyer's thesis that Erika Kirk's moral outrage is manufactured for an elite target audience rather than grassroots supporters, and with Laughing Cats Music World's thesis that criticism of corrupt Jewish actors is distinct from antisemitism.
+Claim: The host agrees with a viewer comment from Laughing Cats Music World that corrupt Jews can be criticized without blanket antisemitism, saying "you are absolutely on the money"; later she agrees with a comment from Merryill Gerston Meyer that Erika Kirk's moral outrage seems manufactured for an elite target audience rather than normal folks who want to solve the murder, saying "I would say it feels elite."
 
 Anchored Artifacts: A-1531.2, A-1531.4
-Mentions: N-2
+Mentions: N-3, N-2
 
 Investigative Direction: Track pattern of Erika Kirk's public appearances to determine whether audience composition supports or contradicts the elite-audience thesis.
 
@@ -1266,7 +1266,7 @@ Investigative Direction: Obtain the town hall footage and exact wording of Weiss
 
 Claim Timestamp: 00:37:01
 
-Claim: The host says Erika Kirk, not speaking about the host, talked about Israel and said good things about Jews and how TPUSA is having Shabbat dinner.
+Claim: The host says Erika Kirk, not speaking about the host, talked at the Bari Weiss town hall about Israel and said good things about Jews and how TPUSA is having Shabbat dinner.
 
 Transcript Snippet: she talked about Israel and said good things about Jews and how TPUSA is having Shabbat dinner.
 
@@ -1719,7 +1719,7 @@ Claim: The host says she said she had information about the French Foreign Legio
 Transcript Snippet: the feds have not reached out to me.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2
+Mentions: N-3, N-1
 Related Nodes: N-10290
 Supports: C-5125
 Tags: relevance:core
@@ -1731,7 +1731,7 @@ Investigative Direction: Ask the FBI whether it has contacted the host about her
 
 Claim Timestamp: 00:56:56
 
-Claim: The host says that, instead of being concerned about the Egyptian planes a podcaster found, they (the Turning Point USA side she is criticizing) are just making jokes that there is something not right with that.
+Claim: The host says that, instead of being concerned about the Egyptian planes a podcaster found, they (Erika Kirk and the Turning Point USA side she is criticizing) are just making jokes that there is something not right with that.
 
 Transcript Snippet: They're just making jokes that that there's something not right with that.
 

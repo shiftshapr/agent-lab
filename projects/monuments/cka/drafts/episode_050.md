@@ -822,7 +822,7 @@ Claim Timestamp: 00:18:29 – 00:20:44
 Claim: In a clip the host plays from AmFest, Ben Shapiro says that if Candace Owens decides to cast aspersions at TPUSA staff and at Erika Kirk, then people with a microphone have a moral obligation to call that out by name.
 
 Anchored Artifacts: A-1561.1
-Mentions: N-1, N-2, N-3, N-97
+Mentions: N-2, N-3, N-97
 
 
 Investigative Direction: Obtain the full unedited AmFest video and timestamp; verify whether Shapiro named specific TPUSA staff (Mikey McCormick, Andrew Kolvet, Blake Neff, Tyler Bowyer, Erika Kirk) and the precise wording.
@@ -845,7 +845,7 @@ Investigative Direction: Obtain the full unedited Carlson speech; verify the spe
 
 **C-1982** Daily Wire Held a Town Hall–Style Firing Event for Candace Owens with Ben Shapiro Appearing Electronically
 
-Claim Timestamp: 00:12:45 – 00:15:40
+Claim Timestamp: 00:11:35
 
 Claim: The host says the Daily Wire fired her at a "town hall" staged in her studio, with about 300 employees present and Ben Shapiro joining electronically on screen; in a clip the host plays, then-CEO Jeremy Boreing narrates Owens's X posts (an October 28, 2023 repost of a London protest video, a November 3, 2023 post on genocide, and a February 28 post on the profiteering of pornography), and the host says he then went into a diatribe about the real meaning of "Christ is King".
 
@@ -857,7 +857,7 @@ Investigative Direction: Obtain the full leaked town hall video; verify the exac
 
 ---
 
-**C-1983** Mark Amodei Publicly Claimed a 12-House-Floor Alibi for September 9
+**C-1983** Mark Amodei Publicly Claimed a 12-Hour Committee Alibi for September 9
 
 Claim Timestamp: 00:35:44
 
@@ -876,7 +876,7 @@ Investigative Direction: Retrieve the original X post URL; cross-reference with 
 
 Claim Timestamp: 00:36:36
 
-Claim: Per Diligent Dennison's X post analysis, Mark Amodei was not present for roll call until the third meeting in mid-afternoon on September 9 in D.C., having missed two morning roll calls.
+Claim: Per Diligent Dennison's X post that the host reads, Mark Amodei was not present for roll call until the third meeting in mid-afternoon on September 9 in D.C.; the host says the record shows he missed two morning roll calls, while adding that she is still working to verify that.
 
 Anchored Artifacts: A-1565.1
 Mentions: N-364, N-366
@@ -906,7 +906,7 @@ Investigative Direction: Corroborate through independent identification sources;
 
 Claim Timestamp: 00:37:30
 
-Claim: Travel logs provided to the host indicate that Brian Harpole's flight routing would have allowed him to attend the early-morning Fort Huachuca meeting on September 9.
+Claim: The host says she was given the travel logs for Brian Harpole and that, per those logs, he definitively could have made it to the base for the early-morning Fort Huachuca meeting on September 9.
 
 Anchored Artifacts: A-1567.2
 Mentions: N-267
@@ -1322,7 +1322,7 @@ Investigative Direction: Search state and federal dockets for cases between the 
 
 Claim Timestamp: 00:16:39
 
-Claim: The host says people working for Ben Shapiro have called her advertisers to try to bankrupt her in court and have sent undercover interns to stalk her.
+Claim: The host says people working for Ben Shapiro have called advertisers, attempted to bankrupt her in the courts, and sent undercover interns to stalk her.
 
 Transcript Snippet: people working behind the scenes to call advertisers attempting to bankrupt me in courts sending undercover interns to stalk me.
 
@@ -1364,7 +1364,7 @@ Investigative Direction: Obtain TPUSA sponsorship records and any Daily Wire spe
 
 ---
 
-**C-5377** Host alleges Shapiro's AmFest audience was staffed with YAF employees told to cheer
+**C-5377** Host Alleges Shapiro Staffs Audiences With YAF Employees Told to Cheer
 
 Claim Timestamp: 00:17:30
 
@@ -1435,7 +1435,7 @@ Transcript Snippet: You describe yourself as a Talmudic Jew and I've learned wha
 
 Anchored Artifacts: 
 Mentions: N-97, N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find Shapiro's own statements using that phrase and their dates.
 
 ---

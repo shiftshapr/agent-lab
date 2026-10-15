@@ -2731,7 +2731,7 @@ Confidence: high
 - **Possible transcription error:** "Dhillon Law Group" in transcript (13:14, 18:09, 19:56, 20:45, 21:45) appears to refer to **Dhillon Law Group** (Harmeet Dhillon's firm), as corroborated by host elsewhere and by FARA filings.
 - **Possible transcription error:** "Havas Media" in transcript (16:50) appears to refer to **Havas Media**, a French multinational advertising group.
 - **Name uncertainty:** Transcript uses both "Andrew Kolvet" (29:32, 30:23) and "Andrew Kolvet" (28:36, 57:03) – **Andrew Kolvet** is the correct name per prior episodes.
-- **Name uncertainty:** Transcript uses "Erica Kirk" once (07:55); **Erika Kirk** is the canonical name.
+- **Name uncertainty:** Transcript uses "Erika Kirk" once (07:55); **Erika Kirk** is the canonical name.
 - **Artifact verbally referenced but not shown:** A-2060.1 (Charlie Kirk Sept 9 group text) and A-2061.1 (Mikey McCoy message) are referenced by the host but not displayed in this episode.
 - **Claim failed admission test (artifact anchor):** The host's recollection that hospital staff told her Charlie had "no neck left" is recorded as a discrepancy node (N-10660) but is NOT inscribed as a Claim because no artifact in this episode anchors it. Same applies to claims about (a) Justin Streiff organizing all planes, (b) Mikey McCoy being "a mess at the hospital," and (c) Andrew Kolvet allegedly telling family that Charlie's refusal to Netanyahu cost him millions.
 - **Timestamp uncertainty (internal inconsistency):** Host first states Josh Hammer show was announced on Salem "October 15th" (24:03) but later the timeline reads "October 23rd" as the join date (37:55). Both dates preserved as host stated.

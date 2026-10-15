@@ -13,13 +13,13 @@
     "transcript_sha256": "a6a278c2583b1645dba697664ad3dba290528b1fc08b7e4b9b7e81180d1a7018",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode centers on Candace's exclusive report that Tyler Robinson drove approximately three hours from Orem, Utah to Pangitch, Utah on the night of September 10, dined alone at the Cowboys Smokehouse bar on North Main Street, and was later verified via server identification and credit card receipt several days after his arrest. Candace argues this timeline undercuts the FBI's narrative of a tight post-shooting investigation and demands follow-up interviews at the restaurant.\n\nThe episode also revisits the Fort Huachuca storyline: Candace reports that she personally reviewed a 12-hour House committee video and now concludes Rep. Mark Amodei's alibi \"checks out.\" New artifact-anchored evidence is presented on the Farnsworth political network – a 2014 Arizona House record linking Senator David Farnsworth and Eddie Farnsworth to Lori Frantzve on EMP legislation – along with a CBS News article on Fort Huachuca civilian leader David Frodsham and a Davis-Monthan AFB website announcement of a September 9 Commanders Summit.\n\nSecondary segments include Candace's claims about Tyler Bowyer's deep family ties to the Farnsworths, the Daily Wire's new \"Maddie in the No\" show (with clip evidence), and the Brigitte Macron sentencing in France. Structurally, the episode expands the Arizona political-military network map and surfaces several new people and verification targets.",
+  "executive_summary": "This episode centers on Candace's exclusive report that Tyler Robinson drove approximately three hours from Orem, Utah to Panguitch, Utah on the night of September 10, dined alone at the Cowboys Smokehouse bar on North Main Street, and was later verified via server identification and credit card receipt several days after his arrest. Candace argues this timeline undercuts the FBI's narrative of a tight post-shooting investigation and demands follow-up interviews at the restaurant.\n\nThe episode also revisits the Fort Huachuca storyline: Candace reports that she personally reviewed a 12-hour House committee video and now concludes Rep. Mark Amodei's alibi \"checks out.\" New artifact-anchored evidence is presented on the Farnsworth political network – a 2014 Arizona House record linking Senator David Farnsworth and Eddie Farnsworth to Lori Frantzve on EMP legislation – along with a CBS News article on Fort Huachuca civilian leader David Frodsham and a Davis-Monthan AFB website announcement of a September 9 Commanders Summit.\n\nSecondary segments include Candace's claims about Tyler Bowyer's deep family ties to the Farnsworths, the Daily Wire's new \"Maddie in the No\" show (with clip evidence), and the Brigitte Macron sentencing in France. Structurally, the episode expands the Arizona political-military network map and surfaces several new people and verification targets.",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
       "@id": "A-1577",
       "family_ref": "A-1577",
-      "bundle_name": "Pangitch Cowboys Smokehouse Evidence Bundle",
+      "bundle_name": "Panguitch Cowboys Smokehouse Evidence Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -44,7 +44,7 @@
           "@type": "Artifact",
           "@id": "A-1577.2",
           "ref": "A-1577.2",
-          "description": "Map showing ~3-hour drive distance from Orem, Utah to Pangitch, Utah (host's on-screen display)",
+          "description": "Map showing ~3-hour drive distance from Orem, Utah to Panguitch, Utah (host's on-screen display)",
           "related_claims": [
             "C-2003"
           ],
@@ -510,7 +510,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10381",
       "ref": "N-10381",
-      "name": "Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification",
+      "name": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
       "type": "investigation_target",
       "description": "Verification of credit card receipt, transaction timestamp, server identification, and federal follow-up (or absence thereof) at Cowboys Smokehouse on the night of 9/10.",
       "related_artifacts": [
@@ -2140,7 +2140,7 @@
       "ref": "N-11115",
       "name": "Robinson Grandmother Whereabouts Hypothesis",
       "type": "topic",
-      "description": "The tipster hypothesis, offered by the host as unconfirmed, that Tyler Robinson went to his grandmother's house near Pangitch after the Cowboys Smokehouse meal, together with the grandmother's early public statement.",
+      "description": "The tipster hypothesis, offered by the host as unconfirmed, that Tyler Robinson went to his grandmother's house near Panguitch after the Cowboys Smokehouse meal, together with the grandmother's early public statement.",
       "related_artifacts": [],
       "related_claims": [
         "C-6815",
@@ -2158,8 +2158,8 @@
       "@type": "Claim",
       "@id": "C-2003",
       "ref": "C-2003",
-      "label": "Host Says Tyler Robinson Visited Pangitch",
-      "claim": "The host says Tyler Robinson drove approximately three hours from Orem, Utah to Pangitch, Utah on the night of September 10 and dined alone at the Cowboys Smokehouse bar on North Main Street.",
+      "label": "Host Says Tyler Robinson Visited Panguitch",
+      "claim": "The host says Tyler Robinson drove approximately three hours from Orem, Utah to Panguitch, Utah on the night of September 10 and dined alone at the Cowboys Smokehouse bar on North Main Street.",
       "anchored_artifacts": [
         "A-1577.1",
         "A-1577.2"
@@ -2179,7 +2179,7 @@
       "@id": "C-2004",
       "ref": "C-2004",
       "label": "Cowboys Smokehouse Verified Robinson's Presence via Credit Card",
-      "claim": "Cowboys Smokehouse staff identified Tyler Robinson from the suspect photo after the press conference, verified his prior presence via credit card receipt, and contacted federal authorities days later; per host, no federal follow-up investigation was conducted at the restaurant.",
+      "claim": "The host says Cowboys Smokehouse staff identified Tyler Robinson from the suspect photo shared after his capture, verified his prior presence via credit card receipt, and contacted federal authorities days later, and that the feds only called them back and conducted no follow-up investigation at the restaurant.",
       "anchored_artifacts": [
         "A-1577.1"
       ],
@@ -2198,7 +2198,7 @@
       "@id": "C-2005",
       "ref": "C-2005",
       "label": "TPUSA Tent Was Group Decision",
-      "claim": "Turning Point USA clarified to host that the tent at AmeriFest was initially proposed by Elizabeth McCoy but was ultimately a group decision between the events team and exhibitor hall team.",
+      "claim": "The host says Turning Point USA asked her to clarify that the tent at AmeriFest was initially proposed by Elizabeth McCoy but was ultimately a group decision between the events team and exhibitor hall team.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2213,7 +2213,7 @@
       "@id": "C-2006",
       "ref": "C-2006",
       "label": "Erika's First September 8 Text Had Blocked Contact Name",
-      "claim": "Erika's first text purportedly showing a conversation with Charlie Kirk about dinner on September 8 had the contact name blocked/redacted in the screenshot (sent to host December 28).",
+      "claim": "The host says Erika's first text purportedly showing a conversation with Charlie Kirk about dinner on September 8 had the contact name blocked/redacted in the screenshot (sent to host December 28).",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2229,13 +2229,13 @@
       "@id": "C-2007",
       "ref": "C-2007",
       "label": "Erika's Follow-Up Text Was a Charlie Kirk Contact Card",
-      "claim": "After host's repeated requests to unblock the contact name, Erika's follow-up text provided a Charlie Kirk contact card image rather than the unredacted conversation screenshot.",
+      "claim": "The host says that after her repeated requests to unblock the contact name, Erika's follow-up text provided a Charlie Kirk contact card image rather than the unredacted conversation screenshot.",
       "anchored_artifacts": [
         "A-1578.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:19:30",
+      "claim_timestamp": "00:18:58",
       "investigative_direction": "Verify whether Erika retains the original unredacted text; obtain direct screen capture with contact number visible.",
       "mentions_person_refs": [
         "N-2",
@@ -2247,7 +2247,7 @@
       "@id": "C-2008",
       "ref": "C-2008",
       "label": "Candace Concluded Mark Amodei Appears Early in 12-Hour Committee Footage",
-      "claim": "After personally reviewing a 12-hour House committee video, host concludes that Rep. Mark Amodei likely appears on screen early in the hearing, before the recorded roll calls, supporting his alibi for September 10.",
+      "claim": "After personally reviewing a 12-hour House committee video, host concludes that Rep. Mark Amodei likely appears on screen early in the hearing, before the recorded roll calls, and that she thinks his story checks out.",
       "anchored_artifacts": [
         "A-1579.1"
       ],
@@ -2314,7 +2314,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:37:11",
+      "claim_timestamp": "00:36:07",
       "investigative_direction": "Obtain the full CBS News article and any follow-up reporting; verify Rodsham's Fort Huachuca tenure dates; check overlap with relevant September 10 events.",
       "mentions_person_refs": [
         "N-385"
@@ -2342,7 +2342,7 @@
       "@id": "C-2013",
       "ref": "C-2013",
       "label": "Daily Wire's \"Maddie in the No\" Show Mocks Candace",
-      "claim": "Daily Wire has launched a show hosted by \"Maddie\" designed to mock Candace Owens and Tucker Carlson; the show includes dramatized takes on Candace's commentary, including her Utah state flag remarks.",
+      "claim": "The host says Daily Wire has launched a show hosted by \"Maddie\" designed to mock her and Tucker Carlson, and plays a clip in which the show dramatizes her Utah state flag remarks.",
       "anchored_artifacts": [
         "A-1584.1"
       ],
@@ -2477,7 +2477,7 @@
       "@id": "C-6804",
       "ref": "C-6804",
       "label": "Host Says the Restaurant Has No Cameras so Staff Used Credit Card Records",
-      "claim": "The host says the Pangitch restaurant has no cameras, so staff could not check footage and instead looked through credit card charges to verify that Robinson had been in the building.",
+      "claim": "The host says the Panguitch restaurant has no cameras, so staff could not check footage and instead looked through credit card charges to verify that Robinson had been in the building.",
       "anchored_artifacts": [
         "A-1577.1"
       ],
@@ -2533,7 +2533,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:04:45",
-      "investigative_direction": "Request the FBI's tip log and any record of when and how it learned of the Pangitch purchase.",
+      "investigative_direction": "Request the FBI's tip log and any record of when and how it learned of the Panguitch purchase.",
       "transcript_snippet": "They didn't do that. Instead, they were contacted days later um by this restaurant.",
       "supports_claim_refs": [
         "C-2004"
@@ -2568,7 +2568,7 @@
       "@id": "C-6808",
       "ref": "C-6808",
       "label": "Host Says She Spoke With a Lawyer She Takes to Be Erika Kirk's Lawyer",
-      "claim": "The host says she previously spoke with a lawyer whom she takes to be Erika Kirk's lawyer because Erika is listed as the victim, and that the lawyer described investigators separate from Erika gathering information to prove Robinson acted alone.",
+      "claim": "The host says she previously spoke with a lawyer whom she takes to be Erika Kirk's lawyer because Erika is listed as the victim, and that the lawyer said investigators separate from Erika are supposed to gather information to prove Robinson is the shooter and acted alone.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2587,7 +2587,7 @@
       "@id": "C-6809",
       "ref": "C-6809",
       "label": "Host Says the Dairy Queen Stop Must Have Occurred Earlier Than Documented",
-      "claim": "The host says the Dairy Queen stop had to occur earlier than her earlier timeline documented because a three-hour drive to Pangitch with an evening arrival leaves no room for the old timing.",
+      "claim": "The host says the Dairy Queen stop had to occur earlier than her earlier timeline documented because a three-hour drive to Panguitch with an evening arrival leaves no room for the old timing.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10051",
@@ -2612,7 +2612,7 @@
       "@id": "C-6810",
       "ref": "C-6810",
       "label": "Host Says the FBI Knows of the Receipt and Has It",
-      "claim": "The host says there is a literal receipt from the Pangitch restaurant and that the FBI knows about it and has it in its possession.",
+      "claim": "The host says there is a literal receipt from the Panguitch restaurant and that the FBI knows about it and has it in its possession.",
       "anchored_artifacts": [
         "A-1577.1"
       ],
@@ -2710,8 +2710,8 @@
       "@type": "Claim",
       "@id": "C-6814",
       "ref": "C-6814",
-      "label": "Host Says Robinson Arrived in Pangitch About 8:45 p.m. and Left About 9:30 p.m.",
-      "claim": "The host says Robinson turned up in Pangitch at approximately 8:45 p.m., ate at the bar counter and left around 9:30 p.m.",
+      "label": "Host Says Robinson Arrived in Panguitch About 8:45 p.m. and Left About 9:30 p.m.",
+      "claim": "The host says Robinson turned up in Panguitch at approximately 8:45 p.m., ate at the bar counter and left around 9:30 p.m.",
       "anchored_artifacts": [
         "A-1577.1"
       ],
@@ -3578,7 +3578,7 @@
       "@type": "Claim",
       "@id": "C-6851",
       "ref": "C-6851",
-      "label": "Host Says Bowyer Was in Debt With Wages Garnished Before Becoming a Millionaire",
+      "label": "Host Says Bowyer Was in Debt With Payments Garnished Before Becoming a Millionaire",
       "claim": "The host says Tyler Bowyer was in debt and having his payments garnished at Turning Point USA before he became a millionaire working for a charity.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -4103,7 +4103,7 @@
         "N-11112"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:34:40",
       "investigative_direction": "Check Arizona court records and news archives for the case against Albert Farnsworth.",
@@ -4168,7 +4168,7 @@
         "N-10832"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:35:55",
       "investigative_direction": "Check Operation Underground's and Beck's public statements on the support.",
@@ -4191,7 +4191,7 @@
         "N-10000"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:36:50",
       "investigative_direction": "Verify the location of TPUSA's campus relative to Arizona Mills and any law enforcement data on trafficking there.",
@@ -4394,7 +4394,7 @@
       "@id": "C-6886",
       "ref": "C-6886",
       "label": "Host Says Daily Wire Brought Back Channels and Released Content on Her Old Instagram Accounts",
-      "claim": "The host says that the day before Daily Wire appeared to be teasing something on channels it brought back, and released content on her old Instagram channels.",
+      "claim": "The host says that the day before Daily Wire appeared to be teasing something on her channels, which it brought back, and released content on her old Instagram channels.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10379"
@@ -4439,7 +4439,7 @@
       "@id": "C-6888",
       "ref": "C-6888",
       "label": "Host Says Utah Ranks 24th in Honey and Bee Products",
-      "claim": "In Daily Wire footage the host plays, a speaker says that in terms of making honey or bee-related products Utah ranks number 24, so the nickname is not due to honey.",
+      "claim": "In Daily Wire footage the host plays, a clip of the host's own earlier show says that in terms of making honey or bee-related products Utah ranks number 24, so the nickname is not due to honey.",
       "anchored_artifacts": [
         "A-1584.1"
       ],
@@ -4461,7 +4461,7 @@
       "@id": "C-6889",
       "ref": "C-6889",
       "label": "Host Says the Beehive State Name Relates to Early Mormon Pioneers",
-      "claim": "In Daily Wire footage the host plays, a speaker says the beehive state name relates to the Church of Latter-day Saints and that early Mormon pioneers liked the idea of a beehive working toward a common good.",
+      "claim": "In Daily Wire footage the host plays, a clip of the host's own earlier show says the beehive state name relates to the Church of Latter-day Saints and that early Mormon pioneers liked the idea of a beehive working toward a common good.",
       "anchored_artifacts": [
         "A-1584.1"
       ],
@@ -4880,7 +4880,7 @@
           "video_timestamp": "00:07:00",
           "speaker_node_ref": "N-3",
           "quote": "This is case closed. Giddy up.",
-          "context": "Host mocks the lack of any federal follow-up at the Pangitch restaurant.",
+          "context": "Host mocks the lack of any federal follow-up at the Panguitch restaurant.",
           "confidence": "high",
           "tags": [
             "giddy up",

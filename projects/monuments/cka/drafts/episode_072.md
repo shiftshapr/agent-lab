@@ -859,7 +859,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10428** Erica Kirk China Timeline Discrepancy
+**N-10428** Erika Kirk China Timeline Discrepancy
 
 Existing node reused for new claims in this episode.
 

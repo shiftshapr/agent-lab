@@ -897,10 +897,10 @@ Investigative Direction: Verify Jean-Christophe Mitterrand's role via French cou
 
 Claim Timestamp: 00:32:46–00:33:21
 
-Claim: In a video the host plays, YouTuber Jesse Kege of One Shot TV demonstrates a 180gr FMJ .30-06 round penetrating a ballistic dummy, separating its head, and continuing through three 5-gallon water jugs placed behind; the host cites this as showing what the round would have done to Charlie Kirk.
+Claim: In a video the host plays, YouTuber Jesse Kege of One Shot TV, after introducing a 180gr FMJ and a 150gr Hornady ballistic tip .30-06 round, fires at a ballistic dummy whose head falls off and penetrates the water jugs placed behind it; the host cites this as showing what the round would have done to Charlie Kirk.
 
 Anchored Artifacts: A-1516.1
-Mentions: N-317
+Mentions: N-317, N-1
 Related Nodes: N-10319
 
 Investigative Direction: Obtain the full One Shot TV video, including any second-round test (150gr Hornady ballistic tip), and verify the exact penetration result shown.
@@ -925,7 +925,7 @@ Investigative Direction: Cross-reference the One Shot TV demonstration with offi
 
 Claim Timestamp: 00:29:16
 
-Claim: According to a tweet from the Hodge Twins read aloud by the host, Republicans will lose midterms because no deep state criminals have been held accountable, money is sent to corrupt foreign countries, and establishment figures are being promoted.
+Claim: According to a tweet from the Hodge Twins read aloud by the host, Republicans will lose midterms because no deep state criminals have been held accountable, money is sent to corrupt foreign countries, and traitors like Lindsey Graham are getting promoted.
 
 Anchored Artifacts: A-1517.1
 Mentions: N-318
@@ -995,7 +995,7 @@ Claim Timestamp: 00:37:36–00:41:02
 Claim: Viewer comments the host reads raise TPUSA's response: Jo Ann says "we hoped it would go away" was the first truthful-sounding statement from TPUSA, Diana Sheen asks whether TPUSA employees still have to stay silent if crime is involved, and CCXX asks who took out the life insurance policy on Charlie and where the 1.5 million went.
 
 Anchored Artifacts: A-1518.1, A-1518.3, A-1518.5
-Mentions:
+Mentions: N-1
 Related Nodes: N-10320
 
 Investigative Direction: Cross-reference against depositions, congressional testimony, and investigative reporting.

@@ -488,7 +488,7 @@ Mitch Snow's identification of Harpole is restated.
 
 *Related: C-3815*
 
-**N-10378** Andrew Kolbet Coordination with Attackers of Mitch Snow
+**N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow
 
 Host alleges Kolvet fed podcasters information to attack the Fort Huachuca story.
 

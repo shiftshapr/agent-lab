@@ -698,7 +698,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-10428** Erica Kirk China Timeline Discrepancy
+**N-10428** Erika Kirk China Timeline Discrepancy
 
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.

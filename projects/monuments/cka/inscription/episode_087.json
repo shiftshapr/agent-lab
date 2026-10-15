@@ -725,7 +725,7 @@
       "ref": "N-10578",
       "name": "Decoy Subject Investigation (Qureshi/Qureshi)",
       "type": "investigation_target",
-      "description": "Pattern of false/early \"got the guy\" announcements and pre-event detention of subjects around September 10. Includes George Zin and Zachariah Qureshi.",
+      "description": "Pattern of false/early \"got the guy\" announcements and pre-event detention of subjects around September 10. Includes George Zinn and Zachariah Qureshi.",
       "related_artifacts": [
         "A-1918.1",
         "A-1918.2"
@@ -1981,7 +1981,7 @@
       "@type": "Topic",
       "@id": "N-10354",
       "ref": "N-10354",
-      "name": "George Zin Self-Incriminating Hospital Statement",
+      "name": "George Zinn Self-Incriminating Hospital Statement",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
@@ -3328,8 +3328,8 @@
       "@type": "Claim",
       "@id": "C-14566",
       "ref": "C-14566",
-      "label": "Host Calls Zachariah Qureshi Decoy Boy Number Two After George Zin",
-      "claim": "The host says Zachariah should be thought of as 'decoy boy number two,' with George Zin as the first decoy who immediately said he did it.",
+      "label": "Host Calls Zachariah Qureshi Decoy Boy Number Two After George Zinn",
+      "claim": "The host says Zachariah should be thought of as 'decoy boy number two,' with George Zinn as the first decoy who immediately said he did it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10032",
@@ -3340,7 +3340,7 @@
       ],
       "claim_timestamp": "00:06:41",
       "investigative_direction": "Obtain booking and release records for both men and establish whether any evidence links their detentions to one another.",
-      "transcript_snippet": "we should start to think of Zachariah Qureshi as decoy boy number two, okay? First, it was George Zin.",
+      "transcript_snippet": "we should start to think of Zachariah Qureshi as decoy boy number two, okay? First, it was George Zinn.",
       "mentions_person_refs": [
         "N-3",
         "N-411",
@@ -3352,7 +3352,7 @@
       "@id": "C-14567",
       "ref": "C-14567",
       "label": "Host Says Zin Later Told People at Utah Valley Hospital He Was Paid",
-      "claim": "The host says George Zin later told people at Utah Valley, where he was being treated, that he was paid to claim responsibility.",
+      "claim": "The host says George Zinn later told people at Utah Valley, where he was being treated, that he was paid to claim responsibility.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10223",

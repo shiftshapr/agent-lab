@@ -25,7 +25,7 @@
 
 ## 2. Executive Summary
 
-Episode 62 advances the Bride of Charlie series along three investigative axes: (1) donor pressure on Charlie Kirk, anchored by a full read-aloud of a text message Charlie received from a self-identified Christian Zionist donor, with on-air confirmation of its authenticity by Jaco Booyens and Erica Kirk; (2) the Lori Frantzve / Larry Guinta business network, specifically a 2017 Arizona LLC called Desert Spirit Tech formed on a Tohono O'odham reservation address with Lyle and Shelly Reems, where Lyle Reems carries a 1998 indictment for sexual conduct with a minor under 15 that was dismissed without prejudice in 1999; and (3) the ongoing Turning Point USA employee terminations, anchored by an on-air audio recording of a termination meeting in which an employee is repeatedly told only that the organization is "going in a different direction" after working 80–90 hour weeks. A 2018 Tyler Bowyer tweet asserting TPUSA runs "like a military op" with personnel from that background is displayed and used to re-anchor prior host claims about military infiltration.
+Episode 62 advances the Bride of Charlie series along three investigative axes: (1) donor pressure on Charlie Kirk, anchored by a full read-aloud of a text message Charlie received from a self-identified Christian Zionist donor, with on-air confirmation of its authenticity by Jaco Booyens and Erika Kirk; (2) the Lori Frantzve / Larry Guinta business network, specifically a 2017 Arizona LLC called Desert Spirit Tech formed on a Tohono O'odham reservation address with Lyle and Shelly Reems, where Lyle Reems carries a 1998 indictment for sexual conduct with a minor under 15 that was dismissed without prejudice in 1999; and (3) the ongoing Turning Point USA employee terminations, anchored by an on-air audio recording of a termination meeting in which an employee is repeatedly told only that the organization is "going in a different direction" after working 80–90 hour weeks. A 2018 Tyler Bowyer tweet asserting TPUSA runs "like a military op" with personnel from that background is displayed and used to re-anchor prior host claims about military infiltration.
 
 The episode's structural importance lies in coupling first-person testimonials with primary documents (court records, LLC filings, social media posts, termination audio) on the same evidentiary surface, while continuing the Lori Frantzve business-entity thread opened in earlier episodes.
 
@@ -41,7 +41,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:07:27–00:09:18
 Discovery Timestamp: 00:00:00–00:00:01
-Confidence Level: High (host states Jaco Booyens and Erica Kirk confirmed authenticity)
+Confidence Level: High (host states Jaco Booyens and Erika Kirk confirmed authenticity)
 
 *Related: C-2182, C-2183, N-2, N-489, N-10438*
 
@@ -245,7 +245,7 @@ Investigative Pressure: Low
 
 **N-490** Lori Frantzve
 
-Erica Kirk's mother; 20% stakeholder of record in Desert Spirit Tech LLC; co-filer of Euro Tech in Cincinnati, Ohio.
+Erika Kirk's mother; 20% stakeholder of record in Desert Spirit Tech LLC; co-filer of Euro Tech in Cincinnati, Ohio.
 
 Evidence Count: 2
 Claim Count: 1
@@ -258,7 +258,7 @@ Investigative Pressure: Medium
 
 **N-388** Larry Guinta
 
-Erica Kirk's stepfather; listed as stakeholder and registered agent of Desert Spirit Tech LLC.
+Erika Kirk's stepfather; listed as stakeholder and registered agent of Desert Spirit Tech LLC.
 
 Evidence Count: 2
 Claim Count: 1
@@ -687,17 +687,17 @@ Investigative Direction: Obtain the original device or screenshot of the message
 
 ---
 
-**C-2183** Jaco Booyens and Erica Kirk confirmed the authenticity of the text message
+**C-2183** Jaco Booyens and Erika Kirk confirmed the authenticity of the text message
 
 Claim Timestamp: 00:07:27
 
-Claim: Host states that Jaco Booyens and Erica Kirk can confirm the text message to Charlie Kirk is real.
+Claim: Host states that Jaco Booyens and Erika Kirk can confirm the text message to Charlie Kirk is real.
 
 Anchored Artifacts: A-1669.1
 Mentions: N-1, N-2, N-489
 
 
-Investigative Direction: Obtain on-record confirmation from Jaco Booyens and/or Erica Kirk independent of the host.
+Investigative Direction: Obtain on-record confirmation from Jaco Booyens and/or Erika Kirk independent of the host.
 
 ---
 

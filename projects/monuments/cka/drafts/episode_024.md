@@ -37,7 +37,7 @@
   - Claim Range: C-1568 – C-1583
   - New Nodes Introduced (people): N-211, N-212, N-213, N-215, N-216, N-217
   - New Nodes Introduced (entities): N-10216, N-10217
-  - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens, Ben Shapiro, Tucker Carlson, Lindsey Graham, Randy Fine, Nick Fuentes, Rob McCoy, Mikey McCoy/McColgan, Justin Streiff, Adam Lanza, Thomas Matthew Crooks, AIPAC
+  - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, Ben Shapiro, Tucker Carlson, Lindsey Graham, Randy Fine, Nick Fuentes, Rob McCoy, Mikey McCoy/McColgan, Justin Streiff, Adam Lanza, Thomas Matthew Crooks, AIPAC
 
 # Executive Summary
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:22:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1576, N-14 Andrew Kolvet, N-2 Erica Kirk, N-10216*
+*Related: C-1576, N-14 Andrew Kolvet, N-2 Erika Kirk, N-10216*
 
 **A-1317.3** Michael Starr X Follow-Up on Israeli Government Press Office "Wavering"
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:30:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1578, N-2 Erica Kirk, N-212 Jesse Watters, N-10217*
+*Related: C-1578, N-2 Erika Kirk, N-212 Jesse Watters, N-10217*
 
 **A-1319** Kash Patel X Defense Tweet Bundle
 
@@ -347,7 +347,7 @@ Investigative Pressure: Medium
 
 **N-212** Jesse Watters
 
-Host of the Fox News interview with Erica Kirk that is teased as upcoming at episode time. (Name preserved as transcript renders it.)
+Host of the Fox News interview with Erika Kirk that is teased as upcoming at episode time. (Name preserved as transcript renders it.)
 
 Evidence Count: 0
 Claim Count: 1
@@ -427,7 +427,7 @@ Investigative Pressure: Low
 Node Type: Organization
 Organization Kind: media_outlet
 
-News outlet whose reporting (by Michael Starr) was cited in the Israeli War Room X post asserting that Erica Kirk would accept the posthumous award.
+News outlet whose reporting (by Michael Starr) was cited in the Israeli War Room X post asserting that Erika Kirk would accept the posthumous award.
 
 Evidence Count: 1
 Claim Count: 1
@@ -452,7 +452,7 @@ Investigative Pressure: Medium
 
 **N-10216** TPUSA Posthumous Israel Award Reporting Discrepancy
 
-Persistent discrepancy between Jerusalem Post / Israeli War Room reporting that Erica Kirk would accept a Pillars of Jerusalem Award on Charlie Kirk's behalf and Andrew Kolvet's on-record statement that TPUSA had not heard of the award and that the CEO was not scheduled to participate.
+Persistent discrepancy between Jerusalem Post / Israeli War Room reporting that Erika Kirk would accept a Pillars of Jerusalem Award on Charlie Kirk's behalf and Andrew Kolvet's on-record statement that TPUSA had not heard of the award and that the CEO was not scheduled to participate.
 
 Evidence Count: 3
 Claim Count: 3
@@ -463,7 +463,7 @@ Investigative Pressure: High
 
 **N-10217** TPUSA Leadership Transparency Pressure (Post-Charlie)
 
-Persistent pressure articulated in this episode on TPUSA leadership (CEO/chairman Erica Kirk; Tyler Bowyer; etc.) to publicly disclose what they can about Rob McCoy, Mikey McCoy/McColgan, Taryl, and the timeline of phone calls/texts surrounding Charlie Kirk's death.
+Persistent pressure articulated in this episode on TPUSA leadership (CEO/chairman Erika Kirk; Tyler Bowyer; etc.) to publicly disclose what they can about Rob McCoy, Mikey McCoy/McColgan, Taryl, and the timeline of phone calls/texts surrounding Charlie Kirk's death.
 
 Evidence Count: 0
 Claim Count: 0

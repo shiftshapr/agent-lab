@@ -35,7 +35,7 @@
  - Claim Range: C-3138–C-3149
  - New People Nodes: none (Wave 2: local ids removed)
  - New Investigation Target Nodes: N-10749, N-10750, N-10751, N-10752
- - Existing Nodes Reused: Charlie Kirk, Candace Owens, Erica Kirk, Andrew Kolvet, Brian Harpole, Rick Cutler, Justin Davis, Harris Faulkner, Tyler Robinson, Benjamin Netanyahu, Donald Trump, Lindsey Graham
+ - Existing Nodes Reused: Charlie Kirk, Candace Owens, Erika Kirk, Andrew Kolvet, Brian Harpole, Rick Cutler, Justin Davis, Harris Faulkner, Tyler Robinson, Benjamin Netanyahu, Donald Trump, Lindsey Graham
 
 ---
 
@@ -99,7 +99,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Can my children have one thing? Everything was public. We will be building the most beautiful memorial for my husband at Turning Point USA, and it will be for the world to see, and it will be spectacular… But can I have one thing? Can my babies have one thing where we hold it sacred, where my husband is laid to rest…"
 
-*Related: C-3141, Erica Kirk (existing node), Harris Faulkner (existing node), N-10751*
+*Related: C-3141, Erika Kirk (existing node), Harris Faulkner (existing node), N-10751*
 
 ---
 
@@ -140,7 +140,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "I've always been heaven focused but way more heaven focused now since the murder of Charlie ... someone once told me that eternal life begins the moment that you that you truly know Christ. ... it changes the whole meaning of suffering ... heaven now literally invades your life in the most beautiful way."
 
-*Related: C-3143, Erica Kirk (existing node), Charlie Kirk (existing node)*
+*Related: C-3143, Erika Kirk (existing node), Charlie Kirk (existing node)*
 
 **A-2193.2** Erika Kirk speech clip on "my kids are watching me"
 
@@ -151,7 +151,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "It would be so easy for me to just surrender and give up. So easy, but my kids are watching me. My kids are watching me. My co-workers are watching me. My family's watching me. Cloud of witnesses is watching me. And I will not give up and neither will you guys."
 
-*Related: C-3144, Erica Kirk (existing node), Charlie Kirk (existing node)*
+*Related: C-3144, Erika Kirk (existing node), Charlie Kirk (existing node)*
 
 ---
 
@@ -475,7 +475,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2190.1, A-2191.1, C-3140, C-3141, Charlie Kirk (existing node), Erica Kirk (existing node)*
+*Related: A-2190.1, A-2191.1, C-3140, C-3141, Charlie Kirk (existing node), Erika Kirk (existing node)*
 
 **N-10752** TPUSA White House Meeting Coordination with Netanyahu Trip
 

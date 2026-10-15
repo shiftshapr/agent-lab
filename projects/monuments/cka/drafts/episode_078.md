@@ -42,7 +42,7 @@
 - **Claim Range:** C-2453–C-2471
 - **New People Nodes Introduced:** N-582, N-583, N-584, N-585, N-586, N-587, N-588, N-589, N-41, N-274, N-179, N-571, N-591
 - **New Investigation Target Nodes Introduced:** N-10531, N-10532, N-10533, N-10534, N-10535, N-10536, N-10537
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
@@ -50,7 +50,7 @@
 
 This episode introduces two new evidentiary streams into the Bride of Charlie ledger. First, the host displays and discusses never-before-released materials from the September 10 incident: photographs from inside the vehicle that transported Charlie Kirk to the hospital, and screen-recorded footage from behind Kirk at the event. The host walks through specific observable elements (the necklace/magnet clasp, hand motion at the table, blood pattern, presence of what appears to be an Instaclot package on the van floor) and references external investigators (Baron Coleman, John Bray) for corroborating analysis.
 
-Second, the episode advances the Next Model Management / Erica Kirk New York real-estate thread by displaying and reading a New York Post article describing 301 East 66th Street as a building where Epstein housed underage victims, with apartments labeled in his address book as "apartments for models" and photos courtesy of Corcoran real estate. A separate news clip of the Alexander brothers sex-trafficking conviction is displayed to connect Epstein-file redactions to Jared Kushner's associates. The Turning Point Action tweet against Rep. Thomas Massie is shown and contrasted against displayed video clips of Charlie Kirk naming Massie one of his favorite congressmen; an X community note fact-checking TPUSA is displayed. The United Hands Romania / Renee Crossman thread is extended via a 2017 article quoting Erica Kirk and a Romanian investigative piece on the Children of God / The Family cult.
+Second, the episode advances the Next Model Management / Erika Kirk New York real-estate thread by displaying and reading a New York Post article describing 301 East 66th Street as a building where Epstein housed underage victims, with apartments labeled in his address book as "apartments for models" and photos courtesy of Corcoran real estate. A separate news clip of the Alexander brothers sex-trafficking conviction is displayed to connect Epstein-file redactions to Jared Kushner's associates. The Turning Point Action tweet against Rep. Thomas Massie is shown and contrasted against displayed video clips of Charlie Kirk naming Massie one of his favorite congressmen; an X community note fact-checking TPUSA is displayed. The United Hands Romania / Renee Crossman thread is extended via a 2017 article quoting Erika Kirk and a Romanian investigative piece on the Children of God / The Family cult.
 
 The episode is structurally significant as the first release of vehicle-interior photographs and behind-Kirk video in the series, advancing the host's challenge to the official lone-shooter narrative.
 
@@ -88,7 +88,7 @@ Confidence Level: High
 
 **A-1837** Club America Arkansas Proclamation Clip
 
-**A-1837.1** Sarah Huckabee Sanders proclamation clip with Erica Kirk at her side, supporting Club America in every Arkansas high school
+**A-1837.1** Sarah Huckabee Sanders proclamation clip with Erika Kirk at her side, supporting Club America in every Arkansas high school
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -102,7 +102,7 @@ Confidence Level: High
 
 **A-1838** United Hands Romania Article Bundle
 
-**A-1838.1** 2017 article quoting Erica Kirk on partnership with Renee Crossman and Antonio Placement Center in Constanta
+**A-1838.1** 2017 article quoting Erika Kirk on partnership with Renee Crossman and Antonio Placement Center in Constanta
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -112,7 +112,7 @@ Confidence Level: High
 
 *Related: C-2458, C-2471, N-2, N-585, N-10534*
 
-**A-1838.2** Erica Kirk interview clip in which she states Romanian orphans did not trust Renee Crossman
+**A-1838.2** Erika Kirk interview clip in which she states Romanian orphans did not trust Renee Crossman
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -435,7 +435,7 @@ Investigative Pressure: Medium
 
 **N-583** Sarah Huckabee Sanders
 
-Governor of Arkansas; displayed signing proclamation with Erica Kirk for Club America in Arkansas high schools.
+Governor of Arkansas; displayed signing proclamation with Erika Kirk for Club America in Arkansas high schools.
 
 Evidence Count: 1
 Claim Count: 1
@@ -461,7 +461,7 @@ Investigative Pressure: Medium
 
 **N-585** Renee Crossman
 
-President of United Hands Romania Association; partner of Erica Kirk on the Remnant/Romanian Angels project; per displayed Romanian investigative article, originated from the Children of God / The Family religious sect.
+President of United Hands Romania Association; partner of Erika Kirk on the Remnant/Romanian Angels project; per displayed Romanian investigative article, originated from the Children of God / The Family religious sect.
 
 Evidence Count: 3
 Claim Count: 3
@@ -552,7 +552,7 @@ Investigative Pressure: Medium
 
 **N-571** Faith Kates
 
-Founder of Next Model Management, the Rothschild spin-out modeling agency with which Erica Kirk is alleged to have dealt.
+Founder of Next Model Management, the Rothschild spin-out modeling agency with which Erika Kirk is alleged to have dealt.
 
 Evidence Count: 0
 Claim Count: 0
@@ -578,7 +578,7 @@ Investigative Pressure: Low
 
 **N-10531** 301 East 66th Street NYC Building Investigation
 
-Building identified in displayed NY Post article as Epstein site used to keep underage victims; apartments labeled in Epstein's address book as "apartments for models." Per host, viewers identified building matching description of the "white building" associated with Erica Kirk's Next Model Management real-estate role.
+Building identified in displayed NY Post article as Epstein site used to keep underage victims; apartments labeled in Epstein's address book as "apartments for models." Per host, viewers identified building matching description of the "white building" associated with Erika Kirk's Next Model Management real-estate role.
 
 Evidence Count: 1
 Claim Count: 3
@@ -589,7 +589,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10532** Next Model Management / Erica Kirk Connection
+**N-10532** Next Model Management / Erika Kirk Connection
 
 Persistent investigation target: alleged point-person role for Next Model Management housing of young models, including at a "white building" near 68th Street between Second and Third Avenue.
 
@@ -617,7 +617,7 @@ Investigative Pressure: Medium
 
 **N-10534** Renee Crossman / United Hands Romania Cult Affiliation
 
-Investigation target: Crossman's affiliation with Children of God / The Family per displayed Romanian investigative article, and the implications of her decade-plus work with Romanian orphanages accessed by Erica Kirk.
+Investigation target: Crossman's affiliation with Children of God / The Family per displayed Romanian investigative article, and the implications of her decade-plus work with Romanian orphanages accessed by Erika Kirk.
 
 Evidence Count: 3
 Claim Count: 4
@@ -1166,11 +1166,11 @@ Investigative Direction: Obtain federal court docket for the Southern District o
 
 ---
 
-**C-2457** Sarah Huckabee Sanders signed proclamation supporting Club America in Arkansas high schools alongside Erica Kirk
+**C-2457** Sarah Huckabee Sanders signed proclamation supporting Club America in Arkansas high schools alongside Erika Kirk
 
 Claim Timestamp: 00:13:44
 
-Claim: Per the displayed clip, Arkansas Governor Sarah Huckabee Sanders signed a proclamation with Erica Kirk at her side announcing support for every high school in Arkansas to adopt Club America (TPUSA high-school chapter program).
+Claim: Per the displayed clip, Arkansas Governor Sarah Huckabee Sanders signed a proclamation with Erika Kirk at her side announcing support for every high school in Arkansas to adopt Club America (TPUSA high-school chapter program).
 
 Anchored Artifacts: A-1837.1
 Mentions: N-2, N-583
@@ -1179,11 +1179,11 @@ Investigative Direction: Obtain the official proclamation text and any associate
 
 ---
 
-**C-2458** 2017 article records Erica Kirk stating she partnered with Renee Crossman of United Hands Romania
+**C-2458** 2017 article records Erika Kirk stating she partnered with Renee Crossman of United Hands Romania
 
 Claim Timestamp: 00:17:48
 
-Claim: Per the displayed 2017 article, Erica Kirk stated: "I am happy to collaborate with United Hands Romania Association and Renee Crossman, the president of this organization, but also with the representatives of the Antonio Placement Center."
+Claim: Per the displayed 2017 article, Erika Kirk stated: "I am happy to collaborate with United Hands Romania Association and Renee Crossman, the president of this organization, but also with the representatives of the Antonio Placement Center."
 
 Anchored Artifacts: A-1838.1
 Mentions: N-2, N-585
@@ -1252,7 +1252,7 @@ Claim: Per the displayed video, the necklace worn by Charlie Kirk is shown movin
 Anchored Artifacts: A-1842.1, A-1842.4
 Mentions: N-1
 Related Nodes: N-10535, N-10537
-Investigative Direction: Compare video frame-by-frame to the multiple conflicting necklace-recovery stories told by Erica Kirk, Frank, and Brian Harpole (as referenced by host).
+Investigative Direction: Compare video frame-by-frame to the multiple conflicting necklace-recovery stories told by Erika Kirk, Frank, and Brian Harpole (as referenced by host).
 
 ---
 
@@ -1347,11 +1347,11 @@ Investigative Direction: Locate the full investigative article; verify Crossman'
 
 ---
 
-**C-2471** 2017 article identifies Antonio Placement Center in Constanta as Erica Kirk's partnership site
+**C-2471** 2017 article identifies Antonio Placement Center in Constanta as Erika Kirk's partnership site
 
 Claim Timestamp: 00:17:48
 
-Claim: Per the displayed 2017 article, Erica Kirk's partnership for the benefit of Romanian children was conducted with both the Antonio Placement Center in Constanta and Renee Crossman's United Hands Romania Association.
+Claim: Per the displayed 2017 article, Erika Kirk's partnership for the benefit of Romanian children was conducted with both the Antonio Placement Center in Constanta and Renee Crossman's United Hands Romania Association.
 
 Anchored Artifacts: A-1838.1
 Mentions: N-2, N-585

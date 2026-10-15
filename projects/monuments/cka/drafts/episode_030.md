@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-Episode 30 centers on three documentary threads tied to artifact presentations. First, the host plays Megyn Kelly's tour Q&A clip in which Megyn publicly corrects Ben Shapiro's claim that Candace had accused Erica Kirk of murder, and presents Megyn's backstage video in which Charlie Kirk is heard saying "Go Max" to Tucker Carlson prior to his Student Action Summit speech. Second, the host plays a Frank Turek interview segment identifying the previously anonymous "old man talking to a bush" pre-event as Butch Hibbs, brother of Pastor Jack Hibbs, and presents a photograph of Hibbs with Kirk taken approximately twenty minutes before the shooting. Third, the host reads directly from the Alexis Wilkins lawsuit against Elijah Schaefer, citing a September 14, 2025 Hen Mazig X post and a Schaefer response photograph as the underlying basis of the $5 million action.
+Episode 30 centers on three documentary threads tied to artifact presentations. First, the host plays Megyn Kelly's tour Q&A clip in which Megyn publicly corrects Ben Shapiro's claim that Candace had accused Erika Kirk of murder, and presents Megyn's backstage video in which Charlie Kirk is heard saying "Go Max" to Tucker Carlson prior to his Student Action Summit speech. Second, the host plays a Frank Turek interview segment identifying the previously anonymous "old man talking to a bush" pre-event as Butch Hibbs, brother of Pastor Jack Hibbs, and presents a photograph of Hibbs with Kirk taken approximately twenty minutes before the shooting. Third, the host reads directly from the Alexis Wilkins lawsuit against Elijah Schaefer, citing a September 14, 2025 Hen Mazig X post and a Schaefer response photograph as the underlying basis of the $5 million action.
 
 The episode also introduces several unanchored investigative threads (UVU outdoor venue selection timeline, Mikey McCoy first name, TPUSA Faith / Calvary Chapel military pipeline pattern, Timpanogos vs. Utah Valley Hospital record-sharing systems, TPUSA email-tracking software claim) which are recorded as investigation target nodes rather than claims because no in-episode artifact anchors them. A Kanye West "Defcon 3" tweet is read aloud and is recorded as a standalone artifact per the read/display rule.
 
@@ -32,7 +32,7 @@ The episode also introduces several unanchored investigative threads (UVU outdoo
 
 **A-1379** Megyn Kelly Tour Q&A Bundle
 
-**A-1379.1** Megyn Kelly Tour Q&A clip in which audience member "Joshua" asks why she looked uncomfortable during Ben Shapiro's appearance and Megyn Kelly responds that she has since learned Candace has not accused Erica Kirk of murder and has been defending her.
+**A-1379.1** Megyn Kelly Tour Q&A clip in which audience member "Joshua" asks why she looked uncomfortable during Ben Shapiro's appearance and Megyn Kelly responds that she has since learned Candace has not accused Erika Kirk of murder and has been defending her.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -302,7 +302,7 @@ Investigative Pressure: Medium
 
 **N-97** Ben Shapiro
 
-Subject of Megyn Kelly's on-stage correction and Dave Rubin's "bravery" characterization; alleged to have falsely told Kelly's audience that Candace accused Erica Kirk of murder.
+Subject of Megyn Kelly's on-stage correction and Dave Rubin's "bravery" characterization; alleged to have falsely told Kelly's audience that Candace accused Erika Kirk of murder.
 
 Evidence Count: 2
 Claim Count: 2
@@ -911,7 +911,7 @@ Persistent target: the host's unnamed female donor who allegedly yelled at Charl
 
 Claim Timestamp: 00:04:04
 
-Claim: The host says that, during an appearance on Megyn Kelly's tour, Ben Shapiro asserted that Candace Owens had accused Erica Kirk of being behind the murder of Charlie Kirk.
+Claim: The host says that, during an appearance on Megyn Kelly's tour, Ben Shapiro asserted that Candace Owens had accused Erika Kirk of being behind the murder of Charlie Kirk.
 
 Anchored Artifacts: A-1379.1
 Mentions: N-2, N-46, N-97, N-3, N-1
@@ -925,7 +925,7 @@ Investigative Direction: Obtain an unedited copy of the Kelly tour Q&A or tour r
 
 Claim Timestamp: 00:04:55
 
-Claim: During a Q&A on her tour, Megyn Kelly stated that she had since learned Candace Owens had not accused Erica Kirk of murder and that Candace has been specifically defending Erica Kirk.
+Claim: During a Q&A on her tour, Megyn Kelly stated that she had since learned Candace Owens had not accused Erika Kirk of murder and that Candace has been specifically defending Erika Kirk.
 
 Anchored Artifacts: A-1379.1
 Mentions: N-2, N-46, N-3

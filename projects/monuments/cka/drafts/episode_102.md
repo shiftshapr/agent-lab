@@ -40,7 +40,7 @@
   - Claim Range: C-2884–C-2908
   - New Nodes Introduced (people): none (Wave 2: local ids removed)
   - New Nodes Introduced (investigation targets): N-10664–N-10667
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 

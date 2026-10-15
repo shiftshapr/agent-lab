@@ -39,7 +39,7 @@
 Artifact Families Introduced: A-2384, A-2385, A-2386, A-2387, A-2388, A-2389, A-2390, A-2391, A-2392
 Claim Range: C-3466–C-3492
 New Nodes Introduced: N-10833, N-10834, N-10835, N-10836, N-10837, N-10838, N-10839
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
 
 ---
 

@@ -2298,7 +2298,7 @@
       "@type": "Claim",
       "@id": "C-1789",
       "ref": "C-1789",
-      "label": "North French Street originated from 1790s refugee settlement",
+      "label": "French Street Name Dates From 1790s Refugee Settlement",
       "claim": "Per a source email, North French Street in Wilmington, Delaware originated in the 1790s when a cluster of French-speaking refugees from Haiti and the French Revolution settled along Willing Street, and the nickname French Street took over.",
       "anchored_artifacts": [
         "A-1469.1"
@@ -2388,7 +2388,7 @@
       "@id": "C-1794",
       "ref": "C-1794",
       "label": "Hervé Hoppenot served as long-time CEO of Incyte",
-      "claim": "The host says Hervé Hoppenot, a French national, was the long-time CEO of Incyte and seems to have just exited as CEO but is still running the company as advisor to the CEO.",
+      "claim": "Per the source email the host reads, Hervé Hoppenot, a French national, was the long-time CEO of Incyte and seems to have just exited as CEO but is still running the company as advisor to the CEO.",
       "anchored_artifacts": [
         "A-1469.4"
       ],
@@ -2426,7 +2426,7 @@
       "@id": "C-1796",
       "ref": "C-1796",
       "label": "FBI presence at 500 North Delaware Avenue",
-      "claim": "Per the source email, the FBI apparently has Suite 300 at 500 North Delaware Avenue and the MGM Delaware Avenue law firm has Suite 200, which the host believes is directly below the FBI.",
+      "claim": "Per the source email, the FBI apparently has Suite 300 at 500 North Delaware Avenue and the MGM Delaware Avenue law firm has Suite 200, which the writer believes is directly below the FBI.",
       "anchored_artifacts": [
         "A-1469.6"
       ],
@@ -2434,7 +2434,7 @@
         "N-10289"
       ],
       "tags": [],
-      "claim_timestamp": "00:30:58",
+      "claim_timestamp": "00:32:37",
       "investigative_direction": "Identify the FBI tenant at 500 Delaware Avenue via federal lease records; confirm MGM Delaware Avenue's suite location.",
       "mentions_person_refs": []
     },
@@ -2650,7 +2650,7 @@
       "@id": "C-10895",
       "ref": "C-10895",
       "label": "Host Says the Alleged Payment Was a $1.5 Million Paper Trail She Cannot Verify",
-      "claim": "The host says she told the public there was a paper trail showing Macron allegedly paid $1.5 million for her assassination, and stresses that the amount is alleged until she can see the transfer in the accounts herself.",
+      "claim": "The host says she told the public there was a paper trail showing Macron allegedly paid $1.5 million, and stresses that the amount is alleged until she can see the transfer in the accounts herself.",
       "anchored_artifacts": [
         "A-1461.1"
       ],
@@ -3165,7 +3165,7 @@
       "@id": "C-10917",
       "ref": "C-10917",
       "label": "Host Says Her Delaware Filing Attorneys Are Housed at 920 North King Street",
-      "claim": "The host says 920 North King Street houses the attorneys filing her paperwork in the Brigitte lawsuit, and that Delaware requires a locally admitted firm to file even if a party has its own lawyers.",
+      "claim": "The host says 920 North King Street houses the attorneys filing her paperwork in the Brigitte lawsuit, and that Delaware requires a party to find lawyers to file the paperwork even if it has its own lawyers.",
       "anchored_artifacts": [
         "A-1469.2"
       ],
@@ -3244,10 +3244,7 @@
       ],
       "claim_timestamp": "00:29:40",
       "investigative_direction": "Check DuPont corporate history for Kevlar's development; the military-tie assertion is general and would need specific contracts.",
-      "transcript_snippet": "they are the original manufacturers of Kevlar",
-      "mentions_person_refs": [
-        "N-289"
-      ]
+      "transcript_snippet": "they are the original manufacturers of Kevlar"
     },
     {
       "@type": "Claim",
@@ -3436,7 +3433,7 @@
       "@id": "C-10929",
       "ref": "C-10929",
       "label": "Host Says She Believes Federal Agencies Set Her Up With the Delaware Lawsuit",
-      "claim": "The host says she feels she was set up by the federal government in the lawsuit, with federal agencies possibly colluding to end her research into who Brigitte Macron was, and that France, the United States and Israel are all implicated.",
+      "claim": "The host says she feels she was set up by the federal government in the lawsuit, with federal agencies possibly colluding to end her research into who Brigitte Macron was, and that France, the United States and Israel are all implicated in whatever Jean-Michel Trogneux was up to during the missing years of his life.",
       "anchored_artifacts": [
         "A-1476.1"
       ],
@@ -3481,7 +3478,7 @@
       "@id": "C-10931",
       "ref": "C-10931",
       "label": "Host Says Macron's Lawsuit Mentions MK Ultra 18 Times Because Brigitte's Birthday Matches the Program",
-      "claim": "The host says MK Ultra is mentioned 18 times in the lawsuit although her filing only noted that Brigitte's alleged fake birthday is the same day as the MK Ultra program, and she suspects Brigitte's involvement in psychological operations.",
+      "claim": "The host says MK Ultra is mentioned 18 times in the lawsuit although all she had said was that Brigitte's alleged fake birthday is the same day as the MK Ultra program, and she suspects Brigitte's involvement in psychological operations.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10001",

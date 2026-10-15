@@ -41,7 +41,7 @@ Episode 144 Ledger Summary:
 - Claim Range: C-3313–C-3325
 - New Nodes Introduced (people): none (Wave 2: local ids removed)
 - New Nodes Introduced (investigation targets): N-10810, N-10811, N-10812, N-10813
-- Existing Nodes Reused: Recurring figures (Charlie Kirk, Erica Kirk, Tyler Robinson, Tyler Bowyer, Terryl Farnsworth, Philip Goldsbury, Andrew Kolvet, Blake Neff, Allan Robertson, etc.) – see Optional Flags
+- Existing Nodes Reused: Recurring figures (Charlie Kirk, Erika Kirk, Tyler Robinson, Tyler Bowyer, Terryl Farnsworth, Philip Goldsbury, Andrew Kolvet, Blake Neff, Allan Robertson, etc.) – see Optional Flags
 
 ---
 
@@ -616,7 +616,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10381** Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -897,7 +897,7 @@ Investigative Direction: Read with C-3324; match the text-message exports under 
 
 ---
 
-**C-3325** Kolvet told Candace on September 14, 2025 that the TPUSA board had voted in Erica Kirk
+**C-3325** Kolvet told Candace on September 14, 2025 that the TPUSA board had voted in Erika Kirk
 
 Claim Timestamp: 00:51:00–00:54:00
 
@@ -908,7 +908,7 @@ Mentions: N-2, N-14
 
 Related Nodes: N-10813
 
-Investigative Direction: Cross-reference with TPUSA corporate filings, board minutes, and Erica Kirk's public statements around the leadership transition.
+Investigative Direction: Cross-reference with TPUSA corporate filings, board minutes, and Erika Kirk's public statements around the leadership transition.
 
 ---
 

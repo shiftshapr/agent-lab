@@ -23,7 +23,7 @@
 Artifact Families Introduced: A-2320, A-2321, A-2322, A-2323, A-2324, A-2325, A-2326
 Claim Range: C-3345–C-3354
 New Nodes Introduced: N-10817, N-10818, N-10819
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 

@@ -36,7 +36,7 @@
   - Claim Range: C-2026–C-2046
   - New People Nodes Introduced: N-267, N-399, N-400, N-401, N-402, N-403, N-404, N-405, N-406, N-407, N-408, N-436, N-437
   - New Investigation Target Nodes Introduced: N-10392, N-10393, N-10394, N-10395, N-10396, N-10397, N-10398, N-10399, N-10400, N-10401
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ## 6. Meme Register
 
@@ -1579,12 +1579,12 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 # Claim Register
 
-**C-2026** Harpole Stated Pre-Planning for Charlie Kirk Events Began on the 24th of the Month Prior to the Event
+**C-2026** Harpole Says Pre-Planning for the Event Began on the 24th of the Month Prior
 
 Claim Timestamp: 00:02:30
-Claim: Brian Harpole stated that the first hard-conversations/intelligence-sharing for Charlie Kirk events begins on the 24th of the month prior to the event.
+Claim: In a clip of the Shawn Ryan interview the host plays, Brian Harpole says that for that Charlie Kirk event the hard conversations and information sharing started on the 24th of the month prior, with intelligence gathering beginning before that.
 Anchored Artifacts: A-1596.1
-Mentions: N-267, N-1
+Mentions: N-267, N-1, N-225
 Investigative Direction: Obtain the full Shawn Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice.
 
 ---
@@ -1592,7 +1592,7 @@ Investigative Direction: Obtain the full Shawn Ryan interview transcript and any
 **C-2027** Bowyer family post described Ukrainian orphan Natalia staying with friends, with Tyler communicating in Russian
 
 Claim Timestamp: 00:12:58
-Claim: Tyler Bowyer's wife posted on social media about a 12-year-old Ukrainian orphan named Natalia staying with friends through an adoption agency program; Tyler spoke with her in Russian for over an hour.
+Claim: Per the social media post by Tyler Bowyer's wife that the host shows, a 12-year-old Ukrainian orphan named Natalia was staying with friends through an adoption agency program, and Tyler talked with her in Russian for over an hour.
 Anchored Artifacts: A-1597.1
 Mentions: N-11
 Related Nodes: N-10401

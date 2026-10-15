@@ -2403,7 +2403,7 @@ Confidence: low
 
 ## IX. Optional Flags
 
-- **Name uncertainty:** Episode uses "Erika Kirk" throughout, while prior ledger convention (per Protocol Example) uses "Erica Kirk." Preserve as "Erika Kirk" for this episode and flag for cross-episode normalization review.
+- **Name uncertainty:** Episode uses "Erika Kirk" throughout, while prior ledger convention (per Protocol Example) uses "Erika Kirk." Preserve as "Erika Kirk" for this episode and flag for cross-episode normalization review.
 - **Transcript ambiguity:** "Colby Sessions" and "Coby Sessions" both appear in the transcript within the same artifact context; treat as the same person pending verification.
 - **Transcript ambiguity:** Host alternately refers to "Lila Rose" and "Layla Rose" within the same segment; treat as "Lila Rose" pending verification (likely host verbal variation).
 - **Artifact verbally referenced but not shown in this episode:** Host references a previously displayed email regarding UVU event approval (from the prior day's show); Allie's tweets respond to that prior display.

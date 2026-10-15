@@ -393,7 +393,7 @@ Flag: Artifact verbally referenced but not shown
 
 **A-3296** Charlie Kirk Show Viva Frei Discord Clip Bundle
 
-**A-3296.1** Clip of the Charlie Kirk Show in which a speaker cites Turkey Tom's video and a speaker addressed as Viva sets out a theory about the Robinson text messages, radicalization timing and George Zin
+**A-3296.1** Clip of the Charlie Kirk Show in which a speaker cites Turkey Tom's video and a speaker addressed as Viva sets out a theory about the Robinson text messages, radicalization timing and George Zinn
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:53:11
@@ -1028,9 +1028,9 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10354** George Zin Self-Incriminating Hospital Statement
+**N-10354** George Zinn Self-Incriminating Hospital Statement
 
-Alleged statement by George Zin to Utah Valley nurses that he was paid to claim to be the shooter.
+Alleged statement by George Zinn to Utah Valley nurses that he was paid to claim to be the shooter.
 
 Evidence Count: 1
 Claim Count: 1
@@ -1127,7 +1127,7 @@ A rumor that the host socialized with TPUSA employees at Tucker Carlson's Christ
 **N-11382** Viva Frei Radicalization Timing and Zin Decoy Theory
 
 Node Type: Topic
-Theories voiced in a Kirk Show clip that Tyler Robinson's radicalization coincided with other political violence suspects and that George Zin acted as a decoy.
+Theories voiced in a Kirk Show clip that Tyler Robinson's radicalization coincided with other political violence suspects and that George Zinn acted as a decoy.
 
 *Related: C-14070, C-14071*
 
@@ -1432,9 +1432,9 @@ Organization the host links to Qatar's intermediary role.
 
 **C-1924** Private meeting with Erika and Justin Streiff lasted 4 hours 30 minutes
 
-Claim Timestamp: 00:02:34
+Claim Timestamp: 00:01:58
 
-Claim: A private meeting between Candace Owens, Erika Kirk, and Justin Streiff, with George present at the opening and cousin Mia in attendance, lasted approximately 4 hours and 30 minutes.
+Claim: The host says her private meeting with Erika Kirk and Justin Streiff, with George present for the beginning and her cousin Mia sitting a little away, lasted 4 hours and 30 minutes.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-2, N-3, N-15, N-30
@@ -1448,7 +1448,7 @@ Investigative Direction: Verify meeting date, location, and stated duration agai
 
 Claim Timestamp: 00:06:18
 
-Claim: The host says Erika Kirk, in her Glenn Beck interview, said she had Charlie Kirk's phone and that he never texted anybody the night before, and that in the meeting Erika said he, like everybody else, communicates on Signal and Telegram.
+Claim: The host says a viral clip from Erika Kirk's Glenn Beck interview had Erika saying she had Charlie Kirk's phone and that Charlie never texted anybody the night before saying he thought they were going to kill him, and that in the meeting Erika said she is looking at his iMessages and that he, like everybody else, communicates on Signal and Telegram.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-3, N-2, N-1, N-238
@@ -1478,10 +1478,10 @@ Investigative Direction: Obtain the original message from Andrew Kolvet or his d
 
 Claim Timestamp: 00:06:18
 
-Claim: Erika Kirk stated that the message Dan Flood received from Charlie Kirk the night before read "the left is going to kill me."
+Claim: The host says that in their meeting Erika Kirk and Justin Streiff clarified that the message Dan Flood received from Charlie Kirk the night before said "the left is going to kill me," which she says she cannot confirm because she did not see the message.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-271, N-1
+Mentions: N-3, N-2, N-15, N-271, N-1
 
 Related Nodes: N-10340
 
@@ -1551,7 +1551,7 @@ Investigative Direction: Verify witness testimony through investigators and reco
 
 Claim Timestamp: 00:27:04
 
-Claim: Mikey McCoy's call logs show his first post-shooting call was to his wife Elizabeth McCoy and lasted approximately 10 minutes.
+Claim: The host says the call logs Turning Point USA showed her indicate that Mikey McCoy's first post-shooting call was to his wife, Elizabeth McCoy, and that he stayed on the phone with her for 10 minutes.
 
 Anchored Artifacts: A-1543.1
 Mentions: N-191, N-218
@@ -1598,7 +1598,7 @@ Claim Timestamp: 00:26:28
 Claim: The host says Blake Neff's interview account - that Mikey's first call after the shooting was to Erika and that Mikey then called his father - is contradicted by call logs Turning Point USA showed her.
 
 Anchored Artifacts: A-1542.1, A-1543.1
-Mentions: N-160, N-191, N-2
+Mentions: N-3, N-160, N-191, N-2, N-17
 Contradicts: C-1932
 
 Related Nodes: N-10338
@@ -1611,10 +1611,10 @@ Investigative Direction: Cross-reference Blake Neff's recorded statement against
 
 Claim Timestamp: 00:28:48
 
-Claim: Elizabeth McCoy was reportedly involved in memorial activity and vacation travel with Erika, yet was removed from the publicly circulated version of the post-shooting call sequence.
+Claim: The host says Elizabeth McCoy was left out of what was said publicly about Mikey McCoy's call log, although she was "main stage" at the memorial, is close with Erika Kirk and went on vacation with her, and says she does not understand this disappearing act.
 
 Anchored Artifacts: A-1543.1
-Mentions: N-2, N-218
+Mentions: N-3, N-2, N-218, N-191
 
 Related Nodes: N-10339
 
@@ -1626,7 +1626,7 @@ Investigative Direction: Investigate the editorial decisions that excluded Eliza
 
 Claim Timestamp: 00:32:51
 
-Claim: Three sources with knowledge confirmed to Candace that Bibi Netanyahu made an offer to fund Turning Point USA to the next level.
+Claim: The host says three different sources who would have knowledge of it confirmed to her that Bibi Netanyahu did make an offer to fund Turning Point USA to the next level.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-3, N-36
@@ -1639,12 +1639,12 @@ Investigative Direction: Identify the three sources and obtain documentary evide
 
 **C-1938** Andrew Kolvet told Candace Bibi offered to take TPUSA to next level
 
-Claim Timestamp: 00:32:14
+Claim Timestamp: 00:31:40
 
-Claim: Andrew Kolvet (as named in transcript) told Candace verbatim that Bibi Netanyahu offered to take Turning Point USA to the next level and Charlie turned the money down.
+Claim: The host says Andrew Kolvet told her verbatim that Bibi Netanyahu offered to take Turning Point USA to the next level and that Charlie turned that money down.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-14, N-36
+Mentions: N-3, N-14, N-36, N-1
 
 Related Nodes: N-10342
 
@@ -1669,7 +1669,7 @@ Investigative Direction: Identify the named paid accounts and any PragerU or PR-
 
 Claim Timestamp: 00:11:35
 
-Claim: Rob McCoy does not work with TPUSA in any capacity, contrary to his public conduct at the memorial and his claimed "America's pastor" status.
+Claim: The host says she was surprised to learn that Rob McCoy does not work with Turning Point USA in any capacity, and that she had assumed he did because he called himself "America's pastor" at the memorial and his Wikipedia entry said he started Turning Point USA Faith.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-17
@@ -1684,10 +1684,10 @@ Investigative Direction: Verify Rob McCoy's formal affiliations independently of
 
 Claim Timestamp: 00:09:23
 
-Claim: The host says TPUSA defended Terryl Farnsworth's removal of cameras as part of a new livestream system used selectively for tour stops rather than all outdoor events.
+Claim: The host says Turning Point USA echoed and defended Terryl Farnsworth's account that they were trying something new that day: they normally livestream tour-stop events but not outdoor "prove me wrong" events, and the new livestream required Terryl.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-262
+Mentions: N-3, N-262
 
 Related Nodes: N-10346
 
@@ -1710,11 +1710,11 @@ Investigative Direction: Verify the original tweet content and the surgeon's ide
 
 ---
 
-**C-1942** Andrew Kolvet admitted surgeon did not know he would post
+**C-1942** Host Says They Did Not Know Kolvet Would Write the Surgeon Tweet
 
 Claim Timestamp: 00:14:03
 
-Claim: The host says Andrew Kolvet said he spoke to the surgeon, and that they confirmed Kolvet spoke to the surgeon but that the surgeon did not know Kolvet was going to write the tweet.
+Claim: The host says Andrew Kolvet said he spoke to the surgeon, and that they confirmed Kolvet spoke to the surgeon but that they did not know he was going to write the tweet or that he had called up the surgeon.
 
 Anchored Artifacts: A-1539.1, A-1541.2
 Mentions: N-14
@@ -1744,7 +1744,7 @@ Investigative Direction: Verify the earlier Tim Pool statement against his show 
 
 Claim Timestamp: 00:45:27
 
-Claim: Tim Pool currently states Candace Owens has used the same security personnel and security companies as Charlie and Erika Kirk.
+Claim: In a clip the host plays, Tim Pool says Candace Owens has used the same security personnel and security companies as Charlie and Erika Kirk.
 
 Anchored Artifacts: A-1545.2
 Mentions: N-268, N-3, N-1, N-2
@@ -1815,7 +1815,7 @@ Investigative Direction: Verify against Daily Wire security logs or contemporane
 
 ---
 
-**C-1949** Candace's husband has no Qatari passport/citizenship
+**C-1949** Host Says Husband's Wikipedia Falsely Listed Qatari Citizenship
 
 Claim Timestamp: 00:39:55
 
@@ -1830,11 +1830,11 @@ Investigative Direction: Verify travel and passport records.
 
 ---
 
-**C-1950** Turkey Tom authenticated Robinson Discord chat messaging style
+**C-1950** Clip Cites Turkey Tom Video on Robinson Discord Messaging Style
 
 Claim Timestamp: 00:53:11
 
-Claim: In a clip the host plays, a speaker addressing Viva Frei says a video by Turkey Tom, described as someone who was in the Discord chats with Tyler Robinson and apparently spent time with them at the apartment, says "100%" this is how they talked.
+Claim: In a clip the host plays, a speaker addressing Viva Frei points to a video by Turkey Tom in which, he says, someone authenticated as having been in the Discord chats with Tyler Robinson and his partner, and who apparently spent time with them at the apartment, said "100%" this is how they talked.
 
 Anchored Artifacts: A-1549.1
 Mentions: N-329, N-334, N-40
@@ -1844,11 +1844,11 @@ Investigative Direction: Verify Turkey Tom's claimed Discord membership through 
 
 ---
 
-**C-1951** George Zin allegedly told nurses he was paid to pose as shooter
+**C-1951** George Zinn allegedly told nurses he was paid to pose as shooter
 
 Claim Timestamp: 00:56:50
 
-Claim: Per Candace, George Zin, who was treated at Utah Valley, said he told the nurses that he was paid to do that.
+Claim: Per Candace, George Zinn, who was treated at Utah Valley, said he told the nurses that he was paid to do that.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-42
@@ -1941,6 +1941,7 @@ Claim Timestamp: 00:51:20
 Claim: The host says the earliest mention of the UVU courtyard location that her team found was on September 2, when local media on KAMYU said Charlie Kirk was speaking in the courtyard.
 
 Anchored Artifacts: A-1547.1
+Mentions: N-1
 
 Related Nodes: N-10343
 
@@ -2159,7 +2160,7 @@ Investigative Direction: Obtain the original Flood message from his device or fr
 
 Claim Timestamp: 00:07:41
 
-Claim: The host says Erika Kirk told her the reason she did not ask the host to stop at the start of the Bari Weiss event was that she was actually learning things from the show, and that Erika felt Weiss was trying to create a moment.
+Claim: The host says Erika Kirk told her the reason she did not ask the host to stop in the beginning was that she was actually learning things from the show, and that the host thinks Erika similarly felt Weiss was trying to create a moment.
 
 Transcript Snippet: it's interesting to hear Erika say that the reason she didn't ask me to stop in the beginning because she was she was actually learning things from the show.
 
@@ -2203,11 +2204,11 @@ Investigative Direction: Ask Erika Kirk and CBS what advance notice she had of t
 
 ---
 
-**C-14017** Host Says Terryl Farnsworth Lied to Her Several Times About the Cameras
+**C-14017** Host Says Terryl Farnsworth Lied to Her Several Times
 
 Claim Timestamp: 00:09:23
 
-Claim: The host says her skin crawled after she spoke to Terryl Farnsworth, the person who took the cameras down, and that he lied to her several times and she still does not understand why he was there that day.
+Claim: The host says her skin crawled after she spoke to Terryl Farnsworth, the person who took the cameras down, that he lied to her several times, and that she told TPUSA she did not understand why he was there that day.
 
 Transcript Snippet: my skin crawled after I spoke to Terryl Farnsworth, the person who took the cameras down. He lied to me several times.
 
@@ -2245,7 +2246,7 @@ Claim: The host says TPUSA told her that after Farnsworth took the cameras down 
 Transcript Snippet: after he took the cameras down, there was a police officer or or fed, whoever it was to him and asked him to secure the footage.
 
 Anchored Artifacts: 
-Mentions: N-262, N-11, N-3
+Mentions: N-262, N-3
 Related Nodes: N-10346
 Tags: relevance:core
 Investigative Direction: Identify the officer or agent and obtain the chain of custody for the camera and its card.
@@ -2420,7 +2421,7 @@ Investigative Direction: Ask the lawyer to confirm the exchange; this can only b
 
 Claim Timestamp: 00:18:08
 
-Claim: The host says the lawyer told her prosecutors do not share what investigators have found with the victim, including Erika Kirk, at this stage and she will not know until the May hearing.
+Claim: The host says the lawyer told her that information on what investigators have found is not shared with the victim, including Erika Kirk, at this stage and she will not know until the May hearing.
 
 Transcript Snippet: they don't actually share that information with the victim. They don't share that information with Erika.
 
@@ -2580,7 +2581,7 @@ Investigative Direction: Obtain Neff's call log and the shot time from timestamp
 
 ---
 
-**C-14040** Host Says the Third Person Mikey Added Was Danny McCoy, His Brother in the Military
+**C-14040** Host Mentions Danny McCoy, Mikey's Brother in the Military, in the Call Log
 
 Claim Timestamp: 00:27:12
 
@@ -2778,7 +2779,7 @@ Investigative Direction: Identify the assistant named Danny and confirm his role
 
 ---
 
-**C-14052** Host Says TPUSA-Side Attacks Read Like Candace Owens Fan Fiction and Mean She Is Close
+**C-14052** Host Says Attacks on Her Read Like Candace Owens Fan Fiction and Mean She Is Close
 
 Claim Timestamp: 00:38:59
 
@@ -2847,7 +2848,7 @@ Investigative Direction: Obtain the Post article and its sourcing; compare with 
 
 Claim Timestamp: 00:41:47
 
-Claim: The host says the Post's claim that she demanded a huge studio and used a PR firm to get a People magazine cover is fan fiction, and that she does not think they ever had a conversation about People magazine.
+Claim: The host says the Post's claim that she demanded a huge studio and attempted to use their PR firm to get a People magazine cover is fan fiction, and that she does not think they ever had a conversation about People magazine.
 
 Transcript Snippet: I don't even think we ever had a conversation about People magazine cuz that would not be a normal outlet for any conservatives.
 
@@ -2976,7 +2977,7 @@ Investigative Direction: Obtain the original message metadata and any UVU securi
 
 Claim Timestamp: 00:47:37
 
-Claim: The host says there is something at Fort Huachuca, which she spells Huachuca, that she thinks caused a panic, and that she will cover it the next day along with the Egyptian planes.
+Claim: The host says there is something at Fort Huachuca that she thinks caused a panic, and that she will cover it the next day along with the Egyptian planes.
 
 Transcript Snippet: Huachuca, which we're going to have a lot on tomorrow, uh because there's there is something there, and I think that that caused a panic
 
@@ -3084,11 +3085,11 @@ Investigative Direction: Identify the speaker and compare the dates of the named
 
 ---
 
-**C-14071** Clip Speaker Theorizes George Zin Was a Decoy Who Knew of the Plan
+**C-14071** Clip Speaker Theorizes George Zinn Was a Decoy Who Knew of the Plan
 
 Claim Timestamp: 00:55:40
 
-Claim: A speaker in the Kirk Show clip, addressed as Viva, offers a theory that George Zin knew what was going to happen, showed up thinking he would be a useful decoy or distraction for Tyler Robinson, and may have been on the Discord chat.
+Claim: A speaker in the Kirk Show clip, addressed as Viva, offers a theory that George Zinn knew what was going to happen, showed up thinking he would be a useful decoy or distraction for Tyler Robinson, and may have been on the Discord chat.
 
 Transcript Snippet: He knows what's going down. He shows up there and thinks he's going to be some useful decoy or distraction for Tyler Robinson cuz they know what's going down.
 
@@ -3100,13 +3101,13 @@ Investigative Direction: Ask investigators whether Zin appears in any Discord re
 
 ---
 
-**C-14072** Host Says She Broke the Story That Zin Told Utah Valley Nurses He Was Paid
+**C-14072** Host Says She Broke the Story That Zinn Told Utah Valley Nurses He Was Paid
 
 Claim Timestamp: 00:56:14
 
-Claim: The host says she broke the story that the nurses at Utah Valley, which treated George Zin, were told by him that he was paid to do it, and that everyone is ignoring the things she broke.
+Claim: The host says she broke the story that the nurses at Utah Valley, which treated George Zinn, were told by him that he was paid to do it, and that everyone is ignoring the things she broke.
 
-Transcript Snippet: I broke the story that the nurses were told at Utah Valley, which treated George Zin.
+Transcript Snippet: I broke the story that the nurses were told at Utah Valley, which treated George Zinn.
 
 Anchored Artifacts: 
 Mentions: N-3, N-42
@@ -3529,7 +3530,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** "Erika Kirk" appears twice in transcript; this may be a transcript error for "Erica Kirk" or a distinct reference to a maiden/different name. Preserved as written.
+- **Name uncertainty:** "Erika Kirk" appears twice in transcript; this may be a transcript error for "Erika Kirk" or a distinct reference to a maiden/different name. Preserved as written.
 - **Name inconsistency:** "Rob McCoy" and "Rob McCoy" both appear; presumed same individual.
 - **Name inconsistency:** "Andrew Kolvet" and "Andrew Kolvet" both appear in transcript; unclear whether same individual. Preserved both as written.
 - **Name inconsistency:** "Brian Harpole" and "Brian Harpole" both appear; presumed same individual.

@@ -2943,8 +2943,8 @@
       "@type": "Claim",
       "@id": "C-2026",
       "ref": "C-2026",
-      "label": "Harpole Stated Pre-Planning for Charlie Kirk Events Began on the 24th of the Month Prior to the Event",
-      "claim": "Brian Harpole stated that the first hard-conversations/intelligence-sharing for Charlie Kirk events begins on the 24th of the month prior to the event.",
+      "label": "Harpole Says Pre-Planning for the Event Began on the 24th of the Month Prior",
+      "claim": "In a clip of the Shawn Ryan interview the host plays, Brian Harpole says that for that Charlie Kirk event the hard conversations and information sharing started on the 24th of the month prior, with intelligence gathering beginning before that.",
       "anchored_artifacts": [
         "A-1596.1"
       ],
@@ -2954,7 +2954,8 @@
       "investigative_direction": "Obtain the full Shawn Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice.",
       "mentions_person_refs": [
         "N-267",
-        "N-1"
+        "N-1",
+        "N-225"
       ]
     },
     {
@@ -2962,7 +2963,7 @@
       "@id": "C-2027",
       "ref": "C-2027",
       "label": "Bowyer family post described Ukrainian orphan Natalia staying with friends, with Tyler communicating in Russian",
-      "claim": "Tyler Bowyer's wife posted on social media about a 12-year-old Ukrainian orphan named Natalia staying with friends through an adoption agency program; Tyler spoke with her in Russian for over an hour.",
+      "claim": "Per the social media post by Tyler Bowyer's wife that the host shows, a 12-year-old Ukrainian orphan named Natalia was staying with friends through an adoption agency program, and Tyler talked with her in Russian for over an hour.",
       "anchored_artifacts": [
         "A-1597.1"
       ],

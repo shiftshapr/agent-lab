@@ -381,7 +381,7 @@ Investigative Pressure: High
 
 **N-10780** "Protecting Mrs. Kirk" Group Chat Investigation
 
-Persistent investigable target: 92-member X-coordinated group chat allegedly organized around defending Erica Kirk and attacking Candace Owens. Documentary evidence includes membership-list exposure by Shady Lady Katie (A-2246.1) and confirmed commenter acknowledgment of address-sharing (A-2253.4). Host frames organizer as previously engaged in intelligence-gathering tied to Israel/Gaza advocacy.
+Persistent investigable target: 92-member X-coordinated group chat allegedly organized around defending Erika Kirk and attacking Candace Owens. Documentary evidence includes membership-list exposure by Shady Lady Katie (A-2246.1) and confirmed commenter acknowledgment of address-sharing (A-2253.4). Host frames organizer as previously engaged in intelligence-gathering tied to Israel/Gaza advocacy.
 
 Evidence Count: 3
 Claim Count: 3

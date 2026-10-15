@@ -31,7 +31,7 @@ New Person Nodes Introduced: none (Wave 2: local ids removed)
 
 New Investigation Target Nodes Introduced: N-10544, N-10545
 
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
 
 ---
 
@@ -2403,7 +2403,7 @@ Confidence: high
 - **Name uncertainty:** "Nimi" vs. "Nemi" skincare – sponsor name appears in transcript inconsistently; preserved as "Nimi" per on-screen URL nimiskin.com.
 - **Artifact verbally referenced but not shown:** Jo Kent's claim that he bumped heads with Kash Patel over investigation into foreign actor involvement in Charlie Kirk's death – host narration only, no artifact shown.
 - **Artifact verbally referenced but not shown:** Assertion that Tulsi Gabbard's office was the locus Kent was working in – host narration only.
-- **Transcript ambiguity:** "Erika" spelling used throughout episode for Erica Kirk – preserved as "Erica Kirk" per existing node convention (N-2).
+- **Transcript ambiguity:** "Erika" spelling used throughout episode for Erika Kirk – preserved as "Erika Kirk" per existing node convention (N-2).
 - **Transcript ambiguity:** Yair Netanyahu "7 days" silence claim is host-asserted based on pattern observation; no artifact shown.
 - **Claim failed admission test:** Multiple claims were considered and excluded for lacking artifact anchors, including: "Joe Kent was about to be fired" (when considered as host assertion rather than Mark Levin's – see C-2501 for the artifact-anchored version); Harvest Church sex-trafficking lawsuit allegations against Erika Kirk partners; Renee Crossman / Family International / Children of God cult allegations.
 - **Possible transcription error:** "Blake Neff" and "Mikey McCoy" referenced as TPUSA staff without further context – preserved as transcribed.

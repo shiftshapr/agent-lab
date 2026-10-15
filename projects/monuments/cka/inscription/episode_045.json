@@ -1284,7 +1284,7 @@
       "@id": "C-1897",
       "ref": "C-1897",
       "label": "Erika Kirk requests public privacy on Charlie Kirk's burial location",
-      "claim": "Erika Kirk asked the public to allow her family privacy regarding the location where Charlie Kirk is buried, citing the need to protect her children, in-laws, and parents, and announced plans for a \"museum style\" memorial at Turning Point USA.",
+      "claim": "In a Harris Faulkner interview clip the host plays, Erika Kirk asks that her family be allowed to keep private where Charlie Kirk is laid to rest, saying she wants one thing kept sacred to her family, in-laws, children and parents, and says a \"museum style\" memorial will be built at Turning Point USA.",
       "anchored_artifacts": [
         "A-1525.1"
       ],
@@ -1325,7 +1325,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:06:28",
+      "claim_timestamp": "00:05:53",
       "investigative_direction": "Obtain archived Instagram post metadata, timestamp, and current status (public, private, deleted); verify any deletion history.",
       "mentions_person_refs": [
         "N-2",
@@ -1355,7 +1355,7 @@
       "@id": "C-1901",
       "ref": "C-1901",
       "label": "Tucker Carlson confirms Egyptian-registered aircraft followed Erika Kirk",
-      "claim": "Tucker Carlson, on the Theo Von podcast, stated that Egyptian-registered aircraft had been following Erika Kirk in multiple places around the world for years, and characterized the claim as \"factually true.\"",
+      "claim": "In a Theo Von podcast clip the host plays, Tucker Carlson says that the host's claim that Egyptian-registered aircraft were following Erika Kirk around for a number of years in different places in the world is \"factually true,\" while saying he does not know what it means.",
       "anchored_artifacts": [
         "A-1528.1"
       ],
@@ -1418,7 +1418,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:29:23",
+      "claim_timestamp": "00:25:30",
       "investigative_direction": "Compare Tucker's stated concerns with the official FBI affidavit and any public DOJ statements; identify what additional evidence the FBI has declined to disclose.",
       "mentions_person_refs": [
         "N-22"
@@ -1445,7 +1445,7 @@
       "@id": "C-1906",
       "ref": "C-1906",
       "label": "RCH-to-SAM call sign change indicates senior official pickup at Fort Huachuca",
-      "claim": "The flight's call sign changed from RCH (Reach) to SAM (Special Air Mission) after departing Fort Huachuca, which according to on-air flight analyst Mark indicates that someone of senior executive-branch, cabinet, congressional-delegation, or vice-presidential stature was picked up at Fort Huachuca.",
+      "claim": "The flight's call sign changed from RCH (Reach) to SAM (Special Air Mission) after departing Fort Huachuca, which according to the show's director Mark, speaking on air, indicates that someone of senior executive-branch, cabinet, congressional-delegation, or vice-presidential stature was picked up at Fort Huachuca.",
       "anchored_artifacts": [
         "A-1530.1"
       ],
@@ -1482,7 +1482,7 @@
       "@id": "C-1908",
       "ref": "C-1908",
       "label": "Host Says JTF Operates Unmarked SCIF at Fort Huachuca with Barbed Wire and TS Clearance",
-      "claim": "The host says, citing people she says are currently stationed on the base and an email she reads, that Joint Task Force at Fort Huachuca operates out of an unmarked building converted to a Sensitive Compartmented Information Facility (SCIF), now surrounded by barbed wire, with cell phones and personal electronics prohibited and top secret clearance required for access.",
+      "claim": "The host says, citing people she says are currently stationed on the base and an email she reads, that Joint Task Force at Fort Huachuca operates out of an unmarked building converted to a Sensitive Compartmented Information Facility (SCIF), now surrounded by barbed wire, with cell phones and personal electronics prohibited unless government issued and top clearance required for access.",
       "anchored_artifacts": [
         "A-1532.1"
       ],
@@ -1512,7 +1512,7 @@
       "@id": "C-1910",
       "ref": "C-1910",
       "label": "Pam Bondi previously flew on USAF C37A 99-044",
-      "claim": "According to the tipster email, Pam Bondi used USAF C37A Gulfstream V (tail 99-044) approximately five months earlier, flying from the Tampa area back to Washington, DC.",
+      "claim": "According to the tipster email the host reads, it appears that Pam Bondi used USAF C37A Gulfstream V (tail 99-044) approximately five months earlier, flying from the Tampa area back to Washington, DC.",
       "anchored_artifacts": [
         "A-1529.1"
       ],
@@ -1530,8 +1530,8 @@
       "@type": "Claim",
       "@id": "C-1911",
       "ref": "C-1911",
-      "label": "Host concurs with critiques that Erika's moral outrage is manufactured for elite audiences and that criticism of Jews is not inherently antisemitic",
-      "claim": "The host explicitly agrees with Merryill Gerston Meyer's thesis that Erika Kirk's moral outrage is manufactured for an elite target audience rather than grassroots supporters, and with Laughing Cats Music World's thesis that criticism of corrupt Jewish actors is distinct from antisemitism.",
+      "label": "Host Agrees With Viewer Comments on Criticizing Corrupt Jews and Erika's Elite-Audience Outrage",
+      "claim": "The host agrees with a viewer comment from Laughing Cats Music World that corrupt Jews can be criticized without blanket antisemitism, saying \"you are absolutely on the money\"; later she agrees with a comment from Merryill Gerston Meyer that Erika Kirk's moral outrage seems manufactured for an elite target audience rather than normal folks who want to solve the murder, saying \"I would say it feels elite.\"",
       "anchored_artifacts": [
         "A-1531.2",
         "A-1531.4"
@@ -1541,6 +1541,7 @@
       "claim_timestamp": "00:55:39",
       "investigative_direction": "Track pattern of Erika Kirk's public appearances to determine whether audience composition supports or contradicts the elite-audience thesis.",
       "mentions_person_refs": [
+        "N-3",
         "N-2"
       ]
     },
@@ -2160,7 +2161,7 @@
       "@id": "C-8094",
       "ref": "C-8094",
       "label": "Host Says Erika Kirk Spoke Well of Jews and Said TPUSA Is Having Shabbat Dinner",
-      "claim": "The host says Erika Kirk, not speaking about the host, talked about Israel and said good things about Jews and how TPUSA is having Shabbat dinner.",
+      "claim": "The host says Erika Kirk, not speaking about the host, talked at the Bari Weiss town hall about Israel and said good things about Jews and how TPUSA is having Shabbat dinner.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",
@@ -2794,7 +2795,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -2802,7 +2803,7 @@
       "@id": "C-8122",
       "ref": "C-8122",
       "label": "Host Says TPUSA Responds to the Egyptian Planes With Jokes",
-      "claim": "The host says that, instead of being concerned about the Egyptian planes a podcaster found, they (the Turning Point USA side she is criticizing) are just making jokes that there is something not right with that.",
+      "claim": "The host says that, instead of being concerned about the Egyptian planes a podcaster found, they (Erika Kirk and the Turning Point USA side she is criticizing) are just making jokes that there is something not right with that.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10253"

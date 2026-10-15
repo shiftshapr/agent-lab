@@ -459,9 +459,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10698",
       "ref": "N-10698",
-      "name": "Next Model Management / MC2 Trafficking Connection to Erica Kirk",
+      "name": "Next Model Management / MC2 Trafficking Connection to Erika Kirk",
       "type": "investigation_target",
-      "description": "Investigative target: allegation that Erica Kirk was involved in \"modeling apartments\" for Next Model Management and MC2 during the period covered by pending trafficking litigation.",
+      "description": "Investigative target: allegation that Erika Kirk was involved in \"modeling apartments\" for Next Model Management and MC2 during the period covered by pending trafficking litigation.",
       "related_artifacts": [],
       "related_claims": [
         "C-2981"
@@ -1315,7 +1315,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10532",
       "ref": "N-10532",
-      "name": "Next Model Management / Erica Kirk Connection",
+      "name": "Next Model Management / Erika Kirk Connection",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],

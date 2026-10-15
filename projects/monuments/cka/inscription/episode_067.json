@@ -447,7 +447,7 @@
           "@type": "Artifact",
           "@id": "A-1726.1",
           "ref": "A-1726.1",
-          "description": "Host-testimony claim that her source confirmed the Dan Flood text message was sent as an iMessage, not Telegram (contradicting Erica Kirk's stated account)",
+          "description": "Host-testimony claim that her source confirmed the Dan Flood text message was sent as an iMessage, not Telegram (contradicting Erika Kirk's stated account)",
           "related_claims": [
             "C-2273",
             "C-2274"
@@ -1326,7 +1326,7 @@
       "ref": "N-10470",
       "name": "Dan Flood Message Format Discrepancy",
       "type": "investigation_target",
-      "description": "Persistent inconsistency between Erica Kirk's account (denied message; then said Telegram; host source says iMessage). Bears directly on the Sept 9 \"they're going to kill me\" text.",
+      "description": "Persistent inconsistency between Erika Kirk's account (denied message; then said Telegram; host source says iMessage). Bears directly on the Sept 9 \"they're going to kill me\" text.",
       "related_artifacts": [
         "A-1726.1"
       ],
@@ -1348,9 +1348,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10471",
       "ref": "N-10471",
-      "name": "Erica Kirk Sept 10 Alibi Verification",
+      "name": "Erika Kirk Sept 10 Alibi Verification",
       "type": "investigation_target",
-      "description": "Host's claim that no one in Erica Kirk's building or medical office can confirm her stated alibi of collapsing in parking lot and screaming in doctor's office on Sept 10.",
+      "description": "Host's claim that no one in Erika Kirk's building or medical office can confirm her stated alibi of collapsing in parking lot and screaming in doctor's office on Sept 10.",
       "related_artifacts": [
         "A-1726.2"
       ],
@@ -1373,7 +1373,7 @@
       "ref": "N-10472",
       "name": "Fort Huachuca Alibi Investigation",
       "type": "investigation_target",
-      "description": "Persistent target: host reports \"major problems\" verifying Erica Kirk's Fort Huachuca alibi; details pending.",
+      "description": "Persistent target: host reports \"major problems\" verifying Erika Kirk's Fort Huachuca alibi; details pending.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -2790,7 +2790,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:47:26",
-      "investigative_direction": "Verify against Charlie Kirk's text message timestamp; cross-reference with Erica Kirk's location claims.",
+      "investigative_direction": "Verify against Charlie Kirk's text message timestamp; cross-reference with Erika Kirk's location claims.",
       "mentions_person_refs": [
         "N-7",
         "N-1"
@@ -2819,7 +2819,7 @@
       "@id": "C-2273",
       "ref": "C-2273",
       "label": "Source States Dan Flood Text Was Sent as iMessage, Not Telegram",
-      "claim": "Per Candace Owens's source (described as having had access to Dan Flood's messages), the \"they're going to kill me\" text was sent as an iMessage, not via a Telegram chat that auto-cleared, as Erica Kirk later claimed.",
+      "claim": "Per Candace Owens's source (described as having had access to Dan Flood's messages), the \"they're going to kill me\" text was sent as an iMessage, not via a Telegram chat that auto-cleared, as Erika Kirk later claimed.",
       "anchored_artifacts": [
         "A-1726.1"
       ],

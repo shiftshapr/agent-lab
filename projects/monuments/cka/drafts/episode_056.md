@@ -38,7 +38,7 @@
   - Claim Range: C-2075 – C-2096
   - New Person Nodes Introduced: N-446 through N-454
   - New Investigation Targets Introduced: N-10409, N-10410, N-10411, N-10412
-  - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk
+  - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk
 
 ---
 
@@ -174,7 +174,7 @@ Confidence Level: Medium
 
 **A-1626** Social Blade Instagram Purge Data Bundle
 
-**A-1626.1** Reference (host-cited) to Social Blade data showing Erica Kirk deleted 126 Instagram posts on June 19, framed in context of the master timeline.
+**A-1626.1** Reference (host-cited) to Social Blade data showing Erika Kirk deleted 126 Instagram posts on June 19, framed in context of the master timeline.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -442,7 +442,7 @@ Investigative Pressure: High
 
 *Related: A-1624.1, A-1624.2, A-1624.3, C-2087, C-2088, C-2089, N-451, N-452*
 
-**N-10412** Erica Kirk June 19 Instagram Purge
+**N-10412** Erika Kirk June 19 Instagram Purge
 
 Persistent investigation target: reported deletion of 126 Instagram posts on June 19, framed in the master timeline as a possible pre-event secrecy action.
 
@@ -934,7 +934,7 @@ Investigative Direction: Cross-check obituary; verify cause of death and date.
 
 Claim Timestamp: 00:12:24
 
-Claim: Social Blade data records Erica Kirk deleting 126 Instagram posts on June 19.
+Claim: Social Blade data records Erika Kirk deleting 126 Instagram posts on June 19.
 
 Anchored Artifacts: A-1626.1
 Mentions: N-2

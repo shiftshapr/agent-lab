@@ -36,7 +36,7 @@
 - **Artifact Families Introduced:** A-2393, A-2394, A-2395, A-2396, A-2397, A-2398, A-2399, A-2400, A-2401, A-2402, A-2403, A-2404
 - **Claim Range:** C-3494–C-3512
 - **New Nodes Introduced:** N-10840, N-10841, N-10842, N-10843, N-10844, N-10845, N-10846
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens), N-14 (Andrew Kolvet (variant spellings: Kolvet/Kovat/Kovatte)), N-22 (Tucker Carlson), N-160 (Blake Neff (variant: Nef) – actual ledger IDs to be verified against global ledger)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), N-14 (Andrew Kolvet (variant spellings: Kolvet/Kovat/Kovatte)), N-22 (Tucker Carlson), N-160 (Blake Neff (variant: Nef) – actual ledger IDs to be verified against global ledger)
 
 ---
 

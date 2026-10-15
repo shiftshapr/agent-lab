@@ -797,7 +797,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10532** Next Model Management / Erica Kirk Connection
+**N-10532** Next Model Management / Erika Kirk Connection
 
 Existing node reused for new claims in this episode.
 
