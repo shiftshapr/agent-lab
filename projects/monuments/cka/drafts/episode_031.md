@@ -1145,7 +1145,7 @@ First named by the host at 00:22:47 in episode 31. Referred to by the host as Di
 
 **N-766** Kenny
 
-First named by the host at 00:25:17 in episode 31. Former Potter's Fields Ignite student the host says blew the whistle on alleged financial fraud (spelled Kenzie Kenny and Kenny in the transcript).
+First named by the host at 00:25:17 in episode 31. Former Potter's Fields Ignite student the host says blew the whistle on alleged financial fraud (spelled Kenzie Kinney and Kenny in the transcript).
 
 *Related: C-6634*
 
@@ -1223,9 +1223,9 @@ Investigative Direction: Obtain full unedited Bryce Eddie Show episode; verify S
 
 ---
 
-**C-1687** Rob McCoy Placed Thomas Camino in Home Fellowship Program with Access to Children
+**C-1687** Host Says Rob McCoy Placed Thomas Camino in Home Fellowship Program With Access to Children
 
-Claim Timestamp: 00:12:54
+Claim Timestamp: 00:11:36
 
 Claim: Owens states that Rob McCoy decided Thomas Camino should have access to young children through a Calvary Chapel program called home fellowship that put him "inside the homes of children"; in the podcast clip she plays, McCoy cites "the gossip and the slander" of his friend and says he personally made the call to pull a home fellowship advertisement because he wanted Camino's family protected.
 
@@ -1298,7 +1298,7 @@ Investigative Direction: Obtain and analyze all available footage of the immedia
 
 ---
 
-**C-1693** Owens and Kirk Co-Hosted a PragerU Segment Discussing Foxhole Allies
+**C-1693** Throwback PragerU Clip of Owens and Kirk Discussing Foxhole Allies
 
 Claim Timestamp: 00:00:01
 
@@ -1624,11 +1624,11 @@ Investigative Direction: Obtain the search warrant return from the Orange County
 
 ---
 
-**C-6616** Camino Says His Lawyer Cited Footprints and a Palm Print and Urged a Plea Deal
+**C-6616** Camino Says His Lawyer Relayed Footprint and Palm Print Evidence and a Plea Offer
 
 Claim Timestamp: 00:15:45
 
-Claim: In the played clip, Camino says his lawyer told him police had footprints and a palm print lifted from a scene and wanted him to take a plea bargain before a pre-trial hearing, and that a jury then returned a guilty verdict.
+Claim: In the played clip, Camino says his lawyer told him they said they had footprints and a palm print of his lifted from a scene and wanted to see if he would take a plea bargain before a pre-trial hearing, and that a jury then returned a guilty verdict.
 
 Transcript Snippet: they say they have footprints, forensic evidence, footprints and a palm print of yours that they lifted from a scene
 
@@ -1644,7 +1644,7 @@ Investigative Direction: Obtain the trial exhibits and forensic reports to check
 
 Claim Timestamp: 00:15:45
 
-Claim: In the played clip, Camino says he did not have a record before the eight-year sentence, which conflicts with the host's reading that he was placed on probation in 1990 for a no-contest plea to lewd conduct.
+Claim: In the played clip, Camino says he did not have a record before the eight-year sentence, which conflicts with the host's earlier statement that he was placed on probation in 1990 for a no-contest plea to lewd conduct.
 
 Transcript Snippet: didn't have a record.
 
@@ -1915,7 +1915,7 @@ Investigative Direction: Locate the 2019 local press coverage of the Potter's Fi
 
 Claim Timestamp: 00:25:58
 
-Claim: The host reads quotes attributed to a former Ignite student named Kenny, who handled Potter's Fields finances, that a very high guess of children in the program was 500 across five countries, that she worked with about 20 kids weekly, that videos of hundreds of fed children came from infrequent conferences, and that workers photoshopped old letters and cut off dates before mailing them to donors.
+Claim: The host reads quotes attributed to a former Ignite student named Kenzie Kinney, who handled Potter's Fields finances, that a very high guess of children in the program was 500 across five countries, that she worked with about 20 kids weekly, that videos of hundreds of fed children came from infrequent conferences, and that workers were told to photoshop old letters and cut off dates before mailing them to donors.
 
 Transcript Snippet: I would say maybe like 500. And that would be between all five countries," Kenny said.
 
@@ -1938,7 +1938,7 @@ Transcript Snippet: They shut down in 2019 and they brought in Pastor Rob McCoy 
 Anchored Artifacts: 
 Mentions: N-17, N-3
 Related Nodes: N-10247, N-10252
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain Potter's Fields dissolution filings and Calvary Chapel Chino Hills records showing the transfer of funds and McCoy's role.
 
 ---
@@ -2422,7 +2422,7 @@ Investigative Direction: Check the Macron complaint's list of defendants and quo
 
 Claim Timestamp: 00:52:57
 
-Claim: Reading the top comment, the host says it is a good question why millions of dollars came from just one person, whom she names Bob Shillman, to fund a Christian organization.
+Claim: Reading a top comment asking why so many Jewish donors fund a Christian organization, the host calls it a good question and asks why millions of dollars came from just one person, Bob Shillman.
 
 Transcript Snippet: Why millions of dollars from just one person, Bob Shillman?
 
@@ -2504,7 +2504,7 @@ Claim: The host says what is compelling is that when the guards are on the groun
 Transcript Snippet: What's compelling is when you can't see them when they're on the ground.
 
 Anchored Artifacts: A-2830.1
-Mentions: N-67, N-3
+Mentions: N-3
 Tags: relevance:core
 Investigative Direction: Find footage from other angles that shows the guards at ground level and identify them from the event security roster.
 

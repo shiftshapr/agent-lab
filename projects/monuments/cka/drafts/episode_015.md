@@ -795,7 +795,7 @@ Investigative Direction: FOIA requests to UVU police department; compare against
 
 Claim Timestamp: 00:40:21
 
-Claim: Tyler Bowyer publicly stated that TPUSA has audited annually and that the host conflated the audit with a proposed new DoJ department.
+Claim: Per the X post the host shows, Tyler Bowyer said the host 'took a sentence and made something up' and that TPUSA audits every year and always has; the host replies that he is conflating the annual audit with the new DoJ department Charlie proposed.
 
 Anchored Artifacts: A-1220.2
 Mentions: N-11
@@ -807,7 +807,7 @@ Investigative Direction: Obtain TPUSA Form 990 filings via ProPublica Nonprofit 
 
 Claim Timestamp: 00:22:06
 
-Claim: Andrew Kolvet, speaking on Tucker Carlson's show, stated that a TPUSA friend/staffer removed the SD cards because he feared theft (citing hat theft from the table) and turned them over to the FBI.
+Claim: Andrew Kolvet, speaking on Tucker Carlson's show, stated that a TPUSA friend/staffer removed the SD cards because he feared theft (citing hat theft from the table) and that the cards are in the possession of the FBI.
 
 Anchored Artifacts: A-1221.1
 Mentions: N-14, N-22
@@ -1593,7 +1593,7 @@ Investigative Direction: Collect the specific TPUSA statements and legal letters
 
 ---
 
-**C-6489** Host Says She Shared Charlie's Email on the New DOJ Department
+**C-6489** Host Says She Shared Charlie's Email on the New DOGE Department
 
 Claim Timestamp: 00:33:36
 
@@ -1893,7 +1893,7 @@ Transcript Snippet: You mentioned the suspicious way so many of the individuals 
 
 Anchored Artifacts: A-2817.1
 Mentions: N-3
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Compile start dates of the officials involved; verify the Dallas chief's April appointment.
 
 ---

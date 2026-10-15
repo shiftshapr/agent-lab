@@ -984,11 +984,11 @@ Investigative Direction: Authenticate text message source and timestamp (referen
 
 ---
 
-**C-1472** Charlie Kirk UVU Event Clip – Friendship Exchange
+**C-1472** UVU Event Clip Shows Charlie Kirk and the Host Joking About a Sign Saying He Is Not Her Friend
 
 Claim Timestamp: 00:15:42
 
-Claim: UVU event clip captures Charlie Kirk responding to a question about friendship with the line "Find out" regarding whether Kirk was the questioner's friend.
+Claim: In a clip the host plays, which she says is from a UVU event, a sign is read saying that if you aren't wealthy, white and male, Charlie Kirk is not your friend; Charlie Kirk asks the host, "Are we not friends?" and she jokes that she found out from a sign outside the event that he is not her friend.
 
 Anchored Artifacts: A-1264.1
 Mentions: N-1
@@ -1031,7 +1031,7 @@ Investigative Direction: Cross-reference against TPUSA event records and tour it
 
 Claim Timestamp: 00:35:33
 
-Claim: John Miller posted: "They really trying to make us believe this is the good guy. LMAO"
+Claim: The host reads an X post by John Miller about Josh Hammer threatening to sue her, which says: "They really trying to make us believe this is the good guy. LMAO"
 
 Anchored Artifacts: A-1267.1
 Mentions: N-185, N-55
@@ -1131,7 +1131,7 @@ Investigative Direction: Locate video evidence corroborating Turk's specific mov
 
 Claim Timestamp: 00:51:43
 
-Claim: Ian Carroll commented: "Fishing takes time. You got to set the bait. It's so good to have you back, Candace."
+Claim: A comment the host reads, from Ian Carroll, says: "Fishing takes time. You got to set the bait. It's so good to have you back, Candace."
 
 Anchored Artifacts: A-1269.1
 Mentions: N-130
@@ -1199,7 +1199,7 @@ Investigative Direction: Document the scenarios considered and rejected.
 
 ---
 
-**C-1487** Host discussed Zeb Boykin in witness / outreach context
+**C-1487** Host Credits Online Researchers for Viral September 10 Video
 
 Claim Timestamp: 00:07:45
 
@@ -1382,7 +1382,7 @@ Transcript Snippet: she's the one who's holding the camera when Charlie's casket
 Anchored Artifacts: 
 Mentions: N-187, N-1
 Related Nodes: N-10561
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the casket-arrival footage and confirm who was holding the camera; check Sheridan's own account.
 
 ---
@@ -1519,12 +1519,12 @@ Investigative Direction: Map Mikey McCoy's position from stage and crowd footage
 
 Claim Timestamp: 00:09:26
 
-Claim: The host says McCoy's account stops with "I was watching," and asks what exactly was being watched.
+Claim: The host says Pastor McCoy stops himself after saying "I was watching," and asks what exactly he was watching.
 
 Transcript Snippet: But he stops himself. He says, "I was watching." Watching what exactly. What were you watching?
 
 Anchored Artifacts: A-3287.1
-Mentions: N-17, N-191
+Mentions: N-17
 Related Nodes: N-10198
 Tags: relevance:core
 Investigative Direction: Check the sermon audio wording (the clip reads "I'm watching" in the transcript) and ask McCoy what he was watching.
@@ -1597,7 +1597,7 @@ Investigative Direction: Authenticate the footage clock against the 12:23 p.m. f
 
 ---
 
-**C-13959** Host Says TPUSA and McCoy Have Issued No Statement or Call Log
+**C-13959** Host Says McCoy and Kolvet Have Issued No Statement
 
 Claim Timestamp: 00:14:46
 
@@ -2031,7 +2031,7 @@ Anchored Artifacts: A-1266.1
 Mentions: N-3, N-1
 Related Nodes: N-10389, N-10806
 Supports: C-1470
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the full April message thread to verify dates, wording and frequency.
 
 ---
@@ -2047,7 +2047,7 @@ Transcript Snippet: a particular set of messages that were written on April 6th,
 Anchored Artifacts: A-1266.1
 Mentions: N-3, N-27, N-1
 Related Nodes: N-10004, N-10389
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Match the thread date to Kanye West's tweet date from the public X record.
 
 ---
@@ -2095,7 +2095,7 @@ Transcript Snippet: If I tell you the true prophecy that I know in my gut, it's 
 Anchored Artifacts: A-1266.1
 Mentions: N-1, N-3
 Related Nodes: N-10389, N-10806
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Authenticate the message and its place in the thread.
 
 ---

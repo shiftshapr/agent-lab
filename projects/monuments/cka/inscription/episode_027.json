@@ -1882,7 +1882,7 @@
       "@id": "C-1617",
       "ref": "C-1617",
       "label": "Grok Summary Asserts Podcast #1 Global Ranking per Podscribe",
-      "claim": "A Grok-generated summary states that the \"Candace\" podcast reached the top global ranking per Podscribe data, following the 2024 Daily Wire departure, and attributes growth to criticism, the Macron defamation lawsuit, team resilience, and divine intervention.",
+      "claim": "A Grok-generated summary the host reads states that the \"Candace\" podcast reached the top global ranking per Podscribe data, following the 2024 Daily Wire departure, and that Owens credits the growth to criticism, the Macron defamation lawsuit and her team's resilience, and attributes the milestone to divine intervention.",
       "anchored_artifacts": [
         "A-1345.1"
       ],
@@ -1925,15 +1925,16 @@
       "claim_timestamp": "00:08:12",
       "investigative_direction": "Verify against full unedited interview audio; identify whether additional context was cut from the broadcast.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-1620",
       "ref": "C-1620",
-      "label": "Erika Kirk Does Not Give Direct Yes/No on Whether Caught Individual Is Sole Killer",
-      "claim": "When asked directly whether the person in custody pulled the trigger, Erika Kirk responds by stating she trusts her team and has seen the autopsy report, declining a straight yes or no.",
+      "label": "Erika Kirk Does Not Give Direct Yes/No on Whether Husband's Killer Was Caught",
+      "claim": "When Jesse Watters asks whether they have caught her husband's killer, Erika Kirk responds by stating she trusts her team and has seen the autopsy report; the host says it is not a straight yes or no.",
       "anchored_artifacts": [
         "A-1346.2"
       ],
@@ -1980,7 +1981,8 @@
       "claim_timestamp": "00:16:16",
       "investigative_direction": "Obtain photographs of the pendant from TPUSA or family sources; verify the metals described (\"bronze\" with later additions).",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -2001,7 +2003,9 @@
       "investigative_direction": "Obtain original footage to identify the priest and any associated institution.",
       "mentions_person_refs": [
         "N-2",
-        "N-212"
+        "N-212",
+        "N-1",
+        "N-3"
       ]
     },
     {
@@ -2018,7 +2022,8 @@
       "claim_timestamp": "00:18:32",
       "investigative_direction": "Catalog the specific AI-generated image claims Erika references; assess the platform-level response to date.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -2037,7 +2042,8 @@
       "claim_timestamp": "00:35:13",
       "investigative_direction": "Obtain Allie's underlying text message exchange with Charlie to verify the quoted framing; cross-reference against host's previously displayed email.",
       "mentions_person_refs": [
-        "N-228"
+        "N-228",
+        "N-1"
       ]
     },
     {
@@ -2153,7 +2159,8 @@
       "claim_timestamp": "00:48:47",
       "investigative_direction": "Verify whether Alex Clark's tribute episodes were ad-free across all tribute outputs, not selectively.",
       "mentions_person_refs": [
-        "N-99"
+        "N-99",
+        "N-1"
       ]
     },
     {
@@ -2631,7 +2638,7 @@
       "@type": "Claim",
       "@id": "C-9601",
       "ref": "C-9601",
-      "label": "Host Says Officials Told Obvious Lies Including a .30-06 Stopped by the Neck",
+      "label": "Host Says Officials Told Obvious Lies Including a .30-06 Bullet Being Stopped",
       "claim": "The host says the feds are telling obvious lies, number one being that Charlie was shot by a .30-06 and the bullet was stopped when in a normal circumstance it would have decapitated him.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2838,8 +2845,7 @@
       "transcript_snippet": "This is one of the things that Matt Walsh recently said that he views it as such a form of disloyalty",
       "mentions_person_refs": [
         "N-3",
-        "N-164",
-        "N-228"
+        "N-164"
       ]
     },
     {
@@ -3349,7 +3355,7 @@
       "@id": "C-9634",
       "ref": "C-9634",
       "label": "Host Says Dodge Did Not Exist Before Elon Musk, Rebutting Clark",
-      "claim": "The host says Alex Clark's account that Charlie wanted a DOGE every year cannot be right because DOGE did not exist before Elon Musk.",
+      "claim": "The host says Alex Clark's account of why Charlie wanted a DOGE, that they do one every year, cannot be right because DOGE did not exist before Elon Musk.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10132",
@@ -3594,7 +3600,6 @@
       "transcript_snippet": "Because they explained that he had died instantly. It wasn't just Erika by the way.",
       "mentions_person_refs": [
         "N-3",
-        "N-2",
         "N-1"
       ]
     },

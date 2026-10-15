@@ -2422,7 +2422,7 @@ Investigative Direction: None; the host reports claims made about her.
 
 Claim Timestamp: 00:38:33
 
-Claim: The host says that a lot of the pastors around Charlie were not exactly honest about whether they were financially motivated to say certain things, and that Christian and Jewish organizations and funds coming together have been interesting.
+Claim: The host says she thinks a lot of the pastors around Charlie were not exactly honest about whether they were financially motivated to say certain things, and that Christian and Jewish organizations and funds coming together have been interesting.
 
 Transcript Snippet: I think there were a lot of pastors that were around Charlie who weren't exactly honest about uh whether or not they were financially motivated to say some certain things.
 

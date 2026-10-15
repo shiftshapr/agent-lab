@@ -1,0 +1,370 @@
+[
+ {
+  "claim": "C-1303",
+  "episode": 11,
+  "decision": "accept",
+  "fix": {},
+  "note": "No Lance/boyfriend/mustache content found anywhere in the transcript; nothing to anchor a new timestamp, so no change."
+ },
+ {
+  "claim": "C-13861",
+  "episode": 11,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:50:35"
+  },
+  "note": "Mitchell/Air Force remark is well into the 49:16 block (~50:40-51:00); 00:50:35 is a reasonable estimate."
+ },
+ {
+  "claim": "C-1323",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, according to the metadata of the footage Phil Lyman sent her, he was inside the Sorenson building at 12:23 and then calmly walked out rather than running.",
+   "timestamp": "00:15:58"
+  },
+  "note": "Host's own assertion from metadata she was sent, spoken ~16:03; fix wording and 15:58 supported."
+ },
+ {
+  "claim": "C-1324",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Phil Lyman's aftermath video shows two individuals simply wearing black (one of whom she thinks is a guy) in what seems a normal conversation; she disputes Phil's Alex Jones characterization of them as \"goth\" and unfazed."
+  },
+  "note": "Host's description of the footage, not a visual-review fact; fix matches transcript."
+ },
+ {
+  "claim": "C-1333",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her team found that the face of the individual identified as Gernot Omer matched photos in a German-language blog post on a 10-year hiking anniversary."
+  },
+  "note": "Host says 'we were able to find that his face matched'; attribution fix supported."
+ },
+ {
+  "claim": "C-9319",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads, from Marzi, says the viewer had confused keyholing and internal bullet bouncing, and that keyholing is when a slow bullet tumbles and has external impact, while pinball bullets bounce internally and cause internal damage; the host calls this very interesting."
+  },
+  "note": "Explanation follows 'Marzi writes...' and ends 'Very interesting'; reads as the comment being read."
+ },
+ {
+  "claim": "C-1344",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Benjamin Netanyahu conducted an on-camera meeting with US influencers including Debra Lea to discuss shaping US opinion, and plays a clip in which Lea asks him about Charlie Kirk's assassination and the potential loss of evangelical support for Israel.",
+   "label": "Host Says Netanyahu Met on Camera With US Social-Media Influencer Debra Lea",
+   "names": [
+    {
+     "wrong": "Deborah Lee",
+     "right": "Debra Lea",
+     "source": "https://www.jpost.com/israel-news/article-868763"
+    }
+   ]
+  },
+  "note": "Verified: Fox News and JPost (article-868763) spell her Debra Lea; she raised Kirk's assassination with Netanyahu."
+ },
+ {
+  "claim": "C-1348",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:35:17"
+  },
+  "note": "'She replies... I have no obligation' is ~35:22 in the 35:01 block; 35:17 is ~5s before."
+ },
+ {
+  "claim": "C-1350",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "claim": "A note from the host's producer, which she reads on air, says that Erica Mindel is a former IDF soldier and TikTok's Public Policy Manager of Hate Speech since July 2025.",
+   "names": [
+    {
+     "wrong": "Erika Mindle",
+     "right": "Erica Mindel",
+     "source": "https://en.wikipedia.org/wiki/Erica_Mindel"
+    },
+    {
+     "wrong": "Erikica Mindle",
+     "right": "Erica Mindel",
+     "source": "https://5pillarsuk.com/2025/08/02/tiktok-hires-former-idf-soldier-to-clamp-down-on-antisemitic-hate-speech/"
+    }
+   ]
+  },
+  "note": "Verified: Wikipedia and JPost name TikTok's ex-IDF hate speech policy manager as Erica Mindel."
+ },
+ {
+  "claim": "C-1351",
+  "episode": 13,
+  "decision": "amend",
+  "fix": {
+   "claim": "A viewer comment the host reads, from Marzy, says the FBI just cut ties with the ADL after Turning Point USA criticism and that the two share a building and are one and the same; the host adds that she thinks the building is in Connecticut.",
+   "label": "Viewer Comment Says FBI Cut Ties With ADL and the Two Share a Building"
+  },
+  "note": "'They share a building... one and the same' reads as part of Marzy's comment; only 'I think, in Connecticut' is clearly the host's addition."
+ },
+ {
+  "claim": "C-10798",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-140",
+    "N-36",
+    "N-3"
+   ]
+  },
+  "note": "Claim does not mention Tucker Carlson; removing N-22 is correct."
+ },
+ {
+  "claim": "C-10825",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-40",
+    "N-142"
+   ]
+  },
+  "note": "'Tyler Robinson's lawyer' refers to Michael Burt named in the comment; adding N-142 correct."
+ },
+ {
+  "claim": "C-1360",
+  "episode": 14,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:31:15"
+  },
+  "note": "'I ended up calling one of the biggest firms' is ~31:18; 31:15 fits."
+ },
+ {
+  "claim": "C-1368",
+  "episode": 15,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the X post the host shows, Tyler Bowyer said the host 'took a sentence and made something up' and that TPUSA audits every year and always has; the host replies that he is conflating the annual audit with the new DoJ department Charlie proposed."
+  },
+  "note": "Tweet ends at 'eight times more effectively'; the conflating accusation is the host's rebuttal."
+ },
+ {
+  "claim": "C-1404",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that approximately 16 hours before Charlie Kirk's assassination, Josh Hammer retweeted an April 19, 2013 Donald Trump post advocating public executions and, per the retweet she shows, added the one-word reply \"Based.\"",
+   "label": "Host Says Josh Hammer Retweeted 2013 Trump Public-Execution Tweet on September 9, 2025"
+  },
+  "note": "The 16-hours timing and retweet are the host's account and what she shows; attribution fix correct."
+ },
+ {
+  "claim": "C-1405",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-55",
+    "N-162",
+    "N-163",
+    "N-5"
+   ]
+  },
+  "note": "Claim names 'the 2013 Trump post'; adding N-5 correct."
+ },
+ {
+  "claim": "C-1408",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that at no point she could determine, on the news, on his own show or anywhere else, did Josh Hammer speak about the death penalty or a public execution regarding the Iryna Zhuravska case, and that he instead spoke about media double standards, criminality and safety; she then plays a clip of Hammer with host Gabriel.",
+   "label": "Host Says Hammer Did Not Advocate the Death Penalty in His Iryna Zhuravska Commentary",
+   "timestamp": "00:08:59"
+  },
+  "note": "'at no point...' is ~09:04 in the 08:44 block; double standards is the host's description. Fix supported."
+ },
+ {
+  "claim": "C-1409",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the Matt Walsh X post the host shows, Walsh wrote that the only solution is ruthless punishment, public execution for violent criminals, long prison sentences and hard labor; the host says he posted it when the Iryna footage was released on September 5, as a visceral response.",
+   "label": "Host Shows Matt Walsh Post Calling for \"Public Execution\" After the Iryna Footage"
+  },
+  "note": "Sept 5 date and visceral framing are the host's; tweet text matches the transcript."
+ },
+ {
+  "claim": "C-1419",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the Josh Hammer post the host shows, Hammer wrote, \"Jew hatred is inherent in the European DNA\"; the host says that in response people were told he meant it metaphorically.",
+   "label": "Host Shows Josh Hammer Post Saying \"Jew Hatred Is Inherent in the European DNA\""
+  },
+  "note": "'2019' and 'deleted' are not in the transcript (15:37 block empty); fix keeps only what is said."
+ },
+ {
+  "claim": "C-1420",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Josh Hammer tweeted nine times on September 9: a Phillies story, a link to his Iryna media appearance, two tweets against Tucker Carlson, a pro-Israel tweet throwing shade at Trump and Qatar, one against Saudi Arabia, the Hebrew Bible and Western civilization, a Supreme Court media appearance, and finally at 9:09 p.m. ET the public-execution retweet.",
+   "label": "Host Says Josh Hammer Tweeted Nine Times on September 9 Before the 9:09 p.m. ET Public-Execution Retweet",
+   "mentions": [
+    "N-55",
+    "N-22",
+    "N-5"
+   ]
+  },
+  "note": "Claim names Tucker Carlson and Trump; host gives no year. Fix supported."
+ },
+ {
+  "claim": "C-1422",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie's left side; adding N-1 correct."
+ },
+ {
+  "claim": "C-9327",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-55",
+    "N-22",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim quotes 'about Charlie and Israel'; adding N-1 correct."
+ },
+ {
+  "claim": "C-9342",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a JTV clip the host plays, interviewer Ali tells Hammer that, as Hammer mentioned, there have been people like Ian Carroll and Candace Owens, and that Candace 'has chosen to hijack his death right now to blame it on Israel.'",
+   "label": "JTV Interviewer Ali Says Candace Chose to Hijack Charlie's Death to Blame Israel"
+  },
+  "note": "The Ian Carroll/Candace 'hijack his death' line is Ali's question; Hammer answers 'Yeah, look.'"
+ },
+ {
+  "claim": "C-9357",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Charlie then held the smaller call with two Jewish individuals who were on the chat and knew he was angry, and mocks Hammer's account that the call was not a follow-up to what he had expressed to them hours earlier but a fan's call about Hammer's book, saying \"That's what Josh wants us to believe.\""
+  },
+  "note": "Not-a-follow-up account is Hammer's version the host mocks ('That's what Josh wants us to believe')."
+ },
+ {
+  "claim": "C-9362",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-36",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie Kirk's death; adding N-1 correct."
+ },
+ {
+  "claim": "C-1428",
+  "episode": 18,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads a long tweet by Andrew Kolvet in which he says he spoke with the surgeon who worked on Charlie, and describes the bullet as having been stopped by Charlie's bone density.",
+   "mentions": [
+    "N-14",
+    "N-1"
+   ]
+  },
+  "note": "Host reads Kolvet's tweet aloud; claim names Charlie. Fix supported."
+ },
+ {
+  "claim": "C-1431",
+  "episode": 18,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:11:30"
+  },
+  "note": "'You should know that I then determined...' is ~11:35 in the 10:58 block; 11:30 fits."
+ },
+ {
+  "claim": "C-1436",
+  "episode": 18,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Cooper Brown's resume, on the website where he says he works with the institute, lists a very small college in New Hampshire, and she later asks anyone who attended Southern New Hampshire University with him and majored with him in politics to contact her."
+  },
+  "note": "Resume detail is host's report; SNHU and politics come from her later appeal at 17:20. Fix accurate."
+ },
+ {
+  "claim": "C-1439",
+  "episode": 18,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says two women seen in Phil Lyman's footage outside the building said they heard two shots, and plays a clip from that footage."
+  },
+  "note": "'They say that they heard two shots' is the host's report; played clip lacks it."
+ },
+ {
+  "claim": "C-1441",
+  "episode": 18,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says someone emailed them a link, which she says was real, listing an Israeli individual as the founder of Caldera Engineering, though she says they have not been able to corroborate it and the listing may be an internet scraping error."
+  },
+  "note": "Host says the link was emailed and uncorroborated, possibly a scraping error; fix matches."
+ },
+ {
+  "claim": "C-1444",
+  "episode": 18,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the lawyer Caldera Engineering used for trademark purposes in Arizona in its early years, per early documents she reviewed, is a lawyer Tyler Bowyer of Turning Point USA introduced her to and whom she has worked with."
+  },
+  "note": "Host's own account of recognizing the lawyer from early documents; fix matches."
+ },
+ {
+  "claim": "C-1454",
+  "episode": 18,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:41:07"
+  },
+  "note": "FBO contradiction is ~41:12 in the 40:53 block; 41:07 is ~5s before."
+ },
+ {
+  "claim": "C-1459",
+  "episode": 18,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:52:15"
+  },
+  "note": "Walsh 'too on the nose' remarks begin ~52:15-52:20 in the 51:48 block; 52:15 fits."
+ },
+ {
+  "claim": "C-1472",
+  "episode": 19,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, which she says is from a UVU event, a sign is read saying that if you aren't wealthy, white and male, Charlie Kirk is not your friend; Charlie Kirk asks the host, \"Are we not friends?\" and she jokes that she found out from a sign outside the event that he is not her friend.",
+   "label": "UVU Event Clip Shows Charlie Kirk and the Host Joking About a Sign Saying He Is Not Her Friend"
+  },
+  "note": "'Find out... a sign outside... you're not my friend' is the reply to Kirk, not Kirk's line; fix supported."
+ }
+]

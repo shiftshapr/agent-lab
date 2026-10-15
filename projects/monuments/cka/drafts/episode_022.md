@@ -983,7 +983,7 @@ Investigative Direction: Independently verify the screenshot provenance, timesta
 **C-1543** Josh Hammer audio clip on Tucker as "cancerous force"
 
 Claim Timestamp: 00:42:40
-Claim: An audio clip attributed to Josh Hammer was played on air, stating: "It brings me no pleasure to criticize Tucker Carlson as much as I have been doing. But he has become the leading tip of the spear of what can only be described as a cancerous force running to engulf the entire American right."
+Claim: In a clip the host plays, a speaker not named on air (attributed in the archive to Josh Hammer) says: "It brings me no pleasure to criticize Tucker Carlson as much as I have been doing. But he has become the leading tip of the spear of what can only be described as a cancerous force running to engulf the entire American right."
 Anchored Artifacts: A-1300.1
 Mentions: N-55, N-22
 Investigative Direction: Verify original source of audio clip (interview, podcast, or other); confirm attribution.
@@ -991,7 +991,7 @@ Investigative Direction: Verify original source of audio clip (interview, podcas
 **C-1544** Viewer comment: SUBND/SUBTT at PEACE 2025; N1098L drone concerns
 
 Claim Timestamp: 00:55:55
-Claim: A viewer comment from "Obsessed with sports" notes that Egyptian tail numbers SUBND and SUBTT were present at PEACE 2025, and that tail number N1098L is allegedly connected to Israeli defense companies that manufacture air-launched drones for use as recon and loitering munitions.
+Claim: A viewer comment from "Obsessed with sports" the host reads says Egyptian tail numbers SUBND and SUBTT were at PEACE 2025 and that tail number N1098L is concerning since Israeli defense companies are now making air-launched drones for recon and as loitering munitions; the host says the commenter is claiming the plane is being used by Israeli defense companies, which she has not checked.
 Anchored Artifacts: A-1299.1
 Related Nodes: N-10203
 Investigative Direction: Verify PEACE 2025 aircraft attendance records; independently confirm N1098L ownership, registration history, and any ties to Israeli defense manufacturers.
@@ -1462,12 +1462,12 @@ Investigative Direction: Attendee accounts of the Hamptons summit and Seth Dillo
 
 Claim Timestamp: 00:35:53
 
-Claim: In the clip, Dave Smith says that those upset about Candace and Nick Fuentes growing have only themselves to blame because their support came from opposing the destruction of Gaza, and that he is not part of cancel culture.
+Claim: In the clip, Dave Smith tells Seth Dillon that people upset about Candace and Nick Fuentes becoming so huge have no one but themselves to blame, because the support behind them came from opposing the destruction of Gaza.
 
 Transcript Snippet: And the reason why they got so much support behind them is cuz they were against this destruction of Gaza
 
 Anchored Artifacts: A-1295.1
-Mentions: N-39, N-3, N-202
+Mentions: N-39, N-38, N-3, N-202
 Related Nodes: N-10454
 Tags: relevance:context
 Investigative Direction: The full Piers Morgan or related interview with Dave Smith.
@@ -1594,7 +1594,7 @@ Investigative Direction: The biblical text (1 Samuel) and scholarship on the Jon
 
 Claim Timestamp: 00:44:21
 
-Claim: The host says the people now claiming charge of Charlie's legacy, naming Seth Dillon and Josh Hammer, are the same people who pressed him at the Hamptons and on the text chain and were making him ill with threats and money.
+Claim: The host says the people now claiming charge of Charlie's legacy, naming Seth Dillon and Josh Hammer, are the same people who were harassing him and making him ill with threats and money, with Dillon pressing him at the Hamptons and Hammer on the text chain hearing what he was going through.
 
 Transcript Snippet: the very same people that were making Charlie ill with the threats, with the money, uh who were pressing him at the Hampton, Seth Dillon, Josh Hammer on the text
 

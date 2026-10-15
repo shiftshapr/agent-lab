@@ -1829,7 +1829,7 @@
       "ref": "N-766",
       "name": "Kenny",
       "type": "person",
-      "description": "First named by the host at 00:25:17 in episode 31. Former Potter's Fields Ignite student the host says blew the whistle on alleged financial fraud (spelled Kenzie Kenny and Kenny in the transcript).",
+      "description": "First named by the host at 00:25:17 in episode 31. Former Potter's Fields Ignite student the host says blew the whistle on alleged financial fraud (spelled Kenzie Kinney and Kenny in the transcript).",
       "related_artifacts": [],
       "related_claims": [
         "C-6634"
@@ -1961,7 +1961,7 @@
       "@type": "Claim",
       "@id": "C-1687",
       "ref": "C-1687",
-      "label": "Rob McCoy Placed Thomas Camino in Home Fellowship Program with Access to Children",
+      "label": "Host Says Rob McCoy Placed Thomas Camino in Home Fellowship Program With Access to Children",
       "claim": "Owens states that Rob McCoy decided Thomas Camino should have access to young children through a Calvary Chapel program called home fellowship that put him \"inside the homes of children\"; in the podcast clip she plays, McCoy cites \"the gossip and the slander\" of his friend and says he personally made the call to pull a home fellowship advertisement because he wanted Camino's family protected.",
       "anchored_artifacts": [
         "A-1394.1"
@@ -1970,7 +1970,7 @@
         "N-10246"
       ],
       "tags": [],
-      "claim_timestamp": "00:12:54",
+      "claim_timestamp": "00:11:36",
       "investigative_direction": "Obtain 2022 Calvary Chapel statements and any internal records; identify families enrolled in home fellowship at the relevant time; review mothers' 2022 public complaints.",
       "mentions_person_refs": [
         "N-250",
@@ -2074,7 +2074,7 @@
       "@type": "Claim",
       "@id": "C-1693",
       "ref": "C-1693",
-      "label": "Owens and Kirk Co-Hosted a PragerU Segment Discussing Foxhole Allies",
+      "label": "Throwback PragerU Clip of Owens and Kirk Discussing Foxhole Allies",
       "claim": "The episode plays a throwback clip, which the host says is from her former PragerU show, of Candace Owens and Charlie Kirk discussing the type of allies one wants during crisis (\"foxhole\" allies), with Kirk stating one should identify \"where the bullets are coming from\" rather than deny their existence.",
       "anchored_artifacts": [
         "A-1390.1"
@@ -2529,8 +2529,8 @@
       "@type": "Claim",
       "@id": "C-6616",
       "ref": "C-6616",
-      "label": "Camino Says His Lawyer Cited Footprints and a Palm Print and Urged a Plea Deal",
-      "claim": "In the played clip, Camino says his lawyer told him police had footprints and a palm print lifted from a scene and wanted him to take a plea bargain before a pre-trial hearing, and that a jury then returned a guilty verdict.",
+      "label": "Camino Says His Lawyer Relayed Footprint and Palm Print Evidence and a Plea Offer",
+      "claim": "In the played clip, Camino says his lawyer told him they said they had footprints and a palm print of his lifted from a scene and wanted to see if he would take a plea bargain before a pre-trial hearing, and that a jury then returned a guilty verdict.",
       "anchored_artifacts": [
         "A-1394.2"
       ],
@@ -2552,7 +2552,7 @@
       "@id": "C-6617",
       "ref": "C-6617",
       "label": "Camino Says He Had No Record Before the Conviction",
-      "claim": "In the played clip, Camino says he did not have a record before the eight-year sentence, which conflicts with the host's reading that he was placed on probation in 1990 for a no-contest plea to lewd conduct.",
+      "claim": "In the played clip, Camino says he did not have a record before the eight-year sentence, which conflicts with the host's earlier statement that he was placed on probation in 1990 for a no-contest plea to lewd conduct.",
       "anchored_artifacts": [
         "A-1394.2"
       ],
@@ -2928,7 +2928,7 @@
       "@id": "C-6634",
       "ref": "C-6634",
       "label": "Host Reads a Whistleblower's Estimate That About 500 Children Were in the Potter's Fields Program",
-      "claim": "The host reads quotes attributed to a former Ignite student named Kenny, who handled Potter's Fields finances, that a very high guess of children in the program was 500 across five countries, that she worked with about 20 kids weekly, that videos of hundreds of fed children came from infrequent conferences, and that workers photoshopped old letters and cut off dates before mailing them to donors.",
+      "claim": "The host reads quotes attributed to a former Ignite student named Kenzie Kinney, who handled Potter's Fields finances, that a very high guess of children in the program was 500 across five countries, that she worked with about 20 kids weekly, that videos of hundreds of fed children came from infrequent conferences, and that workers were told to photoshop old letters and cut off dates before mailing them to donors.",
       "anchored_artifacts": [
         "A-2827.1"
       ],
@@ -2958,7 +2958,7 @@
         "N-10252"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:27:02",
       "investigative_direction": "Obtain Potter's Fields dissolution filings and Calvary Chapel Chino Hills records showing the transfer of funds and McCoy's role.",
@@ -3615,7 +3615,7 @@
       "@id": "C-6666",
       "ref": "C-6666",
       "label": "Host Asks Why Millions of Dollars Came from One Person, Bob Shillman",
-      "claim": "Reading the top comment, the host says it is a good question why millions of dollars came from just one person, whom she names Bob Shillman, to fund a Christian organization.",
+      "claim": "Reading a top comment asking why so many Jewish donors fund a Christian organization, the host calls it a good question and asks why millions of dollars came from just one person, Bob Shillman.",
       "anchored_artifacts": [
         "A-1397.1"
       ],
@@ -3734,7 +3734,6 @@
       "investigative_direction": "Find footage from other angles that shows the guards at ground level and identify them from the event security roster.",
       "transcript_snippet": "What's compelling is when you can't see them when they're on the ground.",
       "mentions_person_refs": [
-        "N-67",
         "N-3"
       ]
     },

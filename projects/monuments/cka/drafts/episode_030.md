@@ -907,7 +907,7 @@ Persistent target: the host's unnamed female donor who allegedly yelled at Charl
 
 ## 5. Claim Register
 
-**C-1667** Ben Shapiro told Megyn Kelly's tour audience Candace accused Erica Kirk of being behind Charlie's murder
+**C-1667** Host Says Ben Shapiro Told Megyn Kelly's Tour Audience Candace Accused Erika Kirk of Being Behind Charlie's Murder
 
 Claim Timestamp: 00:04:04
 
@@ -921,7 +921,7 @@ Investigative Direction: Obtain an unedited copy of the Kelly tour Q&A or tour r
 
 ---
 
-**C-1668** Megyn Kelly publicly stated on her tour that Candace has been defending Erica Kirk
+**C-1668** Megyn Kelly Publicly Stated on Her Tour That Candace Has Been Defending Erika Kirk
 
 Claim Timestamp: 00:04:55
 
@@ -1020,11 +1020,11 @@ Investigative Direction: Obtain the original photograph with EXIF metadata and a
 
 ---
 
-**C-1675** UVU Turning Point chapter formally requested Charlie Kirk as speaker on July 18
+**C-1675** UVU Turning Point Chapter Requested Charlie Kirk as Speaker on July 18
 
 Claim Timestamp: 00:19:14
 
-Claim: According to local Utah news cited by the host, the UVU Turning Point chapter formally requested Charlie Kirk as a speaker on July 18.
+Claim: According to local Utah news cited by the host, the UVU Turning Point chapter requested Charlie Kirk as a speaker on July 18.
 
 Anchored Artifacts: A-1387.1
 Mentions: N-1
@@ -1106,11 +1106,11 @@ Investigative Direction: Obtain the original Patel posts and timestamps; verify 
 
 ---
 
-**C-1681** Kanye West tweet asserted he was going "defcon 3 on some Jewish people"
+**C-1681** Host Says Kanye West's 'Death Con 3' Tweet Meant Defcon 3
 
 Claim Timestamp: 00:49:13
 
-Claim: Kanye West tweeted that he was going "defcon 3 on some Jewish people," which the host interprets as a defensive posture reference rather than a violent threat.
+Claim: Per the Kanye West tweet the host shows, West wrote that he was going "death con 3 on some Jewish people"; the host says he meant Defcon 3, a defensive position, and was referring to Zionists in Hollywood rather than threatening violence.
 
 Anchored Artifacts: A-1389.1
 Mentions: N-27
@@ -1444,11 +1444,11 @@ Investigative Direction: Review the Alex Clark episode featuring Shapiro and doc
 
 ---
 
-**C-9717** Host Says the Claim That Kirk Established DOGE and TPUSA Audits Yearly Is a Lie
+**C-9717** Host Says the Claim That DOGE Was Just Like TPUSA's Yearly Audits Is a Lie
 
 Claim Timestamp: 00:16:32
 
-Claim: The host says it is a lie that Charlie Kirk established DOGE as an ordinary audit function and that Turning Point financially audits itself every year, saying DOGE was entirely different from a financial audit that a 501(c)(3) of that size is recommended or in some states required to have.
+Claim: The host says it is a lie that Charlie Kirk's establishing DOGE was not unusual because Turning Point financially audits itself every year, saying DOGE was entirely different from a financial self-audit, which a 501(c)(3) of that size is recommended or in some states required to have.
 
 Transcript Snippet: Charlie established Doge and that wasn't unusual. Turning Point financially audits the company every year since its inception. Lie.
 
@@ -1548,7 +1548,7 @@ Investigative Direction: Obtain UVU event-services emails and site-visit notes l
 
 Claim Timestamp: 00:21:38
 
-Claim: The host says she wants to know which specific Turning Point employees picked the outdoor venue and asks viewers who know to email more tips at candacewowens.com.
+Claim: The host says she wants to know which specific Turning Point employees picked the outdoor venue and asks viewers who know to email more tips at candaceowens.com.
 
 Transcript Snippet: please send us an email to more tips at candacewowens. com.
 
@@ -1612,7 +1612,7 @@ Investigative Direction: Check birth, school and licensing records for the legal
 
 Claim Timestamp: 00:22:40
 
-Claim: The host asks viewers who know Mikey McCoy's real name to email more tips at candacewowens.com.
+Claim: The host asks viewers who know Mikey McCoy's real name to email more tips at candaceowens.com.
 
 Transcript Snippet: So, if you have that information, please email more tips@canniswowens. com.
 
@@ -2077,7 +2077,7 @@ Investigative Direction: Search federal docket records for the teachers' case ag
 
 ---
 
-**C-9756** Host Says Turning Point Is Gaslighting by Treating Its Behavior as Normal
+**C-9756** Host Says Rob McCoy and Mikey McCoy Are Gaslighting by Treating Their Behavior as Normal
 
 Claim Timestamp: 00:46:30
 

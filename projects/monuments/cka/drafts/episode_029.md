@@ -392,7 +392,7 @@ Person the host says Allie Beth Stuckey is working with.
 
 **N-235** Elle Reeve
 
-CNN interviewer, transcribed L Reeves.
+CNN interviewer, transcribed Elle Reeve.
 
 *Related: C-7977*
 
@@ -907,7 +907,7 @@ Related Nodes: N-10242
 
 Investigative Direction: Retrieve and verify the original Facebook post via archive (e.g., Wayback Machine) or screenshot.
 
-**C-1653** Lance Wallnau Defined the Seven Mountain Mandate as a Cultural Infiltration Doctrine
+**C-1653** Clip: Lance Wallnau Describes the Seven Mountain Mandate
 
 Claim Timestamp: 00:13:31–00:14:22
 
@@ -920,11 +920,11 @@ Related Nodes: N-10242
 
 Investigative Direction: Retrieve the full source video to verify exact wording, context, and date.
 
-**C-1654** Frank Turek Described NAR Theology as Aberrant and Occult-Like
+**C-1654** Clip Presented as Turek Calls Word of Faith Hermeneutic Aberrant and Occult-Like
 
 Claim Timestamp: 00:18:06–00:18:30
 
-Claim: In an audio clip played on the episode, Frank Turek described the New Apostolic Reformation as having an "aberrant" hermeneutic and doing things "more new agey or more even occult-like than they are Christian"; the host introduces the clip by saying Turek acknowledged NAR was a cult, "actually darker than a cult."
+Claim: In an audio clip played on the episode, presented by the host as Frank Turek, after the New Apostolic Reformation is named, a speaker describing the Word of Faith movement says its hermeneutic is "aberrant" and that its adherents do things "more new agey or more even occult-like than they are Christian"; the host introduces the clip by saying Turek acknowledged NAR was a cult, "actually darker than a cult."
 
 Anchored Artifacts: A-1366.1
 Mentions: N-7
@@ -974,7 +974,7 @@ Investigative Direction: Retrieve the original X post and the underlying AI anal
 
 Claim Timestamp: 00:31:24–00:32:35
 
-Claim: Text messages displayed on air, presented by the host as authentic messages from Charlie Kirk to Candace Owens, included the passage: "Iron sharpens iron. It's not a dominance partnership. Each hand washes the other."
+Claim: Text messages displayed on air, presented by the host as authentic messages between Charlie Kirk and Candace Owens, included the passage: "Iron sharpens iron. It's not a dominance partnership. Each hand washes the other."
 
 Anchored Artifacts: A-1370.1
 Mentions: N-1, N-3
@@ -982,11 +982,11 @@ Mentions: N-1, N-3
 
 Investigative Direction: Forensic examination of the displayed text metadata, corroborating testimony, and chain-of-custody verification.
 
-**C-1659** Seth Dillon Tweeted Matthew 16:26 About Losing One's Soul
+**C-1659** Seth Dillon Tweeted Verse About Losing One's Soul
 
 Claim Timestamp: 00:28:07
 
-Claim: Seth Dillon (Babylon Bee) tweeted the Matthew 16:26 verse ("what do you benefit if you gain the whole world but lose your own soul") in response to Candace Owens' podcast hitting number one globally.
+Claim: Per the tweet the host shows, Seth Dillon (Babylon Bee) posted the verse "what do you benefit if you gain the whole world but lose your own soul"; the host says he tweeted it when her podcast hit number one globally.
 
 Anchored Artifacts: A-1371.1
 Mentions: N-38, N-3
@@ -1001,7 +1001,7 @@ Claim Timestamp: 00:29:06
 Claim: Joel Berry (Babylon Bee) tweeted that in the last year Candace and Tucker had given "our side nothing but demoralization, division, confusion, and conflict," calling their impact "devastating" and "pathetic."
 
 Anchored Artifacts: A-1372.1
-Mentions: N-242
+Mentions: N-242, N-3, N-22
 
 
 Investigative Direction: Retrieve and verify the original tweet on Joel Berry's X account.
@@ -1056,7 +1056,7 @@ Investigative Direction: Retrieve the full Deprogrammed episode to verify exact 
 
 **C-1665** BBC Reported a Las Vegas Shooting Survivor Was Among the Dead at the Borderline Bar & Grill
 
-Claim Timestamp: 00:23:17
+Claim Timestamp: 00:22:45
 
 Claim: A BBC headline referenced in the episode reported that a Las Vegas shooting survivor was among the dead at the Borderline Bar and Grill shooting.
 
@@ -1116,7 +1116,7 @@ Investigative Direction: Check the Utah trauma center designations for both hosp
 
 Claim Timestamp: 00:01:46
 
-Claim: The host says that after people found it strange that Charlie Kirk was taken to Timpanogos, they started hearing from other people that he was definitely at UV Hospital.
+Claim: The host says that after people found it strange that Charlie Kirk was taken to Timpanogos, she and others started hearing from other people that he was definitely at UV Hospital.
 
 Transcript Snippet: we started hearing from other people that he was definitely at UV Hospital
 
@@ -1440,7 +1440,7 @@ Investigative Direction: Compare Turning Point event agendas over time and ident
 
 Claim Timestamp: 00:19:04
 
-Claim: The host says sources within Turning Point's faith department told her Lance Wallnau was running the show behind the scenes through funding and put a ton of money into Turning Point USA Faith operations, working with Rob McCoy.
+Claim: The host says Lance Wallnau was working with Rob McCoy, and that sources within Turning Point's faith department told her Wallnau was running the show behind the scenes through funding and put a ton of money into Turning Point USA Faith operations.
 
 Transcript Snippet: Sources within Turning Point's faith department tell me that Lance was running the show behind the scenes through funding.
 
@@ -1607,7 +1607,7 @@ Transcript Snippet: I shared something over the weekend about Romanian sex traff
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10401
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the host's X post from the weekend of November 8 to 9, 2025 and the church and sources it names.
 
 ---
@@ -1624,7 +1624,7 @@ Anchored Artifacts:
 Mentions: N-452
 Related Nodes: N-10401
 Supports: C-7943
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Retrieve court filings or press reporting on the allegations against Havsgaard and check the host's account.
 
 ---
@@ -1854,11 +1854,11 @@ Investigative Direction: Compare the Grok post with the host's actual statements
 
 ---
 
-**C-7959** Host Says Wednesday's Episode Will Reveal Findings on Egyptian Military Planes
+**C-7959** Host Says Wednesday's Episode Will Reveal Findings on the Egyptian Military
 
 Claim Timestamp: 00:37:53
 
-Claim: The host says she will tell viewers on Wednesday what the team discovered about the Egyptian military, which she says will put more people on the run.
+Claim: The host says she will tell viewers on Wednesday what the team discovered about the Egyptian military, which she thinks will put more people on the run.
 
 Transcript Snippet: when I tell you on Wednesday what we discovered about those Egyptian military I think some more people are going to be on the run
 
@@ -2033,7 +2033,7 @@ Investigative Direction: Same as the earlier claim: ballistic and autopsy findin
 
 Claim Timestamp: 00:53:52
 
-Claim: The host says officials will not show a clear picture of Tyler Robinson on campus that day despite all the cameras, which would do a lot.
+Claim: The host says they will not show a clear picture of Tyler Robinson on campus that day despite all the cameras, which would do a lot.
 
 Transcript Snippet: They won't show us a clear picture of Tyler Robinson on that day, despite all the cameras.
 
@@ -2151,7 +2151,7 @@ Claim Timestamp: 00:56:54
 
 Claim: The host says that in the CNN interview Reeve did not mention her book at all and instead pressed her mostly on Zionism and Brigitte Macron.
 
-Transcript Snippet: L Reeves did not even get to my book at all
+Transcript Snippet: Elle Reeve did not even get to my book at all
 
 Anchored Artifacts: 
 Mentions: N-235, N-82, N-3

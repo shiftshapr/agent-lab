@@ -928,10 +928,10 @@ Investigative Direction: Obtain a certified copy of the death certificate and th
 
 Claim Timestamp: 00:02:50
 
-Claim: Andrew Kolvet posted a tweet claiming to relay a conversation with the surgeon who worked on Charlie, describing the bullet as having been stopped by Charlie's bone density.
+Claim: The host reads a long tweet by Andrew Kolvet in which he says he spoke with the surgeon who worked on Charlie, and describes the bullet as having been stopped by Charlie's bone density.
 
 Anchored Artifacts: A-1251.1
-Mentions: N-14
+Mentions: N-14, N-1
 Related Nodes: N-10180
 Investigative Direction: Locate original Kolbatz tweet and verify direct quotes and publication date.
 
@@ -965,7 +965,7 @@ Investigative Direction: Identify the witness and obtain a signed statement cons
 
 **C-1431** Pusher Not TPUSA or UVU Affiliated
 
-Claim Timestamp: 00:12:02
+Claim Timestamp: 00:11:30
 
 Claim: The host says she determined the man who physically pushed/shoved the witness in the viral clip was not a Turning Point USA employee, UVU student, or TPUSA student, but was brought in as a volunteer.
 
@@ -1032,7 +1032,7 @@ Investigative Direction: Cross-reference event staff logs or volunteer rosters p
 
 Claim Timestamp: 00:16:16
 
-Claim: Cooper Brown's public resume lists attendance at a small college in New Hampshire (per host: Southern New Hampshire University) with a politics major.
+Claim: The host says Cooper Brown's resume, on the website where he says he works with the institute, lists a very small college in New Hampshire, and she later asks anyone who attended Southern New Hampshire University with him and majored with him in politics to contact her.
 
 Anchored Artifacts: A-1253.2
 Mentions: N-175
@@ -1071,7 +1071,7 @@ Investigative Direction: Confirm full segment and any subsequent Chaffetz statem
 
 Claim Timestamp: 00:27:27
 
-Claim: Two women shown in Phil Lyman's footage of the building exterior stated they heard two shots.
+Claim: The host says two women seen in Phil Lyman's footage outside the building said they heard two shots, and plays a clip from that footage.
 
 Anchored Artifacts: A-1255.1
 Mentions: N-61
@@ -1084,7 +1084,7 @@ Investigative Direction: Identify and re-interview the two women, and compare ag
 
 Claim Timestamp: 00:18:33
 
-Claim: The host says that, per a tip she received, Dr. Deirdre Amaro was announced as the new Utah State Medical Examiner in May 2024, with prior work history in Missouri (and, she thinks, California).
+Claim: The host says she received an emailed tip urging her to look into Dr. Deirdre Amaro, who she says was announced as the new Utah State Medical Examiner in May 2024 and came from Missouri (and, she thinks, also worked in California).
 
 Anchored Artifacts: (host-stated; no displayed primary artifact – see Optional Flags)
 Mentions: N-177
@@ -1097,7 +1097,7 @@ Investigative Direction: Locate Utah state announcement and prior employment rec
 
 Claim Timestamp: 00:30:39
 
-Claim: A web listing identified an Israeli individual as the founder of Caldera Engineering, though host states this could not be independently corroborated.
+Claim: The host says someone emailed them a link, which she says was real, listing an Israeli individual as the founder of Caldera Engineering, though she says they have not been able to corroborate it and the listing may be an internet scraping error.
 
 Anchored Artifacts: (host-stated; web link referenced but full artifact not displayed – see Optional Flags)
 Related Nodes: N-10184
@@ -1133,7 +1133,7 @@ Investigative Direction: Verify via LinkedIn / professional profile cross-checks
 
 Claim Timestamp: 00:32:52
 
-Claim: The lawyer Caldera Engineering used in its early trademark filings in Arizona was the same lawyer introduced to the host by Tyler Bowyer of Turning Point USA.
+Claim: The host says the lawyer Caldera Engineering used for trademark purposes in Arizona in its early years, per early documents she reviewed, is a lawyer Tyler Bowyer of Turning Point USA introduced her to and whom she has worked with.
 
 Anchored Artifacts: (host-stated based on legal records review; primary filing not displayed – see Optional Flags)
 Mentions: N-11
@@ -1255,7 +1255,7 @@ Investigative Direction: Verify via FBO records at Page, Arizona (Millionaire an
 
 **C-1454** Host Says Signature FBO Person Gave Contradicting Statements
 
-Claim Timestamp: 00:41:40
+Claim Timestamp: 00:41:07
 
 Claim: The host says that a person at the Signature FBO initially confirmed that the plane had made multiple trips in recent days, then reversed to state no plane had ever landed there.
 
@@ -1318,7 +1318,7 @@ Investigative Direction: Verify full Harvard event recording and transcript.
 
 **C-1459** Host Says Matt Walsh Found Kirk's Text "Too on the Nose"
 
-Claim Timestamp: 00:53:09
+Claim Timestamp: 00:52:15
 
 Claim: The host says Matt Walsh thought Charlie Kirk's text messages were fake because the sentence about leaving the pro-Israel cause felt "too on the nose"; the host adds her own view that it suggests Charlie had been pushed to write it.
 
@@ -1712,7 +1712,7 @@ Investigative Direction: Obtain statements from the investigating agency about w
 
 Claim Timestamp: 00:21:12
 
-Claim: The host says there is a remarkable blind spot on the left of Charlie in the footage available, and that she wants footage showing what Charlie would have seen looking slightly to his left.
+Claim: The host says she feels there is a remarkable blind spot on the left of Charlie in the footage available, and that she wants footage showing what Charlie would have seen looking slightly to his left.
 
 Transcript Snippet: I actually feel that there is this remarkable blind spot on the left of Charlie.
 
@@ -1810,7 +1810,7 @@ Investigative Direction: Verify the claim against Chaffetz's public biography; t
 
 Claim Timestamp: 00:24:35
 
-Claim: The host says she thinks the plan was never to let footage from behind Charlie see daylight, so that officials could say they instantly recovered a .30-06 bullet.
+Claim: The host says she thinks the plan was never to let footage from behind Charlie see daylight, so that they could say they instantly recovered a .30-06 bullet.
 
 Transcript Snippet: That way, they were going to say that they recovered a.30-06 bullet, right? Instantly, we recovered a.30-06 bullet.
 

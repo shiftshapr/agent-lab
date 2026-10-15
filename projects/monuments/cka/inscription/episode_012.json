@@ -1548,7 +1548,7 @@
       "@id": "C-1321",
       "ref": "C-1321",
       "label": "Phil Lyman told Alex Jones he was outside at the east end, heard a loud boom, encountered two girls \"very goth, very black\" who did not flee, and quoted one as saying \"Go f yourselves.\"",
-      "claim": "In a clip the host plays of his Alex Jones appearance, Phil Lyman says he was outside at the east end when he heard a loud boom and encountered two girls, \"very goth, very black,\" who did not flee, one of whom he quotes as saying \"Go f yourselves\"; the host says this account places him outdoors and characterizes two individuals as goth and unresponsive.",
+      "claim": "In a clip the host plays of his Alex Jones appearance, Phil Lyman says he was outside at the east end when he heard a loud boom and encountered two girls, \"very goth, very black,\" who did not flee, one of whom he quotes as saying \"Go f yourselves\"; the host says this is consistent with him painting a picture that he was outside when the shot rang out.",
       "anchored_artifacts": [
         "A-1183.1"
       ],
@@ -1587,7 +1587,7 @@
       "@id": "C-1323",
       "ref": "C-1323",
       "label": "Video metadata timestamp shows Phil Lyman inside the Sorenson building at 12:23 on the day of the shooting, walking out calmly.",
-      "claim": "A mobile-phone video provided by Phil Lyman to the host contains embedded metadata placing him inside the Sorenson Center building at 12:23 on September 10, 2025; the video depicts him walking out calmly rather than running.",
+      "claim": "The host says that, according to the metadata of the footage Phil Lyman sent her, he was inside the Sorenson building at 12:23 and then calmly walked out rather than running.",
       "anchored_artifacts": [
         "A-1185.1"
       ],
@@ -1595,7 +1595,7 @@
         "N-10146"
       ],
       "tags": [],
-      "claim_timestamp": "00:16:43",
+      "claim_timestamp": "00:15:58",
       "investigative_direction": "Obtain original file with full EXIF metadata; forensically confirm capture time, device, and chain of custody.",
       "mentions_person_refs": [
         "N-61"
@@ -1606,7 +1606,7 @@
       "@id": "C-1324",
       "ref": "C-1324",
       "label": "The two individuals in Phil Lyman's aftermath footage are wearing black clothing but do not display abnormal behavior; the host states one may be a man.",
-      "claim": "Visual review of Phil Lyman's aftermath video shows two individuals in black (one possibly male) behaving normally; the host disputes Phil's Alex Jones characterization of them as \"goth\" and unfazed.",
+      "claim": "The host says Phil Lyman's aftermath video shows two individuals simply wearing black (one of whom she thinks is a guy) in what seems a normal conversation; she disputes Phil's Alex Jones characterization of them as \"goth\" and unfazed.",
       "anchored_artifacts": [
         "A-1185.1"
       ],
@@ -1626,7 +1626,7 @@
       "@id": "C-1325",
       "ref": "C-1325",
       "label": "Host Says One of Two Companions in Photo With Shaner Broderick Is Gernot Omer, via Face-Match to BearingPoint Graz Video",
-      "claim": "The host says her team identified one of the two companions in the photo with Shaner Broderick as Gernot Omer, because a face in the photo matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.",
+      "claim": "The host says her team identified one of the two companions in the photo with Shaner Broderick as Gernot Omer, whose face she says also matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.",
       "anchored_artifacts": [
         "A-1186.1"
       ],
@@ -1663,7 +1663,7 @@
       "@id": "C-1327",
       "ref": "C-1327",
       "label": "A Belfast viewer matched the second companion's face via a facial-recognition search to a single result in Provo, Utah – on the \"Buzzard and Bees\" gothic-prom page.",
-      "claim": "A viewer in Belfast, Northern Ireland, reported to the host via email that an internet-wide facial search of the unidentified companion returned a single hit on a person in Provo, Utah, depicted on the \"Buzzard and Bees\" gothic-prom page.",
+      "claim": "A viewer in Belfast, Northern Ireland, emailed the host that an internet-wide search of the unidentified companion's face returned a single hit in Provo, Utah, on a website pertaining to bees; the host says that site, Buzzard and Bees, is a Gothic underground in Provo discussing a Gothic prom.",
       "anchored_artifacts": [
         "A-1194.1",
         "A-1188.1"
@@ -1776,7 +1776,7 @@
       "@id": "C-1333",
       "ref": "C-1333",
       "label": "Gernot Omer's face was matched to a German-language blog post titled \"Anniversary Hike, 10 Years on Foot to the Sea\" featuring a group of 30-year-olds recreating a hike taken at age 20.",
-      "claim": "A German-language blog post on a 10-year hiking anniversary contains photos matching the face of the individual identified as Gernot Omer.",
+      "claim": "The host says her team found that the face of the individual identified as Gernot Omer matched photos in a German-language blog post on a 10-year hiking anniversary.",
       "anchored_artifacts": [
         "A-1187.1"
       ],
@@ -2004,7 +2004,7 @@
         "N-11167"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:04:45",
       "investigative_direction": "Ask Ballard and Lyman whether they met that Saturday and for what purpose; compare with any public schedule.",
@@ -2090,7 +2090,7 @@
       "@id": "C-9269",
       "ref": "C-9269",
       "label": "Host Says Broderick Wiped His LinkedIn and Facebook and Privatized Instagram After Her Previous Episode",
-      "claim": "The host says that since the previous episode Shaner Broderick wiped his LinkedIn page and his Facebook page, and privatized his Instagram and then removed the photos of his investigation into the killer's route.",
+      "claim": "The host says that since the previous episode Shaner Broderick wiped his LinkedIn page and his Facebook page, and privatized his Instagram and then removed the photos of his investigation into who Charlie Kirk's killer was.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10147"
@@ -2226,7 +2226,7 @@
       "@id": "C-9275",
       "ref": "C-9275",
       "label": "Host Says Lyman Suggested the Gothic Girls Might Have Been Suspicious or Aware of the Shooting",
-      "claim": "The host says that the previous day Phil Lyman's story suggested that the so-called gothic girls could have been suspicious, or at least aware beforehand that the shooting was going to occur.",
+      "claim": "The host says that the previous day her show poked fun at the narrative Phil Lyman seemed to be trying to spin, suggesting that the so-called gothic girls could have been suspicious, or at least aware that the shooting was going to occur.",
       "anchored_artifacts": [
         "A-1183.1"
       ],
@@ -2439,7 +2439,7 @@
       "@id": "C-9284",
       "ref": "C-9284",
       "label": "Host Says Mitchell Began as a Detective in 1999 and Served 25 Years",
-      "claim": "The host says that, if this is the correct Mike Mitchell, he said he was on the force for 25 years and began his career in 1999, which fits the timeline of the undercover work in the article, and she has a strong hunch it is the right person.",
+      "claim": "The host says that, if this is the correct Mike Mitchell, he says he was on the force for 25 years and this individual began his career in 1999, which fits the timeline of the undercover work, and she has a strong hunch it is the right person.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10141",
@@ -2800,7 +2800,7 @@
       "@id": "C-9300",
       "ref": "C-9300",
       "label": "Host Says the Camera Man Was Behind Charlie the Whole Time, Which She Finds Unusual",
-      "claim": "The host says it was weird that this man was behind Charlie the entire time, and says she has never had anyone linger behind her at an event.",
+      "claim": "The host says it was weird that this man was behind Charlie the entire time, and says he has never been behind her or lingered around her at an event.",
       "anchored_artifacts": [
         "A-3001.1"
       ],
@@ -3212,7 +3212,7 @@
       "@id": "C-9319",
       "ref": "C-9319",
       "label": "Host Relays a Viewer's Correction on Keyholing Versus Pinball Bullets",
-      "claim": "The host responds to a viewer comment confusing keyholing and internal bullet bouncing by saying keyholing is when a slow bullet tumbles and has external impact, while pinball bullets bounce internally and cause internal damage.",
+      "claim": "A viewer comment the host reads, from Marzi, says the viewer had confused keyholing and internal bullet bouncing, and that keyholing is when a slow bullet tumbles and has external impact, while pinball bullets bounce internally and cause internal damage; the host calls this very interesting.",
       "anchored_artifacts": [
         "A-3000.1"
       ],

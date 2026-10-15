@@ -23,7 +23,7 @@
 
 This episode advances multiple investigative threads already in motion in the Bride of Charlie series. The host presents artifact-anchored material in four primary areas: (1) the contested quotation about Charlie Kirk's neck that was attributed to "the surgeon" on Andrew Kolvet's X feed, (2) the disposition of the vehicle in which Charlie was transported to Timpanogos Regional Hospital, supported by a Frank Turek interview clip played on air, (3) the procedural circumstances around the recovery of the firearm, including alleged bomb-dog searches and federal redirection of inexperienced officers, and (4) a Baron Coleman video segment that displays August 25–26, 2025 flight logs under the SAM000 and RCH658/SAM658 call signs in connection with a Fort Huachuca meeting allegedly observed on September 9. The episode also references a forthcoming interview with an unnamed eyewitness ("Elvis guy") who claims to have seen Brian Harpole at a high-level meeting.
 
-Structurally, the episode functions as a hinge point in the series, consolidating prior threads (Colberg tweet, SAM/Reach flight analysis, Operation Valhalla Strike timeline, Fort Huachuca) and setting up the next-day testimony from the eyewitness. The artifact register captures three on-air interview clips, one read-aloud X post, and one set of vehicle interior photographs held but not fully displayed by the host.
+Structurally, the episode functions as a hinge point in the series, consolidating prior threads (Kolvet tweet, SAM/Reach flight analysis, Operation Valhalla Strike timeline, Fort Huachuca) and setting up the next-day testimony from the eyewitness. The artifact register captures three on-air interview clips, one read-aloud X post, and one set of vehicle interior photographs held but not fully displayed by the host.
 
 ## 6. Meme Register
 
@@ -64,7 +64,7 @@ Confidence: high
 Video Timestamp: 00:02:37
 Speaker: N-3
 Quote: Now, just to jog your memory
-Context: Host recaps the Colberg tweet for viewers.
+Context: Host recaps the Kolvet tweet for viewers.
 Tags: recap
 Confidence: high
 
@@ -79,7 +79,7 @@ Confidence: high
 Video Timestamp: 00:04:37
 Speaker: N-3
 Quote: It feels like they have been feeding us slop ever since.
-Context: Host says the Colberg tweet began a stream of federal slop.
+Context: Host says the Kolvet tweet began a stream of federal slop.
 Tags: fed slop
 Confidence: high
 
@@ -485,7 +485,7 @@ Investigative Pressure: Low
 
 **N-10358** Surgeon Quotation Authenticity Question
 
-Discrepancy between the quotation attributed to "the surgeon" on Colberg's X post (A-1552.1) and host sources' claim that no such statement was made by Dr. Lee Trotter.
+Discrepancy between the quotation attributed to "the surgeon" on Kolvet's X post (A-1552.1) and host sources' claim that no such statement was made by Dr. Lee Trotter.
 
 Evidence Count: 2
 Claim Count: 1
@@ -918,7 +918,7 @@ Host's claim that the person Harry believes he saw leaving the September 9 Fort 
 
 ## 5. Claim Register
 
-**C-1960** Colberg X Post Attributes "Man of Steel" Quotation to Surgeon
+**C-1960** Kolvet X Post Attributes "Man of Steel" Quotation to Surgeon
 
 Claim Timestamp: 00:03:52
 
@@ -929,7 +929,7 @@ Mentions: N-196, N-14, N-1
 
 Related Nodes: N-10358
 
-Investigative Direction: Obtain original Colberg post via direct retrieval or archive, and compare against any direct surgeon statements or hospital records.
+Investigative Direction: Obtain original Kolvet post via direct retrieval or archive, and compare against any direct surgeon statements or hospital records.
 
 ---
 
@@ -1082,7 +1082,7 @@ Investigative Direction: Track Bongino's departure announcement and any statemen
 
 ---
 
-**C-5185** Host Says Colberg Was Allegedly Flying Blind When He Tweeted the Surgeon Conversation
+**C-5185** Host Says Kolvet Was Allegedly Flying Blind When He Tweeted the Surgeon Conversation
 
 Claim Timestamp: 00:02:37
 
@@ -1093,11 +1093,11 @@ Transcript Snippet: I was told that Andrew Kolvet was allegedly flying blind whe
 Anchored Artifacts: 
 Mentions: N-3, N-14
 Related Nodes: N-10358
-Investigative Direction: Identify the host's source and obtain Colberg's own account of how and when he spoke with the surgeon.
+Investigative Direction: Identify the host's source and obtain Kolvet's own account of how and when he spoke with the surgeon.
 
 ---
 
-**C-5186** Host Says Colberg's Superman Neck Tweet Followed Her Remark About No Blood in Back Footage
+**C-5186** Host Says Kolvet's Superman Neck Tweet Followed Her Remark About No Blood in Back Footage
 
 Claim Timestamp: 00:02:37
 
@@ -1108,7 +1108,7 @@ Transcript Snippet: me doing the the show and saying, "Oh, I saw the back footag
 Anchored Artifacts: 
 Mentions: N-3, N-14
 Related Nodes: N-10358
-Investigative Direction: Compare the broadcast timestamp of the host's remark with the posting time of Colberg's tweet.
+Investigative Direction: Compare the broadcast timestamp of the host's remark with the posting time of Kolvet's tweet.
 
 ---
 
@@ -1124,7 +1124,7 @@ Anchored Artifacts:
 Mentions: N-196, N-14, N-1
 Related Nodes: N-10358
 Qualifies: C-1960
-Investigative Direction: Obtain a direct statement from Dr. Trotter or his representatives, and any hospital communications record of what he told Colberg.
+Investigative Direction: Obtain a direct statement from Dr. Trotter or his representatives, and any hospital communications record of what he told Kolvet.
 
 ---
 
@@ -1158,7 +1158,7 @@ Investigative Direction: Identify who has publicly accused the surgeon's family 
 
 ---
 
-**C-5190** Host Says Trotter Hunts and Told Colberg It Was Likely a Frangible Bullet
+**C-5190** Host Says Trotter Hunts and Told Kolvet It Was Likely a Frangible Bullet
 
 Claim Timestamp: 00:06:20
 
@@ -1170,15 +1170,15 @@ Anchored Artifacts:
 Mentions: N-196, N-14, N-3
 Related Nodes: N-10358
 Qualifies: C-1960
-Investigative Direction: Ask Colberg and the surgeon's circle what exactly was said about bullet type, and compare with the autopsy and ballistics record.
+Investigative Direction: Ask Kolvet and the surgeon's circle what exactly was said about bullet type, and compare with the autopsy and ballistics record.
 
 ---
 
-**C-5191** Host Says Colberg Also Said the Bullet Ricocheted, Conflicting with the Frangible Account
+**C-5191** Host Says Kolvet Also Said the Bullet Ricocheted, Conflicting with the Frangible Account
 
 Claim Timestamp: 00:06:20
 
-Claim: The host says Colberg also told the audience that the bullet ricocheted, which she says conflicts with the frangible-bullet account from people close to the surgeon, since a frangible round eliminates the risk of ricochet.
+Claim: The host says Kolvet also told the audience that the bullet ricocheted, which she says conflicts with the frangible-bullet account from people close to the surgeon, since a frangible round eliminates the risk of ricochet.
 
 Transcript Snippet: Well, Andrew also told us that the bullet did ricochet. So, what we have here is a conflict of statements.
 
@@ -1186,7 +1186,7 @@ Anchored Artifacts:
 Mentions: N-14, N-3
 Related Nodes: N-10358
 Qualifies: C-1960
-Investigative Direction: Quote Colberg's exact wording on ricochet from his X thread and compare with the wound description in any official report.
+Investigative Direction: Quote Kolvet's exact wording on ricochet from his X thread and compare with the wound description in any official report.
 
 ---
 

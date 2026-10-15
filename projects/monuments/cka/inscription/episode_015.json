@@ -1470,7 +1470,7 @@
       "@id": "C-1368",
       "ref": "C-1368",
       "label": "Bowyer audit / DoJ department denial",
-      "claim": "Tyler Bowyer publicly stated that TPUSA has audited annually and that the host conflated the audit with a proposed new DoJ department.",
+      "claim": "Per the X post the host shows, Tyler Bowyer said the host 'took a sentence and made something up' and that TPUSA audits every year and always has; the host replies that he is conflating the annual audit with the new DoJ department Charlie proposed.",
       "anchored_artifacts": [
         "A-1220.2"
       ],
@@ -1487,7 +1487,7 @@
       "@id": "C-1369",
       "ref": "C-1369",
       "label": "Kolvet SD card removal account – theft prevention",
-      "claim": "Andrew Kolvet, speaking on Tucker Carlson's show, stated that a TPUSA friend/staffer removed the SD cards because he feared theft (citing hat theft from the table) and turned them over to the FBI.",
+      "claim": "Andrew Kolvet, speaking on Tucker Carlson's show, stated that a TPUSA friend/staffer removed the SD cards because he feared theft (citing hat theft from the table) and that the cards are in the possession of the FBI.",
       "anchored_artifacts": [
         "A-1221.1"
       ],
@@ -2629,7 +2629,7 @@
       "@type": "Claim",
       "@id": "C-6489",
       "ref": "C-6489",
-      "label": "Host Says She Shared Charlie's Email on the New DOJ Department",
+      "label": "Host Says She Shared Charlie's Email on the New DOGE Department",
       "claim": "The host says that when Alex Clark made it seem like the host lied about the new DOJ department, the host had literally shared the email from Charlie.",
       "anchored_artifacts": [
         "A-1223.1"
@@ -3041,7 +3041,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "00:58:55",
       "investigative_direction": "Compile start dates of the officials involved; verify the Dallas chief's April appointment.",

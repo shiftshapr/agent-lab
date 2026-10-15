@@ -1151,7 +1151,7 @@
       "ref": "N-235",
       "name": "Elle Reeve",
       "type": "person",
-      "description": "CNN interviewer, transcribed L Reeves.",
+      "description": "CNN interviewer, transcribed Elle Reeve.",
       "related_artifacts": [],
       "related_claims": [
         "C-7977"
@@ -1836,7 +1836,7 @@
       "@type": "Claim",
       "@id": "C-1653",
       "ref": "C-1653",
-      "label": "Lance Wallnau Defined the Seven Mountain Mandate as a Cultural Infiltration Doctrine",
+      "label": "Clip: Lance Wallnau Describes the Seven Mountain Mandate",
       "claim": "In an audio clip played on the episode, Lance Wallnau defined the seven mountain mandate as covering religion, education, family, government, media, art/entertainment, and business/economics, and described pursuing it either \"covert\" or \"overt.\"",
       "anchored_artifacts": [
         "A-1365.1"
@@ -1855,8 +1855,8 @@
       "@type": "Claim",
       "@id": "C-1654",
       "ref": "C-1654",
-      "label": "Frank Turek Described NAR Theology as Aberrant and Occult-Like",
-      "claim": "In an audio clip played on the episode, Frank Turek described the New Apostolic Reformation as having an \"aberrant\" hermeneutic and doing things \"more new agey or more even occult-like than they are Christian\"; the host introduces the clip by saying Turek acknowledged NAR was a cult, \"actually darker than a cult.\"",
+      "label": "Clip Presented as Turek Calls Word of Faith Hermeneutic Aberrant and Occult-Like",
+      "claim": "In an audio clip played on the episode, presented by the host as Frank Turek, after the New Apostolic Reformation is named, a speaker describing the Word of Faith movement says its hermeneutic is \"aberrant\" and that its adherents do things \"more new agey or more even occult-like than they are Christian\"; the host introduces the clip by saying Turek acknowledged NAR was a cult, \"actually darker than a cult.\"",
       "anchored_artifacts": [
         "A-1366.1"
       ],
@@ -1933,7 +1933,7 @@
       "@id": "C-1658",
       "ref": "C-1658",
       "label": "Text Messages Displayed On Air as Allegedly From Charlie Kirk",
-      "claim": "Text messages displayed on air, presented by the host as authentic messages from Charlie Kirk to Candace Owens, included the passage: \"Iron sharpens iron. It's not a dominance partnership. Each hand washes the other.\"",
+      "claim": "Text messages displayed on air, presented by the host as authentic messages between Charlie Kirk and Candace Owens, included the passage: \"Iron sharpens iron. It's not a dominance partnership. Each hand washes the other.\"",
       "anchored_artifacts": [
         "A-1370.1"
       ],
@@ -1950,8 +1950,8 @@
       "@type": "Claim",
       "@id": "C-1659",
       "ref": "C-1659",
-      "label": "Seth Dillon Tweeted Matthew 16:26 About Losing One's Soul",
-      "claim": "Seth Dillon (Babylon Bee) tweeted the Matthew 16:26 verse (\"what do you benefit if you gain the whole world but lose your own soul\") in response to Candace Owens' podcast hitting number one globally.",
+      "label": "Seth Dillon Tweeted Verse About Losing One's Soul",
+      "claim": "Per the tweet the host shows, Seth Dillon (Babylon Bee) posted the verse \"what do you benefit if you gain the whole world but lose your own soul\"; the host says he tweeted it when her podcast hit number one globally.",
       "anchored_artifacts": [
         "A-1371.1"
       ],
@@ -1978,7 +1978,9 @@
       "claim_timestamp": "00:29:06",
       "investigative_direction": "Retrieve and verify the original tweet on Joel Berry's X account.",
       "mentions_person_refs": [
-        "N-242"
+        "N-242",
+        "N-3",
+        "N-22"
       ]
     },
     {
@@ -2067,7 +2069,7 @@
         "N-10240"
       ],
       "tags": [],
-      "claim_timestamp": "00:23:17",
+      "claim_timestamp": "00:22:45",
       "investigative_direction": "Retrieve the original BBC article to verify the headline, the identity of the survivor, and the broader reporting."
     },
     {
@@ -2134,7 +2136,7 @@
       "@id": "C-7913",
       "ref": "C-7913",
       "label": "Host Says Others Told Her Charlie Was Definitely at UV Hospital",
-      "claim": "The host says that after people found it strange that Charlie Kirk was taken to Timpanogos, they started hearing from other people that he was definitely at UV Hospital.",
+      "claim": "The host says that after people found it strange that Charlie Kirk was taken to Timpanogos, she and others started hearing from other people that he was definitely at UV Hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10149",
@@ -2583,7 +2585,7 @@
       "@id": "C-7933",
       "ref": "C-7933",
       "label": "Host Says Faith-Department Sources Say Wallnau Funded Turning Point Faith",
-      "claim": "The host says sources within Turning Point's faith department told her Lance Wallnau was running the show behind the scenes through funding and put a ton of money into Turning Point USA Faith operations, working with Rob McCoy.",
+      "claim": "The host says Lance Wallnau was working with Rob McCoy, and that sources within Turning Point's faith department told her Wallnau was running the show behind the scenes through funding and put a ton of money into Turning Point USA Faith operations.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10242",
@@ -2800,7 +2802,7 @@
         "N-10401"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:23:17",
       "investigative_direction": "Locate the host's X post from the weekend of November 8 to 9, 2025 and the church and sources it names.",
@@ -2820,7 +2822,7 @@
         "N-10401"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:27:04",
       "investigative_direction": "Retrieve court filings or press reporting on the allegations against Havsgaard and check the host's account.",
@@ -3146,8 +3148,8 @@
       "@type": "Claim",
       "@id": "C-7959",
       "ref": "C-7959",
-      "label": "Host Says Wednesday's Episode Will Reveal Findings on Egyptian Military Planes",
-      "claim": "The host says she will tell viewers on Wednesday what the team discovered about the Egyptian military, which she says will put more people on the run.",
+      "label": "Host Says Wednesday's Episode Will Reveal Findings on the Egyptian Military",
+      "claim": "The host says she will tell viewers on Wednesday what the team discovered about the Egyptian military, which she thinks will put more people on the run.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10253"
@@ -3389,7 +3391,7 @@
       "@id": "C-7970",
       "ref": "C-7970",
       "label": "Host Says No Clear Picture of Tyler Robinson on Campus Has Been Shown",
-      "claim": "The host says officials will not show a clear picture of Tyler Robinson on campus that day despite all the cameras, which would do a lot.",
+      "claim": "The host says they will not show a clear picture of Tyler Robinson on campus that day despite all the cameras, which would do a lot.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10110"
@@ -3563,7 +3565,7 @@
       ],
       "claim_timestamp": "00:56:54",
       "investigative_direction": "Watch the full CNN interview and tally topics covered.",
-      "transcript_snippet": "L Reeves did not even get to my book at all",
+      "transcript_snippet": "Elle Reeve did not even get to my book at all",
       "mentions_person_refs": [
         "N-235",
         "N-82",

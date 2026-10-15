@@ -757,7 +757,7 @@ Related Nodes:
 Investigative Direction: Independent corpus sampling of Robinson's other recorded speech; comparison with general American English usage.
 *Note: This is a host interpretive claim layered on the same artifact.*
 
-**C-1299** Brooksby received a phone call about the shooter at 8:02 p.m. on the 11th from a retired detective friend
+**C-1299** Brooksby Says a Retired Friend Called at 8:02 p.m. Saying He Knew Who the Shooter Was
 
 Claim Timestamp: 00:09:06
 Claim: In a clip the host plays, Nate Brooksby says that at 8:02 p.m. a friend who has been retired a few years, whom the host describes as a former detective, called to say he knew who the Charlie Kirk shooter was.
@@ -817,7 +817,7 @@ Mentions: N-125
 Related Nodes: N-10141
 Investigative Direction: Conduct independent newspaper archive search (local Utah papers, Provo, St. George) and Washington County internal award/honor records.
 
-**C-1306** The suicidal-ideation and fear-of-being-shot accounts are mutually exclusive
+**C-1306** Host Says Brooksby's Suicidal-Ideation Account Confusingly Conflicts With Her Source
 
 Claim Timestamp: 00:08:45
 Claim: The host says it is confusing that Nate Brooksby tells us Tyler is suicidal, when her source says Tyler is not suicidal and went to the police station so as not to risk being shot.
@@ -889,7 +889,7 @@ Mentions: N-128
 Related Nodes: N-10144
 Investigative Direction: Identify the two friends via cross-reference with Shane's social graph or via direct outreach.
 
-**C-1314** Phil Lyman showed up at "Nick's" home uninvited and asked questions about the host's investigation
+**C-1314** Phil Lyman Asked for Nick's Address, Came to His Home and Asked About the Host's Investigation
 
 Claim Timestamp: 00:39:58
 Claim: Per Nick's account to host, Phil Lyman messaged Nick for his address (something he had not previously had), arrived at Nick's home, looked out the window nervously, sat at the table, and asked questions about the host's investigation.
@@ -949,7 +949,7 @@ Investigative Direction: Inventory public statements/actions (or silence) by nam
 **C-1320** Host Agrees With Viewer Comments on a Staged World and Prayer for Investigators
 
 Claim Timestamp: 00:52:44
-Claim: Host concurs with Bitsy's comment about a "stage" narrative; concurs with Miranda Allen's prayer request and reports that she also prays for protection over investigators.
+Claim: Host concurs with Bitsy's comment about a "stage" narrative; responding to Miranda Allen's comment offering prayers, she says she really believes praying protection over the people trying to discover what happened is significant.
 Anchored Artifacts: A-1182.4, A-1182.5
 Mentions: 
 Related Nodes:
@@ -995,7 +995,7 @@ Investigative Direction: The source is unnamed and nothing was shown. Ask the ho
 
 Claim Timestamp: 00:01:53
 
-Claim: The host says the feds withheld information about the Dairy Queen and, as she puts it, are allegedly stalking the Dairy Queen to see who comes in and out. She presents the source's account as one that could answer both questions.
+Claim: The host asks why the feds withheld information about the Dairy Queen and why they are allegedly stalking the Dairy Queen to see who comes in and out. She presents the source's account as one that could answer both questions.
 
 Transcript Snippet: And why exactly did the&nbsp;&nbsp; feds withhold that information at Dairy Queen? And&nbsp; why are they allegedly stalking the Dairy Queen to&nbsp;&nbsp; see who comes in and out?
 
@@ -1426,7 +1426,7 @@ Investigative Direction: Obtain the TMZ neighborhood-camera footage with its ori
 
 ---
 
-**C-13851** Host Says McEnany Put Lyman's Parking at 11:30 and the Footage at 11:49, 19 Minutes Apart, While Lyman Says About 10 Minutes
+**C-13851** McEnany Clip Puts Lyman's Parking at 11:30 and the Footage at 11:49, While Lyman Says About 10 Minutes
 
 Claim Timestamp: 00:28:54
 
@@ -1588,7 +1588,7 @@ Investigative Direction: Ask the host which leads she is working on and which fa
 
 **C-13861** Host Says the Mitchell Name in That Area Kept Coming Up for the Air Force
 
-Claim Timestamp: 00:49:16
+Claim Timestamp: 00:50:35
 
 Claim: The host says that, while trying to find Mike Mitchell, she could find the Mitchell family, and while she does not know if it is his family, the Mitchell name in that area was coming up for the Air Force.
 

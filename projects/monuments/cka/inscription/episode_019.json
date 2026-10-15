@@ -1797,8 +1797,8 @@
       "@type": "Claim",
       "@id": "C-1472",
       "ref": "C-1472",
-      "label": "Charlie Kirk UVU Event Clip – Friendship Exchange",
-      "claim": "UVU event clip captures Charlie Kirk responding to a question about friendship with the line \"Find out\" regarding whether Kirk was the questioner's friend.",
+      "label": "UVU Event Clip Shows Charlie Kirk and the Host Joking About a Sign Saying He Is Not Her Friend",
+      "claim": "In a clip the host plays, which she says is from a UVU event, a sign is read saying that if you aren't wealthy, white and male, Charlie Kirk is not your friend; Charlie Kirk asks the host, \"Are we not friends?\" and she jokes that she found out from a sign outside the event that he is not her friend.",
       "anchored_artifacts": [
         "A-1264.1"
       ],
@@ -1850,7 +1850,7 @@
       "@id": "C-1475",
       "ref": "C-1475",
       "label": "John Miller X Post Characterized Josh Hammer as \"the Good Guy\" Insincerely",
-      "claim": "John Miller posted: \"They really trying to make us believe this is the good guy. LMAO\"",
+      "claim": "The host reads an X post by John Miller about Josh Hammer threatening to sue her, which says: \"They really trying to make us believe this is the good guy. LMAO\"",
       "anchored_artifacts": [
         "A-1267.1"
       ],
@@ -1969,7 +1969,7 @@
       "@id": "C-1482",
       "ref": "C-1482",
       "label": "Ian Carroll Commented on Host's Return",
-      "claim": "Ian Carroll commented: \"Fishing takes time. You got to set the bait. It's so good to have you back, Candace.\"",
+      "claim": "A comment the host reads, from Ian Carroll, says: \"Fishing takes time. You got to set the bait. It's so good to have you back, Candace.\"",
       "anchored_artifacts": [
         "A-1269.1"
       ],
@@ -2055,7 +2055,7 @@
       "@type": "Claim",
       "@id": "C-1487",
       "ref": "C-1487",
-      "label": "Host discussed Zeb Boykin in witness / outreach context",
+      "label": "Host Credits Online Researchers for Viral September 10 Video",
       "claim": "The host says it is thanks to people on the internet like Sam Parker, James Lee, Ian Carroll and Zeb Boykin, among others, that a video from September 10th has gone pretty viral.",
       "anchored_artifacts": [
         "A-1261.1"
@@ -2283,7 +2283,7 @@
         "N-10561"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:03:46",
       "investigative_direction": "Identify the casket-arrival footage and confirm who was holding the camera; check Sheridan's own account.",
@@ -2473,7 +2473,7 @@
       "@id": "C-13954",
       "ref": "C-13954",
       "label": "Host Says Rob McCoy Said He Was Watching and Asks What He Watched",
-      "claim": "The host says McCoy's account stops with \"I was watching,\" and asks what exactly was being watched.",
+      "claim": "The host says Pastor McCoy stops himself after saying \"I was watching,\" and asks what exactly he was watching.",
       "anchored_artifacts": [
         "A-3287.1"
       ],
@@ -2487,8 +2487,7 @@
       "investigative_direction": "Check the sermon audio wording (the clip reads \"I'm watching\" in the transcript) and ask McCoy what he was watching.",
       "transcript_snippet": "But he stops himself. He says, \"I was watching.\" Watching what exactly. What were you watching?",
       "mentions_person_refs": [
-        "N-17",
-        "N-191"
+        "N-17"
       ]
     },
     {
@@ -2592,7 +2591,7 @@
       "@type": "Claim",
       "@id": "C-13959",
       "ref": "C-13959",
-      "label": "Host Says TPUSA and McCoy Have Issued No Statement or Call Log",
+      "label": "Host Says McCoy and Kolvet Have Issued No Statement",
       "claim": "The host says that, unlike what she would have done, neither Mikey McCoy nor Turning Point has issued a statement to dispel the rumors about the phone call.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3214,7 +3213,7 @@
         "N-10806"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:37:09",
       "investigative_direction": "Obtain the full April message thread to verify dates, wording and frequency.",
@@ -3241,7 +3240,7 @@
         "N-10389"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:38:21",
       "investigative_direction": "Match the thread date to Kanye West's tweet date from the public X record.",
@@ -3314,7 +3313,7 @@
         "N-10806"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:39:19",
       "investigative_direction": "Authenticate the message and its place in the thread.",

@@ -1,0 +1,796 @@
+[
+ {
+  "claim": "C-9652",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9653",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Speaker hedges: 'I think most said Israel.' Claim names only Mamdani ('a speaker'); Tucker (N-22) and Greene (N-146) are not named or identified in the claim.",
+  "fix": {
+   "claim": "In the played clip, a speaker says that in the New York City mayoral debate all the candidates were asked which foreign country they would visit and, the speaker thinks, most said Israel, while Mamdani said he would stay in New York.",
+   "mentions": [
+    "N-224"
+   ]
+  }
+ },
+ {
+  "claim": "C-9654",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9655",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Spoken ~49s into the 10:33 block; within range.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9656",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9657",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9658",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9659",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim appends an editorial inference ('so this dates the conversation to 2024') that the host does not say; she says only 'the Daily Wire position in 2024 was...'.",
+  "fix": {
+   "claim": "The host refers to the Daily Wire's position 'in 2024' that its CEO could talk to and praise Nick Fuentes and invite him on the platform; the article read aloud gives only 'March 25th'."
+  }
+ },
+ {
+  "claim": "C-9660",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Fuentes and Shapiro only; Boreing (N-367) is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-202",
+    "N-97"
+   ]
+  }
+ },
+ {
+  "claim": "C-9661",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9662",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9663",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9664",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9665",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9666",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9667",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9668",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9669",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Fuentes and Boreing only; Shapiro (N-97) is not named or referred to in the claim. '18-year-old' line is ~66s into the 20:35 block, within range.",
+  "fix": {
+   "mentions": [
+    "N-202",
+    "N-367"
+   ]
+  }
+ },
+ {
+  "claim": "C-9670",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9671",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9672",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9673",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9674",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'they were sending an intern to ask me a question' - the intern, named Ariana minutes later (N-236), is clearly referred to but missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-236"
+   ]
+  }
+ },
+ {
+  "claim": "C-9675",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Ariana (N-236) is the intern referred to.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9676",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9677",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9678",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9679",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9680",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9681",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim refers only to 'the CNN interview' and Charlie; Elle Reeve (N-235) is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-9682",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9683",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Reeve does not ask; she says '>> because it sounds like you're saying Jews.' It is the host who asks 'Does the word they mean Jews?' and Reeve answers 'When you're talking about Jews? Yes.'",
+  "fix": {
+   "claim": "In the played CNN clip, Elle Reeve tells the host that her use of the word 'they' sounds like she is saying Jews, and the host replies that if she is not talking about Jews then 'they' does not mean Jews.",
+   "label": "Clip: Reeve Says 'They' Sounds Like Jews"
+  }
+ },
+ {
+  "claim": "C-9684",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names only the host ('In the played CNN clip, the host says...'); Elle Reeve (N-235) is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9685",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9686",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Trump (father) and Netanyahu; Eric (N-34) and Lara (N-375) Trump are not named in the claim. Donald Trump has no id in this episode's list.",
+  "fix": {
+   "mentions": [
+    "N-36"
+   ]
+  }
+ },
+ {
+  "claim": "C-9687",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names no person ('the student'); Eric (N-34) and Lara (N-375) Trump are not named or referred to in the claim.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-9688",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Eric Trump only; Lara Trump (N-375) is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-34"
+   ]
+  }
+ },
+ {
+  "claim": "C-9689",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Speaker says 'as Eric just pointed out', so is Lara (N-375), the 'speaker' of the claim; Eric (N-34) is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-375"
+   ]
+  }
+ },
+ {
+  "claim": "C-9690",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9691",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names no Trump; Eric (N-34) and Lara (N-375) are not named or referred to in the claim ('we get lectured...').",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9692",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'what BB bought TikTok' is garbled; claim flags it.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9693",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9694",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name or refer to Charlie Kirk ('Israel did not act right... said immediately it was not them'); N-1 should not be in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9695",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9696",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9697",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1652",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1653",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Title calls it a 'Cultural Infiltration Doctrine'; that is the host's gloss ('This is a philosophy of infiltration'), not Wallnau's definition. Covert/overt line is at 15:31 in the clip; claim body is correct.",
+  "fix": {
+   "label": "Clip: Lance Wallnau Describes the Seven Mountain Mandate"
+  }
+ },
+ {
+  "claim": "C-1654",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "In the clip the 'aberrant' hermeneutic and 'occult-like' remarks follow 'Uh but Word of Faith movement, they don't necessarily add...' - they describe the Word of Faith movement, not NAR. Speaker presented by host as Turek.",
+  "fix": {
+   "claim": "In an audio clip played on the episode, presented by the host as Frank Turek, a speaker describing the Word of Faith movement says its hermeneutic is \"aberrant\" and that its adherents do things \"more new agey or more even occult-like than they are Christian\", after naming the New Apostolic Reformation; the host introduces the clip by saying Turek acknowledged NAR was a cult, \"actually darker than a cult.\"",
+   "label": "Clip Presented as Turek Calls Word of Faith Hermeneutic Aberrant and Occult-Like"
+  }
+ },
+ {
+  "claim": "C-1655",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'5-year investigation' at end of 09:40 block and 'forensic analysis' at 10:32; host hedges 'we're going to have to wait for the Feds to dispute this'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1656",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1657",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1658",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host does not say who wrote the 'Iron sharpens iron' passage: 'It was just uh us describing our partnership.' 'from Charlie Kirk to Candace Owens' adds a direction not stated.",
+  "fix": {
+   "claim": "Text messages displayed on air, presented by the host as authentic messages between Charlie Kirk and Candace Owens, included the passage: \"Iron sharpens iron. It's not a dominance partnership. Each hand washes the other.\""
+  }
+ },
+ {
+  "claim": "C-1659",
+  "episode": 29,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'in response to... number one globally' is the host's framing ('When my show hit number one globally... Seth Dillon... tweeted this'), stated as fact. 'Matthew 16:26' is not said in the episode.",
+  "fix": {
+   "claim": "Per the tweet the host shows, Seth Dillon (Babylon Bee) posted the verse \"what do you benefit if you gain the whole world but lose your own soul\"; the host says he tweeted it when her podcast hit number one globally.",
+   "label": "Seth Dillon Tweeted Verse About Losing One's Soul"
+  }
+ },
+ {
+  "claim": "C-1660",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Tucker ('Candace and Tucker had given...') but N-22 is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-242",
+    "N-3",
+    "N-22"
+   ]
+  }
+ },
+ {
+  "claim": "C-1661",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1662",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1663",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'I'd rather debate a skunk than you' is at 41:45 in the Levin clip.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1664",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1665",
+  "episode": 29,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "BBC headline ('this is a headline from the BBC...') is spoken ~22:49-22:55, about halfway through the 22:29 block; 00:23:17 is ~25s after.",
+  "fix": {
+   "timestamp": "00:22:45"
+  }
+ }
+]

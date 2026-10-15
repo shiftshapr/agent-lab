@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T16:13:33Z",
+  "generated_at": "2026-10-15T16:23:29Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -6748,14 +6748,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10797",
-      "label": "Host plays Deborah Lee saying Charlie Kirk was her first mentor in the space",
+      "label": "Host plays Debra Lea saying Charlie Kirk was her first mentor in the space",
       "node_kind": "claim",
       "episode": 13
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10798",
-      "label": "Host plays Deborah Lee asking Netanyahu about losing evangelical support",
+      "label": "Host plays Debra Lea asking Netanyahu about losing evangelical support",
       "node_kind": "claim",
       "episode": 13
     },
@@ -17269,7 +17269,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12195",
-      "label": "Host Says the Accuser Then Attacked Her and Tucker Carlson",
+      "label": "Host Says the Accuser's Lawyer Then Attacked Her and Tucker Carlson",
       "node_kind": "claim",
       "episode": 20
     },
@@ -17339,21 +17339,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12204",
-      "label": "Host Says Charlie Told Her in a Dream to Look Into the Medical Examiner",
+      "label": "Host Says Charlie Told Her in a Dream to Look Into the Medical Examiner, Dr. Deirdre Amaro",
       "node_kind": "claim",
       "episode": 20
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12205",
-      "label": "Host Says Medical Examiner Weiss Amaro Is a Major in the Army",
+      "label": "Host Says Medical Examiner Deirdre Amaro Is a Major in the Army",
       "node_kind": "claim",
       "episode": 20
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12206",
-      "label": "Host Says Weiss Amaro Is From the Ericson Family and Claims Descent From Leif Erikson",
+      "label": "Host Says Deirdre Amaro Is From the Ericson Family and Claims Descent From Leif Erikson",
       "node_kind": "claim",
       "episode": 20
     },
@@ -17500,7 +17500,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12225",
-      "label": "Host Says Before Mikey the Behind-the-Scenes Video Role Was Done by Sarah Schmackenberger",
+      "label": "Host Says Before Mikey the Behind-the-Scenes Video Role Was Done by Sara Schmachtenberger",
       "node_kind": "claim",
       "episode": 20
     },
@@ -18340,7 +18340,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12334",
-      "label": "Host Mocks the 33 Numerology Claims and Says Those Behind the Killing Communicate With Numerology",
+      "label": "Host Says 33 Numerology Signals Show a High-Level Assassination",
       "node_kind": "claim",
       "episode": 23
     },
@@ -23387,7 +23387,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1299",
-      "label": "Brooksby received a phone call about the shooter at 8:02 p.m. on the 11th from a retired detective friend",
+      "label": "Brooksby Says a Retired Friend Called at 8:02 p.m. Saying He Knew Who the Shooter Was",
       "node_kind": "claim",
       "episode": 11
     },
@@ -23926,7 +23926,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1306",
-      "label": "The suicidal-ideation and fear-of-being-shot accounts are mutually exclusive",
+      "label": "Host Says Brooksby's Suicidal-Ideation Account Confusingly Conflicts With Her Source",
       "node_kind": "claim",
       "episode": 11
     },
@@ -24542,7 +24542,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1314",
-      "label": "Phil Lyman showed up at \"Nick's\" home uninvited and asked questions about the host's investigation",
+      "label": "Phil Lyman Asked for Nick's Address, Came to His Home and Asked About the Host's Investigation",
       "node_kind": "claim",
       "episode": 11
     },
@@ -26306,7 +26306,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1337",
-      "label": "Host Says Woman Was Seen With Shooter on Nearby Houses' Doorbell-Camera Footage",
+      "label": "Host Says Woman Was Seen With Shooter in Footage From Nearby Houses",
       "node_kind": "claim",
       "episode": 13
     },
@@ -26845,7 +26845,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1344",
-      "label": "Host Says Netanyahu Met on Camera With US Social-Media Influencer Deborah Lee",
+      "label": "Host Says Netanyahu Met on Camera With US Social-Media Influencer Debra Lea",
       "node_kind": "claim",
       "episode": 13
     },
@@ -26999,7 +26999,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1346",
-      "label": "Netanyahu described social media as the \"weapons of the battlefield\" of the influence fight",
+      "label": "Netanyahu Calls Social Media the Most Important Battlefield in Clip Host Plays",
       "node_kind": "claim",
       "episode": 13
     },
@@ -27384,7 +27384,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1351",
-      "label": "The FBI recently cut ties with the ADL after Turning Point USA criticism, and the FBI and ADL share a building",
+      "label": "Viewer Comment Says FBI Cut Ties With ADL and the Two Share a Building",
       "node_kind": "claim",
       "episode": 13
     },
@@ -30016,7 +30016,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13851",
-      "label": "Host Says McEnany Put Lyman's Parking at 11:30 and the Footage at 11:49, 19 Minutes Apart, While Lyman Says About 10 Minutes",
+      "label": "McEnany Clip Puts Lyman's Parking at 11:30 and the Footage at 11:49, While Lyman Says About 10 Minutes",
       "node_kind": "claim",
       "episode": 11
     },
@@ -30772,7 +30772,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1395",
-      "label": "Mappin letter: Mappins helped facilitate Turning Point UK",
+      "label": "Host Says Mappin Was the Donor Behind the First Turning Point UK Event",
       "node_kind": "claim",
       "episode": 16
     },
@@ -30842,7 +30842,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13959",
-      "label": "Host Says TPUSA and McCoy Have Issued No Statement or Call Log",
+      "label": "Host Says McCoy and Kolvet Have Issued No Statement",
       "node_kind": "claim",
       "episode": 19
     },
@@ -31465,7 +31465,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1404",
-      "label": "Josh Hammer Retweeted 2013 Trump Public-Execution Tweet on September 9, 2025",
+      "label": "Host Says Josh Hammer Retweeted 2013 Trump Public-Execution Tweet on September 9, 2025",
       "node_kind": "claim",
       "episode": 17
     },
@@ -31773,7 +31773,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1408",
-      "label": "Josh Hammer Did Not, in His Media Discussion of Iryna Zhuravska, Advocate the Death Penalty",
+      "label": "Host Says Hammer Did Not Advocate the Death Penalty in His Iryna Zhuravska Commentary",
       "node_kind": "claim",
       "episode": 17
     },
@@ -31850,7 +31850,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1409",
-      "label": "Matt Walsh Posted an X Post Calling for \"Public Execution\" on September 5, 2025",
+      "label": "Host Shows Matt Walsh Post Calling for \"Public Execution\" After the Iryna Footage",
       "node_kind": "claim",
       "episode": 17
     },
@@ -32004,7 +32004,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1411",
-      "label": "Hammer's First X Post After Charlie Kirk's Death Promoted His Book",
+      "label": "Host Reads What She Says Was Hammer's First Post After Kirk's Death, Mentioning His Book",
       "node_kind": "claim",
       "episode": 17
     },
@@ -32389,7 +32389,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1416",
-      "label": "Alex Jones Confirmed Candace Activated a \"Kill Switch\" Distributed to Multiple Named Recipients",
+      "label": "Alex Jones Says Candace Sent a \"Dead Man Switch\" to Multiple Named Recipients",
       "node_kind": "claim",
       "episode": 17
     },
@@ -32543,7 +32543,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1418",
-      "label": "A Letter Read Aloud on Air Asserted Critics Were \"Lying Through Their Teeth\"",
+      "label": "Hammer Post the Host Reads Says Tucker and Candace Are \"Lying Through Their Teeth\"",
       "node_kind": "claim",
       "episode": 17
     },
@@ -32620,7 +32620,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1419",
-      "label": "Josh Hammer Posted \"Jew hatred is inherent in the European DNA\" in 2019 and Later Deleted It",
+      "label": "Host Shows Josh Hammer Post Saying \"Jew Hatred Is Inherent in the European DNA\"",
       "node_kind": "claim",
       "episode": 17
     },
@@ -32697,7 +32697,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1420",
-      "label": "Josh Hammer Tweeted Nine Times on September 9, 2025 Before the 9:09 p.m. ET Public-Execution Retweet",
+      "label": "Host Says Josh Hammer Tweeted Nine Times on September 9 Before the 9:09 p.m. ET Public-Execution Retweet",
       "node_kind": "claim",
       "episode": 17
     },
@@ -32774,7 +32774,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1421",
-      "label": "Tyler Bowyer Has Made Accusatory X Posts Against Candace Owens's Coverage",
+      "label": "Host Says Tyler Bowyer's X Posts Were Sloppy and Accusatory",
       "node_kind": "claim",
       "episode": 17
     },
@@ -33005,7 +33005,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1424",
-      "label": "Host referenced Laura Loomer in closing segment",
+      "label": "Host Says Join Us in Prison When Laura Loomer Sends Us for Writing CIA in Parody",
       "node_kind": "claim",
       "episode": 17
     },
@@ -36701,7 +36701,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1472",
-      "label": "Charlie Kirk UVU Event Clip – Friendship Exchange",
+      "label": "UVU Event Clip Shows Charlie Kirk and the Host Joking About a Sign Saying He Is Not Her Friend",
       "node_kind": "claim",
       "episode": 19
     },
@@ -37856,7 +37856,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1487",
-      "label": "Host discussed Zeb Boykin in witness / outreach context",
+      "label": "Host Credits Online Researchers for Viral September 10 Video",
       "node_kind": "claim",
       "episode": 19
     },
@@ -39697,7 +39697,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1558",
-      "label": "Host Says News Story Reports Plumber Discovered About $500,000 in Cash at Joel Osteen's Megachurch",
+      "label": "Host Says News Story Reports Plumber Found 500 Envelopes of Cash at Joel Osteen's Megachurch",
       "node_kind": "claim",
       "episode": 23
     },
@@ -39809,7 +39809,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1574",
-      "label": "Photo of Candace and Charlie Kirk Puffing Chests at Ben Shapiro's Studio",
+      "label": "Host Shows Photo of Charlie Kirk Puffing His Chest Beside Ben Shapiro",
       "node_kind": "claim",
       "episode": 24
     },
@@ -39893,7 +39893,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1586",
-      "label": "Mikey McCoy First Mic'd Charlie on the Final Asia Trip, Four Days Before 9/10",
+      "label": "Mikey McCoy Says the Final Asia Trip Was His First Time Traveling With a Camera",
       "node_kind": "claim",
       "episode": 25
     },
@@ -39956,7 +39956,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1595",
-      "label": "Grock (xAI) Characterizes Israel-Egypt Intelligence Cooperation as Unprecedented Since the 1979 Peace Treaty",
+      "label": "Viewer Comment Says Grok Calls Israel-Egypt Intelligence Cooperation Unprecedented",
       "node_kind": "claim",
       "episode": 25
     },
@@ -40012,7 +40012,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1605",
-      "label": "Host Concurs with Brett Cooper on Ted Cruz",
+      "label": "Host Says Brett Cooper Is a Voice of Gen Z Who Should Be Heard",
       "node_kind": "claim",
       "episode": 26
     },
@@ -40117,7 +40117,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1620",
-      "label": "Erika Kirk Does Not Give Direct Yes/No on Whether Caught Individual Is Sole Killer",
+      "label": "Erika Kirk Does Not Give Direct Yes/No on Whether Husband's Killer Was Caught",
       "node_kind": "claim",
       "episode": 27
     },
@@ -40257,14 +40257,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1640",
-      "label": "HuffPost Report: Boring Praised Fuentes on X Space",
+      "label": "HuffPost Report: Boreing Praised Fuentes on X Space",
       "node_kind": "claim",
       "episode": 28
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1641",
-      "label": "Boring Invited Fuentes Onto Daily Wire Shows",
+      "label": "Boreing Invited Fuentes Onto Daily Wire Shows",
       "node_kind": "claim",
       "episode": 28
     },
@@ -40348,14 +40348,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1653",
-      "label": "Lance Wallnau Defined the Seven Mountain Mandate as a Cultural Infiltration Doctrine",
+      "label": "Clip: Lance Wallnau Describes the Seven Mountain Mandate",
       "node_kind": "claim",
       "episode": 29
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1654",
-      "label": "Frank Turek Described NAR Theology as Aberrant and Occult-Like",
+      "label": "Clip Presented as Turek Calls Word of Faith Hermeneutic Aberrant and Occult-Like",
       "node_kind": "claim",
       "episode": 29
     },
@@ -40390,7 +40390,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1659",
-      "label": "Seth Dillon Tweeted Matthew 16:26 About Losing One's Soul",
+      "label": "Seth Dillon Tweeted Verse About Losing One's Soul",
       "node_kind": "claim",
       "episode": 29
     },
@@ -40446,14 +40446,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1667",
-      "label": "Ben Shapiro told Megyn Kelly's tour audience Candace accused Erica Kirk of being behind Charlie's murder",
+      "label": "Host Says Ben Shapiro Told Megyn Kelly's Tour Audience Candace Accused Erika Kirk of Being Behind Charlie's Murder",
       "node_kind": "claim",
       "episode": 30
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1668",
-      "label": "Megyn Kelly publicly stated on her tour that Candace has been defending Erica Kirk",
+      "label": "Megyn Kelly Publicly Stated on Her Tour That Candace Has Been Defending Erika Kirk",
       "node_kind": "claim",
       "episode": 30
     },
@@ -40502,7 +40502,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1675",
-      "label": "UVU Turning Point chapter formally requested Charlie Kirk as speaker on July 18",
+      "label": "UVU Turning Point Chapter Requested Charlie Kirk as Speaker on July 18",
       "node_kind": "claim",
       "episode": 30
     },
@@ -40544,7 +40544,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1681",
-      "label": "Kanye West tweet asserted he was going \"defcon 3 on some Jewish people\"",
+      "label": "Host Says Kanye West's 'Death Con 3' Tweet Meant Defcon 3",
       "node_kind": "claim",
       "episode": 30
     },
@@ -40586,7 +40586,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1687",
-      "label": "Rob McCoy Placed Thomas Camino in Home Fellowship Program with Access to Children",
+      "label": "Host Says Rob McCoy Placed Thomas Camino in Home Fellowship Program With Access to Children",
       "node_kind": "claim",
       "episode": 31
     },
@@ -40628,7 +40628,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1693",
-      "label": "Owens and Kirk Co-Hosted a PragerU Segment Discussing Foxhole Allies",
+      "label": "Throwback PragerU Clip of Owens and Kirk Discussing Foxhole Allies",
       "node_kind": "claim",
       "episode": 31
     },
@@ -42497,7 +42497,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1960",
-      "label": "Colberg X Post Attributes \"Man of Steel\" Quotation to Surgeon",
+      "label": "Kolvet X Post Attributes \"Man of Steel\" Quotation to Surgeon",
       "node_kind": "claim",
       "episode": 48
     },
@@ -54082,7 +54082,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3644",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "label": "Host Plugs CIA Parody Merchandise and Asks for the Green CIA Hat",
       "node_kind": "claim",
       "episode": 17
     },
@@ -64869,14 +64869,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5185",
-      "label": "Host Says Colberg Was Allegedly Flying Blind When He Tweeted the Surgeon Conversation",
+      "label": "Host Says Kolvet Was Allegedly Flying Blind When He Tweeted the Surgeon Conversation",
       "node_kind": "claim",
       "episode": 48
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5186",
-      "label": "Host Says Colberg's Superman Neck Tweet Followed Her Remark About No Blood in Back Footage",
+      "label": "Host Says Kolvet's Superman Neck Tweet Followed Her Remark About No Blood in Back Footage",
       "node_kind": "claim",
       "episode": 48
     },
@@ -64904,14 +64904,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5190",
-      "label": "Host Says Trotter Hunts and Told Colberg It Was Likely a Frangible Bullet",
+      "label": "Host Says Trotter Hunts and Told Kolvet It Was Likely a Frangible Bullet",
       "node_kind": "claim",
       "episode": 48
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5191",
-      "label": "Host Says Colberg Also Said the Bullet Ricocheted, Conflicting with the Frangible Account",
+      "label": "Host Says Kolvet Also Said the Bullet Ricocheted, Conflicting with the Frangible Account",
       "node_kind": "claim",
       "episode": 48
     },
@@ -73997,7 +73997,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6489",
-      "label": "Host Says She Shared Charlie's Email on the New DOJ Department",
+      "label": "Host Says She Shared Charlie's Email on the New DOGE Department",
       "node_kind": "claim",
       "episode": 15
     },
@@ -74886,7 +74886,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6616",
-      "label": "Camino Says His Lawyer Cited Footprints and a Palm Print and Urged a Plea Deal",
+      "label": "Camino Says His Lawyer Relayed Footprint and Palm Print Evidence and a Plea Offer",
       "node_kind": "claim",
       "episode": 31
     },
@@ -84287,7 +84287,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7959",
-      "label": "Host Says Wednesday's Episode Will Reveal Findings on Egyptian Military Planes",
+      "label": "Host Says Wednesday's Episode Will Reveal Findings on the Egyptian Military",
       "node_kind": "claim",
       "episode": 29
     },
@@ -93968,7 +93968,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9342",
-      "label": "Hammer Says on JTV Candace Chose to Hijack Charlie's Death to Blame Israel",
+      "label": "JTV Interviewer Ali Says Candace Chose to Hijack Charlie's Death to Blame Israel",
       "node_kind": "claim",
       "episode": 17
     },
@@ -94213,7 +94213,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9377",
-      "label": "Host Says She Shared Information With Max Blumenthal and Others in a Release-It-All Package",
+      "label": "Host Says Her Kill Switch Means Sharing Information With Max Blumenthal and Others in a Release-It-All Package",
       "node_kind": "claim",
       "episode": 17
     },
@@ -94262,7 +94262,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9384",
-      "label": "Alex Jones Says Charlie's TPUSA Got Over 2.5 Million Young People to Vote for Trump",
+      "label": "Alex Jones Says Charlie's TPUSA Got Over 2.5 Million People to Vote for Trump",
       "node_kind": "claim",
       "episode": 17
     },
@@ -94976,7 +94976,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9486",
-      "label": "Host Says She Told Erika She Would Be Quiet if Asked and Was Not Asked",
+      "label": "Host Says She Would Be Quiet if Erika Asked and Was Not Asked",
       "node_kind": "claim",
       "episode": 24
     },
@@ -95067,7 +95067,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9499",
-      "label": "Host Says Case Messages Were Written by 20-Year-Old Gay Men and Do Not Sound Gen Z",
+      "label": "Host Says Case Messages Attributed to 20-Year-Old Gay Men Do Not Sound Gen Z",
       "node_kind": "claim",
       "episode": 24
     },
@@ -95781,7 +95781,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9601",
-      "label": "Host Says Officials Told Obvious Lies Including a .30-06 Stopped by the Neck",
+      "label": "Host Says Officials Told Obvious Lies Including a .30-06 Bullet Being Stopped",
       "node_kind": "claim",
       "episode": 27
     },
@@ -96355,7 +96355,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9683",
-      "label": "Clip: Reeve Asks Whether 'They' Means Jews",
+      "label": "Clip: Reeve Says 'They' Sounds Like Jews",
       "node_kind": "claim",
       "episode": 28
     },
@@ -96593,7 +96593,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9717",
-      "label": "Host Says the Claim That Kirk Established DOGE and TPUSA Audits Yearly Is a Lie",
+      "label": "Host Says the Claim That DOGE Was Just Like TPUSA's Yearly Audits Is a Lie",
       "node_kind": "claim",
       "episode": 30
     },
@@ -96866,7 +96866,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9756",
-      "label": "Host Says Turning Point Is Gaslighting by Treating Its Behavior as Normal",
+      "label": "Host Says Rob McCoy and Mikey McCoy Are Gaslighting by Treating Their Behavior as Normal",
       "node_kind": "claim",
       "episode": 30
     },
@@ -100870,7 +100870,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1200.1",
-      "label": "Video clip: Benjamin Netanyahu meets on camera with US social-media influencer Deborah Lee to discuss shaping US opinion",
+      "label": "Video clip: Benjamin Netanyahu meets on camera with US social-media influencer Debra Lea to discuss shaping US opinion",
       "node_kind": "artifact",
       "episode": 13
     },
@@ -100933,7 +100933,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1204.1",
-      "label": "Producer note read on air identifying \"Erika Mindle\" / \"Erikica Mindle\" as American Israeli Jewish former IDF soldier, serving as Public Policy Manager of Hate Speech at TikTok since July 2025",
+      "label": "Producer note read on air identifying \"Erica Mindel\" / \"Erica Mindel\" as American Israeli Jewish former IDF soldier, serving as Public Policy Manager of Hate Speech at TikTok since July 2025",
       "node_kind": "artifact",
       "episode": 13
     },
@@ -103180,7 +103180,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1326.1",
-      "label": "Fox 13 News report (investigative reporter Nate Carile) describing UVU's release of the mid-July event application submitted by UVU's Turning Point USA chapter, and noting that the application form di",
+      "label": "Fox 13 News report (investigative reporter Nate Carlisle) describing UVU's release of the mid-July event application submitted by UVU's Turning Point USA chapter, and noting that the application form ",
       "node_kind": "artifact",
       "episode": 25
     },

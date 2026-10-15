@@ -211,7 +211,7 @@
           "@type": "Artifact",
           "@id": "A-1200.1",
           "ref": "A-1200.1",
-          "description": "Video clip: Benjamin Netanyahu meets on camera with US social-media influencer Deborah Lee to discuss shaping US opinion",
+          "description": "Video clip: Benjamin Netanyahu meets on camera with US social-media influencer Debra Lea to discuss shaping US opinion",
           "related_claims": [
             "C-1344",
             "C-1345",
@@ -340,7 +340,7 @@
           "@type": "Artifact",
           "@id": "A-1204.1",
           "ref": "A-1204.1",
-          "description": "Producer note read on air identifying \"Erika Mindle\" / \"Erikica Mindle\" as American Israeli Jewish former IDF soldier, serving as Public Policy Manager of Hate Speech at TikTok since July 2025",
+          "description": "Producer note read on air identifying \"Erica Mindel\" / \"Erica Mindel\" as American Israeli Jewish former IDF soldier, serving as Public Policy Manager of Hate Speech at TikTok since July 2025",
           "related_claims": [
             "C-1350"
           ],
@@ -824,7 +824,7 @@
       "@type": "Person",
       "@id": "N-137",
       "ref": "N-137",
-      "name": "Erika \"Erikica\" Mindle",
+      "name": "Erika \"Erikica\" Mindel",
       "type": "person",
       "description": "Self-described in host's producer note as American Israeli Jewish former IDF soldier; named as TikTok Public Policy Manager of Hate Speech since July 2025.",
       "related_artifacts": [
@@ -885,7 +885,7 @@
       "@type": "Person",
       "@id": "N-140",
       "ref": "N-140",
-      "name": "Deborah Lee",
+      "name": "Debra Lea",
       "type": "person",
       "description": "Host of the influencer meeting with Netanyahu; raised the question about evangelical support post-Kirk assassination.",
       "related_artifacts": [
@@ -2217,7 +2217,7 @@
       "@type": "Claim",
       "@id": "C-1337",
       "ref": "C-1337",
-      "label": "Host Says Woman Was Seen With Shooter on Nearby Houses' Doorbell-Camera Footage",
+      "label": "Host Says Woman Was Seen With Shooter in Footage From Nearby Houses",
       "claim": "The host says it has been confirmed that a woman was with the shooter in footage captured by houses near the venue, and that the FBI had not at the time of the episode publicly released or acknowledged that footage.",
       "anchored_artifacts": [
         "A-1196.1"
@@ -2348,8 +2348,8 @@
       "@type": "Claim",
       "@id": "C-1344",
       "ref": "C-1344",
-      "label": "Host Says Netanyahu Met on Camera With US Social-Media Influencer Deborah Lee",
-      "claim": "The host says Benjamin Netanyahu conducted an on-camera meeting with US influencers including Deborah Lee to discuss shaping US opinion, and plays a clip in which Lee asks him about Charlie Kirk's assassination and the potential loss of evangelical support for Israel.",
+      "label": "Host Says Netanyahu Met on Camera With US Social-Media Influencer Debra Lea",
+      "claim": "The host says Benjamin Netanyahu conducted an on-camera meeting with US influencers including Debra Lea to discuss shaping US opinion, and plays a clip in which Lea asks him about Charlie Kirk's assassination and the potential loss of evangelical support for Israel.",
       "anchored_artifacts": [
         "A-1200.1"
       ],
@@ -2384,8 +2384,8 @@
       "@type": "Claim",
       "@id": "C-1346",
       "ref": "C-1346",
-      "label": "Netanyahu described social media as the \"weapons of the battlefield\" of the influence fight",
-      "claim": "In the meeting, Netanyahu stated, in essence, that the means of fighting must match the battlefield and identified social media as the most important battlefield of the present moment.",
+      "label": "Netanyahu Calls Social Media the Most Important Battlefield in Clip Host Plays",
+      "claim": "In a clip of the influencer meeting the host plays, Netanyahu says, in essence, that the means of fighting must match the battlefield and identifies social media as the most important battlefield of the present moment.",
       "anchored_artifacts": [
         "A-1200.1"
       ],
@@ -2402,7 +2402,7 @@
       "@id": "C-1347",
       "ref": "C-1347",
       "label": "\"Florida Dab\" account on X demanded Megyn Kelly separate from Candace Owens",
-      "claim": "An X account identifying as \"Florida Dab\" publicly told Megyn Kelly she must separate from Candace Owens, or \"many of us\" would separate from Kelly.",
+      "claim": "Per the X post the host shows, an account identifying as \"Florida Dab\" told Megyn Kelly she must separate from Candace Owens, or \"many of us\" would separate from Kelly.",
       "anchored_artifacts": [
         "A-1201.1"
       ],
@@ -2428,7 +2428,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:35:51",
+      "claim_timestamp": "00:35:17",
       "investigative_direction": "Capture full thread context including replies not quoted on air.",
       "mentions_person_refs": [
         "N-138",
@@ -2442,7 +2442,7 @@
       "@id": "C-1349",
       "ref": "C-1349",
       "label": "Konstantin Kisin joined the X pressure thread against Megyn Kelly",
-      "claim": "Konstantin Kisin posted on X to Megyn Kelly characterizing Candace Owens' and Tucker Carlson's behavior as \"extreme and so deranged\" and questioning why Kelly was not confronting them.",
+      "claim": "Per the X post the host reads, Konstantin Kisin wrote to Megyn Kelly characterizing Candace Owens' and Tucker Carlson's behavior as \"extreme and so deranged\" and questioning why Kelly was not confronting them.",
       "anchored_artifacts": [
         "A-1203.1",
         "A-1203.2"
@@ -2463,7 +2463,7 @@
       "@id": "C-1350",
       "ref": "C-1350",
       "label": "Producer Note Says TikTok Public Policy Manager of Hate Speech Since July 2025 Is a Former IDF Soldier",
-      "claim": "A note from the host's producer, which she reads on air, says that \"Erika/Erikica Mindle\" is a former IDF soldier and TikTok's Public Policy Manager of Hate Speech since July 2025.",
+      "claim": "A note from the host's producer, which she reads on air, says that Erica Mindel is a former IDF soldier and TikTok's Public Policy Manager of Hate Speech since July 2025.",
       "anchored_artifacts": [
         "A-1204.1"
       ],
@@ -2479,8 +2479,8 @@
       "@type": "Claim",
       "@id": "C-1351",
       "ref": "C-1351",
-      "label": "The FBI recently cut ties with the ADL after Turning Point USA criticism, and the FBI and ADL share a building",
-      "claim": "A commenter states that the FBI has severed ties with the ADL in the wake of Turning Point USA criticism and that the two organizations shared a building.",
+      "label": "Viewer Comment Says FBI Cut Ties With ADL and the Two Share a Building",
+      "claim": "A viewer comment the host reads, from Marzy, says the FBI just cut ties with the ADL after Turning Point USA criticism and that the two share a building and are one and the same; the host adds that she thinks the building is in Connecticut.",
       "anchored_artifacts": [
         "A-1207.1"
       ],
@@ -3008,7 +3008,7 @@
         "N-11273"
       ],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "00:20:32",
       "investigative_direction": "Locate the New York Times article the host refers to.",
@@ -3051,7 +3051,7 @@
         "N-11273"
       ],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "00:21:48",
       "investigative_direction": "Find the original Russian article and check its claims against declassified material.",
@@ -3107,8 +3107,8 @@
       "@type": "Claim",
       "@id": "C-10797",
       "ref": "C-10797",
-      "label": "Host plays Deborah Lee saying Charlie Kirk was her first mentor in the space",
-      "claim": "In the played clip Deborah Lee describes Charlie Kirk as a big mentor of hers and her first mentor in the space.",
+      "label": "Host plays Debra Lea saying Charlie Kirk was her first mentor in the space",
+      "claim": "In the played clip Debra Lea describes Charlie Kirk as a big mentor of hers and her first mentor in the space.",
       "anchored_artifacts": [
         "A-1200.1"
       ],
@@ -3128,8 +3128,8 @@
       "@type": "Claim",
       "@id": "C-10798",
       "ref": "C-10798",
-      "label": "Host plays Deborah Lee asking Netanyahu about losing evangelical support",
-      "claim": "In the played clip Deborah Lee says evangelicals are the reason Israel has been supported in the public sphere beyond Jews and asks Netanyahu what the backup plan is if Israel loses evangelical support.",
+      "label": "Host plays Debra Lea asking Netanyahu about losing evangelical support",
+      "claim": "In the played clip Debra Lea says evangelicals are the reason Israel has been supported in the public sphere beyond Jews and asks Netanyahu what the backup plan is if Israel loses evangelical support.",
       "anchored_artifacts": [
         "A-1200.1"
       ],
@@ -3145,7 +3145,6 @@
       "mentions_person_refs": [
         "N-140",
         "N-36",
-        "N-22",
         "N-3"
       ]
     },
@@ -3416,7 +3415,7 @@
       "@id": "C-10811",
       "ref": "C-10811",
       "label": "Host says Dave Rubin and others reacted to her Blumenthal retweet",
-      "claim": "The host says that when she retweeted Max Blumenthal, agents such as Dave Rubin told her she did not see what she had done.",
+      "claim": "The host says that when she retweeted Max Blumenthal, agents such as Dave Rubin asked her, \"don't you see what you did.\"",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3735,7 +3734,8 @@
       "transcript_snippet": "I have not explored that.",
       "mentions_person_refs": [
         "N-3",
-        "N-40"
+        "N-40",
+        "N-142"
       ]
     },
     {

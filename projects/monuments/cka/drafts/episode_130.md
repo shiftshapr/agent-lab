@@ -536,7 +536,7 @@ Named in the host's aside about a possible relation to Robert Graf.
 
 **N-14** Andrew Kolvet
 
-Subject of the host's rebuttal; poster of the Daily Mail allegation. Transcript spellings include Andrew Kolvet, Klavan and Colberg.
+Subject of the host's rebuttal; poster of the Daily Mail allegation. Transcript spellings include Andrew Kolvet, Klavan and Kolvet.
 
 *Related: C-5920, C-5959, C-5972, C-5977, C-5980, C-5982, C-5985, C-5986, C-5990, C-5991, C-5993, C-6005, A-2789.2*
 

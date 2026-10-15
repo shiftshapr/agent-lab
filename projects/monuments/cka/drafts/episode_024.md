@@ -978,11 +978,11 @@ Investigative Direction: Verify by locating the full original Joe Rogan episode 
 
 ---
 
-**C-1574** Photo of Candace and Charlie Kirk Puffing Chests at Ben Shapiro's Studio
+**C-1574** Host Shows Photo of Charlie Kirk Puffing His Chest Beside Ben Shapiro
 
 Claim Timestamp: 00:18:19
 
-Claim: A photo displayed in the episode depicts Candace Owens and Charlie Kirk in Ben Shapiro's Sherman Oaks studio, standing with puffed chests and standing extra tall, taken in or around June 2018 after they were booked on his show despite prior tension.
+Claim: The host shows a photo she says was taken with Ben Shapiro when she and Charlie Kirk went on his show after a producer booked them in June 2018, at a location she thinks was in Sherman Oaks, California, and says Charlie puffed his chest out and stood extra tall in it so they would never forget triumphing over Ben Shapiro.
 
 Anchored Artifacts: A-1316.1
 Mentions: N-1, N-3, N-97
@@ -999,7 +999,7 @@ Claim Timestamp: 00:21:26
 Claim: The Israeli War Room X account posted that "Miss Erika / Mrs. Erika Kirk will accept the award on her husband's behalf" at Israel's 2025 Christian Media Summit, citing Jerusalem Post reporting by Michael Starr, with the Pillars of Jerusalem Award to be presented by Douglas Murray, Yael Eckstein, and Dr. Jürgen Bühler.
 
 Anchored Artifacts: A-1317.1
-Mentions: N-2, N-211, N-215, N-216, N-217
+Mentions: N-1, N-2, N-211, N-215, N-216, N-217
 
 Related Nodes: N-10216, N-10894, N-10895
 
@@ -1014,7 +1014,7 @@ Claim Timestamp: 00:22:13
 Claim: TPUSA spokesperson Andrew Kolvet posted on X that "this is the first we're hearing of this" regarding the reported Pillars of Jerusalem Award, and stated TPUSA had reached out to Michael Starr for a correction.
 
 Anchored Artifacts: A-1317.2
-Mentions: N-2, N-14, N-211
+Mentions: N-14, N-211
 
 Related Nodes: N-10216
 
@@ -1110,9 +1110,9 @@ Investigative Direction: No investigative direction required – viewer comment 
 
 **C-1583** Host Characterizes Ben Shapiro Segment as Scripted Stab
 
-Claim Timestamp: 00:10:00
+Claim Timestamp: 00:09:25
 
-Claim: Host characterizes Ben Shapiro's segment attacking Tucker Carlson as "a very, dare I say, scripted stab" that "took" the same talking points as other Zionists.
+Claim: The host characterizes Ben Shapiro's segment attacking Tucker Carlson as "a very, dare I say, scripted stab" with the "same talking points" as other Zionists.
 
 Anchored Artifacts: A-1314.1
 Mentions: N-22, N-97
@@ -1728,7 +1728,7 @@ Investigative Direction: Review Megyn Kelly's accounts of her conversations with
 
 ---
 
-**C-9486** Host Says She Told Erika She Would Be Quiet if Asked and Was Not Asked
+**C-9486** Host Says She Would Be Quiet if Erika Asked and Was Not Asked
 
 Claim Timestamp: 00:28:55
 
@@ -1934,11 +1934,11 @@ Investigative Direction: Charlie Kirk Show episodes with Patel and public Kirk s
 
 ---
 
-**C-9499** Host Says Case Messages Were Written by 20-Year-Old Gay Men and Do Not Sound Gen Z
+**C-9499** Host Says Case Messages Attributed to 20-Year-Old Gay Men Do Not Sound Gen Z
 
 Claim Timestamp: 00:35:29
 
-Claim: The host says the impassioned messages in the case were written by 20-year-old gay men and do not exactly sound Gen Z.
+Claim: The host says the case makes no sense, citing the impassioned messages attributed to 20-year-old gay men, which she says don't exactly sound Gen Z.
 
 Transcript Snippet: from the impassioned um messages written by 20-year-old gay men, which don't exactly sound Gen Z
 

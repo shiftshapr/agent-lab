@@ -1867,7 +1867,7 @@
       "@type": "Claim",
       "@id": "C-1667",
       "ref": "C-1667",
-      "label": "Ben Shapiro told Megyn Kelly's tour audience Candace accused Erica Kirk of being behind Charlie's murder",
+      "label": "Host Says Ben Shapiro Told Megyn Kelly's Tour Audience Candace Accused Erika Kirk of Being Behind Charlie's Murder",
       "claim": "The host says that, during an appearance on Megyn Kelly's tour, Ben Shapiro asserted that Candace Owens had accused Erica Kirk of being behind the murder of Charlie Kirk.",
       "anchored_artifacts": [
         "A-1379.1"
@@ -1888,7 +1888,7 @@
       "@type": "Claim",
       "@id": "C-1668",
       "ref": "C-1668",
-      "label": "Megyn Kelly publicly stated on her tour that Candace has been defending Erica Kirk",
+      "label": "Megyn Kelly Publicly Stated on Her Tour That Candace Has Been Defending Erika Kirk",
       "claim": "During a Q&A on her tour, Megyn Kelly stated that she had since learned Candace Owens had not accused Erica Kirk of murder and that Candace has been specifically defending Erica Kirk.",
       "anchored_artifacts": [
         "A-1379.1"
@@ -2025,8 +2025,8 @@
       "@type": "Claim",
       "@id": "C-1675",
       "ref": "C-1675",
-      "label": "UVU Turning Point chapter formally requested Charlie Kirk as speaker on July 18",
-      "claim": "According to local Utah news cited by the host, the UVU Turning Point chapter formally requested Charlie Kirk as a speaker on July 18.",
+      "label": "UVU Turning Point Chapter Requested Charlie Kirk as Speaker on July 18",
+      "claim": "According to local Utah news cited by the host, the UVU Turning Point chapter requested Charlie Kirk as a speaker on July 18.",
       "anchored_artifacts": [
         "A-1387.1"
       ],
@@ -2136,8 +2136,8 @@
       "@type": "Claim",
       "@id": "C-1681",
       "ref": "C-1681",
-      "label": "Kanye West tweet asserted he was going \"defcon 3 on some Jewish people\"",
-      "claim": "Kanye West tweeted that he was going \"defcon 3 on some Jewish people,\" which the host interprets as a defensive posture reference rather than a violent threat.",
+      "label": "Host Says Kanye West's 'Death Con 3' Tweet Meant Defcon 3",
+      "claim": "Per the Kanye West tweet the host shows, West wrote that he was going \"death con 3 on some Jewish people\"; the host says he meant Defcon 3, a defensive position, and was referring to Zionists in Hollywood rather than threatening violence.",
       "anchored_artifacts": [
         "A-1389.1"
       ],
@@ -2637,8 +2637,8 @@
       "@type": "Claim",
       "@id": "C-9717",
       "ref": "C-9717",
-      "label": "Host Says the Claim That Kirk Established DOGE and TPUSA Audits Yearly Is a Lie",
-      "claim": "The host says it is a lie that Charlie Kirk established DOGE as an ordinary audit function and that Turning Point financially audits itself every year, saying DOGE was entirely different from a financial audit that a 501(c)(3) of that size is recommended or in some states required to have.",
+      "label": "Host Says the Claim That DOGE Was Just Like TPUSA's Yearly Audits Is a Lie",
+      "claim": "The host says it is a lie that Charlie Kirk's establishing DOGE was not unusual because Turning Point financially audits itself every year, saying DOGE was entirely different from a financial self-audit, which a 501(c)(3) of that size is recommended or in some states required to have.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10132",
@@ -2784,7 +2784,7 @@
       "@id": "C-9723",
       "ref": "C-9723",
       "label": "Host Asks for Tips Identifying the TPUSA Employees Who Picked the Outdoor Venue",
-      "claim": "The host says she wants to know which specific Turning Point employees picked the outdoor venue and asks viewers who know to email more tips at candacewowens.com.",
+      "claim": "The host says she wants to know which specific Turning Point employees picked the outdoor venue and asks viewers who know to email more tips at candaceowens.com.",
       "anchored_artifacts": [
         "A-3027.1"
       ],
@@ -2873,7 +2873,7 @@
       "@id": "C-9727",
       "ref": "C-9727",
       "label": "Host Asks for Emails Revealing Mikey McCoy's Real Name",
-      "claim": "The host asks viewers who know Mikey McCoy's real name to email more tips at candacewowens.com.",
+      "claim": "The host asks viewers who know Mikey McCoy's real name to email more tips at candaceowens.com.",
       "anchored_artifacts": [
         "A-3027.2"
       ],
@@ -3530,7 +3530,7 @@
       "@type": "Claim",
       "@id": "C-9756",
       "ref": "C-9756",
-      "label": "Host Says Turning Point Is Gaslighting by Treating Its Behavior as Normal",
+      "label": "Host Says Rob McCoy and Mikey McCoy Are Gaslighting by Treating Their Behavior as Normal",
       "claim": "The host says Turning Point USA figures are gaslighting by pretending their behavior is normal and using emotional manipulation, and refers to Rob McCoy and Mikey McCoy.",
       "anchored_artifacts": [],
       "related_nodes": [

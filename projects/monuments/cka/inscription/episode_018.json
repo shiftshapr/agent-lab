@@ -1629,7 +1629,7 @@
       "@id": "C-1428",
       "ref": "C-1428",
       "label": "Kolvet Tweet Substance",
-      "claim": "Andrew Kolvet posted a tweet claiming to relay a conversation with the surgeon who worked on Charlie, describing the bullet as having been stopped by Charlie's bone density.",
+      "claim": "The host reads a long tweet by Andrew Kolvet in which he says he spoke with the surgeon who worked on Charlie, and describes the bullet as having been stopped by Charlie's bone density.",
       "anchored_artifacts": [
         "A-1251.1"
       ],
@@ -1640,7 +1640,8 @@
       "claim_timestamp": "00:02:50",
       "investigative_direction": "Locate original Kolbatz tweet and verify direct quotes and publication date.",
       "mentions_person_refs": [
-        "N-14"
+        "N-14",
+        "N-1"
       ]
     },
     {
@@ -1692,7 +1693,7 @@
         "N-10182"
       ],
       "tags": [],
-      "claim_timestamp": "00:12:02",
+      "claim_timestamp": "00:11:30",
       "investigative_direction": "Identify the pusher and verify his institutional affiliation at the time of the event.",
       "mentions_person_refs": [
         "N-175"
@@ -1780,7 +1781,7 @@
       "@id": "C-1436",
       "ref": "C-1436",
       "label": "Cooper Brown Resume – Southern New Hampshire University",
-      "claim": "Cooper Brown's public resume lists attendance at a small college in New Hampshire (per host: Southern New Hampshire University) with a politics major.",
+      "claim": "The host says Cooper Brown's resume, on the website where he says he works with the institute, lists a very small college in New Hampshire, and she later asks anyone who attended Southern New Hampshire University with him and majored with him in politics to contact her.",
       "anchored_artifacts": [
         "A-1253.2"
       ],
@@ -1838,7 +1839,7 @@
       "@id": "C-1439",
       "ref": "C-1439",
       "label": "Two-Shot Witness Account – Lyman Footage",
-      "claim": "Two women shown in Phil Lyman's footage of the building exterior stated they heard two shots.",
+      "claim": "The host says two women seen in Phil Lyman's footage outside the building said they heard two shots, and plays a clip from that footage.",
       "anchored_artifacts": [
         "A-1255.1"
       ],
@@ -1857,7 +1858,7 @@
       "@id": "C-1440",
       "ref": "C-1440",
       "label": "Host Says Dr. Deirdre Amaro Was Announced as New Utah State Medical Examiner in May 2024",
-      "claim": "The host says that, per a tip she received, Dr. Deirdre Amaro was announced as the new Utah State Medical Examiner in May 2024, with prior work history in Missouri (and, she thinks, California).",
+      "claim": "The host says she received an emailed tip urging her to look into Dr. Deirdre Amaro, who she says was announced as the new Utah State Medical Examiner in May 2024 and came from Missouri (and, she thinks, also worked in California).",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10183"
@@ -1874,7 +1875,7 @@
       "@id": "C-1441",
       "ref": "C-1441",
       "label": "Israeli Individual Listed as Caldera Founder",
-      "claim": "A web listing identified an Israeli individual as the founder of Caldera Engineering, though host states this could not be independently corroborated.",
+      "claim": "The host says someone emailed them a link, which she says was real, listing an Israeli individual as the founder of Caldera Engineering, though she says they have not been able to corroborate it and the listing may be an internet scraping error.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10184"
@@ -1916,7 +1917,7 @@
       "@id": "C-1444",
       "ref": "C-1444",
       "label": "Caldera Early Trademark Lawyer – Tyler Bowyer Connection",
-      "claim": "The lawyer Caldera Engineering used in its early trademark filings in Arizona was the same lawyer introduced to the host by Tyler Bowyer of Turning Point USA.",
+      "claim": "The host says the lawyer Caldera Engineering used for trademark purposes in Arizona in its early years, per early documents she reviewed, is a lawyer Tyler Bowyer of Turning Point USA introduced her to and whom she has worked with.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10184"
@@ -2077,7 +2078,7 @@
         "N-10190"
       ],
       "tags": [],
-      "claim_timestamp": "00:41:40",
+      "claim_timestamp": "00:41:07",
       "investigative_direction": "Identify the employee and obtain signed statement; cross-check Signature FBO ramp logs."
     },
     {
@@ -2167,7 +2168,7 @@
         "N-10187"
       ],
       "tags": [],
-      "claim_timestamp": "00:53:09",
+      "claim_timestamp": "00:52:15",
       "investigative_direction": "Verify clip source and full Matt Walsh segment.",
       "mentions_person_refs": [
         "N-164",
@@ -2696,7 +2697,7 @@
       "@id": "C-13893",
       "ref": "C-13893",
       "label": "Host Says There Is a Blind Spot in Footage to Charlie's Left",
-      "claim": "The host says there is a remarkable blind spot on the left of Charlie in the footage available, and that she wants footage showing what Charlie would have seen looking slightly to his left.",
+      "claim": "The host says she feels there is a remarkable blind spot on the left of Charlie in the footage available, and that she wants footage showing what Charlie would have seen looking slightly to his left.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10175"
@@ -2834,7 +2835,7 @@
       "@id": "C-13899",
       "ref": "C-13899",
       "label": "Host Theorizes the Plan Was to Withhold the Back Footage and Then Claim a .30-06 Was Recovered",
-      "claim": "The host says she thinks the plan was never to let footage from behind Charlie see daylight, so that officials could say they instantly recovered a .30-06 bullet.",
+      "claim": "The host says she thinks the plan was never to let footage from behind Charlie see daylight, so that they could say they instantly recovered a .30-06 bullet.",
       "anchored_artifacts": [
         "A-3285.1"
       ],

@@ -1000,7 +1000,7 @@ The host's husband; runs the business side of the podcast.
 
 Claim Timestamp: 00:02:10
 
-Claim: A Grok-generated summary states that the "Candace" podcast reached the top global ranking per Podscribe data, following the 2024 Daily Wire departure, and attributes growth to criticism, the Macron defamation lawsuit, team resilience, and divine intervention.
+Claim: A Grok-generated summary the host reads states that the "Candace" podcast reached the top global ranking per Podscribe data, following the 2024 Daily Wire departure, and that Owens credits the growth to criticism, the Macron defamation lawsuit and her team's resilience, and attributes the milestone to divine intervention.
 
 Anchored Artifacts: A-1345.1
 Mentions: N-3
@@ -1031,18 +1031,18 @@ Claim Timestamp: 00:08:12
 Claim: Erika Kirk, in the Fox News interview, states that she has never felt anger toward God over Charlie's death, in contrast to C. S. Lewis in *A Grief Observed*.
 
 Anchored Artifacts: A-1346.1
-Mentions: N-2
+Mentions: N-2, N-1
 
 
 Investigative Direction: Verify against full unedited interview audio; identify whether additional context was cut from the broadcast.
 
 ---
 
-**C-1620** Erika Kirk Does Not Give Direct Yes/No on Whether Caught Individual Is Sole Killer
+**C-1620** Erika Kirk Does Not Give Direct Yes/No on Whether Husband's Killer Was Caught
 
 Claim Timestamp: 00:12:21
 
-Claim: When asked directly whether the person in custody pulled the trigger, Erika Kirk responds by stating she trusts her team and has seen the autopsy report, declining a straight yes or no.
+Claim: When Jesse Watters asks whether they have caught her husband's killer, Erika Kirk responds by stating she trusts her team and has seen the autopsy report; the host says it is not a straight yes or no.
 
 Anchored Artifacts: A-1346.2
 Mentions: N-2
@@ -1074,7 +1074,7 @@ Claim Timestamp: 00:16:16
 Claim: Erika Kirk states that Charlie loved Saint Michael and that, every time he put on the pendant, he felt it was his armor.
 
 Anchored Artifacts: A-1346.3
-Mentions: N-2
+Mentions: N-2, N-1
 
 Related Nodes: N-10230
 
@@ -1089,7 +1089,7 @@ Claim Timestamp: 00:15:23
 Claim: The host says that behind Jesse Watters and Erika Kirk as they walk backstage at the University of Mississippi event, there was a priest looking in the corner, whom she identifies as the same priest Erika took with her to the hospital when Charlie was shot.
 
 Anchored Artifacts: A-1353.1
-Mentions: N-2, N-212
+Mentions: N-2, N-212, N-1, N-3
 
 Related Nodes: N-10230, N-10233
 
@@ -1104,7 +1104,7 @@ Claim Timestamp: 00:18:32
 Claim: In an interview clip the host plays, Erika Kirk publicly requests grace for those who were present the day Charlie was assassinated, citing AI-generated fake images and concerns about her children's future internet exposure.
 
 Anchored Artifacts: A-1346.4
-Mentions: N-2
+Mentions: N-2, N-1
 
 
 Investigative Direction: Catalog the specific AI-generated image claims Erika references; assess the platform-level response to date.
@@ -1118,7 +1118,7 @@ Claim Timestamp: 00:35:13
 Claim: Allie Beth Stuckey tweets that the UVU campus stop was "requested in July" rather than "approved in July," and that Charlie texted her at the end of August about a November campus event approximately 2 months out.
 
 Anchored Artifacts: A-1347.1
-Mentions: N-228
+Mentions: N-228, N-1
 
 Related Nodes: N-10228
 
@@ -1206,7 +1206,7 @@ Claim Timestamp: 00:48:47
 Claim: Alex Clark tweets that on every Charlie tribute episode, she did not run her ad sponsorships, resulting in her team being in debt to her sponsors.
 
 Anchored Artifacts: A-1349.2
-Mentions: N-99
+Mentions: N-99, N-1
 
 
 Investigative Direction: Verify whether Alex Clark's tribute episodes were ad-free across all tribute outputs, not selectively.
@@ -1569,7 +1569,7 @@ Investigative Direction: Compare with Erika's public posting and contact record 
 
 ---
 
-**C-9601** Host Says Officials Told Obvious Lies Including a .30-06 Stopped by the Neck
+**C-9601** Host Says Officials Told Obvious Lies Including a .30-06 Bullet Being Stopped
 
 Claim Timestamp: 00:19:31
 
@@ -1722,7 +1722,7 @@ Claim: The host says Matt Walsh recently said he views it as a form of disloyalt
 Transcript Snippet: This is one of the things that Matt Walsh recently said that he views it as such a form of disloyalty
 
 Anchored Artifacts: 
-Mentions: N-3, N-164, N-228
+Mentions: N-3, N-164
 Tags: relevance:tangential
 Investigative Direction: Find Walsh's statement.
 
@@ -2100,7 +2100,7 @@ Investigative Direction: Compare Clark's podcast statements about the host's Cat
 
 Claim Timestamp: 00:50:20
 
-Claim: The host says Alex Clark's account that Charlie wanted a DOGE every year cannot be right because DOGE did not exist before Elon Musk.
+Claim: The host says Alex Clark's account of why Charlie wanted a DOGE, that they do one every year, cannot be right because DOGE did not exist before Elon Musk.
 
 Transcript Snippet: No, you don't do a Dodge every year. You want to know how I know that? Because Dodge didn't exist before Elon Musk.
 
@@ -2267,7 +2267,7 @@ Claim: The host says people asked how Charlie went into surgery given the explan
 Transcript Snippet: Because they explained that he had died instantly. It wasn't just Erika by the way.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-1
+Mentions: N-3, N-1
 Related Nodes: N-10234
 Tags: relevance:core
 Investigative Direction: Obtain hospital and EMS records on pulse, time of death and any surgery.
