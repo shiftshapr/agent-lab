@@ -1489,7 +1489,7 @@
       "@id": "C-4074",
       "ref": "C-4074",
       "label": "White House Military Office tried to recall the email, which failed or came too late",
-      "claim": "The host says the White House Military Office panicked because too many people were on the email and tried to recall it, but the recall did not work or worked too late.",
+      "claim": "The host speculates that the White House Military Office panicked because too many people were on the email and attempted to recall it, but the recall did not work or worked too late.",
       "anchored_artifacts": [
         "A-2574.2"
       ],
@@ -1587,7 +1587,7 @@
       "@id": "C-4079",
       "ref": "C-4079",
       "label": "Erika Kirk brought Justin Streiff to the 4-hour sitdown with the host",
-      "claim": "The host says Justin Streiff was the person Erika Kirk brought with her to their four-hour sitdown meeting, and that she asked him there about the TPUSA audit.",
+      "claim": "The host says Justin Streiff was the person Erika Kirk brought with her to their four-hour sitdown meeting, and that she had specifically asked him about the TPUSA audit.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -1816,7 +1816,7 @@
       "@id": "C-4090",
       "ref": "C-4090",
       "label": "Justin Streiff receives money from Winning Team Publishing",
-      "claim": "The host says Justin Streiff receives money from Winning Team Publishing and would stand to benefit from high book sales, which she calls a possible conflict of interest.",
+      "claim": "The host says Justin Streiff receives money from Winning Team Publishing and, she imagines, would stand to benefit greatly from high book sales, which she later says could be a conflict of interest.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10926"
@@ -2085,7 +2085,6 @@
       "mentions_person_refs": [
         "N-320",
         "N-362",
-        "N-160",
         "N-3"
       ]
     },
@@ -2148,7 +2147,7 @@
       "@id": "C-4106",
       "ref": "C-4106",
       "label": "TPUSA is now paying university chapter leaders not to close chapters",
-      "claim": "The host says TPUSA is now paying university chapter leaders to keep chapters from closing, which she says was not done while Charlie Kirk was alive.",
+      "claim": "The host says TPUSA is apparently now paying university chapter leaders to keep chapters from closing, which she says was not done while Charlie Kirk was alive.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"

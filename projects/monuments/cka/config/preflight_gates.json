@@ -15,6 +15,11 @@
     ],
     "reviewed": [
       {
+        "claim": "C-4227",
+        "node": "N-271",
+        "reason": "claim text: 'possibly with Brian or Dan' (Dan Flood); verification pass 2026-10-15"
+      },
+      {
         "claim": "C-8682",
         "node": "N-93",
         "reason": "claim text: 'the other three named critics' (four horsemen incl. Alex Jones); verification pass 2026-10-15"

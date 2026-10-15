@@ -23,7 +23,7 @@
 
 The host opens with a New York Times report that the Trump administration met in the White House Situation Room to plan its public handling of the Epstein files (A-2691.1). She repeats her earlier report that, the day before the files were released, Andrew Kolvet was at the White House executive office building. She says that at the same time he passed off a pre-recorded Charlie Kirk Show episode with Kash Patel as live from Arizona. She corrects a remark from the previous episode: Charlie and Erika Kirk's first date in August 2018 coincided with the Epstein scandal first breaking, not with Epstein's death. She then restates that Erika Kirk spent time at the offices of Next Model Management, which she describes as run by close Epstein friend Faith Kates. According to the host, former workers there alleged that Erika was the point of contact for the model apartment. She argues that Turning Point USA should explain this connection, since Erika now speaks at high schools.
 
-The host returns to the SAM 702 flight that stopped in Tucson and stayed overnight at Fort Huachuca on September 8, 2025. She says it was organized by the office of Under Secretary of Defense for Intelligence Bradley Hansel, and that her FOIA request was put at number 3,500 under a burden exception (A-2692.1). Showing a Department of Defense org chart (A-2693.1), she corrects her earlier statement that Hansel reports directly to Pete Hegseth: Deputy Secretary Stephen Feinberg sits between them. She describes Feinberg as the wealthiest member of the administration and co-founder of Cerberus Capital Management. She says Cerberus owned the private military contractor DynCorp from 2010 to 2020. Using Blackwater as a comparison, she recounts the DynCorp Bosnia sex-trafficking scandal exposed by investigator Kathryn Bolkovac, drawing on Bolkovac's book (A-2694.1). She also says Department of War offices orchestrated messaging to boost Erika Kirk after the White House Correspondents' Dinner shooting. She adds that Mikey McCoy's wife Elizabeth (Kravchuk) McCoy comes from a Ukrainian family whose ministry rescues orphans in Ukraine (A-2695.1).
+The host returns to the SAM 702 flight that stopped in Tucson and stayed overnight at Fort Huachuca on September 8, 2025. She says it was organized by the office of Under Secretary of Defense for Intelligence Bradley Hansell, and that her FOIA request was put at number 3,500 under a burden exception (A-2692.1). Showing a Department of Defense org chart (A-2693.1), she corrects her earlier statement that Hansel reports directly to Pete Hegseth: Deputy Secretary Stephen Feinberg sits between them. She describes Feinberg as the wealthiest member of the administration and co-founder of Cerberus Capital Management. She says Cerberus owned the private military contractor DynCorp from 2010 to 2020. Using Blackwater as a comparison, she recounts the DynCorp Bosnia sex-trafficking scandal exposed by investigator Kathryn Bolkovac, drawing on Bolkovac's book (A-2694.1). She also says Department of War offices orchestrated messaging to boost Erika Kirk after the White House Correspondents' Dinner shooting. She adds that Mikey McCoy's wife Elizabeth (Kravchuk) McCoy comes from a Ukrainian family whose ministry rescues orphans in Ukraine (A-2695.1).
 
 In the second segment the host criticizes Emily Ratajkowski's essay "Mother Effer" in The Cut and reads several excerpts aloud (A-2522.1). In the comments segment she says the FBI denied a FOIA request for three days of someone's schedule. She also calls the theory that an explosive went off under Charlie Kirk's chest "very viable." She places the New York Times account early in the Trump administration, and she affirms a viewer's claim about the birthplaces of Jeffrey Epstein's grandparents (A-2696).
 
@@ -66,7 +66,7 @@ Confidence Level: Low
 
 **A-2693** Department of Defense Org Chart Bundle
 
-**A-2693.1** Department of Defense (Department of War) organizational chart with faces added for Pete Hegseth, Stephen Feinberg and Bradley Hansel (shown)
+**A-2693.1** Department of Defense (Department of War) organizational chart with faces added for Pete Hegseth, Stephen Feinberg and Bradley Hansell (shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:11:06
@@ -262,7 +262,7 @@ The host believes he was an obvious source for the New York Times article.
 
 **N-434** Bradley Hansell
 
-Transcript "Bradley Hantel", "Bradley Hansel" and "Bradley Hansell". Under Secretary of Defense for Intelligence whose office the host says organized SAM 702.
+Transcript "Bradley Hantel", "Bradley Hansell" and "Bradley Hansell". Under Secretary of Defense for Intelligence whose office the host says organized SAM 702.
 
 *Related: C-4735, C-4736, C-4738, C-4740, C-4741, C-4756, C-4758, A-2692.1, A-2693.1*
 
@@ -705,11 +705,11 @@ Investigative Direction: ADS-B flight data and Air Force mission records for SAM
 
 ---
 
-**C-4735** Bradley Hansel's office organized the SAM 702 flight
+**C-4735** Bradley Hansell's office organized the SAM 702 flight
 
 Claim Timestamp: 00:08:29
 
-Claim: The host says the office that organized the SAM 702 flight was that of the Under Secretary of Defense for Intelligence, Bradley Hansel.
+Claim: The host says the office that organized the SAM 702 flight was that of the Under Secretary of Defense for Intelligence, Bradley Hansell.
 
 Transcript Snippet: Now, the person whose office organized that plane is the Under Secretary of Defense for Intelligence, a man named Bradley Hantel.
 
@@ -725,7 +725,7 @@ Investigative Direction: Department of War travel and mission-request records fo
 
 Claim Timestamp: 00:08:29
 
-Claim: The host repeats that Bradley Hansel worked for the Boston Consulting Group, where she says Mitt Romney and Benjamin Netanyahu became best friends.
+Claim: The host repeats that Bradley Hansell worked for the Boston Consulting Group, where she says Mitt Romney and Benjamin Netanyahu became best friends.
 
 Transcript Snippet: about how he used to work for the Boston Consulting Group, where Mitt Romney and Bibi Netanyahu became best friends over there.
 
@@ -802,7 +802,7 @@ Investigative Direction: The FOIA acknowledgment letter and tracking number.
 
 Claim Timestamp: 00:11:06
 
-Claim: Correcting her earlier statement that Bradley Hansel reports directly to Pete Hegseth, the host shows an org chart and says Deputy Secretary of Defense Stephen Feinberg sits between them.
+Claim: Correcting her earlier statement that Bradley Hansell reports directly to Pete Hegseth, the host shows an org chart and says Deputy Secretary of Defense Stephen Feinberg sits between them.
 
 Transcript Snippet: There is one man in between Bradley and Pete Hegseth. A man named Stephen Feinberg who occupies the position of Deputy Secretary of Defense.
 

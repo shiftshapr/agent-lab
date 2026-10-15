@@ -1917,7 +1917,7 @@ Claim Timestamp: 00:42:17
 
 Claim: The host says that in the dream Charlie said he was betrayed, she could not hear what else he said, and then she saw Kolvet's face.
 
-Transcript Snippet: And Charlie said he was betrayed and then I couldn't hear what he was saying and then I saw Andrew Colvin's face.
+Transcript Snippet: And Charlie said he was betrayed and then I couldn't hear what he was saying and then I saw Andrew Kolvet's face.
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-1

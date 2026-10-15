@@ -925,7 +925,7 @@
       "ref": "N-582",
       "name": "Thomas Massie",
       "type": "person",
-      "description": "Kentucky congressman whom the host says Charlie Kirk called a favorite. He is the subject of the Kolvet/Neff segment, the Schriber tweet and the AIPAC spending allegation.",
+      "description": "Kentucky congressman whom the host says Charlie Kirk called a favorite. He is the subject of the Kolvet/Neff segment, the Schreiber tweet and the AIPAC spending allegation.",
       "related_artifacts": [
         "A-2614.1",
         "A-2614.2"
@@ -1140,7 +1140,7 @@
       "ref": "N-10538",
       "name": "Turning Point Action / Thomas Massie Disavowal Incident",
       "type": "investigation_target",
-      "description": "Schriber's tweet says Kolvet blamed the RINO video on an intern and apologized.",
+      "description": "Schreiber's tweet says Kolvet blamed the RINO video on an intern and apologized.",
       "related_artifacts": [
         "A-2614.2"
       ],
@@ -1764,7 +1764,7 @@
       "@id": "C-4271",
       "ref": "C-4271",
       "label": "White House denied only that the White House Military Office drafted the email",
-      "claim": "The host says the White House first denied that anyone in the military office drafted or sent the email, but with the specific wording \"The White House Military Office did not draft the email,\" which she calls intentionally evasive.",
+      "claim": "The host says the White House first denied that anyone in the military office drafted or sent the email, but with the specific wording \"The White House Military Office did not draft the email,\" which she says was likely intentionally evasive.",
       "anchored_artifacts": [
         "A-2610.2"
       ],
@@ -2597,7 +2597,7 @@
       "@id": "C-4312",
       "ref": "C-4312",
       "label": "Kolvet says Charlie Kirk was privately frustrated by Massie's big beautiful bill vote",
-      "claim": "In the clip played, a speaker the host identifies as Andrew Kolvet says Charlie Kirk was privately \"really, really frustrated\" that Massie did not vote for the big beautiful bill. Blake Neff adds that Kirk would have grown more frustrated as Massie criticized Trump on debt, war and Epstein.",
+      "claim": "In a clip the host plays of Andrew Kolvet and Blake Neff, one speaker says Charlie Kirk was privately \"really, really frustrated\" that Massie did not vote for the big beautiful bill, and another adds that Kirk would have grown more frustrated as Massie criticized Trump on debt, war and Epstein.",
       "anchored_artifacts": [
         "A-2614.1"
       ],
@@ -2617,8 +2617,8 @@
       "@type": "Claim",
       "@id": "C-4313",
       "ref": "C-4313",
-      "label": "Schriber: Kolvet called Massie's office on March 12, 2026 to apologize for TPUSA's RINO video",
-      "claim": "According to a tweet read by the host from Raphael Schreiber, legislative director for Thomas Massie, Andrew Kolvet called Massie's office on March 12, 2026. Schriber says Kolvet apologized for a TPUSA video labeling Massie a RINO and blamed it on a 20-year-old intern.",
+      "label": "Schreiber: Kolvet Called Massie's Office on March 12, 2026 to Apologize for TPUSA's RINO Video",
+      "claim": "According to a tweet read by the host from Raphael Schreiber, legislative director for Thomas Massie, Andrew Kolvet called Massie's office on March 12, 2026. Schreiber says Kolvet apologized for a TPUSA video labeling Massie a RINO and blamed it on a 20-year-old intern.",
       "anchored_artifacts": [
         "A-2614.2"
       ],
@@ -2640,8 +2640,8 @@
       "@type": "Claim",
       "@id": "C-4314",
       "ref": "C-4314",
-      "label": "Schriber: Kolvet said TPUSA would stay out of the race and he personally wanted Massie to win",
-      "claim": "According to Schriber's tweet, Kolvet asked the office to pass on his sincere apologies to Massie and said TPUSA was not going to get involved in the race but that he personally wanted Massie to win.",
+      "label": "Schreiber: Kolvet Said TPUSA Would Stay Out of the Race and He Personally Wanted Massie to Win",
+      "claim": "According to Schreiber's tweet, Kolvet asked the office to pass on his sincere apologies to Massie and said TPUSA was not going to get involved in the race but that he personally wanted Massie to win.",
       "anchored_artifacts": [
         "A-2614.2"
       ],
@@ -2651,7 +2651,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:39:16",
-      "investigative_direction": "Kolvet's response to Schriber and any TPUSA spending in the Kentucky race.",
+      "investigative_direction": "Kolvet's response to Schreiber and any TPUSA spending in the Kentucky race.",
       "transcript_snippet": "Didn't you ask us to express your sincere apologies to Massie and that TPUSA was not going to get involved with the race, but that you personally wanted Massie to win?",
       "mentions_person_refs": [
         "N-649",
@@ -2686,7 +2686,7 @@
       "@id": "C-4316",
       "ref": "C-4316",
       "label": "Netanyahu went on Fox News the day after the assassination to deny involvement",
-      "claim": "The host says Benjamin Netanyahu went on Fox News the day after Charlie Kirk's assassination and said he did not kill him.",
+      "claim": "The host says sarcastically that she bets it was Iran that made Benjamin Netanyahu go on Fox News the next day and say \"I didn't kill him. It wasn't me.\"",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2702,7 +2702,7 @@
       "@id": "C-4317",
       "ref": "C-4317",
       "label": "Viewer comment: Erika Kirk and Victor Marx are close",
-      "claim": "A viewer comment read by the host says Erika Kirk and Victor Marx are close; the host says Erika Kirk's character can be judged by the people around her.",
+      "claim": "A viewer comment the host reads says Erika Kirk and Victor Marx are close; a second viewer comment she reads says a person's character can be assessed by the company they keep, and the host adds she does not find Erika believable.",
       "anchored_artifacts": [
         "A-2615.1"
       ],

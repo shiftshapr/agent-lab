@@ -1,0 +1,507 @@
+[
+ {
+  "claim": "C-2896",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Erika Kirk said in her Great American Race audition video that she graduated from Arizona State University magna cum laude, and later upgraded the credential to summa cum laude on her LinkedIn page, which has since been removed."
+  },
+  "note": "Host: audition video said magna laude; LinkedIn later upgraded to summa; old page removed."
+ },
+ {
+  "claim": "C-2901",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-214"
+   ]
+  },
+  "note": "Nick Shirley named in claim."
+ },
+ {
+  "claim": "C-2902",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-57",
+    "N-3",
+    "N-214"
+   ]
+  },
+  "note": "Shirley named and quoted."
+ },
+ {
+  "claim": "C-2903",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-99",
+    "N-214"
+   ]
+  },
+  "note": "Clark's quoted post names Shirley."
+ },
+ {
+  "claim": "C-2904",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that during her private interview Erika Kirk handed her Brian Harpole's flights, which were for 1:49 p.m. on the 9th going to Utah, and that this did not cover the time period in which Mitch said he saw him at Fort Huachuca.",
+   "mentions": [
+    "N-267",
+    "N-2",
+    "N-362"
+   ]
+  },
+  "note": "Host: flights 1:49 p.m. on the 9th to Utah; no Dallas/SLC/morning at this point. Erika and Mitch referred to."
+ },
+ {
+  "claim": "C-2907",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "label": "Andrew Kolvet Coordinated Erika Alibi Pushback with Paramount Tactical and Valhalla",
+   "claim": "Per the host, Andrew Kolvet was the coordinator behind the Paramount Tactical and Valhalla YouTube efforts, including the alibi photo given for Erika Kirk, to push back on the Fort Huachuca allegations, despite Erika's claim that Kolvet was being moved off of PR responsibilities.",
+   "mentions": [
+    "N-14",
+    "N-2"
+   ]
+  },
+  "note": "Alibi photo read by Paramount Tactical was Erika's; Andrew coordinated. Harpole not referred to."
+ },
+ {
+  "claim": "C-2908",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-267",
+    "N-2",
+    "N-362"
+   ]
+  },
+  "note": "Claim refers to Mitch's sighting."
+ },
+ {
+  "claim": "C-12993",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Nick Shirley is credited with uncovering massive welfare fraud in the Somali community in Minnesota, including daycare fraud, a story she says she did not follow.",
+   "relevance": "tangential",
+   "names": [
+    {
+     "wrong": "Nick Fuentes",
+     "right": "Nick Shirley",
+     "source": "https://www.npr.org/2025/12/31/nx-s1-5662600/nick-shirley-minnesota-daycare-fraud"
+    }
+   ]
+  },
+  "note": "Context ('This Nick Shirley guy', age 23-24) and NPR/Snopes confirm Shirley's Minnesota daycare video."
+ },
+ {
+  "claim": "C-12995",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Patrick Bet-David hosted a person who said the host had not spoken to Charlie since 2019, and acknowledges that she and Charlie had not spoken.",
+   "relevance": "context"
+  },
+  "note": "Host: guest said 'I [host] didn't speak to Charlie since 2019'."
+ },
+ {
+  "claim": "C-13030",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2"
+   ]
+  },
+  "note": "Claim names Erika's side."
+ },
+ {
+  "claim": "C-13042",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Andrew Colvin",
+     "right": "Andrew Kolvet",
+     "source": "https://www.foxnews.com/media/remembering-charlie-kirk-turning-point-usa-andrew-kolvet-reflects-conservative-group-challenging-year"
+    }
+   ]
+  },
+  "note": "Andrew Kolvet, TPUSA spokesman, confirmed (Fox News, Wikipedia)."
+ },
+ {
+  "claim": "C-13054",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Massie not referred to in claim."
+ },
+ {
+  "claim": "C-4102",
+  "episode": 104,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-320",
+    "N-362",
+    "N-3"
+   ]
+  },
+  "note": "Blake Neff not referred to in claim."
+ },
+ {
+  "claim": "C-4109",
+  "episode": 105,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5"
+   ],
+   "claim": "The host says we are supposed to believe that President Trump has survived three separate shooting assassination attempts in just under two years, which she says would be unprecedented for a sitting president."
+  },
+  "note": "Host frames it as what 'we are supposed to' accept; Charlie not in claim."
+ },
+ {
+  "claim": "C-4112",
+  "episode": 105,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:06:15"
+  },
+  "note": "AFA remark late in 05:04 block, before 06:45."
+ },
+ {
+  "claim": "C-4117",
+  "episode": 105,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-371"
+   ]
+  },
+  "note": "Sidner named; Erika not referred to in claim."
+ },
+ {
+  "claim": "C-4125",
+  "episode": 105,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says White House communications director Steven Cheung and Richard Smale, a WHCA communications officer and information assurance engineer, were recipients of the email.",
+   "names": [
+    {
+     "wrong": "Richard Smaly",
+     "right": "Richard Smale",
+     "source": "https://www.datanyze.com/companies/white-house-communications-agency/1233534375"
+    }
+   ]
+  },
+  "note": "WHCA LinkedIn lists Richard Smale, Communication Officer; ZoomInfo lists him as Information Assurance Engineer."
+ },
+ {
+  "claim": "C-4147",
+  "episode": 105,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-3"
+   ]
+  },
+  "note": "Claim says pro-Erika accounts."
+ },
+ {
+  "claim": "C-4175",
+  "episode": 106,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie Kirk."
+ },
+ {
+  "claim": "C-4177",
+  "episode": 106,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Turning Point USA showed the Aspen footage exclusively in a private screening to journalists at the Daily Mail, and that Charlie Spiering wrote an article headlined as an exclusive on the \"secret video\" of Charlie Kirk naming his successor.",
+   "names": [
+    {
+     "wrong": "Charlie Spearing",
+     "right": "Charlie Spiering",
+     "source": "https://muckrack.com/charliespiering/articles"
+    }
+   ]
+  },
+  "note": "Charlie Spiering is a Daily Mail DC political reporter who posted on the TPUSA Kirk footage (X)."
+ },
+ {
+  "claim": "C-4183",
+  "episode": 106,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ },
+ {
+  "claim": "C-3706",
+  "episode": 107,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-342",
+    "N-348"
+   ]
+  },
+  "note": "Son not referred to in claim."
+ },
+ {
+  "claim": "C-3709",
+  "episode": 107,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-342"
+   ]
+  },
+  "note": "Only Marx referred to."
+ },
+ {
+  "claim": "C-3711",
+  "episode": 107,
+  "decision": "accept",
+  "fix": {
+   "claim": "Victor Marx, the guest, says in his interview with the host that he prayed for Charlie Kirk (in Kirk's office) and, he thinks, three other people at Turning Point USA HQ offices.",
+   "mentions": [
+    "N-1",
+    "N-342"
+   ]
+  },
+  "note": "Marx: 'I think there were three other people'. Melody Hall not in claim."
+ },
+ {
+  "claim": "C-3713",
+  "episode": 107,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-342"
+   ]
+  },
+  "note": "Turek, Tsarfati, Hibbs not named in claim."
+ },
+ {
+  "claim": "C-5682",
+  "episode": 107,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-342"
+   ],
+   "label": "Marx Audio Describes Watching a Corpse Dismembered and Burned"
+  },
+  "note": "Stepfather not named in the 7:09 clip or claim."
+ },
+ {
+  "claim": "C-5716",
+  "episode": 107,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-342"
+   ]
+  },
+  "note": "Kennedy not referred to in claim."
+ },
+ {
+  "claim": "C-5736",
+  "episode": 107,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Jack Hibbs and Amir Tsarfati also posted early and that Jack Hibbs took down a video saying an Israel channel had reported the death first and had the information before anyone else; Marx says he is not aware of that.",
+   "names": [
+    {
+     "wrong": "Amir Safari",
+     "right": "Amir Tsarfati",
+     "source": "https://x.com/beholdisrael/status/1966156041646698869"
+    }
+   ]
+  },
+  "note": "Amir Tsarfati (Behold Israel) posted on Kirk shooting; host's 'Amir Safari' is him, N-349."
+ },
+ {
+  "claim": "C-5738",
+  "episode": 107,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-342"
+   ]
+  },
+  "note": "Eileen not referred to in claim."
+ },
+ {
+  "claim": "C-5753",
+  "episode": 107,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-342"
+   ]
+  },
+  "note": "Epstein not in claim."
+ },
+ {
+  "claim": "C-4220",
+  "episode": 108,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-342",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie Kirk, not Turek."
+ },
+ {
+  "claim": "C-4226",
+  "episode": 108,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-267",
+    "N-3"
+   ]
+  },
+  "note": "Marx not in claim."
+ },
+ {
+  "claim": "C-4227",
+  "episode": 108,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-342",
+    "N-267",
+    "N-3",
+    "N-271"
+   ]
+  },
+  "note": "Claim refers to 'Brian or Dan'."
+ },
+ {
+  "claim": "C-4229",
+  "episode": 108,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-342"
+   ]
+  },
+  "note": "Erika not in claim."
+ },
+ {
+  "claim": "C-4249",
+  "episode": 108,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Erika not in claim."
+ },
+ {
+  "claim": "C-4313",
+  "episode": 109,
+  "decision": "accept",
+  "fix": {
+   "claim": "According to a tweet read by the host from Raphael Schreiber, legislative director for Thomas Massie, Andrew Kolvet called Massie's office on March 12, 2026. Schreiber says Kolvet apologized for a TPUSA video labeling Massie a RINO and blamed it on a 20-year-old intern.",
+   "label": "Schreiber: Kolvet Called Massie's Office on March 12, 2026 to Apologize for TPUSA's RINO Video",
+   "names": [
+    {
+     "wrong": "Schriber",
+     "right": "Schreiber",
+     "source": "https://thehill.com/the-hill-notable-staffers-2026/6063654-raphael-schreiber-legislative-director-thomas-massie/"
+    }
+   ]
+  },
+  "note": "The Hill: Raphael Schreiber, Massie's legislative director."
+ },
+ {
+  "claim": "C-4314",
+  "episode": 109,
+  "decision": "accept",
+  "fix": {
+   "label": "Schreiber: Kolvet Said TPUSA Would Stay Out of the Race and He Personally Wanted Massie to Win",
+   "names": [
+    {
+     "wrong": "Schriber",
+     "right": "Schreiber",
+     "source": "https://thehill.com/the-hill-notable-staffers-2026/6063654-raphael-schreiber-legislative-director-thomas-massie/"
+    }
+   ]
+  },
+  "note": "The Hill confirms Schreiber spelling."
+ },
+ {
+  "claim": "C-4316",
+  "episode": 109,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says sarcastically that she bets it was Iran that made Benjamin Netanyahu go on Fox News the next day and say \"I didn't kill him. It wasn't me.\""
+  },
+  "note": "Sarcasm fix right, but 'mocking those who blame foreign countries for her tweet' is interpretation not stated."
+ },
+ {
+  "claim": "C-2909",
+  "episode": 110,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the Department of War website the host cites, Bradley Hansell exercises authority, direction, and control over all intelligence and security organizations in the Department of War on behalf of the Secretary of War.",
+   "label": "Bradley Hansell Serves as Under Secretary of War for Intelligence and Security",
+   "names": [
+    {
+     "wrong": "Bradley Hansel",
+     "right": "Bradley Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ]
+  },
+  "note": "Wikipedia/DoW bio: Bradley Hansell, USD(I&S), sworn in July 25, 2025."
+ },
+ {
+  "claim": "C-2910",
+  "episode": 110,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per host, Hansell was nominated by Trump and confirmed by the Senate, then sworn in on July 25, 2025.",
+   "label": "Bradley Hansell Was Sworn In on July 25, 2025",
+   "names": [
+    {
+     "wrong": "Bradley Hansel",
+     "right": "Bradley Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ]
+  },
+  "note": "Wikipedia/DoW bio confirm Hansell sworn in July 25, 2025."
+ }
+]

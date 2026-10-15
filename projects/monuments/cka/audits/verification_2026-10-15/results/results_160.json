@@ -1,0 +1,834 @@
+[
+ {
+  "claim": "C-4316",
+  "episode": 109,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host is sarcastic: \"I bet it was Iran that made BB go on Fox News the next day and say, 'I didn't kill him.'\" Claim states it as plain fact.",
+  "fix": {
+   "claim": "The host says sarcastically that she bets Iran made Benjamin Netanyahu go on Fox News the next day and say \"I didn't kill him. It wasn't me,\" mocking those who blame foreign countries for her tweet."
+  }
+ },
+ {
+  "claim": "C-4317",
+  "episode": 109,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"your character can be assessed by all the homies you're hanging around\" is the second viewer comment (Amon Cullen), not the host speaking in her own voice.",
+  "fix": {
+   "claim": "A viewer comment the host reads says Erika Kirk and Victor Marx are close; a second viewer comment she reads says a person's character can be assessed by the company they keep, and the host adds she does not find Erika believable."
+  }
+ },
+ {
+  "claim": "C-4318",
+  "episode": 109,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4319",
+  "episode": 109,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4320",
+  "episode": 109,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4321",
+  "episode": 109,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2909",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Hansel\" is a transcription of Bradley Hansell (USD for Intelligence and Security since 2025-07-25); transcript says \"Mr. Hansell\" in same passage.",
+  "fix": {
+   "claim": "Per the Department of War website the host cites, Bradley Hansell exercises authority, direction, and control over all intelligence and security organizations in the Department of War on behalf of the Secretary of War.",
+   "label": "Bradley Hansell Serves as Under Secretary of War for Intelligence and Security",
+   "names": [
+    {
+     "wrong": "Bradley Hansel",
+     "right": "Bradley Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2910",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Hansel\" is a transcription error for Bradley Hansell (sworn in July 25, 2025).",
+  "fix": {
+   "claim": "Per host, Hansell was nominated by Trump and confirmed by the Senate, then sworn in on July 25, 2025.",
+   "label": "Bradley Hansell Was Sworn In on July 25, 2025",
+   "names": [
+    {
+     "wrong": "Bradley Hansel",
+     "right": "Bradley Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2911",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Hansel\" is a transcription error for Bradley Hansell.",
+  "fix": {
+   "claim": "Per host, after serving in the Navy and Army Special Forces Airborne Division, Hansell went to work for the Boston Consulting Group.",
+   "label": "Bradley Hansell Served in Navy and Army Special Forces Airborne Division",
+   "names": [
+    {
+     "wrong": "Bradley Hansel",
+     "right": "Bradley Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2912",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Hansel\" is a transcription error for Bradley Hansell.",
+  "fix": {
+   "claim": "Per host, Hansell was picked to work under Trump's first administration as a member of the National Security Council as Special Assistant to President Donald J. Trump for National Security Affairs.",
+   "label": "Bradley Hansell Served as Special Assistant to President Trump for National Security Affairs",
+   "names": [
+    {
+     "wrong": "Bradley Hansel",
+     "right": "Bradley Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2913",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Hansel\" is a transcription error for Bradley Hansell.",
+  "fix": {
+   "claim": "Per host, Hansell worked at the Boston Consulting Group both after his military service and after Trump's first term (returning as a principal of the firm).",
+   "label": "Bradley Hansell Worked at the Boston Consulting Group",
+   "names": [
+    {
+     "wrong": "Bradley Hansel",
+     "right": "Bradley Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2914",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2915",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2916",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2917",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2918",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2919",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-435 (Schweizer) but the claim does not name or refer to him.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-2920",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2921",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-435 (Schweizer) but claim does not name him; Moore only.",
+  "fix": {
+   "mentions": [
+    "N-438"
+   ]
+  }
+ },
+ {
+  "claim": "C-2922",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-435 but claim names only Jake Wood (no node) and BCG.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-2923",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-435 but claim does not name Schweizer.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-2924",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2925",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2926",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions lists N-449 (Leola Anderson), who is not in the claim; claim names Romney (N-28).",
+  "fix": {
+   "mentions": [
+    "N-28"
+   ]
+  }
+ },
+ {
+  "claim": "C-2927",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Account was Pierre Delecto; transcript \"Deleto\" is a mis-transcription. Names came from comments, host then states it herself.",
+  "fix": {
+   "claim": "Per viewer comments read on-air and host concurrence, Mitt Romney operated a burner X account under the French name Pierre Delecto.",
+   "label": "Mitt Romney Operated a \"Pierre Delecto\" Burner X/Twitter Account",
+   "names": [
+    {
+     "wrong": "Pierre Deleto",
+     "right": "Pierre Delecto",
+     "source": "https://en.wikipedia.org/wiki/Mitt_Romney"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2928",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2929",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2930",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2931",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2932",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-435 but claim does not name Schweizer.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-2933",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2934",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-435 but claim does not name Schweizer; Phil Reilly has no node.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-14630",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Channel subscriber milestone and funding; not about the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-14631",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14632",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14633",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: Tatum interview \"released on September 4th\"; Stakelbeck \"sat down\" Sept 4, not stated as released.",
+  "fix": {
+   "claim": "The host lists Benjamin Netanyahu's 2025 American podcast interviews: Nelk Boys released July 21, Trigonometry August 20, Patrick Bet-David recorded and released August 26, Officer Tatum released September 4, and on September 4 a sit-down with Eric Stakelbeck of TBN."
+  }
+ },
+ {
+  "claim": "C-14634",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14635",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14636",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14637",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14638",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14639",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14640",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14641",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14642",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14643",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14644",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14645",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14646",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Mentions N-362 (Mitch Snow) but claim names only Harpole.",
+  "fix": {
+   "mentions": [
+    "N-267"
+   ]
+  }
+ },
+ {
+  "claim": "C-14647",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14648",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14649",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"Hansel\" is a transcription error for Bradley Hansell.",
+  "fix": {
+   "claim": "The host says one of the VIPs aboard the Fort Huachuca-to-El Paso plane, apparently with four other people, was Bradley Hansell.",
+   "label": "Host Says Bradley Hansell Was Aboard the Plane With Four Other People",
+   "names": [
+    {
+     "wrong": "Bradley Hansel",
+     "right": "Bradley Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14650",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"Hansel\" is a transcription error for Bradley Hansell.",
+  "fix": {
+   "claim": "The host says that in the same month Bradley Hansell was sworn in (July 2025), Boston Consulting Group had a massive scandal uncovered by Financial Times reporting from whistleblowers.",
+   "label": "Host Says Boston Consulting Group Had a Massive Scandal the Month Hansell Was Sworn In",
+   "names": [
+    {
+     "wrong": "Mr. Hansel",
+     "right": "Mr. Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14651",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14652",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14653",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14654",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14655",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says only \"November\"; year not stated.",
+  "fix": {
+   "claim": "The host says Johnny Moore eventually abandoned the Gaza Humanitarian Foundation project in November."
+  }
+ },
+ {
+  "claim": "C-14656",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14657",
+  "episode": 110,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

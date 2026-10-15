@@ -119,7 +119,7 @@ Protecting Mrs. Kirk and some of these names are not we know this is their I blo
 
 [21:07]
 
-We're just coordinating to figure out who killed Charlie Kirk. And for some reason, these people find it to be synonymous with taking down Erika Kirk. I wonder why that is. So that's the question. Why does it take 92 operatives online coordinating sharing my personal information utterly psychotic? Okay, my home address. Why are they obsessed with the takeown of Canoans? Well, the answer is because they know that I know. They know that I know. Okay, we got another bizarre request today. This time from the Daily Mail, Charlie Spearing, the one who worked on the Trust Us, bro. Charlie definitely wanted Erika to take over the company because I watched the video. The author of that, the Aspen, I watched it so you don't have to guy.
+We're just coordinating to figure out who killed Charlie Kirk. And for some reason, these people find it to be synonymous with taking down Erika Kirk. I wonder why that is. So that's the question. Why does it take 92 operatives online coordinating sharing my personal information utterly psychotic? Okay, my home address. Why are they obsessed with the takeown of Canoans? Well, the answer is because they know that I know. They know that I know. Okay, we got another bizarre request today. This time from the Daily Mail, Charlie Spiering, the one who worked on the Trust Us, bro. Charlie definitely wanted Erika to take over the company because I watched the video. The author of that, the Aspen, I watched it so you don't have to guy.
 
 [21:54]
 

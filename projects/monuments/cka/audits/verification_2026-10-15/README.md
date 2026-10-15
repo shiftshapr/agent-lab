@@ -113,3 +113,10 @@ records Minas separately.
   including bare "Terrell" (all 21 transcripts that use it mean him). C-4824 no longer lists him: the claim does not
   refer to him.
 - Matt Sarelson ("Slauson"; N-863 renamed), Baron Coleman (ep100's "Baron Cohen"), Caleb Robinson (ep100's "Kayla").
+
+## Part 3f (chunks 151–160: episodes ~101–110, 600 claims)
+- 54 findings went to confirmation: 48 accepted, 5 amended, 1 rejected. Applied: 52 confirmed fixes and 43 minor fixes.
+- Name rules: Bradley Hansell, Charlie Spiering (N-636 renamed), Richard Smale (N-628 renamed), Raphael Schreiber,
+  Andrew Kolvet ("Colvin"), Amir Tsarfati, and "Pierre Delecto" (Romney's account).
+- The ep102 correction of "Nick Fuentes" to Nick Shirley (NPR) is applied to that claim only, not as a rule, because
+  Nick Fuentes is named correctly throughout the archive.

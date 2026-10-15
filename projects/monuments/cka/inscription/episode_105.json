@@ -717,7 +717,7 @@
       "@type": "Person",
       "@id": "N-628",
       "ref": "N-628",
-      "name": "Richard Smaly",
+      "name": "Richard Smale",
       "type": "person",
       "description": "First named by the host at 00:10:20 in episode 105. Described as a communications officer and information assurance engineer at the White House Communications Agency who received the email.",
       "related_artifacts": [
@@ -1416,7 +1416,7 @@
       "@id": "C-4109",
       "ref": "C-4109",
       "label": "Trump has survived three shooting assassination attempts in under two years",
-      "claim": "The host says President Trump has survived three separate physical shooting assassination attempts in just under two years, which she says is unprecedented for a sitting president.",
+      "claim": "The host says we are supposed to believe that President Trump has survived three separate shooting assassination attempts in just under two years, which she says would be unprecedented for a sitting president.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10637"
@@ -1426,8 +1426,7 @@
       "investigative_direction": "Compile Secret Service and FBI records of the Butler, West Palm Beach and WHCD incidents and their dates.",
       "transcript_snippet": "a sitting president has survived not one, not two, but three separate shooting assassination attempts all in the span of just under two years",
       "mentions_person_refs": [
-        "N-5",
-        "N-1"
+        "N-5"
       ]
     },
     {
@@ -1452,7 +1451,7 @@
       "@id": "C-4111",
       "ref": "C-4111",
       "label": "Host asserts the clip's amplification was designed by the military",
-      "claim": "The host asserts that the email proves the amplification of the Erika Kirk clip was designed by the military, and says the media will not cover it.",
+      "claim": "The host asserts that the email proves the amplification of the Erika Kirk clip was designed by the military, and says the media will probably not want to cover it.",
       "anchored_artifacts": [
         "A-2581.1"
       ],
@@ -1481,7 +1480,7 @@
         "N-10929"
       ],
       "tags": [],
-      "claim_timestamp": "00:05:04",
+      "claim_timestamp": "00:06:15",
       "investigative_direction": "Obtain the appointment notice and membership roster of the U.S. Air Force Academy Board of Visitors.",
       "transcript_snippet": "Dr. Erika Kirk was herself promoted to the Air Force Academy board of visitors in her husband's uhstead",
       "mentions_person_refs": [
@@ -1586,7 +1585,7 @@
       "investigative_direction": "Obtain the email's header timestamps and distribution list through FOIA or the named recipients.",
       "transcript_snippet": "approximately 25 minutes later, we revealed to you that the White House military office sent out follow-up instructions uh in an email that accidentally went out to the wrong internal teams",
       "mentions_person_refs": [
-        "N-2"
+        "N-371"
       ]
     },
     {
@@ -1738,8 +1737,8 @@
       "@type": "Claim",
       "@id": "C-4125",
       "ref": "C-4125",
-      "label": "Steven Cheung and Richard Smaly were on the email",
-      "claim": "The host says White House communications director Steven Cheung and Richard Smaly, a WHCA communications officer and information assurance engineer, were recipients of the email.",
+      "label": "Steven Cheung and Richard Smale were on the email",
+      "claim": "The host says White House communications director Steven Cheung and Richard Smale, a WHCA communications officer and information assurance engineer, were recipients of the email.",
       "anchored_artifacts": [
         "A-2581.2"
       ],
@@ -1750,7 +1749,7 @@
       "tags": [],
       "claim_timestamp": "00:10:20",
       "investigative_direction": "Confirm the named individuals' positions and their inclusion on the distribution list.",
-      "transcript_snippet": "We covered some of this yesterday with Steven Chong who is the White House communications director. Richard Smaly who is the communications officer",
+      "transcript_snippet": "We covered some of this yesterday with Steven Chong who is the White House communications director. Richard Smale who is the communications officer",
       "mentions_person_refs": [
         "N-161",
         "N-628"
@@ -2186,6 +2185,7 @@
       "investigative_direction": "Analyze the accounts that posted the boycott calls for creation dates and coordination patterns.",
       "transcript_snippet": "like you could just draw a direct line on X began trying to organize this boycott of my advertisers.",
       "mentions_person_refs": [
+        "N-2",
         "N-3"
       ]
     },

@@ -1075,7 +1075,7 @@ Investigative Direction: Verify the original post; cross-reference Hillsdale's p
 
 Claim Timestamp: 00:17:23
 
-Claim: Erika Kirk's older LinkedIn page (since removed) stated she graduated from Arizona State University magna cum laude, in connection with a Great American Race audition video.
+Claim: The host says Erika Kirk said in her Great American Race audition video that she graduated from Arizona State University magna cum laude, and later upgraded the credential to summa cum laude on her LinkedIn page, which has since been removed.
 
 Anchored Artifacts: A-2071.1
 Mentions: N-2
@@ -1138,6 +1138,7 @@ Claim Timestamp: 00:26:59
 Claim: The host says Nick Shirley is associated with a video claiming he infiltrated the most dangerous gang in Brazil within 48 hours.
 
 Anchored Artifacts: A-2073.1
+Mentions: N-214
 
 Related Nodes: N-10666
 
@@ -1152,7 +1153,7 @@ Claim Timestamp: 00:28:51
 Claim: Patrick Bet-David's show hosted Nick Shirley, during which Shirley stated that Candace Owens "came after me uh a while back" and didn't believe his Brazilian favela video; Bet-David asked "Why would Candace Owens come after you?"
 
 Anchored Artifacts: A-2073.2
-Mentions: N-57, N-3
+Mentions: N-57, N-3, N-214
 
 Related Nodes: N-10666
 
@@ -1167,7 +1168,7 @@ Claim Timestamp: 00:30:15
 Claim: Alex Clark publicly wrote on X: "Nick Shirley is a real journalist. Candace Owens is not."
 
 Anchored Artifacts: A-2074.1
-Mentions: N-3, N-99
+Mentions: N-3, N-99, N-214
 
 Related Nodes: N-10666
 
@@ -1179,10 +1180,10 @@ Investigative Direction: Verify the original post and Alex Clark's relationship 
 
 Claim Timestamp: 00:49:33
 
-Claim: According to flight records shown to Candace during her private interview with Erika, Brian Harpole's alibi flights on the 9th departed Dallas at 1:49 PM for Salt Lake City – a window that does not cover the morning timeframe when Mitch reported seeing him at Fort Huachuca.
+Claim: The host says that during her private interview Erika Kirk handed her Brian Harpole's flights, which were for 1:49 p.m. on the 9th going to Utah, and that this did not cover the time period in which Mitch said he saw him at Fort Huachuca.
 
 Anchored Artifacts: A-2075.1
-Mentions: N-267
+Mentions: N-267, N-2, N-362
 
 Related Nodes: N-10373
 
@@ -1209,7 +1210,7 @@ Investigative Direction: Locate the original alibi photo and Andrew Kolvet's acc
 
 Claim Timestamp: 00:52:24
 
-Claim: Paramount Tactical admitted over the weekend that the boy depicted in the Fort Huachuca alibi photograph is not Erika Kirk's son; a source close to the family reportedly says the child is neither of Erika's children.
+Claim: The host says Paramount Tactical admitted over the weekend that the boy in the Fort Huachuca alibi photograph is not Erika Kirk's son, and that someone very close to the family told her the child is neither of Erika's children.
 
 Anchored Artifacts: A-2075.3
 Mentions: N-2
@@ -1220,14 +1221,14 @@ Investigative Direction: Locate Paramount Tactical's specific admission statemen
 
 ---
 
-**C-2907** Andrew Kolvet coordinated the Harpole alibi pushback with Paramount Tactical and Valhalla
+**C-2907** Andrew Kolvet Coordinated Erika Alibi Pushback with Paramount Tactical and Valhalla
 
 Claim Timestamp: 00:52:24
 
-Claim: Per host, Andrew Kolvet was the coordinator behind the Paramount Tactical and Valhalla YouTube efforts to push back on the Fort Huachuca allegations against Brian Harpole, despite Erika's claim that Kolvet was being moved off of PR responsibilities.
+Claim: Per the host, Andrew Kolvet was the coordinator behind the Paramount Tactical and Valhalla YouTube efforts, including the alibi photo given for Erika Kirk, to push back on the Fort Huachuca allegations, despite Erika's claim that Kolvet was being moved off of PR responsibilities.
 
 Anchored Artifacts: A-2075.2, A-2075.3
-Mentions: N-14, N-267
+Mentions: N-14, N-2
 
 Related Nodes: N-10373
 
@@ -1242,7 +1243,7 @@ Claim Timestamp: 00:45:18
 Claim: During Candace's private interview with Erika Kirk, Erika volunteered Brian Harpole's flight records as his alibi – which Candace notes did not actually cover the timeframe of Mitch's sighting.
 
 Anchored Artifacts: A-2075.1
-Mentions: N-267, N-2
+Mentions: N-267, N-2, N-362
 
 Related Nodes: N-10373
 
@@ -1261,7 +1262,7 @@ Transcript Snippet: after saying she wanted to go home, us enduring a lecture ab
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-11255
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Locate Erika Kirk's earlier public statements about going home to her family and compare them with the Hillsdale College commencement schedule.
 
 ---
@@ -1277,7 +1278,7 @@ Transcript Snippet: She's too scared to get on a plane by herself. Secret Servic
 Anchored Artifacts: 
 Mentions: N-2
 Supports: C-8783
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain Erika Kirk's own statements on her protection status and any Secret Service or private security arrangements for the Hillsdale event.
 
 ---
@@ -1293,7 +1294,7 @@ Transcript Snippet: Blake Neff jumped in. He wrote back to Project Constitution,
 Anchored Artifacts: A-3236.1
 Mentions: N-160
 Related Nodes: N-10897, N-10667
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Pull Blake Neff's X reply to Project Constitution and confirm its wording, time and the post it answered.
 
 ---
@@ -1461,7 +1462,7 @@ Investigative Direction: Review the AmFest 2025 stream and program for the audio
 
 Claim Timestamp: 00:13:53
 
-Claim: The host says Blake Neff's subway killer scenario is the stated reason Turning Point USA will not release the video.
+Claim: The host says viewers can decide whether to believe Blake Neff's subway killer scenario as the reason Turning Point USA will not release the video.
 
 Transcript Snippet: you guys can take your bets on whether you believe Blake Neff and his uh Subway killer scenario as the reason they won't release the video.
 
@@ -1517,7 +1518,7 @@ Transcript Snippet: when they were trying out for the Great American Race in the
 Anchored Artifacts: A-3237.1
 Mentions: N-2
 Related Nodes: N-10665, N-11248
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the audition video and ASU's records of degree and honors conferred on Erika Kirk.
 
 ---
@@ -1533,7 +1534,7 @@ Transcript Snippet: she didn't graduate magna laude and she also didn't graduate
 Anchored Artifacts: A-2071.2
 Mentions: N-2
 Related Nodes: N-10665, N-11248
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Request ASU's degree verification (National Student Clearinghouse) and the commencement program for Erika Kirk's class.
 
 ---
@@ -1549,7 +1550,7 @@ Transcript Snippet: she's put it on bios, so this is not like, oh, this was one 
 Anchored Artifacts: 
 Mentions: N-2
 Related Nodes: N-10665
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Collect archived TPUSA and third-party bios of Erika Kirk and date each claimed credential.
 
 ---
@@ -1597,7 +1598,7 @@ Transcript Snippet: like he's this the term that they use here is fed jacketed. 
 Anchored Artifacts: 
 Mentions: N-214
 Related Nodes: N-10666
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify who is using the term and what they cite for the claim that Shirley is media-created.
 
 ---
@@ -1613,7 +1614,7 @@ Transcript Snippet: That's the reason I covered him on the show on September 10t
 Anchored Artifacts: 
 Mentions: N-214, N-3, N-1
 Related Nodes: N-10666
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review the host's September 10 show and her follow-up conversation with the person for what was said and corrected.
 
 ---
@@ -1622,7 +1623,7 @@ Investigative Direction: Review the host's September 10 show and her follow-up c
 
 Claim Timestamp: 00:25:20
 
-Claim: The host says the person is credited with uncovering massive welfare fraud in the Somali community in Minnesota, including daycare fraud, which she did not follow.
+Claim: The host says Nick Shirley is credited with uncovering massive welfare fraud in the Somali community in Minnesota, including daycare fraud, a story she says she did not follow.
 
 Transcript Snippet: they say, Nick Fuentes has uncovered massive welfare fraud in the Somalian community in Minnesota.
 
@@ -1630,7 +1631,7 @@ Anchored Artifacts:
 Mentions: N-214
 Related Nodes: N-10666
 Supports: C-8531
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review the Minnesota daycare fraud reporting and the charging records that followed.
 
 ---
@@ -1646,7 +1647,7 @@ Transcript Snippet: it was like trending and all of these people, the people I t
 Anchored Artifacts: 
 Mentions: N-214, N-268
 Related Nodes: N-10666, N-11287
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Collect the posts defending Shirley and their timing relative to the host's remark.
 
 ---
@@ -1655,14 +1656,14 @@ Investigative Direction: Collect the posts defending Shirley and their timing re
 
 Claim Timestamp: 00:26:59
 
-Claim: The host says Patrick Bet-David hosted a person who said she had not spoken to Charlie since 2019, and acknowledges that she and Charlie had not spoken.
+Claim: The host says Patrick Bet-David hosted a person who said the host had not spoken to Charlie since 2019, and acknowledges that she and Charlie had not spoken.
 
 Transcript Snippet: he notoriously hosted the person who said I didn't speak to Charlie since, you know, 2019. We hadn't spoken.
 
 Anchored Artifacts: 
 Mentions: N-57, N-1, N-3
 Related Nodes: N-10059
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the guest and episode, and compare with the host's records of contact with Charlie Kirk after 2019.
 
 ---
@@ -1677,7 +1678,7 @@ Transcript Snippet: We were at war with each other. Whatever. I don't care.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Compare with the host's other accounts of her relationship with Charlie Kirk and any messages from that period.
 
 ---
@@ -1693,7 +1694,7 @@ Transcript Snippet: PBD's pretending he had no idea. He completely already knew 
 Anchored Artifacts: A-2073.2
 Mentions: N-57, N-214
 Related Nodes: N-10666
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review the full PBD interview and PBD's earlier statements about Shirley to see whether he had addressed the host's remark before.
 
 ---
@@ -1709,7 +1710,7 @@ Transcript Snippet: whoever is your contact that has you infiltrating antifa and
 Anchored Artifacts: 
 Mentions: N-214
 Related Nodes: N-10666
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review Shirley's antifa and El Salvador videos for sourcing and the access he claims.
 
 ---
@@ -1740,7 +1741,7 @@ Transcript Snippet: maybe if these podcasters would actually leave their podcast
 Anchored Artifacts: A-2073.2
 Mentions: N-214, N-57
 Related Nodes: N-10666
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the PBD episode and confirm the quote and context.
 
 ---
@@ -1805,7 +1806,7 @@ Transcript Snippet: He claims he he went to Cuba. He was almost taken hostage.
 Anchored Artifacts: 
 Mentions: N-214
 Related Nodes: N-10963, N-10666
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review Shirley's Cuba video and posts for what he says happened and when.
 
 ---
@@ -1853,7 +1854,7 @@ Transcript Snippet: Charlie would have laughed at that stuff, but we see that Er
 Anchored Artifacts: 
 Mentions: N-1, N-2, N-597
 Related Nodes: N-11356
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the Druski skit and Erika Kirk's or TPUSA's public response to it.
 
 ---
@@ -1869,7 +1870,7 @@ Transcript Snippet: the people that were trying to turn that into something raci
 Anchored Artifacts: 
 Mentions: N-14, N-597, N-2
 Related Nodes: N-11356
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find Kolvet's and other TPUSA figures' posts characterizing the skit as racial.
 
 ---
@@ -1965,7 +1966,7 @@ Transcript Snippet: the Quartering has messed with you on X and is now facing a 
 
 Anchored Artifacts: A-3239.1
 Mentions: N-158, N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Search court dockets for any complaint against The Quartering and who is suing.
 
 ---
@@ -2106,7 +2107,7 @@ Investigative Direction: Pull the Fox News broadcast and match its date to the h
 
 Claim Timestamp: 00:47:28
 
-Claim: The host says that the day after the Faulkner interview Erika did Bari Weiss and they cut a clip of her answering what she has to say to the podcaster Candace Owens.
+Claim: The host says that the day after the Faulkner interview Erika did Bari Weiss and they cut the clip of her saying, "What do you have to say to the podcaster Candace Owens?"
 
 Transcript Snippet: Then the day after that she did Bari Weiss and they cut the clip of her saying, "What do you have to say to the podcaster Candace Owens?"
 
@@ -2224,7 +2225,7 @@ Claim: The host says Erika's side scheduled the meeting during the block when sh
 Transcript Snippet: They scheduled it during the block where I would normally have my show. They said let's have a ceasefire. No one's going to talk
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-3, N-2
 Related Nodes: N-10649
 Tags: relevance:core
 Investigative Direction: Obtain the scheduling messages for the December 15 meeting.
@@ -2301,7 +2302,7 @@ Investigative Direction: The host's notes and any witnesses to the question.
 
 Claim Timestamp: 00:50:57
 
-Claim: The host says she interviewed Mitch on the 18th, after Harpole did not respond and Erika's alibi did not cover him, and Mitch said he saw Erika on the 8th.
+Claim: The host says she interviewed Mitch on the 18th, after she messaged Brian Harpole and Erika did not give her an alibi for him, and Mitch said he saw Erika on the 8th.
 
 Transcript Snippet: And then I interviewed him. I did it on the 18th.
 
@@ -2606,7 +2607,7 @@ Anchored Artifacts:
 Mentions: N-2, N-3
 Related Nodes: N-11255
 Supports: C-10279
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Collect the student messages and any Hillsdale student newspaper coverage.
 
 ---
@@ -2620,7 +2621,7 @@ Claim: The host says people should hate those who bullied Charlie, and that Erik
 Transcript Snippet: You shouldn't be teaming up with them. But that's not how Erika lives.
 
 Anchored Artifacts: 
-Mentions: N-2, N-1, N-582
+Mentions: N-2, N-1
 Related Nodes: N-10538
 Tags: relevance:context
 Investigative Direction: Define who is meant by the bullies and list the joint appearances.
@@ -2638,7 +2639,7 @@ Transcript Snippet: I do think we are going to do a website, so you guys can rea
 Anchored Artifacts: A-3242.1
 Mentions: N-3
 Related Nodes: N-10649
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Watch for the launch of the site and its contents.
 
 ---

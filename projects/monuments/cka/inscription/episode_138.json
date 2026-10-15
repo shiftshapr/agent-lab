@@ -256,7 +256,7 @@
           "@type": "Artifact",
           "@id": "A-2252.1",
           "ref": "A-2252.1",
-          "description": "Email from Charlie Spearing (Daily Mail) to Candace Owens show stating: \"We have sources who believe that Candace is being used by foreign operatives sending misinformation through her tip line. It is part of a much broader network.\"",
+          "description": "Email from Charlie Spiering (Daily Mail) to Candace Owens show stating: \"We have sources who believe that Candace is being used by foreign operatives sending misinformation through her tip line. It is part of a much broader network.\"",
           "related_claims": [
             "C-3232"
           ],
@@ -2046,7 +2046,7 @@
       "@type": "Person",
       "@id": "N-636",
       "ref": "N-636",
-      "name": "Charlie Spearing",
+      "name": "Charlie Spiering",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
@@ -2469,8 +2469,8 @@
       "@type": "Claim",
       "@id": "C-3232",
       "ref": "C-3232",
-      "label": "Daily Mail's Charlie Spearing Emailed the Show Claiming Foreign-Operative Use of Candace Owens' Tip Line",
-      "claim": "Daily Mail journalist Charlie Spearing emailed the Candace Owens show stating that \"sources\" believe Candace is being used by foreign operatives sending misinformation through her tip line.",
+      "label": "Daily Mail's Charlie Spiering Emailed the Show Claiming Foreign-Operative Use of Candace Owens' Tip Line",
+      "claim": "Daily Mail journalist Charlie Spiering emailed the Candace Owens show stating that \"sources\" believe Candace is being used by foreign operatives sending misinformation through her tip line.",
       "anchored_artifacts": [
         "A-2252.1"
       ],
@@ -3436,8 +3436,8 @@
       "@type": "Claim",
       "@id": "C-9124",
       "ref": "C-9124",
-      "label": "Host Says Charlie Spearing Worked on a Piece Saying Charlie Wanted Erika to Take Over",
-      "claim": "The host says Daily Mail's Charlie Spearing worked on the 'Trust Us, bro' piece asserting Charlie definitely wanted Erika to take over the company, and that its author watched a video so viewers would not have to.",
+      "label": "Host Says Charlie Spiering Worked on a Piece Saying Charlie Wanted Erika to Take Over",
+      "claim": "The host says Daily Mail's Charlie Spiering worked on the 'Trust Us, bro' piece asserting Charlie definitely wanted Erika to take over the company, and that its author watched a video so viewers would not have to.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10070",

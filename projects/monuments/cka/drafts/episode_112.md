@@ -21,7 +21,7 @@
 
 The host opens with Dana Loesch, whom she says posted more than 23 times on X after claiming she did not care that people mocked her "widow" scripture speech at the Young Women's Leadership Summit (A-2628.1). The host says her sources told her that Erika Kirk cut her own speech short after an attendee called her a "pedophile protector" and then left the summit without closing it out. She plays a Dana Loesch audio clip saying Erika "wasn't there for the whole weekend" (A-2628.2). The host contrasts this with Charlie Kirk's habit of facing hecklers (A-2629.1). She alleges that Erika invented a Secret Service threat to avoid an event with JD Vance, that Erika partners with people such as Greg Laurie who are accused of trafficking, and that Erika personally phoned clergy and attendees to discourage them from attending the host's Catholics for Catholics event in March. She also alleges that Erika directed Andrew Kolvet's statement that Charlie only liked Catholic architecture.
 
-The host then reads two follow-up emails (A-2630.1, A-2630.2) that she sent to Justin Streiff, Andrew Kolvet and the TPUSA lawyer. The emails ask for an on-record yes or no on whether the WLS video in which Charlie Kirk appears to appoint Erika to run Turning Point USA is authentic. She says the only reply was a TPUSA X account post sharing her email (A-2630.3). She names the donors who asked the question as Julie and Arthur Fields of North Carolina, saying this removes TPUSA's stated reason for withholding the full video. According to the host, a donor source says the video is doctored, and Charlie told the donors at a later dinner only that the board would figure out succession. On the "emotional asset" email, the host says the NSA redirected her FOIA request to the Department of War (A-2631.1). She says the Department of War called the request too burdensome (A-2631.2), and that her office then narrowed it to named recipients including Bradley Hansel, Richard Smaly, Gustav Anderly and Michaela Mott (A-2631.3).
+The host then reads two follow-up emails (A-2630.1, A-2630.2) that she sent to Justin Streiff, Andrew Kolvet and the TPUSA lawyer. The emails ask for an on-record yes or no on whether the WLS video in which Charlie Kirk appears to appoint Erika to run Turning Point USA is authentic. She says the only reply was a TPUSA X account post sharing her email (A-2630.3). She names the donors who asked the question as Julie and Arthur Fields of North Carolina, saying this removes TPUSA's stated reason for withholding the full video. According to the host, a donor source says the video is doctored, and Charlie told the donors at a later dinner only that the board would figure out succession. On the "emotional asset" email, the host says the NSA redirected her FOIA request to the Department of War (A-2631.1). She says the Department of War called the request too burdensome (A-2631.2), and that her office then narrowed it to named recipients including Bradley Hansell, Richard Smale, Gustav Anderly and Michaela Mott (A-2631.3).
 
 In the second segment the host plays Ivanka Trump on David Senra's podcast saying she and Jared Kushner found a 1,400-hectare Mediterranean island while swimming from a friend's boat (A-2632.1). The host identifies the island as Sazan Island off Albania and says the friend was Nat Rothschild. A news report (A-2633.1) describes a fourth day of protests in Tirana against the Affinity Partners resort project, Prime Minister Edi Rama's statement that the investment will not stop, and an investigation opened by Albania's anti-corruption agency. A Tim Dillon clip (A-2634.1) criticizes the Trump family as "Tsarists."
 
@@ -283,7 +283,7 @@ Transcript spelling "Bari Weiss". Named by the host as being installed to contro
 
 **N-434** Bradley Hansell
 
-Transcript spelling "Bradley Hansel". Named in the host's narrowed FOIA request as a Department of War recipient.
+Transcript spelling "Bradley Hansell". Named in the host's narrowed FOIA request as a Department of War recipient.
 
 *Related: C-4410, A-2631.3*
 
@@ -341,7 +341,7 @@ First named by the host at 00:17:54 in episode 112. Named with Julie Fields as t
 
 *Related: C-4402*
 
-**N-628** Richard Smaly
+**N-628** Richard Smale
 
 First named by the host at 00:21:10 in episode 112. Transcript spelling "Richard Smallley". Named in the host's narrowed FOIA request as a Department of War recipient.
 
@@ -913,13 +913,13 @@ Investigative Direction: Publish the original FOIA request text with its date ra
 
 ---
 
-**C-4410** Host's narrowed FOIA follow-up named Bradley Hansell, Richard Smaly, Gustav Anderly and Michaela Mott
+**C-4410** Host's narrowed FOIA follow-up named Bradley Hansell, Richard Smale, Gustav Anderly and Michaela Mott
 
 Claim Timestamp: 00:21:10
 
-Claim: The host says her office's follow-up to the Department of War gave dates and named specific recipients, Bradley Hansel, Richard Smallley, Gustav Anderly and Michaela Mott Marzuka. It limited the search to that department's personnel and to emails about Erika Kirk and the WHCD shooting incident.
+Claim: The host says her office's follow-up to the Department of War gave dates and named specific recipients, Bradley Hansell, Richard Smallley, Gustav Anderly and Michaela Mott Marzuka. It limited the search to that department's personnel and to emails about Erika Kirk and the WHCD shooting incident.
 
-Transcript Snippet: we named specific Department of War recipients uh who could be included in that. Bradley Hansel, Richard Smallley, Gustav Anderly, Michaela Mott Marzuka.
+Transcript Snippet: we named specific Department of War recipients uh who could be included in that. Bradley Hansell, Richard Smallley, Gustav Anderly, Michaela Mott Marzuka.
 
 Anchored Artifacts: A-2631.3
 Mentions: N-434, N-628, N-624, N-629
@@ -1493,7 +1493,7 @@ Confidence: high
 - **A-2629.1**: the heckling clip at 07:05 is untranscribed apart from "Hey, come over here." Its content is inferred from the host's lead-in, so confidence is Low.
 - **Duration**: the skeleton gave 00:56:29; the transcript front matter gives 58:30, which is used here.
 - **Existing meme occurrence**: the skeleton's M-41 occurrence (stamped 00:46:24) is kept verbatim. The quoted words appear in the [44:57] paragraph.
-- **Name matching**: "Dana Lash" is taken to be Dana Loesch (N-660; no node in nodes.tsv). "Andrew Kolvet/Kolvet" is matched to N-14, "Greg Laurie" to N-451 Greg Laurie, "Blake Neff" to N-160, "Bradley Hansel" to N-434, "Pete Hegsath" to N-594, "Tim Dillon" to N-278 and "Bari Weiss" to N-279. "Richard Smallley" and "Michaela Mott Marzuka" use the staging titles Richard Smaly and Michaela Mott from episode 105, and Gustav Anderly and Graham Allen also reuse staging titles. "Saison Island" is taken to be Sazan Island, "Nathan Rothschild" Nat Rothschild and "Ed Rama" Edi Rama. "James Kaddis" is kept as spelled, since the TPUSA faith-department figure could not be confidently matched. "Paul Leva" is the alleged fake byline and gets no node. "Ed Gowin not even running in Kentucky" (22:34) is unclear (possibly Ed Gallrein) and gets no node.
+- **Name matching**: "Dana Lash" is taken to be Dana Loesch (N-660; no node in nodes.tsv). "Andrew Kolvet/Kolvet" is matched to N-14, "Greg Laurie" to N-451 Greg Laurie, "Blake Neff" to N-160, "Bradley Hansell" to N-434, "Pete Hegsath" to N-594, "Tim Dillon" to N-278 and "Bari Weiss" to N-279. "Richard Smallley" and "Michaela Mott Marzuka" use the staging titles Richard Smale and Michaela Mott from episode 105, and Gustav Anderly and Graham Allen also reuse staging titles. "Saison Island" is taken to be Sazan Island, "Nathan Rothschild" Nat Rothschild and "Ed Rama" Edi Rama. "James Kaddis" is kept as spelled, since the TPUSA faith-department figure could not be confidently matched. "Paul Leva" is the alleged fake byline and gets no node. "Ed Gowin not even running in Kentucky" (22:34) is unclear (possibly Ed Gallrein) and gets no node.
 - **Topic reuse**: two staging titles exist for the WHCD email (episode 104 "White House Military Office 'I Want to Go Home' Amplification Email" and episode 105 "White House Military Office Erika Kirk Amplification Email"). N-10923 uses the episode 105 title, and the integrator should merge the two. M-95 reuses the staging meme title "Emotional Response Asset", and M-92 reuses "Paramount Not So Tactical".
 - **Cross-episode link**: C-4403 Supports C-2888 (episode 102, donors assert the "I appoint my wife" clip was faked). Episode 102 places the donors at Aspen, while this episode refers to "your WLS event" and a later donor dinner, so the venue mapping is uncertain. C-2982 (episode 122, pending FOIA requests including NSA) is later and is not linked. The JD Vance "empty crowd" claim (C-4390) may relate to the existing topic "TPUSA UGA Event Crowd-Size Failure", but the event is not named, so it is not linked.
 - **Not inscribed as claims (admission test)**:

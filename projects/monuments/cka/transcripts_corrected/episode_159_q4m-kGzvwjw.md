@@ -85,7 +85,7 @@ Before Andrew started his own PR firm, he was working with Chyros. When I met hi
 
 [26:34]
 
-On June 19th, Erika purges her Instagram. She deletes 126 posts. On June 22nd, we have Operation Midnight Hammer. America bombs Iran uh the nuclear sites. On June 22nd, Bradley Hansel is confirmed by the Senate as the under secretary of defense uh for intelligence. His term is set to begin on July 25th. Now, we're in July. July 7th, the 9th, BB Netanyahu uh visits Washington DC. On July 9th, we noted that the Candace URI two decade old college video, college final, is archived for the first time. We know that the next day on July 10th, TPUSA headquarters asks UVU club president Caleb Chilcutt to book Charlie for an event in the UVU courtyard. And um his field rep is being vague on the details. He asks the school if the space is available.
+On June 19th, Erika purges her Instagram. She deletes 126 posts. On June 22nd, we have Operation Midnight Hammer. America bombs Iran uh the nuclear sites. On June 22nd, Bradley Hansell is confirmed by the Senate as the under secretary of defense uh for intelligence. His term is set to begin on July 25th. Now, we're in July. July 7th, the 9th, BB Netanyahu uh visits Washington DC. On July 9th, we noted that the Candace URI two decade old college video, college final, is archived for the first time. We know that the next day on July 10th, TPUSA headquarters asks UVU club president Caleb Chilcutt to book Charlie for an event in the UVU courtyard. And um his field rep is being vague on the details. He asks the school if the space is available.
 
 [27:34]
 

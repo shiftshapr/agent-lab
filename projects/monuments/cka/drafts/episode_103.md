@@ -555,7 +555,7 @@ Company the host says powers the Turning Point USA app and has Lori Frantzve and
 
 Claim Timestamp: 00:00:01
 
-Claim: The host says President Trump posted her face on a Time magazine cover calling her the most vile person of the year.
+Claim: The host says President Trump suddenly posted her face on Time magazine calling her the most vile person of the year.
 
 Transcript Snippet: Trump suddenly posting my face on Time magazine calling me the most vile person of the year.
 
@@ -721,7 +721,7 @@ Investigative Direction: Request Woodland Park Police Department and Charis Bibl
 
 Claim Timestamp: 00:07:57
 
-Claim: Brian Harpole's court filing, read by the host, states that he did not coordinate with Charis Bible College or the Woodland Police Department because he was not advised Charlie Kirk would visit, and that Charlie Kirk often visited universities with only Dan Flood.
+Claim: Brian Harpole's court filing, read by the host, states that he did not coordinate with Charis Bible College or the Woodland Police Department because he was not advised Charlie Kirk would visit, and that it was not uncommon for Charlie Kirk to visit universities with only Dan Flood.
 
 Transcript Snippet: Harpole did not coordinate with Charis Bible College nor the Woodland Police Department because he was not advised that Charlie would be visiting the school.
 
@@ -1059,7 +1059,7 @@ Investigative Direction: Request Colorado State Patrol and Jefferson County cras
 
 Claim Timestamp: 00:27:27
 
-Claim: The host says Erika Kirk told her that Andrew Kolvet was moved away from PR and that crisis PR was brought in.
+Claim: The host says Andrew Kolvet was supposed to have been moved away from PR and that crisis PR was brought in, at least according to what Erika Kirk told her.
 
 Transcript Snippet: Andrew Colbet, who was supposed to have been, you know, moved away from PR because he was failing miserably at it. They brought in crisis PR, at least that's what Erika told me.
 

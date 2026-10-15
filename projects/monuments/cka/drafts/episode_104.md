@@ -634,7 +634,7 @@ Investigative Direction: Ask CNN and Sidner for the original file's metadata and
 
 Claim Timestamp: 00:10:36
 
-Claim: The host says the White House Military Office panicked because too many people were on the email and tried to recall it, but the recall did not work or worked too late.
+Claim: The host speculates that the White House Military Office panicked because too many people were on the email and attempted to recall it, but the recall did not work or worked too late.
 
 Transcript Snippet: the White House military office uh uh panicked and they attempted to resend the email.
 
@@ -707,7 +707,7 @@ Investigative Direction: Obtain the September 2025 TPUSA internal memo announcin
 
 Claim Timestamp: 00:15:31
 
-Claim: The host says Justin Streiff was the person Erika Kirk brought with her to their four-hour sitdown meeting, and that she asked him there about the TPUSA audit.
+Claim: The host says Justin Streiff was the person Erika Kirk brought with her to their four-hour sitdown meeting, and that she had specifically asked him about the TPUSA audit.
 
 Transcript Snippet: He was, as you will recall, also the person that Erika brought with her for our 4-hour sitdown meeting.
 
@@ -873,7 +873,7 @@ Investigative Direction: Check Winning Team Publishing corporate filings and off
 
 Claim Timestamp: 00:21:13
 
-Claim: The host says Justin Streiff receives money from Winning Team Publishing and would stand to benefit from high book sales, which she calls a possible conflict of interest.
+Claim: The host says Justin Streiff receives money from Winning Team Publishing and, she imagines, would stand to benefit greatly from high book sales, which she later says could be a conflict of interest.
 
 Transcript Snippet: Justin is also receiving money from winning team publishing uh and would I would imagine stand to benefit greatly uh from high book sales.
 
@@ -1059,7 +1059,7 @@ Claim: The host says her team found Captain Adam Nef and determined that he did 
 Transcript Snippet: Yeah, we did find him and we determined that he was did actually uh question Mitch as he said as the story checked out
 
 Anchored Artifacts: A-2580.1
-Mentions: N-320, N-362, N-160, N-3
+Mentions: N-320, N-362, N-3
 Related Nodes: N-10899
 Supports: C-1907
 Investigative Direction: Obtain Fort Huachuca records of the encounter or a statement from Captain Adam Nef.
@@ -1113,7 +1113,7 @@ Investigative Direction: Seek Kolvet's account of the call and any contemporaneo
 
 Claim Timestamp: 00:44:59
 
-Claim: The host says TPUSA is now paying university chapter leaders to keep chapters from closing, which she says was not done while Charlie Kirk was alive.
+Claim: The host says TPUSA is apparently now paying university chapter leaders to keep chapters from closing, which she says was not done while Charlie Kirk was alive.
 
 Transcript Snippet: They actually now I can tell you are incentivizing chapters not to close by paying them. they're paying chapter leaders at universities
 

@@ -581,7 +581,7 @@ The communication in which, per the host, Erika Kirk was "written in as an emoti
 
 Claim Timestamp: 00:00:00
 
-Claim: The host says Thomas Massie lost in Kentucky the day before the episode.
+Claim: The host says Thomas Massie lost in Kentucky.
 
 Transcript Snippet: I know some people are not feeling too happy today because Thomas Massie lost in Kentucky.
 
@@ -655,7 +655,7 @@ Investigative Direction: Recover the archived Instagram story or video with plat
 
 Claim Timestamp: 00:05:43
 
-Claim: Victor Marx says someone texted him that his son was at Charlie Kirk's event, that Kirk had just been shot, and that it did not look good.
+Claim: Victor Marx says someone texted him that the sender's son was at Charlie Kirk's event, that Kirk had just been shot, and that it did not look good.
 
 Transcript Snippet: I I had someone text me and he said, "My son is at Charlie's event and Charlie was just shot.
 
@@ -691,7 +691,7 @@ Claim: Victor Marx says that after posting that Charlie Kirk had died he saw no 
 Transcript Snippet: I put it up and then I didn't see anybody else posting it. I thought it was premature and I I pulled it down cuz it just felt wrong that I would post it.
 
 Anchored Artifacts: A-2600.1
-Mentions: N-342, N-7
+Mentions: N-342, N-1
 Related Nodes: N-10622
 Investigative Direction: Obtain Instagram deletion metadata for the post and any archived copies.
 
@@ -777,7 +777,7 @@ Claim: The host says she is currently being sued by Brian Harpole, whom she call
 Transcript Snippet: I'm currently being sued by Brian Harpole, head of Charlie's security team.
 
 Anchored Artifacts:
-Mentions: N-267, N-3, N-342
+Mentions: N-267, N-3
 Related Nodes: N-10651
 Investigative Direction: Pull the complaint and docket in Harpole's defamation suit against the host.
 
@@ -792,7 +792,7 @@ Claim: The host says that because she is being sued for defamation, her side sen
 Transcript Snippet: I'm being sued for defamation, which is why we sent earlier today Victor Mark's legal preservation letter.
 
 Anchored Artifacts: A-2602.1
-Mentions: N-342, N-267, N-3
+Mentions: N-342, N-267, N-3, N-271
 Related Nodes: N-10651
 Investigative Direction: Obtain the letter and any subsequent subpoena for Marx's September 10, 2025 communications with the security team.
 
@@ -823,7 +823,7 @@ Claim: Victor Marx says he brought his team immediately to relieve the first sec
 Transcript Snippet: we brought our team uh immediately uh to help give relief for the first security team who I knew, who I was in contact with, and they were suffering trauma and exhaustion. They didn't have a secondary.
 
 Anchored Artifacts: A-2600.2
-Mentions: N-342, N-2
+Mentions: N-342
 Investigative Direction: Identify who asked Marx's team to provide security and obtain related communications.
 
 ---
@@ -1121,7 +1121,7 @@ Claim: The host says TPUSA went to the Daily Mail offering to host a private scr
 Transcript Snippet: I mean, how ill-advisable to go to the Daily Mail to say "We're going to host a little private screening with you."
 
 Anchored Artifacts:
-Mentions: N-2
+Mentions: 
 Related Nodes: N-10070, N-10664, N-10000
 Investigative Direction: Review the Daily Mail article describing the screening and request the screened file for forensic analysis.
 

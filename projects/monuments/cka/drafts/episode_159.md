@@ -2461,7 +2461,7 @@ Claim Timestamp: 00:26:34
 
 Claim: The host says that on June 22 Bradley Hansell was confirmed by the Senate as undersecretary of defense for intelligence, with his term set to begin on July 25.
 
-Transcript Snippet: Bradley Hansel is confirmed by the Senate as the under secretary of defense uh for intelligence. His term is set to begin on July 25th.
+Transcript Snippet: Bradley Hansell is confirmed by the Senate as the under secretary of defense uh for intelligence. His term is set to begin on July 25th.
 
 Anchored Artifacts: A-2469.1
 Mentions: N-434
