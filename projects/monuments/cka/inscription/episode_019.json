@@ -759,7 +759,7 @@
       "ref": "N-190",
       "name": "Ryan Matta",
       "type": "person",
-      "description": "Internet investigator cited by host among those pursuing the case \"day in and day out\" despite not having previously known Charlie Kirk.",
+      "description": "Online researcher on X. Listed in this episode by the original extraction, but not named in it; first named in ep34 (2026-10-15 correction).",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -2087,23 +2087,6 @@
       "mentions_person_refs": [
         "N-189",
         "N-27"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-1489",
-      "ref": "C-1489",
-      "label": "Host discussed Ryan Matta in comment / outreach thread",
-      "claim": "Host discusses Ryan Matta in episode comment-thread context (register anchor).",
-      "anchored_artifacts": [
-        "A-1261.1"
-      ],
-      "related_nodes": [],
-      "tags": [],
-      "claim_timestamp": "00:52:00–00:53:00",
-      "investigative_direction": "Identify primary artifact anchor if a dedicated clip exists in a later pass.",
-      "mentions_person_refs": [
-        "N-190"
       ]
     },
     {

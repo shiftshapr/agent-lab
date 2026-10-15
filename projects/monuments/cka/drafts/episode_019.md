@@ -478,7 +478,7 @@ Investigative Pressure: Low
 
 **N-190** Ryan Matta
 
-Internet investigator cited by host among those pursuing the case "day in and day out" despite not having previously known Charlie Kirk.
+Online researcher on X. Listed in this episode by the original extraction, but not named in it; first named in ep34 (2026-10-15 correction).
 
 Evidence Count: 0
 Claim Count: 0
@@ -1224,20 +1224,6 @@ Mentions: N-189, N-27
 
 
 Investigative Direction: Locate the referenced Scott Adams video and timestamp the host mention.
-
----
-
-**C-1489** Host discussed Ryan Matta in comment / outreach thread
-
-Claim Timestamp: 00:52:00–00:53:00
-
-Claim: Host discusses Ryan Matta in episode comment-thread context (register anchor).
-
-Anchored Artifacts: A-1261.1
-Mentions: N-190
-
-
-Investigative Direction: Identify primary artifact anchor if a dedicated clip exists in a later pass.
 
 ---
 
