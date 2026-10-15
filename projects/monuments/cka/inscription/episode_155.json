@@ -531,7 +531,7 @@
       "ref": "N-10849",
       "name": "Woodbury Building / Baugh Family / N88 Plane Connection Question",
       "type": "investigation_target",
-      "description": "Investigative target concerning the relationships between (a) the Baugh family's $5M UVU donation, (b) the Woodbury Business Building, (c) the Baughs' partial ownership of the N88 plane alongside Shirlene and Derek Maxfield, and (d) the placement of the Baugh entrepreneurship program in the Woodbury building. No displayed source artifact in this episode.",
+      "description": "Investigative target concerning the relationships between (a) the Baugh family's $5M UVU donation, (b) the Woodbury Business Building, (c) the Baughs' partial ownership of the N88 plane alongside Shelaine and Derek Maxfield, and (d) the placement of the Baugh entrepreneurship program in the Woodbury building. No displayed source artifact in this episode.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -952,9 +952,9 @@
       "@type": "Person",
       "@id": "N-202",
       "ref": "N-202",
-      "name": "Shirlene Maxfield",
+      "name": "Shelaine Maxfield",
       "type": "person",
-      "description": "Co-owner of the N88 plane ('Shirlene' in the transcript); Saprea figure.",
+      "description": "Co-owner of the N88 plane ('Shelaine' in the transcript); Saprea figure.",
       "related_artifacts": [],
       "related_claims": [
         "C-11893",
@@ -2562,7 +2562,7 @@
       "@id": "C-11893",
       "ref": "C-11893",
       "label": "Host Recalls the Maxfields Had to Issue a Statement About the N88 Plane",
-      "claim": "The host says that in the early hours people noticed a plane that used to be owned in Romania, the N88 plane owned by Derek Maxfield and Shirlene Maxfield, and that they had to come out and give a statement.",
+      "claim": "The host says that in the early hours people noticed a plane that used to be owned in Romania, the N88 plane owned by Derek Maxfield and Shelaine Maxfield, and that they had to come out and give a statement.",
       "anchored_artifacts": [
         "A-3173.1"
       ],

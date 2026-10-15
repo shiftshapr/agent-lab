@@ -837,9 +837,9 @@ Co-owner of the 888 plane per the host and runs a charity she lists.
 
 ---
 
-**N-202** Shirlene Maxfield
+**N-202** Shelaine Maxfield
 
-Transcribed Shirlene; co-owner of the 888 plane and charity per the host.
+Transcribed Shelaine; co-owner of the 888 plane and charity per the host.
 
 *Related: C-11416*
 
@@ -2040,13 +2040,13 @@ Investigative Direction: Confirm the family relationship through public records 
 
 ---
 
-**C-11416** Host Lists Derek and Shailene Maxfield in Her Connecting-Themes Spreadsheet
+**C-11416** Host Lists Derek and Shelaine Maxfield in Her Connecting-Themes Spreadsheet
 
 Claim Timestamp: 00:46:09
 
 Claim: The host says the Maxfields, whose plane left for Page, Arizona that day, run a child abuse and trafficking charity, which she lists in her connecting-themes spreadsheet.
 
-Transcript Snippet: Derek and Shirlene Maxfield, that was that plane that left and went to Paige, Arizona that day. They run a child abuse charity um a trafficking charity uh Sapria
+Transcript Snippet: Derek and Shelaine Maxfield, that was that plane that left and went to Paige, Arizona that day. They run a child abuse charity um a trafficking charity uh Sapria
 
 Anchored Artifacts: A-3132.1
 Mentions: N-94, N-202, N-3

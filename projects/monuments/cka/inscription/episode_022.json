@@ -52,7 +52,7 @@
           "@type": "Artifact",
           "@id": "A-1291.1",
           "ref": "A-1291.1",
-          "description": "Public statement issued by Derek and Shirlene Maxfield on the afternoon of September 11, 2025, read in full on air, addressing tail number N888KG, asserting the plane departed Provo with two pilots and no passengers, picked up Derek Maxfield and seven additional passengers at PGA (Page, Arizona), and that radar services with Denver FAA Center were terminated in mutual agreement approximately 10 miles from PGA.",
+          "description": "Public statement issued by Derek and Shelaine Maxfield on the afternoon of September 11, 2025, read in full on air, addressing tail number N888KG, asserting the plane departed Provo with two pilots and no passengers, picked up Derek Maxfield and seven additional passengers at PGA (Page, Arizona), and that radar services with Denver FAA Center were terminated in mutual agreement approximately 10 miles from PGA.",
           "related_claims": [
             "C-1529",
             "C-1530",
@@ -561,7 +561,7 @@
       "ref": "N-94",
       "name": "Derek Maxfield",
       "type": "person",
-      "description": "Co-owner (with wife Shirlene Maxfield) of plane N888KG that departed Provo at 1:20 p.m. Mountain time on 9/10; issued public statement on 9/11 defending the flight's innocuousness. Investigative target for manifest verification and potential federal coordination.",
+      "description": "Co-owner (with wife Shelaine Maxfield) of plane N888KG that departed Provo at 1:20 p.m. Mountain time on 9/10; issued public statement on 9/11 defending the flight's innocuousness. Investigative target for manifest verification and potential federal coordination.",
       "related_artifacts": [
         "A-1291.1"
       ],
@@ -583,7 +583,7 @@
       "@type": "Person",
       "@id": "N-202",
       "ref": "N-202",
-      "name": "Shirlene Maxfield",
+      "name": "Shelaine Maxfield",
       "type": "person",
       "description": "Co-owner (with husband Derek Maxfield) of plane N888KG; co-signatory of the September 11 public statement.",
       "related_artifacts": [
@@ -2182,7 +2182,7 @@
       "@id": "C-9401",
       "ref": "C-9401",
       "label": "Maxfield plane co-owned by Casey Baugh",
-      "claim": "The host says the plane owned by Derek and Shirlene Maxfield is also co-owned by a person named Casey Baugh, who she says did not register on internet radar.",
+      "claim": "The host says the plane owned by Derek and Shelaine Maxfield is also co-owned by a person named Casey Baugh, who she says did not register on internet radar.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10849"
