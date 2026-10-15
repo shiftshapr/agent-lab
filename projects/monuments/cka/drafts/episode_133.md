@@ -854,7 +854,7 @@ Investigative Direction: Confirm by independent review of the video file; verify
 **C-3159** Erika Kirk is shown using the phrase "be a table" in TPUSA chapter-leader context
 
 Claim Timestamp: 00:40:55–00:41:40
-Claim: A clip shows Erika Kirk instructing TPUSA chapter leaders, "Be a table," and elaborating that when one's table is destroyed, one should become "a roving table yourself."
+Claim: A viewer comment the host reads says Erika Kirk once told people to "be a table"; in the clip the host then plays, Erika Kirk tells TPUSA chapter leaders that if their table keeps getting destroyed, they should "become a roving table yourself."
 Anchored Artifacts: A-2203.1
 Mentions: N-2
 Related Nodes:
@@ -876,7 +876,7 @@ Investigative Direction: Review medical examiner reports and chain-of-custody re
 **C-3161** Jacob Morrison asserts rooftop flash is a position signal; host concurs action appears professional
 
 Claim Timestamp: 00:51:51
-Claim: Viewer Jacob Morrison asserts the rooftop flash is a signal that the shooter was in position. Host concurs: "Sure did look like a professional."
+Claim: Viewer Jacob Morrison writes that he thinks the rooftop flash was a signal that the shooter was in position. Host concurs: "Sure did look like a professional."
 Anchored Artifacts: A-2198.2, A-2204.7
 Related Nodes: N-10754, N-10755
 Investigative Direction: Forensic review of the flash frame-by-frame; compare with published time-to-adjust-sights benchmarks for similar firearms.
@@ -1151,7 +1151,7 @@ Claim: The host says that as shown at the preliminary hearing the recovered rifl
 Transcript Snippet: it had dust in the barrel indicating non-usage
 
 Anchored Artifacts: A-2877.1
-Mentions: N-3, N-40
+Mentions: N-3
 Related Nodes: N-10337, N-10975
 Tags: relevance:core
 Investigative Direction: Read the preliminary hearing transcript for the firearms examiner's testimony on barrel condition.
@@ -1307,7 +1307,7 @@ Investigative Direction: Check City of Richmond announcements and local news fro
 
 Claim Timestamp: 00:22:40
 
-Claim: The host says Richmond fired its inspector general James Osuna after six years, that local news asked why, and that the city said no comments would be made on personnel matters and that NDAs were signed.
+Claim: The host says Richmond fired its inspector general James Osuna after six years, that local news asked why, and that they were told no comments would be made on personnel matters and that NDAs were signed.
 
 Transcript Snippet: No comments will be made on personnel matters and NDAs were signed.
 
@@ -1376,7 +1376,7 @@ Claim: The host says six names are redacted on the version of the manifest relea
 Transcript Snippet: And six peoples whose names are redacted on the version of the manifest that was released in October 2025 by the United States House Committee
 
 Anchored Artifacts: A-2200.3
-Mentions: N-3, N-9, N-5, N-785
+Mentions: N-3, N-5, N-785
 Related Nodes: N-10758, N-10324
 Tags: relevance:context
 Investigative Direction: Obtain the October 2025 House Committee manifest release and check the redactions.
@@ -1435,12 +1435,12 @@ Investigative Direction: Check corporate and press histories of Next Model Manag
 
 Claim Timestamp: 00:31:35
 
-Claim: The host says her team went to Erika Kirk for comment on an allegation about managing modeling apartments, that she would instantly have denied such an allegation, that those alleging it are certain it is true, and that no comment came back.
+Claim: The host says her team went to Erika Kirk for comment on an allegation about managing modeling apartments, that it is something she herself would instantly want to deny, that those alleging it are certain it is true, and that no comment came back.
 
 Transcript Snippet: We went out to Erika for comment. something that I would instantly want to remove myself from and say no that's absolutely not true.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-571
+Mentions: N-3, N-2
 Related Nodes: N-10524
 Supports: C-4729
 Tags: relevance:core
@@ -1501,7 +1501,7 @@ Investigative Direction: Locate Kolvet's public statement and any dated messages
 
 Claim Timestamp: 00:45:12
 
-Claim: The host says that Charlie Kirk 'would not have revealed the private conversation with Trump asking me to stop speaking about Brigitte', calling it a fact; the transcript wording is ambiguous but she presents it as evidence in the dispute over their friendship.
+Claim: The host says that Charlie Kirk 'would not have revealed the private conversation with Trump asking me to stop speaking about Brigitte', calling it a fact and conceding 'point to Andrew.'
 
 Transcript Snippet: Charlie would not have revealed the private conversation with Trump asking me to stop speaking about Brigitte. That's a fact, actually.
 
@@ -1630,7 +1630,7 @@ Investigative Direction: Compare the language across the influencers' posts and 
 
 Claim Timestamp: 00:53:34
 
-Claim: The host says a literal CIA experiment took place in which all but one person in a room of agents were told to call a picture of a banana an apple, to see what the last person would say.
+Claim: The host says a literal CIA experiment took place in which all but one person in a room of agents were told to call a picture of a banana an apple, to see what the last person would say, while saying she is mixing up which fruits were used.
 
 Transcript Snippet: a literal CIA experiment, by the way, that had took place.
 

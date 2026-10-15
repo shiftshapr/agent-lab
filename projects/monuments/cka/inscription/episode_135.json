@@ -1550,8 +1550,8 @@
       "@type": "Claim",
       "@id": "C-3177",
       "ref": "C-3177",
-      "label": "Harpole preliminary hearing testimony content",
-      "claim": "Brian Harpole's preliminary hearing testimony, as played in the episode, states he cut Charlie Kirk's shirt off, then discussed drug administration with the medical staff, then exited the room and guarded the door.",
+      "label": "Harpole Account of ER Actions in Played Clip",
+      "claim": "In a clip the host plays, Brian Harpole says he cut Charlie Kirk's shirt off, then went back and forth with the medical staff on drugs, then exited the room and guarded the door.",
       "anchored_artifacts": [
         "A-2219.1"
       ],
@@ -1759,7 +1759,7 @@
       "@id": "C-3188",
       "ref": "C-3188",
       "label": "Hospital evacuation tip (verbal source)",
-      "claim": "Per host's verbal source (not displayed in this episode), Timpanogos Hospital staff directed ER patients to a different wing at approximately 10:00 a.m. on September 10, 2025.",
+      "claim": "Per host's verbal source (not displayed in this episode), Timpanogos Hospital staff directed ER patients to a different wing at some point in the 10:00 a.m. hour on September 10, 2025.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10765",
@@ -1795,7 +1795,7 @@
       "@id": "C-3190",
       "ref": "C-3190",
       "label": "Previous Utah Valley Hospital file reference",
-      "claim": "The host says a patient file for Charlie Kirk was previously confirmed visible in the Utah Valley Hospital / Intermountain Health electronic system, as she originally displayed in an October 28, 2025 episode.",
+      "claim": "The host says a patient file for Charlie Kirk, leaked to her show, appeared in the Utah Valley Hospital / Intermountain Health electronic system, as she originally displayed in an October 28, 2025 episode.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10770"
@@ -2070,7 +2070,7 @@
       "@id": "C-11646",
       "ref": "C-11646",
       "label": "Host Says After the Preliminary Hearing She Suspects Lance Could Have Set Up Tyler",
-      "claim": "The host says that after listening to the preliminary hearing she suspects Tyler Robinson could plausibly have been set up by Lance Twiggs, since Lance's prints are everywhere in the home and Tyler could have had a login to his boyfriend's Discord.",
+      "claim": "The host says that after listening to the preliminary hearing she suspects Tyler Robinson could plausibly have been set up by Lance Twiggs, since Lance's prints are everywhere, he lives with Tyler, and he could plausibly have had a login to his boyfriend's Discord.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10703",
@@ -2349,7 +2349,7 @@
       "@id": "C-11659",
       "ref": "C-11659",
       "label": "Host Says Dr. Amaro Has Left Utah",
-      "claim": "The host says Dr. Deirdre Amaro has left the Utah medical examiner's office and is no longer in Utah.",
+      "claim": "The host says Dr. Deirdre Amaro has left the building and is no longer at Utah.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10749",
@@ -2919,7 +2919,7 @@
       "@id": "C-11685",
       "ref": "C-11685",
       "label": "Anesthesiologist Email Says the Security Team Got Him Out in a Highly Rehearsed Fashion",
-      "claim": "The anesthesiologist's email, which the host says is the writer's opinion and not hers, says Charlie was murdered by a shaped charge on his chest and that the security team acted in a highly rehearsed fashion to get him out before anyone could see what happened.",
+      "claim": "The anesthesiologist's email, which the host says is the writer's opinion and not hers, says that in the writer's estimation Charlie was murdered by a shaped charge on his chest and that the security team acted in a highly rehearsed fashion to get him out before anyone could see what happened.",
       "anchored_artifacts": [
         "A-2220.1"
       ],
@@ -3075,7 +3075,7 @@
       "@id": "C-11692",
       "ref": "C-11692",
       "label": "Host Says the Rooftop Figure's Military Crawling Has Been Proven",
-      "claim": "The host says it has been proven that the person on the rooftop military crawled and got into position before the bang.",
+      "claim": "The host says it has been proven true that the person on the rooftop was military crawling, and that the witness saw the person get down into a position before the bang.",
       "anchored_artifacts": [
         "A-2222.1"
       ],

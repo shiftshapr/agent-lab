@@ -898,7 +898,7 @@ Investigative Direction: Verify against the Margaret Truman Daniel biography Har
 
 **C-3108** Canaanism Founded 1939; Adherents Mostly Former Irgun/Lehi Members
 
-Claim Timestamp: 00:06:31
+Claim Timestamp: 00:05:50
 
 Claim: A Wikipedia entry referenced on air states that Canaanism was a cultural and ideological movement founded in 1939, peaking in the 1940s, with most members being former members of Irgun or Lehi.
 
@@ -923,7 +923,7 @@ Investigative Direction: Obtain the full 1976 Time article and corroborating con
 
 Claim Timestamp: 00:36:31
 
-Claim: Andrew Kolvet's X post asserts that Candace Owens was behind the Daily Mail article and used it as "rage bait."
+Claim: Per Andrew Kolvet's X post as the host reads it, the Daily Mail was "doing the bidding of Candace Owens," who used the article as "rage bait" on her show, and "maybe she's the anonymous source"; the host says this amounts to Kolvet saying she was behind the article.
 
 Anchored Artifacts: A-2174.1
 Mentions: N-14, N-3
@@ -933,7 +933,7 @@ Investigative Direction: Verify by retrieving the original Kolvet tweet thread v
 
 **C-3111** Kolvet Asserted Daily Mail Did Not Request Comment Before Publication
 
-Claim Timestamp: 00:36:31
+Claim Timestamp: 00:35:58
 
 Claim: Per Andrew Kolvet's X post as the host reads it, the Kirk organization never received a request for comment from the Daily Mail, and they were told one was attempted but could not find it.
 
@@ -1112,7 +1112,7 @@ Investigative Direction: Check scholarly sources on whether Irgun is classified 
 
 Claim Timestamp: 00:06:31
 
-Claim: The host says Benjamin Emanuel was a member of Irgun and is the father of Hollywood agent Ari Emanuel and former Chicago mayor Rahm Emanuel.
+Claim: The host says Benjamin Emanuel was a member of Irgun and is the father of Ari Emanuel, whom she calls one of the most powerful men in Hollywood, and of former Chicago mayor Rahm Emanuel.
 
 Transcript Snippet: One of its members was a man named Benjamin Emanuel. That is the father of Ari Emanuel, one of the most powerful, if not the most powerful man in Hollywood.
 
@@ -1979,7 +1979,7 @@ Investigative Direction: Obtain the Daily Mail request email with headers and th
 
 Claim Timestamp: 00:38:03
 
-Claim: The host says TPUSA chose the Daily Mail and sent it the video of Charlie Kirk naming Erika Kirk, which the public is not allowed to see, as proof of an established relationship.
+Claim: The host, addressing Andrew Kolvet, says he and his colleagues have proven they work with the Daily Mail because they chose it and sent it the video of Charlie Kirk naming Erika Kirk, which the public is not allowed to see, so they cannot pretend they have no established relationship with it.
 
 Transcript Snippet: you chose them and sent them the video of Erika Kirk being named by Charlie Kirk. The public's not allowed to see it, but the Daily Mail was allowed to see it.
 
@@ -2059,7 +2059,7 @@ Claim: The host alleges Erika Kirk called priests and others and told them to pu
 Transcript Snippet: what I'm saying about her calling priests and calling people and telling them to pull out of a Catholic prayer event because I was going to be praying?
 
 Anchored Artifacts: 
-Mentions: N-2, N-3, N-14
+Mentions: N-2, N-3
 Supports: C-4394
 
 Investigative Direction: Interview the clergy or event organizers contacted about the Catholic prayer event.
@@ -2186,7 +2186,7 @@ Claim: The host says she and Charlie Kirk would often hand their phones to their
 Transcript Snippet: it is also a plausibility that Charlie gave his phone um to Mikey just ahead of the event cuz I did that a lot with Charlie.
 
 Anchored Artifacts: A-2176.1
-Mentions: N-1, N-191, N-3, N-160
+Mentions: N-1, N-191, N-3
 Related Nodes: N-10746
 Qualifies: C-3114
 
@@ -2232,7 +2232,7 @@ Investigative Direction: Collect the emails and have a textile expert review the
 
 Claim Timestamp: 00:50:31
 
-Claim: The host says a viewer comment quotes Blake Neff saying "I'll never forget" about Mikey's quivering lip and calling Erika, while she says Mikey was already on the phone and Neff has amnesia about it.
+Claim: A viewer comment the host reads quotes Blake Neff saying "I'll never forget"; the host says Neff, who she says now has amnesia, recalled Mikey's quivering lip and calling Erika, though Mikey was already on the phone.
 
 Transcript Snippet: That's a quotation from Blake Neff, who now has amnesia.
 

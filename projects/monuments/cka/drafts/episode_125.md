@@ -495,7 +495,7 @@ John Mappin; husband of Irina Mappin.
 
 **N-156** Irina Mappin
 
-Irina Mappin (transcript Irina; node alias Arina Mappin); told the host about Russian speakers at the memorial.
+Irina Mappin (transcript Irina; node alias Irina Mappin); told the host about Russian speakers at the memorial.
 
 *Related: C-5880*
 

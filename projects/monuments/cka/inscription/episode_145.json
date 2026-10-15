@@ -43,13 +43,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2311",
       "family_ref": "A-2311",
-      "bundle_name": "John & Arina Mappin Article Bundle",
+      "bundle_name": "John & Irina Mappin Article Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2311.1",
           "ref": "A-2311.1",
-          "description": "\"Candace Owens, Charlie Kirk, and the Pursuit of Truth\" – October 6, 2025 article by John and Arina Mappin; host read aloud extended excerpt",
+          "description": "\"Candace Owens, Charlie Kirk, and the Pursuit of Truth\" – October 6, 2025 article by John and Irina Mappin; host read aloud extended excerpt",
           "related_claims": [
             "C-3326",
             "C-3327"
@@ -911,7 +911,7 @@
       "ref": "N-156",
       "name": "Irina Mappin",
       "type": "person",
-      "description": "Arina Mappin; friend and supporter of the host.",
+      "description": "Irina Mappin; friend and supporter of the host.",
       "related_artifacts": [],
       "related_claims": [
         "C-13285",
@@ -1843,7 +1843,7 @@
       "@id": "C-13285",
       "ref": "C-13285",
       "label": "Host Says She Met Her Husband at a 2018 London Event Hosted by the Mappins",
-      "claim": "The host says she met her husband George at an event in London hosted by John and Arina Mappin in 2018 where she and Charlie Kirk were on stage, after George phoned the Mappins to ask to attend.",
+      "claim": "The host says she met her husband George at an event in London hosted by John and Irina Mappin in 2018 where she and Charlie Kirk were on stage, after George phoned the Mappins to ask to attend.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -1865,7 +1865,7 @@
       "@id": "C-13286",
       "ref": "C-13286",
       "label": "Host Says Mappin Introductions Launched Turning Point USA Financially",
-      "claim": "The host says John and Arina Mappin helped bring Charlie Kirk and Turning Point USA to the next level by making introductions that launched the organization into a different financial stratosphere.",
+      "claim": "The host says John and Irina Mappin helped bring Charlie Kirk and Turning Point USA to the next level by making introductions that launched the organization into a different financial stratosphere.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -1887,7 +1887,7 @@
       "@id": "C-13287",
       "ref": "C-13287",
       "label": "Host Says Charlie, Erika and the Mappins Traveled to Israel Together",
-      "claim": "The host says Charlie Kirk and Erika Kirk went to Israel together with John and Arina Mappin, who she says invited them.",
+      "claim": "The host says Charlie Kirk and Erika Kirk went to Israel together with John and Irina Mappin, who she says invited them.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026"

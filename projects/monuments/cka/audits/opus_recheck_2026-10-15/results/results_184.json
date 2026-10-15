@@ -1,0 +1,753 @@
+[
+ {
+  "claim": "C-14769",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14770",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14771",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14772",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14773",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14774",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14775",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names only Lt. Col. Kolvet (the brother); Andrew Kolvet (N-14) is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-691"
+   ]
+  }
+ },
+ {
+  "claim": "C-14776",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14777",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host self-corrects: \"by the nature of what Erika's family does, I what his family does, he's heard of Fort Huachuca.\"",
+  "fix": {
+   "claim": "The host says she believes Andrew Kolvet has heard of Fort Huachuca given where he lives and what his family does (she first says Erika's family, then corrects herself), and that she thinks he is lying about not knowing it."
+  }
+ },
+ {
+  "claim": "C-14778",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Said in a sarcastic voice after '>>' interjection; treated as host.",
+  "fix": {}
+ },
+ {
+  "claim": "C-14779",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14780",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14781",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14782",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14783",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Hedge dropped: \"We can't just follow exactly the tracks of where the alleged shooter on the rooftop went.\"",
+  "fix": {
+   "claim": "The host says Utah has cameras all across the state and yet no clear shot of Tyler Robinson has been produced, and that the alleged shooter's track on the rooftop cannot be followed."
+  }
+ },
+ {
+  "claim": "C-14784",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14785",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14786",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14787",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14788",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14789",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name or refer to Tyler Robinson (N-40); it only says she would testify for the prosecution or the defense.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-14790",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14791",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14792",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14793",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14794",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"they're going to try to make us believe... the bringing the people that he hated, trying to lie and say they were his friends. There's no way that any actually grieving widow would allow that\" - framed as 'they', with Erika allowing it.",
+  "fix": {
+   "claim": "The host says Erika Kirk reversed course on everything Charlie believed, and that no grieving widow would allow the reversals, the bringing in of people he hated and the lie that they were his friends."
+  }
+ },
+ {
+  "claim": "C-14795",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14796",
+  "episode": 128,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3083",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Upload 2026-07-21; host says the article \"did drop yesterday evening\" and \"according to a family friend, refers to me as that b\".",
+  "fix": {}
+ },
+ {
+  "claim": "C-3084",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3085",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3086",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3087",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3088",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3089",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3090",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3091",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3092",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3093",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Clip begins ~14:05; \"his lip was quivering\" ~15:05 and \"within a minute of all of this occurring\" ~15:35 in the 14:48 block, over 75s after 13:40.",
+  "fix": {
+   "timestamp": "00:14:58"
+  }
+ },
+ {
+  "claim": "C-3094",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The feed does not name anyone; the host identifies the men (10:36) and dates arrival from the Trump tweet the anchor reads: \"That is what allows us to date what time they walked into Timpanogos.\"",
+  "fix": {
+   "claim": "In a Fox 5 Atlanta newsroom feed the host plays, Blake Neff, Danny Philip, Mikey McCoy, and Nate Walker are shown walking into Timpanogos Regional Hospital; the host dates their arrival to about 1:02 PM local time from a Donald Trump tweet the anchor reads during the broadcast."
+  }
+ },
+ {
+  "claim": "C-3095",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "At 10:36 host says Neff arrived at the hospital \"with Danny Philip... Mikey McCoy, and Nate Walker\"; the same-SUV statement at 11:37 is about the ride to the event: \"Danny and Blake Neff were in that second SUV together.\"",
+  "fix": {
+   "claim": "The host says Blake Neff arrived at the hospital with Danny Philip, Mikey McCoy and Nate Walker, and that Neff and Philip rode to the event together in the second SUV, separate from Charlie Kirk's vehicle.",
+   "mentions": [
+    "N-368",
+    "N-1",
+    "N-160",
+    "N-191",
+    "N-505"
+   ]
+  }
+ },
+ {
+  "claim": "C-3096",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"Shortly after 12:25 PM\" is not stated; host says Danny called Mikey after Mikey's 9-10 minute call with his wife: \"And then Danny calls Mikey. And they stay on the phone for 10 minutes.\"",
+  "fix": {
+   "claim": "The host says Danny Philip – newly hired Turning Point USA employee – was at the UVU event and is recorded in a 10-minute phone call with Mikey McCoy after Mikey's call with his wife in the aftermath."
+  }
+ },
+ {
+  "claim": "C-3097",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3098",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3099",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3100",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3101",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Hedge dropped: Neff says \"making effectively every episode of her show finding some new way to target Erika\".",
+  "fix": {
+   "claim": "In a Twitter Space clip the host plays, Blake Neff says nothing compares to Candace Owens spending 10 months making effectively every episode target Erika and Turning Point, and says he does not think Alex Jones made the Sandy Hook parents the only subject of his show for a 10-month period."
+  }
+ },
+ {
+  "claim": "C-3102",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3103",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3104",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3105",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3106",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11561",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11562",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11563",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11564",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11565",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11566",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11567",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11568",
+  "episode": 129,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

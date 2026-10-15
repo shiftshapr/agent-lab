@@ -41,13 +41,13 @@ Episode 144 Ledger Summary:
 - Claim Range: C-3313–C-3325
 - New Nodes Introduced (people): none (Wave 2: local ids removed)
 - New Nodes Introduced (investigation targets): N-10810, N-10811, N-10812, N-10813
-- Existing Nodes Reused: Recurring figures (Charlie Kirk, Erika Kirk, Tyler Robinson, Tyler Bowyer, Terryl Farnsworth, Philip Goldsbury, Andrew Kolvet, Blake Neff, Allan Robertson, etc.) – see Optional Flags
+- Existing Nodes Reused: Recurring figures (Charlie Kirk, Erika Kirk, Tyler Robinson, Tyler Bowyer, Terryl Farnsworth, Philip Goldsberry, Andrew Kolvet, Blake Neff, Allan Robertson, etc.) – see Optional Flags
 
 ---
 
 ## II. Executive Summary
 
-Episode 144 advances two parallel investigative threads: (1) chain-of-custody concerns surrounding Terryl Farnsworth's handling of the camera SD card within minutes of Charlie Kirk's shooting, supported by freshly displayed footage of Terryl on his laptop and his interaction with Philip Goldsbury, and (2) the modification of the aspect ratio in the 20-minute sizzle reel played at the preliminary hearing, supported by displayed footage in normal and slow-motion and by an emailed statement from an anonymous federal court employee. The episode also presents direct audio from a TPUSA-affiliated podcast (Andrew Kolvet and Blake Neff's "Beavis and Butt-Head" show with guest Andrew Wilson), capturing Kolvet's claims that Candace conceded the debate and threatened to "burn down" TPUSA, and Wilson's on-air pushback against Kolvet's "Hitler apologist" framing. A November 2023 clip of Charlie Kirk calling Candace "on our team" is replayed as counter-evidence to claims that the friendship ended in 2018. The episode's structural importance lies in its juxtaposition of new forensic-style footage (laptop activity, aspect-ratio demonstration) against contemporaneous Kolvet text/call artifacts, reinforcing the investigation's claim that TPUSA insiders are the source of the framing Candace is accused of holding.
+Episode 144 advances two parallel investigative threads: (1) chain-of-custody concerns surrounding Terryl Farnsworth's handling of the camera SD card within minutes of Charlie Kirk's shooting, supported by freshly displayed footage of Terryl on his laptop and his interaction with Philip Goldsberry, and (2) the modification of the aspect ratio in the 20-minute sizzle reel played at the preliminary hearing, supported by displayed footage in normal and slow-motion and by an emailed statement from an anonymous federal court employee. The episode also presents direct audio from a TPUSA-affiliated podcast (Andrew Kolvet and Blake Neff's "Beavis and Butt-Head" show with guest Andrew Wilson), capturing Kolvet's claims that Candace conceded the debate and threatened to "burn down" TPUSA, and Wilson's on-air pushback against Kolvet's "Hitler apologist" framing. A November 2023 clip of Charlie Kirk calling Candace "on our team" is replayed as counter-evidence to claims that the friendship ended in 2018. The episode's structural importance lies in its juxtaposition of new forensic-style footage (laptop activity, aspect-ratio demonstration) against contemporaneous Kolvet text/call artifacts, reinforcing the investigation's claim that TPUSA insiders are the source of the framing Candace is accused of holding.
 
 ---
 
@@ -64,7 +64,7 @@ Confidence Level: Medium (footage shown; SD-card interpretation is host read)
 
 *Related: C-3313, C-3314*
 
-**A-2301.2** Footage: Terryl showing his laptop screen to Philip Goldsbury at the crime scene
+**A-2301.2** Footage: Terryl showing his laptop screen to Philip Goldsberry at the crime scene
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:02:00–00:04:10
@@ -342,7 +342,7 @@ Investigative Pressure: High
 
 **N-10812** Terryl Farnsworth Evidence-Handling Question
 
-Persistent target concerning Terryl's stated intent, sequence of actions, and consultation with Philip Goldsbury in the immediate aftermath of the shooting.
+Persistent target concerning Terryl's stated intent, sequence of actions, and consultation with Philip Goldsberry in the immediate aftermath of the shooting.
 
 Evidence Count: 2
 Claim Count: 1
@@ -717,18 +717,18 @@ Investigative Direction: Obtain the original raw footage and forensic metadata t
 
 ---
 
-**C-3314** Host Says Footage Shows Terryl Showing Laptop Content to Philip Goldsbury Shortly After the Shooting
+**C-3314** Host Says Footage Shows Terryl Showing Laptop Content to Philip Goldsberry Shortly After the Shooting
 
 Claim Timestamp: 00:02:00–00:04:10
 
-Claim: The host says the episode footage shows Terryl Farnsworth displaying content on his laptop screen to Philip Goldsbury approximately 10 minutes after Charlie Kirk was hit.
+Claim: The host says the episode footage shows Terryl Farnsworth displaying content on his laptop screen to Philip Goldsberry approximately 10 minutes after Charlie Kirk was hit.
 
 Anchored Artifacts: A-2301.2
 Mentions: N-262, N-1
 
 Related Nodes: N-10812
 
-Investigative Direction: Identify and interview Philip Goldsbury regarding the content shown; obtain his contemporaneous account.
+Investigative Direction: Identify and interview Philip Goldsberry regarding the content shown; obtain his contemporaneous account.
 
 ---
 
@@ -2337,8 +2337,8 @@ Confidence: high
 
 ## VII. Optional Flags
 
-- **Name uncertainty:** "Terryl Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kolvet" and "Kolvet"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Allan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Knowles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
-- **Wave 1 reconciliation:** Terryl Farnsworth is N-262, Andrew Kolvet is N-14, Blake Neff is N-160, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-10141.. never denoted these people and claim references were retargeted.
+- **Name uncertainty:** "Terryl Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsberry" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kolvet" and "Kolvet"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Allan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Knowles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
+- **Wave 1 reconciliation:** Terryl Farnsworth is N-262, Andrew Kolvet is N-14, Blake Neff is N-160, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsberry and David Hull have no CKA person node. The topic ids N-10141.. never denoted these people and claim references were retargeted.
 - **Likely-existing investigation targets flagged:** N-10810 (SD card chain of custody), N-10811 (aspect ratio modification), N-10812 (Terryl handling), N-10813 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
 - **Anonymous source:** A-2303.1 (federal-court employee email) is anonymous; the host explicitly preserves the sender's anonymity. Treat C-3319 as a single-source claim until corroborated.
 - **Transcript ambiguity:** The "Beavis and Butt-Head" podcast name is used by the host as a pejorative descriptor for the Kolvet/Neff show; it is unclear whether this is also the show's actual title or solely a rhetorical label.

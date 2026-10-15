@@ -4235,7 +4235,6 @@
       "investigative_direction": "Verify the unit, dates and orders for the trip through the Army or the National Guard.",
       "transcript_snippet": "And two of those days were travel days as I visited my military police unit training with the base military police from Huachuca.",
       "mentions_person_refs": [
-        "N-14",
         "N-691"
       ]
     },
@@ -4267,7 +4266,7 @@
       "@id": "C-14777",
       "ref": "C-14777",
       "label": "Host Says She Believes Andrew Kolvet Has Heard of Fort Huachuca Given Where He Lives and Erika's Family",
-      "claim": "The host says she believes Andrew Kolvet has heard of Fort Huachuca given where he lives and what Erika's family does, and that she thinks he is lying about not knowing it.",
+      "claim": "The host says she believes Andrew Kolvet has heard of Fort Huachuca given where he lives and what his family does (she first says Erika's family, then corrects herself), and that she thinks he is lying about not knowing it.",
       "anchored_artifacts": [
         "A-3343.1"
       ],
@@ -4394,7 +4393,7 @@
       "@id": "C-14783",
       "ref": "C-14783",
       "label": "Host Says Utah Has Cameras Statewide Yet No Clear Shot of Tyler Robinson",
-      "claim": "The host says Utah has cameras all across the state and yet no clear shot of Tyler Robinson has been produced, and that the shooter's track on the rooftop cannot be followed.",
+      "claim": "The host says Utah has cameras all across the state and yet no clear shot of Tyler Robinson has been produced, and that the alleged shooter's track on the rooftop cannot be followed.",
       "anchored_artifacts": [
         "A-3344.1"
       ],
@@ -4548,8 +4547,7 @@
       "investigative_direction": "Watch the witness lists in the Robinson case for any subpoena to the host.",
       "transcript_snippet": "I would testify for the prosecution or the defense cuz the truth is the truth.",
       "mentions_person_refs": [
-        "N-3",
-        "N-40"
+        "N-3"
       ]
     },
     {
@@ -4657,7 +4655,7 @@
       "@id": "C-14794",
       "ref": "C-14794",
       "label": "Host Says Erika Brought In People Charlie Hated and Said They Were His Friends",
-      "claim": "The host says Erika Kirk reversed Charlie's positions, brought in people he hated, and tried to lie and say they were his friends.",
+      "claim": "The host says Erika Kirk reversed course on everything Charlie believed, and that no grieving widow would allow the reversals, the bringing in of people he hated and the lie that they were his friends.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [

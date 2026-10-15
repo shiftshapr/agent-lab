@@ -1517,7 +1517,7 @@
         "N-10773"
       ],
       "tags": [],
-      "claim_timestamp": "00:12:18",
+      "claim_timestamp": "00:11:14",
       "investigative_direction": "Obtain the body cam file metadata and manufacturer battery-life specifications to verify whether 27 minutes is plausible as a battery depletion event.",
       "mentions_person_refs": [
         "N-507"
@@ -1715,7 +1715,7 @@
       "@type": "Claim",
       "@id": "C-3206",
       "ref": "C-3206",
-      "label": "Erika Kirk stated she does not know what Charlie Kirk would think about war with Iran",
+      "label": "Erika Kirk Says Her Husband Is Not Here to Say Whether the US Should Be at War With Iran",
       "claim": "In a media clip played during the episode, Erika Kirk stated that her husband is not here to say whether or not the US should be at war with Iran, and that \"we\" do not want US boots on the ground or American kinetic involvement.",
       "anchored_artifacts": [
         "A-2231.1"
@@ -1768,7 +1768,7 @@
       "@id": "C-3209",
       "ref": "C-3209",
       "label": "Frank Turek Describes \"Yanking and Banking\" Into the Hospital Parking Lot",
-      "claim": "In a Frank Turek interview clip, Turk uses the phrase \"yanking and banking\" to describe what the group was doing as they pulled into the hospital parking lot with Kirk.",
+      "claim": "In a Frank Turek interview clip, Turek uses the phrase \"yanking and banking\" to describe what the group was doing as they pulled into the hospital parking lot with Kirk.",
       "anchored_artifacts": [
         "A-2225.1"
       ],
@@ -1777,7 +1777,8 @@
       "claim_timestamp": "00:06:18",
       "investigative_direction": "Obtain the full Frank Turek interview and clarify what \"yanking and banking\" refers to in context (procedure vs. colloquial expression).",
       "mentions_person_refs": [
-        "N-7"
+        "N-7",
+        "N-1"
       ]
     },
     {
@@ -1797,7 +1798,8 @@
       "claim_timestamp": "00:18:43",
       "investigative_direction": "Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction.",
       "mentions_person_refs": [
-        "N-507"
+        "N-507",
+        "N-751"
       ]
     },
     {
@@ -1919,7 +1921,7 @@
       "@id": "C-11707",
       "ref": "C-11707",
       "label": "Host Recounts Being Told Cutler Only Held Harpole in the Car",
-      "claim": "The host recounts that the group was told Rick Cutler did nothing but hold Brian Harpole with two hands so he would not fall out of the car, and asks whether Cutler would need gloves for that, using a diagram.",
+      "claim": "The host recounts being told that Rick Cutler did nothing but hold Brian Harpole with two hands so he would not fall out of the car, and asks whether Cutler would need gloves for that, using a diagram.",
       "anchored_artifacts": [
         "A-3153.1"
       ],
@@ -1945,7 +1947,7 @@
       "@id": "C-11708",
       "ref": "C-11708",
       "label": "Host Says Cutler Allegedly Stripped Down His Clothes at the Hospital",
-      "claim": "The host says Rick Cutler was among those who allegedly stripped off clothes at the hospital, and says Frank Turek has been open about doing so.",
+      "claim": "The host says Rick Cutler was among those who allegedly stripped off clothes at the hospital, and says she thinks Frank Turek has been open about doing so.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10688"
@@ -2104,7 +2106,7 @@
       "@id": "C-11715",
       "ref": "C-11715",
       "label": "Host Says Bagley Went Up After the FBI Had Arrived and Started Securing the Scene",
-      "claim": "The host says Bagley went onto the Losi rooftop after the feds had arrived and begun securing the scene, so any plainclothes companion would have been up there during the FBI's lockdown.",
+      "claim": "The host says Bagley went onto the Losi rooftop after the feds had arrived and begun securing the scene, and argues the FBI would not allow just anybody in plain clothes onto the rooftop.",
       "anchored_artifacts": [
         "A-2226.1"
       ],
@@ -2269,7 +2271,7 @@
       "@id": "C-11722",
       "ref": "C-11722",
       "label": "Host Says Robertson Seems to Be Calling the Shots From Farnsworth to Bagley",
-      "claim": "The host says there seems to be an immediate understanding from Terryl Farnsworth to Officer Bagley that Robertson is calling the shots and is in command of the post-assassination operation.",
+      "claim": "The host asks why everyone from Terryl Farnsworth to Officer Bagley is seemingly providing coverage for a rookie, and says there seems to be an immediate understanding that Robertson is calling the shots, as though he is in command of the post-assassination operation.",
       "anchored_artifacts": [
         "A-2227.1"
       ],
@@ -2352,7 +2354,7 @@
       "investigative_direction": "Search the Brady List site for officers from other departments to confirm that not all officers are listed.",
       "transcript_snippet": "I searched online and said nope that's not what they do.",
       "mentions_person_refs": [
-        "N-751"
+        "N-3"
       ]
     },
     {
@@ -2457,8 +2459,8 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:core",
-        "DIA"
+        "DIA",
+        "relevance:context"
       ],
       "claim_timestamp": "00:25:07",
       "investigative_direction": "Not applicable beyond tracking tip volume and follow-up on the Robertson thread.",
@@ -2829,7 +2831,7 @@
       "@id": "C-11747",
       "ref": "C-11747",
       "label": "Host Says Israel Finances Migration Campaigns Into Europe While Blaming Arabs",
-      "claim": "The host asserts that Israel's agency (spelled 'Mossad') finances campaigns for people to run over borders into territories Israel is bombing, to eradicate Europeans through deception while blaming Arabs.",
+      "claim": "The host asserts that white Europeans are being eradicated through deception, 'as is the Mossad motto', with 'they' blaming the Arabs while financing campaigns for them to run over borders in territories that Israel is bombing for Israel's expansion.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [

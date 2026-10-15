@@ -764,7 +764,7 @@ Investigative Direction: Verify the 12:39 PM arrival timestamp against UVU campu
 
 **C-3195** Officer Bagley's body cam ran 27 min 35 sec and ended on the Losi rooftop
 
-Claim Timestamp: 00:12:18
+Claim Timestamp: 00:11:14
 
 Claim: In a preliminary-hearing clip the host plays, a questioner describes Officer Bagley's body cam as 27 minutes 35 seconds, starting at the Hall of Flags and ending while he was still on the roof before crime tape was up, and Bagley agrees it is his only body cam footage that day.
 
@@ -915,7 +915,7 @@ Investigative Direction: Obtain the original CNN article and any underlying Pent
 
 ---
 
-**C-3206** Erika Kirk stated she does not know what Charlie Kirk would think about war with Iran
+**C-3206** Erika Kirk Says Her Husband Is Not Here to Say Whether the US Should Be at War With Iran
 
 Claim Timestamp: 00:37:43
 
@@ -958,10 +958,10 @@ Investigative Direction: Source the original archived segment to verify date, ve
 
 Claim Timestamp: 00:06:18
 
-Claim: In a Frank Turek interview clip, Turk uses the phrase "yanking and banking" to describe what the group was doing as they pulled into the hospital parking lot with Kirk.
+Claim: In a Frank Turek interview clip, Turek uses the phrase "yanking and banking" to describe what the group was doing as they pulled into the hospital parking lot with Kirk.
 
 Anchored Artifacts: A-2225.1
-Mentions: N-7
+Mentions: N-7, N-1
 Related Nodes:
 
 Investigative Direction: Obtain the full Frank Turek interview and clarify what "yanking and banking" refers to in context (procedure vs. colloquial expression).
@@ -975,7 +975,7 @@ Claim Timestamp: 00:18:43
 Claim: In a clip the host plays, YouTuber Nissi asserts that Officer Bagley failed to mention (a) the red-hat man alerting him to the holster, (b) any pre-rooftop conversation with the red-hat man, and (c) the suspicious timing of his body cam stopping at a convenient moment.
 
 Anchored Artifacts: A-2233.1
-Mentions: N-507
+Mentions: N-507, N-751
 Related Nodes: N-10772, N-10773
 
 Investigative Direction: Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction.
@@ -1068,7 +1068,7 @@ Investigative Direction: Locate the Harpole interview where the nurse account is
 
 Claim Timestamp: 00:05:31
 
-Claim: The host recounts that the group was told Rick Cutler did nothing but hold Brian Harpole with two hands so he would not fall out of the car, and asks whether Cutler would need gloves for that, using a diagram.
+Claim: The host recounts being told that Rick Cutler did nothing but hold Brian Harpole with two hands so he would not fall out of the car, and asks whether Cutler would need gloves for that, using a diagram.
 
 Transcript Snippet: And we were told that Rick Cutler didn't do nothing but hold Brian Harpole with a tattoo.
 
@@ -1085,7 +1085,7 @@ Investigative Direction: Compare Harpole's and Cutler's own recorded accounts of
 
 Claim Timestamp: 00:05:31
 
-Claim: The host says Rick Cutler was among those who allegedly stripped off clothes at the hospital, and says Frank Turek has been open about doing so.
+Claim: The host says Rick Cutler was among those who allegedly stripped off clothes at the hospital, and says she thinks Frank Turek has been open about doing so.
 
 Transcript Snippet: Now, we also told you that Rick was among those who allegedly stripped down his clothes at the hospital.
 
@@ -1200,7 +1200,7 @@ Investigative Direction: Compare the 12:44 arrival with the 12:47 bystander clip
 
 Claim Timestamp: 00:13:11
 
-Claim: The host says Bagley went onto the Losi rooftop after the feds had arrived and begun securing the scene, so any plainclothes companion would have been up there during the FBI's lockdown.
+Claim: The host says Bagley went onto the Losi rooftop after the feds had arrived and begun securing the scene, and argues the FBI would not allow just anybody in plain clothes onto the rooftop.
 
 Transcript Snippet: I want to underscore that officer Baggley went onto Losi rooftop after the feds had arrived and had secured and began securing the scene.
 
@@ -1314,7 +1314,7 @@ Investigative Direction: Obtain the UVU police body-camera model specifications 
 
 Claim Timestamp: 00:19:23
 
-Claim: The host says there seems to be an immediate understanding from Terryl Farnsworth to Officer Bagley that Robertson is calling the shots and is in command of the post-assassination operation.
+Claim: The host asks why everyone from Terryl Farnsworth to Officer Bagley is seemingly providing coverage for a rookie, and says there seems to be an immediate understanding that Robertson is calling the shots, as though he is in command of the post-assassination operation.
 
 Transcript Snippet: there seems to be an immediate understanding that this Allan Robertson character who shall not be named is calling the shots.
 
@@ -1367,7 +1367,7 @@ Claim: The host says she checked whether there is an entry for every officer in 
 Transcript Snippet: I searched online and said nope that's not what they do.
 
 Anchored Artifacts: A-2229.1
-Mentions: N-751
+Mentions: N-3
 Related Nodes: N-11309, N-10774
 Tags: relevance:context
 Investigative Direction: Search the Brady List site for officers from other departments to confirm that not all officers are listed.
@@ -1449,7 +1449,7 @@ Transcript Snippet: Email us more tips at Candace, sorry, Candace Owens. com.
 Anchored Artifacts: A-3156.2
 Mentions: N-3
 Related Nodes: 
-Tags: relevance:core, DIA
+Tags: DIA, relevance:context
 Investigative Direction: Not applicable beyond tracking tip volume and follow-up on the Robertson thread.
 
 ---
@@ -1716,7 +1716,7 @@ Investigative Direction: Compare the prosecution's exhibits placing Robinson on 
 
 Claim Timestamp: 00:40:33
 
-Claim: The host asserts that Israel's agency (spelled 'Mossad') finances campaigns for people to run over borders into territories Israel is bombing, to eradicate Europeans through deception while blaming Arabs.
+Claim: The host asserts that white Europeans are being eradicated through deception, 'as is the Mossad motto', with 'they' blaming the Arabs while financing campaigns for them to run over borders in territories that Israel is bombing for Israel's expansion.
 
 Transcript Snippet: as is the Mossad motto, blaming the Arabs as they finance campaigns for them to run over borders in territories that Israel is bombing for Israel's expansion.
 

@@ -39,7 +39,7 @@
 
 ## II. Executive Summary
 
-The episode opens with the host recounting a personal 7th-anniversary fishing trip to Iceland, during which she unexpectedly encountered Justin Baldoni and his family at the airport. The encounter is presented as the emotional closure of the host's prior investigative work on the Lively v. Baldoni litigation and is grounded by an on-screen photograph. The host then transitions into a lengthy historical reflection on the support she received from John and Arina Mappin following the Charlie Kirk assassination, reading aloud an extended excerpt from their October 6, 2025 article, "Candace Owens, Charlie Kirk, and the Pursuit of Truth."
+The episode opens with the host recounting a personal 7th-anniversary fishing trip to Iceland, during which she unexpectedly encountered Justin Baldoni and his family at the airport. The encounter is presented as the emotional closure of the host's prior investigative work on the Lively v. Baldoni litigation and is grounded by an on-screen photograph. The host then transitions into a lengthy historical reflection on the support she received from John and Irina Mappin following the Charlie Kirk assassination, reading aloud an extended excerpt from their October 6, 2025 article, "Candace Owens, Charlie Kirk, and the Pursuit of Truth."
 
 The second half of the episode advances a new investigative thesis: that a coordinated state-level messaging operation – involving the Department of War (Pentagon), the State Department (specifically Under Secretary Sarah Rogers), Turning Point USA figures (Blake Neff, Andrew Kolvet), and financier Bill Ackman – is being directed against the host's investigation into the Charlie Kirk assassination. The host anchors this claim to a chain of read-aloud or displayed artifacts: Jennica Pounds / Data Republican's X thread and her subsequent admission of Special Government Employee (SGE) status at the Department of War; Blake Neff's confirmation post about Sarah Rogers; Andrew Kolvet's endorsement of Data Republican; and Bill Ackman's amplification of Data Republican's content. The NCRI report "Permission to Kill" is also referenced.
 
@@ -60,9 +60,9 @@ Confidence Level: High
 
 ---
 
-**A-2311** John & Arina Mappin Article Bundle
+**A-2311** John & Irina Mappin Article Bundle
 
-**A-2311.1** "Candace Owens, Charlie Kirk, and the Pursuit of Truth" – October 6, 2025 article by John and Arina Mappin; host read aloud extended excerpt
+**A-2311.1** "Candace Owens, Charlie Kirk, and the Pursuit of Truth" – October 6, 2025 article by John and Irina Mappin; host read aloud extended excerpt
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -460,7 +460,7 @@ John Mappin; friend and supporter of the host, relayed the black propaganda desc
 
 **N-156** Irina Mappin
 
-Arina Mappin; friend and supporter of the host.
+Irina Mappin; friend and supporter of the host.
 
 *Related: C-13285, C-13286, C-13287, C-13288, C-13292*
 
@@ -1003,7 +1003,7 @@ Investigative Direction: The host's own social posts from the trip; the 2019 wed
 
 Claim Timestamp: 00:04:04
 
-Claim: The host says she met her husband George at an event in London hosted by John and Arina Mappin in 2018 where she and Charlie Kirk were on stage, after George phoned the Mappins to ask to attend.
+Claim: The host says she met her husband George at an event in London hosted by John and Irina Mappin in 2018 where she and Charlie Kirk were on stage, after George phoned the Mappins to ask to attend.
 
 Transcript Snippet: I met my husband rather serendipitously at an event hosted in London. I was with Charlie.
 
@@ -1018,7 +1018,7 @@ Investigative Direction: Event listing or press for the May 2018 London appearan
 
 Claim Timestamp: 00:04:53
 
-Claim: The host says John and Arina Mappin helped bring Charlie Kirk and Turning Point USA to the next level by making introductions that launched the organization into a different financial stratosphere.
+Claim: The host says John and Irina Mappin helped bring Charlie Kirk and Turning Point USA to the next level by making introductions that launched the organization into a different financial stratosphere.
 
 Transcript Snippet: They helped to bring Charlie and Turning Point USA to the next level by making introductions for Charlie that I would say launched the organization into a different stratosphere financially.
 
@@ -1034,7 +1034,7 @@ Investigative Direction: Donor and introduction records for TPUSA in the Mappins
 
 Claim Timestamp: 00:04:53
 
-Claim: The host says Charlie Kirk and Erika Kirk went to Israel together with John and Arina Mappin, who she says invited them.
+Claim: The host says Charlie Kirk and Erika Kirk went to Israel together with John and Irina Mappin, who she says invited them.
 
 Transcript Snippet: the four of them went to Israel. Charlie and Erika and John and Arina went to Israel. They were invited by them to go.
 

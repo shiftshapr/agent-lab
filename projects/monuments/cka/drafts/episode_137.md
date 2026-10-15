@@ -782,7 +782,7 @@ Investigative Direction: Confirm via hotel guest logs (subject to availability) 
 
 **C-3216** Sky News investigation identified Tomahawk missile tail fins in footage of the Iranian school strike
 
-Claim Timestamp: 00:38:43
+Claim Timestamp: 00:38:05
 
 Claim: A Sky News investigation, drawing on footage from an Iranian state-linked news agency of a strike on buildings near the school, identified the distinctive tail fins of a Tomahawk missile; Sky News also stated a US carrier strike group was within range and that Tomahawks are precision-guided with onboard cameras.
 
@@ -843,7 +843,7 @@ Investigative Direction: Confirm via Daily Mail editorial record or corresponden
 
 Claim Timestamp: 00:08:14
 
-Claim: Candace Owens states her team looked up and verified the woodworker's email claim that black nitrile gloves are the standard resistance to CA glue/spray activator, characterizing it as "100% true."
+Claim: Candace Owens states her team looked up and verified the woodworker's email claim that black nitrile gloves are the most resistant to CA glue/spray activator, characterizing it as "100% true."
 
 Anchored Artifacts: A-2237.1
 Mentions: N-3
@@ -929,7 +929,7 @@ Investigative Direction: Locate Neff's X post making the 'innocent lives at risk
 
 Claim Timestamp: 00:00:01
 
-Claim: The host says that at the end of the previous episode her team solved the mystery of who was on the rooftop at the Losee Center with Officer Bagley, and that Neff did not thank her for it.
+Claim: The host says that in the previous episode her team solved the mystery of who was on the rooftop at the Losee Center with Officer Bagley, and that Neff did not thank her for it.
 
 Transcript Snippet: for having solved the mystery of who was on the rooftop at Loy Center with Officer Bagley.
 
@@ -1097,7 +1097,7 @@ Investigative Direction: Obtain the 911 call audio and CAD record from Utah Coun
 
 ---
 
-**C-7487** Host Recalls John Bray Showed the Road Microphone Glass Is Very Sticky
+**C-7487** Host Recalls Jon Bray Showed the Road Microphone Glass Is Very Sticky
 
 Claim Timestamp: 00:08:14
 
@@ -1164,7 +1164,7 @@ Investigative Direction: Check Lee's official biography for his birthplace and h
 
 Claim Timestamp: 00:10:37
 
-Claim: The host says a source who talked to UVU told her that after the assassination Mike Lee was contacted because of something unusual that took place on campus the day before the shooting, after he had already cancelled.
+Claim: The host says a UVU source told her that after the assassination Mike Lee was contacted because of something unusual that took place on campus the day before the shooting, after he had already cancelled.
 
 Transcript Snippet: I've got a source that UVU tells me that after the assassination of Charlie, Mike Lee was contacted due to something unusual that took place on campus the day before the shooting.
 
@@ -1288,11 +1288,11 @@ Investigative Direction: Obtain the Daily Mail request email to confirm date, se
 
 ---
 
-**C-7499** Host Says Bongino, Patel, Erika Kirk and TPUSA Publicly Promised Transparency and Not Editing Videos
+**C-7499** Host Says Bongino, Patel, Erika Kirk and TPUSA Publicly Promised Transparency
 
 Claim Timestamp: 00:15:33
 
-Claim: The host says the consistent public messaging from Dan Bongino, Kash Patel, Erika Kirk and Turning Point USA was that they wanted nothing but transparency, did not edit the videos and did not lie about the footage.
+Claim: The host says the consistent public messaging from Dan Bongino, Kash Patel, Erika Kirk and Turning Point USA was that they wanted nothing but transparency, and says her own team did not edit the videos or lie about what was on the footage.
 
 Transcript Snippet: Dan Bonino, Kash Patel, Erika Kirk, Turning Point USA. We didn't edit the videos. We don't lie about what was on the footage.
 
@@ -1392,7 +1392,7 @@ Investigative Direction: Compare this exchange with the court record to confirm 
 
 Claim Timestamp: 00:21:54
 
-Claim: The host says she can exclusively tell viewers that the answer to whether anybody got on the rooftop before Officer Bagley, after the person she says jumped off and before he arrived at 12:44 p.m., is yes.
+Claim: The host says she can exclusively tell viewers that the answer to whether anybody got on the rooftop before Officer Bagley, after the person Bagley says shot Charlie Kirk jumped off and before he arrived at 12:44 p.m., is yes.
 
 Transcript Snippet: I can exclusively tell you guys that the answer to that question is yes. Yes, somebody did get on that rooftop before you, didn't he, Officer Bagley?
 
@@ -1687,7 +1687,7 @@ Investigative Direction: Retrieve the original press-conference recordings for b
 
 Claim Timestamp: 00:39:34
 
-Claim: In a Sky News segment the host plays, one analyst reviewing intelligence on potential targets reportedly spotted the school in 2019 and noted changes on an unclassified intelligence tool, but this was not passed up the chain.
+Claim: In a Sky News segment the host plays, one analyst reviewing intelligence on potential targets reportedly spotted the school in 2019 and allegedly noted changes on an intelligence tool, but this was not passed up the chain.
 
 Transcript Snippet: One analyst reviewing intelligence on potential targets did reportedly spot the school in 2019.
 

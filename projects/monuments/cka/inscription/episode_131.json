@@ -1615,13 +1615,13 @@
       "@id": "C-3117",
       "ref": "C-3117",
       "label": "November 15, 2023 Charlie Kirk / Candace Owens Text Thread Documents Daily Wire Pressure Campaign",
-      "claim": "Per a snippet of a November 15, 2023 text thread between Charlie Kirk and Candace Owens that the host shows and reads aloud, the host says there was a coordinated effort from inside the Daily Wire to pressure and smear her during the Christ is King controversy.",
+      "claim": "Introducing a snippet of a November 15, 2023 text thread between Charlie Kirk and Candace Owens, dated when Ben Shapiro began his attacks on her, the host says there was a coordinated effort from inside the Daily Wire after October 7 to privately pressure and smear anyone not repeating the narrative on Israel, beginning the Christ is King scandal.",
       "anchored_artifacts": [
         "A-2180.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:10:44",
+      "claim_timestamp": "00:09:55",
       "investigative_direction": "Obtain carrier records or device extractions to verify the text thread independently of host narration.",
       "mentions_person_refs": [
         "N-1",
@@ -1925,7 +1925,7 @@
       "@id": "C-3134",
       "ref": "C-3134",
       "label": "Twitch Family Claims They Were Asked to Sign NDAs to Attend Memorial",
-      "claim": "In a CBS / Gayle King audio clip, Twitch's family members state that they received a phone call stating \"We need you guys to sign non-disclosure agreements\" in order to attend his memorial.",
+      "claim": "In a CBS / Gayle King audio clip, Twitch's family members state that they received a phone call stating \"We need you guys to sign non-disclosure agreements\" in order to attend his funeral.",
       "anchored_artifacts": [
         "A-2186.1"
       ],
@@ -1934,7 +1934,8 @@
       "claim_timestamp": "00:44:07",
       "investigative_direction": "Obtain the full CBS / Gayle King segment; obtain any documentary record of the NDA demand.",
       "mentions_person_refs": [
-        "N-512"
+        "N-512",
+        "N-925"
       ]
     },
     {
@@ -1996,7 +1997,7 @@
       "@type": "Claim",
       "@id": "C-3664",
       "ref": "C-3664",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "label": "Host Plugs CIA Hats Merch",
       "claim": "The host plugs the \"CIA hats\" merch, calling them essential.",
       "anchored_artifacts": [
         "A-2490.1"
@@ -2317,7 +2318,7 @@
       "@id": "C-13130",
       "ref": "C-13130",
       "label": "Kolvet Tweet Says Candace Was Not Friends With Charlie and Ben Was",
-      "claim": "The host presents a Kolvet tweet saying that Candace was not friends with Charlie and that Ben was, and says that Charlie was the single person who gave her the most emotional support when the attacks began at the end of 2023.",
+      "claim": "The host says she watched Kolvet tweet the narrative that Candace was not friends with Charlie and that Ben was, and says that Charlie was the single person who gave her the most emotional support when the attacks began at the end of 2023.",
       "anchored_artifacts": [
         "A-3247.1"
       ],
@@ -2736,7 +2737,8 @@
         "N-3",
         "N-14",
         "N-2",
-        "N-97"
+        "N-97",
+        "N-1"
       ]
     },
     {
@@ -2757,7 +2759,8 @@
         "N-3",
         "N-97",
         "N-22",
-        "N-46"
+        "N-46",
+        "N-1"
       ]
     },
     {
@@ -3091,7 +3094,8 @@
       "transcript_snippet": "if they will lie about something like that for a half a million dollar check",
       "mentions_person_refs": [
         "N-3",
-        "N-97"
+        "N-97",
+        "N-1"
       ]
     },
     {
@@ -3534,7 +3538,7 @@
       "@id": "C-13184",
       "ref": "C-13184",
       "label": "Host Says Holker Released a Book in February 2024 About Addiction and Past Abuse",
-      "claim": "The host says Allison Holker released a book in February 2024 saying Twitch was secretly struggling with addiction and past sexual abuse, that his family said they were blindsided, and that she co-authored a children's book with him just before he died.",
+      "claim": "The host says Allison Holker released a book in February 2024 saying Twitch was secretly struggling with addiction and past sexual abuse, that his family said they were blindsided, and that she released a children's book she said she co-authored with him just before he died.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [

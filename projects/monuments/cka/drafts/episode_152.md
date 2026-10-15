@@ -832,7 +832,7 @@ Modeling agency head named by the host.
 
 **N-688** Philip Goldsberry Jr.
 
-Co-founder of Sofer Global Ministries per the host (transcribed Phil Goldsbury).
+Co-founder of Sofer Global Ministries per the host (transcribed Phil Goldsberry).
 
 *Related: C-10516*
 
@@ -2827,7 +2827,7 @@ Confidence: high
 ## VI. Optional Flags Summary
 
 - **Name uncertainty** (judge name): transcript spells "Graph" / "Judge Graf" – likely "Tony Graf" pending verification.
-- **Name uncertainty**: "Colonel Otto Busher" / "Bobusher"; "Michael Aino"; "David Frausham"; "Phil Goldsbury" – spellings preserved as transcript.
+- **Name uncertainty**: "Colonel Otto Busher" / "Bobusher"; "Michael Aino"; "David Frausham"; "Phil Goldsberry" – spellings preserved as transcript.
 - **Artifact verbally referenced but not shown**: New York Post George Zinn article (C-3449); HSI whistleblower case materials (C-3455); 151-page Leavitt victim statement (C-3456); Bagley body cam records (C-3462); George Zinn sentencing (C-3463).
 - **Claim failed admission test (Artifact Anchor)**: C-3447 (Mitchell background), C-3448 (Bagley background), C-3453 (ICAC/AG administrative control), C-3454 (DOJ 1998 ICAC founding), C-3461 (Mitchell's role in surrender). These are captured as host assertions only.
 - **Transcript ambiguity**: Spelling inconsistencies across names of trafficking-era and roster-connected figures preserved exactly.

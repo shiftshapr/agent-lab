@@ -2488,7 +2488,7 @@ Claim: Lieutenant Colonel Kolvet writes on X that two of his three days at Fort 
 Transcript Snippet: And two of those days were travel days as I visited my military police unit training with the base military police from Huachuca.
 
 Anchored Artifacts: A-2163.1
-Mentions: N-14, N-691
+Mentions: N-691
 Related Nodes: N-10739
 Tags: relevance:core
 Investigative Direction: Verify the unit, dates and orders for the trip through the Army or the National Guard.
@@ -2515,7 +2515,7 @@ Investigative Direction: Pull Andrew Kolvet's reply on X with its date.
 
 Claim Timestamp: 00:41:49
 
-Claim: The host says she believes Andrew Kolvet has heard of Fort Huachuca given where he lives and what Erika's family does, and that she thinks he is lying about not knowing it.
+Claim: The host says she believes Andrew Kolvet has heard of Fort Huachuca given where he lives and what his family does (she first says Erika's family, then corrects herself), and that she thinks he is lying about not knowing it.
 
 Transcript Snippet: I do think that Andrew has heard of Fort Huachuca. I do. Just by the nature of where he lives, by the nature of what Erika's family does
 
@@ -2611,7 +2611,7 @@ Investigative Direction: Consult court records and the Nebraska legislative repo
 
 Claim Timestamp: 00:48:01
 
-Claim: The host says Utah has cameras all across the state and yet no clear shot of Tyler Robinson has been produced, and that the shooter's track on the rooftop cannot be followed.
+Claim: The host says Utah has cameras all across the state and yet no clear shot of Tyler Robinson has been produced, and that the alleged shooter's track on the rooftop cannot be followed.
 
 Transcript Snippet: Utah has cameras all throughout the state and yet we just can't get a clear shot of Tyler Robinson for some reason.
 
@@ -2714,7 +2714,7 @@ Claim: The host says that, as she has said many times, she would testify for the
 Transcript Snippet: I would testify for the prosecution or the defense cuz the truth is the truth.
 
 Anchored Artifacts: 
-Mentions: N-3, N-40
+Mentions: N-3
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: Watch the witness lists in the Robinson case for any subpoena to the host.
@@ -2791,7 +2791,7 @@ Investigative Direction: Trace Erika Kirk's relationships and roles with Bowyer 
 
 Claim Timestamp: 00:52:08
 
-Claim: The host says Erika Kirk reversed Charlie's positions, brought in people he hated, and tried to lie and say they were his friends.
+Claim: The host says Erika Kirk reversed course on everything Charlie believed, and that no grieving widow would allow the reversals, the bringing in of people he hated and the lie that they were his friends.
 
 Transcript Snippet: the bringing the people that he hated, trying to lie and say they were his friends.
 

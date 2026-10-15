@@ -1,0 +1,766 @@
+[
+ {
+  "claim": "C-3168",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript: \"She's already docked a witness for the prosecution.\" \"docketed\" is not in the transcript; likely \"doxxed\". Quote should not assert an unattested word.",
+  "fix": {
+   "claim": "An X account called Lisa Knows posted that Candace released footage the judge ordered not be shown to the public, asserted Candace had \"docked\" (possibly \"doxxed\") a witness for the prosecution, and called for obstruction charges against Candace."
+  }
+ },
+ {
+  "claim": "C-3169",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3170",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3171",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "First speaker addressed as \"Andrew\" by second speaker; hedges (\"I'm led to believe\", \"I didn't see it\") conveyed by \"people ... told him\".",
+  "fix": {}
+ },
+ {
+  "claim": "C-3172",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Content begins at [08:44]; 07:33 is ~74s before, at the edge of the window.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3173",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Tweet: \"if Candace is not charged for obstruction of jury tampering ... She is part of the two-tiered justice system ... people need to go to jail.\" Claim reshapes to \"would prove a two-tiered justice system\" and \"those responsible\".",
+  "fix": {
+   "claim": "An X user posted that if Candace was not charged with \"obstruction of jury tampering\" for releasing the rooftop footage, she is part of the two-tiered justice system, and said people need to go to jail."
+  }
+ },
+ {
+  "claim": "C-3174",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7400",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim refers to \"her husband\" (Charlie Kirk) but N-1 is not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-40",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-7401",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie (\"murdered Charlie\") but N-1 is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-40",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-7402",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7403",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7404",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7405",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7406",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name or refer to Alex Jones (N-93); Mentions should list only people in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-268"
+   ]
+  }
+ },
+ {
+  "claim": "C-7407",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7408",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7409",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7410",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7411",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7412",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7413",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7414",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7415",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7416",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7417",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7418",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7419",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7420",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript says \"Elizabeth McCoy\"; N-218 canonical Eliza McCoy, treated as same person.",
+  "fix": {}
+ },
+ {
+  "claim": "C-7421",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host first says \"on September 10th at some point in the early afternoon\" then \"That's September 11th, midday-ish\"; claim follows the latter, consistent with her Sept 12 \"day before\" remark.",
+  "fix": {}
+ },
+ {
+  "claim": "C-7422",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie (\"with Charlie by then back in Phoenix\") but N-1 is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-218",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-7423",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7424",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7425",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7426",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7427",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7428",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7429",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7430",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names \"Charlie's Catholic funeral mass\" but N-1 is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-7431",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7432",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7433",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7434",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7435",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7436",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim refers to \"her husband\" (Charlie) but N-1 is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-7437",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7438",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7439",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7440",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7441",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7442",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7443",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7444",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7445",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie (\"Charlie was evangelical\") but N-1 is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-7446",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7447",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7448",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7449",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7450",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7451",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7452",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

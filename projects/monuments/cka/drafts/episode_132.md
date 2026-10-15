@@ -963,7 +963,7 @@ Investigative Direction: Confirm that the November 2023 date corresponds to the 
 
 Claim Timestamp: 00:09:42
 
-Claim: Blake Neff, in a public X post, used the phrase "vile witch" directed at Candace Owens in response to her question about whether Charlie Kirk was cremated.
+Claim: Blake Neff, in a post the host reads, used the phrase "vile witch" directed at Candace Owens in response to her question about whether Charlie Kirk was cremated.
 
 Anchored Artifacts: A-2190.1
 Mentions: N-3, N-1, N-160
@@ -1469,7 +1469,7 @@ Claim: The host says she thinks, but is not positive, that the painting shown be
 Transcript Snippet: And I I think they may have even auctioned that painting. I'm not positive, but I think they did.
 
 Anchored Artifacts: A-2984.1
-Mentions: N-2, N-3
+Mentions: N-3
 Related Nodes: N-11202
 Tags: relevance:context
 Investigative Direction: Identify the painting and any auction listing or results.
@@ -1503,7 +1503,7 @@ Transcript Snippet: a day before Charlie died, when Erika posted her mother look
 Anchored Artifacts: A-2985.1
 Mentions: N-2, N-1
 Related Nodes: N-10483
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Retrieve the Instagram post, its timestamp and caption.
 
 ---
@@ -1859,7 +1859,7 @@ Claim: The host says Erika Kirk spoke at the Pursuit Church event because it was
 Transcript Snippet: Anyway, Erika spoke at this event because this is the Make Kevin Crowded tour.
 
 Anchored Artifacts: A-2193.1
-Mentions: N-2, N-527
+Mentions: N-2
 Related Nodes: N-11203
 Tags: relevance:context
 Investigative Direction: Obtain the tour schedule and the event recording.
@@ -2078,12 +2078,12 @@ Investigative Direction: Check official announcements of the funeral and Netanya
 
 Claim Timestamp: 00:35:05
 
-Claim: The host says Netanyahu is flying in for the same reason Zelensky is, which she says is that when these killers come to DC it is to dictate their terms, and that Netanyahu will probably be in the situation room telling Trump who else has to die.
+Claim: The host says Netanyahu is saying he is flying in for the same reason Zelensky is, which she says is that when these killers come to DC it is to dictate their terms, and that Netanyahu will probably be in the situation room telling Trump who else has to die.
 
 Transcript Snippet: Bibi Netanyahu is saying that he is flying in for the same reason Zelensky is flying in.
 
 Anchored Artifacts: 
-Mentions: N-36, N-712, N-3
+Mentions: N-36, N-712, N-5, N-3
 Related Nodes: N-10752
 Tags: relevance:tangential
 Investigative Direction: Check each leader's announced purpose and meetings.
@@ -2223,7 +2223,7 @@ Investigative Direction: Check CUFI staff and affiliate listings for Pastor Russ
 
 Claim Timestamp: 00:42:44
 
-Claim: The host says that since October 7th the people around Charlie became insane, demanding and controlling, and that in the end Charlie snapped and said "I'm done. Take the money."
+Claim: The host says that since October 7th the people pressuring Charlie became insane, demanding and controlling, and that in the end Charlie snapped and said "I'm done. Take the money."
 
 Transcript Snippet: Since October 7th, that's when they all got really insane and demanding and more controlling and Charlie snapped in the end and said, "I'm done. Take the money.
 

@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T17:41:38Z",
+  "generated_at": "2026-10-15T17:48:44Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -50827,7 +50827,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3177",
-      "label": "Harpole preliminary hearing testimony content",
+      "label": "Harpole Account of ER Actions in Played Clip",
       "node_kind": "claim",
       "episode": 135
     },
@@ -51030,7 +51030,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3206",
-      "label": "Erika Kirk stated she does not know what Charlie Kirk would think about war with Iran",
+      "label": "Erika Kirk Says Her Husband Is Not Here to Say Whether the US Should Be at War With Iran",
       "node_kind": "claim",
       "episode": 136
     },
@@ -51184,7 +51184,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3228",
-      "label": "Victor Marx Stated He Decapitated a Cat at Age 3 With His Stepfather's Hand Over His",
+      "label": "Victor Marx Explains Cutting a Cat's Head Off at Age 3 With an Adult's Hand Over His",
       "node_kind": "claim",
       "episode": 138
     },
@@ -51212,7 +51212,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3232",
-      "label": "Daily Mail's Charlie Spiering Emailed the Show Claiming Foreign-Operative Use of Candace Owens' Tip Line",
+      "label": "Host Says Daily Mail's Charlie Spiering Wrote Claiming Foreign-Operative Use of Candace Owens' Tip Line",
       "node_kind": "claim",
       "episode": 138
     },
@@ -51233,7 +51233,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3235",
-      "label": "Candace Owens' Home Address Was Shared Within a Multi-Person Group Chat and Acknowledged in Show Comments",
+      "label": "Host Says It Is Terrifying That Group Chat Members Shared Her Address",
       "node_kind": "claim",
       "episode": 138
     },
@@ -51261,7 +51261,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3239",
-      "label": "Andrew Wilson claims he hugged Erika Kirk at TPUSA HQ",
+      "label": "Andrew Wilson Claims He Hugged Erika Kirk at TPUSA HQ",
       "node_kind": "claim",
       "episode": 139
     },
@@ -51394,7 +51394,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3258",
-      "label": "Email states Luna wears pentagram necklace",
+      "label": "Host Says Luna Character Wears a Pentagram Necklace",
       "node_kind": "claim",
       "episode": 139
     },
@@ -51786,7 +51786,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3314",
-      "label": "Host Says Footage Shows Terryl Showing Laptop Content to Philip Goldsbury Shortly After the Shooting",
+      "label": "Host Says Footage Shows Terryl Showing Laptop Content to Philip Goldsberry Shortly After the Shooting",
       "node_kind": "claim",
       "episode": 144
     },
@@ -54222,7 +54222,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3664",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "label": "Host Plugs CIA Hats Merch",
       "node_kind": "claim",
       "episode": 131
     },
@@ -80983,7 +80983,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7487",
-      "label": "Host Recalls John Bray Showed the Road Microphone Glass Is Very Sticky",
+      "label": "Host Recalls Jon Bray Showed the Road Microphone Glass Is Very Sticky",
       "node_kind": "claim",
       "episode": 137
     },
@@ -81067,7 +81067,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7499",
-      "label": "Host Says Bongino, Patel, Erika Kirk and TPUSA Publicly Promised Transparency and Not Editing Videos",
+      "label": "Host Says Bongino, Patel, Erika Kirk and TPUSA Publicly Promised Transparency",
       "node_kind": "claim",
       "episode": 137
     },
@@ -120253,7 +120253,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2301.2",
-      "label": "Footage: Terryl showing his laptop screen to Philip Goldsbury at the crime scene",
+      "label": "Footage: Terryl showing his laptop screen to Philip Goldsberry at the crime scene",
       "node_kind": "artifact",
       "episode": 144
     },
@@ -120428,14 +120428,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2311",
-      "label": "John & Arina Mappin Article Bundle",
+      "label": "John & Irina Mappin Article Bundle",
       "node_kind": "artifact",
       "episode": 145
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2311.1",
-      "label": "\"Candace Owens, Charlie Kirk, and the Pursuit of Truth\" – October 6, 2025 article by John and Arina Mappin; host read aloud extended excerpt",
+      "label": "\"Candace Owens, Charlie Kirk, and the Pursuit of Truth\" – October 6, 2025 article by John and Irina Mappin; host read aloud extended excerpt",
       "node_kind": "artifact",
       "episode": 145
     },

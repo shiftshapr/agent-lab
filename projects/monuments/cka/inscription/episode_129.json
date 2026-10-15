@@ -2024,7 +2024,7 @@
         "N-10742"
       ],
       "tags": [],
-      "claim_timestamp": "00:13:40",
+      "claim_timestamp": "00:14:58",
       "investigative_direction": "Reconcile with phone log evidence (which suggests Elizabeth was called first, with Erika added 3 minutes later); assess Neff's recall accuracy versus contemporaneous records.",
       "contradicts_claim_refs": [
         "C-1932",
@@ -2041,7 +2041,7 @@
       "@id": "C-3094",
       "ref": "C-3094",
       "label": "Local news captured the group walking into Timpanogos Regional Hospital at approximately 1:02 PM local time",
-      "claim": "A Fox 5 Atlanta newsroom feed shows Blake Neff, Danny Philip, Mikey McCoy, and Nate Walker walking into Timpanogos Regional Hospital; timing is anchored to Donald Trump's 1:02 PM local tweet shown during the broadcast.",
+      "claim": "In a Fox 5 Atlanta newsroom feed the host plays, Blake Neff, Danny Philip, Mikey McCoy, and Nate Walker are shown walking into Timpanogos Regional Hospital; the host dates their arrival to about 1:02 PM local time from a Donald Trump tweet the anchor reads during the broadcast.",
       "anchored_artifacts": [
         "A-2166.2",
         "A-2166.1"
@@ -2184,7 +2184,7 @@
       "@id": "C-3101",
       "ref": "C-3101",
       "label": "Blake Neff publicly compared Candace Owens's sustained 10-month coverage of the Kirk investigation to the Alex Jones/Sandy Hook coverage pattern",
-      "claim": "In a Twitter Space clip the host plays, Blake Neff says nothing compares to Candace Owens spending 10 months making every episode target Erika and Turning Point, and says he does not think Alex Jones made the Sandy Hook parents the only subject of his show for a 10-month period.",
+      "claim": "In a Twitter Space clip the host plays, Blake Neff says nothing compares to Candace Owens spending 10 months making effectively every episode target Erika and Turning Point, and says he does not think Alex Jones made the Sandy Hook parents the only subject of his show for a 10-month period.",
       "anchored_artifacts": [
         "A-2169.3"
       ],
@@ -3045,7 +3045,7 @@
       "@id": "C-11594",
       "ref": "C-11594",
       "label": "Host Says TPUSA Gave the Daily Mail Special Access to the Unedited Aspen Clip the Public Has Not Seen",
-      "claim": "The host says Turning Point USA turned to the Daily Mail exclusively on the Aspen audio and gave the paper special access to the unedited clip, which the public still has not seen, which she says demonstrates a PR relationship between TPUSA and the Mail.",
+      "claim": "The host says Turning Point USA turned to the Daily Mail exclusively to clean up its \"Charlie GPT\" Aspen mess and gave the paper special access to the unedited clip, which the public still has not seen, which she says demonstrates a PR relationship between TPUSA and the Mail.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10070",
@@ -3179,7 +3179,7 @@
       "@id": "C-11600",
       "ref": "C-11600",
       "label": "Host Says Erika Told Bari Weiss She Was Certain Robinson Killed Her Husband",
-      "claim": "The host says Erika Kirk told Bari Weiss she was wholly confident that Tyler Robinson killed her husband because she has access to the evidence.",
+      "claim": "The host says Erika Kirk told Bari Weiss she was certain Tyler Robinson killed her husband, and that Erika was wholly confident of it because she has access to the evidence.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10334"
