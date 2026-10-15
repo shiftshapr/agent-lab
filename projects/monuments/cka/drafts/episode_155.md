@@ -37,7 +37,7 @@
 - Claim Range: C-3513 – C-3530
 - New Nodes Introduced (people): none (Wave 2: local ids removed)
 - New Nodes Introduced (investigation targets): N-10847, N-10848, N-10849, N-10850
-- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens, N-? Tyler Robinson, N-? David Hull, N-? Agent Mortensson, N-? Officer Go forth, N-? Miss Noble, N-? Lance (Robinson's boyfriend), N-? Tucker Carlson, N-? Mikey McCoy, N-? Brett Cooper, N-? Frank Turek, N-? Andrew Kolvit (transcript variant: "Kulevit")
+- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens, N-? Tyler Robinson, N-? David Hull, N-? Agent Mortensson, N-? Officer Goforth, N-? Miss Noble, N-? Lance (Robinson's boyfriend), N-? Tucker Carlson, N-? Mikey McCoy, N-? Brett Cooper, N-? Frank Turek, N-? Andrew Kolvit (transcript variant: "Kulevit")
 
 ---
 
@@ -677,10 +677,10 @@ The host's commentary on prediction-market odds, X posts and critics of the part
 
 Claim Timestamp: 00:00:00–00:00:01
 
-Claim: Blake Neff and Jeremy Boreing released promotional photo and audio/video promo clip announcing a joint podcast sitdown.
+Claim: The host says Blake Neff and Jeremy Boreing consciously selected a photo to promote their upcoming sitdown, which she says will undoubtedly be about her.
 
 Anchored Artifacts: A-2405.1, A-2407.1
-Mentions: N-160
+Mentions: N-160, N-367
 
 Related Nodes:
 
@@ -695,7 +695,7 @@ Claim Timestamp: 00:33:23–00:36:12
 Claim: Bobby Sausalito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erica Kirk, Mikey McCoy, Frank Turek), and calls for lawsuits/jail time against the host.
 
 Anchored Artifacts: A-2406.1
-Mentions: N-22, N-3, N-191, N-2, N-7
+Mentions: N-901, N-160, N-367, N-22, N-3, N-191, N-2, N-7
 
 Related Nodes:
 
@@ -707,9 +707,10 @@ Investigative Direction: Compare Sausalito's specific predictions against the re
 
 Claim Timestamp: 00:36:12
 
-Claim: The host explicitly concurs that Sausalito's pre-release predictions were "almost spot on" relative to the released promo clip.
+Claim: The host says Bobby Sausalito's pre-release predictions were "almost spot on," except that he was wrong that Boreing is doing it for money.
 
 Anchored Artifacts: A-2406.1, A-2407.1
+Mentions: N-901, N-367
 
 Related Nodes:
 
@@ -739,7 +740,7 @@ Claim Timestamp: 00:36:51–00:37:44
 Claim: In the Neff/Boring promo clip, Blake Neff stated that Candace Owens "wants the person who killed Charlie to get away with it."
 
 Anchored Artifacts: A-2407.1
-Mentions: N-3, N-160
+Mentions: N-3, N-160, N-1
 
 Related Nodes:
 
@@ -769,7 +770,7 @@ Claim Timestamp: 00:31:47–00:32:21
 Claim: Jeremy Boreing posted on X that Candace Owens "does this largely on purpose" and that "all Candace cares about is fame and money. Nothing is beneath her."
 
 Anchored Artifacts: A-2408.1
-Mentions: N-3
+Mentions: N-367, N-3
 
 Related Nodes:
 
@@ -881,7 +882,7 @@ Investigative Direction: Obtain the full top-of-structure surveillance footage t
 
 Claim Timestamp: 00:14:44
 
-Claim: The host says TMZ surveillance footage timestamped 8:07 AM on Sept 10 shows Tyler Robinson walking toward the UVU campus, and that this indicates he was already parked off campus at that time.
+Claim: The host says TMZ footage timestamped 8:07 AM on Sept 10 shows Tyler Robinson walking toward the UVU campus, and that this indicates he was already parked off campus at that time.
 
 Anchored Artifacts: A-2413.2
 Mentions: N-40
@@ -899,6 +900,7 @@ Claim Timestamp: 00:18:34–00:19:42
 Claim: The September 15 search warrant narrative (attributed to Agent Mortensson's review of UVU security video) stated that Robinson's Challenger entered the UVU parking structure at approximately 8:28 AM, that Robinson then visited a wooded area near where the rifle was later discovered, and that Robinson left the structure at approximately 9:32 AM.
 
 Anchored Artifacts: A-2414.1
+Mentions: N-902, N-40
 
 Related Nodes: N-10848
 
@@ -925,9 +927,10 @@ Investigative Direction: Obtain the preliminary hearing transcript and audio/vid
 
 Claim Timestamp: 00:07:25–00:09:33
 
-Claim: Neighbor Miss Noble and her husband reported observing a Dodge Challenger being driven by a bald person with two people in the back seat, parked in their neighborhood shortly after Officer Go forth's sighting.
+Claim: Neighbor Miss Noble and her husband reported observing a Dodge Challenger being driven by a bald person with two people in the back seat, parked in their neighborhood shortly after Officer Goforth's sighting.
 
 Anchored Artifacts: (no displayed artifact in this episode; assertion referenced from prior reporting)
+Mentions: N-903, N-865
 
 Related Nodes: N-10850
 
@@ -940,7 +943,7 @@ Optional Flag: Claim failed admission test (Artifact Anchor) – claim retained 
 **C-3675** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:54:47
-Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Claim: The host, while plugging merch, says "We are the Decentralized Intelligence Agency."
 Transcript Snippet: ...can buy a mug. You can buy a CIA hat. We are the Decentralized Intelligence Agency. And we have a lot in store. Some stuff I am, of course, saving. I got lawsuits going on and lawsui...
 Anchored Artifacts: 
 Mentions: N-3
@@ -973,7 +976,7 @@ Transcript Snippet: Tucker Carlson said, just look at the photo.
 
 Anchored Artifacts: A-2405.1
 Mentions: N-22, N-160, N-367, N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate Carlson's original post or remark about the photo and confirm his wording and date.
 
 ---
@@ -1014,7 +1017,7 @@ Investigative Direction: Measure the driver's proportions in the admin-lot foota
 
 Claim Timestamp: 00:03:41
 
-Claim: The host says she is not claiming the two Challengers are the same car and that she believes the person leaving the admin-lot Challenger is not the person in the parking garage at the same time; Challenger one is tied to the garage and Challenger two to the admissions lot.
+Claim: The host says she is not claiming the two Challengers are the same car and that she does not think the person who gets out of the admin-lot Challenger is the person in the parking garage at the same time; Challenger one is tied to the garage and Challenger two to the admissions lot.
 
 Transcript Snippet: We do not think that the person who gets out of this car is the same person that is in the garage at the same time.
 
@@ -1031,7 +1034,7 @@ Investigative Direction: Obtain simultaneous timestamps from the garage and admi
 
 Claim Timestamp: 00:05:04
 
-Claim: The host says that no one has any idea what either Maroon Boy or Waluigi did during roughly an hour and a half on campus, and that no narrative has been provided for that time.
+Claim: The host says that she and her team have no idea what either Maroon Boy or Waluigi did during roughly an hour and a half on campus, and that no narrative has been provided for that time.
 
 Transcript Snippet: we have actually no idea what either of these two people did for an approximate hour and a half on campus
 
@@ -1052,7 +1055,7 @@ Claim: The host says that from the preliminary hearing the only thing known abou
 Transcript Snippet: All we got from the pre preliminary hearing is that Maroon Boy parked went up to a Turning Point USA employee and asked her if this is where the event was going to be held.
 
 Anchored Artifacts: 
-Mentions: N-3, N-570
+Mentions: N-3
 Related Nodes: N-10040, N-11149
 Tags: relevance:core
 Investigative Direction: Read the preliminary hearing transcript for Hull's testimony on the TPUSA representative exchange and identify the employee asked.
@@ -1128,7 +1131,7 @@ Investigative Direction: Search discovery and neighborhood camera releases for a
 
 Claim Timestamp: 00:08:42
 
-Claim: The host says prosecutors have never indicated there is body camera footage of the Dodge Challenger that pulled up to Officer Goforth after midnight and had a conversation with him.
+Claim: The host says that the Dodge Challenger which "we were told" returned after midnight and pulled up to Officer Goforth for a conversation was not accompanied by any indication from them that Goforth had body cam footage.
 
 Transcript Snippet: They've never indicated that he had on body cam footage.
 
@@ -1144,7 +1147,7 @@ Investigative Direction: Request Goforth's bodycam and dispatch records for the 
 
 Claim Timestamp: 00:09:34
 
-Claim: The host says Hull's testimony over the surveillance footage was rapid and rehearsed, and that at times what he said and what viewers saw were in conflict.
+Claim: The host says Hull's testimony over the footage "registered to me as remarkably rehearsed" and fast-paced, like an auctioneer, and that at times what he said and what viewers saw were in conflict.
 
 Transcript Snippet: at times we went back and realized those two things were in conflict with one another
 
@@ -1312,7 +1315,7 @@ Transcript Snippet: I certainly do not believe that the Converse sneakers are co
 Anchored Artifacts: 
 Mentions: N-40, N-3
 Related Nodes: N-10019
-Tags: relevance:context
+Tags: relevance:core
 Investigative Direction: Obtain the footwear evidence report and any survey of other Converse-wearing individuals on campus footage.
 
 ---
@@ -1391,7 +1394,7 @@ Claim: The host reads the September 15 warrant narrative as saying the video sho
 Transcript Snippet: In the video, Robinson is seen wearing a ball cap, a red t-shirt, light colored shorts, and Converse style tennis shoes.
 
 Anchored Artifacts: A-2414.1
-Mentions: N-40, N-902, N-3
+Mentions: N-40, N-3
 Related Nodes: N-10848, N-10019
 Tags: relevance:core
 Investigative Direction: Obtain the filed September 15 warrant affidavit to verify the clothing description and compare it with the maroon-shirt reporting.
@@ -1464,7 +1467,7 @@ Investigative Direction: Compare the Challenger-at-Noble-house time in each of t
 
 ---
 
-**C-11890** Host Says Kirk Was Likely Not Shot by a 300 and an Explosive Is More Likely
+**C-11890** Host Says Kirk Was Likely Not Shot by a .30-06 and an Explosive Is More Likely
 
 Claim Timestamp: 00:22:12
 
@@ -1484,7 +1487,7 @@ Investigative Direction: Obtain the autopsy report, ballistics and explosives-re
 
 Claim Timestamp: 00:22:51
 
-Claim: The host says many people early on kept saying they thought they saw things happening on top of the Woodbury building, which houses the admissions lot.
+Claim: The host says many people early on kept saying they thought they saw things happening on top of the Woodbury building, which she says is where admissions would be.
 
 Transcript Snippet: There was a lot of people who early on kept saying that they thought that they saw things happening on top of the Woodberry built building.
 
@@ -1606,7 +1609,7 @@ Transcript Snippet: He will then host someone to talk about the topic I'm coveri
 Anchored Artifacts: 
 Mentions: N-367, N-3, N-22
 Related Nodes: N-10416, N-10900
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Tabulate Boreing's show topics and guests against the host's show dates for a quantitative comparison.
 
 ---
@@ -1623,7 +1626,7 @@ Anchored Artifacts: A-2408.1
 Mentions: N-367, N-3
 Related Nodes: N-10416
 Supports: C-3519
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate Boreing's original post and the live-show clip it references to confirm the connection.
 
 ---
@@ -1671,7 +1674,7 @@ Anchored Artifacts: A-2406.1
 Mentions: N-901, N-367, N-3
 Related Nodes: N-10416
 Contradicts: C-11901
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare Boreing's podcast sponsorship and TPUSA ties against the host's stalking characterization.
 
 ---
@@ -1778,7 +1781,7 @@ Claim: In the second Boreing-show clip, a speaker says defamation of a public fi
 Transcript Snippet: andor I'm not sure which, but certainly Candace has crossed all those lines.
 
 Anchored Artifacts: A-3170.2
-Mentions: N-3, N-2, N-191
+Mentions: N-3
 Related Nodes: N-10900
 Tags: relevance:context
 Investigative Direction: Review the cited statements against the actual malice standard in any filed complaint.
@@ -1797,7 +1800,7 @@ Anchored Artifacts: A-2411.1
 Mentions: N-3
 Related Nodes: N-11316
 Supports: C-3522
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the Polymarket midterm contract's price history around the date of this episode.
 
 ---
@@ -1813,7 +1816,7 @@ Transcript Snippet: Uh speech censorship that's being platformed, demanded by pe
 Anchored Artifacts: 
 Mentions: N-245, N-3
 Related Nodes: N-11316
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find Levin's and the second named person's statements calling for state action or lawsuits against the host.
 
 ---
@@ -1829,7 +1832,7 @@ Transcript Snippet: You attack Thomas Massie. Got him out of there.
 Anchored Artifacts: 
 Mentions: N-582, N-3
 Related Nodes: N-11316
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check Massie's primary result and outside spending against him as documented in FEC filings.
 
 ---
@@ -2043,11 +2046,11 @@ Confidence: high
 
 - **Name uncertainty:** Transcript renders the podcaster's name inconsistently – "Blake Neff" in the show title and at 36:51; "Blake Neff" elsewhere in the transcript body (e.g., 00:46, 29:12, 33:23, 40:52); "Blake Snuff" appears as Bobby Sausalito's pronunciation/joke (33:23). Title spelling "Neff" used here pending verification.
 - **Name uncertainty:** "Erica Kirk" appears as "Erika Kirk" at multiple points (e.g., 31:12, 36:12). Both spellings preserved where appearing.
-- **Name uncertainty:** "Officer Go forth" appears with varying spacing/capitalization (sometimes "Goforth"). Preserved as transcribed.
+- **Name uncertainty:** "Officer Goforth" appears with varying spacing/capitalization (sometimes "Goforth"). Preserved as transcribed.
 - **Name uncertainty:** "Andrew Kolvit" appears as "Andrew Kulevit" / "Kulvit" at varying points. Preserved as transcribed.
 - **Artifact verbally referenced but not shown:** A-2413.3 (Waluigi admin-lot footage), A-2414.1 (Sept 15 search warrant), A-2415.1 (Hull preliminary-hearing testimony) – none displayed in this episode; described by host.
 - **Claim failed admission test:** C-3530 (Miss Noble testimony) retained with explicit anchor-test flag and verification direction; the claim depends on prior-episode reporting rather than a displayed artifact in this episode.
 - **Host-stated research without displayed source artifact:** The Baugh family / UVU donation / N88 plane / Woodbury Building cluster is presented by the host from her own research/notes without a specific displayed source. Nodes,, and N-10849 are inscribed for tracking, but no claim is inscribed on the basis of this material until an artifact anchor is introduced.
 - **Transcript ambiguity:** Timestamps for the X posts (A-2408.1, A-2409.1, A-2410.1, A-2411.1) and the JD Vance clip (A-2412.1) are described as "approximate, prior to broadcast" – original posting/publication dates not stated on air.
 - **Transcript ambiguity:** The preliminary-hearing date for Hull's testimony (A-2415.1) is not specified in the transcript; a year-range date ("2025") is recorded as a placeholder.
-- **Requires human verification:** Spelling normalization for "Blake Neff," "Erica/Erika Kirk," and "Officer Go forth/Goforth" against authoritative sources.
+- **Requires human verification:** Spelling normalization for "Blake Neff," "Erica/Erika Kirk," and "Officer Goforth/Goforth" against authoritative sources.

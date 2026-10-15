@@ -117,7 +117,7 @@ Confidence Level: High (warrant text as read); Medium (host paraphrase)
 
 *Related: C-3535, N-10852*
 
-**A-2421.2** Continuation of read-aloud warrant excerpt stating Agent Drainy (Utah State Bureau of Investigations) obtained records and video footage of Tyler Robinson's 2013 Dodge Challenger arriving at the Quick Quack Car Wash at approximately 12:57 PM.
+**A-2421.2** Continuation of read-aloud warrant excerpt stating Agent Draney (Utah State Bureau of Investigations) obtained records and video footage of Tyler Robinson's 2013 Dodge Challenger arriving at the Quick Quack Car Wash at approximately 12:57 PM.
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:18:05
@@ -626,10 +626,10 @@ The host's hypothesis that logins to Tyler Robinson's accounts or Google Maps da
 
 Claim Timestamp: 00:01:40
 
-Claim: The host says the wider-format tent footage shows that the person she previously identified as UVU club president Caleb Chilcutt standing near the van by Angel Castro is in fact a different individual.
+Claim: The host says that, after someone told her otherwise, the person she previously identified as UVU club president Caleb Chilcutt standing near the van by Angel Castro was not him.
 
 Anchored Artifacts: A-2416.1
-Mentions: N-10
+Mentions: N-10, N-793
 
 
 Investigative Direction: Cross-reference other footage and photographs to identify the actual individual and confirm the correction.
@@ -669,7 +669,7 @@ Investigative Direction: Compare against a full video walkthrough of the parking
 
 Claim Timestamp: 00:18:05
 
-Claim: Per the search warrant as read, Agent Drainy (USBI) obtained records and video footage from the Quick Quack Car Wash showing Tyler Robinson's vehicle arriving at approximately 12:57 PM; the footage has not been released to the public.
+Claim: Per the search warrant as read, Agent Draney (USBI) obtained records and video footage from the Quick Quack Car Wash showing Tyler Robinson's vehicle arriving at approximately 12:57 PM; the footage has not been released to the public.
 
 Anchored Artifacts: A-2421.2
 Mentions: N-40
@@ -697,11 +697,12 @@ Investigative Direction: Obtain the underlying warrant to verify the quoted lang
 
 **C-3536** Officer Go Forth's testimony referenced a partial license-plate match process
 
-Claim Timestamp: 00:52:24
+Claim Timestamp: 00:53:00
 
-Claim: According to a viewer comment summarizing testimony, Officer Go Forth's testimony used partial-plate matches rather than full-plate matches when identifying vehicles.
+Claim: The host says, replying to a viewer comment about license plates, that in Officer Goforth's testimony they kept saying a partial plate was run and matched, which she finds unusual.
 
 Anchored Artifacts: A-2424.1
+Mentions: N-865
 
 Related Nodes: N-10854
 
@@ -711,12 +712,12 @@ Investigative Direction: Pull the actual preliminary-hearing / probable-cause tr
 
 **C-3537** Host Says UN Delegates Walked Out During Netanyahu's UN General Assembly Address
 
-Claim Timestamp: 00:33:24
+Claim Timestamp: 00:32:40
 
 Claim: The host says that during Netanyahu's address to the UN General Assembly, a substantial number of delegates walked out as he took the stage.
 
 Anchored Artifacts: A-2422.1, A-2422.2, A-2422.3
-Mentions: N-1
+Mentions: N-36
 
 
 Investigative Direction: Cross-reference UN press records, AP/Reuters coverage, and UN delegate attendance logs.
@@ -801,7 +802,7 @@ Investigative Direction: Verify tipster claim via Google Earth / aerial imagery 
 **C-3677** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:54:04
-Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Claim: The host says viewers can buy merch such as a hat, t-shirt or sweatshirt to join the decentralized intelligence agency, which she calls her favorite.
 Transcript Snippet: ...hat, buy a t-shirt, buy a sweatshirt to join the decentralized intelligence agency. Um, that one's my favorite. Conspiracy girly. It's so cute. You can buy this mug. The MSADA is lis...
 Anchored Artifacts: 
 Mentions: N-3
@@ -846,7 +847,7 @@ Investigative Direction: Compare the cropped clip from the prior episode with th
 
 Claim Timestamp: 00:01:40
 
-Claim: The host says the person standing by the van near Angel Castro was wearing red that day, was just standing, and was not UVU club president Caleb Chilcutt, after a viewer corrected her.
+Claim: The host says someone told her the person standing by the van near Angel Castro was not UVU club president Caleb Chilcutt, who she says was wearing red that day; the person by the van was just standing.
 
 Transcript Snippet: He was wearing red that day.
 
@@ -1460,7 +1461,7 @@ Transcript Snippet: Proportionately, this is equal to 40,000 innocent Americans 
 
 Anchored Artifacts: A-2422.2
 Mentions: N-36
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Verify against the UN transcript of the September 2025 Netanyahu address.
 
 ---
@@ -1490,7 +1491,7 @@ Transcript Snippet: The Houthis, Iran, militias in Iraq, militias in Syria, Pale
 
 Anchored Artifacts: A-2901.1
 Mentions: N-36
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Verify against the UN transcript.
 
 ---
@@ -1505,7 +1506,7 @@ Transcript Snippet: We crushed Iran's army, navy, air force, and nuclear facilit
 
 Anchored Artifacts: A-2422.3
 Mentions: N-36
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Verify against the UN transcript and independent damage assessments.
 
 ---
@@ -1521,7 +1522,7 @@ Transcript Snippet: You remember the beepers? Remember these things? Remember th
 Anchored Artifacts: A-2422.3
 Mentions: N-36
 Related Nodes: N-10977
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Verify against the UN video and transcript.
 
 ---
@@ -1537,7 +1538,7 @@ Transcript Snippet: Israeli bulldozers smashed Palestinian olive trees ahead of 
 Anchored Artifacts: A-2902.1
 Mentions: N-3
 Related Nodes: N-10980
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Pull the Reuters article and confirm the headline and date.
 
 ---
@@ -1552,7 +1553,7 @@ Transcript Snippet: because he's blackmailed all of our politicians.
 
 Anchored Artifacts: 
 Mentions: N-3, N-36
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: The host offers no evidence on air; ask her for the basis of the blackmail allegation.
 
 ---
@@ -1620,7 +1621,7 @@ Investigative Direction: Review the cited late-night content and attribute it; n
 
 ---
 
-**C-7827** Host Says the Video Release Was Meant to Show Erika Was Not at Fort Huachuca
+**C-7827** Host Says Erika Should Have Shown the Footage in a Sit-Down If She Needed to Prove Fort Huachuca
 
 Claim Timestamp: 00:45:44
 
@@ -1672,7 +1673,7 @@ Investigative Direction: Watch for any filed suit by TPUSA against the host.
 
 Claim Timestamp: 00:51:08
 
-Claim: The host says Charlie Kirk's favorite biblical proverb was iron sharpens iron and that he texted her about it all the time.
+Claim: The host says she thinks Charlie Kirk's favorite biblical proverb was iron sharpens iron and that he texted her about it all the time.
 
 Transcript Snippet: Charlie's favorite biblical proverb was iron sharpens iron. He's texted me all the time
 
@@ -1710,21 +1711,21 @@ Transcript Snippet: Carlson recounts a meeting with Trump in which he says Trump
 Anchored Artifacts: A-2903.1
 Mentions: N-3, N-22, N-5
 Related Nodes: N-10541
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Pull the NPR interview and confirm the wording.
 
 ---
 
 **C-7833** Host Says Officials Keep Describing Confirming Only the First Part of the Plate
 
-Claim Timestamp: 00:52:24
+Claim Timestamp: 00:53:00
 
-Claim: The host says her team has noticed that officials repeatedly say they confirmed the first part of the plate, got a partial plate and ran it, including in Officer Go Forth's testimony.
+Claim: The host says, answering a viewer comment about license plates, that her team has noticed officials repeatedly say they confirmed the first part of the plate, got a partial plate and ran it, including in Officer Goforth's testimony.
 
 Transcript Snippet: every time they talk about the plates, they effectively say that they were able to confirm the first part of the plate.
 
 Anchored Artifacts: A-2424.1
-Mentions: N-3, N-40
+Mentions: N-3, N-865
 Related Nodes: N-10854
 Supports: C-3536
 Tags: relevance:core

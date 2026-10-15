@@ -378,7 +378,7 @@ Confidence Level: Low
 
 **N-426** Richard Novak
 
-First named by the host at 00:10:02 in episode 94. Aliases: Richard Novac.
+First named by the host at 00:10:02 in episode 94. Aliases: Richard Novak.
 
 *Related: C-2767*
 

@@ -1866,7 +1866,7 @@ Claim Timestamp: 00:52:11
 
 Claim: The host says Frank Turek has used similar rhetoric before, including a segment asking why the Mossad had not killed Candace Owens and Tucker Carlson.
 
-Transcript Snippet: Like he did this whole thing where he was like, "Why hasn't the MSAD killed Candace and Tucker Carlson?"
+Transcript Snippet: Like he did this whole thing where he was like, "Why hasn't the Mossad killed Candace and Tucker Carlson?"
 
 Anchored Artifacts: 
 Mentions: N-7, N-3, N-22
@@ -2032,13 +2032,13 @@ Confidence: high
 
 ---
 
-**M-11** (meme) MSAD
+**M-11** (meme) Mossad
 
 ### Occurrence 1
 
 Video Timestamp: 00:52:11
 Speaker: N-3
-Quote: Why hasn't the MSAD killed Candace and Tucker Carlson
+Quote: Why hasn't the Mossad killed Candace and Tucker Carlson
 Context: Host recites Turek's earlier Mossad remark.
 Tags: mossad, turek
 Confidence: high

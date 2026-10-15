@@ -1,0 +1,802 @@
+[
+ {
+  "claim": "C-3447",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'the lynch pin to this entire case against Tyler Robinson in my opinion'; claim drops 'in my opinion' and narrows scope to the surrender.",
+  "fix": {
+   "claim": "The host says Mike Mitchell was an undercover detective in internet sex crimes against children, and that in her opinion he is the linchpin to the entire case against Tyler Robinson because he persuaded the Robinson family to have Tyler surrender."
+  }
+ },
+ {
+  "claim": "C-3448",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3449",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3450",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Baron Coleman and Michael George Carl but Mentions omit them (N-331, N-868).",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-42",
+    "N-331",
+    "N-868"
+   ]
+  }
+ },
+ {
+  "claim": "C-3451",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Baron Coleman and Michael George Carl; Mentions are empty.",
+  "fix": {
+   "mentions": [
+    "N-331",
+    "N-868"
+   ]
+  }
+ },
+ {
+  "claim": "C-3452",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'what I obviously I am inferring is his statement'; claim states it as fact, dropping the hedge.",
+  "fix": {
+   "claim": "The host says the never-before-seen footage and still photographs she shows depict what she infers is Mikey McCoy's statement on September 10, 2025 being taken by a female officer wearing a vest reading \"Police\" and \"Utah ICAC.\""
+  }
+ },
+ {
+  "claim": "C-3453",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3454",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3455",
+  "episode": 152,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says it, citing HSI analyst allegation; claim says 'The episode presents'. Content spoken ~27:20, claim timestamp 23:47 is >3 min early. Leavitt (N-869) not in Mentions. Host adds 'There was no criminal finding'.",
+  "fix": {
+   "claim": "The host says that in 2020 an HSI analyst alleged that personnel received video evidence in April 2020 potentially implicating David Leavitt, whom she calls the Utah attorney general, in violations of federal trafficking and Indian child welfare laws, but failed to open an investigation; she says there was no criminal finding against him.",
+   "label": "Host Says an HSI Whistleblower Alleged Video Evidence Potentially Implicating David Leavitt Was Received in 2020",
+   "timestamp": "00:27:15",
+   "mentions": [
+    "N-869"
+   ]
+  }
+ },
+ {
+  "claim": "C-3456",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names David Leavitt (N-869) but Mentions are empty.",
+  "fix": {
+   "mentions": [
+    "N-869"
+   ]
+  }
+ },
+ {
+  "claim": "C-3457",
+  "episode": 152,
+  "attribution": "error",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host relays a Bulwark report ('thanks to the bull work', 'According to police and Tardio's alleged victim'); claim attributes to 'the episode' and drops the source. Erika Kirk (N-2) not in claim.",
+  "fix": {
+   "claim": "The host says, citing a Bulwark report, that Matt Tardio pleaded no contest in Portland in October 2025 to felony coercion and misdemeanor harassment, and that the alleged conduct was captured by surveillance cameras at an ICE facility.",
+   "mentions": [
+    "N-590"
+   ]
+  }
+ },
+ {
+  "claim": "C-3458",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Macklemore and Ed Sheeran; Mentions empty.",
+  "fix": {
+   "mentions": [
+    "N-836",
+    "N-837"
+   ]
+  }
+ },
+ {
+  "claim": "C-3459",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Robert Kraft, Macklemore, Ed Sheeran; Mentions empty.",
+  "fix": {
+   "mentions": [
+    "N-195",
+    "N-836",
+    "N-837"
+   ]
+  }
+ },
+ {
+  "claim": "C-3460",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says people were 'accused', 'charged', 'tied to'; claim says 'documented connections'. 'Erica' misspelled.",
+  "fix": {
+   "claim": "The host goes through a spreadsheet of people and organizations she links to Erika Kirk's circle or TPUSA who she says were accused of or tied to trafficking, child sex abuse, or related operations."
+  }
+ },
+ {
+  "claim": "C-3461",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Matt Robinson's household but N-778 is not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-125",
+    "N-778"
+   ]
+  }
+ },
+ {
+  "claim": "C-3462",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Body-cam remark is at ~11:12; claim timestamp 11:56 is ~40s late. 'After activation' in title not said.",
+  "fix": {
+   "timestamp": "00:11:10",
+   "label": "Host Says Officer Bagley's Body Cam Footage Notoriously Went Off After About 25 Minutes"
+  }
+ },
+ {
+  "claim": "C-3463",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3464",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10500",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10501",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10502",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10503",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Make Heaven Crowded tour paperwork is background on the Kirk circle, not the assassination or investigation itself.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-10504",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10505",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": true,
+  "note": "Host says 'Andrew Pascado'; Andrew Piskadlo is a real witness to the shooting (N-803). Claim/label keep the transcription error.",
+  "fix": {
+   "claim": "The host says Andrew Piskadlo was one of the people the feds questioned on September 10 and that in his own capacity he works to ring the alarm on military Ukrainian sex trafficking into the United States.",
+   "label": "Host Says Andrew Piskadlo Was Questioned by the Feds on September 10 and Warns of Ukrainian Military Sex Trafficking",
+   "names": [
+    {
+     "wrong": "Pascado",
+     "right": "Piskadlo",
+     "source": "https://x.com/AndrewPiskadlo/status/1967852781181735173"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-10506",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10507",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10508",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10509",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10510",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10511",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10512",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10513",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10514",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10515",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10516",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "Org is Soter Global (Albania, Romania, Ukraine medical care), not 'Sofer'/'Sofur'.",
+  "fix": {
+   "claim": "The host says Philip Goldsberry Jr. co-founded Soter Global Ministries (transcribed Sofur), a 501(c)(3) that provides medical care and training to orphans in Romania, Albania and Ukraine.",
+   "label": "Host Says Philip Goldsberry Jr. Co-Founded Soter Global Ministries Serving Orphans in Romania, Albania and Ukraine",
+   "names": [
+    {
+     "wrong": "Sofur",
+     "right": "Soter",
+     "source": "http://www.soterglobal.org/who-we-are"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-10517",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10518",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10519",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10520",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10521",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10522",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10523",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10524",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10525",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10526",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10527",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10528",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10529",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10530",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10531",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10532",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10533",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10534",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10535",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10536",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10537",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10538",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "Host says 'Utah State University police'; title says 'Utah State Police'.",
+  "fix": {
+   "label": "Host Lists FBI, SBI, UVU Police, SWAT, US Marshals and Utah State University Police Already on the Ground When ICAC Took McCoy's Statement"
+  }
+ },
+ {
+  "claim": "C-10539",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10540",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10541",
+  "episode": 152,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "Host: 'this is one big group. ...the feds wanted them... to have their hands everywhere'; claim makes the group the actor.",
+  "fix": {
+   "claim": "The host says, as her strong opinion, that this looks like a control mechanism being directed by the feds, that it is one big group, and that for some reason the feds wanted them to have their hands everywhere in the case."
+  }
+ }
+]

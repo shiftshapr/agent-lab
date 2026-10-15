@@ -25,7 +25,7 @@
 
 ## 2. Executive Summary
 
-CKA seq 2 presents host commentary on the Charlie Kirk assassination investigation and surrounding narratives. Primary artifacts include clips of Erika Kirk's widow remarks, Benjamin Netanyahu's Fox News interview, Charlie Kirk's Megyn Kelly interview, Greta Van Susteren's interview with Netanyahu, Michael Savage commentary, and surveillance/press materials from TMZ, Governor Cox, and Discord. Claims focus on alleged misrepresentations of a May 2 letter, a Hamptons intervention by Bill Ackman, a Netanyahu phone invitation, and investigative timeline inconsistencies (outfit changes, weapon handling, confession timing). Epistemic flags raised: transcript names 'Aman' likely Bill Ackman, 'Galain' likely Ghislaine Maxwell, 'MSAD' likely Mossad.
+CKA seq 2 presents host commentary on the Charlie Kirk assassination investigation and surrounding narratives. Primary artifacts include clips of Erika Kirk's widow remarks, Benjamin Netanyahu's Fox News interview, Charlie Kirk's Megyn Kelly interview, Greta Van Susteren's interview with Netanyahu, Michael Savage commentary, and surveillance/press materials from TMZ, Governor Cox, and Discord. Claims focus on alleged misrepresentations of a May 2 letter, a Hamptons intervention by Bill Ackman, a Netanyahu phone invitation, and investigative timeline inconsistencies (outfit changes, weapon handling, confession timing). Epistemic flags raised: transcript names 'Aman' likely Bill Ackman, 'Galain' likely Ghislaine Maxwell, 'Mossad' likely Mossad.
 
 ## 3. Artifact Register
 
@@ -656,7 +656,7 @@ Organization Kind: government_agency
 Israeli intelligence agency referenced in Charlie Kirk clip as alleged creator of Epstein blackmail operation.
 
 *Related: A-1086.1, C-1132*
-Uncertainty: Transcript spells 'MSAD'; canonical Mossad.
+Uncertainty: Transcript spells 'Mossad'; canonical Mossad.
 
 ---
 
@@ -1039,7 +1039,7 @@ Anchored Artifacts: A-1086.1
 Mentions: N-1, N-9, N-47, N-48
 Related Nodes: N-10015, N-10023
 Confidence: high
-Uncertainty: 'Galain' transcript variant for Ghislaine; 'MSAD' transcript variant for Mossad.
+Uncertainty: 'Galain' transcript variant for Ghislaine; 'Mossad' transcript variant for Mossad.
 Investigative Direction: Identify original source clip and verify exact wording of Kirk's commentary.
 
 ---
@@ -2487,13 +2487,13 @@ Tags: blackmail, deep_state
 
 ---
 
-**M-11** (meme) MSAD
+**M-11** (meme) Mossad
 
 ### Occurrence 1
 
 Video Timestamp: 00:30:07
 Speaker: N-3
-Quote: Epstein was a creation of either MSAD, Israeli intelligence, American intelligence, Saudi intelligence, or maybe he was just a hired gun.
+Quote: Epstein was a creation of either Mossad, Israeli intelligence, American intelligence, Saudi intelligence, or maybe he was just a hired gun.
 Context: Host comic spelling of Mossad while listing intel-agency theories about Epstein.
 Tags: intel_joke, spelling_gag
 Confidence: high

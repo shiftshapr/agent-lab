@@ -1065,7 +1065,7 @@ Investigative Direction: Gait analysis of unenhanced source footage; consultatio
 
 Claim Timestamp: 00:19:51–00:20:41
 
-Claim: The host says enhanced footage shows Terryl Farnsworth seated in the back of a Mercedes Sprinter van, working on a laptop and looking around (she says this is her inference), at approximately 1:00 PM on September 10, roughly 30 minutes after the event.
+Claim: The host says enhanced footage shows Terryl Farnsworth seated in the back of what she believes is a Mercedes Sprinter van, working on a laptop and looking around (she says this is her inference), at approximately 1:00 PM on September 10, a little over 30 minutes after Charlie went down.
 
 Anchored Artifacts: A-2370.1
 Mentions: N-262
@@ -1116,9 +1116,10 @@ Investigative Direction: Note as host stance against displayed source; cross-ref
 
 Claim Timestamp: 00:11:11–00:14:18
 
-Claim: Host explicitly endorses Bobby Sausalito's framing that Turek's escalating list of euphemisms (discrepancy, incongruity, irrelevant detail, irrelevant consequence) is not a satisfying response to a documented contradiction, and rejects Turek's claim that the contradiction does not matter.
+Claim: Host endorses Bobby Sausalito's response, in a clip she plays, to Frank Turek's CPR account, and says Turek keeps using euphemisms for lying (discrepancy, incongruity, irrelevant detail, irrelevant consequence), which she says do not make the contradiction irrelevant.
 
 Anchored Artifacts: A-2368.1, A-2369.1
+Mentions: N-7, N-901
 Related Nodes:
 Investigative Direction: Preserve both artifacts; treat host concurrence as separate claim linked to the same evidence base.
 
@@ -1164,7 +1165,7 @@ Claim: The host says Blake Harreff, a member of Charlie Kirk's security detail o
 Transcript Snippet: we discovered that rather mysteriously uh he's wearing scrubs from Temponogus Hospital. Presumably by nighttime he's wearing hospital scrubs.
 
 Anchored Artifacts: A-3158.1
-Mentions: N-900, N-7, N-3
+Mentions: N-900, N-3, N-1
 Related Nodes: N-11310
 Supports: C-3552, C-3551, C-3550
 Tags: relevance:core
@@ -1262,7 +1263,7 @@ Transcript Snippet: I've told you guys that for the last three years, I've been 
 Anchored Artifacts: 
 Mentions: N-367, N-3
 Related Nodes: N-10900, N-10416
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare against Boreing's own public statements and the legal filings the host cites.
 
 ---
@@ -1278,7 +1279,7 @@ Transcript Snippet: He even declared publicly that if his only contribution to t
 Anchored Artifacts: 
 Mentions: N-367, N-3
 Related Nodes: N-10900
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the original Boreing remark and its date.
 
 ---
@@ -1294,7 +1295,7 @@ Transcript Snippet: he's referred to Laura Loomer as a national treasure in this
 Anchored Artifacts: 
 Mentions: N-367, N-60, N-613
 Related Nodes: N-10900
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find the Boreing episodes or posts with the Loomer and Kraus remarks.
 
 ---
@@ -1303,14 +1304,14 @@ Investigative Direction: Find the Boreing episodes or posts with the Loomer and 
 
 Claim Timestamp: 00:06:09
 
-Claim: The host shows a collage of clips of Jeremy Boreing speaking about her, which she says fits on three cards and is not exhaustive.
+Claim: The host shows a collage of cards of Jeremy Boreing talking about her, which she says is not exhaustive and amounts to three cards.
 
 Transcript Snippet: This is a real collage and by no means is it extensive.
 
 Anchored Artifacts: A-3159.1
 Mentions: N-367, N-3
 Related Nodes: N-10900, N-10416
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Pull each clip in the collage to its source episode and verify the wording.
 
 ---
@@ -1357,7 +1358,7 @@ Transcript Snippet: So, I had to deal with it privately in court and now people 
 Anchored Artifacts: 
 Mentions: N-367, N-3
 Related Nodes: N-10900
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the court proceedings between the host and Boreing or the Daily Wire.
 
 ---
@@ -1400,7 +1401,7 @@ Investigative Direction: Reconstruct seating and positioning in the SUV from pho
 
 Claim Timestamp: 00:12:50
 
-Claim: The host says Brian Harpole is suing her over her saying he provided upstanding care, which makes the CPR discrepancy more relevant to her than to others.
+Claim: The host says Brian Harpole is suing her "on the basis of saying that he was just did all this upstanding care," which makes the CPR discrepancy more relevant to her than to others.
 
 Transcript Snippet: I mean, I got Brian Harpell suing me on the basis of saying that he was just did all this upstanding care.
 
@@ -1495,7 +1496,7 @@ Investigative Direction: Read the preliminary hearing transcript for the SBI wit
 
 Claim Timestamp: 00:20:41
 
-Claim: The host says the Farnsworth footage is enough to infer some evidence may have been tampered with, and asks how his technology was not fully seized.
+Claim: The host says the SBI being given thumb drives rather than original SD cards, and Farnsworth's technology not being fully seized, is enough to infer some evidence may have been tampered with.
 
 Transcript Snippet: this is enough to infer that some evidence may have been tampered with.
 
@@ -1556,7 +1557,7 @@ Investigative Direction: Identify the figure through independent comparison with
 
 ---
 
-**C-11783** Host lists Turek among those she says wore scrubs on returning from the hospital
+**C-11783** Host Says Her Hospital and Scrubs Questions Include Turek
 
 Claim Timestamp: 00:24:10
 
@@ -1639,7 +1640,7 @@ Investigative Direction: Screenshot block evidence from affected accounts.
 
 Claim Timestamp: 00:35:21
 
-Claim: The host says her tribute video said that Charlie was attending Mass and that people hoped he would become a Catholic, that she was then called a liar, and that Alex Clark did a full episode with Andrew Kolvet asserting she lied without naming her.
+Claim: The host says her tribute video said Charlie was attending Mass and that people hoped he would become a Catholic, that she was then called a liar, and that 'you' (addressing Alex Clark and others) did a full episode asserting she lied without naming her, mentioning Andrew Kolvet.
 
 Transcript Snippet: I mentioned in a sentence that he was we were all hoping he was going to take the next step and become a Catholic that he was attending mass and then you all called me a liar
 
@@ -1740,7 +1741,7 @@ Claim: The host says Vanity Fair contacted her over the weekend, said her commen
 Transcript Snippet: the article is going to be released imminently. They basically asked me if I'd like to comment but said that my comment doesn't actually matter because they fact checked everything.
 
 Anchored Artifacts: A-3161.1
-Mentions: N-3, N-2
+Mentions: N-3
 Related Nodes: N-10864
 Supports: C-3429
 Tags: relevance:core

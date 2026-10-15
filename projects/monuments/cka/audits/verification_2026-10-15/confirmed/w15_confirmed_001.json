@@ -1,0 +1,519 @@
+[
+ {
+  "claim": "C-14834",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "Defense counsel Richard Novak says in the audio played that it is true Mr. Kirk spoke hatefully of certain groups of people, including people who do not have traditional gender identities, are not strictly heterosexual, or have sexual relationships out of marriage.",
+   "names": [
+    {
+     "wrong": "Novac",
+     "right": "Novak",
+     "source": "https://www.foxnews.com/us/tyler-robinson-defense-attorney-embarrassed-attacking-charlie-kirk-full-hate-lawyer"
+    }
+   ]
+  },
+  "note": "Web search confirms Richard Novak is Robinson's defense attorney (Deseret, Getty, CNN)."
+ },
+ {
+  "claim": "C-14835",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "Novak says in the audio played that the evidence from Mr. Twiggs is that he identified in a non-gender-conforming way to his friends and was in a romantic relationship with Mr. Robinson.",
+   "names": [
+    {
+     "wrong": "Novac",
+     "right": "Novak",
+     "source": "https://www.foxnews.com/us/tyler-robinson-defense-attorney-embarrassed-attacking-charlie-kirk-full-hate-lawyer"
+    }
+   ]
+  },
+  "note": "Web search confirms Richard Novak is Robinson's defense attorney (Deseret, Getty, CNN)."
+ },
+ {
+  "claim": "C-14836",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "Novak says in the audio played that there is a significant gap between what Kirk said and stood for and what Robinson felt about him, which allows the state to make up a motive and amounts to an inference without evidence.",
+   "names": [
+    {
+     "wrong": "Novac",
+     "right": "Novak",
+     "source": "https://www.foxnews.com/us/tyler-robinson-defense-attorney-embarrassed-attacking-charlie-kirk-full-hate-lawyer"
+    }
+   ]
+  },
+  "note": "Web search confirms Richard Novak is Robinson's defense attorney (Deseret, Getty, CNN)."
+ },
+ {
+  "claim": "C-14841",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Mikey McCoy turns around for what she thinks is about 0.75 of a second and stays ahead of Charlie, so he could not have possibly seen that the security detail had it covered, that this alarmed people, and that it calls into question Blake Neff's account that they walked away from Charlie but 20 seconds later assumed someone had been detained.",
+   "mentions": [
+    "N-191",
+    "N-1",
+    "N-160"
+   ]
+  },
+  "note": "Transcript ties the 0.75s point to the security-detail/Blake claim, not blood; Neff named at 55:56."
+ },
+ {
+  "claim": "C-3399",
+  "episode": 148,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-351",
+    "N-1"
+   ]
+  },
+  "note": "JD Vance not referred to."
+ },
+ {
+  "claim": "C-3400",
+  "episode": 148,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-351"
+   ]
+  },
+  "note": "JD Vance not referred to."
+ },
+ {
+  "claim": "C-7700",
+  "episode": 148,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that at the Ye concert she told her husband and security she had to be down on the floor with the crowd, and that she was down to crowd surf at 8 months pregnant.",
+   "label": "Host Says She Was Down to Crowd Surf at 8 Months Pregnant"
+  },
+  "note": "'Down to' = willing; transcript does not say she crowd surfed."
+ },
+ {
+  "claim": "C-7706",
+  "episode": 148,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-27"
+   ]
+  },
+  "note": "Ben Shapiro not named in claim."
+ },
+ {
+  "claim": "C-7710",
+  "episode": 148,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-36"
+   ]
+  },
+  "note": "Claim does not refer to Charlie."
+ },
+ {
+  "claim": "C-7739",
+  "episode": 148,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Erika not referred to."
+ },
+ {
+  "claim": "C-7749",
+  "episode": 148,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Jesse Watters not in claim."
+ },
+ {
+  "claim": "C-7751",
+  "episode": 148,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-710"
+   ]
+  },
+  "note": "Erika not referred to in claim."
+ },
+ {
+  "claim": "C-3550",
+  "episode": 149,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-900"
+   ]
+  },
+  "note": "Claim is about Blake Harreff."
+ },
+ {
+  "claim": "C-3551",
+  "episode": 149,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-900",
+    "N-493",
+    "N-1"
+   ]
+  },
+  "note": "Add Harreff; claim also names Charlie (carry Charlie)."
+ },
+ {
+  "claim": "C-3552",
+  "episode": 149,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-900"
+   ]
+  },
+  "note": "Claim is about Blake Harreff."
+ },
+ {
+  "claim": "C-3555",
+  "episode": 149,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:22:25",
+   "claim": "The host says Dan Flood is also wearing surgical scrubs at the UVU return, but that we know he carried Charlie.",
+   "mentions": [
+    "N-271",
+    "N-1"
+   ]
+  },
+  "note": "Full transcript at ~22:30: 'Dan Flood is also wearing surgical scrubs, but we know he carried Charlie.'"
+ },
+ {
+  "claim": "C-3558",
+  "episode": 149,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:35:50",
+   "claim": "Per the host, if the steakhouse receipt is verified, Tyler Robinson did not leave the steakhouse until about 9:47 PM at the earliest.",
+   "mentions": [
+    "N-40"
+   ]
+  },
+  "note": "9:47 said ~35:55; host says 'leave', not 'swiped'."
+ },
+ {
+  "claim": "C-3559",
+  "episode": 149,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-54"
+   ]
+  },
+  "note": "Claim names Lance."
+ },
+ {
+  "claim": "C-3561",
+  "episode": 149,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:36:05",
+   "mentions": [
+    "N-40",
+    "N-903"
+   ],
+   "claim": "Per the host's timeline analysis, if the receipt is confirmed, the earliest Tyler Robinson could have arrived in Orem is approximately 1:47 AM - which would make multiple earlier events (12:36 AM vehicle stop, 12:38 AM sighting at Mrs. Noble's house, 12:50 AM campus approach, 1:33 AM Google Maps route) impossible for him as the driver."
+  },
+  "note": "1:47 said ~36:10; events precede 1:47."
+ },
+ {
+  "claim": "C-3564",
+  "episode": 149,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:44:20"
+  },
+  "note": "Callaway comment read ~44:25. Blakey unresolved."
+ },
+ {
+  "claim": "C-3671",
+  "episode": 149,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host plugs the CIA cap as one of the best-selling pieces of merch and says \"we are actually really the decentralized intelligence agency.\"",
+   "label": "Host Plugs CIA Cap and Calls Show the Decentralized Intelligence Agency"
+  },
+  "note": "'Candace Intelligence Agency' never said."
+ },
+ {
+  "claim": "C-14868",
+  "episode": 149,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says two Israeli officials joined Charlie's Zoom call at 4:00 a.m. in the morning their time.",
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Wolicki was stateside, so drop him; claim now names Charlie's call, so N-1 stays."
+ },
+ {
+  "claim": "C-14894",
+  "episode": 149,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-900",
+    "N-493"
+   ]
+  },
+  "note": "Claim names Davis."
+ },
+ {
+  "claim": "C-14911",
+  "episode": 149,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the citizen journalist Diligent Denizen released an interview with one of the waiters working that night and then the receipt because people were saying he was lying.",
+   "names": [
+    {
+     "wrong": "Denisen",
+     "right": "Denizen",
+     "source": "https://x.com/DiligentDenizen/status/2072422058802172200"
+    }
+   ]
+  },
+  "note": "Verified: X account @DiligentDenizen posted the Panguitch interview/receipt."
+ },
+ {
+  "claim": "C-3407",
+  "episode": 150,
+  "decision": "accept",
+  "fix": {
+   "claim": "Irina and John Mappin co-authored an open letter, which the host reads, stating that Charlie's death was \"an assassination with potentially far-reaching political consequences\" and asserting that \"the truth, when known… will have far-reaching international consequences.\"",
+   "mentions": [
+    "N-1",
+    "N-155",
+    "N-156"
+   ],
+   "names": [
+    {
+     "wrong": "Arena",
+     "right": "Irina",
+     "source": "https://johnmappin.substack.com/p/candace-owens-charlie-kirk-and-the"
+    }
+   ]
+  },
+  "note": "Verified Irina Mappin (John Mappin X/substack letter by John and Irina Mappin)."
+ },
+ {
+  "claim": "C-3413",
+  "episode": 150,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-27"
+   ]
+  },
+  "note": "Claim names Ye."
+ },
+ {
+  "claim": "C-3414",
+  "episode": 150,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Erika not referred to in claim text."
+ },
+ {
+  "claim": "C-3422",
+  "episode": 150,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-27"
+   ]
+  },
+  "note": "Claim names Ye."
+ },
+ {
+  "claim": "C-14954",
+  "episode": 150,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Irina and John Mappin attended Charlie Kirk's memorial and that Irina told her she had never seen so many people speaking her native Russian in Arizona.",
+   "label": "Host Says Irina and John Mappin Attended the Memorial and Irina Heard Many Russian Speakers",
+   "names": [
+    {
+     "wrong": "Arena",
+     "right": "Irina",
+     "source": "https://johnmappin.substack.com/p/candace-owens-charlie-kirk-and-the"
+    }
+   ],
+   "mentions": [
+    "N-155",
+    "N-156",
+    "N-1"
+   ]
+  },
+  "note": "Irina verified; claim also names Charlie Kirk, add N-1."
+ },
+ {
+  "claim": "C-3444",
+  "episode": 151,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-901"
+   ],
+   "claim": "Host endorses Bobby Sausalito's response, in a clip she plays, to Frank Turek's CPR account, and says Turek keeps using euphemisms for lying (discrepancy, incongruity, irrelevant detail, irrelevant consequence), which she says do not make the contradiction irrelevant."
+  },
+  "note": "Matches host at line 79: 'euphemisms for lie... it feels very relevant... as Bobby pointed out'."
+ },
+ {
+  "claim": "C-11758",
+  "episode": 151,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-900",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Turek not in claim; claim names Charlie Kirk, add N-1."
+ },
+ {
+  "claim": "C-11794",
+  "episode": 151,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Erika not named in claim."
+ },
+ {
+  "claim": "C-3446",
+  "episode": 152,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-136"
+   ]
+  },
+  "note": "Graf named."
+ },
+ {
+  "claim": "C-3450",
+  "episode": 152,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-42",
+    "N-331",
+    "N-868"
+   ]
+  },
+  "note": "Coleman and Carl named."
+ },
+ {
+  "claim": "C-3451",
+  "episode": 152,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-331",
+    "N-868"
+   ]
+  },
+  "note": "Coleman and Carl named."
+ },
+ {
+  "claim": "C-3455",
+  "episode": 152,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that in 2020 an HSI analyst alleged that personnel received video evidence in April 2020 potentially implicating David Leavitt, whom she calls the Utah attorney general, in violations of federal trafficking and Indian child welfare laws, but failed to open an investigation; she says there was no criminal finding against him.",
+   "label": "Host Says an HSI Whistleblower Alleged Video Evidence Potentially Implicating David Leavitt Was Received in 2020",
+   "timestamp": "00:27:05",
+   "mentions": [
+    "N-869"
+   ]
+  },
+  "note": "Fix right, but 2020 HSI line spoken ~27:10; 5s before is 27:05."
+ },
+ {
+  "claim": "C-3456",
+  "episode": 152,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-869"
+   ]
+  },
+  "note": "Leavitt named."
+ },
+ {
+  "claim": "C-3457",
+  "episode": 152,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says, citing a Bulwark report, that Matt Tardio pleaded no contest in Portland to felony coercion and misdemeanor harassment over an incident she dates to last October, October 2025, and that the alleged conduct was captured by surveillance cameras at the ICE facility.",
+   "mentions": [
+    "N-590"
+   ]
+  },
+  "note": "Host's 'last October' is ambiguous; Bulwark: incident Oct 2025, plea Aug 2026. Keep her wording, not plea in Oct."
+ },
+ {
+  "claim": "C-3458",
+  "episode": 152,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-836",
+    "N-837"
+   ]
+  },
+  "note": "Both named."
+ },
+ {
+  "claim": "C-3459",
+  "episode": 152,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-195",
+    "N-836",
+    "N-837"
+   ]
+  },
+  "note": "All named."
+ }
+]

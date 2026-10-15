@@ -4099,7 +4099,7 @@
       ],
       "claim_timestamp": "00:47:40",
       "investigative_direction": "No specific source given; identify what documents the host is relying on.",
-      "transcript_snippet": "We know like about the CIA and Israel funding al-Qaeda funding alus, the MSAD motto",
+      "transcript_snippet": "We know like about the CIA and Israel funding al-Qaeda funding alus, the Mossad motto",
       "mentions_person_refs": [
         "N-3"
       ]
@@ -4600,15 +4600,15 @@
       "@type": "MemeAnalysis",
       "@id": "M-11",
       "ref": "M-11",
-      "canonical_term": "MSAD",
+      "canonical_term": "Mossad",
       "type": "meme",
       "occurrences": [
         {
           "episode": 139,
           "video_timestamp": "00:47:40",
           "speaker_node_ref": "N-3",
-          "quote": "the MSAD motto, you know, that they're going to conquer the world through deception.",
-          "context": "Host uses MSAD for Mossad while reacting to the Daily Wire trailer.",
+          "quote": "the Mossad motto, you know, that they're going to conquer the world through deception.",
+          "context": "Host uses Mossad for Mossad while reacting to the Daily Wire trailer.",
           "confidence": "high",
           "tags": [
             "msad",

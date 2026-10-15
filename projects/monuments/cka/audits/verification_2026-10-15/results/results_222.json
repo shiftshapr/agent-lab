@@ -1,0 +1,793 @@
+[
+ {
+  "claim": "C-3674",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host only says \"you can buy a CIA hats. It actually should be the decentralized intelligence agency.\" \"Candace Intelligence Agency\" and \"twin brand\" are not said.",
+  "fix": {
+   "claim": "The host tells Andrew that you can buy CIA hats, saying it should actually be the \"decentralized intelligence agency\" and \"we got nothing to hide.\""
+  }
+ },
+ {
+  "claim": "C-11804",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Pregnancy remark is the host's personal life, not about the assassination; tagged context.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11805",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11806",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11807",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11808",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11809",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11810",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11811",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11812",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11813",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11814",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11815",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11816",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11817",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11818",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11819",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11820",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11821",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11822",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11823",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11824",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11825",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11826",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11827",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Erika (N-2) is not named in the claim; claim only covers parents, school and TPUSA.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-11828",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names the host and Kolvet only; Charlie (N-1) is not referenced in the claim.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-11829",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11830",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"We got power. We know Kash Patel...\" is the host sarcastically voicing the new TPUSA 2.0, not a literal claim.",
+  "fix": {
+   "claim": "The host, sarcastically voicing the new TPUSA 2.0 (\"We got power\"), says they know Kash Patel and Pete Hegseth, have the executive office on speed dial and have Air Force Two and Air Force One."
+  }
+ },
+ {
+  "claim": "C-11831",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11832",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11833",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11834",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11835",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11836",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11837",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11838",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11839",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host first describes a \"slay the patriarchy\" shirt, then asks what it says and reads \"Never gender,\" adding she cannot see it well.",
+  "fix": {
+   "claim": "The host says the Empress Films staff are proud feminists and pro-LGBTQ and that one employee wore a shirt she describes as \"slay the patriarchy\" but then reads as \"Never gender\" while saying she cannot see it well, which she says makes the company an odd match for Erika Kirk and Kolvet."
+  }
+ },
+ {
+  "claim": "C-11840",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11841",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Tucker Carlson (N-22) is not referenced in the claim.",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-734",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-11842",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Tucker Carlson (N-22) is not referenced in the claim.",
+  "fix": {
+   "mentions": [
+    "N-160"
+   ]
+  }
+ },
+ {
+  "claim": "C-11843",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11844",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11845",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Charlie Kirk (N-1) is not referenced in the claim.",
+  "fix": {
+   "mentions": [
+    "N-22"
+   ]
+  }
+ },
+ {
+  "claim": "C-11846",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11847",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11848",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11849",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11850",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11851",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Baron taking over is from the viewer comment she reads; \"she's gone for like eight weeks\" is the host voicing TPUSA in a joke.",
+  "fix": {
+   "claim": "Reading a viewer comment that says TPUSA probably cancelled its party on learning Baron Coleman would take over the show, the host jokes that TPUSA was excited because \"she's gone for like eight weeks.\""
+  }
+ },
+ {
+  "claim": "C-11852",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Cole family and J6 pipe-bomb case is not about the Kirk assassination; sibling claims are tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11853",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"they immediately released old footage\"; \"authorities\" is not said.",
+  "fix": {
+   "claim": "The host says that after the Cole family spoke out, \"they\" immediately released old footage of Brian Cole being pulled over, and that the same two Scripps News reporters released the Robinson footage."
+  }
+ },
+ {
+  "claim": "C-11854",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Brian Cole (N-25) is not referenced in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-11855",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names neither Cole nor Robinson; N-25 and N-40 are not referenced.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-11856",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host voices TPUSA in a mocking second-person (\"we'll have you on the show as long as you say something bad about Candace\"); Erika (N-2) not named in claim.",
+  "fix": {
+   "claim": "The host, voicing TPUSA mockingly, says \"we don't care what you did\" to Matt Tardio and \"we'll have you on the show as long as you say something bad about Candace,\" while Erika has access to high schools and he was chasing young women down alleys in front of ICE facilities.",
+   "mentions": [
+    "N-590",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-11857",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11858",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3513",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Boreing named in claim but not in Mentions. At 00:00 host only mentions the photo selected to promote their sitdown; the promo clip plays at 36:51.",
+  "fix": {
+   "claim": "The host says Blake Neff and Jeremy Boreing consciously selected a photo to promote their upcoming sitdown, which she says will undoubtedly be about her.",
+   "mentions": [
+    "N-160",
+    "N-367"
+   ]
+  }
+ },
+ {
+  "claim": "C-3514",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Bobby Sausalito, Neff and Boreing but Mentions omits N-901, N-160, N-367.",
+  "fix": {
+   "mentions": [
+    "N-901",
+    "N-160",
+    "N-367",
+    "N-22",
+    "N-3",
+    "N-191",
+    "N-2",
+    "N-7"
+   ]
+  }
+ },
+ {
+  "claim": "C-3515",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says \"Almost spot on. The only thing he got wrong... is that he's not doing it for money,\" before the promo clip plays; Sausalito (N-901) not in Mentions.",
+  "fix": {
+   "claim": "The host says Bobby Sausalito's pre-release predictions were \"almost spot on,\" except that he was wrong that Boreing is doing it for money.",
+   "mentions": [
+    "N-901"
+   ]
+  }
+ },
+ {
+  "claim": "C-3516",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Speaker of the \"malicious, hateful\" line is not marked in the clip transcript; consistent with Neff. Unverified.",
+  "fix": {}
+ }
+]

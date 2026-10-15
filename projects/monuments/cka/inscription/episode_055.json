@@ -570,7 +570,7 @@
       "ref": "N-438",
       "name": "Johnnie Moore",
       "type": "person",
-      "description": "Former Liberty University lead pastor (left 2014); founder of Chyros Company; claimed in this episode to be a disciple of Ron Godwin. Self-identifies in audio as involved with ADL and Aspen Institute.",
+      "description": "Former Liberty University lead pastor (left 2014); founder of Kairos Company; claimed in this episode to be a disciple of Ron Godwin. Self-identifies in audio as involved with ADL and Aspen Institute.",
       "related_artifacts": [
         "A-1608.1",
         "A-1610.1",
@@ -3006,7 +3006,7 @@
       ],
       "claim_timestamp": "00:20:09",
       "investigative_direction": "Seek Liberty hiring correspondence or Moore's own statements on returning to the university.",
-      "transcript_snippet": "Johnny Moore immediately and consistently despite establishing the Chyros Company wanted his job back at Liberty University",
+      "transcript_snippet": "Johnny Moore immediately and consistently despite establishing the Kairos Company wanted his job back at Liberty University",
       "mentions_person_refs": [
         "N-438"
       ]
@@ -3478,7 +3478,7 @@
       ],
       "claim_timestamp": "00:32:10",
       "investigative_direction": "Check Netanyahu's documented employment history and the earlier Epstein-series episode she cites.",
-      "transcript_snippet": "It's almost as if the MSAD and the CIA, there is no separation between the two. It's why BB used to work for the CIA",
+      "transcript_snippet": "It's almost as if the Mossad and the CIA, there is no separation between the two. It's why BB used to work for the CIA",
       "mentions_person_refs": [
         "N-36"
       ]
@@ -4082,15 +4082,15 @@
       "@type": "MemeAnalysis",
       "@id": "M-11",
       "ref": "M-11",
-      "canonical_term": "MSAD",
+      "canonical_term": "Mossad",
       "type": "meme",
       "occurrences": [
         {
           "episode": 55,
           "video_timestamp": "00:32:10",
           "speaker_node_ref": "N-3",
-          "quote": "It's almost as if the MSAD and the CIA, there is no separation between the two.",
-          "context": "Host uses the 'MSAD' shorthand for Mossad when equating it with the CIA.",
+          "quote": "It's almost as if the Mossad and the CIA, there is no separation between the two.",
+          "context": "Host uses the 'Mossad' shorthand for Mossad when equating it with the CIA.",
           "confidence": "high",
           "tags": [
             "mossad",

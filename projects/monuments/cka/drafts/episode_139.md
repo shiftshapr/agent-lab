@@ -2492,7 +2492,7 @@ Claim Timestamp: 00:47:40
 
 Claim: The host asserts, in reacting to the trailer, that the CIA and Israel funded al-Qaeda and asks whether the filmmakers know people know this.
 
-Transcript Snippet: We know like about the CIA and Israel funding al-Qaeda funding alus, the MSAD motto
+Transcript Snippet: We know like about the CIA and Israel funding al-Qaeda funding alus, the Mossad motto
 
 Anchored Artifacts: A-2263.2
 Mentions: N-3
@@ -2843,14 +2843,14 @@ Confidence: high
 
 ---
 
-**M-11** (meme) MSAD
+**M-11** (meme) Mossad
 
 ### Occurrence 1
 
 Video Timestamp: 00:47:40
 Speaker: N-3
-Quote: the MSAD motto, you know, that they're going to conquer the world through deception.
-Context: Host uses MSAD for Mossad while reacting to the Daily Wire trailer.
+Quote: the Mossad motto, you know, that they're going to conquer the world through deception.
+Context: Host uses Mossad for Mossad while reacting to the Daily Wire trailer.
 Tags: msad, mossad
 Confidence: high
 

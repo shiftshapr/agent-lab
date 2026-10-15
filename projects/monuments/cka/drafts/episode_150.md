@@ -45,7 +45,7 @@ N-1 (Charlie Kirk) reused; no new topic spray nodes
 
 Episode 150 marks the one-year anniversary of Charlie Kirk's death. The host reads aloud from personal journal entries she wrote to Charlie throughout the year, weaving memoir reflection with the ongoing "assassination" framing.
 
-The episode's evidentiary contributions are primarily personal-journal artifacts and one third-party open letter. The letter from Arena, John Mappin, and Irina (A-2352.1) characterizes Charlie's death as an "execution," demands the official investigation proactively share what it knows with Candace's team, and frames her investigative activity as "providential, divinely inspired, and metaphysical." The journal entries (A-2351.1–A-2351.4) include Candace's reported observation of a "scheduled will change," a suburban house Charlie purchased that Erica avoided, a text Charlie wrote describing his future wife as "paralyzing" (A-2353.1), and reported conduct by Ben Shapiro at Charlie's studio within days of his death (verbal claim, journal-anchored).
+The episode's evidentiary contributions are primarily personal-journal artifacts and one third-party open letter. The letter from Irina, John Mappin, and Irina (A-2352.1) characterizes Charlie's death as an "execution," demands the official investigation proactively share what it knows with Candace's team, and frames her investigative activity as "providential, divinely inspired, and metaphysical." The journal entries (A-2351.1–A-2351.4) include Candace's reported observation of a "scheduled will change," a suburban house Charlie purchased that Erica avoided, a text Charlie wrote describing his future wife as "paralyzing" (A-2353.1), and reported conduct by Ben Shapiro at Charlie's studio within days of his death (verbal claim, journal-anchored).
 
 Audio artifacts include a Charlie Kirk clip from his escalator arrival at the TPUSA founding event (A-2356.1), Kanye West "Power" song excerpts (A-2357), the "beautiful death" scene from the movie 300 (A-2358.1), two road-trip clips with Charlie (A-2359), the Ye/Kid Cudi Ghost Town concert performance in Chicago during the anniversary week (A-2360.1), and an older "outwork" friendship clip (A-2361.1). Two public social media artifacts (Kanye 2018 tweet; Trump mock-Time tweet) are verbally described but not shown.
 
@@ -101,7 +101,7 @@ Confidence Level: High
 
 **A-2352** Open Letter Bundle (Mappin family / Irina)
 
-**A-2352.1** Open letter from Arena, John Mappin, and Irina, addressed to "the world," read aloud by host
+**A-2352.1** Open letter from Irina, John Mappin, and Irina, addressed to "the world," read aloud by host
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -326,7 +326,7 @@ Host's husband, named as present when she said Charlie was betrayed and as the p
 
 **N-155** John Mappin
 
-Co-author with Arena of the open letter the host reads.
+Co-author with Irina of the open letter the host reads.
 
 *Related: C-14954, C-14955, C-14956, C-14957*
 
@@ -468,7 +468,7 @@ Existing topic reused for the Russian speakers at the memorial.
 **C-3406** Candace Owens journaled to Charlie Kirk throughout the year following his death
 
 Claim Timestamp: 00:00:42–00:27:35
-Claim: The host presents four dated journal entries written to Charlie Kirk across the year after his death, read aloud in full.
+Claim: The host reads aloud journal entries she wrote to Charlie Kirk across the year after his death, saying she is sharing only some of her journaling.
 Anchored Artifacts: A-2351.1, A-2351.2, A-2351.3, A-2351.4
 Mentions: N-1, N-3
 Investigative Direction: Verify continuity of journal entries against timestamps and corroborating events referenced.
@@ -478,9 +478,9 @@ Investigative Direction: Verify continuity of journal entries against timestamps
 **C-3407** Mappin family open letter calls Charlie's death an "execution" with "far-reaching international consequences"
 
 Claim Timestamp: 00:06:08
-Claim: Arena, John Mappin, and Irina co-authored an open letter stating that Charlie's death was "an assassination with potentially far-reaching political consequences" and asserting that "the truth, when known… will have far-reaching international consequences."
+Claim: Irina and John Mappin co-authored an open letter, which the host reads, stating that Charlie's death was "an assassination with potentially far-reaching political consequences" and asserting that "the truth, when known… will have far-reaching international consequences."
 Anchored Artifacts: A-2352.1
-Mentions: N-1, N-155
+Mentions: N-1, N-155, N-156
 Investigative Direction: Locate original publication of the open letter and verify signatures.
 
 ---
@@ -546,7 +546,7 @@ Investigative Direction: Locate the original tweet via archive. *Artifact verbal
 Claim Timestamp: 00:25:15–00:26:04
 Claim: Host reports that she attended Ye's Chicago concert during the week of the anniversary, at which Kid Cudi was brought on stage.
 Anchored Artifacts: A-2360.1
-Mentions: N-3
+Mentions: N-3, N-27
 Related Nodes:
 
 Investigative Direction: Confirm concert date and Kid Cudi's set via tour documentation.
@@ -558,12 +558,12 @@ Investigative Direction: Confirm concert date and Kid Cudi's set via tour docume
 Claim Timestamp: 00:10:38
 Claim: Host asserts in her written journal: "I know about the scheduled will change."
 Anchored Artifacts: A-2351.2
-Mentions: N-1, N-2, N-3
+Mentions: N-1, N-3
 Investigative Direction: Obtain probate records and any will amendments filed in relevant jurisdiction.
 
 ---
 
-**C-3415** Host reports Charlie Kirk purchased a house in the suburbs that Erica Kirk avoided moving into
+**C-3415** Host Reports Charlie Kirk Purchased a House in the Suburbs that Erika Kirk Avoided Moving Into
 
 Claim Timestamp: 00:10:38
 Claim: Host asserts in journal that Charlie "purchased and dreamed about moving into" a suburban house and that Erica "came up with a million excuses not to."
@@ -643,7 +643,7 @@ Investigative Direction: Verify against any contemporaneous recording, communica
 Claim Timestamp: 00:25:15
 Claim: Host states Ye "returned to Chicago… during the week of your anniversary" after six years.
 Anchored Artifacts: A-2360.1
-Mentions: N-1
+Mentions: N-1, N-27
 Related Nodes:
 
 Investigative Direction: Confirm via Ye tour itinerary and prior concert dates.
@@ -809,16 +809,16 @@ Investigative Direction: Identify the vendors and products the host means; compa
 
 ---
 
-**C-14954** Host Says Arena and John Mappin Attended the Memorial and Irina Heard Many Russian Speakers
+**C-14954** Host Says Irina and John Mappin Attended the Memorial and Irina Heard Many Russian Speakers
 
 Claim Timestamp: 00:05:08
 
-Claim: The host says Arena and John Mappin attended Charlie Kirk's memorial and that Irina told her she had never seen so many people speaking her native Russian in Arizona.
+Claim: The host says Irina and John Mappin attended Charlie Kirk's memorial and that Irina told her she had never seen so many people speaking her native Russian in Arizona.
 
 Transcript Snippet: she told me that she had never seen so many people speaking her native language, Russian, in Arizona.
 
 Anchored Artifacts: A-2351.1
-Mentions: N-155, N-156
+Mentions: N-155, N-156, N-1
 Related Nodes: N-11059, N-10002
 Tags: relevance:context
 Investigative Direction: Ask the Mappins for a first-hand account; compare with attendee lists, seating and credentialing for the Glendale memorial.
@@ -953,7 +953,7 @@ Investigative Direction: Ask the host which partnerships she means; compare with
 
 Claim Timestamp: 00:10:38
 
-Claim: The host says Erika Kirk has been chasing power her entire life and that this is why she will never have the real kind.
+Claim: The host says Erika Kirk has been chasing power her entire life and that she thinks this is why she will never have the real kind.
 
 Transcript Snippet: I know now that her entire life she has been chasing power.
 
@@ -964,7 +964,7 @@ Investigative Direction: Opinion about Erika Kirk's character; check biographica
 
 ---
 
-**C-14964** Host Says Charlie Told Her They Would Not Kill Him but Would Make Stuff Up and Attack Family
+**C-14964** Host Says Charlie Told Her They Would Not Kill Her but Would Make Stuff Up and Attack Family
 
 Claim Timestamp: 00:11:50
 
@@ -1017,7 +1017,7 @@ Investigative Direction: Check dates of the Kanye tweet and the 2018 Israel trip
 
 Claim Timestamp: 00:12:38
 
-Claim: The host says she felt a spiritual pull to be in London in 2018, that Charlie arranged a reason to go, and that meeting George on that unplanned trip saved her life.
+Claim: The host says she felt a spiritual pull to be in London in 2018, told Charlie they needed to be there and that he had to find a reason to get them there, and that meeting George on that unplanned trip saved her life.
 
 Transcript Snippet: Meeting George in unplanned trip saved my life.
 

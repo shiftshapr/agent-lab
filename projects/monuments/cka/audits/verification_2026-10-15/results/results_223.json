@@ -1,0 +1,781 @@
+[
+ {
+  "claim": "C-3517",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Clip speaker not named in transcript; 'Charlie' is referred to in quote but N-1 not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-160",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-3518",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Promo clip: 'Tucker has extended maximum grace to Candace Owens.' Speaker not named; plausible Neff.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3519",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Jeremy Boreing but Mentions omits N-367. Host reads tweet 'She does this largely on purpose...'",
+  "fix": {
+   "mentions": [
+    "N-367",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-3520",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host reads Loomer tweet: 'We won't be getting the Save America Act before midterms... miracle if the Democrats don't take the House and the Senate.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-3521",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'GOP is genuinely useless... on track to sweep the midterms'; claim says 'projected' (close).",
+  "fix": {}
+ },
+ {
+  "claim": "C-3522",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Libs of Tik Tok upset prediction markets project Democrats have a 59% to sweep both chambers.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-3523",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Vance clip lists tax cuts, border/immigration, H-1B reform, 'give us another chance'. Timestamp at block end, acceptable.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3524",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'two different Grey Dodge Challengers arrived within 20 minutes... a little over an hour, a little under two hours before they leave around the same time.' Range covers content.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3525",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'He makes over three to four attempts there' in the administrative lot; Waluigi named at 03:41.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3526",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'goes to the very tippity top... waits for approximately 8 minutes... then parked on a lower level.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-3527",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'TMZ footage... 8:07 a.m. He is seen walking toward campus'; 'surveillance' not said.",
+  "fix": {
+   "claim": "The host says TMZ footage timestamped 8:07 AM on Sept 10 shows Tyler Robinson walking toward the UVU campus, and that this indicates he was already parked off campus at that time."
+  }
+ },
+ {
+  "claim": "C-3528",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Agent Mortensson and Robinson but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-902",
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-3529",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Hull 'now claims that Maroon Boy did no such thing in that first hour... checked in with the TPUSA rep'; omission of 8 min stop asserted earlier. Hull named.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3530",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: Noble 'her and her husband see it parked... bald person... two people in the back seat'. Claim names Miss Noble and Officer Goforth but Mentions empty.",
+  "fix": {
+   "mentions": [
+    "N-903",
+    "N-865"
+   ]
+  }
+ },
+ {
+  "claim": "C-3675",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'We are the Decentralized Intelligence Agency.' 'crowd-sourced tip network opposing centralized intel' is not said.",
+  "fix": {
+   "claim": "The host, while plugging merch, says \"We are the Decentralized Intelligence Agency.\""
+  }
+ },
+ {
+  "claim": "C-3676",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'You can buy a CIA hat. We are the Decentralized Intelligence Agency.' 'Candace Intelligence Agency' and 'twin brand' are not said.",
+  "fix": {
+   "claim": "The host plugs merch including a \"CIA hat\" and says \"We are the Decentralized Intelligence Agency.\""
+  }
+ },
+ {
+  "claim": "C-11859",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "'Tucker Carlson said, just look at the photo.' A feud remark about a photo, not about the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11860",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Car people emailed about body difference between towed Challenger and admin-lot Challenger.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11861",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'he has exceptionally tall legs and he looks to me like he's shaped like Waluigi.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11862",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'person who gets out of this car is [not] the same person that is in the garage'; claim says 'leaving'.",
+  "fix": {
+   "claim": "The host says she is not claiming the two Challengers are the same car and that she does not think the person who gets out of the admin-lot Challenger is the person in the parking garage at the same time; Challenger one is tied to the garage and Challenger two to the admissions lot."
+  }
+ },
+ {
+  "claim": "C-11863",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'we have actually no idea what either of these two people did'; claim generalizes to 'no one'.",
+  "fix": {
+   "claim": "The host says that she and her team have no idea what either Maroon Boy or Waluigi did during roughly an hour and a half on campus, and that no narrative has been provided for that time."
+  }
+ },
+ {
+  "claim": "C-11864",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Hull (says 'the preliminary hearing'); N-570 not named.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-11865",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Warrant data from producer vs Hull's hearing testimony; Hull named.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11866",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'After Maroon Boy exits campus at 9:33... around the same time that Waluigi exits... he's going to leave 17 minutes later at about 9:50.' Ambiguous 'he'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11867",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Agent Hull doesn't even so much as try to suggest that they tracked Maroon Boy Dodge Challenger off campus. He doesn't suggest that they saw him changing outfits.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11868",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'There are no photos or videos of an identifiable Dodge Challenger parked off campus.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11869",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: Challenger 'which we were told returned after midnight'; 'They've never indicated that he had on body cam footage' (he = Goforth). Hedge dropped, bodycam subject shifted.",
+  "fix": {
+   "claim": "The host says that the Dodge Challenger which \"we were told\" returned after midnight and pulled up to Officer Goforth for a conversation was not accompanied by any indication from them that Goforth had body cam footage."
+  }
+ },
+ {
+  "claim": "C-11870",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: Hull's testimony 'registered to me as remarkably rehearsed'; claim drops the subjective hedge.",
+  "fix": {
+   "claim": "The host says Hull's testimony over the footage \"registered to me as remarkably rehearsed\" and fast-paced, like an auctioneer, and that at times what he said and what viewers saw were in conflict."
+  }
+ },
+ {
+  "claim": "C-11871",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'there's only one time... maybe picking up something down by his feet... head kind of goes missing downward.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11872",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'The TMZ footage, which they, for some reason, omitted' and 'They don't want to bring up this footage in court.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11873",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'my thoughts are that it's because this little episode... was intended because they needed that crucial footage'; no reason not to park off campus.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11874",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'I say it's because the car was meant to be seen. That was the decoy boy's literal job...'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11875",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'we broke the story that Tyler Robinson was seen at the Dairy Queen... throwing out clothes in the cemetery... never been formally addressed or denied.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11876",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'I do not believe he had anything to do with the actual killing of Charlie Kirk, but I reckon he could be guilty of tampering with evidence.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11877",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'email us more tips@... I'd like a cemetery followup. Maybe you're a police officer.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11878",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'possibly driven by his boyfriend, Lance. I certainly do not buy the story of Lance sleeping through the entire day.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11879",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host does not believe Robinson changed into black flag shirt nor was on the Loy rooftop.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11880",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Converse as evidence in Robinson prosecution bears directly on the investigation; context undersells.",
+  "fix": {
+   "relevance": "core"
+  }
+ },
+ {
+  "claim": "C-11881",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'I think there could have been a morning meeting that happened at UVU ahead of what was in my opinion a very carefully planned assassination.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11882",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'I think Miss Noble... were telling the truth when she said that she saw a bald man and two other people in a Dodge Challenger.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11883",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'I suspect that those people were driving a rental car, and my best evidence is that no one seems to be able to keep their story straight.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11884",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'in the early days, we were told Charlie's killer changed [clothes] in the rooftop, screwdriver found with gun in woods. That got changed.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11885",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host reads warrant clothing description. Claim does not name Mortensson, so N-902 is not a Mention.",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-11886",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'he heads to Chick-fil-A, sits down, he eats Chick-fil-A, and then... walk around campus to the wooded area' per Hull.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11887",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'He plays Wordle off campus, sends that score to his friends at 11:28 and then he changes back into his clothes.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11888",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'he changes into that black shirt with an American flag again. Use your imagination. We have no evidence of that.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11889",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'That time gets adjusted three times across three different warrants.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11890",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says 'a 300 6' (i.e. .30-06), not '.300'; rest matches ('That's my opinion... explosive is much more likely').",
+  "fix": {
+   "claim": "The host says Charlie Kirk did not have a neck of steel, that a .30-06 would have passed through it, that he simply was not shot by a .30-06 and potentially was not shot at all, and that she thinks an explosive is much more likely.",
+   "label": "Host Says Kirk Was Likely Not Shot by a .30-06 and an Explosive Is More Likely"
+  }
+ },
+ {
+  "claim": "C-11891",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'that is the admissions lot. That's where admissions would be' about the building; claim garbles it.",
+  "fix": {
+   "claim": "The host says many people early on kept saying they thought they saw things happening on top of the Woodbury building, which she says is where admissions would be."
+  }
+ },
+ {
+  "claim": "C-11892",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'person that was arrested who was taking photos outside of the Woodbury building... the very next day... medical coat.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11893",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'the N88 plane and Shelaine and Derek Maxfield. It was their plane. They had to come out and give a statement.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11894",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'shared ownership of that plane with a couple last name B Aum Bomb who had given $5 million to UVU.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11895",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Chelsea and Casey Ba B A U G H donated $5 million to UVU... end of the year going into 2025.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11896",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'entrepreneurship institute located in the Woodbury building... partial owners of that plane. Again, doesn't mean anything at all.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11897",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'reach back out to us at more tips@candis.com.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11898",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host: 'He will then host someone... take a position opposite of mine'; thumbnails about 'me and Tucker Carlson'. Feud, not assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11899",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host: 'it sounded like I said selfesteem... creates a diagnosis for me.' Personal feud.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11900",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Clip: 'there's a reason Charlie called him his secret weapon... A weapon is supposed to do damage to the other person, not yourself.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11901",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Clip: 'Germs wants to continue to get paid by Turning Point... run cover... rebrand all the people that speak at Turning Point.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11902",
+  "episode": 155,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "'The only thing that he got wrong... he's not doing it for money... deranged man that is just stalking me.' Personal feud.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ }
+]

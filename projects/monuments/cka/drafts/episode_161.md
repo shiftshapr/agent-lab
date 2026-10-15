@@ -1007,7 +1007,7 @@ Investigative Direction: Recover pre-wipe September 12-14 HTML; list first campa
 **C-3692** Blake Wynn puts Erika Kirk in a rare bucket of human beings he looks up to
 
 Claim Timestamp: 00:27:17
-Claim: On the Fargo Talks clip, Blake Wynn says he was at breakfast with the host when Charlie was shot and places Erika Kirk in a rare bucket of people he looks up to as human beings (alongside uncle Steve and a few others); Candace rejects romance rumors and frames a business relationship.
+Claim: On the Fargo Talks clip, Blake Wynn tells interviewer Jeff Fargo he was with him at breakfast when he found out Charlie was shot, and places Erika Kirk and Fargo in a rare bucket of people he looks up to as human beings, apart from business heroes such as his uncle Steve; the host rejects romance rumors and frames a business relationship.
 Anchored Artifacts: A-2502.1
 Mentions: N-353, N-2, N-354
 Related Nodes: N-10882
@@ -1029,7 +1029,7 @@ Investigative Direction: Document Hustlers University affiliate mechanics vs Mon
 **C-3694** Host solicits tips on Monster Lab ownership and Wayback wipe
 
 Claim Timestamp: 00:44:24
-Claim: The host says her team cannot find who sits atop the Monster Lab / Clippet DBA from LLC docs and asks viewers to email moretips@candace.com (more tips at candace.com) with ownership leads and explanations for the Wayback loading wipe.
+Claim: The host says her team cannot find who sits atop the Monster Lab / Clippet DBA from LLC docs and asks viewers to email moretips@candaceowens.com (more tips at candaceowens.com) with ownership leads and explanations for the Wayback loading wipe.
 Anchored Artifacts: A-2504.1
 Mentions: N-3
 Related Nodes: N-10880, N-10884
@@ -1070,7 +1070,7 @@ Claim: C-3696 spells the name 'Bill Ackman' (auto-caption form). The person is B
 Transcript Snippet: You had I told you Bill Ackman who was on the board of Howard Hughes Inc. today.
 
 Anchored Artifacts: A-2500.1
-Mentions: N-37, N-69
+Mentions: N-37
 Related Nodes: N-10887
 Revises: C-3696
 Confidence: medium
@@ -1092,7 +1092,7 @@ Investigative Direction: Pair public denial quotes with contemporaneous Discord/
 
 **C-3698** Comments: unnamed fire-captain CPR remains the dog not barking
 
-Claim Timestamp: 00:55:45
+Claim Timestamp: 00:57:20
 Claim: Returning to yesterday's UVU review point, the host and a commenter question a fire captain riding to the ER to CPR a body reportedly dead ~15 minutes, note hospital redirect audio to Timpanogos, and say that unidentified captain still feels significant.
 Anchored Artifacts: A-2476.1
 Mentions: N-1
@@ -1179,7 +1179,7 @@ Investigative Direction: Identify any PR firm contracts that touch the clipping 
 
 Claim Timestamp: 00:07:55
 
-Claim: The host says that, as far as she knows, Discord is the place where Tyler Robinson published his alleged confession, which is why she doubts TPUSA would use it against enemies.
+Claim: The host says that, as far as she knows, Discord is the place where Tyler Robinson published his alleged confession, and that she initially thought TPUSA surely would not use it against its enemies.
 
 Transcript Snippet: that's apparently the place that Tyler Robinson published his alleged confession
 
@@ -1250,7 +1250,7 @@ Transcript Snippet: That is not allowed this week until August 23rd. The only th
 Anchored Artifacts: A-2498.1
 Mentions: N-18
 Related Nodes: N-10881
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Capture the Discord message with its timestamp and moderator.
 
 ---
@@ -1323,7 +1323,7 @@ Investigative Direction: Search for LLC or DBA filings behind Monster Lab and Cl
 
 Claim Timestamp: 00:17:20
 
-Claim: The host reads that the Atlantic reporter accessed the Elephant Clipping Discord and related political clipping chats simply by clicking join and answering questions, and that campaign pay goes to accounts posing as ordinary Americans.
+Claim: The host reads that the Atlantic reporter accessed the Elephant Clipping Discord and related political clipping chats simply by clicking join and answering questions, and that the campaign pays people, many outside the US, to push clips from accounts designed to look like those of ordinary Americans.
 
 Transcript Snippet: I was able to access its Discord server and other related political clipping campaign chats chats just by clicking join
 
@@ -1377,7 +1377,7 @@ Claim: The host guesses that the seeded clips were the early images of Charlie a
 Transcript Snippet: I think it's the one of Charlie and her walking with the kids. I think it's her in the casket. Everything we saw in those early days was by design.
 
 Anchored Artifacts: A-2500.1
-Mentions: N-2, N-1, N-191
+Mentions: N-2, N-1
 Related Nodes: N-10891
 Tags: relevance:core
 Investigative Direction: Obtain the Google Drive file list and compare with the clips in circulation Sept 10-20.
@@ -1505,7 +1505,7 @@ Claim: The host reads that banned subjects in the campaign include the January 6
 Transcript Snippet: Banned subjects include the January 6th, 2021 attack on the capital and cryptocurrencies that members of the Trump family have promoted
 
 Anchored Artifacts: A-2499.1
-Mentions: N-3
+Mentions: N-3, N-2
 Related Nodes: N-10881, N-10889
 Tags: relevance:core
 Investigative Direction: Obtain the campaign rule sheet listing banned and approved subjects.
@@ -1521,7 +1521,7 @@ Claim: The host reads that Servius manages Ben Shapiro and Steven Crowder campai
 Transcript Snippet: And Crowder's campaign also links to Enclave and Key connected to the Google Drive.
 
 Anchored Artifacts: A-2499.1
-Mentions: N-260, N-97
+Mentions: N-352, N-97, N-260
 Related Nodes: N-10882
 Tags: relevance:context
 Investigative Direction: Ask Crowder and Shapiro representatives about the campaigns.
@@ -1548,12 +1548,12 @@ Investigative Direction: Identify the flight and passenger manifest she refers t
 
 Claim Timestamp: 00:34:56
 
-Claim: The host says Enclave and Key has a corporate footprint in Romania.
+Claim: The host says Enclave and Key has a footprint in Romania.
 
 Transcript Snippet: Romania. Romania. I kid you not. I kid you not.
 
 Anchored Artifacts:
-Mentions: N-353
+Mentions: 
 Related Nodes: N-10882
 Tags: relevance:core
 Investigative Direction: Check Romanian company registries for Enclave and Key entities.
@@ -1678,7 +1678,7 @@ Investigative Direction: Check whether Trump and Vance appear in the Atlantic ar
 
 Claim Timestamp: 00:46:00
 
-Claim: The host says that after Howard Hughes' company was chopped up, an Adelson (transcribed Adelson) got a piece and the Wynn family took over the hotel he lived in.
+Claim: The host says that after Howard Hughes' company was chopped up, Adelson got a piece and the Wynn family got a piece, and that, if she remembers correctly, the Wynn family took over the hotel he lived in.
 
 Transcript Snippet: after his company got chopped up. Adelson got a piece. The Wind family got a piece.
 
@@ -1694,7 +1694,7 @@ Investigative Direction: Verify the post-Hughes ownership history of Hughes Summ
 
 Claim Timestamp: 00:47:50
 
-Claim: The host speculates RFK Jr. is banned from clipping because big-pharma wealth is a large part of the syndicate's money, calling it a cross-contamination of pharma and Las Vegas interests.
+Claim: The host speculates ("I guess") that RFK Jr. cannot be clipped because big pharma is a big piece of that wealth, citing cross-contamination between big pharma, the Adelsons and methadone, with all roads running into a Las Vegas syndicate.
 
 Transcript Snippet: I guess that's why they can't clip RFK because, you know, big pharma is a big piece of that wealth.
 
@@ -1879,7 +1879,7 @@ Claim: The host says the paid clippers are handed changing narratives about her,
 Transcript Snippet: They're like, "She's funded by the Saudis. The Pakistanis are funding her. She's a Russian speaking lesbian. Her husband's gay. She's madly in love with Charlie."
 
 Anchored Artifacts: A-3089.1
-Mentions: N-3
+Mentions: N-3, N-1, N-30
 Related Nodes: N-10883
 Tags: relevance:tangential
 Investigative Direction: Trace the origin posts of each smear.
@@ -1890,7 +1890,7 @@ Investigative Direction: Trace the origin posts of each smear.
 
 Claim Timestamp: 01:04:00
 
-Claim: The host says her episode with Theo Von was released the previous day on his channel and passed one million views.
+Claim: The host says her episode with Theo Von was released the previous day on his channel and that she saw it had passed a million views.
 
 Transcript Snippet: Anyway, uh that was released yesterday on Theon's channel and people have really loved it. I think it I saw that it passed a million views
 

@@ -391,7 +391,7 @@ You can't even describe. You can't even think through that emotion where you're 
 
 [01:28:50]
 
->> And they're like, there's no evidence that Jeffrey Epste was except the MSAD agent who literally came out and said that he was working for the MSAD and the other MSAD agent as well who came out and said he was working for the MSD. But there's no evidence. I love when they just say there's no evidence. That's one of my favorite lies. >> There's no evidence. Just because you keep saying there's no evidence does not make it so. But they believe if they just keep saying the same thing over and over again, it will eventually become the truth. >> They shout lies into becoming truth. >> There's no evidence. There's no evidence. There's no evidence. There's no evidence. There's no evidence. It didn't happen. No evidence. It didn't happen. It did not happen. It did not happen. Zero evidence.
+>> And they're like, there's no evidence that Jeffrey Epste was except the Mossad agent who literally came out and said that he was working for the Mossad and the other Mossad agent as well who came out and said he was working for the MSD. But there's no evidence. I love when they just say there's no evidence. That's one of my favorite lies. >> There's no evidence. Just because you keep saying there's no evidence does not make it so. But they believe if they just keep saying the same thing over and over again, it will eventually become the truth. >> They shout lies into becoming truth. >> There's no evidence. There's no evidence. There's no evidence. There's no evidence. There's no evidence. It didn't happen. No evidence. It didn't happen. It did not happen. It did not happen. Zero evidence.
 
 [01:29:25]
 

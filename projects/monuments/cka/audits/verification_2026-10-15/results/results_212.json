@@ -1,0 +1,788 @@
+[
+ {
+  "claim": "C-14831",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14832",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14833",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14834",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim spells the lawyer 'Novac' (transcription); confirmed Richard Novak, Robinson's defense attorney (Fox, Deseret).",
+  "fix": {
+   "claim": "Defense counsel Richard Novak says in the audio played that it is true Mr. Kirk spoke hatefully of certain groups of people, including people who do not have traditional gender identities, are not strictly heterosexual, or have sexual relationships out of marriage.",
+   "names": [
+    {
+     "wrong": "Novac",
+     "right": "Novak",
+     "source": "https://www.foxnews.com/us/tyler-robinson-defense-attorney-embarrassed-attacking-charlie-kirk-full-hate-lawyer"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14835",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim spells the lawyer 'Novac' (transcription); confirmed Richard Novak, Robinson's defense attorney (Fox, Deseret).",
+  "fix": {
+   "claim": "Novak says in the audio played that the evidence from Mr. Twiggs is that he identified in a non-gender-conforming way to his friends and was in a romantic relationship with Mr. Robinson.",
+   "names": [
+    {
+     "wrong": "Novac",
+     "right": "Novak",
+     "source": "https://www.foxnews.com/us/tyler-robinson-defense-attorney-embarrassed-attacking-charlie-kirk-full-hate-lawyer"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14836",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim spells the lawyer 'Novac' (transcription); confirmed Richard Novak, Robinson's defense attorney (Fox, Deseret).",
+  "fix": {
+   "claim": "Novak says in the audio played that there is a significant gap between what Kirk said and stood for and what Robinson felt about him, which allows the state to make up a motive and amounts to an inference without evidence.",
+   "names": [
+    {
+     "wrong": "Novac",
+     "right": "Novak",
+     "source": "https://www.foxnews.com/us/tyler-robinson-defense-attorney-embarrassed-attacking-charlie-kirk-full-hate-lawyer"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14837",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14838",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14839",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14840",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14841",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host: 'he could not have possibly have seen that the security detail had it covered. That which calls into question Blake's...' walked away/20 seconds claim; not the blood claim. Hedge 'I think' dropped.",
+  "fix": {
+   "claim": "The host says Mikey McCoy turns around for what she thinks is about 0.75 of a second and stays ahead of Charlie, so he could not have possibly seen that the security detail had it covered, that this alarmed people, and that it calls into question Blake Neff's account that they walked away from Charlie but 20 seconds later assumed someone had been detained.",
+   "mentions": [
+    "N-191",
+    "N-1",
+    "N-160"
+   ]
+  }
+ },
+ {
+  "claim": "C-14842",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14843",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14844",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host frames it as belief: 'I do believe that Charlie's dream ... Charlie correctly predicted his death'; hedge dropped.",
+  "fix": {
+   "claim": "The host says she believes Charlie Kirk correctly predicted his death and that it would be associated with Turning Point USA."
+  }
+ },
+ {
+  "claim": "C-14845",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14846",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Label says arguing 'About Israel'; host only says 'arguing with the day before'; Israel is from the viewer comment.",
+  "fix": {
+   "label": "Host Says the People Kirk Argued With the Day Before Were the First to Know He Was Dead"
+  }
+ },
+ {
+  "claim": "C-14847",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14848",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14849",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14850",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14851",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14852",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14853",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3393",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3394",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3395",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3396",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3397",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3398",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3399",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Erika, Usha Vance and Charlie only; JD Vance (N-4) is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-351",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-3400",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Erika Kirk and Usha Vance only; JD Vance (N-4) not named.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-351"
+   ]
+  }
+ },
+ {
+  "claim": "C-3401",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3402",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3403",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'I kind of just stared across the lobby at her with a half smile'; no mutual exchange stated. Chicago/homecoming not in window.",
+  "fix": {
+   "claim": "The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert and staring at her across the lobby with a half smile."
+  }
+ },
+ {
+  "claim": "C-3404",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3405",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7693",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7694",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7695",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Content spoken ~00:02:47, about 75s after timestamp; borderline, accepted.",
+  "fix": {}
+ },
+ {
+  "claim": "C-7696",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Funeral fireworks excuse is background; same topic tagged context in C-7695.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-7697",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7698",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7699",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7700",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host: 'I was down to crowd surf at 8 months pregnant' (willing to), after saying she had to be down there; not that she did.",
+  "fix": {
+   "claim": "The host says that at the Ye concert she told her husband and security she had to be down on the floor with the crowd, and that she was down to crowd surf at 8 months pregnant.",
+   "label": "Host Says She Was Down to Crowd Surf at 8 Months Pregnant"
+  }
+ },
+ {
+  "claim": "C-7701",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7702",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7703",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7704",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7705",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7706",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Ben Shapiro; N-97 not named in claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-27"
+   ]
+  }
+ },
+ {
+  "claim": "C-7707",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7708",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7709",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7710",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Andrew (Kolvet), Bibi Netanyahu and Turning Point; Charlie Kirk (N-1) not named.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-36"
+   ]
+  }
+ },
+ {
+  "claim": "C-7711",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7712",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7713",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7714",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7715",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7716",
+  "episode": 148,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

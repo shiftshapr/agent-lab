@@ -1,0 +1,765 @@
+[
+ {
+  "claim": "C-11903",
+  "episode": 155,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11904",
+  "episode": 155,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11905",
+  "episode": 155,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Mentions omit Boreing named in clip description; treated as show descriptor",
+  "fix": {}
+ },
+ {
+  "claim": "C-11906",
+  "episode": 155,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11907",
+  "episode": 155,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11908",
+  "episode": 155,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11909",
+  "episode": 155,
+  "material": true,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Claim names only Candace; Erika and Mikey are not in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-11910",
+  "episode": 155,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "note": "Midterm politics, not the assassination case.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11911",
+  "episode": 155,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "note": "Midterm politics, not the assassination case. Unresolved name: Andrew Type.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11912",
+  "episode": 155,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "note": "Midterm politics, not the assassination case.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11913",
+  "episode": 155,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11914",
+  "episode": 155,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11915",
+  "episode": 155,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3531",
+  "episode": 156,
+  "material": true,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host: \"somebody said that's actually not the UVU club president\"; she corrects on a viewer's say-so, not because the wider footage shows it.",
+  "fix": {
+   "claim": "The host says that, after someone told her otherwise, the person she previously identified as UVU club president Caleb Chilcutt standing near the van by Angel Castro was not him."
+  }
+ },
+ {
+  "claim": "C-3532",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3533",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3534",
+  "episode": 156,
+  "material": true,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Agent name is Draney (Drainy is a transcription error).",
+  "fix": {
+   "claim": "Per the search warrant as read, Agent Draney (USBI) obtained records and video footage from the Quick Quack Car Wash showing Tyler Robinson's vehicle arriving at approximately 12:57 PM; the footage has not been released to the public.",
+   "names": [
+    {
+     "wrong": "Drainy",
+     "right": "Draney",
+     "source": "https://thepostmillennial.com/tyler-robinson-mapped-route-from-utah-valley-university-back-to-his-st-george-home-after-charlie-kirk-killing-search-warrant"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3535",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3536",
+  "episode": 156,
+  "material": true,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host (not the viewer) says \"We've noticed that in Officer Go forth's testimony\"; Face's comment asks about plates. Goforth N-865 unmentioned.",
+  "fix": {
+   "claim": "The host says, replying to a viewer comment about license plates, that in Officer Goforth's testimony they kept saying a partial plate was run and matched, which she finds unusual.",
+   "mentions": [
+    "N-865"
+   ]
+  }
+ },
+ {
+  "claim": "C-3537",
+  "episode": 156,
+  "material": true,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "note": "Claim does not name Kirk. Walkout stated ~32:45, before the 33:01 marker.",
+  "fix": {
+   "mentions": [],
+   "timestamp": "00:32:40"
+  }
+ },
+ {
+  "claim": "C-3538",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3539",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3540",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3541",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3542",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3677",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Transcript only has the merch line \"join the decentralized intelligence agency\"; \"crowd-sourced tip network\" is added.",
+  "fix": {
+   "claim": "The host says viewers can buy merch such as a hat, t-shirt or sweatshirt to join the decentralized intelligence agency, which she calls her favorite."
+  }
+ },
+ {
+  "claim": "C-7776",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7777",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7778",
+  "episode": 156,
+  "material": true,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "\"somebody said that's actually not the UVU club president. He was wearing red that day\": red refers to the club president, not the van person.",
+  "fix": {
+   "claim": "The host says someone told her the person standing by the van near Angel Castro was not UVU club president Caleb Chilcutt, who she says was wearing red that day; the person by the van was just standing."
+  }
+ },
+ {
+  "claim": "C-7779",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7780",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7781",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7782",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7783",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7784",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7785",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7786",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7787",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7788",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7789",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7790",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7791",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7792",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7793",
+  "episode": 156,
+  "material": true,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "note": "Request spoken ~14:10-14:25; claim 14:59 is over 30s later.",
+  "fix": {
+   "timestamp": "00:14:10"
+  }
+ },
+ {
+  "claim": "C-7794",
+  "episode": 156,
+  "material": true,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "note": "\"12:44 ... Mountain Shadows\" spoken ~14:55, claim 15:59.",
+  "fix": {
+   "timestamp": "00:14:50"
+  }
+ },
+ {
+  "claim": "C-7795",
+  "episode": 156,
+  "material": true,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "note": "\"I actually called Ryan Matta today\" ~15:00, claim 16:09.",
+  "fix": {
+   "timestamp": "00:14:57"
+  }
+ },
+ {
+  "claim": "C-7796",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7797",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7798",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7799",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7800",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7801",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7802",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7803",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7804",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7805",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7806",
+  "episode": 156,
+  "material": true,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "note": "Warrant remark spoken ~24:19, claim 25:08.",
+  "fix": {
+   "timestamp": "00:24:15"
+  }
+ },
+ {
+  "claim": "C-7807",
+  "episode": 156,
+  "material": true,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "note": "Towel remark spoken ~24:05, claim 24:47.",
+  "fix": {
+   "timestamp": "00:24:00"
+  }
+ },
+ {
+  "claim": "C-7808",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7809",
+  "episode": 156,
+  "material": false,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {}
+ }
+]

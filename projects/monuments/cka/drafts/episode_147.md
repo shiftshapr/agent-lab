@@ -51,7 +51,7 @@
 
 ## II. Executive Summary
 
-This episode advances the investigation along two parallel tracks: (1) the legal status of the Tyler Robinson case after Judge Graff's bindover ruling and Robinson's "not guilty" plea, and (2) further chronological and personnel analysis of the September 10 UVU scene. Artifact-anchored evidentiary material in this episode includes a verbatim audio excerpt of Judge Graff's bench ruling on the motion to dismiss (particularly Count 6, witness tampering for the "ask for a lawyer and stay silent" text), the arraignment audio capturing Robinson's plea, a series of newly released clips from 9/10 depicting a post-shot sequence at Charlie Kirk's vehicle, multiple X posts by named public commentators (Matt Walsh, Viva Frei, Graham Allen, Blake Neff/Brandon Tatum) reacting to a court clip of defense attorney Richard Novac, and a verbatim read-aloud of defense counsel's filings (including page 32 of the August 11 filing). The host's principal structural move this episode is to frame all of the outraged X commentary as a misreading of defense counsel's actual argument, which she claims is a citation of the state's own theories rather than a defense endorsement. The episode also re-examines prior claims (Blake Neff's "we thought there might be more shooters" → "20 seconds later everything was fine" sequence) and presents a vehicle-positioning diagram as a new visual artifact.
+This episode advances the investigation along two parallel tracks: (1) the legal status of the Tyler Robinson case after Judge Graff's bindover ruling and Robinson's "not guilty" plea, and (2) further chronological and personnel analysis of the September 10 UVU scene. Artifact-anchored evidentiary material in this episode includes a verbatim audio excerpt of Judge Graff's bench ruling on the motion to dismiss (particularly Count 6, witness tampering for the "ask for a lawyer and stay silent" text), the arraignment audio capturing Robinson's plea, a series of newly released clips from 9/10 depicting a post-shot sequence at Charlie Kirk's vehicle, multiple X posts by named public commentators (Matt Walsh, Viva Frei, Graham Allen, Blake Neff/Brandon Tatum) reacting to a court clip of defense attorney Richard Novak, and a verbatim read-aloud of defense counsel's filings (including page 32 of the August 11 filing). The host's principal structural move this episode is to frame all of the outraged X commentary as a misreading of defense counsel's actual argument, which she claims is a citation of the state's own theories rather than a defense endorsement. The episode also re-examines prior claims (Blake Neff's "we thought there might be more shooters" → "20 seconds later everything was fine" sequence) and presents a vehicle-positioning diagram as a new visual artifact.
 
 ---
 
@@ -185,7 +185,7 @@ Confidence Level: High
 
 **A-2335** Blake Neff / Brandon Tatum Identical X Post
 
-X post (host states it was sent identically by both Blake Neff and Brandon Tatum, but "not at the same time"): "Outrageous moment in court as defense attorney Richard Novac starts trashing Charlie declaring that it is true Charlie spoke hatefully about people who were not heterosexual or had sex outside of marriage."
+X post (host states it was sent identically by both Blake Neff and Brandon Tatum, but "not at the same time"): "Outrageous moment in court as defense attorney Richard Novak starts trashing Charlie declaring that it is true Charlie spoke hatefully about people who were not heterosexual or had sex outside of marriage."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -195,9 +195,9 @@ Confidence Level: High
 
 *Related: C-3378, N-10824*
 
-**A-2336** Court Audio – Defense Counsel Richard Novac Argument
+**A-2336** Court Audio – Defense Counsel Richard Novak Argument
 
-Verbatim audio of Richard Novac's probable-cause-hearing argument, stating that "It is true that Mr. Kirk spoke hatefully of certain groups of people," and arguing that the state's political-motivation theory relies on inferring upon an inference regarding the relationship between Tyler Robinson and Lance Twiggs.
+Verbatim audio of Richard Novak's probable-cause-hearing argument, stating that "It is true that Mr. Kirk spoke hatefully of certain groups of people," and arguing that the state's political-motivation theory relies on inferring upon an inference regarding the relationship between Tyler Robinson and Lance Twiggs.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -998,11 +998,11 @@ Related Nodes: N-10824
 
 Investigative Direction: Confirm the post remains on X; verify timestamp.
 
-**C-3378** Blake Neff and Brandon Tatum sent an identical X post about Novac
+**C-3378** Blake Neff and Brandon Tatum sent an identical X post about Novak
 
 Claim Timestamp: 00:40:50
 
-Claim: Blake Neff and Brandon Tatum sent an identical X post accusing defense attorney Richard Novac of "trashing Charlie" by stating that Kirk "spoke hatefully about people who were not heterosexual or had sex outside of marriage."
+Claim: Blake Neff and Brandon Tatum sent an identical X post accusing defense attorney Richard Novak of "trashing Charlie" by stating that Kirk "spoke hatefully about people who were not heterosexual or had sex outside of marriage."
 
 Anchored Artifacts: A-2335
 Mentions: N-160, N-426
@@ -1015,14 +1015,14 @@ Investigative Direction: Confirm both posts remain on X; compare timestamps.
 
 Claim Timestamp: 00:44:15
 
-Claim: The host says defense counsel Richard Novac, in his probable-cause-hearing argument, was not advancing a personal thesis that political assassinations are acceptable but was citing the state's own theory to argue that the state had failed to satisfy its burden even on its own framing.
+Claim: The host says defense counsel Richard Novak, in his probable-cause-hearing argument, was not advancing a personal thesis that political assassinations are acceptable but was citing the state's own theory to argue that the state had failed to satisfy its burden even on its own framing.
 
 Anchored Artifacts: A-2336, A-2337
 Mentions: N-40, N-426
 
 Related Nodes: N-10824, N-10825
 
-Investigative Direction: Read Novac's full argument transcript; compare against Aug 11 filing page 32 and the state's responsive briefing.
+Investigative Direction: Read Novak's full argument transcript; compare against Aug 11 filing page 32 and the state's responsive briefing.
 
 **C-3380** Host Says State Is Pursuing Sentence Enhancement Based on Political Motivation
 
@@ -1833,11 +1833,11 @@ Investigative Direction: Track later clips in the case and compare their full co
 
 ---
 
-**C-14834** Novac Tells the Court It Is True Kirk Spoke Hatefully of Certain Groups
+**C-14834** Novak Tells the Court It Is True Kirk Spoke Hatefully of Certain Groups
 
 Claim Timestamp: 00:42:20
 
-Claim: Defense counsel Richard Novac says in the audio played that it is true Mr. Kirk spoke hatefully of certain groups of people, including people who do not have traditional gender identities, are not strictly heterosexual, or have sexual relationships out of marriage.
+Claim: Defense counsel Richard Novak says in the audio played that it is true Mr. Kirk spoke hatefully of certain groups of people, including people who do not have traditional gender identities, are not strictly heterosexual, or have sexual relationships out of marriage.
 
 Transcript Snippet: It is true that Mr. Kirk spoke hatefully of certain groups of people.
 
@@ -1849,11 +1849,11 @@ Investigative Direction: Obtain the full hearing transcript to verify the wordin
 
 ---
 
-**C-14835** Novac Says the Evidence From Twiggs Is That He Identified as Non-Gender-Conforming and Was in a Relationship With Robinson
+**C-14835** Novak Says the Evidence From Twiggs Is That He Identified as Non-Gender-Conforming and Was in a Relationship With Robinson
 
 Claim Timestamp: 00:42:45
 
-Claim: Novac says in the audio played that the evidence from Mr. Twiggs is that he identified in a non-gender-conforming way to his friends and was in a romantic relationship with Mr. Robinson.
+Claim: Novak says in the audio played that the evidence from Mr. Twiggs is that he identified in a non-gender-conforming way to his friends and was in a romantic relationship with Mr. Robinson.
 
 Transcript Snippet: it is true that the evidence from Mr. Twiggs is that um he identified in a non-gender-conforming way to his friends, and that he was in a romantic relationship with Mr. Robinson.
 
@@ -1865,11 +1865,11 @@ Investigative Direction: Check the hearing record for what Twiggs's evidence con
 
 ---
 
-**C-14836** Novac Argues There Is a Gap Between Kirk's Expression and Robinson's Feelings That Lets the State Make It Up
+**C-14836** Novak Argues There Is a Gap Between Kirk's Expression and Robinson's Feelings That Lets the State Make It Up
 
 Claim Timestamp: 00:43:35
 
-Claim: Novac says in the audio played that there is a significant gap between what Kirk said and stood for and what Robinson felt about him, which allows the state to make up a motive and amounts to an inference without evidence.
+Claim: Novak says in the audio played that there is a significant gap between what Kirk said and stood for and what Robinson felt about him, which allows the state to make up a motive and amounts to an inference without evidence.
 
 Transcript Snippet: And it's a significant gap because what it allows the state to do is to make it up.
 
@@ -1949,12 +1949,12 @@ Investigative Direction: Compare Wilson's earlier and later public statements on
 
 Claim Timestamp: 00:55:30
 
-Claim: The host says Mikey McCoy turns around for about 0.75 of a second, stays ahead of Charlie, and so could not have seen much, and that this alarmed people and calls into question the idea that he saw a lot of blood.
+Claim: The host says Mikey McCoy turns around for what she thinks is about 0.75 of a second and stays ahead of Charlie, so he could not have possibly seen that the security detail had it covered, that this alarmed people, and that it calls into question Blake Neff's account that they walked away from Charlie but 20 seconds later assumed someone had been detained.
 
 Transcript Snippet: it is literally a split second that Mikey turns around. I think it's like 0.75 of a second.
 
 Anchored Artifacts: A-2339
-Mentions: N-191, N-1
+Mentions: N-191, N-1, N-160
 Related Nodes: N-10198
 Supports: C-3386
 Tags: relevance:core
@@ -1997,7 +1997,7 @@ Investigative Direction: Find the original Kirk statement and its date.
 
 Claim Timestamp: 00:57:10
 
-Claim: The host says Charlie Kirk correctly predicted his death and that it would be associated with Turning Point USA.
+Claim: The host says she believes Charlie Kirk correctly predicted his death and that it would be associated with Turning Point USA.
 
 Transcript Snippet: Charlie correctly predicted his death and that it would be associated with Turning Point USA.
 
@@ -2025,7 +2025,7 @@ Investigative Direction: Identify what was signed and the source of the statemen
 
 ---
 
-**C-14846** Host Says the People Kirk Argued With About Israel the Day Before Were the First to Know He Was Dead
+**C-14846** Host Says the People Kirk Argued With the Day Before Were the First to Know He Was Dead
 
 Claim Timestamp: 00:59:50
 

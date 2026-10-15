@@ -1,0 +1,770 @@
+[
+ {
+  "claim": "C-9219",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9220",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9221",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9222",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"the MSAD's rag\" = Mossad mis-transcription; claim repeats it.",
+  "fix": {
+   "claim": "The host calls the New York Post the \"Mossad's rag\" and says it had everything to do with Ghislaine Maxwell and with the report that Jeffrey Epstein had been suicided in his cell, covering for Maxwell.",
+   "names": [
+    {
+     "wrong": "MSAD",
+     "right": "Mossad",
+     "source": "https://en.wikipedia.org/wiki/Mossad"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-9223",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9224",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9225",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9226",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9227",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"they are going to seek to regulate the internet\" (the narrative-pushers); claim says \"officials\".",
+  "fix": {
+   "claim": "The host gives her opinion that the people pushing this narrative will seek to regulate the internet because of the Pentagon's astonishing failure to cover its own tracks regarding the assassination of Charlie Kirk, and that women are blamed because they did not accept Erika Kirk's performance."
+  }
+ },
+ {
+  "claim": "C-9228",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9229",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9230",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9231",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names only Harpole (and the UVU review); Frank Turek (N-7) is not named or referred to.",
+  "fix": {
+   "mentions": [
+    "N-267"
+   ]
+  }
+ },
+ {
+  "claim": "C-9232",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9233",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"We are to assume that Frank was facetiming Jack Hibbs\"; \"during the hospital events\" is added.",
+  "fix": {
+   "claim": "The host says that on the basis of the stories both men told, we are to assume Frank Turek was FaceTiming Jack Hibbs."
+  }
+ },
+ {
+  "claim": "C-9234",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Audio says \"Copy. Switching to 3J.\"; claim turns it into an instruction to switch to \"channel\" 3J.",
+  "fix": {
+   "claim": "In the dispatch audio the host plays, a voice says \"Switching to 3J\" and that officers are en route to the hospital to be with the victim, after units were told police were signaling them to follow."
+  }
+ },
+ {
+  "claim": "C-9235",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9236",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I have not seen any information attaching him necessarily\"; claim drops \"necessarily\".",
+  "fix": {
+   "claim": "The host says she is aware of conspiracies about a different fire captain who perished with his entire family in a flash flood, that he did work with Provo EMS from which some calls appear to come, and that she has not seen any information attaching him necessarily to this story."
+  }
+ },
+ {
+  "claim": "C-9237",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9238",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9239",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"no way they could have prep\" with \"they\" ambiguous (the security team just discussed); claim says police.",
+  "fix": {
+   "claim": "The host says headquarters was not sharing the ticket count, so there was no way they could have prepared without knowing the numbers sufficiently."
+  }
+ },
+ {
+  "claim": "C-9240",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9241",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9242",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9243",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9244",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9245",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9246",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9247",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Epstein/Lutnick whistleblower story is not about Kirk's assassination; core is too strong.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-9248",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9249",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9250",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"MSAD network\" is Mossad mis-transcription repeated in claim.",
+  "fix": {
+   "claim": "The host says she thinks the files would reveal fake wives and an entire Mossad network of women pretending to love men who are going through MK Ultra programming from a young age.",
+   "names": [
+    {
+     "wrong": "MSAD",
+     "right": "Mossad",
+     "source": "https://en.wikipedia.org/wiki/Mossad"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-9251",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9252",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Macklemore/Sheeran booking does not bear on the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9253",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Robert Kraft's dropped case is a private matter unrelated to the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9254",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9255",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9256",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Data Republican = Jennica Pounds confirmed (Bulwark/KATV).",
+  "fix": {}
+ },
+ {
+  "claim": "C-9257",
+  "episode": 160,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3680",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3775",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3681",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3682",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3683",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3684",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3685",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Composite claim spanning 14:10-32:30; start timestamp used. Name list matches 31:14 and 32:11 blocks.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3686",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3687",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3688",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Composite; Atlantic employee names read at 24:27, after the 21:21 timestamp. Start timestamp used.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3689",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3690",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3691",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3692",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Clip: \"I was with you at breakfast...\" and \"you fit into it\" address interviewer Jeff Fargo, not the host; Uncle Steve is among \"business heroes\", not the rare bucket.",
+  "fix": {
+   "claim": "On the Fargo Talks clip, Blake Wynn tells interviewer Jeff Fargo he was with him at breakfast when he found out Charlie was shot, and places Erika Kirk and Fargo in a rare bucket of people he looks up to as human beings, apart from business heroes such as his uncle Steve; the host rejects romance rumors and frames a business relationship."
+  }
+ },
+ {
+  "claim": "C-3693",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: Edson (interviewer in clip).",
+  "fix": {}
+ },
+ {
+  "claim": "C-3694",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says \"email us more tips. com\"; elsewhere candaceowens.com. Claim invents candace.com.",
+  "fix": {
+   "claim": "The host says her team cannot find who sits atop the Monster Lab / Clippet DBA from LLC docs and asks viewers to email moretips@candaceowens.com (more tips at candaceowens.com) with ownership leads and explanations for the Wayback loading wipe."
+  }
+ },
+ {
+  "claim": "C-3695",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3696",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3776",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim text names only Ackman; Kash Patel (N-69) is not named in it.",
+  "fix": {
+   "mentions": [
+    "N-37"
+   ]
+  }
+ },
+ {
+  "claim": "C-3697",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3698",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Fire captain/15-minute CPR comment is at [57:23], ~95s after claim ts; 55:45 block is about haters/paid campaigns.",
+  "fix": {
+   "timestamp": "00:57:20"
+  }
+ }
+]

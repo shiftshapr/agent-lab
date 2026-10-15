@@ -2161,7 +2161,7 @@
       "@id": "C-3692",
       "ref": "C-3692",
       "label": "Blake Wynn puts Erika Kirk in a rare bucket of human beings he looks up to",
-      "claim": "On the Fargo Talks clip, Blake Wynn says he was at breakfast with the host when Charlie was shot and places Erika Kirk in a rare bucket of people he looks up to as human beings (alongside uncle Steve and a few others); Candace rejects romance rumors and frames a business relationship.",
+      "claim": "On the Fargo Talks clip, Blake Wynn tells interviewer Jeff Fargo he was with him at breakfast when he found out Charlie was shot, and places Erika Kirk and Fargo in a rare bucket of people he looks up to as human beings, apart from business heroes such as his uncle Steve; the host rejects romance rumors and frames a business relationship.",
       "anchored_artifacts": [
         "A-2502.1"
       ],
@@ -2202,7 +2202,7 @@
       "@id": "C-3694",
       "ref": "C-3694",
       "label": "Host solicits tips on Monster Lab ownership and Wayback wipe",
-      "claim": "The host says her team cannot find who sits atop the Monster Lab / Clippet DBA from LLC docs and asks viewers to email moretips@candace.com (more tips at candace.com) with ownership leads and explanations for the Wayback loading wipe.",
+      "claim": "The host says her team cannot find who sits atop the Monster Lab / Clippet DBA from LLC docs and asks viewers to email moretips@candaceowens.com (more tips at candaceowens.com) with ownership leads and explanations for the Wayback loading wipe.",
       "anchored_artifacts": [
         "A-2504.1"
       ],
@@ -2287,8 +2287,7 @@
         "C-3696"
       ],
       "mentions_person_refs": [
-        "N-37",
-        "N-69"
+        "N-37"
       ]
     },
     {
@@ -2330,7 +2329,7 @@
         "N-10874"
       ],
       "tags": [],
-      "claim_timestamp": "00:55:45",
+      "claim_timestamp": "00:57:20",
       "investigative_direction": "Identify Station 2 captain via rosters; obtain full dispatch + ER intake logs.",
       "supports_claim_refs": [
         "C-3622",
@@ -2460,7 +2459,7 @@
       "@id": "C-10593",
       "ref": "C-10593",
       "label": "Host says Discord is where Tyler Robinson's alleged confession was published",
-      "claim": "The host says that, as far as she knows, Discord is the place where Tyler Robinson published his alleged confession, which is why she doubts TPUSA would use it against enemies.",
+      "claim": "The host says that, as far as she knows, Discord is the place where Tyler Robinson published his alleged confession, and that she initially thought TPUSA surely would not use it against its enemies.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10013",
@@ -2554,7 +2553,7 @@
         "N-10881"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:12:30",
       "investigative_direction": "Capture the Discord message with its timestamp and moderator.",
@@ -2658,7 +2657,7 @@
       "@id": "C-10602",
       "ref": "C-10602",
       "label": "Atlantic reporter joined the Discord by clicking join",
-      "claim": "The host reads that the Atlantic reporter accessed the Elephant Clipping Discord and related political clipping chats simply by clicking join and answering questions, and that campaign pay goes to accounts posing as ordinary Americans.",
+      "claim": "The host reads that the Atlantic reporter accessed the Elephant Clipping Discord and related political clipping chats simply by clicking join and answering questions, and that the campaign pays people, many outside the US, to push clips from accounts designed to look like those of ordinary Americans.",
       "anchored_artifacts": [
         "A-2499.1"
       ],
@@ -2747,8 +2746,7 @@
       "transcript_snippet": "I think it's the one of Charlie and her walking with the kids. I think it's her in the casket. Everything we saw in those early days was by design.",
       "mentions_person_refs": [
         "N-2",
-        "N-1",
-        "N-191"
+        "N-1"
       ]
     },
     {
@@ -2940,7 +2938,8 @@
       "investigative_direction": "Obtain the campaign rule sheet listing banned and approved subjects.",
       "transcript_snippet": "Banned subjects include the January 6th, 2021 attack on the capital and cryptocurrencies that members of the Trump family have promoted",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-2"
       ]
     },
     {
@@ -2962,8 +2961,9 @@
       "investigative_direction": "Ask Crowder and Shapiro representatives about the campaigns.",
       "transcript_snippet": "And Crowder's campaign also links to Enclave and Key connected to the Google Drive.",
       "mentions_person_refs": [
-        "N-260",
-        "N-97"
+        "N-352",
+        "N-97",
+        "N-260"
       ]
     },
     {
@@ -2990,7 +2990,7 @@
       "@id": "C-10616",
       "ref": "C-10616",
       "label": "Host says Enclave and Key has a footprint in Romania",
-      "claim": "The host says Enclave and Key has a corporate footprint in Romania.",
+      "claim": "The host says Enclave and Key has a footprint in Romania.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10882"
@@ -3000,10 +3000,7 @@
       ],
       "claim_timestamp": "00:34:56",
       "investigative_direction": "Check Romanian company registries for Enclave and Key entities.",
-      "transcript_snippet": "Romania. Romania. I kid you not. I kid you not.",
-      "mentions_person_refs": [
-        "N-353"
-      ]
+      "transcript_snippet": "Romania. Romania. I kid you not. I kid you not."
     },
     {
       "@type": "Claim",
@@ -3163,7 +3160,7 @@
       "@id": "C-10624",
       "ref": "C-10624",
       "label": "Host says Adelson and the Wynn family each got a piece of the Hughes empire",
-      "claim": "The host says that after Howard Hughes' company was chopped up, an Adelson (transcribed Adelson) got a piece and the Wynn family took over the hotel he lived in.",
+      "claim": "The host says that after Howard Hughes' company was chopped up, Adelson got a piece and the Wynn family got a piece, and that, if she remembers correctly, the Wynn family took over the hotel he lived in.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10249"
@@ -3183,7 +3180,7 @@
       "@id": "C-10625",
       "ref": "C-10625",
       "label": "Host jokes RFK Jr. cannot be clipped because big-pharma wealth is in the syndicate",
-      "claim": "The host speculates RFK Jr. is banned from clipping because big-pharma wealth is a large part of the syndicate's money, calling it a cross-contamination of pharma and Las Vegas interests.",
+      "claim": "The host speculates (\"I guess\") that RFK Jr. cannot be clipped because big pharma is a big piece of that wealth, citing cross-contamination between big pharma, the Adelsons and methadone, with all roads running into a Las Vegas syndicate.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3429,7 +3426,9 @@
       "investigative_direction": "Trace the origin posts of each smear.",
       "transcript_snippet": "They're like, \"She's funded by the Saudis. The Pakistanis are funding her. She's a Russian speaking lesbian. Her husband's gay. She's madly in love with Charlie.\"",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-1",
+        "N-30"
       ]
     },
     {
@@ -3437,7 +3436,7 @@
       "@id": "C-10637",
       "ref": "C-10637",
       "label": "Host says her Theo Von episode passed a million views",
-      "claim": "The host says her episode with Theo Von was released the previous day on his channel and passed one million views.",
+      "claim": "The host says her episode with Theo Von was released the previous day on his channel and that she saw it had passed a million views.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [

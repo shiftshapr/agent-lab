@@ -979,7 +979,7 @@ Claim Timestamp: 00:21:38
 
 Claim: The host says Benjamin Netanyahu presented Donald Trump with a golden pager at the White House on February 4, 2025, as a nod to the Mossad's pager operation.
 
-Transcript Snippet: BB Netanyahu enters the White House and presents President Trump with a gift, a golden pager, a nod to the MSAD's pager operation.
+Transcript Snippet: BB Netanyahu enters the White House and presents President Trump with a gift, a golden pager, a nod to the Mossad's pager operation.
 
 Anchored Artifacts:
 Mentions: N-36, N-5
@@ -1424,13 +1424,13 @@ Confidence: high
 
 ---
 
-**M-11** (meme) MSAD
+**M-11** (meme) Mossad
 
 ### Occurrence 1
 
 Video Timestamp: 00:15:34
 Speaker: N-3
-Quote: What is known is how proud the MSAD was and is of their ability to infiltrate specifically companies and organizations.
+Quote: What is known is how proud the Mossad was and is of their ability to infiltrate specifically companies and organizations.
 Context: Host introduces the 60 Minutes clip of Mossad agents.
 Tags: mossad, spelling, reuse
 Confidence: high
@@ -1441,7 +1441,7 @@ Confidence: high
 
 Video Timestamp: 00:21:38
 Speaker: N-3
-Quote: a golden pager, a nod to the MSAD's pager operation.
+Quote: a golden pager, a nod to the Mossad's pager operation.
 Context: Host describes Netanyahu's gift to Trump.
 Tags: mossad, spelling, reuse
 Confidence: high
@@ -1613,7 +1613,7 @@ Confidence: medium
 - **DIA scan**: the only hit is "candace Owens. com" (51:13), a merch plug, so it is not a DIA beat. There are no tip requests or bounties; M-12 is not used.
 - **Name matching**: The skeleton's "Mark Liti" (transcript "Mark A. Leiti", "Mark Ley", "Mark Le", "Mark A. Ley", "Mark a lady") is minted as N-678. His brother is minted as N-679 under the transcript spelling "Chris Liti"; the surname may also be Liti. "Courtney Thief" (N-680, described as a former ATF agent) comes from a garbled sentence, so both the name and the role are uncertain. "Corey/Cory Comparator" is mapped to N-105 Corey Comperatore. "Cameron Haynes" is minted as N-682 Cameron Hanes. "James Kaddis" (N-668) and "Vladimir Putin" (N-627) reuse titles from staging episodes 112 and 105/111. "Blick Nef" is mapped to N-160, "Andrew Kolvet" to N-14, "Dan Bonino" to N-379, "Bill Ackman" to N-37 and "Rob McCoyy" to N-17. "The Crooks family" is linked to N-104 only as the family name.
 - **Meme title spellings**: The merch meme appears in staging as "Stop Anti-Candism" (112), "Stop Anti-Candaceism" (111) and "Anti-Candacism" (113). This episode uses the 112 spelling. "Punt the Chihuahua" (M-115) also aired in episodes 111 and 116 but has not been minted in staging before, so the integrator may need to merge it.
-- **Transcription ambiguities**: "PE TN", "PN", "PET and" and "PE10" all refer to PETN. "Ken Kiddening" and "Kittening" refer to Kittanning. "MSAD" is the transcript's spelling of Mossad. "306" is .30-06. "Sar Jafal" and "Hussein Teny" are survivors named in the pager clip; no nodes were made for them. X user "Crystal Smalland" is credited with finding the Charlie Kirk video and is treated as a handle, not a node.
+- **Transcription ambiguities**: "PE TN", "PN", "PET and" and "PE10" all refer to PETN. "Ken Kiddening" and "Kittening" refer to Kittanning. "Mossad" is the transcript's spelling of Mossad. "306" is .30-06. "Sar Jafal" and "Hussein Teny" are survivors named in the pager clip; no nodes were made for them. X user "Crystal Smalland" is credited with finding the Charlie Kirk video and is treated as a handle, not a node.
 - **Garbled passage**: around 11:53–12:21 the transcript reads "Just 2. Months after the Butler shooting, um Cory Comparator loses his life" before turning to the pager attack "on September 17th. And on September 18th of 2024"; the sentence seems to have lost words and was not inscribed.
 - **Possible cross-episode links left out**: C-4572 (Charlie Kirk flew to Salt Lake City on the morning of September 10) could support C-1554 or C-1561 (episode 23), but those claims are about specific planes and chat reports. C-4579 (Rogan on the paved-over ground) is a question, not an assertion like C-1386. C-4585 overlaps the Hamptons Netanyahu call claims (C-1129) without restating them. C-4583/C-4587 match C-3603 (episode 158), which is later and not linked.
 - **Not inscribed as claims (admission test)**:

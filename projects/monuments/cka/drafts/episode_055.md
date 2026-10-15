@@ -50,7 +50,7 @@
 
 This episode advances the series' investigation of the post-assassination public relations apparatus surrounding Turning Point USA, the Falwell Center, and the formation of Turning Point Faith. The host presents several artifact-anchored evidentiary items: a text message exchange with Andrew Kolvet concerning a dream involving Charlie Kirk; a Christianity Today article read aloud on Johnny Moore's origins at Liberty University; a New York Times article on Japanese LDP–Unification Church ties in connection with the assassination of Shinzō Abe; an audio clip of Johnny Moore describing his ADL and Aspen Institute involvement; a Likud Knesset speech declaring Tucker Carlson and the host as enemies of Israel; and an interview clip of Megyn Kelly discussing pressure to denounce the host.
 
-The episode's structural importance lies in the formal articulation of a "Mooney 2.0" thesis: a claimed lineage Sun Myung Moon → Ron Godwin → Johnny Moore / Andrew Kolvet, anchored to a Sun Myung Moon audio quotation about three disciples and to Christianity Today reporting on Moore's early years at Liberty University. Several previously unexplored entities (Ron Godwin, Johnny Moore, the Chyros Company, Mark Burnett) are introduced as candidate members of the investigative graph. Read-aloud fan comments advance an unverified thesis that Erica Kirk acted as Charlie Kirk's handler in establishing the Falwell Center.
+The episode's structural importance lies in the formal articulation of a "Mooney 2.0" thesis: a claimed lineage Sun Myung Moon → Ron Godwin → Johnny Moore / Andrew Kolvet, anchored to a Sun Myung Moon audio quotation about three disciples and to Christianity Today reporting on Moore's early years at Liberty University. Several previously unexplored entities (Ron Godwin, Johnny Moore, the Kairos Company, Mark Burnett) are introduced as candidate members of the investigative graph. Read-aloud fan comments advance an unverified thesis that Erica Kirk acted as Charlie Kirk's handler in establishing the Falwell Center.
 
 ---
 
@@ -346,7 +346,7 @@ Investigative Pressure: Medium
 
 **N-438** Johnnie Moore
 
-Former Liberty University lead pastor (left 2014); founder of Chyros Company; claimed in this episode to be a disciple of Ron Godwin. Self-identifies in audio as involved with ADL and Aspen Institute.
+Former Liberty University lead pastor (left 2014); founder of Kairos Company; claimed in this episode to be a disciple of Ron Godwin. Self-identifies in audio as involved with ADL and Aspen Institute.
 
 Evidence Count: 3
 Claim Count: 3
@@ -1861,7 +1861,7 @@ Claim Timestamp: 00:20:09
 
 Claim: The host says Johnny Moore, despite establishing the Kairos Company, immediately and consistently wanted his job back at Liberty University, and asks why a PR company was so keen to keep a leg inside growing evangelical organizations.
 
-Transcript Snippet: Johnny Moore immediately and consistently despite establishing the Chyros Company wanted his job back at Liberty University
+Transcript Snippet: Johnny Moore immediately and consistently despite establishing the Kairos Company wanted his job back at Liberty University
 
 Anchored Artifacts: 
 Mentions: N-438
@@ -2201,7 +2201,7 @@ Claim Timestamp: 00:32:10
 
 Claim: The host says it is almost as if there is no separation between Mossad and the CIA, and that Benjamin Netanyahu used to work for the CIA, which she thinks was uncovered during her Epstein series but says not to quote her.
 
-Transcript Snippet: It's almost as if the MSAD and the CIA, there is no separation between the two. It's why BB used to work for the CIA
+Transcript Snippet: It's almost as if the Mossad and the CIA, there is no separation between the two. It's why BB used to work for the CIA
 
 Anchored Artifacts: 
 Mentions: N-36
@@ -2666,14 +2666,14 @@ Confidence: medium
 
 ---
 
-**M-11** (meme) MSAD
+**M-11** (meme) Mossad
 
 ### Occurrence 1
 
 Video Timestamp: 00:32:10
 Speaker: N-3
-Quote: It's almost as if the MSAD and the CIA, there is no separation between the two.
-Context: Host uses the 'MSAD' shorthand for Mossad when equating it with the CIA.
+Quote: It's almost as if the Mossad and the CIA, there is no separation between the two.
+Context: Host uses the 'Mossad' shorthand for Mossad when equating it with the CIA.
 Tags: mossad, cia
 Confidence: high
 

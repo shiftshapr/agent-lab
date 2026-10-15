@@ -1411,7 +1411,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10870",
       "ref": "N-10870",
-      "name": "Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum",
+      "name": "Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum",
       "type": "investigation_target",
       "description": "Transcript spelling \"Wiyre Fy\". The host ties the new back camera to the sponsorship deal.",
       "related_artifacts": [],
@@ -1461,7 +1461,7 @@
       "ref": "N-10908",
       "name": "Back-Camera and Platform Setup Introduction (2025 Tour)",
       "type": "topic",
-      "description": "Investigation target: when and why Turning Point USA began seating Charlie Kirk on a raised platform and placing a camera directly behind his head at tabling events. The host and Nicci say no such camera appears on the 2024 Brainwashed tour and that it arrived with the 2025 American Comeback Tour. The host says it coincided with the Why Refi sponsorship deal.",
+      "description": "Investigation target: when and why Turning Point USA began seating Charlie Kirk on a raised platform and placing a camera directly behind his head at tabling events. The host and Nicci say no such camera appears on the 2024 Brainwashed tour and that it arrived with the 2025 American Comeback Tour. The host says it coincided with the Yrefy sponsorship deal.",
       "related_artifacts": [
         "A-2537.1",
         "A-2539.1",
@@ -1879,8 +1879,8 @@
       "@type": "Claim",
       "@id": "C-3846",
       "ref": "C-3846",
-      "label": "The new camera arrived with the Why Refi sponsorship deal",
-      "claim": "The host says the rear camera angle seems to have arrived specifically with TPUSA's big sponsorship deal with \"Wiyre Fy\" (Why Refi).",
+      "label": "The new camera arrived with the Yrefy sponsorship deal",
+      "claim": "The host says the rear camera angle seems to have arrived specifically with TPUSA's big sponsorship deal with \"Wiyre Fy\" (Yrefy).",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10870",
@@ -1889,7 +1889,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:15:38",
-      "investigative_direction": "Compare the Why Refi sponsorship contract dates and deliverables with the first appearance of the rear camera.",
+      "investigative_direction": "Compare the Yrefy sponsorship contract dates and deliverables with the first appearance of the rear camera.",
       "transcript_snippet": "That's also seems to have arrived specifically with the big sponsorship deal with Wiyre Fy as well."
     },
     {

@@ -977,7 +977,7 @@ Claim Timestamp: 00:43:25
 Claim: Per the New York Times op-ed by Erika Kirk that the host reads, Erika Kirk recounts telling Second Lady Usha Vance "I don't know how I'm going to do this" on the day after Charlie Kirk was shot.
 
 Anchored Artifacts: A-2348.1
-Mentions: N-2, N-4, N-351, N-1
+Mentions: N-2, N-351, N-1
 
 
 Investigative Direction: Confirm the quoted sentence in the op-ed directly; cross-check against Vance-family public statements.
@@ -991,7 +991,7 @@ Claim Timestamp: 00:43:25
 Claim: Per the New York Times op-ed by Erika Kirk that the host reads, Erika Kirk cites Usha Vance's "15 minutes" airplane analogy about grief, in which the worst stretch is like a plane about to land with screaming children.
 
 Anchored Artifacts: A-2348.1
-Mentions: N-2, N-4, N-351
+Mentions: N-2, N-351
 
 
 Investigative Direction: Confirm the quoted analogy in the op-ed directly.
@@ -1030,7 +1030,7 @@ Investigative Direction: Confirm the closing lines directly in the op-ed; identi
 
 Claim Timestamp: 00:08:28
 
-Claim: The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert and exchanging a half-smile across the lobby.
+Claim: The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert and staring at her across the lobby with a half smile.
 
 Anchored Artifacts: A-2349.1
 Mentions: N-27, N-3, N-360
@@ -1125,7 +1125,7 @@ Transcript Snippet: They were like, "Charlie loved pyrotechnics." Yeah, I'm sure
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10201
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Find the TPUSA statements explaining the memorial fireworks and who authorized the pyrotechnic display.
 
 ---
@@ -1175,11 +1175,11 @@ Investigative Direction: Check coverage of North West's Chicago show date to con
 
 ---
 
-**C-7700** Host Says She Went Down to Crowd Surf at 8 Months Pregnant
+**C-7700** Host Says She Was Down to Crowd Surf at 8 Months Pregnant
 
 Claim Timestamp: 00:08:41
 
-Claim: The host says she went down to the floor of the arena and crowd surfed at 8 months pregnant.
+Claim: The host says that at the Ye concert she told her husband and security she had to be down on the floor with the crowd, and that she was down to crowd surf at 8 months pregnant.
 
 Transcript Snippet: I was down to crowd surf at 8 months pregnant. It's just who I am.
 
@@ -1276,7 +1276,7 @@ Claim: The host says that after Kanye tweeted he would go Defcon 3 on some Jewis
 Transcript Snippet: they needed me to make that statement because they knew I was friends with him.
 
 Anchored Artifacts: 
-Mentions: N-3, N-27, N-97
+Mentions: N-3, N-27
 Related Nodes: N-10900
 Supports: C-1681
 Tags: relevance:context
@@ -1340,7 +1340,7 @@ Claim: The host says that she knows what Andrew told her, namely that Bibi Netan
 Transcript Snippet: I know what Andrew told me. BB offered to take Turning Point to the next level.
 
 Anchored Artifacts: 
-Mentions: N-14, N-36, N-1
+Mentions: N-14, N-36
 Related Nodes: N-10342, N-10000
 Supports: C-1938, C-5012
 Tags: relevance:core
@@ -1802,7 +1802,7 @@ Claim: The host says Charlie never wrote an op-ed for the New York Times, that h
 Transcript Snippet: Charlie never wrote an op-ed for the New York Times. His opinion of them is long documented all throughout his career.
 
 Anchored Artifacts: 
-Mentions: N-1, N-2
+Mentions: N-1
 Related Nodes: N-10968
 Tags: relevance:core
 Investigative Direction: Search New York Times opinion archives for any byline by Kirk.
@@ -1830,7 +1830,7 @@ Investigative Direction: Identify the original show episode and date of the clip
 
 Claim Timestamp: 00:42:52
 
-Claim: The host says that Turning Point 2.0 works with the Department of War and the deep state apparatus and that Erika is their emotional asset.
+Claim: The host, addressing Erika, says Turning Point 2.0 is a totally different organization and that Erika works with the Department of War and the deep state apparatus and is their emotional asset.
 
 Transcript Snippet: You work with the Department of War. You work with the deep state apparatus. You are their emotional asset.
 
@@ -1877,7 +1877,7 @@ Investigative Direction: Check the Cubs schedule for the evening of September 9,
 
 Claim Timestamp: 00:44:17
 
-Claim: The host says the Usha Vance 15 minutes advice is already seared into the first speech Erika gave and into the conference call she held at Turning Point USA, so the op-ed repeats it a third time.
+Claim: The host says the Usha Vance 15 minutes advice is already seared into the first speech Erika gave and into the conference call she held at Turning Point USA, and that they keep hearing it over and over again.
 
 Transcript Snippet: They're seared into the first speech that you gave. They're seared into the conference call that you said at Turning Point USA.
 
@@ -1961,7 +1961,7 @@ Claim: The host says that within six days of the shooting Erika was laughing at 
 Transcript Snippet: You were living within 6 days laughing at emojis. You're laughing at emojis on a Zoom call.
 
 Anchored Artifacts: 
-Mentions: N-2, N-212
+Mentions: N-2
 Tags: relevance:core
 Investigative Direction: Identify the Zoom call and obtain the recording or attendee accounts.
 
@@ -1992,7 +1992,7 @@ Claim: The host says that the New York Times was involved in Operation Mockingbi
 Transcript Snippet: Operation Mockingbird. The New York Times was involved in that. After they committed another a different state assassination. Assassination of JFK.
 
 Anchored Artifacts: 
-Mentions: N-710, N-2
+Mentions: N-710
 Related Nodes: N-10061, N-10968
 Tags: relevance:tangential
 Investigative Direction: Cite the Church Committee findings on press relationships; the host gives no source on air.
@@ -2275,7 +2275,7 @@ Investigative Direction: Check the announcement made the following week.
 
 Claim Timestamp: 00:56:42
 
-Claim: The host repeats that the Salem Media and Waterstone Charlie Kirk documentary is coming out on September 10 of this year.
+Claim: A viewer comment the host reads says Salem Media and Waterstone are releasing a Charlie Kirk documentary called Can You Hear Me Now?, with an alleged unreleased interview, on September 10th of this year; the host replies 'Yes'.
 
 Transcript Snippet: On September 10th of this year. Yes, Salem Media and Waterstone, they are acquiring Salem Media.
 
@@ -2338,7 +2338,7 @@ Investigative Direction: FARA filings naming the Israeli Ministry of Foreign Aff
 
 Claim Timestamp: 00:56:42
 
-Claim: The host says she believes Brad Parscale was on the board of Salem Media or at least an executive there, and that he brought the filings forward.
+Claim: The host says she believes Brad Parscale was on the [unclear] of Salem Media, or at least an executive there, who brought this forward.
 
 Transcript Snippet: Brad Parscale, I believe, was on the of Salem Media, or he was at least um an executive at Salem Media, who brought this forward.
 

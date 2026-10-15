@@ -1745,7 +1745,7 @@
       "@id": "C-3440",
       "ref": "C-3440",
       "label": "Host Says Terryl Farnsworth Was on a Laptop in a Mercedes Sprinter Van at About 1:00 PM",
-      "claim": "The host says enhanced footage shows Terryl Farnsworth seated in the back of a Mercedes Sprinter van, working on a laptop and looking around (she says this is her inference), at approximately 1:00 PM on September 10, roughly 30 minutes after the event.",
+      "claim": "The host says enhanced footage shows Terryl Farnsworth seated in the back of what she believes is a Mercedes Sprinter van, working on a laptop and looking around (she says this is her inference), at approximately 1:00 PM on September 10, a little over 30 minutes after Charlie went down.",
       "anchored_artifacts": [
         "A-2370.1"
       ],
@@ -1818,7 +1818,7 @@
       "@id": "C-3444",
       "ref": "C-3444",
       "label": "Host concurs with Bobby Sausalito's interpretation of Turek contradiction",
-      "claim": "Host explicitly endorses Bobby Sausalito's framing that Turek's escalating list of euphemisms (discrepancy, incongruity, irrelevant detail, irrelevant consequence) is not a satisfying response to a documented contradiction, and rejects Turek's claim that the contradiction does not matter.",
+      "claim": "Host endorses Bobby Sausalito's response, in a clip she plays, to Frank Turek's CPR account, and says Turek keeps using euphemisms for lying (discrepancy, incongruity, irrelevant detail, irrelevant consequence), which she says do not make the contradiction irrelevant.",
       "anchored_artifacts": [
         "A-2368.1",
         "A-2369.1"
@@ -1826,7 +1826,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:11–00:14:18",
-      "investigative_direction": "Preserve both artifacts; treat host concurrence as separate claim linked to the same evidence base."
+      "investigative_direction": "Preserve both artifacts; treat host concurrence as separate claim linked to the same evidence base.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-901"
+      ]
     },
     {
       "@type": "Claim",
@@ -1895,8 +1899,8 @@
       ],
       "mentions_person_refs": [
         "N-900",
-        "N-7",
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -2016,7 +2020,7 @@
         "N-10416"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:06:09",
       "investigative_direction": "Compare against Boreing's own public statements and the legal filings the host cites.",
@@ -2037,7 +2041,7 @@
         "N-10900"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:06:09",
       "investigative_direction": "Locate the original Boreing remark and its date.",
@@ -2058,7 +2062,7 @@
         "N-10900"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:06:09",
       "investigative_direction": "Find the Boreing episodes or posts with the Loomer and Kraus remarks.",
@@ -2074,7 +2078,7 @@
       "@id": "C-11767",
       "ref": "C-11767",
       "label": "Host shows a collage of Boreing remarks about her as evidence of fixation",
-      "claim": "The host shows a collage of clips of Jeremy Boreing speaking about her, which she says fits on three cards and is not exhaustive.",
+      "claim": "The host shows a collage of cards of Jeremy Boreing talking about her, which she says is not exhaustive and amounts to three cards.",
       "anchored_artifacts": [
         "A-3159.1"
       ],
@@ -2083,7 +2087,7 @@
         "N-10416"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:06:09",
       "investigative_direction": "Pull each clip in the collage to its source episode and verify the wording.",
@@ -2143,7 +2147,7 @@
         "N-10900"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:07:25",
       "investigative_direction": "Identify the court proceedings between the host and Boreing or the Daily Wire.",
@@ -2214,7 +2218,7 @@
       "@id": "C-11773",
       "ref": "C-11773",
       "label": "Host says Brian Harpole is suing her over her account of his care",
-      "claim": "The host says Brian Harpole is suing her over her saying he provided upstanding care, which makes the CPR discrepancy more relevant to her than to others.",
+      "claim": "The host says Brian Harpole is suing her \"on the basis of saying that he was just did all this upstanding care,\" which makes the CPR discrepancy more relevant to her than to others.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10651"
@@ -2346,7 +2350,7 @@
       "@id": "C-11779",
       "ref": "C-11779",
       "label": "Host infers footage shows Farnsworth's technology was not fully seized and evidence may be tampered with",
-      "claim": "The host says the Farnsworth footage is enough to infer some evidence may have been tampered with, and asks how his technology was not fully seized.",
+      "claim": "The host says the SBI being given thumb drives rather than original SD cards, and Farnsworth's technology not being fully seized, is enough to infer some evidence may have been tampered with.",
       "anchored_artifacts": [
         "A-3165.1"
       ],
@@ -2440,7 +2444,7 @@
       "@type": "Claim",
       "@id": "C-11783",
       "ref": "C-11783",
-      "label": "Host lists Turek among those she says wore scrubs on returning from the hospital",
+      "label": "Host Says Her Hospital and Scrubs Questions Include Turek",
       "claim": "The host says her questions about what took place at the hospital and why people were wearing scrubs when they returned include Frank Turek, whose memory-lapse story she does not buy.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2545,7 +2549,7 @@
       "@id": "C-11788",
       "ref": "C-11788",
       "label": "Host says her tribute noted Charlie was attending Mass and hoping to become Catholic, then was called a liar",
-      "claim": "The host says her tribute video said that Charlie was attending Mass and that people hoped he would become a Catholic, that she was then called a liar, and that Alex Clark did a full episode with Andrew Kolvet asserting she lied without naming her.",
+      "claim": "The host says her tribute video said Charlie was attending Mass and that people hoped he would become a Catholic, that she was then called a liar, and that 'you' (addressing Alex Clark and others) did a full episode asserting she lied without naming her, mentioning Andrew Kolvet.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10104",
@@ -2697,8 +2701,7 @@
         "C-3429"
       ],
       "mentions_person_refs": [
-        "N-3",
-        "N-2"
+        "N-3"
       ]
     },
     {

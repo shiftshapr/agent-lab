@@ -1,0 +1,797 @@
+[
+ {
+  "claim": "C-6301",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6302",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6303",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6304",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6305",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Carlson and Owens; Kolvet appears in the neighboring sentence (\"advised Turning Point's Andrew Kolvet\") but not in this claim.",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-6306",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6307",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript presents this as profile text after the DeGroot quote ends (\"sign the paperwork.\"); host does not say DeGroot said it.",
+  "fix": {
+   "claim": "The host reads the profile as saying that the night before Charlie was killed he had been discussing with Erika and their pastor recommendations from his security team, which included bulletproof glass shields and vests.",
+   "mentions": [
+    "N-1",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-6308",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6309",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6310",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6311",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6312",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6313",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6314",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6315",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6316",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6317",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6318",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6319",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6320",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6321",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6322",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6323",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6324",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6325",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6326",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6327",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6328",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6329",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6330",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6331",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6332",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6333",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6334",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6335",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6336",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6337",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6338",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6339",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6340",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says \"Tucker Cross thinks it's mysterious... You're not that intelligent... He's met you\"; never says Carlson told her.",
+  "fix": {
+   "claim": "The host says Tucker Carlson thinks Bill Ackman's money is very mysterious and says Carlson considers Ackman not that intelligent or impressive and has met him."
+  }
+ },
+ {
+  "claim": "C-6341",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6342",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6343",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host hedges: \"or at least she was yesterday, maybe the day before\" and \"it seems to be that when she's in DC\".",
+  "fix": {
+   "claim": "The host says, citing a source, that Erika is in DC right now, or at least was yesterday or the day before, and that it seems that when Erika is in DC the Department of War attacks on the host start doubling."
+  }
+ },
+ {
+  "claim": "C-6344",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6345",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6346",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6347",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6348",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6349",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6350",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"Apparently, this is the person is like an old school graer Andrew Wilson affiliated person. Who knows?\" Referent unclear and hedged; unresolved name: \"graer\".",
+  "fix": {
+   "claim": "The host says, apparently and with \"who knows\", that this is a person like an old school \"graer\" (garbled in the transcript) affiliated with Andrew Wilson."
+  }
+ },
+ {
+  "claim": "C-3608",
+  "episode": 159,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Window ends at 04:09 mid-sentence (\"She put together a t\"), before any big-hitters/donor-list detail; content spoken >90s after 02:39. Details unverifiable in window.",
+  "fix": {
+   "timestamp": "00:04:05",
+   "claim": "The host says leaked Telegram messages show Erika asking who the big hitters are and requesting a full donor list to make notes, with staff replying with new six-figure donors sorted by MGO, and treats this as ending the pure grieving-widow narrative."
+  }
+ },
+ {
+  "claim": "C-3609",
+  "episode": 159,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Dylan Erickson and Alan Collinge fall outside the window; remaining details match.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3610",
+  "episode": 159,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim says \"Bob Shaman\"; host says \"Bob Shillman\" (N-98). Transcript \"Lane Shamberger\" = Laine Schoneberger.",
+  "fix": {
+   "claim": "Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot; host ties timing to donor pullouts (e.g., Bob Shillman) and UVU booking pressures; Laine Schoneberger spoke ~5 minutes at UVU.",
+   "names": [
+    {
+     "wrong": "Lane Shamberger",
+     "right": "Laine Schoneberger",
+     "source": "https://www.oudaily.com/news/ou-turning-point-usa-tour-event-lloyd-noble-center/article_9a54a648-00ad-481f-bf2c-9f05cf36b1a9.html"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3611",
+  "episode": 159,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions list N-5 (Trump) and N-7 (Turek), neither named in the claim; \"Charlie's Epstein walk-back\" names Charlie (N-1), who is missing.",
+  "fix": {
+   "mentions": [
+    "N-82",
+    "N-378",
+    "N-36",
+    "N-28",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-3612",
+  "episode": 159,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim says \"Trump's absence\" and \"Candace Epstein episodes\" and Charlie's walk-back, but N-5, N-3, N-1 are not in Mentions. Transcript describes one July meeting.",
+  "fix": {
+   "mentions": [
+    "N-4",
+    "N-9",
+    "N-29",
+    "N-69",
+    "N-85",
+    "N-127",
+    "N-131",
+    "N-151",
+    "N-152",
+    "N-153",
+    "N-159",
+    "N-161",
+    "N-536",
+    "N-281",
+    "N-5",
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-3613",
+  "episode": 159,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Interrogation account is read from a published piece (\"The record of Mr. Cole's last hour... is difficult to read\"), not the host's own assertion; Tucker interview not in window.",
+  "fix": {
+   "claim": "Per the account of Brian Cole Jr.'s interrogation the host shows, agents ignored his distress and stimming, told him lying to federal agents is another crime, and he said yes to being the man in the video after twice denying recognizing him; the host calls the way the confession was coerced positively sickening.",
+   "mentions": [
+    "N-25"
+   ]
+  }
+ },
+ {
+  "claim": "C-3614",
+  "episode": 159,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Only the Cole Scripps clip is played; Robinson footage is described. Reporter transcribed \"Lori Jenha\" = Lori Jane Gliha. Cincinnati daycare remark not in window.",
+  "fix": {
+   "claim": "In a clip the host plays, Scripps News correspondent Lori Jane Gliha presents new video of Brian Cole Jr. from a 2024 traffic crash; the host says the exact same Scripps journalists released Tyler Robinson's minor traffic-crash body camera footage and argues a federal narrative-management pattern, adding a speculative note that Erika attended daycare in a Cincinnati Scripps building.",
+   "names": [
+    {
+     "wrong": "Lori Jenha",
+     "right": "Lori Jane Gliha",
+     "source": "https://www.scrippsnews.com/investigations/scripps-news-obtains-body-camera-footage-of-dc-pipe-bomb-suspect"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3615",
+  "episode": 159,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"your loyalty to Erika depends on her loyalty to Charlie\" is a comment from viewer Ali, which the host reads and agrees with; claim gives it to the host.",
+  "fix": {
+   "claim": "A viewer comment the host reads says loyalty to Erika depends on her loyalty to Charlie; the host agrees and argues that Erika's changed stance on Israel, silence and glowing Israel partnerships, and teaming up with Andrew Wilson (text leaks) register as fake after she allegedly pushed Charlie to be more critical of Israel."
+  }
+ },
+ {
+  "claim": "C-3616",
+  "episode": 159,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Flag-icon point is a viewer comment (Hannah Doodle); two-accounts point is host via Turning Point people. Wilson-vs-Kolvet question is outside window.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6351",
+  "episode": 159,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says \"perhaps because he was put under financial pressure\"; claim drops \"perhaps\".",
+  "fix": {
+   "claim": "The host says that in one batch she received contracts Turning Point USA signed in 2025 and that, in her view, they confirm her suspicion that Charlie's tour came together rather quickly and perhaps because he was put under financial pressure."
+  }
+ }
+]

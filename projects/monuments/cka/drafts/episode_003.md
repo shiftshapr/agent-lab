@@ -2576,7 +2576,7 @@ Claim Timestamp: 00:52:10
 
 Claim: In the clip, the same speaker says she and the other speaker speculated at the Turning Point event about whether Jeffrey Epstein was possibly a Mossad agent or asset and that this has been turned around on her to mean she must be antisemitic, which she rejects.
 
-Transcript Snippet: whether the possibility of Jeffrey Epstein possibly being a MSAD agent or asset or affiliated with that's been turned around on me too to you must be anti-semitic
+Transcript Snippet: whether the possibility of Jeffrey Epstein possibly being a Mossad agent or asset or affiliated with that's been turned around on me too to you must be anti-semitic
 
 Anchored Artifacts: A-1099.1
 Mentions: N-46, N-9, N-1

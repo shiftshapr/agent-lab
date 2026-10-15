@@ -992,7 +992,7 @@ Claim that Candace Owens and Charlie Kirk unfollowed each other over a rift, whi
 **C-3617** Lisa Nose tweet alleges Candace houses illegal nannies under NDA
 
 Claim Timestamp: 00:01:13
-Claim: On air the host reads a Lisa Nose X post claiming Candace Owens keeps eight nannies (two per child) living in a second mansion, hires nannies who are in the country illegally via an elite Jewish nanny agency, underpays them, and binds them with NDAs so they cannot speak; Nose says Jessica Reed Kraus originally reported it and that Nose confirmed via three people who know Candace.
+Claim: On air the host reads a Lisa Nose X post saying Candace Owens is rumored to have two nannies per child (eight in total) living in a second mansion, that it has been reported she hires nannies who are in the country illegally via an elite Jewish nanny agency and underpays them, and that they have all signed NDAs so cannot speak; Nose says Jessica Reed Kraus originally reported it and that Nose independently confirmed via three people who know Candace.
 Anchored Artifacts: A-2474.1
 Mentions: N-3, N-263
 Related Nodes: N-10867, N-10875
@@ -1037,7 +1037,7 @@ Investigative Direction: Confirm Shirley appearance date/booking chain on Charli
 Claim Timestamp: 00:15:48
 Claim: The host cites roughly 500 U.S. filicide cases per year in a nation of about 350 million (about 10% step-parents/guardians), one case per ~770,000 people, and NIH-attributed offender split of roughly 57% fathers vs 43% mothers, arguing the killer-mom epidemic framing has no basis in statistical reality.
 Anchored Artifacts: A-2475.1
-Mentions: N-203, N-207
+Mentions: 
 Related Nodes: N-10876
 Investigative Direction: Pull the NIH / official filicide statistics she paraphrases; confirm rates and sex split against primary tables.
 
@@ -1046,7 +1046,7 @@ Investigative Direction: Pull the NIH / official filicide statistics she paraphr
 **C-3622** UVU review: Station 2 fire captain assisted CPR at hospital but is unnamed
 
 Claim Timestamp: 00:25:48
-Claim: The host reads the UVU independent review stating Station 3 radioed the TPUSA SUV, Station 2 rerouted to Timpanogos Hospital, and the fire captain from Station 2 assisted in providing CPR to Charlie Kirk at the hospital; she flags that this public-figure captain is unnamed while the review named Caleb Chilcutt and Maycee Crofts.
+Claim: The host reads the UVU independent review stating that Station 3 personnel radioed that their truck had passed near the TPUSA security team's SUV, Station 2 rerouted to Timpanogos Hospital, and the fire captain from Station 2 assisted in providing CPR to Charlie Kirk at the hospital; she flags that this public-figure captain is unnamed while the review named Caleb Chilcutt and Maycee Crofts.
 Anchored Artifacts: A-2476.1
 Mentions: N-1, N-8, N-10
 Related Nodes: N-10839, N-10859, N-10874
@@ -1059,7 +1059,7 @@ Investigative Direction: Identify Station 2 captain on duty 2025-09-10 via offic
 Claim Timestamp: 00:22:00
 Claim: Combining Frank Turek's claim of late-ride back-seat CPR with Brian Harpole's claim that CPR was not administered in the car (and Harpole's long hospital narrative through defibrillator prep and door guard), the host says neither man ever featured a fire captain who met them at the hospital and began CPR, which she calls an impossible dual omission given the review text.
 Anchored Artifacts: A-2476.1
-Mentions: N-1, N-7, N-209, N-267
+Mentions: N-7, N-267
 Related Nodes: N-10687, N-10699, N-10737, N-10874
 Investigative Direction: Align Turek, Harpole, and review timelines minute-by-minute; seek hospital/EMS records naming the captain.
 
@@ -1112,9 +1112,9 @@ Investigative Direction: Locate the BBC interview/article and any produced email
 **C-3628** Zach Bryan Free Palestine shirts and Gillette attendance record
 
 Claim Timestamp: 00:45:05
-Claim: The host says after Robert Kraft canceled Macklemore for saying Free Palestine at Kraft's Gillette Stadium, weather canceled the scheduled shows, then Zach Bryan played two nights wearing Free Palestine shirts (band included; drummer shirt referenced a killed Palestinian child) and broke the stadium attendance record previously held by Ed Sheeran.
+Claim: The host says after Robert Kraft canceled Macklemore for saying Free Palestine at Kraft's Gillette Stadium, weather canceled the scheduled shows, then Zach Bryan played two nights wearing Free Palestine shirts (band included; the drummer's shirt referenced a horrific story about a 5-year-old Palestinian girl) and broke the stadium attendance record previously held by Ed Sheeran.
 Anchored Artifacts: A-2479.1
-Mentions: N-178, N-195
+Mentions: N-178, N-195, N-836, N-837
 Related Nodes: N-10878
 Investigative Direction: Verify Kraft/Macklemore cancellation, Bryan set dates, shirt imagery, and official attendance figures vs Sheeran's prior mark.
 
@@ -1134,7 +1134,7 @@ Investigative Direction: Archive the trend posts and primary interview clips bei
 **C-3678** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:57:32
-Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Claim: The host says the decentralized intelligence agency is the people behind her tip lines who have allowed the investigation to stay alive.
 Transcript Snippet: ...Uh we've got of course our standard CIA hat. The decentralized intelligence agency of people who fought our tip lines and have allowed this um investigation to stay alive. Couldn't d...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1185,7 +1185,7 @@ Transcript Snippet: Remember the second mansion that Laura Luma reported on?
 Anchored Artifacts: A-2474.1
 Mentions: N-3, N-263, N-60
 Related Nodes: N-10875
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate any Loomer post or report about a second Owens property and the original Nose and Kraus posts.
 
 ---
@@ -1201,7 +1201,7 @@ Transcript Snippet: maybe second only to me paying off someone less than $5,000 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10867
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find the original posts making the DUI payoff allegation and any police or court record of such an accident.
 
 ---
@@ -1226,9 +1226,9 @@ Investigative Direction: Primary sources on media and intelligence-agency relati
 
 Claim Timestamp: 00:07:18
 
-Claim: The host says that within five days of the Weinstein story nobody was speaking about the Las Vegas shooting, "which appeared to be a CIA MSAD operation".
+Claim: The host says that within five days of the Weinstein story nobody was speaking about the Las Vegas shooting, "which appeared to be a CIA Mossad operation".
 
-Transcript Snippet: within five days nobody was speaking about the Las Vegas shooting which appeared to be a CIA MSAD operation.
+Transcript Snippet: within five days nobody was speaking about the Las Vegas shooting which appeared to be a CIA Mossad operation.
 
 Anchored Artifacts: 
 Mentions: N-3, N-227
@@ -1250,7 +1250,7 @@ Transcript Snippet: Nancy Mace, who has accepted over six figures from Apac and 
 Anchored Artifacts: 
 Mentions: N-207
 Related Nodes: N-10083, N-10026
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check FEC and OpenSecrets records for AIPAC-linked contributions to Mace.
 
 ---
@@ -1267,7 +1267,7 @@ Anchored Artifacts: A-2475.1
 Mentions: N-207
 Related Nodes: N-10876
 Supports: C-3618
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the original Mace interview and confirm the exact wording and date of the clip.
 
 ---
@@ -1283,7 +1283,7 @@ Transcript Snippet: Also, perhaps the South Carolina legislature could make an e
 Anchored Artifacts: A-2475.1
 Mentions: N-207
 Related Nodes: N-10876, N-10898
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Pull the Mace posts and the New York Post stories to confirm text and dates.
 
 ---
@@ -1337,13 +1337,13 @@ Investigative Direction: Review the TikTok divestiture ownership filings and inv
 
 ---
 
-**C-9222** Host calls the New York Post the MSAD's rag tied to Ghislaine Maxwell coverage
+**C-9222** Host calls the New York Post the Mossad's rag tied to Ghislaine Maxwell coverage
 
 Claim Timestamp: 00:14:50
 
-Claim: The host calls the New York Post the "MSAD's rag" and says it had everything to do with Ghislaine Maxwell and with the report that Jeffrey Epstein had been suicided in his cell, covering for Maxwell.
+Claim: The host calls the New York Post the "Mossad's rag" and says it had everything to do with Ghislaine Maxwell and with the report that Jeffrey Epstein had been suicided in his cell, covering for Maxwell.
 
-Transcript Snippet: the New York Post in particular, the MSAD's rag, uh the one that had everything to do with Ghislaine Maxwell and Jeffrey Epstein
+Transcript Snippet: the New York Post in particular, the Mossad's rag, uh the one that had everything to do with Ghislaine Maxwell and Jeffrey Epstein
 
 Anchored Artifacts: 
 Mentions: N-47, N-9
@@ -1423,7 +1423,7 @@ Investigative Direction: Collect early public reaction posts from the days after
 
 Claim Timestamp: 00:19:23
 
-Claim: The host gives her opinion that officials will seek to regulate the internet because of the Pentagon's astonishing failure to cover its own tracks regarding the assassination of Charlie Kirk, and that women are blamed because they did not accept Erika Kirk's performance.
+Claim: The host gives her opinion that the people pushing this narrative will seek to regulate the internet because of the Pentagon's astonishing failure to cover its own tracks regarding the assassination of Charlie Kirk, and that women are blamed because they did not accept Erika Kirk's performance.
 
 Transcript Snippet: because of the failure, the astonishing failure of the Pentagon to cover their own tracks regarding the assassination of Charlie.
 
@@ -1493,7 +1493,7 @@ Claim: The host says Brian Harpole said CPR was not administered in the car "or 
 Transcript Snippet: Brian Harpole said that um CPR actually was not administered in the car or anywhere else for that matter
 
 Anchored Artifacts: A-2476.1
-Mentions: N-267, N-7
+Mentions: N-267
 Related Nodes: N-10699, N-10737
 Supports: C-3547
 Contradicts: C-3622
@@ -1522,7 +1522,7 @@ Investigative Direction: Compare Harpole's interview wording with hospital staff
 
 Claim Timestamp: 00:22:00
 
-Claim: The host says that on the basis of the stories both men told, Frank Turek is assumed to have been FaceTiming Jack Hibbs during the hospital events.
+Claim: The host says that on the basis of the stories both men told, we are to assume Frank Turek was FaceTiming Jack Hibbs.
 
 Transcript Snippet: We are to assume that Frank was facetiming Jack Hibbs on the basis of the story that they both told.
 
@@ -1539,7 +1539,7 @@ Investigative Direction: Obtain Hibbs and Turek call logs and any recording of t
 
 Claim Timestamp: 00:29:07
 
-Claim: In the dispatch audio the host plays, a voice says to switch to channel 3J and that officers are en route to the hospital to be with the victim, after units were told police were signaling them to follow.
+Claim: In the dispatch audio the host plays, a voice says "Switching to 3J" and that officers are en route to the hospital to be with the victim, after units were told police were signaling them to follow.
 
 Transcript Snippet: Copy. Switching to 3J. We got officers in route to the hospital to be with the victim.
 
@@ -1571,7 +1571,7 @@ Investigative Direction: Review incoming tips for roster or dispatch records nam
 
 Claim Timestamp: 00:30:30
 
-Claim: The host says she is aware of conspiracies about a different fire captain who perished with his entire family in a flash flood, that he did work with Provo EMS from which some calls appear to come, and that she has seen no information attaching him to this story.
+Claim: The host says she is aware of conspiracies about a different fire captain who perished with his entire family in a flash flood, that he did work with Provo EMS from which some calls appear to come, and that she has not seen any information attaching him necessarily to this story.
 
 Transcript Snippet: for those of you guys who are going to email me about some of the conspiracies regarding a different fire captain who perished with his entire family in a flash flood, I am aware of that information.
 
@@ -1619,7 +1619,7 @@ Investigative Direction: Review UVU police communication logs and the review's a
 
 Claim Timestamp: 00:34:28
 
-Claim: The host says headquarters was not sharing the ticket count, so the police could not prepare without knowing the numbers sufficiently.
+Claim: The host says headquarters was not sharing the ticket count, so there was no way they could have prepared without knowing the numbers sufficiently.
 
 Transcript Snippet: And then of course we learned that headquarters was not sharing the ticket count.
 
@@ -1758,7 +1758,7 @@ Transcript Snippet: And so he's now dead a after he was saying, "Hey, there was 
 Anchored Artifacts: A-2478.1
 Mentions: N-173, N-166, N-9
 Related Nodes: N-10877
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Locate Andre's whistleblower filings and public statements.
 
 ---
@@ -1795,13 +1795,13 @@ Investigative Direction: Find Bondi's original remarks and context.
 
 ---
 
-**C-9250** Host speculates the files would show an MSAD network of women under MK Ultra programming
+**C-9250** Host speculates the files would show an Mossad network of women under MK Ultra programming
 
 Claim Timestamp: 00:43:00
 
-Claim: The host says she thinks the files would reveal fake wives and an entire MSAD network of women pretending to love men who are going through MK Ultra programming from a young age.
+Claim: The host says she thinks the files would reveal fake wives and an entire Mossad network of women pretending to love men who are going through MK Ultra programming from a young age.
 
-Transcript Snippet: an entire MSAD network, I think, of women who are pretending to love men who are going through like MK Ultra programming from the time that they're young.
+Transcript Snippet: an entire Mossad network, I think, of women who are pretending to love men who are going through like MK Ultra programming from the time that they're young.
 
 Anchored Artifacts: 
 Mentions: N-9
@@ -1839,7 +1839,7 @@ Anchored Artifacts:
 Mentions: N-836, N-837
 Related Nodes: N-10878
 Supports: C-3458
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Verify the booking announcement and Macklemore's remarks.
 
 ---
@@ -1855,7 +1855,7 @@ Transcript Snippet: Robert Craft kind of, you know, on a technicality got a case
 Anchored Artifacts: 
 Mentions: N-195
 Related Nodes: N-10878
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the Florida court record for the dismissed case.
 
 ---
@@ -2057,14 +2057,14 @@ Confidence: high
 
 ---
 
-**M-11** (meme) MSAD
+**M-11** (meme) Mossad
 
 ### Occurrence 1
 
 Video Timestamp: 00:14:50
 Speaker: N-3
-Quote: the MSAD's rag
-Context: Host calls the New York Post the MSAD's rag.
+Quote: the Mossad's rag
+Context: Host calls the New York Post the Mossad's rag.
 Tags: mossad
 Confidence: high
 

@@ -2248,9 +2248,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10870",
       "ref": "N-10870",
-      "name": "Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum",
+      "name": "Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum",
       "type": "investigation_target",
-      "description": "Prior topic on the Why Refi sponsorship and the July 25 addendum.",
+      "description": "Prior topic on the Yrefy sponsorship and the July 25 addendum.",
       "related_artifacts": [],
       "related_claims": [
         "C-6251"
@@ -2265,7 +2265,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10871",
       "ref": "N-10871",
-      "name": "Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Why Refi)",
+      "name": "Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)",
       "type": "investigation_target",
       "description": "Prior topic on the expanded concurrent timeline for 2025.",
       "related_artifacts": [],
@@ -2559,7 +2559,8 @@
       "mentions_person_refs": [
         "N-8",
         "N-267",
-        "N-271"
+        "N-271",
+        "N-10"
       ]
     },
     {
@@ -2604,7 +2605,8 @@
       "investigative_direction": "Publish/obtain the underlying email quoted in the review; interview or FOIA UVU event-services records for July 10–18 submission chain.",
       "mentions_person_refs": [
         "N-8",
-        "N-1"
+        "N-1",
+        "N-10"
       ]
     },
     {
@@ -2612,7 +2614,7 @@
       "@id": "C-3587",
       "ref": "C-3587",
       "label": "Crofts insisted on Fountain Courtyard at August 25 MEAC despite UVU concerns",
-      "claim": "Meeting participants told the review team that at the August 25 major-events meeting Maycee Crofts insisted on Fountain Courtyard because Charlie Kirk had previously spoken in that campus setting, even though UVU staff had raised outdoor-location concerns.",
+      "claim": "Meeting participants told the review team that at the August 25 major-events meeting Maycee Crofts insisted on Fountain Courtyard because Charlie Kirk had previously spoken on campus and TPUSA was familiar with that location, even though UVU staff had raised outdoor-location concerns.",
       "anchored_artifacts": [
         "A-2451.3"
       ],
@@ -2731,7 +2733,9 @@
       "claim_timestamp": "00:56:42",
       "investigative_direction": "Build a sourced chronology with primary citations for each July–August bullet; separate established facts from host inference.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-2",
+        "N-36"
       ]
     },
     {
@@ -2916,10 +2920,7 @@
       "tags": [],
       "claim_timestamp": "00:09:31",
       "investigative_direction": "Compare the page 10 executive summary wording with the Kirk-family statement blaming UVU security.",
-      "transcript_snippet": "It is the opinion of the project team based on our review of all available information that at no time during the events leading up to the assassination of Charlie Kirk",
-      "mentions_person_refs": [
-        "N-2"
-      ]
+      "transcript_snippet": "It is the opinion of the project team based on our review of all available information that at no time during the events leading up to the assassination of Charlie Kirk"
     },
     {
       "@type": "Claim",
@@ -3125,10 +3126,7 @@
       "tags": [],
       "claim_timestamp": "00:18:07",
       "investigative_direction": "Compare the 600-attendee figure and registration counts held by TPUSA National before the event.",
-      "transcript_snippet": "at that time in response to UVU's questionnaire, TPUSA told them it was going to be 600 attendees.",
-      "mentions_person_refs": [
-        "N-10"
-      ]
+      "transcript_snippet": "at that time in response to UVU's questionnaire, TPUSA told them it was going to be 600 attendees."
     },
     {
       "@type": "Claim",
@@ -3478,8 +3476,7 @@
       "investigative_direction": "Document Frantzve family patents, companies or filings concerning EMP technology.",
       "transcript_snippet": "whose family was super involved with EMPs? Lorie Frantzve EMPs.",
       "mentions_person_refs": [
-        "N-490",
-        "N-2"
+        "N-490"
       ]
     },
     {
@@ -4039,7 +4036,7 @@
       "@id": "C-6230",
       "ref": "C-6230",
       "label": "Host says Officer Bagley's body cam went off after losing battery and he testified he had none",
-      "claim": "The host says Officer Bagley's body camera footage went off because of a lost battery and that he testified he had no body cam, even though he was the one who suggested going up.",
+      "claim": "The host says Officer Bagley's body camera footage went off, saying he lost the battery or it just was not working ('I don't know'), and that, whatever he testified, he had no body cam, even though he was the one who suggested going up.",
       "anchored_artifacts": [
         "A-2802.12"
       ],
@@ -4476,8 +4473,8 @@
       "@type": "Claim",
       "@id": "C-6251",
       "ref": "C-6251",
-      "label": "Host says Why Rei re-upped as top sponsor on July 25 despite a contract through year end",
-      "claim": "The host says Why Rei came in as number one sponsor for a Charlie Kirk fall tour on July 25 even though it had already signed a contract in January covering events through the end of the year.",
+      "label": "Yrefy Re-Upped as Top Sponsor on July 25 Despite Contract Through Year End",
+      "claim": "The host says Yrefy came in as number one sponsor for a Charlie Kirk fall tour on July 25 even though it had already signed a contract in January covering events through the end of the year.",
       "anchored_artifacts": [
         "A-2456.1"
       ],
@@ -4594,7 +4591,7 @@
       "@id": "C-6256",
       "ref": "C-6256",
       "label": "Host says TPUSA privately told her Netanyahu's call followed up a May letter with no offer",
-      "claim": "The host says TPUSA has privately rebutted her, saying Netanyahu's call was just a follow-up to a letter Charlie had written in May, that there was no offer, and that Kolvet did not know why he said that.",
+      "claim": "The host says TPUSA has privately rebutted this to her, with Erika saying Netanyahu's call was just a follow-up to a letter Charlie had written in May, that there was no offer, and that she does not know why Kolvet said that.",
       "anchored_artifacts": [
         "A-2456.1"
       ],
@@ -4775,12 +4772,11 @@
         "N-10243"
       ],
       "tags": [],
-      "claim_timestamp": "01:08:14",
+      "claim_timestamp": "01:08:47",
       "investigative_direction": "Identify the review passage on indoor alternatives and whether UVU would have accommodated a late move.",
       "transcript_snippet": "They never communicated this to the police at UVU.",
       "mentions_person_refs": [
-        "N-267",
-        "N-7"
+        "N-267"
       ]
     },
     {
@@ -4959,7 +4955,7 @@
       "@id": "C-6274",
       "ref": "C-6274",
       "label": "Host says early rumblings held that money was missing from Turning Point Action",
-      "claim": "The host says there were early rumblings, which she heard from people at TPUSA and from a person outside TPUSA, that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls.",
+      "claim": "The host says there were early rumblings, which she heard from people at TPUSA, that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls.",
       "anchored_artifacts": [
         "A-2804.5"
       ],
@@ -5043,8 +5039,8 @@
       "@type": "Claim",
       "@id": "C-6278",
       "ref": "C-6278",
-      "label": "Host says Harpole's lawyer repeatedly approached her about an alibi before filing suit",
-      "claim": "The host says Brian Harpole's lawyer, who filed a lawsuit against her, came to her multiple times offering an alibi for a time period and said he had no horse in the race on whether Mitch Snow's account was credible.",
+      "label": "Host Says Harpole's Lawyer Repeatedly Asked About an Alibi",
+      "claim": "The host says Brian Harpole's lawyer, who filed a lawsuit against her, came multiple times asking 'you got like an alibi for this time,' saying he did not know if Mitch Snow's account seemed credible and had no horse in the race.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10373",
@@ -5065,7 +5061,7 @@
       "@id": "C-6279",
       "ref": "C-6279",
       "label": "Host says the earlier-week Fort Huachuca push was a preemptive strike before the review",
-      "claim": "The host, reading a viewer comment, says the team wondered earlier in the week about a random push regarding Fort Huachuca and now knows it was a preemptive strike ahead of the review.",
+      "claim": "The host says she and her team had wondered at the beginning of the week about a random push regarding Fort Huachuca when they were not discussing it, and that now they know it was a preemptive strike ahead of the Independent Review.",
       "anchored_artifacts": [
         "A-2458.1"
       ],
@@ -5074,7 +5070,7 @@
         "N-10859"
       ],
       "tags": [],
-      "claim_timestamp": "01:25:48",
+      "claim_timestamp": "01:25:33",
       "investigative_direction": "Timeline the Fort Huachuca coverage and statements that week against the review's release.",
       "transcript_snippet": "what was with this random push about Fort Huachuca when we weren't discussing Fort Huachuca and now we know.",
       "supports_claim_refs": [
@@ -5191,7 +5187,7 @@
       "@id": "C-6285",
       "ref": "C-6285",
       "label": "Host says Claire Ginan wrote her first Jezebel article on June 26 with no prior writing profile",
-      "claim": "The host says that on June 26 Claire Ginan wrote her first article for Jezebel, the witch's curse article, and had no writing profile before that.",
+      "claim": "The host says that on June 26 Claire Ginan wrote her first article for Jezebel, that she would be the one to write the witch's curse article, and that she had no writing profile before that.",
       "anchored_artifacts": [
         "A-2456.1"
       ],

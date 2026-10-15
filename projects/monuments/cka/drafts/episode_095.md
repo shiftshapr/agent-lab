@@ -518,7 +518,7 @@ Terryl's possession of the footage in Arizona.
 
 *Related: C-3836, C-3839*
 
-**N-10870** Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum
+**N-10870** Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum
 
 Transcript spelling "Wiyre Fy". The host ties the new back camera to the sponsorship deal.
 
@@ -534,7 +534,7 @@ Investigation target: a tip that in late fall 2016 Lori Frantzve and Larry Guint
 **N-10908** Back-Camera and Platform Setup Introduction (2025 Tour)
 
 Node Type: Topic
-Investigation target: when and why Turning Point USA began seating Charlie Kirk on a raised platform and placing a camera directly behind his head at tabling events. The host and Nicci say no such camera appears on the 2024 Brainwashed tour and that it arrived with the 2025 American Comeback Tour. The host says it coincided with the Why Refi sponsorship deal.
+Investigation target: when and why Turning Point USA began seating Charlie Kirk on a raised platform and placing a camera directly behind his head at tabling events. The host and Nicci say no such camera appears on the 2024 Brainwashed tour and that it arrived with the 2025 American Comeback Tour. The host says it coincided with the Yrefy sponsorship deal.
 
 *Related: C-3831, C-3843, C-3844, C-3845, C-3846, A-2537.1, A-2539.1, A-2539.2, N-1, N-565*
 
@@ -825,17 +825,17 @@ Investigative Direction: Verify the dates and locations of the photos against TP
 
 ---
 
-**C-3846** The new camera arrived with the Why Refi sponsorship deal
+**C-3846** The new camera arrived with the Yrefy sponsorship deal
 
 Claim Timestamp: 00:15:38
 
-Claim: The host says the rear camera angle seems to have arrived specifically with TPUSA's big sponsorship deal with "Wiyre Fy" (Why Refi).
+Claim: The host says the rear camera angle seems to have arrived specifically with TPUSA's big sponsorship deal with "Wiyre Fy" (Yrefy).
 
 Transcript Snippet: That's also seems to have arrived specifically with the big sponsorship deal with Wiyre Fy as well.
 
 Anchored Artifacts: 
 Related Nodes: N-10870, N-10908, N-10000
-Investigative Direction: Compare the Why Refi sponsorship contract dates and deliverables with the first appearance of the rear camera.
+Investigative Direction: Compare the Yrefy sponsorship contract dates and deliverables with the first appearance of the rear camera.
 
 ---
 
@@ -1520,7 +1520,7 @@ Confidence: medium
 - **Artifacts verbally referenced but not shown**: A-2540.1 (tip on the 2016 Scottsdale gun-patent dinner) and A-2543.1 (cremation tip request). The Aspen audio or video, Erika Kirk's Fox News burial answer, the MSN article, Trump's "mentally ill" post and the Robinson affidavits are referenced but not shown and have no artifact.
 - **DIA scan**: real hits at 00:49:03 and 00:49:43 are inscribed (C-3879, C-3880, A-2543.1, A-2543.2, M-12). Not DIA beats: "candaceowens. com" at 00:43:49 is a merch and subscription plug. "Our tips box" at 01:22 and "a stunning tip" at 00:01 and 15:52 describe tips already received rather than a solicitation; they are noted here but not inscribed as separate DIA beats.
 - **Name matching**: "Nicci"/"Niecy" are mapped to N-565 Nicey (YouTuber). "Terryl" and "Tarrio" (49:43; also "Tarrio Robinson" at 51:43–52:39, evidently Tyler Robinson) are mapped to N-262 Terryl Farnsworth only where the camera operator is meant. "Blake enough" (00:01) is read as Blake Neff (N-160). "Blake" among those who did not call 911 is assumed to be Blake Neff, which is uncertain. "Lori Frantzbe" and "Larry Guinta" are mapped to N-490 and N-388. "Xavier Boussard" is mapped to N-284 Xavier Poussard. "Ashley" (09:05, a producer) is unidentified and not mapped to the existing Ashley Rindsberg node. "Jillian" (01:22), the then 15-year-old in Nicci's earlier text-message investigation, is likely the existing Jillian Falcon node but is not cited in a claim. Paula White Cain, Hillary Clinton, Ben Shapiro, Judge Judy and Jimmy Barbecue (Jimmy Cherizier) are named only in passing or in jokes and are not cited.
-- **Transcription ambiguities**: "Wiyre Fy" is read as the Why Refi sponsor (N-10870). "send him some kid" is "kit". "maca hats" is "MACA hats" (Make America Christian Again). "Shayna FK" (44:48) is unclear. "that meaning" (20:24) is likely "that meeting". "I'm looking at you, Larry" (50:27, viewer comment) apparently refers to Laura Loomer. The viewer comment at 54:08 says "Blake Masters" where Blake Neff is meant.
+- **Transcription ambiguities**: "Wiyre Fy" is read as the Yrefy sponsor (N-10870). "send him some kid" is "kit". "maca hats" is "MACA hats" (Make America Christian Again). "Shayna FK" (44:48) is unclear. "that meaning" (20:24) is likely "that meeting". "I'm looking at you, Larry" (50:27, viewer comment) apparently refers to Laura Loomer. The viewer comment at 54:08 says "Blake Masters" where Blake Neff is meant.
 - **Tip reliability**: the 2016 dinner account (C-3847–C-3854) is a single unnamed tipster's account relayed with "allegedly"; neither the gun, the patent holders nor the restaurant is named.
 - **Cross-episode links left out**: C-3872 may restate C-2774 (ep 94, Trump post mentioning "mentally ill") or C-2669 (ep 89). C-3848 may restate C-2707 or C-2752 (ep 91/93, Marx's Fold AR and Israeli Defense Group). C-3837 relates to C-1940 (ep 47, TPUSA defended the camera removal). C-3875 relates to C-2789 (ep 94, Erika's speedy-trial motion). The propositions differ or the match is uncertain, so these links are omitted.
 - **Not inscribed as claims (admission test)**:

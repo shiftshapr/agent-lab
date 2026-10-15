@@ -1716,9 +1716,9 @@ Investigative Direction: Compare the prosecution's exhibits placing Robinson on 
 
 Claim Timestamp: 00:40:33
 
-Claim: The host asserts that Israel's agency (spelled 'MSAD') finances campaigns for people to run over borders into territories Israel is bombing, to eradicate Europeans through deception while blaming Arabs.
+Claim: The host asserts that Israel's agency (spelled 'Mossad') finances campaigns for people to run over borders into territories Israel is bombing, to eradicate Europeans through deception while blaming Arabs.
 
-Transcript Snippet: as is the MSAD motto, blaming the Arabs as they finance campaigns for them to run over borders in territories that Israel is bombing for Israel's expansion.
+Transcript Snippet: as is the Mossad motto, blaming the Arabs as they finance campaigns for them to run over borders in territories that Israel is bombing for Israel's expansion.
 
 Anchored Artifacts: 
 Mentions: N-3
@@ -1982,13 +1982,13 @@ Confidence: high
 
 ---
 
-**M-11** (meme) MSAD
+**M-11** (meme) Mossad
 
 ### Occurrence 1
 
 Video Timestamp: 00:40:33
 Speaker: N-3
-Quote: as is the MSAD motto
+Quote: as is the Mossad motto
 Context: Host's spelling of Mossad in the migration claim.
 Tags: msad, mossad
 Confidence: high

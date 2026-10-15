@@ -183,7 +183,7 @@
           "@type": "Artifact",
           "@id": "A-2421.2",
           "ref": "A-2421.2",
-          "description": "Continuation of read-aloud warrant excerpt stating Agent Drainy (Utah State Bureau of Investigations) obtained records and video footage of Tyler Robinson's 2013 Dodge Challenger arriving at the Quick Quack Car Wash at approximately 12:57 PM.",
+          "description": "Continuation of read-aloud warrant excerpt stating Agent Draney (Utah State Bureau of Investigations) obtained records and video footage of Tyler Robinson's 2013 Dodge Challenger arriving at the Quick Quack Car Wash at approximately 12:57 PM.",
           "related_claims": [
             "C-3534",
             "C-3535"
@@ -1250,7 +1250,7 @@
       "@id": "C-3531",
       "ref": "C-3531",
       "label": "Host Says Person by Van in Tent Footage Is Not UVU Club President Caleb Chilcutt",
-      "claim": "The host says the wider-format tent footage shows that the person she previously identified as UVU club president Caleb Chilcutt standing near the van by Angel Castro is in fact a different individual.",
+      "claim": "The host says that, after someone told her otherwise, the person she previously identified as UVU club president Caleb Chilcutt standing near the van by Angel Castro was not him.",
       "anchored_artifacts": [
         "A-2416.1"
       ],
@@ -1259,7 +1259,8 @@
       "claim_timestamp": "00:01:40",
       "investigative_direction": "Cross-reference other footage and photographs to identify the actual individual and confirm the correction.",
       "mentions_person_refs": [
-        "N-10"
+        "N-10",
+        "N-793"
       ]
     },
     {
@@ -1304,7 +1305,7 @@
       "@id": "C-3534",
       "ref": "C-3534",
       "label": "Quick Quack Car Wash surveillance footage was seized by law enforcement and never publicly released",
-      "claim": "Per the search warrant as read, Agent Drainy (USBI) obtained records and video footage from the Quick Quack Car Wash showing Tyler Robinson's vehicle arriving at approximately 12:57 PM; the footage has not been released to the public.",
+      "claim": "Per the search warrant as read, Agent Draney (USBI) obtained records and video footage from the Quick Quack Car Wash showing Tyler Robinson's vehicle arriving at approximately 12:57 PM; the footage has not been released to the public.",
       "anchored_artifacts": [
         "A-2421.2"
       ],
@@ -1342,7 +1343,7 @@
       "@id": "C-3536",
       "ref": "C-3536",
       "label": "Officer Go Forth's testimony referenced a partial license-plate match process",
-      "claim": "According to a viewer comment summarizing testimony, Officer Go Forth's testimony used partial-plate matches rather than full-plate matches when identifying vehicles.",
+      "claim": "The host says, replying to a viewer comment about license plates, that in Officer Goforth's testimony they kept saying a partial plate was run and matched, which she finds unusual.",
       "anchored_artifacts": [
         "A-2424.1"
       ],
@@ -1350,8 +1351,11 @@
         "N-10854"
       ],
       "tags": [],
-      "claim_timestamp": "00:52:24",
-      "investigative_direction": "Pull the actual preliminary-hearing / probable-cause transcript and verify whether the testimony relied on partial-plate matching."
+      "claim_timestamp": "00:53:00",
+      "investigative_direction": "Pull the actual preliminary-hearing / probable-cause transcript and verify whether the testimony relied on partial-plate matching.",
+      "mentions_person_refs": [
+        "N-865"
+      ]
     },
     {
       "@type": "Claim",
@@ -1366,10 +1370,10 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:33:24",
+      "claim_timestamp": "00:32:40",
       "investigative_direction": "Cross-reference UN press records, AP/Reuters coverage, and UN delegate attendance logs.",
       "mentions_person_refs": [
-        "N-1"
+        "N-36"
       ]
     },
     {
@@ -1467,7 +1471,7 @@
       "@id": "C-3677",
       "ref": "C-3677",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
-      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "claim": "The host says viewers can buy merch such as a hat, t-shirt or sweatshirt to join the decentralized intelligence agency, which she calls her favorite.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -1526,7 +1530,7 @@
       "@id": "C-7778",
       "ref": "C-7778",
       "label": "Host Says Person by the Van Was Wearing Red",
-      "claim": "The host says the person standing by the van near Angel Castro was wearing red that day, was just standing, and was not UVU club president Caleb Chilcutt, after a viewer corrected her.",
+      "claim": "The host says someone told her the person standing by the van near Angel Castro was not UVU club president Caleb Chilcutt, who she says was wearing red that day; the person by the van was just standing.",
       "anchored_artifacts": [
         "A-2416.1"
       ],
@@ -2387,7 +2391,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:35:38",
       "investigative_direction": "Verify against the UN transcript of the September 2025 Netanyahu address.",
@@ -2428,7 +2432,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:36:38",
       "investigative_direction": "Verify against the UN transcript.",
@@ -2448,7 +2452,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:37:38",
       "investigative_direction": "Verify against the UN transcript and independent damage assessments.",
@@ -2470,7 +2474,7 @@
         "N-10977"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:37:50",
       "investigative_direction": "Verify against the UN video and transcript.",
@@ -2492,7 +2496,7 @@
         "N-10980"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:38:44",
       "investigative_direction": "Pull the Reuters article and confirm the headline and date.",
@@ -2510,7 +2514,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:38:44",
       "investigative_direction": "The host offers no evidence on air; ask her for the basis of the blackmail allegation.",
@@ -2611,7 +2615,7 @@
       "@type": "Claim",
       "@id": "C-7827",
       "ref": "C-7827",
-      "label": "Host Says the Video Release Was Meant to Show Erika Was Not at Fort Huachuca",
+      "label": "Host Says Erika Should Have Shown the Footage in a Sit-Down If She Needed to Prove Fort Huachuca",
       "claim": "The host says that, if Erika Kirk felt she had to show the footage to prove she was not at Fort Huachuca, she should have done so in a sit-down with figures such as Megyn Kelly or Tucker Carlson.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2676,7 +2680,7 @@
       "@id": "C-7830",
       "ref": "C-7830",
       "label": "Host Says Charlie's Favorite Proverb Was Iron Sharpens Iron and He Texted It",
-      "claim": "The host says Charlie Kirk's favorite biblical proverb was iron sharpens iron and that he texted her about it all the time.",
+      "claim": "The host says she thinks Charlie Kirk's favorite biblical proverb was iron sharpens iron and that he texted her about it all the time.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2730,7 +2734,7 @@
         "N-10541"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:52:06",
       "investigative_direction": "Pull the NPR interview and confirm the wording.",
@@ -2746,7 +2750,7 @@
       "@id": "C-7833",
       "ref": "C-7833",
       "label": "Host Says Officials Keep Describing Confirming Only the First Part of the Plate",
-      "claim": "The host says her team has noticed that officials repeatedly say they confirmed the first part of the plate, got a partial plate and ran it, including in Officer Go Forth's testimony.",
+      "claim": "The host says, answering a viewer comment about license plates, that her team has noticed officials repeatedly say they confirmed the first part of the plate, got a partial plate and ran it, including in Officer Goforth's testimony.",
       "anchored_artifacts": [
         "A-2424.1"
       ],
@@ -2756,7 +2760,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:52:24",
+      "claim_timestamp": "00:53:00",
       "investigative_direction": "Review the hearing testimony for each reference to partial plates.",
       "transcript_snippet": "every time they talk about the plates, they effectively say that they were able to confirm the first part of the plate.",
       "supports_claim_refs": [
@@ -2764,7 +2768,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-40"
+        "N-865"
       ]
     },
     {

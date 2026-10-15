@@ -1160,7 +1160,9 @@
       "\\bGo forth\\b",
       "Goforth",
       [
-        149
+        149,
+        155,
+        156
       ]
     ],
     [
@@ -2147,6 +2149,75 @@
       [
         143
       ]
+    ],
+    [
+      "\\bRichard Novac\\b",
+      "Richard Novak"
+    ],
+    [
+      "\\bNovac\\b",
+      "Novak",
+      [
+        147
+      ]
+    ],
+    [
+      "\\bDiligent Denisen\\b",
+      "Diligent Denizen"
+    ],
+    [
+      "\\bAndrew Pascado\\b",
+      "Andrew Piskadlo"
+    ],
+    [
+      "\\bSofur Global\\b",
+      "Soter Global"
+    ],
+    [
+      "\\bAgent Drainy\\b",
+      "Agent Draney"
+    ],
+    [
+      "\\bWhy Rei\\b",
+      "Yrefy"
+    ],
+    [
+      "\\bwhere forbidden\\b",
+      "Wear Forbidden",
+      [
+        143,
+        156
+      ]
+    ],
+    [
+      "\\bArena\\b",
+      "Irina",
+      [
+        16,
+        145,
+        150,
+        153
+      ]
+    ],
+    [
+      "\\bLori Jenha\\b",
+      "Lori Jane Gliha"
+    ],
+    [
+      "\\bLane Shamberger\\b",
+      "Laine Schoneberger"
+    ],
+    [
+      "\\bWhy Refi\\b",
+      "Yrefy"
+    ],
+    [
+      "\\bChyros\\b",
+      "Kairos"
+    ],
+    [
+      "\\bMSAD\\b",
+      "Mossad"
     ]
   ]
 }

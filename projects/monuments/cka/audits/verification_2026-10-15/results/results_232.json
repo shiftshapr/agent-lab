@@ -1,0 +1,702 @@
+[
+ {
+  "claim": "C-3699",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim adds \"yesterday's Lisa Nose / illegal-nanny package\"; transcript only says commenters \"yesterday suddenly applying to nanny\". Unresolved name: Lisa Nose (not in transcript).",
+  "fix": {
+   "claim": "Opening the show, the host reads commenters volunteering as mansion nannies and satirically answers that applicants must be illegal (\"We only hoard illegals\"), must come through an elite Jewish agency, and that she cannot underpay and abuse an American citizen the way she needs to."
+  }
+ },
+ {
+  "claim": "C-3700",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10590",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10591",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10592",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10593",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "Host: \"I thought, Surely Turning Point USA is not using Discord...\" then says officially they deny it but someone does it on their behalf. Claim states a standing doubt.",
+  "fix": {
+   "claim": "The host says that, as far as she knows, Discord is the place where Tyler Robinson published his alleged confession, and that she initially thought TPUSA surely would not use it against its enemies."
+  }
+ },
+ {
+  "claim": "C-10594",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10595",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10596",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10597",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Discord message about clipping a Wilson debate; background to funding of the campaign, not the assassination itself.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-10598",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10599",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10600",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10601",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10602",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "Article: campaign \"pays huge sums of money to people... to push video clips from accounts that are designed to look like\" ordinary Americans. Claim says the pay goes to the accounts.",
+  "fix": {
+   "claim": "The host reads that the Atlantic reporter accessed the Elephant Clipping Discord and related political clipping chats simply by clicking join and answering questions, and that the campaign pays people, many outside the US, to push clips from accounts designed to look like those of ordinary Americans."
+  }
+ },
+ {
+  "claim": "C-10603",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10604",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10605",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": true,
+  "note": "Mikey McCoy (N-191) is not named or referred to in the claim; he appears only in the surrounding transcript.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-10606",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10607",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10608",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10609",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10610",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10611",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10612",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10613",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": true,
+  "note": "Claim names Erika Kirk (\"Erika Kirk antagonist\") but Mentions omits N-2. Banned-subjects list is background rather than core.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2"
+   ],
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-10614",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": true,
+  "note": "Claim says \"Servius manages\" the Shapiro and Crowder campaigns; Matt Servius (N-352) missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-352",
+    "N-97",
+    "N-260"
+   ]
+  }
+ },
+ {
+  "claim": "C-10615",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10616",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": true,
+  "note": "Host says only Enclave and Key has \"a footprint\" in Romania; Blake Wynn (N-353) is not named or referred to in the claim. \"Corporate\" is added.",
+  "fix": {
+   "mentions": [],
+   "claim": "The host says Enclave and Key has a footprint in Romania."
+  }
+ },
+ {
+  "claim": "C-10617",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10618",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10619",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10620",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10621",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10622",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10623",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10624",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "Host: \"Adelson got a piece... the Wind family took over the actual hotel if I remember correctly.\" Claim has garbled parenthetical and drops the hedge.",
+  "fix": {
+   "claim": "The host says that after Howard Hughes' company was chopped up, Adelson got a piece and the Wynn family got a piece, and that, if she remembers correctly, the Wynn family took over the hotel he lived in."
+  }
+ },
+ {
+  "claim": "C-10625",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "Host: \"I guess that's why they can't clip RFK because big pharma is a big piece of that wealth... crosscontamination between big pharma, the Adelsons, methadone\". Not \"Las Vegas interests\".",
+  "fix": {
+   "claim": "The host speculates (\"I guess\") that RFK Jr. cannot be clipped because big pharma is a big piece of that wealth, citing cross-contamination between big pharma, the Adelsons and methadone, with all roads running into a Las Vegas syndicate."
+  }
+ },
+ {
+  "claim": "C-10626",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10627",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10628",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10629",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10630",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10631",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10632",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10633",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10634",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10635",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10636",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": true,
+  "note": "Claim names Charlie (\"madly in love with Charlie\") and her husband (\"Her husband's gay\"); Mentions omits N-1 and George (N-30).",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-30"
+   ]
+  }
+ },
+ {
+  "claim": "C-10637",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "Host hedges: \"I think it I saw that it passed a million views\". Claim states it flatly.",
+  "fix": {
+   "claim": "The host says her episode with Theo Von was released the previous day on his channel and that she saw it had passed a million views."
+  }
+ },
+ {
+  "claim": "C-10638",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10639",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10640",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10641",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10642",
+  "episode": 161,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

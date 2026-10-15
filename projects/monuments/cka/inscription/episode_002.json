@@ -17,7 +17,7 @@
     "candace_ep_number": 235,
     "kind": "numbered_show"
   },
-  "executive_summary": "CKA seq 2 presents host commentary on the Charlie Kirk assassination investigation and surrounding narratives. Primary artifacts include clips of Erika Kirk's widow remarks, Benjamin Netanyahu's Fox News interview, Charlie Kirk's Megyn Kelly interview, Greta Van Susteren's interview with Netanyahu, Michael Savage commentary, and surveillance/press materials from TMZ, Governor Cox, and Discord. Claims focus on alleged misrepresentations of a May 2 letter, a Hamptons intervention by Bill Ackman, a Netanyahu phone invitation, and investigative timeline inconsistencies (outfit changes, weapon handling, confession timing). Epistemic flags raised: transcript names 'Aman' likely Bill Ackman, 'Galain' likely Ghislaine Maxwell, 'MSAD' likely Mossad.",
+  "executive_summary": "CKA seq 2 presents host commentary on the Charlie Kirk assassination investigation and surrounding narratives. Primary artifacts include clips of Erika Kirk's widow remarks, Benjamin Netanyahu's Fox News interview, Charlie Kirk's Megyn Kelly interview, Greta Van Susteren's interview with Netanyahu, Michael Savage commentary, and surveillance/press materials from TMZ, Governor Cox, and Discord. Claims focus on alleged misrepresentations of a May 2 letter, a Hamptons intervention by Bill Ackman, a Netanyahu phone invitation, and investigative timeline inconsistencies (outfit changes, weapon handling, confession timing). Epistemic flags raised: transcript names 'Aman' likely Bill Ackman, 'Galain' likely Ghislaine Maxwell, 'Mossad' likely Mossad.",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -1375,7 +1375,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "organization_kind": "government_agency",
-      "uncertainty_note": "Transcript spells 'MSAD'; canonical Mossad."
+      "uncertainty_note": "Transcript spells 'Mossad'; canonical Mossad."
     },
     {
       "@type": "Topic",
@@ -2146,7 +2146,7 @@
       "investigative_direction": "Identify original source clip and verify exact wording of Kirk's commentary.",
       "transcript_snippet": "Epstein with his little friend Galain and Galain's father, Robert Maxwell, who is obviously a spy of the Israeli intelligence agencies.",
       "confidence": "high",
-      "uncertainty_note": "'Galain' transcript variant for Ghislaine; 'MSAD' transcript variant for Mossad.",
+      "uncertainty_note": "'Galain' transcript variant for Ghislaine; 'Mossad' transcript variant for Mossad.",
       "mentions_person_refs": [
         "N-1",
         "N-9",
@@ -4255,14 +4255,14 @@
       "@type": "MemeAnalysis",
       "@id": "M-11",
       "ref": "M-11",
-      "canonical_term": "MSAD",
+      "canonical_term": "Mossad",
       "type": "meme",
       "occurrences": [
         {
           "episode": 2,
           "video_timestamp": "00:30:07",
           "speaker_node_ref": "N-3",
-          "quote": "Epstein was a creation of either MSAD, Israeli intelligence, American intelligence, Saudi intelligence, or maybe he was just a hired gun.",
+          "quote": "Epstein was a creation of either Mossad, Israeli intelligence, American intelligence, Saudi intelligence, or maybe he was just a hired gun.",
           "context": "Host comic spelling of Mossad while listing intel-agency theories about Epstein.",
           "confidence": "high",
           "tags": [

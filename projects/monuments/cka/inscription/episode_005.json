@@ -3937,7 +3937,7 @@
       "@id": "C-11983",
       "ref": "C-11983",
       "label": "Host Says They Wanted to Take Over Turning Point and Turn It Into Another Outfit",
-      "claim": "The host says it was almost like they wanted to take over the company Kirk built and turn it into just another outfit of the Mossad (transcribed MSAD), and that they were \"spiking the ball\" where they were spending the money.",
+      "claim": "The host says it was almost like they wanted to take over the company Kirk built and turn it into just another outfit of the Mossad (transcribed Mossad), and that they were \"spiking the ball\" where they were spending the money.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -3948,7 +3948,7 @@
       ],
       "claim_timestamp": "00:43:00",
       "investigative_direction": "Review TPUSA's financial filings and donor communications for spending and control changes after the assassination.",
-      "transcript_snippet": "It was almost like they just wanted to take over the company that he had built and turn it into just another outfit of the MSAD.",
+      "transcript_snippet": "It was almost like they just wanted to take over the company that he had built and turn it into just another outfit of the Mossad.",
       "mentions_person_refs": [
         "N-1"
       ]
@@ -4530,7 +4530,7 @@
           "episode": 5,
           "video_timestamp": "00:38:47",
           "speaker_node_ref": "N-3",
-          "quote": "Outfit of the MSAD uh outfit of the deep deep state ran with it.",
+          "quote": "Outfit of the Mossad uh outfit of the deep deep state ran with it.",
           "context": "Host ties New York Post framing to deep-state / intel outfits.",
           "confidence": "high",
           "tags": [
@@ -4621,15 +4621,15 @@
       "@type": "MemeAnalysis",
       "@id": "M-11",
       "ref": "M-11",
-      "canonical_term": "MSAD",
+      "canonical_term": "Mossad",
       "type": "meme",
       "occurrences": [
         {
           "episode": 5,
           "video_timestamp": "00:38:47",
           "speaker_node_ref": "N-3",
-          "quote": "Outfit of the MSAD uh outfit of the deep deep state ran with it.",
-          "context": "Host calls the New York Post an outfit of the MSAD while criticizing its coverage of the Bolling claim.",
+          "quote": "Outfit of the Mossad uh outfit of the deep deep state ran with it.",
+          "context": "Host calls the New York Post an outfit of the Mossad while criticizing its coverage of the Bolling claim.",
           "confidence": "high",
           "tags": [
             "intel",
@@ -4640,8 +4640,8 @@
           "episode": 5,
           "video_timestamp": "00:43:00",
           "speaker_node_ref": "N-3",
-          "quote": "It was almost like they just wanted to take over the company that he had built and turn it into just another outfit of the MSAD.",
-          "context": "Host says Turning Point's takeover would make it just another MSAD outfit.",
+          "quote": "It was almost like they just wanted to take over the company that he had built and turn it into just another outfit of the Mossad.",
+          "context": "Host says Turning Point's takeover would make it just another Mossad outfit.",
           "confidence": "high",
           "tags": [
             "intel",

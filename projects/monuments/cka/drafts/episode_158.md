@@ -24,7 +24,7 @@
 
 ## 2. Executive Summary
 
-This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions–contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kolvet not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroote), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Why Refi / contract material for the next show.
+This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions–contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kolvet not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroote), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Yrefy / contract material for the next show.
 
 ---
 
@@ -753,10 +753,10 @@ Account whose parody video of a smear strategy meeting the host plays at the end
 
 Claim Timestamp: 00:01:33
 
-Claim: Host asserts Clara Molot’s Vanity Fair profile–enabled by months of TPUSA/Erika access including family–reads as a frustrated reporter’s portrait of an obvious grift, while TPUSA refused Lake Force review cooperation.
+Claim: Host asserts Clara Molot's Vanity Fair profile–enabled by months of TPUSA/Erika access including family–reads as a frustrated reporter's portrait of an obvious grift, while TPUSA refused Lake Forest Group review cooperation.
 
 Anchored Artifacts: A-2459.1, A-2459.2
-Mentions: N-13, N-160, N-2
+Mentions: N-13, N-2
 
 Related Nodes: N-10859, N-10864
 
@@ -768,7 +768,7 @@ Investigative Direction: Archive the full Vanity Fair piece; list access dates; 
 
 Claim Timestamp: 00:06:51
 
-Claim: Per the profile as read, Erika described decisions via a heaven/reunion heuristic and seemed uneasy articulating political views; writer later states she deflected political conversation in a way that felt disingenuous or incoherent.
+Claim: Per the profile as read, Erika described decisions via a heaven/reunion heuristic and seemed uneasy articulating political views; the host says this is what made the reporter know she was dealing with a fraud.
 
 Anchored Artifacts: A-2459.1
 Mentions: N-2
@@ -811,12 +811,12 @@ Investigative Direction: Preserve profile text; archive Elizabeth McCoy thread; 
 
 **C-3600** “Only thing that fit” glitter-suit explanation conflicts with other public outfits
 
-Claim Timestamp: 00:20:37
+Claim Timestamp: 00:22:20
 
 Claim: Host disputes Erika’s profile claim that the Amfest Alice + Olivia sparkly suit was the only thing that fit, citing a string of other televised/public outfits across Sept–Dec 2025.
 
 Anchored Artifacts: A-2461.1
-Mentions: N-2, N-279
+Mentions: N-2
 
 Related Nodes: N-10864
 
@@ -1010,7 +1010,7 @@ Investigative Direction: Check the published profile for the meeting date and th
 
 Claim Timestamp: 00:12:14
 
-Claim: The host reads the profile as quoting Erika that she knows she does not make sense to most people, is built different, and that this world will not break her.
+Claim: The host reads the profile as saying Erika knows she does not make sense to most people, and quotes Erika as saying she is built different and that this world will not break her.
 
 Transcript Snippet: I do not know how to explain it other than this world will not break me.
 
@@ -1230,7 +1230,7 @@ Claim: The host reads the profile as saying Tucker Carlson says he loves Candace
 Transcript Snippet: Carlson says he loves Candace and calls her a very humane and decent person, a position that he says has upset some people at Turning Point.
 
 Anchored Artifacts: A-2463.1
-Mentions: N-22, N-3, N-14
+Mentions: N-22, N-3
 Related Nodes: N-10864
 Supports: C-3602
 Investigative Direction: Confirm Carlson's quote with the writer or the published text.
@@ -1759,7 +1759,7 @@ Investigative Direction: Identify the retweeted account and read its thread.
 
 Claim Timestamp: 00:50:25
 
-Claim: The host says Tucker Carlson thinks Bill Ackman's money is very mysterious and has told her he is not that intelligent or impressive.
+Claim: The host says Tucker Carlson thinks Bill Ackman's money is very mysterious and says Carlson considers Ackman not that intelligent or impressive and has met him.
 
 Transcript Snippet: He thinks your money is very mysterious.
 
@@ -1803,7 +1803,7 @@ Investigative Direction: Await the next episode and check whether the contracts 
 
 Claim Timestamp: 00:59:45
 
-Claim: The host says her source says Erika is in DC now and that when Erika is in DC the Department of War attacks on the host start doubling.
+Claim: The host says, citing a source, that Erika is in DC right now, or at least was yesterday or the day before, and that it seems that when Erika is in DC the Department of War attacks on the host start doubling.
 
 Transcript Snippet: when she's in DC, the uh, Department of War attacks against me start doubling.
 
@@ -1909,7 +1909,7 @@ Investigative Direction: Identify the Wear Forbidden account, the video's date a
 
 Claim Timestamp: 01:06:38
 
-Claim: The host says that the person, apparently the smear's author, is an old school figure affiliated with Andrew Wilson; the transcript here is garbled.
+Claim: The host says, apparently and with "who knows", that this is a person like an old school "graer" (garbled in the transcript) affiliated with Andrew Wilson.
 
 Transcript Snippet: Apparently, this is the person is like an old school graer Andrew Wilson affiliated person.
 
