@@ -425,9 +425,9 @@ Missing Text Message Timestamps; reused for the PDF text messages the defense sa
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
-Terrell Farnsworth (transcribed Tarro); AV contractor who removed the SD card and later showed the host the back footage.
+Terryl Farnsworth (transcribed Tarro); AV contractor who removed the SD card and later showed the host the back footage.
 
 *Related: C-10300, C-10301, C-10302, C-10303, C-10304, C-10305, C-10306, C-10307, C-10308, C-10309*
 
@@ -505,9 +505,9 @@ Justin Streiff Post-Assassination Phone Call; reused for the host's account of h
 
 ---
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
-Terrell Farnsworth Camera Removal Justification; reused for his and Kolvet's explanations.
+Terryl Farnsworth Camera Removal Justification; reused for his and Kolvet's explanations.
 
 *Related: C-10302, C-10304*
 
@@ -585,9 +585,9 @@ Utah Valley Hospital File Anomaly; reused for the hospital routing question.
 
 ---
 
-**N-10797** Terrell Farnsworth Google-Hack Contradiction
+**N-10797** Terryl Farnsworth Google-Hack Contradiction
 
-Terrell Farnsworth Google-Hack Contradiction; reused for his excuses for not sending the footage.
+Terryl Farnsworth Google-Hack Contradiction; reused for his excuses for not sending the footage.
 
 *Related: C-10307*
 

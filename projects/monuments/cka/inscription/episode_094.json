@@ -2244,7 +2244,7 @@
       "@id": "C-2766",
       "ref": "C-2766",
       "label": "Tyler Robinson's Grandfather Disputes .30-06 Wound Pattern",
-      "claim": "In a clip the host plays, Tyler Robinson's grandfather says that a .30-06 round would not have produced the wound damage publicly described in the case; the host agrees.",
+      "claim": "The host says that, in a clip she plays, Tyler Robinson's grandfather says that is not what a .30-06 would do, and the host agrees, saying the wound did not cause any significant damage.",
       "anchored_artifacts": [
         "A-1993.1"
       ],
@@ -2283,7 +2283,7 @@
       "@id": "C-2768",
       "ref": "C-2768",
       "label": "DNA Reports from September 2025 Cited but Not Produced to Defense",
-      "claim": "Novak states the defense has DNA reports from September 2025 that Mr. Gray relied upon, but those reports have not been produced.",
+      "claim": "In a clip the host plays, Novak says the evidence should have been produced up to 6 months ago because the defense has DNA reports from September 2025 that Mr. Gray relied upon.",
       "anchored_artifacts": [
         "A-1994.1"
       ],
@@ -2293,7 +2293,9 @@
       "tags": [],
       "claim_timestamp": "00:11:37",
       "investigative_direction": "Request the September 2025 DNA reports via public records or docket inspection.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-426"
+      ]
     },
     {
       "@type": "Claim",
@@ -2311,6 +2313,7 @@
       "claim_timestamp": "00:12:20",
       "investigative_direction": "Verify chain of custody and forensic examination status of Tyler Robinson's phone.",
       "mentions_person_refs": [
+        "N-830",
         "N-40"
       ]
     },
@@ -2329,7 +2332,9 @@
       "tags": [],
       "claim_timestamp": "00:15:13",
       "investigative_direction": "Confirm physical location of the firearm and whether defense examination has occurred as of case docket.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-830"
+      ]
     },
     {
       "@type": "Claim",
@@ -2346,7 +2351,9 @@
       "tags": [],
       "claim_timestamp": "00:15:13",
       "investigative_direction": "Determine jurisdictional basis for federal custody of evidence in a state case; check transfer records.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-830"
+      ]
     },
     {
       "@type": "Claim",
@@ -2370,7 +2377,7 @@
       "@id": "C-2773",
       "ref": "C-2773",
       "label": "Trump Truth Social Post: \"Dying Fast\"",
-      "claim": "Donald Trump posted on Truth Social stating that Candace Owens, Megyn Kelly, and Tucker Carlson are \"dying fast\" and \"fake MAGA.\"",
+      "claim": "Per a Truth Social post under Donald Trump's name that the host reads, he hears Candace Owens, Megyn Kelly, and Tucker Carlson are \"dying fast\" and \"were fake MAGA\"; the host says she does not think Trump writes these posts.",
       "anchored_artifacts": [
         "A-1995.1"
       ],
@@ -2390,7 +2397,7 @@
       "@id": "C-2774",
       "ref": "C-2774",
       "label": "Trump Follow-up Post Mentions \"Mentally Ill\"",
-      "claim": "A follow-up Trump Truth Social post refers to Candace Owens as mentally ill (per host's read-aloud summary).",
+      "claim": "The host says a follow-up Trump Truth Social post, she thinks, called her mentally ill.",
       "anchored_artifacts": [
         "A-1995.2"
       ],
@@ -2399,7 +2406,8 @@
       "claim_timestamp": "00:36:29",
       "investigative_direction": "Locate and verify the exact second post on Truth Social.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-5"
       ]
     },
     {
@@ -2483,7 +2491,7 @@
       "@id": "C-2779",
       "ref": "C-2779",
       "label": "Alan Jacoby Publicly Accused Laura Loomer of Groping",
-      "claim": "Alan Jacoby publicly alleged Laura Loomer groped him at Bedminster while watching a golf tournament with President Trump.",
+      "claim": "Alan Jacoby publicly alleged in a tweet the host reads that he and Laura Loomer spent the day with President Trump at Bedminster watching the golf tournament, and that she groped him in the parking lot.",
       "anchored_artifacts": [
         "A-1998.1"
       ],
@@ -2495,7 +2503,8 @@
       "investigative_direction": "Verify Jacoby's tweet directly; check for any legal filings or counter-statements.",
       "mentions_person_refs": [
         "N-60",
-        "N-427"
+        "N-427",
+        "N-5"
       ]
     },
     {
@@ -2530,7 +2539,7 @@
         "N-10628"
       ],
       "tags": [],
-      "claim_timestamp": "00:40:54",
+      "claim_timestamp": "00:40:15",
       "investigative_direction": "Locate original Yiannopoulos publication; assess sourcing for clinical claims.",
       "mentions_person_refs": [
         "N-221",
@@ -2594,7 +2603,8 @@
       "investigative_direction": "Verify tweet and any linked court filings; check Davidson County court records.",
       "mentions_person_refs": [
         "N-3",
-        "N-60"
+        "N-60",
+        "N-30"
       ]
     },
     {
@@ -2612,14 +2622,16 @@
       "tags": [],
       "claim_timestamp": "00:49:11",
       "investigative_direction": "Pull the underlying court filing in Davidson County, Tennessee.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-30"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-2786",
       "ref": "C-2786",
       "label": "Laura Loomer Captured on Video Making Sexually Suggestive Comments",
-      "claim": "A video clip shows Laura Loomer making physically suggestive comments and conduct toward a young man who appears uncomfortable.",
+      "claim": "In a clip the host plays, Laura Loomer makes sexually suggestive comments to a young man whom the host describes as clearly uncomfortable.",
       "anchored_artifacts": [
         "A-2004.1"
       ],
@@ -2691,7 +2703,7 @@
       "@id": "C-13346",
       "ref": "C-13346",
       "label": "Host Says Trump Tweeted About Her From Air Force One After the Show Went Off Air Friday",
-      "claim": "The host says that after the show went off air on Friday, Trump tweeted about her from Air Force One, with two tweets calling her a nobody and four tweets about her in total.",
+      "claim": "The host says that after the show went off air on Friday, Trump tweeted about her from Air Force One, with two tweets about how she is a nobody, and that she thinks that is four tweets in total.",
       "anchored_artifacts": [
         "A-1995.1"
       ],
@@ -2781,7 +2793,7 @@
       "@id": "C-13350",
       "ref": "C-13350",
       "label": "Host Says Online Lawyers Claimed the Robinson Family Turned Him In After Recognizing Grandpa's Gun",
-      "claim": "The host recounts that many lawyers on the internet have said Tyler Robinson's family does not support him and instead turned him in, and says the parent recognized grandpa's gun on the news.",
+      "claim": "The host recounts that many lawyers on the internet have said Tyler Robinson's family does not support him and instead turned him in, after the parent recognized grandpa's gun on the news, a story she goes on to dispute.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10022"
@@ -2804,7 +2816,7 @@
       "@id": "C-13351",
       "ref": "C-13351",
       "label": "Host Says the News Did Not Release a Photo of Grandpa's Gun, Only One That Looked Similar",
-      "claim": "The host says the news did not actually release a photo of the grandfather's gun and instead released a photo of something similar, which she says undercuts the story that the family recognized it.",
+      "claim": "The host says the news did not actually release a photo of the grandfather's gun and instead released a photo of something similar, which she calls weird given the story that the family recognized it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10022"
@@ -4001,7 +4013,7 @@
       "@id": "C-13405",
       "ref": "C-13405",
       "label": "Host Says Loomer Was Not Raised in Temple or Bat Mitzvahed and That Judaism Is Matrilineal",
-      "claim": "The host says Loomer was not raised in a temple and was not bat mitzvahed, and that because Judaism is matrilineal and Loomer's mother is not Jewish she does not qualify.",
+      "claim": "The host says Loomer was not raised in a temple and was not bat mitzvahed, and, noting that Loomer is Irish and English and that Judaism is matrilineal, says she is not Jewish.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10630"
@@ -4412,7 +4424,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:47:42",
       "investigative_direction": "Archive Loomer's posts with the images and run provenance and AI-detection analysis.",
@@ -4563,7 +4575,7 @@
       "@id": "C-13430",
       "ref": "C-13430",
       "label": "Host Says the Other Driver Later Claimed Whiplash and the Insurer Paid $6,987",
-      "claim": "The host says the other driver, Tracy, decided a couple of days later that he had post-whiplash disorder, went to a doctor, and that they paid a total of $6,987.",
+      "claim": "The host says the other driver, Tracy, decided a couple of days later that he had post-whiplash disorder, went to the doctor, and that she and her husband had to pay a grand total of $6,987.",
       "anchored_artifacts": [
         "A-2003.1"
       ],
@@ -4611,7 +4623,7 @@
       "@id": "C-13432",
       "ref": "C-13432",
       "label": "Host Says Charlie Was Putting Pieces Together in His Last Week but Still Trusted People He Should Not Have",
-      "claim": "The host says that in the last week of his life Charlie Kirk was starting to put together a lot of pieces, but still trusted some people he obviously should not have.",
+      "claim": "The host says she thinks that in the last week of his life Charlie Kirk was starting to put together a lot of pieces, but still trusted some people he obviously shouldn't have.",
       "anchored_artifacts": [
         "A-2005.1"
       ],

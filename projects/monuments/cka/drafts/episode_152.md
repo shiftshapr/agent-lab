@@ -992,7 +992,7 @@ Outlet the host credits (transcribed the bull work) with reporting on Matt Tardi
 
 Claim Timestamp: 00:02:33–00:03:11
 
-Claim: The episode presents that the audio of the Looney Tunes-style clip aired regarding Terrell Farnsworth is unedited and real, with the host asserting the depicted behavior is consistent with prior suspicions.
+Claim: The episode presents that the audio of the Looney Tunes-style clip aired regarding Terryl Farnsworth is unedited and real, with the host asserting the depicted behavior is consistent with prior suspicions.
 
 Anchored Artifacts: A-2374.1
 Mentions: N-262

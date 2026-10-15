@@ -13,7 +13,7 @@
     "transcript_sha256": "3d4ae642f2e941bfd1fa196ba14e9aaeb18407acfcfbcad82179e0cc50d07169",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode focuses on three evidentiary threads. First, viewer-sourced analysis of broken glass shards recovered from the SUV backseat floor is presented: a viewer email identifies a USB icon on a shard, aligning it with the Rode Rode mic used by Charlie Kirk. The host treats this as supporting the \"rigged microphone\" theory. Second, Brian Harpole's account of the hospital transport and ER events is dissected for internal contradictions: the open car door at high speed, 36 ft of dressing on a six-minute ride, his claim to have jumped on the gurney to cut Charlie's shirt, and his description of Frank Turek praying in the backseat. Third, the Daily Wire's reported $100M strategic investment and IPO push is summarized from a Semafor article, paired with audio from Dave Rubin's appearance on Jubilee showing him unable to defend Trump economic metrics and asserting the Gaza war is over.\n\nThe episode also includes discussion of Frank Turek's stated change into scrubs, blood-mustle in the backseat photos, a viewer email from a source described as high-ranking in a police department regarding DA authorization for releasing evidence to Erika Kirk, and additional commentary on the dissociative identity disorder (DID) theory applied to Erika Kirk, citing NHS website text. The episode advances the investigative questions of whether Charlie's shirt was cut in the car rather than in the ER, whether explosive residue evidence was destroyed through the disposal of clothing, and how various attendees ended up in scrubs.\n\nStructurally, this is an evidentiary accumulation episode: it cross-examines Brian Harpole's story using viewer-sourced medical expert comments, car interior photos, and Terrell Farnsworth footage. It also serves as a venue for discussing the Daily Wire's financial decline as a secondary topic with no direct connection to the Kirk case.\n\n---",
+  "executive_summary": "This episode focuses on three evidentiary threads. First, viewer-sourced analysis of broken glass shards recovered from the SUV backseat floor is presented: a viewer email identifies a USB icon on a shard, aligning it with the Rode Rode mic used by Charlie Kirk. The host treats this as supporting the \"rigged microphone\" theory. Second, Brian Harpole's account of the hospital transport and ER events is dissected for internal contradictions: the open car door at high speed, 36 ft of dressing on a six-minute ride, his claim to have jumped on the gurney to cut Charlie's shirt, and his description of Frank Turek praying in the backseat. Third, the Daily Wire's reported $100M strategic investment and IPO push is summarized from a Semafor article, paired with audio from Dave Rubin's appearance on Jubilee showing him unable to defend Trump economic metrics and asserting the Gaza war is over.\n\nThe episode also includes discussion of Frank Turek's stated change into scrubs, blood-mustle in the backseat photos, a viewer email from a source described as high-ranking in a police department regarding DA authorization for releasing evidence to Erika Kirk, and additional commentary on the dissociative identity disorder (DID) theory applied to Erika Kirk, citing NHS website text. The episode advances the investigative questions of whether Charlie's shirt was cut in the car rather than in the ER, whether explosive residue evidence was destroyed through the disposal of clothing, and how various attendees ended up in scrubs.\n\nStructurally, this is an evidentiary accumulation episode: it cross-examines Brian Harpole's story using viewer-sourced medical expert comments, car interior photos, and Terryl Farnsworth footage. It also serves as a venue for discussing the Daily Wire's financial decline as a secondary topic with no direct connection to the Kirk case.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -562,13 +562,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2103",
       "family_ref": "A-2103",
-      "bundle_name": "Terrell Farnsworth Video Bundle",
+      "bundle_name": "Terryl Farnsworth Video Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2103.1",
           "ref": "A-2103.1",
-          "description": "Terrell Farnsworth video showing Frank Turek entering SUV through trunk",
+          "description": "Terryl Farnsworth video showing Frank Turek entering SUV through trunk",
           "related_claims": [
             "C-2954"
           ],
@@ -1099,9 +1099,9 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
-      "description": "AV / camera operator (Terrell / Tara / Taro / Teo Farnsworth ASR variants). Credited for Frank Turek trunk-entry video in this episode; first ledger intro ep33.",
+      "description": "AV / camera operator (Terryl / Tara / Taro / Terryl Farnsworth ASR variants). Credited for Frank Turek trunk-entry video in this episode; first ledger intro ep33.",
       "related_artifacts": [],
       "related_claims": [
         "C-13074",
@@ -1513,7 +1513,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10346",
       "ref": "N-10346",
-      "name": "Terrell Farnsworth Camera Removal Justification",
+      "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
@@ -2069,8 +2069,8 @@
       "@type": "Claim",
       "@id": "C-2954",
       "ref": "C-2954",
-      "label": "Host Says Terrell Farnsworth Video Shows Frank Turek Entering SUV Through Trunk",
-      "claim": "The host says a video credited to Terrell Farnsworth, which she plays, shows Frank Turek entering the SUV via the trunk rather than through a passenger door after Charlie was shot.",
+      "label": "Host Says Terryl Farnsworth Video Shows Frank Turek Entering SUV Through Trunk",
+      "claim": "The host says a video credited to Terryl Farnsworth, which she plays, shows Frank Turek entering the SUV via the trunk rather than through a passenger door after Charlie was shot.",
       "anchored_artifacts": [
         "A-2103.1"
       ],
@@ -2079,7 +2079,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:32–00:20:25",
-      "investigative_direction": "Obtain the original unedited Terrell Farnsworth video; preserve metadata for chain-of-custody purposes.",
+      "investigative_direction": "Obtain the original unedited Terryl Farnsworth video; preserve metadata for chain-of-custody purposes.",
       "mentions_person_refs": [
         "N-7",
         "N-262"
@@ -3031,7 +3031,7 @@
       "@id": "C-13086",
       "ref": "C-13086",
       "label": "Host Says Farnsworth Told Her He Removed Cameras So Erika Would Not Relive It",
-      "claim": "The host says Terrell Farnsworth told her he took the cameras out because he did not want Erika to relive Charlie dying, and that she asked why specifically the back cameras given the footage is online.",
+      "claim": "The host says Terryl Farnsworth told her he took the cameras out because he did not want Erika to relive Charlie dying, and that she asked why specifically the back cameras given the footage is online.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10346"
@@ -3041,7 +3041,7 @@
       ],
       "claim_timestamp": "00:29:18",
       "investigative_direction": "Obtain Farnsworth's own on-record account and any message to or from Erika about the cameras.",
-      "transcript_snippet": "\"I didn't want Erika to relive Charlie dying.\" I said, \"Terrell, Terrell, what do you mean? It's all over the internet.\"",
+      "transcript_snippet": "\"I didn't want Erika to relive Charlie dying.\" I said, \"Terryl, Terryl, what do you mean? It's all over the internet.\"",
       "supports_claim_refs": [
         "C-10304",
         "C-4606"

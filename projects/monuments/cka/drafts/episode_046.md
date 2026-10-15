@@ -536,7 +536,7 @@ Named among Daily Wire hosts in the host's Stuckey remarks.
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
 Camera and SD card figure; the host says he told her police did not tell him to remove the card.
 
@@ -776,7 +776,7 @@ Existing topic reused.
 
 ---
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
 Existing topic reused.
 
@@ -1059,7 +1059,7 @@ Investigative Direction: Verify through official U.S. military color standards (
 
 Claim Timestamp: 00:11:47
 
-Claim: The host lists statements she calls lies: that Terrell Farnsworth was told by police to remove the SD card (she says Farnsworth told her otherwise); that it was not unusual for Charlie Kirk to set up a DOGE; and that Charlie Kirk's team did not fly drones, a lie she attributes to Brian Harpole, along with his statement that security secured the rooftops with UVU police.
+Claim: The host lists statements she calls lies: that Terryl Farnsworth was told by police to remove the SD card (she says Farnsworth told her otherwise); that it was not unusual for Charlie Kirk to set up a DOGE; and that Charlie Kirk's team did not fly drones, a lie she attributes to Brian Harpole, along with his statement that security secured the rooftops with UVU police.
 
 Transcript Snippet: Lie. Charlie established a doge and it was not unusual. That's a lie. It was unusual.
 
@@ -1315,16 +1315,16 @@ Investigative Direction: List each instance where a text was released after an a
 
 Claim Timestamp: 00:11:47
 
-Claim: The host says Terrell Farnsworth personally told her it was not true that police told him to remove the SD card, and that the account that he removed it because people were stealing hats is not what he told her.
+Claim: The host says Terryl Farnsworth personally told her it was not true that police told him to remove the SD card, and that the account that he removed it because people were stealing hats is not what he told her.
 
-Transcript Snippet: Taro Farnsworth personally told me that that was not true. Taro removed the SD cards because people were stealing hats.
+Transcript Snippet: Terryl Farnsworth personally told me that that was not true. Taro removed the SD cards because people were stealing hats.
 
 Anchored Artifacts: A-2831.1
 Mentions: N-3, N-262
 Related Nodes: N-10100, N-10162, N-10346
 Supports: C-3757
 Tags: relevance:core
-Investigative Direction: Obtain Terrell Farnsworth's own account on record and police statements on the SD card removal.
+Investigative Direction: Obtain Terryl Farnsworth's own account on record and police statements on the SD card removal.
 
 ---
 

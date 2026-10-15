@@ -782,7 +782,7 @@
       "ref": "N-2",
       "name": "Erika Kirk",
       "type": "person",
-      "description": "Counterparty in the private meeting with Candace; confirmed possession of Charlie's phone; admitted text-message corroboration; defended Terrell Farnsworth and Tyler Bowyer.",
+      "description": "Counterparty in the private meeting with Candace; confirmed possession of Charlie's phone; admitted text-message corroboration; defended Terryl Farnsworth and Tyler Bowyer.",
       "related_artifacts": [
         "A-1539.1",
         "A-1540.1"
@@ -1578,7 +1578,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10346",
       "ref": "N-10346",
-      "name": "Terrell Farnsworth Camera Removal Justification",
+      "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Contested justification for removal of cameras at UVU event before shooting.",
       "related_artifacts": [
@@ -2033,7 +2033,7 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
       "related_artifacts": [],
@@ -3049,8 +3049,8 @@
       "@type": "Claim",
       "@id": "C-1940",
       "ref": "C-1940",
-      "label": "Host Says TPUSA Defended Terrell Farnsworth's Camera Removal",
-      "claim": "The host says TPUSA defended Terrell Farnsworth's removal of cameras as part of a new livestream system used selectively for tour stops rather than all outdoor events.",
+      "label": "Host Says TPUSA Defended Terryl Farnsworth's Camera Removal",
+      "claim": "The host says TPUSA defended Terryl Farnsworth's removal of cameras as part of a new livestream system used selectively for tour stops rather than all outdoor events.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -3758,8 +3758,8 @@
       "@type": "Claim",
       "@id": "C-14017",
       "ref": "C-14017",
-      "label": "Host Says Terrell Farnsworth Lied to Her Several Times About the Cameras",
-      "claim": "The host says her skin crawled after she spoke to Terrell Farnsworth, the person who took the cameras down, and that he lied to her several times and she still does not understand why he was there that day.",
+      "label": "Host Says Terryl Farnsworth Lied to Her Several Times About the Cameras",
+      "claim": "The host says her skin crawled after she spoke to Terryl Farnsworth, the person who took the cameras down, and that he lied to her several times and she still does not understand why he was there that day.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10346"
@@ -3769,7 +3769,7 @@
       ],
       "claim_timestamp": "00:09:23",
       "investigative_direction": "Obtain the host's recorded exchange with Farnsworth and compare his statements with TPUSA's account of the livestream test.",
-      "transcript_snippet": "my skin crawled after I spoke to Terrell Farnsworth, the person who took the cameras down. He lied to me several times.",
+      "transcript_snippet": "my skin crawled after I spoke to Terryl Farnsworth, the person who took the cameras down. He lied to me several times.",
       "supports_claim_refs": [
         "C-9302"
       ],
@@ -3783,7 +3783,7 @@
       "@id": "C-14018",
       "ref": "C-14018",
       "label": "Host Says Bowyer's Claim That Police Wanted the Camera Taken Down Is Not True",
-      "claim": "The host says Tyler Bowyer tweeted that Terrell Farnsworth took the camera down because the police wanted it down and the footage secured, and that she told TPUSA she knows this is not true.",
+      "claim": "The host says Tyler Bowyer tweeted that Terryl Farnsworth took the camera down because the police wanted it down and the footage secured, and that she told TPUSA she knows this is not true.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10346",

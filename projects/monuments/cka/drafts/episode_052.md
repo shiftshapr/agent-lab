@@ -467,7 +467,7 @@ Duncan Aviation; the FBO the host says rented cars to the feds.
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
 Terryl Farnsworth; AV company head who removed cameras, per the host.
 
@@ -731,7 +731,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
 Existing topic reused for new claims in this episode.
 
@@ -827,7 +827,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10797** Terrell Farnsworth Google-Hack Contradiction
+**N-10797** Terryl Farnsworth Google-Hack Contradiction
 
 Existing topic reused for new claims in this episode.
 
@@ -2072,7 +2072,7 @@ Claim Timestamp: 00:30:10
 
 Claim: The host says Terryl Farnsworth's parents went to high school with Tyler Bowyer's parents and that they are all from Chandler, Arizona.
 
-Transcript Snippet: Terrell Farnsworth par Farnsworth's parents went to high school with Tyler Bowyer's parents. They're all from Chandler, Arizona.
+Transcript Snippet: Terryl Farnsworth par Farnsworth's parents went to high school with Tyler Bowyer's parents. They're all from Chandler, Arizona.
 
 Anchored Artifacts: 
 Mentions: N-3, N-262, N-11
@@ -2152,7 +2152,7 @@ Claim Timestamp: 00:31:40
 
 Claim: The host says Terryl Farnsworth's father is Dwayne Farnsworth and that Eddie and David Farnsworth are brothers and first cousins of Dwayne.
 
-Transcript Snippet: Terrell's father is a man named Dwayne Farnsworth and his first cousins are longtime Arizona Congressman Eddie Farnsworth.
+Transcript Snippet: Terryl's father is a man named Dwayne Farnsworth and his first cousins are longtime Arizona Congressman Eddie Farnsworth.
 
 Anchored Artifacts: 
 Mentions: N-3, N-262, N-383, N-381, N-382

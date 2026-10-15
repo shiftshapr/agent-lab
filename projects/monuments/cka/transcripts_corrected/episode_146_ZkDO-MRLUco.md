@@ -106,7 +106,7 @@ That's fast because Charlie was shot just seven minutes before then. That's a lo
 
 [20:14]
 
-Anyway, I digress because, you know, my opinion doesn't really matter, but it happens to be that every single person that arrived with Charlie, in my opinion, behaved in ways that simply unnerve me given the circumstances. Terrell prematurely announcing Charlie's death to himself. He chose to record himself rather than to call 911. Selfie vid. And even after he was finished with that bizarre selfie vid, he then jumps down from the grassy knoll, not crying, he's chill, starts removing SD cards and seemingly plausibly toying around with the footage, sticking the SD card into his computer, looking around, looking shady, and getting to work. Mikey, as we mentioned earlier, immediately walked away, phones his wife first.
+Anyway, I digress because, you know, my opinion doesn't really matter, but it happens to be that every single person that arrived with Charlie, in my opinion, behaved in ways that simply unnerve me given the circumstances. Terryl prematurely announcing Charlie's death to himself. He chose to record himself rather than to call 911. Selfie vid. And even after he was finished with that bizarre selfie vid, he then jumps down from the grassy knoll, not crying, he's chill, starts removing SD cards and seemingly plausibly toying around with the footage, sticking the SD card into his computer, looking around, looking shady, and getting to work. Mikey, as we mentioned earlier, immediately walked away, phones his wife first.
 
 [21:04]
 
@@ -114,7 +114,7 @@ Blake Blakey called his mom. He did not thereafter call 911. Danny Phillip, to o
 
 [22:23]
 
-What would be appropriate to you in your mind? I'll give you guys one guess. I'm going to again mention his age, 74 years old. What would you expect a senior citizen who loves the mountains, not the MSAD and the CIA, he loves the mountains. What would you expect him to do amidst that chaos? Two options. Fight or flight. Right? Wrong. This is the Shady Bunch. Remember, I'm going to tell you what Butch did. Butch pulled the old Terrell Farnsworth move. He just starts recording. I mean, if I didn't know any better, I would think that they were all told to gather footage from different angles and different points. Like, you go up here, you go here, you go here. But of course, that's pure speculation based on what we've gathered thus far.
+What would be appropriate to you in your mind? I'll give you guys one guess. I'm going to again mention his age, 74 years old. What would you expect a senior citizen who loves the mountains, not the MSAD and the CIA, he loves the mountains. What would you expect him to do amidst that chaos? Two options. Fight or flight. Right? Wrong. This is the Shady Bunch. Remember, I'm going to tell you what Butch did. Butch pulled the old Terryl Farnsworth move. He just starts recording. I mean, if I didn't know any better, I would think that they were all told to gather footage from different angles and different points. Like, you go up here, you go here, you go here. But of course, that's pure speculation based on what we've gathered thus far.
 
 [23:12]
 

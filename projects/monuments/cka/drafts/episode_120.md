@@ -520,7 +520,7 @@ Podcast host (rendered "Shawn Ryan" and "Shawn Ryan"); interviewed Brian Harpole
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
 TPUSA-linked camera operator (rendered "Teryl Farnsworth" in the transcript); the host says he removed the back footage.
 
@@ -664,7 +664,7 @@ Existing topic reused for the "Superman neck" statement.
 
 ---
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
 Existing topic reused for the camera removal claim.
 
@@ -1439,7 +1439,7 @@ Investigative Direction: Review the State's disclosed footage and witness list f
 
 Claim Timestamp: 00:22:45
 
-Claim: The host says Terrell Farnsworth violated the crime scene to remove the back footage.
+Claim: The host says Terryl Farnsworth violated the crime scene to remove the back footage.
 
 Transcript Snippet: It explains why Teryl Farnsworth violated the crime scene to remove the back footage.
 

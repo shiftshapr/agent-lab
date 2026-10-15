@@ -796,7 +796,7 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Named by the host for removing the camera behind Charlie Kirk's head.",
       "related_artifacts": [],
@@ -1014,9 +1014,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10346",
       "ref": "N-10346",
-      "name": "Terrell Farnsworth Camera Removal Justification",
+      "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
-      "description": "Reused for Terrell Farnsworth's camera removal.",
+      "description": "Reused for Terryl Farnsworth's camera removal.",
       "related_artifacts": [],
       "related_claims": [
         "C-5283",
@@ -1604,8 +1604,8 @@
       "@type": "Claim",
       "@id": "C-5283",
       "ref": "C-5283",
-      "label": "Terrell Farnsworth raced to remove the camera behind Charlie's head",
-      "claim": "The host says Terrell Farnsworth raced to remove the camera that was directly behind Charlie Kirk's head, and that major question marks remain about it.",
+      "label": "Terryl Farnsworth raced to remove the camera behind Charlie's head",
+      "claim": "The host says Terryl Farnsworth raced to remove the camera that was directly behind Charlie Kirk's head, and that major question marks remain about it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10346"
@@ -1613,7 +1613,7 @@
       "tags": [],
       "claim_timestamp": "00:05:57",
       "investigative_direction": "Review event footage and statements from Farnsworth on when and why the camera was removed, and the chain of custody of its storage.",
-      "transcript_snippet": "Terrell Farnsworth, still major question marks. He raced to remove the camera that was directly behind Charlie's head.",
+      "transcript_snippet": "Terryl Farnsworth, still major question marks. He raced to remove the camera that was directly behind Charlie's head.",
       "mentions_person_refs": [
         "N-262",
         "N-1"

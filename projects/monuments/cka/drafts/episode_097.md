@@ -689,9 +689,9 @@ Shawn Ryan, host of the podcast on which Harpole appeared on November 17.
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
-Terrell Farnsworth, head of the AV team; the host says he announced the death by selfie video and holds unseen footage.
+Terryl Farnsworth, head of the AV team; the host says he announced the death by selfie video and holds unseen footage.
 
 *Related: C-10360, C-10361, C-10362, C-10389*
 
@@ -905,7 +905,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10812** Terrell Farnsworth Evidence-Handling Question
+**N-10812** Terryl Farnsworth Evidence-Handling Question
 
 Existing topic reused for new claims in this episode.
 
@@ -969,9 +969,9 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-863** Matt Slauson
+**N-863** Matt Sarelson
 
-First named by the host at 01:08:34 in episode 97 (spelled Slauson; at 01:13:25 she says 'Matt Christiansen', possibly the same lawyer). Attorney for Brian Harpole.
+First named by the host at 01:08:34 in episode 97 (spelled Sarelson; at 01:13:25 she says 'Matt Christiansen', possibly the same lawyer). Attorney for Brian Harpole.
 
 *Related: C-10414*
 
@@ -980,7 +980,7 @@ First named by the host at 01:08:34 in episode 97 (spelled Slauson; at 01:13:25 
 **N-11258** Harpole Lawsuit Subpoena and Discovery Opportunity
 
 Node Type: Topic
-The host's repeated argument that the Harpole lawsuit may give her the power of subpoena and depositions, including for Terrell Farnsworth's footage, text messages and testimony from Erika Kirk.
+The host's repeated argument that the Harpole lawsuit may give her the power of subpoena and depositions, including for Terryl Farnsworth's footage, text messages and testimony from Erika Kirk.
 
 *Related: C-10388, C-10389, C-10416*
 
@@ -1006,9 +1006,10 @@ Investigative Direction: Obtain the filed complaint and PACER docket to verify t
 
 Claim Timestamp: 00:01:23
 
-Claim: Harpole's counsel sent an email styled as a retraction demand but stated at the outset that the lawsuit would be filed in four days regardless.
+Claim: The host says Harpole's counsel sent an email styled as a retraction demand but stated at the outset that the lawsuit would be filed in four days regardless.
 
 Anchored Artifacts: A-2015.1
+Mentions: N-267
 
 Related Nodes:
 
@@ -1020,10 +1021,10 @@ Investigative Direction: Obtain the pre-filing email; verify whether it containe
 
 Claim Timestamp: 00:03:20
 
-Claim: The lawsuit's first grievance alleges Candace accused Harpole and his team of criminal negligence by failing to have an ambulance on standby and failing to render aid after Kirk was shot.
+Claim: The lawsuit alleges Candace accused Harpole and his team of criminal negligence by failing to have an ambulance on standby and failing to render aid after Kirk was shot.
 
 Anchored Artifacts: A-2015.2
-Mentions: N-1, N-3
+Mentions: N-1, N-3, N-267
 
 Related Nodes: N-10650
 
@@ -1038,6 +1039,7 @@ Claim Timestamp: 00:07:04
 Claim: The lawsuit alleges Candace's episode implied Harpole's security team had foreknowledge of and complicity in Kirk's assassination.
 
 Anchored Artifacts: A-2015.3
+Mentions: N-1, N-3, N-267
 
 Related Nodes:
 
@@ -1067,6 +1069,7 @@ Claim Timestamp: 00:14:44
 Claim: Per point 29 of the lawsuit the host reads, Harpole asserts he is a private individual, not a limited-purpose public figure, despite two podcast appearances; the host disputes this.
 
 Anchored Artifacts: A-2015.5
+Mentions: N-3, N-267
 
 Related Nodes: N-10644
 
@@ -1081,6 +1084,7 @@ Claim Timestamp: 00:16:29
 Claim: Point 28 of the lawsuit asserts Harpole appeared on Shawn Ryan "solely to respond to and to rebut the defamatory statements" by Candace and other conspiracy theorists.
 
 Anchored Artifacts: A-2015.6
+Mentions: N-3, N-225, N-267
 
 Related Nodes: N-10644
 
@@ -1095,7 +1099,7 @@ Claim Timestamp: 00:17:25
 Claim: Candace states she never once mentioned Harpole on her podcast prior to his November 17 Shawn Ryan appearance; her first mention was November 19.
 
 Anchored Artifacts: A-2015.6, A-2018.1
-Mentions: N-3
+Mentions: N-3, N-225, N-267
 
 Related Nodes: N-10644
 
@@ -1103,14 +1107,14 @@ Investigative Direction: Audit Candace's prior episode transcripts and show note
 
 ---
 
-**C-2818** Candace Sent Three Unanswered Text Messages to Harpole Before the Mitch Snow Interview
+**C-2818** Candace Says Harpole Left Her Text Messages Unanswered
 
 Claim Timestamp: 00:22:23
 
-Claim: Candace sent Harpole three text messages seeking clarification of his whereabouts on September 9; Harpole did not reply to any of them.
+Claim: The host says she sent Harpole about four text messages, from shortly before her Mitch Snow interview through January, offering an off-record talk or asking him to clarify his whereabouts on September 9, and that he did not reply to any of them.
 
 Anchored Artifacts: A-2015.8, A-2017.1, A-2017.2, A-2017.3
-Mentions: N-3, N-362
+Mentions: N-3, N-267, N-362
 
 Related Nodes: N-10643
 
@@ -1122,9 +1126,10 @@ Investigative Direction: Cross-reference the embedded text messages against phon
 
 Claim Timestamp: 00:23:57
 
-Claim: The lawsuit explains Harpole's non-response to Candace's text messages as a refusal to provide her exclusive yes-or-no content for viewership profit.
+Claim: Per point 59 of the lawsuit the host reads, her repeated texts to Harpole were a cynical attempt to profit by coddling him into giving her exclusive content; the host reads this as the lawsuit's explanation for his not replying.
 
 Anchored Artifacts: A-2015.7
+Mentions: N-3, N-267
 
 Related Nodes:
 
@@ -1139,7 +1144,7 @@ Claim Timestamp: 00:18:21
 Claim: Candace texted Andrew Kolvet agreeing to defend the security team and issued a same-day podcast statement defending Harpole and Dan Flood.
 
 Anchored Artifacts: A-2016.1, A-2018.1
-Mentions: N-3, N-14, N-271
+Mentions: N-3, N-14, N-267, N-271
 
 Related Nodes:
 
@@ -1154,7 +1159,7 @@ Claim Timestamp: 00:28:30
 Claim: The host says that although Harpole presented the Sorensen Center rooftop text chain on Shawn Ryan as his own, the lawsuit admits the messages were between Dan Flood and UVU Police Chief Long.
 
 Anchored Artifacts: A-2015.* (admission), A-2019.1, A-2019.2
-Mentions: N-271
+Mentions: N-3, N-225, N-267, N-271, N-272
 
 Related Nodes: N-10646
 
@@ -1169,7 +1174,7 @@ Claim Timestamp: 00:29:59
 Claim: Candace's December 23 X post stated Fort Huachuca was confirmed via metadata and incident report but explicitly stated the team could not confirm Snow's identification of who he saw.
 
 Anchored Artifacts: A-2020.1
-Mentions: N-3
+Mentions: N-3, N-362
 
 Related Nodes: N-10643
 
@@ -1181,10 +1186,10 @@ Investigative Direction: Obtain original X post screenshot and verify text again
 
 Claim Timestamp: 00:29:59
 
-Claim: Point 63 of the lawsuit accuses Candace of asserting proof that Snow was telling the truth about Harpole, even while the lawsuit's own exhibits include Candace's statement that she could not confirm the identification.
+Claim: Point 63 of the lawsuit accuses Candace of asserting proof that Snow was telling the truth about Harpole, even while, the host says, the very next paragraph presents her statement that she could not confirm the identification.
 
 Anchored Artifacts: A-2015.9, A-2020.1
-Mentions: N-3
+Mentions: N-3, N-267, N-362
 
 Related Nodes:
 
@@ -1199,7 +1204,7 @@ Claim Timestamp: 00:10:08
 Claim: The host says Harpole's statement that drones could not be flown in Provo airspace conflicts with Frank Turek's separate account of flying drones at UVU events.
 
 Anchored Artifacts: A-2015.4, A-2028.1
-Mentions: N-7
+Mentions: N-3, N-7, N-267
 
 Related Nodes: N-10645
 
@@ -1211,7 +1216,7 @@ Investigative Direction: Obtain full audio of Turek's drone statements and cross
 
 Claim Timestamp: 00:42:15
 
-Claim: Erika Kirk publicly asserted that Candace accused her of murdering Charlie Kirk; the statement was widely discussed.
+Claim: The host says Erika Kirk publicly claimed that Candace accused her of murdering Charlie Kirk, which the host calls obviously untrue; the host says everyone had the same reaction to it.
 
 Anchored Artifacts: A-2021.1
 Mentions: N-2, N-3, N-1
@@ -1244,7 +1249,7 @@ Claim Timestamp: 00:43:04
 Claim: Baron Coleman stated on his show that he had never heard Candace say Erika killed Charlie and questioned why Erika made the claim.
 
 Anchored Artifacts: A-2021.1
-Mentions: N-2, N-3, N-331
+Mentions: N-1, N-2, N-3, N-331
 
 Related Nodes: N-10647
 
@@ -1256,10 +1261,10 @@ Investigative Direction: Locate Coleman's full segment for additional context.
 
 Claim Timestamp: 00:50:32
 
-Claim: Reps. Mike Lawler (R-NY) and Josh Gottheimer (D-NJ) introduced a bipartisan House resolution condemning Candace Owens, among others.
+Claim: The host says, citing a Times of Israel headline, that Reps. Mike Lawler and Josh Gottheimer brought forward a bipartisan House resolution condemning her, among others.
 
 Anchored Artifacts: A-2023.1, A-2024.1
-Mentions: N-3, N-429, N-428, N-380
+Mentions: N-3, N-428, N-429
 
 Related Nodes: N-10648
 
@@ -1274,7 +1279,7 @@ Claim Timestamp: 00:52:10
 Claim: The resolution text characterizes Candace's rhetoric as accusing Israel of controlling the US government.
 
 Anchored Artifacts: A-2024.1
-Mentions: N-3, N-429, N-428, N-380
+Mentions: N-3
 
 Related Nodes: N-10648
 
@@ -1289,7 +1294,7 @@ Claim Timestamp: 00:52:50
 Claim: The resolution text asserts Candace made an anti-Semitic claim that the United States is controlled by satanic pedophiles who work for Israel.
 
 Anchored Artifacts: A-2024.1
-Mentions: N-3, N-429, N-428, N-380
+Mentions: N-3
 
 Related Nodes: N-10648
 
@@ -1301,10 +1306,10 @@ Investigative Direction: Review Candace's commentary on Epstein, Israeli intelli
 
 Claim Timestamp: 00:53:42
 
-Claim: The resolution text references Candace's July 2024 commentary regarding Josef Mengele and "bizarre propaganda" following the Holocaust.
+Claim: Per the resolution the host describes, it references her July 2024 remark about 'bizarre propaganda' following the Holocaust; the host says she did not mention Josef Mengele and that the remark is objectively true.
 
 Anchored Artifacts: A-2024.1
-Mentions: N-3, N-429, N-428, N-380
+Mentions: N-3, N-380
 
 Related Nodes: N-10648
 
@@ -1319,7 +1324,7 @@ Claim Timestamp: 00:55:26
 Claim: In a clip the host plays from the official Auschwitz-Birkenau Memorial podcast, a speaker says that myths arose around Mengele, including the "sewing twins together" legend, which did not happen.
 
 Anchored Artifacts: A-2022.1
-Mentions: N-3, N-429, N-428, N-380
+Mentions: N-3, N-380
 
 Related Nodes: N-10648
 
@@ -1334,14 +1339,14 @@ Claim Timestamp: 01:01:07
 Claim: Charlie Kirk wrote on May 2, 2024 that "Hate speech does not exist legally in America."
 
 Anchored Artifacts: A-2027.1
-Mentions: N-1, N-3
+Mentions: N-1
 
 
 Investigative Direction: Verify the post's date, persistence, and any replies or context.
 
 ---
 
-**C-10354** Host Says Erika Wrongly Said She Accused Erika of Murder
+**C-10354** Host Says Erika Wrongly Claimed the Host Accused Her of Murder
 
 Claim Timestamp: 00:00:01
 
@@ -1395,7 +1400,7 @@ Investigative Direction: Compare counsel of record in the Harpole complaint with
 
 Claim Timestamp: 00:04:44
 
-Claim: The host says that at each of her many Turning Point USA events during the time Harpole was on the security team, an ambulance was on standby.
+Claim: The host says she is fairly certain that at almost every one of her many Turning Point USA events during the time Harpole was on the security team, an ambulance was on standby.
 
 Transcript Snippet: at each and every one of my many events that I have done with Turning Point USA during a time period when Brian Harpole was always a member of the security team, we had an ambulance on standby.
 
@@ -1444,7 +1449,7 @@ Investigative Direction: Search the episode transcripts cited in the complaint f
 
 Claim Timestamp: 00:07:04
 
-Claim: The host says that in the 'Charlie's Angels or Demons' episode she never mentioned Harpole even once, and that it concerned Charlie's chief of staff and Terrell Farnsworth, the head of the AV team.
+Claim: The host says that in the 'Charlie's Angels or Demons' episode she never mentioned Harpole even once, and that it concerned Charlie's chief of staff and Terryl Farnsworth, the head of the AV team.
 
 Transcript Snippet: In that particular episode, we never mentioned Brian Harpole or referred to him even once.
 
@@ -1460,9 +1465,9 @@ Investigative Direction: Review the full episode transcript for any reference to
 
 Claim Timestamp: 00:07:04
 
-Claim: The host says Terrell Farnsworth notoriously announced in a selfie video that Charlie Kirk was dead about two minutes after Kirk went down, when no one could have known.
+Claim: The host says Terryl Farnsworth notoriously announced in a selfie video that Charlie Kirk was dead about two minutes after Kirk went down, when no one could have known.
 
-Transcript Snippet: it was Terrell Farmsworth who notoriously announced in a selfie video that Charlie Kirk was dead like 2 minutes after Charlie went down
+Transcript Snippet: it was Terryl Farmsworth who notoriously announced in a selfie video that Charlie Kirk was dead like 2 minutes after Charlie went down
 
 Anchored Artifacts: A-2015.3
 Mentions: N-262, N-1
@@ -1630,7 +1635,7 @@ Claim: The host says the early conspiracy theories claimed Frank Turek, Dan Floo
 Transcript Snippet: Frank Turek's doing hand signals. It looks like Dan Flood's doing hand signals. It looks like Brian Harpole is doing hand signals behind his back and they're all looped in.
 
 Anchored Artifacts: A-2018.1
-Mentions: N-3, N-7, N-271, N-267
+Mentions: N-1, N-3, N-7, N-267, N-271
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Identify the original posts that circulated the hand-signal theories and their dates.
@@ -1855,19 +1860,19 @@ Investigative Direction: Obtain the incident report and any base logs naming Cap
 
 Claim Timestamp: 00:31:04
 
-Claim: The host says a lawsuit filing by Brigitte Macron's side asserted that she is a dual citizen of the UK, and that she is not.
+Claim: The host says Brigitte Macron said the host was a dual citizen of the UK, which the host says is not a fact, as an example of untrue claims put in lawsuit filings.
 
 Transcript Snippet: case in point, Brigitte said I was a dual citizen of the UK.
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the Macron filing language on citizenship and the host's citizenship records.
 
 ---
 
-**C-10386** Host Says the Klacik Suit Was Dropped in Discovery
+**C-10386** Host Says Klacik Folded in Discovery
 
 Claim Timestamp: 00:32:15
 
@@ -1878,7 +1883,7 @@ Transcript Snippet: she took it to discovery and then she folded. Right? She fol
 Anchored Artifacts: 
 Mentions: N-3, N-433
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Pull the docket and any settlement or dismissal record from the Klacik case.
 
 ---
@@ -1919,9 +1924,9 @@ Investigative Direction: Check the docket filing time and the service record aga
 
 Claim Timestamp: 00:34:51
 
-Claim: The host says Terrell Farnsworth has footage from every angle that the public has never seen, and that if Harpole claims he rendered first aid she would seek to subpoena that footage.
+Claim: The host says Terryl Farnsworth has footage from every angle that the public has never seen, and that if Harpole claims he rendered first aid she would seek to subpoena that footage.
 
-Transcript Snippet: Terrell Farnsworth actually has footage the public has never seen from every angle.
+Transcript Snippet: Terryl Farnsworth actually has footage the public has never seen from every angle.
 
 Anchored Artifacts: 
 Mentions: N-3, N-262, N-267
@@ -2232,7 +2237,7 @@ Transcript Snippet: They want Europe. They want what's already happening in Flor
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify specific Florida cases of police visits over social media posts.
 
 ---
@@ -2297,7 +2302,7 @@ Anchored Artifacts:
 Mentions: N-3, N-5
 Related Nodes: 
 Supports: C-7121
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check official US and Iranian accounts of the strike and the later statements about it.
 
 ---
@@ -2314,18 +2319,18 @@ Anchored Artifacts:
 Mentions: N-3, N-60, N-82
 Related Nodes: 
 Supports: C-8759
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate Loomer's posts on the trust claim and the host's financial structure records.
 
 ---
 
-**C-10414** Host Says Harpole's Lawyer Matt Slauson Was Retweeting Laura Loomer
+**C-10414** Host Says Harpole's Lawyer Matt Sarelson Was Retweeting Laura Loomer
 
 Claim Timestamp: 01:08:34
 
-Claim: The host says Harpole's attorney, Matt Slauson, definitively was retweeting Laura Loomer, which she says feels like anticipated coordination before the lawsuit.
+Claim: The host says Harpole's attorney, Matt Sarelson, definitively was retweeting Laura Loomer, which she says feels like anticipated coordination before the lawsuit.
 
-Transcript Snippet: this lawyer, Matt Slauson, the one who speaks like he has helium. Like he's just ingested some helium. Uh definitively was retweeting Laura Loomer.
+Transcript Snippet: this lawyer, Matt Sarelson, the one who speaks like he has helium. Like he's just ingested some helium. Uh definitively was retweeting Laura Loomer.
 
 Anchored Artifacts: 
 Mentions: N-3, N-863, N-60
@@ -2585,7 +2590,7 @@ Confidence: high
 
 - **Name uncertainty – Harpole/Harpold:** Transcript uses both "Brian Harpole" and "Brian Harpole" interchangeably throughout the episode (title uses "Harpole"). Preserved as "Harpole" matching the lawsuit title; both spellings preserved in cross-references.
 - **Name uncertainty – Mikey McCoy/McCoey/McCormick:** Transcript renders the same person as "Mikey McCoey," "Mikey McCoy," and "Mikey McCormick." Used "Mikey McCoy" as most common rendering; identity confirmed by context.
-- **Name uncertainty – Matt Slauson vs. Matt Christiansen:** Candace names Harpole's attorney as "Matt Slauson" (~01:08:34) but later says sarcastically "Good luck with Matt Christiansen as a lawyer" (~01:13:25). Treated as separate nodes, pending verification of whether they refer to the same individual.
+- **Name uncertainty – Matt Sarelson vs. Matt Christiansen:** Candace names Harpole's attorney as "Matt Sarelson" (~01:08:34) but later says sarcastically "Good luck with Matt Christiansen as a lawyer" (~01:13:25). Treated as separate nodes, pending verification of whether they refer to the same individual.
 - **Private conversation unreviewed:** Candace's account of her December 15 meeting with Erika Kirk – including the McCoy-to-Kolvet recommendation – is not supported by a primary document or recording artifact. Anchors only the existence of the disclosure as a claim-of-record (N-10649).
 - **Timestamp estimation:** Some artifact timestamps were approximated where the host transitions between quoted passages without discrete visual cues.
 - **Transcript ambiguity – "the morning of September 9":** Harpole's alleged Fort Huachuca presence is repeatedly dated to "the morning of September 9" by the host. Charlie Kirk was shot on September 10, 2025. The September 9 reference may refer to the day before the event, consistent with Snow's account of a pre-event meeting; flag for verification against Snow's primary statements.

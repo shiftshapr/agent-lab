@@ -360,9 +360,9 @@ Confidence Level: High
 
 *Related: C-2797, N-2, N-3, N-10639, N-10642*
 
-## A-2010 Taro Farnsworth Recording Bundle
+## A-2010 Terryl Farnsworth Recording Bundle
 
-**A-2010.1** Taro Farnsworth video recorded at Charlie Kirk shooting scene within seconds
+**A-2010.1** Terryl Farnsworth video recorded at Charlie Kirk shooting scene within seconds
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -971,7 +971,7 @@ Investigative Direction: Verify the post on Truth Social directly and confirm ti
 
 **C-2791** Washington Post reported Secret Service officers fired at WHCD suspect
 
-Claim Timestamp: 00:29:53
+Claim Timestamp: 00:29:10
 
 Claim: The Washington Post reported surveillance footage shows the moment Secret Service officers fired at the WHCD suspect, Cole Allen.
 
@@ -1041,7 +1041,7 @@ Investigative Direction: Verify the video directly on Erika Kirk's platforms; re
 
 Claim Timestamp: 00:39:21
 
-Claim: In her pre-recorded statement, Erika Kirk said she attended the White House Correspondents Dinner specifically to meet journalists who had written about her face-to-face.
+Claim: In her pre-recorded statement, Erika Kirk said she attended the White House Correspondents Dinner because many of the journalists in the room had attempted to dehumanize her and she wanted to meet some of them face-to-face.
 
 Anchored Artifacts: A-2009.1
 Mentions: N-2
@@ -1081,11 +1081,11 @@ Mentions: N-2, N-3, N-87
 Related Nodes: N-10639
 Investigative Direction: Verify Kimmel's original monologue; confirm Erika's quotation is accurate.
 
-**C-2800** Host Says Taro Farnsworth Recorded Video at Charlie Kirk Shooting Scene
+**C-2800** Host Says Terryl Farnsworth Recorded Video at Charlie Kirk Shooting Scene
 
 Claim Timestamp: 00:43:54
 
-Claim: The host says Taro Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds (she also says not even a minute) of the incident; in a clip she plays, he says "They just shot Charlie."
+Claim: The host says Terryl Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds (she also says not even a minute) of the incident; in a clip she plays, he says "They just shot Charlie."
 
 Anchored Artifacts: A-2010.1
 Mentions: N-262, N-1
@@ -1138,7 +1138,7 @@ Investigative Direction: Verify the source recording; identify context and any o
 
 Claim Timestamp: 01:03:21
 
-Claim: Laura Loomer tweeted that the Southern Poverty Law Center was paying Candace Owens $500K per year to communicate David Duke talking points.
+Claim: The host says Laura Loomer reported that Candace Owens was potentially paid half a million dollars by the Southern Poverty Law Center to communicate David Duke talking points, framed as "Was the SPLC paying Candace Owens 500K a year to plagiarize David Duke?"
 
 Anchored Artifacts: A-2012.2
 Mentions: N-3, N-60
@@ -1148,10 +1148,10 @@ Investigative Direction: Verify the tweet directly; cross-reference SPLC public 
 
 Claim Timestamp: 01:04:56
 
-Claim: Laura Loomer tweeted that Candace Owens, Nick Fuentes, and Aubrey Laitsch converged in Rome for a "secret anti-Trump summit," with implied funding from Qatar.
+Claim: Laura Loomer tweeted a question whether Candace Owens, Nick Fuentes, and Aubrey Laitsch, who all "suddenly appeared in Rome", were converging for a "secret anti-Trump summit", adding that she suspects it is funded by foreign dark money and citing a source that Aubrey approached conservatives about a paid propaganda trip to Qatar.
 
 Anchored Artifacts: A-2012.3, A-2012.4
-Mentions: N-3, N-60, N-202, N-373, N-552
+Mentions: N-3, N-60, N-202, N-552
 Investigative Direction: Verify the tweet; cross-reference against actual attendees in Rome during the relevant dates.
 
 **C-2807** Candace traveled to Rome with her family for confirmation
@@ -1210,7 +1210,7 @@ Transcript Snippet: Yeah, this is actually the fourth tweet about me in the span
 Anchored Artifacts:
 Mentions: N-3, N-5
 Related Nodes: N-10587
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Pull Trump's Truth Social posts mentioning Candace Owens for the two weeks before April 29, 2026 and count them.
 
 ---
@@ -1226,7 +1226,7 @@ Transcript Snippet: He called me low IQ. He's already asserted that I was uglier
 Anchored Artifacts:
 Mentions: N-3, N-5, N-82
 Related Nodes: N-10587
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the earlier Trump posts or remarks calling the host low IQ and comparing her appearance to Brigitte Macron's.
 
 ---
@@ -1257,7 +1257,7 @@ Transcript Snippet: the photo he shared of me, to be clear with you guys, it is 
 Anchored Artifacts:
 Mentions: N-3, N-5
 Related Nodes: N-10640
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Compare the photo in Trump's post with the host's original 2019 post to confirm it is unaltered.
 
 ---
@@ -1327,7 +1327,7 @@ Investigative Direction: Check the upload date of the first video on the host's 
 
 Claim Timestamp: 00:15:12
 
-Claim: The host says the words on the Trump-linked magazine-style cover read that she lies, lies, lies and uses rich white men, and that the photo was put on an AI cover.
+Claim: The host says the words on the Trump-linked magazine-style cover read that Candace Owens lies, lies, lies and uses rich white men, and earlier said she shared the photo publicly, which is why someone could put it on an AI cover.
 
 Transcript Snippet: Candace Owens lies, lies, lies, and uses rich white men.
 
@@ -1412,7 +1412,7 @@ Anchored Artifacts:
 Mentions: N-60, N-5, N-3
 Related Nodes: N-10640, N-10590
 Supports: C-2790
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Corroborate through White House staff, Loomer's own statements, or Truth Social posting logs.
 
 ---
@@ -1444,7 +1444,7 @@ Transcript Snippet: I am told specifically that Susie Wiles was staunchly oppose
 Anchored Artifacts:
 Mentions: N-131, N-3, N-60
 Related Nodes: N-10640
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the host's source and seek confirmation from White House staff.
 
 ---
@@ -1525,7 +1525,7 @@ Anchored Artifacts: A-2008.1, A-2008.2
 Mentions: N-370
 Related Nodes: N-10637
 Supports: C-2792
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Official incident report, ballistic findings and the Washington Post surveillance footage.
 
 ---
@@ -1541,7 +1541,7 @@ Transcript Snippet: the majority of the people uh could not that were inside cou
 Anchored Artifacts:
 Mentions: N-5
 Related Nodes: N-10637
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Attendee accounts and ballroom audio or video from the dinner.
 
 ---
@@ -1557,7 +1557,7 @@ Transcript Snippet: who, when he recounted the story, uh was actually honest. He
 Anchored Artifacts:
 Mentions: N-14, N-3
 Related Nodes: N-10637
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Locate Kolvet's on-air or posted account of the WHCD and compare wording.
 
 ---
@@ -1611,7 +1611,7 @@ Investigative Direction: Locate the Vance remarks about Erika Kirk's safety arou
 
 ---
 
-**C-8781** Host says Erika tweeted she needed family time and would return on the Wednesday show
+**C-8781** Host Says Erika Said She Needed Family Time And Would Return On Wednesday Show
 
 Claim Timestamp: 00:37:46
 
@@ -1681,7 +1681,7 @@ Investigative Direction: Find Charlie Kirk show segments or posts mocking the WH
 
 Claim Timestamp: 00:40:12
 
-Claim: The host says Erika Kirk sat down with Karoline Leavitt on stage at a Turning Point event and said she did not read the headlines and did not care, in tension with her WHCD explanation.
+Claim: The host says she is pretty sure Erika Kirk sat down with Karoline Leavitt on stage at a Turning Point event and said she did not read the headlines and did not care, in tension with her WHCD explanation.
 
 Transcript Snippet: when she sat down with Karoline Leavitt on stage at Turning Point event, she says that she doesn't like she didn't read the headlines, she doesn't care
 
@@ -1758,11 +1758,11 @@ Investigative Direction: Review the statement video and identify the whiteface c
 
 ---
 
-**C-8790** Host says she never explicitly claimed Erika murdered Charlie, only that she lied
+**C-8790** Viewer Comment Says Host Never Explicitly Claimed Erika Murdered Charlie
 
 Claim Timestamp: 00:48:26
 
-Claim: The host reads a viewer post that she never explicitly claimed Erika murdered her husband and only accused her of lying, and says her repeated accusation is that Erika lies.
+Claim: A viewer comment the host reads says Candace Owens never once made the explicit claim that Erika murdered her husband and only accused her of being a liar and a fraud; the host adds that her repeated accusation is that Erika lies.
 
 Transcript Snippet: Candace Owens never once made the explicit claim that you murdered your husband. All she has accused you of is being a liar and a fraud.
 
@@ -1960,7 +1960,7 @@ Investigative Direction: Event photos of Erika Kirk and Kash Patel at the WHCD a
 
 Claim Timestamp: 00:56:41
 
-Claim: The host says Erika Kirk told her the surgeon went rogue and Andrew Kolvet went rogue and that she was not part of the conversation, and calls that a big lie.
+Claim: The host says Erika Kirk claimed the surgeon went rogue and Andrew Kolvet went rogue and that she was not part of the conversation, and calls that a big lie.
 
 Transcript Snippet: The surgeon went rogue. Andrew Kolvet went rogue. I wasn't a part of the conversation. You lied about that, Erika.
 
@@ -1999,23 +1999,23 @@ Claim: In a clip of his show played by the host, Baron Coleman says no religious
 Transcript Snippet: There's no requirement I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods.
 
 Anchored Artifacts: A-2962.1
-Mentions: N-331, N-2, N-14, N-160
+Mentions: N-331, N-2
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Obtain the Coleman clip and the list of falsehoods he regards as documented.
 
 ---
 
-**C-8805** Host says Blake Neff's and Kolvet's explanations differ
+**C-8805** Baron Coleman Says Neff and Kolvet Gave Different Excuses
 
 Claim Timestamp: 00:59:17
 
-Claim: The host says TPUSA figures cannot get on board with the same messaging, noting Blake Neff already gave a different excuse from Andrew Kolvet's.
+Claim: In a clip the host plays, Baron Coleman says TPUSA figures cannot get on board with the same messaging, noting Blake Neff already gave a different excuse from Andrew Kolvet's.
 
 Transcript Snippet: you can't get on board with the same messaging. Blake Neff already gave a different excuse.
 
 Anchored Artifacts: A-2966.1
-Mentions: N-160, N-14, N-3
+Mentions: N-331, N-160, N-14
 Related Nodes: N-10647
 Supports: C-8791
 Tags: relevance:core
@@ -2027,7 +2027,7 @@ Investigative Direction: Compare Neff's and Kolvet's posts side by side.
 
 Claim Timestamp: 01:01:47
 
-Claim: The host says Erika Kirk claimed she was not on the phone during the three-way call involving the surgeon when she was, and that she facilitated the whole conversation, and that blame was placed on Dr. Lee Trotter.
+Claim: The host says Erika Kirk claimed she was not on the phone when she was, and that she facilitated the whole conversation involving the surgeon, and that blame was placed on Dr. Lee Trotter.
 
 Transcript Snippet: to claim that you weren't on the phone when you were, and you facilitated that entire conversation.
 
@@ -2204,7 +2204,7 @@ Claim: The host reads a viewer comment saying Corby Hall, though broke, turned d
 Transcript Snippet: he gets an offer to sell 50,000 guns and he turns it down on principle.
 
 Anchored Artifacts: A-2014.1
-Mentions: N-343, N-342
+Mentions: N-343
 Related Nodes: N-10601
 Tags: relevance:context
 Investigative Direction: The Corby Hall episode and any correspondence about the 50,000-gun offer.
@@ -2247,13 +2247,13 @@ Investigative Direction: Host's confirmation records.
 
 Claim Timestamp: 01:14:42
 
-Claim: The host says she did not meet the Pope and only toured the Vatican with her children.
+Claim: The host says she did not meet the Pope; she did some tours around the Vatican with her children on what she calls a normal family vacation.
 
 Transcript Snippet: I did not meet the Pope.
 
 Anchored Artifacts:
 Mentions: N-3, N-421
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Public schedule of Pope Leo XIV audiences versus the host's travel dates.
 
 ---
@@ -2270,9 +2270,9 @@ Investigative Direction: Public schedule of Pope Leo XIV audiences versus the ho
    - Claim B: Candace publicly announced (A-2013.2) her upcoming Catholic confirmation in March 2026, and viewer comments (A-2014.1) corroborate family travel to Rome for confirmation.
    - Both cannot comfortably coexist without clarification of the actual Rome itinerary and attendees.
 
-3. **Erika's Criticism of Journalists Filming vs. Taro Farnsworth's Recording**
+3. **Erika's Criticism of Journalists Filming vs. Terryl Farnsworth's Recording**
    - Claim A: Erika Kirk stated (A-2009.2) that journalists filming during an active shooting situation was inappropriate.
-   - Claim B: Taro Farnsworth recorded himself on video (A-2010.1) at the Charlie Kirk shooting scene within seconds, including footage of the immediate aftermath.
+   - Claim B: Terryl Farnsworth recorded himself on video (A-2010.1) at the Charlie Kirk shooting scene within seconds, including footage of the immediate aftermath.
    - Both cannot comfortably coexist without clarification of the differing standards applied to her team's filming vs. journalists' filming.
 
 ---

@@ -1932,7 +1932,7 @@
       "@id": "C-3964",
       "ref": "C-3964",
       "label": "DIA: the 10K bounty produced direct tips on who recorded the video",
-      "claim": "The host says the 10K bounty, which sought proof of who recorded the video, brought in several direct tips from people wanting to collect it.",
+      "claim": "The host says the 10K bounty, which sought proof of who recorded the video, brought in a couple of very interesting direct tips from people keen to collect it.",
       "anchored_artifacts": [
         "A-2556.3"
       ],
@@ -2089,8 +2089,7 @@
       "investigative_direction": "Archive Fine's post with its timestamp relative to the shooting.",
       "transcript_snippet": "We'd better never again hear a peep from anyone complaining about a White House ballroom, huh?",
       "mentions_person_refs": [
-        "N-223",
-        "N-5"
+        "N-223"
       ]
     },
     {
@@ -2222,7 +2221,7 @@
       "@id": "C-3978",
       "ref": "C-3978",
       "label": "Massie says at least 95% of the money against him came from the Israeli lobby",
-      "claim": "Thomas Massie says at least 95% of the money spent against him came from billionaires and the Israeli lobby. He names the RJC, AIPAC, Miriam Adelson, Paul Singer and John Paulson.",
+      "claim": "Thomas Massie says the money spent against him came from billionaires, and at least 95% of it from the Israeli lobby. He names the RJC, AIPAC, Miriam Adelson, Paul Singer and John Paulson.",
       "anchored_artifacts": [
         "A-2562.1"
       ],
@@ -2239,7 +2238,9 @@
       "transcript_snippet": "it 95% of it, at least 95% has come from the Israeli lobby.",
       "mentions_person_refs": [
         "N-582",
-        "N-299"
+        "N-299",
+        "N-611",
+        "N-612"
       ]
     },
     {
@@ -2330,7 +2331,7 @@
       "@id": "C-3983",
       "ref": "C-3983",
       "label": "Dennis Prager wrote publicly about the host and then fell down the stairs",
-      "claim": "The host says Kolvet was referring to Dennis Prager, who she says wrote publicly about her and then fell down the stairs.",
+      "claim": "The host says Kolvet was talking, she thinks specifically, about Dennis Prager, who she says wrote publicly about her and then fell down the stairs.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2348,7 +2349,7 @@
       "@id": "C-3984",
       "ref": "C-3984",
       "label": "David Horowitz wrote a piece about the host and died shortly after",
-      "claim": "The host says David Horowitz wrote a large piece about her and died shortly afterwards. She notes that one of her first events was for his Freedom Center.",
+      "claim": "The host says she believes David Horowitz wrote a large piece about her and died shortly afterwards. She notes that one of her first events was for his Freedom Center.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2681,7 +2682,7 @@
       "@id": "C-4001",
       "ref": "C-4001",
       "label": "Charlie Kirk was skilled at mimicking voices",
-      "claim": "The host says Charlie Kirk was very good at mimicking voices and could \"do anyone's voice,\" a talent he told her he practiced from a young age.",
+      "claim": "The host says Charlie Kirk was very good at mimicking voices and could \"do anyone's voice\". She says he told her he was always practicing voices, which she thinks dates from when he was young.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10664"

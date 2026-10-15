@@ -23,7 +23,7 @@
 
 The host expands on the theory that Charlie Kirk was killed by an explosive shaped charge hidden in his clip-on Rode wireless microphone. She credits Don Porter, a friend of Corey Comperatore, for the leads behind her previous Butler episode, and says the microphone theory was first put forward by an X user she names as Jon Bray. Using a mashup of Charlie Kirk's 2024 events (A-2668.1), she says he used a single handheld microphone until the fall 2024 You're Being Brainwashed tour, when a clipped wireless mic held by a magnetic clip was added (A-2668.2). She lists what she calls supporting evidence: bomb dogs were on scene but were not brought to where Charlie Kirk sat; contractors were called on a Sunday to pave over the scene by Monday, which a contractor says the governor and the FBI wanted (A-2669); a YouTuber's 20 g PETN test left a hole about the size of a .30-06 round (A-2670.1); and shards appear in photos of the transport SUV (A-2671.1), which Jon Bray says are ABS plastic from the microphone.
 
-The host also revisits points she says undermine the case against Tyler Robinson and the conduct of the Turning Point USA team. These include five other sets of prints on the rifle, no gunshot residue test, Terrell Farnsworth removing the SD card from the camera behind Charlie Kirk's head, and Mikey McCoy and Blake Neff calling family rather than 911. She contrasts a Jack Hibbs interview with Frank Turek (A-2672.1) against Turek's account to Megyn Kelly that his FaceTime call stayed open until he reached the hotel (A-2672.2). She says Kash Patel had the hospital footage taken, and that no one at TPUSA has confirmed seeing the live stream TPUSA said it was sending to its office. She asks for tips about the October 10 explosion at Accurate Energetic Systems in Hickman County, Tennessee, which she says some believe could be where a device was assembled (A-2673.1).
+The host also revisits points she says undermine the case against Tyler Robinson and the conduct of the Turning Point USA team. These include five other sets of prints on the rifle, no gunshot residue test, Terryl Farnsworth removing the SD card from the camera behind Charlie Kirk's head, and Mikey McCoy and Blake Neff calling family rather than 911. She contrasts a Jack Hibbs interview with Frank Turek (A-2672.1) against Turek's account to Megyn Kelly that his FaceTime call stayed open until he reached the hotel (A-2672.2). She says Kash Patel had the hospital footage taken, and that no one at TPUSA has confirmed seeing the live stream TPUSA said it was sending to its office. She asks for tips about the October 10 explosion at Accurate Energetic Systems in Hickman County, Tennessee, which she says some believe could be where a device was assembled (A-2673.1).
 
 In the second segment, the host recounts a public exchange on X with the FBI's account (A-2674). The exchange followed her post that the FBI called her FOIA request for Kash Patel's three-day pre-assassination travel itinerary too burdensome. The account replied that she had misquoted it and that calling the request "denied" was "a lie for clickbait." She also says a FOIA request for emails naming Erika Kirk after the White House Correspondents' Dinner shooting was called too burdensome, and she points to the Department of Justice's Epstein binders event as clickbait of its own.
 
@@ -284,7 +284,7 @@ Assassination victim; the host theorizes that his clip-on wireless microphone wa
 
 **N-2** Erika Kirk
 
-Named for her conversation with Terrell Farnsworth about the back footage, her Zoom call remarks, her belief that Tyler Robinson acted alone, and the FOIA request for emails naming her.
+Named for her conversation with Terryl Farnsworth about the back footage, her Zoom call remarks, her belief that Tyler Robinson acted alone, and the FOIA request for emails naming her.
 
 *Related: C-4606, C-4607, C-4618, C-4619, C-4620, C-4625, C-4636, C-4637, C-4649, A-2676.2*
 
@@ -378,9 +378,9 @@ Host says TPUSA suggested he passed her the leaked messages.
 
 *Related: C-4617*
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
-Transcript spellings "Terrell", "Taral" and "Terrell Farnsworth". Removed the SD card from the camera behind Charlie Kirk's head; seen in the background of Erika Kirk's Zoom call.
+Transcript spellings "Terryl", "Taral" and "Terryl Farnsworth". Removed the SD card from the camera behind Charlie Kirk's head; seen in the background of Erika Kirk's Zoom call.
 
 *Related: C-4606, C-4607, C-4611, C-4612, C-4631*
 
@@ -492,7 +492,7 @@ Mikey McCoy calling his wife rather than Erika Kirk or 911.
 
 *Related: C-4625*
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
 The SD card removal from the camera behind Charlie Kirk's head and the zoomed footage.
 
@@ -618,15 +618,15 @@ Central theory of the episode.
 
 *Related: C-4594, C-4596, C-4597, C-4598, C-4609, C-4610, C-4648, C-4650, A-2668.1, A-2668.2, A-2670.1, A-2676.1*
 
-**N-10808** Terrell SD Card-to-Laptop Transfer Sequence
+**N-10808** Terryl SD Card-to-Laptop Transfer Sequence
 
-Host says Terrell Farnsworth was instructed to take the SD card.
+Host says Terryl Farnsworth was instructed to take the SD card.
 
 *Related: C-4611*
 
-**N-10812** Terrell Farnsworth Evidence-Handling Question
+**N-10812** Terryl Farnsworth Evidence-Handling Question
 
-Terrell Farnsworth's early conversation with Erika Kirk about the back footage.
+Terryl Farnsworth's early conversation with Erika Kirk about the back footage.
 
 *Related: C-4606*
 
@@ -652,7 +652,7 @@ Federal department the host says accused her of clickbait through the FBI's rapi
 **N-10985** September 10 UVU Event Live Stream to TPUSA Office Verification
 
 Node Type: Topic
-Investigation target: whether the September 10 UVU event was actually being live streamed back to the Turning Point USA office, as Terrell Farnsworth told the host. The host says no one at TPUSA has confirmed watching that live stream.
+Investigation target: whether the September 10 UVU event was actually being live streamed back to the Turning Point USA office, as Terryl Farnsworth told the host. The host says no one at TPUSA has confirmed watching that live stream.
 
 *Related: C-4631, N-262, N-10000*
 
@@ -891,28 +891,28 @@ Investigative Direction: Obtain the medical examiner's report and independent ba
 
 ---
 
-**C-4606** Terrell Farnsworth says he spoke to Erika Kirk about the back footage
+**C-4606** Terryl Farnsworth says he spoke to Erika Kirk about the back footage
 
 Claim Timestamp: 00:21:11
 
-Claim: The host says Terrell Farnsworth told her that he spoke to Erika Kirk about the footage from behind Charlie Kirk's head in the early days after the assassination.
+Claim: The host says Terryl Farnsworth told her that he spoke to Erika Kirk about the footage from behind Charlie Kirk's head in the early days after the assassination.
 
-Transcript Snippet: it is now very compelling to me that Terrell says he spoke to Erika about that footage.
+Transcript Snippet: it is now very compelling to me that Terryl says he spoke to Erika about that footage.
 
 Anchored Artifacts:
 Mentions: N-262, N-2, N-1
 Related Nodes: N-10812
-Investigative Direction: Obtain Terrell Farnsworth's statements on when and with whom he discussed the footage.
+Investigative Direction: Obtain Terryl Farnsworth's statements on when and with whom he discussed the footage.
 
 ---
 
-**C-4607** Terrell Farnsworth is in the background of Erika Kirk's Zoom call six days after
+**C-4607** Terryl Farnsworth is in the background of Erika Kirk's Zoom call six days after
 
 Claim Timestamp: 00:21:11
 
-Claim: The host says Terrell Farnsworth is standing in the back of the Zoom video recorded at the TPUSA building six days after the assassination, in which Erika Kirk laughs at the emojis.
+Claim: The host says Terryl Farnsworth is standing in the back of the Zoom video recorded at the TPUSA building six days after the assassination, in which Erika Kirk laughs at the emojis.
 
-Transcript Snippet: Erika is laughing at the emojis 6 days after the assassination, if you didn't note, Terrell is standing in the back.
+Transcript Snippet: Erika is laughing at the emojis 6 days after the assassination, if you didn't note, Terryl is standing in the back.
 
 Anchored Artifacts:
 Mentions: N-262, N-2, N-1
@@ -967,13 +967,13 @@ Investigative Direction: Compare published NIJ level ratings for .30-06 penetrat
 
 ---
 
-**C-4611** Terrell Farnsworth was instructed to take the SD card from the back camera
+**C-4611** Terryl Farnsworth was instructed to take the SD card from the back camera
 
 Claim Timestamp: 00:24:11
 
-Claim: The host says Terrell Farnsworth was specifically instructed to take the SD card from the camera behind Charlie Kirk's head, which she says was the only angle that would have shown he did not die from a .30-06 wound.
+Claim: The host says Terryl Farnsworth was specifically instructed to take the SD card from the camera behind Charlie Kirk's head, which she says was the only angle that would have shown he did not die from a .30-06 wound.
 
-Transcript Snippet: why Terrell Farnsworth was instructed specifically to take the SD card from the camera that was behind Charlie's head
+Transcript Snippet: why Terryl Farnsworth was instructed specifically to take the SD card from the camera that was behind Charlie's head
 
 Anchored Artifacts:
 Mentions: N-262, N-1
@@ -986,7 +986,7 @@ Investigative Direction: Establish who instructed the SD card removal and its ch
 
 Claim Timestamp: 00:24:11
 
-Claim: The host agrees with viewers that Terrell Farnsworth zoomed in on the footage he showed her, which she says would otherwise have shown more.
+Claim: The host agrees with viewers that Terryl Farnsworth zoomed in on the footage he showed her, which she says would otherwise have shown more.
 
 Transcript Snippet: I think you are correct that he zoomed in on that that footage because it would have showed us more.
 
@@ -1273,7 +1273,7 @@ Investigative Direction: Obtain FBI evidence logs for the Timpanogos Hospital fo
 
 Claim Timestamp: 00:39:31
 
-Claim: The host says Terrell Farnsworth told her TPUSA was live streaming the event back to the office, but no one she has asked at TPUSA has confirmed watching it.
+Claim: The host says Terryl Farnsworth told her TPUSA was live streaming the event back to the office, but no one she has asked at TPUSA has confirmed watching it.
 
 Transcript Snippet: I've asked people at Turning Point USA, "Do you remember seeing this live stream?" Thus far, no one has confirmed watching this live stream at the office.
 
@@ -1832,7 +1832,7 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2673.1 (tip request, nothing shown). The host also refers without showing anything to Erika Kirk's Bari Weiss interview, the September 16 TPUSA Zoom call, Kash Patel's FOIA response letter (she says it was shown on the prior day's show) and the Epstein-binders tweet ("I don't know if you have my tweet"). A-2674.6 is logged at Medium because it is unclear whether the photo was put on screen.
 - **DIA beats**: one real beat (44:47, tips@candaceowens.com for the Hickman County explosion, repeated as "More tips@candaceowens. com" in the same paragraph); it is logged as C-4634, A-2673.1 and M-12. At 01:03:56 the host thanks Evie for "a massive uh tip," which is about her hairstyle, not a DIA beat. No bounty and no CIA merch phrase aired, so M-14 is not used.
-- **Name matching**: "Jon Bray" (03:00), "John Braden" (08:07) and "John Blake" (25:01, 26:45) are treated as one new person, N-684 Jon Bray, because the context (X user, mic theory, SUV photos) is the same. The correct spelling is unverified. "Terrell", "Taral" and "Terrell Farnsworth" are mapped to N-262. "Frank Turek" (25:46) is mapped to N-7 Frank Turek. "Zachariah Qureshi" and "Sam Qureshi" are mapped to N-411 Zachariah Qureshi; the host corrects herself to Zachariah on air. "Blake" at 30:41 is taken as Blake Neff. "The governor" in the contractor clip is presumably Spencer Cox, but he is not named, so he is not mentioned. "Ashley" in the control room (03:00, 01:03:02) is a staff member and is not minted.
+- **Name matching**: "Jon Bray" (03:00), "John Braden" (08:07) and "John Blake" (25:01, 26:45) are treated as one new person, N-684 Jon Bray, because the context (X user, mic theory, SUV photos) is the same. The correct spelling is unverified. "Terryl", "Taral" and "Terryl Farnsworth" are mapped to N-262. "Frank Turek" (25:46) is mapped to N-7 Frank Turek. "Zachariah Qureshi" and "Sam Qureshi" are mapped to N-411 Zachariah Qureshi; the host corrects herself to Zachariah on air. "Blake" at 30:41 is taken as Blake Neff. "The governor" in the contractor clip is presumably Spencer Cox, but he is not named, so he is not mentioned. "Ashley" in the control room (03:00, 01:03:02) is a staff member and is not minted.
 - **Possible duplicate topic**: N-10923 reuses the staging title WHCD "Emotional Asset" Email Verification (episode 106). Other staging drafts use "White House Military Office Erika Kirk Amplification Email" for what may be the same email; the integrator may want to merge them.
 - **Transcription ambiguities**: "Rode"/"road mic"/"road bike" (the Rode wireless microphone), "PTN" (PETN), "ex-user" (X user), "Hampton Summit" (Hamptons) and "Built" (Built Inc.). Snippets keep "the.30-06" without a space, as the transcript has it.
 - **Cross-episode links left out**: C-1235 (episode 7, UVU repaved within about 48 hours) conflicts on timing with the contractor's Sunday account, but it is not clearly the same proposition, so it is not linked. C-1366 (SD card removal on law-enforcement instruction) may relate to C-4611, but the source of the instruction differs, so it is left unlinked.

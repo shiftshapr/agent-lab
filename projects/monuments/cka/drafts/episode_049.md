@@ -413,7 +413,7 @@ Floated by the host as one possible person Mitch was kept from seeing.
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
 Named by the host for removing the camera behind Charlie Kirk's head.
 
@@ -501,9 +501,9 @@ Reused for the Candlewood hotel stay and lobby encounter.
 
 ---
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
-Reused for Terrell Farnsworth's camera removal.
+Reused for Terryl Farnsworth's camera removal.
 
 *Related: C-5283, C-5284*
 
@@ -904,13 +904,13 @@ Investigative Direction: Ask the investigating agencies whether any scent-trail 
 
 ---
 
-**C-5283** Terrell Farnsworth raced to remove the camera behind Charlie's head
+**C-5283** Terryl Farnsworth raced to remove the camera behind Charlie's head
 
 Claim Timestamp: 00:05:57
 
-Claim: The host says Terrell Farnsworth raced to remove the camera that was directly behind Charlie Kirk's head, and that major question marks remain about it.
+Claim: The host says Terryl Farnsworth raced to remove the camera that was directly behind Charlie Kirk's head, and that major question marks remain about it.
 
-Transcript Snippet: Terrell Farnsworth, still major question marks. He raced to remove the camera that was directly behind Charlie's head.
+Transcript Snippet: Terryl Farnsworth, still major question marks. He raced to remove the camera that was directly behind Charlie's head.
 
 Anchored Artifacts: 
 Mentions: N-262, N-1

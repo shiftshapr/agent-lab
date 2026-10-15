@@ -458,9 +458,9 @@ Butch Hibbs; subject of the UVU footage and presence claims.
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
-Terrell Farnsworth; the host restates his selfie video and SD card handling.
+Terryl Farnsworth; the host restates his selfie video and SD card handling.
 
 *Related: C-7638, C-7639*
 
@@ -754,7 +754,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11070** Terrell Selfie Video Metadata Timeline
+**N-11070** Terryl Selfie Video Metadata Timeline
 
 Existing topic reused for new claims in this episode.
 
@@ -1650,28 +1650,28 @@ Investigative Direction: Ask Calvary Chapel leaders whether a group call occurre
 
 ---
 
-**C-7638** Host Says Terrell Recorded a Selfie Video Instead of Calling 911
+**C-7638** Host Says Terryl Recorded a Selfie Video Instead of Calling 911
 
 Claim Timestamp: 00:20:14
 
-Claim: The host says Terrell prematurely announced Charlie's death to himself and chose to record a selfie video rather than call 911.
+Claim: The host says Terryl prematurely announced Charlie's death to himself and chose to record a selfie video rather than call 911.
 
-Transcript Snippet: Terrell prematurely announcing Charlie's death to himself. He chose to record himself rather than to call 911. Selfie vid.
+Transcript Snippet: Terryl prematurely announcing Charlie's death to himself. He chose to record himself rather than to call 911. Selfie vid.
 
 Anchored Artifacts: 
 Mentions: N-262, N-1
 Related Nodes: N-11070
 Supports: C-3829, C-6100
 Tags: relevance:core
-Investigative Direction: Obtain the selfie video with metadata and the 911 call log to confirm Terrell's call history.
+Investigative Direction: Obtain the selfie video with metadata and the 911 call log to confirm Terryl's call history.
 
 ---
 
-**C-7639** Host Says Terrell Removed SD Cards and Put One Into His Computer After the Selfie
+**C-7639** Host Says Terryl Removed SD Cards and Put One Into His Computer After the Selfie
 
 Claim Timestamp: 00:20:14
 
-Claim: The host says that after the selfie video Terrell jumped down, was not crying, started removing SD cards and put an SD card into his computer.
+Claim: The host says that after the selfie video Terryl jumped down, was not crying, started removing SD cards and put an SD card into his computer.
 
 Transcript Snippet: starts removing SD cards and seemingly plausibly toying around with the footage, sticking the SD card into his computer, looking around, looking shady, and getting to work.
 
@@ -1680,7 +1680,7 @@ Mentions: N-262
 Related Nodes: N-11070
 Supports: C-3303
 Tags: relevance:core
-Investigative Direction: Seek the original SD card and a forensic image of Terrell's laptop to see whether files were accessed.
+Investigative Direction: Seek the original SD card and a forensic image of Terryl's laptop to see whether files were accessed.
 
 ---
 

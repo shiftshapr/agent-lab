@@ -629,7 +629,7 @@ Reused for the Hamptons items.
 
 ---
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
 Reused for the police instruction lie.
 
@@ -812,7 +812,7 @@ Transcribed Allie Beth Stuckey; mentioned among critics who tried to debunk the 
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
 The AV staffer in the camera and SD card items.
 
@@ -1394,13 +1394,13 @@ Investigative Direction: Compare Rob McCoy's account with Mikey McCoy's phone ca
 
 ---
 
-**C-9714** Host Says Terrell Was Not Told by Police to Remove Cameras and Blames Bowyer
+**C-9714** Host Says Terryl Was Not Told by Police to Remove Cameras and Blames Bowyer
 
 Claim Timestamp: 00:16:32
 
-Claim: The host says it is not true that Terrell, the AV staffer, was told by police to remove the cameras, says she has every second of his movements, and names Tyler Bowyer as the offender.
+Claim: The host says it is not true that Terryl, the AV staffer, was told by police to remove the cameras, says she has every second of his movements, and names Tyler Bowyer as the offender.
 
-Transcript Snippet: Terrell, the AV guy, uh, was told to remove the cameras by police. That's not true. I have every second of his moves.
+Transcript Snippet: Terryl, the AV guy, uh, was told to remove the cameras by police. That's not true. I have every second of his moves.
 
 Anchored Artifacts: 
 Mentions: N-262, N-11, N-3
@@ -1411,13 +1411,13 @@ Investigative Direction: Obtain police body-camera or CAD records showing whethe
 
 ---
 
-**C-9715** Host Rebuts Kolvet's Account That Terrell Moved SD Cards Because People Were Stealing Hats
+**C-9715** Host Rebuts Kolvet's Account That Terryl Moved SD Cards Because People Were Stealing Hats
 
 Claim Timestamp: 00:16:32
 
-Claim: The host says Andrew Kolvet's explanation that Terrell moved the SD cards because people were stealing hats does not make sense, because expensive cameras rather than cheap SD cards would be the theft target.
+Claim: The host says Andrew Kolvet's explanation that Terryl moved the SD cards because people were stealing hats does not make sense, because expensive cameras rather than cheap SD cards would be the theft target.
 
-Transcript Snippet: Terrell moved the SD cards because people were stealing hats. Andrew Kolvet, what if you were scared about people stealing?
+Transcript Snippet: Terryl moved the SD cards because people were stealing hats. Andrew Kolvet, what if you were scared about people stealing?
 
 Anchored Artifacts: 
 Mentions: N-262, N-14

@@ -222,7 +222,7 @@ If you were in in room you had no way of knowing what the status of the shooter 
 
 [42:56]
 
-Anybody in the chat want to tell her what's ironic about that statement? Anybody remember Taro Farnsworth? And when we said that was weird, they said it wasn't weird, and now Erika is basically going, "Who would record themselves in an active shooting?" This is Taro Farnsworth, doesn't know how many shooters there are, doesn't know what's going on. Seconds. This is not even a minute after Charlie hits the ground, and he's behind him, and he recorded himself. Take a listen. They just shot Charlie.
+Anybody in the chat want to tell her what's ironic about that statement? Anybody remember Terryl Farnsworth? And when we said that was weird, they said it wasn't weird, and now Erika is basically going, "Who would record themselves in an active shooting?" This is Terryl Farnsworth, doesn't know how many shooters there are, doesn't know what's going on. Seconds. This is not even a minute after Charlie hits the ground, and he's behind him, and he recorded himself. Take a listen. They just shot Charlie.
 
 [43:54]
 

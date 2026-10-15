@@ -156,7 +156,7 @@ And according to Charlie, he felt that he was being morally blackmailed at Bill 
 
 [27:24]
 
-I am told specifically by Turning Point employees that the money was missing out of Turning Point Action. That is Tyler's arm, and yes, it may or may not be relevant that Tyler is sitting on the board of a company with Erika's mother, Laura Lori Fronsway, who had those relationships with the Mormons, like Terrell Farnsworth, before Charlie knew who Lori Fronsway and Erika Fronsway were. We are told that Charlie and Erika had an appointment to change his will, which was scheduled for the Monday after he died. He never made it to that Monday. He never made it to that appointment. He's then murdered in Utah. And then his wife assumes the reins of the company. The audit is magically canceled. Turning Point becomes virtually unrecognizable.
+I am told specifically by Turning Point employees that the money was missing out of Turning Point Action. That is Tyler's arm, and yes, it may or may not be relevant that Tyler is sitting on the board of a company with Erika's mother, Laura Lori Fronsway, who had those relationships with the Mormons, like Terryl Farnsworth, before Charlie knew who Lori Fronsway and Erika Fronsway were. We are told that Charlie and Erika had an appointment to change his will, which was scheduled for the Monday after he died. He never made it to that Monday. He never made it to that appointment. He's then murdered in Utah. And then his wife assumes the reins of the company. The audit is magically canceled. Turning Point becomes virtually unrecognizable.
 
 [28:19]
 

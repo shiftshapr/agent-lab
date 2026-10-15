@@ -28,7 +28,7 @@ This episode focuses on three evidentiary threads. First, viewer-sourced analysi
 
 The episode also includes discussion of Frank Turek's stated change into scrubs, blood-mustle in the backseat photos, a viewer email from a source described as high-ranking in a police department regarding DA authorization for releasing evidence to Erika Kirk, and additional commentary on the dissociative identity disorder (DID) theory applied to Erika Kirk, citing NHS website text. The episode advances the investigative questions of whether Charlie's shirt was cut in the car rather than in the ER, whether explosive residue evidence was destroyed through the disposal of clothing, and how various attendees ended up in scrubs.
 
-Structurally, this is an evidentiary accumulation episode: it cross-examines Brian Harpole's story using viewer-sourced medical expert comments, car interior photos, and Terrell Farnsworth footage. It also serves as a venue for discussing the Daily Wire's financial decline as a secondary topic with no direct connection to the Kirk case.
+Structurally, this is an evidentiary accumulation episode: it cross-examines Brian Harpole's story using viewer-sourced medical expert comments, car interior photos, and Terryl Farnsworth footage. It also serves as a venue for discussing the Daily Wire's financial decline as a secondary topic with no direct connection to the Kirk case.
 
 ---
 
@@ -324,9 +324,9 @@ Confidence Level: Low
 
 *Related: N-10690*
 
-**A-2103** Terrell Farnsworth Video Bundle
+**A-2103** Terryl Farnsworth Video Bundle
 
-**A-2103.1** Terrell Farnsworth video showing Frank Turek entering SUV through trunk
+**A-2103.1** Terryl Farnsworth video showing Frank Turek entering SUV through trunk
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -677,9 +677,9 @@ Brett Cooper; former Daily Wire host.
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
-Terrell Farnsworth; camera removal and the Erika-relive explanation.
+Terryl Farnsworth; camera removal and the Erika-relive explanation.
 
 *Related: C-13074, C-13086*
 
@@ -773,7 +773,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
 Existing node reused for new claims in this episode.
 
@@ -1041,16 +1041,16 @@ Mentions: N-7
 Related Nodes: N-10688
 Investigative Direction: Locate any recording where Frank Turek directly states disposal; cross-reference with hospital chain-of-custody records for patient-adjacent personal property.
 
-**C-2954** Host Says Terrell Farnsworth Video Shows Frank Turek Entering SUV Through Trunk
+**C-2954** Host Says Terryl Farnsworth Video Shows Frank Turek Entering SUV Through Trunk
 
 Claim Timestamp: 00:19:32–00:20:25
 
-Claim: The host says a video credited to Terrell Farnsworth, which she plays, shows Frank Turek entering the SUV via the trunk rather than through a passenger door after Charlie was shot.
+Claim: The host says a video credited to Terryl Farnsworth, which she plays, shows Frank Turek entering the SUV via the trunk rather than through a passenger door after Charlie was shot.
 
 Anchored Artifacts: A-2103.1
 Mentions: N-7, N-262
 Related Nodes: N-10685
-Investigative Direction: Obtain the original unedited Terrell Farnsworth video; preserve metadata for chain-of-custody purposes.
+Investigative Direction: Obtain the original unedited Terryl Farnsworth video; preserve metadata for chain-of-custody purposes.
 
 **C-2955** Car Backseat Photos Show Blood Wipe Marks on Leather
 
@@ -1695,9 +1695,9 @@ Investigative Direction: Compare with flight logs for the plane sent to Erika an
 
 Claim Timestamp: 00:29:18
 
-Claim: The host says Terrell Farnsworth told her he took the cameras out because he did not want Erika to relive Charlie dying, and that she asked why specifically the back cameras given the footage is online.
+Claim: The host says Terryl Farnsworth told her he took the cameras out because he did not want Erika to relive Charlie dying, and that she asked why specifically the back cameras given the footage is online.
 
-Transcript Snippet: "I didn't want Erika to relive Charlie dying." I said, "Terrell, Terrell, what do you mean? It's all over the internet."
+Transcript Snippet: "I didn't want Erika to relive Charlie dying." I said, "Terryl, Terryl, what do you mean? It's all over the internet."
 
 Anchored Artifacts: 
 Mentions: N-262, N-2, N-3

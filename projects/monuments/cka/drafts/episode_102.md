@@ -968,7 +968,7 @@ Investigative Direction: Identify the specific donors by name; obtain written or
 
 Claim Timestamp: 00:05:53
 
-Claim: The audio clip released by Turning Point USA contains Charlie Kirk stating three times "I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job."
+Claim: In the audio clip the host plays, which she says Turning Point USA shared, a voice presented as Charlie Kirk's says three times "I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job."
 
 Anchored Artifacts: A-2066.1
 Mentions: N-1
@@ -986,7 +986,7 @@ Claim Timestamp: 00:07:32
 Claim: Per a source who came forward, Turning Point USA employee Marcus Wada offers AI voice generation services for TPUSA presentations.
 
 Anchored Artifacts: A-2068.1
-Mentions: N-432, N-425
+Mentions: N-425
 
 Related Nodes: N-10664
 
@@ -998,7 +998,7 @@ Investigative Direction: Verify Wada's TPUSA employment and the scope of his AI 
 
 Claim Timestamp: 00:07:32
 
-Claim: Per the source, Turning Point USA presentations typically feature AI-generated voice-over using Pastor John Amanchukwu's voice (described as with his permission).
+Claim: Per the source, Turning Point USA presentations typically feature AI-generated voice-over using Pastor John Amanchukwu's voice. The host says she is sure it is done with his permission.
 
 Anchored Artifacts: A-2068.2
 Mentions: N-432
@@ -1028,7 +1028,7 @@ Investigative Direction: Verify Mappin's original X post and identify the donor 
 
 Claim Timestamp: 00:09:42
 
-Claim: Kimberly Klacik publicly argued on X that since the TPUSA board elected Erika Kirk as CEO and no donors had publicly questioned the decision, the authenticity of the audio does not matter.
+Claim: Kimberly Klacik publicly asked on X, if the TPUSA board elected Erika Kirk as CEO and none of the donors had come forward questioning the decision, why the authenticity of the audio matters.
 
 Anchored Artifacts: A-2067.1
 Mentions: N-2, N-433

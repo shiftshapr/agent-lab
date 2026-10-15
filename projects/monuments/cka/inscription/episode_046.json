@@ -931,7 +931,7 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
       "related_artifacts": [],
@@ -1606,7 +1606,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10346",
       "ref": "N-10346",
-      "name": "Terrell Farnsworth Camera Removal Justification",
+      "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Existing topic reused.",
       "related_artifacts": [],
@@ -2060,7 +2060,7 @@
       "@id": "C-3757",
       "ref": "C-3757",
       "label": "Host lists statements she calls lies on the SD card removal, Charlie's DOGE and drones",
-      "claim": "The host lists statements she calls lies: that Terrell Farnsworth was told by police to remove the SD card (she says Farnsworth told her otherwise); that it was not unusual for Charlie Kirk to set up a DOGE; and that Charlie Kirk's team did not fly drones, a lie she attributes to Brian Harpole, along with his statement that security secured the rooftops with UVU police.",
+      "claim": "The host lists statements she calls lies: that Terryl Farnsworth was told by police to remove the SD card (she says Farnsworth told her otherwise); that it was not unusual for Charlie Kirk to set up a DOGE; and that Charlie Kirk's team did not fly drones, a lie she attributes to Brian Harpole, along with his statement that security secured the rooftops with UVU police.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -2432,7 +2432,7 @@
       "@id": "C-6692",
       "ref": "C-6692",
       "label": "Host Says Farnsworth Told Her the Police Did Not Tell Him to Remove the SD Card",
-      "claim": "The host says Terrell Farnsworth personally told her it was not true that police told him to remove the SD card, and that the account that he removed it because people were stealing hats is not what he told her.",
+      "claim": "The host says Terryl Farnsworth personally told her it was not true that police told him to remove the SD card, and that the account that he removed it because people were stealing hats is not what he told her.",
       "anchored_artifacts": [
         "A-2831.1"
       ],
@@ -2445,8 +2445,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:11:47",
-      "investigative_direction": "Obtain Terrell Farnsworth's own account on record and police statements on the SD card removal.",
-      "transcript_snippet": "Taro Farnsworth personally told me that that was not true. Taro removed the SD cards because people were stealing hats.",
+      "investigative_direction": "Obtain Terryl Farnsworth's own account on record and police statements on the SD card removal.",
+      "transcript_snippet": "Terryl Farnsworth personally told me that that was not true. Taro removed the SD cards because people were stealing hats.",
       "supports_claim_refs": [
         "C-3757"
       ],

@@ -402,7 +402,7 @@
           "@type": "Artifact",
           "@id": "A-1424.1",
           "ref": "A-1424.1",
-          "description": "Host's verbal account that Terrell Farnsworth attended the UVU campus event on September 10 (described as unusual because he typically handles larger TPUSA events), and that he secured the SD cards afterward",
+          "description": "Host's verbal account that Terryl Farnsworth attended the UVU campus event on September 10 (described as unusual because he typically handles larger TPUSA events), and that he secured the SD cards afterward",
           "related_claims": [],
           "related_nodes": [
             "N-262",
@@ -671,7 +671,7 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
       "description": "TPUSA personnel described by host as attending the UVU event and securing the SD cards. Matters because his presence is flagged as atypical by host.",
       "related_artifacts": [
@@ -2338,8 +2338,8 @@
       "@type": "Claim",
       "@id": "C-12362",
       "ref": "C-12362",
-      "label": "Host Says Terrell Farnsworth Does Not Normally Work College Campus Events",
-      "claim": "The host says Terrell Farnsworth, who takes out the SD cards, does not do college campus events, only the big events such as SAS and AmFest, so his presence at the UVU event was one of her earliest alarms.",
+      "label": "Host Says Terryl Farnsworth Does Not Normally Work College Campus Events",
+      "claim": "The host says Terryl Farnsworth, who takes out the SD cards, does not do college campus events, only the big events such as SAS and AmFest, so his presence at the UVU event was one of her earliest alarms.",
       "anchored_artifacts": [
         "A-1424.1"
       ],
@@ -2352,7 +2352,7 @@
       ],
       "claim_timestamp": "00:12:10",
       "investigative_direction": "Compare Farnsworth's event assignments across other 2025 campus tour stops using TPUSA event staffing records, photos and travel records.",
-      "transcript_snippet": "Terrell does not do college campus events. He doesn't do that. He's at the top of the company. He does the big events, the SAS, the Afest.",
+      "transcript_snippet": "Terryl does not do college campus events. He doesn't do that. He's at the top of the company. He does the big events, the SAS, the Afest.",
       "mentions_person_refs": [
         "N-262",
         "N-3"

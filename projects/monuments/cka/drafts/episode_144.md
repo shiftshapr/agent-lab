@@ -41,21 +41,21 @@ Episode 144 Ledger Summary:
 - Claim Range: C-3313–C-3325
 - New Nodes Introduced (people): none (Wave 2: local ids removed)
 - New Nodes Introduced (investigation targets): N-10810, N-10811, N-10812, N-10813
-- Existing Nodes Reused: Recurring figures (Charlie Kirk, Erica Kirk, Tyler Robinson, Tyler Bowyer, Terrell Farnsworth, Philip Goldsbury, Andrew Kolvet, Blake Neff, Allan Robertson, etc.) – see Optional Flags
+- Existing Nodes Reused: Recurring figures (Charlie Kirk, Erica Kirk, Tyler Robinson, Tyler Bowyer, Terryl Farnsworth, Philip Goldsbury, Andrew Kolvet, Blake Neff, Allan Robertson, etc.) – see Optional Flags
 
 ---
 
 ## II. Executive Summary
 
-Episode 144 advances two parallel investigative threads: (1) chain-of-custody concerns surrounding Terrell Farnsworth's handling of the camera SD card within minutes of Charlie Kirk's shooting, supported by freshly displayed footage of Terrell on his laptop and his interaction with Philip Goldsbury, and (2) the modification of the aspect ratio in the 20-minute sizzle reel played at the preliminary hearing, supported by displayed footage in normal and slow-motion and by an emailed statement from an anonymous federal court employee. The episode also presents direct audio from a TPUSA-affiliated podcast (Andrew Kolvet and Blake Neff's "Beavis and Butt-Head" show with guest Andrew Wilson), capturing Kolvet's claims that Candace conceded the debate and threatened to "burn down" TPUSA, and Wilson's on-air pushback against Kolvet's "Hitler apologist" framing. A November 2023 clip of Charlie Kirk calling Candace "on our team" is replayed as counter-evidence to claims that the friendship ended in 2018. The episode's structural importance lies in its juxtaposition of new forensic-style footage (laptop activity, aspect-ratio demonstration) against contemporaneous Kolvet text/call artifacts, reinforcing the investigation's claim that TPUSA insiders are the source of the framing Candace is accused of holding.
+Episode 144 advances two parallel investigative threads: (1) chain-of-custody concerns surrounding Terryl Farnsworth's handling of the camera SD card within minutes of Charlie Kirk's shooting, supported by freshly displayed footage of Terryl on his laptop and his interaction with Philip Goldsbury, and (2) the modification of the aspect ratio in the 20-minute sizzle reel played at the preliminary hearing, supported by displayed footage in normal and slow-motion and by an emailed statement from an anonymous federal court employee. The episode also presents direct audio from a TPUSA-affiliated podcast (Andrew Kolvet and Blake Neff's "Beavis and Butt-Head" show with guest Andrew Wilson), capturing Kolvet's claims that Candace conceded the debate and threatened to "burn down" TPUSA, and Wilson's on-air pushback against Kolvet's "Hitler apologist" framing. A November 2023 clip of Charlie Kirk calling Candace "on our team" is replayed as counter-evidence to claims that the friendship ended in 2018. The episode's structural importance lies in its juxtaposition of new forensic-style footage (laptop activity, aspect-ratio demonstration) against contemporaneous Kolvet text/call artifacts, reinforcing the investigation's claim that TPUSA insiders are the source of the framing Candace is accused of holding.
 
 ---
 
 ## III. Artifact Register
 
-**A-2301** Terrell Farnsworth Crime-Scene Laptop Footage Bundle
+**A-2301** Terryl Farnsworth Crime-Scene Laptop Footage Bundle
 
-**A-2301.1** Footage: Terrell accessing his laptop with an SD card after removing it from a camera at the crime scene
+**A-2301.1** Footage: Terryl accessing his laptop with an SD card after removing it from a camera at the crime scene
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:02:00–00:04:10
@@ -64,7 +64,7 @@ Confidence Level: Medium (footage shown; SD-card interpretation is host read)
 
 *Related: C-3313, C-3314*
 
-**A-2301.2** Footage: Terrell showing his laptop screen to Philip Goldsbury at the crime scene
+**A-2301.2** Footage: Terryl showing his laptop screen to Philip Goldsbury at the crime scene
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:02:00–00:04:10
@@ -76,7 +76,7 @@ Confidence Level: Medium
 
 **A-2302** Ana Kasparian Interview Clip
 
-**A-2302.1** Audio: Ana Kasparian's question to Candace regarding Terrell never providing the original SD card to investigators
+**A-2302.1** Audio: Ana Kasparian's question to Candace regarding Terryl never providing the original SD card to investigators
 
 Source: External interview referenced by host
 Video Timestamp: 00:04:20–00:04:50
@@ -101,7 +101,7 @@ Confidence Level: Medium (identity redacted by sender)
 
 **A-2304** Preliminary Hearing Testimony Bundle
 
-**A-2304.1** Audio: David Hull testimony stating investigators did not receive the physical SD card from Terrell
+**A-2304.1** Audio: David Hull testimony stating investigators did not receive the physical SD card from Terryl
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -228,9 +228,9 @@ Confidence Level: High
 
 ---
 
-**A-2797** Terrell Selfie Video Metadata Bundle
+**A-2797** Terryl Selfie Video Metadata Bundle
 
-**A-2797.1** Host verbal reference to metadata on Terrell Farnsworth's self-recorded video (not shown)
+**A-2797.1** Host verbal reference to metadata on Terryl Farnsworth's self-recorded video (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:09:47
@@ -340,9 +340,9 @@ Investigative Pressure: High
 
 ---
 
-**N-10812** Terrell Farnsworth Evidence-Handling Question
+**N-10812** Terryl Farnsworth Evidence-Handling Question
 
-Persistent target concerning Terrell's stated intent, sequence of actions, and consultation with Philip Goldsbury in the immediate aftermath of the shooting.
+Persistent target concerning Terryl's stated intent, sequence of actions, and consultation with Philip Goldsbury in the immediate aftermath of the shooting.
 
 Evidence Count: 2
 Claim Count: 1
@@ -394,7 +394,7 @@ Subject of the assassination; the host and the Kolvet/Neff show dispute the hist
 
 **N-2** Erika Kirk
 
-Widow and TPUSA CEO; named as the person Terrell Farnsworth says he spoke to and as taking over the organization.
+Widow and TPUSA CEO; named as the person Terryl Farnsworth says he spoke to and as taking over the organization.
 
 *Related: C-6096, C-6107, C-6108, C-6109, C-6132, C-6158, C-6162*
 
@@ -512,7 +512,7 @@ Interviewer who asked the host about the SD card.
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
 AV contractor whose handling of the camera and SD card is the episode's main thread.
 
@@ -608,7 +608,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
 Existing topic reused for new claims in this episode.
 
@@ -650,7 +650,7 @@ Existing topic reused for new claims in this episode.
 
 **N-751** Allan Robertson
 
-First named by the host at 00:09:47 in episode 144. Person the host says was visiting from Utah State University, undercover among protesters, and therefore could not have told Terrell Farnsworth to get the footage.
+First named by the host at 00:09:47 in episode 144. Person the host says was visiting from Utah State University, undercover among protesters, and therefore could not have told Terryl Farnsworth to get the footage.
 
 *Related: C-6104*
 
@@ -664,10 +664,10 @@ First named by a speaker on the Kolvet/Neff show at 00:29:09 in episode 144. Des
 
 ---
 
-**N-11070** Terrell Selfie Video Metadata Timeline
+**N-11070** Terryl Selfie Video Metadata Timeline
 
 Node Type: Topic
-Host's use of the metadata on Terrell Farnsworth's self-recorded video to place his filming end at about 12:26 and the start of camera removal near 12:28, bearing on whether police could have instructed him.
+Host's use of the metadata on Terryl Farnsworth's self-recorded video to place his filming end at about 12:26 and the start of camera removal near 12:28, bearing on whether police could have instructed him.
 
 *Related: C-6101, C-6102, C-6103*
 
@@ -702,11 +702,11 @@ Competing accounts of the host's September 2025 'burn it down' remark: Kolvet's 
 
 ## V. Claim Register
 
-**C-3313** Host Says Terrell Accessed an SD Card on His Laptop at the Crime Scene
+**C-3313** Host Says Terryl Accessed an SD Card on His Laptop at the Crime Scene
 
 Claim Timestamp: 00:02:00–00:04:10
 
-Claim: The host says the episode footage shows Terrell Farnsworth inserting an SD card into his laptop and working on it within approximately 10 minutes of Charlie Kirk being shot.
+Claim: The host says the episode footage shows Terryl Farnsworth inserting an SD card into his laptop and working on it within approximately 10 minutes of Charlie Kirk being shot.
 
 Anchored Artifacts: A-2301.1, A-2301.2
 Mentions: N-262, N-1, N-570
@@ -717,11 +717,11 @@ Investigative Direction: Obtain the original raw footage and forensic metadata t
 
 ---
 
-**C-3314** Host Says Footage Shows Terrell Showing Laptop Content to Philip Goldsbury Shortly After the Shooting
+**C-3314** Host Says Footage Shows Terryl Showing Laptop Content to Philip Goldsbury Shortly After the Shooting
 
 Claim Timestamp: 00:02:00–00:04:10
 
-Claim: The host says the episode footage shows Terrell Farnsworth displaying content on his laptop screen to Philip Goldsbury approximately 10 minutes after Charlie Kirk was hit.
+Claim: The host says the episode footage shows Terryl Farnsworth displaying content on his laptop screen to Philip Goldsbury approximately 10 minutes after Charlie Kirk was hit.
 
 Anchored Artifacts: A-2301.2
 Mentions: N-262, N-1
@@ -732,11 +732,11 @@ Investigative Direction: Identify and interview Philip Goldsbury regarding the c
 
 ---
 
-**C-3315** In Clip Host Plays, Ana Kasparian Says Terrell Never Provided the Original SD Card to Investigators
+**C-3315** In Clip Host Plays, Ana Kasparian Says Terryl Never Provided the Original SD Card to Investigators
 
 Claim Timestamp: 00:04:20–00:04:50
 
-Claim: In a clip the host plays, Ana Kasparian says, based on David Hull's preliminary-hearing testimony, that Terrell Farnsworth did not provide the original SD card to investigators, only Google links and a flash drive.
+Claim: In a clip the host plays, Ana Kasparian says, based on David Hull's preliminary-hearing testimony, that Terryl Farnsworth did not provide the original SD card to investigators, only Google links and a flash drive.
 
 Anchored Artifacts: A-2302.1, A-2304.1
 Mentions: N-262, N-204, N-570
@@ -940,11 +940,11 @@ Investigative Direction: Identify the specific published stories and any communi
 
 ---
 
-**C-6093** Host Recalls Kolvet Said Terrell Worried About Hat Thieves
+**C-6093** Host Recalls Kolvet Said Terryl Worried About Hat Thieves
 
 Claim Timestamp: 00:03:22
 
-Claim: The host says Andrew Kolvet told the audience that Terrell Farnsworth removed the camera card because he was worried about people stealing hats, which she says does not fit the footage.
+Claim: The host says Andrew Kolvet told the audience that Terryl Farnsworth removed the camera card because he was worried about people stealing hats, which she says does not fit the footage.
 
 Transcript Snippet: we were told by Andrew Kolvet that he was worried about people stealing hats.
 
@@ -1001,13 +1001,13 @@ Investigative Direction: Review the preliminary hearing transcript for how the p
 
 ---
 
-**C-6097** Host Says It Is Undisputed Terrell Removed a Physical Object
+**C-6097** Host Says It Is Undisputed Terryl Removed a Physical Object
 
 Claim Timestamp: 00:06:06
 
-Claim: The host says it is not in dispute that Terrell Farnsworth removed a physical object from the crime scene and then went behind the tent and put it in his pocket.
+Claim: The host says it is not in dispute that Terryl Farnsworth removed a physical object from the crime scene and then went behind the tent and put it in his pocket.
 
-Transcript Snippet: What is not in dispute is that Terrell did in fact remove a physical object from the crime scene.
+Transcript Snippet: What is not in dispute is that Terryl did in fact remove a physical object from the crime scene.
 
 Anchored Artifacts: 
 Mentions: N-262, N-3
@@ -1020,7 +1020,7 @@ Investigative Direction: Confirm against the host's earlier footage and any stat
 
 Claim Timestamp: 00:07:11
 
-Claim: The host says the footage Terrell Farnsworth presented to her nine days after the shooting had already been zoomed in, though she says it is unknown whether he or someone else zoomed it.
+Claim: The host says the footage Terryl Farnsworth presented to her nine days after the shooting had already been zoomed in, though she says it is unknown whether he or someone else zoomed it.
 
 Transcript Snippet: What we can say for certain is that he had zoomed in by the time he presented it to me nine nine days later.
 
@@ -1047,11 +1047,11 @@ Investigative Direction: Check the preliminary hearing transcript for Hull's sta
 
 ---
 
-**C-6100** Host Says Terrell Declared Charlie Dead in a Selfie Video
+**C-6100** Host Says Terryl Declared Charlie Dead in a Selfie Video
 
 Claim Timestamp: 00:08:11
 
-Claim: The host says Terrell Farnsworth declared in a selfie video that Charlie Kirk was dead within about two minutes of the shooting, which she uses to argue he knew it was a crime scene.
+Claim: The host says Terryl Farnsworth declared in a selfie video that Charlie Kirk was dead within about two minutes of the shooting, which she uses to argue he knew it was a crime scene.
 
 Transcript Snippet: he declared, you'll recall in a selfie video, that Charlie was dead.
 
@@ -1063,11 +1063,11 @@ Investigative Direction: Review the selfie video and its metadata for the time a
 
 ---
 
-**C-6101** Host Says Terrell's Selfie Video Metadata Runs to Just After 12:26
+**C-6101** Host Says Terryl's Selfie Video Metadata Runs to Just After 12:26
 
 Claim Timestamp: 00:09:47
 
-Claim: The host says metadata on Terrell Farnsworth's self-recorded video shows he filmed himself until just after 12:26, with Charlie Kirk struck at 12:23.
+Claim: The host says metadata on Terryl Farnsworth's self-recorded video shows he filmed himself until just after 12:26, with Charlie Kirk struck at 12:23.
 
 Transcript Snippet: Terl was filming himself until just after 12:26. So Charlie gets hit at 12 23 and Terl is filming himself until 12:26 and 16 milliseconds.
 
@@ -1078,11 +1078,11 @@ Investigative Direction: Obtain the original file Farnsworth sent the host and v
 
 ---
 
-**C-6102** Host Says Terrell Began Taking the Camera Down Around 12:28
+**C-6102** Host Says Terryl Began Taking the Camera Down Around 12:28
 
 Claim Timestamp: 00:09:47
 
-Claim: The host says it was almost precisely 12:28 when Terrell Farnsworth began taking the camera down, leaving about a minute and a half for any officer to tell him to secure the footage.
+Claim: The host says it was almost precisely 12:28 when Terryl Farnsworth began taking the camera down, leaving about a minute and a half for any officer to tell him to secure the footage.
 
 Transcript Snippet: It's around almost precisely 12:28 that he begins taking the camera down.
 
@@ -1097,7 +1097,7 @@ Investigative Direction: Frame-date the footage of the camera removal against th
 
 Claim Timestamp: 00:09:47
 
-Claim: The host says it is hardly possible that law enforcement officers on the scene told Terrell Farnsworth to secure the footage, given the metadata timeline.
+Claim: The host says it is hardly possible that law enforcement officers on the scene told Terryl Farnsworth to secure the footage, given the metadata timeline.
 
 Transcript Snippet: it's hardly possible that law enforcement officers on the scene told him to secure the footage
 
@@ -1109,11 +1109,11 @@ Investigative Direction: Ask investigators whether any officer instructed Farnsw
 
 ---
 
-**C-6104** Host Rules Out Allan Robertson as Having Told Terrell
+**C-6104** Host Rules Out Allan Robertson as Having Told Terryl
 
 Claim Timestamp: 00:11:04
 
-Claim: The host says Allan Robertson can be ruled out as the one who told Terrell to get the footage: she says he was visiting from Utah State University, undercover to check protesters, and would not have known who Terrell was.
+Claim: The host says Allan Robertson can be ruled out as the one who told Terryl to get the footage: she says he was visiting from Utah State University, undercover to check protesters, and would not have known who Terryl was.
 
 Transcript Snippet: Allan Robertson, we determined, was just visiting from Utah State University. He was undercover because he was there to check out the protesters ahead of the event.
 
@@ -1125,13 +1125,13 @@ Investigative Direction: Confirm Robertson's role and location from USU police r
 
 ---
 
-**C-6105** Host Says She Was Told Terrell Was Told the Opposite
+**C-6105** Host Says She Was Told Terryl Was Told the Opposite
 
 Claim Timestamp: 00:11:23
 
-Claim: The host says she was told, allegedly, that Terrell Farnsworth was told to do the exact opposite and not disturb the crime scene.
+Claim: The host says she was told, allegedly, that Terryl Farnsworth was told to do the exact opposite and not disturb the crime scene.
 
-Transcript Snippet: And I was told, and I will say allegedly here, that actually Terrell was told to do the exact opposite.
+Transcript Snippet: And I was told, and I will say allegedly here, that actually Terryl was told to do the exact opposite.
 
 Anchored Artifacts: 
 Mentions: N-262, N-3
@@ -1141,13 +1141,13 @@ Investigative Direction: Identify the host's source and any witness who gave Far
 
 ---
 
-**C-6106** Host Says Terrell Never Claimed Police Told Him
+**C-6106** Host Says Terryl Never Claimed Police Told Him
 
 Claim Timestamp: 00:11:42
 
-Claim: The host says Terrell Farnsworth never claimed police told him to take the footage and that this narrative came only from Tyler Bowyer.
+Claim: The host says Terryl Farnsworth never claimed police told him to take the footage and that this narrative came only from Tyler Bowyer.
 
-Transcript Snippet: this narrative uh of the police told him to do that. Terrell himself never made that claim.
+Transcript Snippet: this narrative uh of the police told him to do that. Terryl himself never made that claim.
 
 Anchored Artifacts: 
 Mentions: N-262, N-11, N-3
@@ -1157,11 +1157,11 @@ Investigative Direction: Compare Bowyer's public statements with Farnsworth's ac
 
 ---
 
-**C-6107** Host Says Terrell Named Only Erika as Someone He Spoke To
+**C-6107** Host Says Terryl Named Only Erika as Someone He Spoke To
 
 Claim Timestamp: 00:11:42
 
-Claim: The host says the only person Terrell Farnsworth mentioned speaking to was Erika Kirk, without saying when, and that she is not suggesting Erika directed him.
+Claim: The host says the only person Terryl Farnsworth mentioned speaking to was Erika Kirk, without saying when, and that she is not suggesting Erika directed him.
 
 Transcript Snippet: I'm just asserting that factually the only person that he mentioned to me that he spoke to was Erika.
 
@@ -1173,11 +1173,11 @@ Investigative Direction: Ask Farnsworth and Erika Kirk about the timing and cont
 
 ---
 
-**C-6108** Host Says Terrell Said He Wanted to Spare Erika Seeing Charlie Die in 4K
+**C-6108** Host Says Terryl Said He Wanted to Spare Erika Seeing Charlie Die in 4K
 
 Claim Timestamp: 00:11:42
 
-Claim: The host says her understanding was that Terrell Farnsworth acted on his own volition because he did not want Erika Kirk to have to see Charlie Kirk die in 4K.
+Claim: The host says her understanding was that Terryl Farnsworth acted on his own volition because he did not want Erika Kirk to have to see Charlie Kirk die in 4K.
 
 Transcript Snippet: he did not want Erika to have to see Charlie die in 4K.
 
@@ -1192,9 +1192,9 @@ Investigative Direction: Obtain Farnsworth's own statement of motive and compare
 
 Claim Timestamp: 00:12:37
 
-Claim: The host says Tyler Bowyer said police told Terrell, Terrell said he acted on his own volition to protect Erika, and Andrew Kolvet said it was about hat thieves.
+Claim: The host says Tyler Bowyer said police told Terryl, Terryl said he acted on his own volition to protect Erika, and Andrew Kolvet said it was about hat thieves.
 
-Transcript Snippet: You had Tyler saying the police said it. You had Terrell saying that he did it out of his own valition to protect Erika.
+Transcript Snippet: You had Tyler saying the police said it. You had Terryl saying that he did it out of his own valition to protect Erika.
 
 Anchored Artifacts: 
 Mentions: N-11, N-262, N-2, N-14, N-3
@@ -2207,7 +2207,7 @@ Confidence: high
 Video Timestamp: 00:14:13
 Speaker: N-3
 Quote: Make it make sense.
-Context: Host asks for any innocent explanation for Terrell's laptop use.
+Context: Host asks for any innocent explanation for Terryl's laptop use.
 Tags: make it make sense
 Confidence: high
 
@@ -2337,12 +2337,12 @@ Confidence: high
 
 ## VII. Optional Flags
 
-- **Name uncertainty:** "Terrell Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kolvet" and "Kolvet"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Alan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Knowles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
-- **Wave 1 reconciliation:** Terrell Farnsworth is N-262, Andrew Kolvet is N-14, Blake Neff is N-160, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-10141.. never denoted these people and claim references were retargeted.
-- **Likely-existing investigation targets flagged:** N-10810 (SD card chain of custody), N-10811 (aspect ratio modification), N-10812 (Terrell handling), N-10813 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
+- **Name uncertainty:** "Terryl Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kolvet" and "Kolvet"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Alan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Knowles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
+- **Wave 1 reconciliation:** Terryl Farnsworth is N-262, Andrew Kolvet is N-14, Blake Neff is N-160, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-10141.. never denoted these people and claim references were retargeted.
+- **Likely-existing investigation targets flagged:** N-10810 (SD card chain of custody), N-10811 (aspect ratio modification), N-10812 (Terryl handling), N-10813 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
 - **Anonymous source:** A-2303.1 (federal-court employee email) is anonymous; the host explicitly preserves the sender's anonymity. Treat C-3319 as a single-source claim until corroborated.
 - **Transcript ambiguity:** The "Beavis and Butt-Head" podcast name is used by the host as a pejorative descriptor for the Kolvet/Neff show; it is unclear whether this is also the show's actual title or solely a rhetorical label.
-- **Host inference flagged:** Candace's reading of A-2301.1 and A-2301.2 (that Terrell "inserts an SD card" and "zoomed in") is a host interpretation of footage, not a transcription of on-screen text. Inscribed as a host interpretation claim anchored to the footage artifacts rather than as an established fact.
+- **Host inference flagged:** Candace's reading of A-2301.1 and A-2301.2 (that Terryl "inserts an SD card" and "zoomed in") is a host interpretation of footage, not a transcription of on-screen text. Inscribed as a host interpretation claim anchored to the footage artifacts rather than as an established fact.
 - **Speculative commentary excluded:** The host's broader rhetorical claims about "assassination," "military operation," and full narrative reconstructions are not inscribed as claims under the Framing Premise failure label.
 - **No artifact recorded for:** The host's statements about Tyler's innocence, the Dairy Queen photo, the Lance Twiggs / "dump clothes in cemetery" story, and the steakhouse-receipt narrative are referenced as prior-episode material but receive no new artifacts in this episode and are not inscribed as new claims.
 

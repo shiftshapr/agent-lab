@@ -168,7 +168,7 @@ Confidence: high
 
 ## 2. Executive Summary
 
-This episode centers on the September 10, 2025 evidence-handling behavior of Terrell Farnsworth, Turning Point USA's audio-visual lead. The host presents read-aloud excerpts from Farnsworth's 1102 sworn statement, an audio clip of SBI Agent David Hull's preliminary-hearing testimony, a clip from YouTuber Nissi's back-camera comparison video, and an audio excerpt of Andrew Kolvet's Tucker Carlson appearance explaining the SD-card removal as protection against "evil people." The episode's evidentiary centerpiece is newly released footage allegedly showing Farnsworth pocketing the SD card, looking around, and immediately texting on his phone after the camera removal.
+This episode centers on the September 10, 2025 evidence-handling behavior of Terryl Farnsworth, Turning Point USA's audio-visual lead. The host presents read-aloud excerpts from Farnsworth's 1102 sworn statement, an audio clip of SBI Agent David Hull's preliminary-hearing testimony, a clip from YouTuber Nissi's back-camera comparison video, and an audio excerpt of Andrew Kolvet's Tucker Carlson appearance explaining the SD-card removal as protection against "evil people." The episode's evidentiary centerpiece is newly released footage allegedly showing Farnsworth pocketing the SD card, looking around, and immediately texting on his phone after the camera removal.
 
 The episode advances several investigative questions: (1) whether Farnsworth's claimed Google-hacking fear was a lie, given his same-day Google Drive transmission; (2) whether footage from behind Charlie Kirk's head was specifically clipped and zoomed in; (3) whether FBI involvement in a state-level Utah homicide is procedurally anomalous, supported by a clip of former CIA officer John Kirraou. The episode also presents a Joe Rogan Experience clip in which panelists discuss apparent perspective distortion in a published Tyler Robinson identification photo, and a WearForbidden parody video.
 
@@ -178,7 +178,7 @@ Structurally, this episode functions as evidence-chain and chain-of-custody cons
 
 ## 3. Artifact Register
 
-**A-2284** Terrell Farnsworth 1102 Statement Bundle
+**A-2284** Terryl Farnsworth 1102 Statement Bundle
 
 **A-2284.1** 1102 Statement – First Portion (four videos via Google Drive)
 
@@ -246,7 +246,7 @@ Confidence Level: High (audio clip played by host)
 
 **A-2288** September 10 Exclusive Footage Bundle
 
-**A-2288.1** Terrell Farnsworth Post-Removal Behavior (Pocket / Look-Around / Text)
+**A-2288.1** Terryl Farnsworth Post-Removal Behavior (Pocket / Look-Around / Text)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -463,7 +463,7 @@ First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent D
 
 *Related: C-3292*
 
-**N-10797** Terrell Farnsworth Google-Hack Contradiction
+**N-10797** Terryl Farnsworth Google-Hack Contradiction
 
 Persistent target: Farnsworth's claim of fearing Google hacking is contradicted by his same-day Google Drive usage.
 
@@ -515,7 +515,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10801** Terrell Post-Removal Communications
+**N-10801** Terryl Post-Removal Communications
 
 Investigation target: identity of recipient and content of text message(s) sent by Farnsworth within minutes of removing the SD card.
 
@@ -727,9 +727,9 @@ Steven Crowder; named in the playroom and bug-sweep claims.
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
-Terrell Farnsworth; TPUSA audio-visual lead at the center of the footage claims.
+Terryl Farnsworth; TPUSA audio-visual lead at the center of the footage claims.
 
 *Related: C-9155, C-9156, C-9157, C-9158, C-9159, C-9160, C-9161, C-9162, C-9166, C-9167, C-9168, C-9172, C-9173, C-9175, C-9176, C-9177, C-9178, C-9180, C-9181, C-9182, C-9184, C-9185*
 
@@ -823,7 +823,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
 Existing topic reused for new claims in this episode.
 
@@ -879,7 +879,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10808** Terrell SD Card-to-Laptop Transfer Sequence
+**N-10808** Terryl SD Card-to-Laptop Transfer Sequence
 
 Existing topic reused for new claims in this episode.
 
@@ -997,11 +997,11 @@ The host's account that a Crowder-linked guest joined a show from her children's
 
 ## 5. Claim Register
 
-**C-3290** Per 1102 Statement Host Shows, Terrell Farnsworth Used Google Drive to Send Four Videos to SBI on September 10
+**C-3290** Per 1102 Statement Host Shows, Terryl Farnsworth Used Google Drive to Send Four Videos to SBI on September 10
 
 Claim Timestamp: 00:05:47
 
-Claim: Per Terrell Farnsworth's 1102 statement, which the host shows and reads, he provided SBI with four videos through a Google Drive on September 10, 2025.
+Claim: Per Terryl Farnsworth's 1102 statement, which the host shows and reads, he provided SBI with four videos through a Google Drive on September 10, 2025.
 
 Anchored Artifacts: A-2284.1
 Mentions: N-262
@@ -1012,7 +1012,7 @@ Investigative Direction: Verify the existence and timestamps of the four Google 
 
 ---
 
-**C-3291** Terrell Farnsworth's Google-Hacking Fear Is Contradicted by His Same-Day Google Drive Usage
+**C-3291** Terryl Farnsworth's Google-Hacking Fear Is Contradicted by His Same-Day Google Drive Usage
 
 Claim Timestamp: 00:04:56
 
@@ -1206,7 +1206,7 @@ Investigative Direction: Identify the CEO and the show episode in question; obta
 
 Claim Timestamp: 00:01:28
 
-Claim: The host says Terrell Farnsworth, TPUSA's audio and visual lead who runs Visual Impulse, began taking down the camera behind Charlie Kirk less than four minutes after Charlie was hit.
+Claim: The host says Terryl Farnsworth, TPUSA's audio and visual lead who runs Visual Impulse, began taking down the camera behind Charlie Kirk less than four minutes after Charlie was hit.
 
 Transcript Snippet: And this turned out was less than four minutes after Charlie was hit. We know he went up uh and he recorded himself.
 
@@ -1506,7 +1506,7 @@ Claim Timestamp: 00:18:41
 
 Claim: The host says it is not clear whether Farnsworth or SBI clipped the footage behind Charlie, but that Farnsworth was the first to touch it and the footage ended up clipped.
 
-Transcript Snippet: Like I said, we're not sure if Terl clipped it or if it was SBI that clipped it. We do know that Terrell was the first to touch that footage
+Transcript Snippet: Like I said, we're not sure if Terl clipped it or if it was SBI that clipped it. We do know that Terryl was the first to touch that footage
 
 Anchored Artifacts: A-2284.2
 Mentions: N-262

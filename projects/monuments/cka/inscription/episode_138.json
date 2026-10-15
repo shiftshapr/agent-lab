@@ -1555,7 +1555,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10808",
       "ref": "N-10808",
-      "name": "Terrell SD Card-to-Laptop Transfer Sequence",
+      "name": "Terryl SD Card-to-Laptop Transfer Sequence",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1891,7 +1891,7 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
@@ -3000,7 +3000,7 @@
       "@id": "C-9105",
       "ref": "C-9105",
       "label": "Host Says Farnsworth Took Out an SD Card but Police Received a Hard Drive",
-      "claim": "The host says Terrell Farnsworth was watched removing an SD card but that police were given a hard drive or USB file, and asks when the transfer happened.",
+      "claim": "The host says Terryl Farnsworth was watched removing an SD card but that police were given a hard drive or USB file, and asks when the transfer happened.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10808",
@@ -3012,7 +3012,7 @@
       ],
       "claim_timestamp": "00:11:55",
       "investigative_direction": "Obtain the chain-of-custody log for the Farnsworth footage and the device type recorded by police.",
-      "transcript_snippet": "because Terrell Farnworth took out we watched him take out an SD card. And actually what the police were given was not an SD card.",
+      "transcript_snippet": "because Terryl Farnworth took out we watched him take out an SD card. And actually what the police were given was not an SD card.",
       "mentions_person_refs": [
         "N-3",
         "N-262"

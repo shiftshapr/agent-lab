@@ -249,7 +249,7 @@
           "@type": "Artifact",
           "@id": "A-2010.1",
           "ref": "A-2010.1",
-          "description": "Taro Farnsworth video recorded at Charlie Kirk shooting scene within seconds",
+          "description": "Terryl Farnsworth video recorded at Charlie Kirk shooting scene within seconds",
           "related_claims": [
             "C-2800"
           ],
@@ -1036,7 +1036,7 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Referenced as the office to which the Zoom-call conversation was delivered.",
       "related_artifacts": [],
@@ -1873,7 +1873,7 @@
         "N-10637"
       ],
       "tags": [],
-      "claim_timestamp": "00:29:53",
+      "claim_timestamp": "00:29:10",
       "investigative_direction": "Pull the Washington Post article directly; review surveillance footage; verify Secret Service statements.",
       "mentions_person_refs": [
         "N-370"
@@ -1989,7 +1989,7 @@
       "@id": "C-2796",
       "ref": "C-2796",
       "label": "Erika Kirk claimed she attended WHCD to confront journalists",
-      "claim": "In her pre-recorded statement, Erika Kirk said she attended the White House Correspondents Dinner specifically to meet journalists who had written about her face-to-face.",
+      "claim": "In her pre-recorded statement, Erika Kirk said she attended the White House Correspondents Dinner because many of the journalists in the room had attempted to dehumanize her and she wanted to meet some of them face-to-face.",
       "anchored_artifacts": [
         "A-2009.1"
       ],
@@ -2068,8 +2068,8 @@
       "@type": "Claim",
       "@id": "C-2800",
       "ref": "C-2800",
-      "label": "Host Says Taro Farnsworth Recorded Video at Charlie Kirk Shooting Scene",
-      "claim": "The host says Taro Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds (she also says not even a minute) of the incident; in a clip she plays, he says \"They just shot Charlie.\"",
+      "label": "Host Says Terryl Farnsworth Recorded Video at Charlie Kirk Shooting Scene",
+      "claim": "The host says Terryl Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds (she also says not even a minute) of the incident; in a clip she plays, he says \"They just shot Charlie.\"",
       "anchored_artifacts": [
         "A-2010.1"
       ],
@@ -2170,7 +2170,7 @@
       "@id": "C-2805",
       "ref": "C-2805",
       "label": "Laura Loomer tweeted SPLC paid Candace $500K to communicate David Duke talking points",
-      "claim": "Laura Loomer tweeted that the Southern Poverty Law Center was paying Candace Owens $500K per year to communicate David Duke talking points.",
+      "claim": "The host says Laura Loomer reported that Candace Owens was potentially paid half a million dollars by the Southern Poverty Law Center to communicate David Duke talking points, framed as \"Was the SPLC paying Candace Owens 500K a year to plagiarize David Duke?\"",
       "anchored_artifacts": [
         "A-2012.2"
       ],
@@ -2188,7 +2188,7 @@
       "@id": "C-2806",
       "ref": "C-2806",
       "label": "Laura Loomer claimed Candace was at anti-Trump summit in Rome",
-      "claim": "Laura Loomer tweeted that Candace Owens, Nick Fuentes, and Aubrey Laitsch converged in Rome for a \"secret anti-Trump summit,\" with implied funding from Qatar.",
+      "claim": "Laura Loomer tweeted a question whether Candace Owens, Nick Fuentes, and Aubrey Laitsch, who all \"suddenly appeared in Rome\", were converging for a \"secret anti-Trump summit\", adding that she suspects it is funded by foreign dark money and citing a source that Aubrey approached conservatives about a paid propaganda trip to Qatar.",
       "anchored_artifacts": [
         "A-2012.3",
         "A-2012.4"
@@ -2201,7 +2201,6 @@
         "N-3",
         "N-60",
         "N-202",
-        "N-373",
         "N-552"
       ]
     },
@@ -2288,7 +2287,7 @@
         "N-10587"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:02:43",
       "investigative_direction": "Pull Trump's Truth Social posts mentioning Candace Owens for the two weeks before April 29, 2026 and count them.",
@@ -2309,7 +2308,7 @@
         "N-10587"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:02:43",
       "investigative_direction": "Locate the earlier Trump posts or remarks calling the host low IQ and comparing her appearance to Brigitte Macron's.",
@@ -2349,7 +2348,7 @@
         "N-10640"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:04:25",
       "investigative_direction": "Compare the photo in Trump's post with the host's original 2019 post to confirm it is unaltered.",
@@ -2439,7 +2438,7 @@
       "@id": "C-8763",
       "ref": "C-8763",
       "label": "Host says the magazine cover text read that she lies and uses rich white men",
-      "claim": "The host says the words on the Trump-linked magazine-style cover read that she lies, lies, lies and uses rich white men, and that the photo was put on an AI cover.",
+      "claim": "The host says the words on the Trump-linked magazine-style cover read that Candace Owens lies, lies, lies and uses rich white men, and earlier said she shared the photo publicly, which is why someone could put it on an AI cover.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10640"
@@ -2545,7 +2544,7 @@
         "N-10590"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:17:55",
       "investigative_direction": "Corroborate through White House staff, Loomer's own statements, or Truth Social posting logs.",
@@ -2594,7 +2593,7 @@
         "N-10640"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:20:54",
       "investigative_direction": "Identify the host's source and seek confirmation from White House staff.",
@@ -2708,7 +2707,7 @@
         "N-10637"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:28:18",
       "investigative_direction": "Official incident report, ballistic findings and the Washington Post surveillance footage.",
@@ -2731,7 +2730,7 @@
         "N-10637"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Attendee accounts and ballroom audio or video from the dinner.",
@@ -2751,7 +2750,7 @@
         "N-10637"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Locate Kolvet's on-air or posted account of the WHCD and compare wording.",
@@ -2835,7 +2834,7 @@
       "@type": "Claim",
       "@id": "C-8781",
       "ref": "C-8781",
-      "label": "Host says Erika tweeted she needed family time and would return on the Wednesday show",
+      "label": "Host Says Erika Said She Needed Family Time And Would Return On Wednesday Show",
       "claim": "The host says Erika Kirk said after the shooting she needed to spend time with her family and would then be on the Charlie Kirk show on Wednesday.",
       "anchored_artifacts": [
         "A-2009.1"
@@ -2931,7 +2930,7 @@
       "@id": "C-8785",
       "ref": "C-8785",
       "label": "Host says Erika told Karoline Leavitt on stage she did not read headlines or care",
-      "claim": "The host says Erika Kirk sat down with Karoline Leavitt on stage at a Turning Point event and said she did not read the headlines and did not care, in tension with her WHCD explanation.",
+      "claim": "The host says she is pretty sure Erika Kirk sat down with Karoline Leavitt on stage at a Turning Point event and said she did not read the headlines and did not care, in tension with her WHCD explanation.",
       "anchored_artifacts": [
         "A-2965.1"
       ],
@@ -3048,8 +3047,8 @@
       "@type": "Claim",
       "@id": "C-8790",
       "ref": "C-8790",
-      "label": "Host says she never explicitly claimed Erika murdered Charlie, only that she lied",
-      "claim": "The host reads a viewer post that she never explicitly claimed Erika murdered her husband and only accused her of lying, and says her repeated accusation is that Erika lies.",
+      "label": "Viewer Comment Says Host Never Explicitly Claimed Erika Murdered Charlie",
+      "claim": "A viewer comment the host reads says Candace Owens never once made the explicit claim that Erika murdered her husband and only accused her of being a liar and a fraud; the host adds that her repeated accusation is that Erika lies.",
       "anchored_artifacts": [
         "A-2964.1"
       ],
@@ -3341,7 +3340,7 @@
       "@id": "C-8802",
       "ref": "C-8802",
       "label": "Host says Erika told her Kolvet and the surgeon went rogue and she was not part of the conversation",
-      "claim": "The host says Erika Kirk told her the surgeon went rogue and Andrew Kolvet went rogue and that she was not part of the conversation, and calls that a big lie.",
+      "claim": "The host says Erika Kirk claimed the surgeon went rogue and Andrew Kolvet went rogue and that she was not part of the conversation, and calls that a big lie.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10447",
@@ -3409,17 +3408,15 @@
       "transcript_snippet": "There's no requirement I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods.",
       "mentions_person_refs": [
         "N-331",
-        "N-2",
-        "N-14",
-        "N-160"
+        "N-2"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-8805",
       "ref": "C-8805",
-      "label": "Host says Blake Neff's and Kolvet's explanations differ",
-      "claim": "The host says TPUSA figures cannot get on board with the same messaging, noting Blake Neff already gave a different excuse from Andrew Kolvet's.",
+      "label": "Baron Coleman Says Neff and Kolvet Gave Different Excuses",
+      "claim": "In a clip the host plays, Baron Coleman says TPUSA figures cannot get on board with the same messaging, noting Blake Neff already gave a different excuse from Andrew Kolvet's.",
       "anchored_artifacts": [
         "A-2966.1"
       ],
@@ -3436,9 +3433,9 @@
         "C-8791"
       ],
       "mentions_person_refs": [
+        "N-331",
         "N-160",
-        "N-14",
-        "N-3"
+        "N-14"
       ]
     },
     {
@@ -3446,7 +3443,7 @@
       "@id": "C-8806",
       "ref": "C-8806",
       "label": "Host says Erika was on the phone during the surgeon call and facilitated it",
-      "claim": "The host says Erika Kirk claimed she was not on the phone during the three-way call involving the surgeon when she was, and that she facilitated the whole conversation, and that blame was placed on Dr. Lee Trotter.",
+      "claim": "The host says Erika Kirk claimed she was not on the phone when she was, and that she facilitated the whole conversation involving the surgeon, and that blame was placed on Dr. Lee Trotter.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10447",
@@ -3706,8 +3703,7 @@
       "investigative_direction": "The Corby Hall episode and any correspondence about the 50,000-gun offer.",
       "transcript_snippet": "he gets an offer to sell 50,000 guns and he turns it down on principle.",
       "mentions_person_refs": [
-        "N-343",
-        "N-342"
+        "N-343"
       ]
     },
     {
@@ -3759,11 +3755,11 @@
       "@id": "C-8820",
       "ref": "C-8820",
       "label": "Host says she did not meet the Pope in Rome",
-      "claim": "The host says she did not meet the Pope and only toured the Vatican with her children.",
+      "claim": "The host says she did not meet the Pope; she did some tours around the Vatican with her children on what she calls a normal family vacation.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "01:14:42",
       "investigative_direction": "Public schedule of Pope Leo XIV audiences versus the host's travel dates.",

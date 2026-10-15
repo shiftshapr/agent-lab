@@ -1249,9 +1249,9 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
-      "description": "Terrell Farnsworth; the host's 'Tricky Terrell'.",
+      "description": "Terryl Farnsworth; the host's 'Tricky Terryl'.",
       "related_artifacts": [],
       "related_claims": [
         "C-15057"
@@ -3836,16 +3836,16 @@
       "@type": "Claim",
       "@id": "C-15057",
       "ref": "C-15057",
-      "label": "Host Says Coleman Will Keep Track of Tricky Terrell",
-      "claim": "The host says Coleman will keep track of 'Tricky Terrell', whom she says bothers everyone and gets away with a lot.",
+      "label": "Host Says Coleman Will Keep Track of Tricky Terryl",
+      "claim": "The host says Coleman will keep track of 'Tricky Terryl', whom she says bothers everyone and gets away with a lot.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
         "relevance:context"
       ],
       "claim_timestamp": "01:01:19",
-      "investigative_direction": "Confirm 'Tricky Terrell' means Terrell Farnsworth.",
-      "transcript_snippet": "he will he will keep track of Tricky Terrell because Tricky Terrell bothers us all.",
+      "investigative_direction": "Confirm 'Tricky Terryl' means Terryl Farnsworth.",
+      "transcript_snippet": "he will he will keep track of Tricky Terryl because Tricky Terryl bothers us all.",
       "mentions_person_refs": [
         "N-3",
         "N-331",
@@ -4174,15 +4174,15 @@
       "@type": "MemeAnalysis",
       "@id": "M-354",
       "ref": "M-354",
-      "canonical_term": "Tricky Terrell",
+      "canonical_term": "Tricky Terryl",
       "type": "meme",
       "occurrences": [
         {
           "episode": 153,
           "video_timestamp": "01:01:19",
           "speaker_node_ref": "N-3",
-          "quote": "Tricky Terrell bothers us all.",
-          "context": "Host on Terrell.",
+          "quote": "Tricky Terryl bothers us all.",
+          "context": "Host on Terryl.",
           "confidence": "high",
           "tags": [
             "terrell"

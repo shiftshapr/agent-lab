@@ -380,7 +380,7 @@ Harpole's business partner; the host's January 4 message to him went unanswered.
 
 **N-331** Baron Coleman
 
-Transcript spellings "Barron" and "Baron Cohen". His podcast clip points out that Bednarz was not sued; the host agrees with his view that the filing reads like PR.
+Transcript spellings "Barron" and "Baron Coleman". His podcast clip points out that Bednarz was not sued; the host agrees with his view that the filing reads like PR.
 
 *Related: C-3891, C-3892, C-3914, A-2545.1*
 
@@ -676,7 +676,7 @@ Claim: The host says YouTubers including Paramount Tactical and Valhalla initial
 Transcript Snippet: First and foremost, that Mitch was never at Fort Huachuca, that he was a com- a complete fraud. He could not even get onto the base because he never even served in the military.
 
 Anchored Artifacts:
-Mentions: N-362, N-130
+Mentions: N-362
 Related Nodes: N-10899, N-10375, N-11001
 Investigative Direction: Archive the Paramount Tactical / Valhalla streams and posts from that period, and compare them with Mitch Snow's military service records (DD-214) and Fort Huachuca base-access logs.
 
@@ -747,7 +747,7 @@ Investigative Direction: Archive Blake Bednarz's X, YouTube and X Spaces output,
 
 Claim Timestamp: 00:07:17
 
-Claim: Baron Coleman says Blake Bednarz is not listed in Harpole's lawsuit, even though the complaint shows the material naming Harpole.
+Claim: Baron Coleman says Blake Bednarz is not listed in Harpole's lawsuit, even though Bednarz's content names Harpole.
 
 Transcript Snippet: And yet, no, this Blake Bednarz's character is not listed in this lawsuit.
 
@@ -851,7 +851,7 @@ Investigative Direction: Review the dated message thread between the host and Be
 
 Claim Timestamp: 00:13:05
 
-Claim: The host says that from mid-December she stopped responding to Bednarz because she suspected a possible trap.
+Claim: The host says that from mid-December she stopped responding to Bednarz because her gut told her something was not right, and that she is grateful she did because it may have been a trap.
 
 Transcript Snippet: I'm just not going to reply to you beginning in mid-December.
 
@@ -871,7 +871,7 @@ Claim: According to a message from a military YouTuber read by the host, a Turni
 Transcript Snippet: My my source at Turning Point USA literally said they have all the documents and proof proof both Brian and Erika weren't there and they're purposefully giving Candace rope to hang herself with this.
 
 Anchored Artifacts: A-2548.1
-Mentions: N-267, N-2, N-362, N-3
+Mentions: N-267, N-2, N-3
 Related Nodes: N-10000, N-10899, N-10651
 Investigative Direction: Identify the sender and recipient of the message and the TPUSA source cited, and seek in discovery any TPUSA communications about the host before the Mitch Snow interview.
 
@@ -881,7 +881,7 @@ Investigative Direction: Identify the sender and recipient of the message and th
 
 Claim Timestamp: 00:15:30
 
-Claim: According to a second message read by the host, the YouTuber threatened to "do it the hard way" and tie her to Mitch Snow, describing him as a con artist with a history of abuse. The host says these are unverified allegations against Snow.
+Claim: According to a second message read by the host, the YouTuber threatened to "do it the hard way" and tie her to Mitch Snow, describing him as a con artist with a history of abuse. The host calls this a threat.
 
 Transcript Snippet: We can do it the hard way and tie her to a con artist with a horrible history of abuse against women and children and raising uh 130,000 dollars for him.
 
@@ -901,7 +901,7 @@ Claim: The host shows three messages she sent Brian Harpole, offering an off-rec
 Transcript Snippet: Hey Brian, just again reaching out in case you want to clarify your whereabouts in the morning of September 9th.
 
 Anchored Artifacts: A-2549.1
-Mentions: N-267, N-362, N-3
+Mentions: N-267, N-3
 Related Nodes: N-10643
 Supports: C-2818
 Investigative Direction: Obtain the message metadata (dates and delivery status) for the three texts, which are also exhibits in the Harpole filing.
@@ -1077,9 +1077,9 @@ Investigative Direction: Obtain the January 4, 2026 message and its delivery or 
 
 **C-3914** Harpole's filing spends its first three pages calling the host antisemitic
 
-Claim Timestamp: 00:25:19
+Claim Timestamp: 00:24:50
 
-Claim: The host agrees with Baron Coleman that the Harpole filing reads like a PR campaign. She says it spends its first three pages calling her an antisemite.
+Claim: The host says the Harpole filing reads to her like a PR campaign, and that she agrees with Baron Coleman's assessment that a federal judge would be upset by a lawsuit written to get on a magazine cover. Speaking as a hypothetical judge, she says, "You spent the first three pages calling her an anti-Semite."
 
 Transcript Snippet: You spent the first three pages calling her an anti-Semite.
 
@@ -1244,9 +1244,9 @@ Investigative Direction: Confirm the dates of Boreing's leave as CEO and of the 
 
 Claim Timestamp: 00:37:43
 
-Claim: The host says her husband traveled to London with the Daily Wire's interim CEO, whom the transcript names as "Caleb Robinson," and introduced the company to his and his father's circle of investors.
+Claim: The host says her husband traveled to London with the Daily Wire's interim CEO, Caleb Robinson, and introduced the company to his and his father's circle of investors.
 
-Transcript Snippet: They went to London, him and the co-CEO or the just the CEO at that time, the interim full CEO. Kayla Robinson, George introduced them to all of his circle of investor friends
+Transcript Snippet: They went to London, him and the co-CEO or the just the CEO at that time, the interim full CEO. Caleb Robinson, George introduced them to all of his circle of investor friends
 
 Anchored Artifacts:
 Mentions: N-30, N-606
@@ -1443,7 +1443,7 @@ Claim: The host says she has been told, which she labels an allegation, that Lew
 Transcript Snippet: I am told that he was not immediately dismissed from The Daily Wire, allegedly.
 
 Anchored Artifacts:
-Mentions: N-608, N-367
+Mentions: N-608
 Related Nodes: N-10912, N-10900
 Investigative Direction: Establish Lewis's termination date from Daily Wire records or statements and compare it with his arrest date.
 
@@ -1555,7 +1555,7 @@ Investigative Direction: Archive the full X post and any later reply to the host
 
 Claim Timestamp: 00:57:22
 
-Claim: Responding to a viewer comment, the host repeats that, according to people with direct knowledge who have since been fired from Turning Point USA, Blake Neff wrote Erika Kirk's speech.
+Claim: Responding to a viewer comment, the host repeats that Blake Neff was allegedly writing Erika Kirk's speech, according to people with direct knowledge who she says have since been fired from Turning Point USA.
 
 Transcript Snippet: like I told you Blake Neff was writing her speech allegedly. I'm told by people with direct knowledge who have since been fired from The Daily I've been fired from Turning Point USA.
 
@@ -1786,8 +1786,8 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2544.1 (preservation orders and the lawyers' email requesting Ian Carroll's address), A-2544.2 (the preservation order served on Bednarz), A-2547.1 (the earlier tips-email request) and A-2554.1 (the Zachary Lewis case details the host says she posted on X). The Harpole complaint itself is described but not shown in this episode.
 - **DIA beat**: the only keyword hit is the recalled request "please send it to us tips@kcsun. com" (00:11:02). It was treated as a DIA beat (C-3896, A-2547.1, M-12), although it is a retrospective account of an earlier call for footage rather than a new request. The address is kept as transcribed and is likely a caption error for the show's tips address. The "interesting lead today about Blake Bednarz" (01:06:06) is a tip received but matched no keyword; it is recorded as C-3948 without an M-12 occurrence. M-14 does not air.
-- **Name matching**: Harpole is transcribed as "Bryan Harsin" (00:00:01, 00:01:19), "Brian Hopple", "Bryant Harpole", "Brett Harrelson", "Brian Hurlbut", "Brian Harpool" and "Brian Harp"; all are mapped to N-267 from context. "Barron"/"Baron Cohen" is mapped to N-331 Baron Coleman, and "Andrew Colvin" (comments) to N-14. "Blake Bendaris" and "Blake Bednarz" are treated as the same new person, N-603 Douglas Blake Bednarz. "Dhillon Law Group" is minted as N-10910 Dhillon Law Group; the integrator should reconcile it with the existing topic "Dhillon Law Group / Show Faith by Works Connection".
-- **Uncertain identities**: "Caleb Robinson" (N-606), the Daily Wire interim CEO, is kept in the transcript spelling and is likely Caleb Robinson; the integrator should verify. "Father Klein" (N-604) could not be matched to any existing node. "Gary" of Paramount Tactical is folded into N-10899 rather than minted, because only his first name is given (the existing Gary Hamrick node is a different person, a pastor). "Mark Meadows, the Secretary of Homeland Security" (C-3932) is kept as transcribed; the name is likely wrong and no person node was minted. "Matt Saracens" (00:52:31, named as someone who could speak to Loomer for Boreing) is unmatched; it may be Matt Slauson, who appears in prior claim C-2850. It is not inscribed.
+- **Name matching**: Harpole is transcribed as "Bryan Harsin" (00:00:01, 00:01:19), "Brian Hopple", "Bryant Harpole", "Brett Harrelson", "Brian Hurlbut", "Brian Harpool" and "Brian Harp"; all are mapped to N-267 from context. "Barron"/"Baron Coleman" is mapped to N-331 Baron Coleman, and "Andrew Colvin" (comments) to N-14. "Blake Bendaris" and "Blake Bednarz" are treated as the same new person, N-603 Douglas Blake Bednarz. "Dhillon Law Group" is minted as N-10910 Dhillon Law Group; the integrator should reconcile it with the existing topic "Dhillon Law Group / Show Faith by Works Connection".
+- **Uncertain identities**: "Caleb Robinson" (N-606), the Daily Wire interim CEO, is kept in the transcript spelling and is likely Caleb Robinson; the integrator should verify. "Father Klein" (N-604) could not be matched to any existing node. "Gary" of Paramount Tactical is folded into N-10899 rather than minted, because only his first name is given (the existing Gary Hamrick node is a different person, a pastor). "Mark Meadows, the Secretary of Homeland Security" (C-3932) is kept as transcribed; the name is likely wrong and no person node was minted. "Matt Saracens" (00:52:31, named as someone who could speak to Loomer for Boreing) is unmatched; it may be Matt Sarelson, who appears in prior claim C-2850. It is not inscribed.
 - **Internal inconsistency**: Coleman's clip says Bednarz "is not listed in this lawsuit" (00:07:17), but at 00:11:02 the host says "They're listing him in the lawsuit." This may mean the complaint shows his material without naming him as a defendant; it is preserved as spoken.
 - **Defamation safety**: Bednarz's accusations against Harpole (C-3891, C-3894), the YouTuber's allegations about Mitch Snow's past (C-3901), the George Farmer arrest allegations (C-3920, C-3921, C-3930) and the Zachary Lewis charges (C-3936 to C-3940; not convicted) are all attributed and none is stated as fact.
 - **Not inscribed as claims (admission test)**: The following were excluded as characterizations, opinions or rhetoric:

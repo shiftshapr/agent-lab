@@ -962,7 +962,7 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
       "description": "TPUSA-linked camera operator (rendered \"Teryl Farnsworth\" in the transcript); the host says he removed the back footage.",
       "related_artifacts": [],
@@ -1260,7 +1260,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10346",
       "ref": "N-10346",
-      "name": "Terrell Farnsworth Camera Removal Justification",
+      "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Existing topic reused for the camera removal claim.",
       "related_artifacts": [],
@@ -2492,7 +2492,7 @@
       "@id": "C-5803",
       "ref": "C-5803",
       "label": "Farnsworth violated the crime scene to remove the back footage",
-      "claim": "The host says Terrell Farnsworth violated the crime scene to remove the back footage.",
+      "claim": "The host says Terryl Farnsworth violated the crime scene to remove the back footage.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10346"

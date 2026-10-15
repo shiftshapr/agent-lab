@@ -19,13 +19,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2301",
       "family_ref": "A-2301",
-      "bundle_name": "Terrell Farnsworth Crime-Scene Laptop Footage Bundle",
+      "bundle_name": "Terryl Farnsworth Crime-Scene Laptop Footage Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2301.1",
           "ref": "A-2301.1",
-          "description": "Footage: Terrell accessing his laptop with an SD card after removing it from a camera at the crime scene",
+          "description": "Footage: Terryl accessing his laptop with an SD card after removing it from a camera at the crime scene",
           "related_claims": [
             "C-3313",
             "C-3314"
@@ -43,7 +43,7 @@
           "@type": "Artifact",
           "@id": "A-2301.2",
           "ref": "A-2301.2",
-          "description": "Footage: Terrell showing his laptop screen to Philip Goldsbury at the crime scene",
+          "description": "Footage: Terryl showing his laptop screen to Philip Goldsbury at the crime scene",
           "related_claims": [
             "C-3314"
           ],
@@ -67,7 +67,7 @@
           "@type": "Artifact",
           "@id": "A-2302.1",
           "ref": "A-2302.1",
-          "description": "Audio: Ana Kasparian's question to Candace regarding Terrell never providing the original SD card to investigators",
+          "description": "Audio: Ana Kasparian's question to Candace regarding Terryl never providing the original SD card to investigators",
           "related_claims": [
             "C-3315"
           ],
@@ -113,7 +113,7 @@
           "@type": "Artifact",
           "@id": "A-2304.1",
           "ref": "A-2304.1",
-          "description": "Audio: David Hull testimony stating investigators did not receive the physical SD card from Terrell",
+          "description": "Audio: David Hull testimony stating investigators did not receive the physical SD card from Terryl",
           "related_claims": [
             "C-3316"
           ],
@@ -356,13 +356,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2797",
       "family_ref": "A-2797",
-      "bundle_name": "Terrell Selfie Video Metadata Bundle",
+      "bundle_name": "Terryl Selfie Video Metadata Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2797.1",
           "ref": "A-2797.1",
-          "description": "Host verbal reference to metadata on Terrell Farnsworth's self-recorded video (not shown)",
+          "description": "Host verbal reference to metadata on Terryl Farnsworth's self-recorded video (not shown)",
           "related_claims": [
             "C-6101",
             "C-6102",
@@ -552,9 +552,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10812",
       "ref": "N-10812",
-      "name": "Terrell Farnsworth Evidence-Handling Question",
+      "name": "Terryl Farnsworth Evidence-Handling Question",
       "type": "investigation_target",
-      "description": "Persistent target concerning Terrell's stated intent, sequence of actions, and consultation with Philip Goldsbury in the immediate aftermath of the shooting.",
+      "description": "Persistent target concerning Terryl's stated intent, sequence of actions, and consultation with Philip Goldsbury in the immediate aftermath of the shooting.",
       "related_artifacts": [
         "A-2301.1",
         "A-2301.2"
@@ -707,7 +707,7 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
       "related_artifacts": [],
@@ -1325,7 +1325,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10346",
       "ref": "N-10346",
-      "name": "Terrell Farnsworth Camera Removal Justification",
+      "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1422,7 +1422,7 @@
       "ref": "N-751",
       "name": "Allan Robertson",
       "type": "person",
-      "description": "First named by the host at 00:09:47 in episode 144. Person the host says was visiting from Utah State University, undercover among protesters, and therefore could not have told Terrell Farnsworth to get the footage.",
+      "description": "First named by the host at 00:09:47 in episode 144. Person the host says was visiting from Utah State University, undercover among protesters, and therefore could not have told Terryl Farnsworth to get the footage.",
       "related_artifacts": [],
       "related_claims": [
         "C-6104"
@@ -1454,9 +1454,9 @@
       "@type": "Topic",
       "@id": "N-11070",
       "ref": "N-11070",
-      "name": "Terrell Selfie Video Metadata Timeline",
+      "name": "Terryl Selfie Video Metadata Timeline",
       "type": "topic",
-      "description": "Host's use of the metadata on Terrell Farnsworth's self-recorded video to place his filming end at about 12:26 and the start of camera removal near 12:28, bearing on whether police could have instructed him.",
+      "description": "Host's use of the metadata on Terryl Farnsworth's self-recorded video to place his filming end at about 12:26 and the start of camera removal near 12:28, bearing on whether police could have instructed him.",
       "related_artifacts": [],
       "related_claims": [
         "C-6101",
@@ -1536,8 +1536,8 @@
       "@type": "Claim",
       "@id": "C-3313",
       "ref": "C-3313",
-      "label": "Host Says Terrell Accessed an SD Card on His Laptop at the Crime Scene",
-      "claim": "The host says the episode footage shows Terrell Farnsworth inserting an SD card into his laptop and working on it within approximately 10 minutes of Charlie Kirk being shot.",
+      "label": "Host Says Terryl Accessed an SD Card on His Laptop at the Crime Scene",
+      "claim": "The host says the episode footage shows Terryl Farnsworth inserting an SD card into his laptop and working on it within approximately 10 minutes of Charlie Kirk being shot.",
       "anchored_artifacts": [
         "A-2301.1",
         "A-2301.2"
@@ -1559,8 +1559,8 @@
       "@type": "Claim",
       "@id": "C-3314",
       "ref": "C-3314",
-      "label": "Host Says Footage Shows Terrell Showing Laptop Content to Philip Goldsbury Shortly After the Shooting",
-      "claim": "The host says the episode footage shows Terrell Farnsworth displaying content on his laptop screen to Philip Goldsbury approximately 10 minutes after Charlie Kirk was hit.",
+      "label": "Host Says Footage Shows Terryl Showing Laptop Content to Philip Goldsbury Shortly After the Shooting",
+      "claim": "The host says the episode footage shows Terryl Farnsworth displaying content on his laptop screen to Philip Goldsbury approximately 10 minutes after Charlie Kirk was hit.",
       "anchored_artifacts": [
         "A-2301.2"
       ],
@@ -1579,8 +1579,8 @@
       "@type": "Claim",
       "@id": "C-3315",
       "ref": "C-3315",
-      "label": "In Clip Host Plays, Ana Kasparian Says Terrell Never Provided the Original SD Card to Investigators",
-      "claim": "In a clip the host plays, Ana Kasparian says, based on David Hull's preliminary-hearing testimony, that Terrell Farnsworth did not provide the original SD card to investigators, only Google links and a flash drive.",
+      "label": "In Clip Host Plays, Ana Kasparian Says Terryl Never Provided the Original SD Card to Investigators",
+      "claim": "In a clip the host plays, Ana Kasparian says, based on David Hull's preliminary-hearing testimony, that Terryl Farnsworth did not provide the original SD card to investigators, only Google links and a flash drive.",
       "anchored_artifacts": [
         "A-2302.1",
         "A-2304.1"
@@ -1855,8 +1855,8 @@
       "@type": "Claim",
       "@id": "C-6093",
       "ref": "C-6093",
-      "label": "Host Recalls Kolvet Said Terrell Worried About Hat Thieves",
-      "claim": "The host says Andrew Kolvet told the audience that Terrell Farnsworth removed the camera card because he was worried about people stealing hats, which she says does not fit the footage.",
+      "label": "Host Recalls Kolvet Said Terryl Worried About Hat Thieves",
+      "claim": "The host says Andrew Kolvet told the audience that Terryl Farnsworth removed the camera card because he was worried about people stealing hats, which she says does not fit the footage.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10346"
@@ -1937,8 +1937,8 @@
       "@type": "Claim",
       "@id": "C-6097",
       "ref": "C-6097",
-      "label": "Host Says It Is Undisputed Terrell Removed a Physical Object",
-      "claim": "The host says it is not in dispute that Terrell Farnsworth removed a physical object from the crime scene and then went behind the tent and put it in his pocket.",
+      "label": "Host Says It Is Undisputed Terryl Removed a Physical Object",
+      "claim": "The host says it is not in dispute that Terryl Farnsworth removed a physical object from the crime scene and then went behind the tent and put it in his pocket.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10100"
@@ -1946,7 +1946,7 @@
       "tags": [],
       "claim_timestamp": "00:06:06",
       "investigative_direction": "Confirm against the host's earlier footage and any statement by Farnsworth or investigators.",
-      "transcript_snippet": "What is not in dispute is that Terrell did in fact remove a physical object from the crime scene.",
+      "transcript_snippet": "What is not in dispute is that Terryl did in fact remove a physical object from the crime scene.",
       "mentions_person_refs": [
         "N-262",
         "N-3"
@@ -1957,7 +1957,7 @@
       "@id": "C-6098",
       "ref": "C-6098",
       "label": "Host Says Footage Was Zoomed In When Given to Her Nine Days Later",
-      "claim": "The host says the footage Terrell Farnsworth presented to her nine days after the shooting had already been zoomed in, though she says it is unknown whether he or someone else zoomed it.",
+      "claim": "The host says the footage Terryl Farnsworth presented to her nine days after the shooting had already been zoomed in, though she says it is unknown whether he or someone else zoomed it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10810"
@@ -1999,8 +1999,8 @@
       "@type": "Claim",
       "@id": "C-6100",
       "ref": "C-6100",
-      "label": "Host Says Terrell Declared Charlie Dead in a Selfie Video",
-      "claim": "The host says Terrell Farnsworth declared in a selfie video that Charlie Kirk was dead within about two minutes of the shooting, which she uses to argue he knew it was a crime scene.",
+      "label": "Host Says Terryl Declared Charlie Dead in a Selfie Video",
+      "claim": "The host says Terryl Farnsworth declared in a selfie video that Charlie Kirk was dead within about two minutes of the shooting, which she uses to argue he knew it was a crime scene.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10346"
@@ -2022,8 +2022,8 @@
       "@type": "Claim",
       "@id": "C-6101",
       "ref": "C-6101",
-      "label": "Host Says Terrell's Selfie Video Metadata Runs to Just After 12:26",
-      "claim": "The host says metadata on Terrell Farnsworth's self-recorded video shows he filmed himself until just after 12:26, with Charlie Kirk struck at 12:23.",
+      "label": "Host Says Terryl's Selfie Video Metadata Runs to Just After 12:26",
+      "claim": "The host says metadata on Terryl Farnsworth's self-recorded video shows he filmed himself until just after 12:26, with Charlie Kirk struck at 12:23.",
       "anchored_artifacts": [
         "A-2797.1"
       ],
@@ -2044,8 +2044,8 @@
       "@type": "Claim",
       "@id": "C-6102",
       "ref": "C-6102",
-      "label": "Host Says Terrell Began Taking the Camera Down Around 12:28",
-      "claim": "The host says it was almost precisely 12:28 when Terrell Farnsworth began taking the camera down, leaving about a minute and a half for any officer to tell him to secure the footage.",
+      "label": "Host Says Terryl Began Taking the Camera Down Around 12:28",
+      "claim": "The host says it was almost precisely 12:28 when Terryl Farnsworth began taking the camera down, leaving about a minute and a half for any officer to tell him to secure the footage.",
       "anchored_artifacts": [
         "A-2797.1"
       ],
@@ -2066,7 +2066,7 @@
       "@id": "C-6103",
       "ref": "C-6103",
       "label": "Host Says Police Instruction Is Hardly Possible in the Time Window",
-      "claim": "The host says it is hardly possible that law enforcement officers on the scene told Terrell Farnsworth to secure the footage, given the metadata timeline.",
+      "claim": "The host says it is hardly possible that law enforcement officers on the scene told Terryl Farnsworth to secure the footage, given the metadata timeline.",
       "anchored_artifacts": [
         "A-2797.1"
       ],
@@ -2090,8 +2090,8 @@
       "@type": "Claim",
       "@id": "C-6104",
       "ref": "C-6104",
-      "label": "Host Rules Out Allan Robertson as Having Told Terrell",
-      "claim": "The host says Allan Robertson can be ruled out as the one who told Terrell to get the footage: she says he was visiting from Utah State University, undercover to check protesters, and would not have known who Terrell was.",
+      "label": "Host Rules Out Allan Robertson as Having Told Terryl",
+      "claim": "The host says Allan Robertson can be ruled out as the one who told Terryl to get the footage: she says he was visiting from Utah State University, undercover to check protesters, and would not have known who Terryl was.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10774"
@@ -2113,8 +2113,8 @@
       "@type": "Claim",
       "@id": "C-6105",
       "ref": "C-6105",
-      "label": "Host Says She Was Told Terrell Was Told the Opposite",
-      "claim": "The host says she was told, allegedly, that Terrell Farnsworth was told to do the exact opposite and not disturb the crime scene.",
+      "label": "Host Says She Was Told Terryl Was Told the Opposite",
+      "claim": "The host says she was told, allegedly, that Terryl Farnsworth was told to do the exact opposite and not disturb the crime scene.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10162"
@@ -2122,7 +2122,7 @@
       "tags": [],
       "claim_timestamp": "00:11:23",
       "investigative_direction": "Identify the host's source and any witness who gave Farnsworth that instruction.",
-      "transcript_snippet": "And I was told, and I will say allegedly here, that actually Terrell was told to do the exact opposite.",
+      "transcript_snippet": "And I was told, and I will say allegedly here, that actually Terryl was told to do the exact opposite.",
       "contradicts_claim_refs": [
         "C-4611"
       ],
@@ -2135,8 +2135,8 @@
       "@type": "Claim",
       "@id": "C-6106",
       "ref": "C-6106",
-      "label": "Host Says Terrell Never Claimed Police Told Him",
-      "claim": "The host says Terrell Farnsworth never claimed police told him to take the footage and that this narrative came only from Tyler Bowyer.",
+      "label": "Host Says Terryl Never Claimed Police Told Him",
+      "claim": "The host says Terryl Farnsworth never claimed police told him to take the footage and that this narrative came only from Tyler Bowyer.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10162"
@@ -2144,7 +2144,7 @@
       "tags": [],
       "claim_timestamp": "00:11:42",
       "investigative_direction": "Compare Bowyer's public statements with Farnsworth's account to the host.",
-      "transcript_snippet": "this narrative uh of the police told him to do that. Terrell himself never made that claim.",
+      "transcript_snippet": "this narrative uh of the police told him to do that. Terryl himself never made that claim.",
       "supports_claim_refs": [
         "C-4606"
       ],
@@ -2158,8 +2158,8 @@
       "@type": "Claim",
       "@id": "C-6107",
       "ref": "C-6107",
-      "label": "Host Says Terrell Named Only Erika as Someone He Spoke To",
-      "claim": "The host says the only person Terrell Farnsworth mentioned speaking to was Erika Kirk, without saying when, and that she is not suggesting Erika directed him.",
+      "label": "Host Says Terryl Named Only Erika as Someone He Spoke To",
+      "claim": "The host says the only person Terryl Farnsworth mentioned speaking to was Erika Kirk, without saying when, and that she is not suggesting Erika directed him.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10346"
@@ -2181,8 +2181,8 @@
       "@type": "Claim",
       "@id": "C-6108",
       "ref": "C-6108",
-      "label": "Host Says Terrell Said He Wanted to Spare Erika Seeing Charlie Die in 4K",
-      "claim": "The host says her understanding was that Terrell Farnsworth acted on his own volition because he did not want Erika Kirk to have to see Charlie Kirk die in 4K.",
+      "label": "Host Says Terryl Said He Wanted to Spare Erika Seeing Charlie Die in 4K",
+      "claim": "The host says her understanding was that Terryl Farnsworth acted on his own volition because he did not want Erika Kirk to have to see Charlie Kirk die in 4K.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10346"
@@ -2203,7 +2203,7 @@
       "@id": "C-6109",
       "ref": "C-6109",
       "label": "Host Lists Three Conflicting Explanations for Taking the Footage",
-      "claim": "The host says Tyler Bowyer said police told Terrell, Terrell said he acted on his own volition to protect Erika, and Andrew Kolvet said it was about hat thieves.",
+      "claim": "The host says Tyler Bowyer said police told Terryl, Terryl said he acted on his own volition to protect Erika, and Andrew Kolvet said it was about hat thieves.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10162",
@@ -2212,7 +2212,7 @@
       "tags": [],
       "claim_timestamp": "00:12:37",
       "investigative_direction": "Collect each explanation with date and venue and ask TPUSA to reconcile them.",
-      "transcript_snippet": "You had Tyler saying the police said it. You had Terrell saying that he did it out of his own valition to protect Erika.",
+      "transcript_snippet": "You had Tyler saying the police said it. You had Terryl saying that he did it out of his own valition to protect Erika.",
       "mentions_person_refs": [
         "N-11",
         "N-262",
@@ -3609,7 +3609,7 @@
           "video_timestamp": "00:14:13",
           "speaker_node_ref": "N-3",
           "quote": "Make it make sense.",
-          "context": "Host asks for any innocent explanation for Terrell's laptop use.",
+          "context": "Host asks for any innocent explanation for Terryl's laptop use.",
           "confidence": "high",
           "tags": [
             "make it make sense"

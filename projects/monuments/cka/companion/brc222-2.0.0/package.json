@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T06:40:39Z",
+  "generated_at": "2026-10-15T06:57:48Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -3647,7 +3647,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10354",
-      "label": "Host Says Erika Wrongly Said She Accused Erika of Murder",
+      "label": "Host Says Erika Wrongly Claimed the Host Accused Her of Murder",
       "node_kind": "claim",
       "episode": 97
     },
@@ -3871,7 +3871,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10386",
-      "label": "Host Says the Klacik Suit Was Dropped in Discovery",
+      "label": "Host Says Klacik Folded in Discovery",
       "node_kind": "claim",
       "episode": 97
     },
@@ -4067,7 +4067,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10414",
-      "label": "Host Says Harpole's Lawyer Matt Slauson Was Retweeting Laura Loomer",
+      "label": "Host Says Harpole's Lawyer Matt Sarelson Was Retweeting Laura Loomer",
       "node_kind": "claim",
       "episode": 97
     },
@@ -12110,21 +12110,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11525",
-      "label": "Host says she was in the Charlotte airport when the Slauson email arrived",
+      "label": "Host says she was in the Charlotte airport when the Sarelson email arrived",
       "node_kind": "claim",
       "episode": 98
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11526",
-      "label": "Host says Slauson first sent a demand saying a lawsuit would be filed in four days",
+      "label": "Host says Sarelson first sent a demand saying a lawsuit would be filed in four days",
       "node_kind": "claim",
       "episode": 98
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11527",
-      "label": "Host alleges coordination between Slauson and Laura Loomer",
+      "label": "Host alleges coordination between Sarelson and Laura Loomer",
       "node_kind": "claim",
       "episode": 98
     },
@@ -12285,7 +12285,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11548",
-      "label": "Host says Boring's focus on himself and neglect of talent led the company into debt",
+      "label": "Host Says Boreing's Focus on Himself and Neglect of Talent Led the Company Into Debt",
       "node_kind": "claim",
       "episode": 98
     },
@@ -18557,7 +18557,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12362",
-      "label": "Host Says Terrell Farnsworth Does Not Normally Work College Campus Events",
+      "label": "Host Says Terryl Farnsworth Does Not Normally Work College Campus Events",
       "node_kind": "claim",
       "episode": 33
     },
@@ -20916,7 +20916,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12669",
-      "label": "Host Says Terrell Farnsworth Was Supposed to Take the Cameras Down So Nothing Would Be Seen",
+      "label": "Host Says Terryl Farnsworth Was Supposed to Take the Cameras Down So Nothing Would Be Seen",
       "node_kind": "claim",
       "episode": 69
     },
@@ -22736,7 +22736,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12905",
-      "label": "Host Says Kirk Told Her He Adored Rush Limbaugh and Wanted to Host Three Hours of Radio Daily",
+      "label": "Host Says Kirk Adored Rush Limbaugh and Wanted to Host Three Hours of Radio Daily",
       "node_kind": "claim",
       "episode": 99
     },
@@ -22750,7 +22750,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12907",
-      "label": "Host Says Show Faith by Works Filing Includes Anti-Palestinian Messaging and October 7th Experiences in Church Parking Lots",
+      "label": "Host Says Show Faith by Works Would Send Anti-Palestinian Messaging and Run October 7th Experiences in Church Parking Lots",
       "node_kind": "claim",
       "episode": 99
     },
@@ -23114,7 +23114,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12954",
-      "label": "Host Says the No-Neck Lie Would Have Gone Unchallenged but for Terrell Farnsworth",
+      "label": "Host Says the No-Neck Lie Would Have Gone Unchallenged but for Terryl Farnsworth",
       "node_kind": "claim",
       "episode": 99
     },
@@ -23198,7 +23198,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12965",
-      "label": "Host Says TPUSA Wanted the Story to End With 'I Forgive Him' on September 21",
+      "label": "Host Says 'They' Wanted the Story to End With 'I Forgive Him' on September 21",
       "node_kind": "claim",
       "episode": 99
     },
@@ -31290,7 +31290,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14017",
-      "label": "Host Says Terrell Farnsworth Lied to Her Several Times About the Cameras",
+      "label": "Host Says Terryl Farnsworth Lied to Her Several Times About the Cameras",
       "node_kind": "claim",
       "episode": 47
     },
@@ -35910,7 +35910,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14617",
-      "label": "Commenter Says Terrell Farnsworth Took a Chair From the Crime Scene to Mess With the Camera",
+      "label": "Commenter Says Terryl Farnsworth Took a Chair From the Crime Scene to Mess With the Camera",
       "node_kind": "claim",
       "episode": 87
     },
@@ -35924,7 +35924,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14619",
-      "label": "Host Says Terrell Farnsworth Was All Crazy on the Phone",
+      "label": "Host Says Terryl Farnsworth Was All Crazy on the Phone",
       "node_kind": "claim",
       "episode": 87
     },
@@ -39291,7 +39291,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-15057",
-      "label": "Host Says Coleman Will Keep Track of Tricky Terrell",
+      "label": "Host Says Coleman Will Keep Track of Tricky Terryl",
       "node_kind": "claim",
       "episode": 153
     },
@@ -42357,7 +42357,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1940",
-      "label": "Host Says TPUSA Defended Terrell Farnsworth's Camera Removal",
+      "label": "Host Says TPUSA Defended Terryl Farnsworth's Camera Removal",
       "node_kind": "claim",
       "episode": 47
     },
@@ -44303,7 +44303,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2220",
-      "label": "Teo Farnsworth Was Audible in the Background of the Sept 16 TPUSA Call",
+      "label": "Terryl Farnsworth Was Audible in the Background of the Sept 16 TPUSA Call",
       "node_kind": "claim",
       "episode": 64
     },
@@ -48195,7 +48195,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2800",
-      "label": "Host Says Taro Farnsworth Recorded Video at Charlie Kirk Shooting Scene",
+      "label": "Host Says Terryl Farnsworth Recorded Video at Charlie Kirk Shooting Scene",
       "node_kind": "claim",
       "episode": 96
     },
@@ -48321,7 +48321,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2818",
-      "label": "Candace Sent Three Unanswered Text Messages to Harpole Before the Mitch Snow Interview",
+      "label": "Candace Says Harpole Left Her Text Messages Unanswered",
       "node_kind": "claim",
       "episode": 97
     },
@@ -48503,7 +48503,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2844",
-      "label": "Host Says Show Faith by Works LLC Is Run by Chad Schnitker per FARA Filings",
+      "label": "Host Reads Times of Israel Saying Show Faith by Works Is Run by Chad Schnitker",
       "node_kind": "claim",
       "episode": 98
     },
@@ -48545,7 +48545,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2850",
-      "label": "Matt Slauson's X wall showed he heavily retweeted Laura Loomer attacks before posting the Harpole lawsuit",
+      "label": "Matt Sarelson's X wall showed he heavily retweeted Laura Loomer attacks before posting the Harpole lawsuit",
       "node_kind": "claim",
       "episode": 98
     },
@@ -48622,7 +48622,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2861",
-      "label": "Host Says Show Faith by Works LLC Registered with FARA on September 18, 2025",
+      "label": "Host Says Israeli Foreign Ministry Contracted Show Faith by Works LLC via Havas Media on September 18, 2025",
       "node_kind": "claim",
       "episode": 99
     },
@@ -48657,7 +48657,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2866",
-      "label": "Host Says Brad Parscale Became Chief Strategy Officer of Salem Media Network in January 2025",
+      "label": "Host Says Brad Parscale Became Chief Strategy Officer of Salem Media Network in January",
       "node_kind": "claim",
       "episode": 99
     },
@@ -49266,7 +49266,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2954",
-      "label": "Host Says Terrell Farnsworth Video Shows Frank Turek Entering SUV Through Trunk",
+      "label": "Host Says Terryl Farnsworth Video Shows Frank Turek Entering SUV Through Trunk",
       "node_kind": "claim",
       "episode": 121
     },
@@ -51618,14 +51618,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3290",
-      "label": "Per 1102 Statement Host Shows, Terrell Farnsworth Used Google Drive to Send Four Videos to SBI on September 10",
+      "label": "Per 1102 Statement Host Shows, Terryl Farnsworth Used Google Drive to Send Four Videos to SBI on September 10",
       "node_kind": "claim",
       "episode": 142
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3291",
-      "label": "Terrell Farnsworth's Google-Hacking Fear Is Contradicted by His Same-Day Google Drive Usage",
+      "label": "Terryl Farnsworth's Google-Hacking Fear Is Contradicted by His Same-Day Google Drive Usage",
       "node_kind": "claim",
       "episode": 142
     },
@@ -51702,21 +51702,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3302",
-      "label": "Terrell/Taral Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting",
+      "label": "Terryl/Taral Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting",
       "node_kind": "claim",
       "episode": 143
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3303",
-      "label": "Terrell/Taral Subsequently Inserted That SD Card Into His Laptop",
+      "label": "Terryl/Taral Subsequently Inserted That SD Card Into His Laptop",
       "node_kind": "claim",
       "episode": 143
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3304",
-      "label": "Terrell/Taral Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head",
+      "label": "Terryl/Taral Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head",
       "node_kind": "claim",
       "episode": 143
     },
@@ -51779,21 +51779,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3313",
-      "label": "Host Says Terrell Accessed an SD Card on His Laptop at the Crime Scene",
+      "label": "Host Says Terryl Accessed an SD Card on His Laptop at the Crime Scene",
       "node_kind": "claim",
       "episode": 144
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3314",
-      "label": "Host Says Footage Shows Terrell Showing Laptop Content to Philip Goldsbury Shortly After the Shooting",
+      "label": "Host Says Footage Shows Terryl Showing Laptop Content to Philip Goldsbury Shortly After the Shooting",
       "node_kind": "claim",
       "episode": 144
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3315",
-      "label": "In Clip Host Plays, Ana Kasparian Says Terrell Never Provided the Original SD Card to Investigators",
+      "label": "In Clip Host Plays, Ana Kasparian Says Terryl Never Provided the Original SD Card to Investigators",
       "node_kind": "claim",
       "episode": 144
     },
@@ -52668,7 +52668,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3440",
-      "label": "Host Says Terrell Farnsworth Was on a Laptop in a Mercedes Sprinter Van at About 1:00 PM",
+      "label": "Host Says Terryl Farnsworth Was on a Laptop in a Mercedes Sprinter Van at About 1:00 PM",
       "node_kind": "claim",
       "episode": 151
     },
@@ -55363,7 +55363,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3827",
-      "label": "Terrell took down the back footage about four minutes after Charlie was struck",
+      "label": "Terryl took down the back footage about four minutes after Charlie was struck",
       "node_kind": "claim",
       "episode": 95
     },
@@ -55377,7 +55377,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3829",
-      "label": "Terrell recorded a selfie video after the shooting",
+      "label": "Terryl recorded a selfie video after the shooting",
       "node_kind": "claim",
       "episode": 95
     },
@@ -55391,7 +55391,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3831",
-      "label": "Nicci Says Back-Camera Shots at Other 2025 Tour Stops Were Wide-Angle",
+      "label": "Nicci Shows Back-Camera Shots From Other 2025 Tour Stops",
       "node_kind": "claim",
       "episode": 95
     },
@@ -55405,35 +55405,35 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3833",
-      "label": "Host phoned Terrell on September 17 after the takedown video went viral",
+      "label": "Host phoned Terryl on September 17 after the takedown video went viral",
       "node_kind": "claim",
       "episode": 95
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3834",
-      "label": "Terrell agreed on September 19 to show the footage after citing Erika",
+      "label": "Terryl agreed on September 19 to show the footage after citing Erika",
       "node_kind": "claim",
       "episode": 95
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3835",
-      "label": "The \"YOLO\" drive on Terrell's desktop is likely the camera's SD card",
+      "label": "The \"YOLO\" drive on Terryl's desktop is likely the camera's SD card",
       "node_kind": "claim",
       "episode": 95
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3836",
-      "label": "Terrell never said he lacked the footage or had given the SD card to the feds",
+      "label": "Terryl never said he lacked the footage or had given the SD card to the feds",
       "node_kind": "claim",
       "episode": 95
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3837",
-      "label": "Terrell said he removed the camera to protect Erika",
+      "label": "Terryl said he removed the camera to protect Erika",
       "node_kind": "claim",
       "episode": 95
     },
@@ -55447,7 +55447,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3839",
-      "label": "Terrell took the footage back to Scottsdale",
+      "label": "Terryl took the footage back to Scottsdale",
       "node_kind": "claim",
       "episode": 95
     },
@@ -55461,7 +55461,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3841",
-      "label": "Host believes Terrell zoomed in to hide the ground",
+      "label": "Host believes Terryl zoomed in to hide the ground",
       "node_kind": "claim",
       "episode": 95
     },
@@ -60816,14 +60816,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4606",
-      "label": "Terrell Farnsworth says he spoke to Erika Kirk about the back footage",
+      "label": "Terryl Farnsworth says he spoke to Erika Kirk about the back footage",
       "node_kind": "claim",
       "episode": 116
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4607",
-      "label": "Terrell Farnsworth is in the background of Erika Kirk's Zoom call six days after",
+      "label": "Terryl Farnsworth is in the background of Erika Kirk's Zoom call six days after",
       "node_kind": "claim",
       "episode": 116
     },
@@ -60851,7 +60851,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4611",
-      "label": "Terrell Farnsworth was instructed to take the SD card from the back camera",
+      "label": "Terryl Farnsworth was instructed to take the SD card from the back camera",
       "node_kind": "claim",
       "episode": 116
     },
@@ -61145,7 +61145,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4653",
-      "label": "Terrell Farnsworth removed the back camera and recorded a selfie video minutes after the shooting",
+      "label": "Terryl Farnsworth removed the back camera and recorded a selfie video minutes after the shooting",
       "node_kind": "claim",
       "episode": 117
     },
@@ -62013,14 +62013,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4777",
-      "label": "An Erika Kirk booking with the Shawn Ryan Show was arranged through Terrell Farnsworth",
+      "label": "An Erika Kirk booking with the Shawn Ryan Show was arranged through Terryl Farnsworth",
       "node_kind": "claim",
       "episode": 119
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4778",
-      "label": "Terrell Farnsworth announced Charlie's death on camera, took down the camera and runs the AV company",
+      "label": "Terryl Farnsworth announced Charlie's death on camera, took down the camera and runs the AV company",
       "node_kind": "claim",
       "episode": 119
     },
@@ -62048,14 +62048,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4782",
-      "label": "Charlie Kirk had Terrell Farnsworth's team removed from his building on July 24",
+      "label": "Charlie Kirk had Terryl Farnsworth's team removed from his building on July 24",
       "node_kind": "claim",
       "episode": 119
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4783",
-      "label": "Terrell Farnsworth stood behind Erika Kirk on her first staff Zoom call",
+      "label": "Terryl Farnsworth stood behind Erika Kirk on her first staff Zoom call",
       "node_kind": "claim",
       "episode": 119
     },
@@ -62076,7 +62076,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4786",
-      "label": "Brian Farnsworth is Terrell Farnsworth's brother and was on the Visual Impulse team",
+      "label": "Brian Farnsworth is Terryl Farnsworth's brother and was on the Visual Impulse team",
       "node_kind": "claim",
       "episode": 119
     },
@@ -62090,7 +62090,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4788",
-      "label": "Parker Edwards went to the same high school as Terrell Farnsworth",
+      "label": "Parker Edwards went to the same high school as Terryl Farnsworth",
       "node_kind": "claim",
       "episode": 119
     },
@@ -65555,7 +65555,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5283",
-      "label": "Terrell Farnsworth raced to remove the camera behind Charlie's head",
+      "label": "Terryl Farnsworth raced to remove the camera behind Charlie's head",
       "node_kind": "claim",
       "episode": 49
     },
@@ -70294,7 +70294,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5960",
-      "label": "Host says Terrell Farnsworth is Mormon, takes down the cameras, and families knew Erika before Charlie",
+      "label": "Host says Terryl Farnsworth is Mormon, takes down the cameras, and families knew Erika before Charlie",
       "node_kind": "claim",
       "episode": 130
     },
@@ -71225,7 +71225,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6093",
-      "label": "Host Recalls Kolvet Said Terrell Worried About Hat Thieves",
+      "label": "Host Recalls Kolvet Said Terryl Worried About Hat Thieves",
       "node_kind": "claim",
       "episode": 144
     },
@@ -71253,7 +71253,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6097",
-      "label": "Host Says It Is Undisputed Terrell Removed a Physical Object",
+      "label": "Host Says It Is Undisputed Terryl Removed a Physical Object",
       "node_kind": "claim",
       "episode": 144
     },
@@ -71274,21 +71274,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6100",
-      "label": "Host Says Terrell Declared Charlie Dead in a Selfie Video",
+      "label": "Host Says Terryl Declared Charlie Dead in a Selfie Video",
       "node_kind": "claim",
       "episode": 144
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6101",
-      "label": "Host Says Terrell's Selfie Video Metadata Runs to Just After 12:26",
+      "label": "Host Says Terryl's Selfie Video Metadata Runs to Just After 12:26",
       "node_kind": "claim",
       "episode": 144
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6102",
-      "label": "Host Says Terrell Began Taking the Camera Down Around 12:28",
+      "label": "Host Says Terryl Began Taking the Camera Down Around 12:28",
       "node_kind": "claim",
       "episode": 144
     },
@@ -71302,35 +71302,35 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6104",
-      "label": "Host Rules Out Allan Robertson as Having Told Terrell",
+      "label": "Host Rules Out Allan Robertson as Having Told Terryl",
       "node_kind": "claim",
       "episode": 144
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6105",
-      "label": "Host Says She Was Told Terrell Was Told the Opposite",
+      "label": "Host Says She Was Told Terryl Was Told the Opposite",
       "node_kind": "claim",
       "episode": 144
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6106",
-      "label": "Host Says Terrell Never Claimed Police Told Him",
+      "label": "Host Says Terryl Never Claimed Police Told Him",
       "node_kind": "claim",
       "episode": 144
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6107",
-      "label": "Host Says Terrell Named Only Erika as Someone He Spoke To",
+      "label": "Host Says Terryl Named Only Erika as Someone He Spoke To",
       "node_kind": "claim",
       "episode": 144
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6108",
-      "label": "Host Says Terrell Said He Wanted to Spare Erika Seeing Charlie Die in 4K",
+      "label": "Host Says Terryl Said He Wanted to Spare Erika Seeing Charlie Die in 4K",
       "node_kind": "claim",
       "episode": 144
     },
@@ -81354,14 +81354,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7540",
-      "label": "Host Says Terrell Was the First to Declare Charlie Dead",
+      "label": "Host Says Terryl Was the First to Declare Charlie Dead",
       "node_kind": "claim",
       "episode": 143
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7541",
-      "label": "Host Says She Has Held the Footage Since October and Spoke to Terrell in September",
+      "label": "Host Says She Has Held the Footage Since October and Spoke to Terryl in September",
       "node_kind": "claim",
       "episode": 143
     },
@@ -81382,7 +81382,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7544",
-      "label": "Host Says the Footage Shows Terrell Texting and Then Sitting Facing the Other Way on His Laptop",
+      "label": "Host Says the Footage Shows Terryl Texting and Then Sitting Facing the Other Way on His Laptop",
       "node_kind": "claim",
       "episode": 143
     },
@@ -81403,14 +81403,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7547",
-      "label": "Host Says Terrell's 1102 Statement Describes the Yellow Camera as Filming the Audience",
+      "label": "Host Says Terryl's 1102 Statement Describes the Yellow Camera as Filming the Audience",
       "node_kind": "claim",
       "episode": 143
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7548",
-      "label": "Host Says Terrell Took the Head-Camera Card About Three Minutes After the Yellow Camera Fell",
+      "label": "Host Says Terryl Took the Head-Camera Card About Three Minutes After the Yellow Camera Fell",
       "node_kind": "claim",
       "episode": 143
     },
@@ -81676,14 +81676,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7586",
-      "label": "Host Says She Cannot Assert Evidence Tampering by Terrell",
+      "label": "Host Says She Cannot Assert Evidence Tampering by Terryl",
       "node_kind": "claim",
       "episode": 143
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7587",
-      "label": "Host Says Terrell Had Already Sent a Google Link to the SBI Over 8 Days Earlier",
+      "label": "Host Says Terryl Had Already Sent a Google Link to the SBI Over 8 Days Earlier",
       "node_kind": "claim",
       "episode": 143
     },
@@ -82040,14 +82040,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7638",
-      "label": "Host Says Terrell Recorded a Selfie Video Instead of Calling 911",
+      "label": "Host Says Terryl Recorded a Selfie Video Instead of Calling 911",
       "node_kind": "claim",
       "episode": 146
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7639",
-      "label": "Host Says Terrell Removed SD Cards and Put One Into His Computer After the Selfie",
+      "label": "Host Says Terryl Removed SD Cards and Put One Into His Computer After the Selfie",
       "node_kind": "claim",
       "episode": 146
     },
@@ -90041,7 +90041,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8781",
-      "label": "Host says Erika tweeted she needed family time and would return on the Wednesday show",
+      "label": "Host Says Erika Said She Needed Family Time And Would Return On Wednesday Show",
       "node_kind": "claim",
       "episode": 96
     },
@@ -90104,7 +90104,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8790",
-      "label": "Host says she never explicitly claimed Erika murdered Charlie, only that she lied",
+      "label": "Viewer Comment Says Host Never Explicitly Claimed Erika Murdered Charlie",
       "node_kind": "claim",
       "episode": 96
     },
@@ -90209,7 +90209,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8805",
-      "label": "Host says Blake Neff's and Kolvet's explanations differ",
+      "label": "Baron Coleman Says Neff and Kolvet Gave Different Excuses",
       "node_kind": "claim",
       "episode": 96
     },
@@ -96572,14 +96572,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9714",
-      "label": "Host Says Terrell Was Not Told by Police to Remove Cameras and Blames Bowyer",
+      "label": "Host Says Terryl Was Not Told by Police to Remove Cameras and Blames Bowyer",
       "node_kind": "claim",
       "episode": 30
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9715",
-      "label": "Host Rebuts Kolvet's Account That Terrell Moved SD Cards Because People Were Stealing Hats",
+      "label": "Host Rebuts Kolvet's Account That Terryl Moved SD Cards Because People Were Stealing Hats",
       "node_kind": "claim",
       "episode": 30
     },
@@ -104825,7 +104825,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1424.1",
-      "label": "Host's verbal account that Terrell Farnsworth attended the UVU campus event on September 10 (described as unusual because he typically handles larger TPUSA events), and that he secured the SD cards af",
+      "label": "Host's verbal account that Terryl Farnsworth attended the UVU campus event on September 10 (described as unusual because he typically handles larger TPUSA events), and that he secured the SD cards aft",
       "node_kind": "artifact",
       "episode": 33
     },
@@ -114688,7 +114688,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2010.1",
-      "label": "Taro Farnsworth video recorded at Charlie Kirk shooting scene within seconds",
+      "label": "Terryl Farnsworth video recorded at Charlie Kirk shooting scene within seconds",
       "node_kind": "artifact",
       "episode": 96
     },
@@ -115325,14 +115325,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2041",
-      "label": "Matt Slauson X Wall Display Bundle",
+      "label": "Matt Sarelson X Wall Display Bundle",
       "node_kind": "artifact",
       "episode": 98
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2041.1",
-      "label": "Matt Slauson X wall display: prior to acknowledging the Brian Harpole lawsuit, Slauson heavily retweeted Laura Loomer and her attacks against the host's family",
+      "label": "Matt Sarelson X wall display: prior to acknowledging the Brian Harpole lawsuit, Sarelson heavily retweeted Laura Loomer and her attacks against the host's family",
       "node_kind": "artifact",
       "episode": 98
     },
@@ -116424,14 +116424,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2103",
-      "label": "Terrell Farnsworth Video Bundle",
+      "label": "Terryl Farnsworth Video Bundle",
       "node_kind": "artifact",
       "episode": 121
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2103.1",
-      "label": "Terrell Farnsworth video showing Frank Turek entering SUV through trunk",
+      "label": "Terryl Farnsworth video showing Frank Turek entering SUV through trunk",
       "node_kind": "artifact",
       "episode": 121
     },
@@ -119910,7 +119910,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2284",
-      "label": "Terrell Farnsworth 1102 Statement Bundle",
+      "label": "Terryl Farnsworth 1102 Statement Bundle",
       "node_kind": "artifact",
       "episode": 142
     },
@@ -119980,7 +119980,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2288.1",
-      "label": "Terrell Farnsworth Post-Removal Behavior (Pocket / Look-Around / Text)",
+      "label": "Terryl Farnsworth Post-Removal Behavior (Pocket / Look-Around / Text)",
       "node_kind": "artifact",
       "episode": 142
     },
@@ -120141,14 +120141,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2295",
-      "label": "Exclusive Footage – Terrell/Taral SD Card and Laptop Handling",
+      "label": "Exclusive Footage – Terryl/Taral SD Card and Laptop Handling",
       "node_kind": "artifact",
       "episode": 143
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2295.1",
-      "label": "Video segment showing the camera operator (Taral/Terrell/Terrence) bending over the camera behind Charlie Kirk's head, removing the SD card, pocketing it, looking around, then opening his laptop and a",
+      "label": "Video segment showing the camera operator (Taral/Terryl/Terrence) bending over the camera behind Charlie Kirk's head, removing the SD card, pocketing it, looking around, then opening his laptop and ap",
       "node_kind": "artifact",
       "episode": 143
     },
@@ -120162,7 +120162,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2295.3",
-      "label": "Video segment showing Taral/Terrell stepping over the fallen yellow camera and its encompassed SD card en route to the camera behind Charlie's head.",
+      "label": "Video segment showing Taral/Terryl stepping over the fallen yellow camera and its encompassed SD card en route to the camera behind Charlie's head.",
       "node_kind": "artifact",
       "episode": 143
     },
@@ -120239,21 +120239,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2301",
-      "label": "Terrell Farnsworth Crime-Scene Laptop Footage Bundle",
+      "label": "Terryl Farnsworth Crime-Scene Laptop Footage Bundle",
       "node_kind": "artifact",
       "episode": 144
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2301.1",
-      "label": "Footage: Terrell accessing his laptop with an SD card after removing it from a camera at the crime scene",
+      "label": "Footage: Terryl accessing his laptop with an SD card after removing it from a camera at the crime scene",
       "node_kind": "artifact",
       "episode": 144
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2301.2",
-      "label": "Footage: Terrell showing his laptop screen to Philip Goldsbury at the crime scene",
+      "label": "Footage: Terryl showing his laptop screen to Philip Goldsbury at the crime scene",
       "node_kind": "artifact",
       "episode": 144
     },
@@ -120267,7 +120267,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2302.1",
-      "label": "Audio: Ana Kasparian's question to Candace regarding Terrell never providing the original SD card to investigators",
+      "label": "Audio: Ana Kasparian's question to Candace regarding Terryl never providing the original SD card to investigators",
       "node_kind": "artifact",
       "episode": 144
     },
@@ -120295,7 +120295,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2304.1",
-      "label": "Audio: David Hull testimony stating investigators did not receive the physical SD card from Terrell",
+      "label": "Audio: David Hull testimony stating investigators did not receive the physical SD card from Terryl",
       "node_kind": "artifact",
       "episode": 144
     },
@@ -121345,7 +121345,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2370.1",
-      "label": "Enhanced surveillance/security-style footage showing Terrell Farnsworth seated in the back of a Mercedes Sprinter van (described as appearing to belong to the AV team) using a laptop, looking around, ",
+      "label": "Enhanced surveillance/security-style footage showing Terryl Farnsworth seated in the back of a Mercedes Sprinter van (described as appearing to belong to the AV team) using a laptop, looking around, a",
       "node_kind": "artifact",
       "episode": 151
     },
@@ -124075,21 +124075,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2537.1",
-      "label": "YouTuber Nicci's video comparing Terrell Farnsworth's shared back-camera footage with wide-angle back-camera shots from 2025 American Comeback Tour stops (played)",
+      "label": "YouTuber Nicci's video comparing Terryl Farnsworth's shared back-camera footage with wide-angle back-camera shots from 2025 American Comeback Tour stops (played)",
       "node_kind": "artifact",
       "episode": 95
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2538",
-      "label": "Terrell Farnsworth FaceTime Bundle",
+      "label": "Terryl Farnsworth FaceTime Bundle",
       "node_kind": "artifact",
       "episode": 95
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2538.1",
-      "label": "Opening of the host's September 19 FaceTime call with Terrell Farnsworth, showing him opening a file on his computer desktop (played, with freeze frame)",
+      "label": "Opening of the host's September 19 FaceTime call with Terryl Farnsworth, showing him opening a file on his computer desktop (played, with freeze frame)",
       "node_kind": "artifact",
       "episode": 95
     },
@@ -126945,14 +126945,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2681",
-      "label": "Terrell Farnsworth Phone Call Bundle",
+      "label": "Terryl Farnsworth Phone Call Bundle",
       "node_kind": "artifact",
       "episode": 117
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2681.1",
-      "label": "Host verbal reference to her phone call with Terrell Farnsworth after the assassination (not played)",
+      "label": "Host verbal reference to her phone call with Terryl Farnsworth after the assassination (not played)",
       "node_kind": "artifact",
       "episode": 117
     },
@@ -127274,14 +127274,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2698.1",
-      "label": "Still photo of Erika Kirk's first staff Zoom call with Terrell Farnsworth standing behind her",
+      "label": "Still photo of Erika Kirk's first staff Zoom call with Terryl Farnsworth standing behind her",
       "node_kind": "artifact",
       "episode": 119
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2698.2",
-      "label": "Graphic of the Visual Impulse team present on September 10 (Terrell Farnsworth, Brian Farnsworth, Philip Goldsberry Jr., Parker Edwards, Aaron Edwards, Robert Golow)",
+      "label": "Graphic of the Visual Impulse team present on September 10 (Terryl Farnsworth, Brian Farnsworth, Philip Goldsberry Jr., Parker Edwards, Aaron Edwards, Robert Golow)",
       "node_kind": "artifact",
       "episode": 119
     },
@@ -128940,14 +128940,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2797",
-      "label": "Terrell Selfie Video Metadata Bundle",
+      "label": "Terryl Selfie Video Metadata Bundle",
       "node_kind": "artifact",
       "episode": 144
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2797.1",
-      "label": "Host verbal reference to metadata on Terrell Farnsworth's self-recorded video (not shown)",
+      "label": "Host verbal reference to metadata on Terryl Farnsworth's self-recorded video (not shown)",
       "node_kind": "artifact",
       "episode": 144
     },
@@ -130494,7 +130494,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2890",
-      "label": "Terrell Farnsworth 1102 Statement Bundle",
+      "label": "Terryl Farnsworth 1102 Statement Bundle",
       "node_kind": "artifact",
       "episode": 143
     },
@@ -130529,7 +130529,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2892.1",
-      "label": "Host reads viewer comment saying Terrell Farnsworth could be guilty of evidence tampering and obstruction",
+      "label": "Host reads viewer comment saying Terryl Farnsworth could be guilty of evidence tampering and obstruction",
       "node_kind": "artifact",
       "episode": 143
     },
@@ -134932,7 +134932,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3165.1",
-      "label": "Host verbal reference to preliminary-hearing testimony about the SBI receiving thumb drives rather than original SD cards and about Terrell Farnsworth sending files to the FBI via Google (not shown)",
+      "label": "Host verbal reference to preliminary-hearing testimony about the SBI receiving thumb drives rather than original SD cards and about Terryl Farnsworth sending files to the FBI via Google (not shown)",
       "node_kind": "artifact",
       "episode": 151
     },

@@ -21,7 +21,7 @@
 
 ## 2. Executive Summary
 
-The host plays an analysis by the YouTuber Nicci (A-2537.1) arguing that the back-camera footage Terrell Farnsworth showed the host over FaceTime was likely zoomed in or cropped. Nicci's clip compares it with wide-angle back-camera shots from other 2025 American Comeback Tour stops. The host adds the opening of her FaceTime call with Terrell (A-2538.1), in which she says he opens a drive she suspects is the camera's SD card on his desktop in Scottsdale. She says that in their September 17 and 19 conversations Terrell never told her he lacked the footage or had given the SD card to federal agents. She also notes that Charlie Kirk was seated on a new platform and that, by her review, the camera directly behind his head first appeared in 2025 (A-2539).
+The host plays an analysis by the YouTuber Nicci (A-2537.1) arguing that the back-camera footage Terryl Farnsworth showed the host over FaceTime was likely zoomed in or cropped. Nicci's clip compares it with wide-angle back-camera shots from other 2025 American Comeback Tour stops. The host adds the opening of her FaceTime call with Terryl (A-2538.1), in which she says he opens a drive she suspects is the camera's SD card on his desktop in Scottsdale. She says that in their September 17 and 19 conversations Terryl never told her he lacked the footage or had given the SD card to federal agents. She also notes that Charlie Kirk was seated on a new platform and that, by her review, the camera directly behind his head first appeared in 2025 (A-2539).
 
 According to an unverified tip the host relays (A-2540.1), in late 2016 Lori Frantzve and Larry Guinta met the holders of a pending patent for an interchangeable-caliber gun. The tip says the four had dinner in Scottsdale, where Lori and Larry offered access to government contracts and Erika Frantzve arrived unannounced. The host says Erika was then dating Cabot Phillips, not Charlie Kirk, and that nothing came of the deal. She links this to Victor Marx's interest in the Fold AR patent and to her view that Jeffrey Epstein began his career in weapons trafficking.
 
@@ -33,9 +33,9 @@ In the comments segment the host discusses the continuance fight in the Robinson
 
 **A-2537** Nicci Back-Camera Analysis Bundle
 
-**A-2537.1** YouTuber Nicci's video comparing Terrell Farnsworth's shared back-camera footage with wide-angle back-camera shots from 2025 American Comeback Tour stops (played)
+**A-2537.1** YouTuber Nicci's video comparing Terryl Farnsworth's shared back-camera footage with wide-angle back-camera shots from 2025 American Comeback Tour stops (played)
 
-Quoted text: "In this footage that Terrell has selectively shared with Candace, we can't see the ground where Charlie had been sitting."
+Quoted text: "In this footage that Terryl has selectively shared with Candace, we can't see the ground where Charlie had been sitting."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:02:17
@@ -46,9 +46,9 @@ Confidence Level: High
 
 ---
 
-**A-2538** Terrell Farnsworth FaceTime Bundle
+**A-2538** Terryl Farnsworth FaceTime Bundle
 
-**A-2538.1** Opening of the host's September 19 FaceTime call with Terrell Farnsworth, showing him opening a file on his computer desktop (played, with freeze frame)
+**A-2538.1** Opening of the host's September 19 FaceTime call with Terryl Farnsworth, showing him opening a file on his computer desktop (played, with freeze frame)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:06:17
@@ -203,13 +203,13 @@ Assassination victim; his back-camera footage, tabling setup, Aspen successor au
 
 **N-2** Erika Kirk
 
-Named by Terrell as the reason he removed the camera; the tip places her (as Erika Frantzve) at a 2016 gun-patent dinner; her Aspen succession claim, victim's-rights assertion and handling of Charlie's body are questioned.
+Named by Terryl as the reason he removed the camera; the tip places her (as Erika Frantzve) at a 2016 gun-patent dinner; her Aspen succession claim, victim's-rights assertion and handling of Charlie's body are questioned.
 
 *Related: C-3834, C-3837, C-3852, C-3853, C-3854, C-3861, C-3862, C-3864, C-3875, C-3876, C-3877, C-3878, A-2540.1, A-2542.1*
 
 **N-3** Candace Owens
 
-Host; recounts her September 17 and 19 calls with Terrell Farnsworth, rebuts Blake Neff, and is the target of Laura Loomer's tweet.
+Host; recounts her September 17 and 19 calls with Terryl Farnsworth, rebuts Blake Neff, and is the target of Laura Loomer's tweet.
 
 *Related: C-3830, C-3833, C-3835, C-3836, C-3840, C-3858, C-3862, C-3864, C-3869, C-3879, C-3880, A-2538.1, A-2541.1, A-2542.1, A-2543.1, A-2543.2*
 
@@ -302,9 +302,9 @@ Named among TPUSA employees who did not call 911.
 
 *Related: C-3828, C-3829*
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
-Transcript spellings "Terrell" and "Tarrio". Camera operator who took down the back camera, showed the host the footage over FaceTime and, she suspects, kept the SD card.
+Transcript spellings "Terryl" and "Tarrio". Camera operator who took down the back camera, showed the host the footage over FaceTime and, she suspects, kept the SD card.
 
 *Related: C-3827, C-3828, C-3829, C-3830, C-3832, C-3833, C-3834, C-3835, C-3836, C-3837, C-3839, C-3841, A-2537.1, A-2538.1*
 
@@ -410,9 +410,9 @@ The host asks whether Charlie was buried after a Catholic funeral mass or cremat
 
 *Related: C-3878*
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
-Terrell's stated reason (protecting Erika) for removing the camera.
+Terryl's stated reason (protecting Erika) for removing the camera.
 
 *Related: C-3827, C-3837*
 
@@ -494,15 +494,15 @@ Nicci's finding that the shared footage was zoomed or cropped, hiding the ground
 
 *Related: C-3830, C-3831, C-3832, C-3841, A-2537.1*
 
-**N-10801** Terrell Post-Removal Communications
+**N-10801** Terryl Post-Removal Communications
 
-The host's September 17 and 19 calls with Terrell.
+The host's September 17 and 19 calls with Terryl.
 
 *Related: C-3833, C-3834, C-3836*
 
-**N-10808** Terrell SD Card-to-Laptop Transfer Sequence
+**N-10808** Terryl SD Card-to-Laptop Transfer Sequence
 
-The "YOLO" drive on Terrell's desktop in Scottsdale.
+The "YOLO" drive on Terryl's desktop in Scottsdale.
 
 *Related: C-3835, C-3839, A-2538.1*
 
@@ -512,9 +512,9 @@ Whether the SD card was ever given to federal agents.
 
 *Related: C-3835, C-3836, C-3838, A-2538.1*
 
-**N-10812** Terrell Farnsworth Evidence-Handling Question
+**N-10812** Terryl Farnsworth Evidence-Handling Question
 
-Terrell's possession of the footage in Arizona.
+Terryl's possession of the footage in Arizona.
 
 *Related: C-3836, C-3839*
 
@@ -540,13 +540,13 @@ Investigation target: when and why Turning Point USA began seating Charlie Kirk 
 
 ## 5. Claim Register
 
-**C-3827** Terrell took down the back footage about four minutes after Charlie was struck
+**C-3827** Terryl took down the back footage about four minutes after Charlie was struck
 
 Claim Timestamp: 00:01:22
 
-Claim: The host says Terrell raced to take down the back-camera footage minutes after Charlie Kirk was struck, which her team estimated at about four minutes.
+Claim: The host says Terryl raced to take down the back-camera footage minutes after Charlie Kirk was struck, which her team estimated at about four minutes.
 
-Transcript Snippet: the one that Terrell raced the footage that he raced to take down just minutes after Charlie was struck. Literally I I think we estimated about 4 minutes after Charlie was struck.
+Transcript Snippet: the one that Terryl raced the footage that he raced to take down just minutes after Charlie was struck. Literally I I think we estimated about 4 minutes after Charlie was struck.
 
 Anchored Artifacts: 
 Mentions: N-262, N-1
@@ -559,9 +559,9 @@ Investigative Direction: Time-sync the viral video of the camera takedown agains
 
 Claim Timestamp: 00:02:17
 
-Claim: The host says none of the Turning Point USA employees, including Mikey McCoy, Blake Neff and Terrell, called 911.
+Claim: The host says none of the Turning Point USA employees, including Mikey McCoy, Blake Neff and Terryl, called 911.
 
-Transcript Snippet: none of the Turning Point employees called 911. Not Mikey, not Blake, not Terrell.
+Transcript Snippet: none of the Turning Point employees called 911. Not Mikey, not Blake, not Terryl.
 
 Anchored Artifacts: 
 Mentions: N-191, N-160, N-262
@@ -570,13 +570,13 @@ Investigative Direction: Obtain Utah County and UVU 911 call logs for September 
 
 ---
 
-**C-3829** Terrell recorded a selfie video after the shooting
+**C-3829** Terryl recorded a selfie video after the shooting
 
 Claim Timestamp: 00:02:17
 
-Claim: The host says Terrell recorded himself in a selfie video after the shooting, which she calls worse than Mikey McCoy walking away.
+Claim: The host says Terryl recorded himself in a selfie video after the shooting, which she calls perhaps the worst, almost worse than Mikey McCoy walking away.
 
-Transcript Snippet: Terrell was perhaps the worst almost worse than Mikey walking away would be Terrell recording himself in a selfie video.
+Transcript Snippet: Terryl was perhaps the worst almost worse than Mikey walking away would be Terryl recording himself in a selfie video.
 
 Anchored Artifacts: 
 Mentions: N-262, N-191
@@ -589,7 +589,7 @@ Investigative Direction: Archive the original selfie video with its metadata and
 
 Claim Timestamp: 00:02:17
 
-Claim: The host says the YouTuber Nicci discovered that the back-camera footage Terrell showed her on FaceTime was likely edited.
+Claim: The host says the YouTuber Nicci discovered that the back-camera footage Terryl showed her on FaceTime was likely edited.
 
 Transcript Snippet: Nicci discovered that the camera footage which was shown to me on FaceTime was likely edited.
 
@@ -600,7 +600,7 @@ Investigative Direction: Obtain the original, unedited SD-card file and compare 
 
 ---
 
-**C-3831** Nicci Says Back-Camera Shots at Other 2025 Tour Stops Were Wide-Angle
+**C-3831** Nicci Shows Back-Camera Shots From Other 2025 Tour Stops
 
 Claim Timestamp: 00:02:17
 
@@ -619,9 +619,9 @@ Investigative Direction: Collect TPUSA livestream archives for each 2025 tour st
 
 Claim Timestamp: 00:03:36
 
-Claim: Nicci's video says the back camera was always used as a wide-angle camera, yet the ground cannot be seen in the UVU footage Terrell shared. It concludes that either the camera was zoomed in that day or Terrell zoomed in afterwards and showed a cropped version.
+Claim: Nicci's video says the back camera was always used as a wide-angle camera, yet the ground cannot be seen in the UVU footage Terryl shared. It concludes that either the camera was zoomed in that day or Terryl zoomed in afterwards and showed a cropped version.
 
-Transcript Snippet: The camera is a wide-angle camera and was always used as such. However, in the footage that Terrell has selectively shared with Candace, you cannot see the ground.
+Transcript Snippet: The camera is a wide-angle camera and was always used as such. However, in the footage that Terryl has selectively shared with Candace, you cannot see the ground.
 
 Anchored Artifacts: A-2537.1
 Mentions: N-262
@@ -630,41 +630,41 @@ Investigative Direction: Obtain the camera's recorded settings and the native fi
 
 ---
 
-**C-3833** Host phoned Terrell on September 17 after the takedown video went viral
+**C-3833** Host phoned Terryl on September 17 after the takedown video went viral
 
 Claim Timestamp: 00:04:30
 
-Claim: The host says she phoned Terrell on September 17 because footage of him taking down the camera was going viral, and that it took him two days to get back to her.
+Claim: The host says she phoned Terryl on September 17 because footage of him taking down the camera was going viral, and that it took him two days to get back to her.
 
 Transcript Snippet: I phoned him on September the 17th because the footage started going viral of him taking down the camera.
 
 Anchored Artifacts: 
 Mentions: N-262, N-3
 Related Nodes: N-10801
-Investigative Direction: Produce the host's call logs with Terrell Farnsworth for September 17–19, 2025.
+Investigative Direction: Produce the host's call logs with Terryl Farnsworth for September 17–19, 2025.
 
 ---
 
-**C-3834** Terrell agreed on September 19 to show the footage after citing Erika
+**C-3834** Terryl agreed on September 19 to show the footage after citing Erika
 
 Claim Timestamp: 00:05:16
 
-Claim: The host says Terrell was hesitant on September 17, saying he wanted to protect the footage and Erika Kirk, and that on September 19 he agreed to get on a call and show her the footage.
+Claim: The host says Terryl was hesitant on September 17, saying he wanted to protect the footage and Erika Kirk, and that on September 19 he agreed to get on a call and show her the footage.
 
 Transcript Snippet: And then on the 19th, he sort of broke and said, "Okay, no, let's just get on the call. I'm happy to show you the footage."
 
 Anchored Artifacts: 
 Mentions: N-262, N-2
 Related Nodes: N-10801
-Investigative Direction: Obtain Terrell's messages with the host and with Erika Kirk between September 17 and 19, 2025.
+Investigative Direction: Obtain Terryl's messages with the host and with Erika Kirk between September 17 and 19, 2025.
 
 ---
 
-**C-3835** The "YOLO" drive on Terrell's desktop is likely the camera's SD card
+**C-3835** The "YOLO" drive on Terryl's desktop is likely the camera's SD card
 
 Claim Timestamp: 00:06:17
 
-Claim: Showing the opening of her FaceTime call, the host says she suspects the "YOLO" drive on Terrell's desktop is what he named the SD card, which she says he should not have had. She notes that Sony cameras automatically label a "clip" folder.
+Claim: Showing the opening of her FaceTime call, the host says she suspects the "YOLO" drive on Terryl's desktop is what he named the SD card, which she says he should not have had. She notes that Sony cameras automatically label a "clip" folder.
 
 Transcript Snippet: It is my suspicion that that YOLO drive that you're seeing on the left-hand side is likely what he named his SD card.
 
@@ -675,13 +675,13 @@ Investigative Direction: Have a forensic examiner review the FaceTime recording,
 
 ---
 
-**C-3836** Terrell never said he lacked the footage or had given the SD card to the feds
+**C-3836** Terryl never said he lacked the footage or had given the SD card to the feds
 
 Claim Timestamp: 00:07:29
 
-Claim: The host says that in their September 17 and 19 conversations Terrell never told her he did not have the footage or the SD card, or that he had given the SD card to federal agents.
+Claim: The host says that in their September 17 and 19 conversations Terryl never told her he did not have the footage or the SD card, or that he had given the SD card to federal agents.
 
-Transcript Snippet: Terrell and I are speaking on the 17th and on the 19th and at no point in our conversations does he say to me, "I don't have the footage or I don't have the SD card."
+Transcript Snippet: Terryl and I are speaking on the 17th and on the 19th and at no point in our conversations does he say to me, "I don't have the footage or I don't have the SD card."
 
 Anchored Artifacts: 
 Mentions: N-262, N-3
@@ -690,18 +690,18 @@ Investigative Direction: Request FBI evidence logs showing whether and when the 
 
 ---
 
-**C-3837** Terrell said he removed the camera to protect Erika
+**C-3837** Terryl said he removed the camera to protect Erika
 
 Claim Timestamp: 00:08:21
 
-Claim: The host says Terrell told her he removed the SD card and took the camera down because he wanted to protect Erika Kirk and did not want her to see Charlie dying again, and that he had spoken with Erika about it.
+Claim: The host says Terryl told her he removed the SD card and took the camera down because he wanted to protect Erika Kirk and did not want her to see Charlie dying again, and that he had spoken with Erika about it.
 
 Transcript Snippet: And his answer was because he wanted to protect Erika. He didn't want Erika to see the footage.
 
 Anchored Artifacts: 
 Mentions: N-262, N-2
 Related Nodes: N-10346
-Investigative Direction: Obtain Terrell's communications with Erika Kirk on September 10–11, 2025.
+Investigative Direction: Obtain Terryl's communications with Erika Kirk on September 10–11, 2025.
 
 ---
 
@@ -709,7 +709,7 @@ Investigative Direction: Obtain Terrell's communications with Erika Kirk on Sept
 
 Claim Timestamp: 00:08:21
 
-Claim: The host says it has been learned that Charlie Kirk's phone was not given to federal agents, unlike Tyler Robinson's and Lance Twiggs's phones, and that the back footage was likewise not secured.
+Claim: The host says it has been learned that Charlie Kirk's phone was not given to federal agents, though it should have been secured like Tyler Robinson's and Lance Twiggs's phones.
 
 Transcript Snippet: So now we have a situation where Charlie's phone we've learned was not given to the feds.
 
@@ -720,18 +720,18 @@ Investigative Direction: Request FBI and Utah evidence inventories listing devic
 
 ---
 
-**C-3839** Terrell took the footage back to Scottsdale
+**C-3839** Terryl took the footage back to Scottsdale
 
 Claim Timestamp: 00:09:05
 
-Claim: The host says that, based on her conversation with Terrell and the FaceTime video, he was able to take the footage back to Arizona and open it on his desktop in Scottsdale.
+Claim: The host says that, based on her conversation with Terryl and the FaceTime video, he was able to take the footage back to Arizona and open it on his desktop in Scottsdale.
 
-Transcript Snippet: Terrell was able to take that footage back to Arizona. He's opening that on his desktop in Arizona back in Scottsdale.
+Transcript Snippet: Terryl was able to take that footage back to Arizona. He's opening that on his desktop in Arizona back in Scottsdale.
 
 Anchored Artifacts: A-2538.1
 Mentions: N-262
 Related Nodes: N-10808, N-10812
-Investigative Direction: Establish Terrell's travel from Utah to Arizona and the file-creation timestamps on his computer.
+Investigative Direction: Establish Terryl's travel from Utah to Arizona and the file-creation timestamps on his computer.
 
 ---
 
@@ -739,7 +739,7 @@ Investigative Direction: Establish Terrell's travel from Utah to Arizona and the
 
 Claim Timestamp: 00:09:05
 
-Claim: The host relays a producer's suggestion that federal agents learned of Terrell's footage from her show and pressured Justin Streiff to call her husband to ask whether she had recorded it. The host rejects the idea that agents only learned of it then.
+Claim: The host relays a producer's suggestion that federal agents learned of Terryl's footage from her show and pressured Justin Streiff to call her husband to ask whether she had recorded it. The host rejects the idea that agents only learned of it then.
 
 Transcript Snippet: that's why they started putting pressure on um Justin Streiff to call your husband and see if you had recorded the footage.
 
@@ -750,11 +750,11 @@ Investigative Direction: Obtain the date and content of Justin Streiff's call to
 
 ---
 
-**C-3841** Host believes Terrell zoomed in to hide the ground
+**C-3841** Host believes Terryl zoomed in to hide the ground
 
 Claim Timestamp: 00:09:48
 
-Claim: The host agrees with Nicci that Terrell very likely zoomed in on the footage and says she believes he did so to obscure the view of the ground, which she says may show something that would solve the murder.
+Claim: The host agrees with Nicci that Terryl very likely zoomed in on the footage and says she believes he did so to obscure the view of the ground, adding that it has to be something that would solve Charlie's murder.
 
 Transcript Snippet: So yes, Niecy, I I agree with you um that it is very likely that he zoomed in on that footage and I believe the reason he did that was to obscure our view of the ground
 
@@ -1028,7 +1028,7 @@ Claim: The host says she replied to Neff with headlines including a Daily Mail s
 Transcript Snippet: Like this one in the Daily Mail, "Tyler Robinson's father realized his son was shooter after seeing family heirloom in media reports.
 
 Anchored Artifacts: A-2541.2
-Mentions: N-40
+Mentions: N-40, N-160
 Related Nodes: N-10070, N-10022
 Investigative Direction: Archive the Daily Mail and MSN articles with publication dates and sourcing.
 
@@ -1058,7 +1058,7 @@ Claim: The host says multiple donors told her Charlie Kirk never said "I appoint
 Transcript Snippet: They claim that he never said that in Aspen.
 
 Anchored Artifacts: 
-Mentions: N-1, N-2, N-160
+Mentions: N-1, N-2
 Related Nodes: N-10664
 Supports: C-2694
 Investigative Direction: Obtain the original Aspen recording with metadata for forensic audio analysis, and attendee statements.
@@ -1215,7 +1215,7 @@ Investigative Direction: Identify the Infowars episode and air date of the clip.
 
 Claim Timestamp: 00:39:28
 
-Claim: The host says Donald Trump tweeted that Tucker Carlson, Megyn Kelly and Candace Owens are mentally ill while inviting Laura Loomer into his inner circle for advice on Iran.
+Claim: The host says the question to ask is whether Donald Trump is mentally fit if he makes a conscious decision to tweet out that Tucker Carlson, Megyn Kelly and Candace Owens are mentally ill while inviting Laura Loomer into his inner circle for advice on Iran.
 
 Transcript Snippet: If he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer.
 
@@ -1365,7 +1365,7 @@ Investigative Direction: Compare the message text in the original charging docum
 
 Claim Timestamp: 00:52:39
 
-Claim: The host says Kash Patel is suing The Atlantic because it reported that he is a drunk.
+Claim: The host says Kash Patel is suing, she thinks The Atlantic ("is it The Atlantic"), because it reported that he is a drunk.
 
 Transcript Snippet: And I feel like Kash Patel right now suing um is it The Atlantic because they said that he's a drunk.
 
@@ -1519,7 +1519,7 @@ Confidence: medium
 
 - **Artifacts verbally referenced but not shown**: A-2540.1 (tip on the 2016 Scottsdale gun-patent dinner) and A-2543.1 (cremation tip request). The Aspen audio or video, Erika Kirk's Fox News burial answer, the MSN article, Trump's "mentally ill" post and the Robinson affidavits are referenced but not shown and have no artifact.
 - **DIA scan**: real hits at 00:49:03 and 00:49:43 are inscribed (C-3879, C-3880, A-2543.1, A-2543.2, M-12). Not DIA beats: "candaceowens. com" at 00:43:49 is a merch and subscription plug. "Our tips box" at 01:22 and "a stunning tip" at 00:01 and 15:52 describe tips already received rather than a solicitation; they are noted here but not inscribed as separate DIA beats.
-- **Name matching**: "Nicci"/"Niecy" are mapped to N-565 Nicey (YouTuber). "Terrell" and "Tarrio" (49:43; also "Tarrio Robinson" at 51:43–52:39, evidently Tyler Robinson) are mapped to N-262 Terrell Farnsworth only where the camera operator is meant. "Blake enough" (00:01) is read as Blake Neff (N-160). "Blake" among those who did not call 911 is assumed to be Blake Neff, which is uncertain. "Lori Frantzbe" and "Larry Guinta" are mapped to N-490 and N-388. "Xavier Boussard" is mapped to N-284 Xavier Poussard. "Ashley" (09:05, a producer) is unidentified and not mapped to the existing Ashley Rindsberg node. "Jillian" (01:22), the then 15-year-old in Nicci's earlier text-message investigation, is likely the existing Jillian Falcon node but is not cited in a claim. Paula White Cain, Hillary Clinton, Ben Shapiro, Judge Judy and Jimmy Barbecue (Jimmy Cherizier) are named only in passing or in jokes and are not cited.
+- **Name matching**: "Nicci"/"Niecy" are mapped to N-565 Nicey (YouTuber). "Terryl" and "Tarrio" (49:43; also "Tarrio Robinson" at 51:43–52:39, evidently Tyler Robinson) are mapped to N-262 Terryl Farnsworth only where the camera operator is meant. "Blake enough" (00:01) is read as Blake Neff (N-160). "Blake" among those who did not call 911 is assumed to be Blake Neff, which is uncertain. "Lori Frantzbe" and "Larry Guinta" are mapped to N-490 and N-388. "Xavier Boussard" is mapped to N-284 Xavier Poussard. "Ashley" (09:05, a producer) is unidentified and not mapped to the existing Ashley Rindsberg node. "Jillian" (01:22), the then 15-year-old in Nicci's earlier text-message investigation, is likely the existing Jillian Falcon node but is not cited in a claim. Paula White Cain, Hillary Clinton, Ben Shapiro, Judge Judy and Jimmy Barbecue (Jimmy Cherizier) are named only in passing or in jokes and are not cited.
 - **Transcription ambiguities**: "Wiyre Fy" is read as the Why Refi sponsor (N-10870). "send him some kid" is "kit". "maca hats" is "MACA hats" (Make America Christian Again). "Shayna FK" (44:48) is unclear. "that meaning" (20:24) is likely "that meeting". "I'm looking at you, Larry" (50:27, viewer comment) apparently refers to Laura Loomer. The viewer comment at 54:08 says "Blake Masters" where Blake Neff is meant.
 - **Tip reliability**: the 2016 dinner account (C-3847–C-3854) is a single unnamed tipster's account relayed with "allegedly"; neither the gun, the patent holders nor the restaurant is named.
 - **Cross-episode links left out**: C-3872 may restate C-2774 (ep 94, Trump post mentioning "mentally ill") or C-2669 (ep 89). C-3848 may restate C-2707 or C-2752 (ep 91/93, Marx's Fold AR and Israeli Defense Group). C-3837 relates to C-1940 (ep 47, TPUSA defended the camera removal). C-3875 relates to C-2789 (ep 94, Erika's speedy-trial motion). The propositions differ or the match is uncertain, so these links are omitted.

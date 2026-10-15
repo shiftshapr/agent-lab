@@ -441,7 +441,7 @@ Flag: Artifact verbally referenced but not shown
 
 **N-2** Erika Kirk
 
-Counterparty in the private meeting with Candace; confirmed possession of Charlie's phone; admitted text-message corroboration; defended Terrell Farnsworth and Tyler Bowyer.
+Counterparty in the private meeting with Candace; confirmed possession of Charlie's phone; admitted text-message corroboration; defended Terryl Farnsworth and Tyler Bowyer.
 
 Evidence Count: 4
 Claim Count: 8
@@ -924,7 +924,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
 Contested justification for removal of cameras at UVU event before shooting.
 
@@ -1245,7 +1245,7 @@ Interviewer in the viral Erika Kirk clip about Charlie's phone.
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
 Person who took the cameras down; the host says he lied to her.
 
@@ -1680,11 +1680,11 @@ Investigative Direction: Verify Rob McCoy's formal affiliations independently of
 
 ---
 
-**C-1940** Host Says TPUSA Defended Terrell Farnsworth's Camera Removal
+**C-1940** Host Says TPUSA Defended Terryl Farnsworth's Camera Removal
 
 Claim Timestamp: 00:09:23
 
-Claim: The host says TPUSA defended Terrell Farnsworth's removal of cameras as part of a new livestream system used selectively for tour stops rather than all outdoor events.
+Claim: The host says TPUSA defended Terryl Farnsworth's removal of cameras as part of a new livestream system used selectively for tour stops rather than all outdoor events.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-2, N-262
@@ -2203,13 +2203,13 @@ Investigative Direction: Ask Erika Kirk and CBS what advance notice she had of t
 
 ---
 
-**C-14017** Host Says Terrell Farnsworth Lied to Her Several Times About the Cameras
+**C-14017** Host Says Terryl Farnsworth Lied to Her Several Times About the Cameras
 
 Claim Timestamp: 00:09:23
 
-Claim: The host says her skin crawled after she spoke to Terrell Farnsworth, the person who took the cameras down, and that he lied to her several times and she still does not understand why he was there that day.
+Claim: The host says her skin crawled after she spoke to Terryl Farnsworth, the person who took the cameras down, and that he lied to her several times and she still does not understand why he was there that day.
 
-Transcript Snippet: my skin crawled after I spoke to Terrell Farnsworth, the person who took the cameras down. He lied to me several times.
+Transcript Snippet: my skin crawled after I spoke to Terryl Farnsworth, the person who took the cameras down. He lied to me several times.
 
 Anchored Artifacts: 
 Mentions: N-262, N-3
@@ -2224,7 +2224,7 @@ Investigative Direction: Obtain the host's recorded exchange with Farnsworth and
 
 Claim Timestamp: 00:10:45
 
-Claim: The host says Tyler Bowyer tweeted that Terrell Farnsworth took the camera down because the police wanted it down and the footage secured, and that she told TPUSA she knows this is not true.
+Claim: The host says Tyler Bowyer tweeted that Terryl Farnsworth took the camera down because the police wanted it down and the footage secured, and that she told TPUSA she knows this is not true.
 
 Transcript Snippet: Because the police wanted him to take it down and secure the footage and I said, "I know that's not true."
 

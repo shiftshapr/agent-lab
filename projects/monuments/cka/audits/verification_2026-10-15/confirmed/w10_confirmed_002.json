@@ -1,0 +1,487 @@
+[
+ {
+  "claim": "C-2833",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Claim names only Kirk."
+ },
+ {
+  "claim": "C-10371",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-7",
+    "N-267",
+    "N-271"
+   ]
+  },
+  "note": "'Behind his back' refers to Charlie; N-1 belongs."
+ },
+ {
+  "claim": "C-2837",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:11:40"
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2838",
+  "episode": 98,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:11:55"
+  },
+  "note": "Layoff Hedge line is ~12:00; 11:55 is 5s before."
+ },
+ {
+  "claim": "C-2839",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:11:15"
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2844",
+  "episode": 98,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per a Times of Israel article the host reads, Show Faith by Works LLC, which filed under FARA, is run by Chad Schnitker, a prominent Christian conservative activist in California.",
+   "label": "Host Reads Times of Israel Saying Show Faith by Works Is Run by Chad Schnitker",
+   "timestamp": "00:37:43"
+  },
+  "note": "Fix right; Schnitker sentence is spoken ~37:48, so 37:43."
+ },
+ {
+  "claim": "C-2845",
+  "episode": 98,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ],
+   "timestamp": "00:36:17"
+  },
+  "note": "Mentions fix right; '8 days after' is said ~36:22, not 36:00."
+ },
+ {
+  "claim": "C-2846",
+  "episode": 98,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:39:35",
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "'Initially contracted by Havoc Media' is ~39:40, not 39:25."
+ },
+ {
+  "claim": "C-2850",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-863",
+    "N-60"
+   ]
+  },
+  "note": "Claim names Slauson (Sarelson); N-863 belongs."
+ },
+ {
+  "claim": "C-2851",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "claim": "The Brian Harpole lawsuit's final page lists Jacob William Roth as partner of the firm; the host says she thinks Roth has been married to Ben Shapiro's sister since 2018.",
+   "timestamp": "00:01:15"
+  },
+  "note": "Roth line ~01:19; 'I think ... since 2018' at ~25:55."
+ },
+ {
+  "claim": "C-2852",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-97",
+    "N-267"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2853",
+  "episode": 98,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the Show Faith by Works FARA filing named churches to be geofenced that include many Calvary Chapel churches where Turning Point USA pastors are involved and Dream City Church in Phoenix, which hosted Erika Kirk and Donald Trump; she says she has not personally confirmed a link.",
+   "mentions": [
+    "N-2",
+    "N-5"
+   ],
+   "timestamp": "00:45:07"
+  },
+  "note": "Fix right; the filing/church passage is ~45:12, not at 44:39."
+ },
+ {
+  "claim": "C-2854",
+  "episode": 98,
+  "decision": "amend",
+  "fix": {
+   "claim": "A live-chat donation comment the host reads hopes the donation will help pay for attorneys to pursue discovery in the Brian Harpole case, calling it the only chance to get to the truth.",
+   "mentions": [
+    "N-267"
+   ],
+   "timestamp": "00:49:25"
+  },
+  "note": "Fix right; Jen's comment is read ~49:30, before the 49:43 block."
+ },
+ {
+  "claim": "C-2855",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:39:20"
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-11494",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Brian Harpole lawsuit was sent by Matt Sarelson, the same lawyer who had for two years been suing her in arbitration on Ben Shapiro's behalf.",
+   "names": [
+    {
+     "wrong": "Matt Slauson",
+     "right": "Matt Sarelson",
+     "source": "https://x.com/MSarelson/status/2049903824538652838"
+    }
+   ]
+  },
+  "note": "Sarelson verified: his X post and Dhillon Law Group post on filing the Harpole suit."
+ },
+ {
+  "claim": "C-11513",
+  "episode": 98,
+  "decision": "reject",
+  "fix": {},
+  "note": "Knowles then says 'I didn't opine on whether it's evil or not' - so the 'evil' line is Shapiro's; original is right."
+ },
+ {
+  "claim": "C-11514",
+  "episode": 98,
+  "decision": "reject",
+  "fix": {},
+  "note": "'I didn't opine...none of my business' and 'not mother of the internet' are Knowles answering Shapiro; original is right."
+ },
+ {
+  "claim": "C-11523",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-97",
+    "N-36"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-11525",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she was standing in the Charlotte airport when she received the email from Matt Sarelson, a detail she says she never publicized.",
+   "names": [
+    {
+     "wrong": "Matt Slauson",
+     "right": "Matt Sarelson",
+     "source": "https://x.com/MSarelson/status/2049903824538652838"
+    }
+   ]
+  },
+  "note": "Sarelson verified via his X post."
+ },
+ {
+  "claim": "C-11526",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Matt Sarelson's firm first sent a demand saying a lawsuit would be filed in four days, more than a week before the host announced anything publicly.",
+   "names": [
+    {
+     "wrong": "Matt Slauson",
+     "right": "Matt Sarelson",
+     "source": "https://x.com/MSarelson/status/2049903824538652838"
+    }
+   ]
+  },
+  "note": "Sarelson verified via his X post."
+ },
+ {
+  "claim": "C-11527",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host alleges that Loomer's apparent knowledge of the email suggests coordination between Matt Sarelson, Ben Shapiro's lawyer, and Laura Loomer.",
+   "names": [
+    {
+     "wrong": "Matt Slauson",
+     "right": "Matt Sarelson",
+     "source": "https://x.com/MSarelson/status/2049903824538652838"
+    }
+   ]
+  },
+  "note": "Sarelson verified via his X post."
+ },
+ {
+  "claim": "C-2858",
+  "episode": 99,
+  "decision": "amend",
+  "fix": {
+   "claim": "In an audio clip the host plays, Baron Coleman says he does not think a human is pulling the strings, and that the people co-opting Christian language do not answer to a human but 'to something far darker.'",
+   "mentions": [
+    "N-331"
+   ],
+   "timestamp": "00:07:45"
+  },
+  "note": "Fix right; the quoted lines are ~07:50-08:05, not 06:41."
+ },
+ {
+  "claim": "C-2860",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-36",
+    "N-44",
+    "N-1"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2861",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that on September 18th the Israeli Foreign Ministry of Affairs, via Havas Media, contracted Show Faith by Works LLC, and says it is filed with FARA.",
+   "label": "Host Says Israeli Foreign Ministry Contracted Show Faith by Works LLC via Havas Media on September 18, 2025",
+   "timestamp": "00:14:07"
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2875",
+  "episode": 99,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per the host's timeline, on September 21st Charlie Kirk's memorial was geofenced.",
+   "timestamp": "00:38:35"
+  },
+  "note": "Claim fix right; Sept 21st line is near the end of 37:55 block (~38:40)."
+ },
+ {
+  "claim": "C-2883",
+  "episode": 99,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says some people call Mikey McCoy the good guy for getting one message out to her to look into Andrew Kolvet.",
+   "timestamp": "00:58:45",
+   "mentions": [
+    "N-191",
+    "N-14"
+   ]
+  },
+  "note": "At 58:40 host says McCoy got 'that one message out to me to look into Andrew Kolvet'; content exists, so keep Kolvet."
+ },
+ {
+  "claim": "C-12934",
+  "episode": 99,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the Dhillon Law Group firm has been privately suing her for two years, which she would say is on behalf of Israel, though some would say that is a gratuitous understanding.",
+   "timestamp": "00:39:56"
+  },
+  "note": "Claim fix right; line is ~40:01, not 39:40."
+ },
+ {
+  "claim": "C-12939",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-485",
+    "N-3"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-12944",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-376",
+    "N-377",
+    "N-486"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-12950",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-12958",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-15",
+    "N-3"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-3887",
+  "episode": 100,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-362"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-3900",
+  "episode": 100,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-267",
+    "N-2",
+    "N-3"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-3902",
+  "episode": 100,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-267",
+    "N-3"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-3914",
+  "episode": 100,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the Harpole filing reads to her like a PR campaign, and that she agrees with Baron Coleman's assessment that a federal judge would be upset by a lawsuit written to get on a magazine cover. Speaking as a hypothetical judge, she says, \"You spent the first three pages calling her an anti-Semite.\"",
+   "names": [
+    {
+     "wrong": "Baron Cohen",
+     "right": "Baron Coleman",
+     "source": "https://x.com/RealCandaceO/status/2050020772781965590"
+    }
+   ],
+   "timestamp": "00:24:50"
+  },
+  "note": "Fix right, Coleman verified (Owens X post on his Harpole review); claim now starts at 'PR campaign' ~24:55."
+ },
+ {
+  "claim": "C-3925",
+  "episode": 100,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says her husband traveled to London with the Daily Wire's interim CEO, Caleb Robinson, and introduced the company to his and his father's circle of investors.",
+   "names": [
+    {
+     "wrong": "Kayla Robinson",
+     "right": "Caleb Robinson",
+     "source": "https://barrettmedia.com/2026/05/20/daily-wire-caleb-robinson-mike-richards/"
+    }
+   ]
+  },
+  "note": "Caleb Robinson verified as Daily Wire acting CEO; name him in claim so N-606 stays referred."
+ },
+ {
+  "claim": "C-3938",
+  "episode": 100,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-608"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-3971",
+  "episode": 101,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-223"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-3978",
+  "episode": 101,
+  "decision": "accept",
+  "fix": {
+   "claim": "Thomas Massie says the money spent against him came from billionaires, and at least 95% of it from the Israeli lobby. He names the RJC, AIPAC, Miriam Adelson, Paul Singer and John Paulson.",
+   "mentions": [
+    "N-582",
+    "N-299",
+    "N-611",
+    "N-612"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2890",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-425"
+   ]
+  },
+  "note": ""
+ }
+]

@@ -62,7 +62,7 @@ Quote, "Something shorter than the one that they found." The person that he obse
 
 [05:57]
 
-So, they did not then take that weapon and then have the dogs trace it back to the top of Lozi. That did not happen. Terrell Farnsworth, still major question marks. He raced to remove the camera that was directly behind Charlie's head. I want to tell you, by the way, I'm reading myself into this, so not a data point, but in my mind, when I imagine why he might have done that, I think it's because they were going to go with this story that a.30-06 hit Charlie Kirk. And what debunked that, obviously, would be seeing that it didn't it didn't go through. There was no like there was no evidence of what should have been a tremendous amount of damage done to his neck. I also want to say here because I've heard that various people like Terrell are getting death threats.
+So, they did not then take that weapon and then have the dogs trace it back to the top of Lozi. That did not happen. Terryl Farnsworth, still major question marks. He raced to remove the camera that was directly behind Charlie's head. I want to tell you, by the way, I'm reading myself into this, so not a data point, but in my mind, when I imagine why he might have done that, I think it's because they were going to go with this story that a.30-06 hit Charlie Kirk. And what debunked that, obviously, would be seeing that it didn't it didn't go through. There was no like there was no evidence of what should have been a tremendous amount of damage done to his neck. I also want to say here because I've heard that various people like Terryl are getting death threats.
 
 [06:40]
 

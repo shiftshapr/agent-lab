@@ -13,13 +13,13 @@
     "transcript_sha256": "8fa969dba43042db5893cc29c3f2e01cf24703d976572f4015d20142f83e6dab",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode centers on the September 10, 2025 evidence-handling behavior of Terrell Farnsworth, Turning Point USA's audio-visual lead. The host presents read-aloud excerpts from Farnsworth's 1102 sworn statement, an audio clip of SBI Agent David Hull's preliminary-hearing testimony, a clip from YouTuber Nissi's back-camera comparison video, and an audio excerpt of Andrew Kolvet's Tucker Carlson appearance explaining the SD-card removal as protection against \"evil people.\" The episode's evidentiary centerpiece is newly released footage allegedly showing Farnsworth pocketing the SD card, looking around, and immediately texting on his phone after the camera removal.\n\nThe episode advances several investigative questions: (1) whether Farnsworth's claimed Google-hacking fear was a lie, given his same-day Google Drive transmission; (2) whether footage from behind Charlie Kirk's head was specifically clipped and zoomed in; (3) whether FBI involvement in a state-level Utah homicide is procedurally anomalous, supported by a clip of former CIA officer John Kirraou. The episode also presents a Joe Rogan Experience clip in which panelists discuss apparent perspective distortion in a published Tyler Robinson identification photo, and a WearForbidden parody video.\n\nStructurally, this episode functions as evidence-chain and chain-of-custody consolidation prior to the next development in the series.\n\n---",
+  "executive_summary": "This episode centers on the September 10, 2025 evidence-handling behavior of Terryl Farnsworth, Turning Point USA's audio-visual lead. The host presents read-aloud excerpts from Farnsworth's 1102 sworn statement, an audio clip of SBI Agent David Hull's preliminary-hearing testimony, a clip from YouTuber Nissi's back-camera comparison video, and an audio excerpt of Andrew Kolvet's Tucker Carlson appearance explaining the SD-card removal as protection against \"evil people.\" The episode's evidentiary centerpiece is newly released footage allegedly showing Farnsworth pocketing the SD card, looking around, and immediately texting on his phone after the camera removal.\n\nThe episode advances several investigative questions: (1) whether Farnsworth's claimed Google-hacking fear was a lie, given his same-day Google Drive transmission; (2) whether footage from behind Charlie Kirk's head was specifically clipped and zoomed in; (3) whether FBI involvement in a state-level Utah homicide is procedurally anomalous, supported by a clip of former CIA officer John Kirraou. The episode also presents a Joe Rogan Experience clip in which panelists discuss apparent perspective distortion in a published Tyler Robinson identification photo, and a WearForbidden parody video.\n\nStructurally, this episode functions as evidence-chain and chain-of-custody consolidation prior to the next development in the series.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
       "@id": "A-2284",
       "family_ref": "A-2284",
-      "bundle_name": "Terrell Farnsworth 1102 Statement Bundle",
+      "bundle_name": "Terryl Farnsworth 1102 Statement Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -147,7 +147,7 @@
           "@type": "Artifact",
           "@id": "A-2288.1",
           "ref": "A-2288.1",
-          "description": "Terrell Farnsworth Post-Removal Behavior (Pocket / Look-Around / Text)",
+          "description": "Terryl Farnsworth Post-Removal Behavior (Pocket / Look-Around / Text)",
           "related_claims": [
             "C-3296"
           ],
@@ -535,7 +535,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10797",
       "ref": "N-10797",
-      "name": "Terrell Farnsworth Google-Hack Contradiction",
+      "name": "Terryl Farnsworth Google-Hack Contradiction",
       "type": "investigation_target",
       "description": "Persistent target: Farnsworth's claim of fearing Google hacking is contradicted by his same-day Google Drive usage.",
       "related_artifacts": [
@@ -614,7 +614,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10801",
       "ref": "N-10801",
-      "name": "Terrell Post-Removal Communications",
+      "name": "Terryl Post-Removal Communications",
       "type": "investigation_target",
       "description": "Investigation target: identity of recipient and content of text message(s) sent by Farnsworth within minutes of removing the SD card.",
       "related_artifacts": [
@@ -820,7 +820,7 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
       "related_artifacts": [],
@@ -1289,7 +1289,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10346",
       "ref": "N-10346",
-      "name": "Terrell Farnsworth Camera Removal Justification",
+      "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1418,7 +1418,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10808",
       "ref": "N-10808",
-      "name": "Terrell SD Card-to-Laptop Transfer Sequence",
+      "name": "Terryl SD Card-to-Laptop Transfer Sequence",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1672,8 +1672,8 @@
       "@type": "Claim",
       "@id": "C-3290",
       "ref": "C-3290",
-      "label": "Per 1102 Statement Host Shows, Terrell Farnsworth Used Google Drive to Send Four Videos to SBI on September 10",
-      "claim": "Per Terrell Farnsworth's 1102 statement, which the host shows and reads, he provided SBI with four videos through a Google Drive on September 10, 2025.",
+      "label": "Per 1102 Statement Host Shows, Terryl Farnsworth Used Google Drive to Send Four Videos to SBI on September 10",
+      "claim": "Per Terryl Farnsworth's 1102 statement, which the host shows and reads, he provided SBI with four videos through a Google Drive on September 10, 2025.",
       "anchored_artifacts": [
         "A-2284.1"
       ],
@@ -1692,7 +1692,7 @@
       "@type": "Claim",
       "@id": "C-3291",
       "ref": "C-3291",
-      "label": "Terrell Farnsworth's Google-Hacking Fear Is Contradicted by His Same-Day Google Drive Usage",
+      "label": "Terryl Farnsworth's Google-Hacking Fear Is Contradicted by His Same-Day Google Drive Usage",
       "claim": "Farnsworth told the host on or about September 18 that he feared Google would hack him, despite having transmitted footage via Google Drive eight days earlier.",
       "anchored_artifacts": [
         "A-2284.1"
@@ -1929,7 +1929,7 @@
       "@id": "C-9155",
       "ref": "C-9155",
       "label": "Farnsworth Began Removing the Camera Less Than Four Minutes After Charlie Was Hit",
-      "claim": "The host says Terrell Farnsworth, TPUSA's audio and visual lead who runs Visual Impulse, began taking down the camera behind Charlie Kirk less than four minutes after Charlie was hit.",
+      "claim": "The host says Terryl Farnsworth, TPUSA's audio and visual lead who runs Visual Impulse, began taking down the camera behind Charlie Kirk less than four minutes after Charlie was hit.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10100",
@@ -2379,7 +2379,7 @@
       ],
       "claim_timestamp": "00:18:41",
       "investigative_direction": "Obtain the metadata and creation log for clip 80704 and the identity of whoever produced it.",
-      "transcript_snippet": "Like I said, we're not sure if Terl clipped it or if it was SBI that clipped it. We do know that Terrell was the first to touch that footage",
+      "transcript_snippet": "Like I said, we're not sure if Terl clipped it or if it was SBI that clipped it. We do know that Terryl was the first to touch that footage",
       "supports_claim_refs": [
         "C-3295"
       ],

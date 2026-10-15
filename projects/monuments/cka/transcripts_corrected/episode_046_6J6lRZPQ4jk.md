@@ -83,7 +83,7 @@ Charlie was a committed evangelical who only liked Catholic architecture. Did I 
 
 [11:47]
 
-Next page, Taro Farnsworth was told to remove that SD card by police. That was not true. Taro Farnsworth personally told me that that was not true. Taro removed the SD cards because people were stealing hats. Again, not what Taro Farnsworth himself told me and also doesn't make any logical sense because if you were worried about theft, you would have taken the cameras and not just the SD card particularly from the camera behind his head as opposed to the cameras that were in front of him. Lie. Charlie established a doge and it was not unusual. That's a lie. It was unusual. Doge didn't even exist. Prior to Elon Musk making that a thing about government accountability. Charlie Kirk's team did not fly drones.
+Next page, Terryl Farnsworth was told to remove that SD card by police. That was not true. Terryl Farnsworth personally told me that that was not true. Taro removed the SD cards because people were stealing hats. Again, not what Terryl Farnsworth himself told me and also doesn't make any logical sense because if you were worried about theft, you would have taken the cameras and not just the SD card particularly from the camera behind his head as opposed to the cameras that were in front of him. Lie. Charlie established a doge and it was not unusual. That's a lie. It was unusual. Doge didn't even exist. Prior to Elon Musk making that a thing about government accountability. Charlie Kirk's team did not fly drones.
 
 [12:27]
 

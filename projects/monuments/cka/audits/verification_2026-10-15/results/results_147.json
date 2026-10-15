@@ -1,0 +1,771 @@
+[
+ {
+  "claim": "C-11554",
+  "episode": 98,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11555",
+  "episode": 98,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim says transcribed 'Friedman'; transcript reads 'Bryan Freedman, congratulations to you.' Remove the transcription aside.",
+  "fix": {
+   "claim": "The host congratulates lawyer Bryan Freedman and PR professional Melissa Nathan, and the PR team, on the Baldoni side's result."
+  }
+ },
+ {
+  "claim": "C-11556",
+  "episode": 98,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11557",
+  "episode": 98,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11558",
+  "episode": 98,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11559",
+  "episode": 98,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11560",
+  "episode": 98,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2856",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2857",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2858",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Clip has Coleman saying the people co-opting Christian language 'answer to something far darker'. 'Spiritual war', 'demonic' and Kirk's death are not in this clip segment.",
+  "fix": {
+   "claim": "In an audio clip the host plays, Baron Coleman says he does not think a human is pulling the strings, and that the people co-opting Christian language do not answer to a human but 'to something far darker.'",
+   "mentions": [
+    "N-331"
+   ]
+  }
+ },
+ {
+  "claim": "C-2859",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2860",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Netanyahu but Mentions omits N-36.",
+  "fix": {
+   "mentions": [
+    "N-36",
+    "N-44",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-2861",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: on Sept 18 the Israeli Foreign Ministry via Havas 'decided to contract' Show Faith by Works; says 'it's filed with FARA', no filing date. Said ~14:12; claim 14:54.",
+  "fix": {
+   "claim": "The host says that on September 18th the Israeli Foreign Ministry of Affairs, via Havas Media, contracted Show Faith by Works LLC, and says it is filed with FARA.",
+   "label": "Host Says Israeli Foreign Ministry Contracted Show Faith by Works LLC via Havas Media on September 18, 2025",
+   "timestamp": "00:14:07"
+  }
+ },
+ {
+  "claim": "C-2862",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: geofence phones, pro-Israel/anti-Palestinian messages, 'plus' October 7th experience in church parking lots; 'listed in their filing' refers to churches. Claim merges these.",
+  "fix": {
+   "claim": "The host says Show Faith by Works LLC is going to geofence phones on behalf of Israel and send pro-Israel and anti-Palestinian messages, plus an October 7th experience in church parking lots, and that it is filed with FARA."
+  }
+ },
+ {
+  "claim": "C-2863",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: Havas 'contracted' Clock Tower X on Sept 18 and it was 'properly registered under FARA'; no filing date. 'Targeting the antisemitism narrative' paraphrases 'combat antisemitism'.",
+  "fix": {
+   "claim": "The host says Havas Media contracted Clock Tower X LLC on September 18th, that it was properly registered under FARA, and that it is tasked with a strategic plan to combat antisemitism in the United States through the media, which she calls a nationwide campaign to propagandize on behalf of Israel."
+  }
+ },
+ {
+  "claim": "C-2864",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2865",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2866",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'Brad Parscale in January became the chief strategy officer'; no year said (timeline says January 10th).",
+  "fix": {
+   "claim": "The host says Brad Parscale became Chief Strategy Officer of Salem Media Network in January, placing him simultaneously at Clock Tower X and Salem.",
+   "label": "Host Says Brad Parscale Became Chief Strategy Officer of Salem Media Network in January"
+  }
+ },
+ {
+  "claim": "C-2867",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host reads 399, 386, 665, then '355 views it looks like his average'; 355 is not a fourth video.",
+  "fix": {
+   "claim": "The host shows Newsweek view counts for the Josh Hammer show of 399, 386 and 665, says 355 views looks like his average, and says it is a poor showing."
+  }
+ },
+ {
+  "claim": "C-2868",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Article quote says 'long-term services agreement'; 'strategic' not in that phrase.",
+  "fix": {
+   "claim": "Per a Salem announcement article the host reads, in April 2025 Salem Media Group announced a landmark deal with Donald Trump Jr. and Lara Trump, including acquisition of a 30% stake in M-News and a long-term services agreement."
+  }
+ },
+ {
+  "claim": "C-2869",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2870",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host quotes Bondi's 'first act' of disbanding the task force; 'signed an order' is not said. Carroll's clip reads the policy text.",
+  "fix": {
+   "claim": "The host says Pam Bondi, on her first day as Attorney General, disbanded the DOJ Foreign Influence Task Force; in a clip she plays, Ian Carroll reads the policy language and says the same."
+  }
+ },
+ {
+  "claim": "C-2871",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2872",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2873",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Timeline: Dhillon Law Group 'begins drafting paperwork for Havas Media on behalf of' Clock Tower X and Show Faith by Works; 'FARA' not said for that step.",
+  "fix": {
+   "claim": "According to the host's timeline, on August 27th Dhillon Law Group began drafting paperwork for Havas Media on behalf of Clock Tower X LLC and Show Faith by Works LLC to legally geo-fence and spread propaganda on behalf of Israel."
+  }
+ },
+ {
+  "claim": "C-2874",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2875",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Sept 21st, Charlie Kirk's memorial is geofenced' is said ~38:22; claim 36:54 is ~88s early. 'Under the Show Faith by Works arrangement' is not said.",
+  "fix": {
+   "claim": "Per the host's timeline, on September 21st Charlie Kirk's memorial was geofenced.",
+   "timestamp": "00:38:17"
+  }
+ },
+ {
+  "claim": "C-2876",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2877",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2878",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2879",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2880",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2881",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2882",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host asserts Baldoni was put in the basement of his premiere; she does not say the footage shows seating. Also says Lively refused to be in the same room.",
+  "fix": {
+   "claim": "The host says Justin Baldoni was put in the basement of the It Ends With Us premiere and had to watch from there while the A-listers were upstairs, and that Blake Lively said she could not be in the same room as him."
+  }
+ },
+ {
+  "claim": "C-2883",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Window has only the heading 'Message to Mikey McCoy' and host on Kolvet/hospital call. No message from McCoy, nor pointing at Kolvet.",
+  "fix": {
+   "claim": "The host's chapter 'Message to Mikey McCoy' begins here; the transcript does not give the content of any message from McCoy.",
+   "mentions": [
+    "N-191"
+   ]
+  }
+ },
+ {
+  "claim": "C-12896",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12897",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12898",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12899",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12900",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12901",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12902",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Coleman clip on why Kirk was killed (his motive belief); sibling C-12901 is context. Not tangential.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12903",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12904",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12905",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'He told me that' covers listening to Limbaugh. Host says Kirk saw the show 'as a means to fulfill' the radio dream, not that it let him.",
+  "fix": {
+   "claim": "The host says Kirk adored Rush Limbaugh and, he told her, listened to him on the way to school every day when he was young; she says he wanted to host three hours of radio every day and saw the Charlie Kirk Show as a means to fulfill that dream.",
+   "label": "Host Says Kirk Adored Rush Limbaugh and Wanted to Host Three Hours of Radio Daily"
+  }
+ },
+ {
+  "claim": "C-12906",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12907",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says Show Faith by Works will give pro-Israel and anti-Palestinian messages plus October 7th experience; 'filing' in the title refers only to the church list.",
+  "fix": {
+   "label": "Host Says Show Faith by Works Would Send Anti-Palestinian Messaging and Run October 7th Experiences in Church Parking Lots"
+  }
+ },
+ {
+  "claim": "C-12908",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12909",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12910",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12911",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12912",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12913",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12914",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12915",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12916",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12917",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12918",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12919",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12920",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

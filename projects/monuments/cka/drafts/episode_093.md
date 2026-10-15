@@ -1670,7 +1670,7 @@ Investigative Direction: Obtain Erika's call logs and the hospital timeline for 
 
 Claim Timestamp: 00:28:57
 
-Claim: The host asks viewers who have evidence that Amir Tsarfati or Sarfati heard of the shooting first to email it to moretips@candaceowens.com so it can be plotted on the timeline.
+Claim: The host says a viewer comment claims they heard first from Amir Tsarfati, and asks viewers with evidence of that to email moretips@candaceowens.com so it can be plotted on the timeline.
 
 Transcript Snippet: but if it is, please do send us an email to more tips@candaceowens. com.
 
@@ -1843,7 +1843,7 @@ Claim: The host says that if Marx will not agree to sit with Corby Hall she is h
 Transcript Snippet: Otherwise, I am happy to have just Victor on my show alone one-on-one.
 
 Anchored Artifacts: 
-Mentions: N-342, N-343, N-3
+Mentions: N-342, N-343, N-344, N-3
 Related Nodes: N-10613
 Supports: C-2735
 Tags: relevance:core
@@ -1860,7 +1860,7 @@ Claim: The host says that, if the former Mossad agent is to be believed, Robert 
 Transcript Snippet: he's the one who brought Epstein together with Ghislaine, got him involved in arms trafficking first.
 
 Anchored Artifacts: 
-Mentions: N-48, N-9, N-47, N-501
+Mentions: N-48, N-9, N-47
 Related Nodes: N-10023
 Tags: relevance:context
 Investigative Direction: Identify which former Mossad officer made the claim and where, and test it against Epstein and Maxwell records.
@@ -1987,7 +1987,7 @@ Investigative Direction: Compare the defense filing with the ATF summary text an
 
 Claim Timestamp: 00:43:51
 
-Claim: The host says the rifle had Robinson's prints and also six sets of other prints, and asks whose they are.
+Claim: The host says the rifle had Robinson's prints and also six sets of other prints (later saying five other sets), and asks whose they are.
 
 Transcript Snippet: I knew that it had his prints on it and it also had six sets of other prints.
 
@@ -2011,7 +2011,7 @@ Transcript Snippet: They want to bring back old FBI tactics that were first put 
 Anchored Artifacts: A-1990
 Mentions: N-710, N-3
 Related Nodes: N-10620
-Tags: relevance:tangential
+Tags: relevance:core
 Investigative Direction: Identify which comparison techniques the host means and any published validation or challenges to them.
 
 ---
@@ -2152,12 +2152,12 @@ Investigative Direction: Find the Shapiro statement the commenter refers to and 
 
 Claim Timestamp: 00:54:42
 
-Claim: The host says Village Crazy Lady believes the episode was an attempt to make J.D. Vance look bad, and the host says she thinks Erika would dump him without question.
+Claim: The host says Village Crazy Lady thinks they were trying to make J.D. Vance look bad, and the host says she thinks Erika will dump him without question.
 
 Transcript Snippet: Village Crazy Lady is her handle, and she thinks that that they were trying to make J. D. Vance look bad.
 
 Anchored Artifacts: 
-Mentions: N-66, N-4, N-2, N-651
+Mentions: N-66, N-4, N-2
 Related Nodes: N-10616
 Tags: relevance:context
 Investigative Direction: Review the Village Crazy Lady posts and any donor reporting on 2028 preferences.
@@ -2176,7 +2176,7 @@ Anchored Artifacts: A-1991.2
 Mentions: N-2, N-3
 Related Nodes: N-10608, N-10616
 Supports: C-2759
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain ticketing and attendance data for the Akins Ford Arena event.
 
 ---

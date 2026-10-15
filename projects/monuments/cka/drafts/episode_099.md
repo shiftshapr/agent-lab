@@ -976,9 +976,9 @@ Existing topic reused for Justin Streiff's post-assassination phone call.
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
-Terrell Farnsworth; the host credits him, as 'Terrell Farnsworth', with exposing the no-neck story.
+Terryl Farnsworth; the host credits him, as 'Terryl Farnsworth', with exposing the no-neck story.
 
 *Related: C-12954*
 
@@ -1066,12 +1066,12 @@ Investigative Direction: Corroborate the second message via original device reco
 
 **C-2858** Baron Coleman asserted the situation constitutes a spiritual war with demonic forces
 
-Claim Timestamp: 00:06:41
+Claim Timestamp: 00:07:45
 
-Claim: In an audio clip played on the episode, Baron Coleman stated that those co-opting Christian language do not answer to a human and that the events around Charlie Kirk's death constitute a "spiritual war" with demonic authorship.
+Claim: In an audio clip the host plays, Baron Coleman says he does not think a human is pulling the strings, and that the people co-opting Christian language do not answer to a human but 'to something far darker.'
 
 Anchored Artifacts: A-2046.1
-Mentions: N-331, N-1
+Mentions: N-331
 
 Related Nodes:
 
@@ -1101,7 +1101,7 @@ Claim Timestamp: 00:12:44
 Claim: Greta Van Susteren asked Netanyahu to address internet rumors that Israel was behind Charlie Kirk's murder.
 
 Anchored Artifacts: A-2047.1
-Mentions: N-44, N-1
+Mentions: N-36, N-44, N-1
 
 Related Nodes:
 
@@ -1109,11 +1109,11 @@ Investigative Direction: Cross-check segment against Van Susteren's own post-sho
 
 ---
 
-**C-2861** Host Says Show Faith by Works LLC Registered with FARA on September 18, 2025
+**C-2861** Host Says Israeli Foreign Ministry Contracted Show Faith by Works LLC via Havas Media on September 18, 2025
 
-Claim Timestamp: 00:14:54
+Claim Timestamp: 00:14:07
 
-Claim: The host says Show Faith by Works LLC filed a FARA registration on September 18, 2025, contracted via Havas Media on behalf of the Israeli Ministry of Foreign Affairs.
+Claim: The host says that on September 18th the Israeli Foreign Ministry of Affairs, via Havas Media, contracted Show Faith by Works LLC, and says it is filed with FARA.
 
 Anchored Artifacts: A-2048.1, A-2054.1
 
@@ -1127,7 +1127,7 @@ Investigative Direction: Pull the FARA filing directly from DOJ FARA public regi
 
 Claim Timestamp: 00:14:54
 
-Claim: According to its FARA filing, Show Faith by Works LLC is contracted to geofence mobile phones and deliver pro-Israel messaging in church parking lots.
+Claim: The host says Show Faith by Works LLC is going to geofence phones on behalf of Israel and send pro-Israel and anti-Palestinian messages, plus an October 7th experience in church parking lots, and that it is filed with FARA.
 
 Anchored Artifacts: A-2048.1, A-2048.2
 
@@ -1180,7 +1180,7 @@ Investigative Direction: Obtain full filing exhibit; verify exact quoted languag
 
 ---
 
-**C-2866** Host Says Brad Parscale Became Chief Strategy Officer of Salem Media Network in January 2025
+**C-2866** Host Says Brad Parscale Became Chief Strategy Officer of Salem Media Network in January
 
 Claim Timestamp: 00:16:57
 
@@ -1199,7 +1199,7 @@ Investigative Direction: Cross-check Salem press releases and LinkedIn / corpora
 
 Claim Timestamp: 00:24:59
 
-Claim: The host shows Newsweek page view counts for the Josh Hammer show of 399, 386, 665, and 355 across four recent videos and says this indicates negligible audience reach.
+Claim: The host shows Newsweek view counts for the Josh Hammer show of 399, 386 and 665, says 355 views looks like his average, and says it is a poor showing.
 
 Anchored Artifacts: A-2050.1
 Mentions: N-55
@@ -1214,7 +1214,7 @@ Investigative Direction: Capture live Newsweek view counts at multiple points in
 
 Claim Timestamp: 00:31:21
 
-Claim: Per a Salem announcement article the host reads, in April 2025 Salem Media Group announced a landmark deal with Donald Trump Jr. and Lara Trump, including acquisition of a 30% stake in M-News and long-term strategic services agreements.
+Claim: Per a Salem announcement article the host reads, in April 2025 Salem Media Group announced a landmark deal with Donald Trump Jr. and Lara Trump, including acquisition of a 30% stake in M-News and a long-term services agreement.
 
 Anchored Artifacts: A-2051.1
 Mentions: N-33, N-375
@@ -1244,7 +1244,7 @@ Investigative Direction: Verify M-News corporate filings; confirm 30% acquisitio
 
 Claim Timestamp: 00:34:17
 
-Claim: The host says Pam Bondi, on her first day as Attorney General, signed an order disbanding the DOJ Foreign Influence Task Force; in a clip she plays, Ian Carroll reads the order and says the same.
+Claim: The host says Pam Bondi, on her first day as Attorney General, disbanded the DOJ Foreign Influence Task Force; in a clip she plays, Ian Carroll reads the policy language and says the same.
 
 Anchored Artifacts: A-2052.1, A-2053.1, A-2054.1
 Mentions: N-85, N-130
@@ -1315,9 +1315,9 @@ Investigative Direction: Obtain the original group text record; verify the parti
 
 **C-2875** Charlie Kirk's memorial was geofenced on September 21, 2025
 
-Claim Timestamp: 00:36:54
+Claim Timestamp: 00:38:35
 
-Claim: Per the host's timeline, Charlie Kirk's memorial on September 21, 2025 was geofenced under the Show Faith by Works arrangement.
+Claim: Per the host's timeline, on September 21st Charlie Kirk's memorial was geofenced.
 
 Anchored Artifacts: A-2054.1
 Mentions: N-1
@@ -1421,7 +1421,7 @@ Investigative Direction: Obtain deleted scene footage or trade press reporting o
 
 Claim Timestamp: 00:51:57
 
-Claim: The host says the footage she shows shows that, at the It Ends With Us premiere, Justin Baldoni was seated in the basement of the theater while A-list attendees were upstairs.
+Claim: The host says Justin Baldoni was put in the basement of the It Ends With Us premiere and had to watch from there while the A-listers were upstairs, and that Blake Lively said she could not be in the same room as him.
 
 Anchored Artifacts: A-2059.1
 Mentions: N-485, N-486, N-377
@@ -1434,12 +1434,12 @@ Investigative Direction: Obtain independent eyewitness corroboration and any pre
 
 **C-2883** Mikey McCoy sent the host a message directing investigation toward Andrew Kolvet
 
-Claim Timestamp: 00:57:03
+Claim Timestamp: 00:58:45
 
-Claim: According to the host, Mikey McCoy sent her a message pointing to Andrew Kolvet as a subject of investigation.
+Claim: The host says some people call Mikey McCoy the good guy for getting one message out to her to look into Andrew Kolvet.
 
 Anchored Artifacts: A-2061.1
-Mentions: N-14, N-191
+Mentions: N-191, N-14
 
 Related Nodes: N-10663
 
@@ -1553,7 +1553,7 @@ Transcript Snippet: Charlie was turning his back on the prince of darkness. And 
 
 Anchored Artifacts: A-2046.1
 Mentions: N-331, N-1
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: None available beyond Coleman's stated belief; record as the clip's claim only.
 
 ---
@@ -1589,11 +1589,11 @@ Investigative Direction: Confirm the distribution agreement between the Charlie 
 
 ---
 
-**C-12905** Host Says Kirk Told Her He Adored Rush Limbaugh and Wanted to Host Three Hours of Radio Daily
+**C-12905** Host Says Kirk Adored Rush Limbaugh and Wanted to Host Three Hours of Radio Daily
 
 Claim Timestamp: 00:12:03
 
-Claim: The host says Kirk told her he adored Rush Limbaugh, listened to him on the way to school every day as a boy, and wanted to host three hours of radio a day, which the Charlie Kirk Show let him do.
+Claim: The host says Kirk adored Rush Limbaugh and, he told her, listened to him on the way to school every day when he was young; she says he wanted to host three hours of radio every day and saw the Charlie Kirk Show as a means to fulfill that dream.
 
 Transcript Snippet: He adored Rush Limbaugh. He listened to Rush Limbaugh on the way to school every day when he was young. He told me that.
 
@@ -1620,7 +1620,7 @@ Investigative Direction: Ask Van Susteren and her producers whether the question
 
 ---
 
-**C-12907** Host Says Show Faith by Works Filing Includes Anti-Palestinian Messaging and October 7th Experiences in Church Parking Lots
+**C-12907** Host Says Show Faith by Works Would Send Anti-Palestinian Messaging and Run October 7th Experiences in Church Parking Lots
 
 Claim Timestamp: 00:13:49
 
@@ -1948,7 +1948,7 @@ Investigative Direction: Identify the family source; compare the date with the H
 
 Claim Timestamp: 00:29:32
 
-Claim: The host says, allegedly, that Andrew Kolvet told his close orbit of family and friends in Santa Barbara that he lost millions when Charlie Kirk said no to taking Turning Point USA to the next level, and she now ties this to Kolvet's stake in the Kirk show.
+Claim: The host says, allegedly, that Andrew Kolvet told his close orbit of family and friends in Santa Barbara that he lost millions when Charlie Kirk said no to taking Turning Point USA to the next level, and she wonders whether this relates to Kolvet's stake in the Kirk show.
 
 Transcript Snippet: Andrew told allegedly, I'll say allegedly here, told his close orbit of family and friends back in Santa Barbara that he lost money. He lost millions when Charlie said no to taking Turning Point USA to the next level.
 
@@ -2060,9 +2060,9 @@ Investigative Direction: Compare the Salem and Newsweek press releases for the a
 
 **C-12934** Host Says Dhillon Law Group Has Been Privately Suing Her for Two Years
 
-Claim Timestamp: 00:39:40
+Claim Timestamp: 00:39:56
 
-Claim: The host says the law firm she calls 'Dhillon Law Group', which she identifies with the Dhillon Law Group, has been privately suing her for two years, and that some would say this is on behalf of Israel while she calls that a gratuitous understanding.
+Claim: The host says the Dhillon Law Group firm has been privately suing her for two years, which she would say is on behalf of Israel, though some would say that is a gratuitous understanding.
 
 Transcript Snippet: the Dhillon Law Group firm, uh which has been privately suing me for 2 years.
 
@@ -2094,7 +2094,7 @@ Investigative Direction: Read the Show Faith by Works filing scope for any refer
 
 Claim Timestamp: 00:43:34
 
-Claim: The host says that in the Lively case a PR crisis firm was brought in that included a former CIA agent who left the agency and opened a crisis PR firm.
+Claim: The host says Blake Lively brought in a PR crisis firm that had a former CIA agent who left the CIA and opened a PR crisis firm.
 
 Transcript Snippet: she even brought in a PR crisis firm that had a former CIA agent then like left the CIA and opened a PR crisis firm.
 
@@ -2126,7 +2126,7 @@ Investigative Direction: Compare with Love's public statements and the host's ea
 
 Claim Timestamp: 00:44:45
 
-Claim: The host says she covered the Harvey Weinstein case, that it could have had something to do with publishing rights, and that Weinstein had to sell his entire company.
+Claim: The host says she covered the Harvey Weinstein case, that she thinks it could have had something to do with publishing rights, and that Weinstein had to sell his entire company.
 
 Transcript Snippet: I think could have had something to do with publishing rights, for sure. He had to end up selling his entire company.
 
@@ -2147,7 +2147,7 @@ Claim: The host says Blake Lively's initial filing was a civil-rights, employee-
 Transcript Snippet: this like civil rights employee type filing that she initially did in California.
 
 Anchored Artifacts: 
-Mentions: N-485, N-486, N-3
+Mentions: N-485, N-3
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Obtain the California Civil Rights Department complaint and its filing date.
@@ -2227,7 +2227,7 @@ Claim: The host says Ryan Reynolds joined the It Ends With Us promotion that was
 Transcript Snippet: Ryan then jumped into Blake Lively and Justin Baldoni's movie uh appearing to do a movie promo of It Ends With Us, but it wasn't actually a movie promo.
 
 Anchored Artifacts: 
-Mentions: N-376, N-377, N-486, N-485
+Mentions: N-376, N-377, N-486
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Find the promotional video and review its content.
@@ -2324,7 +2324,7 @@ Claim: The host says that when Charlie Kirk was in the hospital she and others w
 Transcript Snippet: we were told when Charlie was in the hospital that he had no neck left. This was a repeated thing that everybody was told.
 
 Anchored Artifacts: 
-Mentions: N-1, N-22, N-3
+Mentions: N-1, N-3
 Related Nodes: N-10660
 Tags: relevance:core
 Investigative Direction: Establish who told her and her husband, and when, from call logs and messages; ask Carlson what he was told.
@@ -2381,13 +2381,13 @@ Investigative Direction: Ask the people who relayed the account where it came fr
 
 ---
 
-**C-12954** Host Says the No-Neck Lie Would Have Gone Unchallenged but for Terrell Farnsworth
+**C-12954** Host Says the No-Neck Lie Would Have Gone Unchallenged but for Terryl Farnsworth
 
 Claim Timestamp: 00:57:47
 
-Claim: The host says nobody would have known the no-neck account was false had it not been for 'Terrell Farnsworth', whom she calls an unexpected hero because he could not get his lie straight.
+Claim: The host says nobody would have known the no-neck account was false had it not been for 'Terryl Farnsworth', whom she calls an unexpected hero because he could not get his lie straight.
 
-Transcript Snippet: nobody would have known any different had it not been for for Terrell Farnsworth.
+Transcript Snippet: nobody would have known any different had it not been for for Terryl Farnsworth.
 
 Anchored Artifacts: 
 Mentions: N-262, N-3
@@ -2417,7 +2417,7 @@ Investigative Direction: Find the transcript of Erika Kirk's first public speech
 
 Claim Timestamp: 00:59:24
 
-Claim: The host says TPUSA lied when it said Mikey McCoy flew into action and directed everything at the hospital, and that he did not suddenly see, call and direct things.
+Claim: The host says, in what she calls her opinion and allegedly, that TPUSA lied when it said Mikey McCoy flew into action and directed everything at the hospital, and that he did not suddenly see, call and direct things.
 
 Transcript Snippet: They lied when they said Mikey flew into action and did all That's not true.
 
@@ -2455,7 +2455,7 @@ Claim: The host says Justin Streiff told her to her face that he was the one who
 Transcript Snippet: Justin Streiff told me to my face, he was the one that organized all the planes.
 
 Anchored Artifacts: 
-Mentions: N-15, N-191, N-3
+Mentions: N-15, N-3
 Supports: C-11330
 Tags: relevance:core
 Investigative Direction: Obtain flight manifests and booking records for the planes used on September 10, 2025 and ask Streiff.
@@ -2558,7 +2558,7 @@ Investigative Direction: Ask the host's merchandise provider for the sales data.
 
 ---
 
-**C-12965** Host Says TPUSA Wanted the Story to End With 'I Forgive Him' on September 21
+**C-12965** Host Says 'They' Wanted the Story to End With 'I Forgive Him' on September 21
 
 Claim Timestamp: 01:06:23
 
@@ -2626,7 +2626,7 @@ Investigative Direction: Review any photographs or reports of the vehicle; the h
 
 Claim Timestamp: 01:08:10
 
-Claim: The host says that Whitney Houston's daughter died drowning in a bathtub and that Brittany Murphy died drowning in a bathtub.
+Claim: The host says she thinks Whitney Houston's daughter died drowning in a bathtub and that she thinks Brittany Murphy died drowning in a bathtub.
 
 Transcript Snippet: I think her daughter died drowning in a bathtub. I think Brittany Murphy died drowning in a bathtub.
 
@@ -2753,6 +2753,6 @@ New Nodes Introduced (Investigation Targets): N-10657, N-10658, N-10659, N-10660
 
 New Nodes Introduced (Organizations): N-10901
 
-Existing Nodes Referred To (by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump, Lara Trump, Donald Trump (additional references), Brian Harpole, Courtney Love, Cardi B, Bryan Freedman, Melissa Nathan, Terrell Farnsworth, Justin Streiff
+Existing Nodes Referred To (by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump, Lara Trump, Donald Trump (additional references), Brian Harpole, Courtney Love, Cardi B, Bryan Freedman, Melissa Nathan, Terryl Farnsworth, Justin Streiff
 
 Legal Matter Placeholders: CASE_1 / LM-1000 (Blake Lively v. Justin Baldoni) – pending Phase 2 assignment
