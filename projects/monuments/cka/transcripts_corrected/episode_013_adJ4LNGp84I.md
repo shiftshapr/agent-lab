@@ -31,7 +31,7 @@ Source: yt-dlp-manual; cleaned (lexicon + paragraph merge). Music cues dropped. 
 
 [00:00]
 
-The countdown begins now, ladies and gentlemen. I'm telling you that you can begin your timers because it is not going to be long until the media tries to convince you that Megyn Kelly, yes, that Megyn Kelly is Adolf Hitler. I'm not kidding. It's definitely coming. There is going to be some headline in the near near future that reads, "Meghan Kelly is flirting with anti-semitism. You can book it." Why? Because out of nowhere and for absolutely no apparent reason at all, the agents like I think of them as like Mr. Smith in the Matrix have around I guess they're surrounding Megyn Kelly and demanding that she makes a statement against me and Tucker Carlson. Of course, Candace Owens and Tucker Carlson. It is so bonkers. I got to show you what they are saying to her.
+The countdown begins now, ladies and gentlemen. I'm telling you that you can begin your timers because it is not going to be long until the media tries to convince you that Megyn Kelly, yes, that Megyn Kelly is Adolf Hitler. I'm not kidding. It's definitely coming. There is going to be some headline in the near near future that reads, "Megyn Kelly is flirting with anti-semitism. You can book it." Why? Because out of nowhere and for absolutely no apparent reason at all, the agents like I think of them as like Mr. Smith in the Matrix have around I guess they're surrounding Megyn Kelly and demanding that she makes a statement against me and Tucker Carlson. Of course, Candace Owens and Tucker Carlson. It is so bonkers. I got to show you what they are saying to her.
 
 [00:49]
 

@@ -1099,7 +1099,7 @@ Investigative Direction: Obtain primary Nielsen release or interim report to con
 
 Claim Timestamp: 00:08:37–00:09:39
 
-Claim: Andrew Kolvet stated the TPUSA halftime show drew 6 million concurrent YouTube viewers.
+Claim: The host says Andrew Kolvet claimed the TPUSA halftime show drew 6 million concurrent YouTube viewers.
 
 Anchored Artifacts: A-1751.1
 Mentions: N-14
@@ -1273,7 +1273,7 @@ Investigative Direction: Obtain full text of the 1985 Times Union article and ve
 
 Claim Timestamp: 00:22:02–00:24:12
 
-Claim: In the 1985 article, Thomas Martin is quoted writing to superiors about avoiding "border patrol baiting" related to invading churches.
+Claim: The host says that, in the 1985 article, Thomas Martin is quoted writing to superiors that a ploy would be 'border patrol baiting' to show the public the US government thinks nothing of breaking down church doors, which she reads as his argument against invading the churches.
 
 Anchored Artifacts: A-1758.1
 Mentions: N-554
@@ -1288,7 +1288,7 @@ Investigative Direction: Obtain full text and verify direct quote attribution.
 
 Claim Timestamp: 00:24:52
 
-Claim: Per Tracy Martin's text messages from September 11, Tracy's daughter (allegedly Erica Kirk's assistant) was scheduled to attend UVU on September 10, 2025.
+Claim: The host says that, per text messages from September 11 she says she has, Tracy Martin told friends her daughter, possibly Erika Kirk's assistant, was supposed to be at UVU on September 10, 2025.
 
 Anchored Artifacts: A-1759.1
 Mentions: N-2, N-547, N-555
@@ -1321,7 +1321,7 @@ Claim Timestamp: 00:30:34–00:40:02
 Claim: Seth Dillon testified at a Religious Liberty Commission hearing on antisemitism.
 
 Anchored Artifacts: A-1760.1
-Mentions: N-556, N-38
+Mentions: N-38
 
 Related Nodes: N-10500
 
@@ -1333,7 +1333,7 @@ Investigative Direction: Obtain official hearing transcript or recording.
 
 Claim Timestamp: 00:33:44–00:36:06
 
-Claim: In a clip the host plays, Seth Dillon says the Hamptons retreat had a "save the West" theme with primary focus on "the threat of Islam."
+Claim: In a clip the host plays, Seth Dillon says the Hamptons retreat had a 'save the West' theme and that Charlie Kirk's primary focus was 'the threat of Islam.'
 
 Anchored Artifacts: A-1760.1
 Mentions: N-38
@@ -1344,11 +1344,11 @@ Investigative Direction: Cross-reference with prior Hamptons participants' publi
 
 ---
 
-**C-2344** Host Calls Seth Dillon's Hamptons Heated Debate Remark an Admission
+**C-2344** Host Says Seth Dillon Is Adjusting His Story on Hamptons Debate
 
 Claim Timestamp: 00:35:13–00:36:06
 
-Claim: In a clip the host plays, Seth Dillon says the Hamptons meeting included "heated and spirited debate about the issue of Israel," which the host characterizes as an admission.
+Claim: In a clip the host plays, Seth Dillon says the Hamptons meeting included 'heated and spirited debate about the issue of Israel,' and the host says he lied and is now adjusting his story.
 
 Anchored Artifacts: A-1760.1
 Mentions: N-38
@@ -1406,12 +1406,12 @@ Investigative Direction: Archive the original tweet and any associated image; ve
 
 **C-2348** AO Comment on Erika Lights Flickering Confirmation
 
-Claim Timestamp: 00:43:33–00:50:47
+Claim Timestamp: 00:48:30
 
-Claim: Commenter "AO" states there is a clip of Erika speaking to Megyn Kelly that confirms Candace Owens' recollection of lights flickering near Charlie Kirk.
+Claim: A viewer comment the host reads says there is a clip of Erika speaking to Megyn Kelly that confirms the host's recollection of lights flickering.
 
 Anchored Artifacts: A-1762.1
-Mentions: N-1, N-2, N-3, N-46
+Mentions: N-2, N-3, N-46
 
 
 Investigative Direction: Locate the referenced clip of Erika Kirk speaking to Megyn Kelly.
@@ -1420,7 +1420,7 @@ Investigative Direction: Locate the referenced clip of Erika Kirk speaking to Me
 
 **C-2349** GN2176 Book Comparison Comment
 
-Claim Timestamp: 00:43:33–00:50:47
+Claim Timestamp: 00:44:50
 
 Claim: Commenter GN2176 states that the Charlie Kirk story resembles "a book being written about Charlie Kirk's trial leading up to a September 10th execution like St. Thomas More."
 
@@ -1567,6 +1567,7 @@ Claim: The host says that, taking Kolvet's six million concurrent figure at face
 Transcript Snippet: Turning Point wants you to believe that they're number two now.
 
 Anchored Artifacts: A-1753.1
+Mentions: N-14
 Related Nodes: N-10499
 Supports: C-2327
 Tags: relevance:context
@@ -1718,7 +1719,7 @@ Investigative Direction: Public photos, posts and statements showing the friends
 
 ---
 
-**C-14327** Host Says Erika Modeled for Tracy's Clothing Brands and They Are Tied to Romanian Angels
+**C-14327** Host Says Erika Modeled for Tracy's Clothing Brands and Tracy Mentions Romanian Angels
 
 Claim Timestamp: 00:20:09
 
@@ -2073,7 +2074,7 @@ Investigative Direction: Official hearing video at the stated moment.
 
 Claim Timestamp: 00:32:13
 
-Claim: In the hearing clip, the questioner says Candace Owens' friend Ben fired her because she said Christ is king, and the witness replies that he never said what she said was anti-semitic.
+Claim: In the hearing clip, the questioner says that when Candace Owens worked for Daily Wire, the witness's friend Ben fired her because she said Christ is king, and the witness replies that he never said what she said was anti-semitic.
 
 Transcript Snippet: your friend Ben fired her because she said Christ is king. >> And I never said that what she said was anti-semitic.
 
@@ -2238,7 +2239,7 @@ Claim: In the clip, the speaker, apparently Dillon, says the host put his face o
 Transcript Snippet: She put my face on a movie poster for I know what you did last summer suggesting that I had a role in his murder.
 
 Anchored Artifacts: A-1760.1
-Mentions: N-38, N-3
+Mentions: N-38, N-3, N-1
 Related Nodes: N-10345
 Supports: C-1639
 Tags: relevance:context
@@ -2250,7 +2251,7 @@ Investigative Direction: The host's earlier thumbnail and its context.
 
 Claim Timestamp: 00:36:06
 
-Claim: The host acknowledges she put Seth Dillon's face on a thumbnail based on the 'I Know What You Did Last Summer' poster, calls it hilarious, and disputes that it meant he took part in a murder.
+Claim: The host acknowledges she put Seth Dillon's face on a thumbnail based on the 'I Know What You Did Last Summer' poster, calls it hilarious and a pun, and rejects his suggestion that it almost led to his murder.
 
 Transcript Snippet: She put my face on a thumbnail of I know what you did last summer. An objectively hilarious thing that I did. Go me.
 
@@ -2388,7 +2389,7 @@ Claim: The host says she reported that the Hamptons meeting was heated and that 
 Transcript Snippet: I said that factually because I had eyewitness reports of exactly what happened. And it is a fact. BB Netanyahu called.
 
 Anchored Artifacts: 
-Mentions: N-36
+Mentions: N-1, N-36
 Related Nodes: N-10016, N-10495
 Tags: relevance:core
 Investigative Direction: The eyewitnesses' identities and accounts.
@@ -2420,7 +2421,7 @@ Claim: The host says Andrew Kolvet says Netanyahu did offer to take Turning Poin
 Transcript Snippet: Andrew Kolvet says that he did offer to take Turning Point to the to the next level.
 
 Anchored Artifacts: 
-Mentions: N-14, N-36
+Mentions: N-14, N-36, N-2
 Related Nodes: N-10342, N-10446
 Supports: C-5012
 Tags: relevance:core
@@ -2432,7 +2433,7 @@ Investigative Direction: Kolvet's on-air statement and its date.
 
 Claim Timestamp: 00:39:07
 
-Claim: The host says Charlie Kirk did not even want Benjamin Netanyahu on his radio show because he was so done with Israel, and she challenges anyone to fact-check whether Netanyahu's office reached out for his podcast in July or August.
+Claim: The host says Charlie Kirk did not even want Benjamin Netanyahu on his radio show because he was so done with Israel, and she challenges anyone to fact-check whether Netanyahu reached out to be on Charlie's podcast in July or August, whenever it was.
 
 Transcript Snippet: He didn't even want BB Netanyahu on his radio show. He was so done with Israel.
 
@@ -2543,7 +2544,7 @@ Investigative Direction: Financial and succession documents showing what changed
 
 Claim Timestamp: 00:47:30
 
-Claim: The host says she is not on Upscrolled and that someone made an account for her.
+Claim: The host says she is not on Upscrolled and that she thinks someone made an account for her.
 
 Transcript Snippet: No, I'm not. I think someone made an account for me.
 

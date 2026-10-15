@@ -404,7 +404,7 @@ Transcript spelling "Marina Medvin". Placed on the timeline as asking Aubrey to 
 
 *Related: C-3795, A-2528.1*
 
-**N-553** Aubrey Lech
+**N-553** Aubrey Laitsch
 
 Named only as "Aubrey"; drafted the death statement and staff email per the host's timeline.
 

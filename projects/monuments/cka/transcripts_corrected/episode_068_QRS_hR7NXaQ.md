@@ -67,7 +67,7 @@ Now, that term Babylon rising instantly flagged to me as interesting because as 
 
 [09:03]
 
-Okay. Then that quickly next next month on March 20th, 2003, we invade Iraq. The public is informed a couple of weeks thereafter, the BBC, so State Arm that Fastbinder indeed had made the discovery of Goggamesh's tomb. And conveniently, well, guess what our boys did? They were there. They they happen to make their b their military base at that exact location. Like this is this is just incredible. Colin Powell publicly states there's weapons of mass destruction during his address and then bam there we are on top of Babylon. What exactly were we doing there other than, you know, the obligatory mass murdering, plundering ancient Christian civilizations and structures, ma a million Iraqi civilians, uh, civilians that were killed. That's a given. Every we just are always destroying Christian Christian relics.
+Okay. Then that quickly next next month on March 20th, 2003, we invade Iraq. The public is informed a couple of weeks thereafter, the BBC, so State Arm that Fassbinder indeed had made the discovery of Goggamesh's tomb. And conveniently, well, guess what our boys did? They were there. They they happen to make their b their military base at that exact location. Like this is this is just incredible. Colin Powell publicly states there's weapons of mass destruction during his address and then bam there we are on top of Babylon. What exactly were we doing there other than, you know, the obligatory mass murdering, plundering ancient Christian civilizations and structures, ma a million Iraqi civilians, uh, civilians that were killed. That's a given. Every we just are always destroying Christian Christian relics.
 
 [10:00]
 

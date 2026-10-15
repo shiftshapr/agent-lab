@@ -894,7 +894,7 @@
       "ref": "N-725",
       "name": "Rabbi Michael Barclay",
       "type": "person",
-      "description": "Rabbi Barclay (the transcript spells him Rabbi Barklay); the host says her debate with him and his interview shaped her view of Zionism.",
+      "description": "Rabbi Barclay (the transcript spells him Rabbi Barclay); the host says her debate with him and his interview shaped her view of Zionism.",
       "related_artifacts": [],
       "related_claims": [
         "C-8375"
@@ -1827,7 +1827,7 @@
       "@id": "C-8332",
       "ref": "C-8332",
       "label": "Email Says Erika Told the Donor Charlie Went to Mass There and the Priest Opened the Church for Him",
-      "claim": "The donor's email says Erika Kirk told her that Charlie went to mass with her there and that Father Don would often open the church for him to pray without being disrupted, and that the priest was with her the whole time from Arizona to Utah.",
+      "claim": "The donor's email says Erika Kirk told her that Charlie went to mass with her there and that Father Don would often open the church for him to pray and reflect without being disrupted, and that he was with her the entire time from Arizona to Utah in the hospital.",
       "anchored_artifacts": [
         "A-1706.1"
       ],
@@ -1915,7 +1915,7 @@
       "@id": "C-8336",
       "ref": "C-8336",
       "label": "Host Says Sheridan Would Whisper Prospects' Wealth to Charlie, Which Is Why She Was Brought On",
-      "claim": "The host says Sheridan would whisper in Charlie Kirk's ear who a person was and what they were worth, after which Charlie would have the conversation, and that this was the whole reason TPUSA brought her on.",
+      "claim": "The host says Sheridan would whisper in Charlie Kirk's ear about a person, after which Charlie would go have the conversation, and that this was the whole reason TPUSA brought her on.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10467"
@@ -2009,13 +2009,12 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:21:52",
+      "claim_timestamp": "00:22:39",
       "investigative_direction": "Compare with the host's earlier release of Charlie Kirk texts and any verse-bearing messages; Erika Kirk has said Charlie sent verses.",
       "transcript_snippet": "I have tons with Charlie. They were typically relevant to whatever we were going through, a verse of encouragement uh to keep going, to keep fighting.",
       "mentions_person_refs": [
         "N-1",
-        "N-3",
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -2118,7 +2117,7 @@
       "@id": "C-8345",
       "ref": "C-8345",
       "label": "Host Says Questions Arose About How the White House Could Secure the Venue So Fast",
-      "claim": "The host says she has been told several times that the White House got involved and secured the stadium, and that people asked how that was possible so quickly given the usual policies for booking such venues.",
+      "claim": "The host says she has been told a couple of times that the White House got involved and secured the stadium, and that people asked how that was possible so quickly given the usual policies for booking such venues.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10466",
@@ -2234,7 +2233,7 @@
       "@id": "C-8350",
       "ref": "C-8350",
       "label": "Host Says the Relic the Donor Gave Erika Was of St. Michael",
-      "claim": "The host says the donor arranged to get a relic from St. Michael, and that she herself received a similar relic from a priest in Wyoming in the first weeks of October.",
+      "claim": "The host says the donor arranged to get a relic from St. Michael and got it to Erika, and that she herself got that same relic from a priest in Wyoming, in what she thinks was the first weeks of October.",
       "anchored_artifacts": [
         "A-1706.1"
       ],
@@ -2246,7 +2245,8 @@
       "investigative_direction": "The email as read names relics of St. Paul II (C-2245) while the host names St. Michael; ask the donor which relic she delivered.",
       "transcript_snippet": "she organizes to get a relic um from St. Michael, the same actually same cave that sits behind me.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-3"
       ]
     },
     {
@@ -2604,7 +2604,7 @@
       "@id": "C-8367",
       "ref": "C-8367",
       "label": "Host Says Kolvet Was the One Organizing Paramount Tactical and Alex Jones",
-      "claim": "The host says she realized Kolvet was the one organizing Paramount Tactical and Alex Jones against her.",
+      "claim": "The host says she realized Kolvet was the one organizing the Paramount Tactical and also the Alex Jones.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10899"
@@ -2652,7 +2652,7 @@
       "@id": "C-8369",
       "ref": "C-8369",
       "label": "Viewer Comment Says the TPUSA Hat Arrived After the Leaked Call and Contract-Wording Attention",
-      "claim": "A viewer comment read by the host says she received her TPUSA hat only after the leaked call and the attention to the contract wording about hats versus a plastic bracelet.",
+      "claim": "A viewer comment read by the host says she received her TPUSA hat today, most likely only because of the leaked call and the attention brought to the contract wording about hats versus a plastic bracelet.",
       "anchored_artifacts": [
         "A-2929.1"
       ],
@@ -2781,8 +2781,8 @@
       "@type": "Claim",
       "@id": "C-8375",
       "ref": "C-8375",
-      "label": "Host Says Watching the Rabbi Barklay Interview Began the End of Her Support for Zionism",
-      "claim": "The host says that watching the Rabbi Barklay interview was part of the beginning of the end of her support for Zionism and that she now believes it is an objectively racist philosophy.",
+      "label": "Host Says Watching the Rabbi Barclay Interview Began the End of Her Support for Zionism",
+      "claim": "The host says that watching the Rabbi Barclay interview probably was part of the beginning of the end of her support for Zionism and that she now believes it is an objectively racist philosophy.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026"
@@ -2790,7 +2790,7 @@
       "tags": [
         "relevance:tangential"
       ],
-      "claim_timestamp": "00:57:56",
+      "claim_timestamp": "00:58:17",
       "investigative_direction": "Personal position recorded as said; the interview is the Daily Wire debate the host mentions earlier.",
       "transcript_snippet": "And that probably was part of the beginning of the end of my support for Zionism because I now believe that it is a objectively racist philosophy.",
       "mentions_person_refs": [

@@ -256,7 +256,7 @@ Referred to as "Governor Cox"; viewers noted he appointed the judge in the Robin
 
 **N-46** Megyn Kelly
 
-Transcript spellings "Megyn Kelly" and "Meghan Kelly". Erika Kirk told her TPUSA has the Aspen video; named among those Trump called mentally ill.
+Transcript spellings "Megyn Kelly" and "Megyn Kelly". Erika Kirk told her TPUSA has the Aspen video; named among those Trump called mentally ill.
 
 *Related: C-3862, C-3872*
 
@@ -1217,7 +1217,7 @@ Claim Timestamp: 00:39:28
 
 Claim: The host says Donald Trump tweeted that Tucker Carlson, Megyn Kelly and Candace Owens are mentally ill while inviting Laura Loomer into his inner circle for advice on Iran.
 
-Transcript Snippet: If he makes a conscious decision to tweet out that Tucker Carlson and Meghan Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer.
+Transcript Snippet: If he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer.
 
 Anchored Artifacts: 
 Mentions: N-5, N-22, N-46, N-3, N-60

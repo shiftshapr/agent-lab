@@ -2156,8 +2156,8 @@
       "@type": "Claim",
       "@id": "C-2379",
       "ref": "C-2379",
-      "label": "Erika and Jillian first connected through a rent-payment encounter at Joshua Harrelson's residence",
-      "claim": "Episode presents that Erika and Jillian met when Jillian came to Harrelson's residence for a rent-related matter and exchanged numbers during that interaction, per Jillian's account relayed by the host.",
+      "label": "Erika and Jillian First Connected Through a Rent-Payment Encounter",
+      "claim": "The host says, relaying what Jillian Falcon told her, that Jillian met Erika Kirk at a door over a payment for rent, and that the two somehow exchanged numbers during that rent arrangement, though Jillian does not recall how.",
       "anchored_artifacts": [
         "A-1780.1"
       ],
@@ -2166,9 +2166,8 @@
       "claim_timestamp": "00:03:40",
       "investigative_direction": "Re-interview Jillian (now adult) directly and document the rent-payment interaction in writing or recording.",
       "mentions_person_refs": [
-        "N-566",
         "N-567",
-        "N-568"
+        "N-2"
       ]
     },
     {
@@ -2176,7 +2175,7 @@
       "@id": "C-2380",
       "ref": "C-2380",
       "label": "Nicey Clip Shows Erika Messages to Jillian Including \"I don't bat for the other team just yet\"",
-      "claim": "In a video by YouTuber Nicey that the host plays, Nicey presents text messages Jillian Falcon posted, in which Erika Kirk on or about 2014-03-06 sent Jillian \"Sex. Sex, too, but not from you. lol.\" and \"You always make me laugh. I don't bat for the other team just yet.\"",
+      "claim": "In a video by YouTuber Nicey that the host plays, Nicey presents text messages Jillian Falcon posted on or about 2014-03-06 and reads them as Erika Kirk writing \"Let me call you. Hold on, sweetheart. Give me a sex.\" and then \"Sex.\" \"Sex, too, but not from you. lol.\" and \"You always make me laugh. I don't bat for the other team just yet.\"",
       "anchored_artifacts": [
         "A-1781.3",
         "A-1782.1",
@@ -2188,6 +2187,7 @@
       "claim_timestamp": "00:05:48",
       "investigative_direction": "Obtain original screenshots and verify posting metadata on Jillian's X/Twitter account.",
       "mentions_person_refs": [
+        "N-566",
         "N-567",
         "N-2"
       ]
@@ -2207,7 +2207,9 @@
       "claim_timestamp": "00:05:48",
       "investigative_direction": "Compare against the same-day Jillian social-media activity to identify the referenced event and whether a photo session took place.",
       "mentions_person_refs": [
-        "N-567"
+        "N-566",
+        "N-567",
+        "N-2"
       ]
     },
     {
@@ -2228,15 +2230,16 @@
       "investigative_direction": "Identify the photographer (name begins with \"R\") and obtain session records, including the date and consent documentation.",
       "mentions_person_refs": [
         "N-567",
-        "N-570"
+        "N-570",
+        "N-2"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-2383",
       "ref": "C-2383",
-      "label": "Erika sent Jillian a gnome-themed image reading \"I want to be inside your lady garden\"",
-      "claim": "Episode presents that on or about 2014-03-26, Erika sent Jillian a gnome image bearing the text \"I want to be inside your lady garden. Know what I'm saying?\", which Jillian then shared publicly.",
+      "label": "Nicey Clip Shows Jillian Sharing Gnome Image After Thanking Erika",
+      "claim": "In a video by YouTuber Nicey that the host plays, Nicey says Jillian Falcon tweeted on or about 2014-03-26 \"Thank you, @EricaFrandsen, for making my whole week\" and shared a photo of a gnome reading \"I want to be inside your lady garden. Know what I'm saying?\"",
       "anchored_artifacts": [
         "A-1781.6"
       ],
@@ -2245,7 +2248,9 @@
       "claim_timestamp": "00:06:37",
       "investigative_direction": "Locate the original image file and verify its posting date and source account.",
       "mentions_person_refs": [
-        "N-567"
+        "N-566",
+        "N-567",
+        "N-2"
       ]
     },
     {
@@ -2253,7 +2258,7 @@
       "@id": "C-2384",
       "ref": "C-2384",
       "label": "Nicey Clip Shows Erika Sending Jillian Chocolate-Covered Strawberries with a Personal Card for Her 16th Birthday",
-      "claim": "In a video by YouTuber Nicey that the host plays, Nicey says that on or about 2014-04-05 Erika Kirk sent Jillian Falcon a red box of chocolate-covered strawberries and other desserts accompanied by a handwritten card reading \"Happy sweet 16, beautiful girl… Love you, E.\"",
+      "claim": "In a video by YouTuber Nicey that the host plays, Nicey says that on or about 2014-04-05 Erika Kirk sent Jillian Falcon a red box of chocolate-covered strawberries and other desserts accompanied by a card reading \"Happy sweet 16, beautiful girl… Love you, E.\"",
       "anchored_artifacts": [
         "A-1781.8",
         "A-1783.1"
@@ -2263,6 +2268,7 @@
       "claim_timestamp": "00:07:30",
       "investigative_direction": "Obtain the original photo from Jillian's X/Twitter post and, if feasible, the physical card for handwriting comparison.",
       "mentions_person_refs": [
+        "N-566",
         "N-567",
         "N-2"
       ]
@@ -2282,7 +2288,9 @@
       "claim_timestamp": "00:07:30",
       "investigative_direction": "Obtain the original screenshot and verify against Jillian's X/Twitter posting history.",
       "mentions_person_refs": [
-        "N-567"
+        "N-566",
+        "N-567",
+        "N-2"
       ]
     },
     {
@@ -2419,7 +2427,7 @@
       "claim_timestamp": "00:33:02",
       "investigative_direction": "Pull the Newsweek article directly and confirm the exact quote and attribution.",
       "mentions_person_refs": [
-        "N-14"
+        "N-2"
       ]
     },
     {
@@ -2468,7 +2476,7 @@
       "@id": "C-2395",
       "ref": "C-2395",
       "label": "Pam Bondi asserted at a House Oversight hearing that the Trump administration released over 3 million pages of Epstein documents and signed the law releasing them",
-      "claim": "Episode presents that Attorney General Pam Bondi, in a House Oversight hearing clip, asserted that the Trump administration released over 3 million pages of Epstein documents and that President Trump signed the law releasing them, characterizing him as \"the most transparent president in the nation's history.\"",
+      "claim": "Episode presents that Attorney General Pam Bondi, in a hearing clip, asserted that the Trump administration released over 3 million pages of Epstein documents and that President Trump signed the law releasing them, characterizing him as \"the most transparent president in the nation's history.\"",
       "anchored_artifacts": [
         "A-1791.1"
       ],
@@ -2478,7 +2486,7 @@
       "investigative_direction": "Pull the hearing transcript and video to confirm Bondi's exact wording and the hearing date.",
       "mentions_person_refs": [
         "N-85",
-        "N-569"
+        "N-5"
       ]
     },
     {
@@ -2525,7 +2533,7 @@
       "@type": "Claim",
       "@id": "C-10139",
       "ref": "C-10139",
-      "label": "Host says she contacted Jillian by phone despite Coleman's instruction not to",
+      "label": "Host Says She Contacted Jillian Despite Coleman's Instruction Not To",
       "claim": "The host says Baron Coleman told viewers not to reach out to Jillian, who is now an adult, but that she reached out to Jillian immediately and had a chat with her about her dynamic with Erika.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2776,7 +2784,7 @@
       "@id": "C-10150",
       "ref": "C-10150",
       "label": "Host says Erika messaged Jillian 'No new friends' after Jillian posted a photo with someone her own age",
-      "claim": "The host characterizes the '#nonewfriends' message as something Erika sent after Jillian posted a photo with a person her own age, and says it reads as territorial.",
+      "claim": "The host characterizes the '#nonewfriends' message as something Erika sent after Jillian posted a photo with a person her own age, and says it was 'almost like territorial', though 'obviously all just a joke or something like that'.",
       "anchored_artifacts": [
         "A-1781.7"
       ],
@@ -2807,7 +2815,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:11:13",
       "investigative_direction": "Locate the original June 2014 tweet and confirm its date and wording.",
@@ -2991,7 +2999,7 @@
       "@id": "C-10160",
       "ref": "C-10160",
       "label": "Host says Jillian told her Erika never spoke to Jillian's mother",
-      "claim": "The host says that when she asked whether Erika spoke to her mother, Jillian answered that Erika never spoke to her mother and that it all happened on the phone.",
+      "claim": "The host says that when she asked whether Erika spoke to her mother, Jillian answered that Erika never spoke to her mother, and the host adds that this was happening on the phone.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3056,7 +3064,7 @@
       "@id": "C-10163",
       "ref": "C-10163",
       "label": "Host says Tyler Bowyer handpicked the TPUSA location",
-      "claim": "The host says she was around when the location was chosen and that it was Tyler Bowyer who handpicked it, a proud fifth-generation Arizonan from the Chandler and Gilbert area.",
+      "claim": "The host says she was around when the location was chosen and that it was Tyler Bowyer who handpicked it, a proud fifth-generation, 'I think he says,' Arizonan from the Chandler and Gilbert area.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11250",
@@ -3255,7 +3263,7 @@
       "@id": "C-10172",
       "ref": "C-10172",
       "label": "Host says Erika was weird about giving an alibi for September 8 and someone believes they saw her at Fort Huachuca",
-      "claim": "The host says Erika was being weird about providing a sensible alibi for her whereabouts on September 8, that nobody saw her, and that somebody else believes they did see her at Fort Huachuca.",
+      "claim": "The host asks why Erika was being so weird about providing a sensible alibi for her whereabouts on September 8, and why nobody saw her when somebody else believes they did see her at Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10367",

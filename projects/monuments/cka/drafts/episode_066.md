@@ -496,7 +496,7 @@ Alex Clark; interviewer whose interview with Kolvet the donor and the host dispu
 
 **N-725** Rabbi Michael Barclay
 
-Rabbi Barclay (the transcript spells him Rabbi Barklay); the host says her debate with him and his interview shaped her view of Zionism.
+Rabbi Barclay (the transcript spells him Rabbi Barclay); the host says her debate with him and his interview shaped her view of Zionism.
 
 *Related: C-8375*
 
@@ -1057,7 +1057,7 @@ Investigative Direction: Ask the donor to confirm in writing who tapped her and 
 
 Claim Timestamp: 00:18:06
 
-Claim: The donor's email says Erika Kirk told her that Charlie went to mass with her there and that Father Don would often open the church for him to pray without being disrupted, and that the priest was with her the whole time from Arizona to Utah.
+Claim: The donor's email says Erika Kirk told her that Charlie went to mass with her there and that Father Don would often open the church for him to pray and reflect without being disrupted, and that he was with her the entire time from Arizona to Utah in the hospital.
 
 Transcript Snippet: She mentioned that Charlie went to mass with her there and that Father Don would open the church up for him there often when Charlie just wanted to pray and reflect without being disrupted
 
@@ -1120,7 +1120,7 @@ Investigative Direction: Obtain Sheridan's job description and any donor-profile
 
 Claim Timestamp: 00:20:53
 
-Claim: The host says Sheridan would whisper in Charlie Kirk's ear who a person was and what they were worth, after which Charlie would have the conversation, and that this was the whole reason TPUSA brought her on.
+Claim: The host says Sheridan would whisper in Charlie Kirk's ear about a person, after which Charlie would go have the conversation, and that this was the whole reason TPUSA brought her on.
 
 Transcript Snippet: She would tell Charlie. She whisper in Charlie's ear.
 
@@ -1182,14 +1182,14 @@ Investigative Direction: Obtain the original screenshot or forward from the dono
 
 **C-8340** Host Says Charlie's Texts to Her Typically Carried Verses of Encouragement
 
-Claim Timestamp: 00:21:52
+Claim Timestamp: 00:22:39
 
 Claim: The host says she has many texts with Charlie Kirk and that they typically carried a Bible verse of encouragement relevant to whatever they were going through.
 
 Transcript Snippet: I have tons with Charlie. They were typically relevant to whatever we were going through, a verse of encouragement uh to keep going, to keep fighting.
 
 Anchored Artifacts: 
-Mentions: N-1, N-3, N-2
+Mentions: N-1, N-3
 Tags: relevance:core
 Investigative Direction: Compare with the host's earlier release of Charlie Kirk texts and any verse-bearing messages; Erika Kirk has said Charlie sent verses.
 
@@ -1264,7 +1264,7 @@ Investigative Direction: Obtain the full text; check Erika Kirk's reported threa
 
 Claim Timestamp: 00:24:55
 
-Claim: The host says she has been told several times that the White House got involved and secured the stadium, and that people asked how that was possible so quickly given the usual policies for booking such venues.
+Claim: The host says she has been told a couple of times that the White House got involved and secured the stadium, and that people asked how that was possible so quickly given the usual policies for booking such venues.
 
 Transcript Snippet: We've been told the story a couple of times now that the White House got involved and secured the venue and people started asking questions about how this was possible to turn around so quickly
 
@@ -1346,12 +1346,12 @@ Investigative Direction: Ask Sheridan and Erika Kirk's team whether the approach
 
 Claim Timestamp: 00:29:22
 
-Claim: The host says the donor arranged to get a relic from St. Michael, and that she herself received a similar relic from a priest in Wyoming in the first weeks of October.
+Claim: The host says the donor arranged to get a relic from St. Michael and got it to Erika, and that she herself got that same relic from a priest in Wyoming, in what she thinks was the first weeks of October.
 
 Transcript Snippet: she organizes to get a relic um from St. Michael, the same actually same cave that sits behind me.
 
 Anchored Artifacts: A-1706.1
-Mentions: N-2
+Mentions: N-2, N-3
 Tags: relevance:context
 Investigative Direction: The email as read names relics of St. Paul II (C-2245) while the host names St. Michael; ask the donor which relic she delivered.
 
@@ -1618,7 +1618,7 @@ Investigative Direction: Ask Erika Kirk's team whether a replacement for Kolvet 
 
 Claim Timestamp: 00:54:09
 
-Claim: The host says she realized Kolvet was the one organizing Paramount Tactical and Alex Jones against her.
+Claim: The host says she realized Kolvet was the one organizing the Paramount Tactical and also the Alex Jones.
 
 Transcript Snippet: and then I realized he's the one organizing the Paramount Tactical and Andrew and also the Alex Jones
 
@@ -1651,7 +1651,7 @@ Investigative Direction: The sentence is garbled; identify which firings the hos
 
 Claim Timestamp: 00:54:09
 
-Claim: A viewer comment read by the host says she received her TPUSA hat only after the leaked call and the attention to the contract wording about hats versus a plastic bracelet.
+Claim: A viewer comment read by the host says she received her TPUSA hat today, most likely only because of the leaked call and the attention brought to the contract wording about hats versus a plastic bracelet.
 
 Transcript Snippet: I received my TPUSA hat today, lol. Most likely only because of the leaked call and the attention brought to the contract wording
 
@@ -1742,11 +1742,11 @@ Investigative Direction: Check later episodes for the promised profile episodes.
 
 ---
 
-**C-8375** Host Says Watching the Rabbi Barklay Interview Began the End of Her Support for Zionism
+**C-8375** Host Says Watching the Rabbi Barclay Interview Began the End of Her Support for Zionism
 
-Claim Timestamp: 00:57:56
+Claim Timestamp: 00:58:17
 
-Claim: The host says that watching the Rabbi Barklay interview was part of the beginning of the end of her support for Zionism and that she now believes it is an objectively racist philosophy.
+Claim: The host says that watching the Rabbi Barclay interview probably was part of the beginning of the end of her support for Zionism and that she now believes it is an objectively racist philosophy.
 
 Transcript Snippet: And that probably was part of the beginning of the end of my support for Zionism because I now believe that it is a objectively racist philosophy.
 

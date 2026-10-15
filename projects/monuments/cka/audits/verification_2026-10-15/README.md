@@ -86,3 +86,9 @@ Fox 10 Phoenix and the HappyScribe transcript of Ep 297 ("this Marina Minas"). M
 person: an attorney and commentator. The recommendation is to rename N-495 to Marina Minas and turn the other
 spellings into correction rules. The earlier C-2193 ruling is unaffected: that employee is unnamed, and the claim
 records Minas separately.
+
+## Part 3c (chunks 99–110: episodes ~67–75, 720 claims)
+- 80 findings went to confirmation: 56 accepted, 23 amended, 1 rejected. Applied: 76 confirmed fixes and 75 minor fixes.
+- Name rules: Aubrey Laitsch (Lech/Lich/Leach/Leitch; N-553 renamed), Megyn Kelly ("Meghan Kelly"), Jörg Fassbinder
+  ("Fastbinder"), Barclay (ep66), Falcone (ep70).
+- Held for Daveed: three more Marina Minas changes (C-10121, C-2320, C-2322). See "For Daveed: Marina (N-495)".

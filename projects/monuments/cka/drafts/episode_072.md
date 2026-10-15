@@ -23,7 +23,7 @@
 
 This episode advances the investigation along two principal evidentiary axes: (1) the conduct of Erika Kirk in the 24 hours preceding Charlie Kirk's death (specifically the absence of Erika's assistant from the September 10 UVU event), and (2) the published career history of Erika Kirk with particular focus on her New York real estate license and Corcoran Group affiliation.
 
-Material evidentiary content is presented through a Megyn Kelly interview on Piers Morgan's show (in which Kelly confirms Charlie Kirk was questioning Israel's influence on American politics), a Tyler Bowyer memorial speech recounting Erika's introduction to Turning Point USA, Erika Kirk's own multiple retellings of her "job interview" with Charlie, a New York real estate license snapshot, a USA Today article identifying Erika as a Corcoran Group agent, an Epstein document listing Lynn Forester de Rothschild as Corcoran Group Inc. President, an unnamed TikToker's video synthesis, and a referenced video of an unidentified individual ("Mike") photographing the home of former TPUSA employee Aubrey Lich.
+Material evidentiary content is presented through a Megyn Kelly interview on Piers Morgan's show (in which Kelly confirms Charlie Kirk was questioning Israel's influence on American politics), a Tyler Bowyer memorial speech recounting Erika's introduction to Turning Point USA, Erika Kirk's own multiple retellings of her "job interview" with Charlie, a New York real estate license snapshot, a USA Today article identifying Erika as a Corcoran Group agent, an Epstein document listing Lynn Forester de Rothschild as Corcoran Group Inc. President, an unnamed TikToker's video synthesis, and a referenced video of an unidentified individual ("Mike") photographing the home of former TPUSA employee Aubrey Laitsch.
 
 The host's central argument that Erika Kirk should be formally questioned by law enforcement is rhetorical framing and is not inscribed as a claim. Host allegations concerning a three-way funeral-day call with Dr. Lee Trotter, an alleged lie to Glenn Beck about text messages, an alleged Hamptons Bibi Netanyahu call, and the alleged "bad feeling" of Tracy Martin are presented without in-episode artifact anchors and are flagged accordingly.
 
@@ -99,7 +99,7 @@ Confidence Level: High
 
 *Related: C-2355, N-2, N-41*
 
-**A-1767.2** Audio Clip: Erika Kirk on Meghan Kelly's Stage Recounting She Did Not Date in Manhattan
+**A-1767.2** Audio Clip: Erika Kirk on Megyn Kelly's Stage Recounting She Did Not Date in Manhattan
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -154,7 +154,7 @@ Confidence Level: Medium
 
 **A-1771** Private Investigator Video Bundle
 
-**A-1771.1** Video Recording: Individual Identifying Himself as "Mike" Photographing Aubrey Lich's Home and Vehicle, Stating He Was Asked by a Legal Firm
+**A-1771.1** Video Recording: Individual Identifying Himself as "Mike" Photographing Aubrey Laitsch's Home and Vehicle, Stating He Was Asked by a Legal Firm
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -332,7 +332,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-553** Aubrey Lech
+**N-553** Aubrey Laitsch
 
 Former Turning Point USA employee; subject of recorded private investigator visit to her home.
 
@@ -347,7 +347,7 @@ Investigative Pressure: Low
 
 **N-561** "Mike" (Private Investigator)
 
-Unidentified individual recorded outside Aubrey Lich's home stating a legal firm asked him to photograph the property.
+Unidentified individual recorded outside Aubrey Laitsch's home stating a legal firm asked him to photograph the property.
 
 Evidence Count: 1
 Claim Count: 1
@@ -425,7 +425,7 @@ Investigative Pressure: Medium
 
 **N-495** Marina (TPUSA CMO)
 
-Turning Point USA CMO; host references her questioning of Aubrey Lich regarding an Uber ride.
+Turning Point USA CMO; host references her questioning of Aubrey Laitsch regarding an Uber ride.
 
 Evidence Count: 0
 Claim Count: 0
@@ -1033,10 +1033,10 @@ Existing node reused for new claims in this episode.
 
 Claim Timestamp: 00:26:41
 
-Claim: A USA Today article posted shortly after Charlie Kirk's assassination states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.
+Claim: In a TikTok clip the host plays, an unnamed TikToker says a USA Today article posted shortly after Charlie Kirk's assassination states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.
 
 Anchored Artifacts: A-1764.1, A-1769.1
-Mentions: N-2, N-560, N-1
+Mentions: N-2, N-1, N-562
 
 Related Nodes: N-10502
 
@@ -1048,10 +1048,10 @@ Investigative Direction: Obtain and verify the original USA Today article and co
 
 Claim Timestamp: 00:27:38
 
-Claim: An Epstein document performing an official name search for Lynn Forester (a/k/a Lindy Rothschild) lists her as the President of Corcoran Group Inc., with a redacted work email.
+Claim: In a TikTok clip the host plays, an unnamed TikToker says an Epstein document performing an official name search for Lynn Forester (aka Lindy Rothschild) lists her as the Corcoran Group Inc. President, with a redacted email.
 
 Anchored Artifacts: A-1765.1, A-1769.1
-Mentions: N-559, N-560
+Mentions: N-559, N-562
 
 Related Nodes: N-10502
 
@@ -1106,19 +1106,19 @@ Investigative Direction: Identify and verify the original source of this account
 
 Claim Timestamp: 00:30:20
 
-Claim: Erika Kirk stated on Meghan Kelly's stage that she did not date in Manhattan because she had observed the dating pool through her roommates.
+Claim: In a clip the host plays, Erika Kirk tells Megyn Kelly on stage that she did not date in Manhattan because she saw the dating pool through her roommates.
 
 Anchored Artifacts: A-1767.2
-Mentions: N-2
+Mentions: N-2, N-46
 
 
-Investigative Direction: Verify the original Meghan Kelly stage appearance and confirm Erika's exact phrasing.
+Investigative Direction: Verify the original Megyn Kelly stage appearance and confirm Erika's exact phrasing.
 
 ---
 
 **C-2357** Megyn Kelly Stated Charlie Kirk Was Developing Serious Questions About Israel
 
-Claim Timestamp: 00:19:06
+Claim Timestamp: 00:20:40
 
 Claim: Megyn Kelly stated on Piers Morgan's show that Charlie Kirk was starting to have serious questions about Israel, including its influence on American politicians.
 
@@ -1187,11 +1187,11 @@ Investigative Direction: Pursue independently whether any financial records conn
 
 ---
 
-**C-2362** Unidentified "Mike" Was Recorded Photographing Aubrey Lich's Home Claiming Legal Firm Instruction
+**C-2362** Unidentified "Mike" Was Recorded Photographing Aubrey Laitsch's Home Claiming Legal Firm Instruction
 
 Claim Timestamp: 00:37:32
 
-Claim: An individual identifying himself as "Mike" was video-recorded outside Aubrey Lich's home photographing her vehicle's license plate and the property, stating that a legal firm had asked him to do so.
+Claim: The host says a man who gave his name as "Mike" was recorded outside Aubrey Laitsch's home photographing the car, its license plate and the home, and said a legal firm asked him to take photos.
 
 Anchored Artifacts: A-1771.1
 Mentions: N-553, N-561
@@ -2242,19 +2242,19 @@ Investigative Direction: Compare dated China residence evidence with enrollment 
 
 ---
 
-**C-10121** Host Says Aubrey Lich Was Fired After Being Questioned About an Uber Ride by Marina Meanes
+**C-10121** Host Says Aubrey Laitsch Was Fired After Being Questioned About an Uber Ride by Marina Meanes
 
 Claim Timestamp: 00:36:47
 
-Claim: The host says Aubrey Lich, who was fired from Turning Point USA and spoke out, had been questioned over an Uber ride by TPUSA CMO Marina Meanes.
+Claim: The host says Aubrey Laitsch, who was fired from Turning Point USA and spoke out, had been questioned over an Uber ride by TPUSA CMO Marina Meanes.
 
-Transcript Snippet: Aubrey Lich uh at Turning Point USA, the one who was questioned over the Uber ride by Marina Meanes, the CMO over at Turning Point USA
+Transcript Snippet: Aubrey Laitsch uh at Turning Point USA, the one who was questioned over the Uber ride by Marina Meanes, the CMO over at Turning Point USA
 
 Anchored Artifacts: 
 Mentions: N-3, N-553, N-495
 Related Nodes: N-10000
 Tags: relevance:core
-Investigative Direction: Interview Aubrey Lich and obtain separation records and messages about the Uber ride questioning.
+Investigative Direction: Interview Aubrey Laitsch and obtain separation records and messages about the Uber ride questioning.
 
 ---
 
@@ -2262,7 +2262,7 @@ Investigative Direction: Interview Aubrey Lich and obtain separation records and
 
 Claim Timestamp: 00:36:47
 
-Claim: The host says Lich's husband or fiance was also fired from Turning Point USA, apparently because he is going to marry her.
+Claim: The host says Laitsch's husband or fiance was also fired from Turning Point USA, apparently because he is going to marry her.
 
 Transcript Snippet: her husband or her fiance who also got fired from Turning Point USA just because I guess he's going to marry her or something
 
@@ -2278,7 +2278,7 @@ Investigative Direction: Identify the second fired employee and obtain the termi
 
 Claim Timestamp: 00:37:32
 
-Claim: The host says the man photographing the Lich home and car, who gave his name as Mike and said a legal firm asked him, had no documents in his hand and delivered nothing, which she says is not what happens when documents are served.
+Claim: The host says the man photographing the Laitsch home and car, who gave his name as Mike and said a legal firm asked him, had no documents in his hand and delivered nothing, which she says is not what happens when documents are served.
 
 Transcript Snippet: There was no documents in his hand. He delivered nothing to him and he was just taking photos of their home and their car.
 
@@ -2310,7 +2310,7 @@ Investigative Direction: Obtain the investigator's license and client from the l
 
 Claim Timestamp: 00:37:55
 
-Claim: The host says she tweeted at Andrew Kolvet for a statement about the man photographing the Lich home.
+Claim: The host says she tweeted at Andrew Kolvet for a statement about the man photographing the Laitsch home.
 
 Transcript Snippet: I certainly tweeted at Andrew Kolvet for a statement on this.
 
@@ -2444,7 +2444,7 @@ Transcript Snippet: If not, you can see it cuz I just put it on X. You can go to
 Anchored Artifacts: A-3055.1, A-3055.1
 Mentions: N-3
 Related Nodes: N-10063
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the host's post and verify the source and date of the video.
 
 ---
@@ -2459,7 +2459,7 @@ Transcript Snippet: I think Bibi's making his seventh trip here this week.
 
 Anchored Artifacts: 
 Mentions: N-3, N-36
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check Netanyahu's travel schedule for the week of February 10, 2026.
 
 ---

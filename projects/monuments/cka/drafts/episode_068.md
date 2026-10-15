@@ -788,7 +788,7 @@ Existing topic reused for the cease-and-desist claim.
 
 **C-2283** Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day
 Claim Timestamp: 00:23:15
-Claim: Erika Kirk had not posted anything about her mother on Instagram since April 2022 (Mother's Day) until the Sept 7, 2025 post.
+Claim: Erika Kirk had not posted anything about her mother on Instagram since April 2022 (the host believes that post was for Mother's Day) until the Sept 7, 2025 post.
 Anchored Artifacts: A-1727.1
 Mentions: N-491, N-2
 Related Nodes: N-10479
@@ -837,7 +837,7 @@ Investigative Direction: Locate the UN article by publication/year and verify qu
 
 **C-2288** NBC News Reported U.S. Marines Damaged Babylon Ruins
 Claim Timestamp: 00:11:55
-Claim: NBC News reported that a senior U.S. military officer apologized for damage his troops caused to Babylon, and that U.S. Marines built a helicopter pad on the ruins and filled sandbags with archaeological fragments, with helicopter vibrations causing the roof of one building to collapse.
+Claim: NBC News reported that a senior U.S. military officer said he was willing to apologize for damage his troops caused to Babylon, and, citing the BBC, that U.S. Marines built a helicopter pad on the ruins and filled sandbags with archaeological fragments, with helicopter vibrations causing the roof of one building to collapse.
 Anchored Artifacts: A-1730.2
 Related Nodes: N-10481
 Investigative Direction: Locate the specific NBC News article and confirm.
@@ -853,9 +853,9 @@ Investigative Direction: Locate the British Museum report and confirm quoted lan
 
 ---
 
-**C-2290** BBC Reported Fastbinder Discovered Gilgamesh's Tomb
+**C-2290** BBC Reported Fassbinder Discovered Gilgamesh's Tomb
 Claim Timestamp: 00:09:00
-Claim: The BBC reported that Gorg Fastinder had made the discovery of Gilgamesh's tomb, with the report surfacing a couple of weeks after the March 20, 2003 invasion of Iraq.
+Claim: The BBC reported that Jörg Fassbinder had made the discovery of Gilgamesh's tomb, with the report surfacing a couple of weeks after the March 20, 2003 invasion of Iraq.
 Anchored Artifacts: A-1731.1
 Mentions: N-538
 Related Nodes: N-10484
@@ -864,7 +864,7 @@ Investigative Direction: Locate the specific BBC report and confirm date.
 ---
 
 **C-2291** Host Says German Geophysicists Located Gilgamesh Tomb Between May 2002 and Early 2003
-Claim Timestamp: 00:07:30
+Claim Timestamp: 00:08:02
 Claim: The host says, citing a headline she shows, that German geophysicists Jörg Fassbinder and Helmut Becker of the Bavarian State Conservation Office used magnetic mapping to discover ancient Iraq and became convinced they had located Gilgamesh's tomb between May 2002 and very early 2003.
 Anchored Artifacts: A-1731.2
 Mentions: N-538, N-539
@@ -911,8 +911,8 @@ Investigative Direction: Obtain copies of the underlying text messages and verif
 ---
 
 **C-2296** Viewer Comment Says William Stevenson Was Indicted for First-Degree Murder of His Ex-Wife
-Claim Timestamp: 00:46:39
-Claim: A viewer comment the host reads says that William Stevenson, 77, of Wilmington, Delaware – ex-husband of Jill Biden (married 1970–1975) – was indicted for first-degree murder of his ex-wife, whose body was reportedly found unresponsive in the living room with life-saving measures unsuccessful.
+Claim Timestamp: 00:47:06
+Claim: A viewer comment the host reads says Jill Biden's ex-husband, whom it names as Bill Richardson, was indicted for first-degree murder of his ex-wife; the host, reading an article, corrects the name to William Stevenson, 77, of Wilmington, married to Jill Biden 1970 to 1975, and says the woman was found unresponsive in the living room and life-saving measures were unsuccessful.
 Anchored Artifacts: A-1736.1
 Mentions: N-541, N-546
 Investigative Direction: Verify via Delaware court records and contemporaneous news coverage.
@@ -959,9 +959,9 @@ Investigative Direction: Compare scholarly sources on any Gilgamesh and Nimrod i
 
 **C-10013** Host says US base was built at the exact tomb location
 
-Claim Timestamp: 00:09:03
+Claim Timestamp: 00:09:18
 
-Claim: The host says the US military made its base at the exact location where Fastbinder had reported finding Gilgamesh's tomb, after the March 2003 invasion.
+Claim: The host says the US military made its base at the exact location where Fassbinder had reported finding Gilgamesh's tomb, after the March 2003 invasion.
 
 Transcript Snippet: they happen to make their b their military base at that exact location
 
@@ -970,7 +970,7 @@ Mentions: N-538
 Related Nodes: N-10481, N-10480
 Supports: C-2290
 Tags: relevance:context
-Investigative Direction: Compare the coordinates of the Fastbinder survey with the coalition camp at Babylon.
+Investigative Direction: Compare the coordinates of the Fassbinder survey with the coalition camp at Babylon.
 
 ---
 
@@ -985,7 +985,7 @@ Transcript Snippet: set up our military base, Camp Alpha, right on top of ancien
 Anchored Artifacts: 
 Related Nodes: N-10481
 Supports: C-2289
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check Camp Alpha records and the 2005 British Museum report on its siting.
 
 ---
@@ -1102,7 +1102,7 @@ Investigative Direction: Check board and officer records for Superfeed and relat
 
 Claim Timestamp: 00:22:16
 
-Claim: The host says people at Turning Point USA do not know Erika's mother, though Tyler Bowyer knows her and keeps her in the background.
+Claim: The host says people at Turning Point USA do not know Erika's mother, though Tyler Bowyer knows her, and that Erika keeps her mother in the background.
 
 Transcript Snippet: Actually, if you ask people at Turning Point USA, they don't know her mother.
 
@@ -1460,7 +1460,7 @@ Transcript Snippet: I will be speaking at the Catholics for Catholics conference
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10956
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the conference program for the date.
 
 ---
@@ -1476,7 +1476,7 @@ Transcript Snippet: I was supposed to go on that tour in Australia, but I got bl
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11099
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the Australian visa decision.
 
 ---
@@ -1491,7 +1491,7 @@ Transcript Snippet: I was supposed to be on tour with Charlie before he died, bu
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Find tour announcements or correspondence about a planned joint tour.
 
 ---
@@ -1523,7 +1523,7 @@ Transcript Snippet: a producer will just kind of write in some questions like be
 Anchored Artifacts: 
 Mentions: N-97, N-3
 Related Nodes: N-10900
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Ask former Daily Wire staff about All Access practice.
 
 ---
@@ -1538,7 +1538,7 @@ Transcript Snippet: other Nazi breakfast foods besides blitzk eggs which may inc
 
 Anchored Artifacts: A-1733.1
 Mentions: N-97
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: View the All Access video segment.
 
 ---
@@ -1553,7 +1553,7 @@ Transcript Snippet: Candace also interviewed Bassim Ysef and told him she thinks
 
 Anchored Artifacts: A-1733.1
 Mentions: N-97, N-499, N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the host's interview with Youssef for the childhood remark.
 
 ---
@@ -1669,7 +1669,7 @@ Investigative Direction: Locate any Freud quote matching this.
 
 Claim Timestamp: 00:50:17
 
-Claim: The host reads a moderator's comment that Epstein and Dershowitz ('Duruit') contacted Norman Finkelstein, who called them pedophiles and threatened to hurt them, and the host praises him for it.
+Claim: The host reads a moderator's comment that Epstein and Dershowitz ('Duruit') contacted Norman Finkelstein, who called them pedophiles and threatened to hurt them, and the host says she loved having Finkelstein on the show.
 
 Transcript Snippet: Epstein and Duruit contacted Finkelestein, but he called them pedophiles and threatened to hurt them.
 
@@ -1692,11 +1692,11 @@ Investigative Direction: Ask Finkelstein or find his published account of any co
 
 ## VII. Optional Flags
 
-- **Name uncertainty:** "Jörg Fassbinder" likely transcription of "Georg Fastbinder"; "Helmut Becker" likely transcription of "Helmut Becker."
+- **Name uncertainty:** "Jörg Fassbinder" likely transcription of "Georg Fassbinder"; "Helmut Becker" likely transcription of "Helmut Becker."
 - **Name uncertainty:** "Justin Streiff" appears in the transcript; may be a phonetic capture of "Justin Stiefel" or similar.
 - **Artifact verbally referenced but not shown:** A-1727.1 (April 2022 post), A-1728.1 (NYT article – name only, no image), A-1731.2 (German geophysicists headline – host says "I'm going to show you this headline" but no image present in source), A-1735.1 (text messages described, not displayed), A-1737.1 (Kevin Sorbo tweet referenced, not displayed).
 - **Transcript ambiguity:** Several instances of "Frank Turek" – context suggests it may be "Frank Turek" but preserved as "Frank Turek" per transcript.
-- **Possible transcription error:** "Air base," "so State Arm," "Fastinder" vs. "Fastbinder" (BBC report vs. German geophysicist name); preserved as appearing in transcript.
+- **Possible transcription error:** "Air base," "so State Arm," "Fastinder" vs. "Fassbinder" (BBC report vs. German geophysicist name); preserved as appearing in transcript.
 - **Name uncertainty:** "Rob Skiba" preserved verbatim per viewer email as read; could be a pseudonym or phonetic capture.
 - **Requires human verification:** A-1736.1 – host reads a viewer comment that initially contains a wrong name ("Bill Richardson") and then corrects to "William Stevenson"; the underlying article was located on-air but not externally verified within this analysis.
 

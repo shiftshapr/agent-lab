@@ -1149,7 +1149,7 @@
       "ref": "N-374",
       "name": "David Axelrod",
       "type": "person",
-      "description": "Former top advisor to Barack Obama; named (01:04:56) in Laura Loomer's tweet alleging a secret anti-Trump summit in Rome with Candace Owens, Nick Fuentes and Aubrey Leitch. The host says she did not see him in Rome (01:07:45).",
+      "description": "Former top advisor to Barack Obama; named (01:04:56) in Laura Loomer's tweet alleging a secret anti-Trump summit in Rome with Candace Owens, Nick Fuentes and Aubrey Laitsch. The host says she did not see him in Rome (01:07:45).",
       "related_artifacts": [
         "A-2012.3"
       ],
@@ -1184,7 +1184,7 @@
       "@type": "Person",
       "@id": "N-553",
       "ref": "N-553",
-      "name": "Aubrey Lech",
+      "name": "Aubrey Laitsch",
       "type": "person",
       "description": "Former Turning Point USA employee; subject of recorded private investigator visit to her home.",
       "related_artifacts": [],
@@ -3203,8 +3203,8 @@
       "@type": "Claim",
       "@id": "C-8796",
       "ref": "C-8796",
-      "label": "Host says Aubrey Lech spoke with her after being fired but leaked nothing she presented",
-      "claim": "The host says she has had many conversations with Aubrey Lech after Lech's firing, and that nothing she presented on the show about TPUSA's inner workings was leaked by her.",
+      "label": "Host says Aubrey Laitsch spoke with her after being fired but leaked nothing she presented",
+      "claim": "The host says she has had many conversations with Aubrey Laitsch after Lech's firing, and that nothing she presented on the show about TPUSA's inner workings was leaked by her.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10552"
@@ -3213,7 +3213,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:53:58",
-      "investigative_direction": "Aubrey Lech's own account, and a comparison of the host's reporting against what Lech could have known.",
+      "investigative_direction": "Aubrey Laitsch's own account, and a comparison of the host's reporting against what Lech could have known.",
       "transcript_snippet": "I've had many conversations with her, but nothing was leaked to me about their that I presented on this show about anything that was going on internal.",
       "mentions_person_refs": [
         "N-553",
@@ -3581,7 +3581,7 @@
       "@id": "C-8812",
       "ref": "C-8812",
       "label": "Host says Aubrey posted an AI photo joke wishing her happy birthday",
-      "claim": "The host says Aubrey Lech posted an obvious AI photo joke saying \"Happy birthday, Candace\".",
+      "claim": "The host says Aubrey Laitsch posted an obvious AI photo joke saying \"Happy birthday, Candace\".",
       "anchored_artifacts": [
         "A-2012.4"
       ],
@@ -3590,7 +3590,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "01:05:54",
-      "investigative_direction": "Aubrey Lech's original post.",
+      "investigative_direction": "Aubrey Laitsch's original post.",
       "transcript_snippet": "An obvious AI photo joke from Aubrey saying, \"Happy birthday, Candace.\"",
       "mentions_person_refs": [
         "N-553",
@@ -3625,8 +3625,8 @@
       "@type": "Claim",
       "@id": "C-8814",
       "ref": "C-8814",
-      "label": "Host says she saw none of Aubrey Lech, Nick Fuentes or David Axelrod in Rome",
-      "claim": "The host says she did not see Aubrey Lech, Nick Fuentes or David Axelrod in Rome.",
+      "label": "Host says she saw none of Aubrey Laitsch, Nick Fuentes or David Axelrod in Rome",
+      "claim": "The host says she did not see Aubrey Laitsch, Nick Fuentes or David Axelrod in Rome.",
       "anchored_artifacts": [
         "A-2012.3"
       ],

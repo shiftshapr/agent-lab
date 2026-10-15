@@ -1,0 +1,778 @@
+[
+ {
+  "claim": "C-8329",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8330",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8331",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Email does not name the woman who tapped her; Sheridan is named by the host afterward. Claim names no Sheridan.",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-8332",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"he was with her the entire time from Arizona to Utah\" - \"he\" is ambiguous in the email; claim resolves it to the priest.",
+  "fix": {
+   "claim": "The donor's email says Erika Kirk told her that Charlie went to mass with her there and that Father Don would often open the church for him to pray and reflect without being disrupted, and that he was with her the entire time from Arizona to Utah in the hospital."
+  }
+ },
+ {
+  "claim": "C-8333",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8334",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8335",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8336",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"That person runs [garbled]... blah blah blah\"; claim adds \"what they were worth\".",
+  "fix": {
+   "claim": "The host says Sheridan would whisper in Charlie Kirk's ear about a person, after which Charlie would go have the conversation, and that this was the whole reason TPUSA brought her on."
+  }
+ },
+ {
+  "claim": "C-8337",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8338",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8339",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8340",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Erika is not named in the claim (only in the surrounding sentence).",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-8341",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8342",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8343",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8344",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8345",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"We've been told the story a couple of times now\"; claim says \"several times\".",
+  "fix": {
+   "claim": "The host says she has been told a couple of times that the White House got involved and secured the stadium, and that people asked how that was possible so quickly given the usual policies for booking such venues."
+  }
+ },
+ {
+  "claim": "C-8346",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8347",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8348",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8349",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8350",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Erika not named in claim; host is the subject of \"she herself\". Host says \"I got this relic... I feel like it was the first weeks of October\" and \"that also is the relic\" the donor had.",
+  "fix": {
+   "claim": "The host says the donor arranged to get a relic from St. Michael, and that she herself got that same relic from a priest in Wyoming, in what she thinks was the first weeks of October.",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-8351",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8352",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8353",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"They're now editing their message because they're in a room with Jews\" - \"they\" (the TPUSA team), not Turek alone.",
+  "fix": {
+   "claim": "The host says that, according to the donor, Dr. Frank Turek was on stage at the Mar-a-Lago TPUSA event hitting at the 'Judeo', and that the host says they were editing their message because they were in a room with Jews."
+  }
+ },
+ {
+  "claim": "C-8354",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8355",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8356",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8357",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8358",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8359",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8360",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Addressee Turek inferred from earlier context outside window; plausible (Turek called allegations demonic).",
+  "fix": {}
+ },
+ {
+  "claim": "C-8361",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8362",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8363",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8364",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8365",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8366",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8367",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Garbled: \"he's the one organizing the Paramount Tactical and Andrew and also the Alex Jones\"; \"against her\" is not said.",
+  "fix": {
+   "claim": "The host says she realized Kolvet was the one organizing the Paramount Tactical and also the Alex Jones."
+  }
+ },
+ {
+  "claim": "C-8368",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8369",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Commenter says \"Most likely only because of the leaked call\"; claim drops the hedge.",
+  "fix": {
+   "claim": "A viewer comment read by the host says she received her TPUSA hat today, most likely only because of the leaked call and the attention brought to the contract wording about hats versus a plastic bracelet."
+  }
+ },
+ {
+  "claim": "C-8370",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8371",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8372",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8373",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8374",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8375",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host says \"probably was part of the beginning of the end\"; claim drops \"probably\". Rabbi is Barclay (transcribed Barklay).",
+  "fix": {
+   "claim": "The host says that watching the Rabbi Barclay interview probably was part of the beginning of the end of her support for Zionism and that she now believes it is an objectively racist philosophy.",
+   "names": [
+    {
+     "wrong": "Barklay",
+     "right": "Barclay",
+     "source": "https://gregjinkerson.substack.com/p/coincidence-candace-owens-fired-from"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2253",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2254",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2255",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2256",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names no Epstein; quotes \"no respect for non-Jews\" not verbatim (\"not having any respect for non-Jews\"); \"He pressures her\" is part of accusation.",
+  "fix": {
+   "claim": "Per the compilation, Joshua Finkelstein (described as BlackRock's Larry Finkelstein's son) is accused by his ex-girlfriend Svetlana of not having any respect for non-Jews and seeing them as not human, and the compilation says he pressures her to have an abortion.",
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-2257",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Farmer: \"when I called Ghislaine and asked why I couldn't eat there, she said, 'It's a Jewish country club'\" - the venue is a country club, not Epstein's residence.",
+  "fix": {
+   "claim": "Per Maria Farmer's on-camera statement in the compilation, when she called Ghislaine Maxwell to ask why she couldn't eat there after being refused food, Maxwell told her \"It's a Jewish country club. You're not Jewish. They're not going to serve you.\"",
+   "label": "Maxwell Told Farmer a Place Was \"A Jewish Country Club\"",
+   "mentions": [
+    "N-47",
+    "N-530"
+   ]
+  }
+ },
+ {
+  "claim": "C-2258",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"Epstein who works on behalf of the Rothschilds, according to him, wrote that in an email... He's saying those are my bosses\" - host paraphrase, not a read quote.",
+  "fix": {
+   "claim": "The host says that, according to him, Jeffrey Epstein wrote in an email that he works on behalf of the Rothschilds, and that he is saying \"those are my bosses, the Rothschilds.\""
+  }
+ },
+ {
+  "claim": "C-2259",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2260",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2261",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2262",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip: \"vast majority of those contacts are already out there\" and \"no evidence according to the DOJ and the FBI\"; claim drops both qualifiers.",
+  "fix": {
+   "claim": "In a clip the host plays, Ben Shapiro, citing his federal government sources, asserts there is no Epstein list; the vast majority of the black book contacts are already public, and, according to the DOJ and FBI, there is no evidence that third-party contacts had girls trafficked to them."
+  }
+ },
+ {
+  "claim": "C-2263",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2264",
+  "episode": 67,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Shapiro in the clip says \"I followed up with the former Prime Minister Naftali Bennett, and what he told me is the Mossad has not been active...\"; not the host's interview.",
+  "fix": {
+   "claim": "In a clip the host plays, Ben Shapiro says former Israeli PM Naftali Bennett told him that the Mossad has not been active in the United States since the Jonathan Pollard scandal of 1987.",
+   "mentions": [
+    "N-97",
+    "N-526",
+    "N-276"
+   ]
+  }
+ },
+ {
+  "claim": "C-2265",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

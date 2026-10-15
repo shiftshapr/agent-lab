@@ -1,0 +1,797 @@
+[
+ {
+  "claim": "C-8501",
+  "episode": 73,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Carrie Prejean Bowler and 'hearing' are not stated in the window ('she', 'we got booed'); identification rests on context. Host does agree and say she was fired.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8502",
+  "episode": 73,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8503",
+  "episode": 73,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8504",
+  "episode": 73,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2378",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2379",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'It was about payment for rent... She opens the door. She's presumably living with or visiting her boyfriend'; Jillian does not recall how numbers were exchanged. Not Harrelson's residence. Erika (N-2) named, not in Mentions.",
+  "fix": {
+   "label": "Erika and Jillian First Connected Through a Rent-Payment Encounter",
+   "claim": "The host says, relaying what Jillian Falcon told her, that Jillian met Erika Kirk through a payment for rent, when Jillian opened the door and saw Erika, and that the two somehow exchanged numbers during that rent arrangement, though Jillian does not recall how.",
+   "mentions": [
+    "N-567",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2380",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Transcript: Erika says 'Sex.' then a separate quote 'Sex, too, but not from you. lol.' whose speaker is unclear (likely Jillian). Nicey named but N-566 missing from Mentions.",
+  "fix": {
+   "claim": "In a video by YouTuber Nicey that the host plays, Nicey presents text messages Jillian Falcon posted, in which Erika Kirk on or about 2014-03-06 wrote \"Let me call you. Hold on, sweetheart. Give me a sex.\" and \"You always make me laugh. I don't bat for the other team just yet.\"",
+   "mentions": [
+    "N-566",
+    "N-567",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2381",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Erika Kirk and Nicey; Mentions lacks N-2 and N-566.",
+  "fix": {
+   "mentions": [
+    "N-566",
+    "N-567",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2382",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Erika; Mentions lacks N-2. Transcript supports: 'that exchange is actually in reference to Erika then having sent this 15-year-old to have photos taken.'",
+  "fix": {
+   "mentions": [
+    "N-567",
+    "N-570",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2383",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Transcript: Jillian tweeted 'Thank you, @EricaFrandsen' and 'shares this photo' of a gnome; it never says Erika sent it. Clip is Nicey's; claim says only 'Episode presents'. Erika and Nicey not in Mentions.",
+  "fix": {
+   "label": "Nicey Clip Shows Jillian Sharing Gnome Image After Thanking Erika",
+   "claim": "In a video by YouTuber Nicey that the host plays, Nicey says Jillian Falcon tweeted on or about 2014-03-26 \"Thank you, @EricaFrandsen, for making my whole week\" and shared a photo of a gnome reading \"I want to be inside your lady garden. Know what I'm saying?\"",
+   "mentions": [
+    "N-566",
+    "N-567",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2384",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'handwritten' not stated: 'the card in the photo says this'. Nicey named; N-566 missing.",
+  "fix": {
+   "claim": "In a video by YouTuber Nicey that the host plays, Nicey says that on or about 2014-04-05 Erika Kirk sent Jillian Falcon a red box of chocolate-covered strawberries and other desserts accompanied by a card reading \"Happy sweet 16, beautiful girl\u2026 Love you, E.\"",
+   "mentions": [
+    "N-566",
+    "N-567",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2385",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Erika Kirk and Nicey; Mentions only N-567.",
+  "fix": {
+   "mentions": [
+    "N-566",
+    "N-567",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2386",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2387",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2388",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2389",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2390",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2391",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2392",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names no Andrew Kolvet; N-14 is wrong (he is mentioned later, not in this claim). Erika is named. Host reads Newsweek statement at 34:00.",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2393",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2394",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2395",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'House Oversight' is not said in the transcript. Claim names Trump (N-5), not Moskowitz (N-569), who appears only before the clip.",
+  "fix": {
+   "claim": "Episode presents that Attorney General Pam Bondi, in a hearing clip, asserted that the Trump administration released over 3 million pages of Epstein documents and that President Trump signed the law releasing them, characterizing him as \"the most transparent president in the nation's history.\"",
+   "mentions": [
+    "N-85",
+    "N-5"
+   ]
+  }
+ },
+ {
+  "claim": "C-3663",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'one of our mommy sleuths did find Mikey McCoy' on Nov 8; nothing about praising them as parent investigators emailing tips.",
+  "fix": {
+   "claim": "The host says that one of her 'mommy sleuths' found Mikey McCoy in a November 8 Real America's Voice interview in which no wedding photo is visible in the corner.",
+   "mentions": [
+    "N-3",
+    "N-192"
+   ]
+  }
+ },
+ {
+  "claim": "C-10138",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10139",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Label says 'by phone'; transcript says only 'I reached out to her immediately' and later 'I called her' (12:02).",
+  "fix": {
+   "label": "Host Says She Contacted Jillian Despite Coleman's Instruction Not To"
+  }
+ },
+ {
+  "claim": "C-10140",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10141",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10142",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10143",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10144",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10145",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10146",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10147",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10148",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10149",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10150",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'Almost like territorial like it or it that's obviously all just a joke or something'; hedge dropped.",
+  "fix": {
+   "claim": "The host characterizes the '#nonewfriends' message as something Erika sent after Jillian posted a photo with a person her own age, and says it was 'almost like territorial', though 'obviously all just a joke or something like that'."
+  }
+ },
+ {
+  "claim": "C-10151",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Jillian's father absence is a private individual's personal life; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-10152",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10153",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10154",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10155",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10156",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10157",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10158",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10159",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10160",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Jillian: 'No, she never spoke to my mother.' Then the host: 'This was happening on the phone.' That is the host's gloss.",
+  "fix": {
+   "claim": "The host says that when she asked whether Erika spoke to her mother, Jillian answered that Erika never spoke to her mother, and the host adds that this was happening on the phone."
+  }
+ },
+ {
+  "claim": "C-10161",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10162",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10163",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'proud fifth generation, I think he says, Arizonan'; hedge dropped.",
+  "fix": {
+   "claim": "The host says she was around when the location was chosen and that it was Tyler Bowyer who handpicked it, a proud fifth-generation, 'I think he says,' Arizonan from the Chandler and Gilbert area."
+  }
+ },
+ {
+  "claim": "C-10164",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10165",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10166",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10167",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10168",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10169",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10170",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10171",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10172",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host poses rhetorical questions ('Why was Erika being so weird about providing a sensible alibi...? Why did nobody see her...?'); claim states them as assertions.",
+  "fix": {
+   "claim": "The host asks why Erika was being so weird about providing a sensible alibi for her whereabouts on September 8, and why nobody saw her when somebody else believes they did see her at Fort Huachuca."
+  }
+ },
+ {
+  "claim": "C-10173",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10174",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

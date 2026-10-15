@@ -778,7 +778,7 @@ Investigative Direction: Locate the email within the public Epstein files (jmail
 
 Claim Timestamp: 00:01:55
 
-Claim: An Epstein email to "Sultan" asks who "James Miller" is, asserts that Miller is someone "Sultan" built, and references shipping address as Jeffrey's home at 9E71st Street.
+Claim: An Epstein email the host shows, addressed 'Hi, Sultan', asks who 'James Miller' is and says 'He is who you have built to'; the host also asks whether the shipping address is Jeffrey's home at 9E71st Street.
 
 Anchored Artifacts: A-1738.2
 Mentions: N-9
@@ -820,9 +820,9 @@ Investigative Direction: Verify Epic of Gilgamesh text on divine/mortal proporti
 
 **C-2302** Tom Horn asserts a special operations general confirmed Gilgamesh remains in "remarkable preservation"
 
-Claim Timestamp: 00:15:37
+Claim Timestamp: 00:15:25
 
-Claim: Tom Horn states on Omega Man Radio that a "special operations general" validated that Gilgamesh's remains were in a state of "remarkable preservation" and that the military took possession of the dig site.
+Claim: In an Omega Man Radio clip the host plays, Steve Quayle says a special operations general told him Gilgamesh was in 'a state of remarkable preservation' and that they have Gilgamesh's remains; Tom Horn says that, according to some people, the military took possession and control of the dig.
 
 Anchored Artifacts: A-1740.1
 Mentions: N-548, N-549
@@ -877,11 +877,11 @@ Investigative Direction: Identify the original editorial publication to confirm 
 
 ---
 
-**C-2306** Host asserts Epstein files contain text chains referencing Emmanuel Macron's "boyfriend" and that she was shown a photo
+**C-2306** Host Reads Epstein Text Chain About Macron's Boyfriend
 
 Claim Timestamp: 00:31:49
 
-Claim: The host states she has reviewed text chains discussing "Macron's boyfriend," that she was shown a photo of the boyfriend, and that other emails reference Macron's sexuality.
+Claim: The host reads a text chain from the Epstein files, which she says is Epstein's, discussing Emmanuel Macron's 'boyfriend' and saying 'along with some other tidbits, I was shown a photo of Macron's boyfriend', and says more emails reference Macron being gay.
 
 Anchored Artifacts: A-1742.1
 Mentions: N-9, N-379
@@ -898,7 +898,7 @@ Claim Timestamp: 00:36:50
 Claim: A viewer comment (Frey FA) juxtaposes the 9/11 passport-in-mint-condition story with the steel-neck-stopping-bullets reference in the Charlie Kirk assassination coverage.
 
 Anchored Artifacts: A-1743.1
-Mentions: N-1, N-2
+Mentions: N-1
 
 
 Investigative Direction: Trace the historical origins of the "passport in mint condition" claim and its media treatment; assess the rhetorical parallel independently.
@@ -926,7 +926,7 @@ Claim Timestamp: 00:38:55
 Claim: A viewer comment (Tatiana) posits that the current generation will live eternally in flesh and that this is the underlying purpose of an "end human fight." Host flags a possible typo.
 
 Anchored Artifacts: A-1743.3
-Mentions: N-50
+Mentions: 
 
 
 Investigative Direction: Ascertain Tatiana's intended phrase; assess consistency with host's prior transhumanism / Nimrod-resurrection framing.
@@ -951,10 +951,10 @@ Investigative Direction: Identify the production-staff role, if any, of "Benjami
 
 Claim Timestamp: 00:39:30
 
-Claim: A viewer comment (AZ Masterbaker) asserts that COVID tests were conducted for DNA collection rather than diagnostic accuracy, and that the collection aimed to identify descendants of Nimrod. Host concurs.
+Claim: A viewer comment (AZ Masterbaker) says it fully believes the COVID tests were just to collect DNA, so their accuracy did not matter, and that maybe the DNA collection is to find Nimrod's descendants. The host agrees it is interesting.
 
 Anchored Artifacts: A-1743.5
-Mentions: N-543
+Mentions: 
 
 Related Nodes: N-10491
 
@@ -969,7 +969,7 @@ Claim Timestamp: 00:39:50
 Claim: A viewer comment (Bobby) states that Satan "has never nor can he ever create anything" and only counterfeits, explaining hostility toward God. Host expands the claim into a general theory of elite imitation.
 
 Anchored Artifacts: A-1743.6
-Mentions: N-50
+Mentions: 
 
 
 Investigative Direction: This is theological commentary; no factual verification pathway beyond documenting the host-viewer framing alignment.
@@ -1010,14 +1010,14 @@ Investigative Direction: Identify the host's tip sources and any record (calenda
 
 Claim Timestamp: 00:00:01
 
-Claim: The host says Emmanuel Macron is gay and is married to a man, and that the mainstream media, prompted by the released Epstein emails, are now willing to accept that she was telling the truth.
+Claim: The host says Emmanuel Macron is gay and is married to a man, and that the mainstream media, prompted by the released Epstein emails, are now willing to accept that maybe she was telling the truth.
 
 Transcript Snippet: They're willing to accept that maybe I was telling the truth. He's also married to a dude because he's gay.
 
 Anchored Artifacts: 
 Mentions: N-379, N-3, N-9
 Supports: C-9640
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check which mainstream outlets have reported on Macron in the Epstein emails and what the emails actually say; the claim about his marriage restates the host's long-running Brigitte Macron allegation, which is contested in court.
 
 ---
@@ -1034,7 +1034,7 @@ Anchored Artifacts:
 Mentions: N-9, N-3
 Related Nodes: N-11341
 Supports: C-2298
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Search the public Epstein files for all 23andMe references and list senders, recipients and dates.
 
 ---
@@ -1202,7 +1202,7 @@ Claim: In the played clip, Rob Skiba says that drawing a line from the Hermon ma
 Transcript Snippet: And that is in the occult is referred to as the devil's line.
 
 Anchored Artifacts: A-1739.1
-Mentions: N-543, N-550
+Mentions: N-543
 Related Nodes: N-10489
 Tags: relevance:tangential
 Investigative Direction: Reproduce the Google Earth measurement and find an independent source for the term 'devil's line'.
@@ -1416,7 +1416,7 @@ Investigative Direction: Contradicted by public trial and surveillance data; not
 
 Claim Timestamp: 00:14:00
 
-Claim: The host says 23andMe was a mass campaign to collect everyone's DNA under the pretext of helping with ancestry, from a religious or demonic angle presented as science.
+Claim: The host, asking about 23andMe, wonders whether it was a mass campaign to collect everyone's DNA under the pretext of helping with ancestry, if one follows the idea that the elites act from a religious or demonic angle presented as science.
 
 Transcript Snippet: What was this mass campaign to effectively collect everybody on Earth's DNA by saying,
 
@@ -1432,7 +1432,7 @@ Investigative Direction: No evidence is presented; the host's inference.
 
 Claim Timestamp: 00:14:29
 
-Claim: In the played Omega Man Radio clip, a speaker proposes that the Nephilim and the gods and children of the watchers could be reconstituted inside a body, and identifies Nimrod with Gilgamesh, Apollo and Osiris.
+Claim: In the played Omega Man Radio clip, Tom Horn proposes that the Nephilim and the gods and children of the watchers could be reconstituted inside a body, and says some scholars also identify Nimrod as Gilgamesh, Apollo and Osiris.
 
 Transcript Snippet: Imagine the startling proposition that the Nephilim, the giants, the mighty men of old, the gods and children of the watchers could somehow rise up
 
@@ -1460,32 +1460,32 @@ Investigative Direction: The transcript does not give a date for the alleged fin
 
 ---
 
-**C-12617** Host Says the US Set Up 500 Military Bases and the Largest Embassy in Babylon
+**C-12617** Rob Skiba Says the US Set Up 500 Military Bases and the Largest Embassy in Babylon
 
-Claim Timestamp: 00:16:00
+Claim Timestamp: 00:16:29
 
-Claim: The host says the US established 500 military bases and the largest embassy of any embassy on the planet in Babylon after Iraq.
+Claim: In a clip the host plays, Rob Skiba says the US established 500 military bases and the largest embassy of any embassy on the planet in Babylon after Iraq.
 
 Transcript Snippet: established 500 military bases in the largest embassy of any other embassy on the entire planet in Babylon.
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-543
 Related Nodes: N-10481
 Tags: relevance:tangential
 Investigative Direction: Check the Department of Defense base count in Iraq and the location of the US embassy in Baghdad.
 
 ---
 
-**C-12618** Host Suspects the Real Weapon of Mass Destruction Found in Iraq Was Gilgamesh
+**C-12618** Rob Skiba Suspects the US Found the Weapon of Mass Destruction in Iraq
 
 Claim Timestamp: 00:16:20
 
-Claim: The host says she has a feeling that what the US found in Iraq was the weapon of mass destruction, meaning Gilgamesh.
+Claim: In a clip the host plays, Rob Skiba says he has a feeling that what the US found in Iraq was the weapon of mass destruction, after recounting the find of Gilgamesh's body.
 
 Transcript Snippet: I have a feeling we found the weapon of mass destruction.
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-543
 Related Nodes: N-10480
 Tags: relevance:tangential
 Investigative Direction: Speculation; no document is cited.
@@ -1614,7 +1614,7 @@ Claim: Rebutting Erika Kirk's account, the host says 'The reality I have his pho
 Transcript Snippet: The reality I have his phone.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1
+Mentions: N-3, N-1, N-2
 Related Nodes: N-10340
 Tags: relevance:core
 Investigative Direction: Ask the host to clarify what she means (possession of the phone, or records from it) before relying on it.
@@ -1663,14 +1663,14 @@ Claim: The host says the account given is that Charlie just wanted tips on how t
 Transcript Snippet: And they're telling us he just wanted tips on how to debate and and then of of course uh he got tips on how to debate and was super happy but then said they're going to kill me.
 
 Anchored Artifacts: 
-Mentions: N-1, N-55
+Mentions: N-1
 Related Nodes: N-10340
 Tags: relevance:core
 Investigative Direction: Identify who gave this account and in which statement.
 
 ---
 
-**C-12630** Host Says TPUSA Blamed a Third-Party App Set for Deletion
+**C-12630** Host Says the Explanation Given Was a Third-Party App Set for Deletion
 
 Claim Timestamp: 00:23:52
 
@@ -1679,7 +1679,7 @@ Claim: The host says the explanation offered was that Dan Flood and Andrew Kolve
 Transcript Snippet: the reason for that is because Dan Flood and Andrew Kolvet messaged him on a third party app and that's why I didn't know that was set for deletion.
 
 Anchored Artifacts: 
-Mentions: N-272, N-14, N-2
+Mentions: N-272, N-14, N-2, N-1
 Related Nodes: N-10470
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA's statement naming the app.
@@ -1695,7 +1695,7 @@ Claim: The host says Dan Flood actually messaged Charlie on iMessage, as she rep
 Transcript Snippet: Dan Flood actually messaged him on iMessage.
 
 Anchored Artifacts: 
-Mentions: N-272, N-3
+Mentions: N-272, N-3, N-1
 Related Nodes: N-10470
 Supports: C-2273
 Tags: relevance:core
@@ -1838,7 +1838,7 @@ Investigative Direction: Find the Megyn Kelly interview and the exact wording.
 
 Claim Timestamp: 00:25:40
 
-Claim: The host says Erika, on her tour, told the public Charlie had finished the book in July and that he wrote the last chapter himself.
+Claim: The host says Erika, on her tour, kind of illuminated to the public that Charlie had finished the book in July.
 
 Transcript Snippet: Erika then when she went on her tour kind of illuminated to the public how he had finished the book in July.
 
@@ -1993,14 +1993,14 @@ Investigative Direction: Verify the nonprofit's founding date.
 
 **C-12650** Host Says Tracy Martin Knows Erika's Mother and Has Been in Her Life Since Her Pageant Days
 
-Claim Timestamp: 00:29:10
+Claim Timestamp: 00:29:45
 
 Claim: The host says Tracy Martin has known Erika's family and knows her mother, that a picture of them exists, and that she has been in Erika's life since her pageant days.
 
 Transcript Snippet: she knows Erika's mother for sure uh there's a picture of them at least uh Definitely someone that's been in her life since Erika's pageant pageant days.
 
 Anchored Artifacts: 
-Mentions: N-547, N-2
+Mentions: N-547, N-2, N-491
 Tags: relevance:core
 Investigative Direction: Locate the photograph and pageant-era records.
 
@@ -2110,7 +2110,7 @@ Claim: The host says Turning Point made a radical shift from discussing free mar
 Transcript Snippet: the radical shift almost that Turning Point made from discussing free markets and capitalism to being all about faith and the pastors
 
 Anchored Artifacts: 
-Mentions: N-1
+Mentions: 
 Related Nodes: N-10000, N-10398
 Tags: relevance:context
 Investigative Direction: Compare TPUSA content and messaging before and after 2020.
@@ -2159,7 +2159,7 @@ Transcript Snippet: I know his trigger. His trigger is MK Ultra. Um, and his tri
 Anchored Artifacts: 
 Mentions: N-379
 Supports: C-10837
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the court filings referred to in episode 32.
 
 ---
@@ -2185,7 +2185,7 @@ Investigative Direction: Obtain ADS-B data for the Egyptian planes on September 
 
 Claim Timestamp: 00:35:25
 
-Claim: The host says someone on the grounded plane was communicating and that getting on a foreign plane to communicate would avoid tracking.
+Claim: The host says it would be a pretty obvious thing for someone on the grounded plane to communicate, and that to avoid tracking you would get on a foreign plane and communicate that way.
 
 Transcript Snippet: if you don't want your communications to be tracked, you'd get on a foreign plane and communicate that way.
 

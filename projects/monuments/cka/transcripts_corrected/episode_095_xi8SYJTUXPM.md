@@ -208,7 +208,7 @@ This is I have nothing to lose now, so it's liberating, she says. I became addic
 
 [39:28]
 
-Okay? This is a real clip of of of Laura Loomer when she did Alex Jones a few years ago. Take a listen. But what are they doing? I WANT TO KNOW WHAT PEOPLE ARE ACTUALLY GOING TO DO. MY LIFE IS RUINED. DOES ANYBODY UNDERSTAND HOW RUINED my life is? I'm sick of it. I don't want TO LISTEN TO PEOPLE TELL ME THAT I'M A CONSPIRACY THEORIST. They don't know what it's like to be me. MY LIFE IS RUINED, ALEX. SO, FORGET LAURA LOOMER. The question you should be asking yourself is is Donald Trump mentally fit to be president? If he makes a conscious decision to tweet out that Tucker Carlson and Meghan Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer.
+Okay? This is a real clip of of of Laura Loomer when she did Alex Jones a few years ago. Take a listen. But what are they doing? I WANT TO KNOW WHAT PEOPLE ARE ACTUALLY GOING TO DO. MY LIFE IS RUINED. DOES ANYBODY UNDERSTAND HOW RUINED my life is? I'm sick of it. I don't want TO LISTEN TO PEOPLE TELL ME THAT I'M A CONSPIRACY THEORIST. They don't know what it's like to be me. MY LIFE IS RUINED, ALEX. SO, FORGET LAURA LOOMER. The question you should be asking yourself is is Donald Trump mentally fit to be president? If he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer.
 
 [40:23]
 

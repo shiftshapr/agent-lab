@@ -2504,33 +2504,29 @@
       "@id": "C-2256",
       "ref": "C-2256",
       "label": "Joshua Finkelstein Accused of Treating Non-Jews as Not Human",
-      "claim": "Per the compilation, Joshua Finkelstein (described as BlackRock's Larry Finkelstein's son) is accused by his ex-girlfriend Svetlana of having \"no respect for non-Jews\" and of seeing them as not human; he also pressured her to have an abortion.",
+      "claim": "Per the compilation, Joshua Finkelstein (described as BlackRock's Larry Finkelstein's son) is accused by his ex-girlfriend Svetlana of not having any respect for non-Jews and seeing them as not human, and the compilation says he pressures her to have an abortion.",
       "anchored_artifacts": [
         "A-1715.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:37",
-      "investigative_direction": "Obtain the underlying email and any corroborating testimony from Svetlana.",
-      "mentions_person_refs": [
-        "N-9"
-      ]
+      "investigative_direction": "Obtain the underlying email and any corroborating testimony from Svetlana."
     },
     {
       "@type": "Claim",
       "@id": "C-2257",
       "ref": "C-2257",
-      "label": "Ghislaine Maxwell Called Epstein Residence \"A Jewish Country Club\"",
-      "claim": "Per Maria Farmer's on-camera statement in the compilation, when Maria Farmer called Ghislaine Maxwell to ask why she could not eat at Epstein's residence, Maxwell told her \"It's a Jewish country club. You're not Jewish. They're not going to serve you.\"",
+      "label": "Maxwell Told Farmer a Place Was \"A Jewish Country Club\"",
+      "claim": "Per Maria Farmer's on-camera statement in the compilation, when she called Ghislaine Maxwell to ask why she couldn't eat there after being refused food, Maxwell told her \"It's a Jewish country club. You're not Jewish. They're not going to serve you.\"",
       "anchored_artifacts": [
         "A-1715.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:12:20",
+      "claim_timestamp": "00:11:54",
       "investigative_direction": "Cross-check against Maria Farmer's prior sworn testimony and DOJ documents.",
       "mentions_person_refs": [
-        "N-9",
         "N-47",
         "N-530"
       ]
@@ -2540,7 +2536,7 @@
       "@id": "C-2258",
       "ref": "C-2258",
       "label": "Epstein Emailed That He Works for the Rothschilds",
-      "claim": "Per host reading, an Epstein email stated \"those are my bosses, the Rothschilds.\"",
+      "claim": "The host says that, according to him, Jeffrey Epstein wrote in an email that he works on behalf of the Rothschilds, and that he is saying \"those are my bosses, the Rothschilds.\"",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2611,7 +2607,7 @@
       "@id": "C-2262",
       "ref": "C-2262",
       "label": "Ben Shapiro Asserts No \"Epstein List\" Exists",
-      "claim": "In a clip the host plays, Ben Shapiro, citing his federal government sources, asserts there is no Epstein list; the black book contacts are already public, and no evidence exists that third-party contacts trafficked girls.",
+      "claim": "In a clip the host plays, Ben Shapiro, citing his federal government sources, asserts there is no Epstein list; the vast majority of the black book contacts are already public, and, according to the DOJ and FBI, there is no evidence that third-party contacts had girls trafficked to them.",
       "anchored_artifacts": [
         "A-1717.1"
       ],
@@ -2648,15 +2644,16 @@
       "@id": "C-2264",
       "ref": "C-2264",
       "label": "Naftali Bennett Cites Pollard 1987 as Last Mossad US Operation",
-      "claim": "Per host-read Bennett statement (following her own interview with Bennett), Mossad has not been active in the United States since the Jonathan Pollard scandal of 1987.",
+      "claim": "In a clip the host plays, Ben Shapiro says former Israeli PM Naftali Bennett told him that the Mossad has not been active in the United States since the Jonathan Pollard scandal of 1987.",
       "anchored_artifacts": [
         "A-1718.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:20:38",
+      "claim_timestamp": "00:20:07",
       "investigative_direction": "Verify Bennett's claim against declassified or publicly known Mossad operations post-1987.",
       "mentions_person_refs": [
+        "N-97",
         "N-526",
         "N-276"
       ]
@@ -2755,7 +2752,6 @@
       "investigative_direction": "Identify the other Zoom participants; cross-check against calendar records; obtain the \"rabbi in Israel\" identity.",
       "mentions_person_refs": [
         "N-55",
-        "N-98",
         "N-1"
       ]
     },
@@ -2793,12 +2789,11 @@
         "N-10473"
       ],
       "tags": [],
-      "claim_timestamp": "00:47:50",
+      "claim_timestamp": "00:47:26",
       "investigative_direction": "Verify against Charlie Kirk's text message timestamp; cross-reference with Erica Kirk's location claims.",
       "mentions_person_refs": [
         "N-7",
-        "N-1",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -2806,7 +2801,7 @@
       "@id": "C-2272",
       "ref": "C-2272",
       "label": "WikiLeaks Email From Katherine Tate to Podesta References Pizza-Related Handkerchief",
-      "claim": "An email released via WikiLeaks from Katherine Tate to John Podesta references \"a handkerchief\" that \"seems pizza-related\" and \"weird specific orders of pizza and hot dogs.\"",
+      "claim": "The host reads an email she says was sent to John Podesta by Katherine Tate, published by WikiLeaks, saying a realtor found a handkerchief, \"I think it has a map that seems pizza-related\", and mentioning \"weird specific orders of pizza and hot dogs.\"",
       "anchored_artifacts": [
         "A-1723.1"
       ],
@@ -2816,8 +2811,7 @@
       "investigative_direction": "Verify the email against the WikiLeaks Podesta archive; identify context and any related communications.",
       "mentions_person_refs": [
         "N-532",
-        "N-533",
-        "N-534"
+        "N-533"
       ]
     },
     {
@@ -2836,7 +2830,6 @@
       "claim_timestamp": "00:44:45",
       "investigative_direction": "Obtain device forensic records for Dan Flood's phone; obtain any receipts or carrier records; cross-check against Telegram server logs (Telegram messages are not auto-cleared by default).",
       "mentions_person_refs": [
-        "N-14",
         "N-272",
         "N-2",
         "N-3"
@@ -2847,7 +2840,7 @@
       "@id": "C-2274",
       "ref": "C-2274",
       "label": "Source States Andrew Kolvet and Dan Flood Were Recipients of the \"Kill Me\" Text",
-      "claim": "Per Candace Owens's source, the Sept 9 \"they're going to kill me\" text was sent to Andrew Kolvet and Dan Flood as an iMessage exchange.",
+      "claim": "Per Candace Owens's source, the \"they're going to kill me\" text Charlie Kirk sent on Sept 9 to Dan Flood was an iMessage; the host says it went to Andrew Kolvet and Dan Flood.",
       "anchored_artifacts": [
         "A-1726.1"
       ],
@@ -2908,7 +2901,7 @@
       "@id": "C-2277",
       "ref": "C-2277",
       "label": "YouTube Comment Cites $65,000 White House Hot Dog Party From WikiLeaks",
-      "claim": "A YouTube comment from \"I R O\" references a $65,000 hot dog party at the White House found in WikiLeaks files, and a Hillary Clinton email to Obama advising caution around Julian Assange.",
+      "claim": "A YouTube comment from \"I R O\" that the host reads says the $65,000 hot dog party Obama had at the White House was in the WikiLeaks files, and that Hillary Clinton alerted him he should be more careful and should have a chat with Julian Assange.",
       "anchored_artifacts": [
         "A-1725.2"
       ],
@@ -2977,7 +2970,7 @@
       "@id": "C-2281",
       "ref": "C-2281",
       "label": "Jezebel Article on Witch's Curse Against Charlie Kirk Referenced But Not Displayed",
-      "claim": "Per host reference, a Jezebel article regarding a witch's curse / Etsy spell against Charlie Kirk is cited as the context for Charlie's reported priest dinner the evening of September 9.",
+      "claim": "The host says Erika told her Charlie had dinner with the family and a priest to pray over him on the evening of September 9, and that she was told this was related to a Jezebel article about an Etsy spell / witch's curse against him; the host says she does not believe that at all. The article is not displayed.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10473"
@@ -2986,7 +2979,8 @@
       "claim_timestamp": "00:42:15",
       "investigative_direction": "Locate the Jezebel article; verify date and content.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-2"
       ]
     },
     {
@@ -2994,7 +2988,7 @@
       "@id": "C-2282",
       "ref": "C-2282",
       "label": "Comment Cites Charleston, SC as \"Little Jerusalem\" With First Jewish Lodge and \"Checkmate\" Slave Market",
-      "claim": "A YouTube comment from \"We woke now\" asserts that Charleston, South Carolina – known as \"Little Jerusalem\" – is home to the very first Jewish lodge, and that the slave market there is called \"Checkmate\" forming a \"literal chessboard.\"",
+      "claim": "A YouTube comment from \"We woke now\" that the host reads says Charleston, South Carolina, known as \"Little Jerusalem\", is home of the very first Jewish lodge, that the entire city is \"a literal chessboard\", and that \"Checkmate is the slave market.\"",
       "anchored_artifacts": [
         "A-1725.6"
       ],
@@ -3011,7 +3005,7 @@
       "@id": "C-3661",
       "ref": "C-3661",
       "label": "Host notes featured independent journalist James Lee wearing a CIA t-shirt",
-      "claim": "After playing independent journalist James Lee's clip on the poorly redacted Epstein email, the host says \"I love that he's wearing a CIA t-shirt. James, great work,\" noting the featured journalist wearing a CIA shirt rather than plugging merch herself.",
+      "claim": "After playing independent journalist James Lee's clip on the poorly redacted Epstein email, the host says \"I love that he's wearing a CIA t-shirt. James, great work.\"",
       "anchored_artifacts": [
         "A-2489.1"
       ],
@@ -3055,13 +3049,12 @@
       "tags": [
         "relevance:tangential"
       ],
-      "claim_timestamp": "00:03:44",
+      "claim_timestamp": "00:04:02",
       "investigative_direction": "Check Robert Fliess's published psychoanalytic writings and biographies of Wilhelm Fliess for any statement that his father abused him.",
       "transcript_snippet": "Wilhelm Fliess also um molested his own son, Robert Fliess. Robert Fliess spoke about that when he got older.",
       "mentions_person_refs": [
         "N-3",
-        "N-521",
-        "N-50"
+        "N-521"
       ]
     },
     {
@@ -3116,7 +3109,7 @@
       "@id": "C-14242",
       "ref": "C-14242",
       "label": "Host says the Khazars adopted Judaism in the 8th century",
-      "claim": "The host says the Khazars were a nomadic Turkic tribe who adopted Judaism in the 8th century, and that the people she opposes have worn the cloak of Judaism since the fall of the Khazarian empire.",
+      "claim": "The host says the people she is fighting are \"effectively\" pagan \"who have been wearing the cloak of Judaism, I would say, since the fall of the missing Khazarian Empire\", and that the Khazars were a nomadic Turkic tribe who adopted Judaism in the 8th century.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3165,13 +3158,12 @@
       "tags": [
         "relevance:tangential"
       ],
-      "claim_timestamp": "00:08:11",
+      "claim_timestamp": "00:08:29",
       "investigative_direction": "The ADL was founded by B'nai B'rith in 1913 after the Leo Frank trial; Phagan was a Protestant (not Catholic) factory worker. No evidence of a ritual murder exists; check the Frank case record and the 1986 Alonzo Mann/Georgia pardon history.",
       "transcript_snippet": "Um that then subsequently became the ADL after the ritualistic murder of a Catholic girl named Mary Phagan.",
       "mentions_person_refs": [
         "N-3",
-        "N-796",
-        "N-795"
+        "N-796"
       ]
     },
     {
@@ -3359,7 +3351,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:15:32",
+      "claim_timestamp": "00:15:44",
       "investigative_direction": "Find Blanche's actual public statement on withheld videos and compare its wording with the host's inference.",
       "transcript_snippet": "Todd Blanche has already come out and said that they're sparing us the videos. So, we should just assume that there are graphic videos that pertain to death based on his statement.",
       "supports_claim_refs": [
@@ -3367,8 +3359,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-537",
-        "N-9"
+        "N-537"
       ]
     },
     {
@@ -3455,7 +3446,7 @@
         "N-10324"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:21:28",
       "investigative_direction": "Locate the email in the DOJ release, check its provenance (original Epstein file or later FBI tip) and whether Jay-Z is a named participant.",
@@ -3640,8 +3631,7 @@
       "investigative_direction": "Look for Army/Fort Huachuca Palantir contracts, delivery orders or press releases in June-July 2025 and the base's public affairs notices.",
       "transcript_snippet": "He also had Palantir boys were put onto Fort Huachuca airbase in July. We'll get into that later.",
       "mentions_person_refs": [
-        "N-3",
-        "N-523"
+        "N-3"
       ]
     },
     {
@@ -3792,7 +3782,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:29:47",
+      "claim_timestamp": "00:30:28",
       "investigative_direction": "Compare the air date and time of the Patel episode with the White House meeting date; check the show's published run-of-show.",
       "transcript_snippet": "They ran this interview with Kash Patel on Charlie Kirk's show, which is supposed to be live every day. You can fake a live. You can make it a pre-record.",
       "mentions_person_refs": [
@@ -3828,7 +3818,7 @@
       "@id": "C-14274",
       "ref": "C-14274",
       "label": "Host says beauty queen names are redacted and Epstein trafficked through modeling organizations",
-      "claim": "The host says the names of some beauty queens have been conveniently redacted, that Epstein moved through industries like Victoria's Secret and Miss Universe with Jean-Luc Brunel, that the organizations were used for trafficking 'for a fact' via M Model Management, and that this is how Trump is caught up and 'rinsed out' of the files.",
+      "claim": "The host says the names of some beauty queens have been conveniently redacted, that Epstein moved with Jean-Luc Brunel through industries like Victoria's Secret and Miss Universe, that she thinks that is how Trump is caught up and \"rinsed out\" of the files, and that \"we know this for a fact\" they trafficked through modeling organizations like M Model Management with Brunel.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10324"
@@ -3876,7 +3866,7 @@
       "@id": "C-14276",
       "ref": "C-14276",
       "label": "Host says her team has major problems verifying Erika's Fort Huachuca alibi",
-      "claim": "The host says her team has been working to verify Erika Kirk's Fort Huachuca alibi and, after the sponsor break (00:32:06), that they are 'having some major problems'; the details are deferred.",
+      "claim": "The host says her team has been working to verify Erika Kirk's Fort Huachuca alibi and, at 00:32:06 just before a sponsor break, that they are \"having some major problems\"; the details are deferred.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10472",
@@ -4129,7 +4119,7 @@
       "@id": "C-14287",
       "ref": "C-14287",
       "label": "Host says Erika told her Charlie had dinner with the family and a priest to pray over him",
-      "claim": "The host says that, according to Erika, Charlie Kirk had dinner on September 9 with Erika, the kids and a priest who prayed over him, and that Erika ties the prayer to the Jezebel article.",
+      "claim": "The host says that, according to Erika, Charlie Kirk had dinner on September 9 with Erika, the kids and a priest to pray over him, and that 'we are told' the prayer was related to a Jezebel article, which the host says she does not believe.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10117",
@@ -4283,7 +4273,7 @@
       "@id": "C-14293",
       "ref": "C-14293",
       "label": "Host says Charlie had just returned from Korea late the night before Sept 8",
-      "claim": "The host says Charlie Kirk 'had just gotten back late late late the night before from Korea', so a nap on the afternoon of September 8 made sense.",
+      "claim": "The host says Charlie Kirk 'had just gotten back late late late the night before from Korea', so a nap on September 8 made sense.",
       "anchored_artifacts": [
         "A-3311.1"
       ],
@@ -4477,7 +4467,7 @@
       "@id": "C-14301",
       "ref": "C-14301",
       "label": "Host says no one has seen Erika collapse in the parking lot",
-      "claim": "The host says Erika Kirk says she collapsed in the parking lot (and screamed in a doctor's office) but no one has seen that, and nobody in her building has, adding that a doctor's office with people in it would have someone who heard a giant scream.",
+      "claim": "The host says Erika Kirk says she collapsed in the parking lot but no one has seen that, and nobody in her building has; she adds that if she had screamed in a doctor's office with people in it, someone would say they heard a giant scream.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10471"
@@ -4667,7 +4657,7 @@
         "N-10270"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "01:00:34",
       "investigative_direction": "Check the Delaware docket for Macron v. Owens and its current status.",

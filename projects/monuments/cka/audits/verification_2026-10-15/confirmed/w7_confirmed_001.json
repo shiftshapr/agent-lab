@@ -1,0 +1,502 @@
+[
+ {
+  "claim": "C-8331",
+  "episode": 66,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim describes the woman who tapped the donor; host identifies her as Stacy Sheridan, so N-188 stays."
+ },
+ {
+  "claim": "C-8340",
+  "episode": 66,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ],
+   "timestamp": "00:22:39"
+  },
+  "note": "Erika not in claim; 'I have tons with Charlie' spoken ~22:44, not 21:52."
+ },
+ {
+  "claim": "C-8350",
+  "episode": 66,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the donor arranged to get a relic from St. Michael and got it to Erika, and that she herself got that same relic from a priest in Wyoming, in what she thinks was the first weeks of October.",
+   "mentions": [
+    "N-2",
+    "N-3"
+   ]
+  },
+  "note": "Fix right but dropped the gift to Erika (title, transcript: 'she gave to Erika'); keep N-2."
+ },
+ {
+  "claim": "C-8375",
+  "episode": 66,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that watching the Rabbi Barclay interview probably was part of the beginning of the end of her support for Zionism and that she now believes it is an objectively racist philosophy.",
+   "names": [
+    {
+     "wrong": "Barklay",
+     "right": "Barclay",
+     "source": "https://www.shortform.com/podcast/episode/candace-owens-2024-03-18-episode-summary-this-is-crazy-rabbi-barclay-attacks-me-for-things-i-never-said"
+    }
+   ],
+   "timestamp": "00:58:17"
+  },
+  "note": "Barclay confirmed (Owens ep. with Rabbi Michael Barclay); line spoken ~58:22."
+ },
+ {
+  "claim": "C-2256",
+  "episode": 67,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the compilation, Joshua Finkelstein (described as BlackRock's Larry Finkelstein's son) is accused by his ex-girlfriend Svetlana of not having any respect for non-Jews and seeing them as not human, and the compilation says he pressures her to have an abortion.",
+   "mentions": []
+  },
+  "note": "Epstein not in claim; wording matches transcript."
+ },
+ {
+  "claim": "C-2257",
+  "episode": 67,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per Maria Farmer's on-camera statement in the compilation, when she called Ghislaine Maxwell to ask why she couldn't eat there after being refused food, Maxwell told her \"It's a Jewish country club. You're not Jewish. They're not going to serve you.\"",
+   "label": "Maxwell Told Farmer a Place Was \"A Jewish Country Club\"",
+   "mentions": [
+    "N-47",
+    "N-530"
+   ],
+   "timestamp": "00:11:54"
+  },
+  "note": "Fix right; Farmer clip at ~11:59, before claimed 12:20."
+ },
+ {
+  "claim": "C-2264",
+  "episode": 67,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Ben Shapiro says former Israeli PM Naftali Bennett told him that the Mossad has not been active in the United States since the Jonathan Pollard scandal of 1987.",
+   "mentions": [
+    "N-97",
+    "N-526",
+    "N-276"
+   ],
+   "timestamp": "00:20:07"
+  },
+  "note": "Fix right; 'I followed up with... Bennett' spoken ~20:12, before claimed 20:38."
+ },
+ {
+  "claim": "C-2269",
+  "episode": 67,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-55",
+    "N-1"
+   ]
+  },
+  "note": "Shillman not named in Hammer clip."
+ },
+ {
+  "claim": "C-2271",
+  "episode": 67,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-1"
+   ],
+   "timestamp": "00:47:26"
+  },
+  "note": "Erika not in claim; 'Shortly, GG just got up' ~47:31, before claimed 47:50."
+ },
+ {
+  "claim": "C-2272",
+  "episode": 67,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads an email she says was sent to John Podesta by Katherine Tate, published by WikiLeaks, saying a realtor found a handkerchief, \"I think it has a map that seems pizza-related\", and mentioning \"weird specific orders of pizza and hot dogs.\"",
+   "mentions": [
+    "N-532",
+    "N-533"
+   ]
+  },
+  "note": "Map, not handkerchief, is pizza-related; Assange not in claim."
+ },
+ {
+  "claim": "C-2273",
+  "episode": 67,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-272",
+    "N-2",
+    "N-3"
+   ]
+  },
+  "note": "Kolvet not referred to in claim."
+ },
+ {
+  "claim": "C-2281",
+  "episode": 67,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Erika told her Charlie had dinner with the family and a priest to pray over him on the evening of September 9, and that she was told this was related to a Jezebel article about an Etsy spell / witch's curse against him; the host says she does not believe that at all. The article is not displayed.",
+   "mentions": [
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "Transcript: 'according to Erika', host disbelieves; fix matches."
+ },
+ {
+  "claim": "C-14239",
+  "episode": 67,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-521"
+   ],
+   "timestamp": "00:04:02"
+  },
+  "note": "Freud not in claim; line spoken ~04:07."
+ },
+ {
+  "claim": "C-14244",
+  "episode": 67,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-796"
+   ],
+   "timestamp": "00:08:29"
+  },
+  "note": "Leo Frank not named; line spoken ~08:34."
+ },
+ {
+  "claim": "C-14253",
+  "episode": 67,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-537"
+   ],
+   "timestamp": "00:15:44"
+  },
+  "note": "Epstein not in claim; Blanche line ~15:49."
+ },
+ {
+  "claim": "C-14265",
+  "episode": 67,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Thiel not referred to in claim."
+ },
+ {
+  "claim": "C-14272",
+  "episode": 67,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:30:28"
+  },
+  "note": "'The team' meeting at the White House is Kolvet and McCoy per host, so N-14 stays; line spoken ~30:33."
+ },
+ {
+  "claim": "C-2290",
+  "episode": 68,
+  "decision": "amend",
+  "fix": {
+   "claim": "The BBC reported that Jörg Fassbinder had made the discovery of Gilgamesh's tomb, with the report surfacing a couple of weeks after the March 20, 2003 invasion of Iraq.",
+   "names": [
+    {
+     "wrong": "Fastbinder",
+     "right": "Fassbinder",
+     "source": "https://www.abc.net.au/news/2003-05-06/experts-search-for-grave-of-legendary-gilgamesh/1849534"
+    }
+   ]
+  },
+  "note": "Fassbinder confirmed (ABC 2003). 'Gorg Fastbinder' rule exists; transcript still has bare 'Fastbinder'."
+ },
+ {
+  "claim": "C-2291",
+  "episode": 68,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:08:02"
+  },
+  "note": "Claim already correct and 'Gorg Fastbinder' rule already exists; only timestamp: names spoken ~08:07."
+ },
+ {
+  "claim": "C-2296",
+  "episode": 68,
+  "decision": "amend",
+  "fix": {
+   "claim": "A viewer comment the host reads says Jill Biden's ex-husband, whom it names as Bill Richardson, was indicted for first-degree murder of his ex-wife; the host, reading an article, corrects the name to William Stevenson, 77, of Wilmington, married to Jill Biden 1970 to 1975, and says the woman was found unresponsive in the living room and life-saving measures were unsuccessful.",
+   "timestamp": "00:47:06"
+  },
+  "note": "Fix right; comment read ~47:11."
+ },
+ {
+  "claim": "C-10013",
+  "episode": 68,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the US military made its base at the exact location where Fassbinder had reported finding Gilgamesh's tomb, after the March 2003 invasion.",
+   "names": [
+    {
+     "wrong": "Fastbinder",
+     "right": "Fassbinder",
+     "source": "https://www.abc.net.au/news/2003-05-06/experts-search-for-grave-of-legendary-gilgamesh/1849534"
+    }
+   ],
+   "timestamp": "00:09:18"
+  },
+  "note": "Name right; dropped relevance change (not a transcript issue); line ~09:23."
+ },
+ {
+  "claim": "C-2302",
+  "episode": 69,
+  "decision": "amend",
+  "fix": {
+   "claim": "In an Omega Man Radio clip the host plays, Steve Quayle says a special operations general told him Gilgamesh was in 'a state of remarkable preservation' and that they have Gilgamesh's remains; Tom Horn says that, according to some people, the military took possession and control of the dig.",
+   "mentions": [
+    "N-548",
+    "N-549"
+   ],
+   "timestamp": "00:15:25"
+  },
+  "note": "Fix right; Horn's dig line starts ~15:30."
+ },
+ {
+  "claim": "C-2306",
+  "episode": 69,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host reads a text chain from the Epstein files, which she says is Epstein's, discussing Emmanuel Macron's 'boyfriend' and saying 'along with some other tidbits, I was shown a photo of Macron's boyfriend', and says more emails reference Macron being gay.",
+   "label": "Host Reads Epstein Text Chain About Macron's Boyfriend"
+  },
+  "note": "Host says 'It is Epstein' but the speaker of the quoted line is not stated; attribute quote to the chain."
+ },
+ {
+  "claim": "C-2307",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Erika not referred to."
+ },
+ {
+  "claim": "C-2309",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Freud not in comment."
+ },
+ {
+  "claim": "C-2311",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "mentions": [],
+   "claim": "A viewer comment (AZ Masterbaker) says it fully believes the COVID tests were just to collect DNA, so their accuracy did not matter, and that maybe the DNA collection is to find Nimrod's descendants. The host agrees it is interesting."
+  },
+  "note": "Skiba not named; hedge restored."
+ },
+ {
+  "claim": "C-2312",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Freud not in comment."
+ },
+ {
+  "claim": "C-12600",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-543"
+   ]
+  },
+  "note": "Flynn not named in claim."
+ },
+ {
+  "claim": "C-12617",
+  "episode": 69,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Rob Skiba says the US established 500 military bases and the largest embassy of any embassy on the planet in Babylon after Iraq.",
+   "label": "Rob Skiba Says the US Set Up 500 Military Bases and the Largest Embassy in Babylon",
+   "mentions": [
+    "N-543"
+   ],
+   "timestamp": "00:16:29"
+  },
+  "note": "Host introduces 'what Rob Skiba says' at 13:31; fix right; line ~16:34."
+ },
+ {
+  "claim": "C-12618",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Rob Skiba says he has a feeling that what the US found in Iraq was the weapon of mass destruction, after recounting the find of Gilgamesh's body.",
+   "label": "Rob Skiba Suspects the US Found the Weapon of Mass Destruction in Iraq",
+   "mentions": [
+    "N-543"
+   ]
+  },
+  "note": "Host introduces Rob Skiba clip at 13:31; line is Skiba's."
+ },
+ {
+  "claim": "C-12626",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "Claim names Erika."
+ },
+ {
+  "claim": "C-12629",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Hammer not in claim."
+ },
+ {
+  "claim": "C-12630",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says the Explanation Given Was a Third-Party App Set for Deletion",
+   "mentions": [
+    "N-272",
+    "N-14",
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Source not named as TPUSA; Charlie in claim."
+ },
+ {
+  "claim": "C-12631",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-272",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Charlie in claim."
+ },
+ {
+  "claim": "C-12650",
+  "episode": 69,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-547",
+    "N-2",
+    "N-491"
+   ],
+   "timestamp": "00:29:45"
+  },
+  "note": "Erika's mother referred to; line spoken ~29:50."
+ },
+ {
+  "claim": "C-12657",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Charlie not named in claim."
+ },
+ {
+  "claim": "C-2320",
+  "episode": 70,
+  "decision": "accept",
+  "fix": {
+   "claim": "Aubrey Lech's video states she was brought into a meeting with Andrew Kolvet and Marina Minas and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to \"Aubrey.\"",
+   "names": [
+    {
+     "wrong": "Marina Munz",
+     "right": "Marina Minas",
+     "source": "https://www.fox10phoenix.com/news/turning-point-usa-unveils-charlie-kirk-statue-outside-phoenix-headquarters"
+    }
+   ]
+  },
+  "note": "Marina Minas is TPUSA CMO (TPUSA team page, ZoomInfo)."
+ },
+ {
+  "claim": "C-2322",
+  "episode": 70,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a video the host plays, Aubrey Lech names Andrew Kolvet (described as her employer via ATK) and Marina Minas (CMO of Turning Point USA) as the two people present at her termination meeting.",
+   "names": [
+    {
+     "wrong": "Marina Munz",
+     "right": "Marina Minas",
+     "source": "https://www.fox10phoenix.com/news/turning-point-usa-unveils-charlie-kirk-statue-outside-phoenix-headquarters"
+    }
+   ]
+  },
+  "note": "Marina Minas is TPUSA CMO (TPUSA team page, ZoomInfo)."
+ },
+ {
+  "claim": "C-3662",
+  "episode": 70,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:42:30",
+   "claim": "The host says the decentralized intelligence agency has brought us to this moment, that it was the work of everybody, and that everybody had a piece of the puzzle she pulled together on the podcast."
+  },
+  "note": "Line spoken ~42:40 at end of 40:26 block; added gloss removed."
+ },
+ {
+  "claim": "C-8400",
+  "episode": 70,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says her best guess is that Pierre is Pierre Falcone of Angolagate, and describes France, Israel, the United States and Egypt working together.",
+   "names": [
+    {
+     "wrong": "Falconee",
+     "right": "Falcone",
+     "source": "https://fortuneherald.com/news/candace-owens-pierre-falcone-theory-the-claim-thats-dividing-conservative-media-right-now/"
+    }
+   ],
+   "timestamp": "00:15:43"
+  },
+  "note": "Falcone confirmed in Owens coverage; line spoken ~15:48."
+ }
+]

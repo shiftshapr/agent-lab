@@ -431,7 +431,7 @@ Transcript spelling "Lori Fran Slay". Erika Kirk's mother; said to have been bro
 
 *Related: C-4780*
 
-**N-553** Aubrey Lech
+**N-553** Aubrey Laitsch
 
 Named only as "Aubrey"; said to have told Andrew Kolvet when she was fired that "Nobody knows who she is."
 
@@ -1316,7 +1316,7 @@ Transcript Snippet: You remember even when Aubrey got fired, she had said to And
 Anchored Artifacts:
 Mentions: N-553, N-14, N-2
 Related Nodes: N-10999, N-10552
-Investigative Direction: Obtain the recording of Aubrey Lech's termination meeting.
+Investigative Direction: Obtain the recording of Aubrey Laitsch's termination meeting.
 
 ---
 
@@ -1871,7 +1871,7 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2697.1 is the Shawn Ryan team's account, relayed by the host only. A-2708.1 is the host's verbal tip request. The Daily Mail article on Erika Kirk's shifting succession story is referenced as previously shown, and is not given an artifact. The deleted death-hoax post and the obituary website (C-4773) were not shown. The Fort Huachuca emails (C-4802) were described, not read.
 - **DIA beats**: one real hit, at 00:12:22 ("More tips at candaceowens. com"), is recorded as claim C-4792, artifact A-2708.1 and an M-12 occurrence. The other "candaceowens. com" hit (01:00:27) directs viewers to the book club and merch, so it is not a DIA beat. "Send me an email" (00:40:11) is a rhetorical ask about who attends Rob McCoy's church and is not on the keyword list, so it is not treated as a DIA beat. The Candace Intelligence Agency phrase does not air, so M-14 is not used.
-- **Name matching**: Terrell Farnsworth appears as "Taral", "Terrell", "Tarrou" and "Taro", all mapped to N-263 (alias Terryl/Taro Farnsworth). "Lori Fran Slay" is mapped to N-491 Lori Frantzve and "Larry Guinta" to N-389 Larry Guinta, both from context (Erika's mother and stepfather). "Andrew Colbeth", "Andrew Kolvet" and "Colvette" are mapped to N-14 Andrew Kolvet. "Blake Neff" is mapped to N-161. "Aubrey" is mapped to N-553 Aubrey Lech from the firing context. "Bryan Harp" (40:11) is mapped to N-268 Brian Harpole.
+- **Name matching**: Terrell Farnsworth appears as "Taral", "Terrell", "Tarrou" and "Taro", all mapped to N-263 (alias Terryl/Taro Farnsworth). "Lori Fran Slay" is mapped to N-491 Lori Frantzve and "Larry Guinta" to N-389 Larry Guinta, both from context (Erika's mother and stepfather). "Andrew Colbeth", "Andrew Kolvet" and "Colvette" are mapped to N-14 Andrew Kolvet. "Blake Neff" is mapped to N-161. "Aubrey" is mapped to N-553 Aubrey Laitsch from the firing context. "Bryan Harp" (40:11) is mapped to N-268 Brian Harpole.
 - **New persons possibly already minted elsewhere**: the host says "we told you about" Philip Goldsberry Jr., so he may have been introduced in an episode not yet in nodes.tsv or staging (for example 117 or 118). The integrator should dedupe. Druski (N-598) reuses the exact title from staging episode_084 (N-689 there). Robert Golow's spelling is unverified.
 - **Transcription ambiguities**: "Hud's, who are you?" in the Erika clip is kept as written. "Global Ministries in Romania" may be an incomplete charity name. In the host's quote of Increase Mather, McCoy's claim that he ended the trials is historically contested; it is recorded as McCoy's assertion only. "30-ought-6" and ".30-06" are kept as spoken.
 - **Cross-episode links**: C-4775 Supports C-2817 (ep 97), C-4778 Supports C-1465 (ep 19), C-4780 Supports C-2010 (ep 52), C-4783 Supports C-2220 (ep 64), C-4794 Supports C-1245 (ep 8), C-4801 Contradicts C-1369 (ep 15, Kolvet's theft explanation) and C-4822 Supports C-2874 (ep 99).

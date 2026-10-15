@@ -1,0 +1,795 @@
+[
+ {
+  "claim": "C-2266",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2267",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Thiel: \"I probably probably was my moral weakness that I\" then trails off; link to not asking questions is inferred, quote not verbatim.",
+  "fix": {
+   "claim": "Per the Rogan exchange, Thiel says it \"probably was my moral weakness that I\" (the sentence trails off), after saying he did not ask enough questions about Epstein."
+  }
+ },
+ {
+  "claim": "C-2268",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says Hammer \"clarified\" Sept 9; the clip itself gives no date, only a Zoom call \"the night before he was killed\". \"2025\" is added.",
+  "fix": {
+   "claim": "The host says Josh Hammer clarified that Charlie Kirk's text expressing intent to abandon the pro-Israel cause was sent on September 9, not September 8 as she had stated; in a clip she plays, Hammer says a Zoom call with Charlie followed about two hours after the screenshot."
+  }
+ },
+ {
+  "claim": "C-2269",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Robert Shillman (N-98) is not named in this window; only Hammer, Charlie and \"a rabbi who lives in Israel\" (Wolicki, N-166, named by host, not in claim).",
+  "fix": {
+   "mentions": [
+    "N-55",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-2270",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2271",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Erika (N-2) is not named or referred to in the claim; she appears only in the host's later aside.",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-2272",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Email says \"I think it has a map that seems pizza-related\" (the map, not the handkerchief). Host reads it and says it was sent to Podesta. Assange not named in claim.",
+  "fix": {
+   "claim": "The host reads an email she says was sent to John Podesta by Katherine Tate, published by WikiLeaks, saying a realtor found a handkerchief, \"I think it has a map that seems pizza-related\", and mentioning \"weird specific orders of pizza and hot dogs.\"",
+   "mentions": [
+    "N-532",
+    "N-533"
+   ]
+  }
+ },
+ {
+  "claim": "C-2273",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Andrew Kolvet (N-14) is not named in the claim; claim names only Dan Flood, Erica Kirk and the host.",
+  "fix": {
+   "mentions": [
+    "N-272",
+    "N-2",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-2274",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Source said iMessage \"between him and Dan Flood\"; host herself (not source) says he messaged \"Dan Flood and Andrew\".",
+  "fix": {
+   "claim": "Per Candace Owens's source, the \"they're going to kill me\" text Charlie Kirk sent on Sept 9 to Dan Flood was an iMessage; the host says it went to Andrew Kolvet and Dan Flood."
+  }
+ },
+ {
+  "claim": "C-2275",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2276",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2277",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Comment: \"Hillary alerted him that he should be more careful. He should have a chat with Julian Assange.\" No email to Obama or caution \"around\" Assange stated.",
+  "fix": {
+   "claim": "A YouTube comment from \"I R O\" that the host reads says the $65,000 hot dog party Obama had at the White House was in the WikiLeaks files, and that Hillary Clinton alerted him he should be more careful and should have a chat with Julian Assange."
+  }
+ },
+ {
+  "claim": "C-2278",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2279",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2280",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2281",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: priest prayer dinner \"according to Erika\", \"related to a Jezebel article\"; host adds \"I actually don't believe that at all\". Claim drops both; Erika not in Mentions.",
+  "fix": {
+   "claim": "The host says Erika told her Charlie had dinner with the family and a priest to pray over him on the evening of September 9, and that she was told this was related to a Jezebel article about an Etsy spell / witch's curse against him; the host says she does not believe that at all. The article is not displayed.",
+   "mentions": [
+    "N-1",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2282",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Comment: \"The entire city is a literal chessboard. Checkmate is the slave market.\" Claim fuses these into the market being called \"Checkmate\".",
+  "fix": {
+   "claim": "A YouTube comment from \"We woke now\" that the host reads says Charleston, South Carolina, known as \"Little Jerusalem\", is home of the very first Jewish lodge, that the entire city is \"a literal chessboard\", and that \"Checkmate is the slave market.\""
+  }
+ },
+ {
+  "claim": "C-3661",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says only \"I love that he's wearing a CIA t-shirt. James, great work.\" \"Rather than plugging merch herself\" is not in the transcript.",
+  "fix": {
+   "claim": "After playing independent journalist James Lee's clip on the poorly redacted Epstein email, the host says \"I love that he's wearing a CIA t-shirt. James, great work.\""
+  }
+ },
+ {
+  "claim": "C-14238",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14239",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": true,
+  "note": "Freud (N-50) is not named in this claim; it names only Wilhelm and Robert Fliess.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-521"
+   ]
+  }
+ },
+ {
+  "claim": "C-14240",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14241",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14242",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "Host: \"effectively pagan gypsies who have been wearing the cloak of Judaism, I would say, since the fall of the... Khazarian Empire\" - hedges dropped.",
+  "fix": {
+   "claim": "The host says the people she is fighting are \"effectively\" pagan \"who have been wearing the cloak of Judaism, I would say, since the fall of the missing Khazarian Empire\", and that the Khazars were a nomadic Turkic tribe who adopted Judaism in the 8th century."
+  }
+ },
+ {
+  "claim": "C-14243",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14244",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": true,
+  "note": "Leo Frank (N-795) is never named in the claim or the transcript window; host names only Mary Phagan.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-796"
+   ]
+  }
+ },
+ {
+  "claim": "C-14245",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14246",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14247",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14248",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14249",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14250",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14251",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14252",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14253",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": true,
+  "note": "Epstein (N-9) is not named in the claim; host names Blanche and \"the videos\".",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-537"
+   ]
+  }
+ },
+ {
+  "claim": "C-14254",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14255",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14256",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14257",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Jay-Z/Weinstein/celebrity gossip does not bear on the Kirk case; tangential rather than context.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-14258",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14259",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14260",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14261",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14262",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14263",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14264",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14265",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": true,
+  "note": "Thiel (N-523) is not named or referred to in the claim, which says only \"Palantir boys\".",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-14266",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14267",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14268",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14269",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14270",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14271",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14272",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": true,
+  "note": "Andrew Kolvet (N-14) is not named in the claim, which says only \"the team\".",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-69",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-14273",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14274",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "Host: \"I think that that's how Trump is caught up into it and is also being rinsed out\"; hedge dropped. \"M Model Management\" likely MC2 (unresolved name, org).",
+  "fix": {
+   "claim": "The host says the names of some beauty queens have been conveniently redacted, that Epstein moved with Jean-Luc Brunel through industries like Victoria's Secret and Miss Universe, that she thinks that is how Trump is caught up and \"rinsed out\" of the files, and that \"we know this for a fact\" they trafficked through modeling organizations like M Model Management with Brunel."
+  }
+ },
+ {
+  "claim": "C-14275",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14276",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "Host says \"And we're having some major problems. More about that when we get back from a quick sponsor break\" at 32:06, i.e. before the break, not after it.",
+  "fix": {
+   "claim": "The host says her team has been working to verify Erika Kirk's Fort Huachuca alibi and, at 00:32:06 just before a sponsor break, that they are \"having some major problems\"; the details are deferred."
+  }
+ },
+ {
+  "claim": "C-14277",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14278",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14279",
+  "episode": 67,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

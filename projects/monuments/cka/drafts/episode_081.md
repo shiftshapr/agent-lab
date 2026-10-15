@@ -523,7 +523,7 @@ TPUSA chief marketing officer (transcribed Marina Minnez, Mina's); handled the s
 
 ---
 
-**N-553** Aubrey Lech
+**N-553** Aubrey Laitsch
 
 Staffer who drafted the death statement and was later fired (host says over an Uber driver conversation).
 

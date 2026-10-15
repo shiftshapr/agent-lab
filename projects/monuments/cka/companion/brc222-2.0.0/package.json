@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T06:08:29Z",
+  "generated_at": "2026-10-15T06:23:42Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -2016,7 +2016,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10121",
-      "label": "Host Says Aubrey Lich Was Fired After Being Questioned About an Uber Ride by Marina Meanes",
+      "label": "Host Says Aubrey Laitsch Was Fired After Being Questioned About an Uber Ride by Marina Meanes",
       "node_kind": "claim",
       "episode": 72
     },
@@ -2142,7 +2142,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10139",
-      "label": "Host says she contacted Jillian by phone despite Coleman's instruction not to",
+      "label": "Host Says She Contacted Jillian Despite Coleman's Instruction Not To",
       "node_kind": "claim",
       "episode": 74
     },
@@ -20517,14 +20517,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12617",
-      "label": "Host Says the US Set Up 500 Military Bases and the Largest Embassy in Babylon",
+      "label": "Rob Skiba Says the US Set Up 500 Military Bases and the Largest Embassy in Babylon",
       "node_kind": "claim",
       "episode": 69
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12618",
-      "label": "Host Suspects the Real Weapon of Mass Destruction Found in Iraq Was Gilgamesh",
+      "label": "Rob Skiba Suspects the US Found the Weapon of Mass Destruction in Iraq",
       "node_kind": "claim",
       "episode": 69
     },
@@ -20622,7 +20622,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12630",
-      "label": "Host Says TPUSA Blamed a Third-Party App Set for Deletion",
+      "label": "Host Says the Explanation Given Was a Third-Party App Set for Deletion",
       "node_kind": "claim",
       "episode": 69
     },
@@ -33677,7 +33677,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14327",
-      "label": "Host Says Erika Modeled for Tracy's Clothing Brands and They Are Tied to Romanian Angels",
+      "label": "Host Says Erika Modeled for Tracy's Clothing Brands and Tracy Mentions Romanian Angels",
       "node_kind": "claim",
       "episode": 71
     },
@@ -44555,7 +44555,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2257",
-      "label": "Ghislaine Maxwell Called Epstein Residence \"A Jewish Country Club\"",
+      "label": "Maxwell Told Farmer a Place Was \"A Jewish Country Club\"",
       "node_kind": "claim",
       "episode": 67
     },
@@ -44786,7 +44786,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2290",
-      "label": "BBC Reported Fastbinder Discovered Gilgamesh's Tomb",
+      "label": "BBC Reported Fassbinder Discovered Gilgamesh's Tomb",
       "node_kind": "claim",
       "episode": 68
     },
@@ -44898,7 +44898,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2306",
-      "label": "Host asserts Epstein files contain text chains referencing Emmanuel Macron's \"boyfriend\" and that she was shown a photo",
+      "label": "Host Reads Epstein Text Chain About Macron's Boyfriend",
       "node_kind": "claim",
       "episode": 69
     },
@@ -44989,28 +44989,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2319",
-      "label": "Aubrey Lech publicly identified herself as former TPUSA PR manager, recently terminated",
+      "label": "Aubrey Laitsch publicly identified herself as former TPUSA PR manager, recently terminated",
       "node_kind": "claim",
       "episode": 70
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2320",
-      "label": "Aubrey Lech stated termination meeting involved Uber-driver conversation",
+      "label": "Aubrey Laitsch stated termination meeting involved Uber-driver conversation",
       "node_kind": "claim",
       "episode": 70
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2321",
-      "label": "Aubrey Lech expressed belief termination was retaliation for narrative-dissent",
+      "label": "Aubrey Laitsch expressed belief termination was retaliation for narrative-dissent",
       "node_kind": "claim",
       "episode": 70
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2322",
-      "label": "Aubrey Lech video names Andrew Kolvet and Marina Munz at termination meeting",
+      "label": "Aubrey Laitsch video names Andrew Kolvet and Marina Munz at termination meeting",
       "node_kind": "claim",
       "episode": 70
     },
@@ -45164,7 +45164,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2344",
-      "label": "Host Calls Seth Dillon's Hamptons Heated Debate Remark an Admission",
+      "label": "Host Says Seth Dillon Is Adjusting His Story on Hamptons Debate",
       "node_kind": "claim",
       "episode": 71
     },
@@ -45290,7 +45290,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2362",
-      "label": "Unidentified \"Mike\" Was Recorded Photographing Aubrey Lich's Home Claiming Legal Firm Instruction",
+      "label": "Unidentified \"Mike\" Was Recorded Photographing Aubrey Laitsch's Home Claiming Legal Firm Instruction",
       "node_kind": "claim",
       "episode": 72
     },
@@ -45339,7 +45339,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2369",
-      "label": "Erika denied that Charlie messaged people saying \"they're going to get me\"",
+      "label": "Erika Denied That Charlie Messaged People Saying They Were Coming After Him",
       "node_kind": "claim",
       "episode": 73
     },
@@ -45409,7 +45409,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2379",
-      "label": "Erika and Jillian first connected through a rent-payment encounter at Joshua Harrelson's residence",
+      "label": "Erika and Jillian First Connected Through a Rent-Payment Encounter",
       "node_kind": "claim",
       "episode": 74
     },
@@ -45437,7 +45437,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2383",
-      "label": "Erika sent Jillian a gnome-themed image reading \"I want to be inside your lady garden\"",
+      "label": "Nicey Clip Shows Jillian Sharing Gnome Image After Thanking Erika",
       "node_kind": "claim",
       "episode": 74
     },
@@ -87199,7 +87199,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8375",
-      "label": "Host Says Watching the Rabbi Barklay Interview Began the End of Her Support for Zionism",
+      "label": "Host Says Watching the Rabbi Barclay Interview Began the End of Her Support for Zionism",
       "node_kind": "claim",
       "episode": 66
     },
@@ -87248,7 +87248,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8382",
-      "label": "Host Says She Warned Charlie About Schaefer Security and Dan Flood in Writing",
+      "label": "Host Says She Warned Charlie About Schaefer Security and Dan Flood",
       "node_kind": "claim",
       "episode": 70
     },
@@ -87318,7 +87318,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8392",
-      "label": "Host Says Erika Told the NYT Charlie Grabbed His Wedding Band the Next Morning",
+      "label": "Host Says Erika Said Charlie Grabbed His Wedding Band the Next Morning",
       "node_kind": "claim",
       "episode": 70
     },
@@ -87815,7 +87815,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8463",
-      "label": "Host Says TPUSA Has Not Been Honest About the Marriage",
+      "label": "Host Says the Marriage Portrayal Was Not Honest",
       "node_kind": "claim",
       "episode": 73
     },
@@ -90146,7 +90146,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8796",
-      "label": "Host says Aubrey Lech spoke with her after being fired but leaked nothing she presented",
+      "label": "Host says Aubrey Laitsch spoke with her after being fired but leaked nothing she presented",
       "node_kind": "claim",
       "episode": 96
     },
@@ -90272,7 +90272,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8814",
-      "label": "Host says she saw none of Aubrey Lech, Nick Fuentes or David Axelrod in Rome",
+      "label": "Host says she saw none of Aubrey Laitsch, Nick Fuentes or David Axelrod in Rome",
       "node_kind": "claim",
       "episode": 96
     },
@@ -110502,14 +110502,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1747",
-      "label": "Aubrey Lech Public Video Bundle",
+      "label": "Aubrey Laitsch Public Video Bundle",
       "node_kind": "artifact",
       "episode": 70
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1747.1",
-      "label": "Aubrey Lech self-published video statement describing her termination from TPUSA / ATK",
+      "label": "Aubrey Laitsch self-published video statement describing her termination from TPUSA / ATK",
       "node_kind": "artifact",
       "episode": 70
     },
@@ -110810,7 +110810,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1767.2",
-      "label": "Audio Clip: Erika Kirk on Meghan Kelly's Stage Recounting She Did Not Date in Manhattan",
+      "label": "Audio Clip: Erika Kirk on Megyn Kelly's Stage Recounting She Did Not Date in Manhattan",
       "node_kind": "artifact",
       "episode": 72
     },
@@ -110866,7 +110866,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1771.1",
-      "label": "Video Recording: Individual Identifying Himself as \"Mike\" Photographing Aubrey Lich's Home and Vehicle, Stating He Was Asked by a Legal Firm",
+      "label": "Video Recording: Individual Identifying Himself as \"Mike\" Photographing Aubrey Laitsch's Home and Vehicle, Stating He Was Asked by a Legal Firm",
       "node_kind": "artifact",
       "episode": 72
     },
