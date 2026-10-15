@@ -883,7 +883,7 @@ Investigative Direction: Obtain original file with EXIF; cross-check Dairy Queen
 
 **C-1187** Robinson texts use word 'outfit'
 
-Claim Timestamp: 00:03:38
+Claim Timestamp: 00:03:24
 Claim: The text exchange between Tyler Robinson and 'Lance' contains the word 'outfits', which the host argues is gender-marked language atypical of a male shooter.
 Transcript Snippet: He says to Lance, allegedly, quote, 'I worry about Prince. I had to leave it… changed outfits.'
 Anchored Artifacts: 

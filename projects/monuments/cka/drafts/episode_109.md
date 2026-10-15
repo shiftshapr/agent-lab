@@ -1097,11 +1097,11 @@ Investigative Direction: NCRI's corporate records and any partnership or contact
 
 ---
 
-**C-4298** NCRI published the "Christ is King" report featuring the host's face, with Johnny Moore and Jordan Peterson
+**C-4298** NCRI published the "Christ is King" report featuring the host's face, with Johnnie Moore and Jordan Peterson
 
 Claim Timestamp: 00:21:20
 
-Claim: The host says NCRI produced the report featuring her face that claimed "Christ is King" was antisemitic, and that Johnny Moore and Jordan Peterson were also on that report.
+Claim: The host says NCRI produced the report featuring her face that claimed "Christ is King" was antisemitic, and that Johnnie Moore and Jordan Peterson were also on that report.
 
 Transcript Snippet: They were also the ones that came with the report with my face on it uh claiming that Christ is King was suddenly anti-Semitic.
 
@@ -1648,7 +1648,7 @@ Confidence: high
 - **Not inscribed as claims (admission test)**: the following fail the falsifiability or rhetoric test:
   - "assassination attempts are going to continue until his ballroom is fully funded"
   - Pete Hegseth as "one of the more deranged pro-Israel voices"
-  - "Johnny Moore. One half of the Andrew Kolvet duo"
+  - "Johnnie Moore. One half of the Andrew Kolvet duo"
   - Trump as a "Trojan horse" who committed high treason (a viewer comment the host endorses)
   - Characterizations of Beisner as a "washed-up D-list actress" beyond the checkable actress and name-change points
   - "They have a stranglehold over Trump"

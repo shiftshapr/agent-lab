@@ -1147,7 +1147,7 @@
       "ref": "N-438",
       "name": "Johnnie Moore",
       "type": "person",
-      "description": "Johnny Moore; Kolvet's former partner and NCRI board member per the host.",
+      "description": "Johnnie Moore; Kolvet's former partner and NCRI board member per the host.",
       "related_artifacts": [],
       "related_claims": [
         "C-5894"
@@ -2764,8 +2764,8 @@
       "@type": "Claim",
       "@id": "C-5894",
       "ref": "C-5894",
-      "label": "Johnny Moore, Kolvet's Old Partner, Sat on NCRI's Board",
-      "claim": "The host says Johnny Moore, Andrew Kolvet's old partner, was on NCRI's board when the Christ is King report was published and Charlie Kirk did not care.",
+      "label": "Johnnie Moore, Kolvet's Old Partner, Sat on NCRI's Board",
+      "claim": "The host says Johnnie Moore, Andrew Kolvet's old partner, was on NCRI's board when the Christ is King report was published and Charlie Kirk did not care.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10815"
@@ -2773,7 +2773,7 @@
       "tags": [],
       "claim_timestamp": "00:32:32",
       "investigative_direction": "NCRI board listings from the report date and Moore's business history with Kolvet (the Kairos Company).",
-      "transcript_snippet": "Charlie didn't care that the NCRI had Johnny Moore on their board, Andrew Kolvet's old partner Johnny Moore on the board of NCRI when the Crisis King report was published.",
+      "transcript_snippet": "Charlie didn't care that the NCRI had Johnnie Moore on their board, Andrew Kolvet's old partner Johnnie Moore on the board of NCRI when the Crisis King report was published.",
       "mentions_person_refs": [
         "N-438",
         "N-14",

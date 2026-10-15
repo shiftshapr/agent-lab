@@ -2618,8 +2618,8 @@
       "@type": "Claim",
       "@id": "C-5233",
       "ref": "C-5233",
-      "label": "Coleman Displays a SAM000 Flight Landing in Las Vegas at 4:48 p.m. on August 25",
-      "claim": "In the clip, Baron Coleman displays a flight log showing the aircraft flew into Las Vegas on August 25 and landed at 4:48 p.m. local time as SAM000.",
+      "label": "Mark Displays a SAM000 Flight Landing in Las Vegas at 4:48 p.m. on August 25",
+      "claim": "On the show, Mark (the host's director) displays a flight log showing the aircraft flew into Las Vegas on August 25 and landed at 4:48 p.m. local time as SAM000.",
       "anchored_artifacts": [
         "A-1554.1"
       ],
@@ -2635,7 +2635,7 @@
         "C-1964"
       ],
       "mentions_person_refs": [
-        "N-331"
+        "N-67"
       ]
     },
     {

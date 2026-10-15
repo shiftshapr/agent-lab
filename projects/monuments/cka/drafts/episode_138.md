@@ -1105,11 +1105,11 @@ US Protestant denomination the host says is losing members while the Catholic Ch
 
 ## 5. Claim Register
 
-**C-3222** "Protecting Mrs. Kirk" Group Chat Contained 92 Members Coordinating Against Candace Owens
+**C-3222** Host Says "Protecting Mrs. Kirk" Group Chat Had 92 Members Coordinating Against Her
 
 Claim Timestamp: 00:17:35–00:20:10
 
-Claim: An X-coordinated group chat named "Protecting Mrs. Kirk" contained 92 members and was used to coordinate opposition to Candace Owens.
+Claim: The host says a group chat named "Protecting Mrs. Kirk", exposed on X, had 92 members coordinating against her.
 
 Anchored Artifacts: A-2246.1
 Mentions: N-2, N-3

@@ -498,7 +498,7 @@
           "@type": "Artifact",
           "@id": "A-2516.4",
           "ref": "A-2516.4",
-          "description": "Viewer comment from Maple Leaf Girl naming Phil Lyman and Eric Mutosos, read on air (verbal reference; no displayed artifact)",
+          "description": "Viewer comment from Maple Leaf Girl naming Phil Lyman and Eric Moutsos, read on air (verbal reference; no displayed artifact)",
           "related_claims": [
             "C-3724"
           ],
@@ -510,7 +510,7 @@
           ],
           "tags": [],
           "video_timestamp": "01:12:13–01:12:37",
-          "transcript_snippet": "Eric Mutosos was the LEO and has dealt with Zinn in the past.",
+          "transcript_snippet": "Eric Moutsos was the LEO and has dealt with Zinn in the past.",
           "confidence": "medium"
         },
         {
@@ -1072,7 +1072,7 @@
       "@type": "Person",
       "@id": "N-62",
       "ref": "N-62",
-      "name": "Eric Mutosos",
+      "name": "Eric Moutsos",
       "type": "person",
       "description": "LEO commenter noted to have dealt with Zinn in the past.",
       "related_artifacts": [
@@ -2593,16 +2593,16 @@
       "@type": "Claim",
       "@id": "C-3724",
       "ref": "C-3724",
-      "label": "Viewer comment: Eric Mutosos was the LEO who dealt with Zinn",
-      "claim": "A viewer comment from Maple Leaf Girl, read on air, urges the host to look into Governor Cox and contact Phil Lyman, who ran against Cox, and says Eric Mutosos was the LEO and has dealt with Zinn in the past.",
+      "label": "Viewer comment: Eric Moutsos was the LEO who dealt with Zinn",
+      "claim": "A viewer comment from Maple Leaf Girl, read on air, urges the host to look into Governor Cox and contact Phil Lyman, who ran against Cox, and says Eric Moutsos was the LEO and has dealt with Zinn in the past.",
       "anchored_artifacts": [
         "A-2516.4"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "01:12:24",
-      "investigative_direction": "Verify any law enforcement record linking Eric Mutosos to George Zinn.",
-      "transcript_snippet": "Eric Mutosos was the LEO and has dealt with Zinn in the past.",
+      "investigative_direction": "Verify any law enforcement record linking Eric Moutsos to George Zinn.",
+      "transcript_snippet": "Eric Moutsos was the LEO and has dealt with Zinn in the past.",
       "confidence": "medium",
       "mentions_person_refs": [
         "N-41",

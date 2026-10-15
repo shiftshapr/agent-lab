@@ -3273,8 +3273,8 @@
       "@type": "Claim",
       "@id": "C-12579",
       "ref": "C-12579",
-      "label": "Host Says Aguilar Went on Tucker's Show and Spoke About Johnny Moore and Fake Gaza Aid",
-      "claim": "The host says Anthony Aguilar went on Tucker Carlson's show, was attacked, and spoke about Johnny Moore and fake Gaza humanitarian aid that she says let Palestinian children and women be murdered.",
+      "label": "Host Says Aguilar Went on Tucker's Show and Spoke About Johnnie Moore and Fake Gaza Aid",
+      "claim": "The host says Anthony Aguilar went on Tucker Carlson's show, was attacked, and spoke about Johnnie Moore and fake Gaza humanitarian aid that she says let Palestinian children and women be murdered.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10670"
@@ -3283,8 +3283,8 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:43:18",
-      "investigative_direction": "Review Aguilar's Tucker Carlson interview for his exact statements about Johnny Moore and the aid sites.",
-      "transcript_snippet": "He went on Tucker Carlson's show and then he was attacked and he spoke about Johnny Moore and the fake Gazin humanitarian aid that was really just kind of letting Palestinian children and uh women be murdered",
+      "investigative_direction": "Review Aguilar's Tucker Carlson interview for his exact statements about Johnnie Moore and the aid sites.",
+      "transcript_snippet": "He went on Tucker Carlson's show and then he was attacked and he spoke about Johnnie Moore and the fake Gazin humanitarian aid that was really just kind of letting Palestinian children and uh women be murdered",
       "mentions_person_refs": [
         "N-3",
         "N-454",

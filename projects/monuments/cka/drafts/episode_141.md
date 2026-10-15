@@ -1522,12 +1522,12 @@ Investigative Direction: Check the memorial remarks and the state's death-penalt
 
 Claim Timestamp: 00:38:00
 
-Claim: The host says she called Wilson out for playing three clips of Erika Kirk in a row after saying he was not there on behalf of TPUSA; she says she counted four and Bet-David said three.
+Claim: The host says she called Wilson out for playing three clips of Erika Kirk in a row after saying he was not there on behalf of TPUSA.
 
 Transcript Snippet: I then called him out for having played three Erika clips like in a row.
 
 Anchored Artifacts: 
-Mentions: N-3, N-18, N-2, N-57
+Mentions: N-3, N-18, N-2
 Related Nodes: N-10796
 Investigative Direction: Count the Erika Kirk clips played in the debate video.
 

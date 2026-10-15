@@ -1808,16 +1808,16 @@ Investigative Direction: Check Air Force and FAA call sign conventions for filed
 
 ---
 
-**C-5233** Coleman Displays a SAM000 Flight Landing in Las Vegas at 4:48 p.m. on August 25
+**C-5233** Mark Displays a SAM000 Flight Landing in Las Vegas at 4:48 p.m. on August 25
 
 Claim Timestamp: 00:39:24
 
-Claim: In the clip, Baron Coleman displays a flight log showing the aircraft flew into Las Vegas on August 25 and landed at 4:48 p.m. local time as SAM000.
+Claim: On the show, Mark (the host's director) displays a flight log showing the aircraft flew into Las Vegas on August 25 and landed at 4:48 p.m. local time as SAM000.
 
 Transcript Snippet: So on August 25th, it flies into Las Vegas, lands at 4:48 p. m. local time as SAM000.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-331
+Mentions: N-67
 Related Nodes: N-10363, N-10887
 Supports: C-1964
 Investigative Direction: Pull the raw flight log for the aircraft on August 25 and compare with Coleman's stated route from Andrews to Colorado Springs.

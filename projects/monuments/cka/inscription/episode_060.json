@@ -2684,8 +2684,8 @@
       "@type": "Claim",
       "@id": "C-5533",
       "ref": "C-5533",
-      "label": "Host Says Pastors Like Rob McCoy Rehabilitate Pedophiles While Telling Followers to Unfollow Tucker",
-      "claim": "The host says pastors like Rob McCoy are constantly trying to rehabilitate pedophiles and then tell people that to be saved they just have to unfollow Tucker Carlson on Twitter.",
+      "label": "Coleman Says Pastors Like Rob McCoy Rehabilitate Pedophiles While Telling Followers to Unfollow Tucker",
+      "claim": "Baron Coleman says pastors like Rob McCoy are constantly trying to rehabilitate pedophiles and then tell people that to be saved they just have to unfollow Tucker Carlson on Twitter.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10139"
@@ -2695,7 +2695,7 @@
       "investigative_direction": "Ask for the specific cases and sermons; the host's framing is hyperbolic, so look for documented McCoy statements on offenders and Tucker Carlson.",
       "transcript_snippet": "We've got these pastors like Rob McCoy constantly trying to rehabilitate pedophiles and then they'll look at you dead in the face and be like hey if you want to be saved just got to unfollow Tucker Carlson on Twitter.",
       "mentions_person_refs": [
-        "N-3",
+        "N-331",
         "N-17",
         "N-22"
       ]

@@ -93,7 +93,7 @@
           "@type": "Artifact",
           "@id": "A-2008.3",
           "ref": "A-2008.3",
-          "description": "Sarah Sidner (CNN) clip of Erika Kirk saying \"I just want to go home\"",
+          "description": "Sara Sidner (CNN) clip of Erika Kirk saying \"I just want to go home\"",
           "related_claims": [
             "C-2793"
           ],
@@ -651,9 +651,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10638",
       "ref": "N-10638",
-      "name": "Sarah Sidner Original Video Source Verification",
+      "name": "Sara Sidner Original Video Source Verification",
       "type": "investigation_target",
-      "description": "Unresolved question of whether Sarah Sidner personally recorded the Erika Kirk \"I just want to go home\" clip or obtained it from another source.",
+      "description": "Unresolved question of whether Sara Sidner personally recorded the Erika Kirk \"I just want to go home\" clip or obtained it from another source.",
       "related_artifacts": [
         "A-2008.3"
       ],
@@ -1125,7 +1125,7 @@
       "@type": "Person",
       "@id": "N-371",
       "ref": "N-371",
-      "name": "Sarah Sidner",
+      "name": "Sara Sidner",
       "type": "person",
       "description": "CNN reporter; per the host (31:35), first shared the clip of Erika Kirk saying \"I just want to go home.\" The host could not confirm she recorded it herself.",
       "related_artifacts": [
@@ -1903,8 +1903,8 @@
       "@type": "Claim",
       "@id": "C-2793",
       "ref": "C-2793",
-      "label": "Sarah Sidner first shared clip of Erika Kirk \"I just want to go home\"",
-      "claim": "The original public clip of Erika Kirk's \"I just want to go home\" remark was first shared by CNN's Sarah Sidner.",
+      "label": "Sara Sidner first shared clip of Erika Kirk \"I just want to go home\"",
+      "claim": "The original public clip of Erika Kirk's \"I just want to go home\" remark was first shared by CNN's Sara Sidner.",
       "anchored_artifacts": [
         "A-2008.3"
       ],
@@ -1924,7 +1924,7 @@
       "@id": "C-3745",
       "ref": "C-3745",
       "label": "Host offers a $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip",
-      "claim": "After saying she could not confirm that Sarah Sidner shot the Erika Kirk \"I just want to go home\" clip, the host offers $10,000, with source protection, to anyone who has footage from the opposite side of the corridor showing the person who recorded it, and directs tips to candaceowens.com.",
+      "claim": "After saying she could not confirm that Sara Sidner shot the Erika Kirk \"I just want to go home\" clip, the host offers $10,000, with source protection, to anyone who has footage from the opposite side of the corridor showing the person who recorded it, and directs tips to candaceowens.com.",
       "anchored_artifacts": [
         "A-2008.5"
       ],
@@ -2038,7 +2038,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:42:09",
-      "investigative_direction": "Cross-reference against the Sarah Sidner footage and other journalist videos; verify the timing of any \"active shooter\" declaration.",
+      "investigative_direction": "Cross-reference against the Sara Sidner footage and other journalist videos; verify the timing of any \"active shooter\" declaration.",
       "mentions_person_refs": [
         "N-2"
       ]

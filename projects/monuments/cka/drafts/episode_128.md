@@ -2271,16 +2271,16 @@ Investigative Direction: Identify who first said the door was open because of Ki
 
 ---
 
-**C-14762** Host Says Turek Spoke for Three Hours on the Shawn Ryan Show
+**C-14762** Host Says Harpole Spoke for Three Hours on the Shawn Ryan Show
 
 Claim Timestamp: 00:35:18
 
-Claim: The host says Frank Turek spoke for three hours on the Shawn Ryan Show.
+Claim: The host tells Frank Turek the lawsuit cannot stop Brian Harpole from speaking, since he spoke for three hours on the Shawn Ryan Show.
 
 Transcript Snippet: You just spoke for 3 hours on the Shawn Ryan show.
 
 Anchored Artifacts: A-2161.1
-Mentions: N-7, N-225
+Mentions: N-7, N-225, N-267
 Related Nodes: N-10681
 Tags: relevance:context
 Investigative Direction: Check the Shawn Ryan Show episode length and date.

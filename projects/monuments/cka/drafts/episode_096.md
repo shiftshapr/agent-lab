@@ -179,7 +179,7 @@ Confidence: high
 
 This episode addresses multiple converging controversies: a Truth Social post from President Trump labeling host Candace Owens "Time's Most Vile Person," the alleged driving role of Laura Loomer behind that attack, the recent White House Correspondents Dinner security incident, and Erika Kirk's pre-recorded video statement. The investigative material presented centers on the WHCD incident coverage, Erika Kirk's pre-recorded statement, and Andrew Kolvet's text message response.
 
-The episode advances several investigative questions: the source and authenticity of Erika Kirk's video statement (including its apparent scripting and the host's assertion that Blake Neff wrote it), the origin of the Sarah Sidner clip (the host explicitly notes she could not confirm Sidner recorded it), the full context of the text message exchange presented by Andrew Kolvet (the host publicly invites release of the entire chain), and the authorship of Trump's Truth Social post. The host offers a $10,000 bounty for footage showing the original recorder of the Erika Kirk clip.
+The episode advances several investigative questions: the source and authenticity of Erika Kirk's video statement (including its apparent scripting and the host's assertion that Blake Neff wrote it), the origin of the Sara Sidner clip (the host explicitly notes she could not confirm Sidner recorded it), the full context of the text message exchange presented by Andrew Kolvet (the host publicly invites release of the entire chain), and the authorship of Trump's Truth Social post. The host offers a $10,000 bounty for footage showing the original recorder of the Erika Kirk clip.
 
 Structurally, the episode functions as a biographical defense by the host and continues the running public dispute with Turning Point USA figures. The most evidentiary portions relate to the Erika Kirk statement and the text message controversy, both of which bear on the Charlie Kirk investigation record.
 
@@ -288,7 +288,7 @@ Confidence Level: High
 
 *Related: C-2792, N-10637, N-369, N-370*
 
-**A-2008.3** Sarah Sidner (CNN) clip of Erika Kirk saying "I just want to go home"
+**A-2008.3** Sara Sidner (CNN) clip of Erika Kirk saying "I just want to go home"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -505,7 +505,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-371** Sarah Sidner
+**N-371** Sara Sidner
 
 Node Type: Person
 
@@ -546,9 +546,9 @@ Investigative Pressure: Medium
 
 *Related: A-2008.1, A-2008.2, A-2008.4, C-2791, C-2792, C-2794*
 
-**N-10638** Sarah Sidner Original Video Source Verification
+**N-10638** Sara Sidner Original Video Source Verification
 
-Unresolved question of whether Sarah Sidner personally recorded the Erika Kirk "I just want to go home" clip or obtained it from another source.
+Unresolved question of whether Sara Sidner personally recorded the Erika Kirk "I just want to go home" clip or obtained it from another source.
 
 Evidence Count: 1
 Claim Count: 1
@@ -991,11 +991,11 @@ Mentions: N-369, N-370
 Related Nodes: N-10637
 Investigative Direction: Pull Evan Hill's X post directly; verify Washington Post's review of footage; cross-reference with official statements.
 
-**C-2793** Sarah Sidner first shared clip of Erika Kirk "I just want to go home"
+**C-2793** Sara Sidner first shared clip of Erika Kirk "I just want to go home"
 
 Claim Timestamp: 00:31:35
 
-Claim: The original public clip of Erika Kirk's "I just want to go home" remark was first shared by CNN's Sarah Sidner.
+Claim: The original public clip of Erika Kirk's "I just want to go home" remark was first shared by CNN's Sara Sidner.
 
 Anchored Artifacts: A-2008.3
 Mentions: N-2, N-371
@@ -1006,7 +1006,7 @@ Investigative Direction: Confirm via Sidner's public posts or CNN's records; the
 
 Claim Timestamp: 00:32:25
 
-Claim: After saying she could not confirm that Sarah Sidner shot the Erika Kirk "I just want to go home" clip, the host offers $10,000, with source protection, to anyone who has footage from the opposite side of the corridor showing the person who recorded it, and directs tips to candaceowens.com.
+Claim: After saying she could not confirm that Sara Sidner shot the Erika Kirk "I just want to go home" clip, the host offers $10,000, with source protection, to anyone who has footage from the opposite side of the corridor showing the person who recorded it, and directs tips to candaceowens.com.
 
 Transcript Snippet: I will offer $10,000 to somebody who has the opposite side footage.
 
@@ -1068,7 +1068,7 @@ Claim: In a pre-recorded statement the host plays, Erika Kirk criticizes journal
 Anchored Artifacts: A-2009.2
 Mentions: N-2
 Related Nodes: N-10639
-Investigative Direction: Cross-reference against the Sarah Sidner footage and other journalist videos; verify the timing of any "active shooter" declaration.
+Investigative Direction: Cross-reference against the Sara Sidner footage and other journalist videos; verify the timing of any "active shooter" declaration.
 
 **C-2799** Erika Kirk criticized Jimmy Kimmel's Melania joke
 
@@ -2282,6 +2282,6 @@ Investigative Direction: Public schedule of Pope Leo XIV audiences versus the ho
 - **Name uncertainty**: "Karoline Leavitt" appears in transcript at ~41:21; likely refers to White House Press Secretary Karoline Leavitt (N-281).
 - **Possible transcription error**: "Cole Allen" appears as the WHCD suspect name; verify spelling against official arrest records and court filings.
 - **Transcript ambiguity**: "Drewski" is name-dropped by Erika Kirk in the pre-recorded statement (~47:25); identity and relevance not clarified in the episode.
-- **Requires human verification**: Sarah Sidner's role as original recorder of the Erika Kirk clip (host explicitly states she could not confirm via Instagram, Twitter, or text outreach).
+- **Requires human verification**: Sara Sidner's role as original recorder of the Erika Kirk clip (host explicitly states she could not confirm via Instagram, Twitter, or text outreach).
 - **Artifact verbally referenced but not displayed in full**: Multiple Laura Loomer tweets are read aloud in the episode; full visual capture not confirmed.
 - **Claim failed admission test**: Host assertions not artifact-anchored in this episode include – (1) Trump's tweet was the fourth attack on Candace in two weeks, (2) Susie Wiles opposed the Truth Social post, (3) Charlie Kirk never attended the White House Correspondents Dinner, (4) Laura Loomer has blackmail on Trump, (5) the Trump Truth Social tweet was driven by Laura Loomer's demands.

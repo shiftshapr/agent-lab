@@ -44,7 +44,7 @@ Well, well, well, my friends, seek and you shall find. You shall find fakeness a
 
 [02:50]
 
-But something else happened. So, to jog your memory, the shooting took place at 8:36 p. m. Eastern. Okay, that's when the Secret Service began firing at one another. who we've since learned. Uh then at 9:25 p. m., so a little under an hour later, Sarah Sidner, you will recall, of CNN, uh she became the first person on social media to upload the now infamous I I want to go home video, Erika Kirk. Um and we can show you that that's when she uploaded it. There is a tool where you can look at the metadata of Instagram posts. She posted it onto Instagram. Here it is. Um, in the corner there, it it will tell you that she posted it at 1:25 and you are looking at universal time. Okay, so 1:25 a. m. universal time, uh, that is 9:25 p. m. Eastern time. Okay.
+But something else happened. So, to jog your memory, the shooting took place at 8:36 p. m. Eastern. Okay, that's when the Secret Service began firing at one another. who we've since learned. Uh then at 9:25 p. m., so a little under an hour later, Sara Sidner, you will recall, of CNN, uh she became the first person on social media to upload the now infamous I I want to go home video, Erika Kirk. Um and we can show you that that's when she uploaded it. There is a tool where you can look at the metadata of Instagram posts. She posted it onto Instagram. Here it is. Um, in the corner there, it it will tell you that she posted it at 1:25 and you are looking at universal time. Okay, so 1:25 a. m. universal time, uh, that is 9:25 p. m. Eastern time. Okay.
 
 [03:53]
 

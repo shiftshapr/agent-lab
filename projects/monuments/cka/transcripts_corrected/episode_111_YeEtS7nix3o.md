@@ -206,7 +206,7 @@ Um some Erika immediately going on tour uh with the church Harvest Church Greg L
 
 [41:37]
 
-They resent it. Um and it doesn't matter how many uh Bible verses you spit out, people can see through this grift. Which brings us to Dana Lash, the one who just said you can't go to Russia, and Candace is working with Putin and Dugan. She doesn't care about the truth. It doesn't matter at all. But, this is this was the speech that she gave. And like I said, this is the new direction of Turning Point USA. Holier than thou. Take a listen. >> I said last year at this very event, that men and women, when choosing your spouse, your husband or wife, pick someone that you can go into battle with. And my God in heaven, how this became true just a few months later. So, allow me to step out very boldly right now.
+They resent it. Um and it doesn't matter how many uh Bible verses you spit out, people can see through this grift. Which brings us to Dana Loesch, the one who just said you can't go to Russia, and Candace is working with Putin and Dugan. She doesn't care about the truth. It doesn't matter at all. But, this is this was the speech that she gave. And like I said, this is the new direction of Turning Point USA. Holier than thou. Take a listen. >> I said last year at this very event, that men and women, when choosing your spouse, your husband or wife, pick someone that you can go into battle with. And my God in heaven, how this became true just a few months later. So, allow me to step out very boldly right now.
 
 [42:28]
 
