@@ -1397,7 +1397,7 @@
       "tags": [],
       "claim_timestamp": "00:04:55",
       "investigative_direction": "Ask the named recipients or their press offices to confirm receipt of the 9:49 p.m. email.",
-      "transcript_snippet": "Uh Steven Cheung was copied on the email. Um, Ryan Ripian was copied on the email and gentleman named Gustav Anderly was copied on the email.",
+      "transcript_snippet": "Uh Steven Cheung was copied on the email. Um, Ryan Rippeon was copied on the email and gentleman named Gustav Anderly was copied on the email.",
       "mentions_person_refs": [
         "N-161",
         "N-623",
@@ -1489,7 +1489,7 @@
       "@id": "C-4074",
       "ref": "C-4074",
       "label": "White House Military Office tried to recall the email, which failed or came too late",
-      "claim": "The host speculates that the White House Military Office panicked because too many people were on the email and attempted to recall it, but the recall did not work or worked too late.",
+      "claim": "The host says the White House Military Office panicked because too many people were on the email and attempted to recall it, but the recall did not work or worked too late.",
       "anchored_artifacts": [
         "A-2574.2"
       ],
@@ -1556,8 +1556,7 @@
       "transcript_snippet": "we learned another totally wacky story um from our tips line that we were able to verify because they provided receipts.",
       "mentions_person_refs": [
         "N-15",
-        "N-3",
-        "N-1"
+        "N-3"
       ]
     },
     {
@@ -1680,7 +1679,8 @@
       "transcript_snippet": "Turning Point Action is headed up by Tyler Bowyer and we have already explained to you that they have built that super feed back door which pays Lori Frantzve, Erika Kirk's mom.",
       "mentions_person_refs": [
         "N-11",
-        "N-490"
+        "N-490",
+        "N-2"
       ]
     },
     {
@@ -1732,7 +1732,7 @@
       "@id": "C-4086",
       "ref": "C-4086",
       "label": "Streiff sought to at least double the \"Stop in the Name of God\" print order",
-      "claim": "The host says that hours after Charlie Kirk died, Streiff allegedly told the printer they would need to at least double a previously planned order of roughly 25,000–50,000 copies of Charlie's upcoming book \"Stop in the Name of God.\"",
+      "claim": "The host says that hours after Charlie Kirk died, Streiff allegedly told the printer they would need to at least double a previously planned order of, she thinks, roughly 25,000–50,000 copies of Charlie's upcoming book \"Stop in the Name of God.\"",
       "anchored_artifacts": [
         "A-2576.1"
       ],
@@ -1745,7 +1745,6 @@
       "transcript_snippet": "Justin Streiff allegedly apparently reached out to the printer and said that uh let's order some more books. I'm going to ask Erika and I'm and I'll call you back but we're going to need to at least double that order.",
       "mentions_person_refs": [
         "N-15",
-        "N-2",
         "N-1"
       ]
     },
@@ -1753,7 +1752,7 @@
       "@type": "Claim",
       "@id": "C-4087",
       "ref": "C-4087",
-      "label": "Erika Kirk approved the larger order on the day of the assassination",
+      "label": "Streiff Allegedly Got Erika Kirk's Approval for the Larger Order",
       "claim": "The host says Streiff allegedly got Erika Kirk's permission and immediately told the printer \"it's a go.\"",
       "anchored_artifacts": [
         "A-2576.1"
@@ -1928,8 +1927,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-16",
-        "N-1"
+        "N-16"
       ]
     },
     {

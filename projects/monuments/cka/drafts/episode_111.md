@@ -824,7 +824,7 @@ Claim: The host says that on their second day in Russia the family's American fo
 Transcript Snippet: our American um military person had had collapsed at breakfast and he sort of said, "Look, he's okay.
 
 Anchored Artifacts:
-Mentions: N-3, N-30
+Mentions: N-3
 Investigative Direction: Obtain the paramedic call record and hospital admission record (with family consent).
 
 ---
@@ -1257,7 +1257,7 @@ Investigative Direction: Check White House visitor logs for Alex Clark and the t
 
 Claim Timestamp: 00:51:07
 
-Claim: The host says Alex Clark went after Aubrey, who used to work for Andrew Kolvet, by calling her husband weird and sharing a private correspondence with Charlie Kirk, and then posted that he was "catching strays."
+Claim: The host says Alex Clark went after Aubrey, who used to work for Andrew Kolvet, by calling her husband weird and sharing a private correspondence with Charlie Kirk, and that Clark then wrote, "I'm so sorry to the boyfriend now fiance for catching strays here."
 
 Transcript Snippet: describing her husband as weird sharing a private correspondence with Charlie just to hurt her
 
@@ -1436,7 +1436,7 @@ Investigative Direction: Full Aspen presentation recording and attendance record
 
 Claim Timestamp: 01:04:20
 
-Claim: The host says Tyler Bowyer sat to Charlie Kirk's left in the Aspen presentation and was called out repeatedly, making him the likelier successor.
+Claim: The host says Tyler Bowyer sat to Charlie Kirk's left in the Aspen presentation and was called out repeatedly, and that if anyone seemed someone Charlie maybe thought could take over TPUSA, it would have been Bowyer.
 
 Transcript Snippet: it would have been Tyler Bowyer who is to his left and who he calls out repeatedly throughout this presentation.
 
@@ -1492,7 +1492,7 @@ Investigative Direction: The email thread and any official TPUSA reply.
 
 ---
 
-**C-4376** Host messaged Kolvet, Streif and TPUSA's lawyer; the reply came from the TPUSA X account
+**C-4376** Host Messaged Kolvet, Streiff and TPUSA's Lawyer; the Reply Came From the TPUSA X Account
 
 Claim Timestamp: 01:06:42
 

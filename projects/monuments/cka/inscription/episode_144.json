@@ -43,7 +43,7 @@
           "@type": "Artifact",
           "@id": "A-2301.2",
           "ref": "A-2301.2",
-          "description": "Footage: Terryl showing his laptop screen to Philip Goldsbury at the crime scene",
+          "description": "Footage: Terryl showing his laptop screen to Philip Goldsberry at the crime scene",
           "related_claims": [
             "C-3314"
           ],
@@ -554,7 +554,7 @@
       "ref": "N-10812",
       "name": "Terryl Farnsworth Evidence-Handling Question",
       "type": "investigation_target",
-      "description": "Persistent target concerning Terryl's stated intent, sequence of actions, and consultation with Philip Goldsbury in the immediate aftermath of the shooting.",
+      "description": "Persistent target concerning Terryl's stated intent, sequence of actions, and consultation with Philip Goldsberry in the immediate aftermath of the shooting.",
       "related_artifacts": [
         "A-2301.1",
         "A-2301.2"
@@ -1558,8 +1558,8 @@
       "@type": "Claim",
       "@id": "C-3314",
       "ref": "C-3314",
-      "label": "Host Says Footage Shows Terryl Showing Laptop Content to Philip Goldsbury Shortly After the Shooting",
-      "claim": "The host says the episode footage shows Terryl Farnsworth displaying content on his laptop screen to Philip Goldsbury approximately 10 minutes after Charlie Kirk was hit.",
+      "label": "Host Says Footage Shows Terryl Showing Laptop Content to Philip Goldsberry Shortly After the Shooting",
+      "claim": "The host says the episode footage shows Terryl Farnsworth displaying content on his laptop screen to Philip Goldsberry approximately 10 minutes after Charlie Kirk was hit.",
       "anchored_artifacts": [
         "A-2301.2"
       ],
@@ -1568,10 +1568,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:00–00:04:10",
-      "investigative_direction": "Identify and interview Philip Goldsbury regarding the content shown; obtain his contemporaneous account.",
+      "investigative_direction": "Identify and interview Philip Goldsberry regarding the content shown; obtain his contemporaneous account.",
       "mentions_person_refs": [
         "N-262",
-        "N-1"
+        "N-1",
+        "N-688"
       ]
     },
     {
@@ -1579,7 +1580,7 @@
       "@id": "C-3315",
       "ref": "C-3315",
       "label": "In Clip Host Plays, Ana Kasparian Says Terryl Never Provided the Original SD Card to Investigators",
-      "claim": "In a clip the host plays, Ana Kasparian says, based on David Hull's preliminary-hearing testimony, that Terryl Farnsworth did not provide the original SD card to investigators, only Google links and a flash drive.",
+      "claim": "In a clip the host plays, Ana Kasparian says, based on preliminary-hearing testimony, that Terryl Farnsworth did not provide the original SD card to investigators, only Google links and a flash drive.",
       "anchored_artifacts": [
         "A-2302.1",
         "A-2304.1"
@@ -1592,8 +1593,7 @@
       "investigative_direction": "Confirm SD-card disposition against official evidence logs; subpoena physical media if it exists.",
       "mentions_person_refs": [
         "N-262",
-        "N-204",
-        "N-570"
+        "N-204"
       ]
     },
     {
@@ -1619,8 +1619,8 @@
       "@type": "Claim",
       "@id": "C-3317",
       "ref": "C-3317",
-      "label": "Mark Bricker testified the Utah County Attorney's Office created the 20-minute sizzle reel",
-      "claim": "SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office, not he, created the 20-minute sizzle reel shown in court.",
+      "label": "Host Says Hearing Testimony Named the Utah County Attorney's Office as Maker of the Sizzle Reel",
+      "claim": "The host says a witness at the preliminary hearing testified that the Utah County Attorney's Office created the 20-minute sizzle reel, and in a clip she plays the witness says he did not prepare the video compilation and that the Utah County Attorney's Office did.",
       "anchored_artifacts": [
         "A-2304.2"
       ],
@@ -1632,7 +1632,7 @@
       "claim_timestamp": "00:18:30–00:19:30",
       "investigative_direction": "Obtain Bricker's full preliminary-hearing testimony; request the prosecution's production logs and version history for the sizzle reel.",
       "mentions_person_refs": [
-        "N-581"
+        "N-3"
       ]
     },
     {
@@ -1729,7 +1729,7 @@
       "@id": "C-3323",
       "ref": "C-3323",
       "label": "Charlie Kirk stated in November 2023 that Candace is \"on our team\"",
-      "claim": "A November 2023 clip of Charlie Kirk shows him saying Candace is \"on our team\" and telling a critic asking about her AmFest appearance to \"lose my number.\"",
+      "claim": "In a clip the host plays and dates to November 2023, Charlie Kirk says Candace is \"on our team\" and that he told a critic asking about her AmFest appearance to \"lose my number.\"",
       "anchored_artifacts": [
         "A-2307.1"
       ],
@@ -1746,7 +1746,7 @@
       "@id": "C-3324",
       "ref": "C-3324",
       "label": "Andrew Kolvet briefed Candace on Bill Ackman summit, BB Netanyahu letter, and Charlie's texts to Dan Flood",
-      "claim": "Text messages and calls between Candace and Andrew Kolvet from September 11–14, 2025 show Kolvet briefing Candace on the Bill Ackman summit, the BB Netanyahu letter, and Charlie Kirk's text messages to Dan Flood the night before.",
+      "claim": "The host says that in phone conversations around September 12-14, 2025, Andrew Kolvet told her about the Bill Ackman summit, Benjamin Netanyahu's letter, and Charlie Kirk's text messages to Dan Flood and Kolvet the night before; she shows a call log and text messages.",
       "anchored_artifacts": [
         "A-2308.1",
         "A-2308.2"
@@ -1755,7 +1755,7 @@
         "N-10813"
       ],
       "tags": [],
-      "claim_timestamp": "00:51:00–00:54:00",
+      "claim_timestamp": "00:50:35",
       "investigative_direction": "Preserve the original text-message exports with metadata; obtain contemporaneous corroboration from other TPUSA insiders if available.",
       "mentions_person_refs": [
         "N-14",
@@ -1795,7 +1795,7 @@
       "@type": "Claim",
       "@id": "C-3325",
       "ref": "C-3325",
-      "label": "Kolvet told Candace on September 14, 2025 that the TPUSA board had voted in Erika Kirk",
+      "label": "Host Says Kolvet Told Her on September 14, 2025 That the TPUSA Board Had Voted In Erika Kirk",
       "claim": "The host says that on September 14, 2025 Andrew Kolvet told her the TPUSA board had already voted in Erika Kirk, said not to say it yet, and that it was not being announced publicly.",
       "anchored_artifacts": [
         "A-2308.1",
@@ -1805,7 +1805,7 @@
         "N-10813"
       ],
       "tags": [],
-      "claim_timestamp": "00:51:00–00:54:00",
+      "claim_timestamp": "00:53:15",
       "investigative_direction": "Cross-reference with TPUSA corporate filings, board minutes, and Erika Kirk's public statements around the leadership transition.",
       "mentions_person_refs": [
         "N-2",
@@ -1907,7 +1907,6 @@
       "investigative_direction": "Check the quoted wording against the current Utah evidence-tampering statute and its felony grading.",
       "transcript_snippet": "altering, destroying, concealing, or removing a thing or item with the purpose of impairing its veracity or availability of the thing or item in the proceeding or investigation.",
       "mentions_person_refs": [
-        "N-262",
         "N-3"
       ]
     },
@@ -2698,7 +2697,7 @@
       "@id": "C-6133",
       "ref": "C-6133",
       "label": "Host Says Neff's Cited Clip Is Charlie Discussing Their Friendship in November 2023",
-      "claim": "The host says the clip Neff refers to is Charlie Kirk discussing their friendship in November 2023.",
+      "claim": "The host says the clip of Blake Neff mentioned on the Kolvet/Neff show is Charlie Kirk discussing their friendship in November 2023.",
       "anchored_artifacts": [
         "A-2307.1"
       ],
@@ -2830,7 +2829,7 @@
       "@id": "C-6139",
       "ref": "C-6139",
       "label": "Kolvet Says She Cancelled an Event the Day Before and Went to France With Kanye",
-      "claim": "Andrew Kolvet says the host canceled a TPUSA event the day before, that the event team had to scramble to replace her, and that she ended up in like France with Kanye or something the next day.",
+      "claim": "Andrew Kolvet says he thinks the host canceled a TPUSA event the day before, that the event team had to scramble to replace her, and that she ended up in like France with Kanye or something the next day.",
       "anchored_artifacts": [
         "A-2800.1"
       ],
@@ -2885,8 +2884,7 @@
       "investigative_direction": "Match photos of the trip with the date of the TPUSA event she cancelled.",
       "transcript_snippet": "Everyone remembers the moment that I went to France and I wore the White Lives Matter t-shirt.",
       "mentions_person_refs": [
-        "N-3",
-        "N-27"
+        "N-3"
       ]
     },
     {
@@ -3012,7 +3010,7 @@
       "@id": "C-6148",
       "ref": "C-6148",
       "label": "Host Says She Rejected the Idea That Shapiro Wanted to Take Over TPUSA",
-      "claim": "The host says she said early on that the idea that Ben Shapiro wants to take over Turning Point USA because he said to pick up the mic is wrong, and that this is on record.",
+      "claim": "The host says she said early on that the idea that Ben Shapiro wants to take over Turning Point USA because he said to pick up the mic is wrong, that this is on record, and that she now has a different opinion.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10386"

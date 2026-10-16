@@ -1016,10 +1016,10 @@ Investigative Direction: Verify the existence and timestamps of the four Google 
 
 Claim Timestamp: 00:04:56
 
-Claim: Farnsworth told the host on or about September 18 that he feared Google would hack him, despite having transmitted footage via Google Drive eight days earlier.
+Claim: The host says Farnsworth told her on September 18 that he feared Google would hack him, though per SBI agent David Hull's testimony he had sent footage via a Google link eight days earlier.
 
 Anchored Artifacts: A-2284.1
-Mentions: N-262
+Mentions: N-3, N-262, N-570
 
 Related Nodes: N-10797
 
@@ -1034,7 +1034,7 @@ Claim Timestamp: 00:12:35
 Claim: SBI Agent David Hull testified that Farnsworth originally provided, he believed, a flash drive to Lieutenant O'Brien, then downloadable electronic versions to Agent Mortonson on September 10, with the 1102 collected later on May 6, 2026 – not the SD card. The host describes these as Google links.
 
 Anchored Artifacts: A-2285.1
-Mentions: N-570
+Mentions: N-570, N-262
 
 Related Nodes: N-10798
 
@@ -1069,7 +1069,7 @@ Related Nodes: N-10162
 
 Investigative Direction: Obtain full Tucker Carlson interview segment; identify whether the SD cards referenced match the singular SD card observed being removed.
 
-**C-3743** Andrew Kolvet is the 'Kolvet' of C-3294 (revises C-3294)
+**C-3743** Speaker in C-3294 Is Andrew Kolvet
 
 Claim Timestamp: 00:15:13
 
@@ -1093,6 +1093,7 @@ Claim Timestamp: 00:17:08
 Claim: Per Farnsworth's 1102 statement the host reads, clip 80704 is, 'from what I can see,' 'a true and correct representation of a portion of the larger files previously sent to SBI'; the host argues this shows only the back-camera footage was clipped, though she is not sure whether Farnsworth or SBI clipped it.
 
 Anchored Artifacts: A-2284.2
+Mentions: N-262
 
 Related Nodes: N-10800
 
@@ -1107,6 +1108,7 @@ Claim Timestamp: 00:22:25
 Claim: The host says newly released footage shows Farnsworth looking around nervously, putting the SD card in his pocket and zipping it, then taking out his phone and texting with someone instead of going to the other cameras.
 
 Anchored Artifacts: A-2288.1
+Mentions: N-3, N-262
 
 Related Nodes: N-10801
 
@@ -1166,6 +1168,7 @@ Claim Timestamp: 00:21:20
 Claim: The host claims she has known since October what Farnsworth did after removing the camera, and is now publicly releasing the footage.
 
 Anchored Artifacts: A-2288.1
+Mentions: N-3, N-262
 
 Related Nodes: N-10801
 
@@ -1173,11 +1176,11 @@ Investigative Direction: Identify the source from whom the host obtained the foo
 
 ---
 
-**C-3301** Host Concurs with Zamut and Golf/Cadence Comments Praising Her Work
+**C-3301** Host Reads Zamut Comment Calling Her Burden a Blessing
 
 Claim Timestamp: 00:50:15
 
-Claim: The host expresses agreement with comments framing her investigation as a "blessing" and complimenting her music taste.
+Claim: The host reads a comment from Zamut saying, "A burden bestowed on Candace Owens is a blessing to us all," and says, "It's very funny."
 
 Anchored Artifacts: A-2293.6, A-2293.9
 
@@ -1392,7 +1395,7 @@ Claim: The host says Farnsworth finally showed her non-graphic footage from the 
 Transcript Snippet: Terl Farnsworth when he finally did show me the completely non-graphic footage from behind Charlie's head presented to me what appeared to her to be a zoomedin shot from that camera
 
 Anchored Artifacts: A-2286.1
-Mentions: N-3, N-262
+Mentions: N-3, N-262, N-1
 Related Nodes: N-10799
 Supports: C-3293
 Tags: relevance:core
@@ -1510,7 +1513,7 @@ Claim: The host says it is not clear whether Farnsworth or SBI clipped the foota
 Transcript Snippet: Like I said, we're not sure if Terl clipped it or if it was SBI that clipped it. We do know that Terryl was the first to touch that footage
 
 Anchored Artifacts: A-2284.2
-Mentions: N-262
+Mentions: N-262, N-1
 Related Nodes: N-10800
 Supports: C-3295
 Tags: relevance:core
@@ -1537,12 +1540,12 @@ Investigative Direction: Obtain the preliminary-hearing transcript for exhibits 
 
 Claim Timestamp: 00:19:36
 
-Claim: The host says it is plausible that the only reason to cut a separate clip from the rear camera is that the footage was zoomed in, since zooming would require creating a new clip. She says she is speculating.
+Claim: The host says it is plausible that the only reason to cut a separate clip from the rear camera is that the footage was zoomed in, since zooming would require creating a new clip.
 
 Transcript Snippet: It's plausible that the only reason they would have to clip that out is because it was zoomed in.
 
 Anchored Artifacts: A-2284.2
-Mentions: N-262
+Mentions: N-3
 Related Nodes: N-10800, N-10799
 Supports: C-3295
 Tags: relevance:core
@@ -1559,7 +1562,7 @@ Claim: The host says Farnsworth did not instantly grab all the SD cards but only
 Transcript Snippet: because he did not instantly grab all of the SD cards. He grabbed that one and he did it nervously.
 
 Anchored Artifacts: A-2284.2
-Mentions: N-262
+Mentions: N-262, N-1
 Related Nodes: N-10100, N-10162
 Supports: C-6475
 Tags: relevance:core
@@ -1661,7 +1664,7 @@ Claim: The host says defense attorney Kathy Nester (transcribed Netor) asked que
 Transcript Snippet: The questions that Kathy Netor asked thereafter um things that she asserted about they don't know whether or not that footage was edited.
 
 Anchored Artifacts: 
-Mentions: N-262, N-830
+Mentions: N-830
 Related Nodes: N-10810
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary-hearing transcript for Nester's questions about editing of the Visual Impulse footage.
@@ -1709,7 +1712,7 @@ Claim: The host says the FBI is allowed to assist under the law but does not hav
 Transcript Snippet: The FBI under the law is allowed to assist, but they don't have jurisdiction over the crime over the state.
 
 Anchored Artifacts: 
-Mentions: N-262
+Mentions: N-3
 Related Nodes: N-10802, N-10014
 Supports: C-3297
 Tags: relevance:core
@@ -1717,16 +1720,16 @@ Investigative Direction: Obtain the written agreement or request under which the
 
 ---
 
-**C-9186** Host Says TPUSA Partners Have Published Details of Her Children's Cars
+**C-9186** Host Says Kolvet and Erika Kirk Are Partnering With People Publishing Her Children's Cars
 
 Claim Timestamp: 00:30:05
 
-Claim: The host says people partnering with TPUSA have been publishing things about her children's cars and the vehicles they travel in, and asks TPUSA to stop.
+Claim: The host says Andrew and Erika in particular are starting to partner with people who are publishing things about her children's cars and the vehicles they travel in, and asks them to stop.
 
 Transcript Snippet: torment us, publishing things about my children's cars and the vehicles that they travel in.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2
+Mentions: N-3, N-2, N-14
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Identify the posts publishing the vehicle details and any link between their authors and TPUSA.
@@ -1808,7 +1811,7 @@ Claim: The host says that, as she said before, they were intentionally trying to
 Transcript Snippet: Uh but as I said as um they were intentionally trying to trip me into a lawsuit. You can see they're all salivating for me to be sued.
 
 Anchored Artifacts: 
-Mentions: N-3, N-18
+Mentions: N-3
 Related Nodes: N-10000, N-11066
 Tags: relevance:context
 Investigative Direction: Review the debate agreement, the questions put to her and any legal communications around the debate for evidence of an intent to provoke a suit.
@@ -1969,7 +1972,7 @@ Claim: The host says that when TPUSA finally shared some daylight, it chose Andr
 Transcript Snippet: you pick Andrew Wilson and you give him a text message. Never before seen, by the way.
 
 Anchored Artifacts: 
-Mentions: N-3, N-18, N-14
+Mentions: N-3, N-18
 Related Nodes: N-10795
 Tags: relevance:core
 Investigative Direction: Ask Wilson and TPUSA to release the text message and state its source and date.
@@ -2115,7 +2118,7 @@ Claim: The host says that when the denial backfired, TPUSA said there were messa
 Transcript Snippet: And then when it backfired, they were like, "Oh, no, there's messages, but like it says the left."
 
 Anchored Artifacts: 
-Mentions: N-2, N-14
+Mentions: N-3
 Related Nodes: N-10340
 Supports: C-1927
 Tags: relevance:core

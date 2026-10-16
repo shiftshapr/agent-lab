@@ -1352,11 +1352,11 @@ First named by the host at 01:11:03 in episode 157 as the Canyon County prosecut
 
 ---
 
-**N-756** Claire Ginan
+**N-756** Claire Guinan
 
 Node Type: Person
 First named by the host at 01:27:40 in episode 157 as the writer of a June 26 Jezebel article with no prior writing profile.
-Aliases (transcript spelling): Claire Ginan.
+Aliases (transcript spelling): Claire Guinan.
 
 *Related: C-6285*
 
@@ -1470,7 +1470,7 @@ Investigative Direction: Archive contemporaneous TPUSA / Erika statements on coo
 
 Claim Timestamp: 00:14:22
 
-Claim: The independent-review timeline states that on July 10, 2025, at the request of TPUSA field representative Maycee Crofts, the UVU club/president was told to request Charlie Kirk speak in the courtyard–characterized by the host as a reversal of normal TPUSA chapter event-request practice.
+Claim: The independent-review timeline states that on July 10, 2025, at the request of TPUSA's field representative (whom the host identifies as Maycee Crofts), the UVU club president was asked to request that Charlie Kirk speak in the courtyard, characterized by the host as a reversal of normal TPUSA chapter event-request practice.
 
 Anchored Artifacts: A-2451.2
 Mentions: N-8, N-1, N-10
@@ -1541,11 +1541,11 @@ Investigative Direction: FOIA/SIAC records for the tip text; correlate tip timin
 
 ---
 
-**C-3591** TPUSA withheld or delayed crowd/ticket data needed for UVUPD mutual-aid decisions
+**C-3591** TPUSA did not provide ticket totals to UVU police a week before the event
 
 Claim Timestamp: 00:25:32
 
-Claim: The review timeline as presented states that around T-minus-7 days TPUSA could not or did not provide ticket totals to campus police, and that Chief Long did not initiate mutual-aid requests partly because external resources were not requested in a context where TPUSA controlled registration/wristbands nationally.
+Claim: Per the review timeline the host reads, on September 3 (T-minus 7 days) Dan Flood told Chief Long that the national office was handling ticketing and ticket totals were not available; the host says the last figure Long had from Turning Point National was 600 people, so he could not prepare for the crowd.
 
 Anchored Artifacts: A-2455.1
 Mentions: N-271, N-272
@@ -1560,7 +1560,7 @@ Investigative Direction: Obtain ticket-platform export timestamps; compare to UV
 
 Claim Timestamp: 00:56:42
 
-Claim: Host claims Charlie Kirk’s July 2025 pressures (post–White House/BB confrontation and Instagram purge in June; Epstein-coverage walk-back ~July 14; Erika travel; formal UVU request July 18; sponsorship addendum July 25; Egyptian-plane movements; Hamptons retreat) form a suspicious concurrent backdrop to the July 10 HQ-driven UVU courtyard request.
+Claim: Host presents Charlie Kirk's July–August 2025 pressures (post–White House/BB confrontation and Instagram purge in June; Epstein-coverage walk-back July 14; Erika travel; formal UVU request July 18; sponsorship addendum July 25; Egyptian-plane movements; August Hamptons retreat) as a concurrent backdrop to the July 10 HQ-driven UVU courtyard request, saying something happened in July while noting some facts on her timeline may not be relevant.
 
 Anchored Artifacts: A-2456.1
 Mentions: N-1, N-2, N-36
@@ -1650,7 +1650,7 @@ Investigative Direction: Obtain UVU's engagement letter or contract with Lake Fo
 
 Claim Timestamp: 00:05:58
 
-Claim: The host reads that Dan Flood was identified as the person who coordinated security for the organization with Brian Harpole of Integrity Solutions and was present at UVU on September 10.
+Claim: The host reads that Dan Flood was identified as the person who coordinated security for the organization with Brian Harpole of Integrity Solutions, was present at UVU on September 10, and had phone and text communication with UVU police chief Jeff Long a few days before and the morning of the event.
 
 Transcript Snippet: Flood was was identified as the person who coordinated security for the organization with Brian Harpole of Integrity Solutions.
 
@@ -1846,7 +1846,7 @@ Investigative Direction: Obtain the club registration filing date and status his
 
 Claim Timestamp: 00:18:07
 
-Claim: The host reads that in response to UVU's questionnaire TPUSA said it expected 600 attendees, that TPUSA National handled registrations, and that TPUSA security reported no risk factor for safety or security.
+Claim: The host reads that in response to UVU's questionnaire TPUSA said it expected 600 attendees, that TPUSA National handled registrations, and that TPUSA offered to connect UVUPD with TPUSA security and said there was no risk factor for safety or security.
 
 Transcript Snippet: at that time in response to UVU's questionnaire, TPUSA told them it was going to be 600 attendees.
 
@@ -1911,7 +1911,7 @@ Claim: The host reads that not a single member of TPUSA's security attended the 
 Transcript Snippet: Guess who didn't attend this meeting? Not a single member of Turning Points Security attended this crucial meeting.
 
 Anchored Artifacts: A-2802.6
-Mentions: N-8
+Mentions: 
 Related Nodes: N-11077, N-10243
 Investigative Direction: Obtain the MEAC attendee list and confirm whether any TPUSA security representative was invited.
 
@@ -2072,7 +2072,7 @@ Investigative Direction: Obtain the September 8 messages and student group messa
 
 Claim Timestamp: 00:25:32
 
-Claim: The host says the Kirk family's recent filing reinforced the claim that the Dan Flood text communication was not about the canopy but more broadly about rooftops, which she calls a lie.
+Claim: The host says Brian Harpole told, and Erika Kirk and the Kirk family reinforced in a recent filing, the claim that the Dan Flood text communication was not about the canopy but more broadly about rooftops, which she calls a lie.
 
 Transcript Snippet: that this text communication between Dan Flood was not about the canopy but more broadly speaking was about rooftops
 
@@ -2215,7 +2215,7 @@ Claim: The host reads that between 11:20 and 11:30 officers dealt with protester
 Transcript Snippet: That's between 11:20 and 11:30 and that the protesters did move away and then the officers blocked them off with security tape
 
 Anchored Artifacts: A-2802.5
-Mentions: N-271
+Mentions: 
 Related Nodes: 
 Investigative Direction: Compare the review's protester timeline with video of the Hall of Flags walkway between 11:20 and 11:30.
 
@@ -2260,7 +2260,7 @@ Claim: The host reads that at the August 25 meeting UVU officials suggested alte
 Transcript Snippet: UVU officials suggested alternative locations such as the Fulton Library, the quad, or interior locations where access could be more effectively controlled.
 
 Anchored Artifacts: A-2802.6
-Mentions: N-8
+Mentions: 
 Related Nodes: N-11077, N-10243
 Supports: C-3587
 Investigative Direction: Obtain MEAC participant statements naming who proposed each alternative site.
@@ -2470,7 +2470,7 @@ Investigative Direction: Obtain the TPUSA video team's drone flight logs and FAA
 
 Claim Timestamp: 00:47:38
 
-Claim: The host reads the review's statement that if the team had concerns about the venue, a drone from the neighboring Orem Police Department could have been requested, and that it was not requested.
+Claim: The host reads the review's statement that if the team had concerns about the venue, a drone from the neighboring Orem Police Department could have been requested, and the host says it was not requested.
 
 Transcript Snippet: a drone from the neighboring Orem Police Department could have been requested.
 
@@ -2590,7 +2590,7 @@ Investigative Direction: Review UVU camera system access logs and dispatch staff
 
 Claim Timestamp: 00:51:54
 
-Claim: The host reads from the review that TPUSA never actually issued tickets and instead had attendees register for the event, handled by TPUSA National and not communicated to police.
+Claim: The host reads from the review that TPUSA never actually issued tickets, and says attendees instead registered for the event, handled by TPUSA National and not communicated to police.
 
 Transcript Snippet: we learned that Turning Point never actually issued any tickets
 
@@ -2801,7 +2801,7 @@ Investigative Direction: Obtain the recording or transcript of the speech at the
 
 Claim Timestamp: 01:02:14
 
-Claim: The host's timeline states that Egyptian planes came into Omaha, Nebraska, and then headed to Lincoln, Nebraska, in mid to late July.
+Claim: The host's timeline states that, after the July 18 entry, Egyptian planes came into Omaha, Nebraska, and then headed to Lincoln, Nebraska.
 
 Transcript Snippet: And then we have our Egyptian planes that come into Omaha, Nebraska, and then head to Lincoln, Nebraska.
 
@@ -2836,7 +2836,7 @@ Claim: The host says Yrefy came in as number one sponsor for a Charlie Kirk fall
 Transcript Snippet: he had already Wyi had already signed a contract in January which covered events through the end of the year.
 
 Anchored Artifacts: A-2456.1
-Mentions: N-19, N-1
+Mentions: N-1
 Related Nodes: N-10870
 Investigative Direction: Obtain the January sponsorship contract and the July 25 addendum.
 
@@ -3119,7 +3119,7 @@ Investigative Direction: Identify the news outlet and broadcast date of the clip
 
 **C-6270** Host says Erika Kirk is now visiting middle schools
 
-Claim Timestamp: 01:18:30
+Claim Timestamp: 01:19:25
 
 Claim: The host says Erika Kirk is currently doing the rounds at middle schools.
 
@@ -3163,7 +3163,7 @@ Investigative Direction: Verify the date and title of any Cipher promotion throu
 
 ---
 
-**C-6273** Host says Cipher has always been Tyler Bowyer's guy
+**C-6273** Host Says Andrew Sypher Has Always Been Tyler Bowyer's Guy
 
 Claim Timestamp: 01:20:39
 
@@ -3344,13 +3344,13 @@ Investigative Direction: Confirm the Operation Midnight Hammer date against publ
 
 ---
 
-**C-6285** Host says Claire Ginan wrote her first Jezebel article on June 26 with no prior writing profile
+**C-6285** Host says Claire Guinan wrote her first Jezebel article on June 26 with no prior writing profile
 
 Claim Timestamp: 01:27:40
 
-Claim: The host says that on June 26 Claire Ginan wrote her first article for Jezebel, that she would be the one to write the witch's curse article, and that she had no writing profile before that.
+Claim: The host says that on June 26 Claire Guinan wrote her first article for Jezebel, that she would be the one to write the witch's curse article, and that she had no writing profile before that.
 
-Transcript Snippet: on June 26th is when suddenly Claire Ginan writes her first article for Jezebel.
+Transcript Snippet: on June 26th is when suddenly Claire Guinan writes her first article for Jezebel.
 
 Anchored Artifacts: A-2456.1
 Mentions: N-756

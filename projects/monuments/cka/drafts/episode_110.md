@@ -67,7 +67,7 @@ Confidence Level: Medium
 
 **A-2076.2** Host's internal working timeline graphic (displayed on-screen, June–September 2025)
 
-Host states this is "my internal working timeline… not everything is necessarily a clue." Displayed dated entries include: June 2 (Wedad Makmoud aboard Egyptian plane to/from Provo; Tucson–Fort Huachuca flight training school); June 3 (Johnnie Moore announced as GHF chairman); June 4 (Charlie Kirk at Dream City); June 13 (Iran–Israel 12-day war); June 18 (Charlie Kirk enters White House); June 19 (Erika Kirk Instagram purge, 126 posts deleted); June 22 (Operation Midnight Hammer); June 25 (Hansell confirmation, mis-placed per host); June 26 (Israel–Iran war ends; Claire Ginan first Jezebel article; Etsy witch spell against Charlie Kirk); July 2 (Rob McCoy resignation); July 4 (FT Project Aurora article); July 11 (Tucker Carlson at TPUSA, calls out Epstein); July 14 (Erika Kirk at Calvary Chapel / James Kaddis); July 18 (TPUSA UVU submission); July 20 (Charlie Kirk vacations Maine); July 22 (Nebraska–Egypt trade trip); July 25 (Refi #1 sponsor); July 30 (Palantir $10B at Fort Huachuca); August 5–7 (Hamptons intervention); August 27 (Dhillon Law Group drafts Havas Media / Clock Tower LLC paperwork); September 9 (Charlie's messages and Zoom call with Josh Hammer and a rabbi).
+Host states this is "my internal working timeline… not everything is necessarily a clue." Displayed dated entries include: June 2 (Wedad Makmoud aboard Egyptian plane to/from Provo; Tucson–Fort Huachuca flight training school); June 3 (Johnnie Moore announced as GHF chairman); June 4 (Charlie Kirk at Dream City); June 13 (Iran–Israel 12-day war); June 18 (Charlie Kirk enters White House); June 19 (Erika Kirk Instagram purge, 126 posts deleted); June 22 (Operation Midnight Hammer); June 25 (Hansell confirmation, mis-placed per host); June 26 (Israel–Iran war ends; Claire Guinan first Jezebel article; Etsy witch spell against Charlie Kirk); July 2 (Rob McCoy resignation); July 4 (FT Project Aurora article); July 11 (Tucker Carlson at TPUSA, calls out Epstein); July 14 (Erika Kirk at Calvary Chapel / James Kaddis); July 18 (TPUSA UVU submission); July 20 (Charlie Kirk vacations Maine); July 22 (Nebraska–Egypt trade trip); July 25 (Refi #1 sponsor); July 30 (Palantir $10B at Fort Huachuca); August 5–7 (Hamptons intervention); August 27 (Dhillon Law Group drafts Havas Media / Clock Tower LLC paperwork); September 9 (Charlie's messages and Zoom call with Josh Hammer and a rabbi).
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -83,7 +83,7 @@ Confidence Level: Low (host-curated; no underlying documents shown for most entr
 
 **A-2077.1** Website article read aloud by host summarizing Financial Times reporting on BCG Project Aurora
 
-Host reads: "launched in late 2024. Project Aurora was originally framed as a pro bono feasibility study for the Gaza Humanitarian Foundation, a Geneva registered NGO created with backing from the US and Israeli security linked interests. Over 7 months, the project evolved into a fully build consulting contract reportedly worth $4 million… One proposed a voluntary departure plan. $9,000 in cash per person aimed at relocating around 500,000 Palestinians outside of the Gaza Strip. A second model lowered direct payments to $5,000, but added four years of subsidized housing and one year of food assistance… Total costs ranged from $2.5 to $5 billion… by April 2025, BCG's senior leadership claimed that they had issued some internal guidance to halt the project… two senior partners continued the project in defiance… Project continued through May of 2025 when the Financial Times story broke. In July, BCG quickly dismissed the two partners and launched an external audit. The CEO of BCG, Kristoff Schweizer, described the episode as reputationally very damaging."
+Host reads: "launched in late 2024. Project Aurora was originally framed as a pro bono feasibility study for the Gaza Humanitarian Foundation, a Geneva registered NGO created with backing from the US and Israeli security linked interests. Over 7 months, the project evolved into a fully build consulting contract reportedly worth $4 million… One proposed a voluntary departure plan. $9,000 in cash per person aimed at relocating around 500,000 Palestinians outside of the Gaza Strip. A second model lowered direct payments to $5,000, but added four years of subsidized housing and one year of food assistance… Total costs ranged from $2.5 to $5 billion… by April 2025, BCG's senior leadership claimed that they had issued some internal guidance to halt the project… two senior partners continued the project in defiance… Project continued through May of 2025 when the Financial Times story broke. In July, BCG quickly dismissed the two partners and launched an external audit. The CEO of BCG, Christoph Schweizer, described the episode as reputationally very damaging."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -312,7 +312,7 @@ First named by the host at 00:12:14 in episode 110. Aliases: Bradley Hansell, Br
 
 **N-435** Christoph Schweizer
 
-First named by the host at 00:18:28 in episode 110. Aliases: Kristoff Schweizer, Kristoff Schweiser.
+First named by the host at 00:18:28 in episode 110. Aliases: Christoph Schweizer, Kristoff Schweiser.
 
 *Related: C-2919, C-2920, C-2921, C-2922, C-2923, C-2932, C-2934*
 
@@ -622,7 +622,7 @@ Calvary Chapel pastor and head of the TPUSA faith department per the host.
 
 ---
 
-**N-756** Claire Ginan
+**N-756** Claire Guinan
 
 Jezebel writer the host links to the Etsy curse.
 
@@ -951,7 +951,7 @@ Investigative Direction: Verify BCG alumni records and LinkedIn-style biographie
 
 **C-2914** Project Aurora launched in late 2024 as a pro bono feasibility study for the Gaza Humanitarian Foundation
 
-Claim Timestamp: 00:16:40
+Claim Timestamp: 00:16:03
 
 Claim: Per the Financial Times reporting summarized on a website read by the host, Project Aurora was launched in late 2024 and was originally framed as a pro bono feasibility study for the Geneva-registered Gaza Humanitarian Foundation.
 
@@ -1035,11 +1035,11 @@ Investigative Direction: Confirm dismissals and audit via BCG press releases or 
 
 ---
 
-**C-2920** Kristoff Schweizer (BCG CEO) described Project Aurora as "reputationally very damaging"
+**C-2920** Christoph Schweizer (BCG CEO) described Project Aurora as "reputationally very damaging"
 
 Claim Timestamp: 00:18:30
 
-Claim: Per host reading, BCG CEO Kristoff Schweizer described the Project Aurora episode as "reputationally very damaging."
+Claim: Per host reading, BCG CEO Christoph Schweizer described the Project Aurora episode as "reputationally very damaging."
 
 Anchored Artifacts: A-2077.1
 Mentions: N-435
@@ -1113,7 +1113,7 @@ Investigative Direction: Identify primary outlet (host references "elsewhere"); 
 
 Claim Timestamp: 00:37:50
 
-Claim: Per NYT article, on June 16, 1968, Mitt Romney was driving a car in southern France that was hit head-on; H. Dwayne Anderson's wife Leola was killed.
+Claim: Per NYT article, on June 16, 1968, Mitt Romney was driving a car in southern France that was hit head-on; H. Duane Anderson's wife Leola was killed.
 
 Anchored Artifacts: A-2081.1
 Mentions: N-28, N-449
@@ -1229,7 +1229,7 @@ Investigative Direction: Verify Orbis involvement via FT reporting or leaked BCG
 
 ---
 
-**C-2933** Orbis prepared the Project Aurora study on behalf of the Tacit/Tachlith Institute (Israeli think tank)
+**C-2933** Orbis Prepared the Project Aurora Study on Behalf of the Tachlith Institute (Israeli Think Tank)
 
 Claim Timestamp: 00:22:00
 
@@ -1534,7 +1534,7 @@ Investigative Direction: Obtain Harpole's direct answer or contracting records f
 
 Claim Timestamp: 00:12:30
 
-Claim: The host says that after the Fort Huachuca sighting, an influencer campaign with many special forces figures suddenly appeared, with screaming threats that they would take her down and would platform Mitch's baby mamas.
+Claim: The host says that after the Fort Huachuca sighting, an influencer campaign with many special forces figures suddenly appeared, with screaming threats that "they're going to take you down" and would platform Mitch's baby mamas.
 
 Transcript Snippet: Uh, we got an influence an influencer campaign with a lot of special forces guys suddenly in the mix. Very strange screaming threats. They're going to take you down. We're going to platform Mitch's baby mamas.
 
@@ -1810,13 +1810,13 @@ Investigative Direction: Public record: US strikes on Iranian nuclear sites, Jun
 
 ---
 
-**C-14665** Host Says Claire Ginan Wrote Her First Ever Article for Jezebel in June After Charlie's Debate
+**C-14665** Host Says Claire Guinan Wrote Her First Ever Article for Jezebel in June After Charlie's Debate
 
 Claim Timestamp: 00:29:30
 
-Claim: The host says writer Claire Ginan, who had never published and has no writing profile, wrote her first article for Jezebel in June 2025, after Charlie Kirk won the debate against Netanyahu's lobbyists.
+Claim: The host says writer Claire Guinan, who had never published and has no writing profile, wrote her first article for Jezebel in June 2025, after Charlie Kirk won the debate against Netanyahu's lobbyists.
 
-Transcript Snippet: This writer, Claire Ginan, who had never published before, she has no writing profile at all, writes her first article for Jezebel.
+Transcript Snippet: This writer, Claire Guinan, who had never published before, she has no writing profile at all, writes her first article for Jezebel.
 
 Anchored Artifacts: A-2076.2
 Mentions: N-756
@@ -1831,7 +1831,7 @@ Investigative Direction: Check Ginan's byline history at Jezebel and elsewhere; 
 
 Claim Timestamp: 00:29:50
 
-Claim: The host says Claire Ginan went on Etsy, found a new witch profile and bought a spell to curse Charlie Kirk, and that this was less than 10 days after Charlie won the debate against Netanyahu's lobbyists.
+Claim: The host says Claire Guinan went on Etsy, found a new witch profile and bought a spell to curse Charlie Kirk, and that this was less than 10 days after Charlie won the debate against Netanyahu's lobbyists.
 
 Transcript Snippet: buy a spell about harming Charlie Kirk, putting a curse onto Charlie Kirk. It's very unusual. We paid some Etsy witches to curse Charlie Kirk. That was just um less than 10 days after Charlie won this debate
 
@@ -2163,7 +2163,7 @@ Investigative Direction: Locate Netanyahu's statements denying Israeli involveme
 
 Claim Timestamp: 00:37:50
 
-Claim: Per the New York Times article the host reads, H. Dwayne Anderson took his wife, two missionaries and a French Mormon couple, six people in a car that comfortably seats five, driven by 21-year-old missionary Mitt Romney.
+Claim: Per the New York Times article the host reads, H. Duane Anderson took his wife, two missionaries and a French Mormon couple, six people in a car that comfortably seats five, driven by 21-year-old missionary Mitt Romney.
 
 Transcript Snippet: He took his wife and two missionaries and a French Mormon couple, six people in a car that would have comfortably sat just five.
 
@@ -2378,7 +2378,7 @@ Investigative Direction: Compare Charlie Kirk Show episodes since September 2025
 
 Claim Timestamp: 00:48:22
 
-Claim: A viewer comment read by the host says Tom Artiom Alexandrovich was allowed to leave the United States and return to Israel after being arrested in Nevada on felony child-luring charges, and the host agrees it happened because he is Israeli.
+Claim: A viewer comment read by the host asks why Tom Artiom Alexandrovich was allowed to leave the United States and return to Israel after being arrested in Nevada on felony child-luring charges, answering that it is because he is Israeli and that is the way the system works.
 
 Transcript Snippet: Why was Tom Artiom Alexandrovich allowed to leave the United States and return to Israel after being arrested in in Nevada on felony childuring charges
 
@@ -2647,7 +2647,7 @@ Confidence: high
 
 3. **Name uncertainty – "Wedad Makmoud":** Host transcribes as "Wed Mahmoud"; standard Arabic name likely "Wedad Mahmoud." Preserved as "Wedad Makmoud" per host; flag for transcription.
 
-4. **Name uncertainty – "Kristoff Schweizer":** Likely standard spelling "Kristoff Schweizer" (BCG CEO); preserved per host.
+4. **Name uncertainty – "Christoph Schweizer":** Likely standard spelling "Christoph Schweizer" (BCG CEO); preserved per host.
 
 5. **Name uncertainty – "James Kaddis":** Possibly "James Kaddis" or "James Kitis" or similar; preserved as host spelling.
 

@@ -1911,14 +1911,14 @@
       "@type": "Claim",
       "@id": "C-3548",
       "ref": "C-3548",
-      "label": "Frank Turek states in FaceTime with Jack Hibbs that he had blood on him at the hospital",
-      "claim": "During a FaceTime call with Pastor Jack Hibbs after arriving at the hospital, Frank Turek references \"blood on me\" in a manner the host characterizes as leading the conversation.",
+      "label": "Frank Turek Tells Jack Hibbs in Interview That Hibbs Saw Him With Blood on Him at the Hospital",
+      "claim": "In a clip of an interview with Pastor Jack Hibbs that the host plays, Frank Turek, recalling that he FaceTimed Hibbs after arriving at the hospital, says \"You saw I had blood on me,\" which the host characterizes as leading the conversation.",
       "anchored_artifacts": [
         "A-2430.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:14:55",
+      "claim_timestamp": "00:15:44",
       "investigative_direction": "Locate the original FaceTime recording or screenshot; verify the exact wording and sequence of the exchange.",
       "mentions_person_refs": [
         "N-7",
@@ -1981,7 +1981,7 @@
       "@type": "Claim",
       "@id": "C-3552",
       "ref": "C-3552",
-      "label": "Host Says Blake Harreff Wore Timpanogos Surgical Scrubs at the UVU Return at About 8:30 PM",
+      "label": "Host Says Blake Harreff Wore Timpanogos Surgical Scrubs at the UVU Return After 8:30 PM",
       "claim": "The host says footage of the team returning to UVU after 8:30 PM on September 10 shows Blake Harreff wearing a Timpanogos surgical scrub top.",
       "anchored_artifacts": [
         "A-2432.3"
@@ -2067,8 +2067,8 @@
       "@type": "Claim",
       "@id": "C-3557",
       "ref": "C-3557",
-      "label": "The Panguitch Cowboy Smokehouse receipt has been verified as real",
-      "claim": "The Cowboy Smokehouse receipt has been verified and is presented by the host as a real document.",
+      "label": "Host Says the Panguitch Cowboy Smokehouse Receipt Has Been Verified as Real",
+      "claim": "The host says the Cowboy Smokehouse receipt has been verified and is real, and shows it.",
       "anchored_artifacts": [
         "A-2433.1",
         "A-2433.4"
@@ -2083,7 +2083,7 @@
       "@type": "Claim",
       "@id": "C-3558",
       "ref": "C-3558",
-      "label": "Receipt timestamp indicates the card could not have been swiped before ~9:47 PM",
+      "label": "Host Says Receipt Would Mean Tyler Robinson Did Not Leave the Steakhouse Before About 9:47 PM",
       "claim": "Per the host, if the steakhouse receipt is verified, Tyler Robinson did not leave the steakhouse until about 9:47 PM at the earliest.",
       "anchored_artifacts": [
         "A-2433.1"
@@ -2186,7 +2186,7 @@
       "@type": "Claim",
       "@id": "C-3564",
       "ref": "C-3564",
-      "label": "YouTube commenter attributes hospital-lobby quote to \"Blakey\"",
+      "label": "Viewer Comment Says What \"Blakey\" Meant in the Hospital Lobby",
       "claim": "A YouTube top comment by user \"Matt Callaway\" attributes to \"Blakey\" the statement \"Candace is going to figure this out,\" reportedly said in the hospital lobby on September 10.",
       "anchored_artifacts": [
         "A-2434.1"
@@ -2472,8 +2472,8 @@
       "@type": "Claim",
       "@id": "C-14863",
       "ref": "C-14863",
-      "label": "Host Says Turek Was the Only Person Who Reacted Normally to the Shot",
-      "claim": "The host says Frank Turek was not on her radar early on and that she repeatedly said he appeared to be the only person who reacted normally in the moments after the shot, ducking down and appearing fearful and surprised.",
+      "label": "Host Says Turek Was the Only Person Who Reacted Normally After the Explosive Went Off",
+      "claim": "The host says Frank Turek was not on her radar early on and that she repeatedly said he appeared to be the only person who reacted normally in the moments after the explosive went off, ducking down and appearing fearful and surprised.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2715,8 +2715,7 @@
         "C-5788"
       ],
       "mentions_person_refs": [
-        "N-267",
-        "N-7"
+        "N-267"
       ]
     },
     {
@@ -3262,8 +3261,8 @@
       "@type": "Claim",
       "@id": "C-14898",
       "ref": "C-14898",
-      "label": "Host Says Staff Let Harpole Cut Shirts, Order Medications and a Man Guarded the Door",
-      "claim": "The host says hospital staff were allowing Brian Harpole to jump on patients and cut their shirts, to shout medications to give, and that she asks why a man was guarding the door.",
+      "label": "Host Says Staff Let Harpole Cut Shirts, Order Medications and Guard the Door",
+      "claim": "The host says hospital staff were allowing Brian Harpole to jump on patients and cut their shirts, to shout medications to give, and she asks why he was guarding the door.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10573"
@@ -3295,15 +3294,14 @@
       "investigative_direction": "Confirm the correct spelling and identity of the man hugged from the original footage and tips.",
       "transcript_snippet": "That's Alex Fria who he just hugged. That there in the corner in the white hat is Rick Cutler.",
       "mentions_person_refs": [
-        "N-267",
-        "N-488"
+        "N-267"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-14900",
       "ref": "C-14900",
-      "label": "Host Names Blake Gibson of the Security Detail as the Man in Surgical Scrubs at the Top of the Frame",
+      "label": "Host Names Blake Gibson as the Man in Surgical Scrubs at the Top of the Frame",
       "claim": "The host names the man in surgical scrubs at the top of the frame as Blake Gibson.",
       "anchored_artifacts": [
         "A-2432.3"
@@ -3343,7 +3341,7 @@
       "@id": "C-14902",
       "ref": "C-14902",
       "label": "Host Repeats Her Offer to Turek to Appear Together",
-      "claim": "The host again offers Frank Turek to come on her show or to appear on his own to talk through the events of September 10.",
+      "claim": "The host again offers Frank Turek to come on her show or for her to join him on his, to talk through the events of September 10.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3634,7 +3632,7 @@
       "@id": "C-14916",
       "ref": "C-14916",
       "label": "Host Says the Receipt Signature Is an Ordinary Electronic-Pad Scribble",
-      "claim": "The host says the signature is the standard scribble people make on electronic signature pads such as at CVS.",
+      "claim": "The host says, as people have pointed out, the signature Andrew Wilson posted is the standard scribble people make on electronic signature pads such as at CVS, and it just looks like scribble to her.",
       "anchored_artifacts": [
         "A-3351.1"
       ],
@@ -3942,7 +3940,7 @@
       "@id": "C-14931",
       "ref": "C-14931",
       "label": "Host Says the Hospital-Lobby Remark Implies the Team Were Not Open to a Conspiracy",
-      "claim": "The host says that if Blake said in the hospital lobby that Candace would figure this out, it means they had full confidence it was not a conspiracy right after learning Charlie had died, which she finds strange.",
+      "claim": "Responding to a viewer comment saying Blake said in the hospital lobby that Candace would figure this out, the host says that means they had full confidence it was not a conspiracy right after learning Charlie had died, which she finds strange.",
       "anchored_artifacts": [
         "A-2434.1"
       ],
@@ -4098,7 +4096,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:49:31",
       "investigative_direction": "Obtain the Australian Home Affairs decision and any lobbying correspondence.",

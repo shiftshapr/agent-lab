@@ -2142,7 +2142,6 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-14",
         "N-279",
         "N-97"
       ]
@@ -2478,7 +2477,7 @@
       "@id": "C-8765",
       "ref": "C-8765",
       "label": "Host says she had a million-dollar book deal and sold about 800,000 copies",
-      "claim": "The host says she had no debts and a million-dollar book deal when she met her husband, and that about 800,000 copies of her first book were moved.",
+      "claim": "The host says she had no debts and a million-dollar book deal when she met her husband, and that she thinks about 800,000 copies of her first book were moved.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2601,7 +2600,7 @@
       "mentions_person_refs": [
         "N-131",
         "N-3",
-        "N-60"
+        "N-5"
       ]
     },
     {
@@ -2805,7 +2804,6 @@
       "transcript_snippet": "An event that did not in any way require her presence, one which not even Charlie Kirk had ever attended.",
       "mentions_person_refs": [
         "N-1",
-        "N-2",
         "N-5"
       ]
     },
@@ -2921,8 +2919,7 @@
         "C-8779"
       ],
       "mentions_person_refs": [
-        "N-1",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -2986,7 +2983,7 @@
       ],
       "claim_timestamp": "00:46:37",
       "investigative_direction": "Review the full statement transcript for the Druski reference.",
-      "transcript_snippet": "she name-dropped Drewski and she name-dropped me",
+      "transcript_snippet": "she name-dropped Druski and she name-dropped me",
       "mentions_person_refs": [
         "N-2",
         "N-597",
@@ -3040,7 +3037,8 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -3066,7 +3064,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -3090,7 +3089,8 @@
       "mentions_person_refs": [
         "N-160",
         "N-3",
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -3203,7 +3203,7 @@
       "@id": "C-8796",
       "ref": "C-8796",
       "label": "Host says Aubrey Laitsch spoke with her after being fired but leaked nothing she presented",
-      "claim": "The host says she has had many conversations with Aubrey Laitsch after Lech's firing, and that nothing she presented on the show about TPUSA's inner workings was leaked by her.",
+      "claim": "The host says she has had many conversations with Aubrey Laitsch after Laitsch's firing, and that nothing she presented on the show about TPUSA's inner workings was leaked by her.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10552"
@@ -3212,12 +3212,11 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:53:58",
-      "investigative_direction": "Aubrey Laitsch's own account, and a comparison of the host's reporting against what Lech could have known.",
+      "investigative_direction": "Aubrey Laitsch's own account, and a comparison of the host's reporting against what Laitsch could have known.",
       "transcript_snippet": "I've had many conversations with her, but nothing was leaked to me about their that I presented on this show about anything that was going on internal.",
       "mentions_person_refs": [
         "N-552",
-        "N-3",
-        "N-14"
+        "N-3"
       ]
     },
     {
@@ -3310,7 +3309,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -3415,8 +3415,8 @@
       "@type": "Claim",
       "@id": "C-8805",
       "ref": "C-8805",
-      "label": "Baron Coleman Says Neff and Kolvet Gave Different Excuses",
-      "claim": "In a clip the host plays, Baron Coleman says TPUSA figures cannot get on board with the same messaging, noting Blake Neff already gave a different excuse from Andrew Kolvet's.",
+      "label": "Host Says Neff and Kolvet Gave Different Excuses",
+      "claim": "The host says TPUSA figures cannot get on board with the same messaging, noting Blake Neff already gave a different excuse from Andrew Kolvet's.",
       "anchored_artifacts": [
         "A-2966.1"
       ],
@@ -3433,7 +3433,7 @@
         "C-8791"
       ],
       "mentions_person_refs": [
-        "N-331",
+        "N-3",
         "N-160",
         "N-14"
       ]
@@ -3469,7 +3469,7 @@
       "@id": "C-8807",
       "ref": "C-8807",
       "label": "Host says Loomer alleged she and her husband live separately with dual citizenship",
-      "claim": "The host says Laura Loomer claimed the host and her husband live separately in two houses and that she has dual citizenship, and says none of it is true.",
+      "claim": "The host says she thinks it was Laura Loomer who claimed the host and her husband live separately in two houses and that she has dual citizenship, and says none of it is true.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3555,7 +3555,7 @@
       "@id": "C-8811",
       "ref": "C-8811",
       "label": "Host reads Loomer saying the host hid nearly 12 million dollars in a secret trust",
-      "claim": "The host reads a Loomer tweet alleging the host hides nearly 12 million dollars in real estate and other assets in a secret trust, with another firm that specializes in bankruptcies.",
+      "claim": "The host reads a Loomer tweet alleging the host hides nearly 12 million dollars in real estate and other assets in a secret trust, and saying her other lawyer's firm specializes in bankruptcies.",
       "anchored_artifacts": [
         "A-2963.1"
       ],
@@ -3649,7 +3649,7 @@
       "@id": "C-8815",
       "ref": "C-8815",
       "label": "Host says she did not respond to Trump because she had promised her priest she would chill",
-      "claim": "The host says part of the reason she had no response to Trump was that she told her priest she would stay calm, and he was present at the confirmation.",
+      "claim": "The host says part of the reason she had no response to Trump was that she told her priest she would stay calm, and that he was there when the Trump post happened.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [

@@ -1564,7 +1564,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:08:28",
+      "claim_timestamp": "00:07:21",
       "investigative_direction": "Verify the footage timestamp and attendees independently; confirm the date and venue.",
       "mentions_person_refs": [
         "N-27",
@@ -2126,7 +2126,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:27:12",
       "investigative_direction": "Check what is published on September 10 against this stated plan.",
@@ -2515,7 +2515,7 @@
         "N-10024"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:core"
       ],
       "claim_timestamp": "00:39:05",
       "investigative_direction": "Compare with charging documents on Robinson's record and the number of shots and casings recovered.",
@@ -2551,7 +2551,7 @@
       "@id": "C-7737",
       "ref": "C-7737",
       "label": "Host Says Erika's Op-Ed Is Behind the New York Times Paywall",
-      "claim": "The host says Erika Kirk's one-year look-back is in the New York Times and is behind a paywall, which she calls a poor choice for a piece about grief.",
+      "claim": "The host says Erika Kirk's one-year look-back is in the New York Times and is behind a paywall, which she calls another installment in a never-ending book of PR blunders.",
       "anchored_artifacts": [
         "A-2348.1"
       ],
@@ -2642,7 +2642,7 @@
       "@type": "Claim",
       "@id": "C-7741",
       "ref": "C-7741",
-      "label": "Host Says TPUSA Now Works With the Department of War and Treats Erika as an Emotional Asset",
+      "label": "Host Tells Erika She Works With the Department of War and Is Its Emotional Asset",
       "claim": "The host, addressing Erika, says Turning Point 2.0 is a totally different organization and that Erika works with the Department of War and the deep state apparatus and is their emotional asset.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3059,8 +3059,8 @@
       "@type": "Claim",
       "@id": "C-7760",
       "ref": "C-7760",
-      "label": "Host Says Andrew Cooper Gave the Conversation to Tulsi Gabbard's Office",
-      "claim": "The host says that it was not tongue in cheek because Andrew Cooper gave that conversation to Tulsi Gabbard's office, which she reads as showing he thought it should be explored.",
+      "label": "Host Says Andrew Kolvet Gave the Conversation to Tulsi Gabbard's Office",
+      "claim": "The host says that it was not tongue in cheek because Andrew Kolvet gave that conversation to Tulsi Gabbard's office, which she reads as showing he thought it should be explored.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3070,6 +3070,7 @@
       "investigative_direction": "Identify Andrew Cooper, whom the host names only by this spelling, and confirm what he provided to the DNI's office.",
       "transcript_snippet": "We know it wasn't tongue-in-cheek because Andrew Cooper gave that conversation to Tulsi Gabbard's office.",
       "mentions_person_refs": [
+        "N-14",
         "N-330"
       ]
     },
@@ -3252,7 +3253,7 @@
       "@type": "Claim",
       "@id": "C-7769",
       "ref": "C-7769",
-      "label": "Host Says the Can You Hear Me Now Documentary Is Slated for September 10",
+      "label": "Viewer Comment Says the Can You Hear Me Now Documentary Is Slated for September 10",
       "claim": "A viewer comment the host reads says Salem Media and Waterstone are releasing a Charlie Kirk documentary called Can You Hear Me Now?, with an alleged unreleased interview, on September 10th of this year; the host replies 'Yes'.",
       "anchored_artifacts": [
         "A-2350.5"

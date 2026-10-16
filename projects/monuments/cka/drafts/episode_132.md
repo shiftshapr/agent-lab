@@ -41,7 +41,7 @@
 
 ## II. Executive Summary
 
-Episode 132 advances several parallel strands of the Bride of Charlie investigation. The host opens with an exclusive verbal report that Utah Chief Medical Examiner Dr. Deidra Amaro has resigned, but no primary document is displayed; this is preserved as a flagged verbal assertion. The bulk of the substantive evidentiary material concerns Andrew Kolvet's public response to text messages Candace shared with Charlie Kirk, including an X/Twitter Community Note that corrects Kolvet's framing about the messages' timeline to November 2023. Blake Neff's hostile X post calling Candace a "vile witch" over a cremation question is displayed verbatim. Extended audio/video artifacts are introduced via clips from Erika Kirk's Make Heaven Crowded tour speech, Pastor Russell's sermon at Pursuit Church, and a Fox News interview clip with Erika and Harris Faulkner. A "solid tip" about the alleged 911 call from Charlie's security team is described verbally without any primary audio or transcript; the host's account is treated as testimonial artifact and flagged. Kolvet's X denial of being in Washington DC is paired against the host's competing source-based claim about a TPUSA White House meeting coinciding with Netanyahu's visit. The episode closes with the host reading a series of YouTube comments from the prior episode.
+Episode 132 advances several parallel strands of the Bride of Charlie investigation. The host opens with an exclusive verbal report that Utah Chief Medical Examiner Dr. Deirdre Amaro has resigned, but no primary document is displayed; this is preserved as a flagged verbal assertion. The bulk of the substantive evidentiary material concerns Andrew Kolvet's public response to text messages Candace shared with Charlie Kirk, including an X/Twitter Community Note that corrects Kolvet's framing about the messages' timeline to November 2023. Blake Neff's hostile X post calling Candace a "vile witch" over a cremation question is displayed verbatim. Extended audio/video artifacts are introduced via clips from Erika Kirk's Make Heaven Crowded tour speech, Pastor Russell's sermon at Pursuit Church, and a Fox News interview clip with Erika and Harris Faulkner. A "solid tip" about the alleged 911 call from Charlie's security team is described verbally without any primary audio or transcript; the host's account is treated as testimonial artifact and flagged. Kolvet's X denial of being in Washington DC is paired against the host's competing source-based claim about a TPUSA White House meeting coinciding with Netanyahu's visit. The episode closes with the host reading a series of YouTube comments from the prior episode.
 
 ---
 
@@ -446,7 +446,7 @@ Node Type: topic
 
 **N-10749** Amaro Resignation Cause
 
-Persistent investigation target. Utah Chief Medical Examiner Dr. Deidra Amaro resigned in 2026-07 with no official reason provided. Resignation coincides with reported broader resignations across UVU and police departments attributed by host to a "general sense of corruption."
+Persistent investigation target. Utah Chief Medical Examiner Dr. Deirdre Amaro resigned in 2026-07 with no official reason provided. Resignation coincides with reported broader resignations across UVU and police departments attributed by host to a "general sense of corruption."
 
 Evidence Count: 0
 Claim Count: 0
@@ -580,7 +580,7 @@ Brigitte Macron; subject of the Trump call the host disclosed in July 2025.
 
 **N-177** Deirdre Amaro
 
-Dr. Deidra Amaro; Utah chief medical examiner whose resignation the host reports.
+Dr. Deirdre Amaro; Utah chief medical examiner whose resignation the host reports.
 
 *Related: C-9007, C-9008, C-9010*
 
@@ -963,7 +963,7 @@ Investigative Direction: Confirm that the November 2023 date corresponds to the 
 
 Claim Timestamp: 00:09:42
 
-Claim: Blake Neff, in a public X post, used the phrase "vile witch" directed at Candace Owens in response to her question about whether Charlie Kirk was cremated.
+Claim: Blake Neff, in a post the host reads, used the phrase "vile witch" directed at Candace Owens in response to her question about whether Charlie Kirk was cremated.
 
 Anchored Artifacts: A-2190.1
 Mentions: N-3, N-1, N-160
@@ -1036,11 +1036,11 @@ Mentions: N-824, N-2
 Related Nodes:
 Investigative Direction: Verify the original Instagram post remains accessible and identify the target of the mockery if specified.
 
-**C-3147** Host asserts Dr. Deidra Amaro has resigned as Utah Chief Medical Examiner
+**C-3147** Host asserts Dr. Deirdre Amaro has resigned as Utah Chief Medical Examiner
 
 Claim Timestamp: 00:01:07
 
-Claim: Candace Owens claims an exclusive report that Dr. Deidra Amaro resigned from her position as Utah Chief Medical Examiner, with no official reason provided.
+Claim: Candace Owens claims an exclusive report that Dr. Deirdre Amaro resigned from her position as Utah Chief Medical Examiner, with no official reason provided.
 
 Anchored Artifacts: None displayed in this episode (host verbal assertion only)
 Mentions: N-3, N-177
@@ -1075,9 +1075,9 @@ Investigative Direction: File records requests for the underlying 911 audio and 
 
 Claim Timestamp: 00:01:07
 
-Claim: The host says Dr. Deidra Amaro became Utah's chief medical examiner on July 1, 2024, and would have signed off on Charlie Kirk's autopsy report.
+Claim: The host says Dr. Deirdre Amaro became Utah's chief medical examiner on July 1, 2024, and would have signed off on Charlie Kirk's autopsy report.
 
-Transcript Snippet: a woman by the name of Dr. Deidra Amaro. Uh her tenure began July 1st of 2024. And now we can exclusively report that Dr. Deidra Amaro has resigned from her position.
+Transcript Snippet: a woman by the name of Dr. Deirdre Amaro. Uh her tenure began July 1st of 2024. And now we can exclusively report that Dr. Deirdre Amaro has resigned from her position.
 
 Anchored Artifacts: 
 Mentions: N-177, N-1
@@ -1092,7 +1092,7 @@ Investigative Direction: Check the Utah Department of Health or governor's appoi
 
 Claim Timestamp: 00:01:07
 
-Claim: The host says Dr. Deidra Amaro claims to be a direct descendant of Leif Erikson, which the host says may be true based on her team's research, and that Amaro has strong military ties and comes from a powerful family.
+Claim: The host says Dr. Deirdre Amaro claims to be a direct descendant of Leif Erikson, which the host says may be true based on her team's research, and that Amaro has strong military ties and comes from a powerful family.
 
 Transcript Snippet: claims to be a direct descendant of Leif Erikson, which actually may be true based on our research
 
@@ -1123,7 +1123,7 @@ Investigative Direction: Request UVU and Utah police department separation lists
 
 Claim Timestamp: 00:02:05
 
-Claim: The host asks viewers who know more about Dr. Deidra Amaro's sudden resignation to email tips@candaceowens.com, calling it a lead people should chase.
+Claim: The host asks viewers who know more about Dr. Deirdre Amaro's sudden resignation to email tips@candaceowens.com, calling it a lead people should chase.
 
 Transcript Snippet: If you perhaps know more, please do send us an email to tips@candaceowens. com.
 
@@ -1469,7 +1469,7 @@ Claim: The host says she thinks, but is not positive, that the painting shown be
 Transcript Snippet: And I I think they may have even auctioned that painting. I'm not positive, but I think they did.
 
 Anchored Artifacts: A-2984.1
-Mentions: N-2, N-3
+Mentions: N-3
 Related Nodes: N-11202
 Tags: relevance:context
 Investigative Direction: Identify the painting and any auction listing or results.
@@ -1503,7 +1503,7 @@ Transcript Snippet: a day before Charlie died, when Erika posted her mother look
 Anchored Artifacts: A-2985.1
 Mentions: N-2, N-1
 Related Nodes: N-10483
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Retrieve the Instagram post, its timestamp and caption.
 
 ---
@@ -1859,7 +1859,7 @@ Claim: The host says Erika Kirk spoke at the Pursuit Church event because it was
 Transcript Snippet: Anyway, Erika spoke at this event because this is the Make Kevin Crowded tour.
 
 Anchored Artifacts: A-2193.1
-Mentions: N-2, N-527
+Mentions: N-2
 Related Nodes: N-11203
 Tags: relevance:context
 Investigative Direction: Obtain the tour schedule and the event recording.
@@ -2078,12 +2078,12 @@ Investigative Direction: Check official announcements of the funeral and Netanya
 
 Claim Timestamp: 00:35:05
 
-Claim: The host says Netanyahu is flying in for the same reason Zelensky is, which she says is that when these killers come to DC it is to dictate their terms, and that Netanyahu will probably be in the situation room telling Trump who else has to die.
+Claim: The host says Netanyahu is saying he is flying in for the same reason Zelensky is, which she says is that when these killers come to DC it is to dictate their terms, and that Netanyahu will probably be in the situation room telling Trump who else has to die.
 
 Transcript Snippet: Bibi Netanyahu is saying that he is flying in for the same reason Zelensky is flying in.
 
 Anchored Artifacts: 
-Mentions: N-36, N-712, N-3
+Mentions: N-36, N-712, N-5, N-3
 Related Nodes: N-10752
 Tags: relevance:tangential
 Investigative Direction: Check each leader's announced purpose and meetings.
@@ -2223,7 +2223,7 @@ Investigative Direction: Check CUFI staff and affiliate listings for Pastor Russ
 
 Claim Timestamp: 00:42:44
 
-Claim: The host says that since October 7th the people around Charlie became insane, demanding and controlling, and that in the end Charlie snapped and said "I'm done. Take the money."
+Claim: The host says that since October 7th the people pressuring Charlie became insane, demanding and controlling, and that in the end Charlie snapped and said "I'm done. Take the money."
 
 Transcript Snippet: Since October 7th, that's when they all got really insane and demanding and more controlling and Charlie snapped in the end and said, "I'm done. Take the money.
 
@@ -2623,10 +2623,10 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Claim failed admission test – C-3147:** Host's exclusive report of Dr. Deidra Amaro's resignation lacks any displayed primary source (no press release, no filing, no letter). Inscribed as verbal assertion only; should be promoted to claim status only if primary documentation is produced.
+- **Claim failed admission test – C-3147:** Host's exclusive report of Dr. Deirdre Amaro's resignation lacks any displayed primary source (no press release, no filing, no letter). Inscribed as verbal assertion only; should be promoted to claim status only if primary documentation is produced.
 - **Artifact verbally referenced but not shown – A-2197.1:** 911 call tip content is described verbally with quoted phrases but no underlying audio, transcript, CAD record, or source identity is displayed.
 - **Name uncertainty – "Pastor Russell":** Only first name given; full pastoral identity, denominational credentials, and institutional affiliation beyond Pursuit Church not established.
-- **Name variant preserved –:** Transcript renders surname as "Amaro" on first mention and "Deirdra" on second mention; "Deidra Amaro" retained as primary.
+- **Name variant preserved –:** Transcript renders surname as "Amaro" on first mention and "Deirdra" on second mention; "Deirdre Amaro" retained as primary.
 - **Name variant preserved –:** Transcript renders name as "Marina Medias" in one instance and "Marina Medvin" in another; "Medvin" retained per second mention.
 - **Artifact verbally referenced but not shown – Daily Mail article:** Referenced from prior episode coverage with described direct quotations; not displayed in this episode.
 - **Artifact verbally referenced but not shown – Text messages between Candace and Charlie:** The messages themselves are referenced as having been shared publicly and as the subject of A-2189.1 and A-2189.2, but the underlying text content is not displayed in this episode.

@@ -1,0 +1,107 @@
+[
+ {
+  "claim": "C-11725",
+  "episode": 136,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim only covers the host's general check of the site; Robertson (N-751) is neither named nor referred to."
+ },
+ {
+  "claim": "C-11747",
+  "episode": 136,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host asserts that white Europeans are being eradicated through deception, 'as is the Mossad motto', with 'they' blaming the Arabs while financing campaigns for them to run over borders in territories that Israel is bombing for Israel's expansion."
+  },
+  "note": "Transcript cites Mossad for the motto only; the financiers are 'they', not Mossad."
+ },
+ {
+  "claim": "C-3216",
+  "episode": 137,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:38:05"
+  },
+  "note": "'A day after these remarks...tail fins' falls ~38:03-38:12 by word position in the 37:35 block."
+ },
+ {
+  "claim": "C-7478",
+  "episode": 137,
+  "decision": "reject",
+  "fix": {},
+  "note": "YouTube '>>' markers unreliable; HappyScribe groups 'Charlie was murdered' and 'talking about Candace Owens' with Turek's lines; Heartlander quotes Turek on 'lies, accusations and slander'."
+ },
+ {
+  "claim": "C-7499",
+  "episode": 137,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the consistent public messaging from Dan Bongino, Kash Patel, Erika Kirk and Turning Point USA was that they wanted nothing but transparency, and says her own team did not edit the videos or lie about what was on the footage.",
+   "label": "Host Says Bongino, Patel, Erika Kirk and TPUSA Publicly Promised Transparency"
+  },
+  "note": "'We didn't edit the videos... Here's the footage' refers to her team's rooftop footage release."
+ },
+ {
+  "claim": "C-9091",
+  "episode": 138,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:02:38"
+  },
+  "note": "'I strongly suspect that Mike Mitchell' is at ~02:42 by word position in the 01:37-04:02 block."
+ },
+ {
+  "claim": "C-9150",
+  "episode": 138,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-9"
+   ]
+  },
+  "note": "The claim does not name or refer to the Tates."
+ },
+ {
+  "claim": "C-3246",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:29:25"
+  },
+  "note": "'most compelling is this video... watch is affixed to his right hand' is at ~29:30-29:38; the clip itself starts at 30:09."
+ },
+ {
+  "claim": "C-13232",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "The claim is only about the maroon and black staircase figures; it does not name or refer to Tyler Robinson."
+ },
+ {
+  "claim": "C-13242",
+  "episode": 139,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that Matt Robinson suspected the feds had staged his son's room with a dog bed, but if Lance has a hellhound persona it would make more sense that the dog bed was Lance's, with Lance embodying that persona."
+  },
+  "note": "The contrast with Matt Robinson's staging suspicion is in the transcript, so keep it, and keep N-778 by naming him."
+ },
+ {
+  "claim": "C-3276",
+  "episode": 140,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host plays a clip of Dane Cook's \"B&E\" skit, including its \"favorite shirt\" passage, and uses it as a humorous analogical frame for arguing that the maroon-shirt choice by the parking-garage subject is implausible for someone trying to evade detection."
+  },
+  "note": "She plays the passage as a clip ('Take a listen. >>'); she does not read it aloud."
+ }
+]

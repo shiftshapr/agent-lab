@@ -1321,7 +1321,7 @@
       "ref": "N-692",
       "name": "Laura Ingraham",
       "type": "person",
-      "description": "First named by the host at 00:38:48 in episode 117 (transcript spelling \"Laura Ingram\"). Host of the show on which the Kolvet necklace clip aired.",
+      "description": "First named by the host at 00:38:48 in episode 117 (transcript spelling \"Laura Ingraham\"). Host of the show on which the Kolvet necklace clip aired.",
       "related_artifacts": [
         "A-2677.3"
       ],
@@ -2873,7 +2873,7 @@
       "@id": "C-4689",
       "ref": "C-4689",
       "label": "Erika Kirk began the Romanian Angels Project in late 2012 on a US Marine base",
-      "claim": "The host says that in late 2012 Erika Kirk began her Romanian Angels Project, working in some capacity with \"Otto Busher\" and partnering with the US Marines on a Marine base.",
+      "claim": "The host says that in late 2012 Erika Kirk began her Romanian Angels Project, working in some capacity with \"Otto Busher\" and, as Erika says, partnering with the US Marines on a Marine base.",
       "anchored_artifacts": [
         "A-2685.1"
       ],
@@ -3371,7 +3371,7 @@
       "@id": "C-4713",
       "ref": "C-4713",
       "label": "The paver had never heard of a \"paver emergency\"",
-      "claim": "Answering a viewer comment, the host says the professional paver had never heard of a \"paver emergency.\" She adds that he decided to speak out after wondering whether he was part of a cover-up, given that a team had removed the soil before he was brought in to pave.",
+      "claim": "Answering a viewer comment that quotes the paver's question \"what's a paver emergency?\", the host says that if a professional paver has never heard of a \"paver emergency,\" something is out of order. She adds that the paver, Dan Merrill, decided to speak out after wondering whether he was part of a cover-up, given that a team had removed the soil before he was brought in to pave.",
       "anchored_artifacts": [
         "A-2688.1"
       ],
@@ -3381,7 +3381,10 @@
       "tags": [],
       "claim_timestamp": "00:49:54",
       "investigative_direction": "Obtain the work order and call-out record showing who requested the emergency paving and on what authority.",
-      "transcript_snippet": "if a professional paver has never heard of a paver emergency, then something is out of order."
+      "transcript_snippet": "if a professional paver has never heard of a paver emergency, then something is out of order.",
+      "mentions_person_refs": [
+        "N-686"
+      ]
     },
     {
       "@type": "Claim",
@@ -3424,7 +3427,7 @@
       "@type": "Claim",
       "@id": "C-4716",
       "ref": "C-4716",
-      "label": "DIA: the $10,000 bounty has still not identified who recorded the Erika Kirk WHCD video",
+      "label": "The $10,000 Bounty Has Still Not Identified Who Recorded the Erika Kirk WHCD Video",
       "claim": "The host says her team put out a $10,000 bounty and still cannot find out who recorded the video of Erika Kirk. She says it was not the CNN reporter who posted it on Instagram.",
       "anchored_artifacts": [
         "A-2690.1"
@@ -3448,7 +3451,7 @@
       "@id": "C-4717",
       "ref": "C-4717",
       "label": "Harpole's filing asserts a 911 call that the host has not found in the released recordings",
-      "claim": "The host says that in his filing against her, Brian Harpole asserted that he or someone else called 911. She says she has not seen such a call in the released 911 recordings.",
+      "claim": "The host says that in his filing against her, Brian Harpole asserted, she thinks, that he or someone else called 911. She says she has not seen such a call in the released 911 recordings.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10729"

@@ -673,7 +673,7 @@
       "ref": "N-10749",
       "name": "Amaro Resignation Cause",
       "type": "investigation_target",
-      "description": "Persistent investigation target. Utah Chief Medical Examiner Dr. Deidra Amaro resigned in 2026-07 with no official reason provided. Resignation coincides with reported broader resignations across UVU and police departments attributed by host to a \"general sense of corruption.\"",
+      "description": "Persistent investigation target. Utah Chief Medical Examiner Dr. Deirdre Amaro resigned in 2026-07 with no official reason provided. Resignation coincides with reported broader resignations across UVU and police departments attributed by host to a \"general sense of corruption.\"",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -1144,7 +1144,7 @@
       "ref": "N-177",
       "name": "Deirdre Amaro",
       "type": "person",
-      "description": "Dr. Deidra Amaro; Utah chief medical examiner whose resignation the host reports.",
+      "description": "Dr. Deirdre Amaro; Utah chief medical examiner whose resignation the host reports.",
       "related_artifacts": [],
       "related_claims": [
         "C-9007",
@@ -1938,7 +1938,7 @@
       "@id": "C-3140",
       "ref": "C-3140",
       "label": "Blake Neff publicly called Candace a \"vile witch\" in X post",
-      "claim": "Blake Neff, in a public X post, used the phrase \"vile witch\" directed at Candace Owens in response to her question about whether Charlie Kirk was cremated.",
+      "claim": "Blake Neff, in a post the host reads, used the phrase \"vile witch\" directed at Candace Owens in response to her question about whether Charlie Kirk was cremated.",
       "anchored_artifacts": [
         "A-2190.1"
       ],
@@ -2073,8 +2073,8 @@
       "@type": "Claim",
       "@id": "C-3147",
       "ref": "C-3147",
-      "label": "Host asserts Dr. Deidra Amaro has resigned as Utah Chief Medical Examiner",
-      "claim": "Candace Owens claims an exclusive report that Dr. Deidra Amaro resigned from her position as Utah Chief Medical Examiner, with no official reason provided.",
+      "label": "Host asserts Dr. Deirdre Amaro has resigned as Utah Chief Medical Examiner",
+      "claim": "Candace Owens claims an exclusive report that Dr. Deirdre Amaro resigned from her position as Utah Chief Medical Examiner, with no official reason provided.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10749"
@@ -2128,7 +2128,7 @@
       "@id": "C-9007",
       "ref": "C-9007",
       "label": "Host Says Amaro's Tenure as Utah Chief Medical Examiner Began July 1, 2024",
-      "claim": "The host says Dr. Deidra Amaro became Utah's chief medical examiner on July 1, 2024, and would have signed off on Charlie Kirk's autopsy report.",
+      "claim": "The host says Dr. Deirdre Amaro became Utah's chief medical examiner on July 1, 2024, and would have signed off on Charlie Kirk's autopsy report.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10749"
@@ -2138,7 +2138,7 @@
       ],
       "claim_timestamp": "00:01:07",
       "investigative_direction": "Check the Utah Department of Health or governor's appointment record for Amaro's start date and the autopsy report's signatory.",
-      "transcript_snippet": "a woman by the name of Dr. Deidra Amaro. Uh her tenure began July 1st of 2024. And now we can exclusively report that Dr. Deidra Amaro has resigned from her position.",
+      "transcript_snippet": "a woman by the name of Dr. Deirdre Amaro. Uh her tenure began July 1st of 2024. And now we can exclusively report that Dr. Deirdre Amaro has resigned from her position.",
       "supports_claim_refs": [
         "C-1440"
       ],
@@ -2152,7 +2152,7 @@
       "@id": "C-9008",
       "ref": "C-9008",
       "label": "Host Says Amaro Claims Descent From Leif Erikson",
-      "claim": "The host says Dr. Deidra Amaro claims to be a direct descendant of Leif Erikson, which the host says may be true based on her team's research, and that Amaro has strong military ties and comes from a powerful family.",
+      "claim": "The host says Dr. Deirdre Amaro claims to be a direct descendant of Leif Erikson, which the host says may be true based on her team's research, and that Amaro has strong military ties and comes from a powerful family.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2191,7 +2191,7 @@
       "@id": "C-9010",
       "ref": "C-9010",
       "label": "Host Asks for Tips on Amaro Resignation at tips@candaceowens.com",
-      "claim": "The host asks viewers who know more about Dr. Deidra Amaro's sudden resignation to email tips@candaceowens.com, calling it a lead people should chase.",
+      "claim": "The host asks viewers who know more about Dr. Deirdre Amaro's sudden resignation to email tips@candaceowens.com, calling it a lead people should chase.",
       "anchored_artifacts": [
         "A-2978.1"
       ],
@@ -2703,7 +2703,6 @@
       "investigative_direction": "Identify the painting and any auction listing or results.",
       "transcript_snippet": "And I I think they may have even auctioned that painting. I'm not positive, but I think they did.",
       "mentions_person_refs": [
-        "N-2",
         "N-3"
       ]
     },
@@ -2741,7 +2740,7 @@
         "N-10483"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:12:01",
       "investigative_direction": "Retrieve the Instagram post, its timestamp and caption.",
@@ -3256,8 +3255,7 @@
       "investigative_direction": "Obtain the tour schedule and the event recording.",
       "transcript_snippet": "Anyway, Erika spoke at this event because this is the Make Kevin Crowded tour.",
       "mentions_person_refs": [
-        "N-2",
-        "N-527"
+        "N-2"
       ]
     },
     {
@@ -3567,7 +3565,7 @@
       "@id": "C-9069",
       "ref": "C-9069",
       "label": "Host Says Netanyahu and Zelensky Fly In to Dictate Terms",
-      "claim": "The host says Netanyahu is flying in for the same reason Zelensky is, which she says is that when these killers come to DC it is to dictate their terms, and that Netanyahu will probably be in the situation room telling Trump who else has to die.",
+      "claim": "The host says Netanyahu is saying he is flying in for the same reason Zelensky is, which she says is that when these killers come to DC it is to dictate their terms, and that Netanyahu will probably be in the situation room telling Trump who else has to die.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10752"
@@ -3581,6 +3579,7 @@
       "mentions_person_refs": [
         "N-36",
         "N-712",
+        "N-5",
         "N-3"
       ]
     },
@@ -3766,7 +3765,7 @@
       "@id": "C-9078",
       "ref": "C-9078",
       "label": "Host Says Pressure on Charlie Escalated After October 7 Until He Said to Take the Money",
-      "claim": "The host says that since October 7th the people around Charlie became insane, demanding and controlling, and that in the end Charlie snapped and said \"I'm done. Take the money.\"",
+      "claim": "The host says that since October 7th the people pressuring Charlie became insane, demanding and controlling, and that in the end Charlie snapped and said \"I'm done. Take the money.\"",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"

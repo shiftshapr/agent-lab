@@ -1451,7 +1451,7 @@
       "@type": "Person",
       "@id": "N-555",
       "ref": "N-555",
-      "name": "Carrie Prejean Bowler",
+      "name": "Carrie Prejean Boller",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
@@ -4132,8 +4132,8 @@
       "@type": "Claim",
       "@id": "C-10130",
       "ref": "C-10130",
-      "label": "Host Says Prejean Bowler Asked What Anti-Semitism Is and What Seth Did at the Hamptons",
-      "claim": "The host says Carrie Prejean Bowler stood up at a hearing and asked what anti-Semitism even is and what Seth did at the Hamptons, where she says Charlie was pressed.",
+      "label": "Host Says Prejean Boller Asked What Anti-Semitism Is and What Seth Did at the Hamptons",
+      "claim": "The host says Carrie Prejean Boller stood up at a hearing and asked what anti-Semitism even is and what Seth did at the Hamptons, where she says Charlie was pressed.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10345"
@@ -4142,7 +4142,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:43:03",
-      "investigative_direction": "Watch the hearing and verify what Prejean Bowler said and to whom.",
+      "investigative_direction": "Watch the hearing and verify what Prejean Boller said and to whom.",
       "transcript_snippet": "she stood up during that hearing and said, \"What even is anti-Semitism? Seth, actually, what did you even do at the Hamptons?\"",
       "mentions_person_refs": [
         "N-3",
@@ -4155,8 +4155,8 @@
       "@type": "Claim",
       "@id": "C-10131",
       "ref": "C-10131",
-      "label": "Host Says Whispers Say Prejean Bowler Will Be Removed From the Religious Committee",
-      "claim": "The host says Laura Loomer and others are saying there are whispers that Carrie Prejean Bowler will be kicked off the religious committee because she will not bend the knee to Israel.",
+      "label": "Host Says Whispers Say Prejean Boller Will Be Removed From the Religious Committee",
+      "claim": "The host says Laura Loomer and others are saying there are whispers that Carrie Prejean Boller will be kicked off the religious committee because she will not bend the knee to Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11188"
@@ -4177,15 +4177,15 @@
       "@type": "Claim",
       "@id": "C-10132",
       "ref": "C-10132",
-      "label": "Host Quotes Prejean Bowler Saying Catholic Doctrine Is Not Worshipping Netanyahu",
-      "claim": "The host says Carrie Prejean Bowler said that she is a Catholic and that Catholic doctrine does not teach worshipping Benjamin Netanyahu.",
+      "label": "Host Quotes Prejean Boller Saying Catholic Doctrine Is Not Worshipping Netanyahu",
+      "claim": "The host says Carrie Prejean Boller said that she is a Catholic and that Catholic doctrine does not teach worshipping Benjamin Netanyahu.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
         "relevance:context"
       ],
       "claim_timestamp": "00:43:56",
-      "investigative_direction": "Retrieve Prejean Bowler's own remarks to confirm the wording.",
+      "investigative_direction": "Retrieve Prejean Boller's own remarks to confirm the wording.",
       "transcript_snippet": "I'm a Catholic. This is not our doctrine. Our doctrine is not that we worship BB Netanyahu.",
       "mentions_person_refs": [
         "N-3",
@@ -4384,7 +4384,7 @@
           "video_timestamp": "00:43:03",
           "speaker_node_ref": "N-3",
           "quote": "because she won't bend the knee to Israel",
-          "context": "Host says Prejean Bowler will not bend the knee to Israel.",
+          "context": "Host says Prejean Boller will not bend the knee to Israel.",
           "confidence": "high",
           "tags": [
             "bend the knee",

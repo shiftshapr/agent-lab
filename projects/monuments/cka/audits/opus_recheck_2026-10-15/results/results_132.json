@@ -1,0 +1,770 @@
+[
+ {
+  "claim": "C-8594",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Clip: 'I put my phone down... and moved my mom. I went back to grab my phone and that's when Mikey started calling me. He called me within seconds.' Claim's 'within seconds after she put her phone down' compresses the sequence.",
+  "fix": {
+   "claim": "In the Jesse Watters clip played, Erika Kirk says that when she went back to grab her phone Mikey started calling, that he called her within seconds, and that she sprinted out of her treatment center."
+  }
+ },
+ {
+  "claim": "C-8595",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8596",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'there was so much bizarre jump cuts in this interview... clearly a lot of editing went into it.' Erika is the interviewee, so N-2 is treated as clearly referred to.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8597",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names no one but the host ('the place in question'); N-2 is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-8598",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8599",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim ('anyone in the parking lot or working there') names no one besides the host; N-2 not referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-8600",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8601",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8602",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names no one besides the host ('the story fell through the cracks... no first-person witness'); N-2 not referred to.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-8603",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8604",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8605",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8606",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'I definitely can establish some connections between Turning Point USA and his wife, um, where his wife works.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-8607",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8608",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'a woman collapsing in a parking lot' refers to Erika's account, so N-2 is treated as clearly referred to.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8609",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8610",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8611",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8612",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Bondi firing and Epstein-files handling with no link to the Kirk case drawn here; better tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-8613",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": true,
+  "note": "Kash Patel is not named in the claim but N-69 is in Mentions. Epstein deepfake video has no bearing on the Kirk case; tangential.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-9"
+   ],
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-8614",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Epstein video removal has no bearing on the Kirk case; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-8615",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8616",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8617",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'We then learn actually that the reason that Trump fired her is cuz... he believes that she is the one that tipped off Eric Swalwell'; later 'buried deep in all the articles'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8618",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8619",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Comment from 'Chewing the Void'; host: 'Same players involved, same country involved... Let's bring back the comparative bullet analysis thing... We discontinued it'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8620",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8621",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8622",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8623",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8624",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says 'Elizabeth McCoy'; node N-218 is Eliza McCoy (same person).",
+  "fix": {}
+ },
+ {
+  "claim": "C-8625",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: 'So he would tell them, \"Please save a sentence.\"' - 'them', not 'him'.",
+  "fix": {
+   "claim": "The host says Charlie had an in with Trump's speechwriter and would ask them to save a sentence, for example when promoting Blexit."
+  }
+ },
+ {
+  "claim": "C-8626",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8627",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8628",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8629",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: 'they were like, \"Oh no, Charlie was great... never had that thought ever.\"' 'They' is not identified as TPUSA in the window, and 'now' is added.",
+  "fix": {
+   "claim": "The host says that the night before Charlie said they were going to kill him, while they said he never had that thought."
+  }
+ },
+ {
+  "claim": "C-8630",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8631",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'not about who would succeed him' is the host's contrast with the question she says she never heard a donor ask; acceptable.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8632",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim concerns only 'Lori's whereabouts'; Erika (N-2) is not named or referred to.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-490"
+   ]
+  }
+ },
+ {
+  "claim": "C-8633",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8634",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2669",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2670",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2671",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Montage: 'Candace Owens... I said, that's a star.' Then 'your reputation is amazing. I will not let you down' with no addressee identified; claim presents it as praise of Kelly/Owens.",
+  "fix": {
+   "claim": "CNN assembled a montage of past Trump appearances, which the host plays, in which he praised Megyn Kelly and Candace Owens (saying of Owens \"that's a star\") and says \"your reputation is amazing,\" contradicting his current posture in A-1939.1."
+  }
+ },
+ {
+  "claim": "C-2672",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2673",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2674",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2675",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2676",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim quotes Trump about 'her money' (Miriam Adelson, named in the label) but N-299 is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-5",
+    "N-299"
+   ]
+  }
+ },
+ {
+  "claim": "C-2677",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2678",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2679",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2680",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Post's '100% approval rating' line is at ~07:40; host juxtaposes it with 'fake news CNN' at ~11:25 within the range.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2681",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8635",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8636",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8637",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Trump post's Iran jab at the four critics does not bear on the Kirk case; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-8638",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Trump post's TV jab at the critics does not bear on the Kirk case; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-8639",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Trump post's jab at Tucker Carlson does not bear on the Kirk case; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-8640",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

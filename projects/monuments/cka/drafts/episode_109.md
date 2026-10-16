@@ -906,7 +906,7 @@ Investigative Direction: FBI Director public schedule and travel records for Sep
 
 Claim Timestamp: 00:12:46
 
-Claim: The host says she has filed a FOIA request to find out who was aboard the SAM flight.
+Claim: The host says she decided to file a FOIA request about the SAM flight.
 
 Transcript Snippet: Uh so, I decided, "Hey, we should probably file an FOIA request."
 
@@ -1388,7 +1388,7 @@ Investigative Direction: Fox News interview archive for September 11, 2025.
 
 Claim Timestamp: 00:45:41
 
-Claim: A viewer comment the host reads says Erika Kirk and Victor Marx are close; a second viewer comment she reads says a person's character can be assessed by the company they keep, and the host adds she does not find Erika believable.
+Claim: A viewer comment the host reads says Erika Kirk and Victor Marx are close; the host says a person's character can be assessed by the company they keep and that she does not find Erika believable.
 
 Transcript Snippet: James The Least writes, "The fact that Erika Kirk and Victor Marx are close is the least surprising thing ever."
 

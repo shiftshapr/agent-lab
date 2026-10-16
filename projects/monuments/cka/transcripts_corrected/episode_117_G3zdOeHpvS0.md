@@ -220,7 +220,7 @@ Their obsession with Israel, uh, their nastiness toward anybody who is questioni
 
 [38:48]
 
-Anyway, I want to show you another discrepancy, um, another September 10th discrepancy. This time it is pertaining to CPR. Uh, you heard Andrew Kolvet earlier say, we showed you the clip of him on Laura Ingram saying about the necklace that it was removed as they were trying to save his life. Um, perhaps the implication being that that necklace was removed because they were trying to do CPR. Well, if you think they did CPR, you would be right and you would be wrong depending on who you listened to that was in the car on the way to the hospital. Here is what Frank Turek has to say about CPR. >> We're just we're cutting through intersections, you know, we're just beeping the horn. This this this this is not a emergency vehicle. There's no there's no lights, there's none of this.
+Anyway, I want to show you another discrepancy, um, another September 10th discrepancy. This time it is pertaining to CPR. Uh, you heard Andrew Kolvet earlier say, we showed you the clip of him on Laura Ingraham saying about the necklace that it was removed as they were trying to save his life. Um, perhaps the implication being that that necklace was removed because they were trying to do CPR. Well, if you think they did CPR, you would be right and you would be wrong depending on who you listened to that was in the car on the way to the hospital. Here is what Frank Turek has to say about CPR. >> We're just we're cutting through intersections, you know, we're just beeping the horn. This this this this is not a emergency vehicle. There's no there's no lights, there's none of this.
 
 [39:34]
 

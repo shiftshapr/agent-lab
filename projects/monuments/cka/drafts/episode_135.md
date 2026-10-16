@@ -732,7 +732,7 @@ Erika Kirk's "I forgive him" statement about Tyler Robinson at the memorial, whi
 **N-11305** Utah Medical Examiner Office Departures to New York
 
 Node Type: Topic
-Reported departures of Dr. Deidra Amaro from Utah and of Dr. Andrew and Dr. Ashley Brown Guajardo to New York, with a new New York chief medical examiner role and an NYU teaching post.
+Reported departures of Dr. Deirdre Amaro from Utah and of Dr. Andrew and Dr. Ashley Brown Guajardo to New York, with a new New York chief medical examiner role and an NYU teaching post.
 
 *Related: C-11659, C-11660, C-11661*
 
@@ -765,11 +765,11 @@ Related Nodes:
 
 Investigative Direction: Verify description against Penguin Random House's official book page.
 
-**C-3177** Harpole preliminary hearing testimony content
+**C-3177** Harpole Account of ER Actions in Played Clip
 
 Claim Timestamp: 00:19:46
 
-Claim: Brian Harpole's preliminary hearing testimony, as played in the episode, states he cut Charlie Kirk's shirt off, then discussed drug administration with the medical staff, then exited the room and guarded the door.
+Claim: In a clip the host plays, Brian Harpole says he cut Charlie Kirk's shirt off, then went back and forth with the medical staff on drugs, then exited the room and guarded the door.
 
 Anchored Artifacts: A-2219.1
 Mentions: N-1, N-267
@@ -912,7 +912,7 @@ Investigative Direction: Cross-reference with other rooftop witness accounts; ob
 
 Claim Timestamp: 00:23:00
 
-Claim: Per host's verbal source (not displayed in this episode), Timpanogos Hospital staff directed ER patients to a different wing at approximately 10:00 a.m. on September 10, 2025.
+Claim: Per host's verbal source (not displayed in this episode), Timpanogos Hospital staff directed ER patients to a different wing at some point in the 10:00 a.m. hour on September 10, 2025.
 
 Anchored Artifacts: None displayed (verbal source only)
 Mentions: N-1
@@ -942,7 +942,7 @@ Investigative Direction: Obtain shuttle company records, Intermountain intake lo
 
 Claim Timestamp: 00:25:08
 
-Claim: The host says a patient file for Charlie Kirk was previously confirmed visible in the Utah Valley Hospital / Intermountain Health electronic system, as she originally displayed in an October 28, 2025 episode.
+Claim: The host says a patient file for Charlie Kirk, leaked to her show, appeared in the Utah Valley Hospital / Intermountain Health electronic system, as she originally displayed in an October 28, 2025 episode.
 
 Anchored Artifacts: Referenced from prior episode (originally displayed in earlier episode, not re-displayed here)
 Mentions: N-1
@@ -1098,7 +1098,7 @@ Investigative Direction: Verify Guajardo's employment history through Utah state
 
 Claim Timestamp: 00:02:12
 
-Claim: The host says that when Dr. Deidra Amaro became chief medical examiner in 2024 she selected Guajardo as her deputy, promoting him to deputy chief examiner that year.
+Claim: The host says that when Dr. Deirdre Amaro became chief medical examiner in 2024 she selected Guajardo as her deputy, promoting him to deputy chief examiner that year.
 
 Transcript Snippet: she decided to select him as her deputy, so he was promoted in 2024 when she got there to the role of deputy chief examiner.
 
@@ -1162,7 +1162,7 @@ Investigative Direction: Obtain the Twiggs interview recording or transcript and
 
 Claim Timestamp: 00:04:07
 
-Claim: The host says that after listening to the preliminary hearing she suspects Tyler Robinson could plausibly have been set up by Lance Twiggs, since Lance's prints are everywhere in the home and Tyler could have had a login to his boyfriend's Discord.
+Claim: The host says that after listening to the preliminary hearing she suspects Tyler Robinson could plausibly have been set up by Lance Twiggs, since Lance's prints are everywhere, he lives with Tyler, and he could plausibly have had a login to his boyfriend's Discord.
 
 Transcript Snippet: after listening to the preliminary hearing, we suspect that Tyler plausible could have been set up by Lance. His prints are everywhere.
 
@@ -1370,7 +1370,7 @@ Investigative Direction: Find the Discord server and syllabi or posts where stud
 
 Claim Timestamp: 00:12:50
 
-Claim: The host says Dr. Deidra Amaro has left the Utah medical examiner's office and is no longer in Utah.
+Claim: The host says Dr. Deirdre Amaro has left the building and is no longer at Utah.
 
 Transcript Snippet: Dr. Amara has left uh the building. She's no longer at Utah.
 
@@ -1790,7 +1790,7 @@ Investigative Direction: Obtain EMS and hospital records on resuscitation attemp
 
 Claim Timestamp: 00:34:25
 
-Claim: The anesthesiologist's email, which the host says is the writer's opinion and not hers, says Charlie was murdered by a shaped charge on his chest and that the security team acted in a highly rehearsed fashion to get him out before anyone could see what happened.
+Claim: The anesthesiologist's email, which the host says is the writer's opinion and not hers, says that in the writer's estimation Charlie was murdered by a shaped charge on his chest and that the security team acted in a highly rehearsed fashion to get him out before anyone could see what happened.
 
 Transcript Snippet: his security team did their best in a highly rehearsed fashion to get him the hell out of there before anybody could see what happened.
 
@@ -1903,7 +1903,7 @@ Investigative Direction: Find the Project Constitution podcast segment and compa
 
 Claim Timestamp: 00:40:10
 
-Claim: The host says it has been proven that the person on the rooftop military crawled and got into position before the bang.
+Claim: The host says it has been proven true that the person on the rooftop was military crawling, and that the witness saw the person get down into a position before the bang.
 
 Transcript Snippet: if he observed a person military crawling, which has been true proven true, and he saw this person gets down and into a position
 

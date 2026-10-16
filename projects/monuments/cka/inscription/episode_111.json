@@ -1988,8 +1988,7 @@
       "investigative_direction": "Obtain the paramedic call record and hospital admission record (with family consent).",
       "transcript_snippet": "our American um military person had had collapsed at breakfast and he sort of said, \"Look, he's okay.",
       "mentions_person_refs": [
-        "N-3",
-        "N-30"
+        "N-3"
       ]
     },
     {
@@ -2550,7 +2549,7 @@
       "@id": "C-4360",
       "ref": "C-4360",
       "label": "Alex Clark attacked Aubrey's husband and shared private correspondence with Charlie",
-      "claim": "The host says Alex Clark went after Aubrey, who used to work for Andrew Kolvet, by calling her husband weird and sharing a private correspondence with Charlie Kirk, and then posted that he was \"catching strays.\"",
+      "claim": "The host says Alex Clark went after Aubrey, who used to work for Andrew Kolvet, by calling her husband weird and sharing a private correspondence with Charlie Kirk, and that Clark then wrote, \"I'm so sorry to the boyfriend now fiance for catching strays here.\"",
       "anchored_artifacts": [
         "A-2623.3"
       ],
@@ -2793,7 +2792,7 @@
       "@id": "C-4372",
       "ref": "C-4372",
       "label": "Tyler Bowyer was repeatedly called out in Charlie's Aspen presentation",
-      "claim": "The host says Tyler Bowyer sat to Charlie Kirk's left in the Aspen presentation and was called out repeatedly, making him the likelier successor.",
+      "claim": "The host says Tyler Bowyer sat to Charlie Kirk's left in the Aspen presentation and was called out repeatedly, and that if anyone seemed someone Charlie maybe thought could take over TPUSA, it would have been Bowyer.",
       "anchored_artifacts": [
         "A-2625.1"
       ],
@@ -2880,7 +2879,7 @@
       "@type": "Claim",
       "@id": "C-4376",
       "ref": "C-4376",
-      "label": "Host messaged Kolvet, Streif and TPUSA's lawyer; the reply came from the TPUSA X account",
+      "label": "Host Messaged Kolvet, Streiff and TPUSA's Lawyer; the Reply Came From the TPUSA X Account",
       "claim": "The host says she sent her questions to Andrew Kolvet, Justin Streiff and TPUSA's lawyer, but the only response came from the TPUSA X account.",
       "anchored_artifacts": [
         "A-2626.1"

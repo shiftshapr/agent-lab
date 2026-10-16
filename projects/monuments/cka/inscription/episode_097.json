@@ -1503,7 +1503,7 @@
       "ref": "N-552",
       "name": "Aubrey Laitsch",
       "type": "person",
-      "description": "Aubrey Laitsch; the host says Kolvet cannot show what Lech gave her.",
+      "description": "Aubrey Laitsch; the host says Kolvet cannot show what Laitsch gave her.",
       "related_artifacts": [],
       "related_claims": [
         "C-10400",
@@ -2021,7 +2021,7 @@
       "@id": "C-2812",
       "ref": "C-2812",
       "label": "Lawsuit Alleges Candace Accused Harpole of Criminal Negligence Regarding Ambulance",
-      "claim": "The lawsuit alleges Candace accused Harpole and his team of criminal negligence by failing to have an ambulance on standby and failing to render aid after Kirk was shot.",
+      "claim": "Per the pre-filing demand letter the host reads, which she says summarizes the lawsuit, Candace accused Harpole and his team of criminal negligence by failing to have an ambulance on standby and failing to render aid after Kirk was shot.",
       "anchored_artifacts": [
         "A-2015.2"
       ],
@@ -2042,7 +2042,7 @@
       "@id": "C-2813",
       "ref": "C-2813",
       "label": "Lawsuit Alleges \"Charlie's Angels or Demons\" Episode Implied Security Team Had Insider Knowledge",
-      "claim": "The lawsuit alleges Candace's episode implied Harpole's security team had foreknowledge of and complicity in Kirk's assassination.",
+      "claim": "Per the pre-filing demand letter the host reads, Candace's episode implied Harpole's security team had foreknowledge of and complicity in Kirk's assassination.",
       "anchored_artifacts": [
         "A-2015.3"
       ],
@@ -2061,7 +2061,7 @@
       "@id": "C-2814",
       "ref": "C-2814",
       "label": "Lawsuit Alleges Candace Falsely Accused Harpole of Failing to Render Aid via Medical Bag and Lying About Drone Availability",
-      "claim": "The lawsuit alleges Candace accused Harpole of failing to render effective aid with his medical bag and of lying about drone availability.",
+      "claim": "Per the pre-filing demand letter the host reads, Candace accused Harpole of failing to render effective aid with his medical bag and of lying about drone availability.",
       "anchored_artifacts": [
         "A-2015.4"
       ],
@@ -2131,7 +2131,7 @@
         "N-10644"
       ],
       "tags": [],
-      "claim_timestamp": "00:17:25",
+      "claim_timestamp": "00:16:46",
       "investigative_direction": "Audit Candace's prior episode transcripts and show notes for any reference to him prior to November 19.",
       "mentions_person_refs": [
         "N-3",
@@ -2216,7 +2216,7 @@
         "N-10646"
       ],
       "tags": [],
-      "claim_timestamp": "00:28:30",
+      "claim_timestamp": "00:27:53",
       "investigative_direction": "Compare the original Shawn Ryan audio against the lawsuit's admission to identify the precise point of misrepresentation.",
       "mentions_person_refs": [
         "N-3",
@@ -2271,7 +2271,7 @@
       "@id": "C-2824",
       "ref": "C-2824",
       "label": "Host Says Harpole's Drone Statement Conflicts with Frank Turek's Account",
-      "claim": "The host says Harpole's statement that drones could not be flown in Provo airspace conflicts with Frank Turek's separate account of flying drones at UVU events.",
+      "claim": "The host says Harpole's statement that drones could not be flown in Provo airspace conflicts with Frank Turek's separate account of drones being flown at the UVU event.",
       "anchored_artifacts": [
         "A-2015.4",
         "A-2028.1"
@@ -2293,7 +2293,7 @@
       "@id": "C-2825",
       "ref": "C-2825",
       "label": "Erika Kirk Publicly Claimed Candace Accused Her of Killing Charlie",
-      "claim": "The host says Erika Kirk publicly claimed that Candace accused her of murdering Charlie Kirk, which the host calls obviously untrue; the host says everyone had the same reaction to it.",
+      "claim": "The host says Erika Kirk publicly claimed that Candace accused her of murdering Charlie Kirk, which the host calls obviously untrue; in a clip the host plays, Baron Coleman says everyone had the same reaction to it.",
       "anchored_artifacts": [
         "A-2021.1"
       ],
@@ -2304,9 +2304,10 @@
       "claim_timestamp": "00:42:15",
       "investigative_direction": "Locate Erika Kirk's original statement on video or social media to verify exact wording and context.",
       "mentions_person_refs": [
+        "N-1",
         "N-2",
         "N-3",
-        "N-1"
+        "N-331"
       ]
     },
     {
@@ -3968,7 +3969,7 @@
       "@id": "C-10419",
       "ref": "C-10419",
       "label": "Host Says Flights She Has Left Dallas in the Afternoon",
-      "claim": "The host says she has Harpole's flights and they were afternoon departures from Dallas at 2:19, 1:19 and 1:39.",
+      "claim": "The host says \"she had his flights\" and that Harpole's flights were afternoon departures from Dallas at 2:19, 1:19 and 1:39.",
       "anchored_artifacts": [
         "A-3077.1"
       ],

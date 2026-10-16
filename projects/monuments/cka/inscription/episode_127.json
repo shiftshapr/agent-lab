@@ -1737,7 +1737,7 @@
       "@id": "C-3044",
       "ref": "C-3044",
       "label": "Officer Bagley testified he did not review video footage between 12:23 and 12:44 for other rooftop presence",
-      "claim": "Officer Bagley testified that he did not notice anyone else on the roof, and, as the examiner put it and the host says he answered \"No,\" he did not review the video for anyone on the rooftop between the suspect's jump and his arrival.",
+      "claim": "Officer Bagley testified that he did not notice anyone else on the roof and, asked whether he checked the video for that gap of time, answered \"In that gap of time, no\"; the examiner summarized that he did not review the video for anyone on the rooftop between the suspect's jump and his arrival.",
       "anchored_artifacts": [
         "A-2146.2"
       ],
@@ -1956,7 +1956,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:30:48–00:34:40",
+      "claim_timestamp": "00:32:30",
       "investigative_direction": "Note as Frank Turek show content artifact; not investigation-relevant. Preserve for record only.",
       "mentions_person_refs": [
         "N-3",
@@ -2044,7 +2044,7 @@
       "@id": "C-7282",
       "ref": "C-7282",
       "label": "Host Says Kash Patel Announced Screwdriver DNA Days After a Leak",
-      "claim": "The host says Kash Patel announced that a screwdriver carried Tyler Robinson's DNA a couple of days after the screwdriver was first leaked, which she dates to about September 11, and that Robinson was found in 33 hours.",
+      "claim": "The host says Kash Patel announced a couple of days later that a screwdriver carried Tyler Robinson's DNA, but that it had already been leaked that a screwdriver was discovered, which she thinks was the next day, September 11, and that Robinson was found in 33 hours.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10090",
@@ -2135,7 +2135,7 @@
       "@id": "C-7286",
       "ref": "C-7286",
       "label": "Host Says Body-Cam Data Will Show Whether the Battery Died or Was Turned Off",
-      "claim": "The host says the Axon cameras store their data, so it will eventually be possible to learn how the battery died so quickly or whether the camera was manually turned off, and that she expects this to come out at a full trial.",
+      "claim": "The host says people who wrote in said the Axon cameras store their data, so it will eventually be possible to learn how Officer Bagley's camera battery died so quickly or whether it was manually turned off, and that she expects this to come out at a full trial.",
       "anchored_artifacts": [
         "A-2147.1"
       ],
@@ -2214,7 +2214,7 @@
       "@id": "C-7289",
       "ref": "C-7289",
       "label": "Host Says Influencers Reported 4K HD Rooftop Footage",
-      "claim": "The host says a ton of influencers confirmed that for the rooftop Bagley was on they are now able to get 4K HD footage that has been enhanced, and that these influencers are typically the only ones shown it.",
+      "claim": "The host says sarcastically that a ton of influencers confirmed that for the rooftop Bagley was on they are now able to get 4K HD footage that has been enhanced, and that these influencers are typically the only ones shown it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10731",
@@ -2567,7 +2567,7 @@
       "@id": "C-7304",
       "ref": "C-7304",
       "label": "Host Says Nobody Has Taken Credit for Calling 911",
-      "claim": "The host says that although Brian Harpole and Frank Church (Turek) loved telling the story over and over, nobody wants to take credit for calling 911.",
+      "claim": "The host says that although Brian Harpole and Frank Turek (Turek) loved telling the story over and over, nobody wants to take credit for calling 911.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10729"
@@ -3183,7 +3183,7 @@
         "N-10177"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:48:49",
       "investigative_direction": "Request preservation and forensic imaging of the host's phone and cloud backups for the Charlie Kirk message archive.",

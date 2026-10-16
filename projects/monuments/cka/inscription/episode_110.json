@@ -813,7 +813,7 @@
       "ref": "N-435",
       "name": "Christoph Schweizer",
       "type": "person",
-      "description": "First named by the host at 00:18:28 in episode 110. Aliases: Kristoff Schweizer, Kristoff Schweiser.",
+      "description": "First named by the host at 00:18:28 in episode 110. Aliases: Christoph Schweizer, Kristoff Schweiser.",
       "related_artifacts": [],
       "related_claims": [
         "C-2919",
@@ -1207,7 +1207,7 @@
       "@type": "Person",
       "@id": "N-756",
       "ref": "N-756",
-      "name": "Claire Ginan",
+      "name": "Claire Guinan",
       "type": "person",
       "description": "Jezebel writer the host links to the Etsy curse.",
       "related_artifacts": [],
@@ -1859,7 +1859,7 @@
         "N-10670"
       ],
       "tags": [],
-      "claim_timestamp": "00:16:40",
+      "claim_timestamp": "00:16:03",
       "investigative_direction": "Retrieve original Financial Times article and Project Aurora documents.",
       "mentions_person_refs": []
     },
@@ -1952,8 +1952,8 @@
       "@type": "Claim",
       "@id": "C-2920",
       "ref": "C-2920",
-      "label": "Kristoff Schweizer (BCG CEO) described Project Aurora as \"reputationally very damaging\"",
-      "claim": "Per host reading, BCG CEO Kristoff Schweizer described the Project Aurora episode as \"reputationally very damaging.\"",
+      "label": "Christoph Schweizer (BCG CEO) described Project Aurora as \"reputationally very damaging\"",
+      "claim": "Per host reading, BCG CEO Christoph Schweizer described the Project Aurora episode as \"reputationally very damaging.\"",
       "anchored_artifacts": [
         "A-2077.1"
       ],
@@ -2042,7 +2042,7 @@
       "@id": "C-2925",
       "ref": "C-2925",
       "label": "Mitt Romney was the driver in a June 16, 1968 France car crash that killed Leola Anderson",
-      "claim": "Per NYT article, on June 16, 1968, Mitt Romney was driving a car in southern France that was hit head-on; H. Dwayne Anderson's wife Leola was killed.",
+      "claim": "Per NYT article, on June 16, 1968, Mitt Romney was driving a car in southern France that was hit head-on; H. Duane Anderson's wife Leola was killed.",
       "anchored_artifacts": [
         "A-2081.1"
       ],
@@ -2189,7 +2189,7 @@
       "@type": "Claim",
       "@id": "C-2933",
       "ref": "C-2933",
-      "label": "Orbis prepared the Project Aurora study on behalf of the Tacit/Tachlith Institute (Israeli think tank)",
+      "label": "Orbis Prepared the Project Aurora Study on Behalf of the Tachlith Institute (Israeli Think Tank)",
       "claim": "Per the displayed on-screen graphic and host description, Orbis was prepping the study on behalf of the Tacit/Tachlith Institute, an Israeli think tank.",
       "anchored_artifacts": [
         "A-2076.1"
@@ -2581,7 +2581,7 @@
       "@id": "C-14647",
       "ref": "C-14647",
       "label": "Host Says an Influencer Campaign With Special Forces Figures Threatened to Take Her Down",
-      "claim": "The host says that after the Fort Huachuca sighting, an influencer campaign with many special forces figures suddenly appeared, with screaming threats that they would take her down and would platform Mitch's baby mamas.",
+      "claim": "The host says that after the Fort Huachuca sighting, an influencer campaign with many special forces figures suddenly appeared, with screaming threats that \"they're going to take you down\" and would platform Mitch's baby mamas.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10378"
@@ -2954,8 +2954,8 @@
       "@type": "Claim",
       "@id": "C-14665",
       "ref": "C-14665",
-      "label": "Host Says Claire Ginan Wrote Her First Ever Article for Jezebel in June After Charlie's Debate",
-      "claim": "The host says writer Claire Ginan, who had never published and has no writing profile, wrote her first article for Jezebel in June 2025, after Charlie Kirk won the debate against Netanyahu's lobbyists.",
+      "label": "Host Says Claire Guinan Wrote Her First Ever Article for Jezebel in June After Charlie's Debate",
+      "claim": "The host says writer Claire Guinan, who had never published and has no writing profile, wrote her first article for Jezebel in June 2025, after Charlie Kirk won the debate against Netanyahu's lobbyists.",
       "anchored_artifacts": [
         "A-2076.2"
       ],
@@ -2968,7 +2968,7 @@
       ],
       "claim_timestamp": "00:29:30",
       "investigative_direction": "Check Ginan's byline history at Jezebel and elsewhere; ask Jezebel for her hire date.",
-      "transcript_snippet": "This writer, Claire Ginan, who had never published before, she has no writing profile at all, writes her first article for Jezebel.",
+      "transcript_snippet": "This writer, Claire Guinan, who had never published before, she has no writing profile at all, writes her first article for Jezebel.",
       "supports_claim_refs": [
         "C-1274"
       ],
@@ -2981,7 +2981,7 @@
       "@id": "C-14666",
       "ref": "C-14666",
       "label": "Host Says Ginan Bought an Etsy Curse on Charlie Kirk Less Than Ten Days After the White House Debate",
-      "claim": "The host says Claire Ginan went on Etsy, found a new witch profile and bought a spell to curse Charlie Kirk, and that this was less than 10 days after Charlie won the debate against Netanyahu's lobbyists.",
+      "claim": "The host says Claire Guinan went on Etsy, found a new witch profile and bought a spell to curse Charlie Kirk, and that this was less than 10 days after Charlie won the debate against Netanyahu's lobbyists.",
       "anchored_artifacts": [
         "A-2076.2"
       ],
@@ -3451,7 +3451,7 @@
       "@id": "C-14687",
       "ref": "C-14687",
       "label": "NYT Says Six People Rode in a Five-Seat Car Driven by 21-Year-Old Romney",
-      "claim": "Per the New York Times article the host reads, H. Dwayne Anderson took his wife, two missionaries and a French Mormon couple, six people in a car that comfortably seats five, driven by 21-year-old missionary Mitt Romney.",
+      "claim": "Per the New York Times article the host reads, H. Duane Anderson took his wife, two missionaries and a French Mormon couple, six people in a car that comfortably seats five, driven by 21-year-old missionary Mitt Romney.",
       "anchored_artifacts": [
         "A-2081.1"
       ],
@@ -3737,7 +3737,7 @@
       "@id": "C-14701",
       "ref": "C-14701",
       "label": "Viewer Comment Says Tom Artiom Alexandrovich Left the US After a Nevada Child-Luring Arrest",
-      "claim": "A viewer comment read by the host says Tom Artiom Alexandrovich was allowed to leave the United States and return to Israel after being arrested in Nevada on felony child-luring charges, and the host agrees it happened because he is Israeli.",
+      "claim": "A viewer comment read by the host asks why Tom Artiom Alexandrovich was allowed to leave the United States and return to Israel after being arrested in Nevada on felony child-luring charges, answering that it is because he is Israeli and that is the way the system works.",
       "anchored_artifacts": [
         "A-3335.1"
       ],

@@ -1442,7 +1442,7 @@
       "@type": "Person",
       "@id": "N-555",
       "ref": "N-555",
-      "name": "Carrie Prejean Bowler",
+      "name": "Carrie Prejean Boller",
       "type": "person",
       "description": "Traveling with Candace in Spain when coordinated smear wave hit.",
       "related_artifacts": [],
@@ -1914,7 +1914,7 @@
       "@id": "C-3682",
       "ref": "C-3682",
       "label": "Tips describe million-dollar Discord bounties for anti-Candace videos",
-      "claim": "The host says unsolicited email tips claimed participants had proof that roughly $1.5M (and \"millions\") went out via Discord assignments for anti-Candace videos during the Tyler Robinson prelim week, orchestrated through Monster Lab / Clippet rather than a direct TPUSA paycheck.",
+      "claim": "The host says unsolicited email tips claimed participants had proof that millions of dollars went out via Discord assignments for anti-Candace videos during the Tyler Robinson prelim week (one email citing $1.5M); she says she confirmed the company behind it does business as Monster Lab / Clippet, and that someone is doing it on TPUSA's behalf rather than TPUSA paying directly.",
       "anchored_artifacts": [
         "A-2498.1"
       ],
@@ -1963,7 +1963,7 @@
       "@id": "C-3684",
       "ref": "C-3684",
       "label": "Discord pivoted $75k to make Andrew Wilson look good vs Candace",
-      "claim": "After the August 14 Candace vs Andrew Wilson debate, Elephant Clipping Discord instructions shifted for one week to a $75,000 pool clipping only that debate, allowing Candace only where she looks bad and Turning Point looks good, despite TPUSA publicly saying it had nothing to do with the debate.",
+      "claim": "Per the Elephant Clipping Discord messages the host shows, after the August 14 Candace vs Andrew Wilson debate the instructions shifted for one week to a $75,000 pool clipping only that debate, allowing Candace only where she looks bad and Turning Point looks good; the host notes TPUSA publicly said it had nothing to do with the debate.",
       "anchored_artifacts": [
         "A-2498.1"
       ],
@@ -2182,7 +2182,7 @@
       "@id": "C-3693",
       "ref": "C-3693",
       "label": "Andrew Tate pioneered the clipping economy via Hustlers University",
-      "claim": "Via the Edson interview clip, the show presents Andrew Tate's 2021 Hustlers University as the pioneering clip-army model (affiliate accounts, livestream clipping, commission links) later imitated by political clipping ops including the Erika/TPUSA-adjacent machine.",
+      "claim": "Via the Edson interview clip, the show presents Andrew Tate's 2021 Hustlers University as the pioneering clip-army model (affiliate accounts, livestream clipping, commission links); before the clip the host says people discussed how the idea was stolen and recreated in the likeness of Erika Kirk, adding \"I don't know.\"",
       "anchored_artifacts": [
         "A-2503.1"
       ],
@@ -2194,7 +2194,7 @@
       "investigative_direction": "Document Hustlers University affiliate mechanics vs Monster Lab Discord payout rules.",
       "mentions_person_refs": [
         "N-171",
-        "N-202"
+        "N-2"
       ]
     },
     {
@@ -2263,7 +2263,8 @@
         "N-37",
         "N-69",
         "N-299",
-        "N-354"
+        "N-2",
+        "N-744"
       ]
     },
     {
@@ -2312,8 +2313,7 @@
         "C-3687"
       ],
       "mentions_person_refs": [
-        "N-2",
-        "N-14"
+        "N-2"
       ]
     },
     {
@@ -2403,8 +2403,7 @@
         "C-3130"
       ],
       "mentions_person_refs": [
-        "N-1",
-        "N-40"
+        "N-1"
       ]
     },
     {
@@ -2412,7 +2411,7 @@
       "@id": "C-10591",
       "ref": "C-10591",
       "label": "Host says the coordinated smear wave hit while she was off air in Spain",
-      "claim": "The host says she was in Spain with the show off air for two weeks during the Robinson preliminary-hearing week, traveling with Carrie Prejean Bowler, and was nonetheless inundated with obviously coordinated, well-funded attacks portraying her as a digital assassin.",
+      "claim": "The host says she was in Spain with the show off air for two weeks during the Robinson preliminary-hearing week, traveling with Carrie Prejean Boller, and was nonetheless inundated with obviously coordinated, well-funded attacks portraying her as a digital assassin.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10883"
@@ -3515,7 +3514,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "01:09:20",
       "investigative_direction": "None; sweeping group characterization.",

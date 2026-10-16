@@ -832,7 +832,7 @@ Modeling agency head named by the host.
 
 **N-688** Philip Goldsberry Jr.
 
-Co-founder of Sofer Global Ministries per the host (transcribed Phil Goldsbury).
+Co-founder of Sofer Global Ministries per the host (transcribed Phil Goldsberry).
 
 *Related: C-10516*
 
@@ -1054,7 +1054,7 @@ Investigative Direction: Verify Bagley's personnel record with UVU police / Utah
 
 **C-3449** Host Says George Zinn Had Child Pornography Pertaining to a 5-Year-Old on His Phone
 
-Claim Timestamp: 00:12:41
+Claim Timestamp: 00:12:07
 
 Claim: The host says that, after George Zinn's arrest, child pornography pertaining to a 5-year-old was discovered on his phone, and that he was sentenced for child sex crimes; she cites the New York Post as having covered it.
 
@@ -1088,7 +1088,7 @@ Investigative Direction: Pull the search warrant records from Utah court filings
 
 Claim Timestamp: 00:12:41–00:15:26
 
-Claim: In a clip the host plays, Baron Coleman says that Michael George Carl's documented assignment, per the training listed on his affidavit, is the Special Victims Unit / ICAC, focused on online crimes against children.
+Claim: In a clip the host plays, Baron Coleman says that, per the training listed on his affidavit, Michael George Carl is assigned to the Special Victims Unit at the Utah County Sheriff's Office, primarily working cyber crimes involving the exploitation of youth, and that he completed training at the ICAC Bootstrap Academy.
 
 Anchored Artifacts: A-2378.1
 Mentions: N-331, N-868
@@ -1167,7 +1167,7 @@ Investigative Direction: Obtain HSI whistleblower complaint / DOJ records pertai
 
 Claim Timestamp: 00:27:01–00:28:24
 
-Claim: The host says Utah AG David Leavitt was named in a 151-page victim statement regarding ritualistic child abuse / cannibalism allegations spanning 1990-2010, which she says he characterized as politically manufactured; she notes no criminal finding.
+Claim: The host says Utah AG David Leavitt was named in a 151-page victim statement regarding ritualistic child abuse / cannibalism allegations spanning 1990-2010, which she says he characterized as politically manufactured.
 
 Anchored Artifacts: None visible in this episode
 Mentions: N-869
@@ -1231,7 +1231,7 @@ Investigative Direction: Locate primary reporting on the lobbying / cancellation
 
 Claim Timestamp: 00:03:34–00:08:18
 
-Claim: The episode displays a spreadsheet and host narration enumerating over fifteen individuals / entities linked to TPUSA or Erika Kirk's circle who have documented connections to trafficking, child sex abuse investigations, or related operations.
+Claim: The episode displays a spreadsheet and host narration enumerating over fifteen individuals / entities linked to TPUSA or Erika Kirk's circle whom the host connects to trafficking, child sex abuse investigations, or related operations.
 
 Anchored Artifacts: A-2382.1
 Mentions: N-2
@@ -1276,7 +1276,7 @@ Investigative Direction: Verify via Bagley's body cam records disclosed in preli
 
 ---
 
-**C-3463** Host Says George Zinn Was Sentenced for Child Sex Crimes After His Arrest on September 10
+**C-3463** Host Says George Zinn Was Sentenced for Child Sex Crimes After His Arrest
 
 Claim Timestamp: 00:12:41
 
@@ -1345,7 +1345,7 @@ Investigative Direction: Find the primary accusation records or reporting on Bus
 
 **C-10502** Host Says David Frodsham Was Charged at Fort Huachuca With Running a Child Sex Abuse Ring
 
-Claim Timestamp: 00:03:34
+Claim Timestamp: 00:04:40
 
 Claim: The host says David Frodsham was the civilian commander stationed at Fort Huachuca who was charged with running a child sex abuse ring.
 
@@ -1379,7 +1379,7 @@ Investigative Direction: Obtain the Make Heaven Crowded tour lineup and event pa
 
 Claim Timestamp: 00:05:08
 
-Claim: The host says the church linked to that tour is currently going through the court system accused of trafficking children from Romania, that it denies the charges, and that it does not deny people may have been trafficked.
+Claim: The host says Harvest Church, linked to that tour, is currently going through the court system accused of trafficking children from Romania, and that Greg Laurie denies the charges but does not deny people may have been trafficked.
 
 Transcript Snippet: they were they are currently going through the court system being accused of trafficking children from Romania.
 
@@ -1462,7 +1462,7 @@ Transcript Snippet: Erika uh lived in China and worked with child sex traffickin
 
 Anchored Artifacts: A-2382.1
 Mentions: N-2, N-3
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Ask Erika Kirk to name the organization in China; search charity registries and her own prior statements about it.
 
 ---
@@ -1545,11 +1545,11 @@ Investigative Direction: Find TPUSA's announcement of the Buckman gift and the B
 
 ---
 
-**C-10515** Host Says Marcus Wada Runs Trafficking-Rescue Arms in Poland and Rick Cutler Rescued Kids From Trafficking in South America
+**C-10515** Host Says Marcus Wada Is Linked to Trafficking Arms in Poland and Rick Cutler Rescued Kids From Trafficking in South America
 
 Claim Timestamp: 00:07:01
 
-Claim: The host says Marcus Wada is tied to more trafficking-related work in Poland, and that Rick Cutler rescued kids from sex trafficking in South America through Operation Underground, which she says Glenn Beck funded.
+Claim: The host says of Marcus Wada, "that's more trafficking arms in Poland," and that Rick Cutler rescued kids from sex trafficking in South America through Operation Underground, which she says Glenn Beck funded.
 
 Transcript Snippet: Marcus Wada, that's more trafficking arms in Poland. Rick Cutler rescued kids from sex trafficking in South America.
 
@@ -1565,12 +1565,12 @@ Investigative Direction: Check Wada's Polish organizations and Cutler's Operatio
 
 Claim Timestamp: 00:07:01
 
-Claim: The host says Philip Goldsberry Jr. co-founded Soter Global Ministries (transcribed Sofur), a 501(c)(3) that provides medical care and training to orphans in Romania, Albania and Ukraine.
+Claim: The host says Philip Goldsberry Jr. co-founded Soter Global Ministries, a 501(c)(3) that provides medical care and training to orphans in Romania, Albania and Ukraine.
 
 Transcript Snippet: co-founding Soter Global Ministries a 501c3 that provides medical care and training to orphans in Romania, Albania and Ukraine.
 
 Anchored Artifacts: A-2382.1
-Mentions: N-688, N-689
+Mentions: N-688
 Related Nodes: N-10989
 Tags: relevance:context
 Investigative Direction: Pull the IRS filing for Sofer Global Ministries and its officers.
@@ -2200,7 +2200,7 @@ Investigative Direction: Obtain the host's outbound email and any reply or non-r
 
 Claim Timestamp: 00:29:26
 
-Claim: The host says Epstein frequented the office of the modeling agency run by Faith Kates, an agency started by Jean-Luc Brunel (transcribed John Luke Brunell) of France, who she says was found dead by suicide.
+Claim: The host says Epstein frequented the office of a modeling agency run by Faith Kates, someone he was very close with, "and or" a modeling agency started by Jean-Luc Brunel (transcribed John Luke Brunell) of France, who she says was "found suicided, as they say."
 
 Transcript Snippet: Faith Kates running that modeling agency and or a modeling agency that started started by John Luke Brunell uh of France who uh was found suicided as they say in France
 
@@ -2385,7 +2385,7 @@ Investigative Direction: Review the detective's interview transcript if released
 
 Claim Timestamp: 00:41:02
 
-Claim: The host says that whenever people are married to the Israel cause you find this sort of thing in their background because Israel is very good at blackmailing people.
+Claim: The host says it seems that whenever people are married to the Israel cause in a way that unnerves her, you find this sort of thing in their background because Israel is very good at blackmailing people.
 
 Transcript Snippet: you find this in their background because Israel is very good at blackmailing people.
 
@@ -2619,7 +2619,7 @@ Claim: The host agrees with a comment that Erika went on a media tour with Fox, 
 Transcript Snippet: The entire tour was about debunking Candace. She had first sent out the troops, the Alex Clark types
 
 Anchored Artifacts: A-3086.3
-Mentions: N-2, N-3, N-279, N-238, N-99
+Mentions: N-2, N-3, N-279, N-238
 Related Nodes: N-10006
 Tags: relevance:core
 Investigative Direction: Review each tour interview and match Erika's remarks to the host's earlier podcast statements.
@@ -2827,7 +2827,7 @@ Confidence: high
 ## VI. Optional Flags Summary
 
 - **Name uncertainty** (judge name): transcript spells "Graph" / "Judge Graf" – likely "Tony Graf" pending verification.
-- **Name uncertainty**: "Colonel Otto Busher" / "Bobusher"; "Michael Aino"; "David Frausham"; "Phil Goldsbury" – spellings preserved as transcript.
+- **Name uncertainty**: "Colonel Otto Busher" / "Bobusher"; "Michael Aino"; "David Frausham"; "Phil Goldsberry" – spellings preserved as transcript.
 - **Artifact verbally referenced but not shown**: New York Post George Zinn article (C-3449); HSI whistleblower case materials (C-3455); 151-page Leavitt victim statement (C-3456); Bagley body cam records (C-3462); George Zinn sentencing (C-3463).
 - **Claim failed admission test (Artifact Anchor)**: C-3447 (Mitchell background), C-3448 (Bagley background), C-3453 (ICAC/AG administrative control), C-3454 (DOJ 1998 ICAC founding), C-3461 (Mitchell's role in surrender). These are captured as host assertions only.
 - **Transcript ambiguity**: Spelling inconsistencies across names of trafficking-era and roster-connected figures preserved exactly.

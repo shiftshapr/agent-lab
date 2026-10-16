@@ -1,0 +1,451 @@
+[
+ {
+  "claim": "C-3285",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "01:05:37"
+  },
+  "note": "Rachel Wilson's quoted words begin early in the 01:05:31 block."
+ },
+ {
+  "claim": "C-3289",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "label": "In Clip Host Plays, Erika Kirk Says \"I Have His Cell Phone\""
+  },
+  "note": "Lines are Erika Kirk's (Glenn Beck clip), not Wilson's opening statement; label now matches claim."
+ },
+ {
+  "claim": "C-6059",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-40"
+   ]
+  },
+  "note": "Claim names no Wilson; N-18 not referred to."
+ },
+ {
+  "claim": "C-6087",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads a viewer comment from Jay Beam saying it freaks the writer out that Wilson said, 'You could just not do what you're doing and be okay', calling it totally creepy and suggesting he realized on air that she was close to the truth."
+  },
+  "note": "'It's almost as if...creepy...A bit worried' is part of Jay Beam's comment, not the host's words."
+ },
+ {
+  "claim": "C-3291",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Farnsworth told her on September 18 that he feared Google would hack him, though per SBI agent David Hull's testimony he had sent footage via a Google link eight days earlier.",
+   "mentions": [
+    "N-3",
+    "N-262",
+    "N-570"
+   ]
+  },
+  "note": "Phone call is the host's account; Sept 10 Google link comes from Hull's testimony, named in fixed claim."
+ },
+ {
+  "claim": "C-3292",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-570",
+    "N-262"
+   ]
+  },
+  "note": "Claim names Farnsworth twice."
+ },
+ {
+  "claim": "C-3295",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-262"
+   ]
+  },
+  "note": "Claim names Farnsworth."
+ },
+ {
+  "claim": "C-3296",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-262"
+   ]
+  },
+  "note": "Claim names Farnsworth."
+ },
+ {
+  "claim": "C-3300",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-262"
+   ]
+  },
+  "note": "Claim names Farnsworth."
+ },
+ {
+  "claim": "C-3301",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads a comment from Zamut saying, \"A burden bestowed on Candace Owens is a blessing to us all,\" and says, \"It's very funny.\"",
+   "label": "Host Reads Zamut Comment Calling Her Burden a Blessing"
+  },
+  "note": "Only the Zamut comment and 'It's very funny' are in the transcript; no agreement or music-taste comment."
+ },
+ {
+  "claim": "C-9166",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-262",
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to Charlie ('behind Charlie's head')."
+ },
+ {
+  "claim": "C-9173",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-262",
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to Charlie ('footage behind Charlie')."
+ },
+ {
+  "claim": "C-9175",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says it is plausible that the only reason to cut a separate clip from the rear camera is that the footage was zoomed in, since zooming would require creating a new clip.",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "'I'm speculating' is at 23:34, not here; claim names no Farnsworth."
+ },
+ {
+  "claim": "C-9176",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-262",
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to Charlie ('camera behind Charlie')."
+ },
+ {
+  "claim": "C-9182",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-830"
+   ]
+  },
+  "note": "Claim does not name or refer to Farnsworth."
+ },
+ {
+  "claim": "C-9185",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim does not name or refer to Farnsworth."
+ },
+ {
+  "claim": "C-9186",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Andrew and Erika in particular are starting to partner with people who are publishing things about her children's cars and the vehicles they travel in, and asks them to stop.",
+   "label": "Host Says Kolvet and Erika Kirk Are Partnering With People Publishing Her Children's Cars",
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-14"
+   ]
+  },
+  "note": "Host addresses 'Andrew, Erika in particular'; Andrew is TPUSA side (Wilson is the 'slob' they sent), i.e. Kolvet."
+ },
+ {
+  "claim": "C-9191",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim says 'they'; Andrew Wilson not referred to."
+ },
+ {
+  "claim": "C-9201",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-18"
+   ]
+  },
+  "note": "Kolvet named nearby but not in the claim."
+ },
+ {
+  "claim": "C-9210",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim names only TPUSA; Erika and Kolvet not referred to."
+ },
+ {
+  "claim": "C-3306",
+  "episode": 143,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-125",
+    "N-5"
+   ]
+  },
+  "note": "Charlie Kirk not named or referred to in the claim."
+ },
+ {
+  "claim": "C-7536",
+  "episode": 143,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-787",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie."
+ },
+ {
+  "claim": "C-7578",
+  "episode": 143,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-4",
+    "N-5",
+    "N-69",
+    "N-9"
+   ]
+  },
+  "note": "'The Trump administration' refers to Trump (N-5)."
+ },
+ {
+  "claim": "C-3314",
+  "episode": 144,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-262",
+    "N-1",
+    "N-688"
+   ]
+  },
+  "note": "Name fix is a no-op (claim already says Goldsberry; rule exists). Real gap: Philip Goldsberry Jr. (N-688, the mic tech) missing from Mentions."
+ },
+ {
+  "claim": "C-3315",
+  "episode": 144,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Ana Kasparian says, based on preliminary-hearing testimony, that Terryl Farnsworth did not provide the original SD card to investigators, only Google links and a flash drive.",
+   "mentions": [
+    "N-262",
+    "N-204"
+   ]
+  },
+  "note": "Kasparian cites preliminary-hearing testimony but does not name David Hull."
+ },
+ {
+  "claim": "C-3317",
+  "episode": 144,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a witness at the preliminary hearing testified that the Utah County Attorney's Office created the 20-minute sizzle reel, and in a clip she plays the witness says he did not prepare the video compilation and that the Utah County Attorney's Office did.",
+   "label": "Host Says Hearing Testimony Named the Utah County Attorney's Office as Maker of the Sizzle Reel",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "'He testified' follows Hull's description; witness not clearly Bricker. Neutral 'a witness' wording is supported."
+ },
+ {
+  "claim": "C-3324",
+  "episode": 144,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that in phone conversations around September 12-14, 2025, Andrew Kolvet told her about the Bill Ackman summit, Benjamin Netanyahu's letter, and Charlie Kirk's text messages to Dan Flood and Kolvet the night before; she shows a call log and text messages.",
+   "timestamp": "00:50:35"
+  },
+  "note": "Briefing is the host's account (calls Sept 12-14); Sept 11 texts shown; content starts ~50:35."
+ },
+ {
+  "claim": "C-3325",
+  "episode": 144,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:53:15",
+   "label": "Host Says Kolvet Told Her on September 14, 2025 That the TPUSA Board Had Voted In Erika Kirk"
+  },
+  "note": "'On the 14th...board has already voted in Erika' is near the end of the 52:23 block (~53:20); label spelling fixed."
+ },
+ {
+  "claim": "C-6095",
+  "episode": 144,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim states only the statute and grading; Farnsworth not referred to."
+ },
+ {
+  "claim": "C-6141",
+  "episode": 144,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim does not name or refer to Kanye."
+ },
+ {
+  "claim": "C-3331",
+  "episode": 145,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says NCRI, which issued the report, is led by Andrew Kolvet's former partner in a PR firm, Kairos company.",
+   "label": "Host Says NCRI Is Led by Andrew Kolvet's Former PR-Firm Partner"
+  },
+  "note": "Host says NCRI is led by Kolvet's former PR-firm partner, not that Kairos led the report."
+ },
+ {
+  "claim": "C-13285",
+  "episode": 145,
+  "decision": "reject",
+  "fix": {},
+  "note": "No-op: claim already says Irina, Arina->Irina rule exists, N-156 already in Mentions."
+ },
+ {
+  "claim": "C-13286",
+  "episode": 145,
+  "decision": "reject",
+  "fix": {},
+  "note": "No-op: claim already says Irina, Arina->Irina rule exists, N-156 already in Mentions."
+ },
+ {
+  "claim": "C-13287",
+  "episode": 145,
+  "decision": "reject",
+  "fix": {},
+  "note": "No-op: claim already says Irina, Arina->Irina rule exists, N-156 already in Mentions."
+ },
+ {
+  "claim": "C-7688",
+  "episode": 146,
+  "decision": "accept",
+  "fix": {
+   "claim": "After reading a viewer comment comparing Ben Shapiro to Plankton on SpongeBob, the host says Shapiro has now announced that he is on tour and that everyone knows he and Charlie Kirk were enemies, adding that she guesses Andrew Kolvet thinks he can wipe history and make everybody forget.",
+   "label": "Host Says Shapiro Announced a Tour and Everyone Knows He and Charlie Were Enemies"
+  },
+  "note": "Mama Mia's comment is only the Plankton line; the tour/enemies remark is the host's."
+ },
+ {
+  "claim": "C-7689",
+  "episode": 146,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Justin Baldoni told her he does not actually drink kombucha all that much, which she rejects as unacceptable and a now-folkloric detail.",
+   "mentions": [
+    "N-3",
+    "N-486"
+   ]
+  },
+  "note": "Justin is Justin Baldoni (N-486): ep 145 Iceland meeting and kombucha remark; ep 146 opens on him."
+ },
+ {
+  "claim": "C-3376",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Viva Frei sent a tweet echoing the \"lawyer justifying political assassination\" framing, and that she has blocked him."
+  },
+  "note": "Host's report, not shown; attribution fixed."
+ },
+ {
+  "claim": "C-3381",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Tyler Robinson's lawyer is arguing that the state's filings do not identify which specific statements by Charlie Kirk they contend are \"hateful\" toward the LGBTQ community, and that the state is inferring upon an inference.",
+   "timestamp": "00:47:11"
+  },
+  "note": "'Tyler's lawyer here is saying...' falls late in the 45:58-47:55 block; host voices the defense."
+ },
+ {
+  "claim": "C-3386",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the \"so much blood\" claim attributed to Mikey McCoy did not originate with McCoy himself; she says it came from his father, from Jack Hibbs and, she thinks, Frank Turek, i.e. \"the pastor orbit,\" and that McCoy never described seeing a lot of blood in his press.",
+   "mentions": [
+    "N-191",
+    "N-17",
+    "N-209",
+    "N-7"
+   ]
+  },
+  "note": "'His father' is Rob McCoy (N-17); lead clause now attributed to host."
+ },
+ {
+  "claim": "C-3387",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Brian Harpole, sitting down with Shawn Ryan, said there were no threats the night before September 10, which she presents as in tension with Kirk's prior-night communication of fear."
+  },
+  "note": "Host's report of Harpole's statement; attribution fixed."
+ }
+]

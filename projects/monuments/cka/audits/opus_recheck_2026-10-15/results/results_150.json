@@ -1,0 +1,766 @@
+[
+ {
+  "claim": "C-3955",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3956",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3957",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3958",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3959",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3960",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript spells 'Michaela Peterson'; N-610 Mikhaila Peterson is the same person.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3961",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3962",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only the host and Tucker Carlson; Trump appears only in the post ('Why do they want Trump dead?') and is not named or referred to in the claim, so N-5 should not be in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-22"
+   ]
+  }
+ },
+ {
+  "claim": "C-3963",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3964",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only 'the video' and the bounty; Erika Kirk is not named or clearly referred to, so N-2 should not be in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-3965",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3966",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3967",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names no person ('a freelancing political operative', 'that exact video'); Erika Kirk is not named, so N-2 should not be in Mentions.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-3968",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names no person ('the operative', 'digital media teams'); Erika Kirk is not named, so N-2 should not be in Mentions.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-3969",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3970",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3971",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3972",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript 'Andrew Kolvats' is Andrew Kolvet (N-14).",
+  "fix": {}
+ },
+ {
+  "claim": "C-3973",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3974",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3975",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3976",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3977",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3978",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3979",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3980",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3981",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript: 'working with these YouTubers and these really nasty people'; 'influencers' is not said.",
+  "fix": {
+   "claim": "The host alleges that Andrew Kolvet works with YouTubers and \"really nasty people\", including Jessica Reed Kraus (House Inhabit). She says this was revealed a few weeks earlier."
+  }
+ },
+ {
+  "claim": "C-3982",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3983",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3984",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3985",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3986",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3987",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3988",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Headline as read: 'socialites call her effing insane behavior', not insiders calling her behavior insane ('insiders blow the lid on explosive escort claims').",
+  "fix": {
+   "claim": "The host says the Daily Mail published a large article headlined to the effect that House Inhabit's \"marriage secrets\" were revealed. She says it covered escort claims, socialites calling her behavior insane, and her husband's texts about her."
+  }
+ },
+ {
+  "claim": "C-3989",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Hedge dropped: 'I I guess they got interested because house and habit did the thing that she always does. It's 3:00 a.m. and she just randomly decides to attack someone.'",
+  "fix": {
+   "claim": "The host says she guesses the Daily Mail story arose after Jessica Reed Kraus attacked Ashley St. Clair, her former friend, online at about 3:00 a.m."
+  }
+ },
+ {
+  "claim": "C-3990",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3991",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3992",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3993",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3994",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3995",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3996",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3997",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3998",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie Kirk ('the surgeon said Charlie Kirk had a steel neck') but N-1 is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-3999",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4000",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4001",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4002",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4003",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4004",
+  "episode": 101,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2884",
+  "episode": 102,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Stated as fact; the host reads Kolvet's post: 'He wrote this. LOL, you wish, fat boy. And that he says, keep my wife's name out of your mouth...'",
+  "fix": {
+   "claim": "The host reads an X post in which Andrew Kolvet publicly denied divorce rumors, telling Project Constitution \"LOL, you wish, fat boy\" and instructing them to keep his wife's name out of their mouth."
+  }
+ },
+ {
+  "claim": "C-2885",
+  "episode": 102,
+  "attribution": "error",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host's hedged account stated as fact: 'it looks like Project Constitution reported that Andrew Kolvet was getting a divorce and it was just not true.'",
+  "fix": {
+   "claim": "The host says it looks like an X account identifying as Project Constitution reported that Andrew Kolvet was getting a divorce, which she says was not true."
+  }
+ },
+ {
+  "claim": "C-2886",
+  "episode": 102,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Stated as fact; the host reads Bowyer's post: 'Tyler Bowyer said, we have had numerous things like this said about us. It is reckless disregard for truth...'",
+  "fix": {
+   "claim": "The host reads a post in which Tyler Bowyer says he has had \"numerous things like this said about us\" and characterizes such reporting as \"reckless disregard for truth from people who call themselves investigators.\""
+  }
+ },
+ {
+  "claim": "C-2887",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Neff did not dispute that the wife was absent; he answered 'a question about why Andrew's wife was not at the White House Correspondents Dinner': 'held by press outlets. Everyone else is there by invitation. How did you even know he was offered a plus one?'",
+  "fix": {
+   "claim": "Per posts by Blake Neff that the host reads, he responded to a question about why Andrew Kolvet's wife was not at the White House Correspondents Dinner, arguing that the dinners are held by press outlets and everyone else attends by invitation, asking how anyone knew Kolvet was offered a plus one, noting that Kolvet lives in Phoenix, and questioning how anyone would know his wife's travel preferences."
+  }
+ },
+ {
+  "claim": "C-2888",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript: '39 long days since we reported that donors who were present in Aspen assert...'; the count is days since her show's report, which she keeps 'on our desk'.",
+  "fix": {
+   "claim": "Per Candace, donors who were present at the Aspen event assert that the TPUSA-released audio of Charlie Kirk saying \"I appoint my wife to run Turning Point USA if something happens to me\" was faked, and that the moment never happened. Candace states it has been 39 days since her show reported this, a count she keeps on her desk."
+  }
+ },
+ {
+  "claim": "C-2889",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2890",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The host states it herself: 'we can now definitively state that Turning Point does use AI voices... Marcus Wada, one of the things that he offers...'; the source is only implied (intro: 'thanks to a source which came forward').",
+  "fix": {
+   "claim": "The host says, citing information from a source who came forward, that Turning Point USA employee Marcus Wada offers AI voice generation services for TPUSA presentations."
+  }
+ },
+ {
+  "claim": "C-2891",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'typically, I am told they use the voice of Pastor John Amanchukwu... I'm sure with his permission' matches.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2892",
+  "episode": 102,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host's report stated as fact: 'John Mappin was similarly told, he shared this on X, that a donor who was at that Aspen event said it never happened.' Charlie Kirk is not named in the claim, so N-1 should not be in Mentions.",
+  "fix": {
+   "claim": "The host says John Mappin shared on X that an Aspen donor told him the moment depicted in the audio never happened.",
+   "mentions": [
+    "N-155"
+   ]
+  }
+ },
+ {
+  "claim": "C-2893",
+  "episode": 102,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Stated as fact; the host reads Klacik's reply: 'She wrote this, \"Question, if the board elected Erika Kirk to be the CEO... why does it matter?\"'",
+  "fix": {
+   "claim": "The host reads a post in which Kimberly Klacik publicly asked on X, if the TPUSA board elected Erika Kirk as CEO and none of the donors had come forward questioning the decision, why the authenticity of the audio matters."
+  }
+ }
+]

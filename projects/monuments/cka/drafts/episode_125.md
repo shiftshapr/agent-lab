@@ -495,7 +495,7 @@ John Mappin; husband of Irina Mappin.
 
 **N-156** Irina Mappin
 
-Irina Mappin (transcript Irina; node alias Arina Mappin); told the host about Russian speakers at the memorial.
+Irina Mappin (transcript Irina; node alias Irina Mappin); told the host about Russian speakers at the memorial.
 
 *Related: C-5880*
 
@@ -883,7 +883,7 @@ Claim Timestamp: 00:22:15
 Claim: The host says Danny Phillip's father Stephen Phillip worked for Bank of America Merrill Lynch in Chicago and, like Tyler Bowyer, majored in Russian studies.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-368, N-737
+Mentions: N-368, N-737, N-11
 
 Related Nodes: N-10716
 
@@ -1461,7 +1461,7 @@ Claim: The host says she suspects a decoy vehicle was rented and asks people who
 Transcript Snippet: maybe see if there were any cars checked out uh Dodge Challengers that may have been rented.
 
 Anchored Artifacts: A-2784.1
-Mentions: N-3, N-160
+Mentions: N-3
 Related Nodes: N-10850, N-10074
 Investigative Direction: Rental company records for Dodge Challengers checked out in Utah and Nevada around September 8-10, 2025, reached through tipsters or subpoena.
 
@@ -1821,7 +1821,7 @@ Investigative Direction: The friend's email to the host, with identity verificat
 
 Claim Timestamp: 00:42:32
 
-Claim: The host says the friend confirmed that Kolvet lost out on residual income because he was venting about it when he came back to California.
+Claim: The host says someone confirmed that Kolvet lost out on residual income because he was venting about it when he came back to California.
 
 Transcript Snippet: And the fact that he lost out on some residual income came from somebody who confirmed that that yes, that did actually happen uh because he was venting about that when he came back to California.
 

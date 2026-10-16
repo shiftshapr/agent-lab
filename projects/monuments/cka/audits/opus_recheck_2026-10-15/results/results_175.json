@@ -1,0 +1,765 @@
+[
+ {
+  "claim": "C-8900",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript 40:38: 'it makes you wonder why Trump did not want to look in to Jeffrey Epstein. Why so much panic? Why they were suddenly in the situation room'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8901",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8902",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8903",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8904",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8905",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'ask for his schedule for the 3 days leading up to' with 'on the 10th' following; FBI 'rapid response online'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8906",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8907",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8908",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript spells the name 'Andrew Kolvet'; the parenthetical '(spelled Kolbenschlag in the transcript)' is false and not in the window.",
+  "fix": {
+   "claim": "The host says her team is asking the Secret Service and DHS for Andrew Kolvet's White House meeting, the day before the Epstein files were released."
+  }
+ },
+ {
+  "claim": "C-8909",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Content at end of 45:23 block (~46:10); within 75s.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8910",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Hedge dropped: 'Susie Wiles, I believe, has an office down that way. Um J. D. Vance has an office down that way.' and 'I'm going to guess Kash Patel.'",
+  "fix": {
+   "claim": "The host says she believes Susie Wiles has an office in the Executive Office Building area where Kolvet was reportedly present, that J.D. Vance also has an office there, and guesses he was meeting Kash Patel."
+  }
+ },
+ {
+  "claim": "C-8911",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8912",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8913",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8914",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8915",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8916",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8917",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Hedge dropped and viewer context omitted: responding to Seeking Truth's comment, host says 'Well, I think the most logical conclusion is because it was a an inside job.'",
+  "fix": {
+   "claim": "Responding to a viewer comment, the host says she thinks there are no arrests for crime-scene tampering because the most logical conclusion is it was an inside job, adding that if tampering arrests began, FBI agents who were there way too early would be arrested."
+  }
+ },
+ {
+  "claim": "C-8918",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8919",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8920",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host speaks of the future: 'bruising that we're going to learn was on Charlie's chest in the autopsy'; claim's 'later learned' suggests it was already learned.",
+  "fix": {
+   "claim": "The host wonders whether Harpole's account of cutting the shirt for defibrillators was meant to prepare the public for bruising or burn marks on Charlie's chest that she expects will be revealed in the autopsy, which people would explain as not caused by an exploding mic."
+  }
+ },
+ {
+  "claim": "C-8921",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8922",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says the pendant 'could have caused an injury'; label states it as fact ('Caused').",
+  "fix": {
+   "label": "Host Suggests the St. Michael Pendant Could Have Caused an Injury Revealing a Lie"
+  }
+ },
+ {
+  "claim": "C-8923",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'a president' is unnamed in the window; N-5 not added.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8924",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8925",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8926",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8927",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Hedge dropped: 'I want to say, by and large, I think it was successful because people couldn't communicate'.",
+  "fix": {
+   "claim": "The host says the Pentagon first got involved in the media with Operation Mockingbird during the JFK era, and that she thinks it was by and large successful because people could not communicate and were isolated as conspiracy theorists."
+  }
+ },
+ {
+  "claim": "C-8928",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8929",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8930",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8931",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2986",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'black tempered shatter glass all over the car where Charlie's chest region would have been' and 'road mic'; 'lapel' not said. Label states the finding as fact rather than the host's.",
+  "fix": {
+   "label": "Host Says Black Tempered Shattered Glass Is in Charlie Kirk Transport Vehicle",
+   "claim": "The host says photographs of the vehicle interior show black tempered shattered glass all over the car where Charlie Kirk's chest region would have been, consistent with her identification of a broken road microphone."
+  }
+ },
+ {
+  "claim": "C-2987",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2988",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Stated in narrator voice; host points out the hanger and says at 08:02 'That's where I'm guessing that that hanger is from.'",
+  "fix": {
+   "claim": "The host points out a hanger in Photo 1 and says she guesses it is from the sports coat Charlie Kirk did not wear at the event."
+  }
+ },
+ {
+  "claim": "C-2989",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2990",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Details at 12:02: 'looks thicker to me... I could be wrong'; 'I don't know if it is burnt. It my eyes... would describe that as a burnt cardboard piece'. Hedges dropped.",
+  "fix": {
+   "claim": "The host says photos show a piece of what looks to her like cardboard-colored material that she thinks looks thicker and burnt, separated from the Uber bags, while saying she could be wrong."
+  }
+ },
+ {
+  "claim": "C-2991",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Foil/coppery at 15:10-16:12; hypothermia-blanket viewer suggestion read later at 27:48.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2992",
+  "episode": 123,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Ashley ('Ash') is the host's staffer monitoring comments: 'Ash I'm sure you're monitoring the comments'; 'So, Ash... you couldn't figure it out. Now all of a sudden we're live... She probably knew that for weeks.' Not a viewer.",
+  "fix": {
+   "label": "Host's Staffer Ashley Identifies SantaMedical.com Equipment in Vehicle Photo",
+   "claim": "The host says her staffer Ashley identified, in the comments, the medical bag visible in the photo as a SantaMedical.com product, and the host says this is consistent with equipment Brian Harpole described traveling with Charlie."
+  }
+ },
+ {
+  "claim": "C-2993",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'He couldn't even hold the casket. He was holding his stomach' is at ~32:25 (32:06 block), >20s before 33:10; clip described from 31:09 block. Label states host's account as fact.",
+  "fix": {
+   "timestamp": "00:32:20",
+   "label": "Host Says Mikey McCoy Appeared Physically Ill as Charlie's Casket Was Carried Out of the Hospital"
+  }
+ },
+ {
+  "claim": "C-2994",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host names Paramount Tactical / Shawn Ryan only about Harpole's equipment (15:10), not about the glass; for the glass she says 'many retellings... across multiple interviews' (29:24) and 'Frank's praying... packing that wound. Nobody mentioned this' (19:26).",
+  "fix": {
+   "claim": "The host says that across multiple interviews, Frank Turek and Brian Harpole described packing a neck wound and praying but did not mention any shattered tempered glass in the vehicle."
+  }
+ },
+ {
+  "claim": "C-2995",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Someone sent me a photo in Arlington' - not identified as a viewer; host says TPUSA staff 'removed the poster, sent me the photos'.",
+  "fix": {
+   "claim": "The host says someone sent her photos showing TPUSA staff removing a poster at Charlie Kirk's Arlington memorial site that read \"Don't worry, your big sister can figure out what happened.\""
+  }
+ },
+ {
+  "claim": "C-2996",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2997",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label states as fact what the host relays from Harpole: 'Brian Harpole said... the police had reported on the scanner that they saw like it looked like a struggle'.",
+  "fix": {
+   "label": "Host Says Harpole Described Police Scanner Reports of a Struggle and Open Car Door"
+  }
+ },
+ {
+  "claim": "C-2998",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host asks 'why or how it shattered and also why and how Frank and Brian Harpole seem to have forgotten about that'; she does not ask why glass ended up in the vehicle.",
+  "fix": {
+   "claim": "The host says TPUSA spokesperson Andrew Kolvet should respond about why or how the road microphone shattered, why Frank Turek and Brian Harpole seem to have forgotten it in their many retellings, and where Charlie's shirt is.",
+   "mentions": [
+    "N-14",
+    "N-7",
+    "N-267"
+   ]
+  }
+ },
+ {
+  "claim": "C-2999",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7143",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7144",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7145",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7146",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7147",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript 'Loi Center' = Losee Center; claim spelling correct.",
+  "fix": {}
+ },
+ {
+  "claim": "C-7148",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7149",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7150",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7151",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7152",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7153",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7154",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Event name is Restaurantology (summit in Salt Lake City, Sept 10): https://www.mediaplaynews.com/fox-nation-to-stream-charlie-kirks-final-interview-separate-2018-interview-capturing-late-political-activists-rise-to-influence/",
+  "fix": {
+   "claim": "The host says Charlie went to Salt Lake City and gave an interview to a company she names as Restaurantology before driving to Provo for the event."
+  }
+ },
+ {
+  "claim": "C-7155",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'he had a jacket that he did not wear. Obviously, he was in a t-shirt that stayed in the car.' Context (hanger, jacket returned) indicates the jacket stayed in the car, not the t-shirt.",
+  "fix": {
+   "label": "Host Says Charlie's Unworn Jacket Stayed in the Car",
+   "claim": "The host says Charlie had a jacket that he did not wear, as he was in a t-shirt, and that the jacket stayed in the car."
+  }
+ },
+ {
+  "claim": "C-7156",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

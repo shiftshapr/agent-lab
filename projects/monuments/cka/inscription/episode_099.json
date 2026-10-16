@@ -2154,7 +2154,7 @@
       "@id": "C-2859",
       "ref": "C-2859",
       "label": "Netanyahu asserted Israel did not kill Charlie Kirk on September 12, 2025",
-      "claim": "Two days after Charlie Kirk's assassination, Benjamin Netanyahu stated on Greta Van Susteren's show that Israel did not kill Charlie Kirk, calling the rumor \"insane\" and \"stupid.\"",
+      "claim": "The host says that two days after Charlie Kirk's assassination, on September 12, Benjamin Netanyahu appeared on Greta Van Susteren's show; in the clip she plays, he calls the rumor that Israel was behind Kirk's murder \"insane,\" \"absurd\" and \"stupid.\"",
       "anchored_artifacts": [
         "A-2047.1"
       ],
@@ -2219,15 +2219,15 @@
         "N-10662"
       ],
       "tags": [],
-      "claim_timestamp": "00:14:54",
+      "claim_timestamp": "00:14:08",
       "investigative_direction": "Compare filing scope to actual deployed activities via FOIA or FARA supplemental filings."
     },
     {
       "@type": "Claim",
       "@id": "C-2863",
       "ref": "C-2863",
-      "label": "Host Says Clock Tower X LLC Registered with FARA on September 18, 2025",
-      "claim": "The host says Clock Tower X LLC filed a FARA registration on September 18, 2025, contracted via Havas Media on behalf of the Israeli Ministry of Foreign Affairs, for a strategic propaganda plan targeting the U.S. antisemitism narrative.",
+      "label": "Host Says Havas Media Contracted FARA-Registered Clock Tower X LLC on September 18",
+      "claim": "The host says that on September 18th Havas Media, on behalf of the Israeli Ministry of Foreign Affairs, also contracted Clock Tower X LLC, a company she says was properly registered under FARA and tasked with developing a strategic plan to combat antisemitism in the United States through the media.",
       "anchored_artifacts": [
         "A-2049.1",
         "A-2054.1"
@@ -2265,7 +2265,7 @@
       "@id": "C-2865",
       "ref": "C-2865",
       "label": "Clock Tower X FARA filing lists Salem Radio Media Network as a target platform",
-      "claim": "The FARA filing for Clock Tower X LLC lists Salem Radio Media Network as the integration platform for narrative messaging across broadcast, podcast, TikTok, Instagram, and YouTube.",
+      "claim": "Per the Clock Tower X LLC FARA filing the host shows, Salem Radio Media Network is listed as the platform for \"the integration of narrative messaging into Salem Media Network properties and aligned distribution channels\"; the host says the campaign targets Gen Z audiences across TikTok, Instagram, YouTube, podcasts and other outlets.",
       "anchored_artifacts": [
         "A-2049.2"
       ],
@@ -2348,7 +2348,7 @@
         "N-10657"
       ],
       "tags": [],
-      "claim_timestamp": "00:32:23",
+      "claim_timestamp": "00:31:50",
       "investigative_direction": "Verify M-News corporate filings; confirm 30% acquisition price and structure.",
       "mentions_person_refs": [
         "N-33"
@@ -2370,7 +2370,7 @@
         "N-10662"
       ],
       "tags": [],
-      "claim_timestamp": "00:34:17",
+      "claim_timestamp": "00:32:50",
       "investigative_direction": "Obtain DOJ memorandum directly; confirm effective date and operative language.",
       "mentions_person_refs": [
         "N-85",
@@ -2382,7 +2382,7 @@
       "@id": "C-2871",
       "ref": "C-2871",
       "label": "Disbanding limits DOJ from criminally charging PR work for foreign nations",
-      "claim": "Per the DOJ statement, recourse to criminal charges under FARA and 18 U.S. Code § 951 is limited to conduct similar to traditional espionage by foreign government actors.",
+      "claim": "Per the DOJ memo language Ian Carroll reads in a clip the host plays, recourse to criminal charges under FARA and 18 U.S. Code § 951 is limited to conduct similar to traditional espionage by foreign government actors.",
       "anchored_artifacts": [
         "A-2053.1"
       ],
@@ -2493,7 +2493,7 @@
       "@id": "C-2877",
       "ref": "C-2877",
       "label": "April 2 ruling dismissed 10 of 13 Blake Lively claims against Justin Baldoni",
-      "claim": "On April 2, a judge dismissed 10 of 13 claims Blake Lively had asserted against Justin Baldoni, leaving only breach of contract, retaliation, and aiding-and-abetting retaliation.",
+      "claim": "The host says that on April 2, a judge dismissed 10 of 13 claims Blake Lively had asserted against Justin Baldoni, leaving only breach of contract, retaliation, and aiding-and-abetting retaliation.",
       "anchored_artifacts": [
         "A-2056.1"
       ],
@@ -2561,9 +2561,7 @@
       "investigative_direction": "Verify via official film credits and supplementary marketing material; confirm Baldoni-as-target framing.",
       "mentions_person_refs": [
         "N-485",
-        "N-486",
-        "N-376",
-        "N-377"
+        "N-486"
       ]
     },
     {
@@ -2598,15 +2596,14 @@
       "investigative_direction": "Obtain independent eyewitness corroboration and any press coverage of the premiere seating arrangement.",
       "mentions_person_refs": [
         "N-485",
-        "N-486",
-        "N-377"
+        "N-486"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-2883",
       "ref": "C-2883",
-      "label": "Mikey McCoy sent the host a message directing investigation toward Andrew Kolvet",
+      "label": "Host Says Some Credit Mikey McCoy With Message Urging Her to Look Into Andrew Kolvet",
       "claim": "The host says some people call Mikey McCoy the good guy for getting one message out to her to look into Andrew Kolvet.",
       "anchored_artifacts": [
         "A-2061.1"
@@ -2672,7 +2669,7 @@
         "N-10415"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:01:49",
       "investigative_direction": "Look for a contemporaneous message, post or witness from the week of September 3 to 10, 2025 that records the host acting on the feeling; this is self-reported.",
@@ -2687,7 +2684,7 @@
       "@id": "C-12899",
       "ref": "C-12899",
       "label": "Host Says Kirk Texted Kolvet and Flood the Night Before That They Were Going to Kill Him",
-      "claim": "The host says that the night before his death Charlie Kirk texted Andrew Kolvet and Dan Flood, the security people she says were meant to protect him, and wrote 'They are going to kill me.'",
+      "claim": "The host says that the night before his death Charlie Kirk texted Andrew Kolvet and Dan Flood, whom she says he thought were his friends and the security people meant to protect him, and wrote 'They are going to kill me.'",
       "anchored_artifacts": [
         "A-3232.1"
       ],
@@ -3305,7 +3302,7 @@
       "@id": "C-12926",
       "ref": "C-12926",
       "label": "Host Says a Family Source Reports Kolvet Told His Family Kirk Said No to Netanyahu in the Hamptons",
-      "claim": "The host says that according to a source in Andrew Kolvet's family, Kolvet told his family orbit that Charlie Kirk said no to Benjamin Netanyahu in the Hamptons shortly before he died; the host was unsure of the date and asked her producer to check the timeline.",
+      "claim": "The host says that according to a source in Andrew Kolvet's family, Kolvet told his family orbit that Charlie Kirk said no to Benjamin Netanyahu in the Hamptons shortly before he died; the host was unsure of the date and asked Ashley to check the timeline.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10027",
@@ -3476,7 +3473,7 @@
       "@id": "C-12933",
       "ref": "C-12933",
       "label": "Host Says the Josh Hammer Show Joined the Salem Podcast Network October 23 Through a Newsweek Partnership",
-      "claim": "The host's timeline says that on October 23rd the Josh Hammer Show joined the Salem Podcast Network through a new distribution partnership with Newsweek, in contrast with the October 15 announcement date she gave earlier.",
+      "claim": "The host's timeline says that on October 23rd the Josh Hammer Show joined the Salem Podcast Network through a new distribution partnership with Newsweek, in contrast with the October 15 date she gave earlier for when Hammer was given a show on the network.",
       "anchored_artifacts": [
         "A-2054.1"
       ],
@@ -3506,7 +3503,7 @@
         "N-10910"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:39:56",
       "investigative_direction": "Search federal and state dockets for matters against the host where Dhillon Law Group appears as counsel, and compare with the firm's FARA filings.",
@@ -3758,7 +3755,7 @@
       "@id": "C-12946",
       "ref": "C-12946",
       "label": "Host Says She Thinks Baldoni Ended Up in the Hospital From the Stress",
-      "claim": "The host says she thinks Justin Baldoni did end up in the hospital from all the stress of the case.",
+      "claim": "The host says she thinks Justin Baldoni did end up in the hospital from all the stress of it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10661"
@@ -3980,7 +3977,7 @@
       "@id": "C-12956",
       "ref": "C-12956",
       "label": "Host Says the Story That Mikey Flew Into Action Is Not True",
-      "claim": "The host says, in what she calls her opinion and allegedly, that TPUSA lied when it said Mikey McCoy flew into action and directed everything at the hospital, and that he did not suddenly see, call and direct things.",
+      "claim": "The host says, in what she calls her opinion and allegedly, that TPUSA lied when it said Mikey McCoy flew into action and did it all, and that he did not suddenly see, call and direct things.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10198",

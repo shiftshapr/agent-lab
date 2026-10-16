@@ -763,7 +763,7 @@ Investigative Direction: Verify exact quote and context in the full Neff/Boring 
 
 ---
 
-**C-3519** Boring X Post Claimed Owens Acts for Fame
+**C-3519** Boreing X Post Claimed Owens Acts for Fame
 
 Claim Timestamp: 00:31:47–00:32:21
 
@@ -780,7 +780,7 @@ Investigative Direction: Retrieve the original post via web archive to confirm e
 
 **C-3520** Loomer X Post Claimed Save America Act Would Not Pass Before Midterms
 
-Claim Timestamp: 00:42:43
+Claim Timestamp: 00:41:43
 
 Claim: Laura Loomer posted on X that the Save America Act would not pass before midterms and projected poor GOP midterm outcomes.
 
@@ -823,7 +823,7 @@ Investigative Direction: Retrieve the original post via web archive to confirm e
 
 **C-3523** Vance Clip Asked Voters for "Another Chance" Citing Policy Achievements
 
-Claim Timestamp: 00:46:45
+Claim Timestamp: 00:45:57
 
 Claim: In a clip the host plays, JD Vance asks voters to "give us another chance" and lists tax cuts (overtime, Social Security, tips), success on the border and immigration, and H-1B reform as accomplishments.
 
@@ -925,9 +925,9 @@ Investigative Direction: Obtain the preliminary hearing transcript and audio/vid
 
 **C-3530** Miss Noble Testimony Described Dodge Challenger with Bald Driver and Two Backseat Occupants
 
-Claim Timestamp: 00:07:25–00:09:33
+Claim Timestamp: 00:08:45
 
-Claim: Neighbor Miss Noble and her husband reported observing a Dodge Challenger being driven by a bald person with two people in the back seat, parked in their neighborhood shortly after Officer Goforth's sighting.
+Claim: The host says neighbor Miss Noble and her husband saw a Dodge Challenger parked in their neighborhood shortly after Officer Goforth's sighting, and that Miss Noble claims it was being driven by a bald person with two people in the back seat.
 
 Anchored Artifacts: (no displayed artifact in this episode; assertion referenced from prior reporting)
 Mentions: N-903, N-865
@@ -1698,7 +1698,7 @@ Investigative Direction: Look for dated communications or public statements betw
 
 Claim Timestamp: 00:36:12
 
-Claim: The host says that she is the employee Boreing fired but that he cannot let go and occupies her every thought.
+Claim: The host says that she is the employee Boreing fired but that he cannot let go, and that she occupies his every thought.
 
 Transcript Snippet: I am the employee that he fired, but he cannot let go.
 
@@ -1719,7 +1719,7 @@ Claim: In the Neff and Boreing promo clip, a speaker says he supports maximal fr
 Transcript Snippet: I have never once said YouTube should ban Candace.
 
 Anchored Artifacts: A-2407.1
-Mentions: N-160, N-3
+Mentions: N-160, N-367, N-3
 Tags: relevance:context
 Investigative Direction: Review the speaker's prior public statements about platform bans of the host to test the statement.
 
@@ -1744,7 +1744,7 @@ Investigative Direction: Ask the speaker for the date and medium of that private
 
 Claim Timestamp: 00:37:44
 
-Claim: The host says Boreing sued her privately for years throughout court and now, with no means to sue her, hosts people who say she should be sued.
+Claim: The host says Boreing sued her privately for years throughout court and now, being tired or having no means to sue her since he was forced out of the Daily Wire, brings people on who say she should be sued.
 
 Transcript Snippet: But the calls to sue me, like he sued me privately for years throughout court.
 

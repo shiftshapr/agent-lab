@@ -1183,7 +1183,7 @@ Pop-culture style memes (Mortal Kombat, Power Rangers) the host says the White H
 
 Claim Timestamp: 00:08:50–00:09:46
 
-Claim: Charlie Kirk privately told Candace Owens that Ben Shapiro was "unhinged" and advised her to "Stay the course."
+Claim: Per text messages the host shares, Charlie Kirk wrote of Ben Shapiro, "He is unhinged. Stay the course."
 
 Anchored Artifacts: A-1846.1
 Mentions: N-1, N-3, N-97
@@ -1213,7 +1213,7 @@ Investigative Direction: Cross-reference against Charlie Kirk's public statement
 
 Claim Timestamp: 00:21:32–00:21:48
 
-Claim: Charlie Kirk privately texted Candace Owens that the McCains were "a disgraceful family for the ways in which they have betrayed Americans and allowed for mass murder and bloody wars overseas."
+Claim: Per a text exchange the host shares, Charlie Kirk wrote of the McCains, "Disgrace. They are a disgrace family. A disgraceful family for the ways in which they have betrayed Americans and allowed for mass murder and bloody wars overseas."
 
 Anchored Artifacts: A-1846.3
 Mentions: N-1, N-3, N-592
@@ -1224,7 +1224,7 @@ Investigative Direction: Forensic verification of the message; examine whether C
 
 ---
 
-**C-2479** Bret Weinstein Says Charlie Kirk Spent Two Days at the White House on June 18, 2025 Lobbying Trump Against an Iran War
+**C-2479** Bret Weinstein Says Charlie Kirk Spent Two Days at the White House in June Lobbying Trump Against an Iran War
 
 Claim Timestamp: 00:10:32–00:13:29
 
@@ -1254,11 +1254,11 @@ Investigative Direction: Verify original message; cross-reference with contempor
 
 ---
 
-**C-2481** Per Host-Shared Text, Milo Yiannopoulos Said Ben Shapiro Sought to Commission Hit Jobs on Turning Point USA a Decade Ago
+**C-2481** Milo Yiannopoulos Says Ben Shapiro Sought to Commission Hit Jobs on Turning Point USA a Decade Ago
 
 Claim Timestamp: 00:07:35–00:08:50
 
-Claim: Per a text exchange between Milo Yiannopoulos and Charlie Kirk that the host shares, Milo wrote that Ben Shapiro "began seek to secretly commission hit jobs on Turning Point USA a decade ago," and Charlie replied that he wanted to allow it to "play out" before responding publicly.
+Claim: Per a post by Milo Yiannopoulos that the host reads, Milo wrote that Ben Shapiro "began seek to secretly commission hit jobs on Turning Point USA a decade ago," and in a text exchange Milo shared, Charlie Kirk replied that he wanted to allow it to "play out" before saying something.
 
 Anchored Artifacts: A-1848.1
 Mentions: N-97, N-221, N-1
@@ -1298,11 +1298,11 @@ Investigative Direction: Direct retrieval of the original X post via archive.
 
 ---
 
-**C-2484** Ben Shapiro publicly pressed Michael Knowles to denounce Candace Owens on stage
+**C-2484** Ben Shapiro Publicly Pressed Michael Knowles to Denounce Candace Owens
 
 Claim Timestamp: 00:18:54–00:20:00
 
-Claim: An on-stage exchange shows Ben Shapiro pressing Michael Knowles to state "the sentence with her name in it" regarding Candace Owens allegedly attacking "Erika Kirk," with Knowles refusing.
+Claim: In a clip the host plays of a public discussion, Ben Shapiro presses Michael Knowles to state "the sentence with her name in it" regarding Candace Owens allegedly attacking "Erika Kirk," with Knowles refusing.
 
 Anchored Artifacts: A-1851.1
 Mentions: N-3, N-97, N-101, N-2
@@ -1342,7 +1342,7 @@ Investigative Direction: Obtain full transcript and verify date.
 
 ---
 
-**C-2487** Tucker Carlson disclosed that the CIA is preparing a criminal referral against him under FARA
+**C-2487** Tucker Carlson Says the CIA Is Preparing a Criminal Referral Against Him
 
 Claim Timestamp: 00:41:23–00:43:44
 
@@ -1391,7 +1391,7 @@ Investigative Direction: Retrieve original X post via archive.
 
 Claim Timestamp: 00:45:22–00:46:20
 
-Claim: Laura Loomer posted on X claiming to have "created a list... Of conservative influence who I believe are taking money from Iran, Russia, and Qatar" and stated she provided it to the DOJ.
+Claim: Laura Loomer posted on X claiming to have "created a list... Of conservative influence who I believe are taking money from Iran, Russia, and Qatar" and wrote, "As I told the DOJ, Tucker Carlson isn't the only one who is likely violating FARA."
 
 Anchored Artifacts: A-1858.1
 Mentions: N-60
@@ -1409,7 +1409,7 @@ Claim Timestamp: 00:46:20–00:47:29
 Claim: Alex Stein posted on X: "America is totally compromised by foreign actors. If Tucker Carlson gets arrested before anybody on the Epstein list."
 
 Anchored Artifacts: A-1859.1
-Mentions: N-22
+Mentions: N-22, N-9
 
 Related Nodes: N-10540
 
@@ -1436,7 +1436,7 @@ Investigative Direction: Obtain the original news article; verify date and sourc
 
 Claim Timestamp: 00:36:50–00:40:07
 
-Claim: Candace Owens published an article (read aloud in this episode) quoting Jordan Peterson ("you cannot twist the fabric of reality without it snapping back") and arguing Zionists are "their own worst enemy" pursuing a "fake it till you make it" war strategy.
+Claim: Candace Owens published her thoughts (read aloud in this episode), quoting Jordan Peterson ("you cannot twist the fabric of reality without it snapping back") and arguing Zionists are "their own worst enemy"; she says separately that they were trying a "fake it till you make it" strategy with war.
 
 Anchored Artifacts: A-1856.1
 Mentions: N-3, N-596
@@ -1495,11 +1495,11 @@ Investigative Direction: Retrieve Shapiro's original X posts about Kelly and Mor
 
 ---
 
-**C-11238** Host Reads Megyn Kelly Reply Asking Why She Is Stalked and Harassed
+**C-11238** Host Reads Megyn Kelly Reply Calling Shapiro Poor Little Ben
 
 Claim Timestamp: 00:05:02
 
-Claim: The host reads Megyn Kelly's reply to Shapiro, which calls him "Poor little Ben" and asks "Why have they been stalking and harassing Megyn Kelly?"
+Claim: The host reads Megyn Kelly's reply to Shapiro, which calls him "Poor little Ben" and says he is "desperate for me to protect him"; the host then asks why they have been stalking and harassing Megyn Kelly.
 
 Transcript Snippet: Why have they been stalking and harassing Megyn Kelly? Nobody knows.
 
@@ -1548,7 +1548,7 @@ Investigative Direction: Identify the journalists and pieces the host alleges we
 
 Claim Timestamp: 00:07:35
 
-Claim: The host reads Milo Yiannopoulos saying that while he and Kirk were briefly friends, all Kirk talked about was how amazing Candace was and how evil Ben Shapiro is, and that Kirk showed him messages.
+Claim: The host reads Milo Yiannopoulos saying that while he and Kirk were briefly friends, all Kirk talked about was how amazing Candace was and how evil Ben Shapiro is, and says Milo showed the messages.
 
 Transcript Snippet: all he talked about was how was how amazing Candace was and how effing evil Ben is.
 
@@ -1695,7 +1695,7 @@ Investigative Direction: Obtain Weinstein's original post and date; ask him what
 
 Claim Timestamp: 00:11:38
 
-Claim: The host reads Weinstein saying that a good investigation could have settled whether Kirk's opposition mattered, and that what was produced only increases the reason for concern.
+Claim: The host reads Weinstein saying that a good investigation could have settled whether Kirk's opposition resulted in his murder, and that what was produced only increases the reason for concern.
 
 Transcript Snippet: A good investigation could have settled the matter. What we got only increases the reason for concern.
 
@@ -2172,7 +2172,7 @@ Transcript Snippet: Zionists continue to use tactics of slander, deception, lawf
 
 Anchored Artifacts: A-1856.1
 Mentions: N-3
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Ask the host which specific murders and lawsuits she means.
 
 ---
@@ -2359,7 +2359,7 @@ Investigative Direction: Find Kirk's own recorded statements on each of the thre
 
 Claim Timestamp: 00:52:09
 
-Claim: The host says that what she calls Israel worship is Baal worship, that they have to sacrifice children, and that the military cannot give a reason for hitting the school.
+Claim: The host says that what she calls Israel worship is Baal worship, that they have to sacrifice children, and that they cannot give a reason for why our military hit the school.
 
 Transcript Snippet: These Israel worship it's it's ball worship. I mean, they they have to sacrifice children.
 

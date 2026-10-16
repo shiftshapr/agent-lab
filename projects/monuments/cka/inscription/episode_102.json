@@ -1491,7 +1491,7 @@
       "ref": "N-597",
       "name": "Druski",
       "type": "person",
-      "description": "Druski (spelled Druski and Drewski in the transcript); comedian whose skit mocked Erika.",
+      "description": "Druski (spelled Druski and Druski in the transcript); comedian whose skit mocked Erika.",
       "related_artifacts": [],
       "related_claims": [
         "C-13007",
@@ -1941,7 +1941,7 @@
       "ref": "N-11356",
       "name": "Druski Skit Mocking Erika Kirk Controversy",
       "type": "topic",
-      "description": "The dispute over a Drewski comedy skit that mocked Erika Kirk, including whether it was racial and whether she took it too seriously.",
+      "description": "The dispute over a Druski comedy skit that mocked Erika Kirk, including whether it was racial and whether she took it too seriously.",
       "related_artifacts": [],
       "related_claims": [
         "C-13007",
@@ -1962,7 +1962,7 @@
       "@id": "C-2884",
       "ref": "C-2884",
       "label": "Andrew Kolvet denied divorce rumor via social media",
-      "claim": "Andrew Kolvet publicly denied divorce rumors via X post, telling Project Constitution \"LOL, you wish, fat boy\" and instructing them to keep his wife's name out of their mouth.",
+      "claim": "The host reads an X post in which Andrew Kolvet publicly denied divorce rumors, telling Project Constitution \"LOL, you wish, fat boy\" and instructing them to keep his wife's name out of their mouth.",
       "anchored_artifacts": [
         "A-2063.1"
       ],
@@ -1981,7 +1981,7 @@
       "@id": "C-2885",
       "ref": "C-2885",
       "label": "Project Constitution reported Andrew Kolvet divorce rumor",
-      "claim": "An X account identifying as Project Constitution reported that Andrew Kolvet was getting a divorce.",
+      "claim": "The host says it looks like an X account identifying as Project Constitution reported that Andrew Kolvet was getting a divorce, which she says was not true.",
       "anchored_artifacts": [
         "A-2062.1"
       ],
@@ -2000,7 +2000,7 @@
       "@id": "C-2886",
       "ref": "C-2886",
       "label": "Tyler Bowyer accused rumor-mongers of \"reckless disregard for truth\"",
-      "claim": "Tyler Bowyer publicly stated he has had \"numerous things like this said about us\" and characterized such reporting as \"reckless disregard for truth from people who call themselves investigators.\"",
+      "claim": "The host reads a post in which Tyler Bowyer says he has had \"numerous things like this said about us\" and characterizes such reporting as \"reckless disregard for truth from people who call themselves investigators.\"",
       "anchored_artifacts": [
         "A-2064.1"
       ],
@@ -2019,7 +2019,7 @@
       "@id": "C-2887",
       "ref": "C-2887",
       "label": "Blake Neff defended Andrew Kolvet's WHCD absence",
-      "claim": "Per posts by Blake Neff that the host reads, he publicly disputed the implication that Andrew Kolvet's wife was absent from the White House Correspondents Dinner, arguing that WHCD attendance requires press-issued invitations, that Kolvet lives in Phoenix, and questioning how anyone would know his wife's travel preferences.",
+      "claim": "Per posts by Blake Neff that the host reads, he responded to a question about why Andrew Kolvet's wife was not at the White House Correspondents Dinner, arguing that the dinners are held by press outlets and everyone else attends by invitation, asking how anyone knew Kolvet was offered a plus one, noting that Kolvet lives in Phoenix, and questioning how anyone would know his wife's travel preferences.",
       "anchored_artifacts": [
         "A-2065.1"
       ],
@@ -2039,7 +2039,7 @@
       "@id": "C-2888",
       "ref": "C-2888",
       "label": "Donors present in Aspen assert Charlie Kirk's \"I appoint my wife\" audio was faked",
-      "claim": "Per Candace, donors who were present at the Aspen event assert that the TPUSA-released audio of Charlie Kirk saying \"I appoint my wife to run Turning Point USA if something happens to me\" was faked, and that the moment never happened. Candace states this report has been on the desk for 39 days as of this episode.",
+      "claim": "Per Candace, donors who were present at the Aspen event assert that the TPUSA-released audio of Charlie Kirk saying \"I appoint my wife to run Turning Point USA if something happens to me\" was faked, and that the moment never happened. Candace states it has been 39 days since her show reported this, a count she keeps on her desk.",
       "anchored_artifacts": [
         "A-2066.1",
         "A-2066.2",
@@ -2080,7 +2080,7 @@
       "@id": "C-2890",
       "ref": "C-2890",
       "label": "Marcus Wada provides AI voice services for TPUSA presentations",
-      "claim": "Per a source who came forward, Turning Point USA employee Marcus Wada offers AI voice generation services for TPUSA presentations.",
+      "claim": "The host says, citing information from a source who came forward, that Turning Point USA employee Marcus Wada offers AI voice generation services for TPUSA presentations.",
       "anchored_artifacts": [
         "A-2068.1"
       ],
@@ -2118,7 +2118,7 @@
       "@id": "C-2892",
       "ref": "C-2892",
       "label": "John Mappin publicly shared Aspen donor's claim the audio moment never happened",
-      "claim": "John Mappin shared on X that an Aspen donor told him the moment depicted in the audio never happened.",
+      "claim": "The host says John Mappin shared on X that an Aspen donor told him the moment depicted in the audio never happened.",
       "anchored_artifacts": [
         "A-2069.1"
       ],
@@ -2129,7 +2129,6 @@
       "claim_timestamp": "00:09:42",
       "investigative_direction": "Verify Mappin's original X post and identify the donor he referenced; obtain Mappin's full statement.",
       "mentions_person_refs": [
-        "N-1",
         "N-155"
       ]
     },
@@ -2138,7 +2137,7 @@
       "@id": "C-2893",
       "ref": "C-2893",
       "label": "Kimberly Klacik publicly questioned why the audio matters",
-      "claim": "Kimberly Klacik publicly asked on X, if the TPUSA board elected Erika Kirk as CEO and none of the donors had come forward questioning the decision, why the authenticity of the audio matters.",
+      "claim": "The host reads a post in which Kimberly Klacik publicly asked on X, if the TPUSA board elected Erika Kirk as CEO and none of the donors had come forward questioning the decision, why the authenticity of the audio matters.",
       "anchored_artifacts": [
         "A-2067.1"
       ],
@@ -2175,7 +2174,7 @@
       "@id": "C-2895",
       "ref": "C-2895",
       "label": "Brian Allen publicly characterized Hillsdale's honorary doctorate for Erika as DEI",
-      "claim": "Brian Allen publicly argued on X that Hillsdale College awarding Erika Kirk an honorary doctorate and commencement platform contradicts Hillsdale's stated anti-DEI position, characterizing the decision as \"Diversity, equity and inclusion for me and not for thee.\"",
+      "claim": "The host reads a tweet by Brian Allen arguing that Hillsdale College awarding Erika Kirk an honorary doctorate and commencement platform contradicts Hillsdale's stated anti-DEI position, characterizing the decision as \"Diversity, equity and inclusion for me and not for thee.\"",
       "anchored_artifacts": [
         "A-2070.2"
       ],
@@ -2191,7 +2190,7 @@
       "@type": "Claim",
       "@id": "C-2896",
       "ref": "C-2896",
-      "label": "Erika Kirk's old LinkedIn claimed ASU magna cum laude graduation",
+      "label": "Host Says Erika Kirk Claimed ASU Magna Cum Laude, Later Summa Cum Laude on LinkedIn",
       "claim": "The host says Erika Kirk said in her Great American Race audition video that she graduated from Arizona State University magna cum laude, and later upgraded the credential to summa cum laude on her LinkedIn page, which has since been removed.",
       "anchored_artifacts": [
         "A-2071.1"
@@ -2288,7 +2287,7 @@
       "@id": "C-2902",
       "ref": "C-2902",
       "label": "Patrick Bet-David hosted Nick Shirley and discussed Candace's prior skepticism",
-      "claim": "Patrick Bet-David's show hosted Nick Shirley, during which Shirley stated that Candace Owens \"came after me uh a while back\" and didn't believe his Brazilian favela video; Bet-David asked \"Why would Candace Owens come after you?\"",
+      "claim": "In a clip the host plays from Patrick Bet-David's show, Nick Shirley says Candace Owens \"came after me uh a while back\" and didn't believe his Brazilian favela video; Bet-David asks \"Why would Candace Owens come after you?\"",
       "anchored_artifacts": [
         "A-2073.2"
       ],
@@ -2309,7 +2308,7 @@
       "@id": "C-2903",
       "ref": "C-2903",
       "label": "Alex Clark publicly defended Nick Shirley against Candace Owens",
-      "claim": "Alex Clark publicly wrote on X: \"Nick Shirley is a real journalist. Candace Owens is not.\"",
+      "claim": "The host reads a post in which Alex Clark wrote: \"Nick Shirley is a real journalist. Candace Owens is not.\"",
       "anchored_artifacts": [
         "A-2074.1"
       ],
@@ -2329,7 +2328,7 @@
       "@type": "Claim",
       "@id": "C-2904",
       "ref": "C-2904",
-      "label": "Brian Harpole's alibi flights were 1:49 PM Dallas to Salt Lake City on the 9th",
+      "label": "Host Says Brian Harpole's Alibi Flights Were 1:49 PM on the 9th to Utah",
       "claim": "The host says that during her private interview Erika Kirk handed her Brian Harpole's flights, which were for 1:49 p.m. on the 9th going to Utah, and that this did not cover the time period in which Mitch said he saw him at Fort Huachuca.",
       "anchored_artifacts": [
         "A-2075.1"
@@ -2350,8 +2349,8 @@
       "@type": "Claim",
       "@id": "C-2905",
       "ref": "C-2905",
-      "label": "Fort Huachuca alibi photograph was provided by Andrew Kolvet",
-      "claim": "A photograph allegedly depicting Erika Kirk with her children at Fort Huachuca was provided to online defenders by Andrew Kolvet, with the explicit instruction \"don't share.\"",
+      "label": "Host Says Andrew Kolvet Sent Erika Kirk's Alibi Photo Marked Don't Share",
+      "claim": "The host says the alibi for Erika Kirk that Paramount Tactical read live on his show, marked \"please don't share,\" came from Andrew Kolvet, who explicitly states she was with her kids as he sends the photo; the host says those are not her kids.",
       "anchored_artifacts": [
         "A-2075.2"
       ],
@@ -3032,7 +3031,7 @@
       "@id": "C-12998",
       "ref": "C-12998",
       "label": "Host Says Shirley Made Videos Infiltrating Antifa and El Salvador at 23",
-      "claim": "The host says Nick Shirley has presented infiltrating antifa and infiltrating El Salvador at the age of 23, which she suggests implies a contact behind him.",
+      "claim": "In a clip of her earlier remarks shown on Patrick Bet-David's show, the host says Nick Shirley has presented infiltrating antifa and infiltrating El Salvador at the age of 23, which she suggests implies a contact behind him.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10666"
@@ -3217,8 +3216,8 @@
       "@type": "Claim",
       "@id": "C-13007",
       "ref": "C-13007",
-      "label": "Host Says Charlie Would Have Laughed at the Drewski Skit but Erika Took It Seriously",
-      "claim": "The host says Charlie would have laughed at the Drewski skit mocking Erika, but Erika took it deadly seriously.",
+      "label": "Host Says Charlie Would Have Laughed at the Druski Skit but Erika Took It Seriously",
+      "claim": "The host says Charlie would have laughed at the Druski skit mocking Erika, but Erika took it deadly seriously.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11356"
@@ -3240,7 +3239,7 @@
       "@id": "C-13008",
       "ref": "C-13008",
       "label": "Host Says Kolvet and Others Tried to Make the Skit Racial",
-      "claim": "The host says people including Andrew Kolvet tried to turn the Drewski skit about Erika into a racial issue.",
+      "claim": "The host says people including Andrew Kolvet tried to turn the Druski skit about Erika into a racial issue.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11356"
@@ -3261,8 +3260,8 @@
       "@type": "Claim",
       "@id": "C-13009",
       "ref": "C-13009",
-      "label": "Host Says Drewski Also Mocks Vietnamese People in a Nail Salon Skit",
-      "claim": "The host says Drewski's skits mock many groups, including a skit in which he dressed as a Vietnamese person in a nail salon.",
+      "label": "Host Says Druski Also Mocks Vietnamese People in a Nail Salon Skit",
+      "claim": "The host says Druski's skits mock many groups, including a skit in which he dressed as a Vietnamese person in a nail salon.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11356"
@@ -3281,8 +3280,8 @@
       "@type": "Claim",
       "@id": "C-13010",
       "ref": "C-13010",
-      "label": "Host Says Drewski Posted a Video Last Week Targeting Black British Actors",
-      "claim": "The host says Drewski posted a massive video the previous week that targeted black British actors.",
+      "label": "Host Says Druski Posted a Video Last Week Targeting Black British Actors",
+      "claim": "The host says Druski posted a massive video the previous week that targeted black British actors.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11356"
@@ -3844,7 +3843,7 @@
       "@id": "C-13035",
       "ref": "C-13035",
       "label": "Host Says She Interviewed Mitch on the 18th",
-      "claim": "The host says she interviewed Mitch on the 18th, after she messaged Brian Harpole and Erika did not give her an alibi for him, and Mitch said he saw Erika on the 8th.",
+      "claim": "The host says she interviewed Mitch on the 18th because she had messaged Brian Harpole and Erika did not give her an alibi for him, and Mitch said he saw Erika on the 8th.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10367"
@@ -4290,7 +4289,7 @@
       "@id": "C-13054",
       "ref": "C-13054",
       "label": "Host Says Erika Is Teaming Up With People Who Bullied Charlie",
-      "claim": "The host says people should hate those who bullied Charlie, and that Erika instead teams up with them.",
+      "claim": "Answering a viewer comment, the host says Erika should hate the people who bullied her husband, Charlie, and should not team up with them, but that is not how Erika lives.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10538"

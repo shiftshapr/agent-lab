@@ -1138,9 +1138,9 @@
       "@type": "Person",
       "@id": "N-555",
       "ref": "N-555",
-      "name": "Carrie Prejean Bowler",
+      "name": "Carrie Prejean Boller",
       "type": "person",
-      "description": "Carrie Prejean Bowler; the host says Trump removed her from the religious committee.",
+      "description": "Carrie Prejean Boller; the host says Trump removed her from the religious committee.",
       "related_artifacts": [],
       "related_claims": [
         "C-7133"
@@ -3200,7 +3200,7 @@
       "@id": "C-7107",
       "ref": "C-7107",
       "label": "Host Says Trump Took One to Two Hundred Million Dollars From Miriam Adelson",
-      "claim": "The host says Trump took a hundred million to two hundred million dollars from Miriam Adelson, who Trump's own remarks suggest loves Israel more than America.",
+      "claim": "The host says Trump took, she thinks, a hundred million to two hundred million dollars from Miriam Adelson, who Trump's own remarks suggest loves Israel more than America.",
       "anchored_artifacts": [
         "A-2443.1"
       ],

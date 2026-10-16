@@ -1673,7 +1673,7 @@
       "@id": "C-2561",
       "ref": "C-2561",
       "label": "Nick Searcy Confirmed Andrew Kolvet Livestream Was Authentic 9–10 a.m. Pacific",
-      "claim": "Nick Searcy confirmed to the host that Andrew Kolvet's livestream was authentically live during the 9–10 a.m. Pacific block on September 10, 2025.",
+      "claim": "The host says Nick Shirley confirmed to her that Andrew Kolvet's show was authentically live during the 9–10 a.m. Pacific block on September 10, 2025.",
       "anchored_artifacts": [
         "A-1898.1"
       ],
@@ -1682,6 +1682,8 @@
       "claim_timestamp": "00:03:30",
       "investigative_direction": "Cross-reference the livestream timestamps with airport manifests and TPUSA communications logs.",
       "mentions_person_refs": [
+        "N-3",
+        "N-214",
         "N-14"
       ]
     },
@@ -1745,7 +1747,7 @@
       "@id": "C-2565",
       "ref": "C-2565",
       "label": "Stacey Sheridan Was Not at TPUSA Offices on September 10",
-      "claim": "Per the host's reporting, Stacey Sheridan was not at the Turning Point USA Scottsdale office on September 10, 2025, and was allegedly at home in Scottsdale.",
+      "claim": "The host says she can confirm Stacey Sheridan was not at the Turning Point USA office on September 10, 2025, and that she was allegedly at home in Scottsdale.",
       "anchored_artifacts": [
         "A-1902.1"
       ],
@@ -1785,7 +1787,7 @@
       "@id": "C-2567",
       "ref": "C-2567",
       "label": "Hopkinson Aircraft Employee Neither Confirmed nor Denied Seeing Erica on September 10",
-      "claim": "A Hopkinson Aircraft employee contacted by the host would neither confirm nor deny seeing Erika Kirk at their offices on September 10, 2025.",
+      "claim": "The host says a Hopkinson Aircraft employee she spoke with would neither confirm nor deny seeing Erika Kirk at their offices on September 10, 2025.",
       "anchored_artifacts": [
         "A-1899.1"
       ],
@@ -1794,7 +1796,7 @@
         "N-10565"
       ],
       "tags": [],
-      "claim_timestamp": "00:21:05–00:24:24",
+      "claim_timestamp": "00:22:50",
       "investigative_direction": "Identify and contact additional Hopkinson staff or obtain facility access logs/surveillance for September 10.",
       "mentions_person_refs": [
         "N-2"
@@ -3350,7 +3352,7 @@
       "@type": "Claim",
       "@id": "C-12804",
       "ref": "C-12804",
-      "label": "Host Denies She Named Erika Within Hours and Says She Only Began Covering Erika After December",
+      "label": "Host Denies She Named Erika Within Hours and Says She Only Began Covering Erika in December",
       "claim": "The host says it is false, as the thread claims, that within hours she attributed the killing to Israel and targeted Erika by name, saying she said nice things about Erika's speech and did not start covering Erika until Erika lied to her face in December.",
       "anchored_artifacts": [
         "A-1896.1"
@@ -3432,7 +3434,7 @@
         "N-10324"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:37:09",
       "investigative_direction": "Review the Epstein Files Transparency Act record and Massie's public statements on the White House position.",
@@ -3481,7 +3483,7 @@
         "N-10564"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:41:40",
       "investigative_direction": "Obtain the article and confirm the passage and its author.",
@@ -3503,7 +3505,7 @@
         "N-10564"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:41:40",
       "investigative_direction": "Retrieve the host's April 2025 post and Stuckey's reply from the X archive.",

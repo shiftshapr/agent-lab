@@ -691,7 +691,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-555** Carrie Prejean Bowler
+**N-555** Carrie Prejean Boller
 
 Existing node reused for new claims in this episode.
 
@@ -2386,11 +2386,11 @@ Investigative Direction: Use the night-before messages to test the host's charac
 
 ---
 
-**C-10130** Host Says Prejean Bowler Asked What Anti-Semitism Is and What Seth Did at the Hamptons
+**C-10130** Host Says Prejean Boller Asked What Anti-Semitism Is and What Seth Did at the Hamptons
 
 Claim Timestamp: 00:43:03
 
-Claim: The host says Carrie Prejean Bowler stood up at a hearing and asked what anti-Semitism even is and what Seth did at the Hamptons, where she says Charlie was pressed.
+Claim: The host says Carrie Prejean Boller stood up at a hearing and asked what anti-Semitism even is and what Seth did at the Hamptons, where she says Charlie was pressed.
 
 Transcript Snippet: she stood up during that hearing and said, "What even is anti-Semitism? Seth, actually, what did you even do at the Hamptons?"
 
@@ -2398,15 +2398,15 @@ Anchored Artifacts:
 Mentions: N-3, N-555, N-38, N-1
 Related Nodes: N-10345
 Tags: relevance:context
-Investigative Direction: Watch the hearing and verify what Prejean Bowler said and to whom.
+Investigative Direction: Watch the hearing and verify what Prejean Boller said and to whom.
 
 ---
 
-**C-10131** Host Says Whispers Say Prejean Bowler Will Be Removed From the Religious Committee
+**C-10131** Host Says Whispers Say Prejean Boller Will Be Removed From the Religious Committee
 
 Claim Timestamp: 00:43:30
 
-Claim: The host says Laura Loomer and others are saying there are whispers that Carrie Prejean Bowler will be kicked off the religious committee because she will not bend the knee to Israel.
+Claim: The host says Laura Loomer and others are saying there are whispers that Carrie Prejean Boller will be kicked off the religious committee because she will not bend the knee to Israel.
 
 Transcript Snippet: there's whispers that she's going to be kicked off of the religious committee because she won't bend the knee to Israel.
 
@@ -2418,18 +2418,18 @@ Investigative Direction: Check the commission's membership announcements and Loo
 
 ---
 
-**C-10132** Host Quotes Prejean Bowler Saying Catholic Doctrine Is Not Worshipping Netanyahu
+**C-10132** Host Quotes Prejean Boller Saying Catholic Doctrine Is Not Worshipping Netanyahu
 
 Claim Timestamp: 00:43:56
 
-Claim: The host says Carrie Prejean Bowler said that she is a Catholic and that Catholic doctrine does not teach worshipping Benjamin Netanyahu.
+Claim: The host says Carrie Prejean Boller said that she is a Catholic and that Catholic doctrine does not teach worshipping Benjamin Netanyahu.
 
 Transcript Snippet: I'm a Catholic. This is not our doctrine. Our doctrine is not that we worship BB Netanyahu.
 
 Anchored Artifacts: 
 Mentions: N-3, N-555, N-36
 Tags: relevance:context
-Investigative Direction: Retrieve Prejean Bowler's own remarks to confirm the wording.
+Investigative Direction: Retrieve Prejean Boller's own remarks to confirm the wording.
 
 ---
 
@@ -2568,7 +2568,7 @@ Confidence: high
 Video Timestamp: 00:43:03
 Speaker: N-3
 Quote: because she won't bend the knee to Israel
-Context: Host says Prejean Bowler will not bend the knee to Israel.
+Context: Host says Prejean Boller will not bend the knee to Israel.
 Tags: bend the knee, prejean
 Confidence: high
 

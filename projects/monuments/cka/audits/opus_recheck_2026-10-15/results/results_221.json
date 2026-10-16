@@ -1,0 +1,747 @@
+[
+ {
+  "claim": "C-15023",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15024",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15025",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15026",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15027",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15028",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15029",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15030",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15031",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15032",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15033",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15034",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15035",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15036",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim does not say whose bodycam clip it is though Mentions has N-40; host introduces it as the 2022 Tyler Robinson bodycam footage ('we can now watch a little clip of it').",
+  "fix": {
+   "claim": "In the played 2022 Tyler Robinson bodycam clip a driver tells the officer the other vehicle pulled out or turned in and that he T-boned into its side."
+  }
+ },
+ {
+  "claim": "C-15037",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: 'their number one donor uh Nelda Buckman', not 'Nell Buckman'.",
+  "fix": {
+   "claim": "The host says Turning Point USA has a strong tie to UT Austin through its number one donor, whom she names Nelda Buckman."
+  }
+ },
+ {
+  "claim": "C-15038",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15039",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15040",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Maybe NDA can help you reach out to to Jimbo Spencer' - NDA appears to be Nelda (Buckman).",
+  "fix": {}
+ },
+ {
+  "claim": "C-15041",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15042",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15043",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15044",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15045",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15046",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15047",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript says 'The Perisio lobby, they just operate like termites'; the title's 'Pharisee' is an interpretation the transcript does not confirm.",
+  "fix": {
+   "label": "Host Says the 'Perisio' Lobby Operates Like Termites"
+  }
+ },
+ {
+  "claim": "C-15048",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15049",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15050",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15051",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Spoken at ~58:04 ('delivered to the office of the attorney general rather um of Utah'), ~72s after the timestamp; just inside the limit.",
+  "fix": {}
+ },
+ {
+  "claim": "C-15052",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15053",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15054",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15055",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15056",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15057",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15058",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15059",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says 'in uh June of 20 or May of 2025', self-correcting to May.",
+  "fix": {}
+ },
+ {
+  "claim": "C-15060",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15061",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15062",
+  "episode": 153,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3494",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Erika (N-2) is not named or referred to; the claim concerns the TPUSA UVU chapter's form. EMS detail is at ~07:30 ('Will EMS need to be scheduled for your event?... wrote, \"No.\"').",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-3495",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Erika (N-2) not referred to. 'Undocumented' is the host's comment ('there was a conversation that is not documented'), not ABC's report.",
+  "fix": {
+   "claim": "Per the ABC News report the host reads, the UVU event attendance was initially estimated at 200, revised to 600, then, per TPUSA, to 1,500 (in a later conversation the host says was undocumented), with actual attendance of about 3,000.",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-3496",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Statement on unticketed/open-to-public events is read at ~06:05 ('And they go on to say the events are unticked'), ~2 min after 04:04. Claim does not name Erika (host says 'Erika's Turning Point USA official').",
+  "fix": {
+   "timestamp": "00:06:00",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-3497",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The forwarded message (13:18) says 'We are going to get Charlie Kirk and Candace Owens involved in a public feud'; 'Operation Graer X anonymous' is the title of a later post Kolvet sends (~16:41), not the forwarded message.",
+  "fix": {
+   "claim": "A November 12–13, 2019 text thread shows Andrew Kolvet forwarding to Candace Owens a message attributed to \"E\" describing a plan to seed a public feud between Charlie Kirk and Candace Owens; Kolvet later sends a post titled \"Operation Graer X anonymous.\""
+  }
+ },
+ {
+  "claim": "C-3498",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Kolvet texted 'The blog was linked in this Vox article', but host says 'the article does not link to this post. It links to the website where the post is at.' Claim states the Vox citation as fact.",
+  "fix": {
+   "claim": "Per the 4plebs post the host shows, which Andrew Kolvet said Erika (\"E\") found and said was linked in a Vox article (the host says the article does not link to the post), the post set out the same Charlie/Candace feud-seeding narrative – ask \"gripers\" to put Charlie against Candace; \"fluff\" Candace's ego; frame Candace as driven out of TPUSA by Kirk fearing her."
+  }
+ },
+ {
+  "claim": "C-3499",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "In the clip Charlie never says 'grassroots', 'opt-in' or 'student-led'; that is the host's framing after the clip. Erika (N-2) is not referred to in the claim.",
+  "fix": {
+   "claim": "In a clip the host plays of his presentation to Aspen donors, Charlie Kirk says the high school program is now called Club America, that 80 new full-time staff were hired to source high school students who want to start chapters and guide them through the process, and that he wants Club America to be built in like DECA or the debate club; the host calls this a grassroots vision.",
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-3500",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host received parent emails but riffs on them to protect parents ('I'm going to riff on this'); she shows one student's text messages to a parent.",
+  "fix": {
+   "claim": "The host says Erika Kirk spoke at a Nampa Christian School assembly where students were not voluntary opt-in participants, citing parent emails she received and a student's text messages to a parent that she shows describing students unable to leave and \"locked in the gym.\""
+  }
+ },
+ {
+  "claim": "C-3501",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "The post says '500 plus outstanding high school student attendees'; 'Voluntary' in the title is not in it. Claim does not name Erika (N-2).",
+  "fix": {
+   "label": "TPUSA Claimed 500+ Nampa Christian School Attendees",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-3502",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Kolvet's reply itself says 'Nothing was forced'; the host does not say he is 'implying' it. She says 'he's doing a thing where they're going to get on a technicality.'",
+  "fix": {
+   "claim": "Per Andrew Kolvet's reply on X that the host shows, students were free to opt out, three did, \"over 500 chose to attend\" and nothing was forced; the host characterizes this as winning on a technicality."
+  }
+ },
+ {
+  "claim": "C-3503",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3504",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Ian Ward is named by Tucker in the clip at ~47:50, not by the host when showing the article.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3505",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3506",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Charlie Kirk (N-1) is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-160"
+   ]
+  }
+ },
+ {
+  "claim": "C-3507",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3508",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3509",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3510",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3511",
+  "episode": 154,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie Kirk but not Erika (N-2); the comment is about TPUSA's anniversary event at UVU.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  }
+ }
+]

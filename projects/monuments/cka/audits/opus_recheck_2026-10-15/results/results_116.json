@@ -1,0 +1,764 @@
+[
+ {
+  "claim": "C-11217",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11218",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11219",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11220",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host: 'back in January, Arizona Senator named Jake Hoffman... AJ Copp back on January 28th introduced a bill'. 'AJ Copp' is a garble of 'Jake Hoffman'; SB 1439 sponsor confirmed as Sen. Jake Hoffman (AZ Senate GOP release, news reports).",
+  "fix": {
+   "claim": "The host says Jake Hoffman introduced a bill on January 28 for a state license plate to honor Charlie Kirk.",
+   "label": "Jake Hoffman Introduced the Plate Bill on January 28",
+   "mentions": [
+    "N-578",
+    "N-1"
+   ],
+   "names": [
+    {
+     "wrong": "AJ Copp",
+     "right": "Jake Hoffman",
+     "source": "https://www.azsenaterepublicans.gov/press-releases/senator-hoffman-slams-hobbs-partisan-veto-of-charlie-kirk"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-11221",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11222",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11223",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11224",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11225",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Hoffman: 'she vetoed about nine of my bills, and she used... the acronym of the committee as her reason for the veto'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11226",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11227",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host voices TPUSA mockingly: 'We got to take down all of his episodes. We have to make sure we hide interviews'. Claim restates this as fact that TPUSA 'took down' episodes.",
+  "fix": {
+   "claim": "Mocking Turning Point's messaging, the host voices it as saying 'We got to take down all of his episodes. We have to make sure we hide interviews of things he said.'"
+  }
+ },
+ {
+  "claim": "C-11228",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11229",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11230",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11231",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11232",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11233",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11234",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Parenthetical on Slovenia is editorial and flagged as such; transcript says 'Serbia'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2453",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2454",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2455",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2456",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions includes N-179 Jared Kushner, who is not named in the claim (news clip on the Alexander verdict). Details on minor/sexual-abuse counts and August sentencing are at [10:01], so claim content is supported.",
+  "fix": {
+   "mentions": [
+    "N-587",
+    "N-588",
+    "N-589"
+   ]
+  }
+ },
+ {
+  "claim": "C-2457",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2458",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2459",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2460",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2461",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2462",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie Kirk ('part of Charlie Kirk's microphone'; transcript 'part of his mic') but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-2463",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2464",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2465",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2466",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2467",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'rhino who needed to be replaced' is the host's description at [42:41] ('tweeted out that Thomas Massie was a rhino'); the tweet text read on screen is 'MAGA rallies are back. Trump haters are on notice.'",
+  "fix": {
+   "claim": "The host says Turning Point Action tweeted that Thomas Massie was a \"rhino\" who needed to be replaced, and shows the tweet."
+  }
+ },
+ {
+  "claim": "C-2468",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2469",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The 2016-2023 span is the host's statement ('he's been his favorite congressman from at least to 2016 all the way through 2023'); Massie's reply shows one tweet of Charlie, not multiple displayed video instances.",
+  "fix": {
+   "claim": "The host says Massie's reply shows a tweet of Charlie Kirk calling Massie one of his favorite congressmen, and that Massie had been Charlie's favorite congressman from at least 2016 through 2023."
+  }
+ },
+ {
+  "claim": "C-2470",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2471",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2472",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2473",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2474",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The tweet Massie replied to was from Turning Point Action ('Turning Point Action ... tweeted out'), not Turning Point USA.",
+  "fix": {
+   "claim": "Per the displayed Massie reply tweet, Massie directly asked Turning Point Action what had \"gotten into y'all\" in response to their tweet targeting him."
+  }
+ },
+ {
+  "claim": "C-2475",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Renee Crossman ('Renee Crossman herself... she defends the cult') but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-585"
+   ]
+  }
+ },
+ {
+  "claim": "C-12671",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12672",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Mentions includes N-571 Faith Kates, who is not named in the claim (claim names only Erika and Next Model Management).",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-12673",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12674",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12675",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12676",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12677",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12678",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12679",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12680",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12681",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12682",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'the redactions didn't matter in the end thanks to the crusade of Congressman Thomas Massie, among others'. 'Played a leading role in exposing' drops 'among others'.",
+  "fix": {
+   "claim": "The host says the redactions didn't matter in the end thanks to the crusade of Congressman Thomas Massie, among others, and that Trump now wants him primaried in Kentucky because, she says, Israel wants him out."
+  }
+ },
+ {
+  "claim": "C-12683",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12684",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12685",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12686",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript garbled: 'Jared told me to Bob Barr. He told me that they might preemptively strike.' Claim follows it; recipient of Kushner's remark unclear.",
+  "fix": {}
+ },
+ {
+  "claim": "C-12687",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12688",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12689",
+  "episode": 78,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

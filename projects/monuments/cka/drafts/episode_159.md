@@ -1204,7 +1204,7 @@ Former US senator. Host recalls his BCG advisory tie to Benjamin Netanyahu in th
 
 ---
 
-**N-11092** Erika CEO Appointment Timing Explanation (DeGroot versus TPUSA PR Source)
+**N-11092** Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)
 
 Node Type: Topic
 Conflict between board member Doug DeGroote's account that journalist pressure forced a rapid CEO naming and the host's TPUSA PR source who told her otherwise.
@@ -1741,7 +1741,7 @@ Related Nodes: N-10873
 **C-3615** Erika’s Israel posture and partner choices contradict heaven-focused widow branding
 
 Claim Timestamp: 01:00:00
-Claim: A viewer comment the host reads says loyalty to Erika depends on her loyalty to Charlie; the host agrees and argues that Erika's changed stance on Israel, silence and glowing Israel partnerships, and teaming up with Andrew Wilson (text leaks) register as fake after she allegedly pushed Charlie to be more critical of Israel.
+Claim: A viewer comment the host reads says loyalty to Erika depends on her loyalty to Charlie; the host agrees and argues that Erika's changed stance on Israel, her professed lack of opinion, and letting people who pressured Charlie back into the organization register as fake after she pushed Charlie to be more against Israel, and she questions Erika teaming up with Andrew Wilson to share text messages.
 Anchored Artifacts: A-2473.1
 Mentions: N-1, N-2, N-18
 Related Nodes: N-10056, N-10864
@@ -1801,15 +1801,15 @@ Transcript Snippet: according to Doug Degroot, the journalists were just pressur
 Anchored Artifacts: A-2809.1
 Mentions: N-497, N-2
 Related Nodes: N-11092, N-10194
-Investigative Direction: Obtain DeGroot's original statement in the Vanity Fair piece and any TPUSA press-inquiry logs from September 10-12, 2025.
+Investigative Direction: Obtain DeGroote's original statement in the Vanity Fair piece and any TPUSA press-inquiry logs from September 10-12, 2025.
 
 ---
 
-**C-6354** Host says the TPUSA staffer who fielded press requests told her something different from DeGroot
+**C-6354** Host says the TPUSA staffer who fielded press requests told her something different from DeGroote
 
 Claim Timestamp: 00:02:39
 
-Claim: The host says she fact-checked DeGroot's account with the person directly responsible for fielding the PR requests and writing the death statement, and says it is not what she was told.
+Claim: The host says she fact-checked DeGroote's account with the person directly responsible for fielding the PR requests and writing the death statement, and says it is not what she was told.
 
 Transcript Snippet: I fact checked that with the person who was directly responsible for fielding the PR request, the same person who had to write the death statement uh to hand over to the media.
 
@@ -1817,7 +1817,7 @@ Anchored Artifacts: A-2809.1
 Mentions: N-497, N-3
 Related Nodes: N-11092
 Contradicts: C-6353
-Investigative Direction: Identify the TPUSA communications staffer and obtain the press inquiries received in the first 48 hours; compare with DeGroot's account.
+Investigative Direction: Identify the TPUSA communications staffer and obtain the press inquiries received in the first 48 hours; compare with DeGroote's account.
 
 ---
 
@@ -1825,7 +1825,7 @@ Investigative Direction: Identify the TPUSA communications staffer and obtain th
 
 Claim Timestamp: 00:02:39
 
-Claim: The host says staff did not imagine that Erika was in the office taking Zoom calls, announcing Turning Point 2.0, giggling and celebrating the money made in merchandise sales at Charlie's memorial within the first two weeks.
+Claim: The host says nobody imagined that Erika was in the office taking Zoom calls, announcing Turning Point 2.0, giggling and celebrating the money made in merchandise sales at Charlie's memorial within the first two weeks.
 
 Transcript Snippet: Nobody imagined that she was announcing Turning Point 2.0, giggling on Zoom calls, celebrating how much money that they had made at Charlie's Memorial in merch sales all within the first two weeks.
 
@@ -1845,7 +1845,7 @@ Claim: The host says Turning Point USA decided to encase Charlie's bloodied micr
 Transcript Snippet: they eventually made the terribly crash decision to encase Charlie's bloodied microphone as an emotional appeal to donors at their annual Mara Lago event, also at Amfest.
 
 Anchored Artifacts: 
-Mentions: N-1, N-2
+Mentions: N-1
 Related Nodes: N-10869, N-10002
 Investigative Direction: Obtain event photos and programs from the Mar-a-Lago event and AmFest showing the encased microphone and identify who authorized displaying it.
 
@@ -2022,7 +2022,7 @@ Investigative Direction: Obtain the 2024 TPUSA sponsor lists and Yrefy's first s
 
 Claim Timestamp: 00:10:21
 
-Claim: The host says TPUSA's sponsorship lead Dylan Erickson was once a TPUSA employee, is allegedly now a contractor, and is also employed or paid by Yrefy, which she says would be a conflict of interest.
+Claim: The host says that, according to Turning Point USA employees, TPUSA's sponsorship lead Dylan Erickson was once a TPUSA employee, is allegedly now a contractor, and is also employed or paid by Yrefy, which she says would be a conflict of interest.
 
 Transcript Snippet: he was once an employee of Turning Point uh of Turning Point USA. They say now he's a contractor, I'll say allegedly.
 
@@ -2383,7 +2383,7 @@ Investigative Direction: Verify the appointment date through GHF announcements a
 
 Claim Timestamp: 00:25:31
 
-Claim: The host says Johnnie Moore is Andrew Kolvet's partner at the Kairos Company, that Kolvet worked with Kairos before starting his own PR firm, and that TPUSA was taken on through Kairos, with Kolvet's email then at the Kairos Company.
+Claim: The host says Johnnie Moore is Andrew Kolvet's partner at the Kairos Company, that Kolvet worked with Kairos before starting his own PR firm, and that TPUSA was taken on through Kairos, with Kolvet's email then, if she remembers correctly, at the Kairos Company.
 
 Transcript Snippet: Before Andrew started his own PR firm, he was working with Kairos.
 
@@ -2641,7 +2641,7 @@ Investigative Direction: Match the tail number's FlightAware or ADS-B history ag
 
 Claim Timestamp: 00:31:34
 
-Claim: The host says that from July 20 Charlie vacationed in Maine for a couple of weeks and went off radar, and that Mikey McCoy and Elizabeth McCoy joined Erika and Charlie for the first time, capturing what became the final footage distributed after the assassination.
+Claim: The host says that from July 20 Charlie vacationed in Maine for a couple of weeks and went off radar, and that Mikey McCoy and Elizabeth McCoy joined Erika and Charlie for the first time, according to them, capturing what became the final footage distributed after the assassination.
 
 Transcript Snippet: Uh Mikey, McCoy, and Elizabeth join Erika and Charlie for the first time, according to them, capturing what's going to be the final footage
 
@@ -2676,7 +2676,7 @@ Claim: The host says the second situation-room meeting coincided with the House 
 Transcript Snippet: this meeting coincided also with the House oversight meeting voting to subpoena the president on the Epstein files.
 
 Anchored Artifacts: A-2470.1
-Mentions: N-5, N-9
+Mentions: N-9
 Related Nodes: N-10324, N-11095
 Investigative Direction: Check the House Oversight Committee vote record of July 23, 2025 and exactly what was subpoenaed.
 

@@ -1507,10 +1507,7 @@
       "tags": [],
       "claim_timestamp": "00:03:41",
       "investigative_direction": "Check the builder's published specifications for Planet Nine's helideck and helicopter.",
-      "transcript_snippet": "The helicopter, I will say that there's one drawback. The helicopter is only an eight-seater.",
-      "mentions_person_refs": [
-        "N-666"
-      ]
+      "transcript_snippet": "The helicopter, I will say that there's one drawback. The helicopter is only an eight-seater."
     },
     {
       "@type": "Claim",
@@ -1525,10 +1522,7 @@
       "tags": [],
       "claim_timestamp": "00:04:39",
       "investigative_direction": "Compare with the builder's or charter broker's specification sheet for Planet Nine.",
-      "transcript_snippet": "Planet Nine is five floors in total. But, worry not cuz you're like, \"That's a lot of stairs.\" It has two elevators. It accommodates 16 guests.",
-      "mentions_person_refs": [
-        "N-666"
-      ]
+      "transcript_snippet": "Planet Nine is five floors in total. But, worry not cuz you're like, \"That's a lot of stairs.\" It has two elevators. It accommodates 16 guests."
     },
     {
       "@type": "Claim",
@@ -1606,7 +1600,7 @@
       "transcript_snippet": "The Prime Minister of Albania was on the boat. The guy who did the deal and in the process sold out his country and his ancestry.",
       "mentions_person_refs": [
         "N-667",
-        "N-179"
+        "N-666"
       ]
     },
     {
@@ -2363,7 +2357,7 @@
       "@id": "C-4482",
       "ref": "C-4482",
       "label": "Erika Kirk has not provided an alibi; Paramount Tactical debunked the one offered",
-      "claim": "The host says Erika Kirk has not provided an alibi, and that Kolvet tried to offer one through what she calls \"Paramount Not So Tactical,\" which she says then debunked that alibi and said it does not matter whether or not the children are hers.",
+      "claim": "The host says Erika Kirk has not provided an alibi, and that she guesses Kolvet tried to offer one through what she calls \"Paramount Not So Tactical,\" which she says then debunked that alibi and said it does not matter whether or not the children are hers.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10899",

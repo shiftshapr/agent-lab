@@ -821,7 +821,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11092** Erika CEO Appointment Timing Explanation (DeGroot versus TPUSA PR Source)
+**N-11092** Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)
 
 Existing topic reused for new claims in this episode.
 
@@ -941,7 +941,7 @@ Investigative Pressure: Low
 
 **C-2654** Tour Qureshi trained at Fort Huachuca using reconnaissance drones
 
-Claim Timestamp: 00:01:20–00:03:02
+Claim Timestamp: 00:02:40
 
 Claim: Per his LinkedIn profile as reported on the episode, Tour Qureshi trained at Fort Huachuca using reconnaissance drones.
 
@@ -1000,7 +1000,7 @@ Claim Timestamp: 00:36:46–00:37:30
 Claim: On Jesse Watters, Erika Kirk stated she was at her mom's doctor's appointment when she received the news of Charlie's shooting; host identified an apparent jump cut in the interview.
 
 Anchored Artifacts: A-1931.1
-Mentions: N-2, N-212
+Mentions: N-2, N-212, N-1
 Related Nodes: N-10582
 Investigative Direction: Obtain the original Jesse Watters interview footage in unedited form; verify the jump cut and compare the account against the NY Times account and against witness testimony.
 
@@ -1011,7 +1011,7 @@ Claim Timestamp: 00:14:16–00:15:40
 Claim: At Arizona State University, Blake Neff stated that Charlie repeatedly said "Erika will take over for me" and that the CEO appointment was not forced by anyone at TPUSA.
 
 Anchored Artifacts: A-1932.2
-Mentions: N-2, N-160
+Mentions: N-2, N-160, N-1
 Related Nodes: N-10583
 Investigative Direction: Cross-reference Blake Neff's claims against contemporaneous TPUSA employee testimony regarding Charlie's stated succession intent.
 
@@ -1044,7 +1044,7 @@ Claim Timestamp: 00:34:02–00:35:00
 Claim: Erika Kirk posted an Instagram video of her mother appearing frail and sick on September 8, 2025, two days before Charlie's death.
 
 Anchored Artifacts: A-1934.1
-Mentions: N-2
+Mentions: N-2, N-1
 Related Nodes: N-10582
 Investigative Direction: Obtain the Instagram post directly; verify date, visual content, and any caption.
 
@@ -1162,7 +1162,7 @@ Claim: The host says the Built app could let a user see in advance where Charlie
 Transcript Snippet: which door you were going to go through at Timpanogos if you were prepping for a mission.
 
 Anchored Artifacts: A-1927.4
-Mentions: N-412, N-3
+Mentions: N-412, N-3, N-1
 Related Nodes: N-10585, N-10573
 Tags: relevance:core
 Investigative Direction: Verify the app's feature set from product documentation and whether any Utah venue or hospital layouts were ever built in it.
@@ -1308,7 +1308,7 @@ Transcript Snippet: She never did. I told you Erika had a bonus parent. She alwa
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-10516
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Document Erika's childhood household through records and earlier interviews.
 
 ---
@@ -1515,7 +1515,7 @@ Claim: Addressing Blake Neff, the host says that after Charlie was 'allegedly' s
 Transcript Snippet: Mikey calls his wife and you call your mom and no one calls 911.
 
 Anchored Artifacts: 
-Mentions: N-3, N-160, N-191
+Mentions: N-3, N-160, N-191, N-1
 Related Nodes: N-10729
 Supports: C-1932
 Tags: relevance:core
@@ -1527,7 +1527,7 @@ Investigative Direction: Obtain the 911 call records for the UVU address and com
 
 Claim Timestamp: 00:32:34
 
-Claim: The host says she is not questioning that Erika's mother is ill and notes Erika has herself talked about her mother's Lyme disease in different settings.
+Claim: The host says she is not questioning that Erika's mother is ill and says she thinks Erika has herself talked about her mother's Lyme disease in different settings.
 
 Transcript Snippet: I think Erika's even herself talked about her mother's Lyme disease in different settings.
 
@@ -1543,7 +1543,7 @@ Investigative Direction: Find Erika's own public statements about her mother's L
 
 Claim Timestamp: 00:32:34
 
-Claim: The host says someone had the chief fundraiser record Erika grieving over her husband, and cites it as an example of using emotion to manipulate people.
+Claim: The host says Erika had the chief fundraiser record her grieving over her husband, and cites it as an example of tendencies to use emotion to manipulate people.
 
 Transcript Snippet: have the chief fundraiser uh record you grieving over your husband
 
@@ -1606,7 +1606,7 @@ Investigative Direction: Retrieve the original article and compare with the Watt
 
 Claim Timestamp: 00:36:46
 
-Claim: In the Jesse Watters clip played, Erika Kirk says Mikey called within seconds after she put her phone down and that she sprinted out of her treatment center.
+Claim: In the Jesse Watters clip played, Erika Kirk says that when she went back to grab her phone Mikey started calling, that he called her within seconds, and that she sprinted out of her treatment center.
 
 Transcript Snippet: He called me within seconds.
 
@@ -1658,7 +1658,7 @@ Claim: The host says she determined the place in question is not a hospital and 
 Transcript Snippet: It would be more appropriately described as an IV therapy place.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2
+Mentions: N-3
 Related Nodes: N-10478
 Tags: relevance:core
 Investigative Direction: Identify the facility, its licence type and services through state records.
@@ -1691,7 +1691,7 @@ Claim: The host says she put out an APB for anyone in the parking lot or working
 Transcript Snippet: Please tell us, send us in tips, more tips at candaceowens. com.
 
 Anchored Artifacts: A-2948.1
-Mentions: N-3, N-2
+Mentions: N-3
 Related Nodes: N-10582
 Tags: relevance:core, dia
 Investigative Direction: Count and verify the tips received against named sources.
@@ -1739,7 +1739,7 @@ Claim: The host says that when she pushed the tips further the story fell throug
 Transcript Snippet: we kept finding that the story fell through the cracks. Meaning that everyone involved had heard it from someone.
 
 Anchored Artifacts: A-2949.1
-Mentions: N-3, N-2
+Mentions: N-3
 Related Nodes: N-10582
 Tags: relevance:core
 Investigative Direction: Map the chain of who told whom to find any first-hand witness or the origin of the story.
@@ -1904,7 +1904,7 @@ Transcript Snippet: Pam Bondi was doing as she was instructed to do by Trump, by
 Anchored Artifacts: 
 Mentions: N-3, N-85, N-5, N-69, N-9
 Related Nodes: N-10324, N-10586
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare the stated reasons for the dismissal with reporting on the Epstein files release.
 
 ---
@@ -1918,9 +1918,9 @@ Claim: The host says that during the Epstein files release on December 23 they r
 Transcript Snippet: they even released a fake a deep fake video of Jeffrey Epstein in his cell committing suicide.
 
 Anchored Artifacts: 
-Mentions: N-3, N-9, N-69
+Mentions: N-3, N-9
 Related Nodes: N-10324
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the video in the release and any analysis that found it manipulated.
 
 ---
@@ -1936,7 +1936,7 @@ Transcript Snippet: And they got clocked on the fake video and then they removed
 Anchored Artifacts: 
 Mentions: N-3, N-9
 Related Nodes: N-10324
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find the DOJ statement or the removal record.
 
 ---
@@ -2106,7 +2106,7 @@ Investigative Direction: Compare the earliest accounts of the call sequence with
 
 Claim Timestamp: 00:52:06
 
-Claim: The host says Charlie had an in with Trump's speechwriter and would ask him to save a sentence, for example when promoting Blexit.
+Claim: The host says Charlie had an in with Trump's speechwriter and would ask them to save a sentence, for example when promoting Blexit.
 
 Transcript Snippet: he always would had an in with Trump's speechwriter.
 
@@ -2220,7 +2220,7 @@ Claim: The host says that as to Lori's whereabouts on September 10 her team thin
 Transcript Snippet: we think we're pretty close to nailing her down
 
 Anchored Artifacts: 
-Mentions: N-3, N-490, N-2
+Mentions: N-3, N-490
 Related Nodes: N-10582
 Tags: relevance:core
 Investigative Direction: Await publication of the findings.

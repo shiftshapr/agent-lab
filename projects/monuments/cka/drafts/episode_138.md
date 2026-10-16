@@ -1195,11 +1195,11 @@ Investigative Direction: Confirm hospitalization via hospital records or subsequ
 
 ---
 
-**C-3228** Victor Marx Stated He Decapitated a Cat at Age 3 With His Stepfather's Hand Over His
+**C-3228** Victor Marx Explains Cutting a Cat's Head Off at Age 3 With an Adult's Hand Over His
 
 Claim Timestamp: 00:44:38–00:45:30
 
-Claim: In his Piers Morgan interview, Victor Marx stated that at age 3, his stepfather placed his hand over Victor's hand on a knife to decapitate a dead cat.
+Claim: In a clip of his Piers Morgan interview the host plays, asked how he could cut a cat's head off at age 3, Victor Marx asks whether Morgan could not cut the head off a dead cat if he put his hand around his son's hand on the knife.
 
 Anchored Artifacts: A-2251.1
 Mentions: N-205, N-342
@@ -1214,7 +1214,7 @@ Investigative Direction: Obtain the full Piers Morgan interview transcript; veri
 
 Claim Timestamp: 00:45:49–00:47:00
 
-Claim: In his Piers Morgan interview, Victor Marx stated that at age 7, his stepfather held his hand on a pistol aimed at a handcuffed, kneeling "homeless fellow" and pushed the trigger until the man was shot.
+Claim: In his Piers Morgan interview, Victor Marx stated that at age 7, his stepfather held his hand on a pistol aimed at a handcuffed, kneeling man who, as best he can remember, looked like a "homeless fellow", and pushed the trigger until the man was shot.
 
 Anchored Artifacts: A-2251.2
 Mentions: N-205, N-342
@@ -1255,7 +1255,7 @@ Investigative Direction: Submit records requests to Mississippi-area sheriff and
 
 ---
 
-**C-3232** Daily Mail's Charlie Spiering Emailed the Show Claiming Foreign-Operative Use of Candace Owens' Tip Line
+**C-3232** Host Says Daily Mail's Charlie Spiering Wrote Claiming Foreign-Operative Use of Candace Owens' Tip Line
 
 Claim Timestamp: 00:21:54–00:22:30
 
@@ -1302,7 +1302,7 @@ Investigative Direction: Identify organizer through leaked membership lists or n
 
 ---
 
-**C-3235** Candace Owens' Home Address Was Shared Within a Multi-Person Group Chat and Acknowledged in Show Comments
+**C-3235** Host Says It Is Terrifying That Group Chat Members Shared Her Address
 
 Claim Timestamp: 00:54:33–00:55:20
 
@@ -1414,7 +1414,7 @@ Investigative Direction: Verify a legal name change and any court record concern
 
 **C-9091** Host Suspects Mike Mitchell Is the Utah Undercover Cyber Sex Crimes Detective of the Same Name
 
-Claim Timestamp: 00:03:10
+Claim Timestamp: 00:02:38
 
 Claim: The host says she strongly suspects Tyler Robinson's former Boy Scouts leader Mike Mitchell is the Utah undercover cyber sex crimes detective of the same name, but admits the team has not confirmed it.
 
@@ -2256,7 +2256,7 @@ Investigative Direction: Verify the figure against the full interview.
 
 Claim Timestamp: 00:47:35
 
-Claim: The host says that everything about Erika's past, when examined, leads into a dark hole and that what she presented to Charlie is not true.
+Claim: The host says that everything about Erika's past, when examined, leads into a dark hole, and questions everything she presented herself to be to Charlie.
 
 Transcript Snippet: Everything about Erika's past, you start looking into it and you're just falling through a dark hole.
 
@@ -2328,7 +2328,7 @@ Transcript Snippet: when they were publishing my kids' cars and stuff that and i
 Anchored Artifacts: A-2253.4
 Mentions: N-3
 Related Nodes: N-10780
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the posts and accounts that published the vehicles.
 
 ---
@@ -2374,7 +2374,7 @@ Claim: The host says nobody in the Epstein network has been taken down, that the
 Transcript Snippet: nobody that is a part of the Pepsi network has been taken down.
 
 Anchored Artifacts: A-2253.5
-Mentions: N-3, N-9, N-171
+Mentions: N-3, N-9
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Review Epstein file releases and prosecutions to date.

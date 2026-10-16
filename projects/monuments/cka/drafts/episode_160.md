@@ -1024,7 +1024,7 @@ Investigative Direction: Verify the five-day media-shift claim against contempor
 **C-3620** Nick Shirley Somali daycare push failed; Shirley was last Charlie Kirk Show guest
 
 Claim Timestamp: 00:08:23
-Claim: The host says media tried to force the Minneapolis Somali daycare welfare scandal (broken by Nick Shirley) as a Charlie Kirk distraction weeks after the assassination, but it was not large enough; she adds Shirley was relatively unknown, had done Brazil work she will not revisit, and was the last guest on the Charlie Kirk Show, picked by Andrew Kolvet who runs Charlie's Twitter.
+Claim: The host says media tried to force the Minneapolis Somali daycare welfare scandal (broken by Nick Shirley) as a Charlie Kirk distraction weeks after the assassination, but it was not large enough; she adds Shirley was relatively unknown, also goes to Brazil (which she says she will not get into), and was the last guest on the Charlie Kirk Show, picked by Andrew Kolvet who runs Charlie's Twitter.
 Anchored Artifacts: A-2475.1
 Mentions: N-14, N-214, N-1
 Related Nodes: N-10559, N-10666
@@ -1101,7 +1101,7 @@ Investigative Direction: Verify Andre identity, death circumstances, and BBC rep
 **C-3627** Andre told BBC he found 2018 Lutnick-Epstein startup email chain
 
 Claim Timestamp: 00:41:13
-Claim: Per the host's BBC-attributed account, Simon Andre said he discovered a 2018 email chain in which Howard Lutnick and Jeffrey Epstein discussed prospects of a startup business, which Andre cast as Lutnick failing to disclose a business relationship with Epstein after Epstein's Palm Beach conviction.
+Claim: Per the host's BBC-attributed account, Simon Andre said he discovered a 2018 email chain in which Howard Lutnick and Jeffrey Epstein discussed prospects of a startup business, which Andre said indicated Lutnick failed to disclose a business relationship with Epstein; the host adds that this came after Epstein's Palm Beach conviction.
 Anchored Artifacts: A-2478.1
 Mentions: N-9, N-166, N-173
 Related Nodes: N-10324, N-10877
@@ -1299,7 +1299,7 @@ Transcript Snippet: Meet Tanisha Lache Jones, who was arrested and charged in So
 Anchored Artifacts: A-2475.1
 Mentions: N-203
 Related Nodes: N-11213, N-10876
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Retrieve the Libs of TikTok post and the South Carolina arrest record for the named woman.
 
 ---
@@ -1332,7 +1332,7 @@ Anchored Artifacts:
 Mentions: 
 Related Nodes: N-11103, N-11096, N-10026
 Supports: C-6504
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review the TikTok divestiture ownership filings and investor list.
 
 ---
@@ -1758,7 +1758,7 @@ Transcript Snippet: And so he's now dead a after he was saying, "Hey, there was 
 Anchored Artifacts: A-2478.1
 Mentions: N-173, N-166, N-9
 Related Nodes: N-10877
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate Andre's whistleblower filings and public statements.
 
 ---
@@ -1774,7 +1774,7 @@ Transcript Snippet: because earlier on Howard Lutnik said he had never visited t
 Anchored Artifacts: A-2478.1
 Mentions: N-166, N-9
 Related Nodes: N-10877
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Collect Lutnick's dated statements on the island visit and any correction.
 
 ---
@@ -1790,7 +1790,7 @@ Transcript Snippet: Pam Bondi saying that it would lead to global economic catas
 Anchored Artifacts: 
 Mentions: N-85, N-9
 Related Nodes: N-10324
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find Bondi's original remarks and context.
 
 ---
@@ -1822,7 +1822,7 @@ Transcript Snippet: That's why Trump wanted us to just turn around and move on.
 Anchored Artifacts: 
 Mentions: N-5, N-9
 Related Nodes: N-10324
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Collect Trump's dated statements telling supporters to move on from Epstein.
 
 ---
@@ -1887,7 +1887,7 @@ Transcript Snippet: The feds are blaming something on a black autistic kid.
 Anchored Artifacts: 
 Mentions: N-25
 Related Nodes: N-10872
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Review the charging documents and the recorded interrogation.
 
 ---

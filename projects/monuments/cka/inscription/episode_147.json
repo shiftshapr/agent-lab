@@ -19,13 +19,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2327",
       "family_ref": "A-2327",
-      "bundle_name": "Court Audio – Motion to Dismiss Ruling (Judge Graff)",
+      "bundle_name": "Court Audio – Motion to Dismiss Ruling (Judge Graf)",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2327.1",
           "ref": "A-2327.1",
-          "description": "Judge Graff Count 6 Ruling Audio (excerpt)",
+          "description": "Judge Graf Count 6 Ruling Audio (excerpt)",
           "related_claims": [
             "C-3358",
             "C-3359",
@@ -614,7 +614,7 @@
       "ref": "N-10826",
       "name": "Defense Witness Tampering Count 6 Constitutional Question",
       "type": "investigation_target",
-      "description": "Investigation into whether Count 6 (witness tampering for the \"ask for a lawyer and stay silent\" text) can constitutionally proceed given Judge Graff's own concession that the advice, standing alone, is lawful and does not establish criminal intent.",
+      "description": "Investigation into whether Count 6 (witness tampering for the \"ask for a lawyer and stay silent\" text) can constitutionally proceed given Judge Graf's own concession that the advice, standing alone, is lawful and does not establish criminal intent.",
       "related_artifacts": [
         "A-2327",
         "A-2327.1"
@@ -1557,8 +1557,8 @@
       "@type": "Claim",
       "@id": "C-3357",
       "ref": "C-3357",
-      "label": "Host Says Judge Graff Issued Bindover Ruling After Preliminary Hearing",
-      "claim": "The host says Judge Graff ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.",
+      "label": "Host Says Judge Graf Issued Bindover Ruling After Preliminary Hearing",
+      "claim": "The host says Judge Graf ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.",
       "anchored_artifacts": [
         "A-2327",
         "A-2328"
@@ -1576,8 +1576,8 @@
       "@type": "Claim",
       "@id": "C-3358",
       "ref": "C-3358",
-      "label": "Host Says Judge Graff Declined to Dismiss Count 6 (Witness Tampering)",
-      "claim": "The host says Judge Graff declined to dismiss Count 6 (witness tampering for the \"ask for a lawyer and stay silent\" text to Lance Twiggs) over the defense's constitutional-rights argument, and she plays a clip of the ruling.",
+      "label": "Host Says Judge Graf Declined to Dismiss Count 6 (Witness Tampering)",
+      "claim": "The host says Judge Graf declined to dismiss Count 6 (witness tampering for the \"ask for a lawyer and stay silent\" text to Lance Twiggs) over the defense's constitutional-rights argument, and she plays a clip of the ruling.",
       "anchored_artifacts": [
         "A-2327",
         "A-2327.1"
@@ -1615,8 +1615,8 @@
       "@type": "Claim",
       "@id": "C-3360",
       "ref": "C-3360",
-      "label": "Count 5 is witness tampering for \"delete this exchange\" message",
-      "claim": "Count 5 of the information charges witness tampering based specifically on a \"delete this exchange\" text message to Lance Twiggs, distinct from Count 6.",
+      "label": "Host Says Count 5 Is Witness Tampering for the \"Delete This Exchange\" Message",
+      "claim": "The host says Count 5 is also witness tampering but pertains strictly to the message in which Tyler Robinson allegedly told Lance Twiggs to \"delete this exchange,\" a separate charge from Count 6.",
       "anchored_artifacts": [
         "A-2327.1"
       ],
@@ -1636,7 +1636,7 @@
       "@id": "C-3361",
       "ref": "C-3361",
       "label": "Host Says Judge Tied Count 6 Survival to the Existence of Count 5",
-      "claim": "The host says, and a clip she plays of the ruling shows, that the court permitted Count 6 to proceed by reference to Count 5, stating that the surrounding communications, including the alleged \"delete this exchange\" instruction, permit a reasonable inference of obstructive intent.",
+      "claim": "The host says the court permitted Count 6 to proceed on the basis of Count 5, and in a clip she plays of the ruling the court says the surrounding communications, including the alleged \"delete this exchange\" instruction, permit a reasonable inference that the defendant intended Twiggs to withhold information from investigators.",
       "anchored_artifacts": [
         "A-2327.1"
       ],
@@ -1689,7 +1689,7 @@
       "@id": "C-3364",
       "ref": "C-3364",
       "label": "Justin Davis sprinted to and opened the passenger door of a vehicle he did not arrive in",
-      "claim": "In the post-shot sequence, Justin Davis (driver of the Lincoln Navigator) sprinted to and opened the passenger-side door of a vehicle he had not arrived in, alongside Blake Neff, who was also not a passenger of that vehicle.",
+      "claim": "The host says that in footage she shows of the post-shot sequence, Justin Davis (driver of the Lincoln Navigator) sprinted to and opened the passenger-side door of a vehicle he had not arrived in, alongside Blake Neff, who was also not a passenger of that vehicle.",
       "anchored_artifacts": [
         "A-2329.1"
       ],
@@ -1749,7 +1749,7 @@
       "@id": "C-3367",
       "ref": "C-3367",
       "label": "A backpack was ejected from the trunk of Kirk's vehicle",
-      "claim": "As Kirk's vehicle departed for the hospital, a backpack fell from or was tossed from the trunk. Host speculates it is \"Chris's bag\" but states \"not 100% certain.\"",
+      "claim": "The host says that as Kirk's vehicle departed for the hospital, a backpack fell or was tossed from the trunk; she thinks it is \"Chris's bag\" but says she is \"not 100% certain.\"",
       "anchored_artifacts": [
         "A-2329.3"
       ],
@@ -1821,8 +1821,8 @@
       "@type": "Claim",
       "@id": "C-3371",
       "ref": "C-3371",
-      "label": "Three security vehicles were left behind at UVU and not driven to the hospital",
-      "claim": "The three security vehicles (the lead Jeep Wagoneer, the Lincoln Navigator, and the second Yukon Denali) were not driven to the hospital; the host states this is based on \"sources with direct knowledge.\"",
+      "label": "Host Says Sources Told Her Three Security Vehicles Were Not Driven to the Hospital",
+      "claim": "The host says, citing \"sources with direct knowledge,\" that the three security vehicles (the lead Jeep Wagoneer, the Lincoln Navigator, and the second Yukon Denali) were not driven to the hospital.",
       "anchored_artifacts": [
         "A-2330"
       ],
@@ -1898,7 +1898,7 @@
       "@type": "Claim",
       "@id": "C-3375",
       "ref": "C-3375",
-      "label": "Host concurs that Walsh's framing mischaracterizes the defense argument",
+      "label": "Host Rejects Walsh's Framing of the Defense Argument",
       "claim": "The host explicitly rejects Walsh's \"justifying political assassination\" framing and characterizes it as a \"disingenuous narrative.\"",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1916,7 +1916,7 @@
       "@id": "C-3376",
       "ref": "C-3376",
       "label": "Viva Frei echoed the same political-assassination framing",
-      "claim": "Viva Frei sent a tweet echoing the \"lawyer justifying political assassination\" framing. Host states she has blocked him.",
+      "claim": "The host says Viva Frei sent a tweet echoing the \"lawyer justifying political assassination\" framing, and that she has blocked him.",
       "anchored_artifacts": [
         "A-2333"
       ],
@@ -2016,7 +2016,7 @@
       "@id": "C-3381",
       "ref": "C-3381",
       "label": "Host Says State Has Not Identified Specific Kirk Statements Alleged to Be \"Hateful\"",
-      "claim": "The host says the state's filings do not identify which specific statements by Charlie Kirk they contend are \"hateful\" toward the LGBTQ community, and she describes the defense as characterizing this as inferring upon an inference.",
+      "claim": "The host says Tyler Robinson's lawyer is arguing that the state's filings do not identify which specific statements by Charlie Kirk they contend are \"hateful\" toward the LGBTQ community, and that the state is inferring upon an inference.",
       "anchored_artifacts": [
         "A-2336",
         "A-2337"
@@ -2025,7 +2025,7 @@
         "N-10825"
       ],
       "tags": [],
-      "claim_timestamp": "00:45:58",
+      "claim_timestamp": "00:47:11",
       "investigative_direction": "Obtain the state's filing in full; enumerate the specific statements cited; compare against defense's enumeration.",
       "mentions_person_refs": [
         "N-40",
@@ -2122,7 +2122,7 @@
       "@id": "C-3386",
       "ref": "C-3386",
       "label": "\"Mikey said there's so much blood\" claim traces to Hibbs / Turek, not McCoy",
-      "claim": "The \"so much blood\" claim attributed to Mikey McCoy did not originate with McCoy himself; the host says it came from his father, from Jack Hibbs and, she thinks, Frank Turek, i.e. \"the pastor orbit.\" The host states McCoy never described seeing a lot of blood in his press.",
+      "claim": "The host says the \"so much blood\" claim attributed to Mikey McCoy did not originate with McCoy himself; she says it came from his father, from Jack Hibbs and, she thinks, Frank Turek, i.e. \"the pastor orbit,\" and that McCoy never described seeing a lot of blood in his press.",
       "anchored_artifacts": [
         "A-2339"
       ],
@@ -2134,8 +2134,9 @@
       "investigative_direction": "Obtain McCoy's complete media appearances; obtain Hibbs's and Turek's on-record statements with timestamps; obtain Erika Kirk's call-detail records (the call McCoy made to her per Neff testimony).",
       "mentions_person_refs": [
         "N-191",
-        "N-7",
-        "N-209"
+        "N-17",
+        "N-209",
+        "N-7"
       ]
     },
     {
@@ -2143,7 +2144,7 @@
       "@id": "C-3387",
       "ref": "C-3387",
       "label": "Brian Harpole stated there were no threats the night before 9/10",
-      "claim": "Brian Harpole, in a conversation with Shawn Ryan, stated that there were no threats the night before September 10 – a statement the host identifies as in tension with Kirk's prior-night communication of fear.",
+      "claim": "The host says Brian Harpole, sitting down with Shawn Ryan, said there were no threats the night before September 10, which she presents as in tension with Kirk's prior-night communication of fear.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2160,7 +2161,7 @@
       "@id": "C-3388",
       "ref": "C-3388",
       "label": "Mike Mitchell \"confession\" narrative is, per host, a foundational lie",
-      "claim": "The host asserts that the narrative that Tyler Robinson \"confessed it to Mike Mitchell\" is a \"foundational lie\" propagated by Pentagon influencers.",
+      "claim": "The host says Pentagon influencers claimed Tyler Robinson \"confessed it to Mike Mitchell,\" that none of that is true, and calls the confession narrative a \"foundational lie.\"",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2176,15 +2177,16 @@
       "@id": "C-3389",
       "ref": "C-3389",
       "label": "Bill Ackman \"million dollars\" narrative was dropped",
-      "claim": "The host asserts that a narrative that Bill Ackman was \"going to give him a million dollars\" was \"magically dropped\" because \"there was no truth and no substance.\"",
+      "claim": "The host asserts that a narrative that Bill Ackman was \"going to give him a million dollars,\" referring to Tyler Robinson's father, was dropped entirely because \"there was no truth and no substance.\"",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:08:25",
       "investigative_direction": "Locate the original source of the Ackman offer; obtain Ackman's own statement.",
       "mentions_person_refs": [
+        "N-37",
         "N-40",
-        "N-37"
+        "N-778"
       ]
     },
     {
@@ -2760,7 +2762,7 @@
       "@id": "C-14817",
       "ref": "C-14817",
       "label": "Host Says Christopher Was Charlie's Main Security Person",
-      "claim": "The host says the person Charlie Kirk's main security person arrived with that day was Christopher, the driver of Kirk's Denali.",
+      "claim": "The host says Charlie Kirk's main security person, whom Kirk arrived with that day, was Christopher, the driver of Kirk's Denali.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10821"

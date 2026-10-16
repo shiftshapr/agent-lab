@@ -470,7 +470,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-555** Carrie Prejean Bowler
+**N-555** Carrie Prejean Boller
 
 Reused node cited by new claims in this episode.
 
@@ -771,9 +771,9 @@ Library in Simi Valley where the host says Ben Shapiro was due to speak at 6:00 
 
 **C-3117** November 15, 2023 Charlie Kirk / Candace Owens Text Thread Documents Daily Wire Pressure Campaign
 
-Claim Timestamp: 00:10:44
+Claim Timestamp: 00:09:55
 
-Claim: Per a snippet of a November 15, 2023 text thread between Charlie Kirk and Candace Owens that the host shows and reads aloud, the host says there was a coordinated effort from inside the Daily Wire to pressure and smear her during the Christ is King controversy.
+Claim: Introducing a snippet of a November 15, 2023 text thread between Charlie Kirk and Candace Owens, dated when Ben Shapiro began his attacks on her, the host says there was a coordinated effort from inside the Daily Wire after October 7 to privately pressure and smear anyone not repeating the narrative on Israel, beginning the Christ is King scandal.
 
 Anchored Artifacts: A-2180.1
 Mentions: N-1, N-3, N-97
@@ -1015,10 +1015,10 @@ Investigative Direction: Obtain the full Holker interview segment; cross-referen
 
 Claim Timestamp: 00:44:07
 
-Claim: In a CBS / Gayle King audio clip, Twitch's family members state that they received a phone call stating "We need you guys to sign non-disclosure agreements" in order to attend his memorial.
+Claim: In a CBS / Gayle King audio clip, Twitch's family members state that they received a phone call stating "We need you guys to sign non-disclosure agreements" in order to attend his funeral.
 
 Anchored Artifacts: A-2186.1
-Mentions: N-512
+Mentions: N-512, N-925
 
 Related Nodes:
 
@@ -1072,7 +1072,7 @@ Investigative Direction: Independent verification against public records or alum
 ---
 
 
-**C-3664** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+**C-3664** Host Plugs CIA Hats Merch
 
 Claim Timestamp: 01:00:06
 Claim: The host plugs the "CIA hats" merch, calling them essential.
@@ -1301,7 +1301,7 @@ Investigative Direction: Collect Kolvet's public statements on the Kirk and Owen
 
 Claim Timestamp: 00:08:02
 
-Claim: The host presents a Kolvet tweet saying that Candace was not friends with Charlie and that Ben was, and says that Charlie was the single person who gave her the most emotional support when the attacks began at the end of 2023.
+Claim: The host says she watched Kolvet tweet the narrative that Candace was not friends with Charlie and that Ben was, and says that Charlie was the single person who gave her the most emotional support when the attacks began at the end of 2023.
 
 Transcript Snippet: Candace wasn't friends with Charlie and Ben was.
 
@@ -1313,18 +1313,18 @@ Investigative Direction: Retrieve the original tweet and its timestamp from X to
 
 ---
 
-**C-13131** Host Says She Showed Carrie Prejean Bowler the Messages in Spain
+**C-13131** Host Says She Showed Carrie Prejean Boller the Messages in Spain
 
 Claim Timestamp: 00:08:02
 
-Claim: The host says she was sitting in Spain next to Carrie Prejean Bowler, showing her the messages, when they were watching Kolvet tweet the friendship narrative, and that Prejean Bowler's jaw was on the floor.
+Claim: The host says she was sitting in Spain next to Carrie Prejean Boller, showing her the messages, when they were watching Kolvet tweet the friendship narrative, and that Prejean Boller's jaw was on the floor.
 
-Transcript Snippet: I actually was sitting in Spain next to Carrie Prejean Bowler and I was just showing her all of these messages
+Transcript Snippet: I actually was sitting in Spain next to Carrie Prejean Boller and I was just showing her all of these messages
 
 Anchored Artifacts: 
 Mentions: N-3, N-555, N-14
 Tags: relevance:context
-Investigative Direction: Ask Carrie Prejean Bowler to confirm the Spain meeting and what she saw.
+Investigative Direction: Ask Carrie Prejean Boller to confirm the Spain meeting and what she saw.
 
 ---
 
@@ -1589,7 +1589,7 @@ Claim: The host says Andrew Kolvet lied that Ben and Charlie were friends and al
 Transcript Snippet: Allowed him to open at his event. His wife as well allowed that, right? She came out first and then Ben came out.
 
 Anchored Artifacts: 
-Mentions: N-3, N-14, N-2, N-97
+Mentions: N-3, N-14, N-2, N-97, N-1
 Supports: C-10085
 Tags: relevance:core
 Investigative Direction: Obtain the run of show and speaker approvals for the event, and ask whether speeches were pre-submitted.
@@ -1605,7 +1605,7 @@ Claim: The host says that because Ben Shapiro had to pre-submit his speech, TPUS
 Transcript Snippet: And not only that, he had to have pre-submitted his speech.
 
 Anchored Artifacts: 
-Mentions: N-3, N-97, N-22, N-46
+Mentions: N-3, N-97, N-22, N-46, N-1
 Tags: relevance:core
 Investigative Direction: Obtain the pre-submitted speech text and the TPUSA approval correspondence.
 
@@ -1831,7 +1831,7 @@ Claim: The host says TPUSA lies without bottom, and that if they will lie about 
 Transcript Snippet: if they will lie about something like that for a half a million dollar check
 
 Anchored Artifacts: 
-Mentions: N-3, N-97
+Mentions: N-3, N-97, N-1
 Tags: relevance:core
 Investigative Direction: Ask what the half-million-dollar check was, who paid it and when; the host does not specify.
 
@@ -2155,7 +2155,7 @@ Investigative Direction: Review the full CBS segment.
 
 Claim Timestamp: 00:46:09
 
-Claim: The host says Allison Holker released a book in February 2024 saying Twitch was secretly struggling with addiction and past sexual abuse, that his family said they were blindsided, and that she co-authored a children's book with him just before he died.
+Claim: The host says Allison Holker released a book in February 2024 saying Twitch was secretly struggling with addiction and past sexual abuse, that his family said they were blindsided, and that she released a children's book she said she co-authored with him just before he died.
 
 Transcript Snippet: She did release a book uh February of 2024, a short time after.
 

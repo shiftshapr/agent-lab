@@ -42,7 +42,7 @@
 
 ## II. Executive Summary
 
-This episode presents new evidentiary material directed primarily at the relationship between Candace Owens and the Daily Wire, and secondarily at personnel within Turning Point USA / Turning Point Action. The principal artifacts include a first-person email from a woman named Maggie Wagner describing a Daily Wire audition targeting Candace Owens and Tucker Carlson following Ben Shapiro's Amfest speech; an AI video sample produced as the show's audition template; a text message exchange between Maggie and the Daily Wire producer in which she declines the role; an audio clip of Steve Bannon at Amfest describing Ben Shapiro's pattern of hostile takeovers of conservative organizations; Ben Shapiro's own March 13, 2016 resignation statement from Breitbart News; and a news article reporting the sentencing of Austin Smith, a former Turning Point Action leader, for petition signature fraud.
+This episode presents new evidentiary material directed primarily at the relationship between Candace Owens and the Daily Wire, and secondarily at personnel within Turning Point USA / Turning Point Action. The principal artifacts include a first-person email from a woman named Maggie Wegner describing a Daily Wire audition targeting Candace Owens and Tucker Carlson following Ben Shapiro's Amfest speech; an AI video sample produced as the show's audition template; a text message exchange between Maggie and the Daily Wire producer in which she declines the role; an audio clip of Steve Bannon at Amfest describing Ben Shapiro's pattern of hostile takeovers of conservative organizations; Ben Shapiro's own March 13, 2016 resignation statement from Breitbart News; and a news article reporting the sentencing of Austin Smith, a former Turning Point Action leader, for petition signature fraud.
 
 The episode also reads text messages Candace says she received from Charlie Kirk describing an older Jewish man from Chicago who allegedly confirmed Charlie's premonitions of dying young and saving humanity. Two YouTube comments are read aloud (one French-channel comment on cattle depopulation; one English-channel comment on child sex trafficking).
 
@@ -52,9 +52,9 @@ Structurally, the episode advances three investigative threads: (1) Ben Shapiro'
 
 ## III. Artifact Register
 
-**A-1587** Maggie Wagner Email Bundle
+**A-1587** Maggie Wegner Email Bundle
 
-**A-1587.1** Email from Maggie Wagner to Candace Owens describing Daily Wire audition approach
+**A-1587.1** Email from Maggie Wegner to Candace Owens describing Daily Wire audition approach
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -66,9 +66,9 @@ Confidence Level: High
 
 ---
 
-**A-1588** Maggie Wagner Text Message Bundle
+**A-1588** Maggie Wegner Text Message Bundle
 
-**A-1588.1** Text message from Maggie Wagner to Daily Wire producer declining the audition role
+**A-1588.1** Text message from Maggie Wegner to Daily Wire producer declining the audition role
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -204,11 +204,11 @@ Confidence Level: Low
 
 ---
 
-**A-2844** Maggie Wagner Instagram Page Bundle
+**A-2844** Maggie Wegner Instagram Page Bundle
 
-**A-2844.1** Maggie Wagner's Instagram page shown on screen with the handle Mags Wgner
+**A-2844.1** Maggie Wegner's Instagram page shown on screen with the handle maggswegner
 
-Quoted text: "this is her Instagram page. It's Mags Wgner."
+Quoted text: "this is her Instagram page. It's maggswegner."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:54:47
@@ -235,7 +235,7 @@ Confidence Level: Low
 ## IV. Node Register
 
 
-**N-389** Maggie Wagner
+**N-389** Maggie Wegner
 
 Person who received a Daily Wire audition approach to host a show mocking Candace Owens and Tucker Carlson; declined the role. Provided email, text message, and AI video sample as artifacts.
 
@@ -759,11 +759,11 @@ The host's claim that Hollywood was founded by gangs and may still be run by one
 
 ## V. Claim Register
 
-**C-2016** Maggie Wagner Auditioned for Daily Wire Solo Show Two Days After Ben Shapiro's Amfest Speech
+**C-2016** Maggie Wegner Auditioned for Daily Wire Solo Show Two Days After Ben Shapiro's Amfest Speech
 
 Claim Timestamp: 00:06:31
 
-Claim: Per an email from Maggie Wagner that the host reads, a Daily Wire producer contacted her about 2 days after Ben Shapiro's Amfest speech to audition her for a solo show presented as a comedy show making fun of the right and the left, with Candace Owens and Tucker Carlson brought up immediately.
+Claim: Per an email from Maggie Wegner that the host reads, a Daily Wire producer contacted her about 2 days after Ben Shapiro's Amfest speech to audition her for a solo show presented as a comedy show making fun of the right and the left, with Candace Owens and Tucker Carlson brought up immediately.
 
 Anchored Artifacts: A-1587.1
 Mentions: N-389, N-22, N-3, N-97
@@ -778,7 +778,7 @@ Investigative Direction: Verify the timeline of the Amfest speech and confirm th
 
 Claim Timestamp: 00:07:36
 
-Claim: Per an email from Maggie Wagner that the host reads, the audition script and AI video were entirely about making fun of Candace Owens, and the producer said, "So when Candace or Tucker says something crazy, we would want you to make fun of it."
+Claim: Per an email from Maggie Wegner that the host reads, the audition script and AI video were entirely about making fun of Candace Owens, and the producer said, "So when Candace or Tucker says something crazy, we would want you to make fun of it."
 
 Anchored Artifacts: A-1587.1, A-1589.1
 Mentions: N-389, N-3, N-22
@@ -789,11 +789,11 @@ Investigative Direction: Obtain and verify the full audition script and AI video
 
 ---
 
-**C-2018** Maggie Wagner Declined the Audition Role
+**C-2018** Maggie Wegner Declined the Audition Role
 
 Claim Timestamp: 00:11:04
 
-Claim: Per a text message the host shows, Maggie Wagner declined the Daily Wire audition role, texting the producer that making fun of Candace did not feel true to her beliefs.
+Claim: Per a text message the host shows, Maggie Wegner declined the Daily Wire audition role, texting the producer that making fun of Candace did not feel true to her beliefs.
 
 Anchored Artifacts: A-1588.1
 Mentions: N-389
@@ -883,7 +883,7 @@ Investigative Direction: Obtain the original text message thread for verificatio
 
 Claim Timestamp: 00:06:31
 
-Claim: Per an email the host reads, the Daily Wire producer who contacted Maggie Wagner was in "panic mode" about casting the show, having only come up with the show concept the day before contacting her.
+Claim: Per an email the host reads, the Daily Wire producer who contacted Maggie Wegner was in "panic mode" about casting the show, having only come up with the show concept the day before contacting her.
 
 Anchored Artifacts: A-1587.1
 Mentions: N-389
@@ -1061,7 +1061,7 @@ Anchored Artifacts: A-1587.1
 Mentions: N-97
 Related Nodes: N-10385, N-10386
 Tags: relevance:context
-Investigative Direction: Obtain further casting emails or payment offers like Maggie Wagner's to see whether a pattern exists.
+Investigative Direction: Obtain further casting emails or payment offers like Maggie Wegner's to see whether a pattern exists.
 
 ---
 
@@ -1117,7 +1117,7 @@ Investigative Direction: Obtain the Amfest speaker schedule and any sponsorship 
 
 Claim Timestamp: 00:08:14
 
-Claim: The host reads Maggie Wagner's email saying she tried to rewrite the audition script in a way true to her, could not, and was advised by a friend to contact a second person, who told her not to send the audition tape.
+Claim: The host reads Maggie Wegner's email saying she tried to rewrite the audition script in a way true to her, could not, and was advised by a friend to contact a second person, who told her not to send the audition tape.
 
 Transcript Snippet: I even tried to rewrite it in a way that was true to me, but I couldn't do it. It just felt like high school bullies.
 
@@ -1133,7 +1133,7 @@ Investigative Direction: Verify against the original, unredacted email and the p
 
 Claim Timestamp: 00:08:14
 
-Claim: The host reads Maggie Wagner's email saying she was told not to share the AI video the day after the host announced on air that she knew about the planned show, and that she told the producer she had not leaked it.
+Claim: The host reads Maggie Wegner's email saying she was told not to share the AI video the day after the host announced on air that she knew about the planned show, and that she told the producer she had not leaked it.
 
 Transcript Snippet: I was told not to share the AI video the day after you announced on your show that you knew about the show that they were planning to launch.
 
@@ -1149,7 +1149,7 @@ Investigative Direction: Establish who told Maggie not to share the video and wh
 
 Claim Timestamp: 00:08:14
 
-Claim: The host reads Maggie Wagner's email saying she attached the AI video, the text she sent the producer, and proof of the call, plus photos from the studio showing the show filming.
+Claim: The host reads Maggie Wegner's email saying she attached the AI video, the text she sent the producer, and proof of the call, plus photos from the studio showing the show filming.
 
 Transcript Snippet: Attached below is the AI video that they sent me and the text that I sent the producer and also proof of the call.
 
@@ -1213,7 +1213,7 @@ Investigative Direction: Compare the AI sample's lines with the bee-code texts t
 
 Claim Timestamp: 00:11:01
 
-Claim: The host says Maggie Wagner did not get the job because she went back to the producer and said it did not feel true to what she believed to make fun of Candace.
+Claim: The host says Maggie Wegner did not get the job because she went back to the producer and said it did not feel true to what she believed to make fun of Candace.
 
 Transcript Snippet: she didn't get the job because she went back to them and she wrote and said, 'I feel uncomfortable doing this.
 
@@ -1222,7 +1222,7 @@ Mentions: N-389, N-3
 Related Nodes: N-10385
 Supports: C-2018
 Tags: relevance:context
-Investigative Direction: Confirm with Maggie Wagner that she was not offered the role and obtain the producer's reply.
+Investigative Direction: Confirm with Maggie Wegner that she was not offered the role and obtain the producer's reply.
 
 ---
 
@@ -2118,13 +2118,13 @@ Investigative Direction: Identify what Kirk learned in the days before September
 
 ---
 
-**C-6976** Host Shows Maggie Wagner's Instagram Handle
+**C-6976** Host Shows Maggie Wegner's Instagram Handle
 
 Claim Timestamp: 00:54:47
 
-Claim: The host shows Maggie Wagner's Instagram page, gives the handle as Mags Wgner and encourages viewers to follow it.
+Claim: The host shows Maggie Wegner's Instagram page, gives the handle as maggswegner and encourages viewers to follow it.
 
-Transcript Snippet: this is her Instagram page. It's Mags Wgner.
+Transcript Snippet: this is her Instagram page. It's maggswegner.
 
 Anchored Artifacts: A-2844
 Mentions: N-389, N-3
@@ -2393,13 +2393,13 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty – "Maggie Wgner" / "Maggie Wagner":** Episode displays spelling "Wgner" first via text on screen, then Candace spells it aloud as "W-A-G-G-S ... W G NE R." Spelling anomaly flagged. The name as displayed in the text message screenshot (A-1588.1) reads "Mags Wgner."
+- **Name uncertainty – "Maggie Wegner" / "Maggie Wegner":** Episode displays spelling "Wgner" first via text on screen, then Candace spells it aloud as "W-A-G-G-S ... W G NE R." Spelling anomaly flagged. The name as displayed in the text message screenshot (A-1588.1) reads "maggswegner."
 - **Artifact verbally referenced but not shown – Michael Cormier arsenic poisoning claim:** Host asserts forensic technician Michael Cormier died from "military-grade arsenic poisoning" following involvement in Andrew Breitbart's autopsy. No artifact displayed; only host recounting. Requires human verification.
 - **Artifact verbally referenced but not shown – Jamie Weinstein / Michelle Fields husband relationship and alleged co-conspiracy:** Host asserts Weinstein was Fields' husband and co-conspirator with Shapiro in manufacturing the 2016 scandal. No artifact displayed; source described only as "executives over at Breitbart News." Requires human verification.
 - **Artifact verbally referenced but not shown – Charlie Kirk's giftedness school ("X-Men school"):** Host references a gifted school in Chicago through which Charlie met the "oracle" figure. No artifact displayed; no school identified by name. Requires human verification.
 - **Name uncertainty – "Charlie Kirk's oracle":** Identity of the older Jewish man from Chicago is not disclosed. Name preserved exactly as described: "oracle"/"oracle" figure.
 - **Timestamp uncertainty – Amfest speech date:** The Amfest speech referenced as occurring "2 days" before the producer's call is not dated precisely in the episode; year implied by context to be late 2025.
-- **Transcript ambiguity – producer identity:** The Daily Wire producer who recruited Maggie Wagner is described as "nothing but kind" and Candace states she is protecting the producer's name. Producer identity remains unknown.
+- **Transcript ambiguity – producer identity:** The Daily Wire producer who recruited Maggie Wegner is described as "nothing but kind" and Candace states she is protecting the producer's name. Producer identity remains unknown.
 
 ---
 

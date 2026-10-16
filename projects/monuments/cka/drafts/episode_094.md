@@ -249,7 +249,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 *Related: C-2787*
 
-**A-2005.2** Comment by user "Joe Mattei" referencing Erika's video comment "Forgive Drewski like you forgave the shooter"
+**A-2005.2** Comment by user "Joe Mattei" referencing Erika's video comment "Forgive Druski like you forgave the shooter"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -1074,7 +1074,7 @@ Investigative Direction: Verify identity of grandfather from court records and c
 
 Claim Timestamp: 00:04:45
 
-Claim: The grandfather states his father (Tyler Robinson's great-grandfather) was a cop who taught him ballistics.
+Claim: In a recording the host plays, the grandfather says his dad was a cop who showed him all of this; the host says this was Tyler Robinson's great-grandfather, who taught him ballistics.
 
 Anchored Artifacts: A-1993.1
 Mentions: N-40
@@ -1104,7 +1104,7 @@ Investigative Direction: Obtain forensic pathology documentation regarding the a
 
 Claim Timestamp: 00:10:02
 
-Claim: Defense attorney Richard Novak states the defense has not received the data files (electronic quantification/digitization of physical evidence) from ATF/FBI forensic examiners needed to analyze statistical results.
+Claim: Defense attorney Richard Novak states the defense has not received the data files (electronic quantification/digitization of physical evidence) needed to analyze the forensic examiners' statistical results, saying the ATF provided material only in the last 3 weeks and the FBI still has not.
 
 Anchored Artifacts: A-1994.1
 Mentions: N-426
@@ -1416,7 +1416,7 @@ Investigative Direction: Cross-reference with prior episodes where similar claim
 
 **C-2788** YouTube Comment Raises Tyler Robinson's Roommate as Potential Suspect
 
-Claim Timestamp: 01:01:45
+Claim Timestamp: 01:01:14
 
 Claim: A YouTube comment from Queen Saxi that the host reads asks whether Tyler Robinson's roommate helped set him up, citing similar build and dark hair and his absence.
 
@@ -1469,7 +1469,7 @@ Claim: The host says the rifle was found after federal agents led rookie police 
 Transcript Snippet: The one that the feds led the police officers to, the rookie police officers to, after the dogs had already searched that particular area.
 
 Anchored Artifacts: 
-Mentions: N-40, N-1
+Mentions: N-3
 Related Nodes: N-10360
 Tags: relevance:core
 Investigative Direction: Obtain the incident log, K-9 deployment records and bodycam for the rifle discovery to establish who located it, when, and whether the area had been searched by dogs first.
@@ -1981,7 +1981,7 @@ Investigative Direction: Retrieve the January 16 filing and find precedent for v
 
 Claim Timestamp: 00:18:39
 
-Claim: The host says the prosecution side wants to demand cameras inside the courtroom and deliver a show hearing while the defense cannot counter what is presented.
+Claim: The host says she believes the prosecution side wants to demand cameras inside the courtroom and deliver a show hearing while the defense cannot counter what is presented.
 
 Transcript Snippet: They want to demand cameras inside of the courtroom, and then deliver the show trial, the show hearing of the century, right?
 
@@ -2313,11 +2313,11 @@ Investigative Direction: Compare the post style with verified Trump speech and w
 
 ---
 
-**C-13400** Host Says the Follow-up Post Mentioned Megyn Kelly Again Without Naming Her
+**C-13400** Host Says the Follow-up Post Mentioned Megyn Kelly Again Without Calling Her a Name
 
 Claim Timestamp: 00:35:29
 
-Claim: The host says Trump's follow-up post mentioned Megyn Kelly again, but she was not named that time.
+Claim: The host says Trump's follow-up post mentioned Megyn Kelly again but did not call her a name that time, joking that Kelly got called two names to the host's three.
 
 Transcript Snippet: He mentioned Megyn Kelly again. She didn't get a name that time.
 
@@ -2711,7 +2711,7 @@ Transcript Snippet: Accusing us of being separated, like she did this weekend.
 
 Anchored Artifacts: 
 Mentions: N-3, N-60, N-30
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Archive Loomer's weekend posts making the separation claim.
 
 ---
@@ -2790,7 +2790,7 @@ Claim: The host says there was no drinking involved, no DUI involved and no poli
 Transcript Snippet: There was no drinking involved, there was no DUI involved, there were no police called.
 
 Anchored Artifacts: 
-Mentions: N-30, N-60
+Mentions: N-3, N-30
 Related Nodes: N-10631
 Tags: relevance:context
 Investigative Direction: Check for any police report, citation or charge in Davidson County records for the date in question.
@@ -2886,7 +2886,7 @@ Claim: The host says she heard a rumor that footage from the days and weeks lead
 Transcript Snippet: And that footage apparently doesn't exist either because they had speculated that someone would have had to do some recon, maybe be on this roof.
 
 Anchored Artifacts: A-2005.5
-Mentions: N-40
+Mentions: N-3
 Related Nodes: N-10635, N-10271
 Tags: relevance:core
 Investigative Direction: File records requests for UVU and city camera retention policies and any investigative request for pre-September 10 footage.
@@ -2902,7 +2902,7 @@ Claim: The host says she is trying to understand whether the missing footage was
 Transcript Snippet: I'm trying to understand if that means that it was taken by the feds as they took the inside of Timpanogos Hospital's footage for some reason.
 
 Anchored Artifacts: 
-Mentions: N-1
+Mentions: N-3
 Related Nodes: N-10239, N-11218
 Supports: C-1666
 Tags: relevance:core
@@ -3008,16 +3008,16 @@ Investigative Direction: Find the interview records of Lance Twiggs and the date
 
 ---
 
-**C-13443** Host Asks Why the State Never Sends the Timestamps for the Text Messages
+**C-13443** Host Asks Why They Never Send the Timestamps for the Text Messages
 
 Claim Timestamp: 01:01:45
 
-Claim: The host, asking why the state never wants to send the timestamps, implies that the text messages have been released without timestamps and says getting the phone data is important to see what time the messages went out.
+Claim: The host says it is important to get the data from the phones to make sure Lance Twiggs wasn't just texting from his phone and to see what time the messages went out, and asks why they never want to send the timestamps.
 
 Transcript Snippet: Why do they never want to send the timestamps?
 
 Anchored Artifacts: 
-Mentions: N-54, N-40
+Mentions: N-54
 Related Nodes: N-10077, N-10713
 Supports: C-6696
 Tags: relevance:core

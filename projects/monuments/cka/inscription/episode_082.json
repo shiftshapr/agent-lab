@@ -125,7 +125,7 @@
           "@type": "Artifact",
           "@id": "A-1887.3",
           "ref": "A-1887.3",
-          "description": "2020 charter listing for the alleged \"Wi-Refi\" plane (Santa Barbara → Scottsdale leg) – listing amenities including belted lavatory, cabin power outlets, 5'7\" cabin height, refreshment center, and \"satellite phone\"; Wi-Fi not marketed",
+          "description": "2020 charter listing for the alleged \"Yrefy\" plane (Santa Barbara → Scottsdale leg) – listing amenities including belted lavatory, cabin power outlets, 5'7\" cabin height, refreshment center, and \"satellite phone\"; Wi-Fi not marketed",
           "related_claims": [
             "C-2555"
           ],
@@ -1593,8 +1593,8 @@
       "@type": "Claim",
       "@id": "C-2544",
       "ref": "C-2544",
-      "label": "Erika Kirk Was Inside Hopkinson Aircrafts Office When Notified of Charlie Kirk's Death",
-      "claim": "Per an unverified source tip received by the host, Erika Kirk was at Hopkinson Aircrafts in Scottsdale on September 10, 2025 when she received the call informing her that Charlie Kirk had died.",
+      "label": "Host Says Erika Kirk Was Allegedly Inside Hopkinson Aircrafts Office When Notified of Charlie Kirk's Death",
+      "claim": "Per information the host says she happened upon (she says \"allegedly\"), Erika Kirk was at the office of Hopkinson Aircrafts in Scottsdale on September 10, 2025 when she received the news that Charlie Kirk was dead.",
       "anchored_artifacts": [
         "A-1886.1",
         "A-1886.2",
@@ -1634,7 +1634,7 @@
       "@id": "C-2546",
       "ref": "C-2546",
       "label": "Barbara plane (N8724A) charter operator states all their planes have Wi-Fi",
-      "claim": "The charter company handling the Hawker Beechcraft N8724A told the host by phone on March 24, 2026 that \"all of our planes have Wi-Fi.\"",
+      "claim": "The host says that when she called on the morning of March 24, 2026, the charter company handling the Hawker Beechcraft N8724A told her, \"All of our planes have Wi-Fi.\"",
       "anchored_artifacts": [
         "A-1887.2"
       ],
@@ -1669,7 +1669,7 @@
       "@id": "C-2548",
       "ref": "C-2548",
       "label": "Andrew Kolvet texted \"Sorry, on the plane. This just loaded\" at 3:26 PM MST",
-      "claim": "Andrew Kolvet sent a text message at 3:26 PM MST on September 10, 2025 stating \"Sorry, on the plane. This just loaded,\" referencing a 1:30 PM MST message he had not previously answered.",
+      "claim": "Per the text chain the host describes, Andrew Kolvet sent a message at 3:26 PM MST (as the host adjusts it) on September 10, 2025 stating \"Sorry, on the plane. This just loaded,\" referencing a 1:30 PM MST message he had not previously answered.",
       "anchored_artifacts": [
         "A-1889.1"
       ],
@@ -1687,7 +1687,7 @@
       "@type": "Claim",
       "@id": "C-2549",
       "ref": "C-2549",
-      "label": "Andrew Kolvet was unreachable from 1:47 PM MST until at least 4:18 PM MST because he was on a plane without Wi-Fi",
+      "label": "Host Says Text Thread Shows Kolvet Was on a Plane Without Wi-Fi and Streiff Told Aubrey at 4:18 PM to Wait Until He Was on the Ground",
       "claim": "The host says a text thread with Justin and Aubrey shows Andrew Kolvet could not respond to messages because he was on a plane without Wi-Fi, and that Justin told Aubrey at 4:18 PM MST that she must wait until Andrew is \"on the ground.\"",
       "anchored_artifacts": [
         "A-1889.1",
@@ -1709,7 +1709,7 @@
       "@id": "C-2550",
       "ref": "C-2550",
       "label": "N40JD plane departed Scottsdale approximately one hour after Charlie Kirk was shot and landed at Provo at 2:29 PM MST",
-      "claim": "Per the host, the N40JD plane, registered to Jason Knupp (identified by host as chief commander of naval surface force in Atlanta), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST.",
+      "claim": "Per the host, the N40JD plane, registered to Jason Knupp (who the host says appears to be the chief commander of naval surface force in Atlanta), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST.",
       "anchored_artifacts": [
         "A-1894.1"
       ],
@@ -1749,7 +1749,7 @@
       "@id": "C-2552",
       "ref": "C-2552",
       "label": "Nick Shirley claims to have infiltrated Comando Vermelho in 48 hours",
-      "claim": "Nick Shirley stated on the September 10, 2025 Charlie Kirk Live Show that within 48 hours he gained access to Comando Vermelho, one of Rio de Janeiro's largest gangs, and befriended soldiers who could not leave the favela.",
+      "claim": "In a clip the host plays, Nick Shirley says that over the course of two days he got access to Comando Vermelho, one of Rio de Janeiro's largest gangs, and befriended soldiers so dangerous they cannot leave the favela.",
       "anchored_artifacts": [
         "A-1891.2"
       ],
@@ -1757,7 +1757,7 @@
         "N-10559"
       ],
       "tags": [],
-      "claim_timestamp": "00:36:47",
+      "claim_timestamp": "00:36:15",
       "investigative_direction": "Verify the Comando Vermelho footage, dates, and circumstances of Shirley's claimed access; check corroborating reporting.",
       "mentions_person_refs": [
         "N-214",
@@ -1805,8 +1805,8 @@
       "@type": "Claim",
       "@id": "C-2555",
       "ref": "C-2555",
-      "label": "The \"Wi-Refi\" plane's 2020 charter listing does not market Wi-Fi as an amenity",
-      "claim": "A 2020 charter listing for the plane identified as the alleged Santa Barbara → Scottsdale leg (\"Wi-Refi\") lists amenities including belted lavatory, cabin power outlets, refreshment center, and satellite phone, but does not list Wi-Fi.",
+      "label": "The \"Yrefy\" plane's 2020 charter listing does not market Wi-Fi as an amenity",
+      "claim": "A 2020 charter listing for the plane identified as the alleged Santa Barbara → Scottsdale leg (\"Yrefy\") lists amenities including belted lavatory, cabin power outlets, refreshment center, and satellite phone, but does not list Wi-Fi.",
       "anchored_artifacts": [
         "A-1887.3"
       ],
@@ -1842,8 +1842,8 @@
       "@type": "Claim",
       "@id": "C-2557",
       "ref": "C-2557",
-      "label": "\"Wi-Refi\" / \"RY Reef air\" and the alleged Santa Barbara → Scottsdale plane share identity",
-      "claim": "The host identifies \"RY Reef air\" and \"Wi-Refi\" as the same plane – the aircraft Erika Kirk described to the host as being used by Andrew Kolvet for the Santa Barbara → Scottsdale leg.",
+      "label": "\"Yrefy\" / \"RY Reef air\" and the alleged Santa Barbara → Scottsdale plane share identity",
+      "claim": "The host refers to \"RY Reef air\" and \"Yrefy\" as the same plane: she says Erika Kirk told her about it (\"wife Reef air CEO\"), and she believes Andrew Kolvet took it from Santa Barbara to Scottsdale.",
       "anchored_artifacts": [
         "A-1887.3"
       ],
@@ -1852,7 +1852,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:38:35",
-      "investigative_direction": "Verify whether \"Wi-Refi\" is a transcript rendering of a specific aircraft name (e.g., \"WiRefi Air\") or a phonetic rendering by Erika Kirk.",
+      "investigative_direction": "Verify whether \"Yrefy\" is a transcript rendering of a specific aircraft name (e.g., \"WiRefi Air\") or a phonetic rendering by Erika Kirk.",
       "mentions_person_refs": [
         "N-14",
         "N-2"
@@ -1878,7 +1878,7 @@
       "@id": "C-2559",
       "ref": "C-2559",
       "label": "Host Says Marina Told Aubrey Andrew Was Unavailable and to Write the Statement",
-      "claim": "The host says that, per a text thread, Marina told Aubrey that Andrew Kolvet was not available and that Aubrey had to write the statement about Charlie's death, and that Andrew was unavailable when it went out.",
+      "claim": "The host says Marina told Aubrey that Andrew Kolvet was not available and that Aubrey had to write the statement about Charlie's death, and that Andrew was unavailable when it went out.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10554"
@@ -2440,7 +2440,7 @@
       "@id": "C-8529",
       "ref": "C-8529",
       "label": "Kolvet says Charlie's texts came about 33 minutes before he was killed",
-      "claim": "The host says Kolvet said Charlie's texts about monogamy came roughly 33 minutes before Charlie was killed, and she says she will fact-check whether monogamy was discussed on that episode.",
+      "claim": "In the clip, Andrew Kolvet says Charlie's texts about monogamy came, he thinks, about 33 minutes before Charlie was killed; the host then says she will fact-check whether monogamy was discussed on that episode.",
       "anchored_artifacts": [
         "A-1890.1"
       ],
@@ -2824,7 +2824,7 @@
       "@type": "Claim",
       "@id": "C-8545",
       "ref": "C-8545",
-      "label": "Neff says more evidence will be presented at the May evidentiary hearing",
+      "label": "Kolvet Says More Evidence Will Be Presented at the May Evidentiary Hearing",
       "claim": "In the clip, Andrew Kolvet says even more evidence will be presented in May at the evidentiary hearing, that it is a mountain, and that he is told prosecutors have Robinson dead to rights.",
       "anchored_artifacts": [
         "A-1893.1"
@@ -2847,7 +2847,7 @@
       "@type": "Claim",
       "@id": "C-8546",
       "ref": "C-8546",
-      "label": "Neff says officials are telling journalists they would testify for the defense",
+      "label": "Kolvet Says Officials Are Telling Journalists They Would Testify for the Defense",
       "claim": "In the clip, Andrew Kolvet says government officials are now saying on the record to journalists that they are willing to testify on behalf of the defense.",
       "anchored_artifacts": [
         "A-1893.1"
@@ -3110,7 +3110,7 @@
       "@id": "C-8557",
       "ref": "C-8557",
       "label": "Host says TPUSA was going to let Ben Shapiro take over",
-      "claim": "The host says Andrew was upset about the interview and that TPUSA was going to let Ben take over Turning Point, with Erika letting him open.",
+      "claim": "The host says Andrew Kolvet's account shows Charlie Kirk was very upset about the interview, and that they were just going to let Ben take over Turning Point \"or something,\" with Erika letting him open.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10386"
@@ -3124,6 +3124,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
+        "N-1",
         "N-97",
         "N-2"
       ]
@@ -3154,7 +3155,7 @@
       "@id": "C-8559",
       "ref": "C-8559",
       "label": "Viewer comment says a donor called Erika right after the shooting and chose her to replace Charlie",
-      "claim": "The host reads a comment from Anna that days after Charlie was killed one of the TPUSA guys, which she names as an unclear name or Andrew Kolvet, said a large donor called Erika right after the shooting, asked if she knew everything about TPUSA, and chose her to replace Charlie.",
+      "claim": "The host reads a comment from Anna that days after Charlie was killed one of the TPUSA guys, Blake Neff or Andrew Kolvet, said a large donor called Erika right after the shooting, asked if she knew everything about TPUSA, and chose her to replace Charlie.",
       "anchored_artifacts": [
         "A-2944.3"
       ],
@@ -3168,6 +3169,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
+        "N-160",
         "N-14",
         "N-1"
       ]

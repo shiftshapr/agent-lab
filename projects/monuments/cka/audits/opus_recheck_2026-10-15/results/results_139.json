@@ -1,0 +1,752 @@
+[
+ {
+  "claim": "C-11460",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11461",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11462",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11463",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11464",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Clip begins ~31:55 ('Take a listen. The one thing...'); 'super depressed' ~32:07; timestamp within 75s.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11465",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11466",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11467",
+  "episode": 93,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Marx's text is 'you don't know all of who I am and that's fine.' Then the host interjects 'I'd like to know all of who you are. I think the state of Colorado might want to know all of who you are. He continues...' The Colorado line is the host's, not Marx's.",
+  "fix": {
+   "claim": "In the message the host reads, Victor Marx tells Corby he does not know all of who Marx is; the host then comments that she would like to know all of who Marx is and that the state of Colorado might want to know all of who he is.",
+   "label": "Host Says the State of Colorado Might Want to Know Who Marx Is"
+  }
+ },
+ {
+  "claim": "C-11468",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11469",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'How he knew' spoken ~39:05, 63s after the timestamp; within limit.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11470",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11471",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11472",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11473",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11474",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript: 'And then he's best friends at this time with Netanyahu? Mitt Romney, they're at Boston Consulting Group' - the 'he' is named as Mitt Romney (Romney and Netanyahu at BCG), not Robert Maxwell.",
+  "fix": {
+   "claim": "The host says Mitt Romney was best friends at that time with Netanyahu, that Romney and Netanyahu were at Boston Consulting Group, and that Romney was struggling to raise money for Bain Capital.",
+   "label": "Host Says Romney Was Then Best Friends With Netanyahu at BCG",
+   "mentions": [
+    "N-36",
+    "N-28"
+   ]
+  }
+ },
+ {
+  "claim": "C-11475",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'They' in transcript; 'prosecutors' is a reasonable reading.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11476",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11477",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names only 'the gun' (Robinson's); Lance Twiggs is not named or referred to in the claim, so N-54 should not be in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-11478",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names no person; Tyler Robinson (N-40) is not named or clearly referred to (only 'the defense').",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-11479",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11480",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript says 'They want to bring back old FBI tactics'; 'the government' is a reasonable reading of 'they'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11481",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11482",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11483",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11484",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript says 'They ignored the security concerns'; TPUSA is the evident referent.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11485",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11486",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Spoken ~49:04, 44s after the timestamp.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11487",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Hedge dropped: 'He was like, I think she canceled the appearance because of Drewski.' Druski spelling confirmed by node.",
+  "fix": {
+   "claim": "The host says Baron Coleman said on his show that he thinks Erika canceled the appearance because of Druski, since everyone was saying this is what the world thinks of her."
+  }
+ },
+ {
+  "claim": "C-11488",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11489",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11490",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11491",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2764",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2765",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "In the recording the grandfather says only '...dad was a cop. Yeah. He showed me all of this.' 'Taught him ballistics' is the host's paraphrase: 'He also says that his father... was a cop... Who taught him ballistics.'",
+  "fix": {
+   "claim": "In a recording the host plays, the grandfather says his dad was a cop who showed him all of this; the host says this was Tyler Robinson's great-grandfather, who taught him ballistics."
+  }
+ },
+ {
+  "claim": "C-2766",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2767",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Novak: 'why the ATF... why they provided it in the last 3 weeks, and why the FBI still hasn't' - the ATF provided material recently; only the FBI is said to still be outstanding.",
+  "fix": {
+   "claim": "Defense attorney Richard Novak states the defense has not received the data files (electronic quantification/digitization of physical evidence) needed to analyze the forensic examiners' statistical results, saying the ATF provided material only in the last 3 weeks and the FBI still has not."
+  }
+ },
+ {
+  "claim": "C-2768",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2769",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Nester clip ~12:57-13:14, about 55s after the timestamp; within limit.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2770",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2771",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2772",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2773",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2774",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'He had a second tweet' ~36:16, 13s before the timestamp.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2775",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2776",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2777",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2778",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2779",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Alan Jacoby, Patriot Cigar Company CEO, confirmed: primetimer.com/news/laura-loomer-threatens-to-sue-alan-jacoby...",
+  "fix": {}
+ },
+ {
+  "claim": "C-2780",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2781",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2782",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2783",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Tweet read ~47:12-47:35; timestamp 47:42 is ~10s after 'psychological warfare'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2784",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2785",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2786",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2787",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2788",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Queen Saxi writes' is spoken ~01:01:19 inside the 01:00:40 block; the 01:01:45 timestamp is ~26s after the comment starts.",
+  "fix": {
+   "timestamp": "01:01:14"
+  }
+ },
+ {
+  "claim": "C-2789",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13346",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13347",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names neither Tyler Robinson nor Charlie Kirk ('the rifle', 'rookie police officers', 'federal agents'), so N-40 and N-1 should not be in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ }
+]

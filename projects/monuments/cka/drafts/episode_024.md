@@ -800,7 +800,7 @@ Republican Jewish Coalition; event where the signs appeared.
 
 ---
 
-**N-11092** Erika CEO Appointment Timing Explanation (DeGroot versus TPUSA PR Source)
+**N-11092** Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)
 
 Erika CEO Appointment Timing Explanation; topic reused.
 

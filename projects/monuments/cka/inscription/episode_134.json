@@ -1427,7 +1427,8 @@
       "mentions_person_refs": [
         "N-14",
         "N-99",
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -1520,7 +1521,7 @@
       "@id": "C-3173",
       "ref": "C-3173",
       "label": "X User Calls for Candace's Arrest on Obstruction Charges",
-      "claim": "An X user posted that if Candace was not charged with obstruction of justice / jury tampering for releasing the rooftop footage, it would prove a two-tiered justice system, and demanded that those responsible go to jail.",
+      "claim": "An X user posted that if Candace was not charged with \"obstruction of jury tampering\" for releasing the rooftop footage, she is part of the two-tiered justice system, and said people need to go to jail.",
       "anchored_artifacts": [
         "A-2216.1"
       ],
@@ -1569,7 +1570,8 @@
       "transcript_snippet": "Do you believe that Tyler Robinson murdered your husband? >> Yes, I do.",
       "mentions_person_refs": [
         "N-2",
-        "N-40"
+        "N-40",
+        "N-1"
       ]
     },
     {
@@ -1591,7 +1593,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-40"
+        "N-40",
+        "N-1"
       ]
     },
     {
@@ -1700,8 +1703,7 @@
       "transcript_snippet": "Effectively, we were saying this person was a decoy and never fired a shot.",
       "mentions_person_refs": [
         "N-3",
-        "N-268",
-        "N-93"
+        "N-268"
       ]
     },
     {
@@ -2067,7 +2069,8 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-218"
+        "N-218",
+        "N-1"
       ]
     },
     {
@@ -2248,7 +2251,8 @@
         "C-3167"
       ],
       "mentions_person_refs": [
-        "N-14"
+        "N-14",
+        "N-1"
       ]
     },
     {
@@ -2378,7 +2382,8 @@
       "investigative_direction": "Check flight and travel records for the priest and for Erika's family members on Sept 10 to 11.",
       "transcript_snippet": "rather than flying her family members out there, she coordinated to bring the priest.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -2576,7 +2581,8 @@
       "transcript_snippet": "that is the reason that I believe Erika chose to do a Catholic funeral mass",
       "mentions_person_refs": [
         "N-3",
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -2979,7 +2985,7 @@
       "@id": "C-7464",
       "ref": "C-7464",
       "label": "Host Says Blake Neff Has Convenient Amnesia and Excludes Danny Philip",
-      "claim": "The host says Blake Neff shows convenient amnesia about events that day and continues to exclude Danny Philip from the equation, noting that Philip was the one driving with someone.",
+      "claim": "The host says Blake Neff shows convenient amnesia about events that day and continues to exclude Danny Philip from the equation, noting that it was Danny Philip whom Neff was driving with.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10715"
@@ -3121,7 +3127,7 @@
       "@id": "C-7471",
       "ref": "C-7471",
       "label": "Host Agrees Charlie Did Not Go Backward and Moved Up and to the Side",
-      "claim": "Responding to a viewer comment about conservation of momentum, the host says video from the side shows Charlie did not go back but went up and tilted to the side.",
+      "claim": "Responding to a viewer comment that conservation of momentum would require Charlie's body to snap backward and that video from the side shows this did not happen, the host says Charlie did not go back but went up and tilted to the side.",
       "anchored_artifacts": [
         "A-2883.1"
       ],

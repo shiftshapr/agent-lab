@@ -365,7 +365,7 @@ I mean this week I also had a random story completely untrue that I accepted tri
 
 [01:27:40]
 
-June was when Charlie got into it with uh BB at the White House. And then um in that same day, Erika purged her Instagram. June 18th and 19th is when Charlie went to the White House and won the debate against the Zionist lobbyists regarding going to war um with Iran. And then on June 19th, Erika purchased her Instagram. And on June, yeah, that's uh leading up to June. And then we had Operation Midnight Hammer, which was Trump agreed to do to bomb Ford and nuclear sites. Yeah. And then on June 26th is when suddenly Claire Ginan writes her first article for Jezebel. She's going to be the one that writes the article about the witch's curse. She had no writing profile before that. New writer. So, that was a big week as well. You are correct. I mean, a big month as well.
+June was when Charlie got into it with uh BB at the White House. And then um in that same day, Erika purged her Instagram. June 18th and 19th is when Charlie went to the White House and won the debate against the Zionist lobbyists regarding going to war um with Iran. And then on June 19th, Erika purchased her Instagram. And on June, yeah, that's uh leading up to June. And then we had Operation Midnight Hammer, which was Trump agreed to do to bomb Ford and nuclear sites. Yeah. And then on June 26th is when suddenly Claire Guinan writes her first article for Jezebel. She's going to be the one that writes the article about the witch's curse. She had no writing profile before that. New writer. So, that was a big week as well. You are correct. I mean, a big month as well.
 
 [01:28:37]
 

@@ -1825,7 +1825,7 @@ Investigative Direction: Confirm Carlson's TPUSA speaking date and event from TP
 
 **C-12576** Host Says Pastors Who Seem to Be Rehabilitating Pedophiles Are Welcomed by Turning Point
 
-Claim Timestamp: 00:36:06
+Claim Timestamp: 00:37:10
 
 Claim: The host says she is concerned about why pastors who seem to be rehabilitating pedophiles are welcomed at Turning Point USA.
 

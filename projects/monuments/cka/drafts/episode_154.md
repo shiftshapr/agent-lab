@@ -756,7 +756,7 @@ Claim Timestamp: 00:02:15
 Claim: The host says, citing an ABC News report, that TPUSA's UVU chapter declined an on-site ambulance by marking "No" on the EMS section of the school's online event form.
 
 Anchored Artifacts: A-2393.1
-Mentions: N-2
+Mentions: N-3
 Contradicts: C-3493
 
 Related Nodes: N-10840
@@ -769,10 +769,10 @@ Investigative Direction: Obtain UVU event form records directly; cross-check aga
 
 Claim Timestamp: 00:03:06
 
-Claim: Per the ABC News report the host reads, the UVU event attendance was initially estimated at 200, revised to 600, then, per TPUSA, to 1,500 (in an undocumented later conversation), with actual attendance of about 3,000.
+Claim: Per the ABC News report the host reads, the UVU event attendance was initially estimated at 200, revised to 600, then, per TPUSA, to 1,500 (in a later conversation the host says was undocumented), with actual attendance of about 3,000.
 
 Anchored Artifacts: A-2393.1
-Mentions: N-2
+Mentions: N-3
 
 Related Nodes: N-10840
 
@@ -782,12 +782,12 @@ Investigative Direction: Obtain UVU planning documents directly; verify timing o
 
 **C-3496** TPUSA Statement to ABC News Framed UVU Event as Open-to-Public / Unticketed Prove Me Wrong Format
 
-Claim Timestamp: 00:04:04
+Claim Timestamp: 00:06:00
 
 Claim: Per a Turning Point USA official's statement to ABC News that the host reads, the UVU event was styled as open-to-public and unticketed, comparable to prior "Prove Me Wrong" campus events; the host adds that such events have no crowd control.
 
 Anchored Artifacts: A-2393.1
-Mentions: N-2
+Mentions: N-3
 
 Related Nodes: N-10840, N-10843
 
@@ -814,10 +814,10 @@ Investigative Direction: Authenticate the text screenshot metadata; verify wheth
 
 Claim Timestamp: 00:17:00
 
-Claim: The 4plebs post allegedly found by "E" and cited via the Vox article referenced the same Charlie/Candace feud-seeding narrative – ask "gripers" to put Charlie against Candace; "fluff" Candace's ego; frame Candace as driven out of TPUSA by Kirk fearing her.
+Claim: Per the 4plebs post the host shows, which Andrew Kolvet said Erika ("E") found and said was linked in a Vox article (the host says the article does not link to the post), the post set out the same Charlie/Candace feud-seeding narrative – ask "gripers" to put Charlie against Candace; "fluff" Candace's ego; frame Candace as driven out of TPUSA by Kirk fearing her.
 
 Anchored Artifacts: A-2395.1, A-2396.1
-Mentions: N-1, N-2, N-3
+Mentions: N-1, N-2, N-3, N-14
 
 Related Nodes: N-10842
 
@@ -829,10 +829,10 @@ Investigative Direction: Obtain the 4plebs post URL and archived timestamp; veri
 
 Claim Timestamp: 00:30:10
 
-Claim: In a clip the host plays of his presentation to Aspen donors, Charlie Kirk describes the Club America vision as a grassroots, opt-in, student-led chapter model parallel to DECA and debate clubs, with 80 new full-time staff dedicated to sourcing leads and guiding student-initiated chapter formation.
+Claim: In a clip the host plays of his presentation to Aspen donors, Charlie Kirk says the high school program is now called Club America, that 80 new full-time staff were hired to source high school students who want to start chapters and guide them through the process, and that he wants Club America to be built in like DECA or the debate club; the host calls this a grassroots vision.
 
 Anchored Artifacts: A-2397.1
-Mentions: N-2, N-1
+Mentions: N-3, N-1
 
 Related Nodes: N-10841
 
@@ -844,7 +844,7 @@ Investigative Direction: Obtain full audio/presentation recording; verify agains
 
 Claim Timestamp: 00:20:36
 
-Claim: The host says Erika Kirk spoke at a Nampa Christian School assembly where students were not voluntary opt-in participants, citing parent emails and student-to-parent text messages she shows describing students unable to leave and "locked in the gym."
+Claim: The host says Erika Kirk spoke at a Nampa Christian School assembly where students were not voluntary opt-in participants, citing parent emails she received and a student's text messages to a parent that she shows describing students unable to leave and "locked in the gym."
 
 Anchored Artifacts: A-2399.1, A-2403.1
 Mentions: N-2
@@ -855,14 +855,14 @@ Investigative Direction: Obtain the school newsletter referenced by parents; ver
 
 ---
 
-**C-3501** TPUSA Claimed 500+ Voluntary Nampa Christian School Attendees
+**C-3501** TPUSA Claimed 500+ Nampa Christian School Attendees
 
 Claim Timestamp: 00:20:36
 
 Claim: TPUSA's X post claimed 500+ "outstanding high school student attendees" at the Nampa Christian School event as part of the Club America tour.
 
 Anchored Artifacts: A-2398.1
-Mentions: N-2
+Mentions: N-3
 
 Related Nodes: N-10841
 
@@ -937,7 +937,7 @@ Claim Timestamp: 00:49:47
 Claim: In a clip the host plays, Tucker Carlson criticizes Blake Neff's framing that "we may have to make our peace with censorship," reading from and rejecting the premise of the Politico profile.
 
 Anchored Artifacts: A-2401.1
-Mentions: N-1, N-22, N-160
+Mentions: N-22, N-160
 
 Related Nodes: N-10845
 
@@ -1013,7 +1013,7 @@ Claim Timestamp: 00:55:56
 Claim: Candace concurs with the @spilling the tea observation that holding a Charlie Kirk one-year anniversary event at UVU is inconsistent with TPUSA's UVU-negligence claims.
 
 Anchored Artifacts: A-2404.1
-Mentions: N-2, N-1
+Mentions: N-3, N-1
 
 Related Nodes: N-10840
 
@@ -1130,7 +1130,7 @@ Investigative Direction: Review TPUSA and UVU promotion records for the Septembe
 
 Claim Timestamp: 00:05:23
 
-Claim: The host reads a TPUSA official's statement to ABC News that on an online form submitted in early July a chapter member selected 200 plus as the maximum attendance, which differs from the mid-July date the host gave for the form.
+Claim: The host reads a TPUSA official's statement to ABC News that on an online form submitted in early July a chapter member selected 200 plus as the maximum attendance.
 
 Transcript Snippet: on an online form submitted in early July, a TPUSA UVU chapter member selected 200 plus as the max attendance option available on the school's online form.
 
@@ -1147,7 +1147,7 @@ Investigative Direction: Compare the early July and July 18 dates against the UV
 
 Claim Timestamp: 00:04:04
 
-Claim: The host reads that Chief Jeff Long told reporters over 3,000 people attended, that six officers worked the event and that Kirk had his own security team.
+Claim: The host reads that Chief Jeff Long told reporters there were probably over 3,000 people in attendance, that six officers worked the event and that Kirk had his own security team.
 
 Transcript Snippet: noting that they had six officers working at the event and Kirk had his own security team.
 
@@ -1634,7 +1634,7 @@ Investigative Direction: Check Empress Films' Dando documentary credits and the 
 
 Claim Timestamp: 00:43:39
 
-Claim: The host says the Empress Films staff are proud feminists and pro-LGBTQ and that one employee wore a shirt she describes as "slay the patriarchy" but then reads as "Never gender" while saying she cannot see it well, which she says makes the company an odd match for Erika Kirk and Kolvet.
+Claim: The host says the Empress Films staff are proud feminists and pro-LGBTQ, that one employee wore a shirt like "slay the patriarchy" and that another shirt reads "Never gender" though she says she cannot see it well, which she says makes the company an odd match for Erika Kirk and Kolvet.
 
 Transcript Snippet: proud feminists at the Empress films.
 

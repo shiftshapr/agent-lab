@@ -555,9 +555,9 @@ Miriam Adelson; subject of Trump's remark and the host's donation claim.
 
 ---
 
-**N-555** Carrie Prejean Bowler
+**N-555** Carrie Prejean Boller
 
-Carrie Prejean Bowler; the host says Trump removed her from the religious committee.
+Carrie Prejean Boller; the host says Trump removed her from the religious committee.
 
 *Related: C-7133*
 
@@ -1937,7 +1937,7 @@ Investigative Direction: Check the executive order or agency guidance that adopt
 
 Claim Timestamp: 00:37:23
 
-Claim: The host says Trump took a hundred million to two hundred million dollars from Miriam Adelson, who Trump's own remarks suggest loves Israel more than America.
+Claim: The host says Trump took, she thinks, a hundred million to two hundred million dollars from Miriam Adelson, who Trump's own remarks suggest loves Israel more than America.
 
 Transcript Snippet: the person that he took a hundred million, two hundred million dollars from, I think in the end, loves Israel more than she loves America.
 

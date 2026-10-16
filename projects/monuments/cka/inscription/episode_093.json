@@ -1861,7 +1861,7 @@
       "@id": "C-2744",
       "ref": "C-2744",
       "label": "Secret Service determined no credible threats to UGA rally",
-      "claim": "CBS News, citing a person familiar with the matter, reported the US Secret Service determined there were no credible threats to the Turning Point USA rally at the University of Georgia, including to the Vice President as protectee.",
+      "claim": "Per the CBS News article the host shows, a person familiar with the matter said the US Secret Service determined there were no credible threats to the Turning Point USA rally at the University of Georgia and no known threats to the protectee, whom the host identifies as the Vice President.",
       "anchored_artifacts": [
         "A-1981.1"
       ],
@@ -1876,7 +1876,9 @@
         "C-2724",
         "C-2728"
       ],
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-4"
+      ]
     },
     {
       "@type": "Claim",
@@ -2038,7 +2040,7 @@
       "@id": "C-2753",
       "ref": "C-2753",
       "label": "Text message conversation occurred in April 2025",
-      "claim": "Host states the messages occurred in April 2025 (uncertainty noted: \"I want to say it was April, but don't quote me on that. It was. Okay.\")",
+      "claim": "The host says she believes Corby said the messages were from sometime in April, checks with Skyler (\"I want to say it was April, but don't quote me on that. It was. Okay.\"), and then states the conversation took place in April 2025.",
       "anchored_artifacts": [
         "A-1988.1",
         "A-1988.2",
@@ -2065,7 +2067,7 @@
         "N-10619"
       ],
       "tags": [],
-      "claim_timestamp": "00:39:18–00:41:12",
+      "claim_timestamp": "00:40:43",
       "investigative_direction": "Retrieve the underlying LA Times article and any SEC filings / partnership documentation listing Bain Capital seed investors.",
       "mentions_person_refs": [
         "N-48"
@@ -2084,7 +2086,7 @@
         "N-10620"
       ],
       "tags": [],
-      "claim_timestamp": "00:41:38–00:45:48",
+      "claim_timestamp": "00:43:33",
       "investigative_direction": "Obtain the ATF summary in full (rather than partial readback) and any underlying laboratory report.",
       "mentions_person_refs": []
     },
@@ -2126,8 +2128,8 @@
       "@type": "Claim",
       "@id": "C-2758",
       "ref": "C-2758",
-      "label": "TPUSA insider acknowledges cancellation was not solely security-related",
-      "claim": "A TPUSA insider, quoted in the Daily Mail, stated: \"She pulled out of the TPUSA event because of a bunch of factors. I don't think it was just security concerns… If there were security concerns, the vice president wouldn't have gone.\"",
+      "label": "Daily Mail Insider Says Cancellation Was Not Solely Security-Related",
+      "claim": "Per the Daily Mail article the host reads, an insider stated: \"She pulled out of the TPUSA event because of a bunch of factors. I don't think it was just security concerns… If there were security concerns, the vice president wouldn't have gone.\"",
       "anchored_artifacts": [
         "A-1991.1"
       ],
@@ -2135,9 +2137,12 @@
         "N-10616"
       ],
       "tags": [],
-      "claim_timestamp": "00:18:55–00:22:20",
+      "claim_timestamp": "00:21:10",
       "investigative_direction": "Identify the insider source; obtain the full Daily Mail article and any corroborating reporting.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-2",
+        "N-4"
+      ]
     },
     {
       "@type": "Claim",
@@ -2154,13 +2159,15 @@
       "tags": [],
       "claim_timestamp": "00:21:34–00:22:20",
       "investigative_direction": "Cross-reference with venue ticketing data and corroborate insider attribution.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-2"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-2760",
       "ref": "C-2760",
-      "label": "Viewer claims Amir Tsarfati was first to learn of the shooting",
+      "label": "Viewer Comment Says They First Heard the News From Amir Tsarfati",
       "claim": "The host reads a viewer comment saying they actually heard first from Amir Tsarfati; the host says she does not know if this is right and asks anyone with evidence to email it so it can be plotted on the timeline.",
       "anchored_artifacts": [
         "A-1992"
@@ -2180,13 +2187,13 @@
       "@id": "C-2761",
       "ref": "C-2761",
       "label": "Host concurs with Elizabeth Lane's prior assessment of Erika Kirk",
-      "claim": "Host explicitly endorses Elizabeth Lane's prior post that \"Erika Kirk exhibits the attributes of a psychopath,\" characterizing Erika's pattern of public blame-shifting as \"malevolent.\"",
+      "claim": "Host explicitly endorses Elizabeth Lane's prior post that, in Lane's opinion, \"Erika Kirk exhibits the attributes of a psychopath,\" characterizing Erika's directing her PR team to blame the public as \"malevolent.\"",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10616"
       ],
       "tags": [],
-      "claim_timestamp": "00:15:01–00:17:09",
+      "claim_timestamp": "00:16:24",
       "investigative_direction": "Cross-reference the prior episode's Elizabeth Lane artifact and verify host endorsement scope.",
       "mentions_person_refs": [
         "N-2",
@@ -2247,7 +2254,8 @@
       "transcript_snippet": "In a post that he subsequently deleted, he left it up actually for quite a long time",
       "mentions_person_refs": [
         "N-342",
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -2622,7 +2630,8 @@
       "mentions_person_refs": [
         "N-597",
         "N-2",
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -2672,7 +2681,8 @@
       "investigative_direction": "Identify the insider; collect the advice Erika reportedly received about her public appearances.",
       "transcript_snippet": "She says that she was putting on a face, a brave face, and that's why she was doing what she was doing. I agree that it was a bad look. Everyone told her it was a bad look, but she did it anyway.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -2796,7 +2806,9 @@
       "transcript_snippet": "it's kind of like how Bebe knew a little too soon that he had been shot, commented too soon just before the President of the United States",
       "mentions_person_refs": [
         "N-36",
-        "N-1"
+        "N-1",
+        "N-342",
+        "N-5"
       ]
     },
     {
@@ -2996,8 +3008,8 @@
       "@type": "Claim",
       "@id": "C-11467",
       "ref": "C-11467",
-      "label": "Marx Text Says the State of Colorado Might Want to Know Who Corby Is",
-      "claim": "In the message the host reads, Victor Marx tells Corby he does not know all of who Marx is and adds that the state of Colorado might want to know all of who Corby is.",
+      "label": "Host Says the State of Colorado Might Want to Know Who Marx Is",
+      "claim": "In the message the host reads, Victor Marx tells Corby he does not know all of who Marx is; the host then comments that she would like to know all of who Marx is and that the state of Colorado might want to know all of who he is.",
       "anchored_artifacts": [
         "A-1988.1"
       ],
@@ -3176,8 +3188,8 @@
       "@type": "Claim",
       "@id": "C-11474",
       "ref": "C-11474",
-      "label": "Host Says Maxwell Was Then Best Friends With Netanyahu and Romney and Netanyahu Were at BCG",
-      "claim": "The host says Robert Maxwell was best friends at that time with Netanyahu and that Mitt Romney and Netanyahu were at Boston Consulting Group while Romney was struggling to raise money for Bain Capital.",
+      "label": "Host Says Romney Was Then Best Friends With Netanyahu at BCG",
+      "claim": "The host says Mitt Romney was best friends at that time with Netanyahu, that Romney and Netanyahu were at Boston Consulting Group, and that Romney was struggling to raise money for Bain Capital.",
       "anchored_artifacts": [
         "A-1989"
       ],
@@ -3192,7 +3204,6 @@
       "investigative_direction": "Check biographical records on whether Netanyahu and Romney overlapped at BCG and on documented Maxwell-Netanyahu ties.",
       "transcript_snippet": "And then he's best friends at this time with Netanyahu? Mitt Romney, they're at Boston Consulting Group",
       "mentions_person_refs": [
-        "N-48",
         "N-36",
         "N-28"
       ]
@@ -3268,7 +3279,6 @@
         "C-2763"
       ],
       "mentions_person_refs": [
-        "N-54",
         "N-40"
       ]
     },
@@ -3291,7 +3301,7 @@
       "investigative_direction": "Compare the defense filing with the ATF summary text and any discovery cover letters.",
       "transcript_snippet": "it just basically verifies exactly what the defense laid out in their filing, that all they got was this. They got a summary report",
       "mentions_person_refs": [
-        "N-40"
+        "N-3"
       ]
     },
     {
@@ -3497,7 +3507,7 @@
       "@id": "C-11487",
       "ref": "C-11487",
       "label": "Host Says Coleman Said Erika Canceled Because of Druski",
-      "claim": "The host says Baron Coleman said on his show that Erika canceled the appearance because of Druski, since everyone was saying this is what the world thinks of her.",
+      "claim": "The host says Baron Coleman said on his show that he thinks Erika canceled the appearance because of Druski, since everyone was saying this is what the world thinks of her.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10616"
@@ -3507,7 +3517,7 @@
       ],
       "claim_timestamp": "00:50:57",
       "investigative_direction": "Review Coleman's broadcast and the Druski video timeline against the cancellation.",
-      "transcript_snippet": "It's actually funny cuz Baron clocked that on his show last night. He was like, I think she canceled the appearance because of Drewski.",
+      "transcript_snippet": "It's actually funny cuz Baron clocked that on his show last night. He was like, I think she canceled the appearance because of Druski.",
       "mentions_person_refs": [
         "N-331",
         "N-597",

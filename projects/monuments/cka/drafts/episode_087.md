@@ -1251,7 +1251,7 @@ Investigative Direction: Verify the tweet's exact timestamp and confirm the subj
 
 Claim Timestamp: 00:09:01
 
-Claim: At 5:59 PM the same day, Kash Patel posted that the previously detained subject had been released after interrogation by law enforcement, with no further explanation given.
+Claim: Per the X post the host shows, Kash Patel wrote that the subject in custody had been released after an interrogation by law enforcement; the host says he posted it at 5:59 PM the same day and that no further explanation was given.
 
 Anchored Artifacts: A-1918.2
 Mentions: N-69, N-411
@@ -1294,7 +1294,7 @@ Investigative Direction: Verify current rank and command assignment via official
 
 **C-2631** Host Says Ahmed Qureshi and Nathan Henderson Co-Founded Built Incorporated
 
-Claim Timestamp: 00:00:00–00:00:01
+Claim Timestamp: 00:16:35
 
 Claim: The host says Built Incorporated was co-founded by Ahmed Qureshi (an O5 at the time) and Nathan Henderson in 2015.
 
@@ -1326,7 +1326,7 @@ Investigative Direction: Retrieve the raw USA Spending entries for Built Inc. by
 
 Claim Timestamp: 00:17:51
 
-Claim: Per Gina Romney Henderson's LinkedIn profile, which the host shows, she is Vice President of User Experience at Built Incorporated; the host also says she is a BYU alumna.
+Claim: Per Gina Romney Henderson's LinkedIn profile, which the host shows, she is Vice President of User Experience at Built Incorporated.
 
 Anchored Artifacts: A-1921.1
 Mentions: N-414
@@ -1400,7 +1400,7 @@ Investigative Direction: Obtain full unedited video of the Easter remarks; docum
 
 Claim Timestamp: 00:16:55–00:17:51
 
-Claim: The Qureshi and Henderson families lived in the same house in Keller, Texas; the host offers alternative explanations (vacation rental, sale) but asserts cohabitation is not in dispute.
+Claim: The host says the Qureshi and Henderson families lived in the same house in Keller, Texas; she offers alternative explanations (vacation rental, sale) but asserts cohabitation is not in dispute.
 
 Anchored Artifacts: (host assertion; no public records shown)
 Mentions: N-412, N-413, N-415, N-414
@@ -1445,7 +1445,7 @@ Investigative Direction: Verify via Medical City Healthcare press releases or Li
 
 Claim Timestamp: 00:24:39
 
-Claim: Andrew Zenger attended BYU Jerusalem, with the host noting he was there during the Mitt Romney presidential election season.
+Claim: The host says Andrew Zenger attended BYU Jerusalem and was there during the Mitt Romney presidential election season.
 
 Anchored Artifacts: (host assertion)
 Mentions: N-135, N-28
@@ -1475,7 +1475,7 @@ Investigative Direction: Obtain corroborating documentation; on-screen artifact 
 
 Claim Timestamp: 00:26:30
 
-Claim: The CIA uses a company called Metro One Talent to interview and onboard BYU Jerusalem recruits.
+Claim: The host says the CIA uses a company called Metro One Talent to interview and bring on board young recruits such as those from BYU Jerusalem.
 
 Anchored Artifacts: (host assertion; no displayed evidence)
 
@@ -1519,7 +1519,7 @@ Investigative Direction: Confirm via BYU athletics records and class roster.
 
 Claim Timestamp: 00:44:25–00:45:16
 
-Claim: Turning Point USA sent text-message fundraising solicitations from "Erika" within approximately 48 hours of Charlie Kirk's death.
+Claim: The host says someone sent her Turning Point USA fundraising text messages, sent about 48 hours after Charlie Kirk's death, that began "Hi, I'm Erika and for Charlie's legacy, please give".
 
 Anchored Artifacts: A-1926.1
 Mentions: N-2, N-1
@@ -1533,7 +1533,7 @@ Investigative Direction: Obtain copies of the original SMS messages and the time
 
 Claim Timestamp: 00:44:25–00:45:16
 
-Claim: A viewer comment the host reads (from Yoshi) says Turning Point sent a direct mail piece featuring an image of Erika Kirk walking out at Charlie's funeral in a sparkle suit with fireworks as a fundraising solicitation; the host says she heard mailers like this were sent.
+Claim: A viewer comment the host reads (from Yoshi) says Turning Point sent a direct mail fundraising plea using a photo of Erika Kirk walking out on stage in her sparkle suit to a show of fireworks; the host says she heard such mailers were sent and that the image is from the funeral, she thinks.
 
 Anchored Artifacts: A-1926.1
 Mentions: N-2
@@ -1547,7 +1547,7 @@ Investigative Direction: Obtain the actual mailer from recipients; verify whethe
 
 Claim Timestamp: 00:29:45
 
-Claim: Viewers and social media indicate the Hild family is married into the Romney family, but the host cannot relocate the underlying document establishing this connection and requests viewer tips.
+Claim: The host says she learned from viewers that Robbie Hild's family is allegedly married into the Romney family and that across social media they were involved in the campaign, but she cannot find the document establishing the connection and requests viewer tips.
 
 Anchored Artifacts: A-1924.2
 Mentions: N-946
@@ -1738,7 +1738,7 @@ Claim: The host says Turning Point USA is trying to twist and reimagine Charlie 
 Transcript Snippet: Turning Point USA is trying to twist and reimagine his legacy as pro-war in the Middle East, war in Iran, and BB is doing the most
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-36
+Mentions: N-3, N-1
 Related Nodes: N-10543, N-10539, N-10000
 Tags: relevance:core
 Investigative Direction: Compare TPUSA statements and events since September 2025 on Iran and Israel with Kirk's recorded positions before his death.
@@ -1904,7 +1904,7 @@ Investigative Direction: Obtain booking and release records for both men and est
 
 ---
 
-**C-14567** Host Says Zin Later Told People at Utah Valley Hospital He Was Paid
+**C-14567** Host Says Zinn Later Told People at Utah Valley Hospital He Was Paid
 
 Claim Timestamp: 00:07:33
 
@@ -2298,7 +2298,7 @@ Claim: The host says Andrew Zenger's roommates were recruited and that one roomm
 Transcript Snippet: I am telling you that his roommates were. He's got a roommate who did a contract work, went on to do contract work for the CIA as well.
 
 Anchored Artifacts: A-3328.1
-Mentions: N-3, N-135
+Mentions: N-3, N-135, N-418
 Related Nodes: N-10580, N-10082
 Tags: relevance:tangential
 Investigative Direction: Single-source assertion; request the source's documentation and check federal contract databases for the roommate.
@@ -2896,7 +2896,7 @@ Claim: The host, voicing what she says Erika could have said, says that in the e
 Transcript Snippet: because they were pulling money from him and they were threatening him, you know, financially, and he felt morally blackmailed by them and they were telling him who he could speak to and who his friends could be.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1
+Mentions: N-3, N-1, N-2
 Related Nodes: N-10106, N-10446
 Supports: C-1258, C-11966, C-9431
 Tags: relevance:core

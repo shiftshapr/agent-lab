@@ -1002,7 +1002,7 @@ Investigative Direction: Verify funding source of the $300K offer; obtain any fo
 
 ---
 
-**C-3239** Andrew Wilson claims he hugged Erika Kirk at TPUSA HQ
+**C-3239** Andrew Wilson Claims He Hugged Erika Kirk at TPUSA HQ
 
 Claim Timestamp: 00:04:12–00:05:52
 
@@ -1109,7 +1109,7 @@ Investigative Direction: Verify photo metadata for date and location; obtain cor
 
 **C-3246** Host Says Lance Twiggs Childhood Piano Video Shows Watch on Right Hand and Left-Hand Page Turn
 
-Claim Timestamp: 00:30:09–00:30:33
+Claim Timestamp: 00:29:25
 
 Claim: The host says a childhood piano recital video of Lance Twiggs ("My name is Lance Twiggs. I am playing country concert for young pianists") shows him wearing a watch on his right hand and turning the page with his left hand.
 
@@ -1286,7 +1286,7 @@ Investigative Direction: Cross-reference Helluva Boss character profile and Luna
 
 ---
 
-**C-3258** Email states Luna wears pentagram necklace
+**C-3258** Host Says Luna Character Wears a Pentagram Necklace
 
 Claim Timestamp: 00:24:38
 
@@ -1699,7 +1699,7 @@ Investigative Direction: Watch for a TPUSA statement on Wilson's role.
 
 Claim Timestamp: 00:14:30
 
-Claim: The host says she does not believe Charlie Kirk was killed by a lone gunman and does not believe any weapon was fired from the Losee Center rooftop, based on what she observes in the footage.
+Claim: The host says that, on the basis of the evidence presented, she does not believe Charlie Kirk was killed by a lone gunman and does not believe any weapon was fired from the Losee Center rooftop.
 
 Transcript Snippet: I do not believe that Charlie Kirk was killed by a lone gunman. Uh I do not believe that any weapon was fired from low sea rooftop.
 
@@ -1945,7 +1945,7 @@ Claim: The host says she believes the person in the maroon shirt and the person 
 Transcript Snippet: I believe those are two different people that we're seeing. the maroon uh and then later in the day in the black.
 
 Anchored Artifacts: 
-Mentions: N-40, N-3
+Mentions: N-3
 Related Nodes: N-10043
 Supports: C-1183
 Tags: relevance:core
@@ -2103,7 +2103,7 @@ Investigative Direction: Identify the source of the dog bed account and check se
 
 Claim Timestamp: 00:23:55
 
-Claim: The host says that if Lance has a hellhound persona it would make more sense that the dog bed was Lance's, embodying that persona, rather than staging by the feds.
+Claim: The host says that Matt Robinson suspected the feds had staged his son's room with a dog bed, but if Lance has a hellhound persona it would make more sense that the dog bed was Lance's, with Lance embodying that persona.
 
 Transcript Snippet: it would make more sense that this would be Lance's bed, Lance's big dog bed, that Lance was embodying this persona.
 

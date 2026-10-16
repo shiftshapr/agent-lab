@@ -2612,13 +2612,13 @@ Investigative Direction: Check Trotter's published biography and FAA airman reco
 
 ---
 
-**C-8176** Host Says Utah Medical Examiner Dr. Deidra Amaro Is a Major
+**C-8176** Host Says Utah Medical Examiner Dr. Deirdre Amaro Is a Major
 
 Claim Timestamp: 00:20:26
 
-Claim: The host says the Utah medical examiner, Dr. Deidra Amaro, is a major.
+Claim: The host says the Utah medical examiner, Dr. Deirdre Amaro, is a major.
 
-Transcript Snippet: The Utah medical examiner, Dr. Deidra Amaro, is a major.
+Transcript Snippet: The Utah medical examiner, Dr. Deirdre Amaro, is a major.
 
 Anchored Artifacts: 
 Mentions: N-177

@@ -2048,7 +2048,7 @@
       "@id": "C-4285",
       "ref": "C-4285",
       "label": "Host filed a FOIA request about the SAM flight",
-      "claim": "The host says she has filed a FOIA request to find out who was aboard the SAM flight.",
+      "claim": "The host says she decided to file a FOIA request about the SAM flight.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10671",
@@ -2702,7 +2702,7 @@
       "@id": "C-4317",
       "ref": "C-4317",
       "label": "Viewer comment: Erika Kirk and Victor Marx are close",
-      "claim": "A viewer comment the host reads says Erika Kirk and Victor Marx are close; a second viewer comment she reads says a person's character can be assessed by the company they keep, and the host adds she does not find Erika believable.",
+      "claim": "A viewer comment the host reads says Erika Kirk and Victor Marx are close; the host says a person's character can be assessed by the company they keep and that she does not find Erika believable.",
       "anchored_artifacts": [
         "A-2615.1"
       ],

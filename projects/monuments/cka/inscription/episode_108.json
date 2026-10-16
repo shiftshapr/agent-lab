@@ -1841,7 +1841,7 @@
       "@id": "C-4230",
       "ref": "C-4230",
       "label": "Marx texted Erika Kirk that \"they just wanted Charlie\"",
-      "claim": "Victor Marx says he texted Erika Kirk while she was at the hospital that nobody was going to kill her or the children and that \"They just wanted Charlie.\" The host asks who \"they\" are.",
+      "claim": "Victor Marx says he texted Erika Kirk that nobody was going to kill her or the children and that \"They just wanted Charlie.\" The host, who says the text was sent while Erika was at the hospital, asks who \"they\" are.",
       "anchored_artifacts": [
         "A-2600.3"
       ],
@@ -2196,7 +2196,7 @@
       "@id": "C-4248",
       "ref": "C-4248",
       "label": "Erika Kirk was written in as an \"emotional asset\" just over an hour after shots were fired",
-      "claim": "The host says White House Correspondents' Dinner communications wrote Erika Kirk in as an \"emotional asset\" just over an hour after shots were fired, focused on making her video number one in the morning.",
+      "claim": "The host says White House Correspondents' Dinner communications wrote Erika Kirk in as an \"emotional asset\" just over an hour after shots were fired, focused on making sure that video was number one in the morning.",
       "anchored_artifacts": [
         "A-2605.1"
       ],
@@ -2372,7 +2372,7 @@
       "@id": "C-4257",
       "ref": "C-4257",
       "label": "The defense says it has not been able to see the gun; the ATF ballistics report is item 32",
-      "claim": "The host says the defense has not been able to see the gun and that item 32 on the sealing list is the ATF ballistics report.",
+      "claim": "The host says the defense said it has not been able to see the gun and that item 32 on the sealing list is the ATF ballistics report.",
       "anchored_artifacts": [
         "A-2606.4"
       ],
@@ -2467,7 +2467,7 @@
       "@id": "C-4262",
       "ref": "C-4262",
       "label": "Joe Rogan recorded a standalone apology for the first time in his show's history",
-      "claim": "The host says Joe Rogan did something he had never done in his show's history by recording an apology about Theo Von. In the clip Rogan says he had already apologized to Theo privately.",
+      "claim": "The host says Joe Rogan did something he had never done in his show's history by recording an apology about Theo Von. In the clip Rogan says he had already apologized to Theo.",
       "anchored_artifacts": [
         "A-2607.3"
       ],
@@ -2548,7 +2548,7 @@
       "@id": "C-4266",
       "ref": "C-4266",
       "label": "Ed Gallrein had no crowd at his victory party",
-      "claim": "The host says the candidate she calls Ed Gallrein had no crowd at his victory party and had the camera zoomed in on his face to hide it.",
+      "claim": "The host says Ed Gallrein had no crowd at his victory party and had the camera zoomed in on his face to hide it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10916"

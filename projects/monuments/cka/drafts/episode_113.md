@@ -636,7 +636,7 @@ Claim: The host says the yacht's helicopter seats eight and the yacht has space 
 Transcript Snippet: The helicopter, I will say that there's one drawback. The helicopter is only an eight-seater.
 
 Anchored Artifacts: A-2637.1
-Mentions: N-666
+Mentions: 
 Related Nodes:
 Investigative Direction: Check the builder's published specifications for Planet Nine's helideck and helicopter.
 
@@ -651,7 +651,7 @@ Claim: The host says Planet Nine has five floors, two elevators and room for 16 
 Transcript Snippet: Planet Nine is five floors in total. But, worry not cuz you're like, "That's a lot of stairs." It has two elevators. It accommodates 16 guests.
 
 Anchored Artifacts: A-2637.1
-Mentions: N-666
+Mentions: 
 Related Nodes:
 Investigative Direction: Compare with the builder's or charter broker's specification sheet for Planet Nine.
 
@@ -711,7 +711,7 @@ Claim: The host says the Albanian prime minister who made the Sazan Island deal 
 Transcript Snippet: The Prime Minister of Albania was on the boat. The guy who did the deal and in the process sold out his country and his ancestry.
 
 Anchored Artifacts: A-2636.2
-Mentions: N-667, N-179
+Mentions: N-667, N-666
 Related Nodes: N-10955
 Investigative Direction: Check Albanian prosecutorial (SPAK) records and press reports for any corruption investigation into the Sazan Island agreement.
 
@@ -1280,7 +1280,7 @@ Investigative Direction: Obtain Candlewood Suites Fort Huachuca guest records an
 
 Claim Timestamp: 00:46:42
 
-Claim: The host says Erika Kirk has not provided an alibi, and that Kolvet tried to offer one through what she calls "Paramount Not So Tactical," which she says then debunked that alibi and said it does not matter whether or not the children are hers.
+Claim: The host says Erika Kirk has not provided an alibi, and that she guesses Kolvet tried to offer one through what she calls "Paramount Not So Tactical," which she says then debunked that alibi and said it does not matter whether or not the children are hers.
 
 Transcript Snippet: Erika Kirk has not provided an alibi. I guess Andrew tried to through Paramount Not So Tactical, but then Paramount Not So Tactical debunked that alibi
 

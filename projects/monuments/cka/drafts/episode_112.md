@@ -343,7 +343,7 @@ First named by the host at 00:17:54 in episode 112. Named with Julie Fields as t
 
 **N-628** Richard Smale
 
-First named by the host at 00:21:10 in episode 112. Transcript spelling "Richard Smallley". Named in the host's narrowed FOIA request as a Department of War recipient.
+First named by the host at 00:21:10 in episode 112. Transcript spelling "Richard Smale". Named in the host's narrowed FOIA request as a Department of War recipient.
 
 *Related: C-4410, A-2631.3*
 
@@ -766,12 +766,12 @@ Investigative Direction: Archive the TPUSA X post sharing the email and the orig
 
 Claim Timestamp: 00:15:15
 
-Claim: The host says she wrote to TPUSA twice more, on June 9 and the morning of June 10, asking for a written response from an identifiable executive on whether the video is authentic and in context. She says neither email has received a response.
+Claim: The host says she wrote to TPUSA twice more, the previous day and that morning, asking for a written response from an identifiable executive on whether the video is authentic and in context. She says neither email has received a response.
 
 Transcript Snippet: So, I have since written them twice by email, politely insisting upon a written response from an identifiable Turning Point USA executive.
 
 Anchored Artifacts: A-2630.1, A-2630.2
-Mentions: N-3, N-14
+Mentions: N-3
 Related Nodes: N-10957, N-10000
 Investigative Direction: Obtain the emails with headers and timestamps and any TPUSA reply.
 
@@ -786,7 +786,7 @@ Claim: The host says Blake Neff and Graham Allen do not work for Turning Point U
 Transcript Snippet: And to be clear, Blake Neff does not work for Turning Point USA. Graham Allen does not work for Turning Point USA.
 
 Anchored Artifacts:
-Mentions: N-160, N-609
+Mentions: N-160, N-609, N-2, N-14, N-15
 Related Nodes: N-10000
 Investigative Direction: Check TPUSA staff listings, Form 990 compensation schedules and the two men's stated affiliations.
 
@@ -816,7 +816,7 @@ Claim: According to the host, a donor who was present says the appointment video
 Transcript Snippet: Um in fact, the donor who told me that it's doctorred and is willing to go very far on this claim that that that is doctorred uh said that they similarly thought the same thing.
 
 Anchored Artifacts:
-Mentions: N-1, N-2
+Mentions: N-1
 Related Nodes: N-10957
 Supports: C-2888
 Investigative Direction: Obtain a sworn statement from the donor source and forensic analysis of the original video file.
@@ -917,12 +917,12 @@ Investigative Direction: Publish the original FOIA request text with its date ra
 
 Claim Timestamp: 00:21:10
 
-Claim: The host says her office's follow-up to the Department of War gave dates and named specific recipients, Bradley Hansell, Richard Smallley, Gustav Anderly and Michaela Mott Marzuka. It limited the search to that department's personnel and to emails about Erika Kirk and the WHCD shooting incident.
+Claim: The host says her office's follow-up to the Department of War gave dates and named specific recipients, Bradley Hansell, Richard Smale, Gustav Anderly and Michaela Mott Marzuka. It limited the search to that department's personnel and to emails about Erika Kirk and the WHCD shooting incident.
 
-Transcript Snippet: we named specific Department of War recipients uh who could be included in that. Bradley Hansell, Richard Smallley, Gustav Anderly, Michaela Mott Marzuka.
+Transcript Snippet: we named specific Department of War recipients uh who could be included in that. Bradley Hansell, Richard Smale, Gustav Anderly, Michaela Mott Marzuka.
 
 Anchored Artifacts: A-2631.3
-Mentions: N-434, N-628, N-624, N-629
+Mentions: N-434, N-628, N-624, N-629, N-2
 Related Nodes: N-10888, N-10700, N-10923
 Investigative Direction: Track the Department of War's response to the narrowed request and verify each named recipient's position.
 
@@ -1012,7 +1012,7 @@ Claim: Ivanka Trump says the project includes, besides the island, five miles of
 Transcript Snippet: We not only the island, but we have five miles of beachfront directly across from the island.
 
 Anchored Artifacts: A-2632.1
-Mentions: N-662, N-179
+Mentions: N-662
 Related Nodes: N-10955
 Investigative Direction: Review the Albanian government agreement for the land parcels included in the project.
 
@@ -1177,7 +1177,7 @@ Claim: The host says the story quotes Erika Kirk's friends Tracy Martin and Jame
 Transcript Snippet: Tracy Martin, James Kaddis, who runs the faith department, the most despicable department at Turning Point USA.
 
 Anchored Artifacts: A-2635.1
-Mentions: N-546, N-668
+Mentions: N-546, N-668, N-2
 Related Nodes: N-10960
 Investigative Direction: Check the published US Weekly article for the named sources and confirm James Kaddis's TPUSA role.
 
@@ -1493,7 +1493,7 @@ Confidence: high
 - **A-2629.1**: the heckling clip at 07:05 is untranscribed apart from "Hey, come over here." Its content is inferred from the host's lead-in, so confidence is Low.
 - **Duration**: the skeleton gave 00:56:29; the transcript front matter gives 58:30, which is used here.
 - **Existing meme occurrence**: the skeleton's M-41 occurrence (stamped 00:46:24) is kept verbatim. The quoted words appear in the [44:57] paragraph.
-- **Name matching**: "Dana Loesch" is taken to be Dana Loesch (N-660; no node in nodes.tsv). "Andrew Kolvet/Kolvet" is matched to N-14, "Greg Laurie" to N-451 Greg Laurie, "Blake Neff" to N-160, "Bradley Hansell" to N-434, "Pete Hegsath" to N-594, "Tim Dillon" to N-278 and "Bari Weiss" to N-279. "Richard Smallley" and "Michaela Mott Marzuka" use the staging titles Richard Smale and Michaela Mott from episode 105, and Gustav Anderly and Graham Allen also reuse staging titles. "Saison Island" is taken to be Sazan Island, "Nathan Rothschild" Nat Rothschild and "Ed Rama" Edi Rama. "James Kaddis" is kept as spelled, since the TPUSA faith-department figure could not be confidently matched. "Paul Leva" is the alleged fake byline and gets no node. "Ed Gowin not even running in Kentucky" (22:34) is unclear (possibly Ed Gallrein) and gets no node.
+- **Name matching**: "Dana Loesch" is taken to be Dana Loesch (N-660; no node in nodes.tsv). "Andrew Kolvet/Kolvet" is matched to N-14, "Greg Laurie" to N-451 Greg Laurie, "Blake Neff" to N-160, "Bradley Hansell" to N-434, "Pete Hegsath" to N-594, "Tim Dillon" to N-278 and "Bari Weiss" to N-279. "Richard Smale" and "Michaela Mott Marzuka" use the staging titles Richard Smale and Michaela Mott from episode 105, and Gustav Anderly and Graham Allen also reuse staging titles. "Saison Island" is taken to be Sazan Island, "Nathan Rothschild" Nat Rothschild and "Ed Rama" Edi Rama. "James Kaddis" is kept as spelled, since the TPUSA faith-department figure could not be confidently matched. "Paul Leva" is the alleged fake byline and gets no node. "Ed Gowin not even running in Kentucky" (22:34) is unclear (possibly Ed Gallrein) and gets no node.
 - **Topic reuse**: two staging titles exist for the WHCD email (episode 104 "White House Military Office 'I Want to Go Home' Amplification Email" and episode 105 "White House Military Office Erika Kirk Amplification Email"). N-10923 uses the episode 105 title, and the integrator should merge the two. M-95 reuses the staging meme title "Emotional Response Asset", and M-92 reuses "Paramount Not So Tactical".
 - **Cross-episode link**: C-4403 Supports C-2888 (episode 102, donors assert the "I appoint my wife" clip was faked). Episode 102 places the donors at Aspen, while this episode refers to "your WLS event" and a later donor dinner, so the venue mapping is uncertain. C-2982 (episode 122, pending FOIA requests including NSA) is later and is not linked. The JD Vance "empty crowd" claim (C-4390) may relate to the existing topic "TPUSA UGA Event Crowd-Size Failure", but the event is not named, so it is not linked.
 - **Not inscribed as claims (admission test)**:

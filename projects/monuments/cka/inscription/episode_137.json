@@ -346,7 +346,7 @@
           "@type": "Artifact",
           "@id": "A-2885.1",
           "ref": "A-2885.1",
-          "description": "Host verbal reference to reader emails and sources about Alan Robertson's San Bernardino departure and the USU threat-assessment reason for his presence (not shown)",
+          "description": "Host verbal reference to reader emails and sources about Allan Robertson's San Bernardino departure and the USU threat-assessment reason for his presence (not shown)",
           "related_claims": [
             "C-7507",
             "C-7508",
@@ -1545,7 +1545,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:38:43",
+      "claim_timestamp": "00:38:05",
       "investigative_direction": "Watch the full Sky News documentary segment; cross-reference carrier strike group positioning via Pentagon releases."
     },
     {
@@ -1605,7 +1605,7 @@
       "@id": "C-3220",
       "ref": "C-3220",
       "label": "Host states her team fact-checked the woodworker email claim and verified its accuracy",
-      "claim": "Candace Owens states her team looked up and verified the woodworker's email claim that black nitrile gloves are the standard resistance to CA glue/spray activator, characterizing it as \"100% true.\"",
+      "claim": "Candace Owens states her team looked up and verified the woodworker's email claim that black nitrile gloves are the most resistant to CA glue/spray activator, characterizing it as \"100% true.\"",
       "anchored_artifacts": [
         "A-2237.1"
       ],
@@ -1714,7 +1714,7 @@
       "@id": "C-7476",
       "ref": "C-7476",
       "label": "Host Says Yesterday's Episode Solved Who Was on the Rooftop With Officer Bagley",
-      "claim": "The host says that at the end of the previous episode her team solved the mystery of who was on the rooftop at the Losee Center with Officer Bagley, and that Neff did not thank her for it.",
+      "claim": "The host says that in the previous episode her team solved the mystery of who was on the rooftop at the Losee Center with Officer Bagley, and that Neff did not thank her for it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10772"
@@ -1948,7 +1948,7 @@
       "@type": "Claim",
       "@id": "C-7487",
       "ref": "C-7487",
-      "label": "Host Recalls John Bray Showed the Road Microphone Glass Is Very Sticky",
+      "label": "Host Recalls Jon Bray Showed the Road Microphone Glass Is Very Sticky",
       "claim": "The host says John Bray showed that the glass for the road microphone is very sticky, and that woodworkers use black nitrile gloves to handle superglue because adhesive wipes off easily.",
       "anchored_artifacts": [
         "A-2237.1"
@@ -2037,7 +2037,7 @@
       "@id": "C-7491",
       "ref": "C-7491",
       "label": "Host Says Her UVU Source Says Lee Was Contacted After the Assassination About Something Unusual the Day Before",
-      "claim": "The host says a source who talked to UVU told her that after the assassination Mike Lee was contacted because of something unusual that took place on campus the day before the shooting, after he had already cancelled.",
+      "claim": "The host says a UVU source told her that after the assassination Mike Lee was contacted because of something unusual that took place on campus the day before the shooting, after he had already cancelled.",
       "anchored_artifacts": [
         "A-2884.1"
       ],
@@ -2221,8 +2221,8 @@
       "@type": "Claim",
       "@id": "C-7499",
       "ref": "C-7499",
-      "label": "Host Says Bongino, Patel, Erika Kirk and TPUSA Publicly Promised Transparency and Not Editing Videos",
-      "claim": "The host says the consistent public messaging from Dan Bongino, Kash Patel, Erika Kirk and Turning Point USA was that they wanted nothing but transparency, did not edit the videos and did not lie about the footage.",
+      "label": "Host Says Bongino, Patel, Erika Kirk and TPUSA Publicly Promised Transparency",
+      "claim": "The host says the consistent public messaging from Dan Bongino, Kash Patel, Erika Kirk and Turning Point USA was that they wanted nothing but transparency, and says her own team did not edit the videos or lie about what was on the footage.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2373,7 +2373,7 @@
       "@id": "C-7505",
       "ref": "C-7505",
       "label": "Host Says Somebody Did Get on the Rooftop Before Bagley at 12:44",
-      "claim": "The host says she can exclusively tell viewers that the answer to whether anybody got on the rooftop before Officer Bagley, after the person she says jumped off and before he arrived at 12:44 p.m., is yes.",
+      "claim": "The host says she can exclusively tell viewers that the answer to whether anybody got on the rooftop before Officer Bagley, after the person Bagley says shot Charlie Kirk jumped off and before he arrived at 12:44 p.m., is yes.",
       "anchored_artifacts": [
         "A-2242.1"
       ],
@@ -2419,7 +2419,7 @@
       "@id": "C-7507",
       "ref": "C-7507",
       "label": "Host Says Emails About a Different Allen Were Wrong and Peers Say Robertson Left San Bernardino on Good Terms",
-      "claim": "The host says many emails misspelled Alan Robertson's name and described a different Allen, and that other people tied to San Bernardino police told her he was not let go or transferred over conduct issues and left willingly on good terms to raise his kids.",
+      "claim": "The host says many emails misspelled Allan Robertson's name and described a different Allen, and that other people tied to San Bernardino police told her he was not let go or transferred over conduct issues and left willingly on good terms to raise his kids.",
       "anchored_artifacts": [
         "A-2885.1"
       ],
@@ -2542,7 +2542,7 @@
       "@id": "C-7512",
       "ref": "C-7512",
       "label": "Host Says by All Accounts Robertson Left San Bernardino Voluntarily and Shuts Down That Lead",
-      "claim": "The host says by all accounts Alan Robertson left on his own volition because he had young kids and wanted to leave city life, and that she is shutting down that lead.",
+      "claim": "The host says by all accounts Allan Robertson left on his own volition because he had young kids and wanted to leave city life, and that she is shutting down that lead.",
       "anchored_artifacts": [
         "A-2885.1"
       ],
@@ -2808,7 +2808,7 @@
       "@id": "C-7523",
       "ref": "C-7523",
       "label": "Sky Clip Says an Analyst Spotted the School in 2019 but the Change Was Not Passed Up the Chain",
-      "claim": "In a Sky News segment the host plays, one analyst reviewing intelligence on potential targets reportedly spotted the school in 2019 and noted changes on an unclassified intelligence tool, but this was not passed up the chain.",
+      "claim": "In a Sky News segment the host plays, one analyst reviewing intelligence on potential targets reportedly spotted the school in 2019 and allegedly noted changes on an intelligence tool, but this was not passed up the chain.",
       "anchored_artifacts": [
         "A-2239.1"
       ],

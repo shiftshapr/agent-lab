@@ -1905,8 +1905,7 @@
       "transcript_snippet": "This is what happens when propaganda and lies are spread online by people like Candace Owens and Tucker Carlson.",
       "mentions_person_refs": [
         "N-3",
-        "N-22",
-        "N-5"
+        "N-22"
       ]
     },
     {
@@ -1944,8 +1943,7 @@
       "investigative_direction": "Document the tip intake (dates, channels) and any vetting records for the submitted tips.",
       "transcript_snippet": "So, we put out that 10K bounty. We just wanted proof of who recorded it. And lo and behold, we got a couple of very interesting direct tips, people keen to collect the 10K.",
       "mentions_person_refs": [
-        "N-3",
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -2003,10 +2001,7 @@
       "tags": [],
       "claim_timestamp": "00:12:52",
       "investigative_direction": "Obtain venue credential lists and hotel security footage for the exit corridor, and the recorder's device metadata.",
-      "transcript_snippet": "Apparently, this freelancing operative was positioned in advance with the specific instruction to take that exact video at that exact place at that exact time.",
-      "mentions_person_refs": [
-        "N-2"
-      ]
+      "transcript_snippet": "Apparently, this freelancing operative was positioned in advance with the specific instruction to take that exact video at that exact place at that exact time."
     },
     {
       "@type": "Claim",
@@ -2024,10 +2019,7 @@
       "tags": [],
       "claim_timestamp": "00:12:52",
       "investigative_direction": "Trace the earliest shares of the clip across accounts and identify coordinated posting times among digital media teams.",
-      "transcript_snippet": "The operative was allegedly in communication with digital media teams, and the entire moment was staged, captured, and then intentionally shared amongst those digital media teams and their operatives",
-      "mentions_person_refs": [
-        "N-2"
-      ]
+      "transcript_snippet": "The operative was allegedly in communication with digital media teams, and the entire moment was staged, captured, and then intentionally shared amongst those digital media teams and their operatives"
     },
     {
       "@type": "Claim",
@@ -2294,7 +2286,7 @@
       "@id": "C-3981",
       "ref": "C-3981",
       "label": "Andrew Kolvet has been working with Jessica Reed Kraus (House Inhabit)",
-      "claim": "The host alleges that Andrew Kolvet works with YouTubers and influencers, including Jessica Reed Kraus (House Inhabit). She says this was revealed a few weeks earlier.",
+      "claim": "The host alleges that Andrew Kolvet works with YouTubers and \"really nasty people\", including Jessica Reed Kraus (House Inhabit). She says this was revealed a few weeks earlier.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10919",
@@ -2425,7 +2417,7 @@
       "@id": "C-3988",
       "ref": "C-3988",
       "label": "Daily Mail ran a spread on Jessica Reed Kraus's marriage and escort claims",
-      "claim": "The host says the Daily Mail published a large article headlined to the effect that House Inhabit's \"marriage secrets\" were revealed. She says it covered escort claims, insiders calling her behavior insane, and her husband's texts about her.",
+      "claim": "The host says the Daily Mail published a large article headlined to the effect that House Inhabit's \"marriage secrets\" were revealed. She says it covered escort claims, socialites calling her behavior insane, and her husband's texts about her.",
       "anchored_artifacts": [
         "A-2564.1"
       ],
@@ -2445,7 +2437,7 @@
       "@id": "C-3989",
       "ref": "C-3989",
       "label": "Jessica Reed Kraus attacked Ashley St. Clair at 3:00 a.m.",
-      "claim": "The host says the Daily Mail story arose after Jessica Reed Kraus attacked Ashley St. Clair, her former friend, online at about 3:00 a.m.",
+      "claim": "The host says she guesses the Daily Mail story arose after Jessica Reed Kraus attacked Ashley St. Clair, her former friend, online at about 3:00 a.m.",
       "anchored_artifacts": [
         "A-2564.1"
       ],
@@ -2633,6 +2625,7 @@
       "investigative_direction": "Obtain a statement from the treating surgeon on what, if anything, was said about the wound.",
       "transcript_snippet": "the biggest lie being that uh the surgeon said that he had a steel neck.",
       "mentions_person_refs": [
+        "N-1",
         "N-2",
         "N-14"
       ]

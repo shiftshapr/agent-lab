@@ -865,7 +865,7 @@ Claim Timestamp: 00:32:32
 Claim: In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that "somebody that's close" - described as a person involved in law enforcement and a minister - recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal. The host says he was describing Mike Mitchell.
 
 Anchored Artifacts: A-2296.1
-Mentions: N-1, N-40, N-125, N-5
+Mentions: N-40, N-125, N-5
 Investigative Direction: Cross-reference Trump's account against official law-enforcement timeline documents (probable-cause affidavit, charging document signed by Brian Davis) and Mitchell's own statements.
 
 ---
@@ -967,7 +967,7 @@ Claim: The host says Turning Point USA figures are now pushing the talking point
 Transcript Snippet: They're also now pushing the same talking point that I'm now somehow working in coordination or support of I guess the aims of Hasan
 
 Anchored Artifacts: 
-Mentions: N-3, N-787
+Mentions: N-3, N-787, N-1
 Related Nodes: N-10000, N-11146
 Tags: relevance:context
 Investigative Direction: Collect the TPUSA-side statements and articles that make the Hasan-coordination claim and compare their wording with the Piker clip.
@@ -1648,7 +1648,7 @@ Claim: The host says the Trump administration, with Vance and Kash Patel, was ru
 Transcript Snippet: Here's what we're going to do with the Epstein files, Kash Patel. His administration was running on something that we cared about.
 
 Anchored Artifacts: 
-Mentions: N-3, N-4, N-69, N-9
+Mentions: N-3, N-4, N-5, N-69, N-9
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Collect the campaign and administration statements on releasing the Epstein files.
@@ -1800,7 +1800,7 @@ Investigative Direction: Obtain SBI correspondence showing the date and content 
 
 Claim Timestamp: 00:46:29
 
-Claim: Agreeing with a comment, the host says the camera pointed down would show the men handling Charlie and what might be under his shirt, and that this is why the footage was really important.
+Claim: Agreeing with a viewer comment the host reads, which says the camera pointed down would show the men handling Charlie and what might be under his shirt, the host says that is why the footage was really important.
 
 Transcript Snippet: I think that is why the footage was really important. I don't think that that footage mattered so much otherwise.
 

@@ -302,7 +302,7 @@
           "@type": "Artifact",
           "@id": "A-1818.3",
           "ref": "A-1818.3",
-          "description": "Charlie Kirk appearance on the Ingram Angle from the home studio, 4:00–5:00 PM Arizona time on September 8.",
+          "description": "Charlie Kirk appearance on the Ingraham Angle from the home studio, 4:00–5:00 PM Arizona time on September 8.",
           "related_claims": [
             "C-2430",
             "C-2435",
@@ -633,7 +633,7 @@
           "@type": "Artifact",
           "@id": "A-3071.1",
           "ref": "A-3071.1",
-          "description": "Host verbal walk through her reconstructed September 8, 2025 timeline from the Jezebel article through the Ingram Angle appearance (no on-screen graphic described)",
+          "description": "Host verbal walk through her reconstructed September 8, 2025 timeline from the Jezebel article through the Ingraham Angle appearance (no on-screen graphic described)",
           "related_claims": [
             "C-10287",
             "C-10290",
@@ -935,7 +935,7 @@
       "@type": "Person",
       "@id": "N-574",
       "ref": "N-574",
-      "name": "Pam Lehman",
+      "name": "Pam Liebman",
       "type": "person",
       "description": "Per host, featured in the Epstein files and described as helping Epstein with real estate deals; context unclear.",
       "related_artifacts": [
@@ -1963,8 +1963,8 @@
       "@type": "Claim",
       "@id": "C-2419",
       "ref": "C-2419",
-      "label": "Epstein–Märtha Louise 2012 Email Discussed Lab-Designed Humans",
-      "claim": "Per a 2012 email the host reads, Princess Märtha Louise of Norway wrote to Jeffrey Epstein that a cocktail of unnaturals affects early human development, that soon people won't be able to make new humans, and that humans could be designed in a lab; the host says the lead-up discussed food and antibiotics destroying living organisms.",
+      "label": "Epstein–Mette-Marit 2012 Email Discussed Lab-Designed Humans",
+      "claim": "Per a 2012 email the host reads, the princess of Norway (Crown Princess Mette-Marit) wrote to Jeffrey Epstein that a cocktail of unnaturals affects early human development, that soon people won't be able to make new humans, and that humans could be designed in a lab; the host says the lead-up discussed food and antibiotics destroying living organisms.",
       "anchored_artifacts": [
         "A-1809.1"
       ],
@@ -1973,8 +1973,7 @@
       "claim_timestamp": "00:07:04–00:07:57",
       "investigative_direction": "Obtain the underlying 2012 email(s) from the Epstein files release and verify both authorship and the quoted text.",
       "mentions_person_refs": [
-        "N-9",
-        "N-572"
+        "N-9"
       ]
     },
     {
@@ -2062,7 +2061,7 @@
       "@id": "C-2424",
       "ref": "C-2424",
       "label": "Epstein Invited to Kates Son's Bar Mitzvah",
-      "claim": "Jeffrey Epstein was invited via email to Faith Kates' son's bar mitzvah.",
+      "claim": "The host says a tipster told her that Faith Kates invited Jeffrey Epstein to her son's bar mitzvah, pointing to an email.",
       "anchored_artifacts": [
         "A-1812.2"
       ],
@@ -2070,7 +2069,7 @@
         "N-10524"
       ],
       "tags": [],
-      "claim_timestamp": "00:22:57",
+      "claim_timestamp": "00:22:37",
       "investigative_direction": "Locate the specific Epstein-files email containing the bar mitzvah invitation and verify sender/recipient.",
       "mentions_person_refs": [
         "N-9",
@@ -2118,7 +2117,7 @@
       "@id": "C-2427",
       "ref": "C-2427",
       "label": "No Response from Erika Kirk (or Kolvet) to Next Model Management Inquiry Within 48 Hours",
-      "claim": "Candace Owens sent an email to Erika Kirk, cc'ing TPUSA spokesperson Andrew Kolvet, asking specifically about the nature of Erika's meetings at Next Model Management NYC; no response was received within 48 hours as of broadcast.",
+      "claim": "The host says she emailed Erika Kirk, copying TPUSA spokesperson Andrew Kolvet, asking specifically about the nature of Erika's meetings at Next Model Management NYC, and received no response (\"crickets\").",
       "anchored_artifacts": [
         "A-1815.1"
       ],
@@ -2139,7 +2138,7 @@
       "@id": "C-2428",
       "ref": "C-2428",
       "label": "Jezebel Article on Charlie Kirk Witch's Curse Published 9:49 AM AZ Sept 8",
-      "claim": "A Jezebel.com article regarding a \"witch's curse\" on Charlie Kirk's life was published at 9:49 AM Arizona time on September 8, 2025.",
+      "claim": "The host says a Jezebel.com article regarding a \"witch's curse\" on Charlie Kirk's life appeared at 9:49 AM Arizona time on September 8, 2025.",
       "anchored_artifacts": [
         "A-1816.1"
       ],
@@ -2158,7 +2157,7 @@
       "@id": "C-2429",
       "ref": "C-2429",
       "label": "Erika Kirk Tweet Ephesians 4:5 Posted One Hour After Jezebel Article",
-      "claim": "Erika Kirk posted a tweet quoting Ephesians 4:5 (\"By grace you have been saved through faith\") at 10:49 AM Arizona time on September 8, 2025 – exactly one hour after the Jezebel article (A-1816.1) appeared.",
+      "claim": "The host says Erika Kirk posted a tweet quoting Ephesians 4:5 (\"By grace you have been saved through faith\") at 10:49 AM Arizona time on September 8, 2025 – exactly one hour after the Jezebel article (A-1816.1) appeared.",
       "anchored_artifacts": [
         "A-1817.1"
       ],
@@ -2196,7 +2195,7 @@
       "@id": "C-2431",
       "ref": "C-2431",
       "label": "Frank Turek Describes Last Walk with Charlie on Monday Night",
-      "claim": "In a clip the host plays, Frank Turek describes a Monday-night walk with Charlie Kirk (two days before the assassination), during which Charlie referenced dinner with \"the family,\" the infant GG having just woken, and two major issues he wanted to improve.",
+      "claim": "In a clip the host plays, Frank Turek describes a Monday-night walk with Charlie Kirk (two days before the assassination), saying Charlie first wanted to have dinner with the family, then texted that the infant GG had just gotten up, and that two major issues came up that he wanted to be better at.",
       "anchored_artifacts": [
         "A-1819.1"
       ],
@@ -2290,8 +2289,8 @@
       "@type": "Claim",
       "@id": "C-2436",
       "ref": "C-2436",
-      "label": "Host Says Charlie Kirk Appeared on Ingram Angle 4:00-5:00 PM AZ on September 8",
-      "claim": "The host says Charlie Kirk appeared on the Laura Ingram show (Ingram Angle) from his home studio between 4:00 and 5:00 PM Arizona time on September 8, 2025.",
+      "label": "Host Says Charlie Kirk Appeared on The Ingraham Angle 4:00-5:00 PM AZ on September 8",
+      "claim": "The host says Charlie Kirk appeared on Laura Ingraham's show (The Ingraham Angle) from his home studio between 4:00 and 5:00 PM Arizona time on September 8, 2025.",
       "anchored_artifacts": [
         "A-1818.3"
       ],
@@ -2300,7 +2299,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:39:30",
-      "investigative_direction": "Obtain the September 8, 2025 Ingram Angle episode and verify timestamp.",
+      "investigative_direction": "Obtain the September 8, 2025 Ingraham Angle episode and verify timestamp.",
       "mentions_person_refs": [
         "N-1"
       ]
@@ -2458,7 +2457,7 @@
         "N-10541"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:05:06",
       "investigative_direction": "Compare the dates of the strikes with the Epstein files release schedule.",
@@ -2551,8 +2550,8 @@
       "@type": "Claim",
       "@id": "C-10239",
       "ref": "C-10239",
-      "label": "Host Says White House Viewers Reported Kolvet and McVoy With Women in West Wing",
-      "claim": "The host says viewers who work at the White House emailed that Andrew Kolvet, Mikey McVoy and women who looked like McVoy's wife were in the West Wing while Kolvet was presented as live on the Kirk Show with Kash Patel.",
+      "label": "Host Says White House Viewers Reported Kolvet and McCoy With Women in West Wing",
+      "claim": "The host says viewers who work at the White House emailed that Andrew Kolvet, Mikey McCoy and women who looked like McCoy's wife were in the West Wing while Kolvet was presented as live on the Kirk Show with Kash Patel.",
       "anchored_artifacts": [
         "A-3065.1"
       ],
@@ -2620,7 +2619,6 @@
       "investigative_direction": "Check the January 29, 2026 cabinet meeting schedule and end time.",
       "transcript_snippet": "The cabinet meeting had just let out 15 minutes prior to.",
       "mentions_person_refs": [
-        "N-69",
         "N-3"
       ]
     },
@@ -2695,8 +2693,6 @@
       ],
       "mentions_person_refs": [
         "N-14",
-        "N-160",
-        "N-191",
         "N-3"
       ]
     },
@@ -2757,7 +2753,7 @@
         "N-10988"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:15:55",
       "investigative_direction": "Identify the 1997 case from court dockets and read the statement about Epstein.",
@@ -2859,7 +2855,7 @@
         "N-10988"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:17:44",
       "investigative_direction": "Find the Epstein emails mentioning pageants and Miss North Carolina.",
@@ -3016,8 +3012,7 @@
       "investigative_direction": "Check ASU enrollment dates and the Miss Arizona USA 2011 result.",
       "transcript_snippet": "Erika is going to enroll into ASU for her final year of college. From 2011 to 2012, and immediately 2 months after that, after the semester begins, she wins Miss Arizona USA, right? In November.",
       "mentions_person_refs": [
-        "N-2",
-        "N-11"
+        "N-2"
       ]
     },
     {
@@ -3180,7 +3175,7 @@
       "@id": "C-10267",
       "ref": "C-10267",
       "label": "Host Says Kates Told Epstein After His Arrest She Would Never Betray Him",
-      "claim": "The host says Kates wrote to Epstein even after his arrest that she would never betray him and had his back.",
+      "claim": "The host says a tipster told her that Kates wrote to Epstein even after his arrest that she would never betray him and had his back.",
       "anchored_artifacts": [
         "A-1812.1"
       ],
@@ -3241,7 +3236,6 @@
       "investigative_direction": "Seek former Next staff accounts and the Epstein emails on Next.",
       "transcript_snippet": "Next Model Management apparently um had tons of Eastern European girls all around the office",
       "mentions_person_refs": [
-        "N-571",
         "N-9"
       ]
     },
@@ -3265,8 +3259,7 @@
       "investigative_direction": "Obtain visitor logs or testimony from Next staff; ask Erika Kirk's office.",
       "transcript_snippet": "with people with direct knowledge that Erika Kirk was a multiple times taking office uh taking meetings at Next Model Management",
       "mentions_person_refs": [
-        "N-2",
-        "N-571"
+        "N-2"
       ]
     },
     {
@@ -3343,8 +3336,8 @@
       "@type": "Claim",
       "@id": "C-10274",
       "ref": "C-10274",
-      "label": "Host Says Erika's Corcoran Start Was Under Pam Lehman of the Epstein Files",
-      "claim": "The host says Erika's Corcoran start was under the stewardship of Pam Lehman, who is featured in the Epstein files helping him with real estate deals.",
+      "label": "Host Says Erika's Corcoran Start Was Under Pam Liebman of the Epstein Files",
+      "claim": "The host says Erika's Corcoran start was under the stewardship of Pam Liebman, who is featured in the Epstein files helping him with real estate deals.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10502"
@@ -3354,7 +3347,7 @@
       ],
       "claim_timestamp": "00:26:56",
       "investigative_direction": "Verify Lehman's Corcoran role and the Epstein files reference.",
-      "transcript_snippet": "that is under the stewardship the stewardship of of of Pam Lehman featured in the Epstein files was helping him with real estate deals",
+      "transcript_snippet": "that is under the stewardship the stewardship of of of Pam Liebman featured in the Epstein files was helping him with real estate deals",
       "mentions_person_refs": [
         "N-574",
         "N-2",
@@ -3741,7 +3734,7 @@
       "@id": "C-10291",
       "ref": "C-10291",
       "label": "Host Places Charlie Shouting at the Challenge Around 7:16 and Waking GG",
-      "claim": "The host speculates (calling it a strong inkling, not a fact) that Charlie shouted at the challenge around 7:16 p.m., which would have woken the toddler GG, and that he then tells Turek, \"Hold up because the Chicago game is on.\"",
+      "claim": "The host says she has a strong inkling, though not a fact, that Charlie was at home alone with the kids, that his shouting at the TV around 7:16 p.m. would have woken the toddler GG, and that he then tells Turek, \"Hold up because the Chicago game is on.\"",
       "anchored_artifacts": [
         "A-3071.1",
         "A-1818.2"
@@ -3866,7 +3859,7 @@
       "@id": "C-10296",
       "ref": "C-10296",
       "label": "Host Says Neighbors Saw the Kids With Tracy Martin's Husband",
-      "claim": "The host says people told her they saw the Kirk children with Tracy Martin's husband.",
+      "claim": "The host says people tell her who they see the Kirk children with, citing as an example that they saw the kids with Tracy Martin's husband, because Charlie's family was well known in the neighborhood.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10486"

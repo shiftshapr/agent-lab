@@ -1120,7 +1120,7 @@ Claim Timestamp: 00:52:52
 Claim: Candace stated the text was sent in December 2025 in response to questions about planned questions for an upcoming meeting with Erika Kirk, framed as a joke referencing the Bari Weiss/Ben Shapiro framing that any question to Erika equaled accusing her of murder.
 
 Anchored Artifacts: A-2011.1
-Mentions: N-2, N-3, N-14, N-279, N-97
+Mentions: N-2, N-3, N-279, N-97
 Related Nodes: N-10641
 Investigative Direction: Verify the timeline of the meeting and the text; obtain the full chain; verify the Bari Weiss/Ben Shapiro framing.
 
@@ -1358,7 +1358,7 @@ Investigative Direction: Immigration timeline and work-authorization dates for G
 
 Claim Timestamp: 00:16:11
 
-Claim: The host says she had no debts and a million-dollar book deal when she met her husband, and that about 800,000 copies of her first book were moved.
+Claim: The host says she had no debts and a million-dollar book deal when she met her husband, and that she thinks about 800,000 copies of her first book were moved.
 
 Transcript Snippet: I had a million-dollar book deal when I met him. I think we moved 800,000 copies of my first book.
 
@@ -1442,7 +1442,7 @@ Claim: The host says she is told that White House chief of staff Susie Wiles was
 Transcript Snippet: I am told specifically that Susie Wiles was staunchly opposed to credit to Susie Wiles.
 
 Anchored Artifacts:
-Mentions: N-131, N-3, N-60
+Mentions: N-131, N-3, N-5
 Related Nodes: N-10640
 Tags: relevance:context
 Investigative Direction: Identify the host's source and seek confirmation from White House staff.
@@ -1588,7 +1588,7 @@ Claim: The host says the White House Correspondents Dinner was an event that Cha
 Transcript Snippet: An event that did not in any way require her presence, one which not even Charlie Kirk had ever attended.
 
 Anchored Artifacts:
-Mentions: N-1, N-2, N-5
+Mentions: N-1, N-5
 Related Nodes: N-10637
 Tags: relevance:core
 Investigative Direction: Check WHCD attendance records for Charlie Kirk and for Trump's presidential terms.
@@ -1669,7 +1669,7 @@ Claim: The host says Charlie Kirk hated the White House Correspondents Dinner an
 Transcript Snippet: That actually Charlie hated. He always made fun of the White House Correspondents Dinner.
 
 Anchored Artifacts:
-Mentions: N-1, N-2
+Mentions: N-1
 Related Nodes: N-10637
 Supports: C-8779
 Tags: relevance:core
@@ -1715,7 +1715,7 @@ Claim Timestamp: 00:46:37
 
 Claim: The host says Erika Kirk name-dropped Druski and the host near the end of her pre-written statement.
 
-Transcript Snippet: she name-dropped Drewski and she name-dropped me
+Transcript Snippet: she name-dropped Druski and she name-dropped me
 
 Anchored Artifacts: A-2009.4
 Mentions: N-2, N-597, N-3
@@ -1750,7 +1750,7 @@ Claim: In the statement the host plays, Erika Kirk says she has comedians dressi
 Transcript Snippet: I have comedians dressing up in whiteface. I have people saying I'm not fit to be CEO and I have Candace Owens claiming I murdered my husband
 
 Anchored Artifacts: A-2009.4
-Mentions: N-2, N-3
+Mentions: N-2, N-3, N-1
 Related Nodes: N-10639
 Supports: C-2797
 Tags: relevance:context
@@ -1767,7 +1767,7 @@ Claim: A viewer comment the host reads says Candace Owens never once made the ex
 Transcript Snippet: Candace Owens never once made the explicit claim that you murdered your husband. All she has accused you of is being a liar and a fraud.
 
 Anchored Artifacts: A-2964.1
-Mentions: N-3, N-2
+Mentions: N-3, N-2, N-1
 Related Nodes: N-10647
 Contradicts: C-2797
 Tags: relevance:core
@@ -1784,7 +1784,7 @@ Claim: The host says Blake Neff argued that Candace did not say Erika murdered h
 Transcript Snippet: Blake Neff came out and said, "Well, Candace didn't say it, but she implied it."
 
 Anchored Artifacts: A-2966.1
-Mentions: N-160, N-3, N-2
+Mentions: N-160, N-3, N-2, N-1
 Related Nodes: N-10647
 Tags: relevance:core
 Investigative Direction: Locate Blake Neff's post making this argument.
@@ -1862,15 +1862,15 @@ Investigative Direction: Compare with Erika Kirk's or Justin Streiff's account o
 
 Claim Timestamp: 00:53:58
 
-Claim: The host says she has had many conversations with Aubrey Laitsch after Lech's firing, and that nothing she presented on the show about TPUSA's inner workings was leaked by her.
+Claim: The host says she has had many conversations with Aubrey Laitsch after Laitsch's firing, and that nothing she presented on the show about TPUSA's inner workings was leaked by her.
 
 Transcript Snippet: I've had many conversations with her, but nothing was leaked to me about their that I presented on this show about anything that was going on internal.
 
 Anchored Artifacts:
-Mentions: N-552, N-3, N-14
+Mentions: N-552, N-3
 Related Nodes: N-10552
 Tags: relevance:core
-Investigative Direction: Aubrey Laitsch's own account, and a comparison of the host's reporting against what Lech could have known.
+Investigative Direction: Aubrey Laitsch's own account, and a comparison of the host's reporting against what Laitsch could have known.
 
 ---
 
@@ -1931,7 +1931,7 @@ Claim: The host says she is not accusing Erika of shooting her husband and that 
 Transcript Snippet: No, I'm not accusing you of shooting your husband. What I am accusing that I have been open about on this show is that it reeks of dishonesty
 
 Anchored Artifacts: A-2009.4
-Mentions: N-3, N-2
+Mentions: N-3, N-2, N-1
 Related Nodes: N-10647
 Supports: C-8790
 Contradicts: C-2797
@@ -2006,16 +2006,16 @@ Investigative Direction: Obtain the Coleman clip and the list of falsehoods he r
 
 ---
 
-**C-8805** Baron Coleman Says Neff and Kolvet Gave Different Excuses
+**C-8805** Host Says Neff and Kolvet Gave Different Excuses
 
 Claim Timestamp: 00:59:17
 
-Claim: In a clip the host plays, Baron Coleman says TPUSA figures cannot get on board with the same messaging, noting Blake Neff already gave a different excuse from Andrew Kolvet's.
+Claim: The host says TPUSA figures cannot get on board with the same messaging, noting Blake Neff already gave a different excuse from Andrew Kolvet's.
 
 Transcript Snippet: you can't get on board with the same messaging. Blake Neff already gave a different excuse.
 
 Anchored Artifacts: A-2966.1
-Mentions: N-331, N-160, N-14
+Mentions: N-3, N-160, N-14
 Related Nodes: N-10647
 Supports: C-8791
 Tags: relevance:core
@@ -2044,7 +2044,7 @@ Investigative Direction: Phone records of the call and testimony from participan
 
 Claim Timestamp: 01:02:34
 
-Claim: The host says Laura Loomer claimed the host and her husband live separately in two houses and that she has dual citizenship, and says none of it is true.
+Claim: The host says she thinks it was Laura Loomer who claimed the host and her husband live separately in two houses and that she has dual citizenship, and says none of it is true.
 
 Transcript Snippet: according to Laura Loomer we were we were living separate and in two different houses, and I had dual citizenship. Of course, none of that is true.
 
@@ -2105,7 +2105,7 @@ Investigative Direction: Court docket for the Macron suit showing any withdrawal
 
 Claim Timestamp: 01:04:10
 
-Claim: The host reads a Loomer tweet alleging the host hides nearly 12 million dollars in real estate and other assets in a secret trust, with another firm that specializes in bankruptcies.
+Claim: The host reads a Loomer tweet alleging the host hides nearly 12 million dollars in real estate and other assets in a secret trust, and saying her other lawyer's firm specializes in bankruptcies.
 
 Transcript Snippet: Remember I exposed her secret trust where she's hiding nearly 12 million dollars in real estate among other assets.
 
@@ -2168,7 +2168,7 @@ Investigative Direction: Travel records or statements from the three named peopl
 
 Claim Timestamp: 01:07:45
 
-Claim: The host says part of the reason she had no response to Trump was that she told her priest she would stay calm, and he was present at the confirmation.
+Claim: The host says part of the reason she had no response to Trump was that she told her priest she would stay calm, and that he was there when the Trump post happened.
 
 Transcript Snippet: that was part of the reason why I had no response to Trump. Uh cuz I told my priest I would chill
 
@@ -2281,7 +2281,7 @@ Investigative Direction: Public schedule of Pope Leo XIV audiences versus the ho
 
 - **Name uncertainty**: "Karoline Leavitt" appears in transcript at ~41:21; likely refers to White House Press Secretary Karoline Leavitt (N-281).
 - **Possible transcription error**: "Cole Allen" appears as the WHCD suspect name; verify spelling against official arrest records and court filings.
-- **Transcript ambiguity**: "Drewski" is name-dropped by Erika Kirk in the pre-recorded statement (~47:25); identity and relevance not clarified in the episode.
+- **Transcript ambiguity**: "Druski" is name-dropped by Erika Kirk in the pre-recorded statement (~47:25); identity and relevance not clarified in the episode.
 - **Requires human verification**: Sara Sidner's role as original recorder of the Erika Kirk clip (host explicitly states she could not confirm via Instagram, Twitter, or text outreach).
 - **Artifact verbally referenced but not displayed in full**: Multiple Laura Loomer tweets are read aloud in the episode; full visual capture not confirmed.
 - **Claim failed admission test**: Host assertions not artifact-anchored in this episode include – (1) Trump's tweet was the fourth attack on Candace in two weeks, (2) Susie Wiles opposed the Truth Social post, (3) Charlie Kirk never attended the White House Correspondents Dinner, (4) Laura Loomer has blackmail on Trump, (5) the Trump Truth Social tweet was driven by Laura Loomer's demands.

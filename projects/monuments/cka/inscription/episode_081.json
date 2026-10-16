@@ -1745,7 +1745,7 @@
       "@id": "C-2534",
       "ref": "C-2534",
       "label": "Kolvet stated \"this just loaded\" indicating plane travel",
-      "claim": "At 3:26 p.m. Utah time on Sept 10, Andrew Kolvet wrote in the PR chat: \"Sorry, on the plane, this just loaded.\"",
+      "claim": "Per the PR text chain the host shows, at 3:26 p.m. Utah time (as the host adjusts it) on Sept 10, Andrew Kolvet wrote in the PR chat: \"Sorry, on the plane, this just loaded.\"",
       "anchored_artifacts": [
         "A-1881.1"
       ],
@@ -1812,7 +1812,10 @@
       "tags": [],
       "claim_timestamp": "00:29:39",
       "investigative_direction": "Independently source the ADS-B / transponder data; verify aircraft identifiers and operators.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-14",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -1873,8 +1876,8 @@
       "@type": "Claim",
       "@id": "C-2541",
       "ref": "C-2541",
-      "label": "Mark Levin questioned Erika's video as AI production",
-      "claim": "Per a tweet the host reads, Mark Levin asked whether Erika's video was 'some AI production' and, if not, called it 'a total disgrace'.",
+      "label": "Mark Levin Asked Whether Rogan Segment Was an AI Production",
+      "claim": "Per a tweet the host reads, Mark Levin, reacting to the Joe Rogan segment about Erika Kirk, asked 'Is this some AI production?' and said 'If not, what a total disgrace.'",
       "anchored_artifacts": [
         "A-1884.1"
       ],
@@ -1884,6 +1887,7 @@
       "investigative_direction": "Retrieve full tweet and any subsequent clarification.",
       "mentions_person_refs": [
         "N-245",
+        "N-269",
         "N-2"
       ]
     },
@@ -2320,7 +2324,7 @@
       "@id": "C-11312",
       "ref": "C-11312",
       "label": "Show Host Says Leaked Texts Kicked Off the Theory That Israel or Jews Had Charlie Killed",
-      "claim": "On the radio show clip, the host of the show says the leaked private group-chat texts were used to kick off the conspiracy theory that Israel or the Jews had Charlie murdered, and says TPUSA does not believe that theory.",
+      "claim": "On the radio show clip, a second speaker alongside Kolvet says the leaked private group-chat texts were used to kick off the conspiracy theory that Israel or the Jews had Charlie murdered, and both he and Kolvet say TPUSA does not believe that theory.",
       "anchored_artifacts": [
         "A-1878.1"
       ],
@@ -2334,7 +2338,8 @@
       "investigative_direction": "Identify the show host and compare the characterization with the content of the leaked texts and with what the host of this episode actually alleges.",
       "transcript_snippet": "kick off the big conspiracy theory that we've run into over and over again, which is that Israel or the Jews had Charlie murdered.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-14"
       ]
     },
     {
@@ -3288,7 +3293,7 @@
         "N-10549"
       ],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "00:31:14",
       "investigative_direction": "Ask aviation communications experts whether in-flight messaging works as the host describes.",
@@ -3324,7 +3329,7 @@
       "@id": "C-11356",
       "ref": "C-11356",
       "label": "Host Says Streiff Wrote That They May Need to Wait Until AK Is on the Ground",
-      "claim": "The host says that in the second part of the chat Andrew Kolvet wrote that his internet just came back on, followed by Justin Streiff writing that they may need to wait until AK is on the ground.",
+      "claim": "The host says that in the second part of the chat Andrew Kolvet wrote that his internet just came back on, and Justin Streiff wrote that they may need to wait until AK is on the ground.",
       "anchored_artifacts": [
         "A-3127.1"
       ],
@@ -3522,7 +3527,7 @@
       "@id": "C-11365",
       "ref": "C-11365",
       "label": "Host Says the Head of the CIA Appears in the Documentary Rogan Mentioned",
-      "claim": "The host says that although critics said the CIA did not produce the documentary, the head of the CIA is in it, and that one has to get approval from the CIA to appear in a CIA documentary.",
+      "claim": "The host says that although critics said the CIA did not produce the documentary Joe Rogan mentioned, in which Erika appears, the head of the CIA is in it, and that one has to get approval from the CIA to appear in a CIA documentary.",
       "anchored_artifacts": [
         "A-1883.1"
       ],

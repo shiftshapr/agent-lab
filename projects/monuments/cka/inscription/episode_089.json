@@ -1338,7 +1338,7 @@
       "@id": "C-2671",
       "ref": "C-2671",
       "label": "CNN Compiled a Montage Showing Trump Previously Praising Candace Owens and Megyn Kelly",
-      "claim": "CNN assembled a montage of past Trump appearances, which the host plays, in which he praised Megyn Kelly and Candace Owens (saying \"that's a star\" and \"your reputation is amazing\"), contradicting his current posture in A-1939.1.",
+      "claim": "CNN assembled a montage of past Trump appearances, which the host plays, in which he praised Megyn Kelly and Candace Owens (saying of Owens \"that's a star\") and says \"your reputation is amazing,\" contradicting his current posture in A-1939.1.",
       "anchored_artifacts": [
         "A-1940.1"
       ],
@@ -1456,7 +1456,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-5"
+        "N-5",
+        "N-299"
       ]
     },
     {
@@ -1609,7 +1610,7 @@
         "N-10541"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:04:12",
       "investigative_direction": "Obtain the archived Truth Social post and compare the wording with the on-air reading.",
@@ -1633,7 +1634,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:04:12",
       "investigative_direction": "Obtain the archived Truth Social post and compare the wording with the on-air reading. Check which of the four lost TV shows and when.",
@@ -1659,7 +1660,7 @@
         "N-10006"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:07:19",
       "investigative_direction": "Obtain the archived Truth Social post and compare the wording with the on-air reading.",
@@ -2071,7 +2072,7 @@
       "@id": "C-8658",
       "ref": "C-8658",
       "label": "Host Says Trump Promised No New Wars and Lower Gas Prices",
-      "claim": "The host says Trump explicitly promised no new wars in the Middle East and lower gas prices, and that he is now fighting in Iran despite nobody wanting it, with insider trading also seen recently.",
+      "claim": "The host says Trump explicitly promised no new wars in the Middle East and lower gas prices, and that he is now fighting in Iran despite nobody wanting it, with what looks like insider trading having happened recently.",
       "anchored_artifacts": [
         "A-1940.1"
       ],
@@ -2184,9 +2185,10 @@
         "C-2669"
       ],
       "mentions_person_refs": [
-        "N-5",
-        "N-46",
         "N-3",
+        "N-5",
+        "N-22",
+        "N-46",
         "N-93"
       ]
     },
@@ -2262,7 +2264,6 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-14",
         "N-3"
       ]
     },
@@ -2328,7 +2329,7 @@
         "N-10588"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:31:16",
       "investigative_direction": "Collect Trump's public statements and executive actions on the Butler investigation.",
@@ -2368,7 +2369,7 @@
       "@id": "C-8670",
       "ref": "C-8670",
       "label": "Host Says Everyone Noted a Shift in Trump Since Butler",
-      "claim": "The host says that all of us have noted a shift in Trump since Butler, Pennsylvania.",
+      "claim": "The host says she thinks all of us have noted a shift in Trump since Butler, Pennsylvania.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10588"
@@ -2663,7 +2664,7 @@
       "@id": "C-8684",
       "ref": "C-8684",
       "label": "Host Says Politicians Send Money Overseas and Are Beholden to Israel",
-      "claim": "The host says politicians in DC send money overseas, wash it and give it back to themselves, and that the majority of them are beholden to foreign countries, mainly Israel.",
+      "claim": "The host says politicians in DC send money overseas, wash it and give it back to themselves, and that they are beholden to foreign countries, the majority of them to Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026"

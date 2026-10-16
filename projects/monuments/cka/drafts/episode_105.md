@@ -790,7 +790,7 @@ Claim Timestamp: 00:10:20
 
 Claim: The host says Gustav Anderly, a WHCA information systems manager, and Ryan Rippeon, commander of naval communications, were recipients of the email.
 
-Transcript Snippet: Uh Gustav Anderly, also military position, information systems manager at the White House Communications Agency. And Ryan Ripian, Ryan Ripian is the commander of naval communications.
+Transcript Snippet: Uh Gustav Anderly, also military position, information systems manager at the White House Communications Agency. And Ryan Rippeon, Ryan Rippeon is the commander of naval communications.
 
 Anchored Artifacts: A-2581.2
 Mentions: N-624, N-623

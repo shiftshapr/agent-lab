@@ -189,7 +189,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 
 **A-1818.2** Charlie Kirk Show segment in which Charlie describes watching the second half of the Chicago Bears vs. Minnesota Vikings game on September 8, including specific play-by-play commentary (challenge on Noah Sewell fumble, 2:02 remaining, 2-minute warning clock management).
 
-**A-1818.3** Charlie Kirk appearance on the Ingram Angle from the home studio, 4:00–5:00 PM Arizona time on September 8.
+**A-1818.3** Charlie Kirk appearance on the Ingraham Angle from the home studio, 4:00–5:00 PM Arizona time on September 8.
 
 - Event Timestamp: 2025-09-08
 - Source Timestamp: 2025-09-08
@@ -349,7 +349,7 @@ Confidence Level: Low
 
 **A-3071** September 8 Timeline Reconstruction Bundle
 
-**A-3071.1** Host verbal walk through her reconstructed September 8, 2025 timeline from the Jezebel article through the Ingram Angle appearance (no on-screen graphic described)
+**A-3071.1** Host verbal walk through her reconstructed September 8, 2025 timeline from the Jezebel article through the Ingraham Angle appearance (no on-screen graphic described)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:38:58
@@ -505,7 +505,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-574** Pam Lehman
+**N-574** Pam Liebman
 
 Per host, featured in the Epstein files and described as helping Epstein with real estate deals; context unclear.
 
@@ -972,14 +972,14 @@ College where the host says Erika Kirk is slated to speak and students object.
 
 ## V. Claim Register
 
-**C-2419** Epstein–Märtha Louise 2012 Email Discussed Lab-Designed Humans
+**C-2419** Epstein–Mette-Marit 2012 Email Discussed Lab-Designed Humans
 
 Claim Timestamp: 00:07:04–00:07:57
 
-Claim: Per a 2012 email the host reads, Princess Märtha Louise of Norway wrote to Jeffrey Epstein that a cocktail of unnaturals affects early human development, that soon people won't be able to make new humans, and that humans could be designed in a lab; the host says the lead-up discussed food and antibiotics destroying living organisms.
+Claim: Per a 2012 email the host reads, the princess of Norway (Crown Princess Mette-Marit) wrote to Jeffrey Epstein that a cocktail of unnaturals affects early human development, that soon people won't be able to make new humans, and that humans could be designed in a lab; the host says the lead-up discussed food and antibiotics destroying living organisms.
 
 Anchored Artifacts: A-1809.1
-Mentions: N-9, N-572
+Mentions: N-9
 Investigative Direction: Obtain the underlying 2012 email(s) from the Epstein files release and verify both authorship and the quoted text.
 
 ---
@@ -1038,9 +1038,9 @@ Investigative Direction: Search the publicly released Epstein email corpus for K
 
 **C-2424** Epstein Invited to Kates Son's Bar Mitzvah
 
-Claim Timestamp: 00:22:57
+Claim Timestamp: 00:22:37
 
-Claim: Jeffrey Epstein was invited via email to Faith Kates' son's bar mitzvah.
+Claim: The host says a tipster told her that Faith Kates invited Jeffrey Epstein to her son's bar mitzvah, pointing to an email.
 
 Anchored Artifacts: A-1812.2
 Mentions: N-9, N-571
@@ -1078,7 +1078,7 @@ Investigative Direction: Verify Linda Rothschild's Corcoran role via corporate f
 
 Claim Timestamp: 00:24:35–00:26:09
 
-Claim: Candace Owens sent an email to Erika Kirk, cc'ing TPUSA spokesperson Andrew Kolvet, asking specifically about the nature of Erika's meetings at Next Model Management NYC; no response was received within 48 hours as of broadcast.
+Claim: The host says she emailed Erika Kirk, copying TPUSA spokesperson Andrew Kolvet, asking specifically about the nature of Erika's meetings at Next Model Management NYC, and received no response ("crickets").
 
 Anchored Artifacts: A-1815.1
 Mentions: N-2, N-14, N-3
@@ -1091,7 +1091,7 @@ Investigative Direction: Confirm the email log; await response or non-response s
 
 Claim Timestamp: 00:38:58
 
-Claim: A Jezebel.com article regarding a "witch's curse" on Charlie Kirk's life was published at 9:49 AM Arizona time on September 8, 2025.
+Claim: The host says a Jezebel.com article regarding a "witch's curse" on Charlie Kirk's life appeared at 9:49 AM Arizona time on September 8, 2025.
 
 Anchored Artifacts: A-1816.1
 Mentions: N-1
@@ -1104,7 +1104,7 @@ Investigative Direction: Obtain the Jezebel article URL with timestamp metadata;
 
 Claim Timestamp: 00:39:30
 
-Claim: Erika Kirk posted a tweet quoting Ephesians 4:5 ("By grace you have been saved through faith") at 10:49 AM Arizona time on September 8, 2025 – exactly one hour after the Jezebel article (A-1816.1) appeared.
+Claim: The host says Erika Kirk posted a tweet quoting Ephesians 4:5 ("By grace you have been saved through faith") at 10:49 AM Arizona time on September 8, 2025 – exactly one hour after the Jezebel article (A-1816.1) appeared.
 
 Anchored Artifacts: A-1817.1
 Mentions: N-2
@@ -1130,7 +1130,7 @@ Investigative Direction: Cross-reference Bears–Vikings September 8, 2025 game 
 
 Claim Timestamp: 00:35:28–00:36:30
 
-Claim: In a clip the host plays, Frank Turek describes a Monday-night walk with Charlie Kirk (two days before the assassination), during which Charlie referenced dinner with "the family," the infant GG having just woken, and two major issues he wanted to improve.
+Claim: In a clip the host plays, Frank Turek describes a Monday-night walk with Charlie Kirk (two days before the assassination), saying Charlie first wanted to have dinner with the family, then texted that the infant GG had just gotten up, and that two major issues came up that he wanted to be better at.
 
 Anchored Artifacts: A-1819.1
 Mentions: N-7, N-1
@@ -1189,16 +1189,16 @@ Investigative Direction: Obtain the September 8, 2025 10:00 AM Charlie Kirk Show
 
 ---
 
-**C-2436** Host Says Charlie Kirk Appeared on Ingram Angle 4:00-5:00 PM AZ on September 8
+**C-2436** Host Says Charlie Kirk Appeared on The Ingraham Angle 4:00-5:00 PM AZ on September 8
 
 Claim Timestamp: 00:39:30
 
-Claim: The host says Charlie Kirk appeared on the Laura Ingram show (Ingram Angle) from his home studio between 4:00 and 5:00 PM Arizona time on September 8, 2025.
+Claim: The host says Charlie Kirk appeared on Laura Ingraham's show (The Ingraham Angle) from his home studio between 4:00 and 5:00 PM Arizona time on September 8, 2025.
 
 Anchored Artifacts: A-1818.3
 Mentions: N-1
 Related Nodes: N-10521
-Investigative Direction: Obtain the September 8, 2025 Ingram Angle episode and verify timestamp.
+Investigative Direction: Obtain the September 8, 2025 Ingraham Angle episode and verify timestamp.
 
 ---
 
@@ -1323,7 +1323,7 @@ Transcript Snippet: They're distracting us from the Epstein files and just doing
 Anchored Artifacts: 
 Mentions: N-9, N-3
 Related Nodes: N-10541
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare the dates of the strikes with the Epstein files release schedule.
 
 ---
@@ -1389,11 +1389,11 @@ Investigative Direction: Ask the host for any Epstein document or witness tying 
 
 ---
 
-**C-10239** Host Says White House Viewers Reported Kolvet and McVoy With Women in West Wing
+**C-10239** Host Says White House Viewers Reported Kolvet and McCoy With Women in West Wing
 
 Claim Timestamp: 00:12:14
 
-Claim: The host says viewers who work at the White House emailed that Andrew Kolvet, Mikey McVoy and women who looked like McVoy's wife were in the West Wing while Kolvet was presented as live on the Kirk Show with Kash Patel.
+Claim: The host says viewers who work at the White House emailed that Andrew Kolvet, Mikey McCoy and women who looked like McCoy's wife were in the West Wing while Kolvet was presented as live on the Kirk Show with Kash Patel.
 
 Transcript Snippet: Andrew Kolvet Mikey McVoy and a couple of women uh look like Mikey McVoy's wife. They were in the West Wing.
 
@@ -1431,7 +1431,7 @@ Claim: The host quotes her sources as saying a cabinet meeting had just let out 
 Transcript Snippet: The cabinet meeting had just let out 15 minutes prior to.
 
 Anchored Artifacts: A-3065.2
-Mentions: N-69, N-3
+Mentions: N-3
 Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Check the January 29, 2026 cabinet meeting schedule and end time.
@@ -1480,7 +1480,7 @@ Claim: The host says Kolvet often misses episodes and sometimes calls in while t
 Transcript Snippet: Sometimes when traveling, Andrew even calls in for a segment, but this was for some reason pre-recorded and intentionally presented to the public as though it was live.
 
 Anchored Artifacts: A-1810.1
-Mentions: N-14, N-160, N-191, N-3
+Mentions: N-14, N-3
 Related Nodes: N-10522
 Supports: C-2421
 Tags: relevance:core
@@ -1531,7 +1531,7 @@ Transcript Snippet: There was even a lawsuit that was filed back in 1997 over a 
 Anchored Artifacts: A-3067.1
 Mentions: N-9, N-3
 Related Nodes: N-10988
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the 1997 case from court dockets and read the statement about Epstein.
 
 ---
@@ -1609,7 +1609,7 @@ Transcript Snippet: it seems like he's also handpicking girls for certain pagean
 Anchored Artifacts: A-3068.1
 Mentions: N-9, N-3
 Related Nodes: N-10988
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Find the Epstein emails mentioning pageants and Miss North Carolina.
 
 ---
@@ -1720,7 +1720,7 @@ Claim: The host says Erika enrolled at ASU for her final year in 2011 to 2012 an
 Transcript Snippet: Erika is going to enroll into ASU for her final year of college. From 2011 to 2012, and immediately 2 months after that, after the semester begins, she wins Miss Arizona USA, right? In November.
 
 Anchored Artifacts: 
-Mentions: N-2, N-11
+Mentions: N-2
 Related Nodes: N-11248
 Tags: relevance:core
 Investigative Direction: Check ASU enrollment dates and the Miss Arizona USA 2011 result.
@@ -1843,7 +1843,7 @@ Investigative Direction: Confirm Kates' departure date and stated reason from Ne
 
 Claim Timestamp: 00:22:10
 
-Claim: The host says Kates wrote to Epstein even after his arrest that she would never betray him and had his back.
+Claim: The host says a tipster told her that Kates wrote to Epstein even after his arrest that she would never betray him and had his back.
 
 Transcript Snippet: Even after he got arrested for pedophilia, she's like, 'I will never betray you. I will never ever betray you.
 
@@ -1880,7 +1880,7 @@ Claim: The host says Next Model Management apparently had tons of Eastern Europe
 Transcript Snippet: Next Model Management apparently um had tons of Eastern European girls all around the office
 
 Anchored Artifacts: A-3069.1
-Mentions: N-571, N-9
+Mentions: N-9
 Related Nodes: N-10698
 Tags: relevance:core
 Investigative Direction: Seek former Next staff accounts and the Epstein emails on Next.
@@ -1896,7 +1896,7 @@ Claim: The host says she confirmed with people with direct knowledge, four times
 Transcript Snippet: with people with direct knowledge that Erika Kirk was a multiple times taking office uh taking meetings at Next Model Management
 
 Anchored Artifacts: A-3069.2
-Mentions: N-2, N-571
+Mentions: N-2
 Related Nodes: N-10519, N-10532
 Tags: relevance:core
 Investigative Direction: Obtain visitor logs or testimony from Next staff; ask Erika Kirk's office.
@@ -1952,13 +1952,13 @@ Investigative Direction: Check New York Department of State license records.
 
 ---
 
-**C-10274** Host Says Erika's Corcoran Start Was Under Pam Lehman of the Epstein Files
+**C-10274** Host Says Erika's Corcoran Start Was Under Pam Liebman of the Epstein Files
 
 Claim Timestamp: 00:26:56
 
-Claim: The host says Erika's Corcoran start was under the stewardship of Pam Lehman, who is featured in the Epstein files helping him with real estate deals.
+Claim: The host says Erika's Corcoran start was under the stewardship of Pam Liebman, who is featured in the Epstein files helping him with real estate deals.
 
-Transcript Snippet: that is under the stewardship the stewardship of of of Pam Lehman featured in the Epstein files was helping him with real estate deals
+Transcript Snippet: that is under the stewardship the stewardship of of of Pam Liebman featured in the Epstein files was helping him with real estate deals
 
 Anchored Artifacts: 
 Mentions: N-574, N-2, N-9
@@ -2234,7 +2234,7 @@ Investigative Direction: Seek neighbor or caregiver accounts of who was home tha
 
 Claim Timestamp: 00:41:03
 
-Claim: The host speculates (calling it a strong inkling, not a fact) that Charlie shouted at the challenge around 7:16 p.m., which would have woken the toddler GG, and that he then tells Turek, "Hold up because the Chicago game is on."
+Claim: The host says she has a strong inkling, though not a fact, that Charlie was at home alone with the kids, that his shouting at the TV around 7:16 p.m. would have woken the toddler GG, and that he then tells Turek, "Hold up because the Chicago game is on."
 
 Transcript Snippet: uh around when is when is he shouting at the challenge around 7:16
 
@@ -2316,7 +2316,7 @@ Investigative Direction: Canvass neighbors and store staff and check card or loc
 
 Claim Timestamp: 00:43:08
 
-Claim: The host says people told her they saw the Kirk children with Tracy Martin's husband.
+Claim: The host says people tell her who they see the Kirk children with, citing as an example that they saw the kids with Tracy Martin's husband, because Charlie's family was well known in the neighborhood.
 
 Transcript Snippet: they saw the kids with Tracy Martin's husband.
 
@@ -2544,7 +2544,7 @@ Confidence: high
 - Host statement that Erika "pathologically lies" (00:44:00) – no per-claim artifact anchor; framing.
 - Host assertion that "something is not right with Erika" (00:29:14) – framing premise, not artifact-anchored.
 - Host's "vibes"/"spidey senses" framing re: September 8 presence (00:44:53) – interpretive commentary.
-- Host speculation re: Frank Turek being present during the Laura Ingram recording (00:40:08) – speculation, not artifact-anchored.
+- Host speculation re: Frank Turek being present during the Laura Ingraham recording (00:40:08) – speculation, not artifact-anchored.
 - Host speculation re: Charlie having a "crisis" requiring a rabbi/pastor/priest within 48 hours (00:41:03) – speculation.
 - Host inference that Frank Turek was at the home with Charlie on September 8 (not in the Monday-night walk) – speculation.
 

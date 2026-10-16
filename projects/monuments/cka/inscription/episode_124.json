@@ -560,13 +560,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2864",
       "family_ref": "A-2864",
-      "bundle_name": "Penguitch Steak Receipt Bundle",
+      "bundle_name": "Panguitch Steak Receipt Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2864.1",
           "ref": "A-2864.1",
-          "description": "Host verbal reference to a receipt for Tyler Robinson's steak payment at 9:47 p.m. in Penguitch (receipt not shown)",
+          "description": "Host verbal reference to a receipt for Tyler Robinson's steak payment at 9:47 p.m. in Panguitch (receipt not shown)",
           "related_claims": [
             "C-7223"
           ],
@@ -1252,7 +1252,7 @@
       "ref": "N-10381",
       "name": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
       "type": "investigation_target",
-      "description": "Existing topic reused for the Penguitch steak claim.",
+      "description": "Existing topic reused for the Panguitch steak claim.",
       "related_artifacts": [],
       "related_claims": [
         "C-7223",
@@ -1696,7 +1696,7 @@
       "ref": "N-366",
       "name": "Diligent Dennison",
       "type": "person",
-      "description": "Researcher the host credits with speaking to the waiter in Penguitch.",
+      "description": "Researcher the host credits with speaking to the waiter in Panguitch.",
       "related_artifacts": [],
       "related_claims": [
         "C-7271"
@@ -1876,8 +1876,8 @@
       "@type": "Claim",
       "@id": "C-3001",
       "ref": "C-3001",
-      "label": "Josh Hammer described preliminary hearing as \"most overwhelming\" of his career",
-      "claim": "Josh Hammer stated on Court TV that the preliminary hearing presentation was \"the most overwhelming presentation that I have ever seen this early on during a legal proceeding in my entire life.\"",
+      "label": "Josh Hammer Calls the Hearing Evidence the Most Overwhelming He Has Seen in His Life",
+      "claim": "In a clip the host plays, Josh Hammer says the evidence presented during the pre-trial evidentiary hearings in the trial of Tyler Robinson is \"the most overwhelming presentation that I have ever seen this early on during a legal proceeding in my entire life.\"",
       "anchored_artifacts": [
         "A-2116.1"
       ],
@@ -1886,7 +1886,8 @@
       "claim_timestamp": "00:05:14",
       "investigative_direction": "Compare Hammer's stated impression against the actual hearing exhibits.",
       "mentions_person_refs": [
-        "N-55"
+        "N-55",
+        "N-40"
       ]
     },
     {
@@ -1950,7 +1951,7 @@
       "@id": "C-3005",
       "ref": "C-3005",
       "label": "Miss Noble reported seeing a bald man with three others driving the gray Challenger",
-      "claim": "Witness Miss Noble testified via Ring camera interview that she saw a bald man driving the gray Challenger accompanied by three other people.",
+      "claim": "The host says the woman who captured the Ring camera footage, Miss Noble, told police she saw a bald man driving the gray Challenger accompanied by three other people; in the hearing clip the host plays, the witness answers, \"I believe they thought that was the case.\"",
       "anchored_artifacts": [
         "A-2119.1"
       ],
@@ -2015,7 +2016,7 @@
       "@id": "C-3009",
       "ref": "C-3009",
       "label": "Host Says Leaked 12.1 Footage Shows Only a Pixel Running Across Rooftop",
-      "claim": "The host says Court TV's accidentally leaked footage of the 12.1 enhanced exhibit (at 1h17m30s on Day 2) shows only a pixel-like figure running across the rooftop when zoomed in.",
+      "claim": "The host says Court TV accidentally captured footage of the 12.1 enhanced exhibit, which she says is the same video as 12.4 zoomed in; in a clip she plays from an X user, the speaker says that at 1h17m30s of Court TV's Day 2 the figure running across the rooftop is only a pixel.",
       "anchored_artifacts": [
         "A-2122.1"
       ],
@@ -2668,8 +2669,8 @@
       "@type": "Claim",
       "@id": "C-7223",
       "ref": "C-7223",
-      "label": "Host Says Robinson Paid for a Steak in Penguitch at 9:47 p.m. by Debit Card",
-      "claim": "The host says her team broke the story that Tyler Robinson was eating a steak in Penguitch and paid at 9:47 p.m. with his debit card, and says there is a literal receipt, which timestamps him three hours from campus.",
+      "label": "Host Says Robinson Paid for a Steak in Panguitch at 9:47 p.m. by Debit Card",
+      "claim": "The host says her team broke the story that Tyler Robinson was eating a steak in Panguitch and paid at 9:47 p.m. with his debit card, and says there is a literal receipt, which timestamps him three hours from campus.",
       "anchored_artifacts": [
         "A-2864.1"
       ],
@@ -2680,8 +2681,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:21:42",
-      "investigative_direction": "Obtain the Penguitch restaurant receipt and card transaction record and the establishment's own timestamps.",
-      "transcript_snippet": "because we broke the story that Tyler was eating a steak down in Penguitch. He concluded and and paid at 9:47 p. m.",
+      "investigative_direction": "Obtain the Panguitch restaurant receipt and card transaction record and the establishment's own timestamps.",
+      "transcript_snippet": "because we broke the story that Tyler was eating a steak down in Panguitch. He concluded and and paid at 9:47 p. m.",
       "supports_claim_refs": [
         "C-2004"
       ],
@@ -2694,8 +2695,8 @@
       "@type": "Claim",
       "@id": "C-7224",
       "ref": "C-7224",
-      "label": "Host Says Texting Lance After 11 p.m. About Babysitting the Campus Does Not Fit the Penguitch Timeline",
-      "claim": "The host says that if Tyler Robinson left Penguitch nearly at 10 p.m., he could not have been babysitting the campus and texting Lance after 11 p.m., unless he failed to mention being pulled over by a police officer around 12:30.",
+      "label": "Host Says Texting Lance After 11 p.m. About Babysitting the Campus Does Not Fit the Panguitch Timeline",
+      "claim": "The host says that if Tyler Robinson left Panguitch nearly at 10 p.m., he could not have been babysitting the campus and texting Lance after 11 p.m., unless he failed to mention being pulled over by a police officer around 12:30.",
       "anchored_artifacts": [
         "A-2123.1"
       ],
@@ -2947,8 +2948,7 @@
       "transcript_snippet": "since 1996 they actually don't rely on mixed samples for that very reason because it confuses matters.",
       "mentions_person_refs": [
         "N-3",
-        "N-40",
-        "N-776"
+        "N-40"
       ]
     },
     {
@@ -3179,7 +3179,8 @@
       "mentions_person_refs": [
         "N-89",
         "N-2",
-        "N-40"
+        "N-40",
+        "N-1"
       ]
     },
     {
@@ -3367,7 +3368,7 @@
       "@id": "C-7252",
       "ref": "C-7252",
       "label": "Host Says Shapiro Raced to Give a Million Dollars to TPUSA While His Company Is Suffering",
-      "claim": "The host says Ben Shapiro raced to give a million dollars to Turning Point USA even though his company is suffering, and that Erika allowed him to open despite knowing her husband did not like him at AmFest.",
+      "claim": "The host says Ben Shapiro raced to give a million dollars to Turning Point USA even though his company is suffering, and that Erika allowed him to open at AmFest despite knowing her husband did not like him.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -3672,8 +3673,8 @@
       "@type": "Claim",
       "@id": "C-7265",
       "ref": "C-7265",
-      "label": "Host Refers to Kolvet's Statement That It Was Supposed to Be Her on Tour With Charlie",
-      "claim": "The host refers to a statement from Andrew Kolvet that it was supposed to be her, and asks whether Charlie refusing something made him a liability.",
+      "label": "Host Asks Whether Charlie Became a Liability for Saying No",
+      "claim": "The host refers to a statement from Andrew Kolvet that \"it was supposed to be you,\" asks whether it was supposed to be her back on tour with Charlie and whether Charlie said no to killing her, and asks whether he then became a liability because he said no.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10495"
@@ -3818,7 +3819,7 @@
       "@id": "C-7271",
       "ref": "C-7271",
       "label": "Host Says Diligent Dennison Spoke to the Waiter in Panguitch",
-      "claim": "The host says Diligent Dennison went and spoke to the waiter in Penguitch and that more was going to come out about it.",
+      "claim": "The host says Diligent Dennison went and spoke to the waiter in Panguitch and that more was going to come out about it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10381"

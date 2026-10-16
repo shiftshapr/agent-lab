@@ -1,4 +1,4 @@
-# Opus re-check of the whole archive, 2026-10-15 (in progress)
+# Opus re-check of the whole archive, 2026-10-15
 
 Why: after the Sonnet verification pass, a fresh 2% QA sample still showed 5.4% material errors, and the Sonnet
 reviewers had passed 14 of those 15 (`audits/qa_final_2026-10-15/`). Daveed chose a full re-check with Opus as the
@@ -26,8 +26,22 @@ Pipeline (same as the verification pass, with Opus throughout):
 - C-14209..C-14212 (ep59): the drone lines are Gary Melton's (Paramount Tactical), not Kolvet's. N-617 is introduced
   in ep100, so he is named in the claims but not yet on their Mentions lines.
 
-## Remaining
-Chunks 113-232 (wave 8 onward). Wave 8 was cut short by the usage limit; 124 and 127 are done.
+## Waves 8-14 (chunks 113-232, about 7,200 claims)
+- Material findings sent to confirmation: 60, 50, 84, 57, 51, 56, 40. Confirmers rejected about 5%, mostly fixes
+  that re-applied an existing name rule.
+- Name rules added: Terryl ("Tarro"), Jake Hoffman (N-580, was "AJ Copp"), Laura Ingraham / Ingraham Angle (now
+  archive-wide), Norma Jean and Jimmy Ates, Yrefy ("Wi-Refi"), Bagur (N-398), Frédéric Vaglio, Daniel Beaulieu, Karl
+  Marx (ep91), Carrie Prejean Boller (N-555), Ryan Rippeon (N-623; mis-transcription aliases dropped), Druski, Ed
+  Gallrein, Richard Smale, Christoph Schweizer, H. Duane Anderson, Hansell (ep118), Mikey McCoy ("McCormick"),
+  Panguitch, Laitsch (eps 96-97), Frank Turek ("Frank Church", eps 127-129), Beau Mason, Judge Tony Graf, Deirdre
+  Amaro, Jon Bray, Allan Robertson, Gordon Margulis, Mell Stewart (ep130), Irina Mappin, Goldsberry, Claire Guinan
+  (N-756), DeGroote, Jeremy Boreing.
+- Claim-level name fixes (no rule, because the wrong form is a real name elsewhere): Markwayne Mullin (C-3932,
+  "Mark Meadows"), Nick Shirley (C-2561, "Nick Searcy"), Andrew Kolvet (C-7760, "Andrew Cooper").
+- Preflight: reviewed by-role mentions for C-12849, C-2744, C-4603 (the confirmer had picked N-70 for "the
+  governor"; corrected to N-41 Spencer Cox).
+- Held for Daveed: every Marina Minas change (C-2320, C-2322, C-2535, C-2536, C-3145, C-3795,
+  C-9059, C-10121) and Eliza/Elizabeth McCoy (N-218).
 
 ## Follow-ups noted by reviewers
 - ep70: N-313 (Pierre Falcone, arms dealer) is attached to a different "Pierre" (a Catholic near Tampa).

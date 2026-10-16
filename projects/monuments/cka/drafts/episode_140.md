@@ -835,7 +835,7 @@ Investigative Direction: Obtain the full uncompressed footage and verify the mot
 
 Claim Timestamp: 00:11:53
 
-Claim: The stills show the subject with what appears to be high white socks pulled up the calf, while the arms appear tanned, prompting host speculation about concealed tattoos or skin-tone mismatch.
+Claim: The host says the stills show the subject with what appears to be high white socks pulled up the calf, while the arms appear tanned, prompting her speculation about concealed tattoos or skin-tone mismatch.
 
 Anchored Artifacts: A-2267.3
 
@@ -849,7 +849,7 @@ Investigative Direction: Obtain reference photos of Tyler Robinson's documented 
 
 Claim Timestamp: 00:13:22
 
-Claim: The stills show the subject's hat sitting noticeably above his glasses and head, a styling the host interprets as accommodating a ponytail.
+Claim: The host says the stills show the subject's hat sitting slightly above his head and above his glasses, a styling she interprets as accommodating a ponytail.
 
 Anchored Artifacts: A-2267.4
 
@@ -997,7 +997,7 @@ Investigative Direction: Obtain the tweet-counter output and verify both figures
 
 Claim Timestamp: 00:39:29
 
-Claim: In a prior debate clip, Andrew Wilson exited to smoke and his wife Rachel Wilson called in to debate on his behalf; the host characterizes this as a recurring pattern.
+Claim: In a prior debate clip, Andrew Wilson exited to smoke and his wife Rachel Wilson called in to debate on his behalf; the host says someone pointed out to her that this is a routine thing where Rachel jumps into his debates.
 
 Anchored Artifacts: A-2274.1
 Mentions: N-18, N-562
@@ -1056,7 +1056,7 @@ Investigative Direction: Obtain the specific court exhibit referenced and confir
 
 Claim Timestamp: 00:04:18
 
-Claim: The host reads the Dane Cook "B&E" skit's "favorite shirt" passage aloud and uses it as a humorous analogical frame for arguing that the maroon-shirt choice by the parking-garage subject is implausible for someone trying to evade detection.
+Claim: The host plays a clip of Dane Cook's "B&E" skit, including its "favorite shirt" passage, and uses it as a humorous analogical frame for arguing that the maroon-shirt choice by the parking-garage subject is implausible for someone trying to evade detection.
 
 Anchored Artifacts: A-2276.1
 
@@ -1640,7 +1640,7 @@ Transcript Snippet: he got arrested, he pled guilty, his name is Haim Braverman,
 
 Anchored Artifacts: 
 Mentions: N-866, N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Search federal court dockets and DOJ press releases for a plea by Haim Braverman and the sentence.
 
 ---
@@ -2195,7 +2195,7 @@ Transcript Snippet: Blake Neff instantly said, "If you want to I would love to t
 Anchored Artifacts: A-3083.1
 Mentions: N-160, N-18, N-3
 Related Nodes: N-10000
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Find Neff's original post or message offering money and the date.
 
 ---

@@ -51,15 +51,15 @@
 
 ## II. Executive Summary
 
-This episode advances the investigation along two parallel tracks: (1) the legal status of the Tyler Robinson case after Judge Graff's bindover ruling and Robinson's "not guilty" plea, and (2) further chronological and personnel analysis of the September 10 UVU scene. Artifact-anchored evidentiary material in this episode includes a verbatim audio excerpt of Judge Graff's bench ruling on the motion to dismiss (particularly Count 6, witness tampering for the "ask for a lawyer and stay silent" text), the arraignment audio capturing Robinson's plea, a series of newly released clips from 9/10 depicting a post-shot sequence at Charlie Kirk's vehicle, multiple X posts by named public commentators (Matt Walsh, Viva Frei, Graham Allen, Blake Neff/Brandon Tatum) reacting to a court clip of defense attorney Richard Novak, and a verbatim read-aloud of defense counsel's filings (including page 32 of the August 11 filing). The host's principal structural move this episode is to frame all of the outraged X commentary as a misreading of defense counsel's actual argument, which she claims is a citation of the state's own theories rather than a defense endorsement. The episode also re-examines prior claims (Blake Neff's "we thought there might be more shooters" → "20 seconds later everything was fine" sequence) and presents a vehicle-positioning diagram as a new visual artifact.
+This episode advances the investigation along two parallel tracks: (1) the legal status of the Tyler Robinson case after Judge Graf's bindover ruling and Robinson's "not guilty" plea, and (2) further chronological and personnel analysis of the September 10 UVU scene. Artifact-anchored evidentiary material in this episode includes a verbatim audio excerpt of Judge Graf's bench ruling on the motion to dismiss (particularly Count 6, witness tampering for the "ask for a lawyer and stay silent" text), the arraignment audio capturing Robinson's plea, a series of newly released clips from 9/10 depicting a post-shot sequence at Charlie Kirk's vehicle, multiple X posts by named public commentators (Matt Walsh, Viva Frei, Graham Allen, Blake Neff/Brandon Tatum) reacting to a court clip of defense attorney Richard Novak, and a verbatim read-aloud of defense counsel's filings (including page 32 of the August 11 filing). The host's principal structural move this episode is to frame all of the outraged X commentary as a misreading of defense counsel's actual argument, which she claims is a citation of the state's own theories rather than a defense endorsement. The episode also re-examines prior claims (Blake Neff's "we thought there might be more shooters" → "20 seconds later everything was fine" sequence) and presents a vehicle-positioning diagram as a new visual artifact.
 
 ---
 
 ## III. Artifact Register
 
-**A-2327** Court Audio – Motion to Dismiss Ruling (Judge Graff)
+**A-2327** Court Audio – Motion to Dismiss Ruling (Judge Graf)
 
-Verbatim audio excerpt of Judge Graff's bench ruling on defendant's motion to dismiss, focusing on Count 6 (witness tampering for the "ask for a lawyer and stay silent" text to Lance Twiggs).
+Verbatim audio excerpt of Judge Graf's bench ruling on defendant's motion to dismiss, focusing on Count 6 (witness tampering for the "ask for a lawyer and stay silent" text to Lance Twiggs).
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -69,7 +69,7 @@ Confidence Level: High
 
 *Related: C-3357, C-3358, C-3359, C-3360, C-3361, N-10826*
 
-**A-2327.1** Judge Graff Count 6 Ruling Audio (excerpt)
+**A-2327.1** Judge Graf Count 6 Ruling Audio (excerpt)
 
 Verbatim: "Standing alone, advising another person to risk request counsel and remain silent is lawful and does not establish witness tampering. The state relies however, on the context of the communication, including defendant's earlier alleged instruction to delete this exchange. Viewed together in the light most favorable to the state, those communications permit a reasonable inference that defendant intended to cause Twigs to withhold information from investigators."
 
@@ -388,7 +388,7 @@ Investigative Pressure: High
 
 **N-10826** Defense Witness Tampering Count 6 Constitutional Question
 
-Investigation into whether Count 6 (witness tampering for the "ask for a lawyer and stay silent" text) can constitutionally proceed given Judge Graff's own concession that the advice, standing alone, is lawful and does not establish criminal intent.
+Investigation into whether Count 6 (witness tampering for the "ask for a lawyer and stay silent" text) can constitutionally proceed given Judge Graf's own concession that the advice, standing alone, is lawful and does not establish criminal intent.
 
 Evidence Count: 1
 Claim Count: 3
@@ -730,11 +730,11 @@ The host's argument that the security detail parked its own vehicles in a way th
 
 ## V. Claim Register
 
-**C-3357** Host Says Judge Graff Issued Bindover Ruling After Preliminary Hearing
+**C-3357** Host Says Judge Graf Issued Bindover Ruling After Preliminary Hearing
 
 Claim Timestamp: 00:02:24
 
-Claim: The host says Judge Graff ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.
+Claim: The host says Judge Graf ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.
 
 Anchored Artifacts: A-2327, A-2328
 Mentions: N-40, N-136
@@ -742,11 +742,11 @@ Mentions: N-40, N-136
 
 Investigative Direction: Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed.
 
-**C-3358** Host Says Judge Graff Declined to Dismiss Count 6 (Witness Tampering)
+**C-3358** Host Says Judge Graf Declined to Dismiss Count 6 (Witness Tampering)
 
 Claim Timestamp: 00:04:11
 
-Claim: The host says Judge Graff declined to dismiss Count 6 (witness tampering for the "ask for a lawyer and stay silent" text to Lance Twiggs) over the defense's constitutional-rights argument, and she plays a clip of the ruling.
+Claim: The host says Judge Graf declined to dismiss Count 6 (witness tampering for the "ask for a lawyer and stay silent" text to Lance Twiggs) over the defense's constitutional-rights argument, and she plays a clip of the ruling.
 
 Anchored Artifacts: A-2327, A-2327.1
 Mentions: N-40, N-54, N-136
@@ -767,11 +767,11 @@ Related Nodes: N-10826
 
 Investigative Direction: Compare this on-record concession against the state's preserved theory of the case and any superseding indictment.
 
-**C-3360** Count 5 is witness tampering for "delete this exchange" message
+**C-3360** Host Says Count 5 Is Witness Tampering for the "Delete This Exchange" Message
 
 Claim Timestamp: 00:04:11
 
-Claim: Count 5 of the information charges witness tampering based specifically on a "delete this exchange" text message to Lance Twiggs, distinct from Count 6.
+Claim: The host says Count 5 is also witness tampering but pertains strictly to the message in which Tyler Robinson allegedly told Lance Twiggs to "delete this exchange," a separate charge from Count 6.
 
 Anchored Artifacts: A-2327.1
 Mentions: N-40, N-54
@@ -784,7 +784,7 @@ Investigative Direction: Obtain the charging document to confirm the textual bas
 
 Claim Timestamp: 00:04:11
 
-Claim: The host says, and a clip she plays of the ruling shows, that the court permitted Count 6 to proceed by reference to Count 5, stating that the surrounding communications, including the alleged "delete this exchange" instruction, permit a reasonable inference of obstructive intent.
+Claim: The host says the court permitted Count 6 to proceed on the basis of Count 5, and in a clip she plays of the ruling the court says the surrounding communications, including the alleged "delete this exchange" instruction, permit a reasonable inference that the defendant intended Twiggs to withhold information from investigators.
 
 Anchored Artifacts: A-2327.1
 Mentions: N-40
@@ -821,7 +821,7 @@ Investigative Direction: Confirm docket entry; verify whether this waiver affect
 
 Claim Timestamp: 00:20:06
 
-Claim: In the post-shot sequence, Justin Davis (driver of the Lincoln Navigator) sprinted to and opened the passenger-side door of a vehicle he had not arrived in, alongside Blake Neff, who was also not a passenger of that vehicle.
+Claim: The host says that in footage she shows of the post-shot sequence, Justin Davis (driver of the Lincoln Navigator) sprinted to and opened the passenger-side door of a vehicle he had not arrived in, alongside Blake Neff, who was also not a passenger of that vehicle.
 
 Anchored Artifacts: A-2329.1
 Mentions: N-160, N-493
@@ -860,7 +860,7 @@ Investigative Direction: Compare frame-by-frame footage against cell-phone metad
 
 Claim Timestamp: 00:22:38
 
-Claim: As Kirk's vehicle departed for the hospital, a backpack fell from or was tossed from the trunk. Host speculates it is "Chris's bag" but states "not 100% certain."
+Claim: The host says that as Kirk's vehicle departed for the hospital, a backpack fell or was tossed from the trunk; she thinks it is "Chris's bag" but says she is "not 100% certain."
 
 Anchored Artifacts: A-2329.3
 Mentions: N-1
@@ -907,11 +907,11 @@ Related Nodes: N-10821, N-10822
 
 Investigative Direction: Cross-reference against security radio logs and Christopher's own timeline.
 
-**C-3371** Three security vehicles were left behind at UVU and not driven to the hospital
+**C-3371** Host Says Sources Told Her Three Security Vehicles Were Not Driven to the Hospital
 
 Claim Timestamp: 00:26:16
 
-Claim: The three security vehicles (the lead Jeep Wagoneer, the Lincoln Navigator, and the second Yukon Denali) were not driven to the hospital; the host states this is based on "sources with direct knowledge."
+Claim: The host says, citing "sources with direct knowledge," that the three security vehicles (the lead Jeep Wagoneer, the Lincoln Navigator, and the second Yukon Denali) were not driven to the hospital.
 
 Anchored Artifacts: A-2330, A-2329.1 (footage shows blocked-in configuration)
 Mentions:
@@ -959,7 +959,7 @@ Related Nodes: N-10824
 
 Investigative Direction: Confirm the post remains on X; verify timestamp; cross-reference Walsh's full thread for context.
 
-**C-3375** Host concurs that Walsh's framing mischaracterizes the defense argument
+**C-3375** Host Rejects Walsh's Framing of the Defense Argument
 
 Claim Timestamp: 00:39:42
 
@@ -976,7 +976,7 @@ Investigative Direction: This is a host-stance claim; verification would require
 
 Claim Timestamp: 00:40:25
 
-Claim: Viva Frei sent a tweet echoing the "lawyer justifying political assassination" framing. Host states she has blocked him.
+Claim: The host says Viva Frei sent a tweet echoing the "lawyer justifying political assassination" framing, and that she has blocked him.
 
 Anchored Artifacts: A-2333
 Mentions: N-334
@@ -1039,9 +1039,9 @@ Investigative Direction: Obtain the state's sentencing-enhancement motion and th
 
 **C-3381** Host Says State Has Not Identified Specific Kirk Statements Alleged to Be "Hateful"
 
-Claim Timestamp: 00:45:58
+Claim Timestamp: 00:47:11
 
-Claim: The host says the state's filings do not identify which specific statements by Charlie Kirk they contend are "hateful" toward the LGBTQ community, and she describes the defense as characterizing this as inferring upon an inference.
+Claim: The host says Tyler Robinson's lawyer is arguing that the state's filings do not identify which specific statements by Charlie Kirk they contend are "hateful" toward the LGBTQ community, and that the state is inferring upon an inference.
 
 Anchored Artifacts: A-2336, A-2337
 Mentions: N-40, N-1
@@ -1107,10 +1107,10 @@ Investigative Direction: Obtain Erika Kirk's call detail records; verify call ti
 
 Claim Timestamp: 00:54:25
 
-Claim: The "so much blood" claim attributed to Mikey McCoy did not originate with McCoy himself; the host says it came from his father, from Jack Hibbs and, she thinks, Frank Turek, i.e. "the pastor orbit." The host states McCoy never described seeing a lot of blood in his press.
+Claim: The host says the "so much blood" claim attributed to Mikey McCoy did not originate with McCoy himself; she says it came from his father, from Jack Hibbs and, she thinks, Frank Turek, i.e. "the pastor orbit," and that McCoy never described seeing a lot of blood in his press.
 
 Anchored Artifacts: A-2339
-Mentions: N-191, N-7, N-209
+Mentions: N-191, N-17, N-209, N-7
 
 Related Nodes: N-10823
 
@@ -1120,7 +1120,7 @@ Investigative Direction: Obtain McCoy's complete media appearances; obtain Hibbs
 
 Claim Timestamp: 01:04:00
 
-Claim: Brian Harpole, in a conversation with Shawn Ryan, stated that there were no threats the night before September 10 – a statement the host identifies as in tension with Kirk's prior-night communication of fear.
+Claim: The host says Brian Harpole, sitting down with Shawn Ryan, said there were no threats the night before September 10, which she presents as in tension with Kirk's prior-night communication of fear.
 
 Anchored Artifacts: A-2340 (host narrative; Shawn Ryan interview not displayed in this episode)
 Mentions: N-1, N-267, N-225
@@ -1133,7 +1133,7 @@ Investigative Direction: Locate the Shawn Ryan interview clip; obtain Harpole's 
 
 Claim Timestamp: 00:08:25
 
-Claim: The host asserts that the narrative that Tyler Robinson "confessed it to Mike Mitchell" is a "foundational lie" propagated by Pentagon influencers.
+Claim: The host says Pentagon influencers claimed Tyler Robinson "confessed it to Mike Mitchell," that none of that is true, and calls the confession narrative a "foundational lie."
 
 Anchored Artifacts: A-2328 (host assertion; no documentary anchor in this episode)
 Mentions: N-40, N-125
@@ -1146,10 +1146,10 @@ Investigative Direction: Identify the original source(s) of the Mitchell-confess
 
 Claim Timestamp: 00:08:25
 
-Claim: The host asserts that a narrative that Bill Ackman was "going to give him a million dollars" was "magically dropped" because "there was no truth and no substance."
+Claim: The host asserts that a narrative that Bill Ackman was "going to give him a million dollars," referring to Tyler Robinson's father, was dropped entirely because "there was no truth and no substance."
 
 Anchored Artifacts: A-2328 (host assertion; no documentary anchor in this episode)
-Mentions: N-40, N-37
+Mentions: N-37, N-40, N-778
 
 Related Nodes:
 
@@ -1564,7 +1564,7 @@ Investigative Direction: Identify who is making the claim and when it first appe
 
 Claim Timestamp: 00:16:50
 
-Claim: The host says the person Charlie Kirk's main security person arrived with that day was Christopher, the driver of Kirk's Denali.
+Claim: The host says Charlie Kirk's main security person, whom Kirk arrived with that day, was Christopher, the driver of Kirk's Denali.
 
 Transcript Snippet: Charlie's main security person who he shows up with is this person, Christopher.
 

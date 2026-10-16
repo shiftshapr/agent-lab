@@ -337,7 +337,10 @@
       "\\bFrank Church\\b",
       "Frank Turek",
       [
-        121
+        121,
+        127,
+        128,
+        129
       ]
     ],
     [
@@ -1188,10 +1191,7 @@
     ],
     [
       "\\bIngram Angle\\b",
-      "Ingraham Angle",
-      [
-        67
-      ]
+      "Ingraham Angle"
     ],
     [
       "\\bJennifer Fahlman\\b",
@@ -2396,7 +2396,9 @@
       "\\bLech\\b",
       "Laitsch",
       [
-        70
+        70,
+        96,
+        97
       ]
     ],
     [
@@ -2409,6 +2411,159 @@
     [
       "\\bEricaFrandsen\\b",
       "ErikaFrantzve"
+    ],
+    [
+      "\\bTarro Farnsworth\\b",
+      "Terryl Farnsworth"
+    ],
+    [
+      "\\bAJ Copp\\b",
+      "Jake Hoffman"
+    ],
+    [
+      "\\bLaura Ingram\\b",
+      "Laura Ingraham"
+    ],
+    [
+      "\\b(Norma Jean|Jimmy) Aids\\b",
+      "\\1 Ates"
+    ],
+    [
+      "\\bWi-Refi\\b",
+      "Yrefy"
+    ],
+    [
+      "\\bBaguer\\b",
+      "Bagur",
+      [
+        85
+      ]
+    ],
+    [
+      "\\bFrederick Vaglio\\b",
+      "Frédéric Vaglio"
+    ],
+    [
+      "\\bDaniel Balou\\b",
+      "Daniel Beaulieu"
+    ],
+    [
+      "\\bCarl Marx\\b",
+      "Karl Marx",
+      [
+        91
+      ]
+    ],
+    [
+      "\\bPrejean Bowler\\b",
+      "Prejean Boller"
+    ],
+    [
+      "\\bCarrie Preene Bowler\\b",
+      "Carrie Prejean Boller"
+    ],
+    [
+      "\\bRyan (?:Rippey|Rippien|Ripian)\\b",
+      "Ryan Rippeon"
+    ],
+    [
+      "\\b(?:Rippien|Ripian)\\b",
+      "Rippeon"
+    ],
+    [
+      "\\bDrewski\\b",
+      "Druski"
+    ],
+    [
+      "\\bEd Galvin\\b",
+      "Ed Gallrein"
+    ],
+    [
+      "\\bRichard Smallley\\b",
+      "Richard Smale"
+    ],
+    [
+      "\\bKristoff Schweizer\\b",
+      "Christoph Schweizer"
+    ],
+    [
+      "\\bH\\. Dwayne Anderson\\b",
+      "H. Duane Anderson"
+    ],
+    [
+      "\\bPenguitch\\b",
+      "Panguitch"
+    ],
+    [
+      "\\bBo Mason\\b",
+      "Beau Mason"
+    ],
+    [
+      "\\b(Tony|Judge) Graff\\b",
+      "\\1 Graf"
+    ],
+    [
+      "\\bDeidra Amaro\\b",
+      "Deirdre Amaro"
+    ],
+    [
+      "\\bAlan Robertson\\b",
+      "Allan Robertson"
+    ],
+    [
+      "\\bGordon Margolis\\b",
+      "Gordon Margulis"
+    ],
+    [
+      "\\bMel Stewart\\b",
+      "Mell Stewart",
+      [
+        130
+      ]
+    ],
+    [
+      "\\bArina Mappin\\b",
+      "Irina Mappin"
+    ],
+    [
+      "\\bGoldsbury\\b",
+      "Goldsberry"
+    ],
+    [
+      "\\bClaire Ginan\\b",
+      "Claire Guinan"
+    ],
+    [
+      "\\bDeGroot\\b",
+      "DeGroote"
+    ],
+    [
+      "\\bEmmanuel Beerer\\b",
+      "Emmanuel Bierer"
+    ],
+    [
+      "\\bBeerer\\b",
+      "Bierer",
+      [
+        14,
+        42
+      ]
+    ],
+    [
+      "\\bMaggie W(?:a|)gner\\b",
+      "Maggie Wegner"
+    ],
+    [
+      "\\bMags Wgner\\b",
+      "maggswegner"
+    ],
+    [
+      "\\bChantel Thuy\\b",
+      "Chantal Thuy"
+    ],
+    [
+      "\\bPam Lehman\\b",
+      "Pam Liebman"
     ]
   ]
 }

@@ -980,9 +980,10 @@ First named by the host at 00:39:19 in episode 93 as the arms dealer Epstein was
 
 Claim Timestamp: 00:02:09
 
-Claim: CBS News, citing a person familiar with the matter, reported the US Secret Service determined there were no credible threats to the Turning Point USA rally at the University of Georgia, including to the Vice President as protectee.
+Claim: Per the CBS News article the host shows, a person familiar with the matter said the US Secret Service determined there were no credible threats to the Turning Point USA rally at the University of Georgia and no known threats to the protectee, whom the host identifies as the Vice President.
 
 Anchored Artifacts: A-1981.1
+Mentions: N-4
 Contradicts: C-2724, C-2728
 
 Related Nodes: N-10617, N-10616
@@ -1115,7 +1116,7 @@ Investigative Direction: Authenticate the text-message screenshots (metadata, de
 
 Claim Timestamp: 00:37:17–00:38:02
 
-Claim: Host states the messages occurred in April 2025 (uncertainty noted: "I want to say it was April, but don't quote me on that. It was. Okay.")
+Claim: The host says she believes Corby said the messages were from sometime in April, checks with Skyler ("I want to say it was April, but don't quote me on that. It was. Okay."), and then states the conversation took place in April 2025.
 
 Anchored Artifacts: A-1988.1, A-1988.2, A-1988.3
 
@@ -1127,7 +1128,7 @@ Investigative Direction: Obtain message timestamps to confirm date precisely.
 
 **C-2754** Robert Maxwell provided $2 million toward Bain Capital's initial $37 million fund
 
-Claim Timestamp: 00:39:18–00:41:12
+Claim Timestamp: 00:40:43
 
 Claim: The host says that, apparently, a 2012 Los Angeles Times piece reported that Robert Maxwell contributed $2 million of the initial $37 million Bain Capital sought to raise, alongside other foreign investors.
 
@@ -1142,7 +1143,7 @@ Investigative Direction: Retrieve the underlying LA Times article and any SEC fi
 
 **C-2755** Host Says ATF Summary Found Cartridge Cases Matched Exhibit 1 Rifle
 
-Claim Timestamp: 00:41:38–00:45:48
+Claim Timestamp: 00:43:33
 
 Claim: Per the ATF summary the host shows and discusses, the cartridge cases matched the exhibit 1 rifle.
 
@@ -1182,13 +1183,14 @@ Investigative Direction: Track subsequent filings and any defense challenges to 
 
 ---
 
-**C-2758** TPUSA insider acknowledges cancellation was not solely security-related
+**C-2758** Daily Mail Insider Says Cancellation Was Not Solely Security-Related
 
-Claim Timestamp: 00:18:55–00:22:20
+Claim Timestamp: 00:21:10
 
-Claim: A TPUSA insider, quoted in the Daily Mail, stated: "She pulled out of the TPUSA event because of a bunch of factors. I don't think it was just security concerns… If there were security concerns, the vice president wouldn't have gone."
+Claim: Per the Daily Mail article the host reads, an insider stated: "She pulled out of the TPUSA event because of a bunch of factors. I don't think it was just security concerns… If there were security concerns, the vice president wouldn't have gone."
 
 Anchored Artifacts: A-1991.1
+Mentions: N-2, N-4
 
 Related Nodes: N-10616
 
@@ -1203,6 +1205,7 @@ Claim Timestamp: 00:21:34–00:22:20
 Claim: The same Daily Mail insider stated: "It wasn't just the ticket sales, either. It was also mental exhaustion of like nothing I do will be right and people will make fun of me, so she canceled."
 
 Anchored Artifacts: A-1991.2
+Mentions: N-2
 
 Related Nodes: N-10616
 
@@ -1210,7 +1213,7 @@ Investigative Direction: Cross-reference with venue ticketing data and corrobora
 
 ---
 
-**C-2760** Viewer claims Amir Tsarfati was first to learn of the shooting
+**C-2760** Viewer Comment Says They First Heard the News From Amir Tsarfati
 
 Claim Timestamp: 00:28:57–00:29:30
 
@@ -1227,9 +1230,9 @@ Investigative Direction: Obtain request for verbatim or original-source document
 
 **C-2761** Host concurs with Elizabeth Lane's prior assessment of Erika Kirk
 
-Claim Timestamp: 00:15:01–00:17:09
+Claim Timestamp: 00:16:24
 
-Claim: Host explicitly endorses Elizabeth Lane's prior post that "Erika Kirk exhibits the attributes of a psychopath," characterizing Erika's pattern of public blame-shifting as "malevolent."
+Claim: Host explicitly endorses Elizabeth Lane's prior post that, in Lane's opinion, "Erika Kirk exhibits the attributes of a psychopath," characterizing Erika's directing her PR team to blame the public as "malevolent."
 
 Anchored Artifacts: (verbal reference only to artifact from prior episode – Lane's X post)
 Mentions: N-2, N-6
@@ -1279,7 +1282,7 @@ Claim: The host says Victor Marx's early post announcing Charlie Kirk's death wa
 Transcript Snippet: In a post that he subsequently deleted, he left it up actually for quite a long time
 
 Anchored Artifacts: 
-Mentions: N-342, N-3
+Mentions: N-342, N-3, N-1
 Related Nodes: N-10622
 Tags: relevance:core
 Investigative Direction: Archive captures (Wayback, screenshots with timestamps) of the post and its deletion time; ask Marx when and why it was removed.
@@ -1527,7 +1530,7 @@ Claim: The host reads a Daily Mail article in which a close confidant says Erika
 Transcript Snippet: The Druski video showed her what people thought of her. She's really hurt that people are feeling this way about her, that they're mocking her.
 
 Anchored Artifacts: A-1991.1
-Mentions: N-597, N-2, N-3
+Mentions: N-597, N-2, N-3, N-1
 Related Nodes: N-10070, N-10616
 Tags: relevance:core
 Investigative Direction: Obtain the Daily Mail article and identify the confidant; confirm the date and content of the Druski video.
@@ -1560,7 +1563,7 @@ Claim: The host reads the Daily Mail insider saying Erika told them she was putt
 Transcript Snippet: She says that she was putting on a face, a brave face, and that's why she was doing what she was doing. I agree that it was a bad look. Everyone told her it was a bad look, but she did it anyway.
 
 Anchored Artifacts: A-1991.2
-Mentions: N-2
+Mentions: N-2, N-1
 Related Nodes: N-10443, N-10070
 Tags: relevance:core
 Investigative Direction: Identify the insider; collect the advice Erika reportedly received about her public appearances.
@@ -1643,7 +1646,7 @@ Claim: The host says that, like Marx, Bibi Netanyahu knew a little too soon that
 Transcript Snippet: it's kind of like how Bebe knew a little too soon that he had been shot, commented too soon just before the President of the United States
 
 Anchored Artifacts: 
-Mentions: N-36, N-1
+Mentions: N-36, N-1, N-342, N-5
 Related Nodes: N-10622
 Tags: relevance:core
 Investigative Direction: Retrieve the time of Netanyahu's statement or post about the shooting and compare it with the first official US confirmation.
@@ -1783,11 +1786,11 @@ Investigative Direction: Obtain Corby Hall's account and any written exchange ab
 
 ---
 
-**C-11467** Marx Text Says the State of Colorado Might Want to Know Who Corby Is
+**C-11467** Host Says the State of Colorado Might Want to Know Who Marx Is
 
 Claim Timestamp: 00:36:10
 
-Claim: In the message the host reads, Victor Marx tells Corby he does not know all of who Marx is and adds that the state of Colorado might want to know all of who Corby is.
+Claim: In the message the host reads, Victor Marx tells Corby he does not know all of who Marx is; the host then comments that she would like to know all of who Marx is and that the state of Colorado might want to know all of who he is.
 
 Transcript Snippet: I think the state of Colorado might want to know all of who you are.
 
@@ -1901,16 +1904,16 @@ Investigative Direction: Retrieve the 2012 Los Angeles Times article and Bain Ca
 
 ---
 
-**C-11474** Host Says Maxwell Was Then Best Friends With Netanyahu and Romney and Netanyahu Were at BCG
+**C-11474** Host Says Romney Was Then Best Friends With Netanyahu at BCG
 
 Claim Timestamp: 00:40:19
 
-Claim: The host says Robert Maxwell was best friends at that time with Netanyahu and that Mitt Romney and Netanyahu were at Boston Consulting Group while Romney was struggling to raise money for Bain Capital.
+Claim: The host says Mitt Romney was best friends at that time with Netanyahu, that Romney and Netanyahu were at Boston Consulting Group, and that Romney was struggling to raise money for Bain Capital.
 
 Transcript Snippet: And then he's best friends at this time with Netanyahu? Mitt Romney, they're at Boston Consulting Group
 
 Anchored Artifacts: A-1989
-Mentions: N-48, N-36, N-28
+Mentions: N-36, N-28
 Related Nodes: N-10619, N-10574
 Tags: relevance:context
 Investigative Direction: Check biographical records on whether Netanyahu and Romney overlapped at BCG and on documented Maxwell-Netanyahu ties.
@@ -1959,7 +1962,7 @@ Claim: The host says she believes the gun was dropped off, maybe the day before 
 Transcript Snippet: maybe the day before or on September 10th, that gun was dropped off and then it was found.
 
 Anchored Artifacts: 
-Mentions: N-54, N-40
+Mentions: N-40
 Related Nodes: N-11054, N-10621, N-10598
 Supports: C-2763
 Tags: relevance:core
@@ -1976,7 +1979,7 @@ Claim: The host says the ATF summary verifies exactly what the defense laid out 
 Transcript Snippet: it just basically verifies exactly what the defense laid out in their filing, that all they got was this. They got a summary report
 
 Anchored Artifacts: A-1990
-Mentions: N-40
+Mentions: N-3
 Related Nodes: N-10620
 Tags: relevance:core
 Investigative Direction: Compare the defense filing with the ATF summary text and any discovery cover letters.
@@ -2120,9 +2123,9 @@ Investigative Direction: Obtain TPUSA compensation and payroll records for Flood
 
 Claim Timestamp: 00:50:57
 
-Claim: The host says Baron Coleman said on his show that Erika canceled the appearance because of Druski, since everyone was saying this is what the world thinks of her.
+Claim: The host says Baron Coleman said on his show that he thinks Erika canceled the appearance because of Druski, since everyone was saying this is what the world thinks of her.
 
-Transcript Snippet: It's actually funny cuz Baron clocked that on his show last night. He was like, I think she canceled the appearance because of Drewski.
+Transcript Snippet: It's actually funny cuz Baron clocked that on his show last night. He was like, I think she canceled the appearance because of Druski.
 
 Anchored Artifacts: 
 Mentions: N-331, N-597, N-2

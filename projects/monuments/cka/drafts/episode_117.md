@@ -550,7 +550,7 @@ First named by the host at 00:24:24 in episode 117. Andrew Kolvet's brother ("An
 
 **N-692** Laura Ingraham
 
-First named by the host at 00:38:48 in episode 117 (transcript spelling "Laura Ingram"). Host of the show on which the Kolvet necklace clip aired.
+First named by the host at 00:38:48 in episode 117 (transcript spelling "Laura Ingraham"). Host of the show on which the Kolvet necklace clip aired.
 
 *Related: A-2677.3*
 
@@ -1343,7 +1343,7 @@ Investigative Direction: Pull FAA and Romanian civil aviation registry history f
 
 Claim Timestamp: 00:23:15
 
-Claim: The host says that in late 2012 Erika Kirk began her Romanian Angels Project, working in some capacity with "Otto Busher" and partnering with the US Marines on a Marine base.
+Claim: The host says that in late 2012 Erika Kirk began her Romanian Angels Project, working in some capacity with "Otto Busher" and, as Erika says, partnering with the US Marines on a Marine base.
 
 Transcript Snippet: In late 2012, we all we know uh that Erika begins her Romanian Angels Project
 
@@ -1705,12 +1705,12 @@ Investigative Direction: Compare public examples of Erika Kirk's signature over 
 
 Claim Timestamp: 00:49:54
 
-Claim: Answering a viewer comment, the host says the professional paver had never heard of a "paver emergency." She adds that he decided to speak out after wondering whether he was part of a cover-up, given that a team had removed the soil before he was brought in to pave.
+Claim: Answering a viewer comment that quotes the paver's question "what's a paver emergency?", the host says that if a professional paver has never heard of a "paver emergency," something is out of order. She adds that the paver, Dan Merrill, decided to speak out after wondering whether he was part of a cover-up, given that a team had removed the soil before he was brought in to pave.
 
 Transcript Snippet: if a professional paver has never heard of a paver emergency, then something is out of order.
 
 Anchored Artifacts: A-2688.1
-Mentions: 
+Mentions: N-686
 Related Nodes: N-10107
 Investigative Direction: Obtain the work order and call-out record showing who requested the emergency paving and on what authority.
 
@@ -1746,7 +1746,7 @@ Investigative Direction: File FOIA requests with the Department of War and the W
 
 ---
 
-**C-4716** DIA: the $10,000 bounty has still not identified who recorded the Erika Kirk WHCD video
+**C-4716** The $10,000 Bounty Has Still Not Identified Who Recorded the Erika Kirk WHCD Video
 
 Claim Timestamp: 00:54:23
 
@@ -1766,7 +1766,7 @@ Investigative Direction: Archive the bounty terms and any tips received, and tra
 
 Claim Timestamp: 00:55:02
 
-Claim: The host says that in his filing against her, Brian Harpole asserted that he or someone else called 911. She says she has not seen such a call in the released 911 recordings.
+Claim: The host says that in his filing against her, Brian Harpole asserted, she thinks, that he or someone else called 911. She says she has not seen such a call in the released 911 recordings.
 
 Transcript Snippet: Ryan Harpole asserted I think he asserted that he called 911 or someone called 911. That I have not seen that in the released 911 recordings.
 
@@ -2009,7 +2009,7 @@ Confidence: high
 - **DIA scan**: one real DIA beat, the $10,000 bounty at 00:54:23 (C-4716, A-2690.1, M-12). The "very nice tip" at 00:52:57 is a viewer's monetary chat tip (Zammit) and was not treated as a DIA beat. The host's account of the flood of emails from audio professionals (09:48, 12:50) contains none of the DIA trigger phrases and is handled as C-4667/C-4671, not as DIA. No Candace Intelligence Agency merch phrase airs, so M-14 is not used.
 - **Artifacts verbally referenced but not shown**: A-2681.1 (host's phone call with Terryl Farnsworth), A-2689.1 (WHCD "emotional asset" email) and A-2690.1 (the $10,000 bounty). The "graphic" (A-2678.1) and the science article (A-2678.2) are described as shown, but their text is only partly read.
 - **Speaker uncertainty in clips**: the necklace clips at 01:20–03:22 are not labelled in the transcript. A-2677.1 appears to be Erika Kirk. A-2677.2 appears to be Frank Turek (consistent with prior C-1962). A-2677.3 is identified as Andrew Kolvet on Laura Ingraham's show only by the host's later remark at 38:48.
-- **Name matching**: "Tyler Bowyer" mapped to N-11 Tyler Bowyer. "Andrew Corbett" (24:24) and "Andrew Kolvet" (55:47) mapped to N-14 Andrew Kolvet from context. "Andrew Cypher" mapped to N-332 Andrew Sypher. "Blakey Naft" mapped to N-160 Blake Neff. "Ryan Harpole" mapped to N-267 Brian Harpole. "Tara", "Taro", "Carol" and "Turrell" Farnsworth mapped to N-262. "Soder" / "Soteria" Global Ministries treated as Soter Global Ministries (N-10989), the spelling the host also uses. "Colonel Otto Busher" (N-690) is kept in transcript spelling; the true name is unverified. "Curtis" is minted as Curtis Kolvet (N-691) on the brother relationship alone. "Laura Ingram" is minted as Laura Ingraham (N-692); she has no row in nodes.tsv.
+- **Name matching**: "Tyler Bowyer" mapped to N-11 Tyler Bowyer. "Andrew Corbett" (24:24) and "Andrew Kolvet" (55:47) mapped to N-14 Andrew Kolvet from context. "Andrew Cypher" mapped to N-332 Andrew Sypher. "Blakey Naft" mapped to N-160 Blake Neff. "Ryan Harpole" mapped to N-267 Brian Harpole. "Tara", "Taro", "Carol" and "Turrell" Farnsworth mapped to N-262. "Soder" / "Soteria" Global Ministries treated as Soter Global Ministries (N-10989), the spelling the host also uses. "Colonel Otto Busher" (N-690) is kept in transcript spelling; the true name is unverified. "Curtis" is minted as Curtis Kolvet (N-691) on the brother relationship alone. "Laura Ingraham" is minted as Laura Ingraham (N-692); she has no row in nodes.tsv.
 - **Not minted**: "Rick", "Dan" and "Justin" in Harpole's clip (possibly Rick Cutler, Dan Flood and a Justin, who exist in nodes.tsv, but not confirmed from this transcript); Druski ("Druski", no row in nodes.tsv; staging episode 084 mints him as N-686); Ivanka Trump (joke only, used for meme M-109); Natalia (orphan, no surname); Dana Loesch ("Dana Loesch", rhetorical mention only); Tucker Carlson and Baron Coleman (mentions without a claim); Nissy and the Erika Jayne Girardi signature misreading (joke).
 - **Transcription ambiguities**: "Loews E building" (kept as spoken), "road mic" / "road bike" for Rode mic, ".30-ought-six" / ".30-06", "first day date", "Teen Miss America crown" (the title is unverified), "headedtocannasoans. com" (merch URL).
 - **Meme spelling for the integrator**: staging has three titles for the same merch joke ("Stop Anti-Candism" in 112, "Stop Anti-Candaceism" in 111, "Anti-Candacism" in 113); M-107 follows 113 and the transcript spelling. M-109 reuses "Ivanka the Explorer" and M-103 reuses "Snakes in Charlie's Garden" from staging.

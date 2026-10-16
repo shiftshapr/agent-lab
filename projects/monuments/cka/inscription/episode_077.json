@@ -231,7 +231,7 @@
           "@type": "Artifact",
           "@id": "A-1829.1",
           "ref": "A-1829.1",
-          "description": "Arizona SB 1439: Charlie Kirk Memorial Specialty License Plate bill (introduced by AJ Copp; pushed by Jake Hoffman)",
+          "description": "Arizona SB 1439: Charlie Kirk Memorial Specialty License Plate bill (introduced by Jake Hoffman; pushed by Jake Hoffman)",
           "related_claims": [
             "C-2444",
             "C-2452"
@@ -607,7 +607,7 @@
       "@type": "Person",
       "@id": "N-580",
       "ref": "N-580",
-      "name": "AJ Copp",
+      "name": "Jake Hoffman",
       "type": "person",
       "description": "Introduced SB 1439 in the Arizona House on January 28 (year implied 2026).",
       "related_artifacts": [
@@ -1566,7 +1566,7 @@
         "N-10528"
       ],
       "tags": [],
-      "claim_timestamp": "00:23:16",
+      "claim_timestamp": "00:23:00",
       "investigative_direction": "Capture the full social-media exchange for context; verify Bowyer's claimed academic program at ASU; cross-reference against the 2010 Romanian consulate / lectorate timeline.",
       "mentions_person_refs": [
         "N-11"
@@ -1995,7 +1995,7 @@
       "@id": "C-11194",
       "ref": "C-11194",
       "label": "Source describes agencies packing young models into one apartment",
-      "claim": "The host quotes a source saying that when younger girls first get to New York City, agencies pack them like cattle into one apartment, and says this is typical practice in the modeling world.",
+      "claim": "The host says her sources confirm it was typical for modeling agencies to find places for girls to stay in New York, and quotes a source saying, \"Younger girls, when they first get to New York City, they pack them in like cattle into one apartment.\"",
       "anchored_artifacts": [
         "A-3122.1"
       ],
@@ -2559,8 +2559,8 @@
       "@type": "Claim",
       "@id": "C-11220",
       "ref": "C-11220",
-      "label": "AJ Copp introduced the plate bill on January 28",
-      "claim": "The host says AJ Copp introduced a bill on January 28 for a state license plate to honor Charlie Kirk.",
+      "label": "Jake Hoffman Introduced the Plate Bill on January 28",
+      "claim": "The host says Jake Hoffman introduced a bill on January 28 for a state license plate to honor Charlie Kirk.",
       "anchored_artifacts": [
         "A-1829.1"
       ],
@@ -2572,9 +2572,9 @@
       ],
       "claim_timestamp": "00:30:42",
       "investigative_direction": "Confirm the introduction date and sponsors on the Arizona Legislature bill history for SB 1439.",
-      "transcript_snippet": "AJ Copp back on January 28th introduced a bill for a state license plate to honor Charlie Kirk.",
+      "transcript_snippet": "Jake Hoffman back on January 28th introduced a bill for a state license plate to honor Charlie Kirk.",
       "mentions_person_refs": [
-        "N-580",
+        "N-578",
         "N-1"
       ]
     },

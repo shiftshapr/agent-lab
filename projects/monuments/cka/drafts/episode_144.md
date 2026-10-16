@@ -41,13 +41,13 @@ Episode 144 Ledger Summary:
 - Claim Range: C-3313–C-3325
 - New Nodes Introduced (people): none (Wave 2: local ids removed)
 - New Nodes Introduced (investigation targets): N-10810, N-10811, N-10812, N-10813
-- Existing Nodes Reused: Recurring figures (Charlie Kirk, Erika Kirk, Tyler Robinson, Tyler Bowyer, Terryl Farnsworth, Philip Goldsbury, Andrew Kolvet, Blake Neff, Allan Robertson, etc.) – see Optional Flags
+- Existing Nodes Reused: Recurring figures (Charlie Kirk, Erika Kirk, Tyler Robinson, Tyler Bowyer, Terryl Farnsworth, Philip Goldsberry, Andrew Kolvet, Blake Neff, Allan Robertson, etc.) – see Optional Flags
 
 ---
 
 ## II. Executive Summary
 
-Episode 144 advances two parallel investigative threads: (1) chain-of-custody concerns surrounding Terryl Farnsworth's handling of the camera SD card within minutes of Charlie Kirk's shooting, supported by freshly displayed footage of Terryl on his laptop and his interaction with Philip Goldsbury, and (2) the modification of the aspect ratio in the 20-minute sizzle reel played at the preliminary hearing, supported by displayed footage in normal and slow-motion and by an emailed statement from an anonymous federal court employee. The episode also presents direct audio from a TPUSA-affiliated podcast (Andrew Kolvet and Blake Neff's "Beavis and Butt-Head" show with guest Andrew Wilson), capturing Kolvet's claims that Candace conceded the debate and threatened to "burn down" TPUSA, and Wilson's on-air pushback against Kolvet's "Hitler apologist" framing. A November 2023 clip of Charlie Kirk calling Candace "on our team" is replayed as counter-evidence to claims that the friendship ended in 2018. The episode's structural importance lies in its juxtaposition of new forensic-style footage (laptop activity, aspect-ratio demonstration) against contemporaneous Kolvet text/call artifacts, reinforcing the investigation's claim that TPUSA insiders are the source of the framing Candace is accused of holding.
+Episode 144 advances two parallel investigative threads: (1) chain-of-custody concerns surrounding Terryl Farnsworth's handling of the camera SD card within minutes of Charlie Kirk's shooting, supported by freshly displayed footage of Terryl on his laptop and his interaction with Philip Goldsberry, and (2) the modification of the aspect ratio in the 20-minute sizzle reel played at the preliminary hearing, supported by displayed footage in normal and slow-motion and by an emailed statement from an anonymous federal court employee. The episode also presents direct audio from a TPUSA-affiliated podcast (Andrew Kolvet and Blake Neff's "Beavis and Butt-Head" show with guest Andrew Wilson), capturing Kolvet's claims that Candace conceded the debate and threatened to "burn down" TPUSA, and Wilson's on-air pushback against Kolvet's "Hitler apologist" framing. A November 2023 clip of Charlie Kirk calling Candace "on our team" is replayed as counter-evidence to claims that the friendship ended in 2018. The episode's structural importance lies in its juxtaposition of new forensic-style footage (laptop activity, aspect-ratio demonstration) against contemporaneous Kolvet text/call artifacts, reinforcing the investigation's claim that TPUSA insiders are the source of the framing Candace is accused of holding.
 
 ---
 
@@ -64,7 +64,7 @@ Confidence Level: Medium (footage shown; SD-card interpretation is host read)
 
 *Related: C-3313, C-3314*
 
-**A-2301.2** Footage: Terryl showing his laptop screen to Philip Goldsbury at the crime scene
+**A-2301.2** Footage: Terryl showing his laptop screen to Philip Goldsberry at the crime scene
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:02:00–00:04:10
@@ -342,7 +342,7 @@ Investigative Pressure: High
 
 **N-10812** Terryl Farnsworth Evidence-Handling Question
 
-Persistent target concerning Terryl's stated intent, sequence of actions, and consultation with Philip Goldsbury in the immediate aftermath of the shooting.
+Persistent target concerning Terryl's stated intent, sequence of actions, and consultation with Philip Goldsberry in the immediate aftermath of the shooting.
 
 Evidence Count: 2
 Claim Count: 1
@@ -717,18 +717,18 @@ Investigative Direction: Obtain the original raw footage and forensic metadata t
 
 ---
 
-**C-3314** Host Says Footage Shows Terryl Showing Laptop Content to Philip Goldsbury Shortly After the Shooting
+**C-3314** Host Says Footage Shows Terryl Showing Laptop Content to Philip Goldsberry Shortly After the Shooting
 
 Claim Timestamp: 00:02:00–00:04:10
 
-Claim: The host says the episode footage shows Terryl Farnsworth displaying content on his laptop screen to Philip Goldsbury approximately 10 minutes after Charlie Kirk was hit.
+Claim: The host says the episode footage shows Terryl Farnsworth displaying content on his laptop screen to Philip Goldsberry approximately 10 minutes after Charlie Kirk was hit.
 
 Anchored Artifacts: A-2301.2
-Mentions: N-262, N-1
+Mentions: N-262, N-1, N-688
 
 Related Nodes: N-10812
 
-Investigative Direction: Identify and interview Philip Goldsbury regarding the content shown; obtain his contemporaneous account.
+Investigative Direction: Identify and interview Philip Goldsberry regarding the content shown; obtain his contemporaneous account.
 
 ---
 
@@ -736,10 +736,10 @@ Investigative Direction: Identify and interview Philip Goldsbury regarding the c
 
 Claim Timestamp: 00:04:20–00:04:50
 
-Claim: In a clip the host plays, Ana Kasparian says, based on David Hull's preliminary-hearing testimony, that Terryl Farnsworth did not provide the original SD card to investigators, only Google links and a flash drive.
+Claim: In a clip the host plays, Ana Kasparian says, based on preliminary-hearing testimony, that Terryl Farnsworth did not provide the original SD card to investigators, only Google links and a flash drive.
 
 Anchored Artifacts: A-2302.1, A-2304.1
-Mentions: N-262, N-204, N-570
+Mentions: N-262, N-204
 
 Related Nodes: N-10810
 
@@ -762,14 +762,14 @@ Investigative Direction: Obtain the preliminary-hearing transcript and confirm t
 
 ---
 
-**C-3317** Mark Bricker testified the Utah County Attorney's Office created the 20-minute sizzle reel
+**C-3317** Host Says Hearing Testimony Named the Utah County Attorney's Office as Maker of the Sizzle Reel
 
 Claim Timestamp: 00:18:30–00:19:30
 
-Claim: SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office, not he, created the 20-minute sizzle reel shown in court.
+Claim: The host says a witness at the preliminary hearing testified that the Utah County Attorney's Office created the 20-minute sizzle reel, and in a clip she plays the witness says he did not prepare the video compilation and that the Utah County Attorney's Office did.
 
 Anchored Artifacts: A-2304.2
-Mentions: N-581
+Mentions: N-3
 
 Related Nodes: N-10810, N-10811
 
@@ -854,7 +854,7 @@ Investigative Direction: Locate the original Candace clip being referenced; tran
 
 Claim Timestamp: 00:39:50–00:41:00
 
-Claim: A November 2023 clip of Charlie Kirk shows him saying Candace is "on our team" and telling a critic asking about her AmFest appearance to "lose my number."
+Claim: In a clip the host plays and dates to November 2023, Charlie Kirk says Candace is "on our team" and that he told a critic asking about her AmFest appearance to "lose my number."
 
 Anchored Artifacts: A-2307.1
 Mentions: N-1
@@ -867,9 +867,9 @@ Investigative Direction: Obtain the full unedited segment; note any surrounding 
 
 **C-3324** Andrew Kolvet briefed Candace on Bill Ackman summit, BB Netanyahu letter, and Charlie's texts to Dan Flood
 
-Claim Timestamp: 00:51:00–00:54:00
+Claim Timestamp: 00:50:35
 
-Claim: Text messages and calls between Candace and Andrew Kolvet from September 11–14, 2025 show Kolvet briefing Candace on the Bill Ackman summit, the BB Netanyahu letter, and Charlie Kirk's text messages to Dan Flood the night before.
+Claim: The host says that in phone conversations around September 12-14, 2025, Andrew Kolvet told her about the Bill Ackman summit, Benjamin Netanyahu's letter, and Charlie Kirk's text messages to Dan Flood and Kolvet the night before; she shows a call log and text messages.
 
 Anchored Artifacts: A-2308.1, A-2308.2
 Mentions: N-14, N-1, N-36, N-271, N-37
@@ -897,9 +897,9 @@ Investigative Direction: Read with C-3324; match the text-message exports under 
 
 ---
 
-**C-3325** Kolvet told Candace on September 14, 2025 that the TPUSA board had voted in Erika Kirk
+**C-3325** Host Says Kolvet Told Her on September 14, 2025 That the TPUSA Board Had Voted In Erika Kirk
 
-Claim Timestamp: 00:51:00–00:54:00
+Claim Timestamp: 00:53:15
 
 Claim: The host says that on September 14, 2025 Andrew Kolvet told her the TPUSA board had already voted in Erika Kirk, said not to say it yet, and that it was not being announced publicly.
 
@@ -980,7 +980,7 @@ Claim: The host says the Utah code defines tampering with evidence as altering, 
 Transcript Snippet: altering, destroying, concealing, or removing a thing or item with the purpose of impairing its veracity or availability of the thing or item in the proceeding or investigation.
 
 Anchored Artifacts: 
-Mentions: N-262, N-3
+Mentions: N-3
 Related Nodes: N-10810
 Investigative Direction: Check the quoted wording against the current Utah evidence-tampering statute and its felony grading.
 
@@ -1555,7 +1555,7 @@ Investigative Direction: Obtain wedding photos or guest records showing the Kirk
 
 Claim Timestamp: 00:38:50
 
-Claim: The host says the clip Neff refers to is Charlie Kirk discussing their friendship in November 2023.
+Claim: The host says the clip of Blake Neff mentioned on the Kolvet/Neff show is Charlie Kirk discussing their friendship in November 2023.
 
 Transcript Snippet: that clip that he's referring to is Charlie discussing our friendship in November of 2023.
 
@@ -1645,7 +1645,7 @@ Investigative Direction: Date the first meeting and job offer from messages or c
 
 Claim Timestamp: 00:45:14
 
-Claim: Andrew Kolvet says the host canceled a TPUSA event the day before, that the event team had to scramble to replace her, and that she ended up in like France with Kanye or something the next day.
+Claim: Andrew Kolvet says he thinks the host canceled a TPUSA event the day before, that the event team had to scramble to replace her, and that she ended up in like France with Kanye or something the next day.
 
 Transcript Snippet: she canled an event with us and our event team still tells this story you know like the day before and we had to scramble to get it replaced
 
@@ -1681,7 +1681,7 @@ Claim: The host says she went to France and wore the White Lives Matter shirt on
 Transcript Snippet: Everyone remembers the moment that I went to France and I wore the White Lives Matter t-shirt.
 
 Anchored Artifacts: 
-Mentions: N-3, N-27
+Mentions: N-3
 Related Nodes: N-11072
 Investigative Direction: Match photos of the trip with the date of the TPUSA event she cancelled.
 
@@ -1779,7 +1779,7 @@ Investigative Direction: Ask Kolvet to specify whom he meant and what she said.
 
 Claim Timestamp: 00:49:26
 
-Claim: The host says she said early on that the idea that Ben Shapiro wants to take over Turning Point USA because he said to pick up the mic is wrong, and that this is on record.
+Claim: The host says she said early on that the idea that Ben Shapiro wants to take over Turning Point USA because he said to pick up the mic is wrong, that this is on record, and that she now has a different opinion.
 
 Transcript Snippet: I said I think people that all think that Ben Shapiro because he said pick up the bloody mic wants to take over Turning Point USA. I said I think that that's just wrong.
 
@@ -2337,8 +2337,8 @@ Confidence: high
 
 ## VII. Optional Flags
 
-- **Name uncertainty:** "Terryl Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kolvet" and "Kolvet"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Alan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Knowles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
-- **Wave 1 reconciliation:** Terryl Farnsworth is N-262, Andrew Kolvet is N-14, Blake Neff is N-160, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-10141.. never denoted these people and claim references were retargeted.
+- **Name uncertainty:** "Terryl Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsberry" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kolvet" and "Kolvet"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Allan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Knowles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
+- **Wave 1 reconciliation:** Terryl Farnsworth is N-262, Andrew Kolvet is N-14, Blake Neff is N-160, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsberry and David Hull have no CKA person node. The topic ids N-10141.. never denoted these people and claim references were retargeted.
 - **Likely-existing investigation targets flagged:** N-10810 (SD card chain of custody), N-10811 (aspect ratio modification), N-10812 (Terryl handling), N-10813 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
 - **Anonymous source:** A-2303.1 (federal-court employee email) is anonymous; the host explicitly preserves the sender's anonymity. Treat C-3319 as a single-source claim until corroborated.
 - **Transcript ambiguity:** The "Beavis and Butt-Head" podcast name is used by the host as a pejorative descriptor for the Kolvet/Neff show; it is unclear whether this is also the show's actual title or solely a rhetorical label.

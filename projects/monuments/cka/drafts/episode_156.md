@@ -669,7 +669,7 @@ Investigative Direction: Compare against a full video walkthrough of the parking
 
 Claim Timestamp: 00:18:05
 
-Claim: Per the search warrant as read, Agent Draney (USBI) obtained records and video footage from the Quick Quack Car Wash showing Tyler Robinson's vehicle arriving at approximately 12:57 PM; the footage has not been released to the public.
+Claim: Per the search warrant the host reads, Agent Draney (USBI) obtained records and video footage from the Quick Quack Car Wash showing Tyler Robinson's vehicle arriving at approximately 12:57 PM; the host says the footage has never been shown to the public.
 
 Anchored Artifacts: A-2421.2
 Mentions: N-40
@@ -714,7 +714,7 @@ Investigative Direction: Pull the actual preliminary-hearing / probable-cause tr
 
 Claim Timestamp: 00:32:40
 
-Claim: The host says that during Netanyahu's address to the UN General Assembly, a substantial number of delegates walked out as he took the stage.
+Claim: The host says that during Netanyahu's address to the UN General Assembly, the majority of the delegates walked out as soon as he took the stage.
 
 Anchored Artifacts: A-2422.1, A-2422.2, A-2422.3
 Mentions: N-36
@@ -728,7 +728,7 @@ Investigative Direction: Cross-reference UN press records, AP/Reuters coverage, 
 
 Claim Timestamp: 00:04:47
 
-Claim: A person seen in the post-Big-Bang footage chanting "USA, USA" – and later returning to take a hat – is the same person who subsequently spoke to news media.
+Claim: The host says that in footage immediately after the Big Bang, a group stood up and chanted "USA, USA", that a man from that group comes back to take a hat, and that a man in the bottom right quadrant is someone who later speaks to the news.
 
 Anchored Artifacts: A-2417.1, A-2417.2
 
@@ -843,7 +843,7 @@ Investigative Direction: Compare the cropped clip from the prior episode with th
 
 ---
 
-**C-7778** Host Says Person by the Van Was Wearing Red
+**C-7778** Host Says Club President Chilcutt Was Wearing Red That Day
 
 Claim Timestamp: 00:01:40
 
@@ -1382,7 +1382,7 @@ Claim: The host says she needs to sit down, assemble the timeline and list clear
 Transcript Snippet: I really think that I need to sit down, get this timeline together, and have a clear list of questions
 
 Anchored Artifacts: 
-Mentions: N-3, N-331
+Mentions: N-3
 Tags: relevance:context
 Investigative Direction: Check for the promised timeline and question list.
 

@@ -1,0 +1,267 @@
+[
+ {
+  "claim": "C-2566",
+  "episode": 83,
+  "decision": "reject",
+  "fix": {
+   "claim": "The host says that, per Elizabeth McCoy's alleged narrative, they raced to the hospital without waiting for Andrew Kolvet (though the host notes Kolvet's account says they did wait), Mikey McCoy met them outside, and Elizabeth went in with Erika to see Charlie's body for the first time.",
+   "label": "Host Says Mikey McCoy Met the Group Outside the Hospital and Elizabeth Accompanied Erika to View Charlie's Body",
+   "timestamp": "00:18:43"
+  },
+  "note": "HELD for Daveed. Proposed 'which she says' wrongly makes it Elizabeth's view; the Kolvet aside is the host's. The narrative starts at about 18:48, so the timestamp moves to 18:43."
+ },
+ {
+  "claim": "C-2567",
+  "episode": 83,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:22:50",
+   "claim": "The host says a Hopkinson Aircraft employee she spoke with would neither confirm nor deny seeing Erika Kirk at their offices on September 10, 2025."
+  },
+  "note": "'Clammed up... I will not confirm or deny' starts at the 22:58 block, and the claim is the host relaying the call."
+ },
+ {
+  "claim": "C-3795",
+  "episode": 84,
+  "decision": "reject",
+  "fix": {
+   "claim": "The host says Marina Minas asked Aubrey to draft the death statement and said Andrew Kolvet was on a plane.",
+   "label": "Marina Minas asked Aubrey to draft the death statement because Kolvet was on a plane",
+   "names": [
+    {
+     "wrong": "Marina Medvin",
+     "right": "Marina Minas",
+     "source": "https://www.fox10phoenix.com/news/turning-point-usa-unveils-charlie-kirk-statue-outside-phoenix-headquarters"
+    }
+   ]
+  },
+  "note": "HELD for Daveed. Verified: the tpusa.com/team page lists Marina Minas as TPUSA Chief Marketing Officer (N-494)."
+ },
+ {
+  "claim": "C-2587",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Jean-Luc Bagur was a ringleader of the alleged conspiracy, alongside fellow Freemasons Frédéric Vaglio and Daniel Beaulieu.",
+   "label": "Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Identified as Principal Conspirators",
+   "names": [
+    {
+     "wrong": "Jean-Luc Baguer",
+     "right": "Jean-Luc Bagur",
+     "source": "https://euronews.com/2026/03/30/france-puts-freemason-lodge-mafia-on-trial-over-murders-and-hit-squads"
+    },
+    {
+     "wrong": "Frederick Vaglio",
+     "right": "Frédéric Vaglio",
+     "source": "https://euronews.com/2026/03/30/france-puts-freemason-lodge-mafia-on-trial-over-murders-and-hit-squads"
+    },
+    {
+     "wrong": "Daniel Balou",
+     "right": "Daniel Beaulieu",
+     "source": "https://euronews.com/2026/03/30/france-puts-freemason-lodge-mafia-on-trial-over-murders-and-hit-squads"
+    }
+   ]
+  },
+  "note": "Verified Bagur, Vaglio and Beaulieu (Athanor lodge) in Euronews and in fr.wikipedia's 'Affaire Athanor'; Frédéric spelling confirmed by France 3."
+ },
+ {
+  "claim": "C-2588",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Daniel Beaulieu, a retired intelligence officer, had an apparent suicide attempt while in prison, and that he is now impaired and will not be able to testify.",
+   "label": "Daniel Beaulieu Attempted Suicide in Prison",
+   "names": [
+    {
+     "wrong": "Daniel Balou",
+     "right": "Daniel Beaulieu",
+     "source": "https://euronews.com/2026/03/30/france-puts-freemason-lodge-mafia-on-trial-over-murders-and-hit-squads"
+    }
+   ]
+  },
+  "note": "Verified in Euronews: Daniel Beaulieu is the retired DGSI agent. 'In prison' is how the host puts it."
+ },
+ {
+  "claim": "C-2589",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays of an interview with Bari Weiss, Erika Kirk says \"Yes, I do\" in response to the question of whether she believes Tyler Robinson murdered her husband.",
+   "timestamp": "00:16:59"
+  },
+  "note": "The clip question falls at about 17:04, and the claim should say it is a clip the host plays."
+ },
+ {
+  "claim": "C-2594",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a November tweet the host shows, Candace Owens stated she had a source inside the French government who told her the French intervention group was involved in the assassination, and that Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement.",
+   "timestamp": "00:14:53"
+  },
+  "note": "'Here that is... my old tweet' falls at about 14:58, and 2025 is not said."
+ },
+ {
+  "claim": "C-14463",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the hitmen say that Daniel Beaulieu, a retired intelligence officer, told them they were carrying out the killing on behalf of the government.",
+   "label": "Host Says Hitmen Say Daniel Beaulieu Told Them It Was on Behalf of the Government",
+   "names": [
+    {
+     "wrong": "Daniel Balou",
+     "right": "Daniel Beaulieu",
+     "source": "https://euronews.com/2026/03/30/france-puts-freemason-lodge-mafia-on-trial-over-murders-and-hit-squads"
+    }
+   ]
+  },
+  "note": "Verified Daniel Beaulieu in Euronews (Athanor case)."
+ },
+ {
+  "claim": "C-14480",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-191",
+    "N-2"
+   ]
+  },
+  "note": "The claim names Erika ('got a plane to get Erika'), so N-2 belongs in Mentions."
+ },
+ {
+  "claim": "C-14486",
+  "episode": 85,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that a couple of weeks later Bill Ackman would host the notorious summit in the Hamptons, and that Tucker Carlson started asking about Epstein.",
+   "label": "Host Says Ackman Later Hosted the Hamptons Summit and Tucker Started Asking About Epstein",
+   "mentions": [
+    "N-37",
+    "N-22",
+    "N-9",
+    "N-3"
+   ]
+  },
+  "note": "The 'he' who asks about Epstein is Tucker, continuing the list of his remarks, and Kirk is not referred to. The relevance change was dropped: the Hamptons summit is core."
+ },
+ {
+  "claim": "C-10300",
+  "episode": 86,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, a mere four minutes she thinks, after Charlie Kirk was carried to the SUV, Terryl Farnsworth came down from his recording position, took the chair Kirk had been sitting in, stood on it and removed the SD card from the camera behind Kirk's head.",
+   "names": [
+    {
+     "wrong": "Tarro Farnsworth",
+     "right": "Terryl Farnsworth",
+     "source": "https://laissezfairelounge.substack.com/p/terryl-farnsworth-paris-hilton-mitt"
+    }
+   ]
+  },
+  "note": "Verified Terryl Farnsworth as the TPUSA AV man in the SD-card story. 'Tarro' is not yet in the existing rule (Terrell|Taro|Teo)."
+ },
+ {
+  "claim": "C-10339",
+  "episode": 86,
+  "decision": "accept",
+  "fix": {
+   "claim": "The Atlanta news clip says Norma Jean Ates was found shot to death seven times in 1991 in a home set on fire, that her husband Jimmy Ates was convicted six years later partly on bullet lead evidence from a bullet in his vehicle, and that he was released in 2021.",
+   "label": "Clip says Norma Jean Ates was shot seven times in 1991 and her husband later convicted",
+   "names": [
+    {
+     "wrong": "Norma Jean Aids",
+     "right": "Norma Jean Ates",
+     "source": "https://www.atlantanewsfirst.com/2026/02/09/discredited-fbi-bullet-analysis-freed-one-man-while-leaving-another-behind-bars/"
+    },
+    {
+     "wrong": "Jimmy Aids",
+     "right": "Jimmy Ates",
+     "source": "https://floridaphoenix.com/?p=203151"
+    }
+   ]
+  },
+  "note": "Verified: Jimmy Ates was freed in 2021 after his 1991 wife-murder conviction rested on CBLA. His wife was Norma Jean Ates (Florida Phoenix, Police1)."
+ },
+ {
+  "claim": "C-10348",
+  "episode": 86,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:51:58"
+  },
+  "note": "The email text starts at about 51:48 and 'housing subdivision' falls at about 52:01, so 51:58 fits."
+ },
+ {
+  "claim": "C-2631",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:16:35"
+  },
+  "note": "The co-founder passage is at about 16:37, with Nathan Henderson named at 16:55. 00:00:00 is the show open."
+ },
+ {
+  "claim": "C-2633",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per Gina Romney Henderson's LinkedIn profile, which the host shows, she is Vice President of User Experience at Built Incorporated."
+  },
+  "note": "BYU is said about the sons, not about Gina."
+ },
+ {
+  "claim": "C-2646",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says someone sent her Turning Point USA fundraising text messages, sent about 48 hours after Charlie Kirk's death, that began \"Hi, I'm Erika and for Charlie's legacy, please give\"."
+  },
+  "note": "The host relays what somebody sent her, and the claim should say so."
+ },
+ {
+  "claim": "C-2647",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads (from Yoshi) says Turning Point sent a direct mail fundraising plea using a photo of Erika Kirk walking out on stage in her sparkle suit to a show of fireworks; the host says she heard such mailers were sent and that the image is from the funeral, she thinks."
+  },
+  "note": "'At the funeral, I think' is the host's hedge, not Yoshi's."
+ },
+ {
+  "claim": "C-2648",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she learned from viewers that Robbie Hild's family is allegedly married into the Romney family and that across social media they were involved in the campaign, but she cannot find the document establishing the connection and requests viewer tips."
+  },
+  "note": "The fix keeps 'allegedly' and gives the transcript's sourcing."
+ },
+ {
+  "claim": "C-14556",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "The claim does not refer to Netanyahu."
+ },
+ {
+  "claim": "C-14591",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-135",
+    "N-418"
+   ]
+  },
+  "note": "The claim clearly refers to the roommate who did CIA contract work, whom the host names moments later as Michael Shawn Covey."
+ }
+]

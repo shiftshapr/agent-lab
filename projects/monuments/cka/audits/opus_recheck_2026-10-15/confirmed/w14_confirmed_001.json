@@ -1,0 +1,432 @@
+[
+ {
+  "claim": "C-10583",
+  "episode": 152,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-3",
+    "N-279",
+    "N-238"
+   ]
+  },
+  "note": "Alex Clark is mentioned in the transcript but not in the claim."
+ },
+ {
+  "claim": "C-3469",
+  "episode": 153,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-267",
+    "N-225"
+   ]
+  },
+  "note": "Claim refers only to Shawn Ryan and Brian Harpole, not Charlie Kirk."
+ },
+ {
+  "claim": "C-3480",
+  "episode": 153,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the 2022 bodycam footage was released by Scripps News and shows the headline \"Scripps News obtains video of accused Charlie Kirk shooter after 2022 car crash.\""
+  },
+  "note": "Host states the release and shows the Scripps News headline; attribution fix is supported."
+ },
+ {
+  "claim": "C-3488",
+  "episode": 153,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ },
+ {
+  "claim": "C-3493",
+  "episode": 153,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:33:33"
+  },
+  "note": "Reading of paragraph six begins at ~33:38."
+ },
+ {
+  "claim": "C-14993",
+  "episode": 153,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host recalls that she herself, as a former TPUSA speaker who had toured, said last fall that she had never seen an event planned like this, that it came together in a couple of weeks, and that planning normally begins about five months ahead.",
+   "label": "Host Recalls Saying Last Fall the Event Came Together in a Couple of Weeks"
+  },
+  "note": "Host says \"I worked as a speaker with this organization\"; the young woman is the host herself."
+ },
+ {
+  "claim": "C-14998",
+  "episode": 153,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Maycee Crofts is not named or referred to in the claim."
+ },
+ {
+  "claim": "C-3494",
+  "episode": 154,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Erika is not referred to; the claim concerns the TPUSA UVU chapter."
+ },
+ {
+  "claim": "C-3495",
+  "episode": 154,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the ABC News report the host reads, the UVU event attendance was initially estimated at 200, revised to 600, then, per TPUSA, to 1,500 (in a later conversation the host says was undocumented), with actual attendance of about 3,000.",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "\"Not documented\" is the host's remark, not ABC's; Erika is not referred to."
+ },
+ {
+  "claim": "C-3496",
+  "episode": 154,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:06:00",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Unticketed/open-to-public statement read at ~06:05; claim does not refer to Erika."
+ },
+ {
+  "claim": "C-3498",
+  "episode": 154,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per the 4plebs post the host shows, which Andrew Kolvet said Erika (\"E\") found and said was linked in a Vox article (the host says the article does not link to the post), the post set out the same Charlie/Candace feud-seeding narrative – ask \"gripers\" to put Charlie against Candace; \"fluff\" Candace's ego; frame Candace as driven out of TPUSA by Kirk fearing her.",
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-3",
+    "N-14"
+   ]
+  },
+  "note": "Fix is supported (Kolvet: \"Charlie's girlfriend found it\"; host: article does not link the post); add Andrew Kolvet, now named."
+ },
+ {
+  "claim": "C-3499",
+  "episode": 154,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays of his presentation to Aspen donors, Charlie Kirk says the high school program is now called Club America, that 80 new full-time staff were hired to source high school students who want to start chapters and guide them through the process, and that he wants Club America to be built in like DECA or the debate club; the host calls this a grassroots vision.",
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Charlie never says grassroots/opt-in/student-led in the clip; Erika not referred to."
+ },
+ {
+  "claim": "C-3501",
+  "episode": 154,
+  "decision": "accept",
+  "fix": {
+   "label": "TPUSA Claimed 500+ Nampa Christian School Attendees",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Post says \"500 plus outstanding high school student attendees\"; no \"voluntary\"; Erika not in claim."
+ },
+ {
+  "claim": "C-3506",
+  "episode": 154,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-160"
+   ]
+  },
+  "note": "Charlie Kirk is not referred to in the claim."
+ },
+ {
+  "claim": "C-3511",
+  "episode": 154,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to Charlie Kirk, not Erika."
+ },
+ {
+  "claim": "C-3520",
+  "episode": 155,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:41:43"
+  },
+  "note": "Loomer tweet read at ~41:48."
+ },
+ {
+  "claim": "C-3523",
+  "episode": 155,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:45:57"
+  },
+  "note": "Vance clip begins ~46:02."
+ },
+ {
+  "claim": "C-3530",
+  "episode": 155,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says neighbor Miss Noble and her husband saw a Dodge Challenger parked in their neighborhood shortly after Officer Goforth's sighting, and that Miss Noble claims it was being driven by a bald person with two people in the back seat.",
+   "timestamp": "00:08:45"
+  },
+  "note": "It is the host's account (\"She claims that...\"), spoken ~08:50."
+ },
+ {
+  "claim": "C-11904",
+  "episode": 155,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that she is the employee Boreing fired but that he cannot let go, and that she occupies his every thought."
+  },
+  "note": "Transcript: \"I occupy his every thought.\""
+ },
+ {
+  "claim": "C-11905",
+  "episode": 155,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-367",
+    "N-3"
+   ]
+  },
+  "note": "Claim names Boreing (\"the Neff and Boreing promo clip\")."
+ },
+ {
+  "claim": "C-3538",
+  "episode": 156,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that in footage immediately after the Big Bang, a group stood up and chanted \"USA, USA\", that a man from that group comes back to take a hat, and that a man in the bottom right quadrant is someone who later speaks to the news."
+  },
+  "note": "Host does not say the hat-taker and the news speaker are the same person."
+ },
+ {
+  "claim": "C-7811",
+  "episode": 156,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Baron is not in the claim."
+ },
+ {
+  "claim": "C-3591",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the review timeline the host reads, on September 3 (T-minus 7 days) Dan Flood told Chief Long that the national office was handling ticketing and ticket totals were not available; the host says the last figure Long had from Turning Point National was 600 people, so he could not prepare for the crowd.",
+   "label": "TPUSA did not provide ticket totals to UVU police a week before the event"
+  },
+  "note": "No mutual-aid discussion in the episode; fix matches Flood/Long ticketing exchange."
+ },
+ {
+  "claim": "C-6190",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no one; Maycee Crofts not referred to."
+ },
+ {
+  "claim": "C-6210",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Dan Flood is not referred to in the claim."
+ },
+ {
+  "claim": "C-6213",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names only UVU officials."
+ },
+ {
+  "claim": "C-6251",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Laine Schoneberger is not named in the claim."
+ },
+ {
+  "claim": "C-6273",
+  "episode": 157,
+  "decision": "amend",
+  "fix": {
+   "label": "Host Says Andrew Sypher Has Always Been Tyler Bowyer's Guy"
+  },
+  "note": "Label fix is real; names entry dropped: Andrew Cipher->Andrew Sypher rule already exists and claim already has Sypher."
+ },
+ {
+  "claim": "C-6285",
+  "episode": 157,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim already reads Claire Guinan; fix only re-applies the existing Ginan->Guinan rule."
+ },
+ {
+  "claim": "C-3601",
+  "episode": 158,
+  "decision": "amend",
+  "fix": {
+   "claim": "Doug DeGroote confirms they planned to sign will paperwork that Monday; host says, allegedly, she was told Mikey McCoy gatekept the appointment, which had been canceled once or twice before, and rejects DeGroote's death-threat framing as the sole motive."
+  },
+  "note": "Hedge fix supported (\"I will say allegedly...\"); names entry dropped: DeGroot->DeGroote rule already exists and claim already has DeGroote."
+ },
+ {
+  "claim": "C-3606",
+  "episode": 158,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:49:14",
+   "claim": "Host asserts billionaire Bill Ackman retweeted/amplified the college-account smear during Charlie’s Israel-pressure period and deleted the tweet after it was captured."
+  },
+  "note": "Retweet discussed from ~49:19; host says \"deleted this tweet\" (one)."
+ },
+ {
+  "claim": "C-3607",
+  "episode": 158,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:31:10"
+  },
+  "note": "Board-vote passage at ~31:15-31:45; claim text unchanged and DeGroote rule already exists, so only timestamp."
+ },
+ {
+  "claim": "C-6345",
+  "episode": 158,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-30"
+   ]
+  },
+  "note": "Claim refers to her husband (George, N-30)."
+ },
+ {
+  "claim": "C-6356",
+  "episode": 159,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Erika is not referred to in the claim."
+ },
+ {
+  "claim": "C-6411",
+  "episode": 159,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-9"
+   ]
+  },
+  "note": "Claim says \"the administration\", not Trump."
+ },
+ {
+  "claim": "C-3684",
+  "episode": 161,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the Elephant Clipping Discord messages the host shows, after the August 14 Candace vs Andrew Wilson debate the instructions shifted for one week to a $75,000 pool clipping only that debate, allowing Candace only where she looks bad and Turning Point looks good; the host notes TPUSA publicly said it had nothing to do with the debate."
+  },
+  "note": "Host presents the Discord messages she shows; attribution fix supported."
+ },
+ {
+  "claim": "C-3693",
+  "episode": 161,
+  "decision": "accept",
+  "fix": {
+   "claim": "Via the Edson interview clip, the show presents Andrew Tate's 2021 Hustlers University as the pioneering clip-army model (affiliate accounts, livestream clipping, commission links); before the clip the host says people discussed how the idea was stolen and recreated in the likeness of Erika Kirk, adding \"I don't know.\"",
+   "mentions": [
+    "N-171",
+    "N-2"
+   ]
+  },
+  "note": "Fuentes not in claim or window; Erika link is the host's hedged aside."
+ },
+ {
+  "claim": "C-3696",
+  "episode": 161,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-353",
+    "N-37",
+    "N-69",
+    "N-299",
+    "N-2",
+    "N-744"
+   ]
+  },
+  "note": "Claim refers to Erika and Howard Hughes; Steve Wynn not named."
+ },
+ {
+  "claim": "C-3697",
+  "episode": 161,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Kolvet is not named or clearly referred to in this claim."
+ },
+ {
+  "claim": "C-10590",
+  "episode": 161,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Tyler Robinson is not referred to in the claim."
+ }
+]

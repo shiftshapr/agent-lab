@@ -1,0 +1,183 @@
+[
+ {
+  "claim": "C-3389",
+  "episode": 147,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host asserts that a narrative that Bill Ackman was \"going to give him a million dollars,\" referring to Tyler Robinson's father, was dropped entirely because \"there was no truth and no substance.\"",
+   "mentions": [
+    "N-37",
+    "N-40",
+    "N-778"
+   ]
+  },
+  "note": "'magically dropped' is the father story. 'him' is the father (Ackman's reward pledge), so add N-778 Matt Robinson; keep N-40 since the claim names Tyler Robinson."
+ },
+ {
+  "claim": "C-14817",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Charlie Kirk's main security person, whom Kirk arrived with that day, was Christopher, the driver of Kirk's Denali."
+  },
+  "note": "Transcript: 'Charlie's main security person who he shows up with is this person, Christopher.'"
+ },
+ {
+  "claim": "C-14838",
+  "episode": 147,
+  "decision": "reject",
+  "fix": {},
+  "note": "'telling someone to lawyer up' describes the message's recipient, Lance (transcript: 'sent a message to his lover Lance'); N-54 is clearly referred to and stays."
+ },
+ {
+  "claim": "C-3403",
+  "episode": 148,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:07:21"
+  },
+  "note": "Lobby story starts at the 07:26 segment start ('terribly awkward moment in the lobby'); 5 s before is 07:21."
+ },
+ {
+  "claim": "C-7760",
+  "episode": 148,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that it was not tongue in cheek because Andrew Kolvet gave that conversation to Tulsi Gabbard's office, which she reads as showing he thought it should be explored.",
+   "label": "Host Says Andrew Kolvet Gave the Conversation to Tulsi Gabbard's Office",
+   "mentions": [
+    "N-14",
+    "N-330"
+   ],
+   "names": [
+    {
+     "wrong": "Andrew Cooper",
+     "right": "Andrew Kolvet",
+     "source": "https://www.washingtontimes.com/news/2026/mar/23/joe-kent-given-charlie-kirk-texts-leaked-candace-owens-turning-points/"
+    }
+   ]
+  },
+  "note": "Confirmed: Kolvet said he gave the chat to Joe Kent (NCTC); ep 149 host: 'Andrew Kolvet felt the need to give Tulsi Gabbard's office'."
+ },
+ {
+  "claim": "C-3548",
+  "episode": 149,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip of an interview with Pastor Jack Hibbs that the host plays, Frank Turek, recalling that he FaceTimed Hibbs after arriving at the hospital, says \"You saw I had blood on me,\" which the host characterizes as leading the conversation.",
+   "label": "Frank Turek Tells Jack Hibbs in Interview That Hibbs Saw Him With Blood on Him at the Hospital",
+   "timestamp": "00:15:44"
+  },
+  "note": "Rewrite correct; 'Then I FaceTimed you... You saw I had blood on me' is spoken ~15:49-15:52, so timestamp moves from 14:55."
+ },
+ {
+  "claim": "C-3557",
+  "episode": 149,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Cowboy Smokehouse receipt has been verified and is real, and shows it.",
+   "label": "Host Says the Panguitch Cowboy Smokehouse Receipt Has Been Verified as Real"
+  },
+  "note": "Verification is the host's assertion: 'The receipt, of course, has been verified. it is real.'"
+ },
+ {
+  "claim": "C-14873",
+  "episode": 149,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-267"
+   ]
+  },
+  "note": "Claim text names only Brian Harpole; Turek is not referred to in it."
+ },
+ {
+  "claim": "C-14899",
+  "episode": 149,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-267"
+   ]
+  },
+  "note": "Rick Cutler is not in the claim. Alex Fria spelling remains unresolved."
+ },
+ {
+  "claim": "C-3430",
+  "episode": 151,
+  "decision": "amend",
+  "fix": {
+   "claim": "In the 9/10 trailer for Alex Clark's episode that the host plays, a speaker invokes 2 Timothy 3:6-7 (\"false teachers who are creeping into households capturing weak women\"), and a speaker applies the theme of secret knowledge to the \"Candace phenomenon.\"",
+   "timestamp": "00:30:36"
+  },
+  "note": "Multiple '>>' speakers, not shown to be Clark. 2 Timothy line falls ~30:41 in the 29:17 segment, before 30:55."
+ },
+ {
+  "claim": "C-3431",
+  "episode": 151,
+  "decision": "amend",
+  "fix": {
+   "claim": "In the trailer for Alex Clark's episode that the host plays, a speaker says \"Christ doesn't forgive everyone. He forgives those who repent and turn and trust in him by faith. But forgiveness is something that you can't actually offer somebody if they haven't repented.\"",
+   "timestamp": "00:30:24"
+  },
+  "note": "Speaker after '>>' not shown to be Clark. Quote falls ~30:29 in the 29:17 segment, before 30:55."
+ },
+ {
+  "claim": "C-3434",
+  "episode": 151,
+  "decision": "amend",
+  "fix": {
+   "claim": "Bobby Sausalito, in the Instagram clip displayed by host, explicitly stated \"you can't both be telling the truth\" regarding Turek and Harpole, and called Turek's argument that a lie about CPR would not affect who killed Charlie Kirk a \"false binary.\"",
+   "mentions": [
+    "N-901",
+    "N-7",
+    "N-267"
+   ],
+   "timestamp": "00:10:55"
+  },
+  "note": "Fix correct; 'You can't both be telling the truth' is spoken ~11:00, before 11:11. Bobby Sausalito spelling unresolved (no name fix)."
+ },
+ {
+  "claim": "C-3435",
+  "episode": 151,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-14"
+   ]
+  },
+  "note": "Claim quotes 'friends of Charlie and Erika'; Charlie Kirk is named."
+ },
+ {
+  "claim": "C-3449",
+  "episode": 152,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:12:07"
+  },
+  "note": "'after arresting him, it was discovered...' falls ~12:12 in the 11:56 segment."
+ },
+ {
+  "claim": "C-3456",
+  "episode": 152,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Utah AG David Leavitt was named in a 151-page victim statement regarding ritualistic child abuse / cannibalism allegations spanning 1990-2010, which she says he characterized as politically manufactured."
+  },
+  "note": "'No criminal finding' refers to the 2020 HSI whistleblower case, not the ritual abuse matter."
+ },
+ {
+  "claim": "C-10516",
+  "episode": 152,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-688"
+   ],
+   "claim": "The host says Philip Goldsberry Jr. co-founded Soter Global Ministries, a 501(c)(3) that provides medical care and training to orphans in Romania, Albania and Ukraine."
+  },
+  "note": "Claim names only the son; transcript reads 'Soter'."
+ }
+]

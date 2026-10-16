@@ -688,7 +688,7 @@ Thomas Massie; named in a viewer comment.
 
 **N-597** Druski
 
-Druski (spelled Druski and Drewski in the transcript); comedian whose skit mocked Erika.
+Druski (spelled Druski and Druski in the transcript); comedian whose skit mocked Erika.
 
 *Related: C-13007, C-13008, C-13009, C-13010*
 
@@ -881,7 +881,7 @@ Existing topic reused for Kolvet PR role.
 **N-11356** Druski Skit Mocking Erika Kirk Controversy
 
 Node Type: Topic
-The dispute over a Drewski comedy skit that mocked Erika Kirk, including whether it was racial and whether she took it too seriously.
+The dispute over a Druski comedy skit that mocked Erika Kirk, including whether it was racial and whether she took it too seriously.
 
 *Related: C-13007, C-13008, C-13009, C-13010*
 
@@ -893,7 +893,7 @@ The dispute over a Drewski comedy skit that mocked Erika Kirk, including whether
 
 Claim Timestamp: 00:01:44
 
-Claim: Andrew Kolvet publicly denied divorce rumors via X post, telling Project Constitution "LOL, you wish, fat boy" and instructing them to keep his wife's name out of their mouth.
+Claim: The host reads an X post in which Andrew Kolvet publicly denied divorce rumors, telling Project Constitution "LOL, you wish, fat boy" and instructing them to keep his wife's name out of their mouth.
 
 Anchored Artifacts: A-2063.1
 Mentions: N-14
@@ -908,7 +908,7 @@ Investigative Direction: Verify the exact wording of Kolvet's post and timestamp
 
 Claim Timestamp: 00:01:44
 
-Claim: An X account identifying as Project Constitution reported that Andrew Kolvet was getting a divorce.
+Claim: The host says it looks like an X account identifying as Project Constitution reported that Andrew Kolvet was getting a divorce, which she says was not true.
 
 Anchored Artifacts: A-2062.1
 Mentions: N-14
@@ -923,7 +923,7 @@ Investigative Direction: Identify the author and posting history of the Project 
 
 Claim Timestamp: 00:02:41
 
-Claim: Tyler Bowyer publicly stated he has had "numerous things like this said about us" and characterized such reporting as "reckless disregard for truth from people who call themselves investigators."
+Claim: The host reads a post in which Tyler Bowyer says he has had "numerous things like this said about us" and characterizes such reporting as "reckless disregard for truth from people who call themselves investigators."
 
 Anchored Artifacts: A-2064.1
 Mentions: N-11
@@ -938,7 +938,7 @@ Investigative Direction: Verify the original X post and any subsequent posts by 
 
 Claim Timestamp: 00:02:41
 
-Claim: Per posts by Blake Neff that the host reads, he publicly disputed the implication that Andrew Kolvet's wife was absent from the White House Correspondents Dinner, arguing that WHCD attendance requires press-issued invitations, that Kolvet lives in Phoenix, and questioning how anyone would know his wife's travel preferences.
+Claim: Per posts by Blake Neff that the host reads, he responded to a question about why Andrew Kolvet's wife was not at the White House Correspondents Dinner, arguing that the dinners are held by press outlets and everyone else attends by invitation, asking how anyone knew Kolvet was offered a plus one, noting that Kolvet lives in Phoenix, and questioning how anyone would know his wife's travel preferences.
 
 Anchored Artifacts: A-2065.1
 Mentions: N-14, N-160
@@ -953,7 +953,7 @@ Investigative Direction: Verify the original post; check WHCD invitation lists i
 
 Claim Timestamp: 00:04:12
 
-Claim: Per Candace, donors who were present at the Aspen event assert that the TPUSA-released audio of Charlie Kirk saying "I appoint my wife to run Turning Point USA if something happens to me" was faked, and that the moment never happened. Candace states this report has been on the desk for 39 days as of this episode.
+Claim: Per Candace, donors who were present at the Aspen event assert that the TPUSA-released audio of Charlie Kirk saying "I appoint my wife to run Turning Point USA if something happens to me" was faked, and that the moment never happened. Candace states it has been 39 days since her show reported this, a count she keeps on her desk.
 
 Anchored Artifacts: A-2066.1, A-2066.2, A-2069.1
 Mentions: N-1, N-2
@@ -983,7 +983,7 @@ Investigative Direction: Locate TPUSA's original release of the clip; obtain tim
 
 Claim Timestamp: 00:07:32
 
-Claim: Per a source who came forward, Turning Point USA employee Marcus Wada offers AI voice generation services for TPUSA presentations.
+Claim: The host says, citing information from a source who came forward, that Turning Point USA employee Marcus Wada offers AI voice generation services for TPUSA presentations.
 
 Anchored Artifacts: A-2068.1
 Mentions: N-425
@@ -1013,10 +1013,10 @@ Investigative Direction: Obtain a TPUSA presentation featuring the contested voi
 
 Claim Timestamp: 00:09:42
 
-Claim: John Mappin shared on X that an Aspen donor told him the moment depicted in the audio never happened.
+Claim: The host says John Mappin shared on X that an Aspen donor told him the moment depicted in the audio never happened.
 
 Anchored Artifacts: A-2069.1
-Mentions: N-1, N-155
+Mentions: N-155
 
 Related Nodes: N-10664
 
@@ -1028,7 +1028,7 @@ Investigative Direction: Verify Mappin's original X post and identify the donor 
 
 Claim Timestamp: 00:09:42
 
-Claim: Kimberly Klacik publicly asked on X, if the TPUSA board elected Erika Kirk as CEO and none of the donors had come forward questioning the decision, why the authenticity of the audio matters.
+Claim: The host reads a post in which Kimberly Klacik publicly asked on X, if the TPUSA board elected Erika Kirk as CEO and none of the donors had come forward questioning the decision, why the authenticity of the audio matters.
 
 Anchored Artifacts: A-2067.1
 Mentions: N-2, N-433
@@ -1060,7 +1060,7 @@ Flag: Artifact verbally referenced but not shown
 
 Claim Timestamp: 00:16:39
 
-Claim: Brian Allen publicly argued on X that Hillsdale College awarding Erika Kirk an honorary doctorate and commencement platform contradicts Hillsdale's stated anti-DEI position, characterizing the decision as "Diversity, equity and inclusion for me and not for thee."
+Claim: The host reads a tweet by Brian Allen arguing that Hillsdale College awarding Erika Kirk an honorary doctorate and commencement platform contradicts Hillsdale's stated anti-DEI position, characterizing the decision as "Diversity, equity and inclusion for me and not for thee."
 
 Anchored Artifacts: A-2070.2
 Mentions: N-2
@@ -1071,7 +1071,7 @@ Investigative Direction: Verify the original post; cross-reference Hillsdale's p
 
 ---
 
-**C-2896** Erika Kirk's old LinkedIn claimed ASU magna cum laude graduation
+**C-2896** Host Says Erika Kirk Claimed ASU Magna Cum Laude, Later Summa Cum Laude on LinkedIn
 
 Claim Timestamp: 00:17:23
 
@@ -1150,7 +1150,7 @@ Investigative Direction: Locate the original favela video; verify any corroborat
 
 Claim Timestamp: 00:28:51
 
-Claim: Patrick Bet-David's show hosted Nick Shirley, during which Shirley stated that Candace Owens "came after me uh a while back" and didn't believe his Brazilian favela video; Bet-David asked "Why would Candace Owens come after you?"
+Claim: In a clip the host plays from Patrick Bet-David's show, Nick Shirley says Candace Owens "came after me uh a while back" and didn't believe his Brazilian favela video; Bet-David asks "Why would Candace Owens come after you?"
 
 Anchored Artifacts: A-2073.2
 Mentions: N-57, N-3, N-214
@@ -1165,7 +1165,7 @@ Investigative Direction: Obtain the full PBD interview clip and timestamp; verif
 
 Claim Timestamp: 00:30:15
 
-Claim: Alex Clark publicly wrote on X: "Nick Shirley is a real journalist. Candace Owens is not."
+Claim: The host reads a post in which Alex Clark wrote: "Nick Shirley is a real journalist. Candace Owens is not."
 
 Anchored Artifacts: A-2074.1
 Mentions: N-3, N-99, N-214
@@ -1176,7 +1176,7 @@ Investigative Direction: Verify the original post and Alex Clark's relationship 
 
 ---
 
-**C-2904** Brian Harpole's alibi flights were 1:49 PM Dallas to Salt Lake City on the 9th
+**C-2904** Host Says Brian Harpole's Alibi Flights Were 1:49 PM on the 9th to Utah
 
 Claim Timestamp: 00:49:33
 
@@ -1191,11 +1191,11 @@ Investigative Direction: Verify the flight records independently through airline
 
 ---
 
-**C-2905** Fort Huachuca alibi photograph was provided by Andrew Kolvet
+**C-2905** Host Says Andrew Kolvet Sent Erika Kirk's Alibi Photo Marked Don't Share
 
 Claim Timestamp: 00:52:24
 
-Claim: A photograph allegedly depicting Erika Kirk with her children at Fort Huachuca was provided to online defenders by Andrew Kolvet, with the explicit instruction "don't share."
+Claim: The host says the alibi for Erika Kirk that Paramount Tactical read live on his show, marked "please don't share," came from Andrew Kolvet, who explicitly states she was with her kids as he sends the photo; the host says those are not her kids.
 
 Anchored Artifacts: A-2075.2
 Mentions: N-14, N-2
@@ -1703,7 +1703,7 @@ Investigative Direction: Review the full PBD interview and PBD's earlier stateme
 
 Claim Timestamp: 00:29:35
 
-Claim: The host says Nick Shirley has presented infiltrating antifa and infiltrating El Salvador at the age of 23, which she suggests implies a contact behind him.
+Claim: In a clip of her earlier remarks shown on Patrick Bet-David's show, the host says Nick Shirley has presented infiltrating antifa and infiltrating El Salvador at the age of 23, which she suggests implies a contact behind him.
 
 Transcript Snippet: whoever is your contact that has you infiltrating antifa and infiltrating El Salvador at the age of 23 years old
 
@@ -1843,11 +1843,11 @@ Investigative Direction: No source is given on air; any reporting on current CIA
 
 ---
 
-**C-13007** Host Says Charlie Would Have Laughed at the Drewski Skit but Erika Took It Seriously
+**C-13007** Host Says Charlie Would Have Laughed at the Druski Skit but Erika Took It Seriously
 
 Claim Timestamp: 00:40:55
 
-Claim: The host says Charlie would have laughed at the Drewski skit mocking Erika, but Erika took it deadly seriously.
+Claim: The host says Charlie would have laughed at the Druski skit mocking Erika, but Erika took it deadly seriously.
 
 Transcript Snippet: Charlie would have laughed at that stuff, but we see that Erika has taken the Druski skit deadly serious for some reason.
 
@@ -1863,7 +1863,7 @@ Investigative Direction: Locate the Druski skit and Erika Kirk's or TPUSA's publ
 
 Claim Timestamp: 00:41:46
 
-Claim: The host says people including Andrew Kolvet tried to turn the Drewski skit about Erika into a racial issue.
+Claim: The host says people including Andrew Kolvet tried to turn the Druski skit about Erika into a racial issue.
 
 Transcript Snippet: the people that were trying to turn that into something racial, like Andrew Kolvet, now do like black conservatives.
 
@@ -1875,11 +1875,11 @@ Investigative Direction: Find Kolvet's and other TPUSA figures' posts characteri
 
 ---
 
-**C-13009** Host Says Drewski Also Mocks Vietnamese People in a Nail Salon Skit
+**C-13009** Host Says Druski Also Mocks Vietnamese People in a Nail Salon Skit
 
 Claim Timestamp: 00:41:46
 
-Claim: The host says Drewski's skits mock many groups, including a skit in which he dressed as a Vietnamese person in a nail salon.
+Claim: The host says Druski's skits mock many groups, including a skit in which he dressed as a Vietnamese person in a nail salon.
 
 Transcript Snippet: He dressed up like he was Vietnamese person, did this whole nail salon thing.
 
@@ -1891,11 +1891,11 @@ Investigative Direction: Locate the nail salon skit and its date.
 
 ---
 
-**C-13010** Host Says Drewski Posted a Video Last Week Targeting Black British Actors
+**C-13010** Host Says Druski Posted a Video Last Week Targeting Black British Actors
 
 Claim Timestamp: 00:41:46
 
-Claim: The host says Drewski posted a massive video the previous week that targeted black British actors.
+Claim: The host says Druski posted a massive video the previous week that targeted black British actors.
 
 Transcript Snippet: just last week he dropped a massive video where he was targeting black British actors and it was hilarious and we just laughed at it.
 
@@ -2302,7 +2302,7 @@ Investigative Direction: The host's notes and any witnesses to the question.
 
 Claim Timestamp: 00:50:57
 
-Claim: The host says she interviewed Mitch on the 18th, after she messaged Brian Harpole and Erika did not give her an alibi for him, and Mitch said he saw Erika on the 8th.
+Claim: The host says she interviewed Mitch on the 18th because she had messaged Brian Harpole and Erika did not give her an alibi for him, and Mitch said he saw Erika on the 8th.
 
 Transcript Snippet: And then I interviewed him. I did it on the 18th.
 
@@ -2616,7 +2616,7 @@ Investigative Direction: Collect the student messages and any Hillsdale student 
 
 Claim Timestamp: 00:56:48
 
-Claim: The host says people should hate those who bullied Charlie, and that Erika instead teams up with them.
+Claim: Answering a viewer comment, the host says Erika should hate the people who bullied her husband, Charlie, and should not team up with them, but that is not how Erika lives.
 
 Transcript Snippet: You shouldn't be teaming up with them. But that's not how Erika lives.
 
@@ -2887,7 +2887,7 @@ Confidence: high
 - **Artifact verbally referenced but not shown** – A-2070.1 (Hillsdale College honorary doctorate announcement): Cited as fact by host but no press release, news article, or Hillsdale College source was displayed in the episode.
 - **Source-based testimony without on-record statement** – A-2068.1, A-2068.2: Marcus Wada AI voice services claim is attributed to "a source which came forward" with no named on-record source displayed.
 - **Transcript ambiguity** – Reference to "a friend ban" writing a comment at [40:55] appears to be a transcription artifact for "Friend Ban" (likely a username).
-- **Possible transcription error** – Several host colloquialisms ("Drewski," "Druski") refer to the same personality but are spelled inconsistently in the transcript; preserved as they appear.
+- **Possible transcription error** – Several host colloquialisms ("Druski," "Druski") refer to the same personality but are spelled inconsistently in the transcript; preserved as they appear.
 - **Claim failed admission test** – Several host assertions in this episode are framing premises rather than evidence-backed claims, including:
   - "Erika would be a confirmed ruthless psychopath"
   - "She is capable of real harm"

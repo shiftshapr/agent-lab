@@ -49,7 +49,7 @@
 
 This episode is built around an artifact-anchored discrepancy: a wedding photo visibly present in the background of Charlie Kirk's home studio during his September 8, 2025 broadcast is missing from the same background during Erika Kirk's December 12, 2025 Glenn Beck interview conducted from that office. Candace Owens walks through possible explanations (Kolvet moved it, Erika moved it, Charlie moved it on Sept 9, deliberate staging), ultimately positing that Charlie himself removed the photo on September 9, 2025 – which she ties to other allegedly suspicious activity that night (sleep swap, wedding ring removal, priest visit).
 
-The second major evidentiary block concerns Carrie Prejean Bowler's removal from the White House Religious Liberty Commission. Artifacts include the hearing clip and Dan Patrick's removal announcement on X. The third block presents informant testimony about the TPUSA All-American Halftime Show's production (pre-filmed, 180 audience, multiple takes, $250 stipends, Erika not present), with a counter-artifact photograph of Trump watching the Bad Bunny halftime show at Mar-a-Lago.
+The second major evidentiary block concerns Carrie Prejean Boller's removal from the White House Religious Liberty Commission. Artifacts include the hearing clip and Dan Patrick's removal announcement on X. The third block presents informant testimony about the TPUSA All-American Halftime Show's production (pre-filmed, 180 audience, multiple takes, $250 stipends, Erika not present), with a counter-artifact photograph of Trump watching the Bad Bunny halftime show at Mar-a-Lago.
 
 The episode functions structurally as both a fact-update on the Wedding Photo discrepancy and an expansion of the September 9, 2025 night-before timeline investigation. It also serves as a tangential political commentary segment on the Religious Liberty Commission and a credibility assessment of TPUSA's post-assassination public-facing events.
 
@@ -240,7 +240,7 @@ Confidence Level: High
 
 *Related: C-2371, N-555*
 
-**A-1776.2** Segment: Carrie Prejean Bowler stating "I'm a Catholic and Catholics do not embrace Zionism"
+**A-1776.2** Segment: Carrie Prejean Boller stating "I'm a Catholic and Catholics do not embrace Zionism"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -254,7 +254,7 @@ Confidence Level: High
 
 ### A-1777 Dan Patrick X Post Bundle
 
-**A-1777.1** X post by Dan Patrick announcing Carrie Prejean Bowler's removal from the Religious Liberty Commission
+**A-1777.1** X post by Dan Patrick announcing Carrie Prejean Boller's removal from the Religious Liberty Commission
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -312,7 +312,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-555** Carrie Prejean Bowler
+**N-555** Carrie Prejean Boller
 
 Catholic activist and former Miss California; removed from the White House Religious Liberty Commission following a hearing where she challenged the IHRA definition of anti-Semitism.
 
@@ -327,7 +327,7 @@ Investigative Pressure: Low
 
 **N-563** Dan Patrick
 
-Texas Lieutenant Governor; announced Carrie Prejean Bowler's removal from the Religious Liberty Commission on X.
+Texas Lieutenant Governor; announced Carrie Prejean Boller's removal from the Religious Liberty Commission on X.
 
 Evidence Count: 1
 Claim Count: 1
@@ -752,7 +752,7 @@ The reported abduction of Savannah Guthrie's mother and the host's remarks that 
 **N-11188** White House Religious Liberty Commission
 
 Node Type: Organization
-Presidential commission whose hearing on anti-Semitism led to Carrie Prejean Bowler's removal, announced by Dan Patrick on X.
+Presidential commission whose hearing on anti-Semitism led to Carrie Prejean Boller's removal, announced by Dan Patrick on X.
 
 *Related: C-8471, C-8472, C-8473, C-8476, C-8478, C-8479, C-8480, C-8481, C-8501*
 
@@ -849,25 +849,25 @@ Investigative Direction: Obtain and review the phone records/text messages cited
 
 ---
 
-**C-2370** Per Dan Patrick's X Post, Carrie Prejean Bowler Was Removed from Religious Liberty Commission
+**C-2370** Per Dan Patrick's X Post, Carrie Prejean Boller Was Removed from Religious Liberty Commission
 
 Claim Timestamp: 00:34:48
 
-Claim: Per a post by Dan Patrick on X that the host reads, Carrie Prejean Bowler was removed from the White House Religious Liberty Commission.
+Claim: Per a post by Dan Patrick on X that the host reads, Carrie Prejean Boller was removed from the White House Religious Liberty Commission.
 
 Anchored Artifacts: A-1777.1
 Mentions: N-555, N-563
 
 
-Investigative Direction: Verify the official announcement and date; document the stated cause and any subsequent statement from Carrie Prejean Bowler.
+Investigative Direction: Verify the official announcement and date; document the stated cause and any subsequent statement from Carrie Prejean Boller.
 
 ---
 
-**C-2371** Carrie Prejean Bowler stated Catholics do not embrace Zionism at hearing
+**C-2371** Carrie Prejean Boller stated Catholics do not embrace Zionism at hearing
 
 Claim Timestamp: 00:30:14
 
-Claim: During the Religious Liberty Commission hearing, Carrie Prejean Bowler stated "I'm a Catholic and Catholics do not embrace Zionism."
+Claim: During the Religious Liberty Commission hearing, Carrie Prejean Boller stated "I'm a Catholic and Catholics do not embrace Zionism."
 
 Anchored Artifacts: A-1776.2
 Mentions: N-555
@@ -1567,11 +1567,11 @@ Investigative Direction: Compare the described motorcade with press pool reports
 
 ---
 
-**C-8471** Host Says Carrie Prejean Bowler Called the Hearing Unacceptable
+**C-8471** Host Says Carrie Prejean Boller Called the Hearing Unacceptable
 
 Claim Timestamp: 00:28:25
 
-Claim: The host says Carrie Prejean Bowler stood up at the Religious Liberty Commission hearing on anti-Semitism and said the hearing was unacceptable, and asked for the actual definition of anti-Semitism.
+Claim: The host says Carrie Prejean Boller stood up at the Religious Liberty Commission hearing on anti-Semitism and said the hearing was unacceptable, and asked for the actual definition of anti-Semitism.
 
 Transcript Snippet: This is unacceptable. This hearing is unacceptable.
 
@@ -1599,11 +1599,11 @@ Investigative Direction: Identify the rabbi and the panel and obtain the hearing
 
 ---
 
-**C-8473** Carrie Prejean Bowler Asks Whether All Catholics Are Anti-Semites
+**C-8473** Carrie Prejean Boller Asks Whether All Catholics Are Anti-Semites
 
 Claim Timestamp: 00:30:25
 
-Claim: In the hearing clip, Carrie Prejean Bowler asks the rabbi whether all Catholics are anti-Semites according to his view, after saying Catholics do not embrace Zionism.
+Claim: In the hearing clip, Carrie Prejean Boller asks the rabbi whether all Catholics are anti-Semites according to his view, after saying Catholics do not embrace Zionism.
 
 Transcript Snippet: So, is are all Catholics anti-semites according to you?
 
@@ -1645,11 +1645,11 @@ Investigative Direction: Ask for documentation of Robert Maxwell's role in US te
 
 ---
 
-**C-8476** Host Says Zionists Demanded Carrie Prejean Bowler's Removal
+**C-8476** Host Says Zionists Demanded Carrie Prejean Boller's Removal
 
 Claim Timestamp: 00:34:30
 
-Claim: The host says Carrie Prejean Bowler's removal was announced on X after Zionists demanded she be removed.
+Claim: The host says Carrie Prejean Boller's removal was announced on X after Zionists demanded she be removed.
 
 Transcript Snippet: it was announced on X after Zionists demanded she be removed.
 
@@ -2042,11 +2042,11 @@ Investigative Direction: Check the following episodes for the release of the Eri
 
 ---
 
-**C-8501** Host Says Audience at Hearing Booed Carrie Prejean Bowler for Saying She Is Catholic
+**C-8501** Host Says Audience at Hearing Booed Carrie Prejean Boller for Saying She Is Catholic
 
 Claim Timestamp: 00:51:15
 
-Claim: Reading a viewer comment, the host agrees that the hearing audience booed when Carrie Prejean Bowler said she is a Catholic, and that she was then fired.
+Claim: Reading a viewer comment, the host agrees that the hearing audience booed when Carrie Prejean Boller said she is a Catholic, and that she was then fired.
 
 Transcript Snippet: Yeah, they literally did. And then she got fired, but they're the victims.
 
@@ -2266,7 +2266,7 @@ Confidence: high
 
 ## VII. Optional Flags
 
-- **Name uncertainty (Carrie Prejean):** Transcript variants include "Carrie Prejean Bowler" (00:57, 26:59), "Carrie Peen" (00:57), "Carrie Preene Bowler" (34:48), and "Carrie Preaching Baller" (as preserved in Dan Patrick's own X post text). Inscribed as "Carrie Prejean Bowler" pending verification of canonical spelling. The actual surname appears to be "Boller"; transcription noise preserved as-is.
+- **Name uncertainty (Carrie Prejean):** Transcript variants include "Carrie Prejean Boller" (00:57, 26:59), "Carrie Peen" (00:57), "Carrie Prejean Boller" (34:48), and "Carrie Preaching Baller" (as preserved in Dan Patrick's own X post text). Inscribed as "Carrie Prejean Boller" pending verification of canonical spelling. The actual surname appears to be "Boller"; transcription noise preserved as-is.
 
 - **Name uncertainty (Andrew Kolvet):** Transcript spells "Andrew Kolvet." The TPUSA spokesperson is generally known as Andrew Kolvet. Not used as a node here since no artifact anchor is presented for him in this episode; preserved as host commentary only.
 

@@ -1,0 +1,769 @@
+[
+ {
+  "claim": "C-7646",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Butch pulled the old Terryl Farnsworth move. He just starts recording... they were all told to gather footage' - 'they' are Butch Hibbs and Farnsworth, not generically 'the people with Charlie'; Butch is in Mentions but not the claim.",
+  "fix": {
+   "claim": "The host says Butch Hibbs, like Terryl Farnsworth, just started recording, and that if she did not know better she would think they were all told to gather footage from different angles and points, and she labels this pure speculation.",
+   "mentions": [
+    "N-3",
+    "N-247",
+    "N-262"
+   ]
+  }
+ },
+ {
+  "claim": "C-7647",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7648",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7649",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7650",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: 'That person is also around a lot and may have seen something.' 'in the photos' is not said.",
+  "fix": {
+   "claim": "The host says the person in the pink hat and blue shirt, who appears to be holding a slurpee drink, is also around a lot and may have seen something."
+  }
+ },
+ {
+  "claim": "C-7651",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7652",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7653",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7654",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7655",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7656",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7657",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7658",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7659",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Label names Bagley and Hull but the claim does not; transcript: 'when officer Baggley gets up there or officer Hull gets up there and says he was told by someone'. 'a witness' is not said ('he remembered the plates').",
+  "fix": {
+   "claim": "The host says that at this stage officers such as Bagley or Hull can get up and say they were told by someone that Tyler Robinson's vehicle pulled to the side of the road and he remembered the plates."
+  }
+ },
+ {
+  "claim": "C-7660",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7661",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: 'Someone who fired just one bullet and had one victim. Never.' 'in this case one bullet' misframes the general statement as about this case.",
+  "fix": {
+   "claim": "The host says never in Utah's history has anyone been found guilty of aggravated murder where there was just one victim, someone who fired just one bullet and had one victim."
+  }
+ },
+ {
+  "claim": "C-7662",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7663",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7664",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7665",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7666",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7667",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7668",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7669",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7670",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7671",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7672",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7673",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7674",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7675",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7676",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7677",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7678",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7679",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7680",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7681",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7682",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7683",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7684",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7685",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7686",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7687",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7688",
+  "episode": 146,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Mama Mia's comment is 'Ben Shapiro is like plankton on Spongebob. always after that secret recipe.' The host then riffs ('Spongebob fans stand up... that's Ben') and says 'And now he's announced that he's on tour and everyone knows they were enemies' herself.",
+  "fix": {
+   "claim": "After reading a viewer comment comparing Ben Shapiro to Plankton on SpongeBob, the host says Shapiro has now announced that he is on tour and that everyone knows he and Charlie Kirk were enemies, adding that she guesses Andrew Kolvet thinks he can wipe history and make everybody forget.",
+   "label": "Host Says Shapiro Announced a Tour and Everyone Knows He and Charlie Were Enemies"
+  }
+ },
+ {
+  "claim": "C-7689",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'Justin' is Justin Baldoni (N-486, in episode list): ep 145 she met him in Iceland and said 'He doesn't actually drink kombucha'; ep 146 opens on running into Justin Baldoni in Iceland. Not in Mentions.",
+  "fix": {
+   "claim": "The host says Justin Baldoni told her he does not actually drink kombucha all that much, which she rejects as unacceptable and a now-folkloric detail.",
+   "mentions": [
+    "N-3",
+    "N-486"
+   ]
+  }
+ },
+ {
+  "claim": "C-7690",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Comparison of livestream audience sizes for the court hearing; not bearing on the assassination or its investigation.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-7691",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7692",
+  "episode": 146,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3357",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Judge's name is Graf (N-136 Judge Tony F. Graf Jr.); claim and label spell it 'Graff'. Otherwise matches 'the state cleared its bar... reliable hearsay is the standard'.",
+  "fix": {
+   "claim": "The host says Judge Graf ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.",
+   "label": "Host Says Judge Graf Issued Bindover Ruling After Preliminary Hearing"
+  }
+ },
+ {
+  "claim": "C-3358",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Spelling: 'Graff' for Judge Graf (N-136). Transcript: 'Judge Graf did not drop charge number six... he sort of fumbled over his reason'.",
+  "fix": {
+   "claim": "The host says Judge Graf declined to dismiss Count 6 (witness tampering for the \"ask for a lawyer and stay silent\" text to Lance Twiggs) over the defense's constitutional-rights argument, and she plays a clip of the ruling.",
+   "label": "Host Says Judge Graf Declined to Dismiss Count 6 (Witness Tampering)"
+  }
+ },
+ {
+  "claim": "C-3359",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3360",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Unattributed and drops hedge. Host: 'charge five is also witness tampering but it's pertaining strictly to the message wherein Tyler Robinson allegedly says delete this exchange... Two different charges.'",
+  "fix": {
+   "claim": "The host says Count 5 is also witness tampering but pertains strictly to the message in which Tyler Robinson allegedly told Lance Twiggs to \"delete this exchange,\" a separate charge from Count 6.",
+   "label": "Host Says Count 5 Is Witness Tampering for the \"Delete This Exchange\" Message"
+  }
+ },
+ {
+  "claim": "C-3361",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The clip never mentions Count 5; that is the host's reading ('allow charge number six on the basis of charge number five'). Clip: communications 'permit a reasonable inference that defendant intended to cause Twigs to withhold information from investigators.'",
+  "fix": {
+   "claim": "The host says the court permitted Count 6 to proceed on the basis of Count 5, and in a clip she plays of the ruling the court says the surrounding communications, including the alleged \"delete this exchange\" instruction, permit a reasonable inference that the defendant intended Twiggs to withhold information from investigators.",
+   "mentions": [
+    "N-40",
+    "N-54"
+   ]
+  }
+ },
+ {
+  "claim": "C-3362",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'on September 1, 2026' is not in the episode; the clip only has counsel 'enter pleas of not guilty on Mr. Robinson's behalf to all counts.'",
+  "fix": {
+   "claim": "In an arraignment clip the host plays, defense counsel enters pleas of not guilty on Tyler Robinson's behalf to all counts in the information."
+  }
+ },
+ {
+  "claim": "C-3363",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3364",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Unattributed description of footage. Host: 'this is not Justin Davis's car, but he immediately sprints ahead to the vehicle and opens the passenger side door alongside Blake Neff, who is also not in this vehicle.'",
+  "fix": {
+   "claim": "The host says that in footage she shows of the post-shot sequence, Justin Davis (driver of the Lincoln Navigator) sprinted to and opened the passenger-side door of a vehicle he had not arrived in, alongside Blake Neff, who was also not a passenger of that vehicle."
+  }
+ },
+ {
+  "claim": "C-3365",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Justin Davis is in Mentions but not the claim; host: 'meet each other in front of Charlie's vehicle and duck down for a little meet and greet with Justin Davis... as if they all knew to go there'. Quote is 'duck down', not 'ducking down'.",
+  "fix": {
+   "claim": "The host says footage shows Mikey McCoy and Danny Phillip, from opposite sides of Charlie, running and meeting in front of Kirk's vehicle to \"duck down\" with Justin Davis, \"as if they all knew to go there\", which she sarcastically calls luck."
+  }
+ },
+ {
+  "claim": "C-3366",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3367",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "First sentence unattributed. Host: 'What falls out of that vehicle... I think that that's Chris's bag... his backpack gets tossed out of the trunk'; 'not 100% certain that it's his bag'.",
+  "fix": {
+   "claim": "The host says that as Kirk's vehicle departed for the hospital, a backpack fell or was tossed from the trunk; she thinks it is \"Chris's bag\" but says she is \"not 100% certain.\""
+  }
+ },
+ {
+  "claim": "C-3368",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3369",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

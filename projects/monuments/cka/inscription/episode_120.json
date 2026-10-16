@@ -293,7 +293,7 @@
           "@type": "Artifact",
           "@id": "A-2092.1",
           "ref": "A-2092.1",
-          "description": "Judge Graff ruling denying defense motion to compel Lance Twiggs in-person testimony at preliminary hearing (ruling document not shown on screen)",
+          "description": "Judge Graf ruling denying defense motion to compel Lance Twiggs in-person testimony at preliminary hearing (ruling document not shown on screen)",
           "related_claims": [
             "C-2939",
             "C-2940"
@@ -1898,8 +1898,8 @@
       "@type": "Claim",
       "@id": "C-2939",
       "ref": "C-2939",
-      "label": "Host Says Judge Graff Denied Motion to Compel Lance Twiggs In-Person Testimony",
-      "claim": "The host says Judge Graff has denied the defense motion to compel Lance Twiggs to appear in person at the preliminary hearing set for the week of July 6.",
+      "label": "Host Says Judge Graf Denied Motion to Compel Lance Twiggs In-Person Testimony",
+      "claim": "The host says Judge Graf has denied the defense motion to compel Lance Twiggs to appear in person at the preliminary hearing set for the week of July 6.",
       "anchored_artifacts": [
         "A-2092.1"
       ],
@@ -1939,8 +1939,8 @@
       "@type": "Claim",
       "@id": "C-2941",
       "ref": "C-2941",
-      "label": "Viewer Email Identifies White Markings on SUV Shards Consistent with Rode Mic",
-      "claim": "A viewer email asserts that white markings visible on the SUV floorboard shards match the design and labeling on a Rode Wireless Pro microphone.",
+      "label": "Viewer Email Suggests Enhancing SUV Shard Images for White Rode Mic Details",
+      "claim": "In a viewer email the host reads, the writer says some black shards in the SUV images appear to have white on them, notes that the Rode Wireless Go microphone has several white details, and suggests that enhancing the images could identify parts of the microphone body, while allowing that it \"may be nothing.\"",
       "anchored_artifacts": [
         "A-2087.1"
       ],
@@ -1949,10 +1949,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:23",
-      "investigative_direction": "Preserve viewer email as a tip lead; pursue forensic comparison of shard imagery with manufacturer specifications and any recovered physical shard fragments.",
-      "mentions_person_refs": [
-        "N-1"
-      ]
+      "investigative_direction": "Preserve viewer email as a tip lead; pursue forensic comparison of shard imagery with manufacturer specifications and any recovered physical shard fragments."
     },
     {
       "@type": "Claim",
@@ -1969,10 +1966,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:14:51",
-      "investigative_direction": "Source original high-resolution images from Jon Bray or other collectors; submit for independent forensic image analysis.",
-      "mentions_person_refs": [
-        "N-1"
-      ]
+      "investigative_direction": "Source original high-resolution images from Jon Bray or other collectors; submit for independent forensic image analysis."
     },
     {
       "@type": "Claim",
@@ -1989,10 +1983,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:15:51",
-      "investigative_direction": "Preserve the YouTube source video as comparison reference; identify original video uploader and timestamp; pursue additional independent destruction tests with documented methodology.",
-      "mentions_person_refs": [
-        "N-1"
-      ]
+      "investigative_direction": "Preserve the YouTube source video as comparison reference; identify original video uploader and timestamp; pursue additional independent destruction tests with documented methodology."
     },
     {
       "@type": "Claim",
@@ -2039,7 +2030,7 @@
       "@id": "C-5780",
       "ref": "C-5780",
       "label": "Baron Coleman had already reported the answer on the shirt",
-      "claim": "The host says a viewer pointed out that Baron Coleman, in his early coverage of the case, had already furnished the answer to her question about what happened to Charlie's shirt.",
+      "claim": "The host says someone pointed out to her that Baron Coleman, in his early coverage of the case, had already furnished the answer to her question about what happened to Charlie's shirt.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10707"
@@ -2089,7 +2080,9 @@
       "investigative_direction": "Identify who recovered the necklace, any evidence log entry for it, and the date it was released to Erika Kirk.",
       "transcript_snippet": "the feds were looking for it for some unknown reason, as was Frank Turek, and it was then given to the widow, who now wears it around her neck.",
       "mentions_person_refs": [
-        "N-7"
+        "N-7",
+        "N-1",
+        "N-2"
       ]
     },
     {
@@ -2110,7 +2103,7 @@
         "C-4366"
       ],
       "mentions_person_refs": [
-        "N-69"
+        "N-2"
       ]
     },
     {
@@ -2195,7 +2188,7 @@
       "investigative_direction": "Request the dispatch record and audio for the Sept 10, 2025 911 call from Utah County dispatch.",
       "transcript_snippet": "We still can't figure out who in the car called 911, and we can't find that 911 call, but they say someone did call 911.",
       "mentions_person_refs": [
-        "N-267"
+        "N-3"
       ]
     },
     {
@@ -2260,7 +2253,8 @@
       "mentions_person_refs": [
         "N-267",
         "N-7",
-        "N-191"
+        "N-191",
+        "N-1"
       ]
     },
     {
@@ -2279,7 +2273,6 @@
       "investigative_direction": "Check the State's exhibit and evidence lists in the Robinson case for clothing worn by Charlie Kirk, and the hospital's patient-belongings record.",
       "transcript_snippet": "Cuz I don't see it in evidence. I don't see it marked as evidence. I haven't seen it in the court case filings that they have this shirt anywhere.",
       "mentions_person_refs": [
-        "N-267",
         "N-1"
       ]
     },
@@ -2424,7 +2417,7 @@
       "@type": "Claim",
       "@id": "C-5799",
       "ref": "C-5799",
-      "label": "Host says Tool's 200-yard estimate matches the distance to Loews Center",
+      "label": "Host says Tool's 200-yard estimate matches the distance to Losee Center",
       "claim": "The host says Sarah Tool's ABC News estimate of how far away the shot was fired matches the distance to Loews Center.",
       "anchored_artifacts": [
         "A-2086.3"
@@ -2567,7 +2560,7 @@
       "@id": "C-5807",
       "ref": "C-5807",
       "label": "A handwritten note was subsequently destroyed",
-      "claim": "The host says there was a handwritten note that was subsequently destroyed.",
+      "claim": "The host says the evidence against Tyler Robinson includes a handwritten note that was subsequently destroyed.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10337",
@@ -2578,8 +2571,7 @@
       "investigative_direction": "Check the charging documents and affidavit for the note's description, who found it and how it was destroyed.",
       "transcript_snippet": "a handwritten note that was subsequently destroyed which doesn't pass the sniff test, because why would you handwrite anything if you're going to just text everything out anyway.",
       "mentions_person_refs": [
-        "N-40",
-        "N-54"
+        "N-40"
       ]
     },
     {
@@ -3285,7 +3277,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:47:51",
       "investigative_direction": "Locate the original Tim Dillon episode and confirm the segment is presented as comedy.",
@@ -3300,7 +3292,7 @@
       "@type": "Claim",
       "@id": "C-5844",
       "ref": "C-5844",
-      "label": "Host acknowledges the excerpt is not literally in the book",
+      "label": "Tim Dillon Says the Excerpt Is the Essence of the Book",
       "claim": "In the clip the host plays, Tim Dillon says many people will say the excerpt is not technically in Vance's book, and that it is the essence of the book.",
       "anchored_artifacts": [
         "A-2090.1"

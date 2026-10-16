@@ -205,7 +205,7 @@ Confidence Level: High
 
 **A-2595.4** Host's follow-up email to the White House on the April 25 email (read aloud)
 
-Quoted text: "Thank you for the prompt response. Attribution aside, are you claiming that an email was not sent or received at all on the evening of April 25th with Steven Cheung, Richard Smale, and Ryan Rippien carbon copied with the below language in part: Addendum Erika Kirk video clip, video clip of Erika Kirk leaving the ballroom area and saying, 'I just want to go home' is driving the highest organic engagement of all instant related content across platforms."
+Quoted text: "Thank you for the prompt response. Attribution aside, are you claiming that an email was not sent or received at all on the evening of April 25th with Steven Cheung, Richard Smale, and Ryan Rippeon carbon copied with the below language in part: Addendum Erika Kirk video clip, video clip of Erika Kirk leaving the ballroom area and saying, 'I just want to go home' is driving the highest organic engagement of all instant related content across platforms."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:35:13
@@ -406,7 +406,7 @@ First named by the host at 00:35:13 in episode 106. Named in the host's follow-u
 
 **N-623** Ryan Rippeon
 
-First named by the host at 00:35:13 in episode 106. Named in the host's follow-up as copied on the April 25 email; the host copied him on her second email. Aliases: Ryan Rippey.
+First named by the host at 00:35:13 in episode 106. Named in the host's follow-up as copied on the April 25 email; the host copied him on her second email. Aliases: Ryan Rippeon.
 
 *Related: C-4199, C-4202, A-2595.4*
 
@@ -1055,13 +1055,13 @@ Investigative Direction: Identify the distribution list in the original email he
 
 ---
 
-**C-4199** Host's follow-up asked about an April 25 email copied to Cheung, Smalley and Rippien
+**C-4199** Host's Follow-Up Asked About an April 25 Email Copied to Cheung, Smale and Rippeon
 
 Claim Timestamp: 00:35:13
 
 Claim: The host reads her follow-up email asking the White House whether it claims no email was sent or received on the evening of April 25 with Steven Cheung, Richard Smale and Ryan Rippeon copied, quoting the "Addendum Erika Kirk video clip" language.
 
-Transcript Snippet: are you claiming that an email was not sent or received at all on the evening of April 25th with Steven Cheung, Richard Smale, and Ryan Rippien carbon copied with the below language in part
+Transcript Snippet: are you claiming that an email was not sent or received at all on the evening of April 25th with Steven Cheung, Richard Smale, and Ryan Rippeon carbon copied with the below language in part
 
 Anchored Artifacts: A-2595.4
 Mentions: N-3, N-161, N-628, N-623, N-2
@@ -1100,13 +1100,13 @@ Investigative Direction: Obtain the original email from a recipient and verify i
 
 ---
 
-**C-4202** Host copied Smalley, Rippey and the White House Press Office on her follow-up
+**C-4202** Host Copied Smale, Rippeon and the White House Press Office on Her Follow-Up
 
 Claim Timestamp: 00:36:27
 
-Claim: The host says she copied Richard Smale, Ryan Rippey and the White House Press Office on her second email so there would be no confusion.
+Claim: The host says she copied Richard Smale, Ryan Rippeon and the White House Press Office on her second email so there would be no confusion.
 
-Transcript Snippet: To be clear, I also CC'd Richard Smale. I I CC'd Ryan Rippey and for good measure, I CC'd the White House Press Office.
+Transcript Snippet: To be clear, I also CC'd Richard Smale. I I CC'd Ryan Rippeon and for good measure, I CC'd the White House Press Office.
 
 Anchored Artifacts: A-2595.4
 Mentions: N-3, N-628, N-623
@@ -1195,7 +1195,7 @@ Investigative Direction: Review Paramount Tactical's product catalog and the con
 
 Claim Timestamp: 00:39:34
 
-Claim: The host says the father of the person she calls "decoy boy number two" received a massive Department of Defense contract through the Built app shortly before Charlie Kirk's death.
+Claim: The host says the father of the person she calls "decoy boy number two" received a massive Department of Defense contract shortly before Charlie Kirk's death, mentioning the Built app.
 
 Transcript Snippet: Remember our decoy boy number two, his dad, too, got a massive contract with the Department of Defense.
 
@@ -1427,7 +1427,7 @@ Confidence: high
 
 - **DIA beats**: no hits for any DIA trigger phrase (tips, tip line, candaceowens.com, send us an email, decentralized intelligence, DCIA, bounty) in this transcript, so no M-12 or M-14 occurrence was added.
 - **Artifacts verbally referenced but not shown**: the original WHCD email and the host's retyped post of it; Erika Kirk's first Charlie Kirk Show appearance (C-4187); Paramount Tactical's website (C-4207); the Built contract records (C-4208). The Megyn Kelly interview (A-2592.1) appears to be on screen ("look at the tears in her eye"), but the exact clip is unclear, hence Medium confidence.
-- **Name matching**: "Bryan Hubble" (37:55) is matched to N-267 Brian Harpole from context: the person who gave an interview to Paramount Tactical, in line with C-2906/C-2907. "Andrew Kolvet"/"Andrew Kolvet" map to N-14, and "Laky Neff"/"Blakey fake and F" map to N-160 Blake Neff. "Eric and Kirk" (33:08) is read as Erika Kirk. "Ryan Rippeon" (35:13) and "Ryan Rippey" (36:27) are treated as one new person, N-623, with spelling unverified. "Gary" and "Gary Melton" are treated as the Paramount Tactical operator (N-617). Paramount Tactical is mapped to the existing organization N-10899 "Paramount Tactical Valhalla". Prior claim C-2907 names Paramount Tactical and Valhalla separately, so the integrator should confirm this node covers Paramount Tactical itself.
+- **Name matching**: "Bryan Hubble" (37:55) is matched to N-267 Brian Harpole from context: the person who gave an interview to Paramount Tactical, in line with C-2906/C-2907. "Andrew Kolvet"/"Andrew Kolvet" map to N-14, and "Laky Neff"/"Blakey fake and F" map to N-160 Blake Neff. "Eric and Kirk" (33:08) is read as Erika Kirk. "Ryan Rippeon" (35:13) and "Ryan Rippeon" (36:27) are treated as one new person, N-623, with spelling unverified. "Gary" and "Gary Melton" are treated as the Paramount Tactical operator (N-617). Paramount Tactical is mapped to the existing organization N-10899 "Paramount Tactical Valhalla". Prior claim C-2907 names Paramount Tactical and Valhalla separately, so the integrator should confirm this node covers Paramount Tactical itself.
 - **Decoy boy number two**: the host does not name him or his father; C-4208 links to N-10577/N-10578 and Supports C-2632 (Built Inc. Air Force/Navy awards) on the shared proposition. Mentions of Ahmed Qureshi were left out because he is not named on air.
 - **Transcription ambiguities**: "Brigitte doll" (00:00:01, 03:44) is kept as spoken and not matched to any node. "pointing her ICO" (48:43) is presumably "appointing her CEO". "Hollywood companies that specialize in IA" is kept as spoken. "Phil Tourney" is named only as the host's top-ranked interview, so no claim cites him.
 - **Cross-episode links left out**: the WHCD email story itself was first broken in an earlier episode ("last week"), but no matching claim appears in claims_index.tsv (episodes 103–105 have no indexed claims), so C-4192/C-4193 carry no Supports link. C-4198 (the Military Office may not have sent the email) may qualify the host's earlier attribution; it is left unlinked for the same reason. C-4175 (TPUSA released the audio) relates to C-2889 but is not the same proposition.

@@ -913,7 +913,7 @@
       "ref": "N-623",
       "name": "Ryan Rippeon",
       "type": "person",
-      "description": "First named by the host at 00:35:13 in episode 106. Named in the host's follow-up as copied on the April 25 email; the host copied him on her second email. Aliases: Ryan Rippey.",
+      "description": "First named by the host at 00:35:13 in episode 106. Named in the host's follow-up as copied on the April 25 email; the host copied him on her second email. Aliases: Ryan Rippeon.",
       "related_artifacts": [
         "A-2595.4"
       ],
@@ -2078,7 +2078,7 @@
       "@type": "Claim",
       "@id": "C-4199",
       "ref": "C-4199",
-      "label": "Host's follow-up asked about an April 25 email copied to Cheung, Smalley and Rippien",
+      "label": "Host's Follow-Up Asked About an April 25 Email Copied to Cheung, Smale and Rippeon",
       "claim": "The host reads her follow-up email asking the White House whether it claims no email was sent or received on the evening of April 25 with Steven Cheung, Richard Smale and Ryan Rippeon copied, quoting the \"Addendum Erika Kirk video clip\" language.",
       "anchored_artifacts": [
         "A-2595.4"
@@ -2090,7 +2090,7 @@
       "tags": [],
       "claim_timestamp": "00:35:13",
       "investigative_direction": "Ask Steven Cheung, Richard Smale and Ryan Rippeon directly whether they received the April 25 email.",
-      "transcript_snippet": "are you claiming that an email was not sent or received at all on the evening of April 25th with Steven Cheung, Richard Smale, and Ryan Rippien carbon copied with the below language in part",
+      "transcript_snippet": "are you claiming that an email was not sent or received at all on the evening of April 25th with Steven Cheung, Richard Smale, and Ryan Rippeon carbon copied with the below language in part",
       "mentions_person_refs": [
         "N-3",
         "N-161",
@@ -2142,8 +2142,8 @@
       "@type": "Claim",
       "@id": "C-4202",
       "ref": "C-4202",
-      "label": "Host copied Smalley, Rippey and the White House Press Office on her follow-up",
-      "claim": "The host says she copied Richard Smale, Ryan Rippey and the White House Press Office on her second email so there would be no confusion.",
+      "label": "Host Copied Smale, Rippeon and the White House Press Office on Her Follow-Up",
+      "claim": "The host says she copied Richard Smale, Ryan Rippeon and the White House Press Office on her second email so there would be no confusion.",
       "anchored_artifacts": [
         "A-2595.4"
       ],
@@ -2154,7 +2154,7 @@
       "tags": [],
       "claim_timestamp": "00:36:27",
       "investigative_direction": "Show the recipient line of the sent follow-up email.",
-      "transcript_snippet": "To be clear, I also CC'd Richard Smale. I I CC'd Ryan Rippey and for good measure, I CC'd the White House Press Office.",
+      "transcript_snippet": "To be clear, I also CC'd Richard Smale. I I CC'd Ryan Rippeon and for good measure, I CC'd the White House Press Office.",
       "mentions_person_refs": [
         "N-3",
         "N-628",
@@ -2276,7 +2276,7 @@
       "@id": "C-4208",
       "ref": "C-4208",
       "label": "\"Decoy boy number two's\" father received a large DoD contract before the assassination",
-      "claim": "The host says the father of the person she calls \"decoy boy number two\" received a massive Department of Defense contract through the Built app shortly before Charlie Kirk's death.",
+      "claim": "The host says the father of the person she calls \"decoy boy number two\" received a massive Department of Defense contract shortly before Charlie Kirk's death, mentioning the Built app.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10577",

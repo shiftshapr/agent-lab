@@ -1537,7 +1537,7 @@
       "claim_timestamp": "00:02:15",
       "investigative_direction": "Obtain UVU event form records directly; cross-check against TPUSA's later framing in the wrongful-death filing.",
       "mentions_person_refs": [
-        "N-2"
+        "N-3"
       ],
       "contradicts_claim_refs": [
         "C-3493"
@@ -1548,7 +1548,7 @@
       "@id": "C-3495",
       "ref": "C-3495",
       "label": "Per ABC News Report, UVU Attendance Estimate Progressed 200 to 600 to 1,500 to About 3,000",
-      "claim": "Per the ABC News report the host reads, the UVU event attendance was initially estimated at 200, revised to 600, then, per TPUSA, to 1,500 (in an undocumented later conversation), with actual attendance of about 3,000.",
+      "claim": "Per the ABC News report the host reads, the UVU event attendance was initially estimated at 200, revised to 600, then, per TPUSA, to 1,500 (in a later conversation the host says was undocumented), with actual attendance of about 3,000.",
       "anchored_artifacts": [
         "A-2393.1"
       ],
@@ -1559,7 +1559,7 @@
       "claim_timestamp": "00:03:06",
       "investigative_direction": "Obtain UVU planning documents directly; verify timing of each revision; identify whether any \"1,500\" update exists in any retained form.",
       "mentions_person_refs": [
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -1576,10 +1576,10 @@
         "N-10843"
       ],
       "tags": [],
-      "claim_timestamp": "00:04:04",
+      "claim_timestamp": "00:06:00",
       "investigative_direction": "Verify whether the same open-event rationale was applied to security/staffing decisions; compare to documented Prove Me Wrong events.",
       "mentions_person_refs": [
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -1609,7 +1609,7 @@
       "@id": "C-3498",
       "ref": "C-3498",
       "label": "4plebs Post Mirrors The Forwarded \"Operation\" Plan",
-      "claim": "The 4plebs post allegedly found by \"E\" and cited via the Vox article referenced the same Charlie/Candace feud-seeding narrative – ask \"gripers\" to put Charlie against Candace; \"fluff\" Candace's ego; frame Candace as driven out of TPUSA by Kirk fearing her.",
+      "claim": "Per the 4plebs post the host shows, which Andrew Kolvet said Erika (\"E\") found and said was linked in a Vox article (the host says the article does not link to the post), the post set out the same Charlie/Candace feud-seeding narrative – ask \"gripers\" to put Charlie against Candace; \"fluff\" Candace's ego; frame Candace as driven out of TPUSA by Kirk fearing her.",
       "anchored_artifacts": [
         "A-2395.1",
         "A-2396.1"
@@ -1623,7 +1623,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-3"
+        "N-3",
+        "N-14"
       ]
     },
     {
@@ -1631,7 +1632,7 @@
       "@id": "C-3499",
       "ref": "C-3499",
       "label": "Clip Has Charlie Kirk Describing Club America as Opt-In / Grassroots / Debate-Club Parallel",
-      "claim": "In a clip the host plays of his presentation to Aspen donors, Charlie Kirk describes the Club America vision as a grassroots, opt-in, student-led chapter model parallel to DECA and debate clubs, with 80 new full-time staff dedicated to sourcing leads and guiding student-initiated chapter formation.",
+      "claim": "In a clip the host plays of his presentation to Aspen donors, Charlie Kirk says the high school program is now called Club America, that 80 new full-time staff were hired to source high school students who want to start chapters and guide them through the process, and that he wants Club America to be built in like DECA or the debate club; the host calls this a grassroots vision.",
       "anchored_artifacts": [
         "A-2397.1"
       ],
@@ -1642,7 +1643,7 @@
       "claim_timestamp": "00:30:10",
       "investigative_direction": "Obtain full audio/presentation recording; verify against any written strategic plans; cross-check against current TPUSA Club America implementation.",
       "mentions_person_refs": [
-        "N-2",
+        "N-3",
         "N-1"
       ]
     },
@@ -1651,7 +1652,7 @@
       "@id": "C-3500",
       "ref": "C-3500",
       "label": "Host Says Erika Kirk Spoke at Nampa Christian School Assembly Where Students Were Not Opt-In Participants",
-      "claim": "The host says Erika Kirk spoke at a Nampa Christian School assembly where students were not voluntary opt-in participants, citing parent emails and student-to-parent text messages she shows describing students unable to leave and \"locked in the gym.\"",
+      "claim": "The host says Erika Kirk spoke at a Nampa Christian School assembly where students were not voluntary opt-in participants, citing parent emails she received and a student's text messages to a parent that she shows describing students unable to leave and \"locked in the gym.\"",
       "anchored_artifacts": [
         "A-2399.1",
         "A-2403.1"
@@ -1670,7 +1671,7 @@
       "@type": "Claim",
       "@id": "C-3501",
       "ref": "C-3501",
-      "label": "TPUSA Claimed 500+ Voluntary Nampa Christian School Attendees",
+      "label": "TPUSA Claimed 500+ Nampa Christian School Attendees",
       "claim": "TPUSA's X post claimed 500+ \"outstanding high school student attendees\" at the Nampa Christian School event as part of the Club America tour.",
       "anchored_artifacts": [
         "A-2398.1"
@@ -1682,7 +1683,7 @@
       "claim_timestamp": "00:20:36",
       "investigative_direction": "Cross-check TPUSA claim against school attendance records and parent reports.",
       "mentions_person_refs": [
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -1776,7 +1777,6 @@
       "claim_timestamp": "00:49:47",
       "investigative_direction": "Identify the original Tucker Carlson platform/episode where this criticism aired; verify whether Carlson explicitly named Neff.",
       "mentions_person_refs": [
-        "N-1",
         "N-22",
         "N-160"
       ]
@@ -1874,7 +1874,7 @@
       "claim_timestamp": "00:55:56",
       "investigative_direction": "Verify whether TPUSA scheduled an anniversary event at UVU; identify the venue.",
       "mentions_person_refs": [
-        "N-2",
+        "N-3",
         "N-1"
       ]
     },
@@ -2029,7 +2029,7 @@
       "@id": "C-11808",
       "ref": "C-11808",
       "label": "TPUSA Official Tells ABC the Form Was Submitted in Early July With 200 Plus Selected",
-      "claim": "The host reads a TPUSA official's statement to ABC News that on an online form submitted in early July a chapter member selected 200 plus as the maximum attendance, which differs from the mid-July date the host gave for the form.",
+      "claim": "The host reads a TPUSA official's statement to ABC News that on an online form submitted in early July a chapter member selected 200 plus as the maximum attendance.",
       "anchored_artifacts": [
         "A-2393.1"
       ],
@@ -2057,7 +2057,7 @@
       "@id": "C-11809",
       "ref": "C-11809",
       "label": "Chief Jeff Long Said Six Officers Worked UVU and Kirk Had His Own Security",
-      "claim": "The host reads that Chief Jeff Long told reporters over 3,000 people attended, that six officers worked the event and that Kirk had his own security team.",
+      "claim": "The host reads that Chief Jeff Long told reporters there were probably over 3,000 people in attendance, that six officers worked the event and that Kirk had his own security team.",
       "anchored_artifacts": [
         "A-2393.1"
       ],
@@ -2762,7 +2762,7 @@
       "@id": "C-11839",
       "ref": "C-11839",
       "label": "Host Says Empress Films Staff Are Openly Left-Leaning",
-      "claim": "The host says the Empress Films staff are proud feminists and pro-LGBTQ and that one employee wore a shirt she describes as \"slay the patriarchy\" but then reads as \"Never gender\" while saying she cannot see it well, which she says makes the company an odd match for Erika Kirk and Kolvet.",
+      "claim": "The host says the Empress Films staff are proud feminists and pro-LGBTQ, that one employee wore a shirt like \"slay the patriarchy\" and that another shirt reads \"Never gender\" though she says she cannot see it well, which she says makes the company an odd match for Erika Kirk and Kolvet.",
       "anchored_artifacts": [
         "A-3166.1"
       ],

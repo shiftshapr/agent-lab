@@ -637,7 +637,7 @@ Marx's account of missions to Iraq beginning in 2015 at the Kurdistan government
 **C-3702** Host Says Victor Marx Was First to Announce Kirk Death on Instagram About 1.5 Hours Before President
 
 Claim Timestamp: 00:01:24
-Claim: The host says Victor Marx was the first she could find to publicly announce Charlie Kirk's passing via Instagram, approximately 1.5 hours before the U.S. president's announcement.
+Claim: The host says Victor Marx was the first she could find to publicly announce Charlie Kirk's passing on social media, she believes on Instagram, approximately 1.5 hours before the U.S. president's announcement.
 Transcript Snippet: first that we could find to publicly announce that Charlie Kirk had passed away on September 10th
 Anchored Artifacts: A-2505.1
 Mentions: N-1, N-342
@@ -1342,7 +1342,7 @@ Investigative Direction: Locate the statement Marx cites and any corresponding E
 
 Claim Timestamp: 00:19:19
 
-Claim: Asked whether he still has homicidal thoughts, Victor Marx says that was a long time ago and that he is thankful he did not act on them.
+Claim: Asked whether he still has homicidal thoughts, Victor Marx says that was a long time ago and that he is thankful he didn't.
 
 Transcript Snippet: That was a long time ago and I'm thankful I didn't.
 
@@ -1662,7 +1662,7 @@ Investigative Direction: Ask to inspect the letters and the ministry's donation 
 
 Claim Timestamp: 00:39:08
 
-Claim: Victor Marx says, in response to Melody Hall's account, that prayer sessions take 10 to 15 minutes on average, nobody is hurt and there is no manifestation.
+Claim: Victor Marx says, referring to Corby Hall's wife Melody, that his prayer for her did not take long, that prayer sessions take 10 to 15 minutes on average, nobody is hurt and there is no manifestation.
 
 Transcript Snippet: We're talking 10, 15 minutes is the average time of prayer. It's not dramatic.
 
@@ -1801,7 +1801,7 @@ Investigative Direction: Reconstruct the hospital notification time and the Inst
 
 Claim Timestamp: 00:46:02
 
-Claim: Victor Marx says someone texted him that his son was at Charlie's event and that Charlie was just shot and it did not look good.
+Claim: Victor Marx says someone texted him that the sender's son was at Charlie's event and that Charlie was just shot and it did not look good.
 
 Transcript Snippet: My son is at Charlie's event and Charlie was just shot
 
@@ -1879,7 +1879,7 @@ Investigative Direction: Pull archived copies of both posts with their timestamp
 
 Claim Timestamp: 00:47:56
 
-Claim: The host says Jack Hibbs and Amir Tsarfati also posted early and that Jack Hibbs took down a video saying an Israel channel had reported the death first and had the information before anyone else; Marx says he is not aware of that.
+Claim: The host says she believes Jack Hibbs and Amir Tsarfati also posted early and that Jack Hibbs took down a video saying an Israel channel had reported the death first and had the information before anyone else; Marx says he is not aware of that.
 
 Transcript Snippet: Jack Hibbs took down a video saying that actually there was an Israel channel that reported it first and had the information before anybody else.
 
@@ -2238,11 +2238,11 @@ Investigative Direction: Locate the couple's video and check its post date.
 
 ---
 
-**C-5760** Marx alleges Holly's boyfriend groomed her from 13 and had sex with her at 15
+**C-5760** Marx Alleges Holly's Pedophile Groomed Her From 13 and Had Sex With Her at 15
 
 Claim Timestamp: 01:04:41
 
-Claim: Victor Marx alleges that Holly's boyfriend groomed her from age 13, had sex with her at 15, and that they have a child.
+Claim: Victor Marx alleges that the man he calls Holly's pedophile groomed her from age 13, had sex with her at 15, and that they have a child.
 
 Transcript Snippet: it was Holly's pedophile who groomed this girl since she was 13, had sex with her at 15.
 

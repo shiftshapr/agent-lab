@@ -2395,8 +2395,8 @@
       "@type": "Claim",
       "@id": "C-3228",
       "ref": "C-3228",
-      "label": "Victor Marx Stated He Decapitated a Cat at Age 3 With His Stepfather's Hand Over His",
-      "claim": "In his Piers Morgan interview, Victor Marx stated that at age 3, his stepfather placed his hand over Victor's hand on a knife to decapitate a dead cat.",
+      "label": "Victor Marx Explains Cutting a Cat's Head Off at Age 3 With an Adult's Hand Over His",
+      "claim": "In a clip of his Piers Morgan interview the host plays, asked how he could cut a cat's head off at age 3, Victor Marx asks whether Morgan could not cut the head off a dead cat if he put his hand around his son's hand on the knife.",
       "anchored_artifacts": [
         "A-2251.1"
       ],
@@ -2416,7 +2416,7 @@
       "@id": "C-3229",
       "ref": "C-3229",
       "label": "Victor Marx Stated He Shot a Handcuffed Kneeling Man at Age 7",
-      "claim": "In his Piers Morgan interview, Victor Marx stated that at age 7, his stepfather held his hand on a pistol aimed at a handcuffed, kneeling \"homeless fellow\" and pushed the trigger until the man was shot.",
+      "claim": "In his Piers Morgan interview, Victor Marx stated that at age 7, his stepfather held his hand on a pistol aimed at a handcuffed, kneeling man who, as best he can remember, looked like a \"homeless fellow\", and pushed the trigger until the man was shot.",
       "anchored_artifacts": [
         "A-2251.2"
       ],
@@ -2475,7 +2475,7 @@
       "@type": "Claim",
       "@id": "C-3232",
       "ref": "C-3232",
-      "label": "Daily Mail's Charlie Spiering Emailed the Show Claiming Foreign-Operative Use of Candace Owens' Tip Line",
+      "label": "Host Says Daily Mail's Charlie Spiering Wrote Claiming Foreign-Operative Use of Candace Owens' Tip Line",
       "claim": "Daily Mail journalist Charlie Spiering emailed the Candace Owens show stating that \"sources\" believe Candace is being used by foreign operatives sending misinformation through her tip line.",
       "anchored_artifacts": [
         "A-2252.1"
@@ -2528,7 +2528,7 @@
       "@type": "Claim",
       "@id": "C-3235",
       "ref": "C-3235",
-      "label": "Candace Owens' Home Address Was Shared Within a Multi-Person Group Chat and Acknowledged in Show Comments",
+      "label": "Host Says It Is Terrifying That Group Chat Members Shared Her Address",
       "claim": "The host says it is terrifying that they are sharing her address in private chats, that they seem deranged and obsessed in a way that feels dangerous, and that she would have no interest in being in a chat with 91 people about where Erika lives.",
       "anchored_artifacts": [
         "A-2246.1",
@@ -2688,7 +2688,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:03:10",
+      "claim_timestamp": "00:02:38",
       "investigative_direction": "Match the detective's service record and photographs against the Boy Scouts leader Mike Mitchell and his Washington County retirement.",
       "transcript_snippet": "we were able to find an undercover detective who was involved in Utah with cyber sex crime unit by that same name",
       "supports_claim_refs": [
@@ -3870,7 +3870,7 @@
       "@id": "C-9143",
       "ref": "C-9143",
       "label": "Host Says Everything About Erika Kirk's Past Falls Apart Under Investigation",
-      "claim": "The host says that everything about Erika's past, when examined, leads into a dark hole and that what she presented to Charlie is not true.",
+      "claim": "The host says that everything about Erika's past, when examined, leads into a dark hole, and questions everything she presented herself to be to Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3968,7 +3968,7 @@
         "N-10780"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:54:40",
       "investigative_direction": "Identify the posts and accounts that published the vehicles.",
@@ -4039,8 +4039,7 @@
       "transcript_snippet": "nobody that is a part of the Pepsi network has been taken down.",
       "mentions_person_refs": [
         "N-3",
-        "N-9",
-        "N-171"
+        "N-9"
       ]
     },
     {

@@ -2069,7 +2069,7 @@
       "@type": "Claim",
       "@id": "C-3239",
       "ref": "C-3239",
-      "label": "Andrew Wilson claims he hugged Erika Kirk at TPUSA HQ",
+      "label": "Andrew Wilson Claims He Hugged Erika Kirk at TPUSA HQ",
       "claim": "On the Joe Rogan Experience, Andrew Wilson stated that during a visit to TPUSA HQ he spoke briefly with Erika Kirk and hugged her, expressing sympathy for her loss.",
       "anchored_artifacts": [
         "A-2255.2"
@@ -2210,7 +2210,7 @@
         "N-10787"
       ],
       "tags": [],
-      "claim_timestamp": "00:30:09–00:30:33",
+      "claim_timestamp": "00:29:25",
       "investigative_direction": "Confirm watch-hand convention and whether left-hand page turn is consistent with dominant left-handedness or training.",
       "mentions_person_refs": [
         "N-54"
@@ -2423,7 +2423,7 @@
       "@type": "Claim",
       "@id": "C-3258",
       "ref": "C-3258",
-      "label": "Email states Luna wears pentagram necklace",
+      "label": "Host Says Luna Character Wears a Pentagram Necklace",
       "claim": "The host says that, on looking further into Luna, she learned the 'demon dog' character from Helluva Boss wears a pentagram as a necklace.",
       "anchored_artifacts": [
         "A-2265.1"
@@ -2990,7 +2990,7 @@
       "@id": "C-13217",
       "ref": "C-13217",
       "label": "Host Does Not Believe Kirk Was Killed by a Lone Gunman or That a Weapon Was Fired From the Losee Rooftop",
-      "claim": "The host says she does not believe Charlie Kirk was killed by a lone gunman and does not believe any weapon was fired from the Losee Center rooftop, based on what she observes in the footage.",
+      "claim": "The host says that, on the basis of the evidence presented, she does not believe Charlie Kirk was killed by a lone gunman and does not believe any weapon was fired from the Losee Center rooftop.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10112"
@@ -3338,7 +3338,6 @@
         "C-1183"
       ],
       "mentions_person_refs": [
-        "N-40",
         "N-3"
       ]
     },
@@ -3551,7 +3550,7 @@
       "@id": "C-13242",
       "ref": "C-13242",
       "label": "Host Infers the Dog Bed Would Make More Sense as Lance's Bed",
-      "claim": "The host says that if Lance has a hellhound persona it would make more sense that the dog bed was Lance's, embodying that persona, rather than staging by the feds.",
+      "claim": "The host says that Matt Robinson suspected the feds had staged his son's room with a dog bed, but if Lance has a hellhound persona it would make more sense that the dog bed was Lance's, with Lance embodying that persona.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10143",

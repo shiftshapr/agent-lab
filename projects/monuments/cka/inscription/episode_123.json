@@ -1320,8 +1320,8 @@
       "@type": "Claim",
       "@id": "C-2986",
       "ref": "C-2986",
-      "label": "Black Tempered Shattered Glass Present in Charlie Kirk Transport Vehicle",
-      "claim": "The host says photographs of the vehicle interior show black tempered shattered glass concentrated in the area corresponding to Charlie Kirk's chest position, consistent with her identification of a broken road/lapel microphone.",
+      "label": "Host Says Black Tempered Shattered Glass Is in Charlie Kirk Transport Vehicle",
+      "claim": "The host says photographs of the vehicle interior show black tempered shattered glass all over the car where Charlie Kirk's chest region would have been, consistent with her identification of a broken road microphone.",
       "anchored_artifacts": [
         "A-2110.3",
         "A-2111.4"
@@ -1357,7 +1357,7 @@
       "@id": "C-2988",
       "ref": "C-2988",
       "label": "Coat Hanger Visible in Vehicle, Likely Charlie's Jacket",
-      "claim": "A hanger is visible in Photo 1; the host infers it is connected to the sports coat Charlie Kirk was not wearing at the event.",
+      "claim": "The host points out a hanger in Photo 1 and says she guesses it is from the sports coat Charlie Kirk did not wear at the event.",
       "anchored_artifacts": [
         "A-2110.1"
       ],
@@ -1394,7 +1394,7 @@
       "@id": "C-2990",
       "ref": "C-2990",
       "label": "Host Says Cardboard-Colored Material Visible in Vehicle",
-      "claim": "The host says photos show a piece of cardboard-colored, thicker material with a brown/burnt appearance, separated from the Uber bags.",
+      "claim": "The host says photos show a piece of what looks to her like cardboard-colored material that she thinks looks thicker and burnt, separated from the Uber bags, while saying she could be wrong.",
       "anchored_artifacts": [
         "A-2110.2",
         "A-2111.1"
@@ -1425,8 +1425,8 @@
       "@type": "Claim",
       "@id": "C-2992",
       "ref": "C-2992",
-      "label": "Viewer Comment Host Reads Identifies SantaMedical.com Equipment in Vehicle Photo",
-      "claim": "A viewer comment the host reads identifies the medical bag visible in the photo as a SantaMedical.com product, and the host says this is consistent with equipment Brian Harpole described traveling with Charlie.",
+      "label": "Host's Staffer Ashley Identifies SantaMedical.com Equipment in Vehicle Photo",
+      "claim": "The host says her staffer Ashley figured out that the medical bag visible in the photo is a SantaMedical.com product, and the host says this is consistent with equipment Brian Harpole described traveling with Charlie.",
       "anchored_artifacts": [
         "A-2110.2",
         "A-2114.1"
@@ -1443,14 +1443,14 @@
       "@type": "Claim",
       "@id": "C-2993",
       "ref": "C-2993",
-      "label": "Mikey McCoy Appeared Physically Ill During Casket Removal at Hospital",
+      "label": "Host Says Mikey McCoy Appeared Physically Ill as Charlie's Casket Was Carried Out of the Hospital",
       "claim": "The host says that in a video she shows, Mikey McCoy was holding his stomach as if he were going to become ill and could not even hold the casket as Charlie was taken out of the hospital.",
       "anchored_artifacts": [
         "A-2112"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:33:10",
+      "claim_timestamp": "00:32:20",
       "investigative_direction": "Verify clip provenance; corroborate with hospital witness accounts; assess against prior statements from Erika Kirk and TPUSA describing McCoy as \"amazing\" and \"snapping into action.\"",
       "mentions_person_refs": [
         "N-191"
@@ -1479,7 +1479,7 @@
       "@id": "C-2995",
       "ref": "C-2995",
       "label": "Host Says TPUSA Staff Removed Poster at Arlington Memorial Referencing Candace Owens as Investigator",
-      "claim": "The host says a viewer sent her photos showing TPUSA staff removing a poster at Charlie Kirk's Arlington memorial site that read \"Don't worry, your big sister can figure out what happened.\"",
+      "claim": "The host says someone sent her photos showing TPUSA staff removing a poster at Charlie Kirk's Arlington memorial site that read \"Don't worry, your big sister can figure out what happened.\"",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -1512,7 +1512,7 @@
       "@type": "Claim",
       "@id": "C-2997",
       "ref": "C-2997",
-      "label": "Police Scanner Reported Car Door Open and Visible Struggle During Transport",
+      "label": "Host Says Harpole Described Police Scanner Reports of a Struggle and Open Car Door",
       "claim": "The host says Brian Harpole said police behind them reported on the scanner what looked like a struggle in the car, which she suggests could have been Rick Cutler holding Harpole, and that they said the car door was open.",
       "anchored_artifacts": [
         "A-2114.2"
@@ -1533,7 +1533,7 @@
       "@id": "C-2998",
       "ref": "C-2998",
       "label": "Host Says TPUSA Has Not Publicly Explained How Microphone Glass Ended Up in Vehicle",
-      "claim": "The host says TPUSA spokesperson Andrew Kolvet should respond about how the road microphone shattered, why the glass ended up in the vehicle, and where Charlie's shirt is.",
+      "claim": "The host says TPUSA spokesperson Andrew Kolvet should respond about why or how the road microphone shattered, why Frank Turek and Brian Harpole seem to have forgotten it in their many retellings, and where Charlie's shirt is.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10705",
@@ -1806,7 +1806,7 @@
       "@id": "C-7154",
       "ref": "C-7154",
       "label": "Host Says Charlie Gave an Interview in Salt Lake City Before Driving to Provo",
-      "claim": "The host says Charlie went to Salt Lake City and gave an interview to a company she names as restauranttology before driving to Provo for the event.",
+      "claim": "The host says Charlie went to Salt Lake City and gave an interview to a company she names as Restaurantology before driving to Provo for the event.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10074"
@@ -1825,8 +1825,8 @@
       "@type": "Claim",
       "@id": "C-7155",
       "ref": "C-7155",
-      "label": "Host Says Charlie Wore a T-Shirt That Stayed in the Car",
-      "claim": "The host says Charlie did not wear his jacket and was in a t-shirt that stayed in the car.",
+      "label": "Host Says Charlie's Unworn Jacket Stayed in the Car",
+      "claim": "The host says Charlie had a jacket that he did not wear, as he was in a t-shirt, and that the jacket stayed in the car.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10707"
@@ -1890,7 +1890,7 @@
       "@id": "C-7158",
       "ref": "C-7158",
       "label": "Host Says the Ride Was an 8-Minute Drive at Speeds Implying No Traffic",
-      "claim": "The host says the story has about six minutes on the clock at 40, 60 and 100 miles an hour for a ride Google Maps puts at eight minutes, and that such speeds mean they were not stuck in traffic.",
+      "claim": "The host says the story Frank Turek and Brian Harpole tell has about six minutes on the clock at 40, 60 and 100 miles an hour for a ride Google Maps puts at eight minutes, and that such speeds mean they were not stuck in traffic.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10686"
@@ -2141,7 +2141,7 @@
       "@id": "C-7170",
       "ref": "C-7170",
       "label": "Host Says Brian Harpole Is Suing Her over His Incompetence",
-      "claim": "The host says Brian Harpole is suing her and rejects being called incompetent, saying people should watch how Charlie was carried to the car.",
+      "claim": "The host says Brian Harpole is suing her over his incompetence, mocks his position that she cannot call him incompetent, and says people should watch how Charlie was carried to the car.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10651"
@@ -2368,10 +2368,7 @@
       ],
       "claim_timestamp": "00:39:01",
       "investigative_direction": "Examine succession documents and corporate records showing who gained control and when.",
-      "transcript_snippet": "They had to they wanted to take over Turning Point USA. That's what I think anyway.",
-      "mentions_person_refs": [
-        "N-1"
-      ]
+      "transcript_snippet": "They had to they wanted to take over Turning Point USA. That's what I think anyway."
     },
     {
       "@type": "Claim",
@@ -2690,8 +2687,8 @@
       "@type": "Claim",
       "@id": "C-7196",
       "ref": "C-7196",
-      "label": "Host Says the Charlie Kirk Show Team Shares a Building with Ter",
-      "claim": "The host says the show's hosts and Turek are all in the same building, the Charlie Kirk building, so answers could be had quickly.",
+      "label": "Host Says the Charlie Kirk Show Team Shares a Building with Terryl",
+      "claim": "The host says the Charlie Kirk Show hosts could get quick answers from Terryl, since he is right there and they are all in the same building, the Charlie Kirk building, the Fineberg building.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -2703,7 +2700,8 @@
       "investigative_direction": "Confirm the building and tenants from property and TPUSA lease records.",
       "transcript_snippet": "You guys are all in the same building, the Charlie Kirk building, the Fineberg building.",
       "mentions_person_refs": [
-        "N-14"
+        "N-14",
+        "N-262"
       ]
     },
     {
@@ -2715,7 +2713,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:54:34",
       "investigative_direction": "Confirm from public records or McCoy's own statements; no source named.",
@@ -2765,7 +2763,7 @@
       "@type": "Claim",
       "@id": "C-7200",
       "ref": "C-7200",
-      "label": "Host Says She Does Not Know Why Utah Data Centers Are Tied to Romania",
+      "label": "Host Says She Does Not Know What Is Going On with Data Centers, Utah and Romania",
       "claim": "The host says she does not know what is going on with data centers or Utah or why they are so tied to Romania, and that the pieces are coming together.",
       "anchored_artifacts": [],
       "related_nodes": [

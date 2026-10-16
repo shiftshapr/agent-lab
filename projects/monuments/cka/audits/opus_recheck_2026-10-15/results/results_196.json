@@ -1,0 +1,751 @@
+[
+ {
+  "claim": "C-3212",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Email hedges: 'I'm not sure where I learned it, but I always remember being told to use black nitro gloves because it's the most resistant'; claim drops the hedge.",
+  "fix": {
+   "claim": "A woodworker email the host reads says the writer is not sure where he learned it but remembers being told to use black nitrile gloves because they are the most resistant to CA glue and spray activator adhesive."
+  }
+ },
+ {
+  "claim": "C-3213",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3214",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3215",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3216",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Tail-fins/Tomahawk footage part of the Sky clip is spoken ~00:38:10-00:38:17 in block 37:35; 00:38:43 is ~26s+ after.",
+  "fix": {
+   "timestamp": "00:38:05"
+  }
+ },
+ {
+  "claim": "C-3217",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3218",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3219",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript: 'we actually received a press request from the Daily Mail yesterday'; the date 'Aug 3, 2026' is an inference not stated.",
+  "fix": {
+   "claim": "The Daily Mail, in a press request the host says her team received the day before, asked what steps she is taking \"if the worst happens and you are raided by law enforcement.\""
+  }
+ },
+ {
+  "claim": "C-3220",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'We looked it up and it turns out it is 100% true'; the email said 'most resistant', not 'the standard resistance'.",
+  "fix": {
+   "claim": "Candace Owens states her team looked up and verified the woodworker's email claim that black nitrile gloves are the most resistant to CA glue/spray activator, characterizing it as \"100% true.\""
+  }
+ },
+ {
+  "claim": "C-3221",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3665",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3666",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7474",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7475",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7476",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'I thought for sure yesterday at the end of the episode he'd reach out... for having solved the mystery' - 'at the end' refers to when Neff would reach out, not when the mystery was solved.",
+  "fix": {
+   "claim": "The host says that in the previous episode her team solved the mystery of who was on the rooftop at the Losee Center with Officer Bagley, and that Neff did not thank her for it."
+  }
+ },
+ {
+  "claim": "C-7477",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7478",
+  "episode": 137,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Clip turns: '>> Or steal, kill, and destroy. This is spiritual warfare...' then '>> Yeah. I'm talking about Candace Owens.' then 'Yeah. Yeah. It's ridiculous' (Turek). The naming line and the 'lies, accusations' line appear to be the interviewer's.",
+  "fix": {
+   "claim": "In the Nicholas Bowling podcast clip, after the other speaker says that since Charlie Kirk was murdered there have been lies, accusations and slander, Frank Turek calls this spiritual warfare and demonic activity, and the other speaker says he is talking about Candace Owens.",
+   "label": "Turek Calls the Lies and Slander After Kirk's Death Demonic as Candace Owens Is Named in the Clip"
+  }
+ },
+ {
+  "claim": "C-7479",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7480",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7481",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Mitch Mitchell (HappyScribe also has 'Mitch Mitchell'); mapped to N-125 Mike Mitchell.",
+  "fix": {}
+ },
+ {
+  "claim": "C-7482",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7483",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7484",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7485",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7486",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7487",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript 'John Bray'; canonical node N-684 is Jon Bray.",
+  "fix": {
+   "claim": "The host says Jon Bray showed that the glass for the road microphone is very sticky, and that woodworkers use black nitrile gloves to handle superglue because adhesive wipes off easily.",
+   "label": "Host Recalls Jon Bray Showed the Road Microphone Glass Is Very Sticky"
+  }
+ },
+ {
+  "claim": "C-7488",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7489",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7490",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7491",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: 'I've got a source that UVU tells me' - garbled; most likely 'a source at UVU'. 'a source who talked to UVU' adds an intermediary.",
+  "fix": {
+   "claim": "The host says a UVU source told her that after the assassination Mike Lee was contacted because of something unusual that took place on campus the day before the shooting, after he had already cancelled."
+  }
+ },
+ {
+  "claim": "C-7492",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7493",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7494",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7495",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7496",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7497",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7498",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7499",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'Consistent messaging to the public was they wanted nothing but transparency. Dan Bonino, Kash Patel, Erika Kirk, TPUSA. We didn't edit the videos. We don't lie about what was on the footage.' - 'We' is the host's team, not them.",
+  "fix": {
+   "claim": "The host says the consistent public messaging from Dan Bongino, Kash Patel, Erika Kirk and Turning Point USA was that they wanted nothing but transparency, and says her own team did not edit the videos or lie about what was on the footage.",
+   "label": "Host Says Bongino, Patel, Erika Kirk and TPUSA Publicly Promised Transparency"
+  }
+ },
+ {
+  "claim": "C-7500",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7501",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7502",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7503",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7504",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7505",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'Person you say shot Charlie Kirk, jumped off' - 'you' is Bagley/officials, not the host.",
+  "fix": {
+   "claim": "The host says she can exclusively tell viewers that the answer to whether anybody got on the rooftop before Officer Bagley, after the person Bagley says shot Charlie Kirk jumped off and before he arrived at 12:44 p.m., is yes."
+  }
+ },
+ {
+  "claim": "C-7506",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7507",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host spells it out: 'Allan is spelled A L, not A L Len'; claim uses 'Alan'. Canonical N-751 Allan Robertson.",
+  "fix": {
+   "claim": "The host says many emails misspelled Allan Robertson's name and described a different Allen, and that other people tied to San Bernardino police told her he was not let go or transferred over conduct issues and left willingly on good terms to raise his kids."
+  }
+ },
+ {
+  "claim": "C-7508",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'we got an answer by the way of why he was on that campus'; 'Losee rooftop area' is not what she says the threat assessment explains.",
+  "fix": {
+   "claim": "The host says Allan Robertson and his partner from Utah State University police were on the UVU campus because they were doing a threat assessment for a Charlie Kirk event planned at USU 10 days later, not in coordination with Charlie's security or UVU police."
+  }
+ },
+ {
+  "claim": "C-7509",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7510",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7511",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7512",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Spelling: canonical N-751 is Allan Robertson (host spells 'A L L A N' earlier).",
+  "fix": {
+   "claim": "The host says by all accounts Allan Robertson left on his own volition because he had young kids and wanted to leave city life, and that she is shutting down that lead."
+  }
+ },
+ {
+  "claim": "C-7513",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7514",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7515",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7516",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7517",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7518",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7519",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7520",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7521",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

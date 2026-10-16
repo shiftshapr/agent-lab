@@ -36,7 +36,7 @@ Episode 124 Ledger Summary
 Artifact Families Introduced: A-2115, A-2116, A-2117, A-2118, A-2119, A-2120, A-2121, A-2122, A-2123, A-2124, A-2125, A-2126, A-2127, A-2128
 Claim Range: C-3000 – C-3016, C-3761, C-3764, C-3770
 New Nodes Introduced: N-10709, N-10710, N-10711, N-10712, N-10713
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twiggs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Bari Weiss, Benny Johnson, Josh Hammer, Caitlyn Oliver, Samantha Carner, Miss Noble, Jeremy Boreing, Tim Pool, Blake Neff, Baron Coleman, Frank Turek, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kolvet/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Preene Bowler)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twiggs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Bari Weiss, Benny Johnson, Josh Hammer, Caitlyn Oliver, Samantha Carner, Miss Noble, Jeremy Boreing, Tim Pool, Blake Neff, Baron Coleman, Frank Turek, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kolvet/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Prejean Boller)
 
 ## 6. Meme Register
 
@@ -579,9 +579,9 @@ Confidence Level: Low
 
 ---
 
-**A-2864** Penguitch Steak Receipt Bundle
+**A-2864** Panguitch Steak Receipt Bundle
 
-**A-2864.1** Host verbal reference to a receipt for Tyler Robinson's steak payment at 9:47 p.m. in Penguitch (receipt not shown)
+**A-2864.1** Host verbal reference to a receipt for Tyler Robinson's steak payment at 9:47 p.m. in Panguitch (receipt not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:21:42
@@ -752,7 +752,7 @@ Existing topic reused for the Tyler-Lance texts.
 
 **N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
-Existing topic reused for the Penguitch steak claim.
+Existing topic reused for the Panguitch steak claim.
 
 *Related: C-7223, C-7224, C-7271*
 
@@ -968,7 +968,7 @@ Bill Ackman (captioned Bill Ackman); the host says he put Netanyahu on the phone
 
 **N-366** Diligent Dennison
 
-Researcher the host credits with speaking to the waiter in Penguitch.
+Researcher the host credits with speaking to the waiter in Panguitch.
 
 *Related: C-7271*
 
@@ -1097,14 +1097,14 @@ Investigative Direction: Cross-reference timestamps and language across influenc
 
 ---
 
-**C-3001** Josh Hammer described preliminary hearing as "most overwhelming" of his career
+**C-3001** Josh Hammer Calls the Hearing Evidence the Most Overwhelming He Has Seen in His Life
 
 Claim Timestamp: 00:05:14
 
-Claim: Josh Hammer stated on Court TV that the preliminary hearing presentation was "the most overwhelming presentation that I have ever seen this early on during a legal proceeding in my entire life."
+Claim: In a clip the host plays, Josh Hammer says the evidence presented during the pre-trial evidentiary hearings in the trial of Tyler Robinson is "the most overwhelming presentation that I have ever seen this early on during a legal proceeding in my entire life."
 
 Anchored Artifacts: A-2116.1
-Mentions: N-55
+Mentions: N-55, N-40
 
 Related Nodes:
 
@@ -1161,7 +1161,7 @@ Investigative Direction: Compare Lance's testimony against text messages introdu
 
 Claim Timestamp: 00:20:59
 
-Claim: Witness Miss Noble testified via Ring camera interview that she saw a bald man driving the gray Challenger accompanied by three other people.
+Claim: The host says the woman who captured the Ring camera footage, Miss Noble, told police she saw a bald man driving the gray Challenger accompanied by three other people; in the hearing clip the host plays, the witness answers, "I believe they thought that was the case."
 
 Anchored Artifacts: A-2119.1
 
@@ -1219,7 +1219,7 @@ Investigative Direction: Obtain certified copies of both exhibits for direct com
 
 Claim Timestamp: 00:46:15
 
-Claim: The host says Court TV's accidentally leaked footage of the 12.1 enhanced exhibit (at 1h17m30s on Day 2) shows only a pixel-like figure running across the rooftop when zoomed in.
+Claim: The host says Court TV accidentally captured footage of the 12.1 enhanced exhibit, which she says is the same video as 12.4 zoomed in; in a clip she plays from an X user, the speaker says that at 1h17m30s of Court TV's Day 2 the figure running across the rooftop is only a pixel.
 
 Anchored Artifacts: A-2122.1
 
@@ -1704,28 +1704,28 @@ Investigative Direction: Review the Blake Neff X live and compare his account of
 
 ---
 
-**C-7223** Host Says Robinson Paid for a Steak in Penguitch at 9:47 p.m. by Debit Card
+**C-7223** Host Says Robinson Paid for a Steak in Panguitch at 9:47 p.m. by Debit Card
 
 Claim Timestamp: 00:21:42
 
-Claim: The host says her team broke the story that Tyler Robinson was eating a steak in Penguitch and paid at 9:47 p.m. with his debit card, and says there is a literal receipt, which timestamps him three hours from campus.
+Claim: The host says her team broke the story that Tyler Robinson was eating a steak in Panguitch and paid at 9:47 p.m. with his debit card, and says there is a literal receipt, which timestamps him three hours from campus.
 
-Transcript Snippet: because we broke the story that Tyler was eating a steak down in Penguitch. He concluded and and paid at 9:47 p. m.
+Transcript Snippet: because we broke the story that Tyler was eating a steak down in Panguitch. He concluded and and paid at 9:47 p. m.
 
 Anchored Artifacts: A-2864.1
 Mentions: N-3, N-40
 Related Nodes: N-10381
 Supports: C-2004
 Tags: relevance:core
-Investigative Direction: Obtain the Penguitch restaurant receipt and card transaction record and the establishment's own timestamps.
+Investigative Direction: Obtain the Panguitch restaurant receipt and card transaction record and the establishment's own timestamps.
 
 ---
 
-**C-7224** Host Says Texting Lance After 11 p.m. About Babysitting the Campus Does Not Fit the Penguitch Timeline
+**C-7224** Host Says Texting Lance After 11 p.m. About Babysitting the Campus Does Not Fit the Panguitch Timeline
 
 Claim Timestamp: 00:22:55
 
-Claim: The host says that if Tyler Robinson left Penguitch nearly at 10 p.m., he could not have been babysitting the campus and texting Lance after 11 p.m., unless he failed to mention being pulled over by a police officer around 12:30.
+Claim: The host says that if Tyler Robinson left Panguitch nearly at 10 p.m., he could not have been babysitting the campus and texting Lance after 11 p.m., unless he failed to mention being pulled over by a police officer around 12:30.
 
 Transcript Snippet: He could not have been doing what he said he was doing, texting Lance after 11 p. m.
 
@@ -1892,7 +1892,7 @@ Claim: The host says Tyler Robinson's lawyer explained at length why, since 1996
 Transcript Snippet: since 1996 they actually don't rely on mixed samples for that very reason because it confuses matters.
 
 Anchored Artifacts: A-2124.2
-Mentions: N-3, N-40, N-776
+Mentions: N-3, N-40
 Related Nodes: N-10975
 Tags: relevance:core
 Investigative Direction: Read the cross-examination transcript and the ATF DNA report to see whether this statement was made and what it applied to.
@@ -2040,7 +2040,7 @@ Claim: Benny Johnson says Erika Kirk was sobbing in the arms of Charlie's mother
 Transcript Snippet: Erika Kirk was sobbing in the arms of her mother-in-law, Charlie's mother, Mrs. Kirk, feet away as Tyler Robinson, pale, salow, bony, emaciated, staring at the floor the whole time
 
 Anchored Artifacts: A-2126.1
-Mentions: N-89, N-2, N-40
+Mentions: N-89, N-2, N-40, N-1
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Compare with courtroom sketch, pool reporter and Court TV accounts of Robinson's demeanor and the gallery.
@@ -2181,7 +2181,7 @@ Investigative Direction: Identify any accounts or bylines the host attributes to
 
 Claim Timestamp: 00:59:57
 
-Claim: The host says Ben Shapiro raced to give a million dollars to Turning Point USA even though his company is suffering, and that Erika allowed him to open despite knowing her husband did not like him at AmFest.
+Claim: The host says Ben Shapiro raced to give a million dollars to Turning Point USA even though his company is suffering, and that Erika allowed him to open at AmFest despite knowing her husband did not like him.
 
 Transcript Snippet: He races to give a million dollars. The com his company is suffering, but he's giving a million dollars Turning Point USA.
 
@@ -2389,11 +2389,11 @@ Investigative Direction: Identify Shapiro's security provider and personnel and 
 
 ---
 
-**C-7265** Host Refers to Kolvet's Statement That It Was Supposed to Be Her on Tour With Charlie
+**C-7265** Host Asks Whether Charlie Became a Liability for Saying No
 
 Claim Timestamp: 01:07:02
 
-Claim: The host refers to a statement from Andrew Kolvet that it was supposed to be her, and asks whether Charlie refusing something made him a liability.
+Claim: The host refers to a statement from Andrew Kolvet that "it was supposed to be you," asks whether it was supposed to be her back on tour with Charlie and whether Charlie said no to killing her, and asks whether he then became a liability because he said no.
 
 Transcript Snippet: the statement from Andrew Colbeat it was supposed to be you
 
@@ -2491,7 +2491,7 @@ Investigative Direction: Find the Kolvet statements about Lance Twiggs the comme
 
 Claim Timestamp: 01:16:57
 
-Claim: The host says Diligent Dennison went and spoke to the waiter in Penguitch and that more was going to come out about it.
+Claim: The host says Diligent Dennison went and spoke to the waiter in Panguitch and that more was going to come out about it.
 
 Transcript Snippet: Diligent Dennison went and spoke to the waiter uh down at in Panguitch. More was going to be coming out about that.
 
@@ -2636,7 +2636,7 @@ Investigative Direction: This is host speculation; no document or source is cite
 # VI. Optional Flags
 
 - **Tel Aviv extraction source:** Host reference only; not visually confirmed in the displayed text messages. See N-10713.
-- **Penguitch steak receipt:** Referenced by host as documentary proof Tyler was at 9:47 PM in Penguitch (3 hours from UVU); receipt not displayed in this episode.
+- **Panguitch steak receipt:** Referenced by host as documentary proof Tyler was at 9:47 PM in Panguitch (3 hours from UVU); receipt not displayed in this episode.
 - **Bill Ackman $1 million pledge:** Referenced as fact; no artifact (clip, screenshot, press release) displayed in this episode.
 - **Erika Kirk / Bari Weiss interview:** Referenced as showing Erika "made up her mind" pre-hearing; no clip displayed in this episode.
 - **Benny Johnson "Erika asked me to be here" statement:** Recounted by host; no specific clip of this utterance displayed.

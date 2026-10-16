@@ -859,7 +859,7 @@ Investigative Direction: Timestamp-verify the chat export; cross-reference with 
 
 Claim Timestamp: 00:23:16
 
-Claim: At 3:26 p.m. Utah time on Sept 10, Andrew Kolvet wrote in the PR chat: "Sorry, on the plane, this just loaded."
+Claim: Per the PR text chain the host shows, at 3:26 p.m. Utah time (as the host adjusts it) on Sept 10, Andrew Kolvet wrote in the PR chat: "Sorry, on the plane, this just loaded."
 
 Anchored Artifacts: A-1881.1
 Mentions: N-14
@@ -909,6 +909,7 @@ Claim Timestamp: 00:29:39
 Claim: Per an on-screen calendar graphic the host shows, an Egyptian plane transponds 10:05-11:34 a.m. on Sept 10, and a second Egyptian-plane transponding block overlaps Kolvet's second unavailability window and Charlie's Scottsdale-to-Provo flight.
 
 Anchored Artifacts: A-1881.2
+Mentions: N-14, N-1
 
 Related Nodes: N-10547, N-10549
 
@@ -962,14 +963,14 @@ Investigative Direction: Verify CIA documentary provenance and Erika's pageant p
 
 ---
 
-**C-2541** Mark Levin questioned Erika's video as AI production
+**C-2541** Mark Levin Asked Whether Rogan Segment Was an AI Production
 
 Claim Timestamp: 00:43:46
 
-Claim: Per a tweet the host reads, Mark Levin asked whether Erika's video was 'some AI production' and, if not, called it 'a total disgrace'.
+Claim: Per a tweet the host reads, Mark Levin, reacting to the Joe Rogan segment about Erika Kirk, asked 'Is this some AI production?' and said 'If not, what a total disgrace.'
 
 Anchored Artifacts: A-1884.1
-Mentions: N-245, N-2
+Mentions: N-245, N-269, N-2
 
 Related Nodes:
 
@@ -1286,12 +1287,12 @@ Investigative Direction: Ask TPUSA to identify to whom it gave information and w
 
 Claim Timestamp: 00:10:24
 
-Claim: On the radio show clip, the host of the show says the leaked private group-chat texts were used to kick off the conspiracy theory that Israel or the Jews had Charlie murdered, and says TPUSA does not believe that theory.
+Claim: On the radio show clip, a second speaker alongside Kolvet says the leaked private group-chat texts were used to kick off the conspiracy theory that Israel or the Jews had Charlie murdered, and both he and Kolvet say TPUSA does not believe that theory.
 
 Transcript Snippet: kick off the big conspiracy theory that we've run into over and over again, which is that Israel or the Jews had Charlie murdered.
 
 Anchored Artifacts: A-1878.1
-Mentions: N-1
+Mentions: N-1, N-14
 Related Nodes: N-10056
 Tags: relevance:context
 Investigative Direction: Identify the show host and compare the characterization with the content of the leaked texts and with what the host of this episode actually alleges.
@@ -1969,7 +1970,7 @@ Transcript Snippet: Satellite phones are what intelligence age- agencies use bec
 Anchored Artifacts: 
 Mentions: 
 Related Nodes: N-10549
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Ask aviation communications experts whether in-flight messaging works as the host describes.
 
 ---
@@ -1994,7 +1995,7 @@ Investigative Direction: Obtain Mikey McCoy's call log for the minutes after the
 
 Claim Timestamp: 00:33:30
 
-Claim: The host says that in the second part of the chat Andrew Kolvet wrote that his internet just came back on, followed by Justin Streiff writing that they may need to wait until AK is on the ground.
+Claim: The host says that in the second part of the chat Andrew Kolvet wrote that his internet just came back on, and Justin Streiff wrote that they may need to wait until AK is on the ground.
 
 Transcript Snippet: Justin Streiff says, "You you may need to wait until AK is on the ground."
 
@@ -2139,7 +2140,7 @@ Investigative Direction: Find the compilation video and its source; this is reco
 
 Claim Timestamp: 00:43:07
 
-Claim: The host says that although critics said the CIA did not produce the documentary, the head of the CIA is in it, and that one has to get approval from the CIA to appear in a CIA documentary.
+Claim: The host says that although critics said the CIA did not produce the documentary Joe Rogan mentioned, in which Erika appears, the head of the CIA is in it, and that one has to get approval from the CIA to appear in a CIA documentary.
 
 Transcript Snippet: Okay, yes, but the head of the CIA is in it. Okay, you got to get approval from the CIA to be in a CIA documentary.
 

@@ -20,8 +20,9 @@ host's allegation is true; the archive records what the host alleges. Do not edi
    an error by itself: before calling it a mis-transcription, web-search `"<name>" "Charlie Kirk"` in "extended"
    mode, with spelling variants (security staff and other minor figures are real people, often named only on
    Instagram, Facebook or HappyScribe). An empty search proves nothing: report the name as unresolved, not wrong. `ok` or `error`.
-4. **timestamp**: is the snippet spoken within about 60 seconds after the Claim Timestamp, so a `?t=` link lands on
-   it? `ok` or `error`. If the snippet is not in the excerpt at all, say so in the note and mark `error`.
+4. **timestamp**: is the snippet spoken at most about 75 seconds after the Claim Timestamp, and at most about 20
+   seconds before it, so a `?t=` link lands on or just before it? This is the archive's rule (POLICY §9,
+   `check_claim_timestamps.py`). `ok` or `error`. If the snippet is not in the excerpt at all, say so in the note and mark `error`.
 5. **relevance**: if the claim has a `relevance:` tag, is it right? `core` is about Charlie Kirk's assassination,
    its investigation, or the people and organisations at its centre. `context` is background that bears on it.
    `tangential` is about other matters, including private individuals' personal lives. `ok`, `disputed`, or `untagged`.

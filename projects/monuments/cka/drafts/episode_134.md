@@ -731,7 +731,7 @@ Claim Timestamp: 00:18:27
 Claim: In a clip the host plays from Alex Clark's show, Andrew Kolvet says Charlie was not becoming Catholic and describes Erika as a cradle Catholic who, like him, followed a non-denominational path; another speaker in the clip adds that Erika once answered a comment asking if they were converting with "No, we just like attending sometimes."
 
 Anchored Artifacts: A-2206.1
-Mentions: N-14, N-99, N-2
+Mentions: N-14, N-99, N-2, N-1
 
 Related Nodes: N-10764
 
@@ -820,7 +820,7 @@ Investigative Direction: Verify the original tweet; identify the posting account
 
 Claim Timestamp: 00:02:44
 
-Claim: An X user posted that if Candace was not charged with obstruction of justice / jury tampering for releasing the rooftop footage, it would prove a two-tiered justice system, and demanded that those responsible go to jail.
+Claim: An X user posted that if Candace was not charged with "obstruction of jury tampering" for releasing the rooftop footage, she is part of the two-tiered justice system, and said people need to go to jail.
 
 Anchored Artifacts: A-2216.1
 Mentions: N-3
@@ -855,7 +855,7 @@ Claim: The clip the host plays shows Erika Kirk answering "Yes, I do" when asked
 Transcript Snippet: Do you believe that Tyler Robinson murdered your husband? >> Yes, I do.
 
 Anchored Artifacts: A-2878.1
-Mentions: N-2, N-40
+Mentions: N-2, N-40, N-1
 Related Nodes: N-10110
 Tags: relevance:core
 Investigative Direction: Locate the original interview in which Erika Kirk was asked this question and confirm date and outlet.
@@ -871,7 +871,7 @@ Claim: The host says that after she sat down with Erika Kirk there was no eviden
 Transcript Snippet: After I sat down with her, there was no evidence which indicated that.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-40
+Mentions: N-3, N-2, N-40, N-1
 Related Nodes: N-10110
 Tags: relevance:core
 Investigative Direction: Compare the host's private interview with Erika to the evidence presented at the preliminary hearing.
@@ -951,7 +951,7 @@ Claim: The host says her video argued the person on the Lozi roof was a decoy wh
 Transcript Snippet: Effectively, we were saying this person was a decoy and never fired a shot.
 
 Anchored Artifacts: A-2211.1
-Mentions: N-3, N-268, N-93
+Mentions: N-3, N-268
 Related Nodes: N-10172, N-10769
 Tags: relevance:core
 Investigative Direction: Compare the rooftop footage frame by frame with the position, angle and timing of the fatal shot.
@@ -1210,7 +1210,7 @@ Claim: The host says that on September 12 Erika moved to post the footage Elizab
 Transcript Snippet: Erika moves to post the footage that Elizabeth actually captured the day before in Utah.
 
 Anchored Artifacts: A-2880.1
-Mentions: N-2, N-218
+Mentions: N-2, N-218, N-1
 Related Nodes: N-10201
 Supports: C-1899
 Tags: relevance:core
@@ -1340,7 +1340,7 @@ Claim: The host says the Kolvet denial was a pre-record made before Charlie's Ca
 Transcript Snippet: it was a pre-record which took place before Charlie's Catholic funeral mass. A day later, after saying this, you move to have a Catholic funeral mass.
 
 Anchored Artifacts: A-2206.1
-Mentions: N-14
+Mentions: N-14, N-1
 Related Nodes: N-10323
 Qualifies: C-3167
 Tags: relevance:core
@@ -1437,7 +1437,7 @@ Claim: The host says that after learning her husband was shot, Erika coordinated
 Transcript Snippet: rather than flying her family members out there, she coordinated to bring the priest.
 
 Anchored Artifacts: 
-Mentions: N-2
+Mentions: N-2, N-1
 Related Nodes: N-10233
 Tags: relevance:core
 Investigative Direction: Check flight and travel records for the priest and for Erika's family members on Sept 10 to 11.
@@ -1583,7 +1583,7 @@ Claim: The host says the mock burial is the reason she believes Erika chose a Ca
 Transcript Snippet: that is the reason that I believe Erika chose to do a Catholic funeral mass
 
 Anchored Artifacts: 
-Mentions: N-3, N-2
+Mentions: N-3, N-2, N-1
 Related Nodes: N-10760, N-10323
 Tags: relevance:core
 Investigative Direction: Compare the family's stated reasons for the Catholic mass with the parish record.
@@ -1884,7 +1884,7 @@ Investigative Direction: Compare exhibits and property logs with that claim.
 
 Claim Timestamp: 00:39:05
 
-Claim: The host says Blake Neff shows convenient amnesia about events that day and continues to exclude Danny Philip from the equation, noting that Philip was the one driving with someone.
+Claim: The host says Blake Neff shows convenient amnesia about events that day and continues to exclude Danny Philip from the equation, noting that it was Danny Philip whom Neff was driving with.
 
 Transcript Snippet: why Blake seems to have this convenient amnesia about certain events that day and why he continues to exclude Danny Philip from the equation.
 
@@ -1991,7 +1991,7 @@ Investigative Direction: Locate Neff's original statements calling for convictio
 
 Claim Timestamp: 00:51:30
 
-Claim: Responding to a viewer comment about conservation of momentum, the host says video from the side shows Charlie did not go back but went up and tilted to the side.
+Claim: Responding to a viewer comment that conservation of momentum would require Charlie's body to snap backward and that video from the side shows this did not happen, the host says Charlie did not go back but went up and tilted to the side.
 
 Transcript Snippet: Oh, no, Charlie did not go back. You are correct. He went up and to the side.
 

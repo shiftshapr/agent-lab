@@ -43,13 +43,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2311",
       "family_ref": "A-2311",
-      "bundle_name": "John & Arina Mappin Article Bundle",
+      "bundle_name": "John & Irina Mappin Article Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2311.1",
           "ref": "A-2311.1",
-          "description": "\"Candace Owens, Charlie Kirk, and the Pursuit of Truth\" – October 6, 2025 article by John and Arina Mappin; host read aloud extended excerpt",
+          "description": "\"Candace Owens, Charlie Kirk, and the Pursuit of Truth\" – October 6, 2025 article by John and Irina Mappin; host read aloud extended excerpt",
           "related_claims": [
             "C-3326",
             "C-3327"
@@ -911,7 +911,7 @@
       "ref": "N-156",
       "name": "Irina Mappin",
       "type": "person",
-      "description": "Arina Mappin; friend and supporter of the host.",
+      "description": "Irina Mappin; friend and supporter of the host.",
       "related_artifacts": [],
       "related_claims": [
         "C-13285",
@@ -1399,7 +1399,7 @@
       "@id": "C-3328",
       "ref": "C-3328",
       "label": "Host Encountered Justin Baldoni at Iceland Airport",
-      "claim": "The host encountered Justin Baldoni, his wife, and two children at an Iceland airport during a layover from Sweden; the encounter is documented by an on-screen photograph.",
+      "claim": "The host says she encountered Justin Baldoni, his wife, and two children at an Iceland airport while he was on a layover from Sweden; she shows an on-screen photograph of the encounter.",
       "anchored_artifacts": [
         "A-2310.1"
       ],
@@ -1451,8 +1451,8 @@
       "@type": "Claim",
       "@id": "C-3331",
       "ref": "C-3331",
-      "label": "NCRI Report Authored by Kairos Company, Andrew Kolvet's Former PR Firm",
-      "claim": "The NCRI report was led by Kairos company, which the host identifies as the former PR firm of Andrew Kolvet (TPUSA).",
+      "label": "Host Says NCRI Is Led by Andrew Kolvet's Former PR-Firm Partner",
+      "claim": "The host says NCRI, which issued the report, is led by Andrew Kolvet's former partner in a PR firm, Kairos company.",
       "anchored_artifacts": [
         "A-2312.1"
       ],
@@ -1510,7 +1510,7 @@
       "@id": "C-3334",
       "ref": "C-3334",
       "label": "Andrew Kolvet Publicly Endorsed Data Republican's Allegations Against Host",
-      "claim": "Andrew Kolvet publicly thanked Data Republican and stated her thread \"exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika.\"",
+      "claim": "Per Andrew Kolvet's post the host shows, Kolvet thanked Data Republican and wrote that her thread \"exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika.\"",
       "anchored_artifacts": [
         "A-2317.1"
       ],
@@ -1554,7 +1554,7 @@
       "@id": "C-3336",
       "ref": "C-3336",
       "label": "Jennica Pounds Admitted Working as Special Government Employee for Department of War Since July",
-      "claim": "Jennica Pounds publicly stated \"I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way.\"",
+      "claim": "Per Jennica Pounds's post the host reads, Pounds wrote, \"I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way.\"",
       "anchored_artifacts": [
         "A-2314.1"
       ],
@@ -1592,7 +1592,7 @@
       "@id": "C-3338",
       "ref": "C-3338",
       "label": "Blake Neff Publicly Described Sarah Rogers as \"One of Charlie's Favorite Trump Nominees\"",
-      "claim": "Blake Neff posted on X that \"My friend Sarah Rogers is one of Charlie's favorite Trump nominees\" and confirmed her swearing in as Under Secretary for Public Diplomacy.",
+      "claim": "Per Blake Neff's post the host shows, Neff wrote \"My friend Sarah Rogers is one of Charlie's favorite Trump nominees\" and that she had been sworn in as Under Secretary for Public Diplomacy.",
       "anchored_artifacts": [
         "A-2315.1"
       ],
@@ -1843,7 +1843,7 @@
       "@id": "C-13285",
       "ref": "C-13285",
       "label": "Host Says She Met Her Husband at a 2018 London Event Hosted by the Mappins",
-      "claim": "The host says she met her husband George at an event in London hosted by John and Arina Mappin in 2018 where she and Charlie Kirk were on stage, after George phoned the Mappins to ask to attend.",
+      "claim": "The host says she met her husband George at an event in London hosted by John and Irina Mappin in 2018 where she and Charlie Kirk were on stage, after George phoned the Mappins to ask to attend.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -1865,7 +1865,7 @@
       "@id": "C-13286",
       "ref": "C-13286",
       "label": "Host Says Mappin Introductions Launched Turning Point USA Financially",
-      "claim": "The host says John and Arina Mappin helped bring Charlie Kirk and Turning Point USA to the next level by making introductions that launched the organization into a different financial stratosphere.",
+      "claim": "The host says John and Irina Mappin helped bring Charlie Kirk and Turning Point USA to the next level by making introductions that launched the organization into a different financial stratosphere.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -1887,7 +1887,7 @@
       "@id": "C-13287",
       "ref": "C-13287",
       "label": "Host Says Charlie, Erika and the Mappins Traveled to Israel Together",
-      "claim": "The host says Charlie Kirk and Erika Kirk went to Israel together with John and Arina Mappin, who she says invited them.",
+      "claim": "The host says Charlie Kirk and Erika Kirk went to Israel together with John and Irina Mappin, who she says invited them.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026"
@@ -3120,7 +3120,7 @@
       "@type": "Claim",
       "@id": "C-13345",
       "ref": "C-13345",
-      "label": "Host Says She Won a Fishing Weekend With a 38 lb Salmon and Shows a Photo With Charlie",
+      "label": "Host Says She Won a Fishing Weekend With a 38 lb Salmon and Recalls a Photo With Charlie",
       "claim": "The host says she and Charlie fished in British Columbia, refers to a photograph she thinks she showed earlier of them holding a large salmon, and says she won the weekend for the heaviest salmon at 38 lbs and the heaviest halibut at 200 lbs.",
       "anchored_artifacts": [],
       "related_nodes": [],

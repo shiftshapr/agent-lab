@@ -1,0 +1,782 @@
+[
+ {
+  "claim": "C-3822",
+  "episode": 84,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3823",
+  "episode": 84,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3824",
+  "episode": 84,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3825",
+  "episode": 84,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3826",
+  "episode": 84,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2581",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2582",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim states the prosecutors' allegation without saying it is read from the Guardian article ('Let's read from this article which came out in The Guardian'); 'Prosecutors allege' is spoken ~06:29.",
+  "fix": {
+   "claim": "Per a Guardian article the host reads aloud, prosecutors allege the Athanor lodge group carried out murder, attempted murder, aggravated assault, and criminal conspiracy on behalf of a mafia network inside the lodge.",
+   "timestamp": "00:06:24"
+  }
+ },
+ {
+  "claim": "C-2583",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2584",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2585",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Quoted from the Guardian article the host reads ('let's continue in our article. Quote, \"They told investigators...\"'); claim omits the article as source.",
+  "fix": {
+   "claim": "Per a Guardian article the host reads aloud, the hitmen told investigators they believed they had been asked to murder Dini on behalf of the French state."
+  }
+ },
+ {
+  "claim": "C-2586",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Part of the Guardian quote the host reads ('...on the grounds that she worked for the Israeli spy agency, the Mossad.'); claim omits the article as source.",
+  "fix": {
+   "claim": "Per a Guardian article the host reads aloud, the hitmen stated they were targeting Dini on the grounds that she worked for the Israeli spy agency, the Mossad."
+  }
+ },
+ {
+  "claim": "C-2587",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host's own words, not the article ('the businessman who called the hits ... was Jean-Luc Baguer. Uh he was the ringleader'). Names mis-transcribed: lodge figures are Jean-Luc Bagur, Frédéric Vaglio, Daniel Beaulieu (Euronews/AFP).",
+  "fix": {
+   "claim": "The host says Jean-Luc Bagur was a ringleader of the alleged conspiracy, alongside fellow Freemasons Frédéric Vaglio and Daniel Beaulieu.",
+   "label": "Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Identified as Principal Conspirators",
+   "names": [
+    {
+     "wrong": "Jean-Luc Baguer",
+     "right": "Jean-Luc Bagur",
+     "source": "https://euronews.com/2026/03/30/france-puts-freemason-lodge-mafia-on-trial-over-murders-and-hit-squads"
+    },
+    {
+     "wrong": "Frederick Vaglio",
+     "right": "Frédéric Vaglio",
+     "source": "https://euronews.com/2026/03/30/france-puts-freemason-lodge-mafia-on-trial-over-murders-and-hit-squads"
+    },
+    {
+     "wrong": "Daniel Balou",
+     "right": "Daniel Beaulieu",
+     "source": "https://euronews.com/2026/03/30/france-puts-freemason-lodge-mafia-on-trial-over-murders-and-hit-squads"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2588",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Daniel Balou' is a mis-transcription of Daniel Beaulieu, former French secret-service agent among the Athanor defendants (Euronews/AFP). Content matches: 'A parent suicide attempt while he was in prison... he won't be able to testify'.",
+  "fix": {
+   "claim": "The host says Daniel Beaulieu, a retired intelligence officer, had an apparent suicide attempt while in prison, and that he is now impaired and will not be able to testify.",
+   "label": "Daniel Beaulieu Attempted Suicide in Prison",
+   "names": [
+    {
+     "wrong": "Daniel Balou",
+     "right": "Daniel Beaulieu",
+     "source": "https://euronews.com/2026/03/30/france-puts-freemason-lodge-mafia-on-trial-over-murders-and-hit-squads"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2589",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Clip question 'Do you believe that Tyler Robinson murdered your husband? >> Yes, I do.' falls ~17:04, ~28s before 17:32. Claim should say it is a clip the host plays.",
+  "fix": {
+   "claim": "In a clip the host plays of an interview with Bari Weiss, Erika Kirk says \"Yes, I do\" in response to the question of whether she believes Tyler Robinson murdered her husband.",
+   "timestamp": "00:16:59"
+  }
+ },
+ {
+  "claim": "C-2590",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2591",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip: 'We're all standing in the hall. Doctor comes out... He's dead... I need to talk to Erika.' The doctor told the group in the hall, not Turek alone; claim should mark it as a clip the host plays.",
+  "fix": {
+   "claim": "In a clip the host plays, Frank Turek says they were all standing in the hall when a doctor came out and said Charlie Kirk was dead, and that he then said \"I need to talk to Erika.\""
+  }
+ },
+ {
+  "claim": "C-2592",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2593",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2594",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Tweet described ~14:58-15:12 ('Here that is, which came in November, my old tweet'), ~27s before 15:25. '2025' is not said; host shows her own old tweet.",
+  "fix": {
+   "claim": "In a November tweet the host shows, Candace Owens stated she had a source inside the French government who told her the French intervention group was involved in the assassination, and that Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement.",
+   "timestamp": "00:14:53"
+  }
+ },
+ {
+  "claim": "C-2595",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2596",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2597",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2598",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2599",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2600",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2601",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2602",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'He was fearful of a SWAT team' ~42:32, about 22s before 42:54; within tolerance.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2603",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2604",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2605",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2606",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2607",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2608",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14450",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14451",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14452",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14453",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Clip speakers are not named in transcript; the 33-minute and 33-hour lines may be different speakers.",
+  "fix": {}
+ },
+ {
+  "claim": "C-14454",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14455",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14456",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14457",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host hedges 'Jacques de Molay ... was hung or burned at the stake'; claim drops 'hung or'.",
+  "fix": {
+   "claim": "The host says Scottish Rite Freemasonry originated in France, after Jacques de Molay was hanged or burned at the stake and the Pope dissolved the group over accusations of Baal worship and sexual rites, and that members then left for Scotland."
+  }
+ },
+ {
+  "claim": "C-14458",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host asks rhetorically: 'They're saying the French Foreign Legion and the military was involved in murder for hire?' Claim adds an editorial comparison with the article text that is not said in the episode.",
+  "fix": {
+   "claim": "The host asks whether the article is saying that the French Foreign Legion and the military were involved in murder for hire.",
+   "timestamp": "00:07:34"
+  }
+ },
+ {
+  "claim": "C-14459",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14460",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14461",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14462",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14463",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'Daniel Balou' is a mis-transcription of Daniel Beaulieu, the former French secret-service agent prosecutors say oversaw the hit network (Euronews/AFP).",
+  "fix": {
+   "claim": "The host says the hitmen say that Daniel Beaulieu, a retired intelligence officer, told them they were carrying out the killing on behalf of the government.",
+   "label": "Host Says Hitmen Say Daniel Beaulieu Told Them It Was on Behalf of the Government",
+   "names": [
+    {
+     "wrong": "Daniel Balou",
+     "right": "Daniel Beaulieu",
+     "source": "https://euronews.com/2026/03/30/france-puts-freemason-lodge-mafia-on-trial-over-murders-and-hit-squads"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14464",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14465",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14466",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14467",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14468",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14469",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14470",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14471",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14472",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14473",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14474",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14475",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14476",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

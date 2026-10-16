@@ -1051,7 +1051,7 @@ Investigative Direction: Obtain authenticated call records (subpoena or court-or
 
 **C-3093** Blake Neff's audio account describes Mikey McCoy calling Erika within approximately one minute of the event
 
-Claim Timestamp: 00:13:40
+Claim Timestamp: 00:14:58
 
 Claim: In a clip the host plays, Blake Neff describes Mikey McCoy as immediately calling Erika within about a minute of the shooting, and says Mikey's lip was quivering.
 
@@ -1069,7 +1069,7 @@ Investigative Direction: Reconcile with phone log evidence (which suggests Eliza
 
 Claim Timestamp: 00:18:17
 
-Claim: A Fox 5 Atlanta newsroom feed shows Blake Neff, Danny Philip, Mikey McCoy, and Nate Walker walking into Timpanogos Regional Hospital; timing is anchored to Donald Trump's 1:02 PM local tweet shown during the broadcast.
+Claim: In a Fox 5 Atlanta newsroom feed the host plays, Blake Neff, Danny Philip, Mikey McCoy, and Nate Walker are shown walking into Timpanogos Regional Hospital; the host dates their arrival to about 1:02 PM local time from a Donald Trump tweet the anchor reads during the broadcast.
 
 Anchored Artifacts: A-2166.2, A-2166.1
 Mentions: N-368, N-5, N-191, N-160, N-505
@@ -1174,7 +1174,7 @@ Investigative Direction: Verify quoted text against Tim Pool's X account; assess
 
 Claim Timestamp: 00:45:35
 
-Claim: In a Twitter Space clip the host plays, Blake Neff says nothing compares to Candace Owens spending 10 months making every episode target Erika and Turning Point, and says he does not think Alex Jones made the Sandy Hook parents the only subject of his show for a 10-month period.
+Claim: In a Twitter Space clip the host plays, Blake Neff says nothing compares to Candace Owens spending 10 months making effectively every episode target Erika and Turning Point, and says he does not think Alex Jones made the Sandy Hook parents the only subject of his show for a 10-month period.
 
 Anchored Artifacts: A-2169.3
 Mentions: N-3, N-93, N-160
@@ -1793,7 +1793,7 @@ Investigative Direction: This is a denial that could only be tested through the 
 
 Claim Timestamp: 00:27:02
 
-Claim: The host says Turning Point USA turned to the Daily Mail exclusively on the Aspen audio and gave the paper special access to the unedited clip, which the public still has not seen, which she says demonstrates a PR relationship between TPUSA and the Mail.
+Claim: The host says Turning Point USA turned to the Daily Mail exclusively to clean up its "Charlie GPT" Aspen mess and gave the paper special access to the unedited clip, which the public still has not seen, which she says demonstrates a PR relationship between TPUSA and the Mail.
 
 Transcript Snippet: They gave them special access to see the unedited clip that the public still has not seen.
 
@@ -1889,7 +1889,7 @@ Investigative Direction: Compare against the evidence disclosed at the prelimina
 
 Claim Timestamp: 00:31:57
 
-Claim: The host says Erika Kirk told Bari Weiss she was wholly confident that Tyler Robinson killed her husband because she has access to the evidence.
+Claim: The host says Erika Kirk told Bari Weiss she was certain Tyler Robinson killed her husband, and that Erika was wholly confident of it because she has access to the evidence.
 
 Transcript Snippet: She was wholly confident that this man killed her husband because she has access to the evidence.
 

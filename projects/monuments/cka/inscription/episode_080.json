@@ -1123,7 +1123,7 @@
       "@type": "Person",
       "@id": "N-555",
       "ref": "N-555",
-      "name": "Carrie Prejean Bowler",
+      "name": "Carrie Prejean Boller",
       "type": "person",
       "description": "Speaker at the Catholics for Catholics event.",
       "related_artifacts": [],
@@ -1747,7 +1747,7 @@
       "@id": "C-2503",
       "ref": "C-2503",
       "label": "Loomer Alleges Kent's Wife Worked for Max Blumenthal",
-      "claim": "Laura Loomer publicly alleged that Kent's wife works for Max Blumenthal and used this to characterize Kent as disrespectful to Trump.",
+      "claim": "Per a post the host reads, Laura Loomer called Kent's resignation 'so disrespectful to President Trump' and said she had warned about Kent and his wife, who she says works for Max Blumenthal.",
       "anchored_artifacts": [
         "A-1865.1"
       ],
@@ -1955,7 +1955,7 @@
       "@id": "C-2514",
       "ref": "C-2514",
       "label": "Host Says Four DC-Area Airports Shut Down March 13",
-      "claim": "The host says that on March 13, Reagan National (DCA), Baltimore-Washington (BWI), and Richmond (RIC) airports were simultaneously shut down.",
+      "claim": "The host says that on March 13, Reagan National (DCA), Dulles, Baltimore-Washington (BWI), and Richmond (RIC) airports were simultaneously shut down.",
       "anchored_artifacts": [
         "A-1874.1"
       ],
@@ -2006,7 +2006,7 @@
       "@id": "C-2517",
       "ref": "C-2517",
       "label": "Netanyahu Misses Security Council Meeting",
-      "claim": "Netanyahu reportedly missed a Security Council meeting, described as unusual; Israel Katz is said to have run the meeting in his place.",
+      "claim": "The host says Netanyahu allegedly missed a Security Council meeting, which she says is purportedly highly unusual, and that she thinks Israel Katz ran the meeting in his place.",
       "anchored_artifacts": [
         "A-1875.1"
       ],
@@ -2025,7 +2025,7 @@
       "@id": "C-2518",
       "ref": "C-2518",
       "label": "Yair Netanyahu Social Media Silence Pattern",
-      "claim": "Yair Netanyahu, who normally retweets or tweets about 30 times per day, went completely silent for 7 days.",
+      "claim": "The host says somebody noted that Yair Netanyahu, who she says normally tweets or retweets about 30 times a day, went completely radio silent for 7 days.",
       "anchored_artifacts": [
         "A-1875.1"
       ],
@@ -2040,7 +2040,7 @@
       "@type": "Claim",
       "@id": "C-2519",
       "ref": "C-2519",
-      "label": "Netanyahu Posts Huckabee Video March 15",
+      "label": "Netanyahu Posts Huckabee Video on Day of Show",
       "claim": "The host says Netanyahu posted another hyper-produced video of himself and Mike Huckabee joking about him being alive, on the day of the show.",
       "anchored_artifacts": [
         "A-1876.1"
@@ -2118,8 +2118,8 @@
       "@type": "Claim",
       "@id": "C-2523",
       "ref": "C-2523",
-      "label": "Charlie Kirk Characterizes \"Prophecy as Policy\" Theologically Problematic",
-      "claim": "Charlie Kirk, in a July 2025 student discussion, publicly stated that \"I find prophecy as policy generally to be theologically problematic.\"",
+      "label": "Student in Kirk Clip Calls Prophecy as Policy Theologically Problematic",
+      "claim": "In a clip the host plays from a July 2025 student discussion with Charlie Kirk, a student the host identifies as Dino Fantegrossi says, \"I find prophecy as policy generally to be theologically problematic.\"",
       "anchored_artifacts": [
         "A-1871.1"
       ],
@@ -2130,7 +2130,8 @@
       "claim_timestamp": "00:33:39",
       "investigative_direction": "Verify exact quotation against the full original audio/video recording.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-943"
       ]
     },
     {
@@ -2158,7 +2159,7 @@
       "@id": "C-14386",
       "ref": "C-14386",
       "label": "Host Says India Refused Trump's Request for Troops at Hormuz",
-      "claim": "The host says Trump went to India and asked it to send troops to keep the Strait of Hormuz open, and that India answered that it would not get involved.",
+      "claim": "The host says Trump asked India to send troops to keep the Strait of Hormuz open, and that India answered that it would not get involved.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10541"
@@ -2477,7 +2478,7 @@
       "@id": "C-14400",
       "ref": "C-14400",
       "label": "Host Says Event Is Not Anti-Zionist and Zionists Are Demanding Cancellations",
-      "claim": "The host says the Catholics for Catholics event is not an anti-Zionist conference and was never billed as one, with Carrie Prejean Bowler and the host speaking, and that critics have been emailing and calling to demand cancellations.",
+      "claim": "The host says the Catholics for Catholics event is not an anti-Zionist conference and was never billed as one, with Carrie Prejean Boller and the host speaking, and that critics have been emailing and calling to demand cancellations.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10956"
@@ -2768,7 +2769,7 @@
         "N-11035"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:31:39",
       "investigative_direction": "Identify the staffer through the host's source network; only confirmable through her sources.",
@@ -3251,7 +3252,7 @@
       "@id": "C-14435",
       "ref": "C-14435",
       "label": "Host Says Airports Closed for About 2 Hours 20 Minutes Citing a Potomac Odor",
-      "claim": "The host says the airports were told the shutdown was due to a strong odor coming from the Potomac River and lasted about two hours and twenty minutes before a circuit board explanation was given.",
+      "claim": "The host says officials said the shutdown was due to a strong odor coming from the Potomac River, and that it lasted about two hours and twenty minutes before a circuit board explanation was given.",
       "anchored_artifacts": [
         "A-1874.1"
       ],
@@ -3305,7 +3306,7 @@
         "N-10544"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:51:08",
       "investigative_direction": "Compare with verifiable public appearances of Netanyahu after March 11.",
@@ -3328,7 +3329,7 @@
         "N-10544"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:52:32",
       "investigative_direction": "Check the original video from Netanyahu's account and the Hebrew and English captions.",
@@ -3351,7 +3352,7 @@
         "N-10544"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:53:23",
       "investigative_direction": "Verify wording against the original video.",

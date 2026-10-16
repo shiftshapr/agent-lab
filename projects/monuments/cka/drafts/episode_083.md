@@ -831,10 +831,10 @@ Investigative Direction: Obtain the full Frank Turek podcast episode audio and v
 
 Claim Timestamp: 00:03:30
 
-Claim: Nick Searcy confirmed to the host that Andrew Kolvet's livestream was authentically live during the 9–10 a.m. Pacific block on September 10, 2025.
+Claim: The host says Nick Shirley confirmed to her that Andrew Kolvet's show was authentically live during the 9–10 a.m. Pacific block on September 10, 2025.
 
 Anchored Artifacts: A-1898.1
-Mentions: N-14
+Mentions: N-3, N-214, N-14
 
 Related Nodes:
 
@@ -883,7 +883,7 @@ Investigative Direction: Confirm via Lauren Tonchech or vehicle records; cross-c
 
 Claim Timestamp: 00:14:00
 
-Claim: Per the host's reporting, Stacey Sheridan was not at the Turning Point USA Scottsdale office on September 10, 2025, and was allegedly at home in Scottsdale.
+Claim: The host says she can confirm Stacey Sheridan was not at the Turning Point USA office on September 10, 2025, and that she was allegedly at home in Scottsdale.
 
 Anchored Artifacts: A-1902.1
 Mentions: N-187
@@ -907,9 +907,9 @@ Investigative Direction: Cross-reference with Andrew Kolvet's account and hospit
 
 **C-2567** Hopkinson Aircraft Employee Neither Confirmed nor Denied Seeing Erica on September 10
 
-Claim Timestamp: 00:21:05–00:24:24
+Claim Timestamp: 00:22:50
 
-Claim: A Hopkinson Aircraft employee contacted by the host would neither confirm nor deny seeing Erika Kirk at their offices on September 10, 2025.
+Claim: The host says a Hopkinson Aircraft employee she spoke with would neither confirm nor deny seeing Erika Kirk at their offices on September 10, 2025.
 
 Anchored Artifacts: A-1899.1
 Mentions: N-2
@@ -1963,7 +1963,7 @@ Investigative Direction: Confirm the date of the event and the list of speakers.
 
 ---
 
-**C-12804** Host Denies She Named Erika Within Hours and Says She Only Began Covering Erika After December
+**C-12804** Host Denies She Named Erika Within Hours and Says She Only Began Covering Erika in December
 
 Claim Timestamp: 00:34:40
 
@@ -2023,7 +2023,7 @@ Transcript Snippet: When people are upset that Trump says are we still talking a
 Anchored Artifacts: 
 Mentions: N-5, N-582, N-3
 Related Nodes: N-10324
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review the Epstein Files Transparency Act record and Massie's public statements on the White House position.
 
 ---
@@ -2055,7 +2055,7 @@ Transcript Snippet: Many prominent members of the church have spoken out about t
 Anchored Artifacts: A-1897.1
 Mentions: N-3
 Related Nodes: N-10564
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the article and confirm the passage and its author.
 
 ---
@@ -2071,7 +2071,7 @@ Transcript Snippet: Oh, it's so great. All around the world the Catholic Church 
 Anchored Artifacts: A-1901.1
 Mentions: N-3, N-228
 Related Nodes: N-10564
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Retrieve the host's April 2025 post and Stuckey's reply from the X archive.
 
 ---

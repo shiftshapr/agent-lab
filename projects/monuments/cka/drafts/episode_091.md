@@ -949,7 +949,7 @@ Investigative Direction: Independently verify the email via ATF; identify the or
 
 Claim Timestamp: 00:09:06
 
-Claim: An Instagram video shows Erika Kirk and Eileen Marx embracing shortly after Charlie Kirk's assassination, with impassioned music ("Held" by Natalie Grant) added, posted by Victor Marx.
+Claim: The host shows an Instagram video of Erika Kirk and Eileen Marx embracing shortly after Charlie Kirk's assassination, which she says Victor Marx posted with impassioned music added ("Held" by Natalie Grant).
 
 Anchored Artifacts: A-1959.1
 Mentions: N-1, N-2, N-342, N-344
@@ -1034,13 +1034,14 @@ Investigative Direction: Verify Marine Corps enlistment contract minimums throug
 
 ---
 
-**C-2720** Host Asserts 2-Year Enlistment Was Possible
+**C-2720** Host Says Viewer Could Be Onto Something and Marx's Service Was 2 Years
 
 Claim Timestamp: 00:56:23
 
-Claim: The host states that she looked into the Marine enlistment question and confirms that a 2-year service is correct, disagreeing with the viewer's assertion.
+Claim: Responding to the viewer comment, the host says she did not know that, that the viewer could be onto something and she will leave it to people in the military, but that Victor Marx's was 'a 2-year service, for sure' and her team looked into that.
 
 Anchored Artifacts: A-1964.1
+Mentions: N-3, N-342
 
 Related Nodes: N-10604
 
@@ -1228,7 +1229,7 @@ Investigative Direction: Overlay Charlie Kirk's 2023 and 2024 event calendar on 
 
 Claim Timestamp: 00:04:10
 
-Claim: The host says that once McCoy was announced as chief of staff, Charlie was doing a lot of events in Kansas, Nebraska and Missouri that crossed with the planes.
+Claim: The host says that once McCoy was announced as chief of staff, it seemed like Charlie was doing a lot in Kansas, Nebraska and Missouri that crossed with the planes.
 
 Transcript Snippet: Charlie is just doing a lot in Kansas and in Nebraska and in Missouri crossing with these planes.
 
@@ -1476,20 +1477,20 @@ Claim: The host says Marx's brother Mike Kennedy, later an attorney, pled guilty
 Transcript Snippet: He took a plea deal, so he only served a year and a day in exchange for testifying against his stepfather Gloyce.
 
 Anchored Artifacts: 
-Mentions: N-727, N-350
+Mentions: N-727, N-350, N-342
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Check the same federal docket for Mike Kennedy's plea agreement and sentence.
 
 ---
 
-**C-12844** Host Says Marx's Biological Father Carl Marx Was a Pimp, Drug Dealer and Martial Arts Expert
+**C-12844** Host Says Marx's Biological Father Karl Marx Was a Pimp, Drug Dealer and Martial Arts Expert
 
 Claim Timestamp: 00:11:59
 
-Claim: The host says Marx's biological father, Carl Marx, was apparently a pimp, drug dealer and world-famous martial arts expert who spent time in a mental hospital for homicidal tendencies.
+Claim: The host says Marx's biological father, Karl Marx, was apparently a pimp, drug dealer and world-famous martial arts expert who spent time in a mental hospital for homicidal tendencies.
 
-Transcript Snippet: His name was Carl Marx. Okay? And he was a pimp, a drug dealer, and also a world-famous martial arts expert who spent time in a mental hospital for his homicidal tendencies.
+Transcript Snippet: His name was Karl Marx. Okay? And he was a pimp, a drug dealer, and also a world-famous martial arts expert who spent time in a mental hospital for his homicidal tendencies.
 
 Anchored Artifacts: 
 Mentions: N-728, N-342
@@ -1573,7 +1574,7 @@ Claim: The host says that in 2003 Marx and his brother, who had received a light
 Transcript Snippet: In 2003, he and his brother, who got that light sentence, um who was out of prison now, began All Things Possible Ministries.
 
 Anchored Artifacts: 
-Mentions: N-342
+Mentions: N-342, N-727
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Check nonprofit registration and IRS filings for All Things Possible Ministries and its founders.
@@ -1745,7 +1746,7 @@ Investigative Direction: Check Fold AR and ministry marketing materials for the 
 
 Claim Timestamp: 00:23:12
 
-Claim: The host says Victor Marx effectively pretends in the retooling prayer that he will summon and then extract information from demons inside a person, with the person kneeling in a circle, and that she says it parallels practices in occult ritual frameworks.
+Claim: The host says Victor Marx effectively pretends in the retooling prayer that he will summon and then extract information from demons inside a person, with the person kneeling in a circle, and that Hall says the patterns parallel practices in occult ritual frameworks.
 
 Transcript Snippet: Victor Marx is effectively what he does is he pretends that he is going to summon and then extract information from demons that are inside of you.
 
@@ -1831,7 +1832,7 @@ Claim: The host says Hall and his wife would sell on two conditions, the first b
 Transcript Snippet: The first is that the guns are going to be used for school resource officers. They wanted school security to be the primary and permanent mission.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-343
+Mentions: N-343, N-345
 Related Nodes: N-10600
 Tags: relevance:context
 Investigative Direction: Check any term sheet or messages that record the conditions.
@@ -1847,7 +1848,7 @@ Claim: The host says the second condition was that any sale be enough money that
 Transcript Snippet: The second um is that they wanted to have enough money, if they agreed to sell the company, that it would be enough money that they would no longer have to work.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-343
+Mentions: N-343, N-345
 Related Nodes: N-10600
 Tags: relevance:context
 Investigative Direction: Compare with the $2 million valuation Marx reportedly offered (C-2707).
@@ -1939,7 +1940,7 @@ Investigative Direction: Ask Hall for a contemporaneous note of the walk and exc
 
 Claim Timestamp: 00:35:15
 
-Claim: In the statement the host reads, Hall says the planned complex for spiritual retooling of traumatized officers, run with local, state and federal agencies, was going to be exclusively funded by donors.
+Claim: In the statement the host reads, Hall says the planned complex for spiritual retooling of traumatized officers who worked child sex trafficking cases in partnership with local, state and federal agencies was going to be exclusively funded by donors.
 
 Transcript Snippet: And it was going to be exclusively funded by donors.
 
@@ -2125,7 +2126,7 @@ Transcript Snippet: Victor Marx says he dealt with the Taliban. He dealt with IS
 Anchored Artifacts: 
 Mentions: N-342
 Related Nodes: N-10604, N-10325
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Find Marx's own statements about these contacts and the context of his hostage-rescue work.
 
 ---
@@ -2263,7 +2264,7 @@ Investigative Direction: This is a sweeping characterization; ask for named past
 
 Claim Timestamp: 00:56:23
 
-Claim: The host says a person she names as Cori Kennedy has been looking into Victor Marx for months and has done a deep dive on X and Facebook, and she does not know his background.
+Claim: The host says a person she names as Cori Kennedy has been looking into Victor Marx for months and has done a deep dive on X and Facebook, and she does not know this person's background.
 
 Transcript Snippet: has done a very good job on both X and on Facebook. Cori Kennedy has done a deep dive into Victor Marx.
 
@@ -2393,6 +2394,6 @@ Confidence: high
 - **Artifact verbally referenced but not shown**: A-1963.1 (ATF email) – host describes it as forwarded and confirmed but does not directly display it in the episode.
 - **Possible transcription error**: A-1960.1 – gang name "Moise 400" appears in CBN transcript; verification of gang name recommended against primary reporting.
 - **Name transcription oddity**: Host spells "Cori Kennedy" as "C O R I Kennedy" then reverts to "Corey"; transcription oddity flagged on N-10151.
-- **Claim failed admission test**: Host's biographical claims about the Kennedy/Marx family (Gloyce Dean Kennedy's 1987 conviction, Mike Kennedy's plea, Carl Marx's occupations, grandfather's murder-suicide, Marx's 2-year Marine service, Calvary Chapel attendance, marriage year, All Things Possible Ministries founding, brother-in-law shooting, etc.) are stated without shown artifacts and are NOT inscribed as claims. They are referenced only in node descriptions,,,, N-10604).
+- **Claim failed admission test**: Host's biographical claims about the Kennedy/Marx family (Gloyce Dean Kennedy's 1987 conviction, Mike Kennedy's plea, Karl Marx's occupations, grandfather's murder-suicide, Marx's 2-year Marine service, Calvary Chapel attendance, marriage year, All Things Possible Ministries founding, brother-in-law shooting, etc.) are stated without shown artifacts and are NOT inscribed as claims. They are referenced only in node descriptions,,,, N-10604).
 - **Timestamp uncertainty**: A-1960.1 – exact event date for the CBN News segment is not stated; only inferable from clip context.
 - **Requires human verification**: All N-10600, N-10601, N-10602, N-10603 nodes require independent verification beyond Corby Hall's written statement.

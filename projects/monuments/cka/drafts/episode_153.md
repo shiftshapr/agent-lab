@@ -720,7 +720,7 @@ Investigative Direction: Obtain the filed notice of claim from the Utah Attorney
 **C-3467** Article the Host Reads Says UVU Launched Independent External Review September 22, 2025
 
 Claim Timestamp: 00:04:55
-Claim: Per a news article the host reads, Utah Valley University announced on a Monday approximately twelve days after Charlie Kirk's death (September 22, 2025) an independent external review of the security failures; the host remarks 'just 12 days after Charlie is hit.'
+Claim: Per an Associated Press article the host shows, published September 22, 2025, Utah Valley University announced on Monday an independent external review of the fatal shooting of Charlie Kirk on its campus; the host remarks 'just 12 days after Charlie is hit.'
 Anchored Artifacts: A-2385.1
 Mentions: N-1
 Related Nodes: N-10839
@@ -744,7 +744,7 @@ Investigative Direction: Retrieve Tuminez's original emailed statement to confir
 Claim Timestamp: 00:08:00
 Claim: In a clip from the Shawn Ryan show that the host plays, Shawn Ryan reads statements from Brian Harpole's team describing the security team as including a combat-proven Marine, SEALs, 22 years on SWAT, a 30-year cop and SWAT commander and world-renowned jiu-jitsu practitioners; the host says Harpole submitted these credentials to Ryan.
 Anchored Artifacts: A-2386.1
-Mentions: N-1, N-267, N-225
+Mentions: N-267, N-225
 Investigative Direction: Retrieve full unedited Shawn Ryan episode and verify Harpole's on-air list against TPUSA security contractor records.
 
 ---
@@ -858,7 +858,7 @@ Investigative Direction: Verify the timestamp metadata on the released footage.
 **C-3480** Bodycam Footage Released by Scripps News
 
 Claim Timestamp: 00:48:11
-Claim: The 2022 bodycam footage was released by Scripps News under the headline "[Scripps] News obtains video of accused Charlie Kirk shooter after the 2022 car crash." **Name uncertainty:** transcript also spells as "Scripps News" and "Scripps Media."
+Claim: The host says the 2022 bodycam footage was released by Scripps News and shows the headline "Scripps News obtains video of accused Charlie Kirk shooter after 2022 car crash."
 Anchored Artifacts: A-2389.2, A-2390.1
 Mentions: N-1
 Related Nodes: N-10834
@@ -944,7 +944,7 @@ Investigative Direction: Recover Microsoft Teams call metadata and any TPUSA eve
 Claim Timestamp: 00:22:26
 Claim: The host says UVU's state-certified emergency medical services were present beside the vehicle with medical bags in hand.
 Anchored Artifacts: A-2384.1 (read on air in filing context)
-Mentions: N-1
+Mentions: 
 Related Nodes: N-10838
 Investigative Direction: Review UVU EMS bodycam footage and any contemporaneous dispatch logs.
 
@@ -953,7 +953,7 @@ Investigative Direction: Review UVU EMS bodycam footage and any contemporaneous 
 **C-3489** Host Says UVU Independent Review Findings Were Expected Imminently
 
 Claim Timestamp: 00:06:24
-Claim: The host says she was told the findings of UVU's independent external review of security failures were going to be released on Friday, immediately following the episode air date.
+Claim: The host says she was told the findings of UVU's independent external review of security failures were going to be released on Friday, though she does not know if that will now be bumped.
 Anchored Artifacts: A-2385.1
 Related Nodes: N-10839, N-10833
 Investigative Direction: Monitor UVU press releases and the Utah Attorney General's office.
@@ -992,7 +992,7 @@ Investigative Direction: Verify ticket-sales authority and UVU event-permit cond
 
 **C-3493** Notice of Claim Concludes with State-Created Danger and Wrongful Death Claims
 
-Claim Timestamp: 00:34:25
+Claim Timestamp: 00:33:33
 Claim: The notice of claim concludes that "the UVU party's omissions, actions and misconduct led to Mr. Kirk's death" and asserts both a state-created danger claim under the U.S. Constitution's due process clause and a traditional wrongful death claim under Utah law.
 Anchored Artifacts: A-2384.1
 Mentions: N-1
@@ -1231,11 +1231,11 @@ Investigative Direction: Read page three of the filed notice for the exact wordi
 
 ---
 
-**C-14993** Host Recounts a Former Speaker Saying the Event Came Together in a Couple of Weeks
+**C-14993** Host Recalls Saying Last Fall the Event Came Together in a Couple of Weeks
 
 Claim Timestamp: 00:12:34
 
-Claim: The host recounts a young woman who had toured with the organization saying last fall that she had never seen an event planned like this, that it came together in a couple of weeks, and that planning normally begins about five months ahead.
+Claim: The host recalls that she herself, as a former TPUSA speaker who had toured, said last fall that she had never seen an event planned like this, that it came together in a couple of weeks, and that planning normally begins about five months ahead.
 
 Transcript Snippet: I've never seen an event planned like this. This one came together in a couple of weeks.
 
@@ -1324,7 +1324,7 @@ Claim: The host says the reason for the amphitheater demand was that Charlie had
 Transcript Snippet: Charlie had recently done an event in Tennessee and he did, by the way, that's fact. In March of 2025 where he loved the amphitheater
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-8
+Mentions: N-3, N-1
 Related Nodes: N-11411
 Supports: C-10984
 Tags: relevance:context
@@ -1486,7 +1486,7 @@ Investigative Direction: Review scene video and EMS reports for contact between 
 
 Claim Timestamp: 00:24:37
 
-Claim: The host says TPUSA was given the address and the security protocols and told an ambulance was on standby ("They made us aware of that"), and that TPUSA is now saying UVU did not do it.
+Claim: The host says, "Here's the address. Here's the security protocols. Ambulance on standby. They made us aware of that," and that TPUSA is now saying UVU did not do it, washing its hands of something she knows they have always done.
 
 Transcript Snippet: Here's the address. Here's the security protocols. Ambulance on standby. They made us aware of that.
 
@@ -1945,7 +1945,7 @@ Investigative Direction: Search civil dockets for any suit arising from the 2022
 
 Claim Timestamp: 00:46:59
 
-Claim: In the played bodycam clip a driver tells the officer the other vehicle pulled out or turned in and that he T-boned into its side.
+Claim: In the played 2022 Tyler Robinson bodycam clip a driver tells the officer the other vehicle pulled out or turned in and that he T-boned into its side.
 
 Transcript Snippet: I was coming this way and he's just passing through and he pulled out uh from here or no from there I think.
 
@@ -2119,7 +2119,7 @@ Investigative Direction: Establish the Mitchell-Robinson relationship from publi
 
 ---
 
-**C-15047** Host Says the Pharisee Lobby Operates Like Termites
+**C-15047** Host Says the 'Perisio' Lobby Operates Like Termites
 
 Claim Timestamp: 00:54:11
 

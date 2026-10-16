@@ -335,7 +335,7 @@
           "@type": "Artifact",
           "@id": "A-1760.2",
           "ref": "A-1760.2",
-          "description": "Carrie Prejean Bowler Questioning of Seth Dillon at Religious Liberty Commission Hearing",
+          "description": "Carrie Prejean Boller Questioning of Seth Dillon at Religious Liberty Commission Hearing",
           "related_claims": [
             "C-2346"
           ],
@@ -781,7 +781,7 @@
       "@type": "Person",
       "@id": "N-555",
       "ref": "N-555",
-      "name": "Carrie Prejean Bowler",
+      "name": "Carrie Prejean Boller",
       "type": "person",
       "description": "Questioner of Seth Dillon at the Religious Liberty Commission hearing on antisemitism; Catholic activist.",
       "related_artifacts": [
@@ -2386,8 +2386,8 @@
       "@type": "Claim",
       "@id": "C-2346",
       "ref": "C-2346",
-      "label": "Host Says Carrie Prejean Bowler Questioned Seth Dillon",
-      "claim": "The host says Carrie Prejean Bowler questioned Seth Dillon at the Religious Liberty Commission hearing regarding antisemitism and the Hamptons meeting.",
+      "label": "Host Says Carrie Prejean Boller Questioned Seth Dillon",
+      "claim": "The host says Carrie Prejean Boller questioned Seth Dillon at the Religious Liberty Commission hearing regarding antisemitism and the Hamptons meeting.",
       "anchored_artifacts": [
         "A-1760.2"
       ],
@@ -3283,7 +3283,7 @@
       "@id": "C-14346",
       "ref": "C-14346",
       "label": "Host Says Witnesses at the Commission Hearing Testify Under Oath",
-      "claim": "The host says that because Seth Dillon was testifying at the Religious Liberty Commission hearing he was under oath, which she says gave Carrie Prejean Bowler the opening to question him on a range of topics.",
+      "claim": "The host says that because Seth Dillon was testifying at the Religious Liberty Commission hearing he was under oath, which she says gave Carrie Prejean Boller the opening to question him on a range of topics.",
       "anchored_artifacts": [
         "A-1760.2"
       ],
@@ -3306,7 +3306,7 @@
       "@id": "C-14347",
       "ref": "C-14347",
       "label": "Host Says Dillon Was a Leading Voice Calling Christ Is King Anti-Semitic",
-      "claim": "The host says Carrie Prejean Bowler pressed Seth Dillon first on his being one of the chiefs of the claim that 'Christ is King' is anti-Semitic.",
+      "claim": "The host says Carrie Prejean Boller pressed Seth Dillon first on his being one of the chiefs of the claim that 'Christ is King' is anti-Semitic.",
       "anchored_artifacts": [
         "A-1760.2"
       ],
@@ -3351,7 +3351,7 @@
       "@type": "Claim",
       "@id": "C-14349",
       "ref": "C-14349",
-      "label": "Clip: Prejean Bowler Says Ben Shapiro Fired Candace Over 'Christ Is King'; Dillon Says He Never Called It Anti-Semitic",
+      "label": "Clip: Prejean Boller Says Ben Shapiro Fired Candace Over 'Christ Is King'; Dillon Says He Never Called It Anti-Semitic",
       "claim": "In the hearing clip, the questioner says that when Candace Owens worked for Daily Wire, the witness's friend Ben fired her because she said Christ is king, and the witness replies that he never said what she said was anti-semitic.",
       "anchored_artifacts": [
         "A-1760.2"

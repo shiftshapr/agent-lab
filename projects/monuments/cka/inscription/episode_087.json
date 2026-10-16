@@ -2493,7 +2493,7 @@
       "@id": "C-2628",
       "ref": "C-2628",
       "label": "Same Subject Released After Interrogation ~90 Minutes Later",
-      "claim": "At 5:59 PM the same day, Kash Patel posted that the previously detained subject had been released after interrogation by law enforcement, with no further explanation given.",
+      "claim": "Per the X post the host shows, Kash Patel wrote that the subject in custody had been released after an interrogation by law enforcement; the host says he posted it at 5:59 PM the same day and that no further explanation was given.",
       "anchored_artifacts": [
         "A-1918.2"
       ],
@@ -2562,7 +2562,7 @@
         "N-10577"
       ],
       "tags": [],
-      "claim_timestamp": "00:00:00–00:00:01",
+      "claim_timestamp": "00:16:35",
       "investigative_direction": "Cross-check corporate registration records (Secretary of State filings in Texas) for Built Incorporated founders and incorporation date.",
       "mentions_person_refs": [
         "N-412",
@@ -2591,7 +2591,7 @@
       "@id": "C-2633",
       "ref": "C-2633",
       "label": "Host Shows LinkedIn Listing Gina Romney Henderson as VP UX at Built Inc.",
-      "claim": "Per Gina Romney Henderson's LinkedIn profile, which the host shows, she is Vice President of User Experience at Built Incorporated; the host also says she is a BYU alumna.",
+      "claim": "Per Gina Romney Henderson's LinkedIn profile, which the host shows, she is Vice President of User Experience at Built Incorporated.",
       "anchored_artifacts": [
         "A-1921.1"
       ],
@@ -2682,7 +2682,7 @@
       "@id": "C-2638",
       "ref": "C-2638",
       "label": "Qureshi and Henderson Families Lived in Same House, Keller, Texas",
-      "claim": "The Qureshi and Henderson families lived in the same house in Keller, Texas; the host offers alternative explanations (vacation rental, sale) but asserts cohabitation is not in dispute.",
+      "claim": "The host says the Qureshi and Henderson families lived in the same house in Keller, Texas; she offers alternative explanations (vacation rental, sale) but asserts cohabitation is not in dispute.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10577"
@@ -2734,7 +2734,7 @@
       "@id": "C-2641",
       "ref": "C-2641",
       "label": "Andrew Zenger Attended BYU Jerusalem",
-      "claim": "Andrew Zenger attended BYU Jerusalem, with the host noting he was there during the Mitt Romney presidential election season.",
+      "claim": "The host says Andrew Zenger attended BYU Jerusalem and was there during the Mitt Romney presidential election season.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10575"
@@ -2766,7 +2766,7 @@
       "@id": "C-2643",
       "ref": "C-2643",
       "label": "Metro One Talent Is the CIA's Recruiting Vendor",
-      "claim": "The CIA uses a company called Metro One Talent to interview and onboard BYU Jerusalem recruits.",
+      "claim": "The host says the CIA uses a company called Metro One Talent to interview and bring on board young recruits such as those from BYU Jerusalem.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10575",
@@ -2819,7 +2819,7 @@
       "@id": "C-2646",
       "ref": "C-2646",
       "label": "Turning Point Sent Fundraising Texts Within 48 Hours of Death",
-      "claim": "Turning Point USA sent text-message fundraising solicitations from \"Erika\" within approximately 48 hours of Charlie Kirk's death.",
+      "claim": "The host says someone sent her Turning Point USA fundraising text messages, sent about 48 hours after Charlie Kirk's death, that began \"Hi, I'm Erika and for Charlie's legacy, please give\".",
       "anchored_artifacts": [
         "A-1926.1"
       ],
@@ -2837,7 +2837,7 @@
       "@id": "C-2647",
       "ref": "C-2647",
       "label": "Viewer Comment Host Reads Says Turning Point Sent Funeral-Image Fundraising Mailer",
-      "claim": "A viewer comment the host reads (from Yoshi) says Turning Point sent a direct mail piece featuring an image of Erika Kirk walking out at Charlie's funeral in a sparkle suit with fireworks as a fundraising solicitation; the host says she heard mailers like this were sent.",
+      "claim": "A viewer comment the host reads (from Yoshi) says Turning Point sent a direct mail fundraising plea using a photo of Erika Kirk walking out on stage in her sparkle suit to a show of fireworks; the host says she heard such mailers were sent and that the image is from the funeral, she thinks.",
       "anchored_artifacts": [
         "A-1926.1"
       ],
@@ -2854,7 +2854,7 @@
       "@id": "C-2648",
       "ref": "C-2648",
       "label": "Robbie Hild Family Allegedly Married Into Romney Family",
-      "claim": "Viewers and social media indicate the Hild family is married into the Romney family, but the host cannot relocate the underlying document establishing this connection and requests viewer tips.",
+      "claim": "The host says she learned from viewers that Robbie Hild's family is allegedly married into the Romney family and that across social media they were involved in the campaign, but she cannot find the document establishing the connection and requests viewer tips.",
       "anchored_artifacts": [
         "A-1924.2"
       ],
@@ -3116,8 +3116,7 @@
       "transcript_snippet": "Turning Point USA is trying to twist and reimagine his legacy as pro-war in the Middle East, war in Iran, and BB is doing the most",
       "mentions_person_refs": [
         "N-3",
-        "N-1",
-        "N-36"
+        "N-1"
       ]
     },
     {
@@ -3351,7 +3350,7 @@
       "@type": "Claim",
       "@id": "C-14567",
       "ref": "C-14567",
-      "label": "Host Says Zin Later Told People at Utah Valley Hospital He Was Paid",
+      "label": "Host Says Zinn Later Told People at Utah Valley Hospital He Was Paid",
       "claim": "The host says George Zinn later told people at Utah Valley, where he was being treated, that he was paid to claim responsibility.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3923,7 +3922,8 @@
       "transcript_snippet": "I am telling you that his roommates were. He's got a roommate who did a contract work, went on to do contract work for the CIA as well.",
       "mentions_person_refs": [
         "N-3",
-        "N-135"
+        "N-135",
+        "N-418"
       ]
     },
     {
@@ -4784,7 +4784,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-1"
+        "N-1",
+        "N-2"
       ]
     },
     {

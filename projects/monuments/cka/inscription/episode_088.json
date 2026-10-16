@@ -1978,7 +1978,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-11092",
       "ref": "N-11092",
-      "name": "Erika CEO Appointment Timing Explanation (DeGroot versus TPUSA PR Source)",
+      "name": "Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -2092,7 +2092,7 @@
         "N-10585"
       ],
       "tags": [],
-      "claim_timestamp": "00:01:20–00:03:02",
+      "claim_timestamp": "00:02:40",
       "investigative_direction": "Preserve and verify Tour Qureshi's LinkedIn profile (or cached version); confirm the Fort Huachuca training and reconnaissance-drone qualification claims against public records.",
       "mentions_person_refs": []
     },
@@ -2192,7 +2192,8 @@
       "investigative_direction": "Obtain the original Jesse Watters interview footage in unedited form; verify the jump cut and compare the account against the NY Times account and against witness testimony.",
       "mentions_person_refs": [
         "N-2",
-        "N-212"
+        "N-212",
+        "N-1"
       ]
     },
     {
@@ -2212,7 +2213,8 @@
       "investigative_direction": "Cross-reference Blake Neff's claims against contemporaneous TPUSA employee testimony regarding Charlie's stated succession intent.",
       "mentions_person_refs": [
         "N-2",
-        "N-160"
+        "N-160",
+        "N-1"
       ]
     },
     {
@@ -2268,7 +2270,8 @@
       "claim_timestamp": "00:34:02–00:35:00",
       "investigative_direction": "Obtain the Instagram post directly; verify date, visual content, and any caption.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -2464,7 +2467,8 @@
       "transcript_snippet": "which door you were going to go through at Timpanogos if you were prepping for a mission.",
       "mentions_person_refs": [
         "N-412",
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -2661,7 +2665,7 @@
         "N-10516"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:10:21",
       "investigative_direction": "Document Erika's childhood household through records and earlier interviews.",
@@ -2970,7 +2974,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-160",
-        "N-191"
+        "N-191",
+        "N-1"
       ]
     },
     {
@@ -2978,7 +2983,7 @@
       "@id": "C-8589",
       "ref": "C-8589",
       "label": "Host Says Erika Has Herself Talked About Her Mother's Lyme Disease",
-      "claim": "The host says she is not questioning that Erika's mother is ill and notes Erika has herself talked about her mother's Lyme disease in different settings.",
+      "claim": "The host says she is not questioning that Erika's mother is ill and says she thinks Erika has herself talked about her mother's Lyme disease in different settings.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10483"
@@ -2999,7 +3004,7 @@
       "@id": "C-8590",
       "ref": "C-8590",
       "label": "Host Says the Chief Fundraiser Recorded Erika Grieving",
-      "claim": "The host says someone had the chief fundraiser record Erika grieving over her husband, and cites it as an example of using emotion to manipulate people.",
+      "claim": "The host says Erika had the chief fundraiser record her grieving over her husband, and cites it as an example of tendencies to use emotion to manipulate people.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3092,7 +3097,7 @@
       "@id": "C-8594",
       "ref": "C-8594",
       "label": "Erika Told Watters Mikey Called Within Seconds and She Sprinted Out of the Treatment Center",
-      "claim": "In the Jesse Watters clip played, Erika Kirk says Mikey called within seconds after she put her phone down and that she sprinted out of her treatment center.",
+      "claim": "In the Jesse Watters clip played, Erika Kirk says that when she went back to grab her phone Mikey started calling, that he called her within seconds, and that she sprinted out of her treatment center.",
       "anchored_artifacts": [
         "A-1931.1"
       ],
@@ -3174,8 +3179,7 @@
       "investigative_direction": "Identify the facility, its licence type and services through state records.",
       "transcript_snippet": "It would be more appropriately described as an IV therapy place.",
       "mentions_person_refs": [
-        "N-3",
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -3225,8 +3229,7 @@
       "investigative_direction": "Count and verify the tips received against named sources.",
       "transcript_snippet": "Please tell us, send us in tips, more tips at candaceowens. com.",
       "mentions_person_refs": [
-        "N-3",
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -3294,8 +3297,7 @@
       "investigative_direction": "Map the chain of who told whom to find any first-hand witness or the origin of the story.",
       "transcript_snippet": "we kept finding that the story fell through the cracks. Meaning that everyone involved had heard it from someone.",
       "mentions_person_refs": [
-        "N-3",
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -3524,7 +3526,7 @@
         "N-10586"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:44:55",
       "investigative_direction": "Compare the stated reasons for the dismissal with reporting on the Epstein files release.",
@@ -3548,15 +3550,14 @@
         "N-10324"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:46:02",
       "investigative_direction": "Identify the video in the release and any analysis that found it manipulated.",
       "transcript_snippet": "they even released a fake a deep fake video of Jeffrey Epstein in his cell committing suicide.",
       "mentions_person_refs": [
         "N-3",
-        "N-9",
-        "N-69"
+        "N-9"
       ]
     },
     {
@@ -3570,7 +3571,7 @@
         "N-10324"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:46:02",
       "investigative_direction": "Find the DOJ statement or the removal record.",
@@ -3809,7 +3810,7 @@
       "@id": "C-8625",
       "ref": "C-8625",
       "label": "Host Says Charlie Used to Ask Trump's Speechwriter to Save a Sentence",
-      "claim": "The host says Charlie had an in with Trump's speechwriter and would ask him to save a sentence, for example when promoting Blexit.",
+      "claim": "The host says Charlie had an in with Trump's speechwriter and would ask them to save a sentence, for example when promoting Blexit.",
       "anchored_artifacts": [
         "A-2951.1"
       ],
@@ -3979,8 +3980,7 @@
       "transcript_snippet": "we think we're pretty close to nailing her down",
       "mentions_person_refs": [
         "N-3",
-        "N-490",
-        "N-2"
+        "N-490"
       ]
     },
     {

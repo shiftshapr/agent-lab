@@ -48,7 +48,7 @@ Episode 42 Ledger Summary
 
 Episode 42 advances two distinct lines within the Bride of Charlie record. The first centers on the dispute over TPUSA's December 15, 2025 live stream response. The artifact material presented includes an audio segment from the Charlie Kirk Show in which Blake Neff states the invitation response was directed and approved by Erika Kirk and that in-person attendance is "intuitive" for authenticity; a separate read-aloud of Nef's earlier "sincere" Phoenix invitation statement; and a subsequent Blake Neff X post asserting the engagement was "not how you book a guest." A separate artifact documents the Charlie Kirk Show's reported fall to #94 on Apple Podcasts.
 
-The second line extends the UVU September 10 footwear and witness analysis. The host presents UVU footage emphasizing multiple young men wearing maroon shirts alone in the crowd, identifies UVU school colors as green and white, cites viewer emails linking maroon to airborne-forces identification conventions worldwide, and draws attention to two specific individuals (Jacob Kasparian and Adam Bartholomew) and to the apparent absence of family social media acknowledgement by Kasparian following the shooting. Additional artifacts include a PBS clip of witness Emmanuel Beerer and a follow-up phone-call summary with the individual who filmed one of two videos of the alleged roof subject. The episode also features an audio and lyric excerpt of The Game's track "The Assassination of Candace Owens."
+The second line extends the UVU September 10 footwear and witness analysis. The host presents UVU footage emphasizing multiple young men wearing maroon shirts alone in the crowd, identifies UVU school colors as green and white, cites viewer emails linking maroon to airborne-forces identification conventions worldwide, and draws attention to two specific individuals (Jacob Kasparian and Adam Bartholomew) and to the apparent absence of family social media acknowledgement by Kasparian following the shooting. Additional artifacts include a PBS clip of witness Emmanuel Bierer and a follow-up phone-call summary with the individual who filmed one of two videos of the alleged roof subject. The episode also features an audio and lyric excerpt of The Game's track "The Assassination of Candace Owens."
 
 The structural importance of the episode lies in compiling testimonial and on-screen material into two investigative streams: (1) the TPUSA invitation/authenticity dispute and (2) the UVU attendance pattern and witness selection, each anchored to discrete evidentiary families.
 
@@ -200,9 +200,9 @@ Confidence Level: High
 
 *Related: C-1855, N-10312*
 
-**A-1508** PBS Emmanuel Beerer Interview Bundle
+**A-1508** PBS Emmanuel Bierer Interview Bundle
 
-**A-1508.1** PBS News clip of Emmanuel Beerer describing UVU event
+**A-1508.1** PBS News clip of Emmanuel Bierer describing UVU event
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -424,7 +424,7 @@ Investigative Pressure: Medium
 
 *Related: A-1511.1, C-1852, N-309, N-10311*
 
-**N-311** Emmanuel Beerer
+**N-311** Emmanuel Bierer
 
 Eyewitness featured in PBS interview clip; host notes his selection by mainstream media.
 
@@ -492,7 +492,7 @@ Investigative Pressure: High
 
 **N-10315** Mainstream Media Eyewitness Selection Pattern at UVU Event
 
-Persistent target tracking why Emmanuel Beerer was selected by PBS (and other networks) as a featured eyewitness despite his apparent obscurity.
+Persistent target tracking why Emmanuel Bierer was selected by PBS (and other networks) as a featured eyewitness despite his apparent obscurity.
 
 Evidence Count: 0
 Claim Count: 0
@@ -760,18 +760,18 @@ Investigative Direction: Cross-reference third-party Apple Podcasts tracking ser
 
 ---
 
-**C-1847** PBS featured Emmanuel Beerer as eyewitness in Salt Lake City
+**C-1847** PBS featured Emmanuel Bierer as eyewitness in Salt Lake City
 
 Claim Timestamp: 00:32:42–00:33:55
 
-Claim: The host says PBS and other networks featured Emmanuel Beerer as an eyewitness and that he was filmed in Salt Lake City rather than at UVU; she plays a PBS clip of him.
+Claim: The host says PBS and other networks featured Emmanuel Bierer as an eyewitness and that he was filmed in Salt Lake City rather than at UVU; she plays a PBS clip of him.
 
 Anchored Artifacts: A-1508.1
 Mentions: N-311
 
 Related Nodes: N-10315
 
-Investigative Direction: Obtain the original PBS segment, identify the producer/assignment editor, and verify how Beerer was identified as a witness.
+Investigative Direction: Obtain the original PBS segment, identify the producer/assignment editor, and verify how Bierer was identified as a witness.
 
 ---
 
@@ -1531,11 +1531,11 @@ Investigative Direction: Reconcile tips received with the host's later identific
 
 ---
 
-**C-12451** Host Says Beerer Is a Former Oracle Engineer Believed from Germany
+**C-12451** Host Says Bierer Is a Former Oracle Engineer Believed from Germany
 
 Claim Timestamp: 00:31:33
 
-Claim: The host says Emmanuel Beerer is a former employee of Oracle, a software engineer, and she believes from Germany.
+Claim: The host says Emmanuel Bierer is a former employee of Oracle, a software engineer, and she believes from Germany.
 
 Transcript Snippet: he's a former employee of Oracle. He's in engineering. Uh, I believe he's from Germany from what I looked into.
 
@@ -1543,15 +1543,15 @@ Anchored Artifacts:
 Mentions: N-311, N-3
 Related Nodes: N-10315
 Tags: relevance:core
-Investigative Direction: Check public professional profiles for Beerer's employer history and location.
+Investigative Direction: Check public professional profiles for Bierer's employer history and location.
 
 ---
 
-**C-12452** Host Says She Sees No Photos of Beerer at the Event
+**C-12452** Host Says She Sees No Photos of Bierer at the Event
 
 Claim Timestamp: 00:31:33
 
-Claim: The host says Beerer attended the event but that she does not see any photos of him there, and asks viewers for footage showing him.
+Claim: The host says Bierer attended the event but that she does not see any photos of him there, and asks viewers for footage showing him.
 
 Transcript Snippet: he attended the event but somehow I don't see any photos of him at the event
 
@@ -1560,7 +1560,7 @@ Mentions: N-311, N-3
 Related Nodes: N-10315
 Supports: C-1847
 Tags: relevance:core
-Investigative Direction: Request footage from attendees who recognize Beerer.
+Investigative Direction: Request footage from attendees who recognize Bierer.
 
 ---
 
@@ -1581,11 +1581,11 @@ Investigative Direction: Verify the name in the HappyScribe transcript and the B
 
 ---
 
-**C-12454** Beerer Says in the Clip He Heard a Loud Sound and Everyone Ducked
+**C-12454** Bierer Says in the Clip He Heard a Loud Sound and Everyone Ducked
 
 Claim Timestamp: 00:32:42
 
-Claim: In the PBS clip Emmanuel Beerer says he heard a loud sound, did not think it could be happening, and that everyone ducked.
+Claim: In the PBS clip Emmanuel Bierer says he heard a loud sound, did not think it could be happening, and that everyone ducked.
 
 Transcript Snippet: I hear this loud sound and I'm like, "That wasn't what I thought it was, is it?" I was like, "No, this can't be happening right now." And we all ducked.
 
