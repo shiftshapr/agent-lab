@@ -155,7 +155,7 @@ Confidence Level: High (clip played on air)
 
 ### A-1500 Egyptian Presidency Photographic Evidence Bundle
 
-**A-1500.1** Photograph of President El-Sisi meeting Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025
+**A-1500.1** Photograph of President El-Sisi meeting Tunisian Prime Minister Sarra Zaafrani in Egypt on September 10, 2025
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -598,7 +598,7 @@ Investigative Direction: Verify directly against the Egyptian presidency website
 
 Claim Timestamp: 00:17:13
 
-Claim: The host says President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025, which she cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.
+Claim: The host says President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sarra Zaafrani in Egypt on September 10, 2025, which she cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.
 
 Anchored Artifacts: A-1500.1 (verbally referenced; not displayed)
 Mentions: N-3, N-717, N-307
