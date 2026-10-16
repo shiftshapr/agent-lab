@@ -645,7 +645,7 @@ Investigative Pressure: Medium
 
 **N-206** Sean Feucht
 
-TPUSA Faith contributor and Kingdom to the Capital Tour leader; subject of June 2025 article detailing fraud, embezzlement, and financial mismanagement allegations; reported to be planning a "Courageous Christianity Tour" with Rob McCoy honoring Charlie.
+TPUSA Faith contributor and Kingdom to the Capitol Tour leader; subject of June 2025 article detailing fraud, embezzlement, and financial mismanagement allegations; reported to be planning a "Courageous Christianity Tour" with Rob McCoy honoring Charlie.
 
 Evidence Count: 2
 Claim Count: 3
@@ -1277,7 +1277,7 @@ The two planes the host says flew out of Scottsdale on the day of the shooting, 
 
 ---
 
-**N-11330** Kingdom to the Capital Tour Plane Overlap Pattern
+**N-11330** Kingdom to the Capitol Tour Plane Overlap Pattern
 
 Node Type: Topic
 The host's claim that each Egyptian plane visit in 2023 coincided with a TPUSA Faith Kingdom to the Capital event headed by Sean Feucht.
@@ -1397,10 +1397,10 @@ Investigative Direction: Pull Flightradar / FAA archives for N102DZ on September
 
 ---
 
-**C-1555** Host Says N102DZ Departed Salt Lake City at About 1:00 PM on Day of Assassination After a 15-Minute Scottsdale Turn-Around
+**C-1555** Host Says N102DZ Left Salt Lake City Around 1:00 PM on Day of Assassination, Then Turned Around After 15 Minutes in Scottsdale
 
 Claim Timestamp: 00:43:20
-Claim: The host says N102DZ departed Salt Lake City at about 1:00 PM local on September 10, 2025, returned to Scottsdale, remained on the ground about 15 minutes, and turned back toward Scottsdale.
+Claim: The host says N102DZ left Salt Lake City and headed to Scottsdale at about 1:00 PM local on September 10, 2025, was on the ground in Scottsdale for only about 15 minutes, and then turned around and flew out again.
 Anchored Artifacts: A-1309.1
 Related Nodes: N-10215
 Investigative Direction: Verify the second-leg flight path; cross-check with Flightradar archives and FAA tracks.
@@ -1512,9 +1512,9 @@ Investigative Direction: Locate any direct statement from Charlie Kirk regarding
 **C-1564** Live-Chat Critics Condemn TPUSA-Affiliated Pastors and Christian Zionist Silence After Charlie Kirk Assassination
 
 Claim Timestamp: 00:59:11
-Claim: The episode reads aloud live-chat comments, one voicing support for the host because 'the Zionists want to call you vermin', and one criticizing Pastor Jack Hibbs's silence and condemning Christian Zionist loyalty replacing loyalty to "God, the church, and the truth."
+Claim: The episode reads aloud live-chat comments, one voicing support for the host because 'the Zionists want to call you vermin', and one saying Pastor Jack Hibbs has not said nearly enough and condemning Christian Zionist loyalty replacing loyalty to "God, the church, and the truth."
 Anchored Artifacts: A-1306.1, A-1306.2, A-1306.3
-Mentions: N-209, N-1
+Mentions: N-209
 Related Nodes: N-10209
 Investigative Direction: Verify each named pastor / figure's public silence or statements in the period following September 10, 2025.
 
@@ -1880,11 +1880,11 @@ Investigative Direction: Check Feucht's biography and Harvest Rock Church or Che
 
 ---
 
-**C-12281** Host Says Feucht Was Announced February 28 to Head the Kingdom to the Capital Tour
+**C-12281** Host Says Feucht Was Announced February 28 to Head the Kingdom to the Capitol Tour
 
 Claim Timestamp: 00:13:18
 
-Claim: The host says that on February 28 it was announced Sean Feucht would head up the 'Kingdom of the Capital Tour', making him the face of the TPUSA Faith tour.
+Claim: The host says that on February 28 it was announced Sean Feucht would head up the 'Kingdom of the Capital Tour' [Kingdom to the Capitol Tour], making him the face of the TPUSA Faith tour.
 
 Transcript Snippet: February 28th, Sean Feucht announce it's announced that he's going to be heading up the Kingdom of the Capital Tour.
 
@@ -2057,13 +2057,13 @@ Investigative Direction: Check Flightradar and FAA records for SUBTT departures 
 
 ---
 
-**C-12292** Host Says Feucht Led a TPUSA Faith Kingdom to the Capital Event in Topeka on April 23 Near the Plane's Kansas Stay
+**C-12292** Host Says Feucht Led a TPUSA Faith Kingdom to the Capitol Event in Topeka on April 23 Near the Plane's Kansas Stay
 
 Claim Timestamp: 00:17:56
 
-Claim: The host says the yellow plane flew Cairo to Kansas, and on April 23 Sean Feucht headed up the TPUSA Faith Kingdom to the Capital Tour event in Topeka, Kansas.
+Claim: The host says the yellow plane flew Cairo to Kansas, and on April 23 Sean Feucht headed up the TPUSA Faith Kingdom to the Capitol Tour event in Topeka, Kansas.
 
-Transcript Snippet: And on April 23rd, Sean Feucht heads up the TPUSA Faith Kingdom to the Capital Tour event, which happens to be in Topeka, Kansas.
+Transcript Snippet: And on April 23rd, Sean Feucht heads up the TPUSA Faith Kingdom to the Capitol Tour event, which happens to be in Topeka, Kansas.
 
 Anchored Artifacts: A-1301.3
 Mentions: N-206
@@ -2380,11 +2380,11 @@ Investigative Direction: Collect Hammer's and Dillon's public posts and statemen
 
 ---
 
-**C-12312** Host Says Bob Shillman Was Angry and the Angry Men Told Kirk It Could Never Happen Again
+**C-12312** Host Says Bob Shillman Was Angry and the Vibe Was That It Could Never Happen Again
 
 Claim Timestamp: 00:34:42
 
-Claim: The host says Bob Shillman was angry after the speech and that they were basically telling Charlie it could never happen again and that he has to be pro-Israel.
+Claim: The host says Bob Shillman was angry after the speech and that they were basically telling Charlie it could never happen again and that he has to be pro-Israel, which she describes as 'kind of the vibes that they're putting down'.
 
 Transcript Snippet: Bob Shillman is angry. And they're basically saying, Charlie, this can never happen again and you have to be pro-Israel.
 
@@ -2552,7 +2552,7 @@ Investigative Direction: Obtain crew and passenger declarations for the SUBTT de
 
 Claim Timestamp: 00:41:35
 
-Claim: The host says her team found two planes that, right after Charlie Kirk was shot, scrambled from Scottsdale, Arizona, and were trying to find out who came in.
+Claim: The host says her team found two planes that, right after Charlie Kirk was shot, scrambled from Scottsdale, Arizona, and that they are trying to figure out who came in.
 
 Transcript Snippet: There were two planes that we could find that right after Charlie gets shot scrambled uh and from Scottsdale, Arizona.
 

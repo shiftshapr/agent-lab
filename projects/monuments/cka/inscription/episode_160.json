@@ -13,7 +13,7 @@
     "transcript_sha256": "24d90a160bd049729eeb3c14c85fbb5fb98847e2f37c82b3d1ec5cd543177375",
     "analysis_date": "2026-10-06"
   },
-  "executive_summary": "Episode 397 opens by framing a new Candace smear package the host nicknames Candyland: a Lisa Nose X post alleging eight illegal nannies under NDA in a second Nashville mansion, attributed originally to Jessica Reed Kraus, which the host satirizes as the latest failed character attack. She then argues a broader distraction SCOP is underway, cycling narratives (dead-internet feel) because Charlie Kirk remains unresolved: she cites Las Vegas 2017 vanishing within five days under MeToo/Harvey Weinstein coverage, then Nick Shirley's Somali-daycare scoop (and Shirley as last Charlie Kirk Show guest, booked by Andrew Kolvet) as a failed distraction, then a killer-mom / Lindsay Clancy / Nancy Mace / New York Post / Libs of TikTok filicide panic that she says neocons link to women who distrust Erika Kirk, aimed at regulating the internet after bots failed.\n\nThe core UVU beat: the independent review names a Station 2 fire captain who assisted CPR at Timpanogos Hospital but leaves him unnamed, while naming non-participants Caleb Chilcutt and Maycee Crofts. Host plays 911 audio (ladder 33 / engine 34 redirected ~12:30) and stresses that neither Frank Turek nor Brian Harpole ever mentioned a fire captain giving CPR. Frank Turek on Brandon Tatum's podcast then doubles down that Jeff Long \"had the roofs,\" citing a Dan Flood text, after the review's release. Closing thirds cover banker whistleblower Simon Andre's reported death after flagging Howard Lutnick's Epstein ties and a 2018 email/startup claim (BBC), Zach Bryan's Free Palestine shirts and Gillette Stadium attendance-record nights after Robert Kraft canceled Macklemore, Baron Coleman under X attack after being announced as guest host during Candace's maternity leave, and comments revisiting Brian Cole Jr., Skyler, Brigitte/France, and smear economics promised for the next show.\n\n---",
+  "executive_summary": "Episode 397 opens by framing a new Candace smear package the host nicknames Candyland: a Lisa Nose X post alleging eight illegal nannies under NDA in a second Nashville mansion, attributed originally to Jessica Reed Kraus, which the host satirizes as the latest failed character attack. She then argues a broader distraction SCOP is underway, cycling narratives (dead-internet feel) because Charlie Kirk remains unresolved: she cites Las Vegas 2017 vanishing within five days under MeToo/Harvey Weinstein coverage, then Nick Shirley's Somali-daycare scoop (and Shirley as last Charlie Kirk Show guest, booked by Andrew Kolvet) as a failed distraction, then a killer-mom / Lindsay Clancy / Nancy Mace / New York Post / Libs of TikTok filicide panic that she says neocons link to women who distrust Erika Kirk, aimed at regulating the internet after bots failed.\n\nThe core UVU beat: the independent review names a Station 2 fire captain who assisted CPR at Timpanogos Hospital but leaves him unnamed, while naming non-participants Caleb Chilcutt and Maycee Crofts. Host plays 911 audio (ladder 33 / engine 34 redirected ~12:30) and stresses that neither Frank Turek nor Brian Harpole ever mentioned a fire captain giving CPR. Frank Turek on Brandon Tatum's podcast then doubles down that Jeff Long \"had the roofs,\" citing a Dan Flood text, after the review's release. Closing thirds cover banker whistleblower Simon Andriesz's reported death after flagging Howard Lutnick's Epstein ties and a 2018 email/startup claim (BBC), Zach Bryan's Free Palestine shirts and Gillette Stadium attendance-record nights after Robert Kraft canceled Macklemore, Baron Coleman under X attack after being announced as guest host during Candace's maternity leave, and comments revisiting Brian Cole Jr., Skyler, Brigitte/France, and smear economics promised for the next show.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -151,13 +151,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2478",
       "family_ref": "A-2478",
-      "bundle_name": "Simon Andre / Howard Lutnick Epstein Whistleblower Death Bundle",
+      "bundle_name": "Simon Andriesz / Howard Lutnick Epstein Whistleblower Death Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2478.1",
           "ref": "A-2478.1",
-          "description": "Host read of headline and BBC-attributed account: former BGC Group managing director Simon Andre dies after flagging Howard Lutnick links to Epstein, including an alleged 2018 email chain about a startup and claims Lutnick visited Epstein's island / temple structure; Lutnick is now U.S. Commerce Secretary.",
+          "description": "Host read of headline and BBC-attributed account: former BGC Group managing director Simon Andriesz dies after flagging Howard Lutnick links to Epstein, including an alleged 2018 email chain about a startup and claims Lutnick visited Epstein's island / temple structure; Lutnick is now U.S. Commerce Secretary.",
           "related_claims": [
             "C-3626",
             "C-3627"
@@ -1029,7 +1029,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10877",
       "ref": "N-10877",
-      "name": "Howard Lutnick / Simon Andre Epstein Whistleblower Death",
+      "name": "Howard Lutnick / Simon Andriesz Epstein Whistleblower Death",
       "type": "investigation_target",
       "description": "New topic: Andre's reported death after alleging Lutnick-Epstein business ties and island visits; host flags suicide narrative as suspicious.",
       "related_artifacts": [
@@ -1103,7 +1103,7 @@
       "ref": "N-166",
       "name": "Howard Lutnick",
       "type": "person",
-      "description": "U.S. Commerce Secretary and former BGC Group CEO; host says whistleblower Simon Andre flagged his Epstein island visits and a 2018 startup email chain with Epstein.",
+      "description": "U.S. Commerce Secretary and former BGC Group CEO; host says whistleblower Simon Andriesz flagged his Epstein island visits and a 2018 startup email chain with Epstein.",
       "related_artifacts": [
         "A-2478.1"
       ],
@@ -1125,7 +1125,7 @@
       "@type": "Person",
       "@id": "N-173",
       "ref": "N-173",
-      "name": "Simon Andre",
+      "name": "Simon Andriesz",
       "type": "person",
       "description": "Former British banker / BGC managing director reported dead after whistleblowing on Lutnick-Epstein links; host cites BBC attribution and a suicide narrative she calls remarkably suspicious.",
       "related_artifacts": [
@@ -1283,7 +1283,7 @@
       "@type": "Person",
       "@id": "N-226",
       "ref": "N-226",
-      "name": "Steven Paddock",
+      "name": "Stephen Paddock",
       "type": "person",
       "description": "Named by investigators as the lone Las Vegas 2017 gunman who died by suicide before police entry; host uses the unresolved case as the template for media distraction via MeToo.",
       "related_artifacts": [],
@@ -1914,7 +1914,7 @@
       "@id": "C-3619",
       "ref": "C-3619",
       "label": "Las Vegas 2017 coverage displaced within five days by MeToo / Weinstein",
-      "claim": "The host states the October 2017 Las Vegas mass shooting (60 dead, 869 injured; investigators cited 24 firearms in Steven Paddock's suite and no clear motive) disappeared from the media cycle in less than a week because five days later the New York Times Harvey Weinstein MeToo story broke and dominated coverage. She points to Ian Carroll and others for military/Israel/Saudi conspiracy research she does not develop here.",
+      "claim": "The host states the October 2017 Las Vegas mass shooting (60 dead, 869 injured; investigators cited 24 firearms in Stephen Paddock's suite and no clear motive) disappeared from the media cycle in less than a week because five days later the New York Times Harvey Weinstein MeToo story broke and dominated coverage. She points to Ian Carroll and others for military/Israel/Saudi conspiracy research she does not develop here.",
       "anchored_artifacts": [
         "A-2475.1"
       ],
@@ -2057,8 +2057,8 @@
       "@type": "Claim",
       "@id": "C-3626",
       "ref": "C-3626",
-      "label": "Whistleblower Simon Andre dies after flagging Howard Lutnick Epstein ties",
-      "claim": "The host reports that former British banker and BGC Group managing director Simon Andre, who blew the whistle on Howard Lutnick's links to Jeffrey Epstein (including alleged island/temple visits), has died under a suicide narrative she calls remarkably suspicious; Lutnick is now U.S. Commerce Secretary, and the host ties the story to Trump/Bondi reluctance on Epstein files.",
+      "label": "Whistleblower Simon Andriesz dies after flagging Howard Lutnick Epstein ties",
+      "claim": "The host reports that former British banker and BGC Group managing director Simon Andriesz, who blew the whistle on Howard Lutnick's links to Jeffrey Epstein (including alleged island/temple visits), has died under a suicide narrative she calls remarkably suspicious; Lutnick is now U.S. Commerce Secretary, and the host ties the story to Trump/Bondi reluctance on Epstein files.",
       "anchored_artifacts": [
         "A-2478.1"
       ],
@@ -2082,7 +2082,7 @@
       "@id": "C-3627",
       "ref": "C-3627",
       "label": "Andre told BBC he found 2018 Lutnick-Epstein startup email chain",
-      "claim": "Per the host's BBC-attributed account, Simon Andre said he discovered a 2018 email chain in which Howard Lutnick and Jeffrey Epstein discussed prospects of a startup business, which Andre said indicated Lutnick failed to disclose a business relationship with Epstein; the host adds that this came after Epstein's Palm Beach conviction.",
+      "claim": "Per the host's BBC-attributed account, Simon Andriesz said he discovered a 2018 email chain in which Howard Lutnick and Jeffrey Epstein discussed prospects of a startup business, which Andre said indicated Lutnick failed to disclose a business relationship with Epstein; the host adds that this came after Epstein's Palm Beach conviction.",
       "anchored_artifacts": [
         "A-2478.1"
       ],
@@ -3003,7 +3003,7 @@
       "@id": "C-9247",
       "ref": "C-9247",
       "label": "Host says Andre alleged money laundering at the firm",
-      "claim": "The host says Simon Andre, before his death, said there was money laundering happening and pushed to notify people that Howard Lutnick had visited Epstein's island.",
+      "claim": "The host says Simon Andriesz, before his death, said there was money laundering happening and pushed to notify people that Howard Lutnick had visited Epstein's island.",
       "anchored_artifacts": [
         "A-2478.1"
       ],

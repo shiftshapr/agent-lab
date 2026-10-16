@@ -1209,7 +1209,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10190",
       "ref": "N-10190",
-      "name": "Signature FBO / Millionaire FBO (entity cluster)",
+      "name": "Signature FBO / Million Air FBO (entity cluster)",
       "type": "investigation_target",
       "description": "Existing topic reused for the FBO where the airport events took place.",
       "related_artifacts": [],

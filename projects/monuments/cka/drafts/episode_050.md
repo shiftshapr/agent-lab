@@ -46,7 +46,7 @@ This installment is bifurcated between a lengthy personal attack on Ben Shapiro 
 
 The first half of the episode replays and quotes (1) Ben Shapiro's AmFest speech demanding that Candace Owens be called out by name for her commentary on TPUSA and Erika Kirk, and (2) Tucker Carlson's AmFest speech stating that Charlie Kirk faced donor pressure – which Carlson attributes in part to Ben Shapiro – to remove Tucker from the AmFest speaker roster. A "town hall" style firing video from the Daily Wire (Jeremy Boreing, then-CEO) is also replayed; it cites Owens's October–November 2023 X posts about genocide and "Christ is King," and a February 2024 X post about pornography, as the publicized grounds for her firing.
 
-The second half advances the investigation in two artifact-anchored ways. First, it presents (via read-aloud) Mark Amodei's own X post asserting a 12-hour House floor alibi for September 9, and a counter-post by Diligent Dennison arguing Amodei missed the morning roll calls. Second, it introduces a new person-of-interest: Cabot Phillips (Daily Wire / Morning Wire), whom Mitch identified from a photo (without contextual prompting) as someone he saw at Fort Huachuca on the morning of September 9.
+The second half advances the investigation in two artifact-anchored ways. First, it presents (via read-aloud) Mark Amodei's own X post asserting a 12-hour House floor alibi for September 9, and a counter-post by Diligent Denizen arguing Amodei missed the morning roll calls. Second, it introduces a new person-of-interest: Cabot Phillips (Daily Wire / Morning Wire), whom Mitch identified from a photo (without contextual prompting) as someone he saw at Fort Huachuca on the morning of September 9.
 
 The episode also raises – but does not artifact-display – a claim that Erika Kirk publicly stated she had never dated anyone before Charlie Kirk, contrary to social media evidence of her with Cabot Phillips. No direct screenshot of her statement or of the social media is captured in the transcript.
 
@@ -118,9 +118,9 @@ Full text read aloud begins: "For those of you information consumers who are stu
 
 ---
 
-**A-1565** Diligent Dennison X Post Bundle
+**A-1565** Diligent Denizen X Post Bundle
 
-**A-1565.1** Diligent Dennison X post analyzing Mark Amodei's alibi (read aloud in full)
+**A-1565.1** Diligent Denizen X post analyzing Mark Amodei's alibi (read aloud in full)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -386,7 +386,7 @@ Investigative Pressure: High
 
 ---
 
-**N-366** Diligent Dennison
+**N-366** Diligent Denizen
 
 X poster; author of the read-aloud post analyzing Mark Amodei's alibi and identifying missed roll calls.
 
@@ -455,7 +455,7 @@ Investigative Pressure: High
 
 **N-10371** Mark Amodei September 9 Alibi Verification
 
-Persistent inconsistency between Amodei's own X claim of full-day attendance in D.C. and Diligent Dennison's record-based analysis of missed morning roll calls.
+Persistent inconsistency between Amodei's own X claim of full-day attendance in D.C. and Diligent Denizen's record-based analysis of missed morning roll calls.
 
 Evidence Count: 2
 Claim Count: 2
@@ -876,7 +876,7 @@ Investigative Direction: Retrieve the original X post URL; cross-reference with 
 
 Claim Timestamp: 00:36:36
 
-Claim: Per Diligent Dennison's X post that the host reads, Mark Amodei was not present for roll call until the third meeting in mid-afternoon on September 9 in D.C.; the host says the record shows he missed two morning roll calls, while adding that she is still working to verify that.
+Claim: Per Diligent Denizen's X post that the host reads, Mark Amodei was not present for roll call until the third meeting in mid-afternoon on September 9 in D.C.; the host says the record shows he missed two morning roll calls, while adding that she is still working to verify that.
 
 Anchored Artifacts: A-1565.1
 Mentions: N-364, N-366
@@ -1668,11 +1668,11 @@ Investigative Direction: Obtain flight-tracking data for the aircraft and comput
 
 ---
 
-**C-5397** Diligent Dennison infers Amodei could have attended the meeting and returned for the third roll call
+**C-5397** Diligent Denizen infers Amodei could have attended the meeting and returned for the third roll call
 
 Claim Timestamp: 00:36:36
 
-Claim: In the post read aloud, Diligent Dennison says Amodei could have spent the night in Arizona on September 8, attended the morning meeting, and caught a military flight 3 to 4 hours back to make the third roll call in D.C.
+Claim: In the post read aloud, Diligent Denizen says Amodei could have spent the night in Arizona on September 8, attended the morning meeting, and caught a military flight 3 to 4 hours back to make the third roll call in D.C.
 
 Transcript Snippet: This means he could have spent the night in Arizona on September 8th, attended the morning meeting on the 9th and caught a military flight 3 to 4 hours away from the base
 

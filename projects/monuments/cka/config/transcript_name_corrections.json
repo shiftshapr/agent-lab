@@ -2564,6 +2564,209 @@
     [
       "\\bPam Lehman\\b",
       "Pam Liebman"
+    ],
+    [
+      "\\bSherry Steel\\b",
+      "Sherri Steele"
+    ],
+    [
+      "\\bIrwin Steel\\b",
+      "Erwin Steele"
+    ],
+    [
+      "\\bSchulman guy\\b",
+      "Shillman guy",
+      [
+        5
+      ]
+    ],
+    [
+      "\\bMargaret Schzes\\b",
+      "Margarethe Schurz"
+    ],
+    [
+      "\\bXavier Deruso\\b",
+      "Xaviaer DuRousseau"
+    ],
+    [
+      "\\bDeruso\\b",
+      "DuRousseau"
+    ],
+    [
+      "\\bSorenson building\\b",
+      "Sorensen Center"
+    ],
+    [
+      "\\bGernot Omer\\b",
+      "Gernot Ohner"
+    ],
+    [
+      "\\bBuzzard and Bees\\b",
+      "Buzzards and Bees"
+    ],
+    [
+      "\\bShaner Broadick\\b",
+      "Shaner Broderick"
+    ],
+    [
+      "\\bFlorida Dab\\b",
+      "Florida Dad"
+    ],
+    [
+      "\\bKaylee McEnany\\b",
+      "Kayleigh McEnany"
+    ],
+    [
+      "\\bSteven Paddock\\b",
+      "Stephen Paddock"
+    ],
+    [
+      "\\bElijah Schaefer\\b",
+      "Elijah Schaffer"
+    ],
+    [
+      "\\bHen Mazig\\b",
+      "Hen Mazzig"
+    ],
+    [
+      "\\bJoshua Harrelson\\b",
+      "Josh Harrellson"
+    ],
+    [
+      "\\bJosh Harrelson\\b",
+      "Josh Harrellson"
+    ],
+    [
+      "\\bGeorgia Meloni\\b",
+      "Giorgia Meloni"
+    ],
+    [
+      "\\bMartha Louise\\b",
+      "Märtha Louise"
+    ],
+    [
+      "\\bChristopher Mosley\\b",
+      "Christopher Moseley"
+    ],
+    [
+      "\\bMark Caputo\\b",
+      "Marc Caputo"
+    ],
+    [
+      "\\bMicah Stevens\\b",
+      "Micah Stephens"
+    ],
+    [
+      "\\bKatherine Tate\\b",
+      "Kathryn Tate"
+    ],
+    [
+      "\\bIryna Zhuravska\\b",
+      "Iryna Zarutska"
+    ],
+    [
+      "\\bSimon Andre\\b",
+      "Simon Andriesz"
+    ],
+    [
+      "\\bDiligent Dennison\\b",
+      "Diligent Denizen"
+    ],
+    [
+      "\\bPastor Yoon Bo-seon\\b",
+      "Pastor Son Hyun-bo"
+    ],
+    [
+      "\\bYoon Bo-seon\\b",
+      "Son Hyun-bo"
+    ],
+    [
+      "\\bChan Yoon\\b",
+      "Chance Son"
+    ],
+    [
+      "\\bBenith\\b",
+      "B'nai B'rith",
+      [
+        14
+      ]
+    ],
+    [
+      "\\bMary Fagan\\b",
+      "Mary Phagan"
+    ],
+    [
+      "\\bAOV battalion\\b",
+      "Azov battalion"
+    ],
+    [
+      "\\bGauer\\b",
+      "Gernot Ohner",
+      [
+        14
+      ]
+    ],
+    [
+      "\\b(?:Scordies|Squortis)\\b",
+      "Skordas"
+    ],
+    [
+      "\\bDO[Jj] department\\b",
+      "DOGE department",
+      [
+        15
+      ]
+    ],
+    [
+      "\\bLoews building\\b",
+      "Losee building"
+    ],
+    [
+      "\\ba host named Ali\\b",
+      "a host named Ollie",
+      [
+        17
+      ]
+    ],
+    [
+      "\\bIsrael and Civilization, Ali\\b",
+      "Israel and Civilization, Ollie",
+      [
+        17
+      ]
+    ],
+    [
+      "\\bbook came out\\. Ali,",
+      "book came out. Ollie,",
+      [
+        17
+      ]
+    ],
+    [
+      "\\bGroperism\\b",
+      "Groyperism"
+    ],
+    [
+      "\\bJean Michelle\\b",
+      "Jean-Michel",
+      [
+        20
+      ]
+    ],
+    [
+      "\\bWeiss Amaro\\b",
+      "Deirdre Amaro",
+      [
+        20
+      ]
+    ],
+    [
+      "\\bMillionaire FBO\\b",
+      "Million Air FBO"
+    ],
+    [
+      "\\bKingdom to the Capital Tour\\b",
+      "Kingdom to the Capitol Tour"
     ]
   ]
 }

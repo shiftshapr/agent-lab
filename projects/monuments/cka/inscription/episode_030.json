@@ -13,7 +13,7 @@
     "transcript_sha256": "0d2f2dbc9465930cb84c2b757b75f17ff20dc8778189c037661661ce3f8fbc84",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "Episode 30 centers on three documentary threads tied to artifact presentations. First, the host plays Megyn Kelly's tour Q&A clip in which Megyn publicly corrects Ben Shapiro's claim that Candace had accused Erika Kirk of murder, and presents Megyn's backstage video in which Charlie Kirk is heard saying \"Go Max\" to Tucker Carlson prior to his Student Action Summit speech. Second, the host plays a Frank Turek interview segment identifying the previously anonymous \"old man talking to a bush\" pre-event as Butch Hibbs, brother of Pastor Jack Hibbs, and presents a photograph of Hibbs with Kirk taken approximately twenty minutes before the shooting. Third, the host reads directly from the Alexis Wilkins lawsuit against Elijah Schaefer, citing a September 14, 2025 Hen Mazig X post and a Schaefer response photograph as the underlying basis of the $5 million action.\n\nThe episode also introduces several unanchored investigative threads (UVU outdoor venue selection timeline, Mikey McCoy first name, TPUSA Faith / Calvary Chapel military pipeline pattern, Timpanogos vs. Utah Valley Hospital record-sharing systems, TPUSA email-tracking software claim) which are recorded as investigation target nodes rather than claims because no in-episode artifact anchors them. A Kanye West \"Defcon 3\" tweet is read aloud and is recorded as a standalone artifact per the read/display rule.\n\n---",
+  "executive_summary": "Episode 30 centers on three documentary threads tied to artifact presentations. First, the host plays Megyn Kelly's tour Q&A clip in which Megyn publicly corrects Ben Shapiro's claim that Candace had accused Erika Kirk of murder, and presents Megyn's backstage video in which Charlie Kirk is heard saying \"Go Max\" to Tucker Carlson prior to his Student Action Summit speech. Second, the host plays a Frank Turek interview segment identifying the previously anonymous \"old man talking to a bush\" pre-event as Butch Hibbs, brother of Pastor Jack Hibbs, and presents a photograph of Hibbs with Kirk taken approximately twenty minutes before the shooting. Third, the host reads directly from the Alexis Wilkins lawsuit against Elijah Schaffer, citing a September 14, 2025 Hen Mazzig X post and a Schaefer response photograph as the underlying basis of the $5 million action.\n\nThe episode also introduces several unanchored investigative threads (UVU outdoor venue selection timeline, Mikey McCoy first name, TPUSA Faith / Calvary Chapel military pipeline pattern, Timpanogos vs. Utah Valley Hospital record-sharing systems, TPUSA email-tracking software claim) which are recorded as investigation target nodes rather than claims because no in-episode artifact anchors them. A Kanye West \"Defcon 3\" tweet is read aloud and is recorded as a standalone artifact per the read/display rule.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -211,7 +211,7 @@
           "@type": "Artifact",
           "@id": "A-1385.1",
           "ref": "A-1385.1",
-          "description": "Alexis Wilkins lawsuit filing (read aloud in episode) seeking $5 million against Elijah Schaefer and other content creators over honeypot allegations.",
+          "description": "Alexis Wilkins lawsuit filing (read aloud in episode) seeking $5 million against Elijah Schaffer and other content creators over honeypot allegations.",
           "related_claims": [
             "C-1677"
           ],
@@ -231,7 +231,7 @@
           "@type": "Artifact",
           "@id": "A-1385.2",
           "ref": "A-1385.2",
-          "description": "Hen Mazig X post dated September 14, 2025 describing the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.",
+          "description": "Hen Mazzig X post dated September 14, 2025 describing the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.",
           "related_claims": [
             "C-1678"
           ],
@@ -249,7 +249,7 @@
           "@type": "Artifact",
           "@id": "A-1385.3",
           "ref": "A-1385.3",
-          "description": "Elijah Schaefer X post of a photograph of Alexis Wilkins and Kash Patel, posted in response to the Hen Mazig X post.",
+          "description": "Elijah Schaffer X post of a photograph of Alexis Wilkins and Kash Patel, posted in response to the Hen Mazzig X post.",
           "related_claims": [
             "C-1679"
           ],
@@ -635,7 +635,7 @@
       "ref": "N-213",
       "name": "Alexis Wilkins",
       "type": "person",
-      "description": "Plaintiff in the $5 million lawsuit against content creators including Elijah Schaefer; subject of the Hen Mazig post and the Schaefer photograph response.",
+      "description": "Plaintiff in the $5 million lawsuit against content creators including Elijah Schaffer; subject of the Hen Mazzig post and the Schaefer photograph response.",
       "related_artifacts": [
         "A-1385.1",
         "A-1385.3",
@@ -659,9 +659,9 @@
       "@type": "Person",
       "@id": "N-248",
       "ref": "N-248",
-      "name": "Elijah Schaefer",
+      "name": "Elijah Schaffer",
       "type": "person",
-      "description": "Content creator defendant in the Alexis Wilkins lawsuit; posted photograph of Wilkins and Patel in response to Hen Mazig X post.",
+      "description": "Content creator defendant in the Alexis Wilkins lawsuit; posted photograph of Wilkins and Patel in response to Hen Mazzig X post.",
       "related_artifacts": [
         "A-1385.1",
         "A-1385.3"
@@ -680,7 +680,7 @@
       "@type": "Person",
       "@id": "N-249",
       "ref": "N-249",
-      "name": "Hen Mazig",
+      "name": "Hen Mazzig",
       "type": "person",
       "description": "Ex-user (X account holder) who published the September 14, 2025 post describing female Mossad agents in Israeli intelligence operations against Iran.",
       "related_artifacts": [
@@ -764,7 +764,7 @@
       "ref": "N-10245",
       "name": "Alexis Wilkins Honeypot Allegation Lawsuit",
       "type": "investigation_target",
-      "description": "Persistent investigative target concerning the $5 million Wilkins lawsuit against Elijah Schaefer and other content creators over \"honeypot\" allegations, including the Hen Mazig X post and Schaefer photograph cited within the complaint.",
+      "description": "Persistent investigative target concerning the $5 million Wilkins lawsuit against Elijah Schaffer and other content creators over \"honeypot\" allegations, including the Hen Mazzig X post and Schaefer photograph cited within the complaint.",
       "related_artifacts": [
         "A-1385.1",
         "A-1385.2",
@@ -2060,8 +2060,8 @@
       "@type": "Claim",
       "@id": "C-1677",
       "ref": "C-1677",
-      "label": "Host Says Alexis Wilkins Filed a $5 Million Lawsuit Against Elijah Schaefer and Other Content Creators Over Honeypot Allegations",
-      "claim": "The host says Alexis Wilkins filed a $5 million lawsuit against Elijah Schaefer and other content creators over honeypot allegations related to her relationship with Kash Patel.",
+      "label": "Host Says Alexis Wilkins Filed a $5 Million Lawsuit Against Elijah Schaffer and Other Content Creators Over Honeypot Allegations",
+      "claim": "The host says Alexis Wilkins filed a $5 million lawsuit against Elijah Schaffer and other content creators over honeypot allegations related to her relationship with Kash Patel.",
       "anchored_artifacts": [
         "A-1385.1"
       ],
@@ -2081,15 +2081,15 @@
       "@type": "Claim",
       "@id": "C-1678",
       "ref": "C-1678",
-      "label": "Hen Mazig X post on September 14, 2025 described female Mossad agents in Israeli intelligence operations",
-      "claim": "Per the lawsuit the host reads, a September 14, 2025 X post by Hen Mazig described the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.",
+      "label": "Hen Mazzig X post on September 14, 2025 described female Mossad agents in Israeli intelligence operations",
+      "claim": "Per the lawsuit the host reads, a September 14, 2025 X post by Hen Mazzig described the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.",
       "anchored_artifacts": [
         "A-1385.2"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:37:38",
-      "investigative_direction": "Verify the original Hen Mazig post via archived snapshots and any subsequent posts by Mazig on the same topic.",
+      "investigative_direction": "Verify the original Hen Mazzig post via archived snapshots and any subsequent posts by Mazig on the same topic.",
       "mentions_person_refs": [
         "N-249"
       ]
@@ -2098,8 +2098,8 @@
       "@type": "Claim",
       "@id": "C-1679",
       "ref": "C-1679",
-      "label": "Elijah Schaefer posted a photo of Alexis Wilkins and Kash Patel in response to the Hen Mazig X post",
-      "claim": "Per the lawsuit the host reads, Elijah Schaefer responded to the Hen Mazig X post by posting a photograph of Alexis Wilkins and Kash Patel.",
+      "label": "Elijah Schaffer posted a photo of Alexis Wilkins and Kash Patel in response to the Hen Mazzig X post",
+      "claim": "Per the lawsuit the host reads, Elijah Schaffer responded to the Hen Mazzig X post by posting a photograph of Alexis Wilkins and Kash Patel.",
       "anchored_artifacts": [
         "A-1385.3"
       ],
@@ -3353,7 +3353,7 @@
       "@id": "C-9748",
       "ref": "C-9748",
       "label": "Host Says Some Defendants Did Not Explicitly Call Wilkins a Honeypot and Only Posted a Picture",
-      "claim": "The host says that in some circumstances the defendants did not explicitly call Alexis Wilkins a honeypot and only posted a picture, as in the case of Elijah Schaefer.",
+      "claim": "The host says that in some circumstances the defendants did not explicitly call Alexis Wilkins a honeypot and only posted a picture, as in the case of Elijah Schaffer.",
       "anchored_artifacts": [
         "A-1385.3"
       ],

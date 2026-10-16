@@ -65,7 +65,7 @@ Confidence Level: High
 
 **A-1186** BearingPoint company YouTube video
 
-**A-1186.1** BearingPoint Graz office introduction video identifying members of one of the company's software development teams; the host identifies one of the individuals shown as Gernot Omer and displays a side-by-side with the figure in the Broderick companion photo.
+**A-1186.1** BearingPoint Graz office introduction video identifying members of one of the company's software development teams; the host identifies one of the individuals shown as Gernot Ohner and displays a side-by-side with the figure in the Broderick companion photo.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -79,7 +79,7 @@ Confidence Level: Medium
 
 **A-1187** German-language blog post
 
-**A-1187.1** Blog post titled "Anniversary Hike, 10 Years on Foot to the Sea," describing a group of 30-year-olds recreating a hike taken at age 20; contains photos matching the face of the individual identified as Gernot Omer.
+**A-1187.1** Blog post titled "Anniversary Hike, 10 Years on Foot to the Sea," describing a group of 30-year-olds recreating a hike taken at age 20; contains photos matching the face of the individual identified as Gernot Ohner.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -91,9 +91,9 @@ Confidence Level: Medium
 
 ---
 
-**A-1188** Buzzard and Bees website (Provo gothic underground)
+**A-1188** Buzzards and Bees website (Provo gothic underground)
 
-**A-1188.1** Public-facing page from the "Buzzard and Bees" gothic-underground Provo website referencing a "gothic prom," featuring a person in makeup the host matches via side-by-side image to the unidentified individual in the Broderick companion photo.
+**A-1188.1** Public-facing page from the "Buzzards and Bees" gothic-underground Provo website referencing a "gothic prom," featuring a person in makeup the host matches via side-by-side image to the unidentified individual in the Broderick companion photo.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -169,9 +169,9 @@ Confidence Level: Medium
 
 *Related: C-1328, N-61, N-132, N-786*---
 
-**A-1193** Gernot Omer LinkedIn profile
+**A-1193** Gernot Ohner LinkedIn profile
 
-**A-1193.1** LinkedIn profile stating Gernot Omer relocated to Utah in May 2024 to take a software engineer position with JP Morgan Chase.
+**A-1193.1** LinkedIn profile stating Gernot Ohner relocated to Utah in May 2024 to take a software engineer position with JP Morgan Chase.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -185,7 +185,7 @@ Confidence Level: High
 
 **A-1194** Belfast viewer email
 
-**A-1194.1** Email from a viewer in Belfast, Northern Ireland, reporting a facial-recognition search of the unidentified companion produced a single hit in Provo, Utah, on the "Buzzard and Bees" gothic-prom page.
+**A-1194.1** Email from a viewer in Belfast, Northern Ireland, reporting a facial-recognition search of the unidentified companion produced a single hit in Provo, Utah, on the "Buzzards and Bees" gothic-prom page.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -303,7 +303,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-133** Gernot Omer
+**N-133** Gernot Ohner
 
 Austrian national; identified by the host as one of two companions in the Broderick companion photo. Matched to a BearingPoint Graz software team YouTube video and a German-language "Anniversary Hike" blog; LinkedIn indicates relocation to Utah in May 2024 for a software engineering role at JP Morgan Chase.
 
@@ -385,7 +385,7 @@ Investigative Pressure: High
 
 **N-10147** Unidentified Goth Person in Broderick Companion Photo
 
-The second of two foreign companions in the photo with Shaner Broderick; matched by a Belfast viewer to a person on the Provo gothic-underground site "Buzzard and Bees." Remains unidentified by name as of this episode.
+The second of two foreign companions in the photo with Shaner Broderick; matched by a Belfast viewer to a person on the Provo gothic-underground site "Buzzards and Bees." Remains unidentified by name as of this episode.
 
 Evidence Count: 2
 Claim Count: 1
@@ -769,11 +769,11 @@ Investigative Direction: Cross-reference timestamp of "ran out" with the 12:23 v
 
 ---
 
-**C-1323** Video metadata timestamp shows Phil Lyman inside the Sorenson building at 12:23 on the day of the shooting, walking out calmly.
+**C-1323** Video metadata timestamp shows Phil Lyman inside the Sorensen Center at 12:23 on the day of the shooting, walking out calmly.
 
 Claim Timestamp: 00:15:58
 
-Claim: The host says that, according to the metadata of the footage Phil Lyman sent her, he was inside the Sorenson building at 12:23 and then calmly walked out rather than running.
+Claim: The host says that, according to the metadata of the footage Phil Lyman sent her, he was inside the Sorensen building at 12:23 and then calmly walked out rather than running.
 
 Anchored Artifacts: A-1185.1
 Mentions: N-61
@@ -799,26 +799,26 @@ Investigative Direction: Compare visible individuals in A-1185.1 with the two co
 
 ---
 
-**C-1325** Host Says One of Two Companions in Photo With Shaner Broderick Is Gernot Omer, via Face-Match to BearingPoint Graz Video
+**C-1325** Host Says One of Two Companions in Photo With Shaner Broderick Is Gernot Ohner, via Face-Match to BearingPoint Graz Video
 
 Claim Timestamp: 00:10:39–00:11:29
 
-Claim: The host says her team identified one of the two companions in the photo with Shaner Broderick as Gernot Omer, whose face she says also matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.
+Claim: The host says her team identified one of the two companions in the photo with Shaner Broderick as Gernot Ohner, whose face she says also matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.
 
 Anchored Artifacts: A-1186.1
 Mentions: N-133, N-132
 
 Related Nodes: N-10147
 
-Investigative Direction: Obtain the original Broderick companion photo from prior episode; perform controlled side-by-side facial comparison and reach out to BearingPoint HR to confirm Gernot Omer's employment dates.
+Investigative Direction: Obtain the original Broderick companion photo from prior episode; perform controlled side-by-side facial comparison and reach out to BearingPoint HR to confirm Gernot Ohner's employment dates.
 
 ---
 
-**C-1326** Host Says Gernot Omer's LinkedIn States He Moved to Utah in May 2024 for a JP Morgan Chase Software Engineer Job
+**C-1326** Host Says Gernot Ohner's LinkedIn States He Moved to Utah in May 2024 for a JP Morgan Chase Software Engineer Job
 
 Claim Timestamp: 00:11:29–00:12:20
 
-Claim: The host says that, according to Gernot Omer's LinkedIn profile, he moved to Utah in May 2024 to take a software engineer position with JP Morgan Chase.
+Claim: The host says that, according to Gernot Ohner's LinkedIn profile, he moved to Utah in May 2024 to take a software engineer position with JP Morgan Chase.
 
 Anchored Artifacts: A-1193.1
 Mentions: N-133
@@ -828,17 +828,17 @@ Investigative Direction: Capture and archive the LinkedIn profile as displayed; 
 
 ---
 
-**C-1327** A Belfast viewer matched the second companion's face via a facial-recognition search to a single result in Provo, Utah – on the "Buzzard and Bees" gothic-prom page.
+**C-1327** A Belfast viewer matched the second companion's face via a facial-recognition search to a single result in Provo, Utah – on the "Buzzards and Bees" gothic-prom page.
 
 Claim Timestamp: 00:19:14–00:19:58
 
-Claim: A viewer in Belfast, Northern Ireland, emailed the host that an internet-wide search of the unidentified companion's face returned a single hit in Provo, Utah, on a website pertaining to bees; the host says that site, Buzzard and Bees, is a Gothic underground in Provo discussing a Gothic prom.
+Claim: A viewer in Belfast, Northern Ireland, emailed the host that an internet-wide search of the unidentified companion's face returned a single hit in Provo, Utah, on a website pertaining to bees; the host says that site, Buzzards and Bees, is a Gothic underground in Provo discussing a Gothic prom.
 
 Anchored Artifacts: A-1194.1, A-1188.1
 
 Related Nodes: N-10147
 
-Investigative Direction: Replicate the facial search; identify the named subject on the Buzzard and Bees page; determine whether the person is Austrian or otherwise foreign.
+Investigative Direction: Replicate the facial search; identify the named subject on the Buzzards and Bees page; determine whether the person is Austrian or otherwise foreign.
 
 ---
 
@@ -916,17 +916,17 @@ Investigative Direction: Obtain the underlying email and supplier invoices; veri
 
 ---
 
-**C-1333** Gernot Omer's face was matched to a German-language blog post titled "Anniversary Hike, 10 Years on Foot to the Sea" featuring a group of 30-year-olds recreating a hike taken at age 20.
+**C-1333** Gernot Ohner's face was matched to a German-language blog post titled "Anniversary Hike, 10 Years on Foot to the Sea" featuring a group of 30-year-olds recreating a hike taken at age 20.
 
 Claim Timestamp: 00:09:47–00:10:39
 
-Claim: The host says her team found that the face of the individual identified as Gernot Omer matched photos in a German-language blog post on a 10-year hiking anniversary.
+Claim: The host says her team found that the face of the individual identified as Gernot Ohner matched photos in a German-language blog post on a 10-year hiking anniversary.
 
 Anchored Artifacts: A-1187.1
 Mentions: N-133
 
 
-Investigative Direction: Confirm authorship and dating of the blog; verify Gernot Omer's participation in the original 20-year-old hike and the 10-year reunion.
+Investigative Direction: Confirm authorship and dating of the blog; verify Gernot Ohner's participation in the original 20-year-old hike and the 10-year reunion.
 
 ---
 
@@ -1229,7 +1229,7 @@ Mentions: N-3, N-133
 Related Nodes: N-10147
 Supports: C-1325
 Tags: relevance:core
-Investigative Direction: Verify Gernot Omer's nationality and Utah residency through public records and his employer.
+Investigative Direction: Verify Gernot Ohner's nationality and Utah residency through public records and his employer.
 
 ---
 
@@ -1270,7 +1270,7 @@ Investigative Direction: Run audio analysis on the original file to count discre
 
 Claim Timestamp: 00:12:20
 
-Claim: The host plays Phil Lyman telling Alex Jones that someone had reported video of a man coming off the roof, that the story that came out was that he escaped another route, and that people are coordinating this.
+Claim: The host plays Phil Lyman telling Alex Jones that someone had reported video of a man coming off the roof, walking to the parking lot and driving away in a car with another individual, that this is not the story that came out, that he escaped another route, and that people are coordinating this.
 
 Transcript Snippet: Well, that's not the story that came was that he that he escaped another route. And there's there are people who are coordinating this thing.
 
@@ -1351,7 +1351,7 @@ Investigative Direction: Obtain enhanced audio of the exchange and, if possible,
 
 Claim Timestamp: 00:19:58
 
-Claim: The host says a side-by-side of the Buzzard and Bees page and the companion photo is a match on ears and chin, though she cannot be 100 percent certain until the person is named.
+Claim: The host says a side-by-side of the Buzzards and Bees page and the companion photo is a match on ears and chin, though she cannot be 100 percent certain until the person is named.
 
 Transcript Snippet: I am certain can't say 100%, okay? Because we need to find this person's name, but this is a match, okay?
 
@@ -1360,7 +1360,7 @@ Mentions: N-3
 Related Nodes: N-10147
 Supports: C-1327
 Tags: relevance:core
-Investigative Direction: Have an independent facial examiner compare the two images and identify the person named on the Buzzard and Bees page.
+Investigative Direction: Have an independent facial examiner compare the two images and identify the person named on the Buzzards and Bees page.
 
 ---
 
@@ -1459,7 +1459,7 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10147
 Tags: relevance:core
-Investigative Direction: Search overseas social media and gothic-scene networks for the Provo prom attendee, and obtain the Buzzard and Bees page history.
+Investigative Direction: Search overseas social media and gothic-scene networks for the Provo prom attendee, and obtain the Buzzards and Bees page history.
 
 ---
 
@@ -1580,7 +1580,7 @@ Investigative Direction: Obtain trauma-center designations and drive-time data f
 
 Claim Timestamp: 00:30:55
 
-Claim: The host says the hospital had just announced a brand new CEO, who is also a surgeon, named Andrew Zenger.
+Claim: The host says the hospital had just announced a brand new CEO named Andrew Zenger.
 
 Transcript Snippet: that hospital had just announced that they had a a brand new CEO and had surgeon named Andrew Zenger.
 
@@ -1989,7 +1989,7 @@ Mentions: N-3, N-132
 Related Nodes: N-10147
 Supports: C-1327
 Tags: relevance:core
-Investigative Direction: Identify the person via the Buzzard and Bees prom organizers and attendee lists.
+Investigative Direction: Identify the person via the Buzzards and Bees prom organizers and attendee lists.
 
 ---
 
@@ -2005,7 +2005,7 @@ Anchored Artifacts: A-2998.2
 Mentions: N-3
 Related Nodes: N-10147
 Tags: relevance:context
-Investigative Direction: Review incoming tips for any naming the person pictured in the Buzzard and Bees prom page.
+Investigative Direction: Review incoming tips for any naming the person pictured in the Buzzards and Bees prom page.
 
 ---
 
@@ -2013,7 +2013,7 @@ Investigative Direction: Review incoming tips for any naming the person pictured
 
 Claim Timestamp: 00:48:25
 
-Claim: The host says she has been holding information close to her chest about where Charlie's wounds were, and says she will have more the next day.
+Claim: The host says she has been holding information close to her chest about where she is hearing Charlie's wounds were, and says she will have more the next day.
 
 Transcript Snippet: Some other stuff that I've been holding close to my chest about where we are hearing uh Charlie's wounds were.
 

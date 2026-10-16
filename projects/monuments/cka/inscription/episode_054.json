@@ -265,13 +265,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1600",
       "family_ref": "A-1600",
-      "bundle_name": "CBN News Clip Bundle – Chan Yoon at TPUSA",
+      "bundle_name": "CBN News Clip Bundle – Chance Son at TPUSA",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1600.1",
           "ref": "A-1600.1",
-          "description": "CBN News segment featuring Chan Yoon (son of Pastor Yoon Bo-seon) speaking about his father's arrest two days after meeting Charlie Kirk in Seoul",
+          "description": "CBN News segment featuring Chance Son (son of Pastor Son Hyun-bo) speaking about his father's arrest two days after meeting Charlie Kirk in Seoul",
           "related_claims": [
             "C-2041"
           ],
@@ -983,7 +983,7 @@
       "@type": "Person",
       "@id": "N-403",
       "ref": "N-403",
-      "name": "Pastor Yoon Bo-seon",
+      "name": "Pastor Son Hyun-bo",
       "type": "person",
       "description": "South Korean pastor; arrested September 9, 2025 on election law charges; met Charlie Kirk in Seoul at a conference days before the arrest.",
       "related_artifacts": [
@@ -1010,9 +1010,9 @@
       "@type": "Person",
       "@id": "N-404",
       "ref": "N-404",
-      "name": "Chan Yoon",
+      "name": "Chance Son",
       "type": "person",
-      "description": "Son of Pastor Yoon Bo-seon; spoke at Turning Point USA event in Arizona per CBN News clip.",
+      "description": "Son of Pastor Son Hyun-bo; spoke at Turning Point USA event in Arizona per CBN News clip.",
       "related_artifacts": [
         "A-1600.1"
       ],
@@ -1286,7 +1286,7 @@
       "ref": "N-10397",
       "name": "Charlie Kirk Korea Trip / Pastor Yoon Connection",
       "type": "investigation_target",
-      "description": "Investigation target regarding the September 4–5, 2025 Build Up Korea conference attended by Charlie Kirk and the arrest of Pastor Yoon Bo-seon days later.",
+      "description": "Investigation target regarding the September 4–5, 2025 Build Up Korea conference attended by Charlie Kirk and the arrest of Pastor Son Hyun-bo days later.",
       "related_artifacts": [
         "A-1600.1",
         "A-1603.1"
@@ -3203,8 +3203,8 @@
       "@type": "Claim",
       "@id": "C-2040",
       "ref": "C-2040",
-      "label": "Korean Herald Headline the Host Shows Says Pastor Yoon Bo-seon Was Arrested September 9 for Breaking Election Law",
-      "claim": "Per a Korean Herald headline the host shows, Pastor Yoon Bo-seon was arrested on September 9, 2025 for breaking the public official election act and local education autonomy act.",
+      "label": "Korean Herald Headline the Host Shows Says Pastor Son Hyun-bo Was Arrested September 9 for Breaking Election Law",
+      "claim": "Per a Korean Herald headline the host shows, Pastor Son Hyun-bo was arrested on September 9, 2025 for breaking the public official election act and local education autonomy act.",
       "anchored_artifacts": [
         "A-1603.1"
       ],
@@ -3222,8 +3222,8 @@
       "@type": "Claim",
       "@id": "C-2041",
       "ref": "C-2041",
-      "label": "Chan Yoon stated his father was arrested two days after meeting Charlie Kirk",
-      "claim": "Per CBN News clip, Chan Yoon (son of Pastor Yoon Bo-seon) stated that his father was arrested two days after meeting Charlie Kirk in Seoul at the Build Up Korea conference.",
+      "label": "Chance Son stated his father was arrested two days after meeting Charlie Kirk",
+      "claim": "Per CBN News clip, Chance Son (son of Pastor Son Hyun-bo) stated that his father was arrested two days after meeting Charlie Kirk in Seoul at the Build Up Korea conference.",
       "anchored_artifacts": [
         "A-1600.1"
       ],
@@ -3320,8 +3320,8 @@
       "@type": "Claim",
       "@id": "C-2046",
       "ref": "C-2046",
-      "label": "Pastor Yoon Bo-seon quoted as saying \"Lee Jae-myung has to die for Korea to live\"",
-      "claim": "Per Korean Herald, Pastor Yoon Bo-seon shouted during a protest that \"Lee Jae-myung has to die for Korea to live\" and stated the state is \"the same as Hitler and the Nazis.\"",
+      "label": "Pastor Son Hyun-bo quoted as saying \"Lee Jae-myung has to die for Korea to live\"",
+      "claim": "Per Korean Herald, Pastor Son Hyun-bo shouted during a protest that \"Lee Jae-myung has to die for Korea to live\" and stated the state is \"the same as Hitler and the Nazis.\"",
       "anchored_artifacts": [
         "A-1603.1"
       ],
@@ -5740,8 +5740,8 @@
       "@type": "Claim",
       "@id": "C-8234",
       "ref": "C-8234",
-      "label": "Chan Yoon Says Kirk Pledged to Use His Platform for the Pastor's Case",
-      "claim": "In the CBN clip, Chan Yoon says Charlie Kirk made sure he would use his platform and voice to let the world and America know what was happening in South Korea, as an example of what happens if you do not speak for biblical truth.",
+      "label": "Chance Son Says Kirk Pledged to Use His Platform for the Pastor's Case",
+      "claim": "In the CBN clip, Chance Son says Charlie Kirk made sure he would use his platform and voice to let the world and America know what was happening in South Korea, as an example of what happens if you do not speak for biblical truth.",
       "anchored_artifacts": [
         "A-1600.1"
       ],

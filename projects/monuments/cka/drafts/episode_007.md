@@ -880,7 +880,7 @@ Investigative Direction: Identify the surgeon and request confirmation; review a
 
 **C-1231** Clip Has Alex Jones Disputing the Miracle Claim on X Live
 
-Claim Timestamp: 00:13:01
+Claim Timestamp: 00:12:19
 Claim: In a clip the host plays, Alex Jones says on X Live that a TPUSA spokesperson said Charlie Kirk was shot with a 30-06 that did not go through, and he disputes this by citing typical 30-06 ballistics.
 Transcript Snippet: They just said he got shot with a 30 odd six and that it didn't go through.
 Anchored Artifacts: A-1136.1

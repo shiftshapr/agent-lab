@@ -1,0 +1,304 @@
+[
+ {
+  "id": "N-161",
+  "name": "Steven Cheung",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Steven Chung",
+   "Steven Chong",
+   "Stephen Cheung"
+  ],
+  "note": "White House communications director"
+ },
+ {
+  "id": "N-162",
+  "name": "Yashar Ali",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-163",
+  "name": "Iryna Zhuravska",
+  "verdict": "wrong",
+  "correct": "Iryna Zarutska",
+  "source": "https://www.walb.com/2025/08/29/ukrainian-woman-who-moved-us-escape-war-stabbed-death-train-station-family-says",
+  "bad_aliases": [],
+  "note": "Charlotte light rail stabbing victim, Aug 22 2025"
+ },
+ {
+  "id": "N-164",
+  "name": "Matt Walsh",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-165",
+  "name": "Rabbi Pesach Wolicki",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-166",
+  "name": "Howard Lutnick",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-167",
+  "name": "Gianmarco Soresi",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-168",
+  "name": "James O'Keefe",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-169",
+  "name": "Dinesh D'Souza",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-170",
+  "name": "Yishai (X account)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "placeholder handle"
+ },
+ {
+  "id": "N-171",
+  "name": "Tate Brothers (Andrew and Tristan)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-172",
+  "name": "Ali (JTV host)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "placeholder"
+ },
+ {
+  "id": "N-173",
+  "name": "Simon Andre",
+  "verdict": "wrong",
+  "correct": "Simon Andriesz",
+  "source": "https://www.ibtimes.co.uk/candace-owens-simon-andriesz-death-lutnick-epstein-1824104",
+  "bad_aliases": [],
+  "note": "former BGC managing director, Lutnick-Epstein whistleblower"
+ },
+ {
+  "id": "N-174",
+  "name": "Gabriel",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "placeholder single name"
+ },
+ {
+  "id": "N-175",
+  "name": "Cooper Brown",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Leadership Institute Utah field rep: https://leadershipinstitute.org/staff-member/cooper-brown"
+ },
+ {
+  "id": "N-176",
+  "name": "Jason Chaffetz",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-177",
+  "name": "Deirdre Amaro",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Deidra Weiss"
+  ],
+  "note": "Utah chief medical examiner: https://www.fox13now.com/news/local-news/meet-the-new-utah-state-medical-examiner"
+ },
+ {
+  "id": "N-178",
+  "name": "Zach Bryan",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Zack Bryan"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-179",
+  "name": "Jared Kushner",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Jared Kushner (presumed prior node, reused)"
+  ],
+  "note": "alias is a pipeline note, not a name"
+ },
+ {
+  "id": "N-180",
+  "name": "Justin McCoy",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Rob McCoy's son per sermon clip; not confirmed online"
+ },
+ {
+  "id": "N-181",
+  "name": "Camera Operator (UVU Event, 2025-09-10)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "placeholder"
+ },
+ {
+  "id": "N-182",
+  "name": "Sam Parker",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-183",
+  "name": "James Lee",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "online commentator; spelling not independently verified"
+ },
+ {
+  "id": "N-184",
+  "name": "Zeb Boykin",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "online commentator; not found in search"
+ },
+ {
+  "id": "N-185",
+  "name": "John Miller",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "X poster; not verified"
+ },
+ {
+  "id": "N-186",
+  "name": "Joshua Steves",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "viewer commenter"
+ },
+ {
+  "id": "N-187",
+  "name": "Stacy Sheridan",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Stacey Sheridan"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-188",
+  "name": "Scott Adams",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-189",
+  "name": "Ryan Matta",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "filmmaker/commentator on Robinson case: https://www.ibtimes.co.uk/tyler-robinson-framed-charlie-kirk-murder-1791368"
+ },
+ {
+  "id": "N-190",
+  "name": "Mike Cernovich",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-191",
+  "name": "Mikey McCoy",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Mikey McCoyy"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-192",
+  "name": "Alex Marlow",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-193",
+  "name": "Nathan Livingstone",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "MilkBarTV creator: https://cafelockeddown.substack.com/p/art-broken-milkbar-tv-and-cafe-locked"
+ },
+ {
+  "id": "N-194",
+  "name": "David Horowitz",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-195",
+  "name": "Robert Kraft",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Robert Craft"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-196",
+  "name": "Lee Trotter",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Lee Trotter DO, Keesler residency: https://www.pediatrix.com/find-care/doctors/trotter-lee-1013986157"
+ },
+ {
+  "id": "N-197",
+  "name": "Roy Edgar McCoy",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "not found online"
+ },
+ {
+  "id": "N-198",
+  "name": "Jacob Blank",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "name read from hospital message signature; not found online"
+ },
+ {
+  "id": "N-199",
+  "name": "George Webb",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-200",
+  "name": "Norman Finkelstein",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Norm Finkelestein"
+  ],
+  "note": ""
+ }
+]

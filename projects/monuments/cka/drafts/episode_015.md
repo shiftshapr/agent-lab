@@ -336,9 +336,9 @@ Confidence Level: Low
 
 **A-2816** Read-Aloud X User FOIA Plea Bundle
 
-**A-2816.1** Host reading an X user's post begging Tyler Bowyer to pursue security footage of the sequence before the Loews building jump-off
+**A-2816.1** Host reading an X user's post begging Tyler Bowyer to pursue security footage of the sequence before the Losee building jump-off
 
-Quoted text: "Please, I beg you, focus on getting the security footage of the sequence pre-jump off the Loews building where we can see Robinson in shot position and corroborate the story."
+Quoted text: "Please, I beg you, focus on getting the security footage of the sequence pre-jump off the Losee building where we can see Robinson in shot position and corroborate the story."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:26:20
@@ -795,10 +795,10 @@ Investigative Direction: FOIA requests to UVU police department; compare against
 
 Claim Timestamp: 00:40:21
 
-Claim: Per the X post the host shows, Tyler Bowyer said the host 'took a sentence and made something up' and that TPUSA audits every year and always has; the host replies that he is conflating the annual audit with the new DoJ department Charlie proposed.
+Claim: Per the X post the host shows, Tyler Bowyer said the host 'took a sentence and made something up' and that TPUSA audits every year and always has; the host replies that he is conflating the annual audit with the new DOGE department Charlie proposed.
 
 Anchored Artifacts: A-1220.2
-Mentions: N-11
+Mentions: N-11, N-1
 
 
 Investigative Direction: Obtain TPUSA Form 990 filings via ProPublica Nonprofit Explorer; cross-reference against the previously displayed internal memo referenced in earlier episodes.
@@ -807,7 +807,7 @@ Investigative Direction: Obtain TPUSA Form 990 filings via ProPublica Nonprofit 
 
 Claim Timestamp: 00:22:06
 
-Claim: Andrew Kolvet, speaking on Tucker Carlson's show, stated that a TPUSA friend/staffer removed the SD cards because he feared theft (citing hat theft from the table) and that the cards are in the possession of the FBI.
+Claim: Andrew Kolvet, speaking with Tucker Carlson, who was guest-hosting Charlie Kirk's show, stated that a TPUSA friend/staffer removed the SD cards because he feared theft (citing hat theft from the table) and that the cards are in the possession of the FBI.
 
 Anchored Artifacts: A-1221.1
 Mentions: N-14, N-22
@@ -832,7 +832,7 @@ Investigative Direction: Subpoena or FOIA records of communication between TPUSA
 
 **C-1371** Unflagged host assertion – phone call with TPUSA SD card individual
 
-Claim Timestamp: 00:25:39
+Claim Timestamp: 00:25:00
 
 Claim: The host asserts she personally spoke with the TPUSA individual who removed the SD cards and that he told her his instinct was to secure the footage so Erika would not have to see it again, and that he never mentioned police officers.
 
@@ -851,7 +851,7 @@ Claim Timestamp: 00:37:10
 Claim: A Wall Street Journal article published September 18, 2025 featured Alex Clark at the Charlie Kirk memorial site and quoted her as saying her first thought upon hearing of the shooting was "I'm so glad that Charlie knew Jesus," and her third thought was "Thank God Trump is president."
 
 Anchored Artifacts: A-1222.1
-Mentions: N-99, N-1
+Mentions: N-99, N-1, N-5
 
 Related Nodes: N-10166
 
@@ -864,7 +864,7 @@ Claim Timestamp: 00:38:03
 Claim: The same WSJ article quotes Alex Clark as praising FBI director Kash Patel and deputy Dan Bongino for their leadership in the suspect hunt, stating "we have them in office because of Charlie."
 
 Anchored Artifacts: A-1222.1
-Mentions: N-99, N-69, N-379
+Mentions: N-99, N-69, N-379, N-1
 
 Related Nodes: N-10166
 
@@ -877,7 +877,7 @@ Claim Timestamp: 00:13:08
 Claim: Pastor Rob McCoy (TPUSA Faith Division head) published an Instagram post after the host's revelation of the Hamptons meeting, criticizing the host for not behaving as a friend to Charlie during the mourning period.
 
 Anchored Artifacts: A-1224.1
-Mentions: N-17
+Mentions: N-17, N-1
 
 Related Nodes: N-10166
 
@@ -939,7 +939,7 @@ Investigative Direction: Obtain full sermon recording; identify delivering churc
 
 Claim Timestamp: 00:39:45
 
-Claim: Alex Clark shared Tyler Bowyer's X post defending TPUSA on the DoJ department matter on her Instagram, which the host characterizes as "half-truth PR spin."
+Claim: Alex Clark shared Tyler Bowyer's X post defending TPUSA on the DOGE department matter on her Instagram, which the host characterizes as "half-truth PR spin."
 
 Anchored Artifacts: A-1223.1, A-1220.2
 Mentions: N-11, N-99
@@ -1199,7 +1199,7 @@ Claim: The host says that, given the facts she shared, the Kolvet/Clark account 
 Transcript Snippet: Like that's not That's not fully honest and it registered to me like a cover-up of sorts
 
 Anchored Artifacts: A-2814.1
-Mentions: N-14, N-99, N-3
+Mentions: N-14, N-99, N-3, N-1
 Related Nodes: N-10104
 Tags: relevance:context
 Investigative Direction: Test the account against witnesses to Kirk's mass attendance.
@@ -1528,13 +1528,13 @@ Investigative Direction: Identify the posts Bowyer was answering and any explici
 
 ---
 
-**C-6485** X User Begs Bowyer to Seek Loews Building Security Footage
+**C-6485** X User Begs Bowyer to Seek Losee Center Security Footage
 
 Claim Timestamp: 00:26:20
 
-Claim: The host reads an X user's plea that Tyler Bowyer file for security footage of the sequence before Tyler Robinson's jump-off from the Loews building to corroborate the story.
+Claim: The host reads an X user's plea that Tyler Bowyer file for security footage of the sequence before Tyler Robinson's jump-off from the Losee Center to corroborate the story.
 
-Transcript Snippet: Please, I beg you, focus on getting the security footage of the sequence pre-jump off the Loews building
+Transcript Snippet: Please, I beg you, focus on getting the security footage of the sequence pre-jump off the Losee building
 
 Anchored Artifacts: A-2816.1, A-1220.3
 Mentions: N-11, N-40
@@ -1597,9 +1597,9 @@ Investigative Direction: Collect the specific TPUSA statements and legal letters
 
 Claim Timestamp: 00:33:36
 
-Claim: The host says that when Alex Clark made it seem like the host lied about the new DOJ department, the host had literally shared the email from Charlie.
+Claim: The host says that when Alex Clark made it seem like the host lied about the new DOGE department, the host had literally shared the email from Charlie.
 
-Transcript Snippet: tried to make it seem like I lied about the new DOJ department when I literally shared the email from Charlie.
+Transcript Snippet: tried to make it seem like I lied about the new DOGE department when I literally shared the email from Charlie.
 
 Anchored Artifacts: A-1223.1
 Mentions: N-99, N-1, N-3
@@ -1709,7 +1709,7 @@ Investigative Direction: Retrieve the Trump and Netanyahu posts from September 1
 
 Claim Timestamp: 00:39:45
 
-Claim: The host says that when she showed Charlie's internal email she read everything related to the DOJ department but not the paragraph where he announced that Justin Streiff would be COO.
+Claim: The host says that when she showed Charlie's internal email she read everything related to the DOGE department but not the paragraph where he announced that Justin Streiff would be COO.
 
 Transcript Snippet: I didn't read the paragraph where he announced that Justin Streiff would be the COO
 

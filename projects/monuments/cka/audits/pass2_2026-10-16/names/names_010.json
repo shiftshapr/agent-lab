@@ -1,0 +1,290 @@
+[
+ {
+  "id": "N-361",
+  "name": "Harry",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Witness first name/pseudonym placeholder."
+ },
+ {
+  "id": "N-362",
+  "name": "Mitch Snow",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Witness 'Mitch' at Fort Huachuca; surname 'Snow' not confirmed in any source found (search budget exhausted). Alias 'Mitch\" (Eyewitness, Pseudonym)' is malformed."
+ },
+ {
+  "id": "N-363",
+  "name": "Bruce Bevins",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Name read from viewer email; no web source found."
+ },
+ {
+  "id": "N-364",
+  "name": "Mark Amodei",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-365",
+  "name": "Cabot Phillips",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-366",
+  "name": "Diligent Dennison",
+  "verdict": "wrong",
+  "correct": "Diligent Denizen",
+  "source": "https://x.com/DiligentDenizen/status/2076405974597063038",
+  "bad_aliases": [],
+  "note": "X account @DiligentDenizen; transcript elsewhere also has 'Diligent Denizen'."
+ },
+ {
+  "id": "N-367",
+  "name": "Jeremy Boreing",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-368",
+  "name": "Danny Philip",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Transcripts use both Philip and Phillip; no web source confirming spelling (search budget exhausted)."
+ },
+ {
+  "id": "N-369",
+  "name": "Evan Hill",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-370",
+  "name": "Cole Allen",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-371",
+  "name": "Sara Sidner",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-372",
+  "name": "Justice Smith",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Interviewer in Oct 2024 Charlie Kirk clip; not found in transcripts or web."
+ },
+ {
+  "id": "N-373",
+  "name": "David Axelrod",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-374",
+  "name": "Harmeet Dhillon",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-375",
+  "name": "Lara Trump",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Laura Trump"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-376",
+  "name": "Ryan Reynolds",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-377",
+  "name": "Hugh Jackman",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-378",
+  "name": "Emmanuel Macron",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-379",
+  "name": "Dan Bongino",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Dan Bonino"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-380",
+  "name": "Josef Mengele",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "'Joseph Mengele' is a common anglicized spelling; kept."
+ },
+ {
+  "id": "N-381",
+  "name": "Eddie Farnsworth",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-382",
+  "name": "David Farnsworth",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-383",
+  "name": "Dwayne Farnsworth",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Not verified by web source."
+ },
+ {
+  "id": "N-384",
+  "name": "Albert Farnsworth",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "East Valley Tribune: Albert Farnsworth, nephew of then-House Majority Leader Eddie Farnsworth (victim reported as 12)."
+ },
+ {
+  "id": "N-385",
+  "name": "David Frodsham",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-386",
+  "name": "Thomas Burt",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Tom Burt, EVP & COO Duncan Aviation (duncanaviation.aero)."
+ },
+ {
+  "id": "N-387",
+  "name": "Maddie (Daily Wire host)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Placeholder; host calls her Madison Brandford (unverified)."
+ },
+ {
+  "id": "N-388",
+  "name": "Larry Guinta",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Larry Gwinta"
+  ],
+  "note": "Owens' series spells Guinta (some outlets 'Ginta'); per Yahoo/Us Weekly coverage of Bride of Charlie."
+ },
+ {
+  "id": "N-389",
+  "name": "Maggie Wegner",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Name from email read on air; no web source found."
+ },
+ {
+  "id": "N-390",
+  "name": "Steve Bannon",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-391",
+  "name": "Andrew Breitbart",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-392",
+  "name": "Jamie Weinstein",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-393",
+  "name": "Michelle Fields",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-394",
+  "name": "Corey Lewandowski",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-395",
+  "name": "Austin Smith",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-396",
+  "name": "Michael Cormier",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-397",
+  "name": "Charlie Kirk's \"Oracle\" Figure",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Descriptive placeholder."
+ },
+ {
+  "id": "N-398",
+  "name": "Jean-Luc Bagur",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Venerable master of Athanor lodge (Courthouse News / AFP)."
+ },
+ {
+  "id": "N-399",
+  "name": "Jerry Falwell Sr.",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-400",
+  "name": "Sun Myung Moon",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ }
+]

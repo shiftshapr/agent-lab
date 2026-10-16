@@ -841,7 +841,7 @@ Accused in the Kirk case; subject of the Panguitch receipt and the text message 
 
 ---
 
-**N-366** Diligent Dennison
+**N-366** Diligent Denizen
 
 Citizen journalist who released a waiter interview and the receipt.
 
@@ -2215,7 +2215,7 @@ Investigative Direction: Obtain the payment records or contracts the host says s
 
 ---
 
-**C-14911** Host Says Diligent Dennison Released a Waiter Interview and Receipt After Being Accused of Lying
+**C-14911** Host Says Diligent Denizen Released a Waiter Interview and Receipt After Being Accused of Lying
 
 Claim Timestamp: 00:32:09
 

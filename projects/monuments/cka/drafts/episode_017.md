@@ -48,9 +48,9 @@
 
 Episode 17 focuses on Josh Hammer's social-media activity in the 24–48 hours surrounding Charlie Kirk's assassination on September 10, 2025, and on audio excerpts from three commentators with direct knowledge of Charlie's final days: Hammer himself (JTV, dated September 13), Rabbi Pesach Wolicki (interview with host "Lidar"), and Tucker Carlson (memorial speech). The principal evidentiary artifact is Josh Hammer's retweet on September 9, 2025 at 9:09 p.m. ET of a 2013 Donald Trump post about public executions, with Hammer's added single-word reply "Based."
 
-The episode assembles a daily timeline of Hammer's September 9 X activity to argue the retweet is not explicable by context provided by Hammer or his defenders, and presents Yashar Ali's quote-tweet as a documented failed attempt at contextualization (the Iryna Zhuravska anchor). Anchor-anchored secondary material includes Matt Walsh's September 5 execution tweet, Hammer's 2022 Uvalde-reference tweet, a 2019 Hammer tweet subsequently deleted about "European DNA," and Hammer's first post-assassination tweet promoting his book.
+The episode assembles a daily timeline of Hammer's September 9 X activity to argue the retweet is not explicable by context provided by Hammer or his defenders, and presents Yashar Ali's quote-tweet as a documented failed attempt at contextualization (the Iryna Zarutska anchor). Anchor-anchored secondary material includes Matt Walsh's September 5 execution tweet, Hammer's 2022 Uvalde-reference tweet, a 2019 Hammer tweet subsequently deleted about "European DNA," and Hammer's first post-assassination tweet promoting his book.
 
-The episode also advances the "kill switch / dead man switch" claim via an Alex Jones audio segment listing recipients including Tucker Carlson, the Tate brothers, Dave Smith, and Max Blumenthal. A public All-Points Bulletin requests UVU footage from a specific sector (Charlie's left side / the host's right when facing audience) and asks specifically for footage of older males with hair tied in ponytails or buns. Investigationally, the episode opens or extends nodes on the Sept 9 retweet context, UVU footage gaps, the Hamptons meeting, Charlie's final-day text communications, and the Iryna Zhuravska timeline anchor.
+The episode also advances the "kill switch / dead man switch" claim via an Alex Jones audio segment listing recipients including Tucker Carlson, the Tate brothers, Dave Smith, and Max Blumenthal. A public All-Points Bulletin requests UVU footage from a specific sector (Charlie's left side / the host's right when facing audience) and asks specifically for footage of older males with hair tied in ponytails or buns. Investigationally, the episode opens or extends nodes on the Sept 9 retweet context, UVU footage gaps, the Hamptons meeting, Charlie's final-day text communications, and the Iryna Zarutska timeline anchor.
 
 ---
 
@@ -72,7 +72,7 @@ Confidence Level: High
 
 **A-1237** Yashar Ali X Bundle
 
-**A-1237.1** Yashar Ali quote tweet characterizing Josh Hammer's retweet as referring to the murder of Iryna Zhuravska, and asserting other conservatives did the same day prior
+**A-1237.1** Yashar Ali quote tweet characterizing Josh Hammer's retweet as referring to the murder of Iryna Zarutska, and asserting other conservatives did the same day prior
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -124,7 +124,7 @@ Confidence Level: High (paraphrase with quoted phrases; read aloud)
 
 **A-1240** Josh Hammer September 9 X Activity Timeline Bundle
 
-**A-1240.1** Host-prepared timeline of nine Hammer X posts on September 9, 2025 covering (per host) Phillies story, Iryna Zhuravska media link, anti-Tucker post, pro-Israel / anti-Qatar and anti-Saudi posts, anti-Tucker second post, Hebrew Bible / Western civilization post, Supreme Court-media-appearance post, and final 9:09 p.m. ET retweet
+**A-1240.1** Host-prepared timeline of nine Hammer X posts on September 9, 2025 covering (per host) Phillies story, Iryna Zarutska media link, anti-Tucker post, pro-Israel / anti-Qatar and anti-Saudi posts, anti-Tucker second post, Hebrew Bible / Western civilization post, Supreme Court-media-appearance post, and final 9:09 p.m. ET retweet
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -248,7 +248,7 @@ Confidence Level: Medium (transcript caption identifies performer as "John Marco
 
 **A-1248** Josh Hammer Tweet Collage Display
 
-**A-1248.1** On-screen collage of multiple Josh Hammer X posts displayed by host (not individually transcribed in transcript; host summarizes them as containing accusations of "grifting," "lying," "hijacking" Charlie's legacy, and the "posthumous Groperism" attack)
+**A-1248.1** On-screen collage of multiple Josh Hammer X posts displayed by host (not individually transcribed in transcript; host summarizes them as containing accusations of "grifting," "lying," "hijacking" Charlie's legacy, and the "posthumous Groyperism" attack)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -278,7 +278,7 @@ Confidence Level: Medium for verbatim quote; Low for source attribution (letter 
 
 **A-1250** Josh Hammer Media Appearance (Gabriel) Audio Bundle
 
-**A-1250.1** Audio excerpt of Josh Hammer on a media show with host "Gabriel"; Hammer discusses Iryna Zhuravska case against backdrop of 2013 criminal-law school context; references Trump and criminal-justice reform debate; specifically addresses criminality/safety, not death-penalty advocacy
+**A-1250.1** Audio excerpt of Josh Hammer on a media show with host "Gabriel"; Hammer discusses Iryna Zarutska case against backdrop of 2013 criminal-law school context; references Trump and criminal-justice reform debate; specifically addresses criminality/safety, not death-penalty advocacy
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -371,7 +371,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-163** Iryna Zhuravska
+**N-163** Iryna Zarutska
 
 Ukrainian refugee whose August 22, 2025 murder in Charlotte, North Carolina, became a major conservative-news topic; footage released/trended September 5. Used as the official anchor in Yashar Ali's attempt to contextualize Josh Hammer's September 9 retweet.
 
@@ -603,7 +603,7 @@ Investigative Pressure: Low
 
 **N-10174** Josh Hammer September 9 Retweet Context Investigation
 
-Persistent investigative target: whether the September 9, 2025 9:09 p.m. ET retweet (A-1236.1) had an articulable contextual anchor. Direct entries: host asserts none; Yashar Ali (A-1237.1) proposes Iryna Zhuravska anchor (disputed by host); Matt Walsh comparative (A-1238.1); Hammer's historical anchors (A-1239.2) demonstrate he has only previously invoked public execution in visceral real-time response (Uvalde 2022).
+Persistent investigative target: whether the September 9, 2025 9:09 p.m. ET retweet (A-1236.1) had an articulable contextual anchor. Direct entries: host asserts none; Yashar Ali (A-1237.1) proposes Iryna Zarutska anchor (disputed by host); Matt Walsh comparative (A-1238.1); Hammer's historical anchors (A-1239.2) demonstrate he has only previously invoked public execution in visceral real-time response (Uvalde 2022).
 
 Evidence Count: 7
 Claim Count: 5
@@ -668,7 +668,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10179** Iryna Zhuravska Murder Timeline Verification
+**N-10179** Iryna Zarutska Murder Timeline Verification
 
 Investigation target: the public timeline of the August 22, 2025 Charlotte murder, arrest, and September 5 footage release. Episode uses this to falsify the Yashar Ali contextualization claim. Matt Walsh's September 5 tweet (A-1238.1) is documentary evidence of the date.
 
@@ -962,11 +962,11 @@ Investigative Direction: Verify retweet timestamp via X archive (Wayback Machine
 
 ---
 
-**C-1405** Yashar Ali Publicly Attempted to Contextualize Hammer's Retweet as Referring to Iryna Zhuravska
+**C-1405** Yashar Ali Publicly Attempted to Contextualize Hammer's Retweet as Referring to Iryna Zarutska
 
 Claim Timestamp: 00:07:48
 
-Claim: The host reads a post she says Yashar Ali wrote, asserting that Josh Hammer's retweet of the 2013 Trump post was tied to the murder of Iryna Zhuravska and that many conservatives were sharing and saying similar things the day before.
+Claim: The host reads a post she says Yashar Ali wrote, asserting that Josh Hammer's retweet of the 2013 Trump post was tied to the murder of Iryna Zarutska and that many conservatives were sharing and saying similar things the day before.
 
 Anchored Artifacts: A-1237.1
 Mentions: N-55, N-162, N-163, N-5
@@ -976,11 +976,11 @@ Investigative Direction: Verify Yashar Ali's exact post text and timing against 
 
 ---
 
-**C-1406** Host Says Iryna Zhuravska Was Murdered August 22 and Footage Was Released and Trended September 5
+**C-1406** Host Says Iryna Zarutska Was Murdered August 22 and Footage Was Released and Trended September 5
 
 Claim Timestamp: 00:08:44
 
-Claim: The host says Iryna Zhuravska was murdered on August 22, 2025, her perpetrator was arrested the same day, and the footage was released and trended on X on September 5, 2025.
+Claim: The host says Iryna Zarutska was murdered on August 22, 2025, her perpetrator was arrested the same day, and the footage was released and trended on X on September 5, 2025.
 
 Anchored Artifacts: A-1238.1 (Matt Walsh's September 5 tweet is documentary anchor for the September 5 date)
 Mentions: N-163
@@ -1003,11 +1003,11 @@ Investigative Direction: Verify the full memorial transcript and locate the segm
 
 ---
 
-**C-1408** Host Says Hammer Did Not Advocate the Death Penalty in His Iryna Zhuravska Commentary
+**C-1408** Host Says Hammer Did Not Advocate the Death Penalty in His Iryna Zarutska Commentary
 
 Claim Timestamp: 00:08:59
 
-Claim: The host says that at no point she could determine, on the news, on his own show or anywhere else, did Josh Hammer speak about the death penalty or a public execution regarding the Iryna Zhuravska case, and that he instead spoke about media double standards, criminality and safety; she then plays a clip of Hammer with host Gabriel.
+Claim: The host says that at no point she could determine, on the news, on his own show or anywhere else, did Josh Hammer speak about the death penalty or a public execution regarding the Iryna Zarutska case, and that he instead spoke about media double standards, criminality and safety; she then plays a clip of Hammer with host Gabriel.
 
 Anchored Artifacts: A-1250.1
 Mentions: N-55, N-163, N-174
@@ -1061,7 +1061,7 @@ Investigative Direction: Cross-check with post timestamp against major news outl
 
 Claim Timestamp: 00:22:12
 
-Claim: On JTV (in interview with host Ali), Josh Hammer stated that Charlie Kirk's last words to him referenced his intent to plug Hammer's book "Israel and Civilization" in response to Israel-related questions on the campus tour.
+Claim: On JTV (in an interview with host Ollie), Josh Hammer stated that what he thinks were Charlie Kirk's last words to him referenced his intent to plug Hammer's book "Israel and Civilization" in response to Israel-related questions on the campus tour.
 
 Anchored Artifacts: A-1242.1
 Mentions: N-55, N-172, N-1
@@ -1184,7 +1184,7 @@ Investigative Direction: Verify each timestamp and content against X archive.
 
 Claim Timestamp: 01:07:43
 
-Claim: The host says what Tyler Bowyer did on X was very sloppy: he was accusatory and called people names.
+Claim: The host says she thinks what Tyler Bowyer did on X was very sloppy: he was accusatory and called people names.
 
 Anchored Artifacts: None (host narrative reference; not anchored in this episode)
 Mentions: N-11, N-3
@@ -1290,7 +1290,7 @@ Investigative Direction: Collect Hammer's post-assassination posts and interview
 
 Claim Timestamp: 00:02:20
 
-Claim: The host displays a collage of Josh Hammer posts and reads one saying there is a "repulsive op" to hijack Charlie Kirk's legacy, plus a second saying people are trying to posthumously convert Charlie to "Groperism".
+Claim: The host displays a collage of Josh Hammer posts and reads one saying there is a "repulsive op" to hijack Charlie Kirk's legacy, plus a second saying people are trying to posthumously convert Charlie to "Groyperism".
 
 Transcript Snippet: There is a repulsive op right now to hijack Charlie Kirk's legacy. Uh there is a repulsive op right now desecrating Charlie's memory by trying to posthumously convert him to
 
@@ -1386,7 +1386,7 @@ Investigative Direction: Ask the host for the basis of the claim and check Ali's
 
 Claim Timestamp: 00:07:48
 
-Claim: The host says another X user asserted that the footage of Iryna Zhuravska's murder was released on September 9 and that this was why Hammer posted, and the host says this is untrue because the footage was released and trended on September 5.
+Claim: The host says another X user asserted that the footage of Iryna Zarutska's murder was released on September 9 and that this was why Hammer posted, and the host says this is untrue because the footage was released and trended on September 5.
 
 Transcript Snippet: another user then jumped on that and tried to establish a non-fact that the footage of Iryna's murder was released on that day, on the 9th, and that's why Josh tweeted that.
 
@@ -1419,7 +1419,7 @@ Investigative Direction: Retrieve the host's quote tweet, the Sam Parker post it
 
 Claim Timestamp: 00:08:44
 
-Claim: The host says she could find no point at which Josh Hammer, on the news, on his own show or elsewhere, spoke about the death penalty or a public execution in connection with the Iryna Zhuravska case.
+Claim: The host says she could find no point at which Josh Hammer, on the news, on his own show or elsewhere, spoke about the death penalty or a public execution in connection with the Iryna Zarutska case.
 
 Transcript Snippet: Josh, at no point that I could determine, whether he was on the news, whether he was on his own show, or anywhere else, did he speak about the death
 
@@ -1432,11 +1432,11 @@ Investigative Direction: Search Hammer's show transcripts, media appearances and
 
 ---
 
-**C-9335** Host Says Hammer Himself Posted Several Times About the Zhuravska Homicide
+**C-9335** Host Says Hammer Himself Posted Several Times About the Zarutska Homicide
 
 Claim Timestamp: 00:08:44
 
-Claim: The host says Hammer himself sent multiple tweets about the Iryna Zhuravska homicide, as many users did, because it was trending after the footage appeared on September 5.
+Claim: The host says Hammer himself sent multiple tweets about the Iryna Zarutska homicide, as many users did, because it was trending after the footage appeared on September 5.
 
 Transcript Snippet: Josh himself sent multiple tweets regarding the homicide, as everyone did, because, like I said, it was trending. Um
 
@@ -1469,7 +1469,7 @@ Investigative Direction: Verify the exact post times from Hammer's archive and c
 
 Claim Timestamp: 00:13:45
 
-Claim: The host says Matt Walsh went on his show and further explained his post, saying men have a visceral response when a woman is victimized the way Iryna Zhuravska was.
+Claim: The host says Matt Walsh went on his show and further explained his post, saying men have a visceral response when a woman is victimized the way Iryna Zarutska was.
 
 Transcript Snippet: So, Matt Walsh then went on his show and further explained that already contextualized tweet, and he explained how men have a visceral response when you see somebody uh being victimized, a woman being victimized in
 
@@ -1541,18 +1541,18 @@ Claim: On the JTV interview played on air, Hammer says the last call with Charli
 Transcript Snippet: We had a Zoom call, a friend of mine, him, a couple of his producers. It was it was a small call. We were literally talking above all about the anti-Israel questions
 
 Anchored Artifacts: A-1242.1
-Mentions: N-55, N-1, N-172
+Mentions: N-55, N-1
 Related Nodes: N-10169
 Tags: relevance:core
 Investigative Direction: Identify the producers and the friend on the call and ask each to confirm the participants and the agenda.
 
 ---
 
-**C-9342** JTV Interviewer Ali Says Candace Chose to Hijack Charlie's Death to Blame Israel
+**C-9342** JTV Interviewer Ollie Says Candace Chose to Hijack Charlie's Death to Blame Israel
 
 Claim Timestamp: 00:22:58
 
-Claim: In a JTV clip the host plays, interviewer Ali tells Hammer that, as Hammer mentioned, there have been people like Ian Carroll and Candace Owens, and that Candace 'has chosen to hijack his death right now to blame it on Israel.'
+Claim: In a JTV clip the host plays, interviewer Ollie tells Hammer that, as Hammer mentioned, there have been people like Ian Carroll and Candace Owens, and that Candace 'has chosen to hijack his death right now to blame it on Israel.'
 
 Transcript Snippet: she's chosen to hijack his death right now to blame it on Israel. I mean, it's just so disturbing. But then you have the people
 
@@ -1585,7 +1585,7 @@ Claim Timestamp: 00:23:56
 
 Claim: On the JTV audio, Hammer says Matt Gaetz had him on his show in March when Hammer's book came out and called the book a battle map to save Western Civilization, then later spoke of Jewish supremacy.
 
-Transcript Snippet: He had me on his show back in March when my book came out. Ali, he referred to my book as a battle map to save Western Civilization. It was
+Transcript Snippet: He had me on his show back in March when my book came out. Ollie, he referred to my book as a battle map to save Western Civilization. It was
 
 Anchored Artifacts: A-1242.1
 Mentions: N-55, N-71
@@ -2065,7 +2065,7 @@ Investigative Direction: Treat as the host's interpretation; examine the autopsy
 
 ---
 
-**C-9374** Host Says She Created a Kill Switch and Discussed It the Day Before
+**C-9374** Host Says She Wanted to Create a Kill Switch, as Discussed the Day Before
 
 Claim Timestamp: 00:52:07
 
@@ -2380,7 +2380,7 @@ Transcript Snippet: I do want to say shout out to the Mormon community for never
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10125
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Ask for examples of Utah residents' assistance and note the contrast with other groups she names.
 
 ---
@@ -2627,7 +2627,7 @@ Confidence: high
 - **Claim failed admission test:** C-1421 (Tyler Bowyer), C-1422 (UVU footage black hole), C-1423 (UVU suspect profile bulletin) – no artifact anchors in this episode. Bulleted as targets/investigative requests rather than artifact-backed claims.
 - **Transcript ambiguity (Trump quote wording):** Host reads "Should be public execution for all to see. You will end this bull fast." – word "bull" preserved as is; may be a transcription artifact of a stronger word.
 - **Timestamp uncertainty:** The JTV segment (A-1242.1) is described as "a few days after Charlie's death" but not dated explicitly; the Gabriel media appearance (A-1250.1) is undated; the Wolicki interview (A-1243.1) is undated. Best-effort anchor dates preserved only as "post-Sept-10."
-- **Possible transcription error:** Iryna Zhuravska spelled "Arena Zhuravskaya" in some transcript locations; both spellings preserved as they appear.
+- **Possible transcription error:** Iryna Zarutska spelled "Arena Zhuravskaya" in some transcript locations; both spellings preserved as they appear.
 
 ---
 

@@ -180,7 +180,7 @@ Confidence Level: High (Turek on camera; named show)
 
 **A-1723** WikiLeaks Podesta Email Bundle
 
-**A-1723.1** WikiLeaks-released email from Katherine Tate to John Podesta referencing "a handkerchief" that "seems pizza-related" and "weird specific orders of pizza and hot dogs"
+**A-1723.1** WikiLeaks-released email from Kathryn Tate to John Podesta referencing "a handkerchief" that "seems pizza-related" and "weird specific orders of pizza and hot dogs"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -576,7 +576,7 @@ Investigative Pressure: Low
 
 *Related: N-9*
 
-**N-531** Katherine Tate
+**N-531** Kathryn Tate
 
 Sender of pizza-referencing email to John Podesta released via WikiLeaks.
 
@@ -1466,11 +1466,11 @@ Investigative Direction: Verify against Charlie Kirk's text message timestamp; c
 
 ---
 
-**C-2272** WikiLeaks Email From Katherine Tate to Podesta References Pizza-Related Handkerchief
+**C-2272** WikiLeaks Email From Kathryn Tate to Podesta References Pizza-Related Handkerchief
 
 Claim Timestamp: 00:14:46
 
-Claim: The host reads an email she says was sent to John Podesta by Katherine Tate, published by WikiLeaks, saying a realtor found a handkerchief, "I think it has a map that seems pizza-related", and mentioning "weird specific orders of pizza and hot dogs."
+Claim: The host reads an email she says was sent to John Podesta by Kathryn Tate, published by WikiLeaks, saying a realtor found a handkerchief, "I think it has a map that seems pizza-related", and mentioning "weird specific orders of pizza and hot dogs."
 
 Anchored Artifacts: A-1723.1
 Mentions: N-531, N-532

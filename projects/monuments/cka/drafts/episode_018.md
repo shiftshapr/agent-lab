@@ -578,7 +578,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10190** Signature FBO / Millionaire FBO (entity cluster)
+**N-10190** Signature FBO / Million Air FBO (entity cluster)
 
 Two fixed-base operators referenced in connection with plane 888's last-minute destination change and contradicting employee statements.
 
@@ -664,7 +664,7 @@ Commentator; the host discusses his Hamptons statement, his texts with Charlie a
 
 ---
 
-**N-73** Irwin Steel
+**N-73** Erwin Steele
 
 Steele family member the host says is big with Caldera Engineering; transcribed Steel.
 
@@ -941,7 +941,7 @@ Investigative Direction: Locate original Kolbatz tweet and verify direct quotes 
 
 Claim Timestamp: 00:03:01
 
-Claim: Per Kolbatz's account, the surgeon stated the bullet should have exited, that people behind Charlie could have been killed, and characterized the outcome as "an absolute miracle."
+Claim: Per Andrew Kolvet's tweet the host reads, the surgeon stated the bullet should have exited, that people behind Charlie could have been killed, and characterized the outcome as "an absolute miracle."
 
 Anchored Artifacts: A-1251.1
 Mentions: N-14
@@ -1320,7 +1320,7 @@ Investigative Direction: Verify full Harvard event recording and transcript.
 
 Claim Timestamp: 00:52:15
 
-Claim: The host says Matt Walsh thought Charlie Kirk's text messages were fake because the sentence about leaving the pro-Israel cause felt "too on the nose"; the host adds her own view that it suggests Charlie had been pushed to write it.
+Claim: The host says Matt Walsh thought Charlie Kirk's text messages were fake because the sentence about leaving the pro-Israel cause felt "too on the nose"; paraphrasing him, she says you must have done a lot to make Charlie write that statement.
 
 Anchored Artifacts: A-1259.1
 Mentions: N-164, N-1
@@ -1663,7 +1663,7 @@ Investigative Direction: Obtain acoustic analyses of the shot audio from multipl
 
 Claim Timestamp: 00:19:26
 
-Claim: The host says it is now her well-informed opinion that investigators should be looking for a person who was a lot closer to Charlie and likely in the audience.
+Claim: The host says it is now her well-informed opinion that we are looking for a person who was a lot closer to Charlie and likely in the audience.
 
 Transcript Snippet: that is now my well-informed opinion, well-informed opinion, that we are looking for a person that was a lot closer to Charlie and likely in the audience.
 
@@ -1843,7 +1843,7 @@ Investigative Direction: Obtain the unedited rear-camera footage and have it rev
 
 Claim Timestamp: 00:25:40
 
-Claim: The host says she thinks investigators should look for two people who had weapons that day, one in the audience and one elsewhere with a rifle.
+Claim: The host says she thinks it is likely that what we should be looking for are two people who had weapons that day, one in the audience and one elsewhere with a rifle.
 
 Transcript Snippet: I think it is likely that what we should be looking for are two people that had weapons that day.
 
@@ -1907,7 +1907,7 @@ Investigative Direction: Collect other students' accounts of being approached an
 
 Claim Timestamp: 00:28:07
 
-Claim: The host says investigators need to be looking for a shooter who was in the audience and to the left of Charlie.
+Claim: The host says we probably now need to be looking for a shooter who was in the audience and to the left of Charlie.
 
 Transcript Snippet: we probably need to be now looking for a shooter that was in the audience and to the left.
 
@@ -1939,9 +1939,9 @@ Investigative Direction: Obtain the autopsy wound description and imaging to tes
 
 Claim Timestamp: 00:28:51
 
-Claim: The host says Irwin Steel and others of the Steel family were involved in the story and that it turns out the Steels are big with Caldera Engineering.
+Claim: The host says Erwin Steele and others of the Steele family were involved in the story and that it turns out the Steeles are big with Caldera Engineering.
 
-Transcript Snippet: Irwin Steel. This Steel. So many Steels were involved. It turns out the Steels are big with Caldera Engineering.
+Transcript Snippet: Erwin Steele. This Steel. So many Steels were involved. It turns out the Steels are big with Caldera Engineering.
 
 Anchored Artifacts: 
 Mentions: N-73, N-3
@@ -2116,7 +2116,7 @@ Investigative Direction: Obtain call logs and message timestamps for Hammer and 
 
 Claim Timestamp: 00:45:21
 
-Claim: The host says Hammer's whole story was that Charlie reached out to him because Charlie wanted help strengthening his debate, and she notes that Hammer's reply text asks about Charlie's first stop the next day.
+Claim: The host says Hammer's whole story was that Charlie reached out to him because Charlie wanted help strengthening his debate, and she notes that the reply text, which she assumes is Hammer's, asks about Charlie's first stop the next day.
 
 Transcript Snippet: his whole story was that Charlie was reaching out to him because he wanted help to strengthen his debate.
 

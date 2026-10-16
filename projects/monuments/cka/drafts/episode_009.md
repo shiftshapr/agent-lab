@@ -771,7 +771,7 @@ Sponsor whose title-monitoring service the host reads on air alongside an FBI ti
 **C-1267** Candace-Charlie text exchange re: UK flights
 
 Claim Timestamp: 00:10:23
-Claim: Candace and Charlie exchanged text messages about booking UK flights ($450 coach, $1,200 first class).
+Claim: Per the old text message chain the host shows, she told Charlie the UK flights were $450 in coach or $1,200 in first class, and he replied, 'Wow, let's book it.'
 Transcript Snippet: Reme $450 in coach or 1,200 in first class.
 Anchored Artifacts: A-1155.1
 Mentions: N-1, N-3
@@ -849,7 +849,7 @@ Tags: open_source_investigation
 **C-1272** Crooks posted violent YouTube comments
 
 Claim Timestamp: 00:23:37
-Claim: Crooks posted YouTube comments calling for violence against 'socialist Jews' and for Democrats to be beheaded.
+Claim: Per comments the host shows from the scraped record, Crooks wrote on one video about 'lining up a bunch of socialist Jews... and blasting their useless brains out with an AR', and on a YouTube video that every Trump-hating Democrat 'deserves to have their heads chopped off and put on stakes'.
 Transcript Snippet: Blasting their useless brains out with an AR…heads chopped off and put on stakes.
 Anchored Artifacts: A-1156.3
 Mentions: N-104
@@ -1362,7 +1362,7 @@ Investigative Direction: The security contractor's engagement date would confirm
 
 ---
 
-**C-13678** Host Says She Decided to Homeschool Immediately Before the Assassination
+**C-13678** Host Says She Decided to Homeschool Immediately, Before the Assassination
 
 Claim Timestamp: 00:14:23
 
@@ -1462,7 +1462,7 @@ Investigative Direction: Consult Utah State Historical Society records on the be
 
 Claim Timestamp: 00:18:00
 
-Claim: The host says her dread about an underground tied to schools made her connect the worker-bee idea to a Soviet symbol of making everybody a worker bee.
+Claim: The host says the idea of worker bees sounds communist, that it is a Soviet symbol of making everybody into a worker bee, and that her sense of doom about an underground left her totally freaked out.
 
 Transcript Snippet: It's this it's a Soviet symbol like the idea of making everybody into a worker be
 
@@ -1494,7 +1494,7 @@ Investigative Direction: Historians of American education would be the check; th
 
 Claim Timestamp: 00:18:16
 
-Claim: The host recommends a book by Thomas Sowell (transcribed as Thomas Sowell) on how the American education system came together and says it is neither left nor right.
+Claim: The host recommends a book by Thomas Sowell on how the American education system came together and says it is neither left nor right.
 
 Transcript Snippet: I tell people a must-read book is inside the American education system by Thomas Sowell.
 
@@ -1889,7 +1889,7 @@ Investigative Direction: Retrieve the Jezebel post and any linked Etsy listing f
 
 Claim Timestamp: 00:35:02
 
-Claim: In the Megyn Kelly segment, Kelly says Charlie and Erika Kirk contacted a friend, whom she believed to be a Catholic priest, and asked him to come over and pray with them over Charlie the night before he was murdered.
+Claim: In the Megyn Kelly segment, Kelly says Charlie and Erika Kirk contacted a friend, who she believes Erika said was a Catholic priest, and asked him to come over and pray with them over Charlie the night before he was murdered.
 
 Transcript Snippet: but definitely a friend, and asked him to come over and pray with them over Charlie the night before he was murdered.
 
@@ -1918,7 +1918,7 @@ Investigative Direction: Kelly's own account of her conversation with Erika; com
 
 ---
 
-**C-13712** Segment Says the Jezebel Writer Said She Only Wanted Him to Wake Up With an Inexplicable Zit
+**C-13712** Host Says the Jezebel Writer Said She Only Wanted Him to Wake Up With an Inexplicable Zit
 
 Claim Timestamp: 00:35:57
 
@@ -2016,7 +2016,7 @@ Investigative Direction: The lender is not named in the transcript; identify it 
 
 Claim Timestamp: 00:40:37
 
-Claim: The host announces another Shot in the Dark episode going through birth control, which she says may be the worst one, naming the Nexplanon implant (transcribed as Nexplanon).
+Claim: The host announces another Shot in the Dark episode going through birth control, which she says may be the worst one, naming Nexplanon.
 
 Transcript Snippet: Uh, we have another episode that's going up. We're going go through the birth control.
 
@@ -2100,7 +2100,7 @@ Transcript Snippet: I've seen that. I think we just need to be a lot more gracio
 
 Anchored Artifacts: A-3274.2
 Mentions: N-3, N-2
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Opinion; compare with the host's other statements about Erika's demeanor.
 
 ---

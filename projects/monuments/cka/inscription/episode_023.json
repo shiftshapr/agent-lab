@@ -943,7 +943,7 @@
       "ref": "N-206",
       "name": "Sean Feucht",
       "type": "person",
-      "description": "TPUSA Faith contributor and Kingdom to the Capital Tour leader; subject of June 2025 article detailing fraud, embezzlement, and financial mismanagement allegations; reported to be planning a \"Courageous Christianity Tour\" with Rob McCoy honoring Charlie.",
+      "description": "TPUSA Faith contributor and Kingdom to the Capitol Tour leader; subject of June 2025 article detailing fraud, embezzlement, and financial mismanagement allegations; reported to be planning a \"Courageous Christianity Tour\" with Rob McCoy honoring Charlie.",
       "related_artifacts": [
         "A-1301.1",
         "A-1301.2",
@@ -2376,7 +2376,7 @@
       "@type": "Topic",
       "@id": "N-11330",
       "ref": "N-11330",
-      "name": "Kingdom to the Capital Tour Plane Overlap Pattern",
+      "name": "Kingdom to the Capitol Tour Plane Overlap Pattern",
       "type": "topic",
       "description": "The host's claim that each Egyptian plane visit in 2023 coincided with a TPUSA Faith Kingdom to the Capital event headed by Sean Feucht.",
       "related_artifacts": [],
@@ -2593,8 +2593,8 @@
       "@type": "Claim",
       "@id": "C-1555",
       "ref": "C-1555",
-      "label": "Host Says N102DZ Departed Salt Lake City at About 1:00 PM on Day of Assassination After a 15-Minute Scottsdale Turn-Around",
-      "claim": "The host says N102DZ departed Salt Lake City at about 1:00 PM local on September 10, 2025, returned to Scottsdale, remained on the ground about 15 minutes, and turned back toward Scottsdale.",
+      "label": "Host Says N102DZ Left Salt Lake City Around 1:00 PM on Day of Assassination, Then Turned Around After 15 Minutes in Scottsdale",
+      "claim": "The host says N102DZ left Salt Lake City and headed to Scottsdale at about 1:00 PM local on September 10, 2025, was on the ground in Scottsdale for only about 15 minutes, and then turned around and flew out again.",
       "anchored_artifacts": [
         "A-1309.1"
       ],
@@ -2767,7 +2767,7 @@
       "@id": "C-1564",
       "ref": "C-1564",
       "label": "Live-Chat Critics Condemn TPUSA-Affiliated Pastors and Christian Zionist Silence After Charlie Kirk Assassination",
-      "claim": "The episode reads aloud live-chat comments, one voicing support for the host because 'the Zionists want to call you vermin', and one criticizing Pastor Jack Hibbs's silence and condemning Christian Zionist loyalty replacing loyalty to \"God, the church, and the truth.\"",
+      "claim": "The episode reads aloud live-chat comments, one voicing support for the host because 'the Zionists want to call you vermin', and one saying Pastor Jack Hibbs has not said nearly enough and condemning Christian Zionist loyalty replacing loyalty to \"God, the church, and the truth.\"",
       "anchored_artifacts": [
         "A-1306.1",
         "A-1306.2",
@@ -2780,8 +2780,7 @@
       "claim_timestamp": "00:59:11",
       "investigative_direction": "Verify each named pastor / figure's public silence or statements in the period following September 10, 2025.",
       "mentions_person_refs": [
-        "N-209",
-        "N-1"
+        "N-209"
       ]
     },
     {
@@ -3328,8 +3327,8 @@
       "@type": "Claim",
       "@id": "C-12281",
       "ref": "C-12281",
-      "label": "Host Says Feucht Was Announced February 28 to Head the Kingdom to the Capital Tour",
-      "claim": "The host says that on February 28 it was announced Sean Feucht would head up the 'Kingdom of the Capital Tour', making him the face of the TPUSA Faith tour.",
+      "label": "Host Says Feucht Was Announced February 28 to Head the Kingdom to the Capitol Tour",
+      "claim": "The host says that on February 28 it was announced Sean Feucht would head up the 'Kingdom of the Capital Tour' [Kingdom to the Capitol Tour], making him the face of the TPUSA Faith tour.",
       "anchored_artifacts": [
         "A-3198.1"
       ],
@@ -3576,8 +3575,8 @@
       "@type": "Claim",
       "@id": "C-12292",
       "ref": "C-12292",
-      "label": "Host Says Feucht Led a TPUSA Faith Kingdom to the Capital Event in Topeka on April 23 Near the Plane's Kansas Stay",
-      "claim": "The host says the yellow plane flew Cairo to Kansas, and on April 23 Sean Feucht headed up the TPUSA Faith Kingdom to the Capital Tour event in Topeka, Kansas.",
+      "label": "Host Says Feucht Led a TPUSA Faith Kingdom to the Capitol Event in Topeka on April 23 Near the Plane's Kansas Stay",
+      "claim": "The host says the yellow plane flew Cairo to Kansas, and on April 23 Sean Feucht headed up the TPUSA Faith Kingdom to the Capitol Tour event in Topeka, Kansas.",
       "anchored_artifacts": [
         "A-1301.3"
       ],
@@ -3590,7 +3589,7 @@
       ],
       "claim_timestamp": "00:17:56",
       "investigative_direction": "Confirm the Topeka event date and compare with SUBTT's Kansas landing and stay.",
-      "transcript_snippet": "And on April 23rd, Sean Feucht heads up the TPUSA Faith Kingdom to the Capital Tour event, which happens to be in Topeka, Kansas.",
+      "transcript_snippet": "And on April 23rd, Sean Feucht heads up the TPUSA Faith Kingdom to the Capitol Tour event, which happens to be in Topeka, Kansas.",
       "mentions_person_refs": [
         "N-206"
       ]
@@ -4029,8 +4028,8 @@
       "@type": "Claim",
       "@id": "C-12312",
       "ref": "C-12312",
-      "label": "Host Says Bob Shillman Was Angry and the Angry Men Told Kirk It Could Never Happen Again",
-      "claim": "The host says Bob Shillman was angry after the speech and that they were basically telling Charlie it could never happen again and that he has to be pro-Israel.",
+      "label": "Host Says Bob Shillman Was Angry and the Vibe Was That It Could Never Happen Again",
+      "claim": "The host says Bob Shillman was angry after the speech and that they were basically telling Charlie it could never happen again and that he has to be pro-Israel, which she describes as 'kind of the vibes that they're putting down'.",
       "anchored_artifacts": [
         "A-1312.1"
       ],
@@ -4277,7 +4276,7 @@
       "@id": "C-12322",
       "ref": "C-12322",
       "label": "Host Says Two Planes From Scottsdale Scrambled Right After Kirk Was Shot",
-      "claim": "The host says her team found two planes that, right after Charlie Kirk was shot, scrambled from Scottsdale, Arizona, and were trying to find out who came in.",
+      "claim": "The host says her team found two planes that, right after Charlie Kirk was shot, scrambled from Scottsdale, Arizona, and that they are trying to figure out who came in.",
       "anchored_artifacts": [
         "A-3197.1"
       ],

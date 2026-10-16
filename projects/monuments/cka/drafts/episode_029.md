@@ -374,7 +374,7 @@ Named by the host as appearing in the NAR article.
 
 ---
 
-**N-226** Steven Paddock
+**N-226** Stephen Paddock
 
 Las Vegas 2017 shooter per official account.
 

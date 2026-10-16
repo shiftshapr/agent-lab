@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T18:08:44Z",
+  "generated_at": "2026-10-16T16:42:32Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -2163,7 +2163,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10142",
-      "label": "Nicey (via host clip) says Erika moved to Michigan to be with basketball player Joshua Harrelson in 2013",
+      "label": "Nicey (via host clip) says Erika moved to Michigan to be with basketball player Josh Harrellson in 2013",
       "node_kind": "claim",
       "episode": 74
     },
@@ -7168,7 +7168,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10857",
-      "label": "Host Cites Lawfare Bankruptcy Strategy and Says It Applies to Elijah Schaefer",
+      "label": "Host Cites Lawfare Bankruptcy Strategy and Says It Applies to Elijah Schaffer",
       "node_kind": "claim",
       "episode": 32
     },
@@ -9527,7 +9527,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1119",
-      "label": "Charlie approved of George after one evening in the UK",
+      "label": "Charlie Approved of George After One Evening",
       "node_kind": "claim",
       "episode": 1
     },
@@ -13069,7 +13069,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1165",
-      "label": "Laura Loomer pressured Charlie to distance from Tucker Carlson",
+      "label": "Host Says an X User Pressured Charlie to Distance From Tucker Carlson",
       "node_kind": "claim",
       "episode": 3
     },
@@ -14994,7 +14994,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1190",
-      "label": "Per BBC Article, Sherry Steel Reported Police Presence",
+      "label": "Per BBC Article, Sherri Steele Reported Police Presence",
       "node_kind": "claim",
       "episode": 5
     },
@@ -15253,7 +15253,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11933",
-      "label": "Host Says Irwin Steel Claims to Live in a House Owned by Others, Where Other Steels Live",
+      "label": "Host Says Erwin Steele Claims to Live in a House Owned by Others, Where Other Steeles Live",
       "node_kind": "claim",
       "episode": 5
     },
@@ -15281,7 +15281,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11937",
-      "label": "Host Says BBC Has Not Published Sherry Steel's Video of Police Shouting Freeze",
+      "label": "Host Says BBC Has Not Published Sherri Steele's Video of Police Shouting Freeze",
       "node_kind": "claim",
       "episode": 5
     },
@@ -15456,7 +15456,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1196",
-      "label": "Utah artist released 'Charlie Kirk Dead at 31' song early",
+      "label": "Host Mentions Utah Artist's 'Charlie Kirk Dead at 31' Song",
       "node_kind": "claim",
       "episode": 5
     },
@@ -15687,7 +15687,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1199",
-      "label": "Host Says She Cannot Find Sherry Steel in the Building Complex",
+      "label": "Host Says She Cannot Find Sherri Steele in the Building Complex",
       "node_kind": "claim",
       "episode": 5
     },
@@ -17934,7 +17934,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12281",
-      "label": "Host Says Feucht Was Announced February 28 to Head the Kingdom to the Capital Tour",
+      "label": "Host Says Feucht Was Announced February 28 to Head the Kingdom to the Capitol Tour",
       "node_kind": "claim",
       "episode": 23
     },
@@ -18018,7 +18018,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12292",
-      "label": "Host Says Feucht Led a TPUSA Faith Kingdom to the Capital Event in Topeka on April 23 Near the Plane's Kansas Stay",
+      "label": "Host Says Feucht Led a TPUSA Faith Kingdom to the Capitol Event in Topeka on April 23 Near the Plane's Kansas Stay",
       "node_kind": "claim",
       "episode": 23
     },
@@ -18172,7 +18172,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12312",
-      "label": "Host Says Bob Shillman Was Angry and the Angry Men Told Kirk It Could Never Happen Again",
+      "label": "Host Says Bob Shillman Was Angry and the Vibe Was That It Could Never Happen Again",
       "node_kind": "claim",
       "episode": 23
     },
@@ -20230,7 +20230,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1258",
-      "label": "Charlie Kirk said he was being morally blackmailed by donors",
+      "label": "Kolvet Says Charlie Said He Didn't Appreciate Being Morally Blackmailed",
       "node_kind": "claim",
       "episode": 8
     },
@@ -23310,7 +23310,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1298",
-      "label": "Tyler Robinson uses \"vehicle\" rarely in ordinary speech",
+      "label": "Host Says Robinson Saying \"Car\" Rather Than \"Vehicle\" Is How Most English Speakers Talk",
       "node_kind": "claim",
       "episode": 11
     },
@@ -23464,7 +23464,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1300",
-      "label": "Brooksby attempted to protect the retired detective's identity despite his public-record career",
+      "label": "Brooksby Says He Withheld the Retired Deputy's Identity to Protect Him",
       "node_kind": "claim",
       "episode": 11
     },
@@ -24080,7 +24080,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1308",
-      "label": "Phil Lyman's family owns approximately twelve homes on the relevant street",
+      "label": "Host Says Lyman's Family Owns Twelve Homes in the Area",
       "node_kind": "claim",
       "episode": 11
     },
@@ -25235,7 +25235,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1323",
-      "label": "Video metadata timestamp shows Phil Lyman inside the Sorenson building at 12:23 on the day of the shooting, walking out calmly.",
+      "label": "Video metadata timestamp shows Phil Lyman inside the Sorensen Center at 12:23 on the day of the shooting, walking out calmly.",
       "node_kind": "claim",
       "episode": 12
     },
@@ -25389,7 +25389,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1325",
-      "label": "Host Says One of Two Companions in Photo With Shaner Broderick Is Gernot Omer, via Face-Match to BearingPoint Graz Video",
+      "label": "Host Says One of Two Companions in Photo With Shaner Broderick Is Gernot Ohner, via Face-Match to BearingPoint Graz Video",
       "node_kind": "claim",
       "episode": 12
     },
@@ -25466,7 +25466,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1326",
-      "label": "Host Says Gernot Omer's LinkedIn States He Moved to Utah in May 2024 for a JP Morgan Chase Software Engineer Job",
+      "label": "Host Says Gernot Ohner's LinkedIn States He Moved to Utah in May 2024 for a JP Morgan Chase Software Engineer Job",
       "node_kind": "claim",
       "episode": 12
     },
@@ -25543,7 +25543,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1327",
-      "label": "A Belfast viewer matched the second companion's face via a facial-recognition search to a single result in Provo, Utah – on the \"Buzzard and Bees\" gothic-prom page.",
+      "label": "A Belfast viewer matched the second companion's face via a facial-recognition search to a single result in Provo, Utah – on the \"Buzzards and Bees\" gothic-prom page.",
       "node_kind": "claim",
       "episode": 12
     },
@@ -26005,7 +26005,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1333",
-      "label": "Gernot Omer's face was matched to a German-language blog post titled \"Anniversary Hike, 10 Years on Foot to the Sea\" featuring a group of 30-year-olds recreating a hike taken at age 20.",
+      "label": "Gernot Ohner's face was matched to a German-language blog post titled \"Anniversary Hike, 10 Years on Foot to the Sea\" featuring a group of 30-year-olds recreating a hike taken at age 20.",
       "node_kind": "claim",
       "episode": 12
     },
@@ -26978,7 +26978,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13457",
-      "label": "Host Says a Bigger Name Texted That He Would Not Share the Stage With the New Girl",
+      "label": "Host Says a Bigger Name Messaged That They Would Not Share the Stage With the New Girl",
       "node_kind": "claim",
       "episode": 1
     },
@@ -27076,7 +27076,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1347",
-      "label": "\"Florida Dab\" account on X demanded Megyn Kelly separate from Candace Owens",
+      "label": "\"Florida Dad\" Account on X Demanded Megyn Kelly Separate From Candace Owens",
       "node_kind": "claim",
       "episode": 13
     },
@@ -27118,7 +27118,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13475",
-      "label": "Clip Shows a Protester Telling the Host Charlie Kirk Is Not Your Friend",
+      "label": "Clip Shows the Host and Charlie Bantering With a Protester Over a Sign",
       "node_kind": "claim",
       "episode": 1
     },
@@ -28679,7 +28679,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13678",
-      "label": "Host Says She Decided to Homeschool Immediately Before the Assassination",
+      "label": "Host Says She Decided to Homeschool Immediately, Before the Assassination",
       "node_kind": "claim",
       "episode": 9
     },
@@ -28945,7 +28945,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13712",
-      "label": "Segment Says the Jezebel Writer Said She Only Wanted Him to Wake Up With an Inexplicable Zit",
+      "label": "Host Says the Jezebel Writer Said She Only Wanted Him to Wake Up With an Inexplicable Zit",
       "node_kind": "claim",
       "episode": 9
     },
@@ -30156,7 +30156,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1387",
-      "label": "Britta publicly accused Candace of fabricating group-chat screenshots",
+      "label": "Britta Asked Whether Candace Was Posting Fake Group-Chat Screenshots",
       "node_kind": "claim",
       "episode": 16
     },
@@ -31542,7 +31542,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1405",
-      "label": "Yashar Ali Publicly Attempted to Contextualize Hammer's Retweet as Referring to Iryna Zhuravska",
+      "label": "Yashar Ali Publicly Attempted to Contextualize Hammer's Retweet as Referring to Iryna Zarutska",
       "node_kind": "claim",
       "episode": 17
     },
@@ -31619,7 +31619,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1406",
-      "label": "Host Says Iryna Zhuravska Was Murdered August 22 and Footage Was Released and Trended September 5",
+      "label": "Host Says Iryna Zarutska Was Murdered August 22 and Footage Was Released and Trended September 5",
       "node_kind": "claim",
       "episode": 17
     },
@@ -31773,7 +31773,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1408",
-      "label": "Host Says Hammer Did Not Advocate the Death Penalty in His Iryna Zhuravska Commentary",
+      "label": "Host Says Hammer Did Not Advocate the Death Penalty in His Iryna Zarutska Commentary",
       "node_kind": "claim",
       "episode": 17
     },
@@ -38171,7 +38171,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14911",
-      "label": "Host Says Diligent Dennison Released a Waiter Interview and Receipt After Being Accused of Lying",
+      "label": "Host Says Diligent Denizen Released a Waiter Interview and Receipt After Being Accused of Lying",
       "node_kind": "claim",
       "episode": 149
     },
@@ -39235,7 +39235,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1505",
-      "label": "Rob McCoy has a U.S. Navy background traceable to his father Roy Edgar McCoy",
+      "label": "Host Says Rob McCoy's Father Roy Edgar McCoy Was a Navy Psychological Warfare Officer",
       "node_kind": "claim",
       "episode": 20
     },
@@ -39340,7 +39340,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1507",
-      "label": "Brigitte Macron is registered on French tax forms as \"Jean Michelle\" male",
+      "label": "Brigitte Macron is registered on French tax forms as \"Jean-Michel\" male",
       "node_kind": "claim",
       "episode": 20
     },
@@ -39676,7 +39676,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1555",
-      "label": "Host Says N102DZ Departed Salt Lake City at About 1:00 PM on Day of Assassination After a 15-Minute Scottsdale Turn-Around",
+      "label": "Host Says N102DZ Left Salt Lake City Around 1:00 PM on Day of Assassination, Then Turned Around After 15 Minutes in Scottsdale",
       "node_kind": "claim",
       "episode": 23
     },
@@ -40516,21 +40516,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1677",
-      "label": "Host Says Alexis Wilkins Filed a $5 Million Lawsuit Against Elijah Schaefer and Other Content Creators Over Honeypot Allegations",
+      "label": "Host Says Alexis Wilkins Filed a $5 Million Lawsuit Against Elijah Schaffer and Other Content Creators Over Honeypot Allegations",
       "node_kind": "claim",
       "episode": 30
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1678",
-      "label": "Hen Mazig X post on September 14, 2025 described female Mossad agents in Israeli intelligence operations",
+      "label": "Hen Mazzig X post on September 14, 2025 described female Mossad agents in Israeli intelligence operations",
       "node_kind": "claim",
       "episode": 30
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1679",
-      "label": "Elijah Schaefer posted a photo of Alexis Wilkins and Kash Patel in response to the Hen Mazig X post",
+      "label": "Elijah Schaffer posted a photo of Alexis Wilkins and Kash Patel in response to the Hen Mazzig X post",
       "node_kind": "claim",
       "episode": 30
     },
@@ -41433,7 +41433,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1808",
-      "label": "Per Vanity Fair Reporting Host Relays, Lisa Dean DuPont and Christopher Mosley Ordered Killing of Las Vegas Prostitute",
+      "label": "Per Vanity Fair Reporting Host Relays, Lisa Dean DuPont and Christopher Moseley Ordered Killing of Las Vegas Prostitute",
       "node_kind": "claim",
       "episode": 39
     },
@@ -43057,14 +43057,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2040",
-      "label": "Korean Herald Headline the Host Shows Says Pastor Yoon Bo-seon Was Arrested September 9 for Breaking Election Law",
+      "label": "Korean Herald Headline the Host Shows Says Pastor Son Hyun-bo Was Arrested September 9 for Breaking Election Law",
       "node_kind": "claim",
       "episode": 54
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2041",
-      "label": "Chan Yoon stated his father was arrested two days after meeting Charlie Kirk",
+      "label": "Chance Son stated his father was arrested two days after meeting Charlie Kirk",
       "node_kind": "claim",
       "episode": 54
     },
@@ -43099,7 +43099,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2046",
-      "label": "Pastor Yoon Bo-seon quoted as saying \"Lee Jae-myung has to die for Korea to live\"",
+      "label": "Pastor Son Hyun-bo quoted as saying \"Lee Jae-myung has to die for Korea to live\"",
       "node_kind": "claim",
       "episode": 54
     },
@@ -44660,7 +44660,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2272",
-      "label": "WikiLeaks Email From Katherine Tate to Podesta References Pizza-Related Handkerchief",
+      "label": "WikiLeaks Email From Kathryn Tate to Podesta References Pizza-Related Handkerchief",
       "node_kind": "claim",
       "episode": 67
     },
@@ -53956,7 +53956,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3626",
-      "label": "Whistleblower Simon Andre dies after flagging Howard Lutnick Epstein ties",
+      "label": "Whistleblower Simon Andriesz dies after flagging Howard Lutnick Epstein ties",
       "node_kind": "claim",
       "episode": 160
     },
@@ -54075,7 +54075,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3643",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "label": "Host Says Many People Bought the Show's CIA Merch",
       "node_kind": "claim",
       "episode": 14
     },
@@ -54635,7 +54635,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3723",
-      "label": "Hamptons attendee ring debate around Sarah Stockton",
+      "label": "Hamptons Attendee Ring Debate Around Sarah Stock",
       "node_kind": "claim",
       "episode": 3
     },
@@ -54733,7 +54733,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3737",
-      "label": "Xaviaer DuRousseau is the speaker C-1292 spells 'Xavier Deruso' (revises C-1292)",
+      "label": "Xaviaer DuRousseau is the speaker C-1292 spells 'Xaviaer DuRousseau' (revises C-1292)",
       "node_kind": "claim",
       "episode": 10
     },
@@ -66353,7 +66353,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5397",
-      "label": "Diligent Dennison infers Amodei could have attended the meeting and returned for the third roll call",
+      "label": "Diligent Denizen infers Amodei could have attended the meeting and returned for the third roll call",
       "node_kind": "claim",
       "episode": 50
     },
@@ -73969,7 +73969,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6485",
-      "label": "X User Begs Bowyer to Seek Loews Building Security Footage",
+      "label": "X User Begs Bowyer to Seek Losee Center Security Footage",
       "node_kind": "claim",
       "episode": 15
     },
@@ -75222,7 +75222,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6664",
-      "label": "Host Says the Lawsuit against Elijah Schaefer Is About a Joke and Cites His Anti-Israel Rhetoric",
+      "label": "Host Says the Lawsuit against Elijah Schaffer Is About a Joke and Cites His Anti-Israel Rhetoric",
       "node_kind": "claim",
       "episode": 31
     },
@@ -79471,7 +79471,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7271",
-      "label": "Host Says Diligent Dennison Spoke to the Waiter in Panguitch",
+      "label": "Host Says Diligent Denizen Spoke to the Waiter in Panguitch",
       "node_kind": "claim",
       "episode": 124
     },
@@ -83468,7 +83468,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7842",
-      "label": "Host Says Mary Fagan Was a 13-Year-Old Pencil Factory Worker Found Raped in 1913",
+      "label": "Host Says Mary Phagan Was a 13-Year-Old Pencil Factory Worker Found Raped in 1913",
       "node_kind": "claim",
       "episode": 14
     },
@@ -83489,7 +83489,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7845",
-      "label": "Host Says a Book About Mary Fagan Was Written by a Relative of the Same Name",
+      "label": "Host Says a Book About Mary Phagan Was Written by a Relative of the Same Name",
       "node_kind": "claim",
       "episode": 14
     },
@@ -83664,7 +83664,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7870",
-      "label": "Host Says Gauer Is an Austrian Software Engineer Tied to Lyman's Relative and Shaner's Instagram",
+      "label": "Host Says Gernot Ohner Is an Austrian Software Engineer Tied to Lyman's Relative and Shaner's Instagram",
       "node_kind": "claim",
       "episode": 14
     },
@@ -86212,7 +86212,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8234",
-      "label": "Chan Yoon Says Kirk Pledged to Use His Platform for the Pastor's Case",
+      "label": "Chance Son Says Kirk Pledged to Use His Platform for the Pastor's Case",
       "node_kind": "claim",
       "episode": 54
     },
@@ -93919,7 +93919,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9335",
-      "label": "Host Says Hammer Himself Posted Several Times About the Zhuravska Homicide",
+      "label": "Host Says Hammer Himself Posted Several Times About the Zarutska Homicide",
       "node_kind": "claim",
       "episode": 17
     },
@@ -93968,7 +93968,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9342",
-      "label": "JTV Interviewer Ali Says Candace Chose to Hijack Charlie's Death to Blame Israel",
+      "label": "JTV Interviewer Ollie Says Candace Chose to Hijack Charlie's Death to Blame Israel",
       "node_kind": "claim",
       "episode": 17
     },
@@ -94192,7 +94192,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9374",
-      "label": "Host Says She Created a Kill Switch and Discussed It the Day Before",
+      "label": "Host Says She Wanted to Create a Kill Switch, as Discussed the Day Before",
       "node_kind": "claim",
       "episode": 17
     },
@@ -94430,7 +94430,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9408",
-      "label": "Host cites a source saying a plane shifted from Millionaire FBO to another FBO",
+      "label": "Host cites a source saying a plane shifted from Million Air FBO to another FBO",
       "node_kind": "claim",
       "episode": 22
     },
@@ -99330,21 +99330,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1112.2",
-      "label": "Local-news clip in which Irwin Steel is interviewed in his front yard the morning after the shooting, confirming he shared camera footage with authorities.",
+      "label": "Local-news clip in which Erwin Steele is interviewed in his front yard the morning after the shooting, confirming he shared camera footage with authorities.",
       "node_kind": "artifact",
       "episode": 5
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1113",
-      "label": "BBC Article – Sherry Steel Bundle",
+      "label": "BBC Article – Sherri Steele Bundle",
       "node_kind": "artifact",
       "episode": 5
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1113.1",
-      "label": "BBC news article in which Sherry Steel describes a large police presence outside Tyler Robinson's townhouse while she walked her dog in the evening.",
+      "label": "BBC news article in which Sherri Steele describes a large police presence outside Tyler Robinson's townhouse while she walked her dog in the evening.",
       "node_kind": "artifact",
       "episode": 5
     },
@@ -100639,7 +100639,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1186.1",
-      "label": "BearingPoint Graz office introduction video identifying members of one of the company's software development teams; the host identifies one of the individuals shown as Gernot Omer and displays a side-",
+      "label": "BearingPoint Graz office introduction video identifying members of one of the company's software development teams; the host identifies one of the individuals shown as Gernot Ohner and displays a side",
       "node_kind": "artifact",
       "episode": 12
     },
@@ -100660,14 +100660,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1188",
-      "label": "Buzzard and Bees website (Provo gothic underground)",
+      "label": "Buzzards and Bees website (Provo gothic underground)",
       "node_kind": "artifact",
       "episode": 12
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1188.1",
-      "label": "Public-facing page from the \"Buzzard and Bees\" gothic-underground Provo website referencing a \"gothic prom,\" featuring a person in makeup the host matches via side-by-side image to the unidentified in",
+      "label": "Public-facing page from the \"Buzzards and Bees\" gothic-underground Provo website referencing a \"gothic prom,\" featuring a person in makeup the host matches via side-by-side image to the unidentified i",
       "node_kind": "artifact",
       "episode": 12
     },
@@ -100737,14 +100737,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1193",
-      "label": "Gernot Omer LinkedIn profile",
+      "label": "Gernot Ohner LinkedIn profile",
       "node_kind": "artifact",
       "episode": 12
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1193.1",
-      "label": "LinkedIn profile stating Gernot Omer relocated to Utah in May 2024 to take a software engineer position with JP Morgan Chase.",
+      "label": "LinkedIn profile stating Gernot Ohner relocated to Utah in May 2024 to take a software engineer position with JP Morgan Chase.",
       "node_kind": "artifact",
       "episode": 12
     },
@@ -100758,7 +100758,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1194.1",
-      "label": "Email from a viewer in Belfast, Northern Ireland, reporting a facial-recognition search of the unidentified companion produced a single hit in Provo, Utah, on the \"Buzzard and Bees\" gothic-prom page.",
+      "label": "Email from a viewer in Belfast, Northern Ireland, reporting a facial-recognition search of the unidentified companion produced a single hit in Provo, Utah, on the \"Buzzards and Bees\" gothic-prom page.",
       "node_kind": "artifact",
       "episode": 12
     },
@@ -100786,7 +100786,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1196.1",
-      "label": "Video clip: Shaner Broadick and Lyman-family aunt review/tracing the shooter's route on camera; aunt states \"I wondered if the girl had given him stuff…if there is an accomplice.\"",
+      "label": "Video clip: Shaner Broderick and Lyman-family aunt review/tracing the shooter's route on camera; aunt states \"I wondered if the girl had given him stuff…if there is an accomplice.\"",
       "node_kind": "artifact",
       "episode": 13
     },
@@ -100884,7 +100884,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1201.1",
-      "label": "X post by \"Florida Dab\" addressed to Megyn Kelly: \"If you can't separate yourself from Candace Owens, many of us are going to separate ourselves from you…\" followed by \"We do not have to align with ev",
+      "label": "X post by \"Florida Dad\" addressed to Megyn Kelly: \"If you can't separate yourself from Candace Owens, many of us are going to separate ourselves from you…\" followed by \"We do not have to align with ev",
       "node_kind": "artifact",
       "episode": 13
     },
@@ -100898,7 +100898,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1202.1",
-      "label": "X reply by Megyn Kelly to Florida Dab refusing to condemn Candace Owens or Tucker Carlson",
+      "label": "X reply by Megyn Kelly to Florida Dad refusing to condemn Candace Owens or Tucker Carlson",
       "node_kind": "artifact",
       "episode": 13
     },
@@ -101598,7 +101598,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1237.1",
-      "label": "Yashar Ali quote tweet characterizing Josh Hammer's retweet as referring to the murder of Iryna Zhuravska, and asserting other conservatives did the same day prior",
+      "label": "Yashar Ali quote tweet characterizing Josh Hammer's retweet as referring to the murder of Iryna Zarutska, and asserting other conservatives did the same day prior",
       "node_kind": "artifact",
       "episode": 17
     },
@@ -101647,7 +101647,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1240.1",
-      "label": "Host-prepared timeline of nine Hammer X posts on September 9, 2025 covering (per host) Phillies story, Iryna Zhuravska media link, anti-Tucker post, pro-Israel / anti-Qatar and anti-Saudi posts, anti-",
+      "label": "Host-prepared timeline of nine Hammer X posts on September 9, 2025 covering (per host) Phillies story, Iryna Zarutska media link, anti-Tucker post, pro-Israel / anti-Qatar and anti-Saudi posts, anti-T",
       "node_kind": "artifact",
       "episode": 17
     },
@@ -101794,7 +101794,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1250.1",
-      "label": "Audio excerpt of Josh Hammer on a media show with host \"Gabriel\"; Hammer discusses Iryna Zhuravska case against backdrop of 2013 criminal-law school context; references Trump and criminal-justice refo",
+      "label": "Audio excerpt of Josh Hammer on a media show with host \"Gabriel\"; Hammer discusses Iryna Zarutska case against backdrop of 2013 criminal-law school context; references Trump and criminal-justice refor",
       "node_kind": "artifact",
       "episode": 17
     },
@@ -102319,7 +102319,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1280.1",
-      "label": "Reporting on French tax records listing Brigitte Macron as \"Jean Michelle\"",
+      "label": "Reporting on French tax records listing Brigitte Macron as \"Jean-Michel\"",
       "node_kind": "artifact",
       "episode": 20
     },
@@ -103166,7 +103166,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1325.1",
-      "label": "Ventura County Star article reporting that Rob McCoy would step down as senior pastor of Godspeak Calvary Chapel in July 2025, with son-in-law Micah Stevens succeeding him; article also notes McCoy's ",
+      "label": "Ventura County Star article reporting that Rob McCoy would step down as senior pastor of Godspeak Calvary Chapel in July 2025, with son-in-law Micah Stephens succeeding him; article also notes McCoy's",
       "node_kind": "artifact",
       "episode": 25
     },
@@ -104111,21 +104111,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1385.1",
-      "label": "Alexis Wilkins lawsuit filing (read aloud in episode) seeking $5 million against Elijah Schaefer and other content creators over honeypot allegations.",
+      "label": "Alexis Wilkins lawsuit filing (read aloud in episode) seeking $5 million against Elijah Schaffer and other content creators over honeypot allegations.",
       "node_kind": "artifact",
       "episode": 30
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1385.2",
-      "label": "Hen Mazig X post dated September 14, 2025 describing the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.",
+      "label": "Hen Mazzig X post dated September 14, 2025 describing the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.",
       "node_kind": "artifact",
       "episode": 30
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1385.3",
-      "label": "Elijah Schaefer X post of a photograph of Alexis Wilkins and Kash Patel, posted in response to the Hen Mazig X post.",
+      "label": "Elijah Schaffer X post of a photograph of Alexis Wilkins and Kash Patel, posted in response to the Hen Mazzig X post.",
       "node_kind": "artifact",
       "episode": 30
     },
@@ -107317,14 +107317,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1565",
-      "label": "Diligent Dennison X Post Bundle",
+      "label": "Diligent Denizen X Post Bundle",
       "node_kind": "artifact",
       "episode": 50
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1565.1",
-      "label": "Diligent Dennison X post analyzing Mark Amodei's alibi (read aloud in full)",
+      "label": "Diligent Denizen X post analyzing Mark Amodei's alibi (read aloud in full)",
       "node_kind": "artifact",
       "episode": 50
     },
@@ -107898,14 +107898,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1600",
-      "label": "CBN News Clip Bundle – Chan Yoon at TPUSA",
+      "label": "CBN News Clip Bundle – Chance Son at TPUSA",
       "node_kind": "artifact",
       "episode": 54
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1600.1",
-      "label": "CBN News segment featuring Chan Yoon (son of Pastor Yoon Bo-seon) speaking about his father's arrest two days after meeting Charlie Kirk in Seoul",
+      "label": "CBN News segment featuring Chance Son (son of Pastor Son Hyun-bo) speaking about his father's arrest two days after meeting Charlie Kirk in Seoul",
       "node_kind": "artifact",
       "episode": 54
     },
@@ -110040,7 +110040,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1723.1",
-      "label": "WikiLeaks-released email from Katherine Tate to John Podesta referencing \"a handkerchief\" that \"seems pizza-related\" and \"weird specific orders of pizza and hot dogs\"",
+      "label": "WikiLeaks-released email from Kathryn Tate to John Podesta referencing \"a handkerchief\" that \"seems pizza-related\" and \"weird specific orders of pizza and hot dogs\"",
       "node_kind": "artifact",
       "episode": 67
     },
@@ -111027,7 +111027,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1781.1",
-      "label": "Jillian Falcon tweet, 2013-09-15: \"Just met Miss Arizona and Josh Harrelson\" (heart-eyes emoji)",
+      "label": "Jillian Falcon tweet, 2013-09-15: \"Just met Miss Arizona and Josh Harrellson\" (heart-eyes emoji)",
       "node_kind": "artifact",
       "episode": 74
     },
@@ -112098,7 +112098,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1855.7",
-      "label": "Statement attributed to Italian Prime Minister Georgia Meloni describing the war as part of a \"growing and dangerous trend of interventions that sit outside the scope of international law.\"",
+      "label": "Statement attributed to Italian Prime Minister Giorgia Meloni describing the war as part of a \"growing and dangerous trend of interventions that sit outside the scope of international law.\"",
       "node_kind": "artifact",
       "episode": 79
     },
@@ -123123,14 +123123,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2478",
-      "label": "Simon Andre / Howard Lutnick Epstein Whistleblower Death Bundle",
+      "label": "Simon Andriesz / Howard Lutnick Epstein Whistleblower Death Bundle",
       "node_kind": "artifact",
       "episode": 160
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2478.1",
-      "label": "Host read of headline and BBC-attributed account: former BGC Group managing director Simon Andre dies after flagging Howard Lutnick links to Epstein, including an alleged 2018 email chain about a star",
+      "label": "Host read of headline and BBC-attributed account: former BGC Group managing director Simon Andriesz dies after flagging Howard Lutnick links to Epstein, including an alleged 2018 email chain about a s",
       "node_kind": "artifact",
       "episode": 160
     },
@@ -125251,7 +125251,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2595.1",
-      "label": "Mark Caputo post with the White House background statement denying the WHCD email (shown)",
+      "label": "Marc Caputo post with the White House background statement denying the WHCD email (shown)",
       "node_kind": "artifact",
       "episode": 106
     },
@@ -129381,7 +129381,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2816.1",
-      "label": "Host reading an X user's post begging Tyler Bowyer to pursue security footage of the sequence before the Loews building jump-off",
+      "label": "Host reading an X user's post begging Tyler Bowyer to pursue security footage of the sequence before the Losee building jump-off",
       "node_kind": "artifact",
       "episode": 15
     },
@@ -129577,14 +129577,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2829",
-      "label": "Wilkins Lawsuit Against Elijah Schaefer Reference Bundle",
+      "label": "Wilkins Lawsuit Against Elijah Schaffer Reference Bundle",
       "node_kind": "artifact",
       "episode": 31
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2829.1",
-      "label": "Host verbal reference to the lawsuit filed against Elijah Schaefer over a joke and the lawsuit's reference to his anti-Israel rhetoric (not shown)",
+      "label": "Host verbal reference to the lawsuit filed against Elijah Schaffer over a joke and the lawsuit's reference to his anti-Israel rhetoric (not shown)",
       "node_kind": "artifact",
       "episode": 31
     },
@@ -130753,14 +130753,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2906",
-      "label": "Murder of Little Mary Fagan Book Bundle",
+      "label": "Murder of Little Mary Phagan Book Bundle",
       "node_kind": "artifact",
       "episode": 14
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2906.1",
-      "label": "Host verbal reference to the book The Murder of Little Mary Fagan (not shown)",
+      "label": "Host verbal reference to the book The Murder of Little Mary Phagan (not shown)",
       "node_kind": "artifact",
       "episode": 14
     },

@@ -1,0 +1,306 @@
+[
+ {
+  "id": "N-121",
+  "name": "Range Day Bro",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "YouTube channel; viral Kirk-shot analysis video confirmed (magica.com summary)"
+ },
+ {
+  "id": "N-122",
+  "name": "Emily (Saves America)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Instagram handle Emily Saves America"
+ },
+ {
+  "id": "N-123",
+  "name": "Riverbend Ranch CEO",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "placeholder"
+ },
+ {
+  "id": "N-124",
+  "name": "Nikki Haley",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-125",
+  "name": "Mike Mitchell",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "former detective / family friend; consistent across episodes"
+ },
+ {
+  "id": "N-126",
+  "name": "\"Nick\" (UVU Student – Pseudonym)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "placeholder"
+ },
+ {
+  "id": "N-127",
+  "name": "Jonathan Swan",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-128",
+  "name": "Shane Lyman",
+  "verdict": "wrong",
+  "correct": "Shaner Broderick",
+  "source": "https://podpulse.ai/podcast/candace/candace-dead-or-alive-who-betrayed-charlie-kirk-ep-245",
+  "bad_aliases": [],
+  "note": "Phil Lyman's nephew who retraced the shooter's route; host corrected the name in ep12 ('I said his name was Shaner... His nephew Shaner Broderick'). Duplicate of N-132."
+ },
+ {
+  "id": "N-129",
+  "name": "Kayleigh McEnany",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-130",
+  "name": "Ian Carroll",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-131",
+  "name": "Susie Wiles",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Susie Wilds",
+   "Susy Wilds"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-132",
+  "name": "Shaner Broderick",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "confirmed in podcast summaries; ep13 'Shaner Broadick' is a mis-transcription"
+ },
+ {
+  "id": "N-133",
+  "name": "Gernot Omer",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "config/transcript_name_corrections.json already maps to 'Gernot Ohner'; could not confirm via search (exact 'Gernot Ohner' returned nothing; search budget then exhausted)"
+ },
+ {
+  "id": "N-134",
+  "name": "Robert Bohls",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "FBI Salt Lake City SAC"
+ },
+ {
+  "id": "N-135",
+  "name": "Andrew Zenger",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "CEO Timpanogos Regional Hospital, named Aug 2025 (mountainstar.com); not a surgeon"
+ },
+ {
+  "id": "N-136",
+  "name": "Judge Tony F. Graf Jr.",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-137",
+  "name": "Erika \"Erikica\" Mindel",
+  "verdict": "wrong",
+  "correct": "Erica Mindel",
+  "source": "https://en.wikipedia.org/wiki/Erica_Mindel",
+  "bad_aliases": [],
+  "note": "TikTok hate speech policy manager, ex-IDF"
+ },
+ {
+  "id": "N-138",
+  "name": "Florida Dab (X handle)",
+  "verdict": "wrong",
+  "correct": "Florida Dad (X handle @FLDadReborn)",
+  "source": "https://x.com/FLDadReborn",
+  "bad_aliases": [],
+  "note": "Sep 29 2025 reply to Megyn Kelly; Kelly's response https://x.com/megynkelly/status/1972821889740603582"
+ },
+ {
+  "id": "N-139",
+  "name": "Konstantin Kisin",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-140",
+  "name": "Debra Lea",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "conservative influencer at Netanyahu influencer meeting"
+ },
+ {
+  "id": "N-141",
+  "name": "Larry Ellison",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-142",
+  "name": "Michael Burt",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Tyler Robinson defense lawyer (per ep13 viewer comment); context claims attached to this node are off-topic"
+ },
+ {
+  "id": "N-143",
+  "name": "Unidentified Lyman-Family Woman (Shaner's aunt)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "placeholder"
+ },
+ {
+  "id": "N-144",
+  "name": "Kyle Undercover",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "X handle; not found in search"
+ },
+ {
+  "id": "N-145",
+  "name": "Olivia Robertson Cobb Bishop",
+  "verdict": "unresolved",
+  "bad_aliases": [
+   "Olivia Robertson cub Bishop"
+  ],
+  "note": "news coverage (WBIR via legit.ng) names her Olivia Bishop; full name as the host gives it unverified"
+ },
+ {
+  "id": "N-146",
+  "name": "Marjorie Taylor Greene",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-147",
+  "name": "Theo Von",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Theo Vaughn"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-148",
+  "name": "James Comey",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-149",
+  "name": "Skordas",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Greg Skordas, Utah attorney"
+ },
+ {
+  "id": "N-150",
+  "name": "Clayton",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "first name only, no context; likely Clayton Morris (Redacted host) - not renamed"
+ },
+ {
+  "id": "N-151",
+  "name": "Taylor Budowich",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Taylor Budawick",
+   "Budawick"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-152",
+  "name": "David Warrington",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-153",
+  "name": "James Blair",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-154",
+  "name": "Robert J. O'Neill",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-155",
+  "name": "John Mappin",
+  "verdict": "ok",
+  "bad_aliases": [
+   "John Mappen"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-156",
+  "name": "Irina Mappin",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-157",
+  "name": "Conrad Flynn",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-158",
+  "name": "The Quartering",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-159",
+  "name": "Stanley Woodward",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Stanley Woodwick",
+   "Woodwick"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-160",
+  "name": "Blake Neff",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Blakey Neff",
+   "Blakey Nef"
+  ],
+  "note": ""
+ }
+]

@@ -1,0 +1,786 @@
+[
+ {
+  "claim": "C-1321",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1322",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1323",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Place name: transcript 'Sorenson building'; UVU building is the Sorensen Center (Sorensen Student Center). Otherwise matches: 'at 12:23 according to his metadata ... He calmly walked out'.",
+  "fix": {
+   "claim": "The host says that, according to the metadata of the footage Phil Lyman sent her, he was inside the Sorensen building at 12:23 and then calmly walked out rather than running.",
+   "names": [
+    {
+     "wrong": "Sorenson building",
+     "right": "Sorensen Center",
+     "source": "https://content.wbrz.com/news/conservative-activist-charlie-kirk-shot-at-an-event-at-utah-valley-university"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1324",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1325",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Name mis-transcribed: 'Gernot Omer' is Gernot Ohner (Austrian, ex-BearingPoint Graz, software engineer in Utah per his own site/GitHub). Rest matches 10:39 block.",
+  "fix": {
+   "claim": "The host says her team identified one of the two companions in the photo with Shaner Broderick as Gernot Ohner, whose face she says also matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.",
+   "label": "Host Says One of Two Companions in Photo With Shaner Broderick Is Gernot Ohner, via Face-Match to BearingPoint Graz Video",
+   "names": [
+    {
+     "wrong": "Gernot Omer",
+     "right": "Gernot Ohner",
+     "source": "https://gernot-ohner.github.io/about/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1326",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Name mis-transcribed: Gernot Omer -> Gernot Ohner (confirmed via his site/GitHub: Austrian, lives in Utah). 'In May of 2024, he moved to Utah to become a software engineer for JP Morgan and Chase' matches.",
+  "fix": {
+   "claim": "The host says that, according to Gernot Ohner's LinkedIn profile, he moved to Utah in May 2024 to take a software engineer position with JP Morgan Chase.",
+   "label": "Host Says Gernot Ohner's LinkedIn States He Moved to Utah in May 2024 for a JP Morgan Chase Software Engineer Job",
+   "names": [
+    {
+     "wrong": "Gernot Omer",
+     "right": "Gernot Ohner",
+     "source": "https://gernot-ohner.github.io/about/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1327",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Organisation name garbled: 'Buzzard and Bees' is Buzzards and Bees, Provo festival whose opening party is Goth Prom. Otherwise matches 'from Belfast, Northern Ireland ... one hit ... in Provo, Utah'.",
+  "fix": {
+   "claim": "A viewer in Belfast, Northern Ireland, emailed the host that an internet-wide search of the unidentified companion's face returned a single hit in Provo, Utah, on a website pertaining to bees; the host says that site, Buzzards and Bees, is a Gothic underground in Provo discussing a Gothic prom.",
+   "label": "A Belfast viewer matched the second companion's face via a facial-recognition search to a single result in Provo, Utah – on the \"Buzzards and Bees\" gothic-prom page.",
+   "names": [
+    {
+     "wrong": "Buzzard and Bees",
+     "right": "Buzzards and Bees",
+     "source": "https://www.buzzardsandbees.com/goth-prom"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1328",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1329",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Article headline only says Patel 'gutted the Utah FBI leadership before Charlie Kirk's assassination'; the host then says 'He fired the chief among other people and replaced her with Robert Bohls in August' - Bohls detail is hers, not clearly the article's.",
+  "fix": {
+   "claim": "Per a Daily Mail article the host shows, FBI Director Kash Patel gutted the Utah FBI leadership before Charlie Kirk's assassination; the host says Patel fired the chief, among other people, and replaced her with Robert Bohls in August."
+  }
+ },
+ {
+  "claim": "C-1330",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1331",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1332",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1333",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Name mis-transcribed: 'Gernot Omer' is Gernot Ohner (Austrian, BearingPoint Graz, now Utah, per gernot-ohner.github.io). Blog match statement otherwise accurate.",
+  "fix": {
+   "claim": "The host says her team found that the face of the individual identified as Gernot Ohner matched photos in a German-language blog post on a 10-year hiking anniversary.",
+   "label": "Gernot Ohner's face was matched to a German-language blog post titled \"Anniversary Hike, 10 Years on Foot to the Sea\" featuring a group of 30-year-olds recreating a hike taken at age 20.",
+   "names": [
+    {
+     "wrong": "Gernot Omer",
+     "right": "Gernot Ohner",
+     "source": "https://gernot-ohner.github.io/about/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1334",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1335",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9258",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9259",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9260",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9261",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9262",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9263",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9264",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9265",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9266",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9267",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9268",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9269",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9270",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9271",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9272",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Content ~09:30, about 65s after 08:25; within tolerance.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9273",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9274",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9275",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9276",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9277",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Clip: 'He came off the roof. He walked up ... to the parking lot, got in the car with an individual and they drove away.' 'that's not the story that came was that he escaped another route.' Claim drops the car detail, the point of contrast.",
+  "fix": {
+   "claim": "The host plays Phil Lyman telling Alex Jones that someone had reported video of a man coming off the roof, walking to the parking lot and driving away in a car with another individual, that this is not the story that came out, that he escaped another route, and that people are coordinating this."
+  }
+ },
+ {
+  "claim": "C-9278",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9279",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Timestamp borderline: 'probably above me on the roof' ~15:50, about 70s after 14:40; within tolerance.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9280",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9281",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9282",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Organisation name garbled: 'Buzzard and Bees' is Buzzards and Bees (Provo festival with Goth Prom). Match statement accurate: 'I am certain can't say 100% ... this is a match ... The ears, the chin'.",
+  "fix": {
+   "claim": "The host says a side-by-side of the Buzzards and Bees page and the companion photo is a match on ears and chin, though she cannot be 100 percent certain until the person is named.",
+   "names": [
+    {
+     "wrong": "Buzzard and Bees",
+     "right": "Buzzards and Bees",
+     "source": "https://www.buzzardsandbees.com/goth-prom"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-9283",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9284",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9285",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9286",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9287",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9288",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9289",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9290",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9291",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9292",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9293",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9294",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9295",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9296",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: 'a brand new CEO and had surgeon named Andrew Zenger' (garbled). 'who is also a surgeon' is an interpretation; Zenger is a hospital administrator (ex-COO St. Mark's), CEO from Aug 25, 2025.",
+  "fix": {
+   "claim": "The host says the hospital had just announced a brand new CEO named Andrew Zenger."
+  }
+ },
+ {
+  "claim": "C-9297",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9298",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9299",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9300",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9301",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9302",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

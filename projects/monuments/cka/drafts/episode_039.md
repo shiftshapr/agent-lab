@@ -348,7 +348,7 @@ Investigative Pressure: Medium
 
 *Related: A-1480.1, C-1808, N-297, N-10306*
 
-**N-297** Christopher Mosley
+**N-297** Christopher Moseley
 
 Per Vanity Fair, killed Las Vegas prostitute at Lisa Dean DuPont's direction; died in prison.
 
@@ -980,11 +980,11 @@ Investigative Direction: Confirm against public court records of the John DuPont
 
 ---
 
-**C-1808** Per Vanity Fair Reporting Host Relays, Lisa Dean DuPont and Christopher Mosley Ordered Killing of Las Vegas Prostitute
+**C-1808** Per Vanity Fair Reporting Host Relays, Lisa Dean DuPont and Christopher Moseley Ordered Killing of Las Vegas Prostitute
 
 Claim Timestamp: 00:10:39
 
-Claim: Per Dominic Dunne's Vanity Fair reporting as the host relays it, Lisa Dean DuPont and her husband Christopher Mosley ordered the killing of a Las Vegas prostitute whose body was found in a motel air conditioner, with the money tracing to the DuPont family; the host says both John DuPont and Mosley died in prison.
+Claim: Per Dominic Dunne's Vanity Fair reporting as the host relays it, Lisa Dean DuPont and her husband Christopher Moseley ordered the killing of a Las Vegas prostitute whose body was found in a motel air conditioner, with the money tracing to the DuPont family; the host says both John DuPont and Mosley died in prison.
 
 Anchored Artifacts: A-1480.1
 Mentions: N-296, N-297, N-295

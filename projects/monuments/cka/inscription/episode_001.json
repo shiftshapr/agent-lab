@@ -954,7 +954,7 @@
       "@id": "C-1116",
       "ref": "C-1116",
       "label": "Charlie's relationship with Kanye included gift of Yeezys",
-      "claim": "Charlie Kirk was gifted a pair of Yeezys by Kanye West and was photographed wearing them, per a photo shown in the episode.",
+      "claim": "The host says Kanye West gave Charlie Kirk a pair of Yeezys and shows a photo of Charlie wearing them.",
       "anchored_artifacts": [
         "A-1078.1"
       ],
@@ -1067,8 +1067,8 @@
       "@type": "Claim",
       "@id": "C-1119",
       "ref": "C-1119",
-      "label": "Charlie approved of George after one evening in the UK",
-      "claim": "After a single evening with Candace's then-boyfriend George, Charlie Kirk texted that George and Candace were 'meant for each other,' per a shown text chain.",
+      "label": "Charlie Approved of George After One Evening",
+      "claim": "After a single evening with George, Charlie Kirk texted that George and Candace were 'meant for each other,' per a shown text chain.",
       "anchored_artifacts": [
         "A-1079.2"
       ],
@@ -1114,7 +1114,7 @@
       "@id": "C-1121",
       "ref": "C-1121",
       "label": "Host Says Kanye's Power Was the TPUSA Tour Hype Song",
-      "claim": "The host says Kanye West's 'Power' became the de facto theme/hype song for the Turning Point USA tour, played before stage events and during pre-event prep.",
+      "claim": "The host says Kanye West's 'Power' became the de facto theme/hype song for the Turning Point USA tour, played before they went on stage.",
       "anchored_artifacts": [
         "A-1077.1",
         "A-1080.1"
@@ -1163,7 +1163,7 @@
       "@id": "C-3719",
       "ref": "C-3719",
       "label": "Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate",
-      "claim": "The host recounts that Don Jr. and Eric Trump teased Charlie Kirk about his ill-fitting suits and eventually gave him a gift certificate, she believes for his birthday, to a fancy suit place to get fitted.",
+      "claim": "The host recounts that Don Jr., and she thinks Eric Trump, teased Charlie Kirk about his ill-fitting suits and eventually gave him a gift certificate, she believes for his birthday, to a fancy suit place to get fitted.",
       "anchored_artifacts": [
         "A-2514.1"
       ],
@@ -1411,8 +1411,8 @@
       "@type": "Claim",
       "@id": "C-13457",
       "ref": "C-13457",
-      "label": "Host Says a Bigger Name Texted That He Would Not Share the Stage With the New Girl",
-      "claim": "The host says she saw messages light up the phone of a better-known headliner, who is not named, saying they did not want to do the event with the new girl Charlie had hired.",
+      "label": "Host Says a Bigger Name Messaged That They Would Not Share the Stage With the New Girl",
+      "claim": "The host says she saw messages light up on Charlie's phone from a better-known headliner, who is not named, saying they did not want to do the event with the new girl Charlie had hired.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -1808,8 +1808,8 @@
       "@type": "Claim",
       "@id": "C-13475",
       "ref": "C-13475",
-      "label": "Clip Shows a Protester Telling the Host Charlie Kirk Is Not Your Friend",
-      "claim": "In a clip the host plays, a protester says that if you aren't wealthy, white and male, Charlie Kirk is not your friend, after which the host and Charlie banter with the protester.",
+      "label": "Clip Shows the Host and Charlie Bantering With a Protester Over a Sign",
+      "claim": "In a clip the host plays of her sitting in front of a protester's sign, the line 'If you aren't wealthy, white and male, Charlie Kirk is not your friend' is spoken, after which the host and Charlie banter with the protester.",
       "anchored_artifacts": [
         "A-1077.4"
       ],

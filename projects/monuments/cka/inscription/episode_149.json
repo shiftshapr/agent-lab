@@ -1528,7 +1528,7 @@
       "@type": "Person",
       "@id": "N-366",
       "ref": "N-366",
-      "name": "Diligent Dennison",
+      "name": "Diligent Denizen",
       "type": "person",
       "description": "Citizen journalist who released a waiter interview and the receipt.",
       "related_artifacts": [],
@@ -3533,7 +3533,7 @@
       "@type": "Claim",
       "@id": "C-14911",
       "ref": "C-14911",
-      "label": "Host Says Diligent Dennison Released a Waiter Interview and Receipt After Being Accused of Lying",
+      "label": "Host Says Diligent Denizen Released a Waiter Interview and Receipt After Being Accused of Lying",
       "claim": "The host says the citizen journalist Diligent Denizen released an interview with one of the waiters working that night and then the receipt because people were saying he was lying.",
       "anchored_artifacts": [
         "A-2433.4"

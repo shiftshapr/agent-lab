@@ -274,7 +274,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-307** Sara Zaafarani
+**N-307** Sarra Zaafrani
 
 Tunisian Prime Minister. Photographed with President El-Sisi in Egypt on September 10, 2025, per host assertion; used as alibi for El-Sisi.
 

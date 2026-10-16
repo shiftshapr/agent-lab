@@ -565,9 +565,9 @@ Confidence Level: Low
 
 ---
 
-**A-2829** Wilkins Lawsuit Against Elijah Schaefer Reference Bundle
+**A-2829** Wilkins Lawsuit Against Elijah Schaffer Reference Bundle
 
-**A-2829.1** Host verbal reference to the lawsuit filed against Elijah Schaefer over a joke and the lawsuit's reference to his anti-Israel rhetoric (not shown)
+**A-2829.1** Host verbal reference to the lawsuit filed against Elijah Schaffer over a joke and the lawsuit's reference to his anti-Israel rhetoric (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:45:12
@@ -824,7 +824,7 @@ Jack Hibbs' brother, whom the host says was everywhere before and after the assa
 
 ---
 
-**N-248** Elijah Schaefer
+**N-248** Elijah Schaffer
 
 Defendant in the lawsuit the host says concerns a joke.
 
@@ -2386,13 +2386,13 @@ Investigative Direction: Identify the person (the host does not name him) and ve
 
 ---
 
-**C-6664** Host Says the Lawsuit against Elijah Schaefer Is About a Joke and Cites His Anti-Israel Rhetoric
+**C-6664** Host Says the Lawsuit against Elijah Schaffer Is About a Joke and Cites His Anti-Israel Rhetoric
 
 Claim Timestamp: 00:45:12
 
-Claim: The host says the lawsuit against Elijah Schaefer, which she says Kash Patel is backing for his girlfriend, is about a joke, and that the lawsuit itself talks about Schaefer's anti-Israel rhetoric.
+Claim: The host says the lawsuit against Elijah Schaffer, which she says Kash Patel is backing for his girlfriend, is about a joke, and that the lawsuit itself talks about Schaefer's anti-Israel rhetoric.
 
-Transcript Snippet: that's what Elijah Schaefer's lawsuit is about. It's a joke. And in the lawsuit, they talk about his anti-Israel rhetoric.
+Transcript Snippet: that's what Elijah Schaffer's lawsuit is about. It's a joke. And in the lawsuit, they talk about his anti-Israel rhetoric.
 
 Anchored Artifacts: A-2829.1
 Mentions: N-248, N-213, N-69, N-3

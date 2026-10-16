@@ -367,7 +367,7 @@ Investigative Pressure: Low (as source only)
 
 ---
 
-**N-252** Robin Taylor
+**N-252** Rob Taylor
 
 Lou Taylor's husband; pastor at Calvary Chapel Brentwood per Brett Cooper segment. Transcript renders the name in three different forms (Robin, Rob, Luke); the same individual is plainly referenced. Multiple occurrences warrant separate recording correction.
 
@@ -736,7 +736,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-248** Elijah Schaefer
+**N-248** Elijah Schaffer
 
 Existing node reused for new claims in this episode.
 
@@ -1482,19 +1482,19 @@ Investigative Direction: Obtain hospital or court records, or statements from Ka
 
 ---
 
-**C-10857** Host Cites Lawfare Bankruptcy Strategy and Says It Applies to Elijah Schaefer
+**C-10857** Host Cites Lawfare Bankruptcy Strategy and Says It Applies to Elijah Schaffer
 
 Claim Timestamp: 00:23:03
 
-Claim: The host says another way critics are controlled is lawfare that bankrupts them, and that what is happening to Elijah Schaefer is relevant to this.
+Claim: The host says another way critics are controlled is lawfare that bankrupts them, and that what is happening to Elijah Schaffer is relevant to this.
 
-Transcript Snippet: another way that they accomplish this is via lawfare, they will bankrupt you. Okay, this is why what's happening to Elijah Schaefer, this is relevant.
+Transcript Snippet: another way that they accomplish this is via lawfare, they will bankrupt you. Okay, this is why what's happening to Elijah Schaffer, this is relevant.
 
 Anchored Artifacts: 
 Mentions: N-3, N-248
 Related Nodes: N-11275
 Tags: relevance:context
-Investigative Direction: Review the legal actions against Elijah Schaefer and their funding.
+Investigative Direction: Review the legal actions against Elijah Schaffer and their funding.
 
 ---
 

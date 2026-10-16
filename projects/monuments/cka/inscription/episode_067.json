@@ -286,7 +286,7 @@
           "@type": "Artifact",
           "@id": "A-1723.1",
           "ref": "A-1723.1",
-          "description": "WikiLeaks-released email from Katherine Tate to John Podesta referencing \"a handkerchief\" that \"seems pizza-related\" and \"weird specific orders of pizza and hot dogs\"",
+          "description": "WikiLeaks-released email from Kathryn Tate to John Podesta referencing \"a handkerchief\" that \"seems pizza-related\" and \"weird specific orders of pizza and hot dogs\"",
           "related_claims": [
             "C-2272"
           ],
@@ -1099,7 +1099,7 @@
       "@type": "Person",
       "@id": "N-531",
       "ref": "N-531",
-      "name": "Katherine Tate",
+      "name": "Kathryn Tate",
       "type": "person",
       "description": "Sender of pizza-referencing email to John Podesta released via WikiLeaks.",
       "related_artifacts": [
@@ -2799,8 +2799,8 @@
       "@type": "Claim",
       "@id": "C-2272",
       "ref": "C-2272",
-      "label": "WikiLeaks Email From Katherine Tate to Podesta References Pizza-Related Handkerchief",
-      "claim": "The host reads an email she says was sent to John Podesta by Katherine Tate, published by WikiLeaks, saying a realtor found a handkerchief, \"I think it has a map that seems pizza-related\", and mentioning \"weird specific orders of pizza and hot dogs.\"",
+      "label": "WikiLeaks Email From Kathryn Tate to Podesta References Pizza-Related Handkerchief",
+      "claim": "The host reads an email she says was sent to John Podesta by Kathryn Tate, published by WikiLeaks, saying a realtor found a handkerchief, \"I think it has a map that seems pizza-related\", and mentioning \"weird specific orders of pizza and hot dogs.\"",
       "anchored_artifacts": [
         "A-1723.1"
       ],

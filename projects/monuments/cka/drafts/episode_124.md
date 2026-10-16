@@ -966,7 +966,7 @@ Bill Ackman (captioned Bill Ackman); the host says he put Netanyahu on the phone
 
 ---
 
-**N-366** Diligent Dennison
+**N-366** Diligent Denizen
 
 Researcher the host credits with speaking to the waiter in Panguitch.
 
@@ -2487,13 +2487,13 @@ Investigative Direction: Find the Kolvet statements about Lance Twiggs the comme
 
 ---
 
-**C-7271** Host Says Diligent Dennison Spoke to the Waiter in Panguitch
+**C-7271** Host Says Diligent Denizen Spoke to the Waiter in Panguitch
 
 Claim Timestamp: 01:16:57
 
-Claim: The host says Diligent Dennison went and spoke to the waiter in Panguitch and that more was going to come out about it.
+Claim: The host says Diligent Denizen went and spoke to the waiter in Panguitch and that more was going to come out about it.
 
-Transcript Snippet: Diligent Dennison went and spoke to the waiter uh down at in Panguitch. More was going to be coming out about that.
+Transcript Snippet: Diligent Denizen went and spoke to the waiter uh down at in Panguitch. More was going to be coming out about that.
 
 Anchored Artifacts: 
 Mentions: N-3, N-366

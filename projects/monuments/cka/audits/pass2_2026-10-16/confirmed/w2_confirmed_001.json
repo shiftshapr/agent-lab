@@ -1,0 +1,578 @@
+[
+ {
+  "claim": "C-10813",
+  "episode": 13,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host reads a reply from Kisin saying he demands nothing of Kelly and asks why lies told by prominent people on the right should not be challenged like lies on the left, and Kelly answering that his response proves the opposite."
+  },
+  "note": "Claim spelling fix OK; 'Kissen' is not in the transcript and 'Constant kissing' may be wordplay, so no name rule."
+ },
+ {
+  "claim": "C-1354",
+  "episode": 14,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the post by FBI Director Kash Patel that the host reads, James Comey wrote love letters to the ADL and embedded FBI agents with it, the ADL ran disgraceful ops spying on Americans, that era is over, and the FBI will not partner with political fronts masquerading as watchdogs."
+  },
+  "note": "Matches the tweet the host reads at 09:33."
+ },
+ {
+  "claim": "C-7838",
+  "episode": 14,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the ADL was born out of a Jewish Freemason organization known as B'nai B'rith.",
+   "names": [
+    {
+     "wrong": "Benith",
+     "right": "B'nai B'rith",
+     "source": "https://en.wikipedia.org/wiki/B%27nai_B%27rith"
+    }
+   ]
+  },
+  "note": "Benith = B'nai B'rith; ADL founded by B'nai B'rith."
+ },
+ {
+  "claim": "C-7842",
+  "episode": 14,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Mary Phagan Was a 13-Year-Old Pencil Factory Worker Found Raped in 1913",
+   "claim": "The host says Mary Phagan was a 13-year-old Catholic girl who worked at Leo Frank's Atlanta pencil factory and was found brutally raped in 1913.",
+   "names": [
+    {
+     "wrong": "Mary Fagan",
+     "right": "Mary Phagan",
+     "source": "https://en.wikipedia.org/wiki/Murder_of_Mary_Phagan"
+    }
+   ]
+  },
+  "note": "Phagan is the victim's spelling; Fagan is phonetic."
+ },
+ {
+  "claim": "C-7845",
+  "episode": 14,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says a Book About Mary Phagan Was Written by a Relative of the Same Name",
+   "claim": "The host says the book The Murder of Little Mary Phagan was written by a relative of the victim who is also named Mary Phagan, and recommends it as a source.",
+   "names": [
+    {
+     "wrong": "Mary Fagan",
+     "right": "Mary Phagan",
+     "source": "https://jewishsouth.org/node/677"
+    }
+   ]
+  },
+  "note": "Book is The Murder of Little Mary Phagan (author Phagan, M.)."
+ },
+ {
+  "claim": "C-7852",
+  "episode": 14,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the ADL curiously removed the Azov battalion, which she says carves swastikas and murders people, from its hate list.",
+   "names": [
+    {
+     "wrong": "AOV battalion",
+     "right": "Azov battalion",
+     "source": "https://en.wikipedia.org/wiki/Azov_Brigade"
+    }
+   ]
+  },
+  "note": "HappyScribe ep 247 has 'Azov battalion'."
+ },
+ {
+  "claim": "C-7870",
+  "episode": 14,
+  "decision": "amend",
+  "fix": {
+   "label": "Host Says Gernot Ohner Is an Austrian Software Engineer Tied to Lyman's Relative and Shaner's Instagram",
+   "claim": "The host says Gernot Ohner was with a relative of Phil Lyman's (she says uncle, cousin, nephew), is a software engineer from Austria, and was featured in Shaner's Instagram.",
+   "names": [
+    {
+     "wrong": "Gauer",
+     "right": "Gernot Ohner",
+     "source": "https://podcasts.happyscribe.com/candace/insanity-guess-who-kash-patel-sent-to-investigate-charlie-kirk-s-assassination-ep-247 \"Same for Gernot owner.\""
+    }
+   ]
+  },
+  "note": "HappyScribe: 'Gernot owner'; existing rule Gernot Omer->Gernot Ohner. Right value must be a plain name."
+ },
+ {
+  "claim": "C-7882",
+  "episode": 14,
+  "decision": "amend",
+  "fix": {
+   "claim": "Lane says Skordas is running as a state prosecutor, that it is on his website, and that his finding a lawyer for Robinson is highly unethical.",
+   "names": [
+    {
+     "wrong": "Scordies",
+     "right": "Skordas",
+     "source": "https://www.abc4.com/news/charlie-kirk-shooting/utah-county-attorney-tyler-robinson/amp"
+    },
+    {
+     "wrong": "Squortis",
+     "right": "Skordas",
+     "source": "https://www.abc4.com/news/charlie-kirk-shooting/utah-county-attorney-tyler-robinson/amp"
+    }
+   ]
+  },
+  "note": "ABC4 confirms Skordas finding Robinson's counsel; dropped parenthetical from right value, added 'Squortis' variant."
+ },
+ {
+  "claim": "C-1368",
+  "episode": 15,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per the X post the host shows, Tyler Bowyer said the host 'took a sentence and made something up' and that TPUSA audits every year and always has; the host replies that he is conflating the annual audit with the new DOGE department Charlie proposed.",
+   "mentions": [
+    "N-11",
+    "N-1"
+   ],
+   "names": [
+    {
+     "wrong": "DoJ department",
+     "right": "DOGE department",
+     "source": "https://podcasts.happyscribe.com/candace/10-candace-ep-248 \"establish a new Doge Department\""
+    }
+   ]
+  },
+  "note": "DOGE confirmed by HappyScribe ep 248; primetimer source would not open."
+ },
+ {
+  "claim": "C-1371",
+  "episode": 15,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:25:00"
+  },
+  "note": "Sentence falls ~25:06 in the 24:03 block; 25:00 is about 5s before."
+ },
+ {
+  "claim": "C-1372",
+  "episode": 15,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-99",
+    "N-1",
+    "N-5"
+   ]
+  },
+  "note": "Claim quotes 'Thank God Trump is president'."
+ },
+ {
+  "claim": "C-1373",
+  "episode": 15,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-99",
+    "N-69",
+    "N-379",
+    "N-1"
+   ]
+  },
+  "note": "Charlie named in the quote."
+ },
+ {
+  "claim": "C-1374",
+  "episode": 15,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-17",
+    "N-1"
+   ]
+  },
+  "note": "Charlie named in the claim."
+ },
+ {
+  "claim": "C-1379",
+  "episode": 15,
+  "decision": "amend",
+  "fix": {
+   "claim": "Alex Clark shared Tyler Bowyer's X post defending TPUSA on the DOGE department matter on her Instagram, which the host characterizes as \"half-truth PR spin.\"",
+   "names": [
+    {
+     "wrong": "DoJ department",
+     "right": "DOGE department",
+     "source": "https://podcasts.happyscribe.com/candace/10-candace-ep-248 \"establish a new Doge Department\""
+    }
+   ]
+  },
+  "note": "DOGE confirmed by HappyScribe ep 248; primetimer source would not open."
+ },
+ {
+  "claim": "C-6464",
+  "episode": 15,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-99",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Kirk named in the claim."
+ },
+ {
+  "claim": "C-6485",
+  "episode": 15,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host reads an X user's plea that Tyler Bowyer file for security footage of the sequence before Tyler Robinson's jump-off from the Losee Center to corroborate the story.",
+   "label": "X User Begs Bowyer to Seek Losee Center Security Footage",
+   "names": [
+    {
+     "wrong": "Loews building",
+     "right": "Losee building",
+     "source": "https://podcasts.happyscribe.com/candace/10-candace-ep-248 \"pre-jump off the Losey building\"; https://www.highereddive.com/news/kirk-shooter-appeared-to-fire-from-roof-of-university-Losee-student-services-buil/759937/"
+    }
+   ]
+  },
+  "note": "Losee confirmed (HappyScribe 'Losey building', Higher Ed Dive). Rule keeps the spoken word 'building'."
+ },
+ {
+  "claim": "C-6489",
+  "episode": 15,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that when Alex Clark made it seem like the host lied about the new DOGE department, the host had literally shared the email from Charlie.",
+   "names": [
+    {
+     "wrong": "DOJ department",
+     "right": "DOGE department",
+     "source": "https://podcasts.happyscribe.com/candace/10-candace-ep-248 \"establish a new Doge Department\""
+    }
+   ]
+  },
+  "note": "DOGE right; cited ep 10 quote not found verbatim, source replaced with HappyScribe ep 248."
+ },
+ {
+  "claim": "C-6496",
+  "episode": 15,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that when she showed Charlie's internal email she read everything related to the DOGE department but not the paragraph where he announced that Justin Streiff would be COO.",
+   "names": [
+    {
+     "wrong": "DOJ department",
+     "right": "DOGE department",
+     "source": "https://podcasts.happyscribe.com/candace/10-candace-ep-248 \"establish a new Doge Department\""
+    }
+   ]
+  },
+  "note": "DOGE right; cited ep 10 quote not found verbatim, source replaced with HappyScribe ep 248."
+ },
+ {
+  "claim": "C-1395",
+  "episode": 16,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-30",
+    "N-155"
+   ]
+  },
+  "note": "Irina is not referred to in the claim."
+ },
+ {
+  "claim": "C-1405",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "label": "Yashar Ali Publicly Attempted to Contextualize Hammer's Retweet as Referring to Iryna Zarutska",
+   "claim": "The host reads a post she says Yashar Ali wrote, asserting that Josh Hammer's retweet of the 2013 Trump post was tied to the murder of Iryna Zarutska and that many conservatives were sharing and saying similar things the day before.",
+   "names": [
+    {
+     "wrong": "Iryna Zhuravska",
+     "right": "Iryna Zarutska",
+     "source": "https://www.mediaite.com/media/news/candace-owens-targets-jewish-conservative-in-latest-charlie-kirk-conspiracy/"
+    }
+   ]
+  },
+  "note": "Zarutska confirmed by Mediaite and HappyScribe ep 250."
+ },
+ {
+  "claim": "C-1406",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Iryna Zarutska Was Murdered August 22 and Footage Was Released and Trended September 5",
+   "claim": "The host says Iryna Zarutska was murdered on August 22, 2025, her perpetrator was arrested the same day, and the footage was released and trended on X on September 5, 2025.",
+   "names": [
+    {
+     "wrong": "Iryna Zhuravska",
+     "right": "Iryna Zarutska",
+     "source": "https://www.mediaite.com/media/news/candace-owens-targets-jewish-conservative-in-latest-charlie-kirk-conspiracy/"
+    }
+   ]
+  },
+  "note": "Zarutska confirmed by Mediaite and HappyScribe ep 250."
+ },
+ {
+  "claim": "C-1408",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Hammer Did Not Advocate the Death Penalty in His Iryna Zarutska Commentary",
+   "claim": "The host says that at no point she could determine, on the news, on his own show or anywhere else, did Josh Hammer speak about the death penalty or a public execution regarding the Iryna Zarutska case, and that he instead spoke about media double standards, criminality and safety; she then plays a clip of Hammer with host Gabriel.",
+   "names": [
+    {
+     "wrong": "Iryna Zhuravska",
+     "right": "Iryna Zarutska",
+     "source": "https://www.mediaite.com/media/news/candace-owens-targets-jewish-conservative-in-latest-charlie-kirk-conspiracy/"
+    }
+   ]
+  },
+  "note": "Zarutska confirmed by Mediaite and HappyScribe ep 250."
+ },
+ {
+  "claim": "C-1409",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Iryna Zhuravska",
+     "right": "Iryna Zarutska",
+     "source": "https://www.mediaite.com/media/news/candace-owens-targets-jewish-conservative-in-latest-charlie-kirk-conspiracy/"
+    }
+   ]
+  },
+  "note": "Zarutska confirmed by Mediaite and HappyScribe ep 250."
+ },
+ {
+  "claim": "C-1412",
+  "episode": 17,
+  "decision": "amend",
+  "fix": {
+   "claim": "On JTV (in an interview with host Ollie), Josh Hammer stated that what he thinks were Charlie Kirk's last words to him referenced his intent to plug Hammer's book \"Israel and Civilization\" in response to Israel-related questions on the campus tour.",
+   "names": [
+    {
+     "wrong": "a host named Ali",
+     "right": "a host named Ollie",
+     "source": "https://podcasts.happyscribe.com/candace/charlie-s-final-hours \"with a host named Ollie\""
+    },
+    {
+     "wrong": "Israel and Civilization, Ali",
+     "right": "Israel and Civilization, Ollie",
+     "source": "https://podcasts.happyscribe.com/candace/charlie-s-final-hours"
+    },
+    {
+     "wrong": "book came out\\. Ali,",
+     "right": "book came out. Ollie,",
+     "source": "https://podcasts.happyscribe.com/candace/charlie-s-final-hours \"Ollie, he referred to my book\""
+    }
+   ]
+  },
+  "note": "'Ollie' confirmed by HappyScribe; surname Anisfeld unresolved (X source would not open). A bare Ali rule would hit Yashar Ali."
+ },
+ {
+  "claim": "C-9326",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host displays a collage of Josh Hammer posts and reads one saying there is a \"repulsive op\" to hijack Charlie Kirk's legacy, plus a second saying people are trying to posthumously convert Charlie to \"Groyperism\".",
+   "names": [
+    {
+     "wrong": "Groperism",
+     "right": "Groyperism",
+     "source": "https://x.com/josh_hammer/status/1967963653086548437"
+    }
+   ]
+  },
+  "note": "Groyperism; HappyScribe has 'groiperism'."
+ },
+ {
+  "claim": "C-9332",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says another X user asserted that the footage of Iryna Zarutska's murder was released on September 9 and that this was why Hammer posted, and the host says this is untrue because the footage was released and trended on September 5.",
+   "names": [
+    {
+     "wrong": "Iryna Zhuravska",
+     "right": "Iryna Zarutska",
+     "source": "https://www.mediaite.com/media/news/candace-owens-targets-jewish-conservative-in-latest-charlie-kirk-conspiracy/"
+    }
+   ]
+  },
+  "note": "Zarutska confirmed by Mediaite and HappyScribe ep 250."
+ },
+ {
+  "claim": "C-9334",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she could find no point at which Josh Hammer, on the news, on his own show or elsewhere, spoke about the death penalty or a public execution in connection with the Iryna Zarutska case.",
+   "names": [
+    {
+     "wrong": "Iryna Zhuravska",
+     "right": "Iryna Zarutska",
+     "source": "https://www.mediaite.com/media/news/candace-owens-targets-jewish-conservative-in-latest-charlie-kirk-conspiracy/"
+    }
+   ]
+  },
+  "note": "Zarutska confirmed by Mediaite and HappyScribe ep 250."
+ },
+ {
+  "claim": "C-9335",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Hammer Himself Posted Several Times About the Zarutska Homicide",
+   "claim": "The host says Hammer himself sent multiple tweets about the Iryna Zarutska homicide, as many users did, because it was trending after the footage appeared on September 5.",
+   "names": [
+    {
+     "wrong": "Iryna Zhuravska",
+     "right": "Iryna Zarutska",
+     "source": "https://www.mediaite.com/media/news/candace-owens-targets-jewish-conservative-in-latest-charlie-kirk-conspiracy/"
+    }
+   ]
+  },
+  "note": "Zarutska confirmed by Mediaite and HappyScribe ep 250."
+ },
+ {
+  "claim": "C-9337",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Matt Walsh went on his show and further explained his post, saying men have a visceral response when a woman is victimized the way Iryna Zarutska was.",
+   "names": [
+    {
+     "wrong": "Iryna Zhuravska",
+     "right": "Iryna Zarutska",
+     "source": "https://www.mediaite.com/media/news/candace-owens-targets-jewish-conservative-in-latest-charlie-kirk-conspiracy/"
+    }
+   ]
+  },
+  "note": "Zarutska confirmed by Mediaite and HappyScribe ep 250."
+ },
+ {
+  "claim": "C-9341",
+  "episode": 17,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-55",
+    "N-1"
+   ]
+  },
+  "note": "The JTV host is not referred to in the claim. Name fix dropped: Anisfeld unresolved, and the 'Ali' rule is handled in C-1412."
+ },
+ {
+  "claim": "C-9342",
+  "episode": 17,
+  "decision": "amend",
+  "fix": {
+   "label": "JTV Interviewer Ollie Says Candace Chose to Hijack Charlie's Death to Blame Israel",
+   "claim": "In a JTV clip the host plays, interviewer Ollie tells Hammer that, as Hammer mentioned, there have been people like Ian Carroll and Candace Owens, and that Candace 'has chosen to hijack his death right now to blame it on Israel.'"
+  },
+  "note": "'Ollie' confirmed by HappyScribe ep 250; surname Anisfeld unresolved. Name rules are in C-1412."
+ },
+ {
+  "claim": "C-1429",
+  "episode": 18,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per Andrew Kolvet's tweet the host reads, the surgeon stated the bullet should have exited, that people behind Charlie could have been killed, and characterized the outcome as \"an absolute miracle.\""
+  },
+  "note": "Claim fix right; the name fix re-applies the existing Andrew Kolbatz rule, so it is dropped."
+ },
+ {
+  "claim": "C-13907",
+  "episode": 18,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Erwin Steele and others of the Steele family were involved in the story and that it turns out the Steeles are big with Caldera Engineering."
+  },
+  "note": "Claim fix right (HappyScribe: Erwin Steele); the Irwin Steel->Erwin Steele rule already exists, so the name fix is dropped."
+ },
+ {
+  "claim": "C-1468",
+  "episode": 19,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per text messages dated April 6, 2018 that the host reads aloud and says Charlie Kirk sent her, he wrote that he \"might not see this whole thing through,\" that he was \"not sure if I will live to see the end of this revolution,\" and that since the beginning of TPUSA he knew in his gut he \"might get wiped out at any time\" and dreamed about it all the time."
+  },
+  "note": "Attribution to the texts the host reads; wording matches 39:19."
+ },
+ {
+  "claim": "C-1473",
+  "episode": 19,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host shows a photo she says is of her and Charlie Kirk fishing in British Columbia, and says she thinks Donald Trump Jr., or possibly Corey Lewandowski, took the picture.",
+   "mentions": [
+    "N-33",
+    "N-3",
+    "N-1",
+    "N-394"
+   ]
+  },
+  "note": "Claim fix right; Corey Lewandowski is named and has node N-394."
+ },
+ {
+  "claim": "C-1487",
+  "episode": 19,
+  "decision": "reject",
+  "fix": {},
+  "note": "Unresolved: James Li not confirmed (X source would not open; HappyScribe also has 'James Lee')."
+ },
+ {
+  "claim": "C-1493",
+  "episode": 20,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:07:31",
+   "claim": "Per the April 21, 2018 morning text exchange the host shows, Candace wrote \"Please pick up\" (she says she was shaking) and Charlie wrote \"I am freaking the f out.\"",
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Timestamp and claim right (~07:36). Kanye is not referred to in the claim; Candace is named."
+ },
+ {
+  "claim": "C-1507",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Brigitte Macron is listed on French tax forms as Jean-Michel and as male, and cites a government official, Mr. Bromet, who recounted that she was stunned to learn her legal name had been changed when she logged into her personal tax account.",
+   "label": "Brigitte Macron is registered on French tax forms as \"Jean-Michel\" male",
+   "names": [
+    {
+     "wrong": "Jean Michelle",
+     "right": "Jean-Michel",
+     "source": "https://www.thepinknews.com/2025/10/28/hackers-change-brigitte-macrons-legal-name-to-jean-michel-on-her-tax-records"
+    }
+   ]
+  },
+  "note": "HappyScribe has 'Jean-Michel'; PinkNews confirms the name and Bromet."
+ },
+ {
+  "claim": "C-12190",
+  "episode": 20,
+  "decision": "reject",
+  "fix": {},
+  "note": "Unresolved: Jon Lewis spelling not confirmed (Crunchbase would not open; HappyScribe has 'John Lewis')."
+ },
+ {
+  "claim": "C-12198",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim does not refer to Charlie."
+ }
+]

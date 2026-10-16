@@ -1056,7 +1056,7 @@ Investigative Direction: Verify by reviewing the full Jesse Watters interview on
 
 Claim Timestamp: 00:37:40
 
-Claim: Kash Patel posted an extended X message defending his girlfriend Alexis Wilkins against criticism following reporting about his use of an FBI aircraft to travel to her events, asserting she is "a true patriot" and "country music sensation."
+Claim: Kash Patel posted an extended X message defending his girlfriend Alexis Wilkins against criticism after it emerged he flew the FBI plane to see her in Nashville, asserting she is "a true patriot" and "country music sensation."
 
 Anchored Artifacts: A-1319.1
 Mentions: N-69, N-213
@@ -1842,7 +1842,7 @@ Investigative Direction: Obtain carrier call and text logs for the relevant time
 
 Claim Timestamp: 00:33:19
 
-Claim: The host says Tyler Bowyer was late-night tweeting at donors over the weekend, directing his fire at John Mappin and Irina Mappin, and that someone called John Mappin a loser (the subject is unclear in the transcript).
+Claim: The host says Tyler Bowyer was late-night tweeting at donors over the weekend and that she thinks he directed his fire at John Mappin and Irina Mappin, and that someone called John Mappin a loser (the subject is unclear in the transcript).
 
 Transcript Snippet: Tyler Bowyer late-night tweeting at donors as he did over the weekend. I think he directed his fire at like John Mappin and Irina Mappin called John Mappin a loser.
 

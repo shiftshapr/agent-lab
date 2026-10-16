@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-Episode 30 centers on three documentary threads tied to artifact presentations. First, the host plays Megyn Kelly's tour Q&A clip in which Megyn publicly corrects Ben Shapiro's claim that Candace had accused Erika Kirk of murder, and presents Megyn's backstage video in which Charlie Kirk is heard saying "Go Max" to Tucker Carlson prior to his Student Action Summit speech. Second, the host plays a Frank Turek interview segment identifying the previously anonymous "old man talking to a bush" pre-event as Butch Hibbs, brother of Pastor Jack Hibbs, and presents a photograph of Hibbs with Kirk taken approximately twenty minutes before the shooting. Third, the host reads directly from the Alexis Wilkins lawsuit against Elijah Schaefer, citing a September 14, 2025 Hen Mazig X post and a Schaefer response photograph as the underlying basis of the $5 million action.
+Episode 30 centers on three documentary threads tied to artifact presentations. First, the host plays Megyn Kelly's tour Q&A clip in which Megyn publicly corrects Ben Shapiro's claim that Candace had accused Erika Kirk of murder, and presents Megyn's backstage video in which Charlie Kirk is heard saying "Go Max" to Tucker Carlson prior to his Student Action Summit speech. Second, the host plays a Frank Turek interview segment identifying the previously anonymous "old man talking to a bush" pre-event as Butch Hibbs, brother of Pastor Jack Hibbs, and presents a photograph of Hibbs with Kirk taken approximately twenty minutes before the shooting. Third, the host reads directly from the Alexis Wilkins lawsuit against Elijah Schaffer, citing a September 14, 2025 Hen Mazzig X post and a Schaefer response photograph as the underlying basis of the $5 million action.
 
 The episode also introduces several unanchored investigative threads (UVU outdoor venue selection timeline, Mikey McCoy first name, TPUSA Faith / Calvary Chapel military pipeline pattern, Timpanogos vs. Utah Valley Hospital record-sharing systems, TPUSA email-tracking software claim) which are recorded as investigation target nodes rather than claims because no in-episode artifact anchors them. A Kanye West "Defcon 3" tweet is read aloud and is recorded as a standalone artifact per the read/display rule.
 
@@ -126,7 +126,7 @@ Confidence Level: Medium
 
 **A-1385** Alexis Wilkins Lawsuit Bundle
 
-**A-1385.1** Alexis Wilkins lawsuit filing (read aloud in episode) seeking $5 million against Elijah Schaefer and other content creators over honeypot allegations.
+**A-1385.1** Alexis Wilkins lawsuit filing (read aloud in episode) seeking $5 million against Elijah Schaffer and other content creators over honeypot allegations.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -136,7 +136,7 @@ Confidence Level: High
 
 *Related: C-1677, N-213, N-248, N-69*
 
-**A-1385.2** Hen Mazig X post dated September 14, 2025 describing the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.
+**A-1385.2** Hen Mazzig X post dated September 14, 2025 describing the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -146,7 +146,7 @@ Confidence Level: High
 
 *Related: C-1678, N-249*
 
-**A-1385.3** Elijah Schaefer X post of a photograph of Alexis Wilkins and Kash Patel, posted in response to the Hen Mazig X post.
+**A-1385.3** Elijah Schaffer X post of a photograph of Alexis Wilkins and Kash Patel, posted in response to the Hen Mazzig X post.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -380,7 +380,7 @@ Investigative Pressure: Medium
 
 **N-213** Alexis Wilkins
 
-Plaintiff in the $5 million lawsuit against content creators including Elijah Schaefer; subject of the Hen Mazig post and the Schaefer photograph response.
+Plaintiff in the $5 million lawsuit against content creators including Elijah Schaffer; subject of the Hen Mazzig post and the Schaefer photograph response.
 
 Evidence Count: 2
 Claim Count: 3
@@ -391,9 +391,9 @@ Investigative Pressure: Medium
 
 ---
 
-**N-248** Elijah Schaefer
+**N-248** Elijah Schaffer
 
-Content creator defendant in the Alexis Wilkins lawsuit; posted photograph of Wilkins and Patel in response to Hen Mazig X post.
+Content creator defendant in the Alexis Wilkins lawsuit; posted photograph of Wilkins and Patel in response to Hen Mazzig X post.
 
 Evidence Count: 2
 Claim Count: 2
@@ -404,7 +404,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-249** Hen Mazig
+**N-249** Hen Mazzig
 
 Ex-user (X account holder) who published the September 14, 2025 post describing female Mossad agents in Israeli intelligence operations against Iran.
 
@@ -458,7 +458,7 @@ Investigative Pressure: Medium
 
 **N-10245** Alexis Wilkins Honeypot Allegation Lawsuit
 
-Persistent investigative target concerning the $5 million Wilkins lawsuit against Elijah Schaefer and other content creators over "honeypot" allegations, including the Hen Mazig X post and Schaefer photograph cited within the complaint.
+Persistent investigative target concerning the $5 million Wilkins lawsuit against Elijah Schaffer and other content creators over "honeypot" allegations, including the Hen Mazzig X post and Schaefer photograph cited within the complaint.
 
 Evidence Count: 3
 Claim Count: 3
@@ -1049,11 +1049,11 @@ Investigative Direction: Obtain UVU event-services correspondence and any intern
 
 ---
 
-**C-1677** Host Says Alexis Wilkins Filed a $5 Million Lawsuit Against Elijah Schaefer and Other Content Creators Over Honeypot Allegations
+**C-1677** Host Says Alexis Wilkins Filed a $5 Million Lawsuit Against Elijah Schaffer and Other Content Creators Over Honeypot Allegations
 
 Claim Timestamp: 00:37:38
 
-Claim: The host says Alexis Wilkins filed a $5 million lawsuit against Elijah Schaefer and other content creators over honeypot allegations related to her relationship with Kash Patel.
+Claim: The host says Alexis Wilkins filed a $5 million lawsuit against Elijah Schaffer and other content creators over honeypot allegations related to her relationship with Kash Patel.
 
 Anchored Artifacts: A-1385.1
 Mentions: N-69, N-213, N-248
@@ -1064,25 +1064,25 @@ Investigative Direction: Obtain the filed complaint and docket from the relevant
 
 ---
 
-**C-1678** Hen Mazig X post on September 14, 2025 described female Mossad agents in Israeli intelligence operations
+**C-1678** Hen Mazzig X post on September 14, 2025 described female Mossad agents in Israeli intelligence operations
 
 Claim Timestamp: 00:37:38
 
-Claim: Per the lawsuit the host reads, a September 14, 2025 X post by Hen Mazig described the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.
+Claim: Per the lawsuit the host reads, a September 14, 2025 X post by Hen Mazzig described the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.
 
 Anchored Artifacts: A-1385.2
 Mentions: N-249
 
 
-Investigative Direction: Verify the original Hen Mazig post via archived snapshots and any subsequent posts by Mazig on the same topic.
+Investigative Direction: Verify the original Hen Mazzig post via archived snapshots and any subsequent posts by Mazig on the same topic.
 
 ---
 
-**C-1679** Elijah Schaefer posted a photo of Alexis Wilkins and Kash Patel in response to the Hen Mazig X post
+**C-1679** Elijah Schaffer posted a photo of Alexis Wilkins and Kash Patel in response to the Hen Mazzig X post
 
 Claim Timestamp: 00:37:38
 
-Claim: Per the lawsuit the host reads, Elijah Schaefer responded to the Hen Mazig X post by posting a photograph of Alexis Wilkins and Kash Patel.
+Claim: Per the lawsuit the host reads, Elijah Schaffer responded to the Hen Mazzig X post by posting a photograph of Alexis Wilkins and Kash Patel.
 
 Anchored Artifacts: A-1385.3
 Mentions: N-69, N-213, N-248, N-249
@@ -1952,7 +1952,7 @@ Investigative Direction: Obtain the filed complaint and verify the quoted paragr
 
 Claim Timestamp: 00:37:38
 
-Claim: The host says that in some circumstances the defendants did not explicitly call Alexis Wilkins a honeypot and only posted a picture, as in the case of Elijah Schaefer.
+Claim: The host says that in some circumstances the defendants did not explicitly call Alexis Wilkins a honeypot and only posted a picture, as in the case of Elijah Schaffer.
 
 Transcript Snippet: they didn't even explicitly call her a honeypot. They just posted a picture.
 

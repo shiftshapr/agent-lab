@@ -1,0 +1,532 @@
+[
+ {
+  "claim": "C-1140",
+  "episode": 2,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she has been told that a screwdriver was found on the roof."
+  },
+  "note": "Transcript 46:10: \"we have been told that a screwdriver was found on the roof\"; hearsay, not an investigators' report."
+ },
+ {
+  "claim": "C-1160",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-37",
+    "N-1",
+    "N-66"
+   ]
+  },
+  "note": "Claim credits Village Crazy Lady (N-66) by name at 50:12; she belongs in Mentions."
+ },
+ {
+  "claim": "C-1165",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says an X user she does not name, saying only that she goes by 'the gay who's straight', tweeted a thread a week before Charlie Kirk died about how Kirk had to distance himself from Tucker Carlson, calls her one of the people creating online pressure, and paraphrases the thread as saying Kirk was going to ruin his company.",
+   "label": "Host Says an X User Pressured Charlie to Distance From Tucker Carlson",
+   "mentions": [
+    "N-1",
+    "N-22"
+   ]
+  },
+  "note": "Thread author is \"this chick... the gay who's straight\" (01:01:34-39), not Laura Loomer; Loomer not referred to here."
+ },
+ {
+  "claim": "C-3723",
+  "episode": 3,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host recalls an online debate over a recently engaged woman she believes was named Sarah Stockton [Sarah Stock], whose ring was mocked as too small, and says those Hamptons attendees never mentioned being there for a Turning Point weekend.",
+   "label": "Hamptons Attendee Ring Debate Around Sarah Stock"
+  },
+  "note": "Host herself says Stockton (HappyScribe agrees); Aug 2025 ring feud was Sarah Stock (Daily Beast, Primetimer). Keep her words, bracket correct name; no names rule."
+ },
+ {
+  "claim": "C-1190",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the BBC article the host reads, Sherri Steele, who lives across the street from the residence, came back from an evening walk to see a large police presence, and a loud voice shouting 'Freeze!' and helicopters were above her house.",
+   "names": [
+    {
+     "wrong": "Sherry Steel",
+     "right": "Sherri Steele",
+     "source": "https://www.ladbible.com/news/us-news/charlie-kirk-suspect-tyler-robinson-neighbours-grandmother-171362-20250915"
+    }
+   ]
+  },
+  "note": "Sherri Steele confirmed by LADbible/BBC report of same \"Freeze! Come out now!\" quote; host says \"Sheri Steele\"; spelling only."
+ },
+ {
+  "claim": "C-1199",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her team looked through databases for a 'Sherri Steele' at the building complex and contacted a family to see if they knew the name, and that she cannot find such a woman living there or the footage the BBC mentions.",
+   "names": [
+    {
+     "wrong": "Sherry Steel",
+     "right": "Sherri Steele",
+     "source": "https://www.ladbible.com/news/us-news/charlie-kirk-suspect-tyler-robinson-neighbours-grandmother-171362-20250915"
+    }
+   ]
+  },
+  "note": "Same neighbour; Sherri Steele confirmed (LADbible quoting BBC). Rest of claim matches 18:49-19:12."
+ },
+ {
+  "claim": "C-1203",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her team found that Samuel Steele and his wife Carrie own the house that gave the footage that appeared on TMZ, not Erwin Steele, though Erwin says he lives in that house.",
+   "names": [
+    {
+     "wrong": "Irwin Steel",
+     "right": "Erwin Steele",
+     "source": "https://www.fox13now.com/news/local-news/northern-utah/atf-police-go-door-to-door-in-orem-neighborhood-searching-for-surveillance-footage"
+    }
+   ]
+  },
+  "note": "Fox 13 and Fox News name the Orem neighbour Erwin Steele; Irwin/Erwin is a spelling error. Samuel/Carrie unresolved, left as is."
+ },
+ {
+  "claim": "C-11932",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Erwin Steele clip is from the morning after the shooting and TMZ had already publicized the footage, which she says means either the feds collected it the night before and gave it to TMZ, or Steele gave it to TMZ before the feds.",
+   "names": [
+    {
+     "wrong": "Irwin Steel",
+     "right": "Erwin Steele",
+     "source": "https://www.foxnews.com/us/charlie-kirk-assassination-authorities-collect-home-surveillance-video-may-show-killer-fleeing-scene"
+    }
+   ]
+  },
+  "note": "Erwin Steele confirmed (Fox News, Fox 13)."
+ },
+ {
+  "claim": "C-11933",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Erwin Steele says he lives in the house that gave the footage, but she found other Steeles living there.",
+   "label": "Host Says Erwin Steele Claims to Live in a House Owned by Others, Where Other Steeles Live",
+   "names": [
+    {
+     "wrong": "Irwin Steel",
+     "right": "Erwin Steele",
+     "source": "https://www.foxnews.com/us/charlie-kirk-assassination-authorities-collect-home-surveillance-video-may-show-killer-fleeing-scene"
+    }
+   ]
+  },
+  "note": "Erwin Steele confirmed (Fox News, Fox 13); claim otherwise matches 15:05."
+ },
+ {
+  "claim": "C-11937",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the BBC article the host reads, Sherry Steel showed the BBC a video in which a loud voice she said belonged to the authorities can be heard shouting \"Freeze!\" and \"come out now\"; the host says the BBC is not publishing the video."
+  },
+  "note": "Steele showing the video and voice \"belongs to the authorities\" are read from the BBC article (17:08); only \"not publishing\" is the host's."
+ },
+ {
+  "claim": "C-11980",
+  "episode": 5,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says a man she calls \"a Shillman guy\" (Robert Shillman) said he wanted his name off the building at Turning Point, and that in the 48 hours leading up to Charlie's assassination they were squeezing him over whom he was allowed to speak to.",
+   "mentions": [
+    "N-98",
+    "N-1"
+   ],
+   "names": [
+    {
+     "wrong": "Schulman guy",
+     "right": "Shillman guy",
+     "source": "https://scheerpost.com/2025/09/24/top-pro-israel-tpusa-donor-terminated-support-for-kirk-in-days-before-death-sources-say/"
+    }
+   ]
+  },
+  "note": "Shillman confirmed (ScheerPost/Grayzone: building to bear his name, pulled support days before). \"48 hours\" goes with the squeezing sentence. Add N-98, N-1; narrow rule."
+ },
+ {
+  "claim": "C-1206",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:03:05"
+  },
+  "note": "\"Right there, an individual standing there... calmly talking into their phone\" starts 03:07; 03:05 is fine."
+ },
+ {
+  "claim": "C-1212",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a PBD podcast clip the host plays, a guest, Eric Bolling, says Candace Owens' credibility is going to go \"down the tubes\" because she needs to bring receipts, and a speaker in the clip adds that Bill Ackman brought receipts.",
+   "mentions": [
+    "N-3",
+    "N-37",
+    "N-57",
+    "N-72"
+   ]
+  },
+  "note": "Host names the PBD guest as Eric Bolling (ep5 38:37, 44:12; ep6 20:36)."
+ },
+ {
+  "claim": "C-3772",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the PBD clip the host replays at 00:25:42–00:25:55, the line that Candace Owens' credibility is going \"down the tubes because she needs to bring receipts\" is spoken by the PBD guest, Eric Bolling, who goes straight on to say Bill Ackman \"brought receipts\" and refers to him in the third person (\"I think he was there in the room\"). Bill Ackman is cited in the clip, not speaking, so C-1212's attribution of the line to \"Bill Ackman\" (Bill Ackman, N-37) is contradicted.",
+   "mentions": [
+    "N-37",
+    "N-3",
+    "N-57",
+    "N-72"
+   ]
+  },
+  "note": "Same clip; guest is Eric Bolling per host (ep5 38:37, 44:12)."
+ },
+ {
+  "claim": "C-1213",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a PBD podcast clip the host plays, a guest, Eric Bolling, asked whether he is on the board of Turning Point, says yes, that he last saw Candace Owens in person in 2015 or 2016, and that she was last at a Turning Point event not in many years.",
+   "mentions": [
+    "N-3",
+    "N-57",
+    "N-72"
+   ]
+  },
+  "note": "Guest answering about the Turning Point board is Eric Bolling (ep5 44:12 \"Board member Eric Bolling\")."
+ },
+ {
+  "claim": "C-1231",
+  "episode": 7,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:12:19"
+  },
+  "note": "Jones clip starts 12:24; 12:19 is ~5s before."
+ },
+ {
+  "claim": "C-1267",
+  "episode": 9,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the old text message chain the host shows, she told Charlie the UK flights were $450 in coach or $1,200 in first class, and he replied, 'Wow, let's book it.'"
+  },
+  "note": "Exchange is shown from an old text chain (10:10-10:23); fix attributes it and adds his reply, which is in transcript."
+ },
+ {
+  "claim": "C-1272",
+  "episode": 9,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per comments the host shows from the scraped record, Crooks wrote on one video about 'lining up a bunch of socialist Jews... and blasting their useless brains out with an AR', and on a YouTube video that every Trump-hating Democrat 'deserves to have their heads chopped off and put on stakes'."
+  },
+  "note": "Comments are shown by host (23:31, 23:48); only the second is said to be on YouTube. Quotes match."
+ },
+ {
+  "claim": "C-13687",
+  "episode": 9,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Margaret Schzes",
+     "right": "Margarethe Schurz",
+     "source": "https://en.wikipedia.org/wiki/Margarethe_Schurz"
+    }
+   ]
+  },
+  "note": "\"Margaret Schzes\" garbled; Margarethe Schurz founded first US kindergarten (Wikipedia). No existing rule; claim already correct."
+ },
+ {
+  "claim": "C-3632",
+  "episode": 10,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:20:52",
+   "claim": "Per an internal TPUSA memo signed by Charlie Kirk on September 2, 2025 that the host reads, Justin Streiff was elevated to COO and empowered to engage in an organization-wide DOGE effort, assembling a small team to make TPUSA more efficient and cost-effective, unify it around company-wide metrics and goals, and reshape company culture."
+  },
+  "note": "Memo reading starts 20:57; fix wording follows the memo text 21:37-21:55."
+ },
+ {
+  "claim": "C-1293",
+  "episode": 10,
+  "decision": "accept",
+  "fix": {
+   "claim": "Host cites an Emily Saves America post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.",
+   "names": [
+    {
+     "wrong": "Deruso",
+     "right": "DuRousseau",
+     "source": "https://www.prageru.com/videos/remembering-charlie-kirk-debunking-the-hamptons-hoax"
+    }
+   ]
+  },
+  "note": "DuRousseau spelling confirmed (Wikipedia); no existing rule for \"Deruso\"; platform not stated in transcript, so drop Instagram."
+ },
+ {
+  "claim": "C-3731",
+  "episode": 10,
+  "decision": "amend",
+  "fix": {
+   "claim": "Responding to Xaviaer DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.",
+   "names": [
+    {
+     "wrong": "Xavier Deruso",
+     "right": "Xaviaer DuRousseau",
+     "source": "https://en.wikipedia.org/wiki/Xaviaer_DuRousseau"
+    }
+   ]
+  },
+  "note": "DuRousseau spelling confirmed; also drop the empty \"(transcript: Natasha Hausdorff)\" aside."
+ },
+ {
+  "claim": "C-13788",
+  "episode": 10,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:27:02"
+  },
+  "note": "Marine-friend video intro at 27:05; 27:02 is fine."
+ },
+ {
+  "claim": "C-1297",
+  "episode": 11,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:04:00",
+   "claim": "The host says Tyler Robinson refers to it as his car, not his vehicle, in the 2022 police bodycam footage she plays, in which his mother is said to have to \"shuttle over from where she's at to her car\", which she contrasts with the vocabulary of the federal text messages."
+  },
+  "note": "HappyScribe: \"car, not his vehicle\" and bodycam audio are in the 04:04 block; shuttle quote matches."
+ },
+ {
+  "claim": "C-1303",
+  "episode": 11,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:12:21",
+   "mentions": [
+    "N-40",
+    "N-54"
+   ]
+  },
+  "note": "HappyScribe 12:26 block has Lance's \"forgot to post... boyfriend is the best\"; Lance Twiggs (N-54) is named."
+ },
+ {
+  "claim": "C-1304",
+  "episode": 11,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:20:00",
+   "claim": "Per the retirement-celebration post the host shows, Detective Mike Mitchell served Washington County for \"over 24 years … starting in the jail back in 1999.\""
+  },
+  "note": "HappyScribe: post reading starts about three-quarters into the 19:14-20:27 block (~20:05), so 00:20:00 not 19:50. Post names Washington County."
+ },
+ {
+  "claim": "C-1305",
+  "episode": 11,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:20:25",
+   "claim": "The host says that despite a career of 25 years in the police force she could not find a single trace of Mike Mitchell in old newspapers, and presents the retirement post as the only trace of him she could find."
+  },
+  "note": "HappyScribe 18:00 \"career of 25 years... single trace\" and 20:27 \"only trace of this guy\"; claim fixed accordingly."
+ },
+ {
+  "claim": "C-1309",
+  "episode": 11,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:31:25"
+  },
+  "note": "HappyScribe: Lyman clip starts 31:29 block; 31:25 is right."
+ },
+ {
+  "claim": "C-1323",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, according to the metadata of the footage Phil Lyman sent her, he was inside the Sorensen building at 12:23 and then calmly walked out rather than running.",
+   "names": [
+    {
+     "wrong": "Sorenson building",
+     "right": "Sorensen Center",
+     "source": "https://content.wbrz.com/news/conservative-activist-charlie-kirk-shot-at-an-event-at-utah-valley-university"
+    }
+   ]
+  },
+  "note": "UVU building is the Sorensen Center (WBRZ: \"Sorensen Center courtyard\"); Sorenson is a spelling error."
+ },
+ {
+  "claim": "C-1325",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her team identified one of the two companions in the photo with Shaner Broderick as Gernot Ohner, whose face she says also matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.",
+   "label": "Host Says One of Two Companions in Photo With Shaner Broderick Is Gernot Ohner, via Face-Match to BearingPoint Graz Video",
+   "names": [
+    {
+     "wrong": "Gernot Omer",
+     "right": "Gernot Ohner",
+     "source": "https://gernot-ohner.github.io/about/"
+    }
+   ]
+  },
+  "note": "Headline USA lawsuit coverage names Broderick's roommate Gernot Ohner; his site shows BearingPoint and Graz."
+ },
+ {
+  "claim": "C-1326",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, according to Gernot Ohner's LinkedIn profile, he moved to Utah in May 2024 to take a software engineer position with JP Morgan Chase.",
+   "label": "Host Says Gernot Ohner's LinkedIn States He Moved to Utah in May 2024 for a JP Morgan Chase Software Engineer Job",
+   "names": [
+    {
+     "wrong": "Gernot Omer",
+     "right": "Gernot Ohner",
+     "source": "https://gernot-ohner.github.io/about/"
+    }
+   ]
+  },
+  "note": "Gernot Ohner confirmed (Headline USA; GitHub profile says Utah-based engineer)."
+ },
+ {
+  "claim": "C-1327",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer in Belfast, Northern Ireland, emailed the host that an internet-wide search of the unidentified companion's face returned a single hit in Provo, Utah, on a website pertaining to bees; the host says that site, Buzzards and Bees, is a Gothic underground in Provo discussing a Gothic prom.",
+   "label": "A Belfast viewer matched the second companion's face via a facial-recognition search to a single result in Provo, Utah – on the \"Buzzards and Bees\" gothic-prom page.",
+   "names": [
+    {
+     "wrong": "Buzzard and Bees",
+     "right": "Buzzards and Bees",
+     "source": "https://www.buzzardsandbees.com/goth-prom"
+    }
+   ]
+  },
+  "note": "Provo Goth Prom site uses buzzardsandbees handles throughout; name is Buzzards and Bees."
+ },
+ {
+  "claim": "C-1333",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her team found that the face of the individual identified as Gernot Ohner matched photos in a German-language blog post on a 10-year hiking anniversary.",
+   "label": "Gernot Ohner's face was matched to a German-language blog post titled \"Anniversary Hike, 10 Years on Foot to the Sea\" featuring a group of 30-year-olds recreating a hike taken at age 20.",
+   "names": [
+    {
+     "wrong": "Gernot Omer",
+     "right": "Gernot Ohner",
+     "source": "https://gernot-ohner.github.io/about/"
+    }
+   ]
+  },
+  "note": "Gernot Ohner confirmed (Headline USA lawsuit coverage; his own site)."
+ },
+ {
+  "claim": "C-9282",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a side-by-side of the Buzzards and Bees page and the companion photo is a match on ears and chin, though she cannot be 100 percent certain until the person is named.",
+   "names": [
+    {
+     "wrong": "Buzzard and Bees",
+     "right": "Buzzards and Bees",
+     "source": "https://www.buzzardsandbees.com/goth-prom"
+    }
+   ]
+  },
+  "note": "Buzzards and Bees confirmed (buzzardsandbees.com goth prom, Provo)."
+ },
+ {
+  "claim": "C-1340",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "claim": "In footage recorded by Shaner Broderick, his aunt (identified as a Lyman family member) states on camera that she wondered if \"the girl\" had given the shooter items and that there might have been an accomplice.",
+   "names": [
+    {
+     "wrong": "Shaner Broadick",
+     "right": "Shaner Broderick",
+     "source": "https://www.deseret.com/utah/2026/09/29/robert-hild-vs-candace-owens-lawsuit/"
+    }
+   ]
+  },
+  "note": "Shaner Broderick confirmed (Deseret News, Headline USA); \"Broadick\" not covered by the existing Shainer rule."
+ },
+ {
+  "claim": "C-1347",
+  "episode": 13,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per the X post the host shows, an account identifying as \"Florida Dad\" told Megyn Kelly she must separate from Candace Owens, or \"many of us\" would separate from Kelly.",
+   "label": "\"Florida Dad\" Account on X Demanded Megyn Kelly Separate From Candace Owens",
+   "names": [
+    {
+     "wrong": "Florida Dab",
+     "right": "Florida Dad",
+     "source": "https://x.com/megynkelly/status/1972821889740603582"
+    }
+   ]
+  },
+  "note": "Account is Florida Dad (@FLDadReborn), confirmed via Kelly's reply thread. Name rule right side should be the spoken name only, not the handle."
+ },
+ {
+  "claim": "C-1348",
+  "episode": 13,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host shows a post in which Megyn Kelly replies to Florida Dad that she has no obligation to separate herself from anyone and that if he needs her to condemn Candace or Tucker for their opinions in order to listen to her, she may not be for him.",
+   "names": [
+    {
+     "wrong": "Florida Dab",
+     "right": "Florida Dad",
+     "source": "https://x.com/megynkelly/status/1972821889740603582"
+    }
+   ]
+  },
+  "note": "Florida Dad confirmed; keep handle out of the name rule so it does not go into the transcript."
+ },
+ {
+  "claim": "C-10776",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Tipster named \"another Lyman family member\"; Phil Lyman is not referred to in this claim."
+ },
+ {
+  "claim": "C-10783",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Phil Lyman said on a Fox News segment with Kayleigh McEnany that he was at a cousin's house watching live and seeing the footage for the first time, while the cousin had already given footage to TMZ.",
+   "names": [
+    {
+     "wrong": "Kaylee McEnany",
+     "right": "Kayleigh McEnany",
+     "source": "https://en.wikipedia.org/wiki/Kayleigh_McEnany"
+    }
+   ]
+  },
+  "note": "Transcript and N-129 spell Kayleigh McEnany; no existing rule for \"Kaylee McEnany\"."
+ }
+]

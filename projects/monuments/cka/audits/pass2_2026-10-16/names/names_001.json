@@ -1,0 +1,329 @@
+[
+ {
+  "id": "N-1",
+  "name": "Charlie Kirk",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-2",
+  "name": "Erika Kirk",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Ericka Kirk",
+   "Erikica Kirk"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-3",
+  "name": "Candace Owens",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Candace Owen"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-4",
+  "name": "JD Vance",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-5",
+  "name": "Donald Trump",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-6",
+  "name": "Elizabeth Lane",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Introduced as investigative journalist on Redacted (Clayton Morris) in the clip; no independent web source found (search budget exhausted)."
+ },
+ {
+  "id": "N-7",
+  "name": "Frank Turek",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-8",
+  "name": "Maycee Crofts",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Macy Crofts"
+  ],
+  "note": "TPUSA Senior Field Representative named in UVU after-action report (nationalfile.com, x.com/NihiloX)."
+ },
+ {
+  "id": "N-9",
+  "name": "Jeffrey Epstein",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-10",
+  "name": "Caleb Chilcutt",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Caleb Chilikut",
+   "Chilikut",
+   "Chiliket",
+   "Chilikit",
+   "Chilikate"
+  ],
+  "note": "UVU TPUSA chapter president (foxnews.com, deseret.com)."
+ },
+ {
+  "id": "N-11",
+  "name": "Tyler Bowyer",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-12",
+  "name": "Kip Crofts",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Kip Cross"
+  ],
+  "note": "Former Caldwell HS coach; charge dismissed (ktvb.com, kivitv.com)."
+ },
+ {
+  "id": "N-13",
+  "name": "Clara Molot",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Clara Malo",
+   "Claraara Malo"
+  ],
+  "note": "Byline of Vanity Fair 'The Widow's Peak' per ibtimes.co.uk."
+ },
+ {
+  "id": "N-14",
+  "name": "Andrew Kolvet",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Andrew Kolvet (also spelled Kolvetz in transcript)",
+   "Andrew Kovvette",
+   "Andrew Kvette",
+   "Andrew Colbet",
+   "Andrew Kolvats",
+   "Andrew Kovacs"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-15",
+  "name": "Justin Streiff",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Named COO in Sept 2, 2025 memo (x.com posts, primetimer.com)."
+ },
+ {
+  "id": "N-16",
+  "name": "Sergio Gor",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Sergio Gore"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-17",
+  "name": "Rob McCoy",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-18",
+  "name": "Andrew Wilson",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-19",
+  "name": "Laine Schoneberger",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Lane Shonberger"
+  ],
+  "note": "Yrefy co-founder/CIO (yrefy.com/about/team, buzzsprout.com)."
+ },
+ {
+  "id": "N-20",
+  "name": "Dylan Erickson",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Brother Austin Erickson confirmed at TPUSA (LinkedIn); no source found for Dylan's spelling (search budget exhausted)."
+ },
+ {
+  "id": "N-21",
+  "name": "Dennis Fenstermaker",
+  "verdict": "wrong",
+  "correct": "Donald Fenstermaker",
+  "source": "https://yrefy.com/about/team",
+  "bad_aliases": [
+   "Dennis Foster",
+   "Dennis Fster maker"
+  ],
+  "note": "Yrefy Chairman & CEO is Donald F. (Don) Fenstermaker (yrefy.com team page, MA securities consent order, LinkedIn 'Don Fenstermaker'). Host said 'Dennis' while reading the Daily Mail piece; could not check whether the article itself says Dennis."
+ },
+ {
+  "id": "N-22",
+  "name": "Tucker Carlson",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Tuck Carlson"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-23",
+  "name": "Alan Collinge",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Allan Khan",
+   "Allan Kh"
+  ],
+  "note": "Founder of Student Loan Justice."
+ },
+ {
+  "id": "N-24",
+  "name": "Riley Gaines",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Riley Gains"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-25",
+  "name": "Brian Cole Jr.",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Brian J. poll"
+  ],
+  "note": "Scripps: Brian J. Cole Jr., DC pipe-bomb suspect."
+ },
+ {
+  "id": "N-26",
+  "name": "Lori Jane Gliha",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Lori Jane Gleha"
+  ],
+  "note": "Scripps News correspondent (en.wikipedia.org/wiki/Lori_Jane_Gliha)."
+ },
+ {
+  "id": "N-27",
+  "name": "Kanye West",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-28",
+  "name": "Mitt Romney",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Pierre Delecto is Romney's real alias."
+ },
+ {
+  "id": "N-29",
+  "name": "Maggie Haberman",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-30",
+  "name": "George (Candace's husband)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Placeholder; husband is George Farmer."
+ },
+ {
+  "id": "N-31",
+  "name": "Rush Limbaugh",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-32",
+  "name": "Dave Rubin",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-33",
+  "name": "Donald Trump Jr.",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-34",
+  "name": "Eric Trump",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-35",
+  "name": "Sarah (Charlie's assistant)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Placeholder."
+ },
+ {
+  "id": "N-36",
+  "name": "Benjamin Netanyahu",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-37",
+  "name": "Bill Ackman",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Bill Blackman"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-38",
+  "name": "Seth Dillon",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-39",
+  "name": "Dave Smith",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-40",
+  "name": "Tyler Robinson",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ }
+]

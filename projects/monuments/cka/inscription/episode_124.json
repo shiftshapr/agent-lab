@@ -1694,7 +1694,7 @@
       "@type": "Person",
       "@id": "N-366",
       "ref": "N-366",
-      "name": "Diligent Dennison",
+      "name": "Diligent Denizen",
       "type": "person",
       "description": "Researcher the host credits with speaking to the waiter in Panguitch.",
       "related_artifacts": [],
@@ -3818,8 +3818,8 @@
       "@type": "Claim",
       "@id": "C-7271",
       "ref": "C-7271",
-      "label": "Host Says Diligent Dennison Spoke to the Waiter in Panguitch",
-      "claim": "The host says Diligent Dennison went and spoke to the waiter in Panguitch and that more was going to come out about it.",
+      "label": "Host Says Diligent Denizen Spoke to the Waiter in Panguitch",
+      "claim": "The host says Diligent Denizen went and spoke to the waiter in Panguitch and that more was going to come out about it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10381"
@@ -3829,7 +3829,7 @@
       ],
       "claim_timestamp": "01:16:57",
       "investigative_direction": "Obtain the waiter's account and the restaurant's order and payment times.",
-      "transcript_snippet": "Diligent Dennison went and spoke to the waiter uh down at in Panguitch. More was going to be coming out about that.",
+      "transcript_snippet": "Diligent Denizen went and spoke to the waiter uh down at in Panguitch. More was going to be coming out about that.",
       "supports_claim_refs": [
         "C-2004"
       ],

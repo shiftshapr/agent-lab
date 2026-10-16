@@ -1,0 +1,751 @@
+[
+ {
+  "claim": "C-13676",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "12:18-12:44 'talking about bees... very coded... Why do I feel like it's related to students?'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13677",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "14:15-14:19 said to husband 'we need to hire more security. And we did... that very week.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13678",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim ok (timeline Aug 30-Sep 9). Label reads as if she decided 'immediately before the assassination'; 'immediately' modifies homeschool.",
+  "fix": {
+   "label": "Host Says She Decided to Homeschool Immediately, Before the Assassination"
+  }
+ },
+ {
+  "claim": "C-13679",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Book-club clip of host (Sep 9): 'How do you hire people?' And they were like, 'You don't get to ask those questions.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13680",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "16:38 'a few days later, um, I was told and I I sensed instantly that there was like a hive of people'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13681",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "17:00-17:20 'Utah... modernized their bee flag... hexagonal beehive... in 2024 they modernized their flag'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13682",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "17:25-17:32 'not because they make honey... they rank number 24.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13683",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "17:37-17:43 'relates to the uh Mormon church... Early Mormon pioneers... beehive working toward a common good.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13684",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Causal 'made her connect' is added; she says worker bees sound communist, 'that's where it's from', her doom freaked her out, 'It's a Soviet symbol like the idea of making everybody into a worker be'.",
+  "fix": {
+   "claim": "The host says the idea of worker bees sounds communist, that it is a Soviet symbol of making everybody into a worker bee, and that her sense of doom about an underground left her totally freaked out."
+  }
+ },
+ {
+  "claim": "C-13685",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "18:11 'it is shaped by Soviet ideology.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13686",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Parenthetical '(transcribed as Thomas Sowell)' is redundant; transcript names Thomas Sowell correctly. Book is Sowell's Inside American Education.",
+  "fix": {
+   "claim": "The host recommends a book by Thomas Sowell on how the American education system came together and says it is neither left nor right."
+  }
+ },
+ {
+  "claim": "C-13687",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript 18:57 'Margaret Schzes's her family came here' = Margarethe Schurz (founded first US kindergarten; husband Carl Schurz a Forty-Eighter). Claim already correct.",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Margaret Schzes",
+     "right": "Margarethe Schurz",
+     "source": "https://en.wikipedia.org/wiki/Margarethe_Schurz"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-13688",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "19:04 'federalized the education system. These are the same people that pushed to make it so that homeschooling is not a thing'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13689",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "19:56 'I just feel it spiritually that these people are being programmed and perhaps that is the reason...protected by our government.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13690",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "20:18 'they're always working alone. There's no online history that we can reflect on.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13691",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "20:24-20:55 July 13, 2024 attempt; 'We were told Iran did this... they were all itching for war with Iran.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13692",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "21:12-21:25 'leading the forefront in investigating... lone shooter as it pertains to Charlie Kirk because it's not a lone shooter. It's a hive I feel spiritually.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13693",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "21:12 'Somebody reached out to me'; 21:25 'I had been able to scrape everything about Thomas Crooks before uh the feds uh got rid of everything.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13694",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "21:35 'it's shocking... there is no way this person was not on the federal radar.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13695",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "22:07-22:13 'He actually traded sides. He started actually as a Trump supporter.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13696",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "24:15 'this guy was a Trump supporter.' Then he does a radical transformation around 2020.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13697",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "24:20 'this had something to do with co he got very angry at Trump... people were reporting them on YouTube... absolutely insane'; later 'postco'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-13698",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "25:54 'we're never going to be told what therapists he was seeing.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13699",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "26:15 'for years he was documenting wanting to harm politicians and people that were on the left and... on the right.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13700",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "27:09-27:22 JFK comparison; 'using journalists to obscure... lying to the public... this time it's regarding Charlie Kirk.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13701",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "28:26 'I met the owner of Urban Ranch... with Charlie' = Riverbend Ranch (sponsor named at 27:47); claim already corrects it. 'years later... reading ads for them'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-13702",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "28:50 sponsor read, quoted accurately.",
+  "fix": {}
+ },
+ {
+  "claim": "C-13703",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "28:56 'according to the CDC's own data, the flu shot is moderately effective at best.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13704",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "29:08-29:23 kit with ivermectin, hydroxychloroquine, generic Zpack; 'I have a contingent emergency kit'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-13705",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "30:04-30:12 'He's back on air... a little timeout... shocked... people on the right... cheering on his cancellation.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13706",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Kimmel monologue plays Cruz: 'if the government gets in the business of saying... ban you from the airwaves... That will end up bad for conservatives.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13707",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "33:29 'these people who rule over us... They know they worship Luciferianism.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13708",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "33:35-33:42 'I honestly had wished that Charlie had reached out to me. Even though they did end up uh consulting a Catholic priest'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13709",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Kelly clip 34:15-34:27 'Jezebel is more than happy to be the hag of his nightmares.' And they went on to the website Etsy... 'Cast a curse on him.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13710",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Kelly: 'contacted a friend who I believe she said was a Catholic priest' - it is Kelly's belief about what Erika said; 'whom she believed' is ambiguous.",
+  "fix": {
+   "claim": "In the Megyn Kelly segment, Kelly says Charlie and Erika Kirk contacted a friend, who she believes Erika said was a Catholic priest, and asked him to come over and pray with them over Charlie the night before he was murdered."
+  }
+ },
+ {
+  "claim": "C-13711",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "35:10-35:15 Kelly: 'as she later told me, weapons will form but not prosper. that Satan and those witches have no power.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13712",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Kelly clip ends ~35:15; at 35:20 the host speaks ('just to add a little color') and quotes the writer. Claim correctly says host; label 'Segment Says' does not.",
+  "fix": {
+   "label": "Host Says the Jezebel Writer Said She Only Wanted Him to Wake Up With an Inexplicable Zit"
+  }
+ },
+ {
+  "claim": "C-13713",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "37:40 'even though we don't know who exactly was behind this. We know it was more than one person.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13714",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "38:18-38:22 'the assault on truth... rereading this book is reminding me of what is happening with Charlie Kirk'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13715",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "38:40 'the FBI has been warning homeowners about a type of real estate fraud that's on the rise, which is title theft.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13716",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "39:31 'their US-based restoration team will spend up to $1 million to fix it.' Sponsor called 'Home Title' (Home Title Lock).",
+  "fix": {}
+ },
+ {
+  "claim": "C-13717",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "40:18 'salary based mortgage consultants are saving customers an average of $800 a month.' Lender unnamed in transcript.",
+  "fix": {}
+ },
+ {
+  "claim": "C-13718",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript says 'Nexplanon' (correct); parenthetical is redundant and 'implant' is not said.",
+  "fix": {
+   "claim": "The host announces another Shot in the Dark episode going through birth control, which she says may be the worst one, naming Nexplanon."
+  }
+ },
+ {
+  "claim": "C-13719",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "40:54 'We are fighting people that are evil and their plans are to poison us and our offspring.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13720",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "41:12-41:18 'our Spanish YouTube is live... Gandas Owens and Espanol.' unresolved name: Gandas Owens and Espanol (likely Candace Owens en Español; not confirmed by web search).",
+  "fix": {}
+ },
+ {
+  "claim": "C-13721",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "41:22 'signed Blackout copies that are available 15% off on our website'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13722",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "41:52 'Warwick Spiller writes...'; 42:18 'it was a genuinely a mistake.' unresolved name: Warwick Spiller (viewer; no web match).",
+  "fix": {}
+ },
+ {
+  "claim": "C-13723",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Lighthouse: 'Some feel that Erika is faking her emotions'; host 42:34 'I've seen that... more gracious.' Public reaction to widow's grief is background, not the killing/investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13724",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "43:25-43:31 'the beehive represents a group that are working together for Christ. Thank you, Warick Spiller'. unresolved name: Warwick Spiller.",
+  "fix": {}
+ },
+ {
+  "claim": "C-13725",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "43:31 Natalie: 'my sister's neighbor is the daughter of a lady who sent the video to police of Tyler Robinson walking down a neighborhood street.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13726",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "43:49-44:00 'Could you send that to me?... tips inbox... Please send that to tips@... Natalie, please. I am begging you. He was with a woman.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13727",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript 44:06 reads 'Caldera Engineering video', not 'Calderira'; parenthetical is wrong.",
+  "fix": {
+   "claim": "The host says that, so far, only the Caldera Engineering video has been made public, which makes the report of a second person interesting."
+  }
+ },
+ {
+  "claim": "C-13728",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "45:25 'they were gaslighting people that were actually being raped'; 45:42 'you're protecting rapists and those people were outcast.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13729",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "47:05 'I think that's a little ridiculous and... only due to in large part some of the more sinister motives of the feminist movement'",
+  "fix": {}
+ },
+ {
+  "claim": "C-13730",
+  "episode": 9,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "47:17-47:22 'my sophomore book, which is coming out later this year.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-3632",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Memo reading begins 20:57 ('signed off by Charlie on September 2nd'), Streiff COO ~21:12, >20s before 21:37. Memo says 'Doge effort', four goals incl. metrics; 'audit' is the host's framing.",
+  "fix": {
+   "timestamp": "00:20:52",
+   "claim": "Per an internal TPUSA memo signed by Charlie Kirk on September 2, 2025 that the host reads, Justin Streiff was elevated to COO and empowered to engage in an organization-wide DOGE effort, assembling a small team to make TPUSA more efficient and cost-effective, unify it around company-wide metrics and goals, and reshape company culture."
+  }
+ },
+ {
+  "claim": "C-1286",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "00:01-00:13: 'he expressed some concerns about the finances... he wanted to put together... a little mini department... we have evidence of that.' 'had begun assembling' and 'unnamed insiders' are not in this passage.",
+  "fix": {
+   "claim": "The host says that a week before his assassination Charlie Kirk expressed concerns about TPUSA finances and wanted to put together a little mini department to address those concerns, and that she has evidence of that."
+  }
+ },
+ {
+  "claim": "C-1287",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "28:33 'that particular window doesn't open... I might be wrong'; 29:09-29:19 'from everything that I could see those windows don't open... then we should see broken glass.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-1288",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "27:54-28:20 host: 'that's actually not blood splatter... It's his necklace... That is Charlie's necklace chain.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-1289",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "30:20-30:41 'I sent somebody there on the ground to get me pictures of that bush today... you can kind of see through it... grainy... I am proddding that narrative.'",
+  "fix": {}
+ }
+]

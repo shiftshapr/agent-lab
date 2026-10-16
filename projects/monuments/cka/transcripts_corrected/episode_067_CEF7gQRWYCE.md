@@ -91,7 +91,7 @@ Uh look at I mean, probably books that obviously that you would never ever be ab
 
 [13:56]
 
-And they also won't criticize uh people like Jeffrey Epstein. Now, in case you did not pay attention to what was termed Pizzagate uh back in 2016, the the short of it is that the DNC email server got hacked. And off of those emails uh they were posted publicly, published publicly by Julian Assange, WikiLeaks. And there was a strange amount of references to pizza parties, government men, government employees, men uh referring to pizza in ways and within a context that made it seem as though they obviously were not referring to literal pizza, having had parties on ranches, and referring to pizza. I'm going to give you an example here. Uh this email what went to John Podesta. It was sent to him from someone named Katherine Tate. This is These are very old, obviously, or else we would have hidden her email.
+And they also won't criticize uh people like Jeffrey Epstein. Now, in case you did not pay attention to what was termed Pizzagate uh back in 2016, the the short of it is that the DNC email server got hacked. And off of those emails uh they were posted publicly, published publicly by Julian Assange, WikiLeaks. And there was a strange amount of references to pizza parties, government men, government employees, men uh referring to pizza in ways and within a context that made it seem as though they obviously were not referring to literal pizza, having had parties on ranches, and referring to pizza. I'm going to give you an example here. Uh this email what went to John Podesta. It was sent to him from someone named Kathryn Tate. This is These are very old, obviously, or else we would have hidden her email.
 
 [14:46]
 

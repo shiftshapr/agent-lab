@@ -54,7 +54,7 @@
           "@type": "Artifact",
           "@id": "A-1237.1",
           "ref": "A-1237.1",
-          "description": "Yashar Ali quote tweet characterizing Josh Hammer's retweet as referring to the murder of Iryna Zhuravska, and asserting other conservatives did the same day prior",
+          "description": "Yashar Ali quote tweet characterizing Josh Hammer's retweet as referring to the murder of Iryna Zarutska, and asserting other conservatives did the same day prior",
           "related_claims": [
             "C-1405",
             "C-1406"
@@ -157,7 +157,7 @@
           "@type": "Artifact",
           "@id": "A-1240.1",
           "ref": "A-1240.1",
-          "description": "Host-prepared timeline of nine Hammer X posts on September 9, 2025 covering (per host) Phillies story, Iryna Zhuravska media link, anti-Tucker post, pro-Israel / anti-Qatar and anti-Saudi posts, anti-Tucker second post, Hebrew Bible / Western civilization post, Supreme Court-media-appearance post, and final 9:09 p.m. ET retweet",
+          "description": "Host-prepared timeline of nine Hammer X posts on September 9, 2025 covering (per host) Phillies story, Iryna Zarutska media link, anti-Tucker post, pro-Israel / anti-Qatar and anti-Saudi posts, anti-Tucker second post, Hebrew Bible / Western civilization post, Supreme Court-media-appearance post, and final 9:09 p.m. ET retweet",
           "related_claims": [
             "C-1420"
           ],
@@ -400,7 +400,7 @@
           "@type": "Artifact",
           "@id": "A-1248.1",
           "ref": "A-1248.1",
-          "description": "On-screen collage of multiple Josh Hammer X posts displayed by host (not individually transcribed in transcript; host summarizes them as containing accusations of \"grifting,\" \"lying,\" \"hijacking\" Charlie's legacy, and the \"posthumous Groperism\" attack)",
+          "description": "On-screen collage of multiple Josh Hammer X posts displayed by host (not individually transcribed in transcript; host summarizes them as containing accusations of \"grifting,\" \"lying,\" \"hijacking\" Charlie's legacy, and the \"posthumous Groyperism\" attack)",
           "related_claims": [
             "C-1404"
           ],
@@ -452,7 +452,7 @@
           "@type": "Artifact",
           "@id": "A-1250.1",
           "ref": "A-1250.1",
-          "description": "Audio excerpt of Josh Hammer on a media show with host \"Gabriel\"; Hammer discusses Iryna Zhuravska case against backdrop of 2013 criminal-law school context; references Trump and criminal-justice reform debate; specifically addresses criminality/safety, not death-penalty advocacy",
+          "description": "Audio excerpt of Josh Hammer on a media show with host \"Gabriel\"; Hammer discusses Iryna Zarutska case against backdrop of 2013 criminal-law school context; references Trump and criminal-justice reform debate; specifically addresses criminality/safety, not death-penalty advocacy",
           "related_claims": [
             "C-1408"
           ],
@@ -625,7 +625,7 @@
       "@type": "Person",
       "@id": "N-163",
       "ref": "N-163",
-      "name": "Iryna Zhuravska",
+      "name": "Iryna Zarutska",
       "type": "person",
       "description": "Ukrainian refugee whose August 22, 2025 murder in Charlotte, North Carolina, became a major conservative-news topic; footage released/trended September 5. Used as the official anchor in Yashar Ali's attempt to contextualize Josh Hammer's September 9 retweet.",
       "related_artifacts": [
@@ -971,7 +971,7 @@
       "ref": "N-10174",
       "name": "Josh Hammer September 9 Retweet Context Investigation",
       "type": "investigation_target",
-      "description": "Persistent investigative target: whether the September 9, 2025 9:09 p.m. ET retweet (A-1236.1) had an articulable contextual anchor. Direct entries: host asserts none; Yashar Ali (A-1237.1) proposes Iryna Zhuravska anchor (disputed by host); Matt Walsh comparative (A-1238.1); Hammer's historical anchors (A-1239.2) demonstrate he has only previously invoked public execution in visceral real-time response (Uvalde 2022).",
+      "description": "Persistent investigative target: whether the September 9, 2025 9:09 p.m. ET retweet (A-1236.1) had an articulable contextual anchor. Direct entries: host asserts none; Yashar Ali (A-1237.1) proposes Iryna Zarutska anchor (disputed by host); Matt Walsh comparative (A-1238.1); Hammer's historical anchors (A-1239.2) demonstrate he has only previously invoked public execution in visceral real-time response (Uvalde 2022).",
       "related_artifacts": [
         "A-1236.1",
         "A-1237.1",
@@ -1094,7 +1094,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10179",
       "ref": "N-10179",
-      "name": "Iryna Zhuravska Murder Timeline Verification",
+      "name": "Iryna Zarutska Murder Timeline Verification",
       "type": "investigation_target",
       "description": "Investigation target: the public timeline of the August 22, 2025 Charlotte murder, arrest, and September 5 footage release. Episode uses this to falsify the Yashar Ali contextualization claim. Matt Walsh's September 5 tweet (A-1238.1) is documentary evidence of the date.",
       "related_artifacts": [
@@ -1918,8 +1918,8 @@
       "@type": "Claim",
       "@id": "C-1405",
       "ref": "C-1405",
-      "label": "Yashar Ali Publicly Attempted to Contextualize Hammer's Retweet as Referring to Iryna Zhuravska",
-      "claim": "The host reads a post she says Yashar Ali wrote, asserting that Josh Hammer's retweet of the 2013 Trump post was tied to the murder of Iryna Zhuravska and that many conservatives were sharing and saying similar things the day before.",
+      "label": "Yashar Ali Publicly Attempted to Contextualize Hammer's Retweet as Referring to Iryna Zarutska",
+      "claim": "The host reads a post she says Yashar Ali wrote, asserting that Josh Hammer's retweet of the 2013 Trump post was tied to the murder of Iryna Zarutska and that many conservatives were sharing and saying similar things the day before.",
       "anchored_artifacts": [
         "A-1237.1"
       ],
@@ -1940,8 +1940,8 @@
       "@type": "Claim",
       "@id": "C-1406",
       "ref": "C-1406",
-      "label": "Host Says Iryna Zhuravska Was Murdered August 22 and Footage Was Released and Trended September 5",
-      "claim": "The host says Iryna Zhuravska was murdered on August 22, 2025, her perpetrator was arrested the same day, and the footage was released and trended on X on September 5, 2025.",
+      "label": "Host Says Iryna Zarutska Was Murdered August 22 and Footage Was Released and Trended September 5",
+      "claim": "The host says Iryna Zarutska was murdered on August 22, 2025, her perpetrator was arrested the same day, and the footage was released and trended on X on September 5, 2025.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10179"
@@ -1975,8 +1975,8 @@
       "@type": "Claim",
       "@id": "C-1408",
       "ref": "C-1408",
-      "label": "Host Says Hammer Did Not Advocate the Death Penalty in His Iryna Zhuravska Commentary",
-      "claim": "The host says that at no point she could determine, on the news, on his own show or anywhere else, did Josh Hammer speak about the death penalty or a public execution regarding the Iryna Zhuravska case, and that he instead spoke about media double standards, criminality and safety; she then plays a clip of Hammer with host Gabriel.",
+      "label": "Host Says Hammer Did Not Advocate the Death Penalty in His Iryna Zarutska Commentary",
+      "claim": "The host says that at no point she could determine, on the news, on his own show or anywhere else, did Josh Hammer speak about the death penalty or a public execution regarding the Iryna Zarutska case, and that he instead spoke about media double standards, criminality and safety; she then plays a clip of Hammer with host Gabriel.",
       "anchored_artifacts": [
         "A-1250.1"
       ],
@@ -2052,7 +2052,7 @@
       "@id": "C-1412",
       "ref": "C-1412",
       "label": "Hammer Stated in JTV Interview That Charlie's Last Words to Him Concerned Plugging Hammer's Book",
-      "claim": "On JTV (in interview with host Ali), Josh Hammer stated that Charlie Kirk's last words to him referenced his intent to plug Hammer's book \"Israel and Civilization\" in response to Israel-related questions on the campus tour.",
+      "claim": "On JTV (in an interview with host Ollie), Josh Hammer stated that what he thinks were Charlie Kirk's last words to him referenced his intent to plug Hammer's book \"Israel and Civilization\" in response to Israel-related questions on the campus tour.",
       "anchored_artifacts": [
         "A-1242.1"
       ],
@@ -2236,7 +2236,7 @@
       "@id": "C-1421",
       "ref": "C-1421",
       "label": "Host Says Tyler Bowyer's X Posts Were Sloppy and Accusatory",
-      "claim": "The host says what Tyler Bowyer did on X was very sloppy: he was accusatory and called people names.",
+      "claim": "The host says she thinks what Tyler Bowyer did on X was very sloppy: he was accusatory and called people names.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2369,7 +2369,7 @@
       "@id": "C-9326",
       "ref": "C-9326",
       "label": "Host Reads a Hammer Post Alleging a Repulsive Op to Hijack Charlie's Legacy",
-      "claim": "The host displays a collage of Josh Hammer posts and reads one saying there is a \"repulsive op\" to hijack Charlie Kirk's legacy, plus a second saying people are trying to posthumously convert Charlie to \"Groperism\".",
+      "claim": "The host displays a collage of Josh Hammer posts and reads one saying there is a \"repulsive op\" to hijack Charlie Kirk's legacy, plus a second saying people are trying to posthumously convert Charlie to \"Groyperism\".",
       "anchored_artifacts": [
         "A-1248.1"
       ],
@@ -2510,7 +2510,7 @@
       "@id": "C-9332",
       "ref": "C-9332",
       "label": "Host Says Another X User Wrongly Claimed the Iryna Footage Was Released September 9",
-      "claim": "The host says another X user asserted that the footage of Iryna Zhuravska's murder was released on September 9 and that this was why Hammer posted, and the host says this is untrue because the footage was released and trended on September 5.",
+      "claim": "The host says another X user asserted that the footage of Iryna Zarutska's murder was released on September 9 and that this was why Hammer posted, and the host says this is untrue because the footage was released and trended on September 5.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10179",
@@ -2560,7 +2560,7 @@
       "@id": "C-9334",
       "ref": "C-9334",
       "label": "Host Says She Found No Hammer Call for the Death Penalty Over the Iryna Case Anywhere",
-      "claim": "The host says she could find no point at which Josh Hammer, on the news, on his own show or elsewhere, spoke about the death penalty or a public execution in connection with the Iryna Zhuravska case.",
+      "claim": "The host says she could find no point at which Josh Hammer, on the news, on his own show or elsewhere, spoke about the death penalty or a public execution in connection with the Iryna Zarutska case.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10174",
@@ -2585,8 +2585,8 @@
       "@type": "Claim",
       "@id": "C-9335",
       "ref": "C-9335",
-      "label": "Host Says Hammer Himself Posted Several Times About the Zhuravska Homicide",
-      "claim": "The host says Hammer himself sent multiple tweets about the Iryna Zhuravska homicide, as many users did, because it was trending after the footage appeared on September 5.",
+      "label": "Host Says Hammer Himself Posted Several Times About the Zarutska Homicide",
+      "claim": "The host says Hammer himself sent multiple tweets about the Iryna Zarutska homicide, as many users did, because it was trending after the footage appeared on September 5.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10179",
@@ -2636,7 +2636,7 @@
       "@id": "C-9337",
       "ref": "C-9337",
       "label": "Host Says Matt Walsh Later Explained His Public-Execution Post on His Show",
-      "claim": "The host says Matt Walsh went on his show and further explained his post, saying men have a visceral response when a woman is victimized the way Iryna Zhuravska was.",
+      "claim": "The host says Matt Walsh went on his show and further explained his post, saying men have a visceral response when a woman is victimized the way Iryna Zarutska was.",
       "anchored_artifacts": [
         "A-1238.1"
       ],
@@ -2753,16 +2753,15 @@
       "transcript_snippet": "We had a Zoom call, a friend of mine, him, a couple of his producers. It was it was a small call. We were literally talking above all about the anti-Israel questions",
       "mentions_person_refs": [
         "N-55",
-        "N-1",
-        "N-172"
+        "N-1"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-9342",
       "ref": "C-9342",
-      "label": "JTV Interviewer Ali Says Candace Chose to Hijack Charlie's Death to Blame Israel",
-      "claim": "In a JTV clip the host plays, interviewer Ali tells Hammer that, as Hammer mentioned, there have been people like Ian Carroll and Candace Owens, and that Candace 'has chosen to hijack his death right now to blame it on Israel.'",
+      "label": "JTV Interviewer Ollie Says Candace Chose to Hijack Charlie's Death to Blame Israel",
+      "claim": "In a JTV clip the host plays, interviewer Ollie tells Hammer that, as Hammer mentioned, there have been people like Ian Carroll and Candace Owens, and that Candace 'has chosen to hijack his death right now to blame it on Israel.'",
       "anchored_artifacts": [
         "A-1242.1"
       ],
@@ -2819,7 +2818,7 @@
       ],
       "claim_timestamp": "00:23:56",
       "investigative_direction": "Locate the Gaetz OAN segment on Hammer's book and compare dates with Gaetz's later remarks.",
-      "transcript_snippet": "He had me on his show back in March when my book came out. Ali, he referred to my book as a battle map to save Western Civilization. It was",
+      "transcript_snippet": "He had me on his show back in March when my book came out. Ollie, he referred to my book as a battle map to save Western Civilization. It was",
       "mentions_person_refs": [
         "N-55",
         "N-71"
@@ -3507,7 +3506,7 @@
       "@type": "Claim",
       "@id": "C-9374",
       "ref": "C-9374",
-      "label": "Host Says She Created a Kill Switch and Discussed It the Day Before",
+      "label": "Host Says She Wanted to Create a Kill Switch, as Discussed the Day Before",
       "claim": "The host says that what she wanted to do, as she discussed the previous day and which got picked up, was to create a kill switch.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3941,7 +3940,7 @@
         "N-10125"
       ],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "01:09:20",
       "investigative_direction": "Ask for examples of Utah residents' assistance and note the contrast with other groups she names.",

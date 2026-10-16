@@ -170,7 +170,7 @@ And it's interesting also because remember Phil when Phil Lyman gave us his foot
 
 [28:51]
 
-That it had it unless we have a bullet that's doing the worm like a WWE wrestler, okay? Bullets fire straight. And this one went straight into the front left lower side of his neck, essentially exploded his artery, and did not exit out of the back, but that is where a bullet fragment was found. So, map it out for us. There's something else that I would like to point to that is getting interesting, and that is regarding Caldera Engineering. Caldera Engineering. Now, I said from the very beginning that this company was shady. It flagged me as weird. All I was trying to do at that point was not looking to Caldera Engineering, but rather to track down the footage. Irwin Steel. This Steel. So many Steels were involved. It turns out the Steels are big with Caldera Engineering.
+That it had it unless we have a bullet that's doing the worm like a WWE wrestler, okay? Bullets fire straight. And this one went straight into the front left lower side of his neck, essentially exploded his artery, and did not exit out of the back, but that is where a bullet fragment was found. So, map it out for us. There's something else that I would like to point to that is getting interesting, and that is regarding Caldera Engineering. Caldera Engineering. Now, I said from the very beginning that this company was shady. It flagged me as weird. All I was trying to do at that point was not looking to Caldera Engineering, but rather to track down the footage. Erwin Steele. This Steel. So many Steels were involved. It turns out the Steels are big with Caldera Engineering.
 
 [29:43]
 
@@ -226,7 +226,7 @@ That's the plane where um Derek Maxfield, his wife Shelaine Maxfield, they sold 
 
 [40:07]
 
-What I can tell you is that the investigation that we have been privately conducting has led to more questions than answers. Um obviously, multiple pilots, people that work at these airports, people who are invested in the story have reached out and I'm grateful for that. Multiple people have confirmed that this plane was a little bit weird that day. Uh, it was supposed to land in Page, Arizona. It uh in Millionaire FBO. Last second, it made a change. Just so you guys know, an FBO is just a private terminal. So, you if if you're in a public airport, you go to terminal 7. If you're flying private, you go to FBO and it has a name. So, that plane was supposed to land into an FBO called Millionaire.
+What I can tell you is that the investigation that we have been privately conducting has led to more questions than answers. Um obviously, multiple pilots, people that work at these airports, people who are invested in the story have reached out and I'm grateful for that. Multiple people have confirmed that this plane was a little bit weird that day. Uh, it was supposed to land in Page, Arizona. It uh in Million Air FBO. Last second, it made a change. Just so you guys know, an FBO is just a private terminal. So, you if if you're in a public airport, you go to terminal 7. If you're flying private, you go to FBO and it has a name. So, that plane was supposed to land into an FBO called Millionaire.
 
 [40:53]
 

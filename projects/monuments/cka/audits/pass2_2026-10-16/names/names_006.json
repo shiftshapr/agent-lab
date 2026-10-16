@@ -1,0 +1,302 @@
+[
+ {
+  "id": "N-201",
+  "name": "Shelaine Maxfield",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Derek and Shelaine Maxfield Family Foundation (causeiq.com)"
+ },
+ {
+  "id": "N-202",
+  "name": "Nick Fuentes",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Nick Fentes"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-203",
+  "name": "Lindsay Clancy",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Lindsey Clancy",
+   "Lindsy Clancy"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-204",
+  "name": "Ana Kasparian",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-205",
+  "name": "Piers Morgan",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-206",
+  "name": "Sean Feucht",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-207",
+  "name": "Nancy Mace",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-208",
+  "name": "Joel Osteen",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-209",
+  "name": "Jack Hibbs",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Jack Hibs"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-210",
+  "name": "Joe Kent",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-211",
+  "name": "Michael Starr",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Jerusalem Post reporter"
+ },
+ {
+  "id": "N-212",
+  "name": "Jesse Watters",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-213",
+  "name": "Alexis Wilkins",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Alex Wilkins"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-214",
+  "name": "Nick Shirley",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-215",
+  "name": "Douglas Murray",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-216",
+  "name": "Yael Eckstein",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-217",
+  "name": "Jürgen Bühler",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "ICEJ president"
+ },
+ {
+  "id": "N-218",
+  "name": "Eliza McCoy",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Elizabeth (Eliza) McCoy, wife of Mikey McCoy; X @elizabethkmccoy, Instagram reportedly @elizakmccoy; both forms valid"
+ },
+ {
+  "id": "N-219",
+  "name": "Micah Stevens",
+  "verdict": "wrong",
+  "correct": "Micah Stephens",
+  "source": "https://news.yahoo.com/pastor-rob-mccoy-announces-2025-140055144.html",
+  "bad_aliases": [],
+  "note": "Godspeak senior pastor successor"
+ },
+ {
+  "id": "N-220",
+  "name": "Nate Carlisle",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Fox 13 Utah reporter"
+ },
+ {
+  "id": "N-221",
+  "name": "Milo Yiannopoulos",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-222",
+  "name": "Brett Cooper",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-223",
+  "name": "Randy Fine",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-224",
+  "name": "Zohran Mamdani",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-225",
+  "name": "Shawn Ryan",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-226",
+  "name": "Steven Paddock",
+  "verdict": "wrong",
+  "correct": "Stephen Paddock",
+  "source": "https://en.wikipedia.org/wiki/Stephen_Paddock",
+  "bad_aliases": [],
+  "note": "alias Stephen Paddock is the correct spelling"
+ },
+ {
+  "id": "N-227",
+  "name": "Harvey Weinstein",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-228",
+  "name": "Allie Beth Stuckey",
+  "verdict": "ok",
+  "bad_aliases": [
+   "AllieBeth Stuckey",
+   "Ali Beth Stucky"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-229",
+  "name": "Lila Rose",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-230",
+  "name": "Alyssa Cordova",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "former Daily Wire VP of PR"
+ },
+ {
+  "id": "N-231",
+  "name": "Colby Sessions",
+  "verdict": "unresolved",
+  "bad_aliases": [
+   "Coby Sessions"
+  ],
+  "note": "no source found; a UVU soccer player 'Kolby ... Sessions' appears in a 2025 match notes PDF but not confirmed as this person; Coby Sessions likely mis-transcription"
+ },
+ {
+  "id": "N-232",
+  "name": "Andrew Klavan",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-233",
+  "name": "Tom Paul",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "viewer commenter"
+ },
+ {
+  "id": "N-234",
+  "name": "Arm Hanna",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "viewer commenter name as read on air"
+ },
+ {
+  "id": "N-235",
+  "name": "Elle Reeve",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-236",
+  "name": "Ariana",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "first-name-only placeholder"
+ },
+ {
+  "id": "N-237",
+  "name": "Steve Baker",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Blaze reporter"
+ },
+ {
+  "id": "N-238",
+  "name": "Glenn Beck",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-239",
+  "name": "Shauni Kerkhoff",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Shawnie Kirkup"
+  ],
+  "note": "https://theconservativetreehouse.com/blog/2025/11/08/blaze-journalist-steve-baker-identifies-january-6-pipe-bomber-as-former-capitol-police-officer-shauni-kerkhoff/"
+ },
+ {
+  "id": "N-240",
+  "name": "Liz Lyons",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "CIA spokesperson"
+ }
+]

@@ -1,0 +1,299 @@
+[
+ {
+  "id": "N-281",
+  "name": "Karoline Leavitt",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-282",
+  "name": "Jennica Pounds",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Genica",
+   "D Republican"
+  ],
+  "note": "@DataRepublican; 'Genica'/'D Republican' are caption errors"
+ },
+ {
+  "id": "N-283",
+  "name": "Adam Sosnick",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "PBD Podcast co-host"
+ },
+ {
+  "id": "N-284",
+  "name": "Xavier Poussard",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-285",
+  "name": "Freddy Ponton",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "writer (21st Century Wire); not confirmed by search"
+ },
+ {
+  "id": "N-286",
+  "name": "Andy Parrish",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "former chief of staff to Michele Bachmann (rollcall.com/2011/06/02/bachmann-moves-chief-of-staff-to-new-gig); matches transcript"
+ },
+ {
+  "id": "N-287",
+  "name": "Hervé Hoppenot",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Incyte CEO"
+ },
+ {
+  "id": "N-288",
+  "name": "Miriam Deed",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "no context; possibly a mis-transcription of Miriam Adelson, not confirmed"
+ },
+ {
+  "id": "N-289",
+  "name": "Pierre S. du Pont",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "ep52 context is about an unidentified 'Pierre Dupont' donor; C-1788 context unrelated - node may be conflated"
+ },
+ {
+  "id": "N-290",
+  "name": "T. Coleman du Pont",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-291",
+  "name": "Pavel Durov",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-292",
+  "name": "Charles Joseph Bonaparte",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Charles Joseph Bonapart"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-293",
+  "name": "Robert Richards IV",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-294",
+  "name": "Robert H. Richards III",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-295",
+  "name": "John DuPont",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "usually styled John E. du Pont"
+ },
+ {
+  "id": "N-296",
+  "name": "Lisa Dean DuPont",
+  "verdict": "wrong",
+  "correct": "Lisa Dean Moseley",
+  "source": "https://lasvegassun.com/news/1998/oct/06/du-pont-family-member-stays-in-jail/",
+  "bad_aliases": [],
+  "note": "du Pont heiress; Vanity Fair calls her Lisa du Pont; married name Moseley"
+ },
+ {
+  "id": "N-297",
+  "name": "Christopher Mosley",
+  "verdict": "wrong",
+  "correct": "Christopher Moseley",
+  "source": "https://lasvegassun.com/news/1998/oct/06/du-pont-family-member-stays-in-jail/",
+  "bad_aliases": [],
+  "note": "Patricia Margello murder case, Las Vegas 1998"
+ },
+ {
+  "id": "N-298",
+  "name": "Tyler Bowyer's brother (unnamed)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-299",
+  "name": "Miriam Adelson",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Miriam Medson"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-300",
+  "name": "David Schultz",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Olympic wrestler Dave Schultz"
+ },
+ {
+  "id": "N-301",
+  "name": "Judge Jan Jurden",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Jan Jordan"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-302",
+  "name": "Dean Withers",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-303",
+  "name": "Cam Higby",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Cam Higgby"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-304",
+  "name": "Kingsley Wilson",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-305",
+  "name": "The Game",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-306",
+  "name": "Wed Mahmoud",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "passport name on yellow plane; host uses Wedi Machmood / Wed Mahmoud; no source found"
+ },
+ {
+  "id": "N-307",
+  "name": "Sara Zaafarani",
+  "verdict": "wrong",
+  "correct": "Sarra Zaafrani Zenzri",
+  "source": "https://allafrica.com/stories/202503210319.html",
+  "bad_aliases": [],
+  "note": "Tunisian PM since March 2025"
+ },
+ {
+  "id": "N-308",
+  "name": "Jacob Kasparian",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "not found online"
+ },
+ {
+  "id": "N-309",
+  "name": "Adam Bartholomew",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "X @lifeisdriving posted UVU livestream (larrybrownsports.com/everything-else/charlie-kirk-shot-speaking-utah-valley-university/716349)"
+ },
+ {
+  "id": "N-310",
+  "name": "Carrie Bartholomew",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "wife of Adam Bartholomew; first name not confirmed"
+ },
+ {
+  "id": "N-311",
+  "name": "Emmanuel Bierer",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "not found online"
+ },
+ {
+  "id": "N-312",
+  "name": "\"Gina\" (Charlie Kirk Show caller)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-313",
+  "name": "Pierre Falcone",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-314",
+  "name": "Arcadi Gaydamak",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-315",
+  "name": "Jean-Christophe Mitterrand",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-316",
+  "name": "François Mitterrand",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-317",
+  "name": "Jesse Kege",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "channel is 1ShotTV; creator's real name not confirmed"
+ },
+ {
+  "id": "N-318",
+  "name": "Hodge Twins",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-319",
+  "name": "Harry Meyers",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "source's former name per host; not verifiable"
+ },
+ {
+  "id": "N-320",
+  "name": "Captain Adam Nef",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Fort Huachuca captain; Nef vs Neff unverified"
+ }
+]

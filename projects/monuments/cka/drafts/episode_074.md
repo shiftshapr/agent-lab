@@ -255,7 +255,7 @@ Confidence Level: Medium
 
 **A-1781** Jillian Falcon X/Twitter Post Bundle (2013–2014)
 
-**A-1781.1** Jillian Falcon tweet, 2013-09-15: "Just met Miss Arizona and Josh Harrelson" (heart-eyes emoji)
+**A-1781.1** Jillian Falcon tweet, 2013-09-15: "Just met Miss Arizona and Josh Harrellson" (heart-eyes emoji)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -749,7 +749,7 @@ Investigative Pressure: Low
 
 **N-566** Jillian Falcon
 
-Then-15-year-old girl introduced to Erika Kirk via a rent arrangement at Joshua Harrelson's Michigan residence in 2013; now an adult and the named source of the screenshots and testimonial confirmation surfaced via Nicey and the host.
+Then-15-year-old girl introduced to Erika Kirk via a rent arrangement at Josh Harrellson's Michigan residence in 2013; now an adult and the named source of the screenshots and testimonial confirmation surfaced via Nicey and the host.
 
 Evidence Count: 11
 Claim Count: 9
@@ -760,7 +760,7 @@ Investigative Pressure: High
 
 ---
 
-**N-567** Joshua Harrelson
+**N-567** Josh Harrellson
 
 Erika Kirk's then-boyfriend (basketball player) at the time of the September 15, 2013 meeting with Jillian Falcon; named in Jillian's tweet and Nicey's narration.
 
@@ -1320,7 +1320,7 @@ The host's allegation, sourced to people fired from TPUSA, that Alex Clark deman
 **C-2378** Per Nicey Clip, Erika Kirk (Then Frantzve) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15
 
 Claim Timestamp: 00:02:07
-Claim: In a video by YouTuber Nicey that the host plays, Nicey says Erika Kirk (then Erika Frantzve), Joshua Harrelson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.
+Claim: In a video by YouTuber Nicey that the host plays, Nicey says Erika Kirk (then Erika Frantzve), Josh Harrellson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.
 Anchored Artifacts: A-1780.1, A-1781.1
 Mentions: N-565, N-566, N-567, N-2
 Investigative Direction: Pull Jillian's original Sept 15, 2013 X/Twitter posts directly and corroborate against contemporaneous Michigan venue records.
@@ -1581,11 +1581,11 @@ Investigative Direction: Find Nicey's original upload date and Coleman's episode
 
 ---
 
-**C-10142** Nicey (via host clip) says Erika moved to Michigan to be with basketball player Joshua Harrelson in 2013
+**C-10142** Nicey (via host clip) says Erika moved to Michigan to be with basketball player Josh Harrellson in 2013
 
 Claim Timestamp: 00:02:07
 
-Claim: In the Nicey clip the host plays, Nicey says that in 2013 Erika, then 25, was in a relationship with basketball player Joshua Harrelson, who was living in Michigan, and that Erika moved out there to be with him; the host adds that Erika had just completed her year as Miss Arizona.
+Claim: In the Nicey clip the host plays, Nicey says that in 2013 Erika, then 25, was in a relationship with basketball player Josh Harrellson, who was living in Michigan, and that Erika moved out there to be with him; the host adds that Erika had just completed her year as Miss Arizona.
 
 Transcript Snippet: he was living in Michigan and Erika moved out there to be with him.
 
@@ -1600,7 +1600,7 @@ Investigative Direction: Verify Erika's 2013 residence in Michigan and the end o
 
 Claim Timestamp: 00:02:07
 
-Claim: Nicey says that on September 15, 2013 at 3:53 p.m. Jillian Falcon tweeted that she was out for sushi with her friend, and two hours later tweeted that she had just met Miss Arizona and Josh Harrelson.
+Claim: Nicey says that on September 15, 2013 at 3:53 p.m. Jillian Falcon tweeted that she was out for sushi with her friend, and two hours later tweeted that she had just met Miss Arizona and Josh Harrellson.
 
 Transcript Snippet: At 3:53 p. m., Jillian tweeted that she was out for sushi with her friend and 2 hours later she tweeted
 

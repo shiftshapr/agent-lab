@@ -1206,7 +1206,7 @@ Investigative Direction: Confirm with Utah court / Utah State Records the timeli
 
 ---
 
-**C-1387** Britta publicly accused Candace of fabricating group-chat screenshots
+**C-1387** Britta Asked Whether Candace Was Posting Fake Group-Chat Screenshots
 
 Claim Timestamp: 00:08:09
 
@@ -1309,7 +1309,7 @@ Claim Timestamp: 00:44:38
 Claim: Candace says the donor, John Mappin, made introductions that unlocked more donations for Kirk, and is the person Kirk had in mind when she said they needed to be in the UK and he said he knew somebody who could maybe set up an event to start Turning Point UK, which was where she first laid eyes on George (her husband).
 
 Anchored Artifacts: A-1231.1 (context); Candace verbal statement at 00:44:38
-Mentions: N-1, N-3, N-30, N-155, N-156
+Mentions: N-1, N-3, N-30, N-155
 Investigative Direction: Verify through TPUSA / Turning Point UK records John Mappin's role in the UK launch.
 
 ---

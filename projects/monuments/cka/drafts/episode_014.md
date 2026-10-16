@@ -63,9 +63,9 @@ Confidence Level: Low
 
 ---
 
-**A-2906** Murder of Little Mary Fagan Book Bundle
+**A-2906** Murder of Little Mary Phagan Book Bundle
 
-**A-2906.1** Host verbal reference to the book The Murder of Little Mary Fagan (not shown)
+**A-2906.1** Host verbal reference to the book The Murder of Little Mary Phagan (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:04:25
@@ -426,15 +426,15 @@ The host says he tweeted about Kirk and TPUSA being on the ADL list.
 
 **N-132** Shaner Broderick
 
-Person whose Instagram the host says featured Gauer.
+Person whose Instagram the host says featured Gernot Ohner.
 
 *Related: C-7870*
 
 ---
 
-**N-133** Gernot Omer
+**N-133** Gernot Ohner
 
-Likely the witness the host calls Gauer, an Austrian software engineer (uncertain match).
+Likely the witness the host calls Gernot Ohner, an Austrian software engineer (uncertain match).
 
 *Related: C-7870*
 
@@ -684,7 +684,7 @@ The ADL; the host says it was born of B'nai B'rith, lists Kirk, TPUSA and her, a
 **N-11154** Azov Battalion
 
 Node Type: Organization
-Ukrainian unit (rendered 'AOV battalion') that the host says the ADL removed from its hate list.
+Ukrainian unit (rendered 'Azov battalion') that the host says the ADL removed from its hate list.
 
 *Related: C-7852*
 
@@ -808,7 +808,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-Optional Flag: Spelling preserved as transcribed ("Skordas"/"Squortis"/"Scordies" appear inconsistently in transcript; canonical spelling unknown).
+Optional Flag: Spelling preserved as transcribed ("Skordas"/"Skordas"/"Skordas" appear inconsistently in transcript; canonical spelling unknown).
 
 *Related: A-1212.1, C-1360, N-10160*
 
@@ -904,7 +904,7 @@ Optional Flag: The grouping of on-scene witness anomalies with public-figure sui
 
 Claim Timestamp: 00:08:45–00:09:33
 
-Claim: FBI Director Kash Patel posted a public statement asserting that the FBI will no longer partner with the ADL and characterizing prior FBI-ADL cooperation (including under Comey) as disgraceful surveillance operations.
+Claim: Per the post by FBI Director Kash Patel that the host reads, James Comey wrote love letters to the ADL and embedded FBI agents with it, the ADL ran disgraceful ops spying on Americans, that era is over, and the FBI will not partner with political fronts masquerading as watchdogs.
 
 Anchored Artifacts: A-1209.1
 Mentions: N-69, N-148
@@ -1004,7 +1004,7 @@ Related Nodes: N-10160
 
 Investigative Direction: Confirm canonical spelling of the prosecutor's name; obtain any court filings or correspondence evidencing the prosecutor's role in identifying counsel; verify Lane's account via Utah State Bar records.
 
-Optional Flag: Spelling of prosecutor's name varies in transcript ("Skordas"/"Squortis"/"Scordies").
+Optional Flag: Spelling of prosecutor's name varies in transcript ("Skordas"/"Skordas"/"Skordas").
 
 ---
 
@@ -1081,7 +1081,7 @@ Investigative Direction: Verify original source (clip origin, show, date) and ch
 
 ---
 
-**C-3643** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+**C-3643** Host Says Many People Bought the Show's CIA Merch
 
 Claim Timestamp: 00:52:35
 Claim: The host says there is new merch on the website and that many people bought the show's CIA merch, adding 'We don't know, but we know.'
@@ -1131,9 +1131,9 @@ Investigative Direction: Locate the ADL's extremism listing of Kirk/TPUSA and th
 
 Claim Timestamp: 00:01:15
 
-Claim: The host says the ADL was born out of a Jewish Freemason organization known as B'nai B'rith (rendered 'Benith' in the transcript).
+Claim: The host says the ADL was born out of a Jewish Freemason organization known as B'nai B'rith.
 
-Transcript Snippet: The reality is the ADL was born out of a Jewish Freemason organization known as Benith.
+Transcript Snippet: The reality is the ADL was born out of a Jewish Freemason organization known as B'nai B'rith.
 
 Anchored Artifacts: 
 Mentions: N-3
@@ -1190,13 +1190,13 @@ Investigative Direction: Compare ADL and B'nai B'rith founding records (1913) wi
 
 ---
 
-**C-7842** Host Says Mary Fagan Was a 13-Year-Old Pencil Factory Worker Found Raped in 1913
+**C-7842** Host Says Mary Phagan Was a 13-Year-Old Pencil Factory Worker Found Raped in 1913
 
 Claim Timestamp: 00:03:10
 
-Claim: The host says Mary Fagan (Mary Phagan in the record) was a 13-year-old Catholic girl who worked at Leo Frank's Atlanta pencil factory and was found brutally raped in 1913.
+Claim: The host says Mary Phagan was a 13-year-old Catholic girl who worked at Leo Frank's Atlanta pencil factory and was found brutally raped in 1913.
 
-Transcript Snippet: And Mary Fagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped.
+Transcript Snippet: And Mary Phagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped.
 
 Anchored Artifacts: 
 Mentions: N-795, N-794
@@ -1239,13 +1239,13 @@ Investigative Direction: Compare the host's chronology with the documented timin
 
 ---
 
-**C-7845** Host Says a Book About Mary Fagan Was Written by a Relative of the Same Name
+**C-7845** Host Says a Book About Mary Phagan Was Written by a Relative of the Same Name
 
 Claim Timestamp: 00:04:25
 
-Claim: The host says the book The Murder of Little Mary Fagan was written by a relative of the victim who is also named Mary Fagan, and recommends it as a source.
+Claim: The host says the book The Murder of Little Mary Phagan was written by a relative of the victim who is also named Mary Phagan, and recommends it as a source.
 
-Transcript Snippet: there's a book called The Murder of Little Mary Fagan, and it is written by a relative of hers.
+Transcript Snippet: there's a book called The Murder of Little Mary Phagan, and it is written by a relative of hers.
 
 Anchored Artifacts: A-2906.1
 Mentions: N-795, N-3
@@ -1355,9 +1355,9 @@ Investigative Direction: Obtain FBI-ADL training agreements, course rosters and 
 
 Claim Timestamp: 00:10:50
 
-Claim: The host says the ADL curiously removed the Azov battalion (rendered 'AOV' in the transcript), which she says carves swastikas and murders people, from its hate list.
+Claim: The host says the ADL curiously removed the Azov battalion, which she says carves swastikas and murders people, from its hate list.
 
-Transcript Snippet: they curiously removed the AOV battalion. They're carving swastikas on their head. The Ukrainians uh murdering people. They removed them from the hate list.
+Transcript Snippet: they curiously removed the Azov battalion. They're carving swastikas on their head. The Ukrainians uh murdering people. They removed them from the hate list.
 
 Anchored Artifacts: 
 Mentions: N-3
@@ -1642,11 +1642,11 @@ Investigative Direction: Confirm the witness's identity and employment at Domo t
 
 ---
 
-**C-7870** Host Says Gauer Is an Austrian Software Engineer Tied to Lyman's Relative and Shaner's Instagram
+**C-7870** Host Says Gernot Ohner Is an Austrian Software Engineer Tied to Lyman's Relative and Shaner's Instagram
 
 Claim Timestamp: 00:24:01
 
-Claim: The host says Gauer was with a relative of Phil Lyman's (she says uncle, cousin, nephew), is a software engineer from Austria, and was featured in Shaner's Instagram.
+Claim: The host says Gernot Ohner was with a relative of Phil Lyman's (she says uncle, cousin, nephew), is a software engineer from Austria, and was featured in Shaner's Instagram.
 
 Transcript Snippet: He we learned was a software engineer from Austria. So, Austria, Germany.
 
@@ -1654,7 +1654,7 @@ Anchored Artifacts:
 Mentions: N-133, N-132, N-61
 Related Nodes: N-10161
 Tags: relevance:core
-Investigative Direction: Match the Gauer name to the previously identified Gernot Omer and review the Shaner Instagram posts.
+Investigative Direction: Match the Gernot Ohner name to the previously identified Gernot Ohner and review the Shaner Instagram posts.
 
 ---
 
@@ -1710,7 +1710,7 @@ Investigative Direction: Document the host's public requests for witness contact
 
 Claim Timestamp: 00:24:46
 
-Claim: The host says her team has found Robbie Hild connected to the Cayman Islands and to Spain, has put a TBD on him, and will report on him Monday.
+Claim: The host says her team is getting information on Robbie Hild involving the Cayman Islands and Spain, has put a TBD on him, and will report on him Monday.
 
 Transcript Snippet: We've got Robbie Hild in Spain. We've got Robbie Hild all over.
 
@@ -1839,9 +1839,9 @@ Investigative Direction: Identify the New York lawyer and any consent request fi
 
 Claim Timestamp: 00:32:15
 
-Claim: Lane says Scordies (Skordas) is running as a state prosecutor, that it is on his website, and that his finding a lawyer for Robinson is highly unethical.
+Claim: Lane says Skordas is running as a state prosecutor, that it is on his website, and that his finding a lawyer for Robinson is highly unethical.
 
-Transcript Snippet: So, what I know is that Scordies is running as a state prosecutor. He's running. Everyone can look it up. It's on his website.
+Transcript Snippet: So, what I know is that Skordas is running as a state prosecutor. He's running. Everyone can look it up. It's on his website.
 
 Anchored Artifacts: A-1212.1
 Mentions: N-6, N-149
@@ -2445,12 +2445,12 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown (A-1218.1):** The Connecticut FBI deployment claim relies on host-described tip content; the proof the host references was not displayed on screen. Independent corroboration required before treating as evidentiary.
-- **Name uncertainty:** "Skordas" / "Squortis" / "Scordies" appears inconsistently in transcript for the Utah state prosecutor (canonical spelling unknown). "Olivia Robertson cub Bishop" preserved as read; possible transcription error (e.g., "cub" likely a YouTube auto-caption artifact for an unstated middle component – possibly "Robertson Cobb Bishop" or similar).
-- **Name uncertainty:** "Squortis" / "Scordies" / "Skordas" – same entity.
+- **Name uncertainty:** "Skordas" / "Skordas" / "Skordas" appears inconsistently in transcript for the Utah state prosecutor (canonical spelling unknown). "Olivia Robertson cub Bishop" preserved as read; possible transcription error (e.g., "cub" likely a YouTube auto-caption artifact for an unstated middle component – possibly "Robertson Cobb Bishop" or similar).
+- **Name uncertainty:** "Skordas" / "Skordas" / "Skordas" – same entity.
 - **Name uncertainty:** "Brderick Lyman" – preserved as transcribed; canonical spelling of witness name uncertain.
-- **Name uncertainty:** "Emma(nuel)" witness and "Gauer" witness referenced in passing; no artifact anchor established.
+- **Name uncertainty:** "Emma(nuel)" witness and "Gernot Ohner" witness referenced in passing; no artifact anchor established.
 - **Transcript ambiguity:** "The FBI and the ADL had a partnership sharing intel. They were training Asians" – likely "agents" rather than "Asians"; flagged as possible transcription error.
-- **Claim failed admission test (host-only assertions, not inscribed):** Several substantive host claims – including that ADL was founded by B'nai B'rith to defend Leo Frank, that Sigmund Freud was a member of B'nai B'rith, that the Leo Frank case ended in conviction in 1913, that ADL labeled Charlie Kirk and TPUSA as extremist, that Olivia Bishop is an Orem Police Department records specialist, that Emmanuel works at Domo Incorporated, that Gauer is an Austrian software engineer, that Scott Robbins ran for Utah governor in 2024, that Phil Lyman ran for Utah governor in 2024 and featured George Zinn on his website, that Tiffany Barker is Phil Lyman's running mate and spoke to Good Morning America, that Robbie Hild has connections to the Cayman Islands and Spain, that Marjorie Taylor Greene has been "very loud" against Epstein-files non-disclosure, that Israel is committing an "international crime" before host's eyes – are not artifact-anchored within this episode and have been excluded from the Claim Register.
+- **Claim failed admission test (host-only assertions, not inscribed):** Several substantive host claims – including that ADL was founded by B'nai B'rith to defend Leo Frank, that Sigmund Freud was a member of B'nai B'rith, that the Leo Frank case ended in conviction in 1913, that ADL labeled Charlie Kirk and TPUSA as extremist, that Olivia Bishop is an Orem Police Department records specialist, that Emmanuel works at Domo Incorporated, that Gernot Ohner is an Austrian software engineer, that Scott Robbins ran for Utah governor in 2024, that Phil Lyman ran for Utah governor in 2024 and featured George Zinn on his website, that Tiffany Barker is Phil Lyman's running mate and spoke to Good Morning America, that Robbie Hild has connections to the Cayman Islands and Spain, that Marjorie Taylor Greene has been "very loud" against Epstein-files non-disclosure, that Israel is committing an "international crime" before host's eyes – are not artifact-anchored within this episode and have been excluded from the Claim Register.
 - **Existing-node reuse uncertainty:** Phil Lyman, Tyler Robinson, Tiffany Barker, Robbie Hild, and several others likely appear as nodes in prior episodes; this analysis assigns new IDs only where clearly first-introduced and references known prior IDs (N-1, N-3, N-6) where confident. Cross-episode reconciliation may be required.
 - **Host interpretive framing (not inscribed):** Host's characterizations of the ADL response as "BS" / "slave slop" and of the Patel announcement as "performative" / "acting" were excluded as failing the rhetoric-removal test.
 

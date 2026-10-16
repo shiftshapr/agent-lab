@@ -2435,7 +2435,7 @@
       ]
     },
     "N-73": {
-      "canonical_name": "Irwin Steel",
+      "canonical_name": "Erwin Steele",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -2444,7 +2444,7 @@
       ]
     },
     "N-74": {
-      "canonical_name": "Sherry Steel",
+      "canonical_name": "Sherri Steele",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -2963,9 +2963,7 @@
     "N-111": {
       "canonical_name": "Margarethe Schurz",
       "type": "person",
-      "aliases": [
-        "Margaret Schzes"
-      ],
+      "aliases": [],
       "episodes": [
         9
       ]
@@ -3002,7 +3000,6 @@
       "canonical_name": "Xaviaer DuRousseau",
       "type": "person",
       "aliases": [
-        "Xavier Deruso",
         "Xavier Daruso",
         "Xavier Duso"
       ],
@@ -3217,7 +3214,7 @@
       ]
     },
     "N-133": {
-      "canonical_name": "Gernot Omer",
+      "canonical_name": "Gernot Ohner",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -3263,7 +3260,7 @@
       ]
     },
     "N-137": {
-      "canonical_name": "Erika \"Erikica\" Mindel",
+      "canonical_name": "Erica Mindel",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -3271,7 +3268,7 @@
       ]
     },
     "N-138": {
-      "canonical_name": "Florida Dab (X handle)",
+      "canonical_name": "Florida Dad (X handle)",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -3608,7 +3605,7 @@
       ]
     },
     "N-163": {
-      "canonical_name": "Iryna Zhuravska",
+      "canonical_name": "Iryna Zarutska",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -3720,7 +3717,7 @@
       ]
     },
     "N-173": {
-      "canonical_name": "Simon Andre",
+      "canonical_name": "Simon Andriesz",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -4375,7 +4372,7 @@
       ]
     },
     "N-219": {
-      "canonical_name": "Micah Stevens",
+      "canonical_name": "Micah Stephens",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -4479,7 +4476,7 @@
       ]
     },
     "N-226": {
-      "canonical_name": "Steven Paddock",
+      "canonical_name": "Stephen Paddock",
       "type": "person",
       "aliases": [
         "Stephen Paddock"
@@ -4732,7 +4729,7 @@
       ]
     },
     "N-248": {
-      "canonical_name": "Elijah Schaefer",
+      "canonical_name": "Elijah Schaffer",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -4742,7 +4739,7 @@
       ]
     },
     "N-249": {
-      "canonical_name": "Hen Mazig",
+      "canonical_name": "Hen Mazzig",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -4769,7 +4766,7 @@
       ]
     },
     "N-252": {
-      "canonical_name": "Robin Taylor",
+      "canonical_name": "Rob Taylor",
       "type": "person",
       "aliases": [
         "Rob Taylor"
@@ -5400,7 +5397,7 @@
       ]
     },
     "N-297": {
-      "canonical_name": "Christopher Mosley",
+      "canonical_name": "Christopher Moseley",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -5505,9 +5502,11 @@
       ]
     },
     "N-307": {
-      "canonical_name": "Sara Zaafarani",
+      "canonical_name": "Sarra Zaafrani",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Sara Zaafarani"
+      ],
       "episodes": [
         41
       ]
@@ -6157,7 +6156,7 @@
       ]
     },
     "N-366": {
-      "canonical_name": "Diligent Dennison",
+      "canonical_name": "Diligent Denizen",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -6540,17 +6539,15 @@
       ]
     },
     "N-403": {
-      "canonical_name": "Pastor Yoon Bo-seon",
+      "canonical_name": "Pastor Son Hyun-bo",
       "type": "person",
-      "aliases": [
-        "Yoon Bo-seon"
-      ],
+      "aliases": [],
       "episodes": [
         54
       ]
     },
     "N-404": {
-      "canonical_name": "Chan Yoon",
+      "canonical_name": "Chance Son",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -7814,7 +7811,7 @@
       ]
     },
     "N-531": {
-      "canonical_name": "Katherine Tate",
+      "canonical_name": "Kathryn Tate",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -8146,11 +8143,9 @@
       ]
     },
     "N-567": {
-      "canonical_name": "Joshua Harrelson",
+      "canonical_name": "Josh Harrellson",
       "type": "person",
-      "aliases": [
-        "Josh Harrelson"
-      ],
+      "aliases": [],
       "episodes": [
         74
       ]
@@ -8202,7 +8197,7 @@
       ]
     },
     "N-572": {
-      "canonical_name": "Martha Louise of Norway",
+      "canonical_name": "M\u00e4rtha Louise of Norway",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -8421,7 +8416,7 @@
       ]
     },
     "N-595": {
-      "canonical_name": "Georgia Meloni",
+      "canonical_name": "Giorgia Meloni",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -8802,7 +8797,7 @@
       ]
     },
     "N-632": {
-      "canonical_name": "John Mark Burns",
+      "canonical_name": "Mark Burns",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -8844,7 +8839,7 @@
       ]
     },
     "N-637": {
-      "canonical_name": "Mark Caputo",
+      "canonical_name": "Marc Caputo",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10285,9 +10280,7 @@
     "N-795": {
       "canonical_name": "Mary Phagan",
       "type": "person",
-      "aliases": [
-        "Mary Fagan"
-      ],
+      "aliases": [],
       "episodes": [
         14,
         67,
@@ -14008,7 +14001,7 @@
       ]
     },
     "N-10179": {
-      "canonical_name": "Iryna Zhuravska Murder Timeline Verification",
+      "canonical_name": "Iryna Zarutska Murder Timeline Verification",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -14122,7 +14115,7 @@
       ]
     },
     "N-10190": {
-      "canonical_name": "Signature FBO / Millionaire FBO (entity cluster)",
+      "canonical_name": "Signature FBO / Million Air FBO (entity cluster)",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -21537,7 +21530,7 @@
       ]
     },
     "N-10877": {
-      "canonical_name": "Howard Lutnick / Simon Andre Epstein Whistleblower Death",
+      "canonical_name": "Howard Lutnick / Simon Andriesz Epstein Whistleblower Death",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -25777,7 +25770,7 @@
       ]
     },
     "N-11330": {
-      "canonical_name": "Kingdom to the Capital Tour Plane Overlap Pattern",
+      "canonical_name": "Kingdom to the Capitol Tour Plane Overlap Pattern",
       "type": "topic",
       "aliases": [],
       "episodes": [

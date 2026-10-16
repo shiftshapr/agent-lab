@@ -1,0 +1,302 @@
+[
+ {
+  "id": "N-241",
+  "name": "Lance Wallnau",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-242",
+  "name": "Joel Berry",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-243",
+  "name": "Frank McCormick",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "X @CBHeresy; ibtimes.co.uk coverage of AI text analysis"
+ },
+ {
+  "id": "N-244",
+  "name": "Grok",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "AI chatbot, not a person"
+ },
+ {
+  "id": "N-245",
+  "name": "Mark Levin",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-246",
+  "name": "Keri Smith",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Deprogrammed podcast host"
+ },
+ {
+  "id": "N-247",
+  "name": "Butch Hibbs",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Butch Hibs"
+  ],
+  "note": "Brother of Pastor Jack Hibbs; surname matches Jack Hibbs; no independent web source for 'Butch'"
+ },
+ {
+  "id": "N-248",
+  "name": "Elijah Schaefer",
+  "verdict": "wrong",
+  "correct": "Elijah Schaffer",
+  "source": "https://www.ibtimes.co.uk/kash-patels-girlfriend-alexis-wilkins-files-5m-lawsuit-after-being-branded-israeli-honeypot-1754249",
+  "bad_aliases": [],
+  "note": "Alexis Wilkins $5M suit over Sept 14 post"
+ },
+ {
+  "id": "N-249",
+  "name": "Hen Mazig",
+  "verdict": "wrong",
+  "correct": "Hen Mazzig",
+  "source": "https://www.ibtimes.co.uk/kash-patels-girlfriend-alexis-wilkins-files-5m-lawsuit-after-being-branded-israeli-honeypot-1754249",
+  "bad_aliases": [],
+  "note": "Israeli activist whose Mossad thread Schaffer quote-posted"
+ },
+ {
+  "id": "N-250",
+  "name": "Thomas Michael Camino",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "1995 LA Times article not found online; transcript consistently 'Camino'"
+ },
+ {
+  "id": "N-251",
+  "name": "Lou Taylor",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Tri Star Sports & Entertainment founder"
+ },
+ {
+  "id": "N-252",
+  "name": "Robin Taylor",
+  "verdict": "wrong",
+  "correct": "Rob Taylor",
+  "source": "https://en.wikipedia.org/wiki/Lou_M._Taylor",
+  "bad_aliases": [],
+  "note": "Wikipedia lists Lou Taylor's spouse as Rob Taylor (m. 1989); 'Robin' likely conflated with Robin Greenhill"
+ },
+ {
+  "id": "N-253",
+  "name": "Jamie Spears (Jamie Lynn Spears's father; Britney Spears's father)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Spelling ok; parenthetical is disambiguation"
+ },
+ {
+  "id": "N-254",
+  "name": "Courtney Love",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-255",
+  "name": "Lindsay Lohan",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-256",
+  "name": "Michael Lohan",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-257",
+  "name": "R. Todd Nielson",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Possibly forensic accountant R. Todd Neilson; could not confirm identity/spelling (search budget exhausted)"
+ },
+ {
+  "id": "N-258",
+  "name": "Bob Bryar",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-259",
+  "name": "Samir",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Placeholder first name only"
+ },
+ {
+  "id": "N-260",
+  "name": "Steven Crowder",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-261",
+  "name": "Duncan Aviation",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Company (FBO), not a person"
+ },
+ {
+  "id": "N-262",
+  "name": "Terryl Farnsworth",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "TPUSA AV contractor; charliefiles / Candace ep 328 title"
+ },
+ {
+  "id": "N-263",
+  "name": "Lisa Nose",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "X account; transcript also has 'Lisa Knows' - real handle not found"
+ },
+ {
+  "id": "N-264",
+  "name": "Mommy Sleuth (Nellie)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Placeholder for anonymous contributor"
+ },
+ {
+  "id": "N-265",
+  "name": "Andrew K. Smith",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Savory Fund / Restaurantology host; Fox News"
+ },
+ {
+  "id": "N-266",
+  "name": "Christopher Wray",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Christopher Ray"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-267",
+  "name": "Brian Harpole",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Brian Herpolsheimer",
+   "Brian Harpool",
+   "Brian Harpo"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-268",
+  "name": "Tim Pool",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Tim P"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-269",
+  "name": "Joe Rogan",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-270",
+  "name": "Derek Pepper Williams",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "No web source found; 'Chester Barnes' is a prior misidentification, not a spelling variant"
+ },
+ {
+  "id": "N-271",
+  "name": "Dan Flood",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "TPUSA security supervisor; National Review/Fox on UVU report"
+ },
+ {
+  "id": "N-272",
+  "name": "Jeff Long",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "UVU Police Chief Jeffrey Long"
+ },
+ {
+  "id": "N-273",
+  "name": "Nate Brooksby",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Washington County sheriff; Newsweek"
+ },
+ {
+  "id": "N-274",
+  "name": "Mike Huckabee",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Mike Huckabe"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-275",
+  "name": "Jonathan Pollard",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-276",
+  "name": "David Friedman",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-277",
+  "name": "Ashley Rindsberg",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-278",
+  "name": "Tim Dillon",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Tim Dylon"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-279",
+  "name": "Bari Weiss",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-280",
+  "name": "Bob Evnen",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ }
+]

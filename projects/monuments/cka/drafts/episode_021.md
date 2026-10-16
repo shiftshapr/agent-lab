@@ -742,7 +742,7 @@ Investigative Direction: Obtain the full Megyn Kelly interview clip and surround
 
 **C-1523** Don Trump Jr. Initially Deflected Before Being Pressed and Expressing Confidence
 
-Claim Timestamp: 00:33:50
+Claim Timestamp: 00:33:08
 
 Claim: In a clip of the Megyn Kelly interview the host plays, Don Trump Jr., asked how he feels about the investigation into Charlie's death, says "so far so good" and turns to continuing Kirk's work; when Kelly asks again whether he has confidence in the FBI investigation, he says "I I do, you know, and I I I mean, I don't know," then that he does have confidence. The host says he did his best not to answer the question.
 
@@ -802,7 +802,7 @@ Investigative Direction: Verify the quoted Economist and UN official attribution
 
 Claim Timestamp: 00:01:24
 
-Claim: The host says that, from her memory, as a child Charlie Kirk was so hyperactive that doctors wanted to put him on ADHD medicine, that his parents refused and sent him to a school for the gifted, and that Charlie told her this story multiple times.
+Claim: The host says that, from her memory, as a child Charlie Kirk was so gifted, and hyperactive, that doctors wanted to put him on ADHD medicine, that his parents refused and sent him to a school for the gifted, and that Charlie told her this story multiple times.
 
 Transcript Snippet: of course doctors immediately wanted to put him on ADHD medicine because well why is he so hyperactive?
 
@@ -912,7 +912,7 @@ Investigative Direction: Locate the original Truth Social post, its date and the
 
 Claim Timestamp: 00:11:02
 
-Claim: The host says the people most insistent from the early hours that others stop asking about Charlie Kirk's death were those dedicated to the Israel lobby, and challenges viewers to find one pro-Israel person with a platform who says Tyler Robinson did not kill Kirk.
+Claim: The host says the people most insistent from the early hours that others stop asking about Charlie Kirk's death were those dedicated to the Israel lobby, and challenges viewers to find one real-life pro-Israel individual who says they don't believe Tyler Robinson killed Kirk, or one pro-Israel person with a platform who wants the investigation to continue.
 
 Transcript Snippet: Find me one, just one real life pro-Israel individual who is expressing that they don't believe that Charlie Kirk was killed by Tyler Robinson.
 
@@ -1083,7 +1083,7 @@ Investigative Direction: Review the close-up videos and medical records and inte
 
 Claim Timestamp: 00:29:08
 
-Claim: The host says Alex Clark released an interview with Andrew Kolvet and Erika Kirk days after the memorial in which they said Charlie and Erika were committed evangelicals who liked the smells and bells but not the substance of Catholicism.
+Claim: The host says Alex Clark released an interview with Andrew Kolvet a couple of days after the memorial in which they said Charlie and Erika were committed evangelicals and that he liked the smells and bells and the architecture but there was no more substance for him.
 
 Transcript Snippet: Alex Clark released that interview with her and Andrew Kolvet and they struggle sessioned through that.
 

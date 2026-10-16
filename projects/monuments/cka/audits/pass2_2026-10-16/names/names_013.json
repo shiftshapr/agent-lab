@@ -1,0 +1,295 @@
+[
+ {
+  "id": "N-481",
+  "name": "Brooklyn Beckham",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-482",
+  "name": "Nicola Peltz",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-483",
+  "name": "Victoria Beckham",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-484",
+  "name": "David Beckham",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-485",
+  "name": "Blake Lively",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-486",
+  "name": "Justin Baldoni",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-487",
+  "name": "Taylor Swift",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-488",
+  "name": "Rick Cutler",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Confirmed as Kirk security operator in KSL/Yahoo coverage of Harpole podcast: https://ksltv.com/local-news/security-chief-recounts-charlie-kirk-shot/848360/"
+ },
+ {
+  "id": "N-489",
+  "name": "Jaco Booyens",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-490",
+  "name": "Lori Frantzve",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Lori France Feay (transcript spelling)"
+  ],
+  "note": "'Lorin Frantzve' is the filing spelling, keep. First alias string is a malformed annotation ('Lori Frantzve (a.k.a. ...)') and could be cleaned up."
+ },
+ {
+  "id": "N-491",
+  "name": "Lyle Reems",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "No web source found for Lyle Reems / Desert Spirit Tech LLC; not verified."
+ },
+ {
+  "id": "N-492",
+  "name": "Shelly Reems",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "No web source found; not verified."
+ },
+ {
+  "id": "N-493",
+  "name": "Justin Davis",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Driver name not found in web coverage."
+ },
+ {
+  "id": "N-494",
+  "name": "Marina (TPUSA CMO)",
+  "verdict": "wrong",
+  "correct": "Marina Minas",
+  "source": "https://www.ibtimes.co.uk/candace-owens-andrew-kolvet-white-house-allegation-1810938",
+  "bad_aliases": [
+   "Marina Meanes",
+   "Marina Medias",
+   "Marina Medvin",
+   "Marina Munz"
+  ],
+  "note": "IBTimes reporting Owens' own X post names the CMO 'Marina Minas'. Marina Medvin is an unrelated lawyer. Single-source; no independent confirmation of the spelling."
+ },
+ {
+  "id": "N-495",
+  "name": "\"Frank\" (TPUSA General Counsel)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Placeholder; surname not found."
+ },
+ {
+  "id": "N-496",
+  "name": "Laurie Cardoza-Moore",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-497",
+  "name": "Doug DeGroote",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Listed among TPUSA directors who signed the Sept 2025 Erika Kirk CEO statement."
+ },
+ {
+  "id": "N-498",
+  "name": "Bassem Youssef",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-499",
+  "name": "Phil Tourney",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-500",
+  "name": "Ward Boston",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-501",
+  "name": "Victor Ostrovsky",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-502",
+  "name": "Arsen Ostrovsky",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-503",
+  "name": "Thomas Patrick",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-504",
+  "name": "Eliot Spitzer",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-505",
+  "name": "Nate Walker",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Kirk executive assistant name not verified by search."
+ },
+ {
+  "id": "N-506",
+  "name": "Jennifer Faumuina",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Surname spelling matches 1995-96 Honolulu Star-Bulletin coverage of the Faumuina family."
+ },
+ {
+  "id": "N-507",
+  "name": "Christopher Bagley",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Officer name not verified (search budget exhausted)."
+ },
+ {
+  "id": "N-508",
+  "name": "Beau Mason",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Beau \"Bo\" Mason"
+  ],
+  "note": "Utah DPS commissioner Beau Mason; 'Bo' is the caption spelling."
+ },
+ {
+  "id": "N-509",
+  "name": "Sapena Faumuina",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Star-Bulletin 1996: older brother Sapena. http://archives.starbulletin.com/96/07/04/news/story3.html"
+ },
+ {
+  "id": "N-510",
+  "name": "Misiona Faumuina",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Star-Bulletin 1996 coverage of the June 1995 Waipahu killing. http://archives.starbulletin.com/96/07/04/news/story3.html"
+ },
+ {
+  "id": "N-511",
+  "name": "Sid Rosen",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Founder/head of Adult Friends for Youth (Honolulu); from knowledge, search budget exhausted."
+ },
+ {
+  "id": "N-512",
+  "name": "Gayle King",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-513",
+  "name": "Dr. Alan Wolfelt",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-514",
+  "name": "Bidwell Smith",
+  "verdict": "wrong",
+  "correct": "Claire Bidwell Smith",
+  "source": "https://clairebidwellsmith.com",
+  "bad_aliases": [],
+  "note": "Grief therapist/author Claire Bidwell Smith; the Daily Mail second reference uses surname only. From knowledge, source URL not opened."
+ },
+ {
+  "id": "N-515",
+  "name": "Father Blank",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Placeholder for redacted name."
+ },
+ {
+  "id": "N-516",
+  "name": "TPUSA \"Blank\"",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Placeholder for redacted name."
+ },
+ {
+  "id": "N-517",
+  "name": "Don Lemon",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-518",
+  "name": "Kobe Bryant",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-519",
+  "name": "Vanessa Bryant",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-520",
+  "name": "Wilhelm Fliess",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ }
+]

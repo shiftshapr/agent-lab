@@ -131,13 +131,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1565",
       "family_ref": "A-1565",
-      "bundle_name": "Diligent Dennison X Post Bundle",
+      "bundle_name": "Diligent Denizen X Post Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1565.1",
           "ref": "A-1565.1",
-          "description": "Diligent Dennison X post analyzing Mark Amodei's alibi (read aloud in full)",
+          "description": "Diligent Denizen X post analyzing Mark Amodei's alibi (read aloud in full)",
           "related_claims": [
             "C-1984"
           ],
@@ -576,7 +576,7 @@
       "@type": "Person",
       "@id": "N-366",
       "ref": "N-366",
-      "name": "Diligent Dennison",
+      "name": "Diligent Denizen",
       "type": "person",
       "description": "X poster; author of the read-aloud post analyzing Mark Amodei's alibi and identifying missed roll calls.",
       "related_artifacts": [
@@ -677,7 +677,7 @@
       "ref": "N-10371",
       "name": "Mark Amodei September 9 Alibi Verification",
       "type": "investigation_target",
-      "description": "Persistent inconsistency between Amodei's own X claim of full-day attendance in D.C. and Diligent Dennison's record-based analysis of missed morning roll calls.",
+      "description": "Persistent inconsistency between Amodei's own X claim of full-day attendance in D.C. and Diligent Denizen's record-based analysis of missed morning roll calls.",
       "related_artifacts": [
         "A-1564.1",
         "A-1565.1"
@@ -1600,7 +1600,7 @@
       "@id": "C-1984",
       "ref": "C-1984",
       "label": "Mark Amodei Missed Two Morning Roll Calls on September 9",
-      "claim": "Per Diligent Dennison's X post that the host reads, Mark Amodei was not present for roll call until the third meeting in mid-afternoon on September 9 in D.C.; the host says the record shows he missed two morning roll calls, while adding that she is still working to verify that.",
+      "claim": "Per Diligent Denizen's X post that the host reads, Mark Amodei was not present for roll call until the third meeting in mid-afternoon on September 9 in D.C.; the host says the record shows he missed two morning roll calls, while adding that she is still working to verify that.",
       "anchored_artifacts": [
         "A-1565.1"
       ],
@@ -2657,8 +2657,8 @@
       "@type": "Claim",
       "@id": "C-5397",
       "ref": "C-5397",
-      "label": "Diligent Dennison infers Amodei could have attended the meeting and returned for the third roll call",
-      "claim": "In the post read aloud, Diligent Dennison says Amodei could have spent the night in Arizona on September 8, attended the morning meeting, and caught a military flight 3 to 4 hours back to make the third roll call in D.C.",
+      "label": "Diligent Denizen infers Amodei could have attended the meeting and returned for the third roll call",
+      "claim": "In the post read aloud, Diligent Denizen says Amodei could have spent the night in Arizona on September 8, attended the morning meeting, and caught a military flight 3 to 4 hours back to make the third roll call in D.C.",
       "anchored_artifacts": [
         "A-1565.1"
       ],

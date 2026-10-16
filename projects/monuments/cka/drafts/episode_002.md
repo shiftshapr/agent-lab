@@ -1142,7 +1142,7 @@ Investigative Direction: Obtain FBI evidence photos and chain of custody for rec
 **C-1140** Screwdriver Found on Roof
 
 Claim Timestamp: 00:46:15
-Claim: Investigators reported finding a screwdriver on the rooftop where the shooter was positioned.
+Claim: The host says she has been told that a screwdriver was found on the roof.
 Transcript Snippet: A screwdriver was found on the roof… he undid perhaps undid this gun while he was on the rooftop.
 Anchored Artifacts: A-1093.2, A-1089.4
 Related Nodes: N-10014, N-10020, N-10013

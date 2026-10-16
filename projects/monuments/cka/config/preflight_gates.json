@@ -553,6 +553,20 @@
     "note": "Wave 3 (Transit 73d663b P1-3): a person named in claim/artifact text before their ledger introduction fails as P1 named_before_intro. accepted: reviewed pre-Wave-3 debt (persons merged before Wave 3 whose re-introduction is out of scope); see audits/wave3/named_before_intro_debt.csv.",
     "accepted": [
       {
+        "id": "N-394",
+        "episodes": [
+          19
+        ],
+        "reason": "Corey Lewandowski (intro ep53): named in ep19 C-1473 by the pass-2 fix (2026-10-16); moving his introduction would renumber the person band."
+      },
+      {
+        "id": "N-98",
+        "episodes": [
+          5
+        ],
+        "reason": "Robert Shillman (intro ep7): named in ep5 C-11980 when pass 2 (2026-10-16) corrected the mis-transcription 'Schulman guy'; moving his introduction would renumber the person band."
+      },
+      {
         "id": "N-822",
         "episodes": [
           34

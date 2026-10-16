@@ -327,7 +327,7 @@ And then they were ready to go to the next level. Like, maybe they were represen
 
 [01:09:02]
 
-It's very interesting. Uh take a look at this news clip. And sorry, Skyler. Turning overseas, we've been following the case of South Korean Pastor Yoon Bo-seon. His imprisonment has raised concerns about religious freedom in South Korea. The case recently gained more attention when his son Chan spoke in Arizona at Turning Point USA's spoke with him following that appearance. Where he spoke about his father's case. Pastor Yoon Bo-son remains jailed in South Korea on election law charges and has drawn attention from the Korean administration for his stance on biblical truths. So firstly, I would like to thank CBN News for covering my father's news when it was mostly needed. And that's when I believe a lot of Christians in the states especially starting to pick up my father's story.
+It's very interesting. Uh take a look at this news clip. And sorry, Skyler. Turning overseas, we've been following the case of South Korean Pastor Son Hyun-bo. His imprisonment has raised concerns about religious freedom in South Korea. The case recently gained more attention when his son Chan spoke in Arizona at Turning Point USA's spoke with him following that appearance. Where he spoke about his father's case. Pastor Yoon Bo-son remains jailed in South Korea on election law charges and has drawn attention from the Korean administration for his stance on biblical truths. So firstly, I would like to thank CBN News for covering my father's news when it was mostly needed. And that's when I believe a lot of Christians in the states especially starting to pick up my father's story.
 
 [01:10:00]
 

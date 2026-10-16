@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-1196.1",
           "ref": "A-1196.1",
-          "description": "Video clip: Shaner Broadick and Lyman-family aunt review/tracing the shooter's route on camera; aunt states \"I wondered if the girl had given him stuff…if there is an accomplice.\"",
+          "description": "Video clip: Shaner Broderick and Lyman-family aunt review/tracing the shooter's route on camera; aunt states \"I wondered if the girl had given him stuff…if there is an accomplice.\"",
           "related_claims": [
             "C-1337",
             "C-1340"
@@ -240,7 +240,7 @@
           "@type": "Artifact",
           "@id": "A-1201.1",
           "ref": "A-1201.1",
-          "description": "X post by \"Florida Dab\" addressed to Megyn Kelly: \"If you can't separate yourself from Candace Owens, many of us are going to separate ourselves from you…\" followed by \"We do not have to align with everyone that claims to be of the right when their motives and history are as shady as hers.\"",
+          "description": "X post by \"Florida Dad\" addressed to Megyn Kelly: \"If you can't separate yourself from Candace Owens, many of us are going to separate ourselves from you…\" followed by \"We do not have to align with everyone that claims to be of the right when their motives and history are as shady as hers.\"",
           "related_claims": [
             "C-1347"
           ],
@@ -267,7 +267,7 @@
           "@type": "Artifact",
           "@id": "A-1202.1",
           "ref": "A-1202.1",
-          "description": "X reply by Megyn Kelly to Florida Dab refusing to condemn Candace Owens or Tucker Carlson",
+          "description": "X reply by Megyn Kelly to Florida Dad refusing to condemn Candace Owens or Tucker Carlson",
           "related_claims": [
             "C-1348"
           ],
@@ -824,7 +824,7 @@
       "@type": "Person",
       "@id": "N-137",
       "ref": "N-137",
-      "name": "Erika \"Erikica\" Mindel",
+      "name": "Erica Mindel",
       "type": "person",
       "description": "Self-described in host's producer note as American Israeli Jewish former IDF soldier; named as TikTok Public Policy Manager of Hate Speech since July 2025.",
       "related_artifacts": [
@@ -846,7 +846,7 @@
       "@type": "Person",
       "@id": "N-138",
       "ref": "N-138",
-      "name": "Florida Dab (X handle)",
+      "name": "Florida Dad (X handle)",
       "type": "person",
       "description": "X account characterized by host as \"Ziobot\"/pro-Israel; initiated the social-media pressure exchange with Megyn Kelly over separation from Candace Owens.",
       "related_artifacts": [
@@ -867,7 +867,7 @@
       "ref": "N-139",
       "name": "Konstantin Kisin",
       "type": "person",
-      "description": "X account / commenter who joined the Florida Dab → Megyn Kelly thread; described by host as an \"agent of Israel.\"",
+      "description": "X account / commenter who joined the Florida Dad → Megyn Kelly thread; described by host as an \"agent of Israel.\"",
       "related_artifacts": [
         "A-1203.1",
         "A-1203.2"
@@ -962,7 +962,7 @@
       "ref": "N-10152",
       "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
       "type": "investigation_target",
-      "description": "Persistent target referenced across host reporting, anonymous tip, and Shaner Broadick footage; the FBI has not, per host, publicly identified or released her.",
+      "description": "Persistent target referenced across host reporting, anonymous tip, and Shaner Broderick footage; the FBI has not, per host, publicly identified or released her.",
       "related_artifacts": [
         "A-1196.1",
         "A-1207.1"
@@ -2253,7 +2253,7 @@
       "@id": "C-1339",
       "ref": "C-1339",
       "label": "Host Says State Farm Stadium Memorial Venue Was Secured via White House Intervention, Displacing a Scheduled RV Show",
-      "claim": "The host says she was told that Turning Point USA did not book State Farm Stadium in advance, and that the White House placed a personal call to the event coordinator and obtained the date by having a previously booked RV show rescheduled.",
+      "claim": "The host says she was told that Turning Point USA did not book State Farm Stadium in advance, and that the White House placed a personal call to the event coordinator and obtained the date by asking a previously booked event, apparently an RV show, to move or reschedule.",
       "anchored_artifacts": [
         "A-1198.1"
       ],
@@ -2267,7 +2267,7 @@
       "@id": "C-1340",
       "ref": "C-1340",
       "label": "Lyman family member on camera suggested a \"girl\" may have acted as accomplice with the shooter",
-      "claim": "In footage recorded by Shaner Broadick, his aunt (identified as a Lyman family member) states on camera that she wondered if \"the girl\" had given the shooter items and that there might have been an accomplice.",
+      "claim": "In footage recorded by Shaner Broderick, his aunt (identified as a Lyman family member) states on camera that she wondered if \"the girl\" had given the shooter items and that there might have been an accomplice.",
       "anchored_artifacts": [
         "A-1196.1"
       ],
@@ -2401,8 +2401,8 @@
       "@type": "Claim",
       "@id": "C-1347",
       "ref": "C-1347",
-      "label": "\"Florida Dab\" account on X demanded Megyn Kelly separate from Candace Owens",
-      "claim": "Per the X post the host shows, an account identifying as \"Florida Dab\" told Megyn Kelly she must separate from Candace Owens, or \"many of us\" would separate from Kelly.",
+      "label": "\"Florida Dad\" Account on X Demanded Megyn Kelly Separate From Candace Owens",
+      "claim": "Per the X post the host shows, an account identifying as \"Florida Dad\" told Megyn Kelly she must separate from Candace Owens, or \"many of us\" would separate from Kelly.",
       "anchored_artifacts": [
         "A-1201.1"
       ],
@@ -2421,7 +2421,7 @@
       "@id": "C-1348",
       "ref": "C-1348",
       "label": "Megyn Kelly publicly refused to condemn Candace Owens or Tucker Carlson in the thread",
-      "claim": "The host shows a post in which Megyn Kelly replies to Florida Dab that she has no obligation to separate herself from anyone and that if he needs her to condemn Candace or Tucker for their opinions in order to listen to her, she may not be for him.",
+      "claim": "The host shows a post in which Megyn Kelly replies to Florida Dad that she has no obligation to separate herself from anyone and that if he needs her to condemn Candace or Tucker for their opinions in order to listen to her, she may not be for him.",
       "anchored_artifacts": [
         "A-1202.1",
         "A-1203.2"
@@ -2670,8 +2670,7 @@
       "investigative_direction": "Retrieve the earlier paid message and the tipster's identity, and compare her description with the doorbell footage released by TMZ.",
       "transcript_snippet": "someone paid money uh to inform us that there was footage that the FBI was hiding.",
       "mentions_person_refs": [
-        "N-3",
-        "N-61"
+        "N-3"
       ]
     },
     {
@@ -2740,7 +2739,7 @@
       "@id": "C-10780",
       "ref": "C-10780",
       "label": "Host says the aunt is the woman who handed her footage to the FBI",
-      "claim": "The host says the woman heard on Shaner's clip is the person who handed her footage to the FBI, and that she has therefore confirmed twice, once from the aunt's own words and once from her source, that a woman was with the shooter.",
+      "claim": "The host says the woman heard on Shaner's clip is the person who handed her footage to the FBI, and that she now has both her source and the aunt's own words indicating that a woman was with the shooter.",
       "anchored_artifacts": [
         "A-1196.1"
       ],
@@ -2807,7 +2806,7 @@
       "@id": "C-10783",
       "ref": "C-10783",
       "label": "Host says Lyman told Fox News he had not seen the footage while his cousin gave it to TMZ",
-      "claim": "The host says Phil Lyman said on a Fox News segment with Kaylee McEnany that he was at a cousin's house watching live and seeing the footage for the first time, while the cousin had already given footage to TMZ.",
+      "claim": "The host says Phil Lyman said on a Fox News segment with Kayleigh McEnany that he was at a cousin's house watching live and seeing the footage for the first time, while the cousin had already given footage to TMZ.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10006",
@@ -3322,7 +3321,7 @@
       "@id": "C-10807",
       "ref": "C-10807",
       "label": "Host says Megyn Kelly tweeted her episode asking to hear Charlie in his own words",
-      "claim": "The host says Megyn Kelly tweeted her episode saying to listen to Charlie in his own words, and that Florida Dab replied by demanding she separate from the host.",
+      "claim": "The host says Megyn Kelly tweeted her episode saying to listen to Charlie in his own words, and that Florida Dad replied by demanding she separate from the host.",
       "anchored_artifacts": [
         "A-1201.1"
       ],
@@ -3458,7 +3457,7 @@
       "@id": "C-10813",
       "ref": "C-10813",
       "label": "Host Reads Kisin Asking Why Lies on the Right Should Not Be Challenged",
-      "claim": "The host reads a reply from Kissen saying he demands nothing of Kelly and asks why lies told by prominent people on the right should not be challenged like lies on the left, and Kelly answering that his response proves the opposite.",
+      "claim": "The host reads a reply from Kisin saying he demands nothing of Kelly and asks why lies told by prominent people on the right should not be challenged like lies on the left, and Kelly answering that his response proves the opposite.",
       "anchored_artifacts": [
         "A-1203.2"
       ],
@@ -3681,7 +3680,7 @@
       "@id": "C-10823",
       "ref": "C-10823",
       "label": "Host says the security firm earned large sums from Charlie",
-      "claim": "The host says the security firm made a lot of money off Charlie, and that Charlie ended up buying Turning Point USA and taking on the security firm.",
+      "claim": "The host says the security firm was making a lot of money off Charlie and that it was taken on by Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -3942,8 +3941,8 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:core",
-        "dia"
+        "dia",
+        "relevance:core"
       ],
       "claim_timestamp": "00:50:28",
       "investigative_direction": "Review tip line submissions.",
@@ -4180,7 +4179,7 @@
           "video_timestamp": "00:34:10",
           "speaker_node_ref": "N-3",
           "quote": "that's why I say they're Mr. Smith from the Matrix",
-          "context": "Host repeats the label while describing Kisin and Florida Dab.",
+          "context": "Host repeats the label while describing Kisin and Florida Dad.",
           "confidence": "high",
           "tags": [
             "agents",

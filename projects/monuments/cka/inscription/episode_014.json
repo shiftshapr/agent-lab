@@ -436,13 +436,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2906",
       "family_ref": "A-2906",
-      "bundle_name": "Murder of Little Mary Fagan Book Bundle",
+      "bundle_name": "Murder of Little Mary Phagan Book Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2906.1",
           "ref": "A-2906.1",
-          "description": "Host verbal reference to the book The Murder of Little Mary Fagan (not shown)",
+          "description": "Host verbal reference to the book The Murder of Little Mary Phagan (not shown)",
           "related_claims": [
             "C-7845"
           ],
@@ -1102,7 +1102,7 @@
       "ref": "N-132",
       "name": "Shaner Broderick",
       "type": "person",
-      "description": "Person whose Instagram the host says featured Gauer.",
+      "description": "Person whose Instagram the host says featured Gernot Ohner.",
       "related_artifacts": [],
       "related_claims": [
         "C-7870"
@@ -1117,9 +1117,9 @@
       "@type": "Person",
       "@id": "N-133",
       "ref": "N-133",
-      "name": "Gernot Omer",
+      "name": "Gernot Ohner",
       "type": "person",
-      "description": "Likely the witness the host calls Gauer, an Austrian software engineer (uncertain match).",
+      "description": "Likely the witness the host calls Gernot Ohner, an Austrian software engineer (uncertain match).",
       "related_artifacts": [],
       "related_claims": [
         "C-7870"
@@ -1690,7 +1690,7 @@
       "ref": "N-11154",
       "name": "Azov Battalion",
       "type": "organization",
-      "description": "Ukrainian unit (rendered 'AOV battalion') that the host says the ADL removed from its hate list.",
+      "description": "Ukrainian unit (rendered 'Azov battalion') that the host says the ADL removed from its hate list.",
       "related_artifacts": [],
       "related_claims": [
         "C-7852"
@@ -1767,7 +1767,7 @@
       "@id": "C-1354",
       "ref": "C-1354",
       "label": "Kash Patel Announced End of FBI/ADL Partnership via Posted Statement",
-      "claim": "FBI Director Kash Patel posted a public statement asserting that the FBI will no longer partner with the ADL and characterizing prior FBI-ADL cooperation (including under Comey) as disgraceful surveillance operations.",
+      "claim": "Per the post by FBI Director Kash Patel that the host reads, James Comey wrote love letters to the ADL and embedded FBI agents with it, the ADL ran disgraceful ops spying on Americans, that era is over, and the FBI will not partner with political fronts masquerading as watchdogs.",
       "anchored_artifacts": [
         "A-1209.1"
       ],
@@ -1979,7 +1979,7 @@
       "@type": "Claim",
       "@id": "C-3643",
       "ref": "C-3643",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "label": "Host Says Many People Bought the Show's CIA Merch",
       "claim": "The host says there is new merch on the website and that many people bought the show's CIA merch, adding 'We don't know, but we know.'",
       "anchored_artifacts": [
         "A-2487.1"
@@ -2045,7 +2045,7 @@
       "@id": "C-7838",
       "ref": "C-7838",
       "label": "Host Says the ADL Was Born Out of B'nai B'rith",
-      "claim": "The host says the ADL was born out of a Jewish Freemason organization known as B'nai B'rith (rendered 'Benith' in the transcript).",
+      "claim": "The host says the ADL was born out of a Jewish Freemason organization known as B'nai B'rith.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11153",
@@ -2056,7 +2056,7 @@
       ],
       "claim_timestamp": "00:01:15",
       "investigative_direction": "Compare with the ADL's own founding history and B'nai B'rith records.",
-      "transcript_snippet": "The reality is the ADL was born out of a Jewish Freemason organization known as Benith.",
+      "transcript_snippet": "The reality is the ADL was born out of a Jewish Freemason organization known as B'nai B'rith.",
       "mentions_person_refs": [
         "N-3"
       ]
@@ -2131,8 +2131,8 @@
       "@type": "Claim",
       "@id": "C-7842",
       "ref": "C-7842",
-      "label": "Host Says Mary Fagan Was a 13-Year-Old Pencil Factory Worker Found Raped in 1913",
-      "claim": "The host says Mary Fagan (Mary Phagan in the record) was a 13-year-old Catholic girl who worked at Leo Frank's Atlanta pencil factory and was found brutally raped in 1913.",
+      "label": "Host Says Mary Phagan Was a 13-Year-Old Pencil Factory Worker Found Raped in 1913",
+      "claim": "The host says Mary Phagan was a 13-year-old Catholic girl who worked at Leo Frank's Atlanta pencil factory and was found brutally raped in 1913.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11156"
@@ -2142,7 +2142,7 @@
       ],
       "claim_timestamp": "00:03:10",
       "investigative_direction": "Check 1913 Georgia court and newspaper records of the Phagan case.",
-      "transcript_snippet": "And Mary Fagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped.",
+      "transcript_snippet": "And Mary Phagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped.",
       "mentions_person_refs": [
         "N-795",
         "N-794"
@@ -2198,8 +2198,8 @@
       "@type": "Claim",
       "@id": "C-7845",
       "ref": "C-7845",
-      "label": "Host Says a Book About Mary Fagan Was Written by a Relative of the Same Name",
-      "claim": "The host says the book The Murder of Little Mary Fagan was written by a relative of the victim who is also named Mary Fagan, and recommends it as a source.",
+      "label": "Host Says a Book About Mary Phagan Was Written by a Relative of the Same Name",
+      "claim": "The host says the book The Murder of Little Mary Phagan was written by a relative of the victim who is also named Mary Phagan, and recommends it as a source.",
       "anchored_artifacts": [
         "A-2906.1"
       ],
@@ -2211,7 +2211,7 @@
       ],
       "claim_timestamp": "00:04:25",
       "investigative_direction": "Confirm the book, its author and relationship to the victim.",
-      "transcript_snippet": "there's a book called The Murder of Little Mary Fagan, and it is written by a relative of hers.",
+      "transcript_snippet": "there's a book called The Murder of Little Mary Phagan, and it is written by a relative of hers.",
       "mentions_person_refs": [
         "N-795",
         "N-3"
@@ -2352,7 +2352,7 @@
       "@id": "C-7852",
       "ref": "C-7852",
       "label": "Host Says the ADL Removed the Azov Battalion From Its Hate List",
-      "claim": "The host says the ADL curiously removed the Azov battalion (rendered 'AOV' in the transcript), which she says carves swastikas and murders people, from its hate list.",
+      "claim": "The host says the ADL curiously removed the Azov battalion, which she says carves swastikas and murders people, from its hate list.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11153",
@@ -2363,7 +2363,7 @@
       ],
       "claim_timestamp": "00:10:50",
       "investigative_direction": "Check the ADL's Glossary of Extremism entry for Azov and its edit history.",
-      "transcript_snippet": "they curiously removed the AOV battalion. They're carving swastikas on their head. The Ukrainians uh murdering people. They removed them from the hate list.",
+      "transcript_snippet": "they curiously removed the Azov battalion. They're carving swastikas on their head. The Ukrainians uh murdering people. They removed them from the hate list.",
       "mentions_person_refs": [
         "N-3"
       ]
@@ -2742,8 +2742,8 @@
       "@type": "Claim",
       "@id": "C-7870",
       "ref": "C-7870",
-      "label": "Host Says Gauer Is an Austrian Software Engineer Tied to Lyman's Relative and Shaner's Instagram",
-      "claim": "The host says Gauer was with a relative of Phil Lyman's (she says uncle, cousin, nephew), is a software engineer from Austria, and was featured in Shaner's Instagram.",
+      "label": "Host Says Gernot Ohner Is an Austrian Software Engineer Tied to Lyman's Relative and Shaner's Instagram",
+      "claim": "The host says Gernot Ohner was with a relative of Phil Lyman's (she says uncle, cousin, nephew), is a software engineer from Austria, and was featured in Shaner's Instagram.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10161"
@@ -2752,7 +2752,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:24:01",
-      "investigative_direction": "Match the Gauer name to the previously identified Gernot Omer and review the Shaner Instagram posts.",
+      "investigative_direction": "Match the Gernot Ohner name to the previously identified Gernot Ohner and review the Shaner Instagram posts.",
       "transcript_snippet": "He we learned was a software engineer from Austria. So, Austria, Germany.",
       "mentions_person_refs": [
         "N-133",
@@ -2830,7 +2830,7 @@
       "@id": "C-7874",
       "ref": "C-7874",
       "label": "Host Says Robbie Hild Has Cayman Islands and Spain Connections",
-      "claim": "The host says her team has found Robbie Hild connected to the Cayman Islands and to Spain, has put a TBD on him, and will report on him Monday.",
+      "claim": "The host says her team is getting information on Robbie Hild involving the Cayman Islands and Spain, has put a TBD on him, and will report on him Monday.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10153"
@@ -3007,7 +3007,7 @@
       "@id": "C-7882",
       "ref": "C-7882",
       "label": "Lane Says Skordas Is Running as a State Prosecutor and Says So on His Website",
-      "claim": "Lane says Scordies (Skordas) is running as a state prosecutor, that it is on his website, and that his finding a lawyer for Robinson is highly unethical.",
+      "claim": "Lane says Skordas is running as a state prosecutor, that it is on his website, and that his finding a lawyer for Robinson is highly unethical.",
       "anchored_artifacts": [
         "A-1212.1"
       ],
@@ -3019,7 +3019,7 @@
       ],
       "claim_timestamp": "00:32:15",
       "investigative_direction": "Check Skordas's campaign site and official role; confirm spelling and title.",
-      "transcript_snippet": "So, what I know is that Scordies is running as a state prosecutor. He's running. Everyone can look it up. It's on his website.",
+      "transcript_snippet": "So, what I know is that Skordas is running as a state prosecutor. He's running. Everyone can look it up. It's on his website.",
       "supports_claim_refs": [
         "C-1360"
       ],

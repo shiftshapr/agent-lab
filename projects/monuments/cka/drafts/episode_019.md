@@ -928,7 +928,7 @@ Investigative Direction: Identify the source of Pastor McCoy's information regar
 
 Claim Timestamp: 00:38:21–00:39:19
 
-Claim: Charlie Kirk texted Candace Owens on April 6, 2018 stating he "might not see this whole thing through," that he was "not sure if I will live to see the end of this revolution," and that he had dreamed about being "wiped out" since the beginning of TPUSA.
+Claim: Per text messages dated April 6, 2018 that the host reads aloud and says Charlie Kirk sent her, he wrote that he "might not see this whole thing through," that he was "not sure if I will live to see the end of this revolution," and that since the beginning of TPUSA he knew in his gut he "might get wiped out at any time" and dreamed about it all the time.
 
 Anchored Artifacts: A-1266.1
 Mentions: N-3, N-1
@@ -1003,7 +1003,7 @@ Investigative Direction: Identify the date, venue, and full transcript of the UV
 
 Claim Timestamp: 00:03:02
 
-Claim: Photo depicts Candace Owens and Charlie Kirk on a fishing trip in British Columbia; photographer described as Donald Trump Jr. or Corey Lewandowski ("Flash").
+Claim: The host shows a photo she says is of her and Charlie Kirk fishing in British Columbia, and says she thinks Donald Trump Jr., or possibly Corey Lewandowski, took the picture.
 
 Anchored Artifacts: A-1263.1
 Mentions: N-33, N-3, N-1
