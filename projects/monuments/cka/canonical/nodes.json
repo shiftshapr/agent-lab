@@ -7203,7 +7203,7 @@
       ]
     },
     "N-473": {
-      "canonical_name": "Zack Gregorio (Wolves and Finance)",
+      "canonical_name": "Zach De Gregorio (Wolves and Finance)",
       "type": "person",
       "aliases": [
         "Wolves and Finance"
@@ -9612,7 +9612,7 @@
       ]
     },
     "N-719": {
-      "canonical_name": "Kathy O'Brien",
+      "canonical_name": "Cathy O'Brien",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9741,7 +9741,7 @@
       ]
     },
     "N-734": {
-      "canonical_name": "Stu Peters",
+      "canonical_name": "Stew Peters",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9896,7 +9896,7 @@
       ]
     },
     "N-752": {
-      "canonical_name": "Andrea Birkhart",
+      "canonical_name": "Andrea Burkhart",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9904,7 +9904,7 @@
       ]
     },
     "N-753": {
-      "canonical_name": "Robin Emer",
+      "canonical_name": "Robin Ebmeyer",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9943,7 +9943,7 @@
       ]
     },
     "N-757": {
-      "canonical_name": "Breland Holland",
+      "canonical_name": "Brilyn Hollyhand",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10017,9 +10017,11 @@
       ]
     },
     "N-766": {
-      "canonical_name": "Kenny",
+      "canonical_name": "Kenzie Kinney",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Kenny"
+      ],
       "episodes": [
         31
       ]
@@ -10033,7 +10035,7 @@
       ]
     },
     "N-768": {
-      "canonical_name": "Helen Barts",
+      "canonical_name": "Helene Bartz",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10101,7 +10103,7 @@
       ]
     },
     "N-776": {
-      "canonical_name": "Caitlyn Oliver",
+      "canonical_name": "Caitlin Oliver",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10131,7 +10133,7 @@
       ]
     },
     "N-779": {
-      "canonical_name": "Amanda Baker",
+      "canonical_name": "Amanda Bakker",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10167,7 +10169,7 @@
       ]
     },
     "N-783": {
-      "canonical_name": "Foster Curtis",
+      "canonical_name": "Foster Curtiss",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10235,7 +10237,7 @@
       ]
     },
     "N-791": {
-      "canonical_name": "Todd Starns",
+      "canonical_name": "Todd Starnes",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10461,7 +10463,7 @@
       ]
     },
     "N-817": {
-      "canonical_name": "David Sprag",
+      "canonical_name": "David Sprague",
       "type": "person",
       "aliases": [
         "James Norman Rawlinson Jr.",
@@ -10870,9 +10872,11 @@
       ]
     },
     "N-864": {
-      "canonical_name": "Agent Hoole",
+      "canonical_name": "David Hull",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Agent Hoole"
+      ],
       "episodes": [
         140
       ]
@@ -24106,7 +24110,7 @@
       ]
     },
     "N-11141": {
-      "canonical_name": "Foster Curtis Richmond Inspector General Transition",
+      "canonical_name": "Foster Curtiss Richmond Inspector General Transition",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -26392,9 +26396,11 @@
       ]
     },
     "N-945": {
-      "canonical_name": "Johnny Yep",
+      "canonical_name": "John Yep",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Johnny Yep"
+      ],
       "episodes": [
         80
       ]

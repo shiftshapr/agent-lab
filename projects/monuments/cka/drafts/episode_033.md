@@ -676,7 +676,7 @@ Podcaster whose episode with Charlie's security detail a viewer asks the host ab
 
 ---
 
-**N-473** Zack Gregorio (Wolves and Finance)
+**N-473** Zach De Gregorio (Wolves and Finance)
 
 Wolves and Finance YouTube channel whose TPUSA filings report is played on air.
 

@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-16T17:03:03Z",
+  "generated_at": "2026-10-16T17:13:37Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -14546,7 +14546,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11841",
-      "label": "Host Says Neff Worked for Stu Peters Before the Kirk Job",
+      "label": "Host Says Neff Worked for Stew Peters Before the Kirk Job",
       "node_kind": "claim",
       "episode": 154
     },
@@ -49385,14 +49385,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2971",
-      "label": "Video clip shows David Sprag standing and appearing to cheer after the shot",
+      "label": "Video clip shows David Sprague standing and appearing to cheer after the shot",
       "node_kind": "claim",
       "episode": 122
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2972",
-      "label": "Video clip shows David Sprag and a companion standing under umbrellas at the event",
+      "label": "Video clip shows David Sprague and a companion standing under umbrellas at the event",
       "node_kind": "claim",
       "episode": 122
     },
@@ -49658,7 +49658,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3010",
-      "label": "Caitlyn Oliver testified media \"DNA on the gun\" framing was scientifically indefensible",
+      "label": "Caitlin Oliver testified media \"DNA on the gun\" framing was scientifically indefensible",
       "node_kind": "claim",
       "episode": 124
     },
@@ -49931,14 +49931,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3049",
-      "label": "FBI agent Amanda Baker testified backpack was determined to be potentially left by a bystander",
+      "label": "FBI agent Amanda Bakker testified backpack was determined to be potentially left by a bystander",
       "node_kind": "claim",
       "episode": 127
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3050",
-      "label": "Amanda Baker testified lab notes attributed backpack to Kirk's detail via another lab employee's communication",
+      "label": "Amanda Bakker testified lab notes attributed backpack to Kirk's detail via another lab employee's communication",
       "node_kind": "claim",
       "episode": 127
     },
@@ -69580,7 +69580,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5858",
-      "label": "Neff Worked for Stu Peters Then Joined Charlie After Tucker Carlson Recommended Him",
+      "label": "Neff Worked for Stew Peters Then Joined Charlie After Tucker Carlson Recommended Him",
       "node_kind": "claim",
       "episode": 125
     },
@@ -72072,7 +72072,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6214",
-      "label": "Review: Crofts preferred TPUSA manage ticketing through its Phoenix national office; Robin Emer had reservations",
+      "label": "Review: Crofts preferred TPUSA manage ticketing through its Phoenix national office; Robin Ebmeyer had reservations",
       "node_kind": "claim",
       "episode": 157
     },
@@ -74235,7 +74235,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6523",
-      "label": "Host Says Trump Told a Memorial Story About Charlie and Breland Holland Although Trump Was Not There",
+      "label": "Host Says Trump Told a Memorial Story About Charlie and Brilyn Hollyhand Although Trump Was Not There",
       "node_kind": "claim",
       "episode": 21
     },
@@ -77707,14 +77707,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7019",
-      "label": "Host Says Helen Barts Founded the Academy and Her Husband Is Rev. Robert Barts",
+      "label": "Host Says Helene Bartz Founded the Academy and Her Husband Is Rev. Robert Barts",
       "node_kind": "claim",
       "episode": 63
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7020",
-      "label": "Host Says a Tipster Reports Helen Barts Was Friends With Bill and Edith Montgomery",
+      "label": "Host Says a Tipster Reports Helene Bartz Was Friends With Bill and Edith Montgomery",
       "node_kind": "claim",
       "episode": 63
     },
@@ -77728,7 +77728,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7022",
-      "label": "Tipster Claims Edith Walker Started the School With Helen Barts and Has Been Wiped From the Record",
+      "label": "Tipster Claims Edith Walker Started the School With Helene Bartz and Has Been Wiped From the Record",
       "node_kind": "claim",
       "episode": 63
     },
@@ -77756,7 +77756,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7026",
-      "label": "Host Says She Confirmed Helen Barts Ran the Shaklee Center in Arlington Heights",
+      "label": "Host Says She Confirmed Helene Bartz Ran the Shaklee Center in Arlington Heights",
       "node_kind": "claim",
       "episode": 63
     },
@@ -79205,7 +79205,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7233",
-      "label": "Host Says Influencers Pushed 4K Footage Claims to Overcome Caitlyn Oliver's Testimony",
+      "label": "Host Says Influencers Pushed 4K Footage Claims to Overcome Caitlin Oliver's Testimony",
       "node_kind": "claim",
       "episode": 124
     },
@@ -80199,7 +80199,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7375",
-      "label": "Host Says Mitchell Curtis's Father Foster Curtis Spent 21 Years at NCIS",
+      "label": "Host Says Mitchell Curtis's Father Foster Curtiss Spent 21 Years at NCIS",
       "node_kind": "claim",
       "episode": 133
     },
@@ -80213,7 +80213,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7377",
-      "label": "Host Says Foster Curtis Left NCIS on June 2, 2025 to Be Richmond's Interim Inspector General",
+      "label": "Host Says Foster Curtiss Left NCIS on June 2, 2025 to Be Richmond's Interim Inspector General",
       "node_kind": "claim",
       "episode": 133
     },
@@ -80227,7 +80227,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7379",
-      "label": "Host Adds Mitch and Foster Curtis to Her Tree of Brand-New Utah Personnel",
+      "label": "Host Adds Mitch and Foster Curtiss to Her Tree of Brand-New Utah Personnel",
       "node_kind": "claim",
       "episode": 133
     },
@@ -81970,7 +81970,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7628",
-      "label": "Jack Hibbs Tells Todd Starns That His Brother Phoned Him With Screaming Audible",
+      "label": "Jack Hibbs Tells Todd Starnes That His Brother Phoned Him With Screaming Audible",
       "node_kind": "claim",
       "episode": 146
     },
@@ -90398,7 +90398,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8832",
-      "label": "Host Says David Sprag's Birth Name Is James Norman Rawlinson Jr.",
+      "label": "Host Says David Sprague's Birth Name Is James Norman Rawlinson Jr.",
       "node_kind": "claim",
       "episode": 122
     },
@@ -92204,7 +92204,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9090",
-      "label": "Host Says David Sprag Changed His Name From James Rollinsson and Told Her His Father Was Tied to Child Crimes",
+      "label": "Host Says David Sprague Changed His Name From James Rollinsson and Told Her His Father Was Tied to Child Crimes",
       "node_kind": "claim",
       "episode": 138
     },
@@ -116459,21 +116459,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2105",
-      "label": "David Sprag Audience Video Bundle",
+      "label": "David Sprague Audience Video Bundle",
       "node_kind": "artifact",
       "episode": 122
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2105.1",
-      "label": "Video clip of David Sprag standing and appearing to cheer after the shot",
+      "label": "Video clip of David Sprague standing and appearing to cheer after the shot",
       "node_kind": "artifact",
       "episode": 122
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2105.2",
-      "label": "Video clip of David Sprag and companion standing under umbrellas at the event",
+      "label": "Video clip of David Sprague and companion standing under umbrellas at the event",
       "node_kind": "artifact",
       "episode": 122
     },
@@ -116823,28 +116823,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2124",
-      "label": "Caitlyn Oliver ATF DNA Testimony Audio Bundle",
+      "label": "Caitlin Oliver ATF DNA Testimony Audio Bundle",
       "node_kind": "artifact",
       "episode": 124
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2124.1",
-      "label": "Audio of Caitlyn Oliver (ATF forensic biologist) testifying that characterizing media reports as \"Mr. Robinson's DNA is found on this item\" would be a \"source attribution\" that is \"not scientifically ",
+      "label": "Audio of Caitlin Oliver (ATF forensic biologist) testifying that characterizing media reports as \"Mr. Robinson's DNA is found on this item\" would be a \"source attribution\" that is \"not scientifically ",
       "node_kind": "artifact",
       "episode": 124
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2124.2",
-      "label": "Audio of Caitlyn Oliver explaining DNA samples from the trigger and trigger guard were mixed samples with at least 4–7 contributors, with \"major contributor\"/\"minor contributor\" referring only to DNA ",
+      "label": "Audio of Caitlin Oliver explaining DNA samples from the trigger and trigger guard were mixed samples with at least 4–7 contributors, with \"major contributor\"/\"minor contributor\" referring only to DNA ",
       "node_kind": "artifact",
       "episode": 124
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2124.3",
-      "label": "Audio of Caitlyn Oliver confirming that Tyler Robinson's DNA sample was the most degraded of all contributors on the firearm (swab 1.3 of trigger/trigger guard).",
+      "label": "Audio of Caitlin Oliver confirming that Tyler Robinson's DNA sample was the most degraded of all contributors on the firearm (swab 1.3 of trigger/trigger guard).",
       "node_kind": "artifact",
       "episode": 124
     },
@@ -117299,7 +117299,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2149",
-      "label": "Amanda Baker (FBI) Preliminary Hearing Testimony Bundle",
+      "label": "Amanda Bakker (FBI) Preliminary Hearing Testimony Bundle",
       "node_kind": "artifact",
       "episode": 127
     },
@@ -120610,7 +120610,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2323.1",
-      "label": "Jack Hibbs audio interview with Todd Starns (Fox News) – brother Butch's front-row seat and post-shooting call",
+      "label": "Jack Hibbs audio interview with Todd Starnes (Fox News) – brother Butch's front-row seat and post-shooting call",
       "node_kind": "artifact",
       "episode": 146
     },
@@ -128233,7 +128233,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2756.3",
-      "label": "Read-aloud comment from 'Alyssa' recommending an interview with Kathy O'Brien and her book Transformation of America",
+      "label": "Read-aloud comment from 'Alyssa' recommending an interview with Cathy O'Brien and her book Transformation of America",
       "node_kind": "artifact",
       "episode": 57
     },
@@ -129430,7 +129430,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2819.1",
-      "label": "Host verbal reference to Trump's memorial speech story about Charlie interviewing fourth grader Breland Holland (not shown)",
+      "label": "Host verbal reference to Trump's memorial speech story about Charlie interviewing fourth grader Brilyn Hollyhand (not shown)",
       "node_kind": "artifact",
       "episode": 21
     },
@@ -129857,7 +129857,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2847.1",
-      "label": "Host verbal reference to a tip she received about Helen Barts, Bill and Edith Montgomery, the academy's founding and Shaklee employment (message not shown)",
+      "label": "Host verbal reference to a tip she received about Helene Bartz, Bill and Edith Montgomery, the academy's founding and Shaklee employment (message not shown)",
       "node_kind": "artifact",
       "episode": 63
     },

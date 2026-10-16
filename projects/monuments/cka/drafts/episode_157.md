@@ -1323,11 +1323,11 @@ Organization whose finances are the subject of the missing money rumors.
 
 ---
 
-**N-753** Robin Emer
+**N-753** Robin Ebmeyer
 
 Node Type: Person
 First named by the host at 00:36:24 in episode 157 as UVU's director of emergency management and safety who expressed reservations at the August 25 MEAC meeting.
-Aliases (transcript spelling): Robin Emer.
+Aliases (transcript spelling): Robin Ebmeyer.
 
 *Related: C-6214*
 
@@ -2267,11 +2267,11 @@ Investigative Direction: Obtain MEAC participant statements naming who proposed 
 
 ---
 
-**C-6214** Review: Crofts preferred TPUSA manage ticketing through its Phoenix national office; Robin Emer had reservations
+**C-6214** Review: Crofts preferred TPUSA manage ticketing through its Phoenix national office; Robin Ebmeyer had reservations
 
 Claim Timestamp: 00:36:24
 
-Claim: The host reads that Crofts said she preferred that TPUSA manage online ticketing through its national office in Phoenix, and that when members including Robin Emer, UVU's director of emergency management and safety, expressed reservations, the committee still let the event proceed in the requested location with TPUSA ticketing.
+Claim: The host reads that Crofts said she preferred that TPUSA manage online ticketing through its national office in Phoenix, and that when members including Robin Ebmeyer, UVU's director of emergency management and safety, expressed reservations, the committee still let the event proceed in the requested location with TPUSA ticketing.
 
 Transcript Snippet: She said that she preferred that TPUSA manage online ticketing through its national office in Phoenix.
 

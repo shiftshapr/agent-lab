@@ -337,7 +337,7 @@
           "@type": "Artifact",
           "@id": "A-2756.3",
           "ref": "A-2756.3",
-          "description": "Read-aloud comment from 'Alyssa' recommending an interview with Kathy O'Brien and her book Transformation of America",
+          "description": "Read-aloud comment from 'Alyssa' recommending an interview with Cathy O'Brien and her book Transformation of America",
           "related_claims": [
             "C-5474"
           ],
@@ -1013,7 +1013,7 @@
       "@type": "Person",
       "@id": "N-719",
       "ref": "N-719",
-      "name": "Kathy O'Brien",
+      "name": "Cathy O'Brien",
       "type": "person",
       "description": "First named by the host at 00:51:51 in episode 57, reading a comment recommending her and her book Transformation of America.",
       "related_artifacts": [
@@ -2487,7 +2487,7 @@
       "@id": "C-5474",
       "ref": "C-5474",
       "label": "Host says she knows about Project Monarch as precursor to Nazi traumatization of children",
-      "claim": "Replying to commenter Alyssa, who recommended interviewing Kathy O'Brien, the host says she knows about Project Monarch and has discussed it on the show as the precursor to what the Nazis did here, which was about traumatizing children.",
+      "claim": "Replying to commenter Alyssa, who recommended interviewing Cathy O'Brien, the host says she knows about Project Monarch and has discussed it on the show as the precursor to what the Nazis did here, which was about traumatizing children.",
       "anchored_artifacts": [
         "A-2756.3"
       ],

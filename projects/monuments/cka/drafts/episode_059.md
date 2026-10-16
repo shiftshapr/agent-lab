@@ -498,7 +498,7 @@ Investigative Pressure: Low
 
 *Related: N-1, N-271, N-10425*
 
-**N-473** Zack Gregorio (Wolves and Finance)
+**N-473** Zach De Gregorio (Wolves and Finance)
 
 YouTuber who received the TPUSA cease-and-desist letter and produced the on-air clip.
 

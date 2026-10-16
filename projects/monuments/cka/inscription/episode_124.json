@@ -342,13 +342,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2124",
       "family_ref": "A-2124",
-      "bundle_name": "Caitlyn Oliver ATF DNA Testimony Audio Bundle",
+      "bundle_name": "Caitlin Oliver ATF DNA Testimony Audio Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2124.1",
           "ref": "A-2124.1",
-          "description": "Audio of Caitlyn Oliver (ATF forensic biologist) testifying that characterizing media reports as \"Mr. Robinson's DNA is found on this item\" would be a \"source attribution\" that is \"not scientifically defensible.\"",
+          "description": "Audio of Caitlin Oliver (ATF forensic biologist) testifying that characterizing media reports as \"Mr. Robinson's DNA is found on this item\" would be a \"source attribution\" that is \"not scientifically defensible.\"",
           "related_claims": [
             "C-3010"
           ],
@@ -364,7 +364,7 @@
           "@type": "Artifact",
           "@id": "A-2124.2",
           "ref": "A-2124.2",
-          "description": "Audio of Caitlyn Oliver explaining DNA samples from the trigger and trigger guard were mixed samples with at least 4–7 contributors, with \"major contributor\"/\"minor contributor\" referring only to DNA quantity contributed, not to activity attribution.",
+          "description": "Audio of Caitlin Oliver explaining DNA samples from the trigger and trigger guard were mixed samples with at least 4–7 contributors, with \"major contributor\"/\"minor contributor\" referring only to DNA quantity contributed, not to activity attribution.",
           "related_claims": [
             "C-3011"
           ],
@@ -380,7 +380,7 @@
           "@type": "Artifact",
           "@id": "A-2124.3",
           "ref": "A-2124.3",
-          "description": "Audio of Caitlyn Oliver confirming that Tyler Robinson's DNA sample was the most degraded of all contributors on the firearm (swab 1.3 of trigger/trigger guard).",
+          "description": "Audio of Caitlin Oliver confirming that Tyler Robinson's DNA sample was the most degraded of all contributors on the firearm (swab 1.3 of trigger/trigger guard).",
           "related_claims": [
             "C-3012"
           ],
@@ -1746,7 +1746,7 @@
       "@type": "Person",
       "@id": "N-776",
       "ref": "N-776",
-      "name": "Caitlyn Oliver",
+      "name": "Caitlin Oliver",
       "type": "person",
       "description": "First named by the host at 00:30:07 in episode 124. ATF forensic biologist who testified on DNA at the preliminary hearing.",
       "related_artifacts": [],
@@ -2029,8 +2029,8 @@
       "@type": "Claim",
       "@id": "C-3010",
       "ref": "C-3010",
-      "label": "Caitlyn Oliver testified media \"DNA on the gun\" framing was scientifically indefensible",
-      "claim": "ATF forensic biologist Caitlyn Oliver testified that characterizing media reports as \"Mr. Robinson's DNA is found on this item\" would constitute a \"source attribution\" that is \"not scientifically defensible.\"",
+      "label": "Caitlin Oliver testified media \"DNA on the gun\" framing was scientifically indefensible",
+      "claim": "ATF forensic biologist Caitlin Oliver testified that characterizing media reports as \"Mr. Robinson's DNA is found on this item\" would constitute a \"source attribution\" that is \"not scientifically defensible.\"",
       "anchored_artifacts": [
         "A-2124.1"
       ],
@@ -2039,7 +2039,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:31:06",
-      "investigative_direction": "Compare Caitlyn Oliver's testimony against ATF report language and media headlines for accuracy of characterization.",
+      "investigative_direction": "Compare Caitlin Oliver's testimony against ATF report language and media headlines for accuracy of characterization.",
       "mentions_person_refs": [
         "N-40",
         "N-776"
@@ -2050,7 +2050,7 @@
       "@id": "C-3011",
       "ref": "C-3011",
       "label": "DNA samples from trigger/trigger guard were mixed samples with at least 4–7 contributors",
-      "claim": "Caitlyn Oliver testified that DNA samples from the trigger and trigger guard were mixed samples with at least 4–7 contributors, with \"major\" and \"minor\" labels referring only to DNA quantity contributed, not to any activity-based attribution.",
+      "claim": "Caitlin Oliver testified that DNA samples from the trigger and trigger guard were mixed samples with at least 4–7 contributors, with \"major\" and \"minor\" labels referring only to DNA quantity contributed, not to any activity-based attribution.",
       "anchored_artifacts": [
         "A-2124.2"
       ],
@@ -2069,7 +2069,7 @@
       "@id": "C-3012",
       "ref": "C-3012",
       "label": "Host Says Tyler Robinson's DNA on the Gun Was the Most Degraded of All Contributors",
-      "claim": "The host says that Caitlyn Oliver confirmed, in testimony the host plays, that Tyler Robinson's DNA sample was the most degraded of all contributors found on the firearm (swab 1.3 of trigger/trigger guard).",
+      "claim": "The host says that Caitlin Oliver confirmed, in testimony the host plays, that Tyler Robinson's DNA sample was the most degraded of all contributors found on the firearm (swab 1.3 of trigger/trigger guard).",
       "anchored_artifacts": [
         "A-2124.3"
       ],
@@ -2908,8 +2908,8 @@
       "@type": "Claim",
       "@id": "C-7233",
       "ref": "C-7233",
-      "label": "Host Says Influencers Pushed 4K Footage Claims to Overcome Caitlyn Oliver's Testimony",
-      "claim": "The host says her view is that the influencers claimed to have seen 4K HD video of Robinson on the roof in order to overcome the testimony of ATF forensic biologist Caitlyn Oliver, which she calls devastating to the prosecution.",
+      "label": "Host Says Influencers Pushed 4K Footage Claims to Overcome Caitlin Oliver's Testimony",
+      "claim": "The host says her view is that the influencers claimed to have seen 4K HD video of Robinson on the roof in order to overcome the testimony of ATF forensic biologist Caitlin Oliver, which she calls devastating to the prosecution.",
       "anchored_artifacts": [
         "A-2124.1"
       ],
@@ -2921,7 +2921,7 @@
       ],
       "claim_timestamp": "00:30:07",
       "investigative_direction": "Compare the dates of the influencer videos with Oliver's testimony and the court's rulings on release of video.",
-      "transcript_snippet": "I believe that the reason they did it, the reason why they went insane was to overcome the testimony of Caitlyn Oliver.",
+      "transcript_snippet": "I believe that the reason they did it, the reason why they went insane was to overcome the testimony of Caitlin Oliver.",
       "mentions_person_refs": [
         "N-3",
         "N-776",
@@ -2982,7 +2982,7 @@
       "@id": "C-7236",
       "ref": "C-7236",
       "label": "Oliver Testified the Trigger and Trigger Guard Were Swabbed Together",
-      "claim": "In the audio played, ATF biologist Caitlyn Oliver testifies that the trigger and trigger guard swabs were swabbed together, so she cannot say which part the DNA came from.",
+      "claim": "In the audio played, ATF biologist Caitlin Oliver testifies that the trigger and trigger guard swabs were swabbed together, so she cannot say which part the DNA came from.",
       "anchored_artifacts": [
         "A-2124.3"
       ],

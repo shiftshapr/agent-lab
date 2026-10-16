@@ -720,7 +720,7 @@ First named by the host at 00:03:18 in episode 80. Joe Kent's late wife, whom th
 
 ---
 
-**N-945** Johnny Yep
+**N-945** John Yep
 
 First named by the host at 00:23:57 in episode 80 (transcribed as Johnny Yep and Johnny Yep). Organizer of Catholics for Catholics, per the host's description of the event organizer and a web check of the event.
 

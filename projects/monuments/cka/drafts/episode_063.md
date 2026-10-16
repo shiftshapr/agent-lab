@@ -51,7 +51,7 @@ Episode 63 centers on the leak and on-air presentation of audio excerpts from a 
 
 The episode also presents four other artifact families: a 2018 text message from Charlie Kirk to Candace Owens expressing his premonition of death; an Atlantic article excerpt describing Bill Montgomery's 2012 meeting with Charlie at Benedictine University and their co-founding of TPUSA; the New York Times profile of Erika Kirk containing the quoted phrase "least traumatizing thing"; and audio of Laurie Cardoza-Moore ranting about the TPUSA Tampa event, which is matched to a previously circulated Christian Zionist threat message and to a 1-900 romance hotline recording.
 
-The host articulates strong skepticism about the tonal and temporal appropriateness of Erika Kirk's conduct in the call. Several host-research claims about Creative Children's Academy, Helen Barts, the Shaklee Corporation, and Operation Paperclip are narrated but lack displayed artifacts in this episode and are not inscribed as evidence-backed claims. Comments from the live chat are read on air and inscribed as a single artifact bundle.
+The host articulates strong skepticism about the tonal and temporal appropriateness of Erika Kirk's conduct in the call. Several host-research claims about Creative Children's Academy, Helene Bartz, the Shaklee Corporation, and Operation Paperclip are narrated but lack displayed artifacts in this episode and are not inscribed as evidence-backed claims. Comments from the live chat are read on air and inscribed as a single artifact bundle.
 
 ---
 
@@ -296,7 +296,7 @@ Confidence Level: Low
 
 **A-2847** Tipster Message on Barts and Montgomery Bundle
 
-**A-2847.1** Host verbal reference to a tip she received about Helen Barts, Bill and Edith Montgomery, the academy's founding and Shaklee employment (message not shown)
+**A-2847.1** Host verbal reference to a tip she received about Helene Bartz, Bill and Edith Montgomery, the academy's founding and Shaklee employment (message not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:29:53
@@ -376,7 +376,7 @@ Episode Count: 1 (this episode; cumulative higher)
 
 **N-457** Bill Montgomery
 
-Co-founder of Turning Point USA per the Atlantic article (A-1678.1); described by host as Air Force reserves, from Lincoln, Nebraska, and connected to Helen Barts and the founding of Creative Children's Academy.
+Co-founder of Turning Point USA per the Atlantic article (A-1678.1); described by host as Air Force reserves, from Lincoln, Nebraska, and connected to Helene Bartz and the founding of Creative Children's Academy.
 
 Evidence Count: 1
 Claim Count: 1
@@ -513,7 +513,7 @@ Named by a tipster as having worked with the Montgomerys at Shaklee; the host pl
 
 ---
 
-**N-768** Helen Barts
+**N-768** Helene Bartz
 
 First named by the host at 00:29:53 in episode 063. Founder of Creative Children's Academy per the host; later said to have run the Shaklee Center in Arlington Heights. Transcript variants: Helen Arts.
 
@@ -566,7 +566,7 @@ Aerospace and defense contractor the host says is a stone's throw from the acade
 **N-11124** Shaklee Corporation
 
 Node Type: Organization
-Supplement company (transcribed 'Shackley') the host says employed Helen Barts, with an evangelical sales force and a long NASA contract.
+Supplement company (transcribed 'Shackley') the host says employed Helene Bartz, with an evangelical sales force and a long NASA contract.
 
 *Related: C-7023, C-7024, C-7025, C-7026*
 
@@ -1453,13 +1453,13 @@ Investigative Direction: Map the academy's address against Northrop Grumman faci
 
 ---
 
-**C-7019** Host Says Helen Barts Founded the Academy and Her Husband Is Rev. Robert Barts
+**C-7019** Host Says Helene Bartz Founded the Academy and Her Husband Is Rev. Robert Barts
 
 Claim Timestamp: 00:29:53
 
-Claim: The host says Creative Children's Academy was founded by a woman named Helen Barts, whose husband is Reverend Robert Barts of Arlington Heights.
+Claim: The host says Creative Children's Academy was founded by a woman named Helene Bartz, whose husband is Reverend Robert Barts of Arlington Heights.
 
-Transcript Snippet: was founded by a woman named Helen Barts. Okay. Her husband is a Reverend Robert Barts of Arlington Heights.
+Transcript Snippet: was founded by a woman named Helene Bartz. Okay. Her husband is a Reverend Robert Barts of Arlington Heights.
 
 Anchored Artifacts: 
 Mentions: N-3, N-768
@@ -1469,13 +1469,13 @@ Investigative Direction: Verify the founders through Illinois corporation filing
 
 ---
 
-**C-7020** Host Says a Tipster Reports Helen Barts Was Friends With Bill and Edith Montgomery
+**C-7020** Host Says a Tipster Reports Helene Bartz Was Friends With Bill and Edith Montgomery
 
 Claim Timestamp: 00:29:53
 
-Claim: The host says a tip she received, which she says she was able to confirm, is that Helen Barts was good friends with Bill Montgomery and his wife Edith Walker Montgomery, who goes by Edith Walker.
+Claim: The host says a tip she received, which she says she was able to confirm, is that Helene Bartz was good friends with Bill Montgomery and his wife Edith Walker Montgomery, who goes by Edith Walker.
 
-Transcript Snippet: Helen Barts was actually good friends with Bill Montgomery and his wife Edith Montgomery.
+Transcript Snippet: Helene Bartz was actually good friends with Bill Montgomery and his wife Edith Montgomery.
 
 Anchored Artifacts: A-2847.1
 Mentions: N-3, N-768, N-457, N-769
@@ -1500,11 +1500,11 @@ Investigative Direction: Search immigration, nursing licensure and employment re
 
 ---
 
-**C-7022** Tipster Claims Edith Walker Started the School With Helen Barts and Has Been Wiped From the Record
+**C-7022** Tipster Claims Edith Walker Started the School With Helene Bartz and Has Been Wiped From the Record
 
 Claim Timestamp: 00:29:53
 
-Claim: The host relays that the tipster claims Edith Walker started the school with Helen Barts and that she has since been virtually wiped from public record.
+Claim: The host relays that the tipster claims Edith Walker started the school with Helene Bartz and that she has since been virtually wiped from public record.
 
 Transcript Snippet: she was actually the person that started the school with Helen Arts and that's has since virtually been wiped from public record.
 
@@ -1564,11 +1564,11 @@ Investigative Direction: Search NASA contract archives and Shaklee corporate his
 
 ---
 
-**C-7026** Host Says She Confirmed Helen Barts Ran the Shaklee Center in Arlington Heights
+**C-7026** Host Says She Confirmed Helene Bartz Ran the Shaklee Center in Arlington Heights
 
 Claim Timestamp: 00:31:47
 
-Claim: The host says she was able to confirm that Helen Barts, before starting the school, worked at Shaklee and actually ran the Shaklee Center in Arlington Heights.
+Claim: The host says she was able to confirm that Helene Bartz, before starting the school, worked at Shaklee and actually ran the Shaklee Center in Arlington Heights.
 
 Transcript Snippet: I confirmed that she did indeed prior to worked at Shackley. She actually ran the Shackley Center in Arlington Heights.
 
@@ -2185,7 +2185,7 @@ Confidence: high
 - **Possible transcription error:** "Benedict Dy University" / "Benedictton University" appears in the transcript; standard spelling is Benedictine University, located in Lisle, Illinois. Transcript shows "Lyall, Illinois" which is the auto-caption's rendering of "Lisle."
 - **Name uncertainty:** "Andrew Kolvet" vs "Andrew Kolvet" – host uses both renderings ("caught Andrew Kolvet" then "Andrew Kolvet didn't tell her"); spelling should be verified.
 - **Name uncertainty:** Host introduces "Robert Flood who is in Dan Flood's family" – the familial relationship and exact identity of each should be verified.
-- **Host research claims without displayed artifact:** Host asserts as fact that (a) Creative Children's Academy was founded 1982 and renamed Quest Academy in 1999, (b) Helen Barts founded the academy, (c) Helen Barts ran the Shaklee Center in Arlington Heights, (d) the Shaklee Corporation held a 25-year NASA contract, (e) Edith Walker Montgomery was a psychiatric nurse, (f) Edith Walker immigrated from Germany after WWII, and (g) the academy is near Northrop Grumman. None of these assertions are anchored by a displayed artifact in this episode; they are flagged as Requires Human Verification and may be inscribe-worthy in a future episode where the supporting source is shown.
+- **Host research claims without displayed artifact:** Host asserts as fact that (a) Creative Children's Academy was founded 1982 and renamed Quest Academy in 1999, (b) Helene Bartz founded the academy, (c) Helene Bartz ran the Shaklee Center in Arlington Heights, (d) the Shaklee Corporation held a 25-year NASA contract, (e) Edith Walker Montgomery was a psychiatric nurse, (f) Edith Walker immigrated from Germany after WWII, and (g) the academy is near Northrop Grumman. None of these assertions are anchored by a displayed artifact in this episode; they are flagged as Requires Human Verification and may be inscribe-worthy in a future episode where the supporting source is shown.
 - **Claim failed admission test (not inscribed):** Host's interpretive characterization that Erika Kirk is "orchestrating a lot behind the scenes and keeping her hands clean" (at 48:20) is host opinion and was not inscribed as a claim.
 - **Transcript ambiguity:** Several live chat comments are read with only partial content or unclear attribution; comment IDs A-1685.3, A-1685.4, A-1685.6, A-1685.7, A-1685.8 do not anchor any claims in this episode.
 

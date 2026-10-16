@@ -2793,6 +2793,53 @@
         84,
         132
       ]
+    ],
+    [
+      "\\bKathy\\ O'Brien\\b",
+      "Cathy O'Brien"
+    ],
+    [
+      "\\bDavid\\ Sprag\\b",
+      "David Sprague"
+    ],
+    [
+      "\\bHelen\\ Barts\\b",
+      "Helene Bartz"
+    ],
+    [
+      "\\bCaitlyn\\ Oliver\\b",
+      "Caitlin Oliver"
+    ],
+    [
+      "\\bAmanda\\ Baker\\b",
+      "Amanda Bakker",
+      [
+        127
+      ]
+    ],
+    [
+      "\\bFoster\\ Curtis\\b",
+      "Foster Curtiss"
+    ],
+    [
+      "\\bTodd\\ Starns\\b",
+      "Todd Starnes"
+    ],
+    [
+      "\\bBreland\\ Holland\\b",
+      "Brilyn Hollyhand"
+    ],
+    [
+      "\\bRobin\\ Emer\\b",
+      "Robin Ebmeyer"
+    ],
+    [
+      "\\bAndrea\\ Birkhart\\b",
+      "Andrea Burkhart"
+    ],
+    [
+      "\\bStu\\ Peters\\b",
+      "Stew Peters"
     ]
   ]
 }

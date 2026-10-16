@@ -63,13 +63,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2105",
       "family_ref": "A-2105",
-      "bundle_name": "David Sprag Audience Video Bundle",
+      "bundle_name": "David Sprague Audience Video Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2105.1",
           "ref": "A-2105.1",
-          "description": "Video clip of David Sprag standing and appearing to cheer after the shot",
+          "description": "Video clip of David Sprague standing and appearing to cheer after the shot",
           "related_claims": [
             "C-2971"
           ],
@@ -85,7 +85,7 @@
           "@type": "Artifact",
           "@id": "A-2105.2",
           "ref": "A-2105.2",
-          "description": "Video clip of David Sprag and companion standing under umbrellas at the event",
+          "description": "Video clip of David Sprague and companion standing under umbrellas at the event",
           "related_claims": [
             "C-2972"
           ],
@@ -1014,9 +1014,9 @@
       "@type": "Person",
       "@id": "N-817",
       "ref": "N-817",
-      "name": "David Sprag",
+      "name": "David Sprague",
       "type": "person",
-      "description": "First named by the host at 00:05:36 in episode 122 (David Sprag; later James Norman Rawlinson Jr., also spelled James Rawlinson, David L. Rawlinson and James Rolleston in the transcript). Man who stood and cheered after the shot and whom the host links to the Utah National Guard and the 19th Special Forces.",
+      "description": "First named by the host at 00:05:36 in episode 122 (David Sprague; later James Norman Rawlinson Jr., also spelled James Rawlinson, David L. Rawlinson and James Rolleston in the transcript). Man who stood and cheered after the shot and whom the host links to the Utah National Guard and the 19th Special Forces.",
       "related_artifacts": [],
       "related_claims": [
         "C-8829",
@@ -1043,7 +1043,7 @@
       "ref": "N-11193",
       "name": "Rawlinson Name Change and Background Inquiry",
       "type": "topic",
-      "description": "The host's inquiry into why David Sprag changed his name from James Norman Rawlinson Jr., his stated reasons and the host's inability to confirm his father's alleged crime.",
+      "description": "The host's inquiry into why David Sprague changed his name from James Norman Rawlinson Jr., his stated reasons and the host's inability to confirm his father's alleged crime.",
       "related_artifacts": [],
       "related_claims": [
         "C-8832",
@@ -2350,8 +2350,8 @@
       "@type": "Claim",
       "@id": "C-2971",
       "ref": "C-2971",
-      "label": "Video clip shows David Sprag standing and appearing to cheer after the shot",
-      "claim": "A video clip displayed during the episode shows David Sprag (James Norman Rawlinson Jr.) standing and appearing to cheer shortly after the gunshot.",
+      "label": "Video clip shows David Sprague standing and appearing to cheer after the shot",
+      "claim": "A video clip displayed during the episode shows David Sprague (James Norman Rawlinson Jr.) standing and appearing to cheer shortly after the gunshot.",
       "anchored_artifacts": [
         "A-2105.1"
       ],
@@ -2367,8 +2367,8 @@
       "@type": "Claim",
       "@id": "C-2972",
       "ref": "C-2972",
-      "label": "Video clip shows David Sprag and a companion standing under umbrellas at the event",
-      "claim": "A video clip displayed during the episode shows David Sprag and an unidentified companion standing together under umbrellas while Charlie Kirk's event begins.",
+      "label": "Video clip shows David Sprague and a companion standing under umbrellas at the event",
+      "claim": "A video clip displayed during the episode shows David Sprague and an unidentified companion standing together under umbrellas while Charlie Kirk's event begins.",
       "anchored_artifacts": [
         "A-2105.2"
       ],
@@ -2815,7 +2815,7 @@
       "@id": "C-8830",
       "ref": "C-8830",
       "label": "Host Reports the Cheering Man Said He Was Not Cheering Because Charlie Was Hurt",
-      "claim": "The host says the man identified as David Sprag gave an interview clarifying that he was not cheering because Charlie was hurt but was trying to push the crowd into a patriotic cheer.",
+      "claim": "The host says the man identified as David Sprague gave an interview clarifying that he was not cheering because Charlie was hurt but was trying to push the crowd into a patriotic cheer.",
       "anchored_artifacts": [
         "A-2105.1"
       ],
@@ -2867,8 +2867,8 @@
       "@type": "Claim",
       "@id": "C-8832",
       "ref": "C-8832",
-      "label": "Host Says David Sprag's Birth Name Is James Norman Rawlinson Jr.",
-      "claim": "The host says David Sprag is not his original name and that his actual birth name is James Norman Rawlinson Jr.",
+      "label": "Host Says David Sprague's Birth Name Is James Norman Rawlinson Jr.",
+      "claim": "The host says David Sprague is not his original name and that his actual birth name is James Norman Rawlinson Jr.",
       "anchored_artifacts": [
         "A-2968.1"
       ],

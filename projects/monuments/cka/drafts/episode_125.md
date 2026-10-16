@@ -717,7 +717,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-734** Stu Peters
+**N-734** Stew Peters
 
 First named by the host at 00:09:26 in episode 125. Employer of Blake Neff before Turning Point per the host.
 
@@ -768,7 +768,7 @@ First named by the host at 00:25:34 in episode 125. Epstein associate whose weal
 **N-11057** Blake Neff Employment History Account
 
 Node Type: Topic
-The host's account of Blake Neff's career: Fox News departure, Stu Peters, Marine Corps war gaming and hiring by Charlie Kirk.
+The host's account of Blake Neff's career: Fox News departure, Stew Peters, Marine Corps war gaming and hiring by Charlie Kirk.
 
 *Related: C-5857, C-5858, C-5861*
 
@@ -1017,13 +1017,13 @@ Investigative Direction: Neff's employment history (Fox News departure, hiring d
 
 ---
 
-**C-5858** Neff Worked for Stu Peters Then Joined Charlie After Tucker Carlson Recommended Him
+**C-5858** Neff Worked for Stew Peters Then Joined Charlie After Tucker Carlson Recommended Him
 
 Claim Timestamp: 00:09:26
 
-Claim: The host says Blake Neff went to work for Stu Peters and then started working with Charlie Kirk after Tucker Carlson recommended him as loyal.
+Claim: The host says Blake Neff went to work for Stew Peters and then started working with Charlie Kirk after Tucker Carlson recommended him as loyal.
 
-Transcript Snippet: He then work went to work for Stu Peters um and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.
+Transcript Snippet: He then work went to work for Stew Peters um and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.
 
 Anchored Artifacts: 
 Mentions: N-160, N-734, N-22, N-1

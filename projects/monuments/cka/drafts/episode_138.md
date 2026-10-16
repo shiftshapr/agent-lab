@@ -1025,7 +1025,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-817** David Sprag
+**N-817** David Sprague
 
 First named by the host at 00:02:40 in episode 138 as the man who started the USA chant after the shot; the host says he was formerly James Rollinsson (transcribed Rollinsson).
 
@@ -1396,13 +1396,13 @@ Investigative Direction: Obtain the Zinn arrest record, charging documents and b
 
 ---
 
-**C-9090** Host Says David Sprag Changed His Name From James Rollinsson and Told Her His Father Was Tied to Child Crimes
+**C-9090** Host Says David Sprague Changed His Name From James Rollinsson and Told Her His Father Was Tied to Child Crimes
 
 Claim Timestamp: 00:02:40
 
-Claim: The host says the man who started the 'USA, USA' chant goes by David Sprag, used to be James Rollinsson, and confessed to her that his father was mixed up in sex abuse crimes against children.
+Claim: The host says the man who started the 'USA, USA' chant goes by David Sprague, used to be James Rollinsson, and confessed to her that his father was mixed up in sex abuse crimes against children.
 
-Transcript Snippet: He goes by David Sprag, but he actually changed his name. It used to be James Rollinsson.
+Transcript Snippet: He goes by David Sprague, but he actually changed his name. It used to be James Rollinsson.
 
 Anchored Artifacts: 
 Mentions: N-3, N-817

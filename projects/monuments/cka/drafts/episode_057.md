@@ -356,7 +356,7 @@ Confidence Level: Medium
 
 ---
 
-**A-2756.3** Read-aloud comment from 'Alyssa' recommending an interview with Kathy O'Brien and her book Transformation of America
+**A-2756.3** Read-aloud comment from 'Alyssa' recommending an interview with Cathy O'Brien and her book Transformation of America
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:50:49
@@ -616,7 +616,7 @@ Topic for the host's claim that Palestinian deaths would be written out of textb
 
 *Related: C-5464*
 
-**N-719** Kathy O'Brien
+**N-719** Cathy O'Brien
 
 First named by the host at 00:51:51 in episode 57, reading a comment recommending her and her book Transformation of America.
 
@@ -1669,7 +1669,7 @@ Investigative Direction: Identify the events, hosts and callers; the transcript 
 
 Claim Timestamp: 00:51:51
 
-Claim: Replying to commenter Alyssa, who recommended interviewing Kathy O'Brien, the host says she knows about Project Monarch and has discussed it on the show as the precursor to what the Nazis did here, which was about traumatizing children.
+Claim: Replying to commenter Alyssa, who recommended interviewing Cathy O'Brien, the host says she knows about Project Monarch and has discussed it on the show as the precursor to what the Nazis did here, which was about traumatizing children.
 
 Transcript Snippet: I know about Project Monarch. We've spoken about it on this show um as being the precursor to what the Nazis did here
 

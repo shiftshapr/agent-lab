@@ -1143,7 +1143,7 @@ First named by the host at 00:22:47 in episode 31. Referred to by the host as Di
 
 ---
 
-**N-766** Kenny
+**N-766** Kenzie Kinney
 
 First named by the host at 00:25:17 in episode 31. Former Potter's Fields Ignite student the host says blew the whistle on alleged financial fraud (spelled Kenzie Kinney and Kenny in the transcript).
 

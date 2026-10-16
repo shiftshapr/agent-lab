@@ -224,7 +224,7 @@ Confidence Level: Low
 
 **A-2819** Trump Memorial Speech Bundle
 
-**A-2819.1** Host verbal reference to Trump's memorial speech story about Charlie interviewing fourth grader Breland Holland (not shown)
+**A-2819.1** Host verbal reference to Trump's memorial speech story about Charlie interviewing fourth grader Brilyn Hollyhand (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:18:15
@@ -596,7 +596,7 @@ The host's recollection that Charlie Kirk told her TPUSA had found a person to c
 
 ---
 
-**N-757** Breland Holland
+**N-757** Brilyn Hollyhand
 
 First named by the host at 00:18:15 in episode 21. Boy the host says Charlie Kirk interviewed in fourth grade, referenced in Trump's memorial speech.
 
@@ -970,18 +970,18 @@ Investigative Direction: Off-topic historical assertion recorded as said; no doc
 
 ---
 
-**C-6523** Host Says Trump Told a Memorial Story About Charlie and Breland Holland Although Trump Was Not There
+**C-6523** Host Says Trump Told a Memorial Story About Charlie and Brilyn Hollyhand Although Trump Was Not There
 
 Claim Timestamp: 00:18:15
 
-Claim: The host says Trump, in his speech at Charlie Kirk's memorial, told a story about Charlie interviewing a fourth grader named Breland Holland, that Trump was not present and that she herself was next to Charlie at that interview.
+Claim: The host says Trump, in his speech at Charlie Kirk's memorial, told a story about Charlie interviewing a fourth grader named Brilyn Hollyhand, that Trump was not present and that she herself was next to Charlie at that interview.
 
-Transcript Snippet: Even Trump's speech, remember when he just kind of worked in the story about uh Charlie interviewing a fourth grader and he was referring to Breland Holland?
+Transcript Snippet: Even Trump's speech, remember when he just kind of worked in the story about uh Charlie interviewing a fourth grader and he was referring to Brilyn Hollyhand?
 
 Anchored Artifacts: A-2819.1
 Mentions: N-5, N-1, N-3, N-757
 Tags: relevance:context
-Investigative Direction: Compare the transcript of Trump's memorial speech with footage and dates of Charlie's interview with Breland Holland to see who attended.
+Investigative Direction: Compare the transcript of Trump's memorial speech with footage and dates of Charlie's interview with Brilyn Hollyhand to see who attended.
 
 ---
 
