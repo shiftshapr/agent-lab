@@ -1046,7 +1046,7 @@ Investigative Direction: Retrieve the full Mark Levin broadcast to verify exact 
 
 Claim Timestamp: 00:44:50–00:46:29
 
-Claim: Keri Smith, host of the Deprogrammed podcast, in audio played on the episode, said Candace Owens "is exhibiting several cult tactics" and "a lot of cluster B personality disorder behavior."
+Claim: Keri Smith, host of the Deprogrammed podcast, in audio played on the episode, said she thinks Candace Owens is "exhibiting several cult tactics" and is using manipulative language and "a lot of cluster B personality disorder behavior."
 
 Anchored Artifacts: A-1376.1
 Mentions: N-246, N-3
@@ -1204,7 +1204,7 @@ Transcript Snippet: I'm starting to wonder if every major publicly traumatizing 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11147
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Speculative generalization; not testable as stated beyond individual events.
 
 ---

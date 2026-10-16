@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-16T17:13:37Z",
+  "generated_at": "2026-10-16T17:17:17Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -40208,7 +40208,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1633",
-      "label": "Colby Sessions Publicly Identifies Himself as the Green-Hoodie Figure at the UVU Event",
+      "label": "Kolby Sessions Publicly Identifies Himself as the Green-Hoodie Figure at the UVU Event",
       "node_kind": "claim",
       "episode": 27
     },
@@ -40775,7 +40775,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1714",
-      "label": "Wall Street Journal Repeated \"Heir Ali\" / \"Heir Apparent\" Framing for TPUSA",
+      "label": "Wall Street Journal Repeated \"Heir Apparent\" Framing of Allie Beth Stuckey",
       "node_kind": "claim",
       "episode": 32
     },
@@ -43743,7 +43743,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2140",
-      "label": "Turning Point USA sent a cease-and-desist letter to Zack Gregorio at the Wolves and Finance YouTube channel",
+      "label": "Turning Point USA sent a cease-and-desist letter to Zach De Gregorio at the Wolves and Finance YouTube channel",
       "node_kind": "claim",
       "episode": 59
     },
@@ -63182,7 +63182,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4944",
-      "label": "Host Says the Sorenson Center Was the Building in Front of the Losee Center",
+      "label": "Harpole Says the Sorenson Center Was the Building in Front of the Losee Center",
       "node_kind": "claim",
       "episode": 34
     },
@@ -74683,7 +74683,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6587",
-      "label": "Host Says Records Showing Jews Came From the Holy Land Are Outweighed by Contrary Proof",
+      "label": "Host Says There Is No Documented Proof Jews Are the Original People of the Holy Land",
       "node_kind": "claim",
       "episode": 25
     },
@@ -74928,7 +74928,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6622",
-      "label": "Host Says a Calvary Chapel Carrie Lead Pastor Resigned Amid Incest and Fund-Misuse Allegations",
+      "label": "Host Says a Calvary Chapel Cary Lead Pastor Resigned Amid Incest and Fund-Misuse Allegations",
       "node_kind": "claim",
       "episode": 31
     },
@@ -74998,28 +74998,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6632",
-      "label": "Host Says the Calvary Church Association Funded Potter's Fields Ministries in Whitefish, Montana",
+      "label": "Host Says the Calvary Church Association Funded Potter's Field Ministries in Whitefish, Montana",
       "node_kind": "claim",
       "episode": 31
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6633",
-      "label": "Host Says Potter's Fields Came Under a 2019 Scandal Over Where Donor Money Went",
+      "label": "Host Says Potter's Field Came Under a 2019 Scandal Over Where Donor Money Went",
       "node_kind": "claim",
       "episode": 31
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6634",
-      "label": "Host Reads a Whistleblower's Estimate That About 500 Children Were in the Potter's Fields Program",
+      "label": "Host Reads a Whistleblower's Estimate That About 500 Children Were in the Potter's Field Program",
       "node_kind": "claim",
       "episode": 31
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6635",
-      "label": "Host Says Potter's Fields Brought In Rob McCoy as CFO and Its Money Went into His Church",
+      "label": "Host Says Potter's Field Brought In Rob McCoy as CFO and Its Money Went into His Church",
       "node_kind": "claim",
       "episode": 31
     },
@@ -95823,7 +95823,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9607",
-      "label": "Host Believes Colby Sessions Is on the UVU Soccer Team",
+      "label": "Host Believes Kolby Sessions Is on the UVU Soccer Team",
       "node_kind": "claim",
       "episode": 27
     },
@@ -96712,7 +96712,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9734",
-      "label": "Host Repeats the Tip Address Moretips at Candaceowens",
+      "label": "Host Repeats Her Tip Address Moretips@candaceowens.com",
       "node_kind": "claim",
       "episode": 30
     },
@@ -96873,7 +96873,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9757",
-      "label": "Host Says Leaks Come From TPUSA Insiders and She Holds a File on What the Ericson Brothers Do and Say",
+      "label": "Host Says Leaks Come From TPUSA Insiders and She Holds a File on What the Erickson Brothers Do and Say",
       "node_kind": "claim",
       "episode": 30
     },
@@ -103607,7 +103607,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1352.1",
-      "label": "Colby Sessions social media post identifying himself as the green-hoodie figure at the UVU event",
+      "label": "Kolby Sessions social media post identifying himself as the green-hoodie figure at the UVU event",
       "node_kind": "artifact",
       "episode": 27
     },
@@ -104244,21 +104244,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1394",
-      "label": "Rob McCoy Podcast Interview Bundle (Bryce Eddie Show)",
+      "label": "Rob McCoy Podcast Interview Bundle (Bryce Eddy Show)",
       "node_kind": "artifact",
       "episode": 31
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1394.1",
-      "label": "Rob McCoy Introduction of Thomas Camino on Bryce Eddie Show",
+      "label": "Rob McCoy Introduction of Thomas Camino on Bryce Eddy Show",
       "node_kind": "artifact",
       "episode": 31
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1394.2",
-      "label": "Thomas Camino Narrative on Bryce Eddie Show – Claims of False Conviction",
+      "label": "Thomas Camino Narrative on Bryce Eddy Show – Claims of False Conviction",
       "node_kind": "artifact",
       "episode": 31
     },
@@ -108745,14 +108745,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1648.1",
-      "label": "Cease and Desist letter displayed on screen and read aloud, sent by Turning Point USA (via Paramount Tactical) to Zack Gregorio of Wolves and Finance, including the formal statement on drones (\"UVU pr",
+      "label": "Cease and Desist letter displayed on screen and read aloud, sent by Turning Point USA (via Paramount Tactical) to Zach De Gregorio of Wolves and Finance, including the formal statement on drones (\"UVU",
       "node_kind": "artifact",
       "episode": 59
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1648.2",
-      "label": "Zack Gregorio (Wolves and Finance) YouTube video clip played on air, showing Gregorio presenting the cease-and-desist letter, characterizing it as the first step toward a defamation lawsuit",
+      "label": "Zach De Gregorio (Wolves and Finance) YouTube video clip played on air, showing Gregorio presenting the cease-and-desist letter, characterizing it as the first step toward a defamation lawsuit",
       "node_kind": "artifact",
       "episode": 59
     },
@@ -129549,14 +129549,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2827",
-      "label": "Potter's Fields Whistleblower Quotes Bundle",
+      "label": "Potter's Field Whistleblower Quotes Bundle",
       "node_kind": "artifact",
       "episode": 31
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2827.1",
-      "label": "Host reads quotations attributed to a former Potter's Fields Ignite student named Kenny about the number of children served and altered donor letters",
+      "label": "Host reads quotations attributed to a former Potter's Field Ignite student named Kenzie Kinney about the number of children served and altered donor letters",
       "node_kind": "artifact",
       "episode": 31
     },
@@ -132657,7 +132657,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3021.1",
-      "label": "Host verbal reference to her X reply with a clear image of the green-hoodie figure and Colby Sessions' answer (not shown separately)",
+      "label": "Host verbal reference to her X reply with a clear image of the green-hoodie figure and Kolby Sessions' answer (not shown separately)",
       "node_kind": "artifact",
       "episode": 27
     },
@@ -137123,7 +137123,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3305.1",
-      "label": "Second portion of the Zack Gregorio (Wolves and Finance) clip played on air, in which he cites his December 7 video and reads the TPUSA lawyer's drone paragraph",
+      "label": "Second portion of the Zach De Gregorio (Wolves and Finance) clip played on air, in which he cites his December 7 video and reads the TPUSA lawyer's drone paragraph",
       "node_kind": "artifact",
       "episode": 59
     },

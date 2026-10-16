@@ -2840,6 +2840,67 @@
     [
       "\\bStu\\ Peters\\b",
       "Stew Peters"
+    ],
+    [
+      "\\bAnthony uh Eglacius\\b",
+      "Anthony Iglesias"
+    ],
+    [
+      "\\ba Glaciius\\b",
+      "Iglesias",
+      [
+        31
+      ]
+    ],
+    [
+      "\\bBryce Eddie\\b",
+      "Bryce Eddy"
+    ],
+    [
+      "\\bCalvary Chapel Carrie\\b",
+      "Calvary Chapel Cary"
+    ],
+    [
+      "\\bCarrie Smith\\b",
+      "Keri Smith",
+      [
+        29
+      ]
+    ],
+    [
+      "\\bColby Sessions\\b",
+      "Kolby Sessions"
+    ],
+    [
+      "\\bEricson brothers\\b",
+      "Erickson brothers"
+    ],
+    [
+      "\\bKenny\\b",
+      "Kenzie Kinney",
+      [
+        31
+      ]
+    ],
+    [
+      "\\bNorth County Chapel\\b",
+      "North Country Chapel"
+    ],
+    [
+      "\\bNorth Thirsten\\b",
+      "North Thurston"
+    ],
+    [
+      "\\bPompo Beach\\b",
+      "Pompano Beach"
+    ],
+    [
+      "\\bPotter's Fields\\b",
+      "Potter's Field"
+    ],
+    [
+      "\\bZack Gregorio\\b",
+      "Zach De Gregorio"
     ]
   ]
 }

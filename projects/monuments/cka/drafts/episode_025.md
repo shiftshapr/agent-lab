@@ -1467,7 +1467,7 @@ Investigative Direction: Obtain hospital intake records and arrest and booking p
 
 ---
 
-**C-6587** Host Says Records Showing Jews Came From the Holy Land Are Outweighed by Contrary Proof
+**C-6587** Host Says There Is No Documented Proof Jews Are the Original People of the Holy Land
 
 Claim Timestamp: 00:44:02
 

@@ -46,7 +46,7 @@
 
 This episode is structurally bifurcated: the first third is a celebratory segment built around host-read confirmation (via a Grok-generated summary) that the "Candace" podcast has reached #1 worldwide per Podscribe data; the remaining two-thirds is dedicated to investigative commentary on the Charlie Kirk assassination, anchored principally by the host's read-aloud presentation of Erika Kirk's Fox News sit-down with Jesse Watters, followed by an extended, artifact-anchored dispute with three named Christian-Zionist commentators (Allie Beth Stuckey, Lila Rose, Alex Clark) and a PR-side observer (Alyssa Cordova).
 
-Evidentiary material presented includes: (1) the Grok-generated Podscribe summary as a displayed source; (2) four discrete audio excerpts from the Jesse Watters / Erika Kirk Fox News interview; (3) two consecutive tweets from Allie Beth Stuckey disputing the host's UVU event-approval claim; (4) one Lila Rose tweet pair referencing Stanford and Yale speaking invitations; (5) two Alex Clark tweets defending Mikey McCoy and contesting the host's ad-running framing; (6) one Alyssa Cordova tweet referencing Blexit/NDA arrangements; (7) one Dinesh D'Souza X post characterizing the show as "freak show… bowling"; (8) one Colby Sessions self-identification post resolving the UVU "green hoodie" figure; (9) one Ole Miss backstage video showing a priest behind Watters and Kirk; (10) several viewer comments including a substantive Tom Paul comment referencing an Alex Clark show segment by Andrew Klavan on Charlie's heartbeat.
+Evidentiary material presented includes: (1) the Grok-generated Podscribe summary as a displayed source; (2) four discrete audio excerpts from the Jesse Watters / Erika Kirk Fox News interview; (3) two consecutive tweets from Allie Beth Stuckey disputing the host's UVU event-approval claim; (4) one Lila Rose tweet pair referencing Stanford and Yale speaking invitations; (5) two Alex Clark tweets defending Mikey McCoy and contesting the host's ad-running framing; (6) one Alyssa Cordova tweet referencing Blexit/NDA arrangements; (7) one Dinesh D'Souza X post characterizing the show as "freak show… bowling"; (8) one Kolby Sessions self-identification post resolving the UVU "green hoodie" figure; (9) one Ole Miss backstage video showing a priest behind Watters and Kirk; (10) several viewer comments including a substantive Tom Paul comment referencing an Alex Clark show segment by Andrew Klavan on Charlie's heartbeat.
 
 The episode advances several unresolved investigative questions: the timeline of the UVU event approval (artifact-anchored on Allie's side only in this episode), Erika Kirk's level of confidence in the lone-shooter theory (non-direct quote from interview), the host's framing of a TPUSA "cover-up" (asserted but not newly artifact-anchored in this episode), and the Saint Michael pendant / Catholic-curious question (artifact-anchored on Erika's interview side).
 
@@ -228,7 +228,7 @@ Verbatim excerpt: "At this point, anyone who follows this freak show is doing it
 
 ### A-1352 UVU Green Hoodie Self-Identification Bundle
 
-**A-1352.1** Colby Sessions social media post identifying himself as the green-hoodie figure at the UVU event
+**A-1352.1** Kolby Sessions social media post identifying himself as the green-hoodie figure at the UVU event
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -290,7 +290,7 @@ Verbatim excerpt: "Candace, that was such a wise statement. I cannot forgive unt
 
 **A-3021** Sam Parker Green Hoodie Exchange Bundle
 
-**A-3021.1** Host verbal reference to her X reply with a clear image of the green-hoodie figure and Colby Sessions' answer (not shown separately)
+**A-3021.1** Host verbal reference to her X reply with a clear image of the green-hoodie figure and Kolby Sessions' answer (not shown separately)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:25:01
@@ -439,7 +439,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-231** Colby Sessions
+**N-231** Kolby Sessions
 
 UVU student who self-identified as the "green hoodie" figure at the event; artifact resolves N-10232.
 
@@ -573,7 +573,7 @@ Investigative Pressure: Medium
 
 **N-10232** UVU Green Hoodie Person Identification (Resolved)
 
-Colby Sessions publicly identified himself as the figure in the green hoodie at the UVU event, apparently closing the speculative inquiry.
+Kolby Sessions publicly identified himself as the figure in the green hoodie at the UVU event, apparently closing the speculative inquiry.
 
 Evidence Count: 1 (A-1352.1)
 Claim Count: 1
@@ -1045,7 +1045,7 @@ Claim Timestamp: 00:12:21
 Claim: When Jesse Watters asks whether they have caught her husband's killer, Erika Kirk responds by stating she trusts her team and has seen the autopsy report; the host says it is not a straight yes or no.
 
 Anchored Artifacts: A-1346.2
-Mentions: N-2
+Mentions: N-2, N-212, N-1
 
 
 Investigative Direction: Obtain unedited interview transcript; assess whether the non-direct answer is consistent across additional Erika Kirk public statements.
@@ -1242,18 +1242,18 @@ Investigative Direction: Capture original post timestamp and any subsequent D'So
 
 ---
 
-**C-1633** Colby Sessions Publicly Identifies Himself as the Green-Hoodie Figure at the UVU Event
+**C-1633** Kolby Sessions Publicly Identifies Himself as the Green-Hoodie Figure at the UVU Event
 
 Claim Timestamp: 00:25:41
 
-Claim: Colby Sessions posts a social media message identifying himself as the person seen wearing the green hoodie at the UVU event, explaining he and a teammate were on campus to get food and stop by.
+Claim: Kolby Sessions posts a social media message identifying himself as the person seen wearing the green hoodie at the UVU event, explaining he and a teammate were on campus to get food and stop by.
 
 Anchored Artifacts: A-1352.1
 Mentions: N-231
 
 Related Nodes: N-10232
 
-Investigative Direction: Verify Colby Sessions's UVU student status and the existence of the underlying social media post.
+Investigative Direction: Verify Kolby Sessions's UVU student status and the existence of the underlying social media post.
 
 ---
 
@@ -1664,11 +1664,11 @@ Investigative Direction: Retrieve the original post thread with timestamps.
 
 ---
 
-**C-9607** Host Believes Colby Sessions Is on the UVU Soccer Team
+**C-9607** Host Believes Kolby Sessions Is on the UVU Soccer Team
 
 Claim Timestamp: 00:25:01
 
-Claim: The host says she thinks Colby Sessions is on the soccer team at UVU.
+Claim: The host says she thinks Kolby Sessions is on the soccer team at UVU.
 
 Transcript Snippet: I think he's on the soccer team at UVU.
 
@@ -2404,11 +2404,11 @@ Confidence: low
 ## IX. Optional Flags
 
 - **Name uncertainty:** Episode uses "Erika Kirk" throughout, while prior ledger convention (per Protocol Example) uses "Erika Kirk." Preserve as "Erika Kirk" for this episode and flag for cross-episode normalization review.
-- **Transcript ambiguity:** "Colby Sessions" and "Coby Sessions" both appear in the transcript within the same artifact context; treat as the same person pending verification.
+- **Transcript ambiguity:** "Kolby Sessions" and "Coby Sessions" both appear in the transcript within the same artifact context; treat as the same person pending verification.
 - **Transcript ambiguity:** Host alternately refers to "Lila Rose" and "Layla Rose" within the same segment; treat as "Lila Rose" pending verification (likely host verbal variation).
 - **Artifact verbally referenced but not shown in this episode:** Host references a previously displayed email regarding UVU event approval (from the prior day's show); Allie's tweets respond to that prior display.
 - **Claim C-1635 failed full admission test** in strict evidentiary terms (viewer opinion, not investigable falsifiable proposition); inscribed only because A-1354.2 must have a linked claim for ledger completeness; flagged here for transparency.
-- **Requires human verification:** The Colby Sessions self-ID post's account handle and date stamp are not provided in the transcript; A-1352.1 metadata is reconstructed from host read-aloud.
+- **Requires human verification:** The Kolby Sessions self-ID post's account handle and date stamp are not provided in the transcript; A-1352.1 metadata is reconstructed from host read-aloud.
 - **Name uncertainty:** "Mikey's" Liberty University speaking replacement (host commentary only; not artifact-anchored in this episode; tracked under N-191 but not inscribed as claim).
 
 ---

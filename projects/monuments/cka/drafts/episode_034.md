@@ -925,7 +925,7 @@ Investigative Direction: Identify the student and the reportedly-present profess
 **C-1737** Harpole Says He Texted UVU Police Chief About Rooftop Access and Got "I Got You Covered"; Host Says He Did Not Follow Up
 
 Claim Timestamp: 00:25:02
-Claim: In a clip the host plays, Brian Harpole, Charlie Kirk's security lead, reads his texts to UVU Police Chief Jeff Long about student roof access near where Kirk would be set up, ending with the reply "I got you covered," and the host says Harpole did not follow up further.
+Claim: In a clip the host plays, Brian Harpole, one of Charlie Kirk's long-term security team members, reads his texts to UVU Police Chief Jeff Long about student roof access near where Kirk would be set up, ending with the reply "I got you covered," and the host says Harpole did not follow up further.
 Anchored Artifacts: A-1428.1, A-1428.2
 Mentions: N-1, N-267, N-272
 Related Nodes:
@@ -945,7 +945,7 @@ Investigative Direction: Cross-reference video from TPUSA / event cameras and St
 Claim Timestamp: 00:36:37
 Claim: Per a screenshot of Blake Neff's phone that the host shows, his call to his mother began at 11:24 and lasted 45 seconds; the host says that because Neff is now in Arizona this means 12:24 Utah time, and Mark says the time shown is when the call was initiated.
 Anchored Artifacts: A-1429.2
-Mentions: N-160
+Mentions: N-160, N-67, N-3
 Related Nodes: N-10262
 Investigative Direction: Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.
 
@@ -1244,7 +1244,7 @@ Investigative Direction: Walk the CS building concourse and Losee Center roof ar
 
 Claim Timestamp: 00:15:25
 
-Claim: In the recording, the student says his bet is that the computer science building concourse connected to the law center is how the shooter got onto the Losee Center roof, noting a ladder on the other side as another way.
+Claim: In the recording, the student says his bet is that the computer science building concourse connected to the Losee Center is how the shooter got onto the Losee Center roof, noting a ladder on the other side as another way.
 
 Transcript Snippet: Um my bet would be that that's how the shooter got onto the wazi center roof because that's one of a few ways I know of.
 
@@ -1366,7 +1366,7 @@ Investigative Direction: Compile an inventory of all released shooter footage an
 
 Claim Timestamp: 00:21:15
 
-Claim: The host, after saying she wants to know who was on the T.W. Lewis plane and that Charlie's friends keep blocking her, asks viewers to send more tips to the tip address at candacewowens.com.
+Claim: The host, after saying she wants to know who was on the T.W. Lewis plane and that Charlie's friends keep blocking her, asks viewers to send more tips to the tip address at candaceowens.com.
 
 Transcript Snippet: we want to hear from you. More tips at candacewowens. com.
 
@@ -1422,16 +1422,16 @@ Investigative Direction: Obtain the full text thread between Harpole and Long wi
 
 ---
 
-**C-4944** Host Says the Sorenson Center Was the Building in Front of the Losee Center
+**C-4944** Harpole Says the Sorenson Center Was the Building in Front of the Losee Center
 
 Claim Timestamp: 00:24:53
 
-Claim: The host says, for edification, that the Sorenson Center was the building in front of the Lozi (Losee) Center.
+Claim: In the Shawn Ryan interview clip the host plays, Brian Harpole says, for edification, that the Sorenson Center was the building in front of the Losee Center.
 
 Transcript Snippet: for edification the Sorenson Center was the building in front of the Lucy Center.
 
 Anchored Artifacts: A-1428.2
-Mentions: 
+Mentions: N-267
 Related Nodes: N-10012, N-10769
 Investigative Direction: Check the UVU campus map for the position of the Sorenson Center relative to the Losee Center.
 
@@ -1792,7 +1792,7 @@ Investigative Direction: Identify which officials were asked about the flight an
 
 Claim Timestamp: 00:51:06
 
-Claim: Reading viewer comments, the host says several people said there were a lot of vehicles at the home of the alleged shooter in the week before the shooting and that neighbors found it strange as they never had company, and she says she will try to hunt it down.
+Claim: Reading viewer comments, the host says several people said there were a lot of vehicles at the home of the alleged shooter in the week before the shooting and that they all found it strange as they never had company, and she says she will try to hunt it down.
 
 Transcript Snippet: Several people said there was a lot of vehicles at the home of the alleged shooter around the week before the shooting. Right. That's another tip. You are correct and I should explore that.
 

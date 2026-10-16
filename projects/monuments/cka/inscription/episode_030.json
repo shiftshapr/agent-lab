@@ -2137,7 +2137,7 @@
       "@id": "C-1681",
       "ref": "C-1681",
       "label": "Host Says Kanye West's 'Death Con 3' Tweet Meant Defcon 3",
-      "claim": "Per the Kanye West tweet the host shows, West wrote that he was going \"death con 3 on some Jewish people\"; the host says he meant Defcon 3, a defensive position, and was referring to Zionists in Hollywood rather than threatening violence.",
+      "claim": "Per the Kanye West tweet the host shows, West wrote that he was going \"death con 3 on some Jewish people\"; the host says he meant Defcon 3, a defensive position, and that she thinks he was talking about some Zionists in Hollywood rather than threatening violence.",
       "anchored_artifacts": [
         "A-1389.1"
       ],
@@ -3036,8 +3036,8 @@
       "@type": "Claim",
       "@id": "C-9734",
       "ref": "C-9734",
-      "label": "Host Repeats the Tip Address Moretips at Candaceowens",
-      "claim": "The host repeats her tip address, more tips at candacewowens.com, before moving to follow-up items.",
+      "label": "Host Repeats Her Tip Address Moretips@candaceowens.com",
+      "claim": "The host repeats her tip address, moretips@candaceowens.com, before moving to follow-up items.",
       "anchored_artifacts": [
         "A-3027.3"
       ],
@@ -3402,7 +3402,7 @@
       "@id": "C-9750",
       "ref": "C-9750",
       "label": "Host Says She Has Never Claimed Wilkins Is a Honeypot and Knows of No Evidence",
-      "claim": "The host says Alexis Wilkins might not be a honeypot, that the host has never made that claim, and that there is no evidence of it.",
+      "claim": "The host says Alexis Wilkins might not be a honeypot, that the host has never made that claim, and that there is no evidence of it other than people saying she works for Marissa Streit at PragerU.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10245"
@@ -3552,8 +3552,8 @@
       "@type": "Claim",
       "@id": "C-9757",
       "ref": "C-9757",
-      "label": "Host Says Leaks Come From TPUSA Insiders and She Holds a File on What the Ericson Brothers Do and Say",
-      "claim": "The host says all the leaks come from people at Turning Point USA who loved Charlie Kirk and hate the corruption, and that they have told her what the Ericson brothers are doing, saying and texting, which she keeps in a file.",
+      "label": "Host Says Leaks Come From TPUSA Insiders and She Holds a File on What the Erickson Brothers Do and Say",
+      "claim": "The host says all the leaks come from people at Turning Point USA who loved Charlie Kirk and hate the corruption, and that they have told her what the Erickson brothers are doing, saying and texting, which she keeps in a file.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -3564,7 +3564,7 @@
       ],
       "claim_timestamp": "00:47:44",
       "investigative_direction": "Not independently testable beyond the host's file; seek corroboration from other former TPUSA staff.",
-      "transcript_snippet": "who have intimately let me know the things that the Ericson brothers are doing and saying and texting, and I I just have a file of all of it because of people at Turning Point USA",
+      "transcript_snippet": "who have intimately let me know the things that the Erickson brothers are doing and saying and texting, and I I just have a file of all of it because of people at Turning Point USA",
       "mentions_person_refs": [
         "N-20",
         "N-852",

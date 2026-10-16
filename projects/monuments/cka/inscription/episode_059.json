@@ -189,7 +189,7 @@
           "@type": "Artifact",
           "@id": "A-1648.1",
           "ref": "A-1648.1",
-          "description": "Cease and Desist letter displayed on screen and read aloud, sent by Turning Point USA (via Paramount Tactical) to Zack Gregorio of Wolves and Finance, including the formal statement on drones (\"UVU prohibited Turning Point USA from flying drones for security purposes during the event, but did allow a Turning Point USA media production drone to briefly fly over the location before the event to collect limited B-roll footage\")",
+          "description": "Cease and Desist letter displayed on screen and read aloud, sent by Turning Point USA (via Paramount Tactical) to Zach De Gregorio of Wolves and Finance, including the formal statement on drones (\"UVU prohibited Turning Point USA from flying drones for security purposes during the event, but did allow a Turning Point USA media production drone to briefly fly over the location before the event to collect limited B-roll footage\")",
           "related_claims": [
             "C-2140",
             "C-2141"
@@ -209,7 +209,7 @@
           "@type": "Artifact",
           "@id": "A-1648.2",
           "ref": "A-1648.2",
-          "description": "Zack Gregorio (Wolves and Finance) YouTube video clip played on air, showing Gregorio presenting the cease-and-desist letter, characterizing it as the first step toward a defamation lawsuit",
+          "description": "Zach De Gregorio (Wolves and Finance) YouTube video clip played on air, showing Gregorio presenting the cease-and-desist letter, characterizing it as the first step toward a defamation lawsuit",
           "related_claims": [
             "C-2140"
           ],
@@ -588,7 +588,7 @@
           "@type": "Artifact",
           "@id": "A-3305.1",
           "ref": "A-3305.1",
-          "description": "Second portion of the Zack Gregorio (Wolves and Finance) clip played on air, in which he cites his December 7 video and reads the TPUSA lawyer's drone paragraph",
+          "description": "Second portion of the Zach De Gregorio (Wolves and Finance) clip played on air, in which he cites his December 7 video and reads the TPUSA lawyer's drone paragraph",
           "related_claims": [
             "C-14215"
           ],
@@ -1971,8 +1971,8 @@
       "@type": "Claim",
       "@id": "C-2140",
       "ref": "C-2140",
-      "label": "Turning Point USA sent a cease-and-desist letter to Zack Gregorio at the Wolves and Finance YouTube channel",
-      "claim": "In a clip the host plays, Zack Gregorio of Wolves and Finance says he received a letter from Turning Point USA titled \"Demand to cease and desist defamatory comments\" and reads from it.",
+      "label": "Turning Point USA sent a cease-and-desist letter to Zach De Gregorio at the Wolves and Finance YouTube channel",
+      "claim": "In a clip the host plays, Zach De Gregorio of Wolves and Finance says he received a letter from Turning Point USA titled \"Demand to cease and desist defamatory comments\" and reads from it.",
       "anchored_artifacts": [
         "A-1648.1",
         "A-1648.2"
@@ -2857,7 +2857,7 @@
       "@id": "C-14205",
       "ref": "C-14205",
       "label": "Gregorio Says the Letter Does Not Answer His Questions and Precedes a Lawsuit Unless He Changes His Statements",
-      "claim": "Zack Gregorio says in the clip that the letter does not address most of his questions and is the precursor to a lawsuit unless he changes his statements.",
+      "claim": "Zach De Gregorio says in the clip that the letter does not address most of his questions and is the precursor to a lawsuit unless he changes his statements.",
       "anchored_artifacts": [
         "A-1648.2"
       ],
@@ -3091,7 +3091,7 @@
       "@id": "C-14215",
       "ref": "C-14215",
       "label": "Gregorio Says He Posted a December 7 Video Naming TPUSA Number One Clown",
-      "claim": "Zack Gregorio says on December 7 he posted a video called Top 10 Clowns of the Year, with Turning Point as his number one clown, which discussed the chief security person's drone statement and Frank Turek's interview.",
+      "claim": "Zach De Gregorio says on December 7 he posted a video called Top 10 Clowns of the Year, with Turning Point as his number one clown, which discussed the chief security person's drone statement and Frank Turek's interview.",
       "anchored_artifacts": [
         "A-3305.1"
       ],

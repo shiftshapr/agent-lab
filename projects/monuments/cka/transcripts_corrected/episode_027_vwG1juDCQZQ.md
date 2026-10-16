@@ -138,7 +138,7 @@ And so I think with the McCoy thing everyone wanted a stage until you got a stag
 
 [25:01]
 
-And I think it was yesterday Sam Parker was like, "Who are these guys? And can't get a clear image of this person." I then respond and I'm like, "Here's a clear image of this person, the actual person wearing the green hoodie." Then he responds very quickly. He's like, "That's me. Sorry, I dressed weird." I think he's on the soccer team at UVU. And that's it. It's over. And nobody is talking about the green hoodie. Here he is, Colby Sessions. Hey guys, this is me. My teammate and I were just on campus to get food and stop by the event. We always wear silly stuff like that. Sorry, guys." That's it. How easy, right? How easy. He's not like, "I'm a victim. Call a lawyer. I can't believe somebody asked a question.
+And I think it was yesterday Sam Parker was like, "Who are these guys? And can't get a clear image of this person." I then respond and I'm like, "Here's a clear image of this person, the actual person wearing the green hoodie." Then he responds very quickly. He's like, "That's me. Sorry, I dressed weird." I think he's on the soccer team at UVU. And that's it. It's over. And nobody is talking about the green hoodie. Here he is, Kolby Sessions. Hey guys, this is me. My teammate and I were just on campus to get food and stop by the event. We always wear silly stuff like that. Sorry, guys." That's it. How easy, right? How easy. He's not like, "I'm a victim. Call a lawyer. I can't believe somebody asked a question.
 
 [25:41]
 

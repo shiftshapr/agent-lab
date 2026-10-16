@@ -1110,7 +1110,7 @@ Investigative Direction: Obtain the original Patel posts and timestamps; verify 
 
 Claim Timestamp: 00:49:13
 
-Claim: Per the Kanye West tweet the host shows, West wrote that he was going "death con 3 on some Jewish people"; the host says he meant Defcon 3, a defensive position, and was referring to Zionists in Hollywood rather than threatening violence.
+Claim: Per the Kanye West tweet the host shows, West wrote that he was going "death con 3 on some Jewish people"; the host says he meant Defcon 3, a defensive position, and that she thinks he was talking about some Zionists in Hollywood rather than threatening violence.
 
 Anchored Artifacts: A-1389.1
 Mentions: N-27
@@ -1723,11 +1723,11 @@ Investigative Direction: Have a technical expert compare leaked TPUSA emails for
 
 ---
 
-**C-9734** Host Repeats the Tip Address Moretips at Candaceowens
+**C-9734** Host Repeats Her Tip Address Moretips@candaceowens.com
 
 Claim Timestamp: 00:29:16
 
-Claim: The host repeats her tip address, more tips at candacewowens.com, before moving to follow-up items.
+Claim: The host repeats her tip address, moretips@candaceowens.com, before moving to follow-up items.
 
 Transcript Snippet: More tips at candacewowens. com. Beyond that, I would like to follow up with you guys on something.
 
@@ -1985,7 +1985,7 @@ Investigative Direction: Seek any Patel statement on whether he knew of or appro
 
 Claim Timestamp: 00:40:30
 
-Claim: The host says Alexis Wilkins might not be a honeypot, that the host has never made that claim, and that there is no evidence of it.
+Claim: The host says Alexis Wilkins might not be a honeypot, that the host has never made that claim, and that there is no evidence of it other than people saying she works for Marissa Streit at PragerU.
 
 Transcript Snippet: I don't know. I've never made that claim.
 
@@ -2093,13 +2093,13 @@ Investigative Direction: Opinion framing; no direct test, retained for context.
 
 ---
 
-**C-9757** Host Says Leaks Come From TPUSA Insiders and She Holds a File on What the Ericson Brothers Do and Say
+**C-9757** Host Says Leaks Come From TPUSA Insiders and She Holds a File on What the Erickson Brothers Do and Say
 
 Claim Timestamp: 00:47:44
 
-Claim: The host says all the leaks come from people at Turning Point USA who loved Charlie Kirk and hate the corruption, and that they have told her what the Ericson brothers are doing, saying and texting, which she keeps in a file.
+Claim: The host says all the leaks come from people at Turning Point USA who loved Charlie Kirk and hate the corruption, and that they have told her what the Erickson brothers are doing, saying and texting, which she keeps in a file.
 
-Transcript Snippet: who have intimately let me know the things that the Ericson brothers are doing and saying and texting, and I I just have a file of all of it because of people at Turning Point USA
+Transcript Snippet: who have intimately let me know the things that the Erickson brothers are doing and saying and texting, and I I just have a file of all of it because of people at Turning Point USA
 
 Anchored Artifacts: 
 Mentions: N-20, N-852, N-3, N-1

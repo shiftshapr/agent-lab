@@ -53,7 +53,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ## II. Executive Summary
 
-This episode presents three principal evidentiary threads: (1) biographical material on Robert Eugene Flood, father of TPUSA security chief Dan Flood, displayed via on-screen profile image and a live-scroll of his LinkedIn page; (2) a cease-and-desist letter sent by Turning Point USA to small YouTuber Zack Gregorio ("Wolves and Finance"), read aloud and shown in full; and (3) competing public statements about whether Erika Kirk "lived in China" or only visited, anchored by an Erica interview clip, a Charlie Kirk debate clip, and a paraphrased TPUSA official response.
+This episode presents three principal evidentiary threads: (1) biographical material on Robert Eugene Flood, father of TPUSA security chief Dan Flood, displayed via on-screen profile image and a live-scroll of his LinkedIn page; (2) a cease-and-desist letter sent by Turning Point USA to small YouTuber Zach De Gregorio ("Wolves and Finance"), read aloud and shown in full; and (3) competing public statements about whether Erika Kirk "lived in China" or only visited, anchored by an Erica interview clip, a Charlie Kirk debate clip, and a paraphrased TPUSA official response.
 
 A social media post from a self-identified childhood friend of Dan Flood is read aloud and provides artifact support for several biographical claims about Dan Flood's Texas origins, current New Braunfels residence, and prior security work at the Cattleman's Ball. A 2018 interview by Bobby Harpole is quoted directly to establish his law enforcement history.
 
@@ -147,7 +147,7 @@ Confidence Level: Medium
 
 **A-1648** TPUSA Cease and Desist Letter Bundle
 
-**A-1648.1** Cease and Desist letter displayed on screen and read aloud, sent by Turning Point USA (via Paramount Tactical) to Zack Gregorio of Wolves and Finance, including the formal statement on drones ("UVU prohibited Turning Point USA from flying drones for security purposes during the event, but did allow a Turning Point USA media production drone to briefly fly over the location before the event to collect limited B-roll footage")
+**A-1648.1** Cease and Desist letter displayed on screen and read aloud, sent by Turning Point USA (via Paramount Tactical) to Zach De Gregorio of Wolves and Finance, including the formal statement on drones ("UVU prohibited Turning Point USA from flying drones for security purposes during the event, but did allow a Turning Point USA media production drone to briefly fly over the location before the event to collect limited B-roll footage")
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -157,7 +157,7 @@ Confidence Level: High
 
 *Related: C-2140, C-2141, N-473, N-10427*
 
-**A-1648.2** Zack Gregorio (Wolves and Finance) YouTube video clip played on air, showing Gregorio presenting the cease-and-desist letter, characterizing it as the first step toward a defamation lawsuit
+**A-1648.2** Zach De Gregorio (Wolves and Finance) YouTube video clip played on air, showing Gregorio presenting the cease-and-desist letter, characterizing it as the first step toward a defamation lawsuit
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -369,7 +369,7 @@ Confidence Level: High
 
 **A-3305** Wolves and Finance December 7 Video Bundle
 
-**A-3305.1** Second portion of the Zack Gregorio (Wolves and Finance) clip played on air, in which he cites his December 7 video and reads the TPUSA lawyer's drone paragraph
+**A-3305.1** Second portion of the Zach De Gregorio (Wolves and Finance) clip played on air, in which he cites his December 7 video and reads the TPUSA lawyer's drone paragraph
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:27:40
@@ -1100,11 +1100,11 @@ Investigative Direction: Verify through Erath County Sheriff's Office records.
 
 ---
 
-**C-2140** Turning Point USA sent a cease-and-desist letter to Zack Gregorio at the Wolves and Finance YouTube channel
+**C-2140** Turning Point USA sent a cease-and-desist letter to Zach De Gregorio at the Wolves and Finance YouTube channel
 
 Claim Timestamp: 00:20:50
 
-Claim: In a clip the host plays, Zack Gregorio of Wolves and Finance says he received a letter from Turning Point USA titled "Demand to cease and desist defamatory comments" and reads from it.
+Claim: In a clip the host plays, Zach De Gregorio of Wolves and Finance says he received a letter from Turning Point USA titled "Demand to cease and desist defamatory comments" and reads from it.
 
 Anchored Artifacts: A-1648.1, A-1648.2
 Mentions: N-473
@@ -1759,7 +1759,7 @@ Investigative Direction: Find the host's tweet and Gregorio's corrected video to
 
 Claim Timestamp: 00:21:30
 
-Claim: Zack Gregorio says in the clip that the letter does not address most of his questions and is the precursor to a lawsuit unless he changes his statements.
+Claim: Zach De Gregorio says in the clip that the letter does not address most of his questions and is the precursor to a lawsuit unless he changes his statements.
 
 Transcript Snippet: Instead of answering my questions, it is the precursor to a lawsuit unless I change my statements.
 
@@ -1922,7 +1922,7 @@ Investigative Direction: Read the letter text and compare it with Kolvet's accou
 
 Claim Timestamp: 00:27:40
 
-Claim: Zack Gregorio says on December 7 he posted a video called Top 10 Clowns of the Year, with Turning Point as his number one clown, which discussed the chief security person's drone statement and Frank Turek's interview.
+Claim: Zach De Gregorio says on December 7 he posted a video called Top 10 Clowns of the Year, with Turning Point as his number one clown, which discussed the chief security person's drone statement and Frank Turek's interview.
 
 Transcript Snippet: On December 7th I posted a video called Top 10 Clowns of the Year.
 

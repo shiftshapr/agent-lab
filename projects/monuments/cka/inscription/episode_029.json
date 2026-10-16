@@ -2043,7 +2043,7 @@
       "@id": "C-1664",
       "ref": "C-1664",
       "label": "Keri Smith (Deprogrammed) Said Candace Owens Exhibits \"Cult Tactics\" and \"Cluster B Personality Disorder Behavior\"",
-      "claim": "Keri Smith, host of the Deprogrammed podcast, in audio played on the episode, said Candace Owens \"is exhibiting several cult tactics\" and \"a lot of cluster B personality disorder behavior.\"",
+      "claim": "Keri Smith, host of the Deprogrammed podcast, in audio played on the episode, said she thinks Candace Owens is \"exhibiting several cult tactics\" and is using manipulative language and \"a lot of cluster B personality disorder behavior.\"",
       "anchored_artifacts": [
         "A-1376.1"
       ],
@@ -2253,7 +2253,7 @@
         "N-11147"
       ],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "00:04:43",
       "investigative_direction": "Speculative generalization; not testable as stated beyond individual events.",

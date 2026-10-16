@@ -247,7 +247,7 @@ That I'm actually proud to announce that I have finally caught the final Pokémo
 
 [44:03]
 
-It says it right here in the Bible that if you don't unfollow Candace Owens, you won't go to heaven. That to me is cult language promising people that their souls um are are somehow tied to following your instructions. I'm just trying to figure out who killed Charlie Kirk, okay? That's all. I want to know who killed my friend. Well, Carrie Smith, who is the host of the podcast Deprogrammed with Carrie Smith, says that she was formerly of a cult mindset and so she's an expert on this. And she has now watched 10 episodes of this show. She watched the Charlie Kirk series and she has determined that if you are interested in what I have to say and what I am uncovering about Charlie Kirk's assassination, then you, you at home, are in a cult. Take it away, Carrie.
+It says it right here in the Bible that if you don't unfollow Candace Owens, you won't go to heaven. That to me is cult language promising people that their souls um are are somehow tied to following your instructions. I'm just trying to figure out who killed Charlie Kirk, okay? That's all. I want to know who killed my friend. Well, Keri Smith, who is the host of the podcast Deprogrammed with Keri Smith, says that she was formerly of a cult mindset and so she's an expert on this. And she has now watched 10 episodes of this show. She watched the Charlie Kirk series and she has determined that if you are interested in what I have to say and what I am uncovering about Charlie Kirk's assassination, then you, you at home, are in a cult. Take it away, Carrie.
 
 [44:50]
 

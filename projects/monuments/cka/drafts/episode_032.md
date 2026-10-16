@@ -42,7 +42,7 @@
 
 ## II. Executive Summary
 
-This episode pivots from the Charlie Kirk assassination investigation into an extended claim chain linking Calvary Chapel churches, the Britney Spears conservatorship, Lou Taylor's financial management firm, and a series of alleged "hostile takeovers" of high-profile figures. The host introduces two new artifact families: (a) a Brett Cooper audio segment read on air describing Lou Taylor's background and her firm's relationship to a Calvary Chapel in Brentwood, Tennessee; and (b) text screenshots allegedly sent by Courtney Love in January 2025 describing a "Mormon mafia" allegedly above Hollywood and Zionist networks. The episode also advances two open threads from prior installments: identification of the "maroon shirt" person partially concealed in shrubbery at the Kirk event, and continued scrutiny of Rob McCoy's role at Calvary Chapel Thousand Oaks and the Potter's Fields scandal.
+This episode pivots from the Charlie Kirk assassination investigation into an extended claim chain linking Calvary Chapel churches, the Britney Spears conservatorship, Lou Taylor's financial management firm, and a series of alleged "hostile takeovers" of high-profile figures. The host introduces two new artifact families: (a) a Brett Cooper audio segment read on air describing Lou Taylor's background and her firm's relationship to a Calvary Chapel in Brentwood, Tennessee; and (b) text screenshots allegedly sent by Courtney Love in January 2025 describing a "Mormon mafia" allegedly above Hollywood and Zionist networks. The episode also advances two open threads from prior installments: identification of the "maroon shirt" person partially concealed in shrubbery at the Kirk event, and continued scrutiny of Rob McCoy's role at Calvary Chapel Thousand Oaks and the Potter's Field scandal.
 
 The episode does not introduce new forensic or ballistics artifacts related to the assassination itself. Its evidentiary contribution consists of (1) on-air read-alouds of third-party reporting, (2) two viewer-submitted photos of additional individuals near the "bush" at the Kirk event, and (3) the host's claim that she has been in possession of text exchanges from Courtney Love since January 2025.
 
@@ -577,9 +577,9 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10252** Potter's Fields Hostile Takeover Allegation
+**N-10252** Potter's Field Hostile Takeover Allegation
 
-Allegation from a former insider that the Potter's Fields scandal was a staged hostile takeover by Rob McCoy following his installation as CFO. New evidence: email backup materials reportedly provided to host (not yet presented).
+Allegation from a former insider that the Potter's Field scandal was a staged hostile takeover by Rob McCoy following his installation as CFO. New evidence: email backup materials reportedly provided to host (not yet presented).
 
 Evidence Count: 1
 Claim Count: 0 (claim deferred pending evidence presentation)
@@ -688,7 +688,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10247** Potter's Fields Ministries Financial Fraud Allegations
+**N-10247** Potter's Field Ministries Financial Fraud Allegations
 
 Existing node reused for new claims in this episode.
 
@@ -976,7 +976,7 @@ Investigative Direction: Identify sender through unredacted metadata; cross-refe
 
 Claim Timestamp: 00:21:25
 
-Claim: The host says Courtney Love told her in messages (Jan 2025) that she was experimented on as a toddler at the Haight-Ashbury Clinic and was given LSD; the host describes this as the era when the CIA was dosing hippies in mass experimentation.
+Claim: The host says Courtney Love told her in messages (January and February 2025) that she was experimented on as a toddler at the Haight-Ashbury Clinic and was given LSD; the host describes this as the era when the CIA was dosing hippies in mass experimentation.
 
 Anchored Artifacts: A-1406.1
 Mentions: N-254
@@ -991,7 +991,7 @@ Investigative Direction: Court Love is reportedly writing a book on this topic; 
 
 Claim Timestamp: 00:22:10
 
-Claim: The host says Courtney Love told her in messages (Jan 2025): "I did not kill Kurt Cobain. That was a part of a psychological operation to make the masses look away from what the CIA was guilty of."
+Claim: The host says Courtney Love told her in messages (January and February 2025): "I did not kill Kurt Cobain. That was a part of a psychological operation to make the masses look away from what the CIA was guilty of."
 
 Anchored Artifacts: A-1406.1
 Mentions: N-254
@@ -1005,7 +1005,7 @@ Investigative Direction: Standalone claim only; no corroborating artifact in thi
 
 Claim Timestamp: 00:27:26
 
-Claim: Per Courtney Love text messages (Jan 2025), she alleges a "Mormon mafia" operates above Hollywood and above "many Zionist Jews."
+Claim: Per Courtney Love text messages (January and February 2025), she alleges a "Mormon mafia" operates above Hollywood and above "many Zionist Jews."
 
 Anchored Artifacts: A-1406.1
 Mentions: N-254
@@ -1020,7 +1020,7 @@ Investigative Direction: Single-source; corroboration required before inscriptio
 
 Claim Timestamp: 00:28:30
 
-Claim: Per Courtney Love text messages (Jan 2025), she states Lou Taylor is connected to Kim Kardashian, Diddy, Jay-Z, and Beyoncé, and that Lou Taylor owns or sat on the board of a "church home" associated with Hillsong / Justin Bieber.
+Claim: Per Courtney Love text messages (January and February 2025), she names Lou Taylor alongside Kim Kardashian, Diddy, Jay-Z, and Beyoncé and says Lou Taylor owns Church Home, associated with getting Justin Bieber from Hillsong; the host says she looked it up and Taylor appears to own or have sat on its board.
 
 Anchored Artifacts: A-1406.1
 Mentions: N-251, N-360, N-870, N-254
@@ -1131,7 +1131,7 @@ Investigative Direction: Obtain the article and verify framing language; host di
 
 ---
 
-**C-1714** Wall Street Journal Repeated "Heir Ali" / "Heir Apparent" Framing for TPUSA
+**C-1714** Wall Street Journal Repeated "Heir Apparent" Framing of Allie Beth Stuckey
 
 Claim Timestamp: 00:56:58
 
