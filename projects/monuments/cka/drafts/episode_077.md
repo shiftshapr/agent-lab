@@ -858,7 +858,7 @@ Investigative Direction: Verify Larissa's identity and adoption record; locate E
 
 **C-2443** Tyler Bowyer Social-Media Statement Attributes Romania 2010 Trip to Academic Study
 
-Claim Timestamp: 00:23:16
+Claim Timestamp: 00:23:00
 
 Claim: In a social-media exchange, Tyler Bowyer stated he studied Romanian in college to complement Russian studies and did a few weeks studying abroad in school.
 

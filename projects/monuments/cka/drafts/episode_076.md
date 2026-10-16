@@ -505,7 +505,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-574** Pam Lehman
+**N-574** Pam Liebman
 
 Per host, featured in the Epstein files and described as helping Epstein with real estate deals; context unclear.
 
@@ -1952,13 +1952,13 @@ Investigative Direction: Check New York Department of State license records.
 
 ---
 
-**C-10274** Host Says Erika's Corcoran Start Was Under Pam Lehman of the Epstein Files
+**C-10274** Host Says Erika's Corcoran Start Was Under Pam Liebman of the Epstein Files
 
 Claim Timestamp: 00:26:56
 
-Claim: The host says Erika's Corcoran start was under the stewardship of Pam Lehman, who is featured in the Epstein files helping him with real estate deals.
+Claim: The host says Erika's Corcoran start was under the stewardship of Pam Liebman, who is featured in the Epstein files helping him with real estate deals.
 
-Transcript Snippet: that is under the stewardship the stewardship of of of Pam Lehman featured in the Epstein files was helping him with real estate deals
+Transcript Snippet: that is under the stewardship the stewardship of of of Pam Liebman featured in the Epstein files was helping him with real estate deals
 
 Anchored Artifacts: 
 Mentions: N-574, N-2, N-9

@@ -440,7 +440,7 @@ Likely the witness the host calls Gauer, an Austrian software engineer (uncertai
 
 ---
 
-**N-311** Emmanuel Beerer
+**N-311** Emmanuel Bierer
 
 Likely the witness the host calls Emmanuel who works at Domo (uncertain match).
 

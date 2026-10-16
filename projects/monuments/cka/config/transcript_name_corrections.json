@@ -2536,6 +2536,34 @@
     [
       "\\bDeGroot\\b",
       "DeGroote"
+    ],
+    [
+      "\\bEmmanuel Beerer\\b",
+      "Emmanuel Bierer"
+    ],
+    [
+      "\\bBeerer\\b",
+      "Bierer",
+      [
+        14,
+        42
+      ]
+    ],
+    [
+      "\\bMaggie W(?:a|)gner\\b",
+      "Maggie Wegner"
+    ],
+    [
+      "\\bMags Wgner\\b",
+      "maggswegner"
+    ],
+    [
+      "\\bChantel Thuy\\b",
+      "Chantal Thuy"
+    ],
+    [
+      "\\bPam Lehman\\b",
+      "Pam Liebman"
     ]
   ]
 }

@@ -334,13 +334,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1508",
       "family_ref": "A-1508",
-      "bundle_name": "PBS Emmanuel Beerer Interview Bundle",
+      "bundle_name": "PBS Emmanuel Bierer Interview Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1508.1",
           "ref": "A-1508.1",
-          "description": "PBS News clip of Emmanuel Beerer describing UVU event",
+          "description": "PBS News clip of Emmanuel Bierer describing UVU event",
           "related_claims": [
             "C-1856"
           ],
@@ -768,7 +768,7 @@
       "@type": "Person",
       "@id": "N-311",
       "ref": "N-311",
-      "name": "Emmanuel Beerer",
+      "name": "Emmanuel Bierer",
       "type": "person",
       "description": "Eyewitness featured in PBS interview clip; host notes his selection by mainstream media.",
       "related_artifacts": [
@@ -930,7 +930,7 @@
       "ref": "N-10315",
       "name": "Mainstream Media Eyewitness Selection Pattern at UVU Event",
       "type": "investigation_target",
-      "description": "Persistent target tracking why Emmanuel Beerer was selected by PBS (and other networks) as a featured eyewitness despite his apparent obscurity.",
+      "description": "Persistent target tracking why Emmanuel Bierer was selected by PBS (and other networks) as a featured eyewitness despite his apparent obscurity.",
       "related_artifacts": [
         "A-1508.1"
       ],
@@ -1454,8 +1454,8 @@
       "@type": "Claim",
       "@id": "C-1847",
       "ref": "C-1847",
-      "label": "PBS featured Emmanuel Beerer as eyewitness in Salt Lake City",
-      "claim": "The host says PBS and other networks featured Emmanuel Beerer as an eyewitness and that he was filmed in Salt Lake City rather than at UVU; she plays a PBS clip of him.",
+      "label": "PBS featured Emmanuel Bierer as eyewitness in Salt Lake City",
+      "claim": "The host says PBS and other networks featured Emmanuel Bierer as an eyewitness and that he was filmed in Salt Lake City rather than at UVU; she plays a PBS clip of him.",
       "anchored_artifacts": [
         "A-1508.1"
       ],
@@ -1464,7 +1464,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:32:42–00:33:55",
-      "investigative_direction": "Obtain the original PBS segment, identify the producer/assignment editor, and verify how Beerer was identified as a witness.",
+      "investigative_direction": "Obtain the original PBS segment, identify the producer/assignment editor, and verify how Bierer was identified as a witness.",
       "mentions_person_refs": [
         "N-311"
       ]
@@ -2519,8 +2519,8 @@
       "@type": "Claim",
       "@id": "C-12451",
       "ref": "C-12451",
-      "label": "Host Says Beerer Is a Former Oracle Engineer Believed from Germany",
-      "claim": "The host says Emmanuel Beerer is a former employee of Oracle, a software engineer, and she believes from Germany.",
+      "label": "Host Says Bierer Is a Former Oracle Engineer Believed from Germany",
+      "claim": "The host says Emmanuel Bierer is a former employee of Oracle, a software engineer, and she believes from Germany.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10315"
@@ -2529,7 +2529,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:31:33",
-      "investigative_direction": "Check public professional profiles for Beerer's employer history and location.",
+      "investigative_direction": "Check public professional profiles for Bierer's employer history and location.",
       "transcript_snippet": "he's a former employee of Oracle. He's in engineering. Uh, I believe he's from Germany from what I looked into.",
       "mentions_person_refs": [
         "N-311",
@@ -2540,8 +2540,8 @@
       "@type": "Claim",
       "@id": "C-12452",
       "ref": "C-12452",
-      "label": "Host Says She Sees No Photos of Beerer at the Event",
-      "claim": "The host says Beerer attended the event but that she does not see any photos of him there, and asks viewers for footage showing him.",
+      "label": "Host Says She Sees No Photos of Bierer at the Event",
+      "claim": "The host says Bierer attended the event but that she does not see any photos of him there, and asks viewers for footage showing him.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10315"
@@ -2550,7 +2550,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:31:33",
-      "investigative_direction": "Request footage from attendees who recognize Beerer.",
+      "investigative_direction": "Request footage from attendees who recognize Bierer.",
       "transcript_snippet": "he attended the event but somehow I don't see any photos of him at the event",
       "supports_claim_refs": [
         "C-1847"
@@ -2589,8 +2589,8 @@
       "@type": "Claim",
       "@id": "C-12454",
       "ref": "C-12454",
-      "label": "Beerer Says in the Clip He Heard a Loud Sound and Everyone Ducked",
-      "claim": "In the PBS clip Emmanuel Beerer says he heard a loud sound, did not think it could be happening, and that everyone ducked.",
+      "label": "Bierer Says in the Clip He Heard a Loud Sound and Everyone Ducked",
+      "claim": "In the PBS clip Emmanuel Bierer says he heard a loud sound, did not think it could be happening, and that everyone ducked.",
       "anchored_artifacts": [
         "A-1508.1"
       ],

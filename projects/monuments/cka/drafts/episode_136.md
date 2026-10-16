@@ -834,7 +834,7 @@ Investigative Direction: Verify Robertson's identification through facial compar
 
 **C-3200** Blue-shirt man on Losi rooftop identified as Christopher Hawk
 
-Claim Timestamp: 00:18:43
+Claim Timestamp: 00:18:30
 
 Claim: Per the same Muppet Masher identification, the blue-shirt man walking near the Losi rooftop was identified as Christopher Hawk.
 

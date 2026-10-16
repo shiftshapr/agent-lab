@@ -19,13 +19,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1587",
       "family_ref": "A-1587",
-      "bundle_name": "Maggie Wagner Email Bundle",
+      "bundle_name": "Maggie Wegner Email Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1587.1",
           "ref": "A-1587.1",
-          "description": "Email from Maggie Wagner to Candace Owens describing Daily Wire audition approach",
+          "description": "Email from Maggie Wegner to Candace Owens describing Daily Wire audition approach",
           "related_claims": [
             "C-2016",
             "C-2017",
@@ -48,13 +48,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1588",
       "family_ref": "A-1588",
-      "bundle_name": "Maggie Wagner Text Message Bundle",
+      "bundle_name": "Maggie Wegner Text Message Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1588.1",
           "ref": "A-1588.1",
-          "description": "Text message from Maggie Wagner to Daily Wire producer declining the audition role",
+          "description": "Text message from Maggie Wegner to Daily Wire producer declining the audition role",
           "related_claims": [
             "C-2018"
           ],
@@ -320,13 +320,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2844",
       "family_ref": "A-2844",
-      "bundle_name": "Maggie Wagner Instagram Page Bundle",
+      "bundle_name": "Maggie Wegner Instagram Page Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2844.1",
           "ref": "A-2844.1",
-          "description": "Maggie Wagner's Instagram page shown on screen with the handle Mags Wgner",
+          "description": "Maggie Wegner's Instagram page shown on screen with the handle maggswegner",
           "related_claims": [
             "C-6976"
           ],
@@ -374,7 +374,7 @@
       "@type": "Person",
       "@id": "N-389",
       "ref": "N-389",
-      "name": "Maggie Wagner",
+      "name": "Maggie Wegner",
       "type": "person",
       "description": "Person who received a Daily Wire audition approach to host a show mocking Candace Owens and Tucker Carlson; declined the role. Provided email, text message, and AI video sample as artifacts.",
       "related_artifacts": [
@@ -1527,8 +1527,8 @@
       "@type": "Claim",
       "@id": "C-2016",
       "ref": "C-2016",
-      "label": "Maggie Wagner Auditioned for Daily Wire Solo Show Two Days After Ben Shapiro's Amfest Speech",
-      "claim": "Per an email from Maggie Wagner that the host reads, a Daily Wire producer contacted her about 2 days after Ben Shapiro's Amfest speech to audition her for a solo show presented as a comedy show making fun of the right and the left, with Candace Owens and Tucker Carlson brought up immediately.",
+      "label": "Maggie Wegner Auditioned for Daily Wire Solo Show Two Days After Ben Shapiro's Amfest Speech",
+      "claim": "Per an email from Maggie Wegner that the host reads, a Daily Wire producer contacted her about 2 days after Ben Shapiro's Amfest speech to audition her for a solo show presented as a comedy show making fun of the right and the left, with Candace Owens and Tucker Carlson brought up immediately.",
       "anchored_artifacts": [
         "A-1587.1"
       ],
@@ -1550,7 +1550,7 @@
       "@id": "C-2017",
       "ref": "C-2017",
       "label": "Audition Script and AI Video Content Targeted Candace Owens",
-      "claim": "Per an email from Maggie Wagner that the host reads, the audition script and AI video were entirely about making fun of Candace Owens, and the producer said, \"So when Candace or Tucker says something crazy, we would want you to make fun of it.\"",
+      "claim": "Per an email from Maggie Wegner that the host reads, the audition script and AI video were entirely about making fun of Candace Owens, and the producer said, \"So when Candace or Tucker says something crazy, we would want you to make fun of it.\"",
       "anchored_artifacts": [
         "A-1587.1",
         "A-1589.1"
@@ -1571,8 +1571,8 @@
       "@type": "Claim",
       "@id": "C-2018",
       "ref": "C-2018",
-      "label": "Maggie Wagner Declined the Audition Role",
-      "claim": "Per a text message the host shows, Maggie Wagner declined the Daily Wire audition role, texting the producer that making fun of Candace did not feel true to her beliefs.",
+      "label": "Maggie Wegner Declined the Audition Role",
+      "claim": "Per a text message the host shows, Maggie Wegner declined the Daily Wire audition role, texting the producer that making fun of Candace did not feel true to her beliefs.",
       "anchored_artifacts": [
         "A-1588.1"
       ],
@@ -1694,7 +1694,7 @@
       "@id": "C-2024",
       "ref": "C-2024",
       "label": "Email the Host Reads Describes Daily Wire Producer as in \"Panic Mode\" During Casting",
-      "claim": "Per an email the host reads, the Daily Wire producer who contacted Maggie Wagner was in \"panic mode\" about casting the show, having only come up with the show concept the day before contacting her.",
+      "claim": "Per an email the host reads, the Daily Wire producer who contacted Maggie Wegner was in \"panic mode\" about casting the show, having only come up with the show concept the day before contacting her.",
       "anchored_artifacts": [
         "A-1587.1"
       ],
@@ -1940,7 +1940,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:04:43",
-      "investigative_direction": "Obtain further casting emails or payment offers like Maggie Wagner's to see whether a pattern exists.",
+      "investigative_direction": "Obtain further casting emails or payment offers like Maggie Wegner's to see whether a pattern exists.",
       "transcript_snippet": "his strategy is to find Christians and to pressure them usually through financial means to go after other Christians when he gets angry in particular.",
       "mentions_person_refs": [
         "N-97"
@@ -2020,7 +2020,7 @@
       "@id": "C-6914",
       "ref": "C-6914",
       "label": "Host Reads Maggie's Account That She Tried to Rewrite the Script and Could Not",
-      "claim": "The host reads Maggie Wagner's email saying she tried to rewrite the audition script in a way true to her, could not, and was advised by a friend to contact a second person, who told her not to send the audition tape.",
+      "claim": "The host reads Maggie Wegner's email saying she tried to rewrite the audition script in a way true to her, could not, and was advised by a friend to contact a second person, who told her not to send the audition tape.",
       "anchored_artifacts": [
         "A-1587.1"
       ],
@@ -2042,7 +2042,7 @@
       "@id": "C-6915",
       "ref": "C-6915",
       "label": "Maggie Says She Was Told Not to Share the AI Video After the Host Said She Knew",
-      "claim": "The host reads Maggie Wagner's email saying she was told not to share the AI video the day after the host announced on air that she knew about the planned show, and that she told the producer she had not leaked it.",
+      "claim": "The host reads Maggie Wegner's email saying she was told not to share the AI video the day after the host announced on air that she knew about the planned show, and that she told the producer she had not leaked it.",
       "anchored_artifacts": [
         "A-1587.1"
       ],
@@ -2066,7 +2066,7 @@
       "@id": "C-6916",
       "ref": "C-6916",
       "label": "Maggie Says She Attached Proof of the Call and the Producer's Text",
-      "claim": "The host reads Maggie Wagner's email saying she attached the AI video, the text she sent the producer, and proof of the call, plus photos from the studio showing the show filming.",
+      "claim": "The host reads Maggie Wegner's email saying she attached the AI video, the text she sent the producer, and proof of the call, plus photos from the studio showing the show filming.",
       "anchored_artifacts": [
         "A-1587.1"
       ],
@@ -2156,7 +2156,7 @@
       "@id": "C-6920",
       "ref": "C-6920",
       "label": "Host Says Maggie Did Not Get the Job After Refusing to Mock Her",
-      "claim": "The host says Maggie Wagner did not get the job because she went back to the producer and said it did not feel true to what she believed to make fun of Candace.",
+      "claim": "The host says Maggie Wegner did not get the job because she went back to the producer and said it did not feel true to what she believed to make fun of Candace.",
       "anchored_artifacts": [
         "A-1588.1"
       ],
@@ -2167,7 +2167,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:11:01",
-      "investigative_direction": "Confirm with Maggie Wagner that she was not offered the role and obtain the producer's reply.",
+      "investigative_direction": "Confirm with Maggie Wegner that she was not offered the role and obtain the producer's reply.",
       "transcript_snippet": "she didn't get the job because she went back to them and she wrote and said, 'I feel uncomfortable doing this.",
       "supports_claim_refs": [
         "C-2018"
@@ -3430,8 +3430,8 @@
       "@type": "Claim",
       "@id": "C-6976",
       "ref": "C-6976",
-      "label": "Host Shows Maggie Wagner's Instagram Handle",
-      "claim": "The host shows Maggie Wagner's Instagram page, gives the handle as Mags Wgner and encourages viewers to follow it.",
+      "label": "Host Shows Maggie Wegner's Instagram Handle",
+      "claim": "The host shows Maggie Wegner's Instagram page, gives the handle as maggswegner and encourages viewers to follow it.",
       "anchored_artifacts": [
         "A-2844"
       ],
@@ -3443,7 +3443,7 @@
       ],
       "claim_timestamp": "00:54:47",
       "investigative_direction": "Confirm the handle on Instagram.",
-      "transcript_snippet": "this is her Instagram page. It's Mags Wgner.",
+      "transcript_snippet": "this is her Instagram page. It's maggswegner.",
       "mentions_person_refs": [
         "N-389",
         "N-3"

@@ -3119,7 +3119,7 @@ Investigative Direction: Identify the news outlet and broadcast date of the clip
 
 **C-6270** Host says Erika Kirk is now visiting middle schools
 
-Claim Timestamp: 01:18:30
+Claim Timestamp: 01:19:25
 
 Claim: The host says Erika Kirk is currently doing the rounds at middle schools.
 

@@ -474,7 +474,7 @@ Investigative Pressure: Low
 
 *Related: A-1635.1, C-2108, N-10417, N-10418*
 
-**N-465** Chantel Thuy
+**N-465** Chantal Thuy
 
 *November Renaissance* cast; identified host-stated connection to Fort Huachuca and stated father worked in AI for IBM.
 
@@ -1127,7 +1127,7 @@ Cold War underground base in Greenland the host says was built to launch missile
 
 Claim Timestamp: 00:03:23–00:05:24
 
-Claim: The host says, citing people based at Fort Huachuca who contacted her, that members of the *November Renaissance* cast have Fort Huachuca or military ties: Clayton Haugen does marketing for defense contractor Dillon Aero Space; Don Frye trained in judo at Fort Huachuca; Payton McCormick's father was once stationed there; Priscilla Ann Nu'ul's father was a lieutenant stationed there. For Chantel Thuy she cites only that her dad worked on AI for IBM, and for Price Mitchum only a psych hold.
+Claim: The host says, citing people based at Fort Huachuca who contacted her, that members of the *November Renaissance* cast have Fort Huachuca or military ties: Clayton Haugen does marketing for defense contractor Dillon Aero Space; Don Frye trained in judo at Fort Huachuca; Payton McCormick's father was once stationed there; Priscilla Ann Nu'ul's father was a lieutenant stationed there. For Chantal Thuy she cites only that her dad worked on AI for IBM, and for Price Mitchum only a psych hold.
 
 Anchored Artifacts: A-1635.1, A-1635.2
 Mentions: N-460, N-463, N-464, N-465, N-466, N-467
@@ -1597,11 +1597,11 @@ Investigative Direction: Check Miss Teen USA 2006 titleholder records; the trans
 
 ---
 
-**C-9843** Host Says Chantel Thuy's Father Worked on AI at IBM
+**C-9843** Host Says Chantal Thuy's Father Worked on AI at IBM
 
 Claim Timestamp: 00:06:00
 
-Claim: The host says she did not have much time to go through cast member Chantel Thuy's background, but that her dad worked in artificial intelligence for IBM, which she speculates might connect to Fort Huachuca.
+Claim: The host says she did not have much time to go through cast member Chantal Thuy's background, but that her dad worked in artificial intelligence for IBM, which she speculates might connect to Fort Huachuca.
 
 Transcript Snippet: we can tell you that her dad worked for an artificial intelligence for IBM
 

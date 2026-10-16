@@ -935,7 +935,7 @@
       "@type": "Person",
       "@id": "N-574",
       "ref": "N-574",
-      "name": "Pam Lehman",
+      "name": "Pam Liebman",
       "type": "person",
       "description": "Per host, featured in the Epstein files and described as helping Epstein with real estate deals; context unclear.",
       "related_artifacts": [
@@ -3336,8 +3336,8 @@
       "@type": "Claim",
       "@id": "C-10274",
       "ref": "C-10274",
-      "label": "Host Says Erika's Corcoran Start Was Under Pam Lehman of the Epstein Files",
-      "claim": "The host says Erika's Corcoran start was under the stewardship of Pam Lehman, who is featured in the Epstein files helping him with real estate deals.",
+      "label": "Host Says Erika's Corcoran Start Was Under Pam Liebman of the Epstein Files",
+      "claim": "The host says Erika's Corcoran start was under the stewardship of Pam Liebman, who is featured in the Epstein files helping him with real estate deals.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10502"
@@ -3347,7 +3347,7 @@
       ],
       "claim_timestamp": "00:26:56",
       "investigative_direction": "Verify Lehman's Corcoran role and the Epstein files reference.",
-      "transcript_snippet": "that is under the stewardship the stewardship of of of Pam Lehman featured in the Epstein files was helping him with real estate deals",
+      "transcript_snippet": "that is under the stewardship the stewardship of of of Pam Liebman featured in the Epstein files was helping him with real estate deals",
       "mentions_person_refs": [
         "N-574",
         "N-2",

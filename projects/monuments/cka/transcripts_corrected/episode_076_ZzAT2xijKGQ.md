@@ -161,7 +161,7 @@ And Epstein would just come all the time. Like, you know, this was his friend. L
 
 [26:56]
 
-We can't get an answer on that. Erika, being the busiest person in the world in 2018, uh receiving degrees, starting and running a business, a clothing company, also uh taking interviews with Turning Point cuz she's going to help them, but then falling in love with Charlie, she also unusually receives her New York real estate license to work with Corcoran real estate. And that is under the stewardship the stewardship of of of Pam Lehman featured in the Epstein files was helping him with real estate deals, but also uh we can't find any real estate deals that Erika completed in New York. And real estate agents are reaching out to me saying, "You can't just get a license and work for Corcoran. That's not That's not how the real estate world works." Uh I guess they have certain requirements.
+We can't get an answer on that. Erika, being the busiest person in the world in 2018, uh receiving degrees, starting and running a business, a clothing company, also uh taking interviews with Turning Point cuz she's going to help them, but then falling in love with Charlie, she also unusually receives her New York real estate license to work with Corcoran real estate. And that is under the stewardship the stewardship of of of Pam Liebman featured in the Epstein files was helping him with real estate deals, but also uh we can't find any real estate deals that Erika completed in New York. And real estate agents are reaching out to me saying, "You can't just get a license and work for Corcoran. That's not That's not how the real estate world works." Uh I guess they have certain requirements.
 
 [27:39]
 

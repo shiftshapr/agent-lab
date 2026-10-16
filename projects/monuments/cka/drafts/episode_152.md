@@ -1345,7 +1345,7 @@ Investigative Direction: Find the primary accusation records or reporting on Bus
 
 **C-10502** Host Says David Frodsham Was Charged at Fort Huachuca With Running a Child Sex Abuse Ring
 
-Claim Timestamp: 00:03:34
+Claim Timestamp: 00:04:40
 
 Claim: The host says David Frodsham was the civilian commander stationed at Fort Huachuca who was charged with running a child sex abuse ring.
 

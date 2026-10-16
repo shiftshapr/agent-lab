@@ -978,7 +978,7 @@ Investigative Direction: This is theological commentary; no factual verification
 
 **C-2313** American Jetet comment endorses Rob Skiba's work and frames the conflict as "Babylonian ascension"
 
-Claim Timestamp: 00:40:23
+Claim Timestamp: 00:40:08
 
 Claim: A viewer comment (American Jetet) endorses Rob Skiba's work and frames the underlying conflict as a millennia-long battle over "Babylonian ascension."
 

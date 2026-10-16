@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T18:00:07Z",
+  "generated_at": "2026-10-15T18:08:44Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -3087,7 +3087,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10274",
-      "label": "Host Says Erika's Corcoran Start Was Under Pam Lehman of the Epstein Files",
+      "label": "Host Says Erika's Corcoran Start Was Under Pam Liebman of the Epstein Files",
       "node_kind": "claim",
       "episode": 76
     },
@@ -19243,14 +19243,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12451",
-      "label": "Host Says Beerer Is a Former Oracle Engineer Believed from Germany",
+      "label": "Host Says Bierer Is a Former Oracle Engineer Believed from Germany",
       "node_kind": "claim",
       "episode": 42
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12452",
-      "label": "Host Says She Sees No Photos of Beerer at the Event",
+      "label": "Host Says She Sees No Photos of Bierer at the Event",
       "node_kind": "claim",
       "episode": 42
     },
@@ -19264,7 +19264,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12454",
-      "label": "Beerer Says in the Clip He Heard a Loud Sound and Everyone Ducked",
+      "label": "Bierer Says in the Clip He Heard a Loud Sound and Everyone Ducked",
       "node_kind": "claim",
       "episode": 42
     },
@@ -41706,7 +41706,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1847",
-      "label": "PBS featured Emmanuel Beerer as eyewitness in Salt Lake City",
+      "label": "PBS featured Emmanuel Bierer as eyewitness in Salt Lake City",
       "node_kind": "claim",
       "episode": 42
     },
@@ -42889,7 +42889,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2016",
-      "label": "Maggie Wagner Auditioned for Daily Wire Solo Show Two Days After Ben Shapiro's Amfest Speech",
+      "label": "Maggie Wegner Auditioned for Daily Wire Solo Show Two Days After Ben Shapiro's Amfest Speech",
       "node_kind": "claim",
       "episode": 53
     },
@@ -42903,7 +42903,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2018",
-      "label": "Maggie Wagner Declined the Audition Role",
+      "label": "Maggie Wegner Declined the Audition Role",
       "node_kind": "claim",
       "episode": 53
     },
@@ -77406,7 +77406,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6976",
-      "label": "Host Shows Maggie Wagner's Instagram Handle",
+      "label": "Host Shows Maggie Wegner's Instagram Handle",
       "node_kind": "claim",
       "episode": 53
     },
@@ -97475,7 +97475,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9843",
-      "label": "Host Says Chantel Thuy's Father Worked on AI at IBM",
+      "label": "Host Says Chantal Thuy's Father Worked on AI at IBM",
       "node_kind": "claim",
       "episode": 58
     },
@@ -106211,14 +106211,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1508",
-      "label": "PBS Emmanuel Beerer Interview Bundle",
+      "label": "PBS Emmanuel Bierer Interview Bundle",
       "node_kind": "artifact",
       "episode": 42
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1508.1",
-      "label": "PBS News clip of Emmanuel Beerer describing UVU event",
+      "label": "PBS News clip of Emmanuel Bierer describing UVU event",
       "node_kind": "artifact",
       "episode": 42
     },
@@ -107667,28 +107667,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1587",
-      "label": "Maggie Wagner Email Bundle",
+      "label": "Maggie Wegner Email Bundle",
       "node_kind": "artifact",
       "episode": 53
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1587.1",
-      "label": "Email from Maggie Wagner to Candace Owens describing Daily Wire audition approach",
+      "label": "Email from Maggie Wegner to Candace Owens describing Daily Wire audition approach",
       "node_kind": "artifact",
       "episode": 53
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1588",
-      "label": "Maggie Wagner Text Message Bundle",
+      "label": "Maggie Wegner Text Message Bundle",
       "node_kind": "artifact",
       "episode": 53
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1588.1",
-      "label": "Text message from Maggie Wagner to Daily Wire producer declining the audition role",
+      "label": "Text message from Maggie Wegner to Daily Wire producer declining the audition role",
       "node_kind": "artifact",
       "episode": 53
     },
@@ -129808,14 +129808,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2844",
-      "label": "Maggie Wagner Instagram Page Bundle",
+      "label": "Maggie Wegner Instagram Page Bundle",
       "node_kind": "artifact",
       "episode": 53
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2844.1",
-      "label": "Maggie Wagner's Instagram page shown on screen with the handle Mags Wgner",
+      "label": "Maggie Wegner's Instagram page shown on screen with the handle maggswegner",
       "node_kind": "artifact",
       "episode": 53
     },
