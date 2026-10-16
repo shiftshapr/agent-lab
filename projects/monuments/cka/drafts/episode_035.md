@@ -700,7 +700,7 @@ Named in the host's list of known passengers as the chief finance person.
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Elizabeth McCoy, who the host says ran out of TPUSA headquarters when she heard the news.
 

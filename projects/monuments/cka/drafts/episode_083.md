@@ -514,7 +514,7 @@ Alexis Wilkins; author of the 13-part thread and plaintiff in the honeypot lawsu
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Elizabeth McCoy; her account of September 10 is relayed by the host.
 
@@ -892,11 +892,11 @@ Related Nodes: N-10561, N-10565
 
 Investigative Direction: Obtain independent witness sightings or surveillance/phone-location data for September 10.
 
-**C-2566** Host Says Mikey McCoy Met the Group at the Utah Airport and Elizabeth Accompanied Erica to View Charlie's Body
+**C-2566** Host Says Mikey McCoy Met the Group Outside the Hospital and Elizabeth Accompanied Erika to View Charlie's Body
 
-Claim Timestamp: 00:18:09
+Claim Timestamp: 00:18:43
 
-Claim: The host says that, per Elizabeth McCoy's alleged narrative (and Andrew Kolvet's account, if he is to be believed), Mikey McCoy met them outside the hospital, and Elizabeth went in with Erika to see Charlie's body for the first time.
+Claim: The host says that, per Elizabeth McCoy's alleged narrative, they raced to the hospital without waiting for Andrew Kolvet (though the host notes Kolvet's account says they did wait), Mikey McCoy met them outside, and Elizabeth went in with Erika to see Charlie's body for the first time.
 
 Anchored Artifacts: A-1902.2
 Mentions: N-218, N-191, N-2, N-14

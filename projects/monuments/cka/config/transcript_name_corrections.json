@@ -2771,6 +2771,28 @@
     [
       "\\bSara Zaafarani\\b",
       "Sarra Zaafrani"
+    ],
+    [
+      "\\bMarina (?:Medvin|Medias|Munz|Minnez|Meanes)\\b",
+      "Marina Minas",
+      [
+        64,
+        70,
+        72,
+        81,
+        84,
+        132
+      ]
+    ],
+    [
+      "\\bMedvin\\b",
+      "Minas",
+      [
+        64,
+        81,
+        84,
+        132
+      ]
     ]
   ]
 }

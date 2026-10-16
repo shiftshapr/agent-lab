@@ -728,7 +728,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Joined Maine vacation; final-footage context.
 
@@ -1337,7 +1337,7 @@ Named in the timeline for his June 22 Senate confirmation.
 
 ---
 
-**N-494** Marina (TPUSA CMO)
+**N-494** Marina Minas
 
 TPUSA CMO named as involved in organizing the August 14 photo shoot.
 

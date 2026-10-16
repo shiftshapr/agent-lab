@@ -452,7 +452,7 @@ Apologist the host says reported that Charlie had no pulse in the critical minut
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Elizabeth McCoy; the host says she allegedly recorded Erika at the open casket in Utah.
 

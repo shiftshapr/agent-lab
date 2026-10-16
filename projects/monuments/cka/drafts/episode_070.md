@@ -339,7 +339,7 @@ Investigative Pressure: Medium
 
 *Related: A-1747.1, C-2319, C-2320, C-2321, C-2322, N-494, N-10492*
 
-**N-494** Marina (TPUSA CMO)
+**N-494** Marina Minas
 
 Identified on-air as CMO of Turning Point USA; named by Aubrey Laitsch as present at her termination meeting.
 
@@ -861,9 +861,9 @@ Investigative Direction: Verify Laitsch's employment dates and termination date 
 
 **C-2320** Aubrey Laitsch stated termination meeting involved Uber-driver conversation
 
-Claim Timestamp: 00:24:02–00:28:28
+Claim Timestamp: 00:26:00
 
-Claim: Aubrey Laitsch's video states she was brought into a meeting with Andrew Kolvet and Marina Munz and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to "Aubrey."
+Claim: Aubrey Laitsch's video states she was brought into a meeting with Andrew Kolvet and Marina Minas and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to "Aubrey."
 
 Anchored Artifacts: A-1747.1
 Mentions: N-494, N-552, N-14
@@ -881,15 +881,15 @@ Mentions: N-552, N-1
 Related Nodes: N-10492
 Investigative Direction: Compare the stated termination rationale (Uber-driver hearsay) against Laitsch's stated belief; seek additional former-employee testimony.
 
-**C-2322** Aubrey Laitsch video names Andrew Kolvet and Marina Munz at termination meeting
+**C-2322** Aubrey Laitsch video names Andrew Kolvet and Marina Minas at termination meeting
 
-Claim Timestamp: 00:24:02–00:28:28
+Claim Timestamp: 00:26:00
 
-Claim: In a video the host plays, Aubrey Laitsch names Andrew Kolvet (described as her employer via ATK) and Marina Munz (CMO of Turning Point USA) as the two people present at her termination meeting.
+Claim: In a video the host plays, Aubrey Laitsch names Andrew Kolvet (described as her employer via ATK) and Marina Minas (CMO of Turning Point USA) as the two people present at her termination meeting.
 
 Anchored Artifacts: A-1747.1
 Mentions: N-494, N-552, N-14
-Investigative Direction: Verify Marina Munz's title and organizational role via TPUSA public records.
+Investigative Direction: Verify Marina Minas's title and organizational role via TPUSA public records.
 
 **C-2323** Tim Dillon clip describes political performance as "fake"
 

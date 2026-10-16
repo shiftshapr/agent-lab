@@ -324,7 +324,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Prior public thread claiming she went to Aloe for clothes; host contrasts with profile’s Erika-directed account.
 

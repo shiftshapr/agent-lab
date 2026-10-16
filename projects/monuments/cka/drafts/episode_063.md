@@ -489,7 +489,7 @@ Named among the McCoys at the September 22 private dinner.
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Named as Elizabeth McCoy among the McCoys at the September 22 private dinner.
 

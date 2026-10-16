@@ -523,7 +523,7 @@ Blake Neff; named by the host in an open invitation to TPUSA people.
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Eliza McCoy (transcribed Elizabeth McCoy); the host speculates about her rising role at TPUSA.
 

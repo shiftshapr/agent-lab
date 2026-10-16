@@ -477,7 +477,7 @@ Investigative Pressure: High
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Mikey McCoy's wife; reportedly first person called after shooting; described as having been removed from public narrative.
 

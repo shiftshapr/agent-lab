@@ -34,8 +34,8 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1587, A-1588, A-1589, A-1590, A-1591, A-1592, A-1593, A-1594, A-1595
   - Claim Range: C-2016–C-2025
-  - New Nodes Introduced: N-389, N-391, N-392, N-393, N-394, N-395, N-396, N-397, N-10386, N-10388, N-10390, N-10391
-  - Reused Nodes Appearing: N-10387, N-2, N-27, N-82, N-267, N-271, N-367, N-376, N-485, N-10000, N-10004, N-10113, N-10268, N-10270, N-10316, N-10406, N-10416, N-10900, N-10385, N-11121, N-740, N-11116, N-11117, N-390, N-486, N-10389, N-10661, N-10925
+  - New Nodes Introduced: N-389, N-391, N-392, N-393, N-395, N-396, N-397, N-10386, N-10388, N-10390, N-10391
+  - Reused Nodes Appearing: N-10387, N-2, N-27, N-82, N-267, N-271, N-367, N-376, N-485, N-10000, N-10004, N-10113, N-10268, N-10270, N-10316, N-10406, N-10416, N-10900, N-10385, N-11121, N-740, N-11116, N-11117, N-390, N-486, N-10389, N-10661, N-10925, N-394
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable – Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megyn Kelly presumed to exist), N-11
 
 ---

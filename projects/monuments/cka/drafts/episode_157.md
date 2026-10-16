@@ -971,7 +971,7 @@ Named for the Maine vacation footage and for allegedly telling people Charlie wa
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Named as Elizabeth, who joined the Maine vacation with Mikey McCoy.
 

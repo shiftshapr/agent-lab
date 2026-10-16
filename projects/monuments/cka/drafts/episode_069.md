@@ -549,7 +549,7 @@ Mikey McCoy; first caller after the shot, per the host's call sequence.
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Elizabeth McCoy; called first by Mikey, per the host.
 

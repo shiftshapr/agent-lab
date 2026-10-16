@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-16T16:47:56Z",
+  "generated_at": "2026-10-16T17:03:03Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -1169,7 +1169,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10000",
-      "label": "Host Says Erika Was in the Office Daily Making Decisions With Sheridan and Marina Medvin",
+      "label": "Host Says Erika Was in the Office Daily Making Decisions With Sheridan and Marina Minas",
       "node_kind": "claim",
       "episode": 64
     },
@@ -2016,7 +2016,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10121",
-      "label": "Host Says Aubrey Laitsch Was Fired After Being Questioned About an Uber Ride by Marina Meanes",
+      "label": "Host Says Aubrey Laitsch Was Fired After Being Questioned About an Uber Ride by Marina Minas",
       "node_kind": "claim",
       "episode": 72
     },
@@ -45010,7 +45010,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2322",
-      "label": "Aubrey Laitsch video names Andrew Kolvet and Marina Munz at termination meeting",
+      "label": "Aubrey Laitsch video names Andrew Kolvet and Marina Minas at termination meeting",
       "node_kind": "claim",
       "episode": 70
     },
@@ -46340,7 +46340,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2535",
-      "label": "Marina Medvin routed death-statement drafting to Aubrey citing Andrew's plane status",
+      "label": "Host Says Marina Minas Asked Aubrey to Draft Death Statement Because Andrew Was on a Plane",
       "node_kind": "claim",
       "episode": 81
     },
@@ -46557,7 +46557,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2566",
-      "label": "Host Says Mikey McCoy Met the Group at the Utah Airport and Elizabeth Accompanied Erica to View Charlie's Body",
+      "label": "Host Says Mikey McCoy Met the Group Outside the Hospital and Elizabeth Accompanied Erika to View Charlie's Body",
       "node_kind": "claim",
       "episode": 83
     },
@@ -55139,7 +55139,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3795",
-      "label": "Marina Medvin asked Aubrey to draft the death statement because Kolvet was on a plane",
+      "label": "Marina Minas asked Aubrey to draft the death statement because Kolvet was on a plane",
       "node_kind": "claim",
       "episode": 84
     },
@@ -92043,7 +92043,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9067",
-      "label": "Host Names Marina Medvin and Frank, the In-House Lawyer, as Part of the Alleged White House Group",
+      "label": "Host Names Marina Minas and Frank, the In-House Lawyer, as Part of the Alleged White House Group",
       "node_kind": "claim",
       "episode": 132
     },
@@ -112504,7 +112504,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1881.1",
-      "label": "PR group-chat text messages (Kolvet, Strief, Medvin/Minas, Aubrey) Sept 10",
+      "label": "PR group-chat text messages (Kolvet, Strief, Minas/Minas, Aubrey) Sept 10",
       "node_kind": "artifact",
       "episode": 81
     },

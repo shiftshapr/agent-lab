@@ -704,7 +704,7 @@ Brigitte Macron; the host links her story to child-abuse themes.
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Elizabeth McCoy; the target of the host's mock conspiracy theory about Erika Kirk.
 

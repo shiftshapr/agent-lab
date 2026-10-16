@@ -292,7 +292,7 @@ All right, you guys. Uh now to tell you that we have some new merch on the websi
 
 [58:47]
 
-She I assumed everyone was just doing things, and she was gathering herself, and she was like at home in the fetal uh condition. Nope, she was in the office every day, and she was making informed decisions alongside Stacie Sheridan and this Marina Medvin, who I need to take time to look into, who apparently, by the way, ironically, watches my show every day in the office. Turning Point USA watches this show live in the office, and then fired someone for screenshotting the show in the office. I don't even I I I don't comprehend that. I'm going to be honest with you. Um okay, let's get into some of your comments from today's episode. Uh Kiki writes, "Candace, what do you mean Erika said she was watching your show in the beginning and learning?
+She I assumed everyone was just doing things, and she was gathering herself, and she was like at home in the fetal uh condition. Nope, she was in the office every day, and she was making informed decisions alongside Stacie Sheridan and this Marina Minas, who I need to take time to look into, who apparently, by the way, ironically, watches my show every day in the office. Turning Point USA watches this show live in the office, and then fired someone for screenshotting the show in the office. I don't even I I I don't comprehend that. I'm going to be honest with you. Um okay, let's get into some of your comments from today's episode. Uh Kiki writes, "Candace, what do you mean Erika said she was watching your show in the beginning and learning?
 
 [59:24]
 

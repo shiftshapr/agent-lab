@@ -1580,6 +1580,23 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-394",
+      "ref": "N-394",
+      "name": "Corey Lewandowski",
+      "type": "person",
+      "description": "Former Trump campaign manager. First named in this episode, where the host says he may have taken her fishing photo with Charlie Kirk (intro moved from ep53, 2026-10-16).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1473"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 2,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -1826,7 +1843,8 @@
       "mentions_person_refs": [
         "N-33",
         "N-3",
-        "N-1"
+        "N-1",
+        "N-394"
       ]
     },
     {

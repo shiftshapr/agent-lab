@@ -443,7 +443,7 @@ Dr. Lee Trotter (rendered 'Troder' in the transcript); surgeon in the host's hos
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Eliza (Elizabeth) McCoy; the person who first proposed the tent idea per TPUSA.
 

@@ -798,9 +798,9 @@ Chicago-area man the host says was wrongly pictured as Bob Ferguson in the prior
 
 ---
 
-**N-494** Marina (TPUSA CMO)
+**N-494** Marina Minas
 
-Host calls her Marina, the COO, and Marina Medvin; accused of loyalty-test firings.
+Host calls her Marina, the COO, and Marina Minas; accused of loyalty-test firings.
 
 *Related: C-9967, C-10000*
 
@@ -2517,13 +2517,13 @@ Investigative Direction: Check the website pricing page.
 
 ---
 
-**C-10000** Host Says Erika Was in the Office Daily Making Decisions With Sheridan and Marina Medvin
+**C-10000** Host Says Erika Was in the Office Daily Making Decisions With Sheridan and Marina Minas
 
 Claim Timestamp: 00:58:47
 
-Claim: The host says Erika Kirk was in the office every day making informed decisions alongside Stacy Sheridan and Marina Medvin, not at home.
+Claim: The host says Erika Kirk was in the office every day making informed decisions alongside Stacy Sheridan and Marina Minas, not at home.
 
-Transcript Snippet: she was in the office every day, and she was making informed decisions alongside Stacie Sheridan and this Marina Medvin
+Transcript Snippet: she was in the office every day, and she was making informed decisions alongside Stacie Sheridan and this Marina Minas
 
 Anchored Artifacts: 
 Mentions: N-2, N-187, N-494, N-3
@@ -2700,7 +2700,7 @@ Investigative Direction: Check the following episode's guest.
 # VI. OPTIONAL FLAGS
 
 - **Name uncertainty:** The spouse of Charlie Kirk is rendered "Erika Kirk" in the transcript. Existing ledger node is preserved as the N-2 series entry. No renumbering performed.
-- **Name uncertainty:** "Marina" referenced as TPUSA COO; host states "Marina Medvin" once but only "Marina, the COO" elsewhere. Full legal name and spelling unverified.
+- **Name uncertainty:** "Marina" referenced as TPUSA COO; host states "Marina Minas" once but only "Marina, the COO" elsewhere. Full legal name and spelling unverified.
 - **Transcript ambiguity:** Andrew Kolvet is rendered inconsistently in the transcript as "Andrew Kolbint," "Andrew Kolvet," "Andrew Kolvet," and "Andrew Kolvet." All appear to refer to the same TPUSA spokesperson.
 - **Timestamp uncertainty:** Exact event date for the Jeremy Boreing interview clip (A-1688 family) is unknown.
 - **Timestamp uncertainty:** Exact event date for The Bulwark podcast clip (A-1689.1) is unknown.

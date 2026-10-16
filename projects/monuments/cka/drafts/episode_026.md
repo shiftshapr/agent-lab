@@ -699,7 +699,7 @@ Jesse Watters (transcribed "Jesse Watters"); interviewer of Erika Kirk.
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Eliza McCoy (host says "Elizabeth McCoy"); Mikey McCoy's wife in the host's three-calls claim.
 

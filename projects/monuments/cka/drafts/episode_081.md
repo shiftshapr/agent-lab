@@ -28,7 +28,7 @@ This episode advances the Bride of Charlie investigation by presenting two princ
 
 The first strand centers on Joe Kent's claims, made on Tucker Carlson, that the FBI/National Counterterrorism Center was stopped from continuing to investigate Charlie Kirk's death. The episode captures Andrew Kolvet's on-air admission that he provided a private group-chat text dump to Joe Kent, then claims Kolvet later declined to publish those texts when Kent suggested it. Alex Clark, Jack Posobiec, and Laura Loomer X posts are read aloud, establishing the public pressure campaign against Kent and the accusation that he leaked material specifically to harm Erika Kirk.
 
-The second strand reconstructs Andrew Kolvet's location on September 10 via a displayed PR text chain (Kolvet, Justin Strief, Marina Medvin, Aubrey) and an on-screen calendar graphic. The text chain shows Kolvet reporting "this just loaded" after a ~2-hour absence, while Medvin simultaneously routes death-statement drafting to a 26-year-old employee because Andrew is "on a plane." The episode cross-positions this with Egyptian-plane transponding data and the Wyre sponsor plane's route. A Blake Neff audio clip ("I put that phone away") and a Joe Rogan podcast segment on Erika Kirk are also introduced as supporting artifacts.
+The second strand reconstructs Andrew Kolvet's location on September 10 via a displayed PR text chain (Kolvet, Justin Strief, Marina Minas, Aubrey) and an on-screen calendar graphic. The text chain shows Kolvet reporting "this just loaded" after a ~2-hour absence, while Minas simultaneously routes death-statement drafting to a 26-year-old employee because Andrew is "on a plane." The episode cross-positions this with Egyptian-plane transponding data and the Wyre sponsor plane's route. A Blake Neff audio clip ("I put that phone away") and a Joe Rogan podcast segment on Erika Kirk are also introduced as supporting artifacts.
 
 Investigatively, the episode converts previously rhetorical claims about Kolvet's solo plane flight into a specific timeline-anchored discrepancy that can be tested against FAA/flight records.
 
@@ -122,7 +122,7 @@ Confidence Level: High
 
 **A-1881** September 10, 2025 PR Text Chain Bundle
 
-**A-1881.1** PR group-chat text messages (Kolvet, Strief, Medvin/Minas, Aubrey) Sept 10
+**A-1881.1** PR group-chat text messages (Kolvet, Strief, Minas/Minas, Aubrey) Sept 10
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -483,7 +483,7 @@ Former counterterrorism director whose Carlson interview and alleged leak drive 
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Transcribed Elizabeth McCoy; named among reported passengers.
 
@@ -515,9 +515,9 @@ Named in a viewer comment as trying to link the host and Kent.
 
 ---
 
-**N-494** Marina (TPUSA CMO)
+**N-494** Marina Minas
 
-TPUSA chief marketing officer (transcribed Marina Minnez, Mina's); handled the statement drafting.
+TPUSA chief marketing officer (transcribed Marina Minas, Mina's); handled the statement drafting.
 
 *Related: C-11339, C-11345, C-11361*
 
@@ -870,14 +870,14 @@ Investigative Direction: Verify the exact wording against export; check plane Wi
 
 ---
 
-**C-2535** Marina Medvin routed death-statement drafting to Aubrey citing Andrew's plane status
+**C-2535** Host Says Marina Minas Asked Aubrey to Draft Death Statement Because Andrew Was on a Plane
 
 Claim Timestamp: 00:24:14
 
-Claim: At approximately 2:05 p.m. Utah time on Sept 10, Marina Medvin called Aubrey and asked her to draft the staff death statement because Andrew was on a plane.
+Claim: The host says that at approximately 2:05 p.m. Utah time on Sept 10, Marina Minas, TPUSA's chief marketing officer, called Aubrey and asked her to draft the staff death statement because Andrew was on a plane.
 
 Anchored Artifacts: A-1881.1
-Mentions: N-494
+Mentions: N-494, N-552, N-14
 
 Related Nodes: N-10547, N-10552
 
@@ -889,10 +889,10 @@ Investigative Direction: Confirm via call detail records and corroborate with Au
 
 Claim Timestamp: 00:25:31
 
-Claim: The host says Aubrey, who drafted the Sept 10 death statement, was later terminated in connection with a conversation with an Uber driver that Marina Medvin reportedly overheard.
+Claim: The host says Aubrey, who drafted the Sept 10 death statement, was later terminated in connection with a conversation with an Uber driver that Marina Minas reportedly overheard.
 
 Anchored Artifacts: A-1881.1 (contextual); primary artifact not displayed.
-Mentions: N-494
+Mentions: N-494, N-552
 
 Related Nodes: N-10552
 
@@ -1723,7 +1723,7 @@ Claim Timestamp: 00:21:46
 
 Claim: The host says the PR group chat consisted of Justin Streiff, Andrew Kolvet, Marina (the chief marketing officer) and Aubrey, who she says was later fired over an Uber ride that Marina overheard.
 
-Transcript Snippet: In this group we have Justin Streiff, we have Andrew Kolvet, we have Marina Minnez, and we have Aubrey, who is later going to be fired over an Uber ride that Marina overhears.
+Transcript Snippet: In this group we have Justin Streiff, we have Andrew Kolvet, we have Marina Minas, and we have Aubrey, who is later going to be fired over an Uber ride that Marina overhears.
 
 Anchored Artifacts: A-1881.1
 Mentions: N-15, N-14, N-494, N-552

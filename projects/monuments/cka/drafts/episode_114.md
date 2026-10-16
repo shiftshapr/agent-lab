@@ -361,7 +361,7 @@ The host says he joined the Kirks' Maine vacation and that Katherine Locastro wa
 
 *Related: C-4505, C-4511*
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Transcript "Eliza and Elizabeth McCoy". Said to have joined the Kirks' Maine vacation for the first time.
 

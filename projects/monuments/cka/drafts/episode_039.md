@@ -392,7 +392,7 @@ Investigative Pressure: Low
 
 *Related: N-218, N-1*
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Wife of Mikey McCoy; joined Charlie Kirk family vacation in Maine.
 

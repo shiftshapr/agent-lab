@@ -423,7 +423,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-494** Marina (TPUSA CMO)
+**N-494** Marina Minas
 
 Turning Point USA CMO; host references her questioning of Aubrey Laitsch regarding an Uber ride.
 
@@ -651,7 +651,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Existing node reused for new claims in this episode.
 
@@ -2242,13 +2242,13 @@ Investigative Direction: Compare dated China residence evidence with enrollment 
 
 ---
 
-**C-10121** Host Says Aubrey Laitsch Was Fired After Being Questioned About an Uber Ride by Marina Meanes
+**C-10121** Host Says Aubrey Laitsch Was Fired After Being Questioned About an Uber Ride by Marina Minas
 
 Claim Timestamp: 00:36:47
 
-Claim: The host says Aubrey Laitsch, who was fired from Turning Point USA and spoke out, had been questioned over an Uber ride by TPUSA CMO Marina Meanes.
+Claim: The host says Aubrey Laitsch, who was fired from Turning Point USA and spoke out, had been questioned over an Uber ride by TPUSA CMO Marina Minas.
 
-Transcript Snippet: Aubrey Laitsch uh at Turning Point USA, the one who was questioned over the Uber ride by Marina Meanes, the CMO over at Turning Point USA
+Transcript Snippet: Aubrey Laitsch uh at Turning Point USA, the one who was questioned over the Uber ride by Marina Minas, the CMO over at Turning Point USA
 
 Anchored Artifacts: 
 Mentions: N-3, N-552, N-494

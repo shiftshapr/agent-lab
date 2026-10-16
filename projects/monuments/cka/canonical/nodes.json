@@ -4337,10 +4337,10 @@
       ]
     },
     "N-218": {
-      "canonical_name": "Eliza McCoy",
+      "canonical_name": "Elizabeth McCoy",
       "type": "person",
       "aliases": [
-        "Elizabeth McCoy"
+        "Eliza McCoy"
       ],
       "episodes": [
         25,
@@ -6467,6 +6467,7 @@
       "type": "person",
       "aliases": [],
       "episodes": [
+        19,
         53
       ]
     },
@@ -7439,15 +7440,9 @@
       ]
     },
     "N-494": {
-      "canonical_name": "Marina (TPUSA CMO)",
+      "canonical_name": "Marina Minas",
       "type": "person",
-      "aliases": [
-        "Marina Meanes",
-        "Marina Medias",
-        "Marina Medvin",
-        "Marina Minas",
-        "Marina Munz"
-      ],
+      "aliases": [],
       "episodes": [
         62,
         64,

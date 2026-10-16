@@ -442,7 +442,7 @@ Jack Hibbs; pastor whose interviews and accounts the episode analyzes.
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Elizabeth McCoy; on Mikey McCoy's call log.
 

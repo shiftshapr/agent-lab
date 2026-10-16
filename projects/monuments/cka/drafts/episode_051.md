@@ -520,7 +520,7 @@ Mikey (Michael) McCoy; named as the husband of Elizabeth McCoy.
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Elizabeth McCoy; the host says TPUSA contacts named her as the person who approved the tent.
 

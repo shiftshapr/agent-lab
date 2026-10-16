@@ -561,7 +561,7 @@ Named by the host re Phelan appointment, fundraiser, manifest release and the Br
 
 ---
 
-**N-494** Marina (TPUSA CMO)
+**N-494** Marina Minas
 
 TPUSA chief marketing officer named by the host as scheduled for the White House meeting.
 

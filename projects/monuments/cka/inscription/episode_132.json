@@ -736,7 +736,7 @@
       "ref": "N-10752",
       "name": "TPUSA White House Meeting Coordination with Netanyahu Trip",
       "type": "investigation_target",
-      "description": "Persistent investigation target. Host's source claims Kolvet, in-house lawyer, and CMO Marina Medvin were scheduled to travel to the White House on a day coinciding with Netanyahu's Washington DC visit. Kolvet publicly denied. No corroborating visitor logs or schedules displayed.",
+      "description": "Persistent investigation target. Host's source claims Kolvet, in-house lawyer, and CMO Marina Minas were scheduled to travel to the White House on a day coinciding with Netanyahu's Washington DC visit. Kolvet publicly denied. No corroborating visitor logs or schedules displayed.",
       "related_artifacts": [
         "A-2194.1"
       ],
@@ -1215,9 +1215,9 @@
       "@type": "Person",
       "@id": "N-494",
       "ref": "N-494",
-      "name": "Marina (TPUSA CMO)",
+      "name": "Marina Minas",
       "type": "person",
-      "description": "Marina Medvin, TPUSA CMO; named in the host's White House tip.",
+      "description": "Marina Minas, TPUSA CMO; named in the host's White House tip.",
       "related_artifacts": [],
       "related_claims": [
         "C-9059",
@@ -2033,7 +2033,7 @@
       "@id": "C-3145",
       "ref": "C-3145",
       "label": "Andrew Kolvet publicly denied being in Washington DC with TPUSA team",
-      "claim": "Andrew Kolvet, in an X post, denied that he, the TPUSA in-house lawyer, or CMO Marina Medvin were in Washington DC, and additionally denied a prior host claim that he had been in DC on January 29 meeting top brass and staging a pre-record with Kash Patel.",
+      "claim": "Andrew Kolvet, in an X post, denied that he, the TPUSA in-house lawyer, or CMO Marina Minas were in Washington DC, and additionally denied a prior host claim that he had been in DC on January 29 meeting top brass and staging a pre-record with Kash Patel.",
       "anchored_artifacts": [
         "A-2194.1"
       ],
@@ -3327,7 +3327,7 @@
       "@id": "C-9059",
       "ref": "C-9059",
       "label": "Host Says Her Tip Placed Kolvet, TPUSA's In-House Lawyer and CMO at the White House",
-      "claim": "The host says she tweeted that a tip from someone in Andrew Kolvet's inner circle said he, the Turning Point in-house lawyer and CMO Marina Medvin were headed to the White House that day, and that she described the source as pretty solid.",
+      "claim": "The host says she tweeted that a tip from someone in Andrew Kolvet's inner circle said he, the Turning Point in-house lawyer and CMO Marina Minas were headed to the White House that day, and that she described the source as pretty solid.",
       "anchored_artifacts": [
         "A-2986.1"
       ],
@@ -3340,10 +3340,11 @@
       ],
       "claim_timestamp": "00:32:11",
       "investigative_direction": "White House visitor logs and the host's tweet timestamp; identify the tipster.",
-      "transcript_snippet": "I said I received a tip from someone in Andrew's inner circle that he along with Turning Point in-house lawyer plus the CMO Marina Medvin are headed to the White House today.",
+      "transcript_snippet": "I said I received a tip from someone in Andrew's inner circle that he along with Turning Point in-house lawyer plus the CMO Marina Minas are headed to the White House today.",
       "mentions_person_refs": [
         "N-14",
         "N-494",
+        "N-495",
         "N-3"
       ]
     },
@@ -3516,8 +3517,8 @@
       "@type": "Claim",
       "@id": "C-9067",
       "ref": "C-9067",
-      "label": "Host Names Marina Medvin and Frank, the In-House Lawyer, as Part of the Alleged White House Group",
-      "claim": "The host says she asked Kolvet openly whether he, Marina Medvin and Frank, the in-house lawyer, had a meeting scheduled at the White House, and says she is hearing there could be more people.",
+      "label": "Host Names Marina Minas and Frank, the In-House Lawyer, as Part of the Alleged White House Group",
+      "claim": "The host says she asked Kolvet openly whether he, Marina Minas and Frank, the in-house lawyer, had a meeting scheduled at the White House, and says she is hearing there could be more people.",
       "anchored_artifacts": [
         "A-2986.1"
       ],
@@ -3530,7 +3531,7 @@
       ],
       "claim_timestamp": "00:34:25",
       "investigative_direction": "Obtain White House visitor and appointment logs for the named TPUSA executives for the week.",
-      "transcript_snippet": "meeting schedule at the White House you and and Marina Medias and Frank the in-house lawyer and I'm actually hearing there could be some more people.",
+      "transcript_snippet": "meeting schedule at the White House you and and Marina Minas and Frank the in-house lawyer and I'm actually hearing there could be some more people.",
       "mentions_person_refs": [
         "N-14",
         "N-494",

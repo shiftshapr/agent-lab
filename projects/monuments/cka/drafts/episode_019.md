@@ -13,7 +13,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-935, N-11378
-  - Hole-minted Nodes (reintro-ep019): N-191, N-269, N-10198, N-10218, N-10226, N-10338, N-10346, N-10561, N-10635, N-10806
+  - Hole-minted Nodes (reintro-ep019): N-191, N-269, N-10198, N-10218, N-10226, N-10338, N-10346, N-10561, N-10635, N-10806, N-394
   - Tip-minted Nodes (reintro-ep019): N-11093
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-13936–C-14002
@@ -486,6 +486,19 @@ Episode Count: 1
 Investigative Pressure: Low
 
 *Related: None*
+
+---
+
+**N-394** Corey Lewandowski
+
+Former Trump campaign manager. First named in this episode, where the host says he may have taken her fishing photo with Charlie Kirk (intro moved from ep53, 2026-10-16).
+
+Evidence Count: 0
+Claim Count: 1
+Episode Count: 2
+Investigative Pressure: Low
+
+*Related: C-1473*
 
 ---
 
@@ -1006,7 +1019,7 @@ Claim Timestamp: 00:03:02
 Claim: The host shows a photo she says is of her and Charlie Kirk fishing in British Columbia, and says she thinks Donald Trump Jr., or possibly Corey Lewandowski, took the picture.
 
 Anchored Artifacts: A-1263.1
-Mentions: N-33, N-3, N-1
+Mentions: N-33, N-3, N-1, N-394
 
 Related Nodes:
 

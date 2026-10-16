@@ -300,7 +300,7 @@ Investigative Pressure: High
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Wife of Mikey McCoy; author of the Instagram post characterizing the McCoy-Kirk joint trip as the families' "first family trip together."
 
