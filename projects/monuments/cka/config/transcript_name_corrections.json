@@ -2901,6 +2901,57 @@
     [
       "\\bZack Gregorio\\b",
       "Zach De Gregorio"
+    ],
+    [
+      "\\bCaptain Adam Nef\\b",
+      "Captain Adam Neff"
+    ],
+    [
+      "\\bNef\\b",
+      "Neff",
+      [
+        44,
+        45,
+        49,
+        50,
+        97,
+        104
+      ]
+    ],
+    [
+      "\\bDedra Amaro\\b",
+      "Deirdre Amaro"
+    ],
+    [
+      "\\bDominic Dunn\\b",
+      "Dominick Dunne"
+    ],
+    [
+      "\\bFreddy Ponton\\b",
+      "Freddie Ponton"
+    ],
+    [
+      "\\bLucy Center\\b",
+      "Losee Center"
+    ],
+    [
+      "\\bMGM\\b",
+      "MG+M",
+      [
+        38
+      ]
+    ],
+    [
+      "\\bNCO, Arizona\\b",
+      "Naco, Arizona"
+    ],
+    [
+      "\\bSatis\\b",
+      "Satys"
+    ],
+    [
+      "\\bSorenson Center\\b",
+      "Sorensen Center"
     ]
   ]
 }

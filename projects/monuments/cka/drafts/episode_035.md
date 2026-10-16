@@ -1012,7 +1012,7 @@ Investigative Direction: Obtain the DRBA resolution document directly from DRBA 
 
 Claim Timestamp: 00:16:58
 
-Claim: Per an FBI press release dated December 5, 2024 that the host reads, Director Christopher Wray emphasized "key partners" and described partnerships as closer than 5 or 10 years prior.
+Claim: Per the anonymous email the host reads, which quotes an FBI press release dated December 5, 2024, Director Christopher Wray emphasized "key partners" and described partnerships as closer than 5 or 10 years prior.
 
 Anchored Artifacts: A-1440.1
 Mentions: N-266
@@ -1069,7 +1069,7 @@ Investigative Direction: Obtain the full interview clip; confirm exact wording a
 
 **C-1756** Tim Pool Characterized Candace Owens's Podcast Narrative as "Conspiracy Drama"
 
-Claim Timestamp: 00:42:03–00:44:03
+Claim Timestamp: 00:43:10
 
 Claim: Tim Pool stated in a video that the narrative from the number one podcast had turned into "conspiracy drama about Charlie Kirk if Turning Point was involved in it," with references to "Jewish donors pulling out" and "Erika knew everything."
 
@@ -1083,7 +1083,7 @@ Investigative Direction: Locate Tim Pool's original video and timestamp the quot
 
 **C-1757** Tim Pool Stated He Was Told He Could Not Come to AmFest
 
-Claim Timestamp: 00:44:03–00:44:52
+Claim Timestamp: 00:43:35
 
 Claim: Tim Pool stated in a video that he had been told he couldn't come to AmFest, speculating it might be due to his statements on funding Israel and giving money to Ukraine.
 
@@ -1669,7 +1669,7 @@ Investigative Direction: Demand documentary proof tying SUBTT's passengers to th
 
 Claim Timestamp: 00:22:40
 
-Claim: The host alleges the government is spending hundreds of millions of dollars on a psychological operation to convince people not to believe their own eyes and to accept the idea that Charlie ate 3,000 pounds of energy.
+Claim: The host asks the government whether it is just going to keep spending hundreds of millions of dollars on a psychological operation to convince people not to believe their own eyes and to accept the idea that Charlie ate 3,000 pounds of energy.
 
 Transcript Snippet: are we just going to keep spending hundreds of millions of dollars trying to see how much money can be spent on a psychological operation
 
@@ -1889,7 +1889,7 @@ Transcript Snippet: Please send that at more tips@candicewowens. com.
 Anchored Artifacts: A-2913.1
 Mentions: N-3
 Related Nodes: N-10000
-Tags: relevance:core,dia
+Tags: dia, relevance:core
 Investigative Direction: Collect and verify tips received through the tip line against interview transcripts and timestamps.
 
 ---

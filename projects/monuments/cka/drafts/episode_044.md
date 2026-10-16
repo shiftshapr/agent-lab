@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-This episode introduces a new tipster – "Harry Meyers," a former U.S. military sensor operator – whose account, presented as read-aloud documentary evidence, connects three threads: (1) a 1990 Joint Task Force 6 / Operation Catacomb discovery of a Sinaloa cartel rail tunnel at the Arizona–Mexico border, with photos allegedly implicating a JTF-6 commander with El Chapo; (2) Harry's September 8–9, 2025 visit to Fort Huachuca, during which he reportedly walked into a high-level Joint Task Force Southern Border (JTF-SB) meeting, observed ~12–13 lieutenant colonels, identified Brian Harpole exiting the meeting, and was detained for a 7-hour interrogation by a "Captain Nef" that generated incident report 861-1-2025-MPC446; and (3) an alleged surveillance/intelligence presence in Nashville, where seven tipsters claim Arcadi Gaydamak (recently sentenced in absentia) is operating as "Jonathan Schmidt" at Root Brands.
+This episode introduces a new tipster – "Harry Meyers," a former U.S. military sensor operator – whose account, presented as read-aloud documentary evidence, connects three threads: (1) a 1990 Joint Task Force 6 / Operation Catacomb discovery of a Sinaloa cartel rail tunnel at the Arizona–Mexico border, with photos allegedly implicating a JTF-6 commander with El Chapo; (2) Harry's September 8–9, 2025 visit to Fort Huachuca, during which he reportedly walked into a high-level Joint Task Force Southern Border (JTF-SB) meeting, observed ~12–13 lieutenant colonels, identified Brian Harpole exiting the meeting, and was detained for a 7-hour interrogation by a "Captain Neff" that generated incident report 861-1-2025-MPC446; and (3) an alleged surveillance/intelligence presence in Nashville, where seven tipsters claim Arcadi Gaydamak (recently sentenced in absentia) is operating as "Jonathan Schmidt" at Root Brands.
 
 The episode also plays a 1990 news clip about the Douglas, Arizona tunnel bust, a George H.W. Bush war-on-drugs clip, and a Tim Pool audio segment criticizing Candace Owens. The central structural importance is that it converts an unverified tip (with documents and an incident report number) into a formally inscribed investigative record requiring FOIA verification of the Fort Huachuca incident report.
 
@@ -266,7 +266,7 @@ Investigative Pressure: High
 
 ---
 
-**N-320** Captain Adam Nef
+**N-320** Captain Adam Neff
 
 Military officer (Captain) identified by Harry Meyers as the lead interrogator during the 7-hour detention at Fort Huachuca on September 9, 2025. Described as ~36 years old, brown hair, commander of force protection. Spelling of surname as heard by Harry; uncertain.
 
@@ -281,7 +281,7 @@ Investigative Pressure: High
 
 **N-160** Blake Neff
 
-Referenced by host as a potential relative (brother/cousin) of "Captain Nef" (N-320). Host speculates Blake Neff may have a military background despite public role as a producer of the Charlie Kirk show. Relationship unverified.
+Referenced by host as a potential relative (brother/cousin) of "Captain Neff" (N-320). Host speculates Blake Neff may have a military background despite public role as a producer of the Charlie Kirk show. Relationship unverified.
 
 Evidence Count: 0
 Claim Count: 0
@@ -862,18 +862,18 @@ Investigative Direction: FOIA incident report 861-1-2025-MPC446 for visitor/atte
 
 ---
 
-**C-1888** Host Says Harry Reports a "Captain Nef" Conducted a 7-Hour Interrogation of Him at Fort Huachuca on September 9, 2025
+**C-1888** Host Says Harry Reports a "Captain Neff" Conducted a 7-Hour Interrogation of Him at Fort Huachuca on September 9, 2025
 
 Claim Timestamp: 00:21:39
 
-Claim: The host says Harry told her that, after he entered the temporary JTF headquarters and saw men come out of the meeting, two captains escorted him out of the building and began a 7-hour interrogation accusing him of being a bomb threat and a spy and trying to cast him as a threat to others or himself, and that the interrogator Harry identifies as "Captain Nef" was approximately 36 years old with brown hair and was, best Harry could tell, commander of force protection.
+Claim: The host says Harry told her that, after he entered the temporary JTF headquarters and saw men come out of the meeting, two captains escorted him out of the building and began a 7-hour interrogation accusing him of being a bomb threat and a spy and trying to cast him as a threat to others or himself, and that the interrogator Harry identifies as "Captain Neff" was approximately 36 years old with brown hair and was, best Harry could tell, commander of force protection.
 
 Anchored Artifacts: A-1519.2
 Mentions: N-319, N-320
 
 Related Nodes: N-10326
 
-Investigative Direction: FOIA incident report 861-1-2025-MPC446; identify Captain Nef through Army CID and Fort Huachuca force protection roster.
+Investigative Direction: FOIA incident report 861-1-2025-MPC446; identify Captain Neff through Army CID and Fort Huachuca force protection roster.
 
 ---
 
@@ -881,7 +881,7 @@ Investigative Direction: FOIA incident report 861-1-2025-MPC446; identify Captai
 
 Claim Timestamp: 00:28:13
 
-Claim: The host says Harry told her that Captain Nef gave him incident report number 861-1-2025-MPC446 after his September 9, 2025 encounter at Fort Huachuca, and that Harry believes the report can be obtained via FOIA.
+Claim: The host says Harry told her that Captain Neff gave him incident report number 861-1-2025-MPC446 after his September 9, 2025 encounter at Fort Huachuca, and that Harry believes the report can be obtained via FOIA.
 
 Anchored Artifacts: A-1519.3
 Mentions: N-319, N-320
@@ -910,7 +910,7 @@ Investigative Direction: Locate and verify the article's primary source (court r
 
 Claim Timestamp: 00:35:20–00:36:24
 
-Claim: The host says Gaydamak was born in Russia and that when Israel became a nation he was among the first over there.
+Claim: The host says Gaydamak was born in Russia and that when Israel became a nation he was "first over there".
 
 Anchored Artifacts: A-1522.1
 Mentions: N-314
@@ -939,10 +939,10 @@ Investigative Direction: Obtain corroborating evidence via public records, busin
 
 Claim Timestamp: 00:36:24–00:40:46
 
-Claim: Tipsters claim that Jonathan Schmidt/Gaydamak was brought into Root Brands by Clay Thomas and has hired Ukrainian nationals, including Alex Smeirnoff, on the stated basis of fleeing the war.
+Claim: The host says tipsters claim that Jonathan Schmidt/Gaydamak works at Root Brands as a technology officer, was brought in by a businessman in town named Clay Thomas, and has brought in and secured jobs for Ukrainians, including Alex Smeirnoff, who he alleges are running from the war.
 
 Anchored Artifacts: A-1523.1
-Mentions: N-321, N-322, N-323
+Mentions: N-314, N-321, N-322, N-323
 
 Related Nodes: N-10330, N-10331, N-10902
 
@@ -1184,7 +1184,7 @@ Investigative Direction: Obtain JTF-6 operation records and Border Patrol Dougla
 
 Claim Timestamp: 00:08:45
 
-Claim: Reading Harry's words, the host says he and a Border Patrol agent bypassed command to seek a warrant directly, which avoided tipping off compromised commanders who were working with the cartel.
+Claim: Reading Harry's words, the host says he skipped command and a Border Patrol agent skipped his own command to seek a warrant directly, which avoided tipping off compromised commanders who were working with the cartel.
 
 Transcript Snippet: which avoided tipping off any compromised commanders um that were working with the cartel.
 
@@ -1255,7 +1255,7 @@ Transcript Snippet: And what Scott said in that news clip is there were pictures
 Anchored Artifacts: A-1520.1
 Mentions: 
 Related Nodes: N-10328
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Re-watch the original clip for any statement about photographs; if absent, the photo claim rests only on Harry's account.
 
 ---
@@ -1271,16 +1271,16 @@ Transcript Snippet: Somehow in the immediate days after the bust prior to the Un
 Anchored Artifacts: A-1519.1
 Mentions: N-319
 Related Nodes: N-10328
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Look for Army CID and U.S. Attorney (Tucson) files from 1990 documenting a compromised-identity incident.
 
 ---
 
-**C-11048** Harry Says a Cartel Member Recited His Mother's Name and Address in Arizona
+**C-11048** Harry Says a Cartel Member in Naco, Arizona Recited His Mother's Name and Address
 
 Claim Timestamp: 00:11:14
 
-Claim: Reading Harry's words, the host says that on a follow-up mission a cartel member approached him and confirmed his identity by reciting his mother's name, address, high school and friends, all items from his clearance packet. The transcript renders the town as 'NCO, Arizona'.
+Claim: Reading Harry's words, the host says that on a follow-up mission to Naco, Arizona a cartel member approached him and confirmed his identity by reciting his mother's name, address, high school and friends, all items from his clearance packet. The transcript renders the town as 'Naco, Arizona'.
 
 Transcript Snippet: where I was approached by a cartel member confirming my identification by rattling off my mother's name, address, my high school, my friends, everything listed in my clearance packet
 
@@ -1288,7 +1288,7 @@ Anchored Artifacts: A-1519.1
 Mentions: N-319
 Related Nodes: N-10328
 Tags: relevance:core
-Investigative Direction: Ask Harry for the town name (transcript 'NCO, Arizona') and any contemporaneous report to Army CID or Border Patrol of the approach.
+Investigative Direction: Ask Harry for the town name (transcript 'Naco, Arizona') and any contemporaneous report to Army CID or Border Patrol of the approach.
 
 ---
 
@@ -1303,7 +1303,7 @@ Transcript Snippet: which was supposed to be locked in custody in the custody of
 Anchored Artifacts: A-1519.1
 Mentions: N-319, N-324
 Related Nodes: N-10328, N-11283
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the JTF-6 commander in 1990 and the custodian of clearance files; obtain Harry's personnel security file via Privacy Act request.
 
 ---
@@ -1319,7 +1319,7 @@ Transcript Snippet: The next day, I had a debrief with the Army Criminal Investi
 Anchored Artifacts: A-1519.1
 Mentions: N-319
 Related Nodes: N-10328
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Request Army CID report of investigation and U.S. Attorney, District of Arizona files for 1990 involving a JTF-6 sensor operator.
 
 ---
@@ -1335,7 +1335,7 @@ Transcript Snippet: The witness protection entrance never happened. The ball got
 Anchored Artifacts: A-1519.1
 Mentions: N-319
 Related Nodes: N-10328
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Query U.S. Marshals WITSEC for any 1990 referral; identify the compromised commander and any plea or immunity arrangement.
 
 ---
@@ -1351,7 +1351,7 @@ Transcript Snippet: accidentally stumbled upon the fact that our government was 
 Anchored Artifacts: A-1519.1
 Mentions: N-319, N-3
 Related Nodes: N-10328, N-10325
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: This is the host's reading of one tipster's account; seek corroborating prosecutions or inspector-general findings from the 1990 case.
 
 ---
@@ -1367,7 +1367,7 @@ Transcript Snippet: He now has all of his paperwork thanks to um some county cle
 Anchored Artifacts: A-1519.5
 Mentions: N-319
 Related Nodes: N-10328
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the county clerks' offices and case numbers, and obtain the recovered police and court records.
 
 ---
@@ -1383,7 +1383,7 @@ Transcript Snippet: Harry Meyers, who now has a new name, by the way, which I'm 
 Anchored Artifacts: A-1519.5
 Mentions: N-319
 Related Nodes: N-10328
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the NDA release document and any name-change court order, with the host's consent from Harry.
 
 ---
@@ -1596,11 +1596,11 @@ Investigative Direction: Compare this host framing with her later 'a lot of coin
 
 ---
 
-**C-11068** Host Wonders Whether Blake Neff Has Military Connections Like Captain Nef
+**C-11068** Host Wonders Whether Blake Neff Has Military Connections Like Captain Neff
 
 Claim Timestamp: 00:25:02
 
-Claim: The host says she had not questioned it until now but it seems possible that Blake Neff has military connections too, as a brother or cousin of the Captain Nef who interrogated Harry, though she had thought of him only as the producer of the Charlie Kirk show.
+Claim: The host says she had not questioned it until now but it seems possible that Blake Neff has military connections too, as a brother or cousin of the Captain Neff who interrogated Harry, though she had thought of him only as the producer of the Charlie Kirk show.
 
 Transcript Snippet: whether or not it's potential that Blake Neff has military connections as well.
 
@@ -1608,11 +1608,11 @@ Anchored Artifacts:
 Mentions: N-3, N-160, N-320
 Related Nodes: 
 Tags: relevance:core
-Investigative Direction: Check public records for any family relationship between Blake Neff and Army Captain Adam Nef and for any military service by Blake Neff.
+Investigative Direction: Check public records for any family relationship between Blake Neff and Army Captain Adam Neff and for any military service by Blake Neff.
 
 ---
 
-**C-11069** Harry Says Captain Nef Eventually Showed a Heart and Escorted Him Off Base
+**C-11069** Harry Says Captain Neff Eventually Showed a Heart and Escorted Him Off Base
 
 Claim Timestamp: 00:25:02
 
@@ -1624,7 +1624,7 @@ Anchored Artifacts: A-1519.2
 Mentions: N-319, N-320
 Related Nodes: N-10326
 Tags: relevance:core
-Investigative Direction: Identify Captain Nef through the Fort Huachuca force-protection roster and ask him to confirm or deny.
+Investigative Direction: Identify Captain Neff through the Fort Huachuca force-protection roster and ask him to confirm or deny.
 
 ---
 
@@ -1664,7 +1664,7 @@ Investigative Direction: Ask Harry to name or point out the people he recognized
 
 Claim Timestamp: 00:26:48
 
-Claim: The host says she has verified that Harry sent her many documents, from his high school graduation certificate to military documents and police records, plus NDAs and court filings about the events of 35 years ago.
+Claim: The host says she has verified, and that Harry has sent her many documents, from his high school graduation certificate to military documents and police records, plus NDAs and court filings about the events of 35 years ago.
 
 Transcript Snippet: I have verified uh he has sent me so many documents everything from his like high school graduation certificate to his military documents to the police records
 
@@ -1693,13 +1693,13 @@ Investigative Direction: File the FOIA request for the incident report and the a
 
 ---
 
-**C-11074** Host Says Captain Nef Gave Harry the Incident Report Number
+**C-11074** Host Says Captain Neff Gave Harry the Incident Report Number
 
 Claim Timestamp: 00:28:13
 
-Claim: The host says the report number 861-1-2025-MPC446 was given to Harry by the captain who commanded the interrogation, whom she calls Captain Nef.
+Claim: The host says the report number 861-1-2025-MPC446 was given to Harry by the captain who commanded the interrogation, whom she calls Captain Neff.
 
-Transcript Snippet: So that is the report number that was given to him by this captain commander Nef.
+Transcript Snippet: So that is the report number that was given to him by this captain commander Neff.
 
 Anchored Artifacts: A-1519.3
 Mentions: N-319, N-320

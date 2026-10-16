@@ -551,7 +551,7 @@ Investigative Direction: Verify the original Pentagon press briefing transcript 
 
 ---
 
-**C-1832** TPUSA Midnight Debate Announcement
+**C-1832** Neff Tweet Announcing the December 15 Livestream
 
 Claim Timestamp: 00:03:51
 
@@ -805,7 +805,7 @@ Investigative Direction: Retrieve the host's reply post and confirm the any-day 
 
 ---
 
-**C-5156** Host Says TPUSA Pastors Call Her Questions Demonic and Possessed
+**C-5156** Host Says Neff Name-Called and the Pastors Call It Demonic
 
 Claim Timestamp: 00:10:28
 

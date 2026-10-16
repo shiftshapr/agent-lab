@@ -13,7 +13,7 @@
     "transcript_sha256": "270e4d6bd7c7e45e5b54085cd242a98cd8703f80aa479f990d94ccfcff20d864",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "Episode 36 combines (a) host's reconstruction of a multi-month timeline linking the Macron investigation to events surrounding the Charlie Kirk assassination, much of which is host narration referencing prior-episode material, with (b) four distinct artifact-anchored evidentiary segments presented in this episode. The artifact-anchored material consists of: (1) a displayed text exchange between host and Charlie Kirk from February 24–25, 2025 documenting White House and POTUS-side contact regarding the Macron topic; (2) a displayed internal legal-team communication from July 27, 2025 analyzing Delaware jurisdictional defects in the Macron lawsuit; (3) an audio/video clip from Brian Harpole's appearance on the Shawn Ryan show in which he read aloud text messages between Dan Flood and UVU Police Chief Jeff Long about student roof access, presented in a manner the host asserts was misrepresentative; and (4) a KUTV investigative report documenting that Washington County Sheriff's office states Tyler Robinson surveillance footage is no longer available, citing a 30-day retention period. A Tucker Carlson speech clip from the July 18 Turning Point event is also played. The episode does not present new primary artifacts supporting the bulk of the host's broader timeline claims about the Satis hanger, the Egyptian plane schedule, the foreign-dignitary transfer, the MK Ultra / Stanford line of investigation, or the phone calls with Andrew Kolvet and the unnamed CIA-contractor spouse; these are preserved as host assertions and excluded from the Claim Register per the admission test.\n\n---",
+  "executive_summary": "Episode 36 combines (a) host's reconstruction of a multi-month timeline linking the Macron investigation to events surrounding the Charlie Kirk assassination, much of which is host narration referencing prior-episode material, with (b) four distinct artifact-anchored evidentiary segments presented in this episode. The artifact-anchored material consists of: (1) a displayed text exchange between host and Charlie Kirk from February 24–25, 2025 documenting White House and POTUS-side contact regarding the Macron topic; (2) a displayed internal legal-team communication from July 27, 2025 analyzing Delaware jurisdictional defects in the Macron lawsuit; (3) an audio/video clip from Brian Harpole's appearance on the Shawn Ryan show in which he read aloud text messages between Dan Flood and UVU Police Chief Jeff Long about student roof access, presented in a manner the host asserts was misrepresentative; and (4) a KUTV investigative report documenting that Washington County Sheriff's office states Tyler Robinson surveillance footage is no longer available, citing a 30-day retention period. A Tucker Carlson speech clip from the July 18 Turning Point event is also played. The episode does not present new primary artifacts supporting the bulk of the host's broader timeline claims about the Satys hanger, the Egyptian plane schedule, the foreign-dignitary transfer, the MK Ultra / Stanford line of investigation, or the phone calls with Andrew Kolvet and the unnamed CIA-contractor spouse; these are preserved as host assertions and excluded from the Claim Register per the admission test.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -111,7 +111,7 @@
           "@type": "Artifact",
           "@id": "A-1448.1",
           "ref": "A-1448.1",
-          "description": "Text exchange between Dan Flood (Turning Point USA security) and UVU Police Chief Jeff Long, read aloud by Brian Harpole during the Shawn Ryan interview, covering student roof access at the Sorenson Center (with staircases to walkways/roofs), the request for controlled access or TP personnel presence, and Chief Long's response \"I got you covered.\"",
+          "description": "Text exchange between Dan Flood (Turning Point USA security) and UVU Police Chief Jeff Long, read aloud by Brian Harpole during the Shawn Ryan interview, covering student roof access at the Sorensen Center (with staircases to walkways/roofs), the request for controlled access or TP personnel presence, and Chief Long's response \"I got you covered.\"",
           "related_claims": [
             "C-1762",
             "C-1763"
@@ -194,7 +194,7 @@
           "@type": "Artifact",
           "@id": "A-2723.1",
           "ref": "A-2723.1",
-          "description": "On-screen timeline of dates from March 2024 to September 2025 that the host walks through (Macron episode, firing, cease and desist letters, Satis announcement, interviews, plane stays), introduced as \"we're going to bring that up here because I like timelines\"",
+          "description": "On-screen timeline of dates from March 2024 to September 2025 that the host walks through (Macron episode, firing, cease and desist letters, Satys announcement, interviews, plane stays), introduced as \"we're going to bring that up here because I like timelines\"",
           "related_claims": [
             "C-4983",
             "C-4987",
@@ -248,13 +248,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2725",
       "family_ref": "A-2725",
-      "bundle_name": "Satis Hangar Article Bundle",
+      "bundle_name": "Satys Hangar Article Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2725.1",
           "ref": "A-2725.1",
-          "description": "Article about Satis signing a Wilmington hangar lease, paraphrased by the host (\"Elsewhere in that article, it tells us that um it's a French multinational company that specializes in the painting of aircrafts\")",
+          "description": "Article about Satys signing a Wilmington hangar lease, paraphrased by the host (\"Elsewhere in that article, it tells us that um it's a French multinational company that specializes in the painting of aircrafts\")",
           "related_claims": [
             "C-4992"
           ],
@@ -406,7 +406,7 @@
       "ref": "N-271",
       "name": "Dan Flood",
       "type": "person",
-      "description": "Turning Point USA security figure identified as the author of the text exchange to Chief Jeff Long about Sorenson Center rooftop access.",
+      "description": "Turning Point USA security figure identified as the author of the text exchange to Chief Jeff Long about Sorensen Center rooftop access.",
       "related_artifacts": [
         "A-1448.1"
       ],
@@ -494,7 +494,7 @@
       "ref": "N-10270",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
       "type": "investigation_target",
-      "description": "Persistent investigative target regarding why the Macron defamation suit was filed in Delaware despite host's Tennessee domicile and lack of Delaware-based defamation; intersects with the Wilmington Satis hanger, 920 King Street facility, and the host's broader \"France angle.\"",
+      "description": "Persistent investigative target regarding why the Macron defamation suit was filed in Delaware despite host's Tennessee domicile and lack of Delaware-based defamation; intersects with the Wilmington Satys hanger, 920 King Street facility, and the host's broader \"France angle.\"",
       "related_artifacts": [
         "A-1445.1",
         "A-1446.1"
@@ -1000,7 +1000,7 @@
       "ref": "N-10028",
       "name": "Utah Valley University Campus",
       "type": "investigation_target",
-      "description": "Place of the Sorenson Center, Hall of Flags and rooftops.",
+      "description": "Place of the Sorensen Center, Hall of Flags and rooftops.",
       "related_artifacts": [],
       "related_claims": [
         "C-5033",
@@ -1566,7 +1566,7 @@
       "ref": "N-11008",
       "name": "Satys",
       "type": "organization",
-      "description": "French aircraft-painting company, rendered Satis in the transcript, that announced a December 2024 deal for a Wilmington, Delaware hangar. The host says its CEO knows Emmanuel Macron and that her source and a tip show it was a front rather than a maintenance base.",
+      "description": "French aircraft-painting company, rendered Satys in the transcript, that announced a December 2024 deal for a Wilmington, Delaware hangar. The host says its CEO knows Emmanuel Macron and that her source and a tip show it was a front rather than a maintenance base.",
       "related_artifacts": [],
       "related_claims": [
         "C-4975",
@@ -1750,8 +1750,8 @@
       "@type": "Claim",
       "@id": "C-1763",
       "ref": "C-1763",
-      "label": "Harpole Clip Presents Flood–Long Text Exchange on Student Roof Access at Sorenson Center",
-      "claim": "In a clip the host plays, Brian Harpole presents what the host says is a text exchange between Dan Flood and Chief Long about student roof access (Sorenson Center staircases to walkways/roofs near the CK setup), asking for either controlled access or one of his guys to be there, with Chief Long's last reply \"I got you covered.\"",
+      "label": "Harpole Clip Presents Flood–Long Text Exchange on Student Roof Access at Sorensen Center",
+      "claim": "In a clip the host plays, Brian Harpole presents what the host says is a text exchange between Dan Flood and Chief Long about student roof access (Sorensen Center staircases to walkways/roofs near the CK setup), asking for either controlled access or one of his guys to be there, with Chief Long's last reply \"I got you covered.\"",
       "anchored_artifacts": [
         "A-1448.1"
       ],
@@ -1872,7 +1872,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
-      "investigative_direction": "Obtain Satis corporate filings, the hangar lease and any maintenance contract; ask the source to document the claim that no maintenance work was performed.",
+      "investigative_direction": "Obtain Satys corporate filings, the hangar lease and any maintenance contract; ask the source to document the claim that no maintenance work was performed.",
       "transcript_snippet": "our source proved to us that it certainly wasn't established to provide any maintenance to those Egyptian planes and it was more than likely a front for something else.",
       "mentions_person_refs": [
         "N-3"
@@ -1979,7 +1979,7 @@
       "@type": "Claim",
       "@id": "C-4981",
       "ref": "C-4981",
-      "label": "Host Says Satis Leased the Hangar for Only Two Years and the Egyptian Plane Began Landing There",
+      "label": "Host Says Satys Leased the Hangar for Only Two Years and the Egyptian Plane Began Landing There",
       "claim": "The host says a French company, which she says her source calls a front, leased a hangar in Wilmington for only two years and that the hangar immediately became a location where the Egyptian military plane landed.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2162,8 +2162,8 @@
       "@type": "Claim",
       "@id": "C-4990",
       "ref": "C-4990",
-      "label": "Host Says Satis Deal Was Publicly Announced December 10, Seven Days After the Cease and Desist",
-      "claim": "The host says that seven days after the December 3 cease and desist letter, on December 10, it was publicly announced that Satis, a French company, had signed a deal for a hangar in Wilmington, Delaware.",
+      "label": "Host Says Satys Deal Was Publicly Announced December 10, Seven Days After the Cease and Desist",
+      "claim": "The host says that seven days after the December 3 cease and desist letter, on December 10, it was publicly announced that Satys (transcribed Satys), a French company, had signed a deal for a hangar in Wilmington, Delaware.",
       "anchored_artifacts": [
         "A-2723.1"
       ],
@@ -2174,7 +2174,7 @@
       "tags": [],
       "claim_timestamp": "00:08:14",
       "investigative_direction": "Pull the December 10, 2024 press coverage and DRBA announcement to confirm the date.",
-      "transcript_snippet": "7 days later is when it's announced that Satis that's that's when it's publicly announced that Satis that French company has inked a deal in Wilmington, Delaware for a hanger.",
+      "transcript_snippet": "7 days later is when it's announced that Satys that's that's when it's publicly announced that Satys that French company has inked a deal in Wilmington, Delaware for a hanger.",
       "supports_claim_refs": [
         "C-1750"
       ],
@@ -2186,7 +2186,7 @@
       "@type": "Claim",
       "@id": "C-4991",
       "ref": "C-4991",
-      "label": "Host Says Satis CEO Knows Emmanuel Macron and Signed a Two-Year Hangar Lease to Paint Planes",
+      "label": "Host Says Satys CEO Knows Emmanuel Macron and Signed a Two-Year Hangar Lease to Paint Planes",
       "claim": "The host says she has confirmed that the CEO of the French company knows Emmanuel Macron and decided to sign a two-year lease on an airport hangar to paint planes.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2195,7 +2195,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:25",
-      "investigative_direction": "Identify the Satis CEO by name and document the claimed acquaintance with Macron; obtain the lease terms.",
+      "investigative_direction": "Identify the Satys CEO by name and document the claimed acquaintance with Macron; obtain the lease terms.",
       "transcript_snippet": "the CEO who knows Emmanuel Macron, we've confirmed that, decides they're going to sign a two-year lease for an airport hanger to do what?",
       "mentions_person_refs": [
         "N-378"
@@ -2205,8 +2205,8 @@
       "@type": "Claim",
       "@id": "C-4992",
       "ref": "C-4992",
-      "label": "Host Reads Article Describing Satis as Aircraft-Painting Company Opening in the New Year",
-      "claim": "The host says an article describes Satis as a French multinational that specializes in painting aircraft and planned to open in a hangar not far from Wilmington Airport at the start of 2025.",
+      "label": "Host Reads Article Describing Satys as Aircraft-Painting Company Opening in the New Year",
+      "claim": "The host says an article describes Satys as a French multinational that specializes in painting aircraft and planned to open in a hangar not far from Wilmington Airport at the start of 2025.",
       "anchored_artifacts": [
         "A-2725.1"
       ],
@@ -2216,7 +2216,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:25",
-      "investigative_direction": "Locate the December 2024 article and quote its description of Satis's business.",
+      "investigative_direction": "Locate the December 2024 article and quote its description of Satys's business.",
       "transcript_snippet": "it's a French multinational company that specializes in the painting of aircrafts, and they plan to open for business in a hanger not far from Wilmington Airport come the new year.",
       "mentions_person_refs": [
         "N-10269"
@@ -2760,6 +2760,7 @@
       "investigative_direction": "Count the MK Ultra references in the Delaware complaint.",
       "transcript_snippet": "Emanuel mentioning MK Ultra in the lawsuit to us 18 times struck us as odd",
       "mentions_person_refs": [
+        "N-82",
         "N-378",
         "N-3"
       ]
@@ -2921,7 +2922,7 @@
       "@id": "C-5028",
       "ref": "C-5028",
       "label": "Host Says Many People in the Kirk Story Have a History of Child Sex Abuse",
-      "claim": "The host says many people involved in the Charlie Kirk story have a history of child sex abuse and points to George Zinn, the person who jumped up and screamed, and the pastors at Calvary Chapel as recurring examples.",
+      "claim": "The host says many people involved in the Charlie Kirk story have a history of child sex abuse and points, as recurring examples, to George Zinn, or the person who jumped up and screamed, or the pastors at Calvary Chapel.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10246"
@@ -2939,15 +2940,15 @@
       "@type": "Claim",
       "@id": "C-5029",
       "ref": "C-5029",
-      "label": "Host Says She Is Receiving Tips About Satis and Will Chase Them Down",
-      "claim": "The host says her team is receiving a bunch of tips about the company Satis and will chase down those leads.",
+      "label": "Host Says She Is Receiving Tips About Satys and Will Chase Them Down",
+      "claim": "The host says her team is receiving a bunch of tips about the company Satys (transcribed Satys) and will chase down those leads.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11008"
       ],
       "tags": [],
       "claim_timestamp": "00:29:30",
-      "investigative_direction": "Review the Satis tips received and publish the corroborated leads.",
+      "investigative_direction": "Review the Satys tips received and publish the corroborated leads.",
       "transcript_snippet": "We are receiving a bunch of tips about that company and we are going to chase down those leads",
       "mentions_person_refs": [
         "N-3"
@@ -2966,7 +2967,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:29:30",
-      "investigative_direction": "Send the question to French authorities and the Satis CEO; note the transcript says 910 King, the host elsewhere says 920 King.",
+      "investigative_direction": "Send the question to French authorities and the Satys CEO; note the transcript says 910 King, the host elsewhere says 920 King.",
       "transcript_snippet": "could you tell us who landed in Wilmington, Delaware? and we're settled over to 910 King. I think that would be a a good start.",
       "mentions_person_refs": [
         "N-3"
@@ -3019,8 +3020,8 @@
       "@type": "Claim",
       "@id": "C-5033",
       "ref": "C-5033",
-      "label": "Harpole Says the Sorenson Center Is the Building in Front of the Lucy Center",
-      "claim": "In a clip the host plays, Brian Harpole says the Sorenson Center was the building in front of the Lucy Center.",
+      "label": "Harpole Says the Sorensen Center Is the Building in Front of the Losee Center",
+      "claim": "In a clip the host plays, Brian Harpole says the Sorensen Center was the building in front of the Losee Center (transcribed Sorenson and Lucy).",
       "anchored_artifacts": [
         "A-1448.1"
       ],
@@ -3029,8 +3030,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:34:54",
-      "investigative_direction": "Check a UVU campus map for the position of the Sorenson Center relative to the Losee Center; the transcript spells the second building Lucy.",
-      "transcript_snippet": "the Sorenson Center was the building in front of the Lucy Center.",
+      "investigative_direction": "Check a UVU campus map for the position of the Sorensen Center relative to the Losee Center; the transcript spells the second building Lucy.",
+      "transcript_snippet": "the Sorensen Center was the building in front of the Losee Center.",
       "supports_claim_refs": [
         "C-1763"
       ],
@@ -3284,7 +3285,7 @@
       "@id": "C-5046",
       "ref": "C-5046",
       "label": "KUTV Says Washington County Does Not Believe the Video Was Shared With Anyone Involved in the Case",
-      "claim": "The KUTV reporter says Washington County told him it does not believe the video was shared with anyone involved in the case, and it was unclear whether the video exists or was passed to another agency.",
+      "claim": "The KUTV reporter says Washington County told the reporter it does not believe the video was shared with anyone involved in the case, and it was unclear whether the video exists or was passed to another agency.",
       "anchored_artifacts": [
         "A-1449.1"
       ],

@@ -634,7 +634,7 @@ Named as the journalist the host says Shapiro worked with.
 
 ---
 
-**N-320** Captain Adam Nef
+**N-320** Captain Adam Neff
 
 Named by the host as the Army captain who questioned Mitch.
 

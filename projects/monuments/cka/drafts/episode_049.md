@@ -279,7 +279,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-320** Captain Adam Nef
+**N-320** Captain Adam Neff
 
 U.S. Army captain named by witness "Mitch" as the officer who escorted him out of the JTF building and sat with him on a park bench at Fort Huachuca on September 9, 2025.
 

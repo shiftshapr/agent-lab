@@ -1125,7 +1125,7 @@
       "ref": "N-177",
       "name": "Deirdre Amaro",
       "type": "person",
-      "description": "Medical examiner; the host says she is a major in the military (transcribed Dedra Amaro).",
+      "description": "Medical examiner; the host says she is a major in the military (transcribed Deirdre Amaro).",
       "related_artifacts": [],
       "related_claims": [
         "C-9785"
@@ -2048,8 +2048,8 @@
       "@type": "Claim",
       "@id": "C-9765",
       "ref": "C-9765",
-      "label": "Host Says Tips Show the Satis Angle Opens New Possibilities Beyond Painting Planes",
-      "claim": "The host says tips about the French company Satis have opened up a whole new level of possibilities in the assassination story and that she does not think they were just painting planes this year.",
+      "label": "Host Says Tips Show the Satys Angle Opens New Possibilities Beyond Painting Planes",
+      "claim": "The host says tips about the French company Satys have opened up a whole new level of possibilities in the assassination story and that she does not think they were just painting planes this year.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11008"
@@ -2058,8 +2058,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:00:00",
-      "investigative_direction": "Identify who at Satis the tipsters name and obtain the Satis hangar lease and any work orders for the Wilmington facility.",
-      "transcript_snippet": "It seems that that company, Satis, that French company. The angle has opened up a whole new level of possibilities here in this Charlie Kirk assassination story.",
+      "investigative_direction": "Identify who at Satys the tipsters name and obtain the Satys hangar lease and any work orders for the Wilmington facility.",
+      "transcript_snippet": "It seems that that company, Satys, that French company. The angle has opened up a whole new level of possibilities here in this Charlie Kirk assassination story.",
       "supports_claim_refs": [
         "C-5029"
       ],
@@ -2473,8 +2473,8 @@
       "@type": "Claim",
       "@id": "C-9785",
       "ref": "C-9785",
-      "label": "Host Says Medical Examiner Dr. Dedra Amaro Is a Major in the Military",
-      "claim": "The host says Dr. Dedra Amaro, Charlie's medical examiner whom officials have not wanted to address publicly, is also a major in the military.",
+      "label": "Host Says Medical Examiner Dr. Deirdre Amaro Is a Major in the Military",
+      "claim": "The host says Dr. Deirdre Amaro, Charlie's medical examiner whom officials have not wanted to address publicly, is also a major in the military.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10197",
@@ -2485,7 +2485,7 @@
       ],
       "claim_timestamp": "00:15:10",
       "investigative_direction": "Verify Dr. Amaro's reserve or active-duty military status and rank.",
-      "transcript_snippet": "Dr. Dedra Amaro, is the medical examiner, Charlie's medical examiner, who they've curiously not wanted to address publicly. Yeah, I told you she's also a major in the military.",
+      "transcript_snippet": "Dr. Deirdre Amaro, is the medical examiner, Charlie's medical examiner, who they've curiously not wanted to address publicly. Yeah, I told you she's also a major in the military.",
       "mentions_person_refs": [
         "N-177"
       ]
@@ -2913,8 +2913,8 @@
       "@type": "Claim",
       "@id": "C-9807",
       "ref": "C-9807",
-      "label": "Host Says the Egyptian Planes Were Definitively Pulled Into Satis and a Foreign Dignitary Was Escorted",
-      "claim": "The host says the Egyptian planes were definitively pulled into Satis and that a foreign dignitary was then escorted, for whatever reason, to a facility.",
+      "label": "Host Says the Egyptian Planes Were Definitively Pulled Into Satys and a Foreign Dignitary Was Escorted",
+      "claim": "The host says the Egyptian planes were definitively pulled into Satys and that a foreign dignitary was then escorted, for whatever reason, to a facility.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11008",
@@ -2925,8 +2925,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:22:20",
-      "investigative_direction": "Obtain Satis hangar logs and any escort records for foreign aircraft at Wilmington.",
-      "transcript_snippet": "The Egyptian planes definitively were pulled into Satis uh and that person was then escorted for whatever reason.",
+      "investigative_direction": "Obtain Satys hangar logs and any escort records for foreign aircraft at Wilmington.",
+      "transcript_snippet": "The Egyptian planes definitively were pulled into Satys uh and that person was then escorted for whatever reason.",
       "supports_claim_refs": [
         "C-4919"
       ]

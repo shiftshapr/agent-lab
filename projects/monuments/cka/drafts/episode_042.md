@@ -951,7 +951,7 @@ Investigative Direction: Verify the caller's stated qualifications via credentia
 
 ---
 
-**C-1860** Erika Kirk identified as CEO / head of TPUSA
+**C-1860** Blake Neff Says Erika Kirk Heads This
 
 Claim Timestamp: 00:05:40
 
@@ -1436,7 +1436,7 @@ Investigative Direction: Track Kasparian's position through crowd footage in the
 
 Claim Timestamp: 00:25:30
 
-Claim: The host says none of Kasparian's family members posted anything about the assassination even though he is active online and it happened in their backyard.
+Claim: The host says none of Kasparian's family members posted anything about the assassination that she could find, even though he is active online and it happened in their backyard.
 
 Transcript Snippet: None of his family members posted anything about Charlie's assassination. He is active.
 
@@ -1623,7 +1623,7 @@ Transcript Snippet: his body is not yet settled in the dirt. Why are you carryin
 
 Anchored Artifacts: A-1503.1
 Mentions: N-305, N-1
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Verify the lyric against the released track.
 
 ---

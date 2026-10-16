@@ -1,0 +1,772 @@
+[
+ {
+  "claim": "C-11105",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Kash Patel is just not interested... struggle for me to believe that they didn't know about this French angle... They did know.' ~51:55, 62s after timestamp.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11106",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'she's doing a really great job of particularly focusing on that faith angle because I do believe that the faith was the infiltration at Turning Point USA.' Mel = Village Crazy Lady.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11107",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11108",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11109",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11110",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11111",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11112",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Viewer 'Mary Ivat writes, \"Candace Security Fund...\"'; host: 'maybe we will actually accept that offer and start a fund'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11113",
+  "episode": 44,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1897",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1898",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1899",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1900",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The speech is a clip the host plays ('we have a clip of that speech'); claim states it as bare fact. Words correctly given to Erika.",
+  "fix": {
+   "claim": "In a clip the host plays of Sergio Gor's swearing-in ceremony as US Ambassador to India, Erika Kirk delivers a brief speech in which she says \"Charlie loved you\" and \"Charlie is going to be with you every single day in spirit.\""
+  }
+ },
+ {
+  "claim": "C-1901",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1902",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1903",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Words are from the Theo Von clip the host plays; claim lacks the clip framing.",
+  "fix": {
+   "claim": "In the Theo Von clip the host plays, Tucker Carlson says that individuals posted on X predicting that Charlie Kirk would be killed on a specific date prior to the assassination, and questions whether the FBI had interviewed those posters."
+  }
+ },
+ {
+  "claim": "C-1904",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Both quotes are from the Theo Von clip the host plays (25:38 and 29:55); claim lacks the clip framing.",
+  "fix": {
+   "claim": "In the Theo Von clip the host plays, Tucker Carlson says he does not have a ton of confidence in the FBI or the men who run it; later, asking why the FBI will not explain, he says \"You've told the world that you have both a confession from him in his text to his boyfriend and the murder weapon with his fingerprints on it. I think you got a pretty solid case.\""
+  }
+ },
+ {
+  "claim": "C-1905",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Email says 'then the transponder appears to be turned off'; claim drops the hedge ('going dark').",
+  "fix": {
+   "claim": "Per a tip email the host reads, and which the host says her team fact-checked, USAF C37A Gulfstream V (tail 99-044), based at Andrews AFB, flew Andrews → Colorado Springs (Sept 7), Colorado Springs → Tucson (Sept 8), with the transponder appearing to be turned off thereafter, then Fort Huachuca → El Paso at 12:31 PM (Sept 9), and El Paso → Andrews."
+  }
+ },
+ {
+  "claim": "C-1906",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Director Mark: 'once it gets to Fort Huachuca and takes off, it switches to SAM. So that tells me they picked up someone of that stature in Fort Huachuca.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-1907",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Transcript 'Adam Nef'; host's own X post spells him 'Adam Neff' ('We confirmed that Adam Neff was indeed the Captain who questioned Mitch'). Sept 9 meeting date is given at 38:20.",
+  "fix": {
+   "claim": "The host says her team has a positive ID that the captain who interrogated the Fort Huachuca witness (\"Harry\") on September 9, 2025 is Adam Neff of the U.S. Army's 10th Mountain Division, which she says Harry confirmed from pictures she sent.",
+   "label": "Host Says Captain at Fort Huachuca Meeting Identified as Adam Neff, 10th Mountain Division",
+   "names": [
+    {
+     "wrong": "Adam Nef",
+     "right": "Adam Neff",
+     "source": "https://x.com/RealCandaceO/status/2054562859829297556"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1908",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1909",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Comment 'servant of Yahweh writes...' ~59:53 and request 'could you check that footage' ~1:00:06; 01:00:25 is ~30s after the content starts.",
+  "fix": {
+   "timestamp": "00:59:48"
+  }
+ },
+ {
+  "claim": "C-1910",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'it appears that Pam Bondi flew on this plane approximately 5 months ago' ~47:22, 62s after timestamp.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1911",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: Merryill Gerston Meyer (viewer commenter, as transcribed); not searched.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8066",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8067",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8068",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8069",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8070",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8071",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8072",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8073",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8074",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8075",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8076",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says Erika is 'expanding the wings of people that we're not allowed to critique because they're in the family. If you call them fam...'; claim assigns this to TPUSA.",
+  "fix": {
+   "claim": "The host says Erika Kirk is shielding people she calls \"fam\" from critique and refers to a clip of Rob McCoy defending a pedophile or trying to launder a reputation.",
+   "mentions": [
+    "N-17",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-8077",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8078",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8079",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8080",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8081",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8082",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8083",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript garbled: 'I assure that there is a like a truly rigorous and honest federal investigation of it. And I'm definitely concerned about that.' 'wants' is a fair reading.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8084",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8085",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8086",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host cites Carlson's CIA family ties as grounds that his confirmation of the Egyptian planes reflects NSA/CIA knowledge; it bears on the case.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-8087",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8088",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8089",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8090",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8091",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host relays a numbered list of what Erika said at the taped town hall ('she's going to tell us on Saturday'); source of the list not named.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8092",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8093",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8094",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8095",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8096",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "material": true,
+  "note": "'I misspoke yesterday' ~38:04, 'saying E4, E3' ~38:15; 39:11 is >60s after. Order: 'I made the mistake when I transferred my notes... Then I Googled it and then I edited it'.",
+  "fix": {
+   "timestamp": "00:37:59",
+   "claim": "The host says she misspoke the day before when she said E4 and E3, that her notes show the witness said O-6, and that she introduced the error when transferring her notes, then Googling and editing what she thought she heard."
+  }
+ },
+ {
+  "claim": "C-8097",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8098",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8099",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript 'Adam Nef'; host's own X post spells him 'Adam Neff'.",
+  "fix": {
+   "claim": "The host says the witness did not know Captain Neff's first name; as viewers' emails came in she sent him picture options, and when someone supplied the name Adam Neff he confirmed it was the correct person.",
+   "names": [
+    {
+     "wrong": "Adam Nef",
+     "right": "Adam Neff",
+     "source": "https://x.com/RealCandaceO/status/2054562859829297556"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8100",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript 'Adam Nef'; host's own X post spells him 'Adam Neff'.",
+  "fix": {
+   "claim": "The host says Adam Neff led the interrogation and that the identification checks out because the 10th Mountain Division is the division from New York.",
+   "label": "Host Says the 10th Mountain Division Is the New York Division and Fits Neff Leading the Interrogation",
+   "names": [
+    {
+     "wrong": "Adam Nef",
+     "right": "Adam Neff",
+     "source": "https://x.com/RealCandaceO/status/2054562859829297556"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8101",
+  "episode": 45,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

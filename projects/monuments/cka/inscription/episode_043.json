@@ -1777,7 +1777,7 @@
       "@id": "C-12481",
       "ref": "C-12481",
       "label": "Host says no government body or the Elysee disputes the Macron threat narrative",
-      "claim": "The host says the Pentagon, the White House, US intelligence agencies and the Elysee Palace are not disputing her narrative about the Macron couple, and that the FBI can now be added to that list.",
+      "claim": "The host says the Pentagon, the White House, US intelligence agencies and the Elysee Palace are not disputing her narrative about the Macron couple, and that the FBI can now be added to that list because Kash Patel recently gave an interview to Megyn Kelly.",
       "anchored_artifacts": [
         "A-1514.1"
       ],
@@ -1824,7 +1824,7 @@
       "@type": "Claim",
       "@id": "C-12483",
       "ref": "C-12483",
-      "label": "Host says she told that she had proof the French government was on the ground that day",
+      "label": "Host Says She Said She Had Proof the French Government Was on the Ground That Day",
       "claim": "The host says she asserted that she had proof that the government of France was involved in Charlie Kirk's assassination and was on the ground on the day of the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [

@@ -1522,7 +1522,7 @@ Investigative Direction: Confirm hearing date through Utah state court docket.
 
 Claim Timestamp: 00:21:40
 
-Claim: Candace Owens spoke with a witness who filmed a person on the roof at 12:23 pm and did not see that person take the shot.
+Claim: The host says she spoke with a witness who filmed a person on the roof at 12:23 p.m., and that he did not see that person take the shot.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-3

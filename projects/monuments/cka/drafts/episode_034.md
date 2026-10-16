@@ -128,7 +128,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Confidence Level: Medium
 - *Related: C-1737, , A-1428.2*
 
-**A-1428.2** Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorenson Center / Losee Center
+**A-1428.2** Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorensen Center / Losee Center
 - Event Timestamp: Prior to 2025-09-10 (date unspecified in transcript; "on Monday before this correspondence went to Chief Long")
 - Source Timestamp: 2025-11-18 (read aloud on episode)
 - Video Timestamp: 26:12
@@ -1422,18 +1422,18 @@ Investigative Direction: Obtain the full text thread between Harpole and Long wi
 
 ---
 
-**C-4944** Harpole Says the Sorenson Center Was the Building in Front of the Losee Center
+**C-4944** Harpole Says the Sorensen Center Was the Building in Front of the Losee Center
 
 Claim Timestamp: 00:24:53
 
-Claim: In the Shawn Ryan interview clip the host plays, Brian Harpole says, for edification, that the Sorenson Center was the building in front of the Losee Center.
+Claim: In the Shawn Ryan interview clip the host plays, Brian Harpole says, for edification, that the Sorensen Center was the building in front of the Losee Center.
 
-Transcript Snippet: for edification the Sorenson Center was the building in front of the Lucy Center.
+Transcript Snippet: for edification the Sorensen Center was the building in front of the Losee Center.
 
 Anchored Artifacts: A-1428.2
 Mentions: N-267
 Related Nodes: N-10012, N-10769
-Investigative Direction: Check the UVU campus map for the position of the Sorenson Center relative to the Losee Center.
+Investigative Direction: Check the UVU campus map for the position of the Sorensen Center relative to the Losee Center.
 
 ---
 

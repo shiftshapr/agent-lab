@@ -51,7 +51,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 **A-1185** Post-shooting video footage sent to host by Phil Lyman
 
-**A-1185.1** Mobile phone video with embedded metadata timestamp 12:23 showing Phil Lyman inside the Sorenson Center building walking out calmly and engaging two people in black clothing in conversation; no one in the clip is depicted fleeing.
+**A-1185.1** Mobile phone video with embedded metadata timestamp 12:23 showing Phil Lyman inside the Sorensen Center building walking out calmly and engaging two people in black clothing in conversation; no one in the clip is depicted fleeing.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -372,7 +372,7 @@ Investigative Pressure: Medium
 
 **N-10146** Phil Lyman Location Discrepancy
 
-Persistent inconsistency across three artifact-anchored sources regarding Phil Lyman's position at the moment of the shot: (1) Alex Jones interview places him at the east end outdoors, (2) NewsNation interview places him entering a building and then running out, and (3) video with 12:23 metadata timestamp shows him already inside the Sorenson Center building walking out calmly.
+Persistent inconsistency across three artifact-anchored sources regarding Phil Lyman's position at the moment of the shot: (1) Alex Jones interview places him at the east end outdoors, (2) NewsNation interview places him entering a building and then running out, and (3) video with 12:23 metadata timestamp shows him already inside the Sorensen Center building walking out calmly.
 
 Evidence Count: 3
 Claim Count: 3

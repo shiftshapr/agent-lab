@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-16T17:17:17Z",
+  "generated_at": "2026-10-16T17:25:32Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -7448,7 +7448,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10897",
-      "label": "Host Says the Money Ran Through the Club des Fontes",
+      "label": "Host Says the Money Ran Through the Club des Fontes [Club des Cent]",
       "node_kind": "claim",
       "episode": 38
     },
@@ -7616,7 +7616,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10921",
-      "label": "Host Says 500 North Delaware Avenue Is Also Somehow Owned by France",
+      "label": "Source Email Says 500 North Delaware Avenue Is Also Somehow Owned by France",
       "node_kind": "claim",
       "episode": 38
     },
@@ -7637,21 +7637,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10924",
-      "label": "Host Says Construction Promised for About a Year Has Taken About Two",
+      "label": "Source Email Says Construction Promised for About a Year Has Taken About Two",
       "node_kind": "claim",
       "episode": 38
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10925",
-      "label": "Host Says Hoppenot Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death",
+      "label": "Source Email Says Hoppenot Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death",
       "node_kind": "claim",
       "episode": 38
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10926",
-      "label": "Host Says Incyte Is Plugged Into Federal Medical Supply Chains Including VA Systems",
+      "label": "Source Email Says Incyte Is Plugged Into Federal Medical Supply Chains Including VA Systems",
       "node_kind": "claim",
       "episode": 38
     },
@@ -7973,7 +7973,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10972",
-      "label": "Host Says ACE Partners Is the Second Largest Shareholder of Satis",
+      "label": "Host Says ACE Partners Is the Second Largest Shareholder of Satys",
       "node_kind": "claim",
       "episode": 39
     },
@@ -8239,7 +8239,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11010",
-      "label": "Host Says the April 2018 Texts Also Said Turning Point Would Be the Death of Him",
+      "label": "Host Says the April 2018 Texts Said More Than That Turning Point Would Be the Death of Him",
       "node_kind": "claim",
       "episode": 39
     },
@@ -8505,7 +8505,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11048",
-      "label": "Harry Says a Cartel Member Recited His Mother's Name and Address in Arizona",
+      "label": "Harry Says a Cartel Member in Naco, Arizona Recited His Mother's Name and Address",
       "node_kind": "claim",
       "episode": 44
     },
@@ -8645,14 +8645,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11068",
-      "label": "Host Wonders Whether Blake Neff Has Military Connections Like Captain Nef",
+      "label": "Host Wonders Whether Blake Neff Has Military Connections Like Captain Neff",
       "node_kind": "claim",
       "episode": 44
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11069",
-      "label": "Harry Says Captain Nef Eventually Showed a Heart and Escorted Him Off Base",
+      "label": "Harry Says Captain Neff Eventually Showed a Heart and Escorted Him Off Base",
       "node_kind": "claim",
       "episode": 44
     },
@@ -8687,7 +8687,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11074",
-      "label": "Host Says Captain Nef Gave Harry the Incident Report Number",
+      "label": "Host Says Captain Neff Gave Harry the Incident Report Number",
       "node_kind": "claim",
       "episode": 44
     },
@@ -19488,7 +19488,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12483",
-      "label": "Host says she told that she had proof the French government was on the ground that day",
+      "label": "Host Says She Said She Had Proof the French Government Was on the Ground That Day",
       "node_kind": "claim",
       "episode": 43
     },
@@ -41118,7 +41118,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1763",
-      "label": "Harpole Clip Presents Flood–Long Text Exchange on Student Roof Access at Sorenson Center",
+      "label": "Harpole Clip Presents Flood–Long Text Exchange on Student Roof Access at Sorensen Center",
       "node_kind": "claim",
       "episode": 36
     },
@@ -41601,7 +41601,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1832",
-      "label": "TPUSA Midnight Debate Announcement",
+      "label": "Neff Tweet Announcing the December 15 Livestream",
       "node_kind": "claim",
       "episode": 41
     },
@@ -41797,7 +41797,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1860",
-      "label": "Erika Kirk identified as CEO / head of TPUSA",
+      "label": "Blake Neff Says Erika Kirk Heads This",
       "node_kind": "claim",
       "episode": 42
     },
@@ -41993,7 +41993,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1888",
-      "label": "Host Says Harry Reports a \"Captain Nef\" Conducted a 7-Hour Interrogation of Him at Fort Huachuca on September 9, 2025",
+      "label": "Host Says Harry Reports a \"Captain Neff\" Conducted a 7-Hour Interrogation of Him at Fort Huachuca on September 9, 2025",
       "node_kind": "claim",
       "episode": 44
     },
@@ -42126,7 +42126,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1907",
-      "label": "Host Says Captain at Fort Huachuca Meeting Identified as Adam Nef, 10th Mountain Division",
+      "label": "Host Says Captain at Fort Huachuca Meeting Identified as Adam Neff, 10th Mountain Division",
       "node_kind": "claim",
       "episode": 45
     },
@@ -57288,14 +57288,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4102",
-      "label": "Captain Adam Nef was found and confirmed questioning Mitch Snow",
+      "label": "Captain Adam Neff was found and confirmed questioning Mitch Snow",
       "node_kind": "claim",
       "episode": 104
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4103",
-      "label": "Blake Neff posted that Adam Nef was harassed by the host's \"cultists\"",
+      "label": "Blake Neff posted that Adam Neff was harassed by the host's \"cultists\"",
       "node_kind": "claim",
       "episode": 104
     },
@@ -63182,7 +63182,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4944",
-      "label": "Harpole Says the Sorenson Center Was the Building in Front of the Losee Center",
+      "label": "Harpole Says the Sorensen Center Was the Building in Front of the Losee Center",
       "node_kind": "claim",
       "episode": 34
     },
@@ -63441,7 +63441,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4981",
-      "label": "Host Says Satis Leased the Hangar for Only Two Years and the Egyptian Plane Began Landing There",
+      "label": "Host Says Satys Leased the Hangar for Only Two Years and the Egyptian Plane Began Landing There",
       "node_kind": "claim",
       "episode": 36
     },
@@ -63504,21 +63504,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4990",
-      "label": "Host Says Satis Deal Was Publicly Announced December 10, Seven Days After the Cease and Desist",
+      "label": "Host Says Satys Deal Was Publicly Announced December 10, Seven Days After the Cease and Desist",
       "node_kind": "claim",
       "episode": 36
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4991",
-      "label": "Host Says Satis CEO Knows Emmanuel Macron and Signed a Two-Year Hangar Lease to Paint Planes",
+      "label": "Host Says Satys CEO Knows Emmanuel Macron and Signed a Two-Year Hangar Lease to Paint Planes",
       "node_kind": "claim",
       "episode": 36
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4992",
-      "label": "Host Reads Article Describing Satis as Aircraft-Painting Company Opening in the New Year",
+      "label": "Host Reads Article Describing Satys as Aircraft-Painting Company Opening in the New Year",
       "node_kind": "claim",
       "episode": 36
     },
@@ -63777,7 +63777,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5029",
-      "label": "Host Says She Is Receiving Tips About Satis and Will Chase Them Down",
+      "label": "Host Says She Is Receiving Tips About Satys and Will Chase Them Down",
       "node_kind": "claim",
       "episode": 36
     },
@@ -63805,7 +63805,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5033",
-      "label": "Harpole Says the Sorenson Center Is the Building in Front of the Lucy Center",
+      "label": "Harpole Says the Sorensen Center Is the Building in Front of the Losee Center",
       "node_kind": "claim",
       "episode": 36
     },
@@ -64666,7 +64666,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5156",
-      "label": "Host Says TPUSA Pastors Call Her Questions Demonic and Possessed",
+      "label": "Host Says Neff Name-Called and the Pastors Call It Demonic",
       "node_kind": "claim",
       "episode": 41
     },
@@ -85267,14 +85267,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8099",
-      "label": "Host Says Viewer Emails Led to the Adam Nef Photo Identification",
+      "label": "Host Says Viewer Emails Led to the Adam Neff Photo Identification",
       "node_kind": "claim",
       "episode": 45
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8100",
-      "label": "Host Says the 10th Mountain Division Is the New York Division and Fits Nef Leading the Interrogation",
+      "label": "Host Says the 10th Mountain Division Is the New York Division and Fits Neff Leading the Interrogation",
       "node_kind": "claim",
       "episode": 45
     },
@@ -85351,7 +85351,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8111",
-      "label": "Host Says Harry Rose From 60 to 65 Percent Certainty to 100 Percent on Nef",
+      "label": "Host Says Harry Rose From 60 to 65 Percent Certainty to 100 Percent on Neff",
       "node_kind": "claim",
       "episode": 45
     },
@@ -96929,7 +96929,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9765",
-      "label": "Host Says Tips Show the Satis Angle Opens New Possibilities Beyond Painting Planes",
+      "label": "Host Says Tips Show the Satys Angle Opens New Possibilities Beyond Painting Planes",
       "node_kind": "claim",
       "episode": 37
     },
@@ -97069,7 +97069,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9785",
-      "label": "Host Says Medical Examiner Dr. Dedra Amaro Is a Major in the Military",
+      "label": "Host Says Medical Examiner Dr. Deirdre Amaro Is a Major in the Military",
       "node_kind": "claim",
       "episode": 37
     },
@@ -97223,7 +97223,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9807",
-      "label": "Host Says the Egyptian Planes Were Definitively Pulled Into Satis and a Foreign Dignitary Was Escorted",
+      "label": "Host Says the Egyptian Planes Were Definitively Pulled Into Satys and a Foreign Dignitary Was Escorted",
       "node_kind": "claim",
       "episode": 37
     },
@@ -100625,7 +100625,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1185.1",
-      "label": "Mobile phone video with embedded metadata timestamp 12:23 showing Phil Lyman inside the Sorenson Center building walking out calmly and engaging two people in black clothing in conversation; no one in",
+      "label": "Mobile phone video with embedded metadata timestamp 12:23 showing Phil Lyman inside the Sorensen Center building walking out calmly and engaging two people in black clothing in conversation; no one in",
       "node_kind": "artifact",
       "episode": 12
     },
@@ -104923,7 +104923,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1428.2",
-      "label": "Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorenson Center / Losee Center",
+      "label": "Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorensen Center / Losee Center",
       "node_kind": "artifact",
       "episode": 34
     },
@@ -105238,7 +105238,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1448.1",
-      "label": "Text exchange between Dan Flood (Turning Point USA security) and UVU Police Chief Jeff Long, read aloud by Brian Harpole during the Shawn Ryan interview, covering student roof access at the Sorenson C",
+      "label": "Text exchange between Dan Flood (Turning Point USA security) and UVU Police Chief Jeff Long, read aloud by Brian Harpole during the Shawn Ryan interview, covering student roof access at the Sorensen C",
       "node_kind": "artifact",
       "episode": 36
     },
@@ -105441,7 +105441,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1463",
-      "label": "Article by Freddy Ponton (\"Freddy Ponton um Ponton\" as read on air)",
+      "label": "Article by Freddie Ponton (\"Freddie Ponton um Ponton\" as read on air)",
       "node_kind": "artifact",
       "episode": 38
     },
@@ -105567,7 +105567,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1469.6",
-      "label": "Section: 500 North Delaware Avenue – claim that the FBI has a presence in this building (which the source calls \"another bank center\"); also references MGM Delaware Avenue law firm (Suite 200) sitting",
+      "label": "Section: 500 North Delaware Avenue – claim that the FBI has a presence in this building (which the source calls \"another bank center\"); also references MG+M Delaware Avenue law firm (Suite 200) sittin",
       "node_kind": "artifact",
       "episode": 38
     },
@@ -106701,7 +106701,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1532.2",
-      "label": "Identification chain via email: Captain at the September 9 Fort Huachuca meeting positively identified as Adam Nef of the 10th Mountain Division (witness confirmed 100% after earlier 60-65% certainty)",
+      "label": "Identification chain via email: Captain at the September 9 Fort Huachuca meeting positively identified as Adam Neff of the 10th Mountain Division (witness confirmed 100% after earlier 60-65% certainty",
       "node_kind": "artifact",
       "episode": 45
     },
@@ -121604,7 +121604,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2388.1",
-      "label": "Still image showing Sorenson Center staircase leading to walkway above Charlie Kirk's seating position",
+      "label": "Still image showing Sorensen Center staircase leading to walkway above Charlie Kirk's seating position",
       "node_kind": "artifact",
       "episode": 153
     },
@@ -124964,7 +124964,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2580.1",
-      "label": "Host verbal reference to Blake Neff's X posts asking about \"Commander Nef\" and saying Adam Nef was harassed by the host's \"cultists\" (not shown)",
+      "label": "Host verbal reference to Blake Neff's X posts asking about \"Commander Neff\" and saying Adam Neff was harassed by the host's \"cultists\" (not shown)",
       "node_kind": "artifact",
       "episode": 104
     },
@@ -127729,7 +127729,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2723.1",
-      "label": "On-screen timeline of dates from March 2024 to September 2025 that the host walks through (Macron episode, firing, cease and desist letters, Satis announcement, interviews, plane stays), introduced as",
+      "label": "On-screen timeline of dates from March 2024 to September 2025 that the host walks through (Macron episode, firing, cease and desist letters, Satys announcement, interviews, plane stays), introduced as",
       "node_kind": "artifact",
       "episode": 36
     },
@@ -127750,14 +127750,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2725",
-      "label": "Satis Hangar Article Bundle",
+      "label": "Satys Hangar Article Bundle",
       "node_kind": "artifact",
       "episode": 36
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2725.1",
-      "label": "Article about Satis signing a Wilmington hangar lease, paraphrased by the host (\"Elsewhere in that article, it tells us that um it's a French multinational company that specializes in the painting of ",
+      "label": "Article about Satys signing a Wilmington hangar lease, paraphrased by the host (\"Elsewhere in that article, it tells us that um it's a French multinational company that specializes in the painting of ",
       "node_kind": "artifact",
       "episode": 36
     },

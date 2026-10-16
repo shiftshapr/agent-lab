@@ -1,0 +1,435 @@
+[
+ {
+  "claim": "C-1756",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:43:10"
+  },
+  "note": "Tim Pool clip starts just after 'let's watch Tim B' at 43:11; 43:10 is right."
+ },
+ {
+  "claim": "C-1757",
+  "episode": 35,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:43:35"
+  },
+  "note": "'they told me I couldn't come' falls ~43:40 in the 43:11 block; 43:35 fits."
+ },
+ {
+  "claim": "C-4990",
+  "episode": 36,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that seven days after the December 3 cease and desist letter, on December 10, it was publicly announced that Satys (transcribed Satis), a French company, had signed a deal for a hangar in Wilmington, Delaware.",
+   "label": "Host Says Satys Deal Was Publicly Announced December 10, Seven Days After the Cease and Desist",
+   "names": [
+    {
+     "wrong": "Satis",
+     "right": "Satys",
+     "source": "https://www.choosedelaware.com/press-releases/satys-chooses-delaware-for-2nd-us-site/"
+    }
+   ]
+  },
+  "note": "Satys confirmed (Choose Delaware, DRBA lease); 'Satis' is a transcription of the name; no existing rule covers it."
+ },
+ {
+  "claim": "C-4991",
+  "episode": 36,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Satys CEO Knows Emmanuel Macron and Signed a Two-Year Hangar Lease to Paint Planes",
+   "names": [
+    {
+     "wrong": "Satis",
+     "right": "Satys",
+     "source": "https://www.choosedelaware.com/press-releases/satys-chooses-delaware-for-2nd-us-site/"
+    }
+   ]
+  },
+  "note": "Satys confirmed by Choose Delaware press release; label-only change is right."
+ },
+ {
+  "claim": "C-4992",
+  "episode": 36,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says an article describes Satys as a French multinational that specializes in painting aircraft and planned to open in a hangar not far from Wilmington Airport at the start of 2025.",
+   "label": "Host Reads Article Describing Satys as Aircraft-Painting Company Opening in the New Year",
+   "names": [
+    {
+     "wrong": "Satis",
+     "right": "Satys",
+     "source": "https://www.choosedelaware.com/press-releases/satys-chooses-delaware-for-2nd-us-site/"
+    }
+   ]
+  },
+  "note": "Satys confirmed by Choose Delaware press release."
+ },
+ {
+  "claim": "C-5019",
+  "episode": 36,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-82",
+    "N-378",
+    "N-3"
+   ]
+  },
+  "note": "Claim names Brigitte Macron; N-82 belongs in Mentions."
+ },
+ {
+  "claim": "C-5029",
+  "episode": 36,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her team is receiving a bunch of tips about the company Satys (transcribed Satis) and will chase down those leads.",
+   "label": "Host Says She Is Receiving Tips About Satys and Will Chase Them Down",
+   "names": [
+    {
+     "wrong": "Satis",
+     "right": "Satys",
+     "source": "https://www.choosedelaware.com/press-releases/satys-chooses-delaware-for-2nd-us-site/"
+    }
+   ]
+  },
+  "note": "Satys confirmed; transcript 'that company Satis'."
+ },
+ {
+  "claim": "C-5033",
+  "episode": 36,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Brian Harpole says the Sorensen Center was the building in front of the Losee Center (transcribed Sorenson and Lucy).",
+   "label": "Harpole Says the Sorensen Center Is the Building in Front of the Losee Center",
+   "names": [
+    {
+     "wrong": "Lucy Center",
+     "right": "Losee Center",
+     "source": "https://www.aljazeera.com/news/2025/9/11/when-and-where-charlie-kirk-was-shot-a-visual-timeline"
+    },
+    {
+     "wrong": "Sorenson Center",
+     "right": "Sorensen Center",
+     "source": "https://www.aljazeera.com/news/2025/9/11/when-and-where-charlie-kirk-was-shot-a-visual-timeline"
+    }
+   ]
+  },
+  "note": "Sorensen Center and Losee Center confirmed (Al Jazeera, UVU statements); no existing rule for 'Lucy Center'/'Sorenson Center'."
+ },
+ {
+  "claim": "C-9765",
+  "episode": 37,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says tips about the French company Satys have opened up a whole new level of possibilities in the assassination story and that she does not think they were just painting planes this year.",
+   "names": [
+    {
+     "wrong": "Satis",
+     "right": "Satys",
+     "source": "https://www.choosedelaware.com/press-releases/satys-chooses-delaware-for-2nd-us-site/"
+    }
+   ]
+  },
+  "note": "Satys confirmed; use node spelling 'Satys' (as in the sibling items), not all-caps SATYS."
+ },
+ {
+  "claim": "C-9785",
+  "episode": 37,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Dr. Deirdre Amaro, Charlie's medical examiner whom officials have not wanted to address publicly, is also a major in the military.",
+   "label": "Host Says Medical Examiner Dr. Deirdre Amaro Is a Major in the Military",
+   "names": [
+    {
+     "wrong": "Dedra Amaro",
+     "right": "Deirdre Amaro",
+     "source": "https://dhhs.utah.gov/featured-news/dhhs-and-utahs-new-chief-medical-examiner-shed-light-on-death-investigations"
+    }
+   ]
+  },
+  "note": "Deirdre Amaro confirmed by Utah DHHS; 'Dedra Amaro' is not covered by existing rules."
+ },
+ {
+  "claim": "C-1783",
+  "episode": 38,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the article by Freddie Ponton the host reads, the hesitation to dismiss Owens's allegations does not come from trust in her but from history; the host then says, from the Wikipedia page, that the Safari Club was a covert alliance of intelligence services formed in 1976.",
+   "names": [
+    {
+     "wrong": "Freddy Ponton",
+     "right": "Freddie Ponton",
+     "source": "https://21stcenturywire.com/2025/11/27/shadows-of-power-from-the-safari-club-to-owens-allegations/"
+    }
+   ]
+  },
+  "note": "Article byline is Freddie Ponton (21st Century Wire; its own YouTube post)."
+ },
+ {
+  "claim": "C-1796",
+  "episode": 38,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per the source email, the FBI apparently has Suite 300 at 500 North Delaware Avenue and the law firm MG+M has Suite 200, which the writer believes is directly below the FBI.",
+   "names": [
+    {
+     "wrong": "MGM",
+     "right": "MG+M",
+     "source": "https://www.mgmlaw.com/locations/wilmington"
+    }
+   ]
+  },
+  "note": "MG+M Wilmington office is 500 Delaware Ave Suite 200 (moved July 2025); cite firm's location page, plain 'MG+M'."
+ },
+ {
+  "claim": "C-10897",
+  "episode": 38,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says she also stated that the alleged payment ran through the elite gentlemen's club des Fontes (as transcribed) [Club des Cent, the club named in her X post].",
+   "label": "Host Says the Money Ran Through the Club des Fontes [Club des Cent]"
+  },
+  "note": "Her X post named Club des Cent, but no source shows whether she said it or ASR garbled it; keep her words, add correct name in brackets."
+ },
+ {
+  "claim": "C-10921",
+  "episode": 38,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host relays a source email saying 500 North Delaware Avenue, which people on X said housed the FBI, is also somehow owned by France.",
+   "label": "Source Email Says 500 North Delaware Avenue Is Also Somehow Owned by France"
+  },
+  "note": "Passage follows 'people on X, he goes on' and 'He says that 500 North Delaware...'; it is the email's content."
+ },
+ {
+  "claim": "C-10924",
+  "episode": 38,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads a source email saying a May 2024 article stated construction was expected to take about a year, but it has been about two years and the building top is still a skeleton, so the writer says they know the site is being used to buy time.",
+   "label": "Source Email Says Construction Promised for About a Year Has Taken About Two"
+  },
+  "note": "'I actually know they're using it to buy time' is the email writer's first person after 'he gets back into the crane location'."
+ },
+ {
+  "claim": "C-10925",
+  "episode": 38,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads a source email saying Hervé Hoppenot is directly responsible for the Bracebridge construction and finalized the deal, and that a few months before Charlie Kirk's death he switched roles and began laying low.",
+   "label": "Source Email Says Hoppenot Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death"
+  },
+  "note": "Host is reading the email (she corrects 'Hope No' to Hoppenot); writer says 'I'm not saying he's directly tied'."
+ },
+ {
+  "claim": "C-10926",
+  "episode": 38,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads a source email saying Incyte is plugged directly into the federal medical supply chains, which include VA systems that interface with military health care.",
+   "label": "Source Email Says Incyte Is Plugged Into Federal Medical Supply Chains Including VA Systems"
+  },
+  "note": "Continuation of the email at 34:23."
+ },
+ {
+  "claim": "C-1808",
+  "episode": 39,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per Dominick Dunne's Vanity Fair reporting as the host relays it, it appeared that Lisa Dean DuPont and her husband Christopher Moseley had a Las Vegas prostitute killed, whose body was found in a motel air conditioner, with the money tracing to the DuPont family; the host says both John DuPont and Moseley died in prison.",
+   "names": [
+    {
+     "wrong": "Dominic Dunn",
+     "right": "Dominick Dunne",
+     "source": "https://en.wikipedia.org/wiki/Dominick_Dunne"
+    }
+   ]
+  },
+  "note": "Hedge fix right. 'Christopher Mosley' rule already exists, so drop it; transcript reads 'Dominic Dunn'."
+ },
+ {
+  "claim": "C-1815",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says TPUSA sources, whom she calls \"these young women,\" told her the donor prospect was French American and named Pierre; she says she had forgotten this until after the previous day's show on the DuPont family."
+  },
+  "note": "No count of sources and no 'Episode 38' in transcript; fix matches 30:22 block."
+ },
+ {
+  "claim": "C-3652",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, wanting to know more about the donor phone call, she started messaging \"our mommy sleuths and our daddy's sleuths\" and all of her sources at Turning Point USA, asking for anything they could tell her."
+  },
+  "note": "Host only says she messaged sleuths and TPUSA sources; no praise or emailed tips."
+ },
+ {
+  "claim": "C-10957",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that the Richards law firm named in the article is the firm that is filing the paperwork for her, and that she did not know this until the previous day.",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "N-294 (Richards III) is not referred to; the lawsuit phrase is not in the window."
+ },
+ {
+  "claim": "C-10972",
+  "episode": 39,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her team learned that a French and Israeli firm, ACE Partners, is the second largest shareholder of Satys, the company that leased the Wilmington hangar.",
+   "label": "Host Says ACE Partners Is the Second Largest Shareholder of Satys",
+   "names": [
+    {
+     "wrong": "Satis",
+     "right": "Satys",
+     "source": "https://delawarebusinesstimes.com/news/satys-lease-wilmington-hangar/"
+    }
+   ]
+  },
+  "note": "Satys confirmed (Choose Delaware, DRBA lease)."
+ },
+ {
+  "claim": "C-1835",
+  "episode": 41,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim already reads 'Sarra Zaafrani' (existing rule); adding 'Zenzri' adds a name the host did not say."
+ },
+ {
+  "claim": "C-12481",
+  "episode": 43,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Pentagon, the White House, US intelligence agencies and the Elysee Palace are not disputing her narrative about the Macron couple, and that the FBI can now be added to that list because Kash Patel recently gave an interview to Megyn Kelly."
+  },
+  "note": "Transcript names Kash Patel's interview with Megyn Kelly; adding it justifies N-69/N-46."
+ },
+ {
+  "claim": "C-1893",
+  "episode": 44,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says tipsters claim that Jonathan Schmidt/Gaydamak works at Root Brands as a technology officer, was brought in by a businessman in town named Clay Thomas, and has brought in and secured jobs for Ukrainians, including Alex Smeirnoff, who he alleges are running from the war.",
+   "mentions": [
+    "N-314",
+    "N-321",
+    "N-322",
+    "N-323"
+   ]
+  },
+  "note": "Transcript says 'a businessman in town' (not 'Nashville') and 'who he alleges'; N-314 added since the claim names Gaydamak."
+ },
+ {
+  "claim": "C-11048",
+  "episode": 44,
+  "decision": "amend",
+  "fix": {
+   "label": "Harry Says a Cartel Member in Naco, Arizona Recited His Mother's Name and Address",
+   "claim": "Reading Harry's words, the host says that on a follow-up mission to Naco, Arizona a cartel member approached him and confirmed his identity by reciting his mother's name, address, high school and friends, all items from his clearance packet. The transcript renders the town as 'NCO, Arizona'.",
+   "names": [
+    {
+     "wrong": "NCO, Arizona",
+     "right": "Naco, Arizona",
+     "source": "https://podscripts.co/podcasts/candace/charlie-kirks-last-trip-to-asia-candace-ep-277"
+    }
+   ]
+  },
+  "note": "Naco confirmed by podscripts transcript; dropped the relevance change, which the transcript does not settle."
+ },
+ {
+  "claim": "C-1907",
+  "episode": 45,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her team has a positive ID that the captain who interrogated the Fort Huachuca witness (\"Harry\") on September 9, 2025 is Adam Neff of the U.S. Army's 10th Mountain Division, which she says Harry confirmed from pictures she sent.",
+   "label": "Host Says Captain at Fort Huachuca Meeting Identified as Adam Neff, 10th Mountain Division",
+   "names": [
+    {
+     "wrong": "Adam Nef",
+     "right": "Adam Neff",
+     "source": "https://x.com/RealCandaceO/status/2054562859829297556"
+    }
+   ]
+  },
+  "note": "Host's X post: 'We confirmed that Adam Neff was indeed the Captain who questioned Mitch'."
+ },
+ {
+  "claim": "C-1909",
+  "episode": 45,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:59:48"
+  },
+  "note": "'servant of Yahweh writes' falls before 1:00:00; 59:48 fits."
+ },
+ {
+  "claim": "C-8096",
+  "episode": 45,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:37:59",
+   "claim": "The host says she misspoke the day before when she said E4 and E3, that her notes show the witness said O-6, and that she introduced the error when transferring her notes, then Googling and editing what she thought she heard."
+  },
+  "note": "'misspoke yesterday' opens the 37:59 block; reordered sequence matches the transcript."
+ },
+ {
+  "claim": "C-8099",
+  "episode": 45,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the witness did not know Captain Neff's first name; as viewers' emails came in she sent him picture options, and when someone supplied the name Adam Neff he confirmed it was the correct person.",
+   "names": [
+    {
+     "wrong": "Adam Nef",
+     "right": "Adam Neff",
+     "source": "https://x.com/RealCandaceO/status/2054562859829297556"
+    }
+   ]
+  },
+  "note": "Adam Neff spelling confirmed by host's own X post."
+ },
+ {
+  "claim": "C-8100",
+  "episode": 45,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Adam Neff led the interrogation and that the identification checks out because the 10th Mountain Division is the division from New York.",
+   "label": "Host Says the 10th Mountain Division Is the New York Division and Fits Neff Leading the Interrogation",
+   "names": [
+    {
+     "wrong": "Adam Nef",
+     "right": "Adam Neff",
+     "source": "https://x.com/RealCandaceO/status/2054562859829297556"
+    }
+   ]
+  },
+  "note": "Adam Neff spelling confirmed by host's own X post."
+ },
+ {
+  "claim": "C-1923",
+  "episode": 46,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:57:40"
+  },
+  "note": "Maroon/Air Force/10th Mountain line falls ~57:45; 57:40 fits."
+ },
+ {
+  "claim": "C-1930",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she spoke with a witness who filmed a person on the roof at 12:23 p.m., and that he did not see that person take the shot."
+  },
+  "note": "Host says 'I spoke to that person... He filmed the person on the roof at 12:23 p.m.'; attribution fix right."
+ }
+]

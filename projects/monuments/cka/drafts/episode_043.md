@@ -1070,7 +1070,7 @@ Investigative Direction: Ask the host for the source and date of the alleged thr
 
 Claim Timestamp: 00:06:28
 
-Claim: The host says the Pentagon, the White House, US intelligence agencies and the Elysee Palace are not disputing her narrative about the Macron couple, and that the FBI can now be added to that list.
+Claim: The host says the Pentagon, the White House, US intelligence agencies and the Elysee Palace are not disputing her narrative about the Macron couple, and that the FBI can now be added to that list because Kash Patel recently gave an interview to Megyn Kelly.
 
 Transcript Snippet: neither the Pentagon nor the White House or our intel agencies or the Elysée Palace are disputing that narrative.
 
@@ -1098,7 +1098,7 @@ Investigative Direction: Ask the host whether she sent the FBI any submission an
 
 ---
 
-**C-12483** Host says she told that she had proof the French government was on the ground that day
+**C-12483** Host Says She Said She Had Proof the French Government Was on the Ground That Day
 
 Claim Timestamp: 00:08:21
 

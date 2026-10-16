@@ -25,7 +25,7 @@ The host says the White House Military Office sent a communications email at abo
 
 The host then relays a tips-line story she says was verified with receipts (A-2576.1). According to the host, Justin Streiff, who had been promoted to TPUSA chief operating officer seven days before the assassination, allegedly called a book printer on September 10 to at least double the order for Charlie Kirk's book "Stop in the Name of God", after getting Erika Kirk's approval. She repeats an outside source's and an insider's accounts that about $10 million was missing from Turning Point Action. She also says Streiff runs Winning Team Publishing, which Sergio Gor and Donald Trump Jr. founded. She relays a rumor that Gor left his White House deputy chief of staff role after clashing with Elon Musk, including over Jared Isaacman's appointment, and over an alleged relationship. She plays Erika Kirk's remarks at Gor's ambassador-to-India ceremony (A-2577.1).
 
-In later segments the host mocks Jessica Reed Kraus's posts relaying praise from Nick Shirley's elementary school teachers, together with Shirley's reply (A-2578). She shows a Times headline saying Brigitte Macron slapped her husband over text messages to an Iranian actress (A-2579). In the comments she says Captain Adam Nef was found and confirmed questioning Mitch Snow. She also says TPUSA is now paying chapter leaders not to close chapters and that her merch had its highest sales day after the "boycott advertisers" campaign.
+In later segments the host mocks Jessica Reed Kraus's posts relaying praise from Nick Shirley's elementary school teachers, together with Shirley's reply (A-2578). She shows a Times headline saying Brigitte Macron slapped her husband over text messages to an Iranian actress (A-2579). In the comments she says Captain Adam Neff was found and confirmed questioning Mitch Snow. She also says TPUSA is now paying chapter leaders not to close chapters and that her merch had its highest sales day after the "boycott advertisers" campaign.
 
 ## 3. Artifact Register
 
@@ -157,7 +157,7 @@ Confidence Level: High
 
 **A-2580** Blake Neff X Posts Bundle
 
-**A-2580.1** Host verbal reference to Blake Neff's X posts asking about "Commander Nef" and saying Adam Nef was harassed by the host's "cultists" (not shown)
+**A-2580.1** Host verbal reference to Blake Neff's X posts asking about "Commander Neff" and saying Adam Neff was harassed by the host's "cultists" (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:40:35
@@ -244,7 +244,7 @@ Named as White House chief of staff, with Sergio Gor as her second in command.
 
 **N-160** Blake Neff
 
-Transcript spelling "Blakey Nef" / "Blake". Asked on X about "Commander Nef" and said Adam Nef was harassed by the host's followers.
+Transcript spelling "Blakey Neff" / "Blake". Asked on X about "Commander Neff" and said Adam Neff was harassed by the host's followers.
 
 *Related: C-4103, A-2580.1*
 
@@ -261,7 +261,7 @@ Subject of Jessica Reed Kraus's teacher-praise posts; his reply on keeping in to
 
 *Related: C-4097, C-4098, C-4099, A-2578.1, A-2578.2, A-2578.3*
 
-**N-320** Captain Adam Nef
+**N-320** Captain Adam Neff
 
 Host says the team found him and confirmed he questioned Mitch Snow as Snow described.
 
@@ -269,7 +269,7 @@ Host says the team found him and confirmed he questioned Mitch Snow as Snow desc
 
 **N-362** Mitch Snow
 
-His Fort Huachuca account is said to have checked out through Captain Adam Nef.
+His Fort Huachuca account is said to have checked out through Captain Adam Neff.
 
 *Related: C-4102*
 
@@ -1050,11 +1050,11 @@ Investigative Direction: Locate the actress's published denial and compare the e
 
 ---
 
-**C-4102** Captain Adam Nef was found and confirmed questioning Mitch Snow
+**C-4102** Captain Adam Neff was found and confirmed questioning Mitch Snow
 
 Claim Timestamp: 00:40:35
 
-Claim: The host says her team found Captain Adam Nef and determined that he did question Mitch Snow as Snow had said, so the story checked out.
+Claim: The host says her team found Captain Adam Neff and determined that he did question Mitch Snow as Snow had said, so the story checked out.
 
 Transcript Snippet: Yeah, we did find him and we determined that he was did actually uh question Mitch as he said as the story checked out
 
@@ -1062,17 +1062,17 @@ Anchored Artifacts: A-2580.1
 Mentions: N-320, N-362, N-3
 Related Nodes: N-10899
 Supports: C-1907
-Investigative Direction: Obtain Fort Huachuca records of the encounter or a statement from Captain Adam Nef.
+Investigative Direction: Obtain Fort Huachuca records of the encounter or a statement from Captain Adam Neff.
 
 ---
 
-**C-4103** Blake Neff posted that Adam Nef was harassed by the host's "cultists"
+**C-4103** Blake Neff posted that Adam Neff was harassed by the host's "cultists"
 
 Claim Timestamp: 00:40:35
 
-Claim: The host says Blake Neff posted on X asking whether she ever found "Commander Nef," then said Adam Nef was harassed by her "cultists" even though he does not know Nef.
+Claim: The host says Blake Neff posted on X asking whether she ever found "Commander Neff," then said Adam Neff was harassed by her "cultists" even though he does not know Neff.
 
-Transcript Snippet: then he said that C Adam Nef was harassed by my cultists and I but he doesn't know he doesn't know Adam Nef, but he was harassed.
+Transcript Snippet: then he said that C Adam Neff was harassed by my cultists and I but he doesn't know he doesn't know Adam Neff, but he was harassed.
 
 Anchored Artifacts: A-2580.1
 Mentions: N-160, N-320
@@ -1390,7 +1390,7 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2574.1 (the White House Military Office email is read aloud but deliberately not shown, which the host attributes to canary watermarking), A-2574.2 (deletion-order emails), A-2576.1 (tips-line receipts) and A-2580.1 (Blake Neff's X posts).
 - **Skeleton handling**: The existing N-16 and N-161 rows and the M-42 occurrence are kept with their ids and text; only their placeholder *Related:* lines were filled in. The N-161 description mentions an "Epstein situation-room attendee read", which does not appear in this transcript; it is kept verbatim from the skeleton. The skeleton's ledger line "Hole-minted Nodes (remap-ep104): N-161" was replaced by "(see registers)" per the spec. Its Video Timestamp Range (00:56:29) was corrected to the transcript duration, 49:46.
-- **Name matching**: "Justin Streiff" (chapter title "Justin Streiff") is mapped to N-15. "Blakey Nef" is N-160 Blake Neff. "Captain Adam Nef" / "Commander Nef" is N-320. "Sarah Seidner" is N-371 Sara Sidner. "Don Trump Jr." is N-33. The "mysterious Pierre" is linked only to topic N-10493; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.
+- **Name matching**: "Justin Streiff" (chapter title "Justin Streiff") is mapped to N-15. "Blakey Neff" is N-160 Blake Neff. "Captain Adam Neff" / "Commander Neff" is N-320. "Sarah Seidner" is N-371 Sara Sidner. "Don Trump Jr." is N-33. The "mysterious Pierre" is linked only to topic N-10493; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.
 - **New-person spellings**: "Ryan Rippeon" and "Gustav Anderly" are kept as spoken; real spellings are unverified. N-613 is named Jessica Reed Kraus (transcript "Jessica Reed Krauss", handle rendered "House and Drinking Habit"). For N-626, the host says she is "definitely not saying this name right" ("Gosh Farani", "Gosh Fani", "Farhani", "Verahani", "Verhani"). The node is named Golshifteh Farahani, the exiled Iranian actress whose name these spellings appear to render; the integrator should verify this. "Ike Cromoter" (21:13), named as someone whose "guy" Gor is, could not be matched and was not minted.
 - **Transcription ambiguities**: "rescend" / "resend" for rescind, and "plat platforms", are kept as written. "Brigitte / Brigitte / Brigitte Macron" (Brigitte Macron), "Emmanuel Macron", "capta" (CAPTCHA) and "Vavlla" (favela) are kept as written. The host says Streiff "he's not just the CEO" (20:14) but elsewhere calls him COO; COO is used.
 - **Possible cross-episode links left out**: C-4064 was not linked to C-2791 (Washington Post: Secret Service fired at the WHCD suspect), because the host says the agents fired "at one another", a different proposition. C-4097–C-4099 were not linked to C-2901/C-2552 (Nick Shirley's own infiltration claims), because they concern teacher praise, not the infiltration. C-4081–C-4083 were not linked to C-2114 (Buckmans' $10 million gift), which is a different proposition.

@@ -77,7 +77,7 @@
           "@type": "Artifact",
           "@id": "A-1185.1",
           "ref": "A-1185.1",
-          "description": "Mobile phone video with embedded metadata timestamp 12:23 showing Phil Lyman inside the Sorenson Center building walking out calmly and engaging two people in black clothing in conversation; no one in the clip is depicted fleeing.",
+          "description": "Mobile phone video with embedded metadata timestamp 12:23 showing Phil Lyman inside the Sorensen Center building walking out calmly and engaging two people in black clothing in conversation; no one in the clip is depicted fleeing.",
           "related_claims": [
             "C-1323",
             "C-1324"
@@ -653,7 +653,7 @@
       "ref": "N-10146",
       "name": "Phil Lyman Location Discrepancy",
       "type": "investigation_target",
-      "description": "Persistent inconsistency across three artifact-anchored sources regarding Phil Lyman's position at the moment of the shot: (1) Alex Jones interview places him at the east end outdoors, (2) NewsNation interview places him entering a building and then running out, and (3) video with 12:23 metadata timestamp shows him already inside the Sorenson Center building walking out calmly.",
+      "description": "Persistent inconsistency across three artifact-anchored sources regarding Phil Lyman's position at the moment of the shot: (1) Alex Jones interview places him at the east end outdoors, (2) NewsNation interview places him entering a building and then running out, and (3) video with 12:23 metadata timestamp shows him already inside the Sorensen Center building walking out calmly.",
       "related_artifacts": [
         "A-1183.1",
         "A-1184.1",

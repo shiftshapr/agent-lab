@@ -191,7 +191,7 @@
           "@type": "Artifact",
           "@id": "A-1428.2",
           "ref": "A-1428.2",
-          "description": "Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorenson Center / Losee Center",
+          "description": "Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorensen Center / Losee Center",
           "related_claims": [
             "C-1737"
           ],
@@ -2710,8 +2710,8 @@
       "@type": "Claim",
       "@id": "C-4944",
       "ref": "C-4944",
-      "label": "Harpole Says the Sorenson Center Was the Building in Front of the Losee Center",
-      "claim": "In the Shawn Ryan interview clip the host plays, Brian Harpole says, for edification, that the Sorenson Center was the building in front of the Losee Center.",
+      "label": "Harpole Says the Sorensen Center Was the Building in Front of the Losee Center",
+      "claim": "In the Shawn Ryan interview clip the host plays, Brian Harpole says, for edification, that the Sorensen Center was the building in front of the Losee Center.",
       "anchored_artifacts": [
         "A-1428.2"
       ],
@@ -2721,8 +2721,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:24:53",
-      "investigative_direction": "Check the UVU campus map for the position of the Sorenson Center relative to the Losee Center.",
-      "transcript_snippet": "for edification the Sorenson Center was the building in front of the Lucy Center.",
+      "investigative_direction": "Check the UVU campus map for the position of the Sorensen Center relative to the Losee Center.",
+      "transcript_snippet": "for edification the Sorensen Center was the building in front of the Losee Center.",
       "mentions_person_refs": [
         "N-267"
       ]
