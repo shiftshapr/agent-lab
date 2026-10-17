@@ -48,7 +48,7 @@
 
 # Executive Summary
 
-This episode introduces two new evidentiary streams into the Bride of Charlie ledger. First, the host displays and discusses never-before-released materials from the September 10 incident: photographs from inside the vehicle that transported Charlie Kirk to the hospital, and screen-recorded footage from behind Kirk at the event. The host walks through specific observable elements (the necklace/magnet clasp, hand motion at the table, blood pattern, presence of what appears to be an Instaclot package on the van floor) and references external investigators (Baron Coleman, John Bray) for corroborating analysis.
+This episode introduces two new evidentiary streams into the Bride of Charlie ledger. First, the host displays and discusses never-before-released materials from the September 10 incident: photographs from inside the vehicle that transported Charlie Kirk to the hospital, and screen-recorded footage from behind Kirk at the event. The host walks through specific observable elements (the necklace/magnet clasp, hand motion at the table, blood pattern, presence of what appears to be an Instaclot package on the van floor) and references external investigators (Baron Coleman, Jon Bray) for corroborating analysis.
 
 Second, the episode advances the Next Model Management / Erika Kirk New York real-estate thread by displaying and reading a New York Post article describing 301 East 66th Street as a building where Epstein housed underage victims, with apartments labeled in his address book as "apartments for models" and photos courtesy of Corcoran real estate. A separate news clip of the Alexander brothers sex-trafficking conviction is displayed to connect Epstein-file redactions to Jared Kushner's associates. The Turning Point Action tweet against Rep. Thomas Massie is shown and contrasted against displayed video clips of Charlie Kirk naming Massie one of his favorite congressmen; an X community note fact-checking TPUSA is displayed. The United Hands Romania / Renee Crossman thread is extended via a 2017 article quoting Erika Kirk and a Romanian investigative piece on the Children of God / The Family cult.
 
@@ -914,7 +914,7 @@ Ivanka Trump; named in the Miami mansion claim.
 
 **N-684** Jon Bray
 
-John Bray; investigator on the microphone theory and the Tennessee explosion.
+Jon Bray; investigator on the microphone theory and the Tennessee explosion.
 
 *Related: C-12718, C-12719, C-12740, C-12741*
 
@@ -1170,7 +1170,7 @@ Investigative Direction: Obtain federal court docket for the Southern District o
 
 Claim Timestamp: 00:13:44
 
-Claim: Per the displayed clip, Arkansas Governor Sarah Huckabee Sanders signed a proclamation with Erika Kirk at her side announcing support for every high school in Arkansas to adopt Club America (TPUSA high-school chapter program).
+Claim: The host says Arkansas Governor Sarah Huckabee Sanders signed a proclamation with Erika Kirk at her side announcing support for every high school in Arkansas to adopt Club America (TPUSA high-school chapter program); in the clip she plays, Sanders welcomes Erika Kirk and says Club America is launching in Arkansas.
 
 Anchored Artifacts: A-1837.1
 Mentions: N-2, N-583
@@ -1248,7 +1248,7 @@ Investigative Direction: Obtain high-resolution originals; have forensic imaging
 
 Claim Timestamp: 00:34:11
 
-Claim: Per the displayed video, the necklace worn by Charlie Kirk is shown moving/whipping upward after impact with the magnet clasp still attached to the chain.
+Claim: The host says the displayed video shows Charlie Kirk's necklace whipping upward first after impact, and that the magnet clasp is still on him.
 
 Anchored Artifacts: A-1842.1, A-1842.4
 Mentions: N-1
@@ -1734,16 +1734,16 @@ Investigative Direction: Obtain the episode's air time and metadata and communic
 
 ---
 
-**C-12691** Host Says Kolvet Said He Was Calling In While Actually Together in DC
+**C-12691** Host Says Patel Said He Was Calling In While Actually Together With Kolvet in DC
 
 Claim Timestamp: 00:12:12
 
-Claim: The host says that on the episode Kolvet said he was calling in and never does this, while, she says, they were together in DC.
+Claim: The host says that on the episode Kash Patel said he was calling in and never does this, while, she says, he and Kolvet were together in DC.
 
 Transcript Snippet: I'm calling in. I never do this. Haha. Meanwhile, you're together in DC.
 
 Anchored Artifacts: 
-Mentions: N-14
+Mentions: N-69, N-14
 Related Nodes: N-10522
 Supports: C-2420
 Tags: relevance:core
@@ -2088,7 +2088,7 @@ Investigative Direction: Obtain the unedited footage and have a forensic video a
 
 Claim Timestamp: 00:35:07
 
-Claim: The host says that, as the footage shows, the bullet did not go through and did not cause any sort of mess.
+Claim: The host says that, as she said before, the bullet did not go through and did not cause any sort of mess.
 
 Transcript Snippet: the bullet didn't go through. Not only did not go through, didn't even cause any sort of a mess.
 
@@ -2167,13 +2167,13 @@ Investigative Direction: Ask a forensic pathologist to review the footage and th
 
 ---
 
-**C-12718** Host Says John Bray Explained the Magnet Clasp Would Have Stayed On While What Was Behind It Fell Off
+**C-12718** Host Says Jon Bray Explained the Magnet Clasp Would Have Stayed On While What Was Behind It Fell Off
 
 Claim Timestamp: 00:37:38
 
-Claim: The host says John Bray explained to her that the magnet clasp would have stayed on while what was behind it would have fallen off.
+Claim: The host says Jon Bray explained to her that the magnet clasp would have stayed on while what was behind it would have fallen off.
 
-Transcript Snippet: John Bray explained to me that uh the magnet clasp would have stayed on, but what was behind it would have fallen off because he has a theory
+Transcript Snippet: Jon Bray explained to me that uh the magnet clasp would have stayed on, but what was behind it would have fallen off because he has a theory
 
 Anchored Artifacts: A-1842.4
 Mentions: N-684
@@ -2506,13 +2506,13 @@ Investigative Direction: No source is cited; compare with published JFK assassin
 
 ---
 
-**C-12740** Host Says John Bray Is Looking Into the Microphone Theory and the Tennessee Explosion
+**C-12740** Host Says Jon Bray Is Looking Into the Microphone Theory and the Tennessee Explosion
 
 Claim Timestamp: 00:56:21
 
-Claim: The host says John Bray is looking into the microphone theory and why there was an explosion in Tennessee.
+Claim: The host says Jon Bray is looking into the microphone theory and why there was an explosion in Tennessee.
 
-Transcript Snippet: John Bray who's looking into the microphone theory and why there was that explosion that happened here in Tennessee.
+Transcript Snippet: Jon Bray who's looking into the microphone theory and why there was that explosion that happened here in Tennessee.
 
 Anchored Artifacts: 
 Mentions: N-684
@@ -2526,7 +2526,7 @@ Investigative Direction: Obtain Bray's published work on the explosion and the m
 
 Claim Timestamp: 00:56:21
 
-Claim: The host says Nelda Buckman gave a ton of money to Erika Kirk and is involved in sex trafficking charities, and suggests John Bray look into the Buckman family.
+Claim: The host says Nelda Buckman gave a ton of money to Erika Kirk and is involved in sex trafficking charities, and suggests Jon Bray look into the Buckman family.
 
 Transcript Snippet: you should probably look into uh, Nelda Buckman's family. I'm only saying that because, you know, that she gave a ton of money into uh, to Erika Kirk. She's involved in sex trafficking charities
 

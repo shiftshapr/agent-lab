@@ -1,0 +1,213 @@
+[
+ {
+  "claim": "C-12598",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the played clip, Rob Skiba says Mount Hermon's outline forms the shape of a goat and that the fallen angel Azazel is associated with the goat and with the scapegoat of Leviticus chapter 16.",
+   "label": "Rob Skiba Says Mount Hermon's Topography Forms a Goat and Links the Fallen Angel Azazel to the Scapegoat",
+   "names": [
+    {
+     "wrong": "Aazil",
+     "right": "Azazel",
+     "source": "https://en.wikipedia.org/wiki/Azazel"
+    }
+   ]
+  },
+  "note": "Clip discusses Leviticus 16 scapegoat fallen angel; that is Azazel (Wikipedia). Aazil is a transcription garble."
+ },
+ {
+  "claim": "C-12600",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-542",
+    "N-549"
+   ]
+  },
+  "note": "Claim names David Flynn (N-549); clip says David Flynn pointed it out."
+ },
+ {
+  "claim": "C-2317",
+  "episode": 70,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:11:32"
+  },
+  "note": "Watters remark spoken ~11:40, about 30s before 12:11; 11:32 fits."
+ },
+ {
+  "claim": "C-2320",
+  "episode": 70,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already reads Marina Minas."
+ },
+ {
+  "claim": "C-2322",
+  "episode": 70,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already reads Marina Minas."
+ },
+ {
+  "claim": "C-8382",
+  "episode": 70,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says She Warned Charlie About Shaffer Security and Dan Flood",
+   "claim": "The host says she warned Charlie Kirk about Shaffer Security and Dan Flood, and tells Erika Kirk that the text messages are in Erika's possession.",
+   "names": [
+    {
+     "wrong": "Schaefer security",
+     "right": "Shaffer Security",
+     "source": "https://publish.obsidian.md/charliefiles/people/Greg+Shaffer"
+    }
+   ]
+  },
+  "note": "Shaffer Security (Greg Shaffer, TPUSA security 2015-22) confirmed by web search and node N-11038; existing rule scoped to eps 57/59, not 70."
+ },
+ {
+  "claim": "C-10121",
+  "episode": 72,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already reads Marina Minas."
+ },
+ {
+  "claim": "C-2378",
+  "episode": 74,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already reads Josh Harrellson."
+ },
+ {
+  "claim": "C-10142",
+  "episode": 74,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already reads Josh Harrellson."
+ },
+ {
+  "claim": "C-10143",
+  "episode": 74,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already reads Josh Harrellson."
+ },
+ {
+  "claim": "C-10147",
+  "episode": 74,
+  "decision": "accept",
+  "fix": {
+   "claim": "Nicey says that a few hours after her February 13, 2014 reply, Jillian tweeted asking why Erika had just sent her an image captioned 'This Valentine's Day I am going to touch your butt.'",
+   "label": "Nicey Says Jillian Tweeted a Valentine Image Erika Sent Reading 'I am going to touch your butt' Hours After Her Feb 13, 2014 Reply"
+  },
+  "note": "Nicey: Valentine tweet came a few hours after Feb 13 reply; March 6 introduces the next tweet."
+ },
+ {
+  "claim": "C-2429",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:39:00"
+  },
+  "note": "Ephesians line spoken ~39:05, over 20s before 39:30; 39:00 fits."
+ },
+ {
+  "claim": "C-2457",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Arkansas Governor Sarah Huckabee Sanders signed a proclamation with Erika Kirk at her side announcing support for every high school in Arkansas to adopt Club America (TPUSA high-school chapter program); in the clip she plays, Sanders welcomes Erika Kirk and says Club America is launching in Arkansas."
+  },
+  "note": "Proclamation is host narration; clip only has Sanders welcoming Erika and launching Club America."
+ },
+ {
+  "claim": "C-12691",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that on the episode Kash Patel said he was calling in and never does this, while, she says, he and Kolvet were together in DC.",
+   "label": "Host Says Patel Said He Was Calling In While Actually Together With Kolvet in DC",
+   "mentions": [
+    "N-69",
+    "N-14"
+   ]
+  },
+  "note": "Host: Patel helped Kolvet by faking a live episode; Patel is the one calling in."
+ },
+ {
+  "claim": "C-12718",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Jon Bray explained to her that the magnet clasp would have stayed on while what was behind it would have fallen off.",
+   "label": "Host Says Jon Bray Explained the Magnet Clasp Would Have Stayed On While What Was Behind It Fell Off",
+   "names": [
+    {
+     "wrong": "John Bray",
+     "right": "Jon Bray",
+     "source": "https://dschmitt.substack.com/p/not-all-exploding-mics-are-the-same"
+    }
+   ]
+  },
+  "note": "Jon Bray (N-684) confirmed by web search; existing rule scoped to eps 120/123, draft still says John."
+ },
+ {
+  "claim": "C-12740",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Jon Bray is looking into the microphone theory and why there was an explosion in Tennessee.",
+   "label": "Host Says Jon Bray Is Looking Into the Microphone Theory and the Tennessee Explosion",
+   "names": [
+    {
+     "wrong": "John Bray",
+     "right": "Jon Bray",
+     "source": "https://dschmitt.substack.com/p/not-all-exploding-mics-are-the-same"
+    }
+   ]
+  },
+  "note": "Jon Bray (N-684) confirmed by web search; draft still says John Bray."
+ },
+ {
+  "claim": "C-12741",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Nelda Buckman gave a ton of money to Erika Kirk and is involved in sex trafficking charities, and suggests Jon Bray look into the Buckman family.",
+   "names": [
+    {
+     "wrong": "John Bray",
+     "right": "Jon Bray",
+     "source": "https://dschmitt.substack.com/p/not-all-exploding-mics-are-the-same"
+    }
+   ]
+  },
+  "note": "Jon Bray (N-684) confirmed by web search; draft still says John Bray."
+ },
+ {
+  "claim": "C-2488",
+  "episode": 79,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim text has no Georgia Meloni; node N-595 already Giorgia Meloni and global rule exists."
+ },
+ {
+  "claim": "C-11253",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-97",
+    "N-1",
+    "N-4",
+    "N-5"
+   ]
+  },
+  "note": "Claim names Trump; add N-5."
+ }
+]

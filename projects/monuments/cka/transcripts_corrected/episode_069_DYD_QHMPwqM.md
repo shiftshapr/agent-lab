@@ -48,7 +48,7 @@ We're trying to not get to what is true or what you believe. We are trying to ac
 
 [05:43]
 
-There are extra biblical texts like the book of Enoch and others that go into more detail about what happened in Genesis 6. The Book of Enoch says that 200 fallen angels, a class of angels known as the Watchers, landed in this location right here. This is the center of a mountain range in southern Lebanon known as Mount Herman. Now, keep your eye right there as as the camera pulls back and just kind of look at the outline of the topography right there. It's very interesting that it actually forms the shape of a goat. And one of the worst of the fallen angels was one by the name of Aazil. And Aazil is always associated with the goat. And you see that in Leviticus chapter 16. The scapegoat is a reference to Aazil. I find it interesting that the land itself actually kind of looks like a goat head.
+There are extra biblical texts like the book of Enoch and others that go into more detail about what happened in Genesis 6. The Book of Enoch says that 200 fallen angels, a class of angels known as the Watchers, landed in this location right here. This is the center of a mountain range in southern Lebanon known as Mount Herman. Now, keep your eye right there as as the camera pulls back and just kind of look at the outline of the topography right there. It's very interesting that it actually forms the shape of a goat. And one of the worst of the fallen angels was one by the name of Azazel. And Azazel is always associated with the goat. And you see that in Leviticus chapter 16. The scapegoat is a reference to Azazel. I find it interesting that the land itself actually kind of looks like a goat head.
 
 [06:31]
 

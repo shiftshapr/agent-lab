@@ -833,7 +833,7 @@ Investigative Direction: Confirm specific language against the official White Ho
 
 Claim Timestamp: 00:14:29
 
-Claim: Senator Lindsey Graham publicly stated that Kent's resignation "could not have come at a better time" and that Kent's statement was echoing "Democratic talking points."
+Claim: Per a post the host reads, Senator Lindsey Graham wrote that Kent's resignation "could not have come at a better time" and that Kent's statement was echoing "Democratic talking points."
 
 Anchored Artifacts: A-1863.1
 Mentions: N-210, N-453
@@ -923,7 +923,7 @@ Investigative Direction: Confirm exact text against Budowich's verified X accoun
 
 Claim Timestamp: 00:20:55
 
-Claim: Theo Von publicly characterized Israeli political leaders as feeling like "a satanic regime" and stated he does not understand the U.S. government's relationship with Israel's leaders.
+Claim: In a clip the host plays, Theo Von characterizes Israeli political leaders as feeling like "a satanic regime" and says he does not understand the U.S. government's relationship with Israel's leaders.
 
 Anchored Artifacts: A-1868.1
 Mentions: N-147
@@ -1012,7 +1012,7 @@ Investigative Direction: Verify the date, venue, and Fantegrossi's participation
 
 Claim Timestamp: 00:47:24
 
-Claim: Treasury Secretary Scott Bessent was pulled mid-interview to attend the Situation Room, with the interviewer noting it was "a first" for an interviewee to be pulled.
+Claim: In a clip the host plays, Treasury Secretary Scott Bessent is pulled mid-interview to go to the Situation Room, with the interviewer noting it was "a first" for an interviewee to be pulled.
 
 Anchored Artifacts: A-1873.1
 Mentions: N-601

@@ -1901,8 +1901,8 @@
       "@type": "Claim",
       "@id": "C-12598",
       "ref": "C-12598",
-      "label": "Rob Skiba Says Mount Hermon's Topography Forms a Goat and Links the Fallen Angel Aazil to the Scapegoat",
-      "claim": "In the played clip, Rob Skiba says Mount Hermon's outline forms the shape of a goat and that the fallen angel Aazil is associated with the goat and with the scapegoat of Leviticus chapter 16.",
+      "label": "Rob Skiba Says Mount Hermon's Topography Forms a Goat and Links the Fallen Angel Azazel to the Scapegoat",
+      "claim": "In the played clip, Rob Skiba says Mount Hermon's outline forms the shape of a goat and that the fallen angel Azazel is associated with the goat and with the scapegoat of Leviticus chapter 16.",
       "anchored_artifacts": [
         "A-1739.1"
       ],
@@ -1913,7 +1913,7 @@
         "relevance:tangential"
       ],
       "claim_timestamp": "00:05:43",
-      "investigative_direction": "Check the lecture's imagery and the Leviticus 16 reading; the spelling 'Aazil' is probably Azazel.",
+      "investigative_direction": "Check the lecture's imagery and the Leviticus 16 reading; the spelling 'Azazel' is probably Azazel.",
       "transcript_snippet": "It's very interesting that it actually forms the shape of a goat.",
       "mentions_person_refs": [
         "N-542"
@@ -1961,7 +1961,8 @@
       "investigative_direction": "Reproduce the Google Earth measurement and find an independent source for the term 'devil's line'.",
       "transcript_snippet": "And that is in the occult is referred to as the devil's line.",
       "mentions_person_refs": [
-        "N-542"
+        "N-542",
+        "N-549"
       ]
     },
     {

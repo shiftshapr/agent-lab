@@ -1102,7 +1102,7 @@ Investigative Direction: Obtain the Jezebel article URL with timestamp metadata;
 
 **C-2429** Erika Kirk Tweet Ephesians 4:5 Posted One Hour After Jezebel Article
 
-Claim Timestamp: 00:39:30
+Claim Timestamp: 00:39:00
 
 Claim: The host says Erika Kirk posted a tweet quoting Ephesians 4:5 ("By grace you have been saved through faith") at 10:49 AM Arizona time on September 8, 2025 – exactly one hour after the Jezebel article (A-1816.1) appeared.
 
@@ -1117,7 +1117,7 @@ Investigative Direction: Obtain Erika Kirk's tweet via Wayback Machine or X API;
 
 Claim Timestamp: 00:36:30–00:38:17
 
-Claim: The host says, citing an email from a viewer and Charlie Kirk's show commentary describing specific plays (challenge on Noah Sewell fumble, 2:02 remaining, clock management decisions), that on September 8, 2025 Charlie Kirk watched the second half of the Chicago Bears vs. Minnesota Vikings game from his home.
+Claim: The host says, citing an email from a viewer and Charlie Kirk's show commentary describing specific plays (challenge on Noah Sewell fumble, 2:02 remaining, clock management decisions), that on September 8, 2025 Charlie Kirk watched the second half of the Chicago Bears vs. Minnesota Vikings game.
 
 Anchored Artifacts: A-1818.2
 Mentions: N-1

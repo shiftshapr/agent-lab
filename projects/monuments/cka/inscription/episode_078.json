@@ -1728,7 +1728,7 @@
       "ref": "N-684",
       "name": "Jon Bray",
       "type": "person",
-      "description": "John Bray; investigator on the microphone theory and the Tennessee explosion.",
+      "description": "Jon Bray; investigator on the microphone theory and the Tennessee explosion.",
       "related_artifacts": [],
       "related_claims": [
         "C-12718",
@@ -2253,7 +2253,7 @@
       "@id": "C-2457",
       "ref": "C-2457",
       "label": "Sarah Huckabee Sanders signed proclamation supporting Club America in Arkansas high schools alongside Erika Kirk",
-      "claim": "Per the displayed clip, Arkansas Governor Sarah Huckabee Sanders signed a proclamation with Erika Kirk at her side announcing support for every high school in Arkansas to adopt Club America (TPUSA high-school chapter program).",
+      "claim": "The host says Arkansas Governor Sarah Huckabee Sanders signed a proclamation with Erika Kirk at her side announcing support for every high school in Arkansas to adopt Club America (TPUSA high-school chapter program); in the clip she plays, Sanders welcomes Erika Kirk and says Club America is launching in Arkansas.",
       "anchored_artifacts": [
         "A-1837.1"
       ],
@@ -2373,7 +2373,7 @@
       "@id": "C-2463",
       "ref": "C-2463",
       "label": "9/10 video shows Charlie's necklace with magnet clasp still attached after impact",
-      "claim": "Per the displayed video, the necklace worn by Charlie Kirk is shown moving/whipping upward after impact with the magnet clasp still attached to the chain.",
+      "claim": "The host says the displayed video shows Charlie Kirk's necklace whipping upward first after impact, and that the magnet clasp is still on him.",
       "anchored_artifacts": [
         "A-1842.1",
         "A-1842.4"
@@ -3081,8 +3081,8 @@
       "@type": "Claim",
       "@id": "C-12691",
       "ref": "C-12691",
-      "label": "Host Says Kolvet Said He Was Calling In While Actually Together in DC",
-      "claim": "The host says that on the episode Kolvet said he was calling in and never does this, while, she says, they were together in DC.",
+      "label": "Host Says Patel Said He Was Calling In While Actually Together With Kolvet in DC",
+      "claim": "The host says that on the episode Kash Patel said he was calling in and never does this, while, she says, he and Kolvet were together in DC.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10522"
@@ -3097,6 +3097,7 @@
         "C-2420"
       ],
       "mentions_person_refs": [
+        "N-69",
         "N-14"
       ]
     },
@@ -3554,7 +3555,7 @@
       "@id": "C-12713",
       "ref": "C-12713",
       "label": "Host Says the Bullet Did Not Go Through",
-      "claim": "The host says that, as the footage shows, the bullet did not go through and did not cause any sort of mess.",
+      "claim": "The host says that, as she said before, the bullet did not go through and did not cause any sort of mess.",
       "anchored_artifacts": [
         "A-1842.4"
       ],
@@ -3669,8 +3670,8 @@
       "@type": "Claim",
       "@id": "C-12718",
       "ref": "C-12718",
-      "label": "Host Says John Bray Explained the Magnet Clasp Would Have Stayed On While What Was Behind It Fell Off",
-      "claim": "The host says John Bray explained to her that the magnet clasp would have stayed on while what was behind it would have fallen off.",
+      "label": "Host Says Jon Bray Explained the Magnet Clasp Would Have Stayed On While What Was Behind It Fell Off",
+      "claim": "The host says Jon Bray explained to her that the magnet clasp would have stayed on while what was behind it would have fallen off.",
       "anchored_artifacts": [
         "A-1842.4"
       ],
@@ -3683,7 +3684,7 @@
       ],
       "claim_timestamp": "00:37:38",
       "investigative_direction": "Obtain Bray's written analysis of the clasp and what was attached behind it.",
-      "transcript_snippet": "John Bray explained to me that uh the magnet clasp would have stayed on, but what was behind it would have fallen off because he has a theory",
+      "transcript_snippet": "Jon Bray explained to me that uh the magnet clasp would have stayed on, but what was behind it would have fallen off because he has a theory",
       "mentions_person_refs": [
         "N-684"
       ]
@@ -4123,8 +4124,8 @@
       "@type": "Claim",
       "@id": "C-12740",
       "ref": "C-12740",
-      "label": "Host Says John Bray Is Looking Into the Microphone Theory and the Tennessee Explosion",
-      "claim": "The host says John Bray is looking into the microphone theory and why there was an explosion in Tennessee.",
+      "label": "Host Says Jon Bray Is Looking Into the Microphone Theory and the Tennessee Explosion",
+      "claim": "The host says Jon Bray is looking into the microphone theory and why there was an explosion in Tennessee.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10986",
@@ -4135,7 +4136,7 @@
       ],
       "claim_timestamp": "00:56:21",
       "investigative_direction": "Obtain Bray's published work on the explosion and the microphone theory.",
-      "transcript_snippet": "John Bray who's looking into the microphone theory and why there was that explosion that happened here in Tennessee.",
+      "transcript_snippet": "Jon Bray who's looking into the microphone theory and why there was that explosion that happened here in Tennessee.",
       "mentions_person_refs": [
         "N-684"
       ]
@@ -4145,7 +4146,7 @@
       "@id": "C-12741",
       "ref": "C-12741",
       "label": "Host Says Nelda Buckman Gave a Ton of Money to Erika Kirk and Is Involved in Trafficking Charities",
-      "claim": "The host says Nelda Buckman gave a ton of money to Erika Kirk and is involved in sex trafficking charities, and suggests John Bray look into the Buckman family.",
+      "claim": "The host says Nelda Buckman gave a ton of money to Erika Kirk and is involved in sex trafficking charities, and suggests Jon Bray look into the Buckman family.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10421"

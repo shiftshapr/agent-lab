@@ -1,0 +1,766 @@
+[
+ {
+  "claim": "C-8501",
+  "episode": 73,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8502",
+  "episode": 73,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8503",
+  "episode": 73,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8504",
+  "episode": 73,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2378",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Nicey names the basketball player 'Josh Harrelson'; correct spelling is Josh Harrellson (NBA, node N-567 canonical 'Josh Harrellson'; corrected transcript reads Harrellson).",
+  "fix": {
+   "claim": "In a video by YouTuber Nicey that the host plays, Nicey says Erika Kirk (then Erika Frantzve), Josh Harrellson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.",
+   "names": [
+    {
+     "wrong": "Joshua Harrelson",
+     "right": "Josh Harrellson",
+     "source": "https://en.wikipedia.org/wiki/Josh_Harrellson"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-2379",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2380",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Quotes follow the transcript; 'Give me a sex' is likely 'give me a sec' as rendered in captions. March 6 date fits: Nicey's next item is 'another screenshot of her text messages'.",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2381",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2382",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2383",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Transcript: 'Thank you, @ErikaFrantzve, for making my whole week.' Claim misspells handle as @EricaFrantzve.",
+  "fix": {
+   "claim": "In a video by YouTuber Nicey that the host plays, Nicey says Jillian Falcon tweeted on or about 2014-03-26 \"Thank you, @ErikaFrantzve, for making my whole week\" and shared a photo of a gnome reading \"I want to be inside your lady garden. Know what I'm saying?\""
+  },
+  "material": false
+ },
+ {
+  "claim": "C-2384",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2385",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2386",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2387",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2388",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2389",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2390",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2391",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2392",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2393",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2394",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Nov 8 RAV find spoken ~37:55, Sept 22 photo-in-background at ~39:15; 38:26 within tolerance of the Sept 22 portion.",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2395",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-3663",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host only says 'one of our mommy sleuths did find Mikey McCoy ... on November 8th giving an interview to Real America's Voice'; 'emailing tips' and 'crowd intelligence effort' are not in the window.",
+  "fix": {
+   "claim": "The host credits \"one of our mommy sleuths\" with finding Mikey McCoy's November 8 interview with Real America's Voice, in which no photo is visible in the corner.",
+   "mentions": [
+    "N-3",
+    "N-191"
+   ]
+  },
+  "material": false
+ },
+ {
+  "claim": "C-10138",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10139",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10140",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10141",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10142",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Basketball player is Josh Harrellson (NBA); transcript/claim 'Joshua Harrelson' is a mis-spelling. Node N-567 canonical now 'Josh Harrellson'.",
+  "fix": {
+   "claim": "In the Nicey clip the host plays, Nicey says that in 2013 Erika, then 25, was in a relationship with basketball player Josh Harrellson, who was living in Michigan, and that Erika moved out there to be with him; the host adds that Erika had just completed her year as Miss Arizona.",
+   "label": "Nicey (Via Host Clip) Says Erika Moved to Michigan to Be With Basketball Player Josh Harrellson in 2013",
+   "names": [
+    {
+     "wrong": "Joshua Harrelson",
+     "right": "Josh Harrellson",
+     "source": "https://en.wikipedia.org/wiki/Josh_Harrellson"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-10143",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Tweet quoted as 'Just met Miss Arizona and Josh Harrelson'; correct name Josh Harrellson (NBA player, node N-567).",
+  "fix": {
+   "claim": "Nicey says that on September 15, 2013 at 3:53 p.m. Jillian Falcon tweeted that she was out for sushi with her friend, and two hours later tweeted that she had just met Miss Arizona and Josh Harrellson.",
+   "names": [
+    {
+     "wrong": "Josh Harrelson",
+     "right": "Josh Harrellson",
+     "source": "https://en.wikipedia.org/wiki/Josh_Harrellson"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-10144",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "'friend's grandparents were renting a home' spoken ~03:17, about 70s after 02:07; within tolerance.",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10145",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10146",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Transcript: '@ErikaFrantzve, gorgeous as always.' Claim misspells handle as @EricaFrantzve.",
+  "fix": {
+   "claim": "Nicey says that on February 13, 2014 Jillian replied to one of Erika's tweets with the words '@ErikaFrantzve, gorgeous as always.'"
+  },
+  "material": false
+ },
+ {
+  "claim": "C-10147",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Nicey: Feb 13 reply, then 'A few hours later she then tweeted, Why did @ErikaFrantzve just send me this?' (Valentine image). 'Jillian posted this tweet on March 6th' introduces the next text screenshot (C-2380), not this one.",
+  "fix": {
+   "claim": "Nicey says that a few hours after her February 13, 2014 reply, Jillian tweeted asking why Erika had just sent her an image captioned 'This Valentine's Day I am going to touch your butt.'",
+   "label": "Nicey Says Jillian Tweeted a Valentine Image Erika Sent Reading 'I am going to touch your butt' Hours After Her Feb 13, 2014 Reply"
+  },
+  "material": true
+ },
+ {
+  "claim": "C-10148",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10149",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10150",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10151",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10152",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10153",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10154",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10155",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10156",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10157",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10158",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10159",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10160",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10161",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10162",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10163",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10164",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10165",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10166",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10167",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10168",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10169",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10170",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10171",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10172",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10173",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-10174",
+  "episode": 74,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Address is moretips@candaceowens.com (host repeats 'moretips@candaceowens. com'); label prefix 'DIA beat:' is extraneous.",
+  "fix": {
+   "claim": "The host says that before going off air she wants to be thorough and put out an APB for certain information, to be sent to moretips@candaceowens.com.",
+   "label": "Host Puts Out an APB for Information"
+  },
+  "material": false
+ }
+]

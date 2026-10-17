@@ -1000,7 +1000,7 @@ Investigative Direction: Identify which of these phones or phone logs were seize
 
 Claim Timestamp: 00:02:50
 
-Claim: The host says that despite landing from Tokyo shortly before midnight on September 7, Charlie Kirk did one hour of The Charlie Kirk Show from his home studio on September 8, recapping Korea and Tokyo, and that this was his last live appearance before the assassination.
+Claim: The host says that despite landing from Tokyo shortly before midnight on September 7, Charlie Kirk did one hour of The Charlie Kirk Show from his home studio on September 8, recapping Korea and Tokyo, and that this was his last live appearance from his home studio before the assassination.
 
 Transcript Snippet: despite having just arrived uh on a flight back from Tokyo, shortly before midnight on the 7th, Charlie Kirk was awake and he did one hour of the Charlie Kirk show on the ETH from his studio
 

@@ -2165,7 +2165,7 @@
         "N-10521"
       ],
       "tags": [],
-      "claim_timestamp": "00:39:30",
+      "claim_timestamp": "00:39:00",
       "investigative_direction": "Obtain Erika Kirk's tweet via Wayback Machine or X API; verify timestamp metadata.",
       "mentions_person_refs": [
         "N-2"
@@ -2176,7 +2176,7 @@
       "@id": "C-2430",
       "ref": "C-2430",
       "label": "Host Says Charlie Kirk Watched Second Half of Bears-Vikings Game on September 8",
-      "claim": "The host says, citing an email from a viewer and Charlie Kirk's show commentary describing specific plays (challenge on Noah Sewell fumble, 2:02 remaining, clock management decisions), that on September 8, 2025 Charlie Kirk watched the second half of the Chicago Bears vs. Minnesota Vikings game from his home.",
+      "claim": "The host says, citing an email from a viewer and Charlie Kirk's show commentary describing specific plays (challenge on Noah Sewell fumble, 2:02 remaining, clock management decisions), that on September 8, 2025 Charlie Kirk watched the second half of the Chicago Bears vs. Minnesota Vikings game.",
       "anchored_artifacts": [
         "A-1818.2"
       ],

@@ -2713,8 +2713,8 @@
       "@type": "Claim",
       "@id": "C-10147",
       "ref": "C-10147",
-      "label": "Nicey says Jillian posted on March 6, 2014 a Valentine image Erika sent reading 'I am going to touch your butt'",
-      "claim": "Nicey says Jillian tweeted on March 6, 2014, asking why Erika had just sent her an image captioned 'This Valentine's Day I am going to touch your butt.'",
+      "label": "Nicey Says Jillian Tweeted a Valentine Image Erika Sent Reading 'I am going to touch your butt' Hours After Her Feb 13, 2014 Reply",
+      "claim": "Nicey says that a few hours after her February 13, 2014 reply, Jillian tweeted asking why Erika had just sent her an image captioned 'This Valentine's Day I am going to touch your butt.'",
       "anchored_artifacts": [
         "A-1781.3"
       ],
@@ -3305,8 +3305,8 @@
       "@type": "Claim",
       "@id": "C-10174",
       "ref": "C-10174",
-      "label": "DIA beat: host puts out an APB for information",
-      "claim": "The host says that before going off air she wants to be thorough and put out an APB for certain information, to be sent to more tips@candaceowens.com.",
+      "label": "Host Puts Out an APB for Information",
+      "claim": "The host says that before going off air she wants to be thorough and put out an APB for certain information, to be sent to moretips@candaceowens.com.",
       "anchored_artifacts": [
         "A-3057.1"
       ],
@@ -3355,7 +3355,7 @@
         "N-10513"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:23:36",
       "investigative_direction": "Watch for the host's follow-up identifying the photographer and test it against Jillian's account.",
@@ -3377,7 +3377,7 @@
         "N-10518"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:24:25",
       "investigative_direction": "Find Erika's original tweet and identify the person; check Aurora victim and witness lists.",
@@ -3398,7 +3398,7 @@
         "N-10516"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:24:25",
       "investigative_direction": "Check Ohio school records and classmates for Erika Frantzve and Erika's own account of when she moved.",
@@ -3421,7 +3421,7 @@
         "N-10516"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:25:08",
       "investigative_direction": "Log responses from Ohio schoolmates and check yearbooks for Erika Frantzve.",
@@ -3439,13 +3439,13 @@
       "@id": "C-10180",
       "ref": "C-10180",
       "label": "Host says classmates from Stacy Sheridan's year at Loyola Marymount do not remember Erika and no one has come forward",
-      "claim": "The host says Loyola Marymount is the same school Stacy Sheridan attended, that people from Sheridan's year say they do not remember Erika, and that no one has come forward to say they remember her despite her being mentioned in a program.",
+      "claim": "The host says Loyola Marymount is the same school Stacy Sheridan attended, that people who went there in the same year say they do not remember Erika, and that no one has come forward to say they remember her despite her being mentioned in a program.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10517"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:25:08",
       "investigative_direction": "Obtain the Loyola Marymount program, enrollment verification and alumni accounts for Erika Frantzve.",

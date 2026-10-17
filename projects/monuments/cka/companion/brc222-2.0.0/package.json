@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-17T18:02:57Z",
+  "generated_at": "2026-10-17T20:21:51Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -2198,7 +2198,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10147",
-      "label": "Nicey says Jillian posted on March 6, 2014 a Valentine image Erika sent reading 'I am going to touch your butt'",
+      "label": "Nicey Says Jillian Tweeted a Valentine Image Erika Sent Reading 'I am going to touch your butt' Hours After Her Feb 13, 2014 Reply",
       "node_kind": "claim",
       "episode": 74
     },
@@ -2387,7 +2387,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10174",
-      "label": "DIA beat: host puts out an APB for information",
+      "label": "Host Puts Out an APB for Information",
       "node_kind": "claim",
       "episode": 74
     },
@@ -20370,7 +20370,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12598",
-      "label": "Rob Skiba Says Mount Hermon's Topography Forms a Goat and Links the Fallen Angel Aazil to the Scapegoat",
+      "label": "Rob Skiba Says Mount Hermon's Topography Forms a Goat and Links the Fallen Angel Azazel to the Scapegoat",
       "node_kind": "claim",
       "episode": 69
     },
@@ -21091,7 +21091,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12691",
-      "label": "Host Says Kolvet Said He Was Calling In While Actually Together in DC",
+      "label": "Host Says Patel Said He Was Calling In While Actually Together With Kolvet in DC",
       "node_kind": "claim",
       "episode": 78
     },
@@ -21294,7 +21294,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12718",
-      "label": "Host Says John Bray Explained the Magnet Clasp Would Have Stayed On While What Was Behind It Fell Off",
+      "label": "Host Says Jon Bray Explained the Magnet Clasp Would Have Stayed On While What Was Behind It Fell Off",
       "node_kind": "claim",
       "episode": 78
     },
@@ -21469,7 +21469,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12740",
-      "label": "Host Says John Bray Is Looking Into the Microphone Theory and the Tennessee Explosion",
+      "label": "Host Says Jon Bray Is Looking Into the Microphone Theory and the Tennessee Explosion",
       "node_kind": "claim",
       "episode": 78
     },
@@ -87248,7 +87248,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8382",
-      "label": "Host Says She Warned Charlie About Schaefer Security and Dan Flood",
+      "label": "Host Says She Warned Charlie About Shaffer Security and Dan Flood",
       "node_kind": "claim",
       "episode": 70
     },
