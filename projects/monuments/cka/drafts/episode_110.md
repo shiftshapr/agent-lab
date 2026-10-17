@@ -1203,7 +1203,7 @@ Investigative Direction: Verify BCG employment for both Romney and Netanyahu via
 
 Claim Timestamp: 00:10:30
 
-Claim: Per host (recapping prior episodes), Mitt Romney founded Bain Capital with Israeli spy Robert Maxwell (father of Ghislaine Maxwell, host spelling) as one of his seed investors.
+Claim: Per host (recapping prior episodes), Mitt Romney founded Bain Capital with Israeli spy Robert Maxwell (father of Ghislaine Maxwell, whom the host calls 'Elaine Maxwell') as one of his seed investors.
 
 Anchored Artifacts: A-2076.1
 Mentions: N-28, N-47, N-48
@@ -1530,7 +1530,7 @@ Investigative Direction: Obtain Harpole's direct answer or contracting records f
 
 ---
 
-**C-14647** Host Says an Influencer Campaign With Special Forces Figures Threatened to Take Her Down
+**C-14647** Host Says an Influencer Campaign With Special Forces Figures Made Screaming Threats
 
 Claim Timestamp: 00:12:30
 
@@ -1686,7 +1686,7 @@ Investigative Direction: Check news coverage of BCG's exit from the GHF (the Tim
 
 ---
 
-**C-14657** Host Says Wedi Machmood Was Aboard the Egyptian Plane in Provo on June 2, 2025
+**C-14657** Host Says Wed Mahmoud Was Aboard the Egyptian Plane in Provo on June 2, 2025
 
 Claim Timestamp: 00:26:15
 
@@ -1827,7 +1827,7 @@ Investigative Direction: Check Ginan's byline history at Jezebel and elsewhere; 
 
 ---
 
-**C-14666** Host Says Ginan Bought an Etsy Curse on Charlie Kirk Less Than Ten Days After the White House Debate
+**C-14666** Host Says Guinan Bought an Etsy Curse on Charlie Kirk, Less Than Ten Days After the White House Debate
 
 Claim Timestamp: 00:29:50
 

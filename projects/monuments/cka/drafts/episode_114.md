@@ -1225,7 +1225,7 @@ Investigative Direction: Seek testimony from those aware of the Netanyahu call a
 
 Claim Timestamp: 00:33:45
 
-Claim: The host says that on August 15 Erika Kirk went to the Aspen investor retreat but did not attend the meeting itself, and that Charlie Kirk then appointed her a couple of weeks before he died.
+Claim: The host says that on August 15 Erika Kirk went to the Aspen investor retreat but did not attend the meeting itself, and that Charlie Kirk then appointed her a couple of weeks before he died, a timeline she says is "not right."
 
 Transcript Snippet: Then August 15th, Erika goes to the Aster at the Aspen investor retreat, but she doesn't actually go to the meeting even though she's I guess going to be CEO or whatever.
 

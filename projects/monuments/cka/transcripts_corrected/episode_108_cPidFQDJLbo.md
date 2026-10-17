@@ -143,7 +143,7 @@ That was it. Everyone knows it. It's just a known known. Let me tell you guys so
 
 [22:52]
 
-If Erika is telling the truth, I cannot think of a life event that would have warranted a change in Charlie's will. There may have been one. But in the midst of Charlie telling people that $10 million was missing from his company, allegedly, in the midst of him establishing a DOJ internal audit to locate this alleged $10 million, which was subsequently canceled in the wake of his death. That audit was canceled. Why? In the midst of him texting those closest to him and saying, "They're going to kill me. Tomorrow I I'm I think I am going to be killed." I am fully within my right to wonder if he realized that there were a few snakes in his garden. Who was going to benefit from his death? Did Charlie actually make the appointment alone? Actually, that's a possibility, too.
+If Erika is telling the truth, I cannot think of a life event that would have warranted a change in Charlie's will. There may have been one. But in the midst of Charlie telling people that $10 million was missing from his company, allegedly, in the midst of him establishing a DOGE internal audit to locate this alleged $10 million, which was subsequently canceled in the wake of his death. That audit was canceled. Why? In the midst of him texting those closest to him and saying, "They're going to kill me. Tomorrow I I'm I think I am going to be killed." I am fully within my right to wonder if he realized that there were a few snakes in his garden. Who was going to benefit from his death? Did Charlie actually make the appointment alone? Actually, that's a possibility, too.
 
 [23:50]
 

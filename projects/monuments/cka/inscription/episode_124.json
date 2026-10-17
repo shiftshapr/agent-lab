@@ -400,13 +400,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2125",
       "family_ref": "A-2125",
-      "bundle_name": "Samantha Carner ATF Ballistics Testimony Audio",
+      "bundle_name": "Samantha Karner ATF Ballistics Testimony Audio",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2125.1",
           "ref": "A-2125.1",
-          "description": "Audio of Samantha Carner (ATF ballistics expert) testifying that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch, with Carner's reasoning for the confidence range.",
+          "description": "Audio of Samantha Karner (ATF ballistics expert) testifying that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch, with Carner's reasoning for the confidence range.",
           "related_claims": [
             "C-3013"
           ],
@@ -1767,7 +1767,7 @@
       "@type": "Person",
       "@id": "N-777",
       "ref": "N-777",
-      "name": "Samantha Carner",
+      "name": "Samantha Karner",
       "type": "person",
       "description": "First named by the host at 00:37:36 in episode 124. ATF ballistics expert who testified on day four about bullet fragment 6A.",
       "related_artifacts": [],
@@ -2089,7 +2089,7 @@
       "@id": "C-3013",
       "ref": "C-3013",
       "label": "6A bullet jacket fragment diameter measured 286–301 thousandths of an inch",
-      "claim": "ATF ballistics expert Samantha Carner testified that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch.",
+      "claim": "ATF ballistics expert Samantha Karner testified that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch.",
       "anchored_artifacts": [
         "A-2125.1"
       ],
@@ -3057,8 +3057,8 @@
       "@type": "Claim",
       "@id": "C-7239",
       "ref": "C-7239",
-      "label": "Host Says Samantha Carner Received Only Four of Seven Fragments Taken From Charlie's Body",
-      "claim": "The host says it was weird that seven bullet fragments were reportedly taken from Charlie's body, but ATF ballistics expert Samantha Carner testified she received only four in a manila envelope, three were unusable and she was left with one, labeled 6A.",
+      "label": "Host Says Samantha Karner Received Only Four of Seven Fragments Taken From Charlie's Body",
+      "claim": "The host says it was weird that seven bullet fragments were reportedly taken from Charlie's body, but ATF ballistics expert Samantha Karner testified she received only four in a manila envelope, three were unusable and she was left with one, labeled 6A.",
       "anchored_artifacts": [
         "A-2125.1"
       ],

@@ -174,7 +174,7 @@ I worked to become the man that I wish someone had been when I was a kid to prot
 
 [34:21]
 
-So you you don't know where the house is, you said, right? >> No. Oh no, I was brought there at night. I was 7 years old and I was forced to lie in the back of a car. And do you know what city it was in just out of curiosity? Uh there were two towns or sister towns, Mendenhall and McGee. It was in one of those. Yeah, in Simpson County, Mississippi. Feel free to contact the Sheriff's Department. Okay, thank you. I I I wanted to know about this um like who authorized you to be able to uh summon demons or exorcise demons? You told many stories about uh confronting demons, demanding to know what their names are. Where did you receive that sort of training? Cuz you don't say you're a pastor now. Is that right?
+So you you don't know where the house is, you said, right? >> No. Oh no, I was brought there at night. I was 7 years old and I was forced to lie in the back of a car. And do you know what city it was in just out of curiosity? Uh there were two towns or sister towns, Mendenhall and Magee. It was in one of those. Yeah, in Simpson County, Mississippi. Feel free to contact the Sheriff's Department. Okay, thank you. I I I wanted to know about this um like who authorized you to be able to uh summon demons or exorcise demons? You told many stories about uh confronting demons, demanding to know what their names are. Where did you receive that sort of training? Cuz you don't say you're a pastor now. Is that right?
 
 [35:11]
 

@@ -1063,7 +1063,7 @@ Investigative Direction: Identify the broadcaster and date of the report and che
 
 ---
 
-**C-4420** Protester says the project will have 10,000 rooms and take 10 to 15 years to build
+**C-4420** Speaker in news report says the project will have 10,000 rooms and take 10 to 15 years to build
 
 Claim Timestamp: 00:38:01
 

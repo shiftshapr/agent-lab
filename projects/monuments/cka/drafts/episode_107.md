@@ -680,7 +680,7 @@ Investigative Direction: Obtain HSI/human trafficking specialist records referen
 **C-3706** Victor Marx's daughter publicly alleged paternal abuse
 
 Claim Timestamp: 00:11:03
-Claim: Episode quotes Victor Marx's daughter stating on social media that she experienced abuse at her father's hands for many years; later recanted under alleged pressure.
+Claim: Episode quotes Victor Marx's daughter stating on social media that she experienced abuse at her father's hands for many years; the host says she later recanted many of the allegations, which friends who emailed the show attribute to financial pressure, a claim the host says she cannot confirm.
 Anchored Artifacts: A-2508.1
 Mentions: N-342, N-348
 Investigative Direction: Obtain original social media posts via archived captures; verify timeline of board letter and retraction.
@@ -1583,13 +1583,13 @@ Investigative Direction: Ask the sheriff's department whether a cold-case file e
 
 ---
 
-**C-5717** Marx says he was brought to the site at night near Mendenhall or McGee in Simpson County, Mississippi
+**C-5717** Marx Says He Was Brought to the Site at Night Near Mendenhall or Magee in Simpson County, Mississippi
 
 Claim Timestamp: 00:34:21
 
-Claim: Victor Marx says he was brought there at night at age 7 lying in the back of a car and that the location was in one of two towns, Mendenhall or McGee, in Simpson County, Mississippi, and invites the host to contact the Sheriff's Department.
+Claim: Victor Marx says he was brought there at night at age 7 lying in the back of a car and that the location was in one of two towns, Mendenhall or Magee, in Simpson County, Mississippi, and invites the host to contact the Sheriff's Department.
 
-Transcript Snippet: Uh there were two towns or sister towns, Mendenhall and McGee. It was in one of those. Yeah, in Simpson County, Mississippi.
+Transcript Snippet: Uh there were two towns or sister towns, Mendenhall and Magee. It was in one of those. Yeah, in Simpson County, Mississippi.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-342
@@ -1966,11 +1966,11 @@ Investigative Direction: Ask Focus on the Family or Dobson's organization to con
 
 ---
 
-**C-5742** Marx says his Marine Corps time was served on the President Reagan
+**C-5742** Marx Says He Served in the Marine Corps Under President Reagan
 
 Claim Timestamp: 00:51:20
 
-Claim: Victor Marx says his time in the Marine Corps was served on the President Reagan.
+Claim: Victor Marx says he served in the Marine Corps under President Reagan.
 
 Transcript Snippet: my time in the Marine Corps was I served on the President Reagan.
 

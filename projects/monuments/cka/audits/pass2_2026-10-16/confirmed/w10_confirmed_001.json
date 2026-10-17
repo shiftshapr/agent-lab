@@ -1,0 +1,296 @@
+[
+ {
+  "claim": "C-4126",
+  "episode": 105,
+  "decision": "reject",
+  "fix": {},
+  "note": "Gustave spelling rests on RocketReach/SignalHire people-search listings; unresolved."
+ },
+ {
+  "claim": "C-4194",
+  "episode": 106,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already reads Marc Caputo; existing Mark Caputo->Marc Caputo rule."
+ },
+ {
+  "claim": "C-5677",
+  "episode": 107,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already reads Eileen Breining Marx; existing correction rule."
+ },
+ {
+  "claim": "C-5679",
+  "episode": 107,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already reads Kenneth Breining; existing correction rule."
+ },
+ {
+  "claim": "C-5680",
+  "episode": 107,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current label already reads Kenneth Breining; existing correction rule."
+ },
+ {
+  "claim": "C-5717",
+  "episode": 107,
+  "decision": "accept",
+  "fix": {
+   "claim": "Victor Marx says he was brought there at night at age 7 lying in the back of a car and that the location was in one of two towns, Mendenhall or Magee, in Simpson County, Mississippi, and invites the host to contact the Sheriff's Department.",
+   "label": "Marx Says He Was Brought to the Site at Night Near Mendenhall or Magee in Simpson County, Mississippi",
+   "names": [
+    {
+     "wrong": "McGee",
+     "right": "Magee",
+     "source": "https://www.cityofmagee.ms.gov/"
+    }
+   ]
+  },
+  "note": "Magee and Mendenhall are the sister towns of Simpson County, Mississippi; McGee is a mis-transcription."
+ },
+ {
+  "claim": "C-4236",
+  "episode": 108,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Charlie Kirk set up a DOGE internal audit to locate the alleged missing $10 million and that it was cancelled after his death.",
+   "label": "Charlie Kirk's DOGE internal audit was cancelled after his death",
+   "names": [
+    {
+     "wrong": "DOJ internal audit",
+     "right": "DOGE internal audit",
+     "source": "projects/monuments/cka/transcripts_corrected/episode_133_Vu6Y24pqhZs.md ('established a Doge audit'); node N-10132 TPUSA DOGE Department"
+    }
+   ]
+  },
+  "note": "Kirk set up a TPUSA \"Doge\" audit in Sept 2 memo (Owens, widely reported); \"DOJ\" is a garble of DOGE."
+ },
+ {
+  "claim": "C-4290",
+  "episode": 109,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-642",
+    "N-214"
+   ]
+  },
+  "note": "Claim names Cuccia's thread; N-642 introduced ep109."
+ },
+ {
+  "claim": "C-4292",
+  "episode": 109,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-642",
+    "N-202",
+    "N-318",
+    "N-3",
+    "N-22",
+    "N-645",
+    "N-130",
+    "N-646"
+   ]
+  },
+  "note": "Claim names Cuccia's thread; N-642 introduced ep109."
+ },
+ {
+  "claim": "C-4293",
+  "episode": 109,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-642",
+    "N-210"
+   ]
+  },
+  "note": "Claim names Cuccia's thread; N-642 introduced ep109."
+ },
+ {
+  "claim": "C-4294",
+  "episode": 109,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-642",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Cuccia's thread; N-642 introduced ep109."
+ },
+ {
+  "claim": "C-4295",
+  "episode": 109,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-642",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Cuccia's thread; N-642 introduced ep109."
+ },
+ {
+  "claim": "C-4296",
+  "episode": 109,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-642",
+    "N-202",
+    "N-164",
+    "N-101"
+   ]
+  },
+  "note": "Claim names Cuccia's thread; N-642 introduced ep109."
+ },
+ {
+  "claim": "C-4297",
+  "episode": 109,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-642",
+    "N-647"
+   ]
+  },
+  "note": "Claim names Cuccia's thread; N-642 introduced ep109."
+ },
+ {
+  "claim": "C-4300",
+  "episode": 109,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-642",
+    "N-4"
+   ]
+  },
+  "note": "Claim names Cuccia's thread; N-642 introduced ep109."
+ },
+ {
+  "claim": "C-4570",
+  "episode": 115,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-105"
+   ]
+  },
+  "note": "Claim does not name or refer to Trump."
+ },
+ {
+  "claim": "C-4651",
+  "episode": 116,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "01:09:55"
+  },
+  "note": "\"interning at the ER was Connor Henderson\" spoken ~01:09:59, ~42s before 01:10:41."
+ },
+ {
+  "claim": "C-4659",
+  "episode": 117,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says paver Dan Merrell, in his interview with Jimmy Rex, described his crew as the second team on site that Sunday. According to Merrell, another government team had already been sent to dig out 8 to 10 inches of soil.",
+   "label": "Paver Dan Merrell Says a Government Team Dug Out 8 to 10 Inches of Soil Before He Arrived",
+   "names": [
+    {
+     "wrong": "Dan Merrill",
+     "right": "Dan Merrell",
+     "source": "https://www.listennotes.com/podcasts/the-jimmy-rex-show/689-dan-merrell-contractor-MZ7NROUxJQS/"
+    }
+   ]
+  },
+  "note": "Jimmy Rex Show #689 title: Dan Merrell, contractor."
+ },
+ {
+  "claim": "C-4660",
+  "episode": 117,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the Jimmy Rex interview clip, Dan Merrell says that when he arrived and photographed the site, about 10 inches of dirt had been taken out around the whole area.",
+   "names": [
+    {
+     "wrong": "Dan Merrill",
+     "right": "Dan Merrell",
+     "source": "https://www.listennotes.com/podcasts/the-jimmy-rex-show/689-dan-merrell-contractor-MZ7NROUxJQS/"
+    }
+   ]
+  },
+  "note": "Jimmy Rex Show #689 title: Dan Merrell, contractor."
+ },
+ {
+  "claim": "C-4662",
+  "episode": 117,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says there is no available footage and no eyewitness report of anyone seen firing a shot from the Losee building.",
+   "label": "No Footage or Eyewitness Shows a Shot Fired From the Losee Building",
+   "names": [
+    {
+     "wrong": "Loews E",
+     "right": "Losee",
+     "source": "https://www.highereddive.com/news/kirk-shooter-appeared-to-fire-from-roof-of-university-Losee-student-services-buil/759937/"
+    }
+   ]
+  },
+  "note": "\"Loews E\" is the Losee Center; existing rule covers only \"Loews building\", not \"Loews E\"."
+ },
+ {
+  "claim": "C-2936",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "claim": "In her first Fox 13 interview, Sara Tewell stated that Charlie Kirk was shot directly in the heart from her right side, with a single shot.",
+   "label": "Sara Tewell's First Interview Asserted Shot to Heart",
+   "names": [
+    {
+     "wrong": "Sarah Tool",
+     "right": "Sara Tewell",
+     "source": "https://abcnews.com/US/total-shock-witness-fatal-charlie-kirk-shooting-recounts/story?id=125453787"
+    }
+   ]
+  },
+  "note": "ABC News names the 4th-row UVU witness Sara Tewell (200 yards, to her left); \"Tool\" is mis-transcription."
+ },
+ {
+  "claim": "C-2937",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "claim": "Approximately 51 minutes after her first interview, Sara Tewell stated in local media that Charlie Kirk was shot in the neck.",
+   "label": "Sara Tewell's Second Interview Asserted Shot to Neck",
+   "names": [
+    {
+     "wrong": "Sarah Tool",
+     "right": "Sara Tewell",
+     "source": "https://abcnews.com/US/total-shock-witness-fatal-charlie-kirk-shooting-recounts/story?id=125453787"
+    }
+   ]
+  },
+  "note": "ABC News names the 4th-row UVU witness Sara Tewell; \"Tool\" is mis-transcription."
+ },
+ {
+  "claim": "C-2938",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "claim": "In her ABC News interview, Sara Tewell said she thought the shooter was about 200 yards away and that the shot struck Charlie Kirk in the neck, going \"right into his left side.\"",
+   "label": "Sara Tewell's ABC Interview Asserted Shooter at ~200 Yards",
+   "names": [
+    {
+     "wrong": "Sarah Tool",
+     "right": "Sara Tewell",
+     "source": "https://abcnews.com/US/total-shock-witness-fatal-charlie-kirk-shooting-recounts/story?id=125453787"
+    }
+   ]
+  },
+  "note": "ABC News names the witness Sara Tewell and reports her ~200 yards estimate."
+ }
+]

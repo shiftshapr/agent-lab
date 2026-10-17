@@ -23,7 +23,7 @@
 
 The host opens by noting Thomas Massie's loss in Kentucky and says the fallout from her interview with Victor Marx the day before led her to send preservation letters in her defamation lawsuit with Brian Harpole. She plays Marx's post-interview video on X (A-2599.1) and clips from the interview (A-2600) in which he explains why he was among the first to announce Charlie Kirk's death – about an hour and 20 minutes before the president's announcement. Marx says he watched the shooting once, relied on his team of former special operations men, and then deleted the post as premature. The host rejects this account. She contrasts it with her own September 10 text exchange with Andrew Kolvet (A-2601.1) and argues that Marx, who says he knew Frank Turek and the security team and whose team took over security 48 hours later, would have sought information from them. She says she sent Marx a legal preservation letter (A-2602.1) and another to Paramount Not So Tactical (A-2602.2). She also highlights Marx's text to Erika Kirk that "they just wanted Charlie" (A-2600.3).
 
-The host then says that, according to sources she trusts, Erika Kirk told multiple people that she and Charlie Kirk were due to sign updated end-of-life documents on September 15, 2025 (A-2603.1). She also says Erika communicated that a TPUSA board member would help with the changes, which the host says the Daily Mail later confirmed. She sets out two options – that Erika lied, or that a life event prompted the change – and places the appointment alongside a $10 million corporate life insurance payout, an alleged $10 million missing from TPUSA, a cancelled DOJ internal audit, and Charlie's "they're going to kill me" texts. As a comparison she recounts the Kouri Richins case (A-2604.1), in which she says changes to a will and to life insurance were central to the prosecution, and she invites investigators to contact her.
+The host then says that, according to sources she trusts, Erika Kirk told multiple people that she and Charlie Kirk were due to sign updated end-of-life documents on September 15, 2025 (A-2603.1). She also says Erika communicated that a TPUSA board member would help with the changes, which the host says the Daily Mail later confirmed. She sets out two options – that Erika lied, or that a life event prompted the change – and places the appointment alongside a $10 million corporate life insurance payout, an alleged $10 million missing from TPUSA, a cancelled DOGE internal audit, and Charlie's "they're going to kill me" texts. As a comparison she recounts the Kouri Richins case (A-2604.1), in which she says changes to a will and to life insurance were central to the prosecution, and she invites investigators to contact her.
 
 In shorter segments the host says the White House is still not answering her FOIA request on White House Correspondents' Dinner communications. She mentions an email in which Erika Kirk was "written in as an emotional asset" (A-2605.1) and TPUSA's offer of a private Daily Mail screening of the disputed video. She says press headlines misrepresented a Tyler Robinson defense filing (A-2606) and explains that the defense, still without discovery, wants preliminary-hearing evidence sealed in case it is later ruled inadmissible. She discusses Joe Rogan's remarks about Theo Von, Theo Von's response, and Rogan's recorded apology (A-2607). In the comments she calls a rumor about Erika Kirk trademarking Charlie's name unfounded (A-2608.1). Agreeing with a viewer (A-2608.2), she says Marx's post came around the time Erika and Kolvet learned of the death, and she repeats that Jack Hibbs's circle said Israel knew first.
 
@@ -446,7 +446,7 @@ Still not answering the host's FOIA request on White House Correspondents' Dinne
 
 **N-10132** TPUSA DOGE Department / Financial Audit
 
-The host says Charlie Kirk set up a DOJ internal audit to find an alleged missing $10 million, cancelled after his death.
+The host says Charlie Kirk set up a DOGE internal audit to find an alleged missing $10 million, cancelled after his death.
 
 *Related: C-4235, C-4236*
 
@@ -918,13 +918,13 @@ Investigative Direction: Interview the people Kirk told and review TPUSA financi
 
 ---
 
-**C-4236** Charlie Kirk's DOJ internal audit was cancelled after his death
+**C-4236** Charlie Kirk's DOGE internal audit was cancelled after his death
 
 Claim Timestamp: 00:22:52
 
-Claim: The host says Charlie Kirk set up a DOJ internal audit to locate the alleged missing $10 million and that it was cancelled after his death.
+Claim: The host says Charlie Kirk set up a DOGE internal audit to locate the alleged missing $10 million and that it was cancelled after his death.
 
-Transcript Snippet: in the midst of him establishing a DOJ internal audit to locate this alleged $10 million, which was subsequently canceled in the wake of his death.
+Transcript Snippet: in the midst of him establishing a DOGE internal audit to locate this alleged $10 million, which was subsequently canceled in the wake of his death.
 
 Anchored Artifacts:
 Mentions: N-1

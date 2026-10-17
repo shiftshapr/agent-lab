@@ -3240,6 +3240,42 @@
       [
         93
       ]
+    ],
+    [
+      "\\bDOJ internal audit\\b",
+      "DOGE internal audit",
+      [
+        108
+      ]
+    ],
+    [
+      "\\bDan Merrill\\b",
+      "Dan Merrell"
+    ],
+    [
+      "\\bLoews E\\b",
+      "Losee",
+      [
+        117
+      ]
+    ],
+    [
+      "\\bMendenhall and McGee\\b",
+      "Mendenhall and Magee",
+      [
+        107
+      ]
+    ],
+    [
+      "\\bSarah Tool\\b",
+      "Sara Tewell",
+      [
+        120
+      ]
+    ],
+    [
+      "\\bSamantha Carner\\b",
+      "Samantha Karner"
     ]
   ]
 }

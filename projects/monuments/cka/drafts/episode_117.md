@@ -21,7 +21,7 @@
 
 ## 2. Executive Summary
 
-The host continues her theory that Charlie Kirk's microphone was rigged. She first addresses the St. Michael necklace, playing clips in which a speaker who appears to be Frank Turek and Andrew Kolvet describe it (A-2677). She rejects the idea that the necklace itself was rigged, but argues that, if her theory is right, it would have carried explosive residue, which she says would explain why police looked for it and why it was handed to Erika Kirk. She recaps the oddities she says the theory explains (A-2678.1), cites an article on PETN's high soil absorption (A-2678.2), and plays paver Dan Merrill telling Jimmy Rex that about 10 inches of soil had already been dug out before he arrived (A-2679.1).
+The host continues her theory that Charlie Kirk's microphone was rigged. She first addresses the St. Michael necklace, playing clips in which a speaker who appears to be Frank Turek and Andrew Kolvet describe it (A-2677). She rejects the idea that the necklace itself was rigged, but argues that, if her theory is right, it would have carried explosive residue, which she says would explain why police looked for it and why it was handed to Erika Kirk. She recaps the oddities she says the theory explains (A-2678.1), cites an article on PETN's high soil absorption (A-2678.2), and plays paver Dan Merrell telling Jimmy Rex that about 10 inches of soil had already been dug out before he arrived (A-2679.1).
 
 The host then turns to the wireless mic. According to the host, audio professionals emailed her (A-2682.1) to say that placing a Rode Wireless Pro inside a shirt makes no sense. She shows fall 2024 tour footage in which the mic moves from outside to inside Charlie Kirk's shirt from October 8 (A-2680.2). Using X user Sam Parker's video (A-2683.1), she identifies Philip Goldsberry Jr., on Terryl Farnsworth's team, as the technician who fitted the mic under Charlie's shirt next to the necklace. She says Goldsberry's father, Dr. Philip Goldsberry, an Arizona pastor, co-founded Soter Global Ministries in 2006. According to its website (A-2684), the group worked with orphanages in Romania, Ukraine and Albania and visited a shelter for human trafficking victims. She adds Goldsberry to her "connecting themes" spreadsheet of Eastern European links around Turning Point USA (A-2685.1). The spreadsheet covers Erika Kirk's Romanian Angels Project, Tyler Bowyer's time in Romania and Russia, Rob McCoy's adoption from Russia, Greg Laurie's Harvest church lawsuits, a Kolvet brother stationed in Romania, and donor Nelda Buckman.
 
@@ -92,9 +92,9 @@ Confidence Level: Medium
 
 ---
 
-**A-2679** Dan Merrill Paver Interview Bundle
+**A-2679** Dan Merrell Paver Interview Bundle
 
-**A-2679.1** Clip of paver Dan Merrill's interview with Jimmy Rex on the excavated soil
+**A-2679.1** Clip of paver Dan Merrell's interview with Jimmy Rex on the excavated soil
 
 Quoted text: "When I showed up, I took pictures of what it looked like. They had taken out about 10 in of the dirt around the whole place. Right? You know, you can Right now, you can see where the pavers are. Everything under that, probably 10 in had been excavated."
 
@@ -512,7 +512,7 @@ Named as the people Epstein said in his emails he worked for.
 
 *Related: C-4706*
 
-**N-686** Dan Merrill
+**N-686** Dan Merrell
 
 First named by the host at 00:06:08 in episode 117. The professional paver brought in to pave the crime scene, interviewed by Jimmy Rex.
 
@@ -520,7 +520,7 @@ First named by the host at 00:06:08 in episode 117. The professional paver broug
 
 **N-687** Jimmy Rex
 
-First named by the host at 00:06:08 in episode 117. Interviewer of paver Dan Merrill.
+First named by the host at 00:06:08 in episode 117. Interviewer of paver Dan Merrell.
 
 *Related: C-4659, C-4660, A-2679.1*
 
@@ -888,11 +888,11 @@ Investigative Direction: Identify the cited article and check its PETN soil-sorp
 
 ---
 
-**C-4659** Paver Dan Merrill says a government team dug out 8 to 10 inches of soil before he arrived
+**C-4659** Paver Dan Merrell Says a Government Team Dug Out 8 to 10 Inches of Soil Before He Arrived
 
 Claim Timestamp: 00:06:08
 
-Claim: The host says paver Dan Merrill, in his interview with Jimmy Rex, described his crew as the second team on site that Sunday. According to Merrill, another government team had already been sent to dig out 8 to 10 inches of soil.
+Claim: The host says paver Dan Merrell, in his interview with Jimmy Rex, described his crew as the second team on site that Sunday. According to Merrell, another government team had already been sent to dig out 8 to 10 inches of soil.
 
 Transcript Snippet: just a few days later, they had sent another government team to go in and to dig out all of the soil. 8 to 10 in of soil.
 
@@ -907,7 +907,7 @@ Investigative Direction: Obtain UVU facilities and contractor records for the ex
 
 Claim Timestamp: 00:06:50
 
-Claim: In the Jimmy Rex interview clip, Dan Merrill says that when he arrived and photographed the site, about 10 inches of dirt had been taken out around the whole area.
+Claim: In the Jimmy Rex interview clip, Dan Merrell says that when he arrived and photographed the site, about 10 inches of dirt had been taken out around the whole area.
 
 Transcript Snippet: When I showed up, I took pictures of what it looked like. They had taken out about 10 in of the dirt around the whole place.
 
@@ -934,13 +934,13 @@ Investigative Direction: Request evidence photographs and the evidence inventory
 
 ---
 
-**C-4662** No footage or eyewitness shows a shot fired from the "Loews E" building
+**C-4662** No Footage or Eyewitness Shows a Shot Fired From the Losee Building
 
 Claim Timestamp: 00:07:34
 
-Claim: The host says there is no available footage and no eyewitness report of anyone seen firing a shot from the "Loews E" building.
+Claim: The host says there is no available footage and no eyewitness report of anyone seen firing a shot from the Losee building.
 
-Transcript Snippet: Why there is no available footage or any eyewitness reports of someone seen firing a shot from the Loews E building.
+Transcript Snippet: Why there is no available footage or any eyewitness reports of someone seen firing a shot from the Losee building.
 
 Anchored Artifacts: A-2678.1
 Mentions: 
@@ -1705,7 +1705,7 @@ Investigative Direction: Compare public examples of Erika Kirk's signature over 
 
 Claim Timestamp: 00:49:54
 
-Claim: Answering a viewer comment that quotes the paver's question "what's a paver emergency?", the host says that if a professional paver has never heard of a "paver emergency," something is out of order. She adds that the paver, Dan Merrill, decided to speak out after wondering whether he was part of a cover-up, given that a team had removed the soil before he was brought in to pave.
+Claim: Answering a viewer comment that quotes the paver's question "what's a paver emergency?", the host says that if a professional paver has never heard of a "paver emergency," something is out of order. She adds that the paver, Dan Merrell, decided to speak out after wondering whether he was part of a cover-up, given that a team had removed the soil before he was brought in to pave.
 
 Transcript Snippet: if a professional paver has never heard of a paver emergency, then something is out of order.
 
@@ -2011,7 +2011,7 @@ Confidence: high
 - **Speaker uncertainty in clips**: the necklace clips at 01:20–03:22 are not labelled in the transcript. A-2677.1 appears to be Erika Kirk. A-2677.2 appears to be Frank Turek (consistent with prior C-1962). A-2677.3 is identified as Andrew Kolvet on Laura Ingraham's show only by the host's later remark at 38:48.
 - **Name matching**: "Tyler Bowyer" mapped to N-11 Tyler Bowyer. "Andrew Corbett" (24:24) and "Andrew Kolvet" (55:47) mapped to N-14 Andrew Kolvet from context. "Andrew Cypher" mapped to N-332 Andrew Sypher. "Blakey Naft" mapped to N-160 Blake Neff. "Ryan Harpole" mapped to N-267 Brian Harpole. "Tara", "Taro", "Carol" and "Turrell" Farnsworth mapped to N-262. "Soder" / "Soteria" Global Ministries treated as Soter Global Ministries (N-10989), the spelling the host also uses. "Colonel Otto Busher" (N-690) is kept in transcript spelling; the true name is unverified. "Curtis" is minted as Curtis Kolvet (N-691) on the brother relationship alone. "Laura Ingraham" is minted as Laura Ingraham (N-692); she has no row in nodes.tsv.
 - **Not minted**: "Rick", "Dan" and "Justin" in Harpole's clip (possibly Rick Cutler, Dan Flood and a Justin, who exist in nodes.tsv, but not confirmed from this transcript); Druski ("Druski", no row in nodes.tsv; staging episode 084 mints him as N-686); Ivanka Trump (joke only, used for meme M-109); Natalia (orphan, no surname); Dana Loesch ("Dana Loesch", rhetorical mention only); Tucker Carlson and Baron Coleman (mentions without a claim); Nissy and the Erika Jayne Girardi signature misreading (joke).
-- **Transcription ambiguities**: "Loews E building" (kept as spoken), "road mic" / "road bike" for Rode mic, ".30-ought-six" / ".30-06", "first day date", "Teen Miss America crown" (the title is unverified), "headedtocannasoans. com" (merch URL).
+- **Transcription ambiguities**: "Losee building" (kept as spoken), "road mic" / "road bike" for Rode mic, ".30-ought-six" / ".30-06", "first day date", "Teen Miss America crown" (the title is unverified), "headedtocannasoans. com" (merch URL).
 - **Meme spelling for the integrator**: staging has three titles for the same merch joke ("Stop Anti-Candism" in 112, "Stop Anti-Candaceism" in 111, "Anti-Candacism" in 113); M-107 follows 113 and the transcript spelling. M-109 reuses "Ivanka the Explorer" and M-103 reuses "Snakes in Charlie's Garden" from staging.
 - **Not inscribed as claims (admission test)**:
   - The host's speculation that a shaped charge was meant to hit Charlie Kirk's chest, and that the white shirt was chosen so the blood would look like a chest shot (30:04, 54:23)

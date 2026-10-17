@@ -1394,11 +1394,11 @@ Investigative Direction: Archive any X community note on the clip and seek indep
 
 ---
 
-**C-4818** Rob McCoy predicted the host will go bankrupt from the Harpole lawsuit
+**C-4818** Rob McCoy Predicted the Host Will Go Bankrupt
 
 Claim Timestamp: 00:37:29
 
-Claim: In the sermon clip, Rob McCoy says the host is going to go bankrupt, referring to the lawsuit by Charlie Kirk's chief of security, Brian.
+Claim: In the sermon clip, Rob McCoy says the host is going to go bankrupt, mentions Charlie Kirk's chief of security, Brian, and says "she's done."
 
 Transcript Snippet: She's going to go bankrupt. This next one Charlie's chief of of security Brian this this she's done.
 

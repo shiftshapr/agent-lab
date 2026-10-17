@@ -47,13 +47,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2086",
       "family_ref": "A-2086",
-      "bundle_name": "Sarah Tool Media Interview Bundle",
+      "bundle_name": "Sara Tewell Media Interview Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2086.1",
           "ref": "A-2086.1",
-          "description": "Sarah Tool first interview – Fox 13 – claims Charlie was shot \"directly in his heart,\" shooter to her right, single shot",
+          "description": "Sara Tewell first interview – Fox 13 – claims Charlie was shot \"directly in his heart,\" shooter to her right, single shot",
           "related_claims": [
             "C-2936"
           ],
@@ -73,7 +73,7 @@
           "@type": "Artifact",
           "@id": "A-2086.2",
           "ref": "A-2086.2",
-          "description": "Sarah Tool second interview – local media, ~51 minutes later – claims Charlie was shot \"in the neck,\" blood spurted across body",
+          "description": "Sara Tewell second interview – local media, ~51 minutes later – claims Charlie was shot \"in the neck,\" blood spurted across body",
           "related_claims": [
             "C-2937"
           ],
@@ -93,7 +93,7 @@
           "@type": "Artifact",
           "@id": "A-2086.3",
           "ref": "A-2086.3",
-          "description": "Sarah Tool ABC News interview – claims shooter was ~200 yards away, shot to left side of neck",
+          "description": "Sara Tewell ABC News interview – claims shooter was ~200 yards away, shot to left side of neck",
           "related_claims": [
             "C-2938"
           ],
@@ -589,9 +589,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10677",
       "ref": "N-10677",
-      "name": "Sarah Tool Witness Statement Discrepancy",
+      "name": "Sara Tewell Witness Statement Discrepancy",
       "type": "investigation_target",
-      "description": "Contradiction node: chest/heart vs. neck wound location and 200-yard shooter distance claim, across three successive Sarah Tool interviews.",
+      "description": "Contradiction node: chest/heart vs. neck wound location and 200-yard shooter distance claim, across three successive Sara Tewell interviews.",
       "related_artifacts": [
         "A-2086.1",
         "A-2086.2",
@@ -1707,7 +1707,7 @@
       "@type": "Person",
       "@id": "N-732",
       "ref": "N-732",
-      "name": "Sarah Tool",
+      "name": "Sara Tewell",
       "type": "person",
       "description": "First named by the host at 00:17:36 in episode 120 (rendered \"Sarah uh Tool\" in the transcript). Front-row student witness who gave three successive media interviews about the shot.",
       "related_artifacts": [],
@@ -1838,8 +1838,8 @@
       "@type": "Claim",
       "@id": "C-2936",
       "ref": "C-2936",
-      "label": "Sarah Tool's First Interview Asserted Shot to Heart",
-      "claim": "In her first Fox 13 interview, Sarah Tool stated that Charlie Kirk was shot directly in the heart from her right side, with a single shot.",
+      "label": "Sara Tewell's First Interview Asserted Shot to Heart",
+      "claim": "In her first Fox 13 interview, Sara Tewell stated that Charlie Kirk was shot directly in the heart from her right side, with a single shot.",
       "anchored_artifacts": [
         "A-2086.1"
       ],
@@ -1848,7 +1848,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:25",
-      "investigative_direction": "Obtain original Fox 13 footage; verify timestamp and quoted language against Sarah Tool's subsequent statements.",
+      "investigative_direction": "Obtain original Fox 13 footage; verify timestamp and quoted language against Sara Tewell's subsequent statements.",
       "mentions_person_refs": [
         "N-732",
         "N-1"
@@ -1858,8 +1858,8 @@
       "@type": "Claim",
       "@id": "C-2937",
       "ref": "C-2937",
-      "label": "Sarah Tool's Second Interview Asserted Shot to Neck",
-      "claim": "Approximately 51 minutes after her first interview, Sarah Tool stated in local media that Charlie Kirk was shot in the neck.",
+      "label": "Sara Tewell's Second Interview Asserted Shot to Neck",
+      "claim": "Approximately 51 minutes after her first interview, Sara Tewell stated in local media that Charlie Kirk was shot in the neck.",
       "anchored_artifacts": [
         "A-2086.2"
       ],
@@ -1878,8 +1878,8 @@
       "@type": "Claim",
       "@id": "C-2938",
       "ref": "C-2938",
-      "label": "Sarah Tool's ABC Interview Asserted Shooter at ~200 Yards",
-      "claim": "In her ABC News interview, Sarah Tool said she thought the shooter was about 200 yards away and that the shot struck Charlie Kirk in the neck, going \"right into his left side.\"",
+      "label": "Sara Tewell's ABC Interview Asserted Shooter at ~200 Yards",
+      "claim": "In her ABC News interview, Sara Tewell said she thought the shooter was about 200 yards away and that the shot struck Charlie Kirk in the neck, going \"right into his left side.\"",
       "anchored_artifacts": [
         "A-2086.3"
       ],
@@ -2111,7 +2111,7 @@
       "@id": "C-5784",
       "ref": "C-5784",
       "label": "Host says she is being sued over the Harpole car-crash interview",
-      "claim": "The host says Brian Harpole joined Shawn Ryan for an interview about the car ride and that she is being sued over it.",
+      "claim": "The host says Brian Harpole joined Shawn Ryan for what she calls a \"car crash interview,\" and that she is being sued over it.",
       "anchored_artifacts": [
         "A-2085.1"
       ],
@@ -2376,8 +2376,8 @@
       "@type": "Claim",
       "@id": "C-5797",
       "ref": "C-5797",
-      "label": "Sarah Tool said the shot came during the question on transgenderism and gun violence",
-      "claim": "In her first interview, Sarah Tool says the second student was talking about transgenderism and gun violence when the shot happened.",
+      "label": "Sara Tewell said the shot came during the question on transgenderism and gun violence",
+      "claim": "In her first interview, Sara Tewell says the second student was talking about transgenderism and gun violence when the shot happened.",
       "anchored_artifacts": [
         "A-2086.1"
       ],
@@ -2396,7 +2396,7 @@
       "@type": "Claim",
       "@id": "C-5798",
       "ref": "C-5798",
-      "label": "Sarah Tool's two interviews were at about 1:17 p.m. and 2:08 p.m.",
+      "label": "Sara Tewell's two interviews were at about 1:17 p.m. and 2:08 p.m.",
       "claim": "The host says the first interview was at 1:17 p.m. and the second about 50 minutes later at around 2:08 p.m., with the story changed.",
       "anchored_artifacts": [
         "A-2086.1",
@@ -2418,7 +2418,7 @@
       "@id": "C-5799",
       "ref": "C-5799",
       "label": "Host says Tool's 200-yard estimate matches the distance to Losee Center",
-      "claim": "The host says Sarah Tool's ABC News estimate of how far away the shot was fired matches the distance to Loews Center.",
+      "claim": "The host says Sara Tewell's ABC News estimate of how far away the shot was fired matches the distance to Loews Center.",
       "anchored_artifacts": [
         "A-2086.3"
       ],
@@ -3659,7 +3659,7 @@
           "video_timestamp": "00:18:25",
           "speaker_node_ref": "N-3",
           "quote": "Here is her first interview to jog your memory.",
-          "context": "Host introduces Sarah Tool's first interview.",
+          "context": "Host introduces Sara Tewell's first interview.",
           "confidence": "high",
           "tags": [
             "reuse"
