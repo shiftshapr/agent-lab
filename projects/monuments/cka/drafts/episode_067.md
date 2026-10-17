@@ -68,7 +68,7 @@ Confidence Level: Medium (host reads selectively; full letter not displayed)
 
 **A-1715** TikTok Contrarian Epstein Compilation Bundle
 
-**A-1715.1** Compiled video segment of Epstein email excerpts referencing Israel, Rothschilds, Roger Schank conversation, Peggy Siegal "wasp" comment, Joshua Finkelstein/Larry Finkelstein reference, Svetlana abortion pressure comment, and Maria Farmer "Jewish country club" quote
+**A-1715.1** Compiled video segment of Epstein email excerpts referencing Israel, Rothschilds, Roger Schank conversation, Peggy Siegal "wasp" comment, Joshua Fink/Larry Fink reference, Svetlana abortion pressure comment, and Maria Farmer "Jewish country club" quote
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -180,7 +180,7 @@ Confidence Level: High (Turek on camera; named show)
 
 **A-1723** WikiLeaks Podesta Email Bundle
 
-**A-1723.1** WikiLeaks-released email from Katherine Tate to John Podesta referencing "a handkerchief" that "seems pizza-related" and "weird specific orders of pizza and hot dogs"
+**A-1723.1** WikiLeaks-released email from Kathryn Tate to John Podesta referencing "a handkerchief" that "seems pizza-related" and "weird specific orders of pizza and hot dogs"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -370,7 +370,7 @@ Investigative Pressure: Medium (due to direct Epstein-email reference)
 
 **N-9** Jeffrey Epstein
 
-Financier and convicted sex offender; subject of 2024-2026 document releases; named in Peter Thiel, Joshua Finkelstein, Susan Hamblin, and Jay-Z email contexts.
+Financier and convicted sex offender; subject of 2024-2026 document releases; named in Peter Thiel, Joshua Fink, Susan Hamblin, and Jay-Z email contexts.
 
 Evidence Count: 7
 Claim Count: 5
@@ -576,7 +576,7 @@ Investigative Pressure: Low
 
 *Related: N-9*
 
-**N-531** Katherine Tate
+**N-531** Kathryn Tate
 
 Sender of pizza-referencing email to John Podesta released via WikiLeaks.
 
@@ -1238,11 +1238,11 @@ Investigative Direction: Locate the underlying email between Epstein and Roger S
 
 ---
 
-**C-2256** Joshua Finkelstein Accused of Treating Non-Jews as Not Human
+**C-2256** Joshua Fink Accused of Treating Non-Jews as Not Human
 
 Claim Timestamp: 00:11:37
 
-Claim: Per the compilation, Joshua Finkelstein (described as BlackRock's Larry Finkelstein's son) is accused by his ex-girlfriend Svetlana of not having any respect for non-Jews and seeing them as not human, and the compilation says he pressures her to have an abortion.
+Claim: Per the compilation, Joshua Fink (described as BlackRock's Larry Fink's son) is accused by his ex-girlfriend Svetlana of not having any respect for non-Jews and seeing them as not human, and the compilation says he pressures her to have an abortion.
 
 Anchored Artifacts: A-1715.1
 Mentions: 
@@ -1421,7 +1421,7 @@ Investigative Direction: Obtain timestamp metadata from the original screenshot 
 
 ---
 
-**C-2269** Josh Hammer Describes Sept 9 Zoom Call With Charlie Kirk and Rabbi
+**C-2269** Josh Hammer Describes Sept 9 Zoom Call With Charlie Kirk
 
 Claim Timestamp: 00:39:29
 
@@ -1466,11 +1466,11 @@ Investigative Direction: Verify against Charlie Kirk's text message timestamp; c
 
 ---
 
-**C-2272** WikiLeaks Email From Katherine Tate to Podesta References Pizza-Related Handkerchief
+**C-2272** WikiLeaks Email From Kathryn Tate to Podesta References Pizza-Related Handkerchief
 
 Claim Timestamp: 00:14:46
 
-Claim: The host reads an email she says was sent to John Podesta by Katherine Tate, published by WikiLeaks, saying a realtor found a handkerchief, "I think it has a map that seems pizza-related", and mentioning "weird specific orders of pizza and hot dogs."
+Claim: The host reads an email she says was sent to John Podesta by Kathryn Tate, published by WikiLeaks, saying a realtor found a handkerchief, "I think it has a map that seems pizza-related", and mentioning "weird specific orders of pizza and hot dogs."
 
 Anchored Artifacts: A-1723.1
 Mentions: N-531, N-532
@@ -2278,7 +2278,7 @@ Investigative Direction: Search the WikiLeaks Clinton emails for 'Gilgamesh'; th
 
 Claim Timestamp: 00:35:43
 
-Claim: The host says the Kiddush cup is the traditional symbol of Judaism and that, per Wikipedia, the Star of David did not emerge until the 17th century, when a mystic who declared himself Messiah in 1666 adopted it from Solomon's seal.
+Claim: The host says the Kiddush cup is the traditional symbol of Judaism and that, per Wikipedia, the Star of David did not emerge until the 17th century; she says that in 1666 'that guy who was a mystic declared himself to be the Messiah and they adopted this symbol' from Solomon's seal.
 
 Transcript Snippet: The Kiddush cup, that is the traditional symbol of Judaism. It even says this on Wikipedia that this did not emerge until the 17th century, right, 1666 was when that guy who was a mystic declared himself to be the Messiah
 

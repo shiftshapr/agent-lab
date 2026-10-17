@@ -45,7 +45,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ## II. Executive Summary
 
-This episode centers on two principal evidentiary threads. The first is the introduction of exclusive, never-before-seen UVU footage depicting Butch (Burton) Hibbs Jr. – brother of Calvary Chapel Chino Hills pastor Jack Hibbs – recorded immediately after the September 10th shooting. Host Candace Owens presents the footage as showing Hibbs calmly opening his camera app and filming multiple angles rather than rendering aid, fleeing, or making emergency calls. She also presents stills showing Hibbs on a phone call roughly five minutes after the shot, not visibly distressed, and walking behind news interviewees. Owens connects this footage to public statements by Jack Hibbs, including a Facebook video in which Jack claims to have learned of Charlie Kirk's death "from Israeli news service," and audio interviews Jack gave to Frank Turek and to Fox News' Todd Starns about his brother's last-minute UVU attendance and the post-shooting call sequence. Owens highlights apparent inconsistencies in Jack Hibbs's account, including his confusion between Charlie Kirk and "cousin Charlie," and the implausibly tight timeline between the shooting and the reported 12:30 PM FaceTime prayer chain.
+This episode centers on two principal evidentiary threads. The first is the introduction of exclusive, never-before-seen UVU footage depicting Butch (Burton) Hibbs Jr. – brother of Calvary Chapel Chino Hills pastor Jack Hibbs – recorded immediately after the September 10th shooting. Host Candace Owens presents the footage as showing Hibbs calmly opening his camera app and filming multiple angles rather than rendering aid, fleeing, or making emergency calls. She also presents stills showing Hibbs on a phone call roughly five minutes after the shot, not visibly distressed, and walking behind news interviewees. Owens connects this footage to public statements by Jack Hibbs, including a Facebook video in which Jack claims to have learned of Charlie Kirk's death "from Israeli news service," and audio interviews Jack gave to Frank Turek and to Fox News' Todd Starnes about his brother's last-minute UVU attendance and the post-shooting call sequence. Owens highlights apparent inconsistencies in Jack Hibbs's account, including his confusion between Charlie Kirk and "cousin Charlie," and the implausibly tight timeline between the shooting and the reported 12:30 PM FaceTime prayer chain.
 
 The second thread addresses the Tyler Robinson preliminary hearing decision day, where Judge Graf was expected to rule on the defense's motion to dismiss charges 1, 6, and 7 (aggravated murder, witness-tampering-via-Miranda-advice, and violent-offense-in-presence-of-a-child). Owens reviews the prosecution's reliance on Pennsylvania aggravated-murder jurisprudence despite Pennsylvania's active death-penalty moratorium. Courthouse attendee footage is presented identifying Andrew Kolvet, Pastor James Kaddis, Charlie Kirk's parents, Stacy Sheridan, and Tracy Martin arriving at the hearing. Erika Kirk was present but not captured on camera. The host also identifies an unidentified individual in a pink hat and blue shirt visible in UVU 9/10 photos and asks the audience to help identify them.
 
@@ -163,9 +163,9 @@ Confidence Level: High
 
 ---
 
-### A-2323 Jack Hibbs / Todd Starns Fox News Audio Bundle
+### A-2323 Jack Hibbs / Todd Starnes Fox News Audio Bundle
 
-**A-2323.1** Jack Hibbs audio interview with Todd Starns (Fox News) – brother Butch's front-row seat and post-shooting call
+**A-2323.1** Jack Hibbs audio interview with Todd Starnes (Fox News) – brother Butch's front-row seat and post-shooting call
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -442,7 +442,7 @@ Jack Hibbs; pastor whose interviews and accounts the episode analyzes.
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Elizabeth McCoy; on Mikey McCoy's call log.
 
@@ -762,7 +762,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-791** Todd Starns
+**N-791** Todd Starnes
 
 First named by the host at 00:13:30 in episode 146 (spelled Starns; possibly Starnes). Fox News figure who interviewed Jack Hibbs on audio.
 
@@ -1485,11 +1485,11 @@ Investigative Direction: Check Calvary Chapel Utah church listings and filings f
 
 ---
 
-**C-7628** Jack Hibbs Tells Todd Starns That His Brother Phoned Him With Screaming Audible
+**C-7628** Jack Hibbs Tells Todd Starnes That His Brother Phoned Him With Screaming Audible
 
 Claim Timestamp: 00:13:30
 
-Claim: In an audio-only Fox News interview with Todd Starns, Jack Hibbs says his brother called him, that he could hear people screaming and yelling, and that his brother told him Charlie had been shot.
+Claim: In an audio-only Fox News interview with Todd Starnes, Jack Hibbs says his brother called him, that he could hear people screaming and yelling, and that his brother told him Charlie had been shot.
 
 Transcript Snippet: my brother's calling me and I can hear people screaming and yelling and I can hear my brother telling me, "Charlie's just been shot.
 
@@ -2689,7 +2689,7 @@ Confidence: high
 - **Name uncertainty – "Frank Turek" / "Frank Turek"**: Transcript alternates between "Churik" and "Turk"; host also references him as "the Yankin and Bankan Franken Turk." Confirm full legal name.
 - **Name uncertainty – "Marissa Streit"**: Likely intended reference to a PragerU executive publicly associated with Unit 8200 background; preserve as transcribed.
 - **Name uncertainty – "James Kaddis" / "Cadiz"**: Transcript primarily renders as "Kaddis"; verify against Calvary Chapel Signal Hill staff listings.
-- **Name uncertainty – "Todd Starns"**: Possibly intended as "Todd Starnes" (Fox News contributor); preserve as transcribed.
+- **Name uncertainty – "Todd Starnes"**: Possibly intended as "Todd Starnes" (Fox News contributor); preserve as transcribed.
 - **Name uncertainty – "Lance Twiggs"**: Short reference in transcript; likely a transcript rendering error of a different surname; verify.
 - **Possible transcription error – "FAR filing docks"**: Likely refers to "FARA" (Foreign Agents Registration Act) filings; flag for verification.
 - **Name uncertainty – "Bill Ackman"**: Likely refers to Bill Ackman; preserve as transcribed.

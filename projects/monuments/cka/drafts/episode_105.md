@@ -352,7 +352,7 @@ First named by the host at 00:38:02 in episode 105. The person behind the Paramo
 
 *Related: C-4153, C-4155, C-4156, A-2587.1, A-2587.2*
 
-**N-632** John Mark Burns
+**N-632** Mark Burns
 
 First named by the host at 00:42:00 in episode 105. Evangelical pastor defending the golden Trump statue.
 

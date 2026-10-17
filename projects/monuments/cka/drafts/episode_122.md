@@ -39,7 +39,7 @@
 
 # II. Executive Summary
 
-Episode 122 advances three investigative threads from prior installments. First, the host displays a series of audience photographs showing multiple young men wearing maroon shirts alone in the September 10 audience, plus video clips of David Sprag / James Norman Rawlinson Jr. attending the event. An audio clip of Rawlinson's X account in which he claims service in the 19th Special Forces with a maroon beret is played in full. The host ties this to a photograph allegedly showing Rawlinson deployed in Romania at Mihail Kogălniceanu air base in 2023, displayed alongside an article identifying Task Force 82's location there.
+Episode 122 advances three investigative threads from prior installments. First, the host displays a series of audience photographs showing multiple young men wearing maroon shirts alone in the September 10 audience, plus video clips of David Sprague / James Norman Rawlinson Jr. attending the event. An audio clip of Rawlinson's X account in which he claims service in the 19th Special Forces with a maroon beret is played in full. The host ties this to a photograph allegedly showing Rawlinson deployed in Romania at Mihail Kogălniceanu air base in 2023, displayed alongside an article identifying Task Force 82's location there.
 
 Second, the episode shifts to a new allegation: that Jean-Luc Brunel co-founded Next Model Management with Faith Kates, and that Erika Kirk was involved in "modeling apartments" for underaged models at that agency. This is connected to a pending class action lawsuit against Next Model Management and MC2. A 60 Minutes clip of former Mossad agents describing Israeli operations as a "Truman Show" production company is played as a framing artifact.
 
@@ -73,9 +73,9 @@ Confidence Level: Medium
 
 ---
 
-**A-2105** David Sprag Audience Video Bundle
+**A-2105** David Sprague Audience Video Bundle
 
-**A-2105.1** Video clip of David Sprag standing and appearing to cheer after the shot
+**A-2105.1** Video clip of David Sprague standing and appearing to cheer after the shot
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -85,7 +85,7 @@ Confidence Level: Medium
 
 *Related: C-2971*
 
-**A-2105.2** Video clip of David Sprag and companion standing under umbrellas at the event
+**A-2105.2** Video clip of David Sprague and companion standing under umbrellas at the event
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -321,9 +321,9 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-817** David Sprag
+**N-817** David Sprague
 
-First named by the host at 00:05:36 in episode 122 (David Sprag; later James Norman Rawlinson Jr., also spelled James Rawlinson, David L. Rawlinson and James Rolleston in the transcript). Man who stood and cheered after the shot and whom the host links to the Utah National Guard and the 19th Special Forces.
+First named by the host at 00:05:36 in episode 122 (David Sprague; later James Norman Rawlinson Jr., also spelled James Rawlinson, David L. Rawlinson and James Rolleston in the transcript). Man who stood and cheered after the shot and whom the host links to the Utah National Guard and the 19th Special Forces.
 
 *Related: C-8829, C-8830, C-8831, C-8832, C-8833, C-8834, C-8835, C-8836, C-8840, C-8841, C-8842*
 
@@ -332,7 +332,7 @@ First named by the host at 00:05:36 in episode 122 (David Sprag; later James Nor
 **N-11193** Rawlinson Name Change and Background Inquiry
 
 Node Type: Topic
-The host's inquiry into why David Sprag changed his name from James Norman Rawlinson Jr., his stated reasons and the host's inability to confirm his father's alleged crime.
+The host's inquiry into why David Sprague changed his name from James Norman Rawlinson Jr., his stated reasons and the host's inability to confirm his father's alleged crime.
 
 *Related: C-8832, C-8833, C-8834, C-8835, C-8841*
 
@@ -1091,11 +1091,11 @@ Investigative Direction: Obtain full uncirculated video footage from multiple an
 
 ---
 
-**C-2971** Video clip shows David Sprag standing and appearing to cheer after the shot
+**C-2971** Video clip shows David Sprague standing and appearing to cheer after the shot
 
 Claim Timestamp: 00:06:15
 
-Claim: A video clip displayed during the episode shows David Sprag (James Norman Rawlinson Jr.) standing and appearing to cheer shortly after the gunshot.
+Claim: A video clip displayed during the episode shows David Sprague (James Norman Rawlinson Jr.) standing and appearing to cheer shortly after the gunshot.
 
 Anchored Artifacts: A-2105.1
 Mentions: N-817
@@ -1104,11 +1104,11 @@ Investigative Direction: Cross-reference the clip with public statements by Rawl
 
 ---
 
-**C-2972** Video clip shows David Sprag and a companion standing under umbrellas at the event
+**C-2972** Video clip shows David Sprague and a companion standing under umbrellas at the event
 
 Claim Timestamp: 00:07:09
 
-Claim: A video clip displayed during the episode shows David Sprag and an unidentified companion standing together under umbrellas while Charlie Kirk's event begins.
+Claim: A video clip displayed during the episode shows David Sprague and an unidentified companion standing together under umbrellas while Charlie Kirk's event begins.
 
 Anchored Artifacts: A-2105.2
 Mentions: N-1, N-817
@@ -1440,7 +1440,7 @@ Investigative Direction: Trace how the cheering clip was amplified (accounts, da
 
 Claim Timestamp: 00:06:15
 
-Claim: The host says the man identified as David Sprag gave an interview clarifying that he was not cheering because Charlie was hurt but was trying to push the crowd into a patriotic cheer.
+Claim: The host says the man identified as David Sprague gave an interview clarifying that he was not cheering because Charlie was hurt but was trying to push the crowd into a patriotic cheer.
 
 Transcript Snippet: He came out, he did an interview clarifying that he wasn't cheering because Charlie was hurt.
 
@@ -1470,11 +1470,11 @@ Investigative Direction: Identify the companion and compare Sprag's stated age w
 
 ---
 
-**C-8832** Host Says David Sprag's Birth Name Is James Norman Rawlinson Jr.
+**C-8832** Host Says David Sprague's Birth Name Is James Norman Rawlinson Jr.
 
 Claim Timestamp: 00:07:09
 
-Claim: The host says David Sprag is not his original name and that his actual birth name is James Norman Rawlinson Jr.
+Claim: The host says David Sprague is not his original name and that his actual birth name is James Norman Rawlinson Jr.
 
 Transcript Snippet: We learned that his actual birth name is James Norman Rawlinson Jr.
 

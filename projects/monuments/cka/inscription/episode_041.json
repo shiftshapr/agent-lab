@@ -196,7 +196,7 @@
           "@type": "Artifact",
           "@id": "A-1500.1",
           "ref": "A-1500.1",
-          "description": "Photograph of President El-Sisi meeting Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025",
+          "description": "Photograph of President El-Sisi meeting Tunisian Prime Minister Sarra Zaafrani in Egypt on September 10, 2025",
           "related_claims": [
             "C-1835"
           ],
@@ -402,7 +402,7 @@
       "@type": "Person",
       "@id": "N-307",
       "ref": "N-307",
-      "name": "Sara Zaafarani",
+      "name": "Sarra Zaafrani",
       "type": "person",
       "description": "Tunisian Prime Minister. Photographed with President El-Sisi in Egypt on September 10, 2025, per host assertion; used as alibi for El-Sisi.",
       "related_artifacts": [
@@ -1015,7 +1015,7 @@
       "@type": "Claim",
       "@id": "C-1832",
       "ref": "C-1832",
-      "label": "TPUSA Midnight Debate Announcement",
+      "label": "Neff Tweet Announcing the December 15 Livestream",
       "claim": "TPUSA's Blake Neff issued a tweet near midnight on December 4, 2025 announcing a formal response livestream scheduled for December 15, 2025 at 4:00 PM Eastern / 2:00 PM local in Phoenix, with a 24-hour countdown for Candace to confirm in-person attendance.",
       "anchored_artifacts": [
         "A-1495.1"
@@ -1073,7 +1073,7 @@
       "@id": "C-1835",
       "ref": "C-1835",
       "label": "El-Sisi Photographed in Egypt on September 10, 2025",
-      "claim": "The host says President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025, which she cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.",
+      "claim": "The host says President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sarra Zaafrani in Egypt on September 10, 2025, which she cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10897"
@@ -1358,7 +1358,7 @@
       "@type": "Claim",
       "@id": "C-5156",
       "ref": "C-5156",
-      "label": "Host Says TPUSA Pastors Call Her Questions Demonic and Possessed",
+      "label": "Host Says Neff Name-Called and the Pastors Call It Demonic",
       "claim": "The host says that Blake Neff name-called and that the pastors in TPUSA's orbit have been saying her questions are demonic and possessed.",
       "anchored_artifacts": [],
       "related_nodes": [

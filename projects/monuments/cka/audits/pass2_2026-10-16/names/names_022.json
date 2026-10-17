@@ -1,0 +1,299 @@
+[
+ {
+  "id": "N-841",
+  "name": "Samuel Roth",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-842",
+  "name": "Magnus Hirschfeld",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-843",
+  "name": "Adam Lanza",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-844",
+  "name": "Andrew Cuomo",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Kuomo"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-845",
+  "name": "Michael Bloomberg",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-846",
+  "name": "Joe Gebbia",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Joseph Gbia"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-847",
+  "name": "Jeffrey Moussaieff Masson",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Jeffrey Mason",
+   "Jeffrey Mone"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-848",
+  "name": "Theodor Herzl",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Theodore Herzel"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-849",
+  "name": "Tony Burke",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-850",
+  "name": "Jimmy Dore",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-851",
+  "name": "Lauren Chen",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-852",
+  "name": "Austin Erickson",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "No web source found for TPUSA staffers Dylan/Austin Erickson; transcript spells both Erickson and Ericson."
+ },
+ {
+  "id": "N-853",
+  "name": "Amber Robinson",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Tyler Robinson's mother."
+ },
+ {
+  "id": "N-854",
+  "name": "Pete McCormick",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Payton McCormick's grandfather per host; not verified online."
+ },
+ {
+  "id": "N-855",
+  "name": "Allan McCormick",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Payton McCormick's father per host; not verified online."
+ },
+ {
+  "id": "N-856",
+  "name": "Myron Gaines",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-857",
+  "name": "Bob Ferguson",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Iowa man misidentified as Bob Flood; name as host corrected it."
+ },
+ {
+  "id": "N-858",
+  "name": "Kenneth Starr",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-859",
+  "name": "Merrick Garland",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-860",
+  "name": "Stephen Miller",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-861",
+  "name": "Les Wexner",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-862",
+  "name": "Frank Carney",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Not found with Justin Streiff/FBI; not in corrected transcripts."
+ },
+ {
+  "id": "N-863",
+  "name": "Matt Sarelson",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Harpole's attorney (Dhillon Law Group); confirmed by Newsweek/USA Herald coverage."
+ },
+ {
+  "id": "N-864",
+  "name": "Agent Hoole",
+  "verdict": "wrong",
+  "correct": "David Hull",
+  "source": "https://thepostmillennial.com/tyler-robinsons-interaction-with-officers-on-uvu-campus-following-charlie-kirk-shooting-led-them-to-take-note-of-license-plate-detective-testimony",
+  "bad_aliases": [],
+  "note": "Utah DPS State Bureau of Investigation Agent David Hull testified at Robinson's preliminary hearing about the vehicle and officer contact; 'Hoole' is a phonetic transcription."
+ },
+ {
+  "id": "N-865",
+  "name": "Officer Goforth",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Name heard in hearing clip; not found in press coverage."
+ },
+ {
+  "id": "N-866",
+  "name": "Haim Braverman",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "NJ man who pleaded guilty to threatening Owens (Cleveland Jewish News/JTA)."
+ },
+ {
+  "id": "N-867",
+  "name": "Britta Weidner",
+  "verdict": "unresolved",
+  "bad_aliases": [
+   "No Soup for Noels",
+   "Britta Whitener",
+   "Brita"
+  ],
+  "note": "X user 'No Soup For You'; no web source found; host says 'Britta Weidner' in ep16. 'Whitener'/'Noels' are mis-transcriptions."
+ },
+ {
+  "id": "N-868",
+  "name": "Michael George Carl",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Affiant on Utah County warrants per Baron Coleman; not found online."
+ },
+ {
+  "id": "N-869",
+  "name": "David Leavitt",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Former Utah County Attorney (host calls him AG)."
+ },
+ {
+  "id": "N-870",
+  "name": "Justin Bieber",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-871",
+  "name": "Stephen A. Smith",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-872",
+  "name": "Dana White",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-873",
+  "name": "Steve Witkoff",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Steve Witco"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-874",
+  "name": "Britney Spears",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-875",
+  "name": "Jamie Lynn Spears",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-876",
+  "name": "Tony Blair",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-877",
+  "name": "Paris Jackson",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-878",
+  "name": "Spencer Pratt",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-879",
+  "name": "Jean-Michel Trogneux",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-880",
+  "name": "Eric Dupond-Moretti",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ }
+]

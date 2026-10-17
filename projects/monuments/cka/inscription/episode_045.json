@@ -360,7 +360,7 @@
           "@type": "Artifact",
           "@id": "A-1532.2",
           "ref": "A-1532.2",
-          "description": "Identification chain via email: Captain at the September 9 Fort Huachuca meeting positively identified as Adam Nef of the 10th Mountain Division (witness confirmed 100% after earlier 60-65% certainty)",
+          "description": "Identification chain via email: Captain at the September 9 Fort Huachuca meeting positively identified as Adam Neff of the 10th Mountain Division (witness confirmed 100% after earlier 60-65% certainty)",
           "related_claims": [
             "C-1907"
           ],
@@ -530,7 +530,7 @@
       "@type": "Person",
       "@id": "N-320",
       "ref": "N-320",
-      "name": "Captain Adam Nef",
+      "name": "Captain Adam Neff",
       "type": "person",
       "description": "Positively identified in this episode as the U.S. Army captain of the 10th Mountain Division who interrogated the Fort Huachuca witness (\"Harry\") on September 9, 2025. Distinct from Blake Neff (Fox News personality mentioned in same episode).",
       "related_artifacts": [
@@ -909,7 +909,7 @@
       "ref": "N-361",
       "name": "Harry",
       "type": "person",
-      "description": "The Fort Huachuca witness whose account, documentation and identification of Captain Nef are discussed.",
+      "description": "The Fort Huachuca witness whose account, documentation and identification of Captain Neff are discussed.",
       "related_artifacts": [],
       "related_claims": [
         "C-8096",
@@ -1337,7 +1337,7 @@
       "@id": "C-1900",
       "ref": "C-1900",
       "label": "Erika Kirk attended Sergio Gor ambassador swearing-in",
-      "claim": "Erika Kirk appeared at Sergio Gor's swearing-in ceremony as US Ambassador to India, delivering a brief speech in which she stated \"Charlie loved you\" and \"Charlie is going to be with you every single day in spirit.\"",
+      "claim": "In a clip the host plays of Sergio Gor's swearing-in ceremony as US Ambassador to India, Erika Kirk delivers a brief speech in which she says \"Charlie loved you\" and \"Charlie is going to be with you every single day in spirit.\"",
       "anchored_artifacts": [
         "A-1527.1"
       ],
@@ -1393,7 +1393,7 @@
       "@id": "C-1903",
       "ref": "C-1903",
       "label": "Pre-event X posts predicted Charlie Kirk killing",
-      "claim": "Tucker Carlson stated that individuals posted on X predicting that Charlie Kirk would be killed on a specific date prior to the assassination, and questioned whether the FBI had interviewed those posters.",
+      "claim": "In the Theo Von clip the host plays, Tucker Carlson says that individuals posted on X predicting that Charlie Kirk would be killed on a specific date prior to the assassination, and questions whether the FBI had interviewed those posters.",
       "anchored_artifacts": [
         "A-1528.3"
       ],
@@ -1411,7 +1411,7 @@
       "@id": "C-1904",
       "ref": "C-1904",
       "label": "Tucker Carlson expresses lack of confidence in FBI leadership",
-      "claim": "Tucker Carlson stated he does not have a ton of confidence in the FBI or the men who run it; later, asking why the FBI will not explain, he said \"You've told the world that you have both a confession from him in his text to his boyfriend and the murder weapon with his fingerprints on it. I think you got a pretty solid case.\"",
+      "claim": "In the Theo Von clip the host plays, Tucker Carlson says he does not have a ton of confidence in the FBI or the men who run it; later, asking why the FBI will not explain, he says \"You've told the world that you have both a confession from him in his text to his boyfriend and the murder weapon with his fingerprints on it. I think you got a pretty solid case.\"",
       "anchored_artifacts": [
         "A-1528.4",
         "A-1528.5"
@@ -1429,7 +1429,7 @@
       "@id": "C-1905",
       "ref": "C-1905",
       "label": "Per Tip Email Host Reads, USAF C37A 99-044 Flew a Path Through Fort Huachuca September 7-9, 2025",
-      "claim": "Per a tip email the host reads, and which the host says her team fact-checked, USAF C37A Gulfstream V (tail 99-044), based at Andrews AFB, flew Andrews → Colorado Springs (Sept 7), Colorado Springs → Tucson (Sept 8), with the transponder going dark thereafter, then Fort Huachuca → El Paso at 12:31 PM (Sept 9), and El Paso → Andrews.",
+      "claim": "Per a tip email the host reads, and which the host says her team fact-checked, USAF C37A Gulfstream V (tail 99-044), based at Andrews AFB, flew Andrews → Colorado Springs (Sept 7), Colorado Springs → Tucson (Sept 8), with the transponder appearing to be turned off thereafter, then Fort Huachuca → El Paso at 12:31 PM (Sept 9), and El Paso → Andrews.",
       "anchored_artifacts": [
         "A-1529.1"
       ],
@@ -1463,15 +1463,15 @@
       "@type": "Claim",
       "@id": "C-1907",
       "ref": "C-1907",
-      "label": "Host Says Captain at Fort Huachuca Meeting Identified as Adam Nef, 10th Mountain Division",
-      "claim": "The host says her team has a positive ID that the captain who interrogated the Fort Huachuca witness (\"Harry\") on September 9, 2025 is Adam Nef of the U.S. Army's 10th Mountain Division, which she says Harry confirmed from pictures she sent.",
+      "label": "Host Says Captain at Fort Huachuca Meeting Identified as Adam Neff, 10th Mountain Division",
+      "claim": "The host says her team has a positive ID that the captain who interrogated the Fort Huachuca witness (\"Harry\") on September 9, 2025 is Adam Neff of the U.S. Army's 10th Mountain Division, which she says Harry confirmed from pictures she sent.",
       "anchored_artifacts": [
         "A-1532.2"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:00",
-      "investigative_direction": "Verify Adam Nef's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters.",
+      "investigative_direction": "Verify Adam Neff's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters.",
       "mentions_person_refs": [
         "N-320",
         "N-361"
@@ -1504,7 +1504,7 @@
         "N-10333"
       ],
       "tags": [],
-      "claim_timestamp": "01:00:25",
+      "claim_timestamp": "00:59:48",
       "investigative_direction": "Identify the specific Candlewood Suites property, send legal preservation letters, and request hotel guest and vehicle registration records."
     },
     {
@@ -1987,7 +1987,7 @@
         "N-10540"
       ],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "00:25:45",
       "investigative_direction": "Check Carlson's own public statements and published biographies about his father's work.",
@@ -2207,7 +2207,7 @@
       "@id": "C-8096",
       "ref": "C-8096",
       "label": "Host Says Her Earlier E4 and E3 Rank Was Her Transcription Error and Harry Said O-6",
-      "claim": "The host says she misspoke the day before when she said E4 and E3, that her notes show the witness said O-6, and that she introduced the error when transferring notes after Googling and editing what she thought she heard.",
+      "claim": "The host says she misspoke the day before when she said E4 and E3, that her notes show the witness said O-6, and that she introduced the error when transferring her notes, then Googling and editing what she thought she heard.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10326"
@@ -2275,8 +2275,8 @@
       "@type": "Claim",
       "@id": "C-8099",
       "ref": "C-8099",
-      "label": "Host Says Viewer Emails Led to the Adam Nef Photo Identification",
-      "claim": "The host says the witness did not know Captain Nef's first name; as viewers' emails came in she sent him picture options, and when someone supplied the name Adam Nef he confirmed it was the correct person.",
+      "label": "Host Says Viewer Emails Led to the Adam Neff Photo Identification",
+      "claim": "The host says the witness did not know Captain Neff's first name; as viewers' emails came in she sent him picture options, and when someone supplied the name Adam Neff he confirmed it was the correct person.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10326"
@@ -2285,7 +2285,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:39:36",
-      "investigative_direction": "Independently verify Adam Nef's identity and assignment through Army records.",
+      "investigative_direction": "Independently verify Adam Neff's identity and assignment through Army records.",
       "transcript_snippet": "I sent picture options to him as your emails were coming in",
       "qualifies_claim_refs": [
         "C-1907"
@@ -2300,8 +2300,8 @@
       "@type": "Claim",
       "@id": "C-8100",
       "ref": "C-8100",
-      "label": "Host Says the 10th Mountain Division Is the New York Division and Fits Nef Leading the Interrogation",
-      "claim": "The host says Adam Nef led the interrogation and that the identification checks out because the 10th Mountain Division is the division from New York.",
+      "label": "Host Says the 10th Mountain Division Is the New York Division and Fits Neff Leading the Interrogation",
+      "claim": "The host says Adam Neff led the interrogation and that the identification checks out because the 10th Mountain Division is the division from New York.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10326"
@@ -2310,7 +2310,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:39:36",
-      "investigative_direction": "Check Army records for Captain Adam Nef's unit and whether any 10th Mountain element was at Fort Huachuca on September 9, 2025.",
+      "investigative_direction": "Check Army records for Captain Adam Neff's unit and whether any 10th Mountain element was at Fort Huachuca on September 9, 2025.",
       "transcript_snippet": "it checks out because that is the division from New York.",
       "supports_claim_refs": [
         "C-1907"
@@ -2402,7 +2402,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:42:34",
-      "investigative_direction": "Obtain the military police incident report and ask Captain Nef about the stated reason for detaining him.",
+      "investigative_direction": "Obtain the military police incident report and ask Captain Neff about the stated reason for detaining him.",
       "transcript_snippet": "It also, by the way, does provide an explanation for why they panicked when he just walked in there",
       "mentions_person_refs": [
         "N-361"
@@ -2413,7 +2413,7 @@
       "@id": "C-8105",
       "ref": "C-8105",
       "label": "Host Says Harry Was Allowed to Leave After Seven Hours",
-      "claim": "The host says that about seven hours later the witness was allowed to leave, or Captain Nef allowed him to leave.",
+      "claim": "The host says that about seven hours later the witness was allowed to leave, or Captain Neff allowed him to leave.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10326"
@@ -2423,7 +2423,7 @@
       ],
       "claim_timestamp": "00:42:47",
       "investigative_direction": "Request the military police incident record for the detention start and end times.",
-      "transcript_snippet": "It's, you know, 7 hours later, they allowed him to leave or or Captain Nef allowed him to leave.",
+      "transcript_snippet": "It's, you know, 7 hours later, they allowed him to leave or or Captain Neff allowed him to leave.",
       "supports_claim_refs": [
         "C-1888"
       ],
@@ -2556,8 +2556,8 @@
       "@type": "Claim",
       "@id": "C-8111",
       "ref": "C-8111",
-      "label": "Host Says Harry Rose From 60 to 65 Percent Certainty to 100 Percent on Nef",
-      "claim": "The host says the witness first put the chance a name was the interrogator at about 60 to 65 percent and became 100 percent certain once she gave him the correct Nef.",
+      "label": "Host Says Harry Rose From 60 to 65 Percent Certainty to 100 Percent on Neff",
+      "claim": "The host says the witness first put the chance a name was the interrogator at about 60 to 65 percent and became 100 percent certain once she gave him the correct Neff.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10326"

@@ -189,7 +189,7 @@
           "@type": "Artifact",
           "@id": "A-1648.1",
           "ref": "A-1648.1",
-          "description": "Cease and Desist letter displayed on screen and read aloud, sent by Turning Point USA (via Paramount Tactical) to Zack Gregorio of Wolves and Finance, including the formal statement on drones (\"UVU prohibited Turning Point USA from flying drones for security purposes during the event, but did allow a Turning Point USA media production drone to briefly fly over the location before the event to collect limited B-roll footage\")",
+          "description": "Cease and Desist letter displayed on screen and read aloud, sent by Turning Point USA (via Paramount Tactical) to Zach De Gregorio of Wolves and Finance, including the formal statement on drones (\"UVU prohibited Turning Point USA from flying drones for security purposes during the event, but did allow a Turning Point USA media production drone to briefly fly over the location before the event to collect limited B-roll footage\")",
           "related_claims": [
             "C-2140",
             "C-2141"
@@ -209,7 +209,7 @@
           "@type": "Artifact",
           "@id": "A-1648.2",
           "ref": "A-1648.2",
-          "description": "Zack Gregorio (Wolves and Finance) YouTube video clip played on air, showing Gregorio presenting the cease-and-desist letter, characterizing it as the first step toward a defamation lawsuit",
+          "description": "Zach De Gregorio (Wolves and Finance) YouTube video clip played on air, showing Gregorio presenting the cease-and-desist letter, characterizing it as the first step toward a defamation lawsuit",
           "related_claims": [
             "C-2140"
           ],
@@ -588,7 +588,7 @@
           "@type": "Artifact",
           "@id": "A-3305.1",
           "ref": "A-3305.1",
-          "description": "Second portion of the Zack Gregorio (Wolves and Finance) clip played on air, in which he cites his December 7 video and reads the TPUSA lawyer's drone paragraph",
+          "description": "Second portion of the Zach De Gregorio (Wolves and Finance) clip played on air, in which he cites his December 7 video and reads the TPUSA lawyer's drone paragraph",
           "related_claims": [
             "C-14215"
           ],
@@ -850,7 +850,7 @@
       "@type": "Person",
       "@id": "N-473",
       "ref": "N-473",
-      "name": "Zack Gregorio (Wolves and Finance)",
+      "name": "Zach De Gregorio (Wolves and Finance)",
       "type": "person",
       "description": "YouTuber who received the TPUSA cease-and-desist letter and produced the on-air clip.",
       "related_artifacts": [
@@ -1323,7 +1323,7 @@
       "@type": "Person",
       "@id": "N-218",
       "ref": "N-218",
-      "name": "Eliza McCoy",
+      "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Elizabeth McCoy; the target of the host's mock conspiracy theory about Erika Kirk.",
       "related_artifacts": [],
@@ -1571,9 +1571,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-11038",
       "ref": "N-11038",
-      "name": "Scheper Security",
+      "name": "Shaffer Security",
       "type": "investigation_target",
-      "description": "Scheper Security; the security firm that the Shaffer Security hiring claim appears to concern (spelling differs, see doubts).",
+      "description": "Shaffer Security; the security firm that the Shaffer Security hiring claim appears to concern (spelling differs, see doubts).",
       "related_artifacts": [],
       "related_claims": [
         "C-14191"
@@ -1798,8 +1798,8 @@
       "@type": "Claim",
       "@id": "C-2131",
       "ref": "C-2131",
-      "label": "Host-Shown LinkedIn Profile Lists Robert Flood as Member of the FBI Agent Association (FBIA)",
-      "claim": "Per Robert Flood's LinkedIn profile, which the host shows on screen, he is a member of the FBI Agent Association (FBIA).",
+      "label": "Host-Shown LinkedIn Profile Lists Robert Flood as Member of the FBIA [FBI Agents Association]",
+      "claim": "Per Robert Flood's LinkedIn profile, which the host shows on screen, he is a member of the FBIA [FBI Agents Association].",
       "anchored_artifacts": [
         "A-1643.2"
       ],
@@ -1847,7 +1847,7 @@
         "N-10425"
       ],
       "tags": [],
-      "claim_timestamp": "00:13:36",
+      "claim_timestamp": "00:12:58",
       "investigative_direction": "Verify through Allen Independent School District alumni records and the social media poster's identity.",
       "mentions_person_refs": [
         "N-271"
@@ -1971,8 +1971,8 @@
       "@type": "Claim",
       "@id": "C-2140",
       "ref": "C-2140",
-      "label": "Turning Point USA sent a cease-and-desist letter to Zack Gregorio at the Wolves and Finance YouTube channel",
-      "claim": "In a clip the host plays, Zack Gregorio of Wolves and Finance says he received a letter from Turning Point USA titled \"Demand to cease and desist defamatory comments\" and reads from it.",
+      "label": "Turning Point USA sent a cease-and-desist letter to Zach De Gregorio at the Wolves and Finance YouTube channel",
+      "claim": "In a clip the host plays, Zach De Gregorio of Wolves and Finance says he received a letter from Turning Point USA titled \"Demand to cease and desist defamatory comments\" and reads from it.",
       "anchored_artifacts": [
         "A-1648.1",
         "A-1648.2"
@@ -2006,7 +2006,7 @@
       "@id": "C-2142",
       "ref": "C-2142",
       "label": "TPUSA Response Says Erika Kirk Only Visited China for 2 Weeks and Never Lived There",
-      "claim": "Per host's paraphrase of an emailed TPUSA official response, Erika Kirk never lived in China and simply visited for 2 weeks.",
+      "claim": "Per host's paraphrase of an official TPUSA response, Erika Kirk never lived in China and simply visited for 2 weeks.",
       "anchored_artifacts": [
         "A-1650.2"
       ],
@@ -2123,8 +2123,8 @@
       "@type": "Claim",
       "@id": "C-2148",
       "ref": "C-2148",
-      "label": "The FBI Agent Association (FBIA) is a charity founded in 1981 with 14,000 current and former FBI special agents",
-      "claim": "Per the FBIA website description the host reads aloud, the FBIA, which the host calls a charity, was founded in 1981 and consists of 14,000 former and current feds.",
+      "label": "The FBIA [FBI Agents Association], Which the Host Calls a Charity, Was Founded in 1981 With 14,000 Current and Former Feds",
+      "claim": "Per the website description the host reads aloud, the FBIA [FBI Agents Association], which the host calls a charity, was founded in 1981 and consists of 14,000 former and current feds.",
       "anchored_artifacts": [
         "A-1647.1"
       ],
@@ -2437,7 +2437,6 @@
       "mentions_person_refs": [
         "N-471",
         "N-457",
-        "N-271",
         "N-1",
         "N-3"
       ]
@@ -2451,7 +2450,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:10:50",
       "investigative_direction": "Check Montgomery's Air Force service in military records or biography.",
@@ -2469,7 +2468,7 @@
       "@id": "C-14187",
       "ref": "C-14187",
       "label": "Host Names Quest Academy in Palatine, Formerly Children's Creative Academy, as the X-Men School",
-      "claim": "The host says the school she calls the X-Men school that Charlie Kirk attended is Quest Academy in Palatine, Illinois, formerly named the Children's Creative Academy.",
+      "claim": "The host says the school she calls the X-Men school that Charlie Kirk attended is Quest Academy in Palatine, Illinois, formerly named the Children's Creative Academy [Creative Children's Academy].",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11122"
@@ -2562,7 +2561,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:11:30",
-      "investigative_direction": "Obtain the firm's Texas private security registration and staff lists; compare spelling with the Scheper Security the host discusses in later episodes.",
+      "investigative_direction": "Obtain the firm's Texas private security registration and staff lists; compare spelling with the Shaffer Security the host discusses in later episodes.",
       "transcript_snippet": "Bill Montgomery chose to hire Shaffer Security, which was run by Greg Shaffer. And working under Greg Shaffer was Dan Flood and Brian Harpole.",
       "mentions_person_refs": [
         "N-457",
@@ -2856,8 +2855,8 @@
       "@type": "Claim",
       "@id": "C-14205",
       "ref": "C-14205",
-      "label": "Gregorio Says the Letter Does Not Answer His Questions and Precedes a Lawsuit Unless He Changes His Statements",
-      "claim": "Zack Gregorio says in the clip that the letter does not address most of his questions and is the precursor to a lawsuit unless he changes his statements.",
+      "label": "De Gregorio Says the Letter Does Not Answer His Questions and Precedes a Lawsuit Unless He Changes His Statements",
+      "claim": "Zach De Gregorio says in the clip that the letter does not address most of his questions and is the precursor to a lawsuit unless he changes his statements.",
       "anchored_artifacts": [
         "A-1648.2"
       ],
@@ -2879,7 +2878,7 @@
       "@id": "C-14206",
       "ref": "C-14206",
       "label": "Host Says a Cease and Desist Should Not Open With We Don't Intend to Sue",
-      "claim": "The host says a cease and desist should not open with we don't intend to sue you, and says Gregorio is correct that it is the first step toward suing.",
+      "claim": "The host says a cease and desist should not open with we don't intend to sue you, and says De Gregorio is correct that it is the first step toward suing.",
       "anchored_artifacts": [
         "A-1648.1"
       ],
@@ -3090,8 +3089,8 @@
       "@type": "Claim",
       "@id": "C-14215",
       "ref": "C-14215",
-      "label": "Gregorio Says He Posted a December 7 Video Naming TPUSA Number One Clown",
-      "claim": "Zack Gregorio says on December 7 he posted a video called Top 10 Clowns of the Year, with Turning Point as his number one clown, which discussed the chief security person's drone statement and Frank Turek's interview.",
+      "label": "De Gregorio Says He Posted a December 7 Video Naming TPUSA Number One Clown",
+      "claim": "Zach De Gregorio says on December 7 he posted a video called Top 10 Clowns of the Year, with Turning Point as his number one clown, which discussed the chief security person's drone statement and Frank Turek's interview.",
       "anchored_artifacts": [
         "A-3305.1"
       ],

@@ -82,7 +82,7 @@ She wanted him to herself. She wanted to be Erika. She wanted to marry Charlie, 
 
 [09:26]
 
-Right? He works on the radio side of things. He didn't even get hired to work with Charlie at all in any capacity until 2022 after um he was fired from Fox News or had to move on from Fox News because of some racist comments. He then work went to work for Stu Peters um and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal. Blake Neff did not return that loyalty. Blake Neff doesn't have a loyal bone in his body. Yet he has been the most vocally invested person, I would say, at Turning Point in making sure that no one asks any questions, that no one investigates the Charlie Kirk murder outside of the federal narrative. Blake watched our episode yesterday as he does every day.
+Right? He works on the radio side of things. He didn't even get hired to work with Charlie at all in any capacity until 2022 after um he was fired from Fox News or had to move on from Fox News because of some racist comments. He then work went to work for Stew Peters um and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal. Blake Neff did not return that loyalty. Blake Neff doesn't have a loyal bone in his body. Yet he has been the most vocally invested person, I would say, at Turning Point in making sure that no one asks any questions, that no one investigates the Charlie Kirk murder outside of the federal narrative. Blake watched our episode yesterday as he does every day.
 
 [10:11]
 

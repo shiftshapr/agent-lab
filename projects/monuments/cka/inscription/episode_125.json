@@ -1094,7 +1094,7 @@
       "@type": "Person",
       "@id": "N-218",
       "ref": "N-218",
-      "name": "Eliza McCoy",
+      "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Elizabeth McCoy; named with her Ukrainian family.",
       "related_artifacts": [],
@@ -1537,7 +1537,7 @@
       "@type": "Person",
       "@id": "N-734",
       "ref": "N-734",
-      "name": "Stu Peters",
+      "name": "Stew Peters",
       "type": "person",
       "description": "First named by the host at 00:09:26 in episode 125. Employer of Blake Neff before Turning Point per the host.",
       "related_artifacts": [],
@@ -1642,7 +1642,7 @@
       "ref": "N-11057",
       "name": "Blake Neff Employment History Account",
       "type": "topic",
-      "description": "The host's account of Blake Neff's career: Fox News departure, Stu Peters, Marine Corps war gaming and hiring by Charlie Kirk.",
+      "description": "The host's account of Blake Neff's career: Fox News departure, Stew Peters, Marine Corps war gaming and hiring by Charlie Kirk.",
       "related_artifacts": [],
       "related_claims": [
         "C-5857",
@@ -2041,8 +2041,8 @@
       "@type": "Claim",
       "@id": "C-5858",
       "ref": "C-5858",
-      "label": "Neff Worked for Stu Peters Then Joined Charlie After Tucker Carlson Recommended Him",
-      "claim": "The host says Blake Neff went to work for Stu Peters and then started working with Charlie Kirk after Tucker Carlson recommended him as loyal.",
+      "label": "Neff Worked for Stew Peters Then Joined Charlie After Tucker Carlson Recommended Him",
+      "claim": "The host says Blake Neff went to work for Stew Peters and then started working with Charlie Kirk after Tucker Carlson recommended him as loyal.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11057"
@@ -2050,7 +2050,7 @@
       "tags": [],
       "claim_timestamp": "00:09:26",
       "investigative_direction": "Neff's own account of how he was hired; statements by Carlson or Peters on the recommendation.",
-      "transcript_snippet": "He then work went to work for Stu Peters um and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.",
+      "transcript_snippet": "He then work went to work for Stew Peters um and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.",
       "mentions_person_refs": [
         "N-160",
         "N-734",

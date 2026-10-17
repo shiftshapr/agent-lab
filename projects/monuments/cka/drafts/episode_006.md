@@ -918,7 +918,7 @@ Tags: open_source_investigation
 
 **C-1206** Host Says Individual Calmly Talked on Phone Near Car After Shooting
 
-Claim Timestamp: 00:03:35
+Claim Timestamp: 00:03:05
 Claim: The host says footage she shows has an individual standing near the car where Charlie was taken, appearing to calmly talk into his phone shortly after the shot.
 Transcript Snippet: that person appears to be calmly talking into their phone. It's like a circus around them
 Anchored Artifacts: A-1120.1
@@ -1000,10 +1000,10 @@ Investigative Direction: Verify headline and byline on the Daily Mail site and c
 **C-1212** PBD Guest Said Candace's Credibility Is Going Down the Tubes
 
 Claim Timestamp: 00:25:42
-Claim: In a PBD podcast clip the host plays, a guest says Candace Owens' credibility is going to go "down the tubes" because she needs to bring receipts, and a speaker in the clip adds that Bill Ackman brought receipts.
+Claim: In a PBD podcast clip the host plays, a guest, Eric Bolling, says Candace Owens' credibility is going to go "down the tubes" because she needs to bring receipts, and a speaker in the clip adds that Bill Ackman brought receipts.
 Transcript Snippet: her credibility, I mean, is going to go down the tubes because she needs to bring receipts
 Anchored Artifacts: A-1125.1
-Mentions: N-3, N-37, N-57
+Mentions: N-3, N-37, N-57, N-72
 Confidence: high
 Investigative Direction: Obtain full PBD segment and verify exact quote against published clip.
 
@@ -1013,12 +1013,12 @@ Investigative Direction: Obtain full PBD segment and verify exact quote against 
 
 Claim Timestamp: 00:25:49
 
-Claim: In the PBD clip the host replays at 00:25:42–00:25:55, the line that Candace Owens' credibility is going "down the tubes because she needs to bring receipts" is spoken by the PBD guest, who goes straight on to say Bill Ackman "brought receipts" and refers to him in the third person ("I think he was there in the room"). Bill Ackman is cited in the clip, not speaking, so C-1212's attribution of the line to "Bill Ackman" (Bill Ackman, N-37) is contradicted.
+Claim: In the PBD clip the host replays at 00:25:42–00:25:55, the line that Candace Owens' credibility is going "down the tubes because she needs to bring receipts" is spoken by the PBD guest, Eric Bolling, who goes straight on to say Bill Ackman "brought receipts" and refers to him in the third person ("I think he was there in the room"). Bill Ackman is cited in the clip, not speaking, so C-1212's attribution of the line to "Bill Ackman" (Bill Ackman, N-37) is contradicted.
 
 Transcript Snippet: Bill Ackman brought receipts. How long was that tweet? It's still going. I think he was there in the room.
 
 Anchored Artifacts: A-1125.1
-Mentions: N-37, N-3, N-57
+Mentions: N-37, N-3, N-57, N-72
 Contradicts: C-1212
 Confidence: medium
 Uncertainty: The transcript does not mark speaker turns and the guest is not named in this clip; the attribution rests on the guest's third-person reference to Ackman.
@@ -1029,10 +1029,10 @@ Investigative Direction: Read with C-1212; identify the PBD guest from the full 
 **C-1213** PBD Guest Said He Last Saw Candace at TPUSA in 2015 or 2016
 
 Claim Timestamp: 00:25:57
-Claim: In a PBD podcast clip the host plays, a guest, asked whether he is on the board of Turning Point, says yes, that he last saw Candace Owens in person in 2015 or 2016, and that she was last at a Turning Point event not in many years.
+Claim: In a PBD podcast clip the host plays, a guest, Eric Bolling, asked whether he is on the board of Turning Point, says yes, that he last saw Candace Owens in person in 2015 or 2016, and that she was last at a Turning Point event not in many years.
 Transcript Snippet: When's the last time you saw Candace Owens in person? 2015, 2016
 Anchored Artifacts: A-1125.1
-Mentions: N-3, N-57
+Mentions: N-3, N-57, N-72
 Related Nodes: N-10000
 Contradicts: C-1223
 Confidence: high
@@ -1238,7 +1238,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 **C-3638** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
 
 Claim Timestamp: 00:52:42
-Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Claim: The host plugs CIA-branded merch (her CIA line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
 Transcript Snippet: ...Buy yourself this. This is pretty bomb. Yep. Our CIA line. This is the Candace Intelligence Agency. Some people think that it actually says like CIA, t...
 Anchored Artifacts: A-2483.1
 Mentions: N-3

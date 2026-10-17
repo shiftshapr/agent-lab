@@ -52,7 +52,7 @@
           "@type": "Artifact",
           "@id": "A-1715.1",
           "ref": "A-1715.1",
-          "description": "Compiled video segment of Epstein email excerpts referencing Israel, Rothschilds, Roger Schank conversation, Peggy Siegal \"wasp\" comment, Joshua Finkelstein/Larry Finkelstein reference, Svetlana abortion pressure comment, and Maria Farmer \"Jewish country club\" quote",
+          "description": "Compiled video segment of Epstein email excerpts referencing Israel, Rothschilds, Roger Schank conversation, Peggy Siegal \"wasp\" comment, Joshua Fink/Larry Fink reference, Svetlana abortion pressure comment, and Maria Farmer \"Jewish country club\" quote",
           "related_claims": [
             "C-2254",
             "C-2255",
@@ -286,7 +286,7 @@
           "@type": "Artifact",
           "@id": "A-1723.1",
           "ref": "A-1723.1",
-          "description": "WikiLeaks-released email from Katherine Tate to John Podesta referencing \"a handkerchief\" that \"seems pizza-related\" and \"weird specific orders of pizza and hot dogs\"",
+          "description": "WikiLeaks-released email from Kathryn Tate to John Podesta referencing \"a handkerchief\" that \"seems pizza-related\" and \"weird specific orders of pizza and hot dogs\"",
           "related_claims": [
             "C-2272"
           ],
@@ -667,7 +667,7 @@
       "ref": "N-9",
       "name": "Jeffrey Epstein",
       "type": "person",
-      "description": "Financier and convicted sex offender; subject of 2024-2026 document releases; named in Peter Thiel, Joshua Finkelstein, Susan Hamblin, and Jay-Z email contexts.",
+      "description": "Financier and convicted sex offender; subject of 2024-2026 document releases; named in Peter Thiel, Joshua Fink, Susan Hamblin, and Jay-Z email contexts.",
       "related_artifacts": [
         "A-1715.1",
         "A-1716.1",
@@ -1099,7 +1099,7 @@
       "@type": "Person",
       "@id": "N-531",
       "ref": "N-531",
-      "name": "Katherine Tate",
+      "name": "Kathryn Tate",
       "type": "person",
       "description": "Sender of pizza-referencing email to John Podesta released via WikiLeaks.",
       "related_artifacts": [
@@ -2503,8 +2503,8 @@
       "@type": "Claim",
       "@id": "C-2256",
       "ref": "C-2256",
-      "label": "Joshua Finkelstein Accused of Treating Non-Jews as Not Human",
-      "claim": "Per the compilation, Joshua Finkelstein (described as BlackRock's Larry Finkelstein's son) is accused by his ex-girlfriend Svetlana of not having any respect for non-Jews and seeing them as not human, and the compilation says he pressures her to have an abortion.",
+      "label": "Joshua Fink Accused of Treating Non-Jews as Not Human",
+      "claim": "Per the compilation, Joshua Fink (described as BlackRock's Larry Fink's son) is accused by his ex-girlfriend Svetlana of not having any respect for non-Jews and seeing them as not human, and the compilation says he pressures her to have an abortion.",
       "anchored_artifacts": [
         "A-1715.1"
       ],
@@ -2738,7 +2738,7 @@
       "@type": "Claim",
       "@id": "C-2269",
       "ref": "C-2269",
-      "label": "Josh Hammer Describes Sept 9 Zoom Call With Charlie Kirk and Rabbi",
+      "label": "Josh Hammer Describes Sept 9 Zoom Call With Charlie Kirk",
       "claim": "In a clip the host plays, Josh Hammer says that approximately two hours after the \"abandoning pro-Israel cause\" text, a small Zoom call occurred with Charlie Kirk, Hammer, and others, organized by Charlie for messaging advice on Jewish-Christian relations on college campuses.",
       "anchored_artifacts": [
         "A-1721.1"
@@ -2799,8 +2799,8 @@
       "@type": "Claim",
       "@id": "C-2272",
       "ref": "C-2272",
-      "label": "WikiLeaks Email From Katherine Tate to Podesta References Pizza-Related Handkerchief",
-      "claim": "The host reads an email she says was sent to John Podesta by Katherine Tate, published by WikiLeaks, saying a realtor found a handkerchief, \"I think it has a map that seems pizza-related\", and mentioning \"weird specific orders of pizza and hot dogs.\"",
+      "label": "WikiLeaks Email From Kathryn Tate to Podesta References Pizza-Related Handkerchief",
+      "claim": "The host reads an email she says was sent to John Podesta by Kathryn Tate, published by WikiLeaks, saying a realtor found a handkerchief, \"I think it has a map that seems pizza-related\", and mentioning \"weird specific orders of pizza and hot dogs.\"",
       "anchored_artifacts": [
         "A-1723.1"
       ],
@@ -3909,7 +3909,7 @@
       "@id": "C-14278",
       "ref": "C-14278",
       "label": "Host says the Star of David did not appear as a Jewish symbol until the 17th century",
-      "claim": "The host says the Kiddush cup is the traditional symbol of Judaism and that, per Wikipedia, the Star of David did not emerge until the 17th century, when a mystic who declared himself Messiah in 1666 adopted it from Solomon's seal.",
+      "claim": "The host says the Kiddush cup is the traditional symbol of Judaism and that, per Wikipedia, the Star of David did not emerge until the 17th century; she says that in 1666 'that guy who was a mystic declared himself to be the Messiah and they adopted this symbol' from Solomon's seal.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [

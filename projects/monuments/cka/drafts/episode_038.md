@@ -111,7 +111,7 @@ Confidence Level: High (quoted on air)
 
 ---
 
-**A-1463** Article by Freddy Ponton ("Freddy Ponton um Ponton" as read on air)
+**A-1463** Article by Freddie Ponton ("Freddie Ponton um Ponton" as read on air)
 
 **A-1463.1** "Past as Prologue, Safari Club Illuminates Candace Owens' allegations" – Ponton's framing paragraph characterizing Candace's allegation as resonating because of prior covert-operation history rather than trust in Owens; references Safari Club precedent.
 
@@ -247,7 +247,7 @@ Confidence Level: Low (single source email)
 
 *Related: C-1795, N-291, N-10287, N-10288*
 
-**A-1469.6** Section: 500 North Delaware Avenue – claim that the FBI has a presence in this building (which the source calls "another bank center"); also references MGM Delaware Avenue law firm (Suite 200) sitting directly below the FBI suite (Suite 300) per the source.
+**A-1469.6** Section: 500 North Delaware Avenue – claim that the FBI has a presence in this building (which the source calls "another bank center"); also references MG+M Delaware Avenue law firm (Suite 200) sitting directly below the FBI suite (Suite 300) per the source.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -536,7 +536,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-285** Freddy Ponton
+**N-285** Freddie Ponton
 
 Article author of "Past as Prologue, Safari Club Illuminates Candace Owens' allegations" (A-1463.1); provides contextual framing linking the host's allegations to historical covert-operation patterns.
 
@@ -720,7 +720,7 @@ Investigative Pressure: Low
 
 **N-10289** Rodney Square / 500 Delaware Avenue Federal Cluster
 
-Claim that 500 North Delaware Avenue hosts an FBI presence; MGM Delaware Avenue law firm occupies Suite 200 directly below the FBI Suite 300; located on Rodney Square alongside Wilmington Trust and Bracebridge.
+Claim that 500 North Delaware Avenue hosts an FBI presence; MG+M Delaware Avenue law firm occupies Suite 200 directly below the FBI Suite 300; located on Rodney Square alongside Wilmington Trust and Bracebridge.
 
 Evidence Count: 1
 Claim Count: 1
@@ -1181,7 +1181,7 @@ Investigative Direction: Locate original Durov X post (date, full context) and v
 
 Claim Timestamp: 00:13:06
 
-Claim: Per the article by Freddy Ponton the host reads, the hesitation to dismiss Owens's allegations does not come from trust in her but from history; the host then says, from the Wikipedia page, that the Safari Club was a covert alliance of intelligence services formed in 1976.
+Claim: Per the article by Freddie Ponton the host reads, the hesitation to dismiss Owens's allegations does not come from trust in her but from history; the host then says, from the Wikipedia page, that the Safari Club was a covert alliance of intelligence services formed in 1976.
 
 Anchored Artifacts: A-1463.1, A-1464.1
 Mentions: N-285, N-3
@@ -1344,11 +1344,11 @@ Investigative Direction: Verify Wilmington Trust founding date and founder via c
 
 Claim Timestamp: 00:32:37
 
-Claim: Per the source email, the FBI apparently has Suite 300 at 500 North Delaware Avenue and the MGM Delaware Avenue law firm has Suite 200, which the writer believes is directly below the FBI.
+Claim: Per the source email, the FBI apparently has Suite 300 at 500 North Delaware Avenue and the law firm MG+M has Suite 200, which the writer believes is directly below the FBI.
 
 Anchored Artifacts: A-1469.6
 Related Nodes: N-10289
-Investigative Direction: Identify the FBI tenant at 500 Delaware Avenue via federal lease records; confirm MGM Delaware Avenue's suite location.
+Investigative Direction: Identify the FBI tenant at 500 Delaware Avenue via federal lease records; confirm MG+M Delaware Avenue's suite location.
 
 ---
 
@@ -1406,7 +1406,7 @@ Investigative Direction: Obtain the full podcast segment; assess whether Sosnick
 
 Claim Timestamp: 00:56:17
 
-Claim: The host reads an email Eric Bolling sent to her PR saying, "Tell Candace I meant no harm to her. It was that Alex guy who kept at it. He tried to corner me"; earlier in the episode she says the email blamed Adam Sosnick, whose name Bolling did not know.
+Claim: The host reads an email Eric Bolling sent to her PR saying, "Tell Candace I meant no harm to her. It was that Alex guy who kept at it. He tried to corner me"; earlier in the episode she says the email was about Adam Sosnick.
 
 Anchored Artifacts: A-1474.1
 Mentions: N-283, N-72, N-3
@@ -1526,11 +1526,11 @@ Investigative Direction: Ask the host's source to identify the two individuals; 
 
 ---
 
-**C-10897** Host Says the Money Ran Through the Club des Fontes
+**C-10897** Host Says the Money Ran Through the Club des Fontes [Club des Cent]
 
 Claim Timestamp: 00:05:05
 
-Claim: The host says she also stated that the alleged payment ran through an elite gentlemen's club she calls the club des Fontes.
+Claim: The host says she also stated that the alleged payment ran through the elite gentlemen's club des Fontes (as transcribed) [Club des Cent, the club named in her X post].
 
 Transcript Snippet: I also said that the money ran through the elite gentlemen's club des Fontes.
 
@@ -1793,7 +1793,7 @@ Mentions: N-3
 Related Nodes: N-11008, N-10269
 Supports: C-4991
 Tags: relevance:core
-Investigative Direction: Obtain the hangar lease, Delaware filings and Satis investment announcements to confirm the amount, term and stated purpose.
+Investigative Direction: Obtain the hangar lease, Delaware filings and Satys investment announcements to confirm the amount, term and stated purpose.
 
 ---
 
@@ -1810,7 +1810,7 @@ Mentions: N-3, N-82
 Related Nodes: N-11008, N-11011
 Supports: C-4990
 Tags: relevance:core
-Investigative Direction: Compare the cease-and-desist date with the Satis announcement and lease execution dates in public filings.
+Investigative Direction: Compare the cease-and-desist date with the Satys announcement and lease execution dates in public filings.
 
 ---
 
@@ -1911,11 +1911,11 @@ Investigative Direction: Check DuPont corporate history for Kevlar's development
 
 ---
 
-**C-10921** Host Says 500 North Delaware Avenue Is Also Somehow Owned by France
+**C-10921** Source Email Says 500 North Delaware Avenue Is Also Somehow Owned by France
 
 Claim Timestamp: 00:31:10
 
-Claim: The host says 500 North Delaware Avenue, which people on X said housed the FBI, is also somehow owned by France.
+Claim: The host relays a source email saying 500 North Delaware Avenue, which people on X said housed the FBI, is also somehow owned by France.
 
 Transcript Snippet: And that is also somehow owned by France.
 
@@ -1933,14 +1933,14 @@ Claim Timestamp: 00:32:30
 
 Claim: The host reads a source email saying a law firm that moved into 500 Delaware Avenue a few months before Charlie Kirk's assassination has many employees fluent in French or connected to France, with the firm in Suite 200 below the FBI in Suite 300.
 
-Transcript Snippet: MGM and M has many employees that are either fluent in French or connected or are connected to France altogether.
+Transcript Snippet: MG+M and M has many employees that are either fluent in French or connected or are connected to France altogether.
 
 Anchored Artifacts: A-1469.6
 Mentions: N-1
 Related Nodes: N-10289
 Supports: C-1796
 Tags: relevance:context
-Investigative Direction: Identify the firm (the transcript renders it as MGM) and check its lease date and staff biographies.
+Investigative Direction: Identify the firm (the transcript renders it as MG+M) and check its lease date and staff biographies.
 
 ---
 
@@ -1959,11 +1959,11 @@ Investigative Direction: Check Delaware permits and Incyte filings for ownership
 
 ---
 
-**C-10924** Host Says Construction Promised for About a Year Has Taken About Two
+**C-10924** Source Email Says Construction Promised for About a Year Has Taken About Two
 
 Claim Timestamp: 00:33:30
 
-Claim: The host says a May 2024 article stated construction was expected to take about a year, but it has been about two years and the building top is still a skeleton, so she says she knows the site is being used to buy time.
+Claim: The host reads a source email saying a May 2024 article stated construction was expected to take about a year, but it has been about two years and the building top is still a skeleton, so the writer says they know the site is being used to buy time.
 
 Transcript Snippet: On May 2024, they say that construction is expected to take about a year.
 
@@ -1975,11 +1975,11 @@ Investigative Direction: Review the May 2024 article and Wilmington building per
 
 ---
 
-**C-10925** Host Says Hoppenot Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death
+**C-10925** Source Email Says Hoppenot Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death
 
 Claim Timestamp: 00:33:50
 
-Claim: The host says Hervé Hoppenot is directly responsible for the Bracebridge construction and finalized the deal, and that a few months before Charlie Kirk's death he switched roles and began laying low.
+Claim: The host reads a source email saying Hervé Hoppenot is directly responsible for the Bracebridge construction and finalized the deal, and that a few months before Charlie Kirk's death he switched roles and began laying low.
 
 Transcript Snippet: He is directly responsible for this construction at Bracebridge, and he was the one that finalized the deal.
 
@@ -1992,11 +1992,11 @@ Investigative Direction: Check Incyte SEC filings for the CEO-to-advisor transit
 
 ---
 
-**C-10926** Host Says Incyte Is Plugged Into Federal Medical Supply Chains Including VA Systems
+**C-10926** Source Email Says Incyte Is Plugged Into Federal Medical Supply Chains Including VA Systems
 
 Claim Timestamp: 00:34:30
 
-Claim: The host says Incyte is plugged directly into the federal medical supply chains, which include VA systems that interface with military health care.
+Claim: The host reads a source email saying Incyte is plugged directly into the federal medical supply chains, which include VA systems that interface with military health care.
 
 Transcript Snippet: is also plugged directly into the federal medical supply chains, which include our VA systems
 
@@ -2108,7 +2108,7 @@ Investigative Direction: Check Satys shareholder disclosures and Ace Partners' p
 
 Claim Timestamp: 00:38:30
 
-Claim: The host says Ace Partners explicitly states on its website that it invests only in companies and organizations that benefit Israel, in aerospace and defense startups at Series A and B stages.
+Claim: The host says Ace Partners explicitly states on its website that it invests only in companies and organizations that benefit Israel, and reads its mission saying it focuses predominantly on aerospace and defense startups at Series A and B stages, with global investments and a specific focus on Israel.
 
 Transcript Snippet: They are explicit, they only invest in companies and organizations that benefit Israel. That's on their website.
 

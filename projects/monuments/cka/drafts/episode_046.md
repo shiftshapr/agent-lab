@@ -1042,7 +1042,7 @@ Investigative Direction: Attempt to obtain leaked production documents, backstag
 
 **C-1923** Maroon color is associated with the U.S. Air Force and the Army 10th Mountain Brigade (per host military sources)
 
-Claim Timestamp: 00:56:27–00:57:53
+Claim Timestamp: 00:57:40
 
 Claim: The host asserts that the maroon color referenced in connection with Kirk event attendees (and noted by the host in prior episodes) represents the U.S. Air Force and the Army 10th Mountain Brigade, citing military contacts.
 

@@ -354,9 +354,9 @@ Confidence Level: Low
 
 ---
 
-**A-2759** Scheper Security Group Chat Messages Bundle
+**A-2759** Shaffer Security Group Chat Messages Bundle
 
-**A-2759.1** Host verbal reference to her written group chat messages with Charlie Kirk and Tyler Bowyer about not trusting Scheper Security (not shown)
+**A-2759.1** Host verbal reference to her written group chat messages with Charlie Kirk and Tyler Bowyer about not trusting Shaffer Security (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:49:40
@@ -762,7 +762,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11038** Scheper Security
+**N-11038** Shaffer Security
 
 Node Type: Organization
 Security firm the host says she distrusted and warned Charlie Kirk and Tyler Bowyer about in a group chat.
@@ -950,7 +950,7 @@ Investigative Direction: Compare Rubin's account with contemporaneous messages, 
 
 Claim Timestamp: 00:09:46
 
-Claim: During her Miss Arizona USA reign, Erika Kirk tweeted that one of her best friends was in the theater during the 2012 Aurora shooting.
+Claim: Per the 2012 tweet the host shows from the Miss Arizona USA account during Erika Kirk's reign, Erika replied that one of her best friends was in the theater during the Aurora shooting.
 
 Anchored Artifacts: A-1655.1
 Mentions: N-2
@@ -974,14 +974,14 @@ Investigative Direction: Locate the full unedited interview; verify the date and
 
 ---
 
-**C-2153** Host Says Griggs's Account of the Military Makes Sense to Her
+**C-2153** Host Says Griggs Worked for the Government and Her Account Is How the Military Works
 
 Claim Timestamp: 00:22:03
 
-Claim: Host concurs with Griggs's assessment that the U.S. military is corrupted at the command level and has been institutionally compromised since at least the JFK assassination.
+Claim: The host says Katherine Griggs worked for the government, so her account was not some conspiracy theory but how it works, and that even a slight look into the history of the U.S. military and programs like MK Ultra shows this.
 
 Anchored Artifacts: A-1656.1
-Mentions: N-477, N-478
+Mentions: N-3, N-477
 
 
 Investigative Direction: This is a host stance claim, not independently verifiable; document only as recorded concurrence against A-1656.1.
@@ -1019,7 +1019,7 @@ Investigative Direction: Retrieve the full Jerusalem Post article; identify the 
 
 **C-2156** Host Concurs Greenland Push Is Donor-Driven, Not America-First
 
-Claim Timestamp: 00:41:54
+Claim Timestamp: 00:41:13
 
 Claim: Baron Coleman says, and the host agrees, that Trump's Greenland push is not consistent with America-first policy and appears driven by a donor or supporter's financial interest rather than national interest.
 
@@ -1772,33 +1772,33 @@ Investigative Direction: Compare with Pew, Gallup and denominational membership 
 
 ---
 
-**C-5533** Coleman Says Pastors Like Rob McCoy Rehabilitate Pedophiles While Telling Followers to Unfollow Tucker
+**C-5533** Host Says Pastors Like Rob McCoy Rehabilitate Pedophiles While Telling Followers to Unfollow Tucker
 
 Claim Timestamp: 00:46:48
 
-Claim: Baron Coleman says pastors like Rob McCoy are constantly trying to rehabilitate pedophiles and then tell people that to be saved they just have to unfollow Tucker Carlson on Twitter.
+Claim: The host says pastors like Rob McCoy are constantly trying to rehabilitate pedophiles and then tell people that to be saved they just have to unfollow Tucker Carlson on Twitter.
 
 Transcript Snippet: We've got these pastors like Rob McCoy constantly trying to rehabilitate pedophiles and then they'll look at you dead in the face and be like hey if you want to be saved just got to unfollow Tucker Carlson on Twitter.
 
 Anchored Artifacts: 
-Mentions: N-331, N-17, N-22
+Mentions: N-3, N-17, N-22
 Related Nodes: N-10139
 Investigative Direction: Ask for the specific cases and sermons; the host's framing is hyperbolic, so look for documented McCoy statements on offenders and Tucker Carlson.
 
 ---
 
-**C-5534** Host Says She Has Messages Showing She Distrusted Scheper Security
+**C-5534** Host Says She Has Messages Showing She Distrusted Shaffer Security
 
 Claim Timestamp: 00:49:40
 
-Claim: The host says she has written messages showing she ranted at Charlie Kirk and Tyler Bowyer in a group chat, saying she did not trust Scheper Security.
+Claim: The host says she has written messages showing she ranted at Charlie Kirk and Tyler Bowyer in a group chat, saying she did not trust Shaffer Security.
 
-Transcript Snippet: I ranted at him and Tyler Bowyer in a group chat. I actually read it backwards and I was like, "Gosh, I was really aggressive there." saying that I did not trust Scheper Security.
+Transcript Snippet: I ranted at him and Tyler Bowyer in a group chat. I actually read it backwards and I was like, "Gosh, I was really aggressive there." saying that I did not trust Shaffer Security.
 
 Anchored Artifacts: A-2759.1
 Mentions: N-3, N-1, N-11
 Related Nodes: N-11038
-Investigative Direction: Obtain the group chat export with dates; ask Bowyer and TPUSA to confirm the exchange and Scheper Security's contract with TPUSA.
+Investigative Direction: Obtain the group chat export with dates; ask Bowyer and TPUSA to confirm the exchange and Shaffer Security's contract with TPUSA.
 
 ---
 
@@ -2150,19 +2150,19 @@ Investigative Direction: Check hospital security footage and staff accounts of t
 
 ---
 
-**C-5558** Host Says the Scottsdale Plane Was Identified as the Y Refi Guy
+**C-5558** Host Says the Scottsdale Plane Was Identified as the Yrefy Guy
 
 Claim Timestamp: 01:08:11
 
-Claim: The host says that she was told the plane going into Scottsdale belongs to the Y Refi guy, and she corrects herself that she should say it is what she was told and not what she determined.
+Claim: The host says that she was told the plane going into Scottsdale belongs to the Yrefy guy, and she corrects herself that she should say it is what she was told and not what she determined.
 
-Transcript Snippet: I was able to determine that that's the Y Refi guy. So, which could make sense. That's what I was told.
+Transcript Snippet: I was able to determine that that's the Yrefy guy. So, which could make sense. That's what I was told.
 
 Anchored Artifacts: A-1657.1
 Mentions: N-3
 Related Nodes: N-10430
 Supports: C-2154
-Investigative Direction: Identify the aircraft owner from FAA registration records; the term Y Refi is as spelled in the transcript.
+Investigative Direction: Identify the aircraft owner from FAA registration records; the term Yrefy is as spelled in the transcript.
 
 ---
 

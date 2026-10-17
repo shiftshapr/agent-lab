@@ -2012,7 +2012,7 @@
       "tags": [
         "open_source_investigation"
       ],
-      "claim_timestamp": "00:03:35",
+      "claim_timestamp": "00:03:05",
       "investigative_direction": "Obtain full-resolution copy of wide-angle clip; cross-reference timing against crowd movement logs.",
       "transcript_snippet": "that person appears to be calmly talking into their phone. It's like a circus around them",
       "confidence": "high",
@@ -2138,7 +2138,7 @@
       "@id": "C-1212",
       "ref": "C-1212",
       "label": "PBD Guest Said Candace's Credibility Is Going Down the Tubes",
-      "claim": "In a PBD podcast clip the host plays, a guest says Candace Owens' credibility is going to go \"down the tubes\" because she needs to bring receipts, and a speaker in the clip adds that Bill Ackman brought receipts.",
+      "claim": "In a PBD podcast clip the host plays, a guest, Eric Bolling, says Candace Owens' credibility is going to go \"down the tubes\" because she needs to bring receipts, and a speaker in the clip adds that Bill Ackman brought receipts.",
       "anchored_artifacts": [
         "A-1125.1"
       ],
@@ -2151,7 +2151,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-37",
-        "N-57"
+        "N-57",
+        "N-72"
       ]
     },
     {
@@ -2159,7 +2160,7 @@
       "@id": "C-3772",
       "ref": "C-3772",
       "label": "The \"bring receipts\" line C-1212 attributes to Bill Ackman is the PBD guest's; the guest cites Bill Ackman as having brought receipts",
-      "claim": "In the PBD clip the host replays at 00:25:42–00:25:55, the line that Candace Owens' credibility is going \"down the tubes because she needs to bring receipts\" is spoken by the PBD guest, who goes straight on to say Bill Ackman \"brought receipts\" and refers to him in the third person (\"I think he was there in the room\"). Bill Ackman is cited in the clip, not speaking, so C-1212's attribution of the line to \"Bill Ackman\" (Bill Ackman, N-37) is contradicted.",
+      "claim": "In the PBD clip the host replays at 00:25:42–00:25:55, the line that Candace Owens' credibility is going \"down the tubes because she needs to bring receipts\" is spoken by the PBD guest, Eric Bolling, who goes straight on to say Bill Ackman \"brought receipts\" and refers to him in the third person (\"I think he was there in the room\"). Bill Ackman is cited in the clip, not speaking, so C-1212's attribution of the line to \"Bill Ackman\" (Bill Ackman, N-37) is contradicted.",
       "anchored_artifacts": [
         "A-1125.1"
       ],
@@ -2172,7 +2173,8 @@
       "mentions_person_refs": [
         "N-37",
         "N-3",
-        "N-57"
+        "N-57",
+        "N-72"
       ],
       "uncertainty_note": "The transcript does not mark speaker turns and the guest is not named in this clip; the attribution rests on the guest's third-person reference to Ackman.",
       "contradicts_claim_refs": [
@@ -2184,7 +2186,7 @@
       "@id": "C-1213",
       "ref": "C-1213",
       "label": "PBD Guest Said He Last Saw Candace at TPUSA in 2015 or 2016",
-      "claim": "In a PBD podcast clip the host plays, a guest, asked whether he is on the board of Turning Point, says yes, that he last saw Candace Owens in person in 2015 or 2016, and that she was last at a Turning Point event not in many years.",
+      "claim": "In a PBD podcast clip the host plays, a guest, Eric Bolling, asked whether he is on the board of Turning Point, says yes, that he last saw Candace Owens in person in 2015 or 2016, and that she was last at a Turning Point event not in many years.",
       "anchored_artifacts": [
         "A-1125.1"
       ],
@@ -2203,7 +2205,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-57"
+        "N-57",
+        "N-72"
       ]
     },
     {
@@ -2539,7 +2542,7 @@
       "@id": "C-3638",
       "ref": "C-3638",
       "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
-      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "claim": "The host plugs CIA-branded merch (her CIA line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
       "anchored_artifacts": [
         "A-2483.1"
       ],

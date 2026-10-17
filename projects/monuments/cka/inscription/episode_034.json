@@ -191,7 +191,7 @@
           "@type": "Artifact",
           "@id": "A-1428.2",
           "ref": "A-1428.2",
-          "description": "Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorenson Center / Losee Center",
+          "description": "Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorensen Center / Losee Center",
           "related_claims": [
             "C-1737"
           ],
@@ -1961,7 +1961,7 @@
       "@id": "C-1737",
       "ref": "C-1737",
       "label": "Harpole Says He Texted UVU Police Chief About Rooftop Access and Got \"I Got You Covered\"; Host Says He Did Not Follow Up",
-      "claim": "In a clip the host plays, Brian Harpole, Charlie Kirk's security lead, reads his texts to UVU Police Chief Jeff Long about student roof access near where Kirk would be set up, ending with the reply \"I got you covered,\" and the host says Harpole did not follow up further.",
+      "claim": "In a clip the host plays, Brian Harpole, one of Charlie Kirk's long-term security team members, reads his texts to UVU Police Chief Jeff Long about student roof access near where Kirk would be set up, ending with the reply \"I got you covered,\" and the host says Harpole did not follow up further.",
       "anchored_artifacts": [
         "A-1428.1",
         "A-1428.2"
@@ -2012,7 +2012,9 @@
       "claim_timestamp": "00:36:37",
       "investigative_direction": "Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.",
       "mentions_person_refs": [
-        "N-160"
+        "N-160",
+        "N-67",
+        "N-3"
       ]
     },
     {
@@ -2457,7 +2459,7 @@
       "@id": "C-4932",
       "ref": "C-4932",
       "label": "Student in the Recording Bets the Shooter Reached the Losee Center Roof via the CS Concourse",
-      "claim": "In the recording, the student says his bet is that the computer science building concourse connected to the law center is how the shooter got onto the Losee Center roof, noting a ladder on the other side as another way.",
+      "claim": "In the recording, the student says his bet is that the computer science building concourse connected to the Losee Center is how the shooter got onto the Losee Center roof, noting a ladder on the other side as another way.",
       "anchored_artifacts": [
         "A-1427.1"
       ],
@@ -2624,7 +2626,7 @@
       "@id": "C-4940",
       "ref": "C-4940",
       "label": "Host Asks Insiders and Viewers for More Tips About the Plane Passengers",
-      "claim": "The host, after saying she wants to know who was on the T.W. Lewis plane and that Charlie's friends keep blocking her, asks viewers to send more tips to the tip address at candacewowens.com.",
+      "claim": "The host, after saying she wants to know who was on the T.W. Lewis plane and that Charlie's friends keep blocking her, asks viewers to send more tips to the tip address at candaceowens.com.",
       "anchored_artifacts": [
         "A-2719.2"
       ],
@@ -2708,8 +2710,8 @@
       "@type": "Claim",
       "@id": "C-4944",
       "ref": "C-4944",
-      "label": "Host Says the Sorenson Center Was the Building in Front of the Losee Center",
-      "claim": "The host says, for edification, that the Sorenson Center was the building in front of the Lozi (Losee) Center.",
+      "label": "Harpole Says the Sorensen Center Was the Building in Front of the Losee Center",
+      "claim": "In the Shawn Ryan interview clip the host plays, Brian Harpole says, for edification, that the Sorensen Center was the building in front of the Losee Center.",
       "anchored_artifacts": [
         "A-1428.2"
       ],
@@ -2719,10 +2721,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:24:53",
-      "investigative_direction": "Check the UVU campus map for the position of the Sorenson Center relative to the Losee Center.",
-      "transcript_snippet": "for edification the Sorenson Center was the building in front of the Lucy Center.",
+      "investigative_direction": "Check the UVU campus map for the position of the Sorensen Center relative to the Losee Center.",
+      "transcript_snippet": "for edification the Sorensen Center was the building in front of the Losee Center.",
       "mentions_person_refs": [
-        "N-10769"
+        "N-267"
       ]
     },
     {
@@ -3247,7 +3249,7 @@
       "@id": "C-4968",
       "ref": "C-4968",
       "label": "Host Says Viewer Tips Report Many Vehicles at the Alleged Shooter's Home the Week Before",
-      "claim": "Reading viewer comments, the host says several people said there were a lot of vehicles at the home of the alleged shooter in the week before the shooting and that neighbors found it strange as they never had company, and she says she will try to hunt it down.",
+      "claim": "Reading viewer comments, the host says several people said there were a lot of vehicles at the home of the alleged shooter in the week before the shooting and that they all found it strange as they never had company, and she says she will try to hunt it down.",
       "anchored_artifacts": [
         "A-2720.1",
         "A-2720.2"

@@ -1944,7 +1944,7 @@
         "N-10406"
       ],
       "tags": [],
-      "claim_timestamp": "00:38:50–00:41:18",
+      "claim_timestamp": "00:40:07",
       "investigative_direction": "Obtain video of Amfest remarks; verify date, exact wording, and surrounding context.",
       "mentions_person_refs": [
         "N-3",
@@ -2008,7 +2008,7 @@
       "@id": "C-2064",
       "ref": "C-2064",
       "label": "Top comment from \"Victoria Betts\" expressed \"Go Max and always all glory to God\"",
-      "claim": "A commenter posted this endorsement phrase.",
+      "claim": "A viewer comment the host reads, from Victoria Betts, says \"Go Max and always all glory to God.\"",
       "anchored_artifacts": [
         "A-1613.4"
       ],
@@ -3368,7 +3368,7 @@
         "N-11384"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:26:54",
       "investigative_direction": "Check the dates: public reporting should be compared with the host's 2021 date for Falwell Jr.'s exit, Prevo's appointment and the end of the Kirk and Falkirk arrangement; obtain any termination notice.",
@@ -3393,7 +3393,7 @@
         "N-11384"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:26:54",
       "investigative_direction": "Request Liberty contracts or disclosures showing a consulting arrangement with Moore or the Kairos Company.",
@@ -3771,7 +3771,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:47:35",
+      "claim_timestamp": "00:48:42",
       "investigative_direction": "Track later episodes for the promised episode and for any request for comment sent to Erika Kirk.",
       "transcript_snippet": "but I do intend on doing an episode dedicated to that in the future. But I also want to give her the opportunity to respond to any questions that I have.",
       "mentions_person_refs": [
@@ -3848,15 +3848,15 @@
       "@id": "C-14165",
       "ref": "C-14165",
       "label": "Host Says Argentina's President Looks a Little Like Netanyahu and Cites a Rumor About His Full Last Name",
-      "claim": "The host says she was attacked for distrusting the Argentine president, that she has seen it said his full last name is 'Milei', and that he looks a little like Netanyahu; she calls it a conspiracy.",
+      "claim": "The host says she was attacked for distrusting the Argentine president, that she has seen claims about what his full last name really is, and that he looks a little like Netanyahu; she calls it a conspiracy.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
         "relevance:tangential"
       ],
       "claim_timestamp": "00:49:54",
-      "investigative_direction": "Check Javier Milei's recorded family names; the host offers only a viral rumor and labels it a conspiracy.",
-      "transcript_snippet": "Saw some stuff about like really his full last name is Milei and he looks a little like BB Nyahoo.",
+      "investigative_direction": "Check the rumor that Javier Milei's surname is Mileikowsky (Netanyahu's family name); the host offers only a viral rumor and labels it a conspiracy.",
+      "transcript_snippet": "Saw some stuff about like really his full last name is Mileikowsky and he looks a little like BB Nyahoo.",
       "mentions_person_refs": [
         "N-936",
         "N-36"

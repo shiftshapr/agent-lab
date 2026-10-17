@@ -1,0 +1,570 @@
+[
+ {
+  "claim": "C-1620",
+  "episode": 27,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-212",
+    "N-1"
+   ]
+  },
+  "note": "Jesse Watters asks the question and is named; 'her husband' is Charlie Kirk."
+ },
+ {
+  "claim": "C-1633",
+  "episode": 27,
+  "decision": "accept",
+  "fix": {
+   "claim": "Kolby Sessions posts a social media message identifying himself as the person seen wearing the green hoodie at the UVU event, explaining he and a teammate were on campus to get food and stop by.",
+   "label": "Kolby Sessions Publicly Identifies Himself as the Green-Hoodie Figure at the UVU Event",
+   "names": [
+    {
+     "wrong": "Colby Sessions",
+     "right": "Kolby Sessions",
+     "source": "https://gouvu.com/news/2025/9/2/mens-soccer-sessions-emojong-earn-wac-player-of-the-week-honors.aspx"
+    }
+   ]
+  },
+  "note": "Verified: UVU goalkeeper is Kolby Sessions (gouvu.com); host places him on UVU soccer team."
+ },
+ {
+  "claim": "C-9606",
+  "episode": 27,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Colby Sessions",
+     "right": "Kolby Sessions",
+     "source": "https://gouvu.com/news/2025/9/2/mens-soccer-sessions-emojong-earn-wac-player-of-the-week-honors.aspx"
+    }
+   ]
+  },
+  "note": "Kolby Sessions verified (gouvu.com, UVU men's soccer goalkeeper)."
+ },
+ {
+  "claim": "C-9607",
+  "episode": 27,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she thinks Kolby Sessions is on the soccer team at UVU.",
+   "label": "Host Believes Kolby Sessions Is on the UVU Soccer Team",
+   "names": [
+    {
+     "wrong": "Colby Sessions",
+     "right": "Kolby Sessions",
+     "source": "https://gouvu.com/news/2025/9/2/mens-soccer-sessions-emojong-earn-wac-player-of-the-week-honors.aspx"
+    }
+   ]
+  },
+  "note": "Kolby Sessions verified (gouvu.com, UVU men's soccer goalkeeper)."
+ },
+ {
+  "claim": "C-1644",
+  "episode": 28,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:35:15"
+  },
+  "note": "Her answer and the doubled/tripled-down quote are in the 35:14 block; 00:35:15 is about at her answer."
+ },
+ {
+  "claim": "C-1647",
+  "episode": 28,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5"
+   ]
+  },
+  "note": "Claim names President Trump; N-5 Donald Trump."
+ },
+ {
+  "claim": "C-1664",
+  "episode": 29,
+  "decision": "accept",
+  "fix": {
+   "claim": "Keri Smith, host of the Deprogrammed podcast, in audio played on the episode, said she thinks Candace Owens is \"exhibiting several cult tactics\" and is using manipulative language and \"a lot of cluster B personality disorder behavior.\"",
+   "names": [
+    {
+     "wrong": "Carrie Smith",
+     "right": "Keri Smith",
+     "source": "https://x.com/RealKeriSmith/status/1986929885143556457"
+    }
+   ]
+  },
+  "note": "Hedges match transcript; Keri Smith verified (x.com/RealKeriSmith, Deprogrammed host)."
+ },
+ {
+  "claim": "C-7936",
+  "episode": 29,
+  "decision": "reject",
+  "fix": {},
+  "note": "Steven Paddock -> Stephen Paddock already exists in transcript_name_corrections.json; fix changes nothing."
+ },
+ {
+  "claim": "C-7965",
+  "episode": 29,
+  "decision": "reject",
+  "fix": {},
+  "note": "Still Smith's clip: 'Can you just bring her up... without playing it' and the bookshelf remark are hers; host replies at 46:29."
+ },
+ {
+  "claim": "C-1677",
+  "episode": 30,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim/label already say Schaffer; Elijah Schaefer rule already exists. Fix changes nothing."
+ },
+ {
+  "claim": "C-1678",
+  "episode": 30,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim already says Hen Mazzig; Hen Mazig rule already exists. Fix changes nothing."
+ },
+ {
+  "claim": "C-1679",
+  "episode": 30,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim already correct; Schaefer and Mazig rules already exist. Fix changes nothing."
+ },
+ {
+  "claim": "C-9757",
+  "episode": 30,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says all the leaks come from people at Turning Point USA who loved Charlie Kirk and hate the corruption, and that they have told her what the Erickson brothers are doing, saying and texting, which she keeps in a file.",
+   "label": "Host Says Leaks Come From TPUSA Insiders and She Holds a File on What the Erickson Brothers Do and Say",
+   "names": [
+    {
+     "wrong": "Ericson brothers",
+     "right": "Erickson brothers",
+     "source": "https://www.tpusa.com/austinerickson"
+    }
+   ]
+  },
+  "note": "Erickson verified (tpusa.com bio). Bare 'Ericson' would hit ep 20 'Ericson family'; scoped to 'Ericson brothers'."
+ },
+ {
+  "claim": "C-1686",
+  "episode": 31,
+  "decision": "amend",
+  "fix": {
+   "claim": "On the Bryce Eddy Show podcast clip played in the episode, Rob McCoy states that about 20 years ago at \"Skyline\" Thomas Camino introduced himself, that Camino \"followed the procedures\" required of him, that they have been friends since, and that Camino has \"served this community.\"",
+   "names": [
+    {
+     "wrong": "Bryce Eddie",
+     "right": "Bryce Eddy",
+     "source": "https://podcasts.apple.com/us/podcast/join-the-liberty-station-community-be-a-threat-to/id1635204267?i=1000570637841"
+    }
+   ]
+  },
+  "note": "Bryce Eddy Show verified (Apple Podcasts). Transcript has lowercase 'Bryce Eddie show', so rule is 'Bryce Eddie'."
+ },
+ {
+  "claim": "C-1688",
+  "episode": 31,
+  "decision": "amend",
+  "fix": {
+   "claim": "In the Bryce Eddy Show clip, Thomas Camino states he was \"falsely accused,\" describes a \"sham\" trial, claims he served 1,536 days for a crime he did not commit, and alleges his ex-wife was dating his public defender.",
+   "names": [
+    {
+     "wrong": "Bryce Eddie",
+     "right": "Bryce Eddy",
+     "source": "https://podcasts.apple.com/us/podcast/join-the-liberty-station-community-be-a-threat-to/id1635204267?i=1000570637841"
+    }
+   ]
+  },
+  "note": "Bryce Eddy Show verified (Apple Podcasts). Transcript has lowercase 'Bryce Eddie show', so rule is 'Bryce Eddie'."
+ },
+ {
+  "claim": "C-6620",
+  "episode": 31,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the founder of Calvary Chapel in Pompano Beach, Florida was a pastor named Bob Coy, a former Las Vegas casino entertainment director, who was accused of molesting a 4-year-old girl, and she stresses he is not Rob McCoy.",
+   "names": [
+    {
+     "wrong": "Pompo Beach",
+     "right": "Pompano Beach",
+     "source": "https://www.browardpalmbeach.com/news/channeling-jesus-6331733/"
+    }
+   ]
+  },
+  "note": "Wikipedia does not mention Pompano; Broward-Palm Beach New Times places Coy's church on Gateway Drive, Pompano Beach."
+ },
+ {
+  "claim": "C-6622",
+  "episode": 31,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the lead pastor of Calvary Chapel Cary resigned amid allegations of incest with his own son, bullying, drug addiction and misuse of funds.",
+   "label": "Host Says a Calvary Chapel Cary Lead Pastor Resigned Amid Incest and Fund-Misuse Allegations",
+   "names": [
+    {
+     "wrong": "Calvary Chapel Carrie",
+     "right": "Calvary Chapel Cary",
+     "source": "https://roysreport.com/embattled-calvary-chapel-pastor-abruptly-resigns-days-trying-sell-church/"
+    }
+   ]
+  },
+  "note": "Verified: Calvary Chapel Cary (Apex NC), pastor Rodney Finch resigned 2024 (Roys Report)."
+ },
+ {
+  "claim": "C-6625",
+  "episode": 31,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the North Country Chapel in Post Falls, Idaho is being sued by victims alleging it concealed a known predator, Anthony Iglesias, now serving time in an Idaho prison, and that the lawsuit alleges Reverend Robert Davis told the parents they knew his history and had pulled him out of Thailand, an orphanage program.",
+   "timestamp": "00:20:11",
+   "names": [
+    {
+     "wrong": "North County Chapel",
+     "right": "North Country Chapel",
+     "source": "https://www.spokesman.com/stories/2011/apr/16/churches-protected-predator-suit-says/"
+    },
+    {
+     "wrong": "Anthony uh Eglacius",
+     "right": "Anthony Iglesias",
+     "source": "https://www.spokesman.com/stories/2011/apr/16/churches-protected-predator-suit-says/"
+    },
+    {
+     "wrong": "a Glaciius",
+     "right": "Iglesias",
+     "source": "https://www.spokesman.com/stories/2011/apr/16/churches-protected-predator-suit-says/"
+    }
+   ]
+  },
+  "note": "North Country Chapel and Iglesias verified (Spokesman-Review). Transcript has 'Anthony uh Eglacius' and 'a Glaciius', which the existing rule misses. 20:11 ok."
+ },
+ {
+  "claim": "C-6629",
+  "episode": 31,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the lead pastor of a Calvary Chapel in North Thurston, Oregon, Jeffrey Zizz, confessed to sexual misconduct involving his three daughters over two years, served 11 months, and after release murdered an 82-year-old woman and poured concrete over her body.",
+   "names": [
+    {
+     "wrong": "North Thirsten",
+     "right": "North Thurston",
+     "source": "https://roysreport.com/former-calvary-chapel-pastor-charged-with-murder-of-82-year-old-grandmother/"
+    }
+   ]
+  },
+  "note": "Verified: Zizz was pastor at Calvary Chapel of North Thurston (Roys Report). Host's 'Oregon' kept as said."
+ },
+ {
+  "claim": "C-6632",
+  "episode": 31,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Potter's Field is an area in Whitefish, Montana where the Calvary Church Association funded a ministry that became Potter's Field Ministries, with a hunting ground, a camp for kids, a student program called Ignite and a burger chain.",
+   "label": "Host Says the Calvary Church Association Funded Potter's Field Ministries in Whitefish, Montana",
+   "names": [
+    {
+     "wrong": "Potter's Fields Ministries",
+     "right": "Potter's Field Ministries",
+     "source": "https://www.mtpr.org/montana-news/2019-07-25/potters-field-ministries-allegedly-diverted-funds-from-kids-food-program"
+    }
+   ]
+  },
+  "note": "Potter's Field Ministries verified (MTPR 2019)."
+ },
+ {
+  "claim": "C-6633",
+  "episode": 31,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that in 2019 Potter's Field Ministries came under a scandal with reports of financial and psychological abuse, and that Calvary Chapel members were funding it believing the money fed and clothed children in Uganda, Cambodia, Costa Rica and Guatemala.",
+   "label": "Host Says Potter's Field Came Under a 2019 Scandal Over Where Donor Money Went",
+   "names": [
+    {
+     "wrong": "Potter's Fields Ministries",
+     "right": "Potter's Field Ministries",
+     "source": "https://www.mtpr.org/montana-news/2019-07-25/potters-field-ministries-allegedly-diverted-funds-from-kids-food-program"
+    }
+   ]
+  },
+  "note": "Potter's Field Ministries verified (MTPR 2019)."
+ },
+ {
+  "claim": "C-6634",
+  "episode": 31,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads quotes attributed to a former Ignite student named Kenzie Kinney, who handled Potter's Field finances, that a very high guess of children in the program was 500 across five countries, that she worked with about 20 kids weekly, that videos of hundreds of fed children came from infrequent conferences, and that workers were told to photoshop old letters and cut off dates before mailing them to donors.",
+   "names": [
+    {
+     "wrong": "Kenny",
+     "right": "Kenzie Kinney",
+     "source": "https://www.mtpr.org/montana-news/2019-07-25/potters-field-ministries-allegedly-diverted-funds-from-kids-food-program"
+    }
+   ]
+  },
+  "note": "MTPR 2019 names Kenzie Kinney with the 500-kids quote; host names her too. 'Kenny' is a garble; only ep 31 use."
+ },
+ {
+  "claim": "C-6635",
+  "episode": 31,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that after announcing it was shutting down in 2019, Potter's Field Ministries brought in Pastor Rob McCoy as CFO, and that the money was transferred into his church, which she says was done above board with the people notified.",
+   "label": "Host Says Potter's Field Brought In Rob McCoy as CFO and Its Money Went into His Church",
+   "names": [
+    {
+     "wrong": "Potter's Fields Ministry",
+     "right": "Potter's Field Ministries",
+     "source": "https://www.mtpr.org/montana-news/2019-07-25/potters-field-ministries-allegedly-diverted-funds-from-kids-food-program"
+    }
+   ]
+  },
+  "note": "Potter's Field Ministries verified (MTPR 2019)."
+ },
+ {
+  "claim": "C-10857",
+  "episode": 32,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim already says Schaffer; Elijah Schaefer rule already exists. Fix changes nothing."
+ },
+ {
+  "claim": "C-1728",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  },
+  "note": "Verified: Wolves and Finance CPA is Zach De Gregorio (LinkedIn, wolvesandfinance.com, ericreports.com)."
+ },
+ {
+  "claim": "C-1729",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  },
+  "note": "Verified: Wolves and Finance CPA is Zach De Gregorio (LinkedIn, wolvesandfinance.com, ericreports.com)."
+ },
+ {
+  "claim": "C-1730",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  },
+  "note": "Verified: Wolves and Finance CPA is Zach De Gregorio (LinkedIn, wolvesandfinance.com, ericreports.com)."
+ },
+ {
+  "claim": "C-1731",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  },
+  "note": "Verified: Wolves and Finance CPA is Zach De Gregorio (LinkedIn, wolvesandfinance.com, ericreports.com)."
+ },
+ {
+  "claim": "C-1732",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  },
+  "note": "Verified: Wolves and Finance CPA is Zach De Gregorio (LinkedIn, wolvesandfinance.com, ericreports.com)."
+ },
+ {
+  "claim": "C-12390",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  },
+  "note": "Verified: Wolves and Finance CPA is Zach De Gregorio (LinkedIn, wolvesandfinance.com, ericreports.com)."
+ },
+ {
+  "claim": "C-12396",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  },
+  "note": "Verified: Wolves and Finance CPA is Zach De Gregorio (LinkedIn, wolvesandfinance.com, ericreports.com)."
+ },
+ {
+  "claim": "C-12397",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  },
+  "note": "Verified: Wolves and Finance CPA is Zach De Gregorio (LinkedIn, wolvesandfinance.com, ericreports.com)."
+ },
+ {
+  "claim": "C-12398",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  },
+  "note": "Verified: Wolves and Finance CPA is Zach De Gregorio (LinkedIn, wolvesandfinance.com, ericreports.com)."
+ },
+ {
+  "claim": "C-12399",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  },
+  "note": "Verified: Wolves and Finance CPA is Zach De Gregorio (LinkedIn, wolvesandfinance.com, ericreports.com)."
+ },
+ {
+  "claim": "C-12400",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  },
+  "note": "Verified: Wolves and Finance CPA is Zach De Gregorio (LinkedIn, wolvesandfinance.com, ericreports.com)."
+ },
+ {
+  "claim": "C-12401",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  },
+  "note": "Verified: Wolves and Finance CPA is Zach De Gregorio (LinkedIn, wolvesandfinance.com, ericreports.com)."
+ },
+ {
+  "claim": "C-12402",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  },
+  "note": "Verified: Wolves and Finance CPA is Zach De Gregorio (LinkedIn, wolvesandfinance.com, ericreports.com)."
+ },
+ {
+  "claim": "C-12415",
+  "episode": 33,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  },
+  "note": "Verified: Wolves and Finance CPA is Zach De Gregorio (LinkedIn, wolvesandfinance.com, ericreports.com)."
+ },
+ {
+  "claim": "C-1739",
+  "episode": 34,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-67",
+    "N-3"
+   ]
+  },
+  "note": "Claim names Mark ('It's when the call is initiated'); N-67 Mark Herman."
+ },
+ {
+  "claim": "C-4944",
+  "episode": 34,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the Shawn Ryan interview clip the host plays, Brian Harpole says, for edification, that the Sorenson Center was the building in front of the Losee Center.",
+   "label": "Harpole Says the Sorenson Center Was the Building in Front of the Losee Center",
+   "mentions": [
+    "N-267"
+   ]
+  },
+  "note": "Same clip replays in ep 36 with 'for edification' inside it, so Harpole says it. Losee correct."
+ }
+]

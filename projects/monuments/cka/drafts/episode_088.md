@@ -493,7 +493,7 @@ Jesse Watters; interviewer in the Erika clip.
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Elizabeth McCoy; Mikey McCoy's wife, whom he called first per the host.
 

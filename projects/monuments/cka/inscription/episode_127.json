@@ -13,7 +13,7 @@
     "transcript_sha256": "a00c93c3de8fb9fe25ca93a10cae28c73ff062257c969ca7726819b14b4093e7",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "Episode 127 advances the Bride of Charlie series' preliminary-hearing record by presenting six discrete evidentiary exhibits drawn from on-air testimony and recorded interviews. The most structurally significant artifacts are the read-aloud exchanges from Officer Bagley's preliminary hearing (body-cam termination and unidentified rooftop companion), the email from a credentialed Axon Body Cam 4 operator disputing the body-cam battery explanation, the joint testimony of Sergeant Jennifer Faumuina (Utah Bureau of Investigations) and FBI agent Amanda Baker concerning the abandoned backpack/jacket/gloves that were located on the suspect's route and then removed from FBI testing, the recorded Frank Turek FaceTime interview in which he visibly shifts his stated endpoint from \"hotel\" to \"hospital,\" and a played excerpt of Dan Bongino on Megyn Kelly (Sept 15, 2025) describing the screwdriver rooftop footage as grainy.\n\nThe episode's investigative contributions are concentrated in three structural questions: (1) who was on the Losee Center rooftop between 12:23 and 12:44 and how that person's badge was verified; (2) the chain of communication by which a backpack found along the shooter route was reclassified as \"Kirk's detail\" without testing; and (3) the inconsistencies in Frank Turek's account of his FaceTime call during the incident. A separate tip from a verified Timpanogos Regional Hospital source advances the hospital-pre-notification question. No new evidentiary artifacts are introduced in the comments section; that material is non-investigative.\n\n---",
+  "executive_summary": "Episode 127 advances the Bride of Charlie series' preliminary-hearing record by presenting six discrete evidentiary exhibits drawn from on-air testimony and recorded interviews. The most structurally significant artifacts are the read-aloud exchanges from Officer Bagley's preliminary hearing (body-cam termination and unidentified rooftop companion), the email from a credentialed Axon Body Cam 4 operator disputing the body-cam battery explanation, the joint testimony of Sergeant Jennifer Faumuina (Utah Bureau of Investigations) and FBI agent Amanda Bakker concerning the abandoned backpack/jacket/gloves that were located on the suspect's route and then removed from FBI testing, the recorded Frank Turek FaceTime interview in which he visibly shifts his stated endpoint from \"hotel\" to \"hospital,\" and a played excerpt of Dan Bongino on Megyn Kelly (Sept 15, 2025) describing the screwdriver rooftop footage as grainy.\n\nThe episode's investigative contributions are concentrated in three structural questions: (1) who was on the Losee Center rooftop between 12:23 and 12:44 and how that person's badge was verified; (2) the chain of communication by which a backpack found along the shooter route was reclassified as \"Kirk's detail\" without testing; and (3) the inconsistencies in Frank Turek's account of his FaceTime call during the incident. A separate tip from a verified Timpanogos Regional Hospital source advances the hospital-pre-notification question. No new evidentiary artifacts are introduced in the comments section; that material is non-investigative.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -139,7 +139,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2149",
       "family_ref": "A-2149",
-      "bundle_name": "Amanda Baker (FBI) Preliminary Hearing Testimony Bundle",
+      "bundle_name": "Amanda Bakker (FBI) Preliminary Hearing Testimony Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -1618,7 +1618,7 @@
       "@type": "Person",
       "@id": "N-779",
       "ref": "N-779",
-      "name": "Amanda Baker",
+      "name": "Amanda Bakker",
       "type": "person",
       "description": "First named by the host at 00:19:25 in episode 127. FBI agent who testified about exhibit nine, the backpack.",
       "related_artifacts": [],
@@ -1830,8 +1830,8 @@
       "@type": "Claim",
       "@id": "C-3049",
       "ref": "C-3049",
-      "label": "FBI agent Amanda Baker testified backpack was determined to be potentially left by a bystander",
-      "claim": "FBI agent Amanda Baker testified that the backpack (exhibit 9) was determined to be \"potentially left behind by a bystander\" and that no DNA comparisons were needed at that time.",
+      "label": "FBI agent Amanda Bakker testified backpack was determined to be potentially left by a bystander",
+      "claim": "FBI agent Amanda Bakker testified that the backpack (exhibit 9) was determined to be \"potentially left behind by a bystander\" and that no DNA comparisons were needed at that time.",
       "anchored_artifacts": [
         "A-2149.1"
       ],
@@ -1849,8 +1849,8 @@
       "@type": "Claim",
       "@id": "C-3050",
       "ref": "C-3050",
-      "label": "Amanda Baker testified lab notes attributed backpack to Kirk's detail via another lab employee's communication",
-      "claim": "FBI agent Amanda Baker testified, when confronted with lab notes stating the backpack \"belongs to Kirk's detailees,\" that this language was not from her communication log and that it was information another individual within the laboratory received.",
+      "label": "Amanda Bakker testified lab notes attributed backpack to Kirk's detail via another lab employee's communication",
+      "claim": "FBI agent Amanda Bakker testified, when confronted with lab notes stating the backpack \"belongs to Kirk's detailees,\" that this language was not from her communication log and that it was information another individual within the laboratory received.",
       "anchored_artifacts": [
         "A-2149.2"
       ],
@@ -2423,7 +2423,7 @@
       "@id": "C-7298",
       "ref": "C-7298",
       "label": "Baker Testified the Items Were Initially Processed for DNA",
-      "claim": "FBI agent Amanda Baker testified that initially there was no information from investigators, so the items, which are good for DNA, were processed for DNA.",
+      "claim": "FBI agent Amanda Bakker testified that initially there was no information from investigators, so the items, which are good for DNA, were processed for DNA.",
       "anchored_artifacts": [
         "A-2149.1"
       ],

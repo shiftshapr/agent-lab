@@ -730,7 +730,7 @@ Named in the Tim Dillon clip as the person who hired Bari Weiss.
 
 **N-177** Deirdre Amaro
 
-Medical examiner; the host says she is a major in the military (transcribed Dedra Amaro).
+Medical examiner; the host says she is a major in the military (transcribed Deirdre Amaro).
 
 *Related: C-9785*
 
@@ -1229,20 +1229,20 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-9765** Host Says Tips Show the Satis Angle Opens New Possibilities Beyond Painting Planes
+**C-9765** Host Says Tips Show the Satys Angle Opens New Possibilities Beyond Painting Planes
 
 Claim Timestamp: 00:00:00
 
-Claim: The host says tips about the French company Satis have opened up a whole new level of possibilities in the assassination story and that she does not think they were just painting planes this year.
+Claim: The host says tips about the French company Satys have opened up a whole new level of possibilities in the assassination story and that she does not think they were just painting planes this year.
 
-Transcript Snippet: It seems that that company, Satis, that French company. The angle has opened up a whole new level of possibilities here in this Charlie Kirk assassination story.
+Transcript Snippet: It seems that that company, Satys, that French company. The angle has opened up a whole new level of possibilities here in this Charlie Kirk assassination story.
 
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-11008
 Supports: C-5029
 Tags: relevance:core
-Investigative Direction: Identify who at Satis the tipsters name and obtain the Satis hangar lease and any work orders for the Wilmington facility.
+Investigative Direction: Identify who at Satys the tipsters name and obtain the Satys hangar lease and any work orders for the Wilmington facility.
 
 ---
 
@@ -1547,13 +1547,13 @@ Investigative Direction: Check medical licensing and residency records for Dr. L
 
 ---
 
-**C-9785** Host Says Medical Examiner Dr. Dedra Amaro Is a Major in the Military
+**C-9785** Host Says Medical Examiner Dr. Deirdre Amaro Is a Major in the Military
 
 Claim Timestamp: 00:15:10
 
-Claim: The host says Dr. Dedra Amaro, Charlie's medical examiner whom officials have not wanted to address publicly, is also a major in the military.
+Claim: The host says Dr. Deirdre Amaro, Charlie's medical examiner whom officials have not wanted to address publicly, is also a major in the military.
 
-Transcript Snippet: Dr. Dedra Amaro, is the medical examiner, Charlie's medical examiner, who they've curiously not wanted to address publicly. Yeah, I told you she's also a major in the military.
+Transcript Snippet: Dr. Deirdre Amaro, is the medical examiner, Charlie's medical examiner, who they've curiously not wanted to address publicly. Yeah, I told you she's also a major in the military.
 
 Anchored Artifacts: 
 Mentions: N-177
@@ -1892,19 +1892,19 @@ Investigative Direction: Request the host's verification trail for the 920 North
 
 ---
 
-**C-9807** Host Says the Egyptian Planes Were Definitively Pulled Into Satis and a Foreign Dignitary Was Escorted
+**C-9807** Host Says the Egyptian Planes Were Definitively Pulled Into Satys and a Foreign Dignitary Was Escorted
 
 Claim Timestamp: 00:22:20
 
-Claim: The host says the Egyptian planes were definitively pulled into Satis and that a foreign dignitary was then escorted, for whatever reason, to a facility.
+Claim: The host says the Egyptian planes were definitively pulled into Satys and that a foreign dignitary was then escorted, for whatever reason, to a facility.
 
-Transcript Snippet: The Egyptian planes definitively were pulled into Satis uh and that person was then escorted for whatever reason.
+Transcript Snippet: The Egyptian planes definitively were pulled into Satys uh and that person was then escorted for whatever reason.
 
 Anchored Artifacts: 
 Related Nodes: N-11008, N-10260, N-10265
 Supports: C-4919
 Tags: relevance:core
-Investigative Direction: Obtain Satis hangar logs and any escort records for foreign aircraft at Wilmington.
+Investigative Direction: Obtain Satys hangar logs and any escort records for foreign aircraft at Wilmington.
 
 ---
 

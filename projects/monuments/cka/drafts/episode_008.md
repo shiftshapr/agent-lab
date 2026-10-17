@@ -831,7 +831,7 @@ Investigative Direction: Obtain the original follow-up video and any car-cam foo
 **C-1248** George Zinn Arrested ~1:48 After Shot Near Where Charlie's SUV Departed
 
 Claim Timestamp: 00:14:20
-Claim: Per the host's timeline, ~40 seconds from shot to SUV departure and ~1:08 later George Zinn is in handcuffs in the same SUV zone.
+Claim: Per the host's timeline, ~40 seconds from the shot until Charlie is brought to the SUV and ~1:08 later George Zinn is in handcuffs in the same SUV zone.
 Transcript Snippet: 40 seconds later, Charlie's brought to the SUV... George Zinn is in handcuffs
 Anchored Artifacts: A-1148.1, A-1148.3, A-1148.4
 Mentions: N-42
@@ -884,7 +884,7 @@ Tags: open_source_investigation
 **C-1252** Roof video chain routed through Chicago-based intermediaries
 
 Claim Timestamp: 00:20:07
-Claim: Host traces the viral roof footage through an unknown poster, an Aaron with a Chicago number, and a separate pair of Chicago numbers that go nowhere.
+Claim: Host traces the viral roof footage through the account that posted it, a pair of Chicago numbers sent via the poster's friend that go nowhere, and an Aaron with a Chicago number.
 Transcript Snippet: those two numbers were both Chicago based... that's not making sense to me
 Anchored Artifacts: A-1150.1
 Mentions: N-100
@@ -961,7 +961,7 @@ Investigative Direction: Confirm chain-of-custody; check whether originals were 
 
 ---
 
-**C-1258** Charlie Kirk said he was being morally blackmailed by donors
+**C-1258** Kolvet Says Charlie Said He Didn't Appreciate Being Morally Blackmailed
 
 Claim Timestamp: 00:43:37
 Claim: Kolvet recounts Charlie telling him after a Myrtle Beach show, 'I don't appreciate being morally blackmailed,' after an audience member asked whether he would debate Candace or disavow Tucker.
@@ -990,7 +990,7 @@ Investigative Direction: Verify the clip's date and audience Q&A context.
 **C-1260** Trump called for separating MMR and delaying Hepatitis B
 
 Claim Timestamp: 00:47:44
-Claim: Trump publicly stated vaccines should not contain mercury or aluminum, MMR should be given as separate shots, and Hepatitis B should wait until age 12.
+Claim: In a clip the host plays, Trump says he wants no mercury or aluminum in vaccines, that he thinks the MMR should be taken separately, and that he would say to wait until the baby is 12 years old for hepatitis B.
 Transcript Snippet: The MMR I think should be taken separately... hepatitis B is sexually transmitted... wait till the baby is 12
 Anchored Artifacts: A-1153.1
 Mentions: N-5
@@ -1902,7 +1902,7 @@ Investigative Direction: Check the vaccine schedule history for combined MMR and
 
 Claim Timestamp: 00:49:29
 
-Claim: The host says that for the people she calls psychopaths, poisoning children is a religion, and that they wish to poison children's bodies and minds.
+Claim: The host says the people she calls psychopaths hate us, that for them this is a religion, and that they wish to poison children's bodies and minds.
 
 Transcript Snippet: They hate me. For them, this is a religion. Okay? And they wish to poison our offspring.
 
@@ -1948,7 +1948,7 @@ Investigative Direction: Compare Charlie's public statements on Gaza and Netanya
 
 Claim Timestamp: 00:54:07
 
-Claim: The host says the official narrative's message, a suspect whose father is extra MAGA and who is trans, is designed so the left reacts to MAGA and the right to a trans person, and that she never accepted it.
+Claim: The host says the official narrative's message, that the suspect's dad is extra MAGA and that a trans person is involved, is designed so the left reacts to MAGA and the right to a trans person, and that she never accepted it.
 
 Transcript Snippet: MAGA. My dad's extra MAGA. That's supposed to make people that are on the left go,
 

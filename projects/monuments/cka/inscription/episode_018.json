@@ -787,7 +787,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10190",
       "ref": "N-10190",
-      "name": "Signature FBO / Millionaire FBO (entity cluster)",
+      "name": "Signature FBO / Million Air FBO (entity cluster)",
       "type": "investigation_target",
       "description": "Two fixed-base operators referenced in connection with plane 888's last-minute destination change and contradicting employee statements.",
       "related_artifacts": [],
@@ -1073,7 +1073,7 @@
       "@type": "Person",
       "@id": "N-73",
       "ref": "N-73",
-      "name": "Irwin Steel",
+      "name": "Erwin Steele",
       "type": "person",
       "description": "Steele family member the host says is big with Caldera Engineering; transcribed Steel.",
       "related_artifacts": [],
@@ -1649,7 +1649,7 @@
       "@id": "C-1429",
       "ref": "C-1429",
       "label": "Surgeon Quoted on Bullet Stopped",
-      "claim": "Per Kolbatz's account, the surgeon stated the bullet should have exited, that people behind Charlie could have been killed, and characterized the outcome as \"an absolute miracle.\"",
+      "claim": "Per Andrew Kolvet's tweet the host reads, the surgeon stated the bullet should have exited, that people behind Charlie could have been killed, and characterized the outcome as \"an absolute miracle.\"",
       "anchored_artifacts": [
         "A-1251.1"
       ],
@@ -2160,7 +2160,7 @@
       "@id": "C-1459",
       "ref": "C-1459",
       "label": "Host Says Matt Walsh Found Kirk's Text \"Too on the Nose\"",
-      "claim": "The host says Matt Walsh thought Charlie Kirk's text messages were fake because the sentence about leaving the pro-Israel cause felt \"too on the nose\"; the host adds her own view that it suggests Charlie had been pushed to write it.",
+      "claim": "The host says Matt Walsh thought Charlie Kirk's text messages were fake because the sentence about leaving the pro-Israel cause felt \"too on the nose\"; paraphrasing him, she says you must have done a lot to make Charlie write that statement.",
       "anchored_artifacts": [
         "A-1259.1"
       ],
@@ -2629,7 +2629,7 @@
       "@id": "C-13890",
       "ref": "C-13890",
       "label": "Host Says Her Well-Informed Opinion Is the Shooter Was Much Closer, Likely in the Audience",
-      "claim": "The host says it is now her well-informed opinion that investigators should be looking for a person who was a lot closer to Charlie and likely in the audience.",
+      "claim": "The host says it is now her well-informed opinion that we are looking for a person who was a lot closer to Charlie and likely in the audience.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10181"
@@ -2886,7 +2886,7 @@
       "@id": "C-13901",
       "ref": "C-13901",
       "label": "Host Says She Thinks Two Armed People Should Be Sought, One in the Audience and One With a Rifle",
-      "claim": "The host says she thinks investigators should look for two people who had weapons that day, one in the audience and one elsewhere with a rifle.",
+      "claim": "The host says she thinks it is likely that what we should be looking for are two people who had weapons that day, one in the audience and one elsewhere with a rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10181"
@@ -2971,7 +2971,7 @@
       "@id": "C-13905",
       "ref": "C-13905",
       "label": "Host Says the Shooter Was in the Audience and to the Left",
-      "claim": "The host says investigators need to be looking for a shooter who was in the audience and to the left of Charlie.",
+      "claim": "The host says we probably now need to be looking for a shooter who was in the audience and to the left of Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10181",
@@ -3014,7 +3014,7 @@
       "@id": "C-13907",
       "ref": "C-13907",
       "label": "Host Says the Steele Family Is Big With Caldera Engineering",
-      "claim": "The host says Irwin Steel and others of the Steel family were involved in the story and that it turns out the Steels are big with Caldera Engineering.",
+      "claim": "The host says Erwin Steele and others of the Steele family were involved in the story and that it turns out the Steeles are big with Caldera Engineering.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10065",
@@ -3025,7 +3025,7 @@
       ],
       "claim_timestamp": "00:28:51",
       "investigative_direction": "Pull Utah business filings for Caldera Engineering and check officers, owners and employees against the Steele family.",
-      "transcript_snippet": "Irwin Steel. This Steel. So many Steels were involved. It turns out the Steels are big with Caldera Engineering.",
+      "transcript_snippet": "Erwin Steele. This Steel. So many Steels were involved. It turns out the Steels are big with Caldera Engineering.",
       "supports_claim_refs": [
         "C-11934"
       ],
@@ -3261,7 +3261,7 @@
       "@id": "C-13918",
       "ref": "C-13918",
       "label": "Host Recounts Hammer's Story That Charlie Wanted Debate Help",
-      "claim": "The host says Hammer's whole story was that Charlie reached out to him because Charlie wanted help strengthening his debate, and she notes that Hammer's reply text asks about Charlie's first stop the next day.",
+      "claim": "The host says Hammer's whole story was that Charlie reached out to him because Charlie wanted help strengthening his debate, and she notes that the reply text, which she assumes is Hammer's, asks about Charlie's first stop the next day.",
       "anchored_artifacts": [
         "A-1256.1"
       ],

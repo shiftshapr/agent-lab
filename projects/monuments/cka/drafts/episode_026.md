@@ -699,7 +699,7 @@ Jesse Watters (transcribed "Jesse Watters"); interviewer of Erika Kirk.
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Eliza McCoy (host says "Elizabeth McCoy"); Mikey McCoy's wife in the host's three-calls claim.
 
@@ -1115,7 +1115,7 @@ Investigative Direction: Identify the original poster accounts and verify the or
 
 Claim Timestamp: 00:23:55
 
-Claim: The host plays a clip of Brett Cooper on the Shawn Ryan Show discussing her mother's visits to mediums, and says the visits followed the death of her twin brother.
+Claim: The host plays a clip of Brett Cooper on the Shawn Ryan Show discussing her mother's visits to mediums, and says the visits followed the death of one of her twin brothers.
 
 Anchored Artifacts: A-1338.1
 Mentions: N-222, N-225
@@ -1519,7 +1519,7 @@ Investigative Direction: Locate the unedited debate video and compare the exact 
 
 Claim Timestamp: 00:13:26
 
-Claim: The host says that during the Republican presidential debates most candidates wore an Israeli flag pin and that only Vivek Ramaswamy did not.
+Claim: The host says that during the Republican presidential debates most candidates wore an Israeli flag pin and that she thinks only Vivek Ramaswamy did not.
 
 Transcript Snippet: there was only only Vik Ramoswami was not wearing the Israeli pin.
 
@@ -2227,7 +2227,7 @@ Investigative Direction: Locate the original Hammer segment and confirm his word
 
 Claim Timestamp: 00:54:27
 
-Claim: The host says that after Trump asked why people are still talking about Jeffrey Epstein, a story was released later that he was protecting some of his donors, which she calls her mask-down moment.
+Claim: The host says her mask-down moment was when Trump asked why people are still talking about Jeffrey Epstein, and that a story was released later that he was protecting some of his donors.
 
 Transcript Snippet: a story was released later that he was protecting some of his donors
 
@@ -2259,7 +2259,7 @@ Investigative Direction: None: reading recommendation recorded as said on air.
 
 Claim Timestamp: 00:56:15
 
-Claim: The host says Sigmund Freud mainstreamed gaslighting people he harmed, which she calls an inescapable fact as pointed out by Jeffrey Masson, who she says was in control of the Freud archives.
+Claim: The host says they celebrate Sigmund Freud because he mainstreamed gaslighting people that they harmed, which she calls an inescapable fact as pointed out by Jeffrey Masson, who she says was in control of the Sigmund Freud archives.
 
 Transcript Snippet: That is why they celebrate Sigmund Freud is because he mainstreamed gaslighting people that they harmed.
 

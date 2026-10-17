@@ -79,7 +79,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1463",
       "family_ref": "A-1463",
-      "bundle_name": "Article by Freddy Ponton (\"Freddy Ponton um Ponton\" as read on air)",
+      "bundle_name": "Article by Freddie Ponton (\"Freddie Ponton um Ponton\" as read on air)",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -344,7 +344,7 @@
           "@type": "Artifact",
           "@id": "A-1469.6",
           "ref": "A-1469.6",
-          "description": "Section: 500 North Delaware Avenue – claim that the FBI has a presence in this building (which the source calls \"another bank center\"); also references MGM Delaware Avenue law firm (Suite 200) sitting directly below the FBI suite (Suite 300) per the source.",
+          "description": "Section: 500 North Delaware Avenue – claim that the FBI has a presence in this building (which the source calls \"another bank center\"); also references MG+M Delaware Avenue law firm (Suite 200) sitting directly below the FBI suite (Suite 300) per the source.",
           "related_claims": [
             "C-1796"
           ],
@@ -862,7 +862,7 @@
       "@type": "Person",
       "@id": "N-285",
       "ref": "N-285",
-      "name": "Freddy Ponton",
+      "name": "Freddie Ponton",
       "type": "person",
       "description": "Article author of \"Past as Prologue, Safari Club Illuminates Candace Owens' allegations\" (A-1463.1); provides contextual framing linking the host's allegations to historical covert-operation patterns.",
       "related_artifacts": [
@@ -1149,7 +1149,7 @@
       "ref": "N-10289",
       "name": "Rodney Square / 500 Delaware Avenue Federal Cluster",
       "type": "investigation_target",
-      "description": "Claim that 500 North Delaware Avenue hosts an FBI presence; MGM Delaware Avenue law firm occupies Suite 200 directly below the FBI Suite 300; located on Rodney Square alongside Wilmington Trust and Bracebridge.",
+      "description": "Claim that 500 North Delaware Avenue hosts an FBI presence; MG+M Delaware Avenue law firm occupies Suite 200 directly below the FBI Suite 300; located on Rodney Square alongside Wilmington Trust and Bracebridge.",
       "related_artifacts": [
         "A-1469.5",
         "A-1469.6"
@@ -2186,7 +2186,7 @@
       "@id": "C-1783",
       "ref": "C-1783",
       "label": "Ponton frames Safari Club precedent as supporting plausibility",
-      "claim": "Per the article by Freddy Ponton the host reads, the hesitation to dismiss Owens's allegations does not come from trust in her but from history; the host then says, from the Wikipedia page, that the Safari Club was a covert alliance of intelligence services formed in 1976.",
+      "claim": "Per the article by Freddie Ponton the host reads, the hesitation to dismiss Owens's allegations does not come from trust in her but from history; the host then says, from the Wikipedia page, that the Safari Club was a covert alliance of intelligence services formed in 1976.",
       "anchored_artifacts": [
         "A-1463.1",
         "A-1464.1"
@@ -2426,7 +2426,7 @@
       "@id": "C-1796",
       "ref": "C-1796",
       "label": "FBI presence at 500 North Delaware Avenue",
-      "claim": "Per the source email, the FBI apparently has Suite 300 at 500 North Delaware Avenue and the MGM Delaware Avenue law firm has Suite 200, which the writer believes is directly below the FBI.",
+      "claim": "Per the source email, the FBI apparently has Suite 300 at 500 North Delaware Avenue and the law firm MG+M has Suite 200, which the writer believes is directly below the FBI.",
       "anchored_artifacts": [
         "A-1469.6"
       ],
@@ -2435,7 +2435,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:32:37",
-      "investigative_direction": "Identify the FBI tenant at 500 Delaware Avenue via federal lease records; confirm MGM Delaware Avenue's suite location.",
+      "investigative_direction": "Identify the FBI tenant at 500 Delaware Avenue via federal lease records; confirm MG+M Delaware Avenue's suite location.",
       "mentions_person_refs": []
     },
     {
@@ -2519,7 +2519,7 @@
       "@id": "C-1801",
       "ref": "C-1801",
       "label": "Eric Bolling sent apology email blaming \"Alex\" (Adam Sosnick)",
-      "claim": "The host reads an email Eric Bolling sent to her PR saying, \"Tell Candace I meant no harm to her. It was that Alex guy who kept at it. He tried to corner me\"; earlier in the episode she says the email blamed Adam Sosnick, whose name Bolling did not know.",
+      "claim": "The host reads an email Eric Bolling sent to her PR saying, \"Tell Candace I meant no harm to her. It was that Alex guy who kept at it. He tried to corner me\"; earlier in the episode she says the email was about Adam Sosnick.",
       "anchored_artifacts": [
         "A-1474.1"
       ],
@@ -2699,8 +2699,8 @@
       "@type": "Claim",
       "@id": "C-10897",
       "ref": "C-10897",
-      "label": "Host Says the Money Ran Through the Club des Fontes",
-      "claim": "The host says she also stated that the alleged payment ran through an elite gentlemen's club she calls the club des Fontes.",
+      "label": "Host Says the Money Ran Through the Club des Fontes [Club des Cent]",
+      "claim": "The host says she also stated that the alleged payment ran through the elite gentlemen's club des Fontes (as transcribed) [Club des Cent, the club named in her X post].",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10316"
@@ -3073,7 +3073,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:23:35",
-      "investigative_direction": "Obtain the hangar lease, Delaware filings and Satis investment announcements to confirm the amount, term and stated purpose.",
+      "investigative_direction": "Obtain the hangar lease, Delaware filings and Satys investment announcements to confirm the amount, term and stated purpose.",
       "transcript_snippet": "Satys, which is a French company, injected $1.5 million ostensibly to paint planes, okay, in Wilmington, Delaware.",
       "supports_claim_refs": [
         "C-4991"
@@ -3097,7 +3097,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:23:50",
-      "investigative_direction": "Compare the cease-and-desist date with the Satis announcement and lease execution dates in public filings.",
+      "investigative_direction": "Compare the cease-and-desist date with the Satys announcement and lease execution dates in public filings.",
       "transcript_snippet": "they sign off on that the very week that I get sent this cease and desist",
       "supports_claim_refs": [
         "C-4990"
@@ -3250,8 +3250,8 @@
       "@type": "Claim",
       "@id": "C-10921",
       "ref": "C-10921",
-      "label": "Host Says 500 North Delaware Avenue Is Also Somehow Owned by France",
-      "claim": "The host says 500 North Delaware Avenue, which people on X said housed the FBI, is also somehow owned by France.",
+      "label": "Source Email Says 500 North Delaware Avenue Is Also Somehow Owned by France",
+      "claim": "The host relays a source email saying 500 North Delaware Avenue, which people on X said housed the FBI, is also somehow owned by France.",
       "anchored_artifacts": [
         "A-1469.6"
       ],
@@ -3284,8 +3284,8 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:32:30",
-      "investigative_direction": "Identify the firm (the transcript renders it as MGM) and check its lease date and staff biographies.",
-      "transcript_snippet": "MGM and M has many employees that are either fluent in French or connected or are connected to France altogether.",
+      "investigative_direction": "Identify the firm (the transcript renders it as MG+M) and check its lease date and staff biographies.",
+      "transcript_snippet": "MG+M and M has many employees that are either fluent in French or connected or are connected to France altogether.",
       "supports_claim_refs": [
         "C-1796"
       ],
@@ -3317,8 +3317,8 @@
       "@type": "Claim",
       "@id": "C-10924",
       "ref": "C-10924",
-      "label": "Host Says Construction Promised for About a Year Has Taken About Two",
-      "claim": "The host says a May 2024 article stated construction was expected to take about a year, but it has been about two years and the building top is still a skeleton, so she says she knows the site is being used to buy time.",
+      "label": "Source Email Says Construction Promised for About a Year Has Taken About Two",
+      "claim": "The host reads a source email saying a May 2024 article stated construction was expected to take about a year, but it has been about two years and the building top is still a skeleton, so the writer says they know the site is being used to buy time.",
       "anchored_artifacts": [
         "A-1469.4"
       ],
@@ -3340,8 +3340,8 @@
       "@type": "Claim",
       "@id": "C-10925",
       "ref": "C-10925",
-      "label": "Host Says Hoppenot Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death",
-      "claim": "The host says Hervé Hoppenot is directly responsible for the Bracebridge construction and finalized the deal, and that a few months before Charlie Kirk's death he switched roles and began laying low.",
+      "label": "Source Email Says Hoppenot Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death",
+      "claim": "The host reads a source email saying Hervé Hoppenot is directly responsible for the Bracebridge construction and finalized the deal, and that a few months before Charlie Kirk's death he switched roles and began laying low.",
       "anchored_artifacts": [
         "A-1469.4"
       ],
@@ -3367,8 +3367,8 @@
       "@type": "Claim",
       "@id": "C-10926",
       "ref": "C-10926",
-      "label": "Host Says Incyte Is Plugged Into Federal Medical Supply Chains Including VA Systems",
-      "claim": "The host says Incyte is plugged directly into the federal medical supply chains, which include VA systems that interface with military health care.",
+      "label": "Source Email Says Incyte Is Plugged Into Federal Medical Supply Chains Including VA Systems",
+      "claim": "The host reads a source email saying Incyte is plugged directly into the federal medical supply chains, which include VA systems that interface with military health care.",
       "anchored_artifacts": [
         "A-1469.4"
       ],
@@ -3526,7 +3526,7 @@
       "@id": "C-10933",
       "ref": "C-10933",
       "label": "Host Says Ace Partners Invests Only in Companies That Benefit Israel",
-      "claim": "The host says Ace Partners explicitly states on its website that it invests only in companies and organizations that benefit Israel, in aerospace and defense startups at Series A and B stages.",
+      "claim": "The host says Ace Partners explicitly states on its website that it invests only in companies and organizations that benefit Israel, and reads its mission saying it focuses predominantly on aerospace and defense startups at Series A and B stages, with global investments and a specific focus on Israel.",
       "anchored_artifacts": [
         "A-1472.1"
       ],

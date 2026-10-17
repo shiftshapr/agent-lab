@@ -2445,7 +2445,7 @@
       "@type": "Claim",
       "@id": "C-1387",
       "ref": "C-1387",
-      "label": "Britta publicly accused Candace of fabricating group-chat screenshots",
+      "label": "Britta Asked Whether Candace Was Posting Fake Group-Chat Screenshots",
       "claim": "A user identified as Britta publicly asked whether Candace Owens is posting fake group-chat screenshots to conveniently back up her narrative.",
       "anchored_artifacts": [
         "A-1227.1",
@@ -2602,8 +2602,7 @@
         "N-1",
         "N-3",
         "N-30",
-        "N-155",
-        "N-156"
+        "N-155"
       ]
     },
     {

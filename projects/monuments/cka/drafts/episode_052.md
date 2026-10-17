@@ -443,7 +443,7 @@ Dr. Lee Trotter (rendered 'Troder' in the transcript); surgeon in the host's hos
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Eliza (Elizabeth) McCoy; the person who first proposed the tent idea per TPUSA.
 
@@ -1006,7 +1006,7 @@ Claim Timestamp: 00:28:55
 Claim: In a clip from Charlie Kirk's memorial that the host plays, Tyler Bowyer says Erika Kirk called him saying she just wanted to help and that he put her right behind the president at the 2015 Arizona Trump rally.
 
 Anchored Artifacts: A-1580.1
-Mentions: N-2, N-11, N-1
+Mentions: N-2, N-11, N-1, N-5
 
 
 Investigative Direction: Cross-check rally attendee list and corroborate timing of Erika's political involvement; verify Bowyer's narrative against other contemporaneous accounts.
@@ -1049,7 +1049,7 @@ Related Nodes: N-10383, N-10384
 
 Investigative Direction: Obtain attendee list for the summit; cross-check against names of interest (Farnsworths, Boyers, Erika Kirk, etc.); verify any overlap with Fort Huachuca personnel.
 
-**C-2013** Daily Wire's "Maddie in the No" Show Mocks Candace
+**C-2013** Daily Wire's "In the Know Know" Show Mocks Candace
 
 Claim Timestamp: 00:46:38
 
@@ -2474,7 +2474,7 @@ Investigative Direction: Verify the family relationship and Bert's role through 
 
 ---
 
-**C-6885** Host Says Bert Ran Duncan Aviation as EVP and COO for 22 Years and Retired in 2019
+**C-6885** Host Says Burt Ran Duncan Aviation as EVP and COO for 22 Years and Retired in 2019
 
 Claim Timestamp: 00:39:27
 

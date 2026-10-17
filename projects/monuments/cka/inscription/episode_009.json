@@ -1548,7 +1548,7 @@
       "@id": "C-1267",
       "ref": "C-1267",
       "label": "Candace-Charlie text exchange re: UK flights",
-      "claim": "Candace and Charlie exchanged text messages about booking UK flights ($450 coach, $1,200 first class).",
+      "claim": "Per the old text message chain the host shows, she told Charlie the UK flights were $450 in coach or $1,200 in first class, and he replied, 'Wow, let's book it.'",
       "anchored_artifacts": [
         "A-1155.1"
       ],
@@ -1679,7 +1679,7 @@
       "@id": "C-1272",
       "ref": "C-1272",
       "label": "Crooks posted violent YouTube comments",
-      "claim": "Crooks posted YouTube comments calling for violence against 'socialist Jews' and for Democrats to be beheaded.",
+      "claim": "Per comments the host shows from the scraped record, Crooks wrote on one video about 'lining up a bunch of socialist Jews... and blasting their useless brains out with an AR', and on a YouTube video that every Trump-hating Democrat 'deserves to have their heads chopped off and put on stakes'.",
       "anchored_artifacts": [
         "A-1156.3"
       ],
@@ -2449,7 +2449,7 @@
       "@type": "Claim",
       "@id": "C-13678",
       "ref": "C-13678",
-      "label": "Host Says She Decided to Homeschool Immediately Before the Assassination",
+      "label": "Host Says She Decided to Homeschool Immediately, Before the Assassination",
       "claim": "The host says that, frantic, she and her husband decided to homeschool immediately and started the process, before September 10.",
       "anchored_artifacts": [
         "A-1155.2"
@@ -2578,7 +2578,7 @@
       "@id": "C-13684",
       "ref": "C-13684",
       "label": "Host Says the Worker-Bee Idea Is a Soviet Symbol Tied to Her Dread",
-      "claim": "The host says her dread about an underground tied to schools made her connect the worker-bee idea to a Soviet symbol of making everybody a worker bee.",
+      "claim": "The host says the idea of worker bees sounds communist, that it is a Soviet symbol of making everybody into a worker bee, and that her sense of doom about an underground left her totally freaked out.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10114",
@@ -2619,7 +2619,7 @@
       "@id": "C-13686",
       "ref": "C-13686",
       "label": "Host Recommends Thomas Sowell's Book on the American Education System",
-      "claim": "The host recommends a book by Thomas Sowell (transcribed as Thomas Sowell) on how the American education system came together and says it is neither left nor right.",
+      "claim": "The host recommends a book by Thomas Sowell on how the American education system came together and says it is neither left nor right.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10115"
@@ -3187,7 +3187,7 @@
       "@id": "C-13710",
       "ref": "C-13710",
       "label": "Kelly Says Charlie and Erika Asked a Friend to Come Pray Over Charlie the Night Before",
-      "claim": "In the Megyn Kelly segment, Kelly says Charlie and Erika Kirk contacted a friend, whom she believed to be a Catholic priest, and asked him to come over and pray with them over Charlie the night before he was murdered.",
+      "claim": "In the Megyn Kelly segment, Kelly says Charlie and Erika Kirk contacted a friend, who she believes Erika said was a Catholic priest, and asked him to come over and pray with them over Charlie the night before he was murdered.",
       "anchored_artifacts": [
         "A-1157.1"
       ],
@@ -3236,7 +3236,7 @@
       "@type": "Claim",
       "@id": "C-13712",
       "ref": "C-13712",
-      "label": "Segment Says the Jezebel Writer Said She Only Wanted Him to Wake Up With an Inexplicable Zit",
+      "label": "Host Says the Jezebel Writer Said She Only Wanted Him to Wake Up With an Inexplicable Zit",
       "claim": "The host says the Jezebel writer said she is not calling on dark forces to cause harm and just wants him to wake up every morning with an inexplicable zit.",
       "anchored_artifacts": [
         "A-1157.1"
@@ -3365,7 +3365,7 @@
       "@id": "C-13718",
       "ref": "C-13718",
       "label": "Host Announces a Shot in the Dark Episode on Birth Control Including Nexplanon",
-      "claim": "The host announces another Shot in the Dark episode going through birth control, which she says may be the worst one, naming the Nexplanon implant (transcribed as Nexplanon).",
+      "claim": "The host announces another Shot in the Dark episode going through birth control, which she says may be the worst one, naming Nexplanon.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3471,7 +3471,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:42:34",
       "investigative_direction": "Opinion; compare with the host's other statements about Erika's demeanor.",

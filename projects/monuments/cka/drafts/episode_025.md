@@ -108,7 +108,7 @@ Confidence Level: High
 
 **A-1325** News Article Bundle: Ventura County Star on Rob McCoy Transition
 
-**A-1325.1** Ventura County Star article reporting that Rob McCoy would step down as senior pastor of Godspeak Calvary Chapel in July 2025, with son-in-law Micah Stevens succeeding him; article also notes McCoy's Phoenix relocation tied to growing Turning Point USA responsibilities
+**A-1325.1** Ventura County Star article reporting that Rob McCoy would step down as senior pastor of Godspeak Calvary Chapel in July 2025, with son-in-law Micah Stephens succeeding him; article also notes McCoy's Phoenix relocation tied to growing Turning Point USA responsibilities
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -300,7 +300,7 @@ Investigative Pressure: High
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Wife of Mikey McCoy; author of the Instagram post characterizing the McCoy-Kirk joint trip as the families' "first family trip together."
 
@@ -352,7 +352,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-219** Micah Stevens
+**N-219** Micah Stephens
 
 Rob McCoy's son-in-law; per Ventura County Star, designated to succeed Rob McCoy as senior pastor of Godspeak Calvary Chapel.
 
@@ -781,7 +781,7 @@ Investigative Direction: Verify Eliza McCoy's Instagram post metadata for date a
 
 Claim Timestamp: 00:14:47
 
-Claim: Per the Ventura County Star article the host reads, Rob McCoy was scheduled to step down as senior pastor of Godspeak Calvary Chapel in mid-July 2025, with son-in-law Micah Stevens succeeding him, and had relocated to the Phoenix area due to growing Turning Point USA responsibilities.
+Claim: Per the Ventura County Star article the host reads, Rob McCoy was approaching a transition in July 2025 in which he would step down as senior pastor of Godspeak Calvary Chapel, with son-in-law Micah Stephens succeeding him, and had relocated to the Phoenix area due to growing Turning Point USA responsibilities.
 
 Anchored Artifacts: A-1325.1
 Mentions: N-17, N-219
@@ -1467,7 +1467,7 @@ Investigative Direction: Obtain hospital intake records and arrest and booking p
 
 ---
 
-**C-6587** Host Says Records Showing Jews Came From the Holy Land Are Outweighed by Contrary Proof
+**C-6587** Host Says There Is No Documented Proof Jews Are the Original People of the Holy Land
 
 Claim Timestamp: 00:44:02
 

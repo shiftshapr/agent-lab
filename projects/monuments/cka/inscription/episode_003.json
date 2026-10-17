@@ -2221,7 +2221,8 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-37",
-        "N-1"
+        "N-1",
+        "N-66"
       ]
     },
     {
@@ -2315,8 +2316,8 @@
       "@type": "Claim",
       "@id": "C-1165",
       "ref": "C-1165",
-      "label": "Laura Loomer pressured Charlie to distance from Tucker Carlson",
-      "claim": "The host says Laura Loomer tweeted a thread a week before Charlie Kirk died about how Kirk had to distance himself from Tucker Carlson, calls her one of the people creating online pressure, and paraphrases the thread as saying Kirk was going to ruin his company.",
+      "label": "Host Says an X User Pressured Charlie to Distance From Tucker Carlson",
+      "claim": "The host says an X user she does not name, saying only that she goes by 'the gay who's straight', tweeted a thread a week before Charlie Kirk died about how Kirk had to distance himself from Tucker Carlson, calls her one of the people creating online pressure, and paraphrases the thread as saying Kirk was going to ruin his company.",
       "anchored_artifacts": [
         "A-1103.1"
       ],
@@ -2328,8 +2329,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-1",
-        "N-22",
-        "N-60"
+        "N-22"
       ]
     },
     {
@@ -2577,8 +2577,8 @@
       "@type": "Claim",
       "@id": "C-3723",
       "ref": "C-3723",
-      "label": "Hamptons attendee ring debate around Sarah Stockton",
-      "claim": "The host recalls an online debate over a recently engaged woman she believes was named Sarah Stockton, whose ring was mocked as too small, and says those Hamptons attendees never mentioned being there for a Turning Point weekend.",
+      "label": "Hamptons Attendee Ring Debate Around Sarah Stock",
+      "claim": "The host recalls an online debate over a recently engaged woman she believes was named Sarah Stockton [Sarah Stock], whose ring was mocked as too small, and says those Hamptons attendees never mentioned being there for a Turning Point weekend.",
       "anchored_artifacts": [
         "A-2516.3"
       ],
@@ -3446,7 +3446,7 @@
       "@id": "C-13527",
       "ref": "C-13527",
       "label": "Indictment Quotes Robinson Referring to Engraved Bullets and Messages as Mostly a Meme",
-      "claim": "Reading the indictment, the host says Robinson texted, Remember how I was engraving bullets, and that the messages are mostly a meme and he might have a stroke if he saw them on Fox News.",
+      "claim": "Reading the indictment, the host says Robinson texted, Remember how I was engraving bullets, that the messages are mostly a meme, and that if he saw notices bulge on Fox News he might have a stroke.",
       "anchored_artifacts": [
         "A-1095.8",
         "A-1095.4"
@@ -3814,7 +3814,7 @@
       "@id": "C-13543",
       "ref": "C-13543",
       "label": "Neighbors Reportedly Saw Many Different License Plates and Parking Trouble at the House",
-      "claim": "The host says that, according to what she is told, there were lots of different license plates at the house and neighbors were not able to park their cars because there were so many people there.",
+      "claim": "The host says that, according to what she is told, there were lots of different license plates at the house where Tyler Robinson and Lance lived and other people were not able to park their cars because there were so many people there.",
       "anchored_artifacts": [
         "A-3270.1"
       ],
@@ -4014,7 +4014,7 @@
       "@id": "C-13552",
       "ref": "C-13552",
       "label": "Host Says Seth Dillon Allegedly Answered That Calling for Netanyahu to Resign Would Be Antisemitic",
-      "claim": "The host says that, in a riffing example Kirk allegedly gave, if he tweeted that Netanyahu should resign he would be unfairly attacked, and that Seth Dillon allegedly piped up and argued back and forth aggressively that it would be antisemitic.",
+      "claim": "The host says that, in an example Kirk apparently gave (which she says she is paraphrasing), if he tweeted that Netanyahu should resign he would be unfairly attacked, and that Seth Dillon allegedly piped up and argued back and forth aggressively that it would be antisemitic.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10345",
@@ -4735,7 +4735,7 @@
       "@id": "C-13583",
       "ref": "C-13583",
       "label": "Host Relays Employee Tip That TPUSA Never Holds a Weekend Summit Without Publicizing It",
-      "claim": "The host relays a tip from someone who says they worked for Turning Point for two years, asking whether Turning Point has ever held a weekend summit without publicizing it, and noting that the Hamptons attendees never mentioned it being a Turning Point weekend until Bill Ackman spoke openly about it.",
+      "claim": "The host relays tips from Turning Point employees and, saying \"I've worked for Turning Point for 2 years\" (unclear whether of herself or quoting a tipster), asks whether Turning Point has ever held a weekend summit without publicizing it, noting that the Hamptons attendees never mentioned it being a Turning Point weekend though Bill Ackman is now open about it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -4824,7 +4824,7 @@
       "@id": "C-13587",
       "ref": "C-13587",
       "label": "Host Says the Hamptons Meeting Was Not Publicized Until She Publicized It",
-      "claim": "The host says the meeting in the Hamptons was not publicized until she publicized it.",
+      "claim": "The host, asking Bill Ackman about his presentation at the meeting in the Hamptons, says the meeting was not publicized until she publicized it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10134"
@@ -5054,7 +5054,7 @@
         "N-10077"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:core"
       ],
       "claim_timestamp": "01:14:21",
       "investigative_direction": "Compare the casing inscriptions and the text messages with Robinson's known writing and the recovered rifle's ammunition.",

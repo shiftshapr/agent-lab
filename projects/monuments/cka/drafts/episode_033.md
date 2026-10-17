@@ -676,7 +676,7 @@ Podcaster whose episode with Charlie's security detail a viewer asks the host ab
 
 ---
 
-**N-473** Zack Gregorio (Wolves and Finance)
+**N-473** Zach De Gregorio (Wolves and Finance)
 
 Wolves and Finance YouTube channel whose TPUSA filings report is played on air.
 
@@ -965,7 +965,7 @@ Investigative Direction: Obtain corroborating testimony from Andrew Kolvet, Tuck
 
 Claim Timestamp: 00:26:19–00:27:30
 
-Claim: Host reports that tail N560TW departed Scottsdale, Arizona on September 10 and landed at Provo at 10:06 a.m. local time, then departed for Santa Barbara and later returned to Scottsdale by 12:44 p.m.
+Claim: Host reports that tail N560TW departed Scottsdale, Arizona on September 10 and landed at Provo at 10:06 a.m., then departed for Santa Barbara and later returned to Scottsdale by 12:44 p.m.
 
 Anchored Artifacts: A-1422.1
 
@@ -1265,7 +1265,7 @@ Investigative Direction: Trace who first posted the book club clip and how they 
 
 Claim Timestamp: 00:06:45
 
-Claim: In the book club audio played on air the host says everyone just knows Charlie was truly betrayed in one of the most egregious ways she has seen and that this has made her fully lose faith in Trump.
+Claim: In the book club audio played on air the host says 'we just know' Charlie was truly betrayed in one of the most egregious ways she has seen and that this has made her fully lose faith in Trump.
 
 Transcript Snippet: We just know that he was truly betrayed in one of the most egregious ways that I think I've ever seen. It has made me lose faith in politics. It has made me fully lose faith in Trump.
 
@@ -1310,7 +1310,7 @@ Investigative Direction: Obtain the full Crowder video and date it relative to t
 
 Claim Timestamp: 00:10:00
 
-Claim: The host says that when she said people at Turning Point USA betrayed Charlie, she was not referring to Erika Kirk because Erika was not an employee of Turning Point USA leading up to his death.
+Claim: The host says her remark that everyone betrayed Charlie was not about Erika Kirk and more obviously suggested that people at Turning Point USA betrayed him, which she says Erika was not an employee of leading up to his death.
 
 Transcript Snippet: people at Turning Point USA betrayed him, which Erika Kirk was not an employee of leading up to his death.
 

@@ -224,7 +224,7 @@ Confidence Level: Low
 
 **A-2819** Trump Memorial Speech Bundle
 
-**A-2819.1** Host verbal reference to Trump's memorial speech story about Charlie interviewing fourth grader Breland Holland (not shown)
+**A-2819.1** Host verbal reference to Trump's memorial speech story about Charlie interviewing fourth grader Brilyn Hollyhand (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:18:15
@@ -596,7 +596,7 @@ The host's recollection that Charlie Kirk told her TPUSA had found a person to c
 
 ---
 
-**N-757** Breland Holland
+**N-757** Brilyn Hollyhand
 
 First named by the host at 00:18:15 in episode 21. Boy the host says Charlie Kirk interviewed in fourth grade, referenced in Trump's memorial speech.
 
@@ -742,7 +742,7 @@ Investigative Direction: Obtain the full Megyn Kelly interview clip and surround
 
 **C-1523** Don Trump Jr. Initially Deflected Before Being Pressed and Expressing Confidence
 
-Claim Timestamp: 00:33:50
+Claim Timestamp: 00:33:08
 
 Claim: In a clip of the Megyn Kelly interview the host plays, Don Trump Jr., asked how he feels about the investigation into Charlie's death, says "so far so good" and turns to continuing Kirk's work; when Kelly asks again whether he has confidence in the FBI investigation, he says "I I do, you know, and I I I mean, I don't know," then that he does have confidence. The host says he did his best not to answer the question.
 
@@ -802,7 +802,7 @@ Investigative Direction: Verify the quoted Economist and UN official attribution
 
 Claim Timestamp: 00:01:24
 
-Claim: The host says that, from her memory, as a child Charlie Kirk was so hyperactive that doctors wanted to put him on ADHD medicine, that his parents refused and sent him to a school for the gifted, and that Charlie told her this story multiple times.
+Claim: The host says that, from her memory, as a child Charlie Kirk was so gifted, and hyperactive, that doctors wanted to put him on ADHD medicine, that his parents refused and sent him to a school for the gifted, and that Charlie told her this story multiple times.
 
 Transcript Snippet: of course doctors immediately wanted to put him on ADHD medicine because well why is he so hyperactive?
 
@@ -912,7 +912,7 @@ Investigative Direction: Locate the original Truth Social post, its date and the
 
 Claim Timestamp: 00:11:02
 
-Claim: The host says the people most insistent from the early hours that others stop asking about Charlie Kirk's death were those dedicated to the Israel lobby, and challenges viewers to find one pro-Israel person with a platform who says Tyler Robinson did not kill Kirk.
+Claim: The host says the people most insistent from the early hours that others stop asking about Charlie Kirk's death were those dedicated to the Israel lobby, and challenges viewers to find one real-life pro-Israel individual who says they don't believe Tyler Robinson killed Kirk, or one pro-Israel person with a platform who wants the investigation to continue.
 
 Transcript Snippet: Find me one, just one real life pro-Israel individual who is expressing that they don't believe that Charlie Kirk was killed by Tyler Robinson.
 
@@ -970,18 +970,18 @@ Investigative Direction: Off-topic historical assertion recorded as said; no doc
 
 ---
 
-**C-6523** Host Says Trump Told a Memorial Story About Charlie and Breland Holland Although Trump Was Not There
+**C-6523** Host Says Trump Told a Memorial Story About Charlie and Brilyn Hollyhand Although Trump Was Not There
 
 Claim Timestamp: 00:18:15
 
-Claim: The host says Trump, in his speech at Charlie Kirk's memorial, told a story about Charlie interviewing a fourth grader named Breland Holland, that Trump was not present and that she herself was next to Charlie at that interview.
+Claim: The host says Trump, in his speech at Charlie Kirk's memorial, told a story about Charlie interviewing a fourth grader named Brilyn Hollyhand, that Trump was not present and that she herself was next to Charlie at that interview.
 
-Transcript Snippet: Even Trump's speech, remember when he just kind of worked in the story about uh Charlie interviewing a fourth grader and he was referring to Breland Holland?
+Transcript Snippet: Even Trump's speech, remember when he just kind of worked in the story about uh Charlie interviewing a fourth grader and he was referring to Brilyn Hollyhand?
 
 Anchored Artifacts: A-2819.1
 Mentions: N-5, N-1, N-3, N-757
 Tags: relevance:context
-Investigative Direction: Compare the transcript of Trump's memorial speech with footage and dates of Charlie's interview with Breland Holland to see who attended.
+Investigative Direction: Compare the transcript of Trump's memorial speech with footage and dates of Charlie's interview with Brilyn Hollyhand to see who attended.
 
 ---
 
@@ -1083,7 +1083,7 @@ Investigative Direction: Review the close-up videos and medical records and inte
 
 Claim Timestamp: 00:29:08
 
-Claim: The host says Alex Clark released an interview with Andrew Kolvet and Erika Kirk days after the memorial in which they said Charlie and Erika were committed evangelicals who liked the smells and bells but not the substance of Catholicism.
+Claim: The host says Alex Clark released an interview with Andrew Kolvet a couple of days after the memorial in which they said Charlie and Erika were committed evangelicals and that he liked the smells and bells and the architecture but there was no more substance for him.
 
 Transcript Snippet: Alex Clark released that interview with her and Andrew Kolvet and they struggle sessioned through that.
 

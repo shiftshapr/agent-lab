@@ -1126,7 +1126,7 @@
     ],
     [
       "\\bMleofsky\\b",
-      "Milei",
+      "Mileikowsky",
       [
         55
       ]
@@ -2564,6 +2564,557 @@
     [
       "\\bPam Lehman\\b",
       "Pam Liebman"
+    ],
+    [
+      "\\bSherry Steel\\b",
+      "Sherri Steele"
+    ],
+    [
+      "\\bIrwin Steel\\b",
+      "Erwin Steele"
+    ],
+    [
+      "\\bSchulman guy\\b",
+      "Shillman guy",
+      [
+        5
+      ]
+    ],
+    [
+      "\\bMargaret Schzes\\b",
+      "Margarethe Schurz"
+    ],
+    [
+      "\\bXavier Deruso\\b",
+      "Xaviaer DuRousseau"
+    ],
+    [
+      "\\bDeruso\\b",
+      "DuRousseau"
+    ],
+    [
+      "\\bSorenson building\\b",
+      "Sorensen Center"
+    ],
+    [
+      "\\bGernot Omer\\b",
+      "Gernot Ohner"
+    ],
+    [
+      "\\bBuzzard and Bees\\b",
+      "Buzzards and Bees"
+    ],
+    [
+      "\\bShaner Broadick\\b",
+      "Shaner Broderick"
+    ],
+    [
+      "\\bFlorida Dab\\b",
+      "Florida Dad"
+    ],
+    [
+      "\\bKaylee McEnany\\b",
+      "Kayleigh McEnany"
+    ],
+    [
+      "\\bSteven Paddock\\b",
+      "Stephen Paddock"
+    ],
+    [
+      "\\bElijah Schaefer\\b",
+      "Elijah Schaffer"
+    ],
+    [
+      "\\bHen Mazig\\b",
+      "Hen Mazzig"
+    ],
+    [
+      "\\bJoshua Harrelson\\b",
+      "Josh Harrellson"
+    ],
+    [
+      "\\bJosh Harrelson\\b",
+      "Josh Harrellson"
+    ],
+    [
+      "\\bGeorgia Meloni\\b",
+      "Giorgia Meloni"
+    ],
+    [
+      "\\bMartha Louise\\b",
+      "Märtha Louise"
+    ],
+    [
+      "\\bChristopher Mosley\\b",
+      "Christopher Moseley"
+    ],
+    [
+      "\\bMark Caputo\\b",
+      "Marc Caputo"
+    ],
+    [
+      "\\bMicah Stevens\\b",
+      "Micah Stephens"
+    ],
+    [
+      "\\bKatherine Tate\\b",
+      "Kathryn Tate"
+    ],
+    [
+      "\\bIryna Zhuravska\\b",
+      "Iryna Zarutska"
+    ],
+    [
+      "\\bSimon Andre\\b",
+      "Simon Andriesz"
+    ],
+    [
+      "\\bDiligent Dennison\\b",
+      "Diligent Denizen"
+    ],
+    [
+      "\\bPastor Yoon Bo-seon\\b",
+      "Pastor Son Hyun-bo"
+    ],
+    [
+      "\\bYoon Bo-seon\\b",
+      "Son Hyun-bo"
+    ],
+    [
+      "\\bChan Yoon\\b",
+      "Chance Son"
+    ],
+    [
+      "\\bBenith\\b",
+      "B'nai B'rith",
+      [
+        14
+      ]
+    ],
+    [
+      "\\bMary Fagan\\b",
+      "Mary Phagan"
+    ],
+    [
+      "\\bAOV battalion\\b",
+      "Azov battalion"
+    ],
+    [
+      "\\bGauer\\b",
+      "Gernot Ohner",
+      [
+        14
+      ]
+    ],
+    [
+      "\\b(?:Scordies|Squortis)\\b",
+      "Skordas"
+    ],
+    [
+      "\\bDO[Jj] department\\b",
+      "DOGE department",
+      [
+        15
+      ]
+    ],
+    [
+      "\\bLoews building\\b",
+      "Losee building"
+    ],
+    [
+      "\\ba host named Ali\\b",
+      "a host named Ollie",
+      [
+        17
+      ]
+    ],
+    [
+      "\\bIsrael and Civilization, Ali\\b",
+      "Israel and Civilization, Ollie",
+      [
+        17
+      ]
+    ],
+    [
+      "\\bbook came out\\. Ali,",
+      "book came out. Ollie,",
+      [
+        17
+      ]
+    ],
+    [
+      "\\bGroperism\\b",
+      "Groyperism"
+    ],
+    [
+      "\\bJean Michelle\\b",
+      "Jean-Michel",
+      [
+        20
+      ]
+    ],
+    [
+      "\\bWeiss Amaro\\b",
+      "Deirdre Amaro",
+      [
+        20
+      ]
+    ],
+    [
+      "\\bMillionaire FBO\\b",
+      "Million Air FBO"
+    ],
+    [
+      "\\bKingdom to the Capital Tour\\b",
+      "Kingdom to the Capitol Tour"
+    ],
+    [
+      "\\bSara Zaafarani\\b",
+      "Sarra Zaafrani"
+    ],
+    [
+      "\\bMarina (?:Medvin|Medias|Munz|Minnez|Meanes)\\b",
+      "Marina Minas",
+      [
+        64,
+        70,
+        72,
+        81,
+        84,
+        132
+      ]
+    ],
+    [
+      "\\bMedvin\\b",
+      "Minas",
+      [
+        64,
+        81,
+        84,
+        132
+      ]
+    ],
+    [
+      "\\bKathy\\ O'Brien\\b",
+      "Cathy O'Brien"
+    ],
+    [
+      "\\bDavid\\ Sprag\\b",
+      "David Sprague"
+    ],
+    [
+      "\\bHelen\\ Barts\\b",
+      "Helene Bartz"
+    ],
+    [
+      "\\bCaitlyn\\ Oliver\\b",
+      "Caitlin Oliver"
+    ],
+    [
+      "\\bAmanda\\ Baker\\b",
+      "Amanda Bakker",
+      [
+        127
+      ]
+    ],
+    [
+      "\\bFoster\\ Curtis\\b",
+      "Foster Curtiss"
+    ],
+    [
+      "\\bTodd\\ Starns\\b",
+      "Todd Starnes"
+    ],
+    [
+      "\\bBreland\\ Holland\\b",
+      "Brilyn Hollyhand"
+    ],
+    [
+      "\\bRobin\\ Emer\\b",
+      "Robin Ebmeyer"
+    ],
+    [
+      "\\bAndrea\\ Birkhart\\b",
+      "Andrea Burkhart"
+    ],
+    [
+      "\\bStu\\ Peters\\b",
+      "Stew Peters"
+    ],
+    [
+      "\\bAnthony uh Eglacius\\b",
+      "Anthony Iglesias"
+    ],
+    [
+      "\\ba Glaciius\\b",
+      "Iglesias",
+      [
+        31
+      ]
+    ],
+    [
+      "\\bBryce Eddie\\b",
+      "Bryce Eddy"
+    ],
+    [
+      "\\bCalvary Chapel Carrie\\b",
+      "Calvary Chapel Cary"
+    ],
+    [
+      "\\bCarrie Smith\\b",
+      "Keri Smith",
+      [
+        29
+      ]
+    ],
+    [
+      "\\bColby Sessions\\b",
+      "Kolby Sessions"
+    ],
+    [
+      "\\bEricson brothers\\b",
+      "Erickson brothers"
+    ],
+    [
+      "\\bKenny\\b",
+      "Kenzie Kinney",
+      [
+        31
+      ]
+    ],
+    [
+      "\\bNorth County Chapel\\b",
+      "North Country Chapel"
+    ],
+    [
+      "\\bNorth Thirsten\\b",
+      "North Thurston"
+    ],
+    [
+      "\\bPompo Beach\\b",
+      "Pompano Beach"
+    ],
+    [
+      "\\bPotter's Fields\\b",
+      "Potter's Field"
+    ],
+    [
+      "\\bZack Gregorio\\b",
+      "Zach De Gregorio"
+    ],
+    [
+      "\\bCaptain Adam Nef\\b",
+      "Captain Adam Neff"
+    ],
+    [
+      "\\bNef\\b",
+      "Neff",
+      [
+        44,
+        45,
+        49,
+        50,
+        97,
+        104
+      ]
+    ],
+    [
+      "\\bDedra Amaro\\b",
+      "Deirdre Amaro"
+    ],
+    [
+      "\\bDominic Dunn\\b",
+      "Dominick Dunne"
+    ],
+    [
+      "\\bFreddy Ponton\\b",
+      "Freddie Ponton"
+    ],
+    [
+      "\\bLucy Center\\b",
+      "Losee Center"
+    ],
+    [
+      "\\bMGM\\b",
+      "MG+M",
+      [
+        38
+      ]
+    ],
+    [
+      "\\bNCO, Arizona\\b",
+      "Naco, Arizona"
+    ],
+    [
+      "\\bSatis\\b",
+      "Satys"
+    ],
+    [
+      "\\bSorenson Center\\b",
+      "Sorensen Center"
+    ],
+    [
+      "\\bAbby Johnson\\b",
+      "Abbi Johnson",
+      [
+        54
+      ]
+    ],
+    [
+      "\\bBaron Stain bears\\b",
+      "Berenstain Bears",
+      [
+        57
+      ]
+    ],
+    [
+      "\\bBaron Stain with an A\\b",
+      "Berenstain with an A",
+      [
+        57
+      ]
+    ],
+    [
+      "\\bBaron Stain with an E\\b",
+      "Berenstein with an E",
+      [
+        57
+      ]
+    ],
+    [
+      "\\bBorderland said signs\\b",
+      "Borderlon said signs",
+      [
+        54
+      ]
+    ],
+    [
+      "\\bBorderlin\\b",
+      "Borderlon",
+      [
+        54
+      ]
+    ],
+    [
+      "\\bDillon Aero Space\\b",
+      "Dillon Aero"
+    ],
+    [
+      "\\bIn the Know No\\b",
+      "In the Know Know",
+      [
+        51
+      ]
+    ],
+    [
+      "\\bK K AM YU\\b",
+      "KMYU"
+    ],
+    [
+      "\\bLawrence Zillioux\\b",
+      "Lawrence Zilliox"
+    ],
+    [
+      "\\bOperation Mockingbird 2\\b",
+      "Operation Mockingbird",
+      [
+        51
+      ]
+    ],
+    [
+      "\\bSchaefer security\\b",
+      "Shaffer security",
+      [
+        57
+      ]
+    ],
+    [
+      "\\byay power verse\\b",
+      "Ye 'Power' verse",
+      [
+        57
+      ]
+    ],
+    [
+      "\\bDesert Spirit Tech LLC\\b",
+      "Desert Spirit Tek LLC",
+      [
+        62
+      ]
+    ],
+    [
+      "\\bDesert Tech\\b",
+      "Desert Tek",
+      [
+        62
+      ]
+    ],
+    [
+      "\\bDuruit\\b",
+      "Dershowitz"
+    ],
+    [
+      "\\bHelen Arts\\b",
+      "Helene Bartz",
+      [
+        63
+      ]
+    ],
+    [
+      "\\bJoshua Finkelstein\\b",
+      "Joshua Fink",
+      [
+        67
+      ]
+    ],
+    [
+      "\\bLarry Finkelstein\\b",
+      "Larry Fink",
+      [
+        67
+      ]
+    ],
+    [
+      "\\bLyle Reems\\b",
+      "Lyle Reams"
+    ],
+    [
+      "\\bShelly Reems\\b",
+      "Shelly Reams"
+    ],
+    [
+      "\\bMarjorie Green\\b",
+      "Marjorie Greene"
+    ],
+    [
+      "\\bPayton McCormick\\b",
+      "Peyton McCormick"
+    ],
+    [
+      "\\bRobert Barts\\b",
+      "Robert Bartz"
+    ],
+    [
+      "\\bRose and Thobe\\b",
+      "Rose and Thobi",
+      [
+        62
+      ]
+    ],
+    [
+      "\\bScheper Security\\b",
+      "Shaffer Security"
+    ],
+    [
+      "\\bSuni\\b",
+      "Soon-Yi",
+      [
+        69
+      ]
+    ],
+    [
+      "\\bY Refi\\b",
+      "Yrefy"
     ]
   ]
 }

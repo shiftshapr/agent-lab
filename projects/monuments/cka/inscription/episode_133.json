@@ -568,7 +568,7 @@
       "ref": "N-10757",
       "name": "Weapon Recovery Officer Chain and NCIS Connection",
       "type": "investigation_target",
-      "description": "Host identifies Mitchell Curtis (rookie officer, 2025 UVU graduate) and his father Foster Curtis (reported 21-year NCIS division chief) as connected to the weapon recovery. Biographical claims not artifact-displayed in this episode.",
+      "description": "Host identifies Mitchell Curtis (rookie officer, 2025 UVU graduate) and his father Foster Curtiss (reported 21-year NCIS division chief) as connected to the weapon recovery. Biographical claims not artifact-displayed in this episode.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -1306,7 +1306,7 @@
       "@type": "Person",
       "@id": "N-494",
       "ref": "N-494",
-      "name": "Marina (TPUSA CMO)",
+      "name": "Marina Minas",
       "type": "person",
       "description": "TPUSA chief marketing officer named by the host as scheduled for the White House meeting.",
       "related_artifacts": [],
@@ -1430,7 +1430,7 @@
       "@type": "Person",
       "@id": "N-783",
       "ref": "N-783",
-      "name": "Foster Curtis",
+      "name": "Foster Curtiss",
       "type": "person",
       "description": "First named by the host at 00:21:00 in episode 133; she says he is Mitchell Curtis's father, a 21-year NCIS veteran.",
       "related_artifacts": [],
@@ -1505,7 +1505,7 @@
       "ref": "N-11140",
       "name": "Naval Criminal Investigative Service (NCIS)",
       "type": "organization",
-      "description": "Federal agency the host describes as employing Foster Curtis for 21 years and reporting to the Secretary of the Navy.",
+      "description": "Federal agency the host describes as employing Foster Curtiss for 21 years and reporting to the Secretary of the Navy.",
       "related_artifacts": [],
       "related_claims": [
         "C-7375",
@@ -1523,9 +1523,9 @@
       "@type": "Topic",
       "@id": "N-11141",
       "ref": "N-11141",
-      "name": "Foster Curtis Richmond Inspector General Transition",
+      "name": "Foster Curtiss Richmond Inspector General Transition",
       "type": "topic",
-      "description": "The host's account of Foster Curtis leaving NCIS in June 2025 to be Richmond's interim inspector general after the firing of James Osuna.",
+      "description": "The host's account of Foster Curtiss leaving NCIS in June 2025 to be Richmond's interim inspector general after the firing of James Osuna.",
       "related_artifacts": [],
       "related_claims": [
         "C-7377",
@@ -2296,8 +2296,8 @@
       "@type": "Claim",
       "@id": "C-7375",
       "ref": "C-7375",
-      "label": "Host Says Mitchell Curtis's Father Foster Curtis Spent 21 Years at NCIS",
-      "claim": "The host says Mitchell Curtis's father is Foster Curtis of Virginia, who she says spent 21 years with NCIS, rising from special agent to division chief in the Office of Inspector General, and that sleuths helped identify him.",
+      "label": "Host Says Mitchell Curtis's Father Foster Curtiss Spent 21 Years at NCIS",
+      "claim": "The host says Mitchell Curtis's father is Foster Curtiss of Virginia, who she says spent 21 years with NCIS, rising from special agent to division chief in the Office of Inspector General, and that sleuths helped identify him.",
       "anchored_artifacts": [
         "A-2874.1"
       ],
@@ -2309,8 +2309,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:21:00",
-      "investigative_direction": "Verify Foster Curtis's NCIS and Inspector General career through public records, and confirm the father-son relationship.",
-      "transcript_snippet": "His father's name is Foster Curtis. Foster lives in Virginia. Foster spent 21 years with NCIS, starting as a special agent",
+      "investigative_direction": "Verify Foster Curtiss's NCIS and Inspector General career through public records, and confirm the father-son relationship.",
+      "transcript_snippet": "His father's name is Foster Curtiss. Foster lives in Virginia. Foster spent 21 years with NCIS, starting as a special agent",
       "mentions_person_refs": [
         "N-3",
         "N-782",
@@ -2341,8 +2341,8 @@
       "@type": "Claim",
       "@id": "C-7377",
       "ref": "C-7377",
-      "label": "Host Says Foster Curtis Left NCIS on June 2, 2025 to Be Richmond's Interim Inspector General",
-      "claim": "The host says that on June 2, 2025, after 21 years, Foster Curtis left his NCIS division chief position to become Richmond, Virginia's interim inspector general.",
+      "label": "Host Says Foster Curtiss Left NCIS on June 2, 2025 to Be Richmond's Interim Inspector General",
+      "claim": "The host says that on June 2, 2025, after 21 years, Foster Curtiss left his NCIS division chief position to become Richmond, Virginia's interim inspector general.",
       "anchored_artifacts": [
         "A-2875.1"
       ],
@@ -2355,7 +2355,7 @@
       ],
       "claim_timestamp": "00:22:40",
       "investigative_direction": "Check City of Richmond announcements and local news from June 2025 on the interim inspector general appointment.",
-      "transcript_snippet": "Foster Curtis after 21 years decided to leave his position as a division chief and to be Richmond, Virginia's interim inspector general.",
+      "transcript_snippet": "Foster Curtiss after 21 years decided to leave his position as a division chief and to be Richmond, Virginia's interim inspector general.",
       "mentions_person_refs": [
         "N-3",
         "N-783"
@@ -2388,8 +2388,8 @@
       "@type": "Claim",
       "@id": "C-7379",
       "ref": "C-7379",
-      "label": "Host Adds Mitch and Foster Curtis to Her Tree of Brand-New Utah Personnel",
-      "claim": "The host says Foster Curtis's job change came a couple of months before his son found the gun, and adds the two to her spreadsheet of brand-new people in Utah.",
+      "label": "Host Adds Mitch and Foster Curtiss to Her Tree of Brand-New Utah Personnel",
+      "claim": "The host says Foster Curtiss's job change came a couple of months before his son found the gun, and adds the two to her spreadsheet of brand-new people in Utah.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10757",

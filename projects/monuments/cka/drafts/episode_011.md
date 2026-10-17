@@ -740,14 +740,14 @@ The host's stated gut instinct that the assassination was a military operation, 
 
 **C-1297** Host Says Tyler Robinson Uses "Car" Rather Than "Vehicle" in 2022 Police Bodycam Footage
 
-Claim Timestamp: 00:02:45–00:03:25
-Claim: The host says the 2022 police bodycam audio she plays shows Tyler Robinson referring to "his car" and his mother "shuttling over from her car," which she contrasts with the vocabulary of the federal text messages.
+Claim Timestamp: 00:04:00
+Claim: The host says Tyler Robinson refers to it as his car, not his vehicle, in the 2022 police bodycam footage she plays, in which his mother is said to have to "shuttle over from where she's at to her car", which she contrasts with the vocabulary of the federal text messages.
 Anchored Artifacts: A-1171.1
 Mentions: N-40
 Related Nodes:
 Investigative Direction: Obtain the original 2022 bodycam video and full transcript; compare against the released federal text messages.
 
-**C-1298** Tyler Robinson uses "vehicle" rarely in ordinary speech
+**C-1298** Host Says Robinson Saying "Car" Rather Than "Vehicle" Is How Most English Speakers Talk
 
 Claim Timestamp: 00:03:25
 Claim: Host states (via commentary on A-1171.1) that Robinson's everyday use of "car" rather than "vehicle" is typical of ordinary American English speakers.
@@ -765,7 +765,7 @@ Anchored Artifacts: A-1172.1
 Mentions: N-273, N-125
 Investigative Direction: Cross-reference call logs and the court filings already referenced by Brooksby (court documents where the friend was named as a "retired Washington County deputy").
 
-**C-1300** Brooksby attempted to protect the retired detective's identity despite his public-record career
+**C-1300** Brooksby Says He Withheld the Retired Deputy's Identity to Protect Him
 
 Claim Timestamp: 00:17:27
 Claim: Brooksby stated that he did not initially disclose the friend as a former detective and only referenced him generally as "retired law enforcement"; he argued that the court documents were what ultimately revealed the title.
@@ -785,7 +785,7 @@ Investigative Direction: Obtain the full unedited press-conference audio and any
 **C-1302** Brooksby stated Tyler Robinson came in willingly out of fear of being shot by law enforcement
 
 Claim Timestamp: 00:10:42
-Claim: Brooksby stated that Tyler came in to Brooksby's office willingly as part of a negotiated "delicate and as soft as possible" reception because he was "fearful of a SWAT team hit" and being shot by law enforcement.
+Claim: In a clip the host plays, Brooksby says Tyler's arrival at his office was treated "as delicate and as soft as possible" because he was "fearful of a SWAT team hit" on his house or of being shot by law enforcement.
 Anchored Artifacts: A-1172.3
 Mentions: N-273, N-40
 Related Nodes: N-10142
@@ -793,25 +793,25 @@ Investigative Direction: Obtain any negotiated-surrender documentation; reconcil
 
 **C-1303** Lance's Instagram posts establish a romantic relationship with Tyler Robinson
 
-Claim Timestamp: 00:07:30–00:08:10
+Claim Timestamp: 00:12:21
 Claim: Host presents Lance's Halloween-era Instagram caption ("I forgot to post my boyfriend is the best. Love you.") and a photo of Tyler with a mustache as evidence that Tyler and Lance were in a romantic relationship.
 Anchored Artifacts: A-1173.1, A-1173.2
-Mentions: N-40
+Mentions: N-40, N-54
 Related Nodes: N-10143
 Investigative Direction: Recover archived versions of Lance's Instagram handle (host notes it has since been removed); cross-reference with any retained screenshots in the investigative file.
 
 **C-1304** Mike Mitchell retired from the Washington County Sheriff's Office after 24+ years
 
-Claim Timestamp: 00:16:00–00:16:30
-Claim: The Washington County Sheriff's Office retirement-celebration post states that Detective Mike Mitchell served for "over 24 years … starting in the jail back in 1999."
+Claim Timestamp: 00:20:00
+Claim: Per the retirement-celebration post the host shows, Detective Mike Mitchell served Washington County for "over 24 years … starting in the jail back in 1999."
 Anchored Artifacts: A-1174.1
 Mentions: N-125
 Investigative Direction: Verify against Washington County personnel records and any prior news coverage of Mitchell's career.
 
 **C-1305** The retirement-celebration post is the only public trace of Mike Mitchell
 
-Claim Timestamp: 00:16:30–00:16:50
-Claim: Host states she was unable to find any other public news trace of Mike Mitchell despite his 24+ year career, and presents the retirement post as the sole located artifact.
+Claim Timestamp: 00:20:25
+Claim: The host says that despite a career of 25 years in the police force she could not find a single trace of Mike Mitchell in old newspapers, and presents the retirement post as the only trace of him she could find.
 Anchored Artifacts: A-1174.1
 Mentions: N-125
 Related Nodes: N-10141
@@ -835,10 +835,10 @@ Mentions: N-61, N-129
 Related Nodes: N-10144
 Investigative Direction: Timestamp the TMZ footage independently and reconcile with Lyman's stated parking time.
 
-**C-1308** Phil Lyman's family owns approximately twelve homes on the relevant street
+**C-1308** Host Says Lyman's Family Owns Twelve Homes in the Area
 
 Claim Timestamp: 00:29:30–00:30:00
-Claim: In the Kayleigh McEnany interview, Phil Lyman describes the area as his childhood neighborhood and his relatives' neighborhood; host counts approximately twelve homes as owned by the Lyman family in the area.
+Claim: In the Kayleigh McEnany interview, Phil Lyman describes the area as his childhood neighborhood and his relatives' neighborhood; the host says his family owns twelve homes right there.
 Anchored Artifacts: A-1177.1
 Mentions: N-61, N-129
 Related Nodes: N-10144
@@ -846,7 +846,7 @@ Investigative Direction: Pull county property records for the relevant street an
 
 **C-1309** Phil Lyman publicly described "two goth girls" as unfrightened near the shooting scene on Alex Jones
 
-Claim Timestamp: 00:30:00–00:32:00
+Claim Timestamp: 00:31:25
 Claim: In an Alex Jones interview, Phil Lyman recounted being at the east end of the venue, hearing a loud bang, seeing people ducking behind concrete retaining walls, and encountering two "very goth, very black" girls who were not running; he reported that one girl said "Go f yourselves" while looking down at fleeing people.
 Anchored Artifacts: A-1178.1
 Mentions: N-61, N-93
@@ -1155,7 +1155,7 @@ Investigative Direction: Trace the original media and official source for the fa
 
 Claim Timestamp: 00:05:44
 
-Claim: The host says her source told her the 'family friend' was a former detective with the police force and has strong ties to the police station, and that he was the in-between person who informed the Robinson family that Tyler had been identified as the shooter. She presents this as the opposite of the media story.
+Claim: The host says her source told her the 'family friend' was a former detective with the police force, who she infers therefore has strong ties to the police station, and that he was the in-between person who informed the Robinson family that Tyler had been identified as the shooter. She presents this as the opposite of the media story.
 
 Transcript Snippet: That quote unquote family friend&nbsp;&nbsp; uh who we learned was a former detective with&nbsp; the police force um at least and so therefore&nbsp;&nbsp; has strong ties with the police station informed&nbsp; the family.
 
@@ -1189,7 +1189,7 @@ Investigative Direction: Compare with Brooksby's statement that Tyler was 'fearf
 
 Claim Timestamp: 00:06:42
 
-Claim: The host says her source told her that Tyler was called over to the house of the family friend, was bewildered, and disputed the idea that he had murdered Charlie Kirk.
+Claim: The host says her source told her that Tyler was called over, was bewildered, and disputed the idea that he had murdered Charlie Kirk.
 
 Transcript Snippet: Tyler was called over.&nbsp;&nbsp; Tyler was bewildered. He disputed the idea&nbsp; that he had murdered Charlie Kirk.
 

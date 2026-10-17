@@ -430,7 +430,7 @@
           "@type": "Artifact",
           "@id": "A-1855.7",
           "ref": "A-1855.7",
-          "description": "Statement attributed to Italian Prime Minister Georgia Meloni describing the war as part of a \"growing and dangerous trend of interventions that sit outside the scope of international law.\"",
+          "description": "Statement attributed to Italian Prime Minister Giorgia Meloni describing the war as part of a \"growing and dangerous trend of interventions that sit outside the scope of international law.\"",
           "related_claims": [
             "C-2488"
           ],
@@ -1090,7 +1090,7 @@
       "@type": "Person",
       "@id": "N-595",
       "ref": "N-595",
-      "name": "Georgia Meloni",
+      "name": "Giorgia Meloni",
       "type": "person",
       "description": "Speaker attributed with statement (A-1855.7) criticizing US-Israeli war as outside international law.",
       "related_artifacts": [

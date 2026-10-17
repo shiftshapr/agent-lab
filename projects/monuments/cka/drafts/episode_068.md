@@ -368,7 +368,7 @@ Confidence Level: High
 
 **A-3049.1** Moderator Marzy comment about Epstein, Dershowitz and Finkelstein read on air
 
-Quoted text: "Epstein and Duruit contacted Finkelestein, but he called them pedophiles and threatened to hurt them."
+Quoted text: "Epstein and Dershowitz contacted Finkelestein, but he called them pedophiles and threatened to hurt them."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:50:17
@@ -619,7 +619,7 @@ Subject of a moderator comment praised by the host.
 
 **N-535** Alan Dershowitz
 
-Transcribed 'Duruit' in the moderator comment read on air.
+Transcribed 'Dershowitz' in the moderator comment read on air.
 
 *Related: C-10058*
 
@@ -1144,11 +1144,11 @@ Investigative Direction: Compare with the host's earlier accounts of the private
 
 ---
 
-**C-10025** Host says Dec 16 was Erika's first Zoom call as CEO and chairman
+**C-10025** Host Says Sept 16 Was Erika's First Zoom Call As CEO And Chairman
 
 Claim Timestamp: 00:23:34
 
-Claim: The host says December 16 was when Erika hosted her first Zoom call as the new CEO and chairman, offered as a possible referent for the '10 days until' countdown she thinks was otherwise planned.
+Claim: The host says September 16 turned out to be when Erika hosted her first Zoom call as the new CEO and chairman, though she is sure the '10 days until September 16th' countdown originally referred to some other plan.
 
 Transcript Snippet: December 16th 10 as actually when she hosted her first Zoom call with um as the new CEO and chairman
 
@@ -1669,9 +1669,9 @@ Investigative Direction: Locate any Freud quote matching this.
 
 Claim Timestamp: 00:50:17
 
-Claim: The host reads a moderator's comment that Epstein and Dershowitz ('Duruit') contacted Norman Finkelstein, who called them pedophiles and threatened to hurt them, and the host says she loved having Finkelstein on the show.
+Claim: The host reads a moderator's comment that Epstein and Dershowitz contacted Norman Finkelstein, who called them pedophiles and threatened to hurt them, and the host says she loved having Finkelstein on the show.
 
-Transcript Snippet: Epstein and Duruit contacted Finkelestein, but he called them pedophiles and threatened to hurt them.
+Transcript Snippet: Epstein and Dershowitz contacted Finkelestein, but he called them pedophiles and threatened to hurt them.
 
 Anchored Artifacts: A-3049.1
 Mentions: N-200, N-9, N-535

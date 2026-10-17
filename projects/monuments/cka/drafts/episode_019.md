@@ -13,7 +13,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-935, N-11378
-  - Hole-minted Nodes (reintro-ep019): N-191, N-269, N-10198, N-10218, N-10226, N-10338, N-10346, N-10561, N-10635, N-10806
+  - Hole-minted Nodes (reintro-ep019): N-191, N-269, N-10198, N-10218, N-10226, N-10338, N-10346, N-10561, N-10635, N-10806, N-394
   - Tip-minted Nodes (reintro-ep019): N-11093
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-13936–C-14002
@@ -489,6 +489,19 @@ Investigative Pressure: Low
 
 ---
 
+**N-394** Corey Lewandowski
+
+Former Trump campaign manager. First named in this episode, where the host says he may have taken her fishing photo with Charlie Kirk (intro moved from ep53, 2026-10-16).
+
+Evidence Count: 0
+Claim Count: 1
+Episode Count: 2
+Investigative Pressure: Low
+
+*Related: C-1473*
+
+---
+
 **N-67** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host says "Mark is going to bring it in" and he rolls the Mikey McCoy phone clip that the host then slows down. No claim anchor; registered for cross-episode continuity.
@@ -928,7 +941,7 @@ Investigative Direction: Identify the source of Pastor McCoy's information regar
 
 Claim Timestamp: 00:38:21–00:39:19
 
-Claim: Charlie Kirk texted Candace Owens on April 6, 2018 stating he "might not see this whole thing through," that he was "not sure if I will live to see the end of this revolution," and that he had dreamed about being "wiped out" since the beginning of TPUSA.
+Claim: Per text messages dated April 6, 2018 that the host reads aloud and says Charlie Kirk sent her, he wrote that he "might not see this whole thing through," that he was "not sure if I will live to see the end of this revolution," and that since the beginning of TPUSA he knew in his gut he "might get wiped out at any time" and dreamed about it all the time.
 
 Anchored Artifacts: A-1266.1
 Mentions: N-3, N-1
@@ -1003,10 +1016,10 @@ Investigative Direction: Identify the date, venue, and full transcript of the UV
 
 Claim Timestamp: 00:03:02
 
-Claim: Photo depicts Candace Owens and Charlie Kirk on a fishing trip in British Columbia; photographer described as Donald Trump Jr. or Corey Lewandowski ("Flash").
+Claim: The host shows a photo she says is of her and Charlie Kirk fishing in British Columbia, and says she thinks Donald Trump Jr., or possibly Corey Lewandowski, took the picture.
 
 Anchored Artifacts: A-1263.1
-Mentions: N-33, N-3, N-1
+Mentions: N-33, N-3, N-1, N-394
 
 Related Nodes:
 

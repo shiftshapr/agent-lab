@@ -518,7 +518,7 @@ Terryl's possession of the footage in Arizona.
 
 *Related: C-3836, C-3839*
 
-**N-10870** Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum
+**N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
 
 Transcript spelling "Wiyre Fy". The host ties the new back camera to the sponsorship deal.
 

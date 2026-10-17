@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-Episode 31 advances two principal evidentiary threads: (1) a documentary case linking Rob McCoy and the Calvary Chapel network to the post-conviction rehabilitation and child-access placement of Thomas Michael Camino (a 1995 California sex-offense convict), and (2) public-comment follow-up from the prior episode. The Camino thread is anchored by a 1995 LA Times article read on air, an email from a victim, and audio clips from a podcast appearance on the "Bryce Eddie show" where McCoy introduces Camino and Camino asserts his innocence. The Frank Turek interview on CBN News is read on air, producing two artifact-backed claims regarding prosecution-process objections and a reference to Detective J. Warner Wallace.
+Episode 31 advances two principal evidentiary threads: (1) a documentary case linking Rob McCoy and the Calvary Chapel network to the post-conviction rehabilitation and child-access placement of Thomas Michael Camino (a 1995 California sex-offense convict), and (2) public-comment follow-up from the prior episode. The Camino thread is anchored by a 1995 LA Times article read on air, an email from a victim, and audio clips from a podcast appearance on the "Bryce Eddy show" where McCoy introduces Camino and Camino asserts his innocence. The Frank Turek interview on CBN News is read on air, producing two artifact-backed claims regarding prosecution-process objections and a reference to Detective J. Warner Wallace.
 
 The second half of the episode pivots to rhetorical display of two external media clips: Tucker Carlson refusing to denounce Owens during a foreign-press interview, and Tim Dillon's comedy commentary on Kash Patel's girlfriend. A lengthy YouTube-comment reading segment produces several artifact-backed claims, most notably a commenter alleging security-guard coordination at the Charlie Kirk event and another describing a Calvary Chapel pastor calling for the burning of Bibles depicting Palestine. The episode does not introduce new documentary evidence on the Charlie Kirk assassination timeline itself; instead it advances character-network allegations against the TPUSA Faith organizational sphere.
 
@@ -301,9 +301,9 @@ Confidence Level: High
 
 ---
 
-**A-1394** Rob McCoy Podcast Interview Bundle (Bryce Eddie Show)
+**A-1394** Rob McCoy Podcast Interview Bundle (Bryce Eddy Show)
 
-**A-1394.1** Rob McCoy Introduction of Thomas Camino on Bryce Eddie Show
+**A-1394.1** Rob McCoy Introduction of Thomas Camino on Bryce Eddy Show
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -313,7 +313,7 @@ Confidence Level: High
 
 *Related: C-1686, C-1687, C-1689, N-250, Rob McCoy (likely-existing node), N-10247*
 
-**A-1394.2** Thomas Camino Narrative on Bryce Eddie Show – Claims of False Conviction
+**A-1394.2** Thomas Camino Narrative on Bryce Eddy Show – Claims of False Conviction
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -537,9 +537,9 @@ Confidence Level: Low
 
 ---
 
-**A-2827** Potter's Fields Whistleblower Quotes Bundle
+**A-2827** Potter's Field Whistleblower Quotes Bundle
 
-**A-2827.1** Host reads quotations attributed to a former Potter's Fields Ignite student named Kenny about the number of children served and altered donor letters
+**A-2827.1** Host reads quotations attributed to a former Potter's Field Ignite student named Kenzie Kinney about the number of children served and altered donor letters
 
 Quoted text: "This would be a very high guesstimate of how many kids were actually in this program. I would say maybe like 500."
 
@@ -565,9 +565,9 @@ Confidence Level: Low
 
 ---
 
-**A-2829** Wilkins Lawsuit Against Elijah Schaefer Reference Bundle
+**A-2829** Wilkins Lawsuit Against Elijah Schaffer Reference Bundle
 
-**A-2829.1** Host verbal reference to the lawsuit filed against Elijah Schaefer over a joke and the lawsuit's reference to his anti-Israel rhetoric (not shown)
+**A-2829.1** Host verbal reference to the lawsuit filed against Elijah Schaffer over a joke and the lawsuit's reference to his anti-Israel rhetoric (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:45:12
@@ -649,7 +649,7 @@ Investigative Pressure: Low
 
 **N-10246** Calvary Chapel Institutional Abuse Pattern
 
-Persistent investigative target concerning multiple Calvary Chapel-affiliated abuse scandals referenced in this episode: Calvary Chapel Florida (Bob Coy), Woodlands (2024 arrest), Carrie (lead pastor resignation), Mission Viejo, Solid Rock (Jason James Taylor), North County Chapel Post Falls (Anthony Iglesias, Robert Davis), Virginia (Doug DeAndrea), Fort Lauderdale (2019), North Thirsten Oregon (Jeffrey Zizz).
+Persistent investigative target concerning multiple Calvary Chapel-affiliated abuse scandals referenced in this episode: Calvary Chapel Florida (Bob Coy), Woodlands (2024 arrest), Carrie (lead pastor resignation), Mission Viejo, Solid Rock (Jason James Taylor), North Country Chapel Post Falls (Anthony Iglesias, Robert Davis), Virginia (Doug DeAndrea), Fort Lauderdale (2019), North Thurston Oregon (Jeffrey Zizz).
 
 Evidence Count: 1 (host narration only; no displayed per-incident sources in this episode)
 Claim Count: 0 (no per-incident displayed sources; host statement only)
@@ -660,11 +660,11 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10247** Potter's Fields Ministries Financial Fraud Allegations
+**N-10247** Potter's Field Ministries Financial Fraud Allegations
 
 2019 Whitefish, Montana ministry scandal involving allegations of overstated child counts, photoshopped letters, and redirection of funds to Rob McCoy's church via CFO arrangement.
 
-Evidence Count: 0 (host reads Kenny quotes without displayed source)
+Evidence Count: 0 (host reads Kenzie Kinney quotes without displayed source)
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
@@ -707,7 +707,7 @@ Convicted sex offender; the host links Kirk's Epstein segments, the released ema
 
 **N-17** Rob McCoy
 
-Pastor of Calvary Chapel Chino Hills; the host ties him to Thomas Camino, the home fellowship program and Potter's Fields Ministries.
+Pastor of Calvary Chapel Chino Hills; the host ties him to Thomas Camino, the home fellowship program and Potter's Field Ministries.
 
 *Related: C-6611, C-6612, C-6613, C-6620, C-6635, C-6637*
 
@@ -824,7 +824,7 @@ Jack Hibbs' brother, whom the host says was everywhere before and after the assa
 
 ---
 
-**N-248** Elijah Schaefer
+**N-248** Elijah Schaffer
 
 Defendant in the lawsuit the host says concerns a joke.
 
@@ -961,7 +961,7 @@ Existing topic reused for the TPUSA Faith pivot claim.
 
 ---
 
-**N-10252** Potter's Fields Hostile Takeover Allegation
+**N-10252** Potter's Field Hostile Takeover Allegation
 
 Node Type: Topic
 Existing topic reused for the McCoy CFO claim.
@@ -1089,7 +1089,7 @@ Existing organization reused for the orphanage remark.
 
 **N-759** Bob Coy
 
-First named by the host at 00:19:19 in episode 31. Pompo Beach, Florida Calvary Chapel founder accused of molesting a 4-year-old; the host stresses he is not Rob McCoy.
+First named by the host at 00:19:19 in episode 31. Pompano Beach, Florida Calvary Chapel founder accused of molesting a 4-year-old; the host stresses he is not Rob McCoy.
 
 *Related: C-6620*
 
@@ -1113,7 +1113,7 @@ First named by the host at 00:19:19 in episode 31. Named by the host (spelled An
 
 **N-762** Robert Davis
 
-First named by the host at 00:19:19 in episode 31. Reverend and lead pastor of North County Chapel in Post Falls, Idaho, whom the lawsuit alleges made the Thailand remark.
+First named by the host at 00:19:19 in episode 31. Reverend and lead pastor of North Country Chapel in Post Falls, Idaho, whom the lawsuit alleges made the Thailand remark.
 
 *Related: C-6625*
 
@@ -1143,9 +1143,9 @@ First named by the host at 00:22:47 in episode 31. Referred to by the host as Di
 
 ---
 
-**N-766** Kenny
+**N-766** Kenzie Kinney
 
-First named by the host at 00:25:17 in episode 31. Former Potter's Fields Ignite student the host says blew the whistle on alleged financial fraud (spelled Kenzie Kinney and Kenny in the transcript).
+First named by the host at 00:25:17 in episode 31. Former Potter's Field Ignite student the host says blew the whistle on alleged financial fraud (spelled Kenzie Kinney and Kenzie Kinney in the transcript).
 
 *Related: C-6634*
 
@@ -1215,11 +1215,11 @@ Investigative Direction: Verify sender identity, confirm testimony record in Peo
 
 Claim Timestamp: 00:12:54
 
-Claim: On the Bryce Eddie Show podcast clip played in the episode, Rob McCoy states that about 20 years ago at "Skyline" Thomas Camino introduced himself, that Camino "followed the procedures" required of him, that they have been friends since, and that Camino has "served this community."
+Claim: On the Bryce Eddy Show podcast clip played in the episode, Rob McCoy states that about 20 years ago at "Skyline" Thomas Camino introduced himself, that Camino "followed the procedures" required of him, that they have been friends since, and that Camino has "served this community."
 
 Anchored Artifacts: A-1394.1
 Mentions: N-250, N-17
-Investigative Direction: Obtain full unedited Bryce Eddie Show episode; verify Skyline identification and dates; identify all co-attended Calvary Chapel events.
+Investigative Direction: Obtain full unedited Bryce Eddy Show episode; verify Skyline identification and dates; identify all co-attended Calvary Chapel events.
 
 ---
 
@@ -1240,7 +1240,7 @@ Investigative Direction: Obtain 2022 Calvary Chapel statements and any internal 
 
 Claim Timestamp: 00:13:55
 
-Claim: In the Bryce Eddie Show clip, Thomas Camino states he was "falsely accused," describes a "sham" trial, claims he served 1,536 days for a crime he did not commit, and alleges his ex-wife was dating his public defender.
+Claim: In the Bryce Eddy Show clip, Thomas Camino states he was "falsely accused," describes a "sham" trial, claims he served 1,536 days for a crime he did not commit, and alleges his ex-wife was dating his public defender.
 
 Anchored Artifacts: A-1394.2
 Mentions: N-250
@@ -1693,7 +1693,7 @@ Investigative Direction: Compile court records, lawsuits and press reports on ea
 
 Claim Timestamp: 00:19:19
 
-Claim: The host says the founder of Calvary Chapel in Pompo Beach, Florida was a pastor named Bob Coy (transcribed as Bob Coy), a former Las Vegas casino entertainment director, who was accused of molesting a 4-year-old girl, and she stresses he is not Rob McCoy.
+Claim: The host says the founder of Calvary Chapel in Pompano Beach, Florida was a pastor named Bob Coy, a former Las Vegas casino entertainment director, who was accused of molesting a 4-year-old girl, and she stresses he is not Rob McCoy.
 
 Transcript Snippet: Then he got accused of molesting a 4-year-old girl.
 
@@ -1721,11 +1721,11 @@ Investigative Direction: Identify the pastor and arrest report and check the cha
 
 ---
 
-**C-6622** Host Says a Calvary Chapel Carrie Lead Pastor Resigned Amid Incest and Fund-Misuse Allegations
+**C-6622** Host Says a Calvary Chapel Cary Lead Pastor Resigned Amid Incest and Fund-Misuse Allegations
 
 Claim Timestamp: 00:19:19
 
-Claim: The host says the lead pastor of Calvary Chapel Carrie resigned amid allegations of incest with his own son, bullying, drug addiction and misuse of funds.
+Claim: The host says the lead pastor of Calvary Chapel Cary resigned amid allegations of incest with his own son, bullying, drug addiction and misuse of funds.
 
 Transcript Snippet: the lead pastor, resigned amid allegations of incest with his own son, bullying, drug addiction, and the misuse of funds.
 
@@ -1771,9 +1771,9 @@ Investigative Direction: Locate Minnesota task force press releases and court re
 
 **C-6625** Host Says a Post Falls, Idaho Lawsuit Alleges Calvary Chapel Concealed a Known Predator
 
-Claim Timestamp: 00:21:00
+Claim Timestamp: 00:20:11
 
-Claim: The host says the North County Chapel in Post Falls, Idaho is being sued by victims alleging it concealed a known predator, Anthony Iglesias, now serving time in an Idaho prison, and that the lawsuit alleges Reverend Robert Davis told the parents they knew his history and had pulled him out of Thailand, an orphanage program.
+Claim: The host says the North Country Chapel in Post Falls, Idaho is being sued by victims alleging it concealed a known predator, Anthony Iglesias, now serving time in an Idaho prison, and that the lawsuit alleges Reverend Robert Davis told the parents they knew his history and had pulled him out of Thailand, an orphanage program.
 
 Transcript Snippet: Yeah, we knew that's why we pulled him out of Thailand.
 
@@ -1837,7 +1837,7 @@ Investigative Direction: Identify the 2019 arrest record for the Fort Lauderdale
 
 Claim Timestamp: 00:21:14
 
-Claim: The host says the lead pastor of a Calvary Chapel in North Thirsten, Oregon, Jeffrey Zizz, confessed to sexual misconduct involving his three daughters over two years, served 11 months, and after release murdered an 82-year-old woman and poured concrete over her body.
+Claim: The host says the lead pastor of a Calvary Chapel in North Thurston, Oregon, Jeffrey Zizz, confessed to sexual misconduct involving his three daughters over two years, served 11 months, and after release murdered an 82-year-old woman and poured concrete over her body.
 
 Transcript Snippet: He went to prison for 11 months. And then when he got out, he murdered an 80year-old and poured concrete.
 
@@ -1879,27 +1879,27 @@ Investigative Direction: Locate the Kanye West interview or episode the host des
 
 ---
 
-**C-6632** Host Says the Calvary Church Association Funded Potter's Fields Ministries in Whitefish, Montana
+**C-6632** Host Says the Calvary Church Association Funded Potter's Field Ministries in Whitefish, Montana
 
 Claim Timestamp: 00:23:32
 
-Claim: The host says Potter's Field is an area in Whitefish, Montana where the Calvary Church Association funded a ministry that became Potter's Fields Ministries, with a hunting ground, a camp for kids, a student program called Ignite and a burger chain.
+Claim: The host says Potter's Field is an area in Whitefish, Montana where the Calvary Church Association funded a ministry that became Potter's Field Ministries, with a hunting ground, a camp for kids, a student program called Ignite and a burger chain.
 
-Transcript Snippet: the Calvary Church Association funded a ministry which came to be known as Potter's Fields Ministries.
+Transcript Snippet: the Calvary Church Association funded a ministry which came to be known as Potter's Field Ministries.
 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10247
 Tags: relevance:context
-Investigative Direction: Retrieve Montana nonprofit filings and Form 990s for Potter's Fields Ministries and its funders.
+Investigative Direction: Retrieve Montana nonprofit filings and Form 990s for Potter's Field Ministries and its funders.
 
 ---
 
-**C-6633** Host Says Potter's Fields Came Under a 2019 Scandal Over Where Donor Money Went
+**C-6633** Host Says Potter's Field Came Under a 2019 Scandal Over Where Donor Money Went
 
 Claim Timestamp: 00:24:54
 
-Claim: The host says that in 2019 Potter's Fields Ministries came under a scandal with reports of financial and psychological abuse, and that Calvary Chapel members were funding it believing the money fed and clothed children in Uganda, Cambodia, Costa Rica and Guatemala.
+Claim: The host says that in 2019 Potter's Field Ministries came under a scandal with reports of financial and psychological abuse, and that Calvary Chapel members were funding it believing the money fed and clothed children in Uganda, Cambodia, Costa Rica and Guatemala.
 
 Transcript Snippet: in 2019, the ministry came under a scandal with reports of financial abuse, psychological abuse.
 
@@ -1907,31 +1907,31 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10247
 Tags: relevance:context
-Investigative Direction: Locate the 2019 local press coverage of the Potter's Fields scandal and the ministry's response.
+Investigative Direction: Locate the 2019 local press coverage of the Potter's Field scandal and the ministry's response.
 
 ---
 
-**C-6634** Host Reads a Whistleblower's Estimate That About 500 Children Were in the Potter's Fields Program
+**C-6634** Host Reads a Whistleblower's Estimate That About 500 Children Were in the Potter's Field Program
 
 Claim Timestamp: 00:25:58
 
-Claim: The host reads quotes attributed to a former Ignite student named Kenzie Kinney, who handled Potter's Fields finances, that a very high guess of children in the program was 500 across five countries, that she worked with about 20 kids weekly, that videos of hundreds of fed children came from infrequent conferences, and that workers were told to photoshop old letters and cut off dates before mailing them to donors.
+Claim: The host reads quotes attributed to a former Ignite student named Kenzie Kinney, who handled Potter's Field finances, that a very high guess of children in the program was 500 across five countries, that she worked with about 20 kids weekly, that videos of hundreds of fed children came from infrequent conferences, and that workers were told to photoshop old letters and cut off dates before mailing them to donors.
 
-Transcript Snippet: I would say maybe like 500. And that would be between all five countries," Kenny said.
+Transcript Snippet: I would say maybe like 500. And that would be between all five countries," Kenzie Kinney said.
 
 Anchored Artifacts: A-2827.1
 Mentions: N-766, N-3
 Related Nodes: N-10247
 Tags: relevance:context
-Investigative Direction: Locate the original news report quoting Kenny and the ministry's response, and check the donor mailings.
+Investigative Direction: Locate the original news report quoting Kenzie Kinney and the ministry's response, and check the donor mailings.
 
 ---
 
-**C-6635** Host Says Potter's Fields Brought In Rob McCoy as CFO and Its Money Went into His Church
+**C-6635** Host Says Potter's Field Brought In Rob McCoy as CFO and Its Money Went into His Church
 
 Claim Timestamp: 00:27:02
 
-Claim: The host says that after announcing it was shutting down in 2019, Potter's Fields Ministry brought in Pastor Rob McCoy as CFO, and that the money was transferred into his church, which she says was done above board with the people notified.
+Claim: The host says that after announcing it was shutting down in 2019, Potter's Field Ministries brought in Pastor Rob McCoy as CFO, and that the money was transferred into his church, which she says was done above board with the people notified.
 
 Transcript Snippet: They shut down in 2019 and they brought in Pastor Rob McCoy as a CFO to help steer the ship of their finances.
 
@@ -1939,7 +1939,7 @@ Anchored Artifacts:
 Mentions: N-17, N-3
 Related Nodes: N-10247, N-10252
 Tags: relevance:context
-Investigative Direction: Obtain Potter's Fields dissolution filings and Calvary Chapel Chino Hills records showing the transfer of funds and McCoy's role.
+Investigative Direction: Obtain Potter's Field dissolution filings and Calvary Chapel Chino Hills records showing the transfer of funds and McCoy's role.
 
 ---
 
@@ -2012,7 +2012,7 @@ Investigative Direction: Gather UVU event footage and photographs of Butch Hibbs
 
 Claim Timestamp: 00:28:18
 
-Claim: The host says she received emails saying Pastor Jack Hibbs has gone masked down and is hosting 5 a.m. calls against her and Tucker Carlson.
+Claim: The host says she received emails saying Pastor Jack Hibbs seems to be coming undone and is hosting 5 a.m. calls against her and Tucker Carlson.
 
 Transcript Snippet: He's hosting 500 a. m. calls against me and Tucker Carlson
 
@@ -2386,13 +2386,13 @@ Investigative Direction: Identify the person (the host does not name him) and ve
 
 ---
 
-**C-6664** Host Says the Lawsuit against Elijah Schaefer Is About a Joke and Cites His Anti-Israel Rhetoric
+**C-6664** Host Says the Lawsuit against Elijah Schaffer Is About a Joke and Cites His Anti-Israel Rhetoric
 
 Claim Timestamp: 00:45:12
 
-Claim: The host says the lawsuit against Elijah Schaefer, which she says Kash Patel is backing for his girlfriend, is about a joke, and that the lawsuit itself talks about Schaefer's anti-Israel rhetoric.
+Claim: The host says the lawsuit against Elijah Schaffer, which she says Kash Patel is backing for his girlfriend, is about a joke, and that the lawsuit itself talks about Schaefer's anti-Israel rhetoric.
 
-Transcript Snippet: that's what Elijah Schaefer's lawsuit is about. It's a joke. And in the lawsuit, they talk about his anti-Israel rhetoric.
+Transcript Snippet: that's what Elijah Schaffer's lawsuit is about. It's a joke. And in the lawsuit, they talk about his anti-Israel rhetoric.
 
 Anchored Artifacts: A-2829.1
 Mentions: N-248, N-213, N-69, N-3

@@ -479,7 +479,7 @@ Investigative Pressure: Medium
 
 **N-10752** TPUSA White House Meeting Coordination with Netanyahu Trip
 
-Persistent investigation target. Host's source claims Kolvet, in-house lawyer, and CMO Marina Medvin were scheduled to travel to the White House on a day coinciding with Netanyahu's Washington DC visit. Kolvet publicly denied. No corroborating visitor logs or schedules displayed.
+Persistent investigation target. Host's source claims Kolvet, in-house lawyer, and CMO Marina Minas were scheduled to travel to the White House on a day coinciding with Netanyahu's Washington DC visit. Kolvet publicly denied. No corroborating visitor logs or schedules displayed.
 
 Evidence Count: 2
 Claim Count: 1
@@ -626,9 +626,9 @@ Justin Davis; named among TPUSA team members reluctant to say who dialed 911.
 
 ---
 
-**N-494** Marina (TPUSA CMO)
+**N-494** Marina Minas
 
-Marina Medvin, TPUSA CMO; named in the host's White House tip.
+Marina Minas, TPUSA CMO; named in the host's White House tip.
 
 *Related: C-9059, C-9067*
 
@@ -1018,7 +1018,7 @@ Investigative Direction: Confirm against the full event recording and verify eve
 
 Claim Timestamp: 00:32:55
 
-Claim: Andrew Kolvet, in an X post, denied that he, the TPUSA in-house lawyer, or CMO Marina Medvin were in Washington DC, and additionally denied a prior host claim that he had been in DC on January 29 meeting top brass and staging a pre-record with Kash Patel.
+Claim: Andrew Kolvet, in an X post, denied that he, the TPUSA in-house lawyer, or CMO Marina Minas were in Washington DC, and additionally denied a prior host claim that he had been in DC on January 29 meeting top brass and staging a pre-record with Kash Patel.
 
 Anchored Artifacts: A-2194.1
 Mentions: N-14, N-69, N-494, N-495, N-3
@@ -1917,12 +1917,12 @@ Investigative Direction: Retrieve the Instagram post and confirm the account hol
 
 Claim Timestamp: 00:32:11
 
-Claim: The host says she tweeted that a tip from someone in Andrew Kolvet's inner circle said he, the Turning Point in-house lawyer and CMO Marina Medvin were headed to the White House that day, and that she described the source as pretty solid.
+Claim: The host says she tweeted that a tip from someone in Andrew Kolvet's inner circle said he, the Turning Point in-house lawyer and CMO Marina Minas were headed to the White House that day, and that she described the source as pretty solid.
 
-Transcript Snippet: I said I received a tip from someone in Andrew's inner circle that he along with Turning Point in-house lawyer plus the CMO Marina Medvin are headed to the White House today.
+Transcript Snippet: I said I received a tip from someone in Andrew's inner circle that he along with Turning Point in-house lawyer plus the CMO Marina Minas are headed to the White House today.
 
 Anchored Artifacts: A-2986.1
-Mentions: N-14, N-494, N-3
+Mentions: N-14, N-494, N-495, N-3
 Related Nodes: N-10752, N-10075
 Tags: relevance:core
 Investigative Direction: White House visitor logs and the host's tweet timestamp; identify the tipster.
@@ -2042,13 +2042,13 @@ Investigative Direction: Check the next episode for any receipt on the White Hou
 
 ---
 
-**C-9067** Host Names Marina Medvin and Frank, the In-House Lawyer, as Part of the Alleged White House Group
+**C-9067** Host Names Marina Minas and Frank, the In-House Lawyer, as Part of the Alleged White House Group
 
 Claim Timestamp: 00:34:25
 
-Claim: The host says she asked Kolvet openly whether he, Marina Medvin and Frank, the in-house lawyer, had a meeting scheduled at the White House, and says she is hearing there could be more people.
+Claim: The host says she asked Kolvet openly whether he, Marina Minas and Frank, the in-house lawyer, had a meeting scheduled at the White House, and says she is hearing there could be more people.
 
-Transcript Snippet: meeting schedule at the White House you and and Marina Medias and Frank the in-house lawyer and I'm actually hearing there could be some more people.
+Transcript Snippet: meeting schedule at the White House you and and Marina Minas and Frank the in-house lawyer and I'm actually hearing there could be some more people.
 
 Anchored Artifacts: A-2986.1
 Mentions: N-14, N-494, N-495, N-3
@@ -2627,7 +2627,7 @@ Confidence: high
 - **Artifact verbally referenced but not shown – A-2197.1:** 911 call tip content is described verbally with quoted phrases but no underlying audio, transcript, CAD record, or source identity is displayed.
 - **Name uncertainty – "Pastor Russell":** Only first name given; full pastoral identity, denominational credentials, and institutional affiliation beyond Pursuit Church not established.
 - **Name variant preserved –:** Transcript renders surname as "Amaro" on first mention and "Deirdra" on second mention; "Deirdre Amaro" retained as primary.
-- **Name variant preserved –:** Transcript renders name as "Marina Medias" in one instance and "Marina Medvin" in another; "Medvin" retained per second mention.
+- **Name variant preserved –:** Transcript renders name as "Marina Minas" in one instance and "Marina Minas" in another; "Minas" retained per second mention.
 - **Artifact verbally referenced but not shown – Daily Mail article:** Referenced from prior episode coverage with described direct quotations; not displayed in this episode.
 - **Artifact verbally referenced but not shown – Text messages between Candace and Charlie:** The messages themselves are referenced as having been shared publicly and as the subject of A-2189.1 and A-2189.2, but the underlying text content is not displayed in this episode.
 - **Transcript ambiguity – A-2192.1 / A-2192.2:** Pastor Russell is described in the host's surrounding commentary as "Erika's favorite pastor" with an affiliation implied to Turning Point Faith; this affiliation is not stated in the artifact itself.

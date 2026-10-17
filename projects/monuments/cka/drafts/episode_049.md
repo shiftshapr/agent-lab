@@ -279,7 +279,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-320** Captain Adam Nef
+**N-320** Captain Adam Neff
 
 U.S. Army captain named by witness "Mitch" as the officer who escorted him out of the JTF building and sat with him on a park bench at Fort Huachuca on September 9, 2025.
 
@@ -593,7 +593,7 @@ Investigative Direction: Obtain official DoD documentation confirming Fort Huach
 
 Claim Timestamp: 00:26:10–00:37:00
 
-Claim: Witness "Mitch" states he was subject to a non-disclosure / gag order of approximately 25–35 years following his involvement in a 1990 JTF6 (10th Mountain Division) mission that located a major cross-border drug tunnel between Douglas, Arizona and Mexico.
+Claim: The host says, and guest witness "Mitch" agrees, that he was gagged by a non-disclosure order for 35 years (she first says 25, then corrects herself) after a JTF6 mission, assigned from 10th Mountain, in which he located a major cross-border drug tunnel in the Douglas, Arizona area.
 
 Anchored Artifacts: A-1558.3
 Mentions: N-362
@@ -607,7 +607,7 @@ Investigative Direction: Review any court filings or legal correspondence refere
 
 Claim Timestamp: 00:19:30
 
-Claim: Witness "Mitch" was physically present at Fort Huachuca on the evening of September 8, 2025 (Candlewood Inn & Suites) and the morning of September 9, 2025 (JTF command building), as verified by host via EXIF metadata from an 18-minute self-recorded video and matching military ID credentials.
+Claim: The host says she confirmed with metadata that witness "Mitch" was physically present at Fort Huachuca on the evening of September 8, 2025 (Candlewood Inn & Suites) and the morning of September 9, 2025 (JTF command building), citing the photos and an 18-minute video he recorded on base and the military ID cards he sent her.
 
 Anchored Artifacts: A-1558.1, A-1558.2, A-1558.3
 Mentions: N-362
@@ -622,7 +622,7 @@ Investigative Direction: Obtain original metadata records; verify hotel reservat
 
 Claim Timestamp: 00:44:46–00:50:12
 
-Claim: Guest witness "Mitch" says that while at the JTF command building on the morning of September 9, 2025, he observed a group including a man in a congressman-style suit with flag pin, accompanied by lieutenant colonels, a sergeant major, and civilians, escorted by military personnel, and that he was subsequently surrounded by multiple federal and local law enforcement officers at a park bench outside.
+Claim: Guest witness "Mitch" says that while at the JTF command building on the morning of September 9, 2025, he observed a group including a man in a congressman-style suit with flag pin, accompanied by lieutenant colonels, a sergeant major, and civilians, escorted by military personnel, and that he was subsequently surrounded by police officers from different levels of government at a park bench outside.
 
 Anchored Artifacts: A-1558.3
 Mentions: N-362
@@ -1376,7 +1376,7 @@ Investigative Direction: Obtain the photographs and the records of how they were
 
 Claim Timestamp: 00:30:50
 
-Claim: Mitch says there was long-standing suspicion that the federal government knew 60 to 80 percent of the cocaine was coming through the Douglas, Arizona area, which is why the task force was called JTF6.
+Claim: Mitch says there was a lot of suspicion that the federal government knew 60 to 80 percent of the cocaine was coming through the Douglas, Arizona area, which is why the task force was called JTF6.
 
 Transcript Snippet: the federal government knew that 80% I think it was 60 to 80% of the cocaine was coming through the Douglas Arizona area
 
@@ -1557,7 +1557,7 @@ Investigative Direction: Check Fort Huachuca motor-pool and GSA fleet records an
 
 Claim Timestamp: 00:43:50
 
-Claim: Mitch says he ran into 10th Mountain personnel at a coffee shop on the base who said they were there for JTF, and that he bought them coffee.
+Claim: Mitch says he ran into 10th Mountain personnel at a coffee shop on the base who said they were there for JTF, and that he thinks he bought them coffee.
 
 Transcript Snippet: ran into some 10th Mountain people there. Um they said they were there for JTF.
 
@@ -1828,11 +1828,11 @@ Investigative Direction: Watch for the fundraiser's launch and verify its benefi
 
 ---
 
-**C-5344** A speaker says 51,000 emails sat unanswered in the tip inbox
+**C-5344** Host Says 51,000 Emails Sat Unanswered in the Tip Inbox
 
-Claim Timestamp: 01:04:16
+Claim Timestamp: 01:05:05
 
-Claim: In the interview, Mitch says there were literally 51,000 unanswered emails in the host's tip inbox where he sent his tip.
+Claim: The host tells Mitch there were literally 51,000 unanswered emails in that tip inbox.
 
 Transcript Snippet: there were literally 51,000 emails unanswered in that box.
 

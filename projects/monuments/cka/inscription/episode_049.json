@@ -438,7 +438,7 @@
       "@type": "Person",
       "@id": "N-320",
       "ref": "N-320",
-      "name": "Captain Adam Nef",
+      "name": "Captain Adam Neff",
       "type": "person",
       "description": "U.S. Army captain named by witness \"Mitch\" as the officer who escorted him out of the JTF building and sat with him on a park bench at Fort Huachuca on September 9, 2025.",
       "related_artifacts": [
@@ -1199,7 +1199,7 @@
       "@id": "C-1970",
       "ref": "C-1970",
       "label": "\"Mitch\" Subject to ~35-Year Gag Order Related to 1990 JTF6 Drug Tunnel Discovery",
-      "claim": "Witness \"Mitch\" states he was subject to a non-disclosure / gag order of approximately 25–35 years following his involvement in a 1990 JTF6 (10th Mountain Division) mission that located a major cross-border drug tunnel between Douglas, Arizona and Mexico.",
+      "claim": "The host says, and guest witness \"Mitch\" agrees, that he was gagged by a non-disclosure order for 35 years (she first says 25, then corrects herself) after a JTF6 mission, assigned from 10th Mountain, in which he located a major cross-border drug tunnel in the Douglas, Arizona area.",
       "anchored_artifacts": [
         "A-1558.3"
       ],
@@ -1216,7 +1216,7 @@
       "@id": "C-1971",
       "ref": "C-1971",
       "label": "\"Mitch\" Physically Present at Fort Huachuca on September 8–9, 2025",
-      "claim": "Witness \"Mitch\" was physically present at Fort Huachuca on the evening of September 8, 2025 (Candlewood Inn & Suites) and the morning of September 9, 2025 (JTF command building), as verified by host via EXIF metadata from an 18-minute self-recorded video and matching military ID credentials.",
+      "claim": "The host says she confirmed with metadata that witness \"Mitch\" was physically present at Fort Huachuca on the evening of September 8, 2025 (Candlewood Inn & Suites) and the morning of September 9, 2025 (JTF command building), citing the photos and an 18-minute video he recorded on base and the military ID cards he sent her.",
       "anchored_artifacts": [
         "A-1558.1",
         "A-1558.2",
@@ -1237,7 +1237,7 @@
       "@id": "C-1972",
       "ref": "C-1972",
       "label": "\"Mitch\" Says He Observed Meeting at JTF Building on September 9, 2025 Involving Congressman-Type Figure and Military Officers",
-      "claim": "Guest witness \"Mitch\" says that while at the JTF command building on the morning of September 9, 2025, he observed a group including a man in a congressman-style suit with flag pin, accompanied by lieutenant colonels, a sergeant major, and civilians, escorted by military personnel, and that he was subsequently surrounded by multiple federal and local law enforcement officers at a park bench outside.",
+      "claim": "Guest witness \"Mitch\" says that while at the JTF command building on the morning of September 9, 2025, he observed a group including a man in a congressman-style suit with flag pin, accompanied by lieutenant colonels, a sergeant major, and civilians, escorted by military personnel, and that he was subsequently surrounded by police officers from different levels of government at a park bench outside.",
       "anchored_artifacts": [
         "A-1558.3"
       ],
@@ -2212,7 +2212,7 @@
       "@id": "C-5314",
       "ref": "C-5314",
       "label": "Mitch says the government believed 60 to 80 percent of cocaine came through Douglas, Arizona",
-      "claim": "Mitch says there was long-standing suspicion that the federal government knew 60 to 80 percent of the cocaine was coming through the Douglas, Arizona area, which is why the task force was called JTF6.",
+      "claim": "Mitch says there was a lot of suspicion that the federal government knew 60 to 80 percent of the cocaine was coming through the Douglas, Arizona area, which is why the task force was called JTF6.",
       "anchored_artifacts": [
         "A-1558.3"
       ],
@@ -2461,7 +2461,7 @@
       "@id": "C-5326",
       "ref": "C-5326",
       "label": "Mitch says 10th Mountain personnel at a coffee shop told him they were there for JTF",
-      "claim": "Mitch says he ran into 10th Mountain personnel at a coffee shop on the base who said they were there for JTF, and that he bought them coffee.",
+      "claim": "Mitch says he ran into 10th Mountain personnel at a coffee shop on the base who said they were there for JTF, and that he thinks he bought them coffee.",
       "anchored_artifacts": [
         "A-1558.3"
       ],
@@ -2836,12 +2836,12 @@
       "@type": "Claim",
       "@id": "C-5344",
       "ref": "C-5344",
-      "label": "A speaker says 51,000 emails sat unanswered in the tip inbox",
-      "claim": "In the interview, Mitch says there were literally 51,000 unanswered emails in the host's tip inbox where he sent his tip.",
+      "label": "Host Says 51,000 Emails Sat Unanswered in the Tip Inbox",
+      "claim": "The host tells Mitch there were literally 51,000 unanswered emails in that tip inbox.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "01:04:16",
+      "claim_timestamp": "01:05:05",
       "investigative_direction": "Ask the host about the size of the tip inbox backlog.",
       "transcript_snippet": "there were literally 51,000 emails unanswered in that box.",
       "mentions_person_refs": [

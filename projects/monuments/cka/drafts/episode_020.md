@@ -365,7 +365,7 @@ Contents (played on air): Webb states Rob McCoy "does have this strange military
 
 **A-1280** Brigitte Macron Tax Form Reporting Bundle
 
-**A-1280.1** Reporting on French tax records listing Brigitte Macron as "Jean Michelle"
+**A-1280.1** Reporting on French tax records listing Brigitte Macron as "Jean-Michel"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -373,7 +373,7 @@ Video Timestamp: 00:57:30–00:59:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-Contents (read on air): Reports that French tax forms list Brigitte Macron under "Jean Michelle" as male, citing Mr. Bromet (described as a government official) and a staffer who has worked with the Macrons since 2017. Host also references prior "Becoming Brigitte" series.
+Contents (read on air): Reports that French tax forms list Brigitte Macron under "Jean-Michel" as male, citing Mr. Bromet (described as a government official) and a staffer who has worked with the Macrons since 2017. Host also references prior "Becoming Brigitte" series.
 
 *Related: C-1507, C-1508, N-82*
 
@@ -638,7 +638,7 @@ Investigative Pressure: Medium
 
 **N-82** Brigitte Macron
 
-Spouse of Emmanuel Macron (transcribed by host as "Brigitte Macron"); subject of French tax-form reporting cited as showing "Jean Michelle" male registration.
+Spouse of Emmanuel Macron (transcribed by host as "Brigitte Macron"); subject of French tax-form reporting cited as showing "Jean-Michel" male registration.
 
 Evidence Count: 1
 Claim Count: 2
@@ -1071,9 +1071,9 @@ Hospital Routing Discrepancy; ambulance, trauma level and missing footage.
 
 ---
 
-**N-10183** Medical Examiner Inquiry – Weiss Amaro
+**N-10183** Medical Examiner Inquiry – Deirdre Amaro
 
-Medical Examiner Inquiry – Weiss Amaro; new host statements.
+Medical Examiner Inquiry – Deirdre Amaro; new host statements.
 
 *Related: C-12204, C-12205*
 
@@ -1329,12 +1329,12 @@ Investigative Direction: Obtain independent verification of the text exchange an
 
 **C-1493** Charlie and Candace reacted with shock to Kanye's April 21, 2018 tweet
 
-Claim Timestamp: 00:06:20
+Claim Timestamp: 00:07:31
 
-Claim: The April 21, 2018 morning text exchange shows Candace "shaking" and Charlie writing "I am freaking the f out."
+Claim: Per the April 21, 2018 morning text exchange the host shows, Candace wrote "Please pick up" (she says she was shaking) and Charlie wrote "I am freaking the f out."
 
 Anchored Artifacts: A-1270.3
-Mentions: N-1, N-27
+Mentions: N-1, N-3
 
 Investigative Direction: Obtain independent verification of the text exchange and timestamps.
 
@@ -1344,7 +1344,7 @@ Investigative Direction: Obtain independent verification of the text exchange an
 
 Claim Timestamp: 00:04:50
 
-Claim: Mike Cernovich posted a series of tweets around April 16, 2018 stating that high-consciousness people were reporting a paradigm-level energy shift that began two-to-three weeks earlier.
+Claim: Per the Mike Cernovich tweets the host shows, which she says he posted around April 16, 2018 and has since deleted, Cernovich wrote that high-consciousness people were reporting a paradigm-level energy shift that began two-to-three weeks earlier.
 
 Anchored Artifacts: A-1271.1
 Mentions: N-190
@@ -1485,11 +1485,11 @@ Investigative Direction: Obtain independent verification from UVU medical staff 
 
 ---
 
-**C-1505** Rob McCoy has a U.S. Navy background traceable to his father Roy Edgar McCoy
+**C-1505** Host Says Rob McCoy's Father Roy Edgar McCoy Was a Navy Psychological Warfare Officer
 
 Claim Timestamp: 00:23:30–00:24:30
 
-Claim: George Webb states on air that Rob McCoy has a "strange military background" and was guiding Charlie toward a NAR-aligned apostolic movement; host asserts Rob McCoy's father Roy Edgar McCoy was a naval captain and assistant chief of staff for psychological warfare in the Navy.
+Claim: In a clip the host plays, George Webb says Rob McCoy has a "strange military background" and was guiding Charlie toward a NAR-aligned apostolic movement; the host says Rob McCoy's father Roy Edgar McCoy was a naval captain and assistant chief of staff for psychological warfare in the Navy.
 
 Anchored Artifacts: A-1279.1, A-1282.1
 Mentions: N-1, N-17, N-197, N-199
@@ -1513,11 +1513,11 @@ Investigative Direction: Obtain independent verification of Ziklag's donor list 
 
 ---
 
-**C-1507** Brigitte Macron is registered on French tax forms as "Jean Michelle" male
+**C-1507** Brigitte Macron is registered on French tax forms as "Jean-Michel" male
 
 Claim Timestamp: 00:57:00
 
-Claim: The host says Brigitte Macron is listed on French tax forms as Jean Michelle and as male, and cites a government official, Mr. Bromet, who recounted that she was stunned to learn her legal name had been changed when she logged into her personal tax account.
+Claim: The host says Brigitte Macron is listed on French tax forms as Jean-Michel and as male, and cites a government official, Mr. Bromet, who recounted that she was stunned to learn her legal name had been changed when she logged into her personal tax account.
 
 Anchored Artifacts: A-1280.1
 Mentions: N-82
@@ -1530,7 +1530,7 @@ Investigative Direction: Obtain the original French reporting, the Bromet statem
 
 Claim Timestamp: 00:57:30–00:59:30
 
-Claim: Host rejects the public suggestion that the "Jean Michelle" entry was the product of a hacker, arguing the risk/reward of hacking a sitting president's records solely to change a name entry is implausible.
+Claim: Host rejects the public suggestion that the "Jean-Michel" entry was the product of a hacker, arguing the risk/reward of hacking a sitting president's records solely to change a name entry is implausible.
 
 Anchored Artifacts: A-1280.1
 Mentions: N-82
@@ -2430,7 +2430,7 @@ Claim: The host says she thinks we can all acknowledge that the public was lied 
 Transcript Snippet: we were lied to about the 306, right?
 
 Anchored Artifacts: 
-Mentions: N-3, N-1
+Mentions: N-3
 Related Nodes: N-10660
 Tags: relevance:core
 Investigative Direction: Ask the host to specify which statement about the rifle or bullet she considers false and compare with official records.
@@ -2520,7 +2520,7 @@ Investigative Direction: Check Air Force or Reserve records and FAA airman regis
 
 Claim Timestamp: 00:29:48
 
-Claim: The host says that in a dream Charlie told her she should look into the medical examiner, Dr. Weiss Amaro.
+Claim: The host says that in a dream Charlie told her she should look into the medical examiner, Dr. Deirdre Amaro.
 
 Transcript Snippet: in my dream Charlie told me I should look&nbsp; into.
 
@@ -2583,7 +2583,7 @@ Investigative Direction: This is a historical assertion with no evidence offered
 
 Claim Timestamp: 00:31:09
 
-Claim: The host says she thinks some military-type actors, as the transcript has it, were present when Charlie was shot.
+Claim: The host says she thinks some military-grade actors were present when Charlie was shot.
 
 Transcript Snippet: some of which I think were there when Charlie&nbsp; got shot.
 

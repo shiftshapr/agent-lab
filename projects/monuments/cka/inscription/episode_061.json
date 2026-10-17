@@ -949,7 +949,7 @@
       "@type": "Person",
       "@id": "N-218",
       "ref": "N-218",
-      "name": "Eliza McCoy",
+      "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Eliza McCoy (transcribed Elizabeth McCoy); the host speculates about her rising role at TPUSA.",
       "related_artifacts": [],
@@ -1437,7 +1437,7 @@
       "@id": "C-2158",
       "ref": "C-2158",
       "label": "TPUSA cease and desist letter sent approximately January 19–20, 2026",
-      "claim": "Turning Point USA, through counsel, sent a cease and desist letter to Candace Owens approximately January 19–20, 2026.",
+      "claim": "The host says she received a cease and desist letter from Turning Point USA, her first legal letter of 2026, when it was 20 days into January.",
       "anchored_artifacts": [
         "A-1661.1"
       ],
@@ -1445,7 +1445,7 @@
         "N-10432"
       ],
       "tags": [],
-      "claim_timestamp": "00:01:13",
+      "claim_timestamp": "00:00:05",
       "investigative_direction": "Obtain a certified copy of the letter with counsel's signature block and service date to verify the precise transmission date.",
       "mentions_person_refs": [
         "N-3"
@@ -1613,7 +1613,7 @@
       "@id": "C-2167",
       "ref": "C-2167",
       "label": "Candace Owens concurs with Tim Dillon's money-motive assessment",
-      "claim": "Owens adopts Tim Dylon's assessment that TPUSA's principal concern is money/revenue, citing the cease and desist as confirmation.",
+      "claim": "Owens adopts Tim Dillon's assessment that TPUSA's principal concern is money/revenue, citing the cease and desist as confirmation.",
       "anchored_artifacts": [
         "A-1661.1",
         "A-1662.1"

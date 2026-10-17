@@ -447,7 +447,7 @@ Investigative Pressure: High
 
 **N-10205** N888KG Flight Manifest Verification
 
-Persistent investigative target regarding the actual passenger manifest of plane N888KG during its 9/10/2025 movements, including the contested FBO routing (Millionaire FBO vs. alternative), the alleged federal instruction for airport personnel to lie, and the discrepancy between the Maxfield statement and any independent flight records.
+Persistent investigative target regarding the actual passenger manifest of plane N888KG during its 9/10/2025 movements, including the contested FBO routing (Million Air FBO vs. alternative), the alleged federal instruction for airport personnel to lie, and the discrepancy between the Maxfield statement and any independent flight records.
 
 Evidence Count: 1
 Claim Count: 3
@@ -589,7 +589,7 @@ Existing item reused for new claims in this episode.
 
 ---
 
-**N-10190** Signature FBO / Millionaire FBO (entity cluster)
+**N-10190** Signature FBO / Million Air FBO (entity cluster)
 
 Existing item reused for new claims in this episode.
 
@@ -865,7 +865,7 @@ Investigative Direction: Corroborate the timing of the second dip against the pu
 Claim Timestamp: 00:05:46
 Claim: The host says plane N888KG, which she describes as the Baugh-Maxfield plane, departed Provo Airport at 1:20 p.m. Mountain time on September 10, 2025.
 Anchored Artifacts: A-1291.1
-Mentions: N-94
+Mentions: N-94, N-838
 Related Nodes: N-10205
 Investigative Direction: Cross-check against FAA departure logs and Provo Airport (PVU) records.
 
@@ -874,7 +874,7 @@ Investigative Direction: Cross-check against FAA departure logs and Provo Airpor
 Claim Timestamp: 00:07:26
 Claim: Derek Maxfield publicly stated that the N888KG plane departed Provo on 9/10 at 1:20 p.m. Mountain time with two pilots and no passengers, flew to Page, Arizona (PGA), where Derek Maxfield plus seven additional passengers boarded for the return trip to Provo.
 Anchored Artifacts: A-1291.1
-Mentions: N-94, N-201
+Mentions: N-94
 Related Nodes: N-10205
 Investigative Direction: Verify pilot identities and PGA passenger manifest through FAA and PGA airport records; obtain airport surveillance footage of boarding.
 
@@ -1102,7 +1102,7 @@ Claim: The host says the Baugh-Maxfield plane drew attention because it seemingl
 Transcript Snippet: they seemingly turned their transponder off. That alarmed the public.
 
 Anchored Artifacts: 
-Mentions: N-94, N-201, N-3
+Mentions: N-94, N-201, N-838, N-3
 Related Nodes: N-10205, N-10549
 Supports: C-1529
 Tags: relevance:core
@@ -1159,13 +1159,13 @@ Investigative Direction: Identification of the pilots and airport staff, and any
 
 ---
 
-**C-9408** Host cites a source saying a plane shifted from Millionaire FBO to another FBO
+**C-9408** Host cites a source saying a plane shifted from Million Air FBO to another FBO
 
 Claim Timestamp: 00:10:26
 
-Claim: The host says one person told her a plane was supposed to land at Millionaire FBO but suddenly shifted to another FBO.
+Claim: The host says one person told her a plane was supposed to land at Million Air FBO but suddenly shifted to another FBO.
 
-Transcript Snippet: there was one person who said they were supposed to land at Millionaire FBO, but then suddenly they shifted to another FBO
+Transcript Snippet: there was one person who said they were supposed to land at Million Air FBO, but then suddenly they shifted to another FBO
 
 Anchored Artifacts: 
 Mentions: N-3
@@ -1260,7 +1260,7 @@ Investigative Direction: Verification of the tipster's identity and relationship
 
 **C-9414** Host states as fact that the 9/4 stop was not routine servicing
 
-Claim Timestamp: 00:15:53
+Claim Timestamp: 00:15:19
 
 Claim: The host says she is telling viewers as a fact that the Egyptian plane's September 4 stop in Utah was not routine servicing, as "they" claimed, and that it carried military subcontractors who were dropped off in Provo.
 
@@ -1279,7 +1279,7 @@ Investigative Direction: Passenger and crew manifests and customs records for SU
 
 Claim Timestamp: 00:16:59
 
-Claim: The host says she demands that Kash Patel dispute her account, and that the aircraft was not in Utah for any routine servicing.
+Claim: The host says she almost demands that Kash Patel dispute her account, and that the aircraft was not in Utah for any routine servicing.
 
 Transcript Snippet: That aircraft was not in Utah for any routine servicing, okay?
 
@@ -1955,7 +1955,7 @@ Confidence: high
 
 - **Timestamp uncertainty:** Exact publication dates for A-1293.1 (Hammer Daily Mail op-ed), A-1294.1 (Stop Anti-Semitism tweet), A-1295.1/A-1295.2/A-1295.3 (Piers Morgan interview), A-1297.1 (Daily Mail headline), and A-1300.1 (Hammer audio clip) are inferred as approximately 2025-10-29 ("yesterday" relative to the 2025-10-30 upload) but not independently confirmed.
 
-- **Claim failed admission test:** Host allegations not inscribed include: (a) "feds were guarding this just like they were guarding the Dairy Queen"; (b) "airport personnel had been instructed to lie"; (c) "there was one person who said they were supposed to land at Millionaire FBO, but then suddenly they shifted to another FBO"; (d) Casey Baugh's UVU Baugh Entrepreneurship Institute and plane co-ownership (no displayed artifact); (e) the Maxfields running "a human sex trafficking charity." These remain in the record as host allegations pending artifact support in future episodes.
+- **Claim failed admission test:** Host allegations not inscribed include: (a) "feds were guarding this just like they were guarding the Dairy Queen"; (b) "airport personnel had been instructed to lie"; (c) "there was one person who said they were supposed to land at Million Air FBO, but then suddenly they shifted to another FBO"; (d) Casey Baugh's UVU Baugh Entrepreneurship Institute and plane co-ownership (no displayed artifact); (e) the Maxfields running "a human sex trafficking charity." These remain in the record as host allegations pending artifact support in future episodes.
 
 - **Transcript ambiguity:** A-1295.1, A-1295.2, and A-1295.3 are described as audio clips played on air but specific source URL/program is not stated. The "Candace micro-series" framing in the segment introducing A-1296.1 ("another episode of our new smash hit HBO series, micro-series") is unclear in provenance.
 

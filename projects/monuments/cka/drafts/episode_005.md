@@ -27,7 +27,7 @@
 
 ## 2. Executive Summary
 
-CKA seq 5 advances the Candace Kirk Archive investigation around Tyler Robinson, presenting a purported 6:38 p.m. Dairy Queen photo, the doorbell-cam footage released via TMZ, witness statements from Sherry Steel (BBC) and the Steel family children (Good Morning America), Netanyahu's second denial video, the PBD Eric Bolling clip, Bill Ackman's text messages, the pre-event Amazon book, and a Utah artist's 'Charlie Kirk Dead at 31' song. The episode juxtaposes official-fed timeline claims against host-asserted inconsistencies and pushes the local 'vacant house / decoy' theory. Netanyahu's statement is read in full and reframed as Jewish/Christian identity politics. No new physical evidence is shown for the text-message wording claims.
+CKA seq 5 advances the Candace Kirk Archive investigation around Tyler Robinson, presenting a purported 6:38 p.m. Dairy Queen photo, the doorbell-cam footage released via TMZ, witness statements from Sherri Steele (BBC) and the Steel family children (Good Morning America), Netanyahu's second denial video, the PBD Eric Bolling clip, Bill Ackman's text messages, the pre-event Amazon book, and a Utah artist's 'Charlie Kirk Dead at 31' song. The episode juxtaposes official-fed timeline claims against host-asserted inconsistencies and pushes the local 'vacant house / decoy' theory. Netanyahu's statement is read in full and reframed as Jewish/Christian identity politics. No new physical evidence is shown for the text-message wording claims.
 
 ## 3. Artifact Register
 
@@ -51,22 +51,22 @@ Video Timestamp: 00:10:40–00:16:40
 Transcript Snippet: doorbell cam footage… mysteriously made its way to TMZ the morning after Charlie's assassination.
 Confidence: high
 
-**A-1112.2** Local-news clip in which Irwin Steel is interviewed in his front yard the morning after the shooting, confirming he shared camera footage with authorities.
+**A-1112.2** Local-news clip in which Erwin Steele is interviewed in his front yard the morning after the shooting, confirming he shared camera footage with authorities.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:13:32–00:14:43
 *Related: C-1189, C-1198, N-73, N-10052*
-Transcript Snippet: Irwin Steel was another neighbor who was met with officers in his front yard… helping authorities by giving them any footage.
+Transcript Snippet: Erwin Steele was another neighbor who was met with officers in his front yard… helping authorities by giving them any footage.
 Confidence: high
 
 ---
 
-**A-1113** BBC Article – Sherry Steel Bundle
+**A-1113** BBC Article – Sherri Steele Bundle
 
-**A-1113.1** BBC news article in which Sherry Steel describes a large police presence outside Tyler Robinson's townhouse while she walked her dog in the evening.
+**A-1113.1** BBC news article in which Sherri Steele describes a large police presence outside Tyler Robinson's townhouse while she walked her dog in the evening.
 Event Timestamp: 2025-09-10 (evening)
 Video Timestamp: 00:17:19–00:17:59
 *Related: C-1190, C-1199, N-74, N-40, N-54, N-10050, N-10058*
-Transcript Snippet: Sherry Steel, who lives across the street… came back from an evening walk to see a large police presence.
+Transcript Snippet: Sherri Steele, who lives across the street… came back from an evening walk to see a large police presence.
 Confidence: high
 
 ---
@@ -269,7 +269,7 @@ PBD Podcast guest who claimed Owens has not been at TPUSA events for years and d
 
 ---
 
-**N-73** Irwin Steel
+**N-73** Erwin Steele
 
 Node Type: Person
 Local resident interviewed the morning after the shooting; said he shared camera footage with authorities.
@@ -278,7 +278,7 @@ Local resident interviewed the morning after the shooting; said he shared camera
 
 ---
 
-**N-74** Sherry Steel
+**N-74** Sherri Steele
 
 Node Type: Person
 Witness quoted by BBC re police presence at Robinson townhouse; host reports she is unverifiable in building databases.
@@ -416,7 +416,7 @@ Host asserts text-message phrasing ('squad car', 'outfit', 'Prince') is inconsis
 
 Node Type: Topic
 Topic Kind: verification_thread
-Multiple Steele/Steel residents appearing across artifacts (doorbell-cam house, BBC witness, GMA family); host cannot reconcile Sherry Steel against databases.
+Multiple Steele/Steel residents appearing across artifacts (doorbell-cam house, BBC witness, GMA family); host cannot reconcile Sherri Steele against databases.
 
 *Related: A-1112.1, A-1113.1, A-1114.1, C-1189, C-1190, C-1199, C-1191, C-1203*
 
@@ -516,7 +516,7 @@ First outlet to publish the doorbell-camera footage on September 10; provenance 
 
 Node Type: Organization
 Organization Kind: media_outlet
-Published Sherry Steel witness account and withheld a video she provided.
+Published Sherri Steele witness account and withheld a video she provided.
 
 *Related: A-1113.1, C-1190*
 
@@ -922,16 +922,16 @@ Investigative Direction: Verify TMZ publication timestamp; trace the footage upl
 
 ---
 
-**C-1190** Per BBC Article, Sherry Steel Reported Police Presence
+**C-1190** Per BBC Article, Sherri Steele Reported Police Presence
 
 Claim Timestamp: 00:17:19
-Claim: Per the BBC article the host reads, Sherry Steel, who lives across the street from the residence, came back from an evening walk to see a large police presence, and a loud voice shouting 'Freeze!' and helicopters were above her house.
-Transcript Snippet: Sherry Steel, who lives across the street… came back from an evening walk to see a large police presence.
+Claim: Per the BBC article the host reads, Sherri Steele, who lives across the street from the residence, came back from an evening walk to see a large police presence, and a loud voice shouting 'Freeze!' and helicopters were above her house.
+Transcript Snippet: Sherri Steele, who lives across the street… came back from an evening walk to see a large police presence.
 Anchored Artifacts: A-1113.1
 Mentions: N-40, N-74
 Related Nodes: N-10058
 Confidence: high
-Investigative Direction: Confirm Sherry Steel exists in property / building databases; obtain her withheld video from BBC.
+Investigative Direction: Confirm Sherri Steele exists in property / building databases; obtain her withheld video from BBC.
 
 ---
 
@@ -1022,7 +1022,7 @@ Investigative Direction: Retrieve Amazon listing history via Wayback Machine and
 Tags: calls_for_tips, submissions_to_candace
 ---
 
-**C-1196** Utah artist released 'Charlie Kirk Dead at 31' song early
+**C-1196** Host Mentions Utah Artist's 'Charlie Kirk Dead at 31' Song
 
 Claim Timestamp: 00:56:17
 Claim: The host says some artist from Utah posted a song called something like 'Charlie Kirk Dead at 31', and that right when people started saying this guy looks like the person in the photo, the feds said they had Tyler Robinson.
@@ -1038,7 +1038,7 @@ Investigative Direction: Recover the original upload via Wayback / platform arch
 **C-1197** Local claim: gun found near chicken coop, not 'woods'
 
 Claim Timestamp: 00:24:56
-Claim: A local source told the host that the rifle was found in the backyard of someone she knows, by a chicken coop, and that although you could describe it as a wooded area, it is pretty suburban, whereas the public has just been told 'in the woods'.
+Claim: The host says a local source told her that the rifle was found in the backyard of someone the source knows, by a chicken coop, and that although you could describe it as a wooded area, it is pretty suburban, whereas the public has just been told 'in the woods'.
 Transcript Snippet: the gun was found in the backyard of someone that I know… it was found by a chicken coop.
 Anchored Artifacts: 
 Mentions: N-40
@@ -1062,10 +1062,10 @@ Investigative Direction: Pull county property records for the parcel; confirm UV
 
 ---
 
-**C-1199** Host Says She Cannot Find Sherry Steel in the Building Complex
+**C-1199** Host Says She Cannot Find Sherri Steele in the Building Complex
 
 Claim Timestamp: 00:19:02
-Claim: The host says her team looked through databases for a 'Sherry Steel' at the building complex and contacted a family to see if they knew the name, and that she cannot find such a woman living there or the footage the BBC mentions.
+Claim: The host says her team looked through databases for a 'Sherri Steele' at the building complex and contacted a family to see if they knew the name, and that she cannot find such a woman living there or the footage the BBC mentions.
 Transcript Snippet: I cannot find a woman named Sher Steel that lives in that building complex.
 Anchored Artifacts: 
 Mentions: N-74
@@ -1118,7 +1118,7 @@ Investigative Direction: FOIA requests to federal agencies; canvass Orem residen
 **C-1203** Host Says Steele Family Owns the Doorbell-Camera House
 
 Claim Timestamp: 00:14:59
-Claim: The host says her team found that Samuel Steele and his wife Carrie own the house that gave the footage that appeared on TMZ, not Irwin Steel, though Irwin says he lives in that house.
+Claim: The host says her team found that Samuel Steele and his wife Carrie own the house that gave the footage that appeared on TMZ, not Erwin Steele, though Erwin says he lives in that house.
 Transcript Snippet: he Samuel and his wife Carrie are the ones that own the house that gave the footage, not Irwin.
 Anchored Artifacts: 
 Mentions: N-73, N-78, N-79
@@ -1131,7 +1131,7 @@ Investigative Direction: Pull county recorder data for the parcel to confirm own
 **C-1204** Bolling Described 'Quiet Breakup' Between Kirk and Owens
 
 Claim Timestamp: 00:39:34
-Claim: Eric Bolling on PBD Podcast stated that Candace Owens would have been 'the logical heir to the TPUSA throne' absent a 'very quiet breakup where she got too rabbit hole for him'.
+Claim: In a PBD Podcast clip the host plays, Eric Bolling says Candace Owens and Charlie Kirk had 'a very quiet breakup where she got too rabbit hole for him', and a speaker on the panel says she would otherwise be 'the logical heir to the TPUSA throne'.
 Transcript Snippet: a very quiet breakup where she got too rabbit hole for him.
 Anchored Artifacts: A-1116.1
 Mentions: N-1, N-3, N-72
@@ -1446,7 +1446,7 @@ Investigative Direction: Locate the camera position and mounting height at the h
 
 Claim Timestamp: 00:14:33
 
-Claim: The host says the Irwin Steel clip is from the morning after the shooting and TMZ had already publicized the footage, which she says means either the feds collected it the night before and gave it to TMZ, or Steel gave it to TMZ before the feds.
+Claim: The host says the Erwin Steele clip is from the morning after the shooting and TMZ had already publicized the footage, which she says means either the feds collected it the night before and gave it to TMZ, or Steele gave it to TMZ before the feds.
 
 Transcript Snippet: So TMZ had already publicized that footage and so that strikes me as a little odd.
 
@@ -1458,11 +1458,11 @@ Investigative Direction: Establish the TMZ upload time against the Steel intervi
 
 ---
 
-**C-11933** Host Says Irwin Steel Claims to Live in a House Owned by Others, Where Other Steels Live
+**C-11933** Host Says Erwin Steele Claims to Live in a House Owned by Others, Where Other Steeles Live
 
 Claim Timestamp: 00:15:05
 
-Claim: The host says Irwin Steel says he lives in the house that gave the footage, but she found other Steels living there.
+Claim: The host says Erwin Steele says he lives in the house that gave the footage, but she found other Steeles living there.
 
 Transcript Snippet: But Irwin is saying that he lives in that house, but actually we found some other steels that live in that house.
 
@@ -1478,7 +1478,7 @@ Investigative Direction: Check county voter and property records for the occupan
 
 Claim Timestamp: 00:15:41
 
-Claim: The host says the Steele family works for an engineering company she spells Calira or Caldera Engineering, which she says ostensibly manufactures valves.
+Claim: The host says the Steele family works for an engineering company she names as Caldera Engineering (later transcribed Calira), which she says ostensibly manufactures valves.
 
 Transcript Snippet: a place that makes uh called Caldera Engineering. It's a company called Caldera Engineering and ostensibly they manufacture valves.
 
@@ -1510,7 +1510,7 @@ Investigative Direction: Compare residents on the block against company employee
 
 Claim Timestamp: 00:16:54
 
-Claim: The host says the BBC witness Sherry Steel (spelled Sheri Steele in the transcript), who shares the Steel surname, witnessed the police swarm at the townhouse of Tyler Robinson and Lance four hours away from the Orem cluster.
+Claim: The host says the BBC witness Sherri Steele (spelled Sheri Steele in the transcript), who shares the Steel surname, witnessed the police swarm at the townhouse of Tyler Robinson and Lance four hours away from the Orem cluster.
 
 Transcript Snippet: but this one witnessed something four hours away.
 
@@ -1522,11 +1522,11 @@ Investigative Direction: Locate the townhouse in the BBC article and measure the
 
 ---
 
-**C-11937** Host Says BBC Has Not Published Sherry Steel's Video of Police Shouting Freeze
+**C-11937** Host Says BBC Has Not Published Sherri Steele's Video of Police Shouting Freeze
 
 Claim Timestamp: 00:17:25
 
-Claim: The host says Sherry Steel showed the BBC a video in which a loud voice she said belonged to the authorities shouts "Freeze!" and "come out now", and that the BBC is not publishing it.
+Claim: Per the BBC article the host reads, Sherri Steele showed the BBC a video in which a loud voice she said belonged to the authorities can be heard shouting "Freeze!" and "come out now"; the host says the BBC is not publishing the video.
 
 Transcript Snippet: for some reason, the BBC is not publishing this video, a loud voice, which she said belongs to the authorities,
 
@@ -1622,7 +1622,7 @@ Investigative Direction: Ask the host's team whether the family replied and, if 
 
 Claim Timestamp: 00:26:34
 
-Claim: The host relays a local theory that Tyler Robinson and Lance got mixed up in illicit internet material and were blackmailed or threatened into leaving the weapon, with a different person as the real shooter; she says it is not her theory.
+Claim: The host relays a local theory that Tyler Robinson and Lance could have gotten mixed up in some deep internet stuff and were maybe blackmailed or threatened into leaving the weapon, with a different person as the real shooter; she says it is not her theory.
 
 Transcript Snippet: Is that Tyler and Lance could have gotten mixed up in some deep internet stuff,
 
@@ -1979,7 +1979,7 @@ Investigative Direction: Check whether Ackman or his office has replied to the o
 
 Claim Timestamp: 00:38:06
 
-Claim: The host says that she never said Israel blackmailed Kirk, in response to Ackman's shared texts which she says put Israel in parentheses after blackmail.
+Claim: The host says that she never said Israel blackmailed Kirk, after noting that Ackman shared text messages with Kirk to dispel claims in which 'blackmail' appears in parentheses where Israel is put.
 
 Transcript Snippet: I never said Israel blackmailed him. I never said that.
 
@@ -2224,12 +2224,12 @@ Investigative Direction: Obtain messages or witnesses from Kirk's circle from th
 
 Claim Timestamp: 00:42:28
 
-Claim: The host says a man she names as a Schulman guy (transcribed) said he wanted his name off the building at Turning Point.
+Claim: The host says a man she calls "a Shillman guy" (Robert Shillman) said he wanted his name off the building at Turning Point, and that in the 48 hours leading up to Charlie's assassination they were squeezing him over whom he was allowed to speak to.
 
 Transcript Snippet: "I want my name off of the building at Turning Point." In the 48 hours leading up to his assassination,
 
 Anchored Artifacts: 
-Mentions: 
+Mentions: N-1
 Related Nodes: N-10036, N-10000
 Supports: C-1174
 Tags: relevance:core
@@ -2427,7 +2427,7 @@ Transcript Snippet: The dad MAGA. He's been more MAGA than ever. Some one of the
 
 Anchored Artifacts: 
 Mentions: N-3
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Public political donations and posts, if any, would be the only relevant record; no private details are needed.
 
 ---
@@ -2436,7 +2436,7 @@ Investigative Direction: Public political donations and posts, if any, would be 
 
 Claim Timestamp: 00:47:49
 
-Claim: The host says more MAGA people are saying that Trump has given up on free speech and that his administration seems to be controlled by Netanyahu.
+Claim: The host says more MAGA people are saying it seems like Trump has kind of given up on free speech and that his administration seems to be controlled by Netanyahu.
 
 Transcript Snippet: More MAGA people are going like it seems like Trump has kind of given up on free speech and his administration uh seems to be controlled by BB Netanyahu.
 

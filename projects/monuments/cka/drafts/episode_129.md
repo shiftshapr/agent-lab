@@ -589,7 +589,7 @@ Jesse Watters; the host believes Erika told him she knew.
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Elizabeth McCoy, Mikey McCoy's wife, whom the host says he called first.
 

@@ -460,7 +460,7 @@ Tags: open_source_investigation
 **C-1116** Charlie's relationship with Kanye included gift of Yeezys
 
 Claim Timestamp: 00:11:28
-Claim: Charlie Kirk was gifted a pair of Yeezys by Kanye West and was photographed wearing them, per a photo shown in the episode.
+Claim: The host says Kanye West gave Charlie Kirk a pair of Yeezys and shows a photo of Charlie wearing them.
 Transcript Snippet: He was wearing a pair of Yeezys that Kanye gave him and he looked really cool.
 Anchored Artifacts: A-1078.1
 Mentions: N-1, N-27
@@ -525,10 +525,10 @@ Investigative Direction: Identify the restaurant and date via news reports of th
 
 ---
 
-**C-1119** Charlie approved of George after one evening in the UK
+**C-1119** Charlie Approved of George After One Evening
 
 Claim Timestamp: 00:17:28
-Claim: After a single evening with Candace's then-boyfriend George, Charlie Kirk texted that George and Candace were 'meant for each other,' per a shown text chain.
+Claim: After a single evening with George, Charlie Kirk texted that George and Candace were 'meant for each other,' per a shown text chain.
 Transcript Snippet: His heart is wonderful. You guys are meant for each other. I see it brilliantly and clearly.
 Anchored Artifacts: A-1079.2
 Mentions: N-1, N-3, N-30
@@ -554,7 +554,7 @@ Investigative Direction: Confirm the text chain timing predates the Kirk/Frantzv
 **C-1121** Host Says Kanye's Power Was the TPUSA Tour Hype Song
 
 Claim Timestamp: 00:09:59
-Claim: The host says Kanye West's 'Power' became the de facto theme/hype song for the Turning Point USA tour, played before stage events and during pre-event prep.
+Claim: The host says Kanye West's 'Power' became the de facto theme/hype song for the Turning Point USA tour, played before they went on stage.
 Transcript Snippet: Kanye's Power kind of became our theme song for the tour.
 Anchored Artifacts: A-1077.1, A-1080.1
 Mentions: N-1, N-3, N-27
@@ -582,7 +582,7 @@ Tags: open_source_investigation
 **C-3719** Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate
 
 Claim Timestamp: 00:08:10
-Claim: The host recounts that Don Jr. and Eric Trump teased Charlie Kirk about his ill-fitting suits and eventually gave him a gift certificate, she believes for his birthday, to a fancy suit place to get fitted.
+Claim: The host recounts that Don Jr., and she thinks Eric Trump, teased Charlie Kirk about his ill-fitting suits and eventually gave him a gift certificate, she believes for his birthday, to a fancy suit place to get fitted.
 Transcript Snippet: Don and Eric got him a gift certificate. I think it was for his birthday to a fancy suit place to go get fitted.
 Anchored Artifacts: A-2514.1
 Mentions: N-1, N-33, N-34
@@ -763,11 +763,11 @@ Investigative Direction: Campus event calendars for UCLA, Stanford and Berkeley 
 
 ---
 
-**C-13457** Host Says a Bigger Name Texted That He Would Not Share the Stage With the New Girl
+**C-13457** Host Says a Bigger Name Messaged That They Would Not Share the Stage With the New Girl
 
 Claim Timestamp: 00:06:07
 
-Claim: The host says she saw messages light up the phone of a better-known headliner, who is not named, saying they did not want to do the event with the new girl Charlie had hired.
+Claim: The host says she saw messages light up on Charlie's phone from a better-known headliner, who is not named, saying they did not want to do the event with the new girl Charlie had hired.
 
 Transcript Snippet: "I I don't want to do this event with that new girl you hired." Like,
 
@@ -1047,11 +1047,11 @@ Investigative Direction: News reports and restaurant staff accounts of the Phila
 
 ---
 
-**C-13475** Clip Shows a Protester Telling the Host Charlie Kirk Is Not Your Friend
+**C-13475** Clip Shows the Host and Charlie Bantering With a Protester Over a Sign
 
 Claim Timestamp: 00:16:34
 
-Claim: In a clip the host plays, a protester says that if you aren't wealthy, white and male, Charlie Kirk is not your friend, after which the host and Charlie banter with the protester.
+Claim: In a clip the host plays of her sitting in front of a protester's sign, the line 'If you aren't wealthy, white and male, Charlie Kirk is not your friend' is spoken, after which the host and Charlie banter with the protester.
 
 Transcript Snippet: If you aren't wealthy, white and male, Charlie Kirk is not your friend.
 

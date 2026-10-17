@@ -162,7 +162,7 @@ Germany, here, we'll just put this together for you, said, "This is not our war.
 
 [27:30]
 
-Italy's Prime Minister Georgia Meloni on Wednesday, and she's a friend of Trump, delivered her strongest criticism of the US-Israeli war on Iran, describing it as part of a growing and dangerous trend of interventions that sit outside the scope of international law. Like, this is illegal, is what she's saying. This is illegal. Spain says, "Spain will never accept any stopgap measures because the objective must be for the war to end and for it to end now." South Korea, "We will continue to communicate closely with the US while carefully reviewing the situation before making a decision." And the most hopeful message came out of France, which in and of itself is not very hopeful because the country despises him. Okay?
+Italy's Prime Minister Giorgia Meloni on Wednesday, and she's a friend of Trump, delivered her strongest criticism of the US-Israeli war on Iran, describing it as part of a growing and dangerous trend of interventions that sit outside the scope of international law. Like, this is illegal, is what she's saying. This is illegal. Spain says, "Spain will never accept any stopgap measures because the objective must be for the war to end and for it to end now." South Korea, "We will continue to communicate closely with the US while carefully reviewing the situation before making a decision." And the most hopeful message came out of France, which in and of itself is not very hopeful because the country despises him. Okay?
 
 [28:13]
 

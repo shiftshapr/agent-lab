@@ -427,7 +427,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-572** Martha Louise of Norway
+**N-572** Märtha Louise of Norway
 
 Norwegian princess; correspondent with Jeffrey Epstein (A-1809.1).
 

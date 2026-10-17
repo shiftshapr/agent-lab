@@ -47,7 +47,7 @@
 
 ## II. Executive Summary
 
-Episode 45 centers on host Candace Owens' critique of Erika Kirk's recent media circuit in the wake of Charlie Kirk's assassination, paired with substantive investigative updates. Three evidentiary threads advance through displayed/read artifacts. First, Erika Kirk's Fox News interview with Harris Faulkner is played in clips, including her Nehemiah-analogy defense of TPUSA staff and her request for privacy regarding Charlie Kirk's burial location; this is paired with the host's re-display of the casket Instagram video Erika had published, framed as a contradiction in public/private behavior. Second, Tucker Carlson's Theo Von podcast appearance is played at length, confirming the host's prior claims about Egyptian-registered aircraft following Erika Kirk and the disproportionate presence of foreign-registered cell phones at the event; Tucker also notes pre-event X posts predicting the killing. Third, the Fort Huachuca meeting investigation advances materially: the captain at the September 9 meeting is positively identified as Adam Nef of the 10th Mountain Division, and a tipster email plus flight tracking display establishes the September 7-9, 2025 path of USAF C37A Gulfstream V (tail 99-044), including the transponder-dark segment and the RCH→SAM call sign change after departing Fort Huachuca. The Bari Weiss town hall content is referenced in narration but no clips or direct quotes are displayed in this episode.
+Episode 45 centers on host Candace Owens' critique of Erika Kirk's recent media circuit in the wake of Charlie Kirk's assassination, paired with substantive investigative updates. Three evidentiary threads advance through displayed/read artifacts. First, Erika Kirk's Fox News interview with Harris Faulkner is played in clips, including her Nehemiah-analogy defense of TPUSA staff and her request for privacy regarding Charlie Kirk's burial location; this is paired with the host's re-display of the casket Instagram video Erika had published, framed as a contradiction in public/private behavior. Second, Tucker Carlson's Theo Von podcast appearance is played at length, confirming the host's prior claims about Egyptian-registered aircraft following Erika Kirk and the disproportionate presence of foreign-registered cell phones at the event; Tucker also notes pre-event X posts predicting the killing. Third, the Fort Huachuca meeting investigation advances materially: the captain at the September 9 meeting is positively identified as Adam Neff of the 10th Mountain Division, and a tipster email plus flight tracking display establishes the September 7-9, 2025 path of USAF C37A Gulfstream V (tail 99-044), including the transponder-dark segment and the RCH→SAM call sign change after departing Fort Huachuca. The Bari Weiss town hall content is referenced in narration but no clips or direct quotes are displayed in this episode.
 
 ---
 
@@ -211,7 +211,7 @@ Confidence Level: High
 
 *Related: C-1908, Fort Huachuca Meeting Investigation (existing node)*
 
-**A-1532.2** Identification chain via email: Captain at the September 9 Fort Huachuca meeting positively identified as Adam Nef of the 10th Mountain Division (witness confirmed 100% after earlier 60-65% certainty)
+**A-1532.2** Identification chain via email: Captain at the September 9 Fort Huachuca meeting positively identified as Adam Neff of the 10th Mountain Division (witness confirmed 100% after earlier 60-65% certainty)
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:40:00
 Confidence Level: High
@@ -304,7 +304,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-320** Captain Adam Nef
+**N-320** Captain Adam Neff
 
 Positively identified in this episode as the U.S. Army captain of the 10th Mountain Division who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025. Distinct from Blake Neff (Fox News personality mentioned in same episode).
 
@@ -458,7 +458,7 @@ Host says she is interested in his military connections.
 
 **N-361** Harry
 
-The Fort Huachuca witness whose account, documentation and identification of Captain Nef are discussed.
+The Fort Huachuca witness whose account, documentation and identification of Captain Neff are discussed.
 
 *Related: C-8096, C-8097, C-8098, C-8099, C-8102, C-8103, C-8104, C-8105, C-8106, C-8109, C-8110, C-8111, C-8114, C-8123, C-8124*
 
@@ -654,7 +654,7 @@ Investigative Direction: Obtain archived Instagram post metadata, timestamp, and
 
 Claim Timestamp: 00:10:45
 
-Claim: Erika Kirk appeared at Sergio Gor's swearing-in ceremony as US Ambassador to India, delivering a brief speech in which she stated "Charlie loved you" and "Charlie is going to be with you every single day in spirit."
+Claim: In a clip the host plays of Sergio Gor's swearing-in ceremony as US Ambassador to India, Erika Kirk delivers a brief speech in which she says "Charlie loved you" and "Charlie is going to be with you every single day in spirit."
 
 Anchored Artifacts: A-1527.1
 Mentions: N-2, N-16
@@ -693,7 +693,7 @@ Investigative Direction: Seek cell tower records or ping data through legal proc
 
 Claim Timestamp: 00:28:46
 
-Claim: Tucker Carlson stated that individuals posted on X predicting that Charlie Kirk would be killed on a specific date prior to the assassination, and questioned whether the FBI had interviewed those posters.
+Claim: In the Theo Von clip the host plays, Tucker Carlson says that individuals posted on X predicting that Charlie Kirk would be killed on a specific date prior to the assassination, and questions whether the FBI had interviewed those posters.
 
 Anchored Artifacts: A-1528.3
 Mentions: N-1, N-22
@@ -706,7 +706,7 @@ Investigative Direction: Use archived X searches and Wayback Machine to recover 
 
 Claim Timestamp: 00:25:30
 
-Claim: Tucker Carlson stated he does not have a ton of confidence in the FBI or the men who run it; later, asking why the FBI will not explain, he said "You've told the world that you have both a confession from him in his text to his boyfriend and the murder weapon with his fingerprints on it. I think you got a pretty solid case."
+Claim: In the Theo Von clip the host plays, Tucker Carlson says he does not have a ton of confidence in the FBI or the men who run it; later, asking why the FBI will not explain, he says "You've told the world that you have both a confession from him in his text to his boyfriend and the murder weapon with his fingerprints on it. I think you got a pretty solid case."
 
 Anchored Artifacts: A-1528.4, A-1528.5
 Mentions: N-22
@@ -720,7 +720,7 @@ Investigative Direction: Compare Tucker's stated concerns with the official FBI 
 
 Claim Timestamp: 00:43:18
 
-Claim: Per a tip email the host reads, and which the host says her team fact-checked, USAF C37A Gulfstream V (tail 99-044), based at Andrews AFB, flew Andrews → Colorado Springs (Sept 7), Colorado Springs → Tucson (Sept 8), with the transponder going dark thereafter, then Fort Huachuca → El Paso at 12:31 PM (Sept 9), and El Paso → Andrews.
+Claim: Per a tip email the host reads, and which the host says her team fact-checked, USAF C37A Gulfstream V (tail 99-044), based at Andrews AFB, flew Andrews → Colorado Springs (Sept 7), Colorado Springs → Tucson (Sept 8), with the transponder appearing to be turned off thereafter, then Fort Huachuca → El Paso at 12:31 PM (Sept 9), and El Paso → Andrews.
 
 Anchored Artifacts: A-1529.1
 Related Nodes: N-10332
@@ -743,16 +743,16 @@ Investigative Direction: Verify SAM call sign designation rules against publishe
 
 ---
 
-**C-1907** Host Says Captain at Fort Huachuca Meeting Identified as Adam Nef, 10th Mountain Division
+**C-1907** Host Says Captain at Fort Huachuca Meeting Identified as Adam Neff, 10th Mountain Division
 
 Claim Timestamp: 00:40:00
 
-Claim: The host says her team has a positive ID that the captain who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025 is Adam Nef of the U.S. Army's 10th Mountain Division, which she says Harry confirmed from pictures she sent.
+Claim: The host says her team has a positive ID that the captain who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025 is Adam Neff of the U.S. Army's 10th Mountain Division, which she says Harry confirmed from pictures she sent.
 
 Anchored Artifacts: A-1532.2
 Mentions: N-320, N-361
 
-Investigative Direction: Verify Adam Nef's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters.
+Investigative Direction: Verify Adam Neff's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters.
 
 ---
 
@@ -771,7 +771,7 @@ Investigative Direction: Cross-reference with public DoD facility records, news 
 
 **C-1909** Candlewood Suites security footage preservation requested for September 8, 2025
 
-Claim Timestamp: 01:00:25
+Claim Timestamp: 00:59:48
 
 Claim: The host, echoing a comment from "servant of Yahweh," publicly requests preservation of security footage from the Candlewood Suites hotel near Fort Huachuca on September 8, 2025, depicting an individual described as a young woman and another as a "special ops guy" leaving together in a green truck.
 
@@ -1143,7 +1143,7 @@ Transcript Snippet: His father, he learns after his father died, he thought he w
 Anchored Artifacts: 
 Mentions: N-22
 Related Nodes: N-10540
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Check Carlson's own public statements and published biographies about his father's work.
 
 ---
@@ -1299,7 +1299,7 @@ Investigative Direction: Identify the source messages or communications behind e
 
 Claim Timestamp: 00:39:11
 
-Claim: The host says she misspoke the day before when she said E4 and E3, that her notes show the witness said O-6, and that she introduced the error when transferring notes after Googling and editing what she thought she heard.
+Claim: The host says she misspoke the day before when she said E4 and E3, that her notes show the witness said O-6, and that she introduced the error when transferring her notes, then Googling and editing what she thought she heard.
 
 Transcript Snippet: I think I made the mistake when I transferred my notes because he said uh colonels or captains.
 
@@ -1345,11 +1345,11 @@ Investigative Direction: Request base access-control or visitor records for Sept
 
 ---
 
-**C-8099** Host Says Viewer Emails Led to the Adam Nef Photo Identification
+**C-8099** Host Says Viewer Emails Led to the Adam Neff Photo Identification
 
 Claim Timestamp: 00:39:36
 
-Claim: The host says the witness did not know Captain Nef's first name; as viewers' emails came in she sent him picture options, and when someone supplied the name Adam Nef he confirmed it was the correct person.
+Claim: The host says the witness did not know Captain Neff's first name; as viewers' emails came in she sent him picture options, and when someone supplied the name Adam Neff he confirmed it was the correct person.
 
 Transcript Snippet: I sent picture options to him as your emails were coming in
 
@@ -1358,15 +1358,15 @@ Mentions: N-320, N-361, N-3
 Related Nodes: N-10326
 Qualifies: C-1907
 Tags: relevance:core
-Investigative Direction: Independently verify Adam Nef's identity and assignment through Army records.
+Investigative Direction: Independently verify Adam Neff's identity and assignment through Army records.
 
 ---
 
-**C-8100** Host Says the 10th Mountain Division Is the New York Division and Fits Nef Leading the Interrogation
+**C-8100** Host Says the 10th Mountain Division Is the New York Division and Fits Neff Leading the Interrogation
 
 Claim Timestamp: 00:39:36
 
-Claim: The host says Adam Nef led the interrogation and that the identification checks out because the 10th Mountain Division is the division from New York.
+Claim: The host says Adam Neff led the interrogation and that the identification checks out because the 10th Mountain Division is the division from New York.
 
 Transcript Snippet: it checks out because that is the division from New York.
 
@@ -1375,7 +1375,7 @@ Mentions: N-320
 Related Nodes: N-10326
 Supports: C-1907
 Tags: relevance:core
-Investigative Direction: Check Army records for Captain Adam Nef's unit and whether any 10th Mountain element was at Fort Huachuca on September 9, 2025.
+Investigative Direction: Check Army records for Captain Adam Neff's unit and whether any 10th Mountain element was at Fort Huachuca on September 9, 2025.
 
 ---
 
@@ -1441,7 +1441,7 @@ Anchored Artifacts:
 Mentions: N-361
 Related Nodes: N-10326
 Tags: relevance:core
-Investigative Direction: Obtain the military police incident report and ask Captain Nef about the stated reason for detaining him.
+Investigative Direction: Obtain the military police incident report and ask Captain Neff about the stated reason for detaining him.
 
 ---
 
@@ -1449,9 +1449,9 @@ Investigative Direction: Obtain the military police incident report and ask Capt
 
 Claim Timestamp: 00:42:47
 
-Claim: The host says that about seven hours later the witness was allowed to leave, or Captain Nef allowed him to leave.
+Claim: The host says that about seven hours later the witness was allowed to leave, or Captain Neff allowed him to leave.
 
-Transcript Snippet: It's, you know, 7 hours later, they allowed him to leave or or Captain Nef allowed him to leave.
+Transcript Snippet: It's, you know, 7 hours later, they allowed him to leave or or Captain Neff allowed him to leave.
 
 Anchored Artifacts: 
 Mentions: N-361, N-320
@@ -1545,11 +1545,11 @@ Investigative Direction: Follow later episodes and podcasts for the witness's pu
 
 ---
 
-**C-8111** Host Says Harry Rose From 60 to 65 Percent Certainty to 100 Percent on Nef
+**C-8111** Host Says Harry Rose From 60 to 65 Percent Certainty to 100 Percent on Neff
 
 Claim Timestamp: 00:45:37
 
-Claim: The host says the witness first put the chance a name was the interrogator at about 60 to 65 percent and became 100 percent certain once she gave him the correct Nef.
+Claim: The host says the witness first put the chance a name was the interrogator at about 60 to 65 percent and became 100 percent certain once she gave him the correct Neff.
 
 Transcript Snippet: I would put that at about maybe 65 60 to 65% that it could be this person until I gave him the correct nef and he was like 100% that's the guy um that questioned me.
 
@@ -1967,7 +1967,7 @@ Confidence: high
 
 - **Artifact verbally referenced but not shown**: Erika Kirk's statements at the Bari Weiss CBS town hall ("Stop"; pregnancy denial; photo proof claim; "good things about Jews"; Shabbat dinner references) are paraphrased by the host in the third chapter but no direct clips or on-screen text from the town hall appear in this episode. The town hall was filmed the same day as the episode and broadcast date is uncertain.
 
-- **Requires human verification**: The identification of Captain Adam Nef was accepted at 100% only after the witness moved from 60-65% certainty; chain of identification should be independently corroborated before being treated as confirmed.
+- **Requires human verification**: The identification of Captain Adam Neff was accepted at 100% only after the witness moved from 60-65% certainty; chain of identification should be independently corroborated before being treated as confirmed.
 
 - **Transcript ambiguity**: The flight tracking display (A-1530.1) is described verbally by Mark with phrases like "you can see it goes from Tucson"; whether the display is shown full-screen on the video or referenced via a shared monitor is not explicit in the transcript.
 
@@ -1989,6 +1989,6 @@ Confidence: high
 - [x] People nodes use global people ledger (N-2, N-67, N-320)
 - [x] Non-person investigation targets use 1000 series (N-10332, N-10333)
 - [x] No speculative claims inscribed as evidence-backed
-- [x] Names preserved exactly or uncertainty noted (Nef, Huachuca/Huachuca, Erika/Erica)
+- [x] Names preserved exactly or uncertainty noted (Neff, Huachuca/Huachuca, Erika/Erica)
 - [x] Formatting consistent across registers
 - [x] Rhetoric, framing, and host opinion distinguished from artifact-anchored claims

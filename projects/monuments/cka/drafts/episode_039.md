@@ -348,7 +348,7 @@ Investigative Pressure: Medium
 
 *Related: A-1480.1, C-1808, N-297, N-10306*
 
-**N-297** Christopher Mosley
+**N-297** Christopher Moseley
 
 Per Vanity Fair, killed Las Vegas prostitute at Lisa Dean DuPont's direction; died in prison.
 
@@ -392,7 +392,7 @@ Investigative Pressure: Low
 
 *Related: N-218, N-1*
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Wife of Mikey McCoy; joined Charlie Kirk family vacation in Maine.
 
@@ -711,7 +711,7 @@ SU-BTT Wilmington visit pattern; reused for the planes' Wilmington stops.
 
 **N-10269** Wilmington Airport Hangar Federal Connection
 
-Wilmington hangar federal connection; reused for the federal approval and Satis items.
+Wilmington hangar federal connection; reused for the federal approval and Satys items.
 
 *Related: C-10972, C-10973*
 
@@ -837,7 +837,7 @@ Kirk Netanyahu show refusal; reused for the declined-offer claim.
 
 ---
 
-**N-10870** Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum
+**N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
 
 Yrefy sponsorship contracts; reused for the fall-tour sponsor claim.
 
@@ -847,7 +847,7 @@ Yrefy sponsorship contracts; reused for the fall-tour sponsor claim.
 
 **N-11008** Satys
 
-Satis; reused for the shareholder and hangar items.
+Satys; reused for the shareholder and hangar items.
 
 *Related: C-10972, C-10973*
 
@@ -888,7 +888,7 @@ First named by the host at 00:05:25 in episode 39. Transcribed Eric Dupond Moret
 **N-11278** Ace Partners
 
 Node Type: Organization
-French and Israeli firm that the host says is the second largest shareholder of Satis, the company that leased the Wilmington hangar.
+French and Israeli firm that the host says is the second largest shareholder of Satys, the company that leased the Wilmington hangar.
 
 *Related: C-10972*
 
@@ -980,18 +980,18 @@ Investigative Direction: Confirm against public court records of the John DuPont
 
 ---
 
-**C-1808** Per Vanity Fair Reporting Host Relays, Lisa Dean DuPont and Christopher Mosley Ordered Killing of Las Vegas Prostitute
+**C-1808** Per Vanity Fair Reporting Host Relays, Lisa Dean DuPont and Christopher Moseley Ordered Killing of Las Vegas Prostitute
 
 Claim Timestamp: 00:10:39
 
-Claim: Per Dominic Dunne's Vanity Fair reporting as the host relays it, Lisa Dean DuPont and her husband Christopher Mosley ordered the killing of a Las Vegas prostitute whose body was found in a motel air conditioner, with the money tracing to the DuPont family; the host says both John DuPont and Mosley died in prison.
+Claim: Per Dominick Dunne's Vanity Fair reporting as the host relays it, it appeared that Lisa Dean DuPont and her husband Christopher Moseley had a Las Vegas prostitute killed, whose body was found in a motel air conditioner, with the money tracing to the DuPont family; the host says both John DuPont and Moseley died in prison.
 
 Anchored Artifacts: A-1480.1
 Mentions: N-296, N-297, N-295
 
 Related Nodes: N-10306
 
-Investigative Direction: Locate contemporaneous court filings or the original Dominic Dunn Vanity Fair piece.
+Investigative Direction: Locate contemporaneous court filings or the original Dominick Dunne Vanity Fair piece.
 
 ---
 
@@ -1086,7 +1086,7 @@ Investigative Direction: Obtain phone records or sworn statements from the named
 
 Claim Timestamp: 00:30:22
 
-Claim: Two TPUSA sources told host the donor prospect was French American and named Pierre; this detail was reported as forgotten until resurfacing after Episode 38's DuPont discussion.
+Claim: The host says TPUSA sources, whom she calls "these young women," told her the donor prospect was French American and named Pierre; she says she had forgotten this until after the previous day's show on the DuPont family.
 
 Anchored Artifacts: A-1486.2
 Mentions:
@@ -1145,7 +1145,7 @@ Investigative Direction: Identify the federal source and corroborate with any co
 
 Claim Timestamp: 00:33:15
 
-Claim: A close family friend of Andrew Kolvet, in a written tip to host, said that Andrew Kolvet told them that when Charlie said no to "BB," he lost out on millions.
+Claim: The host says that, allegedly, a close family friend of Andrew Kolvet told her in a written tip that Andrew Kolvet had told them that when Charlie said no to "BB," he lost out on millions.
 
 Anchored Artifacts: A-1488.1
 Mentions: N-14, N-1, N-36
@@ -1159,7 +1159,7 @@ Investigative Direction: Preserve the written tip; verify Andrew Kolvet's contem
 **C-3652** Host Says She Messaged Mommy Sleuths and TPUSA Sources About the Donor
 
 Claim Timestamp: 00:29:22
-Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
+Claim: The host says that, wanting to know more about the donor phone call, she started messaging "our mommy sleuths and our daddy's sleuths" and all of her sources at Turning Point USA, asking for anything they could tell her.
 Transcript Snippet: ...I wanted to know more. And I start messaging our mommy sleuths and our daddy's sleuths and all of my sources at Turning Point USA. And I'm saying anything that yo...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1272,7 +1272,7 @@ Transcript Snippet: Critics have since noted that such treatment is usually offe
 Anchored Artifacts: A-1480.1
 Mentions: N-293, N-301
 Related Nodes: N-10306
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the Vanity Fair article and the Delaware sentencing record to see who the critics were and whether the characterization holds.
 
 ---
@@ -1288,7 +1288,7 @@ Transcript Snippet: Richards, who is unemployed and supported by a trust fund, o
 Anchored Artifacts: A-1480.1
 Mentions: N-293
 Related Nodes: N-10306
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Pull the New Castle County deed for the Greenville property and the civil docket for the ex-wife's damages suit.
 
 ---
@@ -1304,7 +1304,7 @@ Transcript Snippet: his great-grandfather is the DuPont family patriarch Dupont 
 Anchored Artifacts: A-1480.1
 Mentions: N-293, N-294
 Related Nodes: N-10306
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Verify the genealogy against Richards family and DuPont family records and the cited registry entry.
 
 ---
@@ -1313,12 +1313,12 @@ Investigative Direction: Verify the genealogy against Richards family and DuPont
 
 Claim Timestamp: 00:08:36
 
-Claim: The host says that the Richards law firm named in the article is the firm that is filing the paperwork for her in the lawsuit brought by the Macrons, and that she did not know this until the previous day.
+Claim: The host says that the Richards law firm named in the article is the firm that is filing the paperwork for her, and that she did not know this until the previous day.
 
 Transcript Snippet: Hey Candace, is that the law firm that's filing the paperwork for you? And the answer to that is yes.
 
 Anchored Artifacts: 
-Mentions: N-3, N-294
+Mentions: N-3
 Related Nodes: N-10303, N-10270
 Tags: relevance:context
 Investigative Direction: Check the Delaware court docket for counsel of record in Macron v. Owens and confirm the firm's name against the filings.
@@ -1368,7 +1368,7 @@ Transcript Snippet: was instead released on a $60,000 bail and eventually cpped 
 Anchored Artifacts: A-1480.1
 Mentions: N-293
 Related Nodes: N-10306
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the Delaware bail order and plea agreement in the Richards case.
 
 ---
@@ -1552,19 +1552,19 @@ Investigative Direction: Confirm Sheridan's role in the memorial program and the
 
 ---
 
-**C-10972** Host Says ACE Partners Is the Second Largest Shareholder of Satis
+**C-10972** Host Says ACE Partners Is the Second Largest Shareholder of Satys
 
 Claim Timestamp: 00:15:16
 
-Claim: The host says her team learned that a French and Israeli firm, ACE Partners, is the second largest shareholder of Satis, the company that leased the Wilmington hangar.
+Claim: The host says her team learned that a French and Israeli firm, ACE Partners, is the second largest shareholder of Satys, the company that leased the Wilmington hangar.
 
-Transcript Snippet: We learn about this French and Israeli uh ACE Partners being the second largest shareholder of Satis.
+Transcript Snippet: We learn about this French and Israeli uh ACE Partners being the second largest shareholder of Satys.
 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11278, N-11008, N-10269
 Tags: relevance:core
-Investigative Direction: Obtain Satis shareholder registers or filings and verify ACE Partners' stake and ownership.
+Investigative Direction: Obtain Satys shareholder registers or filings and verify ACE Partners' stake and ownership.
 
 ---
 
@@ -1639,7 +1639,7 @@ Investigative Direction: Obtain the TPUSA and UVU event request correspondence w
 
 Claim Timestamp: 00:17:14
 
-Claim: The host says that right after the Tucker speech the Egyptian yellow plane flew to Lincoln, Nebraska, and two days later Nebraska announced a trade and investment trip with Egypt.
+Claim: The host says that, in her timeline after the Tucker speech, right after the reported UVU event request the Egyptian yellow plane flew to Lincoln, Nebraska, and two days later Nebraska announced a trade and investment trip with Egypt.
 
 Transcript Snippet: right after that, our Egyptian yellow plane flies to Lincoln, Nebraska. And two days later, it is announced in Nebraska that they're going to be doing a trade and investment trip with Egypt.
 
@@ -2176,11 +2176,11 @@ Investigative Direction: Personal recollection; no document anchored.
 
 ---
 
-**C-11010** Host Says the April 2018 Texts Also Said Turning Point Would Be the Death of Him
+**C-11010** Host Says the April 2018 Texts Said More Than That Turning Point Would Be the Death of Him
 
 Claim Timestamp: 00:42:09
 
-Claim: The host says that in his April 2018 texts about his visions Charlie did not just say he was going to die but also that Turning Point was going to be the death of him.
+Claim: The host says that in his April 2018 texts about his visions Charlie said not only that he was going to die and that Turning Point was going to be the death of him, but also wrote other things she had not shared before.
 
 Transcript Snippet: He didn't just say that he was going to die. He didn't just say that Turning Point was going to be the death of him
 

@@ -42,7 +42,7 @@
 
 ## II. Executive Summary
 
-The episode centers on two pieces of artifact-anchored material presented as exclusive: (1) rooftop footage the host says she has held since October 2025 depicting the alleged shooter, which the host frames as showing a "lateral/military crawl," a flash during the crawl, a "throw forward" motion, and the absence of a visible muzzle flash or weapon recoil before the shooter rises to flee; and (2) a reading of the Wikipedia entry for Secretary of the Navy John C. Phelan, specifically the "Relationship with Jeffrey Epstein" subsection, which references two Phelan flights on Epstein's plane in February–March 2006 alongside Jean-Luc Brunel. The host additionally identifies, by name, two rookie officers said to have recovered the weapon – Mitchell Curtis (a 2025 UVU graduate) and his father Foster Curtis (a reported 21-year NCIS division chief) – but provides no displayed source for these biographical claims. An Iranian Lego propaganda video referencing Epstein and an Erika Kirk "be a table" clip are also shown. The episode advances investigative questions around the recovery-officer chain, NCIS proximity to the gun search, and Epstein-network overlaps with current Trump-administration officials.
+The episode centers on two pieces of artifact-anchored material presented as exclusive: (1) rooftop footage the host says she has held since October 2025 depicting the alleged shooter, which the host frames as showing a "lateral/military crawl," a flash during the crawl, a "throw forward" motion, and the absence of a visible muzzle flash or weapon recoil before the shooter rises to flee; and (2) a reading of the Wikipedia entry for Secretary of the Navy John C. Phelan, specifically the "Relationship with Jeffrey Epstein" subsection, which references two Phelan flights on Epstein's plane in February–March 2006 alongside Jean-Luc Brunel. The host additionally identifies, by name, two rookie officers said to have recovered the weapon – Mitchell Curtis (a 2025 UVU graduate) and his father Foster Curtiss (a reported 21-year NCIS division chief) – but provides no displayed source for these biographical claims. An Iranian Lego propaganda video referencing Epstein and an Erika Kirk "be a table" clip are also shown. The episode advances investigative questions around the recovery-officer chain, NCIS proximity to the gun search, and Epstein-network overlaps with current Trump-administration officials.
 
 ---
 
@@ -561,7 +561,7 @@ Named by the host re Phelan appointment, fundraiser, manifest release and the Br
 
 ---
 
-**N-494** Marina (TPUSA CMO)
+**N-494** Marina Minas
 
 TPUSA chief marketing officer named by the host as scheduled for the White House meeting.
 
@@ -625,7 +625,7 @@ First named by the host at 00:21:00 in episode 133; she says he is a Pleasant Gr
 
 ---
 
-**N-783** Foster Curtis
+**N-783** Foster Curtiss
 
 First named by the host at 00:21:00 in episode 133; she says he is Mitchell Curtis's father, a 21-year NCIS veteran.
 
@@ -661,16 +661,16 @@ The host's question why the feds released a blurry stairwell still during the 33
 **N-11140** Naval Criminal Investigative Service (NCIS)
 
 Node Type: Organization
-Federal agency the host describes as employing Foster Curtis for 21 years and reporting to the Secretary of the Navy.
+Federal agency the host describes as employing Foster Curtiss for 21 years and reporting to the Secretary of the Navy.
 
 *Related: C-7375, C-7376, C-7377, C-7380*
 
 ---
 
-**N-11141** Foster Curtis Richmond Inspector General Transition
+**N-11141** Foster Curtiss Richmond Inspector General Transition
 
 Node Type: Topic
-The host's account of Foster Curtis leaving NCIS in June 2025 to be Richmond's interim inspector general after the firing of James Osuna.
+The host's account of Foster Curtiss leaving NCIS in June 2025 to be Richmond's interim inspector general after the firing of James Osuna.
 
 *Related: C-7377, C-7378, C-7379*
 
@@ -730,7 +730,7 @@ Investigative Pressure: Medium
 
 **N-10757** Weapon Recovery Officer Chain and NCIS Connection
 
-Host identifies Mitchell Curtis (rookie officer, 2025 UVU graduate) and his father Foster Curtis (reported 21-year NCIS division chief) as connected to the weapon recovery. Biographical claims not artifact-displayed in this episode.
+Host identifies Mitchell Curtis (rookie officer, 2025 UVU graduate) and his father Foster Curtiss (reported 21-year NCIS division chief) as connected to the weapon recovery. Biographical claims not artifact-displayed in this episode.
 
 Evidence Count: 0 displayed artifacts
 Claim Count: 0
@@ -1255,19 +1255,19 @@ Investigative Direction: Obtain the police report identifying the discovering of
 
 ---
 
-**C-7375** Host Says Mitchell Curtis's Father Foster Curtis Spent 21 Years at NCIS
+**C-7375** Host Says Mitchell Curtis's Father Foster Curtiss Spent 21 Years at NCIS
 
 Claim Timestamp: 00:21:00
 
-Claim: The host says Mitchell Curtis's father is Foster Curtis of Virginia, who she says spent 21 years with NCIS, rising from special agent to division chief in the Office of Inspector General, and that sleuths helped identify him.
+Claim: The host says Mitchell Curtis's father is Foster Curtiss of Virginia, who she says spent 21 years with NCIS, rising from special agent to division chief in the Office of Inspector General, and that sleuths helped identify him.
 
-Transcript Snippet: His father's name is Foster Curtis. Foster lives in Virginia. Foster spent 21 years with NCIS, starting as a special agent
+Transcript Snippet: His father's name is Foster Curtiss. Foster lives in Virginia. Foster spent 21 years with NCIS, starting as a special agent
 
 Anchored Artifacts: A-2874.1
 Mentions: N-3, N-782, N-783
 Related Nodes: N-10757, N-11140
 Tags: relevance:core
-Investigative Direction: Verify Foster Curtis's NCIS and Inspector General career through public records, and confirm the father-son relationship.
+Investigative Direction: Verify Foster Curtiss's NCIS and Inspector General career through public records, and confirm the father-son relationship.
 
 ---
 
@@ -1287,13 +1287,13 @@ Investigative Direction: Check NCIS published figures on countries, staffing and
 
 ---
 
-**C-7377** Host Says Foster Curtis Left NCIS on June 2, 2025 to Be Richmond's Interim Inspector General
+**C-7377** Host Says Foster Curtiss Left NCIS on June 2, 2025 to Be Richmond's Interim Inspector General
 
 Claim Timestamp: 00:22:40
 
-Claim: The host says that on June 2, 2025, after 21 years, Foster Curtis left his NCIS division chief position to become Richmond, Virginia's interim inspector general.
+Claim: The host says that on June 2, 2025, after 21 years, Foster Curtiss left his NCIS division chief position to become Richmond, Virginia's interim inspector general.
 
-Transcript Snippet: Foster Curtis after 21 years decided to leave his position as a division chief and to be Richmond, Virginia's interim inspector general.
+Transcript Snippet: Foster Curtiss after 21 years decided to leave his position as a division chief and to be Richmond, Virginia's interim inspector general.
 
 Anchored Artifacts: A-2875.1
 Mentions: N-3, N-783
@@ -1319,11 +1319,11 @@ Investigative Direction: Find the June 2025 Richmond local news reports and city
 
 ---
 
-**C-7379** Host Adds Mitch and Foster Curtis to Her Tree of Brand-New Utah Personnel
+**C-7379** Host Adds Mitch and Foster Curtiss to Her Tree of Brand-New Utah Personnel
 
 Claim Timestamp: 00:23:56
 
-Claim: The host says Foster Curtis's job change came a couple of months before his son found the gun, and adds the two to her spreadsheet of brand-new people in Utah.
+Claim: The host says Foster Curtiss's job change came a couple of months before his son found the gun, and adds the two to her spreadsheet of brand-new people in Utah.
 
 Transcript Snippet: We can now add Mitch and Foster.
 
@@ -1801,7 +1801,7 @@ Confidence: high
 
 **Claim Range:** C-3150–C-3161
 
-**New People Nodes Introduced:** none. Wave 1 reconciliation: N-10141..N-10145 are topic ids, not these people. Andrew Kolvet is N-14 and Jean-Luc Brunel is N-530; Mitchell Curtis, Foster Curtis and John C. Phelan have no CKA person node.
+**New People Nodes Introduced:** none. Wave 1 reconciliation: N-10141..N-10145 are topic ids, not these people. Andrew Kolvet is N-14 and Jean-Luc Brunel is N-530; Mitchell Curtis, Foster Curtiss and John C. Phelan have no CKA person node.
 
 **New Investigation Target Nodes Introduced:** N-10754 (Rooftop Movement Tactical Analysis), N-10755 (Weapon Discharge Visual Indicators), N-10756 (K9 Scent Tracking Discrepancy), N-10757 (Weapon Recovery Officer Chain and NCIS Connection), N-10758 (Secretary of the Navy Phelan Epstein Flight Connection)
 

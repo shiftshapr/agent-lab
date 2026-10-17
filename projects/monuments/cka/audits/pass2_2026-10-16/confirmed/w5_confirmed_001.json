@@ -1,0 +1,433 @@
+[
+ {
+  "claim": "C-1957",
+  "episode": 47,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the earliest mention of the UVU courtyard location that her team found was on September 2, when local media on KMYU said Charlie Kirk was speaking in the courtyard.",
+   "names": [
+    {
+     "wrong": "K K AM YU",
+     "right": "KMYU",
+     "source": "https://kmyu.tv/news/local/activist-social-media-personality-charles-kirk-schedules-events-at-two-utah-universities"
+    }
+   ]
+  },
+  "note": "KMYU story dated Sept 2, 2025 lists UVU Courtyard (checked). Transcript form is 'K K AM YU', so the rule uses that."
+ },
+ {
+  "claim": "C-14013",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:07:30"
+  },
+  "note": "Snippet ends the 06:18-07:41 block (~07:33); 07:30 keeps it inside the gate."
+ },
+ {
+  "claim": "C-1970",
+  "episode": 49,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says, and guest witness \"Mitch\" agrees, that he was gagged by a non-disclosure order for 35 years (she first says 25, then corrects herself) after a JTF6 mission, assigned from 10th Mountain, in which he located a major cross-border drug tunnel in the Douglas, Arizona area."
+  },
+  "note": "Host states the gag order (25, then 'pardon me 35 years'); Mitch answers 'Yeah, it is.' at 33:02. 1990 not said."
+ },
+ {
+  "claim": "C-1971",
+  "episode": 49,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she confirmed with metadata that witness \"Mitch\" was physically present at Fort Huachuca on the evening of September 8, 2025 (Candlewood Inn & Suites) and the morning of September 9, 2025 (JTF command building), citing the photos and an 18-minute video he recorded on base and the military ID cards he sent her."
+  },
+  "note": "Host's account: 'confirm with the metadata'; Candlewood Inn and Suites (host), 18-minute video, military cards all said."
+ },
+ {
+  "claim": "C-1979",
+  "episode": 49,
+  "decision": "reject",
+  "fix": {},
+  "note": "Name fix only re-applies existing rule 'Captain Adam Nef'->'Captain Adam Neff'; claim already correct."
+ },
+ {
+  "claim": "C-5344",
+  "episode": 49,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host tells Mitch there were literally 51,000 unanswered emails in that tip inbox.",
+   "label": "Host Says 51,000 Emails Sat Unanswered in the Tip Inbox",
+   "timestamp": "01:05:05"
+  },
+  "note": "The 51,000-emails line is the host's (Mitch could not know her inbox); snippet at end of 01:04:16 block, 01:05:05 fits."
+ },
+ {
+  "claim": "C-1984",
+  "episode": 50,
+  "decision": "reject",
+  "fix": {},
+  "note": "Proposed claim is identical to the current one; name entry only re-applies existing Diligent Dennison rule."
+ },
+ {
+  "claim": "C-5397",
+  "episode": 50,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim unchanged, label only recased; name entry re-applies existing Diligent Dennison rule."
+ },
+ {
+  "claim": "C-1995",
+  "episode": 51,
+  "decision": "accept",
+  "fix": {
+   "claim": "An October 2024 interview clip played on air shows Charlie Kirk telling Justice Smith that there is no evidence MK Ultra ended, citing Operation Mockingbird as another CIA program, and saying the CIA is actively involved in domestic mind manipulation.",
+   "names": [
+    {
+     "wrong": "Operation Mockingbird 2",
+     "right": "Operation Mockingbird",
+     "source": "https://en.wikipedia.org/wiki/Operation_Mockingbird"
+    }
+   ]
+  },
+  "note": "'Mockingbird 2' is 'Mockingbird too'; 'is in effect' not said. Operation Mockingbird is the CIA program."
+ },
+ {
+  "claim": "C-1997",
+  "episode": 51,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a Paramount Tactical Valhalla livestream clip the host plays, the streamer reads a message he says answered his request for proof, which the host says came from Andrew Kolvet, saying Erika Kirk woke up next to Charlie on the ninth and offering proof she was with her kids at 8:33 a.m.; he says he apparently was not supposed to share that and adds \"Sorry Andrew, I screwed that up.\"",
+   "label": "Paramount Tactical Valhalla Stream Clip Shows Streamer Reading Message the Host Attributes to Andrew Kolvet on Erika Kirk's September 9 Alibi",
+   "mentions": [
+    "N-2",
+    "N-14",
+    "N-1"
+   ]
+  },
+  "note": "Streamer reads the message; Kolvet attribution is host's framing; Charlie referred to ('next to Charlie')."
+ },
+ {
+  "claim": "C-6753",
+  "episode": 51,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Madison Brandford is apparently a Daily Wire intern and that the Daily Wire is launching an iCarly-type show titled In the Know Know in which she will make fun of the host.",
+   "label": "Host Says Daily Wire Is Launching an Intern-Fronted Show Called In the Know Know to Mock Her",
+   "names": [
+    {
+     "wrong": "In the Know No",
+     "right": "In the Know Know",
+     "source": "https://www.soapcentral.com/pop-culture/news-what-disaster-internet-reacts-candace-owens-reveals-clip-alleged-daily-wire-series-in-know-know"
+    }
+   ]
+  },
+  "note": "Title 'In the Know Know' confirmed (Soap Central). Transcript reads 'In the Know No', so the rule targets that. Brandford unresolved."
+ },
+ {
+  "claim": "C-6757",
+  "episode": 51,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Mitch saw Erika Kirk on the 8th leaving the Candlewood Inn [Candlewood Suites] hotel on Fort Huachuca, accompanied by someone who looked similar to Cabot Phillips."
+  },
+  "note": "Host herself says 'Candlewood Inn'; keep her words, bracket the correct name (Mitch says Candlewood Suites in ep 49). Not a names entry."
+ },
+ {
+  "claim": "C-6773",
+  "episode": 51,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the stream clip, the host of the stream reads notes saying Erika was not \"in some fort in Tucson\" and that she woke up next to Charlie on the ninth, went to the office with him all day, woke him from a nap before Fox hit, and went to dinner with him."
+  },
+  "note": "Notes assert the alibi ('wasn't in some fort in Tucson'); 'the internet claims' reverses it."
+ },
+ {
+  "claim": "C-2009",
+  "episode": 52,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-11",
+    "N-1",
+    "N-5"
+   ]
+  },
+  "note": "'right behind the president' refers to Donald Trump (N-5)."
+ },
+ {
+  "claim": "C-2013",
+  "episode": 52,
+  "decision": "amend",
+  "fix": {
+   "label": "Daily Wire's \"In the Know Know\" Show Mocks Candace"
+  },
+  "note": "Title confirmed; names entry dropped: mapping 'Maddie in the No' to the title would delete Maddie from the transcript."
+ },
+ {
+  "claim": "C-2035",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the 1997 Washington Post article (citing church documents analyzed by private investigator Lawrence Zilliox), Unification Church International exceeded $500 million in the mid-1980s; Far Eastern Economic Review valued South Korean landholdings above $1 billion in 1990.",
+   "names": [
+    {
+     "wrong": "Lawrence Zillioux",
+     "right": "Lawrence Zilliox",
+     "source": "https://www.washingtonpost.com/wp-srv/national/longterm/cult/unification/main.htm"
+    }
+   ]
+  },
+  "note": "WaPo 1997 text reads 'Lawrence Zilliox, a private investigator' (checked via archived page)."
+ },
+ {
+  "claim": "C-2036",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-436"
+   ]
+  },
+  "note": "Claim names Unificationists, the coalition and North; Moon is not named or referred to."
+ },
+ {
+  "claim": "C-2040",
+  "episode": 54,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per a Korean Herald [Korea Herald] headline the host shows, Pastor Son Hyun-bo was arrested for breaking election law; the host says he was arrested on September 9.",
+   "label": "Korea Herald Headline the Host Shows Says Pastor Son Hyun-bo Was Arrested for Breaking Election Law"
+  },
+  "note": "Content fix right. Yoon Bo-seon rule exists already; 'Korean Herald' is the host's own word, so bracket it, no names entry."
+ },
+ {
+  "claim": "C-2041",
+  "episode": 54,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per a CBN News clip the host plays, Chance Son (son of Pastor Son Hyun-bo) stated that his father was arrested two days after meeting Charlie Kirk; the clip says Kirk met Pastor Son in Seoul at a conference.",
+   "label": "Chance Son Stated His Father Was Arrested Two Days After Meeting Charlie Kirk"
+  },
+  "note": "Build Up Korea is the host's words, not the clip's. Both names entries re-apply existing rules; dropped."
+ },
+ {
+  "claim": "C-2046",
+  "episode": 54,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per the Korean Herald [Korea Herald] article the host reads, Pastor Son Hyun-bo shouted during a protest that \"Lee Jae-myung has to die for Korea to live\" and stated the state is \"the same as Hitler and the Nazis.\""
+  },
+  "note": "Yoon Bo-seon rule already exists; label only recased. Host calls it 'Korean Herald', so bracket the correct name."
+ },
+ {
+  "claim": "C-8164",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-238"
+   ]
+  },
+  "note": "Claim names only Glenn Beck and Operation Underground; Ballard not referred to."
+ },
+ {
+  "claim": "C-8193",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim refers to the ABC 13 report only; Branning not named or referred to."
+ },
+ {
+  "claim": "C-8195",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the ABC clip, the reporter says that Abbi Johnson got pregnant at 16 and that her parents sent her across the country to the Liberty Godparent Home with a promise of a scholarship to Liberty University.",
+   "names": [
+    {
+     "wrong": "Abby Johnson",
+     "right": "Abbi Johnson",
+     "source": "https://wset.com/news/local/liberty-lost-podcast-alleges-coercion-and-manipulation-at-liberty-godparent-home-adoption-young-women-pregnancy-maternity-home-thomas-road-baptist-church-july-2025"
+    }
+   ]
+  },
+  "note": "WSET/ABC13 article by Rachel Branning spells her 'Abbi Johnson' (checked)."
+ },
+ {
+  "claim": "C-8196",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "label": "Abbi Johnson Says the Home Had Already Decided on Adoption",
+   "names": [
+    {
+     "wrong": "Abby Johnson",
+     "right": "Abbi Johnson",
+     "source": "https://wset.com/news/local/liberty-lost-podcast-alleges-coercion-and-manipulation-at-liberty-godparent-home-adoption-young-women-pregnancy-maternity-home-thomas-road-baptist-church-july-2025"
+    }
+   ]
+  },
+  "note": "WSET article spells 'Abbi Johnson' (checked)."
+ },
+ {
+  "claim": "C-8223",
+  "episode": 54,
+  "decision": "amend",
+  "fix": {
+   "label": "Washington Post Quotes Ex-Priest Borderlon That Moon Buys Credibility With Academics",
+   "claim": "Reading the 1997 Washington Post article, the host quotes a former Catholic priest, Borderlon, as saying Moon holds conferences on religious founders like Buddha, Jesus and then Moon and gets credibility from academics who attend.",
+   "names": [
+    {
+     "wrong": "Borderlin",
+     "right": "Borderlon",
+     "source": "https://www.washingtonpost.com/wp-srv/national/longterm/cult/unification/main.htm"
+    }
+   ]
+  },
+  "note": "WaPo: 'Marvin Borderlon, a Roman Catholic ex-priest'. Host says only the surname; mis-transcription should not survive as 'rendered Borderlin'."
+ },
+ {
+  "claim": "C-8226",
+  "episode": 54,
+  "decision": "amend",
+  "fix": {
+   "claim": "Reading the 1997 Washington Post article, the host says the International Coalition for Religious Freedom, which Borderlon said signs his checks these days, shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.",
+   "names": [
+    {
+     "wrong": "Borderland said signs his checks",
+     "right": "Borderlon said signs his checks",
+     "source": "https://www.washingtonpost.com/wp-srv/national/longterm/cult/unification/main.htm"
+    }
+   ]
+  },
+  "note": "WaPo: 'the group that Borderlon said signs his checks'. Transcript here reads 'Borderland'; surname only, as read."
+ },
+ {
+  "claim": "C-8241",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "claim": "Responding to a viewer comment, the host says she has seen Jon Bray's work, finds it compelling, and has been communicating with him behind the scenes.",
+   "names": [
+    {
+     "wrong": "John Bray",
+     "right": "Jon Bray",
+     "source": "https://www.ms.now/news/who-killed-charlie-kirk-video-documentary"
+    }
+   ]
+  },
+  "note": "Node N-684 is Jon Bray; existing John Bray rule covers only eps 120/123, so ep 54 needs it."
+ },
+ {
+  "claim": "C-2060",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:40:07"
+  },
+  "note": "'called a coward by Ben Shapiro' falls ~40:13 in the 38:50-40:32 block; 40:07 is right."
+ },
+ {
+  "claim": "C-14161",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:48:42"
+  },
+  "note": "Snippet closes the 47:35-48:56 block (~48:47); 48:42 is right."
+ },
+ {
+  "claim": "C-14165",
+  "episode": 55,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says she was attacked for distrusting the Argentine president, that she has seen claims about what his full last name really is, and that he looks a little like Netanyahu; she calls it a conspiracy."
+  },
+  "note": "'Mileikowsky' is inference (raw 'Mleofsky'; existing rule maps it to Milei): unresolved, no names entry. Claim made neutral."
+ },
+ {
+  "claim": "C-5423",
+  "episode": 57,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that in 2017-2018 Charlie Kirk was required to have security on him at all times, that this was orchestrated, and that his Shaffer security was arranged by the late Bill Montgomery.",
+   "names": [
+    {
+     "wrong": "Schaefer security",
+     "right": "Shaffer security",
+     "source": "https://www.ksl.com/article/ksl-investigates/charlie-kirks-past-security-director-details-gaps-in-uvu-setup/821900"
+    }
+   ]
+  },
+  "note": "KSL: Greg Shaffer ran Kirk's protection 2015-2022. Existing rule is ep 59 only. 'Security Group' not confirmed, dropped."
+ },
+ {
+  "claim": "C-5431",
+  "episode": 57,
+  "decision": "amend",
+  "fix": {
+   "claim": "The Be Inspired clip says millions remember the Berenstain Bears as 'Berenstein' with an E, while every book spells it 'Berenstain' with an A, and calls this the beginning of the Mandela effect.",
+   "names": [
+    {
+     "wrong": "Baron Stain bears",
+     "right": "Berenstain Bears",
+     "source": "https://en.wikipedia.org/wiki/The_Berenstain_Bears"
+    },
+    {
+     "wrong": "Baron Stain with an E",
+     "right": "Berenstein with an E",
+     "source": "https://en.wikipedia.org/wiki/The_Berenstain_Bears"
+    },
+    {
+     "wrong": "Baron Stain with an A",
+     "right": "Berenstain with an A",
+     "source": "https://en.wikipedia.org/wiki/The_Berenstain_Bears"
+    }
+   ]
+  },
+  "note": "Claim fix right; names split so each garble gets the right spelling (E vs A) and not a slash."
+ },
+ {
+  "claim": "C-5470",
+  "episode": 57,
+  "decision": "amend",
+  "fix": {
+   "claim": "Replying to a viewer comment from Dakota that includes the lines 'Reality is catching up with me' and 'taking my inner child', the host says the commenter is referring to the Ye 'Power' verse that Charlie Kirk sent her.",
+   "names": [
+    {
+     "wrong": "yay power verse",
+     "right": "Ye 'Power' verse",
+     "source": "https://genius.com/Kanye-west-power-lyrics"
+    }
+   ]
+  },
+  "note": "Lines are from Ye's 'Power'. Replacement trimmed to a plain transcript form."
+ },
+ {
+  "claim": "C-2108",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says, citing people based at Fort Huachuca who contacted her, that members of the *November Renaissance* cast have Fort Huachuca or military ties: Clayton Haugen does marketing for defense contractor Dillon Aero; Don Frye trained in judo at Fort Huachuca; Payton McCormick's father was once stationed there; Priscilla Ann Nu'ul's father was a lieutenant stationed there. For Chantal Thuy she cites only that her dad worked on AI for IBM, and for Price Mitchum only a psych hold.",
+   "names": [
+    {
+     "wrong": "Dillon Aero Space",
+     "right": "Dillon Aero",
+     "source": "https://en.wikipedia.org/wiki/Dillon_Aero ; https://www.claytonhaugen.com/"
+    }
+   ]
+  },
+  "note": "Dillon Aero confirmed (Wikipedia; Haugen's site lists Dillon Aero). Other ties match transcript."
+ },
+ {
+  "claim": "C-2115",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, per a Daily Wire Plus article, Nelda Buckman gave an exclusive interview in January describing a close post-assassination relationship with Erika, including a private meeting in Florida ahead of America Fest and a dedication ceremony, and saying she offered Erika personal support about navigating her new reality as a single mother leading the organization."
+  },
+  "note": "Host paraphrases the Daily Wire Plus article; '2026' not said."
+ }
+]

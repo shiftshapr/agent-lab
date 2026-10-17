@@ -110,7 +110,7 @@ Happy to correct that. But then also, got close to the victim's family and the v
 
 [17:56]
 
-Okay? Let's keep going. Okay? April 6th, it leaves and it always goes through Delaware when it leaves and goes back to Cairo, okay? Now, I am just kind of putting down for you here again other places where Charlie's here where he is cuz I know that I'm going to this is going to build into my timeline. You know, I'm looking in and Sean Feucht is in in Israel related to some more faith stuff. I don't know if Turning Point sponsors that trip or not. That's why I put a note there. Charlie at that is speaking in Sacramento on the April 13th, yellow plane again comes in. This time, it flies to Kansas. Cairo to Kansas. And on April 23rd, Sean Feucht heads up the TPUSA Faith Kingdom to the Capital Tour event, which happens to be in Topeka, Kansas.
+Okay? Let's keep going. Okay? April 6th, it leaves and it always goes through Delaware when it leaves and goes back to Cairo, okay? Now, I am just kind of putting down for you here again other places where Charlie's here where he is cuz I know that I'm going to this is going to build into my timeline. You know, I'm looking in and Sean Feucht is in in Israel related to some more faith stuff. I don't know if Turning Point sponsors that trip or not. That's why I put a note there. Charlie at that is speaking in Sacramento on the April 13th, yellow plane again comes in. This time, it flies to Kansas. Cairo to Kansas. And on April 23rd, Sean Feucht heads up the TPUSA Faith Kingdom to the Capitol Tour event, which happens to be in Topeka, Kansas.
 
 [18:48]
 

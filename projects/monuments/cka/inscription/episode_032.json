@@ -628,7 +628,7 @@
       "@type": "Person",
       "@id": "N-252",
       "ref": "N-252",
-      "name": "Robin Taylor",
+      "name": "Rob Taylor",
       "type": "person",
       "description": "Lou Taylor's husband; pastor at Calvary Chapel Brentwood per Brett Cooper segment. Transcript renders the name in three different forms (Robin, Rob, Luke); the same individual is plainly referenced. Multiple occurrences warrant separate recording correction.",
       "related_artifacts": [
@@ -983,9 +983,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10252",
       "ref": "N-10252",
-      "name": "Potter's Fields Hostile Takeover Allegation",
+      "name": "Potter's Field Hostile Takeover Allegation",
       "type": "investigation_target",
-      "description": "Allegation from a former insider that the Potter's Fields scandal was a staged hostile takeover by Rob McCoy following his installation as CFO. New evidence: email backup materials reportedly provided to host (not yet presented).",
+      "description": "Allegation from a former insider that the Potter's Field scandal was a staged hostile takeover by Rob McCoy following his installation as CFO. New evidence: email backup materials reportedly provided to host (not yet presented).",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -1376,7 +1376,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10247",
       "ref": "N-10247",
-      "name": "Potter's Fields Ministries Financial Fraud Allegations",
+      "name": "Potter's Field Ministries Financial Fraud Allegations",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1482,7 +1482,7 @@
       "@type": "Person",
       "@id": "N-248",
       "ref": "N-248",
-      "name": "Elijah Schaefer",
+      "name": "Elijah Schaffer",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1874,7 +1874,7 @@
       "@id": "C-1703",
       "ref": "C-1703",
       "label": "Courtney Love Claims She Was Experimented on at Haight-Ashbury Clinic as a Toddler",
-      "claim": "The host says Courtney Love told her in messages (Jan 2025) that she was experimented on as a toddler at the Haight-Ashbury Clinic and was given LSD; the host describes this as the era when the CIA was dosing hippies in mass experimentation.",
+      "claim": "The host says Courtney Love told her in messages (January and February 2025) that she was experimented on as a toddler at the Haight-Ashbury Clinic and was given LSD; the host describes this as the era when the CIA was dosing hippies in mass experimentation.",
       "anchored_artifacts": [
         "A-1406.1"
       ],
@@ -1893,7 +1893,7 @@
       "@id": "C-1704",
       "ref": "C-1704",
       "label": "Courtney Love Claims She Did Not Kill Kurt Cobain",
-      "claim": "The host says Courtney Love told her in messages (Jan 2025): \"I did not kill Kurt Cobain. That was a part of a psychological operation to make the masses look away from what the CIA was guilty of.\"",
+      "claim": "The host says Courtney Love told her in messages (January and February 2025): \"I did not kill Kurt Cobain. That was a part of a psychological operation to make the masses look away from what the CIA was guilty of.\"",
       "anchored_artifacts": [
         "A-1406.1"
       ],
@@ -1910,7 +1910,7 @@
       "@id": "C-1705",
       "ref": "C-1705",
       "label": "Courtney Love Alleges \"Mormon Mafia\" Sits Above Hollywood and \"Zionist Jews\"",
-      "claim": "Per Courtney Love text messages (Jan 2025), she alleges a \"Mormon mafia\" operates above Hollywood and above \"many Zionist Jews.\"",
+      "claim": "Per Courtney Love text messages (January and February 2025), she alleges a \"Mormon mafia\" operates above Hollywood and above \"many Zionist Jews.\"",
       "anchored_artifacts": [
         "A-1406.1"
       ],
@@ -1930,7 +1930,7 @@
       "@id": "C-1706",
       "ref": "C-1706",
       "label": "Courtney Love Names Lou Taylor as Connected to Multiple High-Profile Figures",
-      "claim": "Per Courtney Love text messages (Jan 2025), she states Lou Taylor is connected to Kim Kardashian, Diddy, Jay-Z, and Beyoncé, and that Lou Taylor owns or sat on the board of a \"church home\" associated with Hillsong / Justin Bieber.",
+      "claim": "Per Courtney Love text messages (January and February 2025), she names Lou Taylor alongside Kim Kardashian, Diddy, Jay-Z, and Beyoncé and says Lou Taylor owns Church Home, associated with getting Justin Bieber from Hillsong; the host says she looked it up and Taylor appears to own or have sat on its board.",
       "anchored_artifacts": [
         "A-1406.1"
       ],
@@ -2078,7 +2078,7 @@
       "@type": "Claim",
       "@id": "C-1714",
       "ref": "C-1714",
-      "label": "Wall Street Journal Repeated \"Heir Ali\" / \"Heir Apparent\" Framing for TPUSA",
+      "label": "Wall Street Journal Repeated \"Heir Apparent\" Framing of Allie Beth Stuckey",
       "claim": "The host says the Wall Street Journal repeated the \"heir apparent\" framing of Allie Beth Stuckey for TPUSA.",
       "anchored_artifacts": [
         "A-1413.1"
@@ -2583,8 +2583,8 @@
       "@type": "Claim",
       "@id": "C-10857",
       "ref": "C-10857",
-      "label": "Host Cites Lawfare Bankruptcy Strategy and Says It Applies to Elijah Schaefer",
-      "claim": "The host says another way critics are controlled is lawfare that bankrupts them, and that what is happening to Elijah Schaefer is relevant to this.",
+      "label": "Host Cites Lawfare Bankruptcy Strategy and Says It Applies to Elijah Schaffer",
+      "claim": "The host says another way critics are controlled is lawfare that bankrupts them, and that what is happening to Elijah Schaffer is relevant to this.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11275"
@@ -2593,8 +2593,8 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:23:03",
-      "investigative_direction": "Review the legal actions against Elijah Schaefer and their funding.",
-      "transcript_snippet": "another way that they accomplish this is via lawfare, they will bankrupt you. Okay, this is why what's happening to Elijah Schaefer, this is relevant.",
+      "investigative_direction": "Review the legal actions against Elijah Schaffer and their funding.",
+      "transcript_snippet": "another way that they accomplish this is via lawfare, they will bankrupt you. Okay, this is why what's happening to Elijah Schaffer, this is relevant.",
       "mentions_person_refs": [
         "N-3",
         "N-248"

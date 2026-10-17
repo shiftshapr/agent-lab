@@ -43,7 +43,7 @@
 
 Third, a Phil Lyman campaign endorsement by George Zinn is documented via Wayback Machine dating back to at least June 6, 2024; this is presented to address earlier speculation rather than to advance new claims.
 
-Fourth, a video clip of Benjamin Netanyahu meeting influencer Debra Lea is read/played, with Netanyahu naming TikTok and X – and Elon Musk – as the principal platforms in a described influence "battle." Fifth, host-read/displayed tweets between Megyn Kelly, "Florida Dab," and Konstantin Kisin are used as artifacts to frame pressure on Kelly. Sixth, a producer-supplied note identifying a former IDF soldier as TikTok's new Public Policy Manager of Hate Speech is read aloud.
+Fourth, a video clip of Benjamin Netanyahu meeting influencer Debra Lea is read/played, with Netanyahu naming TikTok and X – and Elon Musk – as the principal platforms in a described influence "battle." Fifth, host-read/displayed tweets between Megyn Kelly, "Florida Dad," and Konstantin Kisin are used as artifacts to frame pressure on Kelly. Sixth, a producer-supplied note identifying a former IDF soldier as TikTok's new Public Policy Manager of Hate Speech is read aloud.
 
 The episode also contains extensive speculation about overseas "military operation" framing, "Robbie Hild" identity skepticism, and a rumored Tyler Robinson / Mike Mitchell connection; these are recorded here only under Optional Flags for failure to meet the Claim Admission Test.
 
@@ -51,9 +51,9 @@ The episode also contains extensive speculation about overseas "military operati
 
 ## III. Artifact Register
 
-### A-1196 Shaner Broadick Deleted Video Bundle
+### A-1196 Shaner Broderick Deleted Video Bundle
 
-**A-1196.1** Video clip: Shaner Broadick and Lyman-family aunt review/tracing the shooter's route on camera; aunt states "I wondered if the girl had given him stuff…if there is an accomplice."
+**A-1196.1** Video clip: Shaner Broderick and Lyman-family aunt review/tracing the shooter's route on camera; aunt states "I wondered if the girl had given him stuff…if there is an accomplice."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -161,9 +161,9 @@ Confidence Level: High (clip played on air)
 
 ---
 
-### A-1201 Florida Dab Tweet Bundle
+### A-1201 Florida Dad Tweet Bundle
 
-**A-1201.1** X post by "Florida Dab" addressed to Megyn Kelly: "If you can't separate yourself from Candace Owens, many of us are going to separate ourselves from you…" followed by "We do not have to align with everyone that claims to be of the right when their motives and history are as shady as hers."
+**A-1201.1** X post by "Florida Dad" addressed to Megyn Kelly: "If you can't separate yourself from Candace Owens, many of us are going to separate ourselves from you…" followed by "We do not have to align with everyone that claims to be of the right when their motives and history are as shady as hers."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -177,7 +177,7 @@ Confidence Level: High
 
 ### A-1202 Megyn Kelly Reply Tweet Bundle
 
-**A-1202.1** X reply by Megyn Kelly to Florida Dab refusing to condemn Candace Owens or Tucker Carlson
+**A-1202.1** X reply by Megyn Kelly to Florida Dad refusing to condemn Candace Owens or Tucker Carlson
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -504,7 +504,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-137** Erika "Erikica" Mindel
+**N-137** Erica Mindel
 Self-described in host's producer note as American Israeli Jewish former IDF soldier; named as TikTok Public Policy Manager of Hate Speech since July 2025.
 
 Evidence Count: 1
@@ -516,7 +516,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-138** Florida Dab (X handle)
+**N-138** Florida Dad (X handle)
 X account characterized by host as "Ziobot"/pro-Israel; initiated the social-media pressure exchange with Megyn Kelly over separation from Candace Owens.
 
 Evidence Count: 1
@@ -529,7 +529,7 @@ Investigative Pressure: Low
 ---
 
 **N-139** Konstantin Kisin
-X account / commenter who joined the Florida Dab → Megyn Kelly thread; described by host as an "agent of Israel."
+X account / commenter who joined the Florida Dad → Megyn Kelly thread; described by host as an "agent of Israel."
 
 Evidence Count: 2
 Claim Count: 1
@@ -591,7 +591,7 @@ Investigative Pressure: High (cooperative witness)
 ### Investigation Targets
 
 **N-10152** Unidentified Female / "Accomplice" in Shooter Footage
-Persistent target referenced across host reporting, anonymous tip, and Shaner Broadick footage; the FBI has not, per host, publicly identified or released her.
+Persistent target referenced across host reporting, anonymous tip, and Shaner Broderick footage; the FBI has not, per host, publicly identified or released her.
 
 Evidence Count: 3
 Claim Count: 2
@@ -610,7 +610,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1196.1, N-132 (Shaner Broadick context)*
+*Related: A-1196.1, N-132 (Shaner Broderick context)*
 
 ---
 
@@ -1142,7 +1142,7 @@ Investigative Direction: Verify current status of the endorsement on the live Ly
 
 Claim Timestamp: 00:01:30
 
-Claim: The host says she was told that Turning Point USA did not book State Farm Stadium in advance, and that the White House placed a personal call to the event coordinator and obtained the date by having a previously booked RV show rescheduled.
+Claim: The host says she was told that Turning Point USA did not book State Farm Stadium in advance, and that the White House placed a personal call to the event coordinator and obtained the date by asking a previously booked event, apparently an RV show, to move or reschedule.
 
 Anchored Artifacts: A-1198.1
 Mentions: 
@@ -1156,7 +1156,7 @@ Investigative Direction: Cross-check White House and TPUSA communications logs; 
 
 Claim Timestamp: 00:10:44
 
-Claim: In footage recorded by Shaner Broadick, his aunt (identified as a Lyman family member) states on camera that she wondered if "the girl" had given the shooter items and that there might have been an accomplice.
+Claim: In footage recorded by Shaner Broderick, his aunt (identified as a Lyman family member) states on camera that she wondered if "the girl" had given the shooter items and that there might have been an accomplice.
 
 Anchored Artifacts: A-1196.1
 Mentions: N-40, N-132, N-143
@@ -1254,11 +1254,11 @@ Investigative Direction: Verify the full quote in its original-language form; id
 
 ---
 
-**C-1347** "Florida Dab" account on X demanded Megyn Kelly separate from Candace Owens
+**C-1347** "Florida Dad" Account on X Demanded Megyn Kelly Separate From Candace Owens
 
 Claim Timestamp: 00:35:01
 
-Claim: Per the X post the host shows, an account identifying as "Florida Dab" told Megyn Kelly she must separate from Candace Owens, or "many of us" would separate from Kelly.
+Claim: Per the X post the host shows, an account identifying as "Florida Dad" told Megyn Kelly she must separate from Candace Owens, or "many of us" would separate from Kelly.
 
 Anchored Artifacts: A-1201.1
 Mentions: N-138, N-3, N-46
@@ -1272,7 +1272,7 @@ Investigative Direction: Archive the original post; identify the account's opera
 
 Claim Timestamp: 00:35:17
 
-Claim: The host shows a post in which Megyn Kelly replies to Florida Dab that she has no obligation to separate herself from anyone and that if he needs her to condemn Candace or Tucker for their opinions in order to listen to her, she may not be for him.
+Claim: The host shows a post in which Megyn Kelly replies to Florida Dad that she has no obligation to separate herself from anyone and that if he needs her to condemn Candace or Tucker for their opinions in order to listen to her, she may not be for him.
 
 Anchored Artifacts: A-1202.1, A-1203.2
 Mentions: N-138, N-46, N-22, N-3
@@ -1455,7 +1455,7 @@ Claim: The host says that on a previous live show someone paid to inform her tha
 Transcript Snippet: someone paid money uh to inform us that there was footage that the FBI was hiding.
 
 Anchored Artifacts: A-3107.1
-Mentions: N-3, N-61
+Mentions: N-3
 Related Nodes: N-10052, N-10135
 Tags: relevance:core
 Investigative Direction: Retrieve the earlier paid message and the tipster's identity, and compare her description with the doorbell footage released by TMZ.
@@ -1514,7 +1514,7 @@ Investigative Direction: Establish TMZ's first publication time and source for t
 
 Claim Timestamp: 00:12:15
 
-Claim: The host says the woman heard on Shaner's clip is the person who handed her footage to the FBI, and that she has therefore confirmed twice, once from the aunt's own words and once from her source, that a woman was with the shooter.
+Claim: The host says the woman heard on Shaner's clip is the person who handed her footage to the FBI, and that she now has both her source and the aunt's own words indicating that a woman was with the shooter.
 
 Transcript Snippet: now we have actually the woman who handed over her footage to the FBI saying, "I wondered if that woman was an accomplice, ladies and gentlemen.
 
@@ -1562,7 +1562,7 @@ Investigative Direction: Obtain the text or message exchange between the host an
 
 Claim Timestamp: 00:14:45
 
-Claim: The host says Phil Lyman said on a Fox News segment with Kaylee McEnany that he was at a cousin's house watching live and seeing the footage for the first time, while the cousin had already given footage to TMZ.
+Claim: The host says Phil Lyman said on a Fox News segment with Kayleigh McEnany that he was at a cousin's house watching live and seeing the footage for the first time, while the cousin had already given footage to TMZ.
 
 Transcript Snippet: You were watching it live with Kayleigh McEnany on Fox News. That's what you said during that segment, right?
 
@@ -1943,7 +1943,7 @@ Investigative Direction: Obtain and authenticate the text messages.
 
 Claim Timestamp: 00:34:10
 
-Claim: The host says Megyn Kelly tweeted her episode saying to listen to Charlie in his own words, and that Florida Dab replied by demanding she separate from the host.
+Claim: The host says Megyn Kelly tweeted her episode saying to listen to Charlie in his own words, and that Florida Dad replied by demanding she separate from the host.
 
 Transcript Snippet: Megyn Kelly tweeted her episode and said, "Listen to Charlie in his own words about what he was going through."
 
@@ -2037,7 +2037,7 @@ Investigative Direction: Identify when and to whom Charlie expressed this.
 
 Claim Timestamp: 00:38:30
 
-Claim: The host reads a reply from Kissen saying he demands nothing of Kelly and asks why lies told by prominent people on the right should not be challenged like lies on the left, and Kelly answering that his response proves the opposite.
+Claim: The host reads a reply from Kisin saying he demands nothing of Kelly and asks why lies told by prominent people on the right should not be challenged like lies on the left, and Kelly answering that his response proves the opposite.
 
 Transcript Snippet: I demand nothing of you. And in coming from a position of great respect
 
@@ -2195,7 +2195,7 @@ Investigative Direction: Review event video of the security team's reaction and 
 
 Claim Timestamp: 00:45:57
 
-Claim: The host says the security firm made a lot of money off Charlie, and that Charlie ended up buying Turning Point USA and taking on the security firm.
+Claim: The host says the security firm was making a lot of money off Charlie and that it was taken on by Turning Point USA.
 
 Transcript Snippet: the amount of money that they were making off of Charlie because Charlie ended up buying Turning Point USA, ended up taking on that security firm.
 
@@ -2390,7 +2390,7 @@ Transcript Snippet: only if you have a tip uh that can help us crack this myster
 
 Anchored Artifacts: A-3100.4
 Mentions: N-3
-Tags: relevance:core,dia
+Tags: dia, relevance:core
 Investigative Direction: Review tip line submissions.
 
 ---
@@ -2543,7 +2543,7 @@ Confidence: high
 Video Timestamp: 00:34:10
 Speaker: N-3
 Quote: that's why I say they're Mr. Smith from the Matrix
-Context: Host repeats the label while describing Kisin and Florida Dab.
+Context: Host repeats the label while describing Kisin and Florida Dad.
 Tags: agents,matrix
 Confidence: high
 

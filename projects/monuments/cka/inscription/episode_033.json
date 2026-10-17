@@ -1293,7 +1293,7 @@
       "@type": "Person",
       "@id": "N-473",
       "ref": "N-473",
-      "name": "Zack Gregorio (Wolves and Finance)",
+      "name": "Zach De Gregorio (Wolves and Finance)",
       "type": "person",
       "description": "Wolves and Finance YouTube channel whose TPUSA filings report is played on air.",
       "related_artifacts": [],
@@ -1825,7 +1825,7 @@
       "@id": "C-1725",
       "ref": "C-1725",
       "label": "N560TW Made a Round-Trip Flight Scottsdale–Provo–Santa Barbara–Scottsdale on September 10",
-      "claim": "Host reports that tail N560TW departed Scottsdale, Arizona on September 10 and landed at Provo at 10:06 a.m. local time, then departed for Santa Barbara and later returned to Scottsdale by 12:44 p.m.",
+      "claim": "Host reports that tail N560TW departed Scottsdale, Arizona on September 10 and landed at Provo at 10:06 a.m., then departed for Santa Barbara and later returned to Scottsdale by 12:44 p.m.",
       "anchored_artifacts": [
         "A-1422.1"
       ],
@@ -2221,7 +2221,7 @@
       "@id": "C-12356",
       "ref": "C-12356",
       "label": "Host Says in Her Book Club Audio That Charlie Was Truly Betrayed and She Lost Faith in Trump",
-      "claim": "In the book club audio played on air the host says everyone just knows Charlie was truly betrayed in one of the most egregious ways she has seen and that this has made her fully lose faith in Trump.",
+      "claim": "In the book club audio played on air the host says 'we just know' Charlie was truly betrayed in one of the most egregious ways she has seen and that this has made her fully lose faith in Trump.",
       "anchored_artifacts": [
         "A-1417.1"
       ],
@@ -2287,7 +2287,7 @@
       "@id": "C-12359",
       "ref": "C-12359",
       "label": "Host Says Erika Kirk Was Not a TPUSA Employee Leading Up to Charlie's Death",
-      "claim": "The host says that when she said people at Turning Point USA betrayed Charlie, she was not referring to Erika Kirk because Erika was not an employee of Turning Point USA leading up to his death.",
+      "claim": "The host says her remark that everyone betrayed Charlie was not about Erika Kirk and more obviously suggested that people at Turning Point USA betrayed him, which she says Erika was not an employee of leading up to his death.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"

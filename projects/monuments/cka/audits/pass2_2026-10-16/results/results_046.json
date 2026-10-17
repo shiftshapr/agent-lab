@@ -1,0 +1,808 @@
+[
+ {
+  "claim": "C-6613",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6614",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6615",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6616",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6617",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Clip only says 'didn't have a record.' The clause about the host's earlier 1990 probation statement is an archive comparison, not said here (belongs in the Contradicts link).",
+  "fix": {
+   "claim": "In the played clip, Camino says he did not have a record before the eight-year sentence."
+  }
+ },
+ {
+  "claim": "C-6618",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'They broke the law twice' is spoken ~16:55, about 70s after 15:45; within tolerance.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6619",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6620",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Pompo Beach' is a garble of Pompano Beach (label already says Pompano); '(transcribed as Bob Coy)' is redundant. Bob Coy confirmed (Calvary Chapel Fort Lauderdale).",
+  "fix": {
+   "claim": "The host says the founder of Calvary Chapel in Pompano Beach, Florida was a pastor named Bob Coy, a former Las Vegas casino entertainment director, who was accused of molesting a 4-year-old girl, and she stresses he is not Rob McCoy.",
+   "names": [
+    {
+     "wrong": "Pompo Beach",
+     "right": "Pompano Beach",
+     "source": "https://en.wikipedia.org/wiki/Bob_Coy"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6621",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6622",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Calvary Chapel Carrie' is Calvary Chapel Cary (NC); pastor Rodney Finch resigned 2024 amid bullying, misuse of funds, substance-abuse allegations.",
+  "fix": {
+   "claim": "The host says the lead pastor of Calvary Chapel Cary resigned amid allegations of incest with his own son, bullying, drug addiction and misuse of funds.",
+   "label": "Host Says a Calvary Chapel Cary Lead Pastor Resigned Amid Incest and Fund-Misuse Allegations",
+   "names": [
+    {
+     "wrong": "Calvary Chapel Carrie",
+     "right": "Calvary Chapel Cary",
+     "source": "https://roysreport.com/embattled-calvary-chapel-pastor-abruptly-resigns-days-trying-sell-church/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6623",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: 'the lead pastor named Mission Viejo'; claim reads it as the church location, a reasonable reading.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6624",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Jason James Taylor confirmed (Calvary Chapel Solid Rock, New Richmond WI); claim records host's 'Minnesota' wording as said.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6625",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim content begins 'Then in Santa Ana... North County Chapel in Post Falls' at ~20:16, ~44s before 21:00. Church is North Country Chapel; Iglesias and Pastor Robert 'Bob' Davis confirmed.",
+  "fix": {
+   "claim": "The host says the North Country Chapel in Post Falls, Idaho is being sued by victims alleging it concealed a known predator, Anthony Iglesias, now serving time in an Idaho prison, and that the lawsuit alleges Reverend Robert Davis told the parents they knew his history and had pulled him out of Thailand, an orphanage program.",
+   "timestamp": "00:20:11",
+   "names": [
+    {
+     "wrong": "North County Chapel",
+     "right": "North Country Chapel",
+     "source": "https://www.seattletimes.com/seattle-news/2-idaho-churches-protected-predator-suit-says/"
+    },
+    {
+     "wrong": "Eglacius",
+     "right": "Anthony Iglesias",
+     "source": "https://www.seattletimes.com/seattle-news/2-idaho-churches-protected-predator-suit-says/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6626",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6627",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Doug DeAndrea confirmed (former Calvary Chapel Danville pastor, pleaded guilty 2022).",
+  "fix": {}
+ },
+ {
+  "claim": "C-6628",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6629",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Jeffrey Zizz confirmed (ex-Calvary Chapel pastor, 82-year-old victim entombed in concrete, Olympia/Thurston County WA). 'North Thirsten' garbles Thurston; host's 'Oregon' kept as said.",
+  "fix": {
+   "claim": "The host says the lead pastor of a Calvary Chapel in North Thurston, Oregon, Jeffrey Zizz, confessed to sexual misconduct involving his three daughters over two years, served 11 months, and after release murdered an 82-year-old woman and poured concrete over her body.",
+   "names": [
+    {
+     "wrong": "North Thirsten",
+     "right": "North Thurston",
+     "source": "https://roysreport.com/former-calvary-chapel-pastor-charged-with-murder-of-82-year-old-grandmother/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6630",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6631",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6632",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Ministry is Potter's Field Ministries (Whitefish MT), not 'Potter's Fields'.",
+  "fix": {
+   "claim": "The host says Potter's Field is an area in Whitefish, Montana where the Calvary Church Association funded a ministry that became Potter's Field Ministries, with a hunting ground, a camp for kids, a student program called Ignite and a burger chain.",
+   "label": "Host Says the Calvary Church Association Funded Potter's Field Ministries in Whitefish, Montana",
+   "names": [
+    {
+     "wrong": "Potter's Fields Ministries",
+     "right": "Potter's Field Ministries",
+     "source": "https://www.mtpr.org/montana-news/2019-07-25/potters-field-ministries-allegedly-diverted-funds-from-kids-food-program"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6633",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Organisation name is Potter's Field Ministries.",
+  "fix": {
+   "claim": "The host says that in 2019 Potter's Field Ministries came under a scandal with reports of financial and psychological abuse, and that Calvary Chapel members were funding it believing the money fed and clothed children in Uganda, Cambodia, Costa Rica and Guatemala.",
+   "label": "Host Says Potter's Field Came Under a 2019 Scandal Over Where Donor Money Went",
+   "names": [
+    {
+     "wrong": "Potter's Fields Ministries",
+     "right": "Potter's Field Ministries",
+     "source": "https://www.mtpr.org/montana-news/2019-07-25/potters-field-ministries-allegedly-diverted-funds-from-kids-food-program"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6634",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Node N-766 'Kenny' is a garble: the former intern who handled finances is Kenzie Kinney (MTPR 2019, which also has the 500/20-kids quotes). Ministry is Potter's Field.",
+  "fix": {
+   "claim": "The host reads quotes attributed to a former Ignite student named Kenzie Kinney, who handled Potter's Field finances, that a very high guess of children in the program was 500 across five countries, that she worked with about 20 kids weekly, that videos of hundreds of fed children came from infrequent conferences, and that workers were told to photoshop old letters and cut off dates before mailing them to donors.",
+   "names": [
+    {
+     "wrong": "Kenny",
+     "right": "Kenzie Kinney",
+     "source": "https://www.mtpr.org/montana-news/2019-07-25/potters-field-ministries-allegedly-diverted-funds-from-kids-food-program"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6635",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Organisation name is Potter's Field Ministries.",
+  "fix": {
+   "claim": "The host says that after announcing it was shutting down in 2019, Potter's Field Ministries brought in Pastor Rob McCoy as CFO, and that the money was transferred into his church, which she says was done above board with the people notified.",
+   "label": "Host Says Potter's Field Brought In Rob McCoy as CFO and Its Money Went into His Church",
+   "names": [
+    {
+     "wrong": "Potter's Fields Ministry",
+     "right": "Potter's Field Ministries",
+     "source": "https://www.mtpr.org/montana-news/2019-07-25/potters-field-ministries-allegedly-diverted-funds-from-kids-food-program"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6636",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6637",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6638",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6639",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6640",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'has gone like masked down' is garbled (unresolved phrase, perhaps 'meltdown'); claim repeats it as if said. Safer to keep only 'seems to be coming undone'.",
+  "fix": {
+   "claim": "The host says she received emails saying Pastor Jack Hibbs seems to be coming undone and is hosting 5 a.m. calls against her and Tucker Carlson."
+  }
+ },
+ {
+  "claim": "C-6641",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6642",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6643",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6644",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6645",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6646",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6647",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Sean Fo = Sean Feucht (well-known); claim already hedges the transcription.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6648",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6649",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6650",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6651",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6652",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6653",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6654",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6655",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6656",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6657",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6658",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6659",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6660",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6661",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6662",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6663",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6664",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6665",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6666",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript reads 'Bob Shillman' (Robert Shillman, N-98); viewer comment correctly attributed.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6667",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6668",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6669",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6670",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6671",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6672",
+  "episode": 31,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'pavers' spoken ~56:51, ~71s after 55:40; at edge of tolerance.",
+  "fix": {}
+ }
+]

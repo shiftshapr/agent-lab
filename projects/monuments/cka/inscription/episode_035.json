@@ -1337,7 +1337,7 @@
       "@type": "Person",
       "@id": "N-218",
       "ref": "N-218",
-      "name": "Eliza McCoy",
+      "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Elizabeth McCoy, who the host says ran out of TPUSA headquarters when she heard the news.",
       "related_artifacts": [],
@@ -1896,7 +1896,7 @@
       "@id": "C-1752",
       "ref": "C-1752",
       "label": "Per FBI Press Release Host Reads, Wray Cited Partnerships in Wilmington December 2024",
-      "claim": "Per an FBI press release dated December 5, 2024 that the host reads, Director Christopher Wray emphasized \"key partners\" and described partnerships as closer than 5 or 10 years prior.",
+      "claim": "Per the anonymous email the host reads, which quotes an FBI press release dated December 5, 2024, Director Christopher Wray emphasized \"key partners\" and described partnerships as closer than 5 or 10 years prior.",
       "anchored_artifacts": [
         "A-1440.1"
       ],
@@ -1980,7 +1980,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:42:03–00:44:03",
+      "claim_timestamp": "00:43:10",
       "investigative_direction": "Locate Tim Pool's original video and timestamp the quoted language.",
       "mentions_person_refs": [
         "N-2",
@@ -2002,7 +2002,7 @@
         "N-10268"
       ],
       "tags": [],
-      "claim_timestamp": "00:44:03–00:44:52",
+      "claim_timestamp": "00:43:35",
       "investigative_direction": "Locate Tim Pool's original video and confirm AmFest / Afest naming and exact quoted language.",
       "mentions_person_refs": [
         "N-268"
@@ -2843,7 +2843,7 @@
       "@id": "C-8012",
       "ref": "C-8012",
       "label": "Host Alleges Government Is Spending Hundreds of Millions on a Psychological Operation",
-      "claim": "The host alleges the government is spending hundreds of millions of dollars on a psychological operation to convince people not to believe their own eyes and to accept the idea that Charlie ate 3,000 pounds of energy.",
+      "claim": "The host asks the government whether it is just going to keep spending hundreds of millions of dollars on a psychological operation to convince people not to believe their own eyes and to accept the idea that Charlie ate 3,000 pounds of energy.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10180"
@@ -3165,8 +3165,8 @@
         "N-10000"
       ],
       "tags": [
-        "relevance:core",
-        "dia"
+        "dia",
+        "relevance:core"
       ],
       "claim_timestamp": "00:30:25",
       "investigative_direction": "Collect and verify tips received through the tip line against interview transcripts and timestamps.",

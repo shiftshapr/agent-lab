@@ -1,0 +1,787 @@
+[
+ {
+  "claim": "C-14176",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14177",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14178",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14179",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14180",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14181",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14182",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14183",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14184",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14185",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Mentions include N-271 Dan Flood, who is not named in the claim (host: 'Mr. Flood Dan's father Robert Eugene Flood probably knew Bill Montgomery').",
+  "fix": {
+   "mentions": [
+    "N-471",
+    "N-457",
+    "N-1",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-14186",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Montgomery's Air Force background ('Bill Montgomery was also military as well. Air Force') is background, not the assassination itself; sibling C-14185 is context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-14187",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says 'formerly named the Children's Creative Academy'; the school's actual former name is Creative Children's Academy (questacademy.org, Wikipedia).",
+  "fix": {
+   "claim": "The host says the school she calls the X-Men school that Charlie Kirk attended is Quest Academy in Palatine, Illinois, formerly named the Creative Children's Academy (spoken as Children's Creative Academy).",
+   "names": [
+    {
+     "wrong": "Children's Creative Academy",
+     "right": "Creative Children's Academy",
+     "source": "https://en.wikipedia.org/wiki/Quest_Academy_(Palatine,_Illinois)"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14188",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14189",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14190",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14191",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim correct ('Shaffer Security, which was run by Greg Shaffer'). Related node N-11038 'Scheper Security' is garbled: firm is Shaffer Security (Group).",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Scheper Security",
+     "right": "Shaffer Security (Shaffer Security Group)",
+     "source": "https://ksltv.com/ksl-investigates/charlie-kirks-past-security-director-details-gaps-in-uvu-setup/821900/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14192",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14193",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14194",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14195",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Buckman names confirmed in earlier passes (wltreport, Jan 2026).",
+  "fix": {}
+ },
+ {
+  "claim": "C-14196",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14197",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Rick Cutler spelling consistent with other episodes; not separately confirmed: unresolved name: Rick Cutler.",
+  "fix": {}
+ },
+ {
+  "claim": "C-14198",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14199",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript reads 'running for county sheriff in Erath, Texas'; the parenthetical '(rendered Arth in the transcript)' is no longer true of the corrected transcript.",
+  "fix": {
+   "claim": "The host says Bobby Harpole gave an interview in 2018 while he was running for county sheriff in Erath County, Texas."
+  }
+ },
+ {
+  "claim": "C-14200",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14201",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14202",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14203",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14204",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Node N-473 name garbled: Wolves and Finance host is Zach De Gregorio (transcript 'Zach De Gregorio'; LinkedIn). Claim text itself does not use the garbled name.",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14205",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Node N-473 name garbled: Wolves and Finance host is Zach De Gregorio (transcript 'Zach De Gregorio'; LinkedIn). ",
+  "fix": {
+   "claim": "Zach De Gregorio says in the clip that the letter does not address most of his questions and is the precursor to a lawsuit unless he changes his statements.",
+   "label": "De Gregorio Says the Letter Does Not Answer His Questions and Precedes a Lawsuit Unless He Changes His Statements",
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14206",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Node N-473 name garbled: Wolves and Finance host is Zach De Gregorio (transcript 'Zach De Gregorio'; LinkedIn). ",
+  "fix": {
+   "claim": "The host says a cease and desist should not open with we don't intend to sue you, and says De Gregorio is correct that it is the first step toward suing.",
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14207",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14208",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14209",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Speaker identified as Gary by Kolvet ('I completely understand Gary'); surname not given. No node.",
+  "fix": {}
+ },
+ {
+  "claim": "C-14210",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14211",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14212",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14213",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14214",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14215",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Node N-473 name garbled: Wolves and Finance host is Zach De Gregorio (transcript 'Zach De Gregorio'; LinkedIn). ",
+  "fix": {
+   "claim": "Zach De Gregorio says on December 7 he posted a video called Top 10 Clowns of the Year, with Turning Point as his number one clown, which discussed the chief security person's drone statement and Frank Turek's interview.",
+   "label": "De Gregorio Says He Posted a December 7 Video Naming TPUSA Number One Clown",
+   "names": [
+    {
+     "wrong": "Zack Gregorio",
+     "right": "Zach De Gregorio",
+     "source": "https://www.linkedin.com/in/zach-de-gregorio-b3b9b716/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14216",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14217",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14218",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14219",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14220",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Ben Carollo confirmed (YouTube 'Charlie Kirk Debates Trans Marxist Ben Carollo').",
+  "fix": {}
+ },
+ {
+  "claim": "C-14221",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14222",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14223",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14224",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14225",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14226",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14227",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14228",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14229",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14230",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14231",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14232",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14233",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14234",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14235",
+  "episode": 59,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

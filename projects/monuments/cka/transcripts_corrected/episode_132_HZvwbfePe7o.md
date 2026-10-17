@@ -190,7 +190,7 @@ Someone's just strumming that guitar. It's a grift. Christianese needs to stop. 
 
 [32:11]
 
-Now, I do want to tell you this. We broke a story recently and you guys let me know my ear if there's been an update, but I tweeted this earlier today. My source was pretty solid. I will say that. I said I received a tip from someone in Andrew's inner circle that he along with Turning Point in-house lawyer plus the CMO Marina Medvin are headed to the White House today. It would certainly could certainly be unrelated, but I would be remiss if I didn't mention that Bibi Netanyahu is also slated to land into Washington, D. C. in a couple of hours. Now, um Andrew instantly responded to this. I mean, very fast as he normally is to slap it down. He said this. He wrote, "LOL." "No, can confirm I'm not in D. C. Same is true for our in-house lawyer and CMO.
+Now, I do want to tell you this. We broke a story recently and you guys let me know my ear if there's been an update, but I tweeted this earlier today. My source was pretty solid. I will say that. I said I received a tip from someone in Andrew's inner circle that he along with Turning Point in-house lawyer plus the CMO Marina Minas are headed to the White House today. It would certainly could certainly be unrelated, but I would be remiss if I didn't mention that Bibi Netanyahu is also slated to land into Washington, D. C. in a couple of hours. Now, um Andrew instantly responded to this. I mean, very fast as he normally is to slap it down. He said this. He wrote, "LOL." "No, can confirm I'm not in D. C. Same is true for our in-house lawyer and CMO.
 
 [32:55]
 
@@ -202,7 +202,7 @@ Crickets. It's been 2 and 1/2 hours. I think he was really fast and then now he'
 
 [34:25]
 
-It's in your orbit. It's pretty solid. And I may be able to even produce a receipt tomorrow. So, I'm just going to ask again to Andrew openly, do Do you have a meeting schedule at the White House you and and Marina Medias and Frank the in-house lawyer and I'm actually hearing there could be some more people. I wrote, "We may have I meant to say you may have become busy but would be great to get an updated response here. Was or is the TPUSA team slated to meet in the White House this week which happens to coincide with Netanyahu's trip? Marina Medias, Frank and yourself. I'm happy to correct the record if wrong. Thanks in advance. Sorry to be a stickler on the details. Maybe it wasn't today. You're supposed to be in DC today meeting tomorrow. Maybe the meeting on Wednesday.
+It's in your orbit. It's pretty solid. And I may be able to even produce a receipt tomorrow. So, I'm just going to ask again to Andrew openly, do Do you have a meeting schedule at the White House you and and Marina Minas and Frank the in-house lawyer and I'm actually hearing there could be some more people. I wrote, "We may have I meant to say you may have become busy but would be great to get an updated response here. Was or is the TPUSA team slated to meet in the White House this week which happens to coincide with Netanyahu's trip? Marina Minas, Frank and yourself. I'm happy to correct the record if wrong. Thanks in advance. Sorry to be a stickler on the details. Maybe it wasn't today. You're supposed to be in DC today meeting tomorrow. Maybe the meeting on Wednesday.
 
 [35:05]
 

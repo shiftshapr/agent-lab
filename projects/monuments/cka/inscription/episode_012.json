@@ -77,7 +77,7 @@
           "@type": "Artifact",
           "@id": "A-1185.1",
           "ref": "A-1185.1",
-          "description": "Mobile phone video with embedded metadata timestamp 12:23 showing Phil Lyman inside the Sorenson Center building walking out calmly and engaging two people in black clothing in conversation; no one in the clip is depicted fleeing.",
+          "description": "Mobile phone video with embedded metadata timestamp 12:23 showing Phil Lyman inside the Sorensen Center building walking out calmly and engaging two people in black clothing in conversation; no one in the clip is depicted fleeing.",
           "related_claims": [
             "C-1323",
             "C-1324"
@@ -105,7 +105,7 @@
           "@type": "Artifact",
           "@id": "A-1186.1",
           "ref": "A-1186.1",
-          "description": "BearingPoint Graz office introduction video identifying members of one of the company's software development teams; the host identifies one of the individuals shown as Gernot Omer and displays a side-by-side with the figure in the Broderick companion photo.",
+          "description": "BearingPoint Graz office introduction video identifying members of one of the company's software development teams; the host identifies one of the individuals shown as Gernot Ohner and displays a side-by-side with the figure in the Broderick companion photo.",
           "related_claims": [
             "C-1325"
           ],
@@ -131,7 +131,7 @@
           "@type": "Artifact",
           "@id": "A-1187.1",
           "ref": "A-1187.1",
-          "description": "Blog post titled \"Anniversary Hike, 10 Years on Foot to the Sea,\" describing a group of 30-year-olds recreating a hike taken at age 20; contains photos matching the face of the individual identified as Gernot Omer.",
+          "description": "Blog post titled \"Anniversary Hike, 10 Years on Foot to the Sea,\" describing a group of 30-year-olds recreating a hike taken at age 20; contains photos matching the face of the individual identified as Gernot Ohner.",
           "related_claims": [
             "C-1325",
             "C-1334"
@@ -152,13 +152,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1188",
       "family_ref": "A-1188",
-      "bundle_name": "Buzzard and Bees website (Provo gothic underground)",
+      "bundle_name": "Buzzards and Bees website (Provo gothic underground)",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1188.1",
           "ref": "A-1188.1",
-          "description": "Public-facing page from the \"Buzzard and Bees\" gothic-underground Provo website referencing a \"gothic prom,\" featuring a person in makeup the host matches via side-by-side image to the unidentified individual in the Broderick companion photo.",
+          "description": "Public-facing page from the \"Buzzards and Bees\" gothic-underground Provo website referencing a \"gothic prom,\" featuring a person in makeup the host matches via side-by-side image to the unidentified individual in the Broderick companion photo.",
           "related_claims": [
             "C-1327"
           ],
@@ -308,13 +308,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1193",
       "family_ref": "A-1193",
-      "bundle_name": "Gernot Omer LinkedIn profile",
+      "bundle_name": "Gernot Ohner LinkedIn profile",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1193.1",
           "ref": "A-1193.1",
-          "description": "LinkedIn profile stating Gernot Omer relocated to Utah in May 2024 to take a software engineer position with JP Morgan Chase.",
+          "description": "LinkedIn profile stating Gernot Ohner relocated to Utah in May 2024 to take a software engineer position with JP Morgan Chase.",
           "related_claims": [
             "C-1326"
           ],
@@ -340,7 +340,7 @@
           "@type": "Artifact",
           "@id": "A-1194.1",
           "ref": "A-1194.1",
-          "description": "Email from a viewer in Belfast, Northern Ireland, reporting a facial-recognition search of the unidentified companion produced a single hit in Provo, Utah, on the \"Buzzard and Bees\" gothic-prom page.",
+          "description": "Email from a viewer in Belfast, Northern Ireland, reporting a facial-recognition search of the unidentified companion produced a single hit in Provo, Utah, on the \"Buzzards and Bees\" gothic-prom page.",
           "related_claims": [
             "C-1327"
           ],
@@ -537,7 +537,7 @@
       "@type": "Person",
       "@id": "N-133",
       "ref": "N-133",
-      "name": "Gernot Omer",
+      "name": "Gernot Ohner",
       "type": "person",
       "description": "Austrian national; identified by the host as one of two companions in the Broderick companion photo. Matched to a BearingPoint Graz software team YouTube video and a German-language \"Anniversary Hike\" blog; LinkedIn indicates relocation to Utah in May 2024 for a software engineering role at JP Morgan Chase.",
       "related_artifacts": [
@@ -653,7 +653,7 @@
       "ref": "N-10146",
       "name": "Phil Lyman Location Discrepancy",
       "type": "investigation_target",
-      "description": "Persistent inconsistency across three artifact-anchored sources regarding Phil Lyman's position at the moment of the shot: (1) Alex Jones interview places him at the east end outdoors, (2) NewsNation interview places him entering a building and then running out, and (3) video with 12:23 metadata timestamp shows him already inside the Sorenson Center building walking out calmly.",
+      "description": "Persistent inconsistency across three artifact-anchored sources regarding Phil Lyman's position at the moment of the shot: (1) Alex Jones interview places him at the east end outdoors, (2) NewsNation interview places him entering a building and then running out, and (3) video with 12:23 metadata timestamp shows him already inside the Sorensen Center building walking out calmly.",
       "related_artifacts": [
         "A-1183.1",
         "A-1184.1",
@@ -679,7 +679,7 @@
       "ref": "N-10147",
       "name": "Unidentified Goth Person in Broderick Companion Photo",
       "type": "investigation_target",
-      "description": "The second of two foreign companions in the photo with Shaner Broderick; matched by a Belfast viewer to a person on the Provo gothic-underground site \"Buzzard and Bees.\" Remains unidentified by name as of this episode.",
+      "description": "The second of two foreign companions in the photo with Shaner Broderick; matched by a Belfast viewer to a person on the Provo gothic-underground site \"Buzzards and Bees.\" Remains unidentified by name as of this episode.",
       "related_artifacts": [
         "A-1188.1",
         "A-1194.1"
@@ -1586,8 +1586,8 @@
       "@type": "Claim",
       "@id": "C-1323",
       "ref": "C-1323",
-      "label": "Video metadata timestamp shows Phil Lyman inside the Sorenson building at 12:23 on the day of the shooting, walking out calmly.",
-      "claim": "The host says that, according to the metadata of the footage Phil Lyman sent her, he was inside the Sorenson building at 12:23 and then calmly walked out rather than running.",
+      "label": "Video metadata timestamp shows Phil Lyman inside the Sorensen Center at 12:23 on the day of the shooting, walking out calmly.",
+      "claim": "The host says that, according to the metadata of the footage Phil Lyman sent her, he was inside the Sorensen building at 12:23 and then calmly walked out rather than running.",
       "anchored_artifacts": [
         "A-1185.1"
       ],
@@ -1625,8 +1625,8 @@
       "@type": "Claim",
       "@id": "C-1325",
       "ref": "C-1325",
-      "label": "Host Says One of Two Companions in Photo With Shaner Broderick Is Gernot Omer, via Face-Match to BearingPoint Graz Video",
-      "claim": "The host says her team identified one of the two companions in the photo with Shaner Broderick as Gernot Omer, whose face she says also matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.",
+      "label": "Host Says One of Two Companions in Photo With Shaner Broderick Is Gernot Ohner, via Face-Match to BearingPoint Graz Video",
+      "claim": "The host says her team identified one of the two companions in the photo with Shaner Broderick as Gernot Ohner, whose face she says also matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.",
       "anchored_artifacts": [
         "A-1186.1"
       ],
@@ -1635,7 +1635,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:39–00:11:29",
-      "investigative_direction": "Obtain the original Broderick companion photo from prior episode; perform controlled side-by-side facial comparison and reach out to BearingPoint HR to confirm Gernot Omer's employment dates.",
+      "investigative_direction": "Obtain the original Broderick companion photo from prior episode; perform controlled side-by-side facial comparison and reach out to BearingPoint HR to confirm Gernot Ohner's employment dates.",
       "mentions_person_refs": [
         "N-133",
         "N-132"
@@ -1645,8 +1645,8 @@
       "@type": "Claim",
       "@id": "C-1326",
       "ref": "C-1326",
-      "label": "Host Says Gernot Omer's LinkedIn States He Moved to Utah in May 2024 for a JP Morgan Chase Software Engineer Job",
-      "claim": "The host says that, according to Gernot Omer's LinkedIn profile, he moved to Utah in May 2024 to take a software engineer position with JP Morgan Chase.",
+      "label": "Host Says Gernot Ohner's LinkedIn States He Moved to Utah in May 2024 for a JP Morgan Chase Software Engineer Job",
+      "claim": "The host says that, according to Gernot Ohner's LinkedIn profile, he moved to Utah in May 2024 to take a software engineer position with JP Morgan Chase.",
       "anchored_artifacts": [
         "A-1193.1"
       ],
@@ -1662,8 +1662,8 @@
       "@type": "Claim",
       "@id": "C-1327",
       "ref": "C-1327",
-      "label": "A Belfast viewer matched the second companion's face via a facial-recognition search to a single result in Provo, Utah – on the \"Buzzard and Bees\" gothic-prom page.",
-      "claim": "A viewer in Belfast, Northern Ireland, emailed the host that an internet-wide search of the unidentified companion's face returned a single hit in Provo, Utah, on a website pertaining to bees; the host says that site, Buzzard and Bees, is a Gothic underground in Provo discussing a Gothic prom.",
+      "label": "A Belfast viewer matched the second companion's face via a facial-recognition search to a single result in Provo, Utah – on the \"Buzzards and Bees\" gothic-prom page.",
+      "claim": "A viewer in Belfast, Northern Ireland, emailed the host that an internet-wide search of the unidentified companion's face returned a single hit in Provo, Utah, on a website pertaining to bees; the host says that site, Buzzards and Bees, is a Gothic underground in Provo discussing a Gothic prom.",
       "anchored_artifacts": [
         "A-1194.1",
         "A-1188.1"
@@ -1673,7 +1673,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:14–00:19:58",
-      "investigative_direction": "Replicate the facial search; identify the named subject on the Buzzard and Bees page; determine whether the person is Austrian or otherwise foreign."
+      "investigative_direction": "Replicate the facial search; identify the named subject on the Buzzards and Bees page; determine whether the person is Austrian or otherwise foreign."
     },
     {
       "@type": "Claim",
@@ -1775,15 +1775,15 @@
       "@type": "Claim",
       "@id": "C-1333",
       "ref": "C-1333",
-      "label": "Gernot Omer's face was matched to a German-language blog post titled \"Anniversary Hike, 10 Years on Foot to the Sea\" featuring a group of 30-year-olds recreating a hike taken at age 20.",
-      "claim": "The host says her team found that the face of the individual identified as Gernot Omer matched photos in a German-language blog post on a 10-year hiking anniversary.",
+      "label": "Gernot Ohner's face was matched to a German-language blog post titled \"Anniversary Hike, 10 Years on Foot to the Sea\" featuring a group of 30-year-olds recreating a hike taken at age 20.",
+      "claim": "The host says her team found that the face of the individual identified as Gernot Ohner matched photos in a German-language blog post on a 10-year hiking anniversary.",
       "anchored_artifacts": [
         "A-1187.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:47–00:10:39",
-      "investigative_direction": "Confirm authorship and dating of the blog; verify Gernot Omer's participation in the original 20-year-old hike and the 10-year reunion.",
+      "investigative_direction": "Confirm authorship and dating of the blog; verify Gernot Ohner's participation in the original 20-year-old hike and the 10-year reunion.",
       "mentions_person_refs": [
         "N-133"
       ]
@@ -2211,7 +2211,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:09:47",
-      "investigative_direction": "Verify Gernot Omer's nationality and Utah residency through public records and his employer.",
+      "investigative_direction": "Verify Gernot Ohner's nationality and Utah residency through public records and his employer.",
       "transcript_snippet": "We were able to identify one of those individuals in the photo and he is Austrian.",
       "supports_claim_refs": [
         "C-1325"
@@ -2275,7 +2275,7 @@
       "@id": "C-9277",
       "ref": "C-9277",
       "label": "Host Says Lyman Told Alex Jones He Heard of Video of a Man Leaving the Roof and Escaping by Another Route",
-      "claim": "The host plays Phil Lyman telling Alex Jones that someone had reported video of a man coming off the roof, that the story that came out was that he escaped another route, and that people are coordinating this.",
+      "claim": "The host plays Phil Lyman telling Alex Jones that someone had reported video of a man coming off the roof, walking to the parking lot and driving away in a car with another individual, that this is not the story that came out, that he escaped another route, and that people are coordinating this.",
       "anchored_artifacts": [
         "A-1183.1"
       ],
@@ -2392,7 +2392,7 @@
       "@id": "C-9282",
       "ref": "C-9282",
       "label": "Host Says the Side-by-Side Is a Match but She Cannot Be 100 Percent Sure",
-      "claim": "The host says a side-by-side of the Buzzard and Bees page and the companion photo is a match on ears and chin, though she cannot be 100 percent certain until the person is named.",
+      "claim": "The host says a side-by-side of the Buzzards and Bees page and the companion photo is a match on ears and chin, though she cannot be 100 percent certain until the person is named.",
       "anchored_artifacts": [
         "A-1188.1"
       ],
@@ -2403,7 +2403,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:19:58",
-      "investigative_direction": "Have an independent facial examiner compare the two images and identify the person named on the Buzzard and Bees page.",
+      "investigative_direction": "Have an independent facial examiner compare the two images and identify the person named on the Buzzards and Bees page.",
       "transcript_snippet": "I am certain can't say 100%, okay? Because we need to find this person's name, but this is a match, okay?",
       "supports_claim_refs": [
         "C-1327"
@@ -2543,7 +2543,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:23:38",
-      "investigative_direction": "Search overseas social media and gothic-scene networks for the Provo prom attendee, and obtain the Buzzard and Bees page history.",
+      "investigative_direction": "Search overseas social media and gothic-scene networks for the Provo prom attendee, and obtain the Buzzards and Bees page history.",
       "transcript_snippet": "I would I would venture a guess that he is not from Utah because I've never seen uh no hits come in",
       "mentions_person_refs": [
         "N-3"
@@ -2709,7 +2709,7 @@
       "@id": "C-9296",
       "ref": "C-9296",
       "label": "Host Says the Hospital Had Just Announced a New CEO, Surgeon Andrew Zenger",
-      "claim": "The host says the hospital had just announced a brand new CEO, who is also a surgeon, named Andrew Zenger.",
+      "claim": "The host says the hospital had just announced a brand new CEO named Andrew Zenger.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11218",
@@ -3267,7 +3267,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:48:25",
-      "investigative_direction": "Identify the person via the Buzzard and Bees prom organizers and attendee lists.",
+      "investigative_direction": "Identify the person via the Buzzards and Bees prom organizers and attendee lists.",
       "transcript_snippet": "We are still working to identify our goth suspect. It is not the girl who's wearing black, but rather the person that was in the photos with nephew cousin Broderick.",
       "supports_claim_refs": [
         "C-1327"
@@ -3293,7 +3293,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:48:25",
-      "investigative_direction": "Review incoming tips for any naming the person pictured in the Buzzard and Bees prom page.",
+      "investigative_direction": "Review incoming tips for any naming the person pictured in the Buzzards and Bees prom page.",
       "transcript_snippet": "If you know something, please send us tips@candaceowens. com.",
       "mentions_person_refs": [
         "N-3"
@@ -3304,7 +3304,7 @@
       "@id": "C-9323",
       "ref": "C-9323",
       "label": "Host Says She Holds Further Information on Where Kirk's Wounds Were",
-      "claim": "The host says she has been holding information close to her chest about where Charlie's wounds were, and says she will have more the next day.",
+      "claim": "The host says she has been holding information close to her chest about where she is hearing Charlie's wounds were, and says she will have more the next day.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10085"

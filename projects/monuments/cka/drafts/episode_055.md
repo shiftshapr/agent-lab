@@ -1058,7 +1058,7 @@ Investigative Direction: Identify accusers; obtain interview transcript.
 
 **C-2060** Megyn Kelly stated she was called a coward by Ben Shapiro at Turning Point Amfest event
 
-Claim Timestamp: 00:38:50–00:41:18
+Claim Timestamp: 00:40:07
 
 Claim: Megyn Kelly stated in interview that Ben Shapiro called her a coward at the Turning Point Amfest event in December for her refusal to denounce Candace Owens.
 
@@ -1118,7 +1118,7 @@ Investigative Direction: No investigative direction.
 
 Claim Timestamp: 00:50:57
 
-Claim: A commenter posted this endorsement phrase.
+Claim: A viewer comment the host reads, from Victoria Betts, says "Go Max and always all glory to God."
 
 Anchored Artifacts: A-1613.4
 
@@ -2127,7 +2127,7 @@ Transcript Snippet: Jerry Falwell gets ousted from Liberty University. Jerry Pre
 Anchored Artifacts: 
 Mentions: N-440, N-443, N-1
 Related Nodes: N-11104, N-11163, N-11384
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Check the dates: public reporting should be compared with the host's 2021 date for Falwell Jr.'s exit, Prevo's appointment and the end of the Kirk and Falkirk arrangement; obtain any termination notice.
 
 ---
@@ -2143,7 +2143,7 @@ Transcript Snippet: he also moves rather immediately to reinstate none other tha
 Anchored Artifacts: A-3299.1
 Mentions: N-443, N-438
 Related Nodes: N-11104, N-11384
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Request Liberty contracts or disclosures showing a consulting arrangement with Moore or the Kairos Company.
 
 ---
@@ -2423,7 +2423,7 @@ Investigative Direction: Gather Erika Kirk's own bios and interviews on China an
 
 **C-14161** Host Says She Intends a Dedicated Episode on Erika's Background and to Give Her a Chance to Respond
 
-Claim Timestamp: 00:47:35
+Claim Timestamp: 00:48:42
 
 Claim: The host says she intends to do an episode dedicated to Erika Kirk's background in the future and wants to give her the opportunity to respond to any questions first.
 
@@ -2490,14 +2490,14 @@ Investigative Direction: Off-topic historical assertion; no source given.
 
 Claim Timestamp: 00:49:54
 
-Claim: The host says she was attacked for distrusting the Argentine president, that she has seen it said his full last name is 'Milei', and that he looks a little like Netanyahu; she calls it a conspiracy.
+Claim: The host says she was attacked for distrusting the Argentine president, that she has seen claims about what his full last name really is, and that he looks a little like Netanyahu; she calls it a conspiracy.
 
-Transcript Snippet: Saw some stuff about like really his full last name is Milei and he looks a little like BB Nyahoo.
+Transcript Snippet: Saw some stuff about like really his full last name is Mileikowsky and he looks a little like BB Nyahoo.
 
 Anchored Artifacts: 
 Mentions: N-936, N-36
 Tags: relevance:tangential
-Investigative Direction: Check Javier Milei's recorded family names; the host offers only a viral rumor and labels it a conspiracy.
+Investigative Direction: Check the rumor that Javier Milei's surname is Mileikowsky (Netanyahu's family name); the host offers only a viral rumor and labels it a conspiracy.
 
 ---
 

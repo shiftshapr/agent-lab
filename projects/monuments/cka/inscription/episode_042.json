@@ -1689,7 +1689,7 @@
       "@type": "Claim",
       "@id": "C-1860",
       "ref": "C-1860",
-      "label": "Erika Kirk identified as CEO / head of TPUSA",
+      "label": "Blake Neff Says Erika Kirk Heads This",
       "claim": "In a clip the host plays, Blake Neff says Erika Kirk 'heads this'.",
       "anchored_artifacts": [
         "A-1501.2"
@@ -2374,7 +2374,7 @@
       "@id": "C-12445",
       "ref": "C-12445",
       "label": "Host Says Kasparian's Family Posted Nothing About the Assassination",
-      "claim": "The host says none of Kasparian's family members posted anything about the assassination even though he is active online and it happened in their backyard.",
+      "claim": "The host says none of Kasparian's family members posted anything about the assassination that she could find, even though he is active online and it happened in their backyard.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10311"
@@ -2642,7 +2642,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "00:34:18",
       "investigative_direction": "Verify the lyric against the released track.",

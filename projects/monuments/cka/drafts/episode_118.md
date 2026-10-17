@@ -236,7 +236,7 @@ Transcript "Mikey McCormick"; named as Elizabeth Kravchuk's husband.
 
 *Related: C-4759*
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Transcript "Elizabeth Kravchuk". The host says she is a wealthy Ukrainian whose family ministry rescues orphans in Ukraine.
 

@@ -860,7 +860,7 @@
       "@type": "Person",
       "@id": "N-218",
       "ref": "N-218",
-      "name": "Eliza McCoy",
+      "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Mikey McCoy's wife; reportedly first person called after shooting; described as having been removed from public narrative.",
       "related_artifacts": [
@@ -2833,7 +2833,7 @@
       "@id": "C-1930",
       "ref": "C-1930",
       "label": "Candace spoke with witness who filmed rooftop person at 12:23 pm",
-      "claim": "Candace Owens spoke with a witness who filmed a person on the roof at 12:23 pm and did not see that person take the shot.",
+      "claim": "The host says she spoke with a witness who filmed a person on the roof at 12:23 p.m., and that he did not see that person take the shot.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -3379,7 +3379,7 @@
       "@id": "C-1956",
       "ref": "C-1956",
       "label": "Charlie Kirk Show segment asserted August 27 had full location",
-      "claim": "On the Charlie Kirk Show, a speaker stated that TPUSA had posted the UVU courtyard location on its website as early as August 27.",
+      "claim": "In a clip from the Charlie Kirk Show that the host plays, a speaker says TPUSA had posted the UVU courtyard location on its website as early as August 27.",
       "anchored_artifacts": [
         "A-1544.2"
       ],
@@ -3395,7 +3395,7 @@
       "@id": "C-1957",
       "ref": "C-1957",
       "label": "Candace identifies September 2 KAMYU as first public location mention",
-      "claim": "The host says the earliest mention of the UVU courtyard location that her team found was on September 2, when local media on KAMYU said Charlie Kirk was speaking in the courtyard.",
+      "claim": "The host says the earliest mention of the UVU courtyard location that her team found was on September 2, when local media on KMYU said Charlie Kirk was speaking in the courtyard.",
       "anchored_artifacts": [
         "A-1547.1"
       ],
@@ -3687,7 +3687,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:06:18",
+      "claim_timestamp": "00:07:30",
       "investigative_direction": "Obtain the original Flood message from his device or from TPUSA to settle the wording.",
       "transcript_snippet": "I can't confirm that one way or the other. I have to trust them on that because I did not see that concrete message. I was told that it said they.",
       "qualifies_claim_refs": [
@@ -3726,7 +3726,7 @@
       "@id": "C-14015",
       "ref": "C-14015",
       "label": "Host Says Bari Weiss Picked the Questions and the Event Was Planned",
-      "claim": "The host says Bari Weiss picked the audience questions, which were not random, and that the whole event was very much planned by Weiss.",
+      "claim": "The host says Bari Weiss picked the audience questions, which were not random, and that it was all very much planned by Weiss.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10349",
@@ -4230,7 +4230,7 @@
       "@id": "C-14037",
       "ref": "C-14037",
       "label": "Host Says the Public Was Told Over and Over That Mikey's First Call Was to Erika",
-      "claim": "The host says the public was given the impression over and over by many people that the first person Mikey McCoy called was Erika Kirk, and that he had gone to a camp and trained.",
+      "claim": "The host says she feels the public was given the impression over and over by many people that the first person Mikey McCoy called was Erika Kirk, and that he had, as she put it, almost gone to a camp and trained.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10338"
@@ -5351,7 +5351,7 @@
       "@id": "C-14086",
       "ref": "C-14086",
       "label": "Host Says She Had Catholicism Conversations With Charlie While He Was Attending Mass",
-      "claim": "The host says Erika confirmed Charlie was going to mass, that she herself had those conversations with him while he was attending mass, and that his plan to start the process is third-party information she cannot confirm.",
+      "claim": "The host says Erika confirmed it and that they know Charlie was going to mass, that she herself had those conversations with him while he was attending mass, and that his plan to start the process is third-party information she cannot confirm.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10350"

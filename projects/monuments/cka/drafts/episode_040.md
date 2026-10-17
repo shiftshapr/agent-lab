@@ -1569,7 +1569,7 @@ Investigative Direction: Cross-check the host's earlier episodes on Harris, Live
 
 Claim Timestamp: 00:26:31
 
-Claim: The host says Brigitte Macron was born a male and frames her investigation as exposing nations that collude to cover this up.
+Claim: The host says Brigitte Macron was born a male and frames her investigation as asking why 'we are colluding with nations' to cover this up.
 
 Transcript Snippet: Sometimes it's Brigitte and why we are colluding uh with nations to cover the obvious fact that Brigitte was born a male.
 
@@ -1780,7 +1780,7 @@ Investigative Direction: Retrieve the Loomer post and date, and the Smith and Ha
 
 Claim Timestamp: 00:40:14
 
-Claim: The host briefly shows a Loomer tweet and says that after Charlie died, Loomer completely switched and now says she guards his legacy.
+Claim: The host briefly shows a Loomer tweet and says that after Charlie died, Loomer completely switched and now thinks she is guarding his legacy.
 
 Transcript Snippet: this is the tweet that she sent out and then Charlie died a couple of weeks later and she completely switched and now thinks that she's guarding his leg legacy.
 

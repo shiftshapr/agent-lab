@@ -54,7 +54,7 @@
           "@type": "Artifact",
           "@id": "A-1781.1",
           "ref": "A-1781.1",
-          "description": "Jillian Falcon tweet, 2013-09-15: \"Just met Miss Arizona and Josh Harrelson\" (heart-eyes emoji)",
+          "description": "Jillian Falcon tweet, 2013-09-15: \"Just met Miss Arizona and Josh Harrellson\" (heart-eyes emoji)",
           "related_claims": [
             "C-2378",
             "C-2379"
@@ -934,7 +934,7 @@
       "ref": "N-566",
       "name": "Jillian Falcon",
       "type": "person",
-      "description": "Then-15-year-old girl introduced to Erika Kirk via a rent arrangement at Joshua Harrelson's Michigan residence in 2013; now an adult and the named source of the screenshots and testimonial confirmation surfaced via Nicey and the host.",
+      "description": "Then-15-year-old girl introduced to Erika Kirk via a rent arrangement at Josh Harrellson's Michigan residence in 2013; now an adult and the named source of the screenshots and testimonial confirmation surfaced via Nicey and the host.",
       "related_artifacts": [
         "A-1783.1"
       ],
@@ -952,7 +952,7 @@
       "@type": "Person",
       "@id": "N-567",
       "ref": "N-567",
-      "name": "Joshua Harrelson",
+      "name": "Josh Harrellson",
       "type": "person",
       "description": "Erika Kirk's then-boyfriend (basketball player) at the time of the September 15, 2013 meeting with Jillian Falcon; named in Jillian's tweet and Nicey's narration.",
       "related_artifacts": [
@@ -2136,7 +2136,7 @@
       "@id": "C-2378",
       "ref": "C-2378",
       "label": "Per Nicey Clip, Erika Kirk (Then Frantzve) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15",
-      "claim": "In a video by YouTuber Nicey that the host plays, Nicey says Erika Kirk (then Erika Frantzve), Joshua Harrelson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.",
+      "claim": "In a video by YouTuber Nicey that the host plays, Nicey says Erika Kirk (then Erika Frantzve), Josh Harrellson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.",
       "anchored_artifacts": [
         "A-1780.1",
         "A-1781.1"
@@ -2594,8 +2594,8 @@
       "@type": "Claim",
       "@id": "C-10142",
       "ref": "C-10142",
-      "label": "Nicey (via host clip) says Erika moved to Michigan to be with basketball player Joshua Harrelson in 2013",
-      "claim": "In the Nicey clip the host plays, Nicey says that in 2013 Erika, then 25, was in a relationship with basketball player Joshua Harrelson, who was living in Michigan, and that Erika moved out there to be with him; the host adds that Erika had just completed her year as Miss Arizona.",
+      "label": "Nicey (via host clip) says Erika moved to Michigan to be with basketball player Josh Harrellson in 2013",
+      "claim": "In the Nicey clip the host plays, Nicey says that in 2013 Erika, then 25, was in a relationship with basketball player Josh Harrellson, who was living in Michigan, and that Erika moved out there to be with him; the host adds that Erika had just completed her year as Miss Arizona.",
       "anchored_artifacts": [
         "A-1780.1"
       ],
@@ -2618,7 +2618,7 @@
       "@id": "C-10143",
       "ref": "C-10143",
       "label": "Nicey says Jillian tweeted at 3:53 p.m. on Sept 15, 2013 that she was out for sushi",
-      "claim": "Nicey says that on September 15, 2013 at 3:53 p.m. Jillian Falcon tweeted that she was out for sushi with her friend, and two hours later tweeted that she had just met Miss Arizona and Josh Harrelson.",
+      "claim": "Nicey says that on September 15, 2013 at 3:53 p.m. Jillian Falcon tweeted that she was out for sushi with her friend, and two hours later tweeted that she had just met Miss Arizona and Josh Harrellson.",
       "anchored_artifacts": [
         "A-1780.1",
         "A-1781.1"

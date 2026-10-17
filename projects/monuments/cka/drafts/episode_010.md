@@ -875,8 +875,8 @@ The host's report, from unnamed TPUSA sources, that contractors and other people
 
 **C-3632** Host Reads TPUSA Memo of September 2, 2025 Elevating Justin Streiff to COO and Announcing an Organization-Wide DOGE Effort
 
-Claim Timestamp: 00:21:37
-Claim: Per an internal TPUSA memo signed by Charlie Kirk on September 2, 2025 that the host reads, Justin Streiff was elevated to COO and tasked with assembling a team to conduct a DOGE-style efficiency, cost, and culture audit across the organization.
+Claim Timestamp: 00:20:52
+Claim: Per an internal TPUSA memo signed by Charlie Kirk on September 2, 2025 that the host reads, Justin Streiff was elevated to COO and empowered to engage in an organization-wide DOGE effort, assembling a small team to make TPUSA more efficient and cost-effective, unify it around company-wide metrics and goals, and reshape company culture.
 Transcript Snippet: In this role, I have empowered Justin… to engage in an organizationalwide Doge effort.
 Anchored Artifacts: A-1162.1
 Mentions: N-1, N-15
@@ -889,7 +889,7 @@ Investigative Direction: Obtain the original signed memo directly from TPUSA or 
 **C-1286** Charlie Kirk expressed concern about TPUSA finances one week before his death
 
 Claim Timestamp: 00:00:01
-Claim: According to host and unnamed insiders, Charlie Kirk was concerned about TPUSA finances approximately one week before his assassination and had begun assembling a small team to investigate where money was going.
+Claim: The host says that a week before his assassination Charlie Kirk expressed concerns about TPUSA finances and wanted to put together a little mini department to address those concerns, and that she has evidence of that.
 Transcript Snippet: a week before Charlie lost his life, he expressed some concerns about the finances at Turning Point USA.
 Anchored Artifacts: A-1162.1
 Mentions: N-1
@@ -977,14 +977,14 @@ Anchored Artifacts: A-1165.1
 Mentions: N-115, N-1
 Related Nodes: N-10027, N-10134
 Confidence: medium
-Investigative Direction: Verify with primary recording or transcript of the actual weekend workshop; cross-check Deruso's characterization against other attendees.
+Investigative Direction: Verify with primary recording or transcript of the actual weekend workshop; cross-check DuRousseau's characterization against other attendees.
 
 ---
 
-**C-3737** Xaviaer DuRousseau is the speaker C-1292 spells 'Xavier Deruso' (revises C-1292)
+**C-3737** Xaviaer DuRousseau is the speaker C-1292 spells 'Xaviaer DuRousseau' (revises C-1292)
 
 Claim Timestamp: 00:03:59
-Claim: C-1292 spells the speaker's name 'Xavier Deruso'; the speaker is Xaviaer DuRousseau. The host says he made a video saying Charlie Kirk used the phrase 'moral blackmail' about the weekend, but in a workshop setting, like a debate club strengthening their arguments on Israel.
+Claim: C-1292 spells the speaker's name 'Xaviaer DuRousseau'; the speaker is Xaviaer DuRousseau. The host says he made a video saying Charlie Kirk used the phrase 'moral blackmail' about the weekend, but in a workshop setting, like a debate club strengthening their arguments on Israel.
 Transcript Snippet: Charlie spoke about feeling morally blackmailed.
 Anchored Artifacts: A-1165.1
 Mentions: N-115, N-1
@@ -998,7 +998,7 @@ Investigative Direction: Read with C-1292; match DuRousseau's video and channel 
 **C-1293** Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim
 
 Claim Timestamp: 00:07:17
-Claim: Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining Deruso's claim that real-time posting was avoided for safety reasons.
+Claim: Host cites an Emily Saves America post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.
 Transcript Snippet: one of the influencers did post on August 6th that she was in the Hamptons.
 Anchored Artifacts: A-1165.2, A-1169.1
 Mentions: N-115, N-122
@@ -1011,7 +1011,7 @@ Investigative Direction: Verify the Instagram post date, contents, and whether i
 **C-3738** Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim (revises C-1293)
 
 Claim Timestamp: 00:07:17
-Claim: C-1293's title spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-115). Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.
+Claim: C-1293's title spells the name 'Xaviaer DuRousseau'; the person is Xaviaer DuRousseau (N-115). Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.
 Transcript Snippet: one of the influencers did post on August 6th that she was in the Hamptons.
 Anchored Artifacts: A-1165.2, A-1169.1
 Mentions: N-115, N-122
@@ -1025,7 +1025,7 @@ Investigative Direction: Read with C-1293; verify the Instagram post date, conte
 **C-1294** Doorbell footage tip alleges Tyler Robinson changed clothes with unidentified woman
 
 Claim Timestamp: 00:31:20
-Claim: Host received a tip alleging that the publicly released doorbell footage of Tyler Robinson is incomplete and that additional footage shows him walking with an unidentified woman and changing clothes.
+Claim: The host says a young woman tipped her in the previous day's comment section that the doorbell footage was intentionally presented to the public only partially, and that more footage allegedly showed the person alleged to be Tyler Robinson walking with an unidentified woman and changing clothes.
 Transcript Snippet: there was more footage which showed the person that they allege is Tyler Robinson walking with a woman… and that he changes clothes.
 Anchored Artifacts: A-1167.1
 Mentions: N-40
@@ -1098,7 +1098,7 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 **C-3731** Host names Hamptons attendees Natasha Hausdorff, Seth Dillon and Josh Hammer
 
 Claim Timestamp: 00:05:13
-Claim: Responding to Xavier Deruso's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: "Natasha Hausdorff") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.
+Claim: Responding to Xaviaer DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.
 Transcript Snippet: Natasha Hausdorff was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.
 Anchored Artifacts: A-2520.1
 Mentions: N-1, N-38, N-55, N-115, N-116
@@ -1111,7 +1111,7 @@ Investigative Direction: Corroborate the attendee list and the exchange with oth
 **C-3739** Host names Hamptons attendees in response to Xaviaer DuRousseau's account (revises C-3731)
 
 Claim Timestamp: 00:05:13
-Claim: C-3731 spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-115). Responding to DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: "Natasha Hausdorff") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.
+Claim: C-3731 spells the name 'Xaviaer DuRousseau'; the person is Xaviaer DuRousseau (N-115). Responding to DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: "Natasha Hausdorff") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.
 Transcript Snippet: Natasha Hausdorff was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.
 Anchored Artifacts: A-2520.1
 Mentions: N-1, N-38, N-55, N-115, N-116
@@ -1712,7 +1712,7 @@ Investigative Direction: Ask the FBI whether it obtained the original file and m
 
 Claim Timestamp: 00:15:17
 
-Claim: The host says she similarly reached out to the person who shot the footage she covered earlier that week under the heading that somebody is on the roof, and that he told her the exact same thing as the first filmer.
+Claim: The host says her team similarly reached out to the person who shot the footage in which 'Somebody is on the roof' is said, which she spoke about earlier that week, and that he told them the exact same thing as the first filmer.
 
 Transcript Snippet: "Somebody is on the roof." We spoke about that earlier this week.
 
@@ -2086,7 +2086,7 @@ Investigative Direction: Frame-by-frame review of the original video, with the a
 
 **C-13788** Range Day Bro Says a Marine Friend's Video Shows the Angle of the Shot and an Entry and Exit Wound
 
-Claim Timestamp: 00:27:33
+Claim Timestamp: 00:27:02
 
 Claim: In the clip, Range Day Bro says a video made by a Marine friend shows the angle the shot came from and the circled area of Charlie's neck, with an exit wound following a split second after as from an entry and exit wound.
 

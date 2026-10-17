@@ -1751,7 +1751,7 @@
       "@id": "C-3632",
       "ref": "C-3632",
       "label": "Host Reads TPUSA Memo of September 2, 2025 Elevating Justin Streiff to COO and Announcing an Organization-Wide DOGE Effort",
-      "claim": "Per an internal TPUSA memo signed by Charlie Kirk on September 2, 2025 that the host reads, Justin Streiff was elevated to COO and tasked with assembling a team to conduct a DOGE-style efficiency, cost, and culture audit across the organization.",
+      "claim": "Per an internal TPUSA memo signed by Charlie Kirk on September 2, 2025 that the host reads, Justin Streiff was elevated to COO and empowered to engage in an organization-wide DOGE effort, assembling a small team to make TPUSA more efficient and cost-effective, unify it around company-wide metrics and goals, and reshape company culture.",
       "anchored_artifacts": [
         "A-1162.1"
       ],
@@ -1761,7 +1761,7 @@
         "N-10132"
       ],
       "tags": [],
-      "claim_timestamp": "00:21:37",
+      "claim_timestamp": "00:20:52",
       "investigative_direction": "Obtain the original signed memo directly from TPUSA or insider sources; verify Streiff's actual scope of authority and the composition of the assembled team.",
       "transcript_snippet": "In this role, I have empowered Justin… to engage in an organizationalwide Doge effort.",
       "confidence": "high",
@@ -1775,7 +1775,7 @@
       "@id": "C-1286",
       "ref": "C-1286",
       "label": "Charlie Kirk expressed concern about TPUSA finances one week before his death",
-      "claim": "According to host and unnamed insiders, Charlie Kirk was concerned about TPUSA finances approximately one week before his assassination and had begun assembling a small team to investigate where money was going.",
+      "claim": "The host says that a week before his assassination Charlie Kirk expressed concerns about TPUSA finances and wanted to put together a little mini department to address those concerns, and that she has evidence of that.",
       "anchored_artifacts": [
         "A-1162.1"
       ],
@@ -1923,7 +1923,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:03:54",
-      "investigative_direction": "Verify with primary recording or transcript of the actual weekend workshop; cross-check Deruso's characterization against other attendees.",
+      "investigative_direction": "Verify with primary recording or transcript of the actual weekend workshop; cross-check DuRousseau's characterization against other attendees.",
       "transcript_snippet": "Charlie spoke about feeling morally blackmailed.",
       "confidence": "medium",
       "mentions_person_refs": [
@@ -1935,8 +1935,8 @@
       "@type": "Claim",
       "@id": "C-3737",
       "ref": "C-3737",
-      "label": "Xaviaer DuRousseau is the speaker C-1292 spells 'Xavier Deruso' (revises C-1292)",
-      "claim": "C-1292 spells the speaker's name 'Xavier Deruso'; the speaker is Xaviaer DuRousseau. The host says he made a video saying Charlie Kirk used the phrase 'moral blackmail' about the weekend, but in a workshop setting, like a debate club strengthening their arguments on Israel.",
+      "label": "Xaviaer DuRousseau is the speaker C-1292 spells 'Xaviaer DuRousseau' (revises C-1292)",
+      "claim": "C-1292 spells the speaker's name 'Xaviaer DuRousseau'; the speaker is Xaviaer DuRousseau. The host says he made a video saying Charlie Kirk used the phrase 'moral blackmail' about the weekend, but in a workshop setting, like a debate club strengthening their arguments on Israel.",
       "anchored_artifacts": [
         "A-1165.1"
       ],
@@ -1962,7 +1962,7 @@
       "@id": "C-1293",
       "ref": "C-1293",
       "label": "Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim",
-      "claim": "Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining Deruso's claim that real-time posting was avoided for safety reasons.",
+      "claim": "Host cites an Emily Saves America post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.",
       "anchored_artifacts": [
         "A-1165.2",
         "A-1169.1"
@@ -1986,7 +1986,7 @@
       "@id": "C-3738",
       "ref": "C-3738",
       "label": "Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim (revises C-1293)",
-      "claim": "C-1293's title spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-115). Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.",
+      "claim": "C-1293's title spells the name 'Xaviaer DuRousseau'; the person is Xaviaer DuRousseau (N-115). Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.",
       "anchored_artifacts": [
         "A-1165.2",
         "A-1169.1"
@@ -2013,7 +2013,7 @@
       "@id": "C-1294",
       "ref": "C-1294",
       "label": "Doorbell footage tip alleges Tyler Robinson changed clothes with unidentified woman",
-      "claim": "Host received a tip alleging that the publicly released doorbell footage of Tyler Robinson is incomplete and that additional footage shows him walking with an unidentified woman and changing clothes.",
+      "claim": "The host says a young woman tipped her in the previous day's comment section that the doorbell footage was intentionally presented to the public only partially, and that more footage allegedly showed the person alleged to be Tyler Robinson walking with an unidentified woman and changing clothes.",
       "anchored_artifacts": [
         "A-1167.1"
       ],
@@ -2127,7 +2127,7 @@
       "@id": "C-3731",
       "ref": "C-3731",
       "label": "Host names Hamptons attendees Natasha Hausdorff, Seth Dillon and Josh Hammer",
-      "claim": "Responding to Xavier Deruso's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: \"Natasha Hausdorff\") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.",
+      "claim": "Responding to Xaviaer DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.",
       "anchored_artifacts": [
         "A-2520.1"
       ],
@@ -2152,7 +2152,7 @@
       "@id": "C-3739",
       "ref": "C-3739",
       "label": "Host names Hamptons attendees in response to Xaviaer DuRousseau's account (revises C-3731)",
-      "claim": "C-3731 spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-115). Responding to DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: \"Natasha Hausdorff\") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.",
+      "claim": "C-3731 spells the name 'Xaviaer DuRousseau'; the person is Xaviaer DuRousseau (N-115). Responding to DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: \"Natasha Hausdorff\") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.",
       "anchored_artifacts": [
         "A-2520.1"
       ],
@@ -3009,7 +3009,7 @@
       "@id": "C-13765",
       "ref": "C-13765",
       "label": "Host Says the Second Witness Is the Person Who Filmed the Somebody Is on the Roof Footage",
-      "claim": "The host says she similarly reached out to the person who shot the footage she covered earlier that week under the heading that somebody is on the roof, and that he told her the exact same thing as the first filmer.",
+      "claim": "The host says her team similarly reached out to the person who shot the footage in which 'Somebody is on the roof' is said, which she spoke about earlier that week, and that he told them the exact same thing as the first filmer.",
       "anchored_artifacts": [
         "A-1164.3"
       ],
@@ -3553,7 +3553,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:27:33",
+      "claim_timestamp": "00:27:02",
       "investigative_direction": "Obtain the Marine friend's video and the autopsy or wound-description records.",
       "transcript_snippet": "So you'll see him circle the highlighted area right there and you'll see the exit wound corresponding after split second after as it would from an entry and exit wound.",
       "mentions_person_refs": [

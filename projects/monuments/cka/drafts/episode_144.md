@@ -656,7 +656,7 @@ First named by the host at 00:09:47 in episode 144. Person the host says was vis
 
 ---
 
-**N-752** Andrea Birkhart
+**N-752** Andrea Burkhart
 
 First named by a speaker on the Kolvet/Neff show at 00:29:09 in episode 144. Described as an apolitical person asked whether a defense would present exculpatory evidence at a preliminary hearing; spelled Birkhart in the transcript.
 
@@ -1299,7 +1299,7 @@ Investigative Direction: Establish what evidence Wilson relies on for calling th
 
 Claim Timestamp: 00:29:09
 
-Claim: A speaker on the Kolvet/Neff show, apparently Kolvet, says Andrea Birkhart told him a defense with exculpatory evidence such as a steakhouse receipt would present it at the preliminary hearing.
+Claim: A speaker on the Kolvet/Neff show, apparently Kolvet, says Andrea Burkhart told him a defense with exculpatory evidence such as a steakhouse receipt would present it at the preliminary hearing.
 
 Transcript Snippet: If they had exculpatory evidence, whether it's the parents that actually, you know, think he's innocent or they have some steakhouse receipt, would they not present that at the preliminary hearing?
 

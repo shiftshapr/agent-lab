@@ -1182,9 +1182,9 @@
       "@type": "Person",
       "@id": "N-734",
       "ref": "N-734",
-      "name": "Stu Peters",
+      "name": "Stew Peters",
       "type": "person",
-      "description": "Stu Peters; the host says Blake Neff worked for him before the Charlie Kirk show job.",
+      "description": "Stew Peters; the host says Blake Neff worked for him before the Charlie Kirk show job.",
       "related_artifacts": [],
       "related_claims": [
         "C-11841"
@@ -2809,8 +2809,8 @@
       "@type": "Claim",
       "@id": "C-11841",
       "ref": "C-11841",
-      "label": "Host Says Neff Worked for Stu Peters Before the Kirk Job",
-      "claim": "The host says Blake Neff was working for Stu Peters before he got the Charlie Kirk show job.",
+      "label": "Host Says Neff Worked for Stew Peters Before the Kirk Job",
+      "claim": "The host says Blake Neff was working for Stew Peters before he got the Charlie Kirk show job.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11057"
@@ -2820,7 +2820,7 @@
       ],
       "claim_timestamp": "00:45:02",
       "investigative_direction": "Check Neff's employment history between leaving Fox and joining TPUSA.",
-      "transcript_snippet": "He was actually working for Stu Peters and he calls in effectively a favor to get him this job with Charlie Kirk.",
+      "transcript_snippet": "He was actually working for Stew Peters and he calls in effectively a favor to get him this job with Charlie Kirk.",
       "mentions_person_refs": [
         "N-160",
         "N-734",

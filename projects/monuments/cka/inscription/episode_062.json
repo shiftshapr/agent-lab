@@ -13,7 +13,7 @@
     "transcript_sha256": "24dc527071bb4996347a4421cf2c9457ed4da7b0f003289f3d1967ed8acdf2bd",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "Episode 62 advances the Bride of Charlie series along three investigative axes: (1) donor pressure on Charlie Kirk, anchored by a full read-aloud of a text message Charlie received from a self-identified Christian Zionist donor, with on-air confirmation of its authenticity by Jaco Booyens and Erika Kirk; (2) the Lori Frantzve / Larry Guinta business network, specifically a 2017 Arizona LLC called Desert Spirit Tech formed on a Tohono O'odham reservation address with Lyle and Shelly Reems, where Lyle Reems carries a 1998 indictment for sexual conduct with a minor under 15 that was dismissed without prejudice in 1999; and (3) the ongoing Turning Point USA employee terminations, anchored by an on-air audio recording of a termination meeting in which an employee is repeatedly told only that the organization is \"going in a different direction\" after working 80–90 hour weeks. A 2018 Tyler Bowyer tweet asserting TPUSA runs \"like a military op\" with personnel from that background is displayed and used to re-anchor prior host claims about military infiltration.\n\nThe episode's structural importance lies in coupling first-person testimonials with primary documents (court records, LLC filings, social media posts, termination audio) on the same evidentiary surface, while continuing the Lori Frantzve business-entity thread opened in earlier episodes.\n\n---",
+  "executive_summary": "Episode 62 advances the Bride of Charlie series along three investigative axes: (1) donor pressure on Charlie Kirk, anchored by a full read-aloud of a text message Charlie received from a self-identified Christian Zionist donor, with on-air confirmation of its authenticity by Jaco Booyens and Erika Kirk; (2) the Lori Frantzve / Larry Guinta business network, specifically a 2017 Arizona LLC called Desert Spirit Tech formed on a Tohono O'odham reservation address with Lyle and Shelly Reams, where Lyle Reams carries a 1998 indictment for sexual conduct with a minor under 15 that was dismissed without prejudice in 1999; and (3) the ongoing Turning Point USA employee terminations, anchored by an on-air audio recording of a termination meeting in which an employee is repeatedly told only that the organization is \"going in a different direction\" after working 80–90 hour weeks. A 2018 Tyler Bowyer tweet asserting TPUSA runs \"like a military op\" with personnel from that background is displayed and used to re-anchor prior host claims about military infiltration.\n\nThe episode's structural importance lies in coupling first-person testimonials with primary documents (court records, LLC filings, social media posts, termination audio) on the same evidentiary surface, while continuing the Lori Frantzve business-entity thread opened in earlier episodes.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -49,13 +49,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1670",
       "family_ref": "A-1670",
-      "bundle_name": "Lyle Reems Legal Records Bundle",
+      "bundle_name": "Lyle Reams Legal Records Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1670.1",
           "ref": "A-1670.1",
-          "description": "1998 Indictment: State v. Lyle Reems – Sexual conduct with minor under 15",
+          "description": "1998 Indictment: State v. Lyle Reams – Sexual conduct with minor under 15",
           "related_claims": [
             "C-2184"
           ],
@@ -94,13 +94,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1671",
       "family_ref": "A-1671",
-      "bundle_name": "Desert Spirit Tech LLC Filing Bundle",
+      "bundle_name": "Desert Spirit Tek LLC Filing Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1671.1",
           "ref": "A-1671.1",
-          "description": "Arizona LLC formation documents – Desert Spirit Tech LLC, filed 2017, Sacaton, AZ",
+          "description": "Arizona LLC formation documents – Desert Spirit Tek LLC, filed 2017, Sacaton, AZ",
           "related_claims": [
             "C-2186"
           ],
@@ -123,7 +123,7 @@
           "@type": "Artifact",
           "@id": "A-1671.2",
           "ref": "A-1671.2",
-          "description": "Arizona Chinese News public notice for Desert Spirit Tech LLC (signed Dec 1, 2017; state-received Dec 6, 2017)",
+          "description": "Arizona Chinese News public notice for Desert Spirit Tek LLC (signed Dec 1, 2017; state-received Dec 6, 2017)",
           "related_claims": [
             "C-2187"
           ],
@@ -151,7 +151,7 @@
           "@type": "Artifact",
           "@id": "A-1672.1",
           "ref": "A-1672.1",
-          "description": "Business registration – Generation Seven Farms, 21 Rose and Thobe, Sacaton, AZ (Lyle and Shelly Reems)",
+          "description": "Business registration – Generation Seven Farms, 21 Rose and Thobi, Sacaton, AZ (Lyle and Shelly Reams)",
           "related_claims": [
             "C-2186"
           ],
@@ -418,7 +418,7 @@
       "ref": "N-490",
       "name": "Lori Frantzve",
       "type": "person",
-      "description": "Erika Kirk's mother; 20% stakeholder of record in Desert Spirit Tech LLC; co-filer of Euro Tech in Cincinnati, Ohio.",
+      "description": "Erika Kirk's mother; 20% stakeholder of record in Desert Spirit Tek LLC; co-filer of Euro Tech in Cincinnati, Ohio.",
       "related_artifacts": [
         "A-1671.1",
         "A-1671.2"
@@ -444,7 +444,7 @@
       "ref": "N-388",
       "name": "Larry Guinta",
       "type": "person",
-      "description": "Erika Kirk's stepfather; listed as stakeholder and registered agent of Desert Spirit Tech LLC.",
+      "description": "Erika Kirk's stepfather; listed as stakeholder and registered agent of Desert Spirit Tek LLC.",
       "related_artifacts": [
         "A-1671.1",
         "A-1671.2"
@@ -466,9 +466,9 @@
       "@type": "Person",
       "@id": "N-491",
       "ref": "N-491",
-      "name": "Lyle Reems",
+      "name": "Lyle Reams",
       "type": "person",
-      "description": "Self-identified (per host) as Tohono O'odham Nation member; 1998 indictee for sexual conduct with minor under 15; co-filer of Desert Spirit Tech LLC.",
+      "description": "Self-identified (per host) as Tohono O'odham Nation member; 1998 indictee for sexual conduct with minor under 15; co-filer of Desert Spirit Tek LLC.",
       "related_artifacts": [
         "A-1670.1",
         "A-1670.2",
@@ -494,9 +494,9 @@
       "@type": "Person",
       "@id": "N-492",
       "ref": "N-492",
-      "name": "Shelly Reems",
+      "name": "Shelly Reams",
       "type": "person",
-      "description": "Lyle Reems's wife; co-filer of Desert Spirit Tech LLC and Generation Seven Farms.",
+      "description": "Lyle Reams's wife; co-filer of Desert Spirit Tek LLC and Generation Seven Farms.",
       "related_artifacts": [
         "A-1671.1",
         "A-1672.1"
@@ -541,7 +541,7 @@
       "@type": "Person",
       "@id": "N-494",
       "ref": "N-494",
-      "name": "Marina (TPUSA CMO)",
+      "name": "Marina Minas",
       "type": "person",
       "description": "Named by host as employee involved in Uber-driver conversation and as participant in the fake-Zoom termination setup per A-1675.2.",
       "related_artifacts": [
@@ -642,9 +642,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10440",
       "ref": "N-10440",
-      "name": "Desert Spirit Tech LLC Business Purpose Question",
+      "name": "Desert Spirit Tek LLC Business Purpose Question",
       "type": "investigation_target",
-      "description": "Persistent unresolved target: stated business activity of Desert Spirit Tech LLC.",
+      "description": "Persistent unresolved target: stated business activity of Desert Spirit Tek LLC.",
       "related_artifacts": [
         "A-1671.1",
         "A-1671.2"
@@ -686,9 +686,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10442",
       "ref": "N-10442",
-      "name": "Sacaton \"Rose and Thobe\" Address Verification",
+      "name": "Sacaton \"Rose and Thobi\" Address Verification",
       "type": "investigation_target",
-      "description": "Persistent unresolved target: whether 26 Rose and Thobe (Desert Spirit Tech) and 21 Rose and Thobe (Generation Seven Farms) correspond to actual physical addresses.",
+      "description": "Persistent unresolved target: whether 26 Rose and Thobi (Desert Spirit Tech) and 21 Rose and Thobi (Generation Seven Farms) correspond to actual physical addresses.",
       "related_artifacts": [
         "A-1671.1",
         "A-1672.1"
@@ -1272,7 +1272,7 @@
       "ref": "N-11176",
       "name": "Arizona Chinese News",
       "type": "organization",
-      "description": "Obscure Phoenix Chinese-language publication used for the 2017 Desert Spirit Tech LLC public notice; the host says it was founded in April 1990.",
+      "description": "Obscure Phoenix Chinese-language publication used for the 2017 Desert Spirit Tek LLC public notice; the host says it was founded in April 1990.",
       "related_artifacts": [],
       "related_claims": [
         "C-8281",
@@ -1291,7 +1291,7 @@
       "ref": "N-11177",
       "name": "Sacaton, Arizona",
       "type": "place",
-      "description": "Town on a Native American reservation where Desert Spirit Tech LLC was filed in 2017 and where the Reems business is listed.",
+      "description": "Town on a Native American reservation where Desert Spirit Tek LLC was filed in 2017 and where the Reems business is listed.",
       "related_artifacts": [],
       "related_claims": [
         "C-8275",
@@ -1310,7 +1310,7 @@
       "ref": "N-11178",
       "name": "Tohono O'odham Nation",
       "type": "organization",
-      "description": "Native American nation the host says Lyle Reems is ostensibly part of.",
+      "description": "Native American nation the host says Lyle Reams is ostensibly part of.",
       "related_artifacts": [],
       "related_claims": [
         "C-8273"
@@ -1327,7 +1327,7 @@
       "ref": "N-11179",
       "name": "Generation Seven Farms",
       "type": "organization",
-      "description": "Business owned by Lyle and Shelly Reems, listed at 21 Rose and Thobe, Sacaton, Arizona, per the host.",
+      "description": "Business owned by Lyle and Shelly Reams, listed at 21 Rose and Thobi, Sacaton, Arizona, per the host.",
       "related_artifacts": [],
       "related_claims": [
         "C-8279"
@@ -1420,8 +1420,8 @@
       "@type": "Claim",
       "@id": "C-2184",
       "ref": "C-2184",
-      "label": "Host Says Lyle Reems Was Indicted in 1998 for Sexual Conduct with a Minor Under 15",
-      "claim": "The host says Lyle Reems was indicted in 1998 for sexual conduct with a minor under the age of 15, and that he was approximately 41 at the time.",
+      "label": "Host Says Lyle Reams Was Indicted in 1998 for Sexual Conduct with a Minor Under 15",
+      "claim": "The host says Lyle Reams was indicted in 1998 for sexual conduct with a minor under the age of 15, and that he was approximately 41 at the time.",
       "anchored_artifacts": [
         "A-1670.1"
       ],
@@ -1437,8 +1437,8 @@
       "@type": "Claim",
       "@id": "C-2185",
       "ref": "C-2185",
-      "label": "Host Says the Lyle Reems Case Was Dismissed Without Prejudice in 1999 After the Victim Gave a Victim Impact Statement",
-      "claim": "The host says the case against Lyle Reems made its way through the court system for approximately a year and a half, during which the young victim gave a victim impact statement, before being dismissed without prejudice in 1999.",
+      "label": "Host Says the Lyle Reams Case Was Dismissed Without Prejudice in 1999 After the Victim Gave a Victim Impact Statement",
+      "claim": "The host says the case against Lyle Reams made its way through the court system for approximately a year and a half, during which the young victim gave a victim impact statement, before being dismissed without prejudice in 1999.",
       "anchored_artifacts": [
         "A-1670.2"
       ],
@@ -1454,8 +1454,8 @@
       "@type": "Claim",
       "@id": "C-2186",
       "ref": "C-2186",
-      "label": "Per Host's Documents, Frantzve, Guinta, and the Reemses Co-Filed Desert Spirit Tech LLC in Sacaton, Arizona in 2017",
-      "claim": "Per the formation documents the host shows, in 2017 Lori Frantzve (listed as \"Lorin Frantzve\"), Larry Guinta, Lyle Reems, and Shelly Reems filed to open a business called Desert Spirit Tech LLC in Sacaton, Arizona, with Frantzve listed as a 20% stakeholder and Guinta as registered agent.",
+      "label": "Per Host's Documents, Frantzve, Guinta, and the Reamses Co-Filed Desert Spirit Tek LLC in Sacaton, Arizona in 2017",
+      "claim": "Per the formation documents the host shows, in 2017 Lori Frantzve (listed as \"Lorin Frantzve\"), Larry Guinta, Lyle Reams, and Shelly Reams filed to open a business called Desert Spirit Tek LLC in Sacaton, Arizona, with Frantzve listed as a 20% stakeholder and Guinta as registered agent.",
       "anchored_artifacts": [
         "A-1671.1",
         "A-1672.1"
@@ -1466,7 +1466,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:25",
-      "investigative_direction": "Pull the certified Arizona Corporation Commission filing for Desert Spirit Tech LLC; identify the actual place of business and any annual reports or amendments.",
+      "investigative_direction": "Pull the certified Arizona Corporation Commission filing for Desert Spirit Tek LLC; identify the actual place of business and any annual reports or amendments.",
       "mentions_person_refs": [
         "N-388",
         "N-490",
@@ -1478,8 +1478,8 @@
       "@type": "Claim",
       "@id": "C-2187",
       "ref": "C-2187",
-      "label": "Per Host's Filing, Desert Spirit Tech LLC's Statutory Public Notice Was Published in the Arizona Chinese News",
-      "claim": "Per the filing the host shows, Larry Guinta, Lori Frantzve and their partners issued the statutory public notice for Desert Spirit Tech LLC in the Arizona Chinese News, signed December 1, 2017 and received by the state December 6, 2017.",
+      "label": "Per Host's Filing, Desert Spirit Tek LLC's Statutory Public Notice Was Published in the Arizona Chinese News",
+      "claim": "Per the filing the host shows, Larry Guinta, Lori Frantzve and their partners issued the statutory public notice for Desert Spirit Tek LLC in the Arizona Chinese News, signed December 1, 2017 and received by the state December 6, 2017.",
       "anchored_artifacts": [
         "A-1671.2"
       ],
@@ -1498,8 +1498,8 @@
       "@type": "Claim",
       "@id": "C-2188",
       "ref": "C-2188",
-      "label": "Tyler Bowyer publicly described TPUSA as operating \"like a military op\" in 2018",
-      "claim": "On September 25, 2018, Tyler Bowyer posted that TPUSA \"runs everything like a military op\" and that \"all of our people are from that background.\"",
+      "label": "Per a 2018 Tweet the Host Reads, Tyler Bowyer Said TPUSA Runs Everything \"Like a Military Op\"",
+      "claim": "Per a September 25, 2018 tweet from Tyler Bowyer that the host reads, Bowyer wrote that \"we run everything like a military op\" and that \"all of our people are from that background.\"",
       "anchored_artifacts": [
         "A-1673.1"
       ],
@@ -2087,8 +2087,8 @@
       "@type": "Claim",
       "@id": "C-8272",
       "ref": "C-8272",
-      "label": "Host says Guinta is Erika's stepfather and that he and Frantzve repeatedly formed businesses with Lyle and Shelly Reems",
-      "claim": "The host says Larry Lawrence Guinta is Erika Kirk's stepfather and that he and Lori Frantzve are a repeat business partnership with the couple Shelly and Lyle Reems, meaning they have formed businesses with them.",
+      "label": "Host Says Guinta Is Erika's Stepfather and That He and Frantzve Repeatedly Formed Businesses with Lyle and Shelly Reams",
+      "claim": "The host says Larry Lawrence Guinta is Erika Kirk's stepfather and that he and Lori Frantzve are a repeat business partnership with the couple Shelly and Lyle Reams, meaning they have formed businesses with them.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10440"
@@ -2097,8 +2097,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:11:22",
-      "investigative_direction": "Search state corporation records for every entity listing Frantzve, Guinta, Lyle Reems or Shelly Reems as members or agents.",
-      "transcript_snippet": "And they have a repeat business partner, a repeat business couple Shelly and Lyle Reems meaning they form businesses with these people.",
+      "investigative_direction": "Search state corporation records for every entity listing Frantzve, Guinta, Lyle Reams or Shelly Reams as members or agents.",
+      "transcript_snippet": "And they have a repeat business partner, a repeat business couple Shelly and Lyle Reams meaning they form businesses with these people.",
       "mentions_person_refs": [
         "N-490",
         "N-388",
@@ -2111,8 +2111,8 @@
       "@type": "Claim",
       "@id": "C-8273",
       "ref": "C-8273",
-      "label": "Host says Lyle Reems is ostensibly a member of the Tohono O'odham Nation",
-      "claim": "The host says Lyle Reems is ostensibly Native American and part of the Tohono O'odham Nation, and says she may be saying the name wrong.",
+      "label": "Host Says Lyle Reams Is Ostensibly a Member of the Tohono O'odham Nation",
+      "claim": "The host says Lyle Reams is ostensibly Native American and part of the Tohono O'odham Nation, and says she may be saying the name wrong.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11178"
@@ -2122,7 +2122,7 @@
       ],
       "claim_timestamp": "00:11:22",
       "investigative_direction": "Verify tribal enrollment through the Nation or through court records identifying Reems.",
-      "transcript_snippet": "Now Lyle Reems ostensibly is Native American a part of the and excuse me if I'm saying this wrong Tohono O'odham Nation.",
+      "transcript_snippet": "Now Lyle Reams ostensibly is Native American a part of the and excuse me if I'm saying this wrong Tohono O'odham Nation.",
       "mentions_person_refs": [
         "N-491"
       ]
@@ -2131,8 +2131,8 @@
       "@type": "Claim",
       "@id": "C-8274",
       "ref": "C-8274",
-      "label": "Host says Reems's case was apparently no bar to Frantzve and Guinta doing business with him",
-      "claim": "The host says the background about Lyle Reems was apparently not a bar to entry for Lori Frantzve and Larry Guinta to pursue a business with him.",
+      "label": "Host Says Reams's Case Was Apparently No Bar to Frantzve and Guinta Doing Business with Him",
+      "claim": "The host says the background about Lyle Reams was apparently not a bar to entry for Lori Frantzve and Larry Guinta to pursue a business with him.",
       "anchored_artifacts": [
         "A-1670.1"
       ],
@@ -2200,7 +2200,7 @@
       "@id": "C-8277",
       "ref": "C-8277",
       "label": "Host says the filing spells Frantzve's first name Lorin, unlike her other business documents",
-      "claim": "The host says the formation documents for Desert Spirit Tech LLC give Lori Frantzve's name as 'Lorin' rather than 'Lori' as in other business documents.",
+      "claim": "The host says the formation documents for Desert Spirit Tek LLC give Lori Frantzve's name as 'Lorin' rather than 'Lori' as in other business documents.",
       "anchored_artifacts": [
         "A-1671.1"
       ],
@@ -2221,8 +2221,8 @@
       "@type": "Claim",
       "@id": "C-8278",
       "ref": "C-8278",
-      "label": "Host says the listed place of business, 26 Rose and Thobe, does not appear to exist",
-      "claim": "The host says the place of business listed in the Desert Spirit Tech filing is 26 Rose and Thobe, which does not appear to exist because Rose and Thobe is an intersection of two streets, and offers to correct this if wrong.",
+      "label": "Host Says the Listed Place of Business, 26 Rose and Thobi, Does Not Appear to Exist",
+      "claim": "The host says the place of business listed in the Desert Spirit Tek filing is 26 Rose and Thobi, which does not appear to exist because Rose and Thobi is an intersection of two streets, and offers to correct this if wrong.",
       "anchored_artifacts": [
         "A-1671.1"
       ],
@@ -2235,7 +2235,7 @@
       ],
       "claim_timestamp": "00:14:19",
       "investigative_direction": "Check Pinal County and Gila River Indian Community address records and the Arizona Corporation Commission filing for the listed address.",
-      "transcript_snippet": "Well, that address does not appear to exist. Rose and Thobe is an an intersection.",
+      "transcript_snippet": "Well, that address does not appear to exist. Rose and Thobi is an an intersection.",
       "mentions_person_refs": [
         "N-3"
       ]
@@ -2244,8 +2244,8 @@
       "@type": "Claim",
       "@id": "C-8279",
       "ref": "C-8279",
-      "label": "Host says Generation Seven Farms is owned by Lyle and Shelly Reems at 21 Rose and Thobe, which she cannot find on a map",
-      "claim": "The host says Generation Seven Farms, owned by Lyle Reems and his wife Shelly, lists its address as 21 Rose and Thobe, which should be next door to Lori Frantzve and Larry Guinta's Desert Spirit Tech, and that she cannot find that address on a map either.",
+      "label": "Host Says Generation Seven Farms Is Owned by Lyle and Shelly Reams at 21 Rose and Thobi, Which She Cannot Find on a Map",
+      "claim": "The host says Generation Seven Farms, owned by Lyle Reams and his wife Shelly, lists its address as 21 Rose and Thobi, which should be next door to Lori Frantzve and Larry Guinta's Desert Spirit Tek, and that she cannot find that address on a map either.",
       "anchored_artifacts": [
         "A-1672.1"
       ],
@@ -2258,7 +2258,7 @@
       ],
       "claim_timestamp": "00:15:08",
       "investigative_direction": "Obtain Generation Seven Farms' registration and any tribal business licence, and map its address.",
-      "transcript_snippet": "which is called Generation Seven Farms. In theory it should be right next door to Lori and Larry's Spirit Tech as its address is 21 Rose and Thobe.",
+      "transcript_snippet": "which is called Generation Seven Farms. In theory it should be right next door to Lori and Larry's Spirit Tech as its address is 21 Rose and Thobi.",
       "supports_claim_refs": [
         "C-2186"
       ],
@@ -2274,7 +2274,7 @@
       "@id": "C-8280",
       "ref": "C-8280",
       "label": "Host Says LLCs Must Publish a Notice Describing Their Intended Business",
-      "claim": "The host says that, she thinks in every state though maybe not all, when you form an LLC you are required to publicize it in a local newspaper with a general description of your intended business operations, and that the filing alone does not show what Desert Spirit Tech does.",
+      "claim": "The host says that, she thinks in every state though maybe not all, when you form an LLC you are required to publicize it in a local newspaper with a general description of your intended business operations, and that the filing alone does not show what Desert Spirit Tek does.",
       "anchored_artifacts": [
         "A-1671.1"
       ],
@@ -2339,7 +2339,7 @@
       "@id": "C-8283",
       "ref": "C-8283",
       "label": "Host asks viewers to email tips with the 2017 notice or what the tech companies do",
-      "claim": "The host asks viewers who find the 2017 notice or know what the Desert Tech, Easy Tech and Euro Tech companies do to email her at moretips@candaceowens.com.",
+      "claim": "The host asks viewers who find the 2017 notice or know what the Desert Tek, Easy Tech and Euro Tech companies do to email her at moretips@candaceowens.com.",
       "anchored_artifacts": [
         "A-2927.1"
       ],
@@ -3070,7 +3070,7 @@
       "@id": "C-8315",
       "ref": "C-8315",
       "label": "Host says TPUSA raked in 250 million dollars in a couple of weeks",
-      "claim": "The host says TPUSA raked in 250 million dollars in a couple of weeks after the assassination, and so cannot credibly claim to be hurt financially by the videos.",
+      "claim": "The host says it is a difficult hill to climb for TPUSA to say it is being hurt by her videos when it raked in 250 million dollars in a couple of weeks, adding \"Maybe it's not.\"",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11097",

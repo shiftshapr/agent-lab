@@ -166,7 +166,7 @@ Confidence: high
 
 # Executive Summary
 
-The episode introduces artifact-backed material across multiple evidentiary families. A recorded phone call with an anonymous former Liberty Godparent Home resident (mid-1990s) and an ABC News report on the same facility provide testimonial and journalistic anchors for claims of coercion, adoption pressure, restricted contact, and institutional opacity at the Liberty maternity home. A 1997 Washington Post article on Sun Myung Moon's Unification Church is read at length, providing artifact anchors for claims about Moon-affiliated entities' financial rescue of Liberty University and the Church's broader corporate structure. Email tips citing *The Israel Lobby* (Mearsheimer) introduce a claim that the Israeli government provided Jerry Falwell Sr. with a $2 million aircraft in 1979. A Korean Herald headline and a CBN News clip anchor claims about South Korean Pastor Yoon Bo-seon's arrest two days after meeting Charlie Kirk in Seoul.
+The episode introduces artifact-backed material across multiple evidentiary families. A recorded phone call with an anonymous former Liberty Godparent Home resident (mid-1990s) and an ABC News report on the same facility provide testimonial and journalistic anchors for claims of coercion, adoption pressure, restricted contact, and institutional opacity at the Liberty maternity home. A 1997 Washington Post article on Sun Myung Moon's Unification Church is read at length, providing artifact anchors for claims about Moon-affiliated entities' financial rescue of Liberty University and the Church's broader corporate structure. Email tips citing *The Israel Lobby* (Mearsheimer) introduce a claim that the Israeli government provided Jerry Falwell Sr. with a $2 million aircraft in 1979. A Korean Herald headline and a CBN News clip anchor claims about South Korean Pastor Son Hyun-bo's arrest two days after meeting Charlie Kirk in Seoul.
 
 The episode advances investigative questions regarding the source of Liberty University's financial rescue in the 1990s, the relationship between Liberty University and the Unification Church, the conduct of the Liberty Godparent Home in the 1990s, the security protocol discrepancy regarding the September 11 Charis Bible College event following the assassination, and the South Korean trip immediately preceding Charlie Kirk's death.
 
@@ -206,7 +206,7 @@ Confidence Level: High (post text read aloud verbatim)
 
 **A-1598** ABC News Report Bundle – Liberty Godparent Home
 
-**A-1598.1** ABC 13 (Lynchburg) report by Rachel Branning on the Liberty Godparent Home, referencing the *Liberty Lost* podcast (Abby Johnson, Raphael)
+**A-1598.1** ABC 13 (Lynchburg) report by Rachel Branning on the Liberty Godparent Home, referencing the *Liberty Lost* podcast (Abbi Johnson, Raphael)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -316,9 +316,9 @@ Confidence Level: High
 
 ---
 
-**A-1600** CBN News Clip Bundle – Chan Yoon at TPUSA
+**A-1600** CBN News Clip Bundle – Chance Son at TPUSA
 
-**A-1600.1** CBN News segment featuring Chan Yoon (son of Pastor Yoon Bo-seon) speaking about his father's arrest two days after meeting Charlie Kirk in Seoul
+**A-1600.1** CBN News segment featuring Chance Son (son of Pastor Son Hyun-bo) speaking about his father's arrest two days after meeting Charlie Kirk in Seoul
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -1332,7 +1332,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-403** Pastor Yoon Bo-seon
+**N-403** Pastor Son Hyun-bo
 
 South Korean pastor; arrested September 9, 2025 on election law charges; met Charlie Kirk in Seoul at a conference days before the arrest.
 
@@ -1345,9 +1345,9 @@ Investigative Pressure: High
 
 ---
 
-**N-404** Chan Yoon
+**N-404** Chance Son
 
-Son of Pastor Yoon Bo-seon; spoke at Turning Point USA event in Arizona per CBN News clip.
+Son of Pastor Son Hyun-bo; spoke at Turning Point USA event in Arizona per CBN News clip.
 
 Evidence Count: 1
 Claim Count: 1
@@ -1371,7 +1371,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-406** Abby Johnson
+**N-406** Abbi Johnson
 
 Former Liberty Godparent Home resident (age 16); quoted in ABC News report on coercion allegations; central voice of *Liberty Lost* podcast.
 
@@ -1505,7 +1505,7 @@ Investigative Pressure: Medium
 
 **N-10397** Charlie Kirk Korea Trip / Pastor Yoon Connection
 
-Investigation target regarding the September 4–5, 2025 Build Up Korea conference attended by Charlie Kirk and the arrest of Pastor Yoon Bo-seon days later.
+Investigation target regarding the September 4–5, 2025 Build Up Korea conference attended by Charlie Kirk and the arrest of Pastor Son Hyun-bo days later.
 
 Evidence Count: 2
 Claim Count: 3
@@ -1643,7 +1643,7 @@ Investigative Direction: Verify the $3.5M grant in 1995 IRS Form 990 filings for
 
 ---
 
-**C-2032** New World Communications loaned $400,000 to Liberty University at 6% interest in 1996
+**C-2032** New World Communications Loaned $400,000 to Liberty University at 6% Interest
 
 Claim Timestamp: 01:06:32
 Claim: Per the 1997 Washington Post article, New World Communications (parent of the Washington Times) lent $400,000 to Liberty University at 6% interest per a promissory note.
@@ -1679,7 +1679,7 @@ Investigative Direction: Cross-reference the $300M estimate against corporate pr
 **C-2035** Unification Church International exceeded $500 million in mid-1980s
 
 Claim Timestamp: 01:04:00
-Claim: Per the 1997 Washington Post article (citing church documents analyzed by private investigator Lawrence Zillioux), Unification Church International exceeded $500 million in the mid-1980s; Far Eastern Economic Review valued South Korean landholdings above $1 billion in 1990.
+Claim: Per the 1997 Washington Post article (citing church documents analyzed by private investigator Lawrence Zilliox), Unification Church International exceeded $500 million in the mid-1980s; Far Eastern Economic Review valued South Korean landholdings above $1 billion in 1990.
 Anchored Artifacts: A-1599.6
 Mentions: 
 Related Nodes: N-10399
@@ -1692,7 +1692,7 @@ Investigative Direction: Obtain the Zillioux analysis and the 1990 Far Eastern E
 Claim Timestamp: 01:05:41
 Claim: Per the 1997 Washington Post article, former church members said Unificationists provided about $5 million and the personnel that gave the American Freedom Coalition its grassroots strength; the coalition built popular support for Colonel Oliver North during the Iran-Contra probe.
 Anchored Artifacts: A-1599.7
-Mentions: N-400, N-436
+Mentions: N-436
 Related Nodes: N-10399
 Investigative Direction: Cross-reference against contemporaneous Iran-Contra investigative records and the American Freedom Coalition's own IRS filings and disclosures.
 
@@ -1731,10 +1731,10 @@ Investigative Direction: Verify the $20–40 million figure against Liberty Univ
 
 ---
 
-**C-2040** Korean Herald Headline the Host Shows Says Pastor Yoon Bo-seon Was Arrested September 9 for Breaking Election Law
+**C-2040** Korea Herald Headline the Host Shows Says Pastor Son Hyun-bo Was Arrested for Breaking Election Law
 
 Claim Timestamp: 01:09:02
-Claim: Per a Korean Herald headline the host shows, Pastor Yoon Bo-seon was arrested on September 9, 2025 for breaking the public official election act and local education autonomy act.
+Claim: Per a Korean Herald [Korea Herald] headline the host shows, Pastor Son Hyun-bo was arrested for breaking election law; the host says he was arrested on September 9.
 Anchored Artifacts: A-1603.1
 Mentions: N-403
 Related Nodes: N-10397
@@ -1742,10 +1742,10 @@ Investigative Direction: Obtain Korean court records and primary Korean-language
 
 ---
 
-**C-2041** Chan Yoon stated his father was arrested two days after meeting Charlie Kirk
+**C-2041** Chance Son Stated His Father Was Arrested Two Days After Meeting Charlie Kirk
 
 Claim Timestamp: 01:10:00
-Claim: Per CBN News clip, Chan Yoon (son of Pastor Yoon Bo-seon) stated that his father was arrested two days after meeting Charlie Kirk in Seoul at the Build Up Korea conference.
+Claim: Per a CBN News clip the host plays, Chance Son (son of Pastor Son Hyun-bo) stated that his father was arrested two days after meeting Charlie Kirk; the clip says Kirk met Pastor Son in Seoul at a conference.
 Anchored Artifacts: A-1600.1
 Mentions: N-403, N-404, N-1
 Related Nodes: N-10397
@@ -1760,7 +1760,7 @@ Claim: Per the recorded phone call with an anonymous former resident, the Libert
 Anchored Artifacts: A-1604.1
 Mentions: N-408
 Related Nodes: N-10392
-Investigative Direction: Cross-reference against the *Liberty Lost* podcast testimony from other named residents (Abby Johnson and others) and any internal Godparent Home policies from the 1990s.
+Investigative Direction: Cross-reference against the *Liberty Lost* podcast testimony from other named residents (Abbi Johnson and others) and any internal Godparent Home policies from the 1990s.
 
 ---
 
@@ -1797,10 +1797,10 @@ Investigative Direction: Locate the cited Forbes article and any contemporaneous
 
 ---
 
-**C-2046** Pastor Yoon Bo-seon quoted as saying "Lee Jae-myung has to die for Korea to live"
+**C-2046** Pastor Son Hyun-bo quoted as saying "Lee Jae-myung has to die for Korea to live"
 
 Claim Timestamp: 01:11:09
-Claim: Per Korean Herald, Pastor Yoon Bo-seon shouted during a protest that "Lee Jae-myung has to die for Korea to live" and stated the state is "the same as Hitler and the Nazis."
+Claim: Per the Korean Herald [Korea Herald] article the host reads, Pastor Son Hyun-bo shouted during a protest that "Lee Jae-myung has to die for Korea to live" and stated the state is "the same as Hitler and the Nazis."
 Anchored Artifacts: A-1603.1
 Mentions: N-403, N-437
 Related Nodes: N-10397
@@ -2430,7 +2430,7 @@ Claim: The host says that, as the story was told to her at PragerU, Glenn Beck w
 Transcript Snippet: Glenn Beck was the initial investment as the story was told to me when I was at PragerU when I interviewed him.
 
 Anchored Artifacts: 
-Mentions: N-238, N-326
+Mentions: N-238
 Related Nodes: N-11167
 Supports: C-6876
 Tags: relevance:context
@@ -2475,7 +2475,7 @@ Investigative Direction: Seek Lyman's or Ballard's public posts or schedules for
 
 Claim Timestamp: 00:18:32
 
-Claim: The host says Andrew Kolvet's brother and cousin, Curtis Kolvet and Robert Kolvet, are captains in the military, which differs from her earlier statement that Curtis is a lieutenant colonel.
+Claim: The host says Andrew Kolvet's brother and cousin, Curtis Kolvet and Robert Kolvet, are captains in the military.
 
 Transcript Snippet: Andrew Kolwitz's brother and cousin are captains in the military, Curtis Kolwitz and Robert Kolwitz.
 
@@ -2647,7 +2647,7 @@ Investigative Direction: Seek public records of Butch Hibbs' and Butch Sr.'s mil
 
 Claim Timestamp: 00:22:03
 
-Claim: The host says the woman who called her was 13 and pregnant when a probation officer gave her an ultimatum: juvenile detention or a Liberty University-run program for troubled teens.
+Claim: The host says the woman she spoke with was 13 and pregnant when a probation officer gave her an ultimatum: juvenile detention or a Liberty University-run program for troubled teens.
 
 Transcript Snippet: We could send you to juvie or you could go away and we'll give you an opportunity here.
 
@@ -2894,7 +2894,7 @@ Claim: An ABC 13 report the host plays says the podcast Liberty Lost alleges som
 Transcript Snippet: The Liberty Godparent Home, a place for young, single, pregnant women, is defending itself against allegations of coercion and manipulation.
 
 Anchored Artifacts: A-1598.1
-Mentions: N-407
+Mentions: 
 Related Nodes: N-10392
 Supports: C-2043
 Tags: relevance:context
@@ -2918,11 +2918,11 @@ Investigative Direction: Contact the Liberty Lost podcast team for the number an
 
 ---
 
-**C-8195** ABC Report Says Abby Johnson's Parents Sent Her to the Home With a Liberty Scholarship Promise
+**C-8195** ABC Report Says Abbi Johnson's Parents Sent Her to the Home With a Liberty Scholarship Promise
 
 Claim Timestamp: 00:35:05
 
-Claim: In the ABC clip, the reporter says that Abby Johnson got pregnant at 16 and that her parents sent her across the country to the Liberty Godparent Home with a promise of a scholarship to Liberty University.
+Claim: In the ABC clip, the reporter says that Abbi Johnson got pregnant at 16 and that her parents sent her across the country to the Liberty Godparent Home with a promise of a scholarship to Liberty University.
 
 Transcript Snippet: Her parents sent her across the country to Liberty Godparent Home with the promise of a scholarship to Liberty University after all was said and done.
 
@@ -2934,7 +2934,7 @@ Investigative Direction: Seek Johnson's account on the Liberty Lost podcast and 
 
 ---
 
-**C-8196** Abby Johnson Says the Home Had Already Decided on Adoption
+**C-8196** Abbi Johnson Says the Home Had Already Decided on Adoption
 
 Claim Timestamp: 00:36:34
 
@@ -2988,7 +2988,7 @@ Investigative Direction: Retrieve Family Life Services' website history and its 
 
 Claim Timestamp: 00:37:54
 
-Claim: In the ABC clip, the reporter says she reached out multiple times to Family Life Services without a response, and asked the Godparent Home to connect her with residents who had positive experiences but had not heard back.
+Claim: In the ABC clip, the reporter says she reached out to 'them' (following mention of Thomas Road Baptist Church and Family Life Services) multiple times without a response, and asked the Godparent Home to connect her with residents who had positive experiences but had not heard back.
 
 Transcript Snippet: I reached out to them multiple times for comment about the allegations in the podcast.
 
@@ -3375,11 +3375,11 @@ Investigative Direction: Find the TPUSA Faith pastor summit schedule, speaker li
 
 ---
 
-**C-8223** Washington Post Quotes Ex-Priest Bordelon That Moon Buys Credibility With Academics
+**C-8223** Washington Post Quotes Ex-Priest Borderlon That Moon Buys Credibility With Academics
 
 Claim Timestamp: 00:58:39
 
-Claim: Reading the 1997 Washington Post article, the host quotes a former Catholic priest, rendered Borderlin, as saying Moon holds conferences on religious founders like Buddha, Jesus and then Moon and gets credibility from academics who attend.
+Claim: Reading the 1997 Washington Post article, the host quotes a former Catholic priest, Borderlon, as saying Moon holds conferences on religious founders like Buddha, Jesus and then Moon and gets credibility from academics who attend.
 
 Transcript Snippet: They'll have a conference on the essence of religious founders like Buddha, Jesus and then Moon who gets a room full of academics to sit there.
 
@@ -3427,7 +3427,7 @@ Investigative Direction: Review the IFCJ's website and Form 990 for its stated p
 
 Claim Timestamp: 01:00:49
 
-Claim: Reading the 1997 Washington Post article, the host says the International Coalition for Religious Freedom, which Borderlin said signs his checks these days, shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.
+Claim: Reading the 1997 Washington Post article, the host says the International Coalition for Religious Freedom, which Borderlon said signs his checks these days, shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.
 
 Transcript Snippet: shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.
 
@@ -3553,11 +3553,11 @@ Investigative Direction: Obtain the Build Up Korea program and Kirk's flight rec
 
 ---
 
-**C-8234** Chan Yoon Says Kirk Pledged to Use His Platform for the Pastor's Case
+**C-8234** Chance Son Says Kirk Pledged to Use His Platform for the Pastor's Case
 
 Claim Timestamp: 01:10:00
 
-Claim: In the CBN clip, Chan Yoon says Charlie Kirk made sure he would use his platform and voice to let the world and America know what was happening in South Korea, as an example of what happens if you do not speak for biblical truth.
+Claim: In the CBN clip, Chance Son says Charlie Kirk made sure he would use his platform and voice to let the world and America know what was happening in South Korea, as an example of what happens if you do not speak for biblical truth.
 
 Transcript Snippet: Charlie made sure that he will use his platform and his voice to let the whole world and America know that this is happening in South Korea
 
@@ -3668,7 +3668,7 @@ Investigative Direction: Seek the evidentiary record she relies on for coordinat
 
 Claim Timestamp: 01:18:26
 
-Claim: Responding to a viewer comment, the host says she has seen John Bray's work, finds it compelling, and has been communicating with him behind the scenes.
+Claim: Responding to a viewer comment, the host says she has seen Jon Bray's work, finds it compelling, and has been communicating with him behind the scenes.
 
 Transcript Snippet: and I have been communicating with him behind the scenes.
 
@@ -3760,7 +3760,7 @@ Investigative Direction: Verify the authorship of Mind War and Vallely's and Aqu
 
 Claim Timestamp: 01:20:03
 
-Claim: The host says she believes Paul Vallely has some connection to Fort Huachuca and will add him to her military connections list.
+Claim: The host says she believes Paul Vallely has some connection to Fort Huachuca and that a note should be made of it under military connections.
 
 Transcript Snippet: I do believe that he has some connection to Fort Huachuca as well.
 

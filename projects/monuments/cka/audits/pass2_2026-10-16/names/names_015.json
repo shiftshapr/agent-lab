@@ -1,0 +1,292 @@
+[
+ {
+  "id": "N-561",
+  "name": "TikToker (Unnamed)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "placeholder"
+ },
+ {
+  "id": "N-562",
+  "name": "Rachel Wilson",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "wife of debater Andrew Wilson"
+ },
+ {
+  "id": "N-563",
+  "name": "Dan Patrick",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-564",
+  "name": "\"Matt\" (TPUSA Halftime Show Producer)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "placeholder"
+ },
+ {
+  "id": "N-565",
+  "name": "Nicey (YouTuber)",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "host uses Nicey/Nicci/Niecy; channel spelling not found"
+ },
+ {
+  "id": "N-566",
+  "name": "Jillian Falcon",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "sources vary: Falcon/Falcón/Falkon (factually.co); not confirmed"
+ },
+ {
+  "id": "N-567",
+  "name": "Joshua Harrelson",
+  "verdict": "wrong",
+  "correct": "Josh Harrellson",
+  "source": "https://en.wikipedia.org/wiki/Josh_Harrellson",
+  "bad_aliases": [],
+  "note": "basketball player; signed with Detroit Pistons Aug 2013 (Michigan); alias Josh Harrelson also misspelled"
+ },
+ {
+  "id": "N-568",
+  "name": "Jared Moskowitz",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-569",
+  "name": "R-Name Photographer",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "placeholder"
+ },
+ {
+  "id": "N-570",
+  "name": "David Hull",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Utah SBI agent, testified at Robinson preliminary hearing (abc4.com)"
+ },
+ {
+  "id": "N-571",
+  "name": "Faith Kates",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-572",
+  "name": "Martha Louise of Norway",
+  "verdict": "wrong",
+  "correct": "Märtha Louise of Norway",
+  "source": "https://en.wikipedia.org/wiki/Princess_M%C3%A4rtha_Louise_of_Norway",
+  "bad_aliases": [],
+  "note": "diacritic only"
+ },
+ {
+  "id": "N-573",
+  "name": "Father Chad Ripperger",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-574",
+  "name": "Pam Liebman",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-575",
+  "name": "Larissa",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "first-name-only emailer"
+ },
+ {
+  "id": "N-576",
+  "name": "Nicole Rothstein",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "not found online"
+ },
+ {
+  "id": "N-577",
+  "name": "Alan Rothstein",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Instagram post says 'Uncle Allan'; spelling Alan vs Allan unconfirmed"
+ },
+ {
+  "id": "N-578",
+  "name": "Jake Hoffman",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-579",
+  "name": "Katie Hobbs",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-580",
+  "name": "Jake Hoffman",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "duplicate of N-578"
+ },
+ {
+  "id": "N-581",
+  "name": "Mark Bricker",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "not found online"
+ },
+ {
+  "id": "N-582",
+  "name": "Thomas Massie",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-583",
+  "name": "Sarah Huckabee Sanders",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-584",
+  "name": "Mark Epstein",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-585",
+  "name": "Renee Crossman",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "co-founder United Hands Romania (factually.co)"
+ },
+ {
+  "id": "N-586",
+  "name": "David Berg",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-587",
+  "name": "Oren Alexander",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-588",
+  "name": "Tal Alexander",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-589",
+  "name": "Alon Alexander",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-590",
+  "name": "Matt Tardio",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "confirmed by The Bulwark"
+ },
+ {
+  "id": "N-591",
+  "name": "Christina Babin",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Children of God survivor (hollywoodlife.com)"
+ },
+ {
+  "id": "N-592",
+  "name": "Meghan McCain",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-593",
+  "name": "Bret Weinstein",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Brett Weinstein"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-594",
+  "name": "Pete Hegseth",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Pete Hegsth"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-595",
+  "name": "Georgia Meloni",
+  "verdict": "wrong",
+  "correct": "Giorgia Meloni",
+  "source": "https://en.wikipedia.org/wiki/Giorgia_Meloni",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-596",
+  "name": "Jordan Peterson",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-597",
+  "name": "Druski",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-598",
+  "name": "Sergeant Dupey",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "from police scanner audio; spelling unknown"
+ },
+ {
+  "id": "N-599",
+  "name": "Jamie (Charlie Kirk's pilot)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "placeholder"
+ },
+ {
+  "id": "N-600",
+  "name": "Katherine Locastro",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "not found online; LoCastro capitalization unconfirmed"
+ }
+]

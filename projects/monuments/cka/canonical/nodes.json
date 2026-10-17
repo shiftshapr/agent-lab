@@ -2435,7 +2435,7 @@
       ]
     },
     "N-73": {
-      "canonical_name": "Irwin Steel",
+      "canonical_name": "Erwin Steele",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -2444,7 +2444,7 @@
       ]
     },
     "N-74": {
-      "canonical_name": "Sherry Steel",
+      "canonical_name": "Sherri Steele",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -2963,9 +2963,7 @@
     "N-111": {
       "canonical_name": "Margarethe Schurz",
       "type": "person",
-      "aliases": [
-        "Margaret Schzes"
-      ],
+      "aliases": [],
       "episodes": [
         9
       ]
@@ -3002,7 +3000,6 @@
       "canonical_name": "Xaviaer DuRousseau",
       "type": "person",
       "aliases": [
-        "Xavier Deruso",
         "Xavier Daruso",
         "Xavier Duso"
       ],
@@ -3217,7 +3214,7 @@
       ]
     },
     "N-133": {
-      "canonical_name": "Gernot Omer",
+      "canonical_name": "Gernot Ohner",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -3263,7 +3260,7 @@
       ]
     },
     "N-137": {
-      "canonical_name": "Erika \"Erikica\" Mindel",
+      "canonical_name": "Erica Mindel",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -3271,7 +3268,7 @@
       ]
     },
     "N-138": {
-      "canonical_name": "Florida Dab (X handle)",
+      "canonical_name": "Florida Dad (X handle)",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -3608,7 +3605,7 @@
       ]
     },
     "N-163": {
-      "canonical_name": "Iryna Zhuravska",
+      "canonical_name": "Iryna Zarutska",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -3720,7 +3717,7 @@
       ]
     },
     "N-173": {
-      "canonical_name": "Simon Andre",
+      "canonical_name": "Simon Andriesz",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -4340,10 +4337,10 @@
       ]
     },
     "N-218": {
-      "canonical_name": "Eliza McCoy",
+      "canonical_name": "Elizabeth McCoy",
       "type": "person",
       "aliases": [
-        "Elizabeth McCoy"
+        "Eliza McCoy"
       ],
       "episodes": [
         25,
@@ -4375,7 +4372,7 @@
       ]
     },
     "N-219": {
-      "canonical_name": "Micah Stevens",
+      "canonical_name": "Micah Stephens",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -4479,7 +4476,7 @@
       ]
     },
     "N-226": {
-      "canonical_name": "Steven Paddock",
+      "canonical_name": "Stephen Paddock",
       "type": "person",
       "aliases": [
         "Stephen Paddock"
@@ -4546,7 +4543,7 @@
       ]
     },
     "N-231": {
-      "canonical_name": "Colby Sessions",
+      "canonical_name": "Kolby Sessions",
       "type": "person",
       "aliases": [
         "Coby Sessions"
@@ -4732,7 +4729,7 @@
       ]
     },
     "N-248": {
-      "canonical_name": "Elijah Schaefer",
+      "canonical_name": "Elijah Schaffer",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -4742,7 +4739,7 @@
       ]
     },
     "N-249": {
-      "canonical_name": "Hen Mazig",
+      "canonical_name": "Hen Mazzig",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -4769,7 +4766,7 @@
       ]
     },
     "N-252": {
-      "canonical_name": "Robin Taylor",
+      "canonical_name": "Rob Taylor",
       "type": "person",
       "aliases": [
         "Rob Taylor"
@@ -5297,7 +5294,7 @@
       ]
     },
     "N-285": {
-      "canonical_name": "Freddy Ponton",
+      "canonical_name": "Freddie Ponton",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -5400,7 +5397,7 @@
       ]
     },
     "N-297": {
-      "canonical_name": "Christopher Mosley",
+      "canonical_name": "Christopher Moseley",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -5505,7 +5502,7 @@
       ]
     },
     "N-307": {
-      "canonical_name": "Sara Zaafarani",
+      "canonical_name": "Sarra Zaafrani",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -5616,7 +5613,7 @@
       ]
     },
     "N-320": {
-      "canonical_name": "Captain Adam Nef",
+      "canonical_name": "Captain Adam Neff",
       "type": "person",
       "aliases": [
         "Captain Nef",
@@ -6157,7 +6154,7 @@
       ]
     },
     "N-366": {
-      "canonical_name": "Diligent Dennison",
+      "canonical_name": "Diligent Denizen",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -6470,6 +6467,7 @@
       "type": "person",
       "aliases": [],
       "episodes": [
+        19,
         53
       ]
     },
@@ -6540,17 +6538,15 @@
       ]
     },
     "N-403": {
-      "canonical_name": "Pastor Yoon Bo-seon",
+      "canonical_name": "Pastor Son Hyun-bo",
       "type": "person",
-      "aliases": [
-        "Yoon Bo-seon"
-      ],
+      "aliases": [],
       "episodes": [
         54
       ]
     },
     "N-404": {
-      "canonical_name": "Chan Yoon",
+      "canonical_name": "Chance Son",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -6566,7 +6562,7 @@
       ]
     },
     "N-406": {
-      "canonical_name": "Abby Johnson",
+      "canonical_name": "Abbi Johnson",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -7131,7 +7127,7 @@
       ]
     },
     "N-464": {
-      "canonical_name": "Payton McCormick",
+      "canonical_name": "Peyton McCormick",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -7207,7 +7203,7 @@
       ]
     },
     "N-473": {
-      "canonical_name": "Zack Gregorio (Wolves and Finance)",
+      "canonical_name": "Zach De Gregorio (Wolves and Finance)",
       "type": "person",
       "aliases": [
         "Wolves and Finance"
@@ -7416,7 +7412,7 @@
       ]
     },
     "N-491": {
-      "canonical_name": "Lyle Reems",
+      "canonical_name": "Lyle Reams",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -7424,7 +7420,7 @@
       ]
     },
     "N-492": {
-      "canonical_name": "Shelly Reems",
+      "canonical_name": "Shelly Reams",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -7444,15 +7440,9 @@
       ]
     },
     "N-494": {
-      "canonical_name": "Marina (TPUSA CMO)",
+      "canonical_name": "Marina Minas",
       "type": "person",
-      "aliases": [
-        "Marina Meanes",
-        "Marina Medias",
-        "Marina Medvin",
-        "Marina Minas",
-        "Marina Munz"
-      ],
+      "aliases": [],
       "episodes": [
         62,
         64,
@@ -7814,7 +7804,7 @@
       ]
     },
     "N-531": {
-      "canonical_name": "Katherine Tate",
+      "canonical_name": "Kathryn Tate",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -8146,11 +8136,9 @@
       ]
     },
     "N-567": {
-      "canonical_name": "Joshua Harrelson",
+      "canonical_name": "Josh Harrellson",
       "type": "person",
-      "aliases": [
-        "Josh Harrelson"
-      ],
+      "aliases": [],
       "episodes": [
         74
       ]
@@ -8202,7 +8190,7 @@
       ]
     },
     "N-572": {
-      "canonical_name": "Martha Louise of Norway",
+      "canonical_name": "M\u00e4rtha Louise of Norway",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -8421,7 +8409,7 @@
       ]
     },
     "N-595": {
-      "canonical_name": "Georgia Meloni",
+      "canonical_name": "Giorgia Meloni",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -8802,7 +8790,7 @@
       ]
     },
     "N-632": {
-      "canonical_name": "John Mark Burns",
+      "canonical_name": "Mark Burns",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -8844,7 +8832,7 @@
       ]
     },
     "N-637": {
-      "canonical_name": "Mark Caputo",
+      "canonical_name": "Marc Caputo",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9624,7 +9612,7 @@
       ]
     },
     "N-719": {
-      "canonical_name": "Kathy O'Brien",
+      "canonical_name": "Cathy O'Brien",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9753,7 +9741,7 @@
       ]
     },
     "N-734": {
-      "canonical_name": "Stu Peters",
+      "canonical_name": "Stew Peters",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9908,7 +9896,7 @@
       ]
     },
     "N-752": {
-      "canonical_name": "Andrea Birkhart",
+      "canonical_name": "Andrea Burkhart",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9916,7 +9904,7 @@
       ]
     },
     "N-753": {
-      "canonical_name": "Robin Emer",
+      "canonical_name": "Robin Ebmeyer",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9955,7 +9943,7 @@
       ]
     },
     "N-757": {
-      "canonical_name": "Breland Holland",
+      "canonical_name": "Brilyn Hollyhand",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10029,9 +10017,11 @@
       ]
     },
     "N-766": {
-      "canonical_name": "Kenny",
+      "canonical_name": "Kenzie Kinney",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Kenny"
+      ],
       "episodes": [
         31
       ]
@@ -10045,7 +10035,7 @@
       ]
     },
     "N-768": {
-      "canonical_name": "Helen Barts",
+      "canonical_name": "Helene Bartz",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10113,7 +10103,7 @@
       ]
     },
     "N-776": {
-      "canonical_name": "Caitlyn Oliver",
+      "canonical_name": "Caitlin Oliver",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10143,7 +10133,7 @@
       ]
     },
     "N-779": {
-      "canonical_name": "Amanda Baker",
+      "canonical_name": "Amanda Bakker",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10179,7 +10169,7 @@
       ]
     },
     "N-783": {
-      "canonical_name": "Foster Curtis",
+      "canonical_name": "Foster Curtiss",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10247,7 +10237,7 @@
       ]
     },
     "N-791": {
-      "canonical_name": "Todd Starns",
+      "canonical_name": "Todd Starnes",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10285,9 +10275,7 @@
     "N-795": {
       "canonical_name": "Mary Phagan",
       "type": "person",
-      "aliases": [
-        "Mary Fagan"
-      ],
+      "aliases": [],
       "episodes": [
         14,
         67,
@@ -10475,7 +10463,7 @@
       ]
     },
     "N-817": {
-      "canonical_name": "David Sprag",
+      "canonical_name": "David Sprague",
       "type": "person",
       "aliases": [
         "James Norman Rawlinson Jr.",
@@ -10884,9 +10872,11 @@
       ]
     },
     "N-864": {
-      "canonical_name": "Agent Hoole",
+      "canonical_name": "David Hull",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Agent Hoole"
+      ],
       "episodes": [
         140
       ]
@@ -14008,7 +13998,7 @@
       ]
     },
     "N-10179": {
-      "canonical_name": "Iryna Zhuravska Murder Timeline Verification",
+      "canonical_name": "Iryna Zarutska Murder Timeline Verification",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -14122,7 +14112,7 @@
       ]
     },
     "N-10190": {
-      "canonical_name": "Signature FBO / Millionaire FBO (entity cluster)",
+      "canonical_name": "Signature FBO / Million Air FBO (entity cluster)",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -14764,7 +14754,7 @@
       ]
     },
     "N-10247": {
-      "canonical_name": "Potter's Fields Ministries Financial Fraud Allegations",
+      "canonical_name": "Potter's Field Ministries Financial Fraud Allegations",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -14819,7 +14809,7 @@
       ]
     },
     "N-10252": {
-      "canonical_name": "Potter's Fields Hostile Takeover Allegation",
+      "canonical_name": "Potter's Field Hostile Takeover Allegation",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -17115,7 +17105,7 @@
       ]
     },
     "N-10442": {
-      "canonical_name": "Sacaton \"Rose and Thobe\" Address Verification",
+      "canonical_name": "Sacaton \"Rose and Thobi\" Address Verification",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -21466,7 +21456,7 @@
       ]
     },
     "N-10870": {
-      "canonical_name": "Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum",
+      "canonical_name": "Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -21537,7 +21527,7 @@
       ]
     },
     "N-10877": {
-      "canonical_name": "Howard Lutnick / Simon Andre Epstein Whistleblower Death",
+      "canonical_name": "Howard Lutnick / Simon Andriesz Epstein Whistleblower Death",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -23152,7 +23142,7 @@
       ]
     },
     "N-11038": {
-      "canonical_name": "Scheper Security",
+      "canonical_name": "Shaffer Security",
       "type": "organization",
       "aliases": [],
       "episodes": [
@@ -24120,7 +24110,7 @@
       ]
     },
     "N-11141": {
-      "canonical_name": "Foster Curtis Richmond Inspector General Transition",
+      "canonical_name": "Foster Curtiss Richmond Inspector General Transition",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -25777,7 +25767,7 @@
       ]
     },
     "N-11330": {
-      "canonical_name": "Kingdom to the Capital Tour Plane Overlap Pattern",
+      "canonical_name": "Kingdom to the Capitol Tour Plane Overlap Pattern",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -26406,9 +26396,11 @@
       ]
     },
     "N-945": {
-      "canonical_name": "Johnny Yep",
+      "canonical_name": "John Yep",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Johnny Yep"
+      ],
       "episodes": [
         80
       ]

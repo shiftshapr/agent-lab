@@ -622,7 +622,7 @@
       "@type": "Person",
       "@id": "N-297",
       "ref": "N-297",
-      "name": "Christopher Mosley",
+      "name": "Christopher Moseley",
       "type": "person",
       "description": "Per Vanity Fair, killed Las Vegas prostitute at Lisa Dean DuPont's direction; died in prison.",
       "related_artifacts": [
@@ -708,7 +708,7 @@
       "@type": "Person",
       "@id": "N-218",
       "ref": "N-218",
-      "name": "Eliza McCoy",
+      "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Wife of Mikey McCoy; joined Charlie Kirk family vacation in Maine.",
       "related_artifacts": [],
@@ -1440,7 +1440,7 @@
       "ref": "N-10269",
       "name": "Wilmington Airport Hangar Federal Connection",
       "type": "investigation_target",
-      "description": "Wilmington hangar federal connection; reused for the federal approval and Satis items.",
+      "description": "Wilmington hangar federal connection; reused for the federal approval and Satys items.",
       "related_artifacts": [],
       "related_claims": [
         "C-10972",
@@ -1719,7 +1719,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10870",
       "ref": "N-10870",
-      "name": "Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum",
+      "name": "Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
       "type": "investigation_target",
       "description": "Yrefy sponsorship contracts; reused for the fall-tour sponsor claim.",
       "related_artifacts": [],
@@ -1739,7 +1739,7 @@
       "ref": "N-11008",
       "name": "Satys",
       "type": "investigation_target",
-      "description": "Satis; reused for the shareholder and hangar items.",
+      "description": "Satys; reused for the shareholder and hangar items.",
       "related_artifacts": [],
       "related_claims": [
         "C-10972",
@@ -1827,7 +1827,7 @@
       "ref": "N-11278",
       "name": "Ace Partners",
       "type": "organization",
-      "description": "French and Israeli firm that the host says is the second largest shareholder of Satis, the company that leased the Wilmington hangar.",
+      "description": "French and Israeli firm that the host says is the second largest shareholder of Satys, the company that leased the Wilmington hangar.",
       "related_artifacts": [],
       "related_claims": [
         "C-10972"
@@ -1978,8 +1978,8 @@
       "@type": "Claim",
       "@id": "C-1808",
       "ref": "C-1808",
-      "label": "Per Vanity Fair Reporting Host Relays, Lisa Dean DuPont and Christopher Mosley Ordered Killing of Las Vegas Prostitute",
-      "claim": "Per Dominic Dunne's Vanity Fair reporting as the host relays it, Lisa Dean DuPont and her husband Christopher Mosley ordered the killing of a Las Vegas prostitute whose body was found in a motel air conditioner, with the money tracing to the DuPont family; the host says both John DuPont and Mosley died in prison.",
+      "label": "Per Vanity Fair Reporting Host Relays, Lisa Dean DuPont and Christopher Moseley Ordered Killing of Las Vegas Prostitute",
+      "claim": "Per Dominick Dunne's Vanity Fair reporting as the host relays it, it appeared that Lisa Dean DuPont and her husband Christopher Moseley had a Las Vegas prostitute killed, whose body was found in a motel air conditioner, with the money tracing to the DuPont family; the host says both John DuPont and Moseley died in prison.",
       "anchored_artifacts": [
         "A-1480.1"
       ],
@@ -1988,7 +1988,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:39",
-      "investigative_direction": "Locate contemporaneous court filings or the original Dominic Dunn Vanity Fair piece.",
+      "investigative_direction": "Locate contemporaneous court filings or the original Dominick Dunne Vanity Fair piece.",
       "mentions_person_refs": [
         "N-296",
         "N-297",
@@ -2109,7 +2109,7 @@
       "@id": "C-1815",
       "ref": "C-1815",
       "label": "TPUSA sources identified donor prospect as French American named Pierre",
-      "claim": "Two TPUSA sources told host the donor prospect was French American and named Pierre; this detail was reported as forgotten until resurfacing after Episode 38's DuPont discussion.",
+      "claim": "The host says TPUSA sources, whom she calls \"these young women,\" told her the donor prospect was French American and named Pierre; she says she had forgotten this until after the previous day's show on the DuPont family.",
       "anchored_artifacts": [
         "A-1486.2"
       ],
@@ -2178,7 +2178,7 @@
       "@id": "C-1819",
       "ref": "C-1819",
       "label": "Andrew Kolvet family friend tip on Charlie losing millions declining BB's offer",
-      "claim": "A close family friend of Andrew Kolvet, in a written tip to host, said that Andrew Kolvet told them that when Charlie said no to \"BB,\" he lost out on millions.",
+      "claim": "The host says that, allegedly, a close family friend of Andrew Kolvet told her in a written tip that Andrew Kolvet had told them that when Charlie said no to \"BB,\" he lost out on millions.",
       "anchored_artifacts": [
         "A-1488.1"
       ],
@@ -2200,7 +2200,7 @@
       "@id": "C-3652",
       "ref": "C-3652",
       "label": "Host Says She Messaged Mommy Sleuths and TPUSA Sources About the Donor",
-      "claim": "The host praises \"mommy sleuth(s)\" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.",
+      "claim": "The host says that, wanting to know more about the donor phone call, she started messaging \"our mommy sleuths and our daddy's sleuths\" and all of her sources at Turning Point USA, asking for anything they could tell her.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2348,7 +2348,7 @@
         "N-10306"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:07:45",
       "investigative_direction": "Obtain the Vanity Fair article and the Delaware sentencing record to see who the critics were and whether the characterization holds.",
@@ -2371,7 +2371,7 @@
         "N-10306"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:07:45",
       "investigative_direction": "Pull the New Castle County deed for the Greenville property and the civil docket for the ex-wife's damages suit.",
@@ -2393,7 +2393,7 @@
         "N-10306"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:07:45",
       "investigative_direction": "Verify the genealogy against Richards family and DuPont family records and the cited registry entry.",
@@ -2408,7 +2408,7 @@
       "@id": "C-10957",
       "ref": "C-10957",
       "label": "Host Says Richards Layton & Finger Is the Firm Filing Paperwork in Her Lawsuit",
-      "claim": "The host says that the Richards law firm named in the article is the firm that is filing the paperwork for her in the lawsuit brought by the Macrons, and that she did not know this until the previous day.",
+      "claim": "The host says that the Richards law firm named in the article is the firm that is filing the paperwork for her, and that she did not know this until the previous day.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10303",
@@ -2421,8 +2421,7 @@
       "investigative_direction": "Check the Delaware court docket for counsel of record in Macron v. Owens and confirm the firm's name against the filings.",
       "transcript_snippet": "Hey Candace, is that the law firm that's filing the paperwork for you? And the answer to that is yes.",
       "mentions_person_refs": [
-        "N-3",
-        "N-294"
+        "N-3"
       ]
     },
     {
@@ -2482,7 +2481,7 @@
         "N-10306"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:09:20",
       "investigative_direction": "Obtain the Delaware bail order and plea agreement in the Richards case.",
@@ -2734,8 +2733,8 @@
       "@type": "Claim",
       "@id": "C-10972",
       "ref": "C-10972",
-      "label": "Host Says ACE Partners Is the Second Largest Shareholder of Satis",
-      "claim": "The host says her team learned that a French and Israeli firm, ACE Partners, is the second largest shareholder of Satis, the company that leased the Wilmington hangar.",
+      "label": "Host Says ACE Partners Is the Second Largest Shareholder of Satys",
+      "claim": "The host says her team learned that a French and Israeli firm, ACE Partners, is the second largest shareholder of Satys, the company that leased the Wilmington hangar.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11278",
@@ -2746,8 +2745,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:15:16",
-      "investigative_direction": "Obtain Satis shareholder registers or filings and verify ACE Partners' stake and ownership.",
-      "transcript_snippet": "We learn about this French and Israeli uh ACE Partners being the second largest shareholder of Satis.",
+      "investigative_direction": "Obtain Satys shareholder registers or filings and verify ACE Partners' stake and ownership.",
+      "transcript_snippet": "We learn about this French and Israeli uh ACE Partners being the second largest shareholder of Satys.",
       "mentions_person_refs": [
         "N-3"
       ]
@@ -2854,7 +2853,7 @@
       "@id": "C-10977",
       "ref": "C-10977",
       "label": "Host Says the Egyptian Yellow Plane Flew to Lincoln and Nebraska Announced an Egypt Trade Trip Two Days Later",
-      "claim": "The host says that right after the Tucker speech the Egyptian yellow plane flew to Lincoln, Nebraska, and two days later Nebraska announced a trade and investment trip with Egypt.",
+      "claim": "The host says that, in her timeline after the Tucker speech, right after the reported UVU event request the Egyptian yellow plane flew to Lincoln, Nebraska, and two days later Nebraska announced a trade and investment trip with Egypt.",
       "anchored_artifacts": [
         "A-3114.1"
       ],
@@ -3608,8 +3607,8 @@
       "@type": "Claim",
       "@id": "C-11010",
       "ref": "C-11010",
-      "label": "Host Says the April 2018 Texts Also Said Turning Point Would Be the Death of Him",
-      "claim": "The host says that in his April 2018 texts about his visions Charlie did not just say he was going to die but also that Turning Point was going to be the death of him.",
+      "label": "Host Says the April 2018 Texts Said More Than That Turning Point Would Be the Death of Him",
+      "claim": "The host says that in his April 2018 texts about his visions Charlie said not only that he was going to die and that Turning Point was going to be the death of him, but also wrote other things she had not shared before.",
       "anchored_artifacts": [
         "A-1481.1"
       ],

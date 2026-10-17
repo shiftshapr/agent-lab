@@ -1,0 +1,778 @@
+[
+ {
+  "claim": "C-5409",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5410",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: Nicole Rothstein (commenter the host calls Erika's cousin; not web-checked). Quote matches [44:04] 'Nicole Rothstein was like, \"I'm her cousin. She's half Jewish.\"'",
+  "fix": {}
+ },
+ {
+  "claim": "C-5411",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5412",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5413",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5414",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5415",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5416",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5417",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5418",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5419",
+  "episode": 50,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1989",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip [04:47] says 'This turning point kind of abomination ... the right wing of this country has turned into like a bad reality show'; 'right wing abomination' is not a verbatim quote.",
+  "fix": {
+   "claim": "In a clip the host plays, comedian Tim Dillon calls Turning Point USA's AmFest event a \"turning point kind of abomination\" and says the right wing of this country has turned into \"like a bad reality show.\""
+  }
+ },
+ {
+  "claim": "C-1990",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip: 'she walks out to a pyrotechnic display and then she goes, \"We're going to elect J. D. Vance.\"' 'Immediately pivoted' adds emphasis; he also says 'I'm not saying she killed her husband or knew about it'.",
+  "fix": {
+   "claim": "In a clip the host plays, comedian Tim Dillon observes that Erika Kirk walked out to a pyrotechnic display in a glittering pantsuit three months after Charlie Kirk's killing and talked about electing J. D. Vance."
+  }
+ },
+ {
+  "claim": "C-1991",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Reporter says 'Utah University um in September' [~10:05]; claim's 'Utah Valley University' corrects a slip, acceptable.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1992",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1993",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'nothingness' and 'slop' at ~22:55; 'emptiness' at [23:53] ('into nothingness, into emptiness'). Acceptable.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1994",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1995",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "[35:58] 'also we have Operation Mockingbird 2, which was another CIA program' reads as 'Operation Mockingbird too'; no 'Mockingbird 2', and 'is in effect' is added (he says it 'was' a program).",
+  "fix": {
+   "claim": "An October 2024 interview clip played on air shows Charlie Kirk telling Justice Smith that there is no evidence MK Ultra ended, citing Operation Mockingbird as another CIA program, and saying the CIA is actively involved in domestic mind manipulation.",
+   "names": [
+    {
+     "wrong": "Operation Mockingbird 2",
+     "right": "Operation Mockingbird",
+     "source": "https://en.wikipedia.org/wiki/Operation_Mockingbird"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1996",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The tie to Mitch Snow is the host's: [39:50] 'this is over Meeks Snow'. Jones's clip names neither Mitch nor InfoWars; he says 'you want a war, I want your war' and 'SHE'S A GLOBALIST AGENT.'",
+  "fix": {
+   "claim": "An Alex Jones segment played on air, which the host says is over her coverage of Mitch Snow, declares war on Candace Owens and labels her a \"globalist agent.\""
+  }
+ },
+ {
+  "claim": "C-1997",
+  "episode": 51,
+  "attribution": "error",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'The host' reads as Candace; it is the Paramount Tactical streamer reading ('I asked him ... He says'). That it came from Kolvet is Candace's framing [47:20]; the clip says only 'Sorry Andrew'.",
+  "fix": {
+   "claim": "In a Paramount Tactical Valhalla livestream clip the host plays, the streamer reads a message he says answered his request for proof, which the host says came from Andrew Kolvet, saying Erika Kirk woke up next to Charlie on the ninth and offering proof she was with her kids at 8:33 a.m.; he says he apparently was not supposed to share that and adds \"Sorry Andrew, I screwed that up.\"",
+   "label": "Paramount Tactical Valhalla Stream Clip Shows Streamer Reading Message the Host Attributes to Andrew Kolvet on Erika Kirk's September 9 Alibi",
+   "mentions": [
+    "N-2",
+    "N-14",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1998",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Mitch Snow' consistent; host's 'Meeks Snow' elsewhere is the same person.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1999",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2000",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2001",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2002",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says the stream 'revealed that Andrew ... was actually the hand behind the scenes' [47:20], and separately 'I confirmed that Andrew had been communicating with Alex Jones directly' [49:10]; rogue impression at [50:03]. 'Confirms coordination' via the clip compresses this.",
+  "fix": {
+   "claim": "The host says the Paramount Tactical Valhalla stream, in which the streamer reads instructions she says came from Andrew Kolvet, revealed Kolvet as the hand behind the scenes communicating with the people going after Mitch Snow; she says she confirmed Kolvet had been communicating with Alex Jones directly, which ran counter to her impression after meeting Erika Kirk that Kolvet had \"gone rogue.\"",
+   "mentions": [
+    "N-14",
+    "N-362",
+    "N-93",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-6742",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6743",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript 'Andrew Kolbect' = N-14 Andrew Kolvet. YouTubers part at [02:10].",
+  "fix": {}
+ },
+ {
+  "claim": "C-6744",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6745",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript 'Elizabeth McCoy'; N-218 Eliza/Elizabeth McCoy, same person per earlier reviews.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6746",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Michael McCoy' = N-191 Mikey McCoy; 'Elizabeth McCoy' = N-218. Same people.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6747",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6748",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6749",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6750",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "No clip is involved at [19:44]; the host states it herself ('quite literally born a male ... committed statutory rape under the then French law'). The 'not established by the clip' aside is spurious.",
+  "fix": {
+   "claim": "The host alleges that Brigitte Macron was born male and, under the then French law, committed statutory rape against a 14-year-old student."
+  }
+ },
+ {
+  "claim": "C-6751",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6752",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Madison Brandford (host later calls her 'young Maddie'; press names only 'Maddie' as host of the alleged Daily Wire show).",
+  "fix": {}
+ },
+ {
+  "claim": "C-6753",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Show title is 'In the Know Know' (transcript 'In the Know No'), per Soap Central. unresolved name: Madison Brandford.",
+  "fix": {
+   "claim": "The host says Madison Brandford is apparently a Daily Wire intern and that the Daily Wire is launching an iCarly-type show titled In the Know Know in which she will make fun of the host.",
+   "label": "Host Says Daily Wire Is Launching an Intern-Fronted Show Called In the Know Know to Mock Her",
+   "names": [
+    {
+     "wrong": "In the Know",
+     "right": "In the Know Know",
+     "source": "https://www.soapcentral.com/pop-culture/news-what-disaster-internet-reacts-candace-owens-reveals-clip-alleged-daily-wire-series-in-know-know"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6754",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6755",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6756",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6757",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says 'the Candlewood um Inn Hotel on the base'; the on-post hotel is Candlewood Suites (IHG Army Hotel), as in node N-10333.",
+  "fix": {
+   "claim": "The host says Mitch saw Erika Kirk on the 8th leaving the Candlewood Suites hotel on Fort Huachuca, accompanied by someone who looked similar to Cabot Phillips.",
+   "names": [
+    {
+     "wrong": "Candlewood Inn",
+     "right": "Candlewood Suites",
+     "source": "https://www.ihg.com/armyhotels/hotels/us/en/fort-huachuca/mfhuc/hoteldetail"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-6758",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6759",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6760",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6761",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6762",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6763",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6764",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6765",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6766",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6767",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6768",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6769",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6770",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6771",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6772",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6773",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "[48:18] notes say 'Erika wasn't in some fort in Tucson' then assert 'she woke up next to Charlie on the ninth...' as the alibi ('people are lunatics'); the claim recasts these as what 'the internet claims', reversing the sense.",
+  "fix": {
+   "claim": "In the stream clip, the host of the stream reads notes saying Erika was not \"in some fort in Tucson\" and that she woke up next to Charlie on the ninth, went to the office with him all day, woke him from a nap before Fox hit, and went to dinner with him."
+  }
+ },
+ {
+  "claim": "C-6774",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6775",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'The spokesperson is Andrew, obviously' is the host's own aside, not part of what Alex said; the claim's list can read as Jones saying it.",
+  "fix": {
+   "claim": "The host says Alex Jones said he was in communication with Turning Point USA, notes that its spokesperson is Kolvet, and says she confirmed Kolvet had been communicating directly with Jones."
+  }
+ },
+ {
+  "claim": "C-6776",
+  "episode": 51,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

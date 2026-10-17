@@ -141,7 +141,7 @@
           "@type": "Artifact",
           "@id": "A-1325.1",
           "ref": "A-1325.1",
-          "description": "Ventura County Star article reporting that Rob McCoy would step down as senior pastor of Godspeak Calvary Chapel in July 2025, with son-in-law Micah Stevens succeeding him; article also notes McCoy's Phoenix relocation tied to growing Turning Point USA responsibilities",
+          "description": "Ventura County Star article reporting that Rob McCoy would step down as senior pastor of Godspeak Calvary Chapel in July 2025, with son-in-law Micah Stephens succeeding him; article also notes McCoy's Phoenix relocation tied to growing Turning Point USA responsibilities",
           "related_claims": [
             "C-1588"
           ],
@@ -504,7 +504,7 @@
       "@type": "Person",
       "@id": "N-218",
       "ref": "N-218",
-      "name": "Eliza McCoy",
+      "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Wife of Mikey McCoy; author of the Instagram post characterizing the McCoy-Kirk joint trip as the families' \"first family trip together.\"",
       "related_artifacts": [
@@ -602,7 +602,7 @@
       "@type": "Person",
       "@id": "N-219",
       "ref": "N-219",
-      "name": "Micah Stevens",
+      "name": "Micah Stephens",
       "type": "person",
       "description": "Rob McCoy's son-in-law; per Ventura County Star, designated to succeed Rob McCoy as senior pastor of Godspeak Calvary Chapel.",
       "related_artifacts": [
@@ -1476,7 +1476,7 @@
       "@id": "C-1588",
       "ref": "C-1588",
       "label": "Ventura County Star Reported Rob McCoy's July Pastoral Transition and Phoenix Relocation",
-      "claim": "Per the Ventura County Star article the host reads, Rob McCoy was scheduled to step down as senior pastor of Godspeak Calvary Chapel in mid-July 2025, with son-in-law Micah Stevens succeeding him, and had relocated to the Phoenix area due to growing Turning Point USA responsibilities.",
+      "claim": "Per the Ventura County Star article the host reads, Rob McCoy was approaching a transition in July 2025 in which he would step down as senior pastor of Godspeak Calvary Chapel, with son-in-law Micah Stephens succeeding him, and had relocated to the Phoenix area due to growing Turning Point USA responsibilities.",
       "anchored_artifacts": [
         "A-1325.1"
       ],
@@ -2453,7 +2453,7 @@
       "@type": "Claim",
       "@id": "C-6587",
       "ref": "C-6587",
-      "label": "Host Says Records Showing Jews Came From the Holy Land Are Outweighed by Contrary Proof",
+      "label": "Host Says There Is No Documented Proof Jews Are the Original People of the Holy Land",
       "claim": "The host says there is more proof against the idea that these people are the original people of the Holy Land, and that textbooks pointing to Turkey, the Ashkenaz tribe and Yiddish have stopped being printed.",
       "anchored_artifacts": [],
       "related_nodes": [],

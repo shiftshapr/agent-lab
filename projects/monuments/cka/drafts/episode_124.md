@@ -36,7 +36,7 @@ Episode 124 Ledger Summary
 Artifact Families Introduced: A-2115, A-2116, A-2117, A-2118, A-2119, A-2120, A-2121, A-2122, A-2123, A-2124, A-2125, A-2126, A-2127, A-2128
 Claim Range: C-3000 – C-3016, C-3761, C-3764, C-3770
 New Nodes Introduced: N-10709, N-10710, N-10711, N-10712, N-10713
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twiggs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Bari Weiss, Benny Johnson, Josh Hammer, Caitlyn Oliver, Samantha Carner, Miss Noble, Jeremy Boreing, Tim Pool, Blake Neff, Baron Coleman, Frank Turek, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kolvet/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Prejean Boller)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twiggs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Bari Weiss, Benny Johnson, Josh Hammer, Caitlin Oliver, Samantha Carner, Miss Noble, Jeremy Boreing, Tim Pool, Blake Neff, Baron Coleman, Frank Turek, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kolvet/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Prejean Boller)
 
 ## 6. Meme Register
 
@@ -260,7 +260,7 @@ Confidence: high
 
 # II. Executive Summary
 
-This episode is dedicated to the host's analysis of the Tyler Robinson preliminary hearing in Utah, with extensive evidentiary material drawn directly from courtroom audio, video exhibits, and post-court influencer commentary. The host anchors her critique in seven distinct artifact families: Lance Twiggs's courtroom testimony identifying Robinson only by generic clothing items and stating Robinson was not political; ATF forensic biologist Caitlyn Oliver's testimony that "Robinson's DNA is on the gun" would be "scientifically indefensible" and that Robinson's DNA was the most degraded contributor; the visual discrepancy between the dual-exhaust car shown in court footage and Tyler Robinson's known single-exhaust Dodge Challenger; ballistics expert Samantha Carner's measurement of the 6A bullet jacket fragment diameter (286–301 thousandths of an inch); the host's framing of Exhibits 12.4 and 12.1 as showing only blurred/unidentifiable figures; Benny Johnson's post-court video claim of having seen "4K HD" footage of the shooting; and Ben Shapiro's on-air admission that his security received live updates from someone in Charlie Kirk's vehicle during the seven-minute transport to the hospital.
+This episode is dedicated to the host's analysis of the Tyler Robinson preliminary hearing in Utah, with extensive evidentiary material drawn directly from courtroom audio, video exhibits, and post-court influencer commentary. The host anchors her critique in seven distinct artifact families: Lance Twiggs's courtroom testimony identifying Robinson only by generic clothing items and stating Robinson was not political; ATF forensic biologist Caitlin Oliver's testimony that "Robinson's DNA is on the gun" would be "scientifically indefensible" and that Robinson's DNA was the most degraded contributor; the visual discrepancy between the dual-exhaust car shown in court footage and Tyler Robinson's known single-exhaust Dodge Challenger; ballistics expert Samantha Carner's measurement of the 6A bullet jacket fragment diameter (286–301 thousandths of an inch); the host's framing of Exhibits 12.4 and 12.1 as showing only blurred/unidentifiable figures; Benny Johnson's post-court video claim of having seen "4K HD" footage of the shooting; and Ben Shapiro's on-air admission that his security received live updates from someone in Charlie Kirk's vehicle during the seven-minute transport to the hospital.
 
 The episode structurally advances the show's pre-hearing thesis that Lance Twiggs is a federal asset whose testimony is structurally indispensable to the prosecution, and introduces five new investigative discrepancies warranting continued tracking: the car exhaust pipe discrepancy, the bullet jacket diameter measurement, the most-degraded DNA claim, the Ben Shapiro security live-update admission, and the Tel Aviv text message extraction source. The episode also documents the absence of testimony at the hearing regarding the pre-hearing "Fed narrative" claim that Robinson's parents turned him in via confession.
 
@@ -454,9 +454,9 @@ Confidence Level: High
 
 ---
 
-**A-2124** Caitlyn Oliver ATF DNA Testimony Audio Bundle
+**A-2124** Caitlin Oliver ATF DNA Testimony Audio Bundle
 
-**A-2124.1** Audio of Caitlyn Oliver (ATF forensic biologist) testifying that characterizing media reports as "Mr. Robinson's DNA is found on this item" would be a "source attribution" that is "not scientifically defensible."
+**A-2124.1** Audio of Caitlin Oliver (ATF forensic biologist) testifying that characterizing media reports as "Mr. Robinson's DNA is found on this item" would be a "source attribution" that is "not scientifically defensible."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -466,7 +466,7 @@ Confidence Level: High
 
 *Related: C-3010*
 
-**A-2124.2** Audio of Caitlyn Oliver explaining DNA samples from the trigger and trigger guard were mixed samples with at least 4–7 contributors, with "major contributor"/"minor contributor" referring only to DNA quantity contributed, not to activity attribution.
+**A-2124.2** Audio of Caitlin Oliver explaining DNA samples from the trigger and trigger guard were mixed samples with at least 4–7 contributors, with "major contributor"/"minor contributor" referring only to DNA quantity contributed, not to activity attribution.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -476,7 +476,7 @@ Confidence Level: High
 
 *Related: C-3011*
 
-**A-2124.3** Audio of Caitlyn Oliver confirming that Tyler Robinson's DNA sample was the most degraded of all contributors on the firearm (swab 1.3 of trigger/trigger guard).
+**A-2124.3** Audio of Caitlin Oliver confirming that Tyler Robinson's DNA sample was the most degraded of all contributors on the firearm (swab 1.3 of trigger/trigger guard).
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -966,7 +966,7 @@ Bill Ackman (captioned Bill Ackman); the host says he put Netanyahu on the phone
 
 ---
 
-**N-366** Diligent Dennison
+**N-366** Diligent Denizen
 
 Researcher the host credits with speaking to the waiter in Panguitch.
 
@@ -1030,7 +1030,7 @@ Ben Shapiro; his security's live updates and Los Angeles meeting are the subject
 
 ---
 
-**N-776** Caitlyn Oliver
+**N-776** Caitlin Oliver
 
 First named by the host at 00:30:07 in episode 124. ATF forensic biologist who testified on DNA at the preliminary hearing.
 
@@ -1229,18 +1229,18 @@ Investigative Direction: Obtain full Court TV Day 2 footage for independent anal
 
 ---
 
-**C-3010** Caitlyn Oliver testified media "DNA on the gun" framing was scientifically indefensible
+**C-3010** Caitlin Oliver testified media "DNA on the gun" framing was scientifically indefensible
 
 Claim Timestamp: 00:31:06
 
-Claim: ATF forensic biologist Caitlyn Oliver testified that characterizing media reports as "Mr. Robinson's DNA is found on this item" would constitute a "source attribution" that is "not scientifically defensible."
+Claim: ATF forensic biologist Caitlin Oliver testified that characterizing media reports as "Mr. Robinson's DNA is found on this item" would constitute a "source attribution" that is "not scientifically defensible."
 
 Anchored Artifacts: A-2124.1
 Mentions: N-40, N-776
 
 Related Nodes: N-10711
 
-Investigative Direction: Compare Caitlyn Oliver's testimony against ATF report language and media headlines for accuracy of characterization.
+Investigative Direction: Compare Caitlin Oliver's testimony against ATF report language and media headlines for accuracy of characterization.
 
 ---
 
@@ -1248,7 +1248,7 @@ Investigative Direction: Compare Caitlyn Oliver's testimony against ATF report l
 
 Claim Timestamp: 00:32:07
 
-Claim: Caitlyn Oliver testified that DNA samples from the trigger and trigger guard were mixed samples with at least 4–7 contributors, with "major" and "minor" labels referring only to DNA quantity contributed, not to any activity-based attribution.
+Claim: Caitlin Oliver testified that DNA samples from the trigger and trigger guard were mixed samples with at least 4–7 contributors, with "major" and "minor" labels referring only to DNA quantity contributed, not to any activity-based attribution.
 
 Anchored Artifacts: A-2124.2
 Mentions: N-776
@@ -1263,7 +1263,7 @@ Investigative Direction: Obtain the full DNA report to verify contributor counts
 
 Claim Timestamp: 00:35:20
 
-Claim: The host says that Caitlyn Oliver confirmed, in testimony the host plays, that Tyler Robinson's DNA sample was the most degraded of all contributors found on the firearm (swab 1.3 of trigger/trigger guard).
+Claim: The host says that Caitlin Oliver confirmed, in testimony the host plays, that Tyler Robinson's DNA sample was the most degraded of all contributors found on the firearm (swab 1.3 of trigger/trigger guard).
 
 Anchored Artifacts: A-2124.3
 Mentions: N-40, N-776
@@ -1867,13 +1867,13 @@ Investigative Direction: Check the roommate's phone, building access and other r
 
 ---
 
-**C-7233** Host Says Influencers Pushed 4K Footage Claims to Overcome Caitlyn Oliver's Testimony
+**C-7233** Host Says Influencers Pushed 4K Footage Claims to Overcome Caitlin Oliver's Testimony
 
 Claim Timestamp: 00:30:07
 
-Claim: The host says her view is that the influencers claimed to have seen 4K HD video of Robinson on the roof in order to overcome the testimony of ATF forensic biologist Caitlyn Oliver, which she calls devastating to the prosecution.
+Claim: The host says her view is that the influencers claimed to have seen 4K HD video of Robinson on the roof in order to overcome the testimony of ATF forensic biologist Caitlin Oliver, which she calls devastating to the prosecution.
 
-Transcript Snippet: I believe that the reason they did it, the reason why they went insane was to overcome the testimony of Caitlyn Oliver.
+Transcript Snippet: I believe that the reason they did it, the reason why they went insane was to overcome the testimony of Caitlin Oliver.
 
 Anchored Artifacts: A-2124.1
 Mentions: N-3, N-776, N-40
@@ -1919,7 +1919,7 @@ Investigative Direction: Obtain the DNA report listing contributor counts and an
 
 Claim Timestamp: 00:35:20
 
-Claim: In the audio played, ATF biologist Caitlyn Oliver testifies that the trigger and trigger guard swabs were swabbed together, so she cannot say which part the DNA came from.
+Claim: In the audio played, ATF biologist Caitlin Oliver testifies that the trigger and trigger guard swabs were swabbed together, so she cannot say which part the DNA came from.
 
 Transcript Snippet: So, they were swabbed together. So, I wouldn't be able to say um where the DNA came from.
 
@@ -2487,13 +2487,13 @@ Investigative Direction: Find the Kolvet statements about Lance Twiggs the comme
 
 ---
 
-**C-7271** Host Says Diligent Dennison Spoke to the Waiter in Panguitch
+**C-7271** Host Says Diligent Denizen Spoke to the Waiter in Panguitch
 
 Claim Timestamp: 01:16:57
 
-Claim: The host says Diligent Dennison went and spoke to the waiter in Panguitch and that more was going to come out about it.
+Claim: The host says Diligent Denizen went and spoke to the waiter in Panguitch and that more was going to come out about it.
 
-Transcript Snippet: Diligent Dennison went and spoke to the waiter uh down at in Panguitch. More was going to be coming out about that.
+Transcript Snippet: Diligent Denizen went and spoke to the waiter uh down at in Panguitch. More was going to be coming out about that.
 
 Anchored Artifacts: 
 Mentions: N-3, N-366

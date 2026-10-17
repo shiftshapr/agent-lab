@@ -104,7 +104,7 @@ Charlie loved Pyrochnics. And he he also liked that Nicki Minaj monster verse. I
 
 [20:34]
 
-He immediately took it down and corrected it and and removed it from his content. So, this isn't like a bad acting, a bad faith actor by any means. It's Wolves in finance, and I'm referring to the presenter, uh, Zack Gregorio. I'm going to let him explain to you what happened. Take a listen. >> This week, I received a letter from Turning Point titled, "Demand to cease and desist defamatory comments. This is the first step when someone sues you for defamation." I know there are a lot of people out there making videos about TurningPoint, so you should pay attention to this. They have started sending out cease and desist letters, and for some reason, they've decided to start with me. Apparently, they cannot handle the criticism for my teeny tiny YouTube channel.
+He immediately took it down and corrected it and and removed it from his content. So, this isn't like a bad acting, a bad faith actor by any means. It's Wolves in finance, and I'm referring to the presenter, uh, Zach De Gregorio. I'm going to let him explain to you what happened. Take a listen. >> This week, I received a letter from Turning Point titled, "Demand to cease and desist defamatory comments. This is the first step when someone sues you for defamation." I know there are a lot of people out there making videos about TurningPoint, so you should pay attention to this. They have started sending out cease and desist letters, and for some reason, they've decided to start with me. Apparently, they cannot handle the criticism for my teeny tiny YouTube channel.
 
 [21:21]
 

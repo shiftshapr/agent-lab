@@ -1776,7 +1776,7 @@
       "@id": "C-1248",
       "ref": "C-1248",
       "label": "George Zinn Arrested ~1:48 After Shot Near Where Charlie's SUV Departed",
-      "claim": "Per the host's timeline, ~40 seconds from shot to SUV departure and ~1:08 later George Zinn is in handcuffs in the same SUV zone.",
+      "claim": "Per the host's timeline, ~40 seconds from the shot until Charlie is brought to the SUV and ~1:08 later George Zinn is in handcuffs in the same SUV zone.",
       "anchored_artifacts": [
         "A-1148.1",
         "A-1148.3",
@@ -1866,7 +1866,7 @@
       "@id": "C-1252",
       "ref": "C-1252",
       "label": "Roof video chain routed through Chicago-based intermediaries",
-      "claim": "Host traces the viral roof footage through an unknown poster, an Aaron with a Chicago number, and a separate pair of Chicago numbers that go nowhere.",
+      "claim": "Host traces the viral roof footage through the account that posted it, a pair of Chicago numbers sent via the poster's friend that go nowhere, and an Aaron with a Chicago number.",
       "anchored_artifacts": [
         "A-1150.1"
       ],
@@ -2005,7 +2005,7 @@
       "@type": "Claim",
       "@id": "C-1258",
       "ref": "C-1258",
-      "label": "Charlie Kirk said he was being morally blackmailed by donors",
+      "label": "Kolvet Says Charlie Said He Didn't Appreciate Being Morally Blackmailed",
       "claim": "Kolvet recounts Charlie telling him after a Myrtle Beach show, 'I don't appreciate being morally blackmailed,' after an audience member asked whether he would debate Candace or disavow Tucker.",
       "anchored_artifacts": [
         "A-1151.4",
@@ -2053,7 +2053,7 @@
       "@id": "C-1260",
       "ref": "C-1260",
       "label": "Trump called for separating MMR and delaying Hepatitis B",
-      "claim": "Trump publicly stated vaccines should not contain mercury or aluminum, MMR should be given as separate shots, and Hepatitis B should wait until age 12.",
+      "claim": "In a clip the host plays, Trump says he wants no mercury or aluminum in vaccines, that he thinks the MMR should be taken separately, and that he would say to wait until the baby is 12 years old for hepatitis B.",
       "anchored_artifacts": [
         "A-1153.1"
       ],
@@ -3414,7 +3414,7 @@
       "@id": "C-12049",
       "ref": "C-12049",
       "label": "Host Says Her Enemies Wish to Poison Children's Bodies and Minds",
-      "claim": "The host says that for the people she calls psychopaths, poisoning children is a religion, and that they wish to poison children's bodies and minds.",
+      "claim": "The host says the people she calls psychopaths hate us, that for them this is a religion, and that they wish to poison children's bodies and minds.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3477,7 +3477,7 @@
       "@id": "C-12052",
       "ref": "C-12052",
       "label": "Host Says the Official Narrative Is Designed to Make Left and Right Blame MAGA and a Trans Person",
-      "claim": "The host says the official narrative's message, a suspect whose father is extra MAGA and who is trans, is designed so the left reacts to MAGA and the right to a trans person, and that she never accepted it.",
+      "claim": "The host says the official narrative's message, that the suspect's dad is extra MAGA and that a trans person is involved, is designed so the left reacts to MAGA and the right to a trans person, and that she never accepted it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10109"

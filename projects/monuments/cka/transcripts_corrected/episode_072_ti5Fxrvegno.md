@@ -203,7 +203,7 @@ Calling anybody who went to school with Erika. It's amazing. Is her entire She's
 
 [36:47]
 
-Also, in case you missed this update quite strangely one of the people who was fired, the one who spoke out Aubrey Laitsch uh at Turning Point USA, the one who was questioned over the Uber ride by Marina Meanes, the CMO over at Turning Point USA, she her husband or her fiance who also got fired from Turning Point USA just because I guess he's going to marry her or something was going home and recognized that there was a person outside of their home. The video was online, you can find it, that was taking photos of their car, their license their license plate on their car as well as their home. And obviously he confronted him. Records the person. So in case you're thinking, which I would have thought, maybe they're just trying to serve documents.
+Also, in case you missed this update quite strangely one of the people who was fired, the one who spoke out Aubrey Laitsch uh at Turning Point USA, the one who was questioned over the Uber ride by Marina Minas, the CMO over at Turning Point USA, she her husband or her fiance who also got fired from Turning Point USA just because I guess he's going to marry her or something was going home and recognized that there was a person outside of their home. The video was online, you can find it, that was taking photos of their car, their license their license plate on their car as well as their home. And obviously he confronted him. Records the person. So in case you're thinking, which I would have thought, maybe they're just trying to serve documents.
 
 [37:32]
 

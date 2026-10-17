@@ -1,0 +1,764 @@
+[
+ {
+  "claim": "C-11923",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11924",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11925",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11926",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11927",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11928",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11929",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11930",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11931",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11932",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Fox News names the Orem resident whose family owns homes on West Street 'Erwin Steele', not 'Irwin Steel' (node N-73 name is a mis-transcription).",
+  "fix": {
+   "claim": "The host says the Erwin Steele clip is from the morning after the shooting and TMZ had already publicized the footage, which she says means either the feds collected it the night before and gave it to TMZ, or Steele gave it to TMZ before the feds.",
+   "names": [
+    {
+     "wrong": "Irwin Steel",
+     "right": "Erwin Steele",
+     "source": "https://www.foxnews.com/us/charlie-kirk-assassination-authorities-collect-home-surveillance-video-may-show-killer-fleeing-scene"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-11933",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Fox News spells the name 'Erwin Steele'; transcript 'Irwin Steel' is a mis-transcription. Transcript: 'Irwin is saying that he lives in that house, but actually we found some other steels'.",
+  "fix": {
+   "claim": "The host says Erwin Steele says he lives in the house that gave the footage, but she found other Steeles living there.",
+   "label": "Host Says Erwin Steele Claims to Live in a House Owned by Others, Where Other Steeles Live",
+   "names": [
+    {
+     "wrong": "Irwin Steel",
+     "right": "Erwin Steele",
+     "source": "https://www.foxnews.com/us/charlie-kirk-assassination-authorities-collect-home-surveillance-video-may-show-killer-fleeing-scene"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-11934",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "She does not spell it: she says 'called Caldera Engineering' at 15:41; 'Calira' at 16:34 is a transcription garble of Caldera (real Provo valve maker).",
+  "fix": {
+   "claim": "The host says the Steele family works for an engineering company she names as Caldera Engineering (later transcribed Calira), which she says ostensibly manufactures valves."
+  }
+ },
+ {
+  "claim": "C-11935",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11936",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Sherry Steel (transcript gives both 'Sheri Steele' and 'Sherry Steel'; BBC article not located).",
+  "fix": {}
+ },
+ {
+  "claim": "C-11937",
+  "episode": 5,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Steel showing the video and the voice 'she said belongs to the authorities' come from the BBC article she reads ('I'm going to read it directly here from the article'); only 'the BBC is not publishing this video' is the host's. unresolved name: Sherry Steel",
+  "fix": {
+   "claim": "Per the BBC article the host reads, Sherry Steel showed the BBC a video in which a loud voice she said belonged to the authorities can be heard shouting \"Freeze!\" and \"come out now\"; the host says the BBC is not publishing the video."
+  }
+ },
+ {
+  "claim": "C-11938",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11939",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11940",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11941",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11942",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11943",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Hedges dropped: 'Tyler and Lance could have gotten mixed up in some deep internet stuff' and 'Maybe maybe they're being blackmailed or threatened'.",
+  "fix": {
+   "claim": "The host relays a local theory that Tyler Robinson and Lance could have gotten mixed up in some deep internet stuff and were maybe blackmailed or threatened into leaving the weapon, with a different person as the real shooter; she says it is not her theory."
+  }
+ },
+ {
+  "claim": "C-11944",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: 'Governor Cox said it's all wrapped up. It's over. We've got him.' Not 'Utah has him'.",
+  "fix": {
+   "claim": "The host says Governor Cox said it is all wrapped up, it is over, and they have got him."
+  }
+ },
+ {
+  "claim": "C-11945",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Address transcribed 'tips@candice. com'; likely her tips address on candaceowens.com, not confirmed here; claim already marks it as transcribed.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11946",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11947",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11948",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11949",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11950",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11951",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11952",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11953",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11954",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11955",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11956",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11957",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11958",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11959",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11960",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11961",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11962",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11963",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Said right after 'You can say my name. Candace Owens lied.' while she argues Kirk declined the invitation; context suggests she is voicing what Netanyahu would have to claim, not reporting Kirk's words.",
+  "fix": {
+   "claim": "The host, challenging Netanyahu to say 'Candace Owens lied', says \"Charlie said I'd love to go to Israel. Charlie said I'd love to have you on my radio show.\""
+  }
+ },
+ {
+  "claim": "C-11964",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11965",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: 'shared text messages with Charlie Kirk to dispel the claims of you see how it says blackmail in parentheses where they put Israel' - the parentheses describe the claims, not Ackman's texts.",
+  "fix": {
+   "claim": "The host says that she never said Israel blackmailed Kirk, after noting that Ackman shared text messages with Kirk to dispel claims in which 'blackmail' appears in parentheses where Israel is put."
+  }
+ },
+ {
+  "claim": "C-11966",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11967",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11968",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "The corrected transcript reads 'Andrew Kolvet was there in the room'; the '(transcribed Kovit)' parenthetical no longer matches.",
+  "fix": {
+   "claim": "In the PBD clip, speakers say Bill Ackman brought receipts and that Andrew Kolvet was there in the room, without the clip making clear which meeting is meant."
+  }
+ },
+ {
+  "claim": "C-11969",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11970",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11971",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11972",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11973",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11974",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11975",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11976",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11977",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11978",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11979",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11980",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'a Schulman guy' is Robert Shillman, the TPUSA donor reported to have pulled a $2M pledge two days before the shooting and cancelled a plaque with his name at TPUSA's offices (Harper's; Grayzone via X).",
+  "fix": {
+   "claim": "The host says a man she names as Shillman (transcribed Schulman) said he wanted his name off the building at Turning Point, in the 48 hours leading up to the assassination.",
+   "names": [
+    {
+     "wrong": "Schulman",
+     "right": "Robert Shillman",
+     "source": "https://harpers.org/archive/2026/01/turning-point-andrew-cockburn-israel-gop-consensus/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-11981",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11982",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

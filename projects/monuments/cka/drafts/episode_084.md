@@ -362,7 +362,7 @@ Transcript spelling "Jesse Watters". His interview with Erika Kirk is contrasted
 
 *Related: C-3808*
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Transcript spellings "Elizabeth McCord" and "Elizabeth McCoy". Her account and October Instagram post on Erika Kirk learning of the death are compared with the New York Times version.
 
@@ -398,9 +398,9 @@ Referred to as "Mitch"; his account of seeing Brian Harpole at Fort Huachuca on 
 
 *Related: C-3815*
 
-**N-494** Marina (TPUSA CMO)
+**N-494** Marina Minas
 
-Transcript spelling "Marina Medvin". Placed on the timeline as asking Aubrey to draft the death statement.
+Transcript spelling "Marina Minas". Placed on the timeline as asking Aubrey to draft the death statement.
 
 *Related: C-3795, A-2528.1*
 
@@ -892,13 +892,13 @@ Investigative Direction: Obtain tail number, operator and manifest of the Page-t
 
 ---
 
-**C-3795** Marina Medvin asked Aubrey to draft the death statement because Kolvet was on a plane
+**C-3795** Marina Minas asked Aubrey to draft the death statement because Kolvet was on a plane
 
 Claim Timestamp: 00:13:38
 
-Claim: The host says Marina Medvin asked Aubrey to draft the death statement and said Andrew Kolvet was on a plane.
+Claim: The host says Marina Minas asked Aubrey to draft the death statement and said Andrew Kolvet was on a plane.
 
-Transcript Snippet: Then we know that Marina Medvin is going to ask Aubrey to draft the death death statement. She says that Andrew is on a plane.
+Transcript Snippet: Then we know that Marina Minas is going to ask Aubrey to draft the death death statement. She says that Andrew is on a plane.
 
 Anchored Artifacts: A-2528.1
 Mentions: N-494, N-552, N-14
@@ -1422,7 +1422,7 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2529.1 (TPUSA cease and desist), A-2531.1 (Erika Kirk's Instagram video of her mother), A-2534.1 (Scott Bessent letter) and A-2536.1 (online piece and insurance claim about the host's husband; the host says it will be shown next week).
 - **Date discrepancy**: the host dates Erika Kirk's frail-mother Instagram post to September 8 ("2 days before"), while prior claim C-2284 and node N-10479 date it September 7. C-3803 is linked as Supports C-2284 on the shared proposition; the date difference is preserved.
-- **Name matching**: "Elizabeth McCord" (19:56, 20:52) and "Elizabeth McCoy" (15:29) are both mapped to N-218 Eliza McCoy (alias Elizabeth McCoy). The context (the airport story and Mikey McCoy's wife) indicates the same person, but McCord may be a transcription error. "Cat" (14:28) and "Katherine Locastro" (15:29) are treated as one new person, N-600. Episodes 083, 085 and 086 spell her LoCastro, LaCastro and Low Castro, but she has no row in nodes.tsv, so the integrator should dedupe. "Marina Medvin" is matched to N-494 Marina (TPUSA CMO) through its alias.
+- **Name matching**: "Elizabeth McCord" (19:56, 20:52) and "Elizabeth McCoy" (15:29) are both mapped to N-218 Eliza McCoy (alias Elizabeth McCoy). The context (the airport story and Mikey McCoy's wife) indicates the same person, but McCord may be a transcription error. "Cat" (14:28) and "Katherine Locastro" (15:29) are treated as one new person, N-600. Episodes 083, 085 and 086 spell her LoCastro, LaCastro and Low Castro, but she has no row in nodes.tsv, so the integrator should dedupe. "Marina Minas" is matched to N-494 Marina (TPUSA CMO) through its alias.
 - **Transcription ambiguities**: The comedian is spelled "Druski", "Druski" and "Druski"; these are kept as written and aliased to N-597 Druski. Kolvet appears as "Andrew Kolvet" and "Andrew Kolvets". The tail number is first read as "N28 9 MM" and then corrected on air to N582MM. The scanner line "2J436 436" is a unit or cruiser identifier per the host. "Sergeant Dupey" spelling is unverified.
 - **Timing ambiguity**: the host says Kolvet was "on the flight that landed at 4:30 p. m." (05:56) but elsewhere says "about 4:40 p. m." (02:15) and "4:36 plane" (14:28). All are preserved as spoken.
 - **Not inscribed as claims (admission test)**: Several statements fail falsifiability or rhetoric removal:

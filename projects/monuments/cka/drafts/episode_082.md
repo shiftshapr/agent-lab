@@ -540,7 +540,7 @@ Independent YouTuber interviewed by Kolvet on 9/10.
 
 ---
 
-**N-218** Eliza McCoy
+**N-218** Elizabeth McCoy
 
 Wrote a post the host says confirms Erika learned of Charlie's death before the Provo flight (transcribed Elizabeth McCoy).
 

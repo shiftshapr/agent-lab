@@ -1070,7 +1070,7 @@
       "@type": "Person",
       "@id": "N-218",
       "ref": "N-218",
-      "name": "Eliza McCoy",
+      "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Elizabeth McCoy; the host says TPUSA contacts named her as the person who approved the tent.",
       "related_artifacts": [],
@@ -1721,7 +1721,7 @@
       "@id": "C-1990",
       "ref": "C-1990",
       "label": "Tim Dillon Clip Notes Erika Kirk Walking to Pyrotechnic Display in Glittering Pantsuit Three Months After Husband's Death",
-      "claim": "In a clip the host plays, comedian Tim Dillon observes that Erika Kirk walked out to a pyrotechnic display in a glittering pantsuit three months after Charlie Kirk's killing and immediately pivoted to discussing the election of J. D. Vance.",
+      "claim": "In a clip the host plays, comedian Tim Dillon observes that Erika Kirk walked out to a pyrotechnic display in a glittering pantsuit three months after Charlie Kirk's killing and talked about electing J. D. Vance.",
       "anchored_artifacts": [
         "A-1568.1"
       ],
@@ -1815,7 +1815,7 @@
       "@id": "C-1995",
       "ref": "C-1995",
       "label": "Charlie Kirk interview clip states MK Ultra likely never ended and CIA remains involved in domestic mind manipulation",
-      "claim": "An October 2024 interview clip played on air shows Charlie Kirk telling Justice Smith that there is no evidence MK Ultra ended, that Operation Mockingbird 2 is in effect, and that the CIA is actively involved in domestic mind manipulation.",
+      "claim": "An October 2024 interview clip played on air shows Charlie Kirk telling Justice Smith that there is no evidence MK Ultra ended, citing Operation Mockingbird as another CIA program, and saying the CIA is actively involved in domestic mind manipulation.",
       "anchored_artifacts": [
         "A-1571.1"
       ],
@@ -1851,8 +1851,8 @@
       "@type": "Claim",
       "@id": "C-1997",
       "ref": "C-1997",
-      "label": "Paramount Tactical Valhalla Stream Clip Shows Host Reading Andrew Kolvet's Instructions Providing Erika Kirk's September 9 Alibi",
-      "claim": "A Paramount Tactical Valhalla livestream segment played on air shows the host reading written instructions from Andrew Kolvet providing an alibi for Erika Kirk on the morning of September 9, then saying \"Sorry Andrew, I screwed that up\" after sharing content he was told not to share.",
+      "label": "Paramount Tactical Valhalla Stream Clip Shows Streamer Reading Message the Host Attributes to Andrew Kolvet on Erika Kirk's September 9 Alibi",
+      "claim": "In a Paramount Tactical Valhalla livestream clip the host plays, the streamer reads a message he says answered his request for proof, which the host says came from Andrew Kolvet, saying Erika Kirk woke up next to Charlie on the ninth and offering proof she was with her kids at 8:33 a.m.; he says he apparently was not supposed to share that and adds \"Sorry Andrew, I screwed that up.\"",
       "anchored_artifacts": [
         "A-1573.1"
       ],
@@ -1865,7 +1865,8 @@
       "investigative_direction": "Obtain the full unedited Paramount Tactical Valhalla stream; verify the original wording of Andrew Kolvet's instructions and the chain of custody.",
       "mentions_person_refs": [
         "N-2",
-        "N-14"
+        "N-14",
+        "N-1"
       ]
     },
     {
@@ -2158,7 +2159,7 @@
       "@id": "C-6750",
       "ref": "C-6750",
       "label": "Host Alleges Brigitte Macron Was Born Male and Committed Statutory Rape of a 14-Year-Old Student",
-      "claim": "The host alleges that Brigitte Macron was born male and, under the then French law, committed statutory rape against a 14-year-old student; this is the host's allegation and is not established by the clip.",
+      "claim": "The host alleges that Brigitte Macron was born male and, under the then French law, committed statutory rape against a 14-year-old student.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2225,8 +2226,8 @@
       "@type": "Claim",
       "@id": "C-6753",
       "ref": "C-6753",
-      "label": "Host Says Daily Wire Is Launching an Intern-Fronted Show Called In the Know to Mock Her",
-      "claim": "The host says Madison Brandford is apparently a Daily Wire intern and that the Daily Wire is launching an iCarly-type show titled In the Know in which she will make fun of the host.",
+      "label": "Host Says Daily Wire Is Launching an Intern-Fronted Show Called In the Know Know to Mock Her",
+      "claim": "The host says Madison Brandford is apparently a Daily Wire intern and that the Daily Wire is launching an iCarly-type show titled In the Know Know in which she will make fun of the host.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10385",
@@ -2325,7 +2326,7 @@
       "@id": "C-6757",
       "ref": "C-6757",
       "label": "Host Says Mitch Saw Erika Leaving the Candlewood Inn on the 8th With a Cabot-Like Man",
-      "claim": "The host says Mitch saw Erika Kirk on the 8th leaving the Candlewood Inn hotel on Fort Huachuca, accompanied by someone who looked similar to Cabot Phillips.",
+      "claim": "The host says Mitch saw Erika Kirk on the 8th leaving the Candlewood Inn [Candlewood Suites] hotel on Fort Huachuca, accompanied by someone who looked similar to Cabot Phillips.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10375",
@@ -2711,7 +2712,7 @@
       "@id": "C-6773",
       "ref": "C-6773",
       "label": "Stream Notes Read Aloud: Erika Woke Next to Charlie, Worked All Day, Went to Dinner on the 9th",
-      "claim": "In the stream clip, the host of the stream reads notes saying the internet claims Erika woke up next to Charlie on the ninth, went to the office with him all day, woke him from a nap before Fox hit, and went to dinner with him.",
+      "claim": "In the stream clip, the host of the stream reads notes saying Erika was not \"in some fort in Tucson\" and that she woke up next to Charlie on the ninth, went to the office with him all day, woke him from a nap before Fox hit, and went to dinner with him.",
       "anchored_artifacts": [
         "A-1573.1"
       ],
@@ -2762,7 +2763,7 @@
       "@id": "C-6775",
       "ref": "C-6775",
       "label": "Host Says She Confirmed Kolvet Had Been Communicating Directly With Alex Jones",
-      "claim": "The host says Alex Jones said he was in communication with Turning Point USA, that its spokesperson is Kolvet, and that she confirmed Kolvet had been communicating directly with Jones.",
+      "claim": "The host says Alex Jones said he was in communication with Turning Point USA, notes that its spokesperson is Kolvet, and says she confirmed Kolvet had been communicating directly with Jones.",
       "anchored_artifacts": [
         "A-1572.1"
       ],
@@ -3126,7 +3127,7 @@
       "@id": "C-6790",
       "ref": "C-6790",
       "label": "Host Says Streiff Offered Erika's Alibi as a Message About Making Dinner on the 8th",
-      "claim": "The host says Streiff told her he would send a message from Erika as her alibi, a conversation between Erika and Charlie about making dinner in the time frame when Mitch believes he saw her at Fort Huachuca, and that she never demanded an alibi again.",
+      "claim": "The host says Streiff told her he would send a message from Erika as her alibi, a conversation between Erika and Charlie about making dinner in the time frame when Mitch believes he saw her at Fort Huachuca, and she repeats that she never demanded an alibi.",
       "anchored_artifacts": [
         "A-2838.1"
       ],

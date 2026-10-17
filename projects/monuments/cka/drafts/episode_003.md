@@ -1079,7 +1079,7 @@ Claim Timestamp: 00:50:24
 Claim: The host says, crediting Village Crazy Lady on X, that Bill Ackman's tweet confirmed he hosted his meeting with Charlie Kirk on August 4th and 5th in the Hamptons.
 Transcript Snippet: Bill Ackman just confirmed that he hosted his meeting with Charlie on August 4th and 5th
 Anchored Artifacts: A-1098.1, A-1101.1, A-1102.1
-Mentions: N-37, N-1
+Mentions: N-37, N-1, N-66
 Related Nodes: N-10033
 Confidence: high
 Investigative Direction: Cross-reference attendee statements with published itinerary.
@@ -1140,13 +1140,13 @@ Investigative Direction: Locate published or archived version of the May letter.
 
 ---
 
-**C-1165** Laura Loomer pressured Charlie to distance from Tucker Carlson
+**C-1165** Host Says an X User Pressured Charlie to Distance From Tucker Carlson
 
 Claim Timestamp: 01:01:54
-Claim: The host says Laura Loomer tweeted a thread a week before Charlie Kirk died about how Kirk had to distance himself from Tucker Carlson, calls her one of the people creating online pressure, and paraphrases the thread as saying Kirk was going to ruin his company.
+Claim: The host says an X user she does not name, saying only that she goes by 'the gay who's straight', tweeted a thread a week before Charlie Kirk died about how Kirk had to distance himself from Tucker Carlson, calls her one of the people creating online pressure, and paraphrases the thread as saying Kirk was going to ruin his company.
 Transcript Snippet: Charlie Kirk had to distance himself from Tucker Carlson
 Anchored Artifacts: A-1103.1
-Mentions: N-1, N-22, N-60
+Mentions: N-1, N-22
 Confidence: high
 Investigative Direction: Retrieve the tweet thread and verify dates.
 
@@ -1308,10 +1308,10 @@ Investigative Direction: Build a timeline of Netanyahu's 2025 US podcast appeara
 
 ---
 
-**C-3723** Hamptons attendee ring debate around Sarah Stockton
+**C-3723** Hamptons Attendee Ring Debate Around Sarah Stock
 
 Claim Timestamp: 01:00:30
-Claim: The host recalls an online debate over a recently engaged woman she believes was named Sarah Stockton, whose ring was mocked as too small, and says those Hamptons attendees never mentioned being there for a Turning Point weekend.
+Claim: The host recalls an online debate over a recently engaged woman she believes was named Sarah Stockton [Sarah Stock], whose ring was mocked as too small, and says those Hamptons attendees never mentioned being there for a Turning Point weekend.
 Transcript Snippet: I think her name was Sarah Stockton.
 Anchored Artifacts: A-2516.3
 Mentions: N-63
@@ -1927,7 +1927,7 @@ Investigative Direction: Plot the first public reports of the old man's detentio
 
 Claim Timestamp: 00:24:26
 
-Claim: Reading the indictment, the host says Robinson texted, Remember how I was engraving bullets, and that the messages are mostly a meme and he might have a stroke if he saw them on Fox News.
+Claim: Reading the indictment, the host says Robinson texted, Remember how I was engraving bullets, that the messages are mostly a meme, and that if he saw notices bulge on Fox News he might have a stroke.
 
 Transcript Snippet: Remember how I was engraving bullets? The effing messages are mostly a meme.
 
@@ -2184,7 +2184,7 @@ Investigative Direction: Check lease and utility records for the townhome and as
 
 Claim Timestamp: 00:34:44
 
-Claim: The host says that, according to what she is told, there were lots of different license plates at the house and neighbors were not able to park their cars because there were so many people there.
+Claim: The host says that, according to what she is told, there were lots of different license plates at the house where Tyler Robinson and Lance lived and other people were not able to park their cars because there were so many people there.
 
 Transcript Snippet: you know, kerfuffle because other people were not able to park their cars because there were so many people that were at this house.
 
@@ -2328,7 +2328,7 @@ Investigative Direction: Interview other attendees to corroborate the content of
 
 Claim Timestamp: 00:42:19
 
-Claim: The host says that, in a riffing example Kirk allegedly gave, if he tweeted that Netanyahu should resign he would be unfairly attacked, and that Seth Dillon allegedly piped up and argued back and forth aggressively that it would be antisemitic.
+Claim: The host says that, in an example Kirk apparently gave (which she says she is paraphrasing), if he tweeted that Netanyahu should resign he would be unfairly attacked, and that Seth Dillon allegedly piped up and argued back and forth aggressively that it would be antisemitic.
 
 Transcript Snippet: and Seth Dillon then allegedly he pipes up and goes back and forth with him quite aggressively saying like yeah because that would be anti-semitic.
 
@@ -2833,7 +2833,7 @@ Investigative Direction: Collect post-assassination statements by Hamptons atten
 
 Claim Timestamp: 01:00:19
 
-Claim: The host relays a tip from someone who says they worked for Turning Point for two years, asking whether Turning Point has ever held a weekend summit without publicizing it, and noting that the Hamptons attendees never mentioned it being a Turning Point weekend until Bill Ackman spoke openly about it.
+Claim: The host relays tips from Turning Point employees and, saying "I've worked for Turning Point for 2 years" (unclear whether of herself or quoting a tipster), asks whether Turning Point has ever held a weekend summit without publicizing it, noting that the Hamptons attendees never mentioned it being a Turning Point weekend though Bill Ackman is now open about it.
 
 Transcript Snippet: Have you ever heard of Turning Point doing a a weekend summit and not publicizing it?
 
@@ -2897,7 +2897,7 @@ Investigative Direction: Retrieve Ackman's tweet and check for any reference to 
 
 Claim Timestamp: 01:04:24
 
-Claim: The host says the meeting in the Hamptons was not publicized until she publicized it.
+Claim: The host, asking Bill Ackman about his presentation at the meeting in the Hamptons, says the meeting was not publicized until she publicized it.
 
 Transcript Snippet: which wasn't publicized until I publicized it? I don't know. I'm just asking questions.
 
@@ -3064,7 +3064,7 @@ Transcript Snippet: Um, mind tricks writes, "Casings BS." Casings are BS.
 Anchored Artifacts: A-3267.3
 Mentions: N-40, N-3
 Related Nodes: N-10138, N-10077
-Tags: relevance:context
+Tags: relevance:core
 Investigative Direction: Compare the casing inscriptions and the text messages with Robinson's known writing and the recovered rifle's ammunition.
 
 ---

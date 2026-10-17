@@ -409,7 +409,7 @@ Confidence Level: Medium
 
 *Related: C-2488, N-10541*
 
-**A-1855.7** Statement attributed to Italian Prime Minister Georgia Meloni describing the war as part of a "growing and dangerous trend of interventions that sit outside the scope of international law."
+**A-1855.7** Statement attributed to Italian Prime Minister Giorgia Meloni describing the war as part of a "growing and dangerous trend of interventions that sit outside the scope of international law."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -762,7 +762,7 @@ Investigative Pressure: High
 
 ---
 
-**N-595** Georgia Meloni
+**N-595** Giorgia Meloni
 
 Speaker attributed with statement (A-1855.7) criticizing US-Israeli war as outside international law.
 

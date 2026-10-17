@@ -310,7 +310,7 @@
           "@type": "Artifact",
           "@id": "A-1352.1",
           "ref": "A-1352.1",
-          "description": "Colby Sessions social media post identifying himself as the green-hoodie figure at the UVU event",
+          "description": "Kolby Sessions social media post identifying himself as the green-hoodie figure at the UVU event",
           "related_claims": [
             "C-1633"
           ],
@@ -413,7 +413,7 @@
           "@type": "Artifact",
           "@id": "A-3021.1",
           "ref": "A-3021.1",
-          "description": "Host verbal reference to her X reply with a clear image of the green-hoodie figure and Colby Sessions' answer (not shown separately)",
+          "description": "Host verbal reference to her X reply with a clear image of the green-hoodie figure and Kolby Sessions' answer (not shown separately)",
           "related_claims": [
             "C-9606"
           ],
@@ -669,7 +669,7 @@
       "@type": "Person",
       "@id": "N-231",
       "ref": "N-231",
-      "name": "Colby Sessions",
+      "name": "Kolby Sessions",
       "type": "person",
       "description": "UVU student who self-identified as the \"green hoodie\" figure at the event; artifact resolves N-10232.",
       "related_artifacts": [
@@ -867,7 +867,7 @@
       "ref": "N-10232",
       "name": "UVU Green Hoodie Person Identification (Resolved)",
       "type": "investigation_target",
-      "description": "Colby Sessions publicly identified himself as the figure in the green hoodie at the UVU event, apparently closing the speculative inquiry.",
+      "description": "Kolby Sessions publicly identified himself as the figure in the green hoodie at the UVU event, apparently closing the speculative inquiry.",
       "related_artifacts": [
         "A-1352.1"
       ],
@@ -1943,7 +1943,9 @@
       "claim_timestamp": "00:12:21",
       "investigative_direction": "Obtain unedited interview transcript; assess whether the non-direct answer is consistent across additional Erika Kirk public statements.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-212",
+        "N-1"
       ]
     },
     {
@@ -2204,8 +2206,8 @@
       "@type": "Claim",
       "@id": "C-1633",
       "ref": "C-1633",
-      "label": "Colby Sessions Publicly Identifies Himself as the Green-Hoodie Figure at the UVU Event",
-      "claim": "Colby Sessions posts a social media message identifying himself as the person seen wearing the green hoodie at the UVU event, explaining he and a teammate were on campus to get food and stop by.",
+      "label": "Kolby Sessions Publicly Identifies Himself as the Green-Hoodie Figure at the UVU Event",
+      "claim": "Kolby Sessions posts a social media message identifying himself as the person seen wearing the green hoodie at the UVU event, explaining he and a teammate were on campus to get food and stop by.",
       "anchored_artifacts": [
         "A-1352.1"
       ],
@@ -2214,7 +2216,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:25:41",
-      "investigative_direction": "Verify Colby Sessions's UVU student status and the existence of the underlying social media post.",
+      "investigative_direction": "Verify Kolby Sessions's UVU student status and the existence of the underlying social media post.",
       "mentions_person_refs": [
         "N-231"
       ]
@@ -2766,8 +2768,8 @@
       "@type": "Claim",
       "@id": "C-9607",
       "ref": "C-9607",
-      "label": "Host Believes Colby Sessions Is on the UVU Soccer Team",
-      "claim": "The host says she thinks Colby Sessions is on the soccer team at UVU.",
+      "label": "Host Believes Kolby Sessions Is on the UVU Soccer Team",
+      "claim": "The host says she thinks Kolby Sessions is on the soccer team at UVU.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012"

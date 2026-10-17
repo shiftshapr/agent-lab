@@ -23,7 +23,7 @@ The host opens by confirming that the circulating trailer is real: she has inter
 
 The host then frames Erika Kirk's rise as "the COVID vaccine" – an institutionally backed rollout whose critics are pathologized – and shows vaccine-incentive headlines and a "dark triad" vaccination study (A-2591). On the Aspen video, she restates that Erika Kirk told Megyn Kelly about a video of Charlie Kirk naming her CEO. She says sources with direct knowledge told her Charlie only said he trusted his lieutenants, which she argues would imply the CEO line was added with AI. After 46 days of requests, she says, Turning Point USA screened the footage privately for the Daily Mail. She reads from Charlie Spiering's paywalled article (A-2593): an anonymous board member's account of the couple's estate planning, the paper's "exclusive access," and TPUSA's donor-privacy reason for not releasing the video. She also says an insider told her Erika inherited about $10 million under Charlie's will, and that TPUSA met with a Hollywood AI company that makes posthumous videos. She shows reaction posts and her exchange with Blake Neff (A-2594).
 
-In the third segment, which the host calls "operation warp widow," she returns to her report of an email sent about an hour after the White House Correspondents' Dinner shooting. According to the host, it sought to boost Erika Kirk's "I want to go home" clip and called her an "emotional asset." Axios reporter Mark Caputo posted a White House Military Office denial (A-2595.1), which Graham Allen, Andrew Kolvet and Blake Neff promoted (A-2595.2). The host says her producer received the identical denial within four and a half minutes. She concedes the Military Office may not have sent the email, but says it was sent and received through a distribution list. She says the White House has not answered her follow-up asking whether an April 25 email copied to Steven Cheung, Richard Smale and Ryan Rippeon exists (A-2595.4).
+In the third segment, which the host calls "operation warp widow," she returns to her report of an email sent about an hour after the White House Correspondents' Dinner shooting. According to the host, it sought to boost Erika Kirk's "I want to go home" clip and called her an "emotional asset." Axios reporter Marc Caputo posted a White House Military Office denial (A-2595.1), which Graham Allen, Andrew Kolvet and Blake Neff promoted (A-2595.2). The host says her producer received the identical denial within four and a half minutes. She concedes the Military Office may not have sent the email, but says it was sent and received through a distribution list. She says the White House has not answered her follow-up asking whether an April 25 email copied to Steven Cheung, Richard Smale and Ryan Rippeon exists (A-2595.4).
 
 The host then airs Department of Defense payment records (A-2596.1) showing, she says, that Paramount Tactical, run by Gary Melton, received $39,000 on September 24, 2025 and $151,000 for night vision equipment on September 29, 2025. She notes that he does not make his own gear, and also recalls a DoD contract to the father of "decoy boy number two." The episode closes with a young fan's Ben Shapiro horse video and viewer comments, during which the host says she is done voting until the assassination is solved.
 
@@ -170,7 +170,7 @@ Confidence Level: High
 
 **A-2595** White House Military Office Denial Bundle
 
-**A-2595.1** Mark Caputo post with the White House background statement denying the WHCD email (shown)
+**A-2595.1** Marc Caputo post with the White House background statement denying the WHCD email (shown)
 
 Quoted text: "The White House Military Office has no knowledge of the communications alleged in this post and they did not authorize, draft, or publish the content in question. Any attribution to them is completely false."
 
@@ -386,7 +386,7 @@ First named by the host at 00:15:03 in episode 106. Daily Mail reporter who wrot
 
 *Related: C-4177, A-2593.1*
 
-**N-637** Mark Caputo
+**N-637** Marc Caputo
 
 First named by the host at 00:29:57 in episode 106. Axios reporter who posted the White House Military Office denial of the WHCD email.
 
@@ -514,7 +514,7 @@ Investigation target: the email the host says went out about an hour after the W
 **N-10940** Axios
 
 Node Type: Organization
-News outlet whose reporter Mark Caputo posted the White House Military Office denial of the WHCD email.
+News outlet whose reporter Marc Caputo posted the White House Military Office denial of the WHCD email.
 
 *Related: C-4194, C-4195, A-2595.1, A-2595.2, N-637*
 
@@ -984,14 +984,14 @@ Investigative Direction: Obtain the full original email text.
 
 Claim Timestamp: 00:29:57
 
-Claim: The host says Axios reporter Mark Caputo posted a White House statement that the White House Military Office has no knowledge of the alleged communications, did not authorize, draft or publish them, and that any attribution to it is "completely false."
+Claim: The host says Axios reporter Marc Caputo posted a White House statement that the White House Military Office has no knowledge of the alleged communications, did not authorize, draft or publish them, and that any attribution to it is "completely false."
 
 Transcript Snippet: The White House Military Office has no knowledge of the communications alleged in this post and they did not authorize, draft, or publish the content in question.
 
 Anchored Artifacts: A-2595.1
 Mentions: N-637
 Related Nodes: N-10940, N-10941, N-10923, N-10075
-Investigative Direction: Archive Mark Caputo's post and the White House background statement he shared.
+Investigative Direction: Archive Marc Caputo's post and the White House background statement he shared.
 
 ---
 

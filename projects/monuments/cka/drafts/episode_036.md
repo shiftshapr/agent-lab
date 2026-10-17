@@ -111,7 +111,7 @@ Confidence: high
 
 ## 2. Executive Summary
 
-Episode 36 combines (a) host's reconstruction of a multi-month timeline linking the Macron investigation to events surrounding the Charlie Kirk assassination, much of which is host narration referencing prior-episode material, with (b) four distinct artifact-anchored evidentiary segments presented in this episode. The artifact-anchored material consists of: (1) a displayed text exchange between host and Charlie Kirk from February 24–25, 2025 documenting White House and POTUS-side contact regarding the Macron topic; (2) a displayed internal legal-team communication from July 27, 2025 analyzing Delaware jurisdictional defects in the Macron lawsuit; (3) an audio/video clip from Brian Harpole's appearance on the Shawn Ryan show in which he read aloud text messages between Dan Flood and UVU Police Chief Jeff Long about student roof access, presented in a manner the host asserts was misrepresentative; and (4) a KUTV investigative report documenting that Washington County Sheriff's office states Tyler Robinson surveillance footage is no longer available, citing a 30-day retention period. A Tucker Carlson speech clip from the July 18 Turning Point event is also played. The episode does not present new primary artifacts supporting the bulk of the host's broader timeline claims about the Satis hanger, the Egyptian plane schedule, the foreign-dignitary transfer, the MK Ultra / Stanford line of investigation, or the phone calls with Andrew Kolvet and the unnamed CIA-contractor spouse; these are preserved as host assertions and excluded from the Claim Register per the admission test.
+Episode 36 combines (a) host's reconstruction of a multi-month timeline linking the Macron investigation to events surrounding the Charlie Kirk assassination, much of which is host narration referencing prior-episode material, with (b) four distinct artifact-anchored evidentiary segments presented in this episode. The artifact-anchored material consists of: (1) a displayed text exchange between host and Charlie Kirk from February 24–25, 2025 documenting White House and POTUS-side contact regarding the Macron topic; (2) a displayed internal legal-team communication from July 27, 2025 analyzing Delaware jurisdictional defects in the Macron lawsuit; (3) an audio/video clip from Brian Harpole's appearance on the Shawn Ryan show in which he read aloud text messages between Dan Flood and UVU Police Chief Jeff Long about student roof access, presented in a manner the host asserts was misrepresentative; and (4) a KUTV investigative report documenting that Washington County Sheriff's office states Tyler Robinson surveillance footage is no longer available, citing a 30-day retention period. A Tucker Carlson speech clip from the July 18 Turning Point event is also played. The episode does not present new primary artifacts supporting the bulk of the host's broader timeline claims about the Satys hanger, the Egyptian plane schedule, the foreign-dignitary transfer, the MK Ultra / Stanford line of investigation, or the phone calls with Andrew Kolvet and the unnamed CIA-contractor spouse; these are preserved as host assertions and excluded from the Claim Register per the admission test.
 
 ---
 
@@ -161,7 +161,7 @@ Confidence Level: Medium
 
 **A-1448** Flood–Long Text Message Family
 
-**A-1448.1** Text exchange between Dan Flood (Turning Point USA security) and UVU Police Chief Jeff Long, read aloud by Brian Harpole during the Shawn Ryan interview, covering student roof access at the Sorenson Center (with staircases to walkways/roofs), the request for controlled access or TP personnel presence, and Chief Long's response "I got you covered."
+**A-1448.1** Text exchange between Dan Flood (Turning Point USA security) and UVU Police Chief Jeff Long, read aloud by Brian Harpole during the Shawn Ryan interview, covering student roof access at the Sorensen Center (with staircases to walkways/roofs), the request for controlled access or TP personnel presence, and Chief Long's response "I got you covered."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -203,7 +203,7 @@ Confidence Level: High
 
 **A-2723** Host Timeline Graphic Bundle
 
-**A-2723.1** On-screen timeline of dates from March 2024 to September 2025 that the host walks through (Macron episode, firing, cease and desist letters, Satis announcement, interviews, plane stays), introduced as "we're going to bring that up here because I like timelines"
+**A-2723.1** On-screen timeline of dates from March 2024 to September 2025 that the host walks through (Macron episode, firing, cease and desist letters, Satys announcement, interviews, plane stays), introduced as "we're going to bring that up here because I like timelines"
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:07:30
@@ -229,9 +229,9 @@ Confidence Level: Medium
 
 ---
 
-**A-2725** Satis Hangar Article Bundle
+**A-2725** Satys Hangar Article Bundle
 
-**A-2725.1** Article about Satis signing a Wilmington hangar lease, paraphrased by the host ("Elsewhere in that article, it tells us that um it's a French multinational company that specializes in the painting of aircrafts")
+**A-2725.1** Article about Satys signing a Wilmington hangar lease, paraphrased by the host ("Elsewhere in that article, it tells us that um it's a French multinational company that specializes in the painting of aircrafts")
 
 Quoted text: "it's a French multinational company that specializes in the painting of aircrafts, and they plan to open for business in a hanger not far from Wilmington Airport come the new year."
 
@@ -317,7 +317,7 @@ Investigative Pressure: Medium
 
 **N-271** Dan Flood
 
-Turning Point USA security figure identified as the author of the text exchange to Chief Jeff Long about Sorenson Center rooftop access.
+Turning Point USA security figure identified as the author of the text exchange to Chief Jeff Long about Sorensen Center rooftop access.
 
 Evidence Count: 1
 Claim Count: 1
@@ -382,7 +382,7 @@ Investigative Pressure: Low
 
 **N-10270** Macron Defamation Lawsuit Delaware Venue Question
 
-Persistent investigative target regarding why the Macron defamation suit was filed in Delaware despite host's Tennessee domicile and lack of Delaware-based defamation; intersects with the Wilmington Satis hanger, 920 King Street facility, and the host's broader "France angle."
+Persistent investigative target regarding why the Macron defamation suit was filed in Delaware despite host's Tennessee domicile and lack of Delaware-based defamation; intersects with the Wilmington Satys hanger, 920 King Street facility, and the host's broader "France angle."
 
 Evidence Count: 2
 Claim Count: 2
@@ -589,7 +589,7 @@ Existing topic on the weapon; related here to the host's smaller-weapon conclusi
 
 **N-10028** Utah Valley University Campus
 
-Place of the Sorenson Center, Hall of Flags and rooftops.
+Place of the Sorensen Center, Hall of Flags and rooftops.
 
 *Related: C-5033, C-5034, C-5049*
 
@@ -839,7 +839,7 @@ First named in a viewer comment read by the host at 00:51:14 in episode 36.
 
 Node Type: Organization
 
-French aircraft-painting company, rendered Satis in the transcript, that announced a December 2024 deal for a Wilmington, Delaware hangar. The host says its CEO knows Emmanuel Macron and that her source and a tip show it was a front rather than a maintenance base.
+French aircraft-painting company, rendered Satys in the transcript, that announced a December 2024 deal for a Wilmington, Delaware hangar. The host says its CEO knows Emmanuel Macron and that her source and a tip show it was a front rather than a maintenance base.
 
 *Related: C-4975, C-4981, C-4990, C-4991, C-4992, C-5024, C-5029, C-5030*
 
@@ -939,11 +939,11 @@ Investigative Direction: Compare full Shawn Ryan interview transcript with authe
 
 ---
 
-**C-1763** Harpole Clip Presents Flood–Long Text Exchange on Student Roof Access at Sorenson Center
+**C-1763** Harpole Clip Presents Flood–Long Text Exchange on Student Roof Access at Sorensen Center
 
 Claim Timestamp: 00:34:36
 
-Claim: In a clip the host plays, Brian Harpole presents what the host says is a text exchange between Dan Flood and Chief Long about student roof access (Sorenson Center staircases to walkways/roofs near the CK setup), asking for either controlled access or one of his guys to be there, with Chief Long's last reply "I got you covered."
+Claim: In a clip the host plays, Brian Harpole presents what the host says is a text exchange between Dan Flood and Chief Long about student roof access (Sorensen Center staircases to walkways/roofs near the CK setup), asking for either controlled access or one of his guys to be there, with Chief Long's last reply "I got you covered."
 
 Anchored Artifacts: A-1448.1
 Mentions: N-267, N-271, N-272
@@ -1029,7 +1029,7 @@ Transcript Snippet: our source proved to us that it certainly wasn't established
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11008, N-10253, N-10269
-Investigative Direction: Obtain Satis corporate filings, the hangar lease and any maintenance contract; ask the source to document the claim that no maintenance work was performed.
+Investigative Direction: Obtain Satys corporate filings, the hangar lease and any maintenance contract; ask the source to document the claim that no maintenance work was performed.
 
 ---
 
@@ -1108,7 +1108,7 @@ Investigative Direction: List the individuals the host counts as present and doc
 
 ---
 
-**C-4981** Host Says Satis Leased the Hangar for Only Two Years and the Egyptian Plane Began Landing There
+**C-4981** Host Says Satys Leased the Hangar for Only Two Years and the Egyptian Plane Began Landing There
 
 Claim Timestamp: 00:04:48
 
@@ -1246,13 +1246,13 @@ Investigative Direction: Check French and US court records for any defamation su
 
 ---
 
-**C-4990** Host Says Satis Deal Was Publicly Announced December 10, Seven Days After the Cease and Desist
+**C-4990** Host Says Satys Deal Was Publicly Announced December 10, Seven Days After the Cease and Desist
 
 Claim Timestamp: 00:08:14
 
-Claim: The host says that seven days after the December 3 cease and desist letter, on December 10, it was publicly announced that Satis, a French company, had signed a deal for a hangar in Wilmington, Delaware.
+Claim: The host says that seven days after the December 3 cease and desist letter, on December 10, it was publicly announced that Satys (transcribed Satys), a French company, had signed a deal for a hangar in Wilmington, Delaware.
 
-Transcript Snippet: 7 days later is when it's announced that Satis that's that's when it's publicly announced that Satis that French company has inked a deal in Wilmington, Delaware for a hanger.
+Transcript Snippet: 7 days later is when it's announced that Satys that's that's when it's publicly announced that Satys that French company has inked a deal in Wilmington, Delaware for a hanger.
 
 Anchored Artifacts: A-2723.1
 Mentions: 
@@ -1262,7 +1262,7 @@ Investigative Direction: Pull the December 10, 2024 press coverage and DRBA anno
 
 ---
 
-**C-4991** Host Says Satis CEO Knows Emmanuel Macron and Signed a Two-Year Hangar Lease to Paint Planes
+**C-4991** Host Says Satys CEO Knows Emmanuel Macron and Signed a Two-Year Hangar Lease to Paint Planes
 
 Claim Timestamp: 00:09:25
 
@@ -1273,22 +1273,22 @@ Transcript Snippet: the CEO who knows Emmanuel Macron, we've confirmed that, dec
 Anchored Artifacts: 
 Mentions: N-378
 Related Nodes: N-11008, N-10269
-Investigative Direction: Identify the Satis CEO by name and document the claimed acquaintance with Macron; obtain the lease terms.
+Investigative Direction: Identify the Satys CEO by name and document the claimed acquaintance with Macron; obtain the lease terms.
 
 ---
 
-**C-4992** Host Reads Article Describing Satis as Aircraft-Painting Company Opening in the New Year
+**C-4992** Host Reads Article Describing Satys as Aircraft-Painting Company Opening in the New Year
 
 Claim Timestamp: 00:09:25
 
-Claim: The host says an article describes Satis as a French multinational that specializes in painting aircraft and planned to open in a hangar not far from Wilmington Airport at the start of 2025.
+Claim: The host says an article describes Satys as a French multinational that specializes in painting aircraft and planned to open in a hangar not far from Wilmington Airport at the start of 2025.
 
 Transcript Snippet: it's a French multinational company that specializes in the painting of aircrafts, and they plan to open for business in a hanger not far from Wilmington Airport come the new year.
 
 Anchored Artifacts: A-2725.1
 Mentions: 
 Related Nodes: N-11008, N-10269
-Investigative Direction: Locate the December 2024 article and quote its description of Satis's business.
+Investigative Direction: Locate the December 2024 article and quote its description of Satys's business.
 
 ---
 
@@ -1696,7 +1696,7 @@ Claim: The host says her Becoming Brigitte season 2 started on September 8, 2025
 Transcript Snippet: Emanuel mentioning MK Ultra in the lawsuit to us 18 times struck us as odd
 
 Anchored Artifacts: 
-Mentions: N-378, N-3
+Mentions: N-82, N-378, N-3
 Related Nodes: N-10001, N-10116, N-10270
 Investigative Direction: Count the MK Ultra references in the Delaware complaint.
 
@@ -1826,7 +1826,7 @@ Investigative Direction: Identify the individuals from the series and obtain pol
 
 Claim Timestamp: 00:28:44
 
-Claim: The host says many people involved in the Charlie Kirk story have a history of child sex abuse and points to George Zinn, the person who jumped up and screamed, and the pastors at Calvary Chapel as recurring examples.
+Claim: The host says many people involved in the Charlie Kirk story have a history of child sex abuse and points, as recurring examples, to George Zinn, or the person who jumped up and screamed, or the pastors at Calvary Chapel.
 
 Transcript Snippet: Whether you're talking about George Zinn or the person that jumped up and screamed or the pastors the Calvary Chapel
 
@@ -1837,18 +1837,18 @@ Investigative Direction: Cross-check each named person against court records for
 
 ---
 
-**C-5029** Host Says She Is Receiving Tips About Satis and Will Chase Them Down
+**C-5029** Host Says She Is Receiving Tips About Satys and Will Chase Them Down
 
 Claim Timestamp: 00:29:30
 
-Claim: The host says her team is receiving a bunch of tips about the company Satis and will chase down those leads.
+Claim: The host says her team is receiving a bunch of tips about the company Satys (transcribed Satys) and will chase down those leads.
 
 Transcript Snippet: We are receiving a bunch of tips about that company and we are going to chase down those leads
 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11008
-Investigative Direction: Review the Satis tips received and publish the corroborated leads.
+Investigative Direction: Review the Satys tips received and publish the corroborated leads.
 
 ---
 
@@ -1863,7 +1863,7 @@ Transcript Snippet: could you tell us who landed in Wilmington, Delaware? and we
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11008, N-10284
-Investigative Direction: Send the question to French authorities and the Satis CEO; note the transcript says 910 King, the host elsewhere says 920 King.
+Investigative Direction: Send the question to French authorities and the Satys CEO; note the transcript says 910 King, the host elsewhere says 920 King.
 
 ---
 
@@ -1898,19 +1898,19 @@ Investigative Direction: Identify the affected security staff and obtain employm
 
 ---
 
-**C-5033** Harpole Says the Sorenson Center Is the Building in Front of the Lucy Center
+**C-5033** Harpole Says the Sorensen Center Is the Building in Front of the Losee Center
 
 Claim Timestamp: 00:34:54
 
-Claim: In a clip the host plays, Brian Harpole says the Sorenson Center was the building in front of the Lucy Center.
+Claim: In a clip the host plays, Brian Harpole says the Sorensen Center was the building in front of the Losee Center (transcribed Sorenson and Lucy).
 
-Transcript Snippet: the Sorenson Center was the building in front of the Lucy Center.
+Transcript Snippet: the Sorensen Center was the building in front of the Losee Center.
 
 Anchored Artifacts: A-1448.1
 Mentions: N-267
 Related Nodes: N-10028
 Supports: C-1763
-Investigative Direction: Check a UVU campus map for the position of the Sorenson Center relative to the Losee Center; the transcript spells the second building Lucy.
+Investigative Direction: Check a UVU campus map for the position of the Sorensen Center relative to the Losee Center; the transcript spells the second building Lucy.
 
 ---
 
@@ -2099,7 +2099,7 @@ Investigative Direction: Identify the speaker and their role from the full KUTV 
 
 Claim Timestamp: 00:42:24
 
-Claim: The KUTV reporter says Washington County told him it does not believe the video was shared with anyone involved in the case, and it was unclear whether the video exists or was passed to another agency.
+Claim: The KUTV reporter says Washington County told the reporter it does not believe the video was shared with anyone involved in the case, and it was unclear whether the video exists or was passed to another agency.
 
 Transcript Snippet: Washington County shared with me they don't believe the video was shared with anyone involved in the case.
 

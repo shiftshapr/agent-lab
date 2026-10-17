@@ -113,7 +113,7 @@ Confidence Level: High (displayed on screen)
 
 **A-2388** UVU Campus Map Bundle
 
-**A-2388.1** Still image showing Sorenson Center staircase leading to walkway above Charlie Kirk's seating position
+**A-2388.1** Still image showing Sorensen Center staircase leading to walkway above Charlie Kirk's seating position
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01

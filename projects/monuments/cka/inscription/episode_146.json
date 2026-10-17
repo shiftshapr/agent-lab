@@ -116,7 +116,7 @@
           "@type": "Artifact",
           "@id": "A-2323.1",
           "ref": "A-2323.1",
-          "description": "Jack Hibbs audio interview with Todd Starns (Fox News) – brother Butch's front-row seat and post-shooting call",
+          "description": "Jack Hibbs audio interview with Todd Starnes (Fox News) – brother Butch's front-row seat and post-shooting call",
           "related_claims": [
             "C-3345",
             "C-3355"
@@ -1009,7 +1009,7 @@
       "@type": "Person",
       "@id": "N-218",
       "ref": "N-218",
-      "name": "Eliza McCoy",
+      "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Elizabeth McCoy; on Mikey McCoy's call log.",
       "related_artifacts": [],
@@ -1688,7 +1688,7 @@
       "@type": "Person",
       "@id": "N-791",
       "ref": "N-791",
-      "name": "Todd Starns",
+      "name": "Todd Starnes",
       "type": "person",
       "description": "First named by the host at 00:13:30 in episode 146 (spelled Starns; possibly Starnes). Fox News figure who interviewed Jack Hibbs on audio.",
       "related_artifacts": [],
@@ -2690,8 +2690,8 @@
       "@type": "Claim",
       "@id": "C-7628",
       "ref": "C-7628",
-      "label": "Jack Hibbs Tells Todd Starns That His Brother Phoned Him With Screaming Audible",
-      "claim": "In an audio-only Fox News interview with Todd Starns, Jack Hibbs says his brother called him, that he could hear people screaming and yelling, and that his brother told him Charlie had been shot.",
+      "label": "Jack Hibbs Tells Todd Starnes That His Brother Phoned Him With Screaming Audible",
+      "claim": "In an audio-only Fox News interview with Todd Starnes, Jack Hibbs says his brother called him, that he could hear people screaming and yelling, and that his brother told him Charlie had been shot.",
       "anchored_artifacts": [
         "A-2323.1"
       ],

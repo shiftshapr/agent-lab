@@ -808,7 +808,7 @@
       "ref": "N-10205",
       "name": "N888KG Flight Manifest Verification",
       "type": "investigation_target",
-      "description": "Persistent investigative target regarding the actual passenger manifest of plane N888KG during its 9/10/2025 movements, including the contested FBO routing (Millionaire FBO vs. alternative), the alleged federal instruction for airport personnel to lie, and the discrepancy between the Maxfield statement and any independent flight records.",
+      "description": "Persistent investigative target regarding the actual passenger manifest of plane N888KG during its 9/10/2025 movements, including the contested FBO routing (Million Air FBO vs. alternative), the alleged federal instruction for airport personnel to lie, and the discrepancy between the Maxfield statement and any independent flight records.",
       "related_artifacts": [
         "A-1291.1"
       ],
@@ -1248,7 +1248,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10190",
       "ref": "N-10190",
-      "name": "Signature FBO / Millionaire FBO (entity cluster)",
+      "name": "Signature FBO / Million Air FBO (entity cluster)",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1838,7 +1838,8 @@
       "claim_timestamp": "00:05:46",
       "investigative_direction": "Cross-check against FAA departure logs and Provo Airport (PVU) records.",
       "mentions_person_refs": [
-        "N-94"
+        "N-94",
+        "N-838"
       ]
     },
     {
@@ -1857,8 +1858,7 @@
       "claim_timestamp": "00:07:26",
       "investigative_direction": "Verify pilot identities and PGA passenger manifest through FAA and PGA airport records; obtain airport surveillance footage of boarding.",
       "mentions_person_refs": [
-        "N-94",
-        "N-201"
+        "N-94"
       ]
     },
     {
@@ -2268,6 +2268,7 @@
       "mentions_person_refs": [
         "N-94",
         "N-201",
+        "N-838",
         "N-3"
       ]
     },
@@ -2348,8 +2349,8 @@
       "@type": "Claim",
       "@id": "C-9408",
       "ref": "C-9408",
-      "label": "Host cites a source saying a plane shifted from Millionaire FBO to another FBO",
-      "claim": "The host says one person told her a plane was supposed to land at Millionaire FBO but suddenly shifted to another FBO.",
+      "label": "Host cites a source saying a plane shifted from Million Air FBO to another FBO",
+      "claim": "The host says one person told her a plane was supposed to land at Million Air FBO but suddenly shifted to another FBO.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10190",
@@ -2360,7 +2361,7 @@
       ],
       "claim_timestamp": "00:10:26",
       "investigative_direction": "FBO arrival records and ramp logs for Provo for September 10, 2025.",
-      "transcript_snippet": "there was one person who said they were supposed to land at Millionaire FBO, but then suddenly they shifted to another FBO",
+      "transcript_snippet": "there was one person who said they were supposed to land at Million Air FBO, but then suddenly they shifted to another FBO",
       "mentions_person_refs": [
         "N-3"
       ]
@@ -2499,7 +2500,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:15:53",
+      "claim_timestamp": "00:15:19",
       "investigative_direction": "Passenger and crew manifests and customs records for SU-BTT on September 4 and 10-11, 2025.",
       "transcript_snippet": "Well, I'm telling you that for a fact that plane was carrying military subcontractors and for a fact they were dropped off in Provo, okay?",
       "supports_claim_refs": [
@@ -2514,7 +2515,7 @@
       "@id": "C-9415",
       "ref": "C-9415",
       "label": "Host says she challenged Kash Patel to dispute her account of the flight",
-      "claim": "The host says she demands that Kash Patel dispute her account, and that the aircraft was not in Utah for any routine servicing.",
+      "claim": "The host says she almost demands that Kash Patel dispute her account, and that the aircraft was not in Utah for any routine servicing.",
       "anchored_artifacts": [
         "A-3007.1"
       ],

@@ -155,7 +155,7 @@ Confidence Level: High (clip played on air)
 
 ### A-1500 Egyptian Presidency Photographic Evidence Bundle
 
-**A-1500.1** Photograph of President El-Sisi meeting Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025
+**A-1500.1** Photograph of President El-Sisi meeting Tunisian Prime Minister Sarra Zaafrani in Egypt on September 10, 2025
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -274,7 +274,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-307** Sara Zaafarani
+**N-307** Sarra Zaafrani
 
 Tunisian Prime Minister. Photographed with President El-Sisi in Egypt on September 10, 2025, per host assertion; used as alibi for El-Sisi.
 
@@ -551,7 +551,7 @@ Investigative Direction: Verify the original Pentagon press briefing transcript 
 
 ---
 
-**C-1832** TPUSA Midnight Debate Announcement
+**C-1832** Neff Tweet Announcing the December 15 Livestream
 
 Claim Timestamp: 00:03:51
 
@@ -598,7 +598,7 @@ Investigative Direction: Verify directly against the Egyptian presidency website
 
 Claim Timestamp: 00:17:13
 
-Claim: The host says President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025, which she cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.
+Claim: The host says President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sarra Zaafrani in Egypt on September 10, 2025, which she cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.
 
 Anchored Artifacts: A-1500.1 (verbally referenced; not displayed)
 Mentions: N-3, N-717, N-307
@@ -805,7 +805,7 @@ Investigative Direction: Retrieve the host's reply post and confirm the any-day 
 
 ---
 
-**C-5156** Host Says TPUSA Pastors Call Her Questions Demonic and Possessed
+**C-5156** Host Says Neff Name-Called and the Pastors Call It Demonic
 
 Claim Timestamp: 00:10:28
 

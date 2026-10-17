@@ -590,9 +590,9 @@ Ghislaine Maxwell; subject of an Empress Films documentary the host says critics
 
 ---
 
-**N-734** Stu Peters
+**N-734** Stew Peters
 
-Stu Peters; the host says Blake Neff worked for him before the Charlie Kirk show job.
+Stew Peters; the host says Blake Neff worked for him before the Charlie Kirk show job.
 
 *Related: C-11841*
 
@@ -1662,13 +1662,13 @@ Investigative Direction: Ask Carlson, Neff and TPUSA how Neff was hired and who 
 
 ---
 
-**C-11841** Host Says Neff Worked for Stu Peters Before the Kirk Job
+**C-11841** Host Says Neff Worked for Stew Peters Before the Kirk Job
 
 Claim Timestamp: 00:45:02
 
-Claim: The host says Blake Neff was working for Stu Peters before he got the Charlie Kirk show job.
+Claim: The host says Blake Neff was working for Stew Peters before he got the Charlie Kirk show job.
 
-Transcript Snippet: He was actually working for Stu Peters and he calls in effectively a favor to get him this job with Charlie Kirk.
+Transcript Snippet: He was actually working for Stew Peters and he calls in effectively a favor to get him this job with Charlie Kirk.
 
 Anchored Artifacts: 
 Mentions: N-160, N-734, N-1

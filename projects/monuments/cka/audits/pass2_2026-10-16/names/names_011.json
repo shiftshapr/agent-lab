@@ -1,0 +1,292 @@
+[
+ {
+  "id": "N-401",
+  "name": "Menachem Begin",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-402",
+  "name": "Carey Hezekiah",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Partial name of Carey Hezekiah Falwell (Jerry Falwell Sr.'s father); spelling correct"
+ },
+ {
+  "id": "N-403",
+  "name": "Pastor Yoon Bo-seon",
+  "verdict": "wrong",
+  "correct": "Pastor Son Hyun-bo",
+  "source": "https://goodcallministries.org/hyun-bo-son-news/support-grows-for-imprisoned-korean-pastor-after-son-speaks-at-amfest/",
+  "bad_aliases": [
+   "Yoon Bo-seon"
+  ],
+  "note": "Segyero/Segero Church, Busan; arrested Sept 2025 days after meeting Charlie Kirk; also NPR https://www.npr.org/2026/09/02/nx-s1-5926558/a-korean-pastor-has-attracted-attention-from-the-trump-administration"
+ },
+ {
+  "id": "N-404",
+  "name": "Chan Yoon",
+  "verdict": "wrong",
+  "correct": "Chance Son",
+  "source": "https://goodcallministries.org/hyun-bo-son-news/support-grows-for-imprisoned-korean-pastor-after-son-speaks-at-amfest/",
+  "bad_aliases": [],
+  "note": "Son of Pastor Son Hyun-bo who spoke at AmFest; Korea Times gives Korean name Son Chan-song (https://www.koreatimes.co.kr/southkorea/20260808/pastor-son-hyun-bo-discloses-july-meeting-with-trump-us-officials)"
+ },
+ {
+  "id": "N-405",
+  "name": "John Mearsheimer",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-406",
+  "name": "Abby Johnson",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Former Godparent Home resident in ABC clip, not the pro-life activist; name not independently verified"
+ },
+ {
+  "id": "N-407",
+  "name": "Rachel Branning",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "ABC 13 (WSET) reporter; web search budget exhausted before this name could be checked"
+ },
+ {
+  "id": "N-408",
+  "name": "Anonymous Godparent Home Resident (mid-1990s)",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "placeholder"
+ },
+ {
+  "id": "N-409",
+  "name": "Frédéric Vaglio",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-410",
+  "name": "Daniel Beaulieu",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-411",
+  "name": "Zachariah Qureshi",
+  "verdict": "unresolved",
+  "bad_aliases": [
+   "Zachariah Karashi"
+  ],
+  "note": "Surname Qureshi confirmed for father Ahmed Qureshi (BILT); son's first-name spelling not verified"
+ },
+ {
+  "id": "N-412",
+  "name": "Ahmed Qureshi",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Co-founder, President & COO of BILT Incorporated (host's 'Built'): https://founderstory.transistor.fm/episodes/ahmed-qureshi-co-founder-president-coo-of-bilt"
+ },
+ {
+  "id": "N-413",
+  "name": "Nathan Henderson",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "BILT co-founder/CEO: https://churchofjesuschristinnorthtexas.org/bilt-founders-to-speak-at-dfw-leadership-series/"
+ },
+ {
+  "id": "N-414",
+  "name": "Gina Romney Henderson",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "web search budget exhausted before this name could be checked"
+ },
+ {
+  "id": "N-415",
+  "name": "Connor Henderson",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "web search budget exhausted before this name could be checked"
+ },
+ {
+  "id": "N-416",
+  "name": "Jeffrey Knuckles",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "No match found for 'Jeffrey Knuckles' + Romney; possibly mis-heard surname"
+ },
+ {
+  "id": "N-417",
+  "name": "Caleb Cunningham",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "web search budget exhausted before this name could be checked"
+ },
+ {
+  "id": "N-418",
+  "name": "Michael Shawn Covey",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "web search budget exhausted before this name could be checked"
+ },
+ {
+  "id": "N-419",
+  "name": "Derek Niekerk",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "No source found; may be 'Van Niekerk'"
+ },
+ {
+  "id": "N-420",
+  "name": "Monica Lewinsky",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-421",
+  "name": "Pope Leo XIV",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-422",
+  "name": "Doug Terry",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Douglas D. Terry, St. George, Utah criminal defense attorney: https://lawyers.nolo.com/profile/douglas-terry"
+ },
+ {
+  "id": "N-423",
+  "name": "Jimmy Cherizier",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Usually written Jimmy Chérizier; 'Barbecue' nickname correct"
+ },
+ {
+  "id": "N-424",
+  "name": "Daniel Horner",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-425",
+  "name": "Marcus Wada",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Not found in standard search; web search budget exhausted before this name could be checked in extended mode"
+ },
+ {
+  "id": "N-426",
+  "name": "Richard Novak",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-427",
+  "name": "Alan Jacoby",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "web search budget exhausted before this name could be checked"
+ },
+ {
+  "id": "N-428",
+  "name": "Mike Lawler",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-429",
+  "name": "Josh Gottheimer",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-430",
+  "name": "Chad Schnitker",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "web search budget exhausted before this name could be checked"
+ },
+ {
+  "id": "N-431",
+  "name": "Brad Parscale",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-432",
+  "name": "John Amanchukwu",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-433",
+  "name": "Kimberly Klacik",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-434",
+  "name": "Bradley Hansell",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-435",
+  "name": "Christoph Schweizer",
+  "verdict": "ok",
+  "bad_aliases": [
+   "Kristoff Schweiser"
+  ],
+  "note": ""
+ },
+ {
+  "id": "N-436",
+  "name": "Colonel Oliver North",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-437",
+  "name": "Lee Jae-myung",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-438",
+  "name": "Johnnie Moore",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-439",
+  "name": "Ron Godwin",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ },
+ {
+  "id": "N-440",
+  "name": "Jerry Falwell Jr.",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": ""
+ }
+]

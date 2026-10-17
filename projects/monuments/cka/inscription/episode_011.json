@@ -1532,13 +1532,13 @@
       "@id": "C-1297",
       "ref": "C-1297",
       "label": "Host Says Tyler Robinson Uses \"Car\" Rather Than \"Vehicle\" in 2022 Police Bodycam Footage",
-      "claim": "The host says the 2022 police bodycam audio she plays shows Tyler Robinson referring to \"his car\" and his mother \"shuttling over from her car,\" which she contrasts with the vocabulary of the federal text messages.",
+      "claim": "The host says Tyler Robinson refers to it as his car, not his vehicle, in the 2022 police bodycam footage she plays, in which his mother is said to have to \"shuttle over from where she's at to her car\", which she contrasts with the vocabulary of the federal text messages.",
       "anchored_artifacts": [
         "A-1171.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:02:45–00:03:25",
+      "claim_timestamp": "00:04:00",
       "investigative_direction": "Obtain the original 2022 bodycam video and full transcript; compare against the released federal text messages.",
       "mentions_person_refs": [
         "N-40"
@@ -1548,7 +1548,7 @@
       "@type": "Claim",
       "@id": "C-1298",
       "ref": "C-1298",
-      "label": "Tyler Robinson uses \"vehicle\" rarely in ordinary speech",
+      "label": "Host Says Robinson Saying \"Car\" Rather Than \"Vehicle\" Is How Most English Speakers Talk",
       "claim": "Host states (via commentary on A-1171.1) that Robinson's everyday use of \"car\" rather than \"vehicle\" is typical of ordinary American English speakers.",
       "anchored_artifacts": [
         "A-1171.1"
@@ -1583,7 +1583,7 @@
       "@type": "Claim",
       "@id": "C-1300",
       "ref": "C-1300",
-      "label": "Brooksby attempted to protect the retired detective's identity despite his public-record career",
+      "label": "Brooksby Says He Withheld the Retired Deputy's Identity to Protect Him",
       "claim": "Brooksby stated that he did not initially disclose the friend as a former detective and only referenced him generally as \"retired law enforcement\"; he argued that the court documents were what ultimately revealed the title.",
       "anchored_artifacts": [
         "A-1172.1",
@@ -1623,7 +1623,7 @@
       "@id": "C-1302",
       "ref": "C-1302",
       "label": "Brooksby stated Tyler Robinson came in willingly out of fear of being shot by law enforcement",
-      "claim": "Brooksby stated that Tyler came in to Brooksby's office willingly as part of a negotiated \"delicate and as soft as possible\" reception because he was \"fearful of a SWAT team hit\" and being shot by law enforcement.",
+      "claim": "In a clip the host plays, Brooksby says Tyler's arrival at his office was treated \"as delicate and as soft as possible\" because he was \"fearful of a SWAT team hit\" on his house or of being shot by law enforcement.",
       "anchored_artifacts": [
         "A-1172.3"
       ],
@@ -1652,10 +1652,11 @@
         "N-10143"
       ],
       "tags": [],
-      "claim_timestamp": "00:07:30–00:08:10",
+      "claim_timestamp": "00:12:21",
       "investigative_direction": "Recover archived versions of Lance's Instagram handle (host notes it has since been removed); cross-reference with any retained screenshots in the investigative file.",
       "mentions_person_refs": [
-        "N-40"
+        "N-40",
+        "N-54"
       ]
     },
     {
@@ -1663,13 +1664,13 @@
       "@id": "C-1304",
       "ref": "C-1304",
       "label": "Mike Mitchell retired from the Washington County Sheriff's Office after 24+ years",
-      "claim": "The Washington County Sheriff's Office retirement-celebration post states that Detective Mike Mitchell served for \"over 24 years … starting in the jail back in 1999.\"",
+      "claim": "Per the retirement-celebration post the host shows, Detective Mike Mitchell served Washington County for \"over 24 years … starting in the jail back in 1999.\"",
       "anchored_artifacts": [
         "A-1174.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:16:00–00:16:30",
+      "claim_timestamp": "00:20:00",
       "investigative_direction": "Verify against Washington County personnel records and any prior news coverage of Mitchell's career.",
       "mentions_person_refs": [
         "N-125"
@@ -1680,7 +1681,7 @@
       "@id": "C-1305",
       "ref": "C-1305",
       "label": "The retirement-celebration post is the only public trace of Mike Mitchell",
-      "claim": "Host states she was unable to find any other public news trace of Mike Mitchell despite his 24+ year career, and presents the retirement post as the sole located artifact.",
+      "claim": "The host says that despite a career of 25 years in the police force she could not find a single trace of Mike Mitchell in old newspapers, and presents the retirement post as the only trace of him she could find.",
       "anchored_artifacts": [
         "A-1174.1"
       ],
@@ -1688,7 +1689,7 @@
         "N-10141"
       ],
       "tags": [],
-      "claim_timestamp": "00:16:30–00:16:50",
+      "claim_timestamp": "00:20:25",
       "investigative_direction": "Conduct independent newspaper archive search (local Utah papers, Provo, St. George) and Washington County internal award/honor records.",
       "mentions_person_refs": [
         "N-125"
@@ -1740,8 +1741,8 @@
       "@type": "Claim",
       "@id": "C-1308",
       "ref": "C-1308",
-      "label": "Phil Lyman's family owns approximately twelve homes on the relevant street",
-      "claim": "In the Kayleigh McEnany interview, Phil Lyman describes the area as his childhood neighborhood and his relatives' neighborhood; host counts approximately twelve homes as owned by the Lyman family in the area.",
+      "label": "Host Says Lyman's Family Owns Twelve Homes in the Area",
+      "claim": "In the Kayleigh McEnany interview, Phil Lyman describes the area as his childhood neighborhood and his relatives' neighborhood; the host says his family owns twelve homes right there.",
       "anchored_artifacts": [
         "A-1177.1"
       ],
@@ -1769,7 +1770,7 @@
         "N-10144"
       ],
       "tags": [],
-      "claim_timestamp": "00:30:00–00:32:00",
+      "claim_timestamp": "00:31:25",
       "investigative_direction": "Obtain the unedited Alex Jones segment and any witness statements regarding the two individuals described.",
       "mentions_person_refs": [
         "N-61",
@@ -2245,7 +2246,7 @@
       "@id": "C-13834",
       "ref": "C-13834",
       "label": "Source Says the Family Friend, a Former Detective, Told the Family Tyler Had Been Identified as the Shooter",
-      "claim": "The host says her source told her the 'family friend' was a former detective with the police force and has strong ties to the police station, and that he was the in-between person who informed the Robinson family that Tyler had been identified as the shooter. She presents this as the opposite of the media story.",
+      "claim": "The host says her source told her the 'family friend' was a former detective with the police force, who she infers therefore has strong ties to the police station, and that he was the in-between person who informed the Robinson family that Tyler had been identified as the shooter. She presents this as the opposite of the media story.",
       "anchored_artifacts": [
         "A-3280.1"
       ],
@@ -2295,7 +2296,7 @@
       "@id": "C-13836",
       "ref": "C-13836",
       "label": "Source Says Robinson Was Called Over, Was Bewildered and Disputed Having Murdered Charlie Kirk",
-      "claim": "The host says her source told her that Tyler was called over to the house of the family friend, was bewildered, and disputed the idea that he had murdered Charlie Kirk.",
+      "claim": "The host says her source told her that Tyler was called over, was bewildered, and disputed the idea that he had murdered Charlie Kirk.",
       "anchored_artifacts": [
         "A-3280.1"
       ],

@@ -356,7 +356,7 @@ Confidence Level: Medium
 
 ---
 
-**A-2756.3** Read-aloud comment from 'Alyssa' recommending an interview with Kathy O'Brien and her book Transformation of America
+**A-2756.3** Read-aloud comment from 'Alyssa' recommending an interview with Cathy O'Brien and her book Transformation of America
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:50:49
@@ -418,7 +418,7 @@ Investigative Pressure: Medium
 
 **N-457** Bill Montgomery
 
-Referenced by host as deceased military figure; alleged to have co-founded Turning Point USA with Charlie Kirk and to have orchestrated Charlie's early "Schaefer security."
+Referenced by host as deceased military figure; alleged to have co-founded Turning Point USA with Charlie Kirk and to have orchestrated Charlie's early "Shaffer security."
 
 Evidence Count: 0
 Claim Count: 0
@@ -616,7 +616,7 @@ Topic for the host's claim that Palestinian deaths would be written out of textb
 
 *Related: C-5464*
 
-**N-719** Kathy O'Brien
+**N-719** Cathy O'Brien
 
 First named by the host at 00:51:51 in episode 57, reading a comment recommending her and her book Transformation of America.
 
@@ -674,7 +674,7 @@ Alleged program that the host calls the precursor to what the Nazis did in the U
 **N-11034** Charlie Kirk Early Security Arrangement
 
 Node Type: Topic
-The host's account that Charlie Kirk had required, orchestrated security (Schaefer security, arranged by Bill Montgomery) from about 2017.
+The host's account that Charlie Kirk had required, orchestrated security (Shaffer security, arranged by Bill Montgomery) from about 2017.
 
 *Related: C-5423, C-5424, C-5425*
 
@@ -890,14 +890,14 @@ Investigative Direction: Check the host's earliest dated communications and join
 
 Claim Timestamp: 00:02:53
 
-Claim: The host says that in 2017-2018 Charlie Kirk was required to have security on him at all times, that this was orchestrated, and that his Schaefer security was arranged by the late Bill Montgomery.
+Claim: The host says that in 2017-2018 Charlie Kirk was required to have security on him at all times, that this was orchestrated, and that his Shaffer security was arranged by the late Bill Montgomery.
 
-Transcript Snippet: he was required to have security on him at all times. That was orchestrated. His security, Schaefer security was orchestrated uh by Bill Montgomery.
+Transcript Snippet: he was required to have security on him at all times. That was orchestrated. His security, Shaffer security was orchestrated uh by Bill Montgomery.
 
 Anchored Artifacts: 
 Mentions: N-1, N-457
 Related Nodes: N-10000, N-11034
-Investigative Direction: Identify who Bill Montgomery was and when he died; obtain records of who contracted Schaefer security for Charlie Kirk and Turning Point USA in 2017-2018.
+Investigative Direction: Identify who Bill Montgomery was and when he died; obtain records of who contracted Shaffer security for Charlie Kirk and Turning Point USA in 2017-2018.
 
 ---
 
@@ -1009,9 +1009,9 @@ Investigative Direction: Check contemporaneous estimates of global Y2K remediati
 
 Claim Timestamp: 00:09:13
 
-Claim: The Be Inspired clip says millions remember the Berenstain Bears as 'Baron Stain' with an E, while every book says it is spelled with an A, and calls this the beginning of the Mandela effect.
+Claim: The Be Inspired clip says millions remember the Berenstain Bears as 'Berenstein' with an E, while every book spells it 'Berenstain' with an A, and calls this the beginning of the Mandela effect.
 
-Transcript Snippet: Millions remember it as Baron Stain with an E. But every book says Baron Stain with an A.
+Transcript Snippet: Millions remember it as Berenstein with an E. But every book says Berenstain with an A.
 
 Anchored Artifacts: A-1628.1
 Related Nodes: N-11027, N-11030
@@ -1609,14 +1609,14 @@ Investigative Direction: Obtain the verse or message Charlie sent the host and t
 
 Claim Timestamp: 00:49:41
 
-Claim: Replying to a viewer comment from Dakota that includes the lines 'Reality is catching up with me' and 'taking my inner child', the host says the commenter is referring to the 'yay power verse' that Charlie Kirk sent her.
+Claim: Replying to a viewer comment from Dakota that includes the lines 'Reality is catching up with me' and 'taking my inner child', the host says the commenter is referring to the Ye 'Power' verse that Charlie Kirk sent her.
 
-Transcript Snippet: You're referring to the yay power verse that Charlie sent to me.
+Transcript Snippet: You're referring to the Ye 'Power' verse that Charlie sent to me.
 
 Anchored Artifacts: A-2756.1
 Mentions: N-1, N-3
 Related Nodes: N-10415
-Investigative Direction: Identify the verse and its text from the message the host references; the 'yay power verse' wording is likely a transcription error for a Kanye West lyric.
+Investigative Direction: Identify the verse and its text from the message the host references; the 'Ye 'Power' verse' wording is likely a transcription error for a Kanye West lyric.
 
 ---
 
@@ -1669,7 +1669,7 @@ Investigative Direction: Identify the events, hosts and callers; the transcript 
 
 Claim Timestamp: 00:51:51
 
-Claim: Replying to commenter Alyssa, who recommended interviewing Kathy O'Brien, the host says she knows about Project Monarch and has discussed it on the show as the precursor to what the Nazis did here, which was about traumatizing children.
+Claim: Replying to commenter Alyssa, who recommended interviewing Cathy O'Brien, the host says she knows about Project Monarch and has discussed it on the show as the precursor to what the Nazis did here, which was about traumatizing children.
 
 Transcript Snippet: I know about Project Monarch. We've spoken about it on this show um as being the precursor to what the Nazis did here
 
@@ -1775,7 +1775,7 @@ Investigative Direction: The claim is second-hand from an unnamed cousin; no doc
 
 Claim Timestamp: 00:54:39
 
-Claim: Read-aloud commenter Benny says that on his show the previous night Nick Fuentes said people should stop talking about pedophilia in relation to Epstein and called teen girls, some 13 and 14, barely legal.
+Claim: Read-aloud commenter Benny says that on 'his show' the previous night (the host's reply identifies him as Nick Fuentes) he said people should stop talking about pedophilia in relation to Epstein and called teen girls, some 13 and 14, barely legal.
 
 Transcript Snippet: He called the teen girls some that are 13 and 14 barely legal
 

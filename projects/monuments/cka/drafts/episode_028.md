@@ -759,7 +759,7 @@ Investigative Direction: Pull transcripts of all Owens episodes cited by him and
 
 Claim Timestamp: 00:09:56–00:10:33
 
-Claim: On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is accusing TPUSA insiders, including Seth Dillon, of being involved in Charlie Kirk's murder.
+Claim: On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is accusing TPUSA insiders and other members of the right wing, including Seth Dillon, of being involved in Charlie Kirk's murder.
 
 Anchored Artifacts: A-1356.1
 Mentions: N-3, N-1, N-46, N-97, N-38
@@ -832,7 +832,7 @@ Investigative Direction: Identify the full name of the intern, confirm her emplo
 
 **C-1644** Owens Stated America Is "Occupied by Zionists" on CNN
 
-Claim Timestamp: 00:33:44–00:35:14
+Claim Timestamp: 00:35:15
 
 Claim: During the aired CNN interview, Candace Owens stated, "America is occupied by Zionists," and doubled and then tripled down on the characterization.
 
@@ -880,6 +880,7 @@ Claim Timestamp: 00:39:12–00:41:34
 Claim: At the Auburn TPUSA event, a student stated in a question that President Trump had taken over $230 million from pro-Israel groups.
 
 Anchored Artifacts: A-1363.1
+Mentions: N-5
 
 Related Nodes:
 
@@ -1605,7 +1606,7 @@ Investigative Direction: The attack on the USS Liberty is generally dated to 196
 
 Claim Timestamp: 00:40:42
 
-Claim: In the played Auburn clip, Eric Trump responds that there is no question his father has had frustration with both sides throughout the conflict.
+Claim: In the played Auburn clip, Eric Trump responds that there is no question his father has had frustration, and that he thinks his father has expressed frustration with both sides throughout the conflict.
 
 Transcript Snippet: There's no question my my father's had frustration. In fact, I think he says frustration throughout the whole conflict with with both sides.
 
