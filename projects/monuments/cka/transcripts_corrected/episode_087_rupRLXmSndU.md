@@ -80,7 +80,7 @@ You probably will actually believe this. Zack's father, Zachariah's father, is a
 
 [10:27]
 
-It lists Ahmed first and foremost, as you can see here, as the president and COO of Built Incorporated, which is based in Dallas-Fort Worth, Texas. Now, I just want to honorably mention here that Texas seems to be a very common theme in this investigation. I think by now we all suspect, given the planes traveling that day, also the planes the day before from Fort Huachuca, that there may be a Texas play in Charlie Kirk's assassination, just like there was a Texas play in JFK's assassination, I might add. CIA ran that operation out of Texas. Anyway, what does Built Incorporated do? That's interesting, right? It tells us that the award-winning Built app provides 3D interactive and XR immersive intelligent instructions that are voice and text guided.
+It lists Ahmed first and foremost, as you can see here, as the president and COO of BILT Incorporated, which is based in Dallas-Fort Worth, Texas. Now, I just want to honorably mention here that Texas seems to be a very common theme in this investigation. I think by now we all suspect, given the planes traveling that day, also the planes the day before from Fort Huachuca, that there may be a Texas play in Charlie Kirk's assassination, just like there was a Texas play in JFK's assassination, I might add. CIA ran that operation out of Texas. Anyway, what does BILT Incorporated do? That's interesting, right? It tells us that the award-winning Built app provides 3D interactive and XR immersive intelligent instructions that are voice and text guided.
 
 [11:20]
 
@@ -116,7 +116,7 @@ Okay? Gina Romney Henderson is relevant because she, too, works at the Built Cor
 
 [18:49]
 
-Go ahead. Timpanogos. Timpanogos emergency room. Okay, now, in case you are unaware of what an emergency room scribe does, they are essentially the physician's physician's personal assistant in charge of taking notes and handling the charting and clerical work for the doctors in that emergency setting. That was Connor's job from 2024 until if his and that's only if his LinkedIn is to be believed, just before Charlie's assassination or maybe even just after Charlie's assassination. I'm wondering. I'm wondering if he actually quit on September 10th. I'm wondering if he was working beneath Dr. Lee Trotter. It's a lead that should be pursued. Anyway, it's time to show you guys a nice clean chart since we are pulling together a lot of new names, it will help you visually see these connections to the Built Corporation, Built Incorporated, pardon.
+Go ahead. Timpanogos. Timpanogos emergency room. Okay, now, in case you are unaware of what an emergency room scribe does, they are essentially the physician's physician's personal assistant in charge of taking notes and handling the charting and clerical work for the doctors in that emergency setting. That was Connor's job from 2024 until if his and that's only if his LinkedIn is to be believed, just before Charlie's assassination or maybe even just after Charlie's assassination. I'm wondering. I'm wondering if he actually quit on September 10th. I'm wondering if he was working beneath Dr. Lee Trotter. It's a lead that should be pursued. Anyway, it's time to show you guys a nice clean chart since we are pulling together a lot of new names, it will help you visually see these connections to the Built Corporation, BILT Incorporated, pardon.
 
 [19:43]
 

@@ -837,7 +837,7 @@ Investigative Direction: Identify the date and outlet of the interview; obtain f
 
 Claim Timestamp: 00:21:42
 
-Claim: The host says an internal Alliance Defending Freedom video of its CEO shows him discussing the fact that they were working with Erika regarding her; in the clip the CEO describes a call with a large organization amid tension that "has to do with Candace Owens" and says he shared how they had thought about decisions such as whether to sue someone.
+Claim: The host says an internal Alliance Defending Freedom video of its CEO shows her discussing the fact that they were working with Erika regarding the host; in the clip the CEO describes a call with a large organization amid tension that "has to do with Candace Owens" and says she shared how they had thought about decisions such as whether to sue someone.
 
 Anchored Artifacts: A-1951.1
 Mentions: N-2, N-3
@@ -852,7 +852,7 @@ Investigative Direction: Authenticate the internal video; obtain the underlying 
 
 Claim Timestamp: 00:23:21
 
-Claim: According to host testimony supported by an ADF internal presentation, Daily Wire CEO Caleb Robinson sits on the ADF board of directors (one of approximately eight seats).
+Claim: The host says ADF insiders informed her, and showed her an internal presentation, that Daily Wire CEO Caleb Robinson is now on the ADF board of directors, one of what she thinks are eight seats.
 
 Anchored Artifacts: A-1951.2
 Mentions: N-606
@@ -925,7 +925,7 @@ Investigative Direction: Retrieve the original Discord statement and The Hill ar
 
 **C-2693** Search warrant records Tyler Robinson arriving at Washington County Sheriff's Office at 10:26 p.m. with parents
 
-Claim Timestamp: 00:40:19
+Claim Timestamp: 00:39:50
 
 Claim: Host references a search warrant indicating Tyler Robinson arrived at the Washington County Sheriff's Office at 10:26 p.m. with his parents.
 
@@ -953,7 +953,7 @@ Investigative Direction: Identify and contact the donors for recorded testimony;
 
 ---
 
-**C-2695** State claims forensic photographs of Lance Twiggs phone contents will be offered in lieu of forensic extraction
+**C-2695** State Says It Will Offer Camera Recordings of Text Messages Instead of Forensic Extractions
 
 Claim Timestamp: 00:47:50
 
@@ -1181,7 +1181,7 @@ Investigative Direction: Retrieve the Kolvet interview and search earlier public
 
 Claim Timestamp: 00:14:10
 
-Claim: The host says she has been pitched on creating an AI Candace or hologram Candace so she would not have to attend so many places, and says the hologram idea probably sounds more right to her.
+Claim: The host says she has been pitched on creating an AI Candace or hologram Candace so she would not have to attend so many places, and says it sounds more right to her that the Charlie GPT pitches took place before Charlie died.
 
 Transcript Snippet: I've certainly been in places where they've pitched me on like AI Candace, hologram Candace because it helps you not have to go to so many places at once.
 
@@ -1749,48 +1749,48 @@ Investigative Direction: File a records request for the sheriff's office lobby a
 
 ---
 
-**C-8734** Host Reads Search Warrant Text Saying Robinson's Roommate Showed Investigators Discord Messages
+**C-8734** Cox Says Robinson's Roommate Showed Investigators Discord Messages
 
 Claim Timestamp: 00:41:45
 
-Claim: The search warrant text read aloud says investigators identified Robinson's roommate, who said Robinson made a joke on Discord, then opened Discord and allowed investigators to photograph the screen as each message was shown.
+Claim: In a clip the host plays, Governor Spencer Cox says investigators identified Robinson's roommate, who said Robinson made a joke on Discord, then opened Discord and allowed investigators to photograph the screen as each message was shown.
 
 Transcript Snippet: He opened it and showed several messages to investigators and allowed investigators to take photos of the screen as each message was shown by Robinson's roommate.
 
 Anchored Artifacts: A-2958.1
-Mentions: N-3, N-40, N-54
+Mentions: N-3, N-41, N-40, N-54
 Related Nodes: N-10013, N-10598
 Tags: relevance:core
 Investigative Direction: Obtain the full search warrant affidavit and the photographs of the roommate's screen.
 
 ---
 
-**C-8735** Host Reads Warrant Text Describing Messages About a Rifle Left in a Bush Wrapped in a Towel
+**C-8735** Cox Describes Messages About a Rifle Left in a Bush Wrapped in a Towel
 
 Claim Timestamp: 00:41:45
 
-Claim: The warrant text read aloud says the messages from the contact Tyler stated a need to retrieve a rifle from a drop point, leaving the rifle in a bush, watching the area where it was left, and leaving it wrapped in a towel.
+Claim: In a clip the host plays, Governor Spencer Cox says the messages from the contact Tyler stated a need to retrieve a rifle from a drop point, leaving the rifle in a bush, watching the area where it was left, and leaving it wrapped in a towel.
 
 Transcript Snippet: stating a need to retrieve a rifle from a drop point, leaving the rifle in a bush, messages related to a to visually watching the area where a rifle was left, and a message referring to having left the rifle wrapped in a towel.
 
 Anchored Artifacts: A-2958.1
-Mentions: N-3, N-40, N-54
+Mentions: N-3, N-41, N-40, N-54
 Related Nodes: N-10013
 Tags: relevance:core
 Investigative Direction: Compare the affidavit's paraphrase with the full message thread released by the FBI.
 
 ---
 
-**C-8736** Host Reads Warrant Text That Messages Mentioned Engraving Bullets, a Scope and Changing Outfits
+**C-8736** Cox Says Messages Mentioned Engraving Bullets, a Scope and Changing Outfits
 
 Claim Timestamp: 00:42:44
 
-Claim: The warrant text read aloud says the messages also referred to engraving bullets, a scope and the rifle being unique, and that the contact Tyler said he had changed outfits.
+Claim: In a clip the host plays, Governor Spencer Cox says the messages also referred to engraving bullets, a scope and the rifle being unique, and that the contact Tyler said he had changed outfits.
 
 Transcript Snippet: The messages also referred to engraving bullets and a mention of a scope and the rifle being unique.
 
 Anchored Artifacts: A-2958.1
-Mentions: N-3, N-40, N-54
+Mentions: N-3, N-41, N-40, N-54
 Related Nodes: N-10013
 Tags: relevance:core
 Investigative Direction: Compare with the released text chain and with the bullet engraving evidence in the charging documents.
@@ -2044,7 +2044,7 @@ Investigative Direction: Trivially checkable against Trump's biography; no recor
 
 ---
 
-**C-8752** Host Says She Now Knows Who Was at the Aspen Event and Is Working on It
+**C-8752** Host Says She Now Knows Who Was at the Event and Is Working on It
 
 Claim Timestamp: 01:06:51
 

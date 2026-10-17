@@ -28,7 +28,7 @@ This episode advances the Bride of Charlie investigation by presenting two princ
 
 The first strand centers on Joe Kent's claims, made on Tucker Carlson, that the FBI/National Counterterrorism Center was stopped from continuing to investigate Charlie Kirk's death. The episode captures Andrew Kolvet's on-air admission that he provided a private group-chat text dump to Joe Kent, then claims Kolvet later declined to publish those texts when Kent suggested it. Alex Clark, Jack Posobiec, and Laura Loomer X posts are read aloud, establishing the public pressure campaign against Kent and the accusation that he leaked material specifically to harm Erika Kirk.
 
-The second strand reconstructs Andrew Kolvet's location on September 10 via a displayed PR text chain (Kolvet, Justin Strief, Marina Minas, Aubrey) and an on-screen calendar graphic. The text chain shows Kolvet reporting "this just loaded" after a ~2-hour absence, while Minas simultaneously routes death-statement drafting to a 26-year-old employee because Andrew is "on a plane." The episode cross-positions this with Egyptian-plane transponding data and the Wyre sponsor plane's route. A Blake Neff audio clip ("I put that phone away") and a Joe Rogan podcast segment on Erika Kirk are also introduced as supporting artifacts.
+The second strand reconstructs Andrew Kolvet's location on September 10 via a displayed PR text chain (Kolvet, Justin Strief, Marina Minas, Aubrey) and an on-screen calendar graphic. The text chain shows Kolvet reporting "this just loaded" after a ~2-hour absence, while Minas simultaneously routes death-statement drafting to a 26-year-old employee because Andrew is "on a plane." The episode cross-positions this with Egyptian-plane transponding data and the Yrefy sponsor plane's route. A Blake Neff audio clip ("I put that phone away") and a Joe Rogan podcast segment on Erika Kirk are also introduced as supporting artifacts.
 
 Investigatively, the episode converts previously rhetorical claims about Kolvet's solo plane flight into a specific timeline-anchored discrepancy that can be tested against FAA/flight records.
 
@@ -172,7 +172,7 @@ Confidence Level: High
 
 ---
 
-**A-1884** Mark Levin / Eton Fishberger X Post Bundle
+**A-1884** Mark Levin / Eitan Fischberger X Post Bundle
 
 **A-1884.1** Mark Levin X post questioning Erika's video as AI / "total disgrace"
 
@@ -184,7 +184,7 @@ Confidence Level: High (text read aloud)
 
 *Related: C-2541*
 
-**A-1884.2** Eton Fishberger X post calling Joe Rogan's segment "sick stuff"
+**A-1884.2** Eitan Fischberger X post calling Joe Rogan's segment "sick stuff"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -290,7 +290,7 @@ Investigative Pressure: High
 
 **N-10549** Egyptian Plane Transponding Correlation
 
-Host's on-screen calendar shows Egyptian aircraft transponding at Provo and Scottsdale coinciding with key Sept 10 events (Andrew's "this just loaded" message; Wyre plane landings). Underlying data source not independently sourced in episode.
+Host's on-screen calendar shows Egyptian aircraft transponding at Provo and Scottsdale coinciding with key Sept 10 events (Andrew's "this just loaded" message; Yrefy plane landings). Underlying data source not independently sourced in episode.
 
 Evidence Count: 1
 Claim Count: 2
@@ -461,7 +461,7 @@ Rabbi the host says had a September 5 call with Streiff and Kolvet.
 
 **N-187** Stacy Sheridan
 
-Transcribed 'CeCe Sheridan'; named among reported passengers (identification is a doubt).
+Transcribed 'Stacy Sheridan'; named among reported passengers (identification is a doubt).
 
 *Related: C-11344*
 
@@ -557,7 +557,7 @@ Existing organization reused for new claims in this episode.
 
 **N-10093** Wirefy
 
-Existing organization; the transcript says 'Wyre', the event sponsor whose plane the host discusses.
+Existing organization; the transcript says 'Yrefy', the event sponsor whose plane the host discusses.
 
 *Related: C-11357, C-11359, C-11360*
 
@@ -802,7 +802,7 @@ Claim Timestamp: 00:07:00
 Claim: Laura Loomer replied to Posobiec, as the host reads it, calling Joe Kent a known leaker and saying there is speculation that he may have been leaking information to Candace Owens to attack Erika Kirk.
 
 Anchored Artifacts: A-1880.2
-Mentions: N-3, N-60, N-2, N-210
+Mentions: N-3, N-60, N-2, N-210, N-95
 
 Related Nodes: N-10551
 
@@ -906,7 +906,7 @@ Investigative Direction: Verify with Aubrey or HR/witness records.
 
 Claim Timestamp: 00:29:39
 
-Claim: Per an on-screen calendar graphic the host shows, an Egyptian plane transponds 10:05-11:34 a.m. on Sept 10, and a second Egyptian-plane transponding block overlaps Kolvet's second unavailability window and Charlie's Scottsdale-to-Provo flight.
+Claim: Per an on-screen calendar graphic the host shows, an Egyptian plane transponds 10:05-11:34 a.m. on Sept 10, and a second Egyptian-plane transponding block overlaps the Kolvet unavailability window that ended with his 'this just loaded' reply and Charlie's Scottsdale-to-Provo flight.
 
 Anchored Artifacts: A-1881.2
 Mentions: N-14, N-1
@@ -917,11 +917,11 @@ Investigative Direction: Independently source the ADS-B / transponder data; veri
 
 ---
 
-**C-2538** Host Says Wyre Plane Routed Scottsdale–Provo–Santa Barbara–Scottsdale
+**C-2538** Host Says Yrefy Plane Routed Scottsdale–Provo–Santa Barbara–Scottsdale
 
 Claim Timestamp: 00:35:39
 
-Claim: The host says the Wyre-sponsored plane is shown on the on-screen calendar as routing Scottsdale → Provo (10:06 a.m.) → Santa Barbara (10:24 a.m.) → Scottsdale (1:44 p.m.) on Sept 10.
+Claim: The host says the plane she calls the Yrefy plane (after the event's sponsor, Yrefy) is shown on the on-screen calendar as routing Scottsdale → Provo (10:06 a.m.) → Santa Barbara (10:24 a.m.) → Scottsdale (1:44 p.m.) on Sept 10.
 
 Anchored Artifacts: A-1881.2
 
@@ -978,11 +978,11 @@ Investigative Direction: Retrieve full tweet and any subsequent clarification.
 
 ---
 
-**C-2542** Eton Fishberger called Joe Rogan segment "sick stuff"
+**C-2542** Eitan Fischberger Called Joe Rogan Segment "Sick Stuff"
 
 Claim Timestamp: 00:43:46
 
-Claim: Per a tweet the host reads, Eton Fishberger said, 'This is some sick stuff from Joe Rogan, as if Erika hasn't been through enough already.'
+Claim: Per a tweet the host reads, Eitan Fischberger said, 'This is some sick stuff from Joe Rogan, as if Erika hasn't been through enough already.'
 
 Anchored Artifacts: A-1884.2
 Mentions: N-2, N-269
@@ -1797,13 +1797,13 @@ Investigative Direction: Match the chat times with the flight track and manifest
 
 ---
 
-**C-11344** Host Says Charlie's Plane Left Scottsdale at 2:31 p.m. and Landed in Provo at 3:31 With Erika, Tyler, Elizabeth McCoy and CeCe Sheridan Reported Aboard
+**C-11344** Host Says Charlie's Plane Left Scottsdale at 2:31 p.m. and Landed in Provo at 3:31 With Erika, Tyler, Elizabeth McCoy and Stacy Sheridan Reported Aboard
 
 Claim Timestamp: 00:23:16
 
-Claim: The host says Charlie's plane was to leave Scottsdale at 2:31 p.m. and land in Provo at 3:31 p.m., and that the public is told Erika, Tyler, Elizabeth McCoy and CeCe Sheridan were on it.
+Claim: The host says Charlie's plane was to leave Scottsdale at 2:31 p.m. and land in Provo at 3:31 p.m., and that the public is told Erika, Tyler, Elizabeth McCoy and Stacy Sheridan were on it.
 
-Transcript Snippet: that plane is going to leave at 2:31 p. m. from Scottsdale and land into Provo at 3:31 p. m. and we're going to be told that Erika and Tyler and Elizabeth McCoy and CeCe Sheridan are on this plane.
+Transcript Snippet: that plane is going to leave at 2:31 p. m. from Scottsdale and land into Provo at 3:31 p. m. and we're going to be told that Erika and Tyler and Elizabeth McCoy and Stacy Sheridan are on this plane.
 
 Anchored Artifacts: A-1881.2
 Mentions: N-2, N-11, N-218, N-187
@@ -2007,19 +2007,19 @@ Investigative Direction: Confirm the message and its timestamp in the chat expor
 
 ---
 
-**C-11357** Host Says Erika Told Her the Wyre Plane Was the Plane in Question and Wyre Sponsored the Event
+**C-11357** Host Says Erika Told Her the Yrefy Plane Was the Plane in Question and Yrefy Sponsored the Event
 
 Claim Timestamp: 00:34:50
 
-Claim: The host says she calls it the Wyre plane because Wyre is who Erika told her was on the plane, and that Wyre was sponsoring the event.
+Claim: The host says she calls it the Yrefy plane because Yrefy is who Erika told her was on the plane, and that Yrefy was sponsoring the event.
 
-Transcript Snippet: Called the Wyre plane cuz that's that's who Erika told me was on the plane, right? Wyre was sponsoring the event.
+Transcript Snippet: Called the Yrefy plane cuz that's that's who Erika told me was on the plane, right? Yrefy was sponsoring the event.
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-10093, N-10554
 Tags: relevance:core
-Investigative Direction: Identify the tail number of the Wyre-sponsored plane and the booking company; compare with the host's interview notes.
+Investigative Direction: Identify the tail number of the Yrefy-sponsored plane and the booking company; compare with the host's interview notes.
 
 ---
 
@@ -2039,11 +2039,11 @@ Investigative Direction: Check Duncan Aviation's Provo services and who arrived 
 
 ---
 
-**C-11359** Host Says Egyptian Planes Began Transponding Right After the Wyre Plane Landed at Provo and Scottsdale
+**C-11359** Host Says Egyptian Planes Began Transponding Right After the Yrefy Plane Landed at Provo and Scottsdale
 
 Claim Timestamp: 00:36:38
 
-Claim: The host says that when the Wyre plane landed in Provo and then Scottsdale, an Egyptian plane began transponding right away each time.
+Claim: The host says that when the Yrefy plane landed in Provo and then Scottsdale, an Egyptian plane began transponding right away each time.
 
 Transcript Snippet: it lands in Provo and then right away that Egyptian plane starts transponding. Then it lands in Scottsdale and right away that Egyptian plane starts transponding.
 
@@ -2051,15 +2051,15 @@ Anchored Artifacts: A-1881.2
 Mentions: 
 Related Nodes: N-10549, N-10093
 Tags: relevance:core
-Investigative Direction: Overlay the ADS-B timestamps for the Wyre plane's landings and the Egyptian aircraft's transponding.
+Investigative Direction: Overlay the ADS-B timestamps for the Yrefy plane's landings and the Egyptian aircraft's transponding.
 
 ---
 
-**C-11360** Host Says the Wyre Plane Is Somehow Associated With Turning Point USA
+**C-11360** Host Says the Yrefy Plane Is Somehow Associated With Turning Point USA
 
 Claim Timestamp: 00:36:38
 
-Claim: The host says the Wyre plane stopped at Provo, Santa Barbara and Scottsdale, all places involved that day, and that it is somehow associated with Turning Point USA.
+Claim: The host says the Yrefy plane stopped at Provo, Santa Barbara and Scottsdale, all places involved that day, and that it is somehow associated with Turning Point USA.
 
 Transcript Snippet: And yes, this plane is somehow associated to Turning Point USA. It gives me the ick.
 

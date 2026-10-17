@@ -818,7 +818,7 @@ Open question why Katherine LoCastro was sent to retrieve something from the blo
 
 Claim Timestamp: 00:05:20
 
-Claim: Frank Turek, on his own podcast, stated Erika Kirk "probably got there, I don't know, somewhere around 4:00 p.m. maybe" to Timpanogos Hospital.
+Claim: In a clip the host plays, Frank Turek says Erika Kirk "probably got there, I don't know, somewhere around 4:00 p.m. maybe" to the hospital (Timpanogos).
 
 Anchored Artifacts: A-1895.1
 Mentions: N-2, N-7
@@ -827,7 +827,7 @@ Related Nodes: N-10560
 
 Investigative Direction: Obtain the full Frank Turek podcast episode audio and verify the exact quoted time estimate and context.
 
-**C-2561** Nick Searcy Confirmed Andrew Kolvet Livestream Was Authentic 9–10 a.m. Pacific
+**C-2561** Nick Shirley Confirmed Andrew Kolvet Livestream Was Authentic 9-10 a.m. Pacific
 
 Claim Timestamp: 00:03:30
 
@@ -905,7 +905,7 @@ Related Nodes:
 
 Investigative Direction: Cross-reference with Andrew Kolvet's account and hospital visitor logs.
 
-**C-2567** Hopkinson Aircraft Employee Neither Confirmed nor Denied Seeing Erica on September 10
+**C-2567** Hopkinson Aircraft Employee Neither Confirmed nor Denied Seeing Erika on September 10
 
 Claim Timestamp: 00:22:50
 
@@ -938,7 +938,7 @@ Claim Timestamp: 00:34:40
 Claim: The Alexis Wilkins thread alleges that within hours of the Kirk assassination, Candace publicly attributed the killing to Israel and targeted Kirk's widow by name. The host rejects this characterization.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-3, N-213
+Mentions: N-3, N-213, N-1, N-2
 
 Related Nodes: N-10563
 
@@ -961,7 +961,7 @@ Investigative Direction: Verify General Flynn's role as listed at Catholics for 
 
 Claim Timestamp: 00:33:48
 
-Claim: The Alexis Wilkins thread cites Russia Today retweeting certain accounts as evidence of foreign coordination.
+Claim: The Alexis Wilkins thread cites Russia Today's retweet of the narrative as evidence of foreign coordination.
 
 Anchored Artifacts: A-1896.1
 Mentions: N-213
@@ -977,7 +977,7 @@ Claim Timestamp: 00:34:40
 Claim: The Alexis Wilkins thread, at "Chapter 3," states that within hours of Kirk's assassination, Candace publicly attributed the killing to Israel and targeted Kirk's widow by name.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-3, N-213
+Mentions: N-3, N-213, N-1, N-2
 
 Related Nodes: N-10563
 
@@ -1301,12 +1301,12 @@ Investigative Direction: Obtain office badge or access logs for September 10, 20
 
 Claim Timestamp: 00:11:23
 
-Claim: The host says that, against an account from 'Frank' that Charlie trained people to call Erika first when anything happens, it turned out Mikey McCoy called his own wife first.
+Claim: The host says that, against Frank Turek's account that Charlie trained him to call Erika first when anything happens, it turned out Mikey McCoy called his own wife first.
 
 Transcript Snippet: so much for Frank saying that Charlie trained him anything happens call call Erika call Erika call Erika first thing walk away
 
 Anchored Artifacts: 
-Mentions: N-191, N-218, N-2, N-1, N-3
+Mentions: N-191, N-218, N-2, N-1, N-7, N-3
 Related Nodes: N-10193, N-10198
 Supports: C-2563
 Tags: relevance:core

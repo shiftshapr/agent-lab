@@ -1,0 +1,776 @@
+[
+ {
+  "claim": "C-2532",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2533",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2534",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2535",
+  "episode": 81,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Stated as fact; it is the host's account (24:14 'Marina Minas, the chief marketing officer, personally called Aubrey at 2:05'). Transcript says Minas, not Medvin (ruled N-494 = Marina Minas). Aubrey (N-552) named but not in Mentions.",
+  "fix": {
+   "claim": "The host says that at 2:05 p.m. Utah time on Sept 10, Marina Minas, the chief marketing officer, called Aubrey and asked her to draft the staff death statement because Andrew was on a plane.",
+   "label": "Host Says Marina Minas Routed Death-Statement Drafting to Aubrey Citing Andrew's Plane Status",
+   "mentions": [
+    "N-494",
+    "N-552",
+    "N-14"
+   ],
+   "names": [
+    {
+     "wrong": "Marina Medvin",
+     "right": "Marina Minas",
+     "source": "https://people.equilar.com/bio/person/marina-minas-turning-point-usa/70724078"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2536",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Marina Medvin' is a mis-name for N-494 Marina Minas (host says 'Marina Minnez'/'Marina' here). Aubrey (N-552) named but missing from Mentions.",
+  "fix": {
+   "claim": "The host says Aubrey, who drafted the Sept 10 death statement, was later terminated in connection with a conversation with an Uber driver that Marina Minas reportedly overheard.",
+   "mentions": [
+    "N-494",
+    "N-552"
+   ],
+   "names": [
+    {
+     "wrong": "Marina Medvin",
+     "right": "Marina Minas",
+     "source": "https://people.equilar.com/bio/person/marina-minas-turning-point-usa/70724078"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2537",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host ties the purple block to the window 'when he responds and says that the message is just loading' (1:30-3:25), not to a 'second unavailability window' (the 4:25 'internet came back' gap).",
+  "fix": {
+   "claim": "Per an on-screen calendar graphic the host shows, an Egyptian plane transponds 10:05-11:34 a.m. on Sept 10, and a second Egyptian-plane transponding block overlaps the Kolvet unavailability window that ended with his 'this just loaded' reply and Charlie's Scottsdale-to-Provo flight."
+  }
+ },
+ {
+  "claim": "C-2538",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Wyre' is a mis-transcription of Yrefy, the tour sponsor (ep82: 'the alleged Yrefy plane that we think that Andrew took from Santa Barbara to Scottsdale'). Host calls it the plane named for the event sponsor, not a plane Yrefy sponsored.",
+  "fix": {
+   "claim": "The host says the plane she calls the Yrefy plane (after the event's sponsor, Yrefy) is shown on the on-screen calendar as routing Scottsdale → Provo (10:06 a.m.) → Santa Barbara (10:24 a.m.) → Scottsdale (1:44 p.m.) on Sept 10.",
+   "label": "Host Says Yrefy Plane Routed Scottsdale–Provo–Santa Barbara–Scottsdale",
+   "names": [
+    {
+     "wrong": "Wyre",
+     "right": "Yrefy",
+     "source": "https://www.crunchbase.com/organization/yrefy ; transcripts_corrected/episode_082_SgVcnx4Oh30.md ('the alleged Yrefy plane that we think that Andrew took from Santa Barbara to Scottsdale')"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2539",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2540",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip has several speakers (Rogan and a guest); they say 'CIA documents or CIA films' / 'CIA informational video' (documentary is the host's word); quote is 'Charlie Kirk's handler', not 'Charlie's handler'.",
+  "fix": {
+   "claim": "In a clip of his podcast that the host plays, Joe Rogan and a guest discuss Erika Kirk's appearance in what they call CIA films or a CIA informational video, her pageant-like background, and speculation that she was \"Charlie Kirk's handler.\""
+  }
+ },
+ {
+  "claim": "C-2541",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2542",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host reads 'Eton Fishberger'; the poster is pro-Israel commentator Eitan Fischberger (@EFischberger), who regularly posts about Joe Rogan.",
+  "fix": {
+   "claim": "Per a tweet the host reads, Eitan Fischberger said, 'This is some sick stuff from Joe Rogan, as if Erika hasn't been through enough already.'",
+   "label": "Eitan Fischberger Called Joe Rogan Segment \"Sick Stuff\"",
+   "names": [
+    {
+     "wrong": "Eton Fishberger",
+     "right": "Eitan Fischberger",
+     "source": "https://x.com/EFischberger"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2543",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11295",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11296",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11297",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11298",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11299",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11300",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11301",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11302",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11303",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11304",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11305",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11306",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11307",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Content ~08:55, within 75s of timestamp.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11308",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Content ~09:10, within 75s.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11309",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Speaker says 'We kind of verified'; the clip does not identify 'we' as TPUSA (Kolvet then distances himself: 'verified's doing a lot of heavy lifting').",
+  "fix": {
+   "claim": "In the played clip, the speaker says \"we kind of verified\" that the messages had been given by Andrew Kolvet to Joe Kent and that Kent passed them on to Candace Owens."
+  }
+ },
+ {
+  "claim": "C-11310",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11311",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11312",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11313",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11314",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11315",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11316",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11317",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11318",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11319",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11320",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11321",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11322",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'The rabbi' unnamed in sentence; host names Rabbi Wolicki seconds later (14:26), N-165 accepted.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11323",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11324",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11325",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11326",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11327",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11328",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11329",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11330",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11331",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11332",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11333",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11334",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11335",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11336",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11337",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11338",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11339",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11340",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11341",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11342",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

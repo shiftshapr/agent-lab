@@ -355,7 +355,7 @@
           "@type": "Artifact",
           "@id": "A-1894.1",
           "ref": "A-1894.1",
-          "description": "N40JD plane data – registered to Jason Knupp (host identifies as chief commander of naval surface force in Atlanta); departed Scottsdale approximately 1 hour after Charlie Kirk shot; landed Provo at 2:29 PM MST",
+          "description": "N40JD plane data – registered to Jason Knupp (host identifies as chief commander of Naval Surface Force Atlantic); departed Scottsdale approximately 1 hour after Charlie Kirk shot; landed Provo at 2:29 PM MST",
           "related_claims": [
             "C-2550"
           ],
@@ -1701,7 +1701,9 @@
       "claim_timestamp": "00:20:35",
       "investigative_direction": "Obtain full text thread with carrier-verified timestamps; reconcile against ADSB data for the plane Andrew was on.",
       "mentions_person_refs": [
-        "N-14"
+        "N-14",
+        "N-15",
+        "N-552"
       ]
     },
     {
@@ -1709,7 +1711,7 @@
       "@id": "C-2550",
       "ref": "C-2550",
       "label": "N40JD plane departed Scottsdale approximately one hour after Charlie Kirk was shot and landed at Provo at 2:29 PM MST",
-      "claim": "Per the host, the N40JD plane, registered to Jason Knupp (who the host says appears to be the chief commander of naval surface force in Atlanta), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST.",
+      "claim": "Per the host, the N40JD plane, owned by Jason Knupp (who the host says appears to be the chief commander of Naval Surface Force Atlantic), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST.",
       "anchored_artifacts": [
         "A-1894.1"
       ],
@@ -1760,8 +1762,7 @@
       "claim_timestamp": "00:36:15",
       "investigative_direction": "Verify the Comando Vermelho footage, dates, and circumstances of Shirley's claimed access; check corroborating reporting.",
       "mentions_person_refs": [
-        "N-214",
-        "N-1"
+        "N-214"
       ]
     },
     {
@@ -1769,7 +1770,7 @@
       "@id": "C-2553",
       "ref": "C-2553",
       "label": "Joe Kent acknowledged federal investigators did not thoroughly pursue other leads",
-      "claim": "The host says Joe Kent stated in an interview with Michael Shellenberger that federal investigators did not thoroughly pursue other leads in the Charlie Kirk case.",
+      "claim": "The host says Joe Kent stated in an interview with, she believes, Michael Shellenberger that federal investigators did not thoroughly pursue other leads in the Charlie Kirk case.",
       "anchored_artifacts": [
         "A-1892.1"
       ],
@@ -1806,7 +1807,7 @@
       "@id": "C-2555",
       "ref": "C-2555",
       "label": "The \"Yrefy\" plane's 2020 charter listing does not market Wi-Fi as an amenity",
-      "claim": "A 2020 charter listing for the plane identified as the alleged Santa Barbara → Scottsdale leg (\"Yrefy\") lists amenities including belted lavatory, cabin power outlets, refreshment center, and satellite phone, but does not list Wi-Fi.",
+      "claim": "Per the 2020 charter listing the host shows for the plane she identifies as the alleged Santa Barbara → Scottsdale leg (\"Yrefy\"), its amenities include a belted lavatory, cabin power outlets, a refreshment center and a satellite phone, but not Wi-Fi.",
       "anchored_artifacts": [
         "A-1887.3"
       ],
@@ -1814,7 +1815,7 @@
         "N-10554"
       ],
       "tags": [],
-      "claim_timestamp": "00:25:37",
+      "claim_timestamp": "00:24:50",
       "investigative_direction": "Obtain current charter operator records to verify whether the aircraft has been retrofitted with Wi-Fi since 2020."
     },
     {
@@ -1842,8 +1843,8 @@
       "@type": "Claim",
       "@id": "C-2557",
       "ref": "C-2557",
-      "label": "\"Yrefy\" / \"RY Reef air\" and the alleged Santa Barbara → Scottsdale plane share identity",
-      "claim": "The host refers to \"RY Reef air\" and \"Yrefy\" as the same plane: she says Erika Kirk told her about it (\"wife Reef air CEO\"), and she believes Andrew Kolvet took it from Santa Barbara to Scottsdale.",
+      "label": "Host Says Erika Named the Yrefy Plane, Which She Believes Kolvet Took From Santa Barbara to Scottsdale",
+      "claim": "The host refers to the Yrefy plane: she says Erika Kirk told her about it (the Yrefy CEO), and she believes Andrew Kolvet took it from Santa Barbara to Scottsdale.",
       "anchored_artifacts": [
         "A-1887.3"
       ],
@@ -1889,7 +1890,8 @@
       "mentions_person_refs": [
         "N-14",
         "N-1",
-        "N-552"
+        "N-552",
+        "N-494"
       ]
     },
     {

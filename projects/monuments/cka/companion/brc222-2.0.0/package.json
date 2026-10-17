@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-17T20:21:51Z",
+  "generated_at": "2026-10-17T20:33:10Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -3346,7 +3346,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10311",
-      "label": "Host says the FBI was on the phone with Streiff and Frank Carney about the back footage",
+      "label": "Host Says the FBI Was on the Phone With Streiff and Frank Carni About the Back Footage",
       "node_kind": "claim",
       "episode": 86
     },
@@ -3626,7 +3626,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10351",
-      "label": "Host relays that Turek said Kirk was dead within 30 minutes and asked to talk to Erika",
+      "label": "Host Relays Producer's Question of How the Surgeon Knew Erika's Name",
       "node_kind": "claim",
       "episode": 86
     },
@@ -10717,7 +10717,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11344",
-      "label": "Host Says Charlie's Plane Left Scottsdale at 2:31 p.m. and Landed in Provo at 3:31 With Erika, Tyler, Elizabeth McCoy and CeCe Sheridan Reported Aboard",
+      "label": "Host Says Charlie's Plane Left Scottsdale at 2:31 p.m. and Landed in Provo at 3:31 With Erika, Tyler, Elizabeth McCoy and Stacy Sheridan Reported Aboard",
       "node_kind": "claim",
       "episode": 81
     },
@@ -10815,7 +10815,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11357",
-      "label": "Host Says Erika Told Her the Wyre Plane Was the Plane in Question and Wyre Sponsored the Event",
+      "label": "Host Says Erika Told Her the Yrefy Plane Was the Plane in Question and Yrefy Sponsored the Event",
       "node_kind": "claim",
       "episode": 81
     },
@@ -10829,7 +10829,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11359",
-      "label": "Host Says Egyptian Planes Began Transponding Right After the Wyre Plane Landed at Provo and Scottsdale",
+      "label": "Host Says Egyptian Planes Began Transponding Right After the Yrefy Plane Landed at Provo and Scottsdale",
       "node_kind": "claim",
       "episode": 81
     },
@@ -10843,7 +10843,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11360",
-      "label": "Host Says the Wyre Plane Is Somehow Associated With Turning Point USA",
+      "label": "Host Says the Yrefy Plane Is Somehow Associated With Turning Point USA",
       "node_kind": "claim",
       "episode": 81
     },
@@ -22295,7 +22295,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12848",
-      "label": "Host Says Marx Married Eileen Brining in 1988 and They Have Five Kids",
+      "label": "Host Says Marx Married Eileen Breining in 1988 and They Have Five Kids",
       "node_kind": "claim",
       "episode": 91
     },
@@ -34370,7 +34370,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14417",
-      "label": "Kirk in Clip Says Foreign Aid Is Insulting Given Cartels and Overdose Deaths",
+      "label": "Student in Kirk Clip Says Foreign Aid Is Insulting Given Cartels and Overdose Deaths",
       "node_kind": "claim",
       "episode": 80
     },
@@ -34538,7 +34538,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14439",
-      "label": "Huckabee in Video Says US Forces Are Getting Rid of Lunatics Seeking Nuclear Weapons",
+      "label": "Netanyahu in Huckabee Video Says US Forces Are Getting Rid of Lunatics Seeking Nuclear Weapons",
       "node_kind": "claim",
       "episode": 80
     },
@@ -35175,7 +35175,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14521",
-      "label": "Host Says Patel Announced a Suspect (the 'Koreshi' Person) That Sent Searchers on a Wild Goose Chase",
+      "label": "Host Says Patel Announced a Suspect (the 'Qureshi' Person) That Sent Searchers on a Wild Goose Chase",
       "node_kind": "claim",
       "episode": 85
     },
@@ -35560,7 +35560,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14571",
-      "label": "Host Reads Built Incorporated's Description of Its XR Instruction App",
+      "label": "Host Reads BILT Incorporated's Description of Its XR Instruction App",
       "node_kind": "claim",
       "episode": 87
     },
@@ -46361,7 +46361,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2538",
-      "label": "Host Says Wyre Plane Routed Scottsdale–Provo–Santa Barbara–Scottsdale",
+      "label": "Host Says Yrefy Plane Routed Scottsdale–Provo–Santa Barbara–Scottsdale",
       "node_kind": "claim",
       "episode": 81
     },
@@ -46389,7 +46389,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2542",
-      "label": "Eton Fishberger called Joe Rogan segment \"sick stuff\"",
+      "label": "Eitan Fischberger Called Joe Rogan Segment \"Sick Stuff\"",
       "node_kind": "claim",
       "episode": 81
     },
@@ -46494,7 +46494,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2557",
-      "label": "\"Yrefy\" / \"RY Reef air\" and the alleged Santa Barbara → Scottsdale plane share identity",
+      "label": "Host Says Erika Named the Yrefy Plane, Which She Believes Kolvet Took From Santa Barbara to Scottsdale",
       "node_kind": "claim",
       "episode": 82
     },
@@ -46522,7 +46522,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2561",
-      "label": "Nick Searcy Confirmed Andrew Kolvet Livestream Was Authentic 9–10 a.m. Pacific",
+      "label": "Nick Shirley Confirmed Andrew Kolvet Livestream Was Authentic 9-10 a.m. Pacific",
       "node_kind": "claim",
       "episode": 83
     },
@@ -46564,7 +46564,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2567",
-      "label": "Hopkinson Aircraft Employee Neither Confirmed nor Denied Seeing Erica on September 10",
+      "label": "Hopkinson Aircraft Employee Neither Confirmed nor Denied Seeing Erika on September 10",
       "node_kind": "claim",
       "episode": 83
     },
@@ -47012,21 +47012,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2631",
-      "label": "Host Says Ahmed Qureshi and Nathan Henderson Co-Founded Built Incorporated",
+      "label": "Host Says Ahmed Qureshi and Nathan Henderson Co-Founded BILT Incorporated",
       "node_kind": "claim",
       "episode": 87
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2632",
-      "label": "Host Says USA Spending Shows Built Inc. Received ~$7.4M Air Force + ~$240K Navy in June 2025",
+      "label": "Host Says USA Spending Shows BILT Inc. Received ~$7.4M Air Force + Under $250K Navy in June 2025",
       "node_kind": "claim",
       "episode": 87
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2633",
-      "label": "Host Shows LinkedIn Listing Gina Romney Henderson as VP UX at Built Inc.",
+      "label": "Host Shows LinkedIn Listing Gina Romney Henderson as VP UX at BILT Inc.",
       "node_kind": "claim",
       "episode": 87
     },
@@ -47180,7 +47180,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2655",
-      "label": "\"Built\" app co-founded by Akhmed Qureshi has 3D mission-prep visualization capability",
+      "label": "\"BILT\" app co-founded by Ahmed Qureshi has 3D mission-prep visualization capability",
       "node_kind": "claim",
       "episode": 88
     },
@@ -47460,7 +47460,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2695",
-      "label": "State claims forensic photographs of Lance Twiggs phone contents will be offered in lieu of forensic extraction",
+      "label": "State Says It Will Offer Camera Recordings of Text Messages Instead of Forensic Extractions",
       "node_kind": "claim",
       "episode": 90
     },
@@ -68313,7 +68313,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5677",
-      "label": "Marx married Eileen Brining Marx at 23 and has five children",
+      "label": "Marx married Eileen Breining Marx at 23 and has five children",
       "node_kind": "claim",
       "episode": 107
     },
@@ -68327,14 +68327,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5679",
-      "label": "Eileen's brother Kenneth Brining tried to shoot Marx in 2023",
+      "label": "Eileen's brother Kenneth Breining tried to shoot Marx in 2023",
       "node_kind": "claim",
       "episode": 107
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5680",
-      "label": "Kenneth Brining later killed his own girlfriend",
+      "label": "Kenneth Breining later killed his own girlfriend",
       "node_kind": "claim",
       "episode": 107
     },
@@ -88536,7 +88536,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8566",
-      "label": "Host Says the Built App Could Show Which Hospital Door to Use but She Cannot Say It Was Used That Way",
+      "label": "Host Says the BILT App Could Show Which Hospital Door to Use but She Cannot Say It Was Used That Way",
       "node_kind": "claim",
       "episode": 88
     },
@@ -89152,7 +89152,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8654",
-      "label": "Host Says Alex Jones Had Trump on When No Media Company Would",
+      "label": "Read Reply Says Alex Jones Had Trump on When No Media Company Would",
       "node_kind": "claim",
       "episode": 89
     },
@@ -89306,7 +89306,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8676",
-      "label": "Speaker Says Trump Reversed on Phosphorus and Monsanto Because Israel Needed It for Lebanon",
+      "label": "Host Says Trump Reversed on Phosphorus and Monsanto Because Israel Needed It for Lebanon",
       "node_kind": "claim",
       "episode": 89
     },
@@ -89712,21 +89712,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8734",
-      "label": "Host Reads Search Warrant Text Saying Robinson's Roommate Showed Investigators Discord Messages",
+      "label": "Cox Says Robinson's Roommate Showed Investigators Discord Messages",
       "node_kind": "claim",
       "episode": 90
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8735",
-      "label": "Host Reads Warrant Text Describing Messages About a Rifle Left in a Bush Wrapped in a Towel",
+      "label": "Cox Describes Messages About a Rifle Left in a Bush Wrapped in a Towel",
       "node_kind": "claim",
       "episode": 90
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8736",
-      "label": "Host Reads Warrant Text That Messages Mentioned Engraving Bullets, a Scope and Changing Outfits",
+      "label": "Cox Says Messages Mentioned Engraving Bullets, a Scope and Changing Outfits",
       "node_kind": "claim",
       "episode": 90
     },
@@ -89838,7 +89838,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8752",
-      "label": "Host Says She Now Knows Who Was at the Aspen Event and Is Working on It",
+      "label": "Host Says She Now Knows Who Was at the Event and Is Working on It",
       "node_kind": "claim",
       "episode": 90
     },
@@ -112546,7 +112546,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1884",
-      "label": "Mark Levin / Eton Fishberger X Post Bundle",
+      "label": "Mark Levin / Eitan Fischberger X Post Bundle",
       "node_kind": "artifact",
       "episode": 81
     },
@@ -112560,7 +112560,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1884.2",
-      "label": "Eton Fishberger X post calling Joe Rogan's segment \"sick stuff\"",
+      "label": "Eitan Fischberger X post calling Joe Rogan's segment \"sick stuff\"",
       "node_kind": "artifact",
       "episode": 81
     },
@@ -112756,7 +112756,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1894.1",
-      "label": "N40JD plane data – registered to Jason Knupp (host identifies as chief commander of naval surface force in Atlanta); departed Scottsdale approximately 1 hour after Charlie Kirk shot; landed Provo at 2",
+      "label": "N40JD plane data – registered to Jason Knupp (host identifies as chief commander of Naval Surface Force Atlantic); departed Scottsdale approximately 1 hour after Charlie Kirk shot; landed Provo at 2:2",
       "node_kind": "artifact",
       "episode": 82
     },
@@ -113316,7 +113316,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1927.2",
-      "label": "Reference attributing Navy O-6 reserve status to Akhmed Qureshi (via Baron Coleman)",
+      "label": "Reference attributing Navy O-6 reserve status to Ahmed Qureshi (via Baron Coleman)",
       "node_kind": "artifact",
       "episode": 88
     },
@@ -113330,7 +113330,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1927.4",
-      "label": "\"Built\" app description attributed to Akhmed Qureshi (co-founded), described as capable of 3D mission-prep visual walk-throughs",
+      "label": "\"Built\" app description attributed to Ahmed Qureshi (co-founded), described as capable of 3D mission-prep visual walk-throughs",
       "node_kind": "artifact",
       "episode": 88
     },
@@ -137403,28 +137403,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3325",
-      "label": "Built Incorporated App Description Bundle",
+      "label": "BILT Incorporated App Description Bundle",
       "node_kind": "artifact",
       "episode": 87
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3325.1",
-      "label": "Host reads Built Incorporated's description of its 3D and XR guided-instruction app",
+      "label": "Host reads BILT Incorporated's description of its 3D and XR guided-instruction app",
       "node_kind": "artifact",
       "episode": 87
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3326",
-      "label": "Built Incorporated Connections Chart Bundle",
+      "label": "BILT Incorporated Connections Chart Bundle",
       "node_kind": "artifact",
       "episode": 87
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3326.1",
-      "label": "Host chart showing the people and companies connected to Built Incorporated (Qureshi, Henderson, Romney Henderson, sons)",
+      "label": "Host chart showing the people and companies connected to BILT Incorporated (Qureshi, Henderson, Romney Henderson, sons)",
       "node_kind": "artifact",
       "episode": 87
     },

@@ -2423,7 +2423,8 @@
       ],
       "mentions_person_refs": [
         "N-245",
-        "N-210"
+        "N-210",
+        "N-5"
       ]
     },
     {
@@ -2448,8 +2449,7 @@
         "C-2503"
       ],
       "mentions_person_refs": [
-        "N-60",
-        "N-210"
+        "N-60"
       ]
     },
     {
@@ -2708,8 +2708,7 @@
       "transcript_snippet": "Because that would have shifted the investigation into Tulsi's office, which is where Joe Kent was working.",
       "mentions_person_refs": [
         "N-330",
-        "N-210",
-        "N-69"
+        "N-210"
       ]
     },
     {
@@ -2846,16 +2845,15 @@
       "investigative_direction": "Identify the event, date and organizer of the July 2025 sit-down and any donor presentation that used it.",
       "transcript_snippet": "He sort of just sat up with a bunch of students and tried to get their opinion to show donors like you can't treat these kids like this.",
       "mentions_person_refs": [
-        "N-1",
-        "N-943"
+        "N-1"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-14417",
       "ref": "C-14417",
-      "label": "Kirk in Clip Says Foreign Aid Is Insulting Given Cartels and Overdose Deaths",
-      "claim": "In the archival clip Kirk says it is insulting that money goes to any foreign country while the cartels and drug overdoses at the southern border are a huge problem at home.",
+      "label": "Student in Kirk Clip Says Foreign Aid Is Insulting Given Cartels and Overdose Deaths",
+      "claim": "In the archival clip, the student the host says is Dino Fantegrossi, responding to Kirk, says it is insulting that money goes to any foreign country while the cartels and drug overdoses at the southern border are a huge problem at home.",
       "anchored_artifacts": [
         "A-1871.1"
       ],
@@ -2873,6 +2871,7 @@
         "C-2524"
       ],
       "mentions_person_refs": [
+        "N-943",
         "N-1"
       ]
     },
@@ -3003,7 +3002,7 @@
         "C-2470"
       ],
       "mentions_person_refs": [
-        "N-585"
+        "N-3"
       ]
     },
     {
@@ -3321,7 +3320,7 @@
       "@id": "C-14438",
       "ref": "C-14438",
       "label": "Netanyahu in Huckabee Video Says He Erased Two Names on a Punch Card",
-      "claim": "In the video Netanyahu tells Mike Huckabee he erased two names on the punch cards that day, and says his name is not on the punch card and Huckabee's name is on the list of the good guys.",
+      "claim": "In the video Netanyahu tells Mike Huckabee he erased two names on the punch cards that day; Huckabee says the good news is that his name is not on the punch card, and Netanyahu replies that Huckabee's name is on the list of the good guys.",
       "anchored_artifacts": [
         "A-1876.1"
       ],
@@ -3343,8 +3342,8 @@
       "@type": "Claim",
       "@id": "C-14439",
       "ref": "C-14439",
-      "label": "Huckabee in Video Says US Forces Are Getting Rid of Lunatics Seeking Nuclear Weapons",
-      "claim": "In the video Mike Huckabee says the president and US forces are getting rid of lunatics who would build nuclear weapons and deliver them to every American city after wiping out Israel.",
+      "label": "Netanyahu in Huckabee Video Says US Forces Are Getting Rid of Lunatics Seeking Nuclear Weapons",
+      "claim": "In the video Netanyahu tells Mike Huckabee that the president and US forces are getting rid of lunatics who would build nuclear weapons and deliver them to every American city after wiping out Israel.",
       "anchored_artifacts": [
         "A-1876.1"
       ],
@@ -3358,8 +3357,9 @@
       "investigative_direction": "Verify wording against the original video.",
       "transcript_snippet": "getting rid of these lunatics who would like to develop nuclear weapons and the means to deliver them to every American city after wiping out Israel.",
       "mentions_person_refs": [
+        "N-36",
         "N-274",
-        "N-36"
+        "N-5"
       ]
     },
     {

@@ -15,6 +15,11 @@
     ],
     "reviewed": [
       {
+        "claim": "C-14439",
+        "node": "N-5",
+        "reason": "claim text: 'the president' (Donald Trump) in the Netanyahu-Huckabee video; pass 2 2026-10-17"
+      },
+      {
         "claim": "C-4603",
         "node": "N-41",
         "reason": "claim text: 'the governor' (Utah governor Spencer Cox); Opus re-check 2026-10-15"

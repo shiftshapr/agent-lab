@@ -1,0 +1,252 @@
+[
+ {
+  "claim": "C-2631",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says BILT Incorporated was co-founded by Ahmed Qureshi (an O5 at the time) and Nathan Henderson in 2015.",
+   "label": "Host Says Ahmed Qureshi and Nathan Henderson Co-Founded BILT Incorporated",
+   "names": [
+    {
+     "wrong": "Built Incorporated",
+     "right": "BILT Incorporated",
+     "source": "https://founderstory.transistor.fm/episodes/ahmed-qureshi-co-founder-president-coo-of-bilt"
+    }
+   ]
+  },
+  "note": "BILT Incorporated confirmed (founderstory: Ahmed Qureshi co-founded BILT Inc. in 2015)."
+ },
+ {
+  "claim": "C-2632",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says USA Spending records show BILT Incorporated received approximately $7.4M from the Air Force and just under a quarter million from the Navy in June 2025, with the largest contracts dated June 1 and June 16, 2025.",
+   "label": "Host Says USA Spending Shows BILT Inc. Received ~$7.4M Air Force + Under $250K Navy in June 2025",
+   "names": [
+    {
+     "wrong": "Built Incorporated",
+     "right": "BILT Incorporated",
+     "source": "https://founderstory.transistor.fm/episodes/ahmed-qureshi-co-founder-president-coo-of-bilt"
+    }
+   ]
+  },
+  "note": "Host says 'just under a quarter million' from the Navy; BILT spelling confirmed."
+ },
+ {
+  "claim": "C-2633",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per Gina Romney Henderson's LinkedIn profile, which the host shows, she is Vice President of User Experience at BILT Incorporated.",
+   "label": "Host Shows LinkedIn Listing Gina Romney Henderson as VP UX at BILT Inc.",
+   "names": [
+    {
+     "wrong": "Built Incorporated",
+     "right": "BILT Incorporated",
+     "source": "https://founderstory.transistor.fm/episodes/ahmed-qureshi-co-founder-president-coo-of-bilt"
+    }
+   ]
+  },
+  "note": "BILT Incorporated spelling confirmed via founderstory page."
+ },
+ {
+  "claim": "C-2637",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays from an Easter event, Donald Trump says he told Erika Kirk she has to sue people because they are so jealous of her; the host says he told her to sue people making fun of her."
+  },
+  "note": "Words are from a Trump clip; 'White House'/'2026' not said; host paraphrase kept as hers."
+ },
+ {
+  "claim": "C-2644",
+  "episode": 87,
+  "decision": "reject",
+  "fix": {},
+  "note": "Unresolved: Michael Sean Covey (Bridle Up Hope) exists, but no source ties him to Zenger/CIA; identity is inference."
+ },
+ {
+  "claim": "C-2655",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "label": "\"BILT\" app co-founded by Ahmed Qureshi has 3D mission-prep visualization capability",
+   "claim": "The \"BILT\" app co-founded by Ahmed Qureshi is reported to have the capability to produce 3D visual walk-throughs usable for mission planning.",
+   "names": [
+    {
+     "wrong": "Akhmed Qureshi",
+     "right": "Ahmed Qureshi",
+     "source": "https://founderstory.transistor.fm/episodes/ahmed-qureshi-co-founder-president-coo-of-bilt"
+    },
+    {
+     "wrong": "Built",
+     "right": "BILT",
+     "source": "https://founderstory.transistor.fm/episodes/ahmed-qureshi-co-founder-president-coo-of-bilt"
+    }
+   ]
+  },
+  "note": "Ahmed Qureshi, co-founder of BILT, confirmed by founderstory; matches N-412."
+ },
+ {
+  "claim": "C-2663",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Erika Kirk posted an Instagram video of her mother looking tremendously frail and sick on September 8, 2025, two days before Charlie was shot."
+  },
+  "note": "Host's report, not established fact; attribution added."
+ },
+ {
+  "claim": "C-8566",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says the BILT App Could Show Which Hospital Door to Use but She Cannot Say It Was Used That Way",
+   "claim": "The host says the BILT app could let a user see in advance where Charlie would sit and which door at Timpanogos Hospital he would be taken through, but states she cannot say that is what it was used for.",
+   "names": [
+    {
+     "wrong": "Built",
+     "right": "BILT",
+     "source": "https://founderstory.transistor.fm/episodes/ahmed-qureshi-co-founder-president-coo-of-bilt"
+    }
+   ]
+  },
+  "note": "BILT app spelling confirmed via founderstory."
+ },
+ {
+  "claim": "C-8654",
+  "episode": 89,
+  "decision": "accept",
+  "fix": {
+   "claim": "A Truth Social reply the host reads says that when no media company would have Trump on, Alex Jones had him on his show.",
+   "label": "Read Reply Says Alex Jones Had Trump on When No Media Company Would"
+  },
+  "note": "Line is from a Truth Social reply the host reads, not the host's own statement."
+ },
+ {
+  "claim": "C-2693",
+  "episode": 90,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:39:50"
+  },
+  "note": "'At 10:26' spoken ~39:53, ~26s before 40:19, outside the 20s window."
+ },
+ {
+  "claim": "C-8734",
+  "episode": 90,
+  "decision": "accept",
+  "fix": {
+   "label": "Cox Says Robinson's Roommate Showed Investigators Discord Messages",
+   "claim": "In a clip the host plays, Governor Spencer Cox says investigators identified Robinson's roommate, who said Robinson made a joke on Discord, then opened Discord and allowed investigators to photograph the screen as each message was shown.",
+   "mentions": [
+    "N-3",
+    "N-41",
+    "N-40",
+    "N-54"
+   ]
+  },
+  "note": "Host follows with 'He said Discord... He's reading from a piece of paper'; Cox Sept 12 statement."
+ },
+ {
+  "claim": "C-8735",
+  "episode": 90,
+  "decision": "accept",
+  "fix": {
+   "label": "Cox Describes Messages About a Rifle Left in a Bush Wrapped in a Towel",
+   "claim": "In a clip the host plays, Governor Spencer Cox says the messages from the contact Tyler stated a need to retrieve a rifle from a drop point, leaving the rifle in a bush, watching the area where it was left, and leaving it wrapped in a towel.",
+   "mentions": [
+    "N-3",
+    "N-41",
+    "N-40",
+    "N-54"
+   ]
+  },
+  "note": "Same Cox clip; attribution corrected."
+ },
+ {
+  "claim": "C-8736",
+  "episode": 90,
+  "decision": "accept",
+  "fix": {
+   "label": "Cox Says Messages Mentioned Engraving Bullets, a Scope and Changing Outfits",
+   "claim": "In a clip the host plays, Governor Spencer Cox says the messages also referred to engraving bullets, a scope and the rifle being unique, and that the contact Tyler said he had changed outfits.",
+   "mentions": [
+    "N-3",
+    "N-41",
+    "N-40",
+    "N-54"
+   ]
+  },
+  "note": "Same Cox clip; attribution corrected."
+ },
+ {
+  "claim": "C-12848",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Marx married Eileen (Breining) Marx in 1988 and that they went on to have five kids and grandkids.",
+   "label": "Host Says Marx Married Eileen Breining in 1988 and They Have Five Kids",
+   "names": [
+    {
+     "wrong": "Eileen Brining Marx",
+     "right": "Eileen Breining Marx",
+     "source": "https://en.wikipedia.org/wiki/Victor_Marx"
+    },
+    {
+     "wrong": "Kenneth Brining",
+     "right": "Kenneth Breining",
+     "source": "https://en.wikipedia.org/wiki/Victor_Marx"
+    }
+   ]
+  },
+  "note": "Kenneth Breining is Marx's brother-in-law (Wikipedia); host says Eileen's brother Kenneth, so Breining."
+ },
+ {
+  "claim": "C-12851",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Kenneth Brining",
+     "right": "Kenneth Breining",
+     "source": "https://en.wikipedia.org/wiki/Victor_Marx"
+    }
+   ]
+  },
+  "note": "Wikipedia: Kenneth Breining shot at Marx on his property; node N-729 misspelled."
+ },
+ {
+  "claim": "C-12852",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Kenneth Brining",
+     "right": "Kenneth Breining",
+     "source": "https://en.wikipedia.org/wiki/Victor_Marx"
+    }
+   ]
+  },
+  "note": "Wikipedia: Breining suspected of girlfriend's murder in Nevada County, jailed."
+ },
+ {
+  "claim": "C-12867",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the statement the host reads, Hall says Marx and his COO Chaz Yandall, who the host says goes with Marx to Haiti, met him at the hotel late at night wearing bulletproof vests.",
+   "names": [
+    {
+     "wrong": "Chaz Yandle",
+     "right": "Chaz Yandall",
+     "source": "https://atpministries.org/about-us/"
+    }
+   ]
+  },
+  "note": "atpministries.org lists Chaz Yandall."
+ }
+]

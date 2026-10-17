@@ -1036,11 +1036,11 @@ Investigative Direction: Identify the speaker; treat the JFK remark as the speak
 
 ---
 
-**C-8654** Host Says Alex Jones Had Trump on When No Media Company Would
+**C-8654** Read Reply Says Alex Jones Had Trump on When No Media Company Would
 
 Claim Timestamp: 00:19:06
 
-Claim: The host says that when no media company would have Trump on, Alex Jones had him on his show.
+Claim: A Truth Social reply the host reads says that when no media company would have Trump on, Alex Jones had him on his show.
 
 Transcript Snippet: when no media company would have you on, Alex Jones had you on on show.
 
@@ -1256,7 +1256,7 @@ Transcript Snippet: A few weeks later um there was the Butler attempted assassin
 Anchored Artifacts: A-1944.1
 Mentions: N-3, N-5
 Related Nodes: N-10588
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Reconcile the host's date of May with the public July 13, 2024 rally date.
 
 ---
@@ -1288,7 +1288,7 @@ Transcript Snippet: If it maybe got back to the Adelsons that Trump said that. Y
 Anchored Artifacts: A-1944.1
 Mentions: N-707, N-299, N-5, N-3
 Related Nodes: N-10588
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: This is the host's speculation and characterization; no evidence is offered that the remark reached the Adelsons.
 
 ---
@@ -1387,7 +1387,7 @@ Investigative Direction: Compare to the post text read earlier, which says the f
 
 ---
 
-**C-8676** Speaker Says Trump Reversed on Phosphorus and Monsanto Because Israel Needed It for Lebanon
+**C-8676** Host Says Trump Reversed on Phosphorus and Monsanto Because Israel Needed It for Lebanon
 
 Claim Timestamp: 00:36:11
 

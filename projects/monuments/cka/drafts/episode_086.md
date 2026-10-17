@@ -38,7 +38,7 @@
 - Claim Range: C-2609–C-2625, C-3750
 - New People Nodes Introduced: none (Wave 2: local ids removed)
 - New Investigation Target Nodes Introduced: N-10569, N-10570, N-10571, N-10572
-- Existing Nodes Reused: Charlie Kirk, Erika Kirk, Candace Owens, Tyler Robinson, Terryl Farnsworth, Andrew Kolvet, Dr. Lee Trotter, Justin Streiff, Frank Carney, Matt Robinson, Robinson roommate, FBI, ATF, Turning Point USA, Utah County Attorney's Office (UCAO), Kash Patel, Governor Cox
+- Existing Nodes Reused: Charlie Kirk, Erika Kirk, Candace Owens, Tyler Robinson, Terryl Farnsworth, Andrew Kolvet, Dr. Lee Trotter, Justin Streiff, Frank Carni, Matt Robinson, Robinson roommate, FBI, ATF, Turning Point USA, Utah County Attorney's Office (UCAO), Kash Patel, Governor Cox
 
 ---
 
@@ -237,7 +237,7 @@ Investigative Pressure: High
 
 **N-10571** July 14, 2025 Long Beach Flight
 
-Investigation target referenced by host as a "crucial date" tied to a flight involving Erika Kirk, Katherine Low Castro, Derek Niekerk, and Jonathan Barcelo to Long Beach; viewer email adds geographic context via proximity to Los Alamitos Joint Forces Air Base.
+Investigation target referenced by host as a "crucial date" tied to a flight involving Erika Kirk, Katherine Locastro, Derek Niekerk, and Jonathan Barcelo to Long Beach; viewer email adds geographic context via proximity to Los Alamitos Joint Forces Air Base.
 
 Evidence Count: 1
 Claim Count: 1
@@ -379,7 +379,7 @@ Benjamin Netanyahu; named in the host's account of Tucker Carlson's remarks.
 
 **N-600** Katherine Locastro
 
-Katherine Locastro (transcribed Katherine Low Castro); named as a passenger on Erika's July 14 flight.
+Katherine Locastro (transcribed Katherine Locastro); named as a passenger on Erika's July 14 flight.
 
 *Related: C-10346*
 
@@ -633,7 +633,7 @@ Tyler Robinson Preliminary Hearing and Motion to Dismiss; reused for the continu
 
 ---
 
-**N-862** Frank Carney
+**N-862** Frank Carni
 
 First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, with Justin Streiff, was on the phone with the FBI about the back footage, per the host.
 
@@ -869,7 +869,7 @@ Claim Timestamp: 00:59:52
 Claim: The host says Frank Turek's account of the surgeon announcing "He's dead. He's dead. I need to speak to Erika" did not ring true, citing her producer Ashley's questions about how the surgeon knew Erika's name within 30 minutes and saying it feels like someone writing a script.
 
 Anchored Artifacts: A-1916.1
-Mentions: N-7
+Mentions: N-7, N-2, N-3
 
 Related Nodes:
 
@@ -899,7 +899,7 @@ Claim Timestamp: 00:09:57
 Claim: The host says the "man of steel" framing in Andrew Kolvet's September 20, 2025 tweet came from Erika Kirk saying Charlie ate healthy and had a neck like Superman, calls it girly and emotional, and says it is not how serious trauma surgeons communicate.
 
 Anchored Artifacts: A-1913.1
-Mentions: N-14
+Mentions: N-14, N-2, N-1, N-3
 
 Related Nodes: N-10085
 
@@ -1116,13 +1116,13 @@ Investigative Direction: Obtain the husband's account and the message thread wit
 
 ---
 
-**C-10311** Host says the FBI was on the phone with Streiff and Frank Carney about the back footage
+**C-10311** Host Says the FBI Was on the Phone With Streiff and Frank Carni About the Back Footage
 
 Claim Timestamp: 00:08:17
 
-Claim: The host says she learned that the FBI was on the phone with Justin Streiff and Frank Carney that day and that they were apparently discussing with the feds whether she had recorded the footage.
+Claim: The host says she learned that the FBI was on the phone with Justin Streiff and Frank Carni that day and that they were apparently discussing with the feds whether she had recorded the footage.
 
-Transcript Snippet: The FBI was on the phone with Justin Streiff, Frank Carney, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.
+Transcript Snippet: The FBI was on the phone with Justin Streiff, Frank Carni, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.
 
 Anchored Artifacts: 
 Mentions: N-15, N-862
@@ -1157,7 +1157,7 @@ Claim: The host says that on the day of Charlie's funeral Erika and Andrew Kolve
 Transcript Snippet: They peeled off to the side and they conferenced the surgeon on the day of Charlie's actual funeral.
 
 Anchored Artifacts: 
-Mentions: N-2, N-14, N-196
+Mentions: N-2, N-14, N-196, N-1
 Related Nodes: N-10447
 Tags: relevance:core
 Investigative Direction: Obtain phone records for the Erika Kirk, Andrew Kolvet and Dr. Trotter call and ask Dr. Trotter to confirm who participated.
@@ -1505,7 +1505,7 @@ Investigative Direction: Obtain the FBI and ATF DNA reports and the underlying e
 
 Claim Timestamp: 00:37:11
 
-Claim: The host reads the filing as saying the ATF summary report found the autopsy bullet could not be identified to the rifle, that the state has not indicated it will produce the report at the hearing, and that the defense may call the ATF analyst as exculpatory evidence.
+Claim: The host reads the filing as saying the ATF summary report found the autopsy bullet could not be identified to the rifle allegedly tied to Robinson, that the state has not indicated it will produce the report at the hearing, and that the defense may call the ATF analyst as exculpatory evidence.
 
 Transcript Snippet: Although the state has not indicated an intent to produce this report at the preliminary hearing, the defense may very well decide to offer the testimony of the ATF firearm analyst as exculpatory evidence.
 
@@ -1683,9 +1683,9 @@ Investigative Direction: Review the original APB post and the full emailed tip.
 
 Claim Timestamp: 00:50:51
 
-Claim: The host says Erika's July 14 flight was taken with Katherine Low Castro, Derek Niekerk and Jonathan Barcelo, and that it goes to Long Beach.
+Claim: The host says Erika's July 14 flight was taken with Katherine Locastro, Derek Niekerk and Jonathan Barcelo, and that it goes to Long Beach.
 
-Transcript Snippet: And that flight is she took with Katherine Low Castro and Derek Niekerk and Jonathan Barcelo.
+Transcript Snippet: And that flight is she took with Katherine Locastro and Derek Niekerk and Jonathan Barcelo.
 
 Anchored Artifacts: A-1915.1
 Mentions: N-2, N-600, N-419, N-677
@@ -1759,11 +1759,11 @@ Investigative Direction: Obtain hospital admission, ambulance and security recor
 
 ---
 
-**C-10351** Host relays that Turek said Kirk was dead within 30 minutes and asked to talk to Erika
+**C-10351** Host Relays Producer's Question of How the Surgeon Knew Erika's Name
 
 Claim Timestamp: 00:58:46
 
-Claim: The host relays her producer Ashley's point that Frank Turek's next sentence was that Charlie was dead and he needed to talk to Erika, about 30 minutes after Charlie was rushed to the hospital, and Ashley's question of how he knew Erika was his wife's name.
+Claim: The host relays her producer Ashley's point that, in Frank Turek's telling, the surgeon's next sentence was 'He's dead. I need to talk to Erika,' about 30 minutes after Charlie was rushed to the hospital, and Ashley's question of how the surgeon knew Erika was Charlie's wife's name.
 
 Transcript Snippet: Within 30 minutes, they tell us that he's declared dead. How did he know Erika was his wife's name?
 
@@ -2006,7 +2006,7 @@ Confidence: high
 - **Artifact verbally referenced but not shown**: Frank Turek's actual hospital statement is referenced via Kim Haven's comment but is not displayed in this episode. (A-1916.1 frames the challenge but does not contain Turek's original text.)
 - **Artifact verbally referenced but not shown**: Elizabeth Lane's X post about the "other hospital and the strange lockdown" is referenced at 00:56:00 but is not displayed.
 - **Testimonial recount, no artifact displayed**: Andrew Kolvet's reported September 23, 2025 verbal account to host (bullet traveled C2–C6, shattered in thorax) is not anchored to any artifact shown in this episode. Claim failure label: **Claim failed admission test**.
-- **Testimonial recount, no artifact displayed**: Host's recounting of FBI calls to Justin Streiff and Frank Carney regarding the back-footage FaceTime recording is not artifact-anchored in this episode.
+- **Testimonial recount, no artifact displayed**: Host's recounting of FBI calls to Justin Streiff and Frank Carni regarding the back-footage FaceTime recording is not artifact-anchored in this episode.
 - **Testimonial recount, no artifact displayed**: Host's recounting of the September 19, 2025 FaceTime with Terryl Farnsworth is not artifact-anchored in this episode.
 - **Transcript ambiguity**: The Atlanta news clip's air date and originating station are not specified; "Chris Nakamoto" is identified by name only.
 - **Name preservation**: "Terryl Farnsworth" appears consistently across the transcript; "Andrew Kolvats" and "Andrew Kolvet" both appear; "Dr. Lee Trotter" appears consistently; preserved as written.

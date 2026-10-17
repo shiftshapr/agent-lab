@@ -219,7 +219,7 @@ Confidence Level: High (audio clip)
 
 **A-1894** N40JD Plane Information Bundle
 
-**A-1894.1** N40JD plane data – registered to Jason Knupp (host identifies as chief commander of naval surface force in Atlanta); departed Scottsdale approximately 1 hour after Charlie Kirk shot; landed Provo at 2:29 PM MST
+**A-1894.1** N40JD plane data – registered to Jason Knupp (host identifies as chief commander of Naval Surface Force Atlantic); departed Scottsdale approximately 1 hour after Charlie Kirk shot; landed Provo at 2:29 PM MST
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -840,7 +840,7 @@ Claim Timestamp: 00:20:35
 Claim: The host says a text thread with Justin and Aubrey shows Andrew Kolvet could not respond to messages because he was on a plane without Wi-Fi, and that Justin told Aubrey at 4:18 PM MST that she must wait until Andrew is "on the ground."
 
 Anchored Artifacts: A-1889.1, A-1889.2
-Mentions: N-14
+Mentions: N-14, N-15, N-552
 
 Related Nodes: N-10554, N-10557
 
@@ -852,7 +852,7 @@ Investigative Direction: Obtain full text thread with carrier-verified timestamp
 
 Claim Timestamp: 00:39:16
 
-Claim: Per the host, the N40JD plane, registered to Jason Knupp (who the host says appears to be the chief commander of naval surface force in Atlanta), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST.
+Claim: Per the host, the N40JD plane, owned by Jason Knupp (who the host says appears to be the chief commander of Naval Surface Force Atlantic), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST.
 
 Anchored Artifacts: A-1894.1
 Mentions: N-1
@@ -885,7 +885,7 @@ Claim Timestamp: 00:36:15
 Claim: In a clip the host plays, Nick Shirley says that over the course of two days he got access to Comando Vermelho, one of Rio de Janeiro's largest gangs, and befriended soldiers so dangerous they cannot leave the favela.
 
 Anchored Artifacts: A-1891.2
-Mentions: N-214, N-1
+Mentions: N-214
 
 Related Nodes: N-10559
 
@@ -897,7 +897,7 @@ Investigative Direction: Verify the Comando Vermelho footage, dates, and circums
 
 Claim Timestamp: 00:43:38
 
-Claim: The host says Joe Kent stated in an interview with Michael Shellenberger that federal investigators did not thoroughly pursue other leads in the Charlie Kirk case.
+Claim: The host says Joe Kent stated in an interview with, she believes, Michael Shellenberger that federal investigators did not thoroughly pursue other leads in the Charlie Kirk case.
 
 Anchored Artifacts: A-1892.1
 Mentions: N-1, N-210, N-809
@@ -925,9 +925,9 @@ Investigative Direction: Obtain full clip with timestamps; document exact wordin
 
 **C-2555** The "Yrefy" plane's 2020 charter listing does not market Wi-Fi as an amenity
 
-Claim Timestamp: 00:25:37
+Claim Timestamp: 00:24:50
 
-Claim: A 2020 charter listing for the plane identified as the alleged Santa Barbara → Scottsdale leg ("Yrefy") lists amenities including belted lavatory, cabin power outlets, refreshment center, and satellite phone, but does not list Wi-Fi.
+Claim: Per the 2020 charter listing the host shows for the plane she identifies as the alleged Santa Barbara → Scottsdale leg ("Yrefy"), its amenities include a belted lavatory, cabin power outlets, a refreshment center and a satellite phone, but not Wi-Fi.
 
 Anchored Artifacts: A-1887.3
 
@@ -952,11 +952,11 @@ Investigative Direction: Verify the specific guest booked for September 9 interv
 
 ---
 
-**C-2557** "Yrefy" / "RY Reef air" and the alleged Santa Barbara → Scottsdale plane share identity
+**C-2557** Host Says Erika Named the Yrefy Plane, Which She Believes Kolvet Took From Santa Barbara to Scottsdale
 
 Claim Timestamp: 00:38:35
 
-Claim: The host refers to "RY Reef air" and "Yrefy" as the same plane: she says Erika Kirk told her about it ("wife Reef air CEO"), and she believes Andrew Kolvet took it from Santa Barbara to Scottsdale.
+Claim: The host refers to the Yrefy plane: she says Erika Kirk told her about it (the Yrefy CEO), and she believes Andrew Kolvet took it from Santa Barbara to Scottsdale.
 
 Anchored Artifacts: A-1887.3
 Mentions: N-14, N-2
@@ -993,7 +993,7 @@ Claim Timestamp: 00:22:50
 Claim: The host says Marina told Aubrey that Andrew Kolvet was not available and that Aubrey had to write the statement about Charlie's death, and that Andrew was unavailable when it went out.
 
 Anchored Artifacts: A-1889.2 (text thread)
-Mentions: N-14, N-1, N-552
+Mentions: N-14, N-1, N-552, N-494
 
 Related Nodes: N-10554
 
@@ -2026,7 +2026,7 @@ Confidence: medium
 
 - **Name uncertainty**: Andrew Kolvet's surname is rendered inconsistently throughout the transcript – "Kolvet," "Kolvert," "Colvin," "Colvert," "Kolvet." Most stable form from chapter title: "Kolvet." Flag preserved across all references.
 
-- **Possible transcription error**: "Yrefy" / "RY Reef air" / "wife Reef air" appear to refer to the same entity; transcript rendering is ambiguous. Inscribed as a claim but flagged.
+- **Possible transcription error**: "Yrefy" / "Yrefy" / "wife Reef air" appear to refer to the same entity; transcript rendering is ambiguous. Inscribed as a claim but flagged.
 
 - **Artifact verbally referenced but not shown**: The Baron Coleman clip (played but not registered as its own artifact bundle) should be captured in a future episode as a discrete artifact family.
 
@@ -2036,7 +2036,7 @@ Confidence: medium
 
 - **Single-call verification**: The Wi-Fi phone confirmation for the Barbara plane (A-1887.2) rests on a single unrecorded phone call. Recommend independent corroboration.
 
-- **Jason Knupp identification**: The host identifies Jason Knupp as "chief commander of naval surface force in Atlanta." This is a military rank/title identification that requires independent verification through official Navy / DOD sources before inscription at higher confidence.
+- **Jason Knupp identification**: The host identifies Jason Knupp as "chief commander of Naval Surface Force Atlantic." This is a military rank/title identification that requires independent verification through official Navy / DOD sources before inscription at higher confidence.
 
 ---
 

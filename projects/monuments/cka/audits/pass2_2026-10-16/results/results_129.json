@@ -1,0 +1,793 @@
+[
+ {
+  "claim": "C-10328",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10329",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10330",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10331",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10332",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10333",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10334",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10335",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Filing: 'unable to identify the bullet recovered at autopsy to the rifle allegedly tied to Mr. Robinson'; claim drops 'allegedly tied to Robinson'.",
+  "fix": {
+   "claim": "The host reads the filing as saying the ATF summary report found the autopsy bullet could not be identified to the rifle allegedly tied to Robinson, that the state has not indicated it will produce the report at the hearing, and that the defense may call the ATF analyst as exculpatory evidence."
+  }
+ },
+ {
+  "claim": "C-10336",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10337",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10338",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10339",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Ates case real (Jimmy Ates, Georgia, released 2021); transcript also renders 'Aids'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-10340",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10341",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10342",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10343",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10344",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10345",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10346",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript 'Katherine Low Castro' is a mis-transcription of Katherine Locastro (node N-600, TPUSA representative); claim repeats garbled spelling.",
+  "fix": {
+   "claim": "The host says Erika's July 14 flight was taken with Katherine Locastro, Derek Niekerk and Jonathan Barcelo, and that it goes to Long Beach.",
+   "names": [
+    {
+     "wrong": "Katherine Low Castro",
+     "right": "Katherine Locastro",
+     "source": "https://sites.cortland.edu/dragon-chronicle/2024/02/29/turning-point-usa-takes-legal-action-against-suny-cortland-over-campus-access-denial/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-10347",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10348",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Email the host reads; 'Joint Forces Air Base' at Los Alamitos (transcript also garbles 'JTF, Fort Huachuca').",
+  "fix": {}
+ },
+ {
+  "claim": "C-10349",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10350",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10351",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Ashley: 'the next sentence he says is, He's dead. I need to talk to Erika' and 'How did he know Erika...? He does not know this man... the surgeon was pretty busy' - in Turek's telling it is the surgeon who says this; claim gives it to Turek.",
+  "fix": {
+   "claim": "The host relays her producer Ashley's point that, in Frank Turek's telling, the surgeon's next sentence was 'He's dead. I need to talk to Erika,' about 30 minutes after Charlie was rushed to the hospital, and Ashley's question of how the surgeon knew Erika was Charlie's wife's name.",
+   "label": "Host Relays Producer's Question of How the Surgeon Knew Erika's Name"
+  }
+ },
+ {
+  "claim": "C-10352",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'She told me that. Um but that she didn't she had no part in it.' Speaker of 'she' inferred as Erika from context.",
+  "fix": {}
+ },
+ {
+  "claim": "C-10353",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2626",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2627",
+  "episode": 87,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "The post content is a document the host shows and the 4:21 p.m. time is the host's statement ('He wrote this at 4:21 p.m. Mountain'); claim states both as fact and adds a date not said.",
+  "fix": {
+   "claim": "Per the X post the host shows, Kash Patel wrote that the subject for the shooting that took the life of Charlie Kirk was now in custody; the host says he posted it at 4:21 p.m. Mountain time, almost exactly four hours after Charlie was shot."
+  }
+ },
+ {
+  "claim": "C-2628",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2629",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Zachariah Qureshi confirmed as the man detained and released Sept 10 (CBS Texas).",
+  "fix": {}
+ },
+ {
+  "claim": "C-2630",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Company is BILT Incorporated (3D instruction app co-founded by Ahmed Qureshi and Nathan Henderson); transcript 'Built'.",
+  "fix": {
+   "claim": "Per Ahmed Qureshi's LinkedIn profile, which the host shows, he is President/COO of BILT Incorporated and an O6 commanding officer (Navy Captain) at East Coast HQ since May 2024, according to the host.",
+   "names": [
+    {
+     "wrong": "Built Incorporated",
+     "right": "BILT Incorporated",
+     "source": "https://founderstory.transistor.fm/episodes/ahmed-qureshi-co-founder-president-coo-of-bilt"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2631",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Built' is BILT Incorporated. O5/2015 detail spoken at ~12:20; main content (co-founder Nathan Henderson) at 16:40-16:55.",
+  "fix": {
+   "claim": "The host says BILT Incorporated was co-founded by Ahmed Qureshi (an O5 at the time) and Nathan Henderson in 2015.",
+   "label": "Host Says Ahmed Qureshi and Nathan Henderson Co-Founded BILT Incorporated",
+   "names": [
+    {
+     "wrong": "Built Incorporated",
+     "right": "BILT Incorporated",
+     "source": "https://founderstory.transistor.fm/episodes/ahmed-qureshi-co-founder-president-coo-of-bilt"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2632",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'just under a quarter million um from the Navy', not '$240K'; company is BILT.",
+  "fix": {
+   "claim": "The host says USA Spending records show BILT Incorporated received approximately $7.4M from the Air Force and just under a quarter million from the Navy in June 2025, with the largest contracts dated June 1 and June 16, 2025.",
+   "label": "Host Says USA Spending Shows BILT Inc. Received ~$7.4M Air Force + Under $250K Navy in June 2025",
+   "names": [
+    {
+     "wrong": "Built Incorporated",
+     "right": "BILT Incorporated",
+     "source": "https://founderstory.transistor.fm/episodes/ahmed-qureshi-co-founder-president-coo-of-bilt"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2633",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Built Corporation' is BILT Incorporated.",
+  "fix": {
+   "claim": "Per Gina Romney Henderson's LinkedIn profile, which the host shows, she is Vice President of User Experience at BILT Incorporated.",
+   "label": "Host Shows LinkedIn Listing Gina Romney Henderson as VP UX at BILT Inc.",
+   "names": [
+    {
+     "wrong": "Built Incorporated",
+     "right": "BILT Incorporated",
+     "source": "https://founderstory.transistor.fm/episodes/ahmed-qureshi-co-founder-president-coo-of-bilt"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2634",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2635",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Article read: 'A year later, the bureau abandoned the analysis'; NAS found FBI testimony 'unreliable and potentially misleading'. 'formally' is added.",
+  "fix": {
+   "claim": "Per the 2007 Washington Post article the host shows, the FBI abandoned comparative bullet lead analysis in 2005, a year after a 2004 National Academy of Sciences report found FBI testimony about the technique unreliable and potentially misleading."
+  }
+ },
+ {
+  "claim": "C-2636",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2637",
+  "episode": 87,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Words come from a clip of Trump ('I told her you got to sue somebody. They're so jealous of Erika'); claim states as fact and adds 'White House' and '2026', not in window; 'mocking her' is the host's paraphrase.",
+  "fix": {
+   "claim": "In a clip the host plays from an Easter event, Donald Trump says he told Erika Kirk she has to sue people because they are so jealous of her; the host says he told her to sue people making fun of her."
+  }
+ },
+ {
+  "claim": "C-2638",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2639",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Andrew Zenger confirmed: named Timpanogos CEO Aug 2025, ex-COO Medical City McKinney (mountainstar.com).",
+  "fix": {}
+ },
+ {
+  "claim": "C-2640",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2641",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2642",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2643",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: Metro One Talent",
+  "fix": {}
+ },
+ {
+  "claim": "C-2644",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Transcript 'Michael Shawn Covey' is Michael Sean Covey (BYU, Stephen Covey grandson - host: 'I always switch it with his grandfather').",
+  "fix": {
+   "claim": "The host says Michael Sean Covey, a roommate of Andrew Zenger from the Jerusalem period, contracts with the CIA.",
+   "label": "Host Says Michael Sean Covey (Zenger's Jerusalem Roommate) Does CIA Contract Work",
+   "names": [
+    {
+     "wrong": "Michael Shawn Covey",
+     "right": "Michael Sean Covey",
+     "source": "https://www.bridleuphope.org/team"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2645",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2646",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2647",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2648",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2649",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: Caleb Cunningham",
+  "fix": {}
+ },
+ {
+  "claim": "C-2650",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: Jeffrey Knuckles (only near match found: Jeff Nuckols, 2012 Romney staff; not confirmed)",
+  "fix": {}
+ },
+ {
+  "claim": "C-2651",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2652",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2653",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Kael Miles: 'I think they should make those 600,000 documents public'; it is the host who calls it advice for Robinson's defense.",
+  "fix": {
+   "claim": "A viewer comment the host reads (Kael Miles) says the 600,000 documents should be made public for viewers to sort through; the host calls it great advice for Robinson's defense and offers to serve as an unpaid document-review army."
+  }
+ },
+ {
+  "claim": "C-14550",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14551",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14552",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14553",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14554",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14555",
+  "episode": 87,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]
