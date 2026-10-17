@@ -755,7 +755,7 @@ Existing topic reused for new claims in this episode.
 
 **N-11038** Shaffer Security
 
-Existing organization; the host's 'Schaefer security' in the transcript.
+Existing organization; the host's 'Shaffer security' in the transcript.
 
 *Related: C-8382*
 
@@ -830,7 +830,7 @@ Investigative Direction: Locate and verify the original NYT article containing t
 
 **C-2317** Erika told Jesse Watters she sent Charlie to sleep in daughter's room
 
-Claim Timestamp: 00:12:11–00:12:25
+Claim Timestamp: 00:11:32
 
 Claim: The host says Erika Kirk said in her Jesse Watters interview that she wanted Charlie to have a good night's sleep and sent him to sleep in his daughter's room.
 
@@ -1033,13 +1033,13 @@ Investigative Direction: Identify which staff or advisers joined TPUSA after the
 
 ---
 
-**C-8382** Host Says She Warned Charlie About Schaefer Security and Dan Flood
+**C-8382** Host Says She Warned Charlie About Shaffer Security and Dan Flood
 
 Claim Timestamp: 00:06:26
 
-Claim: The host says she warned Charlie Kirk about Schaefer security and Dan Flood, and tells Erika Kirk that the text messages are in Erika's possession.
+Claim: The host says she warned Charlie Kirk about Shaffer Security and Dan Flood, and tells Erika Kirk that the text messages are in Erika's possession.
 
-Transcript Snippet: I also warned him about Schaefer security and Dan Flood. You can check the text messages because you have them.
+Transcript Snippet: I also warned him about Shaffer security and Dan Flood. You can check the text messages because you have them.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-271, N-2
@@ -1646,7 +1646,7 @@ Investigative Direction: Compare Charlie Kirk's public statements about Loomer, 
 
 Claim Timestamp: 00:38:47
 
-Claim: The host asks viewers who know anything about Pierre, whom she describes as a Catholic born in France living in the Tampa area who may be building a shrine, to send tips to moretips@candaceowens.com.
+Claim: The host asks viewers who know anything about Pierre, whom she describes as a Catholic born in France living in the Tampa area who may be building a shrine, to send tips to tips@candaceowens.com.
 
 Transcript Snippet: If you know something, more tips at candace oowens. com.
 

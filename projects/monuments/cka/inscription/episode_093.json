@@ -1884,7 +1884,7 @@
       "@type": "Claim",
       "@id": "C-2745",
       "ref": "C-2745",
-      "label": "Erika Kirk was at the Athens, GA venue from 2:40 PM to 6:39 PM on rally day",
+      "label": "Host Says Erika Kirk Was in Athens, GA From 2:40 PM to 6:39 PM on Rally Day",
       "claim": "Host presents a timeline in which Erika departed West Palm Beach at 1:27 PM, landed in Athens at 2:40 PM, and remained until departing at 6:39 PM.",
       "anchored_artifacts": [
         "A-1982.1"
@@ -2052,7 +2052,9 @@
       "tags": [],
       "claim_timestamp": "00:37:17–00:38:02",
       "investigative_direction": "Obtain message timestamps to confirm date precisely.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-343"
+      ]
     },
     {
       "@type": "Claim",
@@ -2415,7 +2417,7 @@
       "@id": "C-11443",
       "ref": "C-11443",
       "label": "Host Says Erika Was Off Stage Left as Schoneberger Thanked Her at 5:00",
-      "claim": "The host says the Wi-Fi speaker opened the event at 5:00 p.m., thanked Erika on stage and looked to the left, which she reads as a sign Erika was off stage at that time.",
+      "claim": "The host says the Yrefy speaker opened the event at 5:00 p.m., thanked Erika on stage and looked to the left, which she reads as a sign Erika was off stage at that time.",
       "anchored_artifacts": [
         "A-3136.1"
       ],

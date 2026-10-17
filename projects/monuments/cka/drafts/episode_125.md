@@ -850,7 +850,7 @@ Related Nodes: N-10715
 
 Investigative Direction: Rental car records, phone location data, and witness statements would verify Blake Neff's stated movement and reconstruct the SUV's route.
 
-**C-3020** Clip Has Blake Neff Acknowledging Danny Phillip as Possible SUV Passenger
+**C-3020** Clip Has Blake Neff Acknowledging Danny Philip as Possible SUV Passenger
 
 Claim Timestamp: 00:15:25
 
@@ -863,7 +863,7 @@ Related Nodes: N-10715
 
 Investigative Direction: Direct confirmation from Danny Phillip or other witnesses; phone location data for September 10th would verify or falsify the identification.
 
-**C-3021** Host Says Danny Phillip Is Grandson of Thomas Patrick
+**C-3021** Host Says Danny Philip Is Grandson of Thomas Patrick
 
 Claim Timestamp: 00:20:15
 
@@ -880,7 +880,7 @@ Investigative Direction: Genealogical records, family-tree confirmation, public 
 
 Claim Timestamp: 00:22:15
 
-Claim: The host says Danny Phillip's father Stephen Phillip worked for Bank of America Merrill Lynch in Chicago and, like Tyler Bowyer, majored in Russian studies.
+Claim: The host says Danny Philip's father Stephen Phillip worked for Bank of America Merrill Lynch in Chicago and, like Tyler Bowyer, majored in Russian studies.
 
 Anchored Artifacts: A-2134.1
 Mentions: N-368, N-737, N-11
@@ -1789,7 +1789,7 @@ Investigative Direction: The text thread in question, with sender, recipients an
 
 Claim Timestamp: 00:41:46
 
-Claim: Reading Andrew Kolvet's tweet aloud, the host reports that Kolvet writes the team politely declined having Netanyahu on the show and that months later Charlie Kirk took a call from him after he wrote Kirk a letter, while calling the Netanyahu funding offer a lie.
+Claim: Reading Andrew Kolvet's tweet aloud, the host reports that Kolvet writes the team politely declined having Netanyahu on the show and that months later Charlie Kirk took a call from him after Kirk wrote him a letter, while calling the Netanyahu funding offer a lie.
 
 Transcript Snippet: Yes, we politely declined having Netanyahu on the show. So what? And yes, months later CK took a call from him after he wrote him a letter.
 

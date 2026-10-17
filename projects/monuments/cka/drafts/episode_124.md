@@ -36,7 +36,7 @@ Episode 124 Ledger Summary
 Artifact Families Introduced: A-2115, A-2116, A-2117, A-2118, A-2119, A-2120, A-2121, A-2122, A-2123, A-2124, A-2125, A-2126, A-2127, A-2128
 Claim Range: C-3000 – C-3016, C-3761, C-3764, C-3770
 New Nodes Introduced: N-10709, N-10710, N-10711, N-10712, N-10713
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twiggs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Bari Weiss, Benny Johnson, Josh Hammer, Caitlin Oliver, Samantha Carner, Miss Noble, Jeremy Boreing, Tim Pool, Blake Neff, Baron Coleman, Frank Turek, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kolvet/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Prejean Boller)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twiggs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Bari Weiss, Benny Johnson, Josh Hammer, Caitlin Oliver, Samantha Karner, Miss Noble, Jeremy Boreing, Tim Pool, Blake Neff, Baron Coleman, Frank Turek, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kolvet/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Prejean Boller)
 
 ## 6. Meme Register
 
@@ -260,7 +260,7 @@ Confidence: high
 
 # II. Executive Summary
 
-This episode is dedicated to the host's analysis of the Tyler Robinson preliminary hearing in Utah, with extensive evidentiary material drawn directly from courtroom audio, video exhibits, and post-court influencer commentary. The host anchors her critique in seven distinct artifact families: Lance Twiggs's courtroom testimony identifying Robinson only by generic clothing items and stating Robinson was not political; ATF forensic biologist Caitlin Oliver's testimony that "Robinson's DNA is on the gun" would be "scientifically indefensible" and that Robinson's DNA was the most degraded contributor; the visual discrepancy between the dual-exhaust car shown in court footage and Tyler Robinson's known single-exhaust Dodge Challenger; ballistics expert Samantha Carner's measurement of the 6A bullet jacket fragment diameter (286–301 thousandths of an inch); the host's framing of Exhibits 12.4 and 12.1 as showing only blurred/unidentifiable figures; Benny Johnson's post-court video claim of having seen "4K HD" footage of the shooting; and Ben Shapiro's on-air admission that his security received live updates from someone in Charlie Kirk's vehicle during the seven-minute transport to the hospital.
+This episode is dedicated to the host's analysis of the Tyler Robinson preliminary hearing in Utah, with extensive evidentiary material drawn directly from courtroom audio, video exhibits, and post-court influencer commentary. The host anchors her critique in seven distinct artifact families: Lance Twiggs's courtroom testimony identifying Robinson only by generic clothing items and stating Robinson was not political; ATF forensic biologist Caitlin Oliver's testimony that "Robinson's DNA is on the gun" would be "scientifically indefensible" and that Robinson's DNA was the most degraded contributor; the visual discrepancy between the dual-exhaust car shown in court footage and Tyler Robinson's known single-exhaust Dodge Challenger; ballistics expert Samantha Karner's measurement of the 6A bullet jacket fragment diameter (286–301 thousandths of an inch); the host's framing of Exhibits 12.4 and 12.1 as showing only blurred/unidentifiable figures; Benny Johnson's post-court video claim of having seen "4K HD" footage of the shooting; and Ben Shapiro's on-air admission that his security received live updates from someone in Charlie Kirk's vehicle during the seven-minute transport to the hospital.
 
 The episode structurally advances the show's pre-hearing thesis that Lance Twiggs is a federal asset whose testimony is structurally indispensable to the prosecution, and introduces five new investigative discrepancies warranting continued tracking: the car exhaust pipe discrepancy, the bullet jacket diameter measurement, the most-degraded DNA claim, the Ben Shapiro security live-update admission, and the Tel Aviv text message extraction source. The episode also documents the absence of testimony at the hearing regarding the pre-hearing "Fed narrative" claim that Robinson's parents turned him in via confession.
 
@@ -488,9 +488,9 @@ Confidence Level: High
 
 ---
 
-**A-2125** Samantha Carner ATF Ballistics Testimony Audio
+**A-2125** Samantha Karner ATF Ballistics Testimony Audio
 
-**A-2125.1** Audio of Samantha Carner (ATF ballistics expert) testifying that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch, with Carner's reasoning for the confidence range.
+**A-2125.1** Audio of Samantha Karner (ATF ballistics expert) testifying that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch, with Carner's reasoning for the confidence range.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -1038,7 +1038,7 @@ First named by the host at 00:30:07 in episode 124. ATF forensic biologist who t
 
 ---
 
-**N-777** Samantha Carner
+**N-777** Samantha Karner
 
 First named by the host at 00:37:36 in episode 124. ATF ballistics expert who testified on day four about bullet fragment 6A.
 
@@ -1278,7 +1278,7 @@ Investigative Direction: Cross-reference degradation findings with handling/time
 
 Claim Timestamp: 00:40:31
 
-Claim: ATF ballistics expert Samantha Carner testified that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch.
+Claim: ATF ballistics expert Samantha Karner testified that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch.
 
 Anchored Artifacts: A-2125.1
 Mentions: N-777
@@ -1964,11 +1964,11 @@ Investigative Direction: Ask independent forensic DNA experts to review the degr
 
 ---
 
-**C-7239** Host Says Samantha Carner Received Only Four of Seven Fragments Taken From Charlie's Body
+**C-7239** Host Says Samantha Karner Received Only Four of Seven Fragments Taken From Charlie's Body
 
 Claim Timestamp: 00:39:45
 
-Claim: The host says it was weird that seven bullet fragments were reportedly taken from Charlie's body, but ATF ballistics expert Samantha Carner testified she received only four in a manila envelope, three were unusable and she was left with one, labeled 6A.
+Claim: The host says it was weird that seven bullet fragments were reportedly taken from Charlie's body, but ATF ballistics expert Samantha Karner testified she received only four in a manila envelope, three were unusable and she was left with one, labeled 6A.
 
 Transcript Snippet: it was weird off the bat that they said they took seven bullet uh seven fragments from Charlie's body. She testifies that she only received four of them in an envelope
 
@@ -1984,7 +1984,7 @@ Investigative Direction: Obtain the medical examiner's evidence log and the ATF 
 
 Claim Timestamp: 00:40:31
 
-Claim: The host says the 6A fragment range of .286 to .301 is too small for Tyler's .30-06, because a .30-06 bullet begins at .308 and goes upward, so she says Carner is basically admitting it is not Tyler Robinson's gun.
+Claim: The host says the 6A fragment range of .286 to .301 is too small for Tyler's .30-06, because a .30-06 bullet begins at .308 and goes upward, so she says Karner is basically admitting it is not Tyler Robinson's gun.
 
 Transcript Snippet: The reason why that matters is because it's too small for Tyler's 306.
 
@@ -2068,7 +2068,7 @@ Investigative Direction: Check the hearing record for a 20 minute exhibit and co
 
 Claim Timestamp: 00:50:12
 
-Claim: Benny Johnson says in the video that Erika Kirk asked them to ask viewers to pray for a speedy trial and for justice for the widow.
+Claim: Benny Johnson says in the video, "Please pray. Erika Kirk asked us to do this," and urges viewers to pray for a speedy trial and for justice for the widow.
 
 Transcript Snippet: Please pray. Erika Kirk asked us to do this.
 
@@ -2100,7 +2100,7 @@ Investigative Direction: Collect the later statements by Benny Johnson and other
 
 Claim Timestamp: 00:52:34
 
-Claim: The host says everyone else spent nine hours a day watching the hearing, but the 4K HD footage was held back to give the same influencers at the very end of day five.
+Claim: Mocking the influencers' account, the host says everyone else spent nine hours a day watching the hearing, but they supposedly waited until the very end of day five to give the 4K HD footage to the same influencers.
 
 Transcript Snippet: Everyone else was spending nine hours a day watching every day of the hearing, but they waited till the end to give this gift to the same influencers
 
@@ -2311,7 +2311,7 @@ Investigative Direction: Compare Frank Turek's and Brian Harpole's recorded acco
 
 Claim Timestamp: 01:03:20
 
-Claim: The host says Justin Davis was driving upwards of 100 miles per hour and would not have answered a call from Shapiro's security because he was focused on the road.
+Claim: The host says Justin Davis was driving upwards of 100 miles per hour and that she is going to say he would not have answered a call from Shapiro's security because he was focused on the road.
 
 Transcript Snippet: Justin Davis was driving upwards to 100 miles per hour.
 
@@ -2524,7 +2524,7 @@ Investigative Direction: No external record is available for the dreams; compare
 
 Claim Timestamp: 01:18:37
 
-Claim: Responding to a viewer comment, the host says the correct order should have been to call 911, stop the bleeding and stabilize the neck, and that anything else would be criminal medical malpractice.
+Claim: Responding to a viewer comment, the host says the order should have been to call 911, stop the bleeding and stabilize the neck; the comment says anything else is criminal medical malpractice, and the host says she agrees.
 
 Transcript Snippet: Yep, we mentioned that the order should have been call 911 and stop bleeding, stabilize the neck.
 

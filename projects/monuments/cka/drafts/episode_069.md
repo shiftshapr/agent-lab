@@ -87,7 +87,7 @@ Video Timestamp: 00:05:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played in full)
 
-*Display/Read content: Book of Enoch; 200 fallen angels (Watchers) landing at Mount Hermon, southern Lebanon; topographic outline resembling a goat; Aazil/goat association in Leviticus 16; David Flynn research; coordinate 33.33°N × 33.33°E from Paris prime meridian; "devil's line."*
+*Display/Read content: Book of Enoch; 200 fallen angels (Watchers) landing at Mount Hermon, southern Lebanon; topographic outline resembling a goat; Azazel/goat association in Leviticus 16; David Flynn research; coordinate 33.33°N × 33.33°E from Paris prime meridian; "devil's line."*
 
 *Related: C-2300, C-2311, N-542 (Rob Skiba), N-549 (David Flynn), N-10489 (Mount Hermon 33.33 Coordinate Investigation)*
 
@@ -1161,11 +1161,11 @@ Investigative Direction: Locate the lecture and book passage; this is Rob Skiba'
 
 ---
 
-**C-12598** Rob Skiba Says Mount Hermon's Topography Forms a Goat and Links the Fallen Angel Aazil to the Scapegoat
+**C-12598** Rob Skiba Says Mount Hermon's Topography Forms a Goat and Links the Fallen Angel Azazel to the Scapegoat
 
 Claim Timestamp: 00:05:43
 
-Claim: In the played clip, Rob Skiba says Mount Hermon's outline forms the shape of a goat and that the fallen angel Aazil is associated with the goat and with the scapegoat of Leviticus chapter 16.
+Claim: In the played clip, Rob Skiba says Mount Hermon's outline forms the shape of a goat and that the fallen angel Azazel is associated with the goat and with the scapegoat of Leviticus chapter 16.
 
 Transcript Snippet: It's very interesting that it actually forms the shape of a goat.
 
@@ -1173,7 +1173,7 @@ Anchored Artifacts: A-1739.1
 Mentions: N-542
 Related Nodes: N-10489
 Tags: relevance:tangential
-Investigative Direction: Check the lecture's imagery and the Leviticus 16 reading; the spelling 'Aazil' is probably Azazel.
+Investigative Direction: Check the lecture's imagery and the Leviticus 16 reading; the spelling 'Azazel' is probably Azazel.
 
 ---
 
@@ -1202,7 +1202,7 @@ Claim: In the played clip, Rob Skiba says David Flynn pointed out that drawing a
 Transcript Snippet: And that is in the occult is referred to as the devil's line.
 
 Anchored Artifacts: A-1739.1
-Mentions: N-542
+Mentions: N-542, N-549
 Related Nodes: N-10489
 Tags: relevance:tangential
 Investigative Direction: Reproduce the Google Earth measurement and find an independent source for the term 'devil's line'.

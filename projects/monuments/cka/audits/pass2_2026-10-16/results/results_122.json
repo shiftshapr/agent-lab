@@ -1,0 +1,809 @@
+[
+ {
+  "claim": "C-11343",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11344",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript 'CeCe Sheridan' is a mis-transcription of Stacy Sheridan (N-187, TPUSA advancement director; host elsewhere: 'Erika, Elizabeth, and Tyler, and Stacy Sheridan').",
+  "fix": {
+   "claim": "The host says Charlie's plane was to leave Scottsdale at 2:31 p.m. and land in Provo at 3:31 p.m., and that the public is told Erika, Tyler, Elizabeth McCoy and Stacy Sheridan were on it.",
+   "label": "Host Says Charlie's Plane Left Scottsdale at 2:31 p.m. and Landed in Provo at 3:31 With Erika, Tyler, Elizabeth McCoy and Stacy Sheridan Reported Aboard",
+   "names": [
+    {
+     "wrong": "CeCe Sheridan",
+     "right": "Stacy Sheridan",
+     "source": "https://tpusa.com/team/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-11345",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11346",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11347",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript says 'they'; TPUSA is the evident referent.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11348",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11349",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11350",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11351",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11352",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11353",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11354",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11355",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11356",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Streiff line near end of 33:30 block (~34:40), within 75s.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11357",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'Wyre' is a mis-transcription of Yrefy, the American Comeback Tour sponsor (ep82 transcript: 'that Yrefy plane'). Node N-10093 'Wirefy' is also misspelled.",
+  "fix": {
+   "claim": "The host says she calls it the Yrefy plane because Yrefy is who Erika told her was on the plane, and that Yrefy was sponsoring the event.",
+   "label": "Host Says Erika Told Her the Yrefy Plane Was the Plane in Question and Yrefy Sponsored the Event",
+   "names": [
+    {
+     "wrong": "Wyre",
+     "right": "Yrefy",
+     "source": "https://www.abc4.com/news/charlie-kirk-shooting/tpusa-campus-tour-usu-event/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-11358",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11359",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'Wyre plane' is a mis-transcription of the Yrefy plane (sponsor Yrefy; host says 'Wi-Fi plane' in same block).",
+  "fix": {
+   "claim": "The host says that when the Yrefy plane landed in Provo and then Scottsdale, an Egyptian plane began transponding right away each time.",
+   "label": "Host Says Egyptian Planes Began Transponding Right After the Yrefy Plane Landed at Provo and Scottsdale",
+   "names": [
+    {
+     "wrong": "Wyre",
+     "right": "Yrefy",
+     "source": "https://www.abc4.com/news/charlie-kirk-shooting/tpusa-campus-tour-usu-event/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-11360",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Label 'Wyre plane' is a mis-transcription of the Yrefy plane.",
+  "fix": {
+   "label": "Host Says the Yrefy Plane Is Somehow Associated With Turning Point USA",
+   "names": [
+    {
+     "wrong": "Wyre",
+     "right": "Yrefy",
+     "source": "https://www.abc4.com/news/charlie-kirk-shooting/tpusa-campus-tour-usu-event/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-11361",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11362",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11363",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11364",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11365",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11366",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11367",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11368",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11369",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11370",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11371",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11372",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11373",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Zach Run (commenter handle 'See Zach Run')",
+  "fix": {}
+ },
+ {
+  "claim": "C-11374",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2544",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'I will say allegedly ... Erika was at the office of Hopkinson Aircrafts when she received the news'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2545",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2546",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'this morning'; March 24, 2026 is the upload date.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2547",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'touching down in Scottsdale' (slip) after saying 'coming in to land at Provo'; 3:26 spoken ~23:40, below 7,500 repeated ~24:20.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2548",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Quote at ~21:48, restated in 22:10 block ('dark until 3:26 p.m. when he says that').",
+  "fix": {}
+ },
+ {
+  "claim": "C-2549",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Justin and Aubrey but Mentions lists only N-14.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-15",
+    "N-552"
+   ]
+  }
+ },
+ {
+  "claim": "C-2550",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'naval surface force in Atlanta' is a mis-transcription of Naval Surface Force Atlantic (Jason Knupp, FORCM SURFLANT). Host says 'owned by', not 'registered to'.",
+  "fix": {
+   "claim": "Per the host, the N40JD plane, owned by Jason Knupp (who the host says appears to be the chief commander of Naval Surface Force Atlantic), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST.",
+   "names": [
+    {
+     "wrong": "naval surface force in Atlanta",
+     "right": "Naval Surface Force Atlantic",
+     "source": "https://www.surflant.usff.navy.mil/Press-Room/Photo-Gallery/igphoto/2002627964/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2551",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'First hour' is the host's framing; in the clip Kolvet says 'I guest hosted the show um that morning... we had a pre-record for hour two'.",
+  "fix": {
+   "claim": "In a clip the host plays from an interview with Ross Douthat (New York Times), Andrew Kolvet says that because Charlie wanted to focus on the tour, Kolvet guest-hosted the Charlie Kirk Show on the morning of September 10, 2025, with a pre-record for hour two."
+  }
+ },
+ {
+  "claim": "C-2552",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Charlie Kirk (N-1) is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-214"
+   ]
+  }
+ },
+ {
+  "claim": "C-2553",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host hedges on interviewer: 'Michael Shellenberger. Is that the right person? I hope I got that right.' and characterises Kent's words herself.",
+  "fix": {
+   "claim": "The host says Joe Kent stated in an interview with, she believes, Michael Shellenberger that federal investigators did not thoroughly pursue other leads in the Charlie Kirk case."
+  }
+ },
+ {
+  "claim": "C-2554",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Speaker not labelled in transcript; host introduces clip of Blake Neff and Kolvet ('Blake is just unleashed'). Speaker unverified.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2555",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Listing described at 24:52 block (~24:55-25:30), before the 25:37 timestamp. Listing is a document the host shows.",
+  "fix": {
+   "claim": "Per the 2020 charter listing the host shows for the plane she identifies as the alleged Santa Barbara → Scottsdale leg (\"Yrefy\"), its amenities include a belted lavatory, cabin power outlets, a refreshment center and a satellite phone, but not Wi-Fi.",
+   "timestamp": "00:24:50"
+  }
+ },
+ {
+  "claim": "C-2556",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2557",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'RY Reef air' and 'wife Reef air CEO' are mis-transcriptions of Yrefy (one plane, not two names). The Kolvet Santa Barbara leg is said at 24:05/30:36.",
+  "fix": {
+   "claim": "The host refers to the Yrefy plane: she says Erika Kirk told her about it (the Yrefy CEO), and she believes Andrew Kolvet took it from Santa Barbara to Scottsdale.",
+   "label": "Host Says Erika Named the Yrefy Plane, Which She Believes Kolvet Took From Santa Barbara to Scottsdale",
+   "names": [
+    {
+     "wrong": "RY Reef air",
+     "right": "Yrefy",
+     "source": "https://www.abc4.com/news/charlie-kirk-shooting/tpusa-campus-tour-usu-event/"
+    },
+    {
+     "wrong": "wife Reef air CEO",
+     "right": "Yrefy CEO",
+     "source": "https://www.abc4.com/news/charlie-kirk-shooting/tpusa-campus-tour-usu-event/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2558",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2559",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Marina but Mentions lacks N-494 (Marina Minas, TPUSA CMO; not in ep82 person list).",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-1",
+    "N-552",
+    "N-494"
+   ]
+  }
+ },
+ {
+  "claim": "C-8505",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8506",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8507",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8508",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "At 7:15 the host says 'this information'; it is identified as Hopkinson at 9:34.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8509",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8510",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8511",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8512",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8513",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8514",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8515",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8516",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

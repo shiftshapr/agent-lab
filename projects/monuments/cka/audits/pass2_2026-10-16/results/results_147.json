@@ -1,0 +1,769 @@
+[
+ {
+  "claim": "C-11554",
+  "episode": 98,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "note": "Viewer comment 'Fegliano writes ... Blake Lively just settled' and 'I will obviously cover that tomorrow' are in the 53:04 block (~53:35), about 39s before the 54:14 timestamp.",
+  "fix": {
+   "timestamp": "00:53:30"
+  },
+  "material": true
+ },
+ {
+  "claim": "C-11555",
+  "episode": 98,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Transcript already reads 'Bryan Freedman'; nothing transcribed 'Friedman'. She said 'I'm blanking on Brian's last name cuz I've just been saying Harpole' before naming him.",
+  "fix": {
+   "claim": "The host congratulates Bryan Freedman (after briefly blanking on his last name) and PR professional Melissa Nathan on the Baldoni side's result."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-11556",
+  "episode": 98,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "'I'm pretty sure' follows her spelling of the name ('Zalman like Z A L M A N. Is that correct? I'm pretty sure.'), not clearly an assertion that he took the uranium.",
+  "fix": {
+   "claim": "The host asks whether Ben Shapiro's uncle Zalman Shapiro was the one who took all of the uranium to Israel, spells the name and says 'I'm pretty sure.'"
+  },
+  "material": false
+ },
+ {
+  "claim": "C-11557",
+  "episode": 98,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-11558",
+  "episode": 98,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-11559",
+  "episode": 98,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-11560",
+  "episode": 98,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2856",
+  "episode": 99,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "This is a 2018 text the host shows on screen ('I want to show you that message up here again. He writes...'); claim states it as fact rather than per the message she shows.",
+  "fix": {
+   "claim": "Per a 2018 message from Charlie Kirk that the host shows, Kirk wrote that he dreamed \"all the time\" about being killed and believed he might be \"wiped out\" at any time."
+  },
+  "material": true
+ },
+ {
+  "claim": "C-2857",
+  "episode": 99,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Text the host shows/reads: 'And he wrote back, \"I'm not really afraid of it...\"'; should be attributed to the message she shows, not stated as fact.",
+  "fix": {
+   "claim": "Per the 2018 follow-up text the host shows, Charlie Kirk wrote that he was \"not really afraid\" of being killed."
+  },
+  "material": true
+ },
+ {
+  "claim": "C-2858",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2859",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2860",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Greta's question is heard in the clip the host plays ('Take a listen. Before I let you go...'); claim omits the clip framing.",
+  "fix": {
+   "claim": "In a clip the host plays, Greta Van Susteren asks Netanyahu to address internet rumors that Israel was behind Charlie Kirk's murder."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-2861",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2862",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2863",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2864",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2865",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2866",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host says only 'Brad Parscale in January became the chief strategy officer'; year 2025 not spoken here (timeline later shows Jan 10 under 'This is 2025').",
+  "fix": {
+   "claim": "The host says Brad Parscale became Chief Strategy Officer of Salem Media Network in January, placing him simultaneously at Clock Tower X and Salem."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-2867",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2868",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Article quote reads 'M-Time M-News'; the app is MxM News (BusinessWire, Apr 2025). 'April of 2025' is the host's words, not the article's.",
+  "fix": {
+   "claim": "Per a Salem announcement article the host reads, Salem Media Group announced a landmark deal with Donald Trump Jr. and Lara Trump, including acquisition of a 30% stake in MxM News and a long-term services agreement; the host says the deal was announced in April 2025.",
+   "names": [
+    {
+     "wrong": "M-News",
+     "right": "MxM News",
+     "source": "https://www.businesswire.com/news/home/20250403021482/en"
+    }
+   ]
+  },
+  "material": false
+ },
+ {
+  "claim": "C-2869",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Transcript 'M-Time M-News' is a mis-transcription of MxM News, the app co-founded by Donald Trump Jr. (BusinessWire, Apr 2025).",
+  "fix": {
+   "claim": "Per the Salem announcement article the host reads, pursuant to the April 2025 deal Salem acquired a 30% stake in MxM News, a mobile news aggregation app co-owned by Donald Trump Jr.",
+   "names": [
+    {
+     "wrong": "M-News",
+     "right": "MxM News",
+     "source": "https://www.businesswire.com/news/home/20250403021482/en"
+    }
+   ]
+  },
+  "material": false
+ },
+ {
+  "claim": "C-2870",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2871",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim names Ian Carroll ('Ian Carroll reads in a clip'), but N-130 is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-85",
+    "N-130"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-2872",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2873",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Timeline says 'Dhillon Law Group begins drafting paperwork for Havas Media ... to legally geo-fence'; 'FARA registration' is not stated for Aug 27 (FARA registration is the Sept 18 entry).",
+  "fix": {
+   "claim": "According to the host's timeline, on August 27, 2025, Dhillon Law Group began drafting paperwork for Havas Media on behalf of Clock Tower X LLC and Show Faith by Works LLC."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-2874",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Mentions include N-55 Josh Hammer, who is not named or referred to in the claim or label. Date and 'bullying and financial pressure' come from the host's timeline at 37:55, not this window.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-2875",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2876",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2877",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "note": "'On April 2nd, a judge dismissed 10 out of 13' is mid-block in 46:25 (~47:00), about 30s before the 47:29 timestamp.",
+  "fix": {
+   "timestamp": "00:46:55"
+  },
+  "material": true
+ },
+ {
+  "claim": "C-2878",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2879",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2880",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2881",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2882",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2883",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12896",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12897",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12898",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12899",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12900",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Host says 'they want us to believe that he meant a trans person'; 'TPUSA' is not named.",
+  "fix": {
+   "claim": "The host says 'they' want the public to believe that Kirk's 'they are going to kill me' text referred to a trans person, and that she hopes the lawsuit with Brian Harpole will show whether he meant that."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-12901",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12902",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12903",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12904",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12905",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12906",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12907",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12908",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12909",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12910",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12911",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12912",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12913",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12914",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12915",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12916",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12917",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12918",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12919",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-12920",
+  "episode": 99,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ }
+]

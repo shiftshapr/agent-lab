@@ -1542,7 +1542,7 @@ Investigative Direction: Archive the post and ask TPUSA whether it is an officia
 
 Claim Timestamp: 01:08:06
 
-Claim: The host says she is waiting for TPUSA to agree that she can publish the full Aspen video, and that she is discussing with her lawyers whether she can release it.
+Claim: The host says she is waiting for TPUSA to agree that she can publish the full Aspen video.
 
 Transcript Snippet: we're waiting for them to respond that it's okay for us to publish the entirety of the Aspen video
 

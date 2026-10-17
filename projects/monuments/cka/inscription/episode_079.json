@@ -2096,7 +2096,7 @@
       "@id": "C-2479",
       "ref": "C-2479",
       "label": "Bret Weinstein Says Charlie Kirk Spent Two Days at the White House in June Lobbying Trump Against an Iran War",
-      "claim": "Per a statement by Bret Weinstein that the host reads, Weinstein says that in a June 18 text exchange Charlie Kirk told him he was \"spending two full days at the White House trying to persuade President Trump not to initiate a war with Iran,\" and that he was \"in the White House all day fighting for America.\"",
+      "claim": "Per a statement by Bret Weinstein that the host reads, Weinstein says that in a June 18 text exchange Charlie Kirk told him he was \"spending two full days at the White House trying to persuade President Trump not to initiate a war with Iran,\" and in the texts Weinstein shares, Kirk wrote that he was \"in the White House all day fighting for America.\"",
       "anchored_artifacts": [
         "A-1847.1"
       ],
@@ -2846,7 +2846,8 @@
         "N-160",
         "N-97",
         "N-1",
-        "N-4"
+        "N-4",
+        "N-5"
       ]
     },
     {

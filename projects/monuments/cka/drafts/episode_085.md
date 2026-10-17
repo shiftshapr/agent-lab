@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11397
-  - Hole-minted Nodes (reintro-ep085): N-419, N-10571, N-10572, N-10722
+  - Hole-minted Nodes (reintro-ep085): N-411, N-419, N-10571, N-10572, N-10722
   - Tip-minted Nodes (reintro-ep085): N-613, N-677, N-778, N-10919
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14450–C-14549
@@ -403,6 +403,19 @@ Episode Count: 1
 Investigative Pressure: Low (separate trial)
 
 *Related: A-1903.1, C-2581, C-2582, C-2583, C-2584, C-2585, C-2586, C-2587, C-2588*
+
+---
+
+**N-411** Zachariah Qureshi
+
+First named in this episode, where the host says Kash Patel's 'we got him' announcement was about 'the Qureshi person' (intro moved from ep87, 2026-10-17). Aliases: Zachariah Qureshi.
+
+Evidence Count: 0
+Claim Count: 1
+Episode Count: 2
+Investigative Pressure: Low
+
+*Related: C-14521*
 
 ---
 
@@ -1470,7 +1483,7 @@ Investigative Direction: Check standard histories of Freemasonry in the American
 
 Claim Timestamp: 00:02:36
 
-Claim: In a clip the host plays, an unnamed speaker says something happened about 33 minutes before Charlie Kirk was killed and says the shooting at UVU was followed by about a 33-hour manhunt.
+Claim: In a clip montage the host plays, one speaker says something happened about 33 minutes before Charlie Kirk was killed, and a speaker says Kirk was assassinated at UVU and about a 33-hour manhunt followed.
 
 Transcript Snippet: And that was about uh I think I had it it was like 33 minutes before he was killed.
 
@@ -1550,7 +1563,7 @@ Investigative Direction: Consult historians of Freemasonry on the origin of the 
 
 Claim Timestamp: 00:06:50
 
-Claim: The host says the article reports that the French Foreign Legion and the military were involved in murder for hire, although the passage she has just read names only DGSE officers, police officers and others and the next passage names a parachute regiment.
+Claim: The host says the article reports that the French Foreign Legion and the military were involved in murder for hire, although the passage she has just read mentions soldiers and DGSE officers but not the Foreign Legion, and the next passage names a parachute regiment.
 
 Transcript Snippet: They're saying the French Foreign Legion and the military was involved in murder for hire?
 
@@ -2573,16 +2586,16 @@ Investigative Direction: Trace the original source of each press claim (Fox, Cox
 
 ---
 
-**C-14521** Host Says Patel Announced a Suspect (the 'Koreshi' Person) That Sent Searchers on a Wild Goose Chase
+**C-14521** Host Says Patel Announced a Suspect (the 'Qureshi' Person) That Sent Searchers on a Wild Goose Chase
 
 Claim Timestamp: 00:38:44
 
-Claim: The host says Kash Patel announced 'we got him' about a person transcribed as 'the Koreshi person', which made people stop looking and sent everybody on wild goose hunts, making him central to delaying everything that day.
+Claim: The host says Kash Patel announced 'we got him' about 'the Qureshi person', which made people stop looking and sent everybody on wild goose hunts, making him central to delaying everything that day.
 
-Transcript Snippet: We got him. It was uh the Koreshi person. We got him. We got him. Making people stop looking, sending everybody on on wild goose hunts.
+Transcript Snippet: We got him. It was uh the Qureshi person. We got him. We got him. Making people stop looking, sending everybody on on wild goose hunts.
 
 Anchored Artifacts: 
-Mentions: N-69, N-3
+Mentions: N-69, N-3, N-411
 Related Nodes: N-10202
 Tags: relevance:core
 Investigative Direction: Review Patel's posts on September 10-11, 2025 about an early detention and release, and the person involved.
@@ -2956,7 +2969,7 @@ Claim: The host recounts that on September 10 she was at her table working on he
 Transcript Snippet: I called Tucker Carlson. Uh called Andrew Kolvet. Texted with all both of them.
 
 Anchored Artifacts: 
-Mentions: N-22, N-14, N-3
+Mentions: N-22, N-14, N-3, N-1
 Related Nodes: N-10024
 Tags: relevance:core
 Investigative Direction: Check her phone call and text records for September 10, 2025; she invites publication of phone records as a standard.

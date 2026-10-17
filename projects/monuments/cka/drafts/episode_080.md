@@ -833,7 +833,7 @@ Investigative Direction: Confirm specific language against the official White Ho
 
 Claim Timestamp: 00:14:29
 
-Claim: Senator Lindsey Graham publicly stated that Kent's resignation "could not have come at a better time" and that Kent's statement was echoing "Democratic talking points."
+Claim: Per a post the host reads, Senator Lindsey Graham wrote that Kent's resignation "could not have come at a better time" and that Kent's statement was echoing "Democratic talking points."
 
 Anchored Artifacts: A-1863.1
 Mentions: N-210, N-453
@@ -923,7 +923,7 @@ Investigative Direction: Confirm exact text against Budowich's verified X accoun
 
 Claim Timestamp: 00:20:55
 
-Claim: Theo Von publicly characterized Israeli political leaders as feeling like "a satanic regime" and stated he does not understand the U.S. government's relationship with Israel's leaders.
+Claim: In a clip the host plays, Theo Von characterizes Israeli political leaders as feeling like "a satanic regime" and says he does not understand the U.S. government's relationship with Israel's leaders.
 
 Anchored Artifacts: A-1868.1
 Mentions: N-147
@@ -1012,7 +1012,7 @@ Investigative Direction: Verify the date, venue, and Fantegrossi's participation
 
 Claim Timestamp: 00:47:24
 
-Claim: Treasury Secretary Scott Bessent was pulled mid-interview to attend the Situation Room, with the interviewer noting it was "a first" for an interviewee to be pulled.
+Claim: In a clip the host plays, Treasury Secretary Scott Bessent is pulled mid-interview to go to the Situation Room, with the interviewer noting it was "a first" for an interviewee to be pulled.
 
 Anchored Artifacts: A-1873.1
 Mentions: N-601
@@ -1385,7 +1385,7 @@ Claim: Mark Levin's post, as read by the host, calls Kent part of the radical is
 Transcript Snippet: He's part of the radical isolationist woke right cabal.
 
 Anchored Artifacts: A-1864.1
-Mentions: N-245, N-210
+Mentions: N-245, N-210, N-5
 Related Nodes: N-10546
 Supports: C-2501
 Tags: relevance:context
@@ -1402,7 +1402,7 @@ Claim: Laura Loomer's post, as read by the host, says she would fire everyone to
 Transcript Snippet: I would fire everyone and teach them a lesson that they would never forget. Rule with an iron fist. Punish everyone who leaks and undermines you.
 
 Anchored Artifacts: A-1865.1
-Mentions: N-60, N-210
+Mentions: N-60
 Related Nodes: N-10546
 Supports: C-2503
 Tags: relevance:context
@@ -1593,7 +1593,7 @@ Claim: The host says investigating foreign involvement would have shifted the in
 Transcript Snippet: Because that would have shifted the investigation into Tulsi's office, which is where Joe Kent was working.
 
 Anchored Artifacts: 
-Mentions: N-330, N-210, N-69
+Mentions: N-330, N-210
 Related Nodes: N-10355
 Tags: relevance:core
 Investigative Direction: Check ODNI and NCTC organizational reporting lines and whether either office was tasked on the Kirk case.
@@ -1691,23 +1691,23 @@ Claim: The host says Charlie Kirk's July sit-down with students was meant to get
 Transcript Snippet: He sort of just sat up with a bunch of students and tried to get their opinion to show donors like you can't treat these kids like this.
 
 Anchored Artifacts: A-1871.1
-Mentions: N-1, N-943
+Mentions: N-1
 Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Identify the event, date and organizer of the July 2025 sit-down and any donor presentation that used it.
 
 ---
 
-**C-14417** Kirk in Clip Says Foreign Aid Is Insulting Given Cartels and Overdose Deaths
+**C-14417** Student in Kirk Clip Says Foreign Aid Is Insulting Given Cartels and Overdose Deaths
 
 Claim Timestamp: 00:34:22
 
-Claim: In the archival clip Kirk says it is insulting that money goes to any foreign country while the cartels and drug overdoses at the southern border are a huge problem at home.
+Claim: In the archival clip, the student the host says is Dino Fantegrossi, responding to Kirk, says it is insulting that money goes to any foreign country while the cartels and drug overdoses at the southern border are a huge problem at home.
 
 Transcript Snippet: And it's insulting that that money goes anywhere else because we have such a huge problem here.
 
 Anchored Artifacts: A-1871.1
-Mentions: N-1
+Mentions: N-943, N-1
 Related Nodes: N-10545
 Supports: C-2523, C-2524
 Tags: relevance:context
@@ -1803,7 +1803,7 @@ Claim: The host says the cult is The Family International, which was called Chil
 Transcript Snippet: The Family International. Think like the Charles Manson, like The Family International and Child of Child of God, Children of God is what it was called called before that
 
 Anchored Artifacts: 
-Mentions: N-585
+Mentions: N-3
 Related Nodes: N-11396, N-10534
 Supports: C-2470
 Tags: relevance:context
@@ -2041,7 +2041,7 @@ Investigative Direction: Compare with verifiable public appearances of Netanyahu
 
 Claim Timestamp: 00:52:32
 
-Claim: In the video Netanyahu tells Mike Huckabee he erased two names on the punch cards that day, and says his name is not on the punch card and Huckabee's name is on the list of the good guys.
+Claim: In the video Netanyahu tells Mike Huckabee he erased two names on the punch cards that day; Huckabee says the good news is that his name is not on the punch card, and Netanyahu replies that Huckabee's name is on the list of the good guys.
 
 Transcript Snippet: Today I erased two names on the punch cards and you see how many more to go on this batch.
 
@@ -2053,16 +2053,16 @@ Investigative Direction: Check the original video from Netanyahu's account and t
 
 ---
 
-**C-14439** Huckabee in Video Says US Forces Are Getting Rid of Lunatics Seeking Nuclear Weapons
+**C-14439** Netanyahu in Huckabee Video Says US Forces Are Getting Rid of Lunatics Seeking Nuclear Weapons
 
 Claim Timestamp: 00:53:23
 
-Claim: In the video Mike Huckabee says the president and US forces are getting rid of lunatics who would build nuclear weapons and deliver them to every American city after wiping out Israel.
+Claim: In the video Netanyahu tells Mike Huckabee that the president and US forces are getting rid of lunatics who would build nuclear weapons and deliver them to every American city after wiping out Israel.
 
 Transcript Snippet: getting rid of these lunatics who would like to develop nuclear weapons and the means to deliver them to every American city after wiping out Israel.
 
 Anchored Artifacts: A-1876.1
-Mentions: N-274, N-36
+Mentions: N-36, N-274, N-5
 Related Nodes: N-10544
 Tags: relevance:tangential
 Investigative Direction: Verify wording against the original video.

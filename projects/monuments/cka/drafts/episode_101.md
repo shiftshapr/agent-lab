@@ -654,7 +654,7 @@ Investigative Direction: Archive Blake Neff's original post and its image at ful
 
 ---
 
-**C-3951** DIA: bounty posted for footage or information on the Erika Kirk "go home" video
+**C-3951** Bounty Posted for Footage or Information on the Erika Kirk "Go Home" Video
 
 Claim Timestamp: 00:00:54
 

@@ -1040,7 +1040,7 @@ The viewer theory that Charlie Kirk faked his death, which the host rejects base
 
 Claim Timestamp: 00:03:06
 
-Claim: Charlie Kirk wrote in a 2018 message to the host that he dreamed "all the time" about being killed and believed he might be "wiped out" at any time.
+Claim: Per a 2018 message from Charlie Kirk that the host shows, Kirk wrote that he dreamed "all the time" about being killed and believed he might be "wiped out" at any time.
 
 Anchored Artifacts: A-2045.1
 Mentions: N-1
@@ -1054,7 +1054,7 @@ Investigative Direction: Obtain the original 2018 text record or corroborating s
 
 Claim Timestamp: 00:03:06
 
-Claim: In a 2018 follow-up text to the host, Charlie Kirk wrote that he was "not really afraid" of being killed.
+Claim: Per the 2018 follow-up text the host shows, Charlie Kirk wrote that he was "not really afraid" of being killed.
 
 Anchored Artifacts: A-2045.1
 Mentions: N-1
@@ -1098,7 +1098,7 @@ Investigative Direction: Obtain full unedited Van Susteren segment and verify wh
 
 Claim Timestamp: 00:12:44
 
-Claim: Greta Van Susteren asked Netanyahu to address internet rumors that Israel was behind Charlie Kirk's murder.
+Claim: In a clip the host plays, Greta Van Susteren asks Netanyahu to address internet rumors that Israel was behind Charlie Kirk's murder.
 
 Anchored Artifacts: A-2047.1
 Mentions: N-36, N-44, N-1
@@ -1214,7 +1214,7 @@ Investigative Direction: Capture live Newsweek view counts at multiple points in
 
 Claim Timestamp: 00:31:21
 
-Claim: Per a Salem announcement article the host reads, in April 2025 Salem Media Group announced a landmark deal with Donald Trump Jr. and Lara Trump, including acquisition of a 30% stake in M-News and a long-term services agreement.
+Claim: Per a Salem announcement article the host reads, Salem Media Group announced a landmark deal with Donald Trump Jr. and Lara Trump, including acquisition of a 30% stake in MxM News and a long-term services agreement; the host says the deal was announced in April 2025.
 
 Anchored Artifacts: A-2051.1
 Mentions: N-33, N-375
@@ -1225,18 +1225,18 @@ Investigative Direction: Obtain Salem's official press release and SEC / corpora
 
 ---
 
-**C-2869** Salem Media acquired 30% stake in M-News app co-owned by Donald Trump Jr.
+**C-2869** Salem Media acquired 30% stake in MxM News app co-owned by Donald Trump Jr.
 
 Claim Timestamp: 00:31:50
 
-Claim: Per the Salem announcement article the host reads, pursuant to the April 2025 deal Salem acquired a 30% stake in M-News, a mobile news aggregation app co-owned by Donald Trump Jr.
+Claim: Per the Salem announcement article the host reads, pursuant to the April 2025 deal Salem acquired a 30% stake in MxM News, a mobile news aggregation app co-owned by Donald Trump Jr.
 
 Anchored Artifacts: A-2051.1
 Mentions: N-33
 
 Related Nodes: N-10657
 
-Investigative Direction: Verify M-News corporate filings; confirm 30% acquisition price and structure.
+Investigative Direction: Verify MxM News corporate filings; confirm 30% acquisition price and structure.
 
 ---
 
@@ -1262,7 +1262,7 @@ Claim Timestamp: 00:34:17
 Claim: Per the DOJ memo language Ian Carroll reads in a clip the host plays, recourse to criminal charges under FARA and 18 U.S. Code § 951 is limited to conduct similar to traditional espionage by foreign government actors.
 
 Anchored Artifacts: A-2053.1
-Mentions: N-85
+Mentions: N-85, N-130
 
 Related Nodes: N-10659
 
@@ -1306,7 +1306,7 @@ Claim Timestamp: 00:22:23
 Claim: The host says Charlie Kirk sent a group text on September 9, 2025 declaring he had been "given no choice but to abandon the pro-Israel cause" due to bullying and financial pressure.
 
 Anchored Artifacts: A-2060.1
-Mentions: N-1, N-55
+Mentions: N-1
 
 
 Investigative Direction: Obtain the original group text record; verify the participant list and exact wording.
@@ -1344,7 +1344,7 @@ Investigative Direction: Locate primary source for Project 545 budget figure; cr
 
 **C-2877** April 2 ruling dismissed 10 of 13 Blake Lively claims against Justin Baldoni
 
-Claim Timestamp: 00:47:29
+Claim Timestamp: 00:46:55
 
 Claim: The host says that on April 2, a judge dismissed 10 of 13 claims Blake Lively had asserted against Justin Baldoni, leaving only breach of contract, retaliation, and aiding-and-abetting retaliation.
 
@@ -1948,7 +1948,7 @@ Investigative Direction: Identify the family source; compare the date with the H
 
 Claim Timestamp: 00:29:32
 
-Claim: The host says, allegedly, that Andrew Kolvet told his close orbit of family and friends in Santa Barbara that he lost millions when Charlie Kirk said no to taking Turning Point USA to the next level, and she wonders whether this relates to Kolvet's stake in the Kirk show.
+Claim: The host says, allegedly, that Andrew Kolvet told his close orbit of family and friends in Santa Barbara that he lost millions when Charlie Kirk said no to Bibi Netanyahu and to taking Turning Point USA to the next level, and she wonders whether this relates to Kolvet's stake in the Kirk show.
 
 Transcript Snippet: Andrew told allegedly, I'll say allegedly here, told his close orbit of family and friends back in Santa Barbara that he lost money. He lost millions when Charlie said no to taking Turning Point USA to the next level.
 
@@ -2046,7 +2046,7 @@ Investigative Direction: Obtain message timestamps from the recipients' phones t
 
 Claim Timestamp: 00:37:55
 
-Claim: The host's timeline says that on October 23rd the Josh Hammer Show joined the Salem Podcast Network through a new distribution partnership with Newsweek, in contrast with the October 15 date she gave earlier for when Hammer was given a show on the network.
+Claim: The host's timeline says that on October 23rd the Josh Hammer Show joined the Salem Podcast Network through a new distribution partnership with Newsweek; earlier in the episode she said Hammer was given a show on the network on October 15th.
 
 Transcript Snippet: And on October 23rd, the Josh Hammer Show joins the Salem Podcast Network through a new distribution partnership with Newspeak with Newsweek.
 

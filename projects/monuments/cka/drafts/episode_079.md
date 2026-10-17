@@ -1228,7 +1228,7 @@ Investigative Direction: Forensic verification of the message; examine whether C
 
 Claim Timestamp: 00:10:32–00:13:29
 
-Claim: Per a statement by Bret Weinstein that the host reads, Weinstein says that in a June 18 text exchange Charlie Kirk told him he was "spending two full days at the White House trying to persuade President Trump not to initiate a war with Iran," and that he was "in the White House all day fighting for America."
+Claim: Per a statement by Bret Weinstein that the host reads, Weinstein says that in a June 18 text exchange Charlie Kirk told him he was "spending two full days at the White House trying to persuade President Trump not to initiate a war with Iran," and in the texts Weinstein shares, Kirk wrote that he was "in the White House all day fighting for America."
 
 Anchored Artifacts: A-1847.1
 Mentions: N-1, N-5, N-593
@@ -1748,7 +1748,7 @@ Claim: The host reads Blake Neff's post saying Ben Shapiro supported Ron DeSanti
 Transcript Snippet: Ben supported Ron DeSantis in the 2024 primary while Charlie was all in for Trump from the start.
 
 Anchored Artifacts: A-1850.1
-Mentions: N-160, N-97, N-1, N-4
+Mentions: N-160, N-97, N-1, N-4, N-5
 Related Nodes: N-10543
 Tags: relevance:context
 Investigative Direction: Retrieve Neff's original post and verify Shapiro's 2024 primary endorsement and Kirk's endorsement date.

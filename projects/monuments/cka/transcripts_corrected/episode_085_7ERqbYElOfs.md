@@ -219,7 +219,7 @@ I believe that Mike Mitchell was the one who went there. He knew who Tyler was. 
 
 [38:44]
 
-We got him. It was uh the Koreshi person. We got him. We got him. Making people stop looking, sending everybody on on wild goose hunts. Kash Patel is central in delaying everything that happened on that day. You have now Joe Kent telling you that he stopped him from investigating things internationally. For what reason? Why is Turning Point not outraged about that? Why are they instead upset with Joe Kent? Why are they not angry at Kash Patel? Why are they hosting Kash Patel on the Charlie Kirk show and angry at Joe Kent? Do I live in upside down world or are all of these people guilty? I'm going to go with the latter. All of these people are guilty and working together. It's what it seems to be to me and the much more rational public.
+We got him. It was uh the Qureshi person. We got him. We got him. Making people stop looking, sending everybody on on wild goose hunts. Kash Patel is central in delaying everything that happened on that day. You have now Joe Kent telling you that he stopped him from investigating things internationally. For what reason? Why is Turning Point not outraged about that? Why are they instead upset with Joe Kent? Why are they not angry at Kash Patel? Why are they hosting Kash Patel on the Charlie Kirk show and angry at Joe Kent? Do I live in upside down world or are all of these people guilty? I'm going to go with the latter. All of these people are guilty and working together. It's what it seems to be to me and the much more rational public.
 
 [39:31]
 

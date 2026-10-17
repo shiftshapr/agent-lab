@@ -1152,7 +1152,7 @@ Investigative Direction: Check arrest and lab records for any GSR collection fro
 
 Claim Timestamp: 00:32:07
 
-Claim: The host says the case rests on an alleged text-message confession sent after he bought a steak in Panguitch, a note left under his keyboard, and a shifting Discord confession.
+Claim: The host says the case against Tyler Robinson rests on an alleged text-message confession sent after he bought a steak in Panguitch, a note left under his keyboard, and a shifting Discord confession.
 
 Transcript Snippet: Oh, but he also wrote a note because um and put it under his keyboard, too.
 
@@ -1571,7 +1571,7 @@ Investigative Direction: Frame-by-frame analysis of the back-camera and audience
 
 **C-4651** Connor Henderson was interning in the Timpanogos ER
 
-Claim Timestamp: 01:10:41
+Claim Timestamp: 01:09:55
 
 Claim: The host says Connor Henderson was interning in the emergency department at Timpanogos and is a long-time friend of "decoy boy number two," Zachariah Qureshi; both attended BYU at the same time.
 

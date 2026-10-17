@@ -554,7 +554,7 @@ First named by the host at 00:03:25 in episode 107. Described as Victor Marx's b
 
 ---
 
-**N-729** Kenneth Brining
+**N-729** Kenneth Breining
 
 First named by the host at 00:05:19 in episode 107. Described as Eileen Marx's brother who tried to shoot Victor Marx in 2023 and later killed his girlfriend.
 
@@ -680,7 +680,7 @@ Investigative Direction: Obtain HSI/human trafficking specialist records referen
 **C-3706** Victor Marx's daughter publicly alleged paternal abuse
 
 Claim Timestamp: 00:11:03
-Claim: Episode quotes Victor Marx's daughter stating on social media that she experienced abuse at her father's hands for many years; later recanted under alleged pressure.
+Claim: Episode quotes Victor Marx's daughter stating on social media that she experienced abuse at her father's hands for many years; the host says she later recanted many of the allegations, which friends who emailed the show attribute to financial pressure, a claim the host says she cannot confirm.
 Anchored Artifacts: A-2508.1
 Mentions: N-342, N-348
 Investigative Direction: Obtain original social media posts via archived captures; verify timeline of board letter and retraction.
@@ -976,13 +976,13 @@ Investigative Direction: Obtain Marx's DD-214 for enlistment and separation date
 
 ---
 
-**C-5677** Marx married Eileen Brining Marx at 23 and has five children
+**C-5677** Marx married Eileen Breining Marx at 23 and has five children
 
 Claim Timestamp: 00:04:19
 
-Claim: The host says Marx married Eileen Brining Marx at age 23 and that they went on to have five children and grandchildren.
+Claim: The host says Marx married Eileen Breining Marx at age 23 and that they went on to have five children and grandchildren.
 
-Transcript Snippet: At 23, Victor married his wife Eileen, Eileen Brining Marx, and they went on to have five kids and grandkids.
+Transcript Snippet: At 23, Victor married his wife Eileen, Eileen Breining Marx, and they went on to have five kids and grandkids.
 
 Anchored Artifacts: 
 Mentions: N-342, N-344
@@ -1006,13 +1006,13 @@ Investigative Direction: Check IRS Form 990 and state incorporation filings for 
 
 ---
 
-**C-5679** Eileen's brother Kenneth Brining tried to shoot Marx in 2023
+**C-5679** Eileen's brother Kenneth Breining tried to shoot Marx in 2023
 
 Claim Timestamp: 00:05:19
 
-Claim: The host says that in 2023 Eileen's brother, Kenneth Brining, tried to shoot Victor Marx on Marx's property and that Marx survived.
+Claim: The host says that in 2023 Eileen's brother, Kenneth Breining, tried to shoot Victor Marx on Marx's property and that Marx survived.
 
-Transcript Snippet: In 2023, Eileen's brother, Kenneth Brining, tried to shoot Victor Marx on Victor's property.
+Transcript Snippet: In 2023, Eileen's brother, Kenneth Breining, tried to shoot Victor Marx on Victor's property.
 
 Anchored Artifacts: 
 Mentions: N-729, N-344, N-342
@@ -1020,7 +1020,7 @@ Investigative Direction: Obtain the sheriff's incident report and court file for
 
 ---
 
-**C-5680** Kenneth Brining later killed his own girlfriend
+**C-5680** Kenneth Breining later killed his own girlfriend
 
 Claim Timestamp: 00:05:19
 
@@ -1030,7 +1030,7 @@ Transcript Snippet: but Eileen's brother would go on to kill his own girlfriend.
 
 Anchored Artifacts: 
 Mentions: N-729, N-344
-Investigative Direction: Obtain the homicide case record naming Kenneth Brining and the victim.
+Investigative Direction: Obtain the homicide case record naming Kenneth Breining and the victim.
 
 ---
 
@@ -1583,13 +1583,13 @@ Investigative Direction: Ask the sheriff's department whether a cold-case file e
 
 ---
 
-**C-5717** Marx says he was brought to the site at night near Mendenhall or McGee in Simpson County, Mississippi
+**C-5717** Marx Says He Was Brought to the Site at Night Near Mendenhall or Magee in Simpson County, Mississippi
 
 Claim Timestamp: 00:34:21
 
-Claim: Victor Marx says he was brought there at night at age 7 lying in the back of a car and that the location was in one of two towns, Mendenhall or McGee, in Simpson County, Mississippi, and invites the host to contact the Sheriff's Department.
+Claim: Victor Marx says he was brought there at night at age 7 lying in the back of a car and that the location was in one of two towns, Mendenhall or Magee, in Simpson County, Mississippi, and invites the host to contact the Sheriff's Department.
 
-Transcript Snippet: Uh there were two towns or sister towns, Mendenhall and McGee. It was in one of those. Yeah, in Simpson County, Mississippi.
+Transcript Snippet: Uh there were two towns or sister towns, Mendenhall and Magee. It was in one of those. Yeah, in Simpson County, Mississippi.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-342
@@ -1966,11 +1966,11 @@ Investigative Direction: Ask Focus on the Family or Dobson's organization to con
 
 ---
 
-**C-5742** Marx says his Marine Corps time was served on the President Reagan
+**C-5742** Marx Says He Served in the Marine Corps Under President Reagan
 
 Claim Timestamp: 00:51:20
 
-Claim: Victor Marx says his time in the Marine Corps was served on the President Reagan.
+Claim: Victor Marx says he served in the Marine Corps under President Reagan.
 
 Transcript Snippet: my time in the Marine Corps was I served on the President Reagan.
 

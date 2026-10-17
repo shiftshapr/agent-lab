@@ -1080,7 +1080,7 @@
       "@type": "Person",
       "@id": "N-729",
       "ref": "N-729",
-      "name": "Kenneth Brining",
+      "name": "Kenneth Breining",
       "type": "person",
       "description": "Eileen Marx's brother per the host; subject of the shooting attempt and trial claims.",
       "related_artifacts": [],
@@ -1098,7 +1098,7 @@
       "@type": "Person",
       "@id": "N-916",
       "ref": "N-916",
-      "name": "Chaz Yandle",
+      "name": "Chaz Yandall",
       "type": "person",
       "description": "First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met Hall at the hotel and goes with Marx to Haiti. Spelling as transcribed.",
       "related_artifacts": [],
@@ -2597,8 +2597,8 @@
       "@type": "Claim",
       "@id": "C-12848",
       "ref": "C-12848",
-      "label": "Host Says Marx Married Eileen Brining in 1988 and They Have Five Kids",
-      "claim": "The host says Marx married Eileen (Brining) Marx in 1988 and that they went on to have five kids and grandkids.",
+      "label": "Host Says Marx Married Eileen Breining in 1988 and They Have Five Kids",
+      "claim": "The host says Marx married Eileen (Breining) Marx in 1988 and that they went on to have five kids and grandkids.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10604"
@@ -3029,7 +3029,7 @@
       "@id": "C-12867",
       "ref": "C-12867",
       "label": "Hall Statement: Marx and Bulletproof-Vested Associates Met Him at the Hotel",
-      "claim": "In the statement the host reads, Hall says Marx and his COO Chaz Yandle, who the host says goes with Marx to Haiti, met him at the hotel late at night wearing bulletproof vests.",
+      "claim": "In the statement the host reads, Hall says Marx and his COO Chaz Yandall, who the host says goes with Marx to Haiti, met him at the hotel late at night wearing bulletproof vests.",
       "anchored_artifacts": [
         "A-1958.1"
       ],
@@ -3041,7 +3041,7 @@
       ],
       "claim_timestamp": "00:31:39",
       "investigative_direction": "Identify Marx's COO and ask him about the hotel meeting and the trip to Haiti.",
-      "transcript_snippet": "Mr. Marx and his COO, Chaz Yandle, he goes with them with hate to Haiti, by the way, met me at the hotel. They were both wearing bulletproof vests.",
+      "transcript_snippet": "Mr. Marx and his COO, Chaz Yandall, he goes with them with hate to Haiti, by the way, met me at the hotel. They were both wearing bulletproof vests.",
       "mentions_person_refs": [
         "N-343",
         "N-342",

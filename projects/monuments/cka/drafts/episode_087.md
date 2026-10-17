@@ -17,8 +17,8 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14550–C-14629
   - New Nodes Introduced: N-10574, N-10575, N-10577, N-10578, N-10579, N-10580
-  - Hole-minted Nodes (wave3): N-411, N-412, N-413, N-414, N-415, N-416, N-417, N-418
-  - Reused Nodes Appearing: N-10153, N-28, N-10569, N-10576, N-10581, N-6, N-14, N-42, N-54, N-61, N-128, N-210, N-262, N-331, N-362, N-710, N-713, N-10000, N-10007, N-10012, N-10014, N-10032, N-10048, N-10065, N-10074, N-10076, N-10078, N-10082, N-10092, N-10106, N-10110, N-10144, N-10168, N-10184, N-10202, N-10223, N-10239, N-10253, N-10326, N-10337, N-10342, N-10346, N-10347, N-10354, N-10355, N-10367, N-10370, N-10383, N-10446, N-10456, N-10495, N-10535, N-10539, N-10543, N-10551, N-10572, N-10573, N-10674, N-10975, N-11128, N-11208, N-11325
+  - Hole-minted Nodes (wave3): N-412, N-413, N-414, N-415, N-416, N-417, N-418
+  - Reused Nodes Appearing: N-411, N-10153, N-28, N-10569, N-10576, N-10581, N-6, N-14, N-42, N-54, N-61, N-128, N-210, N-262, N-331, N-362, N-710, N-713, N-10000, N-10007, N-10012, N-10014, N-10032, N-10048, N-10065, N-10074, N-10076, N-10078, N-10082, N-10092, N-10106, N-10110, N-10144, N-10168, N-10184, N-10202, N-10223, N-10239, N-10253, N-10326, N-10337, N-10342, N-10346, N-10347, N-10354, N-10355, N-10367, N-10370, N-10383, N-10446, N-10456, N-10495, N-10535, N-10539, N-10543, N-10551, N-10572, N-10573, N-10674, N-10975, N-11128, N-11208, N-11325
   - (see registers)
 
 ---
@@ -57,7 +57,7 @@
 
 This episode is the second installment of a two-part series on the alleged Romney–Netanyahu–Utah network and the institutional ties Candace Owens is building between BYU, the CIA, and the September 10 events. The host advances a "Romney/Provo/Bibi" investigative axis, drawing on a 2012 New York Times article confirming a 1976-dating friendship between Mitt Romney and Benjamin Netanyahu as the anchoring evidentiary artifact.
 
-The bulk of the episode's new evidentiary material concerns Zachariah "Zack" Qureshi (also called "Zachariah Qureshi"), who the host labels "decoy boy number two" – a young man briefly detained and released hours after the shooting. The host reads Kash Patel's 4:21 PM "subject in custody" tweet and his 5:59 PM walk-back, then links Zack's father Ahmed Qureshi (a Navy O6) to a defense-contracting startup called Built Incorporated that received approximately $7.4M in Air Force contracts in June 2025, citing USA Spending data played in a Baron Coleman audio clip. Ahmed Qureshi's co-founder Nathan Henderson, his wife Gina Romney Henderson (a Built VP), and their son Connor (a former ER scribe at Timpanogos) are introduced as a network of related actors.
+The bulk of the episode's new evidentiary material concerns Zachariah "Zack" Qureshi (also called "Zachariah Qureshi"), who the host labels "decoy boy number two" – a young man briefly detained and released hours after the shooting. The host reads Kash Patel's 4:21 PM "subject in custody" tweet and his 5:59 PM walk-back, then links Zack's father Ahmed Qureshi (a Navy O6) to a defense-contracting startup called BILT Incorporated that received approximately $7.4M in Air Force contracts in June 2025, citing USA Spending data played in a Baron Coleman audio clip. Ahmed Qureshi's co-founder Nathan Henderson, his wife Gina Romney Henderson (a Built VP), and their son Connor (a former ER scribe at Timpanogos) are introduced as a network of related actors.
 
 The episode also surfaces a Washington Post 2007 article on the FBI's abandoned comparative bullet lead analysis technique – the host reads excerpts showing the technique was used after the JFK assassination and formally abandoned in 2005 – and plays a Trump Easter clip in which Trump tells Erika Kirk to "sue" critics. Several speculative claims (Metro One Talent as CIA recruiter, BYU Jerusalem as CIA recruitment site, Michael Shawn Covey as a CIA contractor) are presented as certain but lack artifacts shown in the episode.
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:10:27–00:12:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Display details read aloud:* "president and COO of Built Incorporated, which is based in Dallas-Fort Worth, Texas... he is the commanding officer, the headquarters of the East Coast... a captain... May 2024 to present... co-founded Built back in 2015 when he was full-time as an O5."
+*Display details read aloud:* "president and COO of BILT Incorporated, which is based in Dallas-Fort Worth, Texas... he is the commanding officer, the headquarters of the East Coast... a captain... May 2024 to present... co-founded Built back in 2015 when he was full-time as an O5."
 
 *Related: C-2629, C-2630, C-2631, N-10577*
 
@@ -287,9 +287,9 @@ Confidence Level: Low
 
 ---
 
-**A-3325** Built Incorporated App Description Bundle
+**A-3325** BILT Incorporated App Description Bundle
 
-**A-3325.1** Host reads Built Incorporated's description of its 3D and XR guided-instruction app
+**A-3325.1** Host reads BILT Incorporated's description of its 3D and XR guided-instruction app
 
 Quoted text: "the award-winning Built app provides 3D interactive and XR immersive intelligent instructions that are voice and text guided."
 
@@ -302,9 +302,9 @@ Confidence Level: Medium
 
 ---
 
-**A-3326** Built Incorporated Connections Chart Bundle
+**A-3326** BILT Incorporated Connections Chart Bundle
 
-**A-3326.1** Host chart showing the people and companies connected to Built Incorporated (Qureshi, Henderson, Romney Henderson, sons)
+**A-3326.1** Host chart showing the people and companies connected to BILT Incorporated (Qureshi, Henderson, Romney Henderson, sons)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:19:43
@@ -424,7 +424,7 @@ First named by the host at 00:06:41 in episode 87. Aliases: Zachariah Qureshi.
 
 **N-412** Ahmed Qureshi
 
-First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Qureshi, Akhmed Qureshi.
+First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Qureshi, Ahmed Qureshi.
 
 *Related: C-2627, C-2628, C-2629, C-2631, C-2632, C-2633, C-2634, C-2638*
 
@@ -1236,7 +1236,7 @@ Investigative Direction: Obtain the NYT 2012 article in full and verify the 1976
 
 Claim Timestamp: 00:08:11
 
-Claim: Kash Patel authored an X post at approximately 4:21 PM MST on 2025-09-10 stating that the subject in the Charlie Kirk shooting was in custody.
+Claim: Per the X post the host shows, Kash Patel wrote that the subject for the shooting that took the life of Charlie Kirk was now in custody; the host says he posted it at 4:21 p.m. Mountain time, almost exactly four hours after Charlie was shot.
 
 Anchored Artifacts: A-1918.1
 Mentions: N-1, N-69, N-411
@@ -1281,7 +1281,7 @@ Investigative Direction: Confirm spelling of "Qureshi" vs. "Qureshi" against off
 
 Claim Timestamp: 00:10:27–00:12:44
 
-Claim: Per Ahmed Qureshi's LinkedIn profile, which the host shows, he is President/COO of Built Incorporated and an O6 commanding officer (Navy Captain) at East Coast HQ since May 2024, according to the host.
+Claim: Per Ahmed Qureshi's LinkedIn profile, which the host shows, he is President/COO of BILT Incorporated and an O6 commanding officer (Navy Captain) at East Coast HQ since May 2024, according to the host.
 
 Anchored Artifacts: A-1919.1
 Mentions: N-412
@@ -1292,26 +1292,26 @@ Investigative Direction: Verify current rank and command assignment via official
 
 ---
 
-**C-2631** Host Says Ahmed Qureshi and Nathan Henderson Co-Founded Built Incorporated
+**C-2631** Host Says Ahmed Qureshi and Nathan Henderson Co-Founded BILT Incorporated
 
 Claim Timestamp: 00:16:35
 
-Claim: The host says Built Incorporated was co-founded by Ahmed Qureshi (an O5 at the time) and Nathan Henderson in 2015.
+Claim: The host says BILT Incorporated was co-founded by Ahmed Qureshi (an O5 at the time) and Nathan Henderson in 2015.
 
 Anchored Artifacts: A-1919.1, A-1920.1
 Mentions: N-412, N-413
 
 Related Nodes: N-10577
 
-Investigative Direction: Cross-check corporate registration records (Secretary of State filings in Texas) for Built Incorporated founders and incorporation date.
+Investigative Direction: Cross-check corporate registration records (Secretary of State filings in Texas) for BILT Incorporated founders and incorporation date.
 
 ---
 
-**C-2632** Host Says USA Spending Shows Built Inc. Received ~$7.4M Air Force + ~$240K Navy in June 2025
+**C-2632** Host Says USA Spending Shows BILT Inc. Received ~$7.4M Air Force + Under $250K Navy in June 2025
 
 Claim Timestamp: 00:15:43–00:16:05
 
-Claim: The host says USA Spending records show Built Incorporated received approximately $7.4M from the Air Force and just under $240K from the Navy in June 2025, with the largest contracts dated June 1 and June 16, 2025.
+Claim: The host says USA Spending records show BILT Incorporated received approximately $7.4M from the Air Force and just under a quarter million from the Navy in June 2025, with the largest contracts dated June 1 and June 16, 2025.
 
 Anchored Artifacts: A-1920.1, A-1920.2
 Mentions: 
@@ -1322,11 +1322,11 @@ Investigative Direction: Retrieve the raw USA Spending entries for Built Inc. by
 
 ---
 
-**C-2633** Host Shows LinkedIn Listing Gina Romney Henderson as VP UX at Built Inc.
+**C-2633** Host Shows LinkedIn Listing Gina Romney Henderson as VP UX at BILT Inc.
 
 Claim Timestamp: 00:17:51
 
-Claim: Per Gina Romney Henderson's LinkedIn profile, which the host shows, she is Vice President of User Experience at Built Incorporated.
+Claim: Per Gina Romney Henderson's LinkedIn profile, which the host shows, she is Vice President of User Experience at BILT Incorporated.
 
 Anchored Artifacts: A-1921.1
 Mentions: N-414
@@ -1356,7 +1356,7 @@ Investigative Direction: Obtain Connor Henderson's actual LinkedIn profile; veri
 
 Claim Timestamp: 00:32:26–00:33:30
 
-Claim: Per a 2007 Washington Post article, the FBI formally abandoned comparative bullet lead analysis in 2005 after a 2004 National Academy of Sciences report found the technique unreliable.
+Claim: Per the 2007 Washington Post article the host shows, the FBI abandoned comparative bullet lead analysis in 2005, a year after a 2004 National Academy of Sciences report found FBI testimony about the technique unreliable and potentially misleading.
 
 Anchored Artifacts: A-1922.1
 
@@ -1385,7 +1385,7 @@ Investigative Direction: Obtain court filings and ATF lab reports in the Robinso
 
 Claim Timestamp: 00:38:57–00:40:20
 
-Claim: At a 2026 White House Easter event, Donald Trump told Erika Kirk that she should sue people mocking her because they are jealous of her.
+Claim: In a clip the host plays from an Easter event, Donald Trump says he told Erika Kirk she has to sue people because they are so jealous of her; the host says he told her to sue people making fun of her.
 
 Anchored Artifacts: A-1923.1
 Mentions: N-2, N-5
@@ -1620,7 +1620,7 @@ Investigative Direction: Retrieve the actual 2009 paper and verify the journal o
 
 Claim Timestamp: 00:43:39–00:44:25
 
-Claim: Viewer Kael Miles suggests the Robinson defense should make ~600,000 documents public for review; host concurs and offers to serve as unpaid document-review army.
+Claim: A viewer comment the host reads (Kael Miles) says the 600,000 documents should be made public for viewers to sort through; the host calls it great advice for Robinson's defense and offers to serve as an unpaid document-review army.
 
 Anchored Artifacts: A-1926.1
 Mentions: N-40
@@ -1969,7 +1969,7 @@ Investigative Direction: Re-interview Mitch Snow on the meeting date, location a
 
 ---
 
-**C-14571** Host Reads Built Incorporated's Description of Its XR Instruction App
+**C-14571** Host Reads BILT Incorporated's Description of Its XR Instruction App
 
 Claim Timestamp: 00:10:27
 
@@ -1981,7 +1981,7 @@ Anchored Artifacts: A-3325.1
 Mentions: N-3
 Related Nodes: N-10577
 Tags: relevance:context
-Investigative Direction: Capture the Built Incorporated website or app-store page and Texas registration records to confirm the product description and location.
+Investigative Direction: Capture the BILT Incorporated website or app-store page and Texas registration records to confirm the product description and location.
 
 ---
 
@@ -2021,7 +2021,7 @@ Investigative Direction: Cite the historical record (Warren Commission, Church C
 
 Claim Timestamp: 00:12:44
 
-Claim: The host says Built Incorporated receives funding from the Department of Defense through contracts.
+Claim: The host says BILT Incorporated receives funding from the Department of Defense through contracts.
 
 Transcript Snippet: you should know that this company receives funding from the Department of Defense. Okay, contracts from the Department of Defense.
 
@@ -2769,7 +2769,7 @@ Transcript Snippet: my producer has a note that the RNC altered the convention r
 Anchored Artifacts: A-1926.2
 Mentions: N-3
 Related Nodes: N-10007, N-11399
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Read the RNC 2012 Rules (Rule 16 and the Rules Committee actions) and contemporaneous reporting.
 
 ---

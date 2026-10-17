@@ -1376,7 +1376,7 @@ Investigative Direction: Obtain the TPUSA staff messages in which Kirk discussed
 
 Claim Timestamp: 00:05:47
 
-Claim: The host says Charlie Kirk signaled to his troops that he no longer cared about the money and wanted the donors out.
+Claim: The host says Charlie Kirk signaled to his troops that he no longer cared about the money and wanted them out.
 
 Transcript Snippet: He signals to his troops that he doesn't care about the money. Does not care about the money anymore. He wants them out.
 

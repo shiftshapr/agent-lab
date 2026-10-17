@@ -47,7 +47,7 @@
 
 ## II. Executive Summary
 
-This episode advances the Bride of Charlie series along three evidentiary tracks. First, host presents the Brian Harpole / Shawn Ryan interview in which Harpole claims to have personally cut Charlie Kirk's "freedom shirt" off at the hospital; host contends this account is implausible and argues the shirt – a likely explosive-residue carrier – has been disposed of rather than preserved. Second, host walks through three successive media interviews given by front-row witness Sarah Tool, in which her account of the wound location shifts from "directly in the heart" to "in the neck," and her estimate of shooter distance grows in precision (Fox 13 → local media → ABC News), anchoring a contradiction node. Third, host reports that Judge Graf has denied the defense motion to compel Lance Twiggs's in-person testimony at the preliminary hearing, with Twiggs's recorded statement to be admitted instead, and frames this as hearsay-elimination failure.
+This episode advances the Bride of Charlie series along three evidentiary tracks. First, host presents the Brian Harpole / Shawn Ryan interview in which Harpole claims to have personally cut Charlie Kirk's "freedom shirt" off at the hospital; host contends this account is implausible and argues the shirt – a likely explosive-residue carrier – has been disposed of rather than preserved. Second, host walks through three successive media interviews given by front-row witness Sara Tewell, in which her account of the wound location shifts from "directly in the heart" to "in the neck," and her estimate of shooter distance grows in precision (Fox 13 → local media → ABC News), anchoring a contradiction node. Third, host reports that Judge Graf has denied the defense motion to compel Lance Twiggs's in-person testimony at the preliminary hearing, with Twiggs's recorded statement to be admitted instead, and frames this as hearsay-elimination failure.
 
 The episode also re-runs the Next Model Management / Erika Frantzve apartment-management thread with reference to a newly reported (but not on-camera) second witness, presents a viewer email and enhanced shard images supporting the exploding-microphone hypothesis, and includes a Tim Dillon parody reading of a JD Vance book excerpt. A signature-comparison visual is presented as evidence that Erika Kirk's signature has fundamentally changed since her Miss Arizona years, which the host interprets as symptomology consistent with dissociative identity disorder (interpretive, not inscribed as artifact-backed claim).
 
@@ -69,9 +69,9 @@ Confidence Level: High (clip clearly played)
 
 ---
 
-**A-2086** Sarah Tool Media Interview Bundle
+**A-2086** Sara Tewell Media Interview Bundle
 
-**A-2086.1** Sarah Tool first interview – Fox 13 – claims Charlie was shot "directly in his heart," shooter to her right, single shot
+**A-2086.1** Sara Tewell first interview – Fox 13 – claims Charlie was shot "directly in his heart," shooter to her right, single shot
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -81,7 +81,7 @@ Confidence Level: High
 
 *Related: C-2936, N-10677*
 
-**A-2086.2** Sarah Tool second interview – local media, ~51 minutes later – claims Charlie was shot "in the neck," blood spurted across body
+**A-2086.2** Sara Tewell second interview – local media, ~51 minutes later – claims Charlie was shot "in the neck," blood spurted across body
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -91,7 +91,7 @@ Confidence Level: High
 
 *Related: C-2937, N-10677*
 
-**A-2086.3** Sarah Tool ABC News interview – claims shooter was ~200 yards away, shot to left side of neck
+**A-2086.3** Sara Tewell ABC News interview – claims shooter was ~200 yards away, shot to left side of neck
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -364,9 +364,9 @@ Investigative Pressure: High
 
 ---
 
-**N-10677** Sarah Tool Witness Statement Discrepancy
+**N-10677** Sara Tewell Witness Statement Discrepancy
 
-Contradiction node: chest/heart vs. neck wound location and 200-yard shooter distance claim, across three successive Sarah Tool interviews.
+Contradiction node: chest/heart vs. neck wound location and 200-yard shooter distance claim, across three successive Sara Tewell interviews.
 
 Evidence Count: 3
 Claim Count: 3
@@ -864,7 +864,7 @@ Existing topic reused for the Maine conversation claim.
 
 ---
 
-**N-732** Sarah Tool
+**N-732** Sara Tewell
 
 First named by the host at 00:17:36 in episode 120 (rendered "Sarah uh Tool" in the transcript). Front-row student witness who gave three successive media interviews about the shot.
 
@@ -933,26 +933,26 @@ Investigative Direction: Obtain Shawn Ryan show audio/video; cross-reference aga
 
 ---
 
-**C-2936** Sarah Tool's First Interview Asserted Shot to Heart
+**C-2936** Sara Tewell's First Interview Asserted Shot to Heart
 
 Claim Timestamp: 00:18:25
 
-Claim: In her first Fox 13 interview, Sarah Tool stated that Charlie Kirk was shot directly in the heart from her right side, with a single shot.
+Claim: In her first Fox 13 interview, Sara Tewell stated that Charlie Kirk was shot directly in the heart from her right side, with a single shot.
 
 Anchored Artifacts: A-2086.1
 Mentions: N-732, N-1
 
 Related Nodes: N-10677
 
-Investigative Direction: Obtain original Fox 13 footage; verify timestamp and quoted language against Sarah Tool's subsequent statements.
+Investigative Direction: Obtain original Fox 13 footage; verify timestamp and quoted language against Sara Tewell's subsequent statements.
 
 ---
 
-**C-2937** Sarah Tool's Second Interview Asserted Shot to Neck
+**C-2937** Sara Tewell's Second Interview Asserted Shot to Neck
 
 Claim Timestamp: 00:20:28
 
-Claim: Approximately 51 minutes after her first interview, Sarah Tool stated in local media that Charlie Kirk was shot in the neck.
+Claim: Approximately 51 minutes after her first interview, Sara Tewell stated in local media that Charlie Kirk was shot in the neck.
 
 Anchored Artifacts: A-2086.2
 Mentions: N-732, N-1
@@ -963,18 +963,18 @@ Investigative Direction: Obtain original local-media footage and timestamp; docu
 
 ---
 
-**C-2938** Sarah Tool's ABC Interview Asserted Shooter at ~200 Yards
+**C-2938** Sara Tewell's ABC Interview Asserted Shooter at ~200 Yards
 
 Claim Timestamp: 00:21:43
 
-Claim: In her ABC News interview, Sarah Tool said she thought the shooter was about 200 yards away and that the shot struck Charlie Kirk in the neck, going "right into his left side."
+Claim: In her ABC News interview, Sara Tewell said she thought the shooter was about 200 yards away and that the shot struck Charlie Kirk in the neck, going "right into his left side."
 
 Anchored Artifacts: A-2086.3
 Mentions: N-732, N-1
 
 Related Nodes: N-10677
 
-Investigative Direction: Verify the 200-yard figure against the documented distance from the Loews Center to the courtyard; check ABC News raw footage for prior coaching or scripting cues.
+Investigative Direction: Verify the 200-yard figure against the documented distance from the Losee Center to the courtyard; check ABC News raw footage for prior coaching or scripting cues.
 
 ---
 
@@ -1149,7 +1149,7 @@ Investigative Direction: Obtain the FBI/Utah evidence inventory for the handheld
 
 Claim Timestamp: 00:04:26
 
-Claim: The host says Brian Harpole joined Shawn Ryan for an interview about the car ride and that she is being sued over it.
+Claim: The host says Brian Harpole joined Shawn Ryan for what she calls a "car crash interview," and that she is being sued over it.
 
 Transcript Snippet: according to Brian Harpole, who joined Shawn Ryan for a car crash interview, for which I'm being sued over.
 
@@ -1345,11 +1345,11 @@ Investigative Direction: Verify against Rode's teardown or specifications what m
 
 ---
 
-**C-5797** Sarah Tool said the shot came during the question on transgenderism and gun violence
+**C-5797** Sara Tewell said the shot came during the question on transgenderism and gun violence
 
 Claim Timestamp: 00:19:10
 
-Claim: In her first interview, Sarah Tool says the second student was talking about transgenderism and gun violence when the shot happened.
+Claim: In her first interview, Sara Tewell says the second student was talking about transgenderism and gun violence when the shot happened.
 
 Transcript Snippet: the second student to get up was talking about transgenderism and how um gun violence has been very frequent with that community, and that is when it happened.
 
@@ -1360,7 +1360,7 @@ Investigative Direction: Compare with the event video to establish the topic bei
 
 ---
 
-**C-5798** Sarah Tool's two interviews were at about 1:17 p.m. and 2:08 p.m.
+**C-5798** Sara Tewell's two interviews were at about 1:17 p.m. and 2:08 p.m.
 
 Claim Timestamp: 00:19:54
 
@@ -1375,13 +1375,13 @@ Investigative Direction: Obtain broadcast metadata for both interviews to verify
 
 ---
 
-**C-5799** Host says Tool's 200-yard estimate matches the distance to Losee Center
+**C-5799** Host Says Tewell's 200-Yard Estimate Matches the Distance to Losee Center
 
 Claim Timestamp: 00:20:48
 
-Claim: The host says Sarah Tool's ABC News estimate of how far away the shot was fired matches the distance to Loews Center.
+Claim: The host says Sara Tewell's ABC News estimate of how far away the shot was fired matches the distance to Losee Center.
 
-Transcript Snippet: She's even able to confirm how many yards away the bullet was fired from, and it incredibly matches the distance to Loews Center.
+Transcript Snippet: She's even able to confirm how many yards away the bullet was fired from, and it incredibly matches the distance to Losee Center.
 
 Anchored Artifacts: A-2086.3
 Mentions: N-732
@@ -1727,7 +1727,7 @@ Investigative Direction: Locate the reply post and identify who published it fro
 
 Claim Timestamp: 00:34:44
 
-Claim: The host says another person has come forward and confirmed that Erika Kirk worked as the contact for the model apartments on the Upper East Side, and says she met Erika.
+Claim: The host says another person has come forward and confirmed that Erika Kirk worked as the contact for the model apartments on the Upper East Side, and that this person says she herself met Erika.
 
 Transcript Snippet: Another person has come forward and confirmed this information. That Erika Kirk was working as the contact for the model apartments on the Upper East Side.
 
@@ -2018,7 +2018,7 @@ Investigative Direction: Interview the woman and obtain her contemporaneous acco
 
 Claim Timestamp: 00:45:58
 
-Claim: The host says the woman flew back to Chicago to bring Erika a relic, and was uncomfortable when Erika was later invited to Mar-a-Lago and presented as Judeo-Christian with no mention of Catholicism.
+Claim: The host says the woman flew back to Chicago to bring Erika a relic, and was uncomfortable when she was later invited to Mar-a-Lago and Erika presented as Judeo-Christian with no mention of Catholicism.
 
 Transcript Snippet: This woman flies back to Chicago to bring Erika a relic and she's totally Catholic. And then the woman is uncomfortable when she then gets invited to Mar-a-Lago
 
@@ -2340,7 +2340,7 @@ Confidence: high
 Video Timestamp: 00:18:25
 Speaker: N-3
 Quote: Here is her first interview to jog your memory.
-Context: Host introduces Sarah Tool's first interview.
+Context: Host introduces Sara Tewell's first interview.
 Tags: reuse
 Confidence: high
 

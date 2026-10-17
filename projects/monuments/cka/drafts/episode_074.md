@@ -1659,11 +1659,11 @@ Investigative Direction: Pull the archived tweet from Jillian's account and conf
 
 ---
 
-**C-10147** Nicey says Jillian posted on March 6, 2014 a Valentine image Erika sent reading 'I am going to touch your butt'
+**C-10147** Nicey Says Jillian Tweeted a Valentine Image Erika Sent Reading 'I am going to touch your butt' Hours After Her Feb 13, 2014 Reply
 
 Claim Timestamp: 00:04:50
 
-Claim: Nicey says Jillian tweeted on March 6, 2014, asking why Erika had just sent her an image captioned 'This Valentine's Day I am going to touch your butt.'
+Claim: Nicey says that a few hours after her February 13, 2014 reply, Jillian tweeted asking why Erika had just sent her an image captioned 'This Valentine's Day I am going to touch your butt.'
 
 Transcript Snippet: And there is a photo which says, "This Valentine's Day I am going to touch your butt."
 
@@ -2081,11 +2081,11 @@ Investigative Direction: Confirm with Jillian that she asked followers to stop c
 
 ---
 
-**C-10174** DIA beat: host puts out an APB for information
+**C-10174** Host Puts Out an APB for Information
 
 Claim Timestamp: 00:22:58
 
-Claim: The host says that before going off air she wants to be thorough and put out an APB for certain information, to be sent to more tips@candaceowens.com.
+Claim: The host says that before going off air she wants to be thorough and put out an APB for certain information, to be sent to moretips@candaceowens.com.
 
 Transcript Snippet: I want to be thorough and again put out an APB for certain information.
 
@@ -2123,7 +2123,7 @@ Transcript Snippet: We're trying to figure out who this um photographer was that
 Anchored Artifacts: 
 Mentions: N-3, N-566, N-569
 Related Nodes: N-10513
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Watch for the host's follow-up identifying the photographer and test it against Jillian's account.
 
 ---
@@ -2139,7 +2139,7 @@ Transcript Snippet: Erika tweeted and said that she knew somebody that was in th
 Anchored Artifacts: 
 Mentions: N-3, N-2
 Related Nodes: N-10518
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Find Erika's original tweet and identify the person; check Aurora victim and witness lists.
 
 ---
@@ -2155,7 +2155,7 @@ Transcript Snippet: The back story is that she's from Ohio until she gets into h
 Anchored Artifacts: 
 Mentions: N-3, N-2
 Related Nodes: N-10516
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Check Ohio school records and classmates for Erika Frantzve and Erika's own account of when she moved.
 
 ---
@@ -2172,7 +2172,7 @@ Anchored Artifacts: A-3059.1
 Mentions: N-3, N-2
 Related Nodes: N-10516
 Supports: C-10178
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Log responses from Ohio schoolmates and check yearbooks for Erika Frantzve.
 
 ---
@@ -2181,14 +2181,14 @@ Investigative Direction: Log responses from Ohio schoolmates and check yearbooks
 
 Claim Timestamp: 00:25:08
 
-Claim: The host says Loyola Marymount is the same school Stacy Sheridan attended, that people from Sheridan's year say they do not remember Erika, and that no one has come forward to say they remember her despite her being mentioned in a program.
+Claim: The host says Loyola Marymount is the same school Stacy Sheridan attended, that people who went there in the same year say they do not remember Erika, and that no one has come forward to say they remember her despite her being mentioned in a program.
 
 Transcript Snippet: This is also the same school that Stacy Sheridan went to and people who went in that same year as her say I don't remember her.
 
 Anchored Artifacts: 
 Mentions: N-3, N-187, N-2
 Related Nodes: N-10517
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the Loyola Marymount program, enrollment verification and alumni accounts for Erika Frantzve.
 
 ---

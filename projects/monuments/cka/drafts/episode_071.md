@@ -2638,7 +2638,7 @@ Investigative Direction: The coach's identity and Kirk's account of his conversi
 
 Claim Timestamp: 00:50:47
 
-Claim: The host says Charlie had a bad experience with the third-eye matter and that she can show the messages another time, maybe tomorrow.
+Claim: The host says Charlie had a bad experience and that she can show the messages another time, maybe tomorrow.
 
 Transcript Snippet: I can show you those messages another time maybe tomorrow but he had a bad experience so there's that as well.
 

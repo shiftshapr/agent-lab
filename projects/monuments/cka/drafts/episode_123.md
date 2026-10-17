@@ -713,7 +713,7 @@ Investigative Direction: Verify via property records, TPUSA internal communicati
 
 **C-2990** Host Says Cardboard-Colored Material Visible in Vehicle
 
-Claim Timestamp: 00:08:05
+Claim Timestamp: 00:11:04
 
 Claim: The host says photos show a piece of what looks to her like cardboard-colored material that she thinks looks thicker and burnt, separated from the Uber bags, while saying she could be wrong.
 
@@ -727,7 +727,7 @@ Investigative Direction: Obtain higher-resolution images; consult medical/forens
 
 Claim Timestamp: 00:16:00
 
-Claim: The host says photos show a foil-like, coppery material under the floor mat, and she reads viewer suggestions that include an emergency/hypothermia blanket.
+Claim: The host says photos show a foil-like, coppery material under the floor mat, and later reads a viewer suggestion that it could be a hypothermia medical emergency blanket.
 
 Anchored Artifacts: A-2110.4, A-2111.3
 Related Nodes:
@@ -763,9 +763,9 @@ Investigative Direction: Verify clip provenance; corroborate with hospital witne
 
 **C-2994** Host Says Frank Turek and Brian Harpole Did Not Mention Shattered Tempered Glass in Retellings of Car Events
 
-Claim Timestamp: 00:06:00–00:19:30
+Claim Timestamp: 00:19:40
 
-Claim: The host says that across multiple interviews (Paramount Tactical, Shawn Ryan Show, and others), Frank Turek and Brian Harpole described packing a neck wound and praying but did not mention any shattered tempered glass in the vehicle.
+Claim: The host says that across their many retellings, Frank Turek and Brian Harpole described Frank praying and Harpole packing the wound but did not mention any shattered tempered glass in the vehicle.
 
 Anchored Artifacts: None (claim relies on absence from prior retellings; absence-of-evidence style claim)
 Mentions: N-267, N-7

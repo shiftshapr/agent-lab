@@ -70,7 +70,7 @@ Unpacked yesterday, when you run this theory that Charlie's microphone was rigge
 
 [06:08]
 
-You can research this on your own, but it says that the low water solubility and high soil absorption, um, of PETN in particular, if we think that is the explosive, it would be very problematic and you would, in fact, need to dig out the soil. We introduced to you guys, uh, uh, the Dan Merrill, who was the guy who was the paver, who was called to come in on a Sunday. Well, actually, further on in his interview with Jimmy Rex, he describes how he was actually the second person, uh, or the second team, so to speak, that arrived before he even had arrived on that Sunday, just a few days later, they had sent another government team to go in and to dig out all of the soil. 8 to 10 in of soil. Take a listen to what he said.
+You can research this on your own, but it says that the low water solubility and high soil absorption, um, of PETN in particular, if we think that is the explosive, it would be very problematic and you would, in fact, need to dig out the soil. We introduced to you guys, uh, uh, the Dan Merrell, who was the guy who was the paver, who was called to come in on a Sunday. Well, actually, further on in his interview with Jimmy Rex, he describes how he was actually the second person, uh, or the second team, so to speak, that arrived before he even had arrived on that Sunday, just a few days later, they had sent another government team to go in and to dig out all of the soil. 8 to 10 in of soil. Take a listen to what he said.
 
 [06:50]
 
@@ -78,7 +78,7 @@ You can research this on your own, but it says that the low water solubility and
 
 [07:34]
 
-Same reason, explosive residue. Why there appears to be shattered black plastic or glass all over the SUV which transported Charlie to the hospital. Uh the that would be the road bike. That would fit in perfectly. That would make sense. Why there is no available footage or any eyewitness reports of someone seen firing a shot from the Loews E building. That's a big strange anomaly here. Why do we not have those people Yes, I saw him take a shot. Um yeah, because no shot was actually taken from the Loews E building. Why the feds did not conduct a standard GSR gunshot residue test when Tyler Robinson was brought in? Because they knew that he would fail it. And that would not help them in court if Tyler Robinson, who they say they got after a 33-hour manhunt, 33 hours on a minute over, failed the GSR test, especially when they say he was wearing the same outfit.
+Same reason, explosive residue. Why there appears to be shattered black plastic or glass all over the SUV which transported Charlie to the hospital. Uh the that would be the road bike. That would fit in perfectly. That would make sense. Why there is no available footage or any eyewitness reports of someone seen firing a shot from the Losee building. That's a big strange anomaly here. Why do we not have those people Yes, I saw him take a shot. Um yeah, because no shot was actually taken from the Losee building. Why the feds did not conduct a standard GSR gunshot residue test when Tyler Robinson was brought in? Because they knew that he would fail it. And that would not help them in court if Tyler Robinson, who they say they got after a 33-hour manhunt, 33 hours on a minute over, failed the GSR test, especially when they say he was wearing the same outfit.
 
 [08:29]
 

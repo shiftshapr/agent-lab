@@ -1892,7 +1892,7 @@
       "@id": "C-3086",
       "ref": "C-3086",
       "label": "Daily Mail reports Erika would rather not give Candace \"an ounce of her energy\" and \"likes even Tyler Robinson more than she likes Candace\"",
-      "claim": "The Daily Mail article reports Erika Kirk saying she is not going to give Candace Owens an ounce of her energy, and quotes a source saying that at this point Erika likes even Tyler Robinson more than she likes Candace.",
+      "claim": "The Daily Mail article quotes a source saying Erika Kirk says she is not going to give Candace Owens an ounce of her energy, and that \"I think at this point Erika likes even Tyler Robinson more than she likes Candace.\"",
       "anchored_artifacts": [
         "A-2164.3"
       ],
@@ -1971,6 +1971,7 @@
       "claim_timestamp": "00:03:30",
       "investigative_direction": "Methodology is informal and unsystematic; results should not be treated as expert identification.",
       "mentions_person_refs": [
+        "N-30",
         "N-331"
       ]
     },
@@ -3624,7 +3625,7 @@
       "@id": "C-11621",
       "ref": "C-11621",
       "label": "Viva Frei Says Exploding Microphones and Israel Did It Theories Are Unsubstantiated",
-      "claim": "On the Charlie Kirk Show clip, Viva Frei says theories that it was exploding microphones or that Israel did it are unsubstantiated and unfalsifiable, and that without a shred of evidence one cannot manufacture facts out of whole cloth.",
+      "claim": "On the Charlie Kirk Show clip, Viva Frei says theories that it was exploding microphones or that Israel did it are unsubstantiated and unfalsifiable, allowing that Israel might have had a hand in it, but that without a shred of evidence one cannot manufacture facts out of whole cloth.",
       "anchored_artifacts": [
         "A-2169.4"
       ],

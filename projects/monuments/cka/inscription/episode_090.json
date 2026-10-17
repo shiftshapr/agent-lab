@@ -1807,7 +1807,7 @@
       "@id": "C-2687",
       "ref": "C-2687",
       "label": "Host Says ADF CEO Video Shows Discussion of Working With Erika Kirk Regarding Candace Owens",
-      "claim": "The host says an internal Alliance Defending Freedom video of its CEO shows him discussing the fact that they were working with Erika regarding her; in the clip the CEO describes a call with a large organization amid tension that \"has to do with Candace Owens\" and says he shared how they had thought about decisions such as whether to sue someone.",
+      "claim": "The host says an internal Alliance Defending Freedom video of its CEO shows her discussing the fact that they were working with Erika regarding the host; in the clip the CEO describes a call with a large organization amid tension that \"has to do with Candace Owens\" and says she shared how they had thought about decisions such as whether to sue someone.",
       "anchored_artifacts": [
         "A-1951.1"
       ],
@@ -1827,7 +1827,7 @@
       "@id": "C-2688",
       "ref": "C-2688",
       "label": "Caleb Robinson holds a board seat at Alliance Defending Freedom",
-      "claim": "According to host testimony supported by an ADF internal presentation, Daily Wire CEO Caleb Robinson sits on the ADF board of directors (one of approximately eight seats).",
+      "claim": "The host says ADF insiders informed her, and showed her an internal presentation, that Daily Wire CEO Caleb Robinson is now on the ADF board of directors, one of what she thinks are eight seats.",
       "anchored_artifacts": [
         "A-1951.2"
       ],
@@ -1925,7 +1925,7 @@
         "N-10593"
       ],
       "tags": [],
-      "claim_timestamp": "00:40:19",
+      "claim_timestamp": "00:39:50",
       "investigative_direction": "Obtain the search warrant docket entry and verify exact time/date stamps.",
       "mentions_person_refs": [
         "N-40"
@@ -1955,7 +1955,7 @@
       "@type": "Claim",
       "@id": "C-2695",
       "ref": "C-2695",
-      "label": "State claims forensic photographs of Lance Twiggs phone contents will be offered in lieu of forensic extraction",
+      "label": "State Says It Will Offer Camera Recordings of Text Messages Instead of Forensic Extractions",
       "claim": "Per the filing excerpt read aloud, the state intends to offer two exhibits that used cameras to record the contents of text messages, rather than forensic-extraction evidence.",
       "anchored_artifacts": [
         "A-1948.2"
@@ -2271,7 +2271,7 @@
       "@id": "C-8699",
       "ref": "C-8699",
       "label": "Host Says She Has Been Pitched on an AI or Hologram Version of Herself",
-      "claim": "The host says she has been pitched on creating an AI Candace or hologram Candace so she would not have to attend so many places, and says the hologram idea probably sounds more right to her.",
+      "claim": "The host says she has been pitched on creating an AI Candace or hologram Candace so she would not have to attend so many places, and says it sounds more right to her that the Charlie GPT pitches took place before Charlie died.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10597"
@@ -3113,8 +3113,8 @@
       "@type": "Claim",
       "@id": "C-8734",
       "ref": "C-8734",
-      "label": "Host Reads Search Warrant Text Saying Robinson's Roommate Showed Investigators Discord Messages",
-      "claim": "The search warrant text read aloud says investigators identified Robinson's roommate, who said Robinson made a joke on Discord, then opened Discord and allowed investigators to photograph the screen as each message was shown.",
+      "label": "Cox Says Robinson's Roommate Showed Investigators Discord Messages",
+      "claim": "In a clip the host plays, Governor Spencer Cox says investigators identified Robinson's roommate, who said Robinson made a joke on Discord, then opened Discord and allowed investigators to photograph the screen as each message was shown.",
       "anchored_artifacts": [
         "A-2958.1"
       ],
@@ -3130,6 +3130,7 @@
       "transcript_snippet": "He opened it and showed several messages to investigators and allowed investigators to take photos of the screen as each message was shown by Robinson's roommate.",
       "mentions_person_refs": [
         "N-3",
+        "N-41",
         "N-40",
         "N-54"
       ]
@@ -3138,8 +3139,8 @@
       "@type": "Claim",
       "@id": "C-8735",
       "ref": "C-8735",
-      "label": "Host Reads Warrant Text Describing Messages About a Rifle Left in a Bush Wrapped in a Towel",
-      "claim": "The warrant text read aloud says the messages from the contact Tyler stated a need to retrieve a rifle from a drop point, leaving the rifle in a bush, watching the area where it was left, and leaving it wrapped in a towel.",
+      "label": "Cox Describes Messages About a Rifle Left in a Bush Wrapped in a Towel",
+      "claim": "In a clip the host plays, Governor Spencer Cox says the messages from the contact Tyler stated a need to retrieve a rifle from a drop point, leaving the rifle in a bush, watching the area where it was left, and leaving it wrapped in a towel.",
       "anchored_artifacts": [
         "A-2958.1"
       ],
@@ -3154,6 +3155,7 @@
       "transcript_snippet": "stating a need to retrieve a rifle from a drop point, leaving the rifle in a bush, messages related to a to visually watching the area where a rifle was left, and a message referring to having left the rifle wrapped in a towel.",
       "mentions_person_refs": [
         "N-3",
+        "N-41",
         "N-40",
         "N-54"
       ]
@@ -3162,8 +3164,8 @@
       "@type": "Claim",
       "@id": "C-8736",
       "ref": "C-8736",
-      "label": "Host Reads Warrant Text That Messages Mentioned Engraving Bullets, a Scope and Changing Outfits",
-      "claim": "The warrant text read aloud says the messages also referred to engraving bullets, a scope and the rifle being unique, and that the contact Tyler said he had changed outfits.",
+      "label": "Cox Says Messages Mentioned Engraving Bullets, a Scope and Changing Outfits",
+      "claim": "In a clip the host plays, Governor Spencer Cox says the messages also referred to engraving bullets, a scope and the rifle being unique, and that the contact Tyler said he had changed outfits.",
       "anchored_artifacts": [
         "A-2958.1"
       ],
@@ -3178,6 +3180,7 @@
       "transcript_snippet": "The messages also referred to engraving bullets and a mention of a scope and the rifle being unique.",
       "mentions_person_refs": [
         "N-3",
+        "N-41",
         "N-40",
         "N-54"
       ]
@@ -3542,7 +3545,7 @@
       "@type": "Claim",
       "@id": "C-8752",
       "ref": "C-8752",
-      "label": "Host Says She Now Knows Who Was at the Aspen Event and Is Working on It",
+      "label": "Host Says She Now Knows Who Was at the Event and Is Working on It",
       "claim": "Responding to a viewer comment asking who asked Charlie who would replace him, the host says she now knows who was at that event, is working on it, and has background investigations going on.",
       "anchored_artifacts": [],
       "related_nodes": [

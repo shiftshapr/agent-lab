@@ -400,13 +400,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2125",
       "family_ref": "A-2125",
-      "bundle_name": "Samantha Carner ATF Ballistics Testimony Audio",
+      "bundle_name": "Samantha Karner ATF Ballistics Testimony Audio",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2125.1",
           "ref": "A-2125.1",
-          "description": "Audio of Samantha Carner (ATF ballistics expert) testifying that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch, with Carner's reasoning for the confidence range.",
+          "description": "Audio of Samantha Karner (ATF ballistics expert) testifying that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch, with Carner's reasoning for the confidence range.",
           "related_claims": [
             "C-3013"
           ],
@@ -1767,7 +1767,7 @@
       "@type": "Person",
       "@id": "N-777",
       "ref": "N-777",
-      "name": "Samantha Carner",
+      "name": "Samantha Karner",
       "type": "person",
       "description": "First named by the host at 00:37:36 in episode 124. ATF ballistics expert who testified on day four about bullet fragment 6A.",
       "related_artifacts": [],
@@ -2089,7 +2089,7 @@
       "@id": "C-3013",
       "ref": "C-3013",
       "label": "6A bullet jacket fragment diameter measured 286–301 thousandths of an inch",
-      "claim": "ATF ballistics expert Samantha Carner testified that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch.",
+      "claim": "ATF ballistics expert Samantha Karner testified that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch.",
       "anchored_artifacts": [
         "A-2125.1"
       ],
@@ -3057,8 +3057,8 @@
       "@type": "Claim",
       "@id": "C-7239",
       "ref": "C-7239",
-      "label": "Host Says Samantha Carner Received Only Four of Seven Fragments Taken From Charlie's Body",
-      "claim": "The host says it was weird that seven bullet fragments were reportedly taken from Charlie's body, but ATF ballistics expert Samantha Carner testified she received only four in a manila envelope, three were unusable and she was left with one, labeled 6A.",
+      "label": "Host Says Samantha Karner Received Only Four of Seven Fragments Taken From Charlie's Body",
+      "claim": "The host says it was weird that seven bullet fragments were reportedly taken from Charlie's body, but ATF ballistics expert Samantha Karner testified she received only four in a manila envelope, three were unusable and she was left with one, labeled 6A.",
       "anchored_artifacts": [
         "A-2125.1"
       ],
@@ -3084,7 +3084,7 @@
       "@id": "C-7240",
       "ref": "C-7240",
       "label": "Host Says a .30-06 Bullet Begins at .308 So the 6A Fragment Is Too Small for Robinson's Rifle",
-      "claim": "The host says the 6A fragment range of .286 to .301 is too small for Tyler's .30-06, because a .30-06 bullet begins at .308 and goes upward, so she says Carner is basically admitting it is not Tyler Robinson's gun.",
+      "claim": "The host says the 6A fragment range of .286 to .301 is too small for Tyler's .30-06, because a .30-06 bullet begins at .308 and goes upward, so she says Karner is basically admitting it is not Tyler Robinson's gun.",
       "anchored_artifacts": [
         "A-2125.1"
       ],
@@ -3211,7 +3211,7 @@
       "@id": "C-7245",
       "ref": "C-7245",
       "label": "Benny Johnson Said Erika Kirk Asked Them to Urge Prayer for a Speedy Trial",
-      "claim": "Benny Johnson says in the video that Erika Kirk asked them to ask viewers to pray for a speedy trial and for justice for the widow.",
+      "claim": "Benny Johnson says in the video, \"Please pray. Erika Kirk asked us to do this,\" and urges viewers to pray for a speedy trial and for justice for the widow.",
       "anchored_artifacts": [
         "A-2126.1"
       ],
@@ -3258,7 +3258,7 @@
       "@id": "C-7247",
       "ref": "C-7247",
       "label": "Host Says Only Influencers Saw the 4K Footage at the End of the Hearing",
-      "claim": "The host says everyone else spent nine hours a day watching the hearing, but the 4K HD footage was held back to give the same influencers at the very end of day five.",
+      "claim": "Mocking the influencers' account, the host says everyone else spent nine hours a day watching the hearing, but they supposedly waited until the very end of day five to give the 4K HD footage to the same influencers.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11065"
@@ -3555,7 +3555,7 @@
       "@id": "C-7260",
       "ref": "C-7260",
       "label": "Host Says Justin Davis Was Driving Up to 100 Miles Per Hour",
-      "claim": "The host says Justin Davis was driving upwards of 100 miles per hour and would not have answered a call from Shapiro's security because he was focused on the road.",
+      "claim": "The host says Justin Davis was driving upwards of 100 miles per hour and that she is going to say he would not have answered a call from Shapiro's security because he was focused on the road.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10712"
@@ -3864,7 +3864,7 @@
       "@id": "C-7273",
       "ref": "C-7273",
       "label": "Host Agrees Correct Emergency Order Was to Call 911, Stop Bleeding and Stabilize the Neck",
-      "claim": "Responding to a viewer comment, the host says the correct order should have been to call 911, stop the bleeding and stabilize the neck, and that anything else would be criminal medical malpractice.",
+      "claim": "Responding to a viewer comment, the host says the order should have been to call 911, stop the bleeding and stabilize the neck; the comment says anything else is criminal medical malpractice, and the host says she agrees.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11137",

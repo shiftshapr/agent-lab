@@ -388,13 +388,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-3325",
       "family_ref": "A-3325",
-      "bundle_name": "Built Incorporated App Description Bundle",
+      "bundle_name": "BILT Incorporated App Description Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-3325.1",
           "ref": "A-3325.1",
-          "description": "Host reads Built Incorporated's description of its 3D and XR guided-instruction app",
+          "description": "Host reads BILT Incorporated's description of its 3D and XR guided-instruction app",
           "related_claims": [
             "C-14571"
           ],
@@ -413,13 +413,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-3326",
       "family_ref": "A-3326",
-      "bundle_name": "Built Incorporated Connections Chart Bundle",
+      "bundle_name": "BILT Incorporated Connections Chart Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-3326.1",
           "ref": "A-3326.1",
-          "description": "Host chart showing the people and companies connected to Built Incorporated (Qureshi, Henderson, Romney Henderson, sons)",
+          "description": "Host chart showing the people and companies connected to BILT Incorporated (Qureshi, Henderson, Romney Henderson, sons)",
           "related_claims": [
             "C-14580",
             "C-14581",
@@ -1029,7 +1029,7 @@
       "ref": "N-412",
       "name": "Ahmed Qureshi",
       "type": "person",
-      "description": "First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Qureshi, Akhmed Qureshi.",
+      "description": "First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Qureshi, Ahmed Qureshi.",
       "related_artifacts": [],
       "related_claims": [
         "C-2627",
@@ -2472,7 +2472,7 @@
       "@id": "C-2627",
       "ref": "C-2627",
       "label": "Kash Patel Declared Subject in Custody ~4 Hours After Shooting",
-      "claim": "Kash Patel authored an X post at approximately 4:21 PM MST on 2025-09-10 stating that the subject in the Charlie Kirk shooting was in custody.",
+      "claim": "Per the X post the host shows, Kash Patel wrote that the subject for the shooting that took the life of Charlie Kirk was now in custody; the host says he posted it at 4:21 p.m. Mountain time, almost exactly four hours after Charlie was shot.",
       "anchored_artifacts": [
         "A-1918.1"
       ],
@@ -2534,7 +2534,7 @@
       "@id": "C-2630",
       "ref": "C-2630",
       "label": "Host Says Ahmed Qureshi Is Active-Duty Navy Captain (O6)",
-      "claim": "Per Ahmed Qureshi's LinkedIn profile, which the host shows, he is President/COO of Built Incorporated and an O6 commanding officer (Navy Captain) at East Coast HQ since May 2024, according to the host.",
+      "claim": "Per Ahmed Qureshi's LinkedIn profile, which the host shows, he is President/COO of BILT Incorporated and an O6 commanding officer (Navy Captain) at East Coast HQ since May 2024, according to the host.",
       "anchored_artifacts": [
         "A-1919.1"
       ],
@@ -2552,8 +2552,8 @@
       "@type": "Claim",
       "@id": "C-2631",
       "ref": "C-2631",
-      "label": "Host Says Ahmed Qureshi and Nathan Henderson Co-Founded Built Incorporated",
-      "claim": "The host says Built Incorporated was co-founded by Ahmed Qureshi (an O5 at the time) and Nathan Henderson in 2015.",
+      "label": "Host Says Ahmed Qureshi and Nathan Henderson Co-Founded BILT Incorporated",
+      "claim": "The host says BILT Incorporated was co-founded by Ahmed Qureshi (an O5 at the time) and Nathan Henderson in 2015.",
       "anchored_artifacts": [
         "A-1919.1",
         "A-1920.1"
@@ -2563,7 +2563,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:35",
-      "investigative_direction": "Cross-check corporate registration records (Secretary of State filings in Texas) for Built Incorporated founders and incorporation date.",
+      "investigative_direction": "Cross-check corporate registration records (Secretary of State filings in Texas) for BILT Incorporated founders and incorporation date.",
       "mentions_person_refs": [
         "N-412",
         "N-413"
@@ -2573,8 +2573,8 @@
       "@type": "Claim",
       "@id": "C-2632",
       "ref": "C-2632",
-      "label": "Host Says USA Spending Shows Built Inc. Received ~$7.4M Air Force + ~$240K Navy in June 2025",
-      "claim": "The host says USA Spending records show Built Incorporated received approximately $7.4M from the Air Force and just under $240K from the Navy in June 2025, with the largest contracts dated June 1 and June 16, 2025.",
+      "label": "Host Says USA Spending Shows BILT Inc. Received ~$7.4M Air Force + Under $250K Navy in June 2025",
+      "claim": "The host says USA Spending records show BILT Incorporated received approximately $7.4M from the Air Force and just under a quarter million from the Navy in June 2025, with the largest contracts dated June 1 and June 16, 2025.",
       "anchored_artifacts": [
         "A-1920.1",
         "A-1920.2"
@@ -2590,8 +2590,8 @@
       "@type": "Claim",
       "@id": "C-2633",
       "ref": "C-2633",
-      "label": "Host Shows LinkedIn Listing Gina Romney Henderson as VP UX at Built Inc.",
-      "claim": "Per Gina Romney Henderson's LinkedIn profile, which the host shows, she is Vice President of User Experience at Built Incorporated.",
+      "label": "Host Shows LinkedIn Listing Gina Romney Henderson as VP UX at BILT Inc.",
+      "claim": "Per Gina Romney Henderson's LinkedIn profile, which the host shows, she is Vice President of User Experience at BILT Incorporated.",
       "anchored_artifacts": [
         "A-1921.1"
       ],
@@ -2628,7 +2628,7 @@
       "@id": "C-2635",
       "ref": "C-2635",
       "label": "FBI Abandoned Comparative Bullet Lead Analysis in 2005",
-      "claim": "Per a 2007 Washington Post article, the FBI formally abandoned comparative bullet lead analysis in 2005 after a 2004 National Academy of Sciences report found the technique unreliable.",
+      "claim": "Per the 2007 Washington Post article the host shows, the FBI abandoned comparative bullet lead analysis in 2005, a year after a 2004 National Academy of Sciences report found FBI testimony about the technique unreliable and potentially misleading.",
       "anchored_artifacts": [
         "A-1922.1"
       ],
@@ -2664,7 +2664,7 @@
       "@id": "C-2637",
       "ref": "C-2637",
       "label": "Trump Told Erika Kirk at Easter to Sue Critics",
-      "claim": "At a 2026 White House Easter event, Donald Trump told Erika Kirk that she should sue people mocking her because they are jealous of her.",
+      "claim": "In a clip the host plays from an Easter event, Donald Trump says he told Erika Kirk she has to sue people because they are so jealous of her; the host says he told her to sue people making fun of her.",
       "anchored_artifacts": [
         "A-1923.1"
       ],
@@ -2940,7 +2940,7 @@
       "@id": "C-2653",
       "ref": "C-2653",
       "label": "Viewer Suggests Robinson Defense Release 600,000 Documents",
-      "claim": "Viewer Kael Miles suggests the Robinson defense should make ~600,000 documents public for review; host concurs and offers to serve as unpaid document-review army.",
+      "claim": "A viewer comment the host reads (Kael Miles) says the 600,000 documents should be made public for viewers to sort through; the host calls it great advice for Robinson's defense and offers to serve as an unpaid document-review army.",
       "anchored_artifacts": [
         "A-1926.1"
       ],
@@ -3443,7 +3443,7 @@
       "@type": "Claim",
       "@id": "C-14571",
       "ref": "C-14571",
-      "label": "Host Reads Built Incorporated's Description of Its XR Instruction App",
+      "label": "Host Reads BILT Incorporated's Description of Its XR Instruction App",
       "claim": "The host reads that the award-winning Built app provides 3D interactive and XR immersive intelligent instructions that are voice and text guided, and says Built is based in Dallas-Fort Worth.",
       "anchored_artifacts": [
         "A-3325.1"
@@ -3455,7 +3455,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:10:27",
-      "investigative_direction": "Capture the Built Incorporated website or app-store page and Texas registration records to confirm the product description and location.",
+      "investigative_direction": "Capture the BILT Incorporated website or app-store page and Texas registration records to confirm the product description and location.",
       "transcript_snippet": "the award-winning Built app provides 3D interactive and XR immersive intelligent instructions that are voice and text guided.",
       "mentions_person_refs": [
         "N-3"
@@ -3510,7 +3510,7 @@
       "@id": "C-14574",
       "ref": "C-14574",
       "label": "Host Says Built Receives Contracts From the Department of Defense",
-      "claim": "The host says Built Incorporated receives funding from the Department of Defense through contracts.",
+      "claim": "The host says BILT Incorporated receives funding from the Department of Defense through contracts.",
       "anchored_artifacts": [
         "A-1920.1"
       ],
@@ -4585,7 +4585,7 @@
         "N-11399"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:45:16",
       "investigative_direction": "Read the RNC 2012 Rules (Rule 16 and the Rules Committee actions) and contemporaneous reporting.",

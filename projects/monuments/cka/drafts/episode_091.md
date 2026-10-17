@@ -532,7 +532,7 @@ Marx's biological father per the host; the transcript spells the first name Carl
 
 ---
 
-**N-729** Kenneth Brining
+**N-729** Kenneth Breining
 
 Eileen Marx's brother per the host; subject of the shooting attempt and trial claims.
 
@@ -540,7 +540,7 @@ Eileen Marx's brother per the host; subject of the shooting attempt and trial cl
 
 ---
 
-**N-916** Chaz Yandle
+**N-916** Chaz Yandall
 
 First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met Hall at the hotel and goes with Marx to Haiti. Spelling as transcribed.
 
@@ -1549,11 +1549,11 @@ Investigative Direction: Check Marx's testimony and the Calvary Chapel congregat
 
 ---
 
-**C-12848** Host Says Marx Married Eileen Brining in 1988 and They Have Five Kids
+**C-12848** Host Says Marx Married Eileen Breining in 1988 and They Have Five Kids
 
 Claim Timestamp: 00:15:12
 
-Claim: The host says Marx married Eileen (Brining) Marx in 1988 and that they went on to have five kids and grandkids.
+Claim: The host says Marx married Eileen (Breining) Marx in 1988 and that they went on to have five kids and grandkids.
 
 Transcript Snippet: 2 years later, in 1988, he married his wife, Eileen
 
@@ -1859,9 +1859,9 @@ Investigative Direction: Compare with the $2 million valuation Marx reportedly o
 
 Claim Timestamp: 00:31:39
 
-Claim: In the statement the host reads, Hall says Marx and his COO Chaz Yandle, who the host says goes with Marx to Haiti, met him at the hotel late at night wearing bulletproof vests.
+Claim: In the statement the host reads, Hall says Marx and his COO Chaz Yandall, who the host says goes with Marx to Haiti, met him at the hotel late at night wearing bulletproof vests.
 
-Transcript Snippet: Mr. Marx and his COO, Chaz Yandle, he goes with them with hate to Haiti, by the way, met me at the hotel. They were both wearing bulletproof vests.
+Transcript Snippet: Mr. Marx and his COO, Chaz Yandall, he goes with them with hate to Haiti, by the way, met me at the hotel. They were both wearing bulletproof vests.
 
 Anchored Artifacts: A-1958.1
 Mentions: N-343, N-342, N-916

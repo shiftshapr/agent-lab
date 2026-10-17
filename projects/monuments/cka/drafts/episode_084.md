@@ -1352,7 +1352,7 @@ Investigative Direction: Identify the author and source documents of the piece a
 
 Claim Timestamp: 00:49:00
 
-Claim: The host says she is working on an unverified tip that Frank Turek changed his schedule at the last second, cancelling an appointment in another state, and notes he was in Scottsdale on September 8 although he has said he goes there only once or twice a year.
+Claim: The host says she is working on an unverified tip that Frank Turek changed his schedule at the last second, cancelling an appointment in another state, and notes he was in Scottsdale on September 8, traveling with Charlie Kirk, although he has said he goes there only once or twice a year.
 
 Transcript Snippet: And I am working on a tip that somebody told me that Frank Turek changed his schedule.
 

@@ -2066,7 +2066,8 @@
       "Jon Bray",
       [
         120,
-        123
+        123,
+        78
       ]
     ],
     [
@@ -3025,7 +3026,8 @@
       "\\bSchaefer security\\b",
       "Shaffer security",
       [
-        57
+        57,
+        70
       ]
     ],
     [
@@ -3115,6 +3117,185 @@
     [
       "\\bY Refi\\b",
       "Yrefy"
+    ],
+    [
+      "\\bAazil\\b",
+      "Azazel",
+      [
+        69
+      ]
+    ],
+    [
+      "\\bAkhmed Qureshi\\b",
+      "Ahmed Qureshi"
+    ],
+    [
+      "\\bBuilt Incorporated\\b",
+      "BILT Incorporated",
+      [
+        87
+      ]
+    ],
+    [
+      "\\bCeCe Sheridan\\b",
+      "Stacy Sheridan",
+      [
+        81
+      ]
+    ],
+    [
+      "\\bChaz Yandle\\b",
+      "Chaz Yandall"
+    ],
+    [
+      "\\bEileen Brining Marx\\b",
+      "Eileen Breining Marx"
+    ],
+    [
+      "\\bKenneth Brining\\b",
+      "Kenneth Breining"
+    ],
+    [
+      "\\bEton Fishberger\\b",
+      "Eitan Fischberger"
+    ],
+    [
+      "\\bFrank Carney\\b",
+      "Frank Carni",
+      [
+        86
+      ]
+    ],
+    [
+      "\\bKatherine Low Castro\\b",
+      "Katherine Locastro"
+    ],
+    [
+      "\\bRY Reef air\\b",
+      "Yrefy",
+      [
+        82
+      ]
+    ],
+    [
+      "\\bwife Reef air CEO\\b",
+      "Yrefy CEO",
+      [
+        82
+      ]
+    ],
+    [
+      "\\bWyre\\b",
+      "Yrefy",
+      [
+        81
+      ]
+    ],
+    [
+      "\\bnaval surface force in Atlanta\\b",
+      "Naval Surface Force Atlantic",
+      [
+        82
+      ]
+    ],
+    [
+      "\\bKoreshi\\b",
+      "Qureshi",
+      [
+        85
+      ]
+    ],
+    [
+      "\\bAsheville\\b",
+      "Nashville",
+      [
+        98
+      ]
+    ],
+    [
+      "\\bBridge Partners\\b",
+      "Bridges Partners",
+      [
+        98
+      ]
+    ],
+    [
+      "\\bCranium Company\\b",
+      "Crain & Company"
+    ],
+    [
+      "\\bHavoc Media\\b",
+      "Havas Media"
+    ],
+    [
+      "\\bM-News\\b",
+      "MxM News",
+      [
+        99
+      ]
+    ],
+    [
+      "\\bthe Wi-Fi guy\\b",
+      "the Yrefy guy",
+      [
+        93
+      ]
+    ],
+    [
+      "\\bDOJ internal audit\\b",
+      "DOGE internal audit",
+      [
+        108
+      ]
+    ],
+    [
+      "\\bDan Merrill\\b",
+      "Dan Merrell"
+    ],
+    [
+      "\\bLoews E\\b",
+      "Losee",
+      [
+        117
+      ]
+    ],
+    [
+      "\\bMendenhall and McGee\\b",
+      "Mendenhall and Magee",
+      [
+        107
+      ]
+    ],
+    [
+      "\\bSarah Tool\\b",
+      "Sara Tewell",
+      [
+        120,
+        121,
+        122
+      ]
+    ],
+    [
+      "\\bSamantha Carner\\b",
+      "Samantha Karner"
+    ],
+    [
+      "\\bHigh Mount Capital\\b",
+      "Highmount Capital"
+    ],
+    [
+      "\\bLoews Center\\b",
+      "Losee Center",
+      [
+        120
+      ]
+    ],
+    [
+      "\\bNicole Rothchild\\b",
+      "Nicole Rothstein",
+      [
+        122
+      ]
     ]
   ]
 }

@@ -1653,7 +1653,7 @@
       "@id": "C-2560",
       "ref": "C-2560",
       "label": "Frank Turek Estimated Erika Kirk Arrived at Hospital Around 4:00 p.m.",
-      "claim": "Frank Turek, on his own podcast, stated Erika Kirk \"probably got there, I don't know, somewhere around 4:00 p.m. maybe\" to Timpanogos Hospital.",
+      "claim": "In a clip the host plays, Frank Turek says Erika Kirk \"probably got there, I don't know, somewhere around 4:00 p.m. maybe\" to the hospital (Timpanogos).",
       "anchored_artifacts": [
         "A-1895.1"
       ],
@@ -1672,7 +1672,7 @@
       "@type": "Claim",
       "@id": "C-2561",
       "ref": "C-2561",
-      "label": "Nick Searcy Confirmed Andrew Kolvet Livestream Was Authentic 9–10 a.m. Pacific",
+      "label": "Nick Shirley Confirmed Andrew Kolvet Livestream Was Authentic 9-10 a.m. Pacific",
       "claim": "The host says Nick Shirley confirmed to her that Andrew Kolvet's show was authentically live during the 9–10 a.m. Pacific block on September 10, 2025.",
       "anchored_artifacts": [
         "A-1898.1"
@@ -1786,7 +1786,7 @@
       "@type": "Claim",
       "@id": "C-2567",
       "ref": "C-2567",
-      "label": "Hopkinson Aircraft Employee Neither Confirmed nor Denied Seeing Erica on September 10",
+      "label": "Hopkinson Aircraft Employee Neither Confirmed nor Denied Seeing Erika on September 10",
       "claim": "The host says a Hopkinson Aircraft employee she spoke with would neither confirm nor deny seeing Erika Kirk at their offices on September 10, 2025.",
       "anchored_artifacts": [
         "A-1899.1"
@@ -1842,7 +1842,9 @@
       "investigative_direction": "Review Candace Owens's posts and public statements from September 10–11, 2025, for any direct attribution and naming.",
       "mentions_person_refs": [
         "N-3",
-        "N-213"
+        "N-213",
+        "N-1",
+        "N-2"
       ]
     },
     {
@@ -1870,7 +1872,7 @@
       "@id": "C-2571",
       "ref": "C-2571",
       "label": "Alexis Wilkins Thread Cites Russia Today Retweets as Evidence",
-      "claim": "The Alexis Wilkins thread cites Russia Today retweeting certain accounts as evidence of foreign coordination.",
+      "claim": "The Alexis Wilkins thread cites Russia Today's retweet of the narrative as evidence of foreign coordination.",
       "anchored_artifacts": [
         "A-1896.1"
       ],
@@ -1901,7 +1903,9 @@
       "investigative_direction": "Compare thread text to Candace's on-air and posted statements from September 10–11, 2025.",
       "mentions_person_refs": [
         "N-3",
-        "N-213"
+        "N-213",
+        "N-1",
+        "N-2"
       ]
     },
     {
@@ -2357,7 +2361,7 @@
       "@id": "C-12763",
       "ref": "C-12763",
       "label": "Host Says an Account Had Charlie Training Staff to Call Erika First, Yet Mikey Called His Wife First",
-      "claim": "The host says that, against an account from 'Frank' that Charlie trained people to call Erika first when anything happens, it turned out Mikey McCoy called his own wife first.",
+      "claim": "The host says that, against Frank Turek's account that Charlie trained him to call Erika first when anything happens, it turned out Mikey McCoy called his own wife first.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10193",
@@ -2377,6 +2381,7 @@
         "N-218",
         "N-2",
         "N-1",
+        "N-7",
         "N-3"
       ]
     },

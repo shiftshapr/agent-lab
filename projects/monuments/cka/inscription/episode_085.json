@@ -2124,6 +2124,23 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-411",
+      "ref": "N-411",
+      "name": "Zachariah Qureshi",
+      "type": "person",
+      "description": "First named in this episode, where the host says Kash Patel's 'we got him' announcement was about 'the Qureshi person' (intro moved from ep87, 2026-10-17). Aliases: Zachariah Qureshi.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14521"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 2,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -2718,7 +2735,7 @@
       "@id": "C-14453",
       "ref": "C-14453",
       "label": "Clip Played: Speaker Says a Message Came About 33 Minutes Before Kirk Was Killed",
-      "claim": "In a clip the host plays, an unnamed speaker says something happened about 33 minutes before Charlie Kirk was killed and says the shooting at UVU was followed by about a 33-hour manhunt.",
+      "claim": "In a clip montage the host plays, one speaker says something happened about 33 minutes before Charlie Kirk was killed, and a speaker says Kirk was assassinated at UVU and about a 33-hour manhunt followed.",
       "anchored_artifacts": [
         "A-3324.1"
       ],
@@ -2824,7 +2841,7 @@
       "@id": "C-14458",
       "ref": "C-14458",
       "label": "Host Says the Article Reports French Foreign Legion Involvement",
-      "claim": "The host says the article reports that the French Foreign Legion and the military were involved in murder for hire, although the passage she has just read names only DGSE officers, police officers and others and the next passage names a parachute regiment.",
+      "claim": "The host says the article reports that the French Foreign Legion and the military were involved in murder for hire, although the passage she has just read mentions soldiers and DGSE officers but not the Foreign Legion, and the next passage names a parachute regiment.",
       "anchored_artifacts": [
         "A-1903.1"
       ],
@@ -4257,8 +4274,8 @@
       "@type": "Claim",
       "@id": "C-14521",
       "ref": "C-14521",
-      "label": "Host Says Patel Announced a Suspect (the 'Koreshi' Person) That Sent Searchers on a Wild Goose Chase",
-      "claim": "The host says Kash Patel announced 'we got him' about a person transcribed as 'the Koreshi person', which made people stop looking and sent everybody on wild goose hunts, making him central to delaying everything that day.",
+      "label": "Host Says Patel Announced a Suspect (the 'Qureshi' Person) That Sent Searchers on a Wild Goose Chase",
+      "claim": "The host says Kash Patel announced 'we got him' about 'the Qureshi person', which made people stop looking and sent everybody on wild goose hunts, making him central to delaying everything that day.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10202"
@@ -4268,10 +4285,11 @@
       ],
       "claim_timestamp": "00:38:44",
       "investigative_direction": "Review Patel's posts on September 10-11, 2025 about an early detention and release, and the person involved.",
-      "transcript_snippet": "We got him. It was uh the Koreshi person. We got him. We got him. Making people stop looking, sending everybody on on wild goose hunts.",
+      "transcript_snippet": "We got him. It was uh the Qureshi person. We got him. We got him. Making people stop looking, sending everybody on on wild goose hunts.",
       "mentions_person_refs": [
         "N-69",
-        "N-3"
+        "N-3",
+        "N-411"
       ]
     },
     {
@@ -4800,7 +4818,8 @@
       "mentions_person_refs": [
         "N-22",
         "N-14",
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {

@@ -687,7 +687,7 @@ Investigative Direction: Obtain the unedited Aspen footage and statements from a
 
 Claim Timestamp: 00:13:55
 
-Claim: The host argues that her sources' account would imply Turning Point USA used AI tools to add a sentence Charlie Kirk never said handing the company to his wife; she calls this an implication, not a proven fact.
+Claim: The host argues that her sources' account would imply Turning Point USA used AI tools to add a sentence Charlie Kirk never said handing the company to his wife.
 
 Transcript Snippet: So, this would imply that Turning Point USA used AI tools to add a sentence that Charlie never said
 

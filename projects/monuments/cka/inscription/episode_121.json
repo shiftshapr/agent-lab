@@ -1170,7 +1170,7 @@
       "@type": "Organization",
       "@id": "N-11358",
       "ref": "N-11358",
-      "name": "High Mount Capital",
+      "name": "Highmount Capital",
       "type": "organization",
       "description": "Capital firm the host says the Daily Wire is turning to in order to raise money.",
       "related_artifacts": [],
@@ -1426,9 +1426,9 @@
       "@type": "Person",
       "@id": "N-732",
       "ref": "N-732",
-      "name": "Sarah Tool",
+      "name": "Sara Tewell",
       "type": "person",
-      "description": "Sarah Tool; witness who changed her story per the host.",
+      "description": "Sara Tewell; witness who changed her story per the host.",
       "related_artifacts": [],
       "related_claims": [
         "C-13105",
@@ -1598,7 +1598,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10677",
       "ref": "N-10677",
-      "name": "Sarah Tool Witness Statement Discrepancy",
+      "name": "Sara Tewell Witness Statement Discrepancy",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1912,7 +1912,7 @@
       "@id": "C-2946",
       "ref": "C-2946",
       "label": "Brian Harpole Says He Got on Top of Charlie in ER to Cut Shirt",
-      "claim": "Brian Harpole states in his account that he jumped on top of Charlie on a gurney in the ER and cut his white \"Freedom\" shirt off with scissors to enable defibrillator placement.",
+      "claim": "Brian Harpole states in his account that he got on top of Charlie on a gurney in the ER and cut his white \"Freedom\" shirt off to enable defibrillator placement.",
       "anchored_artifacts": [
         "A-2094.1"
       ],
@@ -2158,7 +2158,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:41:49–00:42:51",
-      "investigative_direction": "Obtain original Semafor article; verify any disclosed High Mount Capital relationship.",
+      "investigative_direction": "Obtain original Semafor article; verify any disclosed Highmount Capital relationship.",
       "mentions_person_refs": []
     },
     {
@@ -2572,7 +2572,7 @@
       "@id": "C-13066",
       "ref": "C-13066",
       "label": "Host Says Departure Footage Shows the Door Ajar",
-      "claim": "The host says that in footage of the SUV pulling out, the rear door can be seen ajar, which fits Harpole's statement that the door was not closed.",
+      "claim": "The host says that in footage of the SUV pulling out, the door can be seen ajar, which fits Harpole's statement that the door was not closed.",
       "anchored_artifacts": [
         "A-3246.1"
       ],
@@ -2692,7 +2692,7 @@
       "@id": "C-13071",
       "ref": "C-13071",
       "label": "Host Says CPR Is Impossible Across Two Captain Chairs",
-      "claim": "The host says Frank Turek's claim of attempting CPR is probably false, because Charlie lay across two captain chairs with his midsection unsupported and CPR requires a flat surface.",
+      "claim": "The host says Frank Turek's claim of attempting CPR is, according to Brian Harpole, a lie and that Turek is likely the one lying, because Charlie lay across two captain chairs with his midsection unsupported and CPR requires a flat surface.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10699",
@@ -3203,8 +3203,8 @@
       "@type": "Claim",
       "@id": "C-13094",
       "ref": "C-13094",
-      "label": "Host Says Daily Wire Is Turning to High Mount Capital After a Failed Private Equity Deal",
-      "claim": "The host says that, after the last private equity firm failed to rescue the Daily Wire, it is turning to High Mount Capital to raise money at a valuation she calls absurd.",
+      "label": "Host Says Daily Wire Is Turning to Highmount Capital After a Failed Private Equity Deal",
+      "claim": "The host says that, after the last private equity firm failed to rescue the Daily Wire, it is turning to Highmount Capital to raise money at a valuation she calls absurd.",
       "anchored_artifacts": [
         "A-2100.1"
       ],
@@ -3218,7 +3218,7 @@
       ],
       "claim_timestamp": "00:41:49",
       "investigative_direction": "Read the Semafor article for what it says about High Mount, the earlier firm and the valuation.",
-      "transcript_snippet": "they are now turning to High Mount Capital to try to help them raise money at a valuation that is so absurd",
+      "transcript_snippet": "they are now turning to Highmount Capital to try to help them raise money at a valuation that is so absurd",
       "mentions_person_refs": [
         "N-10689",
         "N-11358"
@@ -3444,8 +3444,8 @@
       "@type": "Claim",
       "@id": "C-13105",
       "ref": "C-13105",
-      "label": "Host Says Sarah Tool Changed Her Story Three Times",
-      "claim": "The host says Sarah Tool, a witness, changed her story three times and that she will cover it next episode.",
+      "label": "Host Says Sara Tewell Changed Her Story Three Times",
+      "claim": "The host says Sara Tewell, a witness, changed her story three times and that she will cover it next episode.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10677"
@@ -3455,7 +3455,7 @@
       ],
       "claim_timestamp": "00:51:57",
       "investigative_direction": "Compare Tool's three interviews.",
-      "transcript_snippet": "regarding the Tool witness, Sarah Tool, who changed her story three times.",
+      "transcript_snippet": "regarding the Tool witness, Sara Tewell, who changed her story three times.",
       "supports_claim_refs": [
         "C-2936",
         "C-2937",
@@ -3469,8 +3469,8 @@
       "@type": "Claim",
       "@id": "C-13106",
       "ref": "C-13106",
-      "label": "Host Says Sarah Tool Smiled the Whole Time",
-      "claim": "The host says Sarah Tool was smiling the whole time.",
+      "label": "Host Says Sara Tewell Smiled the Whole Time",
+      "claim": "The host says Sara Tewell was smiling the whole time.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10677"
@@ -3720,7 +3720,7 @@
       "@type": "Claim",
       "@id": "C-13118",
       "ref": "C-13118",
-      "label": "Host Asks Viewers to Email moretips Address",
+      "label": "Host Asks Viewers to Email the Tips Address",
       "claim": "The host asks viewers with information to email the tips address.",
       "anchored_artifacts": [
         "A-3245.1"
@@ -3796,8 +3796,8 @@
           "episode": 121,
           "video_timestamp": "00:51:57",
           "speaker_node_ref": "N-3",
-          "quote": "It's a rabbit hole regarding the Tool witness, Sarah Tool, who changed her story three times.",
-          "context": "Host frames the Sarah Tool inconsistencies as a rabbit hole for tomorrow.",
+          "quote": "It's a rabbit hole regarding the Tool witness, Sara Tewell, who changed her story three times.",
+          "context": "Host frames the Sara Tewell inconsistencies as a rabbit hole for tomorrow.",
           "confidence": "high",
           "tags": [
             "rabbit hole"

@@ -339,7 +339,7 @@
       "ref": "N-10571",
       "name": "July 14, 2025 Long Beach Flight",
       "type": "investigation_target",
-      "description": "Investigation target referenced by host as a \"crucial date\" tied to a flight involving Erika Kirk, Katherine Low Castro, Derek Niekerk, and Jonathan Barcelo to Long Beach; viewer email adds geographic context via proximity to Los Alamitos Joint Forces Air Base.",
+      "description": "Investigation target referenced by host as a \"crucial date\" tied to a flight involving Erika Kirk, Katherine Locastro, Derek Niekerk, and Jonathan Barcelo to Long Beach; viewer email adds geographic context via proximity to Los Alamitos Joint Forces Air Base.",
       "related_artifacts": [
         "A-1915.1"
       ],
@@ -702,7 +702,7 @@
       "ref": "N-600",
       "name": "Katherine Locastro",
       "type": "person",
-      "description": "Katherine Locastro (transcribed Katherine Low Castro); named as a passenger on Erika's July 14 flight.",
+      "description": "Katherine Locastro (transcribed Katherine Locastro); named as a passenger on Erika's July 14 flight.",
       "related_artifacts": [],
       "related_claims": [
         "C-10346"
@@ -1281,7 +1281,7 @@
       "@type": "Person",
       "@id": "N-862",
       "ref": "N-862",
-      "name": "Frank Carney",
+      "name": "Frank Carni",
       "type": "person",
       "description": "First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, with Justin Streiff, was on the phone with the FBI about the back footage, per the host.",
       "related_artifacts": [],
@@ -1580,7 +1580,9 @@
       "claim_timestamp": "00:59:52",
       "investigative_direction": "Compare timing against typical trauma-team workflow; obtain official timeline from hospital.",
       "mentions_person_refs": [
-        "N-7"
+        "N-7",
+        "N-2",
+        "N-3"
       ]
     },
     {
@@ -1619,7 +1621,10 @@
       "claim_timestamp": "00:09:57",
       "investigative_direction": "Obtain forensic pathology review of any surgeon communications; verify whether such a quote was ever formally attested.",
       "mentions_person_refs": [
-        "N-14"
+        "N-14",
+        "N-2",
+        "N-1",
+        "N-3"
       ]
     },
     {
@@ -1908,8 +1913,8 @@
       "@type": "Claim",
       "@id": "C-10311",
       "ref": "C-10311",
-      "label": "Host says the FBI was on the phone with Streiff and Frank Carney about the back footage",
-      "claim": "The host says she learned that the FBI was on the phone with Justin Streiff and Frank Carney that day and that they were apparently discussing with the feds whether she had recorded the footage.",
+      "label": "Host Says the FBI Was on the Phone With Streiff and Frank Carni About the Back Footage",
+      "claim": "The host says she learned that the FBI was on the phone with Justin Streiff and Frank Carni that day and that they were apparently discussing with the feds whether she had recorded the footage.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10014",
@@ -1920,7 +1925,7 @@
       ],
       "claim_timestamp": "00:08:17",
       "investigative_direction": "Identify the host's source for this account and request FBI contact logs with TPUSA leadership for September 20, 2025.",
-      "transcript_snippet": "The FBI was on the phone with Justin Streiff, Frank Carney, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.",
+      "transcript_snippet": "The FBI was on the phone with Justin Streiff, Frank Carni, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.",
       "mentions_person_refs": [
         "N-15",
         "N-862"
@@ -1966,7 +1971,8 @@
       "mentions_person_refs": [
         "N-2",
         "N-14",
-        "N-196"
+        "N-196",
+        "N-1"
       ]
     },
     {
@@ -2440,7 +2446,7 @@
       "@id": "C-10335",
       "ref": "C-10335",
       "label": "Filing says the state will not offer the ATF report but the defense may call the analyst",
-      "claim": "The host reads the filing as saying the ATF summary report found the autopsy bullet could not be identified to the rifle, that the state has not indicated it will produce the report at the hearing, and that the defense may call the ATF analyst as exculpatory evidence.",
+      "claim": "The host reads the filing as saying the ATF summary report found the autopsy bullet could not be identified to the rifle allegedly tied to Robinson, that the state has not indicated it will produce the report at the hearing, and that the defense may call the ATF analyst as exculpatory evidence.",
       "anchored_artifacts": [
         "A-1912.1"
       ],
@@ -2679,7 +2685,7 @@
       "@id": "C-10346",
       "ref": "C-10346",
       "label": "Host Says Erika Flew to Long Beach on July 14 with Locastro, Niekerk and Barcelo",
-      "claim": "The host says Erika's July 14 flight was taken with Katherine Low Castro, Derek Niekerk and Jonathan Barcelo, and that it goes to Long Beach.",
+      "claim": "The host says Erika's July 14 flight was taken with Katherine Locastro, Derek Niekerk and Jonathan Barcelo, and that it goes to Long Beach.",
       "anchored_artifacts": [
         "A-1915.1"
       ],
@@ -2691,7 +2697,7 @@
       ],
       "claim_timestamp": "00:50:51",
       "investigative_direction": "Obtain the flight manifest or FAA flight tracking record for July 14, 2025.",
-      "transcript_snippet": "And that flight is she took with Katherine Low Castro and Derek Niekerk and Jonathan Barcelo.",
+      "transcript_snippet": "And that flight is she took with Katherine Locastro and Derek Niekerk and Jonathan Barcelo.",
       "mentions_person_refs": [
         "N-2",
         "N-600",
@@ -2789,8 +2795,8 @@
       "@type": "Claim",
       "@id": "C-10351",
       "ref": "C-10351",
-      "label": "Host relays that Turek said Kirk was dead within 30 minutes and asked to talk to Erika",
-      "claim": "The host relays her producer Ashley's point that Frank Turek's next sentence was that Charlie was dead and he needed to talk to Erika, about 30 minutes after Charlie was rushed to the hospital, and Ashley's question of how he knew Erika was his wife's name.",
+      "label": "Host Relays Producer's Question of How the Surgeon Knew Erika's Name",
+      "claim": "The host relays her producer Ashley's point that, in Frank Turek's telling, the surgeon's next sentence was 'He's dead. I need to talk to Erika,' about 30 minutes after Charlie was rushed to the hospital, and Ashley's question of how the surgeon knew Erika was Charlie's wife's name.",
       "anchored_artifacts": [
         "A-1916.1"
       ],

@@ -1984,8 +1984,8 @@
       "@type": "Claim",
       "@id": "C-8654",
       "ref": "C-8654",
-      "label": "Host Says Alex Jones Had Trump on When No Media Company Would",
-      "claim": "The host says that when no media company would have Trump on, Alex Jones had him on his show.",
+      "label": "Read Reply Says Alex Jones Had Trump on When No Media Company Would",
+      "claim": "A Truth Social reply the host reads says that when no media company would have Trump on, Alex Jones had him on his show.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2308,7 +2308,7 @@
         "N-10588"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:31:16",
       "investigative_direction": "Reconcile the host's date of May with the public July 13, 2024 rally date.",
@@ -2352,7 +2352,7 @@
         "N-10588"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:32:11",
       "investigative_direction": "This is the host's speculation and characterization; no evidence is offered that the remark reached the Adelsons.",
@@ -2497,7 +2497,7 @@
       "@type": "Claim",
       "@id": "C-8676",
       "ref": "C-8676",
-      "label": "Speaker Says Trump Reversed on Phosphorus and Monsanto Because Israel Needed It for Lebanon",
+      "label": "Host Says Trump Reversed on Phosphorus and Monsanto Because Israel Needed It for Lebanon",
       "claim": "The host says Trump went back on phosphorus and Monsanto, and that this was because Israel needed it to poison people in Lebanon.",
       "anchored_artifacts": [],
       "related_nodes": [

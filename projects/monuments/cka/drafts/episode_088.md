@@ -44,7 +44,7 @@ Confidence Level: Medium
 
 *Related: C-2654, N-10585*
 
-**A-1927.2** Reference attributing Navy O-6 reserve status to Akhmed Qureshi (via Baron Coleman)
+**A-1927.2** Reference attributing Navy O-6 reserve status to Ahmed Qureshi (via Baron Coleman)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -64,7 +64,7 @@ Confidence Level: Medium
 
 *Related: N-10585*
 
-**A-1927.4** "Built" app description attributed to Akhmed Qureshi (co-founded), described as capable of 3D mission-prep visual walk-throughs
+**A-1927.4** "Built" app description attributed to Ahmed Qureshi (co-founded), described as capable of 3D mission-prep visual walk-throughs
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -535,7 +535,7 @@ Zachariah Qureshi (Qureshi); detained decoy boy number two.
 
 **N-412** Ahmed Qureshi
 
-Akhmed Qureshi (Ahmed Qureshi); father of Zachariah and co-founder of the Built app.
+Ahmed Qureshi (Ahmed Qureshi); father of Zachariah and co-founder of the Built app.
 
 *Related: C-8564, C-8566*
 
@@ -949,11 +949,11 @@ Anchored Artifacts: A-1927.1
 Related Nodes: N-10585
 Investigative Direction: Preserve and verify Tour Qureshi's LinkedIn profile (or cached version); confirm the Fort Huachuca training and reconnaissance-drone qualification claims against public records.
 
-**C-2655** "Built" app co-founded by Akhmed Qureshi has 3D mission-prep visualization capability
+**C-2655** "BILT" app co-founded by Ahmed Qureshi has 3D mission-prep visualization capability
 
 Claim Timestamp: 00:01:20–00:03:02
 
-Claim: The "Built" app co-founded by Akhmed Qureshi is reported to have the capability to produce 3D visual walk-throughs usable for mission planning.
+Claim: The "BILT" app co-founded by Ahmed Qureshi is reported to have the capability to produce 3D visual walk-throughs usable for mission planning.
 
 Anchored Artifacts: A-1927.4
 Mentions: N-412
@@ -964,7 +964,7 @@ Investigative Direction: Verify the app's described functionality via app store 
 
 Claim Timestamp: 00:11:11–00:11:54
 
-Claim: TPUSA used only the audio (not video) of the alleged Aspen donor event statement as Erika Kirk's walkout music at AmFest.
+Claim: The host says TPUSA used only the audio (not video) of the alleged Aspen donor event statement as Erika Kirk's walkout music at AmFest.
 
 Anchored Artifacts: A-1928.2
 Mentions: N-2
@@ -1041,7 +1041,7 @@ Investigative Direction: Verify the question asked and Erika's full answer; cros
 
 Claim Timestamp: 00:34:02–00:35:00
 
-Claim: Erika Kirk posted an Instagram video of her mother appearing frail and sick on September 8, 2025, two days before Charlie's death.
+Claim: The host says Erika Kirk posted an Instagram video of her mother looking tremendously frail and sick on September 8, 2025, two days before Charlie was shot.
 
 Anchored Artifacts: A-1934.1
 Mentions: N-2, N-1
@@ -1133,7 +1133,7 @@ Anchored Artifacts: A-1927.2
 Mentions: N-331, N-412, N-411, N-3
 Related Nodes: N-10585
 Tags: relevance:core
-Investigative Direction: Check Navy Reserve officer listings and any public biography of Akhmed Qureshi for rank and unit.
+Investigative Direction: Check Navy Reserve officer listings and any public biography of Ahmed Qureshi for rank and unit.
 
 ---
 
@@ -1153,11 +1153,11 @@ Investigative Direction: Obtain Mitch Snow's account in his own words and any ba
 
 ---
 
-**C-8566** Host Says the Built App Could Show Which Hospital Door to Use but She Cannot Say It Was Used That Way
+**C-8566** Host Says the BILT App Could Show Which Hospital Door to Use but She Cannot Say It Was Used That Way
 
 Claim Timestamp: 00:01:20
 
-Claim: The host says the Built app could let a user see in advance where Charlie would sit and which door at Timpanogos Hospital he would be taken through, but states she cannot say that is what it was used for.
+Claim: The host says the BILT app could let a user see in advance where Charlie would sit and which door at Timpanogos Hospital he would be taken through, but states she cannot say that is what it was used for.
 
 Transcript Snippet: which door you were going to go through at Timpanogos if you were prepping for a mission.
 
@@ -2199,7 +2199,7 @@ Investigative Direction: Identify the donor and obtain her recollection.
 
 Claim Timestamp: 00:57:45
 
-Claim: The host says attendees recalled Charlie answering by saying something about Steve Jobs and hiring lieutenants he trusts to run departments, not about who would succeed him.
+Claim: The host says attendees recalled Charlie answering by saying something about Steve Jobs and hiring lieutenants he trusts to take control of different departments, and that it is not just him.
 
 Transcript Snippet: To which he then said something about Steve Jobs and how these people hire lieutenants who they trust.
 

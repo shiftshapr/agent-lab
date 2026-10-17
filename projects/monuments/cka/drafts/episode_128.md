@@ -2700,7 +2700,7 @@ Transcript Snippet: Today I say it keeps coming back to the Mormons and the web 
 Anchored Artifacts: A-3344.2
 Mentions: N-11, N-3
 Related Nodes: N-10249
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Check public records on the Bowyer family's religious affiliation and organizations, and whether this matters to the case.
 
 ---

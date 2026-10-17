@@ -1,0 +1,775 @@
+[
+ {
+  "claim": "C-8997",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8998",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8999",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9000",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9001",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9002",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9003",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9004",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9005",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9006",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3042",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Testimony never names Axon; 'Axon Body Cam 4' comes only from the viewer email read afterwards ('We use the same body camera that the Utah City Police use').",
+  "fix": {
+   "claim": "Officer Bagley testified that his body-cam footage, which the examiner described as 27 minutes and 35 seconds long, ended while he was still on the Losee Center roof, and said \"I think his battery went dead.\""
+  }
+ },
+ {
+  "claim": "C-3043",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3044",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3045",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3046",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3047",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3048",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3049",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Amanda Baker is a mis-transcription of FBI DNA analyst Amanda Bakker (node N-779 already corrected, transcript_name_corrections.json ep127).",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Amanda Baker",
+     "right": "Amanda Bakker",
+     "source": "https://www.eastidahonews.com/2026/07/live-updates-surveillance-video-of-tyler-robinson-visiting-uvu-campus-played-on-day-2-of-preliminary-hearing/"
+    }
+   ],
+   "claim": "FBI agent Amanda Bakker testified that the backpack (exhibit 9) was determined to be \"potentially left behind by a bystander\" and that no DNA comparisons were needed at that time.",
+   "label": "FBI agent Amanda Bakker testified backpack was determined to be potentially left by a bystander"
+  }
+ },
+ {
+  "claim": "C-3050",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Amanda Baker is a mis-transcription of FBI DNA analyst Amanda Bakker (node N-779 already corrected, transcript_name_corrections.json ep127).",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Amanda Baker",
+     "right": "Amanda Bakker",
+     "source": "https://www.eastidahonews.com/2026/07/live-updates-surveillance-video-of-tyler-robinson-visiting-uvu-campus-played-on-day-2-of-preliminary-hearing/"
+    }
+   ],
+   "claim": "FBI agent Amanda Bakker testified, when confronted with lab notes stating the backpack \"belongs to Kirk's detailees,\" that this language was not from her communication log and that it was information another individual within the laboratory received.",
+   "label": "Amanda Bakker testified lab notes attributed backpack to Kirk's detail via another lab employee's communication"
+  }
+ },
+ {
+  "claim": "C-3051",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Amanda Baker is a mis-transcription of FBI DNA analyst Amanda Bakker (node N-779 already corrected, transcript_name_corrections.json ep127).",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Amanda Baker",
+     "right": "Amanda Bakker",
+     "source": "https://www.eastidahonews.com/2026/07/live-updates-surveillance-video-of-tyler-robinson-visiting-uvu-campus-played-on-day-2-of-preliminary-hearing/"
+    }
+   ],
+   "claim": "The host says Sergeant Faumuina does not remember communicating the \"not probative\" decision and that Bakker says someone else in the lab added the \"Kirk's detail\" note, asks who that person is, and says the items should have been tested."
+  }
+ },
+ {
+  "claim": "C-3052",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3053",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3054",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3055",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3056",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3057",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7280",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7281",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7282",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7283",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7284",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7285",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7286",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7287",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7288",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7289",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7290",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7291",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7292",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7293",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7294",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7295",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7296",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: SLED (host likely said 'SBI'; at 22:10 she says 'the FBI and the SBI'). Claim otherwise matches.",
+  "fix": {}
+ },
+ {
+  "claim": "C-7297",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7298",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Amanda Baker is a mis-transcription of FBI DNA analyst Amanda Bakker (node N-779 already corrected, transcript_name_corrections.json ep127).",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Amanda Baker",
+     "right": "Amanda Bakker",
+     "source": "https://www.eastidahonews.com/2026/07/live-updates-surveillance-video-of-tyler-robinson-visiting-uvu-campus-played-on-day-2-of-preliminary-hearing/"
+    }
+   ],
+   "claim": "FBI agent Amanda Bakker testified that initially there was no information from investigators, so the items, which are good for DNA, were processed for DNA.",
+   "label": "Bakker Testified the Items Were Initially Processed for DNA"
+  }
+ },
+ {
+  "claim": "C-7299",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Amanda Baker is a mis-transcription of FBI DNA analyst Amanda Bakker (node N-779 already corrected, transcript_name_corrections.json ep127).",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Amanda Baker",
+     "right": "Amanda Bakker",
+     "source": "https://www.eastidahonews.com/2026/07/live-updates-surveillance-video-of-tyler-robinson-visiting-uvu-campus-played-on-day-2-of-preliminary-hearing/"
+    }
+   ],
+   "claim": "The host says Bakker asserted that they initially thought the items were abandoned by the rooftop shooter, which the host takes to mean they were found along the route he took.",
+   "label": "Host Says Bakker Also Said the Items Were First Thought Abandoned by the Shooter"
+  }
+ },
+ {
+  "claim": "C-7300",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7301",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7302",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7303",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7304",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Duplicated '(Turek)' after 'Frank Turek' is a wording slip; transcript: 'whether it was Brian Harpole, Frank Turek, nobody wants to take credits for calling 911.'",
+  "fix": {
+   "claim": "The host says that although Brian Harpole and Frank Turek loved telling the story over and over, nobody wants to take credit for calling 911."
+  }
+ },
+ {
+  "claim": "C-7305",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7306",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7307",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7308",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7309",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7310",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7311",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7312",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7313",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

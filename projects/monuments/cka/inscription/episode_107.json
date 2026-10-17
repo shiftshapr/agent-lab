@@ -1230,7 +1230,7 @@
       "@type": "Person",
       "@id": "N-729",
       "ref": "N-729",
-      "name": "Kenneth Brining",
+      "name": "Kenneth Breining",
       "type": "person",
       "description": "First named by the host at 00:05:19 in episode 107. Described as Eileen Marx's brother who tried to shoot Victor Marx in 2023 and later killed his girlfriend.",
       "related_artifacts": [],
@@ -1505,7 +1505,7 @@
       "@id": "C-3706",
       "ref": "C-3706",
       "label": "Victor Marx's daughter publicly alleged paternal abuse",
-      "claim": "Episode quotes Victor Marx's daughter stating on social media that she experienced abuse at her father's hands for many years; later recanted under alleged pressure.",
+      "claim": "Episode quotes Victor Marx's daughter stating on social media that she experienced abuse at her father's hands for many years; the host says she later recanted many of the allegations, which friends who emailed the show attribute to financial pressure, a claim the host says she cannot confirm.",
       "anchored_artifacts": [
         "A-2508.1"
       ],
@@ -1941,8 +1941,8 @@
       "@type": "Claim",
       "@id": "C-5677",
       "ref": "C-5677",
-      "label": "Marx married Eileen Brining Marx at 23 and has five children",
-      "claim": "The host says Marx married Eileen Brining Marx at age 23 and that they went on to have five children and grandchildren.",
+      "label": "Marx married Eileen Breining Marx at 23 and has five children",
+      "claim": "The host says Marx married Eileen Breining Marx at age 23 and that they went on to have five children and grandchildren.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10785"
@@ -1950,7 +1950,7 @@
       "tags": [],
       "claim_timestamp": "00:04:19",
       "investigative_direction": "Check marriage records and Marx's published biography.",
-      "transcript_snippet": "At 23, Victor married his wife Eileen, Eileen Brining Marx, and they went on to have five kids and grandkids.",
+      "transcript_snippet": "At 23, Victor married his wife Eileen, Eileen Breining Marx, and they went on to have five kids and grandkids.",
       "mentions_person_refs": [
         "N-342",
         "N-344"
@@ -1978,14 +1978,14 @@
       "@type": "Claim",
       "@id": "C-5679",
       "ref": "C-5679",
-      "label": "Eileen's brother Kenneth Brining tried to shoot Marx in 2023",
-      "claim": "The host says that in 2023 Eileen's brother, Kenneth Brining, tried to shoot Victor Marx on Marx's property and that Marx survived.",
+      "label": "Eileen's brother Kenneth Breining tried to shoot Marx in 2023",
+      "claim": "The host says that in 2023 Eileen's brother, Kenneth Breining, tried to shoot Victor Marx on Marx's property and that Marx survived.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:05:19",
       "investigative_direction": "Obtain the sheriff's incident report and court file for the 2023 shooting.",
-      "transcript_snippet": "In 2023, Eileen's brother, Kenneth Brining, tried to shoot Victor Marx on Victor's property.",
+      "transcript_snippet": "In 2023, Eileen's brother, Kenneth Breining, tried to shoot Victor Marx on Victor's property.",
       "mentions_person_refs": [
         "N-729",
         "N-344",
@@ -1996,13 +1996,13 @@
       "@type": "Claim",
       "@id": "C-5680",
       "ref": "C-5680",
-      "label": "Kenneth Brining later killed his own girlfriend",
+      "label": "Kenneth Breining later killed his own girlfriend",
       "claim": "The host says Eileen's brother would go on to kill his own girlfriend.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:05:19",
-      "investigative_direction": "Obtain the homicide case record naming Kenneth Brining and the victim.",
+      "investigative_direction": "Obtain the homicide case record naming Kenneth Breining and the victim.",
       "transcript_snippet": "but Eileen's brother would go on to kill his own girlfriend.",
       "mentions_person_refs": [
         "N-729",
@@ -2772,8 +2772,8 @@
       "@type": "Claim",
       "@id": "C-5717",
       "ref": "C-5717",
-      "label": "Marx says he was brought to the site at night near Mendenhall or McGee in Simpson County, Mississippi",
-      "claim": "Victor Marx says he was brought there at night at age 7 lying in the back of a car and that the location was in one of two towns, Mendenhall or McGee, in Simpson County, Mississippi, and invites the host to contact the Sheriff's Department.",
+      "label": "Marx Says He Was Brought to the Site at Night Near Mendenhall or Magee in Simpson County, Mississippi",
+      "claim": "Victor Marx says he was brought there at night at age 7 lying in the back of a car and that the location was in one of two towns, Mendenhall or Magee, in Simpson County, Mississippi, and invites the host to contact the Sheriff's Department.",
       "anchored_artifacts": [
         "A-2510.1"
       ],
@@ -2783,7 +2783,7 @@
       "tags": [],
       "claim_timestamp": "00:34:21",
       "investigative_direction": "Contact the Simpson County Sheriff's Department about any call or report from Marx and any missing-person cases.",
-      "transcript_snippet": "Uh there were two towns or sister towns, Mendenhall and McGee. It was in one of those. Yeah, in Simpson County, Mississippi.",
+      "transcript_snippet": "Uh there were two towns or sister towns, Mendenhall and Magee. It was in one of those. Yeah, in Simpson County, Mississippi.",
       "mentions_person_refs": [
         "N-342"
       ]
@@ -3325,8 +3325,8 @@
       "@type": "Claim",
       "@id": "C-5742",
       "ref": "C-5742",
-      "label": "Marx says his Marine Corps time was served on the President Reagan",
-      "claim": "Victor Marx says his time in the Marine Corps was served on the President Reagan.",
+      "label": "Marx Says He Served in the Marine Corps Under President Reagan",
+      "claim": "Victor Marx says he served in the Marine Corps under President Reagan.",
       "anchored_artifacts": [
         "A-2510.1"
       ],

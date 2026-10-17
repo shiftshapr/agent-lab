@@ -1043,7 +1043,7 @@ Claim: The host says she has it on authority that Corey Comperatore's widow and 
 Transcript Snippet: The widow of Corey Comparator and the family of Cory Comparator is not like Trump. They are not satisfied with the investigation.
 
 Anchored Artifacts:
-Mentions: N-105, N-5
+Mentions: N-105
 Related Nodes: N-10588
 Investigative Direction: Seek public statements from Corey Comperatore's widow or the family's representatives.
 

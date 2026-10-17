@@ -889,7 +889,7 @@ The host's claim that Erika Kirk invited influencers into the courtroom at Tyler
 
 Claim Timestamp: 00:04:35
 
-Claim: Per a New York Times article the host shows, the Stern gang of Zionist terrorists attempted to assassinate President Truman by letter bomb in 1947, according to Margaret Truman Daniel's biography, which describes cream-colored envelopes rigged with powdered gelatin, a pencil battery, and a detonator.
+Claim: Per a New York Times article the host shows, the Stern gang of Zionist terrorists attempted to assassinate President Truman by letter bomb in 1947, according to Margaret Truman Daniel's biography, which describes cream-colored envelopes rigged with powdered gelignite, a pencil battery, and a detonator.
 
 Anchored Artifacts: A-2171.1
 Related Nodes:
@@ -911,7 +911,7 @@ Investigative Direction: Verify against the cited Wikipedia revision history and
 
 Claim Timestamp: 00:14:54
 
-Claim: Per a 1976 Time magazine article titled "The Keepers of the King" the host shows, six Mormon aides recruited by the Summa Corporation, with Bill Gay himself attending Howard Hughes day and night in 8-hour shifts, were paid up to $110,000 a year each, decided which messages reached him, censored his reading matter, and controlled him and his public image.
+Claim: Per a 1976 Time magazine article titled "The Keepers of the King" the host shows, six Mormon aides recruited by the Summa Corporation and Bill Gay, himself a Mormon, attended Howard Hughes day and night in 8-hour shifts, were paid up to $110,000 a year each, decided which messages reached him and censored his reading matter; the host says in short they controlled him and his public image.
 
 Anchored Artifacts: A-2173.1
 Mentions: N-744, N-745

@@ -94,7 +94,7 @@ Now, in case you're wondering what happened to the body of that guy, uh Victor s
 
 [15:12]
 
-Is that a fair assessment? Right? Kids, you you grow up, you see what your parents do, you might learn a thing or two. Well, I'll tell you what happens next. At the age of 18, Victor joined the Marine Corps. To be clear, he only served for 2 years during peacetime, stateside, no deployments, before he was discharged. But this is a crucial period, because that is when he says he found Jesus Christ, and um he was stationed at Camp Pendleton in California and began attending the nearby Calvary Chapel. Honestly, my personal favorite church at this point. That happened in 1986. 2 years later, in 1988, he married his wife, Eileen, who you just saw Erika hugging. Eileen Brining Marx or Brining Marx. And they would go on to have five kids and grandkids.
+Is that a fair assessment? Right? Kids, you you grow up, you see what your parents do, you might learn a thing or two. Well, I'll tell you what happens next. At the age of 18, Victor joined the Marine Corps. To be clear, he only served for 2 years during peacetime, stateside, no deployments, before he was discharged. But this is a crucial period, because that is when he says he found Jesus Christ, and um he was stationed at Camp Pendleton in California and began attending the nearby Calvary Chapel. Honestly, my personal favorite church at this point. That happened in 1986. 2 years later, in 1988, he married his wife, Eileen, who you just saw Erika hugging. Eileen Breining Marx or Brining Marx. And they would go on to have five kids and grandkids.
 
 [16:01]
 
@@ -158,7 +158,7 @@ Yet, when he offered an interview, Marx and his team quickly accepted. He's trul
 
 [31:39]
 
-So, those were pretty simple uh two conditions that they had. He tells [snorts] us that as the stress of this had built up on my wife and I, I drove to Mr. Marx's house to discuss both personal and business-related matters. When I arrived late at night, Mr. Marx and his COO, Chaz Yandle, he goes with them with hate to Haiti, by the way, met me at the hotel. They were both wearing bulletproof vests. We sat down in the dining area, and Mr. Marx stated that he intended to perform another retooling prayer on me. I politely rejected his offer, advising him that it would be akin to me making an idol of him. As continually seeking deliverance from man is man worship. He appeared to respect my rejection, although later, he would reveal his underlying reaction.
+So, those were pretty simple uh two conditions that they had. He tells [snorts] us that as the stress of this had built up on my wife and I, I drove to Mr. Marx's house to discuss both personal and business-related matters. When I arrived late at night, Mr. Marx and his COO, Chaz Yandall, he goes with them with hate to Haiti, by the way, met me at the hotel. They were both wearing bulletproof vests. We sat down in the dining area, and Mr. Marx stated that he intended to perform another retooling prayer on me. I politely rejected his offer, advising him that it would be akin to me making an idol of him. As continually seeking deliverance from man is man worship. He appeared to respect my rejection, although later, he would reveal his underlying reaction.
 
 [32:24]
 

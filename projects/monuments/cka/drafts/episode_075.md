@@ -898,7 +898,7 @@ Investigative Direction: Obtain full clip with date; cross-check whether Charlie
 
 Claim Timestamp: 00:20:50
 
-Claim: Frank Turek stated on camera on October 7 that he "used to say to him the ticket in 2028 is going to be Vance Kirk" and that "between you and me and our listeners, I'm not giving up on the Vance Kirk ticket," and that "Erika would be an amazing president someday."
+Claim: In a clip the host says is from October 7, Frank Turek says he "used to say to him the ticket in 2028 is going to be Vance Kirk" and that "between you and me and our listeners, I'm not giving up on the Vance Kirk ticket," and that "Erika would be an amazing president someday."
 
 Anchored Artifacts: A-2441.1
 Mentions: N-7, N-2, N-4, N-1
@@ -2054,7 +2054,7 @@ Investigative Direction: Check the shipment headline's date and publication agai
 
 Claim Timestamp: 00:38:28
 
-Claim: The host says her best guess for the real reason Trump is obsessed with acquiring Greenland is that it has untapped crude oil, an estimated 31 billion barrels, which she says would help Israel.
+Claim: The host says her best guess is that at least part of the real reason Trump is obsessed with acquiring Greenland is that it has untapped crude oil, an estimated 31 billion barrels, which she says would help Israel.
 
 Transcript Snippet: the real reason why Trump is obsessed with acquiring Greenland. Because they do have untapped crude oil, an estimated 31 billion barrels worth.
 

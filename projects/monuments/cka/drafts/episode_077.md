@@ -798,7 +798,7 @@ Investigative Direction: Locate original bio on archived real-estate listings or
 
 Claim Timestamp: 00:15:31
 
-Claim: The host says she found, on a third-party site, a relic record of a New York real-estate license attributed to Erika Kirk (License #10401322765), issued October 24, 2018, valid through at least 2020.
+Claim: The host says she found, on a third-party site, a relic record of a New York real-estate license attributed to Erika Kirk (License #10401322765), which she infers was issued October 24, 2018, and valid at least until 2020.
 
 Anchored Artifacts: A-1825.1
 Mentions: N-2
@@ -1694,7 +1694,7 @@ Investigative Direction: Check the Arizona MVD specialty plate list for those pl
 
 Claim Timestamp: 00:35:23
 
-Claim: In the clip Jake Hoffman says Katie Hobbs used the acronym of the Nominations Committee he chaired as her reason for vetoing one of his bills last year.
+Claim: In the clip Jake Hoffman says Katie Hobbs vetoed about nine of his bills last year and used the acronym of the Nominations Committee he chaired as her reason for the veto.
 
 Transcript Snippet: she used the acronym of the committee as her reason for the veto.
 
@@ -1726,7 +1726,7 @@ Investigative Direction: Determine the intended fund recipient from the bill's f
 
 Claim Timestamp: 00:37:32
 
-Claim: Speaking in a sarcastic voice for Turning Point's messaging, the host says TPUSA took down all of Charlie's episodes and hides interviews of things he said.
+Claim: Speaking in a sarcastic voice for Turning Point's messaging, the host says TPUSA's attitude is that it has to take down all of Charlie's episodes and hide interviews of things he said.
 
 Transcript Snippet: We got to take down all of his episodes. We have to make sure we hide interviews of things he said.
 

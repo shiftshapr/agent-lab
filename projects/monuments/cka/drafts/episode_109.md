@@ -986,7 +986,7 @@ Claim: According to the host's reading of Cuccia's thread, the approach "worked 
 Transcript Snippet: I mean, it worked out for them and Nick Shirley Pause. Nick Shirley, the guy who infiltrated the favela in 48 hours flat.
 
 Anchored Artifacts: A-2612.2
-Mentions: N-214
+Mentions: N-642, N-214
 Related Nodes: N-10666
 Investigative Direction: The full Cuccia thread text and any VFT documents referencing Nick Shirley.
 
@@ -1016,7 +1016,7 @@ Claim: According to Cuccia's thread, VFT reports monitor major conservative and 
 Transcript Snippet: The reports include information regarding Nick Fuentes, the Hodge Twins, Candace Owens, Tucker Carlson, Jackson Hinkle, Ian Carroll, and Mario Nawfal, just to name a few.
 
 Anchored Artifacts: A-2612.2
-Mentions: N-202, N-318, N-3, N-22, N-645, N-130, N-646
+Mentions: N-642, N-202, N-318, N-3, N-22, N-645, N-130, N-646
 Related Nodes: N-10946
 Investigative Direction: The VFT reports in the Dropbox folders and their stated methodology.
 
@@ -1031,7 +1031,7 @@ Claim: According to Cuccia's thread, VFT also collected polling and response dat
 Transcript Snippet: They also collected polling and response data surrounding Joe Kent's resignation from the administration.
 
 Anchored Artifacts: A-2612.2
-Mentions: N-210
+Mentions: N-642, N-210
 Related Nodes: N-10946, N-10546
 Investigative Direction: The Joe Kent polling file in the VFT Dropbox and the polling vendor.
 
@@ -1046,7 +1046,7 @@ Claim: According to Cuccia's thread, one VFT report argues that distrust surroun
 Transcript Snippet: In another report, they argue that distrust surrounding Charlie Kirk's assassination was mostly due to Americans falling for Russian, Iranian, and Pakistani propaganda networks.
 
 Anchored Artifacts: A-2612.2
-Mentions: N-1
+Mentions: N-642, N-1
 Related Nodes: N-10946
 Investigative Direction: The Charlie Kirk report in the VFT Dropbox and the data sources it cites.
 
@@ -1061,7 +1061,7 @@ Claim: According to Cuccia's thread, the same Charlie Kirk report says the distr
 Transcript Snippet: In that same Charlie Kirk report, they state, quote, "This represents an urgent national security threat and demands a whole-of-government response on par with cyber attacks on terrorism."
 
 Anchored Artifacts: A-2612.2
-Mentions: N-1
+Mentions: N-642, N-1
 Related Nodes: N-10946
 Investigative Direction: The exact passage in the VFT report and whether any government document adopts similar language.
 
@@ -1076,7 +1076,7 @@ Claim: According to Cuccia's thread, VFT internal comments say undermining Nick 
 Transcript Snippet: They talk about going after Fuentes stating that undermining his Christian identity is probably a good idea. They contemplate getting Matt Walsh or Michael Knowles to publish on behalf of VFT.
 
 Anchored Artifacts: A-2612.2
-Mentions: N-202, N-164, N-101
+Mentions: N-642, N-202, N-164, N-101
 Related Nodes: N-10946
 Investigative Direction: The internal comment threads in the Dropbox and any outreach records to Walsh or Knowles.
 
@@ -1091,7 +1091,7 @@ Claim: According to Cuccia's thread, VFT internal comments suggest collaborating
 Transcript Snippet: They suggest collaborating with NCRI funded with NCRI which was founded by Joel Finkelstein, a multi-million dollar organization that tracks hate speech on social media.
 
 Anchored Artifacts: A-2612.2
-Mentions: N-647
+Mentions: N-642, N-647
 Related Nodes: N-10946, N-10815
 Investigative Direction: NCRI's corporate records and any partnership or contact with VFT.
 
@@ -1136,7 +1136,7 @@ Claim: According to Cuccia's thread, an internal comment discusses advising poli
 Transcript Snippet: Another internal comment weighs in on how they will advise politicians based on their data, which also compiles information surrounding J. D. Vance's 2028 run.
 
 Anchored Artifacts: A-2612.2
-Mentions: N-4
+Mentions: N-642, N-4
 Related Nodes: N-10946
 Investigative Direction: The VFT 2028 file and any VFT engagements with campaign staff.
 

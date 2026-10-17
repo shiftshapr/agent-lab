@@ -43,7 +43,7 @@
           "@type": "Artifact",
           "@id": "A-1927.2",
           "ref": "A-1927.2",
-          "description": "Reference attributing Navy O-6 reserve status to Akhmed Qureshi (via Baron Coleman)",
+          "description": "Reference attributing Navy O-6 reserve status to Ahmed Qureshi (via Baron Coleman)",
           "related_claims": [
             "C-2655"
           ],
@@ -77,7 +77,7 @@
           "@type": "Artifact",
           "@id": "A-1927.4",
           "ref": "A-1927.4",
-          "description": "\"Built\" app description attributed to Akhmed Qureshi (co-founded), described as capable of 3D mission-prep visual walk-throughs",
+          "description": "\"Built\" app description attributed to Ahmed Qureshi (co-founded), described as capable of 3D mission-prep visual walk-throughs",
           "related_claims": [
             "C-2655"
           ],
@@ -1107,7 +1107,7 @@
       "ref": "N-412",
       "name": "Ahmed Qureshi",
       "type": "person",
-      "description": "First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Qureshi, Akhmed Qureshi.",
+      "description": "First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Qureshi, Ahmed Qureshi.",
       "related_artifacts": [],
       "related_claims": [
         "C-8564",
@@ -2100,8 +2100,8 @@
       "@type": "Claim",
       "@id": "C-2655",
       "ref": "C-2655",
-      "label": "\"Built\" app co-founded by Akhmed Qureshi has 3D mission-prep visualization capability",
-      "claim": "The \"Built\" app co-founded by Akhmed Qureshi is reported to have the capability to produce 3D visual walk-throughs usable for mission planning.",
+      "label": "\"BILT\" app co-founded by Ahmed Qureshi has 3D mission-prep visualization capability",
+      "claim": "The \"BILT\" app co-founded by Ahmed Qureshi is reported to have the capability to produce 3D visual walk-throughs usable for mission planning.",
       "anchored_artifacts": [
         "A-1927.4"
       ],
@@ -2120,7 +2120,7 @@
       "@id": "C-2656",
       "ref": "C-2656",
       "label": "TPUSA used the audio-only Aspen CEO-successor audio as Erika's AmFest walkout music",
-      "claim": "TPUSA used only the audio (not video) of the alleged Aspen donor event statement as Erika Kirk's walkout music at AmFest.",
+      "claim": "The host says TPUSA used only the audio (not video) of the alleged Aspen donor event statement as Erika Kirk's walkout music at AmFest.",
       "anchored_artifacts": [
         "A-1928.2"
       ],
@@ -2259,7 +2259,7 @@
       "@id": "C-2663",
       "ref": "C-2663",
       "label": "Erika Kirk posted an Instagram video of her mother in frail state on Sept 8, 2025",
-      "claim": "Erika Kirk posted an Instagram video of her mother appearing frail and sick on September 8, 2025, two days before Charlie's death.",
+      "claim": "The host says Erika Kirk posted an Instagram video of her mother looking tremendously frail and sick on September 8, 2025, two days before Charlie was shot.",
       "anchored_artifacts": [
         "A-1934.1"
       ],
@@ -2413,7 +2413,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:01:20",
-      "investigative_direction": "Check Navy Reserve officer listings and any public biography of Akhmed Qureshi for rank and unit.",
+      "investigative_direction": "Check Navy Reserve officer listings and any public biography of Ahmed Qureshi for rank and unit.",
       "transcript_snippet": "that his dad is an O-6 in the Navy. Um I guess he's in the Navy reserves part-time.",
       "mentions_person_refs": [
         "N-331",
@@ -2450,8 +2450,8 @@
       "@type": "Claim",
       "@id": "C-8566",
       "ref": "C-8566",
-      "label": "Host Says the Built App Could Show Which Hospital Door to Use but She Cannot Say It Was Used That Way",
-      "claim": "The host says the Built app could let a user see in advance where Charlie would sit and which door at Timpanogos Hospital he would be taken through, but states she cannot say that is what it was used for.",
+      "label": "Host Says the BILT App Could Show Which Hospital Door to Use but She Cannot Say It Was Used That Way",
+      "claim": "The host says the BILT app could let a user see in advance where Charlie would sit and which door at Timpanogos Hospital he would be taken through, but states she cannot say that is what it was used for.",
       "anchored_artifacts": [
         "A-1927.4"
       ],
@@ -3945,7 +3945,7 @@
       "@id": "C-8631",
       "ref": "C-8631",
       "label": "Host Says Charlie Answered With Steve Jobs and Hiring Lieutenants",
-      "claim": "The host says attendees recalled Charlie answering by saying something about Steve Jobs and hiring lieutenants he trusts to run departments, not about who would succeed him.",
+      "claim": "The host says attendees recalled Charlie answering by saying something about Steve Jobs and hiring lieutenants he trusts to take control of different departments, and that it is not just him.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10437",

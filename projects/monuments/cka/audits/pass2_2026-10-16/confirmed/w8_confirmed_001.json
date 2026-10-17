@@ -1,0 +1,537 @@
+[
+ {
+  "claim": "C-14397",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-245",
+    "N-210",
+    "N-5"
+   ]
+  },
+  "note": "'the president' in Levin's post is Trump."
+ },
+ {
+  "claim": "C-14398",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-60"
+   ]
+  },
+  "note": "Claim as written names only Loomer; Kent not referred to."
+ },
+ {
+  "claim": "C-14410",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-330",
+    "N-210"
+   ]
+  },
+  "note": "Patel not named or referred to in claim."
+ },
+ {
+  "claim": "C-14416",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Dino not named in claim."
+ },
+ {
+  "claim": "C-14417",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the archival clip, the student the host says is Dino Fantegrossi, responding to Kirk, says it is insulting that money goes to any foreign country while the cartels and drug overdoses at the southern border are a huge problem at home.",
+   "label": "Student in Kirk Clip Says Foreign Aid Is Insulting Given Cartels and Overdose Deaths",
+   "mentions": [
+    "N-943",
+    "N-1"
+   ]
+  },
+  "note": "Speaker asks Kirk 'what you said, 300 billion?', Kirk answers '19'; the 'insulting' line is the student the host says is Dino."
+ },
+ {
+  "claim": "C-14423",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim does not refer to Crossman; removal is the substantive change."
+ },
+ {
+  "claim": "C-14438",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the video Netanyahu tells Mike Huckabee he erased two names on the punch cards that day; Huckabee says the good news is that his name is not on the punch card, and Netanyahu replies that Huckabee's name is on the list of the good guys."
+  },
+  "note": "Content makes it clear: 'my name is not on the punch card' is answered by 'your name is on the list of the good guys' (Netanyahu to Huckabee)."
+ },
+ {
+  "claim": "C-14439",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the video Netanyahu tells Mike Huckabee that the president and US forces are getting rid of lunatics who would build nuclear weapons and deliver them to every American city after wiping out Israel.",
+   "label": "Netanyahu in Huckabee Video Says US Forces Are Getting Rid of Lunatics Seeking Nuclear Weapons",
+   "mentions": [
+    "N-36",
+    "N-274",
+    "N-5"
+   ]
+  },
+  "note": "'We're very proud to stand shoulder to shoulder with them [US forces]' is Netanyahu; Huckabee then thanks the PM. 'the president' = Trump."
+ },
+ {
+  "claim": "C-2530",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-60",
+    "N-2",
+    "N-210",
+    "N-95"
+   ]
+  },
+  "note": "Claim names Posobiec."
+ },
+ {
+  "claim": "C-2535",
+  "episode": 81,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already says Marina Minas with host attribution and N-552/N-14; Medvin rule already applied."
+ },
+ {
+  "claim": "C-2536",
+  "episode": 81,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already has this exact text and mentions."
+ },
+ {
+  "claim": "C-2538",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the plane she calls the Yrefy plane (after the event's sponsor, Yrefy) is shown on the on-screen calendar as routing Scottsdale → Provo (10:06 a.m.) → Santa Barbara (10:24 a.m.) → Scottsdale (1:44 p.m.) on Sept 10.",
+   "label": "Host Says Yrefy Plane Routed Scottsdale–Provo–Santa Barbara–Scottsdale",
+   "names": [
+    {
+     "wrong": "Wyre",
+     "right": "Yrefy",
+     "source": "https://www.crunchbase.com/organization/yrefy ; transcripts_corrected/episode_082_SgVcnx4Oh30.md ('the alleged Yrefy plane that we think that Andrew took from Santa Barbara to Scottsdale')"
+    }
+   ]
+  },
+  "note": "Same plane as ep82 'Yrefy plane'; Yrefy confirmed as TPUSA tour sponsor (abc4, UMN tour coverage)."
+ },
+ {
+  "claim": "C-2542",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a tweet the host reads, Eitan Fischberger said, 'This is some sick stuff from Joe Rogan, as if Erika hasn't been through enough already.'",
+   "label": "Eitan Fischberger Called Joe Rogan Segment \"Sick Stuff\"",
+   "names": [
+    {
+     "wrong": "Eton Fishberger",
+     "right": "Eitan Fischberger",
+     "source": "https://x.com/EFischberger"
+    }
+   ]
+  },
+  "note": "Confirmed: Eitan Fischberger (@EFischberger) posted 'sick stuff from Joe Rogan' Mar 2026."
+ },
+ {
+  "claim": "C-11344",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Charlie's plane was to leave Scottsdale at 2:31 p.m. and land in Provo at 3:31 p.m., and that the public is told Erika, Tyler, Elizabeth McCoy and Stacy Sheridan were on it.",
+   "label": "Host Says Charlie's Plane Left Scottsdale at 2:31 p.m. and Landed in Provo at 3:31 With Erika, Tyler, Elizabeth McCoy and Stacy Sheridan Reported Aboard",
+   "names": [
+    {
+     "wrong": "CeCe Sheridan",
+     "right": "Stacy Sheridan",
+     "source": "https://tpusa.com/team/"
+    }
+   ]
+  },
+  "note": "Host lists the same group with 'Stacy Sheridan' in ep84; N-187 already in mentions."
+ },
+ {
+  "claim": "C-11357",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she calls it the Yrefy plane because Yrefy is who Erika told her was on the plane, and that Yrefy was sponsoring the event.",
+   "label": "Host Says Erika Told Her the Yrefy Plane Was the Plane in Question and Yrefy Sponsored the Event",
+   "names": [
+    {
+     "wrong": "Wyre",
+     "right": "Yrefy",
+     "source": "https://www.abc4.com/news/charlie-kirk-shooting/tpusa-campus-tour-usu-event/"
+    }
+   ]
+  },
+  "note": "Wyre = Yrefy (tour sponsor; ep82 'Yrefy plane')."
+ },
+ {
+  "claim": "C-11359",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that when the Yrefy plane landed in Provo and then Scottsdale, an Egyptian plane began transponding right away each time.",
+   "label": "Host Says Egyptian Planes Began Transponding Right After the Yrefy Plane Landed at Provo and Scottsdale",
+   "names": [
+    {
+     "wrong": "Wyre",
+     "right": "Yrefy",
+     "source": "https://www.abc4.com/news/charlie-kirk-shooting/tpusa-campus-tour-usu-event/"
+    }
+   ]
+  },
+  "note": "Wyre = Yrefy."
+ },
+ {
+  "claim": "C-11360",
+  "episode": 81,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the Yrefy plane stopped at Provo, Santa Barbara and Scottsdale, all places involved that day, and that it is somehow associated with Turning Point USA.",
+   "label": "Host Says the Yrefy Plane Is Somehow Associated With Turning Point USA",
+   "names": [
+    {
+     "wrong": "Wyre",
+     "right": "Yrefy",
+     "source": "https://www.abc4.com/news/charlie-kirk-shooting/tpusa-campus-tour-usu-event/"
+    }
+   ]
+  },
+  "note": "Claim text also says 'Wyre plane'; fix it too."
+ },
+ {
+  "claim": "C-2549",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-15",
+    "N-552"
+   ]
+  },
+  "note": "Claim names Justin and Aubrey."
+ },
+ {
+  "claim": "C-2550",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the host, the N40JD plane, owned by Jason Knupp (who the host says appears to be the chief commander of Naval Surface Force Atlantic), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST.",
+   "names": [
+    {
+     "wrong": "naval surface force in Atlanta",
+     "right": "Naval Surface Force Atlantic",
+     "source": "https://www.surflant.usff.navy.mil/Press-Room/Photo-Gallery/igphoto/2002627964/"
+    }
+   ]
+  },
+  "note": "Confirmed Jason Knupp, Force Master Chief, Naval Surface Force Atlantic (Navy/Alamy captions); host says 'owned by'."
+ },
+ {
+  "claim": "C-2552",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-214"
+   ]
+  },
+  "note": "Kirk not referred to in claim."
+ },
+ {
+  "claim": "C-2555",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the 2020 charter listing the host shows for the plane she identifies as the alleged Santa Barbara → Scottsdale leg (\"Yrefy\"), its amenities include a belted lavatory, cabin power outlets, a refreshment center and a satellite phone, but not Wi-Fi.",
+   "timestamp": "00:24:50"
+  },
+  "note": "Listing described from ~24:52 to 25:37, more than 20s before the old timestamp; 24:50 fits."
+ },
+ {
+  "claim": "C-2557",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host refers to the Yrefy plane: she says Erika Kirk told her about it (the Yrefy CEO), and she believes Andrew Kolvet took it from Santa Barbara to Scottsdale.",
+   "label": "Host Says Erika Named the Yrefy Plane, Which She Believes Kolvet Took From Santa Barbara to Scottsdale",
+   "names": [
+    {
+     "wrong": "RY Reef air",
+     "right": "Yrefy",
+     "source": "https://www.abc4.com/news/charlie-kirk-shooting/tpusa-campus-tour-usu-event/"
+    },
+    {
+     "wrong": "wife Reef air CEO",
+     "right": "Yrefy CEO",
+     "source": "https://www.abc4.com/news/charlie-kirk-shooting/tpusa-campus-tour-usu-event/"
+    }
+   ]
+  },
+  "note": "RY Reef air / wife Reef air = Yrefy (tour sponsor; same plane called Yrefy at 24:05-24:52)."
+ },
+ {
+  "claim": "C-2559",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-1",
+    "N-552",
+    "N-494"
+   ]
+  },
+  "note": "'Marina' here is Marina Minas (N-494), who asked Aubrey to write the statement."
+ },
+ {
+  "claim": "C-2561",
+  "episode": 83,
+  "decision": "amend",
+  "fix": {
+   "label": "Nick Shirley Confirmed Andrew Kolvet Livestream Was Authentic 9-10 a.m. Pacific"
+  },
+  "note": "Label fix right (she means Nick Shirley), but 'Nick Searcy' may be the host's own slip and is a real other person; no names rule."
+ },
+ {
+  "claim": "C-2566",
+  "episode": 83,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already has the corrected label and wording; timestamp change of 2s is inside the window."
+ },
+ {
+  "claim": "C-2569",
+  "episode": 83,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-213",
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "'Kirk assassination' and 'Kirk's widow' refer to N-1 and N-2."
+ },
+ {
+  "claim": "C-2572",
+  "episode": 83,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-213",
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "'Kirk's assassination' and 'Kirk's widow' refer to N-1 and N-2."
+ },
+ {
+  "claim": "C-12763",
+  "episode": 83,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, against Frank Turek's account that Charlie trained him to call Erika first when anything happens, it turned out Mikey McCoy called his own wife first.",
+   "mentions": [
+    "N-191",
+    "N-218",
+    "N-2",
+    "N-1",
+    "N-7",
+    "N-3"
+   ]
+  },
+  "note": "'Frank... that's why he walked away' is Frank Turek's account."
+ },
+ {
+  "claim": "C-3795",
+  "episode": 84,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already says Marina Minas; Medvin rule already applied for ep84."
+ },
+ {
+  "claim": "C-14458",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the article reports that the French Foreign Legion and the military were involved in murder for hire, although the passage she has just read mentions soldiers and DGSE officers but not the Foreign Legion, and the next passage names a parachute regiment."
+  },
+  "note": "Article read says 13 defendants including soldiers; fix is accurate."
+ },
+ {
+  "claim": "C-14521",
+  "episode": 85,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Kash Patel announced 'we got him' about 'the Qureshi person', which made people stop looking and sent everybody on wild goose hunts, making him central to delaying everything that day.",
+   "label": "Host Says Patel Announced a Suspect (the 'Qureshi' Person) That Sent Searchers on a Wild Goose Chase",
+   "mentions": [
+    "N-69",
+    "N-3",
+    "N-411"
+   ],
+   "names": [
+    {
+     "wrong": "Koreshi",
+     "right": "Qureshi",
+     "source": "https://whoassassinatedcharliekirk.com/Timeline/kash-patel-manhunt-timeline"
+    }
+   ]
+  },
+  "note": "Koreshi = Zachariah Qureshi (detained before Patel's post; host ep87); claim refers to him, add N-411."
+ },
+ {
+  "claim": "C-14544",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-14",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie."
+ },
+ {
+  "claim": "C-2623",
+  "episode": 86,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-2",
+    "N-3"
+   ]
+  },
+  "note": "Claim names Erika."
+ },
+ {
+  "claim": "C-2625",
+  "episode": 86,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-2",
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Claim names Erika Kirk and Charlie."
+ },
+ {
+  "claim": "C-10311",
+  "episode": 86,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she learned that the FBI was on the phone with Justin Streiff and Frank Carni that day and that they were apparently discussing with the feds whether she had recorded the footage.",
+   "label": "Host Says the FBI Was on the Phone With Streiff and Frank Carni About the Back Footage",
+   "names": [
+    {
+     "wrong": "Frank Carney",
+     "right": "Frank Carni",
+     "source": "https://tpusa.com/team/"
+    }
+   ]
+  },
+  "note": "Confirmed: Frank Carni is TPUSA General Counsel (tpusa.com/team, Equilar)."
+ },
+ {
+  "claim": "C-10313",
+  "episode": 86,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-14",
+    "N-196",
+    "N-1"
+   ]
+  },
+  "note": "'Charlie's funeral' refers to N-1."
+ },
+ {
+  "claim": "C-10346",
+  "episode": 86,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Erika's July 14 flight was taken with Katherine Locastro, Derek Niekerk and Jonathan Barcelo, and that it goes to Long Beach.",
+   "names": [
+    {
+     "wrong": "Katherine Low Castro",
+     "right": "Katherine Locastro",
+     "source": "https://sites.cortland.edu/dragon-chronicle/2024/02/29/turning-point-usa-takes-legal-action-against-suny-cortland-over-campus-access-denial/"
+    }
+   ]
+  },
+  "note": "Confirmed Katherine Locastro, TPUSA (Cortland article; Megyn Kelly show)."
+ },
+ {
+  "claim": "C-10351",
+  "episode": 86,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host relays her producer Ashley's point that, in Frank Turek's telling, the surgeon's next sentence was 'He's dead. I need to talk to Erika,' about 30 minutes after Charlie was rushed to the hospital, and Ashley's question of how the surgeon knew Erika was Charlie's wife's name.",
+   "label": "Host Relays Producer's Question of How the Surgeon Knew Erika's Name"
+  },
+  "note": "Ashley's question is about the surgeon ('the surgeon was pretty busy'), in Turek's telling."
+ },
+ {
+  "claim": "C-2627",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the X post the host shows, Kash Patel wrote that the subject for the shooting that took the life of Charlie Kirk was now in custody; the host says he posted it at 4:21 p.m. Mountain time, almost exactly four hours after Charlie was shot."
+  },
+  "note": "Post is shown; 4:21 time and 'almost exactly 4 hours' are the host's; date not said."
+ },
+ {
+  "claim": "C-2630",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per Ahmed Qureshi's LinkedIn profile, which the host shows, he is President/COO of BILT Incorporated and an O6 commanding officer (Navy Captain) at East Coast HQ since May 2024, according to the host.",
+   "names": [
+    {
+     "wrong": "Built Incorporated",
+     "right": "BILT Incorporated",
+     "source": "https://founderstory.transistor.fm/episodes/ahmed-qureshi-co-founder-president-coo-of-bilt"
+    }
+   ]
+  },
+  "note": "Confirmed BILT Incorporated, co-founded by Ahmed Qureshi (President/COO)."
+ }
+]
