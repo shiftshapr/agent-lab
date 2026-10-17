@@ -445,7 +445,7 @@
       "ref": "N-457",
       "name": "Bill Montgomery",
       "type": "person",
-      "description": "Referenced by host as deceased military figure; alleged to have co-founded Turning Point USA with Charlie Kirk and to have orchestrated Charlie's early \"Schaefer security.\"",
+      "description": "Referenced by host as deceased military figure; alleged to have co-founded Turning Point USA with Charlie Kirk and to have orchestrated Charlie's early \"Shaffer security.\"",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -1173,7 +1173,7 @@
       "ref": "N-11034",
       "name": "Charlie Kirk Early Security Arrangement",
       "type": "topic",
-      "description": "The host's account that Charlie Kirk had required, orchestrated security (Schaefer security, arranged by Bill Montgomery) from about 2017.",
+      "description": "The host's account that Charlie Kirk had required, orchestrated security (Shaffer security, arranged by Bill Montgomery) from about 2017.",
       "related_artifacts": [],
       "related_claims": [
         "C-5423",
@@ -1448,7 +1448,7 @@
       "@id": "C-5423",
       "ref": "C-5423",
       "label": "Charlie required security at all times and it was orchestrated by Bill Montgomery",
-      "claim": "The host says that in 2017-2018 Charlie Kirk was required to have security on him at all times, that this was orchestrated, and that his Schaefer security was arranged by the late Bill Montgomery.",
+      "claim": "The host says that in 2017-2018 Charlie Kirk was required to have security on him at all times, that this was orchestrated, and that his Shaffer security was arranged by the late Bill Montgomery.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -1456,8 +1456,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:53",
-      "investigative_direction": "Identify who Bill Montgomery was and when he died; obtain records of who contracted Schaefer security for Charlie Kirk and Turning Point USA in 2017-2018.",
-      "transcript_snippet": "he was required to have security on him at all times. That was orchestrated. His security, Schaefer security was orchestrated uh by Bill Montgomery.",
+      "investigative_direction": "Identify who Bill Montgomery was and when he died; obtain records of who contracted Shaffer security for Charlie Kirk and Turning Point USA in 2017-2018.",
+      "transcript_snippet": "he was required to have security on him at all times. That was orchestrated. His security, Shaffer security was orchestrated uh by Bill Montgomery.",
       "mentions_person_refs": [
         "N-1",
         "N-457"
@@ -1604,7 +1604,7 @@
       "@id": "C-5431",
       "ref": "C-5431",
       "label": "Clip says millions remember Berenstain Bears spelled with an E",
-      "claim": "The Be Inspired clip says millions remember the Berenstain Bears as 'Baron Stain' with an E, while every book says it is spelled with an A, and calls this the beginning of the Mandela effect.",
+      "claim": "The Be Inspired clip says millions remember the Berenstain Bears as 'Berenstein' with an E, while every book spells it 'Berenstain' with an A, and calls this the beginning of the Mandela effect.",
       "anchored_artifacts": [
         "A-1628.1"
       ],
@@ -1617,7 +1617,7 @@
       ],
       "claim_timestamp": "00:09:13",
       "investigative_direction": "Check the publisher's spelling history for the series and any survey data on how people remember the spelling.",
-      "transcript_snippet": "Millions remember it as Baron Stain with an E. But every book says Baron Stain with an A."
+      "transcript_snippet": "Millions remember it as Berenstein with an E. But every book says Berenstain with an A."
     },
     {
       "@type": "Claim",
@@ -2406,7 +2406,7 @@
       "@id": "C-5470",
       "ref": "C-5470",
       "label": "Host says the quote the commenter cited is a verse Charlie sent her",
-      "claim": "Replying to a viewer comment from Dakota that includes the lines 'Reality is catching up with me' and 'taking my inner child', the host says the commenter is referring to the 'yay power verse' that Charlie Kirk sent her.",
+      "claim": "Replying to a viewer comment from Dakota that includes the lines 'Reality is catching up with me' and 'taking my inner child', the host says the commenter is referring to the Ye 'Power' verse that Charlie Kirk sent her.",
       "anchored_artifacts": [
         "A-2756.1"
       ],
@@ -2415,8 +2415,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:49:41",
-      "investigative_direction": "Identify the verse and its text from the message the host references; the 'yay power verse' wording is likely a transcription error for a Kanye West lyric.",
-      "transcript_snippet": "You're referring to the yay power verse that Charlie sent to me.",
+      "investigative_direction": "Identify the verse and its text from the message the host references; the 'Ye 'Power' verse' wording is likely a transcription error for a Kanye West lyric.",
+      "transcript_snippet": "You're referring to the Ye 'Power' verse that Charlie sent to me.",
       "mentions_person_refs": [
         "N-1",
         "N-3"
@@ -2626,7 +2626,7 @@
       "@id": "C-5481",
       "ref": "C-5481",
       "label": "Commenter says Nick Fuentes called Epstein's 13 and 14 year old victims barely legal",
-      "claim": "Read-aloud commenter Benny says that on his show the previous night Nick Fuentes said people should stop talking about pedophilia in relation to Epstein and called teen girls, some 13 and 14, barely legal.",
+      "claim": "Read-aloud commenter Benny says that on 'his show' the previous night (the host's reply identifies him as Nick Fuentes) he said people should stop talking about pedophilia in relation to Epstein and called teen girls, some 13 and 14, barely legal.",
       "anchored_artifacts": [
         "A-2756.4"
       ],

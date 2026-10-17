@@ -1127,7 +1127,7 @@ Cold War underground base in Greenland the host says was built to launch missile
 
 Claim Timestamp: 00:03:23–00:05:24
 
-Claim: The host says, citing people based at Fort Huachuca who contacted her, that members of the *November Renaissance* cast have Fort Huachuca or military ties: Clayton Haugen does marketing for defense contractor Dillon Aero Space; Don Frye trained in judo at Fort Huachuca; Payton McCormick's father was once stationed there; Priscilla Ann Nu'ul's father was a lieutenant stationed there. For Chantal Thuy she cites only that her dad worked on AI for IBM, and for Price Mitchum only a psych hold.
+Claim: The host says, citing people based at Fort Huachuca who contacted her, that members of the *November Renaissance* cast have Fort Huachuca or military ties: Clayton Haugen does marketing for defense contractor Dillon Aero; Don Frye trained in judo at Fort Huachuca; Payton McCormick's father was once stationed there; Priscilla Ann Nu'ul's father was a lieutenant stationed there. For Chantal Thuy she cites only that her dad worked on AI for IBM, and for Price Mitchum only a psych hold.
 
 Anchored Artifacts: A-1635.1, A-1635.2
 Mentions: N-460, N-463, N-464, N-465, N-466, N-467
@@ -1185,7 +1185,7 @@ Investigative Direction: Obtain sworn statements or on-record confirmation from 
 
 ---
 
-**C-2112** Erika Publicly Stated She Lived in China Working with Child Sex Trafficking Victims
+**C-2112** Erika Said on a Podcast She Lived in China Working with Sex Trafficking Victims
 
 Claim Timestamp: 00:16:13–00:18:00
 
@@ -1249,7 +1249,7 @@ Investigative Direction: Obtain Daily Wire's article text and any Turning Point 
 
 Claim Timestamp: 00:21:00–00:22:00
 
-Claim: In a January 2026 Daily Wire Plus interview, Nelda Buckman described a close post-assassination relationship with Erika, including a private meeting in Florida ahead of America Fest and a dedication ceremony, and stated that Buckman offered Erika "personal support" about navigating her role as a single mother leading Turning Point.
+Claim: The host says that, per a Daily Wire Plus article, Nelda Buckman gave an exclusive interview in January describing a close post-assassination relationship with Erika, including a private meeting in Florida ahead of America Fest and a dedication ceremony, and saying she offered Erika personal support about navigating her new reality as a single mother leading the organization.
 
 Anchored Artifacts: A-1638.2
 Mentions: N-2, N-461
@@ -1537,9 +1537,9 @@ Investigative Direction: Ask the sources for the basis of the closeness claim; l
 
 Claim Timestamp: 00:05:30
 
-Claim: The host says Clayton Haugen does marketing for the defense contracting firm Dillon Aero Space.
+Claim: The host says Clayton Haugen does marketing for the defense contracting firm Dillon Aero.
 
-Transcript Snippet: And he does marketing for the defense contracting firm Dillon Aero Space.
+Transcript Snippet: And he does marketing for the defense contracting firm Dillon Aero.
 
 Anchored Artifacts: 
 Mentions: N-460

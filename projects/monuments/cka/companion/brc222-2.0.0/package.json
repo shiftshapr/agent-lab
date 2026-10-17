@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-17T00:53:48Z",
+  "generated_at": "2026-10-17T00:58:29Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -19817,7 +19817,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12526",
-      "label": "Host Says Per Tucker Carlson That Kirk Went Head to Head With Netanyahu in June 2025",
+      "label": "Host Says Per Tucker Carlson That Kirk Went Head to Head With Netanyahu in June",
       "node_kind": "claim",
       "episode": 56
     },
@@ -42756,7 +42756,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1997",
-      "label": "Paramount Tactical Valhalla Stream Clip Shows Host Reading Andrew Kolvet's Instructions Providing Erika Kirk's September 9 Alibi",
+      "label": "Paramount Tactical Valhalla Stream Clip Shows Streamer Reading Message the Host Attributes to Andrew Kolvet on Erika Kirk's September 9 Alibi",
       "node_kind": "claim",
       "episode": 51
     },
@@ -42868,7 +42868,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2013",
-      "label": "Daily Wire's \"Maddie in the No\" Show Mocks Candace",
+      "label": "Daily Wire's \"In the Know Know\" Show Mocks Candace",
       "node_kind": "claim",
       "episode": 52
     },
@@ -42938,7 +42938,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2023",
-      "label": "Charlie Kirk's Text Messages Described an \"Oracle\" Figure Confirming His Premonition of Dying Young",
+      "label": "Host Says Charlie Kirk's 'Oracle' Figure All But Confirmed His Premonition of Dying Young",
       "node_kind": "claim",
       "episode": 53
     },
@@ -43001,7 +43001,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2032",
-      "label": "New World Communications loaned $400,000 to Liberty University at 6% interest in 1996",
+      "label": "New World Communications Loaned $400,000 to Liberty University at 6% Interest",
       "node_kind": "claim",
       "episode": 54
     },
@@ -43057,14 +43057,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2040",
-      "label": "Korean Herald Headline the Host Shows Says Pastor Son Hyun-bo Was Arrested September 9 for Breaking Election Law",
+      "label": "Korea Herald Headline the Host Shows Says Pastor Son Hyun-bo Was Arrested for Breaking Election Law",
       "node_kind": "claim",
       "episode": 54
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2041",
-      "label": "Chance Son stated his father was arrested two days after meeting Charlie Kirk",
+      "label": "Chance Son Stated His Father Was Arrested Two Days After Meeting Charlie Kirk",
       "node_kind": "claim",
       "episode": 54
     },
@@ -43547,7 +43547,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2112",
-      "label": "Erika Publicly Stated She Lived in China Working with Child Sex Trafficking Victims",
+      "label": "Erika Said on a Podcast She Lived in China Working with Sex Trafficking Victims",
       "node_kind": "claim",
       "episode": 58
     },
@@ -65982,7 +65982,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5344",
-      "label": "A speaker says 51,000 emails sat unanswered in the tip inbox",
+      "label": "Host Says 51,000 Emails Sat Unanswered in the Tip Inbox",
       "node_kind": "claim",
       "episode": 49
     },
@@ -75845,7 +75845,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6753",
-      "label": "Host Says Daily Wire Is Launching an Intern-Fronted Show Called In the Know to Mock Her",
+      "label": "Host Says Daily Wire Is Launching an Intern-Fronted Show Called In the Know Know to Mock Her",
       "node_kind": "claim",
       "episode": 51
     },
@@ -76769,7 +76769,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6885",
-      "label": "Host Says Bert Ran Duncan Aviation as EVP and COO for 22 Years and Retired in 2019",
+      "label": "Host Says Burt Ran Duncan Aviation as EVP and COO for 22 Years and Retired in 2019",
       "node_kind": "claim",
       "episode": 52
     },
@@ -76895,7 +76895,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6903",
-      "label": "Host Says Kanye's 2022 Tweet Was Followed by Blackballing of Opponents",
+      "label": "Host Says Kanye Was Right in 2022 About Blackballing of Opponents",
       "node_kind": "claim",
       "episode": 53
     },
@@ -85939,14 +85939,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8195",
-      "label": "ABC Report Says Abby Johnson's Parents Sent Her to the Home With a Liberty Scholarship Promise",
+      "label": "ABC Report Says Abbi Johnson's Parents Sent Her to the Home With a Liberty Scholarship Promise",
       "node_kind": "claim",
       "episode": 54
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8196",
-      "label": "Abby Johnson Says the Home Had Already Decided on Adoption",
+      "label": "Abbi Johnson Says the Home Had Already Decided on Adoption",
       "node_kind": "claim",
       "episode": 54
     },
@@ -86135,7 +86135,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8223",
-      "label": "Washington Post Quotes Ex-Priest Bordelon That Moon Buys Credibility With Academics",
+      "label": "Washington Post Quotes Ex-Priest Borderlon That Moon Buys Credibility With Academics",
       "node_kind": "claim",
       "episode": 54
     },
@@ -107828,7 +107828,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1598.1",
-      "label": "ABC 13 (Lynchburg) report by Rachel Branning on the Liberty Godparent Home, referencing the *Liberty Lost* podcast (Abby Johnson, Raphael)",
+      "label": "ABC 13 (Lynchburg) report by Rachel Branning on the Liberty Godparent Home, referencing the *Liberty Lost* podcast (Abbi Johnson, Raphael)",
       "node_kind": "artifact",
       "episode": 54
     },

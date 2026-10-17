@@ -864,7 +864,7 @@ Investigative Direction: Obtain the plea agreement and charging documents from t
 
 ---
 
-**C-2023** Charlie Kirk's Text Messages Described an "Oracle" Figure Confirming His Premonition of Dying Young
+**C-2023** Host Says Charlie Kirk's 'Oracle' Figure All But Confirmed His Premonition of Dying Young
 
 Claim Timestamp: 00:42:50
 
@@ -935,7 +935,7 @@ Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present
 
 ---
 
-**C-6903** Host Says Kanye's 2022 Tweet Was Followed by Blackballing of Opponents
+**C-6903** Host Says Kanye Was Right in 2022 About Blackballing of Opponents
 
 Claim Timestamp: 00:00:01
 
@@ -1117,7 +1117,7 @@ Investigative Direction: Obtain the Amfest speaker schedule and any sponsorship 
 
 Claim Timestamp: 00:08:14
 
-Claim: The host reads Maggie Wegner's email saying she tried to rewrite the audition script in a way true to her, could not, and was advised by a friend to contact a second person, who told her not to send the audition tape.
+Claim: The host reads Maggie Wegner's email saying she tried to rewrite the audition script in a way true to her, could not, and was advised by someone whose name is blacked out to contact a second person, who told her not to send the audition tape.
 
 Transcript Snippet: I even tried to rewrite it in a way that was true to me, but I couldn't do it. It just felt like high school bullies.
 
@@ -1181,7 +1181,7 @@ Investigative Direction: Identify who produced and distributed the AI sample and
 
 Claim Timestamp: 00:09:24
 
-Claim: The AI sample shown by the host opens with a character who welcomes viewers to "The More You Know No" and introduces herself as host "Gossy Gossworthy".
+Claim: The AI sample shown by the host includes a character who welcomes viewers to "The More You Know No" and introduces herself as host "Gossy Gossworthy".
 
 Transcript Snippet: Hey noowers, welcome back to The More You Know No. I'm your host Gossy Gossworthy.
 
@@ -2056,7 +2056,7 @@ Investigative Direction: Check Arizona legislature and secretary of state record
 
 Claim Timestamp: 00:49:14
 
-Claim: The article as read describes Turning Point Action as the campaign arm of Turning Point USA, which has become a major force in Arizona Republican politics, and says the fraud happened while Smith was at Turning Point Action.
+Claim: The article as read describes Turning Point Action as the campaign arm of Turning Point USA, which has become a major force in Arizona Republican politics, and the host says the fraud happened while Smith was at Turning Point Action.
 
 Transcript Snippet: So this was happening while he was at TurningPoint Action, the campaign arm of Turning Point USA, which has become a major force in Arizona Republican politics.
 

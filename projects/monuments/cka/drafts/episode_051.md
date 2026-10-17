@@ -820,7 +820,7 @@ Investigative Direction: Verify Tim Dillon's segment against the original record
 
 Claim Timestamp: 00:04:47
 
-Claim: In a clip the host plays, comedian Tim Dillon observes that Erika Kirk walked out to a pyrotechnic display in a glittering pantsuit three months after Charlie Kirk's killing and immediately pivoted to discussing the election of J. D. Vance.
+Claim: In a clip the host plays, comedian Tim Dillon observes that Erika Kirk walked out to a pyrotechnic display in a glittering pantsuit three months after Charlie Kirk's killing and talked about electing J. D. Vance.
 
 Anchored Artifacts: A-1568.1
 Mentions: N-2, N-278, N-1
@@ -882,7 +882,7 @@ Investigative Direction: Verify the spelling "Cosgrove" against the original CBS
 
 Claim Timestamp: 00:35:58
 
-Claim: An October 2024 interview clip played on air shows Charlie Kirk telling Justice Smith that there is no evidence MK Ultra ended, that Operation Mockingbird 2 is in effect, and that the CIA is actively involved in domestic mind manipulation.
+Claim: An October 2024 interview clip played on air shows Charlie Kirk telling Justice Smith that there is no evidence MK Ultra ended, citing Operation Mockingbird as another CIA program, and saying the CIA is actively involved in domestic mind manipulation.
 
 Anchored Artifacts: A-1571.1
 Mentions: N-1, N-372
@@ -902,14 +902,14 @@ Mentions: N-93, N-3, N-362
 
 Investigative Direction: Identify the original InfoWars episode date and timestamp; verify the exact wording and the broader context of Jones's statement.
 
-**C-1997** Paramount Tactical Valhalla Stream Clip Shows Host Reading Andrew Kolvet's Instructions Providing Erika Kirk's September 9 Alibi
+**C-1997** Paramount Tactical Valhalla Stream Clip Shows Streamer Reading Message the Host Attributes to Andrew Kolvet on Erika Kirk's September 9 Alibi
 
 Claim Timestamp: 00:48:18
 
-Claim: A Paramount Tactical Valhalla livestream segment played on air shows the host reading written instructions from Andrew Kolvet providing an alibi for Erika Kirk on the morning of September 9, then saying "Sorry Andrew, I screwed that up" after sharing content he was told not to share.
+Claim: In a Paramount Tactical Valhalla livestream clip the host plays, the streamer reads a message he says answered his request for proof, which the host says came from Andrew Kolvet, saying Erika Kirk woke up next to Charlie on the ninth and offering proof she was with her kids at 8:33 a.m.; he says he apparently was not supposed to share that and adds "Sorry Andrew, I screwed that up."
 
 Anchored Artifacts: A-1573.1
-Mentions: N-2, N-14
+Mentions: N-2, N-14, N-1
 
 Related Nodes: N-10380, N-10899
 
@@ -1114,7 +1114,7 @@ Investigative Direction: Check French court records and news reports for the cas
 
 Claim Timestamp: 00:19:44
 
-Claim: The host alleges that Brigitte Macron was born male and, under the then French law, committed statutory rape against a 14-year-old student; this is the host's allegation and is not established by the clip.
+Claim: The host alleges that Brigitte Macron was born male and, under the then French law, committed statutory rape against a 14-year-old student.
 
 Transcript Snippet: Brigitte Macron who is quite literally born a male and who quite literally committed statutory rape under the then French law against a 14-year-old student
 
@@ -1158,11 +1158,11 @@ Investigative Direction: Look for a Daily Wire announcement of the Brandford sho
 
 ---
 
-**C-6753** Host Says Daily Wire Is Launching an Intern-Fronted Show Called In the Know to Mock Her
+**C-6753** Host Says Daily Wire Is Launching an Intern-Fronted Show Called In the Know Know to Mock Her
 
 Claim Timestamp: 00:33:30
 
-Claim: The host says Madison Brandford is apparently a Daily Wire intern and that the Daily Wire is launching an iCarly-type show titled In the Know in which she will make fun of the host.
+Claim: The host says Madison Brandford is apparently a Daily Wire intern and that the Daily Wire is launching an iCarly-type show titled In the Know Know in which she will make fun of the host.
 
 Transcript Snippet: she's apparently an intern at the Daily Wire and she's they're basically dropping like an an iCarly type Nickelodeon feel show where she's going to make fun of me and the show is entitled In the Know
 
@@ -1227,7 +1227,7 @@ Investigative Direction: Verify Mitch Snow's base access and the dates through g
 
 Claim Timestamp: 00:37:32
 
-Claim: The host says Mitch saw Erika Kirk on the 8th leaving the Candlewood Inn hotel on Fort Huachuca, accompanied by someone who looked similar to Cabot Phillips.
+Claim: The host says Mitch saw Erika Kirk on the 8th leaving the Candlewood Inn [Candlewood Suites] hotel on Fort Huachuca, accompanied by someone who looked similar to Cabot Phillips.
 
 Transcript Snippet: he saw, to be clear, Erika Kirk on the 8th leaving the Candlewood um Inn Hotel on the base on Fort Huachuca.
 
@@ -1492,7 +1492,7 @@ Investigative Direction: Watch the full stream and compare the dates in the alib
 
 Claim Timestamp: 00:48:18
 
-Claim: In the stream clip, the host of the stream reads notes saying the internet claims Erika woke up next to Charlie on the ninth, went to the office with him all day, woke him from a nap before Fox hit, and went to dinner with him.
+Claim: In the stream clip, the host of the stream reads notes saying Erika was not "in some fort in Tucson" and that she woke up next to Charlie on the ninth, went to the office with him all day, woke him from a nap before Fox hit, and went to dinner with him.
 
 Transcript Snippet: The internet's gone saying she woke up next to Charlie on the ninth. Went to the office with Charlie all day. Woke him up from a nap before Fox hit. Went to dinner with Charlie.
 
@@ -1526,7 +1526,7 @@ Investigative Direction: Obtain the image and its metadata and test the timestam
 
 Claim Timestamp: 00:49:10
 
-Claim: The host says Alex Jones said he was in communication with Turning Point USA, that its spokesperson is Kolvet, and that she confirmed Kolvet had been communicating directly with Jones.
+Claim: The host says Alex Jones said he was in communication with Turning Point USA, notes that its spokesperson is Kolvet, and says she confirmed Kolvet had been communicating directly with Jones.
 
 Transcript Snippet: also Alex said that he was in communication with Turning Point USA. The spokesperson is Andrew, obviously, and I confirmed that Andrew had been communicating with Alex Jones directly.
 
@@ -1775,7 +1775,7 @@ Investigative Direction: Ask Streiff and TPUSA to confirm the call and the exist
 
 Claim Timestamp: 00:57:21
 
-Claim: The host says Streiff told her he would send a message from Erika as her alibi, a conversation between Erika and Charlie about making dinner in the time frame when Mitch believes he saw her at Fort Huachuca, and that she never demanded an alibi again.
+Claim: The host says Streiff told her he would send a message from Erika as her alibi, a conversation between Erika and Charlie about making dinner in the time frame when Mitch believes he saw her at Fort Huachuca, and she repeats that she never demanded an alibi.
 
 Transcript Snippet: this was a conversation between her and uh Charlie about dinner, about them making dinner during that time frame when Mitch believes that he saw her on Fort Huachuca
 

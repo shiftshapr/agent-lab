@@ -1923,7 +1923,7 @@ Investigative Direction: Verify Andrew Sypher's official TPUSA title.
 
 Claim Timestamp: 00:50:15
 
-Claim: On the Charlie Kirk Show, a speaker stated that TPUSA had posted the UVU courtyard location on its website as early as August 27.
+Claim: In a clip from the Charlie Kirk Show that the host plays, a speaker says TPUSA had posted the UVU courtyard location on its website as early as August 27.
 
 Anchored Artifacts: A-1544.2
 Mentions: 
@@ -1938,7 +1938,7 @@ Investigative Direction: Verify the specific August 27 post referenced.
 
 Claim Timestamp: 00:51:20
 
-Claim: The host says the earliest mention of the UVU courtyard location that her team found was on September 2, when local media on KAMYU said Charlie Kirk was speaking in the courtyard.
+Claim: The host says the earliest mention of the UVU courtyard location that her team found was on September 2, when local media on KMYU said Charlie Kirk was speaking in the courtyard.
 
 Anchored Artifacts: A-1547.1
 Mentions: N-1
@@ -2141,7 +2141,7 @@ Investigative Direction: Ask TPUSA when the review of Charlie Kirk's device was 
 
 **C-14013** Host Says She Cannot Confirm Whether Flood's Text Said the Left or They
 
-Claim Timestamp: 00:06:18
+Claim Timestamp: 00:07:30
 
 Claim: The host says she cannot confirm Dan Flood's message said the left is going to kill me because she did not see it and was told it said they, so she has to trust TPUSA on the wording.
 
@@ -2176,7 +2176,7 @@ Investigative Direction: Ask Erika Kirk to confirm her reasons on the record; re
 
 Claim Timestamp: 00:08:26
 
-Claim: The host says Bari Weiss picked the audience questions, which were not random, and that the whole event was very much planned by Weiss.
+Claim: The host says Bari Weiss picked the audience questions, which were not random, and that it was all very much planned by Weiss.
 
 Transcript Snippet: Bari Weiss obviously uh picked those questions. They were not random, like I told you.
 
@@ -2535,7 +2535,7 @@ Investigative Direction: Compare the Neff interview with the carrier records for
 
 Claim Timestamp: 00:26:28
 
-Claim: The host says the public was given the impression over and over by many people that the first person Mikey McCoy called was Erika Kirk, and that he had gone to a camp and trained.
+Claim: The host says she feels the public was given the impression over and over by many people that the first person Mikey McCoy called was Erika Kirk, and that he had, as she put it, almost gone to a camp and trained.
 
 Transcript Snippet: I certainly feel that we were given the impression over and over and over again that the first person Mikey called was Erika.
 
@@ -3329,7 +3329,7 @@ Investigative Direction: Ask attendees for a guest list; the host says the rumor
 
 Claim Timestamp: 01:10:54
 
-Claim: The host says Erika confirmed Charlie was going to mass, that she herself had those conversations with him while he was attending mass, and that his plan to start the process is third-party information she cannot confirm.
+Claim: The host says Erika confirmed it and that they know Charlie was going to mass, that she herself had those conversations with him while he was attending mass, and that his plan to start the process is third-party information she cannot confirm.
 
 Transcript Snippet: I can only speak on the fact that I wasn't lying. And that I was having those conversations with him while he was attending mass.
 

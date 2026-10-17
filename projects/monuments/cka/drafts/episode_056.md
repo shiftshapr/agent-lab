@@ -987,7 +987,7 @@ Investigative Direction: Verify conflict onset date via public news records; cro
 
 Claim Timestamp: 00:01:19
 
-Claim: The host says that when she spoke to influencers at a retreat, Bill Ackman (transcribed as "Bill Ackman") confirmed that he gave a presentation encouraging younger generations not to own property.
+Claim: The host says that when she spoke to influencers at a retreat, Bill Ackman confirmed that he gave a presentation encouraging younger generations not to own property.
 
 Transcript Snippet: Bill Ackman confirmed it that he gave this presentation to encourage younger generations not to own property.
 
@@ -1014,7 +1014,7 @@ Investigative Direction: Compare property-transfer and private-equity purchase f
 
 ---
 
-**C-12526** Host Says Per Tucker Carlson That Kirk Went Head to Head With Netanyahu in June 2025
+**C-12526** Host Says Per Tucker Carlson That Kirk Went Head to Head With Netanyahu in June
 
 Claim Timestamp: 00:02:50
 

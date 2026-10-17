@@ -2952,6 +2952,88 @@
     [
       "\\bSorenson Center\\b",
       "Sorensen Center"
+    ],
+    [
+      "\\bAbby Johnson\\b",
+      "Abbi Johnson",
+      [
+        54
+      ]
+    ],
+    [
+      "\\bBaron Stain bears\\b",
+      "Berenstain Bears",
+      [
+        57
+      ]
+    ],
+    [
+      "\\bBaron Stain with an A\\b",
+      "Berenstain with an A",
+      [
+        57
+      ]
+    ],
+    [
+      "\\bBaron Stain with an E\\b",
+      "Berenstein with an E",
+      [
+        57
+      ]
+    ],
+    [
+      "\\bBorderland said signs\\b",
+      "Borderlon said signs",
+      [
+        54
+      ]
+    ],
+    [
+      "\\bBorderlin\\b",
+      "Borderlon",
+      [
+        54
+      ]
+    ],
+    [
+      "\\bDillon Aero Space\\b",
+      "Dillon Aero"
+    ],
+    [
+      "\\bIn the Know No\\b",
+      "In the Know Know",
+      [
+        51
+      ]
+    ],
+    [
+      "\\bK K AM YU\\b",
+      "KMYU"
+    ],
+    [
+      "\\bLawrence Zillioux\\b",
+      "Lawrence Zilliox"
+    ],
+    [
+      "\\bOperation Mockingbird 2\\b",
+      "Operation Mockingbird",
+      [
+        51
+      ]
+    ],
+    [
+      "\\bSchaefer security\\b",
+      "Shaffer security",
+      [
+        57
+      ]
+    ],
+    [
+      "\\byay power verse\\b",
+      "Ye 'Power' verse",
+      [
+        57
+      ]
     ]
   ]
 }

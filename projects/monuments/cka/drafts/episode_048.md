@@ -1663,7 +1663,7 @@ Investigative Direction: Request the insurer's claim file, if any, for the vehic
 
 Claim Timestamp: 00:32:01
 
-Claim: The host says the feds went there to cover everything up, including sending US Marshals on a wild goose chase.
+Claim: The host says everything she knows tells her the feds went there to cover everything up, including sending US Marshals on a wild goose chase.
 
 Transcript Snippet: To cover everything up including sending US Marshals on a wild goose chase.
 

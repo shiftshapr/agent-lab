@@ -2195,7 +2195,7 @@
       "@id": "C-2108",
       "ref": "C-2108",
       "label": "Host Says November Renaissance Cast/Crew Had Multiple Fort Huachuca or Military Connections",
-      "claim": "The host says, citing people based at Fort Huachuca who contacted her, that members of the *November Renaissance* cast have Fort Huachuca or military ties: Clayton Haugen does marketing for defense contractor Dillon Aero Space; Don Frye trained in judo at Fort Huachuca; Payton McCormick's father was once stationed there; Priscilla Ann Nu'ul's father was a lieutenant stationed there. For Chantal Thuy she cites only that her dad worked on AI for IBM, and for Price Mitchum only a psych hold.",
+      "claim": "The host says, citing people based at Fort Huachuca who contacted her, that members of the *November Renaissance* cast have Fort Huachuca or military ties: Clayton Haugen does marketing for defense contractor Dillon Aero; Don Frye trained in judo at Fort Huachuca; Payton McCormick's father was once stationed there; Priscilla Ann Nu'ul's father was a lieutenant stationed there. For Chantal Thuy she cites only that her dad worked on AI for IBM, and for Price Mitchum only a psych hold.",
       "anchored_artifacts": [
         "A-1635.1",
         "A-1635.2"
@@ -2276,7 +2276,7 @@
       "@type": "Claim",
       "@id": "C-2112",
       "ref": "C-2112",
-      "label": "Erika Publicly Stated She Lived in China Working with Child Sex Trafficking Victims",
+      "label": "Erika Said on a Podcast She Lived in China Working with Sex Trafficking Victims",
       "claim": "On a podcast, Erika stated she \"was living in China and doing a lot of work with the victims from sex trafficking\" before later transitioning to Marine Corps, Army, and Romanian-orphanage work.",
       "anchored_artifacts": [
         "A-1636.1"
@@ -2363,7 +2363,7 @@
       "@id": "C-2115",
       "ref": "C-2115",
       "label": "Nelda Buckman Described Close Post-Assassination Relationship with Erika Including Private Florida Meeting",
-      "claim": "In a January 2026 Daily Wire Plus interview, Nelda Buckman described a close post-assassination relationship with Erika, including a private meeting in Florida ahead of America Fest and a dedication ceremony, and stated that Buckman offered Erika \"personal support\" about navigating her role as a single mother leading Turning Point.",
+      "claim": "The host says that, per a Daily Wire Plus article, Nelda Buckman gave an exclusive interview in January describing a close post-assassination relationship with Erika, including a private meeting in Florida ahead of America Fest and a dedication ceremony, and saying she offered Erika personal support about navigating her new reality as a single mother leading the organization.",
       "anchored_artifacts": [
         "A-1638.2"
       ],
@@ -2762,7 +2762,7 @@
       "@id": "C-9839",
       "ref": "C-9839",
       "label": "Host Says Haugen Does Marketing for Dillon Aerospace",
-      "claim": "The host says Clayton Haugen does marketing for the defense contracting firm Dillon Aero Space.",
+      "claim": "The host says Clayton Haugen does marketing for the defense contracting firm Dillon Aero.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11237",
@@ -2773,7 +2773,7 @@
       ],
       "claim_timestamp": "00:05:30",
       "investigative_direction": "Verify Haugen's employment through LinkedIn or company records; note the firm's spelling (Dillon Aerospace).",
-      "transcript_snippet": "And he does marketing for the defense contracting firm Dillon Aero Space.",
+      "transcript_snippet": "And he does marketing for the defense contracting firm Dillon Aero.",
       "mentions_person_refs": [
         "N-460"
       ]

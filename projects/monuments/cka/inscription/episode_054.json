@@ -77,7 +77,7 @@
           "@type": "Artifact",
           "@id": "A-1598.1",
           "ref": "A-1598.1",
-          "description": "ABC 13 (Lynchburg) report by Rachel Branning on the Liberty Godparent Home, referencing the *Liberty Lost* podcast (Abby Johnson, Raphael)",
+          "description": "ABC 13 (Lynchburg) report by Rachel Branning on the Liberty Godparent Home, referencing the *Liberty Lost* podcast (Abbi Johnson, Raphael)",
           "related_claims": [
             "C-2028",
             "C-2029"
@@ -1057,7 +1057,7 @@
       "@type": "Person",
       "@id": "N-406",
       "ref": "N-406",
-      "name": "Abby Johnson",
+      "name": "Abbi Johnson",
       "type": "person",
       "description": "Former Liberty Godparent Home resident (age 16); quoted in ABC News report on coercion allegations; central voice of *Liberty Lost* podcast.",
       "related_artifacts": [
@@ -3056,7 +3056,7 @@
       "@type": "Claim",
       "@id": "C-2032",
       "ref": "C-2032",
-      "label": "New World Communications loaned $400,000 to Liberty University at 6% interest in 1996",
+      "label": "New World Communications Loaned $400,000 to Liberty University at 6% Interest",
       "claim": "Per the 1997 Washington Post article, New World Communications (parent of the Washington Times) lent $400,000 to Liberty University at 6% interest per a promissory note.",
       "anchored_artifacts": [
         "A-1599.4"
@@ -3112,7 +3112,7 @@
       "@id": "C-2035",
       "ref": "C-2035",
       "label": "Unification Church International exceeded $500 million in mid-1980s",
-      "claim": "Per the 1997 Washington Post article (citing church documents analyzed by private investigator Lawrence Zillioux), Unification Church International exceeded $500 million in the mid-1980s; Far Eastern Economic Review valued South Korean landholdings above $1 billion in 1990.",
+      "claim": "Per the 1997 Washington Post article (citing church documents analyzed by private investigator Lawrence Zilliox), Unification Church International exceeded $500 million in the mid-1980s; Far Eastern Economic Review valued South Korean landholdings above $1 billion in 1990.",
       "anchored_artifacts": [
         "A-1599.6"
       ],
@@ -3139,7 +3139,6 @@
       "claim_timestamp": "01:05:41",
       "investigative_direction": "Cross-reference against contemporaneous Iran-Contra investigative records and the American Freedom Coalition's own IRS filings and disclosures.",
       "mentions_person_refs": [
-        "N-400",
         "N-436"
       ]
     },
@@ -3203,8 +3202,8 @@
       "@type": "Claim",
       "@id": "C-2040",
       "ref": "C-2040",
-      "label": "Korean Herald Headline the Host Shows Says Pastor Son Hyun-bo Was Arrested September 9 for Breaking Election Law",
-      "claim": "Per a Korean Herald headline the host shows, Pastor Son Hyun-bo was arrested on September 9, 2025 for breaking the public official election act and local education autonomy act.",
+      "label": "Korea Herald Headline the Host Shows Says Pastor Son Hyun-bo Was Arrested for Breaking Election Law",
+      "claim": "Per a Korean Herald [Korea Herald] headline the host shows, Pastor Son Hyun-bo was arrested for breaking election law; the host says he was arrested on September 9.",
       "anchored_artifacts": [
         "A-1603.1"
       ],
@@ -3222,8 +3221,8 @@
       "@type": "Claim",
       "@id": "C-2041",
       "ref": "C-2041",
-      "label": "Chance Son stated his father was arrested two days after meeting Charlie Kirk",
-      "claim": "Per CBN News clip, Chance Son (son of Pastor Son Hyun-bo) stated that his father was arrested two days after meeting Charlie Kirk in Seoul at the Build Up Korea conference.",
+      "label": "Chance Son Stated His Father Was Arrested Two Days After Meeting Charlie Kirk",
+      "claim": "Per a CBN News clip the host plays, Chance Son (son of Pastor Son Hyun-bo) stated that his father was arrested two days after meeting Charlie Kirk; the clip says Kirk met Pastor Son in Seoul at a conference.",
       "anchored_artifacts": [
         "A-1600.1"
       ],
@@ -3253,7 +3252,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:24:36",
-      "investigative_direction": "Cross-reference against the *Liberty Lost* podcast testimony from other named residents (Abby Johnson and others) and any internal Godparent Home policies from the 1990s.",
+      "investigative_direction": "Cross-reference against the *Liberty Lost* podcast testimony from other named residents (Abbi Johnson and others) and any internal Godparent Home policies from the 1990s.",
       "mentions_person_refs": [
         "N-408"
       ]
@@ -3321,7 +3320,7 @@
       "@id": "C-2046",
       "ref": "C-2046",
       "label": "Pastor Son Hyun-bo quoted as saying \"Lee Jae-myung has to die for Korea to live\"",
-      "claim": "Per Korean Herald, Pastor Son Hyun-bo shouted during a protest that \"Lee Jae-myung has to die for Korea to live\" and stated the state is \"the same as Hitler and the Nazis.\"",
+      "claim": "Per the Korean Herald [Korea Herald] article the host reads, Pastor Son Hyun-bo shouted during a protest that \"Lee Jae-myung has to die for Korea to live\" and stated the state is \"the same as Hitler and the Nazis.\"",
       "anchored_artifacts": [
         "A-1603.1"
       ],
@@ -4197,8 +4196,7 @@
         "C-6876"
       ],
       "mentions_person_refs": [
-        "N-238",
-        "N-326"
+        "N-238"
       ]
     },
     {
@@ -4251,7 +4249,7 @@
       "@id": "C-8167",
       "ref": "C-8167",
       "label": "Host Says Kolvet's Brother and Cousin Are Military Captains",
-      "claim": "The host says Andrew Kolvet's brother and cousin, Curtis Kolvet and Robert Kolvet, are captains in the military, which differs from her earlier statement that Curtis is a lieutenant colonel.",
+      "claim": "The host says Andrew Kolvet's brother and cousin, Curtis Kolvet and Robert Kolvet, are captains in the military.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -4468,7 +4466,7 @@
       "@id": "C-8178",
       "ref": "C-8178",
       "label": "Host Says a Caller's Probation Officer Offered Her Liberty's Program Instead of Juvenile Detention",
-      "claim": "The host says the woman who called her was 13 and pregnant when a probation officer gave her an ultimatum: juvenile detention or a Liberty University-run program for troubled teens.",
+      "claim": "The host says the woman she spoke with was 13 and pregnant when a probation officer gave her an ultimatum: juvenile detention or a Liberty University-run program for troubled teens.",
       "anchored_artifacts": [
         "A-1604.1"
       ],
@@ -4826,9 +4824,6 @@
       "transcript_snippet": "The Liberty Godparent Home, a place for young, single, pregnant women, is defending itself against allegations of coercion and manipulation.",
       "supports_claim_refs": [
         "C-2043"
-      ],
-      "mentions_person_refs": [
-        "N-407"
       ]
     },
     {
@@ -4854,8 +4849,8 @@
       "@type": "Claim",
       "@id": "C-8195",
       "ref": "C-8195",
-      "label": "ABC Report Says Abby Johnson's Parents Sent Her to the Home With a Liberty Scholarship Promise",
-      "claim": "In the ABC clip, the reporter says that Abby Johnson got pregnant at 16 and that her parents sent her across the country to the Liberty Godparent Home with a promise of a scholarship to Liberty University.",
+      "label": "ABC Report Says Abbi Johnson's Parents Sent Her to the Home With a Liberty Scholarship Promise",
+      "claim": "In the ABC clip, the reporter says that Abbi Johnson got pregnant at 16 and that her parents sent her across the country to the Liberty Godparent Home with a promise of a scholarship to Liberty University.",
       "anchored_artifacts": [
         "A-1598.1"
       ],
@@ -4877,7 +4872,7 @@
       "@type": "Claim",
       "@id": "C-8196",
       "ref": "C-8196",
-      "label": "Abby Johnson Says the Home Had Already Decided on Adoption",
+      "label": "Abbi Johnson Says the Home Had Already Decided on Adoption",
       "claim": "In the ABC clip, Johnson says she wanted to keep her son but felt the home had already decided on the adoption route.",
       "anchored_artifacts": [
         "A-1598.1"
@@ -4950,7 +4945,7 @@
       "@id": "C-8199",
       "ref": "C-8199",
       "label": "ABC Reporter Says Family Life Services and the Home Did Not Reply to Requests",
-      "claim": "In the ABC clip, the reporter says she reached out multiple times to Family Life Services without a response, and asked the Godparent Home to connect her with residents who had positive experiences but had not heard back.",
+      "claim": "In the ABC clip, the reporter says she reached out to 'them' (following mention of Thomas Road Baptist Church and Family Life Services) multiple times without a response, and asked the Godparent Home to connect her with residents who had positive experiences but had not heard back.",
       "anchored_artifacts": [
         "A-1598.1"
       ],
@@ -5494,8 +5489,8 @@
       "@type": "Claim",
       "@id": "C-8223",
       "ref": "C-8223",
-      "label": "Washington Post Quotes Ex-Priest Bordelon That Moon Buys Credibility With Academics",
-      "claim": "Reading the 1997 Washington Post article, the host quotes a former Catholic priest, rendered Borderlin, as saying Moon holds conferences on religious founders like Buddha, Jesus and then Moon and gets credibility from academics who attend.",
+      "label": "Washington Post Quotes Ex-Priest Borderlon That Moon Buys Credibility With Academics",
+      "claim": "Reading the 1997 Washington Post article, the host quotes a former Catholic priest, Borderlon, as saying Moon holds conferences on religious founders like Buddha, Jesus and then Moon and gets credibility from academics who attend.",
       "anchored_artifacts": [
         "A-2922.7"
       ],
@@ -5557,7 +5552,7 @@
       "@id": "C-8226",
       "ref": "C-8226",
       "label": "Washington Post Says Moon Group Shares a Suite With Martial Arts Federation and Washington Times Aviation",
-      "claim": "Reading the 1997 Washington Post article, the host says the International Coalition for Religious Freedom, which Borderlin said signs his checks these days, shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.",
+      "claim": "Reading the 1997 Washington Post article, the host says the International Coalition for Religious Freedom, which Borderlon said signs his checks these days, shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.",
       "anchored_artifacts": [
         "A-2922.8"
       ],
@@ -5898,7 +5893,7 @@
       "@id": "C-8241",
       "ref": "C-8241",
       "label": "Host Says She Has Been Communicating With John Bray Behind the Scenes",
-      "claim": "Responding to a viewer comment, the host says she has seen John Bray's work, finds it compelling, and has been communicating with him behind the scenes.",
+      "claim": "Responding to a viewer comment, the host says she has seen Jon Bray's work, finds it compelling, and has been communicating with him behind the scenes.",
       "anchored_artifacts": [
         "A-2923.2"
       ],
@@ -6027,7 +6022,7 @@
       "@id": "C-8247",
       "ref": "C-8247",
       "label": "Host Believes Vallely Has a Fort Huachuca Connection",
-      "claim": "The host says she believes Paul Vallely has some connection to Fort Huachuca and will add him to her military connections list.",
+      "claim": "The host says she believes Paul Vallely has some connection to Fort Huachuca and that a note should be made of it under military connections.",
       "anchored_artifacts": [
         "A-2923.3"
       ],

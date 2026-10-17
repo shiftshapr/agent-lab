@@ -2278,7 +2278,8 @@
       "mentions_person_refs": [
         "N-2",
         "N-11",
-        "N-1"
+        "N-1",
+        "N-5"
       ]
     },
     {
@@ -2341,7 +2342,7 @@
       "@type": "Claim",
       "@id": "C-2013",
       "ref": "C-2013",
-      "label": "Daily Wire's \"Maddie in the No\" Show Mocks Candace",
+      "label": "Daily Wire's \"In the Know Know\" Show Mocks Candace",
       "claim": "The host says Daily Wire has launched a show hosted by \"Maddie\" designed to mock her and Tucker Carlson, and plays a clip in which the show dramatizes her Utah state flag remarks.",
       "anchored_artifacts": [
         "A-1584.1"
@@ -4371,7 +4372,7 @@
       "@type": "Claim",
       "@id": "C-6885",
       "ref": "C-6885",
-      "label": "Host Says Bert Ran Duncan Aviation as EVP and COO for 22 Years and Retired in 2019",
+      "label": "Host Says Burt Ran Duncan Aviation as EVP and COO for 22 Years and Retired in 2019",
       "claim": "The host says Thomas Burt ran Duncan Aviation as executive vice president and COO for 22 years and retired in 2019.",
       "anchored_artifacts": [],
       "related_nodes": [
