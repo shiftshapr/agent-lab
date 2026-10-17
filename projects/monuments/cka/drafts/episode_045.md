@@ -1297,7 +1297,7 @@ Investigative Direction: Identify the source messages or communications behind e
 
 **C-8096** Host Says Her Earlier E4 and E3 Rank Was Her Transcription Error and Harry Said O-6
 
-Claim Timestamp: 00:37:59
+Claim Timestamp: 00:39:11
 
 Claim: The host says she misspoke the day before when she said E4 and E3, that her notes show the witness said O-6, and that she introduced the error when transferring her notes, then Googling and editing what she thought she heard.
 
