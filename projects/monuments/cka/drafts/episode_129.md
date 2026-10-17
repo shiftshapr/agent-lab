@@ -951,7 +951,7 @@ Investigative Direction: Cross-reference against courtroom reporting and any Eri
 
 Claim Timestamp: 00:36:27
 
-Claim: The Daily Mail article reports Erika Kirk saying she is not going to give Candace Owens an ounce of her energy, and quotes a source saying that at this point Erika likes even Tyler Robinson more than she likes Candace.
+Claim: The Daily Mail article quotes a source saying Erika Kirk says she is not going to give Candace Owens an ounce of her energy, and that "I think at this point Erika likes even Tyler Robinson more than she likes Candace."
 
 Anchored Artifacts: A-2164.3
 Mentions: N-2, N-40, N-3
@@ -1012,7 +1012,7 @@ Claim Timestamp: 00:03:30
 Claim: The host describes an informal "double-blind" comparison in which multiple observers independently identified the object as a glove, with the husband reportedly shown the image without contextual framing.
 
 Anchored Artifacts: A-2165.1
-Mentions: N-331
+Mentions: N-30, N-331
 
 Related Nodes:
 
@@ -2223,7 +2223,7 @@ Investigative Direction: Check the Connecticut and Texas judgments against the $
 
 Claim Timestamp: 00:48:42
 
-Claim: On the Charlie Kirk Show clip, Viva Frei says theories that it was exploding microphones or that Israel did it are unsubstantiated and unfalsifiable, and that without a shred of evidence one cannot manufacture facts out of whole cloth.
+Claim: On the Charlie Kirk Show clip, Viva Frei says theories that it was exploding microphones or that Israel did it are unsubstantiated and unfalsifiable, allowing that Israel might have had a hand in it, but that without a shred of evidence one cannot manufacture facts out of whole cloth.
 
 Transcript Snippet: But to go from there to say that it's exploding microphones, Israel did it, and not that Israel might not Israel might have had a hand in this.
 

@@ -974,7 +974,7 @@ Mentions: N-732, N-1
 
 Related Nodes: N-10677
 
-Investigative Direction: Verify the 200-yard figure against the documented distance from the Loews Center to the courtyard; check ABC News raw footage for prior coaching or scripting cues.
+Investigative Direction: Verify the 200-yard figure against the documented distance from the Losee Center to the courtyard; check ABC News raw footage for prior coaching or scripting cues.
 
 ---
 
@@ -1375,13 +1375,13 @@ Investigative Direction: Obtain broadcast metadata for both interviews to verify
 
 ---
 
-**C-5799** Host says Tool's 200-yard estimate matches the distance to Losee Center
+**C-5799** Host Says Tewell's 200-Yard Estimate Matches the Distance to Losee Center
 
 Claim Timestamp: 00:20:48
 
-Claim: The host says Sara Tewell's ABC News estimate of how far away the shot was fired matches the distance to Loews Center.
+Claim: The host says Sara Tewell's ABC News estimate of how far away the shot was fired matches the distance to Losee Center.
 
-Transcript Snippet: She's even able to confirm how many yards away the bullet was fired from, and it incredibly matches the distance to Loews Center.
+Transcript Snippet: She's even able to confirm how many yards away the bullet was fired from, and it incredibly matches the distance to Losee Center.
 
 Anchored Artifacts: A-2086.3
 Mentions: N-732
@@ -1727,7 +1727,7 @@ Investigative Direction: Locate the reply post and identify who published it fro
 
 Claim Timestamp: 00:34:44
 
-Claim: The host says another person has come forward and confirmed that Erika Kirk worked as the contact for the model apartments on the Upper East Side, and says she met Erika.
+Claim: The host says another person has come forward and confirmed that Erika Kirk worked as the contact for the model apartments on the Upper East Side, and that this person says she herself met Erika.
 
 Transcript Snippet: Another person has come forward and confirmed this information. That Erika Kirk was working as the contact for the model apartments on the Upper East Side.
 
@@ -2018,7 +2018,7 @@ Investigative Direction: Interview the woman and obtain her contemporaneous acco
 
 Claim Timestamp: 00:45:58
 
-Claim: The host says the woman flew back to Chicago to bring Erika a relic, and was uncomfortable when Erika was later invited to Mar-a-Lago and presented as Judeo-Christian with no mention of Catholicism.
+Claim: The host says the woman flew back to Chicago to bring Erika a relic, and was uncomfortable when she was later invited to Mar-a-Lago and Erika presented as Judeo-Christian with no mention of Catholicism.
 
 Transcript Snippet: This woman flies back to Chicago to bring Erika a relic and she's totally Catholic. And then the woman is uncomfortable when she then gets invited to Mar-a-Lago
 

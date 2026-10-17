@@ -189,7 +189,7 @@ Brian Harpole would not forget getting Charlie within a 6-minute ride down in a 
 
 [35:29]
 
-Anyway, what I can tell you is that when we return from break, we are going to thoroughly vet and present for you guys a witness tree of all of these people, the decoy people, the people that spoke to the media, um who I now know it's plausible were being artificially inflated by our Department of War. Wouldn't have known that if I didn't get my hands on that email, which they don't want to confirm via my FOIA request. But, we're going to get it. Be patient. That email we shared with you was real. People like Sarah Tool, the young woman that we showed you who changed her story three times, definitively saw him get hit in the chest, gave a description of how he was bleeding, then said, "No, no, he was hit in the neck." Yes, guys, I want you to know I have received your emails, and wow, is Sarah Tool a rabbit hole in and of herself.
+Anyway, what I can tell you is that when we return from break, we are going to thoroughly vet and present for you guys a witness tree of all of these people, the decoy people, the people that spoke to the media, um who I now know it's plausible were being artificially inflated by our Department of War. Wouldn't have known that if I didn't get my hands on that email, which they don't want to confirm via my FOIA request. But, we're going to get it. Be patient. That email we shared with you was real. People like Sara Tewell, the young woman that we showed you who changed her story three times, definitively saw him get hit in the chest, gave a description of how he was bleeding, then said, "No, no, he was hit in the neck." Yes, guys, I want you to know I have received your emails, and wow, is Sara Tewell a rabbit hole in and of herself.
 
 [36:21]
 
@@ -203,7 +203,7 @@ We still have not been able to go through all the emails obviously, but we will 
 
 [38:54]
 
-She received her license like immediately following meeting Charlie. All of it is very interesting and it feels connected to me like I said I no longer deem this as just a coincidence of her constantly floating around the Epstein network and the places that he hung out in these you know cousin that she was with cousin I'll put that in quotation marks it doesn't actually seem like Nicole Rothchild is her blood cousin but she certainly was involved in real estate with that family. The Rothchild consistent Rothchild connections in Erika's life whether it's through the Corcoran group which we had already showed you established according to Jeffrey Epstein's emails by Lynn de Rothschild. Erika is that's where she gets her real estate license under.
+She received her license like immediately following meeting Charlie. All of it is very interesting and it feels connected to me like I said I no longer deem this as just a coincidence of her constantly floating around the Epstein network and the places that he hung out in these you know cousin that she was with cousin I'll put that in quotation marks it doesn't actually seem like Nicole Rothstein is her blood cousin but she certainly was involved in real estate with that family. The Rothchild consistent Rothchild connections in Erika's life whether it's through the Corcoran group which we had already showed you established according to Jeffrey Epstein's emails by Lynn de Rothschild. Erika is that's where she gets her real estate license under.
 
 [39:40]
 

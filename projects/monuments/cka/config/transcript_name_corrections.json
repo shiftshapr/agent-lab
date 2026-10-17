@@ -3270,12 +3270,32 @@
       "\\bSarah Tool\\b",
       "Sara Tewell",
       [
-        120
+        120,
+        121,
+        122
       ]
     ],
     [
       "\\bSamantha Carner\\b",
       "Samantha Karner"
+    ],
+    [
+      "\\bHigh Mount Capital\\b",
+      "Highmount Capital"
+    ],
+    [
+      "\\bLoews Center\\b",
+      "Losee Center",
+      [
+        120
+      ]
+    ],
+    [
+      "\\bNicole Rothchild\\b",
+      "Nicole Rothstein",
+      [
+        122
+      ]
     ]
   ]
 }

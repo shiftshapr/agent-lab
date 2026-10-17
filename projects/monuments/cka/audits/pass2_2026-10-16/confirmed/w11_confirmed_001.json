@@ -1,0 +1,305 @@
+[
+ {
+  "claim": "C-5797",
+  "episode": 120,
+  "decision": "reject",
+  "fix": {},
+  "note": "Draft already reads Sara Tewell in claim and label; existing Sarah Tool rule (ep120) covers it."
+ },
+ {
+  "claim": "C-5798",
+  "episode": 120,
+  "decision": "reject",
+  "fix": {},
+  "note": "Label already reads Sara Tewell; existing Sarah Tool rule covers it."
+ },
+ {
+  "claim": "C-5799",
+  "episode": 120,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Sara Tewell's ABC News estimate of how far away the shot was fired matches the distance to Losee Center.",
+   "label": "Host Says Tewell's 200-Yard Estimate Matches the Distance to Losee Center",
+   "names": [
+    {
+     "wrong": "Loews Center",
+     "right": "Losee Center",
+     "source": "https://www.highereddive.com/news/kirk-shooter-appeared-to-fire-from-roof-of-university-Losee-student-services-buil/759937/"
+    }
+   ]
+  },
+  "note": "Claim already has Tewell; only 'Loews Center' (no rule yet) and 'Tool's' in label remain to fix."
+ },
+ {
+  "claim": "C-2960",
+  "episode": 121,
+  "decision": "reject",
+  "fix": {},
+  "note": "Semafor chart talk starts ~45:47, about 21s before 46:09 and runs up to it; within the tolerance window."
+ },
+ {
+  "claim": "C-13094",
+  "episode": 121,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that, after the last private equity firm failed to rescue the Daily Wire, it is turning to Highmount Capital to raise money at a valuation she calls absurd.",
+   "label": "Host Says Daily Wire Is Turning to Highmount Capital After a Failed Private Equity Deal",
+   "names": [
+    {
+     "wrong": "High Mount Capital",
+     "right": "Highmount Capital",
+     "source": "https://www.insideradio.com/free/report-the-daily-wire-seeks-100-million-as-it-eyes-public-markets/article_121e2018-1031-437f-92e1-8fbea8ddb2bf.html"
+    }
+   ]
+  },
+  "note": "Verified: Semafor-based reports name Highmount Capital in Daily Wire talks; also fix label; cited a source I checked."
+ },
+ {
+  "claim": "C-2971",
+  "episode": 122,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already says David Sprague; fix only re-applies existing David Sprag rule."
+ },
+ {
+  "claim": "C-2972",
+  "episode": 122,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already says David Sprague; fix only re-applies existing David Sprag rule."
+ },
+ {
+  "claim": "C-8830",
+  "episode": 122,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already says David Sprague; fix only re-applies existing David Sprag rule."
+ },
+ {
+  "claim": "C-8831",
+  "episode": 122,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says viewers emailed asking her to look into the 'umbrella boys', meaning Sprague and his companion who huddled under an umbrella at the event, and that he looked 'dressed super young' but was in his 40s."
+  },
+  "note": "Bare 'Sprag' in claim is not covered by the David Sprag rule; text fix only, no new name rule needed."
+ },
+ {
+  "claim": "C-8832",
+  "episode": 122,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already says David Sprague; fix only re-applies existing David Sprag rule."
+ },
+ {
+  "claim": "C-8887",
+  "episode": 122,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim is about the witness tree generally; it does not name or refer to Sarah Tool/Sara Tewell."
+ },
+ {
+  "claim": "C-8892",
+  "episode": 122,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says it does not seem that Nicole Rothstein is Erika's blood cousin but that she was certainly involved in real estate with that family.",
+   "label": "Host Says Nicole Rothstein Is Not Erika's Blood Cousin but Worked in Real Estate With That Family",
+   "mentions": [
+    "N-576",
+    "N-2",
+    "N-3"
+   ],
+   "names": [
+    {
+     "wrong": "Nicole Rothchild",
+     "right": "Nicole Rothstein",
+     "source": "HappyScribe Ep 356 ~38:48 reads 'Nicole Rothstein'; host's ep77 (09:00) names Erika's real-estate 'cousin' Nicole Rothstein"
+    }
+   ]
+  },
+  "note": "Confirmed via HappyScribe; same person as existing node N-576 Nicole Rothstein (eps 50, 77), so swap N-820 for N-576."
+ },
+ {
+  "claim": "C-2990",
+  "episode": 123,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:11:04"
+  },
+  "note": "Thicker/cardboard/separate-from-bag/burnt details start ~11:05-11:15; 11:58 is >20s after that start."
+ },
+ {
+  "claim": "C-2994",
+  "episode": 123,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that across their many retellings, Frank Turek and Brian Harpole described Frank praying and Harpole packing the wound but did not mention any shattered tempered glass in the vehicle.",
+   "timestamp": "00:19:40"
+  },
+  "note": "Paramount Tactical/Shawn Ryan are cited only re the medical bag; omission stated at 19:26 block."
+ },
+ {
+  "claim": "C-3010",
+  "episode": 124,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already has Caitlin Oliver; fix only re-applies existing Caitlyn Oliver rule."
+ },
+ {
+  "claim": "C-3011",
+  "episode": 124,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already has Caitlin Oliver; fix only re-applies existing Caitlyn Oliver rule."
+ },
+ {
+  "claim": "C-3012",
+  "episode": 124,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already has Caitlin Oliver; fix only re-applies existing Caitlyn Oliver rule."
+ },
+ {
+  "claim": "C-3013",
+  "episode": 124,
+  "decision": "reject",
+  "fix": {},
+  "note": "Draft already reads Samantha Karner; fix only re-applies existing Samantha Carner rule."
+ },
+ {
+  "claim": "C-7233",
+  "episode": 124,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already has Caitlin Oliver; fix only re-applies existing Caitlyn Oliver rule."
+ },
+ {
+  "claim": "C-7235",
+  "episode": 124,
+  "decision": "reject",
+  "fix": {},
+  "note": "Names-only fix re-applies existing Caitlyn Oliver rule; node already Caitlin Oliver."
+ },
+ {
+  "claim": "C-7236",
+  "episode": 124,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already has Caitlin Oliver; fix only re-applies existing Caitlyn Oliver rule."
+ },
+ {
+  "claim": "C-7237",
+  "episode": 124,
+  "decision": "reject",
+  "fix": {},
+  "note": "Names-only fix re-applies existing Caitlyn Oliver rule; node already Caitlin Oliver."
+ },
+ {
+  "claim": "C-7239",
+  "episode": 124,
+  "decision": "reject",
+  "fix": {},
+  "note": "Draft already reads Samantha Karner; fix only re-applies existing rule."
+ },
+ {
+  "claim": "C-7240",
+  "episode": 124,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the 6A fragment range of .286 to .301 is too small for Tyler's .30-06, because a .30-06 bullet begins at .308 and goes upward, so she says Karner is basically admitting it is not Tyler Robinson's gun."
+  },
+  "note": "Bare 'Carner' in claim not covered by the Samantha Carner rule; text fix only, rule already exists."
+ },
+ {
+  "claim": "C-7271",
+  "episode": 124,
+  "decision": "reject",
+  "fix": {},
+  "note": "Draft already reads Diligent Denizen; existing Diligent Dennison rule covers it."
+ },
+ {
+  "claim": "C-7273",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "claim": "Responding to a viewer comment, the host says the order should have been to call 911, stop the bleeding and stabilize the neck; the comment says anything else is criminal medical malpractice, and the host says she agrees."
+  },
+  "note": "Malpractice/EMT-license lines read as the viewer comment; host then says 'I would agree with you.'"
+ },
+ {
+  "claim": "C-5858",
+  "episode": 125,
+  "decision": "reject",
+  "fix": {},
+  "note": "Transcript already says 'Stew Peters' and node N-734 is Stew Peters; fix changes nothing."
+ },
+ {
+  "claim": "C-8994",
+  "episode": 126,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host presents what she calls yesterday's top comment, which pairs the question 'Where were you the morning of September 10th, Blake Neff?' with Neff saying 'Why would I even remember such a thing?', and she says he really did say this.",
+   "label": "Top Comment Pairs September 10 Question With Neff's 'Why Would I Even Remember Such a Thing?'"
+  },
+  "note": "It is a viewer comment, not a clip of Neff being asked; >> markers suggest it may be a video comment, so wording kept neutral."
+ },
+ {
+  "claim": "C-3049",
+  "episode": 127,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current claim/label already Bakker; fix only re-applies existing Amanda Baker rule (ep127)."
+ },
+ {
+  "claim": "C-3050",
+  "episode": 127,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current claim/label already Bakker; fix only re-applies existing Amanda Baker rule (ep127)."
+ },
+ {
+  "claim": "C-3051",
+  "episode": 127,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Sergeant Faumuina does not remember communicating the \"not probative\" decision and that Bakker says someone else in the lab added the \"Kirk's detail\" note, asks who that person is, and says the items should have been tested."
+  },
+  "note": "Bare 'Baker' in claim is not covered by the Amanda Baker rule; text fix only."
+ },
+ {
+  "claim": "C-7298",
+  "episode": 127,
+  "decision": "amend",
+  "fix": {
+   "label": "Bakker Testified the Items Were Initially Processed for DNA"
+  },
+  "note": "Claim already Bakker; only label 'Baker' needs fixing. Rule already exists, no names entry."
+ },
+ {
+  "claim": "C-7299",
+  "episode": 127,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Bakker asserted that they initially thought the items were abandoned by the rooftop shooter, which the host takes to mean they were found along the route he took.",
+   "label": "Host Says Bakker Also Said the Items Were First Thought Abandoned by the Shooter"
+  },
+  "note": "Bare 'Baker' in claim/label not covered by rule; text fix only, no names entry."
+ },
+ {
+  "claim": "C-3090",
+  "episode": 129,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-30",
+    "N-331"
+   ]
+  },
+  "note": "Baron Coleman is one of the observers (04:38, 'sent it to Baron Coleman, he said gloves'; label names him); add husband N-30."
+ }
+]

@@ -141,7 +141,7 @@ Here is her first interview to jog your memory. >> So, basically, um I heard a l
 
 [20:48]
 
-So, big prayers going out to him, hoping that everything is okay. >> That is remarkable. That is remarkable. Directly to his heart to now on the left side of his neck. But, she wasn't done. Cuz then she went big time. She spoke to ABC News, and this time her memory is just getting better and better. She's even able to confirm how many yards away the bullet was fired from, and it incredibly matches the distance to Loews Center. She becomes an expert in sound ballistics. Take a listen. >> So, I was in the fourth row in the courtyard where Charlie Kirk was. Um I was a little to his left, and uh the shooter was to my right. So, and even if you were looking at Charlie Kirk from the front, the shooter was still to the right, and just got him right in the neck, blood gushing everywhere.
+So, big prayers going out to him, hoping that everything is okay. >> That is remarkable. That is remarkable. Directly to his heart to now on the left side of his neck. But, she wasn't done. Cuz then she went big time. She spoke to ABC News, and this time her memory is just getting better and better. She's even able to confirm how many yards away the bullet was fired from, and it incredibly matches the distance to Losee Center. She becomes an expert in sound ballistics. Take a listen. >> So, I was in the fourth row in the courtyard where Charlie Kirk was. Um I was a little to his left, and uh the shooter was to my right. So, and even if you were looking at Charlie Kirk from the front, the shooter was still to the right, and just got him right in the neck, blood gushing everywhere.
 
 [21:43]
 

@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-17T20:50:17Z",
+  "generated_at": "2026-10-17T20:57:13Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -24192,7 +24192,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13094",
-      "label": "Host Says Daily Wire Is Turning to High Mount Capital After a Failed Private Equity Deal",
+      "label": "Host Says Daily Wire Is Turning to Highmount Capital After a Failed Private Equity Deal",
       "node_kind": "claim",
       "episode": 121
     },
@@ -24276,14 +24276,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13105",
-      "label": "Host Says Sarah Tool Changed Her Story Three Times",
+      "label": "Host Says Sara Tewell Changed Her Story Three Times",
       "node_kind": "claim",
       "episode": 121
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13106",
-      "label": "Host Says Sarah Tool Smiled the Whole Time",
+      "label": "Host Says Sara Tewell Smiled the Whole Time",
       "node_kind": "claim",
       "episode": 121
     },
@@ -24374,7 +24374,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13118",
-      "label": "Host Asks Viewers to Email moretips Address",
+      "label": "Host Asks Viewers to Email the Tips Address",
       "node_kind": "claim",
       "episode": 121
     },
@@ -49728,14 +49728,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3020",
-      "label": "Clip Has Blake Neff Acknowledging Danny Phillip as Possible SUV Passenger",
+      "label": "Clip Has Blake Neff Acknowledging Danny Philip as Possible SUV Passenger",
       "node_kind": "claim",
       "episode": 125
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3021",
-      "label": "Host Says Danny Phillip Is Grandson of Thomas Patrick",
+      "label": "Host Says Danny Philip Is Grandson of Thomas Patrick",
       "node_kind": "claim",
       "episode": 125
     },
@@ -69167,7 +69167,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5799",
-      "label": "Host says Tool's 200-yard estimate matches the distance to Losee Center",
+      "label": "Host Says Tewell's 200-Yard Estimate Matches the Distance to Losee Center",
       "node_kind": "claim",
       "episode": 120
     },
@@ -79660,14 +79660,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7298",
-      "label": "Baker Testified the Items Were Initially Processed for DNA",
+      "label": "Bakker Testified the Items Were Initially Processed for DNA",
       "node_kind": "claim",
       "episode": 127
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7299",
-      "label": "Host Says Baker Also Said the Items Were First Thought Abandoned by the Shooter",
+      "label": "Host Says Bakker Also Said the Items Were First Thought Abandoned by the Shooter",
       "node_kind": "claim",
       "episode": 127
     },
@@ -90762,14 +90762,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8884",
-      "label": "Host Says Sarah Tool Changed Her Story Three Times, Starting With a Chest Hit",
+      "label": "Host Says Sara Tewell Changed Her Story Three Times, Starting With a Chest Hit",
       "node_kind": "claim",
       "episode": 122
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8885",
-      "label": "Host Says Sarah Tool's Married-Into Family Controlled Emergency Dispatch Services",
+      "label": "Host Says Sara Tewell's Married-Into Family Controlled Emergency Dispatch Services",
       "node_kind": "claim",
       "episode": 122
     },
@@ -90818,7 +90818,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8892",
-      "label": "Host Says Nicole Rothchild Is Not Erika's Blood Cousin but Worked in Real Estate With That Family",
+      "label": "Host Says Nicole Rothstein Is Not Erika's Blood Cousin but Worked in Real Estate With That Family",
       "node_kind": "claim",
       "episode": 122
     },
@@ -91532,7 +91532,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8994",
-      "label": "Clip Has Blake Neff Saying 'Why Would I Even Remember Such a Thing?' When Asked About September 10",
+      "label": "Top Comment Pairs September 10 Question With Neff's 'Why Would I Even Remember Such a Thing?'",
       "node_kind": "claim",
       "episode": 126
     },

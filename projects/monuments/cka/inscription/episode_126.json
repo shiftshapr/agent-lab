@@ -2003,7 +2003,7 @@
       "@id": "C-3040",
       "ref": "C-3040",
       "label": "Time Reported Campaign Spend of ~$1.5 Million/Day",
-      "claim": "Per Time article reporting, the Israeli foreign ministry's contracted digital campaign via Clock Tower X was reportedly spending approximately $1.5 million per day.",
+      "claim": "The host says the Time article reports that the Israeli government's digital campaign via Clock Tower X spent, she believes, about $1.5 million a day.",
       "anchored_artifacts": [
         "A-2144.1"
       ],
@@ -2268,7 +2268,7 @@
       "@id": "C-8942",
       "ref": "C-8942",
       "label": "Host Says the Library Is Not Near the Losee Center Route Used in the Questioning",
-      "claim": "The host says that the questioner had established the person who jumped off the Losee Center ran a particular route, that the library is not near the Losee Center, and that this route is why the abandoned items drew attention.",
+      "claim": "The host says that the questioner was essentially putting to Sergeant Faumuina that she had made clear the person who jumped off the Losee Center ran a particular route, that the library is not near the Losee Center, and that this route is why the abandoned items drew attention.",
       "anchored_artifacts": [
         "A-2139.1"
       ],
@@ -2314,7 +2314,7 @@
       "@id": "C-8944",
       "ref": "C-8944",
       "label": "Host Says Temperature Was About 85 Degrees, Making Gloves Notable",
-      "claim": "The host says it was about 85 degrees in Utah that day, so gloves left at the bus stop are relevant, and she asks who was wearing, holding and dropping gloves and what the other six items were.",
+      "claim": "The host says she thinks it was about 85 degrees in Utah that day, so gloves left at the bus stop are relevant, and she asks who was wearing, holding and dropping gloves and what the other six items were.",
       "anchored_artifacts": [
         "A-2139.1"
       ],
@@ -3439,8 +3439,8 @@
       "@type": "Claim",
       "@id": "C-8994",
       "ref": "C-8994",
-      "label": "Clip Has Blake Neff Saying 'Why Would I Even Remember Such a Thing?' When Asked About September 10",
-      "claim": "In a played clip, asked where he was the morning of September 10th, Blake Neff answers 'Why would I even remember such a thing?'",
+      "label": "Top Comment Pairs September 10 Question With Neff's 'Why Would I Even Remember Such a Thing?'",
+      "claim": "The host presents what she calls yesterday's top comment, which pairs the question 'Where were you the morning of September 10th, Blake Neff?' with Neff saying 'Why would I even remember such a thing?', and she says he really did say this.",
       "anchored_artifacts": [
         "A-2977.1"
       ],

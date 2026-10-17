@@ -1984,7 +1984,7 @@ Investigative Direction: Obtain the medical examiner's evidence log and the ATF 
 
 Claim Timestamp: 00:40:31
 
-Claim: The host says the 6A fragment range of .286 to .301 is too small for Tyler's .30-06, because a .30-06 bullet begins at .308 and goes upward, so she says Carner is basically admitting it is not Tyler Robinson's gun.
+Claim: The host says the 6A fragment range of .286 to .301 is too small for Tyler's .30-06, because a .30-06 bullet begins at .308 and goes upward, so she says Karner is basically admitting it is not Tyler Robinson's gun.
 
 Transcript Snippet: The reason why that matters is because it's too small for Tyler's 306.
 
@@ -2068,7 +2068,7 @@ Investigative Direction: Check the hearing record for a 20 minute exhibit and co
 
 Claim Timestamp: 00:50:12
 
-Claim: Benny Johnson says in the video that Erika Kirk asked them to ask viewers to pray for a speedy trial and for justice for the widow.
+Claim: Benny Johnson says in the video, "Please pray. Erika Kirk asked us to do this," and urges viewers to pray for a speedy trial and for justice for the widow.
 
 Transcript Snippet: Please pray. Erika Kirk asked us to do this.
 
@@ -2100,7 +2100,7 @@ Investigative Direction: Collect the later statements by Benny Johnson and other
 
 Claim Timestamp: 00:52:34
 
-Claim: The host says everyone else spent nine hours a day watching the hearing, but the 4K HD footage was held back to give the same influencers at the very end of day five.
+Claim: Mocking the influencers' account, the host says everyone else spent nine hours a day watching the hearing, but they supposedly waited until the very end of day five to give the 4K HD footage to the same influencers.
 
 Transcript Snippet: Everyone else was spending nine hours a day watching every day of the hearing, but they waited till the end to give this gift to the same influencers
 
@@ -2311,7 +2311,7 @@ Investigative Direction: Compare Frank Turek's and Brian Harpole's recorded acco
 
 Claim Timestamp: 01:03:20
 
-Claim: The host says Justin Davis was driving upwards of 100 miles per hour and would not have answered a call from Shapiro's security because he was focused on the road.
+Claim: The host says Justin Davis was driving upwards of 100 miles per hour and that she is going to say he would not have answered a call from Shapiro's security because he was focused on the road.
 
 Transcript Snippet: Justin Davis was driving upwards to 100 miles per hour.
 
@@ -2524,7 +2524,7 @@ Investigative Direction: No external record is available for the dreams; compare
 
 Claim Timestamp: 01:18:37
 
-Claim: Responding to a viewer comment, the host says the correct order should have been to call 911, stop the bleeding and stabilize the neck, and that anything else would be criminal medical malpractice.
+Claim: Responding to a viewer comment, the host says the order should have been to call 911, stop the bleeding and stabilize the neck; the comment says anything else is criminal medical malpractice, and the host says she agrees.
 
 Transcript Snippet: Yep, we mentioned that the order should have been call 911 and stop bleeding, stabilize the neck.
 

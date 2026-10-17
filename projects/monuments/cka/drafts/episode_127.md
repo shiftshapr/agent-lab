@@ -1052,7 +1052,7 @@ Investigative Direction: Identify the lab employee who authored/added the "Kirk'
 
 Claim Timestamp: 00:20:30–00:24:14
 
-Claim: The host says Sergeant Faumuina does not remember communicating the "not probative" decision and that Baker says someone else in the lab added the "Kirk's detail" note, asks who that person is, and says the items should have been tested.
+Claim: The host says Sergeant Faumuina does not remember communicating the "not probative" decision and that Bakker says someone else in the lab added the "Kirk's detail" note, asks who that person is, and says the items should have been tested.
 
 Anchored Artifacts: A-2148.2, A-2149.2
 Mentions: N-3, N-506, N-779
@@ -1453,7 +1453,7 @@ Investigative Direction: Compare the item descriptions in the lab inventory with
 
 ---
 
-**C-7298** Baker Testified the Items Were Initially Processed for DNA
+**C-7298** Bakker Testified the Items Were Initially Processed for DNA
 
 Claim Timestamp: 00:19:25
 
@@ -1470,11 +1470,11 @@ Investigative Direction: Obtain the FBI lab DNA results, if any, for exhibit nin
 
 ---
 
-**C-7299** Host Says Baker Also Said the Items Were First Thought Abandoned by the Shooter
+**C-7299** Host Says Bakker Also Said the Items Were First Thought Abandoned by the Shooter
 
 Claim Timestamp: 00:20:30
 
-Claim: The host says Baker asserted that they initially thought the items were abandoned by the rooftop shooter, which the host takes to mean they were found along the route he took.
+Claim: The host says Bakker asserted that they initially thought the items were abandoned by the rooftop shooter, which the host takes to mean they were found along the route he took.
 
 Transcript Snippet: similarly that they initially thought that it was abandoned by the rooftop shooter, which means that they found this along the route that the alleged rooftop shooter took, right?
 
@@ -1557,7 +1557,7 @@ Investigative Direction: Ask the hospital and county EMS for the pre-arrival not
 
 Claim Timestamp: 00:25:23
 
-Claim: The host says that although Brian Harpole and Frank Turek (Turek) loved telling the story over and over, nobody wants to take credit for calling 911.
+Claim: The host says that although Brian Harpole and Frank Turek loved telling the story over and over, nobody wants to take credit for calling 911.
 
 Transcript Snippet: nobody wants to take credits for calling 911.
 

@@ -1062,7 +1062,7 @@ Investigative Direction: Obtain Time article in full; verify spend figures and n
 
 Claim Timestamp: 00:35:39
 
-Claim: Per Time article reporting, the Israeli foreign ministry's contracted digital campaign via Clock Tower X was reportedly spending approximately $1.5 million per day.
+Claim: The host says the Time article reports that the Israeli government's digital campaign via Clock Tower X spent, she believes, about $1.5 million a day.
 
 Anchored Artifacts: A-2144.1
 Mentions: N-431
@@ -1249,7 +1249,7 @@ Investigative Direction: Obtain the FBI and ATF lab notes and reports referenced
 
 Claim Timestamp: 00:11:52
 
-Claim: The host says that the questioner had established the person who jumped off the Losee Center ran a particular route, that the library is not near the Losee Center, and that this route is why the abandoned items drew attention.
+Claim: The host says that the questioner was essentially putting to Sergeant Faumuina that she had made clear the person who jumped off the Losee Center ran a particular route, that the library is not near the Losee Center, and that this route is why the abandoned items drew attention.
 
 Transcript Snippet: Just so you guys know, the library is not near Loews Center.
 
@@ -1281,7 +1281,7 @@ Investigative Direction: Identify the report this source filed and obtain it fro
 
 Claim Timestamp: 00:13:30
 
-Claim: The host says it was about 85 degrees in Utah that day, so gloves left at the bus stop are relevant, and she asks who was wearing, holding and dropping gloves and what the other six items were.
+Claim: The host says she thinks it was about 85 degrees in Utah that day, so gloves left at the bus stop are relevant, and she asks who was wearing, holding and dropping gloves and what the other six items were.
 
 Transcript Snippet: I think it was literally like 85° in Utah.
 
@@ -2081,11 +2081,11 @@ Investigative Direction: Review TPUSA's IRS Form 990 and audited financials for 
 
 ---
 
-**C-8994** Clip Has Blake Neff Saying 'Why Would I Even Remember Such a Thing?' When Asked About September 10
+**C-8994** Top Comment Pairs September 10 Question With Neff's 'Why Would I Even Remember Such a Thing?'
 
 Claim Timestamp: 00:47:13
 
-Claim: In a played clip, asked where he was the morning of September 10th, Blake Neff answers 'Why would I even remember such a thing?'
+Claim: The host presents what she calls yesterday's top comment, which pairs the question 'Where were you the morning of September 10th, Blake Neff?' with Neff saying 'Why would I even remember such a thing?', and she says he really did say this.
 
 Transcript Snippet: Where were you the morning of September 10th, Blake Neff? Why would I even remember such a thing?
 

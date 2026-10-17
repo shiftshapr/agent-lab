@@ -628,7 +628,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-732** Sarah Tool
+**N-732** Sara Tewell
 
 Existing node reused for new claims in this episode.
 
@@ -636,7 +636,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10677** Sarah Tool Witness Statement Discrepancy
+**N-10677** Sara Tewell Witness Statement Discrepancy
 
 Existing node reused for new claims in this episode.
 
@@ -644,10 +644,10 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11196** Sarah Tool Family Emergency Dispatch Connection
+**N-11196** Sara Tewell Family Emergency Dispatch Connection
 
 Node Type: Topic
-The host's claim that the family Sarah Tool married into controlled emergency dispatch and triage services and that its company partners with Carbyne.
+The host's claim that the family Sara Tewell married into controlled emergency dispatch and triage services and that its company partners with Carbyne.
 
 *Related: C-8885, C-8886*
 
@@ -664,7 +664,7 @@ First named by the host at 00:36:21 in episode 122. The host says he created Car
 **N-11197** Carbyne
 
 Node Type: Organization
-Emergency-communications company the host says was created by Ehud Barak and is in partnership with the dispatch company tied to Sarah Tool's family.
+Emergency-communications company the host says was created by Ehud Barak and is in partnership with the dispatch company tied to Sara Tewell's family.
 
 *Related: C-8886*
 
@@ -694,7 +694,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-820** Nicole Rothchild
+**N-820** Nicole Rothstein
 
 First named by the host at 00:38:54 in episode 122. The host says she is probably not Erika Kirk's blood cousin but was involved in real estate with that family.
 
@@ -1457,7 +1457,7 @@ Investigative Direction: Locate Sprag's interview and compare his explanation wi
 
 Claim Timestamp: 00:06:15
 
-Claim: The host says viewers emailed asking her to look into the 'umbrella boys', meaning Sprag and his companion who huddled under an umbrella at the event, and that he looked 'dressed super young' but was in his 40s.
+Claim: The host says viewers emailed asking her to look into the 'umbrella boys', meaning Sprague and his companion who huddled under an umbrella at the event, and that he looked 'dressed super young' but was in his 40s.
 
 Transcript Snippet: They who were emailing us saying you need to look into these umbrella boys.
 
@@ -2316,11 +2316,11 @@ Investigative Direction: Obtain the email and any DoD media-amplification taskin
 
 ---
 
-**C-8884** Host Says Sarah Tool Changed Her Story Three Times, Starting With a Chest Hit
+**C-8884** Host Says Sara Tewell Changed Her Story Three Times, Starting With a Chest Hit
 
 Claim Timestamp: 00:35:29
 
-Claim: The host says Sarah Tool, the young woman shown earlier, changed her story three times, first definitively saying she saw Charlie hit in the chest with a description of the bleeding, then saying he was hit in the neck.
+Claim: The host says Sara Tewell, the young woman shown earlier, changed her story three times, first definitively saying she saw Charlie hit in the chest with a description of the bleeding, then saying he was hit in the neck.
 
 Transcript Snippet: the young woman that we showed you who changed her story three times, definitively saw him get hit in the chest
 
@@ -2329,15 +2329,15 @@ Mentions: N-732, N-1, N-3
 Related Nodes: N-10677
 Supports: C-2936, C-2937
 Tags: relevance:core
-Investigative Direction: Transcribe all of Sarah Tool's interviews and compare the wording of each account.
+Investigative Direction: Transcribe all of Sara Tewell's interviews and compare the wording of each account.
 
 ---
 
-**C-8885** Host Says Sarah Tool's Married-Into Family Controlled Emergency Dispatch Services
+**C-8885** Host Says Sara Tewell's Married-Into Family Controlled Emergency Dispatch Services
 
 Claim Timestamp: 00:36:21
 
-Claim: The host says the family Sarah Tool married into controlled the emergency dispatching services and triage when a person calls 911.
+Claim: The host says the family Sara Tewell married into controlled the emergency dispatching services and triage when a person calls 911.
 
 Transcript Snippet: The family she married into, yes, it is correct, controlled all of the dispatching services for the emergency dispatching services
 
@@ -2374,7 +2374,7 @@ Claim: The host says that no one in the witness tree appears to be an unconnecte
 Transcript Snippet: Is there anybody in the witness tree who's just like, "Yeah, I'm a student and I'm not connected and I saw this." It doesn't doesn't appear to be that way.
 
 Anchored Artifacts: 
-Mentions: N-3, N-732
+Mentions: N-3
 Related Nodes: N-10677
 Tags: relevance:core
 Investigative Direction: Build the promised witness tree with each witness's affiliations sourced.
@@ -2446,19 +2446,19 @@ Investigative Direction: Check New York Department of State licensing records an
 
 ---
 
-**C-8892** Host Says Nicole Rothchild Is Not Erika's Blood Cousin but Worked in Real Estate With That Family
+**C-8892** Host Says Nicole Rothstein Is Not Erika's Blood Cousin but Worked in Real Estate With That Family
 
 Claim Timestamp: 00:38:54
 
-Claim: The host says it does not seem that Nicole Rothchild is Erika's blood cousin but that she was certainly involved in real estate with that family.
+Claim: The host says it does not seem that Nicole Rothstein is Erika's blood cousin but that she was certainly involved in real estate with that family.
 
-Transcript Snippet: it doesn't actually seem like Nicole Rothchild is her blood cousin but she certainly was involved in real estate with that family.
+Transcript Snippet: it doesn't actually seem like Nicole Rothstein is her blood cousin but she certainly was involved in real estate with that family.
 
 Anchored Artifacts: 
 Mentions: N-820, N-2, N-3
 Related Nodes: N-10520
 Tags: relevance:core
-Investigative Direction: Identify Nicole Rothchild, her relation to Erika Kirk and any shared real estate ventures.
+Investigative Direction: Identify Nicole Rothstein, her relation to Erika Kirk and any shared real estate ventures.
 
 ---
 
@@ -3177,8 +3177,8 @@ Confidence: high
 
 Video Timestamp: 00:35:29
 Speaker: N-3
-Quote: wow, is Sarah Tool a rabbit hole in and of herself
-Context: Host on viewer emails about Sarah Tool.
+Quote: wow, is Sara Tewell a rabbit hole in and of herself
+Context: Host on viewer emails about Sara Tewell.
 Tags: rabbit hole, sarah tool
 Confidence: high
 

@@ -588,7 +588,7 @@ Jubilee, the debate show on which Dave Rubin appeared and on which the host says
 
 ---
 
-**N-11358** High Mount Capital
+**N-11358** Highmount Capital
 
 Node Type: Organization
 Capital firm the host says the Daily Wire is turning to in order to raise money.
@@ -733,9 +733,9 @@ James Kaddis; pastor the host asks about as Erika's pastor.
 
 ---
 
-**N-732** Sarah Tool
+**N-732** Sara Tewell
 
-Sarah Tool; witness who changed her story per the host.
+Sara Tewell; witness who changed her story per the host.
 
 *Related: C-13105, C-13106*
 
@@ -813,7 +813,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10677** Sarah Tool Witness Statement Discrepancy
+**N-10677** Sara Tewell Witness Statement Discrepancy
 
 Existing node reused for new claims in this episode.
 
@@ -957,7 +957,7 @@ Investigative Direction: Independent forensic examination of shard images for ma
 
 Claim Timestamp: 00:06:20–00:07:24
 
-Claim: Brian Harpole states in his account that he jumped on top of Charlie on a gurney in the ER and cut his white "Freedom" shirt off with scissors to enable defibrillator placement.
+Claim: Brian Harpole states in his account that he got on top of Charlie on a gurney in the ER and cut his white "Freedom" shirt off to enable defibrillator placement.
 
 Anchored Artifacts: A-2094.1
 Mentions: N-267
@@ -1092,7 +1092,7 @@ Claim: The host reads a Semafor headline, 'Exclusive, Daily Wire under pressure,
 
 Anchored Artifacts: A-2100.1
 Related Nodes: N-10689
-Investigative Direction: Obtain original Semafor article; verify any disclosed High Mount Capital relationship.
+Investigative Direction: Obtain original Semafor article; verify any disclosed Highmount Capital relationship.
 
 **C-2959** Dave Rubin Tweet Characterizes Daily Wire Investment as Positive
 
@@ -1369,7 +1369,7 @@ Investigative Direction: Use traffic-camera, dispatch and phone-location times t
 
 Claim Timestamp: 00:10:43
 
-Claim: The host says that in footage of the SUV pulling out, the rear door can be seen ajar, which fits Harpole's statement that the door was not closed.
+Claim: The host says that in footage of the SUV pulling out, the door can be seen ajar, which fits Harpole's statement that the door was not closed.
 
 Transcript Snippet: If you go back and watch footage of them pulling out, you can indeed see that the door is ajar.
 
@@ -1451,7 +1451,7 @@ Investigative Direction: Check roll length by product and arithmetic: 36 ft is 1
 
 Claim Timestamp: 00:17:08
 
-Claim: The host says Frank Turek's claim of attempting CPR is probably false, because Charlie lay across two captain chairs with his midsection unsupported and CPR requires a flat surface.
+Claim: The host says Frank Turek's claim of attempting CPR is, according to Brian Harpole, a lie and that Turek is likely the one lying, because Charlie lay across two captain chairs with his midsection unsupported and CPR requires a flat surface.
 
 Transcript Snippet: You cannot conduct emergency CPR on a person that is laying across two captain chairs with their midsection in the air.
 
@@ -1822,13 +1822,13 @@ Investigative Direction: Locate the passage in the book's text and the edition; 
 
 ---
 
-**C-13094** Host Says Daily Wire Is Turning to High Mount Capital After a Failed Private Equity Deal
+**C-13094** Host Says Daily Wire Is Turning to Highmount Capital After a Failed Private Equity Deal
 
 Claim Timestamp: 00:41:49
 
-Claim: The host says that, after the last private equity firm failed to rescue the Daily Wire, it is turning to High Mount Capital to raise money at a valuation she calls absurd.
+Claim: The host says that, after the last private equity firm failed to rescue the Daily Wire, it is turning to Highmount Capital to raise money at a valuation she calls absurd.
 
-Transcript Snippet: they are now turning to High Mount Capital to try to help them raise money at a valuation that is so absurd
+Transcript Snippet: they are now turning to Highmount Capital to try to help them raise money at a valuation that is so absurd
 
 Anchored Artifacts: A-2100.1
 Mentions: 
@@ -1999,13 +1999,13 @@ Investigative Direction: Check the Semafor article for the figure and the compan
 
 ---
 
-**C-13105** Host Says Sarah Tool Changed Her Story Three Times
+**C-13105** Host Says Sara Tewell Changed Her Story Three Times
 
 Claim Timestamp: 00:51:57
 
-Claim: The host says Sarah Tool, a witness, changed her story three times and that she will cover it next episode.
+Claim: The host says Sara Tewell, a witness, changed her story three times and that she will cover it next episode.
 
-Transcript Snippet: regarding the Tool witness, Sarah Tool, who changed her story three times.
+Transcript Snippet: regarding the Tool witness, Sara Tewell, who changed her story three times.
 
 Anchored Artifacts: 
 Mentions: N-732
@@ -2016,11 +2016,11 @@ Investigative Direction: Compare Tool's three interviews.
 
 ---
 
-**C-13106** Host Says Sarah Tool Smiled the Whole Time
+**C-13106** Host Says Sara Tewell Smiled the Whole Time
 
 Claim Timestamp: 00:52:51
 
-Claim: The host says Sarah Tool was smiling the whole time.
+Claim: The host says Sara Tewell was smiling the whole time.
 
 Transcript Snippet: You guys know that she was smiling, of course, the whole time
 
@@ -2210,7 +2210,7 @@ Investigative Direction: Find Erika's own statement of the two years and identif
 
 ---
 
-**C-13118** Host Asks Viewers to Email moretips Address
+**C-13118** Host Asks Viewers to Email the Tips Address
 
 Claim Timestamp: 00:59:03
 
@@ -2264,8 +2264,8 @@ Confidence: high
 
 Video Timestamp: 00:51:57
 Speaker: N-3
-Quote: It's a rabbit hole regarding the Tool witness, Sarah Tool, who changed her story three times.
-Context: Host frames the Sarah Tool inconsistencies as a rabbit hole for tomorrow.
+Quote: It's a rabbit hole regarding the Tool witness, Sara Tewell, who changed her story three times.
+Context: Host frames the Sara Tewell inconsistencies as a rabbit hole for tomorrow.
 Tags: rabbit hole
 Confidence: high
 

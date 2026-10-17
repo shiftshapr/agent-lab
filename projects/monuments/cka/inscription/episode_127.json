@@ -1870,7 +1870,7 @@
       "@id": "C-3051",
       "ref": "C-3051",
       "label": "Host stance: FBI \"bystander/Kirk's detail\" determination is unsubstantiated",
-      "claim": "The host says Sergeant Faumuina does not remember communicating the \"not probative\" decision and that Baker says someone else in the lab added the \"Kirk's detail\" note, asks who that person is, and says the items should have been tested.",
+      "claim": "The host says Sergeant Faumuina does not remember communicating the \"not probative\" decision and that Bakker says someone else in the lab added the \"Kirk's detail\" note, asks who that person is, and says the items should have been tested.",
       "anchored_artifacts": [
         "A-2148.2",
         "A-2149.2"
@@ -2422,7 +2422,7 @@
       "@type": "Claim",
       "@id": "C-7298",
       "ref": "C-7298",
-      "label": "Baker Testified the Items Were Initially Processed for DNA",
+      "label": "Bakker Testified the Items Were Initially Processed for DNA",
       "claim": "FBI agent Amanda Bakker testified that initially there was no information from investigators, so the items, which are good for DNA, were processed for DNA.",
       "anchored_artifacts": [
         "A-2149.1"
@@ -2448,8 +2448,8 @@
       "@type": "Claim",
       "@id": "C-7299",
       "ref": "C-7299",
-      "label": "Host Says Baker Also Said the Items Were First Thought Abandoned by the Shooter",
-      "claim": "The host says Baker asserted that they initially thought the items were abandoned by the rooftop shooter, which the host takes to mean they were found along the route he took.",
+      "label": "Host Says Bakker Also Said the Items Were First Thought Abandoned by the Shooter",
+      "claim": "The host says Bakker asserted that they initially thought the items were abandoned by the rooftop shooter, which the host takes to mean they were found along the route he took.",
       "anchored_artifacts": [
         "A-2149.1"
       ],
@@ -2567,7 +2567,7 @@
       "@id": "C-7304",
       "ref": "C-7304",
       "label": "Host Says Nobody Has Taken Credit for Calling 911",
-      "claim": "The host says that although Brian Harpole and Frank Turek (Turek) loved telling the story over and over, nobody wants to take credit for calling 911.",
+      "claim": "The host says that although Brian Harpole and Frank Turek loved telling the story over and over, nobody wants to take credit for calling 911.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10729"
