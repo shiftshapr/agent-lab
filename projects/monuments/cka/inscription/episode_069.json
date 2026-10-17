@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-1738.1",
           "ref": "A-1738.1",
-          "description": "Epstein email re: 23andMe kit delivery to Woody Allen / Suni",
+          "description": "Epstein email re: 23andMe kit delivery to Woody Allen / Soon-Yi",
           "related_claims": [
             "C-2298"
           ],
@@ -501,7 +501,7 @@
       "ref": "N-550",
       "name": "Woody Allen",
       "type": "person",
-      "description": "Named recipient of Epstein 23andMe kit email (along with \"Suni\").",
+      "description": "Named recipient of Epstein 23andMe kit email (along with \"Soon-Yi\").",
       "related_artifacts": [
         "A-1738.1"
       ],
@@ -1400,8 +1400,8 @@
       "@type": "Claim",
       "@id": "C-2298",
       "ref": "C-2298",
-      "label": "Epstein emailed Woody Allen regarding delivery of 23andMe kits to his and Suni's home",
-      "claim": "A Jeffrey Epstein-authored email states that 23andMe kits had arrived and would be delivered that day to \"Woody and Suni\" at their home.",
+      "label": "Epstein Emailed Woody Allen Regarding Delivery of 23andMe Kits to His and Soon-Yi's Home",
+      "claim": "A Jeffrey Epstein-authored email states that 23andMe kits had arrived and would be delivered that day to \"Woody and Soon-Yi\" at their home.",
       "anchored_artifacts": [
         "A-1738.1"
       ],

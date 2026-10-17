@@ -753,7 +753,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11038** Scheper Security
+**N-11038** Shaffer Security
 
 Existing organization; the host's 'Schaefer security' in the transcript.
 
@@ -1045,7 +1045,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1, N-271, N-2
 Related Nodes: N-11038, N-10806
 Tags: relevance:core
-Investigative Direction: Obtain the host's text messages to Charlie Kirk warning about the security firm and Dan Flood; compare with her earlier claims about Scheper Security.
+Investigative Direction: Obtain the host's text messages to Charlie Kirk warning about the security firm and Dan Flood; compare with her earlier claims about Shaffer Security.
 
 ---
 

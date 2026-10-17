@@ -669,7 +669,7 @@ Reused for his arrival with Kirk.
 
 ---
 
-**N-10870** Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum
+**N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
 
 Possible match for the sponsor transcribed 'Rei'.
 

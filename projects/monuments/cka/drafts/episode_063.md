@@ -515,7 +515,7 @@ Named by a tipster as having worked with the Montgomerys at Shaklee; the host pl
 
 **N-768** Helene Bartz
 
-First named by the host at 00:29:53 in episode 063. Founder of Creative Children's Academy per the host; later said to have run the Shaklee Center in Arlington Heights. Transcript variants: Helen Arts.
+First named by the host at 00:29:53 in episode 063. Founder of Creative Children's Academy per the host; later said to have run the Shaklee Center in Arlington Heights. Transcript variants: Helene Bartz.
 
 *Related: C-7019, C-7020, C-7022, C-7026*
 
@@ -1219,7 +1219,7 @@ Investigative Direction: Compare the claimed chapter requests and new donors wit
 
 Claim Timestamp: 00:18:49
 
-Claim: On the call, Erika Kirk says there are 50,000 plus hat orders to fulfill and over 20,000 AmFest registrations.
+Claim: On the call, Erika Kirk says she thinks there are 50,000 plus hat orders to fulfill and says there are over 20,000 AmFest registrations.
 
 Transcript Snippet: I think we have 50,000 plus hat orders to fulfill.
 
@@ -1453,13 +1453,13 @@ Investigative Direction: Map the academy's address against Northrop Grumman faci
 
 ---
 
-**C-7019** Host Says Helene Bartz Founded the Academy and Her Husband Is Rev. Robert Barts
+**C-7019** Host Says Helene Bartz Founded the Academy and Her Husband Is Rev. Robert Bartz
 
 Claim Timestamp: 00:29:53
 
-Claim: The host says Creative Children's Academy was founded by a woman named Helene Bartz, whose husband is Reverend Robert Barts of Arlington Heights.
+Claim: The host says Creative Children's Academy was founded by a woman named Helene Bartz, whose husband is Reverend Robert Bartz of Arlington Heights.
 
-Transcript Snippet: was founded by a woman named Helene Bartz. Okay. Her husband is a Reverend Robert Barts of Arlington Heights.
+Transcript Snippet: was founded by a woman named Helene Bartz. Okay. Her husband is a Reverend Robert Bartz of Arlington Heights.
 
 Anchored Artifacts: 
 Mentions: N-3, N-768
@@ -1506,7 +1506,7 @@ Claim Timestamp: 00:29:53
 
 Claim: The host relays that the tipster claims Edith Walker started the school with Helene Bartz and that she has since been virtually wiped from public record.
 
-Transcript Snippet: she was actually the person that started the school with Helen Arts and that's has since virtually been wiped from public record.
+Transcript Snippet: she was actually the person that started the school with Helene Bartz and that's has since virtually been wiped from public record.
 
 Anchored Artifacts: A-2847.1
 Mentions: N-3, N-769, N-768

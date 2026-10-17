@@ -837,7 +837,7 @@ Kirk Netanyahu show refusal; reused for the declined-offer claim.
 
 ---
 
-**N-10870** Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum
+**N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
 
 Yrefy sponsorship contracts; reused for the fall-tour sponsor claim.
 

@@ -685,7 +685,7 @@ Claim Timestamp: 00:06:32
 Claim: The host asserts Vanessa Bryant's Kobe Bryant memorial speech (delivered ~one month after death) focused on personal anecdotes about Kobe and grief, while Erika Kirk's memorial speech, and her first speech beside Charlie's chair ~36–48 hours after his death, centered on Turning Point USA.
 
 Anchored Artifacts: A-1705.1
-Mentions: N-2, N-518, N-519
+Mentions: N-2, N-518, N-519, N-1
 Investigative Direction: Obtain and compare the full transcripts of both memorial speeches against the host's characterization; note Vanessa Bryant speech is verbally referenced but not played or quoted in this episode.
 
 ---
@@ -694,7 +694,7 @@ Investigative Direction: Obtain and compare the full transcripts of both memoria
 
 Claim Timestamp: 00:13:09
 
-Claim: A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erica when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. The host says the woman who tapped the donor's shoulder at the post-mass church and invited her to sit with Erica was Stacy Sheridan.
+Claim: A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erika when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. The host says the woman who tapped the donor's shoulder at the post-mass church and invited her to sit with Erika was Stacy Sheridan.
 
 Anchored Artifacts: A-1706.1
 Mentions: N-2, N-187, N-515
@@ -731,7 +731,7 @@ Investigative Direction: Cross-check donor's account with Erika Kirk's public ac
 
 Claim Timestamp: 00:23:14
 
-Claim: Per a group-chat text message screenshot that the host shows and says was supplied by a source, Charlie Kirk sent a text on September 9 to Erica and Father Blank quoting 1 Corinthians 16:9: "for a wide door for effective work has opened to me and there are many adversaries."
+Claim: Per a group-chat text message screenshot that the host shows and says was supplied by a source, Charlie Kirk sent a text on September 9 to Erika and Father Blank quoting 1 Corinthians 16:9: "for a wide door for effective work has opened to me and there are many adversaries."
 
 Anchored Artifacts: A-1708.1
 Mentions: N-1, N-2, N-515
@@ -804,7 +804,7 @@ Investigative Direction: Identify the original Frank Turek episode/podcast the c
 
 Claim Timestamp: 00:47:00
 
-Claim: The host plays a clip that she says shows Don Lemon on camera at a Minnesota church protest questioning a pastor who works with ICE.
+Claim: The host plays a clip that she says shows Don Lemon on camera at a Minnesota church protest questioning one of the pastors of a church whose pastor, she says, works with ICE.
 
 Anchored Artifacts: A-1711.1
 Mentions: N-517

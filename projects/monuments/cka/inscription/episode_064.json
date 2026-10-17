@@ -1791,7 +1791,7 @@
       "@type": "Claim",
       "@id": "C-2220",
       "ref": "C-2220",
-      "label": "Terryl Farnsworth Was Audible in the Background of the Sept 16 TPUSA Call",
+      "label": "Terryl Farnsworth Was in the Background of the Sept 16 TPUSA Call",
       "claim": "During the September 16 Zoom call playback, host identifies Terryl Farnsworth as in the background of the recording.",
       "anchored_artifacts": [
         "A-1686.1"
@@ -1844,7 +1844,7 @@
       "@type": "Claim",
       "@id": "C-2223",
       "ref": "C-2223",
-      "label": "Host Rejects Boreing's \"Self-Aggrandizement\" Characterization as Fabricated",
+      "label": "Host Says Boreing's \"I Believe What the People Believe\" Account Is Made Up",
       "claim": "Candace Owens rejects Boreing's account of her saying \"I believe what the people believe,\" describing it as \"obviously made up.\"",
       "anchored_artifacts": [
         "A-1688.4"
@@ -3117,7 +3117,7 @@
       "@id": "C-9966",
       "ref": "C-9966",
       "label": "Host Says the Call Came the Day After Her Episode on No Blood in the Back",
-      "claim": "The host says Kolvet posted that he had just got off the phone with the surgeon, so the call date is known, and it came the day after her episode noting there was no blood in the back and questioning the .30-06.",
+      "claim": "The host says Kolvet said he had just got off the phone with the surgeon, so the call date is known, and it came the day after her episode noting there was no blood in the back and questioning the .30-06.",
       "anchored_artifacts": [
         "A-3042.1"
       ],

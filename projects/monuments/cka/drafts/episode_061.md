@@ -737,9 +737,9 @@ Lawsuit the host says Nicola Peltz brought against a mobile dog-grooming company
 
 **C-2158** TPUSA cease and desist letter sent approximately January 19–20, 2026
 
-Claim Timestamp: 00:01:13
+Claim Timestamp: 00:00:05
 
-Claim: Turning Point USA, through counsel, sent a cease and desist letter to Candace Owens approximately January 19–20, 2026.
+Claim: The host says she received a cease and desist letter from Turning Point USA, her first legal letter of 2026, when it was 20 days into January.
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3
@@ -874,7 +874,7 @@ Investigative Direction: Identify the original Tim Dillon episode and timestamp 
 
 Claim Timestamp: 00:04:39–00:06:17
 
-Claim: Owens adopts Tim Dylon's assessment that TPUSA's principal concern is money/revenue, citing the cease and desist as confirmation.
+Claim: Owens adopts Tim Dillon's assessment that TPUSA's principal concern is money/revenue, citing the cease and desist as confirmation.
 
 Anchored Artifacts: A-1661.1, A-1662.1
 Mentions: N-278, N-3

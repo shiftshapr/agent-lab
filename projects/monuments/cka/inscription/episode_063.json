@@ -1017,7 +1017,7 @@
       "ref": "N-768",
       "name": "Helene Bartz",
       "type": "person",
-      "description": "First named by the host at 00:29:53 in episode 063. Founder of Creative Children's Academy per the host; later said to have run the Shaklee Center in Arlington Heights. Transcript variants: Helen Arts.",
+      "description": "First named by the host at 00:29:53 in episode 063. Founder of Creative Children's Academy per the host; later said to have run the Shaklee Center in Arlington Heights. Transcript variants: Helene Bartz.",
       "related_artifacts": [],
       "related_claims": [
         "C-7019",
@@ -2267,7 +2267,7 @@
       "@id": "C-7004",
       "ref": "C-7004",
       "label": "Erika Says 50,000 Hat Orders and Over 20,000 AmFest Registrations",
-      "claim": "On the call, Erika Kirk says there are 50,000 plus hat orders to fulfill and over 20,000 AmFest registrations.",
+      "claim": "On the call, Erika Kirk says she thinks there are 50,000 plus hat orders to fulfill and says there are over 20,000 AmFest registrations.",
       "anchored_artifacts": [
         "A-1676.2"
       ],
@@ -2596,8 +2596,8 @@
       "@type": "Claim",
       "@id": "C-7019",
       "ref": "C-7019",
-      "label": "Host Says Helene Bartz Founded the Academy and Her Husband Is Rev. Robert Barts",
-      "claim": "The host says Creative Children's Academy was founded by a woman named Helene Bartz, whose husband is Reverend Robert Barts of Arlington Heights.",
+      "label": "Host Says Helene Bartz Founded the Academy and Her Husband Is Rev. Robert Bartz",
+      "claim": "The host says Creative Children's Academy was founded by a woman named Helene Bartz, whose husband is Reverend Robert Bartz of Arlington Heights.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11122"
@@ -2607,7 +2607,7 @@
       ],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Verify the founders through Illinois corporation filings and school history sources.",
-      "transcript_snippet": "was founded by a woman named Helene Bartz. Okay. Her husband is a Reverend Robert Barts of Arlington Heights.",
+      "transcript_snippet": "was founded by a woman named Helene Bartz. Okay. Her husband is a Reverend Robert Bartz of Arlington Heights.",
       "mentions_person_refs": [
         "N-3",
         "N-768"
@@ -2676,7 +2676,7 @@
       ],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Compare school founding documents and archived web pages for any mention of Edith Walker.",
-      "transcript_snippet": "she was actually the person that started the school with Helen Arts and that's has since virtually been wiped from public record.",
+      "transcript_snippet": "she was actually the person that started the school with Helene Bartz and that's has since virtually been wiped from public record.",
       "mentions_person_refs": [
         "N-3",
         "N-769",

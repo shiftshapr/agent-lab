@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-17T00:58:29Z",
+  "generated_at": "2026-10-17T18:02:57Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -1344,7 +1344,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10025",
-      "label": "Host says Dec 16 was Erika's first Zoom call as CEO and chairman",
+      "label": "Host Says Sept 16 Was Erika's First Zoom Call As CEO And Chairman",
       "node_kind": "claim",
       "episode": 68
     },
@@ -32739,7 +32739,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14205",
-      "label": "Gregorio Says the Letter Does Not Answer His Questions and Precedes a Lawsuit Unless He Changes His Statements",
+      "label": "De Gregorio Says the Letter Does Not Answer His Questions and Precedes a Lawsuit Unless He Changes His Statements",
       "node_kind": "claim",
       "episode": 59
     },
@@ -32816,7 +32816,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14215",
-      "label": "Gregorio Says He Posted a December 7 Video Naming TPUSA Number One Clown",
+      "label": "De Gregorio Says He Posted a December 7 Video Naming TPUSA Number One Clown",
       "node_kind": "claim",
       "episode": 59
     },
@@ -43680,7 +43680,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2131",
-      "label": "Host-Shown LinkedIn Profile Lists Robert Flood as Member of the FBI Agent Association (FBIA)",
+      "label": "Host-Shown LinkedIn Profile Lists Robert Flood as Member of the FBIA [FBI Agents Association]",
       "node_kind": "claim",
       "episode": 59
     },
@@ -43799,7 +43799,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2148",
-      "label": "The FBI Agent Association (FBIA) is a charity founded in 1981 with 14,000 current and former FBI special agents",
+      "label": "The FBIA [FBI Agents Association], Which the Host Calls a Charity, Was Founded in 1981 With 14,000 Current and Former Feds",
       "node_kind": "claim",
       "episode": 59
     },
@@ -43834,7 +43834,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2153",
-      "label": "Host Says Griggs's Account of the Military Makes Sense to Her",
+      "label": "Host Says Griggs Worked for the Government and Her Account Is How the Military Works",
       "node_kind": "claim",
       "episode": 60
     },
@@ -44051,35 +44051,35 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2184",
-      "label": "Host Says Lyle Reems Was Indicted in 1998 for Sexual Conduct with a Minor Under 15",
+      "label": "Host Says Lyle Reams Was Indicted in 1998 for Sexual Conduct with a Minor Under 15",
       "node_kind": "claim",
       "episode": 62
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2185",
-      "label": "Host Says the Lyle Reems Case Was Dismissed Without Prejudice in 1999 After the Victim Gave a Victim Impact Statement",
+      "label": "Host Says the Lyle Reams Case Was Dismissed Without Prejudice in 1999 After the Victim Gave a Victim Impact Statement",
       "node_kind": "claim",
       "episode": 62
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2186",
-      "label": "Per Host's Documents, Frantzve, Guinta, and the Reemses Co-Filed Desert Spirit Tech LLC in Sacaton, Arizona in 2017",
+      "label": "Per Host's Documents, Frantzve, Guinta, and the Reamses Co-Filed Desert Spirit Tek LLC in Sacaton, Arizona in 2017",
       "node_kind": "claim",
       "episode": 62
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2187",
-      "label": "Per Host's Filing, Desert Spirit Tech LLC's Statutory Public Notice Was Published in the Arizona Chinese News",
+      "label": "Per Host's Filing, Desert Spirit Tek LLC's Statutory Public Notice Was Published in the Arizona Chinese News",
       "node_kind": "claim",
       "episode": 62
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2188",
-      "label": "Tyler Bowyer publicly described TPUSA as operating \"like a military op\" in 2018",
+      "label": "Per a 2018 Tweet the Host Reads, Tyler Bowyer Said TPUSA Runs Everything \"Like a Military Op\"",
       "node_kind": "claim",
       "episode": 62
     },
@@ -44303,7 +44303,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2220",
-      "label": "Terryl Farnsworth Was Audible in the Background of the Sept 16 TPUSA Call",
+      "label": "Terryl Farnsworth Was in the Background of the Sept 16 TPUSA Call",
       "node_kind": "claim",
       "episode": 64
     },
@@ -44324,7 +44324,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2223",
-      "label": "Host Rejects Boreing's \"Self-Aggrandizement\" Characterization as Fabricated",
+      "label": "Host Says Boreing's \"I Believe What the People Believe\" Account Is Made Up",
       "node_kind": "claim",
       "episode": 64
     },
@@ -44548,7 +44548,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2256",
-      "label": "Joshua Finkelstein Accused of Treating Non-Jews as Not Human",
+      "label": "Joshua Fink Accused of Treating Non-Jews as Not Human",
       "node_kind": "claim",
       "episode": 67
     },
@@ -44639,7 +44639,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2269",
-      "label": "Josh Hammer Describes Sept 9 Zoom Call With Charlie Kirk and Rabbi",
+      "label": "Josh Hammer Describes Sept 9 Zoom Call With Charlie Kirk",
       "node_kind": "claim",
       "episode": 67
     },
@@ -44842,7 +44842,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2298",
-      "label": "Epstein emailed Woody Allen regarding delivery of 23andMe kits to his and Suni's home",
+      "label": "Epstein Emailed Woody Allen Regarding Delivery of 23andMe Kits to His and Soon-Yi's Home",
       "node_kind": "claim",
       "episode": 69
     },
@@ -67305,14 +67305,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5533",
-      "label": "Coleman Says Pastors Like Rob McCoy Rehabilitate Pedophiles While Telling Followers to Unfollow Tucker",
+      "label": "Host Says Pastors Like Rob McCoy Rehabilitate Pedophiles While Telling Followers to Unfollow Tucker",
       "node_kind": "claim",
       "episode": 60
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5534",
-      "label": "Host Says She Has Messages Showing She Distrusted Scheper Security",
+      "label": "Host Says She Has Messages Showing She Distrusted Shaffer Security",
       "node_kind": "claim",
       "episode": 60
     },
@@ -67480,7 +67480,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5558",
-      "label": "Host Says the Scottsdale Plane Was Identified as the Y Refi Guy",
+      "label": "Host Says the Scottsdale Plane Was Identified as the Yrefy Guy",
       "node_kind": "claim",
       "episode": 60
     },
@@ -77707,7 +77707,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7019",
-      "label": "Host Says Helene Bartz Founded the Academy and Her Husband Is Rev. Robert Barts",
+      "label": "Host Says Helene Bartz Founded the Academy and Her Husband Is Rev. Robert Bartz",
       "node_kind": "claim",
       "episode": 63
     },
@@ -86478,21 +86478,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8272",
-      "label": "Host says Guinta is Erika's stepfather and that he and Frantzve repeatedly formed businesses with Lyle and Shelly Reems",
+      "label": "Host Says Guinta Is Erika's Stepfather and That He and Frantzve Repeatedly Formed Businesses with Lyle and Shelly Reams",
       "node_kind": "claim",
       "episode": 62
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8273",
-      "label": "Host says Lyle Reems is ostensibly a member of the Tohono O'odham Nation",
+      "label": "Host Says Lyle Reams Is Ostensibly a Member of the Tohono O'odham Nation",
       "node_kind": "claim",
       "episode": 62
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8274",
-      "label": "Host says Reems's case was apparently no bar to Frantzve and Guinta doing business with him",
+      "label": "Host Says Reams's Case Was Apparently No Bar to Frantzve and Guinta Doing Business with Him",
       "node_kind": "claim",
       "episode": 62
     },
@@ -86520,14 +86520,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8278",
-      "label": "Host says the listed place of business, 26 Rose and Thobe, does not appear to exist",
+      "label": "Host Says the Listed Place of Business, 26 Rose and Thobi, Does Not Appear to Exist",
       "node_kind": "claim",
       "episode": 62
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8279",
-      "label": "Host says Generation Seven Farms is owned by Lyle and Shelly Reems at 21 Rose and Thobe, which she cannot find on a map",
+      "label": "Host Says Generation Seven Farms Is Owned by Lyle and Shelly Reams at 21 Rose and Thobi, Which She Cannot Find on a Map",
       "node_kind": "claim",
       "episode": 62
     },
@@ -97461,14 +97461,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9841",
-      "label": "Host Says Payton McCormick Is Linked to Colonel Pete and Lt. Col. Allan McCormick",
+      "label": "Host Says Peyton McCormick Is Linked to Colonel Pete and Lt. Col. Allan McCormick",
       "node_kind": "claim",
       "episode": 58
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9842",
-      "label": "Host Says Payton McCormick Was Miss Teen USA in 2006",
+      "label": "Host Says Peyton McCormick Was Miss Teen USA in 2006",
       "node_kind": "claim",
       "episode": 58
     },
@@ -97825,7 +97825,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9893",
-      "label": "Fuentes Clip Says Marjorie Green Framed Epstein as About Female Victims",
+      "label": "Fuentes Clip Says Marjorie Greene Framed Epstein as About Female Victims",
       "node_kind": "claim",
       "episode": 58
     },
@@ -109123,14 +109123,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1670",
-      "label": "Lyle Reems Legal Records Bundle",
+      "label": "Lyle Reams Legal Records Bundle",
       "node_kind": "artifact",
       "episode": 62
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1670.1",
-      "label": "1998 Indictment: State v. Lyle Reems – Sexual conduct with minor under 15",
+      "label": "1998 Indictment: State v. Lyle Reams – Sexual conduct with minor under 15",
       "node_kind": "artifact",
       "episode": 62
     },
@@ -109144,21 +109144,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1671",
-      "label": "Desert Spirit Tech LLC Filing Bundle",
+      "label": "Desert Spirit Tek LLC Filing Bundle",
       "node_kind": "artifact",
       "episode": 62
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1671.1",
-      "label": "Arizona LLC formation documents – Desert Spirit Tech LLC, filed 2017, Sacaton, AZ",
+      "label": "Arizona LLC formation documents – Desert Spirit Tek LLC, filed 2017, Sacaton, AZ",
       "node_kind": "artifact",
       "episode": 62
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1671.2",
-      "label": "Arizona Chinese News public notice for Desert Spirit Tech LLC (signed Dec 1, 2017; state-received Dec 6, 2017)",
+      "label": "Arizona Chinese News public notice for Desert Spirit Tek LLC (signed Dec 1, 2017; state-received Dec 6, 2017)",
       "node_kind": "artifact",
       "episode": 62
     },
@@ -109172,7 +109172,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1672.1",
-      "label": "Business registration – Generation Seven Farms, 21 Rose and Thobe, Sacaton, AZ (Lyle and Shelly Reems)",
+      "label": "Business registration – Generation Seven Farms, 21 Rose and Thobi, Sacaton, AZ (Lyle and Shelly Reams)",
       "node_kind": "artifact",
       "episode": 62
     },
@@ -109928,7 +109928,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1715.1",
-      "label": "Compiled video segment of Epstein email excerpts referencing Israel, Rothschilds, Roger Schank conversation, Peggy Siegal \"wasp\" comment, Joshua Finkelstein/Larry Finkelstein reference, Svetlana abort",
+      "label": "Compiled video segment of Epstein email excerpts referencing Israel, Rothschilds, Roger Schank conversation, Peggy Siegal \"wasp\" comment, Joshua Fink/Larry Fink reference, Svetlana abortion pressure c",
       "node_kind": "artifact",
       "episode": 67
     },
@@ -110320,7 +110320,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1738.1",
-      "label": "Epstein email re: 23andMe kit delivery to Woody Allen / Suni",
+      "label": "Epstein email re: 23andMe kit delivery to Woody Allen / Soon-Yi",
       "node_kind": "artifact",
       "episode": 69
     },
@@ -128275,14 +128275,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2759",
-      "label": "Scheper Security Group Chat Messages Bundle",
+      "label": "Shaffer Security Group Chat Messages Bundle",
       "node_kind": "artifact",
       "episode": 60
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2759.1",
-      "label": "Host verbal reference to her written group chat messages with Charlie Kirk and Tyler Bowyer about not trusting Scheper Security (not shown)",
+      "label": "Host verbal reference to her written group chat messages with Charlie Kirk and Tyler Bowyer about not trusting Shaffer Security (not shown)",
       "node_kind": "artifact",
       "episode": 60
     },

@@ -238,13 +238,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2759",
       "family_ref": "A-2759",
-      "bundle_name": "Scheper Security Group Chat Messages Bundle",
+      "bundle_name": "Shaffer Security Group Chat Messages Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2759.1",
           "ref": "A-2759.1",
-          "description": "Host verbal reference to her written group chat messages with Charlie Kirk and Tyler Bowyer about not trusting Scheper Security (not shown)",
+          "description": "Host verbal reference to her written group chat messages with Charlie Kirk and Tyler Bowyer about not trusting Shaffer Security (not shown)",
           "related_claims": [
             "C-5534"
           ],
@@ -1242,7 +1242,7 @@
       "@type": "Organization",
       "@id": "N-11038",
       "ref": "N-11038",
-      "name": "Scheper Security",
+      "name": "Shaffer Security",
       "type": "organization",
       "description": "Security firm the host says she distrusted and warned Charlie Kirk and Tyler Bowyer about in a group chat.",
       "related_artifacts": [],
@@ -1607,7 +1607,7 @@
       "@id": "C-2151",
       "ref": "C-2151",
       "label": "Erika Kirk Miss Arizona USA Tweet References Aurora Theater Friend",
-      "claim": "During her Miss Arizona USA reign, Erika Kirk tweeted that one of her best friends was in the theater during the 2012 Aurora shooting.",
+      "claim": "Per the 2012 tweet the host shows from the Miss Arizona USA account during Erika Kirk's reign, Erika replied that one of her best friends was in the theater during the Aurora shooting.",
       "anchored_artifacts": [
         "A-1655.1"
       ],
@@ -1641,8 +1641,8 @@
       "@type": "Claim",
       "@id": "C-2153",
       "ref": "C-2153",
-      "label": "Host Says Griggs's Account of the Military Makes Sense to Her",
-      "claim": "Host concurs with Griggs's assessment that the U.S. military is corrupted at the command level and has been institutionally compromised since at least the JFK assassination.",
+      "label": "Host Says Griggs Worked for the Government and Her Account Is How the Military Works",
+      "claim": "The host says Katherine Griggs worked for the government, so her account was not some conspiracy theory but how it works, and that even a slight look into the history of the U.S. military and programs like MK Ultra shows this.",
       "anchored_artifacts": [
         "A-1656.1"
       ],
@@ -1651,8 +1651,8 @@
       "claim_timestamp": "00:22:03",
       "investigative_direction": "This is a host stance claim, not independently verifiable; document only as recorded concurrence against A-1656.1.",
       "mentions_person_refs": [
-        "N-477",
-        "N-478"
+        "N-3",
+        "N-477"
       ]
     },
     {
@@ -1705,7 +1705,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:41:54",
+      "claim_timestamp": "00:41:13",
       "investigative_direction": "Document host stance claim against A-1660.1; investigate reported financial interests of Lauder or associated parties in Greenland.",
       "mentions_person_refs": [
         "N-3",
@@ -2687,8 +2687,8 @@
       "@type": "Claim",
       "@id": "C-5533",
       "ref": "C-5533",
-      "label": "Coleman Says Pastors Like Rob McCoy Rehabilitate Pedophiles While Telling Followers to Unfollow Tucker",
-      "claim": "Baron Coleman says pastors like Rob McCoy are constantly trying to rehabilitate pedophiles and then tell people that to be saved they just have to unfollow Tucker Carlson on Twitter.",
+      "label": "Host Says Pastors Like Rob McCoy Rehabilitate Pedophiles While Telling Followers to Unfollow Tucker",
+      "claim": "The host says pastors like Rob McCoy are constantly trying to rehabilitate pedophiles and then tell people that to be saved they just have to unfollow Tucker Carlson on Twitter.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10139"
@@ -2698,7 +2698,7 @@
       "investigative_direction": "Ask for the specific cases and sermons; the host's framing is hyperbolic, so look for documented McCoy statements on offenders and Tucker Carlson.",
       "transcript_snippet": "We've got these pastors like Rob McCoy constantly trying to rehabilitate pedophiles and then they'll look at you dead in the face and be like hey if you want to be saved just got to unfollow Tucker Carlson on Twitter.",
       "mentions_person_refs": [
-        "N-331",
+        "N-3",
         "N-17",
         "N-22"
       ]
@@ -2707,8 +2707,8 @@
       "@type": "Claim",
       "@id": "C-5534",
       "ref": "C-5534",
-      "label": "Host Says She Has Messages Showing She Distrusted Scheper Security",
-      "claim": "The host says she has written messages showing she ranted at Charlie Kirk and Tyler Bowyer in a group chat, saying she did not trust Scheper Security.",
+      "label": "Host Says She Has Messages Showing She Distrusted Shaffer Security",
+      "claim": "The host says she has written messages showing she ranted at Charlie Kirk and Tyler Bowyer in a group chat, saying she did not trust Shaffer Security.",
       "anchored_artifacts": [
         "A-2759.1"
       ],
@@ -2717,8 +2717,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:49:40",
-      "investigative_direction": "Obtain the group chat export with dates; ask Bowyer and TPUSA to confirm the exchange and Scheper Security's contract with TPUSA.",
-      "transcript_snippet": "I ranted at him and Tyler Bowyer in a group chat. I actually read it backwards and I was like, \"Gosh, I was really aggressive there.\" saying that I did not trust Scheper Security.",
+      "investigative_direction": "Obtain the group chat export with dates; ask Bowyer and TPUSA to confirm the exchange and Shaffer Security's contract with TPUSA.",
+      "transcript_snippet": "I ranted at him and Tyler Bowyer in a group chat. I actually read it backwards and I was like, \"Gosh, I was really aggressive there.\" saying that I did not trust Shaffer Security.",
       "mentions_person_refs": [
         "N-3",
         "N-1",
@@ -3206,8 +3206,8 @@
       "@type": "Claim",
       "@id": "C-5558",
       "ref": "C-5558",
-      "label": "Host Says the Scottsdale Plane Was Identified as the Y Refi Guy",
-      "claim": "The host says that she was told the plane going into Scottsdale belongs to the Y Refi guy, and she corrects herself that she should say it is what she was told and not what she determined.",
+      "label": "Host Says the Scottsdale Plane Was Identified as the Yrefy Guy",
+      "claim": "The host says that she was told the plane going into Scottsdale belongs to the Yrefy guy, and she corrects herself that she should say it is what she was told and not what she determined.",
       "anchored_artifacts": [
         "A-1657.1"
       ],
@@ -3216,8 +3216,8 @@
       ],
       "tags": [],
       "claim_timestamp": "01:08:11",
-      "investigative_direction": "Identify the aircraft owner from FAA registration records; the term Y Refi is as spelled in the transcript.",
-      "transcript_snippet": "I was able to determine that that's the Y Refi guy. So, which could make sense. That's what I was told.",
+      "investigative_direction": "Identify the aircraft owner from FAA registration records; the term Yrefy is as spelled in the transcript.",
+      "transcript_snippet": "I was able to determine that that's the Yrefy guy. So, which could make sense. That's what I was told.",
       "supports_claim_refs": [
         "C-2154"
       ],

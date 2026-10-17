@@ -607,7 +607,7 @@ The UVU request came days after the SAS donor pressure and the Trump call.
 
 *Related: C-4510*
 
-**N-10870** Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum
+**N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
 
 The host says Yrefy became the fall tour's number one sponsor through a contract addendum.
 

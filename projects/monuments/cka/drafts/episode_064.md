@@ -1026,7 +1026,7 @@ Related Nodes: N-10449
 
 Investigative Direction: Identify the Bulwark episode and date; verify whether Daily Wire or Boreing has disputed these production details.
 
-**C-2220** Terryl Farnsworth Was Audible in the Background of the Sept 16 TPUSA Call
+**C-2220** Terryl Farnsworth Was in the Background of the Sept 16 TPUSA Call
 
 Claim Timestamp: 00:16:46
 
@@ -1062,7 +1062,7 @@ Mentions: N-367, N-3
 
 Investigative Direction: Document the factual claims about Israeli sexual blackmail and Gaza pornography broadcasts; identify primary sources for each.
 
-**C-2223** Host Rejects Boreing's "Self-Aggrandizement" Characterization as Fabricated
+**C-2223** Host Says Boreing's "I Believe What the People Believe" Account Is Made Up
 
 Claim Timestamp: 00:44:36
 
@@ -1963,7 +1963,7 @@ Investigative Direction: Obtain phone records for the September 20, 2025 date an
 
 Claim Timestamp: 00:31:41
 
-Claim: The host says Kolvet posted that he had just got off the phone with the surgeon, so the call date is known, and it came the day after her episode noting there was no blood in the back and questioning the .30-06.
+Claim: The host says Kolvet said he had just got off the phone with the surgeon, so the call date is known, and it came the day after her episode noting there was no blood in the back and questioning the .30-06.
 
 Transcript Snippet: So we don't have to imagine when that was. The day after my episode when people were going
 

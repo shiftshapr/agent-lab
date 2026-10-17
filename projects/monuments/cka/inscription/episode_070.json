@@ -1403,7 +1403,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-11038",
       "ref": "N-11038",
-      "name": "Scheper Security",
+      "name": "Shaffer Security",
       "type": "investigation_target",
       "description": "Existing organization; the host's 'Schaefer security' in the transcript.",
       "related_artifacts": [],
@@ -1874,7 +1874,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:06:26",
-      "investigative_direction": "Obtain the host's text messages to Charlie Kirk warning about the security firm and Dan Flood; compare with her earlier claims about Scheper Security.",
+      "investigative_direction": "Obtain the host's text messages to Charlie Kirk warning about the security firm and Dan Flood; compare with her earlier claims about Shaffer Security.",
       "transcript_snippet": "I also warned him about Schaefer security and Dan Flood. You can check the text messages because you have them.",
       "mentions_person_refs": [
         "N-3",

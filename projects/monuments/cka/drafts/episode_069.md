@@ -51,7 +51,7 @@ Structurally, the episode continues the alibi line of investigation begun in pri
 
 **A-1738** Epstein 23andMe Email Bundle
 
-**A-1738.1** Epstein email re: 23andMe kit delivery to Woody Allen / Suni
+**A-1738.1** Epstein email re: 23andMe kit delivery to Woody Allen / Soon-Yi
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -59,7 +59,7 @@ Video Timestamp: 00:01:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (text read aloud by host)
 
-*Display/Read content: "The 23 and me kits arrived and will be delivered to Woody and Suni to their home today."*
+*Display/Read content: "The 23 and me kits arrived and will be delivered to Woody and Soon-Yi to their home today."*
 
 *Related: C-2298, N-9 (Epstein), N-550 (Woody Allen)*
 
@@ -351,7 +351,7 @@ Investigative Pressure: High
 
 **N-550** Woody Allen
 
-Named recipient of Epstein 23andMe kit email (along with "Suni").
+Named recipient of Epstein 23andMe kit email (along with "Soon-Yi").
 
 Evidence Count: 1
 Claim Count: 0
@@ -760,11 +760,11 @@ Node Type: Organization
 
 # Claim Register
 
-**C-2298** Epstein emailed Woody Allen regarding delivery of 23andMe kits to his and Suni's home
+**C-2298** Epstein Emailed Woody Allen Regarding Delivery of 23andMe Kits to His and Soon-Yi's Home
 
 Claim Timestamp: 00:01:18
 
-Claim: A Jeffrey Epstein-authored email states that 23andMe kits had arrived and would be delivered that day to "Woody and Suni" at their home.
+Claim: A Jeffrey Epstein-authored email states that 23andMe kits had arrived and would be delivered that day to "Woody and Soon-Yi" at their home.
 
 Anchored Artifacts: A-1738.1
 Mentions: N-9, N-550

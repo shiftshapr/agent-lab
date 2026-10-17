@@ -1196,7 +1196,7 @@
       "ref": "N-535",
       "name": "Alan Dershowitz",
       "type": "person",
-      "description": "Transcribed 'Duruit' in the moderator comment read on air.",
+      "description": "Transcribed 'Dershowitz' in the moderator comment read on air.",
       "related_artifacts": [],
       "related_claims": [
         "C-10058"
@@ -2120,8 +2120,8 @@
       "@type": "Claim",
       "@id": "C-10025",
       "ref": "C-10025",
-      "label": "Host says Dec 16 was Erika's first Zoom call as CEO and chairman",
-      "claim": "The host says December 16 was when Erika hosted her first Zoom call as the new CEO and chairman, offered as a possible referent for the '10 days until' countdown she thinks was otherwise planned.",
+      "label": "Host Says Sept 16 Was Erika's First Zoom Call As CEO And Chairman",
+      "claim": "The host says September 16 turned out to be when Erika hosted her first Zoom call as the new CEO and chairman, though she is sure the '10 days until September 16th' countdown originally referred to some other plan.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -2827,7 +2827,7 @@
       "@id": "C-10058",
       "ref": "C-10058",
       "label": "Commenter says Epstein and Dershowitz contacted Finkelstein",
-      "claim": "The host reads a moderator's comment that Epstein and Dershowitz ('Duruit') contacted Norman Finkelstein, who called them pedophiles and threatened to hurt them, and the host says she loved having Finkelstein on the show.",
+      "claim": "The host reads a moderator's comment that Epstein and Dershowitz contacted Norman Finkelstein, who called them pedophiles and threatened to hurt them, and the host says she loved having Finkelstein on the show.",
       "anchored_artifacts": [
         "A-3049.1"
       ],
@@ -2837,7 +2837,7 @@
       ],
       "claim_timestamp": "00:50:17",
       "investigative_direction": "Ask Finkelstein or find his published account of any contact.",
-      "transcript_snippet": "Epstein and Duruit contacted Finkelestein, but he called them pedophiles and threatened to hurt them.",
+      "transcript_snippet": "Epstein and Dershowitz contacted Finkelestein, but he called them pedophiles and threatened to hurt them.",
       "mentions_person_refs": [
         "N-200",
         "N-9",

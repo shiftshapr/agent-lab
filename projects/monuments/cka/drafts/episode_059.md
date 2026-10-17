@@ -816,9 +816,9 @@ Paramount Tactical; the host says it told them the shot Frank Turek saw was only
 
 ---
 
-**N-11038** Scheper Security
+**N-11038** Shaffer Security
 
-Scheper Security; the security firm that the Shaffer Security hiring claim appears to concern (spelling differs, see doubts).
+Shaffer Security; the security firm that the Shaffer Security hiring claim appears to concern (spelling differs, see doubts).
 
 *Related: C-14191*
 
@@ -965,11 +965,11 @@ Investigative Direction: Verify through Army Reserve official records.
 
 ---
 
-**C-2131** Host-Shown LinkedIn Profile Lists Robert Flood as Member of the FBI Agent Association (FBIA)
+**C-2131** Host-Shown LinkedIn Profile Lists Robert Flood as Member of the FBIA [FBI Agents Association]
 
 Claim Timestamp: 00:09:03
 
-Claim: Per Robert Flood's LinkedIn profile, which the host shows on screen, he is a member of the FBI Agent Association (FBIA).
+Claim: Per Robert Flood's LinkedIn profile, which the host shows on screen, he is a member of the FBIA [FBI Agents Association].
 
 Anchored Artifacts: A-1643.2
 Mentions: N-471
@@ -997,7 +997,7 @@ Investigative Direction: Cross-reference Illinois address records for Robert Flo
 
 **C-2133** Dan Flood grew up in Allen Texas and graduated high school there
 
-Claim Timestamp: 00:13:36
+Claim Timestamp: 00:12:58
 
 Claim: A social media post the host reads, from a self-described childhood friend, says he went to middle and high school with Dan Flood, whom the host says is from Allen, Texas and graduated high school there.
 
@@ -1134,7 +1134,7 @@ NOTE: This claim artifact-anchored by A-1648.1 directly contradicts A-1649.1 (An
 
 Claim Timestamp: 00:32:01
 
-Claim: Per host's paraphrase of an emailed TPUSA official response, Erika Kirk never lived in China and simply visited for 2 weeks.
+Claim: Per host's paraphrase of an official TPUSA response, Erika Kirk never lived in China and simply visited for 2 weeks.
 
 Anchored Artifacts: A-1650.2
 Mentions: N-2
@@ -1218,11 +1218,11 @@ Investigative Direction: Verify event attendance, security staffing, and Kash Pa
 
 ---
 
-**C-2148** The FBI Agent Association (FBIA) is a charity founded in 1981 with 14,000 current and former FBI special agents
+**C-2148** The FBIA [FBI Agents Association], Which the Host Calls a Charity, Was Founded in 1981 With 14,000 Current and Former Feds
 
 Claim Timestamp: 00:09:15
 
-Claim: Per the FBIA website description the host reads aloud, the FBIA, which the host calls a charity, was founded in 1981 and consists of 14,000 former and current feds.
+Claim: Per the website description the host reads aloud, the FBIA [FBI Agents Association], which the host calls a charity, was founded in 1981 and consists of 14,000 former and current feds.
 
 Anchored Artifacts: A-1647.1
 Mentions: 
@@ -1445,7 +1445,7 @@ Claim: The host says she cannot assert it with certainty but would bet that Robe
 Transcript Snippet: I would be willing to bet that Mr. Flood Dan's father Robert Eugene Flood probably knew Bill Montgomery
 
 Anchored Artifacts: 
-Mentions: N-471, N-457, N-271, N-1, N-3
+Mentions: N-471, N-457, N-1, N-3
 Related Nodes: N-10425
 Tags: relevance:context
 Investigative Direction: Ask Montgomery or Robert Flood about any acquaintance; she offers it explicitly as a bet, not a finding.
@@ -1463,7 +1463,7 @@ Transcript Snippet: Don't forget Bill Montgomery was also military as well. Air 
 Anchored Artifacts: 
 Mentions: N-457, N-1
 Supports: C-9909
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Check Montgomery's Air Force service in military records or biography.
 
 ---
@@ -1472,7 +1472,7 @@ Investigative Direction: Check Montgomery's Air Force service in military record
 
 Claim Timestamp: 00:11:00
 
-Claim: The host says the school she calls the X-Men school that Charlie Kirk attended is Quest Academy in Palatine, Illinois, formerly named the Children's Creative Academy.
+Claim: The host says the school she calls the X-Men school that Charlie Kirk attended is Quest Academy in Palatine, Illinois, formerly named the Children's Creative Academy [Creative Children's Academy].
 
 Transcript Snippet: That school is Quest Academy in Palatine, Illinois. It was formerly named the Children's Creative Academy.
 
@@ -1543,7 +1543,7 @@ Anchored Artifacts:
 Mentions: N-457, N-333, N-271, N-267
 Related Nodes: N-11038, N-10425
 Tags: relevance:core
-Investigative Direction: Obtain the firm's Texas private security registration and staff lists; compare spelling with the Scheper Security the host discusses in later episodes.
+Investigative Direction: Obtain the firm's Texas private security registration and staff lists; compare spelling with the Shaffer Security the host discusses in later episodes.
 
 ---
 
@@ -1755,7 +1755,7 @@ Investigative Direction: Find the host's tweet and Gregorio's corrected video to
 
 ---
 
-**C-14205** Gregorio Says the Letter Does Not Answer His Questions and Precedes a Lawsuit Unless He Changes His Statements
+**C-14205** De Gregorio Says the Letter Does Not Answer His Questions and Precedes a Lawsuit Unless He Changes His Statements
 
 Claim Timestamp: 00:21:30
 
@@ -1775,7 +1775,7 @@ Investigative Direction: Obtain the full text of the letter and Gregorio's video
 
 Claim Timestamp: 00:23:00
 
-Claim: The host says a cease and desist should not open with we don't intend to sue you, and says Gregorio is correct that it is the first step toward suing.
+Claim: The host says a cease and desist should not open with we don't intend to sue you, and says De Gregorio is correct that it is the first step toward suing.
 
 Transcript Snippet: If you feel that someone is putting out wrong information about you, don't start a cease and assist letter with we don't intend to sue you.
 
@@ -1918,7 +1918,7 @@ Investigative Direction: Read the letter text and compare it with Kolvet's accou
 
 ---
 
-**C-14215** Gregorio Says He Posted a December 7 Video Naming TPUSA Number One Clown
+**C-14215** De Gregorio Says He Posted a December 7 Video Naming TPUSA Number One Clown
 
 Claim Timestamp: 00:27:40
 

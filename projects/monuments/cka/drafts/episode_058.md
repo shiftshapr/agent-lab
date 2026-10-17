@@ -463,7 +463,7 @@ Investigative Pressure: Low
 
 *Related: A-1635.1, C-2108, N-10417, N-10418*
 
-**N-464** Payton McCormick
+**N-464** Peyton McCormick
 
 *November Renaissance* cast; granddaughter of Colonel Pete McCormick and daughter of Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
 
@@ -1045,7 +1045,7 @@ Air Force reservist the host says co-founded TPUSA.
 
 **N-854** Pete McCormick
 
-First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, grandfather of cast member Payton McCormick.
+First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, grandfather of cast member Peyton McCormick.
 
 *Related: C-9841*
 
@@ -1053,7 +1053,7 @@ First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, gra
 
 **N-855** Allan McCormick
 
-First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca, father of cast member Payton McCormick.
+First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca, father of cast member Peyton McCormick.
 
 *Related: C-9841*
 
@@ -1127,7 +1127,7 @@ Cold War underground base in Greenland the host says was built to launch missile
 
 Claim Timestamp: 00:03:23–00:05:24
 
-Claim: The host says, citing people based at Fort Huachuca who contacted her, that members of the *November Renaissance* cast have Fort Huachuca or military ties: Clayton Haugen does marketing for defense contractor Dillon Aero; Don Frye trained in judo at Fort Huachuca; Payton McCormick's father was once stationed there; Priscilla Ann Nu'ul's father was a lieutenant stationed there. For Chantal Thuy she cites only that her dad worked on AI for IBM, and for Price Mitchum only a psych hold.
+Claim: The host says, citing people based at Fort Huachuca who contacted her, that members of the *November Renaissance* cast have Fort Huachuca or military ties: Clayton Haugen does marketing for defense contractor Dillon Aero; Don Frye trained in judo at Fort Huachuca; Peyton McCormick's father was once stationed there; Priscilla Ann Nu'ul's father was a lieutenant stationed there. For Chantal Thuy she cites only that her dad worked on AI for IBM, and for Price Mitchum only a psych hold.
 
 Anchored Artifacts: A-1635.1, A-1635.2
 Mentions: N-460, N-463, N-464, N-465, N-466, N-467
@@ -1279,7 +1279,7 @@ Investigative Direction: Verify Buckman's credit against the film's production f
 
 Claim Timestamp: 00:18:20
 
-Claim: The host says Baron Coleman did a lot of work on the planes and that the plane that was Charlie's and now appears to be Erika's is frequently visiting New Braunfels, Texas and a place in Idaho; she says the answer is that Erika is visiting the number one donors to Turning Point USA, and credits a "mommy sleuth" with the work.
+Claim: The host says Baron Coleman did a lot of work on the planes and that people said it appears the plane that was Charlie's, and now appears to be Erika's, is frequently visiting New Braunfels, Texas and a place in Idaho; she says the answer is that Erika is visiting the number one donors to Turning Point USA, and credits a "mommy sleuth" with the work.
 
 Anchored Artifacts: A-1638.3
 Mentions: N-1, N-2, N-264, N-331
@@ -1324,7 +1324,7 @@ Investigative Direction: Obtain unedited source clip and verify the framing in t
 
 Claim Timestamp: 00:53:05–00:55:26
 
-Claim: A commenter identifying as "Nika" and as a "gate kid" reports a "total memory blackout from ages 4 to 10," the exact years stationed at Fort Hood, and that after the Army she was "shuffled through four different schools" connected to the DoD through the Aspen Education Group, naming Turnabout Ranch (Escalante, UT), New Horizons Academy (Marion, IN – closed for abuse), Missanabie Woods Academy (Canada), Darlington (Rome, GA), and a Texas school.
+Claim: A commenter identifying as "Nika" and as a "gate kid" reports a "total memory blackout from ages 4 to 10," the exact years she was at Fort Hood on base as a military brat, and that after the Army she was "shuffled through four different schools" connected to the DoD through the Aspen Education Group, naming Turnabout Ranch (Escalante, UT), New Horizons Academy (Marion, IN – closed for abuse), Missanabie Woods Academy (Canada), Darlington (Rome, GA), and a Texas school.
 
 Anchored Artifacts: A-1642.1
 Mentions: N-470
@@ -1489,7 +1489,7 @@ Investigative Direction: Identify the post, its date and the date metadata on th
 
 Claim Timestamp: 00:03:45
 
-Claim: The host says people based at Fort Huachuca around 2010 or 2011 contacted her to say they knew Erika and had worked with her from about 2010 until around 2013 on a mini film that was never released.
+Claim: The host says people based at Fort Huachuca around 2010 or 2011 contacted her to say they knew Erika and that a bunch of people from the base had worked with her from about 2010 until around 2013 on a mini film that was never released.
 
 Transcript Snippet: reached out to me to inform me that they knew Erika uh and that Erika definitely knows the base because a bunch of people from the base were uh were affiliated and had worked with her from about 2010 until around 2013
 
@@ -1565,11 +1565,11 @@ Investigative Direction: Check Frye's published biography for the Sierra Vista s
 
 ---
 
-**C-9841** Host Says Payton McCormick Is Linked to Colonel Pete and Lt. Col. Allan McCormick
+**C-9841** Host Says Peyton McCormick Is Linked to Colonel Pete and Lt. Col. Allan McCormick
 
 Claim Timestamp: 00:05:39
 
-Claim: The host says cast member Payton McCormick's grandfather is Colonel Pete McCormick and her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
+Claim: The host says cast member Peyton McCormick's grandfather is Colonel Pete McCormick and her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
 
 Transcript Snippet: Her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
 
@@ -1581,11 +1581,11 @@ Investigative Direction: Confirm the family relationships and Allan McCormick's 
 
 ---
 
-**C-9842** Host Says Payton McCormick Was Miss Teen USA in 2006
+**C-9842** Host Says Peyton McCormick Was Miss Teen USA in 2006
 
 Claim Timestamp: 00:05:45
 
-Claim: The host says Payton McCormick was also Miss Teen USA in 2006; the sentence runs into a name the transcript renders as Priscilla Ann Nu'ul.
+Claim: The host says Peyton McCormick was also Miss Teen USA in 2006; the sentence runs into a name the transcript renders as Priscilla Ann Nu'ul.
 
 Transcript Snippet: Payton was also, by the way, Miss Teen USA in 2006, Priscilla Ann Nu'ul
 
@@ -2402,13 +2402,13 @@ Investigative Direction: Source the original Fuentes stream, then compare with o
 
 ---
 
-**C-9893** Fuentes Clip Says Marjorie Green Framed Epstein as About Female Victims
+**C-9893** Fuentes Clip Says Marjorie Greene Framed Epstein as About Female Victims
 
 Claim Timestamp: 00:42:50
 
-Claim: In the follow-up clip, Fuentes says he saw Marjorie Green say the Epstein story is about female victims and that it is actually about the integrity of the government.
+Claim: In the follow-up clip, Fuentes says he saw Marjorie Greene say the Epstein story is about female victims and that it is actually about the integrity of the government.
 
-Transcript Snippet: I saw Marjorie Green say this is about female victims.
+Transcript Snippet: I saw Marjorie Greene say this is about female victims.
 
 Anchored Artifacts: A-1641.2
 Mentions: N-202, N-146

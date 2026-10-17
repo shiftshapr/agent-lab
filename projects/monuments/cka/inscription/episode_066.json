@@ -1291,7 +1291,8 @@
       "mentions_person_refs": [
         "N-2",
         "N-518",
-        "N-519"
+        "N-519",
+        "N-1"
       ]
     },
     {
@@ -1299,7 +1300,7 @@
       "@id": "C-2243",
       "ref": "C-2243",
       "label": "Catholic donor reports interaction with Father Blank and Stacy Sheridan",
-      "claim": "A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erica when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. The host says the woman who tapped the donor's shoulder at the post-mass church and invited her to sit with Erica was Stacy Sheridan.",
+      "claim": "A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erika when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. The host says the woman who tapped the donor's shoulder at the post-mass church and invited her to sit with Erika was Stacy Sheridan.",
       "anchored_artifacts": [
         "A-1706.1"
       ],
@@ -1356,7 +1357,7 @@
       "@id": "C-2246",
       "ref": "C-2246",
       "label": "Host Says Charlie Kirk Sent Group-Chat Text Quoting 1 Corinthians 16:9 on September 9",
-      "claim": "Per a group-chat text message screenshot that the host shows and says was supplied by a source, Charlie Kirk sent a text on September 9 to Erica and Father Blank quoting 1 Corinthians 16:9: \"for a wide door for effective work has opened to me and there are many adversaries.\"",
+      "claim": "Per a group-chat text message screenshot that the host shows and says was supplied by a source, Charlie Kirk sent a text on September 9 to Erika and Father Blank quoting 1 Corinthians 16:9: \"for a wide door for effective work has opened to me and there are many adversaries.\"",
       "anchored_artifacts": [
         "A-1708.1"
       ],
@@ -1465,7 +1466,7 @@
       "@id": "C-2252",
       "ref": "C-2252",
       "label": "Host Says Don Lemon Video Shows Him Questioning ICE-Affiliated Pastor at Minnesota Church Protest",
-      "claim": "The host plays a clip that she says shows Don Lemon on camera at a Minnesota church protest questioning a pastor who works with ICE.",
+      "claim": "The host plays a clip that she says shows Don Lemon on camera at a Minnesota church protest questioning one of the pastors of a church whose pastor, she says, works with ICE.",
       "anchored_artifacts": [
         "A-1711.1"
       ],

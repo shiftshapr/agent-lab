@@ -1,0 +1,877 @@
+[
+ {
+  "claim": "C-11171",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'I just live saw that this is trending on X... Candace Owens kicks off her lawsuit era.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11172",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11173",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'It sounded like 15 people that got fired'",
+  "fix": {}
+ },
+ {
+  "claim": "C-11174",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Spoken ~01:02:00, within 75s of timestamp.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11175",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11176",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Spoken ~01:02:20; ~67s after timestamp, within tolerance.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11177",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11178",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Rubin line at end of 01:04:23 block (~01:05:10); timestamp ~47s early, ok.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11179",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11180",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "N-218 canonical 'Eliza McCoy'; host says 'Elizabeth McCoy' - same person per 2026-10-16 ruling (Elizabeth McCoy, Eliza kept as alias).",
+  "fix": {}
+ },
+ {
+  "claim": "C-11181",
+  "episode": 61,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2182",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2183",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2184",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "N-491 node/claim 'Lyle Reems' is a transcription error; ACC filing L22039349 per onerealtruth.com and fan transcript spell it 'Lyle Reams'.",
+  "fix": {
+   "claim": "The host says Lyle Reams was indicted in 1998 for sexual conduct with a minor under the age of 15, and that he was approximately 41 at the time.",
+   "label": "Host Says Lyle Reams Was Indicted in 1998 for Sexual Conduct with a Minor Under 15",
+   "names": [
+    {
+     "wrong": "Lyle Reems",
+     "right": "Lyle Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2185",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Lyle Reems' should be 'Lyle Reams' (ACC filing L22039349 per onerealtruth.com).",
+  "fix": {
+   "claim": "The host says the case against Lyle Reams made its way through the court system for approximately a year and a half, during which the young victim gave a victim impact statement, before being dismissed without prejudice in 1999.",
+   "label": "Host Says the Lyle Reams Case Was Dismissed Without Prejudice in 1999 After the Victim Gave a Victim Impact Statement",
+   "names": [
+    {
+     "wrong": "Lyle Reems",
+     "right": "Lyle Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2186",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Filing names are 'Lyle Reams', 'Shelly Reams' and 'Desert Spirit Tek LLC' (ACC L22039349 per onerealtruth.com), not Reems/Tech.",
+  "fix": {
+   "claim": "Per the formation documents the host shows, in 2017 Lori Frantzve (listed as \"Lorin Frantzve\"), Larry Guinta, Lyle Reams, and Shelly Reams filed to open a business called Desert Spirit Tek LLC in Sacaton, Arizona, with Frantzve listed as a 20% stakeholder and Guinta as registered agent.",
+   "label": "Per Host's Documents, Frantzve, Guinta, and the Reamses Co-Filed Desert Spirit Tek LLC in Sacaton, Arizona in 2017",
+   "names": [
+    {
+     "wrong": "Lyle Reems",
+     "right": "Lyle Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    },
+    {
+     "wrong": "Shelly Reems",
+     "right": "Shelly Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    },
+    {
+     "wrong": "Desert Spirit Tech LLC",
+     "right": "Desert Spirit Tek LLC",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2187",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Company is 'Desert Spirit Tek LLC' per ACC L22039349 (onerealtruth.com).",
+  "fix": {
+   "claim": "Per the filing the host shows, Larry Guinta, Lori Frantzve and their partners issued the statutory public notice for Desert Spirit Tek LLC in the Arizona Chinese News, signed December 1, 2017 and received by the state December 6, 2017.",
+   "label": "Per Host's Filing, Desert Spirit Tek LLC's Statutory Public Notice Was Published in the Arizona Chinese News",
+   "names": [
+    {
+     "wrong": "Desert Spirit Tech LLC",
+     "right": "Desert Spirit Tek LLC",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2188",
+  "episode": 62,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Stated as fact; host reads 'a fun tweet that somebody pulled up from Tyler Bowyer'. Should be attributed to the tweet the host reads. Tweet says 'We run everything', not 'runs'.",
+  "fix": {
+   "claim": "Per a September 25, 2018 tweet from Tyler Bowyer that the host reads, Bowyer wrote that \"we run everything like a military op\" and that \"all of our people are from that background.\"",
+   "label": "Per a 2018 Tweet the Host Reads, Tyler Bowyer Said TPUSA Runs Everything \"Like a Military Op\""
+  }
+ },
+ {
+  "claim": "C-2189",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Recording begins ~27:00; 'different direction with the team' near 28:45, but claim content starts with recording.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2190",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2191",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2192",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2193",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'allegedly'; fake Zoom ~32:45, GC call ~33:20.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8252",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8253",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8254",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8255",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8256",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8257",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8258",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8259",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8260",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8261",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8262",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8263",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8264",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8265",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8266",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8267",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8268",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8269",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8270",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8271",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8272",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Couple is Shelly and Lyle Reams (ACC L22039349 per onerealtruth.com), not Reems.",
+  "fix": {
+   "claim": "The host says Larry Lawrence Guinta is Erika Kirk's stepfather and that he and Lori Frantzve are a repeat business partnership with the couple Shelly and Lyle Reams, meaning they have formed businesses with them.",
+   "label": "Host Says Guinta Is Erika's Stepfather and That He and Frantzve Repeatedly Formed Businesses with Lyle and Shelly Reams",
+   "names": [
+    {
+     "wrong": "Lyle Reems",
+     "right": "Lyle Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    },
+    {
+     "wrong": "Shelly Reems",
+     "right": "Shelly Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8273",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'Lyle Reems' should be 'Lyle Reams' (ACC L22039349 per onerealtruth.com).",
+  "fix": {
+   "claim": "The host says Lyle Reams is ostensibly Native American and part of the Tohono O'odham Nation, and says she may be saying the name wrong.",
+   "label": "Host Says Lyle Reams Is Ostensibly a Member of the Tohono O'odham Nation",
+   "names": [
+    {
+     "wrong": "Lyle Reems",
+     "right": "Lyle Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8274",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'Lyle Reems' should be 'Lyle Reams' (ACC L22039349 per onerealtruth.com).",
+  "fix": {
+   "claim": "The host says the background about Lyle Reams was apparently not a bar to entry for Lori Frantzve and Larry Guinta to pursue a business with him.",
+   "label": "Host Says Reams's Case Was Apparently No Bar to Frantzve and Guinta Doing Business with Him",
+   "names": [
+    {
+     "wrong": "Lyle Reems",
+     "right": "Lyle Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8275",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8276",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8277",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Company is 'Desert Spirit Tek LLC' (ACC L22039349 per onerealtruth.com). Line spoken at end of 13:25 block (~14:15), ok.",
+  "fix": {
+   "claim": "The host says the formation documents for Desert Spirit Tek LLC give Lori Frantzve's name as 'Lorin' rather than 'Lori' as in other business documents.",
+   "names": [
+    {
+     "wrong": "Desert Spirit Tech LLC",
+     "right": "Desert Spirit Tek LLC",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8278",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Filing address is '26 Rose & Thobi' and company 'Desert Spirit Tek' (ACC L22039349 per onerealtruth.com); 'Thobe' is a transcription error.",
+  "fix": {
+   "claim": "The host says the place of business listed in the Desert Spirit Tek filing is 26 Rose and Thobi, which does not appear to exist because Rose and Thobi is an intersection of two streets, and offers to correct this if wrong.",
+   "label": "Host Says the Listed Place of Business, 26 Rose and Thobi, Does Not Appear to Exist",
+   "names": [
+    {
+     "wrong": "Rose and Thobe",
+     "right": "Rose and Thobi",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    },
+    {
+     "wrong": "Desert Spirit Tech LLC",
+     "right": "Desert Spirit Tek LLC",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8279",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Reems->Reams, Thobe->Thobi, Tech->Tek per ACC L22039349 (onerealtruth.com; fan transcript gives '21 Rose and Thobi').",
+  "fix": {
+   "claim": "The host says Generation Seven Farms, owned by Lyle Reams and his wife Shelly, lists its address as 21 Rose and Thobi, which should be next door to Lori Frantzve and Larry Guinta's Desert Spirit Tek, and that she cannot find that address on a map either.",
+   "label": "Host Says Generation Seven Farms Is Owned by Lyle and Shelly Reams at 21 Rose and Thobi, Which She Cannot Find on a Map",
+   "names": [
+    {
+     "wrong": "Lyle Reems",
+     "right": "Lyle Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    },
+    {
+     "wrong": "Shelly Reems",
+     "right": "Shelly Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    },
+    {
+     "wrong": "Rose and Thobe",
+     "right": "Rose and Thobi",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    },
+    {
+     "wrong": "Desert Spirit Tech LLC",
+     "right": "Desert Spirit Tek LLC",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8280",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Company is 'Desert Spirit Tek' (ACC L22039349 per onerealtruth.com).",
+  "fix": {
+   "claim": "The host says that, she thinks in every state though maybe not all, when you form an LLC you are required to publicize it in a local newspaper with a general description of your intended business operations, and that the filing alone does not show what Desert Spirit Tek does.",
+   "names": [
+    {
+     "wrong": "Desert Spirit Tech LLC",
+     "right": "Desert Spirit Tek LLC",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8281",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8282",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8283",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'desert tech' = Desert Spirit Tek (ACC L22039349). unresolved name: Easy Tech (possibly E3TEK, a Frantzve company per onerealtruth.com).",
+  "fix": {
+   "claim": "The host asks viewers who find the 2017 notice or know what the Desert Tek, Easy Tech and Euro Tech companies do to email her at moretips@candaceowens.com.",
+   "names": [
+    {
+     "wrong": "Desert Tech",
+     "right": "Desert Tek",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8284",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8285",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8286",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8287",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8288",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

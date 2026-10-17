@@ -1291,7 +1291,7 @@ Prior topic on Nampa, Idaho context linked by the host to Kip Crofts's arrest by
 
 ---
 
-**N-10870** Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum
+**N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
 
 Prior topic on the Yrefy sponsorship and the July 25 addendum.
 

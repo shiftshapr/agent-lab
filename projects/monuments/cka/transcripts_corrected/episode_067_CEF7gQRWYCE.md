@@ -79,7 +79,7 @@ Saying um that they were three, four years old when this happened. He's saying t
 
 [11:37]
 
-Morgan. Joshua Finkelstein, BlackRock's Larry Finkelstein's son, is accused of not having any respect for non-Jews, seeing them as not human. This is from his ex-girlfriend, Svetlana. He pressures her to have an abortion. In 2017, Epstein has a conversation talking about if you want to hire the best people, you have to hire only Jews. Only hire those who can prove they are genetically Jewish. Maria Farmer, one of the first victims to come out and name Epstein, >> I wasn't allowed to go get food. And when I called Ghislaine and asked why I couldn't eat there, she said, "It's a Jewish country club. You're not Jewish. They're not going to serve you." They honest-to-god think their DNA is better than everybody else.
+Morgan. Joshua Fink, BlackRock's Larry Fink's son, is accused of not having any respect for non-Jews, seeing them as not human. This is from his ex-girlfriend, Svetlana. He pressures her to have an abortion. In 2017, Epstein has a conversation talking about if you want to hire the best people, you have to hire only Jews. Only hire those who can prove they are genetically Jewish. Maria Farmer, one of the first victims to come out and name Epstein, >> I wasn't allowed to go get food. And when I called Ghislaine and asked why I couldn't eat there, she said, "It's a Jewish country club. You're not Jewish. They're not going to serve you." They honest-to-god think their DNA is better than everybody else.
 
 [12:20]
 

@@ -1,0 +1,567 @@
+[
+ {
+  "claim": "C-9841",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says cast member Peyton McCormick's grandfather is Colonel Pete McCormick and her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.",
+   "label": "Host Says Peyton McCormick Is Linked to Colonel Pete and Lt. Col. Allan McCormick",
+   "names": [
+    {
+     "wrong": "Payton McCormick",
+     "right": "Peyton McCormick",
+     "source": "https://www.imdb.com/name/nm3177545/"
+    }
+   ]
+  },
+  "note": "Peyton McCormick confirmed: IMDb nm3177545 and Miss Ohio Teen USA 2006 titleholder list."
+ },
+ {
+  "claim": "C-9842",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Peyton McCormick was also Miss Teen USA in 2006; the sentence runs into a name the transcript renders as Priscilla Ann Nu'ul.",
+   "label": "Host Says Peyton McCormick Was Miss Teen USA in 2006",
+   "names": [
+    {
+     "wrong": "Payton McCormick",
+     "right": "Peyton McCormick",
+     "source": "https://www.imdb.com/name/nm3177545/"
+    }
+   ]
+  },
+  "note": "Peyton McCormick confirmed (IMDb; Miss Ohio Teen USA 2006). Host words \"Miss Teen USA\" kept."
+ },
+ {
+  "claim": "C-9893",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the follow-up clip, Fuentes says he saw Marjorie Greene say the Epstein story is about female victims and that it is actually about the integrity of the government.",
+   "label": "Fuentes Clip Says Marjorie Greene Framed Epstein as About Female Victims",
+   "names": [
+    {
+     "wrong": "Marjorie Green",
+     "right": "Marjorie Greene",
+     "source": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
+    }
+   ]
+  },
+  "note": "Marjorie Taylor Greene (N-146) spelled Greene; no existing correction rule covers \"Marjorie Green\"."
+ },
+ {
+  "claim": "C-2131",
+  "episode": 59,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per Robert Flood's LinkedIn profile, which the host shows on screen, he is a member of the FBIA [FBI Agents Association].",
+   "label": "Host-Shown LinkedIn Profile Lists Robert Flood as Member of the FBIA [FBI Agents Association]"
+  },
+  "note": "Host herself says FBIA / Federal Bureau of Investigations Agent Association; keep her words, add FBIAA name in brackets, no names entry."
+ },
+ {
+  "claim": "C-2133",
+  "episode": 59,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:12:58"
+  },
+  "note": "Allen, Texas line and the friend's post fall at ~13:03-13:30 in block [12:43]; 12:58 fits."
+ },
+ {
+  "claim": "C-2140",
+  "episode": 59,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft claim, label and transcript already read Zach De Gregorio; correction rule exists."
+ },
+ {
+  "claim": "C-2148",
+  "episode": 59,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per the website description the host reads aloud, the FBIA [FBI Agents Association], which the host calls a charity, was founded in 1981 and consists of 14,000 former and current feds.",
+   "label": "The FBIA [FBI Agents Association], Which the Host Calls a Charity, Was Founded in 1981 With 14,000 Current and Former Feds"
+  },
+  "note": "Host says FBIA herself; keep her words and bracket the correct name; label fixed to feds per her reading. No names entry."
+ },
+ {
+  "claim": "C-14185",
+  "episode": 59,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-471",
+    "N-457",
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Claim names only Robert Eugene Flood, not Dan Flood; drop N-271."
+ },
+ {
+  "claim": "C-14187",
+  "episode": 59,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the school she calls the X-Men school that Charlie Kirk attended is Quest Academy in Palatine, Illinois, formerly named the Children's Creative Academy [Creative Children's Academy]."
+  },
+  "note": "Host herself says Children's Creative Academy; Quest Academy history page gives Creative Children's Academy. Bracket, no names entry."
+ },
+ {
+  "claim": "C-14191",
+  "episode": 59,
+  "decision": "amend",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Scheper Security",
+     "right": "Shaffer Security",
+     "source": "https://publish.obsidian.md/charliefiles/people/Greg+Shaffer ; AP-syndicated reports on Shaffer Security Group (Greg Shaffer)"
+    }
+   ]
+  },
+  "note": "Related node N-11038 Scheper Security = Shaffer Security (Greg Shaffer's firm, host says Shaffer Security here); use plain firm name as right."
+ },
+ {
+  "claim": "C-14204",
+  "episode": 59,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim does not use the name; N-473 already Zach De Gregorio and correction rule exists."
+ },
+ {
+  "claim": "C-14205",
+  "episode": 59,
+  "decision": "amend",
+  "fix": {
+   "label": "De Gregorio Says the Letter Does Not Answer His Questions and Precedes a Lawsuit Unless He Changes His Statements"
+  },
+  "note": "Claim already reads Zach De Gregorio; only the label surname needs fixing. Names rule already exists."
+ },
+ {
+  "claim": "C-14206",
+  "episode": 59,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says a cease and desist should not open with we don't intend to sue you, and says De Gregorio is correct that it is the first step toward suing."
+  },
+  "note": "Surname is De Gregorio; names entry dropped since the rule already exists."
+ },
+ {
+  "claim": "C-14215",
+  "episode": 59,
+  "decision": "amend",
+  "fix": {
+   "label": "De Gregorio Says He Posted a December 7 Video Naming TPUSA Number One Clown"
+  },
+  "note": "Claim already correct; label surname fixed. Names rule already exists."
+ },
+ {
+  "claim": "C-2153",
+  "episode": 60,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Katherine Griggs worked for the government, so her account was not some conspiracy theory but how it works, and that even a slight look into the history of the U.S. military and programs like MK Ultra shows this.",
+   "label": "Host Says Griggs Worked for the Government and Her Account Is How the Military Works",
+   "mentions": [
+    "N-3",
+    "N-477"
+   ]
+  },
+  "note": "No JFK or command-level concurrence in window; host says Griggs worked for the government, MK Ultra. George Griggs not referred to."
+ },
+ {
+  "claim": "C-2156",
+  "episode": 60,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:41:13"
+  },
+  "note": "Coleman's donor financial-interest line starts ~41:15 in block [40:58]; 41:13 fits."
+ },
+ {
+  "claim": "C-5506",
+  "episode": 60,
+  "decision": "reject",
+  "fix": {},
+  "note": "Speaker of the >> turn is not clear from content; New Braunfels lines could be either speaker. Attribution unresolved."
+ },
+ {
+  "claim": "C-5533",
+  "episode": 60,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says pastors like Rob McCoy are constantly trying to rehabilitate pedophiles and then tell people that to be saved they just have to unfollow Tucker Carlson on Twitter.",
+   "label": "Host Says Pastors Like Rob McCoy Rehabilitate Pedophiles While Telling Followers to Unfollow Tucker",
+   "mentions": [
+    "N-3",
+    "N-17",
+    "N-22"
+   ]
+  },
+  "note": "Turn order is clear from content: host (knew Charlie personally) / Coleman (give me a Christian) / host (operation mocking pastor, McCoy)."
+ },
+ {
+  "claim": "C-5558",
+  "episode": 60,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that she was told the plane going into Scottsdale belongs to the Yrefy guy, and she corrects herself that she should say it is what she was told and not what she determined.",
+   "names": [
+    {
+     "wrong": "Y Refi",
+     "right": "Yrefy",
+     "source": "https://www.crunchbase.com/organization/yrefy"
+    }
+   ]
+  },
+  "note": "Yrefy is the Scottsdale student-loan refinancer that sponsors TPUSA (Fox News, IBTimes, BBB Scottsdale listing)."
+ },
+ {
+  "claim": "C-2158",
+  "episode": 61,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she received a cease and desist letter from Turning Point USA, her first legal letter of 2026, when it was 20 days into January.",
+   "timestamp": "00:00:05"
+  },
+  "note": "Host gives receipt, not send date, at ~0:10 in the intro; attribution and timestamp fix supported."
+ },
+ {
+  "claim": "C-2184",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Lyle Reams was indicted in 1998 for sexual conduct with a minor under the age of 15, and that he was approximately 41 at the time.",
+   "label": "Host Says Lyle Reams Was Indicted in 1998 for Sexual Conduct with a Minor Under 15",
+   "names": [
+    {
+     "wrong": "Lyle Reems",
+     "right": "Lyle Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  },
+  "note": "ACC record L22039349 (city-data) lists Lyle Reams and Shelly M Reams; fan transcript also Reams."
+ },
+ {
+  "claim": "C-2185",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the case against Lyle Reams made its way through the court system for approximately a year and a half, during which the young victim gave a victim impact statement, before being dismissed without prejudice in 1999.",
+   "label": "Host Says the Lyle Reams Case Was Dismissed Without Prejudice in 1999 After the Victim Gave a Victim Impact Statement",
+   "names": [
+    {
+     "wrong": "Lyle Reems",
+     "right": "Lyle Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  },
+  "note": "ACC record L22039349 lists Lyle Reams."
+ },
+ {
+  "claim": "C-2186",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the formation documents the host shows, in 2017 Lori Frantzve (listed as \"Lorin Frantzve\"), Larry Guinta, Lyle Reams, and Shelly Reams filed to open a business called Desert Spirit Tek LLC in Sacaton, Arizona, with Frantzve listed as a 20% stakeholder and Guinta as registered agent.",
+   "label": "Per Host's Documents, Frantzve, Guinta, and the Reamses Co-Filed Desert Spirit Tek LLC in Sacaton, Arizona in 2017",
+   "names": [
+    {
+     "wrong": "Lyle Reems",
+     "right": "Lyle Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    },
+    {
+     "wrong": "Shelly Reems",
+     "right": "Shelly Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    },
+    {
+     "wrong": "Desert Spirit Tech LLC",
+     "right": "Desert Spirit Tek LLC",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  },
+  "note": "ACC record L22039349: DESERT SPIRIT TEK, LLC; members Shelly M Reams, Lyle Reams, Lorin Frantzve, Lawrence R Guinta."
+ },
+ {
+  "claim": "C-2187",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the filing the host shows, Larry Guinta, Lori Frantzve and their partners issued the statutory public notice for Desert Spirit Tek LLC in the Arizona Chinese News, signed December 1, 2017 and received by the state December 6, 2017.",
+   "label": "Per Host's Filing, Desert Spirit Tek LLC's Statutory Public Notice Was Published in the Arizona Chinese News",
+   "names": [
+    {
+     "wrong": "Desert Spirit Tech LLC",
+     "right": "Desert Spirit Tek LLC",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  },
+  "note": "Entity is DESERT SPIRIT TEK, LLC per ACC record L22039349."
+ },
+ {
+  "claim": "C-2188",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a September 25, 2018 tweet from Tyler Bowyer that the host reads, Bowyer wrote that \"we run everything like a military op\" and that \"all of our people are from that background.\"",
+   "label": "Per a 2018 Tweet the Host Reads, Tyler Bowyer Said TPUSA Runs Everything \"Like a Military Op\""
+  },
+  "note": "Host reads a tweet somebody pulled up; tweet says \"We run everything like a military op\"."
+ },
+ {
+  "claim": "C-8272",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Larry Lawrence Guinta is Erika Kirk's stepfather and that he and Lori Frantzve are a repeat business partnership with the couple Shelly and Lyle Reams, meaning they have formed businesses with them.",
+   "label": "Host Says Guinta Is Erika's Stepfather and That He and Frantzve Repeatedly Formed Businesses with Lyle and Shelly Reams",
+   "names": [
+    {
+     "wrong": "Lyle Reems",
+     "right": "Lyle Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    },
+    {
+     "wrong": "Shelly Reems",
+     "right": "Shelly Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  },
+  "note": "ACC record L22039349 lists Lyle Reams and Shelly M Reams."
+ },
+ {
+  "claim": "C-8273",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Lyle Reams is ostensibly Native American and part of the Tohono O'odham Nation, and says she may be saying the name wrong.",
+   "label": "Host Says Lyle Reams Is Ostensibly a Member of the Tohono O'odham Nation",
+   "names": [
+    {
+     "wrong": "Lyle Reems",
+     "right": "Lyle Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  },
+  "note": "ACC record L22039349 lists Lyle Reams."
+ },
+ {
+  "claim": "C-8274",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the background about Lyle Reams was apparently not a bar to entry for Lori Frantzve and Larry Guinta to pursue a business with him.",
+   "label": "Host Says Reams's Case Was Apparently No Bar to Frantzve and Guinta Doing Business with Him",
+   "names": [
+    {
+     "wrong": "Lyle Reems",
+     "right": "Lyle Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  },
+  "note": "ACC record L22039349 lists Lyle Reams."
+ },
+ {
+  "claim": "C-8277",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the formation documents for Desert Spirit Tek LLC give Lori Frantzve's name as 'Lorin' rather than 'Lori' as in other business documents.",
+   "names": [
+    {
+     "wrong": "Desert Spirit Tech LLC",
+     "right": "Desert Spirit Tek LLC",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  },
+  "note": "Entity is DESERT SPIRIT TEK, LLC per ACC record; Lorin Frantzve listed as member."
+ },
+ {
+  "claim": "C-8278",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the place of business listed in the Desert Spirit Tek filing is 26 Rose and Thobi, which does not appear to exist because Rose and Thobi is an intersection of two streets, and offers to correct this if wrong.",
+   "label": "Host Says the Listed Place of Business, 26 Rose and Thobi, Does Not Appear to Exist",
+   "names": [
+    {
+     "wrong": "Rose and Thobe",
+     "right": "Rose and Thobi",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    },
+    {
+     "wrong": "Desert Spirit Tech LLC",
+     "right": "Desert Spirit Tek LLC",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  },
+  "note": "onerealtruth.com cites filing address 26 Rose & Thobi and GRIC shuttle stop Rose/Thobi; entity is Desert Spirit Tek."
+ },
+ {
+  "claim": "C-8279",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Generation Seven Farms, owned by Lyle Reams and his wife Shelly, lists its address as 21 Rose and Thobi, which should be next door to Lori Frantzve and Larry Guinta's Desert Spirit Tek, and that she cannot find that address on a map either.",
+   "label": "Host Says Generation Seven Farms Is Owned by Lyle and Shelly Reams at 21 Rose and Thobi, Which She Cannot Find on a Map",
+   "names": [
+    {
+     "wrong": "Lyle Reems",
+     "right": "Lyle Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    },
+    {
+     "wrong": "Shelly Reems",
+     "right": "Shelly Reams",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    },
+    {
+     "wrong": "Rose and Thobe",
+     "right": "Rose and Thobi",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    },
+    {
+     "wrong": "Desert Spirit Tech LLC",
+     "right": "Desert Spirit Tek LLC",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  },
+  "note": "Reams per ACC record; Thobi per onerealtruth (filing, GRIC stop) and fan transcript \"21 Rose and Thobi\"; Tek per ACC."
+ },
+ {
+  "claim": "C-8280",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, she thinks in every state though maybe not all, when you form an LLC you are required to publicize it in a local newspaper with a general description of your intended business operations, and that the filing alone does not show what Desert Spirit Tek does.",
+   "names": [
+    {
+     "wrong": "Desert Spirit Tech LLC",
+     "right": "Desert Spirit Tek LLC",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  },
+  "note": "Entity is DESERT SPIRIT TEK, LLC per ACC record L22039349."
+ },
+ {
+  "claim": "C-8283",
+  "episode": 62,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host asks viewers who find the 2017 notice or know what the Desert Tek, Easy Tech and Euro Tech companies do to email her at moretips@candaceowens.com.",
+   "names": [
+    {
+     "wrong": "Desert Tech",
+     "right": "Desert Tek",
+     "source": "https://onerealtruth.com/ (cites ACC filing L22039349: 'Shelly M. Reams', 'Lyle Reams', 'Desert Spirit Tek LLC', '26 Rose & Thobi'); https://candaceowensfan.substack.com/p/exclusive-candace-shows-texts-from"
+    }
+   ]
+  },
+  "note": "\"desert tech\" is Desert Spirit Tek per ACC record; other company names left as spoken."
+ },
+ {
+  "claim": "C-7019",
+  "episode": 63,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Creative Children's Academy was founded by a woman named Helene Bartz, whose husband is Reverend Robert Bartz of Arlington Heights.",
+   "label": "Host Says Helene Bartz Founded the Academy and Her Husband Is Rev. Robert Bartz",
+   "names": [
+    {
+     "wrong": "Robert Barts",
+     "right": "Robert Bartz",
+     "source": "https://www.findagrave.com/memorial/68361771/robert-otto-bartz"
+    }
+   ]
+  },
+  "note": "Helene Bartz already fixed by existing rule; husband is Rev. Robert Otto Bartz Sr. of Arlington Heights, spouse Helene (Find a Grave)."
+ },
+ {
+  "claim": "C-7020",
+  "episode": 63,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft claim and label already read Helene Bartz; Helen Barts rule already exists."
+ },
+ {
+  "claim": "C-7022",
+  "episode": 63,
+  "decision": "amend",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Helen Arts",
+     "right": "Helene Bartz",
+     "source": "https://questacademy.org/about-us/history-mission/"
+    }
+   ]
+  },
+  "note": "Claim/label already say Helene Bartz; snippet still has \"Helen Arts\", which no rule covers. Quest Academy history names founder Helene Bartz."
+ },
+ {
+  "claim": "C-7026",
+  "episode": 63,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft claim and label already read Helene Bartz; Helen Barts rule already exists."
+ },
+ {
+  "claim": "C-10000",
+  "episode": 64,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft and transcript already read Marina Minas."
+ },
+ {
+  "claim": "C-2242",
+  "episode": 66,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-518",
+    "N-519",
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to Charlie (his chair, his death); add N-1."
+ },
+ {
+  "claim": "C-2256",
+  "episode": 67,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the compilation, Joshua Fink (described as BlackRock's Larry Fink's son) is accused by his ex-girlfriend Svetlana of not having any respect for non-Jews and seeing them as not human, and the compilation says he pressures her to have an abortion.",
+   "label": "Joshua Fink Accused of Treating Non-Jews as Not Human",
+   "names": [
+    {
+     "wrong": "Joshua Finkelstein",
+     "right": "Joshua Fink",
+     "source": "https://x.com/CorySwan/status/2030008688807948608"
+    },
+    {
+     "wrong": "Larry Finkelstein",
+     "right": "Larry Fink",
+     "source": "https://en.wikipedia.org/wiki/Larry_Fink"
+    }
+   ]
+  },
+  "note": "Clip text matches posts on Joshua Fink, son of BlackRock CEO Larry Fink, and ex-girlfriend Svetlana Pozhidaeva (Epstein docs)."
+ }
+]
