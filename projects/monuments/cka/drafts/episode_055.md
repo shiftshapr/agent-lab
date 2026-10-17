@@ -2490,14 +2490,14 @@ Investigative Direction: Off-topic historical assertion; no source given.
 
 Claim Timestamp: 00:49:54
 
-Claim: The host says she was attacked for distrusting the Argentine president, that she has seen it said his full last name is 'Milei', and that he looks a little like Netanyahu; she calls it a conspiracy.
+Claim: The host says she was attacked for distrusting the Argentine president, that she has seen it said his full last name is 'Mileikowsky', and that he looks a little like Netanyahu; she calls it a conspiracy.
 
-Transcript Snippet: Saw some stuff about like really his full last name is Milei and he looks a little like BB Nyahoo.
+Transcript Snippet: Saw some stuff about like really his full last name is Mileikowsky and he looks a little like BB Nyahoo.
 
 Anchored Artifacts: 
 Mentions: N-936, N-36
 Tags: relevance:tangential
-Investigative Direction: Check Javier Milei's recorded family names; the host offers only a viral rumor and labels it a conspiracy.
+Investigative Direction: Check the rumor that Javier Milei's surname is Mileikowsky (Netanyahu's family name); the host offers only a viral rumor and labels it a conspiracy.
 
 ---
 
