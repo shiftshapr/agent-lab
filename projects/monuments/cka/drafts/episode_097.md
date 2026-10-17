@@ -1064,7 +1064,7 @@ Investigative Direction: Review "The Great Exodus from Utah" episode transcript;
 
 **C-2815** Lawsuit Asserts Harpole Is a Private Citizen
 
-Claim Timestamp: 00:14:44
+Claim Timestamp: 00:14:11
 
 Claim: Per point 29 of the lawsuit the host reads, Harpole asserts he is a private individual, not a limited-purpose public figure, despite two podcast appearances; the host disputes this.
 

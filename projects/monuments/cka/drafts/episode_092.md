@@ -1188,7 +1188,7 @@ Investigative Direction: Obtain the original email/text from TPUSA to the school
 
 Claim Timestamp: 00:21:10
 
-Claim: Per a parental Facebook chat the host shows, a parent and an anonymous member who says she is a teacher object to Erika Kirk's appearance at Pinnacle High School in Phoenix, the teacher calling it 'a safety risk' and urging parents to call their kids out of school; the host says they are organizing essentially a walkout, a boycott.
+Claim: Per a parental Facebook chat the host shows, a parent and an anonymous member who says they are a teacher object to Erika Kirk's appearance at Pinnacle High School in Phoenix, the teacher calling it 'a safety risk' and urging parents to call their kids out of school; the host says they are organizing essentially a walkout, a boycott.
 
 Anchored Artifacts: A-1973.1
 Mentions: N-2
@@ -1199,7 +1199,7 @@ Investigative Direction: Confirm event status with Pinnacle High School administ
 
 ---
 
-**C-2732** UGA High School Cancellation Email References "September 14th"
+**C-2732** Georgia High School Cancellation Text References "September 14th"
 
 Claim Timestamp: 00:19:16
 

@@ -2910,11 +2910,11 @@ Investigative Direction: Obtain hospital records of any federal seizure of camer
 
 ---
 
-**C-13437** Host Says There Is Evidence Charlie Went to Utah Valley Hospital First
+**C-13437** Host Suggests There May Be Evidence Charlie Went to Utah Valley Hospital First
 
 Claim Timestamp: 00:57:24
 
-Claim: The host says there is evidence that Charlie Kirk actually went to Utah Valley Hospital first, which she suggests may explain why the Timpanogos footage was taken.
+Claim: The host suggests that maybe there is evidence that Charlie Kirk actually went to Utah Valley Hospital first, which she suggests may explain why the Timpanogos footage was taken.
 
 Transcript Snippet: Maybe because he didn't go there first, maybe because there's evidence that Charlie actually went to Utah Valley Hospital first.
 
@@ -3029,7 +3029,7 @@ Investigative Direction: Check the charging documents and exhibits for message t
 
 Claim Timestamp: 01:01:45
 
-Claim: The host says her producer discovered that the authorities are making slight edits to the text messages, with details promised for the next day's episode.
+Claim: The host says her producer discovered that they are making slight edits to the text messages, with details promised for the next day's episode.
 
 Transcript Snippet: Also tomorrow we will have for you that my producer discovered that they're making slight edits to the text messages.
 
@@ -3041,11 +3041,11 @@ Investigative Direction: Watch the next episode for the producer's comparison of
 
 ---
 
-**C-13445** Host Says the State Is Dropping New Text Messages and Making Slight Edits to Old Ones
+**C-13445** Host Says New Text Messages Are Being Dropped and Old Ones Slightly Edited
 
 Claim Timestamp: 01:01:45
 
-Claim: The host says the authorities are dropping new text messages while making slight edits to the old ones.
+Claim: The host says they are dropping new text messages while making slight edits to the old ones.
 
 Transcript Snippet: they're dropping new text messages making some slight edits to the old ones.
 

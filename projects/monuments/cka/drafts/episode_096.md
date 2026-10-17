@@ -995,7 +995,7 @@ Investigative Direction: Pull Evan Hill's X post directly; verify Washington Pos
 
 Claim Timestamp: 00:31:35
 
-Claim: The original public clip of Erika Kirk's "I just want to go home" remark was first shared by CNN's Sara Sidner.
+Claim: The host says the original public clip of Erika Kirk's "I just want to go home" remark was first shared by CNN's Sara Sidner.
 
 Anchored Artifacts: A-2008.3
 Mentions: N-2, N-371
@@ -1095,7 +1095,7 @@ Investigative Direction: Review the Farnsworth video; verify timestamp and origi
 
 Claim Timestamp: 00:51:23
 
-Claim: Andrew Kolvet publicly presented a screenshot of a text message exchange involving Candace Owens as supporting evidence for Erika Kirk's murder claim.
+Claim: The host says Andrew Kolvet publicly presented a screenshot of a text message exchange involving Candace Owens as supporting evidence for Erika Kirk's murder claim.
 
 Anchored Artifacts: A-2011.1
 Mentions: N-2, N-3, N-14

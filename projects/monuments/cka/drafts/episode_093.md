@@ -992,7 +992,7 @@ Investigative Direction: Obtain the underlying Secret Service statement on the r
 
 ---
 
-**C-2745** Erika Kirk was at the Athens, GA venue from 2:40 PM to 6:39 PM on rally day
+**C-2745** Host Says Erika Kirk Was in Athens, GA From 2:40 PM to 6:39 PM on Rally Day
 
 Claim Timestamp: 00:07:27–00:13:38
 
@@ -1119,6 +1119,7 @@ Claim Timestamp: 00:37:17–00:38:02
 Claim: The host says she believes Corby said the messages were from sometime in April, checks with Skyler ("I want to say it was April, but don't quote me on that. It was. Okay."), and then states the conversation took place in April 2025.
 
 Anchored Artifacts: A-1988.1, A-1988.2, A-1988.3
+Mentions: N-343
 
 Related Nodes: N-10618
 
@@ -1393,7 +1394,7 @@ Investigative Direction: Cross-check ADS-B tracks of the Vance aircraft with Van
 
 Claim Timestamp: 00:09:45
 
-Claim: The host says the Wi-Fi speaker opened the event at 5:00 p.m., thanked Erika on stage and looked to the left, which she reads as a sign Erika was off stage at that time.
+Claim: The host says the Yrefy speaker opened the event at 5:00 p.m., thanked Erika on stage and looked to the left, which she reads as a sign Erika was off stage at that time.
 
 Transcript Snippet: he opened this event at 5:00 p. m. And it looks certainly like he acknowledges Erika on stage and looks to the left.
 

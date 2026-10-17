@@ -232,7 +232,7 @@ Confidence Level: High
 
 **A-2036** FARA Filing – Show Faith by Works LLC Bundle
 
-**A-2036.1** FARA registration filed by Show Faith by Works LLC; principal listed as Israel's Ministry of Foreign Affairs; U.S. representative: Chad Schnitker; geofencing partnership: Havoc Media; legal representative: Dhillon Law Group
+**A-2036.1** FARA registration filed by Show Faith by Works LLC; principal listed as Israel's Ministry of Foreign Affairs; U.S. representative: Chad Schnitker; geofencing partnership: Havas Media; legal representative: Dhillon Law Group
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -993,7 +993,7 @@ First named by the host at 00:56:47 in episode 98. The host asks if he is Ben Sh
 
 ---
 
-**N-11299** Bridge Partners / Esther Project
+**N-11299** Bridges Partners / Esther Project
 
 Node Type: Organization
 Firm named in the Times of Israel article as contracted to create an influencer network called the Esther project for Israel's Foreign Ministry.
@@ -1169,11 +1169,11 @@ Related Nodes: N-10652
 
 ---
 
-**C-2846** Host Says Show Faith by Works LLC Was Contracted by Havoc Media Before Charlie Kirk's Public Funeral
+**C-2846** Host Says Show Faith by Works LLC Was Contracted by Havas Media Before Charlie Kirk's Public Funeral
 
 Claim Timestamp: 00:39:35
 
-Claim: The host says Show Faith by Works LLC was contracted by Havoc Media on the 8th, followed by the public funeral of Charlie Kirk.
+Claim: The host says Show Faith by Works LLC was contracted by Havas Media on the 18th, followed by the public funeral of Charlie Kirk.
 
 Anchored Artifacts: A-2036.1, A-2044.1
 Mentions: N-1
@@ -1454,7 +1454,7 @@ Investigative Direction: Identify the investor and the date and terms of the inv
 
 Claim Timestamp: 00:06:57
 
-Claim: The host says the Daily Wire first shuttered Bentkey Kids with massive layoffs, then quietly got rid of its sports department, the Cranium Company show, before the recent cuts.
+Claim: The host says the Daily Wire first shuttered Bentkey Kids with massive layoffs, then quietly got rid of its sports department, the Crain & Company show, before the recent cuts.
 
 Transcript Snippet: first they shuttered Ben Key Kids, which was obviously massive layoffs that were done. Then they quietly got rid of their sports department.
 
@@ -1738,7 +1738,7 @@ Investigative Direction: Identify any payment, donation or sponsorship from Shap
 
 Claim Timestamp: 00:21:19
 
-Claim: The host says that on his Friday show Ben Shapiro did not address the laid-off employees, including people who moved their families to Asheville, and instead made his show about her.
+Claim: The host says that on his Friday show Ben Shapiro did not address the laid-off employees, including people who moved their families to Nashville, and instead made his show about her.
 
 Transcript Snippet: what did Ben do instead of addressing his employees? Instead, he made his show about me.
 
@@ -2035,19 +2035,19 @@ Investigative Direction: FARA filing for the Parscale contract.
 
 ---
 
-**C-11538** Times of Israel says Bridge Partners is creating the Esther project influencer network
+**C-11538** Times of Israel Says Bridges Partners Is Creating the Esther Project Influencer Network
 
 Claim Timestamp: 00:38:09
 
-Claim: The Times of Israel article the host reads says a firm called Bridge Partners has a contract to create an influencer network called the Esther project.
+Claim: The Times of Israel article the host reads says a firm called Bridges Partners has a contract to create an influencer network called the Esther project.
 
-Transcript Snippet: a contract with a firm called Bridge Partners to create an influencer network called the Esther project.
+Transcript Snippet: a contract with a firm called Bridges Partners to create an influencer network called the Esther project.
 
 Anchored Artifacts: A-2035.1
 Mentions: 
 Related Nodes: N-11299
 Tags: relevance:context
-Investigative Direction: FARA filing for Bridge Partners.
+Investigative Direction: FARA filing for Bridges Partners.
 
 ---
 
@@ -2291,7 +2291,7 @@ Investigative Direction: None; self-reported commercial figure.
 
 **C-11554** Host says the Blake Lively and Justin Baldoni case has settled
 
-Claim Timestamp: 00:54:14
+Claim Timestamp: 00:53:30
 
 Claim: The host reads a viewer comment that Blake Lively just settled and says the settlement means the case is over, calling it a win for Justin Baldoni; she says settlement details will be kept quiet and she will cover it the next day.
 
@@ -2325,7 +2325,7 @@ Investigative Direction: Docket entries listing counsel for Baldoni and Wayfarer
 
 Claim Timestamp: 00:56:47
 
-Claim: The host asks whether Ben Shapiro's uncle Zalman Shapiro was the one who took all of the uranium to Israel, and says she is pretty sure he was.
+Claim: The host asks whether Ben Shapiro's uncle Zalman Shapiro was the one who took all of the uranium to Israel, spells the name and says 'I'm pretty sure.'
 
 Transcript Snippet: What was his uncle Zalman Shapiro? Am I correct that he's the one that took all of the uranium to Israel?
 

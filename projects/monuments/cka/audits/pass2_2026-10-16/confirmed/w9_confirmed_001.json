@@ -1,0 +1,209 @@
+[
+ {
+  "claim": "C-2753",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-343"
+   ]
+  },
+  "note": "Host names Corby (Corby Hall, N-343, introduced ep91)."
+ },
+ {
+  "claim": "C-11443",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Yrefy speaker opened the event at 5:00 p.m., thanked Erika on stage and looked to the left, which she reads as a sign Erika was off stage at that time.",
+   "names": [
+    {
+     "wrong": "Wi-Fi",
+     "right": "Yrefy",
+     "source": "https://www.yrefy.com/ ; projects/monuments/cka/transcripts_corrected/episode_159_q4m-kGzvwjw.md"
+    }
+   ]
+  },
+  "note": "Host's 'Wi-Fi guy' is Yrefy (CEO Laine Schoneberger; clip: 'My ReFi'); existing Yrefy rules don't cover 'Wi-Fi'; draft still says Wi-Fi."
+ },
+ {
+  "claim": "C-2815",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:14:11"
+  },
+  "note": "'That's point 29' spoken ~14:16, ~28s before 14:44; 14:11 is ~5s before."
+ },
+ {
+  "claim": "C-2846",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Show Faith by Works LLC was contracted by Havas Media on the 18th, followed by the public funeral of Charlie Kirk.",
+   "label": "Host Says Show Faith by Works LLC Was Contracted by Havas Media Before Charlie Kirk's Public Funeral",
+   "names": [
+    {
+     "wrong": "Havoc Media",
+     "right": "Havas Media",
+     "source": "https://responsiblestatecraft.org/israel-geofencing-churches/"
+    }
+   ]
+  },
+  "note": "Havas Media (FARA/press; host says 'via Havas Media... September 18th' in ep99); 'on on 8th' = the 18th."
+ },
+ {
+  "claim": "C-11501",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Daily Wire first shuttered Bentkey Kids with massive layoffs, then quietly got rid of its sports department, the Crain & Company show, before the recent cuts.",
+   "names": [
+    {
+     "wrong": "Cranium Company",
+     "right": "Crain & Company",
+     "source": "https://www.dailywire.com/show/crain-and-company"
+    }
+   ]
+  },
+  "note": "Crain & Company was the Daily Wire's sports podcast (dailywire.com/show/crain-and-company)."
+ },
+ {
+  "claim": "C-11519",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that on his Friday show Ben Shapiro did not address the laid-off employees, including people who moved their families to Nashville, and instead made his show about her.",
+   "names": [
+    {
+     "wrong": "Asheville",
+     "right": "Nashville",
+     "source": "https://www.dailywire.com/news/the-daily-wire-launches-first-sports-podcast"
+    }
+   ]
+  },
+  "note": "Layoffs concentrated at Daily Wire's Nashville HQ (read in same episode; TheWrap); 'in Asheville' is a mishearing of 'in Nashville'."
+ },
+ {
+  "claim": "C-11538",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "claim": "The Times of Israel article the host reads says a firm called Bridges Partners has a contract to create an influencer network called the Esther project.",
+   "label": "Times of Israel Says Bridges Partners Is Creating the Esther Project Influencer Network",
+   "names": [
+    {
+     "wrong": "Bridge Partners",
+     "right": "Bridges Partners",
+     "source": "https://responsiblestatecraft.org/israel-influencers"
+    }
+   ]
+  },
+  "note": "FARA filings/Responsible Statecraft/Wikipedia: firm is Bridges Partners LLC (Esther Project)."
+ },
+ {
+  "claim": "C-11554",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:53:30"
+  },
+  "note": "Viewer comment read ~53:35, ~39s before 54:14; 53:30 is ~5s before."
+ },
+ {
+  "claim": "C-2856",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a 2018 message from Charlie Kirk that the host shows, Kirk wrote that he dreamed \"all the time\" about being killed and believed he might be \"wiped out\" at any time."
+  },
+  "note": "Content is a 2018 text the host shows and reads; attribute to the shown message."
+ },
+ {
+  "claim": "C-2857",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the 2018 follow-up text the host shows, Charlie Kirk wrote that he was \"not really afraid\" of being killed."
+  },
+  "note": "Content is a text the host shows and reads; attribute to the shown message."
+ },
+ {
+  "claim": "C-2868",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a Salem announcement article the host reads, Salem Media Group announced a landmark deal with Donald Trump Jr. and Lara Trump, including acquisition of a 30% stake in MxM News and a long-term services agreement; the host says the deal was announced in April 2025.",
+   "names": [
+    {
+     "wrong": "M-News",
+     "right": "MxM News",
+     "source": "https://www.businesswire.com/news/home/20250403021482/en"
+    }
+   ]
+  },
+  "note": "App is MxM News (BusinessWire Apr 2025); 'April of 2025' is the host's words, not the article's."
+ },
+ {
+  "claim": "C-2869",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the Salem announcement article the host reads, pursuant to the April 2025 deal Salem acquired a 30% stake in MxM News, a mobile news aggregation app co-owned by Donald Trump Jr.",
+   "names": [
+    {
+     "wrong": "M-News",
+     "right": "MxM News",
+     "source": "https://www.businesswire.com/news/home/20250403021482/en"
+    }
+   ]
+  },
+  "note": "'M-Time M-News' = MxM News, app co-founded by Donald Trump Jr. (BusinessWire Apr 2025)."
+ },
+ {
+  "claim": "C-2871",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-85",
+    "N-130"
+   ]
+  },
+  "note": "Claim names Ian Carroll (N-130, introduced ep11)."
+ },
+ {
+  "claim": "C-2874",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Josh Hammer is not named or referred to in the claim."
+ },
+ {
+  "claim": "C-2877",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:46:55"
+  },
+  "note": "'On April 2nd' spoken ~47:00, ~30s before 47:29; 46:55 is ~5s before."
+ },
+ {
+  "claim": "C-4069",
+  "episode": 104,
+  "decision": "reject",
+  "fix": {},
+  "note": "Gustave spelling rests only on people-search sites (RocketReach/SignalHire/ZoomInfo): unresolved."
+ },
+ {
+  "claim": "C-4070",
+  "episode": 104,
+  "decision": "reject",
+  "fix": {},
+  "note": "Gustave spelling rests only on people-search sites (RocketReach/SignalHire/ZoomInfo): unresolved."
+ }
+]

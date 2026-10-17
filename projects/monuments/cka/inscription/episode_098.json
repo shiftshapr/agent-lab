@@ -187,7 +187,7 @@
           "@type": "Artifact",
           "@id": "A-2036.1",
           "ref": "A-2036.1",
-          "description": "FARA registration filed by Show Faith by Works LLC; principal listed as Israel's Ministry of Foreign Affairs; U.S. representative: Chad Schnitker; geofencing partnership: Havoc Media; legal representative: Dhillon Law Group",
+          "description": "FARA registration filed by Show Faith by Works LLC; principal listed as Israel's Ministry of Foreign Affairs; U.S. representative: Chad Schnitker; geofencing partnership: Havas Media; legal representative: Dhillon Law Group",
           "related_claims": [
             "C-2845",
             "C-2846",
@@ -1808,7 +1808,7 @@
       "@type": "Organization",
       "@id": "N-11299",
       "ref": "N-11299",
-      "name": "Bridge Partners / Esther Project",
+      "name": "Bridges Partners / Esther Project",
       "type": "organization",
       "description": "Firm named in the Times of Israel article as contracted to create an influencer network called the Esther project for Israel's Foreign Ministry.",
       "related_artifacts": [],
@@ -2027,8 +2027,8 @@
       "@type": "Claim",
       "@id": "C-2846",
       "ref": "C-2846",
-      "label": "Host Says Show Faith by Works LLC Was Contracted by Havoc Media Before Charlie Kirk's Public Funeral",
-      "claim": "The host says Show Faith by Works LLC was contracted by Havoc Media on the 8th, followed by the public funeral of Charlie Kirk.",
+      "label": "Host Says Show Faith by Works LLC Was Contracted by Havas Media Before Charlie Kirk's Public Funeral",
+      "claim": "The host says Show Faith by Works LLC was contracted by Havas Media on the 18th, followed by the public funeral of Charlie Kirk.",
       "anchored_artifacts": [
         "A-2036.1",
         "A-2044.1"
@@ -2412,7 +2412,7 @@
       "@id": "C-11501",
       "ref": "C-11501",
       "label": "Host says Daily Wire shuttered Bentkey Kids and its sports department",
-      "claim": "The host says the Daily Wire first shuttered Bentkey Kids with massive layoffs, then quietly got rid of its sports department, the Cranium Company show, before the recent cuts.",
+      "claim": "The host says the Daily Wire first shuttered Bentkey Kids with massive layoffs, then quietly got rid of its sports department, the Crain & Company show, before the recent cuts.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10900"
@@ -2806,7 +2806,7 @@
       "@id": "C-11519",
       "ref": "C-11519",
       "label": "Host says Shapiro devoted his Friday show to her instead of addressing laid-off employees",
-      "claim": "The host says that on his Friday show Ben Shapiro did not address the laid-off employees, including people who moved their families to Asheville, and instead made his show about her.",
+      "claim": "The host says that on his Friday show Ben Shapiro did not address the laid-off employees, including people who moved their families to Nashville, and instead made his show about her.",
       "anchored_artifacts": [
         "A-2038.1"
       ],
@@ -3217,8 +3217,8 @@
       "@type": "Claim",
       "@id": "C-11538",
       "ref": "C-11538",
-      "label": "Times of Israel says Bridge Partners is creating the Esther project influencer network",
-      "claim": "The Times of Israel article the host reads says a firm called Bridge Partners has a contract to create an influencer network called the Esther project.",
+      "label": "Times of Israel Says Bridges Partners Is Creating the Esther Project Influencer Network",
+      "claim": "The Times of Israel article the host reads says a firm called Bridges Partners has a contract to create an influencer network called the Esther project.",
       "anchored_artifacts": [
         "A-2035.1"
       ],
@@ -3229,8 +3229,8 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:38:09",
-      "investigative_direction": "FARA filing for Bridge Partners.",
-      "transcript_snippet": "a contract with a firm called Bridge Partners to create an influencer network called the Esther project."
+      "investigative_direction": "FARA filing for Bridges Partners.",
+      "transcript_snippet": "a contract with a firm called Bridges Partners to create an influencer network called the Esther project."
     },
     {
       "@type": "Claim",
@@ -3569,7 +3569,7 @@
       "tags": [
         "relevance:tangential"
       ],
-      "claim_timestamp": "00:54:14",
+      "claim_timestamp": "00:53:30",
       "investigative_direction": "Court docket entry of dismissal or settlement.",
       "transcript_snippet": "I know that settlement means like the case is over. And yes, they're going to keep settlement details quiet but it's a win for Justin Baldoni.",
       "mentions_person_refs": [
@@ -3604,7 +3604,7 @@
       "@id": "C-11556",
       "ref": "C-11556",
       "label": "Host asks if Ben Shapiro's uncle Zalman Shapiro took uranium to Israel",
-      "claim": "The host asks whether Ben Shapiro's uncle Zalman Shapiro was the one who took all of the uranium to Israel, and says she is pretty sure he was.",
+      "claim": "The host asks whether Ben Shapiro's uncle Zalman Shapiro was the one who took all of the uranium to Israel, spells the name and says 'I'm pretty sure.'",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10654"

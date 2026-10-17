@@ -3204,6 +3204,42 @@
       [
         85
       ]
+    ],
+    [
+      "\\bAsheville\\b",
+      "Nashville",
+      [
+        98
+      ]
+    ],
+    [
+      "\\bBridge Partners\\b",
+      "Bridges Partners",
+      [
+        98
+      ]
+    ],
+    [
+      "\\bCranium Company\\b",
+      "Crain & Company"
+    ],
+    [
+      "\\bHavoc Media\\b",
+      "Havas Media"
+    ],
+    [
+      "\\bM-News\\b",
+      "MxM News",
+      [
+        99
+      ]
+    ],
+    [
+      "\\bthe Wi-Fi guy\\b",
+      "the Yrefy guy",
+      [
+        93
+      ]
     ]
   ]
 }

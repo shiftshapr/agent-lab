@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-17T20:33:10Z",
+  "generated_at": "2026-10-17T20:42:07Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -12208,7 +12208,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11538",
-      "label": "Times of Israel says Bridge Partners is creating the Esther project influencer network",
+      "label": "Times of Israel Says Bridges Partners Is Creating the Esther Project Influencer Network",
       "node_kind": "claim",
       "episode": 98
     },
@@ -26824,7 +26824,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13437",
-      "label": "Host Says There Is Evidence Charlie Went to Utah Valley Hospital First",
+      "label": "Host Suggests There May Be Evidence Charlie Went to Utah Valley Hospital First",
       "node_kind": "claim",
       "episode": 94
     },
@@ -26887,7 +26887,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13445",
-      "label": "Host Says the State Is Dropping New Text Messages and Making Slight Edits to Old Ones",
+      "label": "Host Says New Text Messages Are Being Dropped and Old Ones Slightly Edited",
       "node_kind": "claim",
       "episode": 94
     },
@@ -47719,7 +47719,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2732",
-      "label": "UGA High School Cancellation Email References \"September 14th\"",
+      "label": "Georgia High School Cancellation Text References \"September 14th\"",
       "node_kind": "claim",
       "episode": 92
     },
@@ -47810,7 +47810,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2745",
-      "label": "Erika Kirk was at the Athens, GA venue from 2:40 PM to 6:39 PM on rally day",
+      "label": "Host Says Erika Kirk Was in Athens, GA From 2:40 PM to 6:39 PM on Rally Day",
       "node_kind": "claim",
       "episode": 93
     },
@@ -48517,7 +48517,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2846",
-      "label": "Host Says Show Faith by Works LLC Was Contracted by Havoc Media Before Charlie Kirk's Public Funeral",
+      "label": "Host Says Show Faith by Works LLC Was Contracted by Havas Media Before Charlie Kirk's Public Funeral",
       "node_kind": "claim",
       "episode": 98
     },
@@ -48678,7 +48678,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2869",
-      "label": "Salem Media acquired 30% stake in M-News app co-owned by Donald Trump Jr.",
+      "label": "Salem Media acquired 30% stake in MxM News app co-owned by Donald Trump Jr.",
       "node_kind": "claim",
       "episode": 99
     },
@@ -56231,7 +56231,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3951",
-      "label": "DIA: bounty posted for footage or information on the Erika Kirk \"go home\" video",
+      "label": "Bounty Posted for Footage or Information on the Erika Kirk \"Go Home\" Video",
       "node_kind": "claim",
       "episode": 101
     },
@@ -115164,7 +115164,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2036.1",
-      "label": "FARA registration filed by Show Faith by Works LLC; principal listed as Israel's Ministry of Foreign Affairs; U.S. representative: Chad Schnitker; geofencing partnership: Havoc Media; legal representa",
+      "label": "FARA registration filed by Show Faith by Works LLC; principal listed as Israel's Ministry of Foreign Affairs; U.S. representative: Chad Schnitker; geofencing partnership: Havas Media; legal representa",
       "node_kind": "artifact",
       "episode": 98
     },

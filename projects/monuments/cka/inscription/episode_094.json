@@ -4732,8 +4732,8 @@
       "@type": "Claim",
       "@id": "C-13437",
       "ref": "C-13437",
-      "label": "Host Says There Is Evidence Charlie Went to Utah Valley Hospital First",
-      "claim": "The host says there is evidence that Charlie Kirk actually went to Utah Valley Hospital first, which she suggests may explain why the Timpanogos footage was taken.",
+      "label": "Host Suggests There May Be Evidence Charlie Went to Utah Valley Hospital First",
+      "claim": "The host suggests that maybe there is evidence that Charlie Kirk actually went to Utah Valley Hospital first, which she suggests may explain why the Timpanogos footage was taken.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10770",
@@ -4893,7 +4893,7 @@
       "@id": "C-13444",
       "ref": "C-13444",
       "label": "Host Says Her Producer Discovered That the Text Messages Are Being Slightly Edited",
-      "claim": "The host says her producer discovered that the authorities are making slight edits to the text messages, with details promised for the next day's episode.",
+      "claim": "The host says her producer discovered that they are making slight edits to the text messages, with details promised for the next day's episode.",
       "anchored_artifacts": [
         "A-3263.1"
       ],
@@ -4915,8 +4915,8 @@
       "@type": "Claim",
       "@id": "C-13445",
       "ref": "C-13445",
-      "label": "Host Says the State Is Dropping New Text Messages and Making Slight Edits to Old Ones",
-      "claim": "The host says the authorities are dropping new text messages while making slight edits to the old ones.",
+      "label": "Host Says New Text Messages Are Being Dropped and Old Ones Slightly Edited",
+      "claim": "The host says they are dropping new text messages while making slight edits to the old ones.",
       "anchored_artifacts": [
         "A-3263.1"
       ],
