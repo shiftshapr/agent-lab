@@ -395,7 +395,7 @@ Rick Cutler (transcribed Rob Cutler); security team member in the vehicle accoun
 
 **N-684** Jon Bray
 
-Jon Bray (transcribed John Bray); cited in the anesthesiologist's email as supporting the exploding mic theory.
+Jon Bray (transcribed Jon Bray); cited in the anesthesiologist's email as supporting the exploding mic theory.
 
 *Related: C-11680*
 
@@ -876,7 +876,7 @@ Claim Timestamp: 00:40:24
 Claim: Per the witness recording played in the episode, the witness observes a person running and getting into position on the Losee Center rooftop but does not state seeing a firearm.
 
 Anchored Artifacts: A-2222.1
-Mentions: N-1
+Mentions: 
 
 Related Nodes: N-10769
 
@@ -902,7 +902,7 @@ Claim Timestamp: 00:41:24
 Claim: Host concurs with the witness recording's omission of any gun mention and asserts that the idea of a gun on the Losee Center rooftop is "narrative, not a fact."
 
 Anchored Artifacts: A-2222.1
-Mentions: N-1
+Mentions: 
 
 Related Nodes: N-10769
 
@@ -915,7 +915,7 @@ Claim Timestamp: 00:23:00
 Claim: Per host's verbal source (not displayed in this episode), Timpanogos Hospital staff directed ER patients to a different wing at some point in the 10:00 a.m. hour on September 10, 2025.
 
 Anchored Artifacts: None displayed (verbal source only)
-Mentions: N-1
+Mentions: 
 
 Related Nodes: N-10765, N-10770
 
@@ -930,7 +930,7 @@ Claim Timestamp: 00:23:00
 Claim: Per host's verbal source, ER patients were informed at approximately 11:30 a.m. on September 10, 2025 that they would be transferred via shuttle to Intermountain/Utah Valley Hospital, and that is what happened.
 
 Anchored Artifacts: None displayed (verbal source only)
-Mentions: N-1
+Mentions: 
 
 Related Nodes: N-10765, N-10770
 
@@ -1393,7 +1393,7 @@ Transcript Snippet: Now, he's going to be the chief medical examiner in New York
 Anchored Artifacts: A-3148.1
 Mentions: N-898, N-899
 Related Nodes: N-11305
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Check New York City announcements of the chief medical examiner appointment and NYU faculty listings.
 
 ---
@@ -1710,9 +1710,9 @@ Investigative Direction: Obtain the prosecution filing and identify which autops
 
 Claim Timestamp: 00:31:16
 
-Claim: The anesthesiologist's email, read by the host, says the writer agrees with the host and John Bray that the exploding mic theory best explains what could be gathered from the limited footage.
+Claim: The anesthesiologist's email, read by the host, says the writer agrees with the host and Jon Bray that the exploding mic theory best explains what could be gathered from the limited footage.
 
-Transcript Snippet: I agree with you and John Bray that the exploding mic theory is the best explanation of what we could grasp from the limited footage available.
+Transcript Snippet: I agree with you and Jon Bray that the exploding mic theory is the best explanation of what we could grasp from the limited footage available.
 
 Anchored Artifacts: A-2220.1
 Mentions: N-684, N-1

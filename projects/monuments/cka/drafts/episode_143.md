@@ -806,7 +806,7 @@ The host's assertion that January 6th was an event allegedly coordinated by fede
 
 ## V. Claim Register
 
-**C-3302** Terryl/Taral Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting
+**C-3302** Farnsworth Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting
 
 Claim Timestamp: 00:08:42
 
@@ -819,7 +819,7 @@ Investigative Direction: Obtain original unedited video and corroborate timestam
 
 ---
 
-**C-3303** Terryl/Taral Subsequently Inserted That SD Card Into His Laptop
+**C-3303** Farnsworth Subsequently Inserted That SD Card Into His Laptop
 
 Claim Timestamp: 00:09:43
 
@@ -832,7 +832,7 @@ Investigative Direction: Recover laptop forensic artifacts (connection logs, fil
 
 ---
 
-**C-3304** Terryl/Taral Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head
+**C-3304** Farnsworth Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head
 
 Claim Timestamp: 00:14:47
 
@@ -872,7 +872,7 @@ Investigative Direction: Cross-reference Trump's account against official law-en
 
 **C-3307** Mike Mitchell Is Identified in Trump's Account as Both a Person Involved in Law Enforcement and a Person of Faith / Minister
 
-Claim Timestamp: 00:33:22
+Claim Timestamp: 00:32:51
 
 Claim: Trump's on-air description characterizes the recognizing individual as a person involved in law enforcement and "a person of faith, a minister," which the host maps to Mike Mitchell's known roles.
 

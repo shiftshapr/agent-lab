@@ -780,7 +780,7 @@ Investigative Direction: Obtain the body cam file metadata and manufacturer batt
 
 Claim Timestamp: 00:10:33
 
-Claim: Officer Bagley testified at the preliminary hearing that he did not know the identity, agency, or origin of the plainclothes individual wearing a badge and carrying a handgun who accompanied him up the Losi building stairs.
+Claim: In a preliminary-hearing clip the host plays, Officer Bagley testifies that he did not know exactly who the plainclothes individual wearing a badge and carrying a handgun who accompanied him up the Losi building stairs was, nor what agency he was from or where he was from.
 
 Anchored Artifacts: A-2224.1
 Mentions: N-507
@@ -945,7 +945,7 @@ Investigative Direction: Locate the original source videos (date, outlet, full c
 
 Claim Timestamp: 00:39:31
 
-Claim: An archived Charlie Kirk clip lists prior US military interventions and characterizes US confrontation with Iran as "Israel's war."
+Claim: Archived Charlie Kirk clips the host plays list prior US military interventions ("This is more of Israel pushing for Iran") and characterize US confrontation with Iran as "Israel's war."
 
 Anchored Artifacts: A-2232.2
 Mentions: N-1
@@ -1101,7 +1101,7 @@ Investigative Direction: Ask hospital staff and the group to confirm who changed
 
 Claim Timestamp: 00:05:31
 
-Claim: The host says she was told the feds were the ones who allegedly took those clothes, leaving Cutler down to his boxer briefs, which she calls 'a bit much'.
+Claim: The host says she was told the feds were the ones who allegedly took those clothes, down to "his boxer briefs" (it is unclear whether she means Cutler or Frank Turek, both just mentioned), which she calls 'a bit much'.
 
 Transcript Snippet: we uh were also told that the feds were the ones who allegedly took those clothes thereafter down to his boxer briefs allegedly.
 

@@ -528,7 +528,7 @@
       "ref": "N-10755",
       "name": "Weapon Discharge Visual Indicators",
       "type": "investigation_target",
-      "description": "Question of whether the rooftop footage shows muzzle flash and/or recoil consistent with the alleged weapon (German 98 Mouser family heirloom).",
+      "description": "Question of whether the rooftop footage shows muzzle flash and/or recoil consistent with the alleged weapon (German 98 Mauser family heirloom).",
       "related_artifacts": [
         "A-2198.1",
         "A-2198.4"
@@ -1599,7 +1599,7 @@
       "@id": "C-3152",
       "ref": "C-3152",
       "label": "Host Says She Saw No Recoil in Rooftop Footage",
-      "claim": "The host says she saw no visible recoil or kickback in the displayed footage, though the alleged weapon (a German 98 Mouser family heirloom) would be expected to produce a strong one.",
+      "claim": "The host says she saw no visible recoil or kickback in the displayed footage, though the alleged weapon (a German 98 Mauser family heirloom) would be expected to produce a strong one.",
       "anchored_artifacts": [
         "A-2198.1",
         "A-2198.4"
@@ -1616,7 +1616,7 @@
       "@id": "C-3153",
       "ref": "C-3153",
       "label": "Host Says a Back-and-Forth Flash Is Visible During the Rooftop Crawl",
-      "claim": "The host says a flash or back-and-forth light phenomenon is visible in the rooftop footage during the individual's crawl.",
+      "claim": "The host says a flash is visible in the rooftop footage during the individual's crawl, which she runs back and forth, and asks whether it is something being pulled out, a signal mirror, a flag, something in the background or a car.",
       "anchored_artifacts": [
         "A-2198.1",
         "A-2198.2"
@@ -1644,6 +1644,7 @@
       "claim_timestamp": "00:29:26",
       "investigative_direction": "Verify current Wikipedia article state at archive.org snapshots and cross-reference with original Epstein document releases.",
       "mentions_person_refs": [
+        "N-785",
         "N-9"
       ]
     },
@@ -1652,7 +1653,7 @@
       "@id": "C-3155",
       "ref": "C-3155",
       "label": "Wikipedia states Phelan flew on Epstein's plane on February 27, 2006 (JFK to Luton)",
-      "claim": "The Wikipedia article states that Phelan flew on Jeffrey Epstein's plane on February 27, 2006, from JFK International Airport to London Luton Airport, per passenger manifests released by the U.S. House Committee in October 2025.",
+      "claim": "The Wikipedia article the host reads states that, per passenger manifests released as part of the Epstein files, Phelan flew on Jeffrey Epstein's plane on February 27, 2006, from JFK International Airport to London Luton Airport.",
       "anchored_artifacts": [
         "A-2200.2"
       ],
@@ -1663,6 +1664,7 @@
       "claim_timestamp": "00:30:00–00:30:41",
       "investigative_direction": "Verify against the released October 2025 House Committee manifest documents.",
       "mentions_person_refs": [
+        "N-785",
         "N-9"
       ]
     },
@@ -1711,7 +1713,7 @@
       "@id": "C-3158",
       "ref": "C-3158",
       "label": "Iranian Lego propaganda video contains lyrics referencing Epstein",
-      "claim": "In an Iranian Lego video the host plays, repeated lyrics/text reference \"Epstein\" and \"Epstein, Epstein, Epstein.\"",
+      "claim": "In an Iranian Lego video the host plays, the lyrics reference Epstein (\"Stop talking about Epstein. Now listen to the crowd\"), followed by a crowd chant of \"Epstein\"; the host afterwards repeats \"Epstein, Epstein, Epstein.\"",
       "anchored_artifacts": [
         "A-2202.1"
       ],
@@ -2128,7 +2130,7 @@
       ],
       "claim_timestamp": "00:12:10",
       "investigative_direction": "Check the charging documents and ATF records for the make, model and provenance of the recovered rifle.",
-      "transcript_snippet": "this is supposed to be a German 98 Mouser family heirloom gun uh used during World War I and World War II.",
+      "transcript_snippet": "this is supposed to be a German 98 Mauser family heirloom gun uh used during World War I and World War II.",
       "mentions_person_refs": [
         "N-3"
       ]

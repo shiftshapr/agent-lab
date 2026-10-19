@@ -1,0 +1,498 @@
+[
+ {
+  "claim": "C-13122",
+  "episode": 131,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she showed the previous day that the Canaanites were literal Baal worshipers who modeled themselves after Nimrod and are permanently at war with the creator.",
+   "label": "Host Says Canaanites Were Baal Worshipers Modeling Themselves After Nimrod",
+   "names": [
+    {
+     "wrong": "ball",
+     "right": "Baal",
+     "source": "https://en.wikipedia.org/wiki/Baal"
+    }
+   ]
+  },
+  "note": "Baal (Canaanite deity) is clearly meant; existing ball-worship rule is scoped to ep 85 only."
+ },
+ {
+  "claim": "C-13154",
+  "episode": 131,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Gary Javitch is in his mid-70s, has lived in Omaha, Nebraska for the last few decades and got one of his degrees there in the 1990s."
+  },
+  "note": "Drop outdated gloss; names entry dropped because Gary Jabitch->Javitch rule already exists."
+ },
+ {
+  "claim": "C-3138",
+  "episode": 132,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to Charlie's private messages; add N-1."
+ },
+ {
+  "claim": "C-3145",
+  "episode": 132,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already reads Marina Minas; Medvin->Minas rule exists. Nothing to change."
+ },
+ {
+  "claim": "C-3146",
+  "episode": 132,
+  "decision": "accept",
+  "fix": {
+   "label": "Devonte West Instagram Account Mocked Contemporary Christianese",
+   "claim": "Devonte West, via an Instagram video, posted content mocking contemporary Christian pastoral rhetoric and its repetition patterns, presented in the episode as a parallel commentary on Erika Kirk's tour speech style.",
+   "names": [
+    {
+     "wrong": "Devante West",
+     "right": "Devonte West",
+     "source": "https://voyagedallas.com/interview/meet-devonte-west-of-dallas ; https://www.youtube.com/@_devontewest"
+    }
+   ]
+  },
+  "note": "Host says 'Devonte West' at 31:50; comedian is Devonte West (@_devontewest), checked."
+ },
+ {
+  "claim": "C-9045",
+  "episode": 132,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host, speculating about what \"Get that off of him\" meant, says Charlie had on him a necklace which had broken, a white Freedom t-shirt and a Rode microphone.",
+   "names": [
+    {
+     "wrong": "road microphone",
+     "right": "Rode microphone",
+     "source": "https://rode.com/en/microphones/wireless"
+    }
+   ]
+  },
+  "note": "'road microphone' is the RODE brand mic; Road Mic rule is ep 121 only and does not match 'microphone'."
+ },
+ {
+  "claim": "C-9058",
+  "episode": 132,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Instagram account holder Devonte West mocks the new culture of sweet-nothing Christian girl-boss podcasting broadly, and that his clip is not about Erika Kirk.",
+   "label": "Host Says the Devonte West Account Mocks Christian Speak Broadly and Is Not About Erika",
+   "names": [
+    {
+     "wrong": "Devante West",
+     "right": "Devonte West",
+     "source": "https://voyagedallas.com/interview/meet-devonte-west-of-dallas"
+    }
+   ]
+  },
+  "note": "Devonte West spelling confirmed (voyagedallas, Instagram @_devontewest; host says Devonte at 31:50)."
+ },
+ {
+  "claim": "C-9059",
+  "episode": 132,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already reads Marina Minas; nothing to change."
+ },
+ {
+  "claim": "C-9067",
+  "episode": 132,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already reads Marina Minas; nothing to change."
+ },
+ {
+  "claim": "C-3152",
+  "episode": 133,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she saw no visible recoil or kickback in the displayed footage, though the alleged weapon (a German 98 Mauser family heirloom) would be expected to produce a strong one.",
+   "names": [
+    {
+     "wrong": "Mouser",
+     "right": "Mauser",
+     "source": "https://en.wikipedia.org/wiki/Mauser_Model_1898"
+    }
+   ]
+  },
+  "note": "Mauser Model 1898; 'Mouser' is a transcription garble."
+ },
+ {
+  "claim": "C-3154",
+  "episode": 133,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-785",
+    "N-9"
+   ]
+  },
+  "note": "Claim names John C. Phelan; N-785 introduced in ep 133."
+ },
+ {
+  "claim": "C-3155",
+  "episode": 133,
+  "decision": "accept",
+  "fix": {
+   "claim": "The Wikipedia article the host reads states that, per passenger manifests released as part of the Epstein files, Phelan flew on Jeffrey Epstein's plane on February 27, 2006, from JFK International Airport to London Luton Airport.",
+   "mentions": [
+    "N-785",
+    "N-9"
+   ]
+  },
+  "note": "Host reads 'manifests released as part of the Epstein files'; Oct 2025 House release is about the second-flight manifest. Phelan added."
+ },
+ {
+  "claim": "C-7375",
+  "episode": 133,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already reads Foster Curtiss; Foster Curtis rule exists."
+ },
+ {
+  "claim": "C-7377",
+  "episode": 133,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already reads Foster Curtiss; Foster Curtis rule exists."
+ },
+ {
+  "claim": "C-7379",
+  "episode": 133,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current draft already reads Foster Curtiss; Foster Curtis rule exists."
+ },
+ {
+  "claim": "C-7457",
+  "episode": 134,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:36:14"
+  },
+  "note": "Blunt-force line ~36:20 is >20s before 37:12; at 36:14 the mic line (~37:22) is within 75s."
+ },
+ {
+  "claim": "C-3185",
+  "episode": 135,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim does not name or refer to Charlie."
+ },
+ {
+  "claim": "C-3187",
+  "episode": 135,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim does not name or refer to Charlie."
+ },
+ {
+  "claim": "C-3188",
+  "episode": 135,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim concerns ER patients; Charlie not named or referred to."
+ },
+ {
+  "claim": "C-3189",
+  "episode": 135,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim concerns ER patients; Charlie not named or referred to."
+ },
+ {
+  "claim": "C-11680",
+  "episode": 135,
+  "decision": "accept",
+  "fix": {
+   "claim": "The anesthesiologist's email, read by the host, says the writer agrees with the host and Jon Bray that the exploding mic theory best explains what could be gathered from the limited footage.",
+   "names": [
+    {
+     "wrong": "John Bray",
+     "right": "Jon Bray",
+     "source": "projects/monuments/cka/config/transcript_name_corrections.json (\\bJohn Bray\\b -> Jon Bray)"
+    }
+   ]
+  },
+  "note": "N-684 is Jon Bray; John Bray rule scoped to eps 78/120/123, not 135."
+ },
+ {
+  "claim": "C-7481",
+  "episode": 137,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, from the beginning, the claim that Tyler Robinson's parents turned him in was never shown, and that instead the public heard a story about Mike Mitchell, whom she describes as an undercover officer his entire life, pressuring Robinson to come in peacefully or officers would knock in the doors.",
+   "names": [
+    {
+     "wrong": "Mitch Mitchell",
+     "right": "Mike Mitchell",
+     "source": "https://www.threads.com/@realtalkwithjasonking/post/DPM_kTwAPLI/if-anyone-is-wondering-who-the-mysterious-guy-is-that-the-media-and-everyone-has"
+    }
+   ]
+  },
+  "note": "'Mitch Mitchell' is the undercover-officer figure the host consistently names Mike Mitchell (N-125, already in Mentions)."
+ },
+ {
+  "claim": "C-7487",
+  "episode": 137,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Jon Bray showed that the glass for the road microphone is very sticky, and that woodworkers use black nitrile gloves to handle superglue because adhesive wipes off easily.",
+   "names": [
+    {
+     "wrong": "John Bray",
+     "right": "Jon Bray",
+     "source": "config/transcript_name_corrections.json; node N-684"
+    }
+   ]
+  },
+  "note": "N-684 is Jon Bray; John Bray rule not scoped to ep 137."
+ },
+ {
+  "claim": "C-7517",
+  "episode": 137,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-3"
+   ]
+  },
+  "note": "Kolvet is not named or referred to in the claim."
+ },
+ {
+  "claim": "C-9090",
+  "episode": 138,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the man who started the 'USA, USA' chant goes by David Sprague, used to be James Rawlinson, and confessed to her that his father was mixed up in sex abuse crimes against children.",
+   "label": "Host Says David Sprague Changed His Name From James Rawlinson and Told Her His Father Was Tied to Child Crimes",
+   "names": [
+    {
+     "wrong": "James Rollinsson",
+     "right": "James Rawlinson",
+     "source": "https://www.youtube.com/watch?v=bEKQa4BXO9o"
+    }
+   ]
+  },
+  "note": "Rawlinson confirmed ('James Rawlinson aka David Sprague'); Sprag->Sprague entry dropped, rule exists and claim already says Sprague."
+ },
+ {
+  "claim": "C-9122",
+  "episode": 138,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host lists accounts she says appear in the 92-member chat: Milk Bar TV, No Soup for Knowles, Paramount Not So Tactical, Bria Dale, Fake Catholic, Insurrection Barbie, and says she blocked them.",
+   "names": [
+    {
+     "wrong": "No Soup for Nles",
+     "right": "No Soup for Knowles (@nosoup4knowles)",
+     "source": "https://x.com/RealCandaceO/status/2087179420146549137"
+    }
+   ]
+  },
+  "note": "Paramount Not So Tactical is one nickname (ep139); not a names entry. Nles = @nosoup4knowles per host's X post."
+ },
+ {
+  "claim": "C-13240",
+  "episode": 139,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Lance was the one submerged in furry culture and had a persona named Loona (rendered \"Luna\" in the transcript), an avatar for his personality, which an email she reads describes as a character from the animated series Helluva Boss.",
+   "names": [
+    {
+     "wrong": "Luna / Hell of a Boss",
+     "right": "Loona / Helluva Boss",
+     "source": "https://en.wikipedia.org/wiki/Helluva_Boss"
+    }
+   ]
+  },
+  "note": "Helluva Boss attribution comes from an email the host reads; say so."
+ },
+ {
+  "claim": "C-13246",
+  "episode": 139,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host asks whether anyone, including the feds, has tested Lance Twiggs's sleeping alibi and says it could easily be checked through cameras, a GRAMA records request for cameras and his phone activity.",
+   "names": [
+    {
+     "wrong": "gamma request",
+     "right": "GRAMA request",
+     "source": "https://le.utah.gov/xcode/Title63G/Chapter2/63G-2-S201.html"
+    }
+   ]
+  },
+  "note": "'gamma request' = Utah GRAMA records request."
+ },
+ {
+  "claim": "C-3266",
+  "episode": 140,
+  "decision": "accept",
+  "fix": {
+   "claim": "According to Agent Hull's testimony as played in the episode, the suspect vehicle \"made contact with an officer who was doing security detail,\" identified as Officer Goforth.",
+   "names": [
+    {
+     "wrong": "Agent Hoole",
+     "right": "Agent David Hull",
+     "source": "https://www.foxnews.com/us/surveillance-video-timeline-tracks-accused-charlie-kirk-assassin-uvu-campus-fatal-rooftop-shot"
+    }
+   ]
+  },
+  "note": "Utah SBI Agent David Hull (Fox News); Hull's played words are 'an officer who was doing security detail'."
+ },
+ {
+  "claim": "C-3269",
+  "episode": 140,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the account \"No Soup for Knowles,\" which she had assumed belonged to a teenager, has been revealed to belong to Britta Weidner, whom she describes as almost 45 years old, and she references a DUI photo from last year.",
+   "label": "Host Says Britta Weidner (No Soup for Knowles Account) Is Approximately 45 Years Old",
+   "names": [
+    {
+     "wrong": "No Soup For Noels / No Soup For You",
+     "right": "No Soup for Knowles (@nosoup4knowles)",
+     "source": "https://x.com/RealCandaceO/status/2086210350601404476"
+    }
+   ]
+  },
+  "note": "Host's X posts name 'Britta Weidner @nosoup4knowles'; checked."
+ },
+ {
+  "claim": "C-3270",
+  "episode": 140,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a tweet-counter account found that \"No Soup for Knowles\" (Britta Weidner) sent 4,040 tweets about her in the 11 months since Charlie Kirk's assassination.",
+   "names": [
+    {
+     "wrong": "No Soup For You",
+     "right": "No Soup for Knowles (@nosoup4knowles)",
+     "source": "https://x.com/RealCandaceO/status/2086210350601404476"
+    },
+    {
+     "wrong": "Britta Whitener",
+     "right": "Britta Weidner",
+     "source": "https://x.com/RealCandaceO/status/2086210350601404476"
+    }
+   ]
+  },
+  "note": "@nosoup4knowles / Britta Weidner confirmed via host's X posts."
+ },
+ {
+  "claim": "C-10425",
+  "episode": 140,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the X handle No Soup for Knowles was essentially a Daily Wire super fan account that most people assumed belonged to a teenager but that she says belongs to a 45-year-old.",
+   "label": "Host Says No Soup for Knowles Was a Daily Wire Super Fan Account",
+   "names": [
+    {
+     "wrong": "No Soup for Noels",
+     "right": "No Soup for Knowles (@nosoup4knowles)",
+     "source": "https://x.com/RealCandaceO/status/2086210350601404476"
+    }
+   ]
+  },
+  "note": "@nosoup4knowles confirmed via host's X posts."
+ },
+ {
+  "claim": "C-10464",
+  "episode": 140,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that a couple of weeks earlier she showed that Laura Loomer sent about 1,800 tweets about her, a figure she contrasts with Weidner's count.",
+   "names": [
+    {
+     "wrong": "Widener",
+     "right": "Weidner",
+     "source": "https://x.com/RealCandaceO/status/2086210350601404476"
+    }
+   ]
+  },
+  "note": "Britta Weidner confirmed; existing rule only matches 'Britta Widener', not 'Widener's'."
+ },
+ {
+  "claim": "C-10488",
+  "episode": 140,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says McCoy was on the phone with Danny Philip for 10 minutes even though they should have been together, and that they now think the two went to the hospital in separate cars.",
+   "label": "Host Says McCoy Was on the Phone With Danny Philip for 10 Minutes and They Rode in Separate Cars",
+   "names": [
+    {
+     "wrong": "Danny Phillip",
+     "right": "Danny Philip",
+     "source": "https://www.megynkelly.com/2025/09/18/charlie-kirk-friends-staffers-share-behind-the-scenes-stories-with-megyn-kelly/"
+    }
+   ]
+  },
+  "note": "Danny Philip per megynkelly.com panel listing and node N-368."
+ },
+ {
+  "claim": "C-3279",
+  "episode": 141,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays from the debate, when challenged to name any of the seven charges Tyler Robinson faces, Andrew Wilson first said he thought Robinson had been charged with murder, which Owens said was incorrect, and then began listing \"aggravated murder\" as the first charge.",
+   "label": "Wilson Named Murder, Then Aggravated Murder, When Asked for Robinson's Charges, Per Clip Host Plays"
+  },
+  "note": "Who says 'literally not murder' rests only on >> markers; dropped that clause."
+ },
+ {
+  "claim": "C-3282",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she guesses Steven Crowder was on the phone with Andrew Wilson right after the debate; in a clip she plays, Crowder asks Wilson whether they gave him makeup, and Wilson replies that he would have refused.",
+   "label": "Host Says Crowder Was Apparently on the Phone With Wilson After the Debate"
+  },
+  "note": "Host hedges ('I guess'); makeup exchange is in the played clip."
+ },
+ {
+  "claim": "C-6020",
+  "episode": 141,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-18"
+   ]
+  },
+  "note": "PBD not named or referred to in the claim."
+ },
+ {
+  "claim": "C-9181",
+  "episode": 142,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she is told that no police officer instructed Farnsworth to take that footage in particular."
+  },
+  "note": "No Bowyer account in the transcript; added sentence removed."
+ },
+ {
+  "claim": "C-3307",
+  "episode": 143,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:32:51"
+  },
+  "note": "Trump's 'person of faith, a minister' ~32:57, >20s before 33:22; 32:51 is right."
+ }
+]

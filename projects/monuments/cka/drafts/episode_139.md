@@ -1261,7 +1261,7 @@ Investigative Direction: Verify release date, distribution, and producer credits
 
 Claim Timestamp: 00:49:52–00:51:05
 
-Claim: A video posted by Rabbi Shmuley shows a couple in Iceland confronting him with statements about Israel after initially approaching as fans.
+Claim: A video posted by Rabbi Shmuley shows a couple in Iceland confronting him with statements about Israel; in it he says they had first approached him as fans.
 
 Anchored Artifacts: A-2264.1
 Mentions: N-930
@@ -2071,7 +2071,7 @@ Investigative Direction: Seek on-record confirmation; this is personal and medic
 
 Claim Timestamp: 00:22:01
 
-Claim: The host says Lance was the one submerged in furry culture and had a persona she calls Luna, an avatar for his personality, which she says is actually a character spelled in a way the transcript renders "L O N A".
+Claim: The host says Lance was the one submerged in furry culture and had a persona named Loona (rendered "Luna" in the transcript), an avatar for his personality, which an email she reads describes as a character from the animated series Helluva Boss.
 
 Transcript Snippet: Lance is the one that was submerged in the furry culture. Remember, he had a persona named Luna
 
@@ -2167,7 +2167,7 @@ Investigative Direction: Obtain Lance's statements to investigators and any phon
 
 Claim Timestamp: 00:26:06
 
-Claim: The host asks whether anyone, including the feds, has tested Lance Twiggs's sleeping alibi and says it could easily be checked through cameras, camera requests and his phone activity.
+Claim: The host asks whether anyone, including the feds, has tested Lance Twiggs's sleeping alibi and says it could easily be checked through cameras, a GRAMA records request for cameras and his phone activity.
 
 Transcript Snippet: Has anyone prodded that narrative? The feds prod that narrative?
 
@@ -2548,11 +2548,11 @@ Investigative Direction: None; opinion comment read on air.
 
 ---
 
-**C-13270** Viewer Comment Says Erika's Inner Circle Includes a Man Explaining Toddler Cappy Heading Logistics
+**C-13270** Viewer Comment Says Erika's Inner Circle Includes a Man Explaining Toddler Cat-Beheading Logistics
 
 Claim Timestamp: 00:55:37
 
-Claim: The host reads a comment by Chewing the Void saying it is weirder that Erika's inner circle includes a man who has to explain toddler cat-heading logistics on national television than that her pastor was asked a cat-beheading question, and the host agrees there is weirdness around Erika.
+Claim: The host reads a comment by Chewing the Void saying it is weirder that Erika's inner circle includes a man who has to explain toddler cat-beheading logistics on national television than that her pastor was asked a cat-beheading question, and the host agrees there is weirdness around Erika.
 
 Transcript Snippet: Erika's inner circle includes a man who has to explain toddler Cappy heading logistics on national television.
 
@@ -2567,7 +2567,7 @@ Investigative Direction: Identify the television interview and the speaker the c
 
 Claim Timestamp: 00:55:37
 
-Claim: The host says Lindsay Clancy is obviously not guilty and that a fleet of doctors who should be imprisoned for what they put her on.
+Claim: The host says Lindsay Clancy is obviously not guilty and that there is a fleet of doctors who should be imprisoned for what they put her on.
 
 Transcript Snippet: Lindsay Clancy is obviously not guilty. There are a fleet of doctors who should be imprisoned for what they put her on.
 

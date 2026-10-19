@@ -23,7 +23,7 @@
 
 The host opens with a resurfaced Charlie Kirk video, credited to an X user, in which he says the Butler, Pennsylvania assassination-attempt narrative "doesn't make any sense." In it he points to the shooter being identified by the Secret Service three hours beforehand and to no one being fired (A-2658.1). She then says people close to Butler contacted her about Mark Liti ("Leiti"/"Ley" in the transcript), a Surefire Wireline supervisor who died on August 23, 2022 in what local news called a burn-barrel accident (A-2659.1). According to the host, Liti's work involved the explosive PETN, and a week before his death he allegedly confessed to his high school friend that he had taken explosives from work, which the ATF was said to be investigating. She says that friend was Corey Comperatore, who was killed at the Butler rally after an unknown woman escorted his family to the front. She also notes that Liti was Facebook friends with members of the Crooks family and that the Comperatore family is not satisfied with the investigation.
 
-The host connects PETN to the September 2024 pager attack in Lebanon and Syria. She plays survivor stories (A-2660.1) and a 60 Minutes clip of Mossad agents describing shell companies and a "Truman Show" (A-2660.2), and shows a Reuters graphic estimating six grams of PETN per pager (A-2660.3). She then plays a May 2025 YouTube test in which 20 grams of PETN is said to match a .30-06 gunshot (A-2661.1). She raises this against the theory that Charlie Kirk's road microphone was rigged with PETN, and questions Benjamin Netanyahu's golden-pager gift to Donald Trump.
+The host connects PETN to the September 2024 pager attack in Lebanon and Syria. She plays survivor stories (A-2660.1) and a 60 Minutes clip of Mossad agents describing shell companies and a "Truman Show" (A-2660.2), and shows a Reuters graphic estimating six grams of PETN per pager (A-2660.3). She then plays a May 2025 YouTube test in which 20 grams of PETN is said to match a .30-06 gunshot (A-2661.1). She raises this against the theory that Charlie Kirk's Rode microphone was rigged with PETN, and questions Benjamin Netanyahu's golden-pager gift to Donald Trump.
 
 In the FOIA segment, the host reads her request for Kash Patel's schedule and travel for September 7–10, 2025 (A-2662.2). She says the request was prompted partly by an FBI plane that flew Richmond to Salt Lake City and back on September 8 (A-2662.1). The FBI replied that "unusual circumstances" apply (A-2662.3), and Blake Neff mocked the request on X (A-2663.1). She also plays Joe Rogan asking on Cameron Hanes's podcast who killed Charlie Kirk (A-2664.1).
 
@@ -222,7 +222,7 @@ Confidence Level: Medium
 
 **N-1** Charlie Kirk
 
-His resurfaced Butler video is played; the host discusses his Salt Lake City trip on September 10, the theory about his road microphone and his reported dinner with Tucker Carlson.
+His resurfaced Butler video is played; the host discusses his Salt Lake City trip on September 10, the theory about his Rode microphone and his reported dinner with Tucker Carlson.
 
 *Related: C-4542, C-4543, C-4544, C-4545, C-4546, C-4565, C-4572, C-4579, C-4583, C-4585, C-4587, C-4589, A-2658.1, A-2664.1*
 
@@ -480,7 +480,7 @@ The host's questions about who escorted the Comperatore family to the front.
 
 **N-10768** Shaped Charge / Exploding Microphone Hypothesis
 
-The host links the PETN test video to the theory that Charlie Kirk's road microphone was rigged with PETN.
+The host links the PETN test video to the theory that Charlie Kirk's Rode microphone was rigged with PETN.
 
 *Related: C-4565, A-2661.1*
 
@@ -527,7 +527,7 @@ Kittanning, Pennsylvania oil and gas services company specializing in pump-down 
 **N-10974** PETN Explosive
 
 Node Type: Topic
-The explosive PETN, which the host says is used in well perforating, was used in the 2024 pager attack (about six grams per pager per Reuters), and in a 20-gram test mimicked a .30-06 gunshot. She connects it to the theory about Charlie Kirk's road microphone.
+The explosive PETN, which the host says is used in well perforating, was used in the 2024 pager attack (about six grams per pager per Reuters), and in a 20-gram test mimicked a .30-06 gunshot. She connects it to the theory about Charlie Kirk's Rode microphone.
 
 *Related: C-4550, C-4551, C-4559, C-4562, C-4563, C-4565, A-2660.3, A-2661.1*
 
@@ -962,7 +962,7 @@ Investigative Direction: Confirm the upload date on YouTube or through an archiv
 
 Claim Timestamp: 00:20:57
 
-Claim: The host says there is a persistent theory that Charlie Kirk's road microphone was rigged with PETN, which she had not discussed until people close to the Butler situation raised explosives with her.
+Claim: The host says there is a persistent theory that Charlie Kirk's Rode microphone was rigged with PETN, which she had not discussed until people close to the Butler situation raised explosives with her.
 
 Transcript Snippet: especially given the persistent conspiracy theory that Charlie's road mic was rigged with PETN explosive.
 

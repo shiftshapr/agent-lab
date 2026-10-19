@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-17T20:57:13Z",
+  "generated_at": "2026-10-19T17:07:04Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -4144,7 +4144,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10425",
-      "label": "Host Says No Soup for Noels Was a Daily Wire Super Fan Account",
+      "label": "Host Says No Soup for Knowles Was a Daily Wire Super Fan Account",
       "node_kind": "claim",
       "episode": 140
     },
@@ -4585,7 +4585,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10488",
-      "label": "Host Says McCoy Was on the Phone With Danny Phillip for 10 Minutes and They Rode in Separate Cars",
+      "label": "Host Says McCoy Was on the Phone With Danny Philip for 10 Minutes and They Rode in Separate Cars",
       "node_kind": "claim",
       "episode": 140
     },
@@ -24409,7 +24409,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13122",
-      "label": "Host Says Canaanites Were Ball Worshipers Modeling Themselves After Nimrod",
+      "label": "Host Says Canaanites Were Baal Worshipers Modeling Themselves After Nimrod",
       "node_kind": "claim",
       "episode": 131
     },
@@ -25550,7 +25550,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13270",
-      "label": "Viewer Comment Says Erika's Inner Circle Includes a Man Explaining Toddler Cappy Heading Logistics",
+      "label": "Viewer Comment Says Erika's Inner Circle Includes a Man Explaining Toddler Cat-Beheading Logistics",
       "node_kind": "claim",
       "episode": 139
     },
@@ -50540,7 +50540,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3136",
-      "label": "YouTube Comment Posts Parallels Between Twitch/Allison and Charlie/Erica Cases",
+      "label": "YouTube Comment Posts Parallels Between Twitch/Allison and Charlie/Erika Cases",
       "node_kind": "claim",
       "episode": 131
     },
@@ -50610,7 +50610,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3146",
-      "label": "Devante West Instagram account mocked contemporary Christianese",
+      "label": "Devonte West Instagram Account Mocked Contemporary Christianese",
       "node_kind": "claim",
       "episode": 132
     },
@@ -51072,7 +51072,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3212",
-      "label": "Woodworker email states black nitrile gloves are standard resistance to CA glue and adhesive",
+      "label": "Woodworker Email Says Black Nitrile Gloves Are Most Resistant to CA Glue and Adhesive",
       "node_kind": "claim",
       "episode": 137
     },
@@ -51205,7 +51205,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3231",
-      "label": "Mississippi-Area Law Enforcement Has No Records Matching Victor Marx's Account of a Homicide at Age 7",
+      "label": "Piers Morgan Says Mississippi-Area Law Enforcement Has No Records Matching Victor Marx's Account",
       "node_kind": "claim",
       "episode": 138
     },
@@ -51226,7 +51226,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3234",
-      "label": "The \"Protecting Mrs. Kirk\" Group Chat Was Organized by an Individual Previously Engaged in Israel-Tied Intelligence Gathering",
+      "label": "Host Says the \"Protecting Mrs. Kirk\" Group Chat Was Organized by an Agent of Israel",
       "node_kind": "claim",
       "episode": 138
     },
@@ -51471,7 +51471,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3269",
-      "label": "Host Says Britta Weidner (No Soup For You Account) Is Approximately 45 Years Old",
+      "label": "Host Says Britta Weidner (No Soup for Knowles Account) Is Approximately 45 Years Old",
       "node_kind": "claim",
       "episode": 140
     },
@@ -51541,7 +51541,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3279",
-      "label": "Wilson Could Not Name Any of the Seven Charges Against Tyler Robinson",
+      "label": "Wilson Named Murder, Then Aggravated Murder, When Asked for Robinson's Charges, Per Clip Host Plays",
       "node_kind": "claim",
       "episode": 141
     },
@@ -51562,14 +51562,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3282",
-      "label": "Steven Crowder Was on the Phone With Andrew Wilson Immediately After the Debate",
+      "label": "Host Says Crowder Was Apparently on the Phone With Wilson After the Debate",
       "node_kind": "claim",
       "episode": 141
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3283",
-      "label": "Host Says Poly Market Odds on Tyler Robinson Conviction Dropped During the Debate",
+      "label": "Host Says Polymarket Odds on Tyler Robinson Conviction Dropped During the Debate",
       "node_kind": "claim",
       "episode": 141
     },
@@ -51702,21 +51702,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3302",
-      "label": "Terryl/Taral Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting",
+      "label": "Farnsworth Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting",
       "node_kind": "claim",
       "episode": 143
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3303",
-      "label": "Terryl/Taral Subsequently Inserted That SD Card Into His Laptop",
+      "label": "Farnsworth Subsequently Inserted That SD Card Into His Laptop",
       "node_kind": "claim",
       "episode": 143
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3304",
-      "label": "Terryl/Taral Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head",
+      "label": "Farnsworth Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head",
       "node_kind": "claim",
       "episode": 143
     },
@@ -81102,7 +81102,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7504",
-      "label": "Bagley Said He Did Not Notice Anybody on the Roof, Then Agreed He Did Not Review the Video for Anyone Between the Jump and His Arrival",
+      "label": "Bagley Said He Did Not Notice Anybody on the Roof; Defense Put It to Him That He Did Not Review the Video",
       "node_kind": "claim",
       "episode": 137
     },
@@ -81228,7 +81228,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7522",
-      "label": "In the Sky Clip Trump Says the Strike Was Done by Iran and Hegseth Says It Is Still Being Investigated",
+      "label": "In a Sky News Clip Trump Says the Strike Was Done by Iran and Hegseth Says It Is Still Being Investigated",
       "node_kind": "claim",
       "episode": 137
     },
@@ -91980,7 +91980,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9058",
-      "label": "Host Says the Devante West Account Mocks Christian Speak Broadly and Is Not About Erika",
+      "label": "Host Says the Devonte West Account Mocks Christian Speak Broadly and Is Not About Erika",
       "node_kind": "claim",
       "episode": 132
     },
@@ -92204,7 +92204,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9090",
-      "label": "Host Says David Sprague Changed His Name From James Rollinsson and Told Her His Father Was Tied to Child Crimes",
+      "label": "Host Says David Sprague Changed His Name From James Rawlinson and Told Her His Father Was Tied to Child Crimes",
       "node_kind": "claim",
       "episode": 138
     },
@@ -118174,14 +118174,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2195",
-      "label": "Devante West Instagram Bundle",
+      "label": "Devonte West Instagram Bundle",
       "node_kind": "artifact",
       "episode": 132
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2195.1",
-      "label": "Devante West Instagram clip mocking contemporary Christianese speaking",
+      "label": "Devonte West Instagram clip mocking contemporary Christianese speaking",
       "node_kind": "artifact",
       "episode": 132
     },
@@ -119602,14 +119602,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2270",
-      "label": "Agent Hoole Testimony Audio Bundle",
+      "label": "Agent Hull Testimony Audio Bundle",
       "node_kind": "artifact",
       "episode": 140
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2270.1",
-      "label": "Audio excerpt of Agent Hoole testimony describing a vehicle stopping and making contact with a security officer identified as Officer Goforth",
+      "label": "Audio excerpt of Agent Hull testimony describing a vehicle stopping and making contact with a security officer identified as Officer Goforth",
       "node_kind": "artifact",
       "episode": 140
     },
@@ -119644,14 +119644,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2273",
-      "label": "\"No Soup For You\" / Britta Weidner Identification Bundle",
+      "label": "\"No Soup for Knowles\" / Britta Weidner Identification Bundle",
       "node_kind": "artifact",
       "episode": 140
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2273.1",
-      "label": "Public records / identification linking the \"No Soup For You\" / \"No Soup For Noels\" X account to a 40–45-year-old woman",
+      "label": "Public records / identification linking the \"No Soup for Knowles\" / \"No Soup for Knowles\" X account to a 40–45-year-old woman",
       "node_kind": "artifact",
       "episode": 140
     },
@@ -119665,7 +119665,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2273.3",
-      "label": "Tweet-counter account output showing 4,040 tweets by \"No Soup For You\" account about Candace Owens over 11 months",
+      "label": "Tweet-counter account output showing 4,040 tweets by \"No Soup for Knowles\" account about Candace Owens over 11 months",
       "node_kind": "artifact",
       "episode": 140
     },

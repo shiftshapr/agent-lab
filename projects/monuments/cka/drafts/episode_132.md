@@ -170,9 +170,9 @@ Excerpt: "LOL. No, can confirm I'm not in D.C. Same is true for our in-house law
 
 ---
 
-**A-2195** Devante West Instagram Bundle
+**A-2195** Devonte West Instagram Bundle
 
-**A-2195.1** Devante West Instagram clip mocking contemporary Christianese speaking
+**A-2195.1** Devonte West Instagram clip mocking contemporary Christianese speaking
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -882,7 +882,7 @@ Daughter of Stanley Kubrick whom the host says criticised the Make Heaven Crowde
 
 ---
 
-**N-824** Devante West
+**N-824** Devonte West
 
 Instagram account holder whose clip mocking Christian speak the host plays; first named by the host at 00:30:12 in episode 132 (spelled Devonte West once).
 
@@ -944,7 +944,7 @@ Claim Timestamp: 00:06:57
 Claim: Andrew Kolvet, in a public X post the host reads, asserted he had no idea whether the text messages shared by Candace Owens were authentic, said that for argument's sake, if real, releasing a man's private messages after his death "can be an evil thing", and said Candace was "weaponizing" Charlie's private messages.
 
 Anchored Artifacts: A-2189.1
-Mentions: N-14, N-3
+Mentions: N-14, N-3, N-1
 Related Nodes:
 Investigative Direction: Obtain independent forensic verification of the disputed messages and compare against Kolvet's stated inability to confirm.
 
@@ -1025,11 +1025,11 @@ Mentions: N-14, N-69, N-494, N-495, N-3
 Related Nodes: N-10752
 Investigative Direction: Cross-reference with White House visitor logs (subject to release), publicly verifiable schedules, and the host's claimed source corroboration.
 
-**C-3146** Devante West Instagram account mocked contemporary Christianese
+**C-3146** Devonte West Instagram Account Mocked Contemporary Christianese
 
 Claim Timestamp: 00:30:59
 
-Claim: Devante West, via an Instagram video, posted content mocking contemporary Christian pastoral rhetoric and its repetition patterns, presented in the episode as a parallel commentary on Erika Kirk's tour speech style.
+Claim: Devonte West, via an Instagram video, posted content mocking contemporary Christian pastoral rhetoric and its repetition patterns, presented in the episode as a parallel commentary on Erika Kirk's tour speech style.
 
 Anchored Artifacts: A-2195.1
 Mentions: N-824, N-2
@@ -1693,9 +1693,9 @@ Investigative Direction: Review the audio for road noise and compare with the SU
 
 Claim Timestamp: 00:18:14
 
-Claim: The host, speculating about what "Get that off of him" meant, says Charlie had on him a necklace which had broken, a white Freedom t-shirt and a road microphone.
+Claim: The host, speculating about what "Get that off of him" meant, says Charlie had on him a necklace which had broken, a white Freedom t-shirt and a Rode microphone.
 
-Transcript Snippet: Charlie didn't have much on him. He had a necklace which had broken. He had on a white Freedom t-shirt. He had on a road microphone.
+Transcript Snippet: Charlie didn't have much on him. He had a necklace which had broken. He had on a white Freedom t-shirt. He had on a Rode microphone.
 
 Anchored Artifacts: A-2197.1
 Mentions: N-1, N-3
@@ -1898,13 +1898,13 @@ Investigative Direction: Review the full video of the speech for a visible devic
 
 ---
 
-**C-9058** Host Says the Devante West Account Mocks Christian Speak Broadly and Is Not About Erika
+**C-9058** Host Says the Devonte West Account Mocks Christian Speak Broadly and Is Not About Erika
 
 Claim Timestamp: 00:30:12
 
-Claim: The host says the Instagram account holder Devante West mocks the new culture of sweet-nothing Christian girl-boss podcasting broadly, and that his clip is not about Erika Kirk.
+Claim: The host says the Instagram account holder Devonte West mocks the new culture of sweet-nothing Christian girl-boss podcasting broadly, and that his clip is not about Erika Kirk.
 
-Transcript Snippet: The account holder on Instagram is Devante West and he just mocks broadly speaking. So this is not about Erika.
+Transcript Snippet: The account holder on Instagram is Devonte West and he just mocks broadly speaking. So this is not about Erika.
 
 Anchored Artifacts: A-2195.1
 Mentions: N-824, N-2
@@ -2497,7 +2497,7 @@ Confidence: high
 Video Timestamp: 00:31:50
 Speaker: N-3
 Quote: It's a grift. Christianese needs to stop.
-Context: Host closes the Devante West clip.
+Context: Host closes the Devonte West clip.
 Tags: grift, christianese
 Confidence: high
 

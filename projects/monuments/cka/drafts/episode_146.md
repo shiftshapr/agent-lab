@@ -1164,9 +1164,9 @@ Investigative Direction: Review UVU arrival and walk-in video to confirm Butch H
 
 Claim Timestamp: 00:04:33
 
-Claim: The host says online chatter speculated that Butch Hibbs was undercover and may have carried a road microphone in his top pocket, and that she did not propagate those theories.
+Claim: The host says online chatter speculated that Butch Hibbs was undercover and may have carried a Rode microphone in his top pocket, and that she did not propagate those theories.
 
-Transcript Snippet: a lot of conspiracies that were drummed up regarding whether or not he was in fact undercover, particularly whether or not, as some people speculated, he may have been carrying a road microphone in his top pocket.
+Transcript Snippet: a lot of conspiracies that were drummed up regarding whether or not he was in fact undercover, particularly whether or not, as some people speculated, he may have been carrying a Rode microphone in his top pocket.
 
 Anchored Artifacts: A-2325.1
 Mentions: N-247, N-3

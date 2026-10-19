@@ -327,7 +327,7 @@ Confidence Level: Low
 
 **A-2989.2** Host reading of account names from the Protecting Mrs. Kirk member list
 
-Quoted text: "Milk Bar TV, No Soup for Nles, Paramount, Not So Tactical, Bria Dale, Fake Catholic, Insurrection, Barbie"
+Quoted text: "Milk Bar TV, No Soup for Knowles, Paramount, Not So Tactical, Bria Dale, Fake Catholic, Insurrection, Barbie"
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:20:07
@@ -1027,9 +1027,9 @@ Existing node reused for new claims in this episode.
 
 **N-817** David Sprague
 
-First named by the host at 00:02:40 in episode 138 as the man who started the USA chant after the shot; the host says he was formerly James Rollinsson (transcribed Rollinsson).
+First named by the host at 00:02:40 in episode 138 as the man who started the USA chant after the shot; the host says he was formerly James Rawlinson (transcribed Rollinsson).
 
-Aliases: James Rollinsson
+Aliases: James Rawlinson
 
 *Related: C-9090*
 
@@ -1240,7 +1240,7 @@ Investigative Direction: Verify the full exchange; identify Victor Marx's specif
 
 ---
 
-**C-3231** Mississippi-Area Law Enforcement Has No Records Matching Victor Marx's Account of a Homicide at Age 7
+**C-3231** Piers Morgan Says Mississippi-Area Law Enforcement Has No Records Matching Victor Marx's Account
 
 Claim Timestamp: 00:45:49–00:46:30
 
@@ -1285,11 +1285,11 @@ Investigative Direction: Obtain the full 2010 episode recording for complete con
 
 ---
 
-**C-3234** The "Protecting Mrs. Kirk" Group Chat Was Organized by an Individual Previously Engaged in Israel-Tied Intelligence Gathering
+**C-3234** Host Says the "Protecting Mrs. Kirk" Group Chat Was Organized by an Agent of Israel
 
 Claim Timestamp: 00:18:25–00:19:12
 
-Claim: The host asserts that the 'Protecting Mrs. Kirk' group chat was brought together by an agent of Israel who previously said he gathers intel and collaborated with a Daily Wire employee and the Gaza Humanitarian Foundation to create files on people for Israel's PR.
+Claim: The host asserts that the 'Protecting Mrs. Kirk' group chat was brought together by an agent of Israel who previously said they gather intel and collaborated with a Daily Wire employee and the Gaza Humanitarian Foundation to create files on people for Israel's PR.
 
 Anchored Artifacts: A-2246.1 (organizer not identified in artifact)
 Mentions: N-2, N-3
@@ -1396,13 +1396,13 @@ Investigative Direction: Obtain the Zinn arrest record, charging documents and b
 
 ---
 
-**C-9090** Host Says David Sprague Changed His Name From James Rollinsson and Told Her His Father Was Tied to Child Crimes
+**C-9090** Host Says David Sprague Changed His Name From James Rawlinson and Told Her His Father Was Tied to Child Crimes
 
 Claim Timestamp: 00:02:40
 
-Claim: The host says the man who started the 'USA, USA' chant goes by David Sprague, used to be James Rollinsson, and confessed to her that his father was mixed up in sex abuse crimes against children.
+Claim: The host says the man who started the 'USA, USA' chant goes by David Sprague, used to be James Rawlinson, and confessed to her that his father was mixed up in sex abuse crimes against children.
 
-Transcript Snippet: He goes by David Sprague, but he actually changed his name. It used to be James Rollinsson.
+Transcript Snippet: He goes by David Sprague, but he actually changed his name. It used to be James Rawlinson.
 
 Anchored Artifacts: 
 Mentions: N-3, N-817
@@ -1918,9 +1918,9 @@ Investigative Direction: Compare the member list against each account's observed
 
 Claim Timestamp: 00:20:07
 
-Claim: The host lists accounts she says appear in the 92-member chat: Milk Bar TV, No Soup for Nles, Paramount, Not So Tactical, Bria Dale, Fake Catholic, Insurrection Barbie, and says she blocked them.
+Claim: The host lists accounts she says appear in the 92-member chat: Milk Bar TV, No Soup for Knowles, Paramount Not So Tactical, Bria Dale, Fake Catholic, Insurrection Barbie, and says she blocked them.
 
-Transcript Snippet: Milk Bar TV, No Soup for Nles, Paramount, Not So Tactical, Bria Dale, Fake Catholic, Insurrection, Barbie
+Transcript Snippet: Milk Bar TV, No Soup for Knowles, Paramount, Not So Tactical, Bria Dale, Fake Catholic, Insurrection, Barbie
 
 Anchored Artifacts: A-2989.2
 Mentions: N-3

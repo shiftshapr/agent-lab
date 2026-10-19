@@ -60,7 +60,7 @@ You need evidence. You don't falsely accuse people. So this is what evil does. I
 
 [05:54]
 
-Nothing. Nothing they have said since the very beginning. Tyler Robinson's parents turned them in. Had they showed us that? Nope. Instead, we hear a story about Mitch Mitchell, as I told you from the beginning, press undercover officer his entire life, pressuring him to come in peaceibly, otherwise they were going to knock in the doors. You guys have lied at every single stage of this, including by describing him as a a transgendered or or being in a relationship with somebody that's transgendered. That hasn't checked out. You told us this was a politically motivated murder. We heard testimony from his boyfriend who says, "No, he wasn't into politics. We never discussed Charlie Kirk ever in our relationship.
+Nothing. Nothing they have said since the very beginning. Tyler Robinson's parents turned them in. Had they showed us that? Nope. Instead, we hear a story about Mike Mitchell, as I told you from the beginning, press undercover officer his entire life, pressuring him to come in peaceibly, otherwise they were going to knock in the doors. You guys have lied at every single stage of this, including by describing him as a a transgendered or or being in a relationship with somebody that's transgendered. That hasn't checked out. You told us this was a politically motivated murder. We heard testimony from his boyfriend who says, "No, he wasn't into politics. We never discussed Charlie Kirk ever in our relationship.
 
 [06:32]
 
@@ -68,7 +68,7 @@ What have you proven? What have you proven other than the fact that you are real
 
 [07:24]
 
-And it's because they're the most sensible. They don't really buy the crap. They don't really buy the influencers, telling them not to believe their own eyes. And there's this guy who uh knows a bit about wood shopping, if you will. He sent me this email and we decided to fact check it. He said, "Hey guys, just an FYI, I do woodworking as a hobby and I use CA glue and spray activator." And I'm not sure where I learned it, but I always remember being told to use black nitro gloves because it's the most resistant to that crazy adhesive. For example, if you were trying to clean off all the broken pieces of glass from a road microphone that has adhesive on it in a hurry. Well, there you go. OBS, I know you guys will do the research. I feel like it's common knowledge for woodworkers. Sorry I can't be of more help to point you to anything specific, but thought I'd let you know. God bless you all. Christ is king. Is that true?
+And it's because they're the most sensible. They don't really buy the crap. They don't really buy the influencers, telling them not to believe their own eyes. And there's this guy who uh knows a bit about wood shopping, if you will. He sent me this email and we decided to fact check it. He said, "Hey guys, just an FYI, I do woodworking as a hobby and I use CA glue and spray activator." And I'm not sure where I learned it, but I always remember being told to use black nitro gloves because it's the most resistant to that crazy adhesive. For example, if you were trying to clean off all the broken pieces of glass from a Rode microphone that has adhesive on it in a hurry. Well, there you go. OBS, I know you guys will do the research. I feel like it's common knowledge for woodworkers. Sorry I can't be of more help to point you to anything specific, but thought I'd let you know. God bless you all. Christ is king. Is that true?
 
 [08:14]
 
