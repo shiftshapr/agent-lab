@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: ccc088e1afd1c59b5e5cc5c2b2958206b92ce5ce72a69a6b3b4672840c3aa324
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-813, N-814
+  - Tip-minted Nodes (supplement_2026-10c): N-811, N-812
   - Hole-minted Nodes (reintro-ep090): N-10679, N-10703
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8689–C-8754
   - New Nodes Introduced: N-10593, N-10595, N-10596, N-10597
-  - Hole-minted Nodes (wave3): N-421, N-422
-  - Tip-minted Nodes (skeleton-caleb): N-606
-  - Reused Nodes Appearing: N-10169, N-3, N-40, N-41, N-69, N-134, N-5, N-38, N-46, N-60, N-97, N-125, N-160, N-164, N-205, N-245, N-273, N-362, N-365, N-367, N-379, N-775, N-10000, N-10013, N-10024, N-10027, N-10029, N-10031, N-10271, N-10372, N-10416, N-10431, N-10568, N-10584, N-10628, N-10664, N-10900, N-10936, N-11002, N-11129, N-10594, N-10954, N-10598
+  - Hole-minted Nodes (wave3): N-420, N-421
+  - Tip-minted Nodes (skeleton-caleb): N-604
+  - Reused Nodes Appearing: N-10169, N-3, N-40, N-41, N-69, N-133, N-5, N-38, N-46, N-60, N-97, N-125, N-159, N-163, N-204, N-244, N-272, N-361, N-364, N-366, N-378, N-773, N-10000, N-10013, N-10024, N-10027, N-10029, N-10031, N-10271, N-10372, N-10416, N-10431, N-10568, N-10584, N-10628, N-10664, N-10900, N-10936, N-11002, N-11129, N-10594, N-10954, N-10598
   - (see registers)
 
 # EVOLUTION 90 ANALYSIS
@@ -217,7 +217,7 @@ Video Timestamp: 00:34:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8723, C-8724, C-8725, C-8726, N-3, N-40, N-69, N-379*
+*Related: C-8723, C-8724, C-8725, C-8726, N-3, N-40, N-69, N-378*
 
 ---
 
@@ -262,7 +262,7 @@ Video Timestamp: 00:58:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8748, C-8749, N-5, N-421*
+*Related: C-8748, C-8749, N-5, N-420*
 
 ---
 
@@ -281,7 +281,7 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
-**N-606** Caleb Robinson
+**N-604** Caleb Robinson
 
 Daily Wire chief executive; first named by the host at 00:23:21 in episode 90 (ADF board seat).
 
@@ -289,13 +289,13 @@ Daily Wire chief executive; first named by the host at 00:23:21 in episode 90 (A
 
 ---
 
-**N-421** Pope Leo XIV
+**N-420** Pope Leo XIV
 
 First named by the host at 00:00:01 in episode 90. Aliases: Pope Leo, Pope Leo the 14th, His Holiness Pope Leo, Leo XIV.
 
 *Related: C-2689, C-2690, C-2691, C-2696*
 
-**N-422** Doug Terry
+**N-421** Doug Terry
 
 First named by the host at 00:33:31 in episode 90.
 
@@ -492,7 +492,7 @@ Named in the episode; cited by new claims.
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 TPUSA communications figure; the host recounts his refusal to show the video.
 
@@ -500,7 +500,7 @@ TPUSA communications figure; the host recounts his refusal to show the video.
 
 ---
 
-**N-164** Matt Walsh
+**N-163** Matt Walsh
 
 Named in the episode; cited by new claims.
 
@@ -508,7 +508,7 @@ Named in the episode; cited by new claims.
 
 ---
 
-**N-205** Piers Morgan
+**N-204** Piers Morgan
 
 Named in the episode; cited by new claims.
 
@@ -516,7 +516,7 @@ Named in the episode; cited by new claims.
 
 ---
 
-**N-245** Mark Levin
+**N-244** Mark Levin
 
 Named in the episode; cited by new claims.
 
@@ -524,7 +524,7 @@ Named in the episode; cited by new claims.
 
 ---
 
-**N-273** Nate Brooksby
+**N-272** Nate Brooksby
 
 Named in the episode; cited by new claims.
 
@@ -532,7 +532,7 @@ Named in the episode; cited by new claims.
 
 ---
 
-**N-362** Mitch Snow
+**N-361** Mitch Snow
 
 Named in the episode; cited by new claims.
 
@@ -540,7 +540,7 @@ Named in the episode; cited by new claims.
 
 ---
 
-**N-365** Cabot Phillips
+**N-364** Cabot Phillips
 
 Daily Wire employee the host describes as Erika's ex-boyfriend and the subject of the playground encounter.
 
@@ -548,7 +548,7 @@ Daily Wire employee the host describes as Erika's ex-boyfriend and the subject o
 
 ---
 
-**N-367** Jeremy Boreing
+**N-366** Jeremy Boreing
 
 Named in the episode; cited by new claims.
 
@@ -556,7 +556,7 @@ Named in the episode; cited by new claims.
 
 ---
 
-**N-379** Dan Bongino
+**N-378** Dan Bongino
 
 Named in the episode; cited by new claims.
 
@@ -564,7 +564,7 @@ Named in the episode; cited by new claims.
 
 ---
 
-**N-775** Paula White
+**N-773** Paula White
 
 Named in the episode; cited by new claims.
 
@@ -740,7 +740,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-813** Mike Smith
+**N-811** Mike Smith
 
 Utah County Sheriff; first named by the host at 00:38:30 in episode 90 (Brooksby's call about Mike Mitchell).
 
@@ -748,7 +748,7 @@ Utah County Sheriff; first named by the host at 00:38:30 in episode 90 (Brooksby
 
 ---
 
-**N-814** Bishop Barron
+**N-812** Bishop Barron
 
 Bishop; first named by the host at 00:55:46 in episode 90 (stood beside Paula White during the prayer). Transcript spelling: Bishop Barron.
 
@@ -780,7 +780,7 @@ Claim Timestamp: 00:33:31
 Claim: Per the defense motion the host reads (A-1948.1), during the recorded Mirandization Robinson asked to speak with legal counsel, a fellow in Utah named Doug Terry, and said he thinks Terry's office is closed for the night.
 
 Anchored Artifacts: A-1948.1
-Mentions: N-40, N-422
+Mentions: N-40, N-421
 
 Related Nodes:
 
@@ -855,7 +855,7 @@ Claim Timestamp: 00:23:21
 Claim: The host says ADF insiders informed her, and showed her an internal presentation, that Daily Wire CEO Caleb Robinson is now on the ADF board of directors, one of what she thinks are eight seats.
 
 Anchored Artifacts: A-1951.2
-Mentions: N-606
+Mentions: N-604
 
 Related Nodes: N-10596
 
@@ -870,7 +870,7 @@ Claim Timestamp: 00:52:54
 Claim: A Trump Truth Social post is read aloud in the episode calling Pope Leo XIV "weak on crime" and criticizing the Pope's positions on Iran, Venezuela, and criticism of the President.
 
 Anchored Artifacts: A-1952.1
-Mentions: N-5, N-421
+Mentions: N-5, N-420
 
 Related Nodes:
 
@@ -885,7 +885,7 @@ Claim Timestamp: 00:57:23
 Claim: In a video response played in the episode, Pope Leo XIV states his message is "blessed are the peacemakers" and that he does not view his role as political.
 
 Anchored Artifacts: A-1953.1
-Mentions: N-421
+Mentions: N-420
 
 Related Nodes:
 
@@ -975,7 +975,7 @@ Claim Timestamp: 00:51:46–00:58:29
 Claim: The host says Trump attacked Pope Leo XIV in a post, saying 'Pope Leo is weak on crime, terrible for foreign policy,' after the Pope's criticism of the Iran war, which she calls unjust.
 
 Anchored Artifacts: A-1952.1, A-1953.1
-Mentions: N-5, N-421
+Mentions: N-5, N-420
 
 Related Nodes:
 
@@ -1007,7 +1007,7 @@ Claim: The host says her source told her that around 7:00 p.m. people locally be
 Transcript Snippet: I believe that my source was on the money when they said that they knew it was Tyler Robinson at 7:00.
 
 Anchored Artifacts: 
-Mentions: N-3, N-40, N-41, N-69, N-134
+Mentions: N-3, N-40, N-41, N-69, N-133
 Related Nodes: 
 Investigative Direction: Obtain the time-stamped local texts and dispatch logs for the Warner Valley pickup; compare against the 8:00 p.m. press-conference statements.
 
@@ -1022,7 +1022,7 @@ Claim: The host says Cabot Phillips is Erika Kirk's ex-boyfriend ("one of the ma
 Transcript Snippet: Erika's ex-boyfriend, one of the many, uh current Daily Wire employee, who was featured on my podcast when Mitch gave a description of the guy that he believed that he saw with Erika at Fort Huachuca
 
 Anchored Artifacts: 
-Mentions: N-3, N-365, N-2, N-362
+Mentions: N-3, N-364, N-2, N-361
 Related Nodes: N-10900, N-10372
 Tags: relevance:core
 Investigative Direction: Obtain Phillips's employment record and any statement from him or from the witness Mitch confirming or denying that the description matched him.
@@ -1038,7 +1038,7 @@ Claim: The host says she texted Cabot Phillips before naming him on the podcast,
 Transcript Snippet: You will recall that I texted Cabot Phillips before we mentioned him on the podcast, looking for a simple yes or no response.
 
 Anchored Artifacts: 
-Mentions: N-3, N-365
+Mentions: N-3, N-364
 Related Nodes: N-10372
 Tags: relevance:core
 Investigative Direction: Obtain the host's text thread with Phillips and any later statement from Phillips about his whereabouts in September 2025.
@@ -1054,7 +1054,7 @@ Claim: The host says that on a toddler playground Cabot Phillips confronted her,
 Transcript Snippet: he goes, oh, really? Because of you, people don't believe that he is my son. Okay.
 
 Anchored Artifacts: 
-Mentions: N-3, N-365
+Mentions: N-3, N-364
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Only the host and Phillips can confirm the encounter; Phillips's own account would be the test.
@@ -1070,7 +1070,7 @@ Claim: The host says she believes the child is Cabot Phillips's, says she never 
 Transcript Snippet: I want to also state that I believe that that is Cabot Phillips' child. I never made the claim otherwise
 
 Anchored Artifacts: 
-Mentions: N-3, N-365
+Mentions: N-3, N-364
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Review earlier episodes for any host statement about the child's parentage to test 'never made the claim otherwise'.
@@ -1120,7 +1120,7 @@ Claim: The host says Blake Neff, when she asked for the video, said she was a "p
 Transcript Snippet: He said that I was a psychopathic subway killer that was wielding a knife.
 
 Anchored Artifacts: 
-Mentions: N-3, N-160
+Mentions: N-3, N-159
 Related Nodes: N-10000, N-10936
 Tags: relevance:core
 Investigative Direction: Locate the Neff statements (posts or messages) the host is paraphrasing and confirm the wording.
@@ -1252,7 +1252,7 @@ Claim: The host says that if the donors are right, it would be evil that Turning
 Transcript Snippet: If true, that they used an AI program, which Blake Neff's reaction to me, I've been around, suggests that they did because it's just so much easier.
 
 Anchored Artifacts: 
-Mentions: N-3, N-160
+Mentions: N-3, N-159
 Related Nodes: N-10000, N-10664, N-10597
 Supports: C-2685
 Tags: relevance:core
@@ -1317,7 +1317,7 @@ Claim: The host says Jeremy Boreing, the former CEO of Daily Wire, on his Candac
 Transcript Snippet: even Jeremy Boreing when he went on his like Candace tour, uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on Piers Morgan.
 
 Anchored Artifacts: 
-Mentions: N-3, N-367, N-205, N-1, N-97
+Mentions: N-3, N-366, N-204, N-1, N-97
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the Piers Morgan interview with Boreing and read his statement on Charlie and Shapiro.
@@ -1366,7 +1366,7 @@ Claim: The host says that after Charlie's death Ben Shapiro had Caleb Robinson n
 Transcript Snippet: they wanted to have only Matt Walsh on the show, and Caleb said, "Well, how about a two-for-one special?" Andrew Kolvet agreed to do that.
 
 Anchored Artifacts: 
-Mentions: N-3, N-97, N-606, N-164, N-14, N-1
+Mentions: N-3, N-97, N-604, N-163, N-14, N-1
 Related Nodes: N-10900
 Tags: relevance:core
 Investigative Direction: Obtain the booking communications between Daily Wire and the Charlie Kirk Show for the Walsh and Shapiro appearances.
@@ -1448,7 +1448,7 @@ Claim: The host says that ADF sources told her Ben was driving the bus and gunni
 Transcript Snippet: And they said that Ben was driving the bus um gunning for me through Alliance Defending Freedom.
 
 Anchored Artifacts: A-1951.2
-Mentions: N-3, N-97, N-606
+Mentions: N-3, N-97, N-604
 Related Nodes: N-10954, N-10596
 Supports: C-2688
 Tags: relevance:core
@@ -1481,7 +1481,7 @@ Claim: The host says Megyn Kelly said of Mark Levin that there is a piece of her
 Transcript Snippet: There is a piece of her that feels like he genuinely wants to like hurt her.
 
 Anchored Artifacts: 
-Mentions: N-3, N-46, N-245, N-97
+Mentions: N-3, N-46, N-244, N-97
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Locate the Megyn Kelly show segment about Mark Levin to confirm what she actually said.
@@ -1610,7 +1610,7 @@ Claim: The host's timeline states that Kash Patel and Dan Bongino arrived on the
 Transcript Snippet: 5:30 p. m. Kash Patel and Dan Bongino arrive on the scene. At 6:17, the FBI Salt Lake City releases another round of photos of the alleged shooter on X.
 
 Anchored Artifacts: A-2957.1
-Mentions: N-3, N-69, N-379, N-40
+Mentions: N-3, N-69, N-378, N-40
 Related Nodes: N-10024
 Tags: relevance:core
 Investigative Direction: Check Patel's and Bongino's travel logs and the time stamp of the FBI Salt Lake City post.
@@ -1660,7 +1660,7 @@ Claim: The host says Sheriff Nate Brooksby later said at a press conference that
 Transcript Snippet: then we have uh Sheriff Broxby, which we will get from a a later press conference. He will say that that's when he received the phone call from Mike Mitchell
 
 Anchored Artifacts: 
-Mentions: N-3, N-273, N-125, N-40
+Mentions: N-3, N-272, N-125, N-40
 Related Nodes: N-10029, N-10593
 Tags: relevance:core
 Investigative Direction: Obtain the press conference transcript and the sheriff's office phone records for the call.
@@ -1676,7 +1676,7 @@ Claim: The host says Sheriff Brooksby then called the Utah County Sheriff Mike S
 Transcript Snippet: And um then Sheriff Broxby calls the Utah County Sheriff Mike Smith to tell him about the call that he just got from Mike Mitchell.
 
 Anchored Artifacts: 
-Mentions: N-3, N-273, N-813, N-125
+Mentions: N-3, N-272, N-811, N-125
 Related Nodes: N-10029
 Tags: relevance:core
 Investigative Direction: Obtain call logs and sheriff statements from both offices for the evening of September 11.
@@ -1692,7 +1692,7 @@ Claim: The host says that according to Sheriff Nate Brooksby's press conference 
 Transcript Snippet: They tell us that 9:00 that Tyler arrives at the police station. That's according to the press conference that is given by Sheriff Nate Broxby.
 
 Anchored Artifacts: 
-Mentions: N-3, N-273, N-40, N-69
+Mentions: N-3, N-272, N-40, N-69
 Related Nodes: N-10029, N-10593, N-10031
 Tags: relevance:core
 Investigative Direction: Compare the press conference transcript with the 10:26 p.m. search warrant time and booking records.
@@ -1725,7 +1725,7 @@ Claim: The host says Freemasonry exists globally and that she knows Freemasonic 
 Transcript Snippet: France, assassin squads tied to Freemasonry. So, we can stop pretending that that's a figment of anyone's imagination, least of all mine.
 
 Anchored Artifacts: 
-Mentions: N-3, N-160
+Mentions: N-3, N-159
 Related Nodes: N-11129, N-10568, N-10031
 Tags: relevance:tangential
 Investigative Direction: Review the French Athanor Lodge trial reporting and Neff's statement on 33 symbolism.
@@ -1921,7 +1921,7 @@ Claim: The host says Laura Loomer has been forcibly placed on 5150 holds and is 
 Transcript Snippet: Laura Loomer who have has been forcibly placed on site 5150 holds as his number one or one advisor.
 
 Anchored Artifacts: 
-Mentions: N-3, N-60, N-5, N-775
+Mentions: N-3, N-60, N-5, N-773
 Related Nodes: N-10628
 Tags: relevance:tangential
 Investigative Direction: Check public court and medical-hold records, if any, and Loomer's own statements on the matter.
@@ -1937,7 +1937,7 @@ Claim: The host reads a Trump post saying he likes Pope Leo's brother Louis much
 Transcript Snippet: "I like his brother Louis much better than I like him." Oh, okay. Because Louis is all MAGA.
 
 Anchored Artifacts: A-1952.1
-Mentions: N-3, N-5, N-421
+Mentions: N-3, N-5, N-420
 Related Nodes: 
 Supports: C-2689
 Tags: relevance:tangential
@@ -1954,7 +1954,7 @@ Claim: The host reads a Trump post saying Pope Leo was not on any list and was p
 Transcript Snippet: If I wasn't in the White House, Leo wouldn't be in the Vatican.
 
 Anchored Artifacts: A-1952.1
-Mentions: N-3, N-5, N-421
+Mentions: N-3, N-5, N-420
 Related Nodes: 
 Supports: C-2689
 Tags: relevance:tangential
@@ -1971,7 +1971,7 @@ Claim: The host says Bishop Barron stood beside Paula White during the prayer fo
 Transcript Snippet: Bishop Barron standing beside Paula White during that prayer, and his excuse is why he was there.
 
 Anchored Artifacts: 
-Mentions: N-3, N-814, N-775, N-5
+Mentions: N-3, N-812, N-773, N-5
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Locate the event video and Bishop Barron's published explanation.
@@ -1987,7 +1987,7 @@ Claim: In a clip played, Trump is asked why he attacked Pope Leo on Truth Social
 Transcript Snippet: I don't think he's doing a very good job. He likes crime, I guess.
 
 Anchored Artifacts: A-2960.1
-Mentions: N-3, N-5, N-421
+Mentions: N-3, N-5, N-420
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Obtain the press conference transcript and date.
@@ -2003,7 +2003,7 @@ Claim: In the clip, Trump says he is not a fan of Pope Leo, calls him a very lib
 Transcript Snippet: He's a very liberal person. And he's a man that doesn't believe in stopping crime.
 
 Anchored Artifacts: A-2960.1
-Mentions: N-3, N-5, N-421
+Mentions: N-3, N-5, N-420
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Obtain the press conference transcript.

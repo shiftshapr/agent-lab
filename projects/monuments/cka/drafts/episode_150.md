@@ -16,7 +16,7 @@
   
 (none – Wave 2 removed local spray rows; persons cited via Mentions)
   
-  - Reused Nodes Appearing: N-2, N-22, N-30, N-60, N-156, N-10000, N-10002, N-10004, N-10026, N-10056, N-10118, N-10389, N-10415, N-10704, N-11014, N-11059
+  - Reused Nodes Appearing: N-2, N-22, N-30, N-60, N-155, N-10000, N-10002, N-10004, N-10026, N-10056, N-10118, N-10389, N-10415, N-10704, N-11014, N-11059
 
 # Episode Analysis – CKA 150
 
@@ -324,7 +324,7 @@ Host's husband, named as present when she said Charlie was betrayed and as the p
 
 ---
 
-**N-155** John Mappin
+**N-154** John Mappin
 
 Co-author with Irina of the open letter the host reads.
 
@@ -332,7 +332,7 @@ Co-author with Irina of the open letter the host reads.
 
 ---
 
-**N-156** Irina Mappin
+**N-155** Irina Mappin
 
 Co-author of the open letter; named with John Mappin as attending the memorial (the host also says Irina).
 
@@ -480,7 +480,7 @@ Investigative Direction: Verify continuity of journal entries against timestamps
 Claim Timestamp: 00:06:08
 Claim: Irina and John Mappin co-authored an open letter, which the host reads, stating that Charlie's death was "an assassination with potentially far-reaching political consequences" and asserting that "the truth, when known… will have far-reaching international consequences."
 Anchored Artifacts: A-2352.1
-Mentions: N-1, N-155, N-156
+Mentions: N-1, N-154, N-155
 Investigative Direction: Locate original publication of the open letter and verify signatures.
 
 ---
@@ -818,7 +818,7 @@ Claim: The host says Irina and John Mappin attended Charlie Kirk's memorial and 
 Transcript Snippet: she told me that she had never seen so many people speaking her native language, Russian, in Arizona.
 
 Anchored Artifacts: A-2351.1
-Mentions: N-155, N-156, N-1
+Mentions: N-154, N-155, N-1
 Related Nodes: N-11059, N-10002
 Tags: relevance:context
 Investigative Direction: Ask the Mappins for a first-hand account; compare with attendee lists, seating and credentialing for the Glendale memorial.
@@ -834,7 +834,7 @@ Claim: The host reads a letter from the Mappins saying a crime scene was apparen
 Transcript Snippet: A crime scene apparently completely destroyed in days, and plenty of evidence that simply does not add up.
 
 Anchored Artifacts: A-2352.1
-Mentions: N-155, N-156
+Mentions: N-154, N-155
 Supports: C-12135
 Tags: relevance:core
 Investigative Direction: Obtain the published letter and compare the wording; check Utah Valley University scene-release and cleanup records.
@@ -850,7 +850,7 @@ Claim: The host reads a letter saying that a conviction and death sentence while
 Transcript Snippet: The very idea that someone could be convicted and could receive the death penalty when there remains even the slightest shadow of doubt
 
 Anchored Artifacts: A-2352.1
-Mentions: N-155, N-156
+Mentions: N-154, N-155
 Tags: relevance:context
 Investigative Direction: Obtain the published letter; record whether the signers name Tyler Robinson or the Utah prosecution directly.
 
@@ -865,7 +865,7 @@ Claim: The host reads a letter saying she has an army of truth seekers worldwide
 Transcript Snippet: She has an army of truth seekers worldwide who are helping her in her search and research.
 
 Anchored Artifacts: A-2352.1
-Mentions: N-155, N-156, N-3
+Mentions: N-154, N-155, N-3
 Tags: relevance:context
 Investigative Direction: Obtain the published letter; the claim about volunteer contributors can be compared with the host's tip submissions.
 

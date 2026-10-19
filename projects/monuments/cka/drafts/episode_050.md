@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: d0819324ac9bf4a628c1d097391bbba74d4957e0b633e777ad84956f4db99630
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-718, N-11024, N-11025, N-11026
-  - Hole-minted Nodes (reintro-ep050): N-576, N-10393
+  - Tip-minted Nodes (supplement_2026-10): N-716, N-11024, N-11025, N-11026
+  - Hole-minted Nodes (reintro-ep050): N-574, N-10393
   - Tip-minted Nodes (reintro-ep050): N-10912
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5349–C-5419
@@ -34,8 +34,8 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1561, A-1562, A-1563, A-1564, A-1565, A-1566, A-1567
   - Claim Range: C-1980–C-1988
-  - New Nodes Introduced: N-365, N-366, N-10370, N-10371, N-10372, N-10374
-  - Reused Nodes Appearing: N-14, N-27, N-32, N-36, N-46, N-64, N-110, N-162, N-164, N-202, N-260, N-279, N-320, N-10000, N-10008, N-10015, N-10026, N-10238, N-10253, N-10268, N-10326, N-10333, N-10341, N-10451, N-10373, N-10406, N-10416, N-10447, N-367
+  - New Nodes Introduced: N-364, N-365, N-10370, N-10371, N-10372, N-10374
+  - Reused Nodes Appearing: N-14, N-27, N-32, N-36, N-46, N-64, N-110, N-161, N-163, N-201, N-259, N-278, N-319, N-10000, N-10008, N-10015, N-10026, N-10238, N-10253, N-10268, N-10326, N-10333, N-10341, N-10451, N-10373, N-10406, N-10416, N-10447, N-366
   - Existing Nodes Reused: N-1, N-2, N-11
 
 ---
@@ -98,7 +98,7 @@ Confidence Level: High (replayed audio)
 
 Quoted content includes Jeremy Boreing's narration citing Owens's X posts: October 28, 2023 protest repost; November 3, 2023 "No government anywhere has a right to commit a genocide ever"; February 28, 2024 "Time to look into the history and profiteering of pornography"; liking a post calling Netanyahu a "war criminal."
 
-*Related: C-1982, N-3, N-97, N-367*
+*Related: C-1982, N-3, N-97, N-366*
 
 ---
 
@@ -114,7 +114,7 @@ Confidence Level: High (read-aloud rule)
 
 Full text read aloud begins: "For those of you information consumers who are stuck in practices of the old days… The public record on September 8th indicates that I was returning to Washington, D.C. from my district and voting on the floor of the House of Representatives. And on September 9th in a 12-hour [meeting] in the House Appropriations Committee… To quote Ronald Reagan, 'Facts are stubborn things. Merry Christmas.'"
 
-*Related: C-1983, N-364, N-10371*
+*Related: C-1983, N-363, N-10371*
 
 ---
 
@@ -130,7 +130,7 @@ Confidence Level: High (read-aloud rule)
 
 Full text read aloud begins: "Road Exposed, Rep. Mark Amodei tries and fails to give a solid alibi for the alleged September 9th meeting with Charlie Kirk's security, Brian Harpole. The rep claims to have been traveling to D.C… he was not present for roll call until the third meeting in mid-afternoon on the 9th in D.C."
 
-*Related: C-1984, N-364, N-366, N-10371*
+*Related: C-1984, N-363, N-365, N-10371*
 
 ---
 
@@ -146,7 +146,7 @@ Confidence Level: Medium
 
 Flag: Artifact verbally referenced but not shown on camera.
 
-*Related: C-1985, N-365, N-362, N-10372*
+*Related: C-1985, N-364, N-361, N-10372*
 
 ---
 
@@ -162,7 +162,7 @@ Confidence Level: Medium (host states existence)
 
 Flag: Artifact verbally referenced but not displayed in this episode.
 
-*Related: C-1987, N-362, N-10370*
+*Related: C-1987, N-361, N-10370*
 
 ---
 
@@ -176,7 +176,7 @@ Confidence Level: Medium (host states she was given the logs)
 
 Flag: Artifact verbally referenced but not displayed in this episode.
 
-*Related: C-1986, N-267, N-10370, N-10373*
+*Related: C-1986, N-266, N-10370, N-10373*
 
 ---
 
@@ -190,7 +190,7 @@ Confidence Level: Medium (host states she obtained paperwork)
 
 Flag: Artifact verbally referenced but not displayed in this episode.
 
-*Related: C-1987, N-362, N-10370*
+*Related: C-1987, N-361, N-10370*
 
 ---
 
@@ -347,7 +347,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-364** Mark Amodei
+**N-363** Mark Amodei
 
 U.S. Representative (NV); subject of contradictory public-record claims regarding his whereabouts on September 9, 2025.
 
@@ -360,7 +360,7 @@ Investigative Pressure: High
 
 ---
 
-**N-267** Brian Harpole
+**N-266** Brian Harpole
 
 Charlie Kirk's security officer; travel logs referenced as supporting the possibility he attended the Fort Huachuca morning meeting.
 
@@ -373,7 +373,7 @@ Investigative Pressure: High
 
 ---
 
-**N-365** Cabot Phillips
+**N-364** Cabot Phillips
 
 Daily Wire / Morning Wire contributor; identified by Mitch from a photograph as a person seen at Fort Huachuca; subject of a separate dating-history claim involving Erika Kirk.
 
@@ -386,7 +386,7 @@ Investigative Pressure: High
 
 ---
 
-**N-366** Diligent Denizen
+**N-365** Diligent Denizen
 
 X poster; author of the read-aloud post analyzing Mark Amodei's alibi and identifying missed roll calls.
 
@@ -395,11 +395,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (intermediary verification role)
 
-*Related: A-1565.1, C-1984, N-364, N-10371*
+*Related: A-1565.1, C-1984, N-363, N-10371*
 
 ---
 
-**N-367** Jeremy Boreing
+**N-366** Jeremy Boreing
 
 Then-CEO of the Daily Wire; conducted the town hall–style firing of Candace Owens captured in A-1563.1.
 
@@ -414,7 +414,7 @@ Flag: Name transcribed as "Jeremy Boreing"; flagged for possible transcription e
 
 ---
 
-**N-362** Mitch Snow
+**N-361** Mitch Snow
 
 Fort Huachuca witness; his access, NDA-related lawsuit paperwork, and direction-request video are referenced as verified by the host.
 
@@ -449,7 +449,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1567.1, A-1567.2, A-1567.3, C-1985, C-1986, C-1987, N-364, N-267, N-365, N-362*
+*Related: A-1567.1, A-1567.2, A-1567.3, C-1985, C-1986, C-1987, N-363, N-266, N-364, N-361*
 
 ---
 
@@ -462,7 +462,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1564.1, A-1565.1, C-1983, C-1984, N-364, N-366*
+*Related: A-1564.1, A-1565.1, C-1983, C-1984, N-363, N-365*
 
 ---
 
@@ -475,7 +475,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1566.1, C-1985, N-365, N-362*
+*Related: A-1566.1, C-1985, N-364, N-361*
 
 ---
 
@@ -488,7 +488,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1567.2, C-1986, N-267, N-10370*
+*Related: A-1567.2, C-1986, N-266, N-10370*
 
 ---
 
@@ -501,7 +501,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-365, C-1988*
+*Related: N-2, N-364, C-1988*
 
 ---
 
@@ -594,7 +594,7 @@ Subject of the host's interview praise and of the alleged Daily Wire interview.
 
 ---
 
-**N-162** Yashar Ali
+**N-161** Yashar Ali
 
 Named as having shared the Mast remarks on X.
 
@@ -602,7 +602,7 @@ Named as having shared the Mast remarks on X.
 
 ---
 
-**N-164** Matt Walsh
+**N-163** Matt Walsh
 
 Named in the host's remark on who was invited onto Charlie Kirk's show.
 
@@ -610,7 +610,7 @@ Named in the host's remark on who was invited onto Charlie Kirk's show.
 
 ---
 
-**N-202** Nick Fuentes
+**N-201** Nick Fuentes
 
 Named in the host's account of her one contact with him.
 
@@ -618,7 +618,7 @@ Named in the host's account of her one contact with him.
 
 ---
 
-**N-260** Steven Crowder
+**N-259** Steven Crowder
 
 Named as having obtained the town hall video.
 
@@ -626,7 +626,7 @@ Named as having obtained the town hall video.
 
 ---
 
-**N-279** Bari Weiss
+**N-278** Bari Weiss
 
 Named as the journalist the host says Shapiro worked with.
 
@@ -634,7 +634,7 @@ Named as the journalist the host says Shapiro worked with.
 
 ---
 
-**N-320** Captain Adam Neff
+**N-319** Captain Adam Neff
 
 Named by the host as the Army captain who questioned Mitch.
 
@@ -642,7 +642,7 @@ Named by the host as the Army captain who questioned Mitch.
 
 ---
 
-**N-576** Nicole Rothstein
+**N-574** Nicole Rothstein
 
 Named as Erika Kirk's cousin commenting that Erika is half Jewish.
 
@@ -778,7 +778,7 @@ Reused topic cited by new claims in this episode.
 
 ---
 
-**N-718** Hank Berrien
+**N-716** Hank Berrien
 
 First named by the host at 00:22:56 in episode 050. Pen name the host says Ben Shapiro's father uses for Daily Wire and earlier Breitbart articles.
 
@@ -850,7 +850,7 @@ Claim Timestamp: 00:11:35
 Claim: The host says the Daily Wire fired her at a "town hall" staged in her studio, with about 300 employees present and Ben Shapiro joining electronically on screen; in a clip the host plays, then-CEO Jeremy Boreing narrates Owens's X posts (an October 28, 2023 repost of a London protest video, a November 3, 2023 post on genocide, and a February 28 post on the profiteering of pornography), and the host says he then went into a diatribe about the real meaning of "Christ is King".
 
 Anchored Artifacts: A-1563.1
-Mentions: N-3, N-97, N-367
+Mentions: N-3, N-97, N-366
 
 
 Investigative Direction: Obtain the full leaked town hall video; verify the exact date, attendance count, and the specific X posts cited as grounds.
@@ -864,7 +864,7 @@ Claim Timestamp: 00:35:44
 Claim: Per a post on X by Mark Amodei that the host reads, on September 9 he was in a 12-hour House Appropriations Committee meeting and voting on the House floor, citing the public record.
 
 Anchored Artifacts: A-1564.1
-Mentions: N-364
+Mentions: N-363
 
 Related Nodes: N-10371
 
@@ -879,7 +879,7 @@ Claim Timestamp: 00:36:36
 Claim: Per Diligent Denizen's X post that the host reads, Mark Amodei was not present for roll call until the third meeting in mid-afternoon on September 9 in D.C.; the host says the record shows he missed two morning roll calls, while adding that she is still working to verify that.
 
 Anchored Artifacts: A-1565.1
-Mentions: N-364, N-366
+Mentions: N-363, N-365
 
 Related Nodes: N-10371
 
@@ -894,7 +894,7 @@ Claim Timestamp: 00:41:56 – 00:43:14
 Claim: The host says that after she sent Mitch a photograph of Cabot Phillips without contextual identification, Mitch identified him as a person he observed at Fort Huachuca on the morning of September 9.
 
 Anchored Artifacts: A-1566.1
-Mentions: N-362, N-365
+Mentions: N-361, N-364
 
 Related Nodes: N-10372
 
@@ -909,7 +909,7 @@ Claim Timestamp: 00:37:30
 Claim: The host says she was given the travel logs for Brian Harpole and that, per those logs, he definitively could have made it to the base for the early-morning Fort Huachuca meeting on September 9.
 
 Anchored Artifacts: A-1567.2
-Mentions: N-267
+Mentions: N-266
 
 Related Nodes: N-10370, N-10373
 
@@ -926,7 +926,7 @@ Claim Timestamp: 00:33:21 – 00:34:20
 Claim: The host reports that Mitch's reported access to Fort Huachuca base, his hotel booking at Candlewood Inn & Suites, and his NDA-related lawsuit paperwork have all been verified by the host's team.
 
 Anchored Artifacts: A-1567.1, A-1567.3
-Mentions: N-362
+Mentions: N-361
 
 Related Nodes: N-10370
 
@@ -943,7 +943,7 @@ Claim Timestamp: 00:40:44 – 00:45:06
 Claim: The host says someone told her it was going viral on X that Erika Kirk claimed she had not dated anyone before Charlie Kirk; the host says she knew Erika had dated someone before, and points to social-media activity between Erika and Cabot Phillips's family.
 
 Anchored Artifacts: None directly captured (Erika Kirk's original statement and the cited social-media evidence are referenced only secondhand; host says "I think we can show that" but the transcript captures no on-screen display).
-Mentions: N-2, N-365, N-1
+Mentions: N-2, N-364, N-1
 
 Related Nodes: N-10374
 
@@ -1039,7 +1039,7 @@ Claim: The host says she knew Ben Shapiro was working with Bari Weiss to put out
 Transcript Snippet: he was working with Bari Weiss to call and put an article out saying that the donors, the people on the board of TPUSA want Candace gone.
 
 Anchored Artifacts: 
-Mentions: N-97, N-279, N-3
+Mentions: N-97, N-278, N-3
 Related Nodes: N-10000
 Investigative Direction: Identify the Free Press or other article the host refers to and any TPUSA board or donor statement quoted in it.
 
@@ -1069,7 +1069,7 @@ Claim: The host says that when she saw the Mast remarks shared by Yashar Ali on 
 Transcript Snippet: I responded and I said that genocidal language, no matter who shares it, is always wrong.
 
 Anchored Artifacts: 
-Mentions: N-3, N-162, N-64
+Mentions: N-3, N-161, N-64
 Supports: C-3721
 Investigative Direction: Retrieve the host's reply tweet from November 2023 and compare its wording with the host's account and with Boreing's quoted tweets.
 
@@ -1227,7 +1227,7 @@ Claim: The host says Steven Crowder somehow got hold of the Jeremy Boreing town 
 Transcript Snippet: somehow Steven Crowder got a a hold of this week or last week or whatever.
 
 Anchored Artifacts: A-1563.1
-Mentions: N-260, N-367
+Mentions: N-259, N-366
 Supports: C-1982
 Investigative Direction: Locate Crowder's release of the video and the date it was posted; ask Crowder for the source.
 
@@ -1242,7 +1242,7 @@ Claim: In the replayed town hall video, Jeremy Boreing says Dave Rubin came to t
 Transcript Snippet: So when Dave Rubin came to the exact same conclusion as the anti-Semites only instead of cheering for Candace found it vile and rebuked her
 
 Anchored Artifacts: A-1563.1
-Mentions: N-367, N-32, N-3
+Mentions: N-366, N-32, N-3
 Investigative Direction: Retrieve the Rubin and host exchange on X from November 2023 and compare with Boreing's quoted text.
 
 ---
@@ -1256,7 +1256,7 @@ Claim: In the replayed town hall video, Jeremy Boreing says that within 24 hours
 Transcript Snippet: Within 24 hours Candace liked a post calling Israeli Prime Minister Benjamin Netanyahu a war criminal.
 
 Anchored Artifacts: A-1563.1
-Mentions: N-367, N-36, N-3
+Mentions: N-366, N-36, N-3
 Investigative Direction: Check the host's X likes history or archived copies for the November 2023 like cited by Boreing.
 
 ---
@@ -1270,7 +1270,7 @@ Claim: In the replayed town hall video, Jeremy Boreing says replies to the host'
 Transcript Snippet: Her replies were immediately flooded with anti-Semites cheering her for the question
 
 Anchored Artifacts: A-1563.1
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Investigative Direction: Review archived replies to the February 28, 2024 post to test the characterization.
 
 ---
@@ -1298,7 +1298,7 @@ Claim: The host says Boreing's presentation showed videos of Nick Fuentes unrela
 Transcript Snippet: I think only one time I'd spoken ever to Nick Fuentes. And it was pertaining to Kanye.
 
 Anchored Artifacts: A-1563.1
-Mentions: N-3, N-202, N-27
+Mentions: N-3, N-201, N-27
 Investigative Direction: Check the host's prior statements and any call or message records about contacts with Fuentes; review the Boreing video for the Fuentes segment.
 
 ---
@@ -1464,7 +1464,7 @@ Claim: The host says Ben Shapiro's father writes articles for the Daily Wire und
 Transcript Snippet: How many more articles is his father going to write under a pen name, Hank Berrien of the Daily Wire, under the pen name, Hank Berrien, as he wrote while Ben was at Breitbart
 
 Anchored Artifacts: 
-Mentions: N-97, N-718
+Mentions: N-97, N-716
 Investigative Direction: Compare Hank Berrien bylines at Breitbart and the Daily Wire with public statements by Shapiro or his father about the name.
 
 ---
@@ -1524,7 +1524,7 @@ Claim: The host says Ben Shapiro weaseled into the chair on Charlie Kirk's show 
 Transcript Snippet: weaseling your way into the chair when you weren't invited to go on there, but Matt Walsh was
 
 Anchored Artifacts: 
-Mentions: N-97, N-164, N-1
+Mentions: N-97, N-163, N-1
 Investigative Direction: Obtain the guest-host schedule and invitation records for the Charlie Kirk Show after September 2025.
 
 ---
@@ -1553,7 +1553,7 @@ Claim: The host says her team verified 1000 percent that Mitch was where he says
 Transcript Snippet: we verified 1000% that he was where he said he was, that the there was a meeting where he says that there was a meeting.
 
 Anchored Artifacts: 
-Mentions: N-3, N-362
+Mentions: N-3, N-361
 Related Nodes: N-10370, N-10326
 Supports: C-1971, C-1972
 Investigative Direction: Publish or show the verification documents for the meeting's occurrence; obtain independent corroboration.
@@ -1569,7 +1569,7 @@ Claim: The host says her team verified that Captain Neff was at the base, the on
 Transcript Snippet: We verified that Blake Neff, I mean sorry, not Blake Neff, pardon me, Captain Neff was there, the one that he says was nice, but he got questioned for a very long time and they wanted to hold him for 24 hours.
 
 Anchored Artifacts: 
-Mentions: N-3, N-320, N-362
+Mentions: N-3, N-319, N-361
 Related Nodes: N-10370
 Supports: C-1888, C-1907
 Investigative Direction: Obtain the incident report and any Army or Fort Huachuca record of Captain Adam Neff's posting and of Mitch's detention.
@@ -1585,7 +1585,7 @@ Claim: The host says everything else about Mitch's account is verified and that 
 Transcript Snippet: We are looking only for somebody to debunk those two aspects.
 
 Anchored Artifacts: 
-Mentions: N-3, N-362
+Mentions: N-3, N-361
 Related Nodes: N-10333, N-10370
 Qualifies: C-1987
 Investigative Direction: Track whether anyone comes forward on either point; the host separately says she cannot verify the people Mitch identified.
@@ -1601,7 +1601,7 @@ Claim: The host says she published a GiveSendGo fundraiser for Mitch at givesend
 Transcript Snippet: You can support Mitch at givesendgo. com/candacepodcast.
 
 Anchored Artifacts: A-2750.1
-Mentions: N-3, N-362
+Mentions: N-3, N-361
 Investigative Direction: Check the live fundraiser page for its creation time, stated purpose and totals.
 
 ---
@@ -1615,7 +1615,7 @@ Claim: The host says the call sign has been reported as SAM 702 or RCH 702 and t
 Transcript Snippet: Well, that's Vegas. 702 is Vegas.
 
 Anchored Artifacts: 
-Mentions: N-3, N-364
+Mentions: N-3, N-363
 Related Nodes: N-10370
 Supports: C-1906
 Investigative Direction: Obtain the flight-tracking records for the SAM or RCH 702 call sign and the aircraft's actual routing.
@@ -1631,7 +1631,7 @@ Claim: The host says Mark Amodei apparently received a ton of phone calls from c
 Transcript Snippet: Mark Amodei apparently received a ton of phone calls from his constituents who wanted to know where he was.
 
 Anchored Artifacts: 
-Mentions: N-364
+Mentions: N-363
 Related Nodes: N-10371
 Investigative Direction: Ask Amodei's office or local press whether constituent calls were received and what the office said.
 
@@ -1677,7 +1677,7 @@ Claim: In the post read aloud, Diligent Denizen says Amodei could have spent the
 Transcript Snippet: This means he could have spent the night in Arizona on September 8th, attended the morning meeting on the 9th and caught a military flight 3 to 4 hours away from the base
 
 Anchored Artifacts: A-1565.1
-Mentions: N-366, N-364
+Mentions: N-365, N-363
 Related Nodes: N-10371
 Supports: C-1984
 Investigative Direction: Verify Amodei's whereabouts the night of September 8 and any military flight manifests; the inference is Dennison's, not a record.
@@ -1693,7 +1693,7 @@ Claim: The host says she reached out to Brian Harpole twice by iMessage, knows t
 Transcript Snippet: I have now reached out to Brian Harpole twice.
 
 Anchored Artifacts: A-2751.1
-Mentions: N-3, N-267
+Mentions: N-3, N-266
 Related Nodes: N-10373
 Supports: C-1986
 Investigative Direction: Ask Harpole to confirm receipt; the messages are not shown.
@@ -1709,7 +1709,7 @@ Claim: The host says one person her team is vetting believes they have evidence 
 Transcript Snippet: There was one person who we are vetting who believes that they have evidence that the people that Mitch saw were in fact on that base on that date.
 
 Anchored Artifacts: 
-Mentions: N-3, N-362
+Mentions: N-3, N-361
 Related Nodes: N-10370
 Investigative Direction: Obtain the vetted person's evidence and the vetting results.
 
@@ -1724,7 +1724,7 @@ Claim: The host says she sent Mitch photos of congressmen without context, he re
 Transcript Snippet: And then we landed upon the Las Vegas congressman. We did not give him the name.
 
 Anchored Artifacts: 
-Mentions: N-3, N-362, N-364
+Mentions: N-3, N-361, N-363
 Related Nodes: N-10371
 Supports: C-1975
 Investigative Direction: Obtain the photo set and Mitch's messages showing the sequence of identifications.
@@ -1740,7 +1740,7 @@ Claim: The host says Mitch's identification of the Las Vegas congressman was mad
 Transcript Snippet: And of course, this was before we discovered the planes and the route to Las Vegas, so that was compelling.
 
 Anchored Artifacts: 
-Mentions: N-3, N-362, N-364
+Mentions: N-3, N-361, N-363
 Related Nodes: N-10370
 Supports: C-1975
 Investigative Direction: Compare timestamps of Mitch's identification with the date the host's team first posted or found the plane route.
@@ -1756,7 +1756,7 @@ Claim: The host says she remembers that Charlie Kirk told her about Cabot Philli
 Transcript Snippet: Yeah, I do remember that Charlie told me about Cabot Phillips dating a girl.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-365, N-2
+Mentions: N-3, N-1, N-364, N-2
 Related Nodes: N-10374
 Supports: C-1988
 Investigative Direction: Seek corroboration from people close to Charlie Kirk and Cabot Phillips for the relationship and its dates.
@@ -1787,7 +1787,7 @@ Claim: The host says Mitch kept saying the man he saw had a beard and was around
 Transcript Snippet: And he had a beard. And that was the thing that he kept saying to me is this guy had a beard. He's around 37.
 
 Anchored Artifacts: A-1566.1
-Mentions: N-3, N-362, N-365
+Mentions: N-3, N-361, N-364
 Related Nodes: N-10372
 Supports: C-1985
 Investigative Direction: Compare Phillips's appearance and age in September 2025 with Mitch's description; obtain Mitch's earlier written description.
@@ -1803,7 +1803,7 @@ Claim: The host says she messaged Cabot Phillips twice, asking for an off-the-re
 Transcript Snippet: I messaged Cabot Cabot Phillips twice today, actually, and asked him if he wanted to have an off-the-record conversation
 
 Anchored Artifacts: 
-Mentions: N-3, N-365
+Mentions: N-3, N-364
 Related Nodes: N-10372
 Investigative Direction: Ask Phillips to confirm receipt and to state his whereabouts on September 9, 2025.
 
@@ -1818,7 +1818,7 @@ Claim: The host says she checked and Cabot Phillips is missing from The Morning 
 Transcript Snippet: he is missing from September 4th to September 10th on that show.
 
 Anchored Artifacts: 
-Mentions: N-3, N-365
+Mentions: N-3, N-364
 Related Nodes: N-10372
 Investigative Direction: Review Morning Wire episode credits for September 2025 and note the host says he does not appear daily.
 
@@ -1833,7 +1833,7 @@ Claim: The host says she did not tell Mitch that Cabot Phillips was Erika Kirk's
 Transcript Snippet: I didn't say this is Erika's ex-boyfriend from 2017.
 
 Anchored Artifacts: 
-Mentions: N-3, N-365, N-2, N-362
+Mentions: N-3, N-364, N-2, N-361
 Related Nodes: N-10374
 Supports: C-1988
 Investigative Direction: Seek dated public posts or witnesses on the 2017 relationship; the host says the dating is not itself a problem.
@@ -1849,7 +1849,7 @@ Claim: The host says that, researching Phillips, she found a lot of information 
 Transcript Snippet: a pretty big guy, you know, uh taking a lot of money from the Adelsons, and definitely a neocon.
 
 Anchored Artifacts: 
-Mentions: N-3, N-365
+Mentions: N-3, N-364
 Investigative Direction: Identify the father by name and check funding records for the Adelson family; the host does not name him.
 
 ---
@@ -1863,7 +1863,7 @@ Claim: The host says the internet pulled up a caption reading that they are the 
 Transcript Snippet: There's a lot of social media activity between her and his family.
 
 Anchored Artifacts: A-2752.1
-Mentions: N-3, N-2, N-365
+Mentions: N-3, N-2, N-364
 Related Nodes: N-10374
 Supports: C-1988
 Investigative Direction: Obtain the original posts with account names and dates; the transcript captures only the caption text.
@@ -1879,7 +1879,7 @@ Claim: The host says Nicole Rothstein, whom she calls Erika's cousin, defended h
 Transcript Snippet: Nicole Rothstein was like, "I'm her cousin. She's half Jewish."
 
 Anchored Artifacts: A-2752.2
-Mentions: N-3, N-576, N-2
+Mentions: N-3, N-574, N-2
 Investigative Direction: Locate the comment and the account; confirm the kinship and whether the comment was posted by the person named.
 
 ---
@@ -1953,7 +1953,7 @@ Claim: The host says the investigation is open to tips and that she wants concre
 Transcript Snippet: that's why we open you guys to this investigation to send us tips
 
 Anchored Artifacts: A-2753.1
-Mentions: N-3, N-362
+Mentions: N-3, N-361
 Related Nodes: N-10370
 Investigative Direction: Track the volume and substance of tips received; the host asks for evidence about the morning of September 9, not character attacks on Mitch.
 
@@ -1982,7 +1982,7 @@ Claim: The host says one viewer emailed that they were at JTF that year and that
 Transcript Snippet: Oh, that year I was actually JTF, and he's absolutely telling the truth because of the horses.
 
 Anchored Artifacts: A-2754.1
-Mentions: N-3, N-362
+Mentions: N-3, N-361
 Related Nodes: N-10370
 Supports: C-1971
 Investigative Direction: Obtain the viewer's email and independent confirmation of a horse-riding training requirement at JTF Fort Huachuca and the general's name.
@@ -2216,7 +2216,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty / possible transcription error:** "Jeremy Boreing" (A-1563.1, N-367) – public-record name is Jeremy Boreing.
+- **Name uncertainty / possible transcription error:** "Jeremy Boreing" (A-1563.1, N-366) – public-record name is Jeremy Boreing.
 - **Artifact verbally referenced but not shown:** A-1566.1, A-1567.1, A-1567.2, A-1567.3.
 - **Transcript ambiguity:** The phrase "Uh yes, we're that couple who gets painting lessons together" (around 00:44:30) appears to be transcriptions of on-screen social media not fully captured in the transcript.
 - **Claim failed admission test (artifact anchor):** C-1988 – Erika Kirk's original statement and the supporting social-media evidence are referenced but not directly captured in the transcript as displayed artifacts; claim inscribed with flag for human verification.

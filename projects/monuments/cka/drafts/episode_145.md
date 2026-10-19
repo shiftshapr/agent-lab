@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 23bb408e2b2afb32cf5df1e5348b130e6dfd95e02867b817907272ad2bf41bed
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-931, N-932, N-11363
-  - Hole-minted Nodes (reintro-ep145): N-282, N-10885
+  - Tip-minted Nodes (supplement_2026-10f): N-928, N-929, N-11363
+  - Hole-minted Nodes (reintro-ep145): N-281, N-10885
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-13280–C-13345
-  - Reused Nodes Appearing: N-10814, N-10815, N-10816, N-18, N-22, N-30, N-58, N-118, N-155, N-156, N-179, N-191, N-376, N-487, N-662, N-874, N-930, N-10000, N-10024, N-10026, N-10235, N-10386, N-10661, N-10888, N-10900, N-11191, N-11195, N-11262
+  - Reused Nodes Appearing: N-10814, N-10815, N-10816, N-18, N-22, N-30, N-58, N-118, N-154, N-155, N-178, N-190, N-375, N-486, N-660, N-871, N-927, N-10000, N-10024, N-10026, N-10235, N-10386, N-10661, N-10888, N-10900, N-11191, N-11195, N-11262
  - New Nodes Introduced: N-10814, N-10815, N-10816
- - Reused Nodes Appearing: none (Wave 2: local ids removed), N-485
+ - Reused Nodes Appearing: none (Wave 2: local ids removed), N-484
  - (see registers)
 
 ---
@@ -450,7 +450,7 @@ Elon Musk; the host says he promoted Pounds in 2025.
 
 ---
 
-**N-155** John Mappin
+**N-154** John Mappin
 
 John Mappin; friend and supporter of the host, relayed the black propaganda description.
 
@@ -458,7 +458,7 @@ John Mappin; friend and supporter of the host, relayed the black propaganda desc
 
 ---
 
-**N-156** Irina Mappin
+**N-155** Irina Mappin
 
 Irina Mappin; friend and supporter of the host.
 
@@ -466,7 +466,7 @@ Irina Mappin; friend and supporter of the host.
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Blake Neff; the host says he is close friends with Sarah Rogers.
 
@@ -474,7 +474,7 @@ Blake Neff; the host says he is close friends with Sarah Rogers.
 
 ---
 
-**N-179** Jared Kushner
+**N-178** Jared Kushner
 
 Jared Kushner; the host says he was in Iceland weeks before her.
 
@@ -482,7 +482,7 @@ Jared Kushner; the host says he was in Iceland weeks before her.
 
 ---
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 Mikey McCoy; the host says the Mappins know him very well.
 
@@ -490,7 +490,7 @@ Mikey McCoy; the host says the Mappins know him very well.
 
 ---
 
-**N-282** Jennica Pounds
+**N-281** Jennica Pounds
 
 Jennica Pounds (Data Republican); the host details her background, thread and SGE status.
 
@@ -498,7 +498,7 @@ Jennica Pounds (Data Republican); the host details her background, thread and SG
 
 ---
 
-**N-376** Ryan Reynolds
+**N-375** Ryan Reynolds
 
 Ryan Reynolds; host's account of the Deadpool reshoot and pressure on Baldoni.
 
@@ -506,7 +506,7 @@ Ryan Reynolds; host's account of the Deadpool reshoot and pressure on Baldoni.
 
 ---
 
-**N-485** Blake Lively
+**N-484** Blake Lively
 
 Blake Lively; host's account of the Baldoni litigation.
 
@@ -514,7 +514,7 @@ Blake Lively; host's account of the Baldoni litigation.
 
 ---
 
-**N-486** Justin Baldoni
+**N-485** Justin Baldoni
 
 Justin Baldoni; host's airport encounter and account of the litigation.
 
@@ -522,7 +522,7 @@ Justin Baldoni; host's airport encounter and account of the litigation.
 
 ---
 
-**N-487** Taylor Swift
+**N-486** Taylor Swift
 
 Taylor Swift; referenced in the Baldoni litigation account.
 
@@ -530,7 +530,7 @@ Taylor Swift; referenced in the Baldoni litigation account.
 
 ---
 
-**N-662** Ivanka Trump
+**N-660** Ivanka Trump
 
 Ivanka Trump; the host says she was in Iceland weeks earlier.
 
@@ -538,7 +538,7 @@ Ivanka Trump; the host says she was in Iceland weeks earlier.
 
 ---
 
-**N-874** Britney Spears
+**N-871** Britney Spears
 
 Britney Spears; the host's comparison for media-driven breakdown.
 
@@ -642,7 +642,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-930** Rabbi Shmuley Boteach
+**N-927** Rabbi Shmuley Boteach
 
 First named by the host at 00:00:01 in episode 145 (as "Rabbi Shmuley").
 
@@ -659,7 +659,7 @@ Tax-resolution firm advertised in the sponsor read at 00:40:51 in episode 145.
 
 ---
 
-**N-931** Dan Steiner
+**N-928** Dan Steiner
 
 First named by the host at 00:25:04 in episode 145. President of Pre-Born, per the sponsor read.
 
@@ -667,7 +667,7 @@ First named by the host at 00:25:04 in episode 145. President of Pre-Born, per t
 
 ---
 
-**N-932** Sarah Rogers
+**N-929** Sarah Rogers
 
 First named by the host at 00:32:35 in episode 145. Under Secretary for Public Diplomacy at the State Department, whom the host says leaked to Jennica Pounds.
 
@@ -684,7 +684,7 @@ Claim Timestamp: 00:07:38
 Claim: Per the Mappins' October 6 article the host reads, Charlie Kirk's execution is "an assassination with potentially far-reaching political consequences for America and the world," the crime scene was "apparently completely destroyed in days," and convicting someone while doubt remains would be "anathema to all the teachings of Christ."
 
 Anchored Artifacts: A-2311.1
-Mentions: N-155, N-156, N-1
+Mentions: N-154, N-155, N-1
 Investigative Direction: Obtain the full October 6, 2025 article from its original publication venue; verify the quoted passages against the source.
 
 ---
@@ -696,7 +696,7 @@ Claim Timestamp: 00:08:27
 Claim: The host calls the Mappins' article "so powerful to reflect on and to reread."
 
 Anchored Artifacts: A-2311.1
-Mentions: N-3, N-155, N-156
+Mentions: N-3, N-154, N-155
 Investigative Direction: Compare the host's subsequent public statements to the Mappin article's framework for consistency.
 
 ---
@@ -708,7 +708,7 @@ Claim Timestamp: 00:13:27
 Claim: The host says she encountered Justin Baldoni, his wife, and two children at an Iceland airport while he was on a layover from Sweden; she shows an on-screen photograph of the encounter.
 
 Anchored Artifacts: A-2310.1
-Mentions: N-486
+Mentions: N-485
 Related Nodes:
 Investigative Direction: Independent corroboration of the encounter is achievable via flight manifests or third-party witnesses.
 
@@ -721,7 +721,7 @@ Claim Timestamp: 00:14:02
 Claim: The host says Justin Baldoni was on a layover from Sweden, where his wife is from, when she saw him at the Iceland airport.
 
 Anchored Artifacts: A-2310.1
-Mentions: N-486
+Mentions: N-485
 Related Nodes:
 Investigative Direction: Verify via flight records or independent statements from Baldoni or his representatives.
 
@@ -773,7 +773,7 @@ Claim Timestamp: 00:30:13
 Claim: The host says Jennica Pounds (@DataRepublican) posted an X thread showing the host and her audience 'in their own words' and arguing that people will eventually want to kill Erika Kirk, which Andrew Kolvet boosted.
 
 Anchored Artifacts: A-2313.1
-Mentions: N-282, N-2, N-3, N-14
+Mentions: N-281, N-2, N-3, N-14
 Related Nodes:
 Investigative Direction: Retrieve the full X thread directly from the platform; verify quoted content and amplification chain.
 
@@ -786,7 +786,7 @@ Claim Timestamp: 00:31:33
 Claim: Per Andrew Kolvet's post the host shows, Kolvet thanked Data Republican and wrote that her thread "exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika."
 
 Anchored Artifacts: A-2317.1
-Mentions: N-14, N-282, N-3, N-2
+Mentions: N-14, N-281, N-3, N-2
 Related Nodes: N-10814
 Investigative Direction: Retrieve the original Kolvet post; verify timestamp and current status (deleted vs. live).
 
@@ -799,7 +799,7 @@ Claim Timestamp: 00:31:33
 Claim: Per Bill Ackman's post the host shows, Ackman promoted Data Republican's thread three days later as "an important read on Charlie Kirk and Candace Owens."
 
 Anchored Artifacts: A-2316.1
-Mentions: N-1, N-37, N-282, N-3
+Mentions: N-1, N-37, N-281, N-3
 Related Nodes: N-10814
 Investigative Direction: Retrieve the specific Bill Ackman post; verify date and quoted text.
 
@@ -812,7 +812,7 @@ Claim Timestamp: 00:34:07
 Claim: Per Jennica Pounds's post the host reads, Pounds wrote, "I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way."
 
 Anchored Artifacts: A-2314.1
-Mentions: N-282
+Mentions: N-281
 Related Nodes: N-10814
 Investigative Direction: Retrieve the original X post; cross-reference against Department of Defense / Department of War SGE disclosures.
 
@@ -825,7 +825,7 @@ Claim Timestamp: 00:34:29
 Claim: Per a post the host reads, Jennica Pounds wrote that her Pentagon press credentials expired in June, that she did not seek to renew them, and that she no longer attends briefings as a journalist; the host adds this is because she is a Pentagon special government employee.
 
 Anchored Artifacts: A-2314.1
-Mentions: N-282
+Mentions: N-281
 Related Nodes: N-10814
 Investigative Direction: Retrieve the full quoted X post; verify against Pentagon press credential records.
 
@@ -838,7 +838,7 @@ Claim Timestamp: 00:33:25
 Claim: Per Blake Neff's post the host shows, Neff wrote "My friend Sarah Rogers is one of Charlie's favorite Trump nominees" and that she had been sworn in as Under Secretary for Public Diplomacy.
 
 Anchored Artifacts: A-2315.1
-Mentions: N-160, N-932, N-1
+Mentions: N-159, N-929, N-1
 Related Nodes:
 Investigative Direction: Retrieve the Blake Neff post directly; verify quoted text.
 
@@ -851,7 +851,7 @@ Claim Timestamp: 00:33:25
 Claim: Per Blake Neff's post the host reads, Sarah Rogers was confirmed a week earlier and sworn in the previous Friday as Under Secretary for Public Diplomacy at the State Department.
 
 Anchored Artifacts: A-2315.1
-Mentions: N-932, N-160
+Mentions: N-929, N-159
 Related Nodes:
 Investigative Direction: Cross-reference Senate confirmation records and State Department announcement archives.
 
@@ -864,7 +864,7 @@ Claim Timestamp: 00:32:35
 Claim: The host says Jennica Pounds got paranoid that leaked documents were a setup to charge her with a crime, and then revealed that Sarah Rogers, Under Secretary at the State Department, was leaking to her.
 
 Anchored Artifacts: A-2314.1
-Mentions: N-282, N-932
+Mentions: N-281, N-929
 Related Nodes: N-10814
 Investigative Direction: Retrieve the original Data Republican post in which the leak disclosure occurred; request comment from Sarah Rogers or the State Department.
 
@@ -890,7 +890,7 @@ Claim Timestamp: 00:17:34
 Claim: Per the CCRD filing by Blake Lively that the host reads, Jamie Heath approached Lively on set and began playing a video of a "fully nude woman with her legs spread apart," which Lively thought was pornography.
 
 Anchored Artifacts: A-2319.1
-Mentions: N-485
+Mentions: N-484
 Related Nodes:
 Investigative Direction: Obtain the full CCRD filing; verify the quoted passage in original context.
 
@@ -903,7 +903,7 @@ Claim Timestamp: 00:17:34
 Claim: Host asserts that further into the same filing, the video in question was identified as a birthing video shown to Lively to prepare her for a birthing scene.
 
 Anchored Artifacts: A-2319.1
-Mentions: N-485
+Mentions: N-484
 Related Nodes:
 Investigative Direction: Verify by reading the full CCRD filing; compare to subsequent court filings.
 
@@ -916,7 +916,7 @@ Claim Timestamp: 00:35:22
 Claim: The host says the narrative against her investigation into the Charlie Kirk assassination is, as she puts it, backed by the State Department (Sarah Rogers), the Department of War (Jennica Pounds), Blake Neff and Andrew Kolvet allies, and she guesses Bill Ackman may be funding Pounds.
 
 Anchored Artifacts: A-2313.1, A-2314.1, A-2315.1, A-2316.1, A-2317.1
-Mentions: N-14, N-1, N-37, N-160, N-932, N-282
+Mentions: N-14, N-1, N-37, N-159, N-929, N-281
 Related Nodes: N-10814
 Investigative Direction: Independently verify each component of the coordination claim; obtain responses from named individuals or their representatives; review FOIA disclosures for SGE activity at the Department of War.
 
@@ -929,7 +929,7 @@ Claim: The host says she saw Rabbi Shmuley, Ivanka Trump and Jared Kushner were 
 Transcript Snippet: I saw Rumpelstiltskin, known to some people as Rabbi Shmuley, up in Iceland as well as Ivanka and Jared Kushner just before we were going to go, a couple of weeks before
 
 Anchored Artifacts: 
-Mentions: N-930, N-662, N-179, N-3
+Mentions: N-927, N-660, N-178, N-3
 Tags: relevance:tangential
 Investigative Direction: Public posts, photos or Icelandic press placing Shmuley Boteach, Ivanka Trump and Jared Kushner in Iceland in the weeks before the episode.
 
@@ -977,7 +977,7 @@ Claim: The host says Iceland had effectively chased Rabbi Shmuley out of the cou
 Transcript Snippet: I was especially excited after they effectively chased Rabbi Shmuley out weeks earlier.
 
 Anchored Artifacts: 
-Mentions: N-930, N-3
+Mentions: N-927, N-3
 Supports: C-3256
 Tags: relevance:tangential
 Investigative Direction: The Iceland video of the confrontation with Shmuley Boteach and Icelandic news coverage of his visit and departure.
@@ -1008,7 +1008,7 @@ Claim: The host says she met her husband George at an event in London hosted by 
 Transcript Snippet: I met my husband rather serendipitously at an event hosted in London. I was with Charlie.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-30, N-155, N-156
+Mentions: N-3, N-1, N-30, N-154, N-155
 Tags: relevance:context
 Investigative Direction: Event listing or press for the May 2018 London appearance by Kirk and Owens hosted by the Mappins; Turning Point UK records.
 
@@ -1023,7 +1023,7 @@ Claim: The host says John and Irina Mappin helped bring Charlie Kirk and Turning
 Transcript Snippet: They helped to bring Charlie and Turning Point USA to the next level by making introductions for Charlie that I would say launched the organization into a different stratosphere financially.
 
 Anchored Artifacts: 
-Mentions: N-155, N-156, N-1
+Mentions: N-154, N-155, N-1
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Donor and introduction records for TPUSA in the Mappins' circle; the Mappins' own accounts of whom they introduced to Kirk.
@@ -1039,7 +1039,7 @@ Claim: The host says Charlie Kirk and Erika Kirk went to Israel together with Jo
 Transcript Snippet: the four of them went to Israel. Charlie and Erika and John and Arina went to Israel. They were invited by them to go.
 
 Anchored Artifacts: 
-Mentions: N-1, N-2, N-155, N-156
+Mentions: N-1, N-2, N-154, N-155
 Related Nodes: N-10026
 Tags: relevance:context
 Investigative Direction: Date and itinerary of the trip; Mappin or Kirk social posts, photographs or press about it.
@@ -1055,7 +1055,7 @@ Claim: The host says the Mappins know or knew Erika Kirk very well and know Mike
 Transcript Snippet: Uh they also know Mikey McCoy very well. They adore Mikey actually.
 
 Anchored Artifacts: 
-Mentions: N-155, N-156, N-191, N-2
+Mentions: N-154, N-155, N-190, N-2
 Tags: relevance:context
 Investigative Direction: Ask the Mappins to describe their relationship with Mikey McCoy and Erika Kirk; any joint events or correspondence.
 
@@ -1070,7 +1070,7 @@ Claim: The host says that on reflection she believes there was a very obvious an
 Transcript Snippet: there was a very obvious and intentional effort to drive me to the point of insanity
 
 Anchored Artifacts: 
-Mentions: N-3, N-874
+Mentions: N-3, N-871
 Tags: relevance:context
 Investigative Direction: Examples of coordinated media or influencer pressure on the host after September 2025; any documented funding or coordination behind it.
 
@@ -1100,7 +1100,7 @@ Claim: The host says John Mappin told her the campaign against her was a black p
 Transcript Snippet: John described to me was a black propaganda campaign.
 
 Anchored Artifacts: 
-Mentions: N-155, N-3
+Mentions: N-154, N-3
 Related Nodes: N-10814
 Tags: relevance:context
 Investigative Direction: Ask John Mappin to confirm the conversation and wording; compare with his published Mappin letter.
@@ -1116,7 +1116,7 @@ Claim: The host says donors have come to her in private and spoken about what th
 Transcript Snippet: donors have come to me in private and spoken about what they believed to be weird
 
 Anchored Artifacts: 
-Mentions: N-3, N-155, N-156
+Mentions: N-3, N-154, N-155
 Tags: relevance:context
 Investigative Direction: Identify the donors willing to confirm on the record; compare with the Mappin letter's claim that donors privately agree but fear speaking.
 
@@ -1177,7 +1177,7 @@ Claim: The host says she had never met or spoken to Justin Baldoni or his wife a
 Transcript Snippet: I've never met Justin. I've never spoken to him or his wife. I've never even tried to reach out to them even once.
 
 Anchored Artifacts: A-2310.1
-Mentions: N-3, N-486
+Mentions: N-3, N-485
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Baldoni and his representatives on prior contact; any prior communications between his team and the host's team.
@@ -1193,7 +1193,7 @@ Claim: The host says that when she interned at Glamour, a person she worked for 
 Transcript Snippet: she said Blake Lively was awful. It was like her least favorite person to work with.
 
 Anchored Artifacts: 
-Mentions: N-3, N-485
+Mentions: N-3, N-484
 Tags: relevance:tangential
 Investigative Direction: Identify the Glamour staffer and ask for confirmation; this is second-hand and unverified.
 
@@ -1208,7 +1208,7 @@ Claim: The host says Justin Baldoni read the book series, bought the rights to m
 Transcript Snippet: purchased the rights to create a film about the books using his movie studio
 
 Anchored Artifacts: 
-Mentions: N-486, N-485
+Mentions: N-485, N-484
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Rights purchase and production records for the film adaptation as filed in the litigation.
@@ -1224,7 +1224,7 @@ Claim: The host says that despite being cast as lead, Blake Lively saw herself i
 Transcript Snippet: Blake Lively sort of in her own head fancied herself as the writer. She sought to sort of edit the scripts.
 
 Anchored Artifacts: 
-Mentions: N-485, N-486
+Mentions: N-484, N-485
 Related Nodes: N-10661
 Supports: C-6926
 Tags: relevance:tangential
@@ -1241,7 +1241,7 @@ Claim: The host says the Lively side had the media power to push a New York Time
 Transcript Snippet: the New York Times just drops a hit piece and they're like, we will just me too you.
 
 Anchored Artifacts: 
-Mentions: N-485, N-486, N-376
+Mentions: N-484, N-485, N-375
 Related Nodes: N-10661
 Supports: C-6926
 Tags: relevance:tangential
@@ -1258,7 +1258,7 @@ Claim: The host says that in Blake Lively's implicit threat, if she did not get 
 Transcript Snippet: Taylor Swift is there that she doesn't get what she wants, she's going to release her dragons.
 
 Anchored Artifacts: 
-Mentions: N-485, N-487
+Mentions: N-484, N-486
 Tags: relevance:tangential
 Investigative Direction: The message in the litigation record that the host paraphrases; the exact wording and sender.
 
@@ -1273,7 +1273,7 @@ Claim: The host says Justin Baldoni was made to sit in the basement during the p
 Transcript Snippet: and them making Justin Baldoni sit in the basement during the premiere of his own movie because Blake said so and she didn't want to see him.
 
 Anchored Artifacts: 
-Mentions: N-486, N-485
+Mentions: N-485, N-484
 Supports: C-2882
 Tags: relevance:tangential
 Investigative Direction: Premiere seating accounts and the sources the host relies on; statements from attendees.
@@ -1289,7 +1289,7 @@ Claim: The host says Ryan Reynolds reshot Deadpool scenes to include a character
 Transcript Snippet: Ryan Reynolds then reshooting the scenes of Deadpool, incorporating a character that was supposed to be Justin Baldoni called Nicepool
 
 Anchored Artifacts: 
-Mentions: N-376, N-486
+Mentions: N-375, N-485
 Supports: C-2880
 Tags: relevance:tangential
 Investigative Direction: The released film and reshoot reporting; studio or crew statements on the character's origin.
@@ -1320,7 +1320,7 @@ Claim: The host says Justin Baldoni told her he never even watched the Deadpool 
 Transcript Snippet: he told me he never even watched the Deadpool movie or the scene
 
 Anchored Artifacts: 
-Mentions: N-486, N-3
+Mentions: N-485, N-3
 Supports: C-2880
 Tags: relevance:tangential
 Investigative Direction: Baldoni's own statements on the film; this is a private conversation reported by the host.
@@ -1336,7 +1336,7 @@ Claim: The host says Baldoni and his wife told her how grateful they were and ho
 Transcript Snippet: how close they were to hitting rock bottom
 
 Anchored Artifacts: 
-Mentions: N-486, N-3
+Mentions: N-485, N-3
 Tags: relevance:tangential
 Investigative Direction: Baldoni's own public statements; this is a private conversation reported by the host.
 
@@ -1351,7 +1351,7 @@ Claim: The host says Justin Baldoni told her he does not actually drink kombucha
 Transcript Snippet: He doesn't actually drink kombucha. He's not a big kombucha drinker.
 
 Anchored Artifacts: 
-Mentions: N-486, N-3
+Mentions: N-485, N-3
 Tags: relevance:tangential
 Investigative Direction: Baldoni's public statements about kombucha; this is a private conversation reported by the host.
 
@@ -1366,7 +1366,7 @@ Claim: The host says Baldoni was up against an established power including the N
 Transcript Snippet: he was up against an established power. I mean, it was the New York Times. It was WME.
 
 Anchored Artifacts: 
-Mentions: N-486, N-487
+Mentions: N-485, N-486
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Litigation and press records identifying the PR and agency actors and any role attributed to Taylor Swift.
@@ -1382,7 +1382,7 @@ Claim: In the sponsor read, the host says Pre-Born president Dan Steiner reports
 Transcript Snippet: more than 50,000 babies have been saved from abortion
 
 Anchored Artifacts: A-3257.1
-Mentions: N-931
+Mentions: N-928
 Related Nodes: N-11191
 Tags: relevance:tangential
 Investigative Direction: Pre-Born's own reporting; this is a sponsor claim.
@@ -1398,7 +1398,7 @@ Claim: In the sponsor read, the host says it costs $28 to provide one ultrasound
 Transcript Snippet: It costs just $28 to provide one life-saving ultrasound and $15,000 can place an ultrasound machine in a pregnancy clinic
 
 Anchored Artifacts: A-3257.1
-Mentions: N-931
+Mentions: N-928
 Related Nodes: N-11191
 Supports: C-9809
 Tags: relevance:tangential
@@ -1479,7 +1479,7 @@ Claim: The host says the NCRI report was mysteriously expanded upon by Jennica P
 Transcript Snippet: this report on the first day. And then we have this report being mysteriously expanded upon by a woman named Jennica Pounds
 
 Anchored Artifacts: A-2313.1
-Mentions: N-282
+Mentions: N-281
 Related Nodes: N-10815
 Tags: relevance:context
 Investigative Direction: Timestamps of the NCRI report and Pounds' thread, and any contact between the two.
@@ -1495,7 +1495,7 @@ Claim: The host says Jennica Pounds is a Utah software engineer, and shows a pho
 Transcript Snippet: Jennica Pounds is a Utah software engineer
 
 Anchored Artifacts: A-3258.1
-Mentions: N-282
+Mentions: N-281
 Tags: relevance:context
 Investigative Direction: Pounds' public profile and employment history; Utah residence records are not needed beyond her own statements.
 
@@ -1510,7 +1510,7 @@ Claim: The host says Elon Musk promoted Jennica Pounds in 2025, which raised her
 Transcript Snippet: Elon Musk promotes her in 2025
 
 Anchored Artifacts: 
-Mentions: N-282, N-118
+Mentions: N-281, N-118
 Tags: relevance:context
 Investigative Direction: Musk's 2025 posts about Data Republican.
 
@@ -1525,7 +1525,7 @@ Claim: The host says Pounds' thread was instantly retweeted by Andrew Kolvet, an
 Transcript Snippet: the narrative that was seeded. Instantly retweeted by Andrew Kolvet. You're supposed to think he has nothing to do with this, right?
 
 Anchored Artifacts: A-2313.1
-Mentions: N-14, N-282
+Mentions: N-14, N-281
 Supports: C-3334
 Tags: relevance:core
 Investigative Direction: Timestamps for the Pounds thread and Kolvet's repost; any direct messages between them.
@@ -1541,7 +1541,7 @@ Claim: The host says Pounds' long thread showed examples of the host's audience 
 Transcript Snippet: So you can see how long this thread is, how deep she went into the 30-06 stuff
 
 Anchored Artifacts: A-2313.1
-Mentions: N-282, N-2, N-3
+Mentions: N-281, N-2, N-3
 Tags: relevance:context
 Investigative Direction: The full thread: which accounts it quotes, whether any are verifiable threats, and whether any are linked to the Pentagon.
 
@@ -1556,7 +1556,7 @@ Claim: The host says Bill Ackman promoted Data Republican's work about three day
 Transcript Snippet: oh actually 3 days later, um Bill Ackman promotes Data Republican.
 
 Anchored Artifacts: A-2316.1
-Mentions: N-37, N-282
+Mentions: N-37, N-281
 Supports: C-3335
 Tags: relevance:core
 Investigative Direction: Post dates for the Pounds thread and Ackman's repost.
@@ -1572,7 +1572,7 @@ Claim: The host says Pounds got paranoid that documents State Department officia
 Transcript Snippet: she thought that she was being set up. That they were leaking her documents so that they could charge her with a crime.
 
 Anchored Artifacts: 
-Mentions: N-282, N-932
+Mentions: N-281, N-929
 Related Nodes: N-10814
 Supports: C-3340
 Tags: relevance:core
@@ -1589,7 +1589,7 @@ Claim: The host says Sarah Rogers is close friends with Blake Neff, and shows a 
 Transcript Snippet: Sarah Rogers just happens to be besties with Blake Neff.
 
 Anchored Artifacts: A-3259.1
-Mentions: N-932, N-160
+Mentions: N-929, N-159
 Supports: C-3338
 Tags: relevance:core
 Investigative Direction: Neff's own post calling her his friend, and the photograph shown; their public association.
@@ -1605,7 +1605,7 @@ Claim: The host concludes, from Blake Neff's post about Sarah Rogers, that Turni
 Transcript Snippet: So, now we realize that Turning Point USA is working with the State Department.
 
 Anchored Artifacts: A-2315.1
-Mentions: N-160, N-932
+Mentions: N-159, N-929
 Related Nodes: N-10000, N-10814
 Supports: C-3344
 Tags: relevance:core
@@ -1622,7 +1622,7 @@ Claim: The host says Pounds had been working for the Pentagon since July and was
 Transcript Snippet: The very week that they came after me, she was working as a special government employee.
 
 Anchored Artifacts: A-2314.1
-Mentions: N-282
+Mentions: N-281
 Related Nodes: N-10885, N-10888
 Supports: C-3336
 Tags: relevance:core
@@ -1639,7 +1639,7 @@ Claim: The host says Pounds also set up an institute for herself and says somebo
 Transcript Snippet: Apparently, she also set up an institute for herself, so somebody should look into who's funding her.
 
 Anchored Artifacts: 
-Mentions: N-282
+Mentions: N-281
 Tags: relevance:context
 Investigative Direction: Incorporation and tax filings for the institute.
 
@@ -1654,7 +1654,7 @@ Claim: The host guesses that Bill Ackman may be cutting a check somewhere in the
 Transcript Snippet: make a guess that Bill Ackman maybe is cutting a check somewhere somehow in the background of this
 
 Anchored Artifacts: 
-Mentions: N-37, N-282
+Mentions: N-37, N-281
 Tags: relevance:context
 Investigative Direction: Donor and funding disclosures for any Pounds-linked institute; no evidence is offered in the episode.
 

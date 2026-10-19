@@ -147,7 +147,7 @@
             "C-4615"
           ],
           "related_nodes": [
-            "N-684",
+            "N-682",
             "N-10678"
           ],
           "tags": [],
@@ -173,9 +173,9 @@
             "C-4628"
           ],
           "related_nodes": [
-            "N-209",
+            "N-208",
             "N-7",
-            "N-191"
+            "N-190"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -195,7 +195,7 @@
           "related_nodes": [
             "N-46",
             "N-7",
-            "N-685"
+            "N-683"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -441,8 +441,8 @@
             "C-4652"
           ],
           "related_nodes": [
-            "N-415",
-            "N-411"
+            "N-414",
+            "N-410"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -771,8 +771,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Host says he called his mother and not 911.",
@@ -789,8 +789,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host says he walked away and called his wife, not Erika Kirk or 911; named as \"Mike\" in the Jack Hibbs clip.",
@@ -810,8 +810,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-209",
-      "ref": "N-209",
+      "@id": "N-208",
+      "ref": "N-208",
       "name": "Jack Hibbs",
       "type": "person",
       "description": "Pastor whose interview with Frank Turek the host says disrupted Turek's FaceTime account.",
@@ -829,8 +829,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-210",
-      "ref": "N-210",
+      "@id": "N-209",
+      "ref": "N-209",
       "name": "Joe Kent",
       "type": "person",
       "description": "Host says TPUSA suggested he passed her the leaked messages.",
@@ -846,8 +846,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-262",
-      "ref": "N-262",
+      "@id": "N-261",
+      "ref": "N-261",
       "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Transcript spellings \"Terryl\", \"Taral\" and \"Terryl Farnsworth\". Removed the SD card from the camera behind Charlie Kirk's head; seen in the background of Erika Kirk's Zoom call.",
@@ -867,8 +867,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Interviewer to whom Erika Kirk said she believes Tyler Robinson acted alone.",
@@ -884,8 +884,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-411",
-      "ref": "N-411",
+      "@id": "N-410",
+      "ref": "N-410",
       "name": "Zachariah Qureshi",
       "type": "person",
       "description": "Transcript spellings \"Zachariah Qureshi\" and \"Sam Qureshi\"; \"decoy boy number two.\" Long-time friend of Connor Henderson.",
@@ -904,8 +904,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-415",
-      "ref": "N-415",
+      "@id": "N-414",
+      "ref": "N-414",
       "name": "Connor Henderson",
       "type": "person",
       "description": "Transcript spelling also \"Conor\". The host says he interned in the Timpanogos emergency department.",
@@ -924,8 +924,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-683",
-      "ref": "N-683",
+      "@id": "N-681",
+      "ref": "N-681",
       "name": "Don Porter",
       "type": "person",
       "description": "First named by the host at 00:02:16 in episode 116. Friend of Corey Comperatore whose leads the host credits for her prior Butler episode.",
@@ -941,8 +941,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-684",
-      "ref": "N-684",
+      "@id": "N-682",
+      "ref": "N-682",
       "name": "Jon Bray",
       "type": "person",
       "description": "First named by the host at 00:03:00 in episode 116. X user the host credits with first positing the exploding-microphone theory. Aliases: John Braden; John Blake.",
@@ -962,8 +962,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-685",
-      "ref": "N-685",
+      "@id": "N-683",
+      "ref": "N-683",
       "name": "Spencer (Frank Turek's son)",
       "type": "person",
       "description": "First named at 00:37:19 in episode 116, in Frank Turek's Megyn Kelly clip. The 35-year-old son Turek says he was FaceTiming during the event.",
@@ -1711,7 +1711,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-262",
+        "N-261",
         "N-10000"
       ]
     },
@@ -1816,7 +1816,7 @@
       "investigative_direction": "Confirm Don Porter's relationship to Corey Comperatore and review the materials he provided.",
       "transcript_snippet": "It was Corey Comparators a friend who refused to let the circumstances go regarding the Butler assassination. He's actually the one that reached out to me and put together various pieces and leads for me to chase down.",
       "mentions_person_refs": [
-        "N-683",
+        "N-681",
         "N-105",
         "N-3"
       ]
@@ -1837,7 +1837,7 @@
       "investigative_direction": "Locate Jon Bray's X posts on the theory and their earliest dates.",
       "transcript_snippet": "It was a theory that was at first posited by an ex-user named John Bray and you should go down that rabbit hole. He has done so much work on this. Really truly he has worked on this since September.",
       "mentions_person_refs": [
-        "N-684",
+        "N-682",
         "N-1",
         "N-3"
       ]
@@ -1919,7 +1919,7 @@
       "investigative_direction": "Consult explosives experts on whether a microphone-sized shaped charge could produce the observed wound.",
       "transcript_snippet": "This would be what is known as a shaped charge. I've learned this recently, and John Braden was trying to explain it to me on X",
       "mentions_person_refs": [
-        "N-684",
+        "N-682",
         "N-1"
       ]
     },
@@ -2079,7 +2079,7 @@
       "investigative_direction": "Obtain Terryl Farnsworth's statements on when and with whom he discussed the footage.",
       "transcript_snippet": "it is now very compelling to me that Terryl says he spoke to Erika about that footage.",
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-2",
         "N-1"
       ]
@@ -2102,7 +2102,7 @@
         "C-2220"
       ],
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-2",
         "N-1"
       ]
@@ -2182,7 +2182,7 @@
       "investigative_direction": "Establish who instructed the SD card removal and its chain of custody.",
       "transcript_snippet": "why Terryl Farnsworth was instructed specifically to take the SD card from the camera that was behind Charlie's head",
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-1"
       ]
     },
@@ -2201,7 +2201,7 @@
       "investigative_direction": "Obtain the original SD card file and compare its frame with what was shown to the host.",
       "transcript_snippet": "I think you are correct that he zoomed in on that that footage because it would have showed us more.",
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-3"
       ]
     },
@@ -2223,7 +2223,7 @@
       "investigative_direction": "Have the SUV shards forensically analyzed or obtain any FBI evidence log of debris recovered from the vehicle.",
       "transcript_snippet": "he said that my video was the missing piece to his theory that he was looking for what would have been shards of the ABS plastic that is used on the road bike.",
       "mentions_person_refs": [
-        "N-684",
+        "N-682",
         "N-3",
         "N-1"
       ]
@@ -2304,7 +2304,7 @@
       "investigative_direction": "Collect TPUSA staff statements attributing the leak to Joe Kent.",
       "transcript_snippet": "What was the response from Turning Point? To be angry and to suggest that it came from Joe Kent. That Joe Kent sent me the messages and I published them.",
       "mentions_person_refs": [
-        "N-210",
+        "N-209",
         "N-3"
       ]
     },
@@ -2342,7 +2342,7 @@
       "investigative_direction": "Review the CBS town hall transcript for the exact question and answer.",
       "transcript_snippet": "Bari Weiss, do you believe it? Yes. Do you believe Tyler Robinson actually alone? Yes, I do. That's what she said.",
       "mentions_person_refs": [
-        "N-279",
+        "N-278",
         "N-2",
         "N-40"
       ]
@@ -2461,7 +2461,7 @@
         "C-2294"
       ],
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-2"
       ]
     },
@@ -2480,8 +2480,8 @@
       "investigative_direction": "Obtain Blake Neff's call log and 911 dispatch logs for the event.",
       "transcript_snippet": "And Blake Neff didn't call 911. He called his mother.",
       "mentions_person_refs": [
-        "N-160",
-        "N-191"
+        "N-159",
+        "N-190"
       ]
     },
     {
@@ -2502,7 +2502,7 @@
       "transcript_snippet": "was that he was on the phone FaceTiming his 35-year-old son.",
       "mentions_person_refs": [
         "N-7",
-        "N-685",
+        "N-683",
         "N-1"
       ]
     },
@@ -2524,9 +2524,9 @@
       "investigative_direction": "Compare Turek's carrier records for incoming calls with the FaceTime session duration.",
       "transcript_snippet": "Okay, then I got the first call from Mike cuz I was in the >> emergency room after we got Charlie there.",
       "mentions_person_refs": [
-        "N-209",
+        "N-208",
         "N-7",
-        "N-191",
+        "N-190",
         "N-1"
       ]
     },
@@ -2549,7 +2549,7 @@
       "mentions_person_refs": [
         "N-7",
         "N-46",
-        "N-685",
+        "N-683",
         "N-1"
       ]
     },
@@ -2588,7 +2588,7 @@
       "investigative_direction": "Request TPUSA's streaming platform logs for the September 10 event.",
       "transcript_snippet": "I've asked people at Turning Point USA, \"Do you remember seeing this live stream?\" Thus far, no one has confirmed watching this live stream at the office.",
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-1"
       ]
     },
@@ -2996,8 +2996,8 @@
         "C-2634"
       ],
       "mentions_person_refs": [
-        "N-415",
-        "N-411"
+        "N-414",
+        "N-410"
       ]
     },
     {
@@ -3021,8 +3021,8 @@
         "C-2638"
       ],
       "mentions_person_refs": [
-        "N-411",
-        "N-415"
+        "N-410",
+        "N-414"
       ]
     }
   ],

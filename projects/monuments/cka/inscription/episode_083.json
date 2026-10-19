@@ -350,9 +350,9 @@
             "C-12793"
           ],
           "related_nodes": [
-            "N-269",
+            "N-268",
             "N-40",
-            "N-210"
+            "N-209"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -403,9 +403,9 @@
             "C-12814"
           ],
           "related_nodes": [
-            "N-914",
+            "N-911",
             "N-69",
-            "N-915"
+            "N-912"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -793,8 +793,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -814,8 +814,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-210",
-      "ref": "N-210",
+      "@id": "N-209",
+      "ref": "N-209",
       "name": "Joe Kent",
       "type": "person",
       "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
@@ -837,8 +837,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-213",
-      "ref": "N-213",
+      "@id": "N-212",
+      "ref": "N-212",
       "name": "Alexis Wilkins",
       "type": "person",
       "description": "Country-music artist referenced as Kash Patel's girlfriend and as a member of Calvary Chapel Church in Chino Hills, California. Subject of Tim Dillon comedy segment.",
@@ -869,8 +869,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-218",
-      "ref": "N-218",
+      "@id": "N-217",
+      "ref": "N-217",
       "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Joined Maine vacation; final-footage context.",
@@ -970,8 +970,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-187",
-      "ref": "N-187",
+      "@id": "N-186",
+      "ref": "N-186",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "Stacy Sheridan; the host reports her whereabouts on September 10 and calls for sightings.",
@@ -989,8 +989,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-227",
+      "ref": "N-227",
       "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Allie Beth Stuckey; replied to the host's tweet on Catholic growth.",
@@ -1006,8 +1006,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-269",
-      "ref": "N-269",
+      "@id": "N-268",
+      "ref": "N-268",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Joe Rogan; the host plays a clip of his conversation.",
@@ -1027,8 +1027,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-490",
-      "ref": "N-490",
+      "@id": "N-489",
+      "ref": "N-489",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Lori Frantzve; Erika's mother, whom the host appears to mean by the Lori alibi.",
@@ -1044,8 +1044,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-495",
-      "ref": "N-495",
+      "@id": "N-494",
+      "ref": "N-494",
       "name": "\"Frank\" (TPUSA General Counsel)",
       "type": "person",
       "description": "Frank, TPUSA general counsel; reached by Elizabeth McCoy in the office.",
@@ -1062,8 +1062,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-582",
-      "ref": "N-582",
+      "@id": "N-580",
+      "ref": "N-580",
       "name": "Thomas Massie",
       "type": "person",
       "description": "Thomas Massie; the host says he fought for the Epstein files release.",
@@ -1079,8 +1079,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-600",
-      "ref": "N-600",
+      "@id": "N-598",
+      "ref": "N-598",
       "name": "Katherine Locastro",
       "type": "person",
       "description": "Katherine LoCastro; Mikey McCoy's assistant who travelled to Utah in the party.",
@@ -1098,8 +1098,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-627",
-      "ref": "N-627",
+      "@id": "N-625",
+      "ref": "N-625",
       "name": "Vladimir Putin",
       "type": "person",
       "description": "Vladimir Putin; the host mocks the thread's claim that he is behind the campaign.",
@@ -1116,8 +1116,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-650",
-      "ref": "N-650",
+      "@id": "N-648",
+      "ref": "N-648",
       "name": "Alexander Dugin",
       "type": "person",
       "description": "Alexander Dugin; mentioned in the Wilkins thread per the host.",
@@ -1573,8 +1573,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-914",
-      "ref": "N-914",
+      "@id": "N-911",
+      "ref": "N-911",
       "name": "Michael Flynn",
       "type": "person",
       "description": "First named by the host as General Michael Flynn at 00:30:42 in episode 083. Retired general named as an anchor in the Wilkins thread and as a speaker at the Catholics for Catholics event.",
@@ -1593,8 +1593,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-915",
-      "ref": "N-915",
+      "@id": "N-912",
+      "ref": "N-912",
       "name": "Clay Clark",
       "type": "person",
       "description": "First named in a viewer comment at 00:50:53 in episode 083, as organizer of the Awaken America Tours with whom Flynn and Patel appeared.",
@@ -1683,7 +1683,7 @@
       "investigative_direction": "Cross-reference the livestream timestamps with airport manifests and TPUSA communications logs.",
       "mentions_person_refs": [
         "N-3",
-        "N-214",
+        "N-213",
         "N-14"
       ]
     },
@@ -1703,7 +1703,7 @@
       "claim_timestamp": "00:11:23",
       "investigative_direction": "Compare McCoy's account with phone records and call detail records from Mikey McCoy's device.",
       "mentions_person_refs": [
-        "N-218"
+        "N-217"
       ]
     },
     {
@@ -1720,8 +1720,8 @@
       "claim_timestamp": "00:12:45",
       "investigative_direction": "Obtain phone records for Mikey McCoy's device and confirm the call sequence and participants.",
       "mentions_person_refs": [
-        "N-218",
-        "N-191",
+        "N-217",
+        "N-190",
         "N-2"
       ]
     },
@@ -1739,7 +1739,7 @@
       "claim_timestamp": "00:14:00",
       "investigative_direction": "Confirm via Lauren Tonchech or vehicle records; cross-check with airport arrival records.",
       "mentions_person_refs": [
-        "N-218"
+        "N-217"
       ]
     },
     {
@@ -1759,7 +1759,7 @@
       "claim_timestamp": "00:14:00",
       "investigative_direction": "Obtain independent witness sightings or surveillance/phone-location data for September 10.",
       "mentions_person_refs": [
-        "N-187"
+        "N-186"
       ]
     },
     {
@@ -1776,8 +1776,8 @@
       "claim_timestamp": "00:18:43",
       "investigative_direction": "Cross-reference with Andrew Kolvet's account and hospital visitor logs.",
       "mentions_person_refs": [
-        "N-218",
-        "N-191",
+        "N-217",
+        "N-190",
         "N-2",
         "N-14"
       ]
@@ -1820,9 +1820,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-22",
-        "N-213",
-        "N-210",
-        "N-914"
+        "N-212",
+        "N-209",
+        "N-911"
       ]
     },
     {
@@ -1842,7 +1842,7 @@
       "investigative_direction": "Review Candace Owens's posts and public statements from September 10–11, 2025, for any direct attribution and naming.",
       "mentions_person_refs": [
         "N-3",
-        "N-213",
+        "N-212",
         "N-1",
         "N-2"
       ]
@@ -1863,8 +1863,8 @@
       "claim_timestamp": "00:32:58",
       "investigative_direction": "Verify General Flynn's role as listed at Catholics for Catholics and the basis for the activation claim.",
       "mentions_person_refs": [
-        "N-213",
-        "N-914"
+        "N-212",
+        "N-911"
       ]
     },
     {
@@ -1883,7 +1883,7 @@
       "claim_timestamp": "00:33:48",
       "investigative_direction": "Verify RT coverage and assess whether RT retweets constitute evidence of foreign coordination.",
       "mentions_person_refs": [
-        "N-213"
+        "N-212"
       ]
     },
     {
@@ -1903,7 +1903,7 @@
       "investigative_direction": "Compare thread text to Candace's on-air and posted statements from September 10–11, 2025.",
       "mentions_person_refs": [
         "N-3",
-        "N-213",
+        "N-212",
         "N-1",
         "N-2"
       ]
@@ -1924,8 +1924,8 @@
       "claim_timestamp": "00:35:30",
       "investigative_direction": "Verify the cited Russia Today coverage and assess the inferential link.",
       "mentions_person_refs": [
-        "N-213",
-        "N-210"
+        "N-212",
+        "N-209"
       ]
     },
     {
@@ -1944,7 +1944,7 @@
       "claim_timestamp": "00:39:43",
       "investigative_direction": "Verify via direct archive of the thread's early engagement.",
       "mentions_person_refs": [
-        "N-213"
+        "N-212"
       ]
     },
     {
@@ -2027,7 +2027,7 @@
       "claim_timestamp": "00:42:00",
       "investigative_direction": "Verify via Twitter/X archive of @AllieStuckey tweets from the cited period.",
       "mentions_person_refs": [
-        "N-228",
+        "N-227",
         "N-3"
       ]
     },
@@ -2327,7 +2327,7 @@
       "investigative_direction": "Check public marriage or business records for Elizabeth McCoy's maiden name.",
       "transcript_snippet": "Elizabeth Kravchuk McCoy. That's her maiden name Kravchuk McCoy our Ukrainian.",
       "mentions_person_refs": [
-        "N-218",
+        "N-217",
         "N-3"
       ]
     },
@@ -2352,7 +2352,7 @@
         "C-2562"
       ],
       "mentions_person_refs": [
-        "N-218",
+        "N-217",
         "N-3"
       ]
     },
@@ -2377,8 +2377,8 @@
         "C-2563"
       ],
       "mentions_person_refs": [
-        "N-191",
-        "N-218",
+        "N-190",
+        "N-217",
         "N-2",
         "N-1",
         "N-7",
@@ -2400,8 +2400,8 @@
       "investigative_direction": "Locate video or a transcript of Charlie Kirk's speech at the McCoy wedding.",
       "transcript_snippet": "it was an arranged marriage if Charlie is to be believed he said that in their speech in his speech at their wedding",
       "mentions_person_refs": [
-        "N-191",
-        "N-218",
+        "N-190",
+        "N-217",
         "N-1"
       ]
     },
@@ -2428,8 +2428,8 @@
         "C-2562"
       ],
       "mentions_person_refs": [
-        "N-218",
-        "N-495",
+        "N-217",
+        "N-494",
         "N-15",
         "N-3"
       ]
@@ -2453,7 +2453,7 @@
       "investigative_direction": "Obtain building access records and staff accounts of who was in the Turning Point Action building at 12:23 p.m. MST.",
       "transcript_snippet": "Frank and Justin then run to the Turning Point Action building.",
       "mentions_person_refs": [
-        "N-495",
+        "N-494",
         "N-15",
         "N-3"
       ]
@@ -2475,7 +2475,7 @@
       "investigative_direction": "Confirm through lease or building contacts when Sheridan moved in, without publishing addresses.",
       "transcript_snippet": "Stacey Sheridan lives with Erika and Charlie the same apartment complex not in the same apartment units",
       "mentions_person_refs": [
-        "N-187",
+        "N-186",
         "N-2",
         "N-1",
         "N-3"
@@ -2568,7 +2568,7 @@
       "investigative_direction": "Obtain FBO sign-in records and airport security video showing arrival order at the Scottsdale airport.",
       "transcript_snippet": "she receives the phone call that Charlie did not make it. She alleges that for whatever reason she beats Erika to the airport",
       "mentions_person_refs": [
-        "N-218",
+        "N-217",
         "N-2",
         "N-1",
         "N-3"
@@ -2621,8 +2621,8 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-187",
-        "N-218",
+        "N-186",
+        "N-217",
         "N-3"
       ]
     },
@@ -2650,7 +2650,7 @@
         "C-12775"
       ],
       "mentions_person_refs": [
-        "N-218",
+        "N-217",
         "N-2",
         "N-1",
         "N-3"
@@ -2699,8 +2699,8 @@
       "investigative_direction": "Obtain the passenger manifest of the aircraft that carried Erika's party to Provo.",
       "transcript_snippet": "her name is Katherine LoCastro she was a part of the team that transported Erika to the airport on that day and she also went out to Utah",
       "mentions_person_refs": [
-        "N-600",
-        "N-191",
+        "N-598",
+        "N-190",
         "N-2",
         "N-3"
       ]
@@ -2754,9 +2754,9 @@
         "C-9935"
       ],
       "mentions_person_refs": [
-        "N-600",
-        "N-218",
-        "N-191",
+        "N-598",
+        "N-217",
+        "N-190",
         "N-14",
         "N-3"
       ]
@@ -2781,8 +2781,8 @@
       "investigative_direction": "Establish who held custody of the vehicle at the hospital and whether anyone was allowed inside it.",
       "transcript_snippet": "they sent Katherine who like I said sounds like she's quite innocent she's well liked I can say that at least to grab something from the car the car that Charlie bled out in bloodied car",
       "mentions_person_refs": [
-        "N-600",
-        "N-218",
+        "N-598",
+        "N-217",
         "N-1",
         "N-3"
       ]
@@ -2807,7 +2807,7 @@
       "investigative_direction": "Trace Elizabeth McCoy's movements and purchases after leaving the hospital on September 10, 2025.",
       "transcript_snippet": "Elizabeth left the hospital and went to then gather the items for everyone to stay overnight since they did not pack any bags. This is where the aloe story comes in.",
       "mentions_person_refs": [
-        "N-218",
+        "N-217",
         "N-3"
       ]
     },
@@ -3012,7 +3012,7 @@
       "investigative_direction": "Locate the full Rogan episode and check the speaker attribution for the played segment.",
       "transcript_snippet": "Joe Rogan, as I told you, uh similarly has weighed into this and I missed this part where he specifically spoke about the uh Superman neck theory.",
       "mentions_person_refs": [
-        "N-269",
+        "N-268",
         "N-3",
         "N-1"
       ]
@@ -3036,7 +3036,7 @@
       "investigative_direction": "Compare against the autopsy and ballistics findings on wound path and exit.",
       "transcript_snippet": "That's a round you can kill a moose with.",
       "mentions_person_refs": [
-        "N-269",
+        "N-268",
         "N-1"
       ]
     },
@@ -3060,8 +3060,8 @@
       "investigative_direction": "Check Joe Kent's resignation letter and public statements on any instruction to stop investigating.",
       "transcript_snippet": "He said that they were told to stop their investigation. Yeah. >> And that they were going to handle it. And he just resigned.",
       "mentions_person_refs": [
-        "N-269",
-        "N-210"
+        "N-268",
+        "N-209"
       ]
     },
     {
@@ -3084,7 +3084,7 @@
       "transcript_snippet": "He hasn't said he did it. He hasn't said he didn't do it. There's no known like independent video of him talking about it.",
       "mentions_person_refs": [
         "N-40",
-        "N-269"
+        "N-268"
       ]
     },
     {
@@ -3107,7 +3107,7 @@
       "transcript_snippet": "And then there was footage of him like at a yogurt shop. Right. >> Like way across town like 20 minutes later.",
       "mentions_person_refs": [
         "N-40",
-        "N-269"
+        "N-268"
       ]
     },
     {
@@ -3131,7 +3131,7 @@
       "transcript_snippet": "I think he's now seeking his revenge on people who he feels have thus far uh are are I guess guilty of ruining his reputation as professional. And he's doing it via his girlfriend.",
       "mentions_person_refs": [
         "N-69",
-        "N-213",
+        "N-212",
         "N-3"
       ]
     },
@@ -3156,7 +3156,7 @@
       ],
       "mentions_person_refs": [
         "N-69",
-        "N-213",
+        "N-212",
         "N-3"
       ]
     },
@@ -3178,7 +3178,7 @@
       "transcript_snippet": "He has also sent a police force to protect her. Like where I think are we paying for that?",
       "mentions_person_refs": [
         "N-69",
-        "N-213",
+        "N-212",
         "N-3"
       ]
     },
@@ -3202,7 +3202,7 @@
         "C-1677"
       ],
       "mentions_person_refs": [
-        "N-213",
+        "N-212",
         "N-3"
       ]
     },
@@ -3223,7 +3223,7 @@
       "investigative_direction": "Check TPUSA event programs for Wilkins performances and any payment.",
       "transcript_snippet": "she like sings uh the opening at Turning Point USA events.",
       "mentions_person_refs": [
-        "N-213",
+        "N-212",
         "N-3"
       ]
     },
@@ -3247,7 +3247,7 @@
       "investigative_direction": "Request the data set and code Wilkins says she built and review the method.",
       "transcript_snippet": "she's claiming that she began building a a program or a data set to determine how anyone could think that she's a honeypot.",
       "mentions_person_refs": [
-        "N-213",
+        "N-212",
         "N-3"
       ]
     },
@@ -3274,11 +3274,11 @@
         "C-2568"
       ],
       "mentions_person_refs": [
-        "N-213",
+        "N-212",
         "N-3",
         "N-22",
-        "N-210",
-        "N-914"
+        "N-209",
+        "N-911"
       ]
     },
     {
@@ -3302,7 +3302,7 @@
       "investigative_direction": "Check the thread and the retweet timestamps to test whether the pairing is unusual.",
       "transcript_snippet": "I was falsely labeled a a Mossad spy and then she says she noticed that people started retweeting it. There were 15 pairs of that retweeted in 10 seconds of each other.",
       "mentions_person_refs": [
-        "N-213",
+        "N-212",
         "N-3"
       ]
     },
@@ -3325,7 +3325,7 @@
       "investigative_direction": "Check the event program and recordings for who spoke and when.",
       "transcript_snippet": "General Michael Flynn spoke there. By the way, that's the first time that I've ever spoken to General Michael Flynn that I remember.",
       "mentions_person_refs": [
-        "N-914",
+        "N-911",
         "N-3"
       ]
     },
@@ -3349,7 +3349,7 @@
       "investigative_direction": "Confirm the date of the event and the list of speakers.",
       "transcript_snippet": "So she's now putting this at the event that I spoke to a couple of weeks ago.",
       "mentions_person_refs": [
-        "N-213",
+        "N-212",
         "N-3"
       ]
     },
@@ -3377,7 +3377,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-213"
+        "N-212"
       ]
     },
     {
@@ -3399,7 +3399,7 @@
       "transcript_snippet": "that is literally only the I think second time I've ever even seen Joe Kent. I did not know Joe Kent at all prior to assassination.",
       "mentions_person_refs": [
         "N-3",
-        "N-210"
+        "N-209"
       ]
     },
     {
@@ -3422,8 +3422,8 @@
       "investigative_direction": "Obtain the thread's data and methodology and test whether the overlap is distinctive.",
       "transcript_snippet": "the data um clearly demonstrates that the same people that are interested in the Butler assassination are the same people that are interested in Joe Kent's resignation and they are the same people that are interested in Charlie Kirk's assassination.",
       "mentions_person_refs": [
-        "N-213",
-        "N-210",
+        "N-212",
+        "N-209",
         "N-1",
         "N-3"
       ]
@@ -3446,7 +3446,7 @@
       "transcript_snippet": "When people are upset that Trump says are we still talking about the Epstein files and then basically Thomas Massie has to fight him tooth and nail alongside some others um to get the Epstein files",
       "mentions_person_refs": [
         "N-5",
-        "N-582",
+        "N-580",
         "N-3"
       ]
     },
@@ -3469,9 +3469,9 @@
       "investigative_direction": "Check the thread text for the Dugin reference and its role in the argument.",
       "transcript_snippet": "She also mentions his his philosopher um Alexander Dugin",
       "mentions_person_refs": [
-        "N-213",
-        "N-627",
-        "N-650",
+        "N-212",
+        "N-625",
+        "N-648",
         "N-3"
       ]
     },
@@ -3517,7 +3517,7 @@
       "transcript_snippet": "Oh, it's so great. All around the world the Catholic Church is growing and Protestant denominations are on the decline.",
       "mentions_person_refs": [
         "N-3",
-        "N-228"
+        "N-227"
       ]
     },
     {
@@ -3537,10 +3537,10 @@
       "investigative_direction": "Check public statements on Carlson's and Kent's religious affiliations.",
       "transcript_snippet": "she doesn't like that Joe Kent's Catholic and I'm Catholic or something. And Tucker, who she mentions is is Episcopalian.",
       "mentions_person_refs": [
-        "N-210",
+        "N-209",
         "N-3",
         "N-22",
-        "N-213"
+        "N-212"
       ]
     },
     {
@@ -3588,7 +3588,7 @@
       "transcript_snippet": "she was like, well, was he your source at the hospital? And I said, no. Andrew Kolvet was.",
       "mentions_person_refs": [
         "N-2",
-        "N-210",
+        "N-209",
         "N-14",
         "N-3"
       ]
@@ -3612,10 +3612,10 @@
       "investigative_direction": "Check Awaken America Tour programs and Patel's appearances alongside Flynn and Clay Clark.",
       "transcript_snippet": "Pretty rich Wilkins is implicating General Flynn since he was exactly who brought Kash Patel into the Patriot movement through the Awaken America Tours with Clay Clark.",
       "mentions_person_refs": [
-        "N-914",
+        "N-911",
         "N-69",
-        "N-213",
-        "N-915",
+        "N-212",
+        "N-912",
         "N-3"
       ]
     },
@@ -3638,7 +3638,7 @@
       "investigative_direction": "Read the later chapters of the thread for the stated purpose.",
       "transcript_snippet": "later on she says that the purpose of this is like to not get people to sign up for the military",
       "mentions_person_refs": [
-        "N-213",
+        "N-212",
         "N-3"
       ]
     },
@@ -3662,7 +3662,7 @@
         "C-2565"
       ],
       "mentions_person_refs": [
-        "N-187",
+        "N-186",
         "N-3"
       ]
     },
@@ -3688,7 +3688,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-490",
+        "N-489",
         "N-3"
       ]
     }

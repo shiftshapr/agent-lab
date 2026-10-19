@@ -342,8 +342,8 @@
             "C-2735"
           ],
           "related_nodes": [
-            "N-326",
-            "N-342",
+            "N-325",
+            "N-341",
             "N-10613"
           ],
           "tags": [],
@@ -371,10 +371,10 @@
             "C-2736"
           ],
           "related_nodes": [
-            "N-326",
-            "N-342",
+            "N-325",
+            "N-341",
             "N-10613",
-            "N-343"
+            "N-342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -400,10 +400,10 @@
             "C-2736"
           ],
           "related_nodes": [
-            "N-326",
-            "N-342",
+            "N-325",
+            "N-341",
             "N-10613",
-            "N-343"
+            "N-342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -685,8 +685,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-342",
-      "ref": "N-342",
+      "@id": "N-341",
+      "ref": "N-341",
       "name": "Victor Marx",
       "type": "person",
       "description": "Pastor Victor Marx replied to the host on X; the host reads and disputes the reply and proposes an on-air interview with him and Corby Hall (transcript 00:56, 37:09 to 40:47).",
@@ -706,14 +706,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-343",
+        "N-342",
         "N-10613"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-326",
-      "ref": "N-326",
+      "@id": "N-325",
+      "ref": "N-325",
       "name": "Tim Ballard",
       "type": "person",
       "description": "Mentioned in passing within the connecting-themes list (Operation Underground). Pre-existing node; no new artifact attached.",
@@ -730,8 +730,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-343",
-      "ref": "N-343",
+      "@id": "N-342",
+      "ref": "N-342",
       "name": "Corby Hall",
       "type": "person",
       "description": "Corby Hall (FAR) raised the point that Victor Marx has no church; the host read his statement in full and he agreed to appear on the show with Victor Marx (transcript 38:52 to 40:47).",
@@ -748,7 +748,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-342",
+        "N-341",
         "N-10613"
       ]
     },
@@ -929,8 +929,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-326",
-        "N-342"
+        "N-325",
+        "N-341"
       ]
     },
     {
@@ -956,7 +956,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-326"
+        "N-325"
       ]
     },
     {
@@ -1045,8 +1045,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-212",
-      "ref": "N-212",
+      "@id": "N-211",
+      "ref": "N-211",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Fox News host; interviewer in the Fox News interview clip of Erika Kirk discussed in this episode.",
@@ -1061,8 +1061,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-425",
-      "ref": "N-425",
+      "@id": "N-424",
+      "ref": "N-424",
       "name": "Marcus Wada",
       "type": "person",
       "description": "First named by the host at 00:42:41 in episode 92.",
@@ -1148,8 +1148,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-891",
-      "ref": "N-891",
+      "@id": "N-888",
+      "ref": "N-888",
       "name": "Savanah Hernandez",
       "type": "person",
       "description": "First named by the host at 00:07:17 in episode 92 (via the Kolvet clip). TPUSA front-lines reporter in the Minneapolis incident cited by Kolvet and Vance.",
@@ -1224,8 +1224,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-281",
-      "ref": "N-281",
+      "@id": "N-280",
+      "ref": "N-280",
       "name": "Karoline Leavitt",
       "type": "person",
       "description": "Co-appeared with Erika Kirk at a Washington DC event per the host.",
@@ -1258,8 +1258,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-892",
-      "ref": "N-892",
+      "@id": "N-889",
+      "ref": "N-889",
       "name": "Bettina Anderson",
       "type": "person",
       "description": "First named by the host at 00:16:56 in episode 92 (spelled Betina). Fiancee of Donald Trump Jr. whose bridal shower the host says Erika Kirk attended.",
@@ -1311,8 +1311,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-421",
-      "ref": "N-421",
+      "@id": "N-420",
+      "ref": "N-420",
       "name": "Pope Leo XIV",
       "type": "person",
       "description": "Pope whom the host says Trump attacked.",
@@ -1345,8 +1345,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-601",
-      "ref": "N-601",
+      "@id": "N-599",
+      "ref": "N-599",
       "name": "Scott Bessent",
       "type": "person",
       "description": "Treasury Secretary the host says issued a letter on demand.",
@@ -1454,8 +1454,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-893",
-      "ref": "N-893",
+      "@id": "N-890",
+      "ref": "N-890",
       "name": "David J. Harris",
       "type": "person",
       "description": "First named by the host at 00:40:01 in episode 92 (David Harris). Business partner in the Marx supplements, per the host.",
@@ -1489,8 +1489,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-201",
-      "ref": "N-201",
+      "@id": "N-200",
+      "ref": "N-200",
       "name": "Shelaine Maxfield",
       "type": "person",
       "description": "Transcribed Shelaine; co-owner of the 888 plane and charity per the host.",
@@ -1525,8 +1525,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-690",
-      "ref": "N-690",
+      "@id": "N-688",
+      "ref": "N-688",
       "name": "Otto Busher",
       "type": "person",
       "description": "Colonel the host links to Fort Huachuca and Romanian Angels.",
@@ -1559,8 +1559,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-451",
-      "ref": "N-451",
+      "@id": "N-450",
+      "ref": "N-450",
       "name": "Greg Laurie",
       "type": "person",
       "description": "Harvest pastor who toured with Erika Kirk per the host.",
@@ -1627,8 +1627,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-803",
-      "ref": "N-803",
+      "@id": "N-801",
+      "ref": "N-801",
       "name": "Andrew Piskadlo",
       "type": "person",
       "description": "Transcribed Andrew Pascadlo; detained photographer who raises trafficking alarms.",
@@ -1695,8 +1695,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-238",
-      "ref": "N-238",
+      "@id": "N-237",
+      "ref": "N-237",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Named with Tim Ballard in the spreadsheet.",
@@ -1746,8 +1746,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-802",
-      "ref": "N-802",
+      "@id": "N-800",
+      "ref": "N-800",
       "name": "Paul Vallely",
       "type": "person",
       "description": "TPUSA adviser transcribed Paul Vallely; co-author with Aquino.",
@@ -1763,8 +1763,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-450",
-      "ref": "N-450",
+      "@id": "N-449",
+      "ref": "N-449",
       "name": "Michael Aquino",
       "type": "person",
       "description": "Transcribed Michael Aino; co-author and Temple of Set founder.",
@@ -1799,8 +1799,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-461",
-      "ref": "N-461",
+      "@id": "N-460",
+      "ref": "N-460",
       "name": "Nelda Buckman",
       "type": "person",
       "description": "Top TPUSA donor transcribed Nelda Buckman.",
@@ -1919,8 +1919,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-210",
-      "ref": "N-210",
+      "@id": "N-209",
+      "ref": "N-209",
       "name": "Joe Kent",
       "type": "person",
       "description": "Former official whose foreign-involvement inquiry the host says angered Erika Kirk.",
@@ -2100,7 +2100,7 @@
       "investigative_direction": "Confirm full interview date and air date; verify whether the clip presented is representative of the full exchange.",
       "mentions_person_refs": [
         "N-2",
-        "N-212"
+        "N-211"
       ]
     },
     {
@@ -2189,7 +2189,7 @@
       "claim_timestamp": "00:39:35",
       "investigative_direction": "Verify post URL, timestamp, and whether the post has since been deleted or edited.",
       "mentions_person_refs": [
-        "N-342",
+        "N-341",
         "N-3"
       ]
     },
@@ -2209,8 +2209,8 @@
       "claim_timestamp": "00:40:47",
       "investigative_direction": "Capture timestamped screenshots of the comment thread before any deletion.",
       "mentions_person_refs": [
+        "N-341",
         "N-342",
-        "N-343",
         "N-3"
       ]
     },
@@ -2230,7 +2230,7 @@
       "claim_timestamp": "00:41:36",
       "investigative_direction": "Verify DM timestamp; await Marx's response or non-response.",
       "mentions_person_refs": [
-        "N-342",
+        "N-341",
         "N-3"
       ]
     },
@@ -2250,7 +2250,7 @@
       "claim_timestamp": "00:43:46",
       "investigative_direction": "Obtain archived copies of the TPUSA bio page; verify against TPUSA staff directory and IRS Form 990 disclosures.",
       "mentions_person_refs": [
-        "N-425"
+        "N-424"
       ]
     },
     {
@@ -2269,7 +2269,7 @@
       "claim_timestamp": "00:43:46",
       "investigative_direction": "Cross-reference against IMDb / production credits; verify production dates and roles.",
       "mentions_person_refs": [
-        "N-425"
+        "N-424"
       ]
     },
     {
@@ -2289,7 +2289,7 @@
       "claim_timestamp": "00:46:09",
       "investigative_direction": "Obtain full webpage capture; identify the firm and confirm the family relationship through independent records.",
       "mentions_person_refs": [
-        "N-425"
+        "N-424"
       ]
     },
     {
@@ -2310,7 +2310,7 @@
       "investigative_direction": "Compile chronology of Kirk's public statements on personal safety; identify whether a specific triggering event is documented.",
       "mentions_person_refs": [
         "N-2",
-        "N-212",
+        "N-211",
         "N-14"
       ]
     },
@@ -2331,7 +2331,7 @@
       "investigative_direction": "Identify at least one named corroborating source; cross-reference LinkedIn history (A-1976.1) for prior Poland-based employment.",
       "mentions_person_refs": [
         "N-14",
-        "N-425"
+        "N-424"
       ]
     },
     {
@@ -2468,7 +2468,7 @@
       "transcript_snippet": "which I think is the first time that we've ever had to make that decision in Turning Point history.",
       "mentions_person_refs": [
         "N-14",
-        "N-891",
+        "N-888",
         "N-2"
       ]
     },
@@ -2623,7 +2623,7 @@
       "transcript_snippet": "similarly had a very hard time uh moving tickets for her event in Washington DC with Karoline Leavitt.",
       "mentions_person_refs": [
         "N-2",
-        "N-281",
+        "N-280",
         "N-3"
       ]
     },
@@ -2720,7 +2720,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-33",
-        "N-892"
+        "N-889"
       ]
     },
     {
@@ -2834,7 +2834,7 @@
       "mentions_person_refs": [
         "N-4",
         "N-1",
-        "N-891"
+        "N-888"
       ]
     },
     {
@@ -2889,7 +2889,7 @@
       "transcript_snippet": "How about Trump just generally attacking a pope because he's calling for peace? How about Trump saying that Brigitte Macron is hot?",
       "mentions_person_refs": [
         "N-5",
-        "N-421",
+        "N-420",
         "N-82"
       ]
     },
@@ -2928,7 +2928,7 @@
       "transcript_snippet": "She can get uh the Secretary Scott Bessence to issue a letter on demand demanding you stop looking into their finances.",
       "mentions_person_refs": [
         "N-2",
-        "N-601",
+        "N-599",
         "N-3"
       ]
     },
@@ -3082,7 +3082,7 @@
       "investigative_direction": "Locate the daughter's original public statements and the retraction.",
       "transcript_snippet": "very public back forth that went on where she was accusing him of abuse and um there's a lot of that. And then she retracted her statement after they began speaking again",
       "mentions_person_refs": [
-        "N-342",
+        "N-341",
         "N-3"
       ]
     },
@@ -3103,7 +3103,7 @@
       "investigative_direction": "Identify the woman and the shows on which she spoke, and look for any police or court filing.",
       "transcript_snippet": "We didn't include the young woman who alleges that Victor Marx kidnapped her from Canada.",
       "mentions_person_refs": [
-        "N-342",
+        "N-341",
         "N-3"
       ]
     },
@@ -3126,7 +3126,7 @@
       "investigative_direction": "Ask the host for the volume of tips received and review a sample of the tip content.",
       "transcript_snippet": "we have never received more emails and more tips about anyone. Actually um in our tips inbox it was a recurring theme.",
       "mentions_person_refs": [
-        "N-342",
+        "N-341",
         "N-3"
       ]
     },
@@ -3147,7 +3147,7 @@
       "investigative_direction": "Find archived copies of the Marx post, its timestamp relative to the official announcement, and any deletion record.",
       "transcript_snippet": "Victor Marx allegedly was the first person who announced that Charlie Kirk had died and then he deleted that post.",
       "mentions_person_refs": [
-        "N-342",
+        "N-341",
         "N-1",
         "N-3"
       ]
@@ -3169,8 +3169,8 @@
       "investigative_direction": "Check church registrations or ministry records for Victor Marx and Corby Hall's statement.",
       "transcript_snippet": "I realized he doesn't have a church. I don't know why he says he's a pastor.",
       "mentions_person_refs": [
-        "N-343",
         "N-342",
+        "N-341",
         "N-3"
       ]
     },
@@ -3191,8 +3191,8 @@
       "investigative_direction": "Identify the supplement brand and its ownership records.",
       "transcript_snippet": "You had supplements that you were doing with David Harris.",
       "mentions_person_refs": [
-        "N-342",
-        "N-893",
+        "N-341",
+        "N-890",
         "N-3"
       ]
     },
@@ -3213,8 +3213,8 @@
       "investigative_direction": "Obtain the supplement marketing claims and any charity disbursement records.",
       "transcript_snippet": "David Harris calls God Papa. I don't know. And he like you guys said that like proceed the supplements were going to help human sex trafficking victims.",
       "mentions_person_refs": [
-        "N-342",
-        "N-893",
+        "N-341",
+        "N-890",
         "N-3"
       ]
     },
@@ -3262,7 +3262,7 @@
         "C-2741"
       ],
       "mentions_person_refs": [
-        "N-425",
+        "N-424",
         "N-3"
       ]
     },
@@ -3288,7 +3288,7 @@
         "C-2739"
       ],
       "mentions_person_refs": [
-        "N-425",
+        "N-424",
         "N-3"
       ]
     },
@@ -3315,7 +3315,7 @@
       ],
       "mentions_person_refs": [
         "N-94",
-        "N-201",
+        "N-200",
         "N-3"
       ]
     },
@@ -3339,7 +3339,7 @@
       "investigative_direction": "Obtain Army and court records for the charge against Busher and any Romanian Angels staff or board listing.",
       "transcript_snippet": "he worked with Romanian Angels which was her charity uh the civilian commander stationed at Fort Huachuca charged with running a child sex abuse ring",
       "mentions_person_refs": [
-        "N-690",
+        "N-688",
         "N-2",
         "N-3"
       ]
@@ -3364,7 +3364,7 @@
       "investigative_direction": "Review the lawsuit filings against Harvest Christian Fellowship and Erika Kirk's tour appearances with Laurie.",
       "transcript_snippet": "Greg Laurie uh whose church Erika went right on tour with him Harvest Church is currently being accused of trafficking ch children from Romania.",
       "mentions_person_refs": [
-        "N-451",
+        "N-450",
         "N-2",
         "N-3"
       ]
@@ -3417,7 +3417,7 @@
         "C-8161"
       ],
       "mentions_person_refs": [
-        "N-803",
+        "N-801",
         "N-3"
       ]
     },
@@ -3466,8 +3466,8 @@
       "investigative_direction": "Identify the source for the meeting claim and any record of Ballard's schedule on September 10, 2025.",
       "transcript_snippet": "Glenn Beck, Tim Ballard, that's Operation Underground. Tim Ballard. Um his name come in the mix early on as someone who was being met with that day.",
       "mentions_person_refs": [
-        "N-238",
-        "N-326",
+        "N-237",
+        "N-325",
         "N-3"
       ]
     },
@@ -3519,8 +3519,8 @@
         "C-8246"
       ],
       "mentions_person_refs": [
-        "N-802",
-        "N-450",
+        "N-800",
+        "N-449",
         "N-3"
       ]
     },
@@ -3546,7 +3546,7 @@
         "C-2085"
       ],
       "mentions_person_refs": [
-        "N-450",
+        "N-449",
         "N-3"
       ]
     },
@@ -3569,7 +3569,7 @@
       "investigative_direction": "Check the charity's IRS filings and program description.",
       "transcript_snippet": "Victor Marx, as we learned, runs a charity for child sex abuse.",
       "mentions_person_refs": [
-        "N-342",
+        "N-341",
         "N-3"
       ]
     },
@@ -3592,7 +3592,7 @@
       "investigative_direction": "Check the Buckman foundation's filings and donations to child-rescue organizations.",
       "transcript_snippet": "Nelda Buckman, the number one donor to Turning Point USA, is extensively involved in rescuing children that are being sexually abused and trafficked.",
       "mentions_person_refs": [
-        "N-461",
+        "N-460",
         "N-3"
       ]
     },
@@ -3618,7 +3618,7 @@
         "C-2741"
       ],
       "mentions_person_refs": [
-        "N-425",
+        "N-424",
         "N-3"
       ]
     },
@@ -3645,7 +3645,7 @@
         "C-2741"
       ],
       "mentions_person_refs": [
-        "N-425",
+        "N-424",
         "N-3"
       ]
     },
@@ -3775,7 +3775,7 @@
       "transcript_snippet": "her anger at Joe Kent for trying to investigate foreign involvement.",
       "mentions_person_refs": [
         "N-2",
-        "N-210",
+        "N-209",
         "N-3"
       ]
     }

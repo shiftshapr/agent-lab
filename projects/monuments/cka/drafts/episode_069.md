@@ -13,8 +13,8 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-11341
   - Claim Range (supplement_2026-10f): C-12587–C-12670
-  - New Nodes Introduced: N-546, N-547, N-548, N-549, N-550, N-551, N-10485, N-10486, N-10487, N-10489, N-10490, N-10491
-  - Reused Nodes Appearing: N-2, N-378, N-14, N-40, N-46, N-55, N-191, N-218, N-238, N-262, N-271, N-390, N-521, N-522, N-10000, N-10074, N-10193, N-10246, N-10253, N-10299, N-10339, N-10340, N-10398, N-10414, N-10447, N-10470, N-10480, N-10481, N-10548, N-10554, N-11029, N-11165, N-10488
+  - New Nodes Introduced: N-545, N-546, N-547, N-548, N-549, N-550, N-10485, N-10486, N-10487, N-10489, N-10490, N-10491
+  - Reused Nodes Appearing: N-2, N-377, N-14, N-40, N-46, N-55, N-190, N-217, N-237, N-261, N-270, N-389, N-520, N-521, N-10000, N-10074, N-10193, N-10246, N-10253, N-10299, N-10339, N-10340, N-10398, N-10414, N-10447, N-10470, N-10480, N-10481, N-10548, N-10554, N-11029, N-11165, N-10488
   - (see registers)
 
 # Meta-Data
@@ -31,9 +31,9 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1738, A-1739, A-1740, A-1741, A-1742, A-1743
   - Claim Range: C-2298–C-2311
-  - New Nodes Introduced (people): N-546, N-547, N-548, N-549, N-550
+  - New Nodes Introduced (people): N-545, N-546, N-547, N-548, N-549
   - New Nodes Introduced (investigation targets): N-10485, N-10486, N-10487, N-10488
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-378 (Emmanuel Macron)
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-377 (Emmanuel Macron)
 
 ---
 
@@ -61,7 +61,7 @@ Confidence Level: Medium (text read aloud by host)
 
 *Display/Read content: "The 23 and me kits arrived and will be delivered to Woody and Soon-Yi to their home today."*
 
-*Related: C-2298, N-9 (Epstein), N-550 (Woody Allen)*
+*Related: C-2298, N-9 (Epstein), N-549 (Woody Allen)*
 
 **A-1738.2** Epstein email to "Sultan" re: James Miller / 9E71st Street shipping
 
@@ -89,7 +89,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: Book of Enoch; 200 fallen angels (Watchers) landing at Mount Hermon, southern Lebanon; topographic outline resembling a goat; Azazel/goat association in Leviticus 16; David Flynn research; coordinate 33.33°N × 33.33°E from Paris prime meridian; "devil's line."*
 
-*Related: C-2300, C-2311, N-542 (Rob Skiba), N-549 (David Flynn), N-10489 (Mount Hermon 33.33 Coordinate Investigation)*
+*Related: C-2300, C-2311, N-541 (Rob Skiba), N-548 (David Flynn), N-10489 (Mount Hermon 33.33 Coordinate Investigation)*
 
 **A-1739.2** Rob Skiba segment on Gilgamesh / CERN / 666
 
@@ -101,7 +101,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: Gilgamesh as 1/3 man and 2/3 God (33.33% / 66.6%); carbon molecule 6/6/6 → "666"; CERN Hadron Collider stated goal of recreating Big Bang; CERN logo resembling three 6s; Shiva statue at CERN.*
 
-*Related: C-2301, C-2311, N-542 (Rob Skiba)*
+*Related: C-2301, C-2311, N-541 (Rob Skiba)*
 
 ---
 
@@ -117,7 +117,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: 2003 find of Gilgamesh body in Iraq; Tom Horn interjection citing a "special operations general" who stated remains were "in a state of remarkable preservation"; proposition that the U.S. military took possession of the dig; Steve Quayle's claim that "the whole point was to extract the DNA" and that the human genome project was oriented toward "locate specific genetic markers for the disembodied spirits to reanimate their host body that's brought back."*
 
-*Related: C-2302, C-2303, N-547 (Tom Horn), N-548 (Steve Quayle), N-10490 (Gilgamesh Remains DNA Extraction Claim)*
+*Related: C-2302, C-2303, N-546 (Tom Horn), N-547 (Steve Quayle), N-10490 (Gilgamesh Remains DNA Extraction Claim)*
 
 ---
 
@@ -133,7 +133,7 @@ Confidence Level: High (video clip played in full)
 
 *Display/Read content: "Erika Kirk has been a dear friend of mine for almost 15 years. We have done multiple projects together. She wrote the forward to my book. The photo that has been circulating around that says a left eye club. Um this is the cuff that she's wearing. I designed it. Those are my um jewelry pieces. This was an editorial shot that I actually styled…"; description of "Romanian Angels" gift project organized by Erika.*
 
-*Related: C-2304, C-2305, N-546 (Tracy Martin), N-2 (Erika Kirk), N-10486 (Tracy Martin Background and Husband Verification), N-10485 (Erika Kirk September 10 Alibi Investigation)*
+*Related: C-2304, C-2305, N-545 (Tracy Martin), N-2 (Erika Kirk), N-10486 (Tracy Martin Background and Husband Verification), N-10485 (Erika Kirk September 10 Alibi Investigation)*
 
 ---
 
@@ -149,7 +149,7 @@ Confidence Level: Low (verbally referenced; not visually confirmed as displayed 
 
 *Display/Read content: Host states she has reviewed text chains discussing "Macron's boyfriend" and that she was "shown a photo of Macron's boyfriend"; states additional emails reference Macron's sexuality; host references a Steve Bannon chat in the same set.*
 
-*Related: C-2306, N-378 (Emmanuel Macron)*
+*Related: C-2306, N-377 (Emmanuel Macron)*
 
 ---
 
@@ -201,7 +201,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Hi Ben, team Candace for Life."*
 
-*Related: C-2310, N-551 (Benjamin – flag)*
+*Related: C-2310, N-550 (Benjamin – flag)*
 
 **A-1743.5** AZ Masterbaker comment re: COVID tests as DNA collection for Nimrod descendants
 
@@ -213,7 +213,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Fully believe the CO tests were just to collect DNA. That's why it doesn't matter if they were accurate. Also, maybe the collecting of DNA is to find Nimrod's descendants."*
 
-*Related: C-2311, N-542 (Rob Skiba), N-10491 (COVID Test DNA Collection Hypothesis)*
+*Related: C-2311, N-541 (Rob Skiba), N-10491 (COVID Test DNA Collection Hypothesis)*
 
 **A-1743.6** Bobby comment re: Satan as counterfeiter
 
@@ -237,7 +237,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Rob was amazing and I'm so glad that you found his work. We are in a battle um thousands of years long and it is all about the Babylonian ascension."*
 
-*Related: C-2313, N-542 (Rob Skiba)*
+*Related: C-2313, N-541 (Rob Skiba)*
 
 ---
 
@@ -250,7 +250,7 @@ Video Timestamp: 00:07:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12602, N-521*
+*Related: C-12602, N-520*
 
 ---
 
@@ -272,7 +272,7 @@ Confidence Level: High
 # Node Register
 
 
-**N-546** Tracy Martin
+**N-545** Tracy Martin
 
 Self-identified friend of Erika Kirk for approximately 15 years; styled the "left eye club" editorial photograph; designed the cuff worn by Erica; reported to have been with Erika on September 10, 2025. Husband's first name given by host as Thomas (uncertain).
 
@@ -283,7 +283,7 @@ Investigative Pressure: High
 
 *Related: A-1741.1, C-2304, C-2305, N-2 (Erika Kirk), N-10485, N-10486*
 
-**N-542** Rob Skiba
+**N-541** Rob Skiba
 
 Lecturer whose "Babylon Rising" speech is played at length in this episode; posits Tower of Babel as technology, Mount Hermon at 33.33°N 33.33°E as fallen-angel landing site, Gilgamesh/Nimrod identification, and CERN/666 symbolism. Host reports an email from the lecturer's son thanking her.
 
@@ -292,9 +292,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, A-1739.2, A-1743.5, A-1743.7, C-2300, C-2301, N-549 (David Flynn), N-10489, N-10491*
+*Related: A-1739.1, A-1739.2, A-1743.5, A-1743.7, C-2300, C-2301, N-548 (David Flynn), N-10489, N-10491*
 
-**N-547** Tom Horn
+**N-546** Tom Horn
 
 Radio host cited via Omega Man Radio clip; states a "special operations general" validated Gilgamesh remains in "remarkable preservation."
 
@@ -303,9 +303,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, C-2302, N-548 (Steve Quayle), N-10490*
+*Related: A-1740.1, C-2302, N-547 (Steve Quayle), N-10490*
 
-**N-548** Steve Quayle
+**N-547** Steve Quayle
 
 Radio co-host cited via Omega Man Radio clip; asserts human genome project was oriented toward genetic markers for disembodied spirits reanimating Nimrod/Gilgamesh.
 
@@ -314,9 +314,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, C-2303, N-547 (Tom Horn), N-10490*
+*Related: A-1740.1, C-2303, N-546 (Tom Horn), N-10490*
 
-**N-549** David Flynn
+**N-548** David Flynn
 
 Researcher cited by Rob Skiba as having identified the Mount Hermon coordinate (33.33°N 33.33°E from Paris prime meridian) and the "devil's line." Reported by Rob Skiba as recently deceased.
 
@@ -325,9 +325,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, N-542 (Rob Skiba), N-10489*
+*Related: A-1739.1, N-541 (Rob Skiba), N-10489*
 
-**N-490** Lori Frantzve
+**N-489** Lori Frantzve
 
 Erika Kirk's mother, identified by host as the person Erika was reportedly with on September 10. Host now disputes this alibi.
 
@@ -336,7 +336,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2 (Erika Kirk), N-10485, N-546 (Tracy Martin)*
+*Related: N-2 (Erika Kirk), N-10485, N-545 (Tracy Martin)*
 
 **N-9** Jeffrey Epstein
 
@@ -347,9 +347,9 @@ Claim Count: 0 (as subject, not author of any claim in this episode)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1738.1, A-1738.2, A-1743.2, N-550 (Woody Allen), N-378 (Emmanuel Macron)*
+*Related: A-1738.1, A-1738.2, A-1743.2, N-549 (Woody Allen), N-377 (Emmanuel Macron)*
 
-**N-550** Woody Allen
+**N-549** Woody Allen
 
 Named recipient of Epstein 23andMe kit email (along with "Soon-Yi").
 
@@ -360,7 +360,7 @@ Investigative Pressure: Low
 
 *Related: A-1738.1, N-9 (Epstein)*
 
-**N-378** Emmanuel Macron
+**N-377** Emmanuel Macron
 
 Subject of Epstein-files text chains cited by host; host asserts he has a "boyfriend" and is gay. Host consistently renders name as "Macron."
 
@@ -380,7 +380,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1743.3, A-1743.6, C-2309, C-2312, N-542 (Rob Skiba)*
+*Related: A-1743.3, A-1743.6, C-2309, C-2312, N-541 (Rob Skiba)*
 
 **N-17** Rob McCoy
 
@@ -393,7 +393,7 @@ Investigative Pressure: Low
 
 *Related: N-10487 (Dream City Church Investigation), N-2 (Erika Kirk)*
 
-**N-551** Benjamin
+**N-550** Benjamin
 
 Addressee of Angie comment ("Hi Ben"); host addresses as "Benjamin." Possible production-staff figure. Insufficient identifying information to confirm role.
 
@@ -415,7 +415,7 @@ Claim Count: 0 (this episode's alibi claim fails admission test; not inscribed)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1741.1, N-2 (Erika Kirk), N-546 (Tracy Martin), N-490 (Lori Frantzve)*
+*Related: A-1741.1, N-2 (Erika Kirk), N-545 (Tracy Martin), N-489 (Lori Frantzve)*
 
 **N-10486** Tracy Martin Background and Husband Verification
 
@@ -426,7 +426,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-546 (Tracy Martin)*
+*Related: N-545 (Tracy Martin)*
 
 **N-10487** Dream City Church Connection Investigation
 
@@ -437,7 +437,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-546 (Tracy Martin), N-17 (Rob McCoy), (Pastor Luke)*
+*Related: N-545 (Tracy Martin), N-17 (Rob McCoy), (Pastor Luke)*
 
 **N-10488** Egyptian Plane Communication Investigation
 
@@ -459,7 +459,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, N-542 (Rob Skiba), N-549 (David Flynn)*
+*Related: A-1739.1, N-541 (Rob Skiba), N-548 (David Flynn)*
 
 **N-10490** Gilgamesh Remains DNA Extraction Claim
 
@@ -470,7 +470,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, N-547 (Tom Horn), N-548 (Steve Quayle)*
+*Related: A-1740.1, N-546 (Tom Horn), N-547 (Steve Quayle)*
 
 **N-10491** COVID Test DNA Collection Hypothesis
 
@@ -481,7 +481,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1743.5, N-542 (Rob Skiba), N-50 (Sigmund Freud)*
+*Related: A-1743.5, N-541 (Rob Skiba), N-50 (Sigmund Freud)*
 
 ---
 
@@ -541,7 +541,7 @@ Josh Hammer; on the night-before call with a rabbi in Israel, per the host.
 
 ---
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 Mikey McCoy; first caller after the shot, per the host's call sequence.
 
@@ -549,7 +549,7 @@ Mikey McCoy; first caller after the shot, per the host's call sequence.
 
 ---
 
-**N-218** Elizabeth McCoy
+**N-217** Elizabeth McCoy
 
 Elizabeth McCoy; called first by Mikey, per the host.
 
@@ -557,7 +557,7 @@ Elizabeth McCoy; called first by Mikey, per the host.
 
 ---
 
-**N-238** Glenn Beck
+**N-237** Glenn Beck
 
 Glenn Beck; interviewed Erika Kirk, per the host.
 
@@ -565,7 +565,7 @@ Glenn Beck; interviewed Erika Kirk, per the host.
 
 ---
 
-**N-262** Terryl Farnsworth
+**N-261** Terryl Farnsworth
 
 Terryl Farnsworth; the host says he was to take the cameras down (rendered Terra).
 
@@ -573,7 +573,7 @@ Terryl Farnsworth; the host says he was to take the cameras down (rendered Terra
 
 ---
 
-**N-271** Dan Flood
+**N-270** Dan Flood
 
 Dan Flood; recipient with Kolvet of Charlie's night-before text, per the host.
 
@@ -581,7 +581,7 @@ Dan Flood; recipient with Kolvet of Charlie's night-before text, per the host.
 
 ---
 
-**N-390** Steve Bannon
+**N-389** Steve Bannon
 
 Steve Bannon; named as appearing in other Epstein chats.
 
@@ -589,7 +589,7 @@ Steve Bannon; named as appearing in other Epstein chats.
 
 ---
 
-**N-521** Rothschild Family
+**N-520** Rothschild Family
 
 Rothschild Family; subject of the host's Epstein and surrealist-ball remarks.
 
@@ -597,7 +597,7 @@ Rothschild Family; subject of the host's Epstein and surrealist-ball remarks.
 
 ---
 
-**N-522** Peter Thiel
+**N-521** Peter Thiel
 
 Peter Thiel; the host says he discusses the Antichrist (rendered Teal).
 
@@ -767,7 +767,7 @@ Claim Timestamp: 00:01:18
 Claim: A Jeffrey Epstein-authored email states that 23andMe kits had arrived and would be delivered that day to "Woody and Soon-Yi" at their home.
 
 Anchored Artifacts: A-1738.1
-Mentions: N-9, N-550
+Mentions: N-9, N-549
 
 
 Investigative Direction: Locate the email within the public Epstein files (jmail.world or DOJ releases) to verify recipient identity, date, and full text.
@@ -795,7 +795,7 @@ Claim Timestamp: 00:05:43
 Claim: In a lecture clip, Rob Skiba states that the Book of Enoch identifies 200 Watchers / fallen angels as landing at Mount Hermon in southern Lebanon, and that David Flynn identified this location as 33.33°N by 33.33°E from the Paris prime meridian.
 
 Anchored Artifacts: A-1739.1
-Mentions: N-542, N-549
+Mentions: N-541, N-548
 
 Related Nodes: N-10489
 
@@ -810,7 +810,7 @@ Claim Timestamp: 00:10:17
 Claim: Rob Skiba states that Gilgamesh was described as two-thirds God and one-third man, that the carbon molecule's 6/6/6 structure equates to the number of man, and that CERN's logo resembles three stacked 6s.
 
 Anchored Artifacts: A-1739.2
-Mentions: N-542
+Mentions: N-541
 
 
 Tags: relevance:tangential
@@ -825,7 +825,7 @@ Claim Timestamp: 00:15:25
 Claim: In an Omega Man Radio clip the host plays, Steve Quayle says a special operations general told him Gilgamesh was in 'a state of remarkable preservation' and that they have Gilgamesh's remains; Tom Horn says that, according to some people, the military took possession and control of the dig.
 
 Anchored Artifacts: A-1740.1
-Mentions: N-547, N-548
+Mentions: N-546, N-547
 
 Related Nodes: N-10490
 
@@ -840,7 +840,7 @@ Claim Timestamp: 00:15:55
 Claim: Steve Quayle says on Omega Man Radio that the point of the Gilgamesh dig was to extract the DNA, and that he has also been told the human genome project aims to locate genetic markers that would let disembodied spirits reanimate their host body.
 
 Anchored Artifacts: A-1740.1
-Mentions: N-548
+Mentions: N-547
 
 Related Nodes: N-10490
 
@@ -855,7 +855,7 @@ Claim Timestamp: 00:27:48
 Claim: Tracy Martin states in a video clip that Erika Kirk has been a "dear friend" of hers for "almost 15 years," that they have "done multiple projects together," that Erika wrote the foreword to Martin's book, and that Martin participated in the Romanian Angels gift-distribution project organized by Erika.
 
 Anchored Artifacts: A-1741.1
-Mentions: N-2, N-546
+Mentions: N-2, N-545
 
 Related Nodes: N-10485
 
@@ -870,7 +870,7 @@ Claim Timestamp: 00:28:05
 Claim: Tracy Martin states she styled the editorial photograph featuring the "left eye club" cuff that has been circulating, and that the cuff and jewelry pieces pictured are her designs.
 
 Anchored Artifacts: A-1741.1
-Mentions: N-2, N-546
+Mentions: N-2, N-545
 
 
 Investigative Direction: Identify the original editorial publication to confirm styling credit; identify the cuff's commercial availability and Martin's business.
@@ -884,7 +884,7 @@ Claim Timestamp: 00:31:49
 Claim: The host reads a text chain from the Epstein files, which she says is Epstein's, discussing Emmanuel Macron's 'boyfriend' and saying 'along with some other tidbits, I was shown a photo of Macron's boyfriend', and says more emails reference Macron being gay.
 
 Anchored Artifacts: A-1742.1
-Mentions: N-9, N-378
+Mentions: N-9, N-377
 
 
 Investigative Direction: Locate the specific text chain and photo within public Epstein files; verify any reference to Macron and an unnamed partner.
@@ -983,7 +983,7 @@ Claim Timestamp: 00:40:08
 Claim: A viewer comment (American Jetet) endorses Rob Skiba's work and frames the underlying conflict as a millennia-long battle over "Babylonian ascension."
 
 Anchored Artifacts: A-1743.7
-Mentions: N-542
+Mentions: N-541
 
 
 Investigative Direction: Document the convergence of host and viewer framing; assess whether "Babylonian ascension" originates with Rob Skiba, Flynn, or earlier esoteric sources.
@@ -1015,7 +1015,7 @@ Claim: The host says Emmanuel Macron is gay and is married to a man, and that th
 Transcript Snippet: They're willing to accept that maybe I was telling the truth. He's also married to a dude because he's gay.
 
 Anchored Artifacts: 
-Mentions: N-378, N-3, N-9
+Mentions: N-377, N-3, N-9
 Supports: C-9640
 Tags: relevance:tangential
 Investigative Direction: Check which mainstream outlets have reported on Macron in the Epstein emails and what the emails actually say; the claim about his marriage restates the host's long-running Brigitte Macron allegation, which is contested in court.
@@ -1048,7 +1048,7 @@ Claim: The host says, with the hedge 'allegedly', that she is glad Woody Allen's
 Transcript Snippet: I'm glad that that is being relitigated regarding what he did to his own child when she was seven.
 
 Anchored Artifacts: 
-Mentions: N-550, N-3
+Mentions: N-549, N-3
 Tags: relevance:tangential
 Investigative Direction: The allegation is a matter of public record in court and media coverage; verify against those records. It has no direct bearing on the case.
 
@@ -1095,7 +1095,7 @@ Claim: The host says Rob Skiba wrote a book entitled Babylon Rising and that the
 Transcript Snippet: I mentioned to you guys this man named Rob Skiba yesterday. He wrote a book entitled Babylon Rising.
 
 Anchored Artifacts: 
-Mentions: N-542, N-3
+Mentions: N-541, N-3
 Tags: relevance:tangential
 Investigative Direction: Confirm the author's real name and the book's publication details; the transcript spelling 'Rob Skiba' is probably a mis-transcription.
 
@@ -1110,7 +1110,7 @@ Claim: The host says it is alleged that Rob Skiba was murdered for the research 
 Transcript Snippet: this man, it is alleged, was actually murdered for some of the research and the pieces that he were putting together
 
 Anchored Artifacts: 
-Mentions: N-542
+Mentions: N-541
 Tags: relevance:tangential
 Investigative Direction: Locate any death record or reporting on the cause of death; the allegation comes from an unnamed email tipster.
 
@@ -1125,7 +1125,7 @@ Claim: The host says Rob Skiba's son emailed her the previous day thanking her f
 Transcript Snippet: his son emailed me yesterday thanking me for bringing up his father and grateful that his father father's work is still carrying on.
 
 Anchored Artifacts: 
-Mentions: N-542, N-3
+Mentions: N-541, N-3
 Tags: relevance:tangential
 Investigative Direction: Only the host can show the email; ask her to confirm its sender and date.
 
@@ -1155,7 +1155,7 @@ Claim: The host says Rob Skiba theorises that the Tower of Babel was a technolog
 Transcript Snippet: this tower that was being built was a technology because they wanted to get back into the heavenly realm.
 
 Anchored Artifacts: 
-Mentions: N-542
+Mentions: N-541
 Tags: relevance:tangential
 Investigative Direction: Locate the lecture and book passage; this is Rob Skiba's theory, presented by the host as what the elites believe.
 
@@ -1170,7 +1170,7 @@ Claim: In the played clip, Rob Skiba says Mount Hermon's outline forms the shape
 Transcript Snippet: It's very interesting that it actually forms the shape of a goat.
 
 Anchored Artifacts: A-1739.1
-Mentions: N-542
+Mentions: N-541
 Related Nodes: N-10489
 Tags: relevance:tangential
 Investigative Direction: Check the lecture's imagery and the Leviticus 16 reading; the spelling 'Azazel' is probably Azazel.
@@ -1186,7 +1186,7 @@ Claim: In the played clip, Rob Skiba says David Flynn, who identified the Mount 
 Transcript Snippet: He recently passed away, but he turned the world upside down with some of his research.
 
 Anchored Artifacts: A-1739.1
-Mentions: N-549, N-542
+Mentions: N-548, N-541
 Related Nodes: N-10489
 Tags: relevance:tangential
 Investigative Direction: Confirm Flynn's date of death and compare with the lecture date.
@@ -1202,7 +1202,7 @@ Claim: In the played clip, Rob Skiba says David Flynn pointed out that drawing a
 Transcript Snippet: And that is in the occult is referred to as the devil's line.
 
 Anchored Artifacts: A-1739.1
-Mentions: N-542, N-549
+Mentions: N-541, N-548
 Related Nodes: N-10489
 Tags: relevance:tangential
 Investigative Direction: Reproduce the Google Earth measurement and find an independent source for the term 'devil's line'.
@@ -1218,7 +1218,7 @@ Claim: The host says Jeffrey Epstein worked for the Rothschilds.
 Transcript Snippet: Jeffrey Epstein worked for the Rothschilds.
 
 Anchored Artifacts: 
-Mentions: N-9, N-521
+Mentions: N-9, N-520
 Supports: C-2258
 Tags: relevance:context
 Investigative Direction: Compare with the Epstein email on the Rothschilds cited in episode 67 and with public records of Epstein's work for the family.
@@ -1234,7 +1234,7 @@ Claim: The host says the audience was looking at a picture of the Rothschilds at
 Transcript Snippet: You were looking at a picture of the Rothschilds at their surrealist ball.
 
 Anchored Artifacts: A-3218.1
-Mentions: N-521
+Mentions: N-520
 Tags: relevance:tangential
 Investigative Direction: Identify the photograph shown; the 1972 Rothschild surrealist ball is documented in public archives, but the transcript does not give the date or source.
 
@@ -1309,7 +1309,7 @@ Claim: The host says that, in Rob Skiba's theory, once languages were confused N
 Transcript Snippet: Nimrod uh became known as different names. Bal, Tamas, Gilgamesh
 
 Anchored Artifacts: 
-Mentions: N-542
+Mentions: N-541
 Related Nodes: N-10480
 Supports: C-10012
 Tags: relevance:tangential
@@ -1326,7 +1326,7 @@ Claim: The host says Rob Skiba believes the elites view Nimrod or Gilgamesh as t
 Transcript Snippet: he believes that the elites view Nimrod and or Gilgamesh as the antichrist that they are working to try to resurrect for exactly that reason.
 
 Anchored Artifacts: 
-Mentions: N-542
+Mentions: N-541
 Related Nodes: N-10480
 Tags: relevance:tangential
 Investigative Direction: Locate the lecture text; this is one lecturer's belief as relayed by the host.
@@ -1342,7 +1342,7 @@ Claim: In the played clip, Rob Skiba says CERN's stated objective is to recreate
 Transcript Snippet: their stated objective is to recreate the Big Bang.
 
 Anchored Artifacts: A-1739.2
-Mentions: N-542
+Mentions: N-541
 Related Nodes: N-11029
 Tags: relevance:tangential
 Investigative Direction: Compare with CERN's published mission statement.
@@ -1358,7 +1358,7 @@ Claim: The host says it is a fact that CERN has a Shiva statue, which Rob Skiba 
 Transcript Snippet: it is just a fact that they do have that Shiva structure at CERN.
 
 Anchored Artifacts: A-1739.2
-Mentions: N-3, N-542
+Mentions: N-3, N-541
 Related Nodes: N-11029
 Tags: relevance:tangential
 Investigative Direction: CERN has publicly acknowledged a Shiva statue gifted by India; confirm its placement.
@@ -1437,7 +1437,7 @@ Claim: In the played Omega Man Radio clip, Tom Horn proposes that the Nephilim a
 Transcript Snippet: Imagine the startling proposition that the Nephilim, the giants, the mighty men of old, the gods and children of the watchers could somehow rise up
 
 Anchored Artifacts: A-1740.1
-Mentions: N-547
+Mentions: N-546
 Related Nodes: N-10490
 Tags: relevance:tangential
 Investigative Direction: Obtain the original Omega Man Radio broadcast; the clip is a theory, not a record.
@@ -1453,7 +1453,7 @@ Claim: In a clip the host plays, Rob Skiba says the US military started the occu
 Transcript Snippet: Interesting that the US military started its military occupation phase of Iraq one month later.
 
 Anchored Artifacts: 
-Mentions: N-542
+Mentions: N-541
 Related Nodes: N-10480
 Tags: relevance:tangential
 Investigative Direction: The transcript does not give a date for the alleged find; compare against the invasion and occupation timeline.
@@ -1469,7 +1469,7 @@ Claim: In a clip the host plays, Rob Skiba says the US established 500 military 
 Transcript Snippet: established 500 military bases in the largest embassy of any other embassy on the entire planet in Babylon.
 
 Anchored Artifacts: 
-Mentions: N-542
+Mentions: N-541
 Related Nodes: N-10481
 Tags: relevance:tangential
 Investigative Direction: Check the Department of Defense base count in Iraq and the location of the US embassy in Baghdad.
@@ -1485,7 +1485,7 @@ Claim: In a clip the host plays, Rob Skiba says he has a feeling that what the U
 Transcript Snippet: I have a feeling we found the weapon of mass destruction.
 
 Anchored Artifacts: 
-Mentions: N-542
+Mentions: N-541
 Related Nodes: N-10480
 Tags: relevance:tangential
 Investigative Direction: Speculation; no document is cited.
@@ -1501,7 +1501,7 @@ Claim: The host says Peter Thiel is dead focused on discussing the Antichrist al
 Transcript Snippet: Peter Thiel who is like dead focused on discussing the Antichrist all the time.
 
 Anchored Artifacts: 
-Mentions: N-522, N-3
+Mentions: N-521, N-3
 Supports: C-5445
 Tags: relevance:context
 Investigative Direction: Review Thiel's public lectures and interviews on the Antichrist.
@@ -1597,7 +1597,7 @@ Claim: The host says Erika Kirk told Glenn Beck that Charlie did not text anyone
 Transcript Snippet: she told us that Charlie did not text anyone the night before in fear for his life. That's what she told Glenn Beck.
 
 Anchored Artifacts: 
-Mentions: N-2, N-1, N-238
+Mentions: N-2, N-1, N-237
 Related Nodes: N-10340
 Supports: C-11126
 Tags: relevance:core
@@ -1630,7 +1630,7 @@ Claim: The host says Charlie texted both Andrew Kolvet and Dan Flood the night b
 Transcript Snippet: The reality is that Charlie texted both Andrew Kolvet and Dan Flood the night before, saying that he feared he was going to be killed after he was engaged in a discussion about him removing his support from Israel
 
 Anchored Artifacts: 
-Mentions: N-1, N-14, N-271
+Mentions: N-1, N-14, N-270
 Related Nodes: N-10340
 Supports: C-6825
 Tags: relevance:core
@@ -1679,7 +1679,7 @@ Claim: The host says the explanation offered was that Dan Flood and Andrew Kolve
 Transcript Snippet: the reason for that is because Dan Flood and Andrew Kolvet messaged him on a third party app and that's why I didn't know that was set for deletion.
 
 Anchored Artifacts: 
-Mentions: N-271, N-14, N-2, N-1
+Mentions: N-270, N-14, N-2, N-1
 Related Nodes: N-10470
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA's statement naming the app.
@@ -1695,7 +1695,7 @@ Claim: The host says Dan Flood actually messaged Charlie on iMessage, as she rep
 Transcript Snippet: Dan Flood actually messaged him on iMessage.
 
 Anchored Artifacts: 
-Mentions: N-271, N-3, N-1
+Mentions: N-270, N-3, N-1
 Related Nodes: N-10470
 Supports: C-2273
 Tags: relevance:core
@@ -1712,7 +1712,7 @@ Claim: The host says Mikey McCoy called Elizabeth first.
 Transcript Snippet: The reality is Mikey called Elizabeth first.
 
 Anchored Artifacts: 
-Mentions: N-191, N-218
+Mentions: N-190, N-217
 Related Nodes: N-10193
 Supports: C-1932
 Tags: relevance:core
@@ -1729,7 +1729,7 @@ Claim: The host says Elizabeth McCoy was completely rinsed out of the story for 
 Transcript Snippet: For some reason, she was completely rinsed out of the story, Elizabeth McCoy.
 
 Anchored Artifacts: 
-Mentions: N-218
+Mentions: N-217
 Related Nodes: N-10339
 Supports: C-1936
 Tags: relevance:core
@@ -1746,7 +1746,7 @@ Claim: The host says Mikey and Elizabeth then conference called Erika over three
 Transcript Snippet: And then they conference called Erika over 3 minutes later.
 
 Anchored Artifacts: 
-Mentions: N-191, N-218, N-2
+Mentions: N-190, N-217, N-2
 Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Obtain the call log timestamps.
@@ -1762,7 +1762,7 @@ Claim: The host quotes Erika saying 'He called me within seconds' and says maybe
 Transcript Snippet: She said, "He called me within seconds."
 
 Anchored Artifacts: 
-Mentions: N-2, N-191
+Mentions: N-2, N-190
 Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Locate Erika Kirk's original statement and compare it with the call log.
@@ -1888,7 +1888,7 @@ Claim: The host says, with the hedge 'allegedly', she received a pretty strong s
 Transcript Snippet: a pretty strong series of tips that I received that Erika was with a woman named Tracy Martin.
 
 Anchored Artifacts: 
-Mentions: N-546, N-2, N-3
+Mentions: N-545, N-2, N-3
 Related Nodes: N-10485
 Tags: relevance:core
 Investigative Direction: Obtain the tips themselves or independent confirmation of where Erika Kirk was on the morning of September 10.
@@ -1904,7 +1904,7 @@ Claim: The host says Tracy Martin is regularly at Dream City Church in Arizona.
 Transcript Snippet: she is regularly at Dream City Church.
 
 Anchored Artifacts: 
-Mentions: N-546
+Mentions: N-545
 Related Nodes: N-10487
 Tags: relevance:core
 Investigative Direction: Verify Martin's affiliation through church records or public posts.
@@ -1952,7 +1952,7 @@ Claim: The host says, with the hedge 'allegedly', that Tracy Martin was with Eri
 Transcript Snippet: Allegedly, she was with Erika when Mikey and Elizabeth called.
 
 Anchored Artifacts: 
-Mentions: N-546, N-2, N-191, N-218
+Mentions: N-545, N-2, N-190, N-217
 Related Nodes: N-10485, N-10193
 Tags: relevance:core
 Investigative Direction: Same as the tips behind the alibi claim.
@@ -1968,7 +1968,7 @@ Claim: The host says she is being told that Erika and her mother were not togeth
 Transcript Snippet: In fact, I'm being told that her and her mother were not together.
 
 Anchored Artifacts: 
-Mentions: N-2, N-490, N-3
+Mentions: N-2, N-489, N-3
 Related Nodes: N-10485
 Tags: relevance:core
 Investigative Direction: Identify the source of the report and any appointment record for the mother's treatment.
@@ -1984,7 +1984,7 @@ Claim: In the played clip, Tracy Martin says Erika started a nonprofit at 17.
 Transcript Snippet: starting a nonprofit at 17 instead of looking at that is like how do you do that
 
 Anchored Artifacts: A-1741.1
-Mentions: N-546, N-2
+Mentions: N-545, N-2
 Related Nodes: N-11165
 Tags: relevance:context
 Investigative Direction: Verify the nonprofit's founding date.
@@ -2000,7 +2000,7 @@ Claim: The host says Tracy Martin has known Erika's family and knows her mother,
 Transcript Snippet: she knows Erika's mother for sure uh there's a picture of them at least uh Definitely someone that's been in her life since Erika's pageant pageant days.
 
 Anchored Artifacts: 
-Mentions: N-546, N-2, N-490
+Mentions: N-545, N-2, N-489
 Tags: relevance:core
 Investigative Direction: Locate the photograph and pageant-era records.
 
@@ -2015,7 +2015,7 @@ Claim: The host says Tracy Martin has been following Erika to Romania and grew u
 Transcript Snippet: She has been following her to Romania. This woman grew up wealthy, by the way.
 
 Anchored Artifacts: 
-Mentions: N-546
+Mentions: N-545
 Tags: relevance:tangential
 Investigative Direction: Personal detail about a private individual; verify against public sources.
 
@@ -2030,7 +2030,7 @@ Claim: The host says Tracy Martin is from Missouri, which she describes as one o
 Transcript Snippet: she's from Missouri, which has been, you know, one of those regular stops on the Egyptian plains.
 
 Anchored Artifacts: 
-Mentions: N-546
+Mentions: N-545
 Related Nodes: N-10253
 Tags: relevance:context
 Investigative Direction: Check the ADS-B track of the Egyptian planes for Missouri stops.
@@ -2046,7 +2046,7 @@ Claim: The host says she is unable to determine what exactly Tracy Martin's husb
 Transcript Snippet: I'm also unable to determine what exactly it is that her husband does.
 
 Anchored Artifacts: 
-Mentions: N-546
+Mentions: N-545
 Related Nodes: N-10486
 Tags: relevance:tangential
 Investigative Direction: Personal detail about a private individual.
@@ -2062,7 +2062,7 @@ Claim: The host states she does not believe Erika Kirk was with her mother, Lori
 Transcript Snippet: I will state that I do not believe that Erika Kirk was with Lori Frantzve on September 10th.
 
 Anchored Artifacts: 
-Mentions: N-2, N-490
+Mentions: N-2, N-489
 Related Nodes: N-10485
 Tags: relevance:core
 Investigative Direction: Obtain records of the mother's treatment on that date and of Erika Kirk's whereabouts.
@@ -2078,7 +2078,7 @@ Claim: The host asks viewers to email tips to the tip address while seeking more
 Transcript Snippet: Email us at more tipscandowens. com.
 
 Anchored Artifacts: A-3219.1
-Mentions: N-3, N-546
+Mentions: N-3, N-545
 Related Nodes: N-10485, N-10487
 Tags: relevance:core
 Investigative Direction: Review the tips received at the tip address.
@@ -2142,7 +2142,7 @@ Claim: The host says she believes that in other chats Epstein is talking with St
 Transcript Snippet: And I believe uh in other chats he's talking with Steve Bannon.
 
 Anchored Artifacts: A-1742.1
-Mentions: N-9, N-390
+Mentions: N-9, N-389
 Tags: relevance:tangential
 Investigative Direction: Find the chats in the public Epstein files.
 
@@ -2157,7 +2157,7 @@ Claim: The host says she knows Macron's trigger is MK Ultra and anybody who disc
 Transcript Snippet: I know his trigger. His trigger is MK Ultra. Um, and his trigger is anybody that discusses his wife.
 
 Anchored Artifacts: 
-Mentions: N-378
+Mentions: N-377
 Supports: C-10837
 Tags: relevance:tangential
 Investigative Direction: Check the court filings referred to in episode 32.
@@ -2302,7 +2302,7 @@ Claim: The host says Terryl Farnsworth was supposed to take the cameras down so 
 Transcript Snippet: and that's why Terra was supposed to get those cameras down.
 
 Anchored Artifacts: 
-Mentions: N-262, N-1
+Mentions: N-261, N-1
 Tags: relevance:core
 Investigative Direction: Obtain the camera operator's account and TPUSA's footage chain of custody.
 
@@ -2332,7 +2332,7 @@ Investigative Direction: A sweeping assertion with no checkable record.
 - **Host spelling variant (Emmanuel Macron → "Macron"):** Preserved host's spelling in claim text and flagged here.
 - **Possible transcription error ("Sigmund Freud"):** Transcript renders "Sigmund Freud" as "Sigmund Freud" throughout. Preserved as transcribed; flag notes this is a host pronunciation / spelling variant of "Sigmund."
 - **Possible transcription error ("counterfeitterter"):** Bobby's comment contains a duplicated syllable in the source transcript; preserved as transcribed.
-- **Transcript ambiguity (Ben / Benjamin):** Angie comment addresses "Ben"; host addresses "Benjamin." Insufficient context to confirm whether these refer to the same individual. Flagged on N-551.
+- **Transcript ambiguity (Ben / Benjamin):** Angie comment addresses "Ben"; host addresses "Benjamin." Insufficient context to confirm whether these refer to the same individual. Flagged on N-550.
 - **Tip-based claim not inscribed:** Host's central assertion that Erika Kirk was with Tracy Martin (not Lori Frantzve) on September 10, 2025 is based on viewer tips referenced in this episode but is not anchored to any artifact in this episode. Per the Claim Admission Test (artifact anchor + falsifiability + rhetoric removal), it fails the artifact anchor test and is therefore not inscribed in the Claim Register. The persistent target N-10485 carries it forward for future artifact anchoring.
 - **Egyptian-plane assertion not inscribed:** Host's claim that a plane transponded on the tarmac with active communication is presented as host assertion, not anchored to a displayed artifact in this episode. Not inscribed.
 - **23andMe-kit email authenticity:** Emails are read aloud by host; underlying screenshots, headers, or DOJ attribution are not independently confirmed in this episode. Confidence Level: Medium.

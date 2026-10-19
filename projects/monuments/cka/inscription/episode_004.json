@@ -1362,8 +1362,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-181",
-      "ref": "N-181",
+      "@id": "N-180",
+      "ref": "N-180",
       "name": "Camera Operator (UVU Event, 2025-09-10)",
       "type": "person",
       "description": "The man the host says took the camera down minutes after the shooting; she says she identified him.",
@@ -3434,7 +3434,7 @@
       "transcript_snippet": "I was able to figure out who that person was because I recognized one of the individuals and I reached out to that individual and I said,",
       "mentions_person_refs": [
         "N-3",
-        "N-181"
+        "N-180"
       ]
     },
     {

@@ -728,8 +728,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
@@ -747,8 +747,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-485",
-      "ref": "N-485",
+      "@id": "N-484",
+      "ref": "N-484",
       "name": "Blake Lively",
       "type": "person",
       "description": "Named party in the Baldoni litigation; text-message correspondent with Taylor Swift per A-1665.1.",
@@ -770,8 +770,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-486",
-      "ref": "N-486",
+      "@id": "N-485",
+      "ref": "N-485",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Named party in the Lively litigation; subject of Taylor Swift's December 2024 text per A-1665.1.",
@@ -885,8 +885,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-155",
-      "ref": "N-155",
+      "@id": "N-154",
+      "ref": "N-154",
       "name": "John Mappin",
       "type": "person",
       "description": "John Mappin; friend and supporter of the host, relayed the black propaganda description.",
@@ -907,8 +907,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-156",
-      "ref": "N-156",
+      "@id": "N-155",
+      "ref": "N-155",
       "name": "Irina Mappin",
       "type": "person",
       "description": "Irina Mappin; friend and supporter of the host.",
@@ -928,8 +928,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-179",
-      "ref": "N-179",
+      "@id": "N-178",
+      "ref": "N-178",
       "name": "Jared Kushner",
       "type": "person",
       "description": "Jared Kushner; the host says he was in Iceland weeks before her.",
@@ -945,8 +945,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Mikey McCoy; the host says the Mappins know him very well.",
@@ -962,8 +962,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-282",
-      "ref": "N-282",
+      "@id": "N-281",
+      "ref": "N-281",
       "name": "Jennica Pounds",
       "type": "person",
       "description": "Jennica Pounds (Data Republican); the host details her background, thread and SGE status.",
@@ -988,8 +988,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-376",
-      "ref": "N-376",
+      "@id": "N-375",
+      "ref": "N-375",
       "name": "Ryan Reynolds",
       "type": "person",
       "description": "Ryan Reynolds; host's account of the Deadpool reshoot and pressure on Baldoni.",
@@ -1006,8 +1006,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-487",
-      "ref": "N-487",
+      "@id": "N-486",
+      "ref": "N-486",
       "name": "Taylor Swift",
       "type": "person",
       "description": "Taylor Swift; referenced in the Baldoni litigation account.",
@@ -1024,8 +1024,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-662",
-      "ref": "N-662",
+      "@id": "N-660",
+      "ref": "N-660",
       "name": "Ivanka Trump",
       "type": "person",
       "description": "Ivanka Trump; the host says she was in Iceland weeks earlier.",
@@ -1041,8 +1041,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-874",
-      "ref": "N-874",
+      "@id": "N-871",
+      "ref": "N-871",
       "name": "Britney Spears",
       "type": "person",
       "description": "Britney Spears; the host's comparison for media-driven breakdown.",
@@ -1284,8 +1284,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-930",
-      "ref": "N-930",
+      "@id": "N-927",
+      "ref": "N-927",
       "name": "Rabbi Shmuley Boteach",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 145 (as \"Rabbi Shmuley\").",
@@ -1319,8 +1319,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-931",
-      "ref": "N-931",
+      "@id": "N-928",
+      "ref": "N-928",
       "name": "Dan Steiner",
       "type": "person",
       "description": "First named by the host at 00:25:04 in episode 145. President of Pre-Born, per the sponsor read.",
@@ -1337,8 +1337,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-932",
-      "ref": "N-932",
+      "@id": "N-929",
+      "ref": "N-929",
       "name": "Sarah Rogers",
       "type": "person",
       "description": "First named by the host at 00:32:35 in episode 145. Under Secretary for Public Diplomacy at the State Department, whom the host says leaked to Jennica Pounds.",
@@ -1370,8 +1370,8 @@
       "claim_timestamp": "00:07:38",
       "investigative_direction": "Obtain the full October 6, 2025 article from its original publication venue; verify the quoted passages against the source.",
       "mentions_person_refs": [
+        "N-154",
         "N-155",
-        "N-156",
         "N-1"
       ]
     },
@@ -1390,8 +1390,8 @@
       "investigative_direction": "Compare the host's subsequent public statements to the Mappin article's framework for consistency.",
       "mentions_person_refs": [
         "N-3",
-        "N-155",
-        "N-156"
+        "N-154",
+        "N-155"
       ]
     },
     {
@@ -1408,7 +1408,7 @@
       "claim_timestamp": "00:13:27",
       "investigative_direction": "Independent corroboration of the encounter is achievable via flight manifests or third-party witnesses.",
       "mentions_person_refs": [
-        "N-486"
+        "N-485"
       ]
     },
     {
@@ -1425,7 +1425,7 @@
       "claim_timestamp": "00:14:02",
       "investigative_direction": "Verify via flight records or independent statements from Baldoni or his representatives.",
       "mentions_person_refs": [
-        "N-486"
+        "N-485"
       ]
     },
     {
@@ -1499,7 +1499,7 @@
       "claim_timestamp": "00:30:13",
       "investigative_direction": "Retrieve the full X thread directly from the platform; verify quoted content and amplification chain.",
       "mentions_person_refs": [
-        "N-282",
+        "N-281",
         "N-2",
         "N-3",
         "N-14"
@@ -1522,7 +1522,7 @@
       "investigative_direction": "Retrieve the original Kolvet post; verify timestamp and current status (deleted vs. live).",
       "mentions_person_refs": [
         "N-14",
-        "N-282",
+        "N-281",
         "N-3",
         "N-2"
       ]
@@ -1545,7 +1545,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-37",
-        "N-282",
+        "N-281",
         "N-3"
       ]
     },
@@ -1565,7 +1565,7 @@
       "claim_timestamp": "00:34:07",
       "investigative_direction": "Retrieve the original X post; cross-reference against Department of Defense / Department of War SGE disclosures.",
       "mentions_person_refs": [
-        "N-282"
+        "N-281"
       ]
     },
     {
@@ -1584,7 +1584,7 @@
       "claim_timestamp": "00:34:29",
       "investigative_direction": "Retrieve the full quoted X post; verify against Pentagon press credential records.",
       "mentions_person_refs": [
-        "N-282"
+        "N-281"
       ]
     },
     {
@@ -1601,8 +1601,8 @@
       "claim_timestamp": "00:33:25",
       "investigative_direction": "Retrieve the Blake Neff post directly; verify quoted text.",
       "mentions_person_refs": [
-        "N-160",
-        "N-932",
+        "N-159",
+        "N-929",
         "N-1"
       ]
     },
@@ -1620,8 +1620,8 @@
       "claim_timestamp": "00:33:25",
       "investigative_direction": "Cross-reference Senate confirmation records and State Department announcement archives.",
       "mentions_person_refs": [
-        "N-932",
-        "N-160"
+        "N-929",
+        "N-159"
       ]
     },
     {
@@ -1640,8 +1640,8 @@
       "claim_timestamp": "00:32:35",
       "investigative_direction": "Retrieve the original Data Republican post in which the leak disclosure occurred; request comment from Sarah Rogers or the State Department.",
       "mentions_person_refs": [
-        "N-282",
-        "N-932"
+        "N-281",
+        "N-929"
       ]
     },
     {
@@ -1678,7 +1678,7 @@
       "claim_timestamp": "00:17:34",
       "investigative_direction": "Obtain the full CCRD filing; verify the quoted passage in original context.",
       "mentions_person_refs": [
-        "N-485"
+        "N-484"
       ]
     },
     {
@@ -1695,7 +1695,7 @@
       "claim_timestamp": "00:17:34",
       "investigative_direction": "Verify by reading the full CCRD filing; compare to subsequent court filings.",
       "mentions_person_refs": [
-        "N-485"
+        "N-484"
       ]
     },
     {
@@ -1721,9 +1721,9 @@
         "N-14",
         "N-1",
         "N-37",
-        "N-160",
-        "N-932",
-        "N-282"
+        "N-159",
+        "N-929",
+        "N-281"
       ]
     },
     {
@@ -1741,9 +1741,9 @@
       "investigative_direction": "Public posts, photos or Icelandic press placing Shmuley Boteach, Ivanka Trump and Jared Kushner in Iceland in the weeks before the episode.",
       "transcript_snippet": "I saw Rumpelstiltskin, known to some people as Rabbi Shmuley, up in Iceland as well as Ivanka and Jared Kushner just before we were going to go, a couple of weeks before",
       "mentions_person_refs": [
-        "N-930",
-        "N-662",
-        "N-179",
+        "N-927",
+        "N-660",
+        "N-178",
         "N-3"
       ]
     },
@@ -1813,7 +1813,7 @@
         "C-3256"
       ],
       "mentions_person_refs": [
-        "N-930",
+        "N-927",
         "N-3"
       ]
     },
@@ -1856,8 +1856,8 @@
         "N-3",
         "N-1",
         "N-30",
-        "N-155",
-        "N-156"
+        "N-154",
+        "N-155"
       ]
     },
     {
@@ -1877,8 +1877,8 @@
       "investigative_direction": "Donor and introduction records for TPUSA in the Mappins' circle; the Mappins' own accounts of whom they introduced to Kirk.",
       "transcript_snippet": "They helped to bring Charlie and Turning Point USA to the next level by making introductions for Charlie that I would say launched the organization into a different stratosphere financially.",
       "mentions_person_refs": [
+        "N-154",
         "N-155",
-        "N-156",
         "N-1"
       ]
     },
@@ -1901,8 +1901,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-155",
-        "N-156"
+        "N-154",
+        "N-155"
       ]
     },
     {
@@ -1920,9 +1920,9 @@
       "investigative_direction": "Ask the Mappins to describe their relationship with Mikey McCoy and Erika Kirk; any joint events or correspondence.",
       "transcript_snippet": "Uh they also know Mikey McCoy very well. They adore Mikey actually.",
       "mentions_person_refs": [
+        "N-154",
         "N-155",
-        "N-156",
-        "N-191",
+        "N-190",
         "N-2"
       ]
     },
@@ -1942,7 +1942,7 @@
       "transcript_snippet": "there was a very obvious and intentional effort to drive me to the point of insanity",
       "mentions_person_refs": [
         "N-3",
-        "N-874"
+        "N-871"
       ]
     },
     {
@@ -1981,7 +1981,7 @@
       "investigative_direction": "Ask John Mappin to confirm the conversation and wording; compare with his published Mappin letter.",
       "transcript_snippet": "John described to me was a black propaganda campaign.",
       "mentions_person_refs": [
-        "N-155",
+        "N-154",
         "N-3"
       ]
     },
@@ -2001,8 +2001,8 @@
       "transcript_snippet": "donors have come to me in private and spoken about what they believed to be weird",
       "mentions_person_refs": [
         "N-3",
-        "N-155",
-        "N-156"
+        "N-154",
+        "N-155"
       ]
     },
     {
@@ -2086,7 +2086,7 @@
       "transcript_snippet": "I've never met Justin. I've never spoken to him or his wife. I've never even tried to reach out to them even once.",
       "mentions_person_refs": [
         "N-3",
-        "N-486"
+        "N-485"
       ]
     },
     {
@@ -2105,7 +2105,7 @@
       "transcript_snippet": "she said Blake Lively was awful. It was like her least favorite person to work with.",
       "mentions_person_refs": [
         "N-3",
-        "N-485"
+        "N-484"
       ]
     },
     {
@@ -2125,8 +2125,8 @@
       "investigative_direction": "Rights purchase and production records for the film adaptation as filed in the litigation.",
       "transcript_snippet": "purchased the rights to create a film about the books using his movie studio",
       "mentions_person_refs": [
-        "N-486",
-        "N-485"
+        "N-485",
+        "N-484"
       ]
     },
     {
@@ -2149,8 +2149,8 @@
         "C-6926"
       ],
       "mentions_person_refs": [
-        "N-485",
-        "N-486"
+        "N-484",
+        "N-485"
       ]
     },
     {
@@ -2173,9 +2173,9 @@
         "C-6926"
       ],
       "mentions_person_refs": [
+        "N-484",
         "N-485",
-        "N-486",
-        "N-376"
+        "N-375"
       ]
     },
     {
@@ -2193,8 +2193,8 @@
       "investigative_direction": "The message in the litigation record that the host paraphrases; the exact wording and sender.",
       "transcript_snippet": "Taylor Swift is there that she doesn't get what she wants, she's going to release her dragons.",
       "mentions_person_refs": [
-        "N-485",
-        "N-487"
+        "N-484",
+        "N-486"
       ]
     },
     {
@@ -2215,8 +2215,8 @@
         "C-2882"
       ],
       "mentions_person_refs": [
-        "N-486",
-        "N-485"
+        "N-485",
+        "N-484"
       ]
     },
     {
@@ -2237,8 +2237,8 @@
         "C-2880"
       ],
       "mentions_person_refs": [
-        "N-376",
-        "N-486"
+        "N-375",
+        "N-485"
       ]
     },
     {
@@ -2277,7 +2277,7 @@
         "C-2880"
       ],
       "mentions_person_refs": [
-        "N-486",
+        "N-485",
         "N-3"
       ]
     },
@@ -2296,7 +2296,7 @@
       "investigative_direction": "Baldoni's own public statements; this is a private conversation reported by the host.",
       "transcript_snippet": "how close they were to hitting rock bottom",
       "mentions_person_refs": [
-        "N-486",
+        "N-485",
         "N-3"
       ]
     },
@@ -2315,7 +2315,7 @@
       "investigative_direction": "Baldoni's public statements about kombucha; this is a private conversation reported by the host.",
       "transcript_snippet": "He doesn't actually drink kombucha. He's not a big kombucha drinker.",
       "mentions_person_refs": [
-        "N-486",
+        "N-485",
         "N-3"
       ]
     },
@@ -2336,8 +2336,8 @@
       "investigative_direction": "Litigation and press records identifying the PR and agency actors and any role attributed to Taylor Swift.",
       "transcript_snippet": "he was up against an established power. I mean, it was the New York Times. It was WME.",
       "mentions_person_refs": [
-        "N-486",
-        "N-487"
+        "N-485",
+        "N-486"
       ]
     },
     {
@@ -2359,7 +2359,7 @@
       "investigative_direction": "Pre-Born's own reporting; this is a sponsor claim.",
       "transcript_snippet": "more than 50,000 babies have been saved from abortion",
       "mentions_person_refs": [
-        "N-931"
+        "N-928"
       ]
     },
     {
@@ -2384,7 +2384,7 @@
         "C-9809"
       ],
       "mentions_person_refs": [
-        "N-931"
+        "N-928"
       ]
     },
     {
@@ -2492,7 +2492,7 @@
       "investigative_direction": "Timestamps of the NCRI report and Pounds' thread, and any contact between the two.",
       "transcript_snippet": "this report on the first day. And then we have this report being mysteriously expanded upon by a woman named Jennica Pounds",
       "mentions_person_refs": [
-        "N-282"
+        "N-281"
       ]
     },
     {
@@ -2512,7 +2512,7 @@
       "investigative_direction": "Pounds' public profile and employment history; Utah residence records are not needed beyond her own statements.",
       "transcript_snippet": "Jennica Pounds is a Utah software engineer",
       "mentions_person_refs": [
-        "N-282"
+        "N-281"
       ]
     },
     {
@@ -2530,7 +2530,7 @@
       "investigative_direction": "Musk's 2025 posts about Data Republican.",
       "transcript_snippet": "Elon Musk promotes her in 2025",
       "mentions_person_refs": [
-        "N-282",
+        "N-281",
         "N-118"
       ]
     },
@@ -2555,7 +2555,7 @@
       ],
       "mentions_person_refs": [
         "N-14",
-        "N-282"
+        "N-281"
       ]
     },
     {
@@ -2575,7 +2575,7 @@
       "investigative_direction": "The full thread: which accounts it quotes, whether any are verifiable threats, and whether any are linked to the Pentagon.",
       "transcript_snippet": "So you can see how long this thread is, how deep she went into the 30-06 stuff",
       "mentions_person_refs": [
-        "N-282",
+        "N-281",
         "N-2",
         "N-3"
       ]
@@ -2601,7 +2601,7 @@
       ],
       "mentions_person_refs": [
         "N-37",
-        "N-282"
+        "N-281"
       ]
     },
     {
@@ -2624,8 +2624,8 @@
         "C-3340"
       ],
       "mentions_person_refs": [
-        "N-282",
-        "N-932"
+        "N-281",
+        "N-929"
       ]
     },
     {
@@ -2648,8 +2648,8 @@
         "C-3338"
       ],
       "mentions_person_refs": [
-        "N-932",
-        "N-160"
+        "N-929",
+        "N-159"
       ]
     },
     {
@@ -2675,8 +2675,8 @@
         "C-3344"
       ],
       "mentions_person_refs": [
-        "N-160",
-        "N-932"
+        "N-159",
+        "N-929"
       ]
     },
     {
@@ -2702,7 +2702,7 @@
         "C-3336"
       ],
       "mentions_person_refs": [
-        "N-282"
+        "N-281"
       ]
     },
     {
@@ -2720,7 +2720,7 @@
       "investigative_direction": "Incorporation and tax filings for the institute.",
       "transcript_snippet": "Apparently, she also set up an institute for herself, so somebody should look into who's funding her.",
       "mentions_person_refs": [
-        "N-282"
+        "N-281"
       ]
     },
     {
@@ -2739,7 +2739,7 @@
       "transcript_snippet": "make a guess that Bill Ackman maybe is cutting a check somewhere somehow in the background of this",
       "mentions_person_refs": [
         "N-37",
-        "N-282"
+        "N-281"
       ]
     },
     {

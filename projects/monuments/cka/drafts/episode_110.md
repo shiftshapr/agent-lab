@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11400, N-11401
-  - Tip-minted Nodes (reintro-ep110): N-668, N-756
+  - Tip-minted Nodes (reintro-ep110): N-666, N-754
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14630–C-14711
   - New Nodes Introduced: N-10668, N-10669
-  - Hole-minted Nodes (wave3): N-434, N-435, N-449
-  - Reused Nodes Appearing: N-28, N-10671, N-10675, N-10670, N-10672, N-10673, N-10674, N-9, N-17, N-22, N-37, N-46, N-55, N-57, N-58, N-59, N-191, N-267, N-279, N-280, N-306, N-362, N-593, N-10012, N-10027, N-10117, N-10122, N-10123, N-10220, N-10264, N-10276, N-10310, N-10334, N-10347, N-10367, N-10370, N-10373, N-10378, N-10456, N-10571, N-10575, N-10652, N-10653, N-10664, N-10722, N-10870, N-10901, N-10910, N-11079, N-11123, N-11324
+  - Hole-minted Nodes (wave3): N-433, N-434, N-448
+  - Reused Nodes Appearing: N-28, N-10671, N-10675, N-10670, N-10672, N-10673, N-10674, N-9, N-17, N-22, N-37, N-46, N-55, N-57, N-58, N-59, N-190, N-266, N-278, N-279, N-305, N-361, N-591, N-10012, N-10027, N-10117, N-10122, N-10123, N-10220, N-10264, N-10276, N-10310, N-10334, N-10347, N-10367, N-10370, N-10373, N-10378, N-10456, N-10571, N-10575, N-10652, N-10653, N-10664, N-10722, N-10870, N-10901, N-10910, N-11079, N-11123, N-11324
   - (see registers)
 
 ## I. Meta-Data
@@ -304,19 +304,19 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-434** Bradley Hansell
+**N-433** Bradley Hansell
 
 First named by the host at 00:12:14 in episode 110. Aliases: Bradley Hansell, Brad Hansell, Brad Hansell.
 
 *Related: C-2909, C-2910, C-2911, C-2912, C-2913, A-2076.1, A-2079.1*
 
-**N-435** Christoph Schweizer
+**N-434** Christoph Schweizer
 
 First named by the host at 00:18:28 in episode 110. Aliases: Christoph Schweizer, Kristoff Schweiser.
 
 *Related: C-2919, C-2920, C-2921, C-2922, C-2923, C-2932, C-2934*
 
-**N-449** Leola Anderson
+**N-448** Leola Anderson
 
 First named by the host at 00:37:13 in episode 110.
 
@@ -550,7 +550,7 @@ Hosted Netanyahu, interview released July 21 per the host.
 
 ---
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 Joined the Kirks in Maine for the first time per the host.
 
@@ -558,7 +558,7 @@ Joined the Kirks in Maine for the first time per the host.
 
 ---
 
-**N-267** Brian Harpole
+**N-266** Brian Harpole
 
 Man the host says a witness thinks he saw leaving a Fort Huachuca meeting.
 
@@ -566,7 +566,7 @@ Man the host says a witness thinks he saw leaving a Fort Huachuca meeting.
 
 ---
 
-**N-279** Bari Weiss
+**N-278** Bari Weiss
 
 Named in a viewer comment about Erika Kirk's CBS interview.
 
@@ -574,7 +574,7 @@ Named in a viewer comment about Erika Kirk's CBS interview.
 
 ---
 
-**N-280** Bob Evnen
+**N-279** Bob Evnen
 
 Nebraska Secretary of State named in the host's Nebraska-Egypt trade trip claim.
 
@@ -582,7 +582,7 @@ Nebraska Secretary of State named in the host's Nebraska-Egypt trade trip claim.
 
 ---
 
-**N-306** Wed Mahmoud
+**N-305** Wed Mahmoud
 
 Egyptian-plane passenger the host calls Wed Mahmoud.
 
@@ -590,7 +590,7 @@ Egyptian-plane passenger the host calls Wed Mahmoud.
 
 ---
 
-**N-362** Mitch Snow
+**N-361** Mitch Snow
 
 Eyewitness at the center of the Fort Huachuca sighting.
 
@@ -598,7 +598,7 @@ Eyewitness at the center of the Fort Huachuca sighting.
 
 ---
 
-**N-438** Johnnie Moore
+**N-437** Johnnie Moore
 
 Evangelical leader named GHF chairman, per the host.
 
@@ -606,7 +606,7 @@ Evangelical leader named GHF chairman, per the host.
 
 ---
 
-**N-593** Bret Weinstein
+**N-591** Bret Weinstein
 
 Credited by the host for confirming the June 18 White House dates.
 
@@ -614,7 +614,7 @@ Credited by the host for confirming the June 18 White House dates.
 
 ---
 
-**N-668** James Kaddis
+**N-666** James Kaddis
 
 Calvary Chapel pastor and head of the TPUSA faith department per the host.
 
@@ -622,7 +622,7 @@ Calvary Chapel pastor and head of the TPUSA faith department per the host.
 
 ---
 
-**N-756** Claire Guinan
+**N-754** Claire Guinan
 
 Jezebel writer the host links to the Etsy curse.
 
@@ -881,7 +881,7 @@ Claim Timestamp: 00:13:30
 Claim: Per the Department of War website the host cites, Bradley Hansell exercises authority, direction, and control over all intelligence and security organizations in the Department of War on behalf of the Secretary of War.
 
 Anchored Artifacts: A-2079.1
-Mentions: N-434
+Mentions: N-433
 
 Related Nodes: N-10668
 
@@ -896,7 +896,7 @@ Claim Timestamp: 00:13:30
 Claim: Per host, Hansell was nominated by Trump and confirmed by the Senate, then sworn in on July 25, 2025.
 
 Anchored Artifacts: A-2076.2, A-2079.1
-Mentions: N-434
+Mentions: N-433
 
 Related Nodes:
 
@@ -911,7 +911,7 @@ Claim Timestamp: 00:14:05
 Claim: Per host, after serving in the Navy and Army Special Forces Airborne Division, Hansell went to work for the Boston Consulting Group.
 
 Anchored Artifacts: A-2079.1
-Mentions: N-434
+Mentions: N-433
 
 Related Nodes:
 
@@ -926,7 +926,7 @@ Claim Timestamp: 00:14:20
 Claim: Per host, Hansell was picked to work under Trump's first administration as a member of the National Security Council as Special Assistant to President Donald J. Trump for National Security Affairs.
 
 Anchored Artifacts: A-2079.1
-Mentions: N-434
+Mentions: N-433
 
 Related Nodes: N-10668
 
@@ -941,7 +941,7 @@ Claim Timestamp: 00:14:10
 Claim: Per host, Hansell worked at the Boston Consulting Group both after his military service and after Trump's first term (returning as a principal of the firm).
 
 Anchored Artifacts: A-2076.1, A-2079.1
-Mentions: N-434
+Mentions: N-433
 
 Related Nodes: N-10668
 
@@ -1042,7 +1042,7 @@ Claim Timestamp: 00:18:30
 Claim: Per host reading, BCG CEO Christoph Schweizer described the Project Aurora episode as "reputationally very damaging."
 
 Anchored Artifacts: A-2077.1
-Mentions: N-435
+Mentions: N-434
 
 Related Nodes: N-10669
 
@@ -1057,7 +1057,7 @@ Claim Timestamp: 00:20:30
 Claim: Per Times of Israel article referenced by host, Johnnie Moore was appointed executive chairman of the Gaza Humanitarian Foundation after Jake Wood's resignation and BCG's withdrawal.
 
 Anchored Artifacts: A-2076.2, A-2078.1
-Mentions: N-438
+Mentions: N-437
 
 Related Nodes: N-10670
 
@@ -1116,7 +1116,7 @@ Claim Timestamp: 00:37:50
 Claim: Per NYT article, on June 16, 1968, Mitt Romney was driving a car in southern France that was hit head-on; H. Duane Anderson's wife Leola was killed.
 
 Anchored Artifacts: A-2081.1
-Mentions: N-28, N-449
+Mentions: N-28, N-448
 
 Related Nodes:
 
@@ -1523,7 +1523,7 @@ Claim: The host says her team found a man who thinks he saw Brian Harpole walkin
 Transcript Snippet: We just found a guy who thinks he saw Brian Harpole walking out of a meeting and for whatever reason, Brian Harpole has been extremely reticent
 
 Anchored Artifacts: 
-Mentions: N-267, N-362
+Mentions: N-266, N-361
 Related Nodes: N-10373, N-10367
 Tags: relevance:core
 Investigative Direction: Obtain Harpole's direct answer or contracting records for Fort Huachuca on September 8-9, 2025; reinterview the witness.
@@ -1539,7 +1539,7 @@ Claim: The host says that after the Fort Huachuca sighting, an influencer campai
 Transcript Snippet: Uh, we got an influence an influencer campaign with a lot of special forces guys suddenly in the mix. Very strange screaming threats. They're going to take you down. We're going to platform Mitch's baby mamas.
 
 Anchored Artifacts: 
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Related Nodes: N-10378
 Tags: relevance:context
 Investigative Direction: Identify the accounts and dates of the posts the host refers to and who coordinated them.
@@ -1571,7 +1571,7 @@ Claim: The host says one of the VIPs aboard the Fort Huachuca-to-El Paso plane, 
 Transcript Snippet: now we can reveal the name of one of those VIPs who was aboard the plane apparently with four other people. His name is Bradley Hansell.
 
 Anchored Artifacts: A-2076.1
-Mentions: N-434
+Mentions: N-433
 Related Nodes: N-10671
 Tags: relevance:core
 Investigative Direction: Obtain the SAM702 manifest and Hansell's travel calendar through FOIA; the host says her request is pending (see later episodes).
@@ -1587,7 +1587,7 @@ Claim: The host says that in the same month Bradley Hansell was sworn in (July 2
 Transcript Snippet: in the very month that Mr. Hansell was sworn in, the Boston Consulting Group had a massive scandal which was uncovered due to the reporting over at the Financial Times.
 
 Anchored Artifacts: A-2077.1
-Mentions: N-434
+Mentions: N-433
 Related Nodes: N-10668, N-10669
 Tags: relevance:context
 Investigative Direction: Compare Hansell's swearing-in date (July 25, 2025) with the Financial Times Project Aurora publication dates.
@@ -1648,7 +1648,7 @@ Claim: The host says Reverend Johnnie Moore is one half of the duo behind the Ka
 Transcript Snippet: Reverend Johnnie Moore, one half of the Kairos Company duo with Andrew Kolvet. Once upon a time, that's where Andrew Kolvet's from.
 
 Anchored Artifacts: A-2078.1
-Mentions: N-438, N-14
+Mentions: N-437, N-14
 Related Nodes: N-10670
 Tags: relevance:core
 Investigative Direction: Check corporate records and bios for the Kairos Company and Kolvet's and Moore's roles.
@@ -1664,7 +1664,7 @@ Claim: The host says Johnnie Moore eventually abandoned the Gaza Humanitarian Fo
 Transcript Snippet: He would eventually abandon the project November. There was no fixing it.
 
 Anchored Artifacts: 
-Mentions: N-438
+Mentions: N-437
 Related Nodes: N-10670
 Tags: relevance:context
 Investigative Direction: Check news reports on Moore's departure from the GHF and its date.
@@ -1695,7 +1695,7 @@ Claim: The host says a person on the Egyptian plane who goes by Wed Mahmoud was 
 Transcript Snippet: this person on the Egyptian plane who goes by Wed Mahmoud. Okay, he is aboard on June 2nd, 2025.
 
 Anchored Artifacts: A-2076.2
-Mentions: N-306
+Mentions: N-305
 Related Nodes: N-10310
 Tags: relevance:core
 Investigative Direction: Check flight tracking and any manifest for SU-BTU on May 27-June 2, 2025 and the passenger name.
@@ -1711,7 +1711,7 @@ Claim: The host says the same Wed Mahmoud will also be on the plane that leaves 
 Transcript Snippet: So, he is going to come back and he will also be on this plane um that departs on the which leaves Wilmington on the day of Charlie's assassination.
 
 Anchored Artifacts: A-2076.2
-Mentions: N-306, N-1
+Mentions: N-305, N-1
 Related Nodes: N-10310
 Tags: relevance:core
 Investigative Direction: Obtain passenger and handling records for the Egyptian aircraft at Wilmington on September 10, 2025.
@@ -1727,7 +1727,7 @@ Claim: The host says her timeline has Reverend Johnnie Moore announced on June 3
 Transcript Snippet: On June 3rd, Reverend Johnnie Moore is announced to take over as chairman of the Gaza Humanitarian Aid Project
 
 Anchored Artifacts: A-2076.2
-Mentions: N-438
+Mentions: N-437
 Related Nodes: N-10670
 Tags: relevance:context
 Investigative Direction: Check the announcement date in the Times of Israel and GHF press release.
@@ -1772,7 +1772,7 @@ Claim: The host says that on June 18, 2025 Charlie Kirk went to the White House 
 Transcript Snippet: June 18th. That is when Charlie goes into the White House. We have confirmed those dates thanks to Brett Weinstein. Goes into the White House and he is arguing for us not to get involved in Israel's war with Iran.
 
 Anchored Artifacts: A-2076.2
-Mentions: N-1, N-593, N-36
+Mentions: N-1, N-591, N-36
 Related Nodes: N-10674
 Tags: relevance:core
 Investigative Direction: Obtain White House visitor logs or participants' accounts for June 18-19, 2025 and Weinstein's source for the dates.
@@ -1819,7 +1819,7 @@ Claim: The host says writer Claire Guinan, who had never published and has no wr
 Transcript Snippet: This writer, Claire Guinan, who had never published before, she has no writing profile at all, writes her first article for Jezebel.
 
 Anchored Artifacts: A-2076.2
-Mentions: N-756
+Mentions: N-754
 Related Nodes: N-10122, N-10117
 Supports: C-1274
 Tags: relevance:context
@@ -1836,7 +1836,7 @@ Claim: The host says Claire Guinan went on Etsy, found a new witch profile and b
 Transcript Snippet: buy a spell about harming Charlie Kirk, putting a curse onto Charlie Kirk. It's very unusual. We paid some Etsy witches to curse Charlie Kirk. That was just um less than 10 days after Charlie won this debate
 
 Anchored Artifacts: A-2076.2
-Mentions: N-756, N-1
+Mentions: N-754, N-1
 Related Nodes: N-10117, N-10123, N-10122
 Supports: C-1274
 Tags: relevance:core
@@ -1917,7 +1917,7 @@ Claim: The host says that on July 14, 2025 Erika Kirk traveled to Long Beach, Ca
 Transcript Snippet: Erika travels to Long Beach, California to speak at James Kaddis' Calvary Chapel Church for their Women's Summer of Psalms retreat.
 
 Anchored Artifacts: A-2076.2
-Mentions: N-2, N-668
+Mentions: N-2, N-666
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Find the retreat program or video and flight records for July 14, 2025.
@@ -1933,7 +1933,7 @@ Claim: The host says James Kaddis heads up the Turning Point USA faith departmen
 Transcript Snippet: That's interesting because James Kaddis heads up the Turning Point USA faith department.
 
 Anchored Artifacts: 
-Mentions: N-668
+Mentions: N-666
 Tags: relevance:context
 Investigative Direction: Check TPUSA staff pages for the faith department head and Catis' role.
 
@@ -2012,7 +2012,7 @@ Claim: The host says Mikey McCoy and his wife Elizabeth joined the Kirk family i
 Transcript Snippet: Mikey McCoy and his wife Eliza uh Elizabeth join them for the first time and that's when this BTS content is being caught of Charlie walking with his children.
 
 Anchored Artifacts: A-2076.2
-Mentions: N-191, N-1
+Mentions: N-190, N-1
 Supports: C-10980
 Tags: relevance:context
 Investigative Direction: Check McCoy's and the Kirks' posts from the Maine trip.
@@ -2028,7 +2028,7 @@ Claim: The host says that on July 22, 2025 it was announced Nebraska would do a 
 Transcript Snippet: it is announced that Nebraska is going to do a trade and investment trip with Egypt. There was some private off-record meeting that took place with international professionals per the local media.
 
 Anchored Artifacts: A-2083.1
-Mentions: N-280
+Mentions: N-279
 Related Nodes: N-10276
 Tags: relevance:core
 Investigative Direction: Obtain the Nebraska Secretary of State's calendar and trade-mission announcement for July 2025 and names of the Egyptian participants.
@@ -2168,7 +2168,7 @@ Claim: Per the New York Times article the host reads, H. Duane Anderson took his
 Transcript Snippet: He took his wife and two missionaries and a French Mormon couple, six people in a car that would have comfortably sat just five.
 
 Anchored Artifacts: A-2081.1
-Mentions: N-28, N-449
+Mentions: N-28, N-448
 Tags: relevance:tangential
 Investigative Direction: Read the New York Times article on the 1968 France crash.
 
@@ -2500,7 +2500,7 @@ Claim: A viewer comment read by the host says it was shady for Erika to pick Bar
 Transcript Snippet: Also, super shady for her to pick Bari Weiss's CBS and declared Charlie's support for Israel.
 
 Anchored Artifacts: A-3335.4
-Mentions: N-2, N-279
+Mentions: N-2, N-278
 Related Nodes: N-10334
 Tags: relevance:context
 Investigative Direction: Review the CBS interview with Erika Kirk and what she said about Charlie's position on Israel.

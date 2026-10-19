@@ -33,7 +33,7 @@
             "C-2132"
           ],
           "related_nodes": [
-            "N-471",
+            "N-470",
             "N-10425"
           ],
           "tags": [],
@@ -56,7 +56,7 @@
             "C-2131"
           ],
           "related_nodes": [
-            "N-471",
+            "N-470",
             "N-10425"
           ],
           "tags": [],
@@ -85,7 +85,7 @@
             "C-2135"
           ],
           "related_nodes": [
-            "N-271",
+            "N-270",
             "N-10425",
             "N-10426"
           ],
@@ -116,7 +116,7 @@
             "C-2139"
           ],
           "related_nodes": [
-            "N-472",
+            "N-471",
             "N-10425"
           ],
           "tags": [],
@@ -168,7 +168,7 @@
             "C-2148"
           ],
           "related_nodes": [
-            "N-471"
+            "N-470"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,7 +195,7 @@
             "C-2141"
           ],
           "related_nodes": [
-            "N-473",
+            "N-472",
             "N-10427"
           ],
           "tags": [],
@@ -214,7 +214,7 @@
             "C-2140"
           ],
           "related_nodes": [
-            "N-473",
+            "N-472",
             "N-10427"
           ],
           "tags": [],
@@ -353,8 +353,8 @@
           ],
           "related_nodes": [
             "N-17",
+            "N-473",
             "N-474",
-            "N-475",
             "N-10429"
           ],
           "tags": [],
@@ -407,7 +407,7 @@
             "C-2147"
           ],
           "related_nodes": [
-            "N-271",
+            "N-270",
             "N-1"
           ],
           "tags": [],
@@ -699,8 +699,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Dan Flood",
       "type": "person",
       "description": "Head of TPUSA/Charlie Kirk security detail; subject of biographical claims regarding Allen Texas upbringing, New Braunfels Texas residency, and prior security work at the Cattleman's Ball.",
@@ -722,15 +722,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-471",
+        "N-470",
         "N-10425",
         "N-10426"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-471",
-      "ref": "N-471",
+      "@id": "N-470",
+      "ref": "N-470",
       "name": "Robert Eugene Flood",
       "type": "person",
       "description": "Father of Dan Flood; identified via displayed profile image and LinkedIn scroll as a retired law enforcement officer spanning Illinois and Texas.",
@@ -757,14 +757,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-271",
+        "N-270",
         "N-10425"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Brian Harpole",
       "type": "person",
       "description": "TPUSA security team member present on September 10; identified by host as also Dallas-born, working under Greg Schmidt for Charlie Kirk's security.",
@@ -776,15 +776,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-472",
+        "N-471",
         "N-10425",
         "N-10426"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-472",
-      "ref": "N-472",
+      "@id": "N-471",
+      "ref": "N-471",
       "name": "Bobby Harpole",
       "type": "person",
       "description": "Father of Brian Harpole; 2018 law enforcement interview artifact establishes multi-decade Texas DPS and Erath County Sheriff's Office career.",
@@ -803,14 +803,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-267",
+        "N-266",
         "N-10425"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-333",
-      "ref": "N-333",
+      "@id": "N-332",
+      "ref": "N-332",
       "name": "Greg Shaffer",
       "type": "person",
       "description": "Founder of Shaffer Security, identified by host as former FBI hostage rescue team member with Budapest stationing.",
@@ -822,14 +822,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-271",
+        "N-270",
         "N-10425"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-457",
-      "ref": "N-457",
+      "@id": "N-456",
+      "ref": "N-456",
       "name": "Bill Montgomery",
       "type": "person",
       "description": "Identified by host as the figure who convinced Charlie Kirk to start TPUSA and initially organized/paid for Charlie's security via Shaffer Security.",
@@ -842,14 +842,14 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1",
-        "N-271",
+        "N-270",
         "N-10425"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-473",
-      "ref": "N-473",
+      "@id": "N-472",
+      "ref": "N-472",
       "name": "Zach De Gregorio (Wolves and Finance)",
       "type": "person",
       "description": "YouTuber who received the TPUSA cease-and-desist letter and produced the on-air clip.",
@@ -906,8 +906,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-461",
-      "ref": "N-461",
+      "@id": "N-460",
+      "ref": "N-460",
       "name": "Nelda Buckman",
       "type": "person",
       "description": "Co-donor (with Carl Buckman) identified as TPUSA's number-one donor with a $10 million check; New Braunfels resident.",
@@ -919,14 +919,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-462",
+        "N-461",
         "N-10426"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-462",
-      "ref": "N-462",
+      "@id": "N-461",
+      "ref": "N-461",
       "name": "Karl Buckman",
       "type": "person",
       "description": "Co-donor (with NDA Buckman) identified as TPUSA's number-one donor; New Braunfels resident.",
@@ -938,7 +938,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-461",
+        "N-460",
         "N-10426"
       ]
     },
@@ -966,8 +966,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-474",
-      "ref": "N-474",
+      "@id": "N-473",
+      "ref": "N-473",
       "name": "Gary Hamrick",
       "type": "person",
       "description": "Pastor of Cornerstone Chapel; speaker in the announcement video.",
@@ -988,8 +988,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-475",
-      "ref": "N-475",
+      "@id": "N-474",
+      "ref": "N-474",
       "name": "Samuel Smadja",
       "type": "person",
       "description": "Israeli businessman; named guest at the January 21 Cornerstone Chapel event.",
@@ -1010,8 +1010,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-476",
-      "ref": "N-476",
+      "@id": "N-475",
+      "ref": "N-475",
       "name": "Ben Carollo",
       "type": "person",
       "description": "Charlie Kirk's debate opponent in the clip where Charlie states his wife lived in China 6 months.",
@@ -1050,11 +1050,11 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-271",
+        "N-270",
+        "N-470",
+        "N-266",
         "N-471",
-        "N-267",
-        "N-472",
-        "N-333"
+        "N-332"
       ]
     },
     {
@@ -1077,9 +1077,9 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-271",
-        "N-461",
-        "N-462"
+        "N-270",
+        "N-460",
+        "N-461"
       ]
     },
     {
@@ -1153,8 +1153,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-17",
-        "N-474",
-        "N-475"
+        "N-473",
+        "N-474"
       ]
     },
     {
@@ -1321,8 +1321,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-218",
-      "ref": "N-218",
+      "@id": "N-217",
+      "ref": "N-217",
       "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Elizabeth McCoy; the target of the host's mock conspiracy theory about Erika Kirk.",
@@ -1338,8 +1338,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-225",
-      "ref": "N-225",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Shawn Ryan; interviewer to whom Harpole said there were no drones.",
@@ -1355,8 +1355,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Baron Coleman; the host's guest for the joint show the next day.",
@@ -1373,8 +1373,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-362",
-      "ref": "N-362",
+      "@id": "N-361",
+      "ref": "N-361",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Mitch Snow; Fort Huachuca witness a commenter tried to discredit.",
@@ -1390,8 +1390,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-488",
-      "ref": "N-488",
+      "@id": "N-487",
+      "ref": "N-487",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Rick Cutler; named by the host as one of the Texas-based security staff.",
@@ -1407,8 +1407,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-710",
-      "ref": "N-710",
+      "@id": "N-708",
+      "ref": "N-708",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; referenced by the emailer's JFK assassination claim.",
@@ -1677,7 +1677,7 @@
       "claim_timestamp": "00:06:38",
       "investigative_direction": "Verify through Texas A&M University Police Department public records or alumni directories.",
       "mentions_person_refs": [
-        "N-471"
+        "N-470"
       ]
     },
     {
@@ -1696,7 +1696,7 @@
       "claim_timestamp": "00:06:38",
       "investigative_direction": "Verify through official retirement records and state police licensing databases.",
       "mentions_person_refs": [
-        "N-471"
+        "N-470"
       ]
     },
     {
@@ -1715,7 +1715,7 @@
       "claim_timestamp": "00:06:38",
       "investigative_direction": "Verify through Bosque County Sheriff's Office public records.",
       "mentions_person_refs": [
-        "N-471"
+        "N-470"
       ]
     },
     {
@@ -1734,7 +1734,7 @@
       "claim_timestamp": "00:07:23",
       "investigative_direction": "Verify through FBI National Academy alumni records.",
       "mentions_person_refs": [
-        "N-471"
+        "N-470"
       ]
     },
     {
@@ -1753,7 +1753,7 @@
       "claim_timestamp": "00:07:23",
       "investigative_direction": "Verify through military service records.",
       "mentions_person_refs": [
-        "N-471"
+        "N-470"
       ]
     },
     {
@@ -1772,7 +1772,7 @@
       "claim_timestamp": "00:07:23",
       "investigative_direction": "Verify through Franklin Park Police Department employment records and cross-reference with Charlie Kirk's Illinois upbringing area.",
       "mentions_person_refs": [
-        "N-471"
+        "N-470"
       ]
     },
     {
@@ -1791,7 +1791,7 @@
       "claim_timestamp": "00:08:36",
       "investigative_direction": "Verify through Army Reserve official records.",
       "mentions_person_refs": [
-        "N-471"
+        "N-470"
       ]
     },
     {
@@ -1810,7 +1810,7 @@
       "claim_timestamp": "00:09:03",
       "investigative_direction": "Verify through FBIA membership rolls.",
       "mentions_person_refs": [
-        "N-471"
+        "N-470"
       ]
     },
     {
@@ -1829,8 +1829,8 @@
       "claim_timestamp": "00:10:23",
       "investigative_direction": "Cross-reference Illinois address records for Robert Flood with Charlie Kirk's documented childhood addresses.",
       "mentions_person_refs": [
-        "N-271",
-        "N-471",
+        "N-270",
+        "N-470",
         "N-1"
       ]
     },
@@ -1850,7 +1850,7 @@
       "claim_timestamp": "00:12:58",
       "investigative_direction": "Verify through Allen Independent School District alumni records and the social media poster's identity.",
       "mentions_person_refs": [
-        "N-271"
+        "N-270"
       ]
     },
     {
@@ -1869,7 +1869,7 @@
       "claim_timestamp": "00:12:43",
       "investigative_direction": "Verify through address records, property records, or voter registration.",
       "mentions_person_refs": [
-        "N-271"
+        "N-270"
       ]
     },
     {
@@ -1888,7 +1888,7 @@
       "claim_timestamp": "00:13:36",
       "investigative_direction": "Identify the billionaire referenced and verify through security firm records or event vendor lists.",
       "mentions_person_refs": [
-        "N-271"
+        "N-270"
       ]
     },
     {
@@ -1907,7 +1907,7 @@
       "claim_timestamp": "00:14:28",
       "investigative_direction": "Verify through public records.",
       "mentions_person_refs": [
-        "N-472"
+        "N-471"
       ]
     },
     {
@@ -1926,7 +1926,7 @@
       "claim_timestamp": "00:15:02",
       "investigative_direction": "Verify through TDPS historical employment records.",
       "mentions_person_refs": [
-        "N-472"
+        "N-471"
       ]
     },
     {
@@ -1945,7 +1945,7 @@
       "claim_timestamp": "00:15:02",
       "investigative_direction": "Verify through TDPS records.",
       "mentions_person_refs": [
-        "N-472"
+        "N-471"
       ]
     },
     {
@@ -1964,7 +1964,7 @@
       "claim_timestamp": "00:15:02",
       "investigative_direction": "Verify through Erath County Sheriff's Office records.",
       "mentions_person_refs": [
-        "N-472"
+        "N-471"
       ]
     },
     {
@@ -1982,7 +1982,7 @@
       "claim_timestamp": "00:20:50",
       "investigative_direction": "Confirm through legal records, TPUSA communications, and Gregorio's public statements.",
       "mentions_person_refs": [
-        "N-473"
+        "N-472"
       ]
     },
     {
@@ -2038,7 +2038,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-476"
+        "N-475"
       ]
     },
     {
@@ -2077,8 +2077,8 @@
       "investigative_direction": "Verify the event actually occurred and document any public response.",
       "mentions_person_refs": [
         "N-17",
+        "N-473",
         "N-474",
-        "N-475",
         "N-22",
         "N-3"
       ]
@@ -2115,7 +2115,7 @@
       "investigative_direction": "Verify event attendance, security staffing, and Kash Patel's participation through official event records.",
       "mentions_person_refs": [
         "N-1",
-        "N-271",
+        "N-270",
         "N-69"
       ]
     },
@@ -2171,7 +2171,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-710"
+        "N-708"
       ]
     },
     {
@@ -2280,7 +2280,7 @@
       "investigative_direction": "Test through public records on Dan Flood's security employers; the emailer's identity and evidence are unknown.",
       "transcript_snippet": "Dan Flood is connected to both. You think it was an inside job from the feds and none of you guys have even worked out who Dan Flood's father is.",
       "mentions_person_refs": [
-        "N-271",
+        "N-270",
         "N-3"
       ]
     },
@@ -2303,7 +2303,7 @@
       "investigative_direction": "Map Franklin Park against Kirk's documented childhood addresses; Franklin Park and Kirk's hometown are different suburbs, so distance should be measured.",
       "transcript_snippet": "That's right on the basically a couple of streets over from where Charlie Kirk uh was raised.",
       "mentions_person_refs": [
-        "N-471",
+        "N-470",
         "N-1"
       ]
     },
@@ -2326,7 +2326,7 @@
       "investigative_direction": "Search Franklin Park Police Department records, local newspaper archives and court filings for Robert Flood.",
       "transcript_snippet": "I then tried to find a single trace of his name mentioned in the news in Illinois.",
       "mentions_person_refs": [
-        "N-471",
+        "N-470",
         "N-3"
       ]
     },
@@ -2349,7 +2349,7 @@
       "investigative_direction": "Capture the LinkedIn entry and confirm Electro Rent Corporation's role and dates.",
       "transcript_snippet": "Then this random electro rent corporation, which runs from Tokyo, Japan to Chicago.",
       "mentions_person_refs": [
-        "N-471",
+        "N-470",
         "N-3"
       ]
     },
@@ -2372,7 +2372,7 @@
       "investigative_direction": "Verify with University Park Police Department and Texas peace officer licensing records.",
       "transcript_snippet": "He was then the captain of police. And some of this is concurrent. So it's interesting for the University Park Police back down in Texas, chief deputy sheriff for Texas law enforcement.",
       "mentions_person_refs": [
-        "N-471"
+        "N-470"
       ]
     },
     {
@@ -2394,7 +2394,7 @@
       "investigative_direction": "Her inference rests on a LinkedIn profile; confirm any federal service through FBI National Academy rosters and employment records.",
       "transcript_snippet": "Okay, this guy, no question, is and was a fed.",
       "mentions_person_refs": [
-        "N-471",
+        "N-470",
         "N-3"
       ]
     },
@@ -2435,8 +2435,8 @@
       "investigative_direction": "Ask Montgomery or Robert Flood about any acquaintance; she offers it explicitly as a bet, not a finding.",
       "transcript_snippet": "I would be willing to bet that Mr. Flood Dan's father Robert Eugene Flood probably knew Bill Montgomery",
       "mentions_person_refs": [
-        "N-471",
-        "N-457",
+        "N-470",
+        "N-456",
         "N-1",
         "N-3"
       ]
@@ -2459,7 +2459,7 @@
         "C-9909"
       ],
       "mentions_person_refs": [
-        "N-457",
+        "N-456",
         "N-1"
       ]
     },
@@ -2542,7 +2542,7 @@
         "C-5423"
       ],
       "mentions_person_refs": [
-        "N-457",
+        "N-456",
         "N-1"
       ]
     },
@@ -2564,10 +2564,10 @@
       "investigative_direction": "Obtain the firm's Texas private security registration and staff lists; compare spelling with the Shaffer Security the host discusses in later episodes.",
       "transcript_snippet": "Bill Montgomery chose to hire Shaffer Security, which was run by Greg Shaffer. And working under Greg Shaffer was Dan Flood and Brian Harpole.",
       "mentions_person_refs": [
-        "N-457",
-        "N-333",
-        "N-271",
-        "N-267"
+        "N-456",
+        "N-332",
+        "N-270",
+        "N-266"
       ]
     },
     {
@@ -2587,7 +2587,7 @@
       "investigative_direction": "Verify through FBI career records, FOIA or Schaefer's own biography.",
       "transcript_snippet": "He also is from Dallas, Texas, working for the FBI on the elite hostage and rescue team. He was a supervisor on the Dallas joint terrorism task force",
       "mentions_person_refs": [
-        "N-333"
+        "N-332"
       ]
     },
     {
@@ -2607,7 +2607,7 @@
       "investigative_direction": "Verify through FBI legal attache records or Schaefer's biography.",
       "transcript_snippet": "Greg was at least stationed in Budapest.",
       "mentions_person_refs": [
-        "N-333"
+        "N-332"
       ]
     },
     {
@@ -2630,8 +2630,8 @@
         "C-2114"
       ],
       "mentions_person_refs": [
-        "N-461",
-        "N-462"
+        "N-460",
+        "N-461"
       ]
     },
     {
@@ -2655,8 +2655,8 @@
         "C-2117"
       ],
       "mentions_person_refs": [
+        "N-460",
         "N-461",
-        "N-462",
         "N-2"
       ]
     },
@@ -2679,7 +2679,7 @@
       "investigative_direction": "Identify the poster and confirm Flood's private security employers and licensing history.",
       "transcript_snippet": "Yeah, this dude has been in private security for at least 20 years. I had no idea he was running it for TPUSA.",
       "mentions_person_refs": [
-        "N-271"
+        "N-270"
       ]
     },
     {
@@ -2699,9 +2699,9 @@
       "investigative_direction": "Compile the home states and prior employers of each member of the September 10 security team.",
       "transcript_snippet": "We've not noted that oddly all of Charlie's security that day was from Texas. From Rick Cutler to Dan Flood, even Brian Harpole.",
       "mentions_person_refs": [
-        "N-488",
-        "N-271",
-        "N-267",
+        "N-487",
+        "N-270",
+        "N-266",
         "N-1"
       ]
     },
@@ -2722,7 +2722,7 @@
       "investigative_direction": "Verify through public records; note that Bobby Harpole's interview says he himself was born in Denton.",
       "transcript_snippet": "Brian Harpole, you should know, was also born in Dallas, Texas.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2744,7 +2744,7 @@
       "investigative_direction": "Check Erath County 2018 election results and candidate filings.",
       "transcript_snippet": "back in 2018 when he was running for county sheriff in Erath, Texas.",
       "mentions_person_refs": [
-        "N-472"
+        "N-471"
       ]
     },
     {
@@ -2766,7 +2766,7 @@
       "investigative_direction": "Locate the original 2018 interview and confirm the wording and publication.",
       "transcript_snippet": "I was born in Denton, Texas, and grew up a quote unquote military brat, living in numerous states and Europe.",
       "mentions_person_refs": [
-        "N-472"
+        "N-471"
       ]
     },
     {
@@ -2786,8 +2786,8 @@
       "investigative_direction": "Verify current employment through public sources.",
       "transcript_snippet": "In fact, now his dad is working at a funeral home",
       "mentions_person_refs": [
-        "N-472",
-        "N-267"
+        "N-471",
+        "N-266"
       ]
     },
     {
@@ -2827,7 +2827,7 @@
       "investigative_direction": "The host frames this as humor; the origin of the memorial tent decision would need TPUSA event planning records.",
       "transcript_snippet": "It was her idea to put the tent up.",
       "mentions_person_refs": [
-        "N-218",
+        "N-217",
         "N-2",
         "N-3"
       ]
@@ -2847,7 +2847,7 @@
       "investigative_direction": "Find the host's tweet and Gregorio's corrected video to confirm the timing.",
       "transcript_snippet": "He immediately took it down and corrected it and and removed it from his content.",
       "mentions_person_refs": [
-        "N-473",
+        "N-472",
         "N-3"
       ]
     },
@@ -2870,7 +2870,7 @@
       "investigative_direction": "Obtain the full text of the letter and Gregorio's video from the channel.",
       "transcript_snippet": "Instead of answering my questions, it is the precursor to a lawsuit unless I change my statements.",
       "mentions_person_refs": [
-        "N-473"
+        "N-472"
       ]
     },
     {
@@ -2892,7 +2892,7 @@
       "investigative_direction": "Read the letter itself for the no-intent-to-sue wording; the host's phrasing is ambiguous.",
       "transcript_snippet": "If you feel that someone is putting out wrong information about you, don't start a cease and assist letter with we don't intend to sue you.",
       "mentions_person_refs": [
-        "N-473",
+        "N-472",
         "N-3"
       ]
     },
@@ -2945,8 +2945,8 @@
         "C-1754"
       ],
       "mentions_person_refs": [
-        "N-267",
-        "N-225"
+        "N-266",
+        "N-224"
       ]
     },
     {
@@ -3009,7 +3009,7 @@
       "investigative_direction": "Obtain the drone pilot's flight log, locations and timestamps for the survey.",
       "transcript_snippet": "what we ended up having to do was leave campus. We flew the drone.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -3104,7 +3104,7 @@
       "investigative_direction": "Find the December 7 video on the Wolves and Finance channel.",
       "transcript_snippet": "On December 7th I posted a video called Top 10 Clowns of the Year.",
       "mentions_person_refs": [
-        "N-473",
+        "N-472",
         "N-7"
       ]
     },
@@ -3223,7 +3223,7 @@
       "transcript_snippet": "When you go to China, let me just tell you, you'll drive down the street and you will see dead people laying in the middle of the street.",
       "mentions_person_refs": [
         "N-1",
-        "N-476"
+        "N-475"
       ]
     },
     {
@@ -3401,7 +3401,7 @@
       "transcript_snippet": "because we both received a tip that is just it's mind-blowing actually.",
       "mentions_person_refs": [
         "N-3",
-        "N-331"
+        "N-330"
       ]
     },
     {
@@ -3426,7 +3426,7 @@
         "C-2147"
       ],
       "mentions_person_refs": [
-        "N-271",
+        "N-270",
         "N-69"
       ]
     },
@@ -3589,8 +3589,8 @@
       "investigative_direction": "Treat the allegation as unverified and attributed only to the commenter; check court records before any use.",
       "transcript_snippet": "she was doing the whole Mitch Snow abused women 20 years ago.",
       "mentions_person_refs": [
-        "N-362",
-        "N-331",
+        "N-361",
+        "N-330",
         "N-3"
       ]
     },

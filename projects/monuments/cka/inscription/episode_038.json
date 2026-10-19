@@ -33,10 +33,10 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-378",
+            "N-377",
             "N-82",
             "N-40",
-            "N-284"
+            "N-283"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -62,7 +62,7 @@
             "C-1782"
           ],
           "related_nodes": [
-            "N-378",
+            "N-377",
             "N-3",
             "N-1"
           ],
@@ -90,7 +90,7 @@
             "C-1783"
           ],
           "related_nodes": [
-            "N-285",
+            "N-284",
             "N-10293",
             "N-3"
           ],
@@ -224,7 +224,7 @@
             "C-1785"
           ],
           "related_nodes": [
-            "N-286",
+            "N-285",
             "N-10297"
           ],
           "tags": [],
@@ -291,8 +291,8 @@
           "related_nodes": [
             "N-10285",
             "N-10287",
-            "N-289",
-            "N-290"
+            "N-288",
+            "N-289"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -310,7 +310,7 @@
             "C-1794"
           ],
           "related_nodes": [
-            "N-287",
+            "N-286",
             "N-10286"
           ],
           "tags": [],
@@ -329,7 +329,7 @@
             "C-1795"
           ],
           "related_nodes": [
-            "N-291",
+            "N-290",
             "N-10287",
             "N-10288"
           ],
@@ -449,7 +449,7 @@
             "C-1791"
           ],
           "related_nodes": [
-            "N-288",
+            "N-287",
             "N-10285"
           ],
           "tags": [],
@@ -502,7 +502,7 @@
             "C-1800"
           ],
           "related_nodes": [
-            "N-283",
+            "N-282",
             "N-57"
           ],
           "tags": [],
@@ -530,7 +530,7 @@
           ],
           "related_nodes": [
             "N-72",
-            "N-283"
+            "N-282"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -782,8 +782,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-283",
-      "ref": "N-283",
+      "@id": "N-282",
+      "ref": "N-282",
       "name": "Adam Sosnick",
       "type": "person",
       "description": "PBD Podcast personality; on-air subject of clip claiming host has no famous friends and is the figure blamed by Eric Bolling in A-1474 (\"that Alex guy\").",
@@ -841,8 +841,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-284",
-      "ref": "N-284",
+      "@id": "N-283",
+      "ref": "N-283",
       "name": "Xavier Poussard",
       "type": "person",
       "description": "French journalist; named in Candace Owens's November 25 tweet (A-1461.1) as also at risk.",
@@ -860,8 +860,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-285",
-      "ref": "N-285",
+      "@id": "N-284",
+      "ref": "N-284",
       "name": "Freddie Ponton",
       "type": "person",
       "description": "Article author of \"Past as Prologue, Safari Club Illuminates Candace Owens' allegations\" (A-1463.1); provides contextual framing linking the host's allegations to historical covert-operation patterns.",
@@ -880,8 +880,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-286",
-      "ref": "N-286",
+      "@id": "N-285",
+      "ref": "N-285",
       "name": "Andy Parrish",
       "type": "person",
       "description": "X poster identifying as former chief of staff to a Republican state representative (state not specified on air); source of the Camp Riley / Camp Ripley correction.",
@@ -902,8 +902,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-287",
-      "ref": "N-287",
+      "@id": "N-286",
+      "ref": "N-286",
       "name": "Hervé Hoppenot",
       "type": "person",
       "description": "Identified in source email A-1469.4 as long-time CEO of Incyte and a French national, recently transitioned to advisor role. Spelling uncertainty: host false-starts with \"Hervé Hope\" before correcting to \"Hoppenot.\"",
@@ -924,8 +924,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-288",
-      "ref": "N-288",
+      "@id": "N-287",
+      "ref": "N-287",
       "name": "Miriam Deed",
       "type": "person",
       "description": "Public commenter quoted in local coverage (A-1471.2) expressing concern about lack of accountability regarding the Bracebridge Complex.",
@@ -944,8 +944,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-289",
-      "ref": "N-289",
+      "@id": "N-288",
+      "ref": "N-288",
       "name": "Pierre S. du Pont",
       "type": "person",
       "description": "Founder of Longwood Foundation (per source email A-1469.3); member of French-American du Pont family descended from Pierre Samuel du Pont de Nemours.",
@@ -964,13 +964,13 @@
       "related_nodes": [
         "N-10285",
         "N-10287",
-        "N-291"
+        "N-290"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-290",
-      "ref": "N-290",
+      "@id": "N-289",
+      "ref": "N-289",
       "name": "T. Coleman du Pont",
       "type": "person",
       "description": "French-American then-president of du Pont; per source email A-1469.5, founder of Wilmington Trust, which acquired most lower-Delaware WSFS branches in 1990.",
@@ -986,15 +986,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-289",
+        "N-288",
         "N-10287",
         "N-10288"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-291",
-      "ref": "N-291",
+      "@id": "N-290",
+      "ref": "N-290",
       "name": "Pavel Durov",
       "type": "person",
       "description": "Founder of Telegram; X poster whose on-air quote (A-1462.1) endorses plausibility of French involvement claims.",
@@ -1072,8 +1072,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-288",
-        "N-289"
+        "N-287",
+        "N-288"
       ]
     },
     {
@@ -1095,7 +1095,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-287"
+        "N-286"
       ]
     },
     {
@@ -1117,7 +1117,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-289"
+        "N-288"
       ]
     },
     {
@@ -1139,7 +1139,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-290",
+        "N-289",
         "N-10289"
       ]
     },
@@ -1245,7 +1245,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-285"
+        "N-284"
       ]
     },
     {
@@ -1312,7 +1312,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-286",
+        "N-285",
         "N-10290"
       ]
     },
@@ -1336,7 +1336,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-72",
-        "N-283"
+        "N-282"
       ]
     },
     {
@@ -1482,8 +1482,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-260",
-      "ref": "N-260",
+      "@id": "N-259",
+      "ref": "N-259",
       "name": "Steven Crowder",
       "type": "person",
       "description": "Atlantic: Crowder campaign on Monster Lab (~$30k) also linked to Enclave drives; producer sneak-in for Wilson debate recalled.",
@@ -1500,8 +1500,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-378",
-      "ref": "N-378",
+      "@id": "N-377",
+      "ref": "N-377",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "French President; the host relays a source claim that the Macrons paid for her assassination and discusses the Macron defamation suit (transcript 02:49 to 04:49).",
@@ -1524,8 +1524,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-879",
-      "ref": "N-879",
+      "@id": "N-876",
+      "ref": "N-876",
       "name": "Jean-Michel Trogneux",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 38. The name the host uses for Brigitte Macron's alleged earlier male identity; the host asserts, without a document shown, that this person was born male. All claims here are the host's allegations.",
@@ -2157,7 +2157,7 @@
       "investigative_direction": "Obtain the underlying source communication; verify the identity and position of the French government contact; cross-check with FBI/Counterterrorism response records (FOIA where possible).",
       "mentions_person_refs": [
         "N-3",
-        "N-378",
+        "N-377",
         "N-82",
         "N-1"
       ]
@@ -2178,7 +2178,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-291"
+        "N-290"
       ]
     },
     {
@@ -2198,7 +2198,7 @@
       "claim_timestamp": "00:13:06",
       "investigative_direction": "Verify Ponton's article URL; corroborate the Safari Club member list against declassified records; assess whether the Safari Club precedent materially maps onto the present allegations.",
       "mentions_person_refs": [
-        "N-285",
+        "N-284",
         "N-3"
       ]
     },
@@ -2236,7 +2236,7 @@
       "claim_timestamp": "00:20:28",
       "investigative_direction": "Confirm Camp Ripley as the relevant installation; identify whether Minot AFB personnel participated in a Camp Ripley exercise in late August 2025 via official press releases.",
       "mentions_person_refs": [
-        "N-286"
+        "N-285"
       ]
     },
     {
@@ -2363,7 +2363,7 @@
       "claim_timestamp": "00:29:25",
       "investigative_direction": "Verify Longwood Foundation founding date and founder via IRS Form 990 filings and du Pont family genealogical records.",
       "mentions_person_refs": [
-        "N-289"
+        "N-288"
       ]
     },
     {
@@ -2399,7 +2399,7 @@
       "claim_timestamp": "00:33:11",
       "investigative_direction": "Verify Incyte CEO succession records via SEC filings; confirm Hoppenot's nationality and dates of service.",
       "mentions_person_refs": [
-        "N-287"
+        "N-286"
       ]
     },
     {
@@ -2418,7 +2418,7 @@
       "claim_timestamp": "00:30:58",
       "investigative_direction": "Verify Wilmington Trust founding date and founder via corporate filings and historical records; cross-check the 1990 WSFS branch transfer.",
       "mentions_person_refs": [
-        "N-290"
+        "N-289"
       ]
     },
     {
@@ -2508,8 +2508,8 @@
       "investigative_direction": "Obtain the full podcast segment; assess whether Sosnick's bridge-burning claims are factually substantiated; verify named relationships with past colleagues.",
       "mentions_person_refs": [
         "N-57",
-        "N-283",
-        "N-260",
+        "N-282",
+        "N-259",
         "N-3",
         "N-1"
       ]
@@ -2530,7 +2530,7 @@
       "claim_timestamp": "00:56:17",
       "investigative_direction": "Verify authenticity of the email; corroborate Bolling's claim that he initially called Sosnick \"Sam\"; obtain the full original PBD segment context.",
       "mentions_person_refs": [
-        "N-283",
+        "N-282",
         "N-72",
         "N-3"
       ]
@@ -2574,7 +2574,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-879"
+        "N-876"
       ]
     },
     {
@@ -2642,7 +2642,7 @@
       "transcript_snippet": "Journalist Xavier Poussard's life is also at risk.",
       "mentions_person_refs": [
         "N-3",
-        "N-284"
+        "N-283"
       ]
     },
     {
@@ -2668,7 +2668,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-378",
+        "N-377",
         "N-82"
       ]
     },
@@ -2752,7 +2752,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-378"
+        "N-377"
       ]
     },
     {
@@ -2775,7 +2775,7 @@
       "transcript_snippet": "It's now been a full week since I made that announcement. And here is the official response issued by the Élysée Palace.",
       "mentions_person_refs": [
         "N-3",
-        "N-378"
+        "N-377"
       ]
     },
     {
@@ -2846,7 +2846,7 @@
         "C-1782"
       ],
       "mentions_person_refs": [
-        "N-291",
+        "N-290",
         "N-1"
       ]
     },
@@ -2963,7 +2963,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-879"
+        "N-876"
       ]
     },
     {
@@ -3358,7 +3358,7 @@
         "C-1794"
       ],
       "mentions_person_refs": [
-        "N-287",
+        "N-286",
         "N-1",
         "N-3"
       ]
@@ -3450,7 +3450,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-879"
+        "N-876"
       ]
     },
     {
@@ -3470,7 +3470,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-879"
+        "N-876"
       ]
     },
     {
@@ -3632,8 +3632,8 @@
       "transcript_snippet": "I have never been friends with Steven Crowder.",
       "mentions_person_refs": [
         "N-3",
-        "N-260",
-        "N-283"
+        "N-259",
+        "N-282"
       ]
     },
     {
@@ -3681,7 +3681,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-72",
-        "N-283",
+        "N-282",
         "N-1"
       ]
     },
@@ -3855,7 +3855,7 @@
       "transcript_snippet": "They just ran this this chocolatier factory from like the 1880s all the way through to now. Not possible. Nazis uh did an aerial bombardment. They occupied the city of Amiens.",
       "mentions_person_refs": [
         "N-3",
-        "N-879"
+        "N-876"
       ]
     },
     {
@@ -3874,7 +3874,7 @@
       "transcript_snippet": "This seems to me to be an identity that was just created and materialized for this family, and that the true family is a very powerful family",
       "mentions_person_refs": [
         "N-3",
-        "N-879",
+        "N-876",
         "N-82"
       ]
     }

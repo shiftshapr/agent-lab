@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4c78ee14b1a99d8405861d22611f7b5723b201c8c1fb81c34bfdf476935d17f3
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-750, N-11069
+  - Tip-minted Nodes (supplement_2026-10): N-748, N-11069
   - Hole-minted Nodes (reintro-ep141): N-10805
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-6008–C-6090
@@ -42,7 +42,7 @@
 - Artifact Families Introduced: A-2277, A-2278, A-2279, A-2280, A-2281, A-2282, A-2283
 - Claim Range: C-3277–C-3289
   - New Nodes Introduced: N-10794, N-10795, N-10796
-  - Reused Nodes Appearing: N-18, N-562, N-14, N-54, N-57, N-101, N-113, N-160, N-205, N-238, N-269, N-271, N-330, N-507, N-10000, N-10026, N-10090, N-10102, N-10290, N-10337, N-10381, N-10507, N-10593, N-10725, N-10816, N-11068, N-11066, N-11067
+  - Reused Nodes Appearing: N-18, N-561, N-14, N-54, N-57, N-101, N-113, N-159, N-204, N-237, N-268, N-270, N-329, N-506, N-10000, N-10026, N-10090, N-10102, N-10290, N-10337, N-10381, N-10507, N-10593, N-10725, N-10816, N-11068, N-11066, N-11067
 - Existing Nodes Reused: (Candace Owens, Erika Kirk, Charlie Kirk, Tyler Robinson treated as known series entities; node IDs not reissued)
 
 ---
@@ -249,7 +249,7 @@ Video Timestamp: 00:35:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6050, C-6051, C-6052, N-2, N-3, N-507*
+*Related: C-6050, C-6051, C-6052, N-2, N-3, N-506*
 
 ---
 
@@ -299,7 +299,7 @@ Video Timestamp: 00:03:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6013, C-6014, C-6015, C-6016, C-6018, C-6024, N-3, N-18, N-269*
+*Related: C-6013, C-6014, C-6015, C-6016, C-6018, C-6024, N-3, N-18, N-268*
 
 ---
 
@@ -310,7 +310,7 @@ Video Timestamp: 00:09:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6020, C-6021, C-6029, C-6055, N-3, N-18, N-750*
+*Related: C-6020, C-6021, C-6029, C-6055, N-3, N-18, N-748*
 
 ---
 
@@ -456,7 +456,7 @@ Named in the host's pledge to look after people who supported her.
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Named (transcript spelling Blake Neff) as retweeting Wilson.
 
@@ -464,7 +464,7 @@ Named (transcript spelling Blake Neff) as retweeting Wilson.
 
 ---
 
-**N-205** Piers Morgan
+**N-204** Piers Morgan
 
 Named in the host's account of her unpaid annual debates.
 
@@ -472,7 +472,7 @@ Named in the host's account of her unpaid annual debates.
 
 ---
 
-**N-238** Glenn Beck
+**N-237** Glenn Beck
 
 Named as the host of Erika Kirk's December interview in which she said she had Charlie's phone.
 
@@ -480,7 +480,7 @@ Named as the host of Erika Kirk's December interview in which she said she had C
 
 ---
 
-**N-260** Steven Crowder
+**N-259** Steven Crowder
 
 Named in the account of Wilson's party and the post-debate call; the host says she has never met him.
 
@@ -488,7 +488,7 @@ Named in the account of Wilson's party and the post-debate call; the host says s
 
 ---
 
-**N-269** Joe Rogan
+**N-268** Joe Rogan
 
 Named in the account of the Texas hosting offer.
 
@@ -496,7 +496,7 @@ Named in the account of the Texas hosting offer.
 
 ---
 
-**N-271** Dan Flood
+**N-270** Dan Flood
 
 Named as the source the host believes sent the message and who allegedly did not tell Erika.
 
@@ -504,7 +504,7 @@ Named as the source the host believes sent the message and who allegedly did not
 
 ---
 
-**N-330** Tulsi Gabbard
+**N-329** Tulsi Gabbard
 
 Named as the office to which the host says she handed the Foreign Legion threat information.
 
@@ -512,7 +512,7 @@ Named as the office to which the host says she handed the Foreign Legion threat 
 
 ---
 
-**N-507** Christopher Bagley
+**N-506** Christopher Bagley
 
 Officer named in the played Q&A about the body cam and the screwdriver.
 
@@ -520,7 +520,7 @@ Officer named in the played Q&A about the body cam and the screwdriver.
 
 ---
 
-**N-562** Rachel Wilson
+**N-561** Rachel Wilson
 
 Named in the earpiece claims and as having spoken to TPUSA executives according to Wilson.
 
@@ -624,7 +624,7 @@ Topic tied to the content of the September 9 message.
 
 ---
 
-**N-750** Gerald Morgan
+**N-748** Gerald Morgan
 
 First named by the host at 00:13:18 in episode 141. Named as the person from Steven Crowder's team whom Wilson brought and who did a live call-in from the host's children's playroom.
 
@@ -738,7 +738,7 @@ Claim Timestamp: 01:06:45
 Claim: The host says she guesses Steven Crowder was on the phone with Andrew Wilson right after the debate; in a clip she plays, Crowder asks Wilson whether they gave him makeup, and Wilson replies that he would have refused.
 
 Anchored Artifacts: A-2281.1
-Mentions: N-18, N-260
+Mentions: N-18, N-259
 
 
 Investigative Direction: Identify any further post-debate coordination between Crowder's organization and Wilson; verify whether the hair/makeup assertion contradicts the published terms of the debate.
@@ -763,7 +763,7 @@ Claim Timestamp: 01:08:14
 Claim: Rachel Wilson posted on X stating, in effect, that Candace Owens would naturally know the case details better than Andrew Wilson, citing Wilson's approximately six days of preparation.
 
 Anchored Artifacts: A-2280.2
-Mentions: N-18, N-3, N-562
+Mentions: N-18, N-3, N-561
 
 Related Nodes:
 
@@ -776,7 +776,7 @@ Claim Timestamp: 01:05:37
 Claim: The host says Rachel Wilson, replying to a post asking whether the host was being fed answers through her in-ear monitor, wrote that she knew they had headpieces but was not sure why they had them, and believed the contract allowed each to wear an earpiece.
 
 Anchored Artifacts: A-2280.1
-Mentions: N-3, N-562
+Mentions: N-3, N-561
 
 Related Nodes:
 
@@ -948,7 +948,7 @@ Claim: The host says the Crucible team emailed that Joe Rogan had made an offer 
 Transcript Snippet: Joe Rogan has now made an offer to host this discussion down in Texas.
 
 Anchored Artifacts: A-2795.1
-Mentions: N-3, N-269
+Mentions: N-3, N-268
 Related Nodes: N-11066
 Investigative Direction: Obtain the email and ask Rogan's team whether and when an offer to host was made.
 
@@ -1095,7 +1095,7 @@ Claim: The host says Wilson turned up with Steven Crowder's team, naming Gerald 
 Transcript Snippet: he shows up with Steven Crowder's team.
 
 Anchored Artifacts: 
-Mentions: N-3, N-18, N-260, N-750
+Mentions: N-3, N-18, N-259, N-748
 Related Nodes: N-11067
 Investigative Direction: Confirm the identities of the four-person party with Crowder's company and the debate's security or visitor list.
 
@@ -1125,7 +1125,7 @@ Claim: The host says Gerald decided to do a live call-in from her children's pla
 Transcript Snippet: Gerald decided to do a live callin from my kids' playroom just outside the studio.
 
 Anchored Artifacts: 
-Mentions: N-3, N-750
+Mentions: N-3, N-748
 Related Nodes: N-11067
 Investigative Direction: Check Crowder's channel for any live call-in on debate day and its time.
 
@@ -1140,7 +1140,7 @@ Claim: The host says Steven Crowder's brand "sort of crashed and burned" when he
 Transcript Snippet: when he was caught on a doorbell cam berating his eight-month pregnant now ex-wife when she was pregnant with twins.
 
 Anchored Artifacts: 
-Mentions: N-3, N-260
+Mentions: N-3, N-259
 Investigative Direction: Locate contemporaneous reporting and the footage the host refers to.
 
 ---
@@ -1154,7 +1154,7 @@ Claim: The host says one term of the contract stipulated no filming outside the 
 Transcript Snippet: one thing the contract did stipulate was no filming outside of this studio.
 
 Anchored Artifacts: A-2795.2
-Mentions: N-3, N-750
+Mentions: N-3, N-748
 Related Nodes: N-11067
 Investigative Direction: Obtain the contract and read the filming clause.
 
@@ -1244,7 +1244,7 @@ Claim: In a clip played just after Wilson's reading, a speaker says Charlie and 
 Transcript Snippet: He didn't. He didn't say that. And I have his cell phone.
 
 Anchored Artifacts: A-2793.1
-Mentions: N-1, N-2, N-238, N-18
+Mentions: N-1, N-2, N-237, N-18
 Related Nodes: N-10507
 Supports: C-4057
 Revises: C-3289
@@ -1261,7 +1261,7 @@ Claim: The host says that days after Erika Kirk's mid-December Glenn Beck appear
 Transcript Snippet: days after that is when Erika then came to Nashville and we had this summit
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-238
+Mentions: N-3, N-2, N-237
 Investigative Direction: Confirm the date of the Nashville meeting from travel records or both parties' statements.
 
 ---
@@ -1275,7 +1275,7 @@ Claim: The host says that at the Nashville meeting Erika Kirk told her the messa
 Transcript Snippet: it was on Signal and the team's messages autodelete on Signal and she didn't know.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-271
+Mentions: N-3, N-2, N-270
 Related Nodes: N-10794
 Investigative Direction: Ask TPUSA and Erika Kirk which app carried the message and whether Signal disappearing-message settings were enabled.
 
@@ -1380,7 +1380,7 @@ Claim: In a played exchange, the host says she reported the claimed Foreign Legi
 Transcript Snippet: I handed over that information to Tulsi Gabbard's office.
 
 Anchored Artifacts: A-2277.3
-Mentions: N-3, N-330
+Mentions: N-3, N-329
 Related Nodes: N-10290
 Investigative Direction: Ask Gabbard's office whether it received such information and when.
 
@@ -1468,7 +1468,7 @@ Claim: In a played exchange, the host says she does not buy Officer Bagley's tes
 Transcript Snippet: It's at least plausible that the the uh screwdriver was planted.
 
 Anchored Artifacts: A-2792.2
-Mentions: N-3, N-507
+Mentions: N-3, N-506
 Related Nodes: N-10090, N-10725
 Investigative Direction: Compare with Bagley's preliminary-hearing testimony on rooftop checks and chain of custody for the screwdriver.
 
@@ -1483,7 +1483,7 @@ Claim: In a played exchange, the host says Officer Bagley's body cam died at jus
 Transcript Snippet: What I can say strongly is that his uh cam died at just the right time.
 
 Anchored Artifacts: A-2792.2
-Mentions: N-3, N-507
+Mentions: N-3, N-506
 Related Nodes: N-10725
 Supports: C-3042
 Investigative Direction: Obtain body-cam metadata and the battery or recording-end logs for Bagley's camera.
@@ -1808,7 +1808,7 @@ Claim: In the played post-debate phone call, a speaker asks Wilson whether he wa
 Transcript Snippet: Cuz she has a full stylist and makeup crew.
 
 Anchored Artifacts: A-2281.1
-Mentions: N-260, N-18, N-3
+Mentions: N-259, N-18, N-3
 Investigative Direction: Identify the speaker and confirm the recording's date and provenance.
 
 ---
@@ -1883,7 +1883,7 @@ Claim: The host says Blake Neff and Andrew Kolvet retweeted Wilson as he went af
 Transcript Snippet: Blake Neff and Andrew Kvette were retweeting him as he was going after me and offering more and more money.
 
 Anchored Artifacts: 
-Mentions: N-3, N-160, N-14, N-18
+Mentions: N-3, N-159, N-14, N-18
 Related Nodes: N-10000
 Investigative Direction: Review Neff's and Kolvet's accounts for the retweets and timing relative to Wilson's offers.
 
@@ -1898,7 +1898,7 @@ Claim: The host says she does her annual debates with Piers Morgan for free, as 
 Transcript Snippet: Always do my annual debates with Piers Morgan.
 
 Anchored Artifacts: 
-Mentions: N-3, N-205
+Mentions: N-3, N-204
 Investigative Direction: Check the dates and terms of the debates the host cites.
 
 ---
@@ -1955,7 +1955,7 @@ Claim: The host says Wilson said on a stream that his wife went in and spoke to 
 Transcript Snippet: he said on some stream that his wife went in and spoke to the executives at Turning Point USA.
 
 Anchored Artifacts: 
-Mentions: N-3, N-18, N-562
+Mentions: N-3, N-18, N-561
 Related Nodes: N-10000
 Investigative Direction: Locate the stream where Wilson said this.
 
@@ -2002,7 +2002,7 @@ Claim: The host says she has never met Steven Crowder and that his obsession wit
 Transcript Snippet: I literally have never met Steven Crowder.
 
 Anchored Artifacts: 
-Mentions: N-3, N-260
+Mentions: N-3, N-259
 Investigative Direction: Check for any past joint appearance or meeting.
 
 ---

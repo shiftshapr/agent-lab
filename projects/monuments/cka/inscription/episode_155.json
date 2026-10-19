@@ -368,7 +368,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-367"
+            "N-366"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -386,7 +386,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-367"
+            "N-366"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -694,8 +694,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
@@ -715,8 +715,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -807,8 +807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-570",
-      "ref": "N-570",
+      "@id": "N-861",
+      "ref": "N-861",
       "name": "David Hull",
       "type": "person",
       "description": "First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.",
@@ -950,8 +950,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-201",
-      "ref": "N-201",
+      "@id": "N-200",
+      "ref": "N-200",
       "name": "Shelaine Maxfield",
       "type": "person",
       "description": "Co-owner of the N88 plane ('Shelaine' in the transcript); Saprea figure.",
@@ -968,8 +968,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-245",
-      "ref": "N-245",
+      "@id": "N-244",
+      "ref": "N-244",
       "name": "Mark Levin",
       "type": "person",
       "description": "Named by the host as demanding speech censorship.",
@@ -985,8 +985,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-367",
-      "ref": "N-367",
+      "@id": "N-366",
+      "ref": "N-366",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Former Daily Wire CEO ('Jeremy Boreing' in the transcript); the host's account of his podcast, posts and lawsuits.",
@@ -1011,8 +1011,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-582",
-      "ref": "N-582",
+      "@id": "N-580",
+      "ref": "N-580",
       "name": "Thomas Massie",
       "type": "person",
       "description": "Congressman the host says critics attacked and removed.",
@@ -1028,8 +1028,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-838",
-      "ref": "N-838",
+      "@id": "N-835",
+      "ref": "N-835",
       "name": "Casey Baugh",
       "type": "person",
       "description": "Alleged UVU donor and partial owner of the N88 plane.",
@@ -1046,8 +1046,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-865",
-      "ref": "N-865",
+      "@id": "N-862",
+      "ref": "N-862",
       "name": "Officer Goforth",
       "type": "person",
       "description": "Officer the host says was approached by the Dodge Challenger after midnight.",
@@ -1322,8 +1322,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-902",
-      "ref": "N-902",
+      "@id": "N-899",
+      "ref": "N-899",
       "name": "Agent Mortensson",
       "type": "person",
       "description": "First named by the host at 00:18:34 in episode 155. Investigator whose review of UVU security video the September 15 warrant describes.",
@@ -1339,8 +1339,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-903",
-      "ref": "N-903",
+      "@id": "N-900",
+      "ref": "N-900",
       "name": "Miss Noble",
       "type": "person",
       "description": "First named by the host at 00:07:25 in episode 155. Neighbor who with her husband reported a Dodge Challenger driven by a bald person with two others in the back seat.",
@@ -1357,8 +1357,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-901",
-      "ref": "N-901",
+      "@id": "N-898",
+      "ref": "N-898",
       "name": "Bobby Sausalito",
       "type": "person",
       "description": "First named by the host at 00:00:46 in episode 155. Comedian and political commentator whose pre-release predictions about the Neff and Boreing podcast the host plays.",
@@ -1376,8 +1376,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-904",
-      "ref": "N-904",
+      "@id": "N-901",
+      "ref": "N-901",
       "name": "Chelsea Baugh",
       "type": "person",
       "description": "First named by the host at 00:25:06 in episode 155. Named with Casey Baugh as a UVU donor and partial owner of the N88 plane.",
@@ -1446,8 +1446,8 @@
       "claim_timestamp": "00:00:00–00:00:01",
       "investigative_direction": "Obtain the full released episode and compare its content against Sausalito's pre-release predictions and the host's commentary.",
       "mentions_person_refs": [
-        "N-160",
-        "N-367"
+        "N-159",
+        "N-366"
       ]
     },
     {
@@ -1464,12 +1464,12 @@
       "claim_timestamp": "00:33:23–00:36:12",
       "investigative_direction": "Compare Sausalito's specific predictions against the released episode segment-by-segment.",
       "mentions_person_refs": [
-        "N-901",
-        "N-160",
-        "N-367",
+        "N-898",
+        "N-159",
+        "N-366",
         "N-22",
         "N-3",
-        "N-191",
+        "N-190",
         "N-2",
         "N-7"
       ]
@@ -1489,8 +1489,8 @@
       "claim_timestamp": "00:36:12",
       "investigative_direction": "Document the host's specific concurrence with each item of Sausalito's prediction list once the full episode is available.",
       "mentions_person_refs": [
-        "N-901",
-        "N-367"
+        "N-898",
+        "N-366"
       ]
     },
     {
@@ -1508,7 +1508,7 @@
       "investigative_direction": "Obtain full Neff/Boreing episode to confirm statement context and surrounding statements.",
       "mentions_person_refs": [
         "N-3",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -1526,9 +1526,9 @@
       "investigative_direction": "Verify exact quote and context in the full Neff/Boreing episode.",
       "mentions_person_refs": [
         "N-3",
-        "N-160",
+        "N-159",
         "N-1",
-        "N-367"
+        "N-366"
       ]
     },
     {
@@ -1547,8 +1547,8 @@
       "mentions_person_refs": [
         "N-22",
         "N-3",
-        "N-160",
-        "N-367"
+        "N-159",
+        "N-366"
       ]
     },
     {
@@ -1565,7 +1565,7 @@
       "claim_timestamp": "00:31:47–00:32:21",
       "investigative_direction": "Retrieve the original post via web archive to confirm exact wording and timestamp.",
       "mentions_person_refs": [
-        "N-367",
+        "N-366",
         "N-3"
       ]
     },
@@ -1715,7 +1715,7 @@
       "claim_timestamp": "00:18:34–00:19:42",
       "investigative_direction": "Obtain the actual Sept 15 search warrant filing to verify the quoted language and its full surrounding narrative.",
       "mentions_person_refs": [
-        "N-902",
+        "N-899",
         "N-40"
       ]
     },
@@ -1736,7 +1736,7 @@
       "claim_timestamp": "00:19:42–00:21:12",
       "investigative_direction": "Obtain the preliminary hearing transcript and audio/video to verify the specific omissions and re-orderings between the warrant narrative and Hull's testimony.",
       "mentions_person_refs": [
-        "N-570"
+        "N-861"
       ]
     },
     {
@@ -1753,8 +1753,8 @@
       "claim_timestamp": "00:08:45",
       "investigative_direction": "Obtain Miss Noble's interview transcript, witness statement, or sworn testimony to verify exact wording and to determine whether the Dodge Challenger identification was confirmed via plate or visual match.",
       "mentions_person_refs": [
-        "N-903",
-        "N-865"
+        "N-900",
+        "N-862"
       ]
     },
     {
@@ -1811,8 +1811,8 @@
       "transcript_snippet": "Tucker Carlson said, just look at the photo.",
       "mentions_person_refs": [
         "N-22",
-        "N-160",
-        "N-367",
+        "N-159",
+        "N-366",
         "N-3"
       ]
     },
@@ -1951,7 +1951,7 @@
       "transcript_snippet": "Yesterday, we wrongly showed you on the timeline um that this was during a time where he then went and visited a wooded area off campus.",
       "mentions_person_refs": [
         "N-3",
-        "N-570"
+        "N-861"
       ]
     },
     {
@@ -1999,7 +1999,7 @@
       "investigative_direction": "Check the hearing transcript for any testimony on tracking the Challenger after 9:33 a.m. and for any off-campus license-plate-reader hits.",
       "transcript_snippet": "Agent Hull doesn't even so much as try to suggest that they tracked Maroon Boy Dodge Challenger off campus.",
       "mentions_person_refs": [
-        "N-570",
+        "N-861",
         "N-40",
         "N-3"
       ]
@@ -2041,7 +2041,7 @@
       "investigative_direction": "Request Goforth's bodycam and dispatch records for the after-midnight contact and confirm whether any recording exists.",
       "transcript_snippet": "They've never indicated that he had on body cam footage.",
       "mentions_person_refs": [
-        "N-865",
+        "N-862",
         "N-3"
       ]
     },
@@ -2064,7 +2064,7 @@
       "investigative_direction": "Compare Hull's narration line by line with the released footage and note each point where the spoken description and the video disagree.",
       "transcript_snippet": "at times we went back and realized those two things were in conflict with one another",
       "mentions_person_refs": [
-        "N-570",
+        "N-861",
         "N-3"
       ]
     },
@@ -2338,7 +2338,7 @@
         "C-3530"
       ],
       "mentions_person_refs": [
-        "N-903",
+        "N-900",
         "N-3"
       ]
     },
@@ -2430,7 +2430,7 @@
         "C-10436"
       ],
       "mentions_person_refs": [
-        "N-570",
+        "N-861",
         "N-40",
         "N-3"
       ]
@@ -2457,7 +2457,7 @@
         "C-10438"
       ],
       "mentions_person_refs": [
-        "N-570",
+        "N-861",
         "N-40",
         "N-3"
       ]
@@ -2504,7 +2504,7 @@
       "investigative_direction": "Compare the Challenger-at-Noble-house time in each of the three warrants and the surveillance footage timestamp.",
       "transcript_snippet": "That time gets adjusted three times across three different warrants.",
       "mentions_person_refs": [
-        "N-903",
+        "N-900",
         "N-3"
       ]
     },
@@ -2599,7 +2599,7 @@
       ],
       "mentions_person_refs": [
         "N-94",
-        "N-201",
+        "N-200",
         "N-3"
       ]
     },
@@ -2627,7 +2627,7 @@
       ],
       "mentions_person_refs": [
         "N-94",
-        "N-201",
+        "N-200",
         "N-3"
       ]
     },
@@ -2651,8 +2651,8 @@
       "investigative_direction": "Verify the donation amount, date and recipient through UVU foundation announcements and gift agreements.",
       "transcript_snippet": "Chelsea and Casey Ba B A U G H donated $5 million to UVU.",
       "mentions_person_refs": [
-        "N-838",
-        "N-904",
+        "N-835",
+        "N-901",
         "N-3"
       ]
     },
@@ -2679,8 +2679,8 @@
         "C-9402"
       ],
       "mentions_person_refs": [
-        "N-838",
-        "N-904",
+        "N-835",
+        "N-901",
         "N-3"
       ]
     },
@@ -2725,7 +2725,7 @@
       "investigative_direction": "Tabulate Boreing's show topics and guests against the host's show dates for a quantitative comparison.",
       "transcript_snippet": "He will then host someone to talk about the topic I'm covering and u take a position on it that is opposite of mine and call me a demon.",
       "mentions_person_refs": [
-        "N-367",
+        "N-366",
         "N-3",
         "N-22"
       ]
@@ -2752,7 +2752,7 @@
         "C-3519"
       ],
       "mentions_person_refs": [
-        "N-367",
+        "N-366",
         "N-3"
       ]
     },
@@ -2773,9 +2773,9 @@
       "investigative_direction": "Find any Kirk statement in which he called Neff a secret weapon, with date and context.",
       "transcript_snippet": "So, there's a reason Charlie called him his secret weapon.",
       "mentions_person_refs": [
-        "N-901",
+        "N-898",
         "N-1",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2797,8 +2797,8 @@
       "investigative_direction": "Seek any contract, sponsorship or payment record between Boreing's company and Turning Point USA.",
       "transcript_snippet": "Jeremy wants to get paid by Turning Point.",
       "mentions_person_refs": [
-        "N-901",
-        "N-367"
+        "N-898",
+        "N-366"
       ]
     },
     {
@@ -2823,8 +2823,8 @@
         "C-11901"
       ],
       "mentions_person_refs": [
-        "N-901",
-        "N-367",
+        "N-898",
+        "N-366",
         "N-3"
       ]
     },
@@ -2844,7 +2844,7 @@
       "transcript_snippet": "Charlie never liked him. He never liked Charlie.",
       "mentions_person_refs": [
         "N-1",
-        "N-367",
+        "N-366",
         "N-2",
         "N-3"
       ]
@@ -2866,7 +2866,7 @@
       "investigative_direction": "Reconcile with the host's other accounts of how she left the Daily Wire and the termination or separation paperwork.",
       "transcript_snippet": "I am the employee that he fired, but he cannot let go.",
       "mentions_person_refs": [
-        "N-367",
+        "N-366",
         "N-3"
       ]
     },
@@ -2887,8 +2887,8 @@
       "investigative_direction": "Review the speaker's prior public statements about platform bans of the host to test the statement.",
       "transcript_snippet": "I have never once said YouTube should ban Candace.",
       "mentions_person_refs": [
-        "N-160",
-        "N-367",
+        "N-159",
+        "N-366",
         "N-3"
       ]
     },
@@ -2911,7 +2911,7 @@
       "mentions_person_refs": [
         "N-22",
         "N-3",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2931,7 +2931,7 @@
       "investigative_direction": "Identify the Daily Wire v. Owens case numbers and filings on the court docket.",
       "transcript_snippet": "But the calls to sue me, like he sued me privately for years throughout court.",
       "mentions_person_refs": [
-        "N-367",
+        "N-366",
         "N-3"
       ]
     },
@@ -2956,9 +2956,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-191",
+        "N-190",
         "N-14",
-        "N-367"
+        "N-366"
       ]
     },
     {
@@ -3025,7 +3025,7 @@
       "investigative_direction": "Find Levin's and the second named person's statements calling for state action or lawsuits against the host.",
       "transcript_snippet": "Uh speech censorship that's being platformed, demanded by people like Mark Levin, Andrew Type, people that are asking for the state to get involved um in lawsuits.",
       "mentions_person_refs": [
-        "N-245",
+        "N-244",
         "N-3"
       ]
     },
@@ -3046,7 +3046,7 @@
       "investigative_direction": "Check Massie's primary result and outside spending against him as documented in FEC filings.",
       "transcript_snippet": "You attack Thomas Massie. Got him out of there.",
       "mentions_person_refs": [
-        "N-582",
+        "N-580",
         "N-3"
       ]
     },
@@ -3106,7 +3106,7 @@
       "transcript_snippet": "I got lawsuits going on and lawsuits pending.",
       "mentions_person_refs": [
         "N-3",
-        "N-367"
+        "N-366"
       ]
     }
   ],

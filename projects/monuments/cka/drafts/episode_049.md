@@ -37,8 +37,8 @@
 
 - Artifact Families Introduced: A-1557, A-1558, A-1559, A-1560
 - Claim Range: C-1969–C-1979
-  - New Nodes Introduced: N-362, N-363, N-364, N-10369
-  - Reused Nodes Appearing: N-17, N-22, N-40, N-55, N-69, N-262, N-10086, N-10110, N-10121, N-10239, N-10246, N-10270, N-10271, N-10326, N-10328, N-10333, N-10346, N-10360, N-10362, N-10364, N-10769, N-10367, N-10368, N-10436
+  - New Nodes Introduced: N-361, N-362, N-363, N-10369
+  - Reused Nodes Appearing: N-17, N-22, N-40, N-55, N-69, N-261, N-10086, N-10110, N-10121, N-10239, N-10246, N-10270, N-10271, N-10326, N-10328, N-10333, N-10346, N-10360, N-10362, N-10364, N-10769, N-10367, N-10368, N-10436
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and other previously inscribed entities as applicable
 
 ---
@@ -47,7 +47,7 @@
 
 This episode centers on an extended interview with an eyewitness pseudonymized as "Mitch," who claims to have visited Fort Huachuca, Arizona on September 8–9, 2025 – the day before Charlie Kirk was shot – and to have inadvertently stumbled upon a meeting involving individuals he identifies by resemblance as Erika Kirk (N-2), Brian Harpole, and Congressman Mark Amodei. Candace Owens states that she independently corroborated Mitch's physical location at Fort Huachuca during the relevant window via EXIF metadata from an 18-minute video he recorded on base, and via his military ID cards.
 
-Prior to the interview, Owens reads aloud two emails she received: one characterizing Fort Huachuca as an Army Military Intelligence (MIT) training installation, and a second, longer email from former gym owners in Sierra Vista describing a class taught at Fort Huachuca by a man identified as Bruce Bevins (N-363) which allegedly trained military personnel to infiltrate Christian organizations through covert psychological operations. Two corroborating military students are described as recounting overnight deception exercises targeting civilians in Tucson.
+Prior to the interview, Owens reads aloud two emails she received: one characterizing Fort Huachuca as an Army Military Intelligence (MIT) training installation, and a second, longer email from former gym owners in Sierra Vista describing a class taught at Fort Huachuca by a man identified as Bruce Bevins (N-362) which allegedly trained military personnel to infiltrate Christian organizations through covert psychological operations. Two corroborating military students are described as recounting overnight deception exercises targeting civilians in Tucson.
 
 Owens also revisits prior "data points" from earlier episodes – the rooftop eyewitness, the bomb-dog failure to locate the weapon, the federal direction to local officers, the multiple prints on the weapon, and the missing Tyler Robinson surrender footage. These recap points reference artifacts previously inscribed in earlier episodes and are not re-anchored with new artifacts here. A new viewer question regarding black plastic-like fragments visible in photos of Charlie Kirk's SUV interior is also aired and flagged as requiring further analysis.
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:14:48–00:17:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single uncorroborated email, host uses "allegedly" qualifier)
 
-*Related: C-1976, C-1977, N-363, N-10368*
+*Related: C-1976, C-1977, N-362, N-10368*
 
 ---
 
@@ -91,7 +91,7 @@ Video Timestamp: 00:43:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host states metadata confirms location and time)
 
-*Related: C-1971, N-362, N-10367*
+*Related: C-1971, N-361, N-10367*
 
 **A-1558.2** Military ID Card(s) Provided by Witness to Host
 
@@ -101,7 +101,7 @@ Video Timestamp: 00:38:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host confirms receipt)
 
-*Related: C-1971, N-362*
+*Related: C-1971, N-361*
 
 **A-1558.3** Mitch's On-Air Recorded Testimonial Interview
 
@@ -111,7 +111,7 @@ Video Timestamp: 01:07:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full interview segment)
 
-*Related: C-1970, C-1971, C-1972, C-1973, C-1974, C-1975, N-362, N-320, N-10367*
+*Related: C-1970, C-1971, C-1972, C-1973, C-1974, C-1975, N-361, N-319, N-10367*
 
 ---
 
@@ -125,7 +125,7 @@ Video Timestamp: 01:01:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (confirmed shown)
 
-*Related: C-1975, N-364, N-10367*
+*Related: C-1975, N-363, N-10367*
 
 **A-1559.2** Reference Photograph of Brian Harpole Cited as Comparison Image
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:33:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5319, N-362*
+*Related: C-5319, N-361*
 
 ---
 
@@ -208,7 +208,7 @@ Video Timestamp: 00:52:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5332, N-362*
+*Related: C-5332, N-361*
 
 ---
 
@@ -240,7 +240,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-362** Mitch Snow
+**N-361** Mitch Snow
 
 Pseudonymized eyewitness who claims to have visited Fort Huachuca on September 8–9, 2025 and identified multiple individuals by resemblance. Claims 35-year gag order related to 1990 JTF6 drug tunnel discovery. Has provided metadata-verified video and military ID cards to host.
 
@@ -253,7 +253,7 @@ Investigative Pressure: High
 
 ---
 
-**N-363** Bruce Bevins
+**N-362** Bruce Bevins
 
 Named in viewer email (A-1557.2) as instructor of a Fort Huachuca class allegedly teaching military personnel to infiltrate Christian organizations through covert psychological operations. Host states she had not heard of this individual prior to receiving the email.
 
@@ -266,7 +266,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-364** Mark Amodei
+**N-363** Mark Amodei
 
 U.S. Congressman (Nevada) whose photograph was shown to "Mitch" during the interview. Witness identified him by resemblance at ~95% confidence as the congressman-type figure seen at Fort Huachuca on September 9, 2025.
 
@@ -279,7 +279,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-320** Captain Adam Neff
+**N-319** Captain Adam Neff
 
 U.S. Army captain named by witness "Mitch" as the officer who escorted him out of the JTF building and sat with him on a park bench at Fort Huachuca on September 9, 2025.
 
@@ -288,20 +288,20 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1558.3, C-1972, N-362*
+*Related: A-1558.3, C-1972, N-361*
 
 ---
 
 **N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
-Persistent investigation target: claimed physical encounter by "Mitch" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erika Kirk), Brian Harpole (see N-10367 related), and Captain Neff (N-320).
+Persistent investigation target: claimed physical encounter by "Mitch" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erika Kirk), Brian Harpole (see N-10367 related), and Captain Neff (N-319).
 
 Evidence Count: 6
 Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1558.1, A-1558.3, A-1559.1, A-1559.2, A-1559.3, C-1971, C-1972, C-1973, C-1974, C-1975, N-2, N-362, N-364, N-320*
+*Related: A-1558.1, A-1558.3, A-1559.1, A-1559.2, A-1559.3, C-1971, C-1972, C-1973, C-1974, C-1975, N-2, N-361, N-363, N-319*
 
 ---
 
@@ -314,7 +314,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1557.1, A-1557.2, C-1969, C-1976, C-1977, N-363*
+*Related: A-1557.1, A-1557.2, C-1969, C-1976, C-1977, N-362*
 
 ---
 
@@ -413,7 +413,7 @@ Floated by the host as one possible person Mitch was kept from seeing.
 
 ---
 
-**N-262** Terryl Farnsworth
+**N-261** Terryl Farnsworth
 
 Named by the host for removing the camera behind Charlie Kirk's head.
 
@@ -596,7 +596,7 @@ Claim Timestamp: 00:26:10–00:37:00
 Claim: The host says, and guest witness "Mitch" agrees, that he was gagged by a non-disclosure order for 35 years (she first says 25, then corrects herself) after a JTF6 mission, assigned from 10th Mountain, in which he located a major cross-border drug tunnel in the Douglas, Arizona area.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 
 
 Investigative Direction: Review any court filings or legal correspondence referenced by witness; verify his military service record through official channels.
@@ -610,7 +610,7 @@ Claim Timestamp: 00:19:30
 Claim: The host says she confirmed with metadata that witness "Mitch" was physically present at Fort Huachuca on the evening of September 8, 2025 (Candlewood Inn & Suites) and the morning of September 9, 2025 (JTF command building), citing the photos and an 18-minute video he recorded on base and the military ID cards he sent her.
 
 Anchored Artifacts: A-1558.1, A-1558.2, A-1558.3
-Mentions: N-362
+Mentions: N-361
 
 Related Nodes: N-10367
 
@@ -625,7 +625,7 @@ Claim Timestamp: 00:44:46–00:50:12
 Claim: Guest witness "Mitch" says that while at the JTF command building on the morning of September 9, 2025, he observed a group including a man in a congressman-style suit with flag pin, accompanied by lieutenant colonels, a sergeant major, and civilians, escorted by military personnel, and that he was subsequently surrounded by police officers from different levels of government at a park bench outside.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 
 Related Nodes: N-10367
 
@@ -640,7 +640,7 @@ Claim Timestamp: 00:55:09–00:57:28
 Claim: Witness "Mitch" states that a woman in a ponytail he saw in the lobby the night before the meeting, on September 8, 2025, matches a past photograph of Erika Kirk, citing her really rare eyes, and puts that match at 95 to 99%.
 
 Anchored Artifacts: A-1558.3, A-1559.3
-Mentions: N-2, N-362
+Mentions: N-2, N-361
 
 Related Nodes: N-10367
 
@@ -655,7 +655,7 @@ Claim Timestamp: 00:55:09–00:57:28
 Claim: Guest witness "Mitch" says the man who walked out of the JTF building on September 9, 2025 resembled Brian Harpole at 95-99% confidence, citing matching mannerisms, facial features, height, haircut, and gait.
 
 Anchored Artifacts: A-1558.3, A-1559.2
-Mentions: N-362, N-267
+Mentions: N-361, N-266
 
 Related Nodes: N-10367
 
@@ -670,7 +670,7 @@ Claim Timestamp: 01:01:18
 Claim: After the host shows a reference photograph of Congressman Mark Amodei (R-NV) on air, guest witness "Mitch" says he identifies him at approximately 95% confidence as the congressman-style figure who walked closest to him at the JTF building on September 9, 2025.
 
 Anchored Artifacts: A-1558.3, A-1559.1
-Mentions: N-362, N-364
+Mentions: N-361, N-363
 
 Related Nodes: N-10367
 
@@ -685,7 +685,7 @@ Claim Timestamp: 00:14:48–00:17:53
 Claim: A gym owner in Sierra Vista states in a viewer email (read verbatim on air) that a distressed female soldier described a class at Fort Huachuca, taught by Bruce Bevins, whose stated objective was to train military personnel to infiltrate Christian groups and organizations through covert psychological operations focused specifically on deceiving Christians.
 
 Anchored Artifacts: A-1557.2
-Mentions: N-363
+Mentions: N-362
 
 Related Nodes: N-10368
 
@@ -730,7 +730,7 @@ Claim Timestamp: 00:50:12–00:53:59
 Claim: Guest witness "Mitch" says that after personnel exited the JTF building, he was escorted to park benches outside, where he sat with Captain Neff, multiple cruisers arrived and officers from different agencies surrounded him, and that a plainclothes woman (described as possibly Secret Service) directed questioning.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-320, N-362
+Mentions: N-319, N-361
 
 Related Nodes: N-10367
 
@@ -913,7 +913,7 @@ Claim: The host says Terryl Farnsworth raced to remove the camera that was direc
 Transcript Snippet: Terryl Farnsworth, still major question marks. He raced to remove the camera that was directly behind Charlie's head.
 
 Anchored Artifacts: 
-Mentions: N-262, N-1
+Mentions: N-261, N-1
 Related Nodes: N-10346
 Investigative Direction: Review event footage and statements from Farnsworth on when and why the camera was removed, and the chain of custody of its storage.
 
@@ -928,7 +928,7 @@ Claim: The host says that, in her own reading and not as a data point, the camer
 Transcript Snippet: when I imagine why he might have done that, I think it's because they were going to go with this story that a.30-06 hit Charlie Kirk.
 
 Anchored Artifacts: 
-Mentions: N-262, N-1, N-3
+Mentions: N-261, N-1, N-3
 Related Nodes: N-10346
 Supports: C-5283
 Investigative Direction: Obtain the camera's retained footage and compare it with the medical findings; ask Farnsworth for his stated reason.
@@ -1186,7 +1186,7 @@ Claim: According to the emailer, the distressed female soldier described Bruce B
 Transcript Snippet: This young woman described Bruce as, quote, "the most evil man that she had ever met."
 
 Anchored Artifacts: A-1557.2
-Mentions: N-363
+Mentions: N-362
 Related Nodes: N-10368
 Investigative Direction: Identify the soldier and Bevins's official role, and corroborate through an on-record account from the soldier.
 
@@ -1201,7 +1201,7 @@ Claim: According to the emailer, hearing the name Bruce Bevins, the writer immed
 Transcript Snippet: My ears perked up when I heard his name as I immediately remembered the incident with his wife.
 
 Anchored Artifacts: A-1557.2
-Mentions: N-363
+Mentions: N-362
 Related Nodes: N-10368
 Investigative Direction: Ask the emailer to describe the incident with Bevins's wife and look for police or court records of it.
 
@@ -1216,7 +1216,7 @@ Claim: According to the emailer, the writer wonders whether the infiltration and
 Transcript Snippet: I have to wonder if the infiltration and the destruction of our gym was actually a training exercise or field assignment.
 
 Anchored Artifacts: A-1557.2
-Mentions: N-363
+Mentions: N-362
 Related Nodes: N-10368
 Investigative Direction: Treat as the emailer's speculation; seek documentary evidence linking the couple to any Fort Huachuca course.
 
@@ -1231,7 +1231,7 @@ Claim: According to the emailer, the writer is now wondering whether instructors
 Transcript Snippet: learning that some of his most trusted people may have been trained operatives who infiltrated Turning Point USA
 
 Anchored Artifacts: A-1557.2
-Mentions: N-363, N-1
+Mentions: N-362, N-1
 Related Nodes: N-10436, N-10368
 Investigative Direction: Ask the emailer which TPUSA individuals they have in mind and check those individuals' public military or intelligence records.
 
@@ -1246,7 +1246,7 @@ Claim: The host says she cannot yet confirm the allegations against Bruce Bevins
 Transcript Snippet: Now, I obviously cannot confirm just yet. I'm sure after this show, we're going to get a bunch of emails.
 
 Anchored Artifacts: A-1557.2
-Mentions: N-363, N-3
+Mentions: N-362, N-3
 Related Nodes: N-10368
 Qualifies: C-1976
 Investigative Direction: Verify Bevins's identity and role through Army and Fort Huachuca records before treating the email as corroborated.
@@ -1321,7 +1321,7 @@ Claim: Mitch says he was part of a mission to the border for JTF6, assigned from
 Transcript Snippet: we were part of a mission going down to um down to the border of JTF6, assigned from 10th Mountain.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10328
 Investigative Direction: Obtain Mitch's DD-214 and unit assignment records and the 1990 JTF-6 operational history.
 
@@ -1336,7 +1336,7 @@ Claim: Mitch says his team placed about 80 sensors along the border, and that he
 Transcript Snippet: I think we put in like 80 sensors or so along the border
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10328
 Investigative Direction: Cross-check with historical JTF-6 sensor deployment records for the Douglas, Arizona sector.
 
@@ -1351,7 +1351,7 @@ Claim: Mitch says he and a Border Patrol agent realized the signals came from an
 Transcript Snippet: we could triangulate the um triangulate the signals and be able to pinpoint the location.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10328
 Investigative Direction: Search press and law-enforcement records for the 1990 Douglas, Arizona tunnel discovery and the associated warrant and raid.
 
@@ -1366,7 +1366,7 @@ Claim: Mitch says one of the commanders working with the Border Patrol was photo
 Transcript Snippet: one of the commanders that was um with the border patrol um was actually posed with a photo um that was found on the Mexican side um after the tunnel apparently had been built
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10328
 Investigative Direction: Obtain the photographs and the records of how they were recovered, and identify the commander named.
 
@@ -1381,7 +1381,7 @@ Claim: Mitch says there was a lot of suspicion that the federal government knew 
 Transcript Snippet: the federal government knew that 80% I think it was 60 to 80% of the cocaine was coming through the Douglas Arizona area
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10328
 Investigative Direction: Check historical DEA and JTF-6 estimates of cocaine flow through the Douglas sector in 1990.
 
@@ -1396,7 +1396,7 @@ Claim: The host summarizes that after the tunnel discovery Mitch was gagged whil
 Transcript Snippet: they destroyed every layer of your life fed your name to the cartels you've been on the run you've had to change your name your family is now in debt
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Related Nodes: N-11023
 Investigative Direction: Obtain the court filings, name-change records and the government's response to Mitch's complaints.
 
@@ -1411,7 +1411,7 @@ Claim: Mitch says that at the border he got to incinerate about a ton of cocaine
 Transcript Snippet: I got to got the honor of incinerating all the uh uh it's about a ton of cocaine it was and bunch of guns bunch of money
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10328
 Investigative Direction: Locate the seizure and destruction records for the 1990 Douglas tunnel operation.
 
@@ -1426,7 +1426,7 @@ Claim: Mitch says that after the operation he was approached in Naco, Arizona by
 Transcript Snippet: I was too stupid I didn't understand why this person was coming up or why they had personal information on me
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-11023
 Investigative Direction: Look for Border Patrol incident records and any report filed after the Naco encounter.
 
@@ -1441,7 +1441,7 @@ Claim: Mitch says that by the time of the briefing the photos from the Mexican s
 Transcript Snippet: the photos from the Mexican side had made their way to the American side and and they were able to put together how my information got got fed um to the other side.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-11023
 Investigative Direction: Obtain the briefing record and the photographs, and the investigators' conclusions on the leak.
 
@@ -1456,7 +1456,7 @@ Claim: Mitch says he has the court documents and court cases about the matter, a
 Transcript Snippet: we got the court documents we got the we got the court cases um You've sent them to me.
 
 Anchored Artifacts: A-2745.1
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Related Nodes: N-11023
 Investigative Direction: Obtain the case captions and docket numbers from the host or Mitch and pull them from the court dockets.
 
@@ -1471,7 +1471,7 @@ Claim: Mitch says he went to Fort Huachuca to get the original records and to fi
 Transcript Snippet: that's what led me to going down to Fort Huachuca was just to get the original records and find out you know why wasn't the FBI updated as what my status was
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10326
 Investigative Direction: Obtain the Fort Huachuca CID reports and Mitch's records request and any response.
 
@@ -1486,7 +1486,7 @@ Claim: The host says Mitch's gag order or non-disclosure agreement expired in Ma
 Transcript Snippet: And finally in May this of this year this this uh it expires right this this gag order expires
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Related Nodes: N-10326
 Supports: C-1882, C-1970
 Investigative Direction: Obtain the original NDA and its stated end date from Mitch and the issuing agency.
@@ -1502,7 +1502,7 @@ Claim: Mitch says people typically can get onto the base as long as they have ID
 Transcript Snippet: no typically you can as long as you have your your ID your insurance and you have a purpose for being there
 
 Anchored Artifacts: A-1558.2
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10326
 Investigative Direction: Confirm Fort Huachuca's visitor access policy and the gate-scan records for Mitch's ID on September 9, 2025.
 
@@ -1517,7 +1517,7 @@ Claim: Mitch says the hotel where he checked in was actually the barracks he had
 Transcript Snippet: that was actually the barracks that I had when I was there in in AIT training but they converted it
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10333
 Investigative Direction: Confirm the Candlewood Suites property's history as converted barracks and its September 8, 2025 booking record for Mitch.
 
@@ -1532,7 +1532,7 @@ Claim: Mitch says that while checking in he saw a man on the couch who looked li
 Transcript Snippet: one guy that was sitting on the couch he just had a sheen to him uh looked like he had a professional military sheen to him
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10367, N-10333
 Investigative Direction: Request the hotel lobby and check-in security footage for September 8, 2025.
 
@@ -1547,7 +1547,7 @@ Claim: Mitch says the man and the woman got into a big green truck parked out fr
 Transcript Snippet: there was a vehicle parked out front, uh big green truck. G- It looked like a real shiny GSA type.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10367, N-10333
 Investigative Direction: Check Fort Huachuca motor-pool and GSA fleet records and lobby or parking footage for that evening.
 
@@ -1562,7 +1562,7 @@ Claim: Mitch says he ran into 10th Mountain personnel at a coffee shop on the ba
 Transcript Snippet: ran into some 10th Mountain people there. Um they said they were there for JTF.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10326
 Investigative Direction: Identify which 10th Mountain elements were at Fort Huachuca on September 9, 2025 and why.
 
@@ -1577,7 +1577,7 @@ Claim: Mitch says the building he was directed to was obviously a temporary setu
 Transcript Snippet: it was obviously a a temporary setup for this new command down there. Um There was no gate guard.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10326
 Supports: C-1885
 Investigative Direction: Obtain imagery or construction and lease records for the temporary command site.
@@ -1593,7 +1593,7 @@ Claim: Mitch says the congressman-dressed man and the people with him were escor
 Transcript Snippet: some of the military lieutenant colonels there and the and the unit sergeant major escorted them out. Um they got into one of the GSAs
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10326
 Investigative Direction: Obtain base vehicle dispatch and VIP-escort logs for the morning of September 9, 2025.
 
@@ -1608,7 +1608,7 @@ Claim: Mitch says that at any GSA motor pool a reserved set of extra-shiny, near
 Transcript Snippet: Some of those vehicles there, they're reserved uh at any GSA where they have VIPs that come in.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10326
 Investigative Direction: Confirm GSA fleet practice and the fleet assignment at Fort Huachuca on that date.
 
@@ -1623,7 +1623,7 @@ Claim: Mitch says that while officers surrounded him a GSA vehicle, possibly the
 Transcript Snippet: I did catch that there was yet another I don't know if it was the same GSA vehicle returning or a different one, but that did pull up to the building. Uh, I see who got in it.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10326, N-10367
 Investigative Direction: Ask Mitch whom he saw get in the vehicle and obtain base gate and vehicle logs.
 
@@ -1638,7 +1638,7 @@ Claim: Mitch says the officers interrogated him, mentioned a bomb threat and wan
 Transcript Snippet: and then they mentioned a bomb threat. They wanted to check my vehicle.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10326
 Investigative Direction: Obtain the police and CID reports for any bomb-threat report that morning.
 
@@ -1653,7 +1653,7 @@ Claim: Mitch says he was taken to the CID building, recorded, and given a report
 Transcript Snippet: They did give me a report number to go ahead and and you you went ahead and I gave that to you.
 
 Anchored Artifacts: A-2745.2
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Related Nodes: N-10326
 Supports: C-1889
 Investigative Direction: Request the incident report under that number from Fort Huachuca CID or the provost marshal.
@@ -1669,7 +1669,7 @@ Claim: Mitch says CID did not answer any of the questions he came with and did n
 Transcript Snippet: they didn't answer any of the questions I was there for. Uh, they didn't give me the documentation I wanted.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10326
 Investigative Direction: File a FOIA or Privacy Act request for Mitch's CID records and compare the response with his account.
 
@@ -1684,7 +1684,7 @@ Claim: Mitch says officers kept repeating a 24-hour figure, looked for any excus
 Transcript Snippet: they were looking for any excuse to try and um hold me up for like 24 hours.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10326
 Investigative Direction: Seek the barment or visitor-restriction record issued to Mitch.
 
@@ -1699,7 +1699,7 @@ Claim: Mitch says he flew out after a night in Tucson with a stop in Salt Lake C
 Transcript Snippet: before we touched down, I had a stop off in Salt Lake City. By the time we wheeled down, you know, we got the news about Charlie Kirk.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-362, N-1
+Mentions: N-361, N-1
 Related Nodes: N-10367
 Investigative Direction: Check Mitch's airline itinerary and boarding records for September 10, 2025.
 
@@ -1714,7 +1714,7 @@ Claim: The host says she can confirm every step of where Mitch went and when, th
 Transcript Snippet: I confirmed the location with other people that are that are on uh, Fort Huachuca currently.
 
 Anchored Artifacts: A-1558.1
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Related Nodes: N-10326
 Supports: C-1971
 Investigative Direction: Ask the host to document who on base confirmed the location and what they confirmed, without exposing sources.
@@ -1792,7 +1792,7 @@ Claim: The host says she believes the officers surrounded Mitch to make sure he 
 Transcript Snippet: I think that is the reason they surrounded you was to make sure you couldn't see who was walking out.
 
 Anchored Artifacts: 
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Related Nodes: N-10326
 Investigative Direction: Treat as the host's inference; seek body-camera or incident records showing the positioning and instructions of the officers.
 
@@ -1822,7 +1822,7 @@ Claim: The host tells Mitch she intends to help him raise money to go through la
 Transcript Snippet: I intend to help you raise money to go through these lawsuits with the federal government.
 
 Anchored Artifacts: 
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Related Nodes: N-11023
 Investigative Direction: Watch for the fundraiser's launch and verify its beneficiary and disbursements.
 
@@ -1837,7 +1837,7 @@ Claim: The host tells Mitch there were literally 51,000 unanswered emails in tha
 Transcript Snippet: there were literally 51,000 emails unanswered in that box.
 
 Anchored Artifacts: 
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Investigative Direction: Ask the host about the size of the tip inbox backlog.
 
 ---
@@ -1851,7 +1851,7 @@ Claim: The host says she called Mitch about four minutes after his email was sen
 Transcript Snippet: what did I call 4 minutes after the email was sent? And it was actually me. I didn't send it to like my producer.
 
 Anchored Artifacts: 
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Investigative Direction: Check the email timestamp and call log if the host chooses to release them.
 
 ---
@@ -1865,7 +1865,7 @@ Claim: The host says she will set up a GiveSendGo fundraiser for Mitch and his f
 Transcript Snippet: I will get together a GiveSendGo for Mitch and his family.
 
 Anchored Artifacts: 
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Related Nodes: N-11023
 Investigative Direction: Confirm the fundraiser's URL, beneficiary and disbursement once published.
 
@@ -1906,7 +1906,7 @@ The artifact, node, and claim registers are mutually cross-referenced. Key struc
 - **N-10367 (Fort Huachuca Eyewitness Encounter)** is anchored by artifacts A-1558.1, A-1558.3, A-1559.1, A-1559.2, A-1559.3 and supports claims C-1971 through C-1975 and C-1979.
 - **N-10368 (Bruce Bevins Covert Training Class)** is anchored by A-1557.1 and A-1557.2 and supports claims C-1969, C-1976, and C-1977.
 - **N-10369 (SUV Black Plastic Fragmentation)** is anchored by A-1560.1 and A-1560.2 and supports claim C-1978.
-- **N-362 ("Mitch")** is the central person node, linked to six claims and three artifacts.
+- **N-361 ("Mitch")** is the central person node, linked to six claims and three artifacts.
 - **N-2 (Erika Kirk)** and **N-1 (Charlie Kirk)** are reused from prior episodes.
 
 ---

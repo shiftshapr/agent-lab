@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 448a8189da2e8602111e8248d8480ad1e223b659b46e8eae9f2d0987ad1dd63b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-776, N-777, N-11136
+  - Tip-minted Nodes (supplement_2026-10b): N-774, N-775, N-11136
   - Hole-minted Nodes (reintro-ep124): N-10748
   - Tip-minted Nodes (reintro-ep124): N-11065
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7203–C-7279
   - New Nodes Introduced: N-10709, N-10712
-  - Reused Nodes Appearing: N-488, N-3, N-268, N-367, N-97, N-1, N-40, N-7, N-14, N-36, N-125, N-160, N-164, N-267, N-271, N-279, N-366, N-609, N-10000, N-10012, N-10018, N-10022, N-10027, N-10028, N-10051, N-10077, N-10381, N-10386, N-10389, N-10495, N-10572, N-10598, N-10679, N-10692, N-10703, N-10729, N-10900, N-10975, N-11017, N-10710, N-10711, N-11135, N-778, N-11137, N-58, N-493, N-10713
+  - Reused Nodes Appearing: N-487, N-3, N-267, N-366, N-97, N-1, N-40, N-7, N-14, N-36, N-125, N-159, N-163, N-266, N-270, N-278, N-365, N-607, N-10000, N-10012, N-10018, N-10022, N-10027, N-10028, N-10051, N-10077, N-10381, N-10386, N-10389, N-10495, N-10572, N-10598, N-10679, N-10692, N-10703, N-10729, N-10900, N-10975, N-11017, N-10710, N-10711, N-11135, N-776, N-11137, N-58, N-492, N-10713
   - (see registers)
 
 # Meta-Data
@@ -607,7 +607,7 @@ Confidence Level: Low
 
 # IV. Node Register
 
-**N-493** Justin Davis
+**N-492** Justin Davis
 
 First named by the host at 01:03:20 in episode 124.
 
@@ -886,7 +886,7 @@ TPUSA spokesperson; the host cites his statement that it was supposed to be her 
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Blake Neff; the host says his memory of the evening is fuzzy.
 
@@ -894,7 +894,7 @@ Blake Neff; the host says his memory of the evening is fuzzy.
 
 ---
 
-**N-164** Matt Walsh
+**N-163** Matt Walsh
 
 Matt Walsh; the host recalls a December phone call with him.
 
@@ -918,7 +918,7 @@ Brandon Tatum; an influencer the host says was invited to the courthouse.
 
 ---
 
-**N-267** Brian Harpole
+**N-266** Brian Harpole
 
 Brian Harpole; in the transport car and plaintiff against the host.
 
@@ -926,7 +926,7 @@ Brian Harpole; in the transport car and plaintiff against the host.
 
 ---
 
-**N-271** Dan Flood
+**N-270** Dan Flood
 
 Dan Flood; one of the two remaining candidates in the host's elimination of who updated Shapiro's security.
 
@@ -934,7 +934,7 @@ Dan Flood; one of the two remaining candidates in the host's elimination of who 
 
 ---
 
-**N-279** Bari Weiss
+**N-278** Bari Weiss
 
 Bari Weiss (captioned Bari Weiss); interviewed Erika Kirk.
 
@@ -966,7 +966,7 @@ Bill Ackman (captioned Bill Ackman); the host says he put Netanyahu on the phone
 
 ---
 
-**N-366** Diligent Denizen
+**N-365** Diligent Denizen
 
 Researcher the host credits with speaking to the waiter in Panguitch.
 
@@ -982,7 +982,7 @@ Defendant at the preliminary hearing whose evidence the host disputes.
 
 ---
 
-**N-488** Rick Cutler
+**N-487** Rick Cutler
 
 Rick Cutler; in the transport car, said by the host to have been holding Charlie.
 
@@ -998,7 +998,7 @@ Lance Twiggs, Robinson's roommate and hearing witness, whom the host calls a fed
 
 ---
 
-**N-609** Graham Allen
+**N-607** Graham Allen
 
 Graham Allen; an influencer the host says was invited to the courthouse.
 
@@ -1030,7 +1030,7 @@ Ben Shapiro; his security's live updates and Los Angeles meeting are the subject
 
 ---
 
-**N-776** Caitlin Oliver
+**N-774** Caitlin Oliver
 
 First named by the host at 00:30:07 in episode 124. ATF forensic biologist who testified on DNA at the preliminary hearing.
 
@@ -1038,7 +1038,7 @@ First named by the host at 00:30:07 in episode 124. ATF forensic biologist who t
 
 ---
 
-**N-777** Samantha Karner
+**N-775** Samantha Karner
 
 First named by the host at 00:37:36 in episode 124. ATF ballistics expert who testified on day four about bullet fragment 6A.
 
@@ -1046,7 +1046,7 @@ First named by the host at 00:37:36 in episode 124. ATF ballistics expert who te
 
 ---
 
-**N-778** Matt Robinson
+**N-776** Matt Robinson
 
 First named by the host at 00:06:50 in episode 124. Tyler Robinson's father, whose prints the host says were on the gun. Aliases: Matt Robinson.
 
@@ -1236,7 +1236,7 @@ Claim Timestamp: 00:31:06
 Claim: ATF forensic biologist Caitlin Oliver testified that characterizing media reports as "Mr. Robinson's DNA is found on this item" would constitute a "source attribution" that is "not scientifically defensible."
 
 Anchored Artifacts: A-2124.1
-Mentions: N-40, N-776
+Mentions: N-40, N-774
 
 Related Nodes: N-10711
 
@@ -1251,7 +1251,7 @@ Claim Timestamp: 00:32:07
 Claim: Caitlin Oliver testified that DNA samples from the trigger and trigger guard were mixed samples with at least 4–7 contributors, with "major" and "minor" labels referring only to DNA quantity contributed, not to any activity-based attribution.
 
 Anchored Artifacts: A-2124.2
-Mentions: N-776
+Mentions: N-774
 
 Related Nodes: N-10711
 
@@ -1266,7 +1266,7 @@ Claim Timestamp: 00:35:20
 Claim: The host says that Caitlin Oliver confirmed, in testimony the host plays, that Tyler Robinson's DNA sample was the most degraded of all contributors found on the firearm (swab 1.3 of trigger/trigger guard).
 
 Anchored Artifacts: A-2124.3
-Mentions: N-40, N-776
+Mentions: N-40, N-774
 
 Related Nodes: N-10711
 
@@ -1281,7 +1281,7 @@ Claim Timestamp: 00:40:31
 Claim: ATF ballistics expert Samantha Karner testified that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch.
 
 Anchored Artifacts: A-2125.1
-Mentions: N-777
+Mentions: N-775
 
 Related Nodes: N-10710
 
@@ -1343,7 +1343,7 @@ Claim: The host says Tim Pool is lying through his teeth, that he did not receiv
 Transcript Snippet: Tim Pool is lying through his teeth. He did not receive updates from somebody in that car about Charlie's status.
 
 Anchored Artifacts: 
-Mentions: N-3, N-268, N-367, N-1
+Mentions: N-3, N-267, N-366, N-1
 Related Nodes: N-10712
 Investigative Direction: Identify who in the car was in contact with outside security teams and when.
 
@@ -1373,7 +1373,7 @@ Claim: Recapping the pre-hearing narrative that Tyler Robinson's parents turned 
 Transcript Snippet: In fact, Bill Ackman, King of the Hamptons, immediately pledged $1 million to Tyler Robinson's father, Matt Robinson.
 
 Anchored Artifacts: A-2117.4
-Mentions: N-3, N-37, N-40, N-778
+Mentions: N-3, N-37, N-40, N-776
 Related Nodes:
 Confidence: medium
 Uncertainty: Host account; the pledge itself is not shown. Matt Robinson has no person node (person band full, awaiting Daveed).
@@ -1390,7 +1390,7 @@ Claim: The host says Erika Kirk extended an invitation to influencers including 
 Transcript Snippet: did not choose to invite to Charlie's private funeral mass, but extended an invitation for them to come to the courthouse.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-89, N-609, N-58, N-1
+Mentions: N-3, N-2, N-89, N-607, N-58, N-1
 Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Obtain the hearing attendance and seating list and any invitation messages from Erika Kirk's office to the named influencers.
@@ -1470,7 +1470,7 @@ Claim: The host says Erika Kirk told viewers back in November or December that s
 Transcript Snippet: Erika herself told us back in November or December that she had seen the evidence and she was convinced it was Tyler Robinson.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-279, N-40
+Mentions: N-3, N-2, N-278, N-40
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Review the Erika Kirk interview with Bari Weiss and any earlier Erika Kirk statements about having seen evidence.
@@ -1697,7 +1697,7 @@ Claim: The host says Blake Neff did an X live in which his memory is fuzzy about
 Transcript Snippet: Apparently, a few of the people at Turning Point USA, despite Charlie dying, went out later that night and don't necessarily recall what they were doing.
 
 Anchored Artifacts: 
-Mentions: N-3, N-160, N-1
+Mentions: N-3, N-159, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Review the Blake Neff X live and compare his account of September 10 with receipts, photos and location records.
@@ -1876,7 +1876,7 @@ Claim: The host says her view is that the influencers claimed to have seen 4K HD
 Transcript Snippet: I believe that the reason they did it, the reason why they went insane was to overcome the testimony of Caitlin Oliver.
 
 Anchored Artifacts: A-2124.1
-Mentions: N-3, N-776, N-40
+Mentions: N-3, N-774, N-40
 Related Nodes: N-10975
 Tags: relevance:core
 Investigative Direction: Compare the dates of the influencer videos with Oliver's testimony and the court's rulings on release of video.
@@ -1908,7 +1908,7 @@ Claim: The host says Oliver confirmed there was a minimum of five sets of DNA on
 Transcript Snippet: which of course included Lance Twiggs. Uh it also included Matt Robinson, Tyler's father.
 
 Anchored Artifacts: A-2124.2
-Mentions: N-3, N-776, N-54, N-778, N-40
+Mentions: N-3, N-774, N-54, N-776, N-40
 Related Nodes: N-10975
 Tags: relevance:core
 Investigative Direction: Obtain the DNA report listing contributor counts and any reference samples compared, including the father's.
@@ -1924,7 +1924,7 @@ Claim: In the audio played, ATF biologist Caitlin Oliver testifies that the trig
 Transcript Snippet: So, they were swabbed together. So, I wouldn't be able to say um where the DNA came from.
 
 Anchored Artifacts: A-2124.3
-Mentions: N-776, N-40
+Mentions: N-774, N-40
 Related Nodes: N-10975, N-10711
 Tags: relevance:core
 Investigative Direction: Obtain the evidence photographs, collection notes and the identity of who performed the swabs.
@@ -1940,7 +1940,7 @@ Claim: The host says the media kept saying Robinson's DNA was on the trigger, wh
 Transcript Snippet: because they kept saying that his DNA was on the trigger. And she's admitting it could be the trigger guard.
 
 Anchored Artifacts: A-2124.3
-Mentions: N-3, N-776, N-40
+Mentions: N-3, N-774, N-40
 Related Nodes: N-10711
 Tags: relevance:core
 Investigative Direction: Collect the original media and official statements about DNA on the trigger and compare with the laboratory report wording.
@@ -1973,7 +1973,7 @@ Claim: The host says it was weird that seven bullet fragments were reportedly ta
 Transcript Snippet: it was weird off the bat that they said they took seven bullet uh seven fragments from Charlie's body. She testifies that she only received four of them in an envelope
 
 Anchored Artifacts: A-2125.1
-Mentions: N-3, N-777, N-1
+Mentions: N-3, N-775, N-1
 Related Nodes: N-11135, N-10975, N-10710
 Tags: relevance:core
 Investigative Direction: Obtain the medical examiner's evidence log and the ATF receipt for fragments to reconcile seven recovered with four received.
@@ -1989,7 +1989,7 @@ Claim: The host says the 6A fragment range of .286 to .301 is too small for Tyle
 Transcript Snippet: The reason why that matters is because it's too small for Tyler's 306.
 
 Anchored Artifacts: A-2125.1
-Mentions: N-3, N-777, N-40
+Mentions: N-3, N-775, N-40
 Related Nodes: N-10710, N-10572
 Supports: C-3013
 Tags: relevance:core
@@ -2202,7 +2202,7 @@ Claim: The host says she had a strange phone call with Matt Walsh in December an
 Transcript Snippet: Then there was this really strange phone call that I had with Matt Walsh and I did not know that Ben Shapiro was in town on this date when I had the phone call.
 
 Anchored Artifacts: 
-Mentions: N-3, N-164, N-97
+Mentions: N-3, N-163, N-97
 Related Nodes: N-10900
 Tags: relevance:core
 Investigative Direction: Establish Shapiro's whereabouts and Walsh's call timing for the date; the host defers details to another episode.
@@ -2218,7 +2218,7 @@ Claim: The host says Brian Harpole is suing her using Ben Shapiro's lawyers and 
 Transcript Snippet: which Brian Harpole is suing me over and using Ben Shapiro's lawyers and Ben Shapiro's brother-in-law to do so.
 
 Anchored Artifacts: 
-Mentions: N-3, N-267, N-97
+Mentions: N-3, N-266, N-97
 Related Nodes: N-10900
 Supports: C-2851, C-2810
 Tags: relevance:core
@@ -2268,7 +2268,7 @@ Claim: The host says Brian Harpole stipulates that he could not have been provid
 Transcript Snippet: Brian Harpole stipulates that it couldn't have been him that was providing those updates because he was just packing like 40 feet of gauze into Charlie's neck.
 
 Anchored Artifacts: 
-Mentions: N-3, N-267, N-1
+Mentions: N-3, N-266, N-1
 Related Nodes: N-10712
 Tags: relevance:core
 Investigative Direction: Compare Harpole's account of treatment with his lawsuit filing, interviews and any photographs or video from the vehicle.
@@ -2284,7 +2284,7 @@ Claim: The host says Rick Cutler could not have been the one providing updates b
 Transcript Snippet: And it couldn't have been Rick Cutler because Rick Cutler had him.
 
 Anchored Artifacts: 
-Mentions: N-3, N-488, N-1
+Mentions: N-3, N-487, N-1
 Related Nodes: N-10712
 Tags: relevance:core
 Investigative Direction: Interview Cutler and review vehicle video or photographs to confirm his position and use of his phone.
@@ -2300,7 +2300,7 @@ Claim: The host says Frank Turek says he started CPR, but Brian Harpole says no 
 Transcript Snippet: Frank says that he started CPR, but Brian Harpell says no such thing took place because CPR would have been the wrong thing to do uh while he was bleeding.
 
 Anchored Artifacts: 
-Mentions: N-3, N-7, N-267, N-1
+Mentions: N-3, N-7, N-266, N-1
 Related Nodes: N-10712
 Tags: relevance:core
 Investigative Direction: Compare Frank Turek's and Brian Harpole's recorded accounts of what was done in the vehicle.
@@ -2316,7 +2316,7 @@ Claim: The host says Justin Davis was driving upwards of 100 miles per hour and 
 Transcript Snippet: Justin Davis was driving upwards to 100 miles per hour.
 
 Anchored Artifacts: 
-Mentions: N-3, N-493, N-97
+Mentions: N-3, N-492, N-97
 Related Nodes: N-10712
 Tags: relevance:core
 Investigative Direction: Obtain vehicle telematics, GPS or dashcam data for the transport and Davis's phone records.
@@ -2348,7 +2348,7 @@ Claim: The host says nobody has said who called 911, and that the released 911 c
 Transcript Snippet: Which one of you guys called 911? Because they've never said who called 911 because the 911 calls that were released show that neither of them called 911.
 
 Anchored Artifacts: 
-Mentions: N-3, N-271, N-493
+Mentions: N-3, N-270, N-492
 Related Nodes: N-10729, N-10692
 Supports: C-3828, C-4031
 Tags: relevance:core
@@ -2496,7 +2496,7 @@ Claim: The host says Diligent Denizen went and spoke to the waiter in Panguitch 
 Transcript Snippet: Diligent Denizen went and spoke to the waiter uh down at in Panguitch. More was going to be coming out about that.
 
 Anchored Artifacts: 
-Mentions: N-3, N-366
+Mentions: N-3, N-365
 Related Nodes: N-10381
 Supports: C-2004
 Tags: relevance:core
@@ -2545,7 +2545,7 @@ Claim: The host says someone emailed that they dug up Brian Harpole's EMT creden
 Transcript Snippet: I think somebody emailed me and said they dug up Brian's and it was from like 1996 and that he should have had one in the state of Utah.
 
 Anchored Artifacts: 
-Mentions: N-3, N-267
+Mentions: N-3, N-266
 Related Nodes: N-11137
 Tags: relevance:core
 Investigative Direction: Check Utah EMS licensing records and the National Registry for Harpole's credential history.
@@ -2561,7 +2561,7 @@ Claim: The host says she is being sued for saying what Harpole and the others di
 Transcript Snippet: Obviously, I'm being sued for saying that what they did was incompetent.
 
 Anchored Artifacts: 
-Mentions: N-3, N-267, N-97
+Mentions: N-3, N-266, N-97
 Related Nodes: N-11137
 Supports: C-2810
 Tags: relevance:core

@@ -1059,8 +1059,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -1097,8 +1097,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-262",
-      "ref": "N-262",
+      "@id": "N-261",
+      "ref": "N-261",
       "name": "Terryl Farnsworth",
       "type": "person",
       "description": "AV / camera operator (Terryl / Tara / Taro / Terryl Farnsworth ASR variants). Credited for Frank Turek trunk-entry video in this episode; first ledger intro ep33.",
@@ -1116,8 +1116,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-488",
-      "ref": "N-488",
+      "@id": "N-487",
+      "ref": "N-487",
       "name": "Rick Cutler",
       "type": "person",
       "description": "First named by the host at 00:10:43 in episode 121.",
@@ -1134,8 +1134,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-923",
-      "ref": "N-923",
+      "@id": "N-920",
+      "ref": "N-920",
       "name": "Elizabeth Holmes",
       "type": "person",
       "description": "First named by the host at 00:56:01 in episode 121. Former biotech entrepreneur convicted of fraud, discussed in a commenter's comparison to Erika Kirk.",
@@ -1299,8 +1299,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Mikey McCoy; per Turek sent a plane for Erika.",
@@ -1316,8 +1316,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-222",
-      "ref": "N-222",
+      "@id": "N-221",
+      "ref": "N-221",
       "name": "Brett Cooper",
       "type": "person",
       "description": "Brett Cooper; former Daily Wire host.",
@@ -1333,8 +1333,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Dan Flood",
       "type": "person",
       "description": "Dan Flood; front passenger, possible 911 caller, declined a promotion.",
@@ -1352,8 +1352,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-367",
-      "ref": "N-367",
+      "@id": "N-366",
+      "ref": "N-366",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Jeremy Boreing; Daily Wire co-founder, Pendragon.",
@@ -1373,8 +1373,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-493",
-      "ref": "N-493",
+      "@id": "N-492",
+      "ref": "N-492",
       "name": "Justin Davis",
       "type": "person",
       "description": "Justin Davis; driver per the host's seating graphic.",
@@ -1390,8 +1390,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-596",
-      "ref": "N-596",
+      "@id": "N-594",
+      "ref": "N-594",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Jordan Peterson; named in the Daily Wire firing story.",
@@ -1407,8 +1407,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-668",
-      "ref": "N-668",
+      "@id": "N-666",
+      "ref": "N-666",
       "name": "James Kaddis",
       "type": "person",
       "description": "James Kaddis; pastor the host asks about as Erika's pastor.",
@@ -1424,8 +1424,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-732",
-      "ref": "N-732",
+      "@id": "N-730",
+      "ref": "N-730",
       "name": "Sara Tewell",
       "type": "person",
       "description": "Sara Tewell; witness who changed her story per the host.",
@@ -1924,7 +1924,7 @@
       "claim_timestamp": "00:06:20–00:07:24",
       "investigative_direction": "Obtain full unedited Brian Harpole interview transcript; corroborate against any ER surveillance footage (if not destroyed) and ER staff testimony.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -1943,8 +1943,8 @@
       "claim_timestamp": "00:11:31–00:12:26",
       "investigative_direction": "Cross-reference with dash-cam / traffic-cam / police body cam footage to verify door-open configuration.",
       "mentions_person_refs": [
-        "N-267",
-        "N-488"
+        "N-266",
+        "N-487"
       ]
     },
     {
@@ -1963,7 +1963,7 @@
       "claim_timestamp": "00:11:31–00:12:26",
       "investigative_direction": "Cross-reference with traffic-cam and police-body-cam timestamps to estimate actual travel speed.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -1983,7 +1983,7 @@
       "claim_timestamp": "00:13:09–00:13:30",
       "investigative_direction": "Compare dressing count against visible dressing/pack debris in car interior photos; obtain medical supply packaging for roll length verification.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2003,7 +2003,7 @@
       "claim_timestamp": "00:11:31–00:12:26",
       "investigative_direction": "Obtain Frank Turek's own account of his activity during the ride; identify any audio recording that could capture in-car speech.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-7"
       ]
     },
@@ -2023,8 +2023,8 @@
       "claim_timestamp": "00:11:31–00:12:26",
       "investigative_direction": "Cross-reference with Rick Cutler's own testimony if available; review photo evidence of Rick Cutler's clothing for blood patterns inconsistent with this holding posture.",
       "mentions_person_refs": [
-        "N-267",
-        "N-488"
+        "N-266",
+        "N-487"
       ]
     },
     {
@@ -2083,7 +2083,7 @@
       "investigative_direction": "Obtain the original unedited Terryl Farnsworth video; preserve metadata for chain-of-custody purposes.",
       "mentions_person_refs": [
         "N-7",
-        "N-262"
+        "N-261"
       ]
     },
     {
@@ -2141,7 +2141,7 @@
       "claim_timestamp": "00:16:18–00:16:50",
       "investigative_direction": "High-resolution review of car floor photos for additional packaging remnants; obtain official product dimensions for verification.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2247,7 +2247,7 @@
       "claim_timestamp": "00:42:55",
       "investigative_direction": "Obtain Daily Wire financial disclosures (if any) and verify per-episode cost comparison to HBO's first Game of Thrones season.",
       "mentions_person_refs": [
-        "N-367"
+        "N-366"
       ]
     },
     {
@@ -2266,7 +2266,7 @@
       "claim_timestamp": "00:51:15–00:51:45",
       "investigative_direction": "Independent verification of ER protocols from additional medical professionals; obtain hospital incident logs.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2285,7 +2285,7 @@
       "claim_timestamp": "00:53:05",
       "investigative_direction": "Same as C-2964.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2340,7 +2340,7 @@
       "claim_timestamp": "00:13:09–00:14:33",
       "investigative_direction": "Obtain full Brian Harpole interview transcript; cross-reference with hospital intake records regarding initial pulse detection.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2361,7 +2361,7 @@
         "C-2810"
       ],
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-3"
       ]
     },
@@ -2383,7 +2383,7 @@
       "investigative_direction": "Compare each man's recorded account of the ride side by side (CPR, door, positions, duration).",
       "transcript_snippet": "since they have conflicting stories, him and Frank Turek.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-7"
       ]
     },
@@ -2452,7 +2452,7 @@
       "investigative_direction": "Obtain the ER and EMS records for who handled the shirt and where it went.",
       "transcript_snippet": "So, what Brian is, I think, rather truthfully admitting here, is that he was the person responsible for the removal of Charlie Kirk's shirt, right?",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-1"
       ]
     },
@@ -2475,7 +2475,7 @@
       "investigative_direction": "Establish the shirt's chain of custody and whether it was tested for explosive residue.",
       "transcript_snippet": "is an admission that Brian Harpole would be the person responsible for removing the biggest piece of explosive residue evidence, Charlie's shirt.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-1"
       ]
     },
@@ -2496,7 +2496,7 @@
       "investigative_direction": "Compare ER intake photos and records with the car-interior photos for the shirt's location.",
       "transcript_snippet": "I have to then logically consider that Brian removed Charlie's shirt somewhere else, right? And the only other option would be in the car on the way over to the hospital.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-1"
       ]
     },
@@ -2539,10 +2539,10 @@
       "investigative_direction": "Confirm seating with each occupant's first-hand account and the SUV photos.",
       "transcript_snippet": "You've got Dan Flood there in the passenger seat. You've got Justin Davis driving.",
       "mentions_person_refs": [
-        "N-271",
-        "N-493",
-        "N-267",
-        "N-488",
+        "N-270",
+        "N-492",
+        "N-266",
+        "N-487",
         "N-1",
         "N-7"
       ]
@@ -2564,7 +2564,7 @@
       "investigative_direction": "Use traffic-camera, dispatch and phone-location times to fix departure and arrival to the minute.",
       "transcript_snippet": "the hospital was about 8 minutes away if you look that up just on Google Maps.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2589,7 +2589,7 @@
         "C-2947"
       ],
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2611,9 +2611,9 @@
       "investigative_direction": "Ask Cutler and Turek independently what each did and said during the ride.",
       "transcript_snippet": "And Frank's praying out loud. Uh Rick's praying out loud.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-7",
-        "N-488"
+        "N-487"
       ]
     },
     {
@@ -2639,7 +2639,7 @@
         "C-2949"
       ],
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2662,7 +2662,7 @@
       "investigative_direction": "Check the car-interior photos for torn hemostatic packaging and any bag or wrapper debris.",
       "transcript_snippet": "And so I'm opening those with my mouth and and then put them down and then spreading it out a little bit",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2684,7 +2684,7 @@
       "investigative_direction": "Check roll length by product and arithmetic: 36 ft is 12 yd, which is three 4-yard rolls, not six.",
       "transcript_snippet": "But those are sold at just 4 yd a roll. So why on earth did Brian have handy six rolls of dressing in his small medical bag",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2710,7 +2710,7 @@
       "mentions_person_refs": [
         "N-7",
         "N-1",
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2736,7 +2736,7 @@
         "C-4709"
       ],
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2761,7 +2761,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2830,7 +2830,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2850,9 +2850,9 @@
       "investigative_direction": "Look for cut-fabric fragments or scissors in the car photos and compare with the shirt's cut pattern.",
       "transcript_snippet": "And he began cutting Charlie's shirt off of him in the car with about 5 to 6 minutes on the clock.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-7",
-        "N-488",
+        "N-487",
         "N-1"
       ]
     },
@@ -2898,7 +2898,7 @@
       "investigative_direction": "Compare the quantity of dressing on the body at hospital intake with what was found in the car.",
       "transcript_snippet": "because otherwise there wouldn't have been any evidence that anybody was working on him on that very short ride",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-1"
       ]
     },
@@ -3023,7 +3023,7 @@
       "transcript_snippet": "Mikey had already sent a plane to get Erika.",
       "mentions_person_refs": [
         "N-7",
-        "N-191",
+        "N-190",
         "N-2"
       ]
     },
@@ -3048,7 +3048,7 @@
         "C-4606"
       ],
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-2",
         "N-3"
       ]
@@ -3264,7 +3264,7 @@
       "investigative_direction": "Check the Semafor article for the cost and the episode count.",
       "transcript_snippet": "they spent $50 million on on just seven episodes.",
       "mentions_person_refs": [
-        "N-367"
+        "N-366"
       ]
     },
     {
@@ -3332,7 +3332,7 @@
       "transcript_snippet": "They were under financial pressure. They needed to remove people that they were paying.",
       "mentions_person_refs": [
         "N-3",
-        "N-596"
+        "N-594"
       ]
     },
     {
@@ -3353,8 +3353,8 @@
       "investigative_direction": "Compare Cooper's own statements about her exit.",
       "transcript_snippet": "That was then followed by Brett Cooper's exit later that same year also because of Jeremy Boreing and his mania.",
       "mentions_person_refs": [
-        "N-222",
-        "N-367"
+        "N-221",
+        "N-366"
       ]
     },
     {
@@ -3462,7 +3462,7 @@
         "C-2938"
       ],
       "mentions_person_refs": [
-        "N-732"
+        "N-730"
       ]
     },
     {
@@ -3482,7 +3482,7 @@
       "investigative_direction": "Review the three interviews for demeanor; this is the host's characterization.",
       "transcript_snippet": "You guys know that she was smiling, of course, the whole time",
       "mentions_person_refs": [
-        "N-732"
+        "N-730"
       ]
     },
     {
@@ -3502,7 +3502,7 @@
       "investigative_direction": "Compare the autopsy report with hospital records on whether a defibrillator was used.",
       "transcript_snippet": "there might be some marks that they know is a part of the autopsy report that they're going to explain as well that was from Charlie got defibrillated.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-1"
       ]
     },
@@ -3603,7 +3603,7 @@
       "investigative_direction": "Fringe; Holmes is held in a federal facility per the Bureau of Prisons.",
       "transcript_snippet": "She was the biotech entrepreneur who got convicted of fraud and then went to a fake prison that she's probably not even in.",
       "mentions_person_refs": [
-        "N-923",
+        "N-920",
         "N-2"
       ]
     },
@@ -3647,7 +3647,7 @@
       "investigative_direction": "Locate the passage in the interview and note the timestamp.",
       "transcript_snippet": "Brian briefly discussed in that Shawn Ryan interview how they caught a police tail.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -3668,7 +3668,7 @@
       "investigative_direction": "Request the 911 and CAD records for calls from the convoy.",
       "transcript_snippet": "No one has taken raised their hand and said it was me. I would assume it would be Dan Flood.",
       "mentions_person_refs": [
-        "N-271"
+        "N-270"
       ]
     },
     {
@@ -3691,7 +3691,7 @@
         "C-5494"
       ],
       "mentions_person_refs": [
-        "N-271",
+        "N-270",
         "N-2"
       ]
     },
@@ -3713,7 +3713,7 @@
       "transcript_snippet": "She took 2 years off to study the Bible and said no one saw her except for her pastor and her pastor's wife.",
       "mentions_person_refs": [
         "N-2",
-        "N-668"
+        "N-666"
       ]
     },
     {

@@ -152,7 +152,7 @@
             "C-3114"
           ],
           "related_nodes": [
-            "N-160",
+            "N-159",
             "N-10746"
           ],
           "tags": [],
@@ -335,7 +335,7 @@
             "C-5946"
           ],
           "related_nodes": [
-            "N-744"
+            "N-742"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -389,7 +389,7 @@
             "C-5934"
           ],
           "related_nodes": [
-            "N-744"
+            "N-742"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -557,7 +557,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -793,8 +793,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Referenced as a passenger in the second Denali rental alongside Blake Neff on September 10.",
@@ -1284,8 +1284,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-136",
-      "ref": "N-136",
+      "@id": "N-135",
+      "ref": "N-135",
       "name": "Judge Tony F. Graf Jr.",
       "type": "person",
       "description": "Named in the host's aside about a possible relation to Robert Graf.",
@@ -1318,8 +1318,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Subject of the two-phones discussion and Neff's recollection.",
@@ -1338,8 +1338,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-202",
-      "ref": "N-202",
+      "@id": "N-201",
+      "ref": "N-201",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Named in the Bowyer AmFest conversation.",
@@ -1355,8 +1355,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-254",
-      "ref": "N-254",
+      "@id": "N-253",
+      "ref": "N-253",
       "name": "Courtney Love",
       "type": "person",
       "description": "Source of the host's first Mormon Mafia mention.",
@@ -1372,8 +1372,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-261",
-      "ref": "N-261",
+      "@id": "N-260",
+      "ref": "N-260",
       "name": "Duncan Aviation",
       "type": "person",
       "description": "Named as the firm formerly owned by Robert Graf and linked to the Egyptian plane.",
@@ -1390,8 +1390,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-262",
-      "ref": "N-262",
+      "@id": "N-261",
+      "ref": "N-261",
       "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Named as a Mormon who takes down the cameras.",
@@ -1425,8 +1425,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Named in the account of Erika Kirk's interview tour.",
@@ -1460,8 +1460,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-299",
-      "ref": "N-299",
+      "@id": "N-298",
+      "ref": "N-298",
       "name": "Miriam Adelson",
       "type": "person",
       "description": "Named as controller of the Las Vegas Sands.",
@@ -1477,8 +1477,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Named as CC'd on the seamstress email.",
@@ -1494,8 +1494,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-353",
-      "ref": "N-353",
+      "@id": "N-352",
+      "ref": "N-352",
       "name": "Blake Wynn",
       "type": "person",
       "description": "Named in the allegation about Erika Kirk.",
@@ -1529,8 +1529,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-354",
-      "ref": "N-354",
+      "@id": "N-353",
+      "ref": "N-353",
       "name": "Steve Wynn",
       "type": "person",
       "description": "Named as owner of the Desert Inn site.",
@@ -1599,8 +1599,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-490",
-      "ref": "N-490",
+      "@id": "N-489",
+      "ref": "N-489",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Erika Kirk's mother; transcript spells her Laura Lori Fronsway.",
@@ -1616,8 +1616,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-546",
-      "ref": "N-546",
+      "@id": "N-545",
+      "ref": "N-545",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Possible referent of the host's guess that Tracy was the Daily Mail's family-friend source.",
@@ -1633,8 +1633,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-609",
-      "ref": "N-609",
+      "@id": "N-607",
+      "ref": "N-607",
       "name": "Graham Allen",
       "type": "person",
       "description": "Named in the host's remark on influencers.",
@@ -1650,8 +1650,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-707",
-      "ref": "N-707",
+      "@id": "N-705",
+      "ref": "N-705",
       "name": "Sheldon Adelson",
       "type": "person",
       "description": "Named as the late Sheldon Adelson who held the Sands.",
@@ -1705,8 +1705,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-740",
-      "ref": "N-740",
+      "@id": "N-738",
+      "ref": "N-738",
       "name": "Michael Jackson",
       "type": "person",
       "description": "First named by the host at 00:02:09 in episode 130. Cited as having alluded to a Zionist mafia before his death and as the subject of the coverage the host says contributed to her Daily Wire firing.",
@@ -1742,8 +1742,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-741",
-      "ref": "N-741",
+      "@id": "N-739",
+      "ref": "N-739",
       "name": "Benjamin Emanuel",
       "type": "person",
       "description": "First named by the host at 00:06:31 in episode 130. Described as an Irgun member and the father of Ari and Rahm Emanuel.",
@@ -1759,8 +1759,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-742",
-      "ref": "N-742",
+      "@id": "N-740",
+      "ref": "N-740",
       "name": "Ari Emanuel",
       "type": "person",
       "description": "First named by the host at 00:06:31 in episode 130. Described as one of the most powerful men in Hollywood and son of Benjamin Emanuel.",
@@ -1776,8 +1776,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-743",
-      "ref": "N-743",
+      "@id": "N-741",
+      "ref": "N-741",
       "name": "Rahm Emanuel",
       "type": "person",
       "description": "First named by the host at 00:06:31 in episode 130. Described as a Clinton adviser, Obama chief of staff and mayor of Chicago, and son of Benjamin Emanuel.",
@@ -1794,8 +1794,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-744",
-      "ref": "N-744",
+      "@id": "N-742",
+      "ref": "N-742",
       "name": "Howard Hughes",
       "type": "person",
       "description": "First named by the host at 00:08:56 in episode 130. Billionaire whose last years and death anchor the host's Mormon Mafia history. Aliases (transcript spellings): Howard Robert Hughes Jr..",
@@ -1833,8 +1833,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-745",
-      "ref": "N-745",
+      "@id": "N-743",
+      "ref": "N-743",
       "name": "Frank William Gay",
       "type": "person",
       "description": "First named by the host at 00:13:06 in episode 130. LDS member who ran a Hughes subsidiary, led his Mormon aides and later became trustee of the Howard Hughes Medical Institute. Aliases (transcript spellings): Bill Gay.",
@@ -1852,8 +1852,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-746",
-      "ref": "N-746",
+      "@id": "N-744",
+      "ref": "N-744",
       "name": "Robert Graf",
       "type": "person",
       "description": "First named by the host at 00:16:30 in episode 130. Owner of the jet on which Howard Hughes died and founder of Robert Graf Inc., later Duncan Aviation. Aliases (transcript spellings): Robert Kraft (transcript misspelling).",
@@ -1869,8 +1869,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-747",
-      "ref": "N-747",
+      "@id": "N-745",
+      "ref": "N-745",
       "name": "Robert Gay",
       "type": "person",
       "description": "First named by the host at 00:22:19 in episode 130. Son of Frank William Gay and a former managing director of Bain Capital.",
@@ -1886,8 +1886,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-748",
-      "ref": "N-748",
+      "@id": "N-746",
+      "ref": "N-746",
       "name": "Jon Kyl",
       "type": "person",
       "description": "First named by the host at 00:25:03 in episode 130. Senator through whom Erika Kirk told the host she may have met Tyler Bowyer. Aliases (transcript spellings): Senator Jon Kyl.",
@@ -1903,8 +1903,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-749",
-      "ref": "N-749",
+      "@id": "N-747",
+      "ref": "N-747",
       "name": "Taylor Marshall",
       "type": "person",
       "description": "First named by the host at 00:51:48 in episode 130. Catholic commentator the host calls a friend of her husband. Aliases (transcript spellings): Dr. Taylor Marshall.",
@@ -2058,8 +2058,8 @@
       "claim_timestamp": "00:14:54",
       "investigative_direction": "Obtain the full 1976 Time article and corroborating contemporaneous coverage; cross-reference Summa Corporation employment records for Bill Gay and the named assistants.",
       "mentions_person_refs": [
-        "N-744",
-        "N-745"
+        "N-742",
+        "N-743"
       ]
     },
     {
@@ -2154,7 +2154,7 @@
       "claim_timestamp": "00:45:08",
       "investigative_direction": "Retrieve the full unedited Blake Neff interview segment; cross-reference with any video showing Mikey holding two devices.",
       "mentions_person_refs": [
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2227,7 +2227,7 @@
         "C-1705"
       ],
       "mentions_person_refs": [
-        "N-254",
+        "N-253",
         "N-3"
       ]
     },
@@ -2246,7 +2246,7 @@
       "mentions_person_refs": [
         "N-27",
         "N-80",
-        "N-740",
+        "N-738",
         "N-3"
       ]
     },
@@ -2266,7 +2266,7 @@
       "transcript_snippet": "one of the reasons among many that I was fired from The Daily Wire, a specific reason that they listed was I suggested that there could be a Jewish mafia in Hollywood",
       "mentions_person_refs": [
         "N-3",
-        "N-740"
+        "N-738"
       ]
     },
     {
@@ -2338,9 +2338,9 @@
       "investigative_direction": "Verify Benjamin Emanuel's Irgun membership against biographies of Rahm and Ari Emanuel and Israeli archival records.",
       "transcript_snippet": "One of its members was a man named Benjamin Emanuel. That is the father of Ari Emanuel, one of the most powerful, if not the most powerful man in Hollywood.",
       "mentions_person_refs": [
-        "N-741",
-        "N-742",
-        "N-743"
+        "N-739",
+        "N-740",
+        "N-741"
       ]
     },
     {
@@ -2356,7 +2356,7 @@
       "investigative_direction": "Check Rahm Emanuel's official biography for the Clinton White House titles and dates.",
       "transcript_snippet": "Rahm was also the chief of staff under Barack Obama and then he became the mayor of Chicago.",
       "mentions_person_refs": [
-        "N-743"
+        "N-741"
       ]
     },
     {
@@ -2390,7 +2390,7 @@
       "investigative_direction": "Capture the exact Google snippet and its cited source and compare with encyclopedic definitions of the term.",
       "transcript_snippet": "the trusted Latter-Day Saints inner circle of businessmen businessmen and accountants who were hired by billionaire Howard Hughes in Las Vegas during the 1960s.",
       "mentions_person_refs": [
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2408,7 +2408,7 @@
       "investigative_direction": "Verify against Hughes biographies and film-production records for Hell's Angels.",
       "transcript_snippet": "To make Hell's Angels, he actually assembled the largest private air force in the world.",
       "mentions_person_refs": [
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2426,7 +2426,7 @@
       "investigative_direction": "Check corporate histories of Hughes Aircraft for the founding date and the Lockheed hangar arrangement.",
       "transcript_snippet": "In 1932, Howard Hughes founded the Hughes Aircraft Company.",
       "mentions_person_refs": [
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2446,7 +2446,7 @@
       "investigative_direction": "Review HHMI founding documents and IRS and court records on the transfer of Hughes Aircraft stock to the institute.",
       "transcript_snippet": "formed that in 1953 to fund basic medical research.",
       "mentions_person_refs": [
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2464,7 +2464,7 @@
       "investigative_direction": "Check Nevada gaming-commission records for the dates of Hughes's Desert Inn and Sands acquisitions.",
       "transcript_snippet": "Howard Hughes in the last 10 years of his life began buying up casinos and hotels and restaurants in Las Vegas including the Desert Inn",
       "mentions_person_refs": [
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2480,7 +2480,7 @@
       "investigative_direction": "Compare with biographies' accounts of Hughes's painkiller use earlier in life.",
       "transcript_snippet": "Howard Hughes himself was not a drinker, he was not a partier, he did not do drugs.",
       "mentions_person_refs": [
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2496,7 +2496,7 @@
       "investigative_direction": "Verify the 1948 RKO shutdown and its stated purpose in studio histories and trade press.",
       "transcript_snippet": "he shut down his film studio after he acquired it acquired it, RKO, for 6 months.",
       "mentions_person_refs": [
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2514,8 +2514,8 @@
       "investigative_direction": "Check Summa Corporation and Hughes Tool Company records for Gay's hiring date and role.",
       "transcript_snippet": "One person who he trusted was a man named Frank William Gay. He was a member of the LDS Church, Latter-Day Saints, uh who he initially hired just to run a subsidiary of his tool business.",
       "mentions_person_refs": [
-        "N-745",
-        "N-744"
+        "N-743",
+        "N-742"
       ]
     },
     {
@@ -2531,7 +2531,7 @@
       "investigative_direction": "Compare with contemporaneous press accounts and later biographies for the official explanation of Hughes's seclusion.",
       "transcript_snippet": "he was in pain from injuries that he had endured over his lifetime, so he began taking painkillers.",
       "mentions_person_refs": [
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2554,7 +2554,7 @@
         "C-3109"
       ],
       "mentions_person_refs": [
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2589,7 +2589,7 @@
       "investigative_direction": "Obtain the Hughes death certificate and autopsy summaries for date, place and stated cause.",
       "transcript_snippet": "Officially, Howard Hughes died of kidney failure on April 5th, 1976. He was aboard a jet, actually.",
       "mentions_person_refs": [
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2607,9 +2607,9 @@
       "investigative_direction": "Check Duncan Aviation corporate history and records of the aircraft that carried Hughes on 5 April 1976.",
       "transcript_snippet": "he was the founder of Robert Graf Inc., which became Duncan Aviation. His business partner was Donald Duncan.",
       "mentions_person_refs": [
-        "N-746",
-        "N-136",
-        "N-261",
+        "N-744",
+        "N-135",
+        "N-260",
         "N-40"
       ]
     },
@@ -2629,7 +2629,7 @@
       "investigative_direction": "Pull flight-tracking and FBO records for the Egyptian-registered aircraft on 10 September 2025 and any Duncan Aviation handling.",
       "transcript_snippet": "Yeah, that Duncan Aviation that had that Egyptian plane take off for Delaware shortly before the assassination.",
       "mentions_person_refs": [
-        "N-261",
+        "N-260",
         "N-1"
       ]
     },
@@ -2650,7 +2650,7 @@
       "investigative_direction": "Identify the investigation (probate or Texas and Nevada inquiries) and read the original findings on cause of death.",
       "transcript_snippet": "Someone administered a deadly injection of the painkiller codeine to this virtually comatose man.",
       "mentions_person_refs": [
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2670,7 +2670,7 @@
       "investigative_direction": "Check the 1976 autopsy reports and later biographies for the needle finding.",
       "transcript_snippet": "X-rays revealed five broken-off hypodermic needles needles that were inside the flesh of his arms.",
       "mentions_person_refs": [
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2690,7 +2690,7 @@
       "investigative_direction": "Compare with autopsy descriptions and testimony from the estate proceedings.",
       "transcript_snippet": "his body was so thin that observers likened him to a captive from a Japanese prisoner-of-war camp.",
       "mentions_person_refs": [
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2708,7 +2708,7 @@
       "investigative_direction": "Check court records of the Mormon will (Melvin Dummar will) litigation and who filed it.",
       "transcript_snippet": "There was a mysterious handwritten note, which was filed by the Church of a Latter-day Saints, which they claimed was his last will and testament.",
       "mentions_person_refs": [
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2726,7 +2726,7 @@
       "investigative_direction": "Verify the estate value, settlement timeline and the HHMI share against probate and IRS records.",
       "transcript_snippet": "It was a 34-year legal battle. Until eventually it was decided that the majority of his fortune, around $1.5 billion, would be controlled by the Howard Hughes Medical Institute",
       "mentions_person_refs": [
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2744,8 +2744,8 @@
       "investigative_direction": "Check HHMI trustee records and CIA-related reporting on Gay's work with the agency.",
       "transcript_snippet": "the trustee of the board became Frank William Gay. His trusted Mormon. Who, it would be discovered later, was at one point working with the CIA.",
       "mentions_person_refs": [
-        "N-745",
-        "N-744"
+        "N-743",
+        "N-742"
       ]
     },
     {
@@ -2761,9 +2761,9 @@
       "investigative_direction": "Distinguish the Hughes-era Sands Hotel from the Las Vegas Sands Corporation and verify current ownership.",
       "transcript_snippet": "Today, his Las Vegas Sands Resort, obviously, and casino is controlled and operated by Miriam Adelson.",
       "mentions_person_refs": [
-        "N-299",
-        "N-707",
-        "N-744"
+        "N-298",
+        "N-705",
+        "N-742"
       ]
     },
     {
@@ -2779,8 +2779,8 @@
       "investigative_direction": "Verify ownership history of the Desert Inn and Frontier sites and the Wynn Las Vegas build on the Desert Inn land.",
       "transcript_snippet": "Steve Wynn eventually demolished that, and today it is the famed Wynn Las Vegas Hotel.",
       "mentions_person_refs": [
-        "N-354",
-        "N-744"
+        "N-353",
+        "N-742"
       ]
     },
     {
@@ -2828,8 +2828,8 @@
       "investigative_direction": "Check Bain Capital biographies for Robert Gay's tenure and family relationship to Frank Gay.",
       "transcript_snippet": "he had a son, Robert Gay, who became the managing director of Mitt Romney's Bain Capital for 16 years.",
       "mentions_person_refs": [
-        "N-747",
         "N-745",
+        "N-743",
         "N-28"
       ]
     },
@@ -2849,7 +2849,7 @@
       "transcript_snippet": "when I was researching one of the maroon boys maroon boys I who I'm not naming at this time I did discover that he was a relative of the Hughes family empire",
       "mentions_person_refs": [
         "N-3",
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -2953,7 +2953,7 @@
         "C-4779"
       ],
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-2",
         "N-1"
       ]
@@ -2995,7 +2995,7 @@
       "mentions_person_refs": [
         "N-11",
         "N-2",
-        "N-748",
+        "N-746",
         "N-3"
       ]
     },
@@ -3015,7 +3015,7 @@
       "transcript_snippet": "he told me that Turning Point USA was never not going to be pro-Israel. They would always be pro-Israel.",
       "mentions_person_refs": [
         "N-11",
-        "N-202",
+        "N-201",
         "N-1",
         "N-3"
       ]
@@ -3121,8 +3121,8 @@
       "mentions_person_refs": [
         "N-11",
         "N-2",
-        "N-490",
-        "N-262"
+        "N-489",
+        "N-261"
       ]
     },
     {
@@ -3199,7 +3199,7 @@
       "transcript_snippet": "Not even Ben Shapiro himself or Blake Neff could stomach the lie that Andrew Kolvet tried to spin that Ben and Charlie were friends.",
       "mentions_person_refs": [
         "N-97",
-        "N-160",
+        "N-159",
         "N-14",
         "N-1",
         "N-3"
@@ -3219,7 +3219,7 @@
       "transcript_snippet": "Erika then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss in New York Times and her and Charlie's home",
       "mentions_person_refs": [
         "N-2",
-        "N-279"
+        "N-278"
       ]
     },
     {
@@ -3252,7 +3252,7 @@
       "transcript_snippet": "one of the only times that Erika has ever responded to anything publicly and directly was when somebody alleged that she was dating Blake Wynn of the Wynn casino dynasty.",
       "mentions_person_refs": [
         "N-2",
-        "N-353",
+        "N-352",
         "N-3"
       ]
     },
@@ -3272,7 +3272,7 @@
       "transcript_snippet": "The very people that he trusted the most in his inner circle are doing a 180 on the things that Charlie believed.",
       "mentions_person_refs": [
         "N-1",
-        "N-744"
+        "N-742"
       ]
     },
     {
@@ -3332,7 +3332,7 @@
         "C-2483"
       ],
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-97",
         "N-1"
       ]
@@ -3377,7 +3377,7 @@
         "C-3083"
       ],
       "mentions_person_refs": [
-        "N-546",
+        "N-545",
         "N-2",
         "N-3"
       ]
@@ -3681,7 +3681,7 @@
       "investigative_direction": "Review event-entry and hospital-arrival video for the devices Mikey McCoy carried.",
       "transcript_snippet": "It's a fact Mikey did have two phones when him and Charlie walked into the event.",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-1",
         "N-3"
       ]
@@ -3706,8 +3706,8 @@
         "C-3093"
       ],
       "mentions_person_refs": [
-        "N-160",
-        "N-191",
+        "N-159",
+        "N-190",
         "N-2",
         "N-17"
       ]
@@ -3733,7 +3733,7 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-191",
+        "N-190",
         "N-3"
       ]
     },
@@ -3804,8 +3804,8 @@
         "C-3093"
       ],
       "mentions_person_refs": [
-        "N-160",
-        "N-191",
+        "N-159",
+        "N-190",
         "N-2",
         "N-3"
       ]
@@ -3825,7 +3825,7 @@
       "investigative_direction": "Confirm the planned project and its cancellation with Marshall's team.",
       "transcript_snippet": "He's a good friends with my husband, George. And we have hosted him here in Nashville before.",
       "mentions_person_refs": [
-        "N-749",
+        "N-747",
         "N-30",
         "N-3"
       ]

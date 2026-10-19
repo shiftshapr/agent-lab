@@ -33,11 +33,11 @@
           ],
           "related_nodes": [
             "N-22",
-            "N-646",
-            "N-379",
+            "N-644",
+            "N-378",
             "N-69",
             "N-104",
-            "N-266",
+            "N-265",
             "N-5"
           ],
           "tags": [],
@@ -63,7 +63,7 @@
             "C-4486"
           ],
           "related_nodes": [
-            "N-379",
+            "N-378",
             "N-22",
             "N-5"
           ],
@@ -83,8 +83,8 @@
             "C-4488"
           ],
           "related_nodes": [
-            "N-676",
-            "N-379",
+            "N-674",
+            "N-378",
             "N-104",
             "N-10006",
             "N-10014"
@@ -105,7 +105,7 @@
             "C-4490"
           ],
           "related_nodes": [
-            "N-379",
+            "N-378",
             "N-22",
             "N-69",
             "N-5"
@@ -205,7 +205,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-668",
+            "N-666",
             "N-10264",
             "N-10970"
           ],
@@ -224,7 +224,7 @@
             "C-4509"
           ],
           "related_nodes": [
-            "N-668",
+            "N-666",
             "N-10131"
           ],
           "tags": [],
@@ -282,7 +282,7 @@
             "C-4529"
           ],
           "related_nodes": [
-            "N-434",
+            "N-433",
             "N-10671",
             "N-10384"
           ],
@@ -312,7 +312,7 @@
             "C-4534"
           ],
           "related_nodes": [
-            "N-434",
+            "N-433",
             "N-10700",
             "N-10671",
             "N-10888"
@@ -868,8 +868,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "The host says he joined the Kirks' Maine vacation and that Katherine Locastro was once his assistant.",
@@ -886,8 +886,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-218",
-      "ref": "N-218",
+      "@id": "N-217",
+      "ref": "N-217",
       "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Transcript \"Eliza and Elizabeth McCoy\". Said to have joined the Kirks' Maine vacation for the first time.",
@@ -903,8 +903,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-266",
-      "ref": "N-266",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Christopher Wray",
       "type": "person",
       "description": "Transcript spelling \"Chris Ray\". Named by Carlson as heading the previous FBI administration.",
@@ -922,8 +922,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Brian Harpole",
       "type": "person",
       "description": "The host says she reached out to him for evidence and received a lawsuit instead.",
@@ -939,8 +939,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Transcript spelling \"Bari Weiss\". The host says Erika Kirk appeared on stage with her saying those who do not support Israel have \"brain rot.\"",
@@ -957,8 +957,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-299",
-      "ref": "N-299",
+      "@id": "N-298",
+      "ref": "N-298",
       "name": "Miriam Adelson",
       "type": "person",
       "description": "Transcript spelling \"Miriam Adelson\". Cited in the host's Israel theme for Trump.",
@@ -974,8 +974,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-362",
-      "ref": "N-362",
+      "@id": "N-361",
+      "ref": "N-361",
       "name": "Mitch Snow",
       "type": "person",
       "description": "The host says he stumbled on a meeting at Fort Huachuca and is convinced he saw Erika Kirk leaving a hotel there on September 8.",
@@ -992,8 +992,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-379",
-      "ref": "N-379",
+      "@id": "N-378",
+      "ref": "N-378",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Transcript spelling \"Dan Bonino\". According to Carlson, he said Trump shut down the Butler investigation; his response video and texts are played.",
@@ -1021,8 +1021,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-419",
-      "ref": "N-419",
+      "@id": "N-418",
+      "ref": "N-418",
       "name": "Derek Niekerk",
       "type": "person",
       "description": "Transcript spelling \"Derek Nerk\". Named as a bodyguard on Erika Kirk's July 14 Long Beach flight.",
@@ -1038,8 +1038,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-434",
-      "ref": "N-434",
+      "@id": "N-433",
+      "ref": "N-433",
       "name": "Bradley Hansell",
       "type": "person",
       "description": "Transcript spelling \"Bradley Hansell\". His September 2025 SAM702 trip around Fort Huachuca is the subject of the host's FOIA request.",
@@ -1064,8 +1064,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-646",
-      "ref": "N-646",
+      "@id": "N-644",
+      "ref": "N-644",
       "name": "Mario Nawfal",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 114. Interviewed Tucker Carlson in the viral clip about Butler. Aliases: Mario Nofl; Mario Knoff.",
@@ -1083,8 +1083,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-676",
-      "ref": "N-676",
+      "@id": "N-674",
+      "ref": "N-674",
       "name": "Brooke Singman",
       "type": "person",
       "description": "First named at 00:07:15 in episode 114, by Dan Bongino in his response clip. Fox reporter whose November 21 article on the FBI's Crooks conclusion Bongino cites. Aliases: Brook Singman.",
@@ -1102,8 +1102,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-600",
-      "ref": "N-600",
+      "@id": "N-598",
+      "ref": "N-598",
       "name": "Katherine Locastro",
       "type": "person",
       "description": "First named by the host at 00:19:42 in episode 114. Young TPUSA employee, once Mikey McCoy's assistant, on Erika Kirk's July 14 Long Beach flight. Aliases: Katherine Loccastro.",
@@ -1119,8 +1119,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-677",
-      "ref": "N-677",
+      "@id": "N-675",
+      "ref": "N-675",
       "name": "Jonathan Barcelo",
       "type": "person",
       "description": "First named by the host at 00:19:42 in episode 114. Described as a Marine on Erika Kirk's July 14 Long Beach flight. Aliases: Jonathan Barcelo.",
@@ -1136,8 +1136,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-668",
-      "ref": "N-668",
+      "@id": "N-666",
+      "ref": "N-666",
       "name": "James Kaddis",
       "type": "person",
       "description": "First named by the host at 00:19:42 in episode 114. Egyptian pastor the host says runs Turning Point USA Faith and introduced Erika Kirk at his Calvary Chapel church. Aliases: James Kaddis.",
@@ -1772,9 +1772,9 @@
       "transcript_snippet": "I know that Trump shut down the investigation into Butler. That is a fact. Dan Bongino told me that when he worked at the FBI",
       "mentions_person_refs": [
         "N-22",
-        "N-379",
+        "N-378",
         "N-5",
-        "N-646"
+        "N-644"
       ]
     },
     {
@@ -1797,7 +1797,7 @@
       "mentions_person_refs": [
         "N-22",
         "N-104",
-        "N-266"
+        "N-265"
       ]
     },
     {
@@ -1817,7 +1817,7 @@
       "investigative_direction": "Obtain the December call and text records between Carlson and Bongino.",
       "transcript_snippet": "he said, \"Look, take it up with Trump. He's the one who shut down the investigation.\" And that was, I think, the first or second week of December.",
       "mentions_person_refs": [
-        "N-379",
+        "N-378",
         "N-22",
         "N-5"
       ]
@@ -1837,7 +1837,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-22",
-        "N-379",
+        "N-378",
         "N-69",
         "N-104"
       ]
@@ -1859,7 +1859,7 @@
       "investigative_direction": "Obtain FBI case-status records and any White House communications on the Butler investigation.",
       "transcript_snippet": "He says that the president shut down the Butler investigation. Totally, completely 100% made up.",
       "mentions_person_refs": [
-        "N-379",
+        "N-378",
         "N-22",
         "N-5"
       ]
@@ -1882,8 +1882,8 @@
       "investigative_direction": "Retrieve the Fox News article of November 21 and the FBI statement it relies on.",
       "transcript_snippet": "Here it was, November 21st, even before Tucker says he spoke to me in December. exclusive FBI concludes Trump shooter crooks acted alone after unprecedented global investigation.",
       "mentions_person_refs": [
-        "N-379",
-        "N-676",
+        "N-378",
+        "N-674",
         "N-104",
         "N-22"
       ]
@@ -1905,7 +1905,7 @@
       "investigative_direction": "Request the FBI's case status for the Butler shooting investigation and the definition of \"pending inactive\" in FBI case management.",
       "transcript_snippet": "The case that's the crooks case he says was shut down currently sits in a pending inactive status.",
       "mentions_person_refs": [
-        "N-379",
+        "N-378",
         "N-104",
         "N-22"
       ]
@@ -1927,7 +1927,7 @@
       "investigative_direction": "Obtain the complete text thread between Carlson and Bongino.",
       "transcript_snippet": "The president's a victim in a federal crime. And when he's ready for us to release more information about this crime, then I'll tell us. I suggest you give him a ring and tell him you want more.",
       "mentions_person_refs": [
-        "N-379",
+        "N-378",
         "N-22",
         "N-5"
       ]
@@ -1949,7 +1949,7 @@
       "investigative_direction": "Identify withheld Butler investigation records through FOIA and congressional task force materials.",
       "transcript_snippet": "then there's more information that the president is aware has not been released to the public.",
       "mentions_person_refs": [
-        "N-379",
+        "N-378",
         "N-5"
       ]
     },
@@ -2025,7 +2025,7 @@
       "investigative_direction": "Retrieve the New York Times article and its sourcing description.",
       "transcript_snippet": "this is inside the White House freakout over the Epstein files.",
       "mentions_person_refs": [
-        "N-379",
+        "N-378",
         "N-5"
       ]
     },
@@ -2046,7 +2046,7 @@
       "mentions_person_refs": [
         "N-9",
         "N-5",
-        "N-299"
+        "N-298"
       ]
     },
     {
@@ -2255,11 +2255,11 @@
       "transcript_snippet": "This July 14th date, Erika travels aboard a private flight to Long Beach, California. She's got Katherine Loccastro.",
       "mentions_person_refs": [
         "N-2",
-        "N-600",
-        "N-191",
-        "N-419",
-        "N-677",
-        "N-668"
+        "N-598",
+        "N-190",
+        "N-418",
+        "N-675",
+        "N-666"
       ]
     },
     {
@@ -2279,7 +2279,7 @@
       "investigative_direction": "Check TPUSA Faith leadership listings and Calvary Chapel staff records.",
       "transcript_snippet": "James Kaddis is that icky guy who is Egyptian and runs Turning Point USA faith.",
       "mentions_person_refs": [
-        "N-668"
+        "N-666"
       ]
     },
     {
@@ -2317,7 +2317,7 @@
       "transcript_snippet": "the record of Israel is that there is constant invasion and warfare in the promised land.",
       "mentions_person_refs": [
         "N-2",
-        "N-668"
+        "N-666"
       ]
     },
     {
@@ -2337,7 +2337,7 @@
       "investigative_direction": "Locate the PragerU video and confirm the speaker's identity.",
       "transcript_snippet": "This is literally his Prageru video. I'm an Egyptian pastor who supports Israel.",
       "mentions_person_refs": [
-        "N-668"
+        "N-666"
       ]
     },
     {
@@ -2382,8 +2382,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-191",
-        "N-218"
+        "N-190",
+        "N-217"
       ]
     },
     {
@@ -2504,7 +2504,7 @@
       "transcript_snippet": "as soon as Charlie passes away, she's up on stage with Bari Weiss saying anybody who doesn't support Israel has brain rot.",
       "mentions_person_refs": [
         "N-2",
-        "N-279"
+        "N-278"
       ]
     },
     {
@@ -2648,7 +2648,7 @@
       "transcript_snippet": "We're going into a deeper partnership with International Fellowship of Christian and Jews.",
       "mentions_person_refs": [
         "N-2",
-        "N-279",
+        "N-278",
         "N-97"
       ]
     },
@@ -2668,7 +2668,7 @@
         "C-2909"
       ],
       "mentions_person_refs": [
-        "N-434",
+        "N-433",
         "N-5"
       ]
     },
@@ -2689,8 +2689,8 @@
       "investigative_direction": "Obtain Harpole's travel and location records for September 8–9, 2025 through the lawsuit's discovery.",
       "transcript_snippet": "We have not seen any evidence to the contrary despite openly and kindly reaching out to Brian Harpole asking for that information. What we got was a lawsuit.",
       "mentions_person_refs": [
-        "N-267",
-        "N-362",
+        "N-266",
+        "N-361",
         "N-3"
       ]
     },
@@ -2712,7 +2712,7 @@
       "investigative_direction": "Obtain the SAM702 manifest for the Tucson-to-Fort Huachuca leg.",
       "transcript_snippet": "And then he flew from Tucson to Fort Huachuca on a most crucial date um September 8th.",
       "mentions_person_refs": [
-        "N-434"
+        "N-433"
       ]
     },
     {
@@ -2732,7 +2732,7 @@
       "investigative_direction": "Pull ADS-B data for SAM702 on September 9, 2025.",
       "transcript_snippet": "That same plane then flies from Fort Huachuca to El Paso and arrives at 1:20 p. m. local. Remains on the ground for 4 hours and 10 minutes",
       "mentions_person_refs": [
-        "N-434"
+        "N-433"
       ]
     },
     {
@@ -2752,7 +2752,7 @@
       "investigative_direction": "Obtain Fort Huachuca visitor and lodging records for Hansell on September 8–9, 2025.",
       "transcript_snippet": "Bradley Hansell remained on the ground the longest there for 19 hours. That's the longest stop in his trip.",
       "mentions_person_refs": [
-        "N-434"
+        "N-433"
       ]
     },
     {
@@ -2771,9 +2771,9 @@
       "investigative_direction": "Obtain Fort Huachuca lodging registers for September 7–9, 2025.",
       "transcript_snippet": "September 8th is significant because it's the day that Mitch Snow is convinced that he saw Erika Kirk at Fort Huachuca leaving a hotel.",
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-2",
-        "N-434"
+        "N-433"
       ]
     },
     {
@@ -2794,7 +2794,7 @@
       "investigative_direction": "Track the FOIA request number and status.",
       "transcript_snippet": "So, he decided to file an FOIA request for his travel logs.",
       "mentions_person_refs": [
-        "N-434",
+        "N-433",
         "N-3"
       ]
     },
@@ -2833,7 +2833,7 @@
       "investigative_direction": "Obtain the SAM702 mission request and booking office from the Air Force's 89th Airlift Wing.",
       "transcript_snippet": "He works for the Department of War and it was the flight was booked from his office. I've confirmed that.",
       "mentions_person_refs": [
-        "N-434"
+        "N-433"
       ]
     },
     {

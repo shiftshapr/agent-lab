@@ -16,7 +16,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11371
-  - Hole-minted Nodes (reintro-ep010): N-171, N-10324, N-10434, N-10537
+  - Hole-minted Nodes (reintro-ep010): N-170, N-10324, N-10434, N-10537
   - Tip-minted Nodes (reintro-ep010): N-11097
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-13731–C-13821
@@ -750,7 +750,7 @@ Roommate of Tyler Robinson; the host says there has been no update on the raid o
 
 ---
 
-**N-171** Tate Brothers (Andrew and Tristan)
+**N-170** Tate Brothers (Andrew and Tristan)
 
 Andrew Tate is named by the host among claimed funders; no claim is made about his actual conduct.
 
@@ -2412,7 +2412,7 @@ Claim: The host says she has read claims that she is funded by Russia, Qatar and
 Transcript Snippet: I'm funded by Andrew Tate because Andrew Tate is also from the UK and my husband knew him before he met me,
 
 Anchored Artifacts: 
-Mentions: N-3, N-171
+Mentions: N-3, N-170
 Tags: relevance:tangential
 Investigative Direction: None; the host reports claims made about her.
 

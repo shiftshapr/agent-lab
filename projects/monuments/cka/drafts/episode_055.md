@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: a5bff101f5406cc545238101be4cd19cc555a0c068fccc2dca23c05ae7f6ae04
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-936, N-11383, N-11384, N-11385, N-11386
+  - Tip-minted Nodes (supplement_2026-10g): N-933, N-11383, N-11384, N-11385, N-11386
   - Hole-minted Nodes (reintro-ep055): N-10883
-  - Tip-minted Nodes (reintro-ep055): N-614
+  - Tip-minted Nodes (reintro-ep055): N-612
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14089–C-14172
-  - New Nodes Introduced: N-439, N-441, N-442, N-443, N-444, N-445, N-10402, N-10403, N-10404, N-10405, N-10407, N-10408
-  - Reused Nodes Appearing: N-10406, N-438, N-440, N-9, N-36, N-38, N-202, N-362, N-399, N-596, N-10000, N-10015, N-10025, N-10026, N-10063, N-10082, N-10209, N-10324, N-10376, N-10378, N-10398, N-10399, N-11104, N-11153, N-11163, N-11164, N-11169, N-11323
+  - New Nodes Introduced: N-438, N-440, N-441, N-442, N-443, N-444, N-10402, N-10403, N-10404, N-10405, N-10407, N-10408
+  - Reused Nodes Appearing: N-10406, N-437, N-439, N-9, N-36, N-38, N-201, N-361, N-398, N-594, N-10000, N-10015, N-10025, N-10026, N-10063, N-10082, N-10209, N-10324, N-10376, N-10378, N-10398, N-10399, N-11104, N-11153, N-11163, N-11164, N-11169, N-11323
   - (see registers)
 
 # Episode 55 – Analysis Record
@@ -40,7 +40,7 @@
 
 - **Artifact Families Introduced:** A-1607, A-1608, A-1609, A-1610, A-1611, A-1612, A-1613, A-1614, A-1615, A-1616
 - **Claim Range:** C-2047–C-2072
-- **New Nodes Introduced (people):**, N-438, N-439, N-440, N-441, N-442, N-443, N-444, N-445
+- **New Nodes Introduced (people):**, N-437, N-438, N-439, N-440, N-441, N-442, N-443, N-444
 - **New Nodes Introduced (investigation targets):** N-10402, N-10403, N-10404, N-10405, N-10406, N-10407, N-10408
 - **Existing Nodes Reused:** Charlie Kirk, Candace Owens, Erika Kirk, Tucker Carlson, Megyn Kelly, Ben Shapiro, Dennis Prager, Netanyahu, Mark Burnett, Jordan Peterson, Nick Fuentes, Seth Dillon, Jerry Falwell Jr. (referenced by name without new ID)
 
@@ -80,7 +80,7 @@ Video Timestamp: 00:23:45–00:24:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2049, C-2050, N-438, N-440, N-10402*
+*Related: C-2049, C-2050, N-437, N-439, N-10402*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:12:48–00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2051, N-445*
+*Related: C-2051, N-444*
 
 ---
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:21:30–00:22:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2052, C-2053, N-438, N-10402*
+*Related: C-2052, C-2053, N-437, N-10402*
 
 **A-1610.2** Johnnie Moore audio clip: "I know the state of Israel is strong… we are committed to building a great wall of Christian Zionism all over the world to push back the forces of anti-semitism"
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:22:43–00:23:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2054, N-438, N-10402*
+*Related: C-2054, N-437, N-10402*
 
 ---
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:34:41–00:35:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (named speakers, identifiable speech content)
 
-*Related: C-2057, N-442, N-10407*
+*Related: C-2057, N-441, N-10407*
 
 ---
 
@@ -244,7 +244,7 @@ Video Timestamp: 00:25:34–00:26:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2055, C-2056, N-439, N-400, N-10402*
+*Related: C-2055, C-2056, N-438, N-399, N-10402*
 
 ---
 
@@ -285,7 +285,7 @@ Video Timestamp: 00:15:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14114, C-14115, C-14116, C-14118, C-14119, C-14120, C-14143, N-11384, N-1, N-11104, N-11163, N-3, N-399, N-438, N-440, N-443*
+*Related: C-14114, C-14115, C-14116, C-14118, C-14119, C-14120, C-14143, N-11384, N-1, N-11104, N-11163, N-3, N-398, N-437, N-439, N-442*
 
 ---
 
@@ -298,7 +298,7 @@ Video Timestamp: 00:23:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14134, C-14135, N-11104, N-438*
+*Related: C-14134, C-14135, N-11104, N-437*
 
 ---
 
@@ -311,7 +311,7 @@ Video Timestamp: 00:25:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14139, N-10402, N-11164, N-14, N-400, N-438, N-439*
+*Related: C-14139, N-10402, N-11164, N-14, N-399, N-437, N-438*
 
 ---
 
@@ -344,7 +344,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-438** Johnnie Moore
+**N-437** Johnnie Moore
 
 Former Liberty University lead pastor (left 2014); founder of Kairos Company; claimed in this episode to be a disciple of Ron Godwin. Self-identifies in audio as involved with ADL and Aspen Institute.
 
@@ -353,11 +353,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1608.1, A-1610.1, A-1610.2, C-2049, C-2050, C-2052, C-2053, C-2054, N-439, N-400, N-10402*
+*Related: A-1608.1, A-1610.1, A-1610.2, C-2049, C-2050, C-2052, C-2053, C-2054, N-438, N-399, N-10402*
 
 ---
 
-**N-439** Ron Godwin
+**N-438** Ron Godwin
 
 Identified in this episode as Johnnie Moore's mentor and as a declared disciple of Sun Myung Moon; retired from Liberty University in October 2014.
 
@@ -366,11 +366,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1614.1, C-2055, N-438, N-400, N-10402*
+*Related: A-1614.1, C-2055, N-437, N-399, N-10402*
 
 ---
 
-**N-400** Sun Myung Moon
+**N-399** Sun Myung Moon
 
 Founder of the Unification Church (transcript spells inconsistently as "Sun Myung Moon" / "Sun Myung Moon" / "Sun Myung Moon"); source of the three disciples quotation.
 
@@ -379,11 +379,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1614.1, C-2055, C-2056, N-439, N-10402*
+*Related: A-1614.1, C-2055, C-2056, N-438, N-10402*
 
 ---
 
-**N-440** Jerry Falwell Jr.
+**N-439** Jerry Falwell Jr.
 
 Identified in this episode as ousted from Liberty University; co-established the Falwell Center with Charlie Kirk in 2021; replaced by Jerry Prevo.
 
@@ -392,11 +392,11 @@ Claim Count: 0 (artifacts about him are indirectly tied to Liberty University op
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1608.1, N-443, N-10402*
+*Related: A-1608.1, N-442, N-10402*
 
 ---
 
-**N-441** Mark Burnett
+**N-440** Mark Burnett
 
 Reality TV producer named in this episode as Johnnie Moore's employer in Hollywood (post-2015) and chairperson of MGM (acquired Summerhouse).
 
@@ -405,11 +405,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-2071, C-2072, N-438, Erika Kirk*
+*Related: C-2071, C-2072, N-437, Erika Kirk*
 
 ---
 
-**N-442** Unnamed Likud Knesset Speaker
+**N-441** Unnamed Likud Knesset Speaker
 
 Knesset member who delivered the speech declaring Tucker Carlson and Candace Owens enemies of Israel; name not stated in episode.
 
@@ -422,7 +422,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-443** Jerry Prevo
+**N-442** Jerry Prevo
 
 Identified in this episode as named successor to Jerry Falwell Jr. at Liberty University; first act allegedly was firing Charlie Kirk and reinstating Johnnie Moore on a monthly retainer.
 
@@ -431,11 +431,11 @@ Claim Count: 0 (host-stated, no artifact)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-440, N-438*
+*Related: N-439, N-437*
 
 ---
 
-**N-444** Tetsuya Yamagami
+**N-443** Tetsuya Yamagami
 
 Identified in this episode as the 41-year-old assassin of Shinzō Abe; stated to have been driven to destitution by the Unification Church's influence on his mother.
 
@@ -444,11 +444,11 @@ Claim Count: 0 (host narrative, NYT artifact references the broader pattern)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-445, N-400*
+*Related: N-444, N-399*
 
 ---
 
-**N-445** Shinzō Abe
+**N-444** Shinzō Abe
 
 Longtime Prime Minister of Japan; assassinated; family identified as having long-running ties to the Unification Church.
 
@@ -457,7 +457,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1609.1, N-444*
+*Related: A-1609.1, N-443*
 
 ---
 
@@ -470,7 +470,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1608.1, A-1610.1, A-1610.2, A-1614.1, C-2049, C-2050, C-2055, C-2056, N-14, N-438, N-439, N-400*
+*Related: A-1608.1, A-1610.1, A-1610.2, A-1614.1, C-2049, C-2050, C-2055, C-2056, N-14, N-437, N-438, N-399*
 
 ---
 
@@ -535,7 +535,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1611.1, C-2057, N-442, N-10408*
+*Related: A-1611.1, C-2057, N-441, N-10408*
 
 ---
 
@@ -624,7 +624,7 @@ Ben Shapiro; named in Kelly's clip about their last exchange.
 
 ---
 
-**N-202** Nick Fuentes
+**N-201** Nick Fuentes
 
 Nick Fuentes; subject of the pressure campaign the host recalls.
 
@@ -632,7 +632,7 @@ Nick Fuentes; subject of the pressure campaign the host recalls.
 
 ---
 
-**N-362** Mitch Snow
+**N-361** Mitch Snow
 
 Mitch Snow; the host's list includes an operation to debunk 'Mitch' at Fort Huachuca (match inferred, see doubts).
 
@@ -640,7 +640,7 @@ Mitch Snow; the host's list includes an operation to debunk 'Mitch' at Fort Huac
 
 ---
 
-**N-399** Jerry Falwell Sr.
+**N-398** Jerry Falwell Sr.
 
 Jerry Falwell Sr.; Liberty's founder, linked by the host to Moon and to Ron Godwin.
 
@@ -648,7 +648,7 @@ Jerry Falwell Sr.; Liberty's founder, linked by the host to Moon and to Ron Godw
 
 ---
 
-**N-596** Jordan Peterson
+**N-594** Jordan Peterson
 
 Jordan Peterson; the host says he co-created the report on Christ Is King with Johnnie Moore and was cited by Kolvet.
 
@@ -656,7 +656,7 @@ Jordan Peterson; the host says he co-created the report on Christ Is King with J
 
 ---
 
-**N-614** Dennis Prager
+**N-612** Dennis Prager
 
 Dennis Prager; the host says Kolvet told her he fell and was seriously injured after writing about her.
 
@@ -816,7 +816,7 @@ Existing organization reused for new claims in this episode.
 
 ---
 
-**N-936** Javier Milei
+**N-933** Javier Milei
 
 First named by the host at 00:49:54 in episode 55 (transcribed as 'Mle'). Argentine president whom the host says she distrusted and about whom she repeats a surname rumor.
 
@@ -899,7 +899,7 @@ Claim Timestamp: 00:23:45–00:24:10
 Claim: The host reads from Christianity Today that "Johnnie Moore was only 14 when he first stayed in the dorms at Liberty University" and that he had remained at the school founded by Jerry Falwell Senior.
 
 Anchored Artifacts: A-1608.1
-Mentions: N-438, N-399
+Mentions: N-437, N-398
 
 Related Nodes: N-10402
 
@@ -914,7 +914,7 @@ Claim Timestamp: 00:23:45–00:24:10
 Claim: Christianity Today reported that Moore and his single-mother family briefly lived in Liberty University dorms after his parents' divorce and a temporary stretch of homelessness.
 
 Anchored Artifacts: A-1608.1
-Mentions: N-438
+Mentions: N-437
 
 Related Nodes: N-10402
 
@@ -943,7 +943,7 @@ Claim Timestamp: 00:21:30–00:22:43
 Claim: In audio played on the episode, Johnnie Moore stated he is "a part of the ADL and Aspen Institute civil society… in fellowship."
 
 Anchored Artifacts: A-1610.1
-Mentions: N-438
+Mentions: N-437
 
 Related Nodes: N-10402
 
@@ -958,7 +958,7 @@ Claim Timestamp: 00:21:30–00:22:43
 Claim: Johnnie Moore stated in the audio clip that he is on the advisory board for the Aspen Institute and ADL civil society fellowship.
 
 Anchored Artifacts: A-1610.1
-Mentions: N-438
+Mentions: N-437
 
 Related Nodes: N-10402
 
@@ -973,7 +973,7 @@ Claim Timestamp: 00:22:43–00:23:15
 Claim: Johnnie Moore stated in audio that he is committed to "building a great wall of Christian Zionism all over the world to push back the forces of anti-semitism."
 
 Anchored Artifacts: A-1610.2
-Mentions: N-438
+Mentions: N-437
 
 Related Nodes: N-10402
 
@@ -988,7 +988,7 @@ Claim Timestamp: 00:25:34–00:26:20
 Claim: The host presented a Sun Myung Moon quotation declaring Ron Godwin to be one of three disciples, charged with multiplying their own disciples.
 
 Anchored Artifacts: A-1614.1
-Mentions: N-400, N-439
+Mentions: N-399, N-438
 
 Related Nodes: N-10402
 
@@ -1003,7 +1003,7 @@ Claim Timestamp: 00:25:34–00:26:20
 Claim: The host presented a Sun Myung Moon quotation stating: "Each one of you will put yourself in Jesus's position and multiply three disciples of your own."
 
 Anchored Artifacts: A-1614.1
-Mentions: N-400, N-439
+Mentions: N-399, N-438
 
 Related Nodes: N-10402
 
@@ -1018,7 +1018,7 @@ Claim Timestamp: 00:34:41–00:35:36
 Claim: An unidentified Likud party member, speaking in the Knesset, declared Tucker Carlson and Candace Owens "a new enemy rising from within" the West and accused them of "intellectual vandalism."
 
 Anchored Artifacts: A-1611.1
-Mentions: N-442, N-22, N-3
+Mentions: N-441, N-22, N-3
 
 Related Nodes: N-10407
 
@@ -1206,7 +1206,7 @@ Claim Timestamp: 00:19:23–00:20:09
 Claim: The host stated that Johnnie Moore went to Hollywood in 2015 to work with Mark Burnett.
 
 Anchored Artifacts: (none – host statement)
-Mentions: N-438, N-441
+Mentions: N-437, N-440
 
 
 Investigative Direction: Verify employment relationship through public records or business registries. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*
@@ -1220,7 +1220,7 @@ Claim Timestamp: 00:20:09
 Claim: The host stated that when Mark Burnett took over MGM as chairperson, the company acquired Summerhouse.
 
 Anchored Artifacts: (none – host statement)
-Mentions: N-441
+Mentions: N-440
 
 
 Investigative Direction: Verify MGM chairmanship and Summerhouse acquisition through public corporate records. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*
@@ -1265,7 +1265,7 @@ Claim: The host says she now believes the scandal around the Falkirk Center coul
 Transcript Snippet: Obviously scandal scandal which I now believe could have led to the fall of both men.
 
 Anchored Artifacts: 
-Mentions: N-440, N-1, N-3
+Mentions: N-439, N-1, N-3
 Related Nodes: N-11163, N-10402
 Tags: relevance:core
 Investigative Direction: Obtain Falkirk Center founding and wind-down records, Liberty University board minutes and dated reporting on Falwell Jr.'s exit to test whether the center's end is linked to Kirk's later fortunes.
@@ -1281,7 +1281,7 @@ Claim: The host lists a sequence of what she calls PR operations since the assas
 Transcript Snippet: There was a operation he wasn't Catholic. Furious, followed by Operation Candace hasn't spoken to Charlie in years, followed by Operation Lol Egyptian Plains, followed by Operation Debunk Mitch in Fort Huachuca with Baby Mama Drama.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-362
+Mentions: N-3, N-1, N-361
 Related Nodes: N-11383
 Tags: relevance:core
 Investigative Direction: Compare the dated public statements and posts behind each named narrative with the host's timeline of when each appeared and who first amplified it.
@@ -1489,7 +1489,7 @@ Claim: The host says Kolvet told her that Dennis Prager, who had just written an
 Transcript Snippet: Dennis Prager, who had just written this open article about me and it was not done in a very nice way, had actually fallen and it was very he was very seriously injured.
 
 Anchored Artifacts: 
-Mentions: N-14, N-614, N-3
+Mentions: N-14, N-612, N-3
 Tags: relevance:tangential
 Investigative Direction: Verify the date and nature of Prager's injury and the date of his article about the host from public reporting.
 
@@ -1504,7 +1504,7 @@ Claim: The host says Kolvet went on to cite 'the Daily Wire thing and the Jordan
 Transcript Snippet: Oh, the Daily Wire thing and the Jordan Peterson thing and like bad things are happening to people after they attack you.
 
 Anchored Artifacts: 
-Mentions: N-14, N-596, N-3
+Mentions: N-14, N-594, N-3
 Tags: relevance:tangential
 Investigative Direction: Ask Kolvet to confirm the conversation; check which Daily Wire and Peterson events he meant.
 
@@ -1519,7 +1519,7 @@ Claim: The host says the Korean man Sun Myung Moon was actually working for the 
 Transcript Snippet: this Korean man, Sun Myung Moon, who was actually working for the CIA, Assad, while leading effectively what became a religious cult.
 
 Anchored Artifacts: 
-Mentions: N-400
+Mentions: N-399
 Related Nodes: N-10082, N-10402
 Tags: relevance:context
 Investigative Direction: Check declassified CIA and Korean intelligence records, and congressional findings on the Unification Church, for any documented relationship with Moon.
@@ -1535,7 +1535,7 @@ Claim: The host says Moon's movement was buying up land, buildings, entire block
 Transcript Snippet: they were buying up land, buildings, entire blocks, all these different companies while convincing the masses that it was actually for the father.
 
 Anchored Artifacts: 
-Mentions: N-400
+Mentions: N-399
 Related Nodes: N-10399, N-10402
 Supports: C-8212
 Tags: relevance:context
@@ -1552,7 +1552,7 @@ Claim: The host says Moon became involved with Liberty University via Jerry Falw
 Transcript Snippet: And then he got involved with Liberty University via Jerry Falwell senior.
 
 Anchored Artifacts: 
-Mentions: N-400, N-399
+Mentions: N-399, N-398
 Related Nodes: N-11104, N-10402
 Supports: C-2030
 Tags: relevance:context
@@ -1602,7 +1602,7 @@ Claim: The host says the Moon movement's financial corruption was so extensive t
 Transcript Snippet: So much financial corruption that it actually led to a political assassination in Japan. Remember 2022?
 
 Anchored Artifacts: 
-Mentions: N-400, N-445
+Mentions: N-399, N-444
 Related Nodes: N-10399, N-10402
 Tags: relevance:context
 Investigative Direction: Check the 2022 Shinzo Abe assassination reporting and the shooter's stated motive regarding the Unification Church.
@@ -1618,7 +1618,7 @@ Claim: The host says Shinzo Abe was shot and killed by a 41-year-old man who bla
 Transcript Snippet: he was shot and he was killed because a 41-year-old man blamed the prime minister whose family did in fact have longunning ties to the Mooney church
 
 Anchored Artifacts: A-1609.1
-Mentions: N-445, N-444
+Mentions: N-444, N-443
 Related Nodes: N-10399, N-10402
 Tags: relevance:context
 Investigative Direction: Verify against Japanese court records and major outlets on the shooter's stated motive and the Abe family's documented ties to the church.
@@ -1634,7 +1634,7 @@ Claim: The host says the man who killed Abe was destitute because the church had
 Transcript Snippet: They had brainwashed his mother in her old age, brainwashed her into giving the church all of his family's money
 
 Anchored Artifacts: 
-Mentions: N-445, N-444
+Mentions: N-444, N-443
 Related Nodes: N-10399, N-10402
 Tags: relevance:context
 Investigative Direction: Check trial reporting on the shooter's family finances and the siblings' circumstances; the host notes this is not a justification.
@@ -1683,7 +1683,7 @@ Claim: The host says, with an 'allegedly', that her Liberty source told her Jerr
 Transcript Snippet: his wife was indeed having an affair with the pool boy and uh that affair was then used to generate a ton of articles and then used to force his ouster
 
 Anchored Artifacts: A-3299.1
-Mentions: N-440
+Mentions: N-439
 Related Nodes: N-11104, N-11384
 Supports: C-8140
 Tags: relevance:context
@@ -1700,7 +1700,7 @@ Claim: The host says her Liberty source claims it was corrupt evangelical pastor
 Transcript Snippet: it was corrupt pastors, evangelical pastors that wanted him out and wanted to put an end to the Falkirk Center.
 
 Anchored Artifacts: A-3299.1
-Mentions: N-440
+Mentions: N-439
 Related Nodes: N-11163, N-11384
 Tags: relevance:context
 Investigative Direction: Ask the source to name the pastors and show communications; compare with Liberty board minutes and reporting on the center's closure.
@@ -1716,7 +1716,7 @@ Claim: The host says Charlie Kirk and Jerry Falwell Jr. came together and establ
 Transcript Snippet: Charlie Kirk and Jerry Falwell came together and established what was the precursor to Turning Point Faith.
 
 Anchored Artifacts: 
-Mentions: N-1, N-440
+Mentions: N-1, N-439
 Related Nodes: N-11163, N-10398, N-11104
 Supports: C-8139
 Tags: relevance:context
@@ -1733,7 +1733,7 @@ Claim: The host says Jerry Falwell Jr. had turned Liberty University into a very
 Transcript Snippet: Had turned it into a very profitable um uh school and he had separated it from the church wanting the finances not to be mingled with the church which was something that his father had not done.
 
 Anchored Artifacts: A-3299.1
-Mentions: N-440, N-399
+Mentions: N-439, N-398
 Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Check Liberty's Form 990s and the historical relationship between Thomas Road Baptist Church and the university.
@@ -1749,7 +1749,7 @@ Claim: The host says, again with an 'allegedly', that pastors who made a fortune
 Transcript Snippet: the pastors who made a fortune while Jerry Falwell senior was alive did not like that.
 
 Anchored Artifacts: A-3299.1
-Mentions: N-399, N-440
+Mentions: N-398, N-439
 Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Identify the pastors and examine historical payments from the school to church-linked entities.
@@ -1781,7 +1781,7 @@ Claim: The host says that when Charlie Kirk was meeting at Liberty University in
 Transcript Snippet: a certain Johnnie Moore inserted himself into the meeting, the planning sesh, so to speak. He just pulled up a chair.
 
 Anchored Artifacts: 
-Mentions: N-438, N-1
+Mentions: N-437, N-1
 Related Nodes: N-11163, N-10402
 Tags: relevance:context
 Investigative Direction: Find attendee lists, calendars or minutes for the Falkirk planning meeting, and public reporting dating the center's launch (the host says 2021).
@@ -1797,7 +1797,7 @@ Claim: The host says Johnnie Moore had quit his job as lead pastor of Liberty Un
 Transcript Snippet: he had quit his job as the lead pastor of Liberty University back in 2014.
 
 Anchored Artifacts: 
-Mentions: N-438
+Mentions: N-437
 Related Nodes: N-11104, N-10402
 Tags: relevance:context
 Investigative Direction: Check Moore's biography and Liberty staff records for his titles and departure date.
@@ -1813,7 +1813,7 @@ Claim: The host says that when Johnnie Moore left Liberty University in 2014 he 
 Transcript Snippet: when Johnny left Liberty University in 2014, he went to Hollywood to start the PR company, the Kairos Company.
 
 Anchored Artifacts: 
-Mentions: N-438
+Mentions: N-437
 Related Nodes: N-11164, N-10402
 Supports: C-8136
 Tags: relevance:context
@@ -1830,7 +1830,7 @@ Claim: The host says Andrew Kolvet was a part of the Kairos Company as executive
 Transcript Snippet: Andrew Kolvet was the executive vice president and he effectively was working for the Kairos Company
 
 Anchored Artifacts: 
-Mentions: N-14, N-438, N-1
+Mentions: N-14, N-437, N-1
 Related Nodes: N-11164, N-10000
 Supports: C-8136
 Tags: relevance:core
@@ -1847,7 +1847,7 @@ Claim: The host recalls that Erika Kirk appeared on a show called Summer House i
 Transcript Snippet: wasn't Erika on a show randomly?" Uh what's what's the show called Summerhouse in 2019?
 
 Anchored Artifacts: 
-Mentions: N-2, N-441
+Mentions: N-2, N-440
 Related Nodes: N-11385
 Supports: C-2072
 Tags: relevance:context
@@ -1864,7 +1864,7 @@ Claim: The host says Johnnie Moore, despite establishing the Kairos Company, imm
 Transcript Snippet: Johnnie Moore immediately and consistently despite establishing the Kairos Company wanted his job back at Liberty University
 
 Anchored Artifacts: 
-Mentions: N-438
+Mentions: N-437
 Related Nodes: N-11164, N-11104
 Tags: relevance:context
 Investigative Direction: Seek Liberty hiring correspondence or Moore's own statements on returning to the university.
@@ -1897,7 +1897,7 @@ Claim: The host says that a year after the ADL listing Jordan Peterson and Rever
 Transcript Snippet: Jordan Peterson, Dr. Jordan Peterson and a certain Reverend Johnnie Moore created a report and doubled down explaining that uh Christ is king is in fact actually anti-Semitic.
 
 Anchored Artifacts: 
-Mentions: N-596, N-438, N-3
+Mentions: N-594, N-437, N-3
 Related Nodes: N-11153
 Tags: relevance:context
 Investigative Direction: Locate the report and video graphic, their authors, date and publisher, and any ADL involvement.
@@ -1913,7 +1913,7 @@ Claim: The host says Johnnie Moore serves on the ADL task force and received the
 Transcript Snippet: He serves on the ADL task force. He received the Medal of Valor uh from the Simon Wiesenthal Center.
 
 Anchored Artifacts: 
-Mentions: N-438
+Mentions: N-437
 Related Nodes: N-11153, N-11323
 Supports: C-2053
 Tags: relevance:context
@@ -1963,7 +1963,7 @@ Claim: In the audio clip played, Johnnie Moore says he is not Jewish but Christi
 Transcript Snippet: I can tell you again, I'm not I'm not Jewish. I'm I'm Christian. Uh and yet I've just always felt felt at home, you know, in the ADL community.
 
 Anchored Artifacts: A-1610.1
-Mentions: N-438
+Mentions: N-437
 Related Nodes: N-11153
 Tags: relevance:context
 Investigative Direction: Identify the source and date of the clip and the event at which Moore spoke.
@@ -1979,7 +1979,7 @@ Claim: In the audio clip, Johnnie Moore says the commitment to build a great wal
 Transcript Snippet: But that also includes educating well-meaning Christians on our own history of Christian anti-semitism.
 
 Anchored Artifacts: A-1610.2
-Mentions: N-438
+Mentions: N-437
 Related Nodes: N-10209
 Supports: C-2054
 Tags: relevance:context
@@ -1996,7 +1996,7 @@ Claim: The host says someone who went to school with Johnnie Moore verified the 
 Transcript Snippet: Now, somebody that went to school with him verified exactly that. They said he was a kid who grew up outside of Lynchburg in high school.
 
 Anchored Artifacts: A-3300.1
-Mentions: N-438
+Mentions: N-437
 Related Nodes: N-11104
 Supports: C-2050
 Tags: relevance:tangential
@@ -2013,7 +2013,7 @@ Claim: The host relays, from someone she says went to school with Moore, that Mo
 Transcript Snippet: He got caught with some porn magazines and was pretty badly made fun of.
 
 Anchored Artifacts: A-3300.1
-Mentions: N-438
+Mentions: N-437
 Tags: relevance:tangential
 Investigative Direction: School-age personal anecdote from an unnamed classmate; no public record is likely to exist.
 
@@ -2028,7 +2028,7 @@ Claim: The host says, with 'allegedly', that Johnnie Moore had a male mentor who
 Transcript Snippet: He had a male mentor who bought him and everyone in his family allegedly brand new cars.
 
 Anchored Artifacts: 
-Mentions: N-438
+Mentions: N-437
 Tags: relevance:tangential
 Investigative Direction: Vehicle purchase records are unlikely to be public; the host should say who told her.
 
@@ -2043,7 +2043,7 @@ Claim: The host says Johnnie Moore's mentor, Ron Godwin, was the one who pushed 
 Transcript Snippet: And this daddy mentor of his is the one that pushed for Jerry Falwell senior to give Johnny a position with Liberty University. That man's name is Ron Godwin.
 
 Anchored Artifacts: 
-Mentions: N-438, N-439, N-399
+Mentions: N-437, N-438, N-398
 Related Nodes: N-11104, N-10402
 Tags: relevance:context
 Investigative Direction: Check Liberty staff history and Godwin's own accounts for Moore's hiring.
@@ -2059,7 +2059,7 @@ Claim: The host says Sun Myung Moon picked Ron Godwin to run the Washington Time
 Transcript Snippet: Sun Myung Moon who led this Mooney's cult picked Ron Godwin not only just to run the Washington Times for him
 
 Anchored Artifacts: 
-Mentions: N-400, N-439
+Mentions: N-399, N-438
 Related Nodes: N-11169, N-10402
 Supports: C-8211
 Tags: relevance:context
@@ -2076,7 +2076,7 @@ Claim: The host says that on her organization chart Johnnie Moore appears to be 
 Transcript Snippet: we can confirm that looks like one of Godwin's three disciples, so to speak, was Johnnie Moore
 
 Anchored Artifacts: A-3301.1
-Mentions: N-438, N-439, N-14
+Mentions: N-437, N-438, N-14
 Related Nodes: N-11164, N-10402
 Supports: C-2055
 Tags: relevance:context
@@ -2093,7 +2093,7 @@ Claim: The host says Ron Godwin retired from Liberty University in October 2014 
 Transcript Snippet: when Ron Godwin retired from Liberty University in October of 2014, uh of course his Johnny boy left too, right?
 
 Anchored Artifacts: 
-Mentions: N-439, N-438
+Mentions: N-438, N-437
 Related Nodes: N-11104, N-10402
 Tags: relevance:context
 Investigative Direction: Check Godwin's retirement date in Liberty announcements.
@@ -2109,7 +2109,7 @@ Claim: The host says that without Godwin to push his paperwork, Johnnie Moore wa
 Transcript Snippet: he wanted back in at Liberty University and he was told no repeatedly
 
 Anchored Artifacts: 
-Mentions: N-438, N-439
+Mentions: N-437, N-438
 Related Nodes: N-11104, N-10402
 Tags: relevance:context
 Investigative Direction: Needs internal Liberty hiring correspondence; the host's source is inside Liberty.
@@ -2125,7 +2125,7 @@ Claim: The host says that in 2021 Jerry Falwell Jr. was ousted from Liberty, Jer
 Transcript Snippet: Jerry Falwell gets ousted from Liberty University. Jerry Prevo is named as his successor. And the very first thing that Jerry Prevo does is he fires Charlie Kirk.
 
 Anchored Artifacts: 
-Mentions: N-440, N-443, N-1
+Mentions: N-439, N-442, N-1
 Related Nodes: N-11104, N-11163, N-11384
 Tags: relevance:context
 Investigative Direction: Check the dates: public reporting should be compared with the host's 2021 date for Falwell Jr.'s exit, Prevo's appointment and the end of the Kirk and Falkirk arrangement; obtain any termination notice.
@@ -2141,7 +2141,7 @@ Claim: The host says, with 'allegedly', that Prevo moved immediately to reinstat
 Transcript Snippet: he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore, paying him, I am told, an absurd amount monthly retainer.
 
 Anchored Artifacts: A-3299.1
-Mentions: N-443, N-438
+Mentions: N-442, N-437
 Related Nodes: N-11104, N-11384
 Tags: relevance:context
 Investigative Direction: Request Liberty contracts or disclosures showing a consulting arrangement with Moore or the Kairos Company.
@@ -2173,7 +2173,7 @@ Claim: The host says the intention behind the Moonies cult was one world governm
 Transcript Snippet: The intention behind the Mooney's cult, by the way, in case it's not clear to you, was one world government achieved through the concept of a unification church.
 
 Anchored Artifacts: 
-Mentions: N-400
+Mentions: N-399
 Related Nodes: N-10399, N-10402
 Tags: relevance:tangential
 Investigative Direction: Compare with Unification Church doctrine and Moon's public statements on world government.
@@ -2252,7 +2252,7 @@ Claim: In the clip played, the Likud speaker says Candace Owens says the roots o
 Transcript Snippet: Candace Owens says the roots of our faith are demonic.
 
 Anchored Artifacts: A-1611.1
-Mentions: N-442, N-3
+Mentions: N-441, N-3
 Related Nodes: N-10407
 Supports: C-2057
 Tags: relevance:context
@@ -2334,7 +2334,7 @@ Claim: The host says she remembers text messages from Seth Dillon trying to comp
 Transcript Snippet: I remember the text messages from Seth Dillon trying to compel me to say something about Nick Fuentes and the emotional manipulation of it all.
 
 Anchored Artifacts: 
-Mentions: N-38, N-202, N-3
+Mentions: N-38, N-201, N-3
 Related Nodes: N-10025
 Tags: relevance:context
 Investigative Direction: The host holds the texts; obtain them to confirm the sender, date and content.
@@ -2446,7 +2446,7 @@ Claim: The host says that after doing the Moonies episode she saw the pattern ru
 Transcript Snippet: Here's Johnny. The Moonies are back and it's by it's a different name. That's what's happening here.
 
 Anchored Artifacts: 
-Mentions: N-438, N-14
+Mentions: N-437, N-14
 Related Nodes: N-10402, N-10398
 Supports: C-14144
 Tags: relevance:context
@@ -2495,7 +2495,7 @@ Claim: The host says she was attacked for distrusting the Argentine president, t
 Transcript Snippet: Saw some stuff about like really his full last name is Mileikowsky and he looks a little like BB Nyahoo.
 
 Anchored Artifacts: 
-Mentions: N-936, N-36
+Mentions: N-933, N-36
 Tags: relevance:tangential
 Investigative Direction: Check the rumor that Javier Milei's surname is Mileikowsky (Netanyahu's family name); the host offers only a viral rumor and labels it a conspiracy.
 

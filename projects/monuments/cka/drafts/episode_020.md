@@ -12,13 +12,13 @@
 - **Transcript SHA-256**: 8e3767219910081da3667951aa2631008c1fef13d2bd87a539a898bb6428508e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-906, N-907, N-908, N-909, N-11323, N-11324, N-11325, N-11326
-  - Hole-minted Nodes (reintro-ep020): N-229, N-279, N-299, N-360, N-378, N-485, N-486, N-521, N-10210, N-10447, N-10589, N-10660, N-10661, N-10663, N-10687
+  - Tip-minted Nodes (supplement_2026-10f): N-903, N-904, N-905, N-906, N-11323, N-11324, N-11325, N-11326
+  - Hole-minted Nodes (reintro-ep020): N-228, N-278, N-298, N-359, N-377, N-484, N-485, N-520, N-10210, N-10447, N-10589, N-10660, N-10661, N-10663, N-10687
   - Tip-minted Nodes (reintro-ep020): N-11071, N-11117
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12146–C-12261
-  - New Nodes Introduced: N-190, N-192, N-193, N-196, N-197, N-198, N-199, N-10196, N-10197, N-10199
-  - Reused Nodes Appearing: none, N-194, N-5, N-22, N-30, N-33, N-36, N-69, N-117, N-130, N-156, N-171, N-182, N-183, N-710, N-10000, N-10004, N-10112, N-10118, N-10131, N-10139, N-10149, N-10183, N-10202, N-10270, N-10341, N-10389, N-10900, N-11103, N-11218, N-191, N-10198, N-11322
+  - New Nodes Introduced: N-189, N-191, N-192, N-195, N-196, N-197, N-198, N-10196, N-10197, N-10199
+  - Reused Nodes Appearing: none, N-193, N-5, N-22, N-30, N-33, N-36, N-69, N-117, N-130, N-155, N-170, N-181, N-182, N-708, N-10000, N-10004, N-10112, N-10118, N-10131, N-10139, N-10149, N-10183, N-10202, N-10270, N-10341, N-10389, N-10900, N-11103, N-11218, N-190, N-10198, N-11322
   - Hole-minted Nodes (remap-ep20): N-131
 
 The episode advances several investigative threads already active in the series (Mikey McCoy's actions on September 10, the trauma-hospital routing question, the "306 bullet wound" forensic question, and TPUSA personnel analysis) while introducing a new artifact family tied to the alleged UVU Hospital medical record. The text-message artifacts and audio clips are the structural core of the episode's evidentiary record., N-11, N-131
@@ -231,7 +231,7 @@ Confidence Level: Medium (originals deleted per host; not independently verified
 
 Contents (read on air): "A change in energy … which stuns high consciousness people does not mean bad. It simply means that it's cosmic. A paradigm is shifting." Also: "Several high consciousness people I've spoken to independently told me about feeling a shift in energy. Something is going on. It happened two to three weeks ago. I'm not talking politics or elections. It's much bigger energy shift."
 
-*Related: C-1494, C-1495, N-190*
+*Related: C-1494, C-1495, N-189*
 
 ---
 
@@ -263,7 +263,7 @@ Confidence Level: High
 
 Contents (played on air): Adams states Kanye "ripped a hole in reality with seven words" and "freed a lot of people from a mental prison."
 
-*Related: C-1497, N-188*
+*Related: C-1497, N-187*
 
 ---
 
@@ -295,7 +295,7 @@ Confidence Level: High
 
 Contents (played on air): Kolvet states Charlie had drilled into Mikey's brain that "If anything ever happens to me, you call Erika." Kolvet further states Mikey was taking social-video clips for the group chat at the time of the shot, not on the phone, and that he put his fingers in his ears due to the loud blast.
 
-*Related: C-1499, C-1500, N-14, N-191, N-1, N-2*
+*Related: C-1499, C-1500, N-14, N-190, N-1, N-2*
 
 ---
 
@@ -311,7 +311,7 @@ Confidence Level: High
 
 Contents (played on air): Marlo characterizes online suggestion that Mikey McCoy was part of a conspiracy to murder Charlie as "vile," compares the mindset of conspiracy theorists to drug addiction or pornography, and frames the activity as addictive.
 
-*Related: C-1501, N-192, N-191*
+*Related: C-1501, N-191, N-190*
 
 ---
 
@@ -327,7 +327,7 @@ Confidence Level: High
 
 Contents (played on air): Turk states "there's a difference between a possibility and evidence for a possibility," tells critics to "shut up" without evidence, and defends Mikey McCoy as a "24-year-old who at the time when Charlie was shot was 23 and was a hero that day."
 
-*Related: C-1502, N-7, N-191*
+*Related: C-1502, N-7, N-190*
 
 ---
 
@@ -391,7 +391,7 @@ Confidence Level: Medium
 
 Contents (read on air): Livingstone tweet captioned on air as a complaint after Candace issued a copyright strike against re-uploaded Book Club content watermarked "Milk Bar TV."
 
-*Related: C-1509, N-193*
+*Related: C-1509, N-192*
 
 ---
 
@@ -407,7 +407,7 @@ Confidence Level: Medium (chart described in transcript; full content not transc
 
 Contents (per host narration): Lists Frank Turek, Andrew Kolvet, Rob McCoy, Mikey McCoy, Tyler Bowyer and identifies military-family members including Captain Kurt Kolvet, Captain Robert Kolvet, Roy Edgar McCoy (naval captain, assistant chief of staff for psychological warfare).
 
-*Related: C-1505, C-1506, N-14, N-191, N-7, N-17, N-41, N-10198, N-11*
+*Related: C-1505, C-1506, N-14, N-190, N-7, N-17, N-41, N-10198, N-11*
 
 ---
 
@@ -420,7 +420,7 @@ Video Timestamp: 00:06:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12153, N-1, N-190, N-3*
+*Related: C-12153, N-1, N-189, N-3*
 
 ---
 
@@ -459,7 +459,7 @@ Video Timestamp: 00:15:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12172, N-190, N-27, N-3*
+*Related: C-12172, N-189, N-27, N-3*
 
 ---
 
@@ -526,7 +526,7 @@ Video Timestamp: 00:43:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12226, C-12227, C-12228, C-12229, N-1, N-14, N-191, N-3*
+*Related: C-12226, C-12227, C-12228, C-12229, N-1, N-14, N-190, N-3*
 
 ---
 
@@ -545,7 +545,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-190** Mike Cernovich
+**N-189** Mike Cernovich
 
 Commentator; author of an April 2018 tweet thread on cosmic "energy shift" referenced by the host as corroborating her and Charlie's premonitions.
 
@@ -558,7 +558,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-188** Scott Adams
+**N-187** Scott Adams
 
 Commentator; subject of audio clip characterizing Kanye's April 2018 tweet as having "ripped a hole in reality."
 
@@ -580,11 +580,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1275.1, A-1282.1, C-1499, C-1500, N-191, N-1, N-2*
+*Related: A-1275.1, A-1282.1, C-1499, C-1500, N-190, N-1, N-2*
 
 ---
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 Charlie Kirk's chief of staff (per on-air references); subject of behavioral questions on September 10, 2025 and the focus of TPUSA's on-air defense.
 
@@ -597,7 +597,7 @@ Investigative Pressure: High
 
 ---
 
-**N-192** Alex Marlow
+**N-191** Alex Marlow
 
 Breitbart News; subject of on-air clip dismissing conspiracy allegations against Mikey McCoy and characterizing online speculation as addictive.
 
@@ -649,7 +649,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-193** Nathan Livingstone
+**N-192** Nathan Livingstone
 
 Operator of "Milk Bar TV" account; subject of host's account of book-club content reuse and copyright strike.
 
@@ -662,7 +662,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-194** David Horowitz
+**N-193** David Horowitz
 
 Activist; referenced on air as initial conduit between Candace and Kanye post-April 2018 tweet.
 
@@ -675,7 +675,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-155** John Mappin
+**N-154** John Mappin
 
 UK-based donors (spelling uncertain per transcript); identified on air as facilitators of the December 2018 UK event where Candace first met her husband. Name uncertainty flagged.
 
@@ -688,7 +688,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-196** Lee Trotter
+**N-195** Lee Trotter
 
 Surgeon referenced on air as having worked on Charlie Kirk; host alleges Air Force residency at Keesler Air Force Medical Center and possible active Air Force service.
 
@@ -701,7 +701,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-177** Deirdre Amaro
+**N-176** Deirdre Amaro
 
 Medical examiner referenced on air; host alleges Army rank of major and Ericsson family lineage tied to Boyd Corporation.
 
@@ -714,7 +714,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-197** Roy Edgar McCoy
+**N-196** Roy Edgar McCoy
 
 Naval captain (deceased, per context); father of Rob McCoy; host alleges service as assistant chief of staff for psychological warfare in the Navy.
 
@@ -727,7 +727,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-198** Jacob Blank
+**N-197** Jacob Blank
 
 Signatory of the UVU Hospital internal message restricting access to the Charlie Kirk trauma file.
 
@@ -740,7 +740,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-199** George Webb
+**N-198** George Webb
 
 Investigative journalist; subject of on-air audio clip providing commentary on Rob McCoy's military background and NAR/Ziklag connections.
 
@@ -762,7 +762,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1278.1, C-1503, C-1504, N-198*
+*Related: A-1278.1, C-1503, C-1504, N-197*
 
 ---
 
@@ -775,7 +775,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1279.1, A-1282.1, C-1505, C-1506, N-14, N-191, N-7, N-17, N-41*
+*Related: A-1279.1, A-1282.1, C-1505, C-1506, N-14, N-190, N-7, N-17, N-41*
 
 ---
 
@@ -788,7 +788,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1275.1, A-1276.1, A-1277.1, C-1499, C-1500, C-1501, C-1502, N-191*
+*Related: A-1275.1, A-1276.1, A-1277.1, C-1499, C-1500, C-1501, C-1502, N-190*
 
 ---
 
@@ -911,7 +911,7 @@ Ian Carroll; named as one of those who surfaced the Mikey McCoy video.
 
 ---
 
-**N-156** Irina Mappin
+**N-155** Irina Mappin
 
 Irina Mappin; with John Mappin arranged the host's UK event.
 
@@ -919,7 +919,7 @@ Irina Mappin; with John Mappin arranged the host's UK event.
 
 ---
 
-**N-171** Tate Brothers (Andrew and Tristan)
+**N-170** Tate Brothers (Andrew and Tristan)
 
 Tate Brothers; the host mentions a lawyer for one of Andrew Tate's accusers.
 
@@ -927,7 +927,7 @@ Tate Brothers; the host mentions a lawyer for one of Andrew Tate's accusers.
 
 ---
 
-**N-182** Sam Parker
+**N-181** Sam Parker
 
 Sam Parker; named as one of those who surfaced the Mikey McCoy video.
 
@@ -935,7 +935,7 @@ Sam Parker; named as one of those who surfaced the Mikey McCoy video.
 
 ---
 
-**N-183** James Lee
+**N-182** James Lee
 
 James Lee; named as one of those who surfaced the Mikey McCoy video.
 
@@ -943,7 +943,7 @@ James Lee; named as one of those who surfaced the Mikey McCoy video.
 
 ---
 
-**N-229** Lila Rose
+**N-228** Lila Rose
 
 Lila Rose; the host links her to Marissa Streit's donors, the Christ is King jibe and a Tate-related guest.
 
@@ -951,7 +951,7 @@ Lila Rose; the host links her to Marissa Streit's donors, the Christ is King jib
 
 ---
 
-**N-279** Bari Weiss
+**N-278** Bari Weiss
 
 Bari Weiss; the host mentions a story about her grandfather.
 
@@ -959,7 +959,7 @@ Bari Weiss; the host mentions a story about her grandfather.
 
 ---
 
-**N-299** Miriam Adelson
+**N-298** Miriam Adelson
 
 Miriam Adelson; the host says she gave Trump $100 million tied to annexation.
 
@@ -967,7 +967,7 @@ Miriam Adelson; the host says she gave Trump $100 million tied to annexation.
 
 ---
 
-**N-360** Kim Kardashian
+**N-359** Kim Kardashian
 
 Kim Kardashian; the host says she wanted nothing to do with Kanye's politics.
 
@@ -975,7 +975,7 @@ Kim Kardashian; the host says she wanted nothing to do with Kanye's politics.
 
 ---
 
-**N-378** Emmanuel Macron
+**N-377** Emmanuel Macron
 
 Emmanuel Macron; subject of two tangential host claims.
 
@@ -983,7 +983,7 @@ Emmanuel Macron; subject of two tangential host claims.
 
 ---
 
-**N-485** Blake Lively
+**N-484** Blake Lively
 
 Blake Lively; the lawsuit in which the host says she was drafted.
 
@@ -991,7 +991,7 @@ Blake Lively; the lawsuit in which the host says she was drafted.
 
 ---
 
-**N-486** Justin Baldoni
+**N-485** Justin Baldoni
 
 Justin Baldoni; the other party in that lawsuit.
 
@@ -999,7 +999,7 @@ Justin Baldoni; the other party in that lawsuit.
 
 ---
 
-**N-521** Rothschild Family
+**N-520** Rothschild Family
 
 Rothschild family; named in the host's claim about Macron.
 
@@ -1007,7 +1007,7 @@ Rothschild family; named in the host's claim about Macron.
 
 ---
 
-**N-710** John F. Kennedy
+**N-708** John F. Kennedy
 
 John F. Kennedy; named in two historical assertions by the host.
 
@@ -1191,7 +1191,7 @@ Kanye Condemnation Pressure and Contract Cut; the October 2018 statement.
 
 ---
 
-**N-906** Eric Weinstein
+**N-903** Eric Weinstein
 
 Named by the host in episode 20 as someone who reached out after the 2018 Kanye tweet.
 
@@ -1199,7 +1199,7 @@ Named by the host in episode 20 as someone who reached out after the 2018 Kanye 
 
 ---
 
-**N-907** Rick Rubin
+**N-904** Rick Rubin
 
 Music producer named by the host in episode 20 as getting involved after the 2018 Kanye tweet.
 
@@ -1207,7 +1207,7 @@ Music producer named by the host in episode 20 as getting involved after the 201
 
 ---
 
-**N-908** John Lewis
+**N-905** John Lewis
 
 Named by the host in episode 20 as a former Daily Wire president who was a naval intelligence officer turned pastor (identity as stated on air, unverified).
 
@@ -1215,7 +1215,7 @@ Named by the host in episode 20 as a former Daily Wire president who was a naval
 
 ---
 
-**N-909** MrBeast
+**N-906** MrBeast
 
 YouTuber (transcribed "Mr. Beast") whose parents the host says are high up in the military.
 
@@ -1347,7 +1347,7 @@ Claim Timestamp: 00:04:50
 Claim: Per the Mike Cernovich tweets the host shows, which she says he posted around April 16, 2018 and has since deleted, Cernovich wrote that high-consciousness people were reporting a paradigm-level energy shift that began two-to-three weeks earlier.
 
 Anchored Artifacts: A-1271.1
-Mentions: N-190
+Mentions: N-189
 
 Investigative Direction: Obtain archived copies of Cernovich's tweet thread (Wayback Machine, third-party archives) to verify wording and dating.
 
@@ -1360,7 +1360,7 @@ Claim Timestamp: 00:04:50
 Claim: Host asserts that Cernovich's tweets confirmed her and Charlie's contemporaneous experience of the same shift.
 
 Anchored Artifacts: A-1271.1
-Mentions: N-3, N-1, N-190
+Mentions: N-3, N-1, N-189
 
 Investigative Direction: Identify and timestamp any other contemporaneous public statements or private messages corroborating the "energy shift" framing.
 
@@ -1386,7 +1386,7 @@ Claim Timestamp: 00:08:40
 Claim: Scott Adams, in commentary played on air, stated Kanye "ripped a hole in reality with seven words" and "freed a lot of people from a mental prison."
 
 Anchored Artifacts: A-1273.1
-Mentions: N-188
+Mentions: N-187
 
 Investigative Direction: Locate and timestamp original Scott Adams video; verify exact wording against played clip.
 
@@ -1412,7 +1412,7 @@ Claim Timestamp: 00:39:46–00:44:30
 Claim: In TPUSA audio played on air, Andrew Kolvet states Charlie repeatedly instructed Mikey that "If anything ever happens to me, you call Erika," and that Mikey followed that protocol after the shot.
 
 Anchored Artifacts: A-1275.1
-Mentions: N-1, N-2, N-14, N-191
+Mentions: N-1, N-2, N-14, N-190
 
 Investigative Direction: Verify whether Mikey McCoy himself has publicly corroborated Kolvet's account, and obtain any contemporaneous record of the alleged instruction.
 
@@ -1425,7 +1425,7 @@ Claim Timestamp: 00:41:12
 Claim: Kolvet states Mikey was taking social-video clips for the TPUSA group chat at the time of the shot, with the phone in his hand only as he covered his ears due to the loud blast.
 
 Anchored Artifacts: A-1275.1
-Mentions: N-14, N-191
+Mentions: N-14, N-190
 
 Investigative Direction: Obtain the full video clip from which Kolvet's narration derives, and time-stamp Mikey's actions frame-by-frame.
 
@@ -1438,7 +1438,7 @@ Claim Timestamp: 00:46:30–00:48:30
 Claim: In a clip the host plays from the Charlie Kirk show, Breitbart News head Alex Marlow characterizes the suggestion that Mikey McCoy was part of a conspiracy to murder Charlie as "vile" and likens the mindset fueling such claims to social-media or pornography addiction, saying they get a high off it.
 
 Anchored Artifacts: A-1276.1
-Mentions: N-191, N-192
+Mentions: N-190, N-191
 
 Investigative Direction: Identify date and outlet of Marlo's full segment; obtain full unedited clip.
 
@@ -1451,7 +1451,7 @@ Claim Timestamp: 00:49:10
 Claim: In a clip the host plays, Frank Turek states there is a 'difference between a possibility and evidence for a possibility,' tells people who have no evidence to 'shut up,' and calls Mikey McCoy, who he says was 23 at the time, a hero that day.
 
 Anchored Artifacts: A-1277.1
-Mentions: N-7, N-191
+Mentions: N-7, N-190
 
 Investigative Direction: Identify date and outlet of Turk's full segment; confirm Mikey McCoy's age at the time of the September 10 event.
 
@@ -1464,7 +1464,7 @@ Claim Timestamp: 00:34:15
 Claim: Host displays a hospital internal message (received per host at 20:08; she later says she meant Utah Valley Hospital, not UVU) stating that, due to a media event that led to a trauma patient, only "Deborah" and the sender, "Jacob Blank," are allowed in the chart.
 
 Anchored Artifacts: A-1278.1
-Mentions: N-1, N-198
+Mentions: N-1, N-197
 Related Nodes: N-10196
 
 Investigative Direction: Obtain independent verification of the message (forensic metadata, screenshots from multiple UVU staff); identify the two named individuals and their institutional roles.
@@ -1492,7 +1492,7 @@ Claim Timestamp: 00:23:30–00:24:30
 Claim: In a clip the host plays, George Webb says Rob McCoy has a "strange military background" and was guiding Charlie toward a NAR-aligned apostolic movement; the host says Rob McCoy's father Roy Edgar McCoy was a naval captain and assistant chief of staff for psychological warfare in the Navy.
 
 Anchored Artifacts: A-1279.1, A-1282.1
-Mentions: N-1, N-17, N-197, N-199
+Mentions: N-1, N-17, N-196, N-198
 Related Nodes: N-10197
 
 Investigative Direction: Obtain Roy Edgar McCoy's official Navy service record; confirm Webb's claim against public biographical sources.
@@ -1506,7 +1506,7 @@ Claim Timestamp: 00:24:50
 Claim: In a clip the host plays, George Webb says Rob McCoy is "kind of the NAR push for Charlie," that Charlie was meeting with NAR, and that NAR were the "$25 million and above" Christian-right donors, the organization being Ziklag.
 
 Anchored Artifacts: A-1279.1
-Mentions: N-1, N-17, N-199
+Mentions: N-1, N-17, N-198
 Related Nodes: N-10197
 
 Investigative Direction: Obtain independent verification of Ziklag's donor list and any documented overlap with TPUSA personnel or events.
@@ -1546,7 +1546,7 @@ Claim Timestamp: 00:53:15
 Claim: The host says Nathan Livingstone (Milk Bar TV) shared Book Club clips watermarked with his own branding, that she hit him with a copyright strike, and that he tweeted that she had hit his account, which she mocks as him asking why she is trying to silence him.
 
 Anchored Artifacts: A-1281.1
-Mentions: N-193
+Mentions: N-192
 
 Investigative Direction: Obtain archived copies of Livingstone's tweet and the original watermarked re-upload; verify the platform's copyright-strike record.
 
@@ -1559,7 +1559,7 @@ Claim Timestamp: 00:10:55
 Claim: The host says that after she asked Kanye to take a meeting, David Horowitz of the Freedom Center, who first invited her to speak at his conference, messaged her offering to facilitate a meeting through his son who knows Kanye.
 
 Anchored Artifacts: A-1281.1
-Mentions: N-194
+Mentions: N-193
 
 
 Investigative Direction: Tie to primary on-screen artifact in a follow-up pass if needed.
@@ -1573,7 +1573,7 @@ Claim Timestamp: 00:16:10
 Claim: The host says John and Irina Mappin, the lone donors who wrote a letter saying that what Turning Point USA is doing is wrong, were the people Charlie asked to arrange a place for her to speak in the UK, and that they made the event happen.
 
 Anchored Artifacts: A-1280.1
-Mentions: N-155, N-156, N-1
+Mentions: N-154, N-155, N-1
 
 
 Investigative Direction: Obtain on-screen citations from the Macron segment.
@@ -1587,7 +1587,7 @@ Claim Timestamp: 00:29:00
 Claim: The host says the doctor who worked on Charlie was Dr. Lee Trotter, who did his residency at Keesler Air Force Base's medical center in Mississippi, that she thinks he might be in the Air Force though she cannot confirm it entirely, and that a person matching him is for a fact a pilot.
 
 Anchored Artifacts: A-1278.1
-Mentions: N-196, N-1
+Mentions: N-195, N-1
 
 
 Investigative Direction: Cross-reference hospital message artifacts.
@@ -1601,7 +1601,7 @@ Claim Timestamp: 00:29:35
 Claim: The host says the medical examiner, Dr. Deirdre Amaro, is a major in the army from the Ericson family, and that in a dream Charlie told her to look into her.
 
 Anchored Artifacts: A-1278.1
-Mentions: N-177, N-1
+Mentions: N-176, N-1
 
 
 Investigative Direction: Verify spelling against hospital records if released.
@@ -1711,7 +1711,7 @@ Claim: The host says Mike Cernovich has since deleted the tweets about an energy
 Transcript Snippet: He has since deleted&nbsp; these tweets, but you can ask him
 
 Anchored Artifacts: A-1271.1
-Mentions: N-190
+Mentions: N-189
 Tags: relevance:context
 Investigative Direction: Check web archives for the April 2018 Cernovich thread and ask Cernovich whether he deleted it.
 
@@ -1726,7 +1726,7 @@ Claim: The host reads a message in which Charlie, after she forwarded the Cernov
 Transcript Snippet: Yep, we felt it, too. Remember&nbsp; I told you uh the dreams got darker.
 
 Anchored Artifacts: A-3188.1
-Mentions: N-3, N-1, N-190
+Mentions: N-3, N-1, N-189
 Related Nodes: N-10389
 Tags: relevance:context
 Investigative Direction: Obtain the original message thread with device metadata for the April 16, 2018 exchange.
@@ -1787,7 +1787,7 @@ Claim: The host says she replied to Kanye asking him to take a meeting and that,
 Transcript Snippet: I tweeted back at Kanye and I said,&nbsp; "Please take a meeting with us." And uh before I&nbsp;&nbsp; could hear directly from Kanye's people, I heard&nbsp; from David Horowitz of the of Freedom Center.
 
 Anchored Artifacts: 
-Mentions: N-3, N-27, N-194
+Mentions: N-3, N-27, N-193
 Tags: relevance:context
 Investigative Direction: Obtain the April 2018 tweet and Horowitz's message to the host.
 
@@ -1802,7 +1802,7 @@ Claim: The host says David Horowitz was the person who first invited her to spea
 Transcript Snippet: He's&nbsp;&nbsp; the one that first invited me when I was going&nbsp; viral on YouTube to speak at his conference.
 
 Anchored Artifacts: 
-Mentions: N-3, N-194
+Mentions: N-3, N-193
 Tags: relevance:tangential
 Investigative Direction: Check Freedom Center conference programs for the host's first appearance.
 
@@ -1817,7 +1817,7 @@ Claim: The host says David Horowitz is the father, or stepfather, of the Andrees
 Transcript Snippet: wants&nbsp; Andreessen Horowitz to be a part of this group that&nbsp;&nbsp; buys Tik Tok because and this is relevant. They&nbsp; think it's important for warfare, psychological&nbsp;&nbsp; warfare in the future.
 
 Anchored Artifacts: 
-Mentions: N-3, N-194, N-36
+Mentions: N-3, N-193, N-36
 Related Nodes: N-11103
 Supports: C-10803
 Tags: relevance:context
@@ -1834,7 +1834,7 @@ Claim: The host quotes Horowitz's message to her saying his son knows Kanye and 
 Transcript Snippet: my son knows Kanye and I would like to facilitate&nbsp; that meeting.
 
 Anchored Artifacts: 
-Mentions: N-3, N-194, N-27
+Mentions: N-3, N-193, N-27
 Tags: relevance:context
 Investigative Direction: Obtain the message from Horowitz and ask Kanye's representatives whether the meeting occurred.
 
@@ -1849,7 +1849,7 @@ Claim: The host says that after the Kanye tweet Eric Weinstein got involved and 
 Transcript Snippet: Suddenly, they get Eric Weinstein&nbsp;&nbsp; involved and he reaches out and he pretends that&nbsp; he wants to be a friend to me.
 
 Anchored Artifacts: 
-Mentions: N-3, N-906
+Mentions: N-3, N-903
 Tags: relevance:context
 Investigative Direction: Obtain the 2018 messages between the host and Weinstein and ask Weinstein for his account.
 
@@ -1864,7 +1864,7 @@ Claim: The host says music producer Rick Rubin also got into the mix after the K
 Transcript Snippet: Another player in this was Rick Rubin.&nbsp; Yeah, the big music industry. Rick Rubin also&nbsp;&nbsp; got into the mix and wanted to facilitate certain&nbsp; meetings.
 
 Anchored Artifacts: 
-Mentions: N-3, N-907
+Mentions: N-3, N-904
 Tags: relevance:context
 Investigative Direction: Ask the host for her messages with Rubin or his representatives and the meetings proposed.
 
@@ -1925,7 +1925,7 @@ Claim: The host says that during that period Kim Kardashian wanted nothing to do
 Transcript Snippet: This&nbsp; is in the time of Kim Kardashian and Kanye. She&nbsp;&nbsp; wanted nothing to do with it.
 
 Anchored Artifacts: 
-Mentions: N-3, N-27, N-360
+Mentions: N-3, N-27, N-359
 Tags: relevance:tangential
 Investigative Direction: Look for contemporaneous reporting on Kardashian's position on Kanye's 2018 politics.
 
@@ -2019,7 +2019,7 @@ Claim: The host says she called Cernovich, told him she has pictures of Kanye st
 Transcript Snippet: I have&nbsp;&nbsp; pictures of him standing over the guy directing&nbsp; him on what he thought was cool with the logo.&nbsp;&nbsp; like should I drop them? And Cernovich gave me&nbsp; really sound advice and said don't.
 
 Anchored Artifacts: A-3191.1
-Mentions: N-3, N-27, N-190
+Mentions: N-3, N-27, N-189
 Related Nodes: N-11322
 Tags: relevance:context
 Investigative Direction: Ask the host to produce the photos and Cernovich to confirm the advice.
@@ -2035,7 +2035,7 @@ Claim: The host says Charlie reached out to John and Irina Mappin, asking for an
 Transcript Snippet: that Charlie reached out to and said, "Can you put&nbsp; together just any place for Candace I to speak at&nbsp;&nbsp; was John and Irina Mappin
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-155, N-156
+Mentions: N-3, N-1, N-154, N-155
 Supports: C-1395
 Tags: relevance:context
 Investigative Direction: Confirm with the Mappins and the event organizers how the December 2018 UK event was arranged.
@@ -2307,7 +2307,7 @@ Claim: The host says the president of the Daily Wire at the time she went there 
 Transcript Snippet: the&nbsp; president at the time of the Daily Wire was also&nbsp;&nbsp; a naval intelligence officer who decided to become&nbsp; a pastor that was John Lewis
 
 Anchored Artifacts: 
-Mentions: N-3, N-908
+Mentions: N-3, N-905
 Related Nodes: N-10900, N-10197
 Tags: relevance:context
 Investigative Direction: Check Daily Wire leadership listings for the period and the named person's career history.
@@ -2323,7 +2323,7 @@ Claim: The host says that both of MrBeast's parents are high up in the military.
 Transcript Snippet: Mr. Beast, both of his parents high&nbsp;&nbsp; up in the military.
 
 Anchored Artifacts: 
-Mentions: N-3, N-909
+Mentions: N-3, N-906
 Related Nodes: N-10197
 Tags: relevance:tangential
 Investigative Direction: Verify through public biographical sources.
@@ -2339,7 +2339,7 @@ Claim: The host says she met Lila Rose through Marissa Streit and that it was ki
 Transcript Snippet: I met her through Marissa uh kind&nbsp;&nbsp; of the same people funding both
 
 Anchored Artifacts: 
-Mentions: N-3, N-229, N-117
+Mentions: N-3, N-228, N-117
 Tags: relevance:tangential
 Investigative Direction: Compare donor lists for Live Action and PragerU.
 
@@ -2354,7 +2354,7 @@ Claim: The host says she saw Lila Rose jump on attacking the phrase "Christ is K
 Transcript Snippet: jump on the attacking the Christ is king or&nbsp; trying to rationalize why we shouldn't say Christ&nbsp;&nbsp; is king all the time and she was like the lone&nbsp; Catholic that was doing that
 
 Anchored Artifacts: 
-Mentions: N-3, N-229
+Mentions: N-3, N-228
 Tags: relevance:tangential
 Investigative Direction: Collect Rose's public posts and interviews on the phrase.
 
@@ -2369,7 +2369,7 @@ Claim: The host says Lila Rose had on her show someone who was a lawyer for one 
 Transcript Snippet: she had someone on her show that&nbsp;&nbsp; was Andrew Tate's one of the accusers lawyers and&nbsp; I was like this is nothing to do with the pro-life&nbsp;&nbsp; movement.
 
 Anchored Artifacts: 
-Mentions: N-3, N-229, N-171
+Mentions: N-3, N-228, N-170
 Tags: relevance:tangential
 Investigative Direction: Identify the episode of Rose's show and guest.
 
@@ -2384,7 +2384,7 @@ Claim: The host says the woman Lila Rose had on her show, a lawyer for one of An
 Transcript Snippet: that woman then attacked&nbsp;&nbsp; me and Tucker Carlson.
 
 Anchored Artifacts: 
-Mentions: N-3, N-229, N-22, N-171
+Mentions: N-3, N-228, N-22, N-170
 Tags: relevance:tangential
 Investigative Direction: Identify the woman and her public statements about the host and Carlson.
 
@@ -2399,7 +2399,7 @@ Claim: The host says that in looking into Bari Weiss's grandfather she found a s
 Transcript Snippet: A bomb thrown on uh at his house&nbsp; in I think it's in Philly or somewhere. Maybe it's&nbsp;&nbsp; Pittsburgh and that's related to the casinos.
 
 Anchored Artifacts: 
-Mentions: N-3, N-279
+Mentions: N-3, N-278
 Tags: relevance:tangential
 Investigative Direction: Search newspaper archives for the incident and the family connection.
 
@@ -2414,7 +2414,7 @@ Claim: The host says that when you look, everyone is somehow attached to Raytheo
 Transcript Snippet: everyone's somehow attached to&nbsp; Raytheon, right? Mr. Beast, they're all attached to&nbsp;&nbsp; Raytheon in one way or the other.
 
 Anchored Artifacts: 
-Mentions: N-3, N-909
+Mentions: N-3, N-906
 Related Nodes: N-11324
 Tags: relevance:tangential
 Investigative Direction: Ask the host which Raytheon connections she means and verify.
@@ -2478,7 +2478,7 @@ Claim: The host says the doctor who worked on Charlie was Dr. Lee Trotter.
 Transcript Snippet: the doctor who worked&nbsp;&nbsp; on Charlie was Dr. Lee Trotter.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-196
+Mentions: N-3, N-1, N-195
 Tags: relevance:core
 Investigative Direction: Confirm the treating surgeon's identity through hospital statements.
 
@@ -2493,7 +2493,7 @@ Claim: The host says Dr. Lee Trotter completed a residency at the Keesler Air Fo
 Transcript Snippet: He completed a residency at the&nbsp; Keesler Air Force Medical Center in Mississippi
 
 Anchored Artifacts: 
-Mentions: N-3, N-196
+Mentions: N-3, N-195
 Related Nodes: N-10197
 Tags: relevance:core
 Investigative Direction: Check Trotter's published training history or board certification.
@@ -2509,7 +2509,7 @@ Claim: The host says that, although she cannot confirm it, there is a person who
 Transcript Snippet: there's a&nbsp; person who matches his name age description&nbsp;&nbsp; living where he's living uh who is actually in the&nbsp; air force and he also for a fact is a pilot
 
 Anchored Artifacts: 
-Mentions: N-3, N-196
+Mentions: N-3, N-195
 Related Nodes: N-10197
 Tags: relevance:core
 Investigative Direction: Check Air Force or Reserve records and FAA airman registry for a matching individual before drawing any conclusion.
@@ -2525,7 +2525,7 @@ Claim: The host says that in a dream Charlie told her she should look into the m
 Transcript Snippet: in my dream Charlie told me I should look&nbsp; into.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-177
+Mentions: N-3, N-1, N-176
 Related Nodes: N-10183
 Tags: relevance:context
 Investigative Direction: This is a reported dream and cannot be checked; look for independent records on the examiner's appointment.
@@ -2541,7 +2541,7 @@ Claim: The host says the medical examiner, Dr. Deirdre Amaro, is a major in the 
 Transcript Snippet: She's a major in the army. She's also&nbsp;&nbsp; from a major corporation.
 
 Anchored Artifacts: 
-Mentions: N-3, N-177
+Mentions: N-3, N-176
 Related Nodes: N-10183, N-10197
 Tags: relevance:core
 Investigative Direction: Check Army Reserve or Medical Corps listings for the medical examiner's rank and her biography.
@@ -2557,7 +2557,7 @@ Claim: The host says the medical examiner is from the Ericson family, the Ericso
 Transcript Snippet: The Ericson Boyd Corporation&nbsp;&nbsp; is her family. She tells people that she is a&nbsp; direct descendant of Leif Erikson.
 
 Anchored Artifacts: 
-Mentions: N-3, N-177
+Mentions: N-3, N-176
 Tags: relevance:tangential
 Investigative Direction: Check the examiner's public biography and genealogical claims.
 
@@ -2572,7 +2572,7 @@ Claim: The host says she thinks the military-industrial complex that Eisenhower 
 Transcript Snippet: the military-industrial complex&nbsp;&nbsp; that shot JFK to maintain power has created a&nbsp; veneer um of reality for us
 
 Anchored Artifacts: 
-Mentions: N-3, N-710
+Mentions: N-3, N-708
 Related Nodes: N-10197
 Tags: relevance:tangential
 Investigative Direction: This is a historical assertion with no evidence offered on air; check the JFK records released by the National Archives.
@@ -2749,7 +2749,7 @@ Claim: The host says she has heard that Dr. Lee Trotter works at both hospitals,
 Transcript Snippet: Lee Trotter, which I have heard works at both&nbsp; limited surgeons going back and forth.
 
 Anchored Artifacts: 
-Mentions: N-3, N-196
+Mentions: N-3, N-195
 Related Nodes: N-10196
 Tags: relevance:core
 Investigative Direction: Check Trotter's hospital privileges at both facilities.
@@ -2814,7 +2814,7 @@ Claim: The host says that, to be fair, TPUSA did its episode before hers went ou
 Transcript Snippet: they did their episode before&nbsp; my episode went out. Charlie Kirk's show is before&nbsp;&nbsp; my show is, but it was their response to the Mikey&nbsp; McCoy video going viral.
 
 Anchored Artifacts: A-1275.1
-Mentions: N-3, N-14, N-191
+Mentions: N-3, N-14, N-190
 Related Nodes: N-10198
 Tags: relevance:context
 Investigative Direction: Compare the airdate of the Charlie Kirk Show episode with the host's upload time.
@@ -2830,7 +2830,7 @@ Claim: The host says the TPUSA response was to the Mikey McCoy video going viral
 Transcript Snippet: who had discovered this&nbsp;&nbsp; over the weekend. So, like James Lee, Ian Carroll,&nbsp; Sam Parker.
 
 Anchored Artifacts: 
-Mentions: N-3, N-191, N-183, N-130, N-182
+Mentions: N-3, N-190, N-182, N-130, N-181
 Related Nodes: N-10198
 Tags: relevance:core
 Investigative Direction: Establish who first posted the video and when.
@@ -2846,7 +2846,7 @@ Claim: The host says it tracks that Mikey would take videos behind the scenes, f
 Transcript Snippet: it tracks that Mikey would be&nbsp;&nbsp; taking videos behind like you know when Charlie&nbsp; first comes out of the event he's throwing hats.
 
 Anchored Artifacts: 
-Mentions: N-3, N-191, N-1
+Mentions: N-3, N-190, N-1
 Related Nodes: N-10198
 Tags: relevance:context
 Investigative Direction: Look at TPUSA social media from earlier events for behind-the-scenes clips credited to McCoy.
@@ -2862,7 +2862,7 @@ Claim: The host says that before Mikey McCoy did the behind-the-scenes video rol
 Transcript Snippet: Before Mikey McCoy did this, it was Sarah&nbsp;&nbsp; Schmachtenberger.
 
 Anchored Artifacts: 
-Mentions: N-3, N-191
+Mentions: N-3, N-190
 Tags: relevance:context
 Investigative Direction: Confirm the person's name and role with TPUSA staff listings.
 
@@ -2877,7 +2877,7 @@ Claim: The host says that in this particular video Mikey is not standing where y
 Transcript Snippet: he's not standing where you&nbsp; can get a view of Charlie asking a question. So,&nbsp;&nbsp; this this part is not tracking.
 
 Anchored Artifacts: A-3196.1
-Mentions: N-3, N-191, N-14
+Mentions: N-3, N-190, N-14
 Related Nodes: N-10198
 Contradicts: C-1500
 Tags: relevance:core
@@ -2894,7 +2894,7 @@ Claim: The host says that in this video Mikey McCoy is not standing to the side 
 Transcript Snippet: Mikey is not&nbsp; standing to the side of Charlie. He is behind.
 
 Anchored Artifacts: A-3196.1
-Mentions: N-3, N-191, N-1
+Mentions: N-3, N-190, N-1
 Related Nodes: N-10198
 Tags: relevance:core
 Investigative Direction: Use the full event video to fix Mikey's position relative to Charlie and the questioner.
@@ -2910,7 +2910,7 @@ Claim: The host says that in the video she never sees Mikey take his phone down,
 Transcript Snippet: he just I&nbsp; never see him take that phone down.
 
 Anchored Artifacts: A-3196.1
-Mentions: N-3, N-191
+Mentions: N-3, N-190
 Related Nodes: N-10198
 Qualifies: C-1500
 Tags: relevance:core
@@ -2927,7 +2927,7 @@ Claim: Discussing Mikey McCoy putting his hands to his ears after the shot, the 
 Transcript Snippet: it would&nbsp;&nbsp; be unlikely that you would keep holding your&nbsp; ears until you get all the way out and that you&nbsp;&nbsp; wouldn't duck down.
 
 Anchored Artifacts: A-3196.1
-Mentions: N-3, N-191
+Mentions: N-3, N-190
 Related Nodes: N-10198
 Tags: relevance:core
 Investigative Direction: Review the clip for how long the hands stay at the ears and whether he lowers his body.
@@ -2960,7 +2960,7 @@ Claim: The host says it is curious that TPUSA's account is coming from Andrew Ko
 Transcript Snippet: I think it's curious that we're hearing this&nbsp;&nbsp; from Andrew and we're not hearing it from Mikey&nbsp; McCoy.
 
 Anchored Artifacts: A-1275.1
-Mentions: N-3, N-14, N-191
+Mentions: N-3, N-14, N-190
 Related Nodes: N-10663
 Tags: relevance:core
 Investigative Direction: Check whether McCoy has since made any public statement on the sequence of events.
@@ -2976,7 +2976,7 @@ Claim: The host says that, when accused of colluding with the team of Justin Bal
 Transcript Snippet: live subpoenaed myself, held up my&nbsp;&nbsp; phone, I typed in Blake Lively, and I showed you&nbsp; the only two times that I had ever texted about&nbsp;&nbsp; her in my phone at all
 
 Anchored Artifacts: 
-Mentions: N-3, N-485, N-486
+Mentions: N-3, N-484, N-485
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Review the host's livestream and the court filings alleging collusion.
@@ -2992,7 +2992,7 @@ Claim: The host says Alex Marlow, who runs Breitbart News, was TPUSA's guest for
 Transcript Snippet: Alex Marlow, who&nbsp; runs Breitbart News, was their guest for the day&nbsp;&nbsp; on the show
 
 Anchored Artifacts: A-1276.1
-Mentions: N-3, N-192
+Mentions: N-3, N-191
 Related Nodes: N-11326
 Tags: relevance:context
 Investigative Direction: Confirm the guest and date from the episode listing.
@@ -3102,7 +3102,7 @@ Claim: The host says it is a typical federal maneuver to kill someone like Marti
 Transcript Snippet: it's a typical federal maneuver,&nbsp;&nbsp; by the way, to kill someone like Martin Luther&nbsp; King or JFK and then they get a holiday.
 
 Anchored Artifacts: 
-Mentions: N-3, N-710
+Mentions: N-3, N-708
 Tags: relevance:tangential
 Investigative Direction: This is a historical assertion with no support given on air; check the records on the MLK and JFK investigations.
 
@@ -3147,7 +3147,7 @@ Claim: The host says Emmanuel Macron is in fact, like the state of Israel, a Rot
 Transcript Snippet: Emmanuel Macron is in fact just&nbsp;&nbsp; like the state of Israel, a Rothschild's creation
 
 Anchored Artifacts: 
-Mentions: N-3, N-378, N-521
+Mentions: N-3, N-377, N-520
 Tags: relevance:tangential
 Investigative Direction: Check Macron's career at Rothschild and Cie against the host's sweeping statement.
 
@@ -3224,7 +3224,7 @@ Claim: The host alleges that Brigitte Macron got away with offending Emmanuel Ma
 Transcript Snippet: You got away with um offending Emanuel&nbsp;&nbsp; when he was 14 years old. Sexual offense.
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-378
+Mentions: N-3, N-82, N-377
 Related Nodes: N-10270
 Tags: relevance:tangential
 Investigative Direction: Check the French public record on the couple's history and the host's legal filings on this point.
@@ -3379,7 +3379,7 @@ Claim: The host says Miriam Adelson gave Trump $100 million and was explicit tha
 Transcript Snippet: Miriam Adelson gave him $100&nbsp; million and she was explicit. the 100 million&nbsp;&nbsp; meant that he would allow them to enex not Gaza,&nbsp; the West Bank.
 
 Anchored Artifacts: 
-Mentions: N-3, N-5, N-299
+Mentions: N-3, N-5, N-298
 Related Nodes: N-10589
 Tags: relevance:context
 Investigative Direction: Check FEC filings for Adelson contributions and public statements by Adelson on annexation.

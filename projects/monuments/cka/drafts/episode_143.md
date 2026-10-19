@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: ee5af5b0f78b7603290afbdc0a52db7cee4a8308f326d1886be1cf5da8aee5e5
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-788, N-789, N-790, N-11146
+  - Tip-minted Nodes (supplement_2026-10b): N-786, N-787, N-788, N-11146
   - Tip-minted Nodes (reintro-ep143): N-11091
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7535–C-7598
   - New Nodes Introduced: N-10809
-  - Reused Nodes Appearing: N-2, N-160, N-125, N-262, N-10808, N-4, N-9, N-14, N-18, N-36, N-39, N-69, N-82, N-225, N-238, N-267, N-273, N-485, N-486, N-778, N-10000, N-10022, N-10100, N-10151, N-10270, N-10324, N-10340, N-10544, N-10651, N-10661, N-10741, N-10795, N-10799, N-10810, N-10862, N-11065, N-11068, N-787, N-11147
+  - Reused Nodes Appearing: N-2, N-159, N-125, N-261, N-10808, N-4, N-9, N-14, N-18, N-36, N-39, N-69, N-82, N-224, N-237, N-266, N-272, N-484, N-485, N-776, N-10000, N-10022, N-10100, N-10151, N-10270, N-10324, N-10340, N-10544, N-10651, N-10661, N-10741, N-10795, N-10799, N-10810, N-10862, N-11065, N-11068, N-785, N-11147
   - (see registers)
 
 # Episode 143 Analysis – Bride of Charlie
@@ -53,7 +53,7 @@ Confidence: high
 - **Artifact Families Introduced:** A-2294, A-2295, A-2296, A-2297, A-2298, A-2299, A-2300
 - **Claim Range:** C-3302 – C-3312
 - **New Nodes Introduced:** N-10808, N-10809
-- **Existing Nodes Reused:** N-2, N-125, N-40, N-160, N-262
+- **Existing Nodes Reused:** N-2, N-125, N-40, N-159, N-261
 
 ---
 
@@ -150,7 +150,7 @@ Confidence: high
 
 ## II. Executive Summary
 
-The episode centers on three artifact-anchored evidentiary threads. First, the host presents newly released exclusive footage (A-2295) of the camera operator variously identified as "Taral," "Terryl," and "Terryl" (N-262) handling SD cards at the event scene, including a sequence in which an SD card from the camera behind Charlie Kirk's head (N-1) is pocketed and then inserted into a laptop. The host pairs this footage with a displayed camera-position diagram (A-2300) to argue that the yellow audience-facing camera fell to the ground and was stepped over rather than retrieved.
+The episode centers on three artifact-anchored evidentiary threads. First, the host presents newly released exclusive footage (A-2295) of the camera operator variously identified as "Taral," "Terryl," and "Terryl" (N-261) handling SD cards at the event scene, including a sequence in which an SD card from the camera behind Charlie Kirk's head (N-1) is pocketed and then inserted into a laptop. The host pairs this footage with a displayed camera-position diagram (A-2300) to argue that the yellow audience-facing camera fell to the ground and was stepped over rather than retrieved.
 
 Second, the host plays an audio clip (A-2296) of Donald Trump on Fox and Friends in which Trump identifies Mike Mitchell (N-125) as the person who recognized Tyler Robinson (N-40) from the stairwell photo and initiated the contact chain. The host uses this artifact to challenge the circulating narrative that Robinson's parents turned him in.
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:18:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3308, N-160, N-40*
+*Related: C-3308, N-159, N-40*
 
 ---
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:08:42–00:10:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3302, C-3303, N-262, N-1*
+*Related: C-3302, C-3303, N-261, N-1*
 
 **A-2295.2** Video segment showing the yellow audience-facing camera falling/knocked to the floor shortly after Charlie is removed from the scene, coming to rest with its encompassed SD card on the ground.
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:13:38–00:14:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3305, C-3304, N-262, N-1, A-2300*
+*Related: C-3305, C-3304, N-261, N-1, A-2300*
 
 **A-2295.3** Video segment showing Taral/Terryl stepping over the fallen yellow camera and its encompassed SD card en route to the camera behind Charlie's head.
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:14:47–00:15:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3304, C-3305, N-262, N-1, A-2300*
+*Related: C-3304, C-3305, N-261, N-1, A-2300*
 
 ---
 
@@ -246,7 +246,7 @@ Video Timestamp: 00:34:27–00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3310, N-160, N-125*
+*Related: C-3310, N-159, N-125*
 
 ---
 
@@ -274,7 +274,7 @@ Video Timestamp: 00:13:38–00:15:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3304, C-3305, N-262, N-1, A-2295.2, A-2295.3*
+*Related: C-3304, C-3305, N-261, N-1, A-2295.2, A-2295.3*
 
 ---
 
@@ -397,7 +397,7 @@ Investigative Pressure: High
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Recurring writer/commentator whose tweets are read aloud as artifacts in this episode.
 
@@ -410,7 +410,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-262** Terryl Farnsworth
+**N-261** Terryl Farnsworth
 
 Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.
 
@@ -432,7 +432,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2295.1, C-3302, C-3303, N-262*
+*Related: A-2295.1, C-3302, C-3303, N-261*
 
 ---
 
@@ -445,7 +445,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2295.2, A-2295.3, A-2300.1, C-3304, C-3305, N-262*
+*Related: A-2295.2, A-2295.3, A-2300.1, C-3304, C-3305, N-261*
 
 ---
 
@@ -625,7 +625,7 @@ The host criticizes her Glenn Beck statement and role in the Robinson narrative.
 
 ---
 
-**N-225** Shawn Ryan
+**N-224** Shawn Ryan
 
 Interview at issue in the Harpole suit.
 
@@ -633,7 +633,7 @@ Interview at issue in the Harpole suit.
 
 ---
 
-**N-238** Glenn Beck
+**N-237** Glenn Beck
 
 His show where Erika made the night-before texts statement.
 
@@ -641,7 +641,7 @@ His show where Erika made the night-before texts statement.
 
 ---
 
-**N-267** Brian Harpole
+**N-266** Brian Harpole
 
 His lawsuit against the host.
 
@@ -649,7 +649,7 @@ His lawsuit against the host.
 
 ---
 
-**N-273** Nate Brooksby
+**N-272** Nate Brooksby
 
 Sheriff quoted on Mitchell's call.
 
@@ -697,7 +697,7 @@ The defendant in the filings discussed.
 
 ---
 
-**N-485** Blake Lively
+**N-484** Blake Lively
 
 The dismissal example.
 
@@ -705,7 +705,7 @@ The dismissal example.
 
 ---
 
-**N-486** Justin Baldoni
+**N-485** Justin Baldoni
 
 The dismissal example.
 
@@ -745,7 +745,7 @@ The Epstein files discussed as a Republican fault line.
 
 ---
 
-**N-787** Hasan Piker
+**N-785** Hasan Piker
 
 Streamer whose praise of the host is played in the episode. First named by the host at 00:01:32 in episode 143.
 Aliases: Hasan
@@ -754,7 +754,7 @@ Aliases: Hasan
 
 ---
 
-**N-788** Lane Schamberger
+**N-786** Lane Schamberger
 
 Man visible washing his hands in the footage who the host says helped carry Charlie. First named by the host at 00:09:43 in episode 143.
 
@@ -762,7 +762,7 @@ Man visible washing his hands in the footage who the host says helped carry Char
 
 ---
 
-**N-778** Matt Robinson
+**N-776** Matt Robinson
 
 Tyler Robinson's father, whom the host's source says did not think his son was guilty. First named by the host at 00:30:06 in episode 143.
 
@@ -770,7 +770,7 @@ Tyler Robinson's father, whom the host's source says did not think his son was g
 
 ---
 
-**N-789** Brian Davis
+**N-787** Brian Davis
 
 Person the host says signed off the charging document. First named by the host at 00:30:06 in episode 143.
 
@@ -778,7 +778,7 @@ Person the host says signed off the charging document. First named by the host a
 
 ---
 
-**N-790** Brandi Zadrozny
+**N-788** Brandi Zadrozny
 
 Journalist whose article the host paraphrases. First named by the host at 00:36:06 in episode 143.
 
@@ -813,7 +813,7 @@ Claim Timestamp: 00:08:42
 Claim: The host says that in footage shown the previous day, the camera operator removed an SD card from the camera behind Charlie Kirk's head, looked around, and pocketed it within approximately four to five minutes of Charlie being struck.
 
 Anchored Artifacts: A-2295.1
-Mentions: N-1, N-262
+Mentions: N-1, N-261
 Related Nodes: N-10808
 Investigative Direction: Obtain original unedited video and corroborate timestamp via SBI / law-enforcement chain-of-custody records for the SD card in question.
 
@@ -826,7 +826,7 @@ Claim Timestamp: 00:09:43
 Claim: The host describes footage in which the camera operator opens his laptop and appears to insert the previously pocketed SD card into it, which she says, citing a government source, was all within roughly ten minutes of the shooting.
 
 Anchored Artifacts: A-2295.1
-Mentions: N-262
+Mentions: N-261
 Related Nodes: N-10808
 Investigative Direction: Recover laptop forensic artifacts (connection logs, file-system events, USB device traces) and compare timing against host's stated "government source" timeline.
 
@@ -839,7 +839,7 @@ Claim Timestamp: 00:14:47
 Claim: The host presents that, when retrieving SD cards, Terryl stepped over the yellow audience-facing camera – which had fallen to the floor – rather than retrieving its SD card.
 
 Anchored Artifacts: A-2295.2, A-2295.3, A-2300.1
-Mentions: N-1, N-262
+Mentions: N-1, N-261
 Related Nodes: N-10809
 Investigative Direction: Identify whether the yellow camera's SD card was ever collected and, if so, by whom and at what timestamp.
 
@@ -889,7 +889,7 @@ Claim Timestamp: 00:18:07
 Claim: Blake Neff's tweet (read in full) asserts that the Tyler Robinson defense filing is "very conspicuously not contesting any of the core evidence" - specifically camera footage, DNA, the rifle, cause of death, and Robinson's phone data - and that all the defense has is a complaint about reliable hearsay and attacks on the aggravating factors.
 
 Anchored Artifacts: A-2294.1
-Mentions: N-160, N-40
+Mentions: N-159, N-40
 Investigative Direction: Obtain the actual defense filing and compare verbatim to Neff's characterization; assess community-note rebuttal text shown in artifact.
 
 ---
@@ -901,7 +901,7 @@ Claim Timestamp: 00:35:00
 Claim: In an audio clip, streamer Hasan Piker calls Candace Owens "a queen" who "successfully and single-handedly undermined the Republican initiative to martyrize Charlie Kirk," while simultaneously stating his belief that Tyler Robinson likely did it.
 
 Anchored Artifacts: A-2297.1
-Mentions: N-787, N-3, N-1, N-40
+Mentions: N-785, N-3, N-1, N-40
 Investigative Direction: Verify the full unedited Piker stream segment and timestamp; cross-check against the Brandi Zadrozny article the host references.
 
 ---
@@ -913,7 +913,7 @@ Claim Timestamp: 00:34:27
 Claim: Blake Neff's tweet (read in full) states that "the radical pro-violence left knows exactly what a gift Candace and her ilk are to them," framing her investigative work on the Robinson case as materially assisting left-wing political interests.
 
 Anchored Artifacts: A-2298.1
-Mentions: N-160, N-3
+Mentions: N-159, N-3
 Investigative Direction: Confirm tweet text against archive (e.g., X/Twitter permanent-link capture) and identify any subsequent correction or community-note action.
 
 ---
@@ -937,7 +937,7 @@ Claim Timestamp: 00:10:57
 Claim: The host states, citing a government source she trusts, that the entire sequence – Terryl pocketing the SD card, racing to his laptop, and the apparent SD card insertion – occurred within approximately ten minutes of Charlie Kirk being shot.
 
 Anchored Artifacts: A-2295.1
-Mentions: N-262, N-1
+Mentions: N-261, N-1
 Related Nodes: N-10808
 Investigative Direction: Cross-reference host's timeline against SBI / UPD / FBI event-time records and any device-timestamp metadata recoverable from Terryl's laptop.
 
@@ -952,7 +952,7 @@ Claim: The host says Blake Neff is speaking to reporters and wants everyone to k
 Transcript Snippet: Blake Neff is now entering the fray. Um he's speaking to reporters and wants everyone to know that I'm just jealous of Erika.
 
 Anchored Artifacts: 
-Mentions: N-160, N-2, N-3
+Mentions: N-159, N-2, N-3
 Tags: relevance:context
 Investigative Direction: Identify the reporters Neff spoke to and obtain the published or unpublished statements attributed to him.
 
@@ -967,7 +967,7 @@ Claim: The host says Turning Point USA figures are now pushing the talking point
 Transcript Snippet: They're also now pushing the same talking point that I'm now somehow working in coordination or support of I guess the aims of Hasan
 
 Anchored Artifacts: 
-Mentions: N-3, N-787, N-1
+Mentions: N-3, N-785, N-1
 Related Nodes: N-10000, N-11146
 Tags: relevance:context
 Investigative Direction: Collect the TPUSA-side statements and articles that make the Hasan-coordination claim and compare their wording with the Piker clip.
@@ -983,7 +983,7 @@ Claim: The host says that in the previous episode she demonstrated that Terryl l
 Transcript Snippet: yesterday I demonstrated to you all that Terryl lied to me. That's just a fact. He lied to me about not knowing how to send a clip.
 
 Anchored Artifacts: 
-Mentions: N-3, N-262
+Mentions: N-3, N-261
 Related Nodes: N-10810
 Supports: C-4699, C-3291
 Tags: relevance:core
@@ -1000,7 +1000,7 @@ Claim: The host says that when she asked why the footage was not simply released
 Transcript Snippet: And he said, "That's in the preview of law enforcement." He meant in the purview of law enforcement.
 
 Anchored Artifacts: 
-Mentions: N-3, N-262
+Mentions: N-3, N-261
 Related Nodes: N-10810
 Tags: relevance:core
 Investigative Direction: Identify who made the statement and ask the SBI and Utah authorities whether any instruction not to release the footage was given.
@@ -1031,7 +1031,7 @@ Claim: The host says Terryl is the first one who declared Charlie Kirk dead, and
 Transcript Snippet: Um it's hard to forget that he is the first one who declared Charlie's dead.
 
 Anchored Artifacts: A-2295.1
-Mentions: N-262, N-1
+Mentions: N-261, N-1
 Related Nodes: N-10808
 Tags: relevance:core
 Investigative Direction: Establish from witness statements and video who first pronounced Charlie dead and at what time.
@@ -1047,7 +1047,7 @@ Claim: The host says she calls the footage her October surprise because she has 
 Transcript Snippet: Well, today we can share with you my very own October surprise. I call it an October surprise because I've had it since October.
 
 Anchored Artifacts: A-2295.1
-Mentions: N-3, N-262
+Mentions: N-3, N-261
 Related Nodes: N-10808
 Supports: C-3300
 Tags: relevance:core
@@ -1064,7 +1064,7 @@ Claim: The host says there were good guys in government working behind the scene
 Transcript Snippet: And what I learned is that after he pocketed that, he then pretty immediately opened up his laptop.
 
 Anchored Artifacts: A-2295.1
-Mentions: N-3, N-262
+Mentions: N-3, N-261
 Related Nodes: N-10808
 Supports: C-3303
 Tags: relevance:core
@@ -1081,7 +1081,7 @@ Claim: The host says Lane Schamberger is visible on the side washing his hands i
 Transcript Snippet: yes, some people might be noting that Lane Schamberger is on the side washing his hands. That makes sense. Don't think too hard about it. He did help carry Charlie into the car.
 
 Anchored Artifacts: A-2295.1
-Mentions: N-3, N-788, N-1
+Mentions: N-3, N-786, N-1
 Related Nodes: N-10808
 Tags: relevance:core
 Investigative Direction: Confirm Schamberger's role in carrying Charlie to the vehicle from other video and witness accounts.
@@ -1097,7 +1097,7 @@ Claim: The host says Terryl is shown texting with someone, then picks up the lap
 Transcript Snippet: He picks up the laptop and what happens thereafter is he sits facing the other direction and continues on to his laptop doing what I don't know.
 
 Anchored Artifacts: A-2295.1
-Mentions: N-3, N-262
+Mentions: N-3, N-261
 Related Nodes: N-10808
 Supports: C-3296
 Tags: relevance:core
@@ -1114,7 +1114,7 @@ Claim: The host says Andrew Kolvet told them Terryl was taking the SD cards beca
 Transcript Snippet: We were told from Andrew he was doing this because people can be evil.
 
 Anchored Artifacts: A-2295.1
-Mentions: N-14, N-262, N-3
+Mentions: N-14, N-261, N-3
 Related Nodes: N-10100, N-10810
 Supports: C-3294, C-1369
 Tags: relevance:core
@@ -1147,7 +1147,7 @@ Claim: The host says that, according to Terryl's 1102 statement, the yellow came
 Transcript Snippet: according to Taral's 1102 statement, we know that that's filming the audience in particular the individuals that are asking questions.
 
 Anchored Artifacts: A-2890.1
-Mentions: N-262
+Mentions: N-261
 Related Nodes: N-10809, N-11068
 Tags: relevance:core
 Investigative Direction: Obtain Farnsworth's statement and check what it says about each camera's assignment and coverage.
@@ -1163,7 +1163,7 @@ Claim: The host says Terryl appeared about three minutes after the yellow camera
 Transcript Snippet: So when Taral appears approximately 3 minutes later to take the SD card from behind from the camera behind Charlie's head he steps over it.
 
 Anchored Artifacts: A-2295.3
-Mentions: N-262, N-1
+Mentions: N-261, N-1
 Related Nodes: N-10809
 Supports: C-3304
 Tags: relevance:core
@@ -1196,7 +1196,7 @@ Claim: The host says Erika Kirk stated publicly and with confidence on Glenn Bec
 Transcript Snippet: when Erika publicly stated with confidence on Glenn Beck's show that Charlie was not sending text messages the night before signaling that he was worried he was going to be killed
 
 Anchored Artifacts: A-2891.1
-Mentions: N-2, N-238, N-1
+Mentions: N-2, N-237, N-1
 Related Nodes: N-10340
 Tags: relevance:core
 Investigative Direction: Obtain the Glenn Beck interview and compare Erika's statement with the night-before messages the host describes.
@@ -1228,7 +1228,7 @@ Claim: The host says TPUSA brings influencers into the courtroom and that Blake 
 Transcript Snippet: Why are they bringing influencers into the courtroom? Why are they, as Blake Neff has done repeatedly, completely misrepresenting court filings to the public in order to do just that?
 
 Anchored Artifacts: 
-Mentions: N-160, N-40, N-3
+Mentions: N-159, N-40, N-3
 Related Nodes: N-10000, N-11065
 Tags: relevance:context
 Investigative Direction: Compare each Neff post about a Robinson filing with the filing text and the invitation list for influencers at the hearings.
@@ -1244,7 +1244,7 @@ Claim: The host says the Blake Neff tweet from that morning has already been com
 Transcript Snippet: He's already been community noted on it for its intentional misrepresentation.
 
 Anchored Artifacts: A-2294.1
-Mentions: N-160
+Mentions: N-159
 Tags: relevance:context
 Investigative Direction: Capture the tweet and its Community Note with timestamps before any edit or removal.
 
@@ -1259,7 +1259,7 @@ Claim: The host reads the Community Note, which says preliminary hearings decide
 Transcript Snippet: it says preliminary hearings decide only probable cause. Under the Utah 1102 standard, um uh reliable hearsay is allowed. Defense counsel often skip alternative theories to avoid previewing their strategy before the trial.
 
 Anchored Artifacts: A-2889.1
-Mentions: N-160
+Mentions: N-159
 Related Nodes: N-11068
 Supports: C-6043
 Tags: relevance:context
@@ -1276,7 +1276,7 @@ Claim: The Neff tweet as read says that if there was any merit to the theories C
 Transcript Snippet: If there was any merit at all to any of the theories that Candace and them have pushed the last 11 months, why didn't the defense bring them up?
 
 Anchored Artifacts: A-2294.1
-Mentions: N-160, N-3
+Mentions: N-159, N-3
 Supports: C-3308
 Tags: relevance:context
 Investigative Direction: Obtain the prosecution response and the defense filing to see which theories, if any, each addresses.
@@ -1292,7 +1292,7 @@ Claim: The host says preliminary hearings are not about discovering guilt or inn
 Transcript Snippet: Yes, preliminary hearings are not about discovering guilt or innocence. It is about arguing whether or not the filing itself is defective, okay?
 
 Anchored Artifacts: 
-Mentions: N-3, N-160
+Mentions: N-3, N-159
 Related Nodes: N-11068, N-11065
 Tags: relevance:context
 Investigative Direction: Check Utah criminal procedure on the purpose and standard of a preliminary hearing against the host's description.
@@ -1308,7 +1308,7 @@ Claim: The host says Blake Lively initially sued Justin Baldoni with 13 causes o
 Transcript Snippet: And the court came back and decided, "Actually, yes, Justin, you're you're correct that 10 of these causes of action are inactionable.
 
 Anchored Artifacts: 
-Mentions: N-485, N-486, N-3
+Mentions: N-484, N-485, N-3
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Check the court order on Baldoni's motion to dismiss for the number of claims dismissed.
@@ -1324,7 +1324,7 @@ Claim: The host says Brian Harpole filed a lawsuit carrying a long series of cla
 Transcript Snippet: Same with me and Brian Harpole. There's another example. Again, these are civil examples. He filed a lawsuit.
 
 Anchored Artifacts: 
-Mentions: N-267, N-3
+Mentions: N-266, N-3
 Related Nodes: N-10651
 Tags: relevance:context
 Investigative Direction: Pull the Harpole complaint and the host's motion to dismiss from the court docket.
@@ -1340,7 +1340,7 @@ Claim: The host says one of the things Harpole is suing her over is her saying s
 Transcript Snippet: So, he's suing me for saying I found his interview with Shawn Ryan to be unconvincing.
 
 Anchored Artifacts: 
-Mentions: N-267, N-225, N-3
+Mentions: N-266, N-224, N-3
 Related Nodes: N-10651, N-10862
 Tags: relevance:context
 Investigative Direction: Check the complaint for the Shawn Ryan interview claim and the host's opinion-is-protected-speech argument.
@@ -1484,7 +1484,7 @@ Claim: The host quotes Sheriff Brooksby as saying he got a call from Mike Mitche
 Transcript Snippet: Sheriff Brooksby was like, "I got a call from Mike Mitchell saying that, you know, Tyler Robinson was the guy."
 
 Anchored Artifacts: A-2893.1
-Mentions: N-273, N-125, N-40
+Mentions: N-272, N-125, N-40
 Related Nodes: N-10022
 Supports: C-1766
 Tags: relevance:core
@@ -1517,7 +1517,7 @@ Claim: The host says she had a source within the Robinson family orbit who was v
 Transcript Snippet: I had a source uh within the Robinson family orbit who was very clear on this, that it was not true, that Matt Robinson did not think his son was guilty
 
 Anchored Artifacts: 
-Mentions: N-3, N-778, N-125
+Mentions: N-3, N-776, N-125
 Related Nodes: N-10022
 Supports: C-5041
 Tags: relevance:core
@@ -1534,7 +1534,7 @@ Claim: The host speculates that the charging document, which she says was signed
 Transcript Snippet: and the charging document rather, which was signed off by Brian Davis.
 
 Anchored Artifacts: 
-Mentions: N-789, N-125
+Mentions: N-787, N-125
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Pull the charging document and confirm the signing prosecutor.
@@ -1600,7 +1600,7 @@ Claim: In the clip played, Hasan Piker says he cannot like her tweets because sh
 Transcript Snippet: I can't like her tweets cuz she blocked me many, many years ago. This is before she became our hero.
 
 Anchored Artifacts: A-2297.1
-Mentions: N-787, N-3
+Mentions: N-785, N-3
 Related Nodes: N-11146
 Tags: relevance:context
 Investigative Direction: Verify the full Piker stream and whether the host's account blocked him.
@@ -1616,7 +1616,7 @@ Claim: The host says the running theme of Brandi Zadrozny's article is that Cand
 Transcript Snippet: the running themes of what we are seeing in Brandi Zadrozny's article is that essentially they are saying Candace ruined an opportunity to pin this on the left
 
 Anchored Artifacts: A-2888.1
-Mentions: N-3, N-790
+Mentions: N-3, N-788
 Related Nodes: N-11146
 Tags: relevance:context
 Investigative Direction: Obtain the Zadrozny article and compare its wording with the host's paraphrase.
@@ -1679,7 +1679,7 @@ Claim: The host says the left took the bait on an earlier event that could alleg
 Transcript Snippet: we had an event that could potentially, I'll say allegedly, be coordinated by the Feds, which was meant to cause a left-right war.
 
 Anchored Artifacts: 
-Mentions: N-3, N-787
+Mentions: N-3, N-785
 Related Nodes: N-11147
 Tags: relevance:tangential
 Investigative Direction: Review the January 6 investigation findings on any federal informants or provocateurs.
@@ -1772,7 +1772,7 @@ Claim: Responding to a comment, the host says she cannot assert that Farnsworth 
 Transcript Snippet: I will say I don't know that. I can't I cannot assert that. I can just show everyone what happened
 
 Anchored Artifacts: A-2892.1
-Mentions: N-262, N-3
+Mentions: N-261, N-3
 Related Nodes: N-10810
 Tags: relevance:core
 Investigative Direction: Seek the legal standard for evidence tampering and who owned the SD cards and cameras.
@@ -1788,7 +1788,7 @@ Claim: The host says Farnsworth had already sent a Google link to the SBI and ha
 Transcript Snippet: when you had already sent a Google link to the SBI and and why pretend that you don't know how to send a big file when you had already sent that Google link over 8 days earlier.
 
 Anchored Artifacts: 
-Mentions: N-262, N-3
+Mentions: N-261, N-3
 Related Nodes: N-10810
 Supports: C-3290, C-3291
 Tags: relevance:core
@@ -1821,7 +1821,7 @@ Claim: The host says Farnsworth's statement gives the lengths of the videos he p
 Transcript Snippet: it tells you how long the videos that he gave were and all of them are 26 minutes plus some seconds except for one of them which is 23 minutes.
 
 Anchored Artifacts: A-2890.1
-Mentions: N-262, N-3
+Mentions: N-261, N-3
 Related Nodes: N-10799
 Supports: C-3295
 Tags: relevance:core
@@ -1972,7 +1972,7 @@ Investigative Direction: Check the episode schedule for the following week.
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** The camera operator is referred to in the transcript as "Taral," "Terryl," and "Terryl." Most likely "Terryl" based on prior series usage, but the episode does not resolve the spelling. (Affects N-262.)
+- **Name uncertainty:** The camera operator is referred to in the transcript as "Taral," "Terryl," and "Terryl." Most likely "Terryl" based on prior series usage, but the episode does not resolve the spelling. (Affects N-261.)
 - **Transcript ambiguity:** A clear mid-segment gap appears at transcript marker [06:40], with the line "And he usually starts the tour seasons to make sure they are well set up." This reads as either a transcription artifact or missing context. Recommend human review.
 - **Artifact verbally referenced but not shown:** The host references an appearance by Erika Kirk on Glenn Beck's show regarding pre-event text messages, but no clip or screenshot is displayed in this episode. Flagged as verbal-reference-only.
 - **Artifact verbally referenced but not shown:** The host references a Brandi Zadrozny article as the source of the "left-coordination" framing but does not display the article. Flagged as verbal-reference-only.

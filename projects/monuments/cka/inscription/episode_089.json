@@ -809,8 +809,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-205",
-      "ref": "N-205",
+      "@id": "N-204",
+      "ref": "N-204",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Interviewer in the Megyn Kelly clip artifact.",
@@ -825,8 +825,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-275",
-      "ref": "N-275",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Jonathan Pollard",
       "type": "person",
       "description": "Convicted Israeli spy (30-year U.S. prison sentence, espionage); met with Huckabee per episode.",
@@ -841,8 +841,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-420",
-      "ref": "N-420",
+      "@id": "N-419",
+      "ref": "N-419",
       "name": "Monica Lewinsky",
       "type": "person",
       "description": "First named by the host at 00:26:31 in episode 89.",
@@ -900,8 +900,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-146",
-      "ref": "N-146",
+      "@id": "N-145",
+      "ref": "N-145",
       "name": "Marjorie Taylor Greene",
       "type": "person",
       "description": "Marjorie Taylor Greene, named in the post as Marjorie Traitor Brown.",
@@ -917,8 +917,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-166",
-      "ref": "N-166",
+      "@id": "N-165",
+      "ref": "N-165",
       "name": "Howard Lutnick",
       "type": "person",
       "description": "Howard Lutnick, named in a played voter clip.",
@@ -934,8 +934,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-179",
-      "ref": "N-179",
+      "@id": "N-178",
+      "ref": "N-178",
       "name": "Jared Kushner",
       "type": "person",
       "description": "Jared Kushner, named by the host in connection with boardroom deals.",
@@ -951,8 +951,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-245",
-      "ref": "N-245",
+      "@id": "N-244",
+      "ref": "N-244",
       "name": "Mark Levin",
       "type": "person",
       "description": "Mark Levin, named in a played voter clip.",
@@ -968,8 +968,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-299",
-      "ref": "N-299",
+      "@id": "N-298",
+      "ref": "N-298",
       "name": "Miriam Adelson",
       "type": "person",
       "description": "Miriam Adelson, the donor in the host's account of the alleged meeting.",
@@ -987,8 +987,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-681",
-      "ref": "N-681",
+      "@id": "N-679",
+      "ref": "N-679",
       "name": "Joe Biden",
       "type": "person",
       "description": "Joe Biden, discussed in the host's comment on dementia.",
@@ -1004,8 +1004,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-707",
-      "ref": "N-707",
+      "@id": "N-705",
+      "ref": "N-705",
       "name": "Sheldon Adelson",
       "type": "person",
       "description": "Sheldon Adelson, whose gambling fortune the host references.",
@@ -1371,7 +1371,7 @@
         "N-5",
         "N-36",
         "N-46",
-        "N-205"
+        "N-204"
       ]
     },
     {
@@ -1388,9 +1388,9 @@
       "claim_timestamp": "00:26:31–00:28:46",
       "investigative_direction": "Retrieve the original Carlson newsletter post and verify the exact wording; assess sourcing and historical basis for the Clinton-Lewinsky blackmail claim independently.",
       "mentions_person_refs": [
-        "N-275",
+        "N-274",
         "N-22",
-        "N-420"
+        "N-419"
       ]
     },
     {
@@ -1434,7 +1434,7 @@
         "N-3",
         "N-5",
         "N-14",
-        "N-299"
+        "N-298"
       ]
     },
     {
@@ -1457,7 +1457,7 @@
         "N-3",
         "N-1",
         "N-5",
-        "N-299"
+        "N-298"
       ]
     },
     {
@@ -1778,7 +1778,7 @@
       "transcript_snippet": "As president President, I could get them on my side anytime I want, but when they call, I don't return their calls because I'm too busy on world and country affairs.",
       "mentions_person_refs": [
         "N-5",
-        "N-146"
+        "N-145"
       ]
     },
     {
@@ -1859,7 +1859,7 @@
       "investigative_direction": "Identify any public reporting on a Kushner-linked Gaza development plan and compare it with the host's allusion.",
       "transcript_snippet": "whatever was agreed upon in those boardrooms with Jared Kushner, uh Trump Gaza hotel, whatever you tweeted so crass.",
       "mentions_person_refs": [
-        "N-179",
+        "N-178",
         "N-5",
         "N-3"
       ]
@@ -1908,7 +1908,7 @@
       "transcript_snippet": "Bibi is your master. Maybe it's Miriam Adelson that lights the fire and Bibi that makes the shadows on the wall",
       "mentions_person_refs": [
         "N-36",
-        "N-299",
+        "N-298",
         "N-5",
         "N-3"
       ]
@@ -1931,7 +1931,7 @@
       "transcript_snippet": "Half of the people that I grew up with in this movement are not on Ben Shapiro and Mark Levin's team, okay?",
       "mentions_person_refs": [
         "N-97",
-        "N-245",
+        "N-244",
         "N-3"
       ]
     },
@@ -1952,7 +1952,7 @@
       "investigative_direction": "Identify the speaker; check the insider-trading reporting the clip alludes to.",
       "transcript_snippet": "I don't want to be at your cool, corrupt kid, Howard Lutnick, Jeffrey Epstein class table.",
       "mentions_person_refs": [
-        "N-166",
+        "N-165",
         "N-9",
         "N-5"
       ]
@@ -2236,7 +2236,7 @@
         "C-7107"
       ],
       "mentions_person_refs": [
-        "N-299",
+        "N-298",
         "N-5",
         "N-3"
       ]
@@ -2358,8 +2358,8 @@
       "investigative_direction": "This is the host's speculation and characterization; no evidence is offered that the remark reached the Adelsons.",
       "transcript_snippet": "If it maybe got back to the Adelsons that Trump said that. You don't take $100 million from a uh a family of I would say gangsters, right?",
       "mentions_person_refs": [
-        "N-707",
-        "N-299",
+        "N-705",
+        "N-298",
         "N-5",
         "N-3"
       ]
@@ -2694,7 +2694,7 @@
       "investigative_direction": "Opinion about two public figures; no medical record is cited.",
       "transcript_snippet": "I genuinely believe that Joe Biden had dementia, and at least he can say that.",
       "mentions_person_refs": [
-        "N-681",
+        "N-679",
         "N-5",
         "N-3"
       ]

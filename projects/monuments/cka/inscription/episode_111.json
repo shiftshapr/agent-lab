@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-627"
+            "N-625"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -57,8 +57,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-650",
-            "N-627",
+            "N-648",
+            "N-625",
             "N-10948"
           ],
           "tags": [],
@@ -80,8 +80,8 @@
             "N-60",
             "N-3",
             "N-30",
-            "N-650",
-            "N-651",
+            "N-648",
+            "N-649",
             "N-10949"
           ],
           "tags": [],
@@ -133,8 +133,8 @@
             "C-4338"
           ],
           "related_nodes": [
-            "N-652",
-            "N-653",
+            "N-650",
+            "N-651",
             "N-10951"
           ],
           "tags": [],
@@ -153,11 +153,11 @@
             "C-4342"
           ],
           "related_nodes": [
+            "N-653",
+            "N-654",
             "N-655",
             "N-656",
-            "N-657",
-            "N-658",
-            "N-659"
+            "N-657"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -183,7 +183,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-652",
+            "N-650",
             "N-10952"
           ],
           "tags": [],
@@ -245,7 +245,7 @@
             "C-4351"
           ],
           "related_nodes": [
-            "N-660",
+            "N-658",
             "N-10008"
           ],
           "tags": [],
@@ -291,7 +291,7 @@
           "related_nodes": [
             "N-99",
             "N-3",
-            "N-627"
+            "N-625"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -327,7 +327,7 @@
           ],
           "related_nodes": [
             "N-99",
-            "N-552"
+            "N-551"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -360,7 +360,7 @@
             "C-4362"
           ],
           "related_nodes": [
-            "N-661",
+            "N-659",
             "N-10954"
           ],
           "tags": [],
@@ -887,8 +887,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Suggested by the host to have known why TPUSA said the video would be dismissed as AI.",
@@ -904,8 +904,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-245",
-      "ref": "N-245",
+      "@id": "N-244",
+      "ref": "N-244",
       "name": "Mark Levin",
       "type": "person",
       "description": "Megyn Kelly is cited as believing he would hurt her; the host questions his family's Russian origins.",
@@ -921,8 +921,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-342",
-      "ref": "N-342",
+      "@id": "N-341",
+      "ref": "N-341",
       "name": "Victor Marx",
       "type": "person",
       "description": "An emailer told the host he named Greg Laurie as his mentor.",
@@ -938,8 +938,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-451",
-      "ref": "N-451",
+      "@id": "N-450",
+      "ref": "N-450",
       "name": "Greg Laurie",
       "type": "person",
       "description": "Pastor of Harvest church, with which Erika Kirk toured; the church faces a Romania lawsuit.",
@@ -956,8 +956,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-452",
-      "ref": "N-452",
+      "@id": "N-451",
+      "ref": "N-451",
       "name": "Paul Havsgaard",
       "type": "person",
       "description": "Transcript spelling \"Paul Havsgaard\". Per the host, Greg Laurie's defense is that Havsgaard acted alone in Romania.",
@@ -973,8 +973,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-552",
-      "ref": "N-552",
+      "@id": "N-551",
+      "ref": "N-551",
       "name": "Aubrey Laitsch",
       "type": "person",
       "description": "\"Aubrey\" whose husband Alex Clark called weird; mapped with medium confidence.",
@@ -992,8 +992,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-582",
-      "ref": "N-582",
+      "@id": "N-580",
+      "ref": "N-580",
       "name": "Thomas Massie",
       "type": "person",
       "description": "Said to be honoring USS Liberty survivors; earlier TPUSA X exchange with him led Kolvet to say an intern runs the account.",
@@ -1010,8 +1010,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-650",
-      "ref": "N-650",
+      "@id": "N-648",
+      "ref": "N-648",
       "name": "Alexander Dugin",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 111. Russian philosopher whom Laura Loomer's source alleges met the host's husband in Italy; the host denies ever meeting him. Alias: Dugan.",
@@ -1034,8 +1034,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-627",
-      "ref": "N-627",
+      "@id": "N-625",
+      "ref": "N-625",
       "name": "Vladimir Putin",
       "type": "person",
       "description": "First named by the host at 00:01:02 in episode 111. Russian president; the host says her interview request was denied and critics claim he invited her to speak.",
@@ -1060,8 +1060,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-651",
-      "ref": "N-651",
+      "@id": "N-649",
+      "ref": "N-649",
       "name": "Marco Rubio",
       "type": "person",
       "description": "First named by the host at 00:06:42 in episode 111. Tagged as \"Secretary Rubio\" in Laura Loomer's post calling for the host to be investigated.",
@@ -1079,8 +1079,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-499",
-      "ref": "N-499",
+      "@id": "N-498",
+      "ref": "N-498",
       "name": "Phil Tourney",
       "type": "person",
       "description": "First named by the host at 00:14:26 in episode 111. USS Liberty survivor the host interviewed.",
@@ -1096,8 +1096,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-652",
-      "ref": "N-652",
+      "@id": "N-650",
+      "ref": "N-650",
       "name": "Tsar Alexander II",
       "type": "person",
       "description": "First named by the host at 00:19:26 in episode 111. Russian tsar assassinated in 1881 by the People's Will; the Church of the Savior on Spilled Blood marks the site.",
@@ -1117,8 +1117,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-653",
-      "ref": "N-653",
+      "@id": "N-651",
+      "ref": "N-651",
       "name": "Deborah Hertz",
       "type": "person",
       "description": "First named by the host at 00:20:16 in episode 111. Author of the article on Jewish women radicals in tsarist Russia that the host quotes.",
@@ -1136,8 +1136,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-654",
-      "ref": "N-654",
+      "@id": "N-652",
+      "ref": "N-652",
       "name": "Yakov Yurovsky",
       "type": "person",
       "description": "First named by the host at 00:22:27 in episode 111. Bolshevik executioner who, per the host, led the murder of the Romanov family.",
@@ -1153,8 +1153,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-655",
-      "ref": "N-655",
+      "@id": "N-653",
+      "ref": "N-653",
       "name": "Vladimir Lenin",
       "type": "person",
       "description": "First named by the host at 00:23:20 in episode 111. Soviet leader under whom, per the host, the communist regime and mass killings began; appointed Ludwig Martens per the NYT article.",
@@ -1173,8 +1173,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-656",
-      "ref": "N-656",
+      "@id": "N-654",
+      "ref": "N-654",
       "name": "Armie Hammer",
       "type": "person",
       "description": "First named by the host at 00:24:15 in episode 111. Actor whose family history the host introduces via the Hammer story.",
@@ -1192,8 +1192,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-657",
-      "ref": "N-657",
+      "@id": "N-655",
+      "ref": "N-655",
       "name": "Julius Hammer",
       "type": "person",
       "description": "First named by the host at 00:24:59 in episode 111. Per the New York Times article read by the host, financed the Soviet Bureau and converted smuggled diamonds into cash.",
@@ -1212,8 +1212,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-658",
-      "ref": "N-658",
+      "@id": "N-656",
+      "ref": "N-656",
       "name": "Armand Hammer",
       "type": "person",
       "description": "First named by the host at 00:24:59 in episode 111. Subject of the New York Times article \"The Riddle of Armand Hammer\"; denies the diamond account.",
@@ -1232,8 +1232,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-659",
-      "ref": "N-659",
+      "@id": "N-657",
+      "ref": "N-657",
       "name": "Ludwig Martens",
       "type": "person",
       "description": "First named by the host at 00:25:49 in episode 111. Russian-German engineer appointed by Lenin to head the unofficial Soviet Bureau in New York.",
@@ -1251,8 +1251,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-660",
-      "ref": "N-660",
+      "@id": "N-658",
+      "ref": "N-658",
       "name": "Dana Loesch",
       "type": "person",
       "description": "First named by the host at 00:41:37 in episode 111. Transcript spelling \"Dana Loesch\" (also addressed as \"Dana\" at 27:36 and 29:21). Summit speaker who recited widow verses and, per the host, said she was working with Putin and Dugin. Alias: Dana Loesch.",
@@ -1271,8 +1271,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-661",
-      "ref": "N-661",
+      "@id": "N-659",
+      "ref": "N-659",
       "name": "Vance Voetberg",
       "type": "person",
       "description": "First named by the host at 00:52:41 in episode 111. Alex Clark's fiancé; says he works for Alliance Defending Freedom and runs the blog Running on Butter.",
@@ -1826,7 +1826,7 @@
       "transcript_snippet": "The photo on our thumbnail is AI. President Putin is not, in fact, in studio today.",
       "mentions_person_refs": [
         "N-3",
-        "N-627"
+        "N-625"
       ]
     },
     {
@@ -1844,7 +1844,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-30",
-        "N-627"
+        "N-625"
       ]
     },
     {
@@ -1902,8 +1902,8 @@
       "transcript_snippet": "So, the latest is Putin himself has just asked Can- Candace Owens to speak today um at this convention.",
       "mentions_person_refs": [
         "N-3",
-        "N-627",
-        "N-650"
+        "N-625",
+        "N-648"
       ]
     },
     {
@@ -1924,7 +1924,7 @@
       "transcript_snippet": "Laura Loomer who said that sources told her that Alexander Dugin, which they were all very focused on Alexander Dugin, actually met with my husband George in Italy a month ago in some secret meeting.",
       "mentions_person_refs": [
         "N-60",
-        "N-650",
+        "N-648",
         "N-30",
         "N-3"
       ]
@@ -1949,7 +1949,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-650"
+        "N-648"
       ]
     },
     {
@@ -1972,7 +1972,7 @@
         "N-60",
         "N-3",
         "N-30",
-        "N-651"
+        "N-649"
       ]
     },
     {
@@ -2094,8 +2094,8 @@
       "investigative_direction": "Locate Massie's announcement (resolution, bill or event) and its date.",
       "transcript_snippet": "Then we have at the same time Thomas Massie announcing that he's doing something to honor the survivors of the USS Liberty Phil Tourney being the person that I interviewed.",
       "mentions_person_refs": [
-        "N-582",
-        "N-499",
+        "N-580",
+        "N-498",
         "N-3"
       ]
     },
@@ -2116,7 +2116,7 @@
       "investigative_direction": "Consult historical scholarship on the membership of Narodnaya Volya and the 1881 assassination.",
       "transcript_snippet": "Um we could can start with the assassination of Tsar Alexander II. It was plotted by a terrorist group in Russia, known in English as the People's Will.",
       "mentions_person_refs": [
-        "N-652"
+        "N-650"
       ]
     },
     {
@@ -2136,7 +2136,7 @@
       "investigative_direction": "Locate the Hertz article and check the figures against its cited membership data.",
       "transcript_snippet": "Among these 2,000, some radicals were 95 Jewish women who represented almost a third of the only 348 women that were in the party.",
       "mentions_person_refs": [
-        "N-653"
+        "N-651"
       ]
     },
     {
@@ -2154,7 +2154,7 @@
       "investigative_direction": "Consult historical records of the 1918 Yekaterinburg execution.",
       "transcript_snippet": "The assassination of the Romanov family was led by the Bolshevik executioner Yakov Yurovsky.",
       "mentions_person_refs": [
-        "N-654"
+        "N-652"
       ]
     },
     {
@@ -2170,7 +2170,7 @@
       "investigative_direction": "Compare the figure with demographic and historical estimates of Soviet repression deaths.",
       "transcript_snippet": "The communist regime began under Vladimir Lenin. Uh the greatest genocide of all time began. Is a better way of saying it. More than 60 million Russian Christians were then ruthlessly murdered.",
       "mentions_person_refs": [
-        "N-655"
+        "N-653"
       ]
     },
     {
@@ -2188,10 +2188,10 @@
       "investigative_direction": "Retrieve the New York Times article and the historical record of the Russian Soviet Government Bureau in New York.",
       "transcript_snippet": "But since Martens could not get control of the Russian funds immediately, he turned to Julius Hammer for interim financing.",
       "mentions_person_refs": [
+        "N-653",
         "N-655",
-        "N-657",
-        "N-658",
-        "N-659"
+        "N-656",
+        "N-657"
       ]
     },
     {
@@ -2209,8 +2209,8 @@
       "investigative_direction": "Check the article's source (a fellow party member's autobiography) and period customs and Lusk Committee records.",
       "transcript_snippet": "By 1918, the Soviet Union was financing the Soviet Bureau by smuggling diamonds into New York.",
       "mentions_person_refs": [
-        "N-657",
-        "N-658"
+        "N-655",
+        "N-656"
       ]
     },
     {
@@ -2230,7 +2230,7 @@
       "investigative_direction": "Consult the church's construction history.",
       "transcript_snippet": "The the church is called appropriately called the Church of the Savior on Spilled Blood and this is a video so you guys can see that's where his carriage was bombed.",
       "mentions_person_refs": [
-        "N-652",
+        "N-650",
         "N-3"
       ]
     },
@@ -2248,7 +2248,7 @@
       "transcript_snippet": "she truly believes that if Mark Levin could get away with it, he would hurt her.",
       "mentions_person_refs": [
         "N-46",
-        "N-245"
+        "N-244"
       ]
     },
     {
@@ -2327,8 +2327,8 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-451",
-        "N-452"
+        "N-450",
+        "N-451"
       ]
     },
     {
@@ -2344,8 +2344,8 @@
       "investigative_direction": "Search Victor Marx's interviews and books for statements about Greg Laurie as a mentor.",
       "transcript_snippet": "And actually someone emailed me and said that Victor Marx said that his like mentor was Greg Laurie.",
       "mentions_person_refs": [
-        "N-342",
-        "N-451"
+        "N-341",
+        "N-450"
       ]
     },
     {
@@ -2361,10 +2361,10 @@
       "investigative_direction": "Locate Loesch's broadcast or post making the statement.",
       "transcript_snippet": "Which brings us to Dana Loesch, the one who just said you can't go to Russia, and Candace is working with Putin and Dugan.",
       "mentions_person_refs": [
-        "N-660",
+        "N-658",
         "N-3",
-        "N-627",
-        "N-650"
+        "N-625",
+        "N-648"
       ]
     },
     {
@@ -2385,7 +2385,7 @@
       "investigative_direction": "Obtain the full speech recording from the summit.",
       "transcript_snippet": "Exodus 22:22, \"You shall not afflict any widow or fatherless child.",
       "mentions_person_refs": [
-        "N-660"
+        "N-658"
       ]
     },
     {
@@ -2463,7 +2463,7 @@
       "mentions_person_refs": [
         "N-99",
         "N-3",
-        "N-627"
+        "N-625"
       ]
     },
     {
@@ -2560,7 +2560,7 @@
       "transcript_snippet": "describing her husband as weird sharing a private correspondence with Charlie just to hurt her",
       "mentions_person_refs": [
         "N-99",
-        "N-552",
+        "N-551",
         "N-14",
         "N-1"
       ]
@@ -2581,7 +2581,7 @@
       "transcript_snippet": "they learned that she was engaged to a man seven years her junior, um who no person in their right mind would accuse of being masculine, a man named Vance Voytberg",
       "mentions_person_refs": [
         "N-99",
-        "N-661"
+        "N-659"
       ]
     },
     {
@@ -2601,7 +2601,7 @@
       "investigative_direction": "Check ADF staff listings and the Running on Butter site.",
       "transcript_snippet": "My name is Vance. I live in Scottsdale, Arizona. Um I'm here working for a Christian legal organization called Alliance Defending Freedom.",
       "mentions_person_refs": [
-        "N-661"
+        "N-659"
       ]
     },
     {
@@ -2662,7 +2662,7 @@
       "investigative_direction": "Locate the original TPUSA statement and its author.",
       "transcript_snippet": "they at first said that they didn't want to release the video because people would say that it was AI.",
       "mentions_person_refs": [
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2914,7 +2914,7 @@
       "transcript_snippet": "Andrew Kolvet made a phone call and said, \"Oh, we don't run our TPUSA account. An intern runs that.\"",
       "mentions_person_refs": [
         "N-14",
-        "N-582"
+        "N-580"
       ]
     },
     {

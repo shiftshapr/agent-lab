@@ -32,7 +32,7 @@
   - Artifact Families Introduced: A-2236, A-2237, A-2238, A-2239, A-2240, A-2241, A-2242, A-2243, A-2244, A-2245
   - Claim Range: C-3211–C-3221
   - New Nodes Introduced: N-10776, N-10779
-  - Reused Nodes Appearing: N-507, N-2, N-5, N-11, N-22, N-40, N-69, N-125, N-245, N-368, N-379, N-594, N-684, N-751, N-10006, N-10012, N-10026, N-10028, N-10070, N-10090, N-10110, N-10151, N-10323, N-10344, N-10541, N-10634, N-10715, N-10725, N-10731, N-10732, N-10751, N-10754, N-10772, N-10773, N-10774, N-11057, N-10778, N-786, N-11145, N-10777
+  - Reused Nodes Appearing: N-506, N-2, N-5, N-11, N-22, N-40, N-69, N-125, N-244, N-367, N-378, N-592, N-682, N-749, N-10006, N-10012, N-10026, N-10028, N-10070, N-10090, N-10110, N-10151, N-10323, N-10344, N-10541, N-10634, N-10715, N-10725, N-10731, N-10732, N-10751, N-10754, N-10772, N-10773, N-10774, N-11057, N-10778, N-784, N-11145, N-10777
   - Existing Nodes Reused: None in this episode beyond standard references
 
 ---
@@ -216,7 +216,7 @@ Video Timestamp: 00:09:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7488, C-7489, C-7491, C-7492, C-7493, C-7494, C-7495, N-1, N-3, N-40, N-786*
+*Related: C-7488, C-7489, C-7491, C-7492, C-7493, C-7494, C-7495, N-1, N-3, N-40, N-784*
 
 ---
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:23:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7507, C-7508, C-7509, C-7512, N-1, N-3, N-507, N-751*
+*Related: C-7507, C-7508, C-7509, C-7512, N-1, N-3, N-506, N-749*
 
 ---
 
@@ -244,7 +244,7 @@ Video Timestamp: 00:30:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7511, N-3, N-507, N-751*
+*Related: C-7511, N-3, N-506, N-749*
 
 ---
 
@@ -257,7 +257,7 @@ Video Timestamp: 00:47:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7529, N-1, N-160, N-3*
+*Related: C-7529, N-1, N-159, N-3*
 
 ---
 
@@ -270,7 +270,7 @@ Video Timestamp: 00:51:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7533, N-3, N-507*
+*Related: C-7533, N-3, N-506*
 
 ---
 
@@ -437,7 +437,7 @@ Mike Mitchell; the host's 'Mike Mitchell' undercover-officer account of the surr
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Blake Neff; the host answers his X post and questions his hotel and Sept 10 memory.
 
@@ -445,7 +445,7 @@ Blake Neff; the host answers his X post and questions his hotel and Sept 10 memo
 
 ---
 
-**N-245** Mark Levin
+**N-244** Mark Levin
 
 Mark Levin; his Iran remarks and the host's claim Trump follows him.
 
@@ -453,7 +453,7 @@ Mark Levin; his Iran remarks and the host's claim Trump follows him.
 
 ---
 
-**N-368** Danny Philip
+**N-367** Danny Philip
 
 Danny Philip; named as the person with Neff in Salt Lake City.
 
@@ -461,7 +461,7 @@ Danny Philip; named as the person with Neff in Salt Lake City.
 
 ---
 
-**N-379** Dan Bongino
+**N-378** Dan Bongino
 
 Dan Bongino; named in the screwdriver clarification and transparency promises.
 
@@ -469,7 +469,7 @@ Dan Bongino; named in the screwdriver clarification and transparency promises.
 
 ---
 
-**N-507** Christopher Bagley
+**N-506** Christopher Bagley
 
 Officer Christopher Bagley; his testimony on the rooftop video, body cam and companion.
 
@@ -477,7 +477,7 @@ Officer Christopher Bagley; his testimony on the rooftop video, body cam and com
 
 ---
 
-**N-594** Pete Hegseth
+**N-592** Pete Hegseth
 
 Pete Hegseth; his statements on the Iran school strike.
 
@@ -485,7 +485,7 @@ Pete Hegseth; his statements on the Iran school strike.
 
 ---
 
-**N-684** Jon Bray
+**N-682** Jon Bray
 
 Jon Bray; credited with showing the road mic glass is sticky.
 
@@ -493,7 +493,7 @@ Jon Bray; credited with showing the road mic glass is sticky.
 
 ---
 
-**N-751** Allan Robertson
+**N-749** Allan Robertson
 
 Allan Robertson; USU officer on the rooftop, subject of the Brady and threat-assessment update.
 
@@ -677,7 +677,7 @@ Blake Neff Employment History Account; reused for the Fox and Tucker remarks.
 
 ---
 
-**N-786** Mike Lee
+**N-784** Mike Lee
 
 First named by the host at 00:09:13 in episode 137 (spelled Mike Shamway Lee in the transcript). Utah senator the host says was slated to attend the Sept 10 UVU event and whose name was used as a cover story.
 
@@ -757,7 +757,7 @@ Claim Timestamp: 00:19:22
 Claim: During cross-examination, Officer Christopher Bagley testified that he did not review the police department video footage to determine whether anyone else had been on the rooftop between the suspect's jump and his own arrival.
 
 Anchored Artifacts: A-2242.1
-Mentions: N-507
+Mentions: N-506
 
 Related Nodes: N-10778
 
@@ -801,7 +801,7 @@ Claim Timestamp: 00:43:17
 Claim: In an audio segment the host plays, Mark Levin urges arming Iranian protesters and references testimony from a protest leader describing Iranian streets running "red with blood."
 
 Anchored Artifacts: A-2240.1
-Mentions: N-245
+Mentions: N-244
 
 Related Nodes:
 
@@ -816,7 +816,7 @@ Claim Timestamp: 00:13:19
 Claim: Blake Neff posted on X accusing Candace Owens of harassing "another random Utah police officer," accusing her of seeking dirt on him via former Marines, and characterizing her work as harassment for her "grift."
 
 Anchored Artifacts: A-2243.1
-Mentions: N-3, N-160
+Mentions: N-3, N-159
 
 Related Nodes:
 
@@ -919,7 +919,7 @@ Claim: The host says Blake Neff claims she is putting innocent lives at risk, an
 Transcript Snippet: But no, Blakey says I'm putting innocent lives at risk. Really? How?
 
 Anchored Artifacts: 
-Mentions: N-160, N-3, N-40
+Mentions: N-159, N-3, N-40
 Tags: relevance:context
 Investigative Direction: Locate Neff's X post making the 'innocent lives at risk' statement and compare it with his public statements on the Robinson case.
 
@@ -934,7 +934,7 @@ Claim: The host says that in the previous episode her team solved the mystery of
 Transcript Snippet: for having solved the mystery of who was on the rooftop at Loy Center with Officer Bagley.
 
 Anchored Artifacts: 
-Mentions: N-3, N-507, N-160
+Mentions: N-3, N-506, N-159
 Related Nodes: N-10772
 Supports: C-3199
 Tags: relevance:core
@@ -1106,7 +1106,7 @@ Claim: The host says Jon Bray showed that the glass for the Rode microphone is v
 Transcript Snippet: Remember John Bray showed us that that glass for the road mic is very, very, very sticky.
 
 Anchored Artifacts: A-2237.1
-Mentions: N-684, N-3
+Mentions: N-682, N-3
 Related Nodes: N-10779
 Tags: relevance:core
 Investigative Direction: Review John Bray's earlier demonstration and the microphone's materials to see whether the adhesive claim holds.
@@ -1122,7 +1122,7 @@ Claim: The host says Utah Senator Mike Lee was slated to attend the Charlie Kirk
 Transcript Snippet: Senator Lee was actually slated to attend the Charlie Kirk event at UVU on September 10th.
 
 Anchored Artifacts: A-2884.1
-Mentions: N-786, N-1, N-3
+Mentions: N-784, N-1, N-3
 Related Nodes: N-10012, N-10776
 Tags: relevance:core
 Investigative Direction: Ask Senator Lee's office and TPUSA for the event invitation list and whether Lee was ever confirmed as an attendee.
@@ -1138,7 +1138,7 @@ Claim: The host says that, as the DC story goes, Senator Lee cancelled early in 
 Transcript Snippet: that week the senator had to cancel very early on in the week due to the National Defense Authorization Act
 
 Anchored Artifacts: A-2884.1
-Mentions: N-786
+Mentions: N-784
 Related Nodes: N-10776
 Tags: relevance:core
 Investigative Direction: Check the Senate schedule and NDAA floor votes for the week of September 8, 2025 and any Lee office statement about the cancellation.
@@ -1154,7 +1154,7 @@ Claim: The host says Mike Lee was born in Arizona, spent most of his upbringing 
 Transcript Snippet: His father was actually the founding dean of BYU's law school program.
 
 Anchored Artifacts: 
-Mentions: N-786
+Mentions: N-784
 Tags: relevance:tangential
 Investigative Direction: Check Lee's official biography for his birthplace and his father's role at BYU Law.
 
@@ -1169,7 +1169,7 @@ Claim: The host says a UVU source told her that after the assassination Mike Lee
 Transcript Snippet: I've got a source that UVU tells me that after the assassination of Charlie, Mike Lee was contacted due to something unusual that took place on campus the day before the shooting.
 
 Anchored Artifacts: A-2884.1
-Mentions: N-786, N-1, N-3
+Mentions: N-784, N-1, N-3
 Related Nodes: N-10776, N-10012
 Tags: relevance:core
 Investigative Direction: Ask UVU police and Senator Lee's office whether Lee's office was contacted after September 10, 2025 about a campus incident and what was said.
@@ -1185,7 +1185,7 @@ Claim: The host says that on September 9 a person who looked suspicious and appe
 Transcript Snippet: he told the campus security that he was Senator Mike Lee's bodyguard, scoping out the area to ensure that the senator was going to be safe ahead of the event.
 
 Anchored Artifacts: A-2884.1
-Mentions: N-786, N-3
+Mentions: N-784, N-3
 Related Nodes: N-10776, N-10028
 Tags: relevance:core
 Investigative Direction: Request UVU security and police incident logs, radio traffic and any field-contact record for September 9, 2025.
@@ -1201,7 +1201,7 @@ Claim: The host says Lee's office had already cancelled by the time of the Septe
 Transcript Snippet: And I have done some digging and it also appears that Mike Lee is pretty down to earth. He doesn't actually have a security apparatus, a security team.
 
 Anchored Artifacts: A-2884.1
-Mentions: N-786, N-3
+Mentions: N-784, N-3
 Related Nodes: N-10776
 Tags: relevance:core
 Investigative Direction: Ask Lee's Senate office whether any staff or security accompanied him to Utah events in September 2025.
@@ -1233,7 +1233,7 @@ Claim: The host says TPUSA event staff, club students, university planners and p
 Transcript Snippet: Certainly Turning Point USA event staff would have known. Club students would have known.
 
 Anchored Artifacts: A-2884.1
-Mentions: N-786, N-3
+Mentions: N-784, N-3
 Related Nodes: N-10776
 Tags: relevance:core
 Investigative Direction: Ask UVU for camera coverage of the September 9 contact and a list of everyone who received the VIP attendee list.
@@ -1249,7 +1249,7 @@ Claim: The host reads Neff's post as saying she suggests it is suspicious that t
 Transcript Snippet: suggests that is suspiciously timed that he moved to Utah a year before Charlie's shooting
 
 Anchored Artifacts: A-2243.1
-Mentions: N-160, N-3
+Mentions: N-159, N-3
 Supports: C-3218
 Tags: relevance:context
 Investigative Direction: Locate Neff's exact X post to confirm the sergeant and move-date wording.
@@ -1297,7 +1297,7 @@ Claim: The host says the consistent public messaging from Dan Bongino, Kash Pate
 Transcript Snippet: Dan Bonino, Kash Patel, Erika Kirk, Turning Point USA. We didn't edit the videos. We don't lie about what was on the footage.
 
 Anchored Artifacts: 
-Mentions: N-379, N-69, N-2, N-3
+Mentions: N-378, N-69, N-2, N-3
 Tags: relevance:core
 Investigative Direction: Collect each named person's public transparency statements and test them against what has been released.
 
@@ -1329,7 +1329,7 @@ Claim: The host says blue-collar readers revolted against the CNN screwdriver st
 Transcript Snippet: 4 days later we hear from Kash Patel and Dan Bonino and they clarify that you know the footage is grainy uh but the screwdriver was actually found on the rooftop
 
 Anchored Artifacts: A-2238.1
-Mentions: N-69, N-379, N-3
+Mentions: N-69, N-378, N-3
 Related Nodes: N-10777, N-10731
 Supports: C-3054
 Tags: relevance:core
@@ -1346,7 +1346,7 @@ Claim: The host says Officer Bagley's body cam died seemingly without warning at
 Transcript Snippet: his body cam dies seemingly without warning at exactly the right time. And there's a ton of warning that should have been happening.
 
 Anchored Artifacts: 
-Mentions: N-507, N-3
+Mentions: N-506, N-3
 Related Nodes: N-10725, N-10773
 Supports: C-3042
 Tags: relevance:core
@@ -1363,7 +1363,7 @@ Claim: In the played testimony, Officer Bagley says people were up on the roof l
 Transcript Snippet: it wasn't until I went to the PD and actually saw him jump off of the building that I knew he was off the building.
 
 Anchored Artifacts: A-2242.1
-Mentions: N-507
+Mentions: N-506
 Related Nodes: N-10778
 Supports: C-3044
 Tags: relevance:core
@@ -1380,7 +1380,7 @@ Claim: In the played testimony, Bagley answers 'I didn't notice anybody' when as
 Transcript Snippet: So, you did not review the video to see if there was someone between you that individual jumping off and you coming on
 
 Anchored Artifacts: A-2242.1
-Mentions: N-507
+Mentions: N-506
 Related Nodes: N-10778
 Supports: C-3214
 Tags: relevance:core
@@ -1397,7 +1397,7 @@ Claim: The host says she can exclusively tell viewers that the answer to whether
 Transcript Snippet: I can exclusively tell you guys that the answer to that question is yes. Yes, somebody did get on that rooftop before you, didn't he, Officer Bagley?
 
 Anchored Artifacts: A-2242.1
-Mentions: N-507, N-3
+Mentions: N-506, N-3
 Related Nodes: N-10772, N-10778
 Tags: relevance:core
 Investigative Direction: Obtain rooftop video between the jump and 12:44 p.m. and identify anyone who appears on the Losee roof before Bagley.
@@ -1413,7 +1413,7 @@ Claim: The host says that if Bagley found a screwdriver and somebody was on the 
 Transcript Snippet: it's plausible that this unknown person could have planted the screwdriver.
 
 Anchored Artifacts: 
-Mentions: N-507, N-3
+Mentions: N-506, N-3
 Related Nodes: N-10777, N-10772
 Tags: relevance:core
 Investigative Direction: Establish a time-stamped chain of custody for the screwdriver and who was on the roof before it was logged.
@@ -1429,7 +1429,7 @@ Claim: The host says many emails misspelled Allan Robertson's name and described
 Transcript Snippet: He said he abs absolutely was not let go or transferred over any conduct issues.
 
 Anchored Artifacts: A-2885.1
-Mentions: N-751, N-3
+Mentions: N-749, N-3
 Related Nodes: N-10774
 Qualifies: C-3203
 Tags: relevance:core
@@ -1446,7 +1446,7 @@ Claim: The host says Allan Robertson and his partner from Utah State University 
 Transcript Snippet: They were there because they were doing a threat assessment for their event that was 10 days later.
 
 Anchored Artifacts: A-2885.1
-Mentions: N-751, N-1, N-3
+Mentions: N-749, N-1, N-3
 Related Nodes: N-11144
 Supports: C-3199
 Tags: relevance:core
@@ -1463,7 +1463,7 @@ Claim: The host says that because of their presence the USU officers would have 
 Transcript Snippet: So it's just very odd that officer Bagley is pretending he couldn't find out who these officers were when they were in communication with his chief.
 
 Anchored Artifacts: A-2885.1
-Mentions: N-507, N-751, N-3
+Mentions: N-506, N-749, N-3
 Related Nodes: N-10772
 Supports: C-3196
 Tags: relevance:core
@@ -1480,7 +1480,7 @@ Claim: The host says that among the many emails about Christopher Bagley and his
 Transcript Snippet: there were not many people or any people in our inbox that were defending Christopher Bagley, which is interesting.
 
 Anchored Artifacts: 
-Mentions: N-507, N-3
+Mentions: N-506, N-3
 Tags: relevance:context
 Investigative Direction: Review Bagley's personnel and disciplinary history through records requests to UVU police.
 
@@ -1495,7 +1495,7 @@ Claim: The host reads a viewer comment saying Officer Bagley slips in his testim
 Transcript Snippet: he actually does slip and say Allen at one point, so he definitely knew who the person was.
 
 Anchored Artifacts: A-2886.1
-Mentions: N-507, N-751, N-3
+Mentions: N-506, N-749, N-3
 Related Nodes: N-10772
 Tags: relevance:core
 Investigative Direction: Check the trial recording for the moment Bagley says 'Allen' and the question asked.
@@ -1511,7 +1511,7 @@ Claim: The host says by all accounts Allan Robertson left on his own volition be
 Transcript Snippet: by all accounts, it seems like he left by on his own valition and he just he has young kids and wanted to leave the city life.
 
 Anchored Artifacts: A-2885.1
-Mentions: N-751, N-3
+Mentions: N-749, N-3
 Related Nodes: N-10774
 Qualifies: C-3203
 Tags: relevance:core
@@ -1560,7 +1560,7 @@ Claim: The host says Blake Neff at first thought he stayed in Orem on the night 
 Transcript Snippet: He at first thought he stayed in Orum, then said he maybe misspoke. Then he remembered that actually no, he stayed in Salt Lake City.
 
 Anchored Artifacts: 
-Mentions: N-160, N-3
+Mentions: N-159, N-3
 Related Nodes: N-10715, N-10732
 Supports: C-3080
 Tags: relevance:core
@@ -1577,7 +1577,7 @@ Claim: The host says Neff did not remember what he did in Salt Lake City, that h
 Transcript Snippet: He didn't even remember that he was with Danny Phillip or where him and Danny Phillip went, how they got the whole thing is crazy.
 
 Anchored Artifacts: 
-Mentions: N-160, N-368, N-3
+Mentions: N-159, N-367, N-3
 Related Nodes: N-10715
 Supports: C-3081
 Tags: relevance:core
@@ -1594,7 +1594,7 @@ Claim: The host says her team determined that at least some members of the TPUSA
 Transcript Snippet: We were able to determine that the some members at least of the Turning Point USA team stayed at the Asher Adams um autograph collection hotel in Salt Lake City.
 
 Anchored Artifacts: A-2241.1
-Mentions: N-160, N-3
+Mentions: N-159, N-3
 Related Nodes: N-10732, N-10715
 Supports: C-3215
 Tags: relevance:core
@@ -1644,7 +1644,7 @@ Claim: The host says Donald Trump first said Iran did it, Pete Hegseth followed 
 Transcript Snippet: At first, Trump actually came out and he said, "No, we didn't do it. It was Iran." Pete Hexth followed up with the same message.
 
 Anchored Artifacts: A-2239.1
-Mentions: N-5, N-594, N-3
+Mentions: N-5, N-592, N-3
 Related Nodes: N-11145
 Tags: relevance:tangential
 Investigative Direction: Collect the dated Trump and Hegseth statements on the school strike and the formal investigation announcement.
@@ -1676,7 +1676,7 @@ Claim: In the Sky News clip, Donald Trump says his opinion based on what he has 
 Transcript Snippet: My opinion, based on what I've seen, that was done by Iran.
 
 Anchored Artifacts: A-2239.1
-Mentions: N-5, N-594
+Mentions: N-5, N-592
 Related Nodes: N-11145
 Tags: relevance:tangential
 Investigative Direction: Retrieve the original press-conference recordings for both quotes.
@@ -1772,7 +1772,7 @@ Claim: The host says Trump takes calls and retweets from Mark Levin, whom she ca
 Transcript Snippet: Whose call was he taking? Who is he retweeting? Psychos like actual psychopaths like Mark Levvin
 
 Anchored Artifacts: A-2240.1
-Mentions: N-5, N-245, N-3
+Mentions: N-5, N-244, N-3
 Tags: relevance:tangential
 Investigative Direction: Review Trump's reposts and Levin communications during the Iran war to check the host's characterization.
 
@@ -1787,7 +1787,7 @@ Claim: The host says she does not believe anything about Charlie Kirk being clos
 Transcript Snippet: I don't believe anything about Charlie being close to Blake.
 
 Anchored Artifacts: A-2886.2
-Mentions: N-160, N-1, N-3
+Mentions: N-159, N-1, N-3
 Related Nodes: N-11057
 Tags: relevance:core
 Investigative Direction: Collect public evidence of Kirk's working relationship with Neff, such as texts, show credits and on-air mentions.
@@ -1803,7 +1803,7 @@ Claim: The host says Neff sits in his current seat only because Tucker Carlson d
 Transcript Snippet: the only reason he's sitting there is because Tucker Carlson uh did what he could to help him after he got let go from the from Fox
 
 Anchored Artifacts: 
-Mentions: N-160, N-22, N-3
+Mentions: N-159, N-22, N-3
 Related Nodes: N-11057, N-10006
 Tags: relevance:context
 Investigative Direction: Verify Neff's departure from Fox News and any Tucker Carlson role in his hiring.

@@ -11,15 +11,15 @@
 - **Transcript SHA-256**: 5587ba28d19ec6d370a3cc93963758ab5a40894ae434e8384f2029626bd3011c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-947, N-948, N-11402, N-11403, N-11404, N-11405
+  - Tip-minted Nodes (supplement_2026-10g): N-944, N-945, N-11402, N-11403, N-11404, N-11405
   - Hole-minted Nodes (reintro-ep128): N-10777
   - Tip-minted Nodes (reintro-ep128): N-11143, N-11305
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14712–C-14796
-  - Reused Nodes Appearing: N-10732, N-10737, N-10739, N-10736, N-10735, N-2, N-3, N-4, N-5, N-11, N-22, N-36, N-40, N-89, N-97, N-154, N-166, N-210, N-225, N-254, N-593, N-609, N-691, N-10000, N-10019, N-10032, N-10090, N-10094, N-10249, N-10257, N-10271, N-10346, N-10347, N-10383, N-10435, N-10539, N-10651, N-10681, N-10687, N-10699, N-10715, N-10727, N-10731, N-10748, N-10769, N-11094, N-11128
+  - Reused Nodes Appearing: N-10732, N-10737, N-10739, N-10736, N-10735, N-2, N-3, N-4, N-5, N-11, N-22, N-36, N-40, N-89, N-97, N-153, N-165, N-209, N-224, N-253, N-591, N-607, N-689, N-10000, N-10019, N-10032, N-10090, N-10094, N-10249, N-10257, N-10271, N-10346, N-10347, N-10383, N-10435, N-10539, N-10651, N-10681, N-10687, N-10699, N-10715, N-10727, N-10731, N-10748, N-10769, N-11094, N-11128
  - New Nodes Introduced: N-10732, N-10733, N-10734, N-10737, N-10738, N-10739
- - Hole-minted Nodes (wave3): N-508, N-509, N-510, N-511
- - Reused Nodes Appearing: N-10149, N-379, N-506
+ - Hole-minted Nodes (wave3): N-507, N-508, N-509, N-510
+ - Reused Nodes Appearing: N-10149, N-378, N-505
  - (see registers)
 
 ---
@@ -329,7 +329,7 @@ Video Timestamp: 00:10:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14724, N-10090, N-154, N-3*
+*Related: C-14724, N-10090, N-153, N-3*
 
 ---
 
@@ -355,7 +355,7 @@ Video Timestamp: 00:22:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14746, N-10738, N-3, N-506*
+*Related: C-14746, N-10738, N-3, N-505*
 
 ---
 
@@ -368,7 +368,7 @@ Video Timestamp: 00:26:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14752, C-14753, N-1, N-10249, N-254, N-3*
+*Related: C-14752, C-14753, N-1, N-10249, N-253, N-3*
 
 ---
 
@@ -456,36 +456,36 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-379** Dan Bongino
+**N-378** Dan Bongino
 
 Reused; first introduced in episode 15.
 
 
-**N-508** Beau Mason
+**N-507** Beau Mason
 
 First named by the host at 00:08:44 in episode 128. Aliases: Beau Mason, Beau "Bo" Mason.
 
 *Related: C-3061, C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3071, C-3076*
 
-**N-506** Jennifer Faumuina
+**N-505** Jennifer Faumuina
 
 Named by the host at 00:15:24 in episode 128; first introduced in episode 126.
 
 *Related: C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3071, C-3076, C-3077*
 
-**N-510** Misiona Faumuina
+**N-509** Misiona Faumuina
 
 First named by the host at 00:23:06 in episode 128.
 
 *Related: C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3076, C-3077, C-3078*
 
-**N-509** Sapena Faumuina
+**N-508** Sapena Faumuina
 
 First named by the host at 00:23:06 in episode 128.
 
 *Related: C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3076, C-3077*
 
-**N-511** Sid Rosen
+**N-510** Sid Rosen
 
 First named by the host at 00:24:14 in episode 128.
 
@@ -726,7 +726,7 @@ Ben Shapiro; subject of the lunch question.
 
 ---
 
-**N-134** Robert Bohls
+**N-133** Robert Bohls
 
 Robert Bohls; FBI Salt Lake City head from September 2, 2025.
 
@@ -734,7 +734,7 @@ Robert Bohls; FBI Salt Lake City head from September 2, 2025.
 
 ---
 
-**N-154** Robert J. O'Neill
+**N-153** Robert J. O'Neill
 
 Robert O'Neill; former SEAL sniper interviewed on Newsmax.
 
@@ -742,7 +742,7 @@ Robert O'Neill; former SEAL sniper interviewed on Newsmax.
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Blake Neff; his hotel statements.
 
@@ -750,7 +750,7 @@ Blake Neff; his hotel statements.
 
 ---
 
-**N-166** Howard Lutnick
+**N-165** Howard Lutnick
 
 Howard Lutnick; named in the host's opening remarks.
 
@@ -758,7 +758,7 @@ Howard Lutnick; named in the host's opening remarks.
 
 ---
 
-**N-210** Joe Kent
+**N-209** Joe Kent
 
 Joe Kent; named as confirming Charlie's Iran war opposition.
 
@@ -766,7 +766,7 @@ Joe Kent; named as confirming Charlie's Iran war opposition.
 
 ---
 
-**N-225** Shawn Ryan
+**N-224** Shawn Ryan
 
 Shawn Ryan; host of the show on which Turek spoke.
 
@@ -774,7 +774,7 @@ Shawn Ryan; host of the show on which Turek spoke.
 
 ---
 
-**N-254** Courtney Love
+**N-253** Courtney Love
 
 Courtney Love; the host relays her Mormon mafia remarks.
 
@@ -782,7 +782,7 @@ Courtney Love; the host relays her Mormon mafia remarks.
 
 ---
 
-**N-267** Brian Harpole
+**N-266** Brian Harpole
 
 Brian Harpole; his no-CPR account.
 
@@ -790,7 +790,7 @@ Brian Harpole; his no-CPR account.
 
 ---
 
-**N-593** Bret Weinstein
+**N-591** Bret Weinstein
 
 Bret Weinstein; named as confirming Charlie's Iran war opposition.
 
@@ -798,7 +798,7 @@ Bret Weinstein; named as confirming Charlie's Iran war opposition.
 
 ---
 
-**N-609** Graham Allen
+**N-607** Graham Allen
 
 Graham Allen; one of the influencers the host says received sharp footage.
 
@@ -806,7 +806,7 @@ Graham Allen; one of the influencers the host says received sharp footage.
 
 ---
 
-**N-691** Curtis Kolvet
+**N-689** Curtis Kolvet
 
 Curtis Kolvet; reused for Andrew Kolvet's brother, a lieutenant colonel (the transcript says only Lieutenant Colonel Kolvet).
 
@@ -1030,7 +1030,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-947** Itamar Ben-Gvir
+**N-944** Itamar Ben-Gvir
 
 First named by the host at 00:00:01 in episode 128, as 'Ben Gvir'.
 
@@ -1038,7 +1038,7 @@ First named by the host at 00:00:01 in episode 128, as 'Ben Gvir'.
 
 ---
 
-**N-948** Blaine Holt
+**N-945** Blaine Holt
 
 Air Force Brigadier General who joined Robert O'Neill on Newsmax; first named by the host at 00:04:42 in episode 128.
 
@@ -1091,7 +1091,7 @@ Claim Timestamp: 00:03:29
 Claim: Robert O'Neill publicly stated that the shirt movement on the published footage of Charlie Kirk did not match the behavior he has observed in shootings he has personally conducted.
 
 Anchored Artifacts: A-2153.1
-Mentions: N-154, N-1
+Mentions: N-153, N-1
 
 Related Nodes: N-10734
 
@@ -1106,7 +1106,7 @@ Claim Timestamp: 00:05:31
 Claim: In a clip the host plays, Brigadier General Blaine Holt says he rejects the explanation that the bullet struck Charlie Kirk's spine and agrees with Robert O'Neill's broader critique.
 
 Anchored Artifacts: A-2153.2
-Mentions: N-948, N-154, N-1
+Mentions: N-945, N-153, N-1
 
 Related Nodes: N-10734
 
@@ -1136,7 +1136,7 @@ Claim Timestamp: 00:09:39
 Claim: The host says neither Kash Patel nor Beau Mason interrupted or corrected Governor Cox during his statement about rooftop clothing changes at the September 12, 2025 briefing.
 
 Anchored Artifacts: A-2154.1
-Mentions: N-41, N-69, N-508
+Mentions: N-41, N-69, N-507
 
 Related Nodes:
 
@@ -1151,7 +1151,7 @@ Claim Timestamp: 00:12:43
 Claim: On September 15, 2025, FBI Deputy Director Dan Bongino told Megyn Kelly that the rooftop video was "very grainy" and said the FBI lab has excellent tools and had been handling it for days.
 
 Anchored Artifacts: A-2155.1
-Mentions: N-46, N-379
+Mentions: N-46, N-378
 
 Related Nodes: N-10736
 
@@ -1166,7 +1166,7 @@ Claim Timestamp: 00:16:37
 Claim: The host says Jennifer Faumuina appeared on Season 2 Episode 1 of Netflix's *Worst Roommate Ever*, and in a clip the host plays, Faumuina says she had been with the Utah State Bureau of Investigation for 8 years and was assigned full-time to the FBI's Joint Terrorism Task Force.
 
 Anchored Artifacts: A-2156.1
-Mentions: N-506
+Mentions: N-505
 
 Related Nodes: N-10738
 
@@ -1181,7 +1181,7 @@ Claim Timestamp: 00:17:10
 Claim: The host says her team found Jennifer Faumuina playing basketball at a private school in Hawaii in 2003.
 
 Anchored Artifacts: A-2157.1
-Mentions: N-506
+Mentions: N-505
 
 Related Nodes:
 
@@ -1196,7 +1196,7 @@ Claim Timestamp: 00:17:20
 Claim: The host says Jennifer Faumuina studied criminal justice at Weber State University and graduated in 2008.
 
 Anchored Artifacts: A-2157.2
-Mentions: N-506
+Mentions: N-505
 
 Related Nodes:
 
@@ -1211,7 +1211,7 @@ Claim Timestamp: 00:19:40
 Claim: Per the training photo the host shows, Jennifer Faumuina apparently appears in a Utah Department of Public Safety post-training session dated May 20, 2013, alongside Beau Mason.
 
 Anchored Artifacts: A-2157.3
-Mentions: N-506, N-508
+Mentions: N-505, N-507
 
 Related Nodes:
 
@@ -1226,7 +1226,7 @@ Claim Timestamp: 00:17:45
 Claim: The host says a 2016 article shows Jennifer Faumuina among the volunteer troopers providing crowd control at the Republican National Convention in Ohio.
 
 Anchored Artifacts: A-2157.4
-Mentions: N-506
+Mentions: N-505
 
 Related Nodes:
 
@@ -1241,7 +1241,7 @@ Claim Timestamp: 00:18:15
 Claim: The host says public salary records show Jennifer Faumuina as a paid officer with the Utah Department of Public Safety from 2018 onward, and none list her as paid before then.
 
 Anchored Artifacts: A-2157.5
-Mentions: N-506
+Mentions: N-505
 
 Related Nodes:
 
@@ -1256,7 +1256,7 @@ Claim Timestamp: 00:19:40
 Claim: Per the training photo the host shows, Jennifer Faumuina and Beau Mason apparently appear together in a May 20, 2013 Utah DPS post-training session.
 
 Anchored Artifacts: A-2157.3
-Mentions: N-506, N-508
+Mentions: N-505, N-507
 
 Related Nodes:
 
@@ -1271,7 +1271,7 @@ Claim Timestamp: 00:20:05
 Claim: The host says she shows a photograph in which Jennifer Faumuina and Beau Mason appear together in 2023 when Faumuina was sworn in as a sergeant.
 
 Anchored Artifacts: A-2157.5
-Mentions: N-506, N-508
+Mentions: N-505, N-507
 
 Related Nodes:
 
@@ -1286,7 +1286,7 @@ Claim Timestamp: 00:19:15
 Claim: The host says Beau "Bo" Mason was appointed Commissioner of the Utah Department of Public Safety on June 19, 2025 by Governor Cox.
 
 Anchored Artifacts: A-2158.1
-Mentions: N-508, N-41
+Mentions: N-507, N-41
 
 Related Nodes: N-10733
 
@@ -1301,7 +1301,7 @@ Claim Timestamp: 00:20:36
 Claim: The host says Andrew Zenger was appointed CEO of Timpanogos Hospital on August 18, 2025, just a couple of weeks before the assassination.
 
 Anchored Artifacts: A-2158.2
-Mentions: N-135
+Mentions: N-134
 
 Related Nodes: N-10733
 
@@ -1316,7 +1316,7 @@ Claim Timestamp: 00:21:14
 Claim: The host says Judge Tony Graf received a judicial appointment in May 2025.
 
 Anchored Artifacts: A-2158.3
-Mentions: N-136
+Mentions: N-135
 
 Related Nodes: N-10733
 
@@ -1331,7 +1331,7 @@ Claim Timestamp: 00:21:14
 Claim: The host says Special Agent Robert Bohls took command of the FBI Salt Lake City Field Office on September 2, 2025 – eight days before the assassination.
 
 Anchored Artifacts: A-2158.5
-Mentions: N-134
+Mentions: N-133
 
 Related Nodes: N-10733
 
@@ -1346,7 +1346,7 @@ Claim Timestamp: 00:22:12
 Claim: A 2004 article identifies Robert Bohls as having served with the Provo Police Department before joining the military and later the FBI.
 
 Anchored Artifacts: A-2159.1
-Mentions: N-134
+Mentions: N-133
 
 Related Nodes:
 
@@ -1361,7 +1361,7 @@ Claim Timestamp: 00:23:20
 Claim: The host says Sgt. Jennifer Faumuina's uncle, Misiona Faumuina, died in 1995 in Hawaii after being beaten as part of a reported gang initiation ritual; his brother Sapena Faumuina was publicly vocal in the press.
 
 Anchored Artifacts: A-2160.1
-Mentions: N-506, N-510, N-509
+Mentions: N-505, N-509, N-508
 
 Related Nodes:
 
@@ -1376,7 +1376,7 @@ Claim Timestamp: 00:24:14
 Claim: Per 1995 press coverage the host shows, Misiona Faumuina was described as a devout Mormon who attended church in Waipahu every Sunday, in the Maquilo Ward where the family lived, with his brother Sapena noting he was preparing for a mission.
 
 Anchored Artifacts: A-2160.1
-Mentions: N-510, N-509
+Mentions: N-509, N-508
 
 Related Nodes:
 
@@ -1391,7 +1391,7 @@ Claim Timestamp: 00:25:35
 Claim: A 1995 article names Sid Rosen as the head of "Adult Friends for Youth," an organization referenced in coverage of Misiona Faumuina's death.
 
 Anchored Artifacts: A-2160.2
-Mentions: N-510, N-511
+Mentions: N-509, N-510
 
 Related Nodes:
 
@@ -1406,7 +1406,7 @@ Claim Timestamp: 00:31:07
 Claim: Frank Turek stated on a podcast that Brian Harpole's 'no CPR' account and his own account of attempting CPR for 20-30 seconds at the end of the ride are not contradictory but rather emphasize different details.
 
 Anchored Artifacts: A-2161.1
-Mentions: N-267, N-7
+Mentions: N-266, N-7
 
 Related Nodes: N-10737
 
@@ -1421,7 +1421,7 @@ Claim Timestamp: 00:36:15
 Claim: The host says Blake Neff initially said he spent the night in Orem, UT, then revised the statement to Salt Lake City, where she says the Turning Point USA team stayed.
 
 Anchored Artifacts: A-2162.1, A-2162.2
-Mentions: N-160
+Mentions: N-159
 
 Related Nodes: N-10732
 
@@ -1436,7 +1436,7 @@ Claim Timestamp: 00:36:56
 Claim: Blake Neff stated on the record that he did not remember the name of the hotel in Salt Lake City where the Turning Point USA team stayed on the night of September 10, 2025.
 
 Anchored Artifacts: A-2162.2
-Mentions: N-160
+Mentions: N-159
 
 Related Nodes: N-10732
 
@@ -1451,7 +1451,7 @@ Claim Timestamp: 00:41:03
 Claim: Lt. Col. Kolvet posted on X that he is Andrew Kolvet's only brother, that he never worked at Fort Huachuca, and that he visited the installation once for a 3-day MP unit training event.
 
 Anchored Artifacts: A-2163.1
-Mentions: N-14, N-691
+Mentions: N-14, N-689
 
 Related Nodes: N-10739
 
@@ -1468,7 +1468,7 @@ Claim: The host says Itamar Ben-Gvir and Benjamin Netanyahu explicitly came out 
 Transcript Snippet: having them explicitly come out and say that they were rooting uh for that team to win was not helpful.
 
 Anchored Artifacts: 
-Mentions: N-947, N-36, N-3
+Mentions: N-944, N-36, N-3
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: Locate the public statements or posts by Ben-Gvir and Netanyahu about the match and confirm which team they backed.
@@ -1484,7 +1484,7 @@ Claim: The host says that Howard Lutnick and President Trump involved themselves
 Transcript Snippet: But as soon as the corrupt Howard Lutnick and President Trump got involved and 9/11 crew getting back together, they stuck their noses in it.
 
 Anchored Artifacts: 
-Mentions: N-166, N-5, N-3
+Mentions: N-165, N-5, N-3
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: Identify what involvement by Lutnick and Trump with the team the host means and find contemporaneous coverage.
@@ -1500,7 +1500,7 @@ Claim: The host says Andrew Kolvet's big brother, a lieutenant colonel in the mi
 Transcript Snippet: Andrew Kolvet's big brother, Lieutenant Colonel in the military, came to Andrew's defense on X this weekend.
 
 Anchored Artifacts: A-2163.1
-Mentions: N-14, N-691, N-3
+Mentions: N-14, N-689, N-3
 Related Nodes: N-10739
 Supports: C-8152
 Tags: relevance:context
@@ -1517,7 +1517,7 @@ Claim: Robert O'Neill says on Newsmax that nobody started first aid on Charlie K
 Transcript Snippet: The just the fact that no one started doing first aid to Charlie Kirk, they were more concerned about getting SIM cards out of cameras, removing cameras, and then getting him off the X somehow.
 
 Anchored Artifacts: A-2153.1
-Mentions: N-154, N-1
+Mentions: N-153, N-1
 Related Nodes: N-10734
 Tags: relevance:core
 Investigative Direction: Compare with the UVU and bystander video of the first minute after the shot, and ask O'Neill for his source on the SIM card and camera removal.
@@ -1533,7 +1533,7 @@ Claim: Robert O'Neill says he has been told that the crime scene was paved over 
 Transcript Snippet: I've been told they paved it over a couple days later
 
 Anchored Artifacts: A-2153.1
-Mentions: N-154, N-1
+Mentions: N-153, N-1
 Related Nodes: N-10734
 Supports: C-1386
 Tags: relevance:core
@@ -1550,7 +1550,7 @@ Claim: Robert O'Neill says Erika Kirk was very quick to forgive the alleged shoo
 Transcript Snippet: she's really quick to forgive the alleged shooter, which technically says that was him cuz I forgive him
 
 Anchored Artifacts: A-2153.1
-Mentions: N-154, N-2, N-3, N-40
+Mentions: N-153, N-2, N-3, N-40
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: Review Erika Kirk's memorial remarks about forgiving the accused and the dates she criticized the host.
@@ -1566,7 +1566,7 @@ Claim: Air Force Brigadier General Blaine Holt says on Newsmax that he is with R
 Transcript Snippet: Absolutely not. I I I I'm with Rob. Something exploded on him.
 
 Anchored Artifacts: A-2153.2
-Mentions: N-948, N-154, N-1
+Mentions: N-945, N-153, N-1
 Related Nodes: N-10734
 Tags: relevance:core
 Investigative Direction: Ask Holt what he saw that supports an explosion and compare with the autopsy and wound descriptions.
@@ -1582,7 +1582,7 @@ Claim: General Holt says the explanation put out by the Justice Department that 
 Transcript Snippet: the garbage that was foisted upon us from the Justice Department that day where they seemingly solved the case in about eight hot seconds.
 
 Anchored Artifacts: A-2153.2
-Mentions: N-948
+Mentions: N-945
 Related Nodes: N-10734
 Tags: relevance:context
 Investigative Direction: Pin down the time between the shooting and the first DOJ or FBI public attribution of the suspect.
@@ -1598,7 +1598,7 @@ Claim: General Holt says you are not going to take a .30-06 with a kid who has n
 Transcript Snippet: You're not going to take a.30-06 with a kid who's never killed anybody up onto a roof.
 
 Anchored Artifacts: A-2153.2
-Mentions: N-948, N-154, N-40
+Mentions: N-945, N-153, N-40
 Related Nodes: N-10734
 Tags: relevance:context
 Investigative Direction: Review Robinson's firearms and hunting history in the charging documents.
@@ -1663,7 +1663,7 @@ Claim: The host says that in the part of his interview she did not play, Robert 
 Transcript Snippet: He he says, "This isn't even the right screwdriver to take apart the gun that they're telling you that he took apart.
 
 Anchored Artifacts: A-3338.1
-Mentions: N-154, N-3
+Mentions: N-153, N-3
 Related Nodes: N-10090
 Supports: C-1243
 Tags: relevance:core
@@ -1729,7 +1729,7 @@ Claim: Dan Bongino says that in a media appearance that morning he was a little 
 Transcript Snippet: I was a little hesitant in a media appearance this morning to go into specifics on uh especially the video and where the gun was
 
 Anchored Artifacts: A-2155.1
-Mentions: N-379
+Mentions: N-378
 Related Nodes: N-10736
 Tags: relevance:core
 Investigative Direction: Review Bongino's other September 15 appearance for what he withheld and the reason he gave.
@@ -1745,7 +1745,7 @@ Claim: Dan Bongino says he has been on that roof in that corner and that the cam
 Transcript Snippet: on that roof in that corner. And when you see the camera in the distance away, it's clearly not the best video.
 
 Anchored Artifacts: A-2155.1
-Mentions: N-379
+Mentions: N-378
 Related Nodes: N-10731
 Tags: relevance:core
 Investigative Direction: Establish when Bongino visited the roof and which camera he meant.
@@ -1761,7 +1761,7 @@ Claim: The host says clear 4K footage of the rooftop was made available to Benny
 Transcript Snippet: that 4K HD 4D chest super duper crystal clear overwhelming footage that was made available to Benny Johnson, Graham Allen, and his wife 10 months later and some other influencers?
 
 Anchored Artifacts: 
-Mentions: N-89, N-609, N-3
+Mentions: N-89, N-607, N-3
 Related Nodes: N-10731
 Tags: relevance:core
 Investigative Direction: Identify when and by whom the footage was shown to the influencers and compare the resolution with the September releases.
@@ -1858,7 +1858,7 @@ Claim: The host says the items left along the runner's path were recovered by Se
 Transcript Snippet: And those items, as we learned, were then recovered um by Sergeant Cha- Sergeant Jennifer Faumuina of the State Bureau of Investigations, her office.
 
 Anchored Artifacts: 
-Mentions: N-506, N-3
+Mentions: N-505, N-3
 Related Nodes: N-10727
 Tags: relevance:core
 Investigative Direction: Obtain the evidence log showing who recovered the backpack, gloves and jacket and when.
@@ -1874,7 +1874,7 @@ Claim: The host says Sergeant Faumuina answered that she did not recall whether 
 Transcript Snippet: Oh, you don't recall whether you signed off on the FBI not testing a backpack, gloves, potential tactical gear that were abandoned upon the exact path that the shooter ran.
 
 Anchored Artifacts: 
-Mentions: N-506, N-3
+Mentions: N-505, N-3
 Related Nodes: N-10727
 Tags: relevance:core
 Investigative Direction: Pull Faumuina's testimony or interview where she said she did not recall and the evidence-handling forms.
@@ -1890,7 +1890,7 @@ Claim: The host says that Jennifer Faumuina was raised in Hawaii, moved to Ogden
 Transcript Snippet: she moved to Ogden, Utah where she studied studied criminal justice graduating from Weber State University which was founded by the Mormon Church
 
 Anchored Artifacts: A-2157.2
-Mentions: N-506, N-3
+Mentions: N-505, N-3
 Related Nodes: N-10738
 Tags: relevance:context
 Investigative Direction: Check Weber State alumni and institutional history for Faumuina and the school's founding by the LDS church.
@@ -1906,7 +1906,7 @@ Claim: The host says the 2016 RNC volunteer article is the only record she could
 Transcript Snippet: it is the only one that we can find that confirms that she was a state trooper.
 
 Anchored Artifacts: A-2157.4
-Mentions: N-506, N-3
+Mentions: N-505, N-3
 Related Nodes: N-10738
 Tags: relevance:core
 Investigative Direction: Request Utah DPS employment history and certification records for Faumuina for 2013–2018.
@@ -1922,7 +1922,7 @@ Claim: The host says she could not find an article that mentions Faumuina before
 Transcript Snippet: We couldn't find an article that mentions her before 2018 either aside from that. Instead she appears to be working some sort of a part-time gig at Weber State University.
 
 Anchored Artifacts: 
-Mentions: N-506, N-3
+Mentions: N-505, N-3
 Related Nodes: N-10738
 Tags: relevance:core
 Investigative Direction: Request Weber State employment records and Utah POST certifications for Faumuina.
@@ -1938,7 +1938,7 @@ Claim: The host says that from 2018 Faumuina is officially working for the Utah 
 Transcript Snippet: in 2018 like I said we have her officially working for the Utah Department of Public Safety and she is paid very well.
 
 Anchored Artifacts: A-2157.5
-Mentions: N-506, N-3
+Mentions: N-505, N-3
 Related Nodes: N-10738
 Tags: relevance:core
 Investigative Direction: Check the Utah state salary database for Faumuina's pay and rank by year.
@@ -1986,7 +1986,7 @@ Claim: The host says Special Agent Robert Bohls had served in an FBI office in V
 Transcript Snippet: Kash Patel fires the person that was heading up the FBI Salt Lake City office. He fires that person and installs Robert Bohls.
 
 Anchored Artifacts: A-2158.5
-Mentions: N-134, N-69, N-3
+Mentions: N-133, N-69, N-3
 Related Nodes: N-10733
 Supports: C-1329
 Tags: relevance:core
@@ -2003,7 +2003,7 @@ Claim: The host says Robert Bohls had a very long tenure of almost 20 years with
 Transcript Snippet: he had a very long tenure up into that moment with the FBI all over the United States for almost 20 years.
 
 Anchored Artifacts: A-2158.5
-Mentions: N-134, N-3
+Mentions: N-133, N-3
 Related Nodes: N-10733
 Tags: relevance:context
 Investigative Direction: Check FBI biographies and press releases for Bowles's career postings.
@@ -2019,7 +2019,7 @@ Claim: The host says Faumuina revealed in a podcast that her sister is a social 
 Transcript Snippet: She revealed that her sister was a social worker within the state of Utah.
 
 Anchored Artifacts: A-3340.1
-Mentions: N-506, N-3
+Mentions: N-505, N-3
 Related Nodes: N-10738
 Tags: relevance:tangential
 Investigative Direction: Identify the podcast and the date of the appearance.
@@ -2035,7 +2035,7 @@ Claim: The host says the defense in the 1995 Hawaii case argued the men were fri
 Transcript Snippet: the three kids that were involved got charged with like second-degree manslaughter.
 
 Anchored Artifacts: A-2160.1
-Mentions: N-510, N-3
+Mentions: N-509, N-3
 Related Nodes: N-11403
 Tags: relevance:tangential
 Investigative Direction: Obtain Hawaii court records for the 1995 case and the charges and outcomes.
@@ -2051,7 +2051,7 @@ Claim: The host says an article states that Misiona Faumuina was a member of Adu
 Transcript Snippet: the brother was a member of this or part of this adult friends for youth which is run by Sid Rosen.
 
 Anchored Artifacts: A-2160.2
-Mentions: N-510, N-511, N-3
+Mentions: N-509, N-510, N-3
 Related Nodes: N-11403
 Tags: relevance:tangential
 Investigative Direction: Retrieve the article and any Hawaii nonprofit filings for Adult Friends for Youth.
@@ -2067,7 +2067,7 @@ Claim: The host says, in a conditional she does not pursue, that Sid Rosen is co
 Transcript Snippet: That Sid Rosen character, if I told you he was connected to Egypt and Israel, you wouldn't even believe me, so I'll skip that portion.
 
 Anchored Artifacts: A-2160.2
-Mentions: N-511, N-3
+Mentions: N-510, N-3
 Related Nodes: N-11403
 Tags: relevance:tangential
 Investigative Direction: Ask the host for the basis of the Egypt and Israel connection and test it against public records on Rosen. (Stated by the host as a hypothetical she does not develop.)
@@ -2083,7 +2083,7 @@ Claim: The host says that in later articles Faumuina's father claimed the gang w
 Transcript Snippet: In later articles, Jennifer's father would claim that the the gang was upset because he was going on his Mormon mission.
 
 Anchored Artifacts: A-2160.1
-Mentions: N-509, N-510, N-3
+Mentions: N-508, N-509, N-3
 Related Nodes: N-11403
 Tags: relevance:tangential
 Investigative Direction: Locate the later articles and the father's quoted words.
@@ -2099,7 +2099,7 @@ Claim: The host says ward members spoke out denying that Misiona Faumuina was in
 Transcript Snippet: The ward members would speak out denying that he was in a gang, which is rather curious because his older brother is not denying it saying he fell into trouble, whatever.
 
 Anchored Artifacts: A-2160.1
-Mentions: N-510, N-509, N-3
+Mentions: N-509, N-508, N-3
 Related Nodes: N-11403
 Tags: relevance:tangential
 Investigative Direction: Retrieve the 1995 and later articles with the ward members' and brother's statements.
@@ -2115,7 +2115,7 @@ Claim: The host says Courtney Love, whom she connected with before Charlie Kirk 
 Transcript Snippet: She kept saying it is an extension of the Zionist mafia, the Mormon mafia.
 
 Anchored Artifacts: A-3341.1
-Mentions: N-254, N-1, N-3
+Mentions: N-253, N-1, N-3
 Related Nodes: N-10249
 Supports: C-1705
 Tags: relevance:tangential
@@ -2132,7 +2132,7 @@ Claim: The host says she has now reread Courtney Love's messages and thinks Love
 Transcript Snippet: And I go back now and I read those messages and I'm going, she knew exactly what she was talking about, I think.
 
 Anchored Artifacts: A-3341.1
-Mentions: N-254, N-3
+Mentions: N-253, N-3
 Related Nodes: N-10249
 Tags: relevance:context
 Investigative Direction: Ask the host to release the Love messages or describe which statements she means.
@@ -2180,7 +2180,7 @@ Claim: Frank Turek says Brian Harpole is correct that most of the ride they were
 Transcript Snippet: Brian is correct that most of the ride we weren't doing any CPR.
 
 Anchored Artifacts: A-2161.1
-Mentions: N-7, N-267
+Mentions: N-7, N-266
 Related Nodes: N-10737, N-10699
 Supports: C-4709
 Tags: relevance:core
@@ -2214,7 +2214,7 @@ Claim: Frank Turek says that as they pulled into the hospital parking lot Harpol
 Transcript Snippet: Now, maybe as we're yanking and banking into the into the uh into the parking lot Brian was preoccupied thinking or talking to somebody else or whatever
 
 Anchored Artifacts: A-2161.1
-Mentions: N-7, N-267
+Mentions: N-7, N-266
 Related Nodes: N-10737
 Tags: relevance:core
 Investigative Direction: Compare Harpole's account of the last minute of the ride with Turek's.
@@ -2230,7 +2230,7 @@ Claim: Frank Turek says Brian Harpole has a lawsuit against Candace Owens, so he
 Transcript Snippet: In fact, he's got a lawsuit against Candace Owens right now. So, I don't think he can even talk about any of this.
 
 Anchored Artifacts: A-2161.1
-Mentions: N-7, N-267, N-3
+Mentions: N-7, N-266, N-3
 Related Nodes: N-10651
 Tags: relevance:context
 Investigative Direction: Check the Harpole docket and any protective orders that would limit his public statements.
@@ -2246,7 +2246,7 @@ Claim: The host says Brian Harpole told her he just got to work the whole time, 
 Transcript Snippet: He told us he just got to work the whole time. That was his number one focus.
 
 Anchored Artifacts: 
-Mentions: N-267, N-3
+Mentions: N-266, N-3
 Related Nodes: N-10699
 Supports: C-2968
 Tags: relevance:core
@@ -2280,7 +2280,7 @@ Claim: The host tells Frank Turek the lawsuit cannot stop Brian Harpole from spe
 Transcript Snippet: You just spoke for 3 hours on the Shawn Ryan show.
 
 Anchored Artifacts: A-2161.1
-Mentions: N-7, N-225, N-267
+Mentions: N-7, N-224, N-266
 Related Nodes: N-10681
 Tags: relevance:context
 Investigative Direction: Check the Shawn Ryan Show episode length and date.
@@ -2312,7 +2312,7 @@ Claim: In the clip, the interviewer says that the first time they spoke, Blake N
 Transcript Snippet: The first time I talked to you, you said you spent the night in Orem. You stayed at a hotel. You may have left the hotel once for food.
 
 Anchored Artifacts: A-2162.1
-Mentions: N-160
+Mentions: N-159
 Related Nodes: N-10732, N-10715
 Tags: relevance:core
 Investigative Direction: Obtain the first interview recording or notes and compare with the second.
@@ -2328,7 +2328,7 @@ Claim: Blake Neff says he interpreted the question as whether he stayed in Utah,
 Transcript Snippet: I interpreted as, "Did you stay in Utah that night?" as opposed to returning to Phoenix, where I live.
 
 Anchored Artifacts: A-2162.2
-Mentions: N-160
+Mentions: N-159
 Related Nodes: N-10732
 Tags: relevance:core
 Investigative Direction: Compare with Neff's flight and return travel records for September 10 and 11.
@@ -2344,7 +2344,7 @@ Claim: Blake Neff says that to his knowledge everyone stayed in basically the sa
 Transcript Snippet: We were all in to my knowledge the basic the same hotel, and it was I think in Salt Lake.
 
 Anchored Artifacts: A-2162.2
-Mentions: N-160
+Mentions: N-159
 Related Nodes: N-10732
 Tags: relevance:core
 Investigative Direction: Get TPUSA's lodging list for the trip and the hotel's guest records through legal process.
@@ -2376,7 +2376,7 @@ Claim: The host says Blake Neff flew with Charlie Kirk but did not go to the Uta
 Transcript Snippet: But he flew with Charlie, but we know that he didn't go, and other Turning Point staffers also flew into Salt Lake City.
 
 Anchored Artifacts: 
-Mentions: N-160, N-1, N-3
+Mentions: N-159, N-1, N-3
 Related Nodes: N-10732, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the flight manifest and TPUSA's travel list for September 9 and 10.
@@ -2472,7 +2472,7 @@ Claim: The host says no one has ever accused Andrew Kolvet, or his brother, of b
 Transcript Snippet: No one has ever accused Andrew Kolvet as at being as being at Fort Huachuca. No one ever accused his brother.
 
 Anchored Artifacts: A-2163.1
-Mentions: N-14, N-691, N-3
+Mentions: N-14, N-689, N-3
 Related Nodes: N-10739
 Tags: relevance:core
 Investigative Direction: Find the account the Lt. Col. was replying to and what it claimed.
@@ -2488,7 +2488,7 @@ Claim: Lieutenant Colonel Kolvet writes on X that two of his three days at Fort 
 Transcript Snippet: And two of those days were travel days as I visited my military police unit training with the base military police from Huachuca.
 
 Anchored Artifacts: A-2163.1
-Mentions: N-691
+Mentions: N-689
 Related Nodes: N-10739
 Tags: relevance:core
 Investigative Direction: Verify the unit, dates and orders for the trip through the Army or the National Guard.
@@ -2649,7 +2649,7 @@ Claim: The host says she agrees with Robert O'Neill that it looks like an explos
 Transcript Snippet: And I agree with Robert O'Neill, it looks like an explosion went up a happened under his shirt.
 
 Anchored Artifacts: A-2153.1
-Mentions: N-154, N-1, N-3
+Mentions: N-153, N-1, N-3
 Related Nodes: N-10734
 Supports: C-3058
 Tags: relevance:core
@@ -2763,7 +2763,7 @@ Claim: The host says Tucker Carlson, Bret Weinstein and Joe Kent have all confir
 Transcript Snippet: Tucker, Brett Weinstein, Joe Kent have all confirmed that he was fighting hard behind the scenes to stop it.
 
 Anchored Artifacts: 
-Mentions: N-22, N-593, N-210, N-1, N-3
+Mentions: N-22, N-591, N-209, N-1, N-3
 Related Nodes: N-10539, N-11128
 Supports: C-2526
 Tags: relevance:core
@@ -2929,7 +2929,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:03:29
-Speaker: N-154
+Speaker: N-153
 Quote: Yeah, I'm a I'm a SEAL Team 6 sniper. I'm asking a lot of questions.
 Context: O'Neill turns the mocking 'just asking questions' line on his critics.
 Tags: asking questions, o'neill

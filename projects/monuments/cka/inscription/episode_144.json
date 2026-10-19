@@ -204,7 +204,7 @@
             "C-3321"
           ],
           "related_nodes": [
-            "N-160"
+            "N-159"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -221,7 +221,7 @@
             "C-3322"
           ],
           "related_nodes": [
-            "N-160",
+            "N-159",
             "N-18"
           ],
           "tags": [],
@@ -239,7 +239,7 @@
             "C-3323"
           ],
           "related_nodes": [
-            "N-160"
+            "N-159"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -687,8 +687,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-204",
-      "ref": "N-204",
+      "@id": "N-203",
+      "ref": "N-203",
       "name": "Ana Kasparian",
       "type": "person",
       "description": "Subject of Stop Anti-Semitism X post (A-1294.1) referencing her CNN platforming as parallel evidence of \"Holocaust normalization.\"",
@@ -705,8 +705,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-262",
-      "ref": "N-262",
+      "@id": "N-261",
+      "ref": "N-261",
       "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
@@ -736,8 +736,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Dan Flood",
       "type": "person",
       "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
@@ -823,8 +823,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Blake Neff (wave3 orphan mint).",
@@ -849,8 +849,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-581",
-      "ref": "N-581",
+      "@id": "N-579",
+      "ref": "N-579",
       "name": "Mark Bricker",
       "type": "person",
       "description": "First named by the host at 00:18:29 in episode 144.",
@@ -883,8 +883,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-570",
-      "ref": "N-570",
+      "@id": "N-861",
+      "ref": "N-861",
       "name": "David Hull",
       "type": "person",
       "description": "First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.",
@@ -1137,8 +1137,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Named by the host as the person Kolvet said had Netanyahu's letter on Charlie's laptop.",
@@ -1418,8 +1418,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-751",
-      "ref": "N-751",
+      "@id": "N-749",
+      "ref": "N-749",
       "name": "Allan Robertson",
       "type": "person",
       "description": "First named by the host at 00:09:47 in episode 144. Person the host says was visiting from Utah State University, undercover among protesters, and therefore could not have told Terryl Farnsworth to get the footage.",
@@ -1435,8 +1435,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-752",
-      "ref": "N-752",
+      "@id": "N-750",
+      "ref": "N-750",
       "name": "Andrea Burkhart",
       "type": "person",
       "description": "First named by a speaker on the Kolvet/Neff show at 00:29:09 in episode 144. Described as an apolitical person asked whether a defense would present exculpatory evidence at a preliminary hearing; spelled Birkhart in the transcript.",
@@ -1550,7 +1550,7 @@
       "claim_timestamp": "00:02:00–00:04:10",
       "investigative_direction": "Obtain the original raw footage and forensic metadata to confirm SD-card insertion sequence; cross-reference with David Hull testimony on chain of custody.",
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-1"
       ]
     },
@@ -1570,9 +1570,9 @@
       "claim_timestamp": "00:02:00–00:04:10",
       "investigative_direction": "Identify and interview Philip Goldsberry regarding the content shown; obtain his contemporaneous account.",
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-1",
-        "N-688"
+        "N-686"
       ]
     },
     {
@@ -1592,8 +1592,8 @@
       "claim_timestamp": "00:04:20–00:04:50",
       "investigative_direction": "Confirm SD-card disposition against official evidence logs; subpoena physical media if it exists.",
       "mentions_person_refs": [
-        "N-262",
-        "N-204"
+        "N-261",
+        "N-203"
       ]
     },
     {
@@ -1612,7 +1612,7 @@
       "claim_timestamp": "00:18:30–00:19:30",
       "investigative_direction": "Obtain the preliminary-hearing transcript and confirm testimony verbatim.",
       "mentions_person_refs": [
-        "N-570"
+        "N-861"
       ]
     },
     {
@@ -1701,7 +1701,7 @@
       "claim_timestamp": "00:25:30–00:28:00",
       "investigative_direction": "Compare this characterization to a transcript of the debate Candace participated in; identify specific concessions alleged.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-14"
       ]
     },
@@ -1721,7 +1721,7 @@
       "mentions_person_refs": [
         "N-18",
         "N-14",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -1761,7 +1761,7 @@
         "N-14",
         "N-1",
         "N-36",
-        "N-271",
+        "N-270",
         "N-37"
       ]
     },
@@ -1828,7 +1828,7 @@
         "N-3",
         "N-18",
         "N-14",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -1867,7 +1867,7 @@
       ],
       "mentions_person_refs": [
         "N-14",
-        "N-262",
+        "N-261",
         "N-3"
       ]
     },
@@ -1889,7 +1889,7 @@
       "transcript_snippet": "yesterday I joined Ana Kasparian on her program uh for an interview",
       "mentions_person_refs": [
         "N-3",
-        "N-204"
+        "N-203"
       ]
     },
     {
@@ -1944,7 +1944,7 @@
       "investigative_direction": "Confirm against the host's earlier footage and any statement by Farnsworth or investigators.",
       "transcript_snippet": "What is not in dispute is that Terryl did in fact remove a physical object from the crime scene.",
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-3"
       ]
     },
@@ -1966,7 +1966,7 @@
         "C-3293"
       ],
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-3"
       ]
     },
@@ -1987,7 +1987,7 @@
       "investigative_direction": "Check the preliminary hearing transcript for Hull's stated arrival time.",
       "transcript_snippet": "who were on the scene, who arrived on the scene around 1:30, I believe he said.",
       "mentions_person_refs": [
-        "N-570",
+        "N-861",
         "N-3"
       ]
     },
@@ -2009,7 +2009,7 @@
         "C-4653"
       ],
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-1",
         "N-3"
       ]
@@ -2031,7 +2031,7 @@
       "investigative_direction": "Obtain the original file Farnsworth sent the host and verify embedded creation and end times.",
       "transcript_snippet": "Terl was filming himself until just after 12:26. So Charlie gets hit at 12 23 and Terl is filming himself until 12:26 and 16 milliseconds.",
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-1",
         "N-3"
       ]
@@ -2053,7 +2053,7 @@
       "investigative_direction": "Frame-date the footage of the camera removal against the corroborated shooting time.",
       "transcript_snippet": "It's around almost precisely 12:28 that he begins taking the camera down.",
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-3"
       ]
     },
@@ -2078,7 +2078,7 @@
         "C-1366"
       ],
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-3"
       ]
     },
@@ -2100,8 +2100,8 @@
         "C-3199"
       ],
       "mentions_person_refs": [
-        "N-751",
-        "N-262",
+        "N-749",
+        "N-261",
         "N-3"
       ]
     },
@@ -2123,7 +2123,7 @@
         "C-4611"
       ],
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-3"
       ]
     },
@@ -2145,7 +2145,7 @@
         "C-4606"
       ],
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-11",
         "N-3"
       ]
@@ -2168,7 +2168,7 @@
         "C-4606"
       ],
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-2",
         "N-3"
       ]
@@ -2188,7 +2188,7 @@
       "investigative_direction": "Obtain Farnsworth's own statement of motive and compare it with the police-instruction and hat explanations.",
       "transcript_snippet": "he did not want Erika to have to see Charlie die in 4K.",
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-2",
         "N-1",
         "N-3"
@@ -2211,7 +2211,7 @@
       "transcript_snippet": "You had Tyler saying the police said it. You had Terryl saying that he did it out of his own valition to protect Erika.",
       "mentions_person_refs": [
         "N-11",
-        "N-262",
+        "N-261",
         "N-2",
         "N-14",
         "N-3"
@@ -2321,8 +2321,8 @@
       "investigative_direction": "Obtain the preliminary hearing transcript for Hull's chain-of-custody testimony on surveillance collection.",
       "transcript_snippet": "Sergeant Mark Bricker of the SBI was put in charge of gathering all of the surveillance on campus at UVU.",
       "mentions_person_refs": [
-        "N-570",
-        "N-581",
+        "N-861",
+        "N-579",
         "N-3"
       ]
     },
@@ -2348,7 +2348,7 @@
       "mentions_person_refs": [
         "N-18",
         "N-14",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2368,7 +2368,7 @@
       "investigative_direction": "Ask Birkhart on record and compare with the defense's stated reasons for not presenting evidence at the hearing.",
       "transcript_snippet": "If they had exculpatory evidence, whether it's the parents that actually, you know, think he's innocent or they have some steakhouse receipt, would they not present that at the preliminary hearing?",
       "mentions_person_refs": [
-        "N-752",
+        "N-750",
         "N-14"
       ]
     },
@@ -2599,7 +2599,7 @@
       "investigative_direction": "Ask Neff and TPUSA for any prior contact; the claim is self-report.",
       "transcript_snippet": "I have never met Candace Owens and don't know her.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-3"
       ]
     },
@@ -2620,7 +2620,7 @@
       "investigative_direction": "Compare Neff's employment dates and travel with Charlie's public schedule.",
       "transcript_snippet": "I met donors. I met his family members. I met his team. I met a lot. And I don't know Candace.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-1",
         "N-3"
       ]
@@ -2713,7 +2713,7 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-160",
+        "N-159",
         "N-3"
       ]
     },
@@ -2782,7 +2782,7 @@
         "N-3",
         "N-1",
         "N-14",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -3000,7 +3000,7 @@
       "transcript_snippet": "And I just thought she meant if the Jews take over or something.",
       "mentions_person_refs": [
         "N-14",
-        "N-160",
+        "N-159",
         "N-97",
         "N-3"
       ]
@@ -3088,7 +3088,7 @@
         "C-4315"
       ],
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-14",
         "N-1",
         "N-36",
@@ -3116,7 +3116,7 @@
       ],
       "mentions_person_refs": [
         "N-14",
-        "N-271",
+        "N-270",
         "N-1",
         "N-3"
       ]

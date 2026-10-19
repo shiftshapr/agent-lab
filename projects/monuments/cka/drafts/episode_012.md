@@ -13,12 +13,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-11218
-  - Hole-minted Nodes (reintro-ep012): N-135, N-326, N-10156, N-10180, N-10192, N-10840
+  - Hole-minted Nodes (reintro-ep012): N-134, N-325, N-10156, N-10180, N-10192, N-10840
   - Tip-minted Nodes (reintro-ep012): N-10908, N-11167
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9258–C-9323
-  - Tip-minted Nodes (reintro-ep012): N-786
-  - New Nodes Introduced: N-132, N-133, N-134, N-10147, N-10149, N-10150, N-10151
+  - Tip-minted Nodes (reintro-ep012): N-784
+  - New Nodes Introduced: N-132, N-133, N-10147, N-10149, N-10150, N-10151
   - Reused Nodes Appearing: N-40, N-42, N-60, N-98, N-126, N-10000, N-10006, N-10012, N-10025, N-10032, N-10047, N-10048, N-10056, N-10076, N-10085, N-10086, N-10094, N-10103, N-10106, N-10115, N-10141, N-10144, N-10148, N-10146, N-11217
 
 ## 3. Artifact Register
@@ -73,7 +73,7 @@ Video Timestamp: 00:10:39–00:11:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1325, N-133*
+*Related: C-1325, N-132*
 
 ---
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:09:47–00:10:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1325, C-1334, N-133*
+*Related: C-1325, C-1334, N-132*
 
 ---
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:30:55–00:32:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1329, C-1335, N-134, N-69, N-10150*
+*Related: C-1329, C-1335, N-133, N-69, N-10150*
 
 ---
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:06:43–00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1328, N-61, N-132*
+*Related: C-1328, N-61, N-128*
 
 **A-1192.2** Shaner Broderick LinkedIn profile connection listing Phil Lyman as uncle, referenced as a factor in his securing an internship with Senator Mike Lee of Utah.
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:06:43–00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1328, N-61, N-132, N-786*---
+*Related: C-1328, N-61, N-128, N-784*---
 
 **A-1193** Gernot Ohner LinkedIn profile
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:11:29–00:12:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1326, N-133*
+*Related: C-1326, N-132*
 
 ---
 
@@ -282,7 +282,7 @@ Confidence Level: Low
 
 ### People
 
-**N-786** Mike Lee
+**N-784** Mike Lee
 
 US Senator from Utah; first named in A-1192.2.
 
@@ -290,7 +290,7 @@ US Senator from Utah; first named in A-1192.2.
 
 ---
 
-**N-132** Shaner Broderick
+**N-128** Shaner Broderick
 
 Phil Lyman's nephew (per Broderick's own Instagram and LinkedIn) or cousin (per Phil's revised claim to the host); retraced the killer's footpath with two companions shortly after the shooting and produced a map used by media. Wiped his LinkedIn and Facebook and cleared/privatized his Instagram following the host's previous episode.
 
@@ -299,11 +299,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1192.1, A-1192.2, C-1328, N-61, N-133, N-10147*
+*Related: A-1192.1, A-1192.2, C-1328, N-61, N-132, N-10147*
 
 ---
 
-**N-133** Gernot Ohner
+**N-132** Gernot Ohner
 
 Austrian national; identified by the host as one of two companions in the Broderick companion photo. Matched to a BearingPoint Graz software team YouTube video and a German-language "Anniversary Hike" blog; LinkedIn indicates relocation to Utah in May 2024 for a software engineering role at JP Morgan Chase.
 
@@ -329,7 +329,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-134** Robert Bohls
+**N-133** Robert Bohls
 
 Reported as the individual installed to lead the Utah FBI field office in August 2025 following Kash Patel's purge of prior leadership; described as based in DC for decades and in his first week on the job at the time of the shooting.
 
@@ -364,7 +364,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1189.1, C-1329, N-134, N-10150*
+*Related: A-1189.1, C-1329, N-133, N-10150*
 
 ---
 
@@ -392,7 +392,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1188.1, A-1194.1, C-1327, N-132*
+*Related: A-1188.1, A-1194.1, C-1327, N-128*
 
 ---
 
@@ -431,7 +431,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1189.1, C-1329, C-1335, N-134, N-69*
+*Related: A-1189.1, C-1329, C-1335, N-133, N-69*
 
 ---
 
@@ -519,7 +519,7 @@ The UVU student the host calls Nick; Lyman's visit to his house and the campaign
 
 ---
 
-**N-135** Andrew Zenger
+**N-134** Andrew Zenger
 
 Hospital CEO and surgeon whose appointment the host says was announced just before the tour (transcribed Zenger).
 
@@ -527,7 +527,7 @@ Hospital CEO and surgeon whose appointment the host says was announced just befo
 
 ---
 
-**N-326** Tim Ballard
+**N-325** Tim Ballard
 
 Former Operation Underground Railroad head; the host's source says Lyman met him in town, and she recalls interviewing him.
 
@@ -806,7 +806,7 @@ Claim Timestamp: 00:10:39–00:11:29
 Claim: The host says her team identified one of the two companions in the photo with Shaner Broderick as Gernot Ohner, whose face she says also matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.
 
 Anchored Artifacts: A-1186.1
-Mentions: N-133, N-132
+Mentions: N-132, N-128
 
 Related Nodes: N-10147
 
@@ -821,7 +821,7 @@ Claim Timestamp: 00:11:29–00:12:20
 Claim: The host says that, according to Gernot Ohner's LinkedIn profile, he moved to Utah in May 2024 to take a software engineer position with JP Morgan Chase.
 
 Anchored Artifacts: A-1193.1
-Mentions: N-133
+Mentions: N-132
 
 
 Investigative Direction: Capture and archive the LinkedIn profile as displayed; verify with JP Morgan Chase HR whether the employment record matches.
@@ -849,7 +849,7 @@ Claim Timestamp: 00:06:43–00:07:30
 Claim: The host says Shaner Broderick posted on his Instagram 'My uncle Phil Lyman' and that his LinkedIn listed Phil Lyman as an uncle connection, before Lyman said they are only cousins.
 
 Anchored Artifacts: A-1192.1, A-1192.2
-Mentions: N-61, N-132
+Mentions: N-61, N-128
 
 
 Investigative Direction: Archive Instagram and LinkedIn snapshots from prior to deletion/scrub; reconcile with Phil Lyman's later "cousin, not nephew" revision.
@@ -863,7 +863,7 @@ Claim Timestamp: 00:30:55–00:32:40
 Claim: A Daily Mail article reports FBI Director Kash Patel removed the chief of the Utah FBI Bureau and additional personnel and installed Robert Bohls in August 2025.
 
 Anchored Artifacts: A-1189.1
-Mentions: N-69, N-134, N-1
+Mentions: N-69, N-133, N-1
 
 Related Nodes: N-10150
 
@@ -923,7 +923,7 @@ Claim Timestamp: 00:09:47–00:10:39
 Claim: The host says her team found that the face of the individual identified as Gernot Ohner matched photos in a German-language blog post on a 10-year hiking anniversary.
 
 Anchored Artifacts: A-1187.1
-Mentions: N-133
+Mentions: N-132
 
 
 Investigative Direction: Confirm authorship and dating of the blog; verify Gernot Ohner's participation in the original 20-year-old hike and the 10-year reunion.
@@ -937,7 +937,7 @@ Claim Timestamp: 00:32:15
 Claim: The host says she thinks Robert Bohls was in his first week at the Utah FBI office when Charlie Kirk was shot.
 
 Anchored Artifacts: A-1189.1
-Mentions: N-134, N-1
+Mentions: N-133, N-1
 
 Related Nodes: N-10150
 
@@ -951,7 +951,7 @@ Claim Timestamp: 00:31:56–00:32:40
 Claim: The host says Robert Bohls, installed at the Utah FBI office in August 2025, had been in Washington DC for decades, and calls his relocation to Utah an unusual placement that adds to everything feeling "a little too brand new."
 Transcript Snippet: he's somebody who has been in DC for decades. So, seems to me to be an unusual placement to then want to re-up your entire life
 Anchored Artifacts: A-1189.1
-Mentions: N-134
+Mentions: N-133
 Confidence: medium
 Investigative Direction: Confirm Robert Bohls's prior postings and the date of his Utah assignment from FBI announcements.
 
@@ -982,7 +982,7 @@ Claim: The host says that on the previous day she asked the public to identify t
 Transcript Snippet: yesterday we asked for the public's help in identifying two individuals who Phil Lyman's nephew described as his close friends who decided to retrace the path of Charlie's killer.
 
 Anchored Artifacts: 
-Mentions: N-3, N-61, N-132
+Mentions: N-3, N-61, N-128
 Related Nodes: N-10147
 Tags: relevance:core
 Investigative Direction: Obtain Shaner Broderick's original posts describing the two companions and the retrace video, and archive them before further deletion.
@@ -1032,7 +1032,7 @@ Claim: The host says Shaner Broderick created a map of where the killer walked a
 Transcript Snippet: Shaner even created a map where exactly the killer walked and the media used his map.
 
 Anchored Artifacts: 
-Mentions: N-132
+Mentions: N-128
 Related Nodes: N-10144
 Tags: relevance:core
 Investigative Direction: Identify which outlets published Broderick's map and how he determined the route.
@@ -1081,7 +1081,7 @@ Claim: The host says that, according to a very strong source, Phil Lyman was in 
 Transcript Snippet: I am told according to a very strong source that what Phil Lyman was doing in town on Saturday was he was meeting with Tim Ballard.
 
 Anchored Artifacts: 
-Mentions: N-3, N-61, N-326
+Mentions: N-3, N-61, N-325
 Related Nodes: N-11167
 Tags: relevance:context
 Investigative Direction: Ask Ballard and Lyman whether they met that Saturday and for what purpose; compare with any public schedule.
@@ -1113,7 +1113,7 @@ Claim: The host says Phil Lyman disputes that Shaner Broderick is his nephew, te
 Transcript Snippet: Actually maybe Shaner's confused.
 
 Anchored Artifacts: A-2999.1
-Mentions: N-61, N-132, N-3
+Mentions: N-61, N-128, N-3
 Related Nodes: N-10144
 Contradicts: C-1328
 Tags: relevance:core
@@ -1130,7 +1130,7 @@ Claim: The host says Shaner Broderick was chosen for an internship with Senator 
 Transcript Snippet: chosen for an internship with Senator Mike Lee of Utah.
 
 Anchored Artifacts: A-1192.2
-Mentions: N-132, N-786, N-61
+Mentions: N-128, N-784, N-61
 Tags: relevance:context
 Investigative Direction: Confirm the internship dates with Senator Lee's office and whether the Lyman relationship was listed in the application.
 
@@ -1145,7 +1145,7 @@ Claim: The host says that since the previous episode Shaner Broderick wiped his 
 Transcript Snippet: He's also completely wiped his Facebook page entirely. And regarding his Instagram, he's privatized it but he privatized it and then removed all of the photos of his investigation
 
 Anchored Artifacts: 
-Mentions: N-132, N-3
+Mentions: N-128, N-3
 Related Nodes: N-10147
 Tags: relevance:core
 Investigative Direction: Retrieve archived copies of the deleted pages and note the dates of deletion relative to the host's outreach.
@@ -1161,7 +1161,7 @@ Claim: The host says she asked Phil Lyman three times by text whether he could h
 Transcript Snippet: I asked Phil Lyman three times via text whether or not he could help us, more importantly, identify the two individuals that were in the photo with his nephew or cousin
 
 Anchored Artifacts: A-2999.1
-Mentions: N-3, N-61, N-132
+Mentions: N-3, N-61, N-128
 Related Nodes: N-10147
 Tags: relevance:core
 Investigative Direction: Obtain the text thread showing each request and Lyman's replies.
@@ -1193,7 +1193,7 @@ Claim: The host says that, unlike in all her earlier investigations, no viewer e
 Transcript Snippet: no one emailed us to say that they knew either of those two individuals, neither the blonde that's with Shaner or the person that is wearing the blue hat
 
 Anchored Artifacts: 
-Mentions: N-3, N-132
+Mentions: N-3, N-128
 Related Nodes: N-10147
 Tags: relevance:core
 Investigative Direction: Review the tip-line log to confirm no identification arrived and test whether the two are from outside the United States.
@@ -1225,7 +1225,7 @@ Claim: The host says one of the two individuals in the photo was identified as a
 Transcript Snippet: We were able to identify one of those individuals in the photo and he is Austrian.
 
 Anchored Artifacts: A-1187.1
-Mentions: N-3, N-133
+Mentions: N-3, N-132
 Related Nodes: N-10147
 Supports: C-1325
 Tags: relevance:core
@@ -1585,7 +1585,7 @@ Claim: The host says the hospital had just announced a brand new CEO named Andre
 Transcript Snippet: that hospital had just announced that they had a a brand new CEO and had surgeon named Andrew Zenger.
 
 Anchored Artifacts: 
-Mentions: N-135, N-3
+Mentions: N-134, N-3
 Related Nodes: N-11218, N-10149
 Tags: relevance:core
 Investigative Direction: Confirm the date and press release of the CEO announcement and his appointment dates.
@@ -1617,7 +1617,7 @@ Claim: The host says the day Andrew Zenger was announced as the new CEO was also
 Transcript Snippet: that was also the day that they announced Charlie's tour. They announced five dates and two of them were in Utah
 
 Anchored Artifacts: 
-Mentions: N-135, N-1, N-3
+Mentions: N-134, N-1, N-3
 Related Nodes: N-11218, N-10000
 Tags: relevance:core
 Investigative Direction: Compare the hospital's press release date with the tour announcement date.
@@ -1985,7 +1985,7 @@ Claim: The host says that they are still working to identify their goth suspect,
 Transcript Snippet: We are still working to identify our goth suspect. It is not the girl who's wearing black, but rather the person that was in the photos with nephew cousin Broderick.
 
 Anchored Artifacts: 
-Mentions: N-3, N-132
+Mentions: N-3, N-128
 Related Nodes: N-10147
 Supports: C-1327
 Tags: relevance:core

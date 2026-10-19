@@ -74,7 +74,7 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-592"
+            "N-590"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -102,7 +102,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-593",
+            "N-591",
             "N-5",
             "N-10539"
           ],
@@ -130,7 +130,7 @@
             "C-2481"
           ],
           "related_nodes": [
-            "N-221",
+            "N-220",
             "N-1",
             "N-97",
             "N-10543"
@@ -159,7 +159,7 @@
             "C-2482"
           ],
           "related_nodes": [
-            "N-592",
+            "N-590",
             "N-3"
           ],
           "tags": [],
@@ -186,7 +186,7 @@
             "C-2483"
           ],
           "related_nodes": [
-            "N-160",
+            "N-159",
             "N-1",
             "N-97",
             "N-10543"
@@ -243,7 +243,7 @@
             "C-2485"
           ],
           "related_nodes": [
-            "N-594",
+            "N-592",
             "N-5",
             "N-10541"
           ],
@@ -435,7 +435,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-595",
+            "N-593",
             "N-10541"
           ],
           "tags": [],
@@ -490,7 +490,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-378",
+            "N-377",
             "N-10541"
           ],
           "tags": [],
@@ -518,7 +518,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-596",
+            "N-594",
             "N-10543"
           ],
           "tags": [],
@@ -545,7 +545,7 @@
             "C-2489"
           ],
           "related_nodes": [
-            "N-223",
+            "N-222",
             "N-22",
             "N-10540"
           ],
@@ -656,7 +656,7 @@
           "related_nodes": [
             "N-97",
             "N-46",
-            "N-205"
+            "N-204"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -917,8 +917,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-592",
-      "ref": "N-592",
+      "@id": "N-590",
+      "ref": "N-590",
       "name": "Meghan McCain",
       "type": "person",
       "description": "Author of X post A-1849.1 and subject of Charlie Kirk text A-1846.3.",
@@ -942,8 +942,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-593",
-      "ref": "N-593",
+      "@id": "N-591",
+      "ref": "N-591",
       "name": "Bret Weinstein",
       "type": "person",
       "description": "Co-party to text exchange A-1847.1 with Charlie Kirk regarding Iran war.",
@@ -966,8 +966,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-221",
-      "ref": "N-221",
+      "@id": "N-220",
+      "ref": "N-220",
       "name": "Milo Yiannopoulos",
       "type": "person",
       "description": "Author of text messages disclosed in A-1848.1 regarding Ben Shapiro and TPUSA.",
@@ -989,8 +989,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Author of X post A-1850.1 admitting Charlie/Ben rivalry.",
@@ -1036,8 +1036,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-594",
-      "ref": "N-594",
+      "@id": "N-592",
+      "ref": "N-592",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Speaker in audio clip A-1852.1 regarding Strait of Hormuz.",
@@ -1088,8 +1088,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-595",
-      "ref": "N-595",
+      "@id": "N-593",
+      "ref": "N-593",
       "name": "Giorgia Meloni",
       "type": "person",
       "description": "Speaker attributed with statement (A-1855.7) criticizing US-Israeli war as outside international law.",
@@ -1110,8 +1110,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-596",
-      "ref": "N-596",
+      "@id": "N-594",
+      "ref": "N-594",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Quoted by host in article A-1856.1.",
@@ -1132,8 +1132,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-223",
-      "ref": "N-223",
+      "@id": "N-222",
+      "ref": "N-222",
       "name": "Randy Fine",
       "type": "person",
       "description": "Author of X post A-1857.1.",
@@ -1174,7 +1174,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-593",
+        "N-591",
         "N-5"
       ]
     },
@@ -1378,8 +1378,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-378",
-      "ref": "N-378",
+      "@id": "N-377",
+      "ref": "N-377",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Speaker attributed with statement (A-1855.10) regarding French navy escort.",
@@ -1516,8 +1516,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-179",
-      "ref": "N-179",
+      "@id": "N-178",
+      "ref": "N-178",
       "name": "Jared Kushner",
       "type": "person",
       "description": "The host says he is running the White House.",
@@ -1533,8 +1533,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-205",
-      "ref": "N-205",
+      "@id": "N-204",
+      "ref": "N-204",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Journalist Shapiro is said to have attacked.",
@@ -1552,8 +1552,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-245",
-      "ref": "N-245",
+      "@id": "N-244",
+      "ref": "N-244",
       "name": "Mark Levin",
       "type": "person",
       "description": "Radio host the host links to pro-war pressure on Carlson.",
@@ -1570,8 +1570,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-269",
-      "ref": "N-269",
+      "@id": "N-268",
+      "ref": "N-268",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Podcaster the host says she ties in rankings.",
@@ -1587,8 +1587,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-391",
-      "ref": "N-391",
+      "@id": "N-390",
+      "ref": "N-390",
       "name": "Andrew Breitbart",
       "type": "person",
       "description": "Late publisher whose legacy the host says Shapiro tried to recreate.",
@@ -1604,8 +1604,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-521",
-      "ref": "N-521",
+      "@id": "N-520",
+      "ref": "N-520",
       "name": "Rothschild Family",
       "type": "person",
       "description": "Family the host asserts created Israel and Macron.",
@@ -2088,7 +2088,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-592"
+        "N-590"
       ]
     },
     {
@@ -2109,7 +2109,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-5",
-        "N-593"
+        "N-591"
       ]
     },
     {
@@ -2129,7 +2129,7 @@
       "investigative_direction": "Verify original message; cross-reference with contemporaneous public statements.",
       "mentions_person_refs": [
         "N-1",
-        "N-593"
+        "N-591"
       ]
     },
     {
@@ -2147,7 +2147,7 @@
       "investigative_direction": "Forensic verification of messages; corroborate with independent reporting or testimony regarding TPUSA donor pressure circa 2014–2015.",
       "mentions_person_refs": [
         "N-97",
-        "N-221",
+        "N-220",
         "N-1"
       ]
     },
@@ -2165,7 +2165,7 @@
       "claim_timestamp": "00:20:00–00:20:51",
       "investigative_direction": "Direct retrieval of the original X post via archive.",
       "mentions_person_refs": [
-        "N-592"
+        "N-590"
       ]
     },
     {
@@ -2183,7 +2183,7 @@
       "investigative_direction": "Direct retrieval of the original X post via archive.",
       "mentions_person_refs": [
         "N-97",
-        "N-160",
+        "N-159",
         "N-1"
       ]
     },
@@ -2223,7 +2223,7 @@
       "claim_timestamp": "00:24:34–00:25:35",
       "investigative_direction": "Obtain the full press exchange transcript and date.",
       "mentions_person_refs": [
-        "N-594"
+        "N-592"
       ]
     },
     {
@@ -2289,8 +2289,8 @@
       "claim_timestamp": "00:26:19–00:28:13",
       "investigative_direction": "Obtain original government press releases or transcripts for each quoted statement and verify dates.",
       "mentions_person_refs": [
-        "N-378",
-        "N-595"
+        "N-377",
+        "N-593"
       ]
     },
     {
@@ -2310,7 +2310,7 @@
       "investigative_direction": "Retrieve original X post via archive.",
       "mentions_person_refs": [
         "N-22",
-        "N-223"
+        "N-222"
       ]
     },
     {
@@ -2383,7 +2383,7 @@
       "investigative_direction": "Retrieve the original published article (Substack or platform); verify publication date.",
       "mentions_person_refs": [
         "N-3",
-        "N-596"
+        "N-594"
       ]
     },
     {
@@ -2425,7 +2425,7 @@
       "transcript_snippet": "Trump has apparently allowed Mark Levin's special class of psychos to go after Tucker Carlson. They want to They want to imprison him. They are explicit in that demand.",
       "mentions_person_refs": [
         "N-3",
-        "N-245",
+        "N-244",
         "N-22",
         "N-5"
       ]
@@ -2451,7 +2451,7 @@
       "mentions_person_refs": [
         "N-97",
         "N-46",
-        "N-205",
+        "N-204",
         "N-3"
       ]
     },
@@ -2554,7 +2554,7 @@
         "C-2481"
       ],
       "mentions_person_refs": [
-        "N-221",
+        "N-220",
         "N-1",
         "N-97",
         "N-3"
@@ -2750,7 +2750,7 @@
       "investigative_direction": "Obtain Weinstein's original post and date; ask him what basis exists beyond the timing of Kirk's opposition.",
       "transcript_snippet": "it is reasonable to wonder if his refusal to back down from his steadfast opposition somehow resulted in his murder.",
       "mentions_person_refs": [
-        "N-593",
+        "N-591",
         "N-1",
         "N-5"
       ]
@@ -2774,7 +2774,7 @@
       "investigative_direction": "Obtain Weinstein's full post and identify which investigative product he judges inadequate.",
       "transcript_snippet": "A good investigation could have settled the matter. What we got only increases the reason for concern.",
       "mentions_person_refs": [
-        "N-593",
+        "N-591",
         "N-1"
       ]
     },
@@ -2797,7 +2797,7 @@
       "investigative_direction": "Find Kirk's recorded or texted worries about his own safety and about the Iran decision to test Weinstein's final phrase.",
       "transcript_snippet": "the timing of his death removed him from the equation and likely changed the course of history.",
       "mentions_person_refs": [
-        "N-593",
+        "N-591",
         "N-1"
       ]
     },
@@ -2821,7 +2821,7 @@
       "transcript_snippet": "driving real-time mass public opinion yet. The neocons are.",
       "mentions_person_refs": [
         "N-1",
-        "N-593"
+        "N-591"
       ]
     },
     {
@@ -2843,7 +2843,7 @@
       "investigative_direction": "Retrieve Neff's original post and verify Shapiro's 2024 primary endorsement and Kirk's endorsement date.",
       "transcript_snippet": "Ben supported Ron DeSantis in the 2024 primary while Charlie was all in for Trump from the start.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-97",
         "N-1",
         "N-4",
@@ -2870,7 +2870,7 @@
       "transcript_snippet": "Blake was not even around for the building of Turning Point.",
       "mentions_person_refs": [
         "N-3",
-        "N-160",
+        "N-159",
         "N-1",
         "N-97"
       ]
@@ -2894,7 +2894,7 @@
       "transcript_snippet": "Ben Shapiro was trying to take Andrew Breitbart's legacy and recreate it by manufacturing a scandal with The Daily Wire.",
       "mentions_person_refs": [
         "N-97",
-        "N-391",
+        "N-390",
         "N-1",
         "N-3"
       ]
@@ -3069,7 +3069,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-592",
+        "N-590",
         "N-1"
       ]
     },
@@ -3217,8 +3217,8 @@
       "investigative_direction": "No primary record offered; ask the host for any document linking the Rothschild family to Macron's career or to Israel's founding.",
       "transcript_snippet": "the Rothschilds are Israel, they created Israel, and they created Emmanuel Macron.",
       "mentions_person_refs": [
-        "N-378",
-        "N-521",
+        "N-377",
+        "N-520",
         "N-3"
       ]
     },
@@ -3463,7 +3463,7 @@
       "transcript_snippet": "me and Joe Rogan are in a three-way tie with one other podcast uh for the top podcasts.",
       "mentions_person_refs": [
         "N-3",
-        "N-269"
+        "N-268"
       ]
     },
     {
@@ -3484,7 +3484,7 @@
       "transcript_snippet": "They're buying those things through ads. It's fake. The numbers are not real.",
       "mentions_person_refs": [
         "N-3",
-        "N-245",
+        "N-244",
         "N-97"
       ]
     },
@@ -3779,7 +3779,7 @@
       "investigative_direction": "Document Kushner's official or informal role in the administration in March 2026.",
       "transcript_snippet": "This is what happens when Jared Kushner um is running the White House uh with his father who is in Paris.",
       "mentions_person_refs": [
-        "N-179",
+        "N-178",
         "N-3"
       ]
     }

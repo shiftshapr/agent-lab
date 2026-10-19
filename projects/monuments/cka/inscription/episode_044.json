@@ -33,8 +33,8 @@
             "C-1883"
           ],
           "related_nodes": [
-            "N-319",
-            "N-324",
+            "N-318",
+            "N-323",
             "N-10328"
           ],
           "tags": [],
@@ -56,9 +56,9 @@
             "C-1887"
           ],
           "related_nodes": [
+            "N-318",
+            "N-266",
             "N-319",
-            "N-267",
-            "N-320",
             "N-10326"
           ],
           "tags": [],
@@ -77,8 +77,8 @@
             "C-1889"
           ],
           "related_nodes": [
+            "N-318",
             "N-319",
-            "N-320",
             "N-10327"
           ],
           "tags": [],
@@ -97,7 +97,7 @@
             "C-1884"
           ],
           "related_nodes": [
-            "N-319",
+            "N-318",
             "N-10326"
           ],
           "tags": [],
@@ -117,7 +117,7 @@
             "C-1883"
           ],
           "related_nodes": [
-            "N-319"
+            "N-318"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -144,7 +144,7 @@
           ],
           "related_nodes": [
             "N-10328",
-            "N-324"
+            "N-323"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -197,7 +197,7 @@
             "C-1892"
           ],
           "related_nodes": [
-            "N-314",
+            "N-313",
             "N-10330"
           ],
           "tags": [],
@@ -225,10 +225,10 @@
             "C-1894"
           ],
           "related_nodes": [
-            "N-314",
+            "N-313",
+            "N-320",
             "N-321",
             "N-322",
-            "N-323",
             "N-10330",
             "N-10331"
           ],
@@ -257,7 +257,7 @@
             "C-1896"
           ],
           "related_nodes": [
-            "N-268"
+            "N-267"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -396,8 +396,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-319",
-      "ref": "N-319",
+      "@id": "N-318",
+      "ref": "N-318",
       "name": "Harry Meyers",
       "type": "person",
       "description": "Former U.S. Army sensor operator assigned to Joint Task Force 6 / Operation Catacomb in 1990 who claims to have discovered the first Sinaloa cartel underground rail tunnel at the Arizona–Mexico border. Placed under NDA 1990–May 2025. Now operates under a different name. Per his account, walked into a JTF-SB meeting at Fort Huachuca on September 9, 2025 and was detained for 7 hours.",
@@ -428,8 +428,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Allegedly identified by Harry Meyers exiting the JTF-SB meeting at Fort Huachuca on September 9, 2025. Host later references this identification in connection with Charlie Kirk's assassination coverage.",
@@ -450,8 +450,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-320",
-      "ref": "N-320",
+      "@id": "N-319",
+      "ref": "N-319",
       "name": "Captain Adam Neff",
       "type": "person",
       "description": "Military officer (Captain) identified by Harry Meyers as the lead interrogator during the 7-hour detention at Fort Huachuca on September 9, 2025. Described as ~36 years old, brown hair, commander of force protection. Spelling of surname as heard by Harry; uncertain.",
@@ -475,11 +475,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
-      "description": "Referenced by host as a potential relative (brother/cousin) of \"Captain Neff\" (N-320). Host speculates Blake Neff may have a military background despite public role as a producer of the Charlie Kirk show. Relationship unverified.",
+      "description": "Referenced by host as a potential relative (brother/cousin) of \"Captain Neff\" (N-319). Host speculates Blake Neff may have a military background despite public role as a producer of the Charlie Kirk show. Relationship unverified.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -488,13 +488,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-320"
+        "N-319"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Tim Pool",
       "type": "person",
       "description": "Independent commentator featured in audio clip played on the show; subject of host's commentary criticizing his conduct toward her.",
@@ -513,8 +513,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-314",
-      "ref": "N-314",
+      "@id": "N-313",
+      "ref": "N-313",
       "name": "Arcadi Gaydamak",
       "type": "person",
       "description": "Russian-born, Israeli-French businessman identified in prior series episodes in connection with Angola Gate. Reported by host as recently sentenced in absentia for trafficking weapons. Allegedly living in Nashville under alias per seven viewer emails.",
@@ -533,14 +533,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-321",
+        "N-320",
         "N-10330"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-321",
-      "ref": "N-321",
+      "@id": "N-320",
+      "ref": "N-320",
       "name": "Jonathan Schmidt",
       "type": "person",
       "description": "Alleged alias used by Arcadi Gaydamak in Nashville, per seven tipster emails. Allegedly hired by Root Brands as a technology officer and claimed to be a billionaire.",
@@ -557,14 +557,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-314",
+        "N-313",
         "N-10330"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-322",
-      "ref": "N-322",
+      "@id": "N-321",
+      "ref": "N-321",
       "name": "Clay Thomas",
       "type": "person",
       "description": "Nashville businessman alleged by tipsters to have introduced Arcadi Gaydamak/\"Jonathan Schmidt\" to Root Brands. Host states she has reached out to Thomas.",
@@ -580,14 +580,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-321",
+        "N-320",
         "N-10331"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-323",
-      "ref": "N-323",
+      "@id": "N-322",
+      "ref": "N-322",
       "name": "Alex Smeirnoff",
       "type": "person",
       "description": "Ukrainian individual alleged by tipsters to be working with \"Jonathan Schmidt\"/Arcadi Gaydamak at Root Brands; characterized as a Ukrainian \"fleeing the war.\"",
@@ -603,7 +603,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-321",
+        "N-320",
         "N-10331"
       ]
     },
@@ -626,14 +626,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-321",
+        "N-320",
         "N-10331"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-324",
-      "ref": "N-324",
+      "@id": "N-323",
+      "ref": "N-323",
       "name": "El Chapo (Joaquín Guzmán)",
       "type": "person",
       "description": "Named in 1990 tunnel narrative; photos on the Mexican side of the Sinaloa cartel tunnel allegedly showed a JTF-6 commander and U.S. Marine officers posing with him.",
@@ -678,9 +678,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-319",
-        "N-267",
-        "N-320"
+        "N-318",
+        "N-266",
+        "N-319"
       ]
     },
     {
@@ -702,7 +702,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-320",
+        "N-319",
         "N-10326"
       ]
     },
@@ -727,8 +727,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-319",
-        "N-324"
+        "N-318",
+        "N-323"
       ]
     },
     {
@@ -750,7 +750,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-267",
+        "N-266",
         "N-10326"
       ]
     },
@@ -775,8 +775,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-314",
-        "N-321"
+        "N-313",
+        "N-320"
       ]
     },
     {
@@ -798,9 +798,9 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
+        "N-320",
         "N-321",
         "N-322",
-        "N-323",
         "N-10902"
       ]
     },
@@ -952,8 +952,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-221",
-      "ref": "N-221",
+      "@id": "N-220",
+      "ref": "N-220",
       "name": "Milo Yiannopoulos",
       "type": "person",
       "description": "Guest on a long episode in which, per the host, he defended her against Tim Pool's accusation.",
@@ -970,8 +970,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Dan Flood",
       "type": "person",
       "description": "Kirk's aide; the host says he was with Kirk in Korea, which fits Harry not seeing him.",
@@ -987,8 +987,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-313",
-      "ref": "N-313",
+      "@id": "N-312",
+      "ref": "N-312",
       "name": "Pierre Falcone",
       "type": "person",
       "description": "Angolagate figure named as Gaydamak's partner.",
@@ -1005,8 +1005,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-330",
-      "ref": "N-330",
+      "@id": "N-329",
+      "ref": "N-329",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "Her office is the only one the host says responded to her threat report.",
@@ -1039,8 +1039,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-539",
-      "ref": "N-539",
+      "@id": "N-538",
+      "ref": "N-538",
       "name": "Colin Powell",
       "type": "person",
       "description": "Named as helping present JTF-6 as a war on drugs.",
@@ -1308,8 +1308,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-881",
-      "ref": "N-881",
+      "@id": "N-878",
+      "ref": "N-878",
       "name": "George H.W. Bush",
       "type": "person",
       "description": "First named by the host at 00:05:09 in episode 44. President who created JTF-6 and ran on a war on drugs; heard in a clip.",
@@ -1328,8 +1328,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-882",
-      "ref": "N-882",
+      "@id": "N-879",
+      "ref": "N-879",
       "name": "Ronald Reagan",
       "type": "person",
       "description": "First named by the host at 00:05:09 in episode 44. President during Iran-Contra, mentioned for historical context.",
@@ -1498,7 +1498,7 @@
       "claim_timestamp": "00:05:09–00:11:14",
       "investigative_direction": "Cross-check DEA, CBP, and Army historical records for the 1990 Douglas–Agua Prieta tunnel case; verify Harry's military service record and JTF-6 assignment.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -1517,8 +1517,8 @@
       "claim_timestamp": "00:06:44–00:09:29",
       "investigative_direction": "FOIA requests to DEA, CBP, and DOJ for case files associated with the 1990 tunnel seizure and any photographic evidence.",
       "mentions_person_refs": [
-        "N-319",
-        "N-324"
+        "N-318",
+        "N-323"
       ]
     },
     {
@@ -1536,7 +1536,7 @@
       "claim_timestamp": "00:13:49",
       "investigative_direction": "Obtain copy of the NDA via FOIA or congressional inquiry; verify dates and signatories.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -1554,7 +1554,7 @@
       "claim_timestamp": "00:11:14–00:13:49",
       "investigative_direction": "Obtain Harry's DD-214, military personnel file, and award writeups through appropriate channels.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -1574,7 +1574,7 @@
       "claim_timestamp": "00:16:14–00:17:28",
       "investigative_direction": "Pull Candlewood Suites Fort Huachuca guest log for September 8, 2025 and corroborate with military visitor records.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -1593,7 +1593,7 @@
       "claim_timestamp": "00:18:57–00:20:14",
       "investigative_direction": "Cross-reference base access logs and incident report 861-1-2025-MPC446.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -1612,7 +1612,7 @@
       "claim_timestamp": "00:20:14–00:34:46",
       "investigative_direction": "Verify through FOIA of incident report 861-1-2025-MPC446 and any meeting attendance logs.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -1631,8 +1631,8 @@
       "claim_timestamp": "00:20:14–00:22:18",
       "investigative_direction": "FOIA incident report 861-1-2025-MPC446 for visitor/attendee list; cross-reference with public schedule of Brian Harpole for September 9, 2025.",
       "mentions_person_refs": [
-        "N-267",
-        "N-319",
+        "N-266",
+        "N-318",
         "N-1"
       ]
     },
@@ -1652,8 +1652,8 @@
       "claim_timestamp": "00:21:39",
       "investigative_direction": "FOIA incident report 861-1-2025-MPC446; identify Captain Neff through Army CID and Fort Huachuca force protection roster.",
       "mentions_person_refs": [
-        "N-319",
-        "N-320"
+        "N-318",
+        "N-319"
       ]
     },
     {
@@ -1672,8 +1672,8 @@
       "claim_timestamp": "00:28:13",
       "investigative_direction": "File FOIA request with the appropriate Army or DoD FOIA office for incident report 861-1-2025-MPC446.",
       "mentions_person_refs": [
-        "N-319",
-        "N-320"
+        "N-318",
+        "N-319"
       ]
     },
     {
@@ -1690,7 +1690,7 @@
       "claim_timestamp": "00:35:20–00:36:24",
       "investigative_direction": "Locate and verify the article's primary source (court records, news outlet) to confirm sentencing details and intelligence affiliation.",
       "mentions_person_refs": [
-        "N-314"
+        "N-313"
       ]
     },
     {
@@ -1707,7 +1707,7 @@
       "claim_timestamp": "00:35:20–00:36:24",
       "investigative_direction": "Verify biographical details against public records and prior reporting on Gaydamak.",
       "mentions_person_refs": [
-        "N-314"
+        "N-313"
       ]
     },
     {
@@ -1726,8 +1726,8 @@
       "claim_timestamp": "00:35:46–00:40:46",
       "investigative_direction": "Obtain corroborating evidence via public records, business filings, immigration status checks, and law enforcement confirmation.",
       "mentions_person_refs": [
-        "N-314",
-        "N-321"
+        "N-313",
+        "N-320"
       ]
     },
     {
@@ -1748,10 +1748,10 @@
       "claim_timestamp": "00:36:24–00:40:46",
       "investigative_direction": "Obtain employment records, immigration paperwork (I-9, visa status), and confirm identities through public records and Root Brands communications.",
       "mentions_person_refs": [
-        "N-314",
+        "N-313",
+        "N-320",
         "N-321",
-        "N-322",
-        "N-323"
+        "N-322"
       ]
     },
     {
@@ -1768,7 +1768,7 @@
       "claim_timestamp": "00:42:41–00:44:11",
       "investigative_direction": "Cross-reference Tim Pool's original broadcast to verify timestamp and context; host's response is rhetorical commentary rather than artifact-anchored.",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },
@@ -1786,7 +1786,7 @@
       "claim_timestamp": "00:43:32–00:44:11",
       "investigative_direction": "Verify Tim Pool's statement against the original broadcast and any public statements he has made about visiting the home.",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },
@@ -1806,7 +1806,7 @@
       "transcript_snippet": "Meanwhile, I get bullets fired at my property and I have to go live in the middle of nowhere and I got strangers coming up to my house in in in Maryland breaking in.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },
@@ -1907,7 +1907,7 @@
       "transcript_snippet": "I'm just going to open the tips box. And I kid you not when I say that it was the very first email uh that I saw",
       "mentions_person_refs": [
         "N-3",
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -1928,7 +1928,7 @@
       "transcript_snippet": "I can tell you that he is being 100% honest and you are free, uh, to look further into this.",
       "mentions_person_refs": [
         "N-3",
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -1948,9 +1948,9 @@
       "investigative_direction": "Check Department of Defense and Army histories of JTF-6 (established 1989) for its creation order, mandate and the role attributed to Colin Powell.",
       "transcript_snippet": "And this new command was being created down at the border uh by President George HW Bush. And it was presented to the American public as uh look a war on drugs with the help of Colin Powell.",
       "mentions_person_refs": [
-        "N-881",
-        "N-539",
-        "N-319"
+        "N-878",
+        "N-538",
+        "N-318"
       ]
     },
     {
@@ -1970,8 +1970,8 @@
       "investigative_direction": "Compare with the Tower Commission and Walsh Final Report on what Iran-Contra established regarding drugs versus weapons.",
       "transcript_snippet": "for those of you who are not read into massive CIA scandals, this was the scandal when the American public uh got to learn that our CIA was actually trafficking drugs and weapons throughout South America.",
       "mentions_person_refs": [
-        "N-882",
-        "N-881"
+        "N-879",
+        "N-878"
       ]
     },
     {
@@ -2011,7 +2011,7 @@
       "investigative_direction": "Review Bush campaign and September 1989 national drug-control speech records for border-focused commitments.",
       "transcript_snippet": "He had to really hit hard on drugs, drugs at the border, and declare that this White House was was going to do all that it could to stop these drugs from flooding into America.",
       "mentions_person_refs": [
-        "N-881"
+        "N-878"
       ]
     },
     {
@@ -2031,7 +2031,7 @@
       "investigative_direction": "Locate the original September 5, 1989 address and the DEA arrest record for the Lafayette Park purchase.",
       "transcript_snippet": "This is crack cocaine seized a few days ago by drug enforcement agents in a park just across the street from the White House.",
       "mentions_person_refs": [
-        "N-881"
+        "N-878"
       ]
     },
     {
@@ -2054,7 +2054,7 @@
       "investigative_direction": "Obtain JTF-6 operation records and Border Patrol Douglas Station files for the 1990 tunnel to check the six-day timeline and who supplied the warrant information.",
       "transcript_snippet": "In just 6 days, I planted sensors, translated data, and uh skipped the chain of command and gave proof of the existence and pinpointed the location",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2077,7 +2077,7 @@
       "investigative_direction": "Search court records for the warrant application, the issuing magistrate and affiant, and any later prosecution or discipline of JTF-6 or Border Patrol commanders.",
       "transcript_snippet": "which avoided tipping off any compromised commanders um that were working with the cartel.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2175,7 +2175,7 @@
       "investigative_direction": "Look for Army CID and U.S. Attorney (Tucson) files from 1990 documenting a compromised-identity incident.",
       "transcript_snippet": "Somehow in the immediate days after the bust prior to the United States side getting the photos from the Mexican authorities, my information was given to the cartels.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2197,7 +2197,7 @@
       "investigative_direction": "Ask Harry for the town name (transcript 'Naco, Arizona') and any contemporaneous report to Army CID or Border Patrol of the approach.",
       "transcript_snippet": "where I was approached by a cartel member confirming my identification by rattling off my mother's name, address, my high school, my friends, everything listed in my clearance packet",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2220,8 +2220,8 @@
       "investigative_direction": "Identify the JTF-6 commander in 1990 and the custodian of clearance files; obtain Harry's personnel security file via Privacy Act request.",
       "transcript_snippet": "which was supposed to be locked in custody in the custody of the joint task force 6 commander whose picture was with El Chapo",
       "mentions_person_refs": [
-        "N-319",
-        "N-324"
+        "N-318",
+        "N-323"
       ]
     },
     {
@@ -2243,7 +2243,7 @@
       "investigative_direction": "Request Army CID report of investigation and U.S. Attorney, District of Arizona files for 1990 involving a JTF-6 sensor operator.",
       "transcript_snippet": "The next day, I had a debrief with the Army Criminal Investigation Division and a prosecutor from Tucson, Arizona, informing me of how my ID became compromised.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2265,7 +2265,7 @@
       "investigative_direction": "Query U.S. Marshals WITSEC for any 1990 referral; identify the compromised commander and any plea or immunity arrangement.",
       "transcript_snippet": "The witness protection entrance never happened. The ball got dropped. I never got contacted for it. From what we uncovered, a deal was made with the compromised US Border Patrol agent commander.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2288,7 +2288,7 @@
       "investigative_direction": "This is the host's reading of one tipster's account; seek corroborating prosecutions or inspector-general findings from the 1990 case.",
       "transcript_snippet": "accidentally stumbled upon the fact that our government was implicated not in fighting the cartels but working with the cartels",
       "mentions_person_refs": [
-        "N-319",
+        "N-318",
         "N-3"
       ]
     },
@@ -2311,7 +2311,7 @@
       "investigative_direction": "Identify the county clerks' offices and case numbers, and obtain the recovered police and court records.",
       "transcript_snippet": "He now has all of his paperwork thanks to um some county clerks who did the right thing and were able to dig up these records.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2333,7 +2333,7 @@
       "investigative_direction": "Obtain the NDA release document and any name-change court order, with the host's consent from Harry.",
       "transcript_snippet": "Harry Meyers, who now has a new name, by the way, which I'm not saying, but he is finally released from this 35-year militaryra NDA.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2353,7 +2353,7 @@
       "investigative_direction": "Check Harry's airline, rental car and lodging records for the trip to Arizona in early September 2025.",
       "transcript_snippet": "He is going to travel from his home in Washington back down to the very base where this all began, right?",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2375,7 +2375,7 @@
       "investigative_direction": "Ask Harry who he now believes the woman was and obtain Candlewood Suites lobby footage and parking records for September 8, 2025.",
       "transcript_snippet": "thereafter the two of them get into a green pickup truck and they drive off.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2395,7 +2395,7 @@
       "investigative_direction": "Identify the soldiers and unit through Harry's description; check 10th Mountain Division presence in Sierra Vista in September 2025.",
       "transcript_snippet": "he runs into some soldiers, again, this is just all God at this point, who happen to be wearing 10th Mountain Division patches",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2416,7 +2416,7 @@
       "investigative_direction": "Confirm through Department of Defense records that JTF-SB is the successor to JTF-6 and where its Fort Huachuca element was located in September 2025.",
       "transcript_snippet": "the old joint task force 6 is now being continued and it's known as JTF, joint task task force southern border.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2439,7 +2439,7 @@
       "investigative_direction": "Identify the building and its tenant organizations on Fort Huachuca for September 2025 through installation facility records.",
       "transcript_snippet": "they're actually currently borrowing a building down there and he tells me that there would have been no other way he would have discovered where it was.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2461,7 +2461,7 @@
       "investigative_direction": "Establish whether any senior JTF-SB or Army North leadership meeting was held at Fort Huachuca on September 9, 2025.",
       "transcript_snippet": "You don't see this unless you're at the Pentagon or you're at the White House.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2484,8 +2484,8 @@
       "investigative_direction": "Ask Harry for a photo lineup of the central figure; compare against public images of senior Army and TPUSA-linked figures.",
       "transcript_snippet": "He said, \"You could just tell this is the most important person.\" Um, and he has gray hair. He's got glasses. I believe he said that he's about 510 and um",
       "mentions_person_refs": [
-        "N-319",
-        "N-267"
+        "N-318",
+        "N-266"
       ]
     },
     {
@@ -2507,8 +2507,8 @@
       "investigative_direction": "FOIA the military police blotter and incident report for the timing of the call that preceded the escort.",
       "transcript_snippet": "Suddenly somebody hits the panic button and two captains come out and they escort him out of the building",
       "mentions_person_refs": [
-        "N-319",
-        "N-267"
+        "N-318",
+        "N-266"
       ]
     },
     {
@@ -2530,7 +2530,7 @@
       "investigative_direction": "Identify the Fort Huachuca garrison commander on duty September 9, 2025 and request the incident report narrative.",
       "transcript_snippet": "they then conferenced with base commander. After I assumed they verified that I was not there to spy on that particular uh meeting, they decided it was okay to send me off post.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2553,7 +2553,7 @@
       "investigative_direction": "Verify Harry's rental return, boarding pass and connecting flight through Salt Lake City on September 10, 2025.",
       "transcript_snippet": "I got on a plane back home and I had a stop in Salt Lake. Uh upon landing and turning on the phone, um my wife is telling me about Charlie Kirk.",
       "mentions_person_refs": [
-        "N-319",
+        "N-318",
         "N-1"
       ]
     },
@@ -2576,7 +2576,7 @@
       "investigative_direction": "Compare with Salt Lake City airport passenger counts and flight-activity data for the morning of September 10, 2025.",
       "transcript_snippet": "I did not notice anything helpful other than the fact that the airport was not very crow uh crowded.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2598,7 +2598,7 @@
       "investigative_direction": "The incident report and any MP desk journal should record any hold decision.",
       "transcript_snippet": "they debated holding him for 48 hours uh for this perceived perhaps maybe bomb threat spy thing that's happening.",
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2619,7 +2619,7 @@
       "transcript_snippet": "Both of them are wrong. Okay, both of them are wrong. This really is just a coincidence.",
       "mentions_person_refs": [
         "N-3",
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2638,8 +2638,8 @@
       "transcript_snippet": "whether or not it's potential that Blake Neff has military connections as well.",
       "mentions_person_refs": [
         "N-3",
-        "N-160",
-        "N-320"
+        "N-159",
+        "N-319"
       ]
     },
     {
@@ -2661,8 +2661,8 @@
       "investigative_direction": "Identify Captain Neff through the Fort Huachuca force-protection roster and ask him to confirm or deny.",
       "transcript_snippet": "eventually he says was a person that had a heart and realized that he was not a part of any spy network and uh eventually escorted him off of the base and onto his way.",
       "mentions_person_refs": [
-        "N-319",
-        "N-320"
+        "N-318",
+        "N-319"
       ]
     },
     {
@@ -2684,7 +2684,7 @@
       "investigative_direction": "Establish what operation, if any, was in planning at JTF-SB in September 2025; this is Harry's inference rather than an observed fact.",
       "transcript_snippet": "know how these meetings work. These are the meetings that are had um ahead of an operation.",
       "mentions_person_refs": [
-        "N-319",
+        "N-318",
         "N-3"
       ]
     },
@@ -2707,7 +2707,7 @@
       "investigative_direction": "Ask Harry to name or point out the people he recognized and compare with the September 9 whereabouts of those individuals.",
       "transcript_snippet": "He feels certain that he recognized these people in the days following um Charlie's Kirk's assassination when a bunch of people are doing Fox News",
       "mentions_person_refs": [
-        "N-319",
+        "N-318",
         "N-1"
       ]
     },
@@ -2731,7 +2731,7 @@
       "transcript_snippet": "I have verified uh he has sent me so many documents everything from his like high school graduation certificate to his military documents to the police records",
       "mentions_person_refs": [
         "N-3",
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2756,7 +2756,7 @@
         "C-1889"
       ],
       "mentions_person_refs": [
-        "N-319"
+        "N-318"
       ]
     },
     {
@@ -2781,8 +2781,8 @@
         "C-1889"
       ],
       "mentions_person_refs": [
-        "N-319",
-        "N-320"
+        "N-318",
+        "N-319"
       ]
     },
     {
@@ -2804,8 +2804,8 @@
       "transcript_snippet": "did did you see Dan Flood? No. Well, that checks out because Dan Flood uh was with Charlie in Korea.",
       "mentions_person_refs": [
         "N-3",
-        "N-319",
-        "N-271",
+        "N-318",
+        "N-270",
         "N-1"
       ]
     },
@@ -2907,7 +2907,7 @@
       "investigative_direction": "Follow whether the Carroll-Harry meeting or interview was later aired.",
       "transcript_snippet": "I know that he wants to he said he would love to meet Ian Carroll and I guess he's watching his stuff and I will obviously make that happen",
       "mentions_person_refs": [
-        "N-319",
+        "N-318",
         "N-130",
         "N-3"
       ]
@@ -2974,8 +2974,8 @@
         "C-1869"
       ],
       "mentions_person_refs": [
+        "N-312",
         "N-313",
-        "N-314",
         "N-3"
       ]
     },
@@ -2998,8 +2998,8 @@
       "transcript_snippet": "after yesterday's episode, I had asked if anybody had anything or knew anything about, you know, Turning Point potentially working with this Pierre person.",
       "mentions_person_refs": [
         "N-3",
-        "N-313",
-        "N-314"
+        "N-312",
+        "N-313"
       ]
     },
     {
@@ -3019,8 +3019,8 @@
       "investigative_direction": "Obtain the tip emails and test any identifying detail against Israeli and French records on Gaydamak.",
       "transcript_snippet": "They are certain at the very least that he is from Israel",
       "mentions_person_refs": [
-        "N-314",
-        "N-321"
+        "N-313",
+        "N-320"
       ]
     },
     {
@@ -3040,7 +3040,7 @@
       "investigative_direction": "Identify the real estate agents and check Williamson County property records for any purchase by a Jonathan Schmidt.",
       "transcript_snippet": "if you're a real estate agent, they said he was um shopping for a home in the Brentwood area",
       "mentions_person_refs": [
-        "N-321"
+        "N-320"
       ]
     },
     {
@@ -3061,8 +3061,8 @@
       "transcript_snippet": "I reached out to Klay Thomas. I have reached out to Root Brands and I have requested more information about this uh Russian Israeli employee who is using the name Jonathan Schmidt and bringing in Ukrainians.",
       "mentions_person_refs": [
         "N-3",
-        "N-322",
-        "N-321"
+        "N-321",
+        "N-320"
       ]
     },
     {
@@ -3108,7 +3108,7 @@
       "transcript_snippet": "to the threat that I've been saying about the French intelligence agencies uh working with Israel and that is Tulsi Gabbert's office.",
       "mentions_person_refs": [
         "N-3",
-        "N-330"
+        "N-329"
       ]
     },
     {
@@ -3150,7 +3150,7 @@
       "transcript_snippet": "for the love of God, please send us an email more tips@candowins. com.",
       "mentions_person_refs": [
         "N-3",
-        "N-321"
+        "N-320"
       ]
     },
     {
@@ -3214,7 +3214,7 @@
       "transcript_snippet": "So again, if you know something, please email us more tips at. com.",
       "mentions_person_refs": [
         "N-3",
-        "N-321"
+        "N-320"
       ]
     },
     {
@@ -3235,8 +3235,8 @@
       "transcript_snippet": "He's supposed to be a billionaire. So why would he be working at all? H if this is the correct individual, I'm not buying the name Jonathan Schmidt.",
       "mentions_person_refs": [
         "N-3",
-        "N-314",
-        "N-321"
+        "N-313",
+        "N-320"
       ]
     },
     {
@@ -3257,7 +3257,7 @@
       "transcript_snippet": "And I do not believe he's legally allowed to be in this country.",
       "mentions_person_refs": [
         "N-3",
-        "N-321"
+        "N-320"
       ]
     },
     {
@@ -3305,7 +3305,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -3327,7 +3327,7 @@
       "investigative_direction": "Locate the earlier thumbnail and episode referred to and compare with what Pool said on air about benefiting.",
       "transcript_snippet": "that she'll put you on her thumbnail AND CLAIM YOU BENEFITED FROM CHARLIE KIRK'S ASSASSINATION WHICH SHE'S DOING TO ME RIGHT NOW.",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3",
         "N-1"
       ]
@@ -3351,7 +3351,7 @@
       "investigative_direction": "Pool could produce the messages; otherwise the claim rests on his say-so.",
       "transcript_snippet": "And all of these conservatives out there that send me these messages have no balls to call her out.",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },
@@ -3373,8 +3373,8 @@
       "transcript_snippet": "he accused me in a full episode with Milo Yiannopoulos, which we showed and contextualized, of being someone who benefited from Charlie Kirk's assassination.",
       "mentions_person_refs": [
         "N-3",
-        "N-268",
-        "N-221",
+        "N-267",
+        "N-220",
         "N-1"
       ]
     },
@@ -3396,7 +3396,7 @@
       "transcript_snippet": "two-hour episode with Milo in which Milo defended me and explained that I am not to blame for the lame excuses that the feds have given us",
       "mentions_person_refs": [
         "N-3",
-        "N-221",
+        "N-220",
         "N-1"
       ]
     },
@@ -3418,7 +3418,7 @@
       "transcript_snippet": "He's now essentially trying out because he's under financial pressure. He's trying out for a Zionist to pay him.",
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -3439,7 +3439,7 @@
       "transcript_snippet": "I have not focused my content on you. And anytime your name has come up, it has been because you have explicit explicitly been attacking me.",
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {

@@ -77,7 +77,7 @@
             "C-1600"
           ],
           "related_nodes": [
-            "N-224"
+            "N-223"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -128,8 +128,8 @@
             "C-1603"
           ],
           "related_nodes": [
-            "N-222",
-            "N-223"
+            "N-221",
+            "N-222"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -148,7 +148,7 @@
             "C-1605"
           ],
           "related_nodes": [
-            "N-222",
+            "N-221",
             "N-106"
           ],
           "tags": [],
@@ -175,7 +175,7 @@
             "C-1606"
           ],
           "related_nodes": [
-            "N-222",
+            "N-221",
             "N-56"
           ],
           "tags": [],
@@ -194,7 +194,7 @@
             "C-1607"
           ],
           "related_nodes": [
-            "N-222"
+            "N-221"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -220,8 +220,8 @@
             "C-1608"
           ],
           "related_nodes": [
-            "N-222",
-            "N-225"
+            "N-221",
+            "N-224"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -248,8 +248,8 @@
             "C-1610"
           ],
           "related_nodes": [
-            "N-191",
-            "N-160",
+            "N-190",
+            "N-159",
             "N-17",
             "N-2",
             "N-1"
@@ -306,7 +306,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-224"
+            "N-223"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -332,7 +332,7 @@
             "C-1614"
           ],
           "related_nodes": [
-            "N-224"
+            "N-223"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -358,7 +358,7 @@
             "C-1615"
           ],
           "related_nodes": [
-            "N-191",
+            "N-190",
             "N-2",
             "N-1"
           ],
@@ -386,7 +386,7 @@
             "C-1616"
           ],
           "related_nodes": [
-            "N-191",
+            "N-190",
             "N-10225",
             "N-10226"
           ],
@@ -595,8 +595,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-222",
-      "ref": "N-222",
+      "@id": "N-221",
+      "ref": "N-221",
       "name": "Brett Cooper",
       "type": "person",
       "description": "Subject of multiple on-air artifact-backed claims (commentary clips, online posts, Shawn Ryan appearance).",
@@ -623,15 +623,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-106",
-        "N-223",
+        "N-222",
         "N-56",
-        "N-225"
+        "N-224"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Subject of artifact-backed claims regarding post-shooting phone calls, behavior, and YouTube channel positioning.",
@@ -661,8 +661,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Eyewitness source providing on-record recounting of post-shooting events.",
@@ -679,7 +679,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-191",
+        "N-190",
         "N-17",
         "N-2"
       ]
@@ -704,13 +704,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-222"
+        "N-221"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-223",
-      "ref": "N-223",
+      "@id": "N-222",
+      "ref": "N-222",
       "name": "Randy Fine",
       "type": "person",
       "description": "Florida state representative referenced in Brett Cooper commentary.",
@@ -726,13 +726,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-222"
+        "N-221"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-223",
+      "ref": "N-223",
       "name": "Zohran Mamdani",
       "type": "person",
       "description": "NYC mayoral election winner; subject of debate clip, exit poll, and commentary.",
@@ -790,13 +790,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-222"
+        "N-221"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-225",
-      "ref": "N-225",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Host of the Shawn Ryan Show, on which Brett Cooper appeared.",
@@ -812,7 +812,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-222"
+        "N-221"
       ]
     },
     {
@@ -835,8 +835,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-191",
-        "N-160"
+        "N-190",
+        "N-159"
       ]
     },
     {
@@ -884,7 +884,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -907,8 +907,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-191",
-        "N-160",
+        "N-190",
+        "N-159",
         "N-17",
         "N-2"
       ]
@@ -932,7 +932,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-191",
+        "N-190",
         "N-2"
       ]
     },
@@ -1304,8 +1304,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-181",
-      "ref": "N-181",
+      "@id": "N-180",
+      "ref": "N-180",
       "name": "Camera Operator (UVU Event, 2025-09-10)",
       "type": "person",
       "description": "Camera Operator (UVU Event, 2025-09-10); the host's \"camera boy\" who removed cameras.",
@@ -1321,8 +1321,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-202",
-      "ref": "N-202",
+      "@id": "N-201",
+      "ref": "N-201",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Nick Fuentes; named in the Ted Cruz tweets and the host's MAGA comment.",
@@ -1340,8 +1340,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-212",
-      "ref": "N-212",
+      "@id": "N-211",
+      "ref": "N-211",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Jesse Watters (transcribed \"Jesse Watters\"); interviewer of Erika Kirk.",
@@ -1357,8 +1357,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-218",
-      "ref": "N-218",
+      "@id": "N-217",
+      "ref": "N-217",
       "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Eliza McCoy (host says \"Elizabeth McCoy\"); Mikey McCoy's wife in the host's three-calls claim.",
@@ -1374,8 +1374,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-596",
-      "ref": "N-596",
+      "@id": "N-594",
+      "ref": "N-594",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Jordan Peterson; subject of a viewer comment.",
@@ -1797,8 +1797,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-844",
-      "ref": "N-844",
+      "@id": "N-841",
+      "ref": "N-841",
       "name": "Andrew Cuomo",
       "type": "person",
       "description": "First named by the host at 00:09:05 in episode 26. Former New York governor who ran against Zohran Mamdani in the 2025 NYC mayoral race; the host says Republicans earlier called him corrupt.",
@@ -1815,8 +1815,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-845",
-      "ref": "N-845",
+      "@id": "N-842",
+      "ref": "N-842",
       "name": "Michael Bloomberg",
       "type": "person",
       "description": "First named by the host at 00:10:00 in episode 26. Billionaire the host says gave $8.3 million to a Cuomo-affiliated super PAC opposing Mamdani.",
@@ -1832,8 +1832,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-846",
-      "ref": "N-846",
+      "@id": "N-843",
+      "ref": "N-843",
       "name": "Joe Gebbia",
       "type": "person",
       "description": "First named by the host at 00:10:00 in episode 26 as the Airbnb co-founder \"Joseph Gbia\", whom she says gave $3.1 million against Mamdani.",
@@ -1849,8 +1849,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-847",
-      "ref": "N-847",
+      "@id": "N-844",
+      "ref": "N-844",
       "name": "Jeffrey Moussaieff Masson",
       "type": "person",
       "description": "First named by the host at 00:56:15 in episode 26 (transcribed \"Jeffrey Masson\" and \"Jeffrey Masson\"). Author of The Assault on Truth, whom the host cites on Freud and the Freud archives.",
@@ -1867,8 +1867,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-848",
-      "ref": "N-848",
+      "@id": "N-845",
+      "ref": "N-845",
       "name": "Theodor Herzl",
       "type": "person",
       "description": "First named by the host at 00:54:27 in episode 26 (transcribed \"Theodore Herzel\"). Founder of political Zionism whom the host links to Freud.",
@@ -1970,7 +1970,7 @@
       "claim_timestamp": "00:11:41–00:12:31",
       "investigative_direction": "Locate the full unedited debate transcript or video to verify the exact wording and any follow-up exchanges.",
       "mentions_person_refs": [
-        "N-224"
+        "N-223"
       ]
     },
     {
@@ -2004,8 +2004,8 @@
       "claim_timestamp": "00:18:25–00:18:57",
       "investigative_direction": "Locate the original Brett Cooper video for full context and identify any subsequent Fine response.",
       "mentions_person_refs": [
+        "N-221",
         "N-222",
-        "N-223",
         "N-36"
       ]
     },
@@ -2023,8 +2023,8 @@
       "claim_timestamp": "00:18:57–00:19:30",
       "investigative_direction": "N/A – host-stance claim linked to source artifact.",
       "mentions_person_refs": [
-        "N-222",
-        "N-223"
+        "N-221",
+        "N-222"
       ]
     },
     {
@@ -2042,7 +2042,7 @@
       "investigative_direction": "Verify the cited Ted Cruz tweets in their original form and timestamp.",
       "mentions_person_refs": [
         "N-106",
-        "N-222"
+        "N-221"
       ]
     },
     {
@@ -2060,7 +2060,7 @@
       "investigative_direction": "N/A – host-stance claim linked to source artifact.",
       "mentions_person_refs": [
         "N-3",
-        "N-222",
+        "N-221",
         "N-1"
       ]
     },
@@ -2079,7 +2079,7 @@
       "investigative_direction": "Verify the original Wexler post, account status (active/deleted), and any subsequent responses.",
       "mentions_person_refs": [
         "N-56",
-        "N-222"
+        "N-221"
       ]
     },
     {
@@ -2096,7 +2096,7 @@
       "claim_timestamp": "00:23:37–00:24:10",
       "investigative_direction": "Identify the original poster accounts and verify the original posts.",
       "mentions_person_refs": [
-        "N-222"
+        "N-221"
       ]
     },
     {
@@ -2113,8 +2113,8 @@
       "claim_timestamp": "00:23:55",
       "investigative_direction": "Locate the full Shawn Ryan Show episode for complete context and date verification.",
       "mentions_person_refs": [
-        "N-222",
-        "N-225"
+        "N-221",
+        "N-224"
       ]
     },
     {
@@ -2133,8 +2133,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-17",
-        "N-160",
-        "N-191",
+        "N-159",
+        "N-190",
         "N-2"
       ]
     },
@@ -2156,8 +2156,8 @@
       "investigative_direction": "Obtain and analyze the post-shooting footage showing Mikey McCoy's movements and phone usage against Nef's timeline.",
       "mentions_person_refs": [
         "N-17",
-        "N-160",
-        "N-191",
+        "N-159",
+        "N-190",
         "N-2"
       ]
     },
@@ -2193,7 +2193,7 @@
       "investigative_direction": "Verify the original Josh Hammer segment and identify the outlet.",
       "mentions_person_refs": [
         "N-55",
-        "N-224"
+        "N-223"
       ]
     },
     {
@@ -2228,7 +2228,7 @@
       "investigative_direction": "Obtain the full CNN exit poll crosstabs and methodology to verify exact figures and sample composition.",
       "mentions_person_refs": [
         "N-67",
-        "N-224"
+        "N-223"
       ]
     },
     {
@@ -2247,10 +2247,10 @@
       "claim_timestamp": "00:45:19–00:46:08",
       "investigative_direction": "Independently verify YouTube scheduling metadata for the relevant timeframe.",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-2",
         "N-1",
-        "N-218"
+        "N-217"
       ]
     },
     {
@@ -2272,7 +2272,7 @@
       "investigative_direction": "Obtain and analyze the full UVU scene footage from multiple angles; locate any official first-aid or security-team accounts; verify equipment-box presence in pre-event setup imagery.",
       "mentions_person_refs": [
         "N-1",
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -2476,7 +2476,7 @@
       "mentions_person_refs": [
         "N-17",
         "N-1",
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -2539,8 +2539,8 @@
       "investigative_direction": "Check certified NYC mayoral results and the dated Republican statements about Cuomo.",
       "transcript_snippet": "He won pretty handily against Andrew Cuomo, which like 5 minutes ago, the Republican party was telling us he was unbelievably corrupt and that he should be in prison.",
       "mentions_person_refs": [
-        "N-224",
-        "N-844",
+        "N-223",
+        "N-841",
         "N-3"
       ]
     },
@@ -2562,7 +2562,7 @@
       "transcript_snippet": "Bill gave 1.75 million and Mom Donnie won irrespective of the money that was donated against him.",
       "mentions_person_refs": [
         "N-37",
-        "N-224"
+        "N-223"
       ]
     },
     {
@@ -2582,9 +2582,9 @@
       "investigative_direction": "Check NYC Campaign Finance Board and super PAC filings for each donor's contribution.",
       "transcript_snippet": "He gave $8.3 million to Stop Mand Donnie and it didn't matter.",
       "mentions_person_refs": [
-        "N-845",
-        "N-846",
-        "N-224"
+        "N-842",
+        "N-843",
+        "N-223"
       ]
     },
     {
@@ -2604,7 +2604,7 @@
       "investigative_direction": "Locate the unedited mayoral debate video and confirm which candidate gave each answer.",
       "transcript_snippet": "given the hostility and the anti-semitism that has been uh shown in New York, I would go to Israel.",
       "mentions_person_refs": [
-        "N-844"
+        "N-841"
       ]
     },
     {
@@ -2641,7 +2641,7 @@
       "investigative_direction": "Locate the unedited debate video and compare the exact exchange with the host's characterization.",
       "transcript_snippet": "Do you believe in a Jewish state of Israel? >> I believe Israel has the right to exist",
       "mentions_person_refs": [
-        "N-224"
+        "N-223"
       ]
     },
     {
@@ -2680,7 +2680,7 @@
       "investigative_direction": "Check city Jewish population estimates and the exit-poll breakdown by religion.",
       "transcript_snippet": "New York has the largest population of Jewish people of any city in the world next to Israel.",
       "mentions_person_refs": [
-        "N-224",
+        "N-223",
         "N-3"
       ]
     },
@@ -2722,7 +2722,7 @@
       "transcript_snippet": "President Trump dedicated 900% more truth social uh posts to ensuring that Mandani would lose than to ensuring that Charlie Kirk's murderer was found.",
       "mentions_person_refs": [
         "N-5",
-        "N-224",
+        "N-223",
         "N-1"
       ]
     },
@@ -2764,7 +2764,7 @@
       "mentions_person_refs": [
         "N-5",
         "N-22",
-        "N-202",
+        "N-201",
         "N-9",
         "N-3"
       ]
@@ -2784,8 +2784,8 @@
       "investigative_direction": "Locate Cooper's pre-election video urging New Yorkers to vote.",
       "transcript_snippet": "Zionist wanted her do her part and encourage New Yorkers to get out and vote against Mam Donnie.",
       "mentions_person_refs": [
-        "N-222",
-        "N-224"
+        "N-221",
+        "N-223"
       ]
     },
     {
@@ -2805,7 +2805,7 @@
       "investigative_direction": "Locate the Republican Jewish Coalition event recording and Cooper's reaction video.",
       "transcript_snippet": "she watched the totally deranged Tucker is not MAGA Republican Jewish coalition event",
       "mentions_person_refs": [
-        "N-222",
+        "N-221",
         "N-22"
       ]
     },
@@ -2826,8 +2826,8 @@
       "investigative_direction": "Verify Fine's handshake remark and anger-management reporting in primary sources.",
       "transcript_snippet": "considering you had to go through anger management classes a few years ago, I genuinely think you would probably be happier if you just moved to Israel.",
       "mentions_person_refs": [
+        "N-221",
         "N-222",
-        "N-223",
         "N-36"
       ]
     },
@@ -2849,8 +2849,8 @@
       "transcript_snippet": "Trump's bombing of the Ayatollah's nuclear facilities made the little Nazi mad.",
       "mentions_person_refs": [
         "N-106",
-        "N-222",
-        "N-202",
+        "N-221",
+        "N-201",
         "N-22",
         "N-5"
       ]
@@ -2893,8 +2893,8 @@
       "transcript_snippet": "I don't know who this angry lady is, but she's missing a key distinction.",
       "mentions_person_refs": [
         "N-106",
-        "N-222",
-        "N-202"
+        "N-221",
+        "N-201"
       ]
     },
     {
@@ -2915,7 +2915,7 @@
       "transcript_snippet": "you were featured in a movie that Brett Cooper starred in at the Daily Wire, Lady Ballers.",
       "mentions_person_refs": [
         "N-106",
-        "N-222",
+        "N-221",
         "N-101"
       ]
     },
@@ -2936,8 +2936,8 @@
       "investigative_direction": "Locate the full Shawn Ryan episode featuring Cooper.",
       "transcript_snippet": "she was able to speak to Don, her first husband, to hear from him.",
       "mentions_person_refs": [
-        "N-222",
-        "N-225"
+        "N-221",
+        "N-224"
       ]
     },
     {
@@ -2957,8 +2957,8 @@
       "investigative_direction": "Locate the full Shawn Ryan episode and confirm what Cooper said about her brothers.",
       "transcript_snippet": "one of her twin brothers dropped dead from a heart attack unexpectedly.",
       "mentions_person_refs": [
-        "N-222",
-        "N-225"
+        "N-221",
+        "N-224"
       ]
     },
     {
@@ -2976,7 +2976,7 @@
       "investigative_direction": "None: sweeping assertion about a group; record only as said on air.",
       "transcript_snippet": "Because these are the descendants of Boleviks.",
       "mentions_person_refs": [
-        "N-222"
+        "N-221"
       ]
     },
     {
@@ -3070,7 +3070,7 @@
       "transcript_snippet": "They're on either side of him, which is very strange.",
       "mentions_person_refs": [
         "N-1",
-        "N-181"
+        "N-180"
       ]
     },
     {
@@ -3121,7 +3121,7 @@
         "C-1463"
       ],
       "mentions_person_refs": [
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -3143,8 +3143,8 @@
       "investigative_direction": "Obtain Neff's full interview and the video of his and McCoy's movements.",
       "transcript_snippet": "I and him both had the reaction of let's get out of here before we were both shot.",
       "mentions_person_refs": [
-        "N-160",
-        "N-191",
+        "N-159",
+        "N-190",
         "N-1"
       ]
     },
@@ -3167,8 +3167,8 @@
       "investigative_direction": "Compare Neff's account with footage tracking both men's positions.",
       "transcript_snippet": "I think I was ahead of him as we left.",
       "mentions_person_refs": [
-        "N-160",
-        "N-191"
+        "N-159",
+        "N-190"
       ]
     },
     {
@@ -3190,8 +3190,8 @@
       "investigative_direction": "Obtain Neff's full interview and statements from others at the scene.",
       "transcript_snippet": "he was like a general directing a battle where he was you know grabbing people and saying okay we need to get to the hospital",
       "mentions_person_refs": [
-        "N-160",
-        "N-191",
+        "N-159",
+        "N-190",
         "N-2"
       ]
     },
@@ -3214,8 +3214,8 @@
       "investigative_direction": "Obtain Neff's full interview and ask other staff present whether the instruction was given.",
       "transcript_snippet": "none of you can say anything that you've heard because it is Erika is not going to hear about this from anyone except me.",
       "mentions_person_refs": [
-        "N-160",
-        "N-191",
+        "N-159",
+        "N-190",
         "N-2"
       ]
     },
@@ -3238,8 +3238,8 @@
       "investigative_direction": "Obtain wide footage tracking both men's movements from the shot to the vehicles.",
       "transcript_snippet": "And he is on the phone already. And Blake Neff is nowhere to be seen.",
       "mentions_person_refs": [
-        "N-191",
-        "N-160"
+        "N-190",
+        "N-159"
       ]
     },
     {
@@ -3260,9 +3260,9 @@
       "investigative_direction": "Obtain call logs for Mikey McCoy and Erika Kirk covering the minutes after the shot.",
       "transcript_snippet": "I'm supposed to believe what this was a 15-second phone call.",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-2",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -3282,8 +3282,8 @@
       "investigative_direction": "Identify the host's source and obtain call logs for the three reported calls.",
       "transcript_snippet": "He made three cuz he also called Elizabeth McCoy, his wife, who screamed at the office.",
       "mentions_person_refs": [
-        "N-191",
-        "N-218"
+        "N-190",
+        "N-217"
       ]
     },
     {
@@ -3324,7 +3324,7 @@
       "investigative_direction": "Locate Neff's statement on arrival time and compare with transport and hospital records.",
       "transcript_snippet": "Blake Neff says elsewhere they got into the hospital within 25 minutes.",
       "mentions_person_refs": [
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -3344,8 +3344,8 @@
       "investigative_direction": "Obtain hospital access logs and security records for who was admitted and when.",
       "transcript_snippet": "the hospital was put on lockdown when Charlie came in.",
       "mentions_person_refs": [
-        "N-191",
-        "N-160",
+        "N-190",
+        "N-159",
         "N-7"
       ]
     },
@@ -3411,7 +3411,7 @@
         "C-6553"
       ],
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-3"
       ]
     },
@@ -3460,8 +3460,8 @@
         "N-1",
         "N-97",
         "N-95",
-        "N-191",
-        "N-218"
+        "N-190",
+        "N-217"
       ]
     },
     {
@@ -3479,7 +3479,7 @@
       "investigative_direction": "Locate the Fox News airing date and transcript of the Watters interview with Erika Kirk.",
       "transcript_snippet": "when the very anticipated interview drops between Jesse Watters and Erika Kirk, I will be watching.",
       "mentions_person_refs": [
-        "N-212",
+        "N-211",
         "N-2",
         "N-3"
       ]
@@ -3608,7 +3608,7 @@
       "transcript_snippet": "you are literally going to have a Karl Marx quoting Hamasloving Red Green Alliance sicko.",
       "mentions_person_refs": [
         "N-55",
-        "N-224"
+        "N-223"
       ]
     },
     {
@@ -3650,9 +3650,9 @@
       "investigative_direction": "None: reading recommendation recorded as said on air.",
       "transcript_snippet": "I would start with the assault on truth from by Jeffrey Masson and then move on to this most critical book uh which is Sigmund Freud in the Jewish Mystical Tradition.",
       "mentions_person_refs": [
-        "N-847",
+        "N-844",
         "N-50",
-        "N-848",
+        "N-845",
         "N-3"
       ]
     },
@@ -3672,7 +3672,7 @@
       "transcript_snippet": "That is why they celebrate Sigmund Freud is because he mainstreamed gaslighting people that they harmed.",
       "mentions_person_refs": [
         "N-50",
-        "N-847"
+        "N-844"
       ]
     },
     {
@@ -3692,7 +3692,7 @@
       "investigative_direction": "None: host states no knowledge; a viewer comment prompted it.",
       "transcript_snippet": "I did not know that he got sick while he was in Israel.",
       "mentions_person_refs": [
-        "N-596",
+        "N-594",
         "N-3"
       ]
     },

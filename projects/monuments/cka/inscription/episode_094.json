@@ -534,7 +534,7 @@
           "description": "Comment by user \"A Trice Trish Magestus\" re: \"first person to leak the death of Charlie Kirk is a licensed gun dealer with a shady past\"",
           "related_claims": [],
           "related_nodes": [
-            "N-342",
+            "N-341",
             "N-10636"
           ],
           "tags": [],
@@ -1191,8 +1191,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-221",
-      "ref": "N-221",
+      "@id": "N-220",
+      "ref": "N-220",
       "name": "Milo Yiannopoulos",
       "type": "person",
       "description": "Author of text messages disclosed in A-1848.1 regarding Ben Shapiro and TPUSA.",
@@ -1213,8 +1213,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-426",
-      "ref": "N-426",
+      "@id": "N-425",
+      "ref": "N-425",
       "name": "Richard Novak",
       "type": "person",
       "description": "First named by the host at 00:10:02 in episode 94. Aliases: Richard Novak.",
@@ -1230,8 +1230,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-427",
-      "ref": "N-427",
+      "@id": "N-426",
+      "ref": "N-426",
       "name": "Alan Jacoby",
       "type": "person",
       "description": "First named by the host at 00:41:44 in episode 94.",
@@ -1343,8 +1343,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-193",
+      "ref": "N-193",
       "name": "David Horowitz",
       "type": "person",
       "description": "David Horowitz, whose center the host says she was traveling to speak at.",
@@ -1360,8 +1360,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-269",
-      "ref": "N-269",
+      "@id": "N-268",
+      "ref": "N-268",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Joe Rogan, who the host says finds Erika weird.",
@@ -1377,8 +1377,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-273",
-      "ref": "N-273",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Nate Brooksby",
       "type": "person",
       "description": "Sheriff Nate Brooksby, whom the host says admitted Robinson was coerced.",
@@ -1394,8 +1394,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Bari Weiss, to whom the host says Erika said she was 100 percent sure.",
@@ -1411,8 +1411,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-342",
-      "ref": "N-342",
+      "@id": "N-341",
+      "ref": "N-341",
       "name": "Victor Marx",
       "type": "person",
       "description": "Victor Marx, the subject of the viewer comment the host endorses.",
@@ -1428,8 +1428,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-534",
-      "ref": "N-534",
+      "@id": "N-533",
+      "ref": "N-533",
       "name": "Hillary Clinton",
       "type": "person",
       "description": "Hillary Clinton, subject of the host's aside.",
@@ -1445,8 +1445,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-602",
-      "ref": "N-602",
+      "@id": "N-600",
+      "ref": "N-600",
       "name": "Melania Trump",
       "type": "person",
       "description": "Melania Trump, whose circle the host says fears Loomer.",
@@ -1462,8 +1462,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-830",
-      "ref": "N-830",
+      "@id": "N-827",
+      "ref": "N-827",
       "name": "Kathy Nester",
       "type": "person",
       "description": "Kathy Nester, defense attorney quoted on the phone, the gun and the physical evidence.",
@@ -2115,8 +2115,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-918",
-      "ref": "N-918",
+      "@id": "N-915",
+      "ref": "N-915",
       "name": "Casey DeSantis",
       "type": "person",
       "description": "First named by the host at 00:47:42 in episode 94. Named by the host as the subject of a Loomer claim that she was making up cancer.",
@@ -2151,8 +2151,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-919",
-      "ref": "N-919",
+      "@id": "N-916",
+      "ref": "N-916",
       "name": "Roger Stone",
       "type": "person",
       "description": "First named by the host at 00:51:13 in episode 94. Named by the host as a Trump friend who she says knows about Loomer's suicidal attempts and accounts.",
@@ -2168,8 +2168,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-920",
-      "ref": "N-920",
+      "@id": "N-917",
+      "ref": "N-917",
       "name": "Jessica Tarlov",
       "type": "person",
       "description": "First named by the host at 00:34:38 in episode 94. Named in the Truth Social post the host reads as the person Trump says he was watching.",
@@ -2186,8 +2186,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-921",
-      "ref": "N-921",
+      "@id": "N-918",
+      "ref": "N-918",
       "name": "Jack Dorsey",
       "type": "person",
       "description": "First named by the host at 00:36:39 in episode 94. Named by the host as the head of Twitter when Loomer lost her checkmark.",
@@ -2275,7 +2275,7 @@
       "claim_timestamp": "00:10:02",
       "investigative_direction": "Confirm whether data files have subsequently been produced; review any docket entries reflecting discovery status.",
       "mentions_person_refs": [
-        "N-426"
+        "N-425"
       ]
     },
     {
@@ -2294,7 +2294,7 @@
       "claim_timestamp": "00:11:37",
       "investigative_direction": "Request the September 2025 DNA reports via public records or docket inspection.",
       "mentions_person_refs": [
-        "N-426"
+        "N-425"
       ]
     },
     {
@@ -2313,7 +2313,7 @@
       "claim_timestamp": "00:12:20",
       "investigative_direction": "Verify chain of custody and forensic examination status of Tyler Robinson's phone.",
       "mentions_person_refs": [
-        "N-830",
+        "N-827",
         "N-40"
       ]
     },
@@ -2333,7 +2333,7 @@
       "claim_timestamp": "00:15:13",
       "investigative_direction": "Confirm physical location of the firearm and whether defense examination has occurred as of case docket.",
       "mentions_person_refs": [
-        "N-830"
+        "N-827"
       ]
     },
     {
@@ -2352,7 +2352,7 @@
       "claim_timestamp": "00:15:13",
       "investigative_direction": "Determine jurisdictional basis for federal custody of evidence in a state case; check transfer records.",
       "mentions_person_refs": [
-        "N-830"
+        "N-827"
       ]
     },
     {
@@ -2503,7 +2503,7 @@
       "investigative_direction": "Verify Jacoby's tweet directly; check for any legal filings or counter-statements.",
       "mentions_person_refs": [
         "N-60",
-        "N-427",
+        "N-426",
         "N-5"
       ]
     },
@@ -2542,7 +2542,7 @@
       "claim_timestamp": "00:40:15",
       "investigative_direction": "Locate original Yiannopoulos publication; assess sourcing for clinical claims.",
       "mentions_person_refs": [
-        "N-221",
+        "N-220",
         "N-60"
       ]
     },
@@ -2562,7 +2562,7 @@
       "claim_timestamp": "00:44:53",
       "investigative_direction": "Locate corroborating messages cited by Milo; verify volunteer's identity and willingness to be a source.",
       "mentions_person_refs": [
-        "N-221",
+        "N-220",
         "N-60"
       ]
     },
@@ -2868,7 +2868,7 @@
       "investigative_direction": "Check Brooksby's press statements and recorded remarks for the wording the host paraphrases as coercion.",
       "transcript_snippet": "Sheriff Brooksby did admit that rather the the truth is that Tyler Robinson was essentially coerced to go in.",
       "mentions_person_refs": [
-        "N-273",
+        "N-272",
         "N-40"
       ]
     },
@@ -3070,7 +3070,7 @@
       "transcript_snippet": "She was telling Bari Weiss, \"Yes, 100%.\"",
       "mentions_person_refs": [
         "N-2",
-        "N-279",
+        "N-278",
         "N-40"
       ]
     },
@@ -3163,7 +3163,7 @@
       "investigative_direction": "Check the docket for the dates of the ATF and FBI productions. The caption is garbled here, so confirm the sentence against the hearing audio.",
       "transcript_snippet": "why they provided it in the last 3 weeks, and why the FBI still hasn't.",
       "mentions_person_refs": [
-        "N-426"
+        "N-425"
       ]
     },
     {
@@ -3187,7 +3187,7 @@
       "investigative_direction": "Identify Mr. McBride's role and the two examinations (ATF and FBI laboratory work) from the hearing record and the lab reports.",
       "transcript_snippet": "Mr. McBride says, \"Oh, there's two different things, and so they're both right because they each independently reach the same conclusion, but they're testing different objects in different labs with different protocols.",
       "mentions_person_refs": [
-        "N-426"
+        "N-425"
       ]
     },
     {
@@ -3210,7 +3210,7 @@
       "investigative_direction": "Compare the date of the DNA reports with the date they were first produced to the defense on the docket.",
       "transcript_snippet": "It should have all been produced some of it 6 months ago because we have DNA reports from September of 2025",
       "mentions_person_refs": [
-        "N-426"
+        "N-425"
       ]
     },
     {
@@ -3277,7 +3277,7 @@
       "investigative_direction": "Check the state's witness list for the probable cause hearing once filed.",
       "transcript_snippet": "the state's indicated they may call individuals you um uniquely connected to my client.",
       "mentions_person_refs": [
-        "N-830",
+        "N-827",
         "N-40"
       ]
     },
@@ -3346,7 +3346,7 @@
       "investigative_direction": "Check the docket or any inspection log for the date and scope of the defense's physical evidence review.",
       "transcript_snippet": "We went to examine physical evidence this past week um this week. We it took us 6 hours. We did finish the what the SBI has.",
       "mentions_person_refs": [
-        "N-830"
+        "N-827"
       ]
     },
     {
@@ -3743,7 +3743,7 @@
       "investigative_direction": "Find any Rogan remarks about Erika Kirk, on or off air.",
       "transcript_snippet": "Maybe she'll do three hours with Joe Rogan. He thinks she's weird too",
       "mentions_person_refs": [
-        "N-269",
+        "N-268",
         "N-2"
       ]
     },
@@ -3782,7 +3782,7 @@
       "transcript_snippet": "their relationship as Elizabeth Lane said, nobody's ever accused them of being in love.",
       "mentions_person_refs": [
         "N-6",
-        "N-534"
+        "N-533"
       ]
     },
     {
@@ -3850,7 +3850,7 @@
       "transcript_snippet": "I'm watching one of the least attractive and talented people on all of television, Jessica Tarlov.",
       "mentions_person_refs": [
         "N-5",
-        "N-920"
+        "N-917"
       ]
     },
     {
@@ -3873,7 +3873,7 @@
       "transcript_snippet": "CNN had me at 100% saying they never saw that before. Get her off air, she is bad for our country.",
       "mentions_person_refs": [
         "N-5",
-        "N-920"
+        "N-917"
       ]
     },
     {
@@ -3960,8 +3960,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-60",
-        "N-194",
-        "N-921"
+        "N-193",
+        "N-918"
       ]
     },
     {
@@ -4136,7 +4136,7 @@
       "investigative_direction": "Confirm Yiannopoulos's actual role in Loomer's campaigns from campaign filings; he describes himself in the audio as helping run the 2020 campaign.",
       "transcript_snippet": "according to her former campaign manager, Milo Yiannopoulos, who she has never sued and simply blocks, he wrote and published a piece which should be read by everybody.",
       "mentions_person_refs": [
-        "N-221",
+        "N-220",
         "N-60"
       ]
     },
@@ -4157,7 +4157,7 @@
       "investigative_direction": "The sources are unnamed; the host would need to identify or corroborate the people in Melania's circle.",
       "transcript_snippet": "I am told by people in Melania's circle that they believe, like, yeah, actually the most likely person to harm Donald Trump would be Laura Loomer",
       "mentions_person_refs": [
-        "N-602",
+        "N-600",
         "N-60",
         "N-5"
       ]
@@ -4221,7 +4221,7 @@
       "investigative_direction": "Retrieve the tweet with its date and confirm Jacoby's identity as Patriot Cigar's founder.",
       "transcript_snippet": "he is the founder of Patriot Cigar, and he just tweeted this 10 days ago.",
       "mentions_person_refs": [
-        "N-427",
+        "N-426",
         "N-60"
       ]
     },
@@ -4247,7 +4247,7 @@
         "C-2779"
       ],
       "mentions_person_refs": [
-        "N-427",
+        "N-426",
         "N-60"
       ]
     },
@@ -4273,7 +4273,7 @@
         "C-2782"
       ],
       "mentions_person_refs": [
-        "N-221",
+        "N-220",
         "N-60"
       ]
     },
@@ -4299,7 +4299,7 @@
         "C-2782"
       ],
       "mentions_person_refs": [
-        "N-221",
+        "N-220",
         "N-60"
       ]
     },
@@ -4325,7 +4325,7 @@
         "C-2782"
       ],
       "mentions_person_refs": [
-        "N-221",
+        "N-220",
         "N-60"
       ]
     },
@@ -4348,7 +4348,7 @@
       "investigative_direction": "Compare with campaign filings and with Milo's other statements about being only loosely allied with Loomer.",
       "transcript_snippet": "He was a young uh Brazilian volunteer on her 2020 congressional campaign. I know because I helped to run that campaign, okay?",
       "mentions_person_refs": [
-        "N-221",
+        "N-220",
         "N-60"
       ]
     },
@@ -4411,7 +4411,7 @@
       "mentions_person_refs": [
         "N-60",
         "N-5",
-        "N-918"
+        "N-915"
       ]
     },
     {
@@ -4614,7 +4614,7 @@
       "mentions_person_refs": [
         "N-60",
         "N-5",
-        "N-919"
+        "N-916"
       ]
     },
     {
@@ -4791,7 +4791,7 @@
         "C-2749"
       ],
       "mentions_person_refs": [
-        "N-342"
+        "N-341"
       ]
     },
     {

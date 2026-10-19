@@ -49,7 +49,7 @@
             "C-1977"
           ],
           "related_nodes": [
-            "N-363",
+            "N-362",
             "N-10368"
           ],
           "tags": [],
@@ -76,7 +76,7 @@
             "C-1971"
           ],
           "related_nodes": [
-            "N-362",
+            "N-361",
             "N-10367"
           ],
           "tags": [],
@@ -95,7 +95,7 @@
             "C-1971"
           ],
           "related_nodes": [
-            "N-362"
+            "N-361"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -118,8 +118,8 @@
             "C-1975"
           ],
           "related_nodes": [
-            "N-362",
-            "N-320",
+            "N-361",
+            "N-319",
             "N-10367"
           ],
           "tags": [],
@@ -146,7 +146,7 @@
             "C-1975"
           ],
           "related_nodes": [
-            "N-364",
+            "N-363",
             "N-10367"
           ],
           "tags": [],
@@ -280,7 +280,7 @@
             "C-5319"
           ],
           "related_nodes": [
-            "N-362"
+            "N-361"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -297,7 +297,7 @@
             "C-5332"
           ],
           "related_nodes": [
-            "N-362"
+            "N-361"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -362,8 +362,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-362",
-      "ref": "N-362",
+      "@id": "N-361",
+      "ref": "N-361",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Pseudonymized eyewitness who claims to have visited Fort Huachuca on September 8–9, 2025 and identified multiple individuals by resemblance. Claims 35-year gag order related to 1990 JTF6 drug tunnel discovery. Has provided metadata-verified video and military ID cards to host.",
@@ -391,8 +391,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-363",
-      "ref": "N-363",
+      "@id": "N-362",
+      "ref": "N-362",
       "name": "Bruce Bevins",
       "type": "person",
       "description": "Named in viewer email (A-1557.2) as instructor of a Fort Huachuca class allegedly teaching military personnel to infiltrate Christian organizations through covert psychological operations. Host states she had not heard of this individual prior to receiving the email.",
@@ -414,8 +414,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-363",
+      "ref": "N-363",
       "name": "Mark Amodei",
       "type": "person",
       "description": "U.S. Congressman (Nevada) whose photograph was shown to \"Mitch\" during the interview. Witness identified him by resemblance at ~95% confidence as the congressman-type figure seen at Fort Huachuca on September 9, 2025.",
@@ -436,8 +436,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-320",
-      "ref": "N-320",
+      "@id": "N-319",
+      "ref": "N-319",
       "name": "Captain Adam Neff",
       "type": "person",
       "description": "U.S. Army captain named by witness \"Mitch\" as the officer who escorted him out of the JTF building and sat with him on a park bench at Fort Huachuca on September 9, 2025.",
@@ -453,7 +453,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -462,7 +462,7 @@
       "ref": "N-10367",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
       "type": "investigation_target",
-      "description": "Persistent investigation target: claimed physical encounter by \"Mitch\" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erika Kirk), Brian Harpole (see N-10367 related), and Captain Neff (N-320).",
+      "description": "Persistent investigation target: claimed physical encounter by \"Mitch\" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erika Kirk), Brian Harpole (see N-10367 related), and Captain Neff (N-319).",
       "related_artifacts": [
         "A-1558.1",
         "A-1558.3",
@@ -484,9 +484,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-362",
-        "N-364",
-        "N-320"
+        "N-361",
+        "N-363",
+        "N-319"
       ]
     },
     {
@@ -511,7 +511,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -584,8 +584,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -794,8 +794,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-262",
-      "ref": "N-262",
+      "@id": "N-261",
+      "ref": "N-261",
       "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Named by the host for removing the camera behind Charlie Kirk's head.",
@@ -1208,7 +1208,7 @@
       "claim_timestamp": "00:26:10–00:37:00",
       "investigative_direction": "Review any court filings or legal correspondence referenced by witness; verify his military service record through official channels.",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -1229,7 +1229,7 @@
       "claim_timestamp": "00:19:30",
       "investigative_direction": "Obtain original metadata records; verify hotel reservation records and base entry logs for the named date window.",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -1248,7 +1248,7 @@
       "claim_timestamp": "00:44:46–00:50:12",
       "investigative_direction": "Cross-reference Fort Huachuca visitor logs for September 9, 2025; identify Captain Neff and corroborate encounter.",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -1269,7 +1269,7 @@
       "investigative_direction": "Obtain independent corroborating surveillance or visitor logs from Candlewood Inn & Suites for September 8, 2025; verify witness's capacity for facial identification.",
       "mentions_person_refs": [
         "N-2",
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -1289,8 +1289,8 @@
       "claim_timestamp": "00:55:09–00:57:28",
       "investigative_direction": "Verify witness's stated capacity for facial recognition; obtain independent surveillance records from Fort Huachuca for September 9, 2025.",
       "mentions_person_refs": [
-        "N-362",
-        "N-267"
+        "N-361",
+        "N-266"
       ]
     },
     {
@@ -1310,8 +1310,8 @@
       "claim_timestamp": "01:01:18",
       "investigative_direction": "Cross-check Congressman Amodei's official schedule and any flights to Arizona on or around September 9, 2025; obtain independent corroboration.",
       "mentions_person_refs": [
-        "N-362",
-        "N-364"
+        "N-361",
+        "N-363"
       ]
     },
     {
@@ -1330,7 +1330,7 @@
       "claim_timestamp": "00:14:48–00:17:53",
       "investigative_direction": "Identify Bruce Bevins's official military role and course listings; obtain corroborating testimony from named or additional military students.",
       "mentions_person_refs": [
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -1385,8 +1385,8 @@
       "claim_timestamp": "00:50:12–00:53:59",
       "investigative_direction": "Obtain any contemporaneous bodycam footage or police reports; identify the plainclothes officer and any incident reports generated September 9, 2025.",
       "mentions_person_refs": [
-        "N-320",
-        "N-362"
+        "N-319",
+        "N-361"
       ]
     },
     {
@@ -1612,7 +1612,7 @@
       "investigative_direction": "Review event footage and statements from Farnsworth on when and why the camera was removed, and the chain of custody of its storage.",
       "transcript_snippet": "Terryl Farnsworth, still major question marks. He raced to remove the camera that was directly behind Charlie's head.",
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-1"
       ]
     },
@@ -1634,7 +1634,7 @@
         "C-5283"
       ],
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-1",
         "N-3"
       ]
@@ -1965,7 +1965,7 @@
       "investigative_direction": "Identify the soldier and Bevins's official role, and corroborate through an on-record account from the soldier.",
       "transcript_snippet": "This young woman described Bruce as, quote, \"the most evil man that she had ever met.\"",
       "mentions_person_refs": [
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -1985,7 +1985,7 @@
       "investigative_direction": "Ask the emailer to describe the incident with Bevins's wife and look for police or court records of it.",
       "transcript_snippet": "My ears perked up when I heard his name as I immediately remembered the incident with his wife.",
       "mentions_person_refs": [
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -2005,7 +2005,7 @@
       "investigative_direction": "Treat as the emailer's speculation; seek documentary evidence linking the couple to any Fort Huachuca course.",
       "transcript_snippet": "I have to wonder if the infiltration and the destruction of our gym was actually a training exercise or field assignment.",
       "mentions_person_refs": [
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -2026,7 +2026,7 @@
       "investigative_direction": "Ask the emailer which TPUSA individuals they have in mind and check those individuals' public military or intelligence records.",
       "transcript_snippet": "learning that some of his most trusted people may have been trained operatives who infiltrated Turning Point USA",
       "mentions_person_refs": [
-        "N-363",
+        "N-362",
         "N-1"
       ]
     },
@@ -2050,7 +2050,7 @@
         "C-1976"
       ],
       "mentions_person_refs": [
-        "N-363",
+        "N-362",
         "N-3"
       ]
     },
@@ -2144,7 +2144,7 @@
       "investigative_direction": "Obtain Mitch's DD-214 and unit assignment records and the 1990 JTF-6 operational history.",
       "transcript_snippet": "we were part of a mission going down to um down to the border of JTF6, assigned from 10th Mountain.",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2164,7 +2164,7 @@
       "investigative_direction": "Cross-check with historical JTF-6 sensor deployment records for the Douglas, Arizona sector.",
       "transcript_snippet": "I think we put in like 80 sensors or so along the border",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2184,7 +2184,7 @@
       "investigative_direction": "Search press and law-enforcement records for the 1990 Douglas, Arizona tunnel discovery and the associated warrant and raid.",
       "transcript_snippet": "we could triangulate the um triangulate the signals and be able to pinpoint the location.",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2204,7 +2204,7 @@
       "investigative_direction": "Obtain the photographs and the records of how they were recovered, and identify the commander named.",
       "transcript_snippet": "one of the commanders that was um with the border patrol um was actually posed with a photo um that was found on the Mexican side um after the tunnel apparently had been built",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2224,7 +2224,7 @@
       "investigative_direction": "Check historical DEA and JTF-6 estimates of cocaine flow through the Douglas sector in 1990.",
       "transcript_snippet": "the federal government knew that 80% I think it was 60 to 80% of the cocaine was coming through the Douglas Arizona area",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2244,7 +2244,7 @@
       "investigative_direction": "Obtain the court filings, name-change records and the government's response to Mitch's complaints.",
       "transcript_snippet": "they destroyed every layer of your life fed your name to the cartels you've been on the run you've had to change your name your family is now in debt",
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },
@@ -2265,7 +2265,7 @@
       "investigative_direction": "Locate the seizure and destruction records for the 1990 Douglas tunnel operation.",
       "transcript_snippet": "I got to got the honor of incinerating all the uh uh it's about a ton of cocaine it was and bunch of guns bunch of money",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2285,7 +2285,7 @@
       "investigative_direction": "Look for Border Patrol incident records and any report filed after the Naco encounter.",
       "transcript_snippet": "I was too stupid I didn't understand why this person was coming up or why they had personal information on me",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2305,7 +2305,7 @@
       "investigative_direction": "Obtain the briefing record and the photographs, and the investigators' conclusions on the leak.",
       "transcript_snippet": "the photos from the Mexican side had made their way to the American side and and they were able to put together how my information got got fed um to the other side.",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2325,7 +2325,7 @@
       "investigative_direction": "Obtain the case captions and docket numbers from the host or Mitch and pull them from the court dockets.",
       "transcript_snippet": "we got the court documents we got the we got the court cases um You've sent them to me.",
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },
@@ -2346,7 +2346,7 @@
       "investigative_direction": "Obtain the Fort Huachuca CID reports and Mitch's records request and any response.",
       "transcript_snippet": "that's what led me to going down to Fort Huachuca was just to get the original records and find out you know why wasn't the FBI updated as what my status was",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2370,7 +2370,7 @@
         "C-1970"
       ],
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },
@@ -2391,7 +2391,7 @@
       "investigative_direction": "Confirm Fort Huachuca's visitor access policy and the gate-scan records for Mitch's ID on September 9, 2025.",
       "transcript_snippet": "no typically you can as long as you have your your ID your insurance and you have a purpose for being there",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2411,7 +2411,7 @@
       "investigative_direction": "Confirm the Candlewood Suites property's history as converted barracks and its September 8, 2025 booking record for Mitch.",
       "transcript_snippet": "that was actually the barracks that I had when I was there in in AIT training but they converted it",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2432,7 +2432,7 @@
       "investigative_direction": "Request the hotel lobby and check-in security footage for September 8, 2025.",
       "transcript_snippet": "one guy that was sitting on the couch he just had a sheen to him uh looked like he had a professional military sheen to him",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2453,7 +2453,7 @@
       "investigative_direction": "Check Fort Huachuca motor-pool and GSA fleet records and lobby or parking footage for that evening.",
       "transcript_snippet": "there was a vehicle parked out front, uh big green truck. G- It looked like a real shiny GSA type.",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2473,7 +2473,7 @@
       "investigative_direction": "Identify which 10th Mountain elements were at Fort Huachuca on September 9, 2025 and why.",
       "transcript_snippet": "ran into some 10th Mountain people there. Um they said they were there for JTF.",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2496,7 +2496,7 @@
         "C-1885"
       ],
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2516,7 +2516,7 @@
       "investigative_direction": "Obtain base vehicle dispatch and VIP-escort logs for the morning of September 9, 2025.",
       "transcript_snippet": "some of the military lieutenant colonels there and the and the unit sergeant major escorted them out. Um they got into one of the GSAs",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2536,7 +2536,7 @@
       "investigative_direction": "Confirm GSA fleet practice and the fleet assignment at Fort Huachuca on that date.",
       "transcript_snippet": "Some of those vehicles there, they're reserved uh at any GSA where they have VIPs that come in.",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2557,7 +2557,7 @@
       "investigative_direction": "Ask Mitch whom he saw get in the vehicle and obtain base gate and vehicle logs.",
       "transcript_snippet": "I did catch that there was yet another I don't know if it was the same GSA vehicle returning or a different one, but that did pull up to the building. Uh, I see who got in it.",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2577,7 +2577,7 @@
       "investigative_direction": "Obtain the police and CID reports for any bomb-threat report that morning.",
       "transcript_snippet": "and then they mentioned a bomb threat. They wanted to check my vehicle.",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2600,7 +2600,7 @@
         "C-1889"
       ],
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },
@@ -2621,7 +2621,7 @@
       "investigative_direction": "File a FOIA or Privacy Act request for Mitch's CID records and compare the response with his account.",
       "transcript_snippet": "they didn't answer any of the questions I was there for. Uh, they didn't give me the documentation I wanted.",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2641,7 +2641,7 @@
       "investigative_direction": "Seek the barment or visitor-restriction record issued to Mitch.",
       "transcript_snippet": "they were looking for any excuse to try and um hold me up for like 24 hours.",
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2661,7 +2661,7 @@
       "investigative_direction": "Check Mitch's airline itinerary and boarding records for September 10, 2025.",
       "transcript_snippet": "before we touched down, I had a stop off in Salt Lake City. By the time we wheeled down, you know, we got the news about Charlie Kirk.",
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-1"
       ]
     },
@@ -2685,7 +2685,7 @@
         "C-1971"
       ],
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },
@@ -2791,7 +2791,7 @@
       "investigative_direction": "Treat as the host's inference; seek body-camera or incident records showing the positioning and instructions of the officers.",
       "transcript_snippet": "I think that is the reason they surrounded you was to make sure you couldn't see who was walking out.",
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },
@@ -2828,7 +2828,7 @@
       "investigative_direction": "Watch for the fundraiser's launch and verify its beneficiary and disbursements.",
       "transcript_snippet": "I intend to help you raise money to go through these lawsuits with the federal government.",
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },
@@ -2845,7 +2845,7 @@
       "investigative_direction": "Ask the host about the size of the tip inbox backlog.",
       "transcript_snippet": "there were literally 51,000 emails unanswered in that box.",
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },
@@ -2862,7 +2862,7 @@
       "investigative_direction": "Check the email timestamp and call log if the host chooses to release them.",
       "transcript_snippet": "what did I call 4 minutes after the email was sent? And it was actually me. I didn't send it to like my producer.",
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },
@@ -2881,7 +2881,7 @@
       "investigative_direction": "Confirm the fundraiser's URL, beneficiary and disbursement once published.",
       "transcript_snippet": "I will get together a GiveSendGo for Mitch and his family.",
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },

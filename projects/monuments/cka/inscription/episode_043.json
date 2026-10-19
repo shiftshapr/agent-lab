@@ -86,7 +86,7 @@
             "C-1866"
           ],
           "related_nodes": [
-            "N-313",
+            "N-312",
             "N-10317"
           ],
           "tags": [],
@@ -109,10 +109,10 @@
             "C-1871"
           ],
           "related_nodes": [
+            "N-312",
             "N-313",
             "N-314",
-            "N-315",
-            "N-316"
+            "N-315"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -139,10 +139,10 @@
             "C-1873"
           ],
           "related_nodes": [
-            "N-317",
+            "N-316",
             "N-10319",
             "N-66",
-            "N-189"
+            "N-188"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -168,7 +168,7 @@
             "C-1874"
           ],
           "related_nodes": [
-            "N-318"
+            "N-317"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -242,7 +242,7 @@
             "C-1877"
           ],
           "related_nodes": [
-            "N-279"
+            "N-278"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -309,7 +309,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-313",
+            "N-312",
             "N-10317"
           ],
           "tags": [],
@@ -363,10 +363,10 @@
             "C-12508"
           ],
           "related_nodes": [
-            "N-221",
-            "N-268",
-            "N-913",
-            "N-390"
+            "N-220",
+            "N-267",
+            "N-910",
+            "N-389"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -384,8 +384,8 @@
             "C-12504"
           ],
           "related_nodes": [
-            "N-268",
-            "N-221"
+            "N-267",
+            "N-220"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -413,7 +413,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-271",
+            "N-270",
             "N-10320"
           ],
           "tags": [],
@@ -522,8 +522,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-313",
-      "ref": "N-313",
+      "@id": "N-312",
+      "ref": "N-312",
       "name": "Pierre Falcone",
       "type": "person",
       "description": "French-born arms dealer convicted in Angolagate scandal; reportedly currently residing in Scottsdale, Arizona; introduced in this episode as a potential link between France, Israel, Angola, and the United States.",
@@ -543,16 +543,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-313",
         "N-314",
         "N-315",
-        "N-316",
         "N-10317"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-314",
-      "ref": "N-314",
+      "@id": "N-313",
+      "ref": "N-313",
       "name": "Arcadi Gaydamak",
       "type": "person",
       "description": "Israeli-Russian-Israeli businessman; co-conspirator in Angolagate via Brenco International; convicted in absentia in France.",
@@ -569,13 +569,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-313"
+        "N-312"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-315",
-      "ref": "N-315",
+      "@id": "N-314",
+      "ref": "N-314",
       "name": "Jean-Christophe Mitterrand",
       "type": "person",
       "description": "Son of former French president François Mitterrand; implicated in Angolagate as having \"special access\" to Angolan government.",
@@ -591,14 +591,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-313",
-        "N-316"
+        "N-312",
+        "N-315"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-316",
-      "ref": "N-316",
+      "@id": "N-315",
+      "ref": "N-315",
       "name": "François Mitterrand",
       "type": "person",
       "description": "Former President of France (term during Angolagate exposure); implicated via his son.",
@@ -614,13 +614,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-315"
+        "N-314"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-317",
-      "ref": "N-317",
+      "@id": "N-316",
+      "ref": "N-316",
       "name": "Jesse Kege",
       "type": "person",
       "description": "YouTuber (\"One Shot TV\") who produced the .30-06 ballistic dummy demonstration; no prior horse in the Charlie Kirk case per host's description.",
@@ -642,8 +642,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Dan Flood",
       "type": "person",
       "description": "Security professional positioned to Charlie Kirk's right; per host's tip, received a message from Charlie the night before the assassination.",
@@ -661,8 +661,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-155",
-      "ref": "N-155",
+      "@id": "N-154",
+      "ref": "N-154",
       "name": "John Mappin",
       "type": "person",
       "description": "Referenced by viewer comment \"fam\"; author of \"The Perfumed Pervert\" essay.",
@@ -676,8 +676,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Journalist; referenced by viewer comment as having Erika Kirk on her show on the 13th.",
@@ -695,8 +695,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-318",
-      "ref": "N-318",
+      "@id": "N-317",
+      "ref": "N-317",
       "name": "Hodge Twins",
       "type": "person",
       "description": "Commentator duo; tweet regarding Republican midterm losses read aloud by host.",
@@ -729,13 +729,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-317"
+        "N-316"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-189",
-      "ref": "N-189",
+      "@id": "N-188",
+      "ref": "N-188",
       "name": "Ryan Matta",
       "type": "person",
       "description": "Social media user who brought the Jesse Kege video to the host's attention.",
@@ -749,7 +749,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-317"
+        "N-316"
       ]
     },
     {
@@ -797,7 +797,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-313"
+        "N-312"
       ]
     },
     {
@@ -838,7 +838,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-317"
+        "N-316"
       ]
     },
     {
@@ -857,7 +857,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1",
-        "N-271"
+        "N-270"
       ]
     },
     {
@@ -951,7 +951,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-313",
+        "N-312",
         "N-10317"
       ]
     },
@@ -1093,8 +1093,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-221",
-      "ref": "N-221",
+      "@id": "N-220",
+      "ref": "N-220",
       "name": "Milo Yiannopoulos",
       "type": "person",
       "description": "Commentator in the Tim Pool clip, speaking on Epstein files and TPUSA's account.",
@@ -1114,8 +1114,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Tim Pool",
       "type": "person",
       "description": "Host of the show where Milo and George Santos appear; the host says he called her viewers stupid.",
@@ -1134,8 +1134,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-390",
-      "ref": "N-390",
+      "@id": "N-389",
+      "ref": "N-389",
       "name": "Steve Bannon",
       "type": "person",
       "description": "Cited by Milo as saying Epstein was the key that picks the lock.",
@@ -1170,8 +1170,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "TPUSA figure whose prior-episode diatribe the host references.",
@@ -1187,8 +1187,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Person whose call logs a viewer comment asks to see.",
@@ -1298,8 +1298,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-913",
-      "ref": "N-913",
+      "@id": "N-910",
+      "ref": "N-910",
       "name": "George Santos",
       "type": "person",
       "description": "First named by the host at 00:25:22 in episode 43. Former congressman who appears in the Tim Pool clip.",
@@ -1428,7 +1428,7 @@
       "claim_timestamp": "00:14:36–00:15:38",
       "investigative_direction": "Obtain primary French court records or a contemporaneous news report of the conviction to confirm charges and dates.",
       "mentions_person_refs": [
-        "N-313"
+        "N-312"
       ]
     },
     {
@@ -1447,7 +1447,7 @@
       "claim_timestamp": "00:14:36–00:15:38",
       "investigative_direction": "Locate the appellate decision and confirm the precise revised sentence and the date it was imposed.",
       "mentions_person_refs": [
-        "N-313"
+        "N-312"
       ]
     },
     {
@@ -1464,7 +1464,7 @@
       "claim_timestamp": "00:17:26",
       "investigative_direction": "Verify Pierre Falcone's current residence via property records, business filings, or U.S. immigration records.",
       "mentions_person_refs": [
-        "N-313"
+        "N-312"
       ]
     },
     {
@@ -1481,7 +1481,7 @@
       "claim_timestamp": "00:14:36–00:15:38",
       "investigative_direction": "Locate the French court judgment against Gaydamak and confirm the conviction and date.",
       "mentions_person_refs": [
-        "N-314"
+        "N-313"
       ]
     },
     {
@@ -1498,7 +1498,7 @@
       "claim_timestamp": "00:12:29",
       "investigative_direction": "Cross-reference the March 25 Global Witness report \"All the President's Men\" with CorpWatch and the original French judicial findings.",
       "mentions_person_refs": [
-        "N-313"
+        "N-312"
       ]
     },
     {
@@ -1515,9 +1515,9 @@
       "claim_timestamp": "00:15:38–00:17:26",
       "investigative_direction": "Locate the original Global Witness report figures and the French prosecutor's findings on arms volumes.",
       "mentions_person_refs": [
+        "N-312",
         "N-313",
-        "N-314",
-        "N-315"
+        "N-314"
       ]
     },
     {
@@ -1534,8 +1534,8 @@
       "claim_timestamp": "00:15:38–00:17:26",
       "investigative_direction": "Verify Jean-Christophe Mitterrand's role via French court records.",
       "mentions_person_refs": [
-        "N-315",
-        "N-316"
+        "N-314",
+        "N-315"
       ]
     },
     {
@@ -1554,7 +1554,7 @@
       "claim_timestamp": "00:32:46–00:33:21",
       "investigative_direction": "Obtain the full One Shot TV video, including any second-round test (150gr Hornady ballistic tip), and verify the exact penetration result shown.",
       "mentions_person_refs": [
-        "N-317",
+        "N-316",
         "N-1"
       ]
     },
@@ -1574,7 +1574,7 @@
       "claim_timestamp": "00:33:21",
       "investigative_direction": "Cross-reference the One Shot TV demonstration with official forensic findings released by authorities.",
       "mentions_person_refs": [
-        "N-317"
+        "N-316"
       ]
     },
     {
@@ -1591,7 +1591,7 @@
       "claim_timestamp": "00:29:16",
       "investigative_direction": "Obtain the original tweet and confirm the exact text.",
       "mentions_person_refs": [
-        "N-318"
+        "N-317"
       ]
     },
     {
@@ -1642,7 +1642,7 @@
       "claim_timestamp": "00:40:18–00:41:02",
       "investigative_direction": "Verify against publicly available event listings and episode announcements.",
       "mentions_person_refs": [
-        "N-279",
+        "N-278",
         "N-2"
       ]
     },
@@ -1906,7 +1906,7 @@
       "transcript_snippet": "Turning Point, people that work with Turning Point or one of their, you know, action organizations, who knows which organization, they have a few, um took a meeting with this particular Pierre.",
       "mentions_person_refs": [
         "N-3",
-        "N-313"
+        "N-312"
       ]
     },
     {
@@ -1955,7 +1955,7 @@
         "C-1867"
       ],
       "mentions_person_refs": [
-        "N-313"
+        "N-312"
       ]
     },
     {
@@ -1978,7 +1978,7 @@
         "C-1869"
       ],
       "mentions_person_refs": [
-        "N-313"
+        "N-312"
       ]
     },
     {
@@ -1998,7 +1998,7 @@
       "investigative_direction": "Compare with French judicial chronology of the Angolagate investigation (investigation opened 2000).",
       "transcript_snippet": "it gets discovered during the course of French elections and this is dating back to 1999 that the French government is actually involved in trafficking weapons, military grade weapons, to Angola to facilitate this war",
       "mentions_person_refs": [
-        "N-313"
+        "N-312"
       ]
     },
     {
@@ -2018,8 +2018,8 @@
       "investigative_direction": "Check French court findings on who headed Brenco International versus the related Falcone company.",
       "transcript_snippet": "Now, Brenco International is run by this guy, his name is Arcadi Gaydamak.",
       "mentions_person_refs": [
-        "N-314",
-        "N-313"
+        "N-313",
+        "N-312"
       ]
     },
     {
@@ -2037,7 +2037,7 @@
       "investigative_direction": "Check biographical sources and court records for Falcone's birthplace and arrival in France.",
       "transcript_snippet": "Pierre Falcone is born in Algeria. He moves to France after the Algerian civil war.",
       "mentions_person_refs": [
-        "N-313"
+        "N-312"
       ]
     },
     {
@@ -2116,7 +2116,7 @@
       "investigative_direction": "Pull the Global Witness 'All the President's Men' report and confirm the figures and wording.",
       "transcript_snippet": "Gaydamak funneled billions, billions of dollars in arms and oil-backed loans to Angola's government in return for lucrative oil contracts with with western oil companies.",
       "mentions_person_refs": [
-        "N-314"
+        "N-313"
       ]
     },
     {
@@ -2141,7 +2141,7 @@
         "C-1867"
       ],
       "mentions_person_refs": [
-        "N-313"
+        "N-312"
       ]
     },
     {
@@ -2208,7 +2208,7 @@
       "transcript_snippet": "he also messaged Dan Flood, the security that's to his right, and allegedly explicitly said uh that they are going to kill me tomorrow.",
       "mentions_person_refs": [
         "N-1",
-        "N-271"
+        "N-270"
       ]
     },
     {
@@ -2270,8 +2270,8 @@
       "investigative_direction": "Watch the Tim Pool episode in question and confirm the exact remarks and date.",
       "transcript_snippet": "he hosted Milo Yiannopoulos on his show and first and foremost he called all of you stupid.",
       "mentions_person_refs": [
-        "N-268",
-        "N-221",
+        "N-267",
+        "N-220",
         "N-3"
       ]
     },
@@ -2294,7 +2294,7 @@
       "investigative_direction": "Check the Tim Pool episode and public subscriber statistics for the period.",
       "transcript_snippet": "later on in the show he kind of lamented the fact that he lost a bunch of subscribers to his show because he attacked me",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },
@@ -2317,10 +2317,10 @@
       "investigative_direction": "Locate the Bannon remark Milo cites and the Tim Pool episode; verify the 'consulted for Epstein' interjection separately.",
       "transcript_snippet": "said who would know better as it turns out. He said that uh Epstein was the key that uh picks the lock, right?",
       "mentions_person_refs": [
-        "N-221",
-        "N-390",
+        "N-220",
+        "N-389",
         "N-9",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -2342,7 +2342,7 @@
       "investigative_direction": "Compare with polling on Trump voters' expectations about the Epstein files.",
       "transcript_snippet": "there isn't one person who voted for Donald Trump who did not want and did not expect the Epstein files to be released immediately.",
       "mentions_person_refs": [
-        "N-221",
+        "N-220",
         "N-9"
       ]
     },
@@ -2387,10 +2387,10 @@
       "investigative_direction": "Confirm Milo's statement in the full Tim Pool episode; this is an opinion attributed to Milo, not a verified finding.",
       "transcript_snippet": "the obviously inadequate account from the Feds and Turning Point about what happened around, before, and after Charlie Kirk's death",
       "mentions_person_refs": [
-        "N-221",
+        "N-220",
         "N-1",
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -2412,7 +2412,7 @@
       "investigative_direction": "Compare with any official statement or charging document on the cartridge type recovered.",
       "transcript_snippet": "we don't even know what kind of ammo was used. It could literally be anything.",
       "mentions_person_refs": [
-        "N-317"
+        "N-316"
       ]
     },
     {
@@ -2434,7 +2434,7 @@
       "investigative_direction": "Obtain the full video and the result for the second round, which the episode does not show.",
       "transcript_snippet": "I actually bought this one specifically for this test just to give us the highest chance of something stopping in the target.",
       "mentions_person_refs": [
-        "N-317"
+        "N-316"
       ]
     },
     {
@@ -2456,7 +2456,7 @@
       "investigative_direction": "Compare the setup geometry with the official shot angle and distance; obtain the earlier 140 yard video he links.",
       "transcript_snippet": "I'm not going to be able to take the shot at 140 yards.",
       "mentions_person_refs": [
-        "N-317"
+        "N-316"
       ]
     },
     {
@@ -2478,7 +2478,7 @@
       "investigative_direction": "Have a ballistics expert assess terminal energy at the stated ranges for the tested loads.",
       "transcript_snippet": "There's going to be almost no difference between 30 or 40 and 140. It's a thousand yard gun.",
       "mentions_person_refs": [
-        "N-317"
+        "N-316"
       ]
     },
     {
@@ -2500,7 +2500,7 @@
       "investigative_direction": "Have independent firearms experts review the video; compare with the official ballistics findings.",
       "transcript_snippet": "that right there is why people are skeptical on the official story. The 30-06 is a very hard round to stop.",
       "mentions_person_refs": [
-        "N-317"
+        "N-316"
       ]
     },
     {
@@ -2568,7 +2568,7 @@
       "investigative_direction": "Review the prior episode and Neff's original statement for the exact content.",
       "transcript_snippet": "last episode was regarding Blake Neff and his diatribe of, you know, why Turning Point took a while to respond.",
       "mentions_person_refs": [
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2590,7 +2590,7 @@
       "investigative_direction": "Cross-reference with host-shown Mikey McCoy call logs in other episodes and request the carrier records.",
       "transcript_snippet": "Can we see Mikey's call logs and the metadata before and after 12:23 p. m.? Much more.",
       "mentions_person_refs": [
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -2625,7 +2625,7 @@
       "investigative_direction": "Locate the essay and review its content before any claim is drawn from it.",
       "transcript_snippet": "follow John Mappin and read his essay The Perfumed Pervert.",
       "mentions_person_refs": [
-        "N-155"
+        "N-154"
       ]
     },
     {

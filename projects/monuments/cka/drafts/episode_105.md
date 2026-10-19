@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep105): N-10814
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-628, N-629, N-630, N-631, N-632, N-633, N-10930, N-10931, N-10932, N-10933, N-10935
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-22, N-40, N-69, N-160, N-161, N-191, N-281, N-371, N-374, N-546, N-617, N-623, N-624, N-10000, N-10070, N-10075, N-10125, N-10197, N-10312, N-10318, N-10472, N-10515, N-10637, N-10638, N-10652, N-10888, N-10899, N-10923, N-10934, N-10929, N-627
+  - Tip-minted Nodes (skeleton): N-626, N-627, N-628, N-629, N-630, N-631, N-10930, N-10931, N-10932, N-10933, N-10935
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-22, N-40, N-69, N-159, N-160, N-190, N-280, N-370, N-373, N-545, N-615, N-621, N-622, N-10000, N-10070, N-10075, N-10125, N-10197, N-10312, N-10318, N-10472, N-10515, N-10637, N-10638, N-10652, N-10888, N-10899, N-10923, N-10934, N-10929, N-625
   - Claim Range: C-4108–C-4162
   - (see registers)
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:10:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4122, C-4124, C-4125, C-4126, C-4127, N-281, N-161, N-628, N-624, N-623, N-629, N-10931*
+*Related: C-4122, C-4124, C-4125, C-4126, C-4127, N-280, N-160, N-626, N-622, N-621, N-627, N-10931*
 
 **A-2581.3** Quote from White House sources describing the White House Communications Agency (read aloud)
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:17:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4134, C-4135, C-4136, C-4137, C-4138, C-4139, N-630, N-631, N-10933, N-10125*
+*Related: C-4134, C-4135, C-4136, C-4137, C-4138, C-4139, N-628, N-629, N-10933, N-10125*
 
 ---
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:21:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4141, N-630, N-22, N-10933*
+*Related: C-4141, N-628, N-22, N-10933*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:31:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4148, C-4149, N-14, N-160, N-3, N-10934*
+*Related: C-4148, C-4149, N-14, N-159, N-3, N-10934*
 
 ---
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:38:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4155, N-617, N-2, N-10899, N-10472*
+*Related: C-4155, N-615, N-2, N-10899, N-10472*
 
 **A-2587.2** Host verbal reference to the earlier Paramount Tactical stream clip showing the Fort Huachuca alibi photo (not replayed)
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:37:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4152, C-4153, C-4154, N-617, N-14, N-2, N-10899*
+*Related: C-4152, C-4153, C-4154, N-615, N-14, N-2, N-10899*
 
 ---
 
@@ -185,7 +185,7 @@ Video Timestamp: 00:41:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4157, N-546, N-2, N-10472*
+*Related: C-4157, N-545, N-2, N-10472*
 
 ---
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:42:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4158, C-4159, N-5, N-632, N-10935*
+*Related: C-4158, C-4159, N-5, N-630, N-10935*
 
 **A-2589.2** Headline on the Hasidic Jewish donors behind the statue (shown)
 
@@ -262,103 +262,103 @@ Described in a headline as a hero for telling people to get down during the WHCD
 
 *Related: C-4132, A-2583.1*
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Transcript spelling "Blake Neff". Co-host of the May 8 Charlie Kirk Show clip on Preborn and emailing sponsors.
 
 *Related: C-4148, C-4149, A-2586.1*
 
-**N-161** Steven Cheung
+**N-160** Steven Cheung
 
 Transcript spelling "Steven Chong". Named by the host as a recipient of the email.
 
 *Related: C-4125, A-2581.2*
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 The host assumes, but cannot confirm, that he accompanied Erika Kirk to the West Wing.
 
 *Related: C-4113*
 
-**N-281** Karoline Leavitt
+**N-280** Karoline Leavitt
 
 Her press office and team are named as recipients of the email.
 
 *Related: C-4124, A-2581.2*
 
-**N-371** Sara Sidner
+**N-370** Sara Sidner
 
 Transcript spelling "Sydney Sidner". CNN reporter said to have uploaded the Erika Kirk clip at 9:25 p.m.
 
 *Related: C-4116*
 
-**N-374** Harmeet Dhillon
+**N-373** Harmeet Dhillon
 
 Transcript spelling "Harit Dylan". Host says Matthew Shupe does PR for her and that she sat with Andrew Kolvet.
 
 *Related: C-4161, C-4162*
 
-**N-546** Tracy Martin
+**N-545** Tracy Martin
 
 Erika Kirk's longtime friend; reportedly clarified that the boy in the alibi photo is not Erika's son.
 
 *Related: C-4157, A-2588.1*
 
-**N-627** Vladimir Putin
+**N-625** Vladimir Putin
 
 First named by the host at 00:05:04 in episode 105. Cited as a long-serving leader who has not faced comparable shooting attempts.
 
 *Related: C-4110*
 
-**N-628** Richard Smale
+**N-626** Richard Smale
 
 First named by the host at 00:10:20 in episode 105. Described as a communications officer and information assurance engineer at the White House Communications Agency who received the email.
 
 *Related: C-4125, A-2581.2*
 
-**N-624** Gustav Anderly
+**N-622** Gustav Anderly
 
 First named by the host at 00:10:20 in episode 105. Described as an information systems manager at the White House Communications Agency who received the email.
 
 *Related: C-4126, A-2581.2*
 
-**N-623** Ryan Rippeon
+**N-621** Ryan Rippeon
 
 First named by the host at 00:10:20 in episode 105. Described as commander of naval communications and a recipient of the email.
 
 *Related: C-4126, A-2581.2*
 
-**N-629** Michaela Mott
+**N-627** Michaela Mott
 
 First named by the host at 00:11:19 in episode 105. Described as Navy and a recipient of the email.
 
 *Related: C-4127, A-2581.2*
 
-**N-630** Kevin O'Leary
+**N-628** Kevin O'Leary
 
 First named by the host at 00:18:48 in episode 105. Shark Tank venture capitalist backing the Stratos data center; interviewed by Tucker Carlson. Aliases: Kevin Olirri; Olyri; Kevin Liry.
 
 *Related: C-4137, C-4139, C-4141, A-2584.1, A-2585.1*
 
-**N-631** Lee Perry
+**N-629** Lee Perry
 
 First named by the host at 00:18:48 in episode 105. Box Elder County commissioner quoted in the Guardian article on the backlash.
 
 *Related: C-4138, A-2584.1*
 
-**N-617** Gary Melton
+**N-615** Gary Melton
 
 First named by the host at 00:38:02 in episode 105. The person behind the Paramount Tactical account; tweeted that the alibi photo's content was irrelevant. Aliases: Paramount Tactical; Paramount Not So Tactical.
 
 *Related: C-4153, C-4155, C-4156, A-2587.1, A-2587.2*
 
-**N-632** Mark Burns
+**N-630** Mark Burns
 
 First named by the host at 00:42:00 in episode 105. Evangelical pastor defending the golden Trump statue.
 
 *Related: C-4159, A-2589.1*
 
-**N-633** Matthew Shupe
+**N-631** Matthew Shupe
 
 First named by the host at 00:47:33 in episode 105. Described as a PR agent for Harmeet Dhillon and Dhillon Law Group; the host asks whether he filmed the Erika Kirk WHCD clip.
 
@@ -473,14 +473,14 @@ Investigation target: Erika Kirk's appointment to the U.S. Air Force Academy Boa
 Node Type: Topic
 Investigation target: Erika Kirk's visit to the West Wing just before the WHCD shooting, which the host says she can confirm; the host assumes but cannot confirm that Andrew Kolvet and Mikey McCoy went with her.
 
-*Related: C-4113, N-2, N-14, N-191*
+*Related: C-4113, N-2, N-14, N-190*
 
 **N-10931** White House Communications Agency
 
 Node Type: Organization
 Department of Defense military communications unit embedded in the White House. The host says the amplification email was delivered from its military office domain and that several recipients hold positions there.
 
-*Related: C-4122, C-4123, C-4125, C-4126, A-2581.2, A-2581.3, N-628, N-624*
+*Related: C-4122, C-4123, C-4125, C-4126, A-2581.2, A-2581.3, N-626, N-622*
 
 **N-10932** WHCD Night White House "No Scramble" Readiness Question
 
@@ -494,21 +494,21 @@ Investigation target: the host's White House sources say that on the Saturday ev
 Node Type: Topic
 A proposed AI data center reported by the Guardian to cover more than 40,000 acres over three sites in Box Elder County, Utah. It would need about 9 gigawatts of power and is backed by Kevin O'Leary. County commissioners approved it despite thousands of objections. The host presents it as part of a push toward a surveillance state.
 
-*Related: C-4134, C-4135, C-4136, C-4137, C-4138, C-4139, C-4141, A-2584.1, A-2585.1, N-630, N-631*
+*Related: C-4134, C-4135, C-4136, C-4137, C-4138, C-4139, C-4141, A-2584.1, A-2585.1, N-628, N-629*
 
 **N-10934** Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens
 
 Node Type: Topic
 Investigation target: the May 8 Charlie Kirk Show segment in which Andrew Kolvet and Blake Neff discussed Preborn sponsoring the host's show and encouraged viewers to email sponsors. The host links it to the same weekend's X campaign to boycott her advertisers.
 
-*Related: C-4147, C-4148, C-4149, C-4150, A-2586.1, N-14, N-160*
+*Related: C-4147, C-4148, C-4149, C-4150, A-2586.1, N-14, N-159*
 
 **N-10935** Florida Golden Trump Statue
 
 Node Type: Topic
 A 22-foot golden statue of Donald Trump unveiled at a Florida golf course. Pastor John Mark Burns defended it, and the host says Hasidic Jewish donors backed it.
 
-*Related: C-4158, C-4159, C-4160, A-2589.1, A-2589.2, N-5, N-632*
+*Related: C-4158, C-4159, C-4160, A-2589.1, A-2589.2, N-5, N-630*
 
 ## 5. Claim Register
 
@@ -551,7 +551,7 @@ Claim: The host says Vladimir Putin has been president of Russia for 22 years an
 Transcript Snippet: Like Vladimir Putin, as just one example, he has been the president of Russia for 22 years.
 
 Anchored Artifacts:
-Mentions: N-627, N-5
+Mentions: N-625, N-5
 Related Nodes:
 Investigative Direction: Check Putin's years in office and the public record of assassination attempts against him.
 
@@ -596,7 +596,7 @@ Claim: The host says she can confirm that Erika Kirk visited the West Wing just 
 Transcript Snippet: just ahead of the White House correspondence dinner shooting, Erika Kirk visited the West Wing
 
 Anchored Artifacts:
-Mentions: N-2, N-14, N-191
+Mentions: N-2, N-14, N-190
 Related Nodes: N-10930, N-10075
 Investigative Direction: Obtain White House visitor (WAVES) records for Erika Kirk, Andrew Kolvet and Mikey McCoy for the days before April 25, 2026.
 
@@ -642,7 +642,7 @@ Claim: The host says Sara Sidner of CNN uploaded the video of Erika Kirk at 9:25
 Transcript Snippet: Sydney Sidner of CNN uploaded the video of Erikica Kirk at 9:25 p. m.
 
 Anchored Artifacts:
-Mentions: N-371, N-2
+Mentions: N-370, N-2
 Related Nodes: N-10638
 Supports: C-2793
 Investigative Direction: Archive Sidner's original post with its timestamp and establish who filmed the clip.
@@ -658,7 +658,7 @@ Claim: The host says that about 25 minutes after Sidner's upload, the White Hous
 Transcript Snippet: approximately 25 minutes later, we revealed to you that the White House military office sent out follow-up instructions uh in an email that accidentally went out to the wrong internal teams
 
 Anchored Artifacts: A-2581.1
-Mentions: N-371
+Mentions: N-370
 Related Nodes: N-10923, N-10637
 Investigative Direction: Obtain the email's header timestamps and distribution list through FOIA or the named recipients.
 
@@ -763,7 +763,7 @@ Claim: The host says the email was sent to Karoline Leavitt's press office and t
 Transcript Snippet: The email was sent to Karoline Leavitt's press office and team so she can confirm its authenticity.
 
 Anchored Artifacts: A-2581.2
-Mentions: N-281
+Mentions: N-280
 Related Nodes: N-10923
 Investigative Direction: Ask the White House press office to confirm or deny receipt of the email.
 
@@ -778,7 +778,7 @@ Claim: The host says White House communications director Steven Cheung and Richa
 Transcript Snippet: We covered some of this yesterday with Steven Chong who is the White House communications director. Richard Smale who is the communications officer
 
 Anchored Artifacts: A-2581.2
-Mentions: N-161, N-628
+Mentions: N-160, N-626
 Related Nodes: N-10923, N-10931
 Investigative Direction: Confirm the named individuals' positions and their inclusion on the distribution list.
 
@@ -793,7 +793,7 @@ Claim: The host says Gustav Anderly, a WHCA information systems manager, and Rya
 Transcript Snippet: Uh Gustav Anderly, also military position, information systems manager at the White House Communications Agency. And Ryan Rippeon, Ryan Rippeon is the commander of naval communications.
 
 Anchored Artifacts: A-2581.2
-Mentions: N-624, N-623
+Mentions: N-622, N-621
 Related Nodes: N-10923, N-10931
 Investigative Direction: Verify these names and roles in DoD and Navy personnel listings.
 
@@ -808,7 +808,7 @@ Claim: The host says a Navy member named Michaela Mott was also on the email.
 Transcript Snippet: They also have someone named Michaela Mott who was on this email also Navy.
 
 Anchored Artifacts: A-2581.2
-Mentions: N-629
+Mentions: N-627
 Related Nodes: N-10923
 Investigative Direction: Verify the name and Navy role, and the distribution list of the original email.
 
@@ -958,7 +958,7 @@ Claim: The article says the project is backed by Shark Tank venture capitalist K
 Transcript Snippet: the proposed project is backed by Kevin Olirri, the venture capitalist who appeared on the TV show Shark Tank.
 
 Anchored Artifacts: A-2584.1
-Mentions: N-630
+Mentions: N-628
 Related Nodes: N-10933
 Investigative Direction: Identify the Stratos project's investors and corporate filings.
 
@@ -973,7 +973,7 @@ Claim: The article says Box Elder County commissioner Lee Perry said the content
 Transcript Snippet: Lee Perry, who was the box elder county commissioner, said left him feeling physically sick amidst alleged death threats and false accusations.
 
 Anchored Artifacts: A-2584.1
-Mentions: N-631
+Mentions: N-629
 Related Nodes: N-10933
 Investigative Direction: Locate Perry's original statement and any police reports of threats.
 
@@ -988,7 +988,7 @@ Claim: The article says Kevin O'Leary claimed in social media posts that most pr
 Transcript Snippet: Olyri has claimed in social media posts that most of the protesters don't live locally and have been paid to object to the project.
 
 Anchored Artifacts: A-2584.1
-Mentions: N-630
+Mentions: N-628
 Related Nodes: N-10933
 Investigative Direction: Archive O'Leary's posts and compare with the residency of people who lodged objections.
 
@@ -1018,7 +1018,7 @@ Claim: In a clip played by the host, Kevin O'Leary tells Tucker Carlson that AI-
 Transcript Snippet: facial recognition technology has finally got to the resolution using AI's tools where it's going to run through your data center
 
 Anchored Artifacts: A-2585.1
-Mentions: N-630, N-22
+Mentions: N-628, N-22
 Related Nodes: N-10933
 Investigative Direction: Archive the full Tucker Carlson interview.
 
@@ -1124,7 +1124,7 @@ Claim: The host says Blake Neff and Andrew Kolvet signaled the advertiser campai
 Transcript Snippet: Pre-born is a uh is a sponsor of Candace Owens show. Um, and that is I I know frustrating because they've been a sponsor of our show and for a long time
 
 Anchored Artifacts: A-2586.1
-Mentions: N-14, N-160, N-3
+Mentions: N-14, N-159, N-3
 Related Nodes: N-10934, N-10000
 Investigative Direction: Archive the full May 8 episode and identify which host made each statement.
 
@@ -1139,7 +1139,7 @@ Claim: In the May 8 clip, a Charlie Kirk Show host suggests that sponsors may be
 Transcript Snippet: I would encourage you to send them an email, you could say, "I have concerns. I might cease support or I might support you more if you were to make a different decision of this nature."
 
 Anchored Artifacts: A-2586.1
-Mentions: N-14, N-160
+Mentions: N-14, N-159
 Related Nodes: N-10934
 Investigative Direction: Identify the speaker and whether TPUSA staff contacted Preborn directly.
 
@@ -1184,7 +1184,7 @@ Claim: The host says an earlier clip showed Erika Kirk and Andrew Kolvet orchest
 Transcript Snippet: we showed you the clip, the now famed clip of Erika and Andrew Kolvet orchestrating this Fort Huachuca non-alibi behind the scenes
 
 Anchored Artifacts: A-2587.2
-Mentions: N-2, N-14, N-617
+Mentions: N-2, N-14, N-615
 Related Nodes: N-10472, N-10899
 Supports: C-1997
 Investigative Direction: Archive the Paramount Tactical Valhalla stream and any messages from Kolvet supplying the alibi.
@@ -1200,7 +1200,7 @@ Claim: The host says Paramount Tactical first said the boy in the alibi photo is
 Transcript Snippet: First, he said like, you know, it's not her son.
 
 Anchored Artifacts: A-2587.2
-Mentions: N-617, N-2
+Mentions: N-615, N-2
 Related Nodes: N-10472, N-10899
 Supports: C-2906
 Investigative Direction: Archive Paramount Tactical's original statement on the photo.
@@ -1231,7 +1231,7 @@ Claim: The host shows a tweet by Gary Melton (Paramount Tactical) saying it has 
 Transcript Snippet: The fact is we don't know. It hasn't been clarified by Erika, but it doesn't matter.
 
 Anchored Artifacts: A-2587.1
-Mentions: N-617, N-2
+Mentions: N-615, N-2
 Related Nodes: N-10472, N-10899
 Investigative Direction: Archive the tweet and the follow-up posts with timestamps.
 
@@ -1246,7 +1246,7 @@ Claim: The host says Gary Melton, the man behind Paramount Tactical, served as a
 Transcript Snippet: I'm terrified to understand that Paramount, not so tactical, served as a Green Beret.
 
 Anchored Artifacts:
-Mentions: N-617
+Mentions: N-615
 Related Nodes: N-10899
 Investigative Direction: Verify Melton's service record through Army Special Forces records.
 
@@ -1261,7 +1261,7 @@ Claim: The host says Tracy Martin, Erika Kirk's friend of 15 years, clarified th
 Transcript Snippet: even Tracy Martin, Erika's dear, long 15-year friend, jumped into the fay at some point and clarified that the sun is not Erika's.
 
 Anchored Artifacts: A-2588.1
-Mentions: N-546, N-2
+Mentions: N-545, N-2
 Related Nodes: N-10472
 Supports: C-2906
 Investigative Direction: Archive Tracy Martin's statement and identify the children and date of the playdate.
@@ -1292,7 +1292,7 @@ Claim: The host says evangelical minister John Mark Burns appeared at the ceremo
 Transcript Snippet: the pastor John Mark Burns, an evangelical minister, um is defending it
 
 Anchored Artifacts: A-2589.1
-Mentions: N-632, N-5
+Mentions: N-630, N-5
 Related Nodes: N-10935
 Investigative Direction: Archive Burns's public statements on the statue.
 
@@ -1322,7 +1322,7 @@ Claim: Asking who filmed the Erika Kirk clip, the host says she does not think i
 Transcript Snippet: Could it have been the other PR agent Andrew Kolvet was with Matthew Shupe? Matthew Shupe who does PR for Harit Dylan. Um Dhillon Law Group.
 
 Anchored Artifacts:
-Mentions: N-633, N-374, N-14, N-2
+Mentions: N-631, N-373, N-14, N-2
 Related Nodes: N-10638, N-10652
 Investigative Direction: Confirm Shupe's client relationships and whether he was at the WHCD near Erika Kirk when the clip was filmed.
 
@@ -1337,7 +1337,7 @@ Claim: The host says she knows Harmeet Dhillon was sitting with Andrew Kolvet.
 Transcript Snippet: I know Harit was sitting with sitting with Andrew Kolvet.
 
 Anchored Artifacts:
-Mentions: N-374, N-14
+Mentions: N-373, N-14
 Related Nodes: N-10637
 Investigative Direction: Obtain the WHCD seating chart and photographs of the relevant table.
 
@@ -1619,7 +1619,7 @@ Confidence: high
 - **DIA beats**: a scan for the required tip/bounty phrases found no hits (the only "tip" match is inside "multiple" in a sponsor read). No DIA claim, artifact or M-12 occurrence was inscribed, and M-14 does not air.
 - **Artifacts verbally referenced but not shown**: A-2587.2 (earlier Paramount Tactical stream clip, not replayed) and A-2588.1 (Tracy Martin's statement). Sara Sidner's CNN upload of the Erika Kirk clip is referenced but not re-shown, so no artifact was made for it. The host says the email shown (A-2581.1) is her own retyping, not the original document.
 - **Duration discrepancy**: the skeleton meta gave 00:56:29; the transcript front matter gives 53:39, which is used here.
-- **Name matching**: "Sydney Sidner" is mapped to N-371 Sara Sidner (CNN). "Steven Chong" is mapped to N-161 Steven Cheung. "Harit Dylan" and "Dhillon Law Group" are mapped to N-374 Harmeet Dhillon and N-10652. "Caroline Lev" (15:44) is read as Karoline Leavitt. "Andrew Kolvet", "Kolvet" and "Kovat" are mapped to N-14. The email recipients "Richard Smale", "Gustav Anderly", "Ryan Rippeon" and "Michaela Mott" are minted as new persons with the transcript spellings, which are unverified auto-caption renderings. "Kevin Olirri", "Olyri" and "Kevin Liry" are treated as Kevin O'Leary. Gary Melton is minted as a person (N-617) separate from the org node N-10899 Paramount Tactical Valhalla, and the integrator may wish to link them.
+- **Name matching**: "Sydney Sidner" is mapped to N-370 Sara Sidner (CNN). "Steven Chong" is mapped to N-160 Steven Cheung. "Harit Dylan" and "Dhillon Law Group" are mapped to N-373 Harmeet Dhillon and N-10652. "Caroline Lev" (15:44) is read as Karoline Leavitt. "Andrew Kolvet", "Kolvet" and "Kovat" are mapped to N-14. The email recipients "Richard Smale", "Gustav Anderly", "Ryan Rippeon" and "Michaela Mott" are minted as new persons with the transcript spellings, which are unverified auto-caption renderings. "Kevin Olirri", "Olyri" and "Kevin Liry" are treated as Kevin O'Leary. Gary Melton is minted as a person (N-615) separate from the org node N-10899 Paramount Tactical Valhalla, and the integrator may wish to link them.
 - **Transcription ambiguities**: "White House Correspondence Agency" in the read quote (09:00) is taken to mean the White House Communications Agency. "acidic"/"acetic" Jews is kept as written and read as Hasidic. "Fort Huachuca" means Fort Huachuca. "Charlie Cook" (26:33, 35:20) is read as Charlie Kirk. The host says "Department of Justice" at 12:19 where context suggests Defense. "SCOPS" and "scops" are probably "psyops."
 - **Factual caveat**: C-4110 records the host's statement that Putin has been president for 22 years as spoken, without correction.
 - **Not inscribed as claims (admission test)**: "We are living inside of an episode of Black Mirror"; "operation mockingbird on steroids"; "We, all of us, we were the actual targets"; Erika Kirk as "a piece of military technology" or "Israeli tech"; "she socially engineered Charlie"; the military controlling X and trends; the aim of data centers being a surveillance state; Trump as "the ultimate Trojan horse"; the Charlie Kirk Show hosts "maybe kind of hate Charlie Kirk"; Erika Kirk having trouble producing real tears; the ballroom "surrogates" gut feeling; and rhetorical questions about Erika's West Wing visit.

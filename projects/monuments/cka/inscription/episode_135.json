@@ -537,8 +537,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -708,8 +708,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-177",
-      "ref": "N-177",
+      "@id": "N-176",
+      "ref": "N-176",
       "name": "Deirdre Amaro",
       "type": "person",
       "description": "Dr. Deirdre Amaro; chief medical examiner who left Utah, per the host.",
@@ -727,8 +727,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Mikey McCoy; the host says he got the security team scrubs.",
@@ -744,8 +744,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-488",
-      "ref": "N-488",
+      "@id": "N-487",
+      "ref": "N-487",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Rick Cutler (transcribed Rob Cutler); security team member in the vehicle account.",
@@ -761,8 +761,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-684",
-      "ref": "N-684",
+      "@id": "N-682",
+      "ref": "N-682",
       "name": "Jon Bray",
       "type": "person",
       "description": "Jon Bray (transcribed Jon Bray); cited in the anesthesiologist's email as supporting the exploding mic theory.",
@@ -1372,8 +1372,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-898",
-      "ref": "N-898",
+      "@id": "N-895",
+      "ref": "N-895",
       "name": "Andrew Guajardo",
       "type": "person",
       "description": "First named by the host at 00:00:50 in episode 135 as Dr. Andrew Guajardo, the deputy chief medical examiner who signed off on Charlie Kirk's autopsy. Transcript spellings: Gohardo, Gerhardt, Guajardo.",
@@ -1394,8 +1394,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-899",
-      "ref": "N-899",
+      "@id": "N-896",
+      "ref": "N-896",
       "name": "Ashley Brown Guajardo",
       "type": "person",
       "description": "First named by the host at 00:05:07 in episode 135 as Dr. Ashley Brown Guajardo, a sociologist and game-culture researcher married to Dr. Andrew Guajardo. Transcript also spells her Kowhardo.",
@@ -1529,7 +1529,7 @@
       "claim_timestamp": "00:06:16",
       "investigative_direction": "Confirm authorship via Penguin Random House's official catalog or Library of Congress records; cross-reference Ashley's CV.",
       "mentions_person_refs": [
-        "N-899"
+        "N-896"
       ]
     },
     {
@@ -1561,7 +1561,7 @@
       "investigative_direction": "Obtain official preliminary hearing transcript from Utah court records and compare to the played audio.",
       "mentions_person_refs": [
         "N-1",
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -1693,7 +1693,7 @@
       "claim_timestamp": "00:10:36",
       "investigative_direction": "Locate the original source recording (lecture, podcast, conference talk) and verify attribution to Ashley Brown Guajardo.",
       "mentions_person_refs": [
-        "N-899"
+        "N-896"
       ]
     },
     {
@@ -1885,7 +1885,7 @@
       "investigative_direction": "Confirm Dr. Deirdre Amaro's resignation date and stated reason from Utah state announcements.",
       "transcript_snippet": "Now we've got the chief medical examiner resigning.",
       "mentions_person_refs": [
-        "N-177"
+        "N-176"
       ]
     },
     {
@@ -1905,7 +1905,7 @@
       "investigative_direction": "Check the signature block of the Kirk autopsy report (once released) for the signing pathologist.",
       "transcript_snippet": "The person who signed off on it though is one that we are going to be speaking about, Dr. Andrew Guajardo.",
       "mentions_person_refs": [
-        "N-898",
+        "N-895",
         "N-1"
       ]
     },
@@ -1927,7 +1927,7 @@
       "investigative_direction": "Ask the hospital for scrub issue records and the security team members for a statement on how they obtained scrubs and who supplied them.",
       "transcript_snippet": "They were covered in blood. The amazing Mikey McCoy got them scrubs.",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-1"
       ]
     },
@@ -1969,7 +1969,7 @@
       "investigative_direction": "Verify Guajardo's employment history through Utah state personnel records or his published CV.",
       "transcript_snippet": "He is from New York. He moved to Utah in 2018 and was working as an assistant at the medical examiner's office.",
       "mentions_person_refs": [
-        "N-898"
+        "N-895"
       ]
     },
     {
@@ -1989,8 +1989,8 @@
       "investigative_direction": "Check Utah Department of Health and Human Services announcements for the 2024 appointment of a deputy chief medical examiner.",
       "transcript_snippet": "she decided to select him as her deputy, so he was promoted in 2024 when she got there to the role of deputy chief examiner.",
       "mentions_person_refs": [
-        "N-177",
-        "N-898"
+        "N-176",
+        "N-895"
       ]
     },
     {
@@ -2113,8 +2113,8 @@
       "investigative_direction": "Confirm the marriage through public records or the couple's own biographies.",
       "transcript_snippet": "He's married to a woman named Dr. Ashley Brown Guajardo.",
       "mentions_person_refs": [
-        "N-898",
-        "N-899"
+        "N-895",
+        "N-896"
       ]
     },
     {
@@ -2136,8 +2136,8 @@
       "investigative_direction": "Locate the original posts or video the host showed and establish date, account and whether the person shown is Dr. Ashley Brown Guajardo.",
       "transcript_snippet": "he's married to someone who encourages, supports, works with, and propagates the culture of furries, and occasionally dresses up as one herself.",
       "mentions_person_refs": [
-        "N-898",
-        "N-899"
+        "N-895",
+        "N-896"
       ]
     },
     {
@@ -2159,7 +2159,7 @@
       "investigative_direction": "Find the original social media post, its date and the account that published it.",
       "transcript_snippet": "she was dancing as a furry, and she was promoting uh her book, and she used the hashtag, you know, furry.",
       "mentions_person_refs": [
-        "N-899"
+        "N-896"
       ]
     },
     {
@@ -2179,7 +2179,7 @@
       "investigative_direction": "Check her published CV or university profile for degrees and institutions.",
       "transcript_snippet": "she then earned her PhD in sociology overseas at the University of Manchester and then she became a teacher.",
       "mentions_person_refs": [
-        "N-899"
+        "N-896"
       ]
     },
     {
@@ -2199,7 +2199,7 @@
       "investigative_direction": "Compare against her university faculty page and CV.",
       "transcript_snippet": "previously Dr. Kowhardo was faculty at Brunel University in London and then the University of Utah.",
       "mentions_person_refs": [
-        "N-899"
+        "N-896"
       ]
     },
     {
@@ -2221,7 +2221,7 @@
       "investigative_direction": "Find the Twitch channel and verify the start date and the content of the streams.",
       "transcript_snippet": "Since 2017, she's hosted a weekly educational Twitch stream on games user research models.",
       "mentions_person_refs": [
-        "N-899"
+        "N-896"
       ]
     },
     {
@@ -2243,7 +2243,7 @@
       "investigative_direction": "Check the organizations' leadership pages and archived rosters for her titles and dates.",
       "transcript_snippet": "She was vice president of the Global Game Jam conference, co-director of IGDA's games user research special interest group.",
       "mentions_person_refs": [
-        "N-899"
+        "N-896"
       ]
     },
     {
@@ -2265,7 +2265,7 @@
       "investigative_direction": "Check the association's website and filings for its current officers.",
       "transcript_snippet": "And currently serves as the president of the Digital Games Research Association.",
       "mentions_person_refs": [
-        "N-899"
+        "N-896"
       ]
     },
     {
@@ -2287,7 +2287,7 @@
       "investigative_direction": "Check publisher and library catalogs for her authored titles and announced forthcoming book.",
       "transcript_snippet": "and she's currently working on a book which explores how fantasy can shape your sexual desire.",
       "mentions_person_refs": [
-        "N-899"
+        "N-896"
       ]
     },
     {
@@ -2329,7 +2329,7 @@
       "investigative_direction": "Find the Discord server and syllabi or posts where students were invited, and compare membership against names in the Robinson case.",
       "transcript_snippet": "encouraging her students and her gamers to join her on her Discord, to follow her Twitch, her streamer account.",
       "mentions_person_refs": [
-        "N-899"
+        "N-896"
       ]
     },
     {
@@ -2350,7 +2350,7 @@
       "investigative_direction": "Confirm Amaro's departure date and new position through Utah state announcements.",
       "transcript_snippet": "Dr. Amara has left uh the building. She's no longer at Utah.",
       "mentions_person_refs": [
-        "N-177"
+        "N-176"
       ]
     },
     {
@@ -2372,8 +2372,8 @@
       "investigative_direction": "Check New York City announcements of the chief medical examiner appointment and NYU faculty listings.",
       "transcript_snippet": "Now, he's going to be the chief medical examiner in New York, and she's going to be teaching at NYU.",
       "mentions_person_refs": [
-        "N-898",
-        "N-899"
+        "N-895",
+        "N-896"
       ]
     },
     {
@@ -2395,7 +2395,7 @@
       "investigative_direction": "Check the NYU faculty directory and her LinkedIn history for titles and dates.",
       "transcript_snippet": "Now she's the assistant arts professor at NYU full-time.",
       "mentions_person_refs": [
-        "N-899"
+        "N-896"
       ]
     },
     {
@@ -2435,8 +2435,8 @@
       "investigative_direction": "Obtain Harpole's preliminary hearing testimony and Turek's and Cutler's separate accounts and compare who did CPR.",
       "transcript_snippet": "he was doing all of the work while Rob Cutler was holding him, while Frank was praying in the back.",
       "mentions_person_refs": [
-        "N-267",
-        "N-488",
+        "N-266",
+        "N-487",
         "N-7"
       ]
     },
@@ -2460,7 +2460,7 @@
       "transcript_snippet": "where Frank says he did CPR and Brian says he didn't?",
       "mentions_person_refs": [
         "N-7",
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2481,7 +2481,7 @@
       "transcript_snippet": "Frank says Brian was distracted and just didn't realize what he had done for the last 30 seconds.",
       "mentions_person_refs": [
         "N-7",
-        "N-267",
+        "N-266",
         "N-1"
       ]
     },
@@ -2545,7 +2545,7 @@
       "investigative_direction": "Identify the Timpanogos ER staff and patients present on September 10 and ask whether anyone observed Harpole's conduct.",
       "transcript_snippet": "many of us have noted how odd it is that there were no eyewitnesses to the extremely erratic, chaotic, and utterly improbable ER scene",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2808,7 +2808,7 @@
       "investigative_direction": "Verify the emailer's board certification and obtain the full email.",
       "transcript_snippet": "I agree with you and Jon Bray that the exploding mic theory is the best explanation of what we could grasp from the limited footage available.",
       "mentions_person_refs": [
-        "N-684",
+        "N-682",
         "N-1"
       ]
     },

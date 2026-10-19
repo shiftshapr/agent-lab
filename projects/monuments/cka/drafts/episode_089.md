@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep089): N-10741
-  - Tip-minted Nodes (reintro-ep089): N-681
+  - Tip-minted Nodes (reintro-ep089): N-679
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8635–C-8688
   - New Nodes Introduced: N-10590, N-10591, N-10592
-  - Hole-minted Nodes (wave3): N-420
-  - Reused Nodes Appearing: N-5, N-10587, N-9, N-97, N-146, N-179, N-245, N-299, N-10006, N-10026, N-10063, N-10282, N-10324, N-10541, N-10628, N-10962, N-11128, N-11133, N-166, N-707, N-10630, N-11191, N-11192, N-11145, N-10589, N-10588
+  - Hole-minted Nodes (wave3): N-419
+  - Reused Nodes Appearing: N-5, N-10587, N-9, N-97, N-145, N-178, N-244, N-298, N-10006, N-10026, N-10063, N-10282, N-10324, N-10541, N-10628, N-10962, N-11128, N-11133, N-165, N-705, N-10630, N-11191, N-11192, N-11145, N-10589, N-10588
   - (see registers)
 
 ## 2. Executive Summary
@@ -210,7 +210,7 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
-**N-420** Monica Lewinsky
+**N-419** Monica Lewinsky
 
 First named by the host at 00:26:31 in episode 89.
 
@@ -391,7 +391,7 @@ Ben Shapiro, named in a played voter clip.
 
 ---
 
-**N-146** Marjorie Taylor Greene
+**N-145** Marjorie Taylor Greene
 
 Marjorie Taylor Greene, named in the post as Marjorie Traitor Brown.
 
@@ -399,7 +399,7 @@ Marjorie Taylor Greene, named in the post as Marjorie Traitor Brown.
 
 ---
 
-**N-166** Howard Lutnick
+**N-165** Howard Lutnick
 
 Howard Lutnick, named in a played voter clip.
 
@@ -407,7 +407,7 @@ Howard Lutnick, named in a played voter clip.
 
 ---
 
-**N-179** Jared Kushner
+**N-178** Jared Kushner
 
 Jared Kushner, named by the host in connection with boardroom deals.
 
@@ -415,7 +415,7 @@ Jared Kushner, named by the host in connection with boardroom deals.
 
 ---
 
-**N-245** Mark Levin
+**N-244** Mark Levin
 
 Mark Levin, named in a played voter clip.
 
@@ -423,7 +423,7 @@ Mark Levin, named in a played voter clip.
 
 ---
 
-**N-299** Miriam Adelson
+**N-298** Miriam Adelson
 
 Miriam Adelson, the donor in the host's account of the alleged meeting.
 
@@ -431,7 +431,7 @@ Miriam Adelson, the donor in the host's account of the alleged meeting.
 
 ---
 
-**N-681** Joe Biden
+**N-679** Joe Biden
 
 Joe Biden, discussed in the host's comment on dementia.
 
@@ -439,7 +439,7 @@ Joe Biden, discussed in the host's comment on dementia.
 
 ---
 
-**N-707** Sheldon Adelson
+**N-705** Sheldon Adelson
 
 Sheldon Adelson, whose gambling fortune the host references.
 
@@ -616,7 +616,7 @@ Claim Timestamp: 00:25:38–00:26:31
 Claim: In an on-air audio clip from her Piers Morgan interview, Megyn Kelly stated that Trump sat at the side of the situation-room table while Benjamin Netanyahu sat across from him as an equal, and that senior U.S. advisers subsequently informed Trump the stated Iran objectives were unattainable.
 
 Anchored Artifacts: A-1941.1
-Mentions: N-5, N-36, N-46, N-205
+Mentions: N-5, N-36, N-46, N-204
 Related Nodes: N-10592
 Investigative Direction: Locate the full Piers Morgan interview segment and verify the quoted claims; cross-reference with official White House situation-room imagery if available.
 
@@ -629,7 +629,7 @@ Claim Timestamp: 00:26:31–00:28:46
 Claim: A letter/newsletter from Tucker Carlson, read in full on air, alleged that Israel has a "storied history of blackmailing US presidents," including the claim that recordings of Bill Clinton–Monica Lewinsky phone-sex sessions were used as leverage to obtain Jonathan Pollard's release.
 
 Anchored Artifacts: A-1942.1
-Mentions: N-275, N-22, N-420
+Mentions: N-274, N-22, N-419
 Related Nodes:
 Investigative Direction: Retrieve the original Carlson newsletter post and verify the exact wording; assess sourcing and historical basis for the Clinton-Lewinsky blackmail claim independently.
 
@@ -655,7 +655,7 @@ Claim Timestamp: 00:29:16–00:31:16
 Claim: Candace Owens recounted on air that Charlie Kirk told her (with Andrew Kolvet named as in-room corroborator) that he and Kolvet were present at a meeting in which Miriam Adelson offered President Trump $100 million in exchange for annexation of the West Bank, before the donation was announced, which she thinks was in or just before July 2024.
 
 Anchored Artifacts: A-1944.1
-Mentions: N-1, N-3, N-5, N-14, N-299
+Mentions: N-1, N-3, N-5, N-14, N-298
 Related Nodes: N-10589
 Investigative Direction: Identify and interview Andrew Kolvet directly; cross-reference publicly reported Adelson-Trump meetings in spring/summer 2024; review contemporaneous meeting attendee records if obtainable.
 
@@ -668,7 +668,7 @@ Claim Timestamp: 00:30:06–00:31:16
 Claim: Per Candace Owens's recounting of Charlie Kirk's account, Donald Trump stated during the meeting described in C-2675 that he intended to "take her money and then I'll f her over."
 
 Anchored Artifacts: A-1944.1
-Mentions: N-3, N-1, N-5, N-299
+Mentions: N-3, N-1, N-5, N-298
 Related Nodes: N-10588, N-10589
 Investigative Direction: Obtain corroborating testimony from Andrew Kolvet; review any contemporaneous notes, messages, or secondary witnesses; assess downstream policy decisions vis-à-vis West Bank actions.
 
@@ -888,7 +888,7 @@ Claim: The post, as read by the host, says that when the critics call Trump does
 Transcript Snippet: As president President, I could get them on my side anytime I want, but when they call, I don't return their calls because I'm too busy on world and country affairs.
 
 Anchored Artifacts: A-1939.1
-Mentions: N-5, N-146
+Mentions: N-5, N-145
 Tags: relevance:context
 Investigative Direction: Obtain the archived Truth Social post and compare the wording with the on-air reading. Ask the four named critics whether and when they called.
 
@@ -950,7 +950,7 @@ Claim: The host refers to what was agreed in boardrooms with Jared Kushner and a
 Transcript Snippet: whatever was agreed upon in those boardrooms with Jared Kushner, uh Trump Gaza hotel, whatever you tweeted so crass.
 
 Anchored Artifacts: 
-Mentions: N-179, N-5, N-3
+Mentions: N-178, N-5, N-3
 Related Nodes: N-10063
 Tags: relevance:context
 Investigative Direction: Identify any public reporting on a Kushner-linked Gaza development plan and compare it with the host's allusion.
@@ -983,7 +983,7 @@ Claim: The host says Netanyahu is Trump's master and that Miriam Adelson may be 
 Transcript Snippet: Bibi is your master. Maybe it's Miriam Adelson that lights the fire and Bibi that makes the shadows on the wall
 
 Anchored Artifacts: 
-Mentions: N-36, N-299, N-5, N-3
+Mentions: N-36, N-298, N-5, N-3
 Related Nodes: N-11128
 Tags: relevance:context
 Investigative Direction: This is the host's characterization; look for documented policy requests by either figure to Trump.
@@ -999,7 +999,7 @@ Claim: In a clip played by the host, an unnamed MAGA voter says half the people 
 Transcript Snippet: Half of the people that I grew up with in this movement are not on Ben Shapiro and Mark Levin's team, okay?
 
 Anchored Artifacts: A-2953.1
-Mentions: N-97, N-245, N-3
+Mentions: N-97, N-244, N-3
 Tags: relevance:context
 Investigative Direction: Identify the clip's speaker and source video.
 
@@ -1014,7 +1014,7 @@ Claim: In the same clip, the voter says Trump has become corrupt, cites insider 
 Transcript Snippet: I don't want to be at your cool, corrupt kid, Howard Lutnick, Jeffrey Epstein class table.
 
 Anchored Artifacts: A-2953.1
-Mentions: N-166, N-9, N-5
+Mentions: N-165, N-9, N-5
 Tags: relevance:context
 Investigative Direction: Identify the speaker; check the insider-trading reporting the clip alludes to.
 
@@ -1203,7 +1203,7 @@ Claim: The host says she thinks it was announced in July, or just before July, o
 Transcript Snippet: before where was announced that Miriam Adelson gave Trump $100 million. This was I think it was announced in July or just before July of 2024.
 
 Anchored Artifacts: A-1944.1
-Mentions: N-299, N-5, N-3
+Mentions: N-298, N-5, N-3
 Related Nodes: N-10589
 Supports: C-7107
 Tags: relevance:context
@@ -1286,7 +1286,7 @@ Claim: The host wonders whether it got back to the Adelsons that Trump said he w
 Transcript Snippet: If it maybe got back to the Adelsons that Trump said that. You don't take $100 million from a uh a family of I would say gangsters, right?
 
 Anchored Artifacts: A-1944.1
-Mentions: N-707, N-299, N-5, N-3
+Mentions: N-705, N-298, N-5, N-3
 Related Nodes: N-10588
 Tags: relevance:context
 Investigative Direction: This is the host's speculation and characterization; no evidence is offered that the remark reached the Adelsons.
@@ -1537,7 +1537,7 @@ Claim: The host says she genuinely believes Joe Biden had dementia, that Trump d
 Transcript Snippet: I genuinely believe that Joe Biden had dementia, and at least he can say that.
 
 Anchored Artifacts: 
-Mentions: N-681, N-5, N-3
+Mentions: N-679, N-5, N-3
 Tags: relevance:tangential
 Investigative Direction: Opinion about two public figures; no medical record is cited.
 

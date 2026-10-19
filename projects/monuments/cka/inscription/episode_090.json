@@ -370,7 +370,7 @@
             "N-3",
             "N-40",
             "N-69",
-            "N-379"
+            "N-378"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -452,7 +452,7 @@
           ],
           "related_nodes": [
             "N-5",
-            "N-421"
+            "N-420"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -868,8 +868,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-421",
-      "ref": "N-421",
+      "@id": "N-420",
+      "ref": "N-420",
       "name": "Pope Leo XIV",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 90. Aliases: Pope Leo, Pope Leo the 14th, His Holiness Pope Leo, Leo XIV.",
@@ -888,8 +888,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-422",
-      "ref": "N-422",
+      "@id": "N-421",
+      "ref": "N-421",
       "name": "Doug Terry",
       "type": "person",
       "description": "First named by the host at 00:33:31 in episode 90.",
@@ -944,8 +944,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-134",
-      "ref": "N-134",
+      "@id": "N-133",
+      "ref": "N-133",
       "name": "Robert Bohls",
       "type": "person",
       "description": "Reported as the individual installed to lead the Utah FBI field office in August 2025 following Kash Patel's purge of prior leadership; described as based in DC for decades and in his first week on the job at the time of the shooting.",
@@ -960,8 +960,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-606",
-      "ref": "N-606",
+      "@id": "N-604",
+      "ref": "N-604",
       "name": "Caleb Robinson",
       "type": "person",
       "description": "Daily Wire chief executive; first named by the host at 00:23:21 in episode 90 (ADF board seat).",
@@ -1094,8 +1094,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "TPUSA communications figure; the host recounts his refusal to show the video.",
@@ -1114,8 +1114,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-164",
-      "ref": "N-164",
+      "@id": "N-163",
+      "ref": "N-163",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1131,8 +1131,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-205",
-      "ref": "N-205",
+      "@id": "N-204",
+      "ref": "N-204",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1148,8 +1148,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-245",
-      "ref": "N-245",
+      "@id": "N-244",
+      "ref": "N-244",
       "name": "Mark Levin",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1165,8 +1165,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-273",
-      "ref": "N-273",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Nate Brooksby",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1184,8 +1184,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-362",
-      "ref": "N-362",
+      "@id": "N-361",
+      "ref": "N-361",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1201,8 +1201,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-365",
-      "ref": "N-365",
+      "@id": "N-364",
+      "ref": "N-364",
       "name": "Cabot Phillips",
       "type": "person",
       "description": "Daily Wire employee the host describes as Erika's ex-boyfriend and the subject of the playground encounter.",
@@ -1221,8 +1221,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-367",
-      "ref": "N-367",
+      "@id": "N-366",
+      "ref": "N-366",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1238,8 +1238,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-379",
-      "ref": "N-379",
+      "@id": "N-378",
+      "ref": "N-378",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1255,8 +1255,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-775",
-      "ref": "N-775",
+      "@id": "N-773",
+      "ref": "N-773",
       "name": "Paula White",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1673,8 +1673,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-813",
-      "ref": "N-813",
+      "@id": "N-811",
+      "ref": "N-811",
       "name": "Mike Smith",
       "type": "person",
       "description": "Utah County Sheriff; first named by the host at 00:38:30 in episode 90 (Brooksby's call about Mike Mitchell).",
@@ -1690,8 +1690,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-814",
-      "ref": "N-814",
+      "@id": "N-812",
+      "ref": "N-812",
       "name": "Bishop Barron",
       "type": "person",
       "description": "Bishop; first named by the host at 00:55:46 in episode 90 (stood beside Paula White during the prayer). Transcript spelling: Bishop Barron.",
@@ -1741,7 +1741,7 @@
       "investigative_direction": "Verify attorney representation records and the authenticity of the cited interview timestamp.",
       "mentions_person_refs": [
         "N-40",
-        "N-422"
+        "N-421"
       ]
     },
     {
@@ -1838,7 +1838,7 @@
       "claim_timestamp": "00:23:21",
       "investigative_direction": "Cross-check ADF public filings (Form 990, board roster) for Caleb Robinson's name and tenure.",
       "mentions_person_refs": [
-        "N-606"
+        "N-604"
       ]
     },
     {
@@ -1856,7 +1856,7 @@
       "investigative_direction": "Retrieve the original Truth Social post and engagement metrics.",
       "mentions_person_refs": [
         "N-5",
-        "N-421"
+        "N-420"
       ]
     },
     {
@@ -1873,7 +1873,7 @@
       "claim_timestamp": "00:57:23",
       "investigative_direction": "Obtain the original Vatican source video and transcript.",
       "mentions_person_refs": [
-        "N-421"
+        "N-420"
       ]
     },
     {
@@ -1988,7 +1988,7 @@
       "investigative_direction": "Cross-reference dates with Vatican liturgical calendar and Truth Social post timestamps.",
       "mentions_person_refs": [
         "N-5",
-        "N-421"
+        "N-420"
       ]
     },
     {
@@ -2027,7 +2027,7 @@
         "N-40",
         "N-41",
         "N-69",
-        "N-134"
+        "N-133"
       ]
     },
     {
@@ -2049,9 +2049,9 @@
       "transcript_snippet": "Erika's ex-boyfriend, one of the many, uh current Daily Wire employee, who was featured on my podcast when Mitch gave a description of the guy that he believed that he saw with Erika at Fort Huachuca",
       "mentions_person_refs": [
         "N-3",
-        "N-365",
+        "N-364",
         "N-2",
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2072,7 +2072,7 @@
       "transcript_snippet": "You will recall that I texted Cabot Phillips before we mentioned him on the podcast, looking for a simple yes or no response.",
       "mentions_person_refs": [
         "N-3",
-        "N-365"
+        "N-364"
       ]
     },
     {
@@ -2091,7 +2091,7 @@
       "transcript_snippet": "he goes, oh, really? Because of you, people don't believe that he is my son. Okay.",
       "mentions_person_refs": [
         "N-3",
-        "N-365"
+        "N-364"
       ]
     },
     {
@@ -2110,7 +2110,7 @@
       "transcript_snippet": "I want to also state that I believe that that is Cabot Phillips' child. I never made the claim otherwise",
       "mentions_person_refs": [
         "N-3",
-        "N-365"
+        "N-364"
       ]
     },
     {
@@ -2185,7 +2185,7 @@
       "transcript_snippet": "He said that I was a psychopathic subway killer that was wielding a knife.",
       "mentions_person_refs": [
         "N-3",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2386,7 +2386,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2472,8 +2472,8 @@
       "transcript_snippet": "even Jeremy Boreing when he went on his like Candace tour, uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on Piers Morgan.",
       "mentions_person_refs": [
         "N-3",
-        "N-367",
-        "N-205",
+        "N-366",
+        "N-204",
         "N-1",
         "N-97"
       ]
@@ -2545,8 +2545,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-606",
-        "N-164",
+        "N-604",
+        "N-163",
         "N-14",
         "N-1"
       ]
@@ -2675,7 +2675,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-606"
+        "N-604"
       ]
     },
     {
@@ -2716,7 +2716,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-46",
-        "N-245",
+        "N-244",
         "N-97"
       ]
     },
@@ -2903,7 +2903,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-69",
-        "N-379",
+        "N-378",
         "N-40"
       ]
     },
@@ -2979,7 +2979,7 @@
       "transcript_snippet": "then we have uh Sheriff Broxby, which we will get from a a later press conference. He will say that that's when he received the phone call from Mike Mitchell",
       "mentions_person_refs": [
         "N-3",
-        "N-273",
+        "N-272",
         "N-125",
         "N-40"
       ]
@@ -3002,8 +3002,8 @@
       "transcript_snippet": "And um then Sheriff Broxby calls the Utah County Sheriff Mike Smith to tell him about the call that he just got from Mike Mitchell.",
       "mentions_person_refs": [
         "N-3",
-        "N-273",
-        "N-813",
+        "N-272",
+        "N-811",
         "N-125"
       ]
     },
@@ -3027,7 +3027,7 @@
       "transcript_snippet": "They tell us that 9:00 that Tyler arrives at the police station. That's according to the press conference that is given by Sheriff Nate Broxby.",
       "mentions_person_refs": [
         "N-3",
-        "N-273",
+        "N-272",
         "N-40",
         "N-69"
       ]
@@ -3078,7 +3078,7 @@
       "transcript_snippet": "France, assassin squads tied to Freemasonry. So, we can stop pretending that that's a figment of anyone's imagination, least of all mine.",
       "mentions_person_refs": [
         "N-3",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -3375,7 +3375,7 @@
         "N-3",
         "N-60",
         "N-5",
-        "N-775"
+        "N-773"
       ]
     },
     {
@@ -3400,7 +3400,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-421"
+        "N-420"
       ]
     },
     {
@@ -3425,7 +3425,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-421"
+        "N-420"
       ]
     },
     {
@@ -3444,8 +3444,8 @@
       "transcript_snippet": "Bishop Barron standing beside Paula White during that prayer, and his excuse is why he was there.",
       "mentions_person_refs": [
         "N-3",
-        "N-814",
-        "N-775",
+        "N-812",
+        "N-773",
         "N-5"
       ]
     },
@@ -3468,7 +3468,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-421"
+        "N-420"
       ]
     },
     {
@@ -3490,7 +3490,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-421"
+        "N-420"
       ]
     },
     {
