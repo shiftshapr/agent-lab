@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 80c78af8806a54fe976848d2fa3b81e764734789b67b8f5aaf8e2423a2666f0c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-817, N-818, N-820, N-11193, N-11195, N-11196, N-11197
+  - Tip-minted Nodes (supplement_2026-10c): N-815, N-816, N-11193, N-11195, N-11196, N-11197
   - Claim Range (supplement_2026-10c): C-8821–C-8931
-  - Reused Nodes Appearing: N-10698, N-10700, N-10701, N-10704, N-10699, N-10703, N-4, N-5, N-9, N-47, N-48, N-68, N-82, N-131, N-267, N-521, N-530, N-558, N-571, N-584, N-609, N-688, N-689, N-691, N-693, N-732, N-10000, N-10012, N-10015, N-10032, N-10048, N-10061, N-10107, N-10110, N-10168, N-10230, N-10239, N-10275, N-10276, N-10290, N-10311, N-10324, N-10395, N-10401, N-10501, N-10502, N-10520, N-10523, N-10526, N-10532, N-10598, N-10663, N-10677, N-10687, N-10691, N-10737, N-10740, N-10768, N-10871, N-10888, N-10897, N-10899, N-10923, N-10929, N-10937, N-10971, N-10978, N-10979, N-10982, N-10988, N-11011, N-11053, N-11194, N-10702, N-819
+  - Reused Nodes Appearing: N-10698, N-10700, N-10701, N-10704, N-10699, N-10703, N-4, N-5, N-9, N-47, N-48, N-68, N-82, N-131, N-266, N-520, N-529, N-557, N-569, N-582, N-607, N-686, N-687, N-689, N-691, N-730, N-10000, N-10012, N-10015, N-10032, N-10048, N-10061, N-10107, N-10110, N-10168, N-10230, N-10239, N-10275, N-10276, N-10290, N-10311, N-10324, N-10395, N-10401, N-10501, N-10502, N-10520, N-10523, N-10526, N-10532, N-10598, N-10663, N-10677, N-10687, N-10691, N-10737, N-10740, N-10768, N-10871, N-10888, N-10897, N-10899, N-10923, N-10929, N-10937, N-10971, N-10978, N-10979, N-10982, N-10988, N-11011, N-11053, N-11194, N-10702, N-817
   - (see registers)
 
 # I. Meta-Data
@@ -32,7 +32,7 @@
 - Artifact Families Introduced: A-2104, A-2105, A-2106, A-2107, A-2108, A-2109
 - Claim Range: C-2969–C-2985
   - New Nodes Introduced: N-10696, N-10697, N-10698, N-10700, N-10701, N-10704
-  - Reused Nodes Appearing: N-11, N-434
+  - Reused Nodes Appearing: N-11, N-433
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens
 
 ---
@@ -321,7 +321,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-817** David Sprague
+**N-815** David Sprague
 
 First named by the host at 00:05:36 in episode 122 (David Sprague; later James Norman Rawlinson Jr., also spelled James Rawlinson, David L. Rawlinson and James Rolleston in the transcript). Man who stood and cheered after the shot and whom the host links to the Utah National Guard and the 19th Special Forces.
 
@@ -346,7 +346,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-691** Curtis Kolvet
+**N-689** Curtis Kolvet
 
 Existing node reused for new claims in this episode.
 
@@ -378,7 +378,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-688** Philip Goldsberry Jr.
+**N-686** Philip Goldsberry Jr.
 
 Existing node reused for new claims in this episode.
 
@@ -386,7 +386,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-689** Dr. Philip Goldsberry
+**N-687** Dr. Philip Goldsberry
 
 Existing node reused for new claims in this episode.
 
@@ -418,7 +418,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-530** Jean-Luc Brunel
+**N-529** Jean-Luc Brunel
 
 Existing node reused for new claims in this episode.
 
@@ -426,7 +426,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-693** Virginia Giuffre
+**N-691** Virginia Giuffre
 
 Existing node reused for new claims in this episode.
 
@@ -442,7 +442,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-818** Arnaud Brunel
+**N-816** Arnaud Brunel
 
 First named by the host at 00:19:15 in episode 122. Brother of Jean-Luc Brunel whom the host names as co-founder of a New York modeling agency.
 
@@ -450,7 +450,7 @@ First named by the host at 00:19:15 in episode 122. Brother of Jean-Luc Brunel w
 
 ---
 
-**N-571** Faith Kates
+**N-569** Faith Kates
 
 Existing node reused for new claims in this episode.
 
@@ -466,7 +466,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-584** Mark Epstein
+**N-582** Mark Epstein
 
 Existing node reused for new claims in this episode.
 
@@ -483,7 +483,7 @@ The pending class action the host cites against Next Model Management and MC2 ov
 
 ---
 
-**N-521** Rothschild Family
+**N-520** Rothschild Family
 
 Existing node reused for new claims in this episode.
 
@@ -532,7 +532,7 @@ The host's allegation that the Department of War deploys paid or affiliated peop
 
 ---
 
-**N-609** Graham Allen
+**N-607** Graham Allen
 
 Existing node reused for new claims in this episode.
 
@@ -588,7 +588,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-267** Brian Harpole
+**N-266** Brian Harpole
 
 Existing node reused for new claims in this episode.
 
@@ -628,7 +628,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-732** Sara Tewell
+**N-730** Sara Tewell
 
 Existing node reused for new claims in this episode.
 
@@ -653,7 +653,7 @@ The host's claim that the family Sara Tewell married into controlled emergency d
 
 ---
 
-**N-819** Ehud Barak
+**N-817** Ehud Barak
 
 First named by the host at 00:36:21 in episode 122. The host says he created Carbyne.
 
@@ -694,7 +694,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-820** Nicole Rothstein
+**N-574** Nicole Rothstein
 
 First named by the host at 00:38:54 in episode 122. The host says she is probably not Erika Kirk's blood cousin but was involved in real estate with that family.
 
@@ -710,7 +710,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-558** Lynn Forester de Rothschild
+**N-557** Lynn Forester de Rothschild
 
 Existing node reused for new claims in this episode.
 
@@ -774,7 +774,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-434** Bradley Hansell
+**N-433** Bradley Hansell
 
 Existing node reused for new claims in this episode.
 
@@ -1098,7 +1098,7 @@ Claim Timestamp: 00:06:15
 Claim: A video clip displayed during the episode shows David Sprague (James Norman Rawlinson Jr.) standing and appearing to cheer shortly after the gunshot.
 
 Anchored Artifacts: A-2105.1
-Mentions: N-817
+Mentions: N-815
 Related Nodes:
 Investigative Direction: Cross-reference the clip with public statements by Rawlinson and with the FBI interview he claims to have given.
 
@@ -1111,7 +1111,7 @@ Claim Timestamp: 00:07:09
 Claim: A video clip displayed during the episode shows David Sprague and an unidentified companion standing together under umbrellas while Charlie Kirk's event begins.
 
 Anchored Artifacts: A-2105.2
-Mentions: N-1, N-817
+Mentions: N-1, N-815
 Related Nodes:
 Investigative Direction: Identify the second individual and confirm umbrellas' purpose and provenance.
 
@@ -1124,7 +1124,7 @@ Claim Timestamp: 00:09:46
 Claim: An audio clip from James Rawlinson's X account, played during the episode, contains his claim that he served in the 19th Special Forces and wore a red beret.
 
 Anchored Artifacts: A-2106.1
-Mentions: N-817
+Mentions: N-815
 Related Nodes:
 Investigative Direction: Verify Rawlinson's military service record against official DoD / National Guard records.
 
@@ -1137,7 +1137,7 @@ Claim Timestamp: 00:09:46
 Claim: The same X audio clip contains Rawlinson's statement that he has already talked to the FBI and that he hopes they are "on our side."
 
 Anchored Artifacts: A-2106.1
-Mentions: N-817
+Mentions: N-815
 Related Nodes:
 Investigative Direction: Cross-reference with FBI 302 forms, voluntary interview logs, or official acknowledgements.
 
@@ -1150,7 +1150,7 @@ Claim Timestamp: 00:09:46
 Claim: The X audio clip contains Rawlinson's claim that there were no ambulances at an event like that and that the high-power rifle sounded like a .22.
 
 Anchored Artifacts: A-2106.1
-Mentions: N-817
+Mentions: N-815
 Related Nodes:
 Investigative Direction: Compare against published video, ballistic evidence, and emergency response records.
 
@@ -1175,7 +1175,7 @@ Claim Timestamp: 00:13:17
 Claim: A photograph displayed during the episode allegedly shows James Rawlinson in Romania in 2023 wearing a maroon beret, on the right side of the photo.
 
 Anchored Artifacts: A-2107.2
-Mentions: N-817
+Mentions: N-815
 Related Nodes:
 Investigative Direction: Confirm identity with Rawlinson himself, military photo archives, and contemporaneous deployment records.
 
@@ -1240,7 +1240,7 @@ Claim Timestamp: 00:42:10
 Claim: The host states the team has filed FOIA requests to the NSA (Erika emotional asset email), DHS/Secret Service/EOP (WAVES entries for Erika), FBI (Kash Patel schedule), and for FBI plane flight logs and Bradley Hansell's travel schedule September 7-10.
 
 Anchored Artifacts: None displayed
-Mentions: N-2, N-69, N-434
+Mentions: N-2, N-69, N-433
 Related Nodes: N-10700
 Investigative Direction: Verify FOIA request submissions via the agencies' tracking portals and any responses.
 *Flag: Claim failed admission test on artifact anchor – host assertion only.*
@@ -1429,7 +1429,7 @@ Claim: The host says that, in retrospect, the viral story of the man who stood a
 Transcript Snippet: To be frank, in retrospect, it registers to me as another major distraction point.
 
 Anchored Artifacts: 
-Mentions: N-3, N-817
+Mentions: N-3, N-815
 Related Nodes: N-10696
 Tags: relevance:core
 Investigative Direction: Trace how the cheering clip was amplified (accounts, dates, reach) and whether amplification was organic.
@@ -1445,7 +1445,7 @@ Claim: The host says the man identified as David Sprague gave an interview clari
 Transcript Snippet: He came out, he did an interview clarifying that he wasn't cheering because Charlie was hurt.
 
 Anchored Artifacts: A-2105.1
-Mentions: N-3, N-817, N-1
+Mentions: N-3, N-815, N-1
 Related Nodes: N-10696
 Supports: C-2971
 Tags: relevance:core
@@ -1462,7 +1462,7 @@ Claim: The host says viewers emailed asking her to look into the 'umbrella boys'
 Transcript Snippet: They who were emailing us saying you need to look into these umbrella boys.
 
 Anchored Artifacts: A-2105.2
-Mentions: N-3, N-817
+Mentions: N-3, N-815
 Related Nodes: N-10696
 Supports: C-2972
 Tags: relevance:core
@@ -1479,7 +1479,7 @@ Claim: The host says David Sprague is not his original name and that his actual 
 Transcript Snippet: We learned that his actual birth name is James Norman Rawlinson Jr.
 
 Anchored Artifacts: A-2968.1
-Mentions: N-3, N-817
+Mentions: N-3, N-815
 Related Nodes: N-11193
 Tags: relevance:core
 Investigative Direction: Obtain the court name-change record and compare it with the host's report.
@@ -1495,7 +1495,7 @@ Claim: The host says Rawlinson told her in a conversation that he had legally ch
 Transcript Snippet: he claimed that he had legally changed his name uh recently because he wanted separation from his father.
 
 Anchored Artifacts: A-2968.1
-Mentions: N-3, N-817
+Mentions: N-3, N-815
 Related Nodes: N-11193
 Tags: relevance:core
 Investigative Direction: Retrieve the name-change petition and its filing date from the relevant court.
@@ -1511,7 +1511,7 @@ Claim: The host says Rawlinson claimed his father got in trouble for child abuse
 Transcript Snippet: he claimed that his father got in trouble for child abuse, for harming children.
 
 Anchored Artifacts: A-2968.1
-Mentions: N-3, N-817
+Mentions: N-3, N-815
 Related Nodes: N-11193
 Tags: relevance:context
 Investigative Direction: Search court and sex-offender registries for any matching record; the host reports she has found none.
@@ -1527,7 +1527,7 @@ Claim: The host says she thought it odd that she could not find, if Rawlinson's 
 Transcript Snippet: I can't seem to find that anywhere registered.
 
 Anchored Artifacts: A-2968.1
-Mentions: N-3, N-817
+Mentions: N-3, N-815
 Related Nodes: N-11193
 Tags: relevance:context
 Investigative Direction: Search civil and military court records for the father; the host suggests an air base prosecution may not appear in ordinary searches.
@@ -1543,7 +1543,7 @@ Claim: The host says Rawlinson joined Army boot camp in 2011 and was promoted to
 Transcript Snippet: he joined Army boot camp in 2011. He was promoted to a corporal and/or specialist at the beginning of 2014 for the Utah National Guard.
 
 Anchored Artifacts: 
-Mentions: N-3, N-817
+Mentions: N-3, N-815
 Related Nodes: N-10697
 Tags: relevance:core
 Investigative Direction: Request Rawlinson's service record (DD-214 or National Guard personnel file) to confirm enlistment and promotion dates.
@@ -1607,7 +1607,7 @@ Claim: The host says that at the same time Rawlinson was reportedly in Romania (
 Transcript Snippet: Curtis Kolvet, Andrew Kolvet's brother, uh who was, I believe, Nevada National Guard, running the as a lieutenant colonel for the Nevada National Guard
 
 Anchored Artifacts: 
-Mentions: N-691, N-14, N-817
+Mentions: N-689, N-14, N-815
 Related Nodes: N-10697
 Supports: C-4693
 Tags: relevance:core
@@ -1624,7 +1624,7 @@ Claim: The host says she asked Rawlinson five separate times whether he had serv
 Transcript Snippet: I asked him five separate times if he had served overseas uh in Romania, whether his father had served overseas.
 
 Anchored Artifacts: 
-Mentions: N-3, N-817
+Mentions: N-3, N-815
 Related Nodes: N-10697, N-11193
 Tags: relevance:core
 Investigative Direction: Obtain the host's message exchange with Rawlinson and Rawlinson's own statement on any Romania service.
@@ -1640,7 +1640,7 @@ Claim: The host says that as a maroon beret Rawlinson would particularly have be
 Transcript Snippet: he would particularly have been a part of the 82nd Airborne Task Force 82, an elite rapidly deployable unit capable of deploying anywhere in the world in just 18 hours
 
 Anchored Artifacts: A-2107.1
-Mentions: N-3, N-817
+Mentions: N-3, N-815
 Related Nodes: N-10697
 Supports: C-2976
 Tags: relevance:context
@@ -1724,7 +1724,7 @@ Claim: The host says Philip Goldsberry Jr.'s father began a global ministry that
 Transcript Snippet: We then learn his dad began a global ministry that worked with orphans in Romania, teaching them basic hygiene.
 
 Anchored Artifacts: 
-Mentions: N-688, N-689
+Mentions: N-686, N-687
 Related Nodes: N-10401
 Supports: C-4787
 Tags: relevance:core
@@ -1773,7 +1773,7 @@ Claim: The host says Jean-Luc Brunel was arrested at Charles de Gaulle Airport i
 Transcript Snippet: in December of 2020, Jean-Luc Brunel was arrested at the Charles de Gaulle Airport in Paris.
 
 Anchored Artifacts: 
-Mentions: N-530, N-3
+Mentions: N-529, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Check French judicial and press records for the date and charges of Brunel's arrest.
@@ -1789,7 +1789,7 @@ Claim: The host says that when Virginia Giuffre's case against Ghislaine Maxwell
 Transcript Snippet: she said that Epstein had bragged that he had slept with over 1,000 of Brunel's girls
 
 Anchored Artifacts: 
-Mentions: N-693, N-47, N-9, N-530
+Mentions: N-691, N-47, N-9, N-529
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the specific unsealed Giuffre v. Maxwell filing containing the 1,000-girls statement.
@@ -1805,7 +1805,7 @@ Claim: The host says that for Jeffrey Epstein's birthday, Jean-Luc Brunel flew o
 Transcript Snippet: Jean-Luc Brunel flew out 12-year-old triplets from Paris to Epstein
 
 Anchored Artifacts: 
-Mentions: N-530, N-9
+Mentions: N-529, N-9
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the court or investigative document that describes the triplets allegation.
@@ -1821,7 +1821,7 @@ Claim: The host says that in 2005 Jeffrey Epstein gave Jean-Luc Brunel the seed 
 Transcript Snippet: in 2005, Jeffrey Epstein gave him the seed money for him to start the modeling agency MC2 in Paris
 
 Anchored Artifacts: 
-Mentions: N-9, N-530
+Mentions: N-9, N-529
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Check financial records and court filings for Epstein's funding of MC2 Model Management.
@@ -1837,7 +1837,7 @@ Claim: The host says Jean-Luc Brunel, alongside his brother Arnaud Brunel, found
 Transcript Snippet: He was actually the founder alongside his brother, Arnaud Brunel, of a modeling agency in New York City.
 
 Anchored Artifacts: 
-Mentions: N-530, N-818, N-9, N-3
+Mentions: N-529, N-816, N-9, N-3
 Related Nodes: N-10532
 Tags: relevance:core
 Investigative Direction: Check New York corporate records and press for the founders of Next Model Management; Faith Kates is usually named as its founder.
@@ -1853,7 +1853,7 @@ Claim: The host says Jean-Luc Brunel and his brother founded the Next Model Corp
 Transcript Snippet: Jean-Luc Brunel and his brother founded the Next Model Corporation. And from that spun the Next Model Management modeling agency.
 
 Anchored Artifacts: 
-Mentions: N-530, N-818, N-571
+Mentions: N-529, N-816, N-569
 Related Nodes: N-10532
 Tags: relevance:core
 Investigative Direction: Obtain Next Model corporate formation records and ownership history.
@@ -1869,7 +1869,7 @@ Claim: The host says it was later discovered that underage foreign models recrui
 Transcript Snippet: underage um foreign models that who were recruited from MC2 were being housed in apartments that were owned by Jeffrey Epstein and Jeffrey Epstein's brother.
 
 Anchored Artifacts: 
-Mentions: N-9, N-584
+Mentions: N-9, N-582
 Related Nodes: N-10532
 Tags: relevance:context
 Investigative Direction: Review court filings and property records identifying the apartments and their owners.
@@ -1885,7 +1885,7 @@ Claim: The host says that, interestingly, she discovered Mark Epstein owned a bu
 Transcript Snippet: we discovered that Mark Epstein owned just such a building.
 
 Anchored Artifacts: 
-Mentions: N-584, N-2, N-3
+Mentions: N-582, N-2, N-3
 Related Nodes: N-10532
 Tags: relevance:core
 Investigative Direction: Pull New York property records for Mark Epstein's Upper East Side holdings and compare with the building the host's sources describe.
@@ -1933,7 +1933,7 @@ Claim: The host says Brunel (now dead), MC2, Faith Kates and Next Model Manageme
 Transcript Snippet: It also covers the time in which Erika was allegedly working with the firm.
 
 Anchored Artifacts: A-2969.1
-Mentions: N-530, N-571, N-2, N-3
+Mentions: N-529, N-569, N-2, N-3
 Related Nodes: N-11194, N-10532
 Supports: C-4729
 Tags: relevance:core
@@ -1950,7 +1950,7 @@ Claim: The host says Jean-Luc Brunel's model agency still operates in Tel Aviv.
 Transcript Snippet: Jean-Luc Brunel's model agency, by the way, I should mention, still operates in Tel Aviv, by the way.
 
 Anchored Artifacts: 
-Mentions: N-530, N-3
+Mentions: N-529, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Check whether an MC2 or Brunel-linked agency is registered or operating in Tel Aviv.
@@ -1966,7 +1966,7 @@ Claim: The host says the Rothschilds were Jeffrey Epstein's employers and that t
 Transcript Snippet: The Rothschilds being Jeffrey Epstein's employers.
 
 Anchored Artifacts: 
-Mentions: N-521, N-9, N-3
+Mentions: N-520, N-9, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Identify the documentary basis (the host cites none here) for the Rothschild employment of Epstein.
@@ -2064,7 +2064,7 @@ Claim: The host says Graham Allen's official title right before Charlie Kirk die
 Transcript Snippet: His official title was senior consultant to the Department of War.
 
 Anchored Artifacts: 
-Mentions: N-609, N-1, N-3
+Mentions: N-607, N-1, N-3
 Related Nodes: N-10888, N-11195
 Tags: relevance:core
 Investigative Direction: Request Department of War personnel or consulting records for Graham Allen and his dates of service.
@@ -2080,7 +2080,7 @@ Claim: The host says Graham Allen has allegedly moved to Arizona to assist Turni
 Transcript Snippet: Now, he's allegedly moved to Arizona to full-time assist Turning Point USA in their information war regarding Charlie's assassination.
 
 Anchored Artifacts: 
-Mentions: N-609, N-3
+Mentions: N-607, N-3
 Related Nodes: N-10000, N-11195
 Tags: relevance:core
 Investigative Direction: Ask TPUSA and Allen to confirm or deny any relocation or engagement; look for contracts or payroll records.
@@ -2194,7 +2194,7 @@ Claim: The host says Brian Harpole has twice gone on podcasts and explained that
 Transcript Snippet: Brian has twice gone onto podcasts and explained that they never conducted CPR because they were so focused on the wound.
 
 Anchored Artifacts: A-2109.1
-Mentions: N-267, N-3
+Mentions: N-266, N-3
 Related Nodes: N-10699
 Supports: C-4709
 Tags: relevance:core
@@ -2244,7 +2244,7 @@ Claim: The host says Brian Harpole would not forget getting Charlie into a CPR p
 Transcript Snippet: Brian Harpole would not forget getting Charlie within a 6-minute ride down in a car into a CPR position
 
 Anchored Artifacts: 
-Mentions: N-267, N-1, N-3
+Mentions: N-266, N-1, N-3
 Related Nodes: N-10737
 Tags: relevance:core
 Investigative Direction: Compare the host's 6-minute ride figure with the 8-minute figure used in other episodes and with the vehicle GPS or dispatch logs.
@@ -2325,7 +2325,7 @@ Claim: The host says Sara Tewell, the young woman shown earlier, changed her sto
 Transcript Snippet: the young woman that we showed you who changed her story three times, definitively saw him get hit in the chest
 
 Anchored Artifacts: 
-Mentions: N-732, N-1, N-3
+Mentions: N-730, N-1, N-3
 Related Nodes: N-10677
 Supports: C-2936, C-2937
 Tags: relevance:core
@@ -2342,7 +2342,7 @@ Claim: The host says the family Sara Tewell married into controlled the emergenc
 Transcript Snippet: The family she married into, yes, it is correct, controlled all of the dispatching services for the emergency dispatching services
 
 Anchored Artifacts: 
-Mentions: N-732, N-3
+Mentions: N-730, N-3
 Related Nodes: N-11196
 Tags: relevance:core
 Investigative Direction: Identify the family, the company and its Utah dispatch contracts from business filings and county contracts.
@@ -2358,7 +2358,7 @@ Claim: The host says the dispatch-connected company is in partnership with Israe
 Transcript Snippet: of course in partnership with Israel with Carbyne created by Ehud Barak
 
 Anchored Artifacts: 
-Mentions: N-732, N-819, N-3
+Mentions: N-730, N-817, N-3
 Related Nodes: N-11196, N-11197
 Tags: relevance:core
 Investigative Direction: Verify Carbyne's founders and any partnership or contract with the dispatch company the host means.
@@ -2455,7 +2455,7 @@ Claim: The host says it does not seem that Nicole Rothstein is Erika's blood cou
 Transcript Snippet: it doesn't actually seem like Nicole Rothstein is her blood cousin but she certainly was involved in real estate with that family.
 
 Anchored Artifacts: 
-Mentions: N-820, N-2, N-3
+Mentions: N-574, N-2, N-3
 Related Nodes: N-10520
 Tags: relevance:core
 Investigative Direction: Identify Nicole Rothstein, her relation to Erika Kirk and any shared real estate ventures.
@@ -2471,7 +2471,7 @@ Claim: The host says Erika got her real estate license under the Corcoran Group,
 Transcript Snippet: the Corcoran group which we had already showed you established according to Jeffrey Epstein's emails by Lynn de Rothschild.
 
 Anchored Artifacts: 
-Mentions: N-2, N-558, N-9, N-3
+Mentions: N-2, N-557, N-9, N-3
 Related Nodes: N-10502, N-10523
 Tags: relevance:core
 Investigative Direction: Re-check the Epstein email for Lynn de Rothschild's role at Corcoran; earlier episodes described her as president rather than founder.
@@ -2683,7 +2683,7 @@ Claim: The host says the request for Bradley Hansell's September 7 to 10 travel 
 Transcript Snippet: Moved to the back of the queue, right? We're number 3 534. Is that legal?
 
 Anchored Artifacts: A-2971.1
-Mentions: N-434, N-3
+Mentions: N-433, N-3
 Related Nodes: N-10700, N-10888
 Supports: C-4531
 Tags: relevance:core
@@ -2913,7 +2913,7 @@ Claim: The host wonders whether Harpole's account of cutting the shirt for defib
 Transcript Snippet: I wonder also if that part of him saying that was to prepare us for bruising that we're going to learn was on Charlie's chest in the autopsy.
 
 Anchored Artifacts: 
-Mentions: N-267, N-1, N-3
+Mentions: N-266, N-1, N-3
 Related Nodes: N-10768
 Tags: relevance:core
 Investigative Direction: Read the autopsy report for chest findings and ask the hospital whether defibrillation was attempted.
@@ -2977,7 +2977,7 @@ Claim: The host reads a viewer comment (from Rinan) from an ER nurse of over 20 
 Transcript Snippet: I've been an ER nurse for over 20 years and the tale told by Brian Harpole is patently ridiculous. It did not happen.
 
 Anchored Artifacts: A-2972.2
-Mentions: N-267
+Mentions: N-266
 Related Nodes: N-10663
 Supports: C-2965
 Tags: relevance:context

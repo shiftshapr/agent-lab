@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 62ace5f4c4f18929f51b3252c3a6d15650b04715f45dfdc7d6bfb067b8b9d7ce
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-902, N-904, N-11315, N-11316
+  - Tip-minted Nodes (supplement_2026-10e): N-899, N-901, N-11315, N-11316
   - Claim Range (supplement_2026-10e): C-11859–C-11915
-  - Reused Nodes Appearing: N-10850, N-10849, N-14, N-54, N-94, N-201, N-245, N-367, N-582, N-838, N-865, N-901, N-10011, N-10012, N-10019, N-10032, N-10040, N-10051, N-10168, N-10343, N-10416, N-10447, N-10900, N-10974, N-11149, N-11168, N-903
+  - Reused Nodes Appearing: N-10850, N-10849, N-14, N-54, N-94, N-200, N-244, N-366, N-580, N-835, N-862, N-898, N-10011, N-10012, N-10019, N-10032, N-10040, N-10051, N-10168, N-10343, N-10416, N-10447, N-10900, N-10974, N-11149, N-11168, N-900
  - New Nodes Introduced: N-10847, N-10848
- - Reused Nodes Appearing: none (Wave 2: local ids removed), N-570
+ - Reused Nodes Appearing: none (Wave 2: local ids removed), N-861
 
 # Episode Analysis – Bride of Charlie 155
 
@@ -245,7 +245,7 @@ Video Timestamp: 00:37:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11908, N-3, N-367*
+*Related: C-11908, N-3, N-366*
 
 ---
 
@@ -256,7 +256,7 @@ Video Timestamp: 00:39:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11909, N-3, N-367*
+*Related: C-11909, N-3, N-366*
 
 ---
 
@@ -429,7 +429,7 @@ Co-owner of the N88 plane who issued a statement.
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Co-host of the podcast with Boreing; speaker in the promo clip.
 
@@ -437,7 +437,7 @@ Co-host of the podcast with Boreing; speaker in the promo clip.
 
 ---
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 TPUSA figure named in the defamation clips.
 
@@ -445,7 +445,7 @@ TPUSA figure named in the defamation clips.
 
 ---
 
-**N-201** Shelaine Maxfield
+**N-200** Shelaine Maxfield
 
 Co-owner of the N88 plane ('Shelaine' in the transcript); Saprea figure.
 
@@ -453,7 +453,7 @@ Co-owner of the N88 plane ('Shelaine' in the transcript); Saprea figure.
 
 ---
 
-**N-245** Mark Levin
+**N-244** Mark Levin
 
 Named by the host as demanding speech censorship.
 
@@ -461,7 +461,7 @@ Named by the host as demanding speech censorship.
 
 ---
 
-**N-367** Jeremy Boreing
+**N-366** Jeremy Boreing
 
 Former Daily Wire CEO ('Jeremy Boreing' in the transcript); the host's account of his podcast, posts and lawsuits.
 
@@ -469,7 +469,7 @@ Former Daily Wire CEO ('Jeremy Boreing' in the transcript); the host's account o
 
 ---
 
-**N-570** David Hull
+**N-861** David Hull
 
 SBI agent whose preliminary hearing testimony the host analyzes.
 
@@ -477,7 +477,7 @@ SBI agent whose preliminary hearing testimony the host analyzes.
 
 ---
 
-**N-582** Thomas Massie
+**N-580** Thomas Massie
 
 Congressman the host says critics attacked and removed.
 
@@ -485,7 +485,7 @@ Congressman the host says critics attacked and removed.
 
 ---
 
-**N-838** Casey Baugh
+**N-835** Casey Baugh
 
 Alleged UVU donor and partial owner of the N88 plane.
 
@@ -493,7 +493,7 @@ Alleged UVU donor and partial owner of the N88 plane.
 
 ---
 
-**N-865** Officer Goforth
+**N-862** Officer Goforth
 
 Officer the host says was approached by the Dodge Challenger after midnight.
 
@@ -613,7 +613,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-902** Agent Mortensson
+**N-899** Agent Mortensson
 
 First named by the host at 00:18:34 in episode 155. Investigator whose review of UVU security video the September 15 warrant describes.
 
@@ -623,7 +623,7 @@ Aliases: Mortensson
 
 ---
 
-**N-903** Miss Noble
+**N-900** Miss Noble
 
 First named by the host at 00:07:25 in episode 155. Neighbor who with her husband reported a Dodge Challenger driven by a bald person with two others in the back seat.
 
@@ -633,7 +633,7 @@ Aliases: Miss Noble
 
 ---
 
-**N-901** Bobby Sausalito
+**N-898** Bobby Sausalito
 
 First named by the host at 00:00:46 in episode 155. Comedian and political commentator whose pre-release predictions about the Neff and Boreing podcast the host plays.
 
@@ -643,7 +643,7 @@ Aliases: Bobby Sausalito; Bobby Sauce
 
 ---
 
-**N-904** Chelsea Baugh
+**N-901** Chelsea Baugh
 
 First named by the host at 00:25:06 in episode 155. Named with Casey Baugh as a UVU donor and partial owner of the N88 plane.
 
@@ -680,7 +680,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: The host says Blake Neff and Jeremy Boreing consciously selected a photo to promote their upcoming sitdown, which she says will undoubtedly be about her.
 
 Anchored Artifacts: A-2405.1, A-2407.1
-Mentions: N-160, N-367
+Mentions: N-159, N-366
 
 Related Nodes:
 
@@ -695,7 +695,7 @@ Claim Timestamp: 00:33:23–00:36:12
 Claim: Bobby Sausalito predicted, prior to release, that the Neff/Boreing podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erika Kirk, Mikey McCoy, Frank Turek), and calls for lawsuits/jail time against the host.
 
 Anchored Artifacts: A-2406.1
-Mentions: N-901, N-160, N-367, N-22, N-3, N-191, N-2, N-7
+Mentions: N-898, N-159, N-366, N-22, N-3, N-190, N-2, N-7
 
 Related Nodes:
 
@@ -710,7 +710,7 @@ Claim Timestamp: 00:36:12
 Claim: The host says Bobby Sausalito's pre-release predictions were "almost spot on," except that he was wrong that Boreing is doing it for money.
 
 Anchored Artifacts: A-2406.1, A-2407.1
-Mentions: N-901, N-367
+Mentions: N-898, N-366
 
 Related Nodes:
 
@@ -725,7 +725,7 @@ Claim Timestamp: 00:36:51–00:37:44
 Claim: In the Neff/Boreing promo clip, Blake Neff stated that Candace Owens is a "malicious, hateful, dishonest, destructive actor in American life."
 
 Anchored Artifacts: A-2407.1
-Mentions: N-3, N-160
+Mentions: N-3, N-159
 
 Related Nodes:
 
@@ -740,7 +740,7 @@ Claim Timestamp: 00:36:51–00:37:44
 Claim: In the Neff/Boreing promo clip, Blake Neff stated that Candace Owens "wants the person who killed Charlie to get away with it."
 
 Anchored Artifacts: A-2407.1
-Mentions: N-3, N-160, N-1, N-367
+Mentions: N-3, N-159, N-1, N-366
 
 Related Nodes:
 
@@ -755,7 +755,7 @@ Claim Timestamp: 00:36:51–00:37:44
 Claim: In the Neff/Boreing promo clip, Blake Neff stated that Tucker Carlson "has extended maximum grace to Candace Owens."
 
 Anchored Artifacts: A-2407.1
-Mentions: N-22, N-3, N-160, N-367
+Mentions: N-22, N-3, N-159, N-366
 
 Related Nodes:
 
@@ -770,7 +770,7 @@ Claim Timestamp: 00:31:47–00:32:21
 Claim: Jeremy Boreing posted on X that Candace Owens "does this largely on purpose" and that "all Candace cares about is fame and money. Nothing is beneath her."
 
 Anchored Artifacts: A-2408.1
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 
 Related Nodes:
 
@@ -900,7 +900,7 @@ Claim Timestamp: 00:18:34–00:19:42
 Claim: The September 15 search warrant narrative (attributed to Agent Mortensson's review of UVU security video) stated that Robinson's Challenger entered the UVU parking structure at approximately 8:28 AM, that Robinson then visited a wooded area near where the rifle was later discovered, and that Robinson left the structure at approximately 9:32 AM.
 
 Anchored Artifacts: A-2414.1
-Mentions: N-902, N-40
+Mentions: N-899, N-40
 
 Related Nodes: N-10848
 
@@ -915,7 +915,7 @@ Claim Timestamp: 00:19:42–00:21:12
 Claim: The host alleges that Agent David Hull's preliminary hearing testimony presented a campus timeline in which the "Maroon Boy" interacts with a TPUSA representative, departs, and returns on foot, omitting the approximately 8-minute top-of-structure stop and the 8:28-9:24 AM wooded-area visit described in the Sept 15 warrant she reads.
 
 Anchored Artifacts: A-2414.1, A-2415.1
-Mentions: N-570
+Mentions: N-861
 
 Related Nodes: N-10848
 
@@ -930,7 +930,7 @@ Claim Timestamp: 00:08:45
 Claim: The host says neighbor Miss Noble and her husband saw a Dodge Challenger parked in their neighborhood shortly after Officer Goforth's sighting, and that Miss Noble claims it was being driven by a bald person with two people in the back seat.
 
 Anchored Artifacts: (no displayed artifact in this episode; assertion referenced from prior reporting)
-Mentions: N-903, N-865
+Mentions: N-900, N-862
 
 Related Nodes: N-10850
 
@@ -975,7 +975,7 @@ Claim: The host says Tucker Carlson commented on the Blake Neff and Jeremy Borei
 Transcript Snippet: Tucker Carlson said, just look at the photo.
 
 Anchored Artifacts: A-2405.1
-Mentions: N-22, N-160, N-367, N-3
+Mentions: N-22, N-159, N-366, N-3
 Tags: relevance:tangential
 Investigative Direction: Locate Carlson's original post or remark about the photo and confirm his wording and date.
 
@@ -1071,7 +1071,7 @@ Claim: The host says yesterday's timeline wrongly showed Maroon Boy visiting a w
 Transcript Snippet: Yesterday, we wrongly showed you on the timeline um that this was during a time where he then went and visited a wooded area off campus.
 
 Anchored Artifacts: A-2414.1, A-2415.1
-Mentions: N-3, N-570
+Mentions: N-3, N-861
 Related Nodes: N-10848
 Tags: relevance:core
 Investigative Direction: Compare the show's published timeline against both the September 15 warrant narrative and the hearing transcript to document which source supplied each entry.
@@ -1104,7 +1104,7 @@ Claim: The host says the only Challenger footage the prosecution shows runs from
 Transcript Snippet: Agent Hull doesn't even so much as try to suggest that they tracked Maroon Boy Dodge Challenger off campus.
 
 Anchored Artifacts: A-2415.1
-Mentions: N-570, N-40, N-3
+Mentions: N-861, N-40, N-3
 Related Nodes: N-10850
 Tags: relevance:core
 Investigative Direction: Check the hearing transcript for any testimony on tracking the Challenger after 9:33 a.m. and for any off-campus license-plate-reader hits.
@@ -1136,7 +1136,7 @@ Claim: The host says that the Dodge Challenger which "we were told" returned aft
 Transcript Snippet: They've never indicated that he had on body cam footage.
 
 Anchored Artifacts: 
-Mentions: N-865, N-3
+Mentions: N-862, N-3
 Related Nodes: N-10850
 Tags: relevance:core
 Investigative Direction: Request Goforth's bodycam and dispatch records for the after-midnight contact and confirm whether any recording exists.
@@ -1152,7 +1152,7 @@ Claim: The host says Hull's testimony over the footage "registered to me as rema
 Transcript Snippet: at times we went back and realized those two things were in conflict with one another
 
 Anchored Artifacts: A-2415.1
-Mentions: N-570, N-3
+Mentions: N-861, N-3
 Related Nodes: N-10848
 Tags: relevance:core
 Investigative Direction: Compare Hull's narration line by line with the released footage and note each point where the spoken description and the video disagree.
@@ -1345,7 +1345,7 @@ Claim: The host says she thinks Miss Noble and her husband were telling the trut
 Transcript Snippet: I think Miss Noble, uh, the neighbor and her husband were telling the truth when she said that she saw a bald man and two other people in a Dodge Challenger
 
 Anchored Artifacts: 
-Mentions: N-903, N-3
+Mentions: N-900, N-3
 Related Nodes: N-10850
 Supports: C-3530
 Tags: relevance:core
@@ -1410,7 +1410,7 @@ Claim: The host says Hull's preliminary hearing account has Maroon Boy return on
 Transcript Snippet: And he heads to Chick-fil-A, sits down, he eats Chick-fil-A, and then he goes to walk around campus to the wooded area where the gun will eventually be found.
 
 Anchored Artifacts: A-2415.1
-Mentions: N-570, N-40, N-3
+Mentions: N-861, N-40, N-3
 Related Nodes: N-10848
 Supports: C-10436
 Tags: relevance:core
@@ -1427,7 +1427,7 @@ Claim: The host says Hull's account has Robinson leaving campus around 11:00 a.m
 Transcript Snippet: He plays Wordle off campus, sends that score to his friends at 11:28 and then he changes back into his clothes.
 
 Anchored Artifacts: A-2415.1
-Mentions: N-570, N-40, N-3
+Mentions: N-861, N-40, N-3
 Related Nodes: N-10848
 Supports: C-10438
 Tags: relevance:core
@@ -1460,7 +1460,7 @@ Claim: The host says that after Miss Noble called in, the time the Dodge Challen
 Transcript Snippet: That time gets adjusted three times across three different warrants.
 
 Anchored Artifacts: 
-Mentions: N-903, N-3
+Mentions: N-900, N-3
 Related Nodes: N-10848, N-10850
 Tags: relevance:core
 Investigative Direction: Compare the Challenger-at-Noble-house time in each of the three warrants and the surveillance footage timestamp.
@@ -1524,7 +1524,7 @@ Claim: The host says that in the early hours people noticed a plane that used to
 Transcript Snippet: It was their plane. They had to come out and give a statement.
 
 Anchored Artifacts: A-3173.1
-Mentions: N-94, N-201, N-3
+Mentions: N-94, N-200, N-3
 Related Nodes: N-11168, N-10849
 Supports: C-8155
 Tags: relevance:core
@@ -1541,7 +1541,7 @@ Claim: The host says the Maxfields shared ownership of the plane with a couple w
 Transcript Snippet: they actually shared ownership of that plane uh with a couple last name B Aum Bomb who had given $5 million to UVU
 
 Anchored Artifacts: A-3173.1
-Mentions: N-94, N-201, N-3
+Mentions: N-94, N-200, N-3
 Related Nodes: N-10849, N-10012
 Supports: C-9401
 Tags: relevance:core
@@ -1558,7 +1558,7 @@ Claim: The host corrects the name to Chelsea and Casey Baugh and says they donat
 Transcript Snippet: Chelsea and Casey Ba B A U G H donated $5 million to UVU.
 
 Anchored Artifacts: A-3173.1
-Mentions: N-838, N-904, N-3
+Mentions: N-835, N-901, N-3
 Related Nodes: N-10849, N-10012
 Tags: relevance:core
 Investigative Direction: Verify the donation amount, date and recipient through UVU foundation announcements and gift agreements.
@@ -1574,7 +1574,7 @@ Claim: The host says the Baughs have an entrepreneurship institute that was loca
 Transcript Snippet: they have an entrepreneurship institute that was located in the Woodbury building and they were partial owners of that plane
 
 Anchored Artifacts: A-3173.1
-Mentions: N-838, N-904, N-3
+Mentions: N-835, N-901, N-3
 Related Nodes: N-10849, N-10012
 Supports: C-9402
 Tags: relevance:core
@@ -1607,7 +1607,7 @@ Claim: The host says that whatever topic she covers, Jeremy Boreing then hosts s
 Transcript Snippet: He will then host someone to talk about the topic I'm covering and u take a position on it that is opposite of mine and call me a demon.
 
 Anchored Artifacts: 
-Mentions: N-367, N-3, N-22
+Mentions: N-366, N-3, N-22
 Related Nodes: N-10416, N-10900
 Tags: relevance:tangential
 Investigative Direction: Tabulate Boreing's show topics and guests against the host's show dates for a quantitative comparison.
@@ -1623,7 +1623,7 @@ Claim: The host says Boreing pulled a live-show moment where she sounded like sh
 Transcript Snippet: apparently it sounded like I said selfesteem as opposed to self esteem. And so he pulls this second on the show and creates a diagnosis for me.
 
 Anchored Artifacts: A-2408.1
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-10416
 Supports: C-3519
 Tags: relevance:tangential
@@ -1640,7 +1640,7 @@ Claim: In the clip the host plays, Bobby Sausalito says there is a reason Charli
 Transcript Snippet: So, there's a reason Charlie called him his secret weapon.
 
 Anchored Artifacts: A-2406.1
-Mentions: N-901, N-1, N-160
+Mentions: N-898, N-1, N-159
 Tags: relevance:context
 Investigative Direction: Find any Kirk statement in which he called Neff a secret weapon, with date and context.
 
@@ -1655,7 +1655,7 @@ Claim: In the clip the host plays, Sausalito predicts that Boreing wants to cont
 Transcript Snippet: Jeremy wants to get paid by Turning Point.
 
 Anchored Artifacts: A-2406.1
-Mentions: N-901, N-367
+Mentions: N-898, N-366
 Related Nodes: N-10900
 Tags: relevance:context
 Investigative Direction: Seek any contract, sponsorship or payment record between Boreing's company and Turning Point USA.
@@ -1671,7 +1671,7 @@ Claim: The host says that the only thing Sausalito got wrong is that Boreing is 
 Transcript Snippet: The only thing that he got wrong in that assessment is that he's not doing it for money.
 
 Anchored Artifacts: A-2406.1
-Mentions: N-901, N-367, N-3
+Mentions: N-898, N-366, N-3
 Related Nodes: N-10416
 Contradicts: C-11901
 Tags: relevance:tangential
@@ -1688,7 +1688,7 @@ Claim: The host says Charlie Kirk never liked Boreing and Boreing never liked Ch
 Transcript Snippet: Charlie never liked him. He never liked Charlie.
 
 Anchored Artifacts: 
-Mentions: N-1, N-367, N-2, N-3
+Mentions: N-1, N-366, N-2, N-3
 Tags: relevance:context
 Investigative Direction: Look for dated communications or public statements between Kirk and Boreing that show their relationship.
 
@@ -1703,7 +1703,7 @@ Claim: The host says that she is the employee Boreing fired but that he cannot l
 Transcript Snippet: I am the employee that he fired, but he cannot let go.
 
 Anchored Artifacts: 
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-10900
 Tags: relevance:context
 Investigative Direction: Reconcile with the host's other accounts of how she left the Daily Wire and the termination or separation paperwork.
@@ -1719,7 +1719,7 @@ Claim: In the Neff and Boreing promo clip, a speaker says he supports maximal fr
 Transcript Snippet: I have never once said YouTube should ban Candace.
 
 Anchored Artifacts: A-2407.1
-Mentions: N-160, N-367, N-3
+Mentions: N-159, N-366, N-3
 Tags: relevance:context
 Investigative Direction: Review the speaker's prior public statements about platform bans of the host to test the statement.
 
@@ -1734,7 +1734,7 @@ Claim: In the promo clip, a speaker says his last communication with Tucker was 
 Transcript Snippet: The last communication I had with Tucker was Tucker, just privately, can you ask your brother to just stop pushing this Candace stuff?
 
 Anchored Artifacts: A-2407.1
-Mentions: N-22, N-3, N-160
+Mentions: N-22, N-3, N-159
 Tags: relevance:context
 Investigative Direction: Ask the speaker for the date and medium of that private exchange and for the text or email.
 
@@ -1749,7 +1749,7 @@ Claim: The host says Boreing sued her privately for years throughout court and n
 Transcript Snippet: But the calls to sue me, like he sued me privately for years throughout court.
 
 Anchored Artifacts: 
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-10900
 Tags: relevance:context
 Investigative Direction: Identify the Daily Wire v. Owens case numbers and filings on the court docket.
@@ -1765,7 +1765,7 @@ Claim: In a separate-episode clip the host attributes to Boreing's show, a speak
 Transcript Snippet: Candace Owens has engaged in the worst act of public defamation probably in American history.
 
 Anchored Artifacts: A-3170.1
-Mentions: N-3, N-2, N-191, N-14, N-367
+Mentions: N-3, N-2, N-190, N-14, N-366
 Related Nodes: N-10900
 Tags: relevance:context
 Investigative Direction: Identify the episode and speaker of the clip and any pending defamation filings naming those parties.
@@ -1814,7 +1814,7 @@ Claim: The host says speech censorship is being platformed and demanded by peopl
 Transcript Snippet: Uh speech censorship that's being platformed, demanded by people like Mark Levin, Andrew Type, people that are asking for the state to get involved um in lawsuits.
 
 Anchored Artifacts: 
-Mentions: N-245, N-3
+Mentions: N-244, N-3
 Related Nodes: N-11316
 Tags: relevance:tangential
 Investigative Direction: Find Levin's and the second named person's statements calling for state action or lawsuits against the host.
@@ -1830,7 +1830,7 @@ Claim: The host says GOP figures attacked Thomas Massie and got him out of there
 Transcript Snippet: You attack Thomas Massie. Got him out of there.
 
 Anchored Artifacts: 
-Mentions: N-582, N-3
+Mentions: N-580, N-3
 Related Nodes: N-11316
 Tags: relevance:tangential
 Investigative Direction: Check Massie's primary result and outside spending against him as documented in FEC filings.
@@ -1877,7 +1877,7 @@ Claim: The host says she has lawsuits going on and lawsuits pending, and that if
 Transcript Snippet: I got lawsuits going on and lawsuits pending.
 
 Anchored Artifacts: 
-Mentions: N-3, N-367
+Mentions: N-3, N-366
 Tags: relevance:context
 Investigative Direction: Identify the active and pending suits involving the host on court dockets.
 

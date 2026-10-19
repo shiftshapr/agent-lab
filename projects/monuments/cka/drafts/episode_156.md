@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: c32da8cd664ed494ce187fb3608dadb0e6203f099e44e61f6891ccc4eb88cd7d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-793, N-11151, N-11152
+  - Tip-minted Nodes (supplement_2026-10b): N-791, N-11151, N-11152
   - Hole-minted Nodes (reintro-ep156): N-10860
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7776–C-7835
   - New Nodes Introduced: N-10851, N-10852, N-10854, N-10855
-  - Reused Nodes Appearing: N-1, N-2, N-10, N-11, N-18, N-10853, N-5, N-22, N-36, N-46, N-54, N-160, N-189, N-331, N-10000, N-10051, N-10090, N-10168, N-10381, N-10417, N-10541, N-10598, N-10625, N-10811, N-10850, N-10977, N-10980, N-11091
+  - Reused Nodes Appearing: N-1, N-2, N-10, N-11, N-18, N-10853, N-5, N-22, N-36, N-46, N-54, N-159, N-188, N-330, N-10000, N-10051, N-10090, N-10168, N-10381, N-10417, N-10541, N-10598, N-10625, N-10811, N-10850, N-10977, N-10980, N-11091
   - (see registers)
 
 # Episode 156 Analysis
@@ -386,7 +386,7 @@ Online debater who offered the host a paid Charlie Kirk debate and claimed a TPU
 
 ---
 
-**N-331** Baron Coleman
+**N-330** Baron Coleman
 
 Co-investigator the host says she will hand the show to before maternity leave and make a sizzle reel with.
 
@@ -410,7 +410,7 @@ Widow and TPUSA CEO; the host criticizes her video release, donation email and p
 
 ---
 
-**N-793** Angel Castro
+**N-791** Angel Castro
 
 First named by the host at 00:01:40 in episode 156 (spelled "Angel Castro Castro" in the transcript). Person the host places near the van in the tent footage.
 
@@ -434,7 +434,7 @@ Tyler Robinson's roommate; the host speculates about his role and federal status
 
 ---
 
-**N-189** Ryan Matta
+**N-188** Ryan Matta
 
 Person the host says she phoned about the shopping center sighting (spelled Ryan Matta in the transcript).
 
@@ -474,7 +474,7 @@ Named in the host's remark about where Erika Kirk should have shown the video.
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Subject of the interview parodied by Wear Forbidden.
 
@@ -629,7 +629,7 @@ Claim Timestamp: 00:01:40
 Claim: The host says that, after someone told her otherwise, the person she previously identified as UVU club president Caleb Chilcutt standing near the van by Angel Castro was not him.
 
 Anchored Artifacts: A-2416.1
-Mentions: N-10, N-793
+Mentions: N-10, N-791
 
 
 Investigative Direction: Cross-reference other footage and photographs to identify the actual individual and confirm the correction.
@@ -702,7 +702,7 @@ Claim Timestamp: 00:53:00
 Claim: The host says, replying to a viewer comment about license plates, that in Officer Goforth's testimony they kept saying a partial plate was run and matched, which she finds unusual.
 
 Anchored Artifacts: A-2424.1
-Mentions: N-865
+Mentions: N-862
 
 Related Nodes: N-10854
 
@@ -821,7 +821,7 @@ Claim: The host says she spoke with Baron Coleman that day and that the two of t
 Transcript Snippet: I spoke with Baron Coleman today and we are going to get you guys over a sizzle reel of sorts of our own so that it's all in one spot
 
 Anchored Artifacts: 
-Mentions: N-3, N-331
+Mentions: N-3, N-330
 Tags: relevance:context
 Investigative Direction: Check whether a combined chronological footage compilation from the host and Coleman was later published and whether it matches the clips already aired.
 
@@ -852,7 +852,7 @@ Claim: The host says someone told her the person standing by the van near Angel 
 Transcript Snippet: He was wearing red that day.
 
 Anchored Artifacts: A-2416.1
-Mentions: N-3, N-10, N-793
+Mentions: N-3, N-10, N-791
 Related Nodes: N-10860
 Supports: C-3531
 Tags: relevance:core
@@ -915,7 +915,7 @@ Claim: The host says she will hand everything over to Baron Coleman before going
 Transcript Snippet: Obviously, I'll be handing over everything to Baron
 
 Anchored Artifacts: 
-Mentions: N-3, N-331
+Mentions: N-3, N-330
 Tags: relevance:context
 Investigative Direction: Confirm any handover arrangement for the show and investigation between the host and Coleman.
 
@@ -1125,7 +1125,7 @@ Claim: The host says she called Ryan Matta that day to ask how he came by the Mo
 Transcript Snippet: I actually called Ryan Matta today.
 
 Anchored Artifacts: 
-Mentions: N-3, N-189
+Mentions: N-3, N-188
 Related Nodes: N-11151
 Tags: relevance:core
 Investigative Direction: Ask Ryan Matta for the original source and date of the shopping-center sighting report.
@@ -1335,7 +1335,7 @@ Claim: The host says Ryan Matta was reached by someone who was reached by someon
 Transcript Snippet: I was talking to Ryan, you know, he got reached out to somebody who got reached out to somebody got reached out to by somebody else.
 
 Anchored Artifacts: 
-Mentions: N-3, N-189
+Mentions: N-3, N-188
 Related Nodes: N-11151
 Tags: relevance:core
 Investigative Direction: Reconstruct the chain of contacts from the original shopping center witness to Ryan Matta.
@@ -1567,7 +1567,7 @@ Claim: The host says Blake Neff's sit-down interview said what everyone says abo
 Transcript Snippet: he did a uh AI video which really covered the basis on what took place during that interview.
 
 Anchored Artifacts: A-2423.1
-Mentions: N-3, N-160
+Mentions: N-3, N-159
 Related Nodes: N-11091
 Tags: relevance:context
 Investigative Direction: Locate the Wear Forbidden video and the Blake Neff interview it parodies.
@@ -1725,7 +1725,7 @@ Claim: The host says, answering a viewer comment about license plates, that her 
 Transcript Snippet: every time they talk about the plates, they effectively say that they were able to confirm the first part of the plate.
 
 Anchored Artifacts: A-2424.1
-Mentions: N-3, N-865
+Mentions: N-3, N-862
 Related Nodes: N-10854
 Supports: C-3536
 Tags: relevance:core

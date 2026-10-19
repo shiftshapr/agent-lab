@@ -116,7 +116,7 @@
             "C-1940"
           ],
           "related_nodes": [
-            "N-218",
+            "N-217",
             "N-10341"
           ],
           "tags": [],
@@ -144,7 +144,7 @@
             "C-1933"
           ],
           "related_nodes": [
-            "N-160",
+            "N-159",
             "N-10338",
             "N-10339"
           ],
@@ -176,8 +176,8 @@
             "C-1936"
           ],
           "related_nodes": [
-            "N-191",
-            "N-218",
+            "N-190",
+            "N-217",
             "N-17",
             "N-10338",
             "N-10339"
@@ -224,7 +224,7 @@
           ],
           "related_nodes": [
             "N-46",
-            "N-332",
+            "N-331",
             "N-10343"
           ],
           "tags": [],
@@ -268,7 +268,7 @@
             "C-1945"
           ],
           "related_nodes": [
-            "N-268",
+            "N-267",
             "N-10344"
           ],
           "tags": [],
@@ -377,8 +377,8 @@
             "C-1949"
           ],
           "related_nodes": [
-            "N-329",
-            "N-210"
+            "N-328",
+            "N-209"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -428,7 +428,7 @@
           "description": "Curbster super chat: prayer-support message",
           "related_claims": [],
           "related_nodes": [
-            "N-337"
+            "N-336"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -456,7 +456,7 @@
           "description": "Zachary Loft super chat: questions on lack of livestream and Brandon Tatum IG follow",
           "related_claims": [],
           "related_nodes": [
-            "N-338"
+            "N-337"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -471,7 +471,7 @@
           "description": "Mr. Bruce Lee super chat: botted chat observation",
           "related_claims": [],
           "related_nodes": [
-            "N-339"
+            "N-338"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -486,7 +486,7 @@
           "description": "Will Wallace super chat: security-support donation",
           "related_claims": [],
           "related_nodes": [
-            "N-340"
+            "N-339"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -514,7 +514,7 @@
           "description": "Isabella Mazzone super chat: request for elaboration on Charlie's Catholicism journey",
           "related_claims": [],
           "related_nodes": [
-            "N-336"
+            "N-335"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -529,7 +529,7 @@
           "description": "Lamp super chat: question on Qatar's role in media criticism",
           "related_claims": [],
           "related_nodes": [
-            "N-341"
+            "N-340"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -557,7 +557,7 @@
             "N-1",
             "N-10340",
             "N-2",
-            "N-238",
+            "N-237",
             "N-3"
           ],
           "tags": [],
@@ -586,7 +586,7 @@
             "N-10340",
             "N-14",
             "N-3",
-            "N-850"
+            "N-847"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -614,8 +614,8 @@
           "related_nodes": [
             "N-10000",
             "N-10862",
-            "N-225",
-            "N-267",
+            "N-224",
+            "N-266",
             "N-3"
           ],
           "tags": [],
@@ -642,7 +642,7 @@
           ],
           "related_nodes": [
             "N-10338",
-            "N-160",
+            "N-159",
             "N-3"
           ],
           "tags": [],
@@ -700,11 +700,11 @@
             "C-14071"
           ],
           "related_nodes": [
-            "N-641",
+            "N-639",
             "N-11382",
             "N-10097",
             "N-104",
-            "N-334",
+            "N-333",
             "N-40",
             "N-42"
           ],
@@ -734,7 +734,7 @@
             "N-11380",
             "N-1",
             "N-3",
-            "N-331"
+            "N-330"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -763,7 +763,7 @@
           "related_nodes": [
             "N-10352",
             "N-3",
-            "N-331",
+            "N-330",
             "N-4"
           ],
           "tags": [],
@@ -830,8 +830,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Charlie Kirk assistant; subject of contested post-incident phone-call sequence.",
@@ -851,15 +851,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-218",
+        "N-217",
         "N-17",
         "N-10338"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-218",
-      "ref": "N-218",
+      "@id": "N-217",
+      "ref": "N-217",
       "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Mikey McCoy's wife; reportedly first person called after shooting; described as having been removed from public narrative.",
@@ -877,7 +877,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-191",
+        "N-190",
         "N-10339"
       ]
     },
@@ -906,8 +906,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Provided prior public account of Mikey McCoy's reaction and call sequence; contradicted by TPUSA call logs.",
@@ -925,14 +925,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-191",
+        "N-190",
         "N-10338"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Tim Pool",
       "type": "person",
       "description": "Made two contradictory statements about Candace's security within one week.",
@@ -977,8 +977,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-329",
-      "ref": "N-329",
+      "@id": "N-328",
+      "ref": "N-328",
       "name": "Turkey Tom",
       "type": "person",
       "description": "Produced video authenticating Tyler Robinson Discord chat messaging style.",
@@ -994,7 +994,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-210"
+        "N-209"
       ]
     },
     {
@@ -1043,8 +1043,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-330",
-      "ref": "N-330",
+      "@id": "N-329",
+      "ref": "N-329",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
@@ -1065,8 +1065,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-210",
-      "ref": "N-210",
+      "@id": "N-209",
+      "ref": "N-209",
       "name": "Joe Kent",
       "type": "person",
       "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
@@ -1087,8 +1087,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Produced video on Fort Huachuca and charred-hands electrocution theory.",
@@ -1151,8 +1151,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-332",
-      "ref": "N-332",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Andrew Sypher",
       "type": "person",
       "description": "Identified on Charlie Kirk Show as TPUSA head of field.",
@@ -1173,8 +1173,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-333",
-      "ref": "N-333",
+      "@id": "N-332",
+      "ref": "N-332",
       "name": "Greg Shaffer",
       "type": "person",
       "description": "Operated Shafer Security; Charlie Kirk's initial security company employing Dan Flood and Brian Harpole.",
@@ -1217,8 +1217,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-334",
-      "ref": "N-334",
+      "@id": "N-333",
+      "ref": "N-333",
       "name": "Viva Frei",
       "type": "person",
       "description": "Commentator who discussed Turkey Tom video and Tyler Robinson text-message authenticity on the show.",
@@ -1237,8 +1237,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-335",
-      "ref": "N-335",
+      "@id": "N-334",
+      "ref": "N-334",
       "name": "Marissa",
       "type": "person",
       "description": "Named PragerU contact (per host).",
@@ -1257,8 +1257,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-336",
-      "ref": "N-336",
+      "@id": "N-335",
+      "ref": "N-335",
       "name": "Isabella Mazzone",
       "type": "person",
       "description": "Donor; raised Charlie Kirk Catholicism question.",
@@ -1277,8 +1277,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-337",
-      "ref": "N-337",
+      "@id": "N-336",
+      "ref": "N-336",
       "name": "Curbster",
       "type": "person",
       "description": "Donor; prayer-support message.",
@@ -1294,8 +1294,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-338",
-      "ref": "N-338",
+      "@id": "N-337",
+      "ref": "N-337",
       "name": "Zachary Loft",
       "type": "person",
       "description": "Donor; asked about lack of livestream.",
@@ -1311,8 +1311,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-339",
-      "ref": "N-339",
+      "@id": "N-338",
+      "ref": "N-338",
       "name": "Mr. Bruce Lee",
       "type": "person",
       "description": "Donor; raised botted-chat observation.",
@@ -1328,8 +1328,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-340",
-      "ref": "N-340",
+      "@id": "N-339",
+      "ref": "N-339",
       "name": "Will Wallace",
       "type": "person",
       "description": "Donor; security-support donation.",
@@ -1345,8 +1345,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-341",
-      "ref": "N-341",
+      "@id": "N-340",
+      "ref": "N-340",
       "name": "Lamp",
       "type": "person",
       "description": "Donor; raised Qatar-role question.",
@@ -1402,9 +1402,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-191",
-        "N-218",
-        "N-160"
+        "N-190",
+        "N-217",
+        "N-159"
       ]
     },
     {
@@ -1427,7 +1427,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-218"
+        "N-217"
       ]
     },
     {
@@ -1521,7 +1521,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-332"
+        "N-331"
       ]
     },
     {
@@ -1548,8 +1548,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-268",
-        "N-333"
+        "N-267",
+        "N-332"
       ]
     },
     {
@@ -1673,7 +1673,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-336"
+        "N-335"
       ]
     },
     {
@@ -1715,7 +1715,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-331"
+        "N-330"
       ]
     },
     {
@@ -1780,8 +1780,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-69",
-        "N-330",
-        "N-210"
+        "N-329",
+        "N-209"
       ]
     },
     {
@@ -2031,8 +2031,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-262",
-      "ref": "N-262",
+      "@id": "N-261",
+      "ref": "N-261",
       "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
@@ -2051,8 +2051,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -2088,8 +2088,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-641",
-      "ref": "N-641",
+      "@id": "N-639",
+      "ref": "N-639",
       "name": "Ryan Routh",
       "type": "person",
       "description": "First named by a clip speaker at 00:53:58 in episode 47 (spelled Ryan Routh in the transcript). Named alongside Thomas Crooks in a radicalization timing theory.",
@@ -2294,8 +2294,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-146",
-      "ref": "N-146",
+      "@id": "N-145",
+      "ref": "N-145",
       "name": "Marjorie Taylor Greene",
       "type": "person",
       "description": "Named by the host regarding Tucker Carlson's Christmas party.",
@@ -2311,8 +2311,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-179",
-      "ref": "N-179",
+      "@id": "N-178",
+      "ref": "N-178",
       "name": "Jared Kushner",
       "type": "person",
       "description": "Named by the host regarding Qatar deals.",
@@ -2328,8 +2328,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-225",
-      "ref": "N-225",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Host of the show where Brian Harpole gave an interview.",
@@ -2346,8 +2346,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-238",
-      "ref": "N-238",
+      "@id": "N-237",
+      "ref": "N-237",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Interviewer in the viral Erika Kirk clip about Charlie's phone.",
@@ -2363,8 +2363,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Dan Flood",
       "type": "person",
       "description": "Recipient of a night-before text and subject of the message-attribution dispute.",
@@ -2383,8 +2383,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Host of the CBS event whose questions the host says were planned.",
@@ -2403,8 +2403,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-433",
-      "ref": "N-433",
+      "@id": "N-432",
+      "ref": "N-432",
       "name": "Kimberly Klacik",
       "type": "person",
       "description": "Named by the host regarding a demand she ignored.",
@@ -2420,8 +2420,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-850",
-      "ref": "N-850",
+      "@id": "N-847",
+      "ref": "N-847",
       "name": "Jimmy Dore",
       "type": "person",
       "description": "Host of the show where Candace clarified her text sourcing.",
@@ -2744,7 +2744,7 @@
         "N-3",
         "N-2",
         "N-1",
-        "N-238"
+        "N-237"
       ]
     },
     {
@@ -2787,7 +2787,7 @@
         "N-3",
         "N-2",
         "N-15",
-        "N-271",
+        "N-270",
         "N-1"
       ]
     },
@@ -2879,8 +2879,8 @@
       "claim_timestamp": "00:27:04",
       "investigative_direction": "Obtain the call logs directly from Mikey McCoy or from phone carrier records.",
       "mentions_person_refs": [
-        "N-191",
-        "N-218"
+        "N-190",
+        "N-217"
       ]
     },
     {
@@ -2901,8 +2901,8 @@
       "mentions_person_refs": [
         "N-2",
         "N-17",
-        "N-191",
-        "N-218"
+        "N-190",
+        "N-217"
       ]
     },
     {
@@ -2919,7 +2919,7 @@
       "claim_timestamp": "00:23:53",
       "investigative_direction": "Verify against official identity records.",
       "mentions_person_refs": [
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -2940,8 +2940,8 @@
       "investigative_direction": "Cross-reference Blake Neff's recorded statement against the verified call sequence.",
       "mentions_person_refs": [
         "N-3",
-        "N-160",
-        "N-191",
+        "N-159",
+        "N-190",
         "N-2",
         "N-17"
       ],
@@ -2967,8 +2967,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-218",
-        "N-191"
+        "N-217",
+        "N-190"
       ]
     },
     {
@@ -3018,7 +3018,7 @@
       "@id": "C-3741",
       "ref": "C-3741",
       "label": "Host Says Some of the Paid Campaigns Attacking Her Are Paid by PragerU",
-      "claim": "The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and \"too many\" are paid by PragerU, and that she knows Marissa (N-335) there.",
+      "claim": "The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and \"too many\" are paid by PragerU, and that she knows Marissa (N-334) there.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10131"
@@ -3030,7 +3030,7 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-3",
-        "N-335"
+        "N-334"
       ]
     },
     {
@@ -3070,7 +3070,7 @@
       "investigative_direction": "Verify TPUSA's documented livestream policy and Farnsworth's specific authority on incident day.",
       "mentions_person_refs": [
         "N-3",
-        "N-262"
+        "N-261"
       ]
     },
     {
@@ -3129,7 +3129,7 @@
       "claim_timestamp": "00:44:36",
       "investigative_direction": "Verify the earlier Tim Pool statement against his show archive.",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },
@@ -3149,7 +3149,7 @@
       "claim_timestamp": "00:45:27",
       "investigative_direction": "Verify the current claim against any documented security employment records.",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3",
         "N-1",
         "N-2"
@@ -3171,11 +3171,11 @@
       "claim_timestamp": "00:46:28",
       "investigative_direction": "Verify Greg Shaffer's public statement and Shafer Security's documented client list.",
       "mentions_person_refs": [
-        "N-333",
-        "N-267",
+        "N-332",
+        "N-266",
         "N-3",
         "N-1",
-        "N-271"
+        "N-270"
       ]
     },
     {
@@ -3269,8 +3269,8 @@
       "claim_timestamp": "00:53:11",
       "investigative_direction": "Verify Turkey Tom's claimed Discord membership through chat logs or other participants.",
       "mentions_person_refs": [
-        "N-329",
-        "N-334",
+        "N-328",
+        "N-333",
         "N-40"
       ]
     },
@@ -3310,8 +3310,8 @@
       "investigative_direction": "Verify through any on-record statements from the named individuals.",
       "mentions_person_refs": [
         "N-69",
-        "N-210",
-        "N-330"
+        "N-209",
+        "N-329"
       ]
     },
     {
@@ -3371,7 +3371,7 @@
       "claim_timestamp": "00:51:02",
       "investigative_direction": "Verify Andrew Sypher's official TPUSA title.",
       "mentions_person_refs": [
-        "N-332"
+        "N-331"
       ]
     },
     {
@@ -3598,7 +3598,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-238",
+        "N-237",
         "N-1",
         "N-3"
       ]
@@ -3624,7 +3624,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-850"
+        "N-847"
       ]
     },
     {
@@ -3644,7 +3644,7 @@
       "investigative_direction": "Identify the host's source for the Flood text and obtain the original message from Flood.",
       "transcript_snippet": "somebody who had access to Dan Flood's communications said that Dan Flood similarly received a text message.",
       "mentions_person_refs": [
-        "N-271",
+        "N-270",
         "N-3"
       ]
     },
@@ -3670,7 +3670,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-14",
-        "N-271",
+        "N-270",
         "N-3"
       ]
     },
@@ -3694,7 +3694,7 @@
         "C-1927"
       ],
       "mentions_person_refs": [
-        "N-271",
+        "N-270",
         "N-3"
       ]
     },
@@ -3717,7 +3717,7 @@
       "transcript_snippet": "it's interesting to hear Erika say that the reason she didn't ask me to stop in the beginning because she was she was actually learning things from the show.",
       "mentions_person_refs": [
         "N-2",
-        "N-279",
+        "N-278",
         "N-3"
       ]
     },
@@ -3739,7 +3739,7 @@
       "investigative_direction": "Obtain CBS production records or participant accounts on how the questions were chosen.",
       "transcript_snippet": "Bari Weiss obviously uh picked those questions. They were not random, like I told you.",
       "mentions_person_refs": [
-        "N-279",
+        "N-278",
         "N-3"
       ]
     },
@@ -3761,7 +3761,7 @@
       "transcript_snippet": "Erika said that she knew the general idea, like they were going to mention me and mention the conspiracies.",
       "mentions_person_refs": [
         "N-2",
-        "N-279",
+        "N-278",
         "N-3"
       ]
     },
@@ -3785,7 +3785,7 @@
         "C-9302"
       ],
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-3"
       ]
     },
@@ -3808,7 +3808,7 @@
       "transcript_snippet": "Because the police wanted him to take it down and secure the footage and I said, \"I know that's not true.\"",
       "mentions_person_refs": [
         "N-11",
-        "N-262",
+        "N-261",
         "N-3"
       ]
     },
@@ -3829,7 +3829,7 @@
       "investigative_direction": "Identify the officer or agent and obtain the chain of custody for the camera and its card.",
       "transcript_snippet": "after he took the cameras down, there was a police officer or or fed, whoever it was to him and asked him to secure the footage.",
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-3"
       ]
     },
@@ -3945,8 +3945,8 @@
       "investigative_direction": "Ask TPUSA and Shawn Ryan's production when and how the interview was arranged.",
       "transcript_snippet": "I think we can believe Turning Point when they say that they did not approve of this. They had no idea he was going on Shawn Ryan.",
       "mentions_person_refs": [
-        "N-267",
-        "N-225",
+        "N-266",
+        "N-224",
         "N-3"
       ]
     },
@@ -3969,7 +3969,7 @@
       "investigative_direction": "Confirm Harpole's current employment status with TPUSA.",
       "transcript_snippet": "They had no idea he was going on Shawn Ryan. I think that's pretty clear. I don't believe he works there anymore.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-3"
       ]
     },
@@ -4198,7 +4198,7 @@
       "transcript_snippet": "I asked every question and they came with paperwork to show and to answer and to explain certain things.",
       "mentions_person_refs": [
         "N-3",
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -4220,8 +4220,8 @@
       "investigative_direction": "Compare the Neff interview with the carrier records for Mikey's calls to his father.",
       "transcript_snippet": "he immediately calls his dad. He calls Rob McCoy. And he says, Dad, someone shot Charlie. You need to call all of your pastor friends.",
       "mentions_person_refs": [
-        "N-160",
-        "N-191",
+        "N-159",
+        "N-190",
         "N-17"
       ]
     },
@@ -4242,7 +4242,7 @@
       "investigative_direction": "Collect the public statements from TPUSA figures asserting that Mikey called Erika first.",
       "transcript_snippet": "I certainly feel that we were given the impression over and over and over again that the first person Mikey called was Erika.",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-2",
         "N-3"
       ]
@@ -4270,8 +4270,8 @@
         "C-1932"
       ],
       "mentions_person_refs": [
-        "N-191",
-        "N-218",
+        "N-190",
+        "N-217",
         "N-1",
         "N-3"
       ]
@@ -4295,7 +4295,7 @@
       "investigative_direction": "Obtain Neff's call log and the shot time from timestamped video to fix the sequence.",
       "transcript_snippet": "Blake Neff called his mom. His call with his mother lasted 45 seconds. So, we're assuming it went to 12:25.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-3"
       ]
     },
@@ -4316,7 +4316,7 @@
       "investigative_direction": "Identify the third caller from the call logs; the host later corrects this identification.",
       "transcript_snippet": "This is Danny McCoy, by the way, is his brother that's in the military, but that's before the shot goes off.",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-3"
       ]
     },
@@ -4341,8 +4341,8 @@
         "C-1933"
       ],
       "mentions_person_refs": [
-        "N-191",
-        "N-160",
+        "N-190",
+        "N-159",
         "N-2",
         "N-3"
       ]
@@ -4364,8 +4364,8 @@
       "investigative_direction": "Check the call logs for the callback and duration.",
       "transcript_snippet": "And then he ends the phone call with his wife and a minute later his brother calls him back and they stay on the phone for 10 minutes.",
       "mentions_person_refs": [
-        "N-191",
-        "N-218",
+        "N-190",
+        "N-217",
         "N-3"
       ]
     },
@@ -4776,7 +4776,7 @@
       "investigative_direction": "Check court dockets for any complaint against the host relating to security statements.",
       "transcript_snippet": "there's more that's going to be coming out soon cuz rest assured, people are filing legal paperwork against her.",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },
@@ -4824,7 +4824,7 @@
         "N-1",
         "N-3",
         "N-82",
-        "N-433"
+        "N-432"
       ]
     },
     {
@@ -4845,8 +4845,8 @@
       "investigative_direction": "Obtain the original message metadata and any UVU security walk-through logs.",
       "transcript_snippet": "I accurately said that the Brian Harpole message he showed belonged to Dan Flood. It did. And that they didn't do a walk-through on that day. They didn't.",
       "mentions_person_refs": [
-        "N-267",
-        "N-271",
+        "N-266",
+        "N-270",
         "N-3"
       ]
     },
@@ -4981,7 +4981,7 @@
       "investigative_direction": "Compare TPUSA's historical announcement lead times for other outdoor events.",
       "transcript_snippet": "Charlie sometimes throw the events out, you know, 7, 10 days in advance if something opened up in his schedule",
       "mentions_person_refs": [
-        "N-332",
+        "N-331",
         "N-1"
       ]
     },
@@ -5004,10 +5004,10 @@
       "investigative_direction": "Identify the speaker and compare the dates of the named individuals' alleged radicalization.",
       "transcript_snippet": "Tyler Robinson is getting radicalized right about the same time as Thomas Crooks, right about the same time as uh the other guy, Ryan Routh.",
       "mentions_person_refs": [
-        "N-334",
+        "N-333",
         "N-40",
         "N-104",
-        "N-641"
+        "N-639"
       ]
     },
     {
@@ -5030,7 +5030,7 @@
       "investigative_direction": "Ask investigators whether Zin appears in any Discord records; the speaker says this is only a theory.",
       "transcript_snippet": "He knows what's going down. He shows up there and thinks he's going to be some useful decoy or distraction for Tyler Robinson cuz they know what's going down.",
       "mentions_person_refs": [
-        "N-334",
+        "N-333",
         "N-42",
         "N-40"
       ]
@@ -5099,7 +5099,7 @@
       "transcript_snippet": "Megyn Kelly, who was initially going to, when we were going to live stream the conversation, before the Bari Weiss moment, Megyn Kelly um offered to ref that conversation.",
       "mentions_person_refs": [
         "N-46",
-        "N-279",
+        "N-278",
         "N-3"
       ]
     },
@@ -5120,7 +5120,7 @@
       "investigative_direction": "Retrieve the first invitation from Neff and the host's reply.",
       "transcript_snippet": "We were trying to make this happen in the background uh really since Blake Neff fumbled the first invite.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-3"
       ]
     },
@@ -5162,7 +5162,7 @@
       "transcript_snippet": "They do look charred in the photos that he showed, but I can tell you that his hands were not charred when he was buried.",
       "mentions_person_refs": [
         "N-1",
-        "N-331",
+        "N-330",
         "N-3"
       ]
     },
@@ -5185,7 +5185,7 @@
       "investigative_direction": "Review Coleman's video against the host's Fort Huachuca research.",
       "transcript_snippet": "I had watched a video of his where he was building on Fort Huachuca, and he made me notice some things, then we started researching some other elements.",
       "mentions_person_refs": [
-        "N-331",
+        "N-330",
         "N-3"
       ]
     },
@@ -5208,7 +5208,7 @@
       "investigative_direction": "Watch Coleman's episode to see exactly what he said about Vance.",
       "transcript_snippet": "He kind of suggests in that episode, which I want to shut down, he suggests that I think he heavily suggests that it could have been the uh the V on that on the base uh Vance on the base",
       "mentions_person_refs": [
-        "N-331",
+        "N-330",
         "N-4",
         "N-3"
       ]
@@ -5233,7 +5233,7 @@
       "transcript_snippet": "There's actually video of Vance, so it could not have been Vance in the base.",
       "mentions_person_refs": [
         "N-4",
-        "N-331",
+        "N-330",
         "N-3"
       ]
     },
@@ -5254,7 +5254,7 @@
       "investigative_direction": "Retrieve Neff's offer and the communications between Erika Kirk, Kelly and the host.",
       "transcript_snippet": "you saw the offer Blake Neff made, which was not a true offer, but then what came behind that was Erika communicating with Megyn Kelly and me.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-2",
         "N-46",
         "N-3"
@@ -5343,7 +5343,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-22",
-        "N-146"
+        "N-145"
       ]
     },
     {
@@ -5411,7 +5411,7 @@
       "transcript_snippet": "I don't know why Jared Kushner and Zionists are allowed to go to Qatar, which happened recently, and do deals with them",
       "mentions_person_refs": [
         "N-3",
-        "N-179",
+        "N-178",
         "N-22"
       ]
     }

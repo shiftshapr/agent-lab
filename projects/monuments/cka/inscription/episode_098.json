@@ -344,7 +344,7 @@
           "description": "Mike Michaela donation in honor of Theo Von (Russian Blue Cat)",
           "related_claims": [],
           "related_nodes": [
-            "N-147"
+            "N-146"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -998,8 +998,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -1020,8 +1020,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -1070,8 +1070,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-430",
-      "ref": "N-430",
+      "@id": "N-429",
+      "ref": "N-429",
       "name": "Chad Schnitker",
       "type": "person",
       "description": "First named by the host at 00:37:02 in episode 98.",
@@ -1249,8 +1249,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-147",
-      "ref": "N-147",
+      "@id": "N-146",
+      "ref": "N-146",
       "name": "Theo Von",
       "type": "person",
       "description": "Subject of Shapiro's low-IQ conspiracist remark in the clip.",
@@ -1267,8 +1267,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-164",
-      "ref": "N-164",
+      "@id": "N-163",
+      "ref": "N-163",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Gupta's post credits his documentary Am I Racist? as a top-grossing 2024 release.",
@@ -1284,8 +1284,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-232",
-      "ref": "N-232",
+      "@id": "N-231",
+      "ref": "N-231",
       "name": "Andrew Klavan",
       "type": "person",
       "description": "The host wishes he had never made the Crisis King video.",
@@ -1301,8 +1301,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Dan Flood",
       "type": "person",
       "description": "The host says she did not believe he was involved and hopes for access to his phone.",
@@ -1319,8 +1319,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-367",
-      "ref": "N-367",
+      "@id": "N-366",
+      "ref": "N-366",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Daily Wire co-founder (transcribed Jeremy Boreing); stepped down as co-CEO per Gupta's post, and the host blames him for the debt.",
@@ -1338,8 +1338,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-374",
-      "ref": "N-374",
+      "@id": "N-373",
+      "ref": "N-373",
       "name": "Harmeet Dhillon",
       "type": "person",
       "description": "DOJ Civil Rights head; the host discusses her law firm, her stake and her possible attorney general bid.",
@@ -1359,8 +1359,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-431",
-      "ref": "N-431",
+      "@id": "N-430",
+      "ref": "N-430",
       "name": "Brad Parscale",
       "type": "person",
       "description": "Named in the Times of Israel article as holding a $1.5 million a month contract.",
@@ -1376,8 +1376,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-485",
-      "ref": "N-485",
+      "@id": "N-484",
+      "ref": "N-484",
       "name": "Blake Lively",
       "type": "person",
       "description": "Party to the settled lawsuit the host discusses.",
@@ -1393,8 +1393,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-486",
-      "ref": "N-486",
+      "@id": "N-485",
+      "ref": "N-485",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Party to the settled lawsuit the host discusses.",
@@ -1411,8 +1411,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-863",
-      "ref": "N-863",
+      "@id": "N-860",
+      "ref": "N-860",
       "name": "Matt Sarelson",
       "type": "person",
       "description": "Lawyer who sent the Harpole lawsuit and the host's long-time arbitration opponent.",
@@ -1754,8 +1754,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-895",
-      "ref": "N-895",
+      "@id": "N-892",
+      "ref": "N-892",
       "name": "Bryan Freedman",
       "type": "person",
       "description": "First named by the host at 00:55:14 in episode 98 (transcribed Bryan Freedman). Lawyer the host congratulates for the Baldoni result.",
@@ -1771,8 +1771,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-896",
-      "ref": "N-896",
+      "@id": "N-893",
+      "ref": "N-893",
       "name": "Melissa Nathan",
       "type": "person",
       "description": "First named by the host at 00:55:14 in episode 98. PR professional the host congratulates.",
@@ -1788,8 +1788,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-897",
-      "ref": "N-897",
+      "@id": "N-894",
+      "ref": "N-894",
       "name": "Zalman Shapiro",
       "type": "person",
       "description": "First named by the host at 00:56:47 in episode 98. The host asks if he is Ben Shapiro's uncle who took uranium to Israel.",
@@ -2002,7 +2002,7 @@
       "tags": [],
       "claim_timestamp": "00:37:43",
       "mentions_person_refs": [
-        "N-430"
+        "N-429"
       ]
     },
     {
@@ -2096,7 +2096,7 @@
       "tags": [],
       "claim_timestamp": "00:31:50",
       "mentions_person_refs": [
-        "N-331",
+        "N-330",
         "N-60"
       ]
     },
@@ -2117,7 +2117,7 @@
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Pull archived Sarelson X timeline via Wayback Machine to verify.",
       "mentions_person_refs": [
-        "N-863",
+        "N-860",
         "N-60"
       ]
     },
@@ -2137,7 +2137,7 @@
       "claim_timestamp": "00:01:15",
       "investigative_direction": "Obtain PACER docket copy of Harpole filing and marriage records.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-97"
       ]
     },
@@ -2158,7 +2158,7 @@
       "investigative_direction": "Pull archived Roth X timeline.",
       "mentions_person_refs": [
         "N-97",
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2196,7 +2196,7 @@
       "tags": [],
       "claim_timestamp": "00:49:25",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2276,8 +2276,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-863",
-        "N-267"
+        "N-860",
+        "N-266"
       ]
     },
     {
@@ -2468,7 +2468,7 @@
       "investigative_direction": "Verify the date of Boreing's change of role and the Bentkey shutdown from company announcements.",
       "transcript_snippet": "Early 2025, co-founder Jeremy Boreing stepped down as co-CEO and launched a solo podcast outside of the company that he co-founded.",
       "mentions_person_refs": [
-        "N-367"
+        "N-366"
       ]
     },
     {
@@ -2533,7 +2533,7 @@
       "investigative_direction": "Check 2024 documentary box-office rankings.",
       "transcript_snippet": "Matt Walsh's Am I Racist? was a top-grossing documentary of 2024, but most of it didn't.",
       "mentions_person_refs": [
-        "N-164"
+        "N-163"
       ]
     },
     {
@@ -2617,7 +2617,7 @@
       "transcript_snippet": "I wish Andrew Klavan never made the Crisis King video.",
       "mentions_person_refs": [
         "N-3",
-        "N-232"
+        "N-231"
       ]
     },
     {
@@ -2638,7 +2638,7 @@
       "transcript_snippet": "Theo Von is a low-IQ conspiracist. He has himself routinely propped up Candace Owens, has lent credence to her insanity.",
       "mentions_person_refs": [
         "N-97",
-        "N-147",
+        "N-146",
         "N-3"
       ]
     },
@@ -2890,7 +2890,7 @@
       "mentions_person_refs": [
         "N-97",
         "N-2",
-        "N-267",
+        "N-266",
         "N-3"
       ]
     },
@@ -2960,7 +2960,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-863"
+        "N-860"
       ]
     },
     {
@@ -2981,7 +2981,7 @@
       "transcript_snippet": "they had first sent this like I don't know demand thing at first and said we are filing this lawsuit in 4 days",
       "mentions_person_refs": [
         "N-3",
-        "N-863"
+        "N-860"
       ]
     },
     {
@@ -3004,7 +3004,7 @@
       "investigative_direction": "Look for communications, payments or contacts between Loomer, Sarelson and the person who allegedly tried to hire a photographer.",
       "transcript_snippet": "That signals that there's some coordination between Matt Sarelson, Ben Shapiro's lawyer, um and Laura Loomer.",
       "mentions_person_refs": [
-        "N-863",
+        "N-860",
         "N-97",
         "N-60"
       ]
@@ -3047,7 +3047,7 @@
       "investigative_direction": "DOJ biography and confirmation records.",
       "transcript_snippet": "Dhillon Law Group is Harmeet Dhillon's law firm. She currently works for the Department of Justice.",
       "mentions_person_refs": [
-        "N-374"
+        "N-373"
       ]
     },
     {
@@ -3067,7 +3067,7 @@
       "investigative_direction": "Ethics disclosures and state business filings for the firm.",
       "transcript_snippet": "I think uh transferred the stake in her in the company to her brother while she's currently serving the Department of Justice.",
       "mentions_person_refs": [
-        "N-374"
+        "N-373"
       ]
     },
     {
@@ -3085,7 +3085,7 @@
       "investigative_direction": "News reporting on the attorney general succession.",
       "transcript_snippet": "She's also the frontrunner to replace Pam Bondi for Attorney General of the United States.",
       "mentions_person_refs": [
-        "N-374",
+        "N-373",
         "N-85"
       ]
     },
@@ -3106,7 +3106,7 @@
       "investigative_direction": "FARA and court dockets listing the firm's clients.",
       "transcript_snippet": "but her law firm is heavily involved in a lot of legal um issues on behalf of Israel, right?",
       "mentions_person_refs": [
-        "N-374"
+        "N-373"
       ]
     },
     {
@@ -3210,7 +3210,7 @@
       "investigative_direction": "FARA filing for the Parscale contract.",
       "transcript_snippet": "complementing a $1.5 million per a month contract for AI-driven social media activity with former Trump campaign strategist Brad Parscale",
       "mentions_person_refs": [
-        "N-431"
+        "N-430"
       ]
     },
     {
@@ -3314,7 +3314,7 @@
       "transcript_snippet": "Andrew Kolvet, who happened to actually be sitting with Harmeet Dhillon at the recent White House Correspondents Dinner shooting",
       "mentions_person_refs": [
         "N-14",
-        "N-374"
+        "N-373"
       ]
     },
     {
@@ -3422,7 +3422,7 @@
       "transcript_snippet": "it was very Daily Wire coded cuz last time when they like sent it was like on Jeremy Boreing's birthday.",
       "mentions_person_refs": [
         "N-3",
-        "N-367"
+        "N-366"
       ]
     },
     {
@@ -3444,7 +3444,7 @@
       "transcript_snippet": "the reason they got into debt, he was just like maniacal.",
       "mentions_person_refs": [
         "N-3",
-        "N-367"
+        "N-366"
       ]
     },
     {
@@ -3466,8 +3466,8 @@
       "transcript_snippet": "I genuinely did not believe that Brian Harpole or Dan Flood were involved when this went down. I defended them on this platform.",
       "mentions_person_refs": [
         "N-3",
-        "N-267",
-        "N-271"
+        "N-266",
+        "N-270"
       ]
     },
     {
@@ -3486,7 +3486,7 @@
       "transcript_snippet": "because like I said I had worked with him.",
       "mentions_person_refs": [
         "N-3",
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -3507,8 +3507,8 @@
       "transcript_snippet": "have access to his phone, have access to Dan Flood's phone, have access even to Erika's phone on that day, to have access to the footage.",
       "mentions_person_refs": [
         "N-3",
-        "N-267",
-        "N-271",
+        "N-266",
+        "N-270",
         "N-2"
       ]
     },
@@ -3573,8 +3573,8 @@
       "investigative_direction": "Court docket entry of dismissal or settlement.",
       "transcript_snippet": "I know that settlement means like the case is over. And yes, they're going to keep settlement details quiet but it's a win for Justin Baldoni.",
       "mentions_person_refs": [
-        "N-485",
-        "N-486"
+        "N-484",
+        "N-485"
       ]
     },
     {
@@ -3594,9 +3594,9 @@
       "investigative_direction": "Docket entries listing counsel for Baldoni and Wayfarer.",
       "transcript_snippet": "Bryan Freedman, congratulations to you. Also to Melissa Nathan and the people that were the PR team",
       "mentions_person_refs": [
-        "N-486",
-        "N-895",
-        "N-896"
+        "N-485",
+        "N-892",
+        "N-893"
       ]
     },
     {
@@ -3617,7 +3617,7 @@
       "transcript_snippet": "What was his uncle Zalman Shapiro? Am I correct that he's the one that took all of the uranium to Israel?",
       "mentions_person_refs": [
         "N-97",
-        "N-897"
+        "N-894"
       ]
     },
     {
@@ -3637,7 +3637,7 @@
       "investigative_direction": "Check the outcome of the NUMEC investigation.",
       "transcript_snippet": "I don't think he ever actually was found guilty because they I think he played like anti-Semitism or something like that.",
       "mentions_person_refs": [
-        "N-897"
+        "N-894"
       ]
     },
     {

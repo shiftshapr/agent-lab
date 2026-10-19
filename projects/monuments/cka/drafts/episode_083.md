@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: af9d7478540e605b0d93fec65bec36ded2c5822785e3273b1e7fd2f45e84709d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-914, N-915, N-11344, N-11345
-  - Tip-minted Nodes (reintro-ep083): N-600, N-627, N-650, N-11208
+  - Tip-minted Nodes (supplement_2026-10f): N-911, N-912, N-11344, N-11345
+  - Tip-minted Nodes (reintro-ep083): N-598, N-625, N-648, N-11208
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12750–C-12817
   - (see registers)
@@ -34,7 +34,7 @@
 - Artifact Families Introduced: A-1895, A-1896, A-1897, A-1898, A-1899, A-1900, A-1901, A-1902
 - Claim Range: C-2560–C-2580
   - New Nodes Introduced: N-10562, N-10563, N-10564, N-10565
-  - Reused Nodes Appearing: N-11, N-10560, N-10561, N-5, N-15, N-40, N-69, N-187, N-228, N-269, N-490, N-495, N-582, N-10000, N-10015, N-10074, N-10110, N-10190, N-10193, N-10198, N-10202, N-10245, N-10307, N-10324, N-10355, N-10362, N-10483, N-10546, N-10548, N-10551, N-10554, N-10555, N-10866, N-10925, N-10956, N-11218
+  - Reused Nodes Appearing: N-11, N-10560, N-10561, N-5, N-15, N-40, N-69, N-186, N-227, N-268, N-489, N-494, N-580, N-10000, N-10015, N-10074, N-10110, N-10190, N-10193, N-10198, N-10202, N-10245, N-10307, N-10324, N-10355, N-10362, N-10483, N-10546, N-10548, N-10551, N-10554, N-10555, N-10866, N-10925, N-10956, N-11218
 - Existing Nodes Reused: N-1 Charlie Kirk; N-2 Erika Kirk; N-3 Candace Owens; Andrew Kolvet; Frank Turek; Frank (TPUSA counsel); Nick Searcy; Stacey Sheridan; Joe Rogan; Alexis Wilkins; Kash Patel; Joe Kent; General Michael Flynn; Tucker Carlson; Allie Stuckey; Yair Netanyahu; Tim Dillon; Tyler Bowyer; Pam Bondi; Thomas Massie; Vladimir Putin; Alexander Dugin; Bibi Netanyahu; Turning Point USA (institution)
 
 ## 6. Meme Register
@@ -289,7 +289,7 @@ Video Timestamp: 00:27:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12789, C-12790, C-12791, C-12792, C-12793, N-269, N-40, N-210*
+*Related: C-12789, C-12790, C-12791, C-12792, C-12793, N-268, N-40, N-209*
 
 ---
 
@@ -319,7 +319,7 @@ Video Timestamp: 00:50:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12814, N-914, N-69, N-915*
+*Related: C-12814, N-911, N-69, N-912*
 
 ---
 
@@ -482,7 +482,7 @@ Kash Patel; the host links the Wilkins thread to him and reports his FBI plane t
 
 ---
 
-**N-187** Stacy Sheridan
+**N-186** Stacy Sheridan
 
 Stacy Sheridan; the host reports her whereabouts on September 10 and calls for sightings.
 
@@ -490,7 +490,7 @@ Stacy Sheridan; the host reports her whereabouts on September 10 and calls for s
 
 ---
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 Mikey McCoy; his call chain and his assistant's travel are discussed.
 
@@ -498,7 +498,7 @@ Mikey McCoy; his call chain and his assistant's travel are discussed.
 
 ---
 
-**N-210** Joe Kent
+**N-209** Joe Kent
 
 Joe Kent; resigned, appears in the Rogan clip and the Wilkins thread, and was raised by Erika.
 
@@ -506,7 +506,7 @@ Joe Kent; resigned, appears in the Rogan clip and the Wilkins thread, and was ra
 
 ---
 
-**N-213** Alexis Wilkins
+**N-212** Alexis Wilkins
 
 Alexis Wilkins; author of the 13-part thread and plaintiff in the honeypot lawsuits.
 
@@ -514,7 +514,7 @@ Alexis Wilkins; author of the 13-part thread and plaintiff in the honeypot lawsu
 
 ---
 
-**N-218** Elizabeth McCoy
+**N-217** Elizabeth McCoy
 
 Elizabeth McCoy; her account of September 10 is relayed by the host.
 
@@ -522,7 +522,7 @@ Elizabeth McCoy; her account of September 10 is relayed by the host.
 
 ---
 
-**N-228** Allie Beth Stuckey
+**N-227** Allie Beth Stuckey
 
 Allie Beth Stuckey; replied to the host's tweet on Catholic growth.
 
@@ -530,7 +530,7 @@ Allie Beth Stuckey; replied to the host's tweet on Catholic growth.
 
 ---
 
-**N-269** Joe Rogan
+**N-268** Joe Rogan
 
 Joe Rogan; the host plays a clip of his conversation.
 
@@ -538,7 +538,7 @@ Joe Rogan; the host plays a clip of his conversation.
 
 ---
 
-**N-490** Lori Frantzve
+**N-489** Lori Frantzve
 
 Lori Frantzve; Erika's mother, whom the host appears to mean by the Lori alibi.
 
@@ -546,7 +546,7 @@ Lori Frantzve; Erika's mother, whom the host appears to mean by the Lori alibi.
 
 ---
 
-**N-495** "Frank" (TPUSA General Counsel)
+**N-494** "Frank" (TPUSA General Counsel)
 
 Frank, TPUSA general counsel; reached by Elizabeth McCoy in the office.
 
@@ -554,7 +554,7 @@ Frank, TPUSA general counsel; reached by Elizabeth McCoy in the office.
 
 ---
 
-**N-582** Thomas Massie
+**N-580** Thomas Massie
 
 Thomas Massie; the host says he fought for the Epstein files release.
 
@@ -562,7 +562,7 @@ Thomas Massie; the host says he fought for the Epstein files release.
 
 ---
 
-**N-600** Katherine Locastro
+**N-598** Katherine Locastro
 
 Katherine LoCastro; Mikey McCoy's assistant who travelled to Utah in the party.
 
@@ -570,7 +570,7 @@ Katherine LoCastro; Mikey McCoy's assistant who travelled to Utah in the party.
 
 ---
 
-**N-627** Vladimir Putin
+**N-625** Vladimir Putin
 
 Vladimir Putin; the host mocks the thread's claim that he is behind the campaign.
 
@@ -578,7 +578,7 @@ Vladimir Putin; the host mocks the thread's claim that he is behind the campaign
 
 ---
 
-**N-650** Alexander Dugin
+**N-648** Alexander Dugin
 
 Alexander Dugin; mentioned in the Wilkins thread per the host.
 
@@ -778,7 +778,7 @@ Timpanogos Regional Hospital; destination of the transport time estimate.
 
 ---
 
-**N-914** Michael Flynn
+**N-911** Michael Flynn
 
 First named by the host as General Michael Flynn at 00:30:42 in episode 083. Retired general named as an anchor in the Wilkins thread and as a speaker at the Catholics for Catholics event.
 
@@ -786,7 +786,7 @@ First named by the host as General Michael Flynn at 00:30:42 in episode 083. Ret
 
 ---
 
-**N-915** Clay Clark
+**N-912** Clay Clark
 
 First named in a viewer comment at 00:50:53 in episode 083, as organizer of the Awaken America Tours with whom Flynn and Patel appeared.
 
@@ -834,7 +834,7 @@ Claim Timestamp: 00:03:30
 Claim: The host says Nick Shirley confirmed to her that Andrew Kolvet's show was authentically live during the 9–10 a.m. Pacific block on September 10, 2025.
 
 Anchored Artifacts: A-1898.1
-Mentions: N-3, N-214, N-14
+Mentions: N-3, N-213, N-14
 
 Related Nodes:
 
@@ -847,7 +847,7 @@ Claim Timestamp: 00:11:23
 Claim: The host says that, per Elizabeth McCoy's account, she was the first person called after the 12:23 p.m. MST shooting.
 
 Anchored Artifacts: A-1902.1
-Mentions: N-218
+Mentions: N-217
 
 Related Nodes: N-10565
 
@@ -860,7 +860,7 @@ Claim Timestamp: 00:12:45
 Claim: The host says that, per Elizabeth McCoy's account, Mikey McCoy rang her first after the shooting and then conferenced in Erika.
 
 Anchored Artifacts: A-1902.1
-Mentions: N-218, N-191, N-2
+Mentions: N-217, N-190, N-2
 
 Related Nodes:
 
@@ -873,7 +873,7 @@ Claim Timestamp: 00:14:00
 Claim: The host says that, per Elizabeth McCoy's account, Lauren Tonchech, a long-time TPUSA employee, volunteered to drive her approximately 30 minutes to Scottsdale airport.
 
 Anchored Artifacts: A-1902.1
-Mentions: N-218
+Mentions: N-217
 
 Related Nodes:
 
@@ -886,7 +886,7 @@ Claim Timestamp: 00:14:00
 Claim: The host says she can confirm Stacey Sheridan was not at the Turning Point USA office on September 10, 2025, and that she was allegedly at home in Scottsdale.
 
 Anchored Artifacts: A-1902.1
-Mentions: N-187
+Mentions: N-186
 
 Related Nodes: N-10561, N-10565
 
@@ -899,7 +899,7 @@ Claim Timestamp: 00:18:43
 Claim: The host says that, per Elizabeth McCoy's alleged narrative, they raced to the hospital without waiting for Andrew Kolvet (though the host notes Kolvet's account says they did wait), Mikey McCoy met them outside, and Elizabeth went in with Erika to see Charlie's body for the first time.
 
 Anchored Artifacts: A-1902.2
-Mentions: N-218, N-191, N-2, N-14
+Mentions: N-217, N-190, N-2, N-14
 
 Related Nodes:
 
@@ -925,7 +925,7 @@ Claim Timestamp: 00:31:30
 Claim: Alexis Wilkins published a 13-part X thread alleging a foreign-linked influence network operating for 22 months against the Trump administration and implicating Candace Owens, Tucker Carlson, Joe Kent, and General Flynn.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-3, N-22, N-213, N-210, N-914
+Mentions: N-3, N-22, N-212, N-209, N-911
 
 Related Nodes: N-10563
 
@@ -938,7 +938,7 @@ Claim Timestamp: 00:34:40
 Claim: The Alexis Wilkins thread alleges that within hours of the Kirk assassination, Candace publicly attributed the killing to Israel and targeted Kirk's widow by name. The host rejects this characterization.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-3, N-213, N-1, N-2
+Mentions: N-3, N-212, N-1, N-2
 
 Related Nodes: N-10563
 
@@ -951,7 +951,7 @@ Claim Timestamp: 00:32:58
 Claim: The Alexis Wilkins thread identifies General Michael Flynn as the "anchor of a digital infrastructure" repeatedly activated at major Republican fracture points, via his listed role at Catholics for Catholics.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-213, N-914
+Mentions: N-212, N-911
 
 Related Nodes: N-10563
 
@@ -964,7 +964,7 @@ Claim Timestamp: 00:33:48
 Claim: The Alexis Wilkins thread cites Russia Today's retweet of the narrative as evidence of foreign coordination.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-213
+Mentions: N-212
 
 Related Nodes: N-10563
 
@@ -977,7 +977,7 @@ Claim Timestamp: 00:34:40
 Claim: The Alexis Wilkins thread, at "Chapter 3," states that within hours of Kirk's assassination, Candace publicly attributed the killing to Israel and targeted Kirk's widow by name.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-3, N-213, N-1, N-2
+Mentions: N-3, N-212, N-1, N-2
 
 Related Nodes: N-10563
 
@@ -990,7 +990,7 @@ Claim Timestamp: 00:35:30
 Claim: The Alexis Wilkins thread treats Joe Kent's resignation as further evidence of the alleged network, citing Russia Today coverage.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-213, N-210
+Mentions: N-212, N-209
 
 Related Nodes: N-10563
 
@@ -1003,7 +1003,7 @@ Claim Timestamp: 00:39:43
 Claim: The host says the first person to retweet Alexis Wilkins's thread was Yair Netanyahu, Bibi Netanyahu's son.
 
 Anchored Artifacts: A-1896.2
-Mentions: N-213
+Mentions: N-212
 
 Related Nodes: N-10563
 
@@ -1064,7 +1064,7 @@ Claim Timestamp: 00:42:00
 Claim: The host says Allie Stuckey replied to her tweet about Catholic Church growth with "respectfully, no, that's not true," and later wrote a longer post claiming the popular narrative of Catholic growth is not true.
 
 Anchored Artifacts: A-1901.1
-Mentions: N-228, N-3
+Mentions: N-227, N-3
 
 Related Nodes: N-10564
 
@@ -1274,7 +1274,7 @@ Claim: The host says Kravchuk is Elizabeth McCoy's maiden name and refers to her
 Transcript Snippet: Elizabeth Kravchuk McCoy. That's her maiden name Kravchuk McCoy our Ukrainian.
 
 Anchored Artifacts: 
-Mentions: N-218, N-3
+Mentions: N-217, N-3
 Tags: relevance:context
 Investigative Direction: Check public marriage or business records for Elizabeth McCoy's maiden name.
 
@@ -1289,7 +1289,7 @@ Claim: The host says it can be confirmed that Elizabeth McCoy was at the Turning
 Transcript Snippet: what we can confirm was she was certainly at Turning Point USA's offices when the shot rang out it was 12:23 p. m. Mountain Standard Time
 
 Anchored Artifacts: 
-Mentions: N-218, N-3
+Mentions: N-217, N-3
 Related Nodes: N-10000, N-10565
 Supports: C-2562
 Tags: relevance:core
@@ -1306,7 +1306,7 @@ Claim: The host says that, against Frank Turek's account that Charlie trained hi
 Transcript Snippet: so much for Frank saying that Charlie trained him anything happens call call Erika call Erika call Erika first thing walk away
 
 Anchored Artifacts: 
-Mentions: N-191, N-218, N-2, N-1, N-7, N-3
+Mentions: N-190, N-217, N-2, N-1, N-7, N-3
 Related Nodes: N-10193, N-10198
 Supports: C-2563
 Tags: relevance:core
@@ -1323,7 +1323,7 @@ Claim: The host says that, if Charlie is to be believed, the marriage of Mikey a
 Transcript Snippet: it was an arranged marriage if Charlie is to be believed he said that in their speech in his speech at their wedding
 
 Anchored Artifacts: 
-Mentions: N-191, N-218, N-1
+Mentions: N-190, N-217, N-1
 Tags: relevance:tangential
 Investigative Direction: Locate video or a transcript of Charlie Kirk's speech at the McCoy wedding.
 
@@ -1338,7 +1338,7 @@ Claim: The host says that after the call Elizabeth McCoy sprinted into the offic
 Transcript Snippet: sprints into the office of Frank who is the lawyer at Turning Point USA and not Frank Turek
 
 Anchored Artifacts: A-1902.1
-Mentions: N-218, N-495, N-15, N-3
+Mentions: N-217, N-494, N-15, N-3
 Related Nodes: N-10000, N-10565
 Supports: C-2562
 Tags: relevance:core
@@ -1355,7 +1355,7 @@ Claim: The host says Frank and Justin then allegedly ran to the Turning Point Ac
 Transcript Snippet: Frank and Justin then run to the Turning Point Action building.
 
 Anchored Artifacts: A-1902.1
-Mentions: N-495, N-15, N-3
+Mentions: N-494, N-15, N-3
 Related Nodes: N-10925
 Tags: relevance:core
 Investigative Direction: Obtain building access records and staff accounts of who was in the Turning Point Action building at 12:23 p.m. MST.
@@ -1371,7 +1371,7 @@ Claim: The host says Stacy Sheridan, whom she calls a de facto mom to Erika, liv
 Transcript Snippet: Stacey Sheridan lives with Erika and Charlie the same apartment complex not in the same apartment units
 
 Anchored Artifacts: 
-Mentions: N-187, N-2, N-1, N-3
+Mentions: N-186, N-2, N-1, N-3
 Related Nodes: N-10561
 Tags: relevance:context
 Investigative Direction: Confirm through lease or building contacts when Sheridan moved in, without publishing addresses.
@@ -1435,7 +1435,7 @@ Claim: The host says that in Elizabeth McCoy's alleged narrative she receives th
 Transcript Snippet: she receives the phone call that Charlie did not make it. She alleges that for whatever reason she beats Erika to the airport
 
 Anchored Artifacts: A-1902.1
-Mentions: N-218, N-2, N-1, N-3
+Mentions: N-217, N-2, N-1, N-3
 Related Nodes: N-10565, N-10190
 Tags: relevance:core
 Investigative Direction: Obtain FBO sign-in records and airport security video showing arrival order at the Scottsdale airport.
@@ -1468,7 +1468,7 @@ Claim: The host says that in the account of the airport events nobody has seen E
 Transcript Snippet: why has nobody seen Erika or Stacey during all of this
 
 Anchored Artifacts: 
-Mentions: N-2, N-187, N-218, N-3
+Mentions: N-2, N-186, N-217, N-3
 Related Nodes: N-10561, N-10565
 Supports: C-2565
 Tags: relevance:core
@@ -1485,7 +1485,7 @@ Claim: The host says that, according to Elizabeth McCoy, she told Erika Kirk ins
 Transcript Snippet: Elizabeth tells people that she had to break the news to Erika that Charlie was gone she's the one that told Erika when Erika gets to the airport
 
 Anchored Artifacts: A-1902.1
-Mentions: N-218, N-2, N-1, N-3
+Mentions: N-217, N-2, N-1, N-3
 Related Nodes: N-11344, N-10190, N-10565
 Contradicts: C-12775
 Tags: relevance:core
@@ -1518,7 +1518,7 @@ Claim: The host says Mikey McCoy's assistant Katherine LoCastro was part of the 
 Transcript Snippet: her name is Katherine LoCastro she was a part of the team that transported Erika to the airport on that day and she also went out to Utah
 
 Anchored Artifacts: A-1902.2
-Mentions: N-600, N-191, N-2, N-3
+Mentions: N-598, N-190, N-2, N-3
 Related Nodes: N-11208, N-10565
 Tags: relevance:core
 Investigative Direction: Obtain the passenger manifest of the aircraft that carried Erika's party to Provo.
@@ -1551,7 +1551,7 @@ Claim: The host says that, in Elizabeth McCoy's narrative, Mikey's assistant Kat
 Transcript Snippet: Mikey's assistant Katherine got sick on the plane overwhelmed from the emotion as soon as they landed they raced to the hospital cuz nobody waited for Andrew Kolvet
 
 Anchored Artifacts: A-1902.2
-Mentions: N-600, N-218, N-191, N-14, N-3
+Mentions: N-598, N-217, N-190, N-14, N-3
 Related Nodes: N-11208, N-10548
 Contradicts: C-9935
 Tags: relevance:core
@@ -1568,7 +1568,7 @@ Claim: The host says that at some point Katherine was sent to grab something fro
 Transcript Snippet: they sent Katherine who like I said sounds like she's quite innocent she's well liked I can say that at least to grab something from the car the car that Charlie bled out in bloodied car
 
 Anchored Artifacts: A-1902.2
-Mentions: N-600, N-218, N-1, N-3
+Mentions: N-598, N-217, N-1, N-3
 Related Nodes: N-11345, N-10362
 Tags: relevance:core
 Investigative Direction: Establish who held custody of the vehicle at the hospital and whether anyone was allowed inside it.
@@ -1584,7 +1584,7 @@ Claim: The host says Elizabeth McCoy left the hospital and went to gather items 
 Transcript Snippet: Elizabeth left the hospital and went to then gather the items for everyone to stay overnight since they did not pack any bags. This is where the aloe story comes in.
 
 Anchored Artifacts: A-1902.2
-Mentions: N-218, N-3
+Mentions: N-217, N-3
 Related Nodes: N-10866, N-11345
 Tags: relevance:core
 Investigative Direction: Trace Elizabeth McCoy's movements and purchases after leaving the hospital on September 10, 2025.
@@ -1729,7 +1729,7 @@ Claim: The host says Joe Rogan has weighed in on the case and that she had misse
 Transcript Snippet: Joe Rogan, as I told you, uh similarly has weighed into this and I missed this part where he specifically spoke about the uh Superman neck theory.
 
 Anchored Artifacts: A-3224.1
-Mentions: N-269, N-3, N-1
+Mentions: N-268, N-3, N-1
 Related Nodes: N-10110
 Tags: relevance:context
 Investigative Direction: Locate the full Rogan episode and check the speaker attribution for the played segment.
@@ -1745,7 +1745,7 @@ Claim: In the played clip, a speaker in the Rogan conversation says the round Ch
 Transcript Snippet: That's a round you can kill a moose with.
 
 Anchored Artifacts: A-3224.1
-Mentions: N-269, N-1
+Mentions: N-268, N-1
 Related Nodes: N-10110
 Tags: relevance:core
 Investigative Direction: Compare against the autopsy and ballistics findings on wound path and exit.
@@ -1761,7 +1761,7 @@ Claim: In the played clip, a speaker says Joe Kent said they were told to stop t
 Transcript Snippet: He said that they were told to stop their investigation. Yeah. >> And that they were going to handle it. And he just resigned.
 
 Anchored Artifacts: A-3224.1
-Mentions: N-269, N-210
+Mentions: N-268, N-209
 Related Nodes: N-10546, N-10355
 Tags: relevance:core
 Investigative Direction: Check Joe Kent's resignation letter and public statements on any instruction to stop investigating.
@@ -1777,7 +1777,7 @@ Claim: In the played clip, a speaker says Tyler Robinson has not said he did it 
 Transcript Snippet: He hasn't said he did it. He hasn't said he didn't do it. There's no known like independent video of him talking about it.
 
 Anchored Artifacts: A-3224.1
-Mentions: N-40, N-269
+Mentions: N-40, N-268
 Related Nodes: N-10110
 Tags: relevance:core
 Investigative Direction: Review the court record for any statement by Robinson and for any recorded jail or court audio.
@@ -1793,7 +1793,7 @@ Claim: In the played clip, a speaker says there was footage of Tyler Robinson at
 Transcript Snippet: And then there was footage of him like at a yogurt shop. Right. >> Like way across town like 20 minutes later.
 
 Anchored Artifacts: A-3224.1
-Mentions: N-40, N-269
+Mentions: N-40, N-268
 Related Nodes: N-10110
 Tags: relevance:core
 Investigative Direction: Locate the yogurt shop footage, its timestamp and its source, and compare with the shooting time.
@@ -1809,7 +1809,7 @@ Claim: The host says she sees Alexis Wilkins's thread as Kash Patel's revenge, t
 Transcript Snippet: I think he's now seeking his revenge on people who he feels have thus far uh are are I guess guilty of ruining his reputation as professional. And he's doing it via his girlfriend.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-69, N-213, N-3
+Mentions: N-69, N-212, N-3
 Related Nodes: N-10563, N-10202
 Tags: relevance:context
 Investigative Direction: Compare the thread's timing and wording with any public Patel statements and check for coordination.
@@ -1825,7 +1825,7 @@ Claim: The host says Kash Patel was flying on the FBI plane to see Alexis Wilkin
 Transcript Snippet: we're flying to see her on the FBI plane going to see her in Tennessee.
 
 Anchored Artifacts: 
-Mentions: N-69, N-213, N-3
+Mentions: N-69, N-212, N-3
 Related Nodes: N-10202
 Supports: C-9500
 Tags: relevance:context
@@ -1842,7 +1842,7 @@ Claim: The host says Kash Patel has also sent a police force to protect Alexis W
 Transcript Snippet: He has also sent a police force to protect her. Like where I think are we paying for that?
 
 Anchored Artifacts: 
-Mentions: N-69, N-213, N-3
+Mentions: N-69, N-212, N-3
 Related Nodes: N-10202
 Tags: relevance:context
 Investigative Direction: Ask the FBI or the relevant agency whether any protective detail has been assigned to Wilkins and at whose cost.
@@ -1858,7 +1858,7 @@ Claim: The host says Alexis Wilkins was upset by the honeypot allegations and be
 Transcript Snippet: she began suing content creators claiming that it harmed her professionally
 
 Anchored Artifacts: 
-Mentions: N-213, N-3
+Mentions: N-212, N-3
 Related Nodes: N-10245
 Supports: C-1677
 Tags: relevance:context
@@ -1875,7 +1875,7 @@ Claim: The host says Alexis Wilkins professionally sings the opening at Turning 
 Transcript Snippet: she like sings uh the opening at Turning Point USA events.
 
 Anchored Artifacts: 
-Mentions: N-213, N-3
+Mentions: N-212, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Check TPUSA event programs for Wilkins performances and any payment.
@@ -1891,7 +1891,7 @@ Claim: The host says Alexis Wilkins is claiming she began building a program or 
 Transcript Snippet: she's claiming that she began building a a program or a data set to determine how anyone could think that she's a honeypot.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-213, N-3
+Mentions: N-212, N-3
 Related Nodes: N-10563, N-10245
 Tags: relevance:context
 Investigative Direction: Request the data set and code Wilkins says she built and review the method.
@@ -1907,7 +1907,7 @@ Claim: The host says Alexis Wilkins presented a 13-part thread alleging Russia i
 Transcript Snippet: she presented this theory in a 13-part thread explaining how she realized that Russia was behind a foreign influence campaign that controls me and Tucker Carlson and Joe Kent and General Michael Flynn and they are doing it through the Catholic Church
 
 Anchored Artifacts: A-1896.1
-Mentions: N-213, N-3, N-22, N-210, N-914
+Mentions: N-212, N-3, N-22, N-209, N-911
 Related Nodes: N-10563, N-10956
 Supports: C-2568
 Tags: relevance:context
@@ -1924,7 +1924,7 @@ Claim: The host says the thread states Alexis Wilkins was falsely labeled a Moss
 Transcript Snippet: I was falsely labeled a a Mossad spy and then she says she noticed that people started retweeting it. There were 15 pairs of that retweeted in 10 seconds of each other.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-213, N-3
+Mentions: N-212, N-3
 Related Nodes: N-10563, N-10015, N-10245
 Tags: relevance:context
 Investigative Direction: Check the thread and the retweet timestamps to test whether the pairing is unusual.
@@ -1940,7 +1940,7 @@ Claim: The host says General Michael Flynn spoke at the Catholics for Catholics 
 Transcript Snippet: General Michael Flynn spoke there. By the way, that's the first time that I've ever spoken to General Michael Flynn that I remember.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-914, N-3
+Mentions: N-911, N-3
 Related Nodes: N-10956
 Tags: relevance:context
 Investigative Direction: Check the event program and recordings for who spoke and when.
@@ -1956,7 +1956,7 @@ Claim: The host says the Catholics for Catholics event she spoke at a couple of 
 Transcript Snippet: So she's now putting this at the event that I spoke to a couple of weeks ago.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-213, N-3
+Mentions: N-212, N-3
 Related Nodes: N-10956, N-10563
 Tags: relevance:context
 Investigative Direction: Confirm the date of the event and the list of speakers.
@@ -1972,7 +1972,7 @@ Claim: The host says it is false, as the thread claims, that within hours she at
 Transcript Snippet: I was not naming Erika. I said nice things about Erika about her speech. Uh didn't start covering Erika until Erika lied to my face in December
 
 Anchored Artifacts: A-1896.1
-Mentions: N-3, N-2, N-213
+Mentions: N-3, N-2, N-212
 Related Nodes: N-10563
 Contradicts: C-2572
 Tags: relevance:core
@@ -1989,7 +1989,7 @@ Claim: The host says that, she thinks, the Catholics for Catholics event was onl
 Transcript Snippet: that is literally only the I think second time I've ever even seen Joe Kent. I did not know Joe Kent at all prior to assassination.
 
 Anchored Artifacts: 
-Mentions: N-3, N-210
+Mentions: N-3, N-209
 Related Nodes: N-10956, N-10546
 Tags: relevance:context
 Investigative Direction: Check earlier public appearances or contacts between the host and Joe Kent.
@@ -2005,7 +2005,7 @@ Claim: The host says the thread's data purports to show the same accounts are in
 Transcript Snippet: the data um clearly demonstrates that the same people that are interested in the Butler assassination are the same people that are interested in Joe Kent's resignation and they are the same people that are interested in Charlie Kirk's assassination.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-213, N-210, N-1, N-3
+Mentions: N-212, N-209, N-1, N-3
 Related Nodes: N-10563, N-10546
 Tags: relevance:context
 Investigative Direction: Obtain the thread's data and methodology and test whether the overlap is distinctive.
@@ -2021,7 +2021,7 @@ Claim: The host says that when Trump asked whether people were still talking abo
 Transcript Snippet: When people are upset that Trump says are we still talking about the Epstein files and then basically Thomas Massie has to fight him tooth and nail alongside some others um to get the Epstein files
 
 Anchored Artifacts: 
-Mentions: N-5, N-582, N-3
+Mentions: N-5, N-580, N-3
 Related Nodes: N-10324
 Tags: relevance:tangential
 Investigative Direction: Review the Epstein Files Transparency Act record and Massie's public statements on the White House position.
@@ -2037,7 +2037,7 @@ Claim: The host says Alexis Wilkins's thread also mentions Putin's philosopher A
 Transcript Snippet: She also mentions his his philosopher um Alexander Dugin
 
 Anchored Artifacts: A-1896.1
-Mentions: N-213, N-627, N-650, N-3
+Mentions: N-212, N-625, N-648, N-3
 Related Nodes: N-10563
 Tags: relevance:context
 Investigative Direction: Check the thread text for the Dugin reference and its role in the argument.
@@ -2069,7 +2069,7 @@ Claim: The host says that in April of the prior year she tweeted that the Cathol
 Transcript Snippet: Oh, it's so great. All around the world the Catholic Church is growing and Protestant denominations are on the decline.
 
 Anchored Artifacts: A-1901.1
-Mentions: N-3, N-228
+Mentions: N-3, N-227
 Related Nodes: N-10564
 Tags: relevance:tangential
 Investigative Direction: Retrieve the host's April 2025 post and Stuckey's reply from the X archive.
@@ -2085,7 +2085,7 @@ Claim: The host says Joe Kent is Catholic, as she is, and that Tucker Carlson, w
 Transcript Snippet: she doesn't like that Joe Kent's Catholic and I'm Catholic or something. And Tucker, who she mentions is is Episcopalian.
 
 Anchored Artifacts: 
-Mentions: N-210, N-3, N-22, N-213
+Mentions: N-209, N-3, N-22, N-212
 Related Nodes: N-10564
 Tags: relevance:tangential
 Investigative Direction: Check public statements on Carlson's and Kent's religious affiliations.
@@ -2118,7 +2118,7 @@ Claim: The host says Erika Kirk asked whether Joe Kent was her source at the hos
 Transcript Snippet: she was like, well, was he your source at the hospital? And I said, no. Andrew Kolvet was.
 
 Anchored Artifacts: 
-Mentions: N-2, N-210, N-14, N-3
+Mentions: N-2, N-209, N-14, N-3
 Related Nodes: N-10551
 Tags: relevance:core
 Investigative Direction: Compare with the host's notes from her meeting with Erika and any other account of that exchange.
@@ -2134,7 +2134,7 @@ Claim: A viewer comment read by the host says General Flynn brought Kash Patel i
 Transcript Snippet: Pretty rich Wilkins is implicating General Flynn since he was exactly who brought Kash Patel into the Patriot movement through the Awaken America Tours with Clay Clark.
 
 Anchored Artifacts: A-3226.1
-Mentions: N-914, N-69, N-213, N-915, N-3
+Mentions: N-911, N-69, N-212, N-912, N-3
 Related Nodes: N-10563
 Tags: relevance:context
 Investigative Direction: Check Awaken America Tour programs and Patel's appearances alongside Flynn and Clay Clark.
@@ -2150,7 +2150,7 @@ Claim: The host says that later in the thread Alexis Wilkins says the purpose of
 Transcript Snippet: later on she says that the purpose of this is like to not get people to sign up for the military
 
 Anchored Artifacts: A-1896.1
-Mentions: N-213, N-3
+Mentions: N-212, N-3
 Related Nodes: N-10563
 Tags: relevance:context
 Investigative Direction: Read the later chapters of the thread for the stated purpose.
@@ -2166,7 +2166,7 @@ Claim: The host repeats her call for information about Stacy Sheridan on Septemb
 Transcript Snippet: Um again, APB. Stacy Sheridan on that day. I know I have uh contacts that are uh living in that same building.
 
 Anchored Artifacts: 
-Mentions: N-187, N-3
+Mentions: N-186, N-3
 Related Nodes: N-10561
 Supports: C-2565
 Tags: relevance:core
@@ -2183,7 +2183,7 @@ Claim: The host says she still cannot get an Erika sighting and that Erika's ali
 Transcript Snippet: Still can't get an Erika sighting. Um but I do have a lot of issues with her Lori alibi. That is very problematic, that alibi. Falling apart.
 
 Anchored Artifacts: 
-Mentions: N-2, N-490, N-3
+Mentions: N-2, N-489, N-3
 Related Nodes: N-10483, N-10565
 Supports: C-12772
 Tags: relevance:core

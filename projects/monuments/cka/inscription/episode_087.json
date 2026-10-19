@@ -453,7 +453,7 @@
           ],
           "related_nodes": [
             "N-40",
-            "N-415"
+            "N-414"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -478,8 +478,8 @@
             "C-14591"
           ],
           "related_nodes": [
-            "N-135",
-            "N-418"
+            "N-134",
+            "N-417"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -528,7 +528,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-946"
+            "N-943"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -553,7 +553,7 @@
             "C-14617"
           ],
           "related_nodes": [
-            "N-262"
+            "N-261"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -977,8 +977,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-135",
-      "ref": "N-135",
+      "@id": "N-134",
+      "ref": "N-134",
       "name": "Andrew Zenger",
       "type": "person",
       "description": "Andrew Zenger (wave3 orphan mint).",
@@ -1006,8 +1006,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-411",
-      "ref": "N-411",
+      "@id": "N-410",
+      "ref": "N-410",
       "name": "Zachariah Qureshi",
       "type": "person",
       "description": "First named by the host at 00:06:41 in episode 87. Aliases: Zachariah Qureshi.",
@@ -1025,8 +1025,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-412",
-      "ref": "N-412",
+      "@id": "N-411",
+      "ref": "N-411",
       "name": "Ahmed Qureshi",
       "type": "person",
       "description": "First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Qureshi, Ahmed Qureshi.",
@@ -1049,8 +1049,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-413",
-      "ref": "N-413",
+      "@id": "N-412",
+      "ref": "N-412",
       "name": "Nathan Henderson",
       "type": "person",
       "description": "First named by the host at 00:16:55 in episode 87.",
@@ -1070,8 +1070,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-415",
-      "ref": "N-415",
+      "@id": "N-414",
+      "ref": "N-414",
       "name": "Connor Henderson",
       "type": "person",
       "description": "First named by the host at 00:17:51 in episode 87.",
@@ -1091,8 +1091,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-414",
-      "ref": "N-414",
+      "@id": "N-413",
+      "ref": "N-413",
       "name": "Gina Romney Henderson",
       "type": "person",
       "description": "First named by the host at 00:16:55 in episode 87. Aliases: Gina Romney.",
@@ -1112,8 +1112,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-417",
-      "ref": "N-417",
+      "@id": "N-416",
+      "ref": "N-416",
       "name": "Caleb Cunningham",
       "type": "person",
       "description": "First named by the host at 00:25:43 in episode 87.",
@@ -1135,8 +1135,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-416",
-      "ref": "N-416",
+      "@id": "N-415",
+      "ref": "N-415",
       "name": "Jeffrey Knuckles",
       "type": "person",
       "description": "First named by the host at 00:25:43 in episode 87.",
@@ -1158,8 +1158,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-418",
-      "ref": "N-418",
+      "@id": "N-417",
+      "ref": "N-417",
       "name": "Michael Shawn Covey",
       "type": "person",
       "description": "First named by the host at 00:27:39 in episode 87.",
@@ -1371,7 +1371,7 @@
       "@type": "Person",
       "@id": "N-128",
       "ref": "N-128",
-      "name": "Shane Lyman",
+      "name": "Shaner Broderick",
       "type": "person",
       "description": "Shane Lyman; the Lyman relative the host says Robbie Hild stood alongside.",
       "related_artifacts": [],
@@ -1388,8 +1388,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-210",
-      "ref": "N-210",
+      "@id": "N-209",
+      "ref": "N-209",
       "name": "Joe Kent",
       "type": "person",
       "description": "Joe Kent; the host says TPUSA attacked him instead of disclosing Charlie's position.",
@@ -1405,8 +1405,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-262",
-      "ref": "N-262",
+      "@id": "N-261",
+      "ref": "N-261",
       "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Terryl Farnsworth, spelled Teal and Terra in the transcript; camera-takedown figure the host links to the Mormon colony families.",
@@ -1427,8 +1427,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Baron Coleman; co-analyst of Built's federal contracts.",
@@ -1449,8 +1449,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-362",
-      "ref": "N-362",
+      "@id": "N-361",
+      "ref": "N-361",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Mitch Snow; the host recalls his account of O5s and O6s at Fort Huachuca.",
@@ -1466,8 +1466,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-710",
-      "ref": "N-710",
+      "@id": "N-708",
+      "ref": "N-708",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; subject of the CBLA history and Texas comparison.",
@@ -1485,8 +1485,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-713",
-      "ref": "N-713",
+      "@id": "N-711",
+      "ref": "N-711",
       "name": "Ron Paul",
       "type": "person",
       "description": "Ron Paul; subject of the 2012 convention comment.",
@@ -2386,8 +2386,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-946",
-      "ref": "N-946",
+      "@id": "N-943",
+      "ref": "N-943",
       "name": "Robbie Hild",
       "type": "person",
       "description": "First named by the host at 00:27:39 in episode 87 (spelled Robbie Hild and Robbie Hild in the transcript). Person the host says she put an APB out for because he stood alongside a Lyman relative; she says he attended BYU, played lacrosse and graduated around 2020.",
@@ -2485,7 +2485,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-69",
-        "N-411"
+        "N-410"
       ]
     },
     {
@@ -2505,7 +2505,7 @@
       "investigative_direction": "Obtain law enforcement records documenting the detention, interrogation, and release; cross-reference with identity of \"Zachariah Qureshi.\"",
       "mentions_person_refs": [
         "N-69",
-        "N-411"
+        "N-410"
       ]
     },
     {
@@ -2525,8 +2525,8 @@
       "claim_timestamp": "00:06:41–00:09:45",
       "investigative_direction": "Confirm spelling of \"Qureshi\" vs. \"Qureshi\" against official detention records; the name discrepancy requires resolution.",
       "mentions_person_refs": [
-        "N-411",
-        "N-412"
+        "N-410",
+        "N-411"
       ]
     },
     {
@@ -2545,7 +2545,7 @@
       "claim_timestamp": "00:10:27–00:12:44",
       "investigative_direction": "Verify current rank and command assignment via official military biography.",
       "mentions_person_refs": [
-        "N-412"
+        "N-411"
       ]
     },
     {
@@ -2565,8 +2565,8 @@
       "claim_timestamp": "00:16:35",
       "investigative_direction": "Cross-check corporate registration records (Secretary of State filings in Texas) for BILT Incorporated founders and incorporation date.",
       "mentions_person_refs": [
-        "N-412",
-        "N-413"
+        "N-411",
+        "N-412"
       ]
     },
     {
@@ -2602,7 +2602,7 @@
       "claim_timestamp": "00:17:51",
       "investigative_direction": "Confirm employment and BYU degree via LinkedIn and university alumni records; investigate \"Romney\" family-tie claim.",
       "mentions_person_refs": [
-        "N-414"
+        "N-413"
       ]
     },
     {
@@ -2620,7 +2620,7 @@
       "investigative_direction": "Obtain Connor Henderson's actual LinkedIn profile; verify Timpanogos HR records of scribe employment.",
       "mentions_person_refs": [
         "N-1",
-        "N-415"
+        "N-414"
       ]
     },
     {
@@ -2691,10 +2691,10 @@
       "claim_timestamp": "00:16:55–00:17:51",
       "investigative_direction": "Pull property records for Keller, Texas to identify ownership/residency history of both families.",
       "mentions_person_refs": [
+        "N-411",
         "N-412",
-        "N-413",
-        "N-415",
-        "N-414"
+        "N-414",
+        "N-413"
       ]
     },
     {
@@ -2711,7 +2711,7 @@
       "claim_timestamp": "00:23:46",
       "investigative_direction": "Confirm via Timpanogos press releases, LinkedIn, or Utah business filings.",
       "mentions_person_refs": [
-        "N-135"
+        "N-134"
       ]
     },
     {
@@ -2726,7 +2726,7 @@
       "claim_timestamp": "00:23:46–00:24:39",
       "investigative_direction": "Verify via Medical City Healthcare press releases or LinkedIn employment history.",
       "mentions_person_refs": [
-        "N-135"
+        "N-134"
       ]
     },
     {
@@ -2743,7 +2743,7 @@
       "claim_timestamp": "00:24:39",
       "investigative_direction": "Confirm via BYU Jerusalem Center enrollment records or alumni directory.",
       "mentions_person_refs": [
-        "N-135",
+        "N-134",
         "N-28"
       ]
     },
@@ -2791,8 +2791,8 @@
       "claim_timestamp": "00:27:39",
       "investigative_direction": "Verify any government contract records for \"Michael Shawn Covey.\"",
       "mentions_person_refs": [
-        "N-135",
-        "N-418"
+        "N-134",
+        "N-417"
       ]
     },
     {
@@ -2811,7 +2811,7 @@
       "claim_timestamp": "00:29:30–00:30:18",
       "investigative_direction": "Confirm via BYU athletics records and class roster.",
       "mentions_person_refs": [
-        "N-946"
+        "N-943"
       ]
     },
     {
@@ -2866,7 +2866,7 @@
       "claim_timestamp": "00:29:45",
       "investigative_direction": "Verify via marriage records, family genealogical databases, or corroborating viewer emails with documentation.",
       "mentions_person_refs": [
-        "N-946"
+        "N-943"
       ]
     },
     {
@@ -2881,8 +2881,8 @@
       "claim_timestamp": "00:25:43–00:26:30",
       "investigative_direction": "Cross-reference Romney 2012 campaign staff lists and BYU Jerusalem Center enrollment.",
       "mentions_person_refs": [
-        "N-135",
-        "N-417",
+        "N-134",
+        "N-416",
         "N-28"
       ]
     },
@@ -2898,8 +2898,8 @@
       "claim_timestamp": "00:25:43–00:26:30",
       "investigative_direction": "Verify via Romney 2012 campaign staff biographies.",
       "mentions_person_refs": [
-        "N-135",
-        "N-416",
+        "N-134",
+        "N-415",
         "N-28"
       ]
     },
@@ -3295,7 +3295,7 @@
       "transcript_snippet": "What we do know is that shortly after came over the police scanner or might be going from hospital to hospital, they moved to detain a young man named Zachariah Qureshi.",
       "mentions_person_refs": [
         "N-3",
-        "N-411"
+        "N-410"
       ]
     },
     {
@@ -3320,7 +3320,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-69",
-        "N-411"
+        "N-410"
       ]
     },
     {
@@ -3342,7 +3342,7 @@
       "transcript_snippet": "we should start to think of Zachariah Qureshi as decoy boy number two, okay? First, it was George Zinn.",
       "mentions_person_refs": [
         "N-3",
-        "N-411",
+        "N-410",
         "N-42"
       ]
     },
@@ -3436,7 +3436,7 @@
       "transcript_snippet": "Mitch Snow, he said he saw this meeting conclude with a bunch of O5s and O6s coming out of Fort Huachuca.",
       "mentions_person_refs": [
         "N-3",
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -3502,7 +3502,7 @@
       "transcript_snippet": "just like there was a Texas play in JFK's assassination, I might add. CIA ran that operation out of Texas.",
       "mentions_person_refs": [
         "N-3",
-        "N-710"
+        "N-708"
       ]
     },
     {
@@ -3548,7 +3548,7 @@
       "transcript_snippet": "2019, they just get a little $50,000 contract. Got a three-month pop. Period of performance is three months, $50,000",
       "mentions_person_refs": [
         "N-3",
-        "N-331"
+        "N-330"
       ]
     },
     {
@@ -3571,7 +3571,7 @@
       "transcript_snippet": "but we get this big $3.1 million contract way back in 2020.",
       "mentions_person_refs": [
         "N-3",
-        "N-331"
+        "N-330"
       ]
     },
     {
@@ -3594,7 +3594,7 @@
       "transcript_snippet": "So when were these massive $7.5 million worth of contracts on a company who had not had much more than one single contract of any value in the previous four or five years?",
       "mentions_person_refs": [
         "N-3",
-        "N-331"
+        "N-330"
       ]
     },
     {
@@ -3616,7 +3616,7 @@
       "transcript_snippet": "we said the Utah Valley University event was probably beginning to be planned around June.",
       "mentions_person_refs": [
         "N-3",
-        "N-331"
+        "N-330"
       ]
     },
     {
@@ -3638,7 +3638,7 @@
       "transcript_snippet": "The exiting of Charlie Kirk from this mortal plane, we believe we estimated, based on our investigation, started around March or April and really heated up in June and July.",
       "mentions_person_refs": [
         "N-3",
-        "N-331",
+        "N-330",
         "N-1"
       ]
     },
@@ -3663,8 +3663,8 @@
       "transcript_snippet": "And that Nathan Henderson, the co-founder, is married to a woman named Gina Romney.",
       "mentions_person_refs": [
         "N-3",
-        "N-413",
-        "N-414"
+        "N-412",
+        "N-413"
       ]
     },
     {
@@ -3688,10 +3688,10 @@
       "transcript_snippet": "Connor went to the same school at the same time as Zacharias Qureshi.",
       "mentions_person_refs": [
         "N-3",
-        "N-415",
-        "N-411",
-        "N-413",
-        "N-414"
+        "N-414",
+        "N-410",
+        "N-412",
+        "N-413"
       ]
     },
     {
@@ -3714,8 +3714,8 @@
       "transcript_snippet": "And their sons both interned at the Built company.",
       "mentions_person_refs": [
         "N-3",
-        "N-415",
-        "N-411"
+        "N-414",
+        "N-410"
       ]
     },
     {
@@ -3738,7 +3738,7 @@
       "transcript_snippet": "that is the third time in this investigation that the Romney name has come up.",
       "mentions_person_refs": [
         "N-3",
-        "N-414",
+        "N-413",
         "N-28"
       ]
     },
@@ -3763,8 +3763,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-40",
-        "N-415",
-        "N-331"
+        "N-414",
+        "N-330"
       ]
     },
     {
@@ -3828,8 +3828,8 @@
       "transcript_snippet": "And so, we have the Karashis, the Hendersons that are coming out of Texas, our planes are coming out of Texas.",
       "mentions_person_refs": [
         "N-3",
-        "N-412",
-        "N-413"
+        "N-411",
+        "N-412"
       ]
     },
     {
@@ -3851,10 +3851,10 @@
       "transcript_snippet": "Now, of course, Andrew Zenger, just like Qureshi and Henderson and our Gina Romney, he attended BYU.",
       "mentions_person_refs": [
         "N-3",
-        "N-135",
-        "N-411",
-        "N-415",
-        "N-414"
+        "N-134",
+        "N-410",
+        "N-414",
+        "N-413"
       ]
     },
     {
@@ -3897,8 +3897,8 @@
       "transcript_snippet": "He was also good friends with a guy named Jeffrey Knuckles, who was out there as well, who later served as an advisor to the Romney campaign.",
       "mentions_person_refs": [
         "N-3",
-        "N-135",
-        "N-416"
+        "N-134",
+        "N-415"
       ]
     },
     {
@@ -3922,8 +3922,8 @@
       "transcript_snippet": "I am telling you that his roommates were. He's got a roommate who did a contract work, went on to do contract work for the CIA as well.",
       "mentions_person_refs": [
         "N-3",
-        "N-135",
-        "N-418"
+        "N-134",
+        "N-417"
       ]
     },
     {
@@ -3945,7 +3945,7 @@
       "transcript_snippet": "one of the first people that I put an APB out for because he was bizarrely standing alongside Shane Lyman.",
       "mentions_person_refs": [
         "N-3",
-        "N-946",
+        "N-943",
         "N-128"
       ]
     },
@@ -4047,7 +4047,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-946",
+        "N-943",
         "N-128"
       ]
     },
@@ -4095,7 +4095,7 @@
       "transcript_snippet": "please email us at more tips at candaceowens. com.",
       "mentions_person_refs": [
         "N-3",
-        "N-946",
+        "N-943",
         "N-28"
       ]
     },
@@ -4118,7 +4118,7 @@
       "transcript_snippet": "but the investigation into Robbie Hild is now opened again.",
       "mentions_person_refs": [
         "N-3",
-        "N-946"
+        "N-943"
       ]
     },
     {
@@ -4160,7 +4160,7 @@
       "transcript_snippet": "But it's interesting that so many Romney campaign people during the time that his campaign was going on, this is like 2011 when Andrew Zenger is there and you've got advisors and all these people are stationed in Jerusalem.",
       "mentions_person_refs": [
         "N-3",
-        "N-135",
+        "N-134",
         "N-28"
       ]
     },
@@ -4184,7 +4184,7 @@
       "transcript_snippet": "comparative bullet lead analysis was first used after President John F. Kennedy's assassination in 1963.",
       "mentions_person_refs": [
         "N-3",
-        "N-710"
+        "N-708"
       ]
     },
     {
@@ -4250,7 +4250,7 @@
       "transcript_snippet": "cuz we all know who killed JFK. And it wasn't Lee Harvey Oswald.",
       "mentions_person_refs": [
         "N-3",
-        "N-710"
+        "N-708"
       ]
     },
     {
@@ -4317,7 +4317,7 @@
       "transcript_snippet": "Certainly, the Hild family is married into the Robinsons as well",
       "mentions_person_refs": [
         "N-3",
-        "N-946",
+        "N-943",
         "N-40"
       ]
     },
@@ -4340,7 +4340,7 @@
       "transcript_snippet": "I know the Farnsworth family and the Romney family were part of the families that went down there.",
       "mentions_person_refs": [
         "N-3",
-        "N-262",
+        "N-261",
         "N-28"
       ]
     },
@@ -4523,7 +4523,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-262"
+        "N-261"
       ]
     },
     {
@@ -4546,7 +4546,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-262",
+        "N-261",
         "N-1"
       ]
     },
@@ -4568,7 +4568,7 @@
       "transcript_snippet": "And then Terryl was all crazy on the phone.",
       "mentions_person_refs": [
         "N-3",
-        "N-262"
+        "N-261"
       ]
     },
     {
@@ -4615,7 +4615,7 @@
       "transcript_snippet": "The RNC also refused to recognize Paul's delegates from Maine.",
       "mentions_person_refs": [
         "N-3",
-        "N-713"
+        "N-711"
       ]
     },
     {
@@ -4755,7 +4755,7 @@
       "transcript_snippet": "Would have been nice if uh rather than attacking Joe Kent, they um themselves came out with that information",
       "mentions_person_refs": [
         "N-3",
-        "N-210",
+        "N-209",
         "N-14",
         "N-2"
       ]
@@ -4808,7 +4808,7 @@
         "N-3",
         "N-2",
         "N-1",
-        "N-710"
+        "N-708"
       ]
     }
   ],

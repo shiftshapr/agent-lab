@@ -15,8 +15,8 @@
   - Hole-minted Nodes (reintro-ep072): N-10517, N-10520, N-10526, N-10527, N-10665, N-10764
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10059–C-10137
-  - New Nodes Introduced: N-558, N-559, N-560, N-561, N-10501, N-10502, N-10504, N-10505
-  - Reused Nodes Appearing: N-2, N-11, N-3, N-546, N-554, N-1, N-327, N-38, N-40, N-55, N-60, N-82, N-97, N-99, N-160, N-165, N-191, N-218, N-271, N-279, N-555, N-710, N-10000, N-10012, N-10026, N-10027, N-10063, N-10085, N-10117, N-10148, N-10169, N-10180, N-10187, N-10268, N-10334, N-10340, N-10345, N-10374, N-10386, N-10406, N-10419, N-10428, N-10446, N-10447, N-10456, N-10470, N-10482, N-10493, N-10495, N-10498, N-10905, N-10968, N-11104, N-11110, N-11165, N-10503, N-11188
+  - New Nodes Introduced: N-557, N-558, N-559, N-560, N-10501, N-10502, N-10504, N-10505
+  - Reused Nodes Appearing: N-2, N-11, N-3, N-545, N-553, N-1, N-326, N-38, N-40, N-55, N-60, N-82, N-97, N-99, N-159, N-164, N-190, N-217, N-270, N-278, N-554, N-708, N-10000, N-10012, N-10026, N-10027, N-10063, N-10085, N-10117, N-10148, N-10169, N-10180, N-10187, N-10268, N-10334, N-10340, N-10345, N-10374, N-10386, N-10406, N-10419, N-10428, N-10446, N-10447, N-10456, N-10470, N-10482, N-10493, N-10495, N-10498, N-10905, N-10968, N-11104, N-11110, N-11165, N-10503, N-11188
   - (see registers)
 
 ## 2. Executive Summary
@@ -55,7 +55,7 @@ Video Timestamp: 00:26:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2351, N-205, N-10502*
+*Related: C-2351, N-204, N-10502*
 
 ---
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:27:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2352, N-558, N-205, N-10502*
+*Related: C-2352, N-557, N-204, N-10502*
 
 ---
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:19:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2357, C-2358, C-2359, C-2360, C-2363, N-1, N-3, N-46, N-205*
+*Related: C-2357, C-2358, C-2359, C-2360, C-2363, N-1, N-3, N-46, N-204*
 
 ---
 
@@ -134,7 +134,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:16
 Confidence Level: High
 
-*Related: C-2361, N-205, N-558, N-14, N-10502*
+*Related: C-2361, N-204, N-557, N-14, N-10502*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-2, N-238, N-10505*
+*Related: N-2, N-237, N-10505*
 
 ---
 
@@ -162,7 +162,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2362, N-560, N-561, N-494*
+*Related: C-2362, N-559, N-560, N-493*
 
 ---
 
@@ -293,7 +293,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-205** Piers Morgan
+**N-204** Piers Morgan
 
 Interviewer in the Megyn Kelly clip artifact.
 
@@ -306,7 +306,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-558** Lynn Forester de Rothschild
+**N-557** Lynn Forester de Rothschild
 
 Subject of Epstein document entry listing her as Corcoran Group Inc. President.
 
@@ -319,7 +319,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-559** Pamela Liebman
+**N-558** Pamela Liebman
 
 Per unnamed TikToker, the publicly identified President and CEO of the Corcoran Group since 2000.
 
@@ -328,11 +328,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1764.1, A-1769.1, N-558, N-10502*
+*Related: A-1764.1, A-1769.1, N-557, N-10502*
 
 ---
 
-**N-552** Aubrey Laitsch
+**N-551** Aubrey Laitsch
 
 Former Turning Point USA employee; subject of recorded private investigator visit to her home.
 
@@ -341,11 +341,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1771.1, C-2362, N-561*
+*Related: A-1771.1, C-2362, N-560*
 
 ---
 
-**N-560** "Mike" (Private Investigator)
+**N-559** "Mike" (Private Investigator)
 
 Unidentified individual recorded outside Aubrey Laitsch's home stating a legal firm asked him to photograph the property.
 
@@ -354,11 +354,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1771.1, C-2362, N-552*
+*Related: A-1771.1, C-2362, N-551*
 
 ---
 
-**N-561** TikToker (Unnamed)
+**N-560** TikToker (Unnamed)
 
 Creator of A-1769.1 video presenting Corcoran Group / Epstein document findings about Erika Kirk.
 
@@ -384,7 +384,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-238** Glenn Beck
+**N-237** Glenn Beck
 
 Referenced by host as recipient of an alleged false statement from Erika Kirk about Charlie's pre-death text messages.
 
@@ -410,7 +410,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-196** Lee Trotter
+**N-195** Lee Trotter
 
 Surgeon; host alleges Erika initiated three-way call with Trotter and Andrew Kolvet on day of Charlie's funeral re: bullet trajectory.
 
@@ -423,7 +423,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-494** Marina Minas
+**N-493** Marina Minas
 
 Turning Point USA CMO; host references her questioning of Aubrey Laitsch regarding an Uber ride.
 
@@ -432,7 +432,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-552*
+*Related: N-551*
 
 ---
 
@@ -458,7 +458,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1764.1, A-1765.1, A-1769.1, C-2351, C-2352, N-2, N-558, N-559*
+*Related: A-1764.1, A-1765.1, A-1769.1, C-2351, C-2352, N-2, N-557, N-558*
 
 ---
 
@@ -497,7 +497,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1770.1, N-2, N-14, N-238, N-36, N-196*
+*Related: A-1770.1, N-2, N-14, N-237, N-36, N-195*
 
 ---
 
@@ -627,7 +627,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Existing node reused for new claims in this episode.
 
@@ -635,7 +635,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-165** Rabbi Pesach Wolicki
+**N-164** Rabbi Pesach Wolicki
 
 Existing node reused for new claims in this episode.
 
@@ -643,7 +643,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 Existing node reused for new claims in this episode.
 
@@ -651,7 +651,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-218** Elizabeth McCoy
+**N-217** Elizabeth McCoy
 
 Existing node reused for new claims in this episode.
 
@@ -659,7 +659,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-271** Dan Flood
+**N-270** Dan Flood
 
 Existing node reused for new claims in this episode.
 
@@ -667,7 +667,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-279** Bari Weiss
+**N-278** Bari Weiss
 
 Existing node reused for new claims in this episode.
 
@@ -675,7 +675,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-546** Tracy Martin
+**N-545** Tracy Martin
 
 Existing node reused for new claims in this episode.
 
@@ -683,7 +683,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-554** Tracy Martin's Daughter (Unnamed)
+**N-553** Tracy Martin's Daughter (Unnamed)
 
 Existing node reused for new claims in this episode.
 
@@ -691,7 +691,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-555** Carrie Prejean Boller
+**N-554** Carrie Prejean Boller
 
 Existing node reused for new claims in this episode.
 
@@ -699,7 +699,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-710** John F. Kennedy
+**N-708** John F. Kennedy
 
 Existing node reused for new claims in this episode.
 
@@ -1036,7 +1036,7 @@ Claim Timestamp: 00:26:41
 Claim: In a TikTok clip the host plays, an unnamed TikToker says a USA Today article posted shortly after Charlie Kirk's assassination states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.
 
 Anchored Artifacts: A-1764.1, A-1769.1
-Mentions: N-2, N-1, N-561
+Mentions: N-2, N-1, N-560
 
 Related Nodes: N-10502
 
@@ -1051,7 +1051,7 @@ Claim Timestamp: 00:27:38
 Claim: In a TikTok clip the host plays, an unnamed TikToker says an Epstein document performing an official name search for Lynn Forester (aka Lindy Rothschild) lists her as the Corcoran Group Inc. President, with a redacted email.
 
 Anchored Artifacts: A-1765.1, A-1769.1
-Mentions: N-558, N-561
+Mentions: N-557, N-560
 
 Related Nodes: N-10502
 
@@ -1123,7 +1123,7 @@ Claim Timestamp: 00:20:40
 Claim: Megyn Kelly stated on Piers Morgan's show that Charlie Kirk was starting to have serious questions about Israel, including its influence on American politicians.
 
 Anchored Artifacts: A-1768.1
-Mentions: N-1, N-3, N-46, N-205
+Mentions: N-1, N-3, N-46, N-204
 
 
 Investigative Direction: Identify other inner-circle witnesses to Charlie Kirk's evolving views; obtain any contemporaneous written communications.
@@ -1137,7 +1137,7 @@ Claim Timestamp: 00:21:00
 Claim: Megyn Kelly stated on Piers Morgan's show that she and Charlie Kirk spent hours and hours discussing Israel.
 
 Anchored Artifacts: A-1768.1
-Mentions: N-1, N-46, N-205
+Mentions: N-1, N-46, N-204
 
 
 Investigative Direction: Locate any corroborating communications (messages, recordings) between Kelly and Charlie Kirk on Israel topics.
@@ -1151,7 +1151,7 @@ Claim Timestamp: 00:20:45
 Claim: Megyn Kelly stated on Piers Morgan's show that she was pressured to condemn Candace Owens over Israel-related questions and refused.
 
 Anchored Artifacts: A-1768.1
-Mentions: N-3, N-46, N-205
+Mentions: N-3, N-46, N-204
 
 
 Investigative Direction: Identify the parties alleged to have applied pressure; obtain any public or private documentation of the pressure campaign.
@@ -1165,7 +1165,7 @@ Claim Timestamp: 00:20:02
 Claim: Megyn Kelly stated on Piers Morgan's show that Candace Owens had not appeared on her show in several years.
 
 Anchored Artifacts: A-1768.1
-Mentions: N-3, N-46, N-205
+Mentions: N-3, N-46, N-204
 
 
 Investigative Direction: Verify against Kelly's guest appearance logs.
@@ -1179,7 +1179,7 @@ Claim Timestamp: 00:26:41
 Claim: In a TikTok clip the host plays, an unnamed TikToker raises the question of whether Erika Kirk's employment at the Corcoran Group could serve as a vehicle to launder payments.
 
 Anchored Artifacts: A-1769.1
-Mentions: N-2, N-561
+Mentions: N-2, N-560
 
 Related Nodes: N-10502
 
@@ -1194,7 +1194,7 @@ Claim Timestamp: 00:37:32
 Claim: The host says a man who gave his name as "Mike" was recorded outside Aubrey Laitsch's home photographing the car, its license plate and the home, and said a legal firm asked him to take photos.
 
 Anchored Artifacts: A-1771.1
-Mentions: N-552, N-560
+Mentions: N-551, N-559
 
 
 Investigative Direction: Identify the legal firm referenced; determine whether this individual is licensed as a process server or private investigator.
@@ -1224,7 +1224,7 @@ Claim: The host says it is a fact that Erika Kirk's assistant, the daughter of T
 Transcript Snippet: However, it is a fact that she was supposed to go to UVU on September 10th.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-546, N-554
+Mentions: N-3, N-2, N-545, N-553
 Related Nodes: N-10485
 Investigative Direction: Establish the assistant's September 10 travel plans and who changed them.
 
@@ -1239,7 +1239,7 @@ Claim: The host calls it a lie that Charlie Kirk was bubbling over with exciteme
 Transcript Snippet: Charlie was not bubbling over in excitement to go answer questions from the likes of Hunter Kozak.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-2, N-327
+Mentions: N-3, N-1, N-2, N-326
 Related Nodes: 
 Investigative Direction: Compare Erika Kirk's account of the night before against texts and witnesses from September 9.
 
@@ -1254,7 +1254,7 @@ Claim: The host says Tracy Martin has been Erika Kirk's best friend for over 15 
 Transcript Snippet: Erika's best friend for over 15 years, a woman by the name of Tracy Martin.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-546
+Mentions: N-3, N-2, N-545
 Tags: relevance:core
 Investigative Direction: Confirm the friendship and its length through Tracy Martin's public history with Erika Kirk, such as dated photographs, posts or mutual acquaintances.
 
@@ -1269,7 +1269,7 @@ Claim: The host says her tip was that Tracy Martin may have been with Erika Kirk
 Transcript Snippet: we were working off of a tip that Tracy may have been with Erika when Erika got the call from Elizabeth and Mikey McCoy
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-546, N-218, N-191
+Mentions: N-3, N-2, N-545, N-217, N-190
 Related Nodes: N-10482
 Tags: relevance:core
 Investigative Direction: Obtain the phone records or witness accounts of the McCoy calls to Erika on September 10 and identify who was physically present with her.
@@ -1285,7 +1285,7 @@ Claim: The host says she is told that Tracy Martin, who has made her public prof
 Transcript Snippet: I am told that she has denied that claim.
 
 Anchored Artifacts: 
-Mentions: N-3, N-546, N-2
+Mentions: N-3, N-545, N-2
 Tags: relevance:core
 Investigative Direction: Ask Tracy Martin or Erika Kirk's representatives directly whether Martin was with Erika on September 10; identify the host's source for the denial.
 
@@ -1300,7 +1300,7 @@ Claim: The host says that whatever Tracy Martin says about September 10, Martin 
 Transcript Snippet: what Tracy cannot deny is that her daughter is indeed Erika's assistant. I have confirmed that.
 
 Anchored Artifacts: 
-Mentions: N-3, N-546, N-554, N-2
+Mentions: N-3, N-545, N-553, N-2
 Related Nodes: N-10498
 Tags: relevance:core
 Investigative Direction: Verify the daughter's employment with Erika Kirk or TPUSA through payroll, event staffing lists or public tagging of her in Erika's posts.
@@ -1332,7 +1332,7 @@ Claim: The host says that Tracy Martin and her daughter told people in their orb
 Transcript Snippet: Tracy had a bad feeling and so she stopped her daughter from going to UVU. This is now confirmed. It's a fact.
 
 Anchored Artifacts: 
-Mentions: N-3, N-546, N-554
+Mentions: N-3, N-545, N-553
 Related Nodes: N-10503, N-10012
 Tags: relevance:core
 Investigative Direction: Interview the people in Martin's orbit who heard the explanation and obtain any messages in which the bad feeling or the change of plans was discussed.
@@ -1397,7 +1397,7 @@ Claim: The host says Charlie Kirk then had what looks like an emergency Zoom cal
 Transcript Snippet: He then has what looks like an emergency Zoom call with Rabbi Wollicki.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-165
+Mentions: N-3, N-1, N-164
 Related Nodes: N-10169
 Supports: C-1397
 Tags: relevance:core
@@ -1414,7 +1414,7 @@ Claim: The host says Rabbi Wolicki was on the group chat two hours before the ca
 Transcript Snippet: He was on the chat 2 hours earlier before this call when Charlie said that he would no longer be bullied by Jewish donors who play into all of the stereotypes
 
 Anchored Artifacts: A-3050.1, A-3050.1
-Mentions: N-3, N-1, N-165, N-55
+Mentions: N-3, N-1, N-164, N-55
 Related Nodes: N-10187
 Supports: C-1377
 Tags: relevance:core
@@ -1447,7 +1447,7 @@ Claim: The host says that, according to the account she was given, Charlie Kirk 
 Transcript Snippet: And so apparently um he needed Josh Hammer. He also needed this Rabbi all the way in Israel who agreed to wake up at 4:00 a. m. his time to help Charlie with talking points to college students.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-55, N-165
+Mentions: N-3, N-1, N-55, N-164
 Related Nodes: N-10169
 Supports: C-1414
 Tags: relevance:core
@@ -1464,7 +1464,7 @@ Claim: The host says that after the call Charlie Kirk sent text messages to secu
 Transcript Snippet: he sends off text messages to security chief Dan Flood, also to Andrew Kolvet, and he says to them that they are going to kill me.
 
 Anchored Artifacts: A-3050.2, A-3050.2
-Mentions: N-3, N-1, N-271, N-14
+Mentions: N-3, N-1, N-270, N-14
 Related Nodes: N-10340
 Supports: C-6825
 Tags: relevance:core
@@ -1515,7 +1515,7 @@ Claim: The host says Erika's assistant also doubled as an assistant on Charlie K
 Transcript Snippet: she also doubled as an assistant on Charlie's show and the whole gang was there.
 
 Anchored Artifacts: 
-Mentions: N-3, N-554, N-1, N-160, N-191
+Mentions: N-3, N-553, N-1, N-159, N-190
 Related Nodes: N-10498
 Tags: relevance:core
 Investigative Direction: Obtain the September 10 travel and staffing roster for The Charlie Kirk Show and check whether the assistant was scheduled.
@@ -1531,7 +1531,7 @@ Claim: The host alleges that on the day of Charlie Kirk's funeral Erika Kirk and
 Transcript Snippet: Erika and Andrew Kolvet had an emergency three-way call with Dr. Lee Trotter, the surgeon, trying to figure out how to respond to the public about why the 30-ought-6 didn't pass through Charlie's neck.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-14, N-196
+Mentions: N-3, N-2, N-14, N-195
 Related Nodes: N-10447
 Supports: C-6780
 Tags: relevance:core
@@ -1548,7 +1548,7 @@ Claim: The host says Erika allegedly put forth the three-way call, that there wa
 Transcript Snippet: she is the one that suggested that Charlie has a Superman neck.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-1, N-196
+Mentions: N-3, N-2, N-1, N-195
 Related Nodes: N-10447
 Supports: C-6780
 Tags: relevance:core
@@ -1581,7 +1581,7 @@ Claim: The host says Andrew Kolvet posted 'Superman neck' on X and that people w
 Transcript Snippet: we're led to believe for a very long time that that was referring to uh I don't know if something the surgeon said, which she didn't.
 
 Anchored Artifacts: A-1770.1
-Mentions: N-3, N-14, N-196
+Mentions: N-3, N-14, N-195
 Related Nodes: N-10447
 Supports: C-6824
 Tags: relevance:core
@@ -1598,7 +1598,7 @@ Claim: The host says Erika Kirk lied to Glenn Beck when she said Charlie had not
 Transcript Snippet: Erika lied to Glenn Beck about Charlie having not sent around text messages the night before
 
 Anchored Artifacts: A-3050.3
-Mentions: N-3, N-2, N-238, N-1
+Mentions: N-3, N-2, N-237, N-1
 Related Nodes: N-10340
 Tags: relevance:core
 Investigative Direction: Locate the Glenn Beck interview segment and compare Erika Kirk's words with the texts.
@@ -1630,7 +1630,7 @@ Claim: The host says she then confirmed with her person that the message on Dan 
 Transcript Snippet: And then I confirmed to my person that it actually sent on Flood's phone that it wasn't sent on Telegram, it was sent on iMessage.
 
 Anchored Artifacts: A-3050.3
-Mentions: N-3, N-2, N-271
+Mentions: N-3, N-2, N-270
 Related Nodes: N-10340, N-10470
 Tags: relevance:core
 Investigative Direction: Examine Flood's device message log for the platform, sender and timestamp of the text.
@@ -1662,7 +1662,7 @@ Claim: The host lists, among oddities, that Erika Kirk asserted to Bari Weiss th
 Transcript Snippet: Erika asserting to Bari Weiss of all people that Jew hatred is wrong
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-279
+Mentions: N-3, N-2, N-278
 Related Nodes: N-10334
 Tags: relevance:context
 Investigative Direction: Find the Bari Weiss event or interview and the exact words used.
@@ -1710,7 +1710,7 @@ Claim: The host says that as soon as Lyndon Johnson took office after JFK's assa
 Transcript Snippet: as soon as LBJ got into office after JFK's assassination, he reversed course on every single one of JFK's policies.
 
 Anchored Artifacts: 
-Mentions: N-3, N-710
+Mentions: N-3, N-708
 Tags: relevance:tangential
 Investigative Direction: Historians' accounts of Johnson's policy continuity would test this sweeping claim.
 
@@ -1725,7 +1725,7 @@ Claim: The host says that, as with Johnson, Kennedy's enemies seemingly became h
 Transcript Snippet: JFK's enemies seemingly became LBJ's friends. Erika appears to be doing that to me strongly.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-710, N-1
+Mentions: N-3, N-2, N-708, N-1
 Tags: relevance:context
 Investigative Direction: Compare Erika's TPUSA policies and alliances since September 2025 with Charlie's stated positions.
 
@@ -1852,7 +1852,7 @@ Claim: The host says Piers Morgan actually does platform her, yet critics do not
 Transcript Snippet: They don't go after people like Piers Morgan, who actually He actually does platform me.
 
 Anchored Artifacts: 
-Mentions: N-3, N-205
+Mentions: N-3, N-204
 Tags: relevance:context
 Investigative Direction: List Piers Morgan's interviews with the host.
 
@@ -1867,7 +1867,7 @@ Claim: In the Piers Morgan clip, Morgan says that some of what Candace Owens has
 Transcript Snippet: I do think is really regrettable, kind of conspiracy theory nonsense just for clicks and money.
 
 Anchored Artifacts: A-1768.1
-Mentions: N-205, N-3, N-2, N-82
+Mentions: N-204, N-3, N-2, N-82
 Tags: relevance:core
 Investigative Direction: Locate the Piers Morgan interview with Megyn Kelly and verify the exact question.
 
@@ -1945,7 +1945,7 @@ Claim: The unnamed TikToker says her earlier Romanian Angel video blew up withou
 Transcript Snippet: it was private investigators asking how I found this information, asking me to send them links.
 
 Anchored Artifacts: A-1769.1
-Mentions: N-561
+Mentions: N-560
 Related Nodes: N-11165
 Tags: relevance:context
 Investigative Direction: Identify the TikToker and obtain the messages from the investigators.
@@ -1961,7 +1961,7 @@ Claim: The unnamed TikToker says that if Erika Kirk worked for the Corcoran Grou
 Transcript Snippet: her boss would be Pamela Liebman because Pamela has been the president and CEO of the Corcoran Group since 2000.
 
 Anchored Artifacts: A-1769.1
-Mentions: N-561, N-559, N-2
+Mentions: N-560, N-558, N-2
 Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Verify Liebman's tenure and title with Corcoran Group press releases and New York filings.
@@ -2171,7 +2171,7 @@ Claim: The host says Erika Kirk did a reality dating show even though, according
 Transcript Snippet: doing a reality show dating uh even though you never dated in New York City. Uh at least what you told Bari Weiss.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-279
+Mentions: N-3, N-2, N-278
 Related Nodes: N-10374
 Tags: relevance:core
 Investigative Direction: Identify the reality show, its air date and cast listing.
@@ -2251,7 +2251,7 @@ Claim: The host says Aubrey Laitsch, who was fired from Turning Point USA and sp
 Transcript Snippet: Aubrey Laitsch uh at Turning Point USA, the one who was questioned over the Uber ride by Marina Minas, the CMO over at Turning Point USA
 
 Anchored Artifacts: 
-Mentions: N-3, N-552, N-494
+Mentions: N-3, N-551, N-493
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Interview Aubrey Laitsch and obtain separation records and messages about the Uber ride questioning.
@@ -2267,7 +2267,7 @@ Claim: The host says Laitsch's husband or fiance was also fired from Turning Poi
 Transcript Snippet: her husband or her fiance who also got fired from Turning Point USA just because I guess he's going to marry her or something
 
 Anchored Artifacts: 
-Mentions: N-3, N-552
+Mentions: N-3, N-551
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify the second fired employee and obtain the termination notice.
@@ -2283,7 +2283,7 @@ Claim: The host says the man photographing the Laitsch home and car, who gave hi
 Transcript Snippet: There was no documents in his hand. He delivered nothing to him and he was just taking photos of their home and their car.
 
 Anchored Artifacts: A-1771.1
-Mentions: N-3, N-560, N-552
+Mentions: N-3, N-559, N-551
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify the legal firm named and check whether any lawsuit or service was pending against Lich.
@@ -2299,7 +2299,7 @@ Claim: The host says the man looks like a private investigator and that it looks
 Transcript Snippet: This looks to me like a private investigator. Like Turning Point USA has sent private investigators to gather information on their employees.
 
 Anchored Artifacts: A-1771.1
-Mentions: N-3, N-560
+Mentions: N-3, N-559
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the investigator's license and client from the legal firm and state licensing board.
@@ -2315,7 +2315,7 @@ Claim: The host says she tweeted at Andrew Kolvet for a statement about the man 
 Transcript Snippet: I certainly tweeted at Andrew Kolvet for a statement on this.
 
 Anchored Artifacts: 
-Mentions: N-3, N-14, N-552
+Mentions: N-3, N-14, N-551
 Tags: relevance:core
 Investigative Direction: Check the host's post and any TPUSA reply.
 
@@ -2395,7 +2395,7 @@ Claim: The host says Carrie Prejean Boller stood up at a hearing and asked what 
 Transcript Snippet: she stood up during that hearing and said, "What even is anti-Semitism? Seth, actually, what did you even do at the Hamptons?"
 
 Anchored Artifacts: 
-Mentions: N-3, N-555, N-38, N-1
+Mentions: N-3, N-554, N-38, N-1
 Related Nodes: N-10345
 Tags: relevance:context
 Investigative Direction: Watch the hearing and verify what Prejean Boller said and to whom.
@@ -2411,7 +2411,7 @@ Claim: The host says Laura Loomer and others are saying there are whispers that 
 Transcript Snippet: there's whispers that she's going to be kicked off of the religious committee because she won't bend the knee to Israel.
 
 Anchored Artifacts: 
-Mentions: N-3, N-555, N-60
+Mentions: N-3, N-554, N-60
 Related Nodes: N-11188
 Tags: relevance:context
 Investigative Direction: Check the commission's membership announcements and Loomer's posts.
@@ -2427,7 +2427,7 @@ Claim: The host says Carrie Prejean Boller said that she is a Catholic and that 
 Transcript Snippet: I'm a Catholic. This is not our doctrine. Our doctrine is not that we worship BB Netanyahu.
 
 Anchored Artifacts: 
-Mentions: N-3, N-555, N-36
+Mentions: N-3, N-554, N-36
 Tags: relevance:context
 Investigative Direction: Retrieve Prejean Boller's own remarks to confirm the wording.
 

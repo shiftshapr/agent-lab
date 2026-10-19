@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: d8ac9dcae0b91121530d5b459c0a6eaf3c4d712dba6ebd3a7938c49f5956f34e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-732, N-733, N-11056
+  - Tip-minted Nodes (supplement_2026-10): N-730, N-731, N-11056
   - Hole-minted Nodes (reintro-ep120): N-10684, N-10690, N-10692, N-10723
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5779–C-5852
-  - Reused Nodes Appearing: N-10678, N-10679, N-10680, N-10681, N-4, N-7, N-9, N-14, N-22, N-69, N-97, N-136, N-191, N-225, N-262, N-331, N-530, N-571, N-584, N-646, N-684, N-10000, N-10104, N-10107, N-10110, N-10239, N-10253, N-10319, N-10337, N-10341, N-10346, N-10350, N-10401, N-10447, N-10501, N-10532, N-10537, N-10581, N-10598, N-10651, N-10685, N-10687, N-10688, N-10705, N-10707, N-10729, N-10840, N-10897, N-10983, N-11054, N-10699, N-10703, N-11055, N-11053
+  - Reused Nodes Appearing: N-10678, N-10679, N-10680, N-10681, N-4, N-7, N-9, N-14, N-22, N-69, N-97, N-135, N-190, N-224, N-261, N-330, N-529, N-569, N-582, N-644, N-682, N-10000, N-10104, N-10107, N-10110, N-10239, N-10253, N-10319, N-10337, N-10341, N-10346, N-10350, N-10401, N-10447, N-10501, N-10532, N-10537, N-10581, N-10598, N-10651, N-10685, N-10687, N-10688, N-10705, N-10707, N-10729, N-10840, N-10897, N-10983, N-11054, N-10699, N-10703, N-11055, N-11053
   - (see registers)
 
 # Episode 120 Analysis Record
@@ -165,7 +165,7 @@ Video Timestamp: 00:47:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-278 (Tim Dillon), N-3*
+*Related: N-277 (Tim Dillon), N-3*
 
 ---
 
@@ -311,7 +311,7 @@ Video Timestamp: 00:57:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5851, N-733, N-646*
+*Related: C-5851, N-731, N-644*
 
 ---
 
@@ -496,7 +496,7 @@ The host says Erika welcomed him to open AmFest right after Charlie's death.
 
 ---
 
-**N-136** Judge Tony F. Graf Jr.
+**N-135** Judge Tony F. Graf Jr.
 
 Judge in the Tyler Robinson case (rendered "Graff" and "Graf" in the transcript).
 
@@ -504,7 +504,7 @@ Judge in the Tyler Robinson case (rendered "Graff" and "Graf" in the transcript)
 
 ---
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 The host says he found surgical scrubs for Frank Turek at the hospital.
 
@@ -512,7 +512,7 @@ The host says he found surgical scrubs for Frank Turek at the hospital.
 
 ---
 
-**N-225** Shawn Ryan
+**N-224** Shawn Ryan
 
 Podcast host (rendered "Shawn Ryan" and "Shawn Ryan"); interviewed Brian Harpole.
 
@@ -520,7 +520,7 @@ Podcast host (rendered "Shawn Ryan" and "Shawn Ryan"); interviewed Brian Harpole
 
 ---
 
-**N-262** Terryl Farnsworth
+**N-261** Terryl Farnsworth
 
 TPUSA-linked camera operator (rendered "Teryl Farnsworth" in the transcript); the host says he removed the back footage.
 
@@ -528,7 +528,7 @@ TPUSA-linked camera operator (rendered "Teryl Farnsworth" in the transcript); th
 
 ---
 
-**N-267** Brian Harpole
+**N-266** Brian Harpole
 
 Security figure whose Shawn Ryan interview account of the hospital the host disputes.
 
@@ -536,7 +536,7 @@ Security figure whose Shawn Ryan interview account of the hospital the host disp
 
 ---
 
-**N-278** Tim Dillon
+**N-277** Tim Dillon
 
 Comedian whose parody reading of a purported JD Vance book the host plays.
 
@@ -544,7 +544,7 @@ Comedian whose parody reading of a purported JD Vance book the host plays.
 
 ---
 
-**N-331** Baron Coleman
+**N-330** Baron Coleman
 
 Researcher whom the host credits with having reported on the shirt's fate early on.
 
@@ -552,7 +552,7 @@ Researcher whom the host credits with having reported on the shirt's fate early 
 
 ---
 
-**N-530** Jean-Luc Brunel
+**N-529** Jean-Luc Brunel
 
 Modeling agent named by the host as an Epstein-linked trafficking route in France.
 
@@ -560,7 +560,7 @@ Modeling agent named by the host as an Epstein-linked trafficking route in Franc
 
 ---
 
-**N-571** Faith Kates
+**N-569** Faith Kates
 
 Next Model Management owner, described by the host as very close to Jeffrey Epstein.
 
@@ -568,7 +568,7 @@ Next Model Management owner, described by the host as very close to Jeffrey Epst
 
 ---
 
-**N-584** Mark Epstein
+**N-582** Mark Epstein
 
 Jeffrey Epstein's brother; the host says she could not confirm that he owned the Upper East Side building.
 
@@ -576,7 +576,7 @@ Jeffrey Epstein's brother; the host says she could not confirm that he owned the
 
 ---
 
-**N-646** Mario Nawfal
+**N-644** Mario Nawfal
 
 Host of programming on which, per a viewer comment, Larry Johnson appears.
 
@@ -584,7 +584,7 @@ Host of programming on which, per a viewer comment, Larry Johnson appears.
 
 ---
 
-**N-684** Jon Bray
+**N-682** Jon Bray
 
 Analyst the host credits with identifying the mic as a possible shaped-charge source (rendered "Jon Bray" in the transcript).
 
@@ -864,7 +864,7 @@ Existing topic reused for the Maine conversation claim.
 
 ---
 
-**N-732** Sara Tewell
+**N-730** Sara Tewell
 
 First named by the host at 00:17:36 in episode 120 (rendered "Sarah uh Tool" in the transcript). Front-row student witness who gave three successive media interviews about the shot.
 
@@ -872,7 +872,7 @@ First named by the host at 00:17:36 in episode 120 (rendered "Sarah uh Tool" in 
 
 ---
 
-**N-733** Larry Johnson
+**N-731** Larry Johnson
 
 First named by the host at 00:57:35 in episode 120, while reading a viewer comment. Described in that comment as ex-CIA and a frequent guest on Mario Nawfal's programming.
 
@@ -925,7 +925,7 @@ Claim Timestamp: 00:05:20
 Claim: Brian Harpole states in the Shawn Ryan interview that he personally cut Charlie Kirk's white "freedom shirt" off at the hospital.
 
 Anchored Artifacts: A-2085.1
-Mentions: N-267, N-1, N-225
+Mentions: N-266, N-1, N-224
 
 Related Nodes: N-10676
 
@@ -940,7 +940,7 @@ Claim Timestamp: 00:18:25
 Claim: In her first Fox 13 interview, Sara Tewell stated that Charlie Kirk was shot directly in the heart from her right side, with a single shot.
 
 Anchored Artifacts: A-2086.1
-Mentions: N-732, N-1
+Mentions: N-730, N-1
 
 Related Nodes: N-10677
 
@@ -955,7 +955,7 @@ Claim Timestamp: 00:20:28
 Claim: Approximately 51 minutes after her first interview, Sara Tewell stated in local media that Charlie Kirk was shot in the neck.
 
 Anchored Artifacts: A-2086.2
-Mentions: N-732, N-1
+Mentions: N-730, N-1
 
 Related Nodes: N-10677
 
@@ -970,7 +970,7 @@ Claim Timestamp: 00:21:43
 Claim: In her ABC News interview, Sara Tewell said she thought the shooter was about 200 yards away and that the shot struck Charlie Kirk in the neck, going "right into his left side."
 
 Anchored Artifacts: A-2086.3
-Mentions: N-732, N-1
+Mentions: N-730, N-1
 
 Related Nodes: N-10677
 
@@ -985,7 +985,7 @@ Claim Timestamp: 00:25:38
 Claim: The host says Judge Graf has denied the defense motion to compel Lance Twiggs to appear in person at the preliminary hearing set for the week of July 6.
 
 Anchored Artifacts: A-2092.1
-Mentions: N-40, N-54, N-136
+Mentions: N-40, N-54, N-135
 
 Related Nodes: N-10679
 
@@ -1092,7 +1092,7 @@ Claim: The host says someone pointed out to her that Baron Coleman, in his early
 Transcript Snippet: someone pointed out to me that Baron Coleman had already furnished the answer to it as well as other people a long time ago actually in his early days of covering the case.
 
 Anchored Artifacts:
-Mentions: N-331, N-1
+Mentions: N-330, N-1
 Related Nodes: N-10707
 Investigative Direction: Locate Coleman's early posts or videos on the shirt and compare them with Harpole's later Shawn Ryan account.
 
@@ -1154,7 +1154,7 @@ Claim: The host says Brian Harpole joined Shawn Ryan for what she calls a "car c
 Transcript Snippet: according to Brian Harpole, who joined Shawn Ryan for a car crash interview, for which I'm being sued over.
 
 Anchored Artifacts: A-2085.1
-Mentions: N-267, N-225, N-3
+Mentions: N-266, N-224, N-3
 Related Nodes: N-10651
 Investigative Direction: Obtain the complaint and identify which statements about the Shawn Ryan interview are at issue.
 
@@ -1169,7 +1169,7 @@ Claim: In the Shawn Ryan clip, Harpole says he put Charlie on a gurney, wheeled 
 Transcript Snippet: We put him on a gurney, and then I wheel him into a room. I start uh giving um uh the patient information uh to the staff there.
 
 Anchored Artifacts: A-2085.1
-Mentions: N-267, N-1
+Mentions: N-266, N-1
 Related Nodes: N-10684
 Supports: C-2935
 Investigative Direction: Obtain Timpanogos Hospital triage and ER records for the arrival, including who took patient information and when the shirt was removed.
@@ -1185,7 +1185,7 @@ Claim: In the clip, Harpole says he went back and forth with staff on drugs and 
 Transcript Snippet: stood outside uh the room and held guard on the outside door of the room so nobody else could come in there.
 
 Anchored Artifacts: A-2085.1
-Mentions: N-267
+Mentions: N-266
 Related Nodes: N-10684
 Investigative Direction: Interview ER staff on duty about whether an unauthorized person directed care or guarded the door; obtain the hospital security log.
 
@@ -1215,7 +1215,7 @@ Claim: The host says Harpole previously said they did not do CPR during an 8-min
 Transcript Snippet: you told us that you didn't even do CPR. It was an 8-minute car ride. Now you're you're you want to defibrillate and bring his heart back online.
 
 Anchored Artifacts: A-2085.1
-Mentions: N-267
+Mentions: N-266
 Related Nodes: N-10687, N-10699
 Investigative Direction: Compare Harpole's earlier statements on CPR with the Shawn Ryan transcript and Frank Turek's own account of the ride.
 
@@ -1246,7 +1246,7 @@ Claim: The host says that according to Harpole, Frank Turek did not touch Charli
 Transcript Snippet: According to Brian, he was just praying in the back seat. But for some reason, Frank notes that when he got to the hospital, he got changed.
 
 Anchored Artifacts: A-2085.1
-Mentions: N-267, N-7, N-191, N-1
+Mentions: N-266, N-7, N-190, N-1
 Related Nodes: N-10688, N-10699
 Investigative Direction: Find Turek's own statement about changing clothes and the hospital's record of scrubs issued; ask what happened to the clothing he removed.
 
@@ -1292,7 +1292,7 @@ Claim: The host says Jon Bray immediately identified the mic as the potential so
 Transcript Snippet: Jon Bray, who immediately identified the mic as the potential source of a shaped charge explosion, was on the pursuit looking for shattered ABS glass from the Rode Wireless Pro.
 
 Anchored Artifacts:
-Mentions: N-684
+Mentions: N-682
 Related Nodes: N-10705
 Supports: C-4613
 Investigative Direction: Obtain Bray's original posts and the source images he used, with dates.
@@ -1354,7 +1354,7 @@ Claim: In her first interview, Sara Tewell says the second student was talking a
 Transcript Snippet: the second student to get up was talking about transgenderism and how um gun violence has been very frequent with that community, and that is when it happened.
 
 Anchored Artifacts: A-2086.1
-Mentions: N-732
+Mentions: N-730
 Related Nodes: N-10677
 Investigative Direction: Compare with the event video to establish the topic being discussed at the moment of the shot.
 
@@ -1369,7 +1369,7 @@ Claim: The host says the first interview was at 1:17 p.m. and the second about 5
 Transcript Snippet: That's what she said at 1:17 p. m. But then just 50 minutes later, she gives another interview, and her story has changed. This is given at around 2:08 p. m.
 
 Anchored Artifacts: A-2086.1, A-2086.2
-Mentions: N-732
+Mentions: N-730
 Related Nodes: N-10677
 Investigative Direction: Obtain broadcast metadata for both interviews to verify air times.
 
@@ -1384,7 +1384,7 @@ Claim: The host says Sara Tewell's ABC News estimate of how far away the shot wa
 Transcript Snippet: She's even able to confirm how many yards away the bullet was fired from, and it incredibly matches the distance to Losee Center.
 
 Anchored Artifacts: A-2086.3
-Mentions: N-732
+Mentions: N-730
 Related Nodes: N-10677
 Investigative Direction: Measure the distance from the courtyard seat to the Losee Center roof position and compare with Tool's figure.
 
@@ -1444,7 +1444,7 @@ Claim: The host says Terryl Farnsworth violated the crime scene to remove the ba
 Transcript Snippet: It explains why Teryl Farnsworth violated the crime scene to remove the back footage.
 
 Anchored Artifacts:
-Mentions: N-262
+Mentions: N-261
 Related Nodes: N-10346
 Investigative Direction: Obtain the original camera files, chain-of-custody records and police statements about Farnsworth's access to the scene.
 
@@ -1579,7 +1579,7 @@ Claim: The host says the judge ruled that the hearing's purpose is not to decide
 Transcript Snippet: the judge has ruled that the purpose of this hearing uh is not going to be decide to decide upon Robinson's guilt, but rather to determine if there's enough evidence to move the case forward.
 
 Anchored Artifacts: A-2092.1
-Mentions: N-136, N-40
+Mentions: N-135, N-40
 Related Nodes: N-10679
 Investigative Direction: Read the written ruling for the court's reasoning on admissibility of hearsay at the preliminary hearing.
 
@@ -1624,7 +1624,7 @@ Claim: The host recounts a tip she says was well vetted that Erika was in charge
 Transcript Snippet: we had received a a well-vetted tip that Erika was in charge of, {quote} modeling apartments for a bunch of underaged East Eastern European girls who were being brought to as and shuffled through Next Model Management
 
 Anchored Artifacts:
-Mentions: N-2, N-571
+Mentions: N-2, N-569
 Related Nodes: N-10532
 Supports: C-4393
 Investigative Direction: Identify the building and obtain leasing, agency and licensing records tying Erika Frantzve to the apartments.
@@ -1640,7 +1640,7 @@ Claim: The host says Faith Kates' emails appear throughout the released Epstein 
 Transcript Snippet: You can read Faith Kates' emails all throughout Jeffrey Epstein's emails
 
 Anchored Artifacts:
-Mentions: N-571, N-9
+Mentions: N-569, N-9
 Related Nodes: N-10532
 Supports: C-2423
 Investigative Direction: Search the released Epstein email set for Kates and quantify the messages by date and subject.
@@ -1686,7 +1686,7 @@ Claim: The host says she could not confirm whether the building was the one owne
 Transcript Snippet: we were not able to confirm, if that white Upper East Side in the '60s of the Upper East Side may have been the one that was owned by Mark Epstein, Jeffrey Epstein's brother.
 
 Anchored Artifacts:
-Mentions: N-584, N-9
+Mentions: N-582, N-9
 Related Nodes: N-10532
 Investigative Direction: Check New York property records for buildings owned by Mark Epstein on the Upper East Side.
 
@@ -1748,7 +1748,7 @@ Claim: The host says Epstein trafficked many women from Eastern Europe through m
 Transcript Snippet: This was his thing of how he trafficked a lot of women from the Eastern Europe through modeling agencies like the one with Jean-Luc Brunel in France.
 
 Anchored Artifacts:
-Mentions: N-9, N-530
+Mentions: N-9, N-529
 Related Nodes: N-10401
 Investigative Direction: Cite court findings and released documents regarding Brunel's agency and Epstein's use of modeling pipelines.
 
@@ -1763,7 +1763,7 @@ Claim: The host says Faith Kates remained Epstein's loyal defender after he was 
 Transcript Snippet: Faith Kates was his loyal defender and it ended up costing her um her entire reputation, her career really.
 
 Anchored Artifacts:
-Mentions: N-571, N-9
+Mentions: N-569, N-9
 Related Nodes: N-10532
 Investigative Direction: Gather press coverage and released emails showing Kates's statements and actions after 2008.
 
@@ -2053,7 +2053,7 @@ Claim: In the clip, Tim Dillon reads a satirical excerpt from a book titled "God
 Transcript Snippet: we have here an excerpt from the book God chose me by J. D. Vance. Here we are. After sacrificing Charlie Kirk to the entity Baal, I began to think about my faith.
 
 Anchored Artifacts: A-2090.1
-Mentions: N-278, N-4, N-1
+Mentions: N-277, N-4, N-1
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: Locate the original Tim Dillon episode and confirm the segment is presented as comedy.
@@ -2069,7 +2069,7 @@ Claim: In the clip the host plays, Tim Dillon says many people will say the exce
 Transcript Snippet: many people are going to say, "Well, that's not technically in his book." It's the essence of the book.
 
 Anchored Artifacts: A-2090.1
-Mentions: N-4, N-278
+Mentions: N-4, N-277
 Related Nodes:
 Investigative Direction: Confirm with the original Dillon source that the excerpt is invented.
 
@@ -2176,7 +2176,7 @@ Claim: A viewer comment read by the host says ex-CIA Larry Johnson, often on wit
 Transcript Snippet: Larry Johnson is ex-CIA and often on with Mario Nawfal discussing he says the 30-odd-6 narrative is BS and the Egyptian planes could be intelligence related.
 
 Anchored Artifacts: A-2782.3
-Mentions: N-733, N-646
+Mentions: N-731, N-644
 Related Nodes: N-10319, N-10253
 Investigative Direction: Locate the Nawfal appearance and Johnson's actual statements.
 

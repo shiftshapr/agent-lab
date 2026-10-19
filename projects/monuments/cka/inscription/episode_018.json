@@ -59,7 +59,7 @@
             "C-1431"
           ],
           "related_nodes": [
-            "N-175",
+            "N-174",
             "N-10182"
           ],
           "tags": [],
@@ -105,8 +105,8 @@
             "C-1437"
           ],
           "related_nodes": [
+            "N-174",
             "N-175",
-            "N-176",
             "N-10182"
           ],
           "tags": [],
@@ -133,7 +133,7 @@
             "C-1438"
           ],
           "related_nodes": [
-            "N-176",
+            "N-175",
             "N-10180",
             "N-10181"
           ],
@@ -238,7 +238,7 @@
             "C-1458"
           ],
           "related_nodes": [
-            "N-179"
+            "N-178"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -289,7 +289,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-177"
+            "N-176"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -417,8 +417,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-175",
-      "ref": "N-175",
+      "@id": "N-174",
+      "ref": "N-174",
       "name": "Cooper Brown",
       "type": "person",
       "description": "Event volunteer who held the microphone at the Utah Valley event and gave multiple Fox News interviews; identified by host as not a TPUSA employee, not a UVU student, and as affiliated with the Leadership Institute.",
@@ -443,14 +443,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-176",
+        "N-175",
         "N-10182"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-176",
-      "ref": "N-176",
+      "@id": "N-175",
+      "ref": "N-175",
       "name": "Jason Chaffetz",
       "type": "person",
       "description": "Former politician and Fox News contributor who attended the Utah Valley event and provided eyewitness account that the shot came from close proximity straight ahead.",
@@ -472,8 +472,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-177",
-      "ref": "N-177",
+      "@id": "N-176",
+      "ref": "N-176",
       "name": "Deirdre Amaro",
       "type": "person",
       "description": "Utah State Medical Examiner as of May 2024, per host's research; reportedly from Missouri with prior California work.",
@@ -513,8 +513,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-164",
-      "ref": "N-164",
+      "@id": "N-163",
+      "ref": "N-163",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Commentator whose reaction to the released Josh Hammer / Charlie Kirk text exchange is read/played.",
@@ -532,8 +532,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-179",
-      "ref": "N-179",
+      "@id": "N-178",
+      "ref": "N-178",
       "name": "Jared Kushner",
       "type": "person",
       "description": "Featured via Harvard speech clip regarding Gaza's \"waterfront property.\"",
@@ -572,7 +572,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-14",
-        "N-176"
+        "N-175"
       ]
     },
     {
@@ -597,7 +597,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-176"
+        "N-175"
       ]
     },
     {
@@ -625,8 +625,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-175",
-        "N-176"
+        "N-174",
+        "N-175"
       ]
     },
     {
@@ -646,7 +646,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-177"
+        "N-176"
       ]
     },
     {
@@ -738,7 +738,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-14",
-        "N-164"
+        "N-163"
       ]
     },
     {
@@ -760,7 +760,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-175"
+        "N-174"
       ]
     },
     {
@@ -1106,8 +1106,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-873",
-      "ref": "N-873",
+      "@id": "N-870",
+      "ref": "N-870",
       "name": "Steve Witkoff",
       "type": "person",
       "description": "US negotiator the host names with Kushner at the Israel and Hamas talks.",
@@ -1696,7 +1696,7 @@
       "claim_timestamp": "00:11:30",
       "investigative_direction": "Identify the pusher and verify his institutional affiliation at the time of the event.",
       "mentions_person_refs": [
-        "N-175"
+        "N-174"
       ]
     },
     {
@@ -1716,7 +1716,7 @@
       "claim_timestamp": "00:13:06",
       "investigative_direction": "Confirm Leadership Institute employment records and verify the organization's claimed coalition roles.",
       "mentions_person_refs": [
-        "N-175"
+        "N-174"
       ]
     },
     {
@@ -1735,7 +1735,7 @@
       "claim_timestamp": "00:13:06",
       "investigative_direction": "Verify timestamp and full segment via Fox News archives.",
       "mentions_person_refs": [
-        "N-175"
+        "N-174"
       ]
     },
     {
@@ -1754,7 +1754,7 @@
       "claim_timestamp": "00:13:58",
       "investigative_direction": "Verify timestamp and full segment via Fox News archives.",
       "mentions_person_refs": [
-        "N-175"
+        "N-174"
       ]
     },
     {
@@ -1773,7 +1773,7 @@
       "claim_timestamp": "00:14:50",
       "investigative_direction": "Cross-reference event staff logs or volunteer rosters provided by organizers.",
       "mentions_person_refs": [
-        "N-175"
+        "N-174"
       ]
     },
     {
@@ -1792,7 +1792,7 @@
       "claim_timestamp": "00:16:16",
       "investigative_direction": "Pull registrar verification or alumni records (subject to FERPA limits).",
       "mentions_person_refs": [
-        "N-175"
+        "N-174"
       ]
     },
     {
@@ -1811,7 +1811,7 @@
       "claim_timestamp": "00:16:16",
       "investigative_direction": "Confirm whether the female same-name individual is or is not the same person through independent records.",
       "mentions_person_refs": [
-        "N-175"
+        "N-174"
       ]
     },
     {
@@ -1831,7 +1831,7 @@
       "claim_timestamp": "00:23:00",
       "investigative_direction": "Confirm full segment and any subsequent Chaffetz statements on the topic.",
       "mentions_person_refs": [
-        "N-176"
+        "N-175"
       ]
     },
     {
@@ -1867,7 +1867,7 @@
       "claim_timestamp": "00:18:33",
       "investigative_direction": "Locate Utah state announcement and prior employment records.",
       "mentions_person_refs": [
-        "N-177"
+        "N-176"
       ]
     },
     {
@@ -2152,7 +2152,7 @@
       "claim_timestamp": "00:49:13",
       "investigative_direction": "Verify full Harvard event recording and transcript.",
       "mentions_person_refs": [
-        "N-179"
+        "N-178"
       ]
     },
     {
@@ -2171,7 +2171,7 @@
       "claim_timestamp": "00:52:15",
       "investigative_direction": "Verify clip source and full Matt Walsh segment.",
       "mentions_person_refs": [
-        "N-164",
+        "N-163",
         "N-1"
       ]
     },
@@ -2467,7 +2467,7 @@
       "investigative_direction": "Compare the viral shoving footage with Cooper Brown's Fox News appearances to confirm the two are the same person.",
       "transcript_snippet": "that young man, whose name is Cooper, and I'm very comfortable telling you this because well, he went on Fox News that very night to provide eyewitness testimony to exactly what he heard and what he saw",
       "mentions_person_refs": [
-        "N-175",
+        "N-174",
         "N-3"
       ]
     },
@@ -2488,7 +2488,7 @@
       "investigative_direction": "Review the original email and verify the sender's relationship to Cooper Brown without publishing private contact details.",
       "transcript_snippet": "One email said, \"Hey, I'm actually his cousin and here is his number.\" Now, I noticed that that cousin happens to live in Phoenix, Arizona.",
       "mentions_person_refs": [
-        "N-175",
+        "N-174",
         "N-3"
       ]
     },
@@ -2509,7 +2509,7 @@
       "investigative_direction": "Reconcile the number's carrier and listing records with Cooper Brown's stated Utah and New Hampshire history; the existing C-1437 may blend this with the same-name graduate.",
       "transcript_snippet": "a Phoenix-based number. So, I'm going, \"Who is this person? And why is it linking that number to somebody else who's 32 years old and has that same last name?\"",
       "mentions_person_refs": [
-        "N-175",
+        "N-174",
         "N-3"
       ]
     },
@@ -2533,7 +2533,7 @@
       "investigative_direction": "Obtain the UVU event volunteer roster and microphone assignment, and ask UVU chapter students who normally held the microphone.",
       "transcript_snippet": "That's supposed to be like kind of an honor at Utah events. Turning Point USA kids work really hard to put these events on.",
       "mentions_person_refs": [
-        "N-175",
+        "N-174",
         "N-3"
       ]
     },
@@ -2577,7 +2577,7 @@
       "transcript_snippet": "this person an email insisted to me that this is somebody that we should look further into. That's the medical examiner.",
       "mentions_person_refs": [
         "N-3",
-        "N-177"
+        "N-176"
       ]
     },
     {
@@ -2600,7 +2600,7 @@
       "transcript_snippet": "And uh if you've got something, you know this her personally, got a story, please do send it to us at mortips@candisowens. com.",
       "mentions_person_refs": [
         "N-3",
-        "N-177"
+        "N-176"
       ]
     },
     {
@@ -2755,7 +2755,7 @@
       "investigative_direction": "Ask Chaffetz or his office what contact he had with Charlie or his team before 9/10.",
       "transcript_snippet": "He apparently was in communication with Charlie ahead of the event",
       "mentions_person_refs": [
-        "N-176",
+        "N-175",
         "N-1",
         "N-3"
       ]
@@ -2784,7 +2784,7 @@
         "C-1438"
       ],
       "mentions_person_refs": [
-        "N-176"
+        "N-175"
       ]
     },
     {
@@ -2807,7 +2807,7 @@
       "investigative_direction": "Confirm in the Fox transcripts that Chaffetz rejects the building theory; the building name is transcribed as Losee and is probably the Losee Center.",
       "transcript_snippet": "when he's on Fox News and people are saying the shot was from like the Losee building, he doesn't believe that.",
       "mentions_person_refs": [
-        "N-176"
+        "N-175"
       ]
     },
     {
@@ -2827,7 +2827,7 @@
       "investigative_direction": "Verify the claim against Chaffetz's public biography; the statement is odd and may be garbled in transcription.",
       "transcript_snippet": "His parents are in the government. They're literally in the FBI.",
       "mentions_person_refs": [
-        "N-176"
+        "N-175"
       ]
     },
     {
@@ -2919,7 +2919,7 @@
       "investigative_direction": "Survey network coverage of 9/10 and count interviewees with verified UVU enrollment.",
       "transcript_snippet": "There's no UVU kids that were in the mainstream media.",
       "mentions_person_refs": [
-        "N-175",
+        "N-174",
         "N-3"
       ]
     },
@@ -3344,8 +3344,8 @@
       "investigative_direction": "Check the participants and arrival timing against press reports of the talks.",
       "transcript_snippet": "They arrived on Wednesday morning to represent the US negotiators from Israel and Hamas and the mediators from Qatar and Egypt and Turkey also participated",
       "mentions_person_refs": [
-        "N-873",
-        "N-179",
+        "N-870",
+        "N-178",
         "N-3"
       ]
     },
@@ -3389,7 +3389,7 @@
       "investigative_direction": "Look for any Kushner-linked investment or development vehicle tied to Gaza reconstruction.",
       "transcript_snippet": "Jared Kushner is is involved in He will financially benefit from whatever they build in its place.",
       "mentions_person_refs": [
-        "N-179",
+        "N-178",
         "N-3"
       ]
     },
@@ -3434,7 +3434,7 @@
       "transcript_snippet": "I have no choice but to leave the pro-Israel cause.",
       "mentions_person_refs": [
         "N-1",
-        "N-164",
+        "N-163",
         "N-3"
       ]
     },
@@ -3457,7 +3457,7 @@
       "investigative_direction": "Locate the original Walsh segment and compare with polling on US support for Israel.",
       "transcript_snippet": "I've never seen any side of any argument lose this much support this quickly.",
       "mentions_person_refs": [
-        "N-164"
+        "N-163"
       ]
     },
     {

@@ -32,7 +32,7 @@
             "C-3545"
           ],
           "related_nodes": [
-            "N-270"
+            "N-269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -100,7 +100,7 @@
             "C-3546"
           ],
           "related_nodes": [
-            "N-270"
+            "N-269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -127,7 +127,7 @@
             "C-3548"
           ],
           "related_nodes": [
-            "N-270"
+            "N-269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -153,7 +153,7 @@
             "C-3546"
           ],
           "related_nodes": [
-            "N-270"
+            "N-269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -179,7 +179,7 @@
             "C-3548"
           ],
           "related_nodes": [
-            "N-270"
+            "N-269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -205,7 +205,7 @@
             "C-3549"
           ],
           "related_nodes": [
-            "N-270"
+            "N-269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -266,7 +266,7 @@
             "C-3557"
           ],
           "related_nodes": [
-            "N-270"
+            "N-269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -342,7 +342,7 @@
             "C-3566"
           ],
           "related_nodes": [
-            "N-270"
+            "N-269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -368,7 +368,7 @@
             "C-3564"
           ],
           "related_nodes": [
-            "N-270"
+            "N-269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -556,7 +556,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-270"
+            "N-269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -581,8 +581,8 @@
             "C-14876"
           ],
           "related_nodes": [
-            "N-267",
-            "N-225",
+            "N-266",
+            "N-224",
             "N-7"
           ],
           "tags": [],
@@ -684,10 +684,10 @@
             "C-14944"
           ],
           "related_nodes": [
-            "N-900",
+            "N-897",
             "N-3",
             "N-11310",
-            "N-488"
+            "N-487"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -763,8 +763,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-269",
+      "ref": "N-269",
       "name": "Derek Pepper Williams",
       "type": "person",
       "description": "TPUSA security detail member previously misidentified as Chester Barnes; also known as Pepper Williams. Linked to PGL / Perimeter Global Logistics.",
@@ -879,8 +879,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-209",
-      "ref": "N-209",
+      "@id": "N-208",
+      "ref": "N-208",
       "name": "Jack Hibbs",
       "type": "person",
       "description": "Referenced as Facetime counterpart in Turek hospital narrative the host contrasts with missing fire-captain CPR.",
@@ -899,8 +899,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -926,8 +926,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Dan Flood",
       "type": "person",
       "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
@@ -1021,8 +1021,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-488",
-      "ref": "N-488",
+      "@id": "N-487",
+      "ref": "N-487",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Named by the host at 00:12:02 in episode 123; first introduced in episode 121.",
@@ -1042,8 +1042,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-493",
-      "ref": "N-493",
+      "@id": "N-492",
+      "ref": "N-492",
       "name": "Justin Davis",
       "type": "person",
       "description": "Named by the host at 00:12:13 in episode 147; first introduced in episode 124.",
@@ -1131,8 +1131,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-433",
-      "ref": "N-433",
+      "@id": "N-432",
+      "ref": "N-432",
       "name": "Kimberly Klacik",
       "type": "person",
       "description": "Former Maryland Republican congressional nominee; the host recounts her defamation suit.",
@@ -1149,8 +1149,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-165",
-      "ref": "N-165",
+      "@id": "N-164",
+      "ref": "N-164",
       "name": "Rabbi Pesach Wolicki",
       "type": "person",
       "description": "Rabbi the host says was on the Zoom call with Charlie.",
@@ -1185,8 +1185,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Charlie's aide also called Blakey; named on the Zoom call and as the likely Blakey of the lobby comment.",
@@ -1255,8 +1255,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-330",
-      "ref": "N-330",
+      "@id": "N-329",
+      "ref": "N-329",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "Director of National Intelligence; the host says Kolvet gave her office a false account.",
@@ -1290,8 +1290,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-225",
-      "ref": "N-225",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcaster whose show interviewed Harpole about the ride.",
@@ -1345,8 +1345,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Charlie's staffer who, per the host, provided the scrubs and phoned Jack Hibbs.",
@@ -1385,8 +1385,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-900",
-      "ref": "N-900",
+      "@id": "N-897",
+      "ref": "N-897",
       "name": "Blake Harreff",
       "type": "person",
       "description": "Security team member; the host says he stayed behind, was clean and later wore scrubs.",
@@ -1526,8 +1526,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-366",
-      "ref": "N-366",
+      "@id": "N-365",
+      "ref": "N-365",
       "name": "Diligent Denizen",
       "type": "person",
       "description": "Citizen journalist who released a waiter interview and the receipt.",
@@ -1615,8 +1615,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-903",
-      "ref": "N-903",
+      "@id": "N-900",
+      "ref": "N-900",
       "name": "Miss Noble",
       "type": "person",
       "description": "Neighbor who the host says saw a bald man driving with two other people.",
@@ -1632,8 +1632,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-362",
-      "ref": "N-362",
+      "@id": "N-361",
+      "ref": "N-361",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Fort Huachuca eyewitness; the host says she cannot confirm he saw Erika or Harpole.",
@@ -1805,8 +1805,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-849",
-      "ref": "N-849",
+      "@id": "N-846",
+      "ref": "N-846",
       "name": "Tony Burke",
       "type": "person",
       "description": "Australian minister the host says banned her.",
@@ -1836,7 +1836,7 @@
       "claim_timestamp": "00:01:19",
       "investigative_direction": "Verify identity via personnel records, PGL employment records, and cross-reference with prior on-screen identifications.",
       "mentions_person_refs": [
-        "N-270"
+        "N-269"
       ]
     },
     {
@@ -1853,7 +1853,7 @@
       "claim_timestamp": "00:02:11",
       "investigative_direction": "Confirm employment history via LinkedIn, PGL corporate filings, or defense contracting databases (e.g., USASpending.gov).",
       "mentions_person_refs": [
-        "N-270"
+        "N-269"
       ]
     },
     {
@@ -1870,7 +1870,7 @@
       "claim_timestamp": "00:02:11",
       "investigative_direction": "Identify the other three members and verify each family connection to the global freight/trucking/shipping industry through public records or interviews.",
       "mentions_person_refs": [
-        "N-270"
+        "N-269"
       ]
     },
     {
@@ -1904,7 +1904,7 @@
       "claim_timestamp": "00:10:07",
       "investigative_direction": "Compare the Paramount statement with the Shawn Ryan \"car crash\" interview; obtain transcripts and verify continuity.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -1922,7 +1922,7 @@
       "investigative_direction": "Locate the original FaceTime recording or screenshot; verify the exact wording and sequence of the exchange.",
       "mentions_person_refs": [
         "N-7",
-        "N-209"
+        "N-208"
       ]
     },
     {
@@ -1954,7 +1954,7 @@
       "claim_timestamp": "00:20:42",
       "investigative_direction": "Obtain higher-resolution frame stills; cross-check with independent footage sources.",
       "mentions_person_refs": [
-        "N-900"
+        "N-897"
       ]
     },
     {
@@ -1972,8 +1972,8 @@
       "claim_timestamp": "00:18:51",
       "investigative_direction": "Cross-reference with security team testimony and hospital arrival records; identify when and how Blake reached the hospital.",
       "mentions_person_refs": [
-        "N-900",
-        "N-493",
+        "N-897",
+        "N-492",
         "N-1"
       ]
     },
@@ -1991,7 +1991,7 @@
       "claim_timestamp": "00:20:42",
       "investigative_direction": "Identify when and where Blake obtained the scrubs; obtain hospital visitor logs.",
       "mentions_person_refs": [
-        "N-900"
+        "N-897"
       ]
     },
     {
@@ -2008,7 +2008,7 @@
       "claim_timestamp": "00:20:42",
       "investigative_direction": "Identify scrubs source; obtain hospital records/logs.",
       "mentions_person_refs": [
-        "N-488"
+        "N-487"
       ]
     },
     {
@@ -2025,7 +2025,7 @@
       "claim_timestamp": "00:20:42",
       "investigative_direction": "Identify scrubs source; cross-reference with hospital logs.",
       "mentions_person_refs": [
-        "N-493"
+        "N-492"
       ]
     },
     {
@@ -2042,7 +2042,7 @@
       "claim_timestamp": "00:22:25",
       "investigative_direction": "Identify scrubs source; cross-reference with hospital logs.",
       "mentions_person_refs": [
-        "N-271",
+        "N-270",
         "N-1"
       ]
     },
@@ -2060,7 +2060,7 @@
       "claim_timestamp": "00:25:02",
       "investigative_direction": "Higher-resolution frame analysis; cross-reference with clothing inventories.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2149,7 +2149,7 @@
       "investigative_direction": "Cross-reference cell tower data, surveillance footage, and forensic vehicle evidence with the corrected timeline.",
       "mentions_person_refs": [
         "N-40",
-        "N-903"
+        "N-900"
       ]
     },
     {
@@ -2343,7 +2343,7 @@
       "investigative_direction": "Pull the earlier episode where the Chester Barnes and Integrity Solutions identification was made and check Integrity Solutions staff and contractor lists for any Barnes or Williams.",
       "transcript_snippet": "This individual who we initially named as Chester Barnes, someone that we thought was working with Integrity Solutions",
       "mentions_person_refs": [
-        "N-270"
+        "N-269"
       ]
     },
     {
@@ -2365,7 +2365,7 @@
       "transcript_snippet": "Thanks to our tips inbox, we can correct the record.",
       "mentions_person_refs": [
         "N-3",
-        "N-270"
+        "N-269"
       ]
     },
     {
@@ -2383,7 +2383,7 @@
       "investigative_direction": "Request Williams's DD-214 or Navy service record summary, or an authoritative biography confirming SEAL service.",
       "transcript_snippet": "Derek Pepper Williams, a former Navy Seal who worked in Naval Special Warfare Operations.",
       "mentions_person_refs": [
-        "N-270"
+        "N-269"
       ]
     },
     {
@@ -2406,7 +2406,7 @@
         "C-3544"
       ],
       "mentions_person_refs": [
-        "N-270"
+        "N-269"
       ]
     },
     {
@@ -2445,7 +2445,7 @@
       "investigative_direction": "Public reporting and records on Klacik's earlier employment; treat as a personal-history allegation recorded as said.",
       "transcript_snippet": "I found out that she was like hiding the fact that she was a whole stripper.",
       "mentions_person_refs": [
-        "N-433",
+        "N-432",
         "N-3"
       ]
     },
@@ -2464,7 +2464,7 @@
       "investigative_direction": "Pull the Tennessee court docket and any fee award order in the Klacik v. Owens case; compare with the earlier claim that the suit was dropped in discovery.",
       "transcript_snippet": "sued me for def defamation and she subsequently lost that defamation lawsuit and she had to pay me here in Tennessee because we have anti-SLAP laws gratefully.",
       "mentions_person_refs": [
-        "N-433",
+        "N-432",
         "N-3"
       ]
     },
@@ -2580,9 +2580,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1",
-        "N-165",
+        "N-164",
         "N-55",
-        "N-160",
+        "N-159",
         "N-14"
       ]
     },
@@ -2670,7 +2670,7 @@
       "transcript_snippet": "something that Andrew Kolvet felt the need to give Tulsi Gabbard's office following his death.",
       "mentions_person_refs": [
         "N-14",
-        "N-330",
+        "N-329",
         "N-1"
       ]
     },
@@ -2715,7 +2715,7 @@
         "C-5788"
       ],
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2782,8 +2782,8 @@
         "C-2950"
       ],
       "mentions_person_refs": [
-        "N-267",
-        "N-225",
+        "N-266",
+        "N-224",
         "N-7"
       ]
     },
@@ -2805,7 +2805,7 @@
       "transcript_snippet": "Brian is correct that most of the ride we weren't doing any CPR. We couldn't do CPR. We're trying to stop the bleeding.",
       "mentions_person_refs": [
         "N-7",
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2851,7 +2851,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2873,7 +2873,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2941,8 +2941,8 @@
         "C-11663"
       ],
       "mentions_person_refs": [
-        "N-267",
-        "N-488",
+        "N-266",
+        "N-487",
         "N-7"
       ]
     },
@@ -2985,7 +2985,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-209"
+        "N-208"
       ]
     },
     {
@@ -3009,8 +3009,8 @@
         "C-3386"
       ],
       "mentions_person_refs": [
-        "N-209",
-        "N-191"
+        "N-208",
+        "N-190"
       ]
     },
     {
@@ -3034,7 +3034,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-209"
+        "N-208"
       ]
     },
     {
@@ -3054,7 +3054,7 @@
       "investigative_direction": "Locate the original eyewitness post and verify date, account identity and the claimed vantage point.",
       "transcript_snippet": "there was just one eyewitness that came forward that we could find who claimed to see them arriving at the hospital.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -3120,7 +3120,7 @@
         "C-4711"
       ],
       "mentions_person_refs": [
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -3165,8 +3165,8 @@
         "C-3551"
       ],
       "mentions_person_refs": [
-        "N-493",
-        "N-900"
+        "N-492",
+        "N-897"
       ]
     },
     {
@@ -3190,8 +3190,8 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-900",
-        "N-493"
+        "N-897",
+        "N-492"
       ]
     },
     {
@@ -3211,8 +3211,8 @@
       "investigative_direction": "Review footage of Charlie being carried to the SUV to establish who bore weight.",
       "transcript_snippet": "Dan Flood is also wearing surgical scrubs, but we know he carried Charlie. Rick Cutler certainly carried Charlie and was in the vehicle.",
       "mentions_person_refs": [
-        "N-271",
-        "N-488"
+        "N-270",
+        "N-487"
       ]
     },
     {
@@ -3232,8 +3232,8 @@
       "investigative_direction": "Confirm Davis's role at the hospital from footage and team statements.",
       "transcript_snippet": "He didn't touch Charlie while getting into the vehicle. Neither Justin Davis, by the way.",
       "mentions_person_refs": [
-        "N-900",
-        "N-493"
+        "N-897",
+        "N-492"
       ]
     },
     {
@@ -3274,7 +3274,7 @@
       "investigative_direction": "Obtain the hospital footage and staff statements on Harpole's conduct in the trauma bay.",
       "transcript_snippet": "They're also allowing Brian Harpole to jump on patients and cut their shirts. That doesn't seem to follow protocol.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -3294,7 +3294,7 @@
       "investigative_direction": "Confirm the correct spelling and identity of the man hugged from the original footage and tips.",
       "transcript_snippet": "That's Alex Fria who he just hugged. That there in the corner in the white hat is Rick Cutler.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -3333,7 +3333,7 @@
       "investigative_direction": "Obtain hospital records and statements from Mikey McCoy on whether he issued the scrubs.",
       "transcript_snippet": "I don't know about this story about Mikey handing out surgical scrubs.",
       "mentions_person_refs": [
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -3549,7 +3549,7 @@
         "C-6119"
       ],
       "mentions_person_refs": [
-        "N-366"
+        "N-365"
       ]
     },
     {
@@ -3734,7 +3734,7 @@
       "investigative_direction": "Obtain Mrs. Noble's statement and any doorbell or street camera footage of the vehicle at 12:38 a.m.",
       "transcript_snippet": "That would be why she saw a bald man [snorts] driving with two other people because it wouldn't be Tyler Robinson that was driving.",
       "mentions_person_refs": [
-        "N-903",
+        "N-900",
         "N-40"
       ]
     },
@@ -3793,7 +3793,7 @@
         "C-3888"
       ],
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -3814,9 +3814,9 @@
       "investigative_direction": "Look for lobby camera footage, guest registration or third-party witnesses to corroborate Snow's sighting.",
       "transcript_snippet": "But can we confirm that he actually saw Erika Kirk in the lobby or that he actually saw Brian Harpole? No, because that relies on his memory, right?",
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-2",
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -3952,7 +3952,7 @@
       "investigative_direction": "Identify who Blakey is (the host's wording suggests Blake Neff) and ask others in the lobby what was said.",
       "transcript_snippet": "they had full confidence that it wasn't a conspiracy and they had just found out that Charlie had died.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-3"
       ]
     },
@@ -4107,7 +4107,7 @@
         "C-10045"
       ],
       "mentions_person_refs": [
-        "N-849",
+        "N-846",
         "N-3"
       ]
     },
@@ -4210,7 +4210,7 @@
       "investigative_direction": "Review incoming tips about scrub changes at the hospital or UVU and corroborate with footage.",
       "transcript_snippet": "Email us more tips canoners. com. Maybe you are Blake Harreff and you just want to talk.",
       "mentions_person_refs": [
-        "N-900",
+        "N-897",
         "N-3"
       ]
     },
@@ -4232,8 +4232,8 @@
       "investigative_direction": "Check for any response from Harreff or Cutler to the standing offer.",
       "transcript_snippet": "Maybe you're Rick Cutler and you want to talk. I'll protect you guys as sources.",
       "mentions_person_refs": [
-        "N-900",
-        "N-488",
+        "N-897",
+        "N-487",
         "N-3"
       ]
     },

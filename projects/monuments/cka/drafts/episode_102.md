@@ -16,8 +16,8 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12970–C-13055
   - New Nodes Introduced: N-10666, N-10667
-  - Hole-minted Nodes (wave3): N-432
-  - Reused Nodes Appearing: N-11, N-10373, N-425, N-10664, N-433, N-10665, N-4, N-15, N-46, N-130, N-158, N-214, N-225, N-268, N-279, N-362, N-485, N-486, N-582, N-597, N-801, N-895, N-10000, N-10059, N-10349, N-10367, N-10417, N-10538, N-10609, N-10649, N-10862, N-10897, N-10899, N-10936, N-11001, N-11104, N-11109, N-11182, N-11248, N-11255, N-11287
+  - Hole-minted Nodes (wave3): N-431
+  - Reused Nodes Appearing: N-11, N-10373, N-424, N-10664, N-432, N-10665, N-4, N-15, N-46, N-130, N-157, N-213, N-224, N-267, N-278, N-361, N-484, N-485, N-580, N-595, N-799, N-892, N-10000, N-10059, N-10349, N-10367, N-10417, N-10538, N-10609, N-10649, N-10862, N-10897, N-10899, N-10936, N-11001, N-11104, N-11109, N-11182, N-11248, N-11255, N-11287
   - (see registers)
 
 # Episode Analysis: Monument Episode 102 – "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336"
@@ -342,7 +342,7 @@ Video Timestamp: 00:02:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12972, N-10667, N-10897, N-160*
+*Related: C-12972, N-10667, N-10897, N-159*
 
 ---
 
@@ -385,7 +385,7 @@ Video Timestamp: 00:45:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13014, N-158, N-3*
+*Related: C-13014, N-157, N-3*
 
 ---
 
@@ -398,7 +398,7 @@ Video Timestamp: 00:53:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13045, C-13046, N-10367, N-362*
+*Related: C-13045, C-13046, N-10367, N-361*
 
 ---
 
@@ -411,7 +411,7 @@ Video Timestamp: 00:54:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13048, C-13049, C-13050, N-10373, N-10862, N-225, N-267, N-3*
+*Related: C-13048, C-13049, C-13050, N-10373, N-10862, N-224, N-266, N-3*
 
 ---
 
@@ -430,13 +430,13 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-432** John Amanchukwu
+**N-431** John Amanchukwu
 
 First named by the host at 00:07:32 in episode 102.
 
 *Related: C-2890, C-2891*
 
-**N-433** Kimberly Klacik
+**N-432** Kimberly Klacik
 
 First named by the host at 00:09:42 in episode 102. Aliases: Kim Klacik.
 
@@ -582,7 +582,7 @@ Ian Carroll; the host says he called her as Valhalla threatened her.
 
 ---
 
-**N-155** John Mappin
+**N-154** John Mappin
 
 John Mappin; said to have introduced Charlie to his biggest donor.
 
@@ -590,7 +590,7 @@ John Mappin; said to have introduced Charlie to his biggest donor.
 
 ---
 
-**N-158** The Quartering
+**N-157** The Quartering
 
 The Quartering; subject of a viewer comment about a potential lawsuit.
 
@@ -598,7 +598,7 @@ The Quartering; subject of a viewer comment about a potential lawsuit.
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Blake Neff; his AI concern and subway scenario are the stated reasons for withholding the video.
 
@@ -606,7 +606,7 @@ Blake Neff; his AI concern and subway scenario are the stated reasons for withho
 
 ---
 
-**N-214** Nick Shirley
+**N-213** Nick Shirley
 
 Nick Shirley; subject of the host's favela video skepticism.
 
@@ -614,7 +614,7 @@ Nick Shirley; subject of the host's favela video skepticism.
 
 ---
 
-**N-225** Shawn Ryan
+**N-224** Shawn Ryan
 
 Shawn Ryan; host of the interview in which Harpole appeared.
 
@@ -622,7 +622,7 @@ Shawn Ryan; host of the interview in which Harpole appeared.
 
 ---
 
-**N-267** Brian Harpole
+**N-266** Brian Harpole
 
 Brian Harpole; subject of the alibi and lawsuit claims.
 
@@ -630,7 +630,7 @@ Brian Harpole; subject of the alibi and lawsuit claims.
 
 ---
 
-**N-268** Tim Pool
+**N-267** Tim Pool
 
 Tim Pool; named among those backing Shirley.
 
@@ -638,7 +638,7 @@ Tim Pool; named among those backing Shirley.
 
 ---
 
-**N-279** Bari Weiss
+**N-278** Bari Weiss
 
 Bari Weiss; interviewed Erika with the cut clip about the host.
 
@@ -646,7 +646,7 @@ Bari Weiss; interviewed Erika with the cut clip about the host.
 
 ---
 
-**N-362** Mitch Snow
+**N-361** Mitch Snow
 
 Mitch Snow; the Fort Huachuca eyewitness.
 
@@ -654,7 +654,7 @@ Mitch Snow; the Fort Huachuca eyewitness.
 
 ---
 
-**N-425** Marcus Wada
+**N-424** Marcus Wada
 
 Marcus Wada; TPUSA employee the host calls a former arms dealer.
 
@@ -662,7 +662,7 @@ Marcus Wada; TPUSA employee the host calls a former arms dealer.
 
 ---
 
-**N-485** Blake Lively
+**N-484** Blake Lively
 
 Blake Lively; party in the dispute the host cites.
 
@@ -670,7 +670,7 @@ Blake Lively; party in the dispute the host cites.
 
 ---
 
-**N-486** Justin Baldoni
+**N-485** Justin Baldoni
 
 Justin Baldoni; party in the dispute the host cites.
 
@@ -678,7 +678,7 @@ Justin Baldoni; party in the dispute the host cites.
 
 ---
 
-**N-582** Thomas Massie
+**N-580** Thomas Massie
 
 Thomas Massie; named in a viewer comment.
 
@@ -686,7 +686,7 @@ Thomas Massie; named in a viewer comment.
 
 ---
 
-**N-597** Druski
+**N-595** Druski
 
 Druski (spelled Druski and Druski in the transcript); comedian whose skit mocked Erika.
 
@@ -694,7 +694,7 @@ Druski (spelled Druski and Druski in the transcript); comedian whose skit mocked
 
 ---
 
-**N-801** Harris Faulkner
+**N-799** Harris Faulkner
 
 Harris Faulkner; Fox host who interviewed Erika.
 
@@ -702,7 +702,7 @@ Harris Faulkner; Fox host who interviewed Erika.
 
 ---
 
-**N-895** Bryan Freedman
+**N-892** Bryan Freedman
 
 Bryan Freedman; lawyer whose publish-it-all approach the host cites.
 
@@ -941,7 +941,7 @@ Claim Timestamp: 00:02:41
 Claim: Per posts by Blake Neff that the host reads, he responded to a question about why Andrew Kolvet's wife was not at the White House Correspondents Dinner, arguing that the dinners are held by press outlets and everyone else attends by invitation, asking how anyone knew Kolvet was offered a plus one, noting that Kolvet lives in Phoenix, and questioning how anyone would know his wife's travel preferences.
 
 Anchored Artifacts: A-2065.1
-Mentions: N-14, N-160
+Mentions: N-14, N-159
 
 Related Nodes: N-10667
 
@@ -986,7 +986,7 @@ Claim Timestamp: 00:07:32
 Claim: The host says, citing information from a source who came forward, that Turning Point USA employee Marcus Wada offers AI voice generation services for TPUSA presentations.
 
 Anchored Artifacts: A-2068.1
-Mentions: N-425
+Mentions: N-424
 
 Related Nodes: N-10664
 
@@ -1001,7 +1001,7 @@ Claim Timestamp: 00:07:32
 Claim: Per the source, Turning Point USA presentations typically feature AI-generated voice-over using Pastor John Amanchukwu's voice. The host says she is sure it is done with his permission.
 
 Anchored Artifacts: A-2068.2
-Mentions: N-432
+Mentions: N-431
 
 Related Nodes: N-10664
 
@@ -1016,7 +1016,7 @@ Claim Timestamp: 00:09:42
 Claim: The host says John Mappin shared on X that an Aspen donor told him the moment depicted in the audio never happened.
 
 Anchored Artifacts: A-2069.1
-Mentions: N-155
+Mentions: N-154
 
 Related Nodes: N-10664
 
@@ -1031,7 +1031,7 @@ Claim Timestamp: 00:09:42
 Claim: The host reads a post in which Kimberly Klacik publicly asked on X, if the TPUSA board elected Erika Kirk as CEO and none of the donors had come forward questioning the decision, why the authenticity of the audio matters.
 
 Anchored Artifacts: A-2067.1
-Mentions: N-2, N-433
+Mentions: N-2, N-432
 
 Related Nodes: N-10664
 
@@ -1108,7 +1108,7 @@ Claim Timestamp: 00:18:59
 Claim: Per Baron Coleman and other online researchers, Arizona State University did not offer an international relations degree program at all in 2012, when Erika Kirk claims to have graduated.
 
 Anchored Artifacts: A-2072.1
-Mentions: N-331, N-2
+Mentions: N-330, N-2
 
 Related Nodes: N-10665
 
@@ -1138,7 +1138,7 @@ Claim Timestamp: 00:26:59
 Claim: The host says Nick Shirley is associated with a video claiming he infiltrated the most dangerous gang in Brazil within 48 hours.
 
 Anchored Artifacts: A-2073.1
-Mentions: N-214
+Mentions: N-213
 
 Related Nodes: N-10666
 
@@ -1153,7 +1153,7 @@ Claim Timestamp: 00:28:51
 Claim: In a clip the host plays from Patrick Bet-David's show, Nick Shirley says Candace Owens "came after me uh a while back" and didn't believe his Brazilian favela video; Bet-David asks "Why would Candace Owens come after you?"
 
 Anchored Artifacts: A-2073.2
-Mentions: N-57, N-3, N-214
+Mentions: N-57, N-3, N-213
 
 Related Nodes: N-10666
 
@@ -1168,7 +1168,7 @@ Claim Timestamp: 00:30:15
 Claim: The host reads a post in which Alex Clark wrote: "Nick Shirley is a real journalist. Candace Owens is not."
 
 Anchored Artifacts: A-2074.1
-Mentions: N-3, N-99, N-214
+Mentions: N-3, N-99, N-213
 
 Related Nodes: N-10666
 
@@ -1183,7 +1183,7 @@ Claim Timestamp: 00:49:33
 Claim: The host says that during her private interview Erika Kirk handed her Brian Harpole's flights, which were for 1:49 p.m. on the 9th going to Utah, and that this did not cover the time period in which Mitch said he saw him at Fort Huachuca.
 
 Anchored Artifacts: A-2075.1
-Mentions: N-267, N-2, N-362
+Mentions: N-266, N-2, N-361
 
 Related Nodes: N-10373
 
@@ -1243,7 +1243,7 @@ Claim Timestamp: 00:45:18
 Claim: During Candace's private interview with Erika Kirk, Erika volunteered Brian Harpole's flight records as his alibi – which Candace notes did not actually cover the timeframe of Mitch's sighting.
 
 Anchored Artifacts: A-2075.1
-Mentions: N-267, N-2, N-362
+Mentions: N-266, N-2, N-361
 
 Related Nodes: N-10373
 
@@ -1292,7 +1292,7 @@ Claim: The host reads a post in which Blake Neff replied to Project Constitution
 Transcript Snippet: Blake Neff jumped in. He wrote back to Project Constitution, you are not very smart, are you?
 
 Anchored Artifacts: A-3236.1
-Mentions: N-160
+Mentions: N-159
 Related Nodes: N-10897, N-10667
 Tags: relevance:tangential
 Investigative Direction: Pull Blake Neff's X reply to Project Constitution and confirm its wording, time and the post it answered.
@@ -1340,7 +1340,7 @@ Claim: The host says Blake Neff specifically expressed concern that if TPUSA rel
 Transcript Snippet: Blake has specifically expressed concern, you will recall, that if they do drop it, people will say it's AI.
 
 Anchored Artifacts: 
-Mentions: N-160
+Mentions: N-159
 Related Nodes: N-10936, N-10664
 Tags: relevance:core
 Investigative Direction: Find Blake Neff's own public or private statement expressing this concern, including its date and audience.
@@ -1404,7 +1404,7 @@ Claim: The host describes Marcus Wada as a Turning Point employee who is a forme
 Transcript Snippet: the Turning Point employee that's a rehabilitated former arms dealer.
 
 Anchored Artifacts: 
-Mentions: N-425
+Mentions: N-424
 Related Nodes: N-10609
 Supports: C-11428
 Tags: relevance:context
@@ -1421,7 +1421,7 @@ Claim: The host says John Mappin is the person who introduced Charlie Kirk to hi
 Transcript Snippet: John Mappin, who is the person who introduced Charlie to actually his biggest donor.
 
 Anchored Artifacts: 
-Mentions: N-155, N-1
+Mentions: N-154, N-1
 Tags: relevance:context
 Investigative Direction: Ask John Mappin or TPUSA donor records who the largest donor is and who made the introduction.
 
@@ -1467,7 +1467,7 @@ Claim: The host says viewers can decide whether to believe Blake Neff's subway k
 Transcript Snippet: you guys can take your bets on whether you believe Blake Neff and his uh Subway killer scenario as the reason they won't release the video.
 
 Anchored Artifacts: 
-Mentions: N-160
+Mentions: N-159
 Related Nodes: N-10936
 Tags: relevance:core
 Investigative Direction: Locate Blake Neff's original subway comparison and any TPUSA statement tying it to the non-release of the video.
@@ -1596,7 +1596,7 @@ Claim: The host says people online call Nick Shirley fed jacketed, meaning he is
 Transcript Snippet: like he's this the term that they use here is fed jacketed. Like essentially, he's being created by the media.
 
 Anchored Artifacts: 
-Mentions: N-214
+Mentions: N-213
 Related Nodes: N-10666
 Tags: relevance:tangential
 Investigative Direction: Identify who is using the term and what they cite for the claim that Shirley is media-created.
@@ -1612,7 +1612,7 @@ Claim: The host says she covered the person on her September 10 show while worki
 Transcript Snippet: That's the reason I covered him on the show on September 10th when I was trying to work through timelines and I made a mistake.
 
 Anchored Artifacts: 
-Mentions: N-214, N-3, N-1
+Mentions: N-213, N-3, N-1
 Related Nodes: N-10666
 Tags: relevance:tangential
 Investigative Direction: Review the host's September 10 show and her follow-up conversation with the person for what was said and corrected.
@@ -1628,7 +1628,7 @@ Claim: The host says Nick Shirley is credited with uncovering massive welfare fr
 Transcript Snippet: they say, Nick Fuentes has uncovered massive welfare fraud in the Somalian community in Minnesota.
 
 Anchored Artifacts: 
-Mentions: N-214
+Mentions: N-213
 Related Nodes: N-10666
 Supports: C-8531
 Tags: relevance:tangential
@@ -1645,7 +1645,7 @@ Claim: The host says that after she questioned the video it trended the next day
 Transcript Snippet: it was like trending and all of these people, the people I trust the least, by the way. I mean, like Tim Pool, everyone's like writing these statements
 
 Anchored Artifacts: 
-Mentions: N-214, N-268
+Mentions: N-213, N-267
 Related Nodes: N-10666, N-11287
 Tags: relevance:tangential
 Investigative Direction: Collect the posts defending Shirley and their timing relative to the host's remark.
@@ -1692,7 +1692,7 @@ Claim: The host says Patrick Bet-David pretended to have no idea about her remar
 Transcript Snippet: PBD's pretending he had no idea. He completely already knew I said this.
 
 Anchored Artifacts: A-2073.2
-Mentions: N-57, N-214
+Mentions: N-57, N-213
 Related Nodes: N-10666
 Tags: relevance:tangential
 Investigative Direction: Review the full PBD interview and PBD's earlier statements about Shirley to see whether he had addressed the host's remark before.
@@ -1708,7 +1708,7 @@ Claim: In a clip of her earlier remarks shown on Patrick Bet-David's show, the h
 Transcript Snippet: whoever is your contact that has you infiltrating antifa and infiltrating El Salvador at the age of 23 years old
 
 Anchored Artifacts: 
-Mentions: N-214
+Mentions: N-213
 Related Nodes: N-10666
 Tags: relevance:tangential
 Investigative Direction: Review Shirley's antifa and El Salvador videos for sourcing and the access he claims.
@@ -1724,7 +1724,7 @@ Claim: In the clip, Patrick Bet-David asks whether the host was suggesting Shirl
 Transcript Snippet: Meaning your your handler or you're representing somebody?
 
 Anchored Artifacts: A-2073.2
-Mentions: N-57, N-214
+Mentions: N-57, N-213
 Tags: relevance:tangential
 Investigative Direction: Watch the PBD interview segment and transcribe the full exchange.
 
@@ -1739,7 +1739,7 @@ Claim: In the PBD clip, Nick Shirley says podcasters should leave their studios 
 Transcript Snippet: maybe if these podcasters would actually leave their podcast studios, no offense, Pat, uh they leave their podcast studios and go and like do journalism, like they'd actually see like stuff just sometimes just happens.
 
 Anchored Artifacts: A-2073.2
-Mentions: N-214, N-57
+Mentions: N-213, N-57
 Related Nodes: N-10666
 Tags: relevance:tangential
 Investigative Direction: Obtain the PBD episode and confirm the quote and context.
@@ -1755,7 +1755,7 @@ Claim: The host refers to Nick Shirley as a Mormon kid from Utah.
 Transcript Snippet: A Mormon kid from Utah with the camera
 
 Anchored Artifacts: 
-Mentions: N-214
+Mentions: N-213
 Related Nodes: N-10666
 Supports: C-8533
 Tags: relevance:tangential
@@ -1804,7 +1804,7 @@ Claim: The host says Nick Shirley claims he went to Cuba and was almost taken ho
 Transcript Snippet: He claims he he went to Cuba. He was almost taken hostage.
 
 Anchored Artifacts: 
-Mentions: N-214
+Mentions: N-213
 Related Nodes: N-10963, N-10666
 Tags: relevance:tangential
 Investigative Direction: Review Shirley's Cuba video and posts for what he says happened and when.
@@ -1852,7 +1852,7 @@ Claim: The host says Charlie would have laughed at the Druski skit mocking Erika
 Transcript Snippet: Charlie would have laughed at that stuff, but we see that Erika has taken the Druski skit deadly serious for some reason.
 
 Anchored Artifacts: 
-Mentions: N-1, N-2, N-597
+Mentions: N-1, N-2, N-595
 Related Nodes: N-11356
 Tags: relevance:tangential
 Investigative Direction: Locate the Druski skit and Erika Kirk's or TPUSA's public response to it.
@@ -1868,7 +1868,7 @@ Claim: The host says people including Andrew Kolvet tried to turn the Druski ski
 Transcript Snippet: the people that were trying to turn that into something racial, like Andrew Kolvet, now do like black conservatives.
 
 Anchored Artifacts: 
-Mentions: N-14, N-597, N-2
+Mentions: N-14, N-595, N-2
 Related Nodes: N-11356
 Tags: relevance:tangential
 Investigative Direction: Find Kolvet's and other TPUSA figures' posts characterizing the skit as racial.
@@ -1884,7 +1884,7 @@ Claim: The host says Druski's skits mock many groups, including a skit in which 
 Transcript Snippet: He dressed up like he was Vietnamese person, did this whole nail salon thing.
 
 Anchored Artifacts: 
-Mentions: N-597
+Mentions: N-595
 Related Nodes: N-11356
 Tags: relevance:tangential
 Investigative Direction: Locate the nail salon skit and its date.
@@ -1900,7 +1900,7 @@ Claim: The host says Druski posted a massive video the previous week that target
 Transcript Snippet: just last week he dropped a massive video where he was targeting black British actors and it was hilarious and we just laughed at it.
 
 Anchored Artifacts: 
-Mentions: N-597
+Mentions: N-595
 Related Nodes: N-11356
 Tags: relevance:tangential
 Investigative Direction: Locate the video and its date.
@@ -1965,7 +1965,7 @@ Claim: A comment read by the host says The Quartering is facing a potential laws
 Transcript Snippet: the Quartering has messed with you on X and is now facing a potential lawsuit involving false flagging and deplatforming other YouTube channels, as well as for doxing and harassment.
 
 Anchored Artifacts: A-3239.1
-Mentions: N-158, N-3
+Mentions: N-157, N-3
 Tags: relevance:tangential
 Investigative Direction: Search court dockets for any complaint against The Quartering and who is suing.
 
@@ -1980,7 +1980,7 @@ Claim: The host says she is thinking of putting the whole record online, as Brya
 Transcript Snippet: I'm thinking about doing the Bryan Freedman thing, which was obviously a lawyer Blake Lively Justin Baldoni, where he just put it all online cuz I have nothing to hide.
 
 Anchored Artifacts: 
-Mentions: N-895, N-485, N-486, N-3
+Mentions: N-892, N-484, N-485, N-3
 Related Nodes: N-10649
 Tags: relevance:context
 Investigative Direction: Watch for the host's publication of the Fort Huachuca timeline, messages and documents.
@@ -1996,7 +1996,7 @@ Claim: The host says Mitch's friend emailed her, she called him, and he told his
 Transcript Snippet: it was Mitch's friend that emailed me, and I called him, and he said his story.
 
 Anchored Artifacts: 
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Related Nodes: N-10367
 Tags: relevance:core
 Investigative Direction: The host's original email and call log would show who made first contact.
@@ -2012,7 +2012,7 @@ Claim: The host says Mitch was clear that he saw both Brian Harpole and Erika, a
 Transcript Snippet: He was clear that he saw Brian Harpole and he saw Erika. But, he said he saw Erika Kirk on the 8th, and she wasn't leaving a meeting.
 
 Anchored Artifacts: 
-Mentions: N-362, N-267, N-2
+Mentions: N-361, N-266, N-2
 Related Nodes: N-10367
 Supports: C-1973, C-6761
 Tags: relevance:core
@@ -2029,7 +2029,7 @@ Claim: The host says Mitch saw Brian Harpole on the 9th as he was leaving the me
 Transcript Snippet: Brian Harpole he saw on the 9th, and he was leaving the meeting on Fort Huachuca base, and that was when the cops were called, all of that.
 
 Anchored Artifacts: 
-Mentions: N-362, N-267
+Mentions: N-361, N-266
 Related Nodes: N-10373
 Supports: C-6758
 Tags: relevance:core
@@ -2046,7 +2046,7 @@ Claim: The host says Mitch saw Erika at a hotel, that sighting was not related t
 Transcript Snippet: he saw her at a hotel. It wasn't related to the meeting. He didn't see her with Brian
 
 Anchored Artifacts: 
-Mentions: N-362, N-2, N-267
+Mentions: N-361, N-2, N-266
 Related Nodes: N-10367
 Tags: relevance:core
 Investigative Direction: Candlewood hotel records and security footage for September 8, 2025.
@@ -2079,7 +2079,7 @@ Claim: The host says that when she first presented the story she told Mitch's ba
 Transcript Snippet: I said he saw Brian Harpole on the 9th, right? Removed Erika from it entirely.
 
 Anchored Artifacts: 
-Mentions: N-3, N-267, N-2
+Mentions: N-3, N-266, N-2
 Related Nodes: N-10367
 Tags: relevance:core
 Investigative Direction: Rewatch the host's first Mitch segment to confirm Erika was not named.
@@ -2095,7 +2095,7 @@ Claim: The host says that the day after her first presentation, Erika went on Ha
 Transcript Snippet: Harris Faulkner, she went on that show and then she was all fired up for the first time and like stop conspiracy theories you need to stop. That was the very next day.
 
 Anchored Artifacts: 
-Mentions: N-2, N-801, N-3
+Mentions: N-2, N-799, N-3
 Related Nodes: N-10367
 Supports: C-8066
 Tags: relevance:core
@@ -2112,7 +2112,7 @@ Claim: The host says that the day after the Faulkner interview Erika did Bari We
 Transcript Snippet: Then the day after that she did Bari Weiss and they cut the clip of her saying, "What do you have to say to the podcaster Candace Owens?"
 
 Anchored Artifacts: 
-Mentions: N-2, N-279, N-3
+Mentions: N-2, N-278, N-3
 Related Nodes: N-10349
 Tags: relevance:core
 Investigative Direction: Obtain the full CBS interview and the cut clip.
@@ -2128,7 +2128,7 @@ Claim: The host says she later found out that Erika's side had planned the quest
 Transcript Snippet: I then would later find out that they had planned that the question answer segment
 
 Anchored Artifacts: 
-Mentions: N-2, N-279, N-3
+Mentions: N-2, N-278, N-3
 Related Nodes: N-10349
 Tags: relevance:core
 Investigative Direction: Identify the source of the host's later information and any CBS or TPUSA communications about the question.
@@ -2159,7 +2159,7 @@ Claim: The host says Ian Carroll called her while the Valhalla YouTuber was alre
 Transcript Snippet: I get Ian Carroll calling me and he's got Paramount Tactical I mean uh Valhalla the YouTuber Green Beret basically already threatening me like don't don't interview Mitch.
 
 Anchored Artifacts: 
-Mentions: N-130, N-362, N-3
+Mentions: N-130, N-361, N-3
 Related Nodes: N-11001, N-10899
 Tags: relevance:core
 Investigative Direction: Obtain the threatening messages, the call record with Ian Carroll and the date of each.
@@ -2175,7 +2175,7 @@ Claim: The host says she was threatened with a lawsuit before she had even inter
 Transcript Snippet: So I'm getting threatened with a lawsuit before I even interview Mitch and I'm like dude, what's up?
 
 Anchored Artifacts: 
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Related Nodes: N-11001, N-10899
 Tags: relevance:core
 Investigative Direction: Obtain the written threat and identify its sender.
@@ -2191,7 +2191,7 @@ Claim: The host says she messaged Brian Harpole offering him the chance to debun
 Transcript Snippet: So I message Brian Harpole and I'm like, "Hey, like I'm going to have this guy Mitch on but like we could I could also like if you want to debunk it I'm happy to do.
 
 Anchored Artifacts: 
-Mentions: N-267, N-362, N-3
+Mentions: N-266, N-361, N-3
 Related Nodes: N-10373
 Supports: C-5398
 Tags: relevance:core
@@ -2208,7 +2208,7 @@ Claim: The host says Brian Harpole did not answer her message.
 Transcript Snippet: I haven't yet had Mitch on. He doesn't answer.
 
 Anchored Artifacts: 
-Mentions: N-267, N-3
+Mentions: N-266, N-3
 Related Nodes: N-10373
 Supports: C-6837
 Tags: relevance:core
@@ -2258,7 +2258,7 @@ Claim: The host says Erika told her TPUSA was very upset with Brian Harpole, had
 Transcript Snippet: she said to me that they were very upset with Brian Harpole that they were not they had a communication breakdown with him. They never authorized him to go on the Shawn Ryan show
 
 Anchored Artifacts: 
-Mentions: N-2, N-267, N-225
+Mentions: N-2, N-266, N-224
 Related Nodes: N-10862
 Supports: C-3997
 Tags: relevance:core
@@ -2291,7 +2291,7 @@ Claim: The host says Justin Streiff asked when her show goes off air as Christma
 Transcript Snippet: "When is your show off air?" cuz we were coming up on Christmas, and I was like, "Well, in a couple of days, actually."
 
 Anchored Artifacts: 
-Mentions: N-15, N-3, N-362
+Mentions: N-15, N-3, N-361
 Related Nodes: N-10649
 Tags: relevance:core
 Investigative Direction: The host's notes and any witnesses to the question.
@@ -2307,7 +2307,7 @@ Claim: The host says she interviewed Mitch on the 18th because she had messaged 
 Transcript Snippet: And then I interviewed him. I did it on the 18th.
 
 Anchored Artifacts: 
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Related Nodes: N-10367
 Tags: relevance:core
 Investigative Direction: The episode's air date and the host's publication log.
@@ -2323,7 +2323,7 @@ Claim: The host says messages from Valhalla explicitly threatened to bury her in
 Transcript Snippet: if she does not like basically revoke her commentary about Fort Huachuca, we're going to basically bury her in everything Mitch has done in his past.
 
 Anchored Artifacts: 
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Related Nodes: N-11001, N-10899
 Supports: C-9929
 Tags: relevance:core
@@ -2340,7 +2340,7 @@ Claim: The host says Paramount Tactical and Valhalla called Mitch and played goo
 Transcript Snippet: They were like, "Yeah, brother. Like uh we'd love to have have on the show, fellow green green beret."
 
 Anchored Artifacts: 
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10899, N-11001
 Supports: C-6763
 Tags: relevance:core
@@ -2357,7 +2357,7 @@ Claim: The host says Paramount Tactical and Valhalla told her the opposite of wh
 Transcript Snippet: they were telling me the opposite or trying to tell me the opposite that this is a a case of stolen valor.
 
 Anchored Artifacts: 
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Related Nodes: N-10899, N-11001
 Tags: relevance:core
 Investigative Direction: Compare their messages to the host with their calls to Mitch.
@@ -2473,7 +2473,7 @@ Claim: The host says she fact-checked enough to know Mitch was there and that he
 Transcript Snippet: I obviously fact-checked enough to know that Mitch was there. He had the videos.
 
 Anchored Artifacts: A-3240.1
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10367
 Supports: C-1987
 Tags: relevance:core
@@ -2490,7 +2490,7 @@ Claim: The host says she had Mitch's hotel reservation and confirmed with a sour
 Transcript Snippet: I had his hotel reservation. I had um I had confirmed with a source that his ID tags were real, the military ID tags.
 
 Anchored Artifacts: A-3240.1
-Mentions: N-362
+Mentions: N-361
 Related Nodes: N-10367
 Supports: C-1987, C-8102
 Tags: relevance:core
@@ -2507,7 +2507,7 @@ Claim: The host says the reaction she received moved her from 40/60, maybe 30/70
 Transcript Snippet: So, they took me from being 40/60, maybe even 30/70.
 
 Anchored Artifacts: 
-Mentions: N-3, N-362
+Mentions: N-3, N-361
 Related Nodes: N-10367
 Tags: relevance:context
 Investigative Direction: The host's own earlier statements on her confidence levels.
@@ -2523,7 +2523,7 @@ Claim: The host says the number of times Brian Harpole lies in the lawsuit does 
 Transcript Snippet: And the amount of times that Brian Harpole lies in this lawsuit on its face, to me, does not make me think he was not at Fort Huachuca.
 
 Anchored Artifacts: A-3241.1
-Mentions: N-267
+Mentions: N-266
 Related Nodes: N-10862, N-10373
 Tags: relevance:core
 Investigative Direction: Compare the filing's factual statements with the record.
@@ -2539,7 +2539,7 @@ Claim: The host says Brian Harpole's filing claims she had his alibi and that th
 Transcript Snippet: Him saying Candace had his alibi, they know that is objectively not true.
 
 Anchored Artifacts: A-3241.1
-Mentions: N-267, N-3
+Mentions: N-266, N-3
 Related Nodes: N-10862
 Tags: relevance:core
 Investigative Direction: Read the complaint paragraph on the alibi and compare with the host's account.
@@ -2555,7 +2555,7 @@ Claim: The host says the filing says Harpole went on Shawn Ryan because of the g
 Transcript Snippet: Why are you saying he went on Shawn Ryan because of the grief that I put him through, knowing fully well that I never mentioned him on my show until post-Shawn Ryan?
 
 Anchored Artifacts: A-3241.1
-Mentions: N-267, N-225, N-3
+Mentions: N-266, N-224, N-3
 Related Nodes: N-10862
 Supports: C-2817, C-2816
 Tags: relevance:core
@@ -2572,7 +2572,7 @@ Claim: The host says she messaged Brian Harpole four times.
 Transcript Snippet: I messaged him four times
 
 Anchored Artifacts: 
-Mentions: N-267, N-3
+Mentions: N-266, N-3
 Related Nodes: N-10373
 Tags: relevance:core
 Investigative Direction: The message thread would show the count; earlier episodes gave smaller numbers.
@@ -2588,7 +2588,7 @@ Claim: The host says Harpole's side has still not provided receipts for his wher
 Transcript Snippet: They still have not provided any receipts as to his whereabouts on the morning of the 9th and I look forward to getting them.
 
 Anchored Artifacts: 
-Mentions: N-267
+Mentions: N-266
 Related Nodes: N-10373, N-10862
 Tags: relevance:core
 Investigative Direction: Check the court docket for any submitted alibi evidence.

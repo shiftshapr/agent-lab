@@ -30,7 +30,7 @@
             "C-2026"
           ],
           "related_nodes": [
-            "N-267"
+            "N-266"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -83,9 +83,9 @@
             "C-2029"
           ],
           "related_nodes": [
-            "N-399",
+            "N-398",
+            "N-405",
             "N-406",
-            "N-407",
             "N-10392"
           ],
           "tags": [],
@@ -112,7 +112,7 @@
             "C-2034"
           ],
           "related_nodes": [
-            "N-400",
+            "N-399",
             "N-10399"
           ],
           "tags": [],
@@ -131,8 +131,8 @@
             "C-2030"
           ],
           "related_nodes": [
+            "N-398",
             "N-399",
-            "N-400",
             "N-10393"
           ],
           "tags": [],
@@ -151,8 +151,8 @@
             "C-2031"
           ],
           "related_nodes": [
+            "N-398",
             "N-399",
-            "N-400",
             "N-10393"
           ],
           "tags": [],
@@ -171,8 +171,8 @@
             "C-2032"
           ],
           "related_nodes": [
+            "N-398",
             "N-399",
-            "N-400",
             "N-10393"
           ],
           "tags": [],
@@ -191,7 +191,7 @@
             "C-2033"
           ],
           "related_nodes": [
-            "N-400",
+            "N-399",
             "N-10399"
           ],
           "tags": [],
@@ -210,7 +210,7 @@
             "C-2035"
           ],
           "related_nodes": [
-            "N-400",
+            "N-399",
             "N-10399"
           ],
           "tags": [],
@@ -229,8 +229,8 @@
             "C-2036"
           ],
           "related_nodes": [
-            "N-400",
-            "N-436",
+            "N-399",
+            "N-435",
             "N-10399"
           ],
           "tags": [],
@@ -249,7 +249,7 @@
             "C-2037"
           ],
           "related_nodes": [
-            "N-400",
+            "N-399",
             "N-10399"
           ],
           "tags": [],
@@ -276,8 +276,8 @@
             "C-2041"
           ],
           "related_nodes": [
+            "N-402",
             "N-403",
-            "N-404",
             "N-10397"
           ],
           "tags": [],
@@ -304,9 +304,9 @@
             "C-2038"
           ],
           "related_nodes": [
-            "N-399",
-            "N-401",
-            "N-405",
+            "N-398",
+            "N-400",
+            "N-404",
             "N-10393"
           ],
           "tags": [],
@@ -333,7 +333,7 @@
             "C-2039"
           ],
           "related_nodes": [
-            "N-400",
+            "N-399",
             "N-10393",
             "N-10399"
           ],
@@ -362,8 +362,8 @@
             "C-2046"
           ],
           "related_nodes": [
-            "N-403",
-            "N-437",
+            "N-402",
+            "N-436",
             "N-10397"
           ],
           "tags": [],
@@ -417,8 +417,8 @@
             "C-2044"
           ],
           "related_nodes": [
-            "N-399",
-            "N-402",
+            "N-398",
+            "N-401",
             "N-10400"
           ],
           "tags": [],
@@ -445,8 +445,8 @@
             "C-2045"
           ],
           "related_nodes": [
-            "N-399",
-            "N-402",
+            "N-398",
+            "N-401",
             "N-10400"
           ],
           "tags": [],
@@ -532,7 +532,7 @@
           ],
           "related_nodes": [
             "N-10399",
-            "N-400",
+            "N-399",
             "N-11169"
           ],
           "tags": [],
@@ -551,7 +551,7 @@
           ],
           "related_nodes": [
             "N-10399",
-            "N-400"
+            "N-399"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -569,7 +569,7 @@
           ],
           "related_nodes": [
             "N-10399",
-            "N-400"
+            "N-399"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -587,7 +587,7 @@
           ],
           "related_nodes": [
             "N-10399",
-            "N-400"
+            "N-399"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -606,7 +606,7 @@
           ],
           "related_nodes": [
             "N-10399",
-            "N-400",
+            "N-399",
             "N-11169"
           ],
           "tags": [],
@@ -625,7 +625,7 @@
           ],
           "related_nodes": [
             "N-10399",
-            "N-400"
+            "N-399"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -645,7 +645,7 @@
           "related_nodes": [
             "N-10398",
             "N-10399",
-            "N-400"
+            "N-399"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -663,7 +663,7 @@
           ],
           "related_nodes": [
             "N-10399",
-            "N-400",
+            "N-399",
             "N-11169"
           ],
           "tags": [],
@@ -682,7 +682,7 @@
           ],
           "related_nodes": [
             "N-10399",
-            "N-400"
+            "N-399"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -700,7 +700,7 @@
           ],
           "related_nodes": [
             "N-10399",
-            "N-400"
+            "N-399"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -718,7 +718,7 @@
           ],
           "related_nodes": [
             "N-10399",
-            "N-400"
+            "N-399"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -745,8 +745,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-271",
-            "N-488"
+            "N-270",
+            "N-487"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -791,7 +791,7 @@
             "N-10000",
             "N-10739",
             "N-3",
-            "N-450"
+            "N-449"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -835,8 +835,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Security contractor interviewed by Shawn Ryan about pre-planning for Charlie Kirk events. Name appears inconsistently in the episode as both \"Harpole\" and \"Harpole.\"",
@@ -854,8 +854,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-399",
-      "ref": "N-399",
+      "@id": "N-398",
+      "ref": "N-398",
       "name": "Jerry Falwell Sr.",
       "type": "person",
       "description": "Founder of Thomas Road Baptist Church and Liberty University (originally Lynchburg College, 1971). Subject of recurring claims regarding the 1979 Israeli aircraft, the 1990s Moon-affiliated bailout, and the Godparent Home.",
@@ -883,8 +883,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-400",
-        "N-402",
+        "N-399",
+        "N-401",
         "N-10392",
         "N-10393",
         "N-10400"
@@ -892,8 +892,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-400",
-      "ref": "N-400",
+      "@id": "N-399",
+      "ref": "N-399",
       "name": "Sun Myung Moon",
       "type": "person",
       "description": "Self-declared Messiah; founder of the Unification Church. Subject of multiple Washington Post article excerpts regarding Church-controlled enterprises, Iran-Contra involvement, and Liberty University bailout.",
@@ -925,16 +925,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-399",
-        "N-436",
+        "N-398",
+        "N-435",
         "N-10393",
         "N-10399"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-401",
-      "ref": "N-401",
+      "@id": "N-400",
+      "ref": "N-400",
       "name": "Menachem Begin",
       "type": "person",
       "description": "Founder of the Likud Party; Prime Minister of Israel at the time of the alleged 1979 aircraft gift to Jerry Falwell Sr.",
@@ -950,14 +950,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-399",
+        "N-398",
         "N-10393"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-402",
-      "ref": "N-402",
+      "@id": "N-401",
+      "ref": "N-401",
       "name": "Carey Hezekiah",
       "type": "person",
       "description": "Jerry Falwell Sr.'s father; described by host as bootlegger, smuggler, trafficker; subject of Rolling Stone and Forbes citations regarding violent episodes.",
@@ -975,14 +975,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-399",
+        "N-398",
         "N-10400"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-403",
-      "ref": "N-403",
+      "@id": "N-402",
+      "ref": "N-402",
       "name": "Pastor Son Hyun-bo",
       "type": "person",
       "description": "South Korean pastor; arrested September 9, 2025 on election law charges; met Charlie Kirk in Seoul at a conference days before the arrest.",
@@ -1001,15 +1001,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-404",
-        "N-437",
+        "N-403",
+        "N-436",
         "N-10397"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-404",
-      "ref": "N-404",
+      "@id": "N-403",
+      "ref": "N-403",
       "name": "Chance Son",
       "type": "person",
       "description": "Son of Pastor Son Hyun-bo; spoke at Turning Point USA event in Arizona per CBN News clip.",
@@ -1025,14 +1025,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-403",
+        "N-402",
         "N-10397"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-405",
-      "ref": "N-405",
+      "@id": "N-404",
+      "ref": "N-404",
       "name": "John Mearsheimer",
       "type": "person",
       "description": "Co-author of *The Israel Lobby* (cited via email tip as source for the Falwell aircraft claim).",
@@ -1048,39 +1048,18 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-399",
-        "N-401",
+        "N-398",
+        "N-400",
         "N-10393"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-406",
-      "ref": "N-406",
+      "@id": "N-405",
+      "ref": "N-405",
       "name": "Abbi Johnson",
       "type": "person",
       "description": "Former Liberty Godparent Home resident (age 16); quoted in ABC News report on coercion allegations; central voice of *Liberty Lost* podcast.",
-      "related_artifacts": [
-        "A-1598.1"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-407",
-        "N-10392"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "N-407",
-      "ref": "N-407",
-      "name": "Rachel Branning",
-      "type": "person",
-      "description": "ABC 13 (Lynchburg) reporter; author of the aired segment on the Liberty Godparent Home.",
       "related_artifacts": [
         "A-1598.1"
       ],
@@ -1097,8 +1076,29 @@
     },
     {
       "@type": "Person",
-      "@id": "N-408",
-      "ref": "N-408",
+      "@id": "N-406",
+      "ref": "N-406",
+      "name": "Rachel Branning",
+      "type": "person",
+      "description": "ABC 13 (Lynchburg) reporter; author of the aired segment on the Liberty Godparent Home.",
+      "related_artifacts": [
+        "A-1598.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-405",
+        "N-10392"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-407",
+      "ref": "N-407",
       "name": "Anonymous Godparent Home Resident (mid-1990s)",
       "type": "person",
       "description": "Unnamed woman recorded by host recounting stay at Liberty Godparent Home circa 1994 while pregnant at 13–14. Identity protected at her request.",
@@ -1120,8 +1120,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-436",
-      "ref": "N-436",
+      "@id": "N-435",
+      "ref": "N-435",
       "name": "Colonel Oliver North",
       "type": "person",
       "description": "Subject of Moon-affiliated American Freedom Coalition support during Iran-Contra probe per Washington Post article.",
@@ -1137,14 +1137,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-400",
+        "N-399",
         "N-10399"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-437",
-      "ref": "N-437",
+      "@id": "N-436",
+      "ref": "N-436",
       "name": "Lee Jae-myung",
       "type": "person",
       "description": "Korean political figure referenced in Pastor Yoon's quoted protest rhetoric per Korean Herald.",
@@ -1160,7 +1160,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-403"
+        "N-402"
       ]
     },
     {
@@ -1186,10 +1186,10 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-399",
+        "N-398",
+        "N-405",
         "N-406",
-        "N-407",
-        "N-408"
+        "N-407"
       ]
     },
     {
@@ -1219,10 +1219,10 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-398",
         "N-399",
         "N-400",
-        "N-401",
-        "N-405"
+        "N-404"
       ]
     },
     {
@@ -1240,7 +1240,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -1277,7 +1277,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -1303,9 +1303,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
+        "N-402",
         "N-403",
-        "N-404",
-        "N-437"
+        "N-436"
       ]
     },
     {
@@ -1323,7 +1323,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-400",
+        "N-399",
         "N-10399"
       ]
     },
@@ -1356,8 +1356,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-400",
-        "N-436",
+        "N-399",
+        "N-435",
         "N-10398"
       ]
     },
@@ -1382,8 +1382,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-399",
-        "N-402"
+        "N-398",
+        "N-401"
       ]
     },
     {
@@ -1737,8 +1737,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-177",
-      "ref": "N-177",
+      "@id": "N-176",
+      "ref": "N-176",
       "name": "Deirdre Amaro",
       "type": "person",
       "description": "Utah medical examiner described as a major.",
@@ -1754,8 +1754,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Accepted to Liberty but joined TPUSA instead, per the host.",
@@ -1771,8 +1771,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-196",
-      "ref": "N-196",
+      "@id": "N-195",
+      "ref": "N-195",
       "name": "Lee Trotter",
       "type": "person",
       "description": "Doctor whose residency on an Air Force base and pilot's license the host notes.",
@@ -1788,8 +1788,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-197",
-      "ref": "N-197",
+      "@id": "N-196",
+      "ref": "N-196",
       "name": "Roy Edgar McCoy",
       "type": "person",
       "description": "Rob McCoy's father, said to have run naval intelligence psychological operations.",
@@ -1805,8 +1805,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-201",
-      "ref": "N-201",
+      "@id": "N-200",
+      "ref": "N-200",
       "name": "Shelaine Maxfield",
       "type": "person",
       "description": "Said by the host to co-own the 888 plane and run Saprea (spelled Shelaine in the transcript).",
@@ -1823,8 +1823,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-206",
-      "ref": "N-206",
+      "@id": "N-205",
+      "ref": "N-205",
       "name": "Sean Feucht",
       "type": "person",
       "description": "Said to be leading the TPUSA Faith pastor summit.",
@@ -1840,8 +1840,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-209",
-      "ref": "N-209",
+      "@id": "N-208",
+      "ref": "N-208",
       "name": "Jack Hibbs",
       "type": "person",
       "description": "Pastor whose father's military background the host notes.",
@@ -1857,8 +1857,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-225",
-      "ref": "N-225",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcast host who interviewed Brian Harpole; the clip is replayed (spelled Shawn Ryan in the transcript).",
@@ -1875,8 +1875,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-238",
-      "ref": "N-238",
+      "@id": "N-237",
+      "ref": "N-237",
       "name": "Glenn Beck",
       "type": "person",
       "description": "The host says he funded Operation Underground and his children were at UVU.",
@@ -1893,8 +1893,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-247",
-      "ref": "N-247",
+      "@id": "N-246",
+      "ref": "N-246",
       "name": "Butch Hibbs",
       "type": "person",
       "description": "The host suspects military involvement.",
@@ -1910,8 +1910,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Dan Flood",
       "type": "person",
       "description": "Named in a viewer's question about hand signals during the shooting.",
@@ -1927,8 +1927,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-284",
-      "ref": "N-284",
+      "@id": "N-283",
+      "ref": "N-283",
       "name": "Xavier Poussard",
       "type": "person",
       "description": "Cited for Epstein's pump-money-into-organizations mechanism.",
@@ -1944,8 +1944,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-326",
-      "ref": "N-326",
+      "@id": "N-325",
+      "ref": "N-325",
       "name": "Tim Ballard",
       "type": "person",
       "description": "Operation Underground founder whom the host says Phil Lyman visited.",
@@ -1963,8 +1963,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-365",
-      "ref": "N-365",
+      "@id": "N-364",
+      "ref": "N-364",
       "name": "Cabot Phillips",
       "type": "person",
       "description": "Listed by the host as a Liberty University graduate.",
@@ -1980,8 +1980,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-438",
-      "ref": "N-438",
+      "@id": "N-437",
+      "ref": "N-437",
       "name": "Johnnie Moore",
       "type": "person",
       "description": "Former Liberty pastor and Kairos Company head; the host discusses his Gaza Humanitarian Fund role.",
@@ -1998,8 +1998,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-440",
-      "ref": "N-440",
+      "@id": "N-439",
+      "ref": "N-439",
       "name": "Jerry Falwell Jr.",
       "type": "person",
       "description": "Former Liberty University president; the host says he co-founded the Falkirk Center with Kirk.",
@@ -2017,8 +2017,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-450",
-      "ref": "N-450",
+      "@id": "N-449",
+      "ref": "N-449",
       "name": "Michael Aquino",
       "type": "person",
       "description": "Co-author of Mind War with Paul Vallely, per the host.",
@@ -2034,8 +2034,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-451",
-      "ref": "N-451",
+      "@id": "N-450",
+      "ref": "N-450",
       "name": "Greg Laurie",
       "type": "person",
       "description": "Pastor of Harvest Church; the host says TPUSA works with him despite trafficking accusations.",
@@ -2051,8 +2051,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-488",
-      "ref": "N-488",
+      "@id": "N-487",
+      "ref": "N-487",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Man in brown in the front row whom the host identifies.",
@@ -2069,8 +2069,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-490",
-      "ref": "N-490",
+      "@id": "N-489",
+      "ref": "N-489",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Erika Kirk's mother; the host says she founded the Everyday Heroes Foundation.",
@@ -2087,8 +2087,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-684",
-      "ref": "N-684",
+      "@id": "N-682",
+      "ref": "N-682",
       "name": "Jon Bray",
       "type": "person",
       "description": "Researcher whose work the host finds compelling (transcribed John Bray).",
@@ -2104,8 +2104,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-685",
-      "ref": "N-685",
+      "@id": "N-683",
+      "ref": "N-683",
       "name": "Spencer (Frank Turek's son)",
       "type": "person",
       "description": "Said to be an Air Force veteran.",
@@ -2121,8 +2121,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-690",
-      "ref": "N-690",
+      "@id": "N-688",
+      "ref": "N-688",
       "name": "Otto Busher",
       "type": "person",
       "description": "Colonel the host says Romanian Angels worked with and who was accused of running a brothel.",
@@ -2140,8 +2140,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-691",
-      "ref": "N-691",
+      "@id": "N-689",
+      "ref": "N-689",
       "name": "Curtis Kolvet",
       "type": "person",
       "description": "Andrew Kolvet's brother, described as stationed in Romania.",
@@ -2158,8 +2158,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-754",
-      "ref": "N-754",
+      "@id": "N-752",
+      "ref": "N-752",
       "name": "Astrid Tuminez",
       "type": "person",
       "description": "UVU president; the host notes her Russian studies degree.",
@@ -2645,8 +2645,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-802",
-      "ref": "N-802",
+      "@id": "N-800",
+      "ref": "N-800",
       "name": "Paul Vallely",
       "type": "person",
       "description": "First named by the host at 01:20:03 in episode 54. Retired Army intelligence officer; the host says he is on the TPUSA advisory board and co-wrote Mind War. Spelled Vallely and Vallely in the transcript.",
@@ -2664,8 +2664,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-803",
-      "ref": "N-803",
+      "@id": "N-801",
+      "ref": "N-801",
       "name": "Andrew Piskadlo",
       "type": "person",
       "description": "First named by the host at 00:15:55 in episode 54. Photographer early mistaken for the shooter.",
@@ -2682,8 +2682,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-385",
-      "ref": "N-385",
+      "@id": "N-384",
+      "ref": "N-384",
       "name": "David Frodsham",
       "type": "person",
       "description": "First named by the host at 00:14:53 in episode 54 (spelled Frodshem). Civilian commander at Fort Huachuca charged in a child sex abuse case.",
@@ -2953,9 +2953,9 @@
       "claim_timestamp": "00:02:30",
       "investigative_direction": "Obtain the full Shawn Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-1",
-        "N-225"
+        "N-224"
       ]
     },
     {
@@ -2993,7 +2993,7 @@
       "claim_timestamp": "00:35:05",
       "investigative_direction": "Pull original Liberty Godparent Home founding documents and Thomas Road Baptist Church charter materials to confirm founding date and affiliation.",
       "mentions_person_refs": [
-        "N-399"
+        "N-398"
       ]
     },
     {
@@ -3028,8 +3028,8 @@
       "claim_timestamp": "00:55:11",
       "investigative_direction": "Obtain the full 1997 Washington Post article, identify the named entities, and cross-reference against SEC and IRS filings for the named foundations.",
       "mentions_person_refs": [
-        "N-399",
-        "N-400"
+        "N-398",
+        "N-399"
       ]
     },
     {
@@ -3048,8 +3048,8 @@
       "claim_timestamp": "01:06:00",
       "investigative_direction": "Verify the $3.5M grant in 1995 IRS Form 990 filings for both the Women's Federation and the Christian Heritage Foundation; identify the recipient of the funds.",
       "mentions_person_refs": [
-        "N-399",
-        "N-400"
+        "N-398",
+        "N-399"
       ]
     },
     {
@@ -3068,8 +3068,8 @@
       "claim_timestamp": "01:06:32",
       "investigative_direction": "Obtain the promissory note referenced in the article and cross-reference against Liberty University financial disclosures from 1996–1997.",
       "mentions_person_refs": [
-        "N-399",
-        "N-400"
+        "N-398",
+        "N-399"
       ]
     },
     {
@@ -3088,7 +3088,7 @@
       "claim_timestamp": "01:02:19",
       "investigative_direction": "Locate the 1978 House/Senate committee report on Moon organizations and verify the quoted conclusion verbatim.",
       "mentions_person_refs": [
-        "N-400"
+        "N-399"
       ]
     },
     {
@@ -3139,7 +3139,7 @@
       "claim_timestamp": "01:05:41",
       "investigative_direction": "Cross-reference against contemporaneous Iran-Contra investigative records and the American Freedom Coalition's own IRS filings and disclosures.",
       "mentions_person_refs": [
-        "N-436"
+        "N-435"
       ]
     },
     {
@@ -3174,8 +3174,8 @@
       "claim_timestamp": "00:43:30",
       "investigative_direction": "Locate the cited passage in *The Israel Lobby* (Mearsheimer/Walt); cross-check against FAA aircraft registration records and contemporaneous news coverage of Falwell's aircraft acquisition.",
       "mentions_person_refs": [
-        "N-399",
-        "N-405"
+        "N-398",
+        "N-404"
       ]
     },
     {
@@ -3195,7 +3195,7 @@
       "claim_timestamp": "00:48:22",
       "investigative_direction": "Verify the $20–40 million figure against Liberty University financial disclosures, the Christian Heritage Foundation 990s, and contemporaneous reporting in The Washington Times itself.",
       "mentions_person_refs": [
-        "N-400"
+        "N-399"
       ]
     },
     {
@@ -3214,7 +3214,7 @@
       "claim_timestamp": "01:09:02",
       "investigative_direction": "Obtain Korean court records and primary Korean-language press coverage to verify the arrest date, the specific statutes cited, and the current status of the case.",
       "mentions_person_refs": [
-        "N-403"
+        "N-402"
       ]
     },
     {
@@ -3233,8 +3233,8 @@
       "claim_timestamp": "01:10:00",
       "investigative_direction": "Cross-reference the conference attendance records (Build Up Korea, September 4–5) against the arrest warrant timestamp; verify whether the father's meeting with Kirk is documented by other conference attendees.",
       "mentions_person_refs": [
+        "N-402",
         "N-403",
-        "N-404",
         "N-1"
       ]
     },
@@ -3254,7 +3254,7 @@
       "claim_timestamp": "00:24:36",
       "investigative_direction": "Cross-reference against the *Liberty Lost* podcast testimony from other named residents (Abbi Johnson and others) and any internal Godparent Home policies from the 1990s.",
       "mentions_person_refs": [
-        "N-408"
+        "N-407"
       ]
     },
     {
@@ -3273,7 +3273,7 @@
       "claim_timestamp": "00:28:57",
       "investigative_direction": "Cross-reference against the ABC News report (A-1598.1), the *Liberty Lost* podcast, and adoption records from Family Life Services for the relevant period.",
       "mentions_person_refs": [
-        "N-408"
+        "N-407"
       ]
     },
     {
@@ -3292,8 +3292,8 @@
       "claim_timestamp": "00:44:18",
       "investigative_direction": "Locate the cited Rolling Stone article and confirm the specific incident, including Garland's full name and any court records from Virginia.",
       "mentions_person_refs": [
-        "N-399",
-        "N-402"
+        "N-398",
+        "N-401"
       ]
     },
     {
@@ -3312,7 +3312,7 @@
       "claim_timestamp": "00:46:39",
       "investigative_direction": "Locate the cited Forbes article and any contemporaneous Virginia court records or news coverage.",
       "mentions_person_refs": [
-        "N-402"
+        "N-401"
       ]
     },
     {
@@ -3331,8 +3331,8 @@
       "claim_timestamp": "01:11:09",
       "investigative_direction": "Verify the exact quote and context against the primary Korean-language reporting and any video of the protest.",
       "mentions_person_refs": [
-        "N-403",
-        "N-437"
+        "N-402",
+        "N-436"
       ]
     },
     {
@@ -3354,7 +3354,7 @@
       "investigative_direction": "Obtain the full Shawn Ryan interview and the security company's operating procedures to confirm the app-based, decentralized command description.",
       "transcript_snippet": "It's a decentralized command model for the company.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -3376,7 +3376,7 @@
       "investigative_direction": "Review the Shawn Ryan interview transcript for the rooftop remark and compare with UVU police operational plans for the September 10 event.",
       "transcript_snippet": "he describes this conversation that he had with the chief of police. He's upset about the chief of police not covering the rooftops because he feels that his team was on it.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-3"
       ]
     },
@@ -3400,7 +3400,7 @@
       "investigative_direction": "Check the Shawn Ryan interview for the drone remark and compare with UVU drone authorization records and TPUSA's later statements on drones.",
       "transcript_snippet": "You're discussing drones. Drones were not allowed. And so they just had to let that go.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-3"
       ]
     },
@@ -3515,7 +3515,7 @@
       "mentions_person_refs": [
         "N-11",
         "N-2",
-        "N-365"
+        "N-364"
       ]
     },
     {
@@ -3539,7 +3539,7 @@
       "investigative_direction": "Check Mikey McCoy's public biography or interviews for his admission to Liberty and his hire date at TPUSA.",
       "transcript_snippet": "Mikey McCoy was accepted into Liberty University, but then he chose not to attend because he got the job at Turning Point USA instead",
       "mentions_person_refs": [
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -3564,7 +3564,7 @@
       "mentions_person_refs": [
         "N-17",
         "N-1",
-        "N-440"
+        "N-439"
       ]
     },
     {
@@ -3589,7 +3589,7 @@
       "transcript_snippet": "Andrew Kolvet was working PR for the Kairos Company under Johnnie Moore.",
       "mentions_person_refs": [
         "N-14",
-        "N-438"
+        "N-437"
       ]
     },
     {
@@ -3609,7 +3609,7 @@
       "investigative_direction": "Confirm Johnnie Moore's role with the Gaza Humanitarian Foundation through GHF announcements and press reports.",
       "transcript_snippet": "He was somehow equipped to lead the Gaza Humanitarian Fund and he gets this role essentially",
       "mentions_person_refs": [
-        "N-438",
+        "N-437",
         "N-3"
       ]
     },
@@ -3654,7 +3654,7 @@
       "investigative_direction": "Review Liberty University and TPUSA announcements of the Falkirk Center's founding in 2019 and its closure.",
       "transcript_snippet": "Jerry Falwell Jr. and Charlie Kirk decided to come together to establish the Falkirk Center.",
       "mentions_person_refs": [
-        "N-440",
+        "N-439",
         "N-1",
         "N-17"
       ]
@@ -3677,7 +3677,7 @@
       "investigative_direction": "Confirm the timing of Falwell Jr.'s 2020 resignation and Liberty's decision to end the Falkirk Center arrangement.",
       "transcript_snippet": "Jerry Falwell has this huge sex scandal. He's forced to step down.",
       "mentions_person_refs": [
-        "N-440"
+        "N-439"
       ]
     },
     {
@@ -3782,7 +3782,7 @@
       "investigative_direction": "Obtain Arizona Corporation Commission and IRS filings for the Everyday Heroes Foundation naming its founder and officers.",
       "transcript_snippet": "Lori Frantzve uh established the Everyday Heroes Foundation which was supposed to help children in need.",
       "mentions_person_refs": [
-        "N-490",
+        "N-489",
         "N-2"
       ]
     },
@@ -3824,7 +3824,7 @@
       "investigative_direction": "Locate Romanian Angels thank-you posts or news coverage naming Colonel Busher and the dates of cooperation.",
       "transcript_snippet": "Now, it is a fact that they worked with at that time Colonel Otto Busher.",
       "mentions_person_refs": [
-        "N-690"
+        "N-688"
       ]
     },
     {
@@ -3844,7 +3844,7 @@
       "investigative_direction": "Find the Romanian complaint, any prosecutor's file and press coverage of the allegation against Busher and its outcome.",
       "transcript_snippet": "Colonel Otto Busher was then accused of running a brothel with young children.",
       "mentions_person_refs": [
-        "N-690"
+        "N-688"
       ]
     },
     {
@@ -3868,8 +3868,8 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-490",
-        "N-690"
+        "N-489",
+        "N-688"
       ]
     },
     {
@@ -3912,7 +3912,7 @@
       "investigative_direction": "Review the court docket for the Harvest Christian Fellowship Romanian abuse lawsuit and TPUSA event listings featuring Laurie.",
       "transcript_snippet": "Turning Point USA obviously working with Pastor Greg Laurie despite Harvest Church being accused of trafficking children from Romania.",
       "mentions_person_refs": [
-        "N-451",
+        "N-450",
         "N-3"
       ]
     },
@@ -3934,7 +3934,7 @@
       "transcript_snippet": "Uh Andrew Kolwitz's brother Curtis is currently stationed in Romania as a lieutenant colonel.",
       "mentions_person_refs": [
         "N-14",
-        "N-691"
+        "N-689"
       ]
     },
     {
@@ -3955,7 +3955,7 @@
       "transcript_snippet": "We have Tyler Bowyer who holds a degree in Russian studies and is fluent in Russian",
       "mentions_person_refs": [
         "N-11",
-        "N-754"
+        "N-752"
       ]
     },
     {
@@ -4000,7 +4000,7 @@
       ],
       "mentions_person_refs": [
         "N-94",
-        "N-201"
+        "N-200"
       ]
     },
     {
@@ -4024,7 +4024,7 @@
       ],
       "mentions_person_refs": [
         "N-94",
-        "N-201"
+        "N-200"
       ]
     },
     {
@@ -4044,7 +4044,7 @@
       "investigative_direction": "Pull the federal or Arizona charging documents against David Frodsham and the associated news coverage.",
       "transcript_snippet": "was charged with running a child sex abuse ring. That is true.",
       "mentions_person_refs": [
-        "N-385"
+        "N-384"
       ]
     },
     {
@@ -4110,7 +4110,7 @@
       "investigative_direction": "Identify Piscatello's credentials and who authorized his access to the UVU event.",
       "transcript_snippet": "It ended up being that he was photographing that he was taking pictures, he was a photographer not hired by Turning Point USA.",
       "mentions_person_refs": [
-        "N-803"
+        "N-801"
       ]
     },
     {
@@ -4130,7 +4130,7 @@
       "investigative_direction": "Review Piscatello's Instagram posts on Ukrainian trafficking for dates and claims.",
       "transcript_snippet": "Uh but he has rang the alarm before on military Ukrainian sex trafficking that is happening in the United States.",
       "mentions_person_refs": [
-        "N-803"
+        "N-801"
       ]
     },
     {
@@ -4172,7 +4172,7 @@
       "transcript_snippet": "that was introduced to me by Marissa Streit over at PragerU.",
       "mentions_person_refs": [
         "N-117",
-        "N-326",
+        "N-325",
         "N-3"
       ]
     },
@@ -4196,7 +4196,7 @@
         "C-6876"
       ],
       "mentions_person_refs": [
-        "N-238"
+        "N-237"
       ]
     },
     {
@@ -4216,7 +4216,7 @@
       "investigative_direction": "Review Beck's September 10 broadcasts and any statement about his family's presence at UVU.",
       "transcript_snippet": "Glenn Beck also his children were there um at UVU when Charlie Kirk was assassinated.",
       "mentions_person_refs": [
-        "N-238",
+        "N-237",
         "N-1"
       ]
     },
@@ -4241,7 +4241,7 @@
       ],
       "mentions_person_refs": [
         "N-61",
-        "N-326"
+        "N-325"
       ]
     },
     {
@@ -4260,7 +4260,7 @@
       "transcript_snippet": "Andrew Kolwitz's brother and cousin are captains in the military, Curtis Kolwitz and Robert Kolwitz.",
       "mentions_person_refs": [
         "N-14",
-        "N-691"
+        "N-689"
       ]
     },
     {
@@ -4284,7 +4284,7 @@
       ],
       "mentions_person_refs": [
         "N-17",
-        "N-197"
+        "N-196"
       ]
     },
     {
@@ -4381,7 +4381,7 @@
       "transcript_snippet": "His other son, Spencer, is an Air Force vet.",
       "mentions_person_refs": [
         "N-7",
-        "N-685"
+        "N-683"
       ]
     },
     {
@@ -4419,7 +4419,7 @@
       "investigative_direction": "Check Trotter's published biography and FAA airman records.",
       "transcript_snippet": "Dr. Lee Trotter did his residency on an Air Force base and he also has his pilot's license.",
       "mentions_person_refs": [
-        "N-196"
+        "N-195"
       ]
     },
     {
@@ -4439,7 +4439,7 @@
       "investigative_direction": "Look for Amaro's military service record or Utah Office of the Medical Examiner biography.",
       "transcript_snippet": "The Utah medical examiner, Dr. Deirdre Amaro, is a major.",
       "mentions_person_refs": [
-        "N-177"
+        "N-176"
       ]
     },
     {
@@ -4457,8 +4457,8 @@
       "investigative_direction": "Seek public records of Butch Hibbs' and Butch Sr.'s military service.",
       "transcript_snippet": "their father, Butch Sr., military background, and I suspect Butch Hibbs also perhaps is involved in the military himself.",
       "mentions_person_refs": [
-        "N-209",
-        "N-247"
+        "N-208",
+        "N-246"
       ]
     },
     {
@@ -4481,7 +4481,7 @@
       "investigative_direction": "Seek the caller's juvenile court and probation records, which only she can authorize, to confirm the referral to the Godparent program.",
       "transcript_snippet": "We could send you to juvie or you could go away and we'll give you an opportunity here.",
       "mentions_person_refs": [
-        "N-408",
+        "N-407",
         "N-3"
       ]
     },
@@ -4504,8 +4504,8 @@
       "investigative_direction": "Interview other Godparent Home residents from the 1990s about photographs taken at the home and by whom.",
       "transcript_snippet": "But like Jerry Falwell Sr. was the one actually taking the photos? Yeah,",
       "mentions_person_refs": [
-        "N-408",
-        "N-399"
+        "N-407",
+        "N-398"
       ]
     },
     {
@@ -4527,7 +4527,7 @@
       "investigative_direction": "Obtain any hospital or home records of prenatal checks and room assignments from the caller's stay.",
       "transcript_snippet": "everything was fine that night and then they moved me, which was weird.",
       "mentions_person_refs": [
-        "N-408"
+        "N-407"
       ]
     },
     {
@@ -4549,7 +4549,7 @@
       "investigative_direction": "Compare with state licensing records for the Liberty Godparent Home's capacity and resident ages in the 1990s.",
       "transcript_snippet": "there was about like between 12 and 15 in one house, but you're talking anywhere from age 12 to like 21 years old",
       "mentions_person_refs": [
-        "N-408"
+        "N-407"
       ]
     },
     {
@@ -4574,7 +4574,7 @@
         "C-2042"
       ],
       "mentions_person_refs": [
-        "N-408"
+        "N-407"
       ]
     },
     {
@@ -4596,7 +4596,7 @@
       "investigative_direction": "Request hospital records of the delivery from Lynchburg hospitals, which only the caller can authorize.",
       "transcript_snippet": "the next morning I all of a sudden didn't have a heartbeat and I had to go in",
       "mentions_person_refs": [
-        "N-408"
+        "N-407"
       ]
     },
     {
@@ -4618,7 +4618,7 @@
       "investigative_direction": "Identify the house mother and her daughter through Godparent Home staff lists and Lynchburg hospital staffing.",
       "transcript_snippet": "Their daughter is a high uh doctor at the Liberty or at some university, some um hospital in Lynchburg, Virginia.",
       "mentions_person_refs": [
-        "N-408"
+        "N-407"
       ]
     },
     {
@@ -4643,7 +4643,7 @@
         "C-2043"
       ],
       "mentions_person_refs": [
-        "N-408"
+        "N-407"
       ]
     },
     {
@@ -4665,7 +4665,7 @@
       "investigative_direction": "Submit a records request, with the caller's consent, to the Liberty Godparent Home and Family Life Services.",
       "transcript_snippet": "I can't even find myself actually in their system.",
       "mentions_person_refs": [
-        "N-408"
+        "N-407"
       ]
     },
     {
@@ -4687,7 +4687,7 @@
       "investigative_direction": "Obtain medical records establishing gestational age and the delivery, with the caller's consent.",
       "transcript_snippet": "They had to induce the labor. Okay. They I had to deliver.",
       "mentions_person_refs": [
-        "N-408"
+        "N-407"
       ]
     },
     {
@@ -4710,7 +4710,7 @@
       "investigative_direction": "Ask Liberty University and the Godparent Home for a written statement on their 1990s resident records.",
       "transcript_snippet": "We can't find you. We had You had a baby in a house when you were 13 years old and we can't find you.",
       "mentions_person_refs": [
-        "N-408",
+        "N-407",
         "N-3"
       ]
     },
@@ -4733,7 +4733,7 @@
       "investigative_direction": "Interview the caller's mother if willing, and seek the home's discharge records.",
       "transcript_snippet": "They tell your mom she's got to pick you up ASAP.",
       "mentions_person_refs": [
-        "N-408",
+        "N-407",
         "N-3"
       ]
     },
@@ -4758,7 +4758,7 @@
       "investigative_direction": "Ask the caller for the invitation and mailing details and compare with Miss Universe organization outreach practices in the 1990s.",
       "transcript_snippet": "and 2 years later she gets an invite to join Trump Pageant World.",
       "mentions_person_refs": [
-        "N-408",
+        "N-407",
         "N-3"
       ]
     },
@@ -4779,7 +4779,7 @@
       "investigative_direction": "Locate the Poussard episode of the host's Epstein series and the sources he cites for the mechanism.",
       "transcript_snippet": "Xavier Poussard showed that this was one of his mechanisms.",
       "mentions_person_refs": [
-        "N-284",
+        "N-283",
         "N-9",
         "N-3"
       ]
@@ -4864,8 +4864,8 @@
       "investigative_direction": "Seek Johnson's account on the Liberty Lost podcast and any scholarship documentation.",
       "transcript_snippet": "Her parents sent her across the country to Liberty Godparent Home with the promise of a scholarship to Liberty University after all was said and done.",
       "mentions_person_refs": [
-        "N-406",
-        "N-407"
+        "N-405",
+        "N-406"
       ]
     },
     {
@@ -4890,7 +4890,7 @@
         "C-2043"
       ],
       "mentions_person_refs": [
-        "N-406"
+        "N-405"
       ]
     },
     {
@@ -4912,7 +4912,7 @@
       "investigative_direction": "Obtain the full written statement from the Godparent Home.",
       "transcript_snippet": "The Godparent Home declined my request for an interview but sent a statement saying in part quote,",
       "mentions_person_refs": [
-        "N-407"
+        "N-406"
       ]
     },
     {
@@ -4937,7 +4937,7 @@
         "C-2029"
       ],
       "mentions_person_refs": [
-        "N-407"
+        "N-406"
       ]
     },
     {
@@ -4959,7 +4959,7 @@
       "investigative_direction": "Ask Family Life Services and the Godparent Home whether they later responded to ABC 13.",
       "transcript_snippet": "I reached out to them multiple times for comment about the allegations in the podcast.",
       "mentions_person_refs": [
-        "N-407"
+        "N-406"
       ]
     },
     {
@@ -5004,7 +5004,7 @@
         "C-2044"
       ],
       "mentions_person_refs": [
-        "N-402",
+        "N-401",
         "N-3"
       ]
     },
@@ -5027,7 +5027,7 @@
       "investigative_direction": "Locate the Rolling Stone passage and its sourcing for the cat anecdote.",
       "transcript_snippet": "and he killed the cat and then he cooked the cat and then he delivered the remains of the cat to the employee's house for lunch.",
       "mentions_person_refs": [
-        "N-402"
+        "N-401"
       ]
     },
     {
@@ -5049,8 +5049,8 @@
       "investigative_direction": "Check Falwell Sr.'s biographies for the year of his conversion and his father's death.",
       "transcript_snippet": "In 1948, the very year that Israel became a nation, Carey Hezekiah died from cirrhosis of the liver",
       "mentions_person_refs": [
-        "N-402",
-        "N-399"
+        "N-401",
+        "N-398"
       ]
     },
     {
@@ -5070,7 +5070,7 @@
       "investigative_direction": "Verify Liberty's founding date and original name from university history and Virginia charter records.",
       "transcript_snippet": "He became a televangelist and he established Lynchburg College in 1971, which would eventually change its name to Liberty University",
       "mentions_person_refs": [
-        "N-399"
+        "N-398"
       ]
     },
     {
@@ -5095,8 +5095,8 @@
         "C-2038"
       ],
       "mentions_person_refs": [
-        "N-399",
-        "N-401"
+        "N-398",
+        "N-400"
       ]
     },
     {
@@ -5209,7 +5209,7 @@
       "investigative_direction": "Verify Moon's messianic claims in the Washington Post article and the AmFest program for messianic framing.",
       "transcript_snippet": "he declared himself, just so you know, a Messiah.",
       "mentions_person_refs": [
-        "N-400",
+        "N-399",
         "N-1"
       ]
     },
@@ -5233,7 +5233,7 @@
       "investigative_direction": "Retrieve the original 1997 Washington Post article and corporate property records for the cited holdings.",
       "transcript_snippet": "Those include The Washington Times Washington Times newspaper a video production firm, a stately old church once the pride of the Mormons along 16th Street Northwest.",
       "mentions_person_refs": [
-        "N-400"
+        "N-399"
       ]
     },
     {
@@ -5255,7 +5255,7 @@
       "investigative_direction": "Retrieve the Washington Post article and compare with Unification Church corporate filings.",
       "transcript_snippet": "This vast and bewildering multinational could be called Moon Inc.",
       "mentions_person_refs": [
-        "N-400"
+        "N-399"
       ]
     },
     {
@@ -5277,7 +5277,7 @@
       "investigative_direction": "Pull Washington-area property assessments for church-linked entities from 1997 records.",
       "transcript_snippet": "Washington area property owned by the church, its affiliated companies or senior church officials is worth more than 200 million dollars, according to property and corporate records.",
       "mentions_person_refs": [
-        "N-400"
+        "N-399"
       ]
     },
     {
@@ -5320,7 +5320,7 @@
       "investigative_direction": "Retrieve the Washington Post article and the Rubenstein quotation in context.",
       "transcript_snippet": "Ideas without the money to back them up are just dreams",
       "mentions_person_refs": [
-        "N-400"
+        "N-399"
       ]
     },
     {
@@ -5346,7 +5346,7 @@
         "C-2030"
       ],
       "mentions_person_refs": [
-        "N-400"
+        "N-399"
       ]
     },
     {
@@ -5371,7 +5371,7 @@
         "C-2037"
       ],
       "mentions_person_refs": [
-        "N-400"
+        "N-399"
       ]
     },
     {
@@ -5393,7 +5393,7 @@
       "investigative_direction": "Retrieve the Washington Post article for the full sentence and cited investigators.",
       "transcript_snippet": "have eluded investigators on three continents over the past three decades.",
       "mentions_person_refs": [
-        "N-400"
+        "N-399"
       ]
     },
     {
@@ -5459,7 +5459,7 @@
       "investigative_direction": "Retrieve the Washington Post article and compare with TPUSA Faith pastor summit funding.",
       "transcript_snippet": "inviting professors, clergy, media executives and other opinion shapers to meetings all expenses paid.",
       "mentions_person_refs": [
-        "N-400"
+        "N-399"
       ]
     },
     {
@@ -5481,7 +5481,7 @@
       "transcript_snippet": "They had a pastor summit um Rob McCoy, as I showed you that. Sean Feucht, they were going to lead this up.",
       "mentions_person_refs": [
         "N-17",
-        "N-206",
+        "N-205",
         "N-3"
       ]
     },
@@ -5504,7 +5504,7 @@
       "investigative_direction": "Retrieve the Washington Post article and identify the former priest by name.",
       "transcript_snippet": "They'll have a conference on the essence of religious founders like Buddha, Jesus and then Moon who gets a room full of academics to sit there.",
       "mentions_person_refs": [
-        "N-400"
+        "N-399"
       ]
     },
     {
@@ -5567,7 +5567,7 @@
       "investigative_direction": "Retrieve the Washington Post article and corporate registrations for the three entities.",
       "transcript_snippet": "shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.",
       "mentions_person_refs": [
-        "N-400"
+        "N-399"
       ]
     },
     {
@@ -5589,7 +5589,7 @@
       "investigative_direction": "Retrieve the Washington Post article and identify Paquette's role.",
       "transcript_snippet": "said he believed that virtually none of the uni- Unification's US operations is profitable.",
       "mentions_person_refs": [
-        "N-400"
+        "N-399"
       ]
     },
     {
@@ -5636,7 +5636,7 @@
         "C-2033"
       ],
       "mentions_person_refs": [
-        "N-400"
+        "N-399"
       ]
     },
     {
@@ -5658,7 +5658,7 @@
       "investigative_direction": "Retrieve the Washington Post article and the Paquette statement in full.",
       "transcript_snippet": "Rev Moon sent bags of cash, big fat bags, stacks and stacks of hundreds from Korea and Japan to Manhattan Center.",
       "mentions_person_refs": [
-        "N-400"
+        "N-399"
       ]
     },
     {
@@ -5702,7 +5702,7 @@
         "N-1",
         "N-3",
         "N-17",
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -5728,7 +5728,7 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-403"
+        "N-402"
       ]
     },
     {
@@ -5753,9 +5753,9 @@
         "C-2041"
       ],
       "mentions_person_refs": [
-        "N-404",
+        "N-403",
         "N-1",
-        "N-403"
+        "N-402"
       ]
     },
     {
@@ -5777,7 +5777,7 @@
       "investigative_direction": "Locate the petition and the organization's registration and funding.",
       "transcript_snippet": "the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Son's case.",
       "mentions_person_refs": [
-        "N-403"
+        "N-402"
       ]
     },
     {
@@ -5844,8 +5844,8 @@
       "investigative_direction": "Review UVU footage timestamps of Flood's gestures and Cutler's movements relative to the shot.",
       "transcript_snippet": "I don't believe it was a coincidence.",
       "mentions_person_refs": [
-        "N-271",
-        "N-488",
+        "N-270",
+        "N-487",
         "N-1"
       ]
     },
@@ -5866,7 +5866,7 @@
       "investigative_direction": "Compile Cutler's employment, military and family background from public records.",
       "transcript_snippet": "he has a very complicated history. We haven't even gone into him, uh his history of the DOD, his family's history.",
       "mentions_person_refs": [
-        "N-488"
+        "N-487"
       ]
     },
     {
@@ -5905,7 +5905,7 @@
       "investigative_direction": "Review Bray's published work and his own account of any contact with the host.",
       "transcript_snippet": "and I have been communicating with him behind the scenes.",
       "mentions_person_refs": [
-        "N-684",
+        "N-682",
         "N-3"
       ]
     },
@@ -5992,7 +5992,7 @@
       "investigative_direction": "Check TPUSA's website and archived board listings for Vallely.",
       "transcript_snippet": "Cuz Paul Vallely is also on the advisory board of Turning Point USA.",
       "mentions_person_refs": [
-        "N-802",
+        "N-800",
         "N-10000"
       ]
     },
@@ -6013,8 +6013,8 @@
       "investigative_direction": "Verify the authorship of Mind War and Vallely's and Aquino's military service.",
       "transcript_snippet": "He co-wrote the book Mind War with Michael Aquino Aquino who was an army intel psychological operations officer and an avowed Satanist.",
       "mentions_person_refs": [
-        "N-802",
-        "N-450"
+        "N-800",
+        "N-449"
       ]
     },
     {
@@ -6039,7 +6039,7 @@
         "C-5388"
       ],
       "mentions_person_refs": [
-        "N-802",
+        "N-800",
         "N-3"
       ]
     },

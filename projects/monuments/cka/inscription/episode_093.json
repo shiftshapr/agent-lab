@@ -401,7 +401,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-349"
+            "N-348"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -427,7 +427,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-892"
+            "N-889"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -482,7 +482,7 @@
             "C-11486"
           ],
           "related_nodes": [
-            "N-271",
+            "N-270",
             "N-1"
           ],
           "tags": [],
@@ -851,8 +851,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -871,8 +871,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-342",
-      "ref": "N-342",
+      "@id": "N-341",
+      "ref": "N-341",
       "name": "Victor Marx",
       "type": "person",
       "description": "Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure.",
@@ -903,8 +903,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-343",
-      "ref": "N-343",
+      "@id": "N-342",
+      "ref": "N-342",
       "name": "Corby Hall",
       "type": "person",
       "description": "Accuser of Victor Marx (prior guest); alleges gun-running and an IDF arms deal.",
@@ -1235,8 +1235,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-238",
-      "ref": "N-238",
+      "@id": "N-237",
+      "ref": "N-237",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Glenn Beck; commenters cited his post that Charlie was stable.",
@@ -1252,8 +1252,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Dan Flood",
       "type": "person",
       "description": "Dan Flood; the host and a viewer comment criticize his security conduct and reported raise.",
@@ -1278,8 +1278,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Bari Weiss; CBS News run under her carried the Secret Service report.",
@@ -1295,8 +1295,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-344",
-      "ref": "N-344",
+      "@id": "N-343",
+      "ref": "N-343",
       "name": "Eileen Marx",
       "type": "person",
       "description": "Eileen Marx; wife Marx wants to bring to an interview.",
@@ -1312,8 +1312,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-349",
-      "ref": "N-349",
+      "@id": "N-348",
+      "ref": "N-348",
       "name": "Amir Tsarfati",
       "type": "person",
       "description": "Amir Tsarfati (also Sarfati); viewer tip that he heard of the shooting first.",
@@ -1333,8 +1333,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-501",
-      "ref": "N-501",
+      "@id": "N-500",
+      "ref": "N-500",
       "name": "Victor Ostrovsky",
       "type": "person",
       "description": "Victor Ostrovsky; former Mossad officer whose claims about Epstein the host relays.",
@@ -1351,8 +1351,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-597",
-      "ref": "N-597",
+      "@id": "N-595",
+      "ref": "N-595",
       "name": "Druski",
       "type": "person",
       "description": "Druski; comedian whose video mocking Erika is cited as a factor in the cancellation.",
@@ -1369,8 +1369,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-651",
-      "ref": "N-651",
+      "@id": "N-649",
+      "ref": "N-649",
       "name": "Marco Rubio",
       "type": "person",
       "description": "Marco Rubio; a commenter says donors have chosen him for 2028.",
@@ -1386,8 +1386,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-662",
-      "ref": "N-662",
+      "@id": "N-660",
+      "ref": "N-660",
       "name": "Ivanka Trump",
       "type": "person",
       "description": "Ivanka Trump; the host says she attended the bridal shower.",
@@ -1405,8 +1405,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-710",
-      "ref": "N-710",
+      "@id": "N-708",
+      "ref": "N-708",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; the host compares prosecution tactics to those after his killing.",
@@ -1819,8 +1819,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-892",
-      "ref": "N-892",
+      "@id": "N-889",
+      "ref": "N-889",
       "name": "Bettina Anderson",
       "type": "person",
       "description": "First named by the host at 00:07:27 in episode 93 as Bettina, soon-to-be Trump, whose bridal shower Erika attended.",
@@ -1839,8 +1839,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-894",
-      "ref": "N-894",
+      "@id": "N-891",
+      "ref": "N-891",
       "name": "Adnan Khashoggi",
       "type": "person",
       "description": "First named by the host at 00:39:19 in episode 93 as the arms dealer Epstein was initially brought in to deal with, per Ostrovsky.",
@@ -1956,7 +1956,7 @@
       "investigative_direction": "Archive the post screenshots (cited as having been received with timestamps); identify Marx's claimed source.",
       "mentions_person_refs": [
         "N-1",
-        "N-342"
+        "N-341"
       ]
     },
     {
@@ -1974,8 +1974,8 @@
       "claim_timestamp": "00:29:30–00:30:28",
       "investigative_direction": "Pull the ATF FFL eZ Check record directly and verify the licensee's name, address, and license type.",
       "mentions_person_refs": [
-        "N-331",
-        "N-342"
+        "N-330",
+        "N-341"
       ]
     },
     {
@@ -1992,8 +1992,8 @@
       "claim_timestamp": "00:31:20–00:32:44",
       "investigative_direction": "Identify the full original interview source, date, and outlet; cross-reference with Corby Hall's first-person account.",
       "mentions_person_refs": [
-        "N-342",
-        "N-343"
+        "N-341",
+        "N-342"
       ]
     },
     {
@@ -2010,7 +2010,7 @@
       "claim_timestamp": "00:33:46–00:34:57",
       "investigative_direction": "Locate the full interview; corroborate with any on-record statements from federal authorities regarding investigations of Marx.",
       "mentions_person_refs": [
-        "N-342"
+        "N-341"
       ]
     },
     {
@@ -2031,8 +2031,8 @@
       "claim_timestamp": "00:35:00–00:38:02",
       "investigative_direction": "Authenticate the text-message screenshots (metadata, device extraction); await on-record response from Marx.",
       "mentions_person_refs": [
-        "N-342",
-        "N-343"
+        "N-341",
+        "N-342"
       ]
     },
     {
@@ -2053,7 +2053,7 @@
       "claim_timestamp": "00:37:17–00:38:02",
       "investigative_direction": "Obtain message timestamps to confirm date precisely.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2181,7 +2181,7 @@
       "claim_timestamp": "00:28:57–00:29:30",
       "investigative_direction": "Obtain request for verbatim or original-source documentation for the claim; verify spelling of name and role.",
       "mentions_person_refs": [
-        "N-349"
+        "N-348"
       ]
     },
     {
@@ -2255,7 +2255,7 @@
       "investigative_direction": "Archive captures (Wayback, screenshots with timestamps) of the post and its deletion time; ask Marx when and why it was removed.",
       "transcript_snippet": "In a post that he subsequently deleted, he left it up actually for quite a long time",
       "mentions_person_refs": [
-        "N-342",
+        "N-341",
         "N-3",
         "N-1"
       ]
@@ -2309,7 +2309,7 @@
         "C-2745"
       ],
       "mentions_person_refs": [
-        "N-331",
+        "N-330",
         "N-2",
         "N-3"
       ]
@@ -2355,9 +2355,9 @@
       "transcript_snippet": "Erika Kirk flew into Palm Beach because she was attending Bettina's bridal shower which took place on Sunday.",
       "mentions_person_refs": [
         "N-2",
-        "N-892",
+        "N-889",
         "N-33",
-        "N-662"
+        "N-660"
       ]
     },
     {
@@ -2456,7 +2456,7 @@
         "C-2745"
       ],
       "mentions_person_refs": [
-        "N-331",
+        "N-330",
         "N-14",
         "N-2",
         "N-4"
@@ -2630,7 +2630,7 @@
       "investigative_direction": "Obtain the Daily Mail article and identify the confidant; confirm the date and content of the Druski video.",
       "transcript_snippet": "The Druski video showed her what people thought of her. She's really hurt that people are feeling this way about her, that they're mocking her.",
       "mentions_person_refs": [
-        "N-597",
+        "N-595",
         "N-2",
         "N-3",
         "N-1"
@@ -2709,8 +2709,8 @@
         "C-2748"
       ],
       "mentions_person_refs": [
-        "N-342",
-        "N-238",
+        "N-341",
+        "N-237",
         "N-1"
       ]
     },
@@ -2733,7 +2733,7 @@
       "investigative_direction": "Obtain the original screenshots with metadata and confirm the timezone conversion to 1:13 p.m. Mountain.",
       "transcript_snippet": "the person who sent this to us, they sent it to us in Eastern Standard Time. Fortunately, they had it screenshots, their buddy sent it to them",
       "mentions_person_refs": [
-        "N-342",
+        "N-341",
         "N-3"
       ]
     },
@@ -2759,7 +2759,7 @@
         "C-2748"
       ],
       "mentions_person_refs": [
-        "N-342",
+        "N-341",
         "N-1"
       ]
     },
@@ -2785,7 +2785,7 @@
         "C-2748"
       ],
       "mentions_person_refs": [
-        "N-342",
+        "N-341",
         "N-5",
         "N-1"
       ]
@@ -2809,7 +2809,7 @@
       "mentions_person_refs": [
         "N-36",
         "N-1",
-        "N-342",
+        "N-341",
         "N-5"
       ]
     },
@@ -2833,7 +2833,7 @@
       "transcript_snippet": "That should be when Erika found out, when she got off the phone with the doctor about.",
       "mentions_person_refs": [
         "N-2",
-        "N-342"
+        "N-341"
       ]
     },
     {
@@ -2858,7 +2858,7 @@
         "C-2760"
       ],
       "mentions_person_refs": [
-        "N-349",
+        "N-348",
         "N-3"
       ]
     },
@@ -2884,7 +2884,7 @@
         "C-2760"
       ],
       "mentions_person_refs": [
-        "N-349",
+        "N-348",
         "N-3"
       ]
     },
@@ -2908,7 +2908,7 @@
         "C-2736"
       ],
       "mentions_person_refs": [
-        "N-342",
+        "N-341",
         "N-3"
       ]
     },
@@ -2932,9 +2932,9 @@
         "C-2735"
       ],
       "mentions_person_refs": [
-        "N-342",
-        "N-344",
+        "N-341",
         "N-343",
+        "N-342",
         "N-3"
       ]
     },
@@ -2960,8 +2960,8 @@
         "C-2750"
       ],
       "mentions_person_refs": [
-        "N-342",
-        "N-343"
+        "N-341",
+        "N-342"
       ]
     },
     {
@@ -2981,8 +2981,8 @@
       "investigative_direction": "Obtain Corby Hall's full account and any documents showing the Israel sale request.",
       "transcript_snippet": "Corby asserted that Victor Marx wanted guns sold in Israel.",
       "mentions_person_refs": [
-        "N-343",
-        "N-342"
+        "N-342",
+        "N-341"
       ]
     },
     {
@@ -3002,8 +3002,8 @@
       "investigative_direction": "Obtain Corby Hall's account and any written exchange about Haiti; ask federal export-control authorities whether any inquiry exists.",
       "transcript_snippet": "He asserted that the Haitian arms deal would have been illegal since you are not allowed to do those sorts of transactions with Haiti.",
       "mentions_person_refs": [
-        "N-343",
-        "N-342"
+        "N-342",
+        "N-341"
       ]
     },
     {
@@ -3028,8 +3028,8 @@
         "C-2752"
       ],
       "mentions_person_refs": [
-        "N-342",
-        "N-343"
+        "N-341",
+        "N-342"
       ]
     },
     {
@@ -3055,8 +3055,8 @@
         "C-2752"
       ],
       "mentions_person_refs": [
-        "N-342",
-        "N-343"
+        "N-341",
+        "N-342"
       ]
     },
     {
@@ -3081,7 +3081,7 @@
         "C-2748"
       ],
       "mentions_person_refs": [
-        "N-342",
+        "N-341",
         "N-2",
         "N-1"
       ]
@@ -3106,9 +3106,9 @@
         "C-2735"
       ],
       "mentions_person_refs": [
+        "N-341",
         "N-342",
         "N-343",
-        "N-344",
         "N-3"
       ]
     },
@@ -3154,9 +3154,9 @@
         "C-8207"
       ],
       "mentions_person_refs": [
-        "N-501",
+        "N-500",
         "N-9",
-        "N-894"
+        "N-891"
       ]
     },
     {
@@ -3351,7 +3351,7 @@
       "investigative_direction": "Identify which comparison techniques the host means and any published validation or challenges to them.",
       "transcript_snippet": "They want to bring back old FBI tactics that were first put in place after JFK was shot because they lied about that as well.",
       "mentions_person_refs": [
-        "N-710",
+        "N-708",
         "N-3"
       ]
     },
@@ -3399,7 +3399,7 @@
         "C-5034"
       ],
       "mentions_person_refs": [
-        "N-271",
+        "N-270",
         "N-1"
       ]
     },
@@ -3425,7 +3425,7 @@
         "C-5035"
       ],
       "mentions_person_refs": [
-        "N-271",
+        "N-270",
         "N-1"
       ]
     },
@@ -3474,7 +3474,7 @@
         "C-5550"
       ],
       "mentions_person_refs": [
-        "N-271",
+        "N-270",
         "N-1"
       ]
     },
@@ -3500,7 +3500,7 @@
         "C-5494"
       ],
       "mentions_person_refs": [
-        "N-271",
+        "N-270",
         "N-2"
       ]
     },
@@ -3521,8 +3521,8 @@
       "investigative_direction": "Review Coleman's broadcast and the Druski video timeline against the cancellation.",
       "transcript_snippet": "It's actually funny cuz Baron clocked that on his show last night. He was like, I think she canceled the appearance because of Druski.",
       "mentions_person_refs": [
-        "N-331",
-        "N-597",
+        "N-330",
+        "N-595",
         "N-2"
       ]
     },

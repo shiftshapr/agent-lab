@@ -850,8 +850,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
@@ -874,8 +874,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-210",
-      "ref": "N-210",
+      "@id": "N-209",
+      "ref": "N-209",
       "name": "Joe Kent",
       "type": "person",
       "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
@@ -897,8 +897,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -1116,8 +1116,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-214",
-      "ref": "N-214",
+      "@id": "N-213",
+      "ref": "N-213",
       "name": "Nick Shirley",
       "type": "person",
       "description": "Independent YouTuber interviewed by Kolvet on 9/10.",
@@ -1136,8 +1136,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-218",
-      "ref": "N-218",
+      "@id": "N-217",
+      "ref": "N-217",
       "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Wrote a post the host says confirms Erika learned of Charlie's death before the Provo flight (transcribed Elizabeth McCoy).",
@@ -1153,8 +1153,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-497",
-      "ref": "N-497",
+      "@id": "N-496",
+      "ref": "N-496",
       "name": "Doug DeGroote",
       "type": "person",
       "description": "TPUSA board member the host guesses was the donor (transcribed Doug De Root).",
@@ -1170,8 +1170,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-552",
-      "ref": "N-552",
+      "@id": "N-551",
+      "ref": "N-551",
       "name": "Aubrey Laitsch",
       "type": "person",
       "description": "Former TPUSA PR manager in the text thread with Justin and Andrew.",
@@ -1188,8 +1188,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-692",
-      "ref": "N-692",
+      "@id": "N-690",
+      "ref": "N-690",
       "name": "Laura Ingraham",
       "type": "person",
       "description": "Fox host whose show Andrew Kolvet is said to have discussed with Aubrey.",
@@ -1503,8 +1503,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-808",
-      "ref": "N-808",
+      "@id": "N-806",
+      "ref": "N-806",
       "name": "Ross Douthat",
       "type": "person",
       "description": "First named by the host at 00:30:36 in episode 82. New York Times reporter who interviewed Andrew Kolvet about the 9/10 show.",
@@ -1521,8 +1521,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-809",
-      "ref": "N-809",
+      "@id": "N-807",
+      "ref": "N-807",
       "name": "Michael Shellenberger",
       "type": "person",
       "description": "First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.",
@@ -1538,8 +1538,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-810",
-      "ref": "N-810",
+      "@id": "N-808",
+      "ref": "N-808",
       "name": "Pat Buchanan",
       "type": "person",
       "description": "First named by the host at 00:58:49 in episode 82 (from a viewer comment). Commentator the host says coined Israel's amen corner.",
@@ -1703,7 +1703,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-15",
-        "N-552"
+        "N-551"
       ]
     },
     {
@@ -1743,7 +1743,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-1",
-        "N-808"
+        "N-806"
       ]
     },
     {
@@ -1762,7 +1762,7 @@
       "claim_timestamp": "00:36:15",
       "investigative_direction": "Verify the Comando Vermelho footage, dates, and circumstances of Shirley's claimed access; check corroborating reporting.",
       "mentions_person_refs": [
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -1780,8 +1780,8 @@
       "investigative_direction": "Obtain the full Shellenberger-Kent interview; cross-reference Kent's stated investigation recommendations against DOJ / FBI disclosures.",
       "mentions_person_refs": [
         "N-1",
-        "N-210",
-        "N-809"
+        "N-209",
+        "N-807"
       ]
     },
     {
@@ -1836,7 +1836,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-1",
-        "N-808"
+        "N-806"
       ]
     },
     {
@@ -1871,7 +1871,7 @@
       "claim_timestamp": "00:03:02",
       "investigative_direction": "Verify the Baron Coleman clip is preserved as a discrete artifact; clarify node for Baron Coleman.",
       "mentions_person_refs": [
-        "N-331"
+        "N-330"
       ]
     },
     {
@@ -1890,8 +1890,8 @@
       "mentions_person_refs": [
         "N-14",
         "N-1",
-        "N-552",
-        "N-494"
+        "N-551",
+        "N-493"
       ]
     },
     {
@@ -1911,7 +1911,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-331"
+        "N-330"
       ]
     },
     {
@@ -1933,7 +1933,7 @@
       "investigative_direction": "Locate the Alo jumpsuit exchange and any TPUSA or Erika Kirk response to it; compare with responses to the Santa Barbara departure allegation.",
       "transcript_snippet": "That's when you choose to come in and answer the accusations? Are you serious?",
       "mentions_person_refs": [
-        "N-331",
+        "N-330",
         "N-2"
       ]
     },
@@ -1956,7 +1956,7 @@
       "investigative_direction": "Review Coleman's three shows and check whether TPUSA, Andrew Kolvet or Erika Kirk publicly addressed the Santa Barbara departure allegation.",
       "transcript_snippet": "But I do three shows accusing you of leaving Santa Barbara before Charlie got shot or banged or whatever happened to him? And you're just dead silent?",
       "mentions_person_refs": [
-        "N-331"
+        "N-330"
       ]
     },
     {
@@ -2061,7 +2061,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-218"
+        "N-217"
       ]
     },
     {
@@ -2150,7 +2150,7 @@
         "N-3",
         "N-14",
         "N-2",
-        "N-331"
+        "N-330"
       ]
     },
     {
@@ -2220,7 +2220,7 @@
       "transcript_snippet": "And Justin jumps in on the text it and he says that uh, \"It's up to Andrew.\" And Andrew doesn't answer",
       "mentions_person_refs": [
         "N-3",
-        "N-552",
+        "N-551",
         "N-15",
         "N-14",
         "N-1"
@@ -2271,8 +2271,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-552",
-        "N-692"
+        "N-551",
+        "N-690"
       ]
     },
     {
@@ -2505,7 +2505,7 @@
       "transcript_snippet": "In the weeks afterward, he goes really viral for discovering fraud in Somalian day care.",
       "mentions_person_refs": [
         "N-3",
-        "N-214",
+        "N-213",
         "N-14"
       ]
     },
@@ -2530,7 +2530,7 @@
       "transcript_snippet": "I just I don't like stupid. That did not happen, okay? That did not just happen.",
       "mentions_person_refs": [
         "N-3",
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -2552,7 +2552,7 @@
       "transcript_snippet": "the LDS Church. And he also happens to be from Utah.",
       "mentions_person_refs": [
         "N-3",
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -2575,7 +2575,7 @@
       "transcript_snippet": "I have not yet heard back from him. I sent it this morning, so it might take him some time to see my message on X.",
       "mentions_person_refs": [
         "N-3",
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -2715,7 +2715,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-210"
+        "N-209"
       ]
     },
     {
@@ -2738,8 +2738,8 @@
       "transcript_snippet": "And of course Joe Kent says, \"That wasn't my goal. My goal was just to tell the truth.\"",
       "mentions_person_refs": [
         "N-3",
-        "N-210",
-        "N-809",
+        "N-209",
+        "N-807",
         "N-40"
       ]
     },
@@ -2762,7 +2762,7 @@
       "investigative_direction": "Obtain the lab reports on DNA, caliber and casings from the case file.",
       "transcript_snippet": "There is a murder weapon that was found near the site of the shooting. It was owned by Tyler Robinson's family.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-14",
         "N-40",
         "N-1"
@@ -2793,7 +2793,7 @@
         "C-1766"
       ],
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-14",
         "N-40"
       ]
@@ -2817,7 +2817,7 @@
       "investigative_direction": "Obtain the charging documents describing the digital messages and any parental statements.",
       "transcript_snippet": "There's digital confessions, but also his parents are out there. They have never stepped forward and said this is a lie.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-14",
         "N-40"
       ]
@@ -2866,7 +2866,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-40",
-        "N-210"
+        "N-209"
       ]
     },
     {
@@ -2919,7 +2919,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-160",
+        "N-159",
         "N-14",
         "N-40"
       ]
@@ -3017,7 +3017,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-210"
+        "N-209"
       ]
     },
     {
@@ -3036,7 +3036,7 @@
       "transcript_snippet": "Come do that, Blake. Take me up on my offer, Blake.",
       "mentions_person_refs": [
         "N-3",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -3061,7 +3061,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-69",
-        "N-210"
+        "N-209"
       ]
     },
     {
@@ -3149,7 +3149,7 @@
       "transcript_snippet": "He coined the phrase Israel's amen corner in the early 90s.",
       "mentions_person_refs": [
         "N-3",
-        "N-810"
+        "N-808"
       ]
     },
     {
@@ -3171,7 +3171,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-160",
+        "N-159",
         "N-14",
         "N-1"
       ]
@@ -3192,7 +3192,7 @@
       "transcript_snippet": "My guess would be off the bat Doug De Root on the um he's on the board and I think he's a donor.",
       "mentions_person_refs": [
         "N-3",
-        "N-497"
+        "N-496"
       ]
     },
     {
@@ -3216,7 +3216,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-210",
+        "N-209",
         "N-2"
       ]
     },

@@ -16,8 +16,8 @@
   - Tip-minted Nodes (reintro-ep079): N-11145
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11235–C-11294
-  - New Nodes Introduced: N-592, N-595, N-10542
-  - Reused Nodes Appearing: N-101, N-5, N-378, N-10539, N-10540, N-594, N-596, N-10541, N-10543, N-2, N-4, N-9, N-37, N-40, N-46, N-179, N-205, N-245, N-269, N-391, N-521, N-10000, N-10082, N-10083, N-10132, N-10236, N-10237, N-10268, N-10386, N-10391, N-10406, N-10900, N-10962, N-11064, N-11096, N-11103, N-11128, N-11228, N-593, N-11057, N-10674
+  - New Nodes Introduced: N-590, N-593, N-10542
+  - Reused Nodes Appearing: N-101, N-5, N-377, N-10539, N-10540, N-592, N-594, N-10541, N-10543, N-2, N-4, N-9, N-37, N-40, N-46, N-178, N-204, N-244, N-268, N-390, N-520, N-10000, N-10082, N-10083, N-10132, N-10236, N-10237, N-10268, N-10386, N-10391, N-10406, N-10900, N-10962, N-11064, N-11096, N-11103, N-11128, N-11228, N-591, N-11057, N-10674
   - (see registers)
 
 ## 6. Meme Register
@@ -231,7 +231,7 @@ Video Timestamp: 00:21:32–00:21:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2478, N-1, N-3, N-592*
+*Related: C-2478, N-1, N-3, N-590*
 
 ---
 
@@ -245,7 +245,7 @@ Video Timestamp: 00:10:32–00:13:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads full exchange)
 
-*Related: C-2479, C-2480, N-1, N-593, N-5, N-10539*
+*Related: C-2479, C-2480, N-1, N-591, N-5, N-10539*
 
 ---
 
@@ -259,7 +259,7 @@ Video Timestamp: 00:07:35–00:08:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads Milo and Charlie's words verbatim)
 
-*Related: C-2481, N-221, N-97, N-10543*
+*Related: C-2481, N-220, N-97, N-10543*
 
 ---
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:20:00–00:20:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads verbatim)
 
-*Related: C-2482, N-592, N-3*
+*Related: C-2482, N-590, N-3*
 
 ---
 
@@ -287,7 +287,7 @@ Video Timestamp: 00:13:29–00:16:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads verbatim)
 
-*Related: C-2483, N-160, N-97, N-10543*
+*Related: C-2483, N-159, N-97, N-10543*
 
 ---
 
@@ -315,7 +315,7 @@ Video Timestamp: 00:24:34–00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2485, N-594, N-5, N-10541*
+*Related: C-2485, N-592, N-5, N-10541*
 
 ---
 
@@ -417,7 +417,7 @@ Video Timestamp: 00:27:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-595, N-10541*
+*Related: C-2488, N-593, N-10541*
 
 **A-1855.8** Statement attributed to Spain: "Spain will never accept any stopgap measures because the objective must be for the war to end and for it to end now."
 
@@ -447,7 +447,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-378, N-10541*
+*Related: C-2488, N-377, N-10541*
 
 ---
 
@@ -461,7 +461,7 @@ Video Timestamp: 00:36:50–00:40:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads her own piece verbatim)
 
-*Related: C-2493, N-3, N-596, N-10543*
+*Related: C-2493, N-3, N-594, N-10543*
 
 ---
 
@@ -475,7 +475,7 @@ Video Timestamp: 00:44:36–00:45:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbatim read; original screen not displayed)
 
-*Related: C-2489, N-223, N-22, N-10540*
+*Related: C-2489, N-222, N-22, N-10540*
 
 ---
 
@@ -532,7 +532,7 @@ Video Timestamp: 00:05:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11237, N-97, N-46, N-205*
+*Related: C-11237, N-97, N-46, N-204*
 
 ---
 
@@ -671,7 +671,7 @@ Investigative Pressure: High
 
 ---
 
-**N-592** Meghan McCain
+**N-590** Meghan McCain
 
 Author of X post A-1849.1 and subject of Charlie Kirk text A-1846.3.
 
@@ -684,7 +684,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-593** Bret Weinstein
+**N-591** Bret Weinstein
 
 Co-party to text exchange A-1847.1 with Charlie Kirk regarding Iran war.
 
@@ -697,7 +697,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-221** Milo Yiannopoulos
+**N-220** Milo Yiannopoulos
 
 Author of text messages disclosed in A-1848.1 regarding Ben Shapiro and TPUSA.
 
@@ -710,7 +710,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Author of X post A-1850.1 admitting Charlie/Ben rivalry.
 
@@ -736,7 +736,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-594** Pete Hegseth
+**N-592** Pete Hegseth
 
 Speaker in audio clip A-1852.1 regarding Strait of Hormuz.
 
@@ -762,7 +762,7 @@ Investigative Pressure: High
 
 ---
 
-**N-595** Giorgia Meloni
+**N-593** Giorgia Meloni
 
 Speaker attributed with statement (A-1855.7) criticizing US-Israeli war as outside international law.
 
@@ -775,7 +775,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-378** Emmanuel Macron
+**N-377** Emmanuel Macron
 
 Speaker attributed with statement (A-1855.10) regarding French navy escort.
 
@@ -788,7 +788,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-596** Jordan Peterson
+**N-594** Jordan Peterson
 
 Quoted by host in article A-1856.1.
 
@@ -801,7 +801,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-223** Randy Fine
+**N-222** Randy Fine
 
 Author of X post A-1857.1.
 
@@ -823,7 +823,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1847.1, C-2479, C-2480, N-1, N-593, N-5*
+*Related: A-1847.1, C-2479, C-2480, N-1, N-591, N-5*
 
 ---
 
@@ -943,7 +943,7 @@ Author of the list the host says was never published.
 
 ---
 
-**N-179** Jared Kushner
+**N-178** Jared Kushner
 
 The host says he is running the White House.
 
@@ -951,7 +951,7 @@ The host says he is running the White House.
 
 ---
 
-**N-205** Piers Morgan
+**N-204** Piers Morgan
 
 Journalist Shapiro is said to have attacked.
 
@@ -959,7 +959,7 @@ Journalist Shapiro is said to have attacked.
 
 ---
 
-**N-245** Mark Levin
+**N-244** Mark Levin
 
 Radio host the host links to pro-war pressure on Carlson.
 
@@ -967,7 +967,7 @@ Radio host the host links to pro-war pressure on Carlson.
 
 ---
 
-**N-269** Joe Rogan
+**N-268** Joe Rogan
 
 Podcaster the host says she ties in rankings.
 
@@ -975,7 +975,7 @@ Podcaster the host says she ties in rankings.
 
 ---
 
-**N-391** Andrew Breitbart
+**N-390** Andrew Breitbart
 
 Late publisher whose legacy the host says Shapiro tried to recreate.
 
@@ -983,7 +983,7 @@ Late publisher whose legacy the host says Shapiro tried to recreate.
 
 ---
 
-**N-521** Rothschild Family
+**N-520** Rothschild Family
 
 Family the host asserts created Israel and Macron.
 
@@ -1216,7 +1216,7 @@ Claim Timestamp: 00:21:32–00:21:48
 Claim: Per a text exchange the host shares, Charlie Kirk wrote of the McCains, "Disgrace. They are a disgrace family. A disgraceful family for the ways in which they have betrayed Americans and allowed for mass murder and bloody wars overseas."
 
 Anchored Artifacts: A-1846.3
-Mentions: N-1, N-3, N-592
+Mentions: N-1, N-3, N-590
 
 Related Nodes:
 
@@ -1231,7 +1231,7 @@ Claim Timestamp: 00:10:32–00:13:29
 Claim: Per a statement by Bret Weinstein that the host reads, Weinstein says that in a June 18 text exchange Charlie Kirk told him he was "spending two full days at the White House trying to persuade President Trump not to initiate a war with Iran," and in the texts Weinstein shares, Kirk wrote that he was "in the White House all day fighting for America."
 
 Anchored Artifacts: A-1847.1
-Mentions: N-1, N-5, N-593
+Mentions: N-1, N-5, N-591
 
 Related Nodes: N-10539
 
@@ -1246,7 +1246,7 @@ Claim Timestamp: 00:11:38–00:12:38
 Claim: In the June 18 text exchange the host reads, Bret Weinstein wrote "We have to shut these maniacs down" regarding neocons advocating war with Iran, and Charlie Kirk replied "thank you. I totally agree."
 
 Anchored Artifacts: A-1847.1
-Mentions: N-1, N-593
+Mentions: N-1, N-591
 
 Related Nodes: N-10539
 
@@ -1261,7 +1261,7 @@ Claim Timestamp: 00:07:35–00:08:50
 Claim: Per a post by Milo Yiannopoulos that the host reads, Milo wrote that Ben Shapiro "began seek to secretly commission hit jobs on Turning Point USA a decade ago," and in a text exchange Milo shared, Charlie Kirk replied that he wanted to allow it to "play out" before saying something.
 
 Anchored Artifacts: A-1848.1
-Mentions: N-97, N-221, N-1
+Mentions: N-97, N-220, N-1
 
 Related Nodes:
 
@@ -1276,7 +1276,7 @@ Claim Timestamp: 00:20:00–00:20:51
 Claim: Meghan McCain posted on X: "Stop sharing dead people's text messages, you absolute psychopaths."
 
 Anchored Artifacts: A-1849.1
-Mentions: N-592
+Mentions: N-590
 
 
 Investigative Direction: Direct retrieval of the original X post via archive.
@@ -1290,7 +1290,7 @@ Claim Timestamp: 00:13:29–00:16:34
 Claim: Blake Neff posted on X, as the host reads, that Charlie Kirk did not hate Ben Shapiro, that the two "differed about the best direction for the conservative movement" and that "Charlie saw Ben as a rival."
 
 Anchored Artifacts: A-1850.1
-Mentions: N-97, N-160, N-1
+Mentions: N-97, N-159, N-1
 
 Related Nodes:
 
@@ -1319,7 +1319,7 @@ Claim Timestamp: 00:24:34–00:25:35
 Claim: Pete Hegseth stated in a press exchange: "The only thing prohibiting transit in the straits right now is Iran shooting at shipping. It is open for transit should Iran not do that."
 
 Anchored Artifacts: A-1852.1
-Mentions: N-594
+Mentions: N-592
 
 Related Nodes: N-10541
 
@@ -1364,7 +1364,7 @@ Claim Timestamp: 00:26:19–00:28:13
 Claim: The host reads statements attributed to governments including Germany, the EU, Britain, Australia, Japan, China, Spain and South Korea that decline or hedge on participating in Strait of Hormuz escort operations. She says Italy's Meloni described the war as part of a trend of interventions outside the scope of international law, and that France's Emmanuel Macron said he would be willing to use the French navy to escort ships only if the conflict stabilized.
 
 Anchored Artifacts: A-1855.1, A-1855.2, A-1855.3, A-1855.4, A-1855.5, A-1855.6, A-1855.7, A-1855.8, A-1855.9, A-1855.10
-Mentions: N-378, N-595
+Mentions: N-377, N-593
 
 Related Nodes: N-10541
 
@@ -1379,7 +1379,7 @@ Claim Timestamp: 00:44:36–00:45:22
 Claim: Randy Fine posted on X: "It sounds like Tucker Carlson is learning the hard way. 'And I will bless those who bless you, and the one who curses you I will curse.'"
 
 Anchored Artifacts: A-1857.1
-Mentions: N-22, N-223
+Mentions: N-22, N-222
 
 Related Nodes: N-10540
 
@@ -1439,7 +1439,7 @@ Claim Timestamp: 00:36:50–00:40:07
 Claim: Candace Owens published her thoughts (read aloud in this episode), quoting Jordan Peterson ("you cannot twist the fabric of reality without it snapping back") and arguing Zionists are "their own worst enemy"; she says separately that they were trying a "fake it till you make it" strategy with war.
 
 Anchored Artifacts: A-1856.1
-Mentions: N-3, N-596
+Mentions: N-3, N-594
 
 Related Nodes:
 
@@ -1472,7 +1472,7 @@ Claim: The host says Trump has apparently allowed Mark Levin's "special class of
 Transcript Snippet: Trump has apparently allowed Mark Levin's special class of psychos to go after Tucker Carlson. They want to They want to imprison him. They are explicit in that demand.
 
 Anchored Artifacts: 
-Mentions: N-3, N-245, N-22, N-5
+Mentions: N-3, N-244, N-22, N-5
 Related Nodes: N-10540
 Tags: relevance:context
 Investigative Direction: Collect Levin's and allied commentators' public calls to jail Carlson, and any White House statement on the CIA referral.
@@ -1488,7 +1488,7 @@ Claim: The host says Ben Shapiro posted online that Megyn Kelly is a coward and 
 Transcript Snippet: Meghan is a coward. Piers Morgan is a click whore.
 
 Anchored Artifacts: A-3123.1
-Mentions: N-97, N-46, N-205, N-3
+Mentions: N-97, N-46, N-204, N-3
 Related Nodes: N-10406
 Tags: relevance:context
 Investigative Direction: Retrieve Shapiro's original X posts about Kelly and Morgan from the weekend before 2026-03-16 and compare the wording.
@@ -1553,7 +1553,7 @@ Claim: The host reads Milo Yiannopoulos saying that while he and Kirk were brief
 Transcript Snippet: all he talked about was how was how amazing Candace was and how effing evil Ben is.
 
 Anchored Artifacts: A-1848.1
-Mentions: N-221, N-1, N-97, N-3
+Mentions: N-220, N-1, N-97, N-3
 Related Nodes: N-10543
 Supports: C-2481
 Tags: relevance:core
@@ -1684,7 +1684,7 @@ Claim: The host reads Bret Weinstein saying that, given Kirk's closeness to Trum
 Transcript Snippet: it is reasonable to wonder if his refusal to back down from his steadfast opposition somehow resulted in his murder.
 
 Anchored Artifacts: A-1847.1
-Mentions: N-593, N-1, N-5
+Mentions: N-591, N-1, N-5
 Related Nodes: N-10539, N-11128
 Tags: relevance:core
 Investigative Direction: Obtain Weinstein's original post and date; ask him what basis exists beyond the timing of Kirk's opposition.
@@ -1700,7 +1700,7 @@ Claim: The host reads Weinstein saying that a good investigation could have sett
 Transcript Snippet: A good investigation could have settled the matter. What we got only increases the reason for concern.
 
 Anchored Artifacts: A-1847.1
-Mentions: N-593, N-1
+Mentions: N-591, N-1
 Related Nodes: N-10539
 Tags: relevance:core
 Investigative Direction: Obtain Weinstein's full post and identify which investigative product he judges inadequate.
@@ -1716,7 +1716,7 @@ Claim: The host reads Weinstein saying Kirk was in a strong position to keep the
 Transcript Snippet: the timing of his death removed him from the equation and likely changed the course of history.
 
 Anchored Artifacts: A-1847.1
-Mentions: N-593, N-1
+Mentions: N-591, N-1
 Related Nodes: N-10539
 Tags: relevance:core
 Investigative Direction: Find Kirk's recorded or texted worries about his own safety and about the Iran decision to test Weinstein's final phrase.
@@ -1732,7 +1732,7 @@ Claim: The host reads Kirk's reply to Weinstein theorizing that dissident media 
 Transcript Snippet: driving real-time mass public opinion yet. The neocons are.
 
 Anchored Artifacts: A-1847.1
-Mentions: N-1, N-593
+Mentions: N-1, N-591
 Related Nodes: N-10539
 Tags: relevance:context
 Investigative Direction: Verify the full June 18 thread, which the host says she reads in part.
@@ -1748,7 +1748,7 @@ Claim: The host reads Blake Neff's post saying Ben Shapiro supported Ron DeSanti
 Transcript Snippet: Ben supported Ron DeSantis in the 2024 primary while Charlie was all in for Trump from the start.
 
 Anchored Artifacts: A-1850.1
-Mentions: N-160, N-97, N-1, N-4, N-5
+Mentions: N-159, N-97, N-1, N-4, N-5
 Related Nodes: N-10543
 Tags: relevance:context
 Investigative Direction: Retrieve Neff's original post and verify Shapiro's 2024 primary endorsement and Kirk's endorsement date.
@@ -1764,7 +1764,7 @@ Claim: The host says Blake Neff was not around for the building of Turning Point
 Transcript Snippet: Blake was not even around for the building of Turning Point.
 
 Anchored Artifacts: A-1850.1
-Mentions: N-3, N-160, N-1, N-97
+Mentions: N-3, N-159, N-1, N-97
 Related Nodes: N-11057
 Tags: relevance:context
 Investigative Direction: Establish Neff's start date at TPUSA and compare with the founding timeline Kirk described.
@@ -1780,7 +1780,7 @@ Claim: The host says Ben Shapiro was trying to take Andrew Breitbart's legacy an
 Transcript Snippet: Ben Shapiro was trying to take Andrew Breitbart's legacy and recreate it by manufacturing a scandal with The Daily Wire.
 
 Anchored Artifacts: 
-Mentions: N-97, N-391, N-1, N-3
+Mentions: N-97, N-390, N-1, N-3
 Related Nodes: N-10900, N-10391
 Tags: relevance:context
 Investigative Direction: Ask the host what scandal she means and compare with the Daily Wire founding narrative.
@@ -1895,7 +1895,7 @@ Claim: The host says the Kirk text about Meghan McCain is real, and that she sho
 Transcript Snippet: Yes, it's real. And I actually shortened it.
 
 Anchored Artifacts: A-1846.3
-Mentions: N-3, N-592, N-1
+Mentions: N-3, N-590, N-1
 Related Nodes: N-10543
 Supports: C-2478
 Tags: relevance:context
@@ -2009,7 +2009,7 @@ Claim: The host says Macron is saying what the Rothschilds told him to say becau
 Transcript Snippet: the Rothschilds are Israel, they created Israel, and they created Emmanuel Macron.
 
 Anchored Artifacts: 
-Mentions: N-378, N-521, N-3
+Mentions: N-377, N-520, N-3
 Tags: relevance:tangential
 Investigative Direction: No primary record offered; ask the host for any document linking the Rothschild family to Macron's career or to Israel's founding.
 
@@ -2186,7 +2186,7 @@ Claim: The host says it was just announced that she and Joe Rogan are in a three
 Transcript Snippet: me and Joe Rogan are in a three-way tie with one other podcast uh for the top podcasts.
 
 Anchored Artifacts: 
-Mentions: N-3, N-269
+Mentions: N-3, N-268
 Related Nodes: N-11228
 Tags: relevance:tangential
 Investigative Direction: Check the chart provider and date of the ranking the host cites.
@@ -2202,7 +2202,7 @@ Claim: The host says Mark Levin and others are getting top podcast status by buy
 Transcript Snippet: They're buying those things through ads. It's fake. The numbers are not real.
 
 Anchored Artifacts: 
-Mentions: N-3, N-245, N-97
+Mentions: N-3, N-244, N-97
 Related Nodes: N-11228
 Tags: relevance:tangential
 Investigative Direction: Compare podcast-ranking data with disclosed ad spending, if any.
@@ -2412,7 +2412,7 @@ Claim: The host says that this is what happens when Jared Kushner is running the
 Transcript Snippet: This is what happens when Jared Kushner um is running the White House uh with his father who is in Paris.
 
 Anchored Artifacts: 
-Mentions: N-179, N-3
+Mentions: N-178, N-3
 Tags: relevance:context
 Investigative Direction: Document Kushner's official or informal role in the administration in March 2026.
 

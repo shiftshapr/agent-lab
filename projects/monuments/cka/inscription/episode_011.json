@@ -682,7 +682,7 @@
       "@type": "Person",
       "@id": "N-128",
       "ref": "N-128",
-      "name": "Shane Lyman",
+      "name": "Shaner Broderick",
       "type": "person",
       "description": "Nephew of Phil Lyman; posted public Instagram content retracing the shooter's route near his grandmother's house; profile subsequently set to private after host inquiry.",
       "related_artifacts": [
@@ -1082,8 +1082,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-273",
-      "ref": "N-273",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Nate Brooksby",
       "type": "person",
       "description": "Washington County sheriff; the host plays his press-conference account.",
@@ -1575,7 +1575,7 @@
       "claim_timestamp": "00:09:06",
       "investigative_direction": "Cross-reference call logs and the court filings already referenced by Brooksby (court documents where the friend was named as a \"retired Washington County deputy\").",
       "mentions_person_refs": [
-        "N-273",
+        "N-272",
         "N-125"
       ]
     },
@@ -1594,7 +1594,7 @@
       "claim_timestamp": "00:17:27",
       "investigative_direction": "Pull the cited court documents and compare Brooksby's public statements with the actual filed text.",
       "mentions_person_refs": [
-        "N-273",
+        "N-272",
         "N-125"
       ]
     },
@@ -1614,7 +1614,7 @@
       "claim_timestamp": "00:09:48",
       "investigative_direction": "Obtain the full unedited press-conference audio and any internal law-enforcement notes from the call.",
       "mentions_person_refs": [
-        "N-273",
+        "N-272",
         "N-40"
       ]
     },
@@ -1634,7 +1634,7 @@
       "claim_timestamp": "00:10:42",
       "investigative_direction": "Obtain any negotiated-surrender documentation; reconcile with the contemporaneous suicide-ideation claim.",
       "mentions_person_refs": [
-        "N-273",
+        "N-272",
         "N-40"
       ]
     },
@@ -1712,7 +1712,7 @@
       "claim_timestamp": "00:08:45",
       "investigative_direction": "Seek clarification from Brooksby or from the Washington County Sheriff's Office on which account is operative.",
       "mentions_person_refs": [
-        "N-273",
+        "N-272",
         "N-40"
       ]
     },
@@ -1822,7 +1822,7 @@
       "@id": "C-1312",
       "ref": "C-1312",
       "label": "Shane Lyman publicly retraced the shooter's steps near his grandmother's house",
-      "claim": "Shane Lyman's Instagram post presented a map of the area near his grandmother's house and stated he and friends retraced the shooter's steps, taking \"pictures in the exact place that the security cameras caught him\"; the image showed Converse-brand footprints.",
+      "claim": "Shane Lyman [Shaner Broderick]'s Instagram post presented a map of the area near his grandmother's house and stated he and friends retraced the shooter's steps, taking \"pictures in the exact place that the security cameras caught him\"; the image showed Converse-brand footprints.",
       "anchored_artifacts": [
         "A-1181.1"
       ],
@@ -1841,7 +1841,7 @@
       "@id": "C-1313",
       "ref": "C-1313",
       "label": "Shane Lyman's Instagram included side-by-side staircase photos with three unidentified individuals",
-      "claim": "Shane Lyman's Instagram post showed side-by-side photos of Shane and three friends on a staircase; the host states she could not find two of the individuals on his friends list.",
+      "claim": "Shane Lyman [Shaner Broderick]'s Instagram post showed side-by-side photos of Shane and three friends on a staircase; the host states she could not find two of the individuals on his friends list.",
       "anchored_artifacts": [
         "A-1181.2"
       ],
@@ -2444,7 +2444,7 @@
       "investigative_direction": "Obtain the unedited clip and the call logs for the 8:02 p.m. call the sheriff described.",
       "transcript_snippet": "He he'll we'll call each&nbsp;&nbsp; other. It's not it's not unusual for me to get&nbsp; a call from him or vice versa.",
       "mentions_person_refs": [
-        "N-273"
+        "N-272"
       ]
     },
     {
@@ -2467,7 +2467,7 @@
       "investigative_direction": "Obtain the unedited press-conference audio to confirm whether Brooksby said 'voluntarily' or 'involuntarily'. Identify the friend's religious association with the family (court filings named him).",
       "transcript_snippet": "I know the family through religious&nbsp; association and uh he's in he's in Washington&nbsp;&nbsp; County now and we're working on trying to get&nbsp; him to come involuntarily.",
       "mentions_person_refs": [
-        "N-273"
+        "N-272"
       ]
     },
     {
@@ -2900,7 +2900,7 @@
       "transcript_snippet": "I think Brooksby has some nervous energy&nbsp; there when he's like, \"Oh, he called me. That's&nbsp;&nbsp; just totally usual. That's not weird.\"",
       "mentions_person_refs": [
         "N-3",
-        "N-273"
+        "N-272"
       ]
     },
     {

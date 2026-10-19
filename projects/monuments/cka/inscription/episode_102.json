@@ -557,7 +557,7 @@
           "related_nodes": [
             "N-10667",
             "N-10897",
-            "N-160"
+            "N-159"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -635,7 +635,7 @@
             "C-13014"
           ],
           "related_nodes": [
-            "N-158",
+            "N-157",
             "N-3"
           ],
           "tags": [],
@@ -663,7 +663,7 @@
           ],
           "related_nodes": [
             "N-10367",
-            "N-362"
+            "N-361"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -692,8 +692,8 @@
           "related_nodes": [
             "N-10373",
             "N-10862",
-            "N-225",
-            "N-267",
+            "N-224",
+            "N-266",
             "N-3"
           ],
           "tags": [],
@@ -1104,8 +1104,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-155",
-      "ref": "N-155",
+      "@id": "N-154",
+      "ref": "N-154",
       "name": "John Mappin",
       "type": "person",
       "description": "Referenced by viewer comment \"fam\"; author of \"The Perfumed Pervert\" essay.",
@@ -1122,8 +1122,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
@@ -1142,8 +1142,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -1171,8 +1171,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -1187,8 +1187,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-432",
-      "ref": "N-432",
+      "@id": "N-431",
+      "ref": "N-431",
       "name": "John Amanchukwu",
       "type": "person",
       "description": "First named by the host at 00:07:32 in episode 102.",
@@ -1205,8 +1205,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-433",
-      "ref": "N-433",
+      "@id": "N-432",
+      "ref": "N-432",
       "name": "Kimberly Klacik",
       "type": "person",
       "description": "First named by the host at 00:09:42 in episode 102. Aliases: Kim Klacik.",
@@ -1222,8 +1222,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-425",
-      "ref": "N-425",
+      "@id": "N-424",
+      "ref": "N-424",
       "name": "Marcus Wada",
       "type": "person",
       "description": "First named by the host at 00:42:41 in episode 92.",
@@ -1309,8 +1309,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-158",
-      "ref": "N-158",
+      "@id": "N-157",
+      "ref": "N-157",
       "name": "The Quartering",
       "type": "person",
       "description": "The Quartering; subject of a viewer comment about a potential lawsuit.",
@@ -1326,8 +1326,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-214",
-      "ref": "N-214",
+      "@id": "N-213",
+      "ref": "N-213",
       "name": "Nick Shirley",
       "type": "person",
       "description": "Nick Shirley; subject of the host's favela video skepticism.",
@@ -1352,8 +1352,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-225",
-      "ref": "N-225",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Shawn Ryan; host of the interview in which Harpole appeared.",
@@ -1370,8 +1370,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Tim Pool",
       "type": "person",
       "description": "Tim Pool; named among those backing Shirley.",
@@ -1387,8 +1387,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Bari Weiss; interviewed Erika with the cut clip about the host.",
@@ -1405,8 +1405,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-362",
-      "ref": "N-362",
+      "@id": "N-361",
+      "ref": "N-361",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Mitch Snow; the Fort Huachuca eyewitness.",
@@ -1436,8 +1436,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-485",
-      "ref": "N-485",
+      "@id": "N-484",
+      "ref": "N-484",
       "name": "Blake Lively",
       "type": "person",
       "description": "Blake Lively; party in the dispute the host cites.",
@@ -1453,8 +1453,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-486",
-      "ref": "N-486",
+      "@id": "N-485",
+      "ref": "N-485",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Justin Baldoni; party in the dispute the host cites.",
@@ -1470,8 +1470,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-582",
-      "ref": "N-582",
+      "@id": "N-580",
+      "ref": "N-580",
       "name": "Thomas Massie",
       "type": "person",
       "description": "Thomas Massie; named in a viewer comment.",
@@ -1487,8 +1487,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-597",
-      "ref": "N-597",
+      "@id": "N-595",
+      "ref": "N-595",
       "name": "Druski",
       "type": "person",
       "description": "Druski (spelled Druski and Druski in the transcript); comedian whose skit mocked Erika.",
@@ -1507,8 +1507,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-801",
-      "ref": "N-801",
+      "@id": "N-799",
+      "ref": "N-799",
       "name": "Harris Faulkner",
       "type": "person",
       "description": "Harris Faulkner; Fox host who interviewed Erika.",
@@ -1524,8 +1524,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-895",
-      "ref": "N-895",
+      "@id": "N-892",
+      "ref": "N-892",
       "name": "Bryan Freedman",
       "type": "person",
       "description": "Bryan Freedman; lawyer whose publish-it-all approach the host cites.",
@@ -2031,7 +2031,7 @@
       "investigative_direction": "Verify the original post; check WHCD invitation lists if publicly available.",
       "mentions_person_refs": [
         "N-14",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2091,7 +2091,7 @@
       "claim_timestamp": "00:07:32",
       "investigative_direction": "Verify Wada's TPUSA employment and the scope of his AI services; identify any other clients or projects; obtain a sample of his AI-generated voice work.",
       "mentions_person_refs": [
-        "N-425"
+        "N-424"
       ]
     },
     {
@@ -2110,7 +2110,7 @@
       "claim_timestamp": "00:07:32",
       "investigative_direction": "Obtain a TPUSA presentation featuring the contested voice; verify with Pastor Amanchukwu whether he consented to voice cloning; secure source's full statement.",
       "mentions_person_refs": [
-        "N-432"
+        "N-431"
       ]
     },
     {
@@ -2129,7 +2129,7 @@
       "claim_timestamp": "00:09:42",
       "investigative_direction": "Verify Mappin's original X post and identify the donor he referenced; obtain Mappin's full statement.",
       "mentions_person_refs": [
-        "N-155"
+        "N-154"
       ]
     },
     {
@@ -2149,7 +2149,7 @@
       "investigative_direction": "Verify the original post; obtain TPUSA board meeting minutes documenting Erika's CEO election.",
       "mentions_person_refs": [
         "N-2",
-        "N-433"
+        "N-432"
       ]
     },
     {
@@ -2240,7 +2240,7 @@
       "claim_timestamp": "00:18:59",
       "investigative_direction": "Obtain ASU's archived 2012 course catalog directly from the university or library archives; verify the degree offerings list.",
       "mentions_person_refs": [
-        "N-331",
+        "N-330",
         "N-2"
       ]
     },
@@ -2279,7 +2279,7 @@
       "claim_timestamp": "00:26:59",
       "investigative_direction": "Locate the original favela video; verify any corroborating evidence (local news, authorities, contacts).",
       "mentions_person_refs": [
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -2300,7 +2300,7 @@
       "mentions_person_refs": [
         "N-57",
         "N-3",
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -2321,7 +2321,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-99",
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -2340,9 +2340,9 @@
       "claim_timestamp": "00:49:33",
       "investigative_direction": "Verify the flight records independently through airline records or TSA; obtain Brian Harpole's full itinerary for the date in question.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-2",
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2421,9 +2421,9 @@
       "claim_timestamp": "00:45:18",
       "investigative_direction": "Obtain Candace's documented record of the interview; verify the flight records independently.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-2",
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -2488,7 +2488,7 @@
       "investigative_direction": "Pull Blake Neff's X reply to Project Constitution and confirm its wording, time and the post it answered.",
       "transcript_snippet": "Blake Neff jumped in. He wrote back to Project Constitution, you are not very smart, are you?",
       "mentions_person_refs": [
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2552,7 +2552,7 @@
       "investigative_direction": "Find Blake Neff's own public or private statement expressing this concern, including its date and audience.",
       "transcript_snippet": "Blake has specifically expressed concern, you will recall, that if they do drop it, people will say it's AI.",
       "mentions_person_refs": [
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2638,7 +2638,7 @@
         "C-11428"
       ],
       "mentions_person_refs": [
-        "N-425"
+        "N-424"
       ]
     },
     {
@@ -2656,7 +2656,7 @@
       "investigative_direction": "Ask John Mappin or TPUSA donor records who the largest donor is and who made the introduction.",
       "transcript_snippet": "John Mappin, who is the person who introduced Charlie to actually his biggest donor.",
       "mentions_person_refs": [
-        "N-155",
+        "N-154",
         "N-1"
       ]
     },
@@ -2716,7 +2716,7 @@
       "investigative_direction": "Locate Blake Neff's original subway comparison and any TPUSA statement tying it to the non-release of the video.",
       "transcript_snippet": "you guys can take your bets on whether you believe Blake Neff and his uh Subway killer scenario as the reason they won't release the video.",
       "mentions_person_refs": [
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2892,7 +2892,7 @@
       "investigative_direction": "Identify who is using the term and what they cite for the claim that Shirley is media-created.",
       "transcript_snippet": "like he's this the term that they use here is fed jacketed. Like essentially, he's being created by the media.",
       "mentions_person_refs": [
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -2912,7 +2912,7 @@
       "investigative_direction": "Review the host's September 10 show and her follow-up conversation with the person for what was said and corrected.",
       "transcript_snippet": "That's the reason I covered him on the show on September 10th when I was trying to work through timelines and I made a mistake.",
       "mentions_person_refs": [
-        "N-214",
+        "N-213",
         "N-3",
         "N-1"
       ]
@@ -2937,7 +2937,7 @@
         "C-8531"
       ],
       "mentions_person_refs": [
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -2958,8 +2958,8 @@
       "investigative_direction": "Collect the posts defending Shirley and their timing relative to the host's remark.",
       "transcript_snippet": "it was like trending and all of these people, the people I trust the least, by the way. I mean, like Tim Pool, everyone's like writing these statements",
       "mentions_person_refs": [
-        "N-214",
-        "N-268"
+        "N-213",
+        "N-267"
       ]
     },
     {
@@ -3023,7 +3023,7 @@
       "transcript_snippet": "PBD's pretending he had no idea. He completely already knew I said this.",
       "mentions_person_refs": [
         "N-57",
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -3043,7 +3043,7 @@
       "investigative_direction": "Review Shirley's antifa and El Salvador videos for sourcing and the access he claims.",
       "transcript_snippet": "whoever is your contact that has you infiltrating antifa and infiltrating El Salvador at the age of 23 years old",
       "mentions_person_refs": [
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -3064,7 +3064,7 @@
       "transcript_snippet": "Meaning your your handler or you're representing somebody?",
       "mentions_person_refs": [
         "N-57",
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -3086,7 +3086,7 @@
       "investigative_direction": "Obtain the PBD episode and confirm the quote and context.",
       "transcript_snippet": "maybe if these podcasters would actually leave their podcast studios, no offense, Pat, uh they leave their podcast studios and go and like do journalism, like they'd actually see like stuff just sometimes just happens.",
       "mentions_person_refs": [
-        "N-214",
+        "N-213",
         "N-57"
       ]
     },
@@ -3110,7 +3110,7 @@
         "C-8533"
       ],
       "mentions_person_refs": [
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -3173,7 +3173,7 @@
       "investigative_direction": "Review Shirley's Cuba video and posts for what he says happened and when.",
       "transcript_snippet": "He claims he he went to Cuba. He was almost taken hostage.",
       "mentions_person_refs": [
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -3231,7 +3231,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-597"
+        "N-595"
       ]
     },
     {
@@ -3252,7 +3252,7 @@
       "transcript_snippet": "the people that were trying to turn that into something racial, like Andrew Kolvet, now do like black conservatives.",
       "mentions_person_refs": [
         "N-14",
-        "N-597",
+        "N-595",
         "N-2"
       ]
     },
@@ -3273,7 +3273,7 @@
       "investigative_direction": "Locate the nail salon skit and its date.",
       "transcript_snippet": "He dressed up like he was Vietnamese person, did this whole nail salon thing.",
       "mentions_person_refs": [
-        "N-597"
+        "N-595"
       ]
     },
     {
@@ -3293,7 +3293,7 @@
       "investigative_direction": "Locate the video and its date.",
       "transcript_snippet": "just last week he dropped a massive video where he was targeting black British actors and it was hilarious and we just laughed at it.",
       "mentions_person_refs": [
-        "N-597"
+        "N-595"
       ]
     },
     {
@@ -3379,7 +3379,7 @@
       "investigative_direction": "Search court dockets for any complaint against The Quartering and who is suing.",
       "transcript_snippet": "the Quartering has messed with you on X and is now facing a potential lawsuit involving false flagging and deplatforming other YouTube channels, as well as for doxing and harassment.",
       "mentions_person_refs": [
-        "N-158",
+        "N-157",
         "N-3"
       ]
     },
@@ -3400,9 +3400,9 @@
       "investigative_direction": "Watch for the host's publication of the Fort Huachuca timeline, messages and documents.",
       "transcript_snippet": "I'm thinking about doing the Bryan Freedman thing, which was obviously a lawyer Blake Lively Justin Baldoni, where he just put it all online cuz I have nothing to hide.",
       "mentions_person_refs": [
-        "N-895",
+        "N-892",
+        "N-484",
         "N-485",
-        "N-486",
         "N-3"
       ]
     },
@@ -3423,7 +3423,7 @@
       "investigative_direction": "The host's original email and call log would show who made first contact.",
       "transcript_snippet": "it was Mitch's friend that emailed me, and I called him, and he said his story.",
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },
@@ -3448,8 +3448,8 @@
         "C-6761"
       ],
       "mentions_person_refs": [
-        "N-362",
-        "N-267",
+        "N-361",
+        "N-266",
         "N-2"
       ]
     },
@@ -3473,8 +3473,8 @@
         "C-6758"
       ],
       "mentions_person_refs": [
-        "N-362",
-        "N-267"
+        "N-361",
+        "N-266"
       ]
     },
     {
@@ -3494,9 +3494,9 @@
       "investigative_direction": "Candlewood hotel records and security footage for September 8, 2025.",
       "transcript_snippet": "he saw her at a hotel. It wasn't related to the meeting. He didn't see her with Brian",
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-2",
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -3540,7 +3540,7 @@
       "transcript_snippet": "I said he saw Brian Harpole on the 9th, right? Removed Erika from it entirely.",
       "mentions_person_refs": [
         "N-3",
-        "N-267",
+        "N-266",
         "N-2"
       ]
     },
@@ -3565,7 +3565,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-801",
+        "N-799",
         "N-3"
       ]
     },
@@ -3587,7 +3587,7 @@
       "transcript_snippet": "Then the day after that she did Bari Weiss and they cut the clip of her saying, \"What do you have to say to the podcaster Candace Owens?\"",
       "mentions_person_refs": [
         "N-2",
-        "N-279",
+        "N-278",
         "N-3"
       ]
     },
@@ -3609,7 +3609,7 @@
       "transcript_snippet": "I then would later find out that they had planned that the question answer segment",
       "mentions_person_refs": [
         "N-2",
-        "N-279",
+        "N-278",
         "N-3"
       ]
     },
@@ -3651,7 +3651,7 @@
       "transcript_snippet": "I get Ian Carroll calling me and he's got Paramount Tactical I mean uh Valhalla the YouTuber Green Beret basically already threatening me like don't don't interview Mitch.",
       "mentions_person_refs": [
         "N-130",
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },
@@ -3673,7 +3673,7 @@
       "investigative_direction": "Obtain the written threat and identify its sender.",
       "transcript_snippet": "So I'm getting threatened with a lawsuit before I even interview Mitch and I'm like dude, what's up?",
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },
@@ -3697,8 +3697,8 @@
         "C-5398"
       ],
       "mentions_person_refs": [
-        "N-267",
-        "N-362",
+        "N-266",
+        "N-361",
         "N-3"
       ]
     },
@@ -3722,7 +3722,7 @@
         "C-6837"
       ],
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-3"
       ]
     },
@@ -3791,8 +3791,8 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-267",
-        "N-225"
+        "N-266",
+        "N-224"
       ]
     },
     {
@@ -3835,7 +3835,7 @@
       "mentions_person_refs": [
         "N-15",
         "N-3",
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -3855,7 +3855,7 @@
       "investigative_direction": "The episode's air date and the host's publication log.",
       "transcript_snippet": "And then I interviewed him. I did it on the 18th.",
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },
@@ -3880,7 +3880,7 @@
         "C-9929"
       ],
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },
@@ -3905,7 +3905,7 @@
         "C-6763"
       ],
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -3926,7 +3926,7 @@
       "investigative_direction": "Compare their messages to the host with their calls to Mitch.",
       "transcript_snippet": "they were telling me the opposite or trying to tell me the opposite that this is a a case of stolen valor.",
       "mentions_person_refs": [
-        "N-362",
+        "N-361",
         "N-3"
       ]
     },
@@ -4094,7 +4094,7 @@
         "C-1987"
       ],
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -4120,7 +4120,7 @@
         "C-8102"
       ],
       "mentions_person_refs": [
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -4141,7 +4141,7 @@
       "transcript_snippet": "So, they took me from being 40/60, maybe even 30/70.",
       "mentions_person_refs": [
         "N-3",
-        "N-362"
+        "N-361"
       ]
     },
     {
@@ -4164,7 +4164,7 @@
       "investigative_direction": "Compare the filing's factual statements with the record.",
       "transcript_snippet": "And the amount of times that Brian Harpole lies in this lawsuit on its face, to me, does not make me think he was not at Fort Huachuca.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -4186,7 +4186,7 @@
       "investigative_direction": "Read the complaint paragraph on the alibi and compare with the host's account.",
       "transcript_snippet": "Him saying Candace had his alibi, they know that is objectively not true.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-3"
       ]
     },
@@ -4213,8 +4213,8 @@
         "C-2816"
       ],
       "mentions_person_refs": [
-        "N-267",
-        "N-225",
+        "N-266",
+        "N-224",
         "N-3"
       ]
     },
@@ -4235,7 +4235,7 @@
       "investigative_direction": "The message thread would show the count; earlier episodes gave smaller numbers.",
       "transcript_snippet": "I messaged him four times",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-3"
       ]
     },
@@ -4257,7 +4257,7 @@
       "investigative_direction": "Check the court docket for any submitted alibi evidence.",
       "transcript_snippet": "They still have not provided any receipts as to his whereabouts on the morning of the 9th and I look forward to getting them.",
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {

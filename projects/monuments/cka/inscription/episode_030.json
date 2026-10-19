@@ -141,8 +141,8 @@
           ],
           "related_nodes": [
             "N-7",
-            "N-209",
-            "N-247"
+            "N-208",
+            "N-246"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -161,8 +161,8 @@
           ],
           "related_nodes": [
             "N-7",
-            "N-209",
-            "N-247",
+            "N-208",
+            "N-246",
             "N-1"
           ],
           "tags": [],
@@ -189,7 +189,7 @@
             "C-1672"
           ],
           "related_nodes": [
-            "N-209",
+            "N-208",
             "N-10244"
           ],
           "tags": [],
@@ -216,8 +216,8 @@
             "C-1677"
           ],
           "related_nodes": [
-            "N-213",
-            "N-248",
+            "N-212",
+            "N-247",
             "N-69"
           ],
           "tags": [],
@@ -236,7 +236,7 @@
             "C-1678"
           ],
           "related_nodes": [
-            "N-249"
+            "N-248"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -254,8 +254,8 @@
             "C-1679"
           ],
           "related_nodes": [
-            "N-248",
-            "N-213",
+            "N-247",
+            "N-212",
             "N-69"
           ],
           "tags": [],
@@ -283,7 +283,7 @@
           ],
           "related_nodes": [
             "N-69",
-            "N-213"
+            "N-212"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -565,8 +565,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-209",
-      "ref": "N-209",
+      "@id": "N-208",
+      "ref": "N-208",
       "name": "Jack Hibbs",
       "type": "person",
       "description": "Pastor of a Calvary Chapel in California; identified as Butch Hibbs' brother by Frank Turek.",
@@ -584,8 +584,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-247",
-      "ref": "N-247",
+      "@id": "N-246",
+      "ref": "N-246",
       "name": "Butch Hibbs",
       "type": "person",
       "description": "Identified as the \"old man talking to a bush\" at the UVU venue pre-event; brother of Pastor Jack Hibbs; photographed with Charlie Kirk approximately 20 minutes before the shooting.",
@@ -631,8 +631,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-213",
-      "ref": "N-213",
+      "@id": "N-212",
+      "ref": "N-212",
       "name": "Alexis Wilkins",
       "type": "person",
       "description": "Plaintiff in the $5 million lawsuit against content creators including Elijah Schaffer; subject of the Hen Mazzig post and the Schaefer photograph response.",
@@ -657,8 +657,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-248",
-      "ref": "N-248",
+      "@id": "N-247",
+      "ref": "N-247",
       "name": "Elijah Schaffer",
       "type": "person",
       "description": "Content creator defendant in the Alexis Wilkins lawsuit; posted photograph of Wilkins and Patel in response to Hen Mazzig X post.",
@@ -678,8 +678,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-249",
-      "ref": "N-249",
+      "@id": "N-248",
+      "ref": "N-248",
       "name": "Hen Mazzig",
       "type": "person",
       "description": "Ex-user (X account holder) who published the September 14, 2025 post describing female Mossad agents in Israeli intelligence operations against Iran.",
@@ -755,7 +755,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-247"
+        "N-246"
       ]
     },
     {
@@ -781,9 +781,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-213",
-        "N-248",
-        "N-249"
+        "N-212",
+        "N-247",
+        "N-248"
       ]
     },
     {
@@ -1019,8 +1019,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -1662,8 +1662,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-179",
-      "ref": "N-179",
+      "@id": "N-178",
+      "ref": "N-178",
       "name": "Jared Kushner",
       "type": "person",
       "description": "Named in the host's Gaza casino remark.",
@@ -1699,8 +1699,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-227",
+      "ref": "N-227",
       "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Transcribed Allie Beth Stuckey; mentioned among critics who tried to debunk the host.",
@@ -1716,8 +1716,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-262",
-      "ref": "N-262",
+      "@id": "N-261",
+      "ref": "N-261",
       "name": "Terryl Farnsworth",
       "type": "person",
       "description": "The AV staffer in the camera and SD card items.",
@@ -1734,8 +1734,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-326",
-      "ref": "N-326",
+      "@id": "N-325",
+      "ref": "N-325",
       "name": "Tim Ballard",
       "type": "person",
       "description": "Former head of Operation Underground, introduced to the host via Streit.",
@@ -1769,8 +1769,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-852",
-      "ref": "N-852",
+      "@id": "N-849",
+      "ref": "N-849",
       "name": "Austin Erickson",
       "type": "person",
       "description": "First named by the host at 00:22:40 in episode 30 (spelled Austin Ericson in the transcript). TPUSA staffer addressed with Dylan Erickson.",
@@ -1978,9 +1978,9 @@
       "investigative_direction": "Obtain the full Frank Turek interview, including any prior segments establishing his presence at the event.",
       "mentions_person_refs": [
         "N-7",
-        "N-247",
+        "N-246",
         "N-1",
-        "N-209"
+        "N-208"
       ]
     },
     {
@@ -1997,8 +1997,8 @@
       "claim_timestamp": "00:33:00",
       "investigative_direction": "Obtain independent genealogical or institutional records (Calvary Chapel directories) confirming the sibling relationship.",
       "mentions_person_refs": [
-        "N-209",
-        "N-247",
+        "N-208",
+        "N-246",
         "N-7"
       ]
     },
@@ -2018,7 +2018,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-7",
-        "N-247"
+        "N-246"
       ]
     },
     {
@@ -2073,8 +2073,8 @@
       "investigative_direction": "Obtain the filed complaint and docket from the relevant court to verify defendants, causes of action, and damages sought.",
       "mentions_person_refs": [
         "N-69",
-        "N-213",
-        "N-248"
+        "N-212",
+        "N-247"
       ]
     },
     {
@@ -2091,7 +2091,7 @@
       "claim_timestamp": "00:37:38",
       "investigative_direction": "Verify the original Hen Mazzig post via archived snapshots and any subsequent posts by Mazig on the same topic.",
       "mentions_person_refs": [
-        "N-249"
+        "N-248"
       ]
     },
     {
@@ -2109,9 +2109,9 @@
       "investigative_direction": "Obtain the original Schaefer post and timestamp via archived snapshots.",
       "mentions_person_refs": [
         "N-69",
-        "N-213",
-        "N-248",
-        "N-249"
+        "N-212",
+        "N-247",
+        "N-248"
       ]
     },
     {
@@ -2129,7 +2129,7 @@
       "investigative_direction": "Obtain the original Patel posts and timestamps; verify any prior public statements on the relationship.",
       "mentions_person_refs": [
         "N-69",
-        "N-213"
+        "N-212"
       ]
     },
     {
@@ -2166,7 +2166,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-191",
+        "N-190",
         "N-17",
         "N-99",
         "N-14",
@@ -2555,7 +2555,7 @@
       "investigative_direction": "Compare Rob McCoy's account with Mikey McCoy's phone call log for September 10, 2025.",
       "transcript_snippet": "Lie number five, the magnificent Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie.",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-17",
         "N-3"
       ]
@@ -2581,7 +2581,7 @@
         "C-1366"
       ],
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-11",
         "N-3"
       ]
@@ -2607,7 +2607,7 @@
         "C-1369"
       ],
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-14"
       ]
     },
@@ -2676,7 +2676,7 @@
       "investigative_direction": "Obtain Mikey McCoy's call log and the 911 call records for September 10, 2025.",
       "transcript_snippet": "to be a hero, you can't just make quick phone calls. I don't know. I I mean, and not include 911 in that list.",
       "mentions_person_refs": [
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -2697,7 +2697,7 @@
       "transcript_snippet": "I was on tour every single semester, okay, up until June of 2024",
       "mentions_person_refs": [
         "N-3",
-        "N-228",
+        "N-227",
         "N-1"
       ]
     },
@@ -2821,7 +2821,7 @@
       "investigative_direction": "Check TPUSA staff listings and obtain the events department org chart for 2025.",
       "transcript_snippet": "I know, by the way, that Mikey McCoy's wife is one of the events directors.",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-3"
       ]
     },
@@ -2843,7 +2843,7 @@
       "transcript_snippet": "some of us have been speaking and we had never heard of a Mikey McCoy, like his son Mikey McCoy.",
       "mentions_person_refs": [
         "N-17",
-        "N-191",
+        "N-190",
         "N-3"
       ]
     },
@@ -2864,7 +2864,7 @@
       "investigative_direction": "Check birth, school and licensing records for the legal name of Rob McCoy's son.",
       "transcript_snippet": "somebody on the inside of Turning Point told me that Mikey or or Michael rather uh is not his first name. It's a middle name",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-3"
       ]
     },
@@ -2887,7 +2887,7 @@
       "investigative_direction": "Receive tips on Mikey McCoy's legal name.",
       "transcript_snippet": "So, if you have that information, please email more tips@canniswowens. com.",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-3"
       ]
     },
@@ -2909,7 +2909,7 @@
       "transcript_snippet": "I have known every word that you have said about me, okay? And I have been investigating you guys for two months straight.",
       "mentions_person_refs": [
         "N-20",
-        "N-852",
+        "N-849",
         "N-3"
       ]
     },
@@ -2932,7 +2932,7 @@
       "transcript_snippet": "your involvement with bringing that sponsor on. Things got a little different once they were brought on. Demands got interesting.",
       "mentions_person_refs": [
         "N-20",
-        "N-852",
+        "N-849",
         "N-1"
       ]
     },
@@ -2958,7 +2958,7 @@
       ],
       "mentions_person_refs": [
         "N-20",
-        "N-852",
+        "N-849",
         "N-38",
         "N-3"
       ]
@@ -3183,8 +3183,8 @@
         "C-1673"
       ],
       "mentions_person_refs": [
-        "N-209",
-        "N-247"
+        "N-208",
+        "N-246"
       ]
     },
     {
@@ -3205,9 +3205,9 @@
       "investigative_direction": "Review arrival footage at the UVU drop-off area to confirm who was beside and behind Kirk.",
       "transcript_snippet": "he's behind Charlie when he gets out of the car. Like Charlie comes out of his car, arrives for the event. He's with the amazing Mikey McCoy.",
       "mentions_person_refs": [
-        "N-247",
+        "N-246",
         "N-1",
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -3229,7 +3229,7 @@
       "mentions_person_refs": [
         "N-7",
         "N-1",
-        "N-247"
+        "N-246"
       ]
     },
     {
@@ -3249,8 +3249,8 @@
       "investigative_direction": "Search military service records for any Hibbs family members.",
       "transcript_snippet": "Hibs are from a military family. Okay. Uh Butch senior was in the Navy.",
       "mentions_person_refs": [
-        "N-247",
-        "N-209"
+        "N-246",
+        "N-208"
       ]
     },
     {
@@ -3270,7 +3270,7 @@
       "investigative_direction": "Ask the host for the original communication from PragerU about Hibbs.",
       "transcript_snippet": "Jack Hibbs was somebody that Marissa Flag for me that she wanted me to have on my show",
       "mentions_person_refs": [
-        "N-209",
+        "N-208",
         "N-117",
         "N-3"
       ]
@@ -3293,7 +3293,7 @@
       "investigative_direction": "Confirm the introduction timeline between PragerU, Streit and Ballard from the host's records.",
       "transcript_snippet": "also was introduced to me by Visha Stray.",
       "mentions_person_refs": [
-        "N-326",
+        "N-325",
         "N-117",
         "N-3"
       ]
@@ -3318,7 +3318,7 @@
       "transcript_snippet": "Like you left your wife, you've been with this girl for like a year and a half.",
       "mentions_person_refs": [
         "N-69",
-        "N-213"
+        "N-212"
       ]
     },
     {
@@ -3344,7 +3344,7 @@
         "C-1677"
       ],
       "mentions_person_refs": [
-        "N-213",
+        "N-212",
         "N-69"
       ]
     },
@@ -3370,8 +3370,8 @@
         "C-1679"
       ],
       "mentions_person_refs": [
-        "N-248",
-        "N-213"
+        "N-247",
+        "N-212"
       ]
     },
     {
@@ -3393,7 +3393,7 @@
       "investigative_direction": "Seek any Patel statement on whether he knew of or approved the filing; the host offers this as an inference.",
       "transcript_snippet": "means that she did this with the blessing of her quote unquote life partner, Kash Patel. He knew this was happening.",
       "mentions_person_refs": [
-        "N-213",
+        "N-212",
         "N-69"
       ]
     },
@@ -3414,7 +3414,7 @@
       "investigative_direction": "Review the host's earlier remarks about Wilkins for any statement that conflicts with this disclaimer.",
       "transcript_snippet": "I don't know. I've never made that claim.",
       "mentions_person_refs": [
-        "N-213",
+        "N-212",
         "N-3"
       ]
     },
@@ -3436,7 +3436,7 @@
       "investigative_direction": "Check Wilkins's employment history and Streit's biography for any PragerU role or IDF service.",
       "transcript_snippet": "people saying she works for Marissa Streit Prageru who uh you know she's formerly of the IDF intelligence unit.",
       "mentions_person_refs": [
-        "N-213",
+        "N-212",
         "N-117"
       ]
     },
@@ -3459,7 +3459,7 @@
       "investigative_direction": "Verify through Oaks Christian alumni listings or yearbooks.",
       "transcript_snippet": "It looks like Mikey McCoy went to Oaks Christian in Thousand Oaks.",
       "mentions_person_refs": [
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -3544,7 +3544,7 @@
       "transcript_snippet": "And they're just trying to gaslight us to pretend like their behavior is normal.",
       "mentions_person_refs": [
         "N-17",
-        "N-191",
+        "N-190",
         "N-3"
       ]
     },
@@ -3567,7 +3567,7 @@
       "transcript_snippet": "who have intimately let me know the things that the Erickson brothers are doing and saying and texting, and I I just have a file of all of it because of people at Turning Point USA",
       "mentions_person_refs": [
         "N-20",
-        "N-852",
+        "N-849",
         "N-3",
         "N-1"
       ]
@@ -3699,7 +3699,7 @@
       "investigative_direction": "Review reporting on Gaza redevelopment proposals and Kushner's business interests.",
       "transcript_snippet": "Trump needs a casino, right? Uh Jared's doing deals. They want they want beachfront properties.",
       "mentions_person_refs": [
-        "N-179",
+        "N-178",
         "N-3"
       ]
     },

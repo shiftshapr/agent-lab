@@ -30,7 +30,7 @@
             "C-3950"
           ],
           "related_nodes": [
-            "N-160",
+            "N-159",
             "N-3"
           ],
           "tags": [],
@@ -207,7 +207,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-371",
+            "N-370",
             "N-10913",
             "N-10637",
             "N-10638"
@@ -252,7 +252,7 @@
             "C-3959"
           ],
           "related_nodes": [
-            "N-609",
+            "N-607",
             "N-2"
           ],
           "tags": [],
@@ -270,7 +270,7 @@
             "C-3960"
           ],
           "related_nodes": [
-            "N-610",
+            "N-608",
             "N-2"
           ],
           "tags": [],
@@ -288,7 +288,7 @@
             "C-3961"
           ],
           "related_nodes": [
-            "N-605",
+            "N-603",
             "N-2",
             "N-3"
           ],
@@ -380,7 +380,7 @@
             "C-3971"
           ],
           "related_nodes": [
-            "N-223",
+            "N-222",
             "N-10915"
           ],
           "tags": [],
@@ -416,7 +416,7 @@
             "C-3973"
           ],
           "related_nodes": [
-            "N-592",
+            "N-590",
             "N-10915"
           ],
           "tags": [],
@@ -446,11 +446,11 @@
             "C-3980"
           ],
           "related_nodes": [
-            "N-582",
+            "N-580",
             "N-22",
-            "N-299",
-            "N-611",
-            "N-612",
+            "N-298",
+            "N-609",
+            "N-610",
             "N-10083",
             "N-10916",
             "N-10917",
@@ -480,9 +480,9 @@
             "C-3987"
           ],
           "related_nodes": [
-            "N-613",
+            "N-611",
             "N-30",
-            "N-221"
+            "N-220"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -513,8 +513,8 @@
           ],
           "related_nodes": [
             "N-10070",
-            "N-613",
-            "N-615"
+            "N-611",
+            "N-613"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -540,7 +540,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-267"
+            "N-266"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -766,8 +766,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Shared a screen grab that the host says showed progress bars on her episodes.",
@@ -785,8 +785,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-193",
+      "ref": "N-193",
       "name": "David Horowitz",
       "type": "person",
       "description": "The host says he wrote a piece about her and died shortly afterwards.",
@@ -802,8 +802,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-213",
-      "ref": "N-213",
+      "@id": "N-212",
+      "ref": "N-212",
       "name": "Alexis Wilkins",
       "type": "person",
       "description": "Posted a thread tying the host to Russia, General Flynn and the Catholic Church.",
@@ -819,8 +819,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-221",
-      "ref": "N-221",
+      "@id": "N-220",
+      "ref": "N-220",
       "name": "Milo Yiannopoulos",
       "type": "person",
       "description": "Referred to as \"Milo\"; depicted with the host's husband in the AI photo.",
@@ -839,8 +839,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-223",
-      "ref": "N-223",
+      "@id": "N-222",
+      "ref": "N-222",
       "name": "Randy Fine",
       "type": "person",
       "description": "Posted the ballroom line after the WHCD shooting.",
@@ -858,8 +858,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-225",
-      "ref": "N-225",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "The host believes Brian Harpole went on his show without TPUSA's permission.",
@@ -875,8 +875,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Erika Kirk told the host lawsuits against him were being prepared. The host also cites possible contact between him and Kolvet, and his Shawn Ryan appearance.",
@@ -896,8 +896,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-299",
-      "ref": "N-299",
+      "@id": "N-298",
+      "ref": "N-298",
       "name": "Miriam Adelson",
       "type": "person",
       "description": "Named by Thomas Massie as a funder of MAGA Kentucky who has given over $200 million to the president.",
@@ -917,8 +917,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-371",
-      "ref": "N-371",
+      "@id": "N-370",
+      "ref": "N-370",
       "name": "Sara Sidner",
       "type": "person",
       "description": "Transcript spelling \"Sara Sidner\". The CNN reporter who first posted the exit video; the host doubts she recorded it.",
@@ -936,8 +936,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-582",
-      "ref": "N-582",
+      "@id": "N-580",
+      "ref": "N-580",
       "name": "Thomas Massie",
       "type": "person",
       "description": "Kentucky congressman who says $10 million, mostly from the Israeli lobby, has been spent against him.",
@@ -960,8 +960,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-592",
-      "ref": "N-592",
+      "@id": "N-590",
+      "ref": "N-590",
       "name": "Meghan McCain",
       "type": "person",
       "description": "Posted the ballroom line after the WHCD shooting.",
@@ -979,8 +979,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-609",
-      "ref": "N-609",
+      "@id": "N-607",
+      "ref": "N-607",
       "name": "Graham Allen",
       "type": "person",
       "description": "First named by the host at 00:07:24 in episode 101. Posted that viewers could hear Erika Kirk say she wanted to go home and asked people to pray for her.",
@@ -998,8 +998,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-610",
-      "ref": "N-610",
+      "@id": "N-608",
+      "ref": "N-608",
       "name": "Mikhaila Peterson",
       "type": "person",
       "description": "First named by the host at 00:07:24 in episode 101. Posted that the Erika Kirk video showed \"what PTSD looks like.\" Aliases: Michaela Peterson.",
@@ -1017,8 +1017,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-605",
-      "ref": "N-605",
+      "@id": "N-603",
+      "ref": "N-603",
       "name": "Ian Miles Cheong",
       "type": "person",
       "description": "First named by the host at 00:07:24 in episode 101. Posted that the host's \"conspiracy theorizing and attacks on Erika Kirk\" led to the incident.",
@@ -1036,8 +1036,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-611",
-      "ref": "N-611",
+      "@id": "N-609",
+      "ref": "N-609",
       "name": "Paul Singer",
       "type": "person",
       "description": "First named by the host at 00:23:39 in episode 101. Named by Thomas Massie as one of three funders of the MAGA Kentucky PAC.",
@@ -1055,8 +1055,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-612",
-      "ref": "N-612",
+      "@id": "N-610",
+      "ref": "N-610",
       "name": "John Paulson",
       "type": "person",
       "description": "First named by the host at 00:23:39 in episode 101. Named by Thomas Massie as one of three funders of the MAGA Kentucky PAC.",
@@ -1074,8 +1074,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-613",
-      "ref": "N-613",
+      "@id": "N-611",
+      "ref": "N-611",
       "name": "Jessica Reed Kraus",
       "type": "person",
       "description": "First named by the host at 00:26:58 in episode 101. Influencer known as House Inhabit. The host says she works with Andrew Kolvet, posted an AI photo of the host's husband, and is the subject of a Daily Mail article on her marriage. Aliases: House In Habit; house and habit; House Inhabit.",
@@ -1101,8 +1101,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-614",
-      "ref": "N-614",
+      "@id": "N-612",
+      "ref": "N-612",
       "name": "Dennis Prager",
       "type": "person",
       "description": "First named by the host at 00:26:58 in episode 101. The host says he wrote publicly about her and then fell down the stairs.",
@@ -1118,8 +1118,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-615",
-      "ref": "N-615",
+      "@id": "N-613",
+      "ref": "N-613",
       "name": "Ashley St. Clair",
       "type": "person",
       "description": "First named by the host at 00:29:01 in episode 101. Former friend of Jessica Reed Kraus who described being present when Kraus found her husband's number on an escort-review site.",
@@ -1138,8 +1138,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-616",
-      "ref": "N-616",
+      "@id": "N-614",
+      "ref": "N-614",
       "name": "Cardi B",
       "type": "person",
       "description": "First named by the host at 00:46:47 in episode 101. Rapper whose X exchange with the host the host says inspired her book \"Make Him a Sandwich.\"",
@@ -1526,9 +1526,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-223",
+        "N-222",
         "N-14",
-        "N-592"
+        "N-590"
       ]
     },
     {
@@ -1554,7 +1554,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-582"
+        "N-580"
       ]
     },
     {
@@ -1595,9 +1595,9 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-299",
-        "N-611",
-        "N-612"
+        "N-298",
+        "N-609",
+        "N-610"
       ]
     },
     {
@@ -1619,7 +1619,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-14",
-        "N-613"
+        "N-611"
       ]
     }
   ],
@@ -1660,7 +1660,7 @@
       "investigative_direction": "Archive Blake Neff's original post and its image at full resolution to confirm the visible progress bars and episode titles.",
       "transcript_snippet": "He accidentally revealed how many hours of the show he consumes when he shared a screen grab of his computer.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-3"
       ]
     },
@@ -1844,7 +1844,7 @@
       "investigative_direction": "Archive Graham Allen's post with its timestamp relative to the clip's first upload.",
       "transcript_snippet": "You can hear Erika Kirk say, 'I just want to go home. PRAY FOR HER. PRAY FOR OUR CHILDREN. HOW MUCH HORROR SHOULD ONE WOMAN have to be exposed to?",
       "mentions_person_refs": [
-        "N-609",
+        "N-607",
         "N-2"
       ]
     },
@@ -1863,7 +1863,7 @@
       "investigative_direction": "Archive Mikhaila Peterson's post with its date.",
       "transcript_snippet": "I don't want to share the video of Erika Kirk last night, but that is what PTSD looks like.",
       "mentions_person_refs": [
-        "N-610",
+        "N-608",
         "N-2"
       ]
     },
@@ -1882,7 +1882,7 @@
       "investigative_direction": "Archive Ian Miles Cheong's post with its timestamp.",
       "transcript_snippet": "All the endless conspiracy theorizing and attacks on Erika Kirk by Candace Owens led to this.",
       "mentions_person_refs": [
-        "N-605",
+        "N-603",
         "N-2",
         "N-3"
       ]
@@ -2060,7 +2060,7 @@
         "C-2793"
       ],
       "mentions_person_refs": [
-        "N-371",
+        "N-370",
         "N-2"
       ]
     },
@@ -2081,7 +2081,7 @@
       "investigative_direction": "Archive Fine's post with its timestamp relative to the shooting.",
       "transcript_snippet": "We'd better never again hear a peep from anyone complaining about a White House ballroom, huh?",
       "mentions_person_refs": [
-        "N-223"
+        "N-222"
       ]
     },
     {
@@ -2121,7 +2121,7 @@
       "investigative_direction": "Archive McCain's post and compare its timing with the other ballroom posts.",
       "transcript_snippet": "I don't want to hear one more thing about Trump's new ballroom at the White House.",
       "mentions_person_refs": [
-        "N-592",
+        "N-590",
         "N-5"
       ]
     },
@@ -2163,7 +2163,7 @@
       "transcript_snippet": "Trump has made he's very vocal. He's teaming up with AIPAC to unseat an actually America First candidate.",
       "mentions_person_refs": [
         "N-5",
-        "N-582"
+        "N-580"
       ]
     },
     {
@@ -2183,7 +2183,7 @@
       "investigative_direction": "Check FEC independent-expenditure reports for the race and public polling at the time.",
       "transcript_snippet": "It's a single point lead for me. Um it's not very fluid. They've spent $10 million against me.",
       "mentions_person_refs": [
-        "N-582",
+        "N-580",
         "N-22"
       ]
     },
@@ -2205,7 +2205,7 @@
       "transcript_snippet": "So it was 81% margin, 76, 75, like full-on blowouts in the Republican primary in your district in Kentucky",
       "mentions_person_refs": [
         "N-22",
-        "N-582"
+        "N-580"
       ]
     },
     {
@@ -2229,10 +2229,10 @@
       "investigative_direction": "Total FEC-reported independent expenditures in the race by source.",
       "transcript_snippet": "it 95% of it, at least 95% has come from the Israeli lobby.",
       "mentions_person_refs": [
-        "N-582",
-        "N-299",
-        "N-611",
-        "N-612"
+        "N-580",
+        "N-298",
+        "N-609",
+        "N-610"
       ]
     },
     {
@@ -2253,10 +2253,10 @@
       "investigative_direction": "Pull MAGA Kentucky's FEC filings for its donor list and expenditures.",
       "transcript_snippet": "Miriam Adelson, Paul Singer, and John Paulson went together. They funded a PAC called MAGA Kentucky, which is neither MAGA nor Kentucky",
       "mentions_person_refs": [
-        "N-299",
-        "N-611",
-        "N-612",
-        "N-582"
+        "N-298",
+        "N-609",
+        "N-610",
+        "N-580"
       ]
     },
     {
@@ -2276,9 +2276,9 @@
       "investigative_direction": "Total Adelson's FEC-reported contributions to Trump-aligned committees.",
       "transcript_snippet": "she's given over 200 million dollars to the president. He puts her on the stage.",
       "mentions_person_refs": [
-        "N-299",
+        "N-298",
         "N-5",
-        "N-582"
+        "N-580"
       ]
     },
     {
@@ -2298,7 +2298,7 @@
       "transcript_snippet": "One of these people being House In Habit, Jessica Reed Kraus, right? Uh she's been working with her.",
       "mentions_person_refs": [
         "N-14",
-        "N-613"
+        "N-611"
       ]
     },
     {
@@ -2331,7 +2331,7 @@
       "investigative_direction": "Date Prager's published piece about the host and the reported fall.",
       "transcript_snippet": "Dennis Prager, I think it was specifically who had written this whole thing about me publicly and then he fell down the stairs.",
       "mentions_person_refs": [
-        "N-614",
+        "N-612",
         "N-3",
         "N-14"
       ]
@@ -2349,7 +2349,7 @@
       "investigative_direction": "Date Horowitz's piece and his death.",
       "transcript_snippet": "David Horowitz, I believe, did this whole big piece and then very shortly thereafter, which was also very sad, I One of my first events I ever did was for his Freedom Center, he passed away.",
       "mentions_person_refs": [
-        "N-194",
+        "N-193",
         "N-3"
       ]
     },
@@ -2366,7 +2366,7 @@
       "investigative_direction": "Compare the date of Wilkins' thread with public reporting on the Patel email breach.",
       "transcript_snippet": "The day after she did that, Kash Patel's emails got hacked.",
       "mentions_person_refs": [
-        "N-213",
+        "N-212",
         "N-69",
         "N-3"
       ]
@@ -2388,9 +2388,9 @@
       "investigative_direction": "Archive the post and run AI-image provenance analysis on the photo.",
       "transcript_snippet": "She is the one that posted that totally freakish, obviously fake AI photo of George wearing a silk shirt.",
       "mentions_person_refs": [
-        "N-613",
+        "N-611",
         "N-30",
-        "N-221"
+        "N-220"
       ]
     },
     {
@@ -2408,7 +2408,7 @@
       "investigative_direction": "Seek statements from Milo Yiannopoulos and George Farmer on whether they had met.",
       "transcript_snippet": "Milo had of course had never met my husband when they lived in London at all.",
       "mentions_person_refs": [
-        "N-221",
+        "N-220",
         "N-30"
       ]
     },
@@ -2429,7 +2429,7 @@
       "investigative_direction": "Archive the Daily Mail article with its publication date and exact headline.",
       "transcript_snippet": "they wrote MAGA influencer house and habits marriage secrets revealed insiders blow the lid on explosive escort claims",
       "mentions_person_refs": [
-        "N-613"
+        "N-611"
       ]
     },
     {
@@ -2447,8 +2447,8 @@
       "investigative_direction": "Archive Kraus's posts about St. Clair with timestamps.",
       "transcript_snippet": "It's 3:00 a. m. and she just randomly decides to attack someone. And that someone, her name is that she attacked was Ashley St. Clair.",
       "mentions_person_refs": [
-        "N-613",
-        "N-615"
+        "N-611",
+        "N-613"
       ]
     },
     {
@@ -2466,8 +2466,8 @@
       "investigative_direction": "Archive St. Clair's public account and her statement to the Daily Mail.",
       "transcript_snippet": "Ashley decide to to just come out and tell the story about how she was with Jessica Reed Kraus when she found out that her husband was on some hooker websites.",
       "mentions_person_refs": [
-        "N-615",
-        "N-613"
+        "N-613",
+        "N-611"
       ]
     },
     {
@@ -2487,7 +2487,7 @@
       "investigative_direction": "Review the Daily Mail's stated verification method and the archived review.",
       "transcript_snippet": "So, the Daily Hit Mail did their due diligence. They went ahead and confirmed that the review was real, that it was his number.",
       "mentions_person_refs": [
-        "N-613"
+        "N-611"
       ]
     },
     {
@@ -2507,7 +2507,7 @@
       "investigative_direction": "Obtain Kraus's full statement to the Daily Mail and the wedding evidence she cites.",
       "transcript_snippet": "Jessica Reed Kraus did not deny the incident, but she disputed the characterization of it",
       "mentions_person_refs": [
-        "N-613"
+        "N-611"
       ]
     },
     {
@@ -2527,7 +2527,7 @@
       "investigative_direction": "Confirm the husband's quoted statement in the Daily Mail article.",
       "transcript_snippet": "He said the number was his, but he wasn't really certain how it ended up on the Mr. Number app.",
       "mentions_person_refs": [
-        "N-613"
+        "N-611"
       ]
     },
     {
@@ -2564,7 +2564,7 @@
       "transcript_snippet": "she did tell me she was they were preparing lawsuits against Brian Harpole. And that doesn't seem like that happened",
       "mentions_person_refs": [
         "N-2",
-        "N-267",
+        "N-266",
         "N-3"
       ]
     },
@@ -2584,7 +2584,7 @@
       "transcript_snippet": "there seems to be evidence that actually Andrew Kolvet that might have been in some sort of communication, maybe by the YouTubers, those military bros, um with Brian Harpole.",
       "mentions_person_refs": [
         "N-14",
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2603,8 +2603,8 @@
       "investigative_direction": "Ask TPUSA and Harpole whether the appearance was cleared, and review any related contract terms.",
       "transcript_snippet": "I do believe the story, by the way, that he went on Shawn Ryan without their permission. She told me that",
       "mentions_person_refs": [
-        "N-267",
-        "N-225",
+        "N-266",
+        "N-224",
         "N-2",
         "N-3"
       ]
@@ -2718,7 +2718,7 @@
       "investigative_direction": "Archive the original X exchange between the host and Cardi B.",
       "transcript_snippet": "it starts with this weird rap battle I had one time with Cardi B on X",
       "mentions_person_refs": [
-        "N-616",
+        "N-614",
         "N-3"
       ]
     },

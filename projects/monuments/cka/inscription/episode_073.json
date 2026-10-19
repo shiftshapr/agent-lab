@@ -88,7 +88,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-238",
+            "N-237",
             "N-10506"
           ],
           "tags": [],
@@ -109,7 +109,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-238",
+            "N-237",
             "N-10507"
           ],
           "tags": [],
@@ -137,7 +137,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-212",
+            "N-211",
             "N-1",
             "N-10509"
           ],
@@ -158,7 +158,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-212",
+            "N-211",
             "N-10509"
           ],
           "tags": [],
@@ -185,7 +185,7 @@
             "C-2371"
           ],
           "related_nodes": [
-            "N-555"
+            "N-554"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -203,7 +203,7 @@
             "C-2371"
           ],
           "related_nodes": [
-            "N-555"
+            "N-554"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -229,8 +229,8 @@
             "C-2370"
           ],
           "related_nodes": [
-            "N-555",
-            "N-563"
+            "N-554",
+            "N-562"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -260,7 +260,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-564",
+            "N-563",
             "N-10510"
           ],
           "tags": [],
@@ -475,8 +475,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-555",
-      "ref": "N-555",
+      "@id": "N-554",
+      "ref": "N-554",
       "name": "Carrie Prejean Boller",
       "type": "person",
       "description": "Catholic activist and former Miss California; removed from the White House Religious Liberty Commission following a hearing where she challenged the IHRA definition of anti-Semitism.",
@@ -496,8 +496,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-563",
-      "ref": "N-563",
+      "@id": "N-562",
+      "ref": "N-562",
       "name": "Dan Patrick",
       "type": "person",
       "description": "Texas Lieutenant Governor; announced Carrie Prejean Boller's removal from the Religious Liberty Commission on X.",
@@ -515,8 +515,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-212",
-      "ref": "N-212",
+      "@id": "N-211",
+      "ref": "N-211",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Fox News host; interviewer in the Fox News interview clip of Erika Kirk discussed in this episode.",
@@ -535,8 +535,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-238",
-      "ref": "N-238",
+      "@id": "N-237",
+      "ref": "N-237",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Host of the December 12, 2025 interview in which Erika Kirk appeared in Charlie Kirk's home office.",
@@ -558,8 +558,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-564",
-      "ref": "N-564",
+      "@id": "N-563",
+      "ref": "N-563",
       "name": "\"Matt\" (TPUSA Halftime Show Producer)",
       "type": "person",
       "description": "First-name-only reference by an informant to the producer of the TPUSA All-American Halftime Show, who reportedly hyped the crowd and promised Trump viewership.",
@@ -986,8 +986,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Named by the host as largely writing Erika Kirk's first speech.",
@@ -1003,8 +1003,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-187",
-      "ref": "N-187",
+      "@id": "N-186",
+      "ref": "N-186",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "Named by the host as a likelier stager of the background photo.",
@@ -1020,8 +1020,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Named among those whose phone logs the host lacks.",
@@ -1037,8 +1037,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-221",
-      "ref": "N-221",
+      "@id": "N-220",
+      "ref": "N-220",
       "name": "Milo Yiannopoulos",
       "type": "person",
       "description": "Commentator the host says she recently had on her show.",
@@ -1054,8 +1054,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Dan Flood",
       "type": "person",
       "description": "Named in claims about iMessage and phone access.",
@@ -1072,8 +1072,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Whose episode the host says she watched about a viewer allegation.",
@@ -1408,8 +1408,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-805",
-      "ref": "N-805",
+      "@id": "N-803",
+      "ref": "N-803",
       "name": "Savannah Guthrie",
       "type": "person",
       "description": "First named by the host at 00:46:33 in episode 73 (transcript: 'Savannah Guthri'). Television host whose mother's reported abduction the host discusses.",
@@ -1427,8 +1427,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-806",
-      "ref": "N-806",
+      "@id": "N-804",
+      "ref": "N-804",
       "name": "Kid Rock",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 73. Performer named in the halftime informant account, who the informants say they waited on longest.",
@@ -1445,8 +1445,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-807",
-      "ref": "N-807",
+      "@id": "N-805",
+      "ref": "N-805",
       "name": "Bad Bunny",
       "type": "person",
       "description": "First named by the host at 00:39:40 in episode 73. Performer of the official Super Bowl halftime show to which the TPUSA show was compared.",
@@ -1545,7 +1545,7 @@
       "investigative_direction": "Obtain the full Glenn Beck segment in higher resolution to confirm the absence; cross-reference any subsequent public appearances from the same office to determine whether the photo ever returned.",
       "mentions_person_refs": [
         "N-2",
-        "N-238",
+        "N-237",
         "N-1"
       ]
     },
@@ -1585,7 +1585,7 @@
       "investigative_direction": "Compare Erika's \"first time back\" framing against any other documented visits to the office in the intervening period; check the New York Times home tour piece for prior access claims.",
       "mentions_person_refs": [
         "N-2",
-        "N-238"
+        "N-237"
       ]
     },
     {
@@ -1625,7 +1625,7 @@
       "investigative_direction": "Obtain and review the phone records/text messages cited by Candace Owens in prior episodes; cross-reference with the alleged Dan Flood iMessage account.",
       "mentions_person_refs": [
         "N-2",
-        "N-238",
+        "N-237",
         "N-1"
       ]
     },
@@ -1643,8 +1643,8 @@
       "claim_timestamp": "00:34:48",
       "investigative_direction": "Verify the official announcement and date; document the stated cause and any subsequent statement from Carrie Prejean Boller.",
       "mentions_person_refs": [
-        "N-555",
-        "N-563"
+        "N-554",
+        "N-562"
       ]
     },
     {
@@ -1661,7 +1661,7 @@
       "claim_timestamp": "00:30:14",
       "investigative_direction": "Obtain the full hearing transcript and video; cross-reference against official Catholic teaching documents on Zionism.",
       "mentions_person_refs": [
-        "N-555"
+        "N-554"
       ]
     },
     {
@@ -1767,7 +1767,7 @@
       "investigative_direction": "Determine whether Charlie Kirk's phone was ever in law enforcement custody and returned to Erika; subpoena carrier records for relevant period.",
       "mentions_person_refs": [
         "N-2",
-        "N-238",
+        "N-237",
         "N-1"
       ]
     },
@@ -1812,8 +1812,8 @@
         "N-3",
         "N-1",
         "N-2",
-        "N-271",
-        "N-191",
+        "N-270",
+        "N-190",
         "N-7"
       ]
     },
@@ -1931,7 +1931,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-238"
+        "N-237"
       ]
     },
     {
@@ -1955,7 +1955,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-238"
+        "N-237"
       ]
     },
     {
@@ -1976,7 +1976,7 @@
       "transcript_snippet": "This says it's the priorities. It says family, children, legacy, kids number one.",
       "mentions_person_refs": [
         "N-2",
-        "N-238",
+        "N-237",
         "N-1"
       ]
     },
@@ -2000,7 +2000,7 @@
       "transcript_snippet": "he would sit here on Sundays writing, using his journal, like going through all these drawers, and he was preparing for the week ahead.",
       "mentions_person_refs": [
         "N-2",
-        "N-238",
+        "N-237",
         "N-1"
       ]
     },
@@ -2048,7 +2048,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2113,7 +2113,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-187"
+        "N-186"
       ]
     },
     {
@@ -2303,7 +2303,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-212"
+        "N-211"
       ]
     },
     {
@@ -2528,7 +2528,7 @@
       "investigative_direction": "Ask Beck's team where the priest meeting detail came from and whether Erika's staff briefed it.",
       "transcript_snippet": "I know you two had met with your priest uh the night before",
       "mentions_person_refs": [
-        "N-238",
+        "N-237",
         "N-2",
         "N-1"
       ]
@@ -2551,7 +2551,7 @@
       "transcript_snippet": "unbelievable amounts of death threats. My kids have kidnapping threats, death threats. Our whole team has death threats.",
       "mentions_person_refs": [
         "N-2",
-        "N-238"
+        "N-237"
       ]
     },
     {
@@ -2574,7 +2574,7 @@
       "transcript_snippet": "that night before we did what we usually did before tours, we said our prayer and we asked the Lord to protect us",
       "mentions_person_refs": [
         "N-2",
-        "N-238",
+        "N-237",
         "N-1"
       ]
     },
@@ -2599,7 +2599,7 @@
       "transcript_snippet": "Not true. Dan Flood messaged on iMessage. So who deleted it?",
       "mentions_person_refs": [
         "N-3",
-        "N-271"
+        "N-270"
       ]
     },
     {
@@ -2666,7 +2666,7 @@
       "transcript_snippet": "This is unacceptable. This hearing is unacceptable.",
       "mentions_person_refs": [
         "N-3",
-        "N-555"
+        "N-554"
       ]
     },
     {
@@ -2707,7 +2707,7 @@
       "investigative_direction": "Obtain the full hearing recording to confirm the question and the answer given.",
       "transcript_snippet": "So, is are all Catholics anti-semites according to you?",
       "mentions_person_refs": [
-        "N-555"
+        "N-554"
       ]
     },
     {
@@ -2767,7 +2767,7 @@
       "transcript_snippet": "it was announced on X after Zionists demanded she be removed.",
       "mentions_person_refs": [
         "N-3",
-        "N-555"
+        "N-554"
       ]
     },
     {
@@ -2809,7 +2809,7 @@
       "investigative_direction": "Capture the original post and compare the full text with the host's reading.",
       "transcript_snippet": "No member of the commission has the right to hijack a hearing for their own personal and political agenda on any issue.",
       "mentions_person_refs": [
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -2831,8 +2831,8 @@
       "investigative_direction": "Identify the hearing date and confirm whether the White House or Patrick formally made the removal.",
       "transcript_snippet": "This is clearly without question what happened on Monday in our hearing on anti-semitism in America. This was my decision.",
       "mentions_person_refs": [
-        "N-563",
-        "N-555"
+        "N-562",
+        "N-554"
       ]
     },
     {
@@ -2855,7 +2855,7 @@
       "transcript_snippet": "Yeah. I know you're taking a ton of money from Zionist.",
       "mentions_person_refs": [
         "N-3",
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -2877,7 +2877,7 @@
       "investigative_direction": "Check the commission's published hearing schedule for the five held and two scheduled sessions.",
       "transcript_snippet": "The commission has done outstanding work through five hearings. Two more are scheduled.",
       "mentions_person_refs": [
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -2972,7 +2972,7 @@
       "transcript_snippet": "a lot of them were fans of Bad Bunny and they were certain it was not going to rival that performance.",
       "mentions_person_refs": [
         "N-3",
-        "N-807"
+        "N-805"
       ]
     },
     {
@@ -3061,7 +3061,7 @@
       "transcript_snippet": "They waited the longest for Kid Rock.",
       "mentions_person_refs": [
         "N-3",
-        "N-806"
+        "N-804"
       ]
     },
     {
@@ -3074,7 +3074,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-564",
+        "N-563",
         "N-10510"
       ],
       "tags": [
@@ -3086,7 +3086,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-564"
+        "N-563"
       ]
     },
     {
@@ -3100,7 +3100,7 @@
         "A-1779.1"
       ],
       "related_nodes": [
-        "N-564",
+        "N-563",
         "N-10499",
         "N-10510"
       ],
@@ -3112,8 +3112,8 @@
       "transcript_snippet": "he also said to them that this is going to get more views than the Bad Bunny halftime show.",
       "mentions_person_refs": [
         "N-3",
-        "N-564",
-        "N-807"
+        "N-563",
+        "N-805"
       ]
     },
     {
@@ -3137,7 +3137,7 @@
       "transcript_snippet": "Turning Point did cover their hotel rooms, but they were placed with a random person.",
       "mentions_person_refs": [
         "N-3",
-        "N-806"
+        "N-804"
       ]
     },
     {
@@ -3198,7 +3198,7 @@
       "transcript_snippet": "I had him on the show recently.",
       "mentions_person_refs": [
         "N-3",
-        "N-221",
+        "N-220",
         "N-9"
       ]
     },
@@ -3223,7 +3223,7 @@
       "transcript_snippet": "I'm referring to that same uh, storyline of TMZ somehow gets the tape.",
       "mentions_person_refs": [
         "N-3",
-        "N-805",
+        "N-803",
         "N-69"
       ]
     },
@@ -3247,7 +3247,7 @@
       "transcript_snippet": "I would check out those Native American reservations because the feds do deals with them and nothing good goes on.",
       "mentions_person_refs": [
         "N-3",
-        "N-805",
+        "N-803",
         "N-9"
       ]
     },
@@ -3271,7 +3271,7 @@
       "transcript_snippet": "And I do think that part of it was to distract us.",
       "mentions_person_refs": [
         "N-3",
-        "N-805"
+        "N-803"
       ]
     },
     {
@@ -3293,7 +3293,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-331"
+        "N-330"
       ]
     },
     {
@@ -3336,7 +3336,7 @@
       "transcript_snippet": "Yeah, they literally did. And then she got fired, but they're the victims.",
       "mentions_person_refs": [
         "N-3",
-        "N-555"
+        "N-554"
       ]
     },
     {

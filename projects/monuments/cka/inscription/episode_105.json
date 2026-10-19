@@ -59,12 +59,12 @@
             "C-4127"
           ],
           "related_nodes": [
-            "N-281",
-            "N-161",
-            "N-628",
-            "N-624",
-            "N-623",
-            "N-629",
+            "N-280",
+            "N-160",
+            "N-626",
+            "N-622",
+            "N-621",
+            "N-627",
             "N-10931"
           ],
           "tags": [],
@@ -184,8 +184,8 @@
             "C-4139"
           ],
           "related_nodes": [
-            "N-630",
-            "N-631",
+            "N-628",
+            "N-629",
             "N-10933",
             "N-10125"
           ],
@@ -212,7 +212,7 @@
             "C-4141"
           ],
           "related_nodes": [
-            "N-630",
+            "N-628",
             "N-22",
             "N-10933"
           ],
@@ -241,7 +241,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-160",
+            "N-159",
             "N-3",
             "N-10934"
           ],
@@ -268,7 +268,7 @@
             "C-4155"
           ],
           "related_nodes": [
-            "N-617",
+            "N-615",
             "N-2",
             "N-10899",
             "N-10472"
@@ -290,7 +290,7 @@
             "C-4154"
           ],
           "related_nodes": [
-            "N-617",
+            "N-615",
             "N-14",
             "N-2",
             "N-10899"
@@ -318,7 +318,7 @@
             "C-4157"
           ],
           "related_nodes": [
-            "N-546",
+            "N-545",
             "N-2",
             "N-10472"
           ],
@@ -347,7 +347,7 @@
           ],
           "related_nodes": [
             "N-5",
-            "N-632",
+            "N-630",
             "N-10935"
           ],
           "tags": [],
@@ -569,8 +569,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Transcript spelling \"Blake Neff\". Co-host of the May 8 Charlie Kirk Show clip on Preborn and emailing sponsors.",
@@ -589,8 +589,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Steven Cheung",
       "type": "person",
       "description": "Transcript spelling \"Steven Chong\". Named by the host as a recipient of the email.",
@@ -608,8 +608,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "The host assumes, but cannot confirm, that he accompanied Erika Kirk to the West Wing.",
@@ -625,8 +625,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-281",
-      "ref": "N-281",
+      "@id": "N-280",
+      "ref": "N-280",
       "name": "Karoline Leavitt",
       "type": "person",
       "description": "Her press office and team are named as recipients of the email.",
@@ -644,8 +644,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-371",
-      "ref": "N-371",
+      "@id": "N-370",
+      "ref": "N-370",
       "name": "Sara Sidner",
       "type": "person",
       "description": "Transcript spelling \"Sydney Sidner\". CNN reporter said to have uploaded the Erika Kirk clip at 9:25 p.m.",
@@ -661,8 +661,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-374",
-      "ref": "N-374",
+      "@id": "N-373",
+      "ref": "N-373",
       "name": "Harmeet Dhillon",
       "type": "person",
       "description": "Transcript spelling \"Harit Dylan\". Host says Matthew Shupe does PR for her and that she sat with Andrew Kolvet.",
@@ -679,8 +679,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-546",
-      "ref": "N-546",
+      "@id": "N-545",
+      "ref": "N-545",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Erika Kirk's longtime friend; reportedly clarified that the boy in the alibi photo is not Erika's son.",
@@ -698,8 +698,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-627",
-      "ref": "N-627",
+      "@id": "N-625",
+      "ref": "N-625",
       "name": "Vladimir Putin",
       "type": "person",
       "description": "First named by the host at 00:05:04 in episode 105. Cited as a long-serving leader who has not faced comparable shooting attempts.",
@@ -715,8 +715,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-628",
-      "ref": "N-628",
+      "@id": "N-626",
+      "ref": "N-626",
       "name": "Richard Smale",
       "type": "person",
       "description": "First named by the host at 00:10:20 in episode 105. Described as a communications officer and information assurance engineer at the White House Communications Agency who received the email.",
@@ -734,8 +734,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-624",
-      "ref": "N-624",
+      "@id": "N-622",
+      "ref": "N-622",
       "name": "Gustav Anderly",
       "type": "person",
       "description": "First named by the host at 00:10:20 in episode 105. Described as an information systems manager at the White House Communications Agency who received the email.",
@@ -753,8 +753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-623",
-      "ref": "N-623",
+      "@id": "N-621",
+      "ref": "N-621",
       "name": "Ryan Rippeon",
       "type": "person",
       "description": "First named by the host at 00:10:20 in episode 105. Described as commander of naval communications and a recipient of the email.",
@@ -772,8 +772,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-629",
-      "ref": "N-629",
+      "@id": "N-627",
+      "ref": "N-627",
       "name": "Michaela Mott",
       "type": "person",
       "description": "First named by the host at 00:11:19 in episode 105. Described as Navy and a recipient of the email.",
@@ -791,8 +791,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-630",
-      "ref": "N-630",
+      "@id": "N-628",
+      "ref": "N-628",
       "name": "Kevin O'Leary",
       "type": "person",
       "description": "First named by the host at 00:18:48 in episode 105. Shark Tank venture capitalist backing the Stratos data center; interviewed by Tucker Carlson. Aliases: Kevin Olirri; Olyri; Kevin Liry.",
@@ -813,8 +813,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-631",
-      "ref": "N-631",
+      "@id": "N-629",
+      "ref": "N-629",
       "name": "Lee Perry",
       "type": "person",
       "description": "First named by the host at 00:18:48 in episode 105. Box Elder County commissioner quoted in the Guardian article on the backlash.",
@@ -832,8 +832,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-617",
-      "ref": "N-617",
+      "@id": "N-615",
+      "ref": "N-615",
       "name": "Gary Melton",
       "type": "person",
       "description": "First named by the host at 00:38:02 in episode 105. The person behind the Paramount Tactical account; tweeted that the alibi photo's content was irrelevant. Aliases: Paramount Tactical; Paramount Not So Tactical.",
@@ -854,8 +854,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-632",
-      "ref": "N-632",
+      "@id": "N-630",
+      "ref": "N-630",
       "name": "Mark Burns",
       "type": "person",
       "description": "First named by the host at 00:42:00 in episode 105. Evangelical pastor defending the golden Trump statue.",
@@ -873,8 +873,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-633",
-      "ref": "N-633",
+      "@id": "N-631",
+      "ref": "N-631",
       "name": "Matthew Shupe",
       "type": "person",
       "description": "First named by the host at 00:47:33 in episode 105. Described as a PR agent for Harmeet Dhillon and Dhillon Law Group; the host asks whether he filmed the Erika Kirk WHCD clip.",
@@ -1258,7 +1258,7 @@
       "related_nodes": [
         "N-2",
         "N-14",
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -1284,8 +1284,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-628",
-        "N-624"
+        "N-626",
+        "N-622"
       ]
     },
     {
@@ -1332,8 +1332,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-630",
-        "N-631"
+        "N-628",
+        "N-629"
       ]
     },
     {
@@ -1359,7 +1359,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-14",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -1385,7 +1385,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-5",
-        "N-632"
+        "N-630"
       ]
     }
   ],
@@ -1442,7 +1442,7 @@
       "investigative_direction": "Check Putin's years in office and the public record of assassination attempts against him.",
       "transcript_snippet": "Like Vladimir Putin, as just one example, he has been the president of Russia for 22 years.",
       "mentions_person_refs": [
-        "N-627",
+        "N-625",
         "N-5"
       ]
     },
@@ -1505,7 +1505,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-14",
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -1563,7 +1563,7 @@
         "C-2793"
       ],
       "mentions_person_refs": [
-        "N-371",
+        "N-370",
         "N-2"
       ]
     },
@@ -1585,7 +1585,7 @@
       "investigative_direction": "Obtain the email's header timestamps and distribution list through FOIA or the named recipients.",
       "transcript_snippet": "approximately 25 minutes later, we revealed to you that the White House military office sent out follow-up instructions uh in an email that accidentally went out to the wrong internal teams",
       "mentions_person_refs": [
-        "N-371"
+        "N-370"
       ]
     },
     {
@@ -1730,7 +1730,7 @@
       "investigative_direction": "Ask the White House press office to confirm or deny receipt of the email.",
       "transcript_snippet": "The email was sent to Karoline Leavitt's press office and team so she can confirm its authenticity.",
       "mentions_person_refs": [
-        "N-281"
+        "N-280"
       ]
     },
     {
@@ -1751,8 +1751,8 @@
       "investigative_direction": "Confirm the named individuals' positions and their inclusion on the distribution list.",
       "transcript_snippet": "We covered some of this yesterday with Steven Chong who is the White House communications director. Richard Smale who is the communications officer",
       "mentions_person_refs": [
-        "N-161",
-        "N-628"
+        "N-160",
+        "N-626"
       ]
     },
     {
@@ -1773,8 +1773,8 @@
       "investigative_direction": "Verify these names and roles in DoD and Navy personnel listings.",
       "transcript_snippet": "Uh Gustav Anderly, also military position, information systems manager at the White House Communications Agency. And Ryan Rippeon, Ryan Rippeon is the commander of naval communications.",
       "mentions_person_refs": [
-        "N-624",
-        "N-623"
+        "N-622",
+        "N-621"
       ]
     },
     {
@@ -1794,7 +1794,7 @@
       "investigative_direction": "Verify the name and Navy role, and the distribution list of the original email.",
       "transcript_snippet": "They also have someone named Michaela Mott who was on this email also Navy.",
       "mentions_person_refs": [
-        "N-629"
+        "N-627"
       ]
     },
     {
@@ -1999,7 +1999,7 @@
       "investigative_direction": "Identify the Stratos project's investors and corporate filings.",
       "transcript_snippet": "the proposed project is backed by Kevin Olirri, the venture capitalist who appeared on the TV show Shark Tank.",
       "mentions_person_refs": [
-        "N-630"
+        "N-628"
       ]
     },
     {
@@ -2019,7 +2019,7 @@
       "investigative_direction": "Locate Perry's original statement and any police reports of threats.",
       "transcript_snippet": "Lee Perry, who was the box elder county commissioner, said left him feeling physically sick amidst alleged death threats and false accusations.",
       "mentions_person_refs": [
-        "N-631"
+        "N-629"
       ]
     },
     {
@@ -2039,7 +2039,7 @@
       "investigative_direction": "Archive O'Leary's posts and compare with the residency of people who lodged objections.",
       "transcript_snippet": "Olyri has claimed in social media posts that most of the protesters don't live locally and have been paid to object to the project.",
       "mentions_person_refs": [
-        "N-630"
+        "N-628"
       ]
     },
     {
@@ -2072,7 +2072,7 @@
       "investigative_direction": "Archive the full Tucker Carlson interview.",
       "transcript_snippet": "facial recognition technology has finally got to the resolution using AI's tools where it's going to run through your data center",
       "mentions_person_refs": [
-        "N-630",
+        "N-628",
         "N-22"
       ]
     },
@@ -2208,7 +2208,7 @@
       "transcript_snippet": "Pre-born is a uh is a sponsor of Candace Owens show. Um, and that is I I know frustrating because they've been a sponsor of our show and for a long time",
       "mentions_person_refs": [
         "N-14",
-        "N-160",
+        "N-159",
         "N-3"
       ]
     },
@@ -2230,7 +2230,7 @@
       "transcript_snippet": "I would encourage you to send them an email, you could say, \"I have concerns. I might cease support or I might support you more if you were to make a different decision of this nature.\"",
       "mentions_person_refs": [
         "N-14",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2290,7 +2290,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-14",
-        "N-617"
+        "N-615"
       ]
     },
     {
@@ -2314,7 +2314,7 @@
         "C-2906"
       ],
       "mentions_person_refs": [
-        "N-617",
+        "N-615",
         "N-2"
       ]
     },
@@ -2356,7 +2356,7 @@
       "investigative_direction": "Archive the tweet and the follow-up posts with timestamps.",
       "transcript_snippet": "The fact is we don't know. It hasn't been clarified by Erika, but it doesn't matter.",
       "mentions_person_refs": [
-        "N-617",
+        "N-615",
         "N-2"
       ]
     },
@@ -2375,7 +2375,7 @@
       "investigative_direction": "Verify Melton's service record through Army Special Forces records.",
       "transcript_snippet": "I'm terrified to understand that Paramount, not so tactical, served as a Green Beret.",
       "mentions_person_refs": [
-        "N-617"
+        "N-615"
       ]
     },
     {
@@ -2398,7 +2398,7 @@
         "C-2906"
       ],
       "mentions_person_refs": [
-        "N-546",
+        "N-545",
         "N-2"
       ]
     },
@@ -2439,7 +2439,7 @@
       "investigative_direction": "Archive Burns's public statements on the statue.",
       "transcript_snippet": "the pastor John Mark Burns, an evangelical minister, um is defending it",
       "mentions_person_refs": [
-        "N-632",
+        "N-630",
         "N-5"
       ]
     },
@@ -2479,8 +2479,8 @@
       "investigative_direction": "Confirm Shupe's client relationships and whether he was at the WHCD near Erika Kirk when the clip was filmed.",
       "transcript_snippet": "Could it have been the other PR agent Andrew Kolvet was with Matthew Shupe? Matthew Shupe who does PR for Harit Dylan. Um Dhillon Law Group.",
       "mentions_person_refs": [
-        "N-633",
-        "N-374",
+        "N-631",
+        "N-373",
         "N-14",
         "N-2"
       ]
@@ -2500,7 +2500,7 @@
       "investigative_direction": "Obtain the WHCD seating chart and photographs of the relevant table.",
       "transcript_snippet": "I know Harit was sitting with sitting with Andrew Kolvet.",
       "mentions_person_refs": [
-        "N-374",
+        "N-373",
         "N-14"
       ]
     }

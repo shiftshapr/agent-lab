@@ -58,7 +58,7 @@
             "C-1718"
           ],
           "related_nodes": [
-            "N-260",
+            "N-259",
             "N-2",
             "N-3"
           ],
@@ -266,7 +266,7 @@
             "C-1727"
           ],
           "related_nodes": [
-            "N-261",
+            "N-260",
             "N-10256"
           ],
           "tags": [],
@@ -286,7 +286,7 @@
             "C-1727"
           ],
           "related_nodes": [
-            "N-261",
+            "N-260",
             "N-10256"
           ],
           "tags": [],
@@ -306,7 +306,7 @@
             "C-1727"
           ],
           "related_nodes": [
-            "N-261",
+            "N-260",
             "N-10256"
           ],
           "tags": [],
@@ -326,7 +326,7 @@
             "C-1727"
           ],
           "related_nodes": [
-            "N-261",
+            "N-260",
             "N-10256"
           ],
           "tags": [],
@@ -380,7 +380,7 @@
             "C-1733"
           ],
           "related_nodes": [
-            "N-264",
+            "N-263",
             "N-10257"
           ],
           "tags": [],
@@ -405,7 +405,7 @@
           "description": "Host's verbal account that Terryl Farnsworth attended the UVU campus event on September 10 (described as unusual because he typically handles larger TPUSA events), and that he secured the SD cards afterward",
           "related_claims": [],
           "related_nodes": [
-            "N-262",
+            "N-261",
             "N-1"
           ],
           "tags": [],
@@ -425,7 +425,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-265",
+            "N-264",
             "N-10253"
           ],
           "tags": [],
@@ -557,7 +557,7 @@
             "C-12413"
           ],
           "related_nodes": [
-            "N-225"
+            "N-224"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -593,8 +593,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-260",
-      "ref": "N-260",
+      "@id": "N-259",
+      "ref": "N-259",
       "name": "Steven Crowder",
       "type": "person",
       "description": "Host's primary example of influencer narratives allegedly misrepresenting her remarks. Matters as anchor for the Erika-murder interpretation dispute.",
@@ -641,8 +641,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-261",
-      "ref": "N-261",
+      "@id": "N-260",
+      "ref": "N-260",
       "name": "Duncan Aviation",
       "type": "person",
       "description": "Fixed-base operator (FBO) at Provo where SUBND transponder activity is recorded on September 10 and where rental cars were sourced. Matters as institutional locus of pre-event activity.",
@@ -669,8 +669,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-262",
-      "ref": "N-262",
+      "@id": "N-261",
+      "ref": "N-261",
       "name": "Terryl Farnsworth",
       "type": "person",
       "description": "TPUSA personnel described by host as attending the UVU event and securing the SD cards. Matters because his presence is flagged as atypical by host.",
@@ -689,8 +689,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-264",
-      "ref": "N-264",
+      "@id": "N-263",
+      "ref": "N-263",
       "name": "Mommy Sleuth (Nellie)",
       "type": "person",
       "description": "Pseudonymous contributor referenced by host as the source of the 15-hour research identifying Erika-tracking overlap pattern. Identity protected by host.",
@@ -713,8 +713,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-265",
-      "ref": "N-265",
+      "@id": "N-264",
+      "ref": "N-264",
       "name": "Andrew K. Smith",
       "type": "person",
       "description": "Host-described \"managing director of a restaurant fund\" who conducted the \"restaurantology\" interview with Charlie Kirk on the morning of September 10.",
@@ -762,7 +762,7 @@
         "N-1",
         "N-2",
         "N-67",
-        "N-264"
+        "N-263"
       ]
     },
     {
@@ -840,7 +840,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-261"
+        "N-260"
       ]
     },
     {
@@ -1274,8 +1274,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-225",
-      "ref": "N-225",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcaster whose episode with Charlie's security detail a viewer asks the host about.",
@@ -1291,8 +1291,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-473",
-      "ref": "N-473",
+      "@id": "N-472",
+      "ref": "N-472",
       "name": "Zach De Gregorio (Wolves and Finance)",
       "type": "person",
       "description": "Wolves and Finance YouTube channel whose TPUSA filings report is played on air.",
@@ -1679,7 +1679,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-260",
+        "N-259",
         "N-1"
       ]
     },
@@ -1700,7 +1700,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-260",
+        "N-259",
         "N-1"
       ]
     },
@@ -1722,7 +1722,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-67",
-        "N-261"
+        "N-260"
       ]
     },
     {
@@ -1744,7 +1744,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-264"
+        "N-263"
       ]
     },
     {
@@ -1856,7 +1856,7 @@
       "claim_timestamp": "00:27:30–00:29:31",
       "investigative_direction": "Obtain rental records from Duncan Aviation or the rental companies directly; verify renter identities and dates.",
       "mentions_person_refs": [
-        "N-261"
+        "N-260"
       ]
     },
     {
@@ -1894,7 +1894,7 @@
       "claim_timestamp": "00:34:07–00:35:11",
       "investigative_direction": "Verify directly against IRS Tax-Exempt Organization Search; confirm filing status and any subsequent late filings.",
       "mentions_person_refs": [
-        "N-473"
+        "N-472"
       ]
     },
     {
@@ -1913,7 +1913,7 @@
       "claim_timestamp": "00:37:29–00:39:37",
       "investigative_direction": "Verify the Schedule I line item against the filed Form 990; trace how the funds were recorded (or not recorded) on the recipient entity's filings.",
       "mentions_person_refs": [
-        "N-473"
+        "N-472"
       ]
     },
     {
@@ -1934,7 +1934,7 @@
       "investigative_direction": "Obtain dated documentation of Charlie Kirk's audit request and COO appointment; cross-reference against IRS filing deadline.",
       "mentions_person_refs": [
         "N-1",
-        "N-473"
+        "N-472"
       ]
     },
     {
@@ -1953,7 +1953,7 @@
       "claim_timestamp": "00:43:40",
       "investigative_direction": "Verify the staff-count and salary figures directly against the relevant Form 990 Schedule J and Part VII.",
       "mentions_person_refs": [
-        "N-473"
+        "N-472"
       ]
     },
     {
@@ -1974,7 +1974,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-473"
+        "N-472"
       ]
     },
     {
@@ -2044,7 +2044,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3",
-        "N-264"
+        "N-263"
       ]
     },
     {
@@ -2062,7 +2062,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3",
-        "N-264"
+        "N-263"
       ]
     },
     {
@@ -2084,7 +2084,7 @@
       "confidence": "low",
       "mentions_person_refs": [
         "N-1",
-        "N-265"
+        "N-264"
       ]
     },
     {
@@ -2276,7 +2276,7 @@
       "investigative_direction": "Obtain the full Crowder video and date it relative to the host's book club audio; check what claim he treated as the 'outrageous' one.",
       "transcript_snippet": "outrageous claims and this is an outrageous claim require outrageous evidence of course as is par for the course. Um, none has been presented.",
       "mentions_person_refs": [
-        "N-260",
+        "N-259",
         "N-2",
         "N-3",
         "N-1"
@@ -2367,7 +2367,7 @@
       "investigative_direction": "Compare Farnsworth's event assignments across other 2025 campus tour stops using TPUSA event staffing records, photos and travel records.",
       "transcript_snippet": "Terryl does not do college campus events. He doesn't do that. He's at the top of the company. He does the big events, the SAS, the Afest.",
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-3"
       ]
     },
@@ -2390,7 +2390,7 @@
       "investigative_direction": "Ask Farnsworth or TPUSA for the staffing roster of the first events after September 10 to test whether he was absent.",
       "transcript_snippet": "he told me they were trying something new that day and it must have been so new that it was over by the next event after Charlie died because he wasn't there again.",
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-1",
         "N-3"
       ]
@@ -2416,7 +2416,7 @@
       "investigative_direction": "Obtain TPUSA's chain-of-custody record for the SD cards and the names of anyone who handled them on September 10.",
       "transcript_snippet": "So, he just out of the blue was at this event and then he wasn't and he secured the SD cards.",
       "mentions_person_refs": [
-        "N-262",
+        "N-261",
         "N-3"
       ]
     },
@@ -2527,7 +2527,7 @@
       "investigative_direction": "Review the sleuth's email and method (kept anonymous by the host) and test the overlaps against independent flight and location records.",
       "transcript_snippet": "she had done an additional 15 hours of research and was able to discern that the person the planes were actually tracking for years was Erika, not Charlie",
       "mentions_person_refs": [
-        "N-264",
+        "N-263",
         "N-2",
         "N-1",
         "N-3"
@@ -2666,7 +2666,7 @@
       "investigative_direction": "Ask Duncan Aviation Provo whether it holds a work order for SU-BND on September 10, 2025.",
       "transcript_snippet": "Duncan Aviation does offer maintenance repairs. It's therefore possible that it just chose to run some maintenance checks at an unfortunate time.",
       "mentions_person_refs": [
-        "N-261",
+        "N-260",
         "N-3"
       ]
     },
@@ -3001,7 +3001,7 @@
       "transcript_snippet": "So Tyler Bowyer is being snarky on X. com and telling people to go look at the annual financial audit, but the financial audit is missing from last year for three of the four organizations.",
       "mentions_person_refs": [
         "N-11",
-        "N-473"
+        "N-472"
       ]
     },
     {
@@ -3143,7 +3143,7 @@
       "investigative_direction": "Check state and IRS records for America's Turning Point (entity type, officers, exempt status) to test the 'shell company' description.",
       "transcript_snippet": "They are sending it to their own shell company. Now, this is not necessarily illegal except for the fact that the financial statement for the other organization is missing.",
       "mentions_person_refs": [
-        "N-473"
+        "N-472"
       ]
     },
     {
@@ -3167,7 +3167,7 @@
       "investigative_direction": "Check Schedule I of TPUSA's Forms 990 for 2019 through 2024 and compare the grant recipients year by year.",
       "transcript_snippet": "This stopped in 2021 and they started ramping up sending money to America's Turning Point.",
       "mentions_person_refs": [
-        "N-473"
+        "N-472"
       ]
     },
     {
@@ -3190,7 +3190,7 @@
       "investigative_direction": "Verify the figures on the Turning Point Endowment Form 990 for fiscal year 2023.",
       "transcript_snippet": "As of fiscal year 2023, they had $61 million of assets in the endowment, which was generating $1.9 million a year of investment income.",
       "mentions_person_refs": [
-        "N-473"
+        "N-472"
       ]
     },
     {
@@ -3213,7 +3213,7 @@
       "investigative_direction": "Pull America's Turning Point's prior-year Form 990 (Part VII, Part IX and Schedule O) to check employee count and salary expense, including payments to a related staffing entity.",
       "transcript_snippet": "If we look at the prior year, the majority of the money was spent on other salaries and wages. How is this possible when America's Turning Point reports zero employees?",
       "mentions_person_refs": [
-        "N-473"
+        "N-472"
       ]
     },
     {
@@ -3236,7 +3236,7 @@
       "investigative_direction": "No evidence is presented for this speculation; only audited payroll records or an enforcement finding could confirm or refute it.",
       "transcript_snippet": "I think there are fake people on the payroll.",
       "mentions_person_refs": [
-        "N-473"
+        "N-472"
       ]
     },
     {
@@ -3261,7 +3261,7 @@
       "investigative_direction": "Obtain the Baker Tilly audit report and notes for fiscal year 2024 and confirm the entities covered and the opinion type.",
       "transcript_snippet": "they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA merch.",
       "mentions_person_refs": [
-        "N-473"
+        "N-472"
       ]
     },
     {
@@ -3284,7 +3284,7 @@
       "investigative_direction": "Check the signature date on the audit opinion letter against the original and extended Form 990 due dates.",
       "transcript_snippet": "Baker Tilly's audit opinion letter is signed after Turning Point missed the filing date with the IRS.",
       "mentions_person_refs": [
-        "N-473"
+        "N-472"
       ]
     },
     {
@@ -3517,7 +3517,7 @@
       "investigative_direction": "Identify the Shawn Ryan episode and guests, and track the host's later feedback.",
       "transcript_snippet": "I have not seen it yet, but I intend to watch it and I will give feedback on it um this week without question.",
       "mentions_person_refs": [
-        "N-225",
+        "N-224",
         "N-3"
       ]
     },
@@ -3557,7 +3557,7 @@
       "investigative_direction": "Search court dockets for suits naming Baker Tilly US, LLP over audit quality and confirm which suits the video cites.",
       "transcript_snippet": "that video went deeper into some lawsuits that Baker Tilly was facing for not auditing things correctly.",
       "mentions_person_refs": [
-        "N-473",
+        "N-472",
         "N-3"
       ]
     },

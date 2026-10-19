@@ -13,8 +13,8 @@
 
 - **Episode Ledger Summary**:
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-700, N-701, N-702, N-703, N-704, N-705, N-706, N-708, N-10997, N-10998, N-10999
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-11, N-14, N-17, N-22, N-40, N-46, N-55, N-60, N-61, N-75, N-160, N-187, N-191, N-225, N-262, N-267, N-299, N-331, N-342, N-365, N-381, N-388, N-490, N-552, N-597, N-688, N-10000, N-10056, N-10070, N-10095, N-10148, N-10162, N-10169, N-10194, N-10229, N-10315, N-10341, N-10346, N-10383, N-10398, N-10448, N-10507, N-10508, N-10528, N-10552, N-10644, N-10664, N-10768, N-10865, N-10887, N-10991, N-707, N-10739, N-11000
+  - Tip-minted Nodes (skeleton): N-698, N-699, N-700, N-701, N-702, N-703, N-704, N-706, N-10997, N-10998, N-10999
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-11, N-14, N-17, N-22, N-40, N-46, N-55, N-60, N-61, N-75, N-159, N-186, N-190, N-224, N-261, N-266, N-298, N-330, N-341, N-364, N-380, N-387, N-489, N-551, N-595, N-686, N-10000, N-10056, N-10070, N-10095, N-10148, N-10162, N-10169, N-10194, N-10229, N-10315, N-10341, N-10346, N-10383, N-10398, N-10448, N-10507, N-10508, N-10528, N-10552, N-10644, N-10664, N-10768, N-10865, N-10887, N-10991, N-705, N-10739, N-11000
   - Claim Range: C-4771–C-4837
   - (see registers)
 
@@ -39,7 +39,7 @@ Video Timestamp: 00:05:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4776, C-4777, N-225, N-267, N-262, N-2*
+*Related: C-4776, C-4777, N-224, N-266, N-261, N-2*
 
 ---
 
@@ -52,7 +52,7 @@ Video Timestamp: 00:09:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4783, N-262, N-2*
+*Related: C-4783, N-261, N-2*
 
 **A-2698.2** Graphic of the Visual Impulse team present on September 10 (Terryl Farnsworth, Brian Farnsworth, Philip Goldsberry Jr., Parker Edwards, Aaron Edwards, Robert Golow)
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:09:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4786, C-4787, C-4788, C-4789, C-4790, C-4791, N-262, N-688, N-700, N-701, N-702, N-703, N-10991*
+*Related: C-4786, C-4787, C-4788, C-4789, C-4790, C-4791, N-261, N-686, N-698, N-699, N-700, N-701, N-10991*
 
 ---
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:24:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4806, C-4807, C-4808, C-4809, C-4810, C-4811, N-704, N-705, N-706, N-707, N-299, N-2, N-11000*
+*Related: C-4806, C-4807, C-4808, C-4809, C-4810, C-4811, N-702, N-703, N-704, N-705, N-298, N-2, N-11000*
 
 ---
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:37:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4816, C-4817, C-4818, C-4819, N-17, N-3, N-267, N-708, N-10887*
+*Related: C-4816, C-4817, C-4818, C-4819, N-17, N-3, N-266, N-706, N-10887*
 
 ---
 
@@ -199,7 +199,7 @@ Video Timestamp: 00:45:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4825, N-160, N-22, N-40*
+*Related: C-4825, N-159, N-22, N-40*
 
 ---
 
@@ -244,7 +244,7 @@ Video Timestamp: 00:12:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4792, N-703, N-10998*
+*Related: C-4792, N-701, N-10998*
 
 ---
 
@@ -259,7 +259,7 @@ Video Timestamp: 00:55:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4833, C-4834, N-267, N-225, N-10997*
+*Related: C-4833, C-4834, N-266, N-224, N-10997*
 
 **A-2709.2** Viewer comment (Ali) on Erika Kirk's Father's Day post
 
@@ -353,151 +353,151 @@ One of the politically connected September 10 eyewitnesses who spoke to media.
 
 *Related: C-4794*
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Transcript spelling "Blake Neff". His tweet calls Tucker Carlson a liar; the host says he formerly worked for Tucker.
 
 *Related: C-4825, C-4826, C-4827, A-2705.1*
 
-**N-187** Stacy Sheridan
+**N-186** Stacy Sheridan
 
 Host says she and Mikey McCoy coached Erika Kirk on her lines.
 
 *Related: C-4829*
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 Rob McCoy's son; the host says he helped Erika Kirk memorize her lines.
 
 *Related: C-4816, C-4829*
 
-**N-225** Shawn Ryan
+**N-224** Shawn Ryan
 
 The host recorded a long interview at his studio. His team says Brian Harpole offered him the bloodied bag and that an Erika Kirk booking went through Terryl Farnsworth.
 
 *Related: C-4774, C-4775, C-4776, C-4777, A-2697.1, A-2709.1*
 
-**N-262** Terryl Farnsworth
+**N-261** Terryl Farnsworth
 
 Transcript spellings "Taral", "Terryl", "Tarrou" and "Taro". Visual Impulse owner who announced the death on camera and removed the SD card. Said to have arranged an Erika Kirk booking and to have been removed from Charlie's building in July.
 
 *Related: C-4777, C-4778, C-4779, C-4782, C-4783, C-4784, C-4786, C-4788, C-4790, C-4791, C-4801, A-2697.1, A-2698.1, A-2698.2*
 
-**N-267** Brian Harpole
+**N-266** Brian Harpole
 
 Transcript spellings "Brian Harpole" and "Bryan Harp". He is suing the host. Said to have offered Shawn Ryan Charlie Kirk's bloodied bag, and he is referenced in Rob McCoy's sermon.
 
 *Related: C-4775, C-4776, C-4818, C-4833, A-2697.1, A-2703.1, A-2709.1*
 
-**N-299** Miriam Adelson
+**N-298** Miriam Adelson
 
 Cited by ChatGPT as a widow successor; the host says she inherited shares and was never CEO.
 
 *Related: C-4811, A-2702.1*
 
-**N-331** Baron Coleman
+**N-330** Baron Coleman
 
 Named as working on audio about TPUSA staff doubts over Tyler Robinson.
 
 *Related: C-4826*
 
-**N-342** Victor Marx
+**N-341** Victor Marx
 
 Named as one of the pastors Erika Kirk brought into TPUSA Faith.
 
 *Related: C-4815*
 
-**N-365** Cabot Phillips
+**N-364** Cabot Phillips
 
 Host says he accosted her on a toddler playground during her early pregnancy.
 
 *Related: C-4772*
 
-**N-381** Eddie Farnsworth
+**N-380** Eddie Farnsworth
 
 Said to have helped bring Lori Frantzve into Arizona government contracts.
 
 *Related: C-4780*
 
-**N-388** Larry Guinta
+**N-387** Larry Guinta
 
 Transcript spelling "Larry Guinta". Lori Frantzve's husband and Erika Kirk's stepfather, said to appear with her on the Arizona House floor.
 
 *Related: C-4780*
 
-**N-490** Lori Frantzve
+**N-489** Lori Frantzve
 
 Transcript spelling "Lori Fran Slay". Erika Kirk's mother; said to have been brought into Arizona government contracts by the Farnsworths.
 
 *Related: C-4780*
 
-**N-552** Aubrey Laitsch
+**N-551** Aubrey Laitsch
 
 Named only as "Aubrey"; said to have told Andrew Kolvet when she was fired that "Nobody knows who she is."
 
 *Related: C-4812*
 
-**N-688** Philip Goldsberry Jr.
+**N-686** Philip Goldsberry Jr.
 
 First named by the host at 00:09:55 in episode 119. Visual Impulse team member on September 10; the host says his father is a pastor who started Global Ministries in Romania. Aliases: Philip Goldsberry.
 
 *Related: C-4787, A-2698.2*
 
-**N-700** Brian Farnsworth
+**N-698** Brian Farnsworth
 
 First named by the host at 00:09:55 in episode 119. Terryl Farnsworth's brother, shown on the Visual Impulse team graphic.
 
 *Related: C-4786, A-2698.2*
 
-**N-701** Parker Edwards
+**N-699** Parker Edwards
 
 First named by the host at 00:10:49 in episode 119. Visual Impulse team member who went to the same high school as Terryl Farnsworth.
 
 *Related: C-4788, C-4789, A-2698.2*
 
-**N-702** Aaron Edwards
+**N-700** Aaron Edwards
 
 First named by the host at 00:11:31 in episode 119. Parker Edwards's brother; said to have worked for Visual Impulse and attended Arizona State University.
 
 *Related: C-4789, A-2698.2*
 
-**N-703** Robert Golow
+**N-701** Robert Golow
 
 First named by the host at 00:11:31 in episode 119. Visual Impulse camera operator from Liberia, hired in 2024; said to have stood next to Terryl Farnsworth when Charlie Kirk was hit.
 
 *Related: C-4790, C-4791, C-4792, A-2698.2, A-2708.1*
 
-**N-704** Ellen Gordon
+**N-702** Ellen Gordon
 
 First named by the host at 00:24:13 in episode 119. Tootsie Roll Industries executive cited by ChatGPT as a widow successor.
 
 *Related: C-4806, A-2702.1*
 
-**N-705** Katharine Graham
+**N-703** Katharine Graham
 
 First named by the host at 00:24:13 in episode 119. Washington Post publisher cited by ChatGPT as a widow successor. Aliases: Katharine Meyer Graham.
 
 *Related: C-4808, A-2702.1*
 
-**N-706** Eugene Meyer
+**N-704** Eugene Meyer
 
 First named by the host at 00:26:09 in episode 119. Katharine Graham's father, who the host says bought the Washington Post out of bankruptcy.
 
 *Related: C-4809, A-2702.1*
 
-**N-707** Sheldon Adelson
+**N-705** Sheldon Adelson
 
 First named by the host at 00:26:09 in episode 119. Miriam Adelson's late husband; the host says Miriam inherited his shares on his death in 2021.
 
 *Related: C-4811, A-2702.1*
 
-**N-708** Increase Mather
+**N-706** Increase Mather
 
 First named by the host at 00:37:29 in episode 119 (in Rob McCoy's sermon clip). Named by McCoy as the minister who ended the Salem witch trials.
 
 *Related: C-4819, A-2703.1*
 
-**N-597** Druski
+**N-595** Druski
 
 First named by the host at 00:58:50 in episode 119. Comedian whom the host says Erika Kirk called out for a joke. Aliases: Druski.
 
@@ -658,21 +658,21 @@ Location of Encounter Church, where Rob McCoy delivered the sermon.
 Node Type: Topic
 Investigation target: an account from Shawn Ryan's production team, as relayed by the host, that Brian Harpole offered Shawn Ryan his cross-body bag still bearing Charlie Kirk's blood as a gift for Ryan's studio museum, and that Ryan declined. A viewer asked why the bag was not in evidence.
 
-*Related: C-4776, A-2697.1, A-2709.1, N-267, N-225*
+*Related: C-4776, A-2697.1, A-2709.1, N-266, N-224*
 
 **N-10991** Visual Impulse
 
 Node Type: Organization
 The audio-visual company run by Terryl Farnsworth that filmed Charlie Kirk's events. The host says Charlie had its team removed from his building on July 24, 2025, and that it was welcomed back after his death. Its September 10 crew included Brian Farnsworth, Philip Goldsberry Jr., Parker Edwards, Aaron Edwards and Robert Golow.
 
-*Related: C-4778, C-4782, C-4786, C-4787, C-4788, C-4789, C-4790, A-2698.2, N-262, N-688, N-700, N-701, N-702, N-703*
+*Related: C-4778, C-4782, C-4786, C-4787, C-4788, C-4789, C-4790, A-2698.2, N-261, N-686, N-698, N-699, N-700, N-701*
 
 **N-10998** Robert Golow Identification
 
 Node Type: Topic
 Investigation target: the background and September 10 role of Robert Golow, a Visual Impulse camera operator from Liberia. He was hired in 2024 when the redundant microphone was introduced, stood next to Terryl Farnsworth at the shooting and then ran off, and has never spoken publicly. The host asks for tips.
 
-*Related: C-4790, C-4791, C-4792, A-2708.1, N-703*
+*Related: C-4790, C-4791, C-4792, A-2708.1, N-701*
 
 **N-10999** Erika Kirk Staff Familiarity Discrepancy
 
@@ -686,7 +686,7 @@ Investigation target: Erika Kirk said at an Illinois summit that she had a "0% l
 Node Type: Topic
 Investigation target: the host's assertion that no wife in history has assumed her late husband's role as CEO and chairman. She says ChatGPT's examples (Ellen Gordon, Katharine Graham, Miriam Adelson) involved family-controlled companies or inherited shares.
 
-*Related: C-4806, C-4807, C-4808, C-4809, C-4810, C-4811, A-2702.1, N-704, N-705, N-706, N-707, N-299*
+*Related: C-4806, C-4807, C-4808, C-4809, C-4810, C-4811, A-2702.1, N-702, N-703, N-704, N-705, N-298*
 
 ## 5. Claim Register
 
@@ -713,7 +713,7 @@ Claim: The host says Cabot Phillips accosted her on a toddler playground while s
 Transcript Snippet: I was pregnant, truly a victim, when my foot was broken and Cabot Phillips accosted me on a toddler playground.
 
 Anchored Artifacts:
-Mentions: N-365, N-3
+Mentions: N-364, N-3
 Investigative Direction: Locate any video or posts by Cabot Phillips of the playground encounter and its date.
 
 ---
@@ -741,7 +741,7 @@ Claim: The host says she recorded a long interview at Shawn Ryan's podcast studi
 Transcript Snippet: I was actually on Friday um recording at Shawn Ryan's studio, his podcast studio, and um he lives down the road from me
 
 Anchored Artifacts:
-Mentions: N-225, N-3
+Mentions: N-224, N-3
 Investigative Direction: Confirm the release date of the Shawn Ryan Show episode with the host.
 
 ---
@@ -755,7 +755,7 @@ Claim: The host says Brian Harpole, who is suing her, claims he went on the Shaw
 Transcript Snippet: despite the fact that I never uttered his name before he went on the Shawn Ryan Show and had that disaster of an interview.
 
 Anchored Artifacts:
-Mentions: N-267, N-225, N-3
+Mentions: N-266, N-224, N-3
 Related Nodes: N-10644
 Supports: C-2817
 Investigative Direction: Search the host's episodes and posts before Harpole's Shawn Ryan appearance for any mention of his name, and obtain the lawsuit's allegations on this point.
@@ -771,7 +771,7 @@ Claim: According to the host, a member of Shawn Ryan's team told her that Brian 
 Transcript Snippet: He offered that bag with the blood still on it to Shawn Ryan. And it was declined.
 
 Anchored Artifacts: A-2697.1
-Mentions: N-267, N-225, N-1
+Mentions: N-266, N-224, N-1
 Related Nodes: N-10997
 Investigative Direction: Ask Shawn Ryan and his production staff to confirm the offer, and establish whether the bag was ever logged as evidence.
 
@@ -786,7 +786,7 @@ Claim: The host says Shawn Ryan's team told her that, some time after Harpole's 
 Transcript Snippet: What I thought was odd was that they were in communication to book that with Taral Farnsworth.
 
 Anchored Artifacts: A-2697.1
-Mentions: N-225, N-2, N-262
+Mentions: N-224, N-2, N-261
 Investigative Direction: Obtain booking correspondence between the Shawn Ryan Show and Erika Kirk's representatives.
 
 ---
@@ -800,7 +800,7 @@ Claim: The host describes Terryl Farnsworth as the man who announced on camera t
 Transcript Snippet: The guy who announced on camera that Charlie was dead, the guy who took down the camera, the guy who owns the runs the audio-visual company.
 
 Anchored Artifacts:
-Mentions: N-262, N-1
+Mentions: N-261, N-1
 Related Nodes: N-10991, N-10346
 Supports: C-1465
 Investigative Direction: Obtain Visual Impulse's corporate records and the original selfie video.
@@ -816,7 +816,7 @@ Claim: The host says the Farnsworth family grew up with Tyler Bowyer's family in
 Transcript Snippet: the Farnsworth family clan is a bit like a little deep Mormon mafia, you know, grew up with Tyler Bowyer's family, Chandler, Arizona. They all went to high school together
 
 Anchored Artifacts:
-Mentions: N-262, N-11
+Mentions: N-261, N-11
 Related Nodes: N-10383
 Investigative Direction: Check Chandler-area high school yearbooks and alumni records for the Farnsworth and Bowyer families.
 
@@ -831,7 +831,7 @@ Claim: The host says Eddie Farnsworth and his brother helped bring Lori Frantzve
 Transcript Snippet: Eddie Farnsworth and his brother, um, were one of the ones who brought Lori Fran Slay into those government contracts in Arizona. This is before Erika met Charlie.
 
 Anchored Artifacts:
-Mentions: N-381, N-490, N-388, N-2, N-1
+Mentions: N-380, N-489, N-387, N-2, N-1
 Related Nodes: N-10383
 Supports: C-2010
 Investigative Direction: Retrieve the Arizona House video and minutes of Lori Frantzve's presentation and any related state contracts.
@@ -862,7 +862,7 @@ Claim: The host says Terryl Farnsworth's team, which had worked upstairs in Char
 Transcript Snippet: On July 24th, Terryl's team, at Charlie's request, was removed from the building.
 
 Anchored Artifacts:
-Mentions: N-262, N-1
+Mentions: N-261, N-1
 Related Nodes: N-10991, N-10000
 Investigative Direction: Obtain TPUSA facilities and lease records and staff testimony on the July 2025 move.
 
@@ -877,7 +877,7 @@ Claim: The host says Terryl Farnsworth is the person standing behind Erika Kirk,
 Transcript Snippet: Terryl is the one that is standing behind Erika during her first Zoom call to the team the 6 days after Charlie was assassinated.
 
 Anchored Artifacts: A-2698.1
-Mentions: N-262, N-2, N-1
+Mentions: N-261, N-2, N-1
 Related Nodes: N-10448
 Supports: C-2220
 Investigative Direction: Obtain the full recording of the September 16, 2025 staff call and identify everyone in the room.
@@ -893,7 +893,7 @@ Claim: The host says Terryl Farnsworth explained his SD-card removal by saying h
 Transcript Snippet: Um I spoke to Erika. I didn't want her to relive Charlie dying. That's what he said. Then we find out that there was nothing gory on that particular film because the bullet didn't go through.
 
 Anchored Artifacts:
-Mentions: N-262, N-2, N-1
+Mentions: N-261, N-2, N-1
 Related Nodes: N-10346, N-10162
 Investigative Direction: Obtain the SD card footage from the camera behind Charlie Kirk and the chain-of-custody record.
 
@@ -922,7 +922,7 @@ Claim: The host's Visual Impulse graphic shows Terryl Farnsworth at the top and 
 Transcript Snippet: So we know Tarrou, he's there at the top. Brian Farnsworth is his is his uh brother.
 
 Anchored Artifacts: A-2698.2
-Mentions: N-262, N-700
+Mentions: N-261, N-698
 Related Nodes: N-10991
 Investigative Direction: Confirm the September 10 crew roster with Visual Impulse or event staffing records.
 
@@ -937,7 +937,7 @@ Claim: The host says Philip Goldsberry Jr., a Visual Impulse team member, has a 
 Transcript Snippet: His father is the pastor who, of course, started a charity, Global Ministries in Romania, because why wouldn't he?
 
 Anchored Artifacts: A-2698.2
-Mentions: N-688
+Mentions: N-686
 Related Nodes: N-10991, N-10528
 Investigative Direction: Look up the charity's registration and officers in US and Romanian nonprofit records.
 
@@ -952,7 +952,7 @@ Claim: The host says Parker Edwards, on the ground on September 10, went to the 
 Transcript Snippet: Parker Edwards, we just dug into this guy, and it turns out that he went to the same high school as Tarrou Farnsworth.
 
 Anchored Artifacts: A-2698.2
-Mentions: N-701, N-262
+Mentions: N-699, N-261
 Related Nodes: N-10991, N-10383
 Investigative Direction: Check high school alumni records for Parker Edwards and Terryl Farnsworth.
 
@@ -967,7 +967,7 @@ Claim: The host says Parker Edwards's brother Aaron Edwards also worked for Visu
 Transcript Snippet: also his brother Aaron Edwards worked for Visual Impulse as well, went to the same high school, also went to Arizona State University.
 
 Anchored Artifacts: A-2698.2
-Mentions: N-702, N-701
+Mentions: N-700, N-699
 Related Nodes: N-10991, N-10383
 Investigative Direction: Check Visual Impulse employment records and ASU enrollment confirmation.
 
@@ -982,7 +982,7 @@ Claim: The host says she was told that Robert Golow, originally from Liberia, wa
 Transcript Snippet: He was brought on, I am told, of course after I stopped touring with Charlie, when they started doing the redundancy of the microphone in 2024. He's actually from Liberia
 
 Anchored Artifacts: A-2698.2
-Mentions: N-703, N-1
+Mentions: N-701, N-1
 Related Nodes: N-10998, N-10991, N-10768
 Investigative Direction: Obtain Visual Impulse hiring records for Golow and the date TPUSA introduced the second microphone.
 
@@ -997,7 +997,7 @@ Claim: The host says Robert Golow was standing next to Terryl Farnsworth when Ch
 Transcript Snippet: But he's the one that's next to him, and then he runs off, and he was a new hire, uh so to speak, um within the year before Charlie died.
 
 Anchored Artifacts: A-2698.2
-Mentions: N-703, N-262, N-1
+Mentions: N-701, N-261, N-1
 Related Nodes: N-10998, N-10000
 Investigative Direction: Review September 10 crowd video for the camera position and Golow's movements, and check his current employment.
 
@@ -1012,7 +1012,7 @@ Claim: The host asks viewers, including her audience in Africa, for any informat
 Transcript Snippet: But if you know anything about Robert Golow, um and his involvement, we would love to hear from you. More tips at candaceowens. com.
 
 Anchored Artifacts: A-2708.1
-Mentions: N-703, N-3
+Mentions: N-701, N-3
 Related Nodes: N-10998
 Investigative Direction: Follow up on tips received about Golow's background and his September 10 role.
 
@@ -1148,7 +1148,7 @@ Claim: The host alleges that Terryl Farnsworth specifically took the camera's SD
 Transcript Snippet: Why did you jump specifically to grab that camera's SD card and then lie and say, "Uh Andrew Colbeth, people were stealing stuff." Uh buddy, we have eyes. We saw you take specifically the SD card and you left the camera.
 
 Anchored Artifacts:
-Mentions: N-262, N-14
+Mentions: N-261, N-14
 Related Nodes: N-10162, N-10346
 Contradicts: C-1369
 Investigative Direction: Review September 10 video of the camera takedown and the SD card's chain of custody.
@@ -1224,7 +1224,7 @@ Claim: The host says ChatGPT's first example, Ellen Gordon, took over Tootsie Ro
 Transcript Snippet: She took over Tootsie Roll Industries after her husband Melvin Gordon died at But actually no, not mentioned is the fact that it was her family's company.
 
 Anchored Artifacts: A-2702.1
-Mentions: N-704
+Mentions: N-702
 Related Nodes: N-11000
 Investigative Direction: Check Tootsie Roll Industries SEC filings on ownership and executive history.
 
@@ -1254,7 +1254,7 @@ Claim: The host says Katharine Meyer Graham took over from her husband Philip Gr
 Transcript Snippet: Katharine Meyer Graham, sure enough she did take over for her husband Philip Graham as the publisher of the Washington Post after he died, but again it doesn't count because actually it was her family's company.
 
 Anchored Artifacts: A-2702.1
-Mentions: N-705
+Mentions: N-703
 Related Nodes: N-11000
 Investigative Direction: Consult Washington Post corporate history for ownership at the time of Philip Graham's death.
 
@@ -1269,7 +1269,7 @@ Claim: The host says Katharine Graham's father, Eugene Meyer, bought the Washing
 Transcript Snippet: Eugene Meyer was her father, like I said, who purchased Washington Post um right out of bankruptcy.
 
 Anchored Artifacts: A-2702.1
-Mentions: N-706, N-705
+Mentions: N-704, N-703
 Related Nodes: N-11000
 Investigative Direction: Check the 1933 bankruptcy auction record of the Washington Post and Federal Reserve leadership history.
 
@@ -1299,7 +1299,7 @@ Claim: The host says Miriam Adelson, cited as a possible example after Sheldon A
 Transcript Snippet: it was actually them together that had a controlling interest. It's a publicly traded company and she simply inherited his shares.
 
 Anchored Artifacts: A-2702.1
-Mentions: N-299, N-707
+Mentions: N-298, N-705
 Related Nodes: N-11000
 Investigative Direction: Check Las Vegas Sands SEC filings on ownership and executive officers after January 2021.
 
@@ -1314,7 +1314,7 @@ Claim: The host says current and former TPUSA employees complained that Erika Ki
 Transcript Snippet: You remember even when Aubrey got fired, she had said to Andrew Kolvet, "Nobody knows who she is.
 
 Anchored Artifacts:
-Mentions: N-552, N-14, N-2
+Mentions: N-551, N-14, N-2
 Related Nodes: N-10999, N-10552
 Investigative Direction: Obtain the recording of Aubrey Laitsch's termination meeting.
 
@@ -1359,7 +1359,7 @@ Claim: The host says Charlie Kirk's final presentation, about two and a half hou
 Transcript Snippet: he doesn't say Erika is involved in everything because she's lying. He says one sentence, Erika helps out with faith.
 
 Anchored Artifacts:
-Mentions: N-1, N-2, N-342, N-17
+Mentions: N-1, N-2, N-341, N-17
 Related Nodes: N-10398
 Investigative Direction: Obtain the full video of Charlie Kirk's final presentation and transcribe every mention of Erika.
 
@@ -1374,7 +1374,7 @@ Claim: The host says Rob McCoy, Mikey McCoy's father, delivered a recent Sunday 
 Transcript Snippet: Pastor Rob McCoy, Mikey McCoy's daddy. He brought down the house this Sunday, maybe it was past Sunday, I don't know. At Encounter Church in Vegas
 
 Anchored Artifacts: A-2703.1
-Mentions: N-17, N-191, N-3
+Mentions: N-17, N-190, N-3
 Related Nodes: N-10887
 Investigative Direction: Obtain the full sermon video and date from Encounter Church.
 
@@ -1403,7 +1403,7 @@ Claim: In the sermon clip, Rob McCoy says the host is going to go bankrupt, ment
 Transcript Snippet: She's going to go bankrupt. This next one Charlie's chief of of security Brian this this she's done.
 
 Anchored Artifacts: A-2703.1
-Mentions: N-17, N-267, N-3, N-1
+Mentions: N-17, N-266, N-3, N-1
 Investigative Direction: Track the docket of Harpole's defamation lawsuit against the host.
 
 ---
@@ -1417,7 +1417,7 @@ Claim: In the sermon clip, Rob McCoy says the Salem witch trials ended in 1692 b
 Transcript Snippet: we ended the Salem witch trials in 1692 in America. And it was a minister who ended them. His name was Increase Mather.
 
 Anchored Artifacts: A-2703.1
-Mentions: N-17, N-708
+Mentions: N-17, N-706
 Investigative Direction: Compare with historical records of the Salem trials and Increase Mather's "Cases of Conscience."
 
 ---
@@ -1506,7 +1506,7 @@ Claim: The host reads a tweet by Blake Neff, who she says formerly worked for Tu
 Transcript Snippet: Actually, those of us who knew Charlie best, a group that doesn't include Tucker, do think that Tyler Robinson did it and was motivated by transgender radicalism. Tucker is lying.
 
 Anchored Artifacts: A-2705.1
-Mentions: N-160, N-22, N-40, N-1
+Mentions: N-159, N-22, N-40, N-1
 Related Nodes: N-10056
 Investigative Direction: Archive Blake Neff's tweet and confirm his prior employment with Tucker Carlson.
 
@@ -1521,7 +1521,7 @@ Claim: The host says audio to be released later in the week will show that the m
 Transcript Snippet: some audio is going to show that the majority of people at Turning Point USA don't believe Tyler Robinson did it or acted alone.
 
 Anchored Artifacts:
-Mentions: N-40, N-331
+Mentions: N-40, N-330
 Related Nodes: N-10000, N-10508
 Investigative Direction: Review the promised audio when released and verify the speakers' identities.
 
@@ -1536,7 +1536,7 @@ Claim: In a Charlie Kirk Show clip recorded after the death, with Blake Neff pre
 Transcript Snippet: Really want people to understand, Tucker, you and Charlie had a such a unique and special bond and relationship. It was It was a deep friendship
 
 Anchored Artifacts: A-2706.1
-Mentions: N-14, N-22, N-1, N-160
+Mentions: N-14, N-22, N-1, N-159
 Investigative Direction: Locate the full Charlie Kirk Show episode and its air date.
 
 ---
@@ -1564,7 +1564,7 @@ Claim: The host asserts as fact that scripts were handed to Erika Kirk before ea
 Transcript Snippet: Mikey McCoy, Stacy Sheridan, they have been the directors helping Erika memorize her lines.
 
 Anchored Artifacts:
-Mentions: N-191, N-187, N-2
+Mentions: N-190, N-186, N-2
 Related Nodes: N-10865
 Investigative Direction: Seek production staff testimony or documents from Erika Kirk's early interviews.
 
@@ -1683,7 +1683,7 @@ Claim: The host says that in a recent appearance Erika Kirk called out comedian 
 Transcript Snippet: calling out Druski for a joke while forgiving Tyler Robinson and throwing my name in it for no reason.
 
 Anchored Artifacts:
-Mentions: N-2, N-597, N-40, N-3
+Mentions: N-2, N-595, N-40, N-3
 Investigative Direction: Locate the recent Erika Kirk appearance and transcribe the relevant remarks.
 
 ---
@@ -1871,8 +1871,8 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2697.1 is the Shawn Ryan team's account, relayed by the host only. A-2708.1 is the host's verbal tip request. The Daily Mail article on Erika Kirk's shifting succession story is referenced as previously shown, and is not given an artifact. The deleted death-hoax post and the obituary website (C-4773) were not shown. The Fort Huachuca emails (C-4802) were described, not read.
 - **DIA beats**: one real hit, at 00:12:22 ("More tips at candaceowens. com"), is recorded as claim C-4792, artifact A-2708.1 and an M-12 occurrence. The other "candaceowens. com" hit (01:00:27) directs viewers to the book club and merch, so it is not a DIA beat. "Send me an email" (00:40:11) is a rhetorical ask about who attends Rob McCoy's church and is not on the keyword list, so it is not treated as a DIA beat. The Candace Intelligence Agency phrase does not air, so M-14 is not used.
-- **Name matching**: Terryl Farnsworth appears as "Taral", "Terryl", "Tarrou" and "Taro", all mapped to N-262 (alias Terryl/Terryl Farnsworth). "Lori Fran Slay" is mapped to N-490 Lori Frantzve and "Larry Guinta" to N-388 Larry Guinta, both from context (Erika's mother and stepfather). "Andrew Colbeth", "Andrew Kolvet" and "Colvette" are mapped to N-14 Andrew Kolvet. "Blake Neff" is mapped to N-160. "Aubrey" is mapped to N-552 Aubrey Laitsch from the firing context. "Bryan Harp" (40:11) is mapped to N-267 Brian Harpole.
-- **New persons possibly already minted elsewhere**: the host says "we told you about" Philip Goldsberry Jr., so he may have been introduced in an episode not yet in nodes.tsv or staging (for example 117 or 118). The integrator should dedupe. Druski (N-597) reuses the exact title from staging episode_084 (N-688 there). Robert Golow's spelling is unverified.
+- **Name matching**: Terryl Farnsworth appears as "Taral", "Terryl", "Tarrou" and "Taro", all mapped to N-261 (alias Terryl/Terryl Farnsworth). "Lori Fran Slay" is mapped to N-489 Lori Frantzve and "Larry Guinta" to N-387 Larry Guinta, both from context (Erika's mother and stepfather). "Andrew Colbeth", "Andrew Kolvet" and "Colvette" are mapped to N-14 Andrew Kolvet. "Blake Neff" is mapped to N-159. "Aubrey" is mapped to N-551 Aubrey Laitsch from the firing context. "Bryan Harp" (40:11) is mapped to N-266 Brian Harpole.
+- **New persons possibly already minted elsewhere**: the host says "we told you about" Philip Goldsberry Jr., so he may have been introduced in an episode not yet in nodes.tsv or staging (for example 117 or 118). The integrator should dedupe. Druski (N-595) reuses the exact title from staging episode_084 (N-686 there). Robert Golow's spelling is unverified.
 - **Transcription ambiguities**: "Hud's, who are you?" in the Erika clip is kept as written. "Global Ministries in Romania" may be an incomplete charity name. In the host's quote of Increase Mather, McCoy's claim that he ended the trials is historically contested; it is recorded as McCoy's assertion only. "30-ought-6" and ".30-06" are kept as spoken.
 - **Cross-episode links**: C-4775 Supports C-2817 (ep 97), C-4778 Supports C-1465 (ep 19), C-4780 Supports C-2010 (ep 52), C-4783 Supports C-2220 (ep 64), C-4794 Supports C-1245 (ep 8), C-4801 Contradicts C-1369 (ep 15, Kolvet's theft explanation) and C-4822 Supports C-2874 (ep 99).
 - **Cross-episode links left out**: C-4814 and C-4804 are related to the Aspen succession claims (C-2657, C-2660, C-2685), but they concern a different proposition (a private emergency plan rather than the Aspen statement). C-4822 also relates to C-1376 (ep 15), which is supported only through C-2874. C-4833's $40 million Mar-a-Lago figure differs from C-2250's ~$42M target pitch and is not linked.

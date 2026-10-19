@@ -31,9 +31,9 @@
             "C-2379"
           ],
           "related_nodes": [
+            "N-564",
             "N-565",
-            "N-566",
-            "N-567"
+            "N-566"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -60,8 +60,8 @@
             "C-2379"
           ],
           "related_nodes": [
-            "N-566",
-            "N-567"
+            "N-565",
+            "N-566"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -79,7 +79,7 @@
             "C-2378"
           ],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -97,7 +97,7 @@
             "C-2380"
           ],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -116,7 +116,7 @@
             "C-2382"
           ],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -132,7 +132,7 @@
           "description": "Jillian Falcon tweet, 2014-03-26 morning: \"I just want to be somebody's woman crush Wednesday. Is that too much to ask?\"",
           "related_claims": [],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -150,7 +150,7 @@
             "C-2383"
           ],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -166,7 +166,7 @@
           "description": "Jillian Falcon tweet, 2014-04-03: \"I miss this goon.\" Followed by Jillian reporting Erika texted \"#nonewfriends.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -184,7 +184,7 @@
             "C-2384"
           ],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -202,7 +202,7 @@
             "C-2385"
           ],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -218,7 +218,7 @@
           "description": "Jillian Falcon tweet, June 2014 (date not precisely given in episode): \"I haven't seen my dad over 2 years.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-566",
+            "N-565",
             "N-10513"
           ],
           "tags": [],
@@ -245,7 +245,7 @@
             "C-2380"
           ],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -263,7 +263,7 @@
             "C-2380"
           ],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -281,7 +281,7 @@
             "C-2380"
           ],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -300,7 +300,7 @@
             "C-2382"
           ],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -318,7 +318,7 @@
             "C-2381"
           ],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -336,7 +336,7 @@
             "C-2385"
           ],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -362,7 +362,7 @@
             "C-2384"
           ],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -386,7 +386,7 @@
           "description": "Erika comment on Jillian beach photo: \"Unreal gorgeous.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -402,7 +402,7 @@
           "description": "Erika comment on same photo: \"I could see why, boo.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -418,7 +418,7 @@
           "description": "Erika comment on same photo: \"Yes, I know you are.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -436,7 +436,7 @@
             "C-2386"
           ],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -579,7 +579,7 @@
             "C-2394"
           ],
           "related_nodes": [
-            "N-191",
+            "N-190",
             "N-10512"
           ],
           "tags": [],
@@ -607,7 +607,7 @@
             "C-2394"
           ],
           "related_nodes": [
-            "N-191",
+            "N-190",
             "N-10512"
           ],
           "tags": [],
@@ -634,7 +634,7 @@
             "C-2395"
           ],
           "related_nodes": [
-            "N-568"
+            "N-567"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -689,7 +689,7 @@
           "related_nodes": [
             "N-3",
             "N-2",
-            "N-238",
+            "N-237",
             "N-10506"
           ],
           "tags": [],
@@ -816,8 +816,8 @@
             "C-10167"
           ],
           "related_nodes": [
-            "N-187",
-            "N-858"
+            "N-186",
+            "N-855"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -870,7 +870,7 @@
           ],
           "related_nodes": [
             "N-85",
-            "N-568"
+            "N-567"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -896,7 +896,7 @@
             "C-10224"
           ],
           "related_nodes": [
-            "N-260"
+            "N-259"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -910,8 +910,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-565",
-      "ref": "N-565",
+      "@id": "N-564",
+      "ref": "N-564",
       "name": "Nicey (YouTuber)",
       "type": "person",
       "description": "YouTuber whose video provided the host with primary source material on the Erika Kirk–Jillian Falcon relationship, including meeting context and text/DM quote reconstruction.",
@@ -930,8 +930,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-566",
-      "ref": "N-566",
+      "@id": "N-565",
+      "ref": "N-565",
       "name": "Jillian Falcon",
       "type": "person",
       "description": "Then-15-year-old girl introduced to Erika Kirk via a rent arrangement at Josh Harrellson's Michigan residence in 2013; now an adult and the named source of the screenshots and testimonial confirmation surfaced via Nicey and the host.",
@@ -950,8 +950,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-567",
-      "ref": "N-567",
+      "@id": "N-566",
+      "ref": "N-566",
       "name": "Josh Harrellson",
       "type": "person",
       "description": "Erika Kirk's then-boyfriend (basketball player) at the time of the September 15, 2013 meeting with Jillian Falcon; named in Jillian's tweet and Nicey's narration.",
@@ -970,8 +970,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Chief of staff figure in the post-assassination Turning Point USA operation; appeared in two interview clips used by the host to evaluate the wedding-photo movement timeline.",
@@ -1012,8 +1012,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-568",
-      "ref": "N-568",
+      "@id": "N-567",
+      "ref": "N-567",
       "name": "Jared Moskowitz",
       "type": "person",
       "description": "Democratic House member whose House Oversight remarks on the Epstein file release were played at length.",
@@ -1050,8 +1050,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-569",
-      "ref": "N-569",
+      "@id": "N-568",
+      "ref": "N-568",
       "name": "R-Name Photographer",
       "type": "person",
       "description": "Male photographer described by Jillian Falcon as shorter, chubbier, name beginning with \"R,\" arranged by Erika Kirk to photograph Jillian when Jillian was 15; identity not yet established in this episode.",
@@ -1065,7 +1065,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-566",
+        "N-565",
         "N-10513"
       ]
     },
@@ -1111,7 +1111,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-191",
+        "N-190",
         "N-14"
       ]
     },
@@ -1134,8 +1134,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-566",
-        "N-569"
+        "N-565",
+        "N-568"
       ]
     },
     {
@@ -1471,8 +1471,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-166",
-      "ref": "N-166",
+      "@id": "N-165",
+      "ref": "N-165",
       "name": "Howard Lutnick",
       "type": "person",
       "description": "Subject of Moskowitz's remarks about visits to Epstein's home and island.",
@@ -1490,8 +1490,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-187",
-      "ref": "N-187",
+      "@id": "N-186",
+      "ref": "N-186",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "Said by the host to have worked in Kenneth Starr's office and to have met Erika before the airport on Sept 10.",
@@ -1512,8 +1512,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-238",
-      "ref": "N-238",
+      "@id": "N-237",
+      "ref": "N-237",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Host of the December interview in which Erika said she had not been in the studio in forever.",
@@ -1530,8 +1530,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-260",
-      "ref": "N-260",
+      "@id": "N-259",
+      "ref": "N-259",
       "name": "Steven Crowder",
       "type": "person",
       "description": "Host criticizes his handling of the bullet inscription leak and the Nashville notebook.",
@@ -1548,8 +1548,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Whose viral episode and instruction not to contact Jillian are described.",
@@ -1567,8 +1567,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-487",
-      "ref": "N-487",
+      "@id": "N-486",
+      "ref": "N-486",
       "name": "Taylor Swift",
       "type": "person",
       "description": "Subject of the host's aside on tween emotion and business.",
@@ -1584,8 +1584,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-490",
-      "ref": "N-490",
+      "@id": "N-489",
+      "ref": "N-489",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Said by the host to be Erika's real mother and operator of Desert Spirit Tech.",
@@ -1602,8 +1602,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-546",
-      "ref": "N-546",
+      "@id": "N-545",
+      "ref": "N-545",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Erika's best friend, said to do trafficking-victim charity work via Dream City Church.",
@@ -1619,8 +1619,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-582",
-      "ref": "N-582",
+      "@id": "N-580",
+      "ref": "N-580",
       "name": "Thomas Massie",
       "type": "person",
       "description": "Sponsor of the discharge petition described by Moskowitz.",
@@ -1984,8 +1984,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-858",
-      "ref": "N-858",
+      "@id": "N-855",
+      "ref": "N-855",
       "name": "Kenneth Starr",
       "type": "person",
       "description": "First named by the host at 00:19:48 in episode 74. Former independent counsel described by the host as Jeffrey Epstein's friend, under whom Stacy Sheridan claims to have worked at Pepperdine University. Aliases in the transcript: Kenneth Starr.",
@@ -2002,14 +2002,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-187",
+        "N-186",
         "N-11252"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-859",
-      "ref": "N-859",
+      "@id": "N-856",
+      "ref": "N-856",
       "name": "Merrick Garland",
       "type": "person",
       "description": "First named by the host at 00:46:09 in episode 74. Former Attorney General, referred to in Pam Bondi's remark that no one asked him about Epstein.",
@@ -2080,8 +2080,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-187",
-        "N-858"
+        "N-186",
+        "N-855"
       ]
     },
     {
@@ -2104,7 +2104,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-260"
+        "N-259"
       ]
     },
     {
@@ -2146,9 +2146,9 @@
       "claim_timestamp": "00:02:07",
       "investigative_direction": "Pull Jillian's original Sept 15, 2013 X/Twitter posts directly and corroborate against contemporaneous Michigan venue records.",
       "mentions_person_refs": [
+        "N-564",
         "N-565",
         "N-566",
-        "N-567",
         "N-2"
       ]
     },
@@ -2166,7 +2166,7 @@
       "claim_timestamp": "00:03:40",
       "investigative_direction": "Re-interview Jillian (now adult) directly and document the rent-payment interaction in writing or recording.",
       "mentions_person_refs": [
-        "N-566",
+        "N-565",
         "N-2"
       ]
     },
@@ -2187,8 +2187,8 @@
       "claim_timestamp": "00:05:48",
       "investigative_direction": "Obtain original screenshots and verify posting metadata on Jillian's X/Twitter account.",
       "mentions_person_refs": [
+        "N-564",
         "N-565",
-        "N-566",
         "N-2"
       ]
     },
@@ -2207,8 +2207,8 @@
       "claim_timestamp": "00:05:48",
       "investigative_direction": "Compare against the same-day Jillian social-media activity to identify the referenced event and whether a photo session took place.",
       "mentions_person_refs": [
+        "N-564",
         "N-565",
-        "N-566",
         "N-2"
       ]
     },
@@ -2229,8 +2229,8 @@
       "claim_timestamp": "00:15:15",
       "investigative_direction": "Identify the photographer (name begins with \"R\") and obtain session records, including the date and consent documentation.",
       "mentions_person_refs": [
-        "N-566",
-        "N-569",
+        "N-565",
+        "N-568",
         "N-2"
       ]
     },
@@ -2248,8 +2248,8 @@
       "claim_timestamp": "00:06:37",
       "investigative_direction": "Locate the original image file and verify its posting date and source account.",
       "mentions_person_refs": [
+        "N-564",
         "N-565",
-        "N-566",
         "N-2"
       ]
     },
@@ -2268,8 +2268,8 @@
       "claim_timestamp": "00:07:30",
       "investigative_direction": "Obtain the original photo from Jillian's X/Twitter post and, if feasible, the physical card for handwriting comparison.",
       "mentions_person_refs": [
+        "N-564",
         "N-565",
-        "N-566",
         "N-2"
       ]
     },
@@ -2288,8 +2288,8 @@
       "claim_timestamp": "00:07:30",
       "investigative_direction": "Obtain the original screenshot and verify against Jillian's X/Twitter posting history.",
       "mentions_person_refs": [
+        "N-564",
         "N-565",
-        "N-566",
         "N-2"
       ]
     },
@@ -2307,7 +2307,7 @@
       "claim_timestamp": "00:14:26",
       "investigative_direction": "Pull the original Instagram comment from Jillian's account (now possibly deleted) via archived snapshots or Jillian's own records.",
       "mentions_person_refs": [
-        "N-566",
+        "N-565",
         "N-2"
       ]
     },
@@ -2447,7 +2447,7 @@
       "claim_timestamp": "00:37:36",
       "investigative_direction": "Pull the original Real America's Voice and Fox News/Martha MacCallum interview segments and verify the studio background details.",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-1"
       ]
     },
@@ -2468,7 +2468,7 @@
       "claim_timestamp": "00:38:26",
       "investigative_direction": "Pull the two interview segments and visually verify the background in each.",
       "mentions_person_refs": [
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -2524,9 +2524,9 @@
       "transcript_snippet": "Baron Coleman had a bit of a viral episode regarding a seemingly weird relationship that Erika had with a then 15-year-old girl named Jillian.",
       "mentions_person_refs": [
         "N-3",
-        "N-331",
+        "N-330",
         "N-2",
-        "N-566"
+        "N-565"
       ]
     },
     {
@@ -2545,8 +2545,8 @@
       "transcript_snippet": "I reached out to her immediately. I don't know what's wrong with me.",
       "mentions_person_refs": [
         "N-3",
-        "N-331",
-        "N-566"
+        "N-330",
+        "N-565"
       ]
     },
     {
@@ -2586,8 +2586,8 @@
       "transcript_snippet": "thanks to, first and foremost, a YouTuber by the name of Nicey, so full credits Nicey, and then, of course, Baron Coleman picked it up.",
       "mentions_person_refs": [
         "N-3",
-        "N-565",
-        "N-331"
+        "N-564",
+        "N-330"
       ]
     },
     {
@@ -2608,9 +2608,9 @@
       "transcript_snippet": "he was living in Michigan and Erika moved out there to be with him.",
       "mentions_person_refs": [
         "N-3",
-        "N-565",
+        "N-564",
         "N-2",
-        "N-567"
+        "N-566"
       ]
     },
     {
@@ -2634,9 +2634,9 @@
         "C-2378"
       ],
       "mentions_person_refs": [
+        "N-564",
         "N-565",
         "N-566",
-        "N-567",
         "N-2"
       ]
     },
@@ -2660,8 +2660,8 @@
         "C-2379"
       ],
       "mentions_person_refs": [
+        "N-564",
         "N-565",
-        "N-566",
         "N-2"
       ]
     },
@@ -2704,8 +2704,8 @@
       "investigative_direction": "Pull the archived tweet from Jillian's account and confirm the date and the handle used.",
       "transcript_snippet": "On February 13th, 2014, Jillian replied to one of Erika's tweets by saying, \"@ErikaFrantzve, gorgeous as always.\"",
       "mentions_person_refs": [
+        "N-564",
         "N-565",
-        "N-566",
         "N-2"
       ]
     },
@@ -2729,8 +2729,8 @@
         "C-2380"
       ],
       "mentions_person_refs": [
+        "N-564",
         "N-565",
-        "N-566",
         "N-2"
       ]
     },
@@ -2751,8 +2751,8 @@
       "investigative_direction": "Pull the April 3, 2014 tweets and the screenshot of the exchange to confirm context and who is in the picture.",
       "transcript_snippet": "A few minutes later she tweeted that Erika just text me, #nonewfriends.",
       "mentions_person_refs": [
+        "N-564",
         "N-565",
-        "N-566",
         "N-2"
       ]
     },
@@ -2775,8 +2775,8 @@
       "investigative_direction": "Retrieve the Instagram post and comment thread (or archive) from Jillian's account and confirm dates and authorship.",
       "transcript_snippet": "So, Jillian posted this photo of the beach and Erika says, \"Unreal gorgeous.\" And then Jillian responds, \"This is by far my favorite picture I took.",
       "mentions_person_refs": [
+        "N-564",
         "N-565",
-        "N-566",
         "N-2"
       ]
     },
@@ -2802,7 +2802,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-566"
+        "N-565"
       ]
     },
     {
@@ -2823,7 +2823,7 @@
       "transcript_snippet": "She tweeted this in June of 2014. I haven't seen my dad over 2 years.",
       "mentions_person_refs": [
         "N-3",
-        "N-566"
+        "N-565"
       ]
     },
     {
@@ -2861,7 +2861,7 @@
       "transcript_snippet": "She said at the time as a 15-year-old, she was blown away by this amazingly beautiful, older, semi-famous person that was giving her all of this attention.",
       "mentions_person_refs": [
         "N-3",
-        "N-566",
+        "N-565",
         "N-2"
       ]
     },
@@ -2881,7 +2881,7 @@
       "transcript_snippet": "my biggest gripe with Taylor Swift, even though I like her music, it's because I find that she harnesses the power of that tween emotion to get business deals done.",
       "mentions_person_refs": [
         "N-3",
-        "N-487"
+        "N-486"
       ]
     },
     {
@@ -2900,7 +2900,7 @@
       "transcript_snippet": "Jillian today is now 27 years old and she fully appreciates how absolutely weird this was",
       "mentions_person_refs": [
         "N-3",
-        "N-566",
+        "N-565",
         "N-2"
       ]
     },
@@ -2920,7 +2920,7 @@
       "transcript_snippet": "\"I was with my friend when I met her, but she never had this relationship with Cheyenne.\"",
       "mentions_person_refs": [
         "N-3",
-        "N-566",
+        "N-565",
         "N-2"
       ]
     },
@@ -2940,7 +2940,7 @@
       "transcript_snippet": "She tells me that she and Erika actually never hung out in person beyond that first meeting.",
       "mentions_person_refs": [
         "N-3",
-        "N-566",
+        "N-565",
         "N-2"
       ]
     },
@@ -2969,8 +2969,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-566",
-        "N-569"
+        "N-565",
+        "N-568"
       ]
     },
     {
@@ -2991,9 +2991,9 @@
       "transcript_snippet": "She says she remembers it began with an R and he was kind of shorter, chubbier",
       "mentions_person_refs": [
         "N-3",
-        "N-566",
+        "N-565",
         "N-2",
-        "N-569"
+        "N-568"
       ]
     },
     {
@@ -3012,7 +3012,7 @@
       "transcript_snippet": "I asked, \"Did she have Did she speak to your mother?\" She said, \"No, she never spoke to my mother.\"",
       "mentions_person_refs": [
         "N-3",
-        "N-566",
+        "N-565",
         "N-2"
       ]
     },
@@ -3101,7 +3101,7 @@
       "transcript_snippet": "Tracy Martin, Erika's best friend, she's also has been involved in charity work for trafficking victims uh via Dream City Church, which we mentioned to you.",
       "mentions_person_refs": [
         "N-3",
-        "N-546",
+        "N-545",
         "N-2"
       ]
     },
@@ -3148,8 +3148,8 @@
       "transcript_snippet": "I can't find a trace of her actually at Pepperdine University aside from her resume where she says she worked there for 8 years, but in Kenneth Starr's office.",
       "mentions_person_refs": [
         "N-3",
-        "N-187",
-        "N-858",
+        "N-186",
+        "N-855",
         "N-9"
       ]
     },
@@ -3173,8 +3173,8 @@
       "transcript_snippet": "for almost a decade, she worked for Kenneth Starr at the exact same time that he was working with Jeffrey Epstein.",
       "mentions_person_refs": [
         "N-3",
-        "N-187",
-        "N-858",
+        "N-186",
+        "N-855",
         "N-9"
       ]
     },
@@ -3194,8 +3194,8 @@
       "transcript_snippet": "But Stacy Sheridan is not Erika's real mom. Lori is Erika's real mother.",
       "mentions_person_refs": [
         "N-3",
-        "N-187",
-        "N-490",
+        "N-186",
+        "N-489",
         "N-2"
       ]
     },
@@ -3217,7 +3217,7 @@
       "transcript_snippet": "We had mentioned to you this Desert Spirit Tech company that she was running Lori was running on a Native American reservation",
       "mentions_person_refs": [
         "N-3",
-        "N-490"
+        "N-489"
       ]
     },
     {
@@ -3298,7 +3298,7 @@
       "transcript_snippet": "The reason Jillian is speaking to me is because she's asking people to stop messaging her.",
       "mentions_person_refs": [
         "N-3",
-        "N-566"
+        "N-565"
       ]
     },
     {
@@ -3362,8 +3362,8 @@
       "transcript_snippet": "We're trying to figure out who this um photographer was that took photographs of her.",
       "mentions_person_refs": [
         "N-3",
-        "N-566",
-        "N-569"
+        "N-565",
+        "N-568"
       ]
     },
     {
@@ -3452,7 +3452,7 @@
       "transcript_snippet": "This is also the same school that Stacy Sheridan went to and people who went in that same year as her say I don't remember her.",
       "mentions_person_refs": [
         "N-3",
-        "N-187",
+        "N-186",
         "N-2"
       ]
     },
@@ -3497,7 +3497,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-187",
+        "N-186",
         "N-1"
       ]
     },
@@ -3684,7 +3684,7 @@
         "N-3",
         "N-1",
         "N-2",
-        "N-238"
+        "N-237"
       ]
     },
     {
@@ -3708,7 +3708,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-238",
+        "N-237",
         "N-1"
       ]
     },
@@ -3781,7 +3781,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -3807,7 +3807,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-191",
+        "N-190",
         "N-1"
       ]
     },
@@ -3852,7 +3852,7 @@
       "transcript_snippet": "Mikey the marvelous got a little ahead of himself and it was like messing up his vibe and he moved it.",
       "mentions_person_refs": [
         "N-3",
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -3896,7 +3896,7 @@
       "investigative_direction": "Obtain the hearing video, the July 2025 DOJ memo and Bondi's earlier statements.",
       "transcript_snippet": "You said the list was on your desk, and a memo came out and said that there was no list.",
       "mentions_person_refs": [
-        "N-568",
+        "N-567",
         "N-85"
       ]
     },
@@ -3922,7 +3922,7 @@
         "C-6650"
       ],
       "mentions_person_refs": [
-        "N-568",
+        "N-567",
         "N-5"
       ]
     },
@@ -3945,7 +3945,7 @@
       "investigative_direction": "Check Bureau of Prisons transfer records and the Maxwell interview transcript date.",
       "transcript_snippet": "They sent the Deputy Attorney General to meet with Maxwell. She said something favorable about the president. Miraculously, she gets transferred to a minimum security facility.",
       "mentions_person_refs": [
-        "N-568",
+        "N-567",
         "N-47"
       ]
     },
@@ -3968,8 +3968,8 @@
       "investigative_direction": "Identify the members who described the Situation Room meeting and their on-record accounts.",
       "transcript_snippet": "Trying to stop the necessary 218 signatures, according to Republican members that signed it, the White House brought them into the situation room.",
       "mentions_person_refs": [
-        "N-568",
-        "N-582"
+        "N-567",
+        "N-580"
       ]
     },
     {
@@ -3991,7 +3991,7 @@
       "investigative_direction": "Check the vote tallies for the Epstein Files Transparency Act in each chamber.",
       "transcript_snippet": "The reason the president signed it is because it was a veto-proof majority.",
       "mentions_person_refs": [
-        "N-568",
+        "N-567",
         "N-5"
       ]
     },
@@ -4014,7 +4014,7 @@
       "investigative_direction": "Pull Patel's letter and sworn statement to Sen. Kennedy.",
       "transcript_snippet": "Kash Patel under oath said sent to Senator Kennedy, \"The FBI is not in possession of any credible evidence that Epstein trafficked girls to anyone but himself.\"",
       "mentions_person_refs": [
-        "N-568",
+        "N-567",
         "N-69"
       ]
     },
@@ -4037,7 +4037,7 @@
       "investigative_direction": "Cite the specific released documents for each element.",
       "transcript_snippet": "He even had a relationship with a summer camp where he groomed girls at a picnic table.",
       "mentions_person_refs": [
-        "N-568",
+        "N-567",
         "N-9"
       ]
     },
@@ -4060,7 +4060,7 @@
       "investigative_direction": "Identify the source for Maxwell's claim and any DOJ confirmation.",
       "transcript_snippet": "Ghislaine Maxwell says 29 Epstein associates cut secret DOJ deals.",
       "mentions_person_refs": [
-        "N-568",
+        "N-567",
         "N-47"
       ]
     },
@@ -4083,7 +4083,7 @@
       "investigative_direction": "Check the redaction logs and Maxwell's Oversight appearance for the clemency statement.",
       "transcript_snippet": "Turns out there is a list. Six names readily available if you unredact them.",
       "mentions_person_refs": [
-        "N-568",
+        "N-567",
         "N-47"
       ]
     },
@@ -4106,7 +4106,7 @@
       "investigative_direction": "Count occurrences of the president's name in the released files and compare with Patel's testimony.",
       "transcript_snippet": "Kash Patel under oath said Trump's name appears less than 100 times in the files. We now know that's not true.",
       "mentions_person_refs": [
-        "N-568",
+        "N-567",
         "N-69",
         "N-5"
       ]
@@ -4130,8 +4130,8 @@
       "investigative_direction": "Find Lutnick's own account of the 2008 visit and compare.",
       "transcript_snippet": "Lutnick says that in 2008 he went to Epstein's home. Says he had a massage table in the living room.",
       "mentions_person_refs": [
-        "N-568",
-        "N-166"
+        "N-567",
+        "N-165"
       ]
     },
     {
@@ -4153,8 +4153,8 @@
       "investigative_direction": "Identify the source document or interview for the quote and the speaker.",
       "transcript_snippet": "Howard then says, \"I'm sure the Epstein stuff is all on video. He was the greatest blackmailer of all time.\"",
       "mentions_person_refs": [
-        "N-568",
-        "N-166"
+        "N-567",
+        "N-165"
       ]
     },
     {
@@ -4176,8 +4176,8 @@
       "investigative_direction": "Find the document placing the Lutnick family on the island in 2012.",
       "transcript_snippet": "in 2012 we find out that he and his family are on Epstein Island after after after Epstein pled guilty to state charges.",
       "mentions_person_refs": [
-        "N-568",
-        "N-166",
+        "N-567",
+        "N-165",
         "N-9"
       ]
     },
@@ -4200,7 +4200,7 @@
       "investigative_direction": "Retrieve the club manager statements and compare with the president's account.",
       "transcript_snippet": "There are documents in the files that dispute the president's claim that he kicked Epstein out of his club.",
       "mentions_person_refs": [
-        "N-568",
+        "N-567",
         "N-5",
         "N-9"
       ]
@@ -4225,7 +4225,7 @@
       "transcript_snippet": "So, first of all, nothing is funny about mocking the Bible and holding up a Trump Bible. That's what you did. You made a joke, and I find it offensive.",
       "mentions_person_refs": [
         "N-85",
-        "N-568"
+        "N-567"
       ]
     },
     {
@@ -4251,7 +4251,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-568",
+        "N-567",
         "N-85"
       ]
     },
@@ -4275,7 +4275,7 @@
       "transcript_snippet": "And none of them None of them asked Merrick Garland over the last 4 years one word about Jeffrey Epstein.",
       "mentions_person_refs": [
         "N-85",
-        "N-859",
+        "N-856",
         "N-9"
       ]
     },
@@ -4464,7 +4464,7 @@
       "transcript_snippet": "You also recall that he was the person who after the Nashville shooting magically got information and got the notebook and that was another trans shooting.",
       "mentions_person_refs": [
         "N-3",
-        "N-260"
+        "N-259"
       ]
     },
     {
@@ -4488,7 +4488,7 @@
       "transcript_snippet": "I think he knew he was shov- shoveling out fed slop.",
       "mentions_person_refs": [
         "N-3",
-        "N-260"
+        "N-259"
       ]
     },
     {

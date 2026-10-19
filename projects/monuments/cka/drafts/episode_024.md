@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: b16f4980388370185d291129aae2198b32071168c9d782f7764725d6e49bf14e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-839, N-840, N-841, N-842, N-843, N-11223, N-11224, N-11225
-  - Hole-minted Nodes (reintro-ep024): N-221, N-223, N-10236, N-10336, N-10337
-  - Tip-minted Nodes (reintro-ep024): N-707, N-10917, N-11092, N-11107
+  - Tip-minted Nodes (supplement_2026-10d): N-836, N-837, N-838, N-839, N-840, N-11223, N-11224, N-11225
+  - Hole-minted Nodes (reintro-ep024): N-220, N-222, N-10236, N-10336, N-10337
+  - Tip-minted Nodes (reintro-ep024): N-705, N-10917, N-11092, N-11107
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9447–C-9512
-  - New Nodes Introduced: N-211, N-212, N-213, N-215, N-216, N-217, N-10216, N-10217
-  - Reused Nodes Appearing: N-15, N-17, N-46, N-50, N-82, N-99, N-155, N-156, N-191, N-10006, N-10025, N-10033, N-10047, N-10077, N-10083, N-10104, N-10139, N-10148, N-10164, N-10167, N-10202, N-10206, N-10406, N-11099, N-378, N-712, N-10543, N-269
+  - New Nodes Introduced: N-210, N-211, N-212, N-214, N-215, N-216, N-10216, N-10217
+  - Reused Nodes Appearing: N-15, N-17, N-46, N-50, N-82, N-99, N-154, N-155, N-190, N-10006, N-10025, N-10033, N-10047, N-10077, N-10083, N-10104, N-10139, N-10148, N-10164, N-10167, N-10202, N-10206, N-10406, N-11099, N-377, N-710, N-10543, N-268
   - Tip-minted Nodes (wave2): N-10894, N-10895
   - (see registers), N-11
 
@@ -35,7 +35,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1313, A-1314, A-1315, A-1316, A-1317, A-1318, A-1319, A-1320
   - Claim Range: C-1568 – C-1583
-  - New Nodes Introduced (people): N-211, N-212, N-213, N-215, N-216, N-217
+  - New Nodes Introduced (people): N-210, N-211, N-212, N-214, N-215, N-216
   - New Nodes Introduced (entities): N-10216, N-10217
   - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, Ben Shapiro, Tucker Carlson, Lindsey Graham, Randy Fine, Nick Fuentes, Rob McCoy, Mikey McCoy/McColgan, Justin Streiff, Adam Lanza, Thomas Matthew Crooks, AIPAC
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:21:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1575, N-10895, N-10894, N-211, N-2, N-10216*
+*Related: C-1575, N-10895, N-10894, N-210, N-2, N-10216*
 
 **A-1317.2** Andrew Kolvet X Reply Denying Knowledge of Award
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:23:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1577, N-211, N-10895, N-10216*
+*Related: C-1577, N-210, N-10895, N-10216*
 
 **A-1318** Erika Kirk Jesse Watters Interview Preview Bundle
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:30:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1578, N-2 Erika Kirk, N-212 Jesse Watters, N-10217*
+*Related: C-1578, N-2 Erika Kirk, N-211 Jesse Watters, N-10217*
 
 **A-1319** Kash Patel X Defense Tweet Bundle
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:37:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1579, N-69 Kash Patel, N-213 Alexis Wilkins*
+*Related: C-1579, N-69 Kash Patel, N-212 Alexis Wilkins*
 
 **A-1320** YouTube Comments Bundle
 
@@ -323,7 +323,7 @@ Confidence Level: Low
 # Node Register
 
 
-**N-211** Michael Starr
+**N-210** Michael Starr
 
 Journalist for the Jerusalem Post named as the writer of the article claiming Erika Kirk would accept a posthumous Pillars of Jerusalem Award on Charlie Kirk's behalf; later acknowledged on X that the Israeli government press office "wavered" on the claim.
 
@@ -345,7 +345,7 @@ Investigative Pressure: Medium
 
 *Related: A-1317.2, C-1576, N-2, N-10216*
 
-**N-212** Jesse Watters
+**N-211** Jesse Watters
 
 Host of the Fox News interview with Erika Kirk that is teased as upcoming at episode time. (Name preserved as transcript renders it.)
 
@@ -356,7 +356,7 @@ Investigative Pressure: Low
 
 *Related: A-1318.1, C-1578, N-2*
 
-**N-213** Alexis Wilkins
+**N-212** Alexis Wilkins
 
 Country music artist; the girlfriend whom Kash Patel publicly defended on X in the tweet read in this episode.
 
@@ -376,9 +376,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1319.1, C-1579, N-213*
+*Related: A-1319.1, C-1579, N-212*
 
-**N-164** Matt Walsh
+**N-163** Matt Walsh
 
 Daily Wire personality referenced (hearsay) by the host as the subject of an outreach to host Charlie Kirk's show after his death, conditioned on inviting Ben Shapiro.
 
@@ -389,7 +389,7 @@ Investigative Pressure: Low
 
 *Related: N-Ben Shapiro, N-1 Charlie Kirk*
 
-**N-215** Douglas Murray
+**N-214** Douglas Murray
 
 Listed by Jerusalem Post / Israeli War Room as a presenter of the reported Pillars of Jerusalem Award.
 
@@ -400,7 +400,7 @@ Investigative Pressure: Low
 
 *Related: A-1317.1, C-1575, N-10216*
 
-**N-216** Yael Eckstein
+**N-215** Yael Eckstein
 
 Listed by Jerusalem Post / Israeli War Room as a presenter of the reported Pillars of Jerusalem Award.
 
@@ -411,7 +411,7 @@ Investigative Pressure: Low
 
 *Related: A-1317.1, C-1575, N-10216*
 
-**N-217** Jürgen Bühler
+**N-216** Jürgen Bühler
 
 Listed as a presenter of the reported Pillars of Jerusalem Award (spelled "Jürgen Bühler" in Jerusalem Post reporting cited in episode).
 
@@ -434,7 +434,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1317.1, C-1575, N-211, N-10216*
+*Related: A-1317.1, C-1575, N-210, N-10216*
 
 **N-10895** Israeli War Room
 
@@ -459,7 +459,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1317.1, A-1317.2, A-1317.3, C-1575, C-1576, C-1577, N-211, N-14, N-10894, N-10895, N-2*
+*Related: A-1317.1, A-1317.2, A-1317.3, C-1575, C-1576, C-1577, N-210, N-14, N-10894, N-10895, N-2*
 
 **N-10217** TPUSA Leadership Transparency Pressure (Post-Charlie)
 
@@ -568,7 +568,7 @@ Alex Clark; the host says she lied about the Catholic matter.
 
 ---
 
-**N-155** John Mappin
+**N-154** John Mappin
 
 John Mappin; donor the host says Bowyer targeted.
 
@@ -576,7 +576,7 @@ John Mappin; donor the host says Bowyer targeted.
 
 ---
 
-**N-156** Irina Mappin
+**N-155** Irina Mappin
 
 Irina Mappin; donor the host says Bowyer targeted.
 
@@ -584,7 +584,7 @@ Irina Mappin; donor the host says Bowyer targeted.
 
 ---
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 Mikey McCoy; transcribed as McColgan and McCoy.
 
@@ -592,7 +592,7 @@ Mikey McCoy; transcribed as McColgan and McCoy.
 
 ---
 
-**N-202** Nick Fuentes
+**N-201** Nick Fuentes
 
 Nick Fuentes; subject of the interview dispute.
 
@@ -600,7 +600,7 @@ Nick Fuentes; subject of the interview dispute.
 
 ---
 
-**N-221** Milo Yiannopoulos
+**N-220** Milo Yiannopoulos
 
 Milo Yiannopoulos; his name is used as a verb for ending a career.
 
@@ -608,7 +608,7 @@ Milo Yiannopoulos; his name is used as a verb for ending a career.
 
 ---
 
-**N-223** Randy Fine
+**N-222** Randy Fine
 
 Randy Fine; congressman the host criticizes for RJC remarks.
 
@@ -616,7 +616,7 @@ Randy Fine; congressman the host criticizes for RJC remarks.
 
 ---
 
-**N-269** Joe Rogan
+**N-268** Joe Rogan
 
 Joe Rogan; host of the 2018 appearance Shapiro objected to.
 
@@ -624,7 +624,7 @@ Joe Rogan; host of the 2018 appearance Shapiro objected to.
 
 ---
 
-**N-378** Emmanuel Macron
+**N-377** Emmanuel Macron
 
 Emmanuel Macron; subject of a claim in the aired clip.
 
@@ -632,7 +632,7 @@ Emmanuel Macron; subject of a claim in the aired clip.
 
 ---
 
-**N-707** Sheldon Adelson
+**N-705** Sheldon Adelson
 
 Sheldon Adelson; founder of the gambling empire the host cites.
 
@@ -640,7 +640,7 @@ Sheldon Adelson; founder of the gambling empire the host cites.
 
 ---
 
-**N-712** Volodymyr Zelensky
+**N-710** Volodymyr Zelensky
 
 Volodymyr Zelensky; listed in the aired clip.
 
@@ -824,7 +824,7 @@ Erika Kirk Interview Campaign Talking Points; topic reused.
 
 ---
 
-**N-839** Emma Goldman
+**N-836** Emma Goldman
 
 First named by the host at 00:11:28 in episode 24. Historical anarchist the host credits with bringing feminism to America.
 
@@ -832,7 +832,7 @@ First named by the host at 00:11:28 in episode 24. Historical anarchist the host
 
 ---
 
-**N-840** Al Goldstein
+**N-837** Al Goldstein
 
 First named by the host at 00:12:45 in episode 24. Pornography publisher the host quotes on why Jews are in pornography.
 
@@ -840,7 +840,7 @@ First named by the host at 00:12:45 in episode 24. Pornography publisher the hos
 
 ---
 
-**N-841** Samuel Roth
+**N-838** Samuel Roth
 
 First named by the host at 00:12:45 in episode 24. Publisher the host says fought in court for the decision making pornography free speech.
 
@@ -848,7 +848,7 @@ First named by the host at 00:12:45 in episode 24. Publisher the host says fough
 
 ---
 
-**N-842** Magnus Hirschfeld
+**N-839** Magnus Hirschfeld
 
 First named by the host at 00:13:28 in episode 24. Sexologist the host credits as the origin of transgenderism.
 
@@ -856,7 +856,7 @@ First named by the host at 00:13:28 in episode 24. Sexologist the host credits a
 
 ---
 
-**N-843** Adam Lanza
+**N-840** Adam Lanza
 
 First named by the host at 00:45:55 in episode 24. Sandy Hook shooter the host cites in a pattern theory about standardized testing and government contact.
 
@@ -914,7 +914,7 @@ Claim Timestamp: 00:04:07
 Claim: Randy Fine stated on stage at the Republican Jewish Coalition that "Tucker Carlson is the most dangerous anti-Semite in America" and accused him of taking on the mantle of "leader of a modern-day Hitler youth."
 
 Anchored Artifacts: A-1313.2
-Mentions: N-223, N-22
+Mentions: N-222, N-22
 
 Related Nodes:
 
@@ -957,7 +957,7 @@ Claim Timestamp: 00:14:12
 Claim: Ben Shapiro stated that "Charlie believed that Nick Fuentes was vermin. That's a direct quote."
 
 Anchored Artifacts: A-1314.2
-Mentions: N-1, N-202, N-97
+Mentions: N-1, N-201, N-97
 
 
 Investigative Direction: Locate the underlying Charlie Kirk statement Ben Shapiro cites to verify the attribution and original context.
@@ -971,7 +971,7 @@ Claim Timestamp: 00:16:02
 Claim: In a clip from her 2018 Joe Rogan appearance that the host plays, Candace Owens says Ben Shapiro "gets a little like hall monitor," compares him to someone "writing you a pink slip," and calls him "a gateway to Saturday school."
 
 Anchored Artifacts: A-1315.1
-Mentions: N-3, N-97, N-269
+Mentions: N-3, N-97, N-268
 
 
 Investigative Direction: Verify by locating the full original Joe Rogan episode to confirm wording and date.
@@ -999,7 +999,7 @@ Claim Timestamp: 00:21:26
 Claim: The Israeli War Room X account posted that "Miss Erika / Mrs. Erika Kirk will accept the award on her husband's behalf" at Israel's 2025 Christian Media Summit, citing Jerusalem Post reporting by Michael Starr, with the Pillars of Jerusalem Award to be presented by Douglas Murray, Yael Eckstein, and Dr. Jürgen Bühler.
 
 Anchored Artifacts: A-1317.1
-Mentions: N-1, N-2, N-211, N-215, N-216, N-217
+Mentions: N-1, N-2, N-210, N-214, N-215, N-216
 
 Related Nodes: N-10216, N-10894, N-10895
 
@@ -1014,7 +1014,7 @@ Claim Timestamp: 00:22:13
 Claim: TPUSA spokesperson Andrew Kolvet posted on X that "this is the first we're hearing of this" regarding the reported Pillars of Jerusalem Award, and stated TPUSA had reached out to Michael Starr for a correction.
 
 Anchored Artifacts: A-1317.2
-Mentions: N-14, N-211
+Mentions: N-14, N-210
 
 Related Nodes: N-10216
 
@@ -1029,7 +1029,7 @@ Claim Timestamp: 00:23:04
 Claim: Michael Starr posted on X that "the Israeli government press office wavered on claims that Erika Kirk would be accepting [the posthumous award]" after TPUSA said it was unaware of the award and that its CEO was not scheduled to participate.
 
 Anchored Artifacts: A-1317.3
-Mentions: N-211, N-2
+Mentions: N-210, N-2
 
 Related Nodes: N-10216, N-10895
 
@@ -1044,7 +1044,7 @@ Claim Timestamp: 00:30:31
 Claim: In a preview clip of her Jesse Watters interview, Erika Kirk opposed the defense motion to ban cameras in the courtroom, stating "We deserve to have cameras in there … Let everyone see what true evil is."
 
 Anchored Artifacts: A-1318.1
-Mentions: N-2, N-212
+Mentions: N-2, N-211
 
 Related Nodes: N-10217
 
@@ -1059,7 +1059,7 @@ Claim Timestamp: 00:37:40
 Claim: Kash Patel posted an extended X message defending his girlfriend Alexis Wilkins against criticism after it emerged he flew the FBI plane to see her in Nashville, asserting she is "a true patriot" and "country music sensation."
 
 Anchored Artifacts: A-1319.1
-Mentions: N-69, N-213
+Mentions: N-69, N-212
 
 
 Investigative Direction: Verify by locating Patel's original X post, and corroborate against any reporting or inspector general review of his use of FBI aircraft for personal travel.
@@ -1132,7 +1132,7 @@ Claim: The host says Randy Fine has said essentially that Palestinians are not t
 Transcript Snippet: Randy Fine, just to be clear, he has been so disgusting in his rhetoric towards Palestinians, saying essentially that they're just not even truly humans. That even AIPAC had to drop him.
 
 Anchored Artifacts: 
-Mentions: N-223, N-3
+Mentions: N-222, N-3
 Related Nodes: N-10083
 Tags: relevance:tangential
 Investigative Direction: Locate Fine's original statements and any AIPAC statement ending its support to confirm both parts.
@@ -1164,7 +1164,7 @@ Claim: The host says the printed signs were given to young men who were instruct
 Transcript Snippet: And they instructed them to wave the posters on stage while Randy Fine, of all people, spoke.
 
 Anchored Artifacts: A-1313.3
-Mentions: N-223, N-22, N-3
+Mentions: N-222, N-22, N-3
 Related Nodes: N-10917
 Supports: C-9448
 Tags: relevance:context
@@ -1197,7 +1197,7 @@ Claim: The host says Randy Fine came out with genocidal language against Palesti
 Transcript Snippet: like Randy Fine just come right out with genocidal language against the Palestinians, uh referring to them as subhuman, laughing when he sees a dead body of a Palestinian.
 
 Anchored Artifacts: 
-Mentions: N-223, N-3
+Mentions: N-222, N-3
 Tags: relevance:tangential
 Investigative Direction: Locate Fine's posts or remarks calling Palestinians subhuman and any video of him laughing at a body.
 
@@ -1244,7 +1244,7 @@ Claim: The host says that Tucker Carlson interviewed Nick Fuentes, and that the 
 Transcript Snippet: they've now decided to besmirch Charlie's name by asserting that Tucker interviewing Nick Fuentes is a betrayal to Charlie.
 
 Anchored Artifacts: 
-Mentions: N-22, N-202, N-1, N-3
+Mentions: N-22, N-201, N-1, N-3
 Related Nodes: N-10543
 Tags: relevance:context
 Investigative Direction: Identify the specific statements asserting the Fuentes interview betrayed Kirk and their dates.
@@ -1260,7 +1260,7 @@ Claim: The host says she interviewed Nick Fuentes shortly before Charlie died, d
 Transcript Snippet: Before Charlie died, really kind of just before he died in July, I interviewed Nick Fuentes. And Charlie and I discussed the interview uh and never once did he tell me not to speak to Nick Fuentes.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-202
+Mentions: N-3, N-1, N-201
 Tags: relevance:context
 Investigative Direction: Obtain the Owens–Kirk messages about the Fuentes interview and the interview date; the transcript's "died in July" appears garbled.
 
@@ -1275,7 +1275,7 @@ Claim: The host says she separately told both Charlie and Andrew Kolvet that Cha
 Transcript Snippet: I also had a long discussion with Andrew Kolvet that separately, telling them both that Charlie should host Nick Fuentes on his show and debate him. I tried to make that happen.
 
 Anchored Artifacts: 
-Mentions: N-3, N-14, N-1, N-202
+Mentions: N-3, N-14, N-1, N-201
 Supports: C-9455
 Tags: relevance:context
 Investigative Direction: Ask Kolvet to confirm the conversation and look for related messages or scheduling attempts.
@@ -1291,7 +1291,7 @@ Claim: In the segment the host plays, Ben Shapiro says Tucker Carlson is a cowar
 Transcript Snippet: Tucker Carlson, you see, is a coward. And here is where his relationship with Nick Fuentes begins.
 
 Anchored Artifacts: A-1314.1
-Mentions: N-97, N-22, N-202
+Mentions: N-97, N-22, N-201
 Tags: relevance:context
 Investigative Direction: Review Shapiro's full segment for the exact wording and sourcing.
 
@@ -1351,7 +1351,7 @@ Claim: The clip aired in Shapiro's segment has the host listing Trudeau, Obama, 
 Transcript Snippet: Emmanuel Macron, gay and married to a trans man who molested him when he was a child.
 
 Anchored Artifacts: A-3012.1
-Mentions: N-3, N-378, N-712, N-82
+Mentions: N-3, N-377, N-710, N-82
 Tags: relevance:tangential
 Investigative Direction: Identify the original source episode; Macron legal filings and public records on the claims about Brigitte Macron.
 
@@ -1381,7 +1381,7 @@ Claim: The host says that feminism and modern psychology were brought to and fou
 Transcript Snippet: people like Emma Goldman on feminism. Sigmund Freud, the father of modern psychology.
 
 Anchored Artifacts: 
-Mentions: N-3, N-839, N-50
+Mentions: N-3, N-836, N-50
 Tags: relevance:tangential
 Investigative Direction: Historical record on Goldman's and Freud's activities; this is the host's sweeping characterization of a group's role.
 
@@ -1396,7 +1396,7 @@ Claim: The host says the gambling empire is where the Adelson empire wealth come
 Transcript Snippet: The gambling empire uh is where the Adelson empire wealth comes from. Uh as are many pharmaceuticals like the Sackler family.
 
 Anchored Artifacts: 
-Mentions: N-3, N-707
+Mentions: N-3, N-705
 Related Nodes: N-11223
 Tags: relevance:tangential
 Investigative Direction: Corporate and philanthropic records on the Adelson and Sackler fortunes.
@@ -1428,7 +1428,7 @@ Claim: The host quotes Al Goldstein as having notoriously said the only reason J
 Transcript Snippet: He's the one who notoriously said, "The only reason that Jews are in pornography is that we think Christ sucks. Catholicism sucks.
 
 Anchored Artifacts: 
-Mentions: N-3, N-840
+Mentions: N-3, N-837
 Tags: relevance:tangential
 Investigative Direction: Locate the original Al Goldstein interview or publication containing the quoted words.
 
@@ -1443,7 +1443,7 @@ Claim: The host says pornography became considered free speech because Jewish in
 Transcript Snippet: That's because Jewish individuals in America fought for that. Samuel Roth, actually.
 
 Anchored Artifacts: 
-Mentions: N-3, N-841
+Mentions: N-3, N-838
 Tags: relevance:tangential
 Investigative Direction: Court record of Roth v. United States and Roth's role in it.
 
@@ -1458,7 +1458,7 @@ Claim: The host says that if one traces where transgenderism came from, Magnus H
 Transcript Snippet: Transgenderism, go back and and try to figure out where that came from. Magnus Hirschfeld was the doctor and the sexologist.
 
 Anchored Artifacts: 
-Mentions: N-3, N-842
+Mentions: N-3, N-839
 Tags: relevance:tangential
 Investigative Direction: Historical record of Hirschfeld's work; this is the host's attribution of a modern movement to one person.
 
@@ -1488,7 +1488,7 @@ Claim: Ben Shapiro says Charlie Kirk believed Nick Fuentes was vermin because Fu
 Transcript Snippet: He believed that because Nick Fuentes dedicated his life to destroying Charlie Kirk and TPUSA from the inside.
 
 Anchored Artifacts: A-1314.2
-Mentions: N-97, N-1, N-202
+Mentions: N-97, N-1, N-201
 Tags: relevance:context
 Investigative Direction: Find the underlying Kirk statements about Fuentes that Shapiro relies on.
 
@@ -1533,7 +1533,7 @@ Claim: The host says that, according to her messages with Charlie, Ben told Char
 Transcript Snippet: specifically Ben said to Charlie that he was upset about that and that he I, Candace, was going to Milo my career if Charlie didn't get away from me.
 
 Anchored Artifacts: A-1315.1, A-3013.1
-Mentions: N-3, N-1, N-97, N-221, N-269
+Mentions: N-3, N-1, N-97, N-220, N-268
 Tags: relevance:core
 Investigative Direction: Obtain the Kirk–Owens messages that record Shapiro's conversation with Kirk.
 
@@ -1580,7 +1580,7 @@ Claim: The host says that after Charlie's death people close to him, including d
 Transcript Snippet: So the team reached out to host Matt Walsh to ask Matt Walsh rather to host Charlie Kirk's show because they wanted to keep it going.
 
 Anchored Artifacts: 
-Mentions: N-3, N-164, N-1
+Mentions: N-3, N-163, N-1
 Tags: relevance:core
 Investigative Direction: Identify who reached out to Walsh and when; ask Walsh or the Daily Wire to confirm.
 
@@ -1595,7 +1595,7 @@ Claim: The host says that those who asked Walsh were told this was not allowed u
 Transcript Snippet: And they were told that that was not allowed to happen unless Ben Shapiro was also invited.
 
 Anchored Artifacts: 
-Mentions: N-3, N-164, N-97, N-1
+Mentions: N-3, N-163, N-97, N-1
 Tags: relevance:core
 Investigative Direction: Identify who set the condition and whether Shapiro appeared on the Charlie Kirk Show afterward.
 
@@ -1657,7 +1657,7 @@ Claim: The host says she has reserved her investigation for people blatantly lyi
 Transcript Snippet: That was my reason for going after Alex Clark. She lied about the Catholic thing. That was my reason for going after Andrew Kolvet, Mikey McCoy.
 
 Anchored Artifacts: 
-Mentions: N-3, N-99, N-14, N-191, N-17
+Mentions: N-3, N-99, N-14, N-190, N-17
 Related Nodes: N-10104, N-10164
 Tags: relevance:core
 Investigative Direction: Collect the host's prior episodes on each named person and the specific statements she calls lies.
@@ -1689,7 +1689,7 @@ Claim: The host says Charlie loved Jesse Watters, that Watters gave them the mos
 Transcript Snippet: Jesse Watters gave us the most play time on Fox News back in the beginning.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-2, N-212
+Mentions: N-3, N-1, N-2, N-211
 Related Nodes: N-10006, N-11107
 Tags: relevance:context
 Investigative Direction: Fox News appearance history of Charlie Kirk and Turning Point USA.
@@ -1815,7 +1815,7 @@ Claim: The host says people do not like what they have seen about Mikey McCoy an
 Transcript Snippet: People don't like the stuff that they've seen about Mikey McCoy. They don't like what they've seen about Rob McCoy.
 
 Anchored Artifacts: 
-Mentions: N-3, N-191, N-17
+Mentions: N-3, N-190, N-17
 Related Nodes: N-10217
 Tags: relevance:core
 Investigative Direction: Identify the video of Taryl the host refers to and the McCoy materials in question.
@@ -1847,7 +1847,7 @@ Claim: The host says Tyler Bowyer was late-night tweeting at donors over the wee
 Transcript Snippet: Tyler Bowyer late-night tweeting at donors as he did over the weekend. I think he directed his fire at like John Mappin and Irina Mappin called John Mappin a loser.
 
 Anchored Artifacts: A-3014.1
-Mentions: N-3, N-11, N-155, N-156
+Mentions: N-3, N-11, N-154, N-155
 Related Nodes: N-10167
 Tags: relevance:core
 Investigative Direction: Locate Bowyer's posts from the weekend of 2025-11-01 and confirm who called John Mappin a loser.
@@ -1911,7 +1911,7 @@ Claim: The host says the Erika Kirk interview with Jesse Watters is going to pre
 Transcript Snippet: Look forward to obviously watching the interview that is going to premiere in two days on Fox News with Jesse Watters.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-212
+Mentions: N-3, N-2, N-211
 Related Nodes: N-10006, N-11107
 Tags: relevance:context
 Investigative Direction: Fox News airing schedule for the interview.
@@ -1959,7 +1959,7 @@ Claim: The host says Kash Patel, as she understands it, flew his FBI plane down 
 Transcript Snippet: I guess he flew down in his FBI plane to go see her down in Nashville.
 
 Anchored Artifacts: 
-Mentions: N-3, N-69, N-213
+Mentions: N-3, N-69, N-212
 Related Nodes: N-10202
 Tags: relevance:context
 Investigative Direction: Flight records and any FBI or inspector-general statement on Patel's travel to Nashville.
@@ -2005,7 +2005,7 @@ Claim: The host reads a fact check on Patel's post saying people are not attacki
 Transcript Snippet: People are not attacking Kash Patel's significant other, but rather reacting to his firing of people who point out his usage of government funds to travel to her shows.
 
 Anchored Artifacts: A-3015.1
-Mentions: N-69, N-213, N-3
+Mentions: N-69, N-212, N-3
 Related Nodes: N-10202
 Tags: relevance:context
 Investigative Direction: Locate the fact-check note and reporting on any firings tied to Patel's travel.
@@ -2021,7 +2021,7 @@ Claim: The host says Kash Patel has only been dating Alexis Wilkins for about a 
 Transcript Snippet: He's only been dating her by the way for like a year and a half, okay?
 
 Anchored Artifacts: 
-Mentions: N-3, N-69, N-213
+Mentions: N-3, N-69, N-212
 Tags: relevance:context
 Investigative Direction: Public reporting on when the relationship began and on Wilkins' music career.
 
@@ -2085,7 +2085,7 @@ Claim: The host says that a Connecticut shooter, whom she thinks is Adam Lanza, 
 Transcript Snippet: He somehow hacked the government system, and then the FBI showed up at his door, and then he was a part of some Yale program. I think it's Adam Lanza that I'm thinking of.
 
 Anchored Artifacts: A-1320.5
-Mentions: N-3, N-843
+Mentions: N-3, N-840
 Supports: C-1580
 Tags: relevance:tangential
 Investigative Direction: Sandy Hook investigative records (Connecticut State Attorney report) on Lanza's education and any government contact; the host herself is unsure of the name.
@@ -2133,7 +2133,7 @@ Claim: The host says Charlie believed in free speech and did not even blink when
 Transcript Snippet: Charlie believed in free speech. He didn't even blink when I hosted Nick Fuentes.
 
 Anchored Artifacts: A-1320.7
-Mentions: N-3, N-1, N-202
+Mentions: N-3, N-1, N-201
 Supports: C-9455
 Tags: relevance:core
 Investigative Direction: Obtain the Kirk–Owens messages from the period of the Fuentes interview.
@@ -2149,7 +2149,7 @@ Claim: The host says it is not cool to hold up what she calls 'like some donor-p
 Transcript Snippet: It's not cool to hold up like some donor-printed signs and do a dance in front of Randy Fine, "Tucker is not MAGA."
 
 Anchored Artifacts: A-1313.3
-Mentions: N-3, N-223, N-22
+Mentions: N-3, N-222, N-22
 Related Nodes: N-10917
 Supports: C-9448
 Tags: relevance:context

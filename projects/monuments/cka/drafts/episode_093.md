@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: a1f3c6dfa924e1a32b03c50b03b00f101fbd284665dcd6d81eb0bac4b30dbf95
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-894
-  - Hole-minted Nodes (reintro-ep093): N-349
-  - Tip-minted Nodes (reintro-ep093): N-651
+  - Tip-minted Nodes (supplement_2026-10e): N-891
+  - Hole-minted Nodes (reintro-ep093): N-348
+  - Tip-minted Nodes (reintro-ep093): N-649
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11436–C-11491
   - New Nodes Introduced: N-10616, N-10617, N-10618, N-10619, N-10622
-  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10620, N-10621, N-5, N-9, N-14, N-19, N-28, N-33, N-36, N-40, N-47, N-54, N-66, N-97, N-238, N-271, N-279, N-501, N-597, N-662, N-710, N-892, N-10000, N-10023, N-10070, N-10110, N-10237, N-10340, N-10443, N-10539, N-10574, N-10598, N-10600, N-10601, N-10602, N-10607, N-10608, N-10613, N-10646, N-10694, N-10956, N-11054, N-11128, N-11182, N-344
+  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10620, N-10621, N-5, N-9, N-14, N-19, N-28, N-33, N-36, N-40, N-47, N-54, N-66, N-97, N-237, N-270, N-278, N-500, N-595, N-660, N-708, N-889, N-10000, N-10023, N-10070, N-10110, N-10237, N-10340, N-10443, N-10539, N-10574, N-10598, N-10600, N-10601, N-10602, N-10607, N-10608, N-10613, N-10646, N-10694, N-10956, N-11054, N-11128, N-11182, N-343
   - (see registers)
 
 ## 2. Executive Summary
@@ -402,7 +402,7 @@ Video Timestamp: 00:28:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11460, N-3, N-349*
+*Related: C-11460, N-3, N-348*
 
 ---
 
@@ -415,7 +415,7 @@ Video Timestamp: 00:07:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11440, N-2, N-892*
+*Related: C-11440, N-2, N-889*
 
 ---
 
@@ -445,7 +445,7 @@ Video Timestamp: 00:48:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11482, C-11483, C-11484, C-11485, C-11486, N-271, N-1*
+*Related: C-11482, C-11483, C-11484, C-11485, C-11486, N-270, N-1*
 
 **A-3137.2** Viewer comment by James the least about Ben Shapiro, read by the host
 
@@ -677,7 +677,7 @@ Ben Shapiro; a viewer says he blamed the host for threats against Erika.
 
 ---
 
-**N-238** Glenn Beck
+**N-237** Glenn Beck
 
 Glenn Beck; commenters cited his post that Charlie was stable.
 
@@ -685,7 +685,7 @@ Glenn Beck; commenters cited his post that Charlie was stable.
 
 ---
 
-**N-271** Dan Flood
+**N-270** Dan Flood
 
 Dan Flood; the host and a viewer comment criticize his security conduct and reported raise.
 
@@ -693,7 +693,7 @@ Dan Flood; the host and a viewer comment criticize his security conduct and repo
 
 ---
 
-**N-279** Bari Weiss
+**N-278** Bari Weiss
 
 Bari Weiss; CBS News run under her carried the Secret Service report.
 
@@ -701,7 +701,7 @@ Bari Weiss; CBS News run under her carried the Secret Service report.
 
 ---
 
-**N-331** Baron Coleman
+**N-330** Baron Coleman
 
 Baron Coleman; his show supplied the Georgia timeline and the FFL finding.
 
@@ -709,7 +709,7 @@ Baron Coleman; his show supplied the Georgia timeline and the FFL finding.
 
 ---
 
-**N-342** Victor Marx
+**N-341** Victor Marx
 
 Victor Marx; the host discusses his early death post, interview, texts and interview conditions.
 
@@ -717,7 +717,7 @@ Victor Marx; the host discusses his early death post, interview, texts and inter
 
 ---
 
-**N-343** Corby Hall
+**N-342** Corby Hall
 
 Corby Hall; source of the messages and arms-sale allegations about Marx.
 
@@ -725,7 +725,7 @@ Corby Hall; source of the messages and arms-sale allegations about Marx.
 
 ---
 
-**N-344** Eileen Marx
+**N-343** Eileen Marx
 
 Eileen Marx; wife Marx wants to bring to an interview.
 
@@ -733,7 +733,7 @@ Eileen Marx; wife Marx wants to bring to an interview.
 
 ---
 
-**N-349** Amir Tsarfati
+**N-348** Amir Tsarfati
 
 Amir Tsarfati (also Sarfati); viewer tip that he heard of the shooting first.
 
@@ -741,7 +741,7 @@ Amir Tsarfati (also Sarfati); viewer tip that he heard of the shooting first.
 
 ---
 
-**N-501** Victor Ostrovsky
+**N-500** Victor Ostrovsky
 
 Victor Ostrovsky; former Mossad officer whose claims about Epstein the host relays.
 
@@ -749,7 +749,7 @@ Victor Ostrovsky; former Mossad officer whose claims about Epstein the host rela
 
 ---
 
-**N-597** Druski
+**N-595** Druski
 
 Druski; comedian whose video mocking Erika is cited as a factor in the cancellation.
 
@@ -757,7 +757,7 @@ Druski; comedian whose video mocking Erika is cited as a factor in the cancellat
 
 ---
 
-**N-651** Marco Rubio
+**N-649** Marco Rubio
 
 Marco Rubio; a commenter says donors have chosen him for 2028.
 
@@ -765,7 +765,7 @@ Marco Rubio; a commenter says donors have chosen him for 2028.
 
 ---
 
-**N-662** Ivanka Trump
+**N-660** Ivanka Trump
 
 Ivanka Trump; the host says she attended the bridal shower.
 
@@ -773,7 +773,7 @@ Ivanka Trump; the host says she attended the bridal shower.
 
 ---
 
-**N-710** John F. Kennedy
+**N-708** John F. Kennedy
 
 John F. Kennedy; the host compares prosecution tactics to those after his killing.
 
@@ -957,7 +957,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-892** Bettina Anderson
+**N-889** Bettina Anderson
 
 First named by the host at 00:07:27 in episode 93 as Bettina, soon-to-be Trump, whose bridal shower Erika attended.
 Aliases: Bettina
@@ -966,7 +966,7 @@ Aliases: Bettina
 
 ---
 
-**N-894** Adnan Khashoggi
+**N-891** Adnan Khashoggi
 
 First named by the host at 00:39:19 in episode 93 as the arms dealer Epstein was initially brought in to deal with, per Ostrovsky.
 
@@ -1044,7 +1044,7 @@ Claim Timestamp: 00:24:00–00:25:01
 Claim: The host says, per screenshots a tipster sent, that Victor Marx posted that Charlie was "in heaven" at 1:13 PM Mountain Time, before the public confirmation.
 
 Anchored Artifacts: A-1984.1
-Mentions: N-1, N-342
+Mentions: N-1, N-341
 
 Related Nodes: N-10622
 
@@ -1059,7 +1059,7 @@ Claim Timestamp: 00:29:30–00:30:28
 Claim: The Victor Marx Group LLC, based in Colorado Springs, holds a Class 1 FFL according to public lookup websites and Baron Coleman's research.
 
 Anchored Artifacts: A-1985, A-1986
-Mentions: N-331, N-342
+Mentions: N-330, N-341
 
 Related Nodes:
 
@@ -1074,7 +1074,7 @@ Claim Timestamp: 00:31:20–00:32:44
 Claim: In an interview, Victor Marx acknowledged saying he would "whoop [Corby Hall's] ass," placing the incident at his training facility during a walk-through.
 
 Anchored Artifacts: A-1987.1
-Mentions: N-342, N-343
+Mentions: N-341, N-342
 
 Related Nodes:
 
@@ -1089,7 +1089,7 @@ Claim Timestamp: 00:33:46–00:34:57
 Claim: When asked directly, Victor Marx answered "Of course not. It's illegal" regarding trafficking rifles to Haiti, Israel, or Iran.
 
 Anchored Artifacts: A-1987.2
-Mentions: N-342
+Mentions: N-341
 
 Related Nodes:
 
@@ -1104,7 +1104,7 @@ Claim Timestamp: 00:35:00–00:38:02
 Claim: The host reads text messages attributed to Victor Marx, supplied to her by Corby, that state "The Israeli Defense Group we are connected with is ready to review the patent and possible deal" and reference a SOCOM contract for a company he is part-owner of; Corby's reply raises IDF-vs-domestic-schools concerns.
 
 Anchored Artifacts: A-1988.1, A-1988.2, A-1988.3
-Mentions: N-342, N-343
+Mentions: N-341, N-342
 
 Related Nodes: N-10618
 
@@ -1119,7 +1119,7 @@ Claim Timestamp: 00:37:17–00:38:02
 Claim: The host says she believes Corby said the messages were from sometime in April, checks with Skyler ("I want to say it was April, but don't quote me on that. It was. Okay."), and then states the conversation took place in April 2025.
 
 Anchored Artifacts: A-1988.1, A-1988.2, A-1988.3
-Mentions: N-343
+Mentions: N-342
 
 Related Nodes: N-10618
 
@@ -1221,7 +1221,7 @@ Claim Timestamp: 00:28:57–00:29:30
 Claim: The host reads a viewer comment saying they actually heard first from Amir Tsarfati; the host says she does not know if this is right and asks anyone with evidence to email it so it can be plotted on the timeline.
 
 Anchored Artifacts: A-1992
-Mentions: N-349
+Mentions: N-348
 
 Related Nodes: N-10622
 
@@ -1283,7 +1283,7 @@ Claim: The host says Victor Marx's early post announcing Charlie Kirk's death wa
 Transcript Snippet: In a post that he subsequently deleted, he left it up actually for quite a long time
 
 Anchored Artifacts: 
-Mentions: N-342, N-3, N-1
+Mentions: N-341, N-3, N-1
 Related Nodes: N-10622
 Tags: relevance:core
 Investigative Direction: Archive captures (Wayback, screenshots with timestamps) of the post and its deletion time; ask Marx when and why it was removed.
@@ -1316,7 +1316,7 @@ Claim: The host says that after watching Baron Coleman's show and receiving a ti
 Transcript Snippet: we received a tip that Erika was indeed in Georgia already
 
 Anchored Artifacts: A-1982.1
-Mentions: N-331, N-2, N-3
+Mentions: N-330, N-2, N-3
 Related Nodes: N-10616
 Supports: C-2745
 Tags: relevance:core
@@ -1349,7 +1349,7 @@ Claim: The host says Erika Kirk flew into Palm Beach on Saturday evening for Bet
 Transcript Snippet: Erika Kirk flew into Palm Beach because she was attending Bettina's bridal shower which took place on Sunday.
 
 Anchored Artifacts: A-3135.1
-Mentions: N-2, N-892, N-33, N-662
+Mentions: N-2, N-889, N-33, N-660
 Related Nodes: N-10616
 Tags: relevance:context
 Investigative Direction: Obtain the photos and event coverage of the shower and flight records for the Saturday arrival into Palm Beach.
@@ -1415,7 +1415,7 @@ Claim: The host says she agrees with Baron Coleman that Erika was in the buildin
 Transcript Snippet: I am with Baron on this. She was in the building and she was backstage where people could not see her.
 
 Anchored Artifacts: 
-Mentions: N-331, N-14, N-2, N-4
+Mentions: N-330, N-14, N-2, N-4
 Related Nodes: N-10616
 Supports: C-2745
 Tags: relevance:core
@@ -1531,7 +1531,7 @@ Claim: The host reads a Daily Mail article in which a close confidant says Erika
 Transcript Snippet: The Druski video showed her what people thought of her. She's really hurt that people are feeling this way about her, that they're mocking her.
 
 Anchored Artifacts: A-1991.1
-Mentions: N-597, N-2, N-3, N-1
+Mentions: N-595, N-2, N-3, N-1
 Related Nodes: N-10070, N-10616
 Tags: relevance:core
 Investigative Direction: Obtain the Daily Mail article and identify the confidant; confirm the date and content of the Druski video.
@@ -1580,7 +1580,7 @@ Claim: The host says Victor Marx also made a video announcing Charlie had died, 
 Transcript Snippet: And he did a video, and he announced that Charlie had died, and people in the comments were like, "But Glenn Beck posted he's stable.
 
 Anchored Artifacts: A-1984.1
-Mentions: N-342, N-238, N-1
+Mentions: N-341, N-237, N-1
 Related Nodes: N-10622
 Supports: C-2748
 Tags: relevance:core
@@ -1597,7 +1597,7 @@ Claim: The host says the person who sent the Marx post to her team sent it in Ea
 Transcript Snippet: the person who sent this to us, they sent it to us in Eastern Standard Time. Fortunately, they had it screenshots, their buddy sent it to them
 
 Anchored Artifacts: A-1984.1
-Mentions: N-342, N-3
+Mentions: N-341, N-3
 Related Nodes: N-10622
 Tags: relevance:core
 Investigative Direction: Obtain the original screenshots with metadata and confirm the timezone conversion to 1:13 p.m. Mountain.
@@ -1613,7 +1613,7 @@ Claim: The host says Victor Marx announced Charlie's death less than an hour, ab
 Transcript Snippet: That's just 50 minutes after Charlie was shot. Who told him?
 
 Anchored Artifacts: A-1984.1
-Mentions: N-342, N-1
+Mentions: N-341, N-1
 Related Nodes: N-10622
 Supports: C-2748
 Tags: relevance:core
@@ -1630,7 +1630,7 @@ Claim: The host says the public did not officially learn of Charlie's death unti
 Transcript Snippet: So, the public didn't officially find out until President Trump announced it um at 2:40 p. m. on X.
 
 Anchored Artifacts: A-1984.1
-Mentions: N-342, N-5, N-1
+Mentions: N-341, N-5, N-1
 Related Nodes: N-10622
 Supports: C-2748
 Tags: relevance:core
@@ -1647,7 +1647,7 @@ Claim: The host says that, like Marx, Bibi Netanyahu knew a little too soon that
 Transcript Snippet: it's kind of like how Bebe knew a little too soon that he had been shot, commented too soon just before the President of the United States
 
 Anchored Artifacts: 
-Mentions: N-36, N-1, N-342, N-5
+Mentions: N-36, N-1, N-341, N-5
 Related Nodes: N-10622
 Tags: relevance:core
 Investigative Direction: Retrieve the time of Netanyahu's statement or post about the shooting and compare it with the first official US confirmation.
@@ -1663,7 +1663,7 @@ Claim: The host says 1:13 p.m. should be when Erika found out, after she got off
 Transcript Snippet: That should be when Erika found out, when she got off the phone with the doctor about.
 
 Anchored Artifacts: A-1984.1
-Mentions: N-2, N-342
+Mentions: N-2, N-341
 Related Nodes: N-10622
 Tags: relevance:core
 Investigative Direction: Obtain Erika's call logs and the hospital timeline for when she was told, and compare against the Marx post time.
@@ -1679,7 +1679,7 @@ Claim: The host says a viewer comment claims they heard first from Amir Tsarfati
 Transcript Snippet: but if it is, please do send us an email to more tips@candaceowens. com.
 
 Anchored Artifacts: A-3134.1
-Mentions: N-349, N-3
+Mentions: N-348, N-3
 Related Nodes: N-10622
 Supports: C-2760
 Tags: relevance:core
@@ -1696,7 +1696,7 @@ Claim: The host says Amir Tsarfati (or Sarfati) is very involved with churches a
 Transcript Snippet: That would be interesting cuz I think he is in the IDF.
 
 Anchored Artifacts: A-1992
-Mentions: N-349, N-3
+Mentions: N-348, N-3
 Related Nodes: N-10622
 Supports: C-2760
 Tags: relevance:core
@@ -1713,7 +1713,7 @@ Claim: The host says Victor Marx still has not answered her messages even though
 Transcript Snippet: Victor Marx still has not answered my messages, by the way, despite doing the rounds in the press almost immediately.
 
 Anchored Artifacts: 
-Mentions: N-342, N-3
+Mentions: N-341, N-3
 Related Nodes: N-10613
 Supports: C-2736
 Tags: relevance:core
@@ -1730,7 +1730,7 @@ Claim: The host says Marx claims to be willing to sit down with her but wants to
 Transcript Snippet: one of the conditions is that he wants to be able to bring his wife, Eileen, but he does not want Corby Hall to be present
 
 Anchored Artifacts: 
-Mentions: N-342, N-344, N-343, N-3
+Mentions: N-341, N-343, N-342, N-3
 Related Nodes: N-10613
 Supports: C-2735
 Tags: relevance:core
@@ -1747,7 +1747,7 @@ Claim: In the interview clip, Victor Marx says Corby Hall was super depressed, t
 Transcript Snippet: I ended up taking him into the training center and teaching him how to punch
 
 Anchored Artifacts: A-1987.1
-Mentions: N-342, N-343
+Mentions: N-341, N-342
 Related Nodes: N-10613
 Supports: C-2750
 Tags: relevance:core
@@ -1764,7 +1764,7 @@ Claim: The host says Corby Hall asserted that Victor Marx wanted guns sold in Is
 Transcript Snippet: Corby asserted that Victor Marx wanted guns sold in Israel.
 
 Anchored Artifacts: 
-Mentions: N-343, N-342
+Mentions: N-342, N-341
 Related Nodes: N-10601
 Tags: relevance:core
 Investigative Direction: Obtain Corby Hall's full account and any documents showing the Israel sale request.
@@ -1780,7 +1780,7 @@ Claim: The host says Corby Hall asserted that the Haitian arms deal would have b
 Transcript Snippet: He asserted that the Haitian arms deal would have been illegal since you are not allowed to do those sorts of transactions with Haiti.
 
 Anchored Artifacts: 
-Mentions: N-343, N-342
+Mentions: N-342, N-341
 Related Nodes: N-10602
 Tags: relevance:core
 Investigative Direction: Obtain Corby Hall's account and any written exchange about Haiti; ask federal export-control authorities whether any inquiry exists.
@@ -1796,7 +1796,7 @@ Claim: In the message the host reads, Victor Marx tells Corby he does not know a
 Transcript Snippet: I think the state of Colorado might want to know all of who you are.
 
 Anchored Artifacts: A-1988.1
-Mentions: N-342, N-343
+Mentions: N-341, N-342
 Related Nodes: N-10618
 Supports: C-2752
 Tags: relevance:core
@@ -1813,7 +1813,7 @@ Claim: In the message the host reads, Marx replies that Corby will not be sendin
 Transcript Snippet: You won't be sending 1,000 units to anyone in the IDF. You will get a paycheck for the patent and possibly your company and then on to your next adventure.
 
 Anchored Artifacts: A-1988.3
-Mentions: N-342, N-343
+Mentions: N-341, N-342
 Related Nodes: N-10618, N-10600
 Supports: C-2752
 Tags: relevance:core
@@ -1830,7 +1830,7 @@ Claim: The host says she wants to ask Marx how he knew, before anybody else and 
 Transcript Snippet: How he knew, initially, before anybody else, virtually at the same time as Erika Kirk, that Charlie Kirk had died.
 
 Anchored Artifacts: A-1984.1
-Mentions: N-342, N-2, N-1
+Mentions: N-341, N-2, N-1
 Related Nodes: N-10622
 Supports: C-2748
 Tags: relevance:core
@@ -1847,7 +1847,7 @@ Claim: The host says that if Marx will not agree to sit with Corby Hall she is h
 Transcript Snippet: Otherwise, I am happy to have just Victor on my show alone one-on-one.
 
 Anchored Artifacts: 
-Mentions: N-342, N-343, N-344, N-3
+Mentions: N-341, N-342, N-343, N-3
 Related Nodes: N-10613
 Supports: C-2735
 Tags: relevance:core
@@ -1880,7 +1880,7 @@ Claim: The host says Victor Ostrovsky said the same thing, that Epstein was init
 Transcript Snippet: He was initially brought in regarding the Iran-Contra deal in the '80s.
 
 Anchored Artifacts: 
-Mentions: N-501, N-9, N-894
+Mentions: N-500, N-9, N-891
 Related Nodes: N-10023
 Supports: C-8207
 Tags: relevance:context
@@ -2013,7 +2013,7 @@ Claim: The host says the government wants to bring back old FBI tactics first pu
 Transcript Snippet: They want to bring back old FBI tactics that were first put in place after JFK was shot because they lied about that as well.
 
 Anchored Artifacts: A-1990
-Mentions: N-710, N-3
+Mentions: N-708, N-3
 Related Nodes: N-10620
 Tags: relevance:core
 Investigative Direction: Identify which comparison techniques the host means and any published validation or challenges to them.
@@ -2045,7 +2045,7 @@ Claim: The host says that, as she is told by her sources, Dan Flood did not even
 Transcript Snippet: after he failed um to protect Charlie, didn't even as I am told from our sources, did not even do a walk-through.
 
 Anchored Artifacts: A-3137.1
-Mentions: N-271, N-1
+Mentions: N-270, N-1
 Related Nodes: N-10694
 Supports: C-5034
 Tags: relevance:core
@@ -2062,7 +2062,7 @@ Claim: The host says that in the lead-up to the event, all Dan Flood cared about
 Transcript Snippet: All he cared about in the lead-up to that was ensuring that they had a clean exit behind Charlie.
 
 Anchored Artifacts: A-3137.1
-Mentions: N-271, N-1
+Mentions: N-270, N-1
 Related Nodes: N-10694
 Supports: C-5035
 Tags: relevance:core
@@ -2095,7 +2095,7 @@ Claim: The host, answering a top viewer comment, says Dan Flood was receiving Ch
 Transcript Snippet: They were receiving his messages. Dan Flood was receiving his messages
 
 Anchored Artifacts: A-3137.1
-Mentions: N-271, N-1
+Mentions: N-270, N-1
 Related Nodes: N-10340
 Supports: C-5550
 Tags: relevance:core
@@ -2112,7 +2112,7 @@ Claim: The host says Dan Flood was offered a bonus and a raise by Erika after Ch
 Transcript Snippet: Dan Dan Flood gets offered a bonus and a raise from Erika.
 
 Anchored Artifacts: A-3137.1
-Mentions: N-271, N-2
+Mentions: N-270, N-2
 Related Nodes: N-10694
 Supports: C-5494
 Tags: relevance:core
@@ -2129,7 +2129,7 @@ Claim: The host says Baron Coleman said on his show that he thinks Erika cancele
 Transcript Snippet: It's actually funny cuz Baron clocked that on his show last night. He was like, I think she canceled the appearance because of Druski.
 
 Anchored Artifacts: 
-Mentions: N-331, N-597, N-2
+Mentions: N-330, N-595, N-2
 Related Nodes: N-10616
 Tags: relevance:context
 Investigative Direction: Review Coleman's broadcast and the Druski video timeline against the cancellation.

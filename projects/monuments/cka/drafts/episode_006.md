@@ -15,7 +15,7 @@
 - **Transcript SHA-256**: cbb9e2999e01f3fb5d31c3a20cfcda260ac22c9115d386f6ca88119e0d45131e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-934, N-11367, N-11368
+  - Tip-minted Nodes (supplement_2026-10g): N-931, N-11367, N-11368
   - Hole-minted Nodes (reintro-ep006): N-10083, N-10085, N-10119, N-10385
   - Tip-minted Nodes (reintro-ep006): N-11084, N-11096, N-11103, N-11256
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -674,7 +674,7 @@ Host's recurring thesis that Israeli actors direct US media and speech-law effor
 
 ---
 
-**N-934** Kyrie Irving
+**N-931** Kyrie Irving
 
 First named by the host at 00:42:58 in episode 6. Basketball player the host says was shaken down to donate after he said something she did not like.
 
@@ -2047,7 +2047,7 @@ Claim: The host says the donation demand is a shakedown like what was done to Ky
 Transcript Snippet: What? That's that's that's a shakedown. That's what they did to Kyrie Irving. I don't like what you said.
 
 Anchored Artifacts: 
-Mentions: N-3, N-87, N-934
+Mentions: N-3, N-87, N-931
 Related Nodes: N-10119
 Tags: relevance:tangential
 Investigative Direction: Check public reporting on the 2022 Kyrie Irving suspension and the donation he was asked to make.

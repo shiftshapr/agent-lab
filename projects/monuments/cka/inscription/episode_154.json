@@ -229,7 +229,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-160"
+            "N-159"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -247,7 +247,7 @@
             "C-3505"
           ],
           "related_nodes": [
-            "N-160"
+            "N-159"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -275,7 +275,7 @@
           "related_nodes": [
             "N-1",
             "N-22",
-            "N-160",
+            "N-159",
             "N-10845"
           ],
           "tags": [],
@@ -651,7 +651,7 @@
             "C-11851"
           ],
           "related_nodes": [
-            "N-331",
+            "N-330",
             "N-3",
             "N-11313"
           ],
@@ -741,8 +741,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Existing; subject of Politico profile and Tucker Carlson criticism.",
@@ -920,7 +920,7 @@
       "related_nodes": [
         "N-1",
         "N-22",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -1095,8 +1095,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Baron Coleman; the host says he will take over her show while she is on leave.",
@@ -1112,8 +1112,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Jeff Long",
       "type": "person",
       "description": "Utah Valley University police chief; quoted in the ABC article on attendance and officer numbers.",
@@ -1163,8 +1163,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-594",
-      "ref": "N-594",
+      "@id": "N-592",
+      "ref": "N-592",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Pete Hegseth; named in the host's sarcastic list of TPUSA 2.0 connections (transcribed \"Hegsmith\").",
@@ -1180,8 +1180,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-734",
-      "ref": "N-734",
+      "@id": "N-732",
+      "ref": "N-732",
       "name": "Stew Peters",
       "type": "person",
       "description": "Stew Peters; the host says Blake Neff worked for him before the Charlie Kirk show job.",
@@ -1197,8 +1197,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-590",
-      "ref": "N-590",
+      "@id": "N-588",
+      "ref": "N-588",
       "name": "Matt Tardio",
       "type": "person",
       "description": "Matt Tardio; the host says TPUSA welcomes him despite his conduct near ICE facilities.",
@@ -1739,7 +1739,7 @@
       "investigative_direction": "Obtain full Politico article and publication date.",
       "mentions_person_refs": [
         "N-1",
-        "N-160",
+        "N-159",
         "N-22"
       ]
     },
@@ -1757,7 +1757,7 @@
       "claim_timestamp": "00:47:48",
       "investigative_direction": "Verify direct attribution of the \"maximalist\" phrase to Ward vs Neff.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-22"
       ]
     },
@@ -1778,7 +1778,7 @@
       "investigative_direction": "Identify the original Tucker Carlson platform/episode where this criticism aired; verify whether Carlson explicitly named Neff.",
       "mentions_person_refs": [
         "N-22",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -1797,7 +1797,7 @@
       "claim_timestamp": "00:49:42",
       "investigative_direction": "Confirm full quote and attribution context in Politico article.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-22"
       ]
     },
@@ -2072,7 +2072,7 @@
       "investigative_direction": "Obtain the UVU police staffing plan and the press conference recording.",
       "transcript_snippet": "noting that they had six officers working at the event and Kirk had his own security team.",
       "mentions_person_refs": [
-        "N-272",
+        "N-271",
         "N-1",
         "N-3"
       ]
@@ -2570,7 +2570,7 @@
       "transcript_snippet": "We know Kash Patel. We know Pete Hegsmith. We got We got the Exec office on speed dial.",
       "mentions_person_refs": [
         "N-69",
-        "N-594",
+        "N-592",
         "N-3"
       ]
     },
@@ -2800,7 +2800,7 @@
       "transcript_snippet": "Tucker Carlson had a heart and makes a phone call to help Blake Neff get this job",
       "mentions_person_refs": [
         "N-22",
-        "N-160",
+        "N-159",
         "N-1",
         "N-3"
       ]
@@ -2822,8 +2822,8 @@
       "investigative_direction": "Check Neff's employment history between leaving Fox and joining TPUSA.",
       "transcript_snippet": "He was actually working for Stew Peters and he calls in effectively a favor to get him this job with Charlie Kirk.",
       "mentions_person_refs": [
-        "N-160",
-        "N-734",
+        "N-159",
+        "N-732",
         "N-1"
       ]
     },
@@ -2844,7 +2844,7 @@
       "investigative_direction": "Check contemporaneous reporting on the Neff scandal.",
       "transcript_snippet": "Blake Knap was involved in this racism scandal for being a total creep online",
       "mentions_person_refs": [
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2866,7 +2866,7 @@
       "investigative_direction": "Obtain the Politico article and compare its headline and subtitle with the host's quotation.",
       "transcript_snippet": "Charlie Kirk's lieutenant has second thoughts.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-1"
       ]
     },
@@ -2891,7 +2891,7 @@
       "transcript_snippet": "that's not a Blake Neff quote.",
       "mentions_person_refs": [
         "N-22",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2962,7 +2962,7 @@
       ],
       "mentions_person_refs": [
         "N-22",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2985,7 +2985,7 @@
         "C-8426"
       ],
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-14",
         "N-1",
         "N-3"
@@ -3052,7 +3052,7 @@
       "investigative_direction": "Host's own announcement; confirm leave dates and fill-in schedule from the show.",
       "transcript_snippet": "They were probably so excited. Like she's gone for like eight weeks.",
       "mentions_person_refs": [
-        "N-331",
+        "N-330",
         "N-3"
       ]
     },
@@ -3158,7 +3158,7 @@
       "investigative_direction": "Identify the incident involving Tardio and ICE facilities and the TPUSA appearances referred to.",
       "transcript_snippet": "while you are chasing young women down alleys in front of ICE facilities.",
       "mentions_person_refs": [
-        "N-590",
+        "N-588",
         "N-2",
         "N-3"
       ]

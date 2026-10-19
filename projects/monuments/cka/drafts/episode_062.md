@@ -13,11 +13,11 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-11176, N-11177, N-11178, N-11179, N-11181
   - Hole-minted Nodes (reintro-ep062): N-10869
-  - Tip-minted Nodes (reintro-ep062): N-770, N-10984
+  - Tip-minted Nodes (reintro-ep062): N-768, N-10984
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8252–C-8316
-  - New Nodes Introduced: N-489, N-491, N-492, N-494, N-495, N-10438, N-10439, N-10440, N-10441, N-10442
-  - Reused Nodes Appearing: N-2, N-11, N-490, N-9, N-82, N-10000, N-10007, N-10015, N-10023, N-10026, N-10047, N-10063, N-10197, N-10209, N-10268, N-10320, N-10344, N-10398, N-10436, N-11035, N-11097, N-11080, N-11084, N-11180
+  - New Nodes Introduced: N-488, N-490, N-491, N-493, N-494, N-10438, N-10439, N-10440, N-10441, N-10442
+  - Reused Nodes Appearing: N-2, N-11, N-489, N-9, N-82, N-10000, N-10007, N-10015, N-10023, N-10026, N-10047, N-10063, N-10197, N-10209, N-10268, N-10320, N-10344, N-10398, N-10436, N-11035, N-11097, N-11080, N-11084, N-11180
   - (see registers)
 
 # Episode Analysis: Monument Ep 62
@@ -43,7 +43,7 @@ Video Timestamp: 00:07:27–00:09:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host states Jaco Booyens and Erika Kirk confirmed authenticity)
 
-*Related: C-2182, C-2183, N-2, N-489, N-10438*
+*Related: C-2182, C-2183, N-2, N-488, N-10438*
 
 ---
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:12:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host displays case on screen)
 
-*Related: C-2184, N-491, N-10438*
+*Related: C-2184, N-490, N-10438*
 
 **A-1670.2** 1999 Dismissal Without Prejudice – victim had given victim impact statement
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:12:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2185, N-491*
+*Related: C-2185, N-490*
 
 ---
 
@@ -81,7 +81,7 @@ Video Timestamp: 00:13:25–00:14:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (filing document displayed)
 
-*Related: C-2186, N-490, N-388, N-491, N-492, N-10440, N-10442*
+*Related: C-2186, N-489, N-387, N-490, N-491, N-10440, N-10442*
 
 **A-1671.2** Arizona Chinese News public notice for Desert Spirit Tek LLC (signed Dec 1, 2017; state-received Dec 6, 2017)
 
@@ -91,7 +91,7 @@ Video Timestamp: 00:16:12–00:17:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (notarized filing displayed)
 
-*Related: C-2187, N-490, N-388, N-10440*
+*Related: C-2187, N-489, N-387, N-10440*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:15:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2186, N-491, N-492, N-10442*
+*Related: C-2186, N-490, N-491, N-10442*
 
 ---
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:26:45–00:30:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played on air; recording captured by employee)
 
-*Related: C-2189, C-2190, C-2191, N-14, N-495, N-10439*
+*Related: C-2189, C-2190, C-2191, N-14, N-494, N-10439*
 
 ---
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:22:28–00:24:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-relayed first-person account)
 
-*Related: C-2192, N-14, N-494, N-10439*
+*Related: C-2192, N-14, N-493, N-10439*
 
 **A-1675.2** First-person account: Marina Minas Zoom-call incident and general counsel home visit for computer retrieval
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:32:06–00:34:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-relayed first-person account)
 
-*Related: C-2193, N-494, N-495, N-10439*
+*Related: C-2193, N-493, N-494, N-10439*
 
 ---
 
@@ -230,7 +230,7 @@ Investigative Pressure: High
 
 ---
 
-**N-489** Jaco Booyens
+**N-488** Jaco Booyens
 
 Referenced by host as confirming authenticity of A-1669.1.
 
@@ -243,7 +243,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-490** Lori Frantzve
+**N-489** Lori Frantzve
 
 Erika Kirk's mother; 20% stakeholder of record in Desert Spirit Tek LLC; co-filer of Euro Tech in Cincinnati, Ohio.
 
@@ -252,11 +252,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-2186, N-388, N-2, N-10440, N-10441*
+*Related: A-1671.1, A-1671.2, C-2186, N-387, N-2, N-10440, N-10441*
 
 ---
 
-**N-388** Larry Guinta
+**N-387** Larry Guinta
 
 Erika Kirk's stepfather; listed as stakeholder and registered agent of Desert Spirit Tek LLC.
 
@@ -265,11 +265,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-2186, N-490, N-10440*
+*Related: A-1671.1, A-1671.2, C-2186, N-489, N-10440*
 
 ---
 
-**N-491** Lyle Reams
+**N-490** Lyle Reams
 
 Self-identified (per host) as Tohono O'odham Nation member; 1998 indictee for sexual conduct with minor under 15; co-filer of Desert Spirit Tek LLC.
 
@@ -278,11 +278,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1670.1, A-1670.2, A-1671.1, A-1672.1, C-2184, C-2185, C-2186, N-492, N-10440*
+*Related: A-1670.1, A-1670.2, A-1671.1, A-1672.1, C-2184, C-2185, C-2186, N-491, N-10440*
 
 ---
 
-**N-492** Shelly Reams
+**N-491** Shelly Reams
 
 Lyle Reams's wife; co-filer of Desert Spirit Tek LLC and Generation Seven Farms.
 
@@ -291,7 +291,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1672.1, C-2186, N-491*
+*Related: A-1671.1, A-1672.1, C-2186, N-490*
 
 ---
 
@@ -308,7 +308,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-494** Marina Minas
+**N-493** Marina Minas
 
 Named by host as employee involved in Uber-driver conversation and as participant in the fake-Zoom termination setup per A-1675.2.
 
@@ -321,7 +321,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-495** "Frank" (TPUSA General Counsel)
+**N-494** "Frank" (TPUSA General Counsel)
 
 Named in termination recording A-1674.1; also referenced in A-1675.2 as general counsel who conducted home-visit termination.
 
@@ -356,7 +356,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1674.1, A-1675.1, A-1675.2, C-2189, C-2190, C-2191, C-2192, C-2193, N-2, N-14, N-494, N-495*
+*Related: A-1674.1, A-1675.1, A-1675.2, C-2189, C-2190, C-2191, C-2192, C-2193, N-2, N-14, N-493, N-494*
 
 ---
 
@@ -369,7 +369,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-2186, C-2187, N-490, N-388, N-491*
+*Related: A-1671.1, A-1671.2, C-2186, C-2187, N-489, N-387, N-490*
 
 ---
 
@@ -382,7 +382,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-490*
+*Related: N-489*
 
 ---
 
@@ -395,7 +395,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1672.1, C-2186, N-490, N-491, N-492*
+*Related: A-1671.1, A-1672.1, C-2186, N-489, N-490, N-491*
 
 ---
 
@@ -448,7 +448,7 @@ Referenced via a viewer's comparison to the host's Brigitte Macron series.
 
 ---
 
-**N-770** Michele Bachmann
+**N-768** Michele Bachmann
 
 Michele Bachmann; named in the donor text as booed at the Tampa event (the transcript spells it Michele).
 
@@ -694,7 +694,7 @@ Claim Timestamp: 00:07:27
 Claim: Host states that Jaco Booyens and Erika Kirk can confirm the text message to Charlie Kirk is real.
 
 Anchored Artifacts: A-1669.1
-Mentions: N-1, N-2, N-489
+Mentions: N-1, N-2, N-488
 
 
 Investigative Direction: Obtain on-record confirmation from Jaco Booyens and/or Erika Kirk independent of the host.
@@ -708,7 +708,7 @@ Claim Timestamp: 00:12:31
 Claim: The host says Lyle Reams was indicted in 1998 for sexual conduct with a minor under the age of 15, and that he was approximately 41 at the time.
 
 Anchored Artifacts: A-1670.1
-Mentions: N-491
+Mentions: N-490
 
 
 Investigative Direction: Pull certified court records from the relevant Arizona county (likely Pinal or Maricopa) to confirm indictment, charges, age of complainant, and disposition details.
@@ -722,7 +722,7 @@ Claim Timestamp: 00:12:31
 Claim: The host says the case against Lyle Reams made its way through the court system for approximately a year and a half, during which the young victim gave a victim impact statement, before being dismissed without prejudice in 1999.
 
 Anchored Artifacts: A-1670.2
-Mentions: N-491
+Mentions: N-490
 
 
 Investigative Direction: Verify dismissal-without-prejudice status in court records; check statute of limitations to determine whether refiling remains a legal possibility.
@@ -736,7 +736,7 @@ Claim Timestamp: 00:13:25
 Claim: Per the formation documents the host shows, in 2017 Lori Frantzve (listed as "Lorin Frantzve"), Larry Guinta, Lyle Reams, and Shelly Reams filed to open a business called Desert Spirit Tek LLC in Sacaton, Arizona, with Frantzve listed as a 20% stakeholder and Guinta as registered agent.
 
 Anchored Artifacts: A-1671.1, A-1672.1
-Mentions: N-388, N-490, N-491, N-492
+Mentions: N-387, N-489, N-490, N-491
 
 Related Nodes: N-10440, N-10442
 
@@ -751,7 +751,7 @@ Claim Timestamp: 00:16:12
 Claim: Per the filing the host shows, Larry Guinta, Lori Frantzve and their partners issued the statutory public notice for Desert Spirit Tek LLC in the Arizona Chinese News, signed December 1, 2017 and received by the state December 6, 2017.
 
 Anchored Artifacts: A-1671.2
-Mentions: N-388, N-490
+Mentions: N-387, N-489
 
 Related Nodes: N-10440
 
@@ -780,7 +780,7 @@ Claim Timestamp: 00:26:45
 Claim: In a recording the host plays, a fired TPUSA employee who says she worked 80–90 hour weeks through AmFest and after Charlie Kirk's assassination is told by general counsel "Frank" only that the organization is "going in a different direction with the team."
 
 Anchored Artifacts: A-1674.1
-Mentions: N-495, N-1
+Mentions: N-494, N-1
 
 Related Nodes: N-10439
 
@@ -795,7 +795,7 @@ Claim Timestamp: 00:27:24
 Claim: The terminated employee stated in the recorded termination meeting with general counsel "Frank" that she had worked "80, 90-hour weeks plus for AmFest" without direction or explanation upon return.
 
 Anchored Artifacts: A-1674.1
-Mentions: N-495
+Mentions: N-494
 
 Related Nodes: N-10439
 
@@ -810,7 +810,7 @@ Claim Timestamp: 00:28:48
 Claim: The terminated employee told general counsel "Frank" she had "never had one bad review from Dylan" and "never had one issue with the company."
 
 Anchored Artifacts: A-1674.1
-Mentions: N-495
+Mentions: N-494
 
 Related Nodes: N-10439
 
@@ -825,7 +825,7 @@ Claim Timestamp: 00:22:28
 Claim: The host says Andrew Kolvet brought a TPUSA employee into an office to question them about a conversation the CMO had with an Uber driver, in which the driver said his daughter knew someone at TPUSA who "maybe ... doesn't like stuff that's going on at the company."
 
 Anchored Artifacts: A-1675.1
-Mentions: N-14, N-494
+Mentions: N-14, N-493
 
 Related Nodes: N-10439
 
@@ -840,11 +840,11 @@ Claim Timestamp: 00:32:06
 Claim: The host alleges that a part-time TPUSA employee (unnamed) was put into a fake Zoom meeting, received non-stop calls from an unrecognized number, and on answering was told by the general counsel that he was outside her home, that she was fired, and to surrender her work computer (with a warning that deletions would be detected). The host names Marina Minas separately as someone involved in the firings; Minas is not the employee in this account.
 
 Anchored Artifacts: A-1675.2
-Mentions: N-494, N-495
+Mentions: N-493, N-494
 
 Related Nodes: N-10439
 
-Investigative Direction: Identify the part-time employee and obtain on-record confirmation and contemporaneous communications (texts, voicemails) of the home-visit termination; Marina Minas (N-494) is discussed in C-8304.
+Investigative Direction: Identify the part-time employee and obtain on-record confirmation and contemporaneous communications (texts, voicemails) of the home-visit termination; Marina Minas (N-493) is discussed in C-8304.
 
 ---
 
@@ -1057,7 +1057,7 @@ Claim: As read by the host, the donor's message says the TPUSA Tampa event was a
 Transcript Snippet: Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel.
 
 Anchored Artifacts: A-1669.1
-Mentions: N-770
+Mentions: N-768
 Related Nodes: N-11080, N-10438
 Tags: relevance:context
 Investigative Direction: Check video and attendee accounts of Michele Bachmann's July 2025 Tampa appearance for booing and walkouts.
@@ -1170,7 +1170,7 @@ Claim: The host says a tip about Lori Frantzve and Larry Guinta extends the colu
 Transcript Snippet: we received a very interesting tip which unfortunately means that our established column that we built on our Excel sheet
 
 Anchored Artifacts: 
-Mentions: N-3, N-490, N-388
+Mentions: N-3, N-489, N-387
 Related Nodes: N-10440
 Tags: relevance:context
 Investigative Direction: Ask the host to publish the list and the tip; verify each entry against court records.
@@ -1186,7 +1186,7 @@ Claim: The host says Larry Lawrence Guinta is Erika Kirk's stepfather and that h
 Transcript Snippet: And they have a repeat business partner, a repeat business couple Shelly and Lyle Reams meaning they form businesses with these people.
 
 Anchored Artifacts: 
-Mentions: N-490, N-388, N-491, N-492, N-2
+Mentions: N-489, N-387, N-490, N-491, N-2
 Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Search state corporation records for every entity listing Frantzve, Guinta, Lyle Reams or Shelly Reams as members or agents.
@@ -1202,7 +1202,7 @@ Claim: The host says Lyle Reams is ostensibly Native American and part of the To
 Transcript Snippet: Now Lyle Reams ostensibly is Native American a part of the and excuse me if I'm saying this wrong Tohono O'odham Nation.
 
 Anchored Artifacts: 
-Mentions: N-491
+Mentions: N-490
 Related Nodes: N-11178
 Tags: relevance:context
 Investigative Direction: Verify tribal enrollment through the Nation or through court records identifying Reems.
@@ -1218,7 +1218,7 @@ Claim: The host says the background about Lyle Reams was apparently not a bar to
 Transcript Snippet: it was apparently not a bar to entry for Lori and Larry to pursue a business with Lyle
 
 Anchored Artifacts: A-1670.1
-Mentions: N-491, N-490, N-388
+Mentions: N-490, N-489, N-387
 Related Nodes: N-10440
 Tags: relevance:context
 Investigative Direction: Ask Frantzve and Guinta whether they knew of the 1998 case when they formed the LLC.
@@ -1250,7 +1250,7 @@ Claim: The host says that in 2017, when the LLC was filed, Lori Frantzve was doi
 Transcript Snippet: Remember this is at a time when Lori is doing defense work for the Department of Justice. That's what she moved to Arizona for.
 
 Anchored Artifacts: A-1671.1
-Mentions: N-490, N-3
+Mentions: N-489, N-3
 Related Nodes: N-10984, N-11177
 Tags: relevance:core
 Investigative Direction: Verify Frantzve's employer or contractor status in 2017 and the date she moved to Arizona.
@@ -1266,7 +1266,7 @@ Claim: The host says the formation documents for Desert Spirit Tek LLC give Lori
 Transcript Snippet: Her name here is now Lorin l o r i n rather than Lori which is other business documents.
 
 Anchored Artifacts: A-1671.1
-Mentions: N-490
+Mentions: N-489
 Related Nodes: N-10440
 Tags: relevance:context
 Investigative Direction: Pull the filing from the Arizona Corporation Commission and compare the name with her other filings.
@@ -1298,7 +1298,7 @@ Claim: The host says Generation Seven Farms, owned by Lyle Reams and his wife Sh
 Transcript Snippet: which is called Generation Seven Farms. In theory it should be right next door to Lori and Larry's Spirit Tech as its address is 21 Rose and Thobi.
 
 Anchored Artifacts: A-1672.1
-Mentions: N-491, N-492, N-490, N-388
+Mentions: N-490, N-491, N-489, N-387
 Related Nodes: N-11179, N-10442
 Supports: C-2186
 Tags: relevance:core
@@ -1379,7 +1379,7 @@ Claim: The host says that when Lori Frantzve formed Euro Tech there was another 
 Transcript Snippet: back when Lori Frantzve formed Euro Tech, there was another shady character involved back in Cincinnati, Ohio.
 
 Anchored Artifacts: 
-Mentions: N-490, N-3
+Mentions: N-489, N-3
 Related Nodes: N-10441
 Tags: relevance:context
 Investigative Direction: Pull Ohio Secretary of State records for Euro Tech and identify all co-filers; the host does not name the person.
@@ -1511,7 +1511,7 @@ Claim: The host says another former employee was hauled into an office by the ge
 Transcript Snippet: gets hauled into the office by the general counsel, thinks that they are being brought in because they're going to get a raise or a bonus
 
 Anchored Artifacts: A-1674.1
-Mentions: N-495
+Mentions: N-494
 Related Nodes: N-10439
 Tags: relevance:context
 Investigative Direction: Identify the employee and confirm with them the sequence of the meeting.
@@ -1593,7 +1593,7 @@ Claim: The host says an employee called in expecting a raise was told she was fi
 Transcript Snippet: You don't get to have an explanation. Security's outside. Leave.
 
 Anchored Artifacts: A-1674.1
-Mentions: N-495
+Mentions: N-494
 Related Nodes: N-10439
 Supports: C-2189
 Tags: relevance:core
@@ -1626,7 +1626,7 @@ Claim: In the played recording, the man the employee calls Frank tells the emplo
 Transcript Snippet: And you will receive your your year-end bonus for your performance for the year.
 
 Anchored Artifacts: A-1674.1
-Mentions: N-495
+Mentions: N-494
 Related Nodes: N-10439
 Tags: relevance:context
 Investigative Direction: Obtain the employee's separation paperwork and final paycheck to confirm the bonus.
@@ -1642,7 +1642,7 @@ Claim: In the played recording, the employee asks whether she can speak with Dyl
 Transcript Snippet: So, do I get to have a conversation with Dylan? Do I get to have a talk conversation with Justin or anybody or Nope. No.
 
 Anchored Artifacts: A-1674.1
-Mentions: N-495
+Mentions: N-494
 Related Nodes: N-10439
 Tags: relevance:core
 Investigative Direction: Identify Dylan and Justin; the recording gives no surnames.
@@ -1658,7 +1658,7 @@ Claim: In the played recording, the employee tells Frank that in a past office c
 Transcript Snippet: if you don't get that job you're going to be the first I think to be screwed over
 
 Anchored Artifacts: A-1674.1
-Mentions: N-495
+Mentions: N-494
 Related Nodes: N-10439
 Tags: relevance:core
 Investigative Direction: Ask the employee what 'that whole GC situation' and the job refer to, and corroborate with others in the office.
@@ -1674,7 +1674,7 @@ Claim: In the played recording, when pressed on who made the decision, Frank say
 Transcript Snippet: I only speak for the organization.
 
 Anchored Artifacts: A-1674.1
-Mentions: N-495
+Mentions: N-494
 Related Nodes: N-10439
 Tags: relevance:context
 Investigative Direction: Identify who decided on the termination and how it was documented.
@@ -1706,7 +1706,7 @@ Claim: The host says Marina Minas is 'the Uber chick', that she appears to be in
 Transcript Snippet: Marina Minas, this is the the Uber chick.
 
 Anchored Artifacts: A-1675.1
-Mentions: N-494
+Mentions: N-493
 Related Nodes: N-10439
 Supports: C-2192
 Tags: relevance:core
@@ -1739,7 +1739,7 @@ Claim: The host says the employee was home alone with her kids, with no husband 
 Transcript Snippet: She's home with her kids alone with her kids. There's no she doesn't have her husband there, nothing.
 
 Anchored Artifacts: A-1675.2
-Mentions: N-495
+Mentions: N-494
 Related Nodes: N-10439
 Supports: C-2193
 Tags: relevance:core

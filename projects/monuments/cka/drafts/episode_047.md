@@ -12,8 +12,8 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11379, N-11380, N-11381, N-11382
-  - Hole-minted Nodes (reintro-ep047): N-433
-  - Tip-minted Nodes (reintro-ep047): N-641
+  - Hole-minted Nodes (reintro-ep047): N-432
+  - Tip-minted Nodes (reintro-ep047): N-639
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14003–C-14088
   - (see registers)
@@ -35,8 +35,8 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1539, A-1540, A-1541, A-1542, A-1543, A-1544, A-1545, A-1546, A-1547, A-1548, A-1549, A-1550, A-1551
   - Claim Range: C-1924–C-1959, C-3741
-  - New Nodes Introduced: N-329, N-331, N-332, N-333, N-334, N-335, N-336, N-337, N-338, N-339, N-340, N-341, N-10339, N-10344, N-10347, N-10348, N-10351, N-10352, N-10354, N-10356, N-10357
-  - Reused Nodes Appearing: N-330, N-10337, N-10338, N-10340, N-10342, N-10343, N-10345, N-10355, N-10898, N-10346, N-10349, N-10350, N-10353, N-10341, N-4, N-22, N-27, N-82, N-99, N-104, N-146, N-179, N-225, N-238, N-279, N-850, N-10000, N-10012, N-10018, N-10026, N-10097, N-10105, N-10110, N-10167, N-10253, N-10334, N-10358, N-10862, N-11287, N-11336, N-11337
+  - New Nodes Introduced: N-328, N-330, N-331, N-332, N-333, N-334, N-335, N-336, N-337, N-338, N-339, N-340, N-10339, N-10344, N-10347, N-10348, N-10351, N-10352, N-10354, N-10356, N-10357
+  - Reused Nodes Appearing: N-329, N-10337, N-10338, N-10340, N-10342, N-10343, N-10345, N-10355, N-10898, N-10346, N-10349, N-10350, N-10353, N-10341, N-4, N-22, N-27, N-82, N-99, N-104, N-145, N-178, N-224, N-237, N-278, N-847, N-10000, N-10012, N-10018, N-10026, N-10097, N-10105, N-10110, N-10167, N-10253, N-10334, N-10358, N-10862, N-11287, N-11336, N-11337
 
 ---, N-11
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:13:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1939, C-1940, N-218, N-10341*
+*Related: C-1939, C-1940, N-217, N-10341*
 
 ---
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:24:47–00:26:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1932, C-1933, N-160, N-10338, N-10339*
+*Related: C-1932, C-1933, N-159, N-10338, N-10339*
 
 ---
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:23:07–00:29:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1931, C-1932, C-1934, C-1935, C-1936, N-191, N-218, N-17, N-10338, N-10339*
+*Related: C-1931, C-1932, C-1934, C-1935, C-1936, N-190, N-217, N-17, N-10338, N-10339*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:49:48–00:52:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1941, C-1954, C-1956, C-1957, N-46, N-332, N-10343*
+*Related: C-1941, C-1954, C-1956, C-1957, N-46, N-331, N-10343*
 
 ---
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:45:27–00:46:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1942, C-1943, C-1944, C-1945, N-268, N-10344*
+*Related: C-1942, C-1943, C-1944, C-1945, N-267, N-10344*
 
 ---
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:53:11–00:53:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced by host, not displayed)
 
-*Related: C-1949, N-329, N-210*
+*Related: C-1949, N-328, N-209*
 
 ---
 
@@ -253,7 +253,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:01:08–01:02:32
 Confidence Level: High
 
-*Related: N-337*
+*Related: N-336*
 
 **A-1551.2** Central848 super chat: electrocution theory citing Baron Coleman video of charred hands
 
@@ -269,7 +269,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:05:19–01:07:06
 Confidence Level: High
 
-*Related: N-338*
+*Related: N-337*
 
 **A-1551.4** Mr. Bruce Lee super chat: botted chat observation
 
@@ -278,7 +278,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:07:06–01:07:49
 Confidence Level: High
 
-*Related: N-339*
+*Related: N-338*
 
 **A-1551.5** Will Wallace super chat: security-support donation
 
@@ -287,7 +287,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:07:49–01:08:42
 Confidence Level: High
 
-*Related: N-340*
+*Related: N-339*
 
 **A-1551.6** Real Base super chat: questions on Erika/feds and night-before messages
 
@@ -303,7 +303,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:10:54–01:12:01
 Confidence Level: High
 
-*Related: N-336*
+*Related: N-335*
 
 **A-1551.8** Lamp super chat: question on Qatar's role in media criticism
 
@@ -312,7 +312,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:12:01–01:13:35
 Confidence Level: High
 
-*Related: N-341*
+*Related: N-340*
 
 ---
 
@@ -327,7 +327,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14009, N-1, N-10340, N-2, N-238, N-3*
+*Related: C-14009, N-1, N-10340, N-2, N-237, N-3*
 
 ---
 
@@ -342,7 +342,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14010, N-10340, N-14, N-3, N-850*
+*Related: C-14010, N-10340, N-14, N-3, N-847*
 
 ---
 
@@ -357,7 +357,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14024, C-14025, N-10000, N-10862, N-225, N-267, N-3*
+*Related: C-14024, C-14025, N-10000, N-10862, N-224, N-266, N-3*
 
 ---
 
@@ -372,7 +372,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14039, N-10338, N-160, N-3*
+*Related: C-14039, N-10338, N-159, N-3*
 
 ---
 
@@ -400,7 +400,7 @@ Video Timestamp: 00:53:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14070, C-14071, N-641, N-11382, N-10097, N-104, N-334, N-40, N-42*
+*Related: C-14070, C-14071, N-639, N-11382, N-10097, N-104, N-333, N-40, N-42*
 
 ---
 
@@ -415,7 +415,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14077, N-11380, N-1, N-3, N-331*
+*Related: C-14077, N-11380, N-1, N-3, N-330*
 
 ---
 
@@ -430,7 +430,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14078, C-14079, C-14080, N-10352, N-3, N-331, N-4*
+*Related: C-14078, C-14079, C-14080, N-10352, N-3, N-330, N-4*
 
 ---
 
@@ -464,7 +464,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 Charlie Kirk assistant; subject of contested post-incident phone-call sequence.
 
@@ -473,11 +473,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1542.1, A-1543.1, C-1931, C-1932, C-1933, C-1934, N-218, N-17, N-10338*
+*Related: A-1542.1, A-1543.1, C-1931, C-1932, C-1933, C-1934, N-217, N-17, N-10338*
 
 ---
 
-**N-218** Elizabeth McCoy
+**N-217** Elizabeth McCoy
 
 Mikey McCoy's wife; reportedly first person called after shooting; described as having been removed from public narrative.
 
@@ -486,7 +486,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1543.1, C-1931, C-1935, C-1936, N-191, N-10339*
+*Related: A-1543.1, C-1931, C-1935, C-1936, N-190, N-10339*
 
 ---
 
@@ -503,7 +503,7 @@ Investigative Pressure: High
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Provided prior public account of Mikey McCoy's reaction and call sequence; contradicted by TPUSA call logs.
 
@@ -512,11 +512,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1542.1, A-1543.1, C-1932, C-1933, N-191, N-10338*
+*Related: A-1542.1, A-1543.1, C-1932, C-1933, N-190, N-10338*
 
 ---
 
-**N-268** Tim Pool
+**N-267** Tim Pool
 
 Made two contradictory statements about Candace's security within one week.
 
@@ -542,7 +542,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-329** Turkey Tom
+**N-328** Turkey Tom
 
 Produced video authenticating Tyler Robinson Discord chat messaging style.
 
@@ -551,7 +551,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1549.1, C-1949, N-210*
+*Related: A-1549.1, C-1949, N-209*
 
 ---
 
@@ -581,7 +581,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-330** Tulsi Gabbard
+**N-329** Tulsi Gabbard
 
 Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.
 
@@ -594,7 +594,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-210** Joe Kent
+**N-209** Joe Kent
 
 Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.
 
@@ -607,7 +607,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-331** Baron Coleman
+**N-330** Baron Coleman
 
 Produced video on Fort Huachuca and charred-hands electrocution theory.
 
@@ -646,7 +646,7 @@ Investigative Pressure: High
 
 ---
 
-**N-332** Andrew Sypher
+**N-331** Andrew Sypher
 
 Identified on Charlie Kirk Show as TPUSA head of field.
 
@@ -659,7 +659,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-333** Greg Shaffer
+**N-332** Greg Shaffer
 
 Operated Shafer Security; Charlie Kirk's initial security company employing Dan Flood and Brian Harpole.
 
@@ -685,7 +685,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-334** Viva Frei
+**N-333** Viva Frei
 
 Commentator who discussed Turkey Tom video and Tyler Robinson text-message authenticity on the show.
 
@@ -714,7 +714,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-335** Marissa
+**N-334** Marissa
 
 Named PragerU contact (per host).
 
@@ -727,7 +727,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-336** Isabella Mazzone
+**N-335** Isabella Mazzone
 
 Donor; raised Charlie Kirk Catholicism question.
 
@@ -740,7 +740,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-337** Curbster
+**N-336** Curbster
 
 Donor; prayer-support message.
 
@@ -753,7 +753,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-338** Zachary Loft
+**N-337** Zachary Loft
 
 Donor; asked about lack of livestream.
 
@@ -766,7 +766,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-339** Mr. Bruce Lee
+**N-338** Mr. Bruce Lee
 
 Donor; raised botted-chat observation.
 
@@ -779,7 +779,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-340** Will Wallace
+**N-339** Will Wallace
 
 Donor; security-support donation.
 
@@ -792,7 +792,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-341** Lamp
+**N-340** Lamp
 
 Donor; raised Qatar-role question.
 
@@ -829,7 +829,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1542.1, A-1543.1, C-1931, C-1932, C-1933, N-191, N-218, N-160*
+*Related: A-1542.1, A-1543.1, C-1931, C-1932, C-1933, N-190, N-217, N-159*
 
 ---
 
@@ -842,7 +842,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1543.1, C-1935, C-1936, N-218*
+*Related: A-1543.1, C-1935, C-1936, N-217*
 
 ---
 
@@ -894,7 +894,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1544.2, A-1547.1, A-1548.1, C-1956, C-1957, C-1958, N-332*
+*Related: A-1544.2, A-1547.1, A-1548.1, C-1956, C-1957, C-1958, N-331*
 
 ---
 
@@ -907,7 +907,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, A-1545.1, A-1545.2, C-1942, C-1943, C-1944, C-1945, N-268, N-333*
+*Related: A-1539.1, A-1545.1, A-1545.2, C-1942, C-1943, C-1944, C-1945, N-267, N-332*
 
 ---
 
@@ -985,7 +985,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, A-1551.7, C-1952, N-2, N-336*
+*Related: A-1539.1, A-1551.7, C-1952, N-2, N-335*
 
 ---
 
@@ -1011,7 +1011,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1551.2, N-331*
+*Related: A-1551.2, N-330*
 
 ---
 
@@ -1050,7 +1050,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-1951, N-69, N-330, N-210*
+*Related: A-1539.1, C-1951, N-69, N-329, N-209*
 
 ---
 
@@ -1089,7 +1089,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ---
 
-**N-641** Ryan Routh
+**N-639** Ryan Routh
 
 First named by a clip speaker at 00:53:58 in episode 47 (spelled Ryan Routh in the transcript). Named alongside Thomas Crooks in a radicalization timing theory.
 
@@ -1213,7 +1213,7 @@ Named in a clip speaker's radicalization timing theory.
 
 ---
 
-**N-146** Marjorie Taylor Greene
+**N-145** Marjorie Taylor Greene
 
 Named by the host regarding Tucker Carlson's Christmas party.
 
@@ -1221,7 +1221,7 @@ Named by the host regarding Tucker Carlson's Christmas party.
 
 ---
 
-**N-179** Jared Kushner
+**N-178** Jared Kushner
 
 Named by the host regarding Qatar deals.
 
@@ -1229,7 +1229,7 @@ Named by the host regarding Qatar deals.
 
 ---
 
-**N-225** Shawn Ryan
+**N-224** Shawn Ryan
 
 Host of the show where Brian Harpole gave an interview.
 
@@ -1237,7 +1237,7 @@ Host of the show where Brian Harpole gave an interview.
 
 ---
 
-**N-238** Glenn Beck
+**N-237** Glenn Beck
 
 Interviewer in the viral Erika Kirk clip about Charlie's phone.
 
@@ -1245,7 +1245,7 @@ Interviewer in the viral Erika Kirk clip about Charlie's phone.
 
 ---
 
-**N-262** Terryl Farnsworth
+**N-261** Terryl Farnsworth
 
 Person who took the cameras down; the host says he lied to her.
 
@@ -1253,7 +1253,7 @@ Person who took the cameras down; the host says he lied to her.
 
 ---
 
-**N-267** Brian Harpole
+**N-266** Brian Harpole
 
 Former TPUSA security figure who gave the Shawn Ryan interview.
 
@@ -1261,7 +1261,7 @@ Former TPUSA security figure who gave the Shawn Ryan interview.
 
 ---
 
-**N-271** Dan Flood
+**N-270** Dan Flood
 
 Recipient of a night-before text and subject of the message-attribution dispute.
 
@@ -1269,7 +1269,7 @@ Recipient of a night-before text and subject of the message-attribution dispute.
 
 ---
 
-**N-279** Bari Weiss
+**N-278** Bari Weiss
 
 Host of the CBS event whose questions the host says were planned.
 
@@ -1277,7 +1277,7 @@ Host of the CBS event whose questions the host says were planned.
 
 ---
 
-**N-433** Kimberly Klacik
+**N-432** Kimberly Klacik
 
 Named by the host regarding a demand she ignored.
 
@@ -1285,7 +1285,7 @@ Named by the host regarding a demand she ignored.
 
 ---
 
-**N-850** Jimmy Dore
+**N-847** Jimmy Dore
 
 Host of the show where Candace clarified her text sourcing.
 
@@ -1451,7 +1451,7 @@ Claim Timestamp: 00:06:18
 Claim: The host says a viral clip from Erika Kirk's Glenn Beck interview had Erika saying she had Charlie Kirk's phone and that Charlie never texted anybody the night before saying he thought they were going to kill him, and that in the meeting Erika said she is looking at his iMessages and that he, like everybody else, communicates on Signal and Telegram.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-3, N-2, N-1, N-238
+Mentions: N-3, N-2, N-1, N-237
 
 Related Nodes: N-10340
 
@@ -1481,7 +1481,7 @@ Claim Timestamp: 00:06:18
 Claim: The host says that in their meeting Erika Kirk and Justin Streiff clarified that the message Dan Flood received from Charlie Kirk the night before said "the left is going to kill me," which she says she cannot confirm because she did not see the message.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-3, N-2, N-15, N-271, N-1
+Mentions: N-3, N-2, N-15, N-270, N-1
 
 Related Nodes: N-10340
 
@@ -1554,7 +1554,7 @@ Claim Timestamp: 00:27:04
 Claim: The host says the call logs Turning Point USA showed her indicate that Mikey McCoy's first post-shooting call was to his wife, Elizabeth McCoy, and that he stayed on the phone with her for 10 minutes.
 
 Anchored Artifacts: A-1543.1
-Mentions: N-191, N-218
+Mentions: N-190, N-217
 
 Related Nodes: N-10338
 
@@ -1569,7 +1569,7 @@ Claim Timestamp: 00:27:12
 Claim: The host says, citing call logs shown to her, that Mikey McCoy added Erika to the call approximately 3 minutes after the shot and added his father Rob McCoy approximately 2 minutes later, remaining on the phone with his wife throughout.
 
 Anchored Artifacts: A-1543.1
-Mentions: N-2, N-17, N-191, N-218
+Mentions: N-2, N-17, N-190, N-217
 
 Related Nodes: N-10338
 
@@ -1584,7 +1584,7 @@ Claim Timestamp: 00:23:53
 Claim: The host says Mikey McCoy's real first name is Michael and that "Mikey" is not a middle-name substitute, which she says Mikey wanted the audience to know.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-191
+Mentions: N-190
 
 
 Investigative Direction: Verify against official identity records.
@@ -1598,7 +1598,7 @@ Claim Timestamp: 00:26:28
 Claim: The host says Blake Neff's interview account - that Mikey's first call after the shooting was to Erika and that Mikey then called his father - is contradicted by call logs Turning Point USA showed her.
 
 Anchored Artifacts: A-1542.1, A-1543.1
-Mentions: N-3, N-160, N-191, N-2, N-17
+Mentions: N-3, N-159, N-190, N-2, N-17
 Contradicts: C-1932
 
 Related Nodes: N-10338
@@ -1614,7 +1614,7 @@ Claim Timestamp: 00:28:48
 Claim: The host says Elizabeth McCoy was left out of what was said publicly about Mikey McCoy's call log, although she was "main stage" at the memorial, is close with Erika Kirk and went on vacation with her, and says she does not understand this disappearing act.
 
 Anchored Artifacts: A-1543.1
-Mentions: N-3, N-2, N-218, N-191
+Mentions: N-3, N-2, N-217, N-190
 
 Related Nodes: N-10339
 
@@ -1655,10 +1655,10 @@ Investigative Direction: Verify Andrew Kolvet's specific statement; clarify whet
 **C-3741** Host Says Some of the Paid Campaigns Attacking Her Are Paid by PragerU
 
 Claim Timestamp: 00:32:14
-Claim: The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and "too many" are paid by PragerU, and that she knows Marissa (N-335) there.
+Claim: The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and "too many" are paid by PragerU, and that she knows Marissa (N-334) there.
 Transcript Snippet: too many are being paid by PragerU, which is upsetting to me because I know Marissa, and it's just dirty.
 Anchored Artifacts: 
-Mentions: N-3, N-335
+Mentions: N-3, N-334
 Related Nodes: N-10131
 Confidence: medium
 Investigative Direction: Identify the named paid accounts and any PragerU or PR-firm payment records the host says she holds.
@@ -1687,7 +1687,7 @@ Claim Timestamp: 00:09:23
 Claim: The host says Turning Point USA echoed and defended Terryl Farnsworth's account that they were trying something new that day: they normally livestream tour-stop events but not outdoor "prove me wrong" events, and the new livestream required Terryl.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-3, N-262
+Mentions: N-3, N-261
 
 Related Nodes: N-10346
 
@@ -1732,7 +1732,7 @@ Claim Timestamp: 00:44:36
 Claim: Approximately one week prior, Tim Pool stated Candace Owens had no security beyond one guard and a 4-foot wall at a suburban residence.
 
 Anchored Artifacts: A-1545.1
-Mentions: N-268, N-3
+Mentions: N-267, N-3
 
 Related Nodes: N-10344
 
@@ -1747,7 +1747,7 @@ Claim Timestamp: 00:45:27
 Claim: In a clip the host plays, Tim Pool says Candace Owens has used the same security personnel and security companies as Charlie and Erika Kirk.
 
 Anchored Artifacts: A-1545.2
-Mentions: N-268, N-3, N-1, N-2
+Mentions: N-267, N-3, N-1, N-2
 
 Related Nodes: N-10344
 
@@ -1762,7 +1762,7 @@ Claim Timestamp: 00:46:28
 Claim: Candace Owens retained separate security from Charlie Kirk's from the beginning; Charlie's initial security was Shaffer Security, operated by Greg Shaffer, employing Dan Flood and Brian Harpole.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-333, N-267, N-3, N-1, N-271
+Mentions: N-332, N-266, N-3, N-1, N-270
 
 Related Nodes: N-10344
 
@@ -1837,7 +1837,7 @@ Claim Timestamp: 00:53:11
 Claim: In a clip the host plays, a speaker addressing Viva Frei points to a video by Turkey Tom in which, he says, someone authenticated as having been in the Discord chats with Tyler Robinson and his partner, and who apparently spent time with them at the apartment, said "100%" this is how they talked.
 
 Anchored Artifacts: A-1549.1
-Mentions: N-329, N-334, N-40
+Mentions: N-328, N-333, N-40
 
 
 Investigative Direction: Verify Turkey Tom's claimed Discord membership through chat logs or other participants.
@@ -1866,7 +1866,7 @@ Claim Timestamp: 00:56:14
 Claim: In a clip the host plays, a speaker says that allegedly the rumors are that Kash Patel is getting mad at Tulsi Gabbard and Joe Kent for trying to look into a potential terrorist angle to the Kirk case.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-69, N-210, N-330
+Mentions: N-69, N-209, N-329
 
 Related Nodes: N-10355
 
@@ -1911,7 +1911,7 @@ Claim Timestamp: 00:51:02
 Claim: In a clip from the Charlie Kirk Show that the host plays, a speaker identifies Andrew Sypher as TPUSA's head of field.
 
 Anchored Artifacts: A-1544.2
-Mentions: N-332
+Mentions: N-331
 
 Related Nodes: N-10343
 
@@ -2082,7 +2082,7 @@ Claim: The host says that in her Glenn Beck interview, in a portion that went vi
 Transcript Snippet: it was Erika saying that she had Charlie's phone, and that Charlie never texted anybody the night before saying that he thought that they were going to kill him.
 
 Anchored Artifacts: A-3291
-Mentions: N-2, N-238, N-1, N-3
+Mentions: N-2, N-237, N-1, N-3
 Related Nodes: N-10340
 Contradicts: C-1926
 Tags: relevance:core
@@ -2099,7 +2099,7 @@ Claim: The host says that on the Jimmy Dore show she clarified that Andrew Kolve
 Transcript Snippet: I said Andrew Kolvet told me specifically that he was one of the people that received this text message. So I got that first person. I didn't get that from a source.
 
 Anchored Artifacts: A-3292
-Mentions: N-3, N-14, N-850
+Mentions: N-3, N-14, N-847
 Related Nodes: N-10340
 Tags: relevance:core
 Investigative Direction: Retrieve the Jimmy Dore episode and compare with Kolvet's own statements on the night-before text.
@@ -2115,7 +2115,7 @@ Claim: The host says a person who had access to Dan Flood's communications told 
 Transcript Snippet: somebody who had access to Dan Flood's communications said that Dan Flood similarly received a text message.
 
 Anchored Artifacts: 
-Mentions: N-271, N-3
+Mentions: N-270, N-3
 Related Nodes: N-10340
 Tags: relevance:core
 Investigative Direction: Identify the host's source for the Flood text and obtain the original message from Flood.
@@ -2131,7 +2131,7 @@ Claim: The host says Erika Kirk told her that when she heard the host say it, TP
 Transcript Snippet: they then went and looked, and yes, that what I said was true. Uh Andrew Kolvet received a message the night before, and Dan Flood received a message the night before.
 
 Anchored Artifacts: 
-Mentions: N-2, N-14, N-271, N-3
+Mentions: N-2, N-14, N-270, N-3
 Related Nodes: N-10340
 Supports: C-1926
 Tags: relevance:core
@@ -2148,7 +2148,7 @@ Claim: The host says she cannot confirm Dan Flood's message said the left is goi
 Transcript Snippet: I can't confirm that one way or the other. I have to trust them on that because I did not see that concrete message. I was told that it said they.
 
 Anchored Artifacts: 
-Mentions: N-271, N-3
+Mentions: N-270, N-3
 Related Nodes: N-10340
 Qualifies: C-1927
 Tags: relevance:core
@@ -2165,7 +2165,7 @@ Claim: The host says Erika Kirk told her the reason she did not ask the host to 
 Transcript Snippet: it's interesting to hear Erika say that the reason she didn't ask me to stop in the beginning because she was she was actually learning things from the show.
 
 Anchored Artifacts: 
-Mentions: N-2, N-279, N-3
+Mentions: N-2, N-278, N-3
 Related Nodes: N-10349, N-11379
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk to confirm her reasons on the record; review the CBS event video around the exchange.
@@ -2181,7 +2181,7 @@ Claim: The host says Bari Weiss picked the audience questions, which were not ra
 Transcript Snippet: Bari Weiss obviously uh picked those questions. They were not random, like I told you.
 
 Anchored Artifacts: 
-Mentions: N-279, N-3
+Mentions: N-278, N-3
 Related Nodes: N-10349, N-10334
 Tags: relevance:core
 Investigative Direction: Obtain CBS production records or participant accounts on how the questions were chosen.
@@ -2197,7 +2197,7 @@ Claim: The host says Erika Kirk told her she knew the general idea that the even
 Transcript Snippet: Erika said that she knew the general idea, like they were going to mention me and mention the conspiracies.
 
 Anchored Artifacts: 
-Mentions: N-2, N-279, N-3
+Mentions: N-2, N-278, N-3
 Related Nodes: N-10349
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk and CBS what advance notice she had of the questions.
@@ -2213,7 +2213,7 @@ Claim: The host says her skin crawled after she spoke to Terryl Farnsworth, the 
 Transcript Snippet: my skin crawled after I spoke to Terryl Farnsworth, the person who took the cameras down. He lied to me several times.
 
 Anchored Artifacts: 
-Mentions: N-262, N-3
+Mentions: N-261, N-3
 Related Nodes: N-10346
 Supports: C-9302
 Tags: relevance:core
@@ -2230,7 +2230,7 @@ Claim: The host says Tyler Bowyer tweeted that Terryl Farnsworth took the camera
 Transcript Snippet: Because the police wanted him to take it down and secure the footage and I said, "I know that's not true."
 
 Anchored Artifacts: 
-Mentions: N-11, N-262, N-3
+Mentions: N-11, N-261, N-3
 Related Nodes: N-10346, N-10167
 Tags: relevance:core
 Investigative Direction: Locate Bowyer's tweet and compare its timing with video showing when the camera came down and when police arrived.
@@ -2246,7 +2246,7 @@ Claim: The host says TPUSA told her that after Farnsworth took the cameras down 
 Transcript Snippet: after he took the cameras down, there was a police officer or or fed, whoever it was to him and asked him to secure the footage.
 
 Anchored Artifacts: 
-Mentions: N-262, N-3
+Mentions: N-261, N-3
 Related Nodes: N-10346
 Tags: relevance:core
 Investigative Direction: Identify the officer or agent and obtain the chain of custody for the camera and its card.
@@ -2328,7 +2328,7 @@ Claim: The host says she believes TPUSA when it says it did not approve of Brian
 Transcript Snippet: I think we can believe Turning Point when they say that they did not approve of this. They had no idea he was going on Shawn Ryan.
 
 Anchored Artifacts: A-3293
-Mentions: N-267, N-225, N-3
+Mentions: N-266, N-224, N-3
 Related Nodes: N-10862, N-10000
 Tags: relevance:core
 Investigative Direction: Ask TPUSA and Shawn Ryan's production when and how the interview was arranged.
@@ -2344,7 +2344,7 @@ Claim: The host says she does not believe Brian Harpole works at Turning Point U
 Transcript Snippet: They had no idea he was going on Shawn Ryan. I think that's pretty clear. I don't believe he works there anymore.
 
 Anchored Artifacts: A-3293
-Mentions: N-267, N-3
+Mentions: N-266, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Confirm Harpole's current employment status with TPUSA.
@@ -2508,7 +2508,7 @@ Claim: The host says TPUSA brought Mikey McCoy's call logs and other paperwork t
 Transcript Snippet: I asked every question and they came with paperwork to show and to answer and to explain certain things.
 
 Anchored Artifacts: A-1543.1
-Mentions: N-3, N-191
+Mentions: N-3, N-190
 Related Nodes: N-10338, N-11379
 Tags: relevance:core
 Investigative Direction: Obtain the call logs and a carrier record to confirm provenance.
@@ -2524,7 +2524,7 @@ Claim: In the Blake Neff clip the host plays, Neff says Mikey McCoy immediately 
 Transcript Snippet: he immediately calls his dad. He calls Rob McCoy. And he says, Dad, someone shot Charlie. You need to call all of your pastor friends.
 
 Anchored Artifacts: A-1542.1
-Mentions: N-160, N-191, N-17
+Mentions: N-159, N-190, N-17
 Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Compare the Neff interview with the carrier records for Mikey's calls to his father.
@@ -2540,7 +2540,7 @@ Claim: The host says she feels the public was given the impression over and over
 Transcript Snippet: I certainly feel that we were given the impression over and over and over again that the first person Mikey called was Erika.
 
 Anchored Artifacts: 
-Mentions: N-191, N-2, N-3
+Mentions: N-190, N-2, N-3
 Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Collect the public statements from TPUSA figures asserting that Mikey called Erika first.
@@ -2556,7 +2556,7 @@ Claim: The host says that despite accounts that Mikey was trained so that Charli
 Transcript Snippet: Well, he didn't do that. Actually, the first person he called was his wife. He called Elizabeth McCoy.
 
 Anchored Artifacts: 
-Mentions: N-191, N-218, N-1, N-3
+Mentions: N-190, N-217, N-1, N-3
 Related Nodes: N-10338
 Supports: C-1932
 Contradicts: C-1499
@@ -2574,7 +2574,7 @@ Claim: The host says Blake Neff gave his call log, showing a 45-second call to h
 Transcript Snippet: Blake Neff called his mom. His call with his mother lasted 45 seconds. So, we're assuming it went to 12:25.
 
 Anchored Artifacts: A-3294
-Mentions: N-160, N-3
+Mentions: N-159, N-3
 Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Obtain Neff's call log and the shot time from timestamped video to fix the sequence.
@@ -2590,7 +2590,7 @@ Claim: The host says Mikey McCoy three-wayed a third person she declines to name
 Transcript Snippet: This is Danny McCoy, by the way, is his brother that's in the military, but that's before the shot goes off.
 
 Anchored Artifacts: 
-Mentions: N-191, N-3
+Mentions: N-190, N-3
 Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Identify the third caller from the call logs; the host later corrects this identification.
@@ -2606,7 +2606,7 @@ Claim: The host says the call logs show Mikey McCoy added Erika to the call afte
 Transcript Snippet: Mikey called Erika after Blake Neff ended that phone call with his mother.
 
 Anchored Artifacts: 
-Mentions: N-191, N-160, N-2, N-3
+Mentions: N-190, N-159, N-2, N-3
 Related Nodes: N-10338
 Supports: C-1935, C-1933
 Tags: relevance:core
@@ -2623,7 +2623,7 @@ Claim: The host says Mikey McCoy ended the call with his wife and a minute later
 Transcript Snippet: And then he ends the phone call with his wife and a minute later his brother calls him back and they stay on the phone for 10 minutes.
 
 Anchored Artifacts: 
-Mentions: N-191, N-218, N-3
+Mentions: N-190, N-217, N-3
 Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Check the call logs for the callback and duration.
@@ -2917,7 +2917,7 @@ Claim: In the clip, Tim Pool says people are filing legal paperwork against the 
 Transcript Snippet: there's more that's going to be coming out soon cuz rest assured, people are filing legal paperwork against her.
 
 Anchored Artifacts: A-1545.2
-Mentions: N-268, N-3
+Mentions: N-267, N-3
 Related Nodes: N-11287, N-10344
 Tags: relevance:core
 Investigative Direction: Check court dockets for any complaint against the host relating to security statements.
@@ -2950,7 +2950,7 @@ Claim: The host says that if she ignored a demand to correct her statements, as 
 Transcript Snippet: And if I ignore that, as I did with Brigitte cuz I told the truth, as I did with Kim Klacik cuz I told the truth, then you have the grounds to file something.
 
 Anchored Artifacts: 
-Mentions: N-1, N-3, N-82, N-433
+Mentions: N-1, N-3, N-82, N-432
 Related Nodes: N-10344
 Tags: relevance:context
 Investigative Direction: Identify the Macron and Klacik demand letters and their dates; compare with the host's account.
@@ -2966,7 +2966,7 @@ Claim: The host says she accurately said the Brian Harpole message that was show
 Transcript Snippet: I accurately said that the Brian Harpole message he showed belonged to Dan Flood. It did. And that they didn't do a walk-through on that day. They didn't.
 
 Anchored Artifacts: 
-Mentions: N-267, N-271, N-3
+Mentions: N-266, N-270, N-3
 Related Nodes: N-10356, N-10357
 Tags: relevance:core
 Investigative Direction: Obtain the original message metadata and any UVU security walk-through logs.
@@ -3062,7 +3062,7 @@ Claim: A speaker on the Charlie Kirk Show says that Andrew Sypher, head of field
 Transcript Snippet: Charlie sometimes throw the events out, you know, 7, 10 days in advance if something opened up in his schedule
 
 Anchored Artifacts: A-1544.2
-Mentions: N-332, N-1
+Mentions: N-331, N-1
 Related Nodes: N-10343
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's historical announcement lead times for other outdoor events.
@@ -3078,7 +3078,7 @@ Claim: A speaker in the Kirk Show clip, addressed as Viva, says that Tyler Robin
 Transcript Snippet: Tyler Robinson is getting radicalized right about the same time as Thomas Crooks, right about the same time as uh the other guy, Ryan Routh.
 
 Anchored Artifacts: A-3296
-Mentions: N-334, N-40, N-104, N-641
+Mentions: N-333, N-40, N-104, N-639
 Related Nodes: N-11382
 Tags: relevance:core
 Investigative Direction: Identify the speaker and compare the dates of the named individuals' alleged radicalization.
@@ -3094,7 +3094,7 @@ Claim: A speaker in the Kirk Show clip, addressed as Viva, offers a theory that 
 Transcript Snippet: He knows what's going down. He shows up there and thinks he's going to be some useful decoy or distraction for Tyler Robinson cuz they know what's going down.
 
 Anchored Artifacts: A-3296
-Mentions: N-334, N-42, N-40
+Mentions: N-333, N-42, N-40
 Related Nodes: N-11382, N-10097
 Tags: relevance:core
 Investigative Direction: Ask investigators whether Zin appears in any Discord records; the speaker says this is only a theory.
@@ -3143,7 +3143,7 @@ Claim: The host says Megyn Kelly, who was initially going to ref the conversatio
 Transcript Snippet: Megyn Kelly, who was initially going to, when we were going to live stream the conversation, before the Bari Weiss moment, Megyn Kelly um offered to ref that conversation.
 
 Anchored Artifacts: 
-Mentions: N-46, N-279, N-3
+Mentions: N-46, N-278, N-3
 Related Nodes: N-11379
 Tags: relevance:context
 Investigative Direction: Ask Megyn Kelly's team to confirm her role in arranging the meeting.
@@ -3159,7 +3159,7 @@ Claim: The host says her side had been trying to make the sit-down happen in the
 Transcript Snippet: We were trying to make this happen in the background uh really since Blake Neff fumbled the first invite.
 
 Anchored Artifacts: 
-Mentions: N-160, N-3
+Mentions: N-159, N-3
 Related Nodes: N-11379
 Tags: relevance:context
 Investigative Direction: Retrieve the first invitation from Neff and the host's reply.
@@ -3190,7 +3190,7 @@ Claim: The host says that Baron Coleman's electrocution video shows hands that l
 Transcript Snippet: They do look charred in the photos that he showed, but I can tell you that his hands were not charred when he was buried.
 
 Anchored Artifacts: A-3297
-Mentions: N-1, N-331, N-3
+Mentions: N-1, N-330, N-3
 Related Nodes: N-11380
 Tags: relevance:core
 Investigative Direction: Identify the source who saw the body at burial and compare with the autopsy and funeral-home accounts.
@@ -3206,7 +3206,7 @@ Claim: The host says she watched a video by Baron Coleman building on her Fort H
 Transcript Snippet: I had watched a video of his where he was building on Fort Huachuca, and he made me notice some things, then we started researching some other elements.
 
 Anchored Artifacts: A-3298
-Mentions: N-331, N-3
+Mentions: N-330, N-3
 Related Nodes: N-10352
 Tags: relevance:core
 Investigative Direction: Review Coleman's video against the host's Fort Huachuca research.
@@ -3222,7 +3222,7 @@ Claim: The host says Baron Coleman suggested in his episode, which she wants to 
 Transcript Snippet: He kind of suggests in that episode, which I want to shut down, he suggests that I think he heavily suggests that it could have been the uh the V on that on the base uh Vance on the base
 
 Anchored Artifacts: A-3298
-Mentions: N-331, N-4, N-3
+Mentions: N-330, N-4, N-3
 Related Nodes: N-10352
 Tags: relevance:core
 Investigative Direction: Watch Coleman's episode to see exactly what he said about Vance.
@@ -3238,7 +3238,7 @@ Claim: The host says she researched the Vance suggestion and found video of Vanc
 Transcript Snippet: There's actually video of Vance, so it could not have been Vance in the base.
 
 Anchored Artifacts: A-3298
-Mentions: N-4, N-331, N-3
+Mentions: N-4, N-330, N-3
 Related Nodes: N-10352
 Tags: relevance:core
 Investigative Direction: Identify the video of Vance the host relied on and match its date and location to the Fort Huachuca dates.
@@ -3254,7 +3254,7 @@ Claim: The host says the combined conversation was first meant to be live, that 
 Transcript Snippet: you saw the offer Blake Neff made, which was not a true offer, but then what came behind that was Erika communicating with Megyn Kelly and me.
 
 Anchored Artifacts: 
-Mentions: N-160, N-2, N-46, N-3
+Mentions: N-159, N-2, N-46, N-3
 Related Nodes: N-11379
 Tags: relevance:context
 Investigative Direction: Retrieve Neff's offer and the communications between Erika Kirk, Kelly and the host.
@@ -3318,7 +3318,7 @@ Claim: The host says that, to her knowledge, she did not see or speak with any T
 Transcript Snippet: To my knowledge, I did not see any Turning Point USA employees. I did not have a conversation with any Turning Point USA employees.
 
 Anchored Artifacts: 
-Mentions: N-3, N-22, N-146
+Mentions: N-3, N-22, N-145
 Related Nodes: N-11381, N-10000
 Tags: relevance:context
 Investigative Direction: Ask attendees for a guest list; the host says the rumor is unsupported.
@@ -3367,7 +3367,7 @@ Claim: The host says Jared Kushner and Zionists are allowed to go to Qatar, whic
 Transcript Snippet: I don't know why Jared Kushner and Zionists are allowed to go to Qatar, which happened recently, and do deals with them
 
 Anchored Artifacts: 
-Mentions: N-3, N-179, N-22
+Mentions: N-3, N-178, N-22
 Related Nodes: N-11336
 Tags: relevance:context
 Investigative Direction: Check reporting on Kushner's Qatar travel and deals.

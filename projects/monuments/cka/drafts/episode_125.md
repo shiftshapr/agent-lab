@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: 2d8a535e348680bde91bd9e251254cedc97656a8880bb2edfe4356e92aed4629
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-734, N-735, N-737, N-739, N-11058, N-11060
+  - Tip-minted Nodes (supplement_2026-10): N-732, N-733, N-735, N-737, N-11058, N-11060
   - Hole-minted Nodes (reintro-ep125): N-10850
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5853–C-5919
   - New Nodes Introduced: N-10716
-  - Reused Nodes Appearing: N-11, N-10715, N-5, N-7, N-9, N-17, N-22, N-27, N-36, N-37, N-40, N-97, N-155, N-156, N-191, N-218, N-265, N-331, N-438, N-530, N-10006, N-10018, N-10027, N-10074, N-10193, N-10338, N-10340, N-10342, N-10403, N-10446, N-10456, N-10528, N-10532, N-10681, N-10712, N-10730, N-10815, N-10990, N-10714, N-10748, N-736, N-11059, N-11061, N-738, N-11057
-  - Hole-minted Nodes (wave1b): N-368
-  - Hole-minted Nodes (wave3): N-503, N-504
+  - Reused Nodes Appearing: N-11, N-10715, N-5, N-7, N-9, N-17, N-22, N-27, N-36, N-37, N-40, N-97, N-154, N-155, N-190, N-217, N-264, N-330, N-437, N-529, N-10006, N-10018, N-10027, N-10074, N-10193, N-10338, N-10340, N-10342, N-10403, N-10446, N-10456, N-10528, N-10532, N-10681, N-10712, N-10730, N-10815, N-10990, N-10714, N-10748, N-734, N-11059, N-11061, N-736, N-11057
+  - Hole-minted Nodes (wave1b): N-367
+  - Hole-minted Nodes (wave3): N-502, N-503
   - (see registers)
 
 ## 2. Executive Summary
@@ -232,7 +232,7 @@ Video Timestamp: 00:19:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5873, C-5872, N-3, N-503, N-1*
+*Related: C-5873, C-5872, N-3, N-502, N-1*
 
 ---
 
@@ -243,7 +243,7 @@ Video Timestamp: 00:20:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5874, N-3, N-1, N-503*
+*Related: C-5874, N-3, N-1, N-502*
 
 ---
 
@@ -303,13 +303,13 @@ Confidence Level: Low
 
 ## 4. Node Register
 
-**N-503** Thomas Patrick
+**N-502** Thomas Patrick
 
 First named by the host at 00:19:38 in episode 125.
 
 *Related: C-3021, A-2134.1*
 
-**N-504** Eliot Spitzer
+**N-503** Eliot Spitzer
 
 First named by the host at 00:21:23 in episode 125.
 
@@ -351,7 +351,7 @@ Investigative Pressure: High
 
 ---
 
-**N-368** Danny Philip
+**N-367** Danny Philip
 
 Turning Point USA employee (transcript spelling Danny Phillip). During an X Space Blake Neff indicated Danny may have been in the second SUV with him; the host traces his family ties to Merrill Lynch and Bank of America.
 
@@ -485,7 +485,7 @@ Ben Shapiro; subject of the lunch lead.
 
 ---
 
-**N-155** John Mappin
+**N-154** John Mappin
 
 John Mappin; husband of Irina Mappin.
 
@@ -493,7 +493,7 @@ John Mappin; husband of Irina Mappin.
 
 ---
 
-**N-156** Irina Mappin
+**N-155** Irina Mappin
 
 Irina Mappin (transcript Irina; node alias Irina Mappin); told the host about Russian speakers at the memorial.
 
@@ -501,7 +501,7 @@ Irina Mappin (transcript Irina; node alias Irina Mappin); told the host about Ru
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Blake Neff; X Space audio subject and critic of the host.
 
@@ -509,7 +509,7 @@ Blake Neff; X Space audio subject and critic of the host.
 
 ---
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 Mikey McCoy; rented the SUVs and appears in the call logs.
 
@@ -517,7 +517,7 @@ Mikey McCoy; rented the SUVs and appears in the call logs.
 
 ---
 
-**N-218** Elizabeth McCoy
+**N-217** Elizabeth McCoy
 
 Elizabeth McCoy; named with her Ukrainian family.
 
@@ -525,7 +525,7 @@ Elizabeth McCoy; named with her Ukrainian family.
 
 ---
 
-**N-265** Andrew K. Smith
+**N-264** Andrew K. Smith
 
 Andrew K. Smith; interviewer of Kirk's last interview before UVU.
 
@@ -533,7 +533,7 @@ Andrew K. Smith; interviewer of Kirk's last interview before UVU.
 
 ---
 
-**N-331** Baron Coleman
+**N-330** Baron Coleman
 
 Baron Coleman; told the host the shirt was 100% polyester.
 
@@ -541,7 +541,7 @@ Baron Coleman; told the host the shirt was 100% polyester.
 
 ---
 
-**N-438** Johnnie Moore
+**N-437** Johnnie Moore
 
 Johnnie Moore; Kolvet's former partner and NCRI board member per the host.
 
@@ -549,7 +549,7 @@ Johnnie Moore; Kolvet's former partner and NCRI board member per the host.
 
 ---
 
-**N-530** Jean-Luc Brunel
+**N-529** Jean-Luc Brunel
 
 Jean-Luc Brunel; founder of the modeling firm the host mentions.
 
@@ -717,7 +717,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-734** Stew Peters
+**N-732** Stew Peters
 
 First named by the host at 00:09:26 in episode 125. Employer of Blake Neff before Turning Point per the host.
 
@@ -725,7 +725,7 @@ First named by the host at 00:09:26 in episode 125. Employer of Blake Neff befor
 
 ---
 
-**N-735** John McGovern
+**N-733** John McGovern
 
 First named by the host at 00:11:42 in episode 125 (also Johnny McGovern, McGovern). Works in gifts and fundraising at Turning Point USA per the host.
 
@@ -733,7 +733,7 @@ First named by the host at 00:11:42 in episode 125 (also Johnny McGovern, McGove
 
 ---
 
-**N-736** Ike Perlmutter
+**N-734** Ike Perlmutter
 
 First named by the host at 00:19:38 in episode 125. Subject of the 2019 check dispute.
 
@@ -741,7 +741,7 @@ First named by the host at 00:19:38 in episode 125. Subject of the 2019 check di
 
 ---
 
-**N-737** Stephen Phillip
+**N-735** Stephen Phillip
 
 First named by the host at 00:22:09 in episode 125 (Steven Phillip, Stephen Phillip). Father of Danny Philip.
 
@@ -749,7 +749,7 @@ First named by the host at 00:22:09 in episode 125 (Steven Phillip, Stephen Phil
 
 ---
 
-**N-738** Dennis Frantzve
+**N-736** Dennis Frantzve
 
 First named by the host at 00:24:41 in episode 125. Erika Kirk's cousin per the host.
 
@@ -757,7 +757,7 @@ First named by the host at 00:24:41 in episode 125. Erika Kirk's cousin per the 
 
 ---
 
-**N-739** Leon Black
+**N-737** Leon Black
 
 First named by the host at 00:25:34 in episode 125. Epstein associate whose wealth Bank of America Merrill Lynch managed per the host.
 
@@ -832,7 +832,7 @@ Claim Timestamp: 00:11:50
 Claim: The host says Blake Neff was aboard the private jet carrying Charlie Kirk to Salt Lake City on the morning of September 10th.
 
 Anchored Artifacts: A-2133.1
-Mentions: N-1, N-160
+Mentions: N-1, N-159
 
 
 Investigative Direction: Flight manifests, airport records, and witness corroboration would verify the passenger list.
@@ -844,7 +844,7 @@ Claim Timestamp: 00:14:07
 Claim: Blake Neff stated during an X Space that he had no idea where the second SUV was parked and did not remember the specific people in his car during the morning gap between landing at Salt Lake City and the UVU event.
 
 Anchored Artifacts: A-2133.1
-Mentions: N-160
+Mentions: N-159
 
 Related Nodes: N-10715
 
@@ -857,7 +857,7 @@ Claim Timestamp: 00:15:25
 Claim: In an X Space clip the host plays, Blake Neff, after prompting from another speaker, indicates that Danny Phillip might have been in the second SUV with him.
 
 Anchored Artifacts: A-2133.1
-Mentions: N-368, N-160
+Mentions: N-367, N-159
 
 Related Nodes: N-10715
 
@@ -870,7 +870,7 @@ Claim Timestamp: 00:20:15
 Claim: The host says Danny Phillip is the grandson of Thomas Patrick, a major Turning Point donor and former executive vice chairman and CEO of Merrill Lynch (25 years in Chicago), who in 2003 was escorted out of his office over a scandal in which he was accused of orchestrating a political smear campaign against Eliot Spitzer.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-368, N-503, N-504
+Mentions: N-367, N-502, N-503
 
 Related Nodes: N-10716
 
@@ -883,7 +883,7 @@ Claim Timestamp: 00:22:15
 Claim: The host says Danny Philip's father Stephen Phillip worked for Bank of America Merrill Lynch in Chicago and, like Tyler Bowyer, majored in Russian studies.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-368, N-737, N-11
+Mentions: N-367, N-735, N-11
 
 Related Nodes: N-10716
 
@@ -909,7 +909,7 @@ Claim Timestamp: 00:24:41
 Claim: The host says Erika Kirk's cousin Dennis ("Dennis Franks Bay" in the captions) worked at Bank of America Merrill Lynch in Chicago during 2008-2022, after his military service.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-2, N-738
+Mentions: N-2, N-736
 
 Related Nodes: N-10716
 
@@ -982,7 +982,7 @@ Claim: The host says Baron Coleman told her he thinks the shirt Charlie Kirk was
 Transcript Snippet: Baron Coleman um was here the other day and he told me that he thinks that that particular shirt that Charlie was wearing was 100% polyester
 
 Anchored Artifacts: 
-Mentions: N-331, N-1, N-3
+Mentions: N-330, N-1, N-3
 Related Nodes: N-10714
 Investigative Direction: Obtain the shirt's brand and fabric composition from evidence logs, purchase records or photographs of Kirk wearing it that morning.
 
@@ -997,7 +997,7 @@ Claim: The host says that while she was in Spain the mainstream talking point ch
 Transcript Snippet: But now they've done a complete 180. While I was in Spain, they shifted gears and they said
 
 Anchored Artifacts: 
-Mentions: N-3, N-14, N-160, N-1
+Mentions: N-3, N-14, N-159, N-1
 Investigative Direction: Compare dated public statements by Kolvet and Neff before and after the host's two-week absence.
 
 ---
@@ -1011,7 +1011,7 @@ Claim: The host says Blake Neff never worked for Turning Point USA if he is to b
 Transcript Snippet: He didn't even get hired to work with Charlie at all in any capacity until 2022 after um he was fired from Fox News or had to move on from Fox News because of some racist comments.
 
 Anchored Artifacts: 
-Mentions: N-160, N-1
+Mentions: N-159, N-1
 Related Nodes: N-11057, N-10006
 Investigative Direction: Neff's employment history (Fox News departure, hiring date at Turning Point or the Charlie Kirk Show) from his own statements, press coverage and payroll or contract records.
 
@@ -1026,7 +1026,7 @@ Claim: The host says Blake Neff went to work for Stew Peters and then started wo
 Transcript Snippet: He then work went to work for Stew Peters um and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.
 
 Anchored Artifacts: 
-Mentions: N-160, N-734, N-22, N-1
+Mentions: N-159, N-732, N-22, N-1
 Related Nodes: N-11057
 Investigative Direction: Neff's own account of how he was hired; statements by Carlson or Peters on the recommendation.
 
@@ -1041,7 +1041,7 @@ Claim: The host reads a tweet from Blake Neff saying he decided against his bett
 Transcript Snippet: I decided against my better judgment to briefly turn on Candace." Okay, Blakey. You watch every episode.
 
 Anchored Artifacts: A-2132.1
-Mentions: N-160, N-3, N-1
+Mentions: N-159, N-3, N-1
 Investigative Direction: Retrieve Neff's original post from X with its timestamp and compare with the text read on air.
 
 ---
@@ -1069,7 +1069,7 @@ Claim: The host says Blake Neff's truer background is in military strategy: he s
 Transcript Snippet: Blake's truer background is in military strategy. He supported war gaming exercises for the Marine Corps before he was removed from that position following racist commentary.
 
 Anchored Artifacts: 
-Mentions: N-160
+Mentions: N-159
 Related Nodes: N-11057
 Investigative Direction: Neff's biography, Marine Corps or contractor records of his role, and reporting on the racist-commentary incident.
 
@@ -1084,7 +1084,7 @@ Claim: The host says Mikey McCoy rented two SUVs in Salt Lake City, and that one
 Transcript Snippet: We know that one was carrying Charlie and Mikey McCoy and Frank Turrek and John McGovern who works in gifts at Turning Point USA, raises money for them.
 
 Anchored Artifacts: 
-Mentions: N-191, N-1, N-7, N-735
+Mentions: N-190, N-1, N-7, N-733
 Related Nodes: N-10074
 Investigative Direction: Salt Lake City rental agreement(s) in McCoy's name and statements from Turek and McGovern about who rode in which vehicle.
 
@@ -1099,7 +1099,7 @@ Claim: The host says Charlie Kirk did a restaurant event and his last interview 
 Transcript Snippet: He does this this restaurant event and does his last interview with a guy named Andrew Smith. He flies into Salt Lake City, not Provo.
 
 Anchored Artifacts: 
-Mentions: N-1, N-265
+Mentions: N-1, N-264
 Related Nodes: N-10074
 Supports: C-3735
 Investigative Direction: Flight records for the September 10 charter, and the published Andrew K. Smith interview with its recording date and location.
@@ -1115,7 +1115,7 @@ Claim: In the X Space audio, Blake Neff says he would not be asked such question
 Transcript Snippet: I'm a key witness to Charlie's life. I'm not a particularly important witness to the murder.
 
 Anchored Artifacts: A-2133.1
-Mentions: N-160, N-1
+Mentions: N-159, N-1
 Related Nodes: N-10715
 Investigative Direction: Whether investigators or the Utah prosecutors interviewed Neff, and any statement on file.
 
@@ -1130,7 +1130,7 @@ Claim: In the X Space audio, Blake Neff says that because he was not going to th
 Transcript Snippet: We drove somewhere, and because I wasn't going to that event, we just like parked, and we marked time until the actual Utah Valley event.
 
 Anchored Artifacts: A-2133.1
-Mentions: N-160
+Mentions: N-159
 Related Nodes: N-10715
 Investigative Direction: Phone location data, SUV telematics and rental records for the second vehicle between landing and the UVU event.
 
@@ -1145,7 +1145,7 @@ Claim: The host says Mikey McCoy's call logs show him on the phone with Danny Ph
 Transcript Snippet: Before Charlie got shot at 12:02, Mikey McCoy was on the phone with Danny Philip. I thought they were just both at the event.
 
 Anchored Artifacts: 
-Mentions: N-191, N-368, N-1
+Mentions: N-190, N-367, N-1
 Related Nodes: N-10193, N-10338
 Investigative Direction: Mikey McCoy's carrier call detail records for September 10, 2025, and statements from McCoy and Philip about the calls.
 
@@ -1160,7 +1160,7 @@ Claim: The host says Danny Philip is very young, graduated college in May 2025 a
 Transcript Snippet: Danny Philip is is very young. He just graduated college in May of 2025. He gets hired right out of college, um to work for Charlie.
 
 Anchored Artifacts: 
-Mentions: N-368, N-1
+Mentions: N-367, N-1
 Investigative Direction: Turning Point USA hiring and payroll records for Philip, and his university graduation date.
 
 ---
@@ -1174,7 +1174,7 @@ Claim: The host says Danny Philip was Charlie Kirk's assistant, had interned for
 Transcript Snippet: Danny Phillip, Charlie Kirk's assistant, that's a pretty big job. You know, he had interned for them the previous summer.
 
 Anchored Artifacts: 
-Mentions: N-368, N-1
+Mentions: N-367, N-1
 Related Nodes: N-10074
 Supports: C-3020
 Investigative Direction: Philip's job title and start date, the flight manifest for the September 10 charter, and his internship dates.
@@ -1190,7 +1190,7 @@ Claim: The host says that according to his LinkedIn, Danny Philip graduated from
 Transcript Snippet: According to his LinkedIn, he graduated from Ohio State University.
 
 Anchored Artifacts: 
-Mentions: N-368
+Mentions: N-367
 Investigative Direction: Philip's LinkedIn profile as archived, Ohio State registrar confirmation, and Ohio State Turning Point chapter rosters.
 
 ---
@@ -1204,7 +1204,7 @@ Claim: The host says people at Turning Point told her Danny Philip was a family 
 Transcript Snippet: We're kind of told he was a family friend and he got this like big job working for Charlie.
 
 Anchored Artifacts: 
-Mentions: N-368, N-1
+Mentions: N-367, N-1
 Investigative Direction: Identify the Turning Point staff who said so and ask what they know of the Philip family relationship to Kirk.
 
 ---
@@ -1218,7 +1218,7 @@ Claim: The host says she and Charlie Kirk argued in 2019 about Ike Perlmutter, t
 Transcript Snippet: We already discussed the argument that Charlie and I had regarding Ike Perlmutter, the check, the money. 2019 when I said I felt that people were intentionally forces were pulling me and Charlie apart.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-736
+Mentions: N-3, N-1, N-734
 Investigative Direction: Earlier episode statements on the Perlmutter check, and contemporaneous messages between the host and Kirk.
 
 ---
@@ -1232,7 +1232,7 @@ Claim: The host says that in 2019 a smear campaign calling her anti-Semitic star
 Transcript Snippet: Suddenly, there's this smear campaign calling me anti-Semitic. Um and at virtually the exact same time, Turning Point had this major donor.
 
 Anchored Artifacts: 
-Mentions: N-3, N-503
+Mentions: N-3, N-502
 Related Nodes: N-11058
 Investigative Direction: Dated media coverage of the 2019 smear and the date of Patrick's email.
 
@@ -1247,7 +1247,7 @@ Claim: The host says Thomas Patrick, a major Turning Point donor, personally inf
 Transcript Snippet: Thomas Patrick personally informed me via email that Charlie Kirk was lying to me about money. That is Danny Philip's granddaddy.
 
 Anchored Artifacts: A-2783.1
-Mentions: N-503, N-1, N-3, N-368
+Mentions: N-502, N-1, N-3, N-367
 Related Nodes: N-11058
 Supports: C-3021
 Investigative Direction: The host's email from Patrick (headers, date, full text) and Patrick's relationship to Danny Philip.
@@ -1263,7 +1263,7 @@ Claim: The host says she still has text messages between herself and Charlie Kir
 Transcript Snippet: I still have a text messages between me and Charlie regarding Thomas Patrick's email to me
 
 Anchored Artifacts: A-2783.2
-Mentions: N-3, N-1, N-503
+Mentions: N-3, N-1, N-502
 Related Nodes: N-11058
 Investigative Direction: The text thread with timestamps and the Patrick email it refers to.
 
@@ -1278,7 +1278,7 @@ Claim: The host says Thomas Patrick was unceremoniously escorted out of his Merr
 Transcript Snippet: he was unceremoniously escorted out of his office for a scandal in which he was accused of of all things orchestrating a political smear campaign against Eliot Spitzer, who he didn't like.
 
 Anchored Artifacts: 
-Mentions: N-503, N-504
+Mentions: N-502, N-503
 Supports: C-3021
 Investigative Direction: Contemporary 2003 press coverage of Patrick's exit from Merrill Lynch and the Spitzer allegations.
 
@@ -1293,7 +1293,7 @@ Claim: The host says Thomas Patrick, a powerful Merrill Lynch executive, played 
 Transcript Snippet: And he was so powerful at it's stunning for me to process that he played a big role in convincing me that Charlie was moving behind my back.
 
 Anchored Artifacts: 
-Mentions: N-503, N-3, N-1
+Mentions: N-502, N-3, N-1
 Related Nodes: N-11058
 Investigative Direction: Patrick's communications with the host and with Kirk or Turning Point about the Perlmutter dispute.
 
@@ -1338,7 +1338,7 @@ Claim: The host says Tyler Bowyer speaks Russian and majored in Russian studies,
 Transcript Snippet: you know, Tyler speaks Russian, majored in Russian studies, same for Danny Phillip's dad.
 
 Anchored Artifacts: 
-Mentions: N-11, N-368, N-737
+Mentions: N-11, N-367, N-735
 Related Nodes: N-11059
 Supports: C-3022
 Investigative Direction: Bowyer's educational record and public statements on Russian language ability; Stephen Phillip's degree.
@@ -1354,7 +1354,7 @@ Claim: The host says Irina Mappin, married to John Mappin and fluent in Russian,
 Transcript Snippet: she remarked to me in a private phone call that the thing that struck her as very odd about the memorial event was that everyone was speaking Russian.
 
 Anchored Artifacts: 
-Mentions: N-156, N-155, N-3
+Mentions: N-155, N-154, N-3
 Related Nodes: N-11059
 Investigative Direction: Direct confirmation from Irina Mappin and a VIP guest list for the memorial event.
 
@@ -1369,7 +1369,7 @@ Claim: The host says Elizabeth McCoy has an entire Ukrainian family and Rob McCo
 Transcript Snippet: you've got Elizabeth McCoy and her entire Ukrainian family, you've got Rob McCoy who adopted a girl from Russia, remember?
 
 Anchored Artifacts: 
-Mentions: N-218, N-17, N-11
+Mentions: N-217, N-17, N-11
 Related Nodes: N-11059, N-10528
 Investigative Direction: Family statements, church or adoption announcements by the McCoys, and Elizabeth McCoy's family background.
 
@@ -1384,7 +1384,7 @@ Claim: Presenting her visual guide, the host says Danny Philip's father Stephen 
 Transcript Snippet: you've got Stephen Phillip, that's going to be Daniel Phillip's dad who is the vice president also in Chicago, Bank of America, Merrill Lynch, Russian studies.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-737, N-368
+Mentions: N-735, N-367
 Related Nodes: N-10716
 Supports: C-3022
 Investigative Direction: Bank of America Merrill Lynch directory or FINRA broker records for Stephen Phillip, and his stated job title.
@@ -1400,7 +1400,7 @@ Claim: The host says Erika Kirk's cousin Dennis Frantzve, after leaving the mili
 Transcript Snippet: Erika's cousin who showed her around Romania, the Black Sea Rotational Force.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-738, N-2
+Mentions: N-736, N-2
 Related Nodes: N-10990, N-10716
 Supports: C-3024
 Investigative Direction: Romania trip records, Erika Kirk's own accounts of the visit, and Dennis Frantzve's military and employment history.
@@ -1416,7 +1416,7 @@ Claim: The host says Bank of America, which she says settled with Epstein victim
 Transcript Snippet: they were sued because they were managing wealth, Bank of America Merrill Lynch, of the major Epstein associate Leon Black.
 
 Anchored Artifacts: 
-Mentions: N-739, N-9
+Mentions: N-737, N-9
 Related Nodes: N-11060
 Investigative Direction: Court filings in the Epstein victims' suit against Bank of America and the settlement announcement.
 
@@ -1476,7 +1476,7 @@ Claim: The host asks viewers who saw a bald man on September 10 who seemed to ha
 Transcript Snippet: More tips at CandaceOwens. com cuz we've got a confused bald man who doesn't remember what he was doing on a very a day
 
 Anchored Artifacts: A-2784.2
-Mentions: N-3, N-160
+Mentions: N-3, N-159
 Related Nodes: N-10715
 Investigative Direction: Witness sightings and dashcam or roadside video from Orem, Provo and Salt Lake City on the morning of September 10.
 
@@ -1491,7 +1491,7 @@ Claim: The host says it was confirmed Charlie Kirk was in the restaurantology ev
 Transcript Snippet: it was confirmed that Charlie was in the green room and he had three people with him. We know for a fact Johnny McGovern was with him. We know Mikey McCoy was with him
 
 Anchored Artifacts: 
-Mentions: N-1, N-735, N-191, N-7
+Mentions: N-1, N-733, N-190, N-7
 Related Nodes: N-11061
 Investigative Direction: Event staff, photos or video from the restaurantology event green room and statements by Turek, McGovern and McCoy.
 
@@ -1521,7 +1521,7 @@ Claim: The host asks whether anybody saw Frank Turek at the restaurantology even
 Transcript Snippet: Was he in the car with Blake and Neff? Like I said, everybody's memory is hazy. We're here to help. More tips at CandaceOwens. com.
 
 Anchored Artifacts: A-2784.3
-Mentions: N-7, N-160, N-3
+Mentions: N-7, N-159, N-3
 Related Nodes: N-11061
 Investigative Direction: Attendee accounts and photos placing Turek at the event, and rider accounts for the second SUV.
 
@@ -1566,7 +1566,7 @@ Claim: The host says Johnnie Moore, Andrew Kolvet's old partner, was on NCRI's b
 Transcript Snippet: Charlie didn't care that the NCRI had Johnnie Moore on their board, Andrew Kolvet's old partner Johnnie Moore on the board of NCRI when the Crisis King report was published.
 
 Anchored Artifacts: 
-Mentions: N-438, N-14, N-1
+Mentions: N-437, N-14, N-1
 Related Nodes: N-10815
 Investigative Direction: NCRI board listings from the report date and Moore's business history with Kolvet (the Kairos Company).
 
@@ -1628,7 +1628,7 @@ Claim: The host says Blake Neff referred to her as a knife-wielding psychopath o
 Transcript Snippet: I mean, Blake Nath referred to me as a knife-wielding psychopath on the subway.
 
 Anchored Artifacts: 
-Mentions: N-160, N-3
+Mentions: N-159, N-3
 Investigative Direction: Neff's original post or broadcast containing the phrase.
 
 ---
@@ -1901,7 +1901,7 @@ Claim: The host says she had begun pulling threads of Erika Kirk hanging out at 
 Transcript Snippet: I had already began pulling up the threads of Erika hanging out at this modeling firm where Epstein was hanging out. Jean-Luc Brunel was the founder of it
 
 Anchored Artifacts: 
-Mentions: N-2, N-9, N-530
+Mentions: N-2, N-9, N-529
 Related Nodes: N-10532
 Investigative Direction: Erika Kirk's modeling-agency history and the agency's Brunel and Epstein ties.
 

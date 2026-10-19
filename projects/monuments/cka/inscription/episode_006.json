@@ -1465,8 +1465,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-934",
-      "ref": "N-934",
+      "@id": "N-931",
+      "ref": "N-931",
       "name": "Kyrie Irving",
       "type": "person",
       "description": "First named by the host at 00:42:58 in episode 6. Basketball player the host says was shaken down to donate after he said something she did not like.",
@@ -3732,7 +3732,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-87",
-        "N-934"
+        "N-931"
       ]
     },
     {

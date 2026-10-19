@@ -16,9 +16,9 @@
   - Tip-minted Nodes (reintro-ep147): N-11215
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14797–C-14853
-  - Reused Nodes Appearing: N-10825, N-10820, N-17, N-18, N-136, N-203, N-271, N-331, N-486, N-10021, N-10025, N-10198, N-10320, N-10338, N-10389, N-10550, N-10566, N-10632, N-10651, N-10686, N-10715, N-10818, N-10888, N-11061, N-11208, N-11262, N-11321
+  - Reused Nodes Appearing: N-10825, N-10820, N-17, N-18, N-135, N-202, N-270, N-330, N-485, N-10021, N-10025, N-10198, N-10320, N-10338, N-10389, N-10550, N-10566, N-10632, N-10651, N-10686, N-10715, N-10818, N-10888, N-11061, N-11208, N-11262, N-11321
  - New Nodes Introduced: N-10821, N-10822, N-10823, N-10824, N-10826
- - Reused Nodes Appearing: N-368, N-426, N-493, N-505
+ - Reused Nodes Appearing: N-367, N-425, N-492, N-504
  - (see registers)
 
 ---
@@ -45,7 +45,7 @@
 - Claim Range: C-3357–C-3386
 - New Nodes Introduced (People): none (N-40 Tyler Robinson is a reused person)
 - New Nodes Introduced (Investigation Targets): N-10820, N-10821, N-10822, N-10823, N-10824, N-10825, N-10826
-- Existing Nodes Reused: None specified in ledger (assumed N-1 through N-223 and N-10141 through N-10819 already populated from prior episodes)
+- Existing Nodes Reused: None specified in ledger (assumed N-1 through N-222 and N-10141 through N-10819 already populated from prior episodes)
 
 ---
 
@@ -291,13 +291,13 @@ Video Timestamp: 00:12:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14809, N-493, N-3*
+*Related: C-14809, N-492, N-3*
 
 ---
 
 ## IV. Node Register
 
-**N-493** Justin Davis
+**N-492** Justin Davis
 
 Named by the host at 00:12:13 in episode 147; first introduced in episode 124.
 
@@ -305,7 +305,7 @@ Named by the host at 00:12:13 in episode 147; first introduced in episode 124.
 
 
 
-**N-368** Danny Philip
+**N-367** Danny Philip
 
 Footage discussed by the host shows Danny Philip running, meeting and ducking down with Mikey McCoy in front of Kirk's vehicle.
 
@@ -463,7 +463,7 @@ Mike Mitchell; named in the claim that Robinson confessed to him.
 
 ---
 
-**N-136** Judge Tony F. Graf Jr.
+**N-135** Judge Tony F. Graf Jr.
 
 Judge who issued the bindover ruling.
 
@@ -471,7 +471,7 @@ Judge who issued the bindover ruling.
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Blake Neff; his testimony about the shot and the aftermath and the host's questions about his account.
 
@@ -479,7 +479,7 @@ Blake Neff; his testimony about the shot and the aftermath and the host's questi
 
 ---
 
-**N-164** Matt Walsh
+**N-163** Matt Walsh
 
 Matt Walsh; the host says she rebuked him over his post about the defense lawyer.
 
@@ -487,7 +487,7 @@ Matt Walsh; the host says she rebuked him over his post about the defense lawyer
 
 ---
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 Mikey McCoy; his calls and movements after the shot, per Neff's testimony and the footage.
 
@@ -495,7 +495,7 @@ Mikey McCoy; his calls and movements after the shot, per Neff's testimony and th
 
 ---
 
-**N-203** Lindsay Clancy
+**N-202** Lindsay Clancy
 
 Lindsay Clancy; the host explains why she does not cover the case.
 
@@ -503,7 +503,7 @@ Lindsay Clancy; the host explains why she does not cover the case.
 
 ---
 
-**N-209** Jack Hibbs
+**N-208** Jack Hibbs
 
 Jack Hibbs; his statements about Israel are cited in the Patio comment and the 'so much blood' attribution.
 
@@ -511,7 +511,7 @@ Jack Hibbs; his statements about Israel are cited in the Patio comment and the '
 
 ---
 
-**N-267** Brian Harpole
+**N-266** Brian Harpole
 
 Brian Harpole; placed in the Navigator and cited for his no-threats statement.
 
@@ -519,7 +519,7 @@ Brian Harpole; placed in the Navigator and cited for his no-threats statement.
 
 ---
 
-**N-271** Dan Flood
+**N-270** Dan Flood
 
 Dan Flood; placed by the host in the Navigator.
 
@@ -527,7 +527,7 @@ Dan Flood; placed by the host in the Navigator.
 
 ---
 
-**N-331** Baron Coleman
+**N-330** Baron Coleman
 
 Baron Coleman; he received the TikTok clip and showed it to the host.
 
@@ -535,7 +535,7 @@ Baron Coleman; he received the TikTok clip and showed it to the host.
 
 ---
 
-**N-426** Richard Novak
+**N-425** Richard Novak
 
 Defense counsel whose probable-cause argument was clipped on X.
 
@@ -543,7 +543,7 @@ Defense counsel whose probable-cause argument was clipped on X.
 
 ---
 
-**N-486** Justin Baldoni
+**N-485** Justin Baldoni
 
 Justin Baldoni; cited with the Lively case as a past series.
 
@@ -551,7 +551,7 @@ Justin Baldoni; cited with the Lively case as a past series.
 
 ---
 
-**N-505** Nate Walker
+**N-504** Nate Walker
 
 Nate Walker; seen upstairs with Christopher and counted among those at the hospital.
 
@@ -737,7 +737,7 @@ Claim Timestamp: 00:02:24
 Claim: The host says Judge Graf ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.
 
 Anchored Artifacts: A-2327, A-2328
-Mentions: N-40, N-136
+Mentions: N-40, N-135
 
 
 Investigative Direction: Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed.
@@ -749,7 +749,7 @@ Claim Timestamp: 00:04:11
 Claim: The host says Judge Graf declined to dismiss Count 6 (witness tampering for the "ask for a lawyer and stay silent" text to Lance Twiggs) over the defense's constitutional-rights argument, and she plays a clip of the ruling.
 
 Anchored Artifacts: A-2327, A-2327.1
-Mentions: N-40, N-54, N-136
+Mentions: N-40, N-54, N-135
 
 Related Nodes: N-10826
 
@@ -824,7 +824,7 @@ Claim Timestamp: 00:20:06
 Claim: The host says that in footage she shows of the post-shot sequence, Justin Davis (driver of the Lincoln Navigator) sprinted to and opened the passenger-side door of a vehicle he had not arrived in, alongside Blake Neff, who was also not a passenger of that vehicle.
 
 Anchored Artifacts: A-2329.1
-Mentions: N-160, N-493
+Mentions: N-159, N-492
 
 Related Nodes: N-10822
 
@@ -837,7 +837,7 @@ Claim Timestamp: 00:21:00
 Claim: The host says footage she shows has Mikey McCoy and Danny Philip running, meeting, and "ducking down" together with Justin Davis in front of Kirk's vehicle, in what she characterizes as a coordinated sequence.
 
 Anchored Artifacts: A-2329.2
-Mentions: N-368, N-191, N-493
+Mentions: N-367, N-190, N-492
 
 Related Nodes: N-10820
 
@@ -850,7 +850,7 @@ Claim Timestamp: 00:21:22
 Claim: The host says that throughout the run to and at Kirk's vehicle, Mikey McCoy kept his hand at his ear, which she says she has been told repeatedly was only to cover noise rather than a phone call.
 
 Anchored Artifacts: A-2329.2
-Mentions: N-191
+Mentions: N-190
 
 Related Nodes: N-10820
 
@@ -889,7 +889,7 @@ Claim Timestamp: 00:17:03
 Claim: The host says Christopher (Kirk's main security person) and Nate Walker walked toward the Sorensen building and were upstairs in the minutes before the shot, in a clip she thinks was captured on TikTok and sent to Baron Coleman.
 
 Anchored Artifacts: A-2329.4
-Mentions: N-505, N-331
+Mentions: N-504, N-330
 
 Related Nodes: N-10821
 
@@ -953,7 +953,7 @@ Claim Timestamp: 00:39:42
 Claim: On September 1, 2026, Matt Walsh posted on X: "We have a lawyer justifying political assassination in one court case, and another lawyer justifying the mass murder of children in another. Very dark times in America."
 
 Anchored Artifacts: A-2332
-Mentions: N-164
+Mentions: N-163
 
 Related Nodes: N-10824
 
@@ -966,7 +966,7 @@ Claim Timestamp: 00:39:42
 Claim: The host explicitly rejects Walsh's "justifying political assassination" framing and characterizes it as a "disingenuous narrative."
 
 Anchored Artifacts: A-2332 (host stance on same artifact)
-Mentions: N-164
+Mentions: N-163
 
 Related Nodes: N-10824
 
@@ -979,7 +979,7 @@ Claim Timestamp: 00:40:25
 Claim: The host says Viva Frei sent a tweet echoing the "lawyer justifying political assassination" framing, and that she has blocked him.
 
 Anchored Artifacts: A-2333
-Mentions: N-334
+Mentions: N-333
 
 Related Nodes: N-10824
 
@@ -992,7 +992,7 @@ Claim Timestamp: 00:40:36
 Claim: Graham Allen posted on X: "Are you kidding me? Are you kidding me? Tyler Robinson's defense attorney attacked Charlie Kirk in court. This man is a lunatic."
 
 Anchored Artifacts: A-2334
-Mentions: N-1, N-40, N-609
+Mentions: N-1, N-40, N-607
 
 Related Nodes: N-10824
 
@@ -1005,7 +1005,7 @@ Claim Timestamp: 00:40:50
 Claim: Blake Neff and Brandon Tatum sent an identical X post accusing defense attorney Richard Novak of "trashing Charlie" by stating that Kirk "spoke hatefully about people who were not heterosexual or had sex outside of marriage."
 
 Anchored Artifacts: A-2335
-Mentions: N-160, N-426
+Mentions: N-159, N-425
 
 Related Nodes: N-10824
 
@@ -1018,7 +1018,7 @@ Claim Timestamp: 00:44:15
 Claim: The host says defense counsel Richard Novak, in his probable-cause-hearing argument, was not advancing a personal thesis that political assassinations are acceptable but was citing the state's own theory to argue that the state had failed to satisfy its burden even on its own framing.
 
 Anchored Artifacts: A-2336, A-2337
-Mentions: N-40, N-426
+Mentions: N-40, N-425
 
 Related Nodes: N-10824, N-10825
 
@@ -1083,7 +1083,7 @@ Claim Timestamp: 00:28:14
 Claim: Blake Neff testified that after the shot he and Mikey McCoy ran because they believed there might be more shooters, but that approximately 15–20 seconds later he concluded the shooter had likely been "detained or stopped" and that they were not in immediate danger.
 
 Anchored Artifacts: A-2338
-Mentions: N-191, N-160
+Mentions: N-190, N-159
 
 Related Nodes: N-10823
 
@@ -1096,7 +1096,7 @@ Claim Timestamp: 00:30:40
 Claim: Blake Neff testified that Mikey McCoy, within approximately one minute of the shot, called "Erika" (Erica / Erika Kirk) and then called his father Rob McCoy.
 
 Anchored Artifacts: A-2338
-Mentions: N-191, N-2, N-160, N-17
+Mentions: N-190, N-2, N-159, N-17
 Contradicts: C-1932, C-3092
 
 Related Nodes: N-10823
@@ -1110,7 +1110,7 @@ Claim Timestamp: 00:54:25
 Claim: The host says the "so much blood" claim attributed to Mikey McCoy did not originate with McCoy himself; she says it came from his father, from Jack Hibbs and, she thinks, Frank Turek, i.e. "the pastor orbit," and that McCoy never described seeing a lot of blood in his press.
 
 Anchored Artifacts: A-2339
-Mentions: N-191, N-17, N-209, N-7
+Mentions: N-190, N-17, N-208, N-7
 
 Related Nodes: N-10823
 
@@ -1123,7 +1123,7 @@ Claim Timestamp: 01:04:00
 Claim: The host says Brian Harpole, sitting down with Shawn Ryan, said there were no threats the night before September 10, which she presents as in tension with Kirk's prior-night communication of fear.
 
 Anchored Artifacts: A-2340 (host narrative; Shawn Ryan interview not displayed in this episode)
-Mentions: N-1, N-267, N-225
+Mentions: N-1, N-266, N-224
 
 Related Nodes:
 
@@ -1149,7 +1149,7 @@ Claim Timestamp: 00:08:25
 Claim: The host asserts that a narrative that Bill Ackman was "going to give him a million dollars," referring to Tyler Robinson's father, was dropped entirely because "there was no truth and no substance."
 
 Anchored Artifacts: A-2328 (host assertion; no documentary anchor in this episode)
-Mentions: N-37, N-40, N-778
+Mentions: N-37, N-40, N-776
 
 Related Nodes:
 
@@ -1162,7 +1162,7 @@ Claim Timestamp: 00:29:56
 Claim: Blake Neff testified that he saw Mikey McCoy "profoundly freaked out," with a quivering lip that he had never seen before, though he had seen McCoy almost every day for the past two years.
 
 Anchored Artifacts: A-2338
-Mentions: N-191, N-160
+Mentions: N-190, N-159
 
 Related Nodes:
 
@@ -1175,7 +1175,7 @@ Claim Timestamp: 00:31:39
 Claim: Blake Neff testified that Mikey McCoy, after the phone calls, "got total mastery of himself" and began "directing a battle" – assigning tasks, including instructions that "none of you can say anything" until Erika Kirk had been told directly by McCoy.
 
 Anchored Artifacts: A-2338
-Mentions: N-2, N-191, N-160
+Mentions: N-2, N-190, N-159
 
 Related Nodes:
 
@@ -1188,7 +1188,7 @@ Claim Timestamp: 00:28:58
 Claim: Blake Neff testified that he considered getting into the SUV he had arrived in ("the SUV that we came in on") but decided against it ("that's a really stupid thing to do") and kept running.
 
 Anchored Artifacts: A-2338
-Mentions: N-160
+Mentions: N-159
 
 Related Nodes: N-10823
 
@@ -1244,7 +1244,7 @@ Claim: The host says that on the day before the episode she publicly rebuked her
 Transcript Snippet: I did actually have to slap down my former colleague Matt Walsh when he perpetuated one of the more disingenuous narratives out there.
 
 Anchored Artifacts: 
-Mentions: N-3, N-164
+Mentions: N-3, N-163
 Related Nodes: N-10824
 Tags: relevance:context
 Investigative Direction: Capture the host's X reply to Walsh from the day before and Walsh's original post.
@@ -1260,7 +1260,7 @@ Claim: The host says Robinson's not-guilty plea runs counter to claims from what
 Transcript Snippet: runs counter to the extraordinary claims made by the Department of War propagandists that Tyler's dad turned him in because Tyler confessed to his crime
 
 Anchored Artifacts: 
-Mentions: N-40, N-3, N-778
+Mentions: N-40, N-3, N-776
 Related Nodes: N-10888, N-10566
 Supports: C-5041
 Tags: relevance:core
@@ -1277,7 +1277,7 @@ Claim: The host says Tyler Robinson told his father he was not guilty, that his 
 Transcript Snippet: Tyler told his father that he was not guilty. His father believes him.
 
 Anchored Artifacts: 
-Mentions: N-40, N-3, N-778
+Mentions: N-40, N-3, N-776
 Related Nodes: N-10566
 Supports: C-5041
 Tags: relevance:core
@@ -1294,7 +1294,7 @@ Claim: The host says the court's finding was unsurprising because reliable hears
 Transcript Snippet: reliable hearsay is the standard. It was permissible at that stage.
 
 Anchored Artifacts: 
-Mentions: N-3, N-136
+Mentions: N-3, N-135
 Related Nodes: N-10825
 Supports: C-7656
 Tags: relevance:context
@@ -1343,7 +1343,7 @@ Claim: The host says Tyler Robinson's father went with him to the police station
 Transcript Snippet: Yes, he went with his son to the police station after they were told they had no other choice.
 
 Anchored Artifacts: 
-Mentions: N-40, N-3, N-778
+Mentions: N-40, N-3, N-776
 Related Nodes: N-10021
 Supports: C-5041
 Tags: relevance:core
@@ -1424,7 +1424,7 @@ Claim: The host says the Lincoln Navigator behind the Wagoneer was driven by Jus
 Transcript Snippet: The driver of that Lincoln Navigator is Justin Davis, okay? Justin, this is extremely important. Dan Flood's in that vehicle, Brian Harpole is in that vehicle
 
 Anchored Artifacts: A-2330
-Mentions: N-493, N-271, N-267
+Mentions: N-492, N-270, N-266
 Related Nodes: N-10820
 Tags: relevance:core
 Investigative Direction: Cross-check the vehicle assignments against Harpole's and Flood's own accounts and against hospital arrival video.
@@ -1440,7 +1440,7 @@ Claim: The host says Justin Davis is the security vehicle driver who will eventu
 Transcript Snippet: he's going to eventually be the driver that takes Charlie to the hospital.
 
 Anchored Artifacts: A-3347.1
-Mentions: N-493, N-1
+Mentions: N-492, N-1
 Related Nodes: N-10823, N-10686
 Tags: relevance:core
 Investigative Direction: Compare against testimony and hospital footage about who drove Kirk and in which vehicle.
@@ -1472,7 +1472,7 @@ Claim: The host says the front Yukon Denali was the one Charlie Kirk arrived and
 Transcript Snippet: we know that he shows up with Mikey McCoy in that vehicle. And we also know that the person driving it, we only have a first name for this guy, but his name is Christopher
 
 Anchored Artifacts: A-2330
-Mentions: N-1, N-191
+Mentions: N-1, N-190
 Related Nodes: N-10820, N-10821
 Tags: relevance:core
 Investigative Direction: Identify Christopher's full name and role through TPUSA security rosters and testimony.
@@ -1488,7 +1488,7 @@ Claim: The host says the second Denali was driven by Danny Philip with Blake Nef
 Transcript Snippet: when they pull up, you have Danny Philip driving, and you have Blake Neff in the back seat.
 
 Anchored Artifacts: A-2330
-Mentions: N-368, N-160
+Mentions: N-367, N-159
 Related Nodes: N-10820, N-10715
 Tags: relevance:core
 Investigative Direction: Confirm seating from arrival video and from Neff's and Phillip's testimony.
@@ -1504,7 +1504,7 @@ Claim: The host says Blake Neff is weird in discussing how he arrived at UVU and
 Transcript Snippet: Blake is very weird about discussing their arrival, who he was with. And also, when they were in Salt Lake City with Charlie, he doesn't remember what they did
 
 Anchored Artifacts: A-2330
-Mentions: N-160, N-368, N-1
+Mentions: N-159, N-367, N-1
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Compare Neff's testimony and public statements about his arrival with his itinerary records.
@@ -1536,7 +1536,7 @@ Claim: The host says Charlie Kirk was put in the vehicle within 45 seconds, and 
 Transcript Snippet: they get Charlie in that car within 45 seconds, right?
 
 Anchored Artifacts: A-2330
-Mentions: N-1, N-493
+Mentions: N-1, N-492
 Related Nodes: N-10822
 Tags: relevance:core
 Investigative Direction: Time the sequence from the shot to loading using the available footage.
@@ -1585,7 +1585,7 @@ Claim: The host says the clip showing Christopher and Nate Walker heading upstai
 Transcript Snippet: somebody on Tik Tok, I think, sent it to Baron Coleman, and then Baron showed it to me
 
 Anchored Artifacts: A-2329.4
-Mentions: N-331, N-505, N-3
+Mentions: N-330, N-504, N-3
 Related Nodes: N-10821
 Tags: relevance:core
 Investigative Direction: Obtain the original TikTok post and uploader and verify date and location metadata.
@@ -1617,7 +1617,7 @@ Claim: The host says the keys were apparently either waiting in the car or someh
 Transcript Snippet: That keys were apparently either waiting in the car or somehow given to Justin Davis before this, I don't know.
 
 Anchored Artifacts: A-2329.1
-Mentions: N-493
+Mentions: N-492
 Related Nodes: N-10822
 Tags: relevance:core
 Investigative Direction: Ask Davis and Christopher where the keys were and who handed them over.
@@ -1649,7 +1649,7 @@ Claim: The host says that when Blake Neff tells the story of what happened he my
 Transcript Snippet: he just mysteriously keeps leaving Danny Philip out of everything.
 
 Anchored Artifacts: A-2329.2
-Mentions: N-160, N-368, N-191
+Mentions: N-159, N-367, N-190
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Compare each of Neff's retellings with the footage and note when Phillip is and is not mentioned.
@@ -1681,7 +1681,7 @@ Claim: The host says that, as she says they were told, Mikey McCoy as Kirk's chi
 Transcript Snippet: you're the his chief of staff and you are being tasked with providing updates to his wife as we were told
 
 Anchored Artifacts: A-2338
-Mentions: N-191, N-2
+Mentions: N-190, N-2
 Related Nodes: N-10338
 Supports: C-1547
 Tags: relevance:core
@@ -1698,7 +1698,7 @@ Claim: The host says it is known that Nate Walker, Blake Neff, Danny Philip and 
 Transcript Snippet: We know that it's going to be Nate Walker and Blake and Danny Philip and Mikey McCoy that arrived to the hospital.
 
 Anchored Artifacts: 
-Mentions: N-505, N-160, N-368, N-191
+Mentions: N-504, N-159, N-367, N-190
 Related Nodes: N-10823, N-11208
 Tags: relevance:core
 Investigative Direction: Pull hospital arrival footage and testimony to confirm who arrived and in what vehicle.
@@ -1714,7 +1714,7 @@ Claim: In testimony played on air, Blake Neff says he and Mikey leaving was not 
 Transcript Snippet: Charlie had a security team. They all left immediately into action and they got Charlie out of there, which is what their job was to do.
 
 Anchored Artifacts: A-2338
-Mentions: N-160, N-1, N-191
+Mentions: N-159, N-1, N-190
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Obtain the full transcript of the Neff testimony and the hearing in which it was given.
@@ -1730,7 +1730,7 @@ Claim: In testimony played on air, Blake Neff says he does not remember being wi
 Transcript Snippet: So, I was not with Mikey imme- or I don't remember being with him. I think I was ahead of him as we left.
 
 Anchored Artifacts: A-2338
-Mentions: N-160, N-191
+Mentions: N-159, N-190
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Compare against footage of Neff and McCoy in the first seconds after the shot.
@@ -1746,7 +1746,7 @@ Claim: In testimony played on air, Blake Neff says that around the time Mikey ca
 Transcript Snippet: I pull out my phone and I call my mom just to say Mom, there's been a a shooting you're going to see it on the news.
 
 Anchored Artifacts: A-2338
-Mentions: N-160, N-191, N-2
+Mentions: N-159, N-190, N-2
 Related Nodes: N-10550
 Tags: relevance:core
 Investigative Direction: Check Neff's call log for the time and duration of the call.
@@ -1762,7 +1762,7 @@ Claim: In testimony played on air, Blake Neff says Mikey McCoy called his father
 Transcript Snippet: Dad, someone's shot Charlie. You need to call all of your pastor friends.
 
 Anchored Artifacts: A-2338
-Mentions: N-160, N-191, N-17
+Mentions: N-159, N-190, N-17
 Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Check pastors' accounts for the time they first heard from McCoy's father and compare it with the call log.
@@ -1778,7 +1778,7 @@ Claim: The host says the SUV that Blake Neff and Danny Philip used was a big SUV
 Transcript Snippet: you have this big SUV that you rented
 
 Anchored Artifacts: 
-Mentions: N-160, N-368
+Mentions: N-159, N-367
 Related Nodes: N-10823
 Tags: relevance:core
 Investigative Direction: Obtain rental records for the Denalis and identify who rented them.
@@ -1810,7 +1810,7 @@ Claim: The host says the video Matt Walsh shared was clearly sent out for a bunc
 Transcript Snippet: he shares this video, which was clearly sent out for a bunch of people to share and to try to delude the public into believing that that is what was happening
 
 Anchored Artifacts: A-2332
-Mentions: N-164, N-426
+Mentions: N-163, N-425
 Related Nodes: N-10824
 Tags: relevance:context
 Investigative Direction: Trace the clip's first posting account and its spread.
@@ -1842,7 +1842,7 @@ Claim: Defense counsel Richard Novak says in the audio played that it is true Mr
 Transcript Snippet: It is true that Mr. Kirk spoke hatefully of certain groups of people.
 
 Anchored Artifacts: A-2336
-Mentions: N-426, N-1
+Mentions: N-425, N-1
 Related Nodes: N-10824, N-10825
 Tags: relevance:core
 Investigative Direction: Obtain the full hearing transcript to verify the wording and context.
@@ -1858,7 +1858,7 @@ Claim: Novak says in the audio played that the evidence from Mr. Twiggs is that 
 Transcript Snippet: it is true that the evidence from Mr. Twiggs is that um he identified in a non-gender-conforming way to his friends, and that he was in a romantic relationship with Mr. Robinson.
 
 Anchored Artifacts: A-2336
-Mentions: N-426, N-54, N-40
+Mentions: N-425, N-54, N-40
 Related Nodes: N-10825
 Tags: relevance:core
 Investigative Direction: Check the hearing record for what Twiggs's evidence consisted of and whether it was hearsay.
@@ -1874,7 +1874,7 @@ Claim: Novak says in the audio played that there is a significant gap between wh
 Transcript Snippet: And it's a significant gap because what it allows the state to do is to make it up.
 
 Anchored Artifacts: A-2336
-Mentions: N-426, N-1, N-40
+Mentions: N-425, N-1, N-40
 Related Nodes: N-10825
 Tags: relevance:core
 Investigative Direction: Read the defense filing on political expression and the statutory wording cited.
@@ -1954,7 +1954,7 @@ Claim: The host says Mikey McCoy turns around for what she thinks is about 0.75 
 Transcript Snippet: it is literally a split second that Mikey turns around. I think it's like 0.75 of a second.
 
 Anchored Artifacts: A-2339
-Mentions: N-191, N-1, N-160
+Mentions: N-190, N-1, N-159
 Related Nodes: N-10198
 Supports: C-3386
 Tags: relevance:core
@@ -1971,7 +1971,7 @@ Claim: The host says Blake Neff is easily the most community-noted employee of t
 Transcript Snippet: when he is easily the most community noted employee of the Charlie Kirk Show.
 
 Anchored Artifacts: 
-Mentions: N-160
+Mentions: N-159
 Related Nodes: N-10845
 Tags: relevance:context
 Investigative Direction: Count Community Notes attached to Neff's posts compared with other staff.
@@ -2034,7 +2034,7 @@ Claim: The host says the people Charlie Kirk was arguing with the day before, an
 Transcript Snippet: the people that Charlie is arguing with the day before and the cause that he is leaving also happen to be the first people that knew that he was dead.
 
 Anchored Artifacts: A-2340
-Mentions: N-1, N-209
+Mentions: N-1, N-208
 Related Nodes: N-10818, N-10025
 Tags: relevance:core
 Investigative Direction: Identify who is meant and when each person first learned of Kirk's death.
@@ -2065,7 +2065,7 @@ Claim: The host says she issued her verdict on the Lindsay Clancy case early on 
 Transcript Snippet: I told you very early on I had issued my verdict before this ever went to trial.
 
 Anchored Artifacts: A-2340
-Mentions: N-203, N-3
+Mentions: N-202, N-3
 Tags: relevance:tangential
 Investigative Direction: Locate the host's earlier statement on Clancy.
 
@@ -2080,7 +2080,7 @@ Claim: The host says she does not do things halfway and treated the Blake Lively
 Transcript Snippet: Like it was with the Blake and Justin Baldoni case, as it it was with the Kamala Chronicles, and as it is now with the Charlie Kirk case.
 
 Anchored Artifacts: A-2340
-Mentions: N-3, N-486
+Mentions: N-3, N-485
 Tags: relevance:tangential
 Investigative Direction: Review the host's prior series for comparable depth.
 
@@ -2125,7 +2125,7 @@ Claim: The host says there are things she is holding back because of the Brian H
 Transcript Snippet: obviously there's some stuff I'm holding back cuz of the Brian Harpole case
 
 Anchored Artifacts: 
-Mentions: N-3, N-267
+Mentions: N-3, N-266
 Related Nodes: N-10651
 Tags: relevance:context
 Investigative Direction: Check the docket for the Harpole case and the host's earlier mentions of it.
@@ -2141,7 +2141,7 @@ Claim: The host says people are now arguing that Charlie did think he was going 
 Transcript Snippet: they're like, "Oh, Charlie did think he was going to die."
 
 Anchored Artifacts: 
-Mentions: N-1, N-267, N-3
+Mentions: N-1, N-266, N-3
 Related Nodes: N-10320
 Supports: C-3368, C-11320
 Tags: relevance:core

@@ -79,7 +79,7 @@
           "related_nodes": [
             "N-10866",
             "N-2",
-            "N-218"
+            "N-217"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -131,8 +131,8 @@
           ],
           "related_nodes": [
             "N-10218",
-            "N-497",
-            "N-191",
+            "N-496",
+            "N-190",
             "N-1",
             "N-2"
           ],
@@ -515,8 +515,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host alleges gatekeeping of the will appointment and contrasts profile “shrine office” claims with early McCoy use of Charlie’s home-office space / Fox hits.",
@@ -536,8 +536,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-238",
-      "ref": "N-238",
+      "@id": "N-237",
+      "ref": "N-237",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Referenced regarding Erika’s December interview claim that Charlie was unconcerned about death threats the night before (contrast with DeGroote framing).",
@@ -553,8 +553,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Named among fall-2025 public appearances in the host’s wardrobe catalog rebutting “only thing that fit.”",
@@ -570,8 +570,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-218",
-      "ref": "N-218",
+      "@id": "N-217",
+      "ref": "N-217",
       "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Prior public thread claiming she went to Aloe for clothes; host contrasts with profile’s Erika-directed account.",
@@ -589,8 +589,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Referenced in post-review segment as heavily debunked by Lake Forest Group relative to Shawn Ryan narrative.",
@@ -625,8 +625,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-497",
-      "ref": "N-497",
+      "@id": "N-496",
+      "ref": "N-496",
       "name": "Doug DeGroote",
       "type": "person",
       "description": "Board member / couple’s financial adviser quoted on will appointment and on media pressure driving 48-hour CEO vote.",
@@ -645,8 +645,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "Opening callback: host’s July 18 tweet predicting Vanity Fair widow spread; Neff bookmarked it.",
@@ -701,7 +701,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -868,7 +868,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-218"
+        "N-217"
       ]
     },
     {
@@ -983,8 +983,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Guest co-host in earlier episodes; the host says he had the scoop that the UVU review would be bad for TPUSA.",
@@ -1000,8 +1000,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-212",
-      "ref": "N-212",
+      "@id": "N-211",
+      "ref": "N-211",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Fox host; the host dates an Erika Kirk interview with him to November 5 as part of her outfit list.",
@@ -1017,8 +1017,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-225",
-      "ref": "N-225",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcaster on whose show the host says Brian Harpole gave the narrative the review debunks.",
@@ -1034,8 +1034,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-523",
-      "ref": "N-523",
+      "@id": "N-522",
+      "ref": "N-522",
       "name": "Nicki Minaj",
       "type": "person",
       "description": "Named by the host among Erika Kirk's December appearances.",
@@ -1441,7 +1441,7 @@
       "investigative_direction": "Preserve profile text; archive Elizabeth McCoy thread; seek staff corroboration without minting new Persons.",
       "mentions_person_refs": [
         "N-2",
-        "N-218"
+        "N-217"
       ]
     },
     {
@@ -1482,8 +1482,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-191",
-        "N-497"
+        "N-190",
+        "N-496"
       ]
     },
     {
@@ -1609,7 +1609,7 @@
       "investigative_direction": "Timestamp board vote vs public announce vs contemporaneous press queries; seek board minutes if ever produced.",
       "mentions_person_refs": [
         "N-2",
-        "N-497"
+        "N-496"
       ]
     },
     {
@@ -1632,7 +1632,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -1805,7 +1805,7 @@
         "C-6293"
       ],
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-1"
       ]
     },
@@ -1926,7 +1926,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-212"
+        "N-211"
       ]
     },
     {
@@ -1951,7 +1951,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-16",
-        "N-279"
+        "N-278"
       ]
     },
     {
@@ -1976,7 +1976,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-10",
-        "N-523"
+        "N-522"
       ]
     },
     {
@@ -2088,7 +2088,7 @@
       "investigative_direction": "Identify the pastor and the security team's written recommendations; compare with Charlie not wearing a vest on September 10.",
       "transcript_snippet": "The night before Charlie was killed, he had been discussing with Erika and their pastor recommendations from his security team, which included bulletproof glass shields and vests.",
       "mentions_person_refs": [
-        "N-497",
+        "N-496",
         "N-1",
         "N-2"
       ]
@@ -2110,7 +2110,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-238",
+        "N-237",
         "N-1"
       ]
     },
@@ -2220,7 +2220,7 @@
       "investigative_direction": "Confirm the quote in the published profile and request board minutes on the succession decision.",
       "transcript_snippet": "Degrroot says Erika saved Turning Point two or three years of searching for and training a new CEO from outside the organization.",
       "mentions_person_refs": [
-        "N-497",
+        "N-496",
         "N-2"
       ]
     },
@@ -2237,7 +2237,7 @@
       "investigative_direction": "Identify the earlier episode where the host first said this and any messages from DeGroote to media contacts.",
       "transcript_snippet": "he was, I told you early on, one of the people that was like crazy behind the scenes and wanting me to be crushed in the media.",
       "mentions_person_refs": [
-        "N-497",
+        "N-496",
         "N-3"
       ]
     },
@@ -2304,7 +2304,7 @@
         "C-3489"
       ],
       "mentions_person_refs": [
-        "N-331",
+        "N-330",
         "N-3"
       ]
     },
@@ -2327,8 +2327,8 @@
         "C-3589"
       ],
       "mentions_person_refs": [
-        "N-267",
-        "N-225",
+        "N-266",
+        "N-224",
         "N-3"
       ]
     },

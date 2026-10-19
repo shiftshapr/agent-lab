@@ -31,8 +31,8 @@
             "C-1840"
           ],
           "related_nodes": [
-            "N-312",
-            "N-160",
+            "N-311",
+            "N-159",
             "N-1",
             "N-2",
             "N-10313"
@@ -55,7 +55,7 @@
             "C-1841"
           ],
           "related_nodes": [
-            "N-160",
+            "N-159",
             "N-2",
             "N-1",
             "N-10313"
@@ -84,7 +84,7 @@
             "C-1842"
           ],
           "related_nodes": [
-            "N-160",
+            "N-159",
             "N-10313",
             "N-2"
           ],
@@ -112,7 +112,7 @@
             "C-1843"
           ],
           "related_nodes": [
-            "N-305",
+            "N-304",
             "N-1",
             "N-2"
           ],
@@ -166,8 +166,8 @@
           ],
           "related_nodes": [
             "N-10311",
-            "N-308",
-            "N-309"
+            "N-307",
+            "N-308"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -186,7 +186,7 @@
             "C-1849"
           ],
           "related_nodes": [
-            "N-308",
+            "N-307",
             "N-10311"
           ],
           "tags": [],
@@ -205,7 +205,7 @@
             "C-1849"
           ],
           "related_nodes": [
-            "N-308",
+            "N-307",
             "N-10311"
           ],
           "tags": [],
@@ -224,7 +224,7 @@
             "C-1850"
           ],
           "related_nodes": [
-            "N-308",
+            "N-307",
             "N-10311"
           ],
           "tags": [],
@@ -245,8 +245,8 @@
             "C-1853"
           ],
           "related_nodes": [
+            "N-308",
             "N-309",
-            "N-310",
             "N-10311"
           ],
           "tags": [],
@@ -291,7 +291,7 @@
             "C-1854"
           ],
           "related_nodes": [
-            "N-160",
+            "N-159",
             "N-10313"
           ],
           "tags": [],
@@ -345,7 +345,7 @@
             "C-1856"
           ],
           "related_nodes": [
-            "N-311",
+            "N-310",
             "N-10315"
           ],
           "tags": [],
@@ -426,8 +426,8 @@
             "C-1852"
           ],
           "related_nodes": [
-            "N-310",
             "N-309",
+            "N-308",
             "N-10311"
           ],
           "tags": [],
@@ -621,8 +621,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Blake Neff",
       "type": "person",
       "description": "TPUSA spokesperson featured in artifact-anchored audio segment and X post.",
@@ -665,14 +665,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-160",
+        "N-159",
         "N-10313"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-305",
-      "ref": "N-305",
+      "@id": "N-304",
+      "ref": "N-304",
       "name": "The Game",
       "type": "person",
       "description": "Recording artist whose track \"The Assassination of Candace Owens\" is presented in the episode.",
@@ -693,8 +693,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-308",
-      "ref": "N-308",
+      "@id": "N-307",
+      "ref": "N-307",
       "name": "Jacob Kasparian",
       "type": "person",
       "description": "Individual identified in UVU September 10 footage by host; subject of non-ducking, recording, and clothing-change observations. Spelled \"Jacob Kasparian\" once in transcript – see Optional Flags.",
@@ -719,8 +719,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-309",
-      "ref": "N-309",
+      "@id": "N-308",
+      "ref": "N-308",
       "name": "Adam Bartholomew",
       "type": "person",
       "description": "Live-streamer of the UVU event; identified in host's footage analysis.",
@@ -737,14 +737,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-310",
+        "N-309",
         "N-10311"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-310",
-      "ref": "N-310",
+      "@id": "N-309",
+      "ref": "N-309",
       "name": "Carrie Bartholomew",
       "type": "person",
       "description": "Spouse of Adam Bartholomew; confirmed in her own social media post as being in the courtyard during the shot.",
@@ -760,14 +760,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-309",
+        "N-308",
         "N-10311"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-311",
-      "ref": "N-311",
+      "@id": "N-310",
+      "ref": "N-310",
       "name": "Emmanuel Bierer",
       "type": "person",
       "description": "Eyewitness featured in PBS interview clip; host notes his selection by mainstream media.",
@@ -788,8 +788,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-312",
-      "ref": "N-312",
+      "@id": "N-311",
+      "ref": "N-311",
       "name": "\"Gina\" (Charlie Kirk Show caller)",
       "type": "person",
       "description": "Caller who posed question to Blake Neff regarding invitation mechanics.",
@@ -803,7 +803,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-160",
+        "N-159",
         "N-10313"
       ]
     },
@@ -842,9 +842,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-307",
         "N-308",
-        "N-309",
-        "N-310"
+        "N-309"
       ]
     },
     {
@@ -897,9 +897,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-160",
+        "N-159",
         "N-14",
-        "N-312",
+        "N-311",
         "N-2"
       ]
     },
@@ -943,7 +943,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-311"
+        "N-310"
       ]
     },
     {
@@ -1155,8 +1155,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Subject of the comment and host remark about an interview of Erika Kirk.",
@@ -1173,8 +1173,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-283",
-      "ref": "N-283",
+      "@id": "N-282",
+      "ref": "N-282",
       "name": "Adam Sosnick",
       "type": "person",
       "description": "Source of the remark the host attributes to him.",
@@ -1283,8 +1283,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-912",
-      "ref": "N-912",
+      "@id": "N-909",
+      "ref": "N-909",
       "name": "John McCain",
       "type": "person",
       "description": "First named by the host at 00:17:54 in episode 42; the host identifies him as the speaker in a clip addressing protesters in Ukraine.",
@@ -1319,7 +1319,7 @@
       "investigative_direction": "Obtain the full unedited Charlie Kirk Show audio segment and any internal TPUSA communications referencing Erika Kirk's approval.",
       "mentions_person_refs": [
         "N-2",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -1338,7 +1338,7 @@
       "claim_timestamp": "00:06:44",
       "investigative_direction": "Compare this stated rationale against any prior TPUSA live stream format decisions, particularly those involving remote participation.",
       "mentions_person_refs": [
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -1357,7 +1357,7 @@
       "claim_timestamp": "00:11:14",
       "investigative_direction": "Obtain the original December 3 (approx.) Blake Neff statement text and any follow-up communication that added an in-person condition.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-3"
       ]
     },
@@ -1376,7 +1376,7 @@
       "investigative_direction": "Obtain the full released track and verify publication date, distribution platform, and producer credits.",
       "mentions_person_refs": [
         "N-1",
-        "N-305",
+        "N-304",
         "N-3"
       ]
     },
@@ -1427,7 +1427,7 @@
       "claim_timestamp": "00:46:13",
       "investigative_direction": "Retrieve the original X post with timestamp and any replies; obtain any direct communication records between TPUSA and Candace Owens's representatives.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-3"
       ]
     },
@@ -1466,7 +1466,7 @@
       "claim_timestamp": "00:32:42–00:33:55",
       "investigative_direction": "Obtain the original PBS segment, identify the producer/assignment editor, and verify how Bierer was identified as a witness.",
       "mentions_person_refs": [
-        "N-311"
+        "N-310"
       ]
     },
     {
@@ -1485,7 +1485,7 @@
       "claim_timestamp": "00:24:00–00:24:45",
       "investigative_direction": "Obtain the original full-length footage to confirm the absence of ducking and any subsequent movement.",
       "mentions_person_refs": [
-        "N-308"
+        "N-307"
       ]
     },
     {
@@ -1504,7 +1504,7 @@
       "claim_timestamp": "00:25:00–00:25:35",
       "investigative_direction": "Obtain any phone-recorded footage from Jacob Kasparian or his device via subpoena/preservation order.",
       "mentions_person_refs": [
-        "N-308"
+        "N-307"
       ]
     },
     {
@@ -1523,7 +1523,7 @@
       "claim_timestamp": "00:24:50–00:25:25",
       "investigative_direction": "Obtain the original Facebook post with timestamp metadata; verify whether the timestamp was edited for timezone.",
       "mentions_person_refs": [
-        "N-308"
+        "N-307"
       ]
     },
     {
@@ -1542,7 +1542,7 @@
       "claim_timestamp": "00:26:30–00:28:00",
       "investigative_direction": "Obtain the full Adam Bartholomew livestream VOD and metadata for forensic review.",
       "mentions_person_refs": [
-        "N-309"
+        "N-308"
       ]
     },
     {
@@ -1562,7 +1562,7 @@
       "claim_timestamp": "00:27:30–00:28:00",
       "investigative_direction": "Retrieve the original Carrie Bartholomew tweet with image metadata and timestamp.",
       "mentions_person_refs": [
-        "N-310"
+        "N-309"
       ]
     },
     {
@@ -1581,8 +1581,8 @@
       "claim_timestamp": "00:27:51–00:28:00",
       "investigative_direction": "Review the full Bartholomew livestream timeline and any subsequent communication regarding his wife's location.",
       "mentions_person_refs": [
-        "N-309",
-        "N-310"
+        "N-308",
+        "N-309"
       ]
     },
     {
@@ -1702,7 +1702,7 @@
       "investigative_direction": "Obtain TPUSA corporate filings or official communications confirming Erika Kirk's current title and date of appointment.",
       "mentions_person_refs": [
         "N-2",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -1721,7 +1721,7 @@
       "claim_timestamp": "00:07:32",
       "investigative_direction": "Monitor TPUSA channels for confirmation and document the actual event for artifact capture.",
       "mentions_person_refs": [
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -1769,8 +1769,8 @@
         "C-1832"
       ],
       "mentions_person_refs": [
-        "N-312",
-        "N-160",
+        "N-311",
+        "N-159",
         "N-3"
       ]
     },
@@ -1794,7 +1794,7 @@
       "investigative_direction": "Compare with TPUSA's earlier statements and staff messages about whether and when it chose not to respond.",
       "transcript_snippet": "we initially just thought no one would believe a lot of what was being said and we also just we we remembered the same friendship that Charlie had",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-1",
         "N-3"
       ]
@@ -1818,7 +1818,7 @@
       "investigative_direction": "Obtain the Wednesday show audio and any internal scheduling messages showing when December 15 was chosen.",
       "transcript_snippet": "We actually hadn't agreed on it at the time I read the statement.",
       "mentions_person_refs": [
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -1840,7 +1840,7 @@
       "investigative_direction": "Compare with the text of the original Wednesday statement to see whether in-person attendance was stated then.",
       "transcript_snippet": "once we announce it Candace is free to attend in person.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-3"
       ]
     },
@@ -1863,7 +1863,7 @@
       "investigative_direction": "Find the host's earlier public statement or message using the phrase and compare it with the December announcement.",
       "transcript_snippet": "Candace for her part had said you name the time, you name the place. That is what we did.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-3"
       ]
     },
@@ -1886,7 +1886,7 @@
       "investigative_direction": "Check whether TPUSA sent the host or her team any direct notice before the public post.",
       "transcript_snippet": "I don't think she had any difficulty in finding out what our what our scheduled time was. It seems everyone found it out quite quickly.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-3"
       ]
     },
@@ -1910,7 +1910,7 @@
       "transcript_snippet": "He's like, \"It's not authentic unless it's it's a person is in person and Andrew Kolvet is literally not in person as he's answering his questions.\"",
       "mentions_person_refs": [
         "N-14",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2003,7 +2003,7 @@
         "C-1841"
       ],
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-3"
       ]
     },
@@ -2029,7 +2029,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2132,7 +2132,7 @@
       "investigative_direction": "Treat as the host's sweeping historical assertion; assess against documented accounts of the 2013 to 2014 events.",
       "transcript_snippet": "when John McCain went over there and led the protesters in the streets, he was really representing the voice of the people. It was not another United States military color revolution.",
       "mentions_person_refs": [
-        "N-912",
+        "N-909",
         "N-3"
       ]
     },
@@ -2153,7 +2153,7 @@
       "investigative_direction": "Identify the source video and date of the McCain speech.",
       "transcript_snippet": "People of Ukraine, this is your moment.",
       "mentions_person_refs": [
-        "N-912"
+        "N-909"
       ]
     },
     {
@@ -2177,7 +2177,7 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-912",
+        "N-909",
         "N-3"
       ]
     },
@@ -2247,7 +2247,7 @@
       "transcript_snippet": "when I got in touch with this individual and he sent me the footage, my eye immediately gravitated towards another person who happened to be wearing maroon",
       "mentions_person_refs": [
         "N-3",
-        "N-308"
+        "N-307"
       ]
     },
     {
@@ -2294,7 +2294,7 @@
       "investigative_direction": "Compare with the host's later statements about Kasparian.",
       "transcript_snippet": "I do not think he shot Harley Charlie Kirk",
       "mentions_person_refs": [
-        "N-308",
+        "N-307",
         "N-1",
         "N-3"
       ]
@@ -2318,7 +2318,7 @@
       "investigative_direction": "Review crowd footage for companions of Kasparian.",
       "transcript_snippet": "it's unusual that he attended the event alone.",
       "mentions_person_refs": [
-        "N-308"
+        "N-307"
       ]
     },
     {
@@ -2343,7 +2343,7 @@
         "C-1850"
       ],
       "mentions_person_refs": [
-        "N-308"
+        "N-307"
       ]
     },
     {
@@ -2365,7 +2365,7 @@
       "investigative_direction": "Track Kasparian's position through crowd footage in the two minutes before 12:23.",
       "transcript_snippet": "He's up high. Um and then he's at the lower rung 2 minutes before Charlie gets shot.",
       "mentions_person_refs": [
-        "N-308",
+        "N-307",
         "N-1"
       ]
     },
@@ -2389,7 +2389,7 @@
         "C-9800"
       ],
       "mentions_person_refs": [
-        "N-308",
+        "N-307",
         "N-1",
         "N-3"
       ]
@@ -2436,7 +2436,7 @@
       "investigative_direction": "Check the host's earlier episodes for any mention of Bartholomew.",
       "transcript_snippet": "I have never ever said anything about Adam Bartholomew. I have reviewed his footage, but people online were clocking him as suspicious.",
       "mentions_person_refs": [
-        "N-309",
+        "N-308",
         "N-3"
       ]
     },
@@ -2462,9 +2462,9 @@
         "C-1852"
       ],
       "mentions_person_refs": [
-        "N-310",
         "N-309",
-        "N-308"
+        "N-308",
+        "N-307"
       ]
     },
     {
@@ -2532,7 +2532,7 @@
       "investigative_direction": "Check public professional profiles for Bierer's employer history and location.",
       "transcript_snippet": "he's a former employee of Oracle. He's in engineering. Uh, I believe he's from Germany from what I looked into.",
       "mentions_person_refs": [
-        "N-311",
+        "N-310",
         "N-3"
       ]
     },
@@ -2556,7 +2556,7 @@
         "C-1847"
       ],
       "mentions_person_refs": [
-        "N-311",
+        "N-310",
         "N-3"
       ]
     },
@@ -2604,7 +2604,7 @@
       "investigative_direction": "Obtain the full PBS segment and the date it aired.",
       "transcript_snippet": "I hear this loud sound and I'm like, \"That wasn't what I thought it was, is it?\" I was like, \"No, this can't be happening right now.\" And we all ducked.",
       "mentions_person_refs": [
-        "N-311"
+        "N-310"
       ]
     },
     {
@@ -2627,7 +2627,7 @@
         "C-1826"
       ],
       "mentions_person_refs": [
-        "N-305",
+        "N-304",
         "N-3"
       ]
     },
@@ -2648,7 +2648,7 @@
       "investigative_direction": "Verify the lyric against the released track.",
       "transcript_snippet": "his body is not yet settled in the dirt. Why are you carrying on like that?",
       "mentions_person_refs": [
-        "N-305",
+        "N-304",
         "N-1"
       ]
     },
@@ -2820,7 +2820,7 @@
       "investigative_direction": "Check contemporaneous reporting on the circumstances of Neff's departure from Fox News; the host did not endorse the claim.",
       "transcript_snippet": "is a guy who was fired by Tucker Carlson for racist remarks.",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-22"
       ]
     },
@@ -2844,7 +2844,7 @@
       "transcript_snippet": "I actually didn't know that Blake Neff used to work for Tucker Carlson.",
       "mentions_person_refs": [
         "N-3",
-        "N-160",
+        "N-159",
         "N-22"
       ]
     },
@@ -2871,7 +2871,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2911,7 +2911,7 @@
         "C-1800"
       ],
       "mentions_person_refs": [
-        "N-283",
+        "N-282",
         "N-22",
         "N-3"
       ]
@@ -2971,7 +2971,7 @@
       "investigative_direction": "Time the Wednesday segment to test the ten-minute claim.",
       "transcript_snippet": "their entire introduction to this live stream was him speaking for 10 minutes and assassinating my character",
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-3"
       ]
     },
@@ -2995,7 +2995,7 @@
         "C-1839"
       ],
       "mentions_person_refs": [
-        "N-160",
+        "N-159",
         "N-2",
         "N-3"
       ]
@@ -3037,7 +3037,7 @@
       "investigative_direction": "Check CBS announcements for the Weiss interview date.",
       "transcript_snippet": "Bari Weiss is interviewing Erika Kirk on December 13th.",
       "mentions_person_refs": [
-        "N-279",
+        "N-278",
         "N-2"
       ]
     },
@@ -3059,7 +3059,7 @@
         "C-12474"
       ],
       "mentions_person_refs": [
-        "N-279",
+        "N-278",
         "N-2",
         "N-3"
       ]

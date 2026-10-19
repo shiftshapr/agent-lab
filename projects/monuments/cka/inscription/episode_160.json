@@ -32,7 +32,7 @@
           "related_nodes": [
             "N-10875",
             "N-3",
-            "N-263"
+            "N-262"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -59,8 +59,8 @@
           ],
           "related_nodes": [
             "N-10876",
-            "N-203",
-            "N-207"
+            "N-202",
+            "N-206"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -134,8 +134,8 @@
           ],
           "related_nodes": [
             "N-7",
-            "N-272",
             "N-271",
+            "N-270",
             "N-58",
             "N-10839"
           ],
@@ -164,8 +164,8 @@
           ],
           "related_nodes": [
             "N-10877",
-            "N-166",
-            "N-173",
+            "N-165",
+            "N-172",
             "N-9",
             "N-10324"
           ],
@@ -193,8 +193,8 @@
           ],
           "related_nodes": [
             "N-10878",
-            "N-178",
-            "N-195"
+            "N-177",
+            "N-194"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -220,7 +220,7 @@
           ],
           "related_nodes": [
             "N-10879",
-            "N-331",
+            "N-330",
             "N-3"
           ],
           "tags": [],
@@ -419,7 +419,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10324",
-        "N-166"
+        "N-165"
       ]
     },
     {
@@ -485,7 +485,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -572,8 +572,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-209",
-      "ref": "N-209",
+      "@id": "N-208",
+      "ref": "N-208",
       "name": "Jack Hibbs",
       "type": "person",
       "description": "Referenced as Facetime counterpart in Turek hospital narrative the host contrasts with missing fire-captain CPR.",
@@ -592,8 +592,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Security lead whose long hospital story (no CPR in car) conflicts with Turek and with the review's fire-captain CPR.",
@@ -613,8 +613,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Dan Flood",
       "type": "person",
       "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
@@ -632,8 +632,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Jeff Long",
       "type": "person",
       "description": "UVU police chief; Turek recounts Long saying he was thrown under the bus and arguing only the bridge roof was covered.",
@@ -654,8 +654,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -676,8 +676,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-367",
-      "ref": "N-367",
+      "@id": "N-366",
+      "ref": "N-366",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Mentioned in a viewer comment the host answers dismissively.",
@@ -783,7 +783,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-214",
+        "N-213",
         "N-10666"
       ]
     },
@@ -804,7 +804,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-214"
+        "N-213"
       ]
     },
     {
@@ -844,7 +844,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-267",
+        "N-266",
         "N-7"
       ]
     },
@@ -996,7 +996,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-3",
-        "N-263",
+        "N-262",
         "N-10867"
       ]
     },
@@ -1020,8 +1020,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-203",
-        "N-207",
+        "N-202",
+        "N-206",
         "N-2"
       ]
     },
@@ -1045,8 +1045,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-166",
-        "N-173",
+        "N-165",
+        "N-172",
         "N-9",
         "N-10324"
       ]
@@ -1070,8 +1070,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-178",
-        "N-195"
+        "N-177",
+        "N-194"
       ]
     },
     {
@@ -1093,14 +1093,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-331",
+        "N-330",
         "N-3"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-166",
-      "ref": "N-166",
+      "@id": "N-165",
+      "ref": "N-165",
       "name": "Howard Lutnick",
       "type": "person",
       "description": "U.S. Commerce Secretary and former BGC Group CEO; host says whistleblower Simon Andriesz flagged his Epstein island visits and a 2018 startup email chain with Epstein.",
@@ -1123,8 +1123,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-173",
-      "ref": "N-173",
+      "@id": "N-172",
+      "ref": "N-172",
       "name": "Simon Andriesz",
       "type": "person",
       "description": "Former British banker / BGC managing director reported dead after whistleblowing on Lutnick-Epstein links; host cites BBC attribution and a suicide narrative she calls remarkably suspicious.",
@@ -1142,13 +1142,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10877",
-        "N-166"
+        "N-165"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-178",
-      "ref": "N-178",
+      "@id": "N-177",
+      "ref": "N-177",
       "name": "Zach Bryan",
       "type": "person",
       "description": "Country singer who (per host) wore Free Palestine shirts with his band for two Gillette Stadium nights and broke the attendance record previously held by Ed Sheeran.",
@@ -1169,8 +1169,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-195",
-      "ref": "N-195",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Robert Kraft",
       "type": "person",
       "description": "Gillette Stadium owner who (per host) canceled Macklemore after a Free Palestine stage remark; host contrasts that with Zach Bryan's later record nights.",
@@ -1191,8 +1191,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-203",
-      "ref": "N-203",
+      "@id": "N-202",
+      "ref": "N-202",
       "name": "Lindsay Clancy",
       "type": "person",
       "description": "Mother whose case the host says seeded the current killer-mom algorithm push; she notes she did not follow the case closely and treats the surrounding TikTok empathy clips as SCOP bait.",
@@ -1214,8 +1214,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-207",
-      "ref": "N-207",
+      "@id": "N-206",
+      "ref": "N-206",
       "name": "Nancy Mace",
       "type": "person",
       "description": "U.S. Representative shown on air pushing killer-mom epidemic framing in clips and tweets; host notes her AIPAC funding and Israel loyalty as context for SCOP intent.",
@@ -1237,8 +1237,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-214",
-      "ref": "N-214",
+      "@id": "N-213",
+      "ref": "N-213",
       "name": "Nick Shirley",
       "type": "person",
       "description": "Independent journalist; host revisits him as relatively unknown figure pushed on Somali daycare welfare story and as last guest on the Charlie Kirk Show, booked by Andrew Kolvet. Prior CKA coverage existed only as investigation topics N-10559 / N-10666.",
@@ -1281,8 +1281,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-226",
-      "ref": "N-226",
+      "@id": "N-225",
+      "ref": "N-225",
       "name": "Stephen Paddock",
       "type": "person",
       "description": "Named by investigators as the lone Las Vegas 2017 gunman who died by suicide before police entry; host uses the unresolved case as the template for media distraction via MeToo.",
@@ -1298,8 +1298,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-227",
-      "ref": "N-227",
+      "@id": "N-226",
+      "ref": "N-226",
       "name": "Harvey Weinstein",
       "type": "person",
       "description": "Subject of the New York Times MeToo explosion the host says displaced Las Vegas coverage within five days of the shooting.",
@@ -1315,8 +1315,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-263",
-      "ref": "N-263",
+      "@id": "N-262",
+      "ref": "N-262",
       "name": "Lisa Nose",
       "type": "person",
       "description": "X poster whose nanny/NDA mansion tweet the host reads as the week's Candyland attack; Nose cites Jessica Reed Kraus as original reporter.",
@@ -1388,8 +1388,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-282",
-      "ref": "N-282",
+      "@id": "N-281",
+      "ref": "N-281",
       "name": "Jennica Pounds",
       "type": "person",
       "description": "Reused node cited by new claims in this episode.",
@@ -1760,8 +1760,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-836",
-      "ref": "N-836",
+      "@id": "N-833",
+      "ref": "N-833",
       "name": "Macklemore",
       "type": "person",
       "description": "First named by the host at 00:44:26 in episode 160 (spelled McLemore in the transcript). Rapper the host says said Free Palestine on stage at the Gillette Stadium Ed Sheeran show.",
@@ -1777,8 +1777,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-837",
-      "ref": "N-837",
+      "@id": "N-834",
+      "ref": "N-834",
       "name": "Ed Sheeran",
       "type": "person",
       "description": "First named by the host at 00:44:26 in episode 160. Singer whose Gillette Stadium show Macklemore opened and whose attendance record the host says Zach Bryan broke.",
@@ -1884,7 +1884,7 @@
       "investigative_direction": "Preserve the original Nose and Kraus posts; seek any primary employment/immigration evidence rather than rumor chains.",
       "mentions_person_refs": [
         "N-3",
-        "N-263"
+        "N-262"
       ]
     },
     {
@@ -1905,8 +1905,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-203",
-        "N-207"
+        "N-202",
+        "N-206"
       ]
     },
     {
@@ -1924,8 +1924,8 @@
       "investigative_direction": "Verify the five-day media-shift claim against contemporary news indexes; treat Paddock/motive facts as investigator claims, not settled.",
       "mentions_person_refs": [
         "N-130",
-        "N-226",
-        "N-227"
+        "N-225",
+        "N-226"
       ]
     },
     {
@@ -1946,7 +1946,7 @@
       "investigative_direction": "Confirm Shirley appearance date/booking chain on Charlie Kirk Show; separate daycare reporting merits from distraction thesis.",
       "mentions_person_refs": [
         "N-14",
-        "N-214",
+        "N-213",
         "N-1"
       ]
     },
@@ -2009,7 +2009,7 @@
       "investigative_direction": "Align Turek, Harpole, and review timelines minute-by-minute; seek hospital/EMS records naming the captain.",
       "mentions_person_refs": [
         "N-7",
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2049,8 +2049,8 @@
       "mentions_person_refs": [
         "N-7",
         "N-58",
-        "N-271",
-        "N-272"
+        "N-270",
+        "N-271"
       ]
     },
     {
@@ -2073,8 +2073,8 @@
         "N-5",
         "N-9",
         "N-85",
-        "N-166",
-        "N-173"
+        "N-165",
+        "N-172"
       ]
     },
     {
@@ -2095,8 +2095,8 @@
       "investigative_direction": "Locate the BBC interview/article and any produced email exhibits; confirm dates relative to Epstein's legal status.",
       "mentions_person_refs": [
         "N-9",
-        "N-166",
-        "N-173"
+        "N-165",
+        "N-172"
       ]
     },
     {
@@ -2115,10 +2115,10 @@
       "claim_timestamp": "00:45:05",
       "investigative_direction": "Verify Kraft/Macklemore cancellation, Bryan set dates, shirt imagery, and official attendance figures vs Sheeran's prior mark.",
       "mentions_person_refs": [
-        "N-178",
-        "N-195",
-        "N-836",
-        "N-837"
+        "N-177",
+        "N-194",
+        "N-833",
+        "N-834"
       ]
     },
     {
@@ -2138,7 +2138,7 @@
       "investigative_direction": "Archive the trend posts and primary interview clips being recirculated; separate verified past statements from smear packaging.",
       "mentions_person_refs": [
         "N-3",
-        "N-331"
+        "N-330"
       ]
     },
     {
@@ -2221,7 +2221,7 @@
       "transcript_snippet": "Remember the second mansion that Laura Luma reported on?",
       "mentions_person_refs": [
         "N-3",
-        "N-263",
+        "N-262",
         "N-60"
       ]
     },
@@ -2286,7 +2286,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-227"
+        "N-226"
       ]
     },
     {
@@ -2307,7 +2307,7 @@
       "investigative_direction": "Check FEC and OpenSecrets records for AIPAC-linked contributions to Mace.",
       "transcript_snippet": "Nancy Mace, who has accepted over six figures from Apac and cannot utter a single bad word about Israel.",
       "mentions_person_refs": [
-        "N-207"
+        "N-206"
       ]
     },
     {
@@ -2332,7 +2332,7 @@
         "C-3618"
       ],
       "mentions_person_refs": [
-        "N-207"
+        "N-206"
       ]
     },
     {
@@ -2355,7 +2355,7 @@
       "investigative_direction": "Pull the Mace posts and the New York Post stories to confirm text and dates.",
       "transcript_snippet": "Also, perhaps the South Carolina legislature could make an exception to the death penalty by firing squad.",
       "mentions_person_refs": [
-        "N-207"
+        "N-206"
       ]
     },
     {
@@ -2378,7 +2378,7 @@
       "investigative_direction": "Retrieve the Libs of TikTok post and the South Carolina arrest record for the named woman.",
       "transcript_snippet": "Meet Tanisha Lache Jones, who was arrested and charged in South Carolina with homicide after her infant daughter was found with dead and lethal amounts of morphine in her system.",
       "mentions_person_refs": [
-        "N-203"
+        "N-202"
       ]
     },
     {
@@ -2648,7 +2648,7 @@
         "C-3547"
       ],
       "mentions_person_refs": [
-        "N-267"
+        "N-266"
       ]
     },
     {
@@ -2668,7 +2668,7 @@
       "investigative_direction": "Compare Harpole's interview wording with hospital staff and bodycam accounts.",
       "transcript_snippet": "He grabs a gurnie. He hops on top of that gurnie. He cuts off Charlie's Kirk. He's prepping Charlie uh for a defibrillator before he's uh talking through the medications that Charlie is going to need.",
       "mentions_person_refs": [
-        "N-267",
+        "N-266",
         "N-1"
       ]
     },
@@ -2693,8 +2693,8 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-209",
-        "N-267"
+        "N-208",
+        "N-266"
       ]
     },
     {
@@ -2849,7 +2849,7 @@
         "C-4942"
       ],
       "mentions_person_refs": [
-        "N-272"
+        "N-271"
       ]
     },
     {
@@ -2875,7 +2875,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-272",
+        "N-271",
         "N-1"
       ]
     },
@@ -2899,7 +2899,7 @@
       "transcript_snippet": "Well, they got here the day of. They should have been here the day before.",
       "mentions_person_refs": [
         "N-7",
-        "N-272",
+        "N-271",
         "N-1"
       ]
     },
@@ -3017,8 +3017,8 @@
       "investigative_direction": "Locate Andre's whistleblower filings and public statements.",
       "transcript_snippet": "And so he's now dead a after he was saying, \"Hey, there was some money laundering that was happening.\"",
       "mentions_person_refs": [
-        "N-173",
-        "N-166",
+        "N-172",
+        "N-165",
         "N-9"
       ]
     },
@@ -3041,7 +3041,7 @@
       "investigative_direction": "Collect Lutnick's dated statements on the island visit and any correction.",
       "transcript_snippet": "because earlier on Howard Lutnik said he had never visited the island. He'd never visit.",
       "mentions_person_refs": [
-        "N-166",
+        "N-165",
         "N-9"
       ]
     },
@@ -3128,8 +3128,8 @@
         "C-3458"
       ],
       "mentions_person_refs": [
-        "N-836",
-        "N-837"
+        "N-833",
+        "N-834"
       ]
     },
     {
@@ -3149,7 +3149,7 @@
       "investigative_direction": "Check the Florida court record for the dismissed case.",
       "transcript_snippet": "Robert Craft kind of, you know, on a technicality got a case dropped against him.",
       "mentions_person_refs": [
-        "N-195"
+        "N-194"
       ]
     },
     {
@@ -3212,7 +3212,7 @@
       "investigative_direction": "Verify the resignation and any employer statement.",
       "transcript_snippet": "we got to talk about uh the resignation of data Republican who was literally hired to go after me.",
       "mentions_person_refs": [
-        "N-282",
+        "N-281",
         "N-68"
       ]
     },

@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: b8b7fc2a633b3553c7b59c525ff8b33ee7df3017e487dccce1e3382534f8853d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-757, N-11100, N-11101
-  - Hole-minted Nodes (reintro-ep021): N-210, N-330, N-10323, N-10353
-  - Tip-minted Nodes (reintro-ep021): N-662
+  - Tip-minted Nodes (supplement_2026-10b): N-755, N-11100, N-11101
+  - Hole-minted Nodes (reintro-ep021): N-209, N-329, N-10323, N-10353
+  - Tip-minted Nodes (reintro-ep021): N-660
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6512–C-6551
   - (see registers)
@@ -95,8 +95,8 @@ Confidence: high
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1283, A-1284, A-1285, A-1286, A-1287, A-1288, A-1289
   - Claim Range: C-1514–C-1526
-  - New Nodes Introduced: N-200, N-10200
-  - Reused Nodes Appearing: N-10201, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-179, N-191, N-10025, N-10047, N-10081, N-10139, N-10166, N-10350, N-10202, N-10319
+  - New Nodes Introduced: N-199, N-10200
+  - Reused Nodes Appearing: N-10201, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-178, N-190, N-10025, N-10047, N-10081, N-10139, N-10166, N-10350, N-10202, N-10319
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-131
 
 ---
@@ -193,7 +193,7 @@ Video Timestamp: 00:39:19–00:42:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1526, N-200*
+*Related: C-1526, N-199*
 
 **A-1289** Charlie Kirk Day Proclamation Bundle (verbally referenced, not shown)
 
@@ -231,7 +231,7 @@ Video Timestamp: 00:18:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6523, N-5, N-1, N-757*
+*Related: C-6523, N-5, N-1, N-755*
 
 ---
 
@@ -300,7 +300,7 @@ Investigative Pressure: Low
 
 *Related: A-1287.1, C-1522, C-1523, C-1525*
 
-**N-200** Norman Finkelstein
+**N-199** Norman Finkelstein
 
 Scholar and author; interviewee on upcoming Candace Owens episode regarding Gaza. Provides context but tangential to Kirk investigation per this episode.
 
@@ -443,7 +443,7 @@ TPUSA spokesperson; the host relays his account of Charlie's instructions and th
 
 ---
 
-**N-179** Jared Kushner
+**N-178** Jared Kushner
 
 Named by the host regarding Israel investments.
 
@@ -451,7 +451,7 @@ Named by the host regarding Israel investments.
 
 ---
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 Host says he is missing from the Charlie Kirk Show.
 
@@ -467,7 +467,7 @@ Widow and TPUSA CEO; named in the Don Jr. clip and in the Wikipedia timing.
 
 ---
 
-**N-210** Joe Kent
+**N-209** Joe Kent
 
 Official whose inquiry the host urges to continue.
 
@@ -499,7 +499,7 @@ Subject of the Megyn Kelly clip and the host's open address.
 
 ---
 
-**N-330** Tulsi Gabbard
+**N-329** Tulsi Gabbard
 
 DNI named alongside Joe Kent.
 
@@ -539,7 +539,7 @@ President; subject of the AI photo, memorial speech story and Epstein remark.
 
 ---
 
-**N-662** Ivanka Trump
+**N-660** Ivanka Trump
 
 Named by the host regarding Israel investments.
 
@@ -596,7 +596,7 @@ The host's recollection that Charlie Kirk told her TPUSA had found a person to c
 
 ---
 
-**N-757** Brilyn Hollyhand
+**N-755** Brilyn Hollyhand
 
 First named by the host at 00:18:15 in episode 21. Boy the host says Charlie Kirk interviewed in fourth grade, referenced in Trump's memorial speech.
 
@@ -688,7 +688,7 @@ Claim Timestamp: 00:20:44
 Claim: The host says a New York Times headline the day before concerned how upset Kash Patel was when he received an inquiry from Joe Kent, of Tulsi Gabbard's office, about details of the Charlie Kirk investigation, which apparently alarmed Patel; she suggests they were asking whether people overseas were involved.
 
 Anchored Artifacts: A-1286.1
-Mentions: N-1, N-69, N-210, N-330
+Mentions: N-1, N-69, N-209, N-329
 
 Related Nodes: N-10202
 
@@ -703,7 +703,7 @@ Claim Timestamp: 00:21:37
 Claim: The host says that, after the inquiry, Kash Patel apparently held a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard and Trump officials, that she thinks it said JD Vance was also in the meeting, and that nothing was accomplished.
 
 Anchored Artifacts: A-1286.1
-Mentions: N-131, N-69, N-4, N-210, N-330
+Mentions: N-131, N-69, N-4, N-209, N-329
 
 Related Nodes: N-10202
 
@@ -791,7 +791,7 @@ Claim Timestamp: 00:40:50
 Claim: In a trailer for an upcoming interview with the host, Norman Finkelstein is shown saying The Economist described Gaza as 'a human rubbish heap' and the leading UN official on Gaza described it as 'a toxic dump for the people of Israel', and asserting that a billionaire class of Jewish supremacists is flagrantly using money as a blackmail weapon to silence not just criticism of Jews but criticism of an ongoing genocide.
 
 Anchored Artifacts: A-1288.1
-Mentions: N-200, N-3
+Mentions: N-199, N-3
 
 
 Investigative Direction: Verify the quoted Economist and UN official attributions against original publications; this claim is tangential to the Kirk investigation but is presented within the same episode.
@@ -979,7 +979,7 @@ Claim: The host says Trump, in his speech at Charlie Kirk's memorial, told a sto
 Transcript Snippet: Even Trump's speech, remember when he just kind of worked in the story about uh Charlie interviewing a fourth grader and he was referring to Brilyn Hollyhand?
 
 Anchored Artifacts: A-2819.1
-Mentions: N-5, N-1, N-3, N-757
+Mentions: N-5, N-1, N-3, N-755
 Tags: relevance:context
 Investigative Direction: Compare the transcript of Trump's memorial speech with footage and dates of Charlie's interview with Brilyn Hollyhand to see who attended.
 
@@ -1025,7 +1025,7 @@ Claim: The host says that she thinks they are getting very close to what actuall
 Transcript Snippet: I'm getting the suspicion that there were some foreign entities involved.
 
 Anchored Artifacts: 
-Mentions: N-210, N-330, N-3
+Mentions: N-209, N-329, N-3
 Related Nodes: N-10202
 Tags: relevance:core
 Investigative Direction: Ask the host to identify the evidence behind the suspicion of foreign involvement, and compare with the Kent inquiry reported by the New York Times.
@@ -1041,7 +1041,7 @@ Claim: The host says Mikey McCoy, who took the seat after Charlie, is missing fr
 Transcript Snippet: Mikey McCoy is missing um from the Charlie Kirk show.
 
 Anchored Artifacts: 
-Mentions: N-191, N-14
+Mentions: N-190, N-14
 Tags: relevance:context
 Investigative Direction: Check the Charlie Kirk Show episode listing and host roster for the date of this episode.
 
@@ -1246,7 +1246,7 @@ Claim: The host tells Don Jr. that if he cannot say anything she understands the
 Transcript Snippet: They understand Jared, Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet
 
 Anchored Artifacts: 
-Mentions: N-179, N-662, N-33
+Mentions: N-178, N-660, N-33
 Related Nodes: N-10025
 Tags: relevance:context
 Investigative Direction: Review disclosures of Kushner and Ivanka Trump investments in Israel and any contact with Don Jr. on the Kirk case.
@@ -1262,7 +1262,7 @@ Claim: The host says she sat down with Norman Finkelstein for a conversation tha
 Transcript Snippet: have a conversation which we will be releasing on Friday uh with Norman Finkelestein.
 
 Anchored Artifacts: A-1288.1
-Mentions: N-200, N-3
+Mentions: N-199, N-3
 Tags: relevance:tangential
 Investigative Direction: Compare the release date of the Finkelstein interview with the host's stated Friday.
 
@@ -1277,7 +1277,7 @@ Claim: The host says Norman Finkelstein was the reason she had him on her show s
 Transcript Snippet: was the reason I had him on my show right after October 7th, sometime shortly thereafter when I was at the Daily Wire.
 
 Anchored Artifacts: 
-Mentions: N-200, N-3
+Mentions: N-199, N-3
 Tags: relevance:tangential
 Investigative Direction: Locate the Daily Wire episode with Finkelstein and check its date.
 
@@ -1447,7 +1447,7 @@ Investigative Direction: Historical assertion recorded as said; see the sources 
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use global people ledger (N-17, N-46, N-200); non-person investigation targets use N-10200+ series
+- [x] People nodes use global people ledger (N-17, N-46, N-199); non-person investigation targets use N-10200+ series
 - [x] No speculative or rhetorical claims inscribed as evidence-backed
 - [x] Names preserved as in transcript; uncertainties flagged
 - [x] No reuse of IDs from previous episodes; ledger continuation respected

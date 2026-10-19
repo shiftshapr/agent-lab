@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 6dd179617c93d9b189013177ccf6a13ebe005629aa7ab4b3c03e97804d4d7234
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-857, N-11243, N-11244
-  - Hole-minted Nodes (reintro-ep064): N-498, N-10689
+  - Tip-minted Nodes (supplement_2026-10d): N-854, N-11243, N-11244
+  - Hole-minted Nodes (reintro-ep064): N-497, N-10689
   - Tip-minted Nodes (reintro-ep064): N-11000
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9913–C-10010
@@ -34,9 +34,9 @@
 
 - Artifact Families Introduced: A-1686, A-1687, A-1688, A-1689
 - Claim Range: C-2206–C-2224
-  - New Nodes Introduced: N-497, N-10448, N-10449, N-10450
-  - Reused Nodes Appearing: N-10447, N-10446, N-14, N-22, N-36, N-97, N-196, N-202, N-222, N-232, N-362, N-471, N-494, N-10000, N-10027, N-10074, N-10238, N-10341, N-10342, N-10346, N-10416, N-10439, N-10452, N-10492, N-10548, N-10560, N-10899, N-10900, N-11014, N-11084, N-11092, N-11116, N-11180, N-11191, N-10554, N-11182, N-10561
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-262 (Terryl Farnsworth)
+  - New Nodes Introduced: N-496, N-10448, N-10449, N-10450
+  - Reused Nodes Appearing: N-10447, N-10446, N-14, N-22, N-36, N-97, N-195, N-201, N-221, N-231, N-361, N-470, N-493, N-10000, N-10027, N-10074, N-10238, N-10341, N-10342, N-10346, N-10416, N-10439, N-10452, N-10492, N-10548, N-10560, N-10899, N-10900, N-11014, N-11084, N-11092, N-11116, N-11180, N-11191, N-10554, N-11182, N-10561
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-261 (Terryl Farnsworth)
 
 ## 6. Meme Register
 
@@ -243,7 +243,7 @@ Video Timestamp: 00:24:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2206, C-2207, C-2220, N-187, N-262*
+*Related: C-2206, C-2207, C-2220, N-186, N-261*
 
 **A-1686.2** Main Address – "Family" Framing, Job-Safety Assurance, Self-Correction Around "Happy"
 
@@ -253,7 +253,7 @@ Video Timestamp: 00:17:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2206, C-2208, C-2209, C-2210, N-187, N-10448*
+*Related: C-2206, C-2208, C-2209, C-2210, N-186, N-10448*
 
 **A-1686.3** Closing Segment – "Be Soft With One Another," Airplane 15-Minute Story Attributed to "Usha," "So Sweet, God Bless You All"
 
@@ -275,7 +275,7 @@ Video Timestamp: 00:09:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2213, C-2214, N-2, N-497*
+*Related: C-2213, C-2214, N-2, N-496*
 
 **A-1688** Jeremy Boreing Interview Clip Bundle
 
@@ -287,7 +287,7 @@ Video Timestamp: 00:39:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2215, N-367*
+*Related: C-2215, N-366*
 
 **A-1688.2** Boreing on Candace as "Nuclear Energy" Doing "An Incredible Amount of Damage"
 
@@ -297,7 +297,7 @@ Video Timestamp: 00:40:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2216, C-2221, N-367*
+*Related: C-2216, C-2221, N-366*
 
 **A-1688.3** Boreing Comparing Candace's Show to "Rhetorical Pornography"
 
@@ -307,7 +307,7 @@ Video Timestamp: 00:41:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2217, C-2222, N-367*
+*Related: C-2217, C-2222, N-366*
 
 **A-1688.4** Boreing Claiming Candace Said "I Believe What the People Believe" on Two Occasions
 
@@ -317,7 +317,7 @@ Video Timestamp: 00:44:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2218, C-2223, N-367*
+*Related: C-2218, C-2223, N-366*
 
 **A-1689** The Bulwark Podcast Clip Bundle
 
@@ -329,7 +329,7 @@ Video Timestamp: 00:47:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2219, C-2224, N-367, N-10449*
+*Related: C-2219, C-2224, N-366, N-10449*
 
 ---
 
@@ -342,7 +342,7 @@ Video Timestamp: 00:15:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9948, N-187, N-2*
+*Related: C-9948, N-186, N-2*
 
 ---
 
@@ -357,7 +357,7 @@ Video Timestamp: 00:31:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9966, N-14, N-196*
+*Related: C-9966, N-14, N-195*
 
 ---
 
@@ -393,7 +393,7 @@ Confidence Level: Low
 
 # IV. NODE REGISTER
 
-**N-367** Jeremy Boreing
+**N-366** Jeremy Boreing
 
 Former CEO of The Daily Wire. Subject of multiple artifact-anchored claims in this episode regarding his characterization of Candace Owens and his management of the company's Hungarian production.
 
@@ -404,7 +404,7 @@ Investigative Pressure: Medium
 
 *Related: A-1688.1, A-1688.2, A-1688.3, A-1688.4, A-1689.1, C-2215, C-2216, C-2217, C-2218, C-2219, C-2221, C-2222, C-2223, C-2224, N-10449*
 
-**N-187** Stacy Sheridan
+**N-186** Stacy Sheridan
 
 Head of Fundraising for Turning Point USA. Referenced by name during the September 16 corporate Zoom call ("even Stacy said he's going to…find ways to speak to us"). Host alleges Sheridan traveled with Erika to Utah and was present at the hospital and during the casket arrival.
 
@@ -415,7 +415,7 @@ Investigative Pressure: Medium
 
 *Related: A-1686.2, C-2208*
 
-**N-497** Doug DeGroote
+**N-496** Doug DeGroote
 
 TPUSA board member. Author of the September 17, 2025 board letter (A-1687.1) announcing Erika Kirk as CEO and Chair of Turning Point USA.
 
@@ -426,7 +426,7 @@ Investigative Pressure: Low
 
 *Related: A-1687.1, C-2213, C-2214*
 
-**N-262** Terryl Farnsworth
+**N-261** Terryl Farnsworth
 
 Identified by host during playback of the September 16 Zoom call as audible in the background of the recording.
 
@@ -479,7 +479,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1689.1, C-2219, C-2224, N-367*
+*Related: A-1689.1, C-2219, C-2224, N-366*
 
 **N-10450** Fort Huachuca PR Response Coordination Question
 
@@ -718,7 +718,7 @@ TPUSA spokesperson (transcribed Kolbint, Kolbenschlag, Kolb, Callaway); his tarm
 
 ---
 
-**N-196** Lee Trotter
+**N-195** Lee Trotter
 
 Surgeon at the center of the three-way call dispute.
 
@@ -734,7 +734,7 @@ Widow and TPUSA CEO; her September 16 call, accounts to the host and role in PR 
 
 ---
 
-**N-202** Nick Fuentes
+**N-201** Nick Fuentes
 
 Named in the host's account of management's suspicion.
 
@@ -750,7 +750,7 @@ Named in Boreing's alleged comparison and in management's alleged suspicion of t
 
 ---
 
-**N-222** Brett Cooper
+**N-221** Brett Cooper
 
 Former Daily Wire employee whose departure the host discusses.
 
@@ -758,7 +758,7 @@ Former Daily Wire employee whose departure the host discusses.
 
 ---
 
-**N-232** Andrew Klavan
+**N-231** Andrew Klavan
 
 Daily Wire host whose episode Boreing allegedly reviewed.
 
@@ -782,7 +782,7 @@ Caller at the Hamptons retreat and subject of the funding-offer dispute.
 
 ---
 
-**N-362** Mitch Snow
+**N-361** Mitch Snow
 
 Likely subject of 'Mitch's entire past' as dug into by Paramount Tactical (transcribed with McConnell).
 
@@ -790,7 +790,7 @@ Likely subject of 'Mitch's entire past' as dug into by Paramount Tactical (trans
 
 ---
 
-**N-471** Robert Eugene Flood
+**N-470** Robert Eugene Flood
 
 Chicago-area man the host says was wrongly pictured as Bob Ferguson in the prior episode.
 
@@ -798,7 +798,7 @@ Chicago-area man the host says was wrongly pictured as Bob Ferguson in the prior
 
 ---
 
-**N-494** Marina Minas
+**N-493** Marina Minas
 
 Host calls her Marina, the COO, and Marina Minas; accused of loyalty-test firings.
 
@@ -806,7 +806,7 @@ Host calls her Marina, the COO, and Marina Minas; accused of loyalty-test firing
 
 ---
 
-**N-498** Bassem Youssef
+**N-497** Bassem Youssef
 
 Next-day guest; Daily Wire allegedly denied the host's request to host him.
 
@@ -822,7 +822,7 @@ Named in the host's account of her Daily Wire exit and Boreing's loan.
 
 ---
 
-**N-857** Bob Ferguson
+**N-854** Bob Ferguson
 
 First named by the host at 00:01:26 in episode 64. Iowa man wrongly pictured in the prior episode as Bob Flood; the host says he has nothing to do with the story and apologizes.
 
@@ -948,7 +948,7 @@ Claim Timestamp: 00:09:08
 Claim: The host says the September 17, 2025 public letter announcing Erika Kirk as Turning Point USA's new CEO and Chair was signed off by Doug DeGroote, whom she says is on the board.
 
 Anchored Artifacts: A-1687.1
-Mentions: N-497, N-2
+Mentions: N-496, N-2
 
 
 Investigative Direction: Obtain original signed letter; verify Doug DeGroote's role on the TPUSA board at the time of issuance.
@@ -972,7 +972,7 @@ Claim Timestamp: 00:39:00
 Claim: In a podcast interview, Jeremy Boreing stated, "I certainly think that hiring Candace is probably the biggest mistake of my professional life so far."
 
 Anchored Artifacts: A-1688.1
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 
 
 Investigative Direction: Identify the source podcast and episode date; verify Boreing's full context for the statement.
@@ -984,7 +984,7 @@ Claim Timestamp: 00:39:57
 Claim: In a podcast interview, Jeremy Boreing stated: "Candace is like nuclear energy, you know, if you if you harness it properly, she can power a city. If you lose control, she'll flatten the city."
 
 Anchored Artifacts: A-1688.2
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 
 
 Investigative Direction: Identify source podcast and date; verify exact quote and surrounding context.
@@ -996,7 +996,7 @@ Claim Timestamp: 00:41:59
 Claim: In a podcast interview, Jeremy Boreing stated Candace Owens "is at war with the widow of her purported best friend" and characterized her content as a "kind of pornography" and "rhetorical pornography," adding that "you shouldn't be able to look at it if you're under 18."
 
 Anchored Artifacts: A-1688.3
-Mentions: N-367, N-3, N-2, N-1
+Mentions: N-366, N-3, N-2, N-1
 
 
 Investigative Direction: Identify source podcast and date; verify quote against full unedited clip.
@@ -1008,7 +1008,7 @@ Claim Timestamp: 00:44:36
 Claim: In a podcast interview, Jeremy Boreing claimed that on two separate occasions when he asked Candace what she believes, she answered, "I believe what the people believe. I am the voice of the people."
 
 Anchored Artifacts: A-1688.4
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 
 
 Investigative Direction: Identify source podcast and date; verify whether Candace Owens has ever publicly responded to or denied this characterization.
@@ -1020,7 +1020,7 @@ Claim Timestamp: 00:47:50
 Claim: In a Bulwark podcast segment the host plays, a speaker describes Daily Wire's Hungary production as including approximately 100 extras staging fist fights in a marsh, traveling to Italy for additional filming, and importing bulls from Spain for the production.
 
 Anchored Artifacts: A-1689.1
-Mentions: N-367
+Mentions: N-366
 
 Related Nodes: N-10449
 
@@ -1033,7 +1033,7 @@ Claim Timestamp: 00:16:46
 Claim: During the September 16 Zoom call playback, host identifies Terryl Farnsworth as in the background of the recording.
 
 Anchored Artifacts: A-1686.1
-Mentions: N-262
+Mentions: N-261
 
 
 Investigative Direction: Confirm Terryl Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant.
@@ -1045,7 +1045,7 @@ Claim Timestamp: 00:40:30
 Claim: Candace Owens asserts that Boreing's remarks about why he hired her, which she paraphrases as tied to her willingness to critique Black Lives Matter, are "objectively racist."
 
 Anchored Artifacts: A-1688.2
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 
 
 Investigative Direction: Evaluate the host's interpretive claim against the verbatim Boreing quote; consider whether Boreing's prior public statements confirm or rebut this framing.
@@ -1057,7 +1057,7 @@ Claim Timestamp: 00:43:08
 Claim: Candace Owens rejects Boreing's pornography analogy, saying one of the reasons she was fired was that she said the history of pornography should be looked into, and that people should talk about real pornography and where it comes from.
 
 Anchored Artifacts: A-1688.3
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 
 
 Investigative Direction: Document the factual claims about Israeli sexual blackmail and Gaza pornography broadcasts; identify primary sources for each.
@@ -1069,7 +1069,7 @@ Claim Timestamp: 00:44:36
 Claim: Candace Owens rejects Boreing's account of her saying "I believe what the people believe," describing it as "obviously made up."
 
 Anchored Artifacts: A-1688.4
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 
 
 Investigative Direction: Compare Boreing's account against any other contemporaneous documentation of the alleged conversations.
@@ -1081,7 +1081,7 @@ Claim Timestamp: 00:48:28
 Claim: Candace Owens concurs with the Bulwark speaker's characterization of Daily Wire's Hungary production as financially extravagant and possibly connected to the departure agreement.
 
 Anchored Artifacts: A-1689.1
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 
 Related Nodes: N-10449
 
@@ -1115,7 +1115,7 @@ Claim: The host says Jeremy Boreing publicly attacked Tucker Carlson and her, co
 Transcript Snippet: publicly attacking Tucker Carlson and yours truly, correlating us to antifa thugs. And also this show to pornography.
 
 Anchored Artifacts: 
-Mentions: N-367, N-22, N-3
+Mentions: N-366, N-22, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Locate the Boreing podcast interview and check whether he used the word antifa about the host and Carlson.
@@ -1131,7 +1131,7 @@ Claim: The host says the previous episode showed a picture of a man she believed
 Transcript Snippet: His name was actually Bob Fergus- Ferguson. He's from Iowa. He has nothing to do with the story.
 
 Anchored Artifacts: 
-Mentions: N-471, N-857, N-3
+Mentions: N-470, N-854, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Compare the removed segment of the prior episode with the corrected version and confirm the image is gone from all uploads.
@@ -1180,7 +1180,7 @@ Claim: The host says Erika Kirk lied to her face about the 'Superman neck' state
 Transcript Snippet: She lied to my face actually regarding the Superman neck. She blamed that on Andrew Kolbint, said that he went rogue, that Dr. Lee Trotter also went rogue
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-14, N-196
+Mentions: N-3, N-2, N-14, N-195
 Related Nodes: N-10447, N-10341
 Supports: C-6824
 Tags: relevance:core
@@ -1197,7 +1197,7 @@ Claim: The host says Erika Kirk told her that Kolvet and Dr. Lee Trotter violate
 Transcript Snippet: violated HIPAA, that they hopped on the phone and did this without her consent or knowledge
 
 Anchored Artifacts: 
-Mentions: N-2, N-14, N-196, N-3
+Mentions: N-2, N-14, N-195, N-3
 Related Nodes: N-10447
 Tags: relevance:core
 Investigative Direction: Obtain the recording or notes of the private meeting and any hospital HIPAA complaint or response regarding Dr. Trotter.
@@ -1213,7 +1213,7 @@ Claim: The host says she told her audience the doctor did not violate HIPAA, tha
 Transcript Snippet: It was actually a three-way call and the statement pertaining to Superman neck came from her.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-196
+Mentions: N-3, N-2, N-195
 Related Nodes: N-10447, N-10341
 Supports: C-5403
 Tags: relevance:core
@@ -1247,7 +1247,7 @@ Claim: The host says Erika Kirk did not misspeak: she lied to the doctor and kne
 Transcript Snippet: She lied to the doctor, a surgeon, and she knew that she was on that call.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-196
+Mentions: N-3, N-2, N-195
 Related Nodes: N-10447
 Supports: C-9918
 Tags: relevance:core
@@ -1363,7 +1363,7 @@ Claim: The host says the same YouTuber, Paramount Tactical, also went into 'Mitc
 Transcript Snippet: that was the same YouTuber despite, you know, also going into Mitch's entire past
 
 Anchored Artifacts: 
-Mentions: N-362, N-3
+Mentions: N-361, N-3
 Related Nodes: N-10899
 Tags: relevance:context
 Investigative Direction: Confirm which Mitch is meant (Mitch Snow is the likely reference) and review Paramount Tactical's videos about him.
@@ -1588,7 +1588,7 @@ Claim: The host says that instead of family, Erika Kirk was joined in Utah by St
 Transcript Snippet: Instead, she was joined by Stacy Sheridan, who was playing the part of her mother.
 
 Anchored Artifacts: 
-Mentions: N-2, N-187, N-3
+Mentions: N-2, N-186, N-3
 Related Nodes: N-11243, N-10561
 Supports: C-9940
 Tags: relevance:core
@@ -1605,7 +1605,7 @@ Claim: The host says Stacy Sheridan, TPUSA's head of fundraising, filmed Charlie
 Transcript Snippet: it was Stacy Sheridan who concerns herself with Turning Point raising money, who filmed Charlie in the casket.
 
 Anchored Artifacts: 
-Mentions: N-187, N-1, N-3
+Mentions: N-186, N-1, N-3
 Related Nodes: N-11243
 Tags: relevance:core
 Investigative Direction: Locate any video of Charlie Kirk in the casket and identify who recorded and published it.
@@ -1621,7 +1621,7 @@ Claim: The host says Stacy Sheridan held Erika Kirk's hand as Charlie Kirk's cas
 Transcript Snippet: She's holding her hand as Charlie's casket was coming off of Air Force 2.
 
 Anchored Artifacts: 
-Mentions: N-187, N-2, N-1
+Mentions: N-186, N-2, N-1
 Related Nodes: N-11243
 Tags: relevance:core
 Investigative Direction: Review the arrival footage and photos at the airport to identify who stood beside Erika Kirk.
@@ -1637,7 +1637,7 @@ Claim: The host says she has said since day one that she personally warned Charl
 Transcript Snippet: I personally warned Charlie about her.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-187
+Mentions: N-3, N-1, N-186
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Look for the host's messages or recollections to Charlie Kirk about Sheridan and any third-party confirmation.
@@ -1670,7 +1670,7 @@ Claim: The host says Stacy Sheridan was beside Erika Kirk at all moments includi
 Transcript Snippet: Crucial uh to coming and being beside beside Erika at all moments. Car rides, everything.
 
 Anchored Artifacts: A-3041.1
-Mentions: N-187, N-2, N-3
+Mentions: N-186, N-2, N-3
 Related Nodes: N-11243
 Tags: relevance:core
 Investigative Direction: Identify the source and date of the car clip and who filmed it.
@@ -1719,7 +1719,7 @@ Claim: The host says that the man in the background of the call, Terryl Farnswor
 Transcript Snippet: that is Terryl Farnsworth, the guy who took down the cameras.
 
 Anchored Artifacts: A-1686.1
-Mentions: N-262, N-3
+Mentions: N-261, N-3
 Related Nodes: N-10346
 Supports: C-2220
 Tags: relevance:core
@@ -1984,7 +1984,7 @@ Claim: The host says staff are being let go in loyalty tests conducted by Marina
 Transcript Snippet: being let go for no reason other than loyalty tests that are being conducted by Marina, the COO, who's talking to Uber drivers for the tea.
 
 Anchored Artifacts: 
-Mentions: N-494, N-3
+Mentions: N-493, N-3
 Related Nodes: N-10492, N-10439
 Supports: C-6986
 Tags: relevance:core
@@ -2035,7 +2035,7 @@ Claim: In the clip, Jeremy Boreing says he had misgivings about Candace Owens at
 Transcript Snippet: I had misgivings about Candace, but I it wasn't a completely cynical decision.
 
 Anchored Artifacts: A-1688.1
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-11116
 Tags: relevance:context
 Investigative Direction: Identify the podcast and date and view the full clip.
@@ -2051,7 +2051,7 @@ Claim: In the clip, Jeremy Boreing says Candace Owens is the most talented perso
 Transcript Snippet: Candace is the most talented person I've ever met, not just in conservative media, but in in any media.
 
 Anchored Artifacts: A-1688.1
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Verify wording against the full source interview.
@@ -2067,7 +2067,7 @@ Claim: In the clip, Jeremy Boreing says the gifts Candace Owens at times used fo
 Transcript Snippet: all those same gifts that she has at various times used for good, She's now using for ill
 
 Anchored Artifacts: A-1688.2
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: 
 Supports: C-2216
 Tags: relevance:context
@@ -2084,7 +2084,7 @@ Claim: In the clip, Jeremy Boreing says that when a man asked how to respond to 
 Transcript Snippet: I would just respond by say telling her fun things that you saw in some porno video that you watched.
 
 Anchored Artifacts: A-1688.3
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: 
 Supports: C-2217
 Tags: relevance:context
@@ -2101,7 +2101,7 @@ Claim: In the clip, Jeremy Boreing says the show titillates, stimulates and is s
 Transcript Snippet: It titillates, it stimulates, it's slightly naughty. Uh it's great for getting clicks, and it makes tons of money on the internet.
 
 Anchored Artifacts: A-1688.3
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: 
 Supports: C-2217
 Tags: relevance:context
@@ -2135,7 +2135,7 @@ Claim: In the clip, Jeremy Boreing says Candace Owens is saying she will say wha
 Transcript Snippet: she's essentially she's articulating audience capture as a virtue.
 
 Anchored Artifacts: A-1688.4
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: 
 Supports: C-2218
 Tags: relevance:context
@@ -2152,7 +2152,7 @@ Claim: The host alleges Jeremy Boreing made talent wait outside while he closed 
 Transcript Snippet: Making talent, people who had shows, wait outside while you close the room. Had people wash your hair, do your makeup, and style you.
 
 Anchored Artifacts: 
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-10900
 Tags: relevance:context
 Investigative Direction: Seek accounts from former Daily Wire staff on grooming and office routines.
@@ -2168,7 +2168,7 @@ Claim: The host alleges Boreing spent hundreds of thousands of dollars on a clot
 Transcript Snippet: Hundreds of thousands of dollars on a clothing rack so you could go sit in the office and take phone calls like a CEO.
 
 Anchored Artifacts: 
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-10900, N-10689
 Tags: relevance:context
 Investigative Direction: Seek Daily Wire expense records or former finance staff accounts.
@@ -2184,7 +2184,7 @@ Claim: The host says Jeremy Boreing flew out virtually the entire company to Hun
 Transcript Snippet: He flew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush.
 
 Anchored Artifacts: 
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-10449, N-10900
 Supports: C-2224
 Tags: relevance:context
@@ -2201,7 +2201,7 @@ Claim: The host says she was told the last number she heard was $67 million spen
 Transcript Snippet: I am told last number I heard was $67 million spent on a high school dream.
 
 Anchored Artifacts: 
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-10449, N-10689
 Tags: relevance:context
 Investigative Direction: Seek budget documents or credible reporting on the production cost.
@@ -2217,7 +2217,7 @@ Claim: The host says Boreing had to borrow, empty his savings account and borrow
 Transcript Snippet: he had to borrow, empty his savings account, borrow money personally from Ben Shapiro to make ends meet
 
 Anchored Artifacts: 
-Mentions: N-367, N-97, N-3
+Mentions: N-366, N-97, N-3
 Related Nodes: N-10689
 Tags: relevance:context
 Investigative Direction: Seek confirmation from Daily Wire insiders or financial filings.
@@ -2233,7 +2233,7 @@ Claim: In the Bulwark clip, a speaker says the departure agreement may reflect m
 Transcript Snippet: Well, that might explain some of this departure agreement where you're spending millions on a bizarre project set in Roman era Britain, but filmed in Hungary involving Italian bulls maybe from Spain.
 
 Anchored Artifacts: A-1689.1
-Mentions: N-367
+Mentions: N-366
 Related Nodes: N-10449
 Supports: C-2219
 Tags: relevance:context
@@ -2250,7 +2250,7 @@ Claim: The host says the Hungary project failed and nobody wanted to buy it or h
 Transcript Snippet: realizing this failed, nobody wanted to buy it and nobody wanted anything to do with it
 
 Anchored Artifacts: 
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-10449
 Tags: relevance:context
 Investigative Direction: Check distribution announcements or buyer statements about the project.
@@ -2266,7 +2266,7 @@ Claim: The host says that after October 7 she came to Boreing 8 and a half month
 Transcript Snippet: When she came to me 8 and 1/2 months pregnant, hands open, and willing to discuss and fix things or agree to amicably go our separate ways if we couldn't
 
 Anchored Artifacts: 
-Mentions: N-3, N-367
+Mentions: N-3, N-366
 Related Nodes: N-11116
 Tags: relevance:context
 Investigative Direction: Seek contemporaneous messages or accounts of the post-October 7 conversations with Boreing.
@@ -2298,7 +2298,7 @@ Claim: The host says Boreing conveyed that Daily Wire suspected she might have b
 Transcript Snippet: they suspected that I might have been secretly working with Nick Fuentes and Tucker Carlson
 
 Anchored Artifacts: 
-Mentions: N-367, N-202, N-22, N-3
+Mentions: N-366, N-201, N-22, N-3
 Related Nodes: N-11116
 Tags: relevance:context
 Investigative Direction: Seek the host's contemporaneous messages or witnesses to the suspicion.
@@ -2314,7 +2314,7 @@ Claim: The host alleges, in a sarcastic imitation of Boreing's reasoning, that h
 Transcript Snippet: My next big plan is to do what we did to Breitbart. We'll create a fake scandal.
 
 Anchored Artifacts: 
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-11116
 Tags: relevance:context
 Investigative Direction: Seek Daily Wire internal communications from the weeks before the firing.
@@ -2330,7 +2330,7 @@ Claim: The host alleges that the firing over her Christ is King post was timed f
 Transcript Snippet: Over having said Christ is king, we'll do this during Lent because surely that will lead to more Daily Wire sign-ups.
 
 Anchored Artifacts: 
-Mentions: N-3, N-367
+Mentions: N-3, N-366
 Related Nodes: N-11116, N-10900
 Supports: C-9987
 Tags: relevance:context
@@ -2347,7 +2347,7 @@ Claim: The host says Jeremy Boreing personally reviewed Andrew Klavan's episode,
 Transcript Snippet: Jeremy actually personally reviewed Andrew Klavan's episode before it went out
 
 Anchored Artifacts: 
-Mentions: N-367, N-232, N-3
+Mentions: N-366, N-231, N-3
 Related Nodes: N-10900
 Tags: relevance:context
 Investigative Direction: Identify the Klavan episode and seek editorial approval records.
@@ -2379,7 +2379,7 @@ Claim: The host says Boreing sent an intern on a secret mission to Dallas, to Tu
 Transcript Snippet: having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA, to put her on a plane, an intern.
 
 Anchored Artifacts: 
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-10416, N-10238, N-10000
 Supports: C-5351
 Tags: relevance:context
@@ -2396,7 +2396,7 @@ Claim: The host says Boreing authored an almost five-page email to the entire co
 Transcript Snippet: to then author a maniacal, almost five-page-long email to the entire company admitting to the act
 
 Anchored Artifacts: 
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-10416, N-10238
 Supports: C-9991
 Tags: relevance:context
@@ -2413,7 +2413,7 @@ Claim: The host says the email said, in her quote, that it was his right to know
 Transcript Snippet: It's my right. It's my right to know what she's saying.
 
 Anchored Artifacts: 
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-10416, N-10238
 Supports: C-9992
 Tags: relevance:context
@@ -2430,7 +2430,7 @@ Claim: The host says Boreing sat Brett Cooper, then a very young employee, down 
 Transcript Snippet: sitting her down and telling her that she should she shouldn't do that because you had big plans and you were going to turn her into a star cuz you're the magic.
 
 Anchored Artifacts: 
-Mentions: N-367, N-222, N-3
+Mentions: N-366, N-221, N-3
 Related Nodes: N-11244, N-10900
 Tags: relevance:tangential
 Investigative Direction: Seek Brett Cooper's own account of the conversation.
@@ -2446,7 +2446,7 @@ Claim: The host alleges Boreing offered an obscene amount of money to Brett Coop
 Transcript Snippet: offering an obscene amount of money to her maid of honor at that wedding that you didn't want her to have, to hurt her.
 
 Anchored Artifacts: 
-Mentions: N-367, N-222, N-3
+Mentions: N-366, N-221, N-3
 Related Nodes: N-11244, N-10900
 Tags: relevance:tangential
 Investigative Direction: Seek the maid of honor's account and any contract or offer documents.
@@ -2462,7 +2462,7 @@ Claim: The host alleges Boreing worked through the same PR orbit to smear Brett 
 Transcript Snippet: to try to smear her, the friendly pop culture young girl, as an anti-Semite, over an Instagram like because she liked a year-end roundup of my podcast.
 
 Anchored Artifacts: 
-Mentions: N-367, N-222, N-3
+Mentions: N-366, N-221, N-3
 Related Nodes: N-11244, N-10900
 Tags: relevance:tangential
 Investigative Direction: Locate the articles or posts that attacked Cooper over the like and trace their sources.
@@ -2478,7 +2478,7 @@ Claim: The host says Boreing sued her for publicly standing up for Brett Cooper 
 Transcript Snippet: And when you sued me for that, for standing up for Brett Cooper
 
 Anchored Artifacts: 
-Mentions: N-367, N-222, N-3
+Mentions: N-366, N-221, N-3
 Related Nodes: N-11244, N-10900
 Tags: relevance:tangential
 Investigative Direction: Search court dockets for the Daily Wire suit against the host.
@@ -2494,7 +2494,7 @@ Claim: The host says Boreing admitted to her that he had a mental break in Hunga
 Transcript Snippet: You admitted to me that you had a mental break in Hungary. You didn't sleep for days
 
 Anchored Artifacts: 
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-10449
 Tags: relevance:context
 Investigative Direction: Seek corroboration from Daily Wire staff present in Hungary.
@@ -2526,7 +2526,7 @@ Claim: The host says Erika Kirk was in the office every day making informed deci
 Transcript Snippet: she was in the office every day, and she was making informed decisions alongside Stacie Sheridan and this Marina Minas
 
 Anchored Artifacts: 
-Mentions: N-2, N-187, N-494, N-3
+Mentions: N-2, N-186, N-493, N-3
 Related Nodes: N-10000
 Supports: C-7009
 Tags: relevance:core
@@ -2626,7 +2626,7 @@ Claim: The host says that when she was at the company the refrain was that if sh
 Transcript Snippet: If you tell anybody what we're doing to you, we'll bankrupt you.
 
 Anchored Artifacts: 
-Mentions: N-3, N-367
+Mentions: N-3, N-366
 Related Nodes: N-10900
 Tags: relevance:context
 Investigative Direction: Seek contemporaneous messages or witnesses to the threats.
@@ -2674,7 +2674,7 @@ Claim: The host says that while at Daily Wire her request to have Bassem Youssef
 Transcript Snippet: The Daily Wire denied my request while I was there to have him on my show.
 
 Anchored Artifacts: 
-Mentions: N-3, N-498
+Mentions: N-3, N-497
 Related Nodes: N-10900
 Tags: relevance:tangential
 Investigative Direction: Seek confirmation from Daily Wire staff or messages regarding the request.
@@ -2690,7 +2690,7 @@ Claim: The host says Bassem Youssef will join her live on the next day's episode
 Transcript Snippet: Bassem Youssef is going to be joining me live
 
 Anchored Artifacts: 
-Mentions: N-3, N-498
+Mentions: N-3, N-497
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Check the following episode's guest.

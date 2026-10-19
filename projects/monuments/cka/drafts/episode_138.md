@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 9ad39842779de2d5892f2906070abb930de6344475c2c461d3c9229b6e7dfc89
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-825, N-826, N-827, N-828, N-11207, N-11209, N-11210
+  - Tip-minted Nodes (supplement_2026-10c): N-822, N-823, N-824, N-825, N-11207, N-11209, N-11210
   - Hole-minted Nodes (reintro-ep138): N-10825
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-9087–C-9153
   - New Nodes Introduced: N-10780, N-10781, N-10783, N-10784
-  - Reused Nodes Appearing: N-2, N-505, N-3, N-40, N-54, N-1, N-10782, N-10785, N-5, N-7, N-9, N-14, N-22, N-36, N-37, N-42, N-125, N-160, N-171, N-191, N-262, N-331, N-368, N-438, N-507, N-636, N-778, N-817, N-10000, N-10020, N-10022, N-10026, N-10030, N-10031, N-10037, N-10038, N-10039, N-10056, N-10070, N-10077, N-10091, N-10097, N-10106, N-10151, N-10162, N-10319, N-10324, N-10564, N-10570, N-10572, N-10573, N-10598, N-10605, N-10623, N-10670, N-10679, N-10711, N-10713, N-10723, N-10743, N-10751, N-10808, N-10810, N-10899, N-10975, N-11012, N-11017, N-11065, N-11103, N-11121, N-11149, N-11068, N-11208
+  - Reused Nodes Appearing: N-2, N-504, N-3, N-40, N-54, N-1, N-10782, N-10785, N-5, N-7, N-9, N-14, N-22, N-36, N-37, N-42, N-125, N-159, N-170, N-190, N-261, N-330, N-367, N-437, N-506, N-634, N-776, N-815, N-10000, N-10020, N-10022, N-10026, N-10030, N-10031, N-10037, N-10038, N-10039, N-10056, N-10070, N-10077, N-10091, N-10097, N-10106, N-10151, N-10162, N-10319, N-10324, N-10564, N-10570, N-10572, N-10573, N-10598, N-10605, N-10623, N-10670, N-10679, N-10711, N-10713, N-10723, N-10743, N-10751, N-10808, N-10810, N-10899, N-10975, N-11012, N-11017, N-11065, N-11103, N-11121, N-11149, N-11068, N-11208
   - (see registers)
 
 ## 2. Executive Summary
@@ -833,7 +833,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-160** Blake Neff
+**N-159** Blake Neff
 
 Existing node reused for new claims in this episode.
 
@@ -841,7 +841,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-171** Tate Brothers (Andrew and Tristan)
+**N-170** Tate Brothers (Andrew and Tristan)
 
 Existing node reused for new claims in this episode.
 
@@ -849,7 +849,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 Existing node reused for new claims in this episode.
 
@@ -865,7 +865,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-205** Piers Morgan
+**N-204** Piers Morgan
 
 Existing node reused for new claims in this episode.
 
@@ -881,7 +881,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-262** Terryl Farnsworth
+**N-261** Terryl Farnsworth
 
 Existing node reused for new claims in this episode.
 
@@ -897,7 +897,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-331** Baron Coleman
+**N-330** Baron Coleman
 
 Existing node reused for new claims in this episode.
 
@@ -905,7 +905,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-342** Victor Marx
+**N-341** Victor Marx
 
 Existing node reused for new claims in this episode.
 
@@ -929,7 +929,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-368** Danny Philip
+**N-367** Danny Philip
 
 Existing node reused for new claims in this episode.
 
@@ -953,7 +953,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-438** Johnnie Moore
+**N-437** Johnnie Moore
 
 Existing node reused for new claims in this episode.
 
@@ -969,7 +969,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-505** Nate Walker
+**N-504** Nate Walker
 
 Existing node reused for new claims in this episode.
 
@@ -977,7 +977,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-507** Christopher Bagley
+**N-506** Christopher Bagley
 
 Existing node reused for new claims in this episode.
 
@@ -993,7 +993,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-636** Charlie Spiering
+**N-634** Charlie Spiering
 
 Existing node reused for new claims in this episode.
 
@@ -1009,7 +1009,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-778** Matt Robinson
+**N-776** Matt Robinson
 
 Existing node reused for new claims in this episode.
 
@@ -1025,7 +1025,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-817** David Sprague
+**N-815** David Sprague
 
 First named by the host at 00:02:40 in episode 138 as the man who started the USA chant after the shot; the host says he was formerly James Rawlinson (transcribed Rollinsson).
 
@@ -1035,7 +1035,7 @@ Aliases: James Rawlinson
 
 ---
 
-**N-825** Kassy Akiva
+**N-822** Kassy Akiva
 
 First named by the host at 00:18:45 in episode 138 as a Daily Wire employee who collaborated with the group chat organizer.
 
@@ -1043,7 +1043,7 @@ First named by the host at 00:18:45 in episode 138 as a Daily Wire employee who 
 
 ---
 
-**N-826** Perez Hilton
+**N-823** Perez Hilton
 
 First named by the host at 00:30:40 in episode 138 as the celebrity blogger in the news over a live-streamed self-harm incident.
 
@@ -1051,7 +1051,7 @@ First named by the host at 00:30:40 in episode 138 as the celebrity blogger in t
 
 ---
 
-**N-827** Khloe Kardashian
+**N-824** Khloe Kardashian
 
 First named by the host at 00:31:00 in episode 138 as a celebrity Perez Hilton targeted.
 
@@ -1059,7 +1059,7 @@ First named by the host at 00:31:00 in episode 138 as a celebrity Perez Hilton t
 
 ---
 
-**N-828** Miley Cyrus
+**N-825** Miley Cyrus
 
 First named by the host at 00:31:15 in episode 138 as the subject of an alleged Perez Hilton photo post at age 17.
 
@@ -1157,7 +1157,7 @@ Claim Timestamp: 00:23:50–00:25:45
 Claim: The host says footage shows Nate Walker in a bright blue shirt with his bag speaking with Dan Flood at about 12:15, then upstairs near the Hall of Flags walkway at about 12:25 without his bag, putting on sunglasses, and about two minutes later walking downstairs.
 
 Anchored Artifacts: A-2248.1, A-2248.2, A-2248.3
-Mentions: N-271, N-505
+Mentions: N-270, N-504
 
 Related Nodes: N-10781
 
@@ -1172,7 +1172,7 @@ Claim Timestamp: 00:36:50–00:37:30
 Claim: Per an NBC report the host reads, Miami-Dade Sheriff's Office deputies responded to Perez Hilton's Miami-area home after reports that he engaged in self-harm in a video live-streamed on social media.
 
 Anchored Artifacts: A-2249.1
-Mentions: N-826
+Mentions: N-823
 
 Related Nodes:
 
@@ -1187,7 +1187,7 @@ Claim Timestamp: 00:37:00–00:37:30
 Claim: Per a follow-up sheriff's office statement the host reads, Perez Hilton was safely recovered after the self-harm response and taken by Miami-Dade Fire Rescue to a local hospital.
 
 Anchored Artifacts: A-2249.1
-Mentions: N-826
+Mentions: N-823
 
 Related Nodes:
 
@@ -1202,7 +1202,7 @@ Claim Timestamp: 00:44:38–00:45:30
 Claim: In a clip of his Piers Morgan interview the host plays, asked how he could cut a cat's head off at age 3, Victor Marx asks whether Morgan could not cut the head off a dead cat if he put his hand around his son's hand on the knife.
 
 Anchored Artifacts: A-2251.1
-Mentions: N-205, N-342
+Mentions: N-204, N-341
 
 Related Nodes: N-10785
 
@@ -1217,7 +1217,7 @@ Claim Timestamp: 00:45:49–00:47:00
 Claim: In his Piers Morgan interview, Victor Marx stated that at age 7, his stepfather held his hand on a pistol aimed at a handcuffed, kneeling man who, as best he can remember, looked like a "homeless fellow", and pushed the trigger until the man was shot.
 
 Anchored Artifacts: A-2251.2
-Mentions: N-205, N-342
+Mentions: N-204, N-341
 
 Related Nodes: N-10785
 
@@ -1232,7 +1232,7 @@ Claim Timestamp: 00:46:50–00:47:25
 Claim: When asked by Piers Morgan whether false memories could account for his childhood accounts, Victor Marx stated he had studied false memories and that this is "possible."
 
 Anchored Artifacts: A-2251.2
-Mentions: N-205, N-342
+Mentions: N-204, N-341
 
 Related Nodes: N-10785
 
@@ -1247,7 +1247,7 @@ Claim Timestamp: 00:45:49–00:46:30
 Claim: Piers Morgan stated during the interview that local law enforcement and sheriffs in the Mississippi area where the alleged event took place have no records, police reports, or unsolved homicides matching Victor Marx's account.
 
 Anchored Artifacts: A-2251.2
-Mentions: N-205, N-342
+Mentions: N-204, N-341
 
 Related Nodes: N-10785
 
@@ -1262,7 +1262,7 @@ Claim Timestamp: 00:21:54–00:22:30
 Claim: Daily Mail journalist Charlie Spiering emailed the Candace Owens show stating that "sources" believe Candace is being used by foreign operatives sending misinformation through her tip line.
 
 Anchored Artifacts: A-2252.1
-Mentions: N-3, N-636
+Mentions: N-3, N-634
 
 Related Nodes:
 
@@ -1277,7 +1277,7 @@ Claim Timestamp: 00:32:46–00:34:05
 Claim: In a clip of the 2010 Ellen DeGeneres Show the host plays, Perez Hilton acknowledges being perceived as a "hypocrite and a bully" and pledges to stop using nasty nicknames, inappropriate doodling, and outing people on his website.
 
 Anchored Artifacts: A-2250.1
-Mentions: N-826
+Mentions: N-823
 
 Related Nodes:
 
@@ -1326,7 +1326,7 @@ Claim: In a list of claims about the case she says were false, the host says it 
 Transcript Snippet: that's a lie Tyler Robinson is not transgendered I told you that very early on his lover Lance is not transgendered
 
 Anchored Artifacts: 
-Mentions: N-3, N-40, N-54, N-778
+Mentions: N-3, N-40, N-54, N-776
 Related Nodes: N-10782
 Investigative Direction: Compare the influencer statements on the list against charging documents and hearing testimony.
 
@@ -1356,7 +1356,7 @@ Claim: The host says Victor Marx, whom she previously interviewed, is one of Eri
 Transcript Snippet: Piers Morgan interviewed one of her spiritual adviserss, Victor Marx, the man that we interviewed.
 
 Anchored Artifacts: 
-Mentions: N-3, N-205, N-342, N-2
+Mentions: N-3, N-204, N-341, N-2
 Related Nodes: N-10605
 Tags: relevance:core
 Investigative Direction: Obtain the Piers Morgan interview and public records of Victor Marx's advisory role to Erika Kirk or TPUSA.
@@ -1372,7 +1372,7 @@ Claim: The host says Officer Bagley's last employer before UVU was the Utah Coun
 Transcript Snippet: He worked for a Utah County Sheriff's Office, but specifically he worked in the sex crimes detective unit.
 
 Anchored Artifacts: A-2987.1
-Mentions: N-3, N-507
+Mentions: N-3, N-506
 Related Nodes: N-10784
 Tags: relevance:core
 Investigative Direction: Obtain Utah County Sheriff's Office personnel and assignment records for Christopher Bagley and his UVU hiring file.
@@ -1405,7 +1405,7 @@ Claim: The host says the man who started the 'USA, USA' chant goes by David Spra
 Transcript Snippet: He goes by David Sprague, but he actually changed his name. It used to be James Rawlinson.
 
 Anchored Artifacts: 
-Mentions: N-3, N-817
+Mentions: N-3, N-815
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Verify a legal name change and any court record concerning the father, and obtain the host's source for the confession.
@@ -1454,7 +1454,7 @@ Claim: The host says she was the first to dispute that Matt Robinson turned his 
 Transcript Snippet: Tyler's father turned him in. I have disputed this from the very beginning.
 
 Anchored Artifacts: 
-Mentions: N-3, N-778, N-40
+Mentions: N-3, N-776, N-40
 Related Nodes: N-10022, N-10782
 Supports: C-5041
 Tags: relevance:core
@@ -1471,7 +1471,7 @@ Claim: The host says Bill Ackman tweeted he would award the father $1 million, a
 Transcript Snippet: I believe Andrew Kolvet admitted that Bill Ackman did not give him $1 million and Matt Robinson, his father did not turn him in.
 
 Anchored Artifacts: 
-Mentions: N-3, N-37, N-14, N-778
+Mentions: N-3, N-37, N-14, N-776
 Related Nodes: N-10022, N-10037
 Tags: relevance:core
 Investigative Direction: Locate Kolvet's on-air or written statement and Ackman's original reward tweet.
@@ -1535,7 +1535,7 @@ Claim: The host says there is no footage of Tyler Robinson assembling the rifle 
 Transcript Snippet: We were told that there is footage of Tyler Robinson assembling the rifle on the roof. That is a lie.
 
 Anchored Artifacts: 
-Mentions: N-3, N-40, N-160
+Mentions: N-3, N-40, N-159
 Related Nodes: N-10020, N-10782
 Tags: relevance:core
 Investigative Direction: Obtain Neff's original and edited post and any exhibit list from the preliminary hearing.
@@ -1633,7 +1633,7 @@ Claim: The host says that of the other sets of prints, one was owned by Tyler's 
 Transcript Snippet: of which one were his owned by his father and the other by Lance.
 
 Anchored Artifacts: 
-Mentions: N-3, N-40, N-54, N-778
+Mentions: N-3, N-40, N-54, N-776
 Related Nodes: N-10711, N-10598
 Tags: relevance:core
 Investigative Direction: Obtain the print comparison results naming each contributor.
@@ -1649,7 +1649,7 @@ Claim: The host says Terryl Farnsworth was watched removing an SD card but that 
 Transcript Snippet: because Terryl Farnworth took out we watched him take out an SD card. And actually what the police were given was not an SD card.
 
 Anchored Artifacts: 
-Mentions: N-3, N-262
+Mentions: N-3, N-261
 Related Nodes: N-10808, N-10162, N-10810
 Tags: relevance:core
 Investigative Direction: Obtain the chain-of-custody log for the Farnsworth footage and the device type recorded by police.
@@ -1665,7 +1665,7 @@ Claim: The host says it is plausible the footage was edited or zoomed in before 
 Transcript Snippet: this tells me that it is plausible that that footage was edited, zoomed in perhaps
 
 Anchored Artifacts: 
-Mentions: N-3, N-262
+Mentions: N-3, N-261
 Related Nodes: N-10810
 Tags: relevance:core
 Investigative Direction: Compare the original camera file metadata with the version entered into evidence.
@@ -1874,7 +1874,7 @@ Claim: The host says the organizer collaborated with Daily Wire employee Kassy A
 Transcript Snippet: Uh they collaborated with a Daily Wire employee Kassy Akiva, the Gaza Humanitarian Foundation, then run by Johnnie Moore, to create files on people
 
 Anchored Artifacts: A-2989.1
-Mentions: N-3, N-825, N-438, N-22
+Mentions: N-3, N-822, N-437, N-22
 Related Nodes: N-10670, N-10780
 Supports: C-3234
 Tags: relevance:core
@@ -1939,7 +1939,7 @@ Claim: The host says she is on no group chats of 92, ten, six or two operatives,
 Transcript Snippet: Baron Coleman, hey, did you did you see this video? Give him a call.
 
 Anchored Artifacts: 
-Mentions: N-3, N-331, N-2
+Mentions: N-3, N-330, N-2
 Related Nodes: N-10780
 Tags: relevance:context
 Investigative Direction: Obtain the host's contact records with outside researchers if the claim is disputed.
@@ -1955,7 +1955,7 @@ Claim: The host says Daily Mail's Charlie Spiering worked on the 'Trust Us, bro'
 Transcript Snippet: the one who worked on the Trust Us, bro. Charlie definitely wanted Erika to take over the company because I watched the video.
 
 Anchored Artifacts: 
-Mentions: N-3, N-636, N-1, N-2
+Mentions: N-3, N-634, N-1, N-2
 Related Nodes: N-10070, N-10743
 Tags: relevance:context
 Investigative Direction: Identify the Daily Mail article and the video it relied on.
@@ -2020,7 +2020,7 @@ Claim: The host says Blake Neff, Danny Phillip, Mikey McCoy and Nate Walker all 
 Transcript Snippet: you, Danny Phillip, Mikey McCoy, and uh Nate Walker all walked into Temponogus Hospital together.
 
 Anchored Artifacts: 
-Mentions: N-3, N-160, N-368, N-191, N-505
+Mentions: N-3, N-159, N-367, N-190, N-504
 Related Nodes: N-11208, N-10573
 Tags: relevance:core
 Investigative Direction: Obtain hospital entry video and staff accounts of who arrived together and by what vehicle.
@@ -2036,7 +2036,7 @@ Claim: The host says Nate Walker is a young new assistant who supplied Charlie K
 Transcript Snippet: just a new assistant the one who supplied Charles with that freedom t-shirt.
 
 Anchored Artifacts: A-2248.1
-Mentions: N-3, N-505, N-1
+Mentions: N-3, N-504, N-1
 Related Nodes: N-10723, N-10781
 Tags: relevance:core
 Investigative Direction: Obtain purchase or supply records for the shirt and Walker's employment start date.
@@ -2052,7 +2052,7 @@ Claim: The host says Perez Hilton targeted Khloe Kardashian and repeatedly refer
 Transcript Snippet: he really targeted her and referred to her as a transvestite over and over again.
 
 Anchored Artifacts: 
-Mentions: N-3, N-826, N-827
+Mentions: N-3, N-823, N-824
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Review archived Perez Hilton posts about Khloe Kardashian.
@@ -2068,7 +2068,7 @@ Claim: The host says Perez Hilton posted an upskirt photo of Miley Cyrus when sh
 Transcript Snippet: he posted an upskirt photo of Miley Cyrus, who was then just 17 years old.
 
 Anchored Artifacts: 
-Mentions: N-3, N-826, N-828
+Mentions: N-3, N-823, N-825
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Review contemporaneous news coverage of the incident.
@@ -2084,7 +2084,7 @@ Claim: The host says Perez Hilton is a single father of three children born via 
 Transcript Snippet: He chose to have three children, one in 2013, one in 2015, and one in 2017.
 
 Anchored Artifacts: 
-Mentions: N-3, N-826
+Mentions: N-3, N-823
 Related Nodes: N-11209
 Tags: relevance:tangential
 Investigative Direction: Review Hilton's public statements on his children.
@@ -2100,7 +2100,7 @@ Claim: The host says that on March 23 Perez Hilton posted videos from a hospital
 Transcript Snippet: on March 23rd, he posted videos of himself from a hospital bed and said he almost died from severe sepsis and infections.
 
 Anchored Artifacts: 
-Mentions: N-3, N-826
+Mentions: N-3, N-823
 Related Nodes: N-11209
 Tags: relevance:tangential
 Investigative Direction: Locate the March 23 posts.
@@ -2116,7 +2116,7 @@ Claim: The host, who says she did not watch the video, says it ran live on TikTo
 Transcript Snippet: which ran live on TikTok, Perez Hilton was fully naked, drenched in blood with multiple cuts all over his body and he was cutting himself.
 
 Anchored Artifacts: A-2249.1
-Mentions: N-3, N-826
+Mentions: N-3, N-823
 Related Nodes: N-11209, N-11103
 Tags: relevance:tangential
 Investigative Direction: Rely on NBC and sheriff's office reporting rather than the video.
@@ -2132,7 +2132,7 @@ Claim: The host says that in the video Perez Hilton said 'I am doing this for my
 Transcript Snippet: He's on video and he's saying things like, "I am doing this for my children."
 
 Anchored Artifacts: A-2249.1
-Mentions: N-3, N-826
+Mentions: N-3, N-823
 Related Nodes: N-11209
 Tags: relevance:tangential
 Investigative Direction: Rely on police and media reporting of the incident.
@@ -2212,7 +2212,7 @@ Claim: The host says Piers Morgan interviewed Victor Marx and tweeted that it wa
 Transcript Snippet: Piers Morgan interviewed Victor Marx and tweeted that it was one of the most bizarre interviews of his career.
 
 Anchored Artifacts: A-2990.1
-Mentions: N-3, N-205, N-342
+Mentions: N-3, N-204, N-341
 Related Nodes: N-10785
 Tags: relevance:context
 Investigative Direction: Locate Piers Morgan's tweet.
@@ -2228,7 +2228,7 @@ Claim: The host says Piers Morgan always accepts the pro-Erika line at first and
 Transcript Snippet: He always accepts the slop up in the beginning and then a year on he admits that I was right.
 
 Anchored Artifacts: 
-Mentions: N-3, N-205, N-2
+Mentions: N-3, N-204, N-2
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Review Morgan's statements on the host over time.
@@ -2244,7 +2244,7 @@ Claim: In the clip, Victor Marx says he studied false memories and had 123 visit
 Transcript Snippet: I studied false memories and had 123 visits to a trauma specialist
 
 Anchored Artifacts: A-2251.2
-Mentions: N-205, N-342
+Mentions: N-204, N-341
 Related Nodes: N-10785
 Supports: C-3230
 Tags: relevance:context
@@ -2342,7 +2342,7 @@ Claim: The host says she read the Romanian documents when Andrew Tate was charge
 Transcript Snippet: I was very much involved in reading through his Romanian documents when the charges were against him. And I said, "This case is going to fall apart."
 
 Anchored Artifacts: A-2253.5
-Mentions: N-3, N-171
+Mentions: N-3, N-170
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Review the Romanian case outcome.
@@ -2358,7 +2358,7 @@ Claim: The host says Andrew and Tristan Tate are in solitary confinement.
 Transcript Snippet: Andrew and Tristan Tate are in solitary confinement
 
 Anchored Artifacts: A-2253.5
-Mentions: N-3, N-171
+Mentions: N-3, N-170
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Verify custody conditions via court or press reports.

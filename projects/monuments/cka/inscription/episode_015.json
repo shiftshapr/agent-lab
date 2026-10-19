@@ -853,8 +853,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-379",
-      "ref": "N-379",
+      "@id": "N-378",
+      "ref": "N-378",
       "name": "Dan Bongino",
       "type": "person",
       "description": "First named by the host at 00:38:08 in episode 15. Aliases: Dan Bonino.",
@@ -1014,8 +1014,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-154",
-      "ref": "N-154",
+      "@id": "N-153",
+      "ref": "N-153",
       "name": "Robert J. O'Neill",
       "type": "person",
       "description": "Named in a moderator comment as questioning the Kirk story.",
@@ -1031,8 +1031,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-202",
-      "ref": "N-202",
+      "@id": "N-201",
+      "ref": "N-201",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Named with the host in the sermon.",
@@ -1048,8 +1048,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-205",
-      "ref": "N-205",
+      "@id": "N-204",
+      "ref": "N-204",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Host of the show named in a moderator comment.",
@@ -1588,7 +1588,7 @@
       "mentions_person_refs": [
         "N-99",
         "N-69",
-        "N-379",
+        "N-378",
         "N-1"
       ]
     },
@@ -1688,7 +1688,7 @@
       "investigative_direction": "Obtain full sermon recording; identify delivering church for archival purposes.",
       "mentions_person_refs": [
         "N-3",
-        "N-202"
+        "N-201"
       ]
     },
     {
@@ -2967,7 +2967,7 @@
       "investigative_direction": "Obtain the full sermon recording and identify the church.",
       "transcript_snippet": "you're going to block them because they're anti what scripture says.",
       "mentions_person_refs": [
-        "N-202",
+        "N-201",
         "N-3"
       ]
     },
@@ -3072,8 +3072,8 @@
       "investigative_direction": "Retrieve the Piers Morgan episode with O'Neill and his exact remarks.",
       "transcript_snippet": "Rob O'Neill, the guy who shot Bin Laden, questions the story of Charlie on Piers Morgan's show.",
       "mentions_person_refs": [
-        "N-154",
-        "N-205"
+        "N-153",
+        "N-204"
       ]
     },
     {

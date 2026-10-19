@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 66587d7a4421da88738bff5bc6b5a63723d99c10368f6539b5cddd00de9e63f1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-768, N-769, N-771, N-11123, N-11124, N-11125, N-11127
+  - Tip-minted Nodes (supplement_2026-10b): N-766, N-767, N-769, N-11123, N-11124, N-11125, N-11127
   - Hole-minted Nodes (reintro-ep063): N-10492
   - Tip-minted Nodes (reintro-ep063): N-10905
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6983–C-7052
-  - New Nodes Introduced: N-496, N-10443, N-10444, N-10445
-  - Reused Nodes Appearing: N-2, N-14, N-15, N-22, N-27, N-187, N-191, N-218, N-271, N-471, N-10000, N-10001, N-10002, N-10197, N-10209, N-10211, N-10323, N-10340, N-10413, N-10419, N-10422, N-10428, N-10439, N-10899, N-11033, N-770, N-10968, N-11126, N-11122
+  - New Nodes Introduced: N-495, N-10443, N-10444, N-10445
+  - Reused Nodes Appearing: N-2, N-14, N-15, N-22, N-27, N-186, N-190, N-217, N-270, N-470, N-10000, N-10001, N-10002, N-10197, N-10209, N-10211, N-10323, N-10340, N-10413, N-10419, N-10422, N-10428, N-10439, N-10899, N-11033, N-768, N-10968, N-11126, N-11122
   - (see registers)
 
 # Episode 63 – Analysis Record
@@ -39,7 +39,7 @@
 Episode 63 Ledger Summary:
 - Artifact Families Introduced: A-1676, A-1677, A-1678, A-1679, A-1680, A-1681, A-1682, A-1683, A-1684, A-1685
 - Claim Range: C-2194–C-2205
-- New Person Nodes Introduced: N-457, N-496
+- New Person Nodes Introduced: N-456, N-495
 - New Investigation Target Nodes Introduced: N-10443, N-10444, N-10445
 - Existing Nodes Reused: N-2
 
@@ -111,7 +111,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:27:32
 
-*Related: C-2202, N-457, N-1*
+*Related: C-2202, N-456, N-1*
 
 ---
 
@@ -136,7 +136,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2203, N-496, N-10445*
+*Related: C-2203, N-495, N-10445*
 
 ---
 
@@ -149,7 +149,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:39:08
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2203, N-496, N-10445*
+*Related: C-2203, N-495, N-10445*
 
 ---
 
@@ -161,7 +161,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:41:47
 
-*Related: C-2204, N-496*
+*Related: C-2204, N-495*
 
 ---
 
@@ -290,7 +290,7 @@ Video Timestamp: 00:09:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6996, C-7052, N-3, N-2, N-218, N-191*
+*Related: C-6996, C-7052, N-3, N-2, N-217, N-190*
 
 ---
 
@@ -303,7 +303,7 @@ Video Timestamp: 00:29:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7020, C-7021, C-7022, C-7023, N-3, N-768, N-769, N-457, N-471*
+*Related: C-7020, C-7021, C-7022, C-7023, N-3, N-766, N-767, N-456, N-470*
 
 ---
 
@@ -318,7 +318,7 @@ Video Timestamp: 00:33:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7028, N-3, N-769*
+*Related: C-7028, N-3, N-767*
 
 ---
 
@@ -331,7 +331,7 @@ Video Timestamp: 00:36:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7032, N-3, N-496*
+*Related: C-7032, N-3, N-495*
 
 ---
 
@@ -344,7 +344,7 @@ Video Timestamp: 00:41:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7035, C-7036, N-3, N-496, N-771*
+*Related: C-7035, C-7036, N-3, N-495, N-769*
 
 ---
 
@@ -359,7 +359,7 @@ Video Timestamp: 00:43:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7037, N-3, N-771*
+*Related: C-7037, N-3, N-769*
 
 ---
 
@@ -374,7 +374,7 @@ Claim Count: 2
 Episode Count: 1 (this episode; cumulative higher)
 *Related: A-1677.1, A-1678.1, C-2201, C-2202*
 
-**N-457** Bill Montgomery
+**N-456** Bill Montgomery
 
 Co-founder of Turning Point USA per the Atlantic article (A-1678.1); described by host as Air Force reserves, from Lincoln, Nebraska, and connected to Helene Bartz and the founding of Creative Children's Academy.
 
@@ -384,7 +384,7 @@ Episode Count: 1
 Investigative Pressure: Low
 *Related: A-1678.1, C-2202*
 
-**N-496** Laurie Cardoza-Moore
+**N-495** Laurie Cardoza-Moore
 
 Identified via audio match as the author of the Christian Zionist threat message (A-1680.1, A-1681.1) and as having a prior acting/romance hotline background (A-1682.1); described by host as evangelical Zionist who learned later that she is Jewish.
 
@@ -422,7 +422,7 @@ Evidence Count: 2
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1680.1, A-1681.1, C-2203, N-496*
+*Related: A-1680.1, A-1681.1, C-2203, N-495*
 
 ---
 
@@ -473,7 +473,7 @@ Subject of the host's Wall Street Journal ad and Vanity Fair apology discussion.
 
 ---
 
-**N-187** Stacy Sheridan
+**N-186** Stacy Sheridan
 
 Named by the host as TPUSA's head of fundraising who, per fired employees, spent each day in the office with Erika.
 
@@ -481,7 +481,7 @@ Named by the host as TPUSA's head of fundraising who, per fired employees, spent
 
 ---
 
-**N-191** Mikey McCoy
+**N-190** Mikey McCoy
 
 Named among the McCoys at the September 22 private dinner.
 
@@ -489,7 +489,7 @@ Named among the McCoys at the September 22 private dinner.
 
 ---
 
-**N-218** Elizabeth McCoy
+**N-217** Elizabeth McCoy
 
 Named as Elizabeth McCoy among the McCoys at the September 22 private dinner.
 
@@ -497,7 +497,7 @@ Named as Elizabeth McCoy among the McCoys at the September 22 private dinner.
 
 ---
 
-**N-271** Dan Flood
+**N-270** Dan Flood
 
 Named by the host as having been in position to tell Erika about Charlie's night-before messages and as a relative of Robert Flood.
 
@@ -505,7 +505,7 @@ Named by the host as having been in position to tell Erika about Charlie's night
 
 ---
 
-**N-471** Robert Eugene Flood
+**N-470** Robert Eugene Flood
 
 Named by a tipster as having worked with the Montgomerys at Shaklee; the host places him in Dan Flood's family.
 
@@ -513,7 +513,7 @@ Named by a tipster as having worked with the Montgomerys at Shaklee; the host pl
 
 ---
 
-**N-768** Helene Bartz
+**N-766** Helene Bartz
 
 First named by the host at 00:29:53 in episode 063. Founder of Creative Children's Academy per the host; later said to have run the Shaklee Center in Arlington Heights. Transcript variants: Helene Bartz.
 
@@ -521,7 +521,7 @@ First named by the host at 00:29:53 in episode 063. Founder of Creative Children
 
 ---
 
-**N-769** Edith Walker Montgomery
+**N-767** Edith Walker Montgomery
 
 First named by the host at 00:29:53 in episode 063. Wife of Bill Montgomery, goes by Edith Walker; alleged immigrant from Germany and psychiatric nurse. Alias: Edith Marie Walker, Edith Walker.
 
@@ -529,7 +529,7 @@ First named by the host at 00:29:53 in episode 063. Wife of Bill Montgomery, goe
 
 ---
 
-**N-770** Michele Bachmann
+**N-768** Michele Bachmann
 
 First named by Laurie Cardoza-Moore in the audio at 00:39:08 in episode 063. Spoke for five minutes at the TPUSA Tampa conference per Moore.
 
@@ -537,7 +537,7 @@ First named by Laurie Cardoza-Moore in the audio at 00:39:08 in episode 063. Spo
 
 ---
 
-**N-771** Stanley Clark Moore
+**N-769** Stanley Clark Moore
 
 First named by the host at 00:41:47 in episode 063. Husband of Laurie Cardoza-Moore with an Air Force background per the host.
 
@@ -836,7 +836,7 @@ Investigative Direction: Authenticate the text via metadata (date, device, recip
 Claim Timestamp: 00:27:32
 Claim: The episode presents an Atlantic article excerpt (quoting a National Journal source) reporting Bill Montgomery met Charlie Kirk at Benedictine University in the western Chicago suburb during a youth government day in May 2012 and that TPUSA launched a month later with Montgomery's encouragement.
 Anchored Artifacts: A-1678.1
-Mentions: N-1, N-457
+Mentions: N-1, N-456
 Investigative Direction: Locate the full Atlantic article; cross-check Bill Montgomery's Air Force service record and his post-2012 role; investigate any alternative TPUSA origin narratives.
 
 **C-2203** Host Says Christian Zionist Threat Message Echoes Laurie Cardoza-Moore's Online Rant
@@ -844,7 +844,7 @@ Investigative Direction: Locate the full Atlantic article; cross-check Bill Mont
 Claim Timestamp: 00:38:50
 Claim: The host says that virtually everything said in the previously circulated Christian Zionist threat message was also in a rant Laurie Cardoza-Moore did live on the internet about Tucker Carlson's speech, and plays audio of her ranting in her car.
 Anchored Artifacts: A-1680.1, A-1681.1
-Mentions: N-496, N-22
+Mentions: N-495, N-22
 Related Nodes: N-10445
 Investigative Direction: Obtain independent forensic voice comparison; verify Laurie Cardoza-Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates.
 
@@ -853,7 +853,7 @@ Investigative Direction: Obtain independent forensic voice comparison; verify La
 Claim Timestamp: 00:41:17
 Claim: The host says, citing findings by internet sleuths of the "decentralized intelligence agency," that Laurie Cardoza-Moore's background is in acting and romance hotlines, and plays a 1-900 romance hotline advertisement.
 Anchored Artifacts: A-1682.1
-Mentions: N-496
+Mentions: N-495
 Investigative Direction: Establish provenance and dating of the romance hotline recording; obtain Laurie Cardoza-Moore's professional résumé or acting credits for corroboration.
 
 **C-2205** Erika Kirk gave an in-person NYT interview on September 18, 2025
@@ -1096,7 +1096,7 @@ Claim: The host says that on the 22nd there was a private dinner, at a restauran
 Transcript Snippet: There's a private dinner. Not going to mention what restaurant it's at, but the McCoys are there. Elizabeth, Mikey, Erika, uh, and they're in joyous spirits
 
 Anchored Artifacts: A-2846.1
-Mentions: N-3, N-2, N-218, N-191
+Mentions: N-3, N-2, N-217, N-190
 Related Nodes: N-10002
 Tags: relevance:core
 Investigative Direction: Identify the restaurant and attendees via receipts, reservations or the host's email source.
@@ -1304,7 +1304,7 @@ Claim: The host says now-fired employees tell her that, contrary to the host's e
 Transcript Snippet: She was in the office every day with Stacy Sheridan, running around with Stacy Sheridan, taking phone calls with Stacy Sheridan.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-187
+Mentions: N-3, N-2, N-186
 Related Nodes: N-10000, N-10439
 Tags: relevance:core
 Investigative Direction: Interview former staff about Erika's office attendance in September 2025, and check badge or calendar records and Sheridan's role at TPUSA.
@@ -1351,7 +1351,7 @@ Claim: The host says the story the public knows and she was told is that Charlie
 Transcript Snippet: The story the public knows and the story that I was told is that Charlie was this teenager, didn't get into West Point.
 
 Anchored Artifacts: A-1678.1
-Mentions: N-3, N-1, N-457
+Mentions: N-3, N-1, N-456
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Compare with published founding accounts of TPUSA and Charlie Kirk's own statements on West Point.
@@ -1367,7 +1367,7 @@ Claim: The host says Bill Montgomery has since passed, that she met him and that
 Transcript Snippet: He has since passed. I've met Bill Montgomery. He's very kind to me.
 
 Anchored Artifacts: 
-Mentions: N-3, N-457
+Mentions: N-3, N-456
 Tags: relevance:context
 Investigative Direction: Confirm Montgomery's death date and obituary details.
 
@@ -1382,7 +1382,7 @@ Claim: The host says Bill Montgomery was in the Air Force reserves and was also 
 Transcript Snippet: Bill Montgomery was Air Force. He's in the Air Force reserves. Uh, Bill Montgomery also happened to be from Lincoln, Nebraska.
 
 Anchored Artifacts: 
-Mentions: N-3, N-457
+Mentions: N-3, N-456
 Related Nodes: N-10211
 Tags: relevance:core
 Investigative Direction: Obtain Montgomery's military service record, obituary and Nebraska residence history.
@@ -1398,7 +1398,7 @@ Claim: The host says not much is known about what Montgomery did in the military
 Transcript Snippet: we do know that he moved to the Chicago area thereafter, which obviously in the area where Charlie's X-Men School was.
 
 Anchored Artifacts: 
-Mentions: N-3, N-457, N-1
+Mentions: N-3, N-456, N-1
 Related Nodes: N-11122
 Tags: relevance:core
 Investigative Direction: Establish when and why Montgomery moved to the Chicago area using public records and obituaries.
@@ -1462,7 +1462,7 @@ Claim: The host says Creative Children's Academy was founded by a woman named He
 Transcript Snippet: was founded by a woman named Helene Bartz. Okay. Her husband is a Reverend Robert Bartz of Arlington Heights.
 
 Anchored Artifacts: 
-Mentions: N-3, N-768
+Mentions: N-3, N-766
 Related Nodes: N-11122
 Tags: relevance:context
 Investigative Direction: Verify the founders through Illinois corporation filings and school history sources.
@@ -1478,7 +1478,7 @@ Claim: The host says a tip she received, which she says she was able to confirm,
 Transcript Snippet: Helene Bartz was actually good friends with Bill Montgomery and his wife Edith Montgomery.
 
 Anchored Artifacts: A-2847.1
-Mentions: N-3, N-768, N-457, N-769
+Mentions: N-3, N-766, N-456, N-767
 Related Nodes: N-11122
 Tags: relevance:context
 Investigative Direction: Obtain independent corroboration, such as church, business or social records, linking Barts and the Montgomerys.
@@ -1494,7 +1494,7 @@ Claim: The host says Edith Walker, who she has since learned immigrated from Ger
 Transcript Snippet: Edith Walker, who I've since learned immigrated from Germany after World War II, and I can't really find much else about her
 
 Anchored Artifacts: A-2847.1
-Mentions: N-3, N-769
+Mentions: N-3, N-767
 Tags: relevance:context
 Investigative Direction: Search immigration, nursing licensure and employment records for Edith Marie Walker; the host asks viewers for help.
 
@@ -1509,7 +1509,7 @@ Claim: The host relays that the tipster claims Edith Walker started the school w
 Transcript Snippet: she was actually the person that started the school with Helene Bartz and that's has since virtually been wiped from public record.
 
 Anchored Artifacts: A-2847.1
-Mentions: N-3, N-769, N-768
+Mentions: N-3, N-767, N-766
 Related Nodes: N-11122
 Tags: relevance:context
 Investigative Direction: Compare school founding documents and archived web pages for any mention of Edith Walker.
@@ -1525,7 +1525,7 @@ Claim: The host relays that the tipster says Bill Montgomery, his wife and a cer
 Transcript Snippet: The person claims that Bill and his wife and a certain Robert Flood who is in Dan Flood's family, this is what they claim
 
 Anchored Artifacts: A-2847.1
-Mentions: N-3, N-457, N-769, N-471, N-271
+Mentions: N-3, N-456, N-767, N-470, N-270
 Related Nodes: N-11124
 Tags: relevance:context
 Investigative Direction: Seek Shaklee employment records or distributor histories for Montgomery, his wife and Robert Flood, and confirm any family link to Dan Flood.
@@ -1573,7 +1573,7 @@ Claim: The host says she was able to confirm that Helene Bartz, before starting 
 Transcript Snippet: I confirmed that she did indeed prior to worked at Shackley. She actually ran the Shackley Center in Arlington Heights.
 
 Anchored Artifacts: 
-Mentions: N-3, N-768
+Mentions: N-3, N-766
 Related Nodes: N-11124, N-11122
 Tags: relevance:context
 Investigative Direction: Request the host's confirming source and look for Shaklee distributor or center records in Arlington Heights.
@@ -1606,7 +1606,7 @@ Claim: The host asks viewers with more information to email moretips@candaceowen
 Transcript Snippet: email, send us an email at more tips@canacewowens. com.
 
 Anchored Artifacts: A-2848.1
-Mentions: N-3, N-769
+Mentions: N-3, N-767
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Review incoming tip responses to the request; this is a call for crowd research.
@@ -1670,7 +1670,7 @@ Claim: The host says a small account, the Brave Report, pulled up Laurie Cardoza
 Transcript Snippet: Laurie Cardoza-Moore The Brave Report pulled up as an evangelical Zionist who said that she then learned later on that she's Jewish but she is still an evangelical.
 
 Anchored Artifacts: A-2849.1
-Mentions: N-3, N-496
+Mentions: N-3, N-495
 Related Nodes: N-10445, N-10209
 Tags: relevance:core
 Investigative Direction: Locate the Brave Report posts and Moore's own statements on her background.
@@ -1686,7 +1686,7 @@ Claim: In the audio, Laurie Cardoza-Moore says three couples who attended the Tu
 Transcript Snippet: I had three couples reach out to me who had been to the Turning Point USA conference and this was in Tampa a couple weeks ago.
 
 Anchored Artifacts: A-1681.1
-Mentions: N-496, N-22, N-770
+Mentions: N-495, N-22, N-768
 Related Nodes: N-10445, N-10209
 Tags: relevance:core
 Investigative Direction: Identify the date of the Tampa conference and compare the account with video of Carlson's and Bachmann's sessions.
@@ -1702,7 +1702,7 @@ Claim: In the audio, Laurie Cardoza-Moore says Michele Bachmann told her persona
 Transcript Snippet: She said 10% in the room got up and walked out on her.
 
 Anchored Artifacts: A-1681.1
-Mentions: N-496, N-770, N-1, N-22
+Mentions: N-495, N-768, N-1, N-22
 Related Nodes: N-10445, N-10209
 Tags: relevance:core
 Investigative Direction: Review the Tampa conference footage for the booing, walkouts and any remarks by Charlie Kirk afterward.
@@ -1718,7 +1718,7 @@ Claim: The host says Laurie Cardoza-Moore is married to a man named Stanley Clar
 Transcript Snippet: married to a man named Stanley Clark Moore. He has an Air Force background.
 
 Anchored Artifacts: A-2850.1
-Mentions: N-3, N-496, N-771
+Mentions: N-3, N-495, N-769
 Tags: relevance:context
 Investigative Direction: Search public records and the Wikipedia article for Stanley Clark Moore's biography and family.
 
@@ -1733,7 +1733,7 @@ Claim: The host says that, if his Wikipedia page is to be believed, Stanley Clar
 Transcript Snippet: Uh, also went to go work for NASA if if his Wikipedia is to be believed for a little bit.
 
 Anchored Artifacts: A-2850.1
-Mentions: N-3, N-771
+Mentions: N-3, N-769
 Related Nodes: N-11125
 Tags: relevance:context
 Investigative Direction: Read the Wikipedia article and its sources for the NASA employment claim.
@@ -1749,7 +1749,7 @@ Claim: The host asks viewers to message more tips at candaceowens.com about whic
 Transcript Snippet: Message us more tips at candacewowens. com.
 
 Anchored Artifacts: A-2851.1
-Mentions: N-3, N-771
+Mentions: N-3, N-769
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Review incoming tip responses; this is a call for crowd research.
@@ -1970,7 +1970,7 @@ Claim: The host says she is less inclined to believe that Andrew Kolvet and Dan 
 Transcript Snippet: I'm less inclined to believe that Andrew Kolvet and Dan Flood didn't tell her afterward that she had to rely on his text messages.
 
 Anchored Artifacts: 
-Mentions: N-3, N-14, N-271, N-2, N-1
+Mentions: N-3, N-14, N-270, N-2, N-1
 Related Nodes: N-10340
 Tags: relevance:core
 Investigative Direction: Ask Kolvet, Flood and the FBI when Erika was told of Charlie's night-before messages and fears.

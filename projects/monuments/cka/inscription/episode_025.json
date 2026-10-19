@@ -31,7 +31,7 @@
             "C-1585"
           ],
           "related_nodes": [
-            "N-191",
+            "N-190",
             "N-17",
             "N-10218"
           ],
@@ -60,7 +60,7 @@
           ],
           "related_nodes": [
             "N-17",
-            "N-191",
+            "N-190",
             "N-2",
             "N-10218"
           ],
@@ -88,7 +88,7 @@
             "C-1586"
           ],
           "related_nodes": [
-            "N-191",
+            "N-190",
             "N-1",
             "N-10219"
           ],
@@ -116,8 +116,8 @@
             "C-1587"
           ],
           "related_nodes": [
-            "N-218",
-            "N-191",
+            "N-217",
+            "N-190",
             "N-1",
             "N-2",
             "N-10219"
@@ -147,7 +147,7 @@
           ],
           "related_nodes": [
             "N-17",
-            "N-219",
+            "N-218",
             "N-10220"
           ],
           "tags": [],
@@ -174,7 +174,7 @@
             "C-1589"
           ],
           "related_nodes": [
-            "N-220",
+            "N-219",
             "N-10221"
           ],
           "tags": [],
@@ -230,7 +230,7 @@
           "related_nodes": [
             "N-22",
             "N-39",
-            "N-202"
+            "N-201"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -257,7 +257,7 @@
           ],
           "related_nodes": [
             "N-22",
-            "N-202",
+            "N-201",
             "N-39"
           ],
           "tags": [],
@@ -284,7 +284,7 @@
             "C-1594"
           ],
           "related_nodes": [
-            "N-221",
+            "N-220",
             "N-10222"
           ],
           "tags": [],
@@ -425,7 +425,7 @@
           ],
           "related_nodes": [
             "N-22",
-            "N-182"
+            "N-181"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -439,8 +439,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Chief of Staff of Turning Point USA; subject of repeated adjectival framing (\"hero,\" \"amazing,\" \"brilliant\") in post-9/10 memorial and TPUSA orbit coverage; alleged by host to have been positioned as Charlie Kirk's successor.",
@@ -463,7 +463,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-17",
-        "N-218",
+        "N-217",
         "N-1",
         "N-2",
         "N-10218",
@@ -495,15 +495,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-191",
-        "N-219",
+        "N-190",
+        "N-218",
         "N-10220"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-218",
-      "ref": "N-218",
+      "@id": "N-217",
+      "ref": "N-217",
       "name": "Elizabeth McCoy",
       "type": "person",
       "description": "Wife of Mikey McCoy; author of the Instagram post characterizing the McCoy-Kirk joint trip as the families' \"first family trip together.\"",
@@ -519,7 +519,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-191",
+        "N-190",
         "N-10219"
       ]
     },
@@ -545,7 +545,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-39",
-        "N-202"
+        "N-201"
       ]
     },
     {
@@ -570,13 +570,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-22",
-        "N-202"
+        "N-201"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-202",
-      "ref": "N-202",
+      "@id": "N-201",
+      "ref": "N-201",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Subject of Tucker Carlson's interview; framed by Tucker as example of capacity for personal change despite prior personal attacks on Tucker's family.",
@@ -600,8 +600,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-219",
-      "ref": "N-219",
+      "@id": "N-218",
+      "ref": "N-218",
       "name": "Micah Stephens",
       "type": "person",
       "description": "Rob McCoy's son-in-law; per Ventura County Star, designated to succeed Rob McCoy as senior pastor of Godspeak Calvary Chapel.",
@@ -623,8 +623,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-220",
-      "ref": "N-220",
+      "@id": "N-219",
+      "ref": "N-219",
       "name": "Nate Carlisle",
       "type": "person",
       "description": "Fox 13 Salt Lake City investigative reporter who broke the story on UVU's release of the mid-July event application and the absence of a standard police-protection question on the form.",
@@ -645,8 +645,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-182",
-      "ref": "N-182",
+      "@id": "N-181",
+      "ref": "N-181",
       "name": "Sam Parker",
       "type": "person",
       "description": "Per host, identified as the source of the July 18 UVU/Turning Point USA event-request finding. (Name preserved as it appears in transcript; identity not further corroborated in this episode.)",
@@ -685,8 +685,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-221",
-      "ref": "N-221",
+      "@id": "N-220",
+      "ref": "N-220",
       "name": "Milo Yiannopoulos",
       "type": "person",
       "description": "Author of tweet read on-air suggesting Israel was behind the Kirk assassination, in the context of BBNet/Yahoo denial coverage.",
@@ -724,7 +724,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-191",
+        "N-190",
         "N-17",
         "N-1",
         "N-2"
@@ -751,8 +751,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-191",
-        "N-218",
+        "N-190",
+        "N-217",
         "N-1",
         "N-2"
       ]
@@ -779,7 +779,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-17",
-        "N-219"
+        "N-218"
       ]
     },
     {
@@ -801,8 +801,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-220",
-        "N-182"
+        "N-219",
+        "N-181"
       ]
     },
     {
@@ -826,7 +826,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-221"
+        "N-220"
       ]
     },
     {
@@ -1297,8 +1297,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-758",
-      "ref": "N-758",
+      "@id": "N-756",
+      "ref": "N-756",
       "name": "Glenn Greenwald",
       "type": "person",
       "description": "First named in the Tucker Carlson clip at 00:35:17 in episode 25. Journalist Tucker Carlson says he once hated and now counts a favorite.",
@@ -1403,7 +1403,7 @@
       "claim_timestamp": "00:02:42–00:05:23",
       "investigative_direction": "Obtain full memorial service audio/video; verify whether speaking slots and language were coordinated with TPUSA communications or Rob McCoy directly.",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-1"
       ]
     },
@@ -1425,7 +1425,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-17",
-        "N-191",
+        "N-190",
         "N-1"
       ]
     },
@@ -1445,7 +1445,7 @@
       "claim_timestamp": "00:10:01–00:10:58",
       "investigative_direction": "Verify whether AV staff were present on the Korea trip and why the chief of staff assumed miking duties; cross-reference dates against Charlie Kirk's known travel itinerary.",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-1"
       ]
     },
@@ -1467,8 +1467,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-191",
-        "N-218"
+        "N-190",
+        "N-217"
       ]
     },
     {
@@ -1488,7 +1488,7 @@
       "investigative_direction": "Obtain the original Ventura County Star article; verify Rob McCoy's stated dates of pastoral transition and Phoenix home purchase; cross-reference against Turning Point USA organizational records.",
       "mentions_person_refs": [
         "N-17",
-        "N-219"
+        "N-218"
       ]
     },
     {
@@ -1507,7 +1507,7 @@
       "claim_timestamp": "00:17:57–00:19:30",
       "investigative_direction": "File records requests for the full UVU event application, security plan, and any internal communications between UVU and TPUSA; compare against standard UVU event application forms for the 2024–2025 academic year.",
       "mentions_person_refs": [
-        "N-220"
+        "N-219"
       ]
     },
     {
@@ -1563,7 +1563,7 @@
       "mentions_person_refs": [
         "N-22",
         "N-39",
-        "N-202"
+        "N-201"
       ]
     },
     {
@@ -1635,7 +1635,7 @@
       "investigative_direction": "Compare the shooting-day footage of Mikey McCoy's location and movements with the host's statement.",
       "transcript_snippet": "I don't think that I know that Mikey McCoy did not kill Charlie Kirk. We watch him in those moments.",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-1",
         "N-3"
       ]
@@ -1660,7 +1660,7 @@
         "C-1584"
       ],
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-17",
         "N-1",
         "N-3"
@@ -1689,7 +1689,7 @@
       ],
       "mentions_person_refs": [
         "N-17",
-        "N-191",
+        "N-190",
         "N-1",
         "N-3"
       ]
@@ -1712,7 +1712,7 @@
       "investigative_direction": "Identify the insiders through the host's sources and ask TPUSA staff who worked with Mikey McCoy after September 10 to confirm or deny.",
       "transcript_snippet": "Mikey McCoy appeared to have like an extra spring in his step that made them all a little bit uncomfortable in the aftermath",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-1",
         "N-3"
       ]
@@ -1735,7 +1735,7 @@
       "investigative_direction": "Check Liberty University convocation and event listings for Mikey McCoy appearances and who invited him.",
       "transcript_snippet": "Look, he's already speaking at Liberty University. Why? Because he made some phone calls.",
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-3"
       ]
     },
@@ -1759,7 +1759,7 @@
         "C-1584"
       ],
       "mentions_person_refs": [
-        "N-191",
+        "N-190",
         "N-1",
         "N-3"
       ]
@@ -1788,7 +1788,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -1812,8 +1812,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-191",
-        "N-218",
+        "N-190",
+        "N-217",
         "N-1",
         "N-2"
       ]
@@ -1836,8 +1836,8 @@
       "transcript_snippet": "thankfully the McCoys were on hand in what looks like mid July or early August into early August. According to my source, my sources, we will nail down these specific dates in the future.",
       "mentions_person_refs": [
         "N-3",
-        "N-191",
-        "N-218"
+        "N-190",
+        "N-217"
       ]
     },
     {
@@ -2008,7 +2008,7 @@
         "C-1589"
       ],
       "mentions_person_refs": [
-        "N-182",
+        "N-181",
         "N-1",
         "N-3"
       ]
@@ -2033,7 +2033,7 @@
       "investigative_direction": "Follow the Fox 13 records appeal and the state records ruling on the UVU security plan.",
       "transcript_snippet": "The campus also has expressed concern that the records could interfere in any investigation and someone's right to a fair trial.",
       "mentions_person_refs": [
-        "N-220",
+        "N-219",
         "N-40"
       ]
     },
@@ -2060,7 +2060,7 @@
         "C-1589"
       ],
       "mentions_person_refs": [
-        "N-220"
+        "N-219"
       ]
     },
     {
@@ -2168,7 +2168,7 @@
       "investigative_direction": "Locate Yiannopoulos's original tweet and confirm its exact wording and date.",
       "transcript_snippet": "I saw like Milo Yiannopoulos tweeted, I think is now I think Israel did it",
       "mentions_person_refs": [
-        "N-221",
+        "N-220",
         "N-3"
       ]
     },
@@ -2191,7 +2191,7 @@
       "investigative_direction": "Compare the Israeli War Room report of the award with statements from the award organizers and Erika Kirk's office.",
       "transcript_snippet": "he was tweeting about the bizarre lie of them saying Erika Kirk was accepting this award and they completely fictionalized it.",
       "mentions_person_refs": [
-        "N-221",
+        "N-220",
         "N-2",
         "N-3"
       ]
@@ -2394,7 +2394,7 @@
       "transcript_snippet": "I hated Glenn Greenwald. Now I think he's one of my favorite people in the world",
       "mentions_person_refs": [
         "N-22",
-        "N-758"
+        "N-756"
       ]
     },
     {

@@ -34,8 +34,8 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1587, A-1588, A-1589, A-1590, A-1591, A-1592, A-1593, A-1594, A-1595
   - Claim Range: C-2016–C-2025
-  - New Nodes Introduced: N-389, N-391, N-392, N-393, N-395, N-396, N-397, N-10386, N-10388, N-10390, N-10391
-  - Reused Nodes Appearing: N-10387, N-2, N-27, N-82, N-267, N-271, N-367, N-376, N-485, N-10000, N-10004, N-10113, N-10268, N-10270, N-10316, N-10406, N-10416, N-10900, N-10385, N-11121, N-740, N-11116, N-11117, N-390, N-486, N-10389, N-10661, N-10925, N-394
+  - New Nodes Introduced: N-388, N-390, N-391, N-392, N-394, N-395, N-396, N-10386, N-10388, N-10390, N-10391
+  - Reused Nodes Appearing: N-10387, N-2, N-27, N-82, N-266, N-270, N-366, N-375, N-484, N-10000, N-10004, N-10113, N-10268, N-10270, N-10316, N-10406, N-10416, N-10900, N-10385, N-11121, N-738, N-11116, N-11117, N-389, N-485, N-10389, N-10661, N-10925, N-393
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable – Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megyn Kelly presumed to exist), N-11
 
 ---
@@ -62,7 +62,7 @@ Video Timestamp: 00:06:31–00:09:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2016, C-2017, C-2024, N-389, N-10385*
+*Related: C-2016, C-2017, C-2024, N-388, N-10385*
 
 ---
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:11:04–00:12:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2018, N-389, N-10385*
+*Related: C-2018, N-388, N-10385*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:09:24–00:11:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2017, N-389, N-10385*
+*Related: C-2017, N-388, N-10385*
 
 ---
 
@@ -104,7 +104,7 @@ Video Timestamp: 00:24:45–00:27:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2019, C-2025, N-391, N-392, N-393, N-394, N-395, N-10386, N-10391*
+*Related: C-2019, C-2025, N-390, N-391, N-392, N-393, N-394, N-10386, N-10391*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:18:09–00:19:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2020, N-390, N-391, N-10386*
+*Related: C-2020, N-389, N-390, N-10386*
 
 ---
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:47:47–00:49:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2021, C-2022, N-396, N-10387, N-10390*
+*Related: C-2021, C-2022, N-395, N-10387, N-10390*
 
 ---
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:44:48–00:45:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (exact date and identity of "oracle" figure not independently verified)
 
-*Related: C-2023, N-1, N-397, N-10389*
+*Related: C-2023, N-1, N-396, N-10389*
 
 ---
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:41:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6965, N-1, N-267, N-271, N-3*
+*Related: C-6965, N-1, N-266, N-270, N-3*
 
 ---
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:54:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6976, N-3, N-389*
+*Related: C-6976, N-3, N-388*
 
 ---
 
@@ -235,7 +235,7 @@ Confidence Level: Low
 ## IV. Node Register
 
 
-**N-389** Maggie Wegner
+**N-388** Maggie Wegner
 
 Person who received a Daily Wire audition approach to host a show mocking Candace Owens and Tucker Carlson; declined the role. Provided email, text message, and AI video sample as artifacts.
 
@@ -248,7 +248,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-390** Steve Bannon
+**N-389** Steve Bannon
 
 Former Breitbart chairman referenced via Amfest audio clip describing Ben Shapiro's pattern of attempted hostile takeovers of conservative organizations.
 
@@ -257,11 +257,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1591.1, C-2020, N-391, N-10386*
+*Related: A-1591.1, C-2020, N-390, N-10386*
 
 ---
 
-**N-391** Andrew Breitbart
+**N-390** Andrew Breitbart
 
 Founder of Breitbart News; died March 1, 2012. Subject of Bannon's account and Shapiro's own resignation statement referencing mentorship and editor-at-large role.
 
@@ -270,11 +270,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, A-1591.1, C-2020, C-2025, N-390, N-10386, N-10391*
+*Related: A-1590.1, A-1591.1, C-2020, C-2025, N-389, N-10386, N-10391*
 
 ---
 
-**N-392** Jamie Weinstein
+**N-391** Jamie Weinstein
 
 Named in host's recounting (not from artifact) as the alleged co-conspirator with Ben Shapiro in the Breitbart/Fields affair and identified as Michelle Fields' husband at the time. No displayed artifact anchors this; tracked here for potential cross-episode verification.
 
@@ -283,11 +283,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-393, N-10386, N-10391*
+*Related: N-392, N-10386, N-10391*
 
 ---
 
-**N-393** Michelle Fields
+**N-392** Michelle Fields
 
 Breitbart reporter who alleged assault by Corey Lewandowski; central figure in the 2016 Breitbart scandal referenced in Shapiro's resignation statement.
 
@@ -296,11 +296,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, C-2019, N-392, N-394, N-10391*
+*Related: A-1590.1, C-2019, N-391, N-393, N-10391*
 
 ---
 
-**N-394** Corey Lewandowski
+**N-393** Corey Lewandowski
 
 Former Trump campaign manager alleged to have assaulted Michelle Fields at a 2016 event; named in Shapiro's resignation statement.
 
@@ -309,11 +309,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, C-2019, N-393, N-10391*
+*Related: A-1590.1, C-2019, N-392, N-10391*
 
 ---
 
-**N-395** Austin Smith
+**N-394** Austin Smith
 
 Former Arizona state representative and Turning Point Action leader, age 30. Sentenced for petition signature fraud including forging a dead woman's signature.
 
@@ -326,7 +326,7 @@ Investigative Pressure: High
 
 ---
 
-**N-396** Michael Cormier
+**N-395** Michael Cormier
 
 Forensic technician (age 61) referenced by host as involved in Andrew Breitbart's autopsy who allegedly died from "military-grade arsenic poisoning." Claim presented via host recounting only; no artifact displayed.
 
@@ -335,11 +335,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-391*
+*Related: N-390*
 
 ---
 
-**N-397** Charlie Kirk's "Oracle" Figure
+**N-396** Charlie Kirk's "Oracle" Figure
 
 Older Jewish man described in Charlie Kirk's text messages as someone Charlie visited for spiritual reasons regarding his premonitions of dying young. Identity not disclosed; described as having met Charlie through a gifted school in Chicago.
 
@@ -387,7 +387,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1587.1, A-1588.1, A-1589.1, C-2016, C-2017, C-2018, C-2024, N-389*
+*Related: A-1587.1, A-1588.1, A-1589.1, C-2016, C-2017, C-2018, C-2024, N-388*
 
 ---
 
@@ -400,7 +400,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1590.1, A-1591.1, C-2019, C-2020, C-2025, N-390, N-391, N-392, N-393, N-394, N-46, N-10391*
+*Related: A-1590.1, A-1591.1, C-2019, C-2020, C-2025, N-389, N-390, N-391, N-392, N-393, N-46, N-10391*
 
 ---
 
@@ -413,7 +413,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1592.1, N-395, N-10390, N-11*
+*Related: A-1592.1, N-394, N-10390, N-11*
 
 ---
 
@@ -439,7 +439,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1593.1, C-2023, N-1, N-397*
+*Related: A-1593.1, C-2023, N-1, N-396*
 
 ---
 
@@ -452,7 +452,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1592.1, C-2021, C-2022, N-395, N-10387*
+*Related: A-1592.1, C-2021, C-2022, N-394, N-10387*
 
 ---
 
@@ -465,7 +465,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, N-391, N-392, N-393, N-394, N-10386*
+*Related: A-1590.1, N-390, N-391, N-392, N-393, N-10386*
 
 ---
 
@@ -534,7 +534,7 @@ Central target of the host's claims about takeovers, donor pressure and the Dail
 
 ---
 
-**N-194** David Horowitz
+**N-193** David Horowitz
 
 Named by Bannon and the host as a target of Shapiro.
 
@@ -542,7 +542,7 @@ Named by Bannon and the host as a target of Shapiro.
 
 ---
 
-**N-267** Brian Harpole
+**N-266** Brian Harpole
 
 Named with Dan Flood in the host's account of Charlie's early security.
 
@@ -550,7 +550,7 @@ Named with Dan Flood in the host's account of Charlie's early security.
 
 ---
 
-**N-271** Dan Flood
+**N-270** Dan Flood
 
 Named with Brian Harpole in the host's account of Charlie's early security.
 
@@ -558,7 +558,7 @@ Named with Brian Harpole in the host's account of Charlie's early security.
 
 ---
 
-**N-367** Jeremy Boreing
+**N-366** Jeremy Boreing
 
 Former Daily Wire CEO, named for the town hall and the Kanye conference room.
 
@@ -566,7 +566,7 @@ Former Daily Wire CEO, named for the town hall and the Kanye conference room.
 
 ---
 
-**N-376** Ryan Reynolds
+**N-375** Ryan Reynolds
 
 Named in the host's reading of the Baldoni lawsuit.
 
@@ -574,7 +574,7 @@ Named in the host's reading of the Baldoni lawsuit.
 
 ---
 
-**N-485** Blake Lively
+**N-484** Blake Lively
 
 Named in the host's reading of the Baldoni lawsuit.
 
@@ -582,7 +582,7 @@ Named in the host's reading of the Baldoni lawsuit.
 
 ---
 
-**N-486** Justin Baldoni
+**N-485** Justin Baldoni
 
 Subject of the host's reading of his lawsuit.
 
@@ -590,7 +590,7 @@ Subject of the host's reading of his lawsuit.
 
 ---
 
-**N-740** Michael Jackson
+**N-738** Michael Jackson
 
 Subject of the Daily Wire episode the host cites as a firing reason.
 
@@ -766,7 +766,7 @@ Claim Timestamp: 00:06:31
 Claim: Per an email from Maggie Wegner that the host reads, a Daily Wire producer contacted her about 2 days after Ben Shapiro's Amfest speech to audition her for a solo show presented as a comedy show making fun of the right and the left, with Candace Owens and Tucker Carlson brought up immediately.
 
 Anchored Artifacts: A-1587.1
-Mentions: N-389, N-22, N-3, N-97
+Mentions: N-388, N-22, N-3, N-97
 
 Related Nodes: N-10385
 
@@ -781,7 +781,7 @@ Claim Timestamp: 00:07:36
 Claim: Per an email from Maggie Wegner that the host reads, the audition script and AI video were entirely about making fun of Candace Owens, and the producer said, "So when Candace or Tucker says something crazy, we would want you to make fun of it."
 
 Anchored Artifacts: A-1587.1, A-1589.1
-Mentions: N-389, N-3, N-22
+Mentions: N-388, N-3, N-22
 
 Related Nodes: N-10385
 
@@ -796,7 +796,7 @@ Claim Timestamp: 00:11:04
 Claim: Per a text message the host shows, Maggie Wegner declined the Daily Wire audition role, texting the producer that making fun of Candace did not feel true to her beliefs.
 
 Anchored Artifacts: A-1588.1
-Mentions: N-389
+Mentions: N-388
 
 Related Nodes: N-10385
 
@@ -811,7 +811,7 @@ Claim Timestamp: 00:24:45
 Claim: Per the statement the host reads, Ben Shapiro publicly resigned from Breitbart News as of 9:00 PM Pacific, citing the company's handling of Michelle Fields' allegations that Corey Lewandowski assaulted her; the host dates the resignation to March 13, 2016.
 
 Anchored Artifacts: A-1590.1
-Mentions: N-393, N-394, N-97
+Mentions: N-392, N-393, N-97
 
 Related Nodes: N-10386, N-10391
 
@@ -826,7 +826,7 @@ Claim Timestamp: 00:18:09
 Claim: Steve Bannon stated at Amfest that Ben Shapiro "tried to take over Breitbart," "tried to take over David Horowitz's [organization]," and predicted he "will make a move on Turning Point."
 
 Anchored Artifacts: A-1591.1
-Mentions: N-390, N-194, N-97
+Mentions: N-389, N-193, N-97
 
 Related Nodes: N-10386
 
@@ -841,7 +841,7 @@ Claim Timestamp: 00:48:50
 Claim: Per a news article the host reads, Austin Smith, age 30, former Arizona state representative and Turning Point Action leader, was scheduled to be sentenced Tuesday for using nominating petitions that contained forged signatures, including forging a dead woman's signature, in a 2024 primary election bid.
 
 Anchored Artifacts: A-1592.1
-Mentions: N-395
+Mentions: N-394
 
 Related Nodes: N-10387, N-10390
 
@@ -856,7 +856,7 @@ Claim Timestamp: 00:49:14
 Claim: Per a news article the host reads, Austin Smith plead guilty in mid-November to charges of attempted fraudulent schemes and practices and illegal signing of election petitions.
 
 Anchored Artifacts: A-1592.1
-Mentions: N-395
+Mentions: N-394
 
 Related Nodes: N-10390
 
@@ -871,7 +871,7 @@ Claim Timestamp: 00:42:50
 Claim: The host says Charlie Kirk saw an older Jewish man from Chicago, matched with him, if memory serves, through a school for the gifted, who all but confirmed Charlie's visions that he would die young and told him his death would save humanity; she shows a text in which Charlie writes that the man says he is 'being shaped for a time to save humanity'.
 
 Anchored Artifacts: A-1593.1
-Mentions: N-1, N-3, N-397
+Mentions: N-1, N-3, N-396
 
 Related Nodes: N-10389
 
@@ -886,7 +886,7 @@ Claim Timestamp: 00:06:31
 Claim: Per an email the host reads, the Daily Wire producer who contacted Maggie Wegner was in "panic mode" about casting the show, having only come up with the show concept the day before contacting her.
 
 Anchored Artifacts: A-1587.1
-Mentions: N-389
+Mentions: N-388
 
 Related Nodes: N-10385
 
@@ -901,7 +901,7 @@ Claim Timestamp: 00:24:58
 Claim: Per Ben Shapiro's own resignation statement that the host reads, he signed on with Breitbart News two weeks before Andrew Breitbart's death, which the host elsewhere dates to March 1, 2012.
 
 Anchored Artifacts: A-1590.1
-Mentions: N-391, N-97
+Mentions: N-390, N-97
 
 Related Nodes: N-10386, N-10391
 
@@ -977,7 +977,7 @@ Claim: The host says Austin Smith, the Turning Point Action former employee just
 Transcript Snippet: Of course, he too was hired by Tyler Bowyer because I, as I have been telling you guys from the very beginning, Tyler Bowyer is the lynch pin.
 
 Anchored Artifacts: 
-Mentions: N-11, N-395, N-3
+Mentions: N-11, N-394, N-3
 Related Nodes: N-10925, N-10387
 Tags: relevance:core
 Investigative Direction: Obtain Turning Point Action employment records for Austin Smith and who approved his hiring.
@@ -1122,7 +1122,7 @@ Claim: The host reads Maggie Wegner's email saying she tried to rewrite the audi
 Transcript Snippet: I even tried to rewrite it in a way that was true to me, but I couldn't do it. It just felt like high school bullies.
 
 Anchored Artifacts: A-1587.1
-Mentions: N-389
+Mentions: N-388
 Related Nodes: N-10385
 Tags: relevance:context
 Investigative Direction: Verify against the original, unredacted email and the people Maggie says advised her.
@@ -1138,7 +1138,7 @@ Claim: The host reads Maggie Wegner's email saying she was told not to share the
 Transcript Snippet: I was told not to share the AI video the day after you announced on your show that you knew about the show that they were planning to launch.
 
 Anchored Artifacts: A-1587.1
-Mentions: N-389, N-3
+Mentions: N-388, N-3
 Related Nodes: N-10385, N-10416
 Tags: relevance:context
 Investigative Direction: Establish who told Maggie not to share the video and when, using the call receipts she says she supplied.
@@ -1154,7 +1154,7 @@ Claim: The host reads Maggie Wegner's email saying she attached the AI video, th
 Transcript Snippet: Attached below is the AI video that they sent me and the text that I sent the producer and also proof of the call.
 
 Anchored Artifacts: A-1587.1
-Mentions: N-389
+Mentions: N-388
 Related Nodes: N-10385
 Tags: relevance:context
 Investigative Direction: Request the attachments and call logs and check dates and metadata.
@@ -1218,7 +1218,7 @@ Claim: The host says Maggie Wegner did not get the job because she went back to 
 Transcript Snippet: she didn't get the job because she went back to them and she wrote and said, 'I feel uncomfortable doing this.
 
 Anchored Artifacts: A-1588.1
-Mentions: N-389, N-3
+Mentions: N-388, N-3
 Related Nodes: N-10385
 Supports: C-2018
 Tags: relevance:context
@@ -1235,7 +1235,7 @@ Claim: The host says the Daily Wire's message to would-be hosts amounts to a sta
 Transcript Snippet: We can make you a star, but you have to be willing to attack Candace Owens. That's what we are casting for.
 
 Anchored Artifacts: A-1587.1
-Mentions: N-3, N-389
+Mentions: N-3, N-388
 Related Nodes: N-10385
 Tags: relevance:context
 Investigative Direction: Seek additional casting emails or scripts from other candidates to test whether the condition was stated.
@@ -1251,7 +1251,7 @@ Claim: The host says Jeremy Boreing, in the company town hall, named her public 
 Transcript Snippet: the clearly immoral and impractical stance that I publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired.
 
 Anchored Artifacts: 
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-10900, N-11116
 Supports: C-1982
 Tags: relevance:context
@@ -1268,7 +1268,7 @@ Claim: The host says then-CEO Jeremy Boreing gave her position that pornography 
 Transcript Snippet: pornography is harming men. That was another reason that was expressed by then CEO Jeremy in the companywide town
 
 Anchored Artifacts: 
-Mentions: N-367, N-3
+Mentions: N-366, N-3
 Related Nodes: N-10900, N-11116
 Supports: C-1982
 Tags: relevance:context
@@ -1285,7 +1285,7 @@ Claim: The host says another reason given for her firing was that, while speakin
 Transcript Snippet: I insinuated in an episode that I had done while I was at the Daily Wire when I was speaking about Michael Jackson that it's plausible that Hollywood is being run by a gang.
 
 Anchored Artifacts: 
-Mentions: N-3, N-740
+Mentions: N-3, N-738
 Related Nodes: N-10900, N-11116
 Tags: relevance:context
 Investigative Direction: Identify the Daily Wire episode and obtain the town hall record of whether it was cited.
@@ -1317,7 +1317,7 @@ Claim: The host says that after reading Justin Baldoni's lawsuit she concluded t
 Transcript Snippet: Even Justin Baldoni actually when I read the lawsuit and I realized they were trying to stage a hostile takeover of the rights to his movie.
 
 Anchored Artifacts: 
-Mentions: N-486, N-485, N-376
+Mentions: N-485, N-484, N-375
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Read the Baldoni and Lively court filings and rulings to test the host's takeover reading.
@@ -1381,7 +1381,7 @@ Claim: In the Amfest clip, Steve Bannon says Ben Shapiro tried to take over Brei
 Transcript Snippet: He tried to take over Breitbart and I ran him out of there.
 
 Anchored Artifacts: A-1591.1
-Mentions: N-390, N-97
+Mentions: N-389, N-97
 Related Nodes: N-10386
 Tags: relevance:context
 Investigative Direction: Compare Bannon's statement with Shapiro's account that he resigned, and with contemporaneous Breitbart reporting.
@@ -1397,7 +1397,7 @@ Claim: In the Amfest clip, Steve Bannon says Shapiro will make a move on Turning
 Transcript Snippet: he will make a move on Turning Point because he's always been envious of Charlie Kirk.
 
 Anchored Artifacts: A-1591.1
-Mentions: N-390, N-97, N-1, N-3
+Mentions: N-389, N-97, N-1, N-3
 Related Nodes: N-10386, N-10000
 Tags: relevance:context
 Investigative Direction: Obtain the full Amfest Bannon speech and any corroborating statements by those who knew Kirk and Shapiro.
@@ -1429,7 +1429,7 @@ Claim: The host says Andrew Breitbart dropped dead on March 1, 2012 of an appare
 Transcript Snippet: It was March 1st of 2012 when Andrew Breitbart dropped dead from an apparent heart attack.
 
 Anchored Artifacts: 
-Mentions: N-391
+Mentions: N-390
 Related Nodes: N-11119
 Tags: relevance:tangential
 Investigative Direction: Obtain the Los Angeles County coroner's report for Breitbart's death.
@@ -1445,7 +1445,7 @@ Claim: The host says Andrew Breitbart was stepping on some toes and saying he ha
 Transcript Snippet: he's starting to step on some toes, saying he has some information. Next thing you know, he's dead.
 
 Anchored Artifacts: 
-Mentions: N-391
+Mentions: N-390
 Related Nodes: N-11119
 Tags: relevance:tangential
 Investigative Direction: Identify what information Breitbart said he had, using his public statements from early 2012.
@@ -1461,7 +1461,7 @@ Claim: The host says a forensic technician involved in Breitbart's autopsy, name
 Transcript Snippet: a forensic technician that was involved with the autopsy also wound up dead from militarygrade arsenic poisoning.
 
 Anchored Artifacts: 
-Mentions: N-396, N-391
+Mentions: N-395, N-390
 Related Nodes: N-11119
 Tags: relevance:tangential
 Investigative Direction: Search for a death record, news report or coroner finding for Michael Cormier; no artifact was shown.
@@ -1477,7 +1477,7 @@ Claim: The host says Michael Cormier's wife says he would not have poisoned hims
 Transcript Snippet: And his wife says no, that's not what's he wouldn't just poison himself with military arsenic poisoning.
 
 Anchored Artifacts: 
-Mentions: N-396
+Mentions: N-395
 Related Nodes: N-11119
 Tags: relevance:tangential
 Investigative Direction: Find any published statement by Cormier's family.
@@ -1493,7 +1493,7 @@ Claim: The host says that after Breitbart died there was an internal war over th
 Transcript Snippet: There was an internal war that waged about what the direction of this healthy conservative company would be.
 
 Anchored Artifacts: 
-Mentions: N-391, N-390
+Mentions: N-390, N-389
 Related Nodes: N-10386
 Tags: relevance:context
 Investigative Direction: Review reporting on Breitbart News leadership disputes in 2012.
@@ -1525,7 +1525,7 @@ Claim: The host says that on March 13, 2016 Ben Shapiro and Michelle Fields both
 Transcript Snippet: So on March 13th, 2016, Ben and Michelle Fields doubly decided that they were going to leave Breitbart
 
 Anchored Artifacts: A-1590.1
-Mentions: N-97, N-393
+Mentions: N-97, N-392
 Related Nodes: N-10391
 Tags: relevance:context
 Investigative Direction: Check Fields's own resignation date and statement against March 13, 2016.
@@ -1541,7 +1541,7 @@ Claim: In the resignation statement read by the host, Shapiro says he met Andrew
 Transcript Snippet: I met Andrew when I was 17 years old and remained his friend until his tragic death.
 
 Anchored Artifacts: A-1590.1
-Mentions: N-97, N-391
+Mentions: N-97, N-390
 Related Nodes: N-10391
 Tags: relevance:context
 Investigative Direction: Verify against Shapiro's published March 2016 resignation statement.
@@ -1557,7 +1557,7 @@ Claim: The statement as read says that, in Shapiro's opinion, Breitbart News und
 Transcript Snippet: Indeed, Breitbart News under the chairmanship of Steve Bannon has put a stake through the heart of Andrew's legacy.
 
 Anchored Artifacts: A-1590.1
-Mentions: N-97, N-390, N-391
+Mentions: N-97, N-389, N-390
 Related Nodes: N-10391
 Tags: relevance:context
 Investigative Direction: Verify against Shapiro's published March 2016 resignation statement.
@@ -1573,7 +1573,7 @@ Claim: The statement as read says Michelle Fields's account of the incident with
 Transcript Snippet: That story was backed by audio tape, eyewitness testimony from the Washington Post's Ben Terrace, physical bruises, and a videotape.
 
 Anchored Artifacts: A-1590.1
-Mentions: N-393, N-394
+Mentions: N-392, N-393
 Related Nodes: N-10391
 Tags: relevance:context
 Investigative Direction: Verify against the published statement and the contemporaneous Washington Post reporting.
@@ -1589,7 +1589,7 @@ Claim: The statement as read says Breitbart undermined Fields by running, as its
 Transcript Snippet: they undermined Michelle completely by running a poorly evidence conspiracy theory as their lead story in which Michelle and Terrace had somehow misidentified Luwendowski.
 
 Anchored Artifacts: A-1590.1
-Mentions: N-393, N-394
+Mentions: N-392, N-393
 Related Nodes: N-10391
 Tags: relevance:context
 Investigative Direction: Retrieve the Breitbart News article from March 2016 and the dates it ran.
@@ -1637,7 +1637,7 @@ Claim: The host says, relaying Breitbart executives, that Shapiro and his best f
 Transcript Snippet: So he and his best friend Jaime Weinstein decided to cook up a scandal.
 
 Anchored Artifacts: 
-Mentions: N-97, N-392
+Mentions: N-97, N-391
 Related Nodes: N-10391, N-10386
 Tags: relevance:context
 Investigative Direction: Seek firsthand evidence from the unnamed Breitbart executives or contemporaneous communications.
@@ -1653,7 +1653,7 @@ Claim: The host says it was told to her that Jamie Weinstein is Michelle Fields'
 Transcript Snippet: the more relevant fact that was told to me is that Jaime Weinstein is Michelle Field's husband.
 
 Anchored Artifacts: 
-Mentions: N-392, N-393
+Mentions: N-391, N-392
 Related Nodes: N-10391
 Tags: relevance:context
 Investigative Direction: Check public marriage and biographical records for Weinstein and Fields (they are widely reported to have been married).
@@ -1669,7 +1669,7 @@ Claim: The host says it was later proved, when the tape was released, that Field
 Transcript Snippet: which was later proved that her bruises could not have been from Cory Luwendowski because the bruises that she showed were not where Cory Luwendowski when the tape finally got released where he touched her.
 
 Anchored Artifacts: 
-Mentions: N-393, N-394
+Mentions: N-392, N-393
 Related Nodes: N-10391
 Tags: relevance:context
 Investigative Direction: Review the released tape and the charges and outcome in the Lewandowski matter against the host's account.
@@ -1718,7 +1718,7 @@ Claim: The host says Shapiro's takeover pattern also covered David Horowitz's Fr
 Transcript Snippet: He is telling you the truth about what happened with David Har, which is Freedom Center, me, the Babylon B.
 
 Anchored Artifacts: 
-Mentions: N-97, N-194, N-3
+Mentions: N-97, N-193, N-3
 Related Nodes: N-10386
 Supports: C-2020
 Tags: relevance:context
@@ -1946,7 +1946,7 @@ Claim: The host says she found a message in which Charlie Kirk wrote that he was
 Transcript Snippet: Charlie writing to me ha like I'm not allowed to go anywhere without security
 
 Anchored Artifacts: A-2843
-Mentions: N-3, N-1, N-271, N-267
+Mentions: N-3, N-1, N-270, N-266
 Related Nodes: N-11034
 Tags: relevance:core
 Investigative Direction: Obtain the text and its date, and identify who arranged Kirk's security in TPUSA's early years.
@@ -1962,7 +1962,7 @@ Claim: The host says Charlie's older Jewish contact from Chicago, whom Charlie c
 Transcript Snippet: This was in 2018, early 2018. Okay.
 
 Anchored Artifacts: A-1593.1
-Mentions: N-1, N-3, N-397
+Mentions: N-1, N-3, N-396
 Related Nodes: N-10389, N-10422
 Supports: C-2023
 Tags: relevance:core
@@ -1979,7 +1979,7 @@ Claim: The host says Charlie told the older man he felt like a time traveler who
 Transcript Snippet: he was like a time traveler and he had to come back and he had to find me for some reason.
 
 Anchored Artifacts: A-1593.1
-Mentions: N-1, N-3, N-397
+Mentions: N-1, N-3, N-396
 Related Nodes: N-10389
 Tags: relevance:context
 Investigative Direction: Locate the earlier message the host says she showed viewers and the one containing the prisms of light account.
@@ -1995,7 +1995,7 @@ Claim: In the text read by the host, Charlie wrote that the older man will not t
 Transcript Snippet: He won't tell you what he saw. He hasn't told me intentionally, just that I'm there and it's bad.
 
 Anchored Artifacts: A-1593.1
-Mentions: N-1, N-397
+Mentions: N-1, N-396
 Related Nodes: N-10389
 Supports: C-2023
 Tags: relevance:core
@@ -2045,7 +2045,7 @@ Claim: The article as read says Austin Smith represented an Arizona House distri
 Transcript Snippet: Smith represented an Arizona House district in the Phoenix suburbs for one term before dropping his re-election bid in 2024 when questions arose about signatures on his nominating petitions.
 
 Anchored Artifacts: A-1592.1
-Mentions: N-395
+Mentions: N-394
 Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Check Arizona legislature and secretary of state records for Smith's term and resignation date.
@@ -2061,7 +2061,7 @@ Claim: The article as read describes Turning Point Action as the campaign arm of
 Transcript Snippet: So this was happening while he was at TurningPoint Action, the campaign arm of Turning Point USA, which has become a major force in Arizona Republican politics.
 
 Anchored Artifacts: A-1592.1
-Mentions: N-395
+Mentions: N-394
 Related Nodes: N-10925, N-10000, N-10390
 Tags: relevance:core
 Investigative Direction: Obtain the original article and confirm Smith's dates at Turning Point Action.
@@ -2127,7 +2127,7 @@ Claim: The host shows Maggie Wegner's Instagram page, gives the handle as maggsw
 Transcript Snippet: this is her Instagram page. It's maggswegner.
 
 Anchored Artifacts: A-2844
-Mentions: N-389, N-3
+Mentions: N-388, N-3
 Related Nodes: N-10385
 Tags: relevance:context
 Investigative Direction: Confirm the handle on Instagram.
@@ -2410,7 +2410,7 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (starting N-389)
+- [x] People nodes use the global people ledger (starting N-388)
 - [x] Non-person investigation targets use the 1000 series (N-10385+)
 - [x] No speculative claims were inscribed as evidence-backed claims
 - [x] Names are preserved exactly or uncertainty is noted
